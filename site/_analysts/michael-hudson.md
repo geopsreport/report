@@ -8,15 +8,2132 @@ websites:
   - https://michael-hudson.com/
   - https://geopoliticaleconomy.com/author/michael-hudson/
 summary: |
-  Amid ongoing global instability, recent developments highlight growing skepticism toward Western financial and political dominance. The European Union’s consideration of seizing Russian assets to fund Ukraine, as discussed by **Michael Hudson**, has intensified concerns among non-Western states about the security of their reserves. Hudson notes that this has triggered a marked uptick in gold purchases, as nations seek alternatives to dollar- and euro-denominated holdings. This shift signals a broader loss of confidence in the Western financial system, with Hudson asserting, “countries feel insecure about their wealth under the Western financial system.”
+  The past 48 hours have seen significant developments in both U.S. domestic politics and the global economic order, with implications for the future of Western hegemony and the structure of international finance.
   
-  Meanwhile, the debate over the future of neoliberal economics is gaining traction. In a recent exchange with Glenn Diesen, **Michael Hudson** argues that the neoliberal model—characterized by financialization and rentier dominance—may be reaching its limits. He contrasts this with classical economic theories that prioritized productive investment and societal progress, suggesting that the current system’s detachment from real goods production is unsustainable. The majority view among analysts is that the era of unchecked financialization is ending, with high likelihood of policy shifts toward more tangible economic activities.
+  The most notable new development is the unexpected victory of Zohran Mamdani, a Muslim socialist immigrant, in the New York mayoral election. Despite facing overwhelming financial opposition from established donor networks, Mamdani’s win signals, in the words of **Michael Hudson**, “a turning point for the Democratic Party and urban politics in America.” Analysts including **Nima Alkhorchid** and **Richard Wolff** agree that this outcome reflects a growing disconnect between traditional party elites and an increasingly mobilized, diverse urban electorate. The majority view is that this could embolden similar grassroots campaigns in other major U.S. cities, challenging the dominance of donor-driven politics. I guarantee this trend will continue to reshape the Democratic Party’s internal dynamics over the next election cycle.
   
-  On the geopolitical front, the legacy of U.S. covert operations remains under scrutiny. **Michael Hudson**, referencing comments by Senator Rick Scott, points to ongoing CIA activities aimed at destabilizing the Maduro government in Venezuela. This underscores the persistence of interventionist policies, even as global power balances shift and the effectiveness of such strategies is increasingly questioned.
+  On the international front, recent reports highlight the shifting landscape of global trade and finance. **Michael Hudson** notes that China has “resisted Trump’s demands” during the latest summit, maintaining its independent economic course, while Japan and Korea have shown greater willingness to align with U.S. interests. **Nima Alkhorshid** observed Trump’s “visible disappointment” during the bilateral handshake, underscoring the limits of U.S. leverage in Asia. There is high chance that China’s stance will further accelerate the decoupling of Asian trade from the Western financial system.
   
-  **Trends and Predictions:**  
-  The prevailing trend is a gradual erosion of trust in Western-led financial and political structures. The move toward gold and alternative reserves is expected to accelerate—there is a high chance that more countries will diversify away from Western assets in the coming months. The neoliberal economic paradigm faces mounting challenges, and it is quite likely that major economies will experiment with new models emphasizing real production over speculative finance. Finally, while U.S. interventionism continues, its long-term effectiveness is in doubt, with most analysts predicting diminishing returns for such strategies.
+  Meanwhile, the European Union’s ongoing consideration of seizing Russian assets to fund Ukraine’s war effort is driving a broader realignment in global finance. **Michael Hudson** emphasizes that this move has “undermined confidence in the Western financial system,” prompting a surge in gold purchases by countries seeking to protect their reserves from potential seizure. This trend is most definitely set to continue, with more states diversifying away from dollar-denominated assets.
+  
+  In summary, the current period is marked by the erosion of traditional political and financial power structures in the West, the rise of alternative political movements domestically, and a steady shift in the global economic balance. The majority consensus among analysts is that these trends will intensify, with high confidence in further fragmentation of Western-led systems and the emergence of new political and economic alignments.
 articles:
+  - title: Municipal Socialism Meets Donor Politics
+    url: https://michael-hudson.com/2025/11/municipal-socialism-meets-donor-politics/
+    text: '⁣NIMA ALKHORSHID: Hi, everybody. Today is Thursday, November 6, 2025, and
+      our dear friends, Richard Wolff and Michael Hudson, are here with us. Welcome
+      back, Richard and Michael. ⁣RICHARD WOLFF & MICHAEL HUDSON: Glad to be here. ⁣NIMA
+      ALKHORSHID: Let me start with what has happened in New York. And the mayoral election,
+      the outcome was someone — you look at him, all red lines are on him: he’s a Muslim,
+      socialist, immigrant — it’s amazing to see, you know, because the billionaires
+      invested, they paid more than, if I’m not mistaken, $40 million against him in
+      this campaign. And after all, [Zohran] Mamdani was successful in his way of getting
+      to the position. Michael, looking at what has happened in New York, what is your
+      understanding of what has happened, and what does it mean for the future of the
+      Democratic Party? ⁣MICHAEL HUDSON: Well, both parties are trying to spin the election.
+      The Democrats are trying to say, well, you see, we won. It’s all a rejection of
+      Trump. And the Republicans are trying to make it appear it’s all about socialism
+      — and look at the right-wing Democrats who won in Virginia and New Jersey. But
+      the fact is that both the Republicans and the Democratic parties lost, as a result
+      of New York City. All of the attention, as you’ve just pointed out, is on New
+      York City. Even though that was the most local election, it had a national scope
+      because it’s the future of not only the Democratic Party, but what the next year’s
+      midterm elections are going to be all about. The Republicans lost the elections
+      in New Jersey to the governor who wanted to lower the electric bills that have
+      been raised against the population; and Virginia elected a CIA Democrat, who obviously
+      is part of the right-wing part of the Democratic Party. So, the Democrats are
+      claiming a victory. But all of this was overshadowed by Mamdani’s victory in New
+      York City, and his win is what made the Democrats the loser, despite the fact
+      that the election was local. He was really running against the Democratic National
+      Committee; and its leaders have announced their outright hatred, not only for
+      him, but, for the last year, for Bernie Sanders, for AOC [Alexandria Ocasio-Cortez].
+      The Democratic National Committee is saying: We have to prevent the party from
+      turning left. We have to support Israel. We have to support Wall Street. We have
+      to oppose progressive taxation — and essentially [keep] doing what we’ve been
+      doing all along, being soft-core Republicans. And now all of that has been repudiated.
+      And so Mamdani was running not only against the disgraced former governor of New
+      York, Andrew Cuomo, not only against the Republicans, but really against all of
+      the money — the $40 million that you mentioned — that was all mobilized against
+      him. And in that sense, he was defined not simply by his program of providing
+      free bus rides and child care, but he was defined by his enemies, who were attacking
+      him by making all sorts of claims that he was a Marxist, a socialist — It’s as
+      if the newspapers are too embarrassed to say that there have been public opinion
+      polls (that Richard and I have mentioned before on your show), that the voters
+      prefer the word “socialism” to “capitalism.” “Socialism” isn’t a bad word. So,
+      by calling him “socialism” for wanting to improve transportation; “socialism”
+      for protecting tenants’ rights against landlords; “socialism” for improving the
+      lot of New Yorkers and progressively taxing wealth — he not only takes away the
+      Democratic base, but the Republican base for this. And the reason that the $40
+      million came from wealthy Zionists wasn’t because of his socialism. It was because
+      they’re trying to defeat him. [W]hat made people so passionate over this election
+      was the whole issue of Zionism — brought up by his opponents, such as the Democratic
+      Senate leader, Chuck Schumer, who refused to support Mamdani, saying that Mamdani
+      was defending the Palestinians against the Israeli bombing and he could not support
+      that. Well, what better support could you want from a New York population? And
+      the fact that over 70% of New York’s Jewish population voted for Mamdani shows
+      the attempt to slander him, how off-[putting] it is. And if you look at the only
+      districts that Mamdani lost, [they] were in the fundamentalist Orthodox Jewish
+      Brooklyn area, and Queens (near Long Island) — who, of course, saw that the election
+      was all about Zionism. A Wall Street Journal editorial today really, I think,
+      spells out the story best of all. It said, “If [New York Governor Kathy] Hochul
+      turns left [in next year’s election for the governor], she may defeat [her Lieutenant
+      Governor] Antonio Delgado, who will run from the Mamdani left. [But] [i]f Ms.
+      Hochul turns left, she may defeat Mr. Delgado but leave herself open to a likely
+      GOP [Republican] challenge from Rep. Elise Stefanik.” Well, Stefanik was the hectoring
+      lady in Congress, who attacked the presidents of Columbia [University] and Harvard
+      [University] for permitting protests against the Israeli attack on the Palestinians.
+      And she attacked these universities for not expelling students who opposed genocide,
+      students who said: The Palestinians are human beings, they’re civilians. This
+      is against the laws of war. It’s against all international law. She said: They
+      must be expelled, and any professor who gives voice to a Palestinian point of
+      view must be expelled from your university. Harvard and Columbia duly expelled
+      the professors, expelled the students from the university. And if that is what
+      the election for New York Senate is going to be all about next year, you can be
+      sure that this is going to be splitting the whole U.S. electoral campaign, just
+      as the split over Charlie Kirk has been splitting his right-wing Republican following
+      over the issue of Zionism. And that’s what the newspapers are hesitating from
+      [writing]. The Republicans are afraid to acknowledge that that is what the election
+      was about. They’re pretending that it was about Marxism. And it’s not about Marxism
+      at all. There’s nothing Marxist about providing subsidized education, so that
+      workers can afford to earn a lower salary from their employers and make their
+      employers more competitive. I mean, that’s basic 19th century classical-industrial-capitalist
+      strategy to become more competitive. It’s all really about the Zionist issue.
+      And in the Wall Street Journal (same issue), you have on the next editorial page,
+      a Jewish writer [worrying] — “[i]f socialists become the Democratic Party’s face”
+      [as Karl Rove wrote in the same issue] — he’s going to be afraid to wear his kippah
+      (his yarmulke) in public; and he bought a newsboy’s hat because he thinks that
+      somehow the Jewish population will be threatened. This is hysteria. And the hysteria
+      is part of what has really motivated, I think, Mamdani’s voters to say: We don’t
+      want any part of this. We’re not going to go along with this demagogy — at all.
+      Trump has already said that if New York voted for Mamdani, he’s going to pull
+      all public federal support for New York out. And the Republicans and Democrats
+      want to treat New York City like the United States and Europe treated Soviet Russia
+      after its revolution: try to do everything you can to oppose it, to drain it,
+      to isolate it, to make it harder to govern — and, then, say socialism doesn’t
+      work — when they have to spend all their time defending themselves. This is what
+      it’s going to be about. In fact, I just got (yesterday) this month’s The Nation
+      magazine, the left-wing magazine from the last century. And there’s an article
+      about how the black caucus in the United States (the representatives in Congress),
+      has been dominated by AIPAC [American Israel Public Affairs Committee], saying
+      that if they do not follow the AIPAC pro-Zionist line, they will be opposed; and
+      AIPAC will fund their opponents in order to, essentially, mobilize election money
+      for Zionism. So, somehow this issue has overwhelmed the whole electoral process
+      here. ⁣NIMA ALKHORSHID: Richard, looking at who voted for Mamdani, the young people
+      under the age of 30, more than 75% voted for Mamdani. And here is what Donald
+      Trump [posted] before the election happened: “Any Jewish person that votes for
+      Zohran Mamdani, a proven and self-professed JEW HATER, is a stupid person!!!”
+      And we know that Bernie Sanders, since the Democrats, they didn’t want to support
+      Mamdani, but Bernie Sanders went after him. And we know what has happened to Bernie
+      Sanders during the presidential election. This time, he came and supported Mamdani.
+      In those days, [Sanders] had nobody to support him against Hillary Clinton. But
+      what’s your understanding of what has happened? ⁣RICHARD WOLFF: Well, I’m coming
+      at it from a little bit of a different perspective from Michael, but I think they’re
+      complementary [perspectives], or they can go together. I want to talk about the
+      history here, because I think this is a historic shift. It began with Bernie —
+      no question. It was given an extra boost by Alexandria Ocasio-Cortez and the group
+      of young women who came into prominence with her. And now it has taken a quantitative
+      new additional leap with the election of Mamdani. But I want to talk about the
+      hysteria in historical perspective. It ranges from the pathetic to the ridiculous.
+      I mean, we are watching — whether it’s the Wall Street Journal , or Elise Stefanik,
+      or anything like that — spewing their hysterical reaction that makes no sense.
+      It’s a revelation of their ignorance. They ought to be embarrassed, and they will,
+      one day. What do I mean? Mamdani is a Democratic Socialist. He emphasizes the
+      phrase “Democratic Socialist,” which he has every right to do. It is a kind of
+      socialism that he advocates. It’s very close to what used to be called “municipal
+      socialism.” Why? Because it is the kind of limited, moderate policy changes that
+      mayors have tried to do in American and in foreign cities — for the last two centuries!
+      It is not revolutionary. It doesn’t usher in anything like the hysterical remarks
+      being made by Americans. You know what this response shows? It shows that for
+      75 years, since the end of the Second World War, the United States has buried
+      its head in the sand, pretended that socialism, communism, Marxism, are all something
+      evil and horrible — over there. They haven’t understood how it developed. They
+      don’t understand the different points of view within socialism. None of it. They
+      don’t know or care. And so they see a socialist, they don’t understand how to
+      understand it, other than in their underdeveloped, 75-year, out-of-date backwardness.
+      Let me get at this a second way. Someone once counted up: seventy-five American
+      cities in the history of this country have had mayors who were socialists, and
+      said so. I know from my research — I did a lot of work once on the mayoralty in
+      Bridgeport, Connecticut. I did that because I ran for mayor of the city of New
+      Haven, Connecticut, which, like Bridgeport, is one of the three sizable cities
+      in the state of Connecticut. Bridgeport had a socialist mayor for many years.
+      Nothing of the sort of the hallucinations of the right wing happened in Bridgeport
+      during the time of their mayor. Ditto, Milwaukee. Ditto, all the 75 [cities].
+      Number one. Number two. Right now in Europe, there are socialist mayors. A number
+      of the major cities of Europe — by the way, places like Paris, London, Milan,
+      and so on, are governed by socialists, or have been at various moments in their
+      history — nothing of the fantasy-horrors that are being spun out in the American
+      media ever happened there. Socialist parties are regular participants in every
+      country in Europe, and beyond. But I want to talk about Europe, otherwise, I’ll
+      take too much time. So, what you’re seeing in the response of the right wing in
+      this country is a sign of its utter ignorance, bad education — and being, as I
+      say, 75 years out of date: talking like they talked back in the days of the House
+      Un-American Activities Committee. Think of the very name — ridiculous, you know,
+      as if they have the sole authority to decide what is, and isn’t, American. It’s
+      a joke. That’s the first thing. The second thing. It’s important to understand
+      that this is a sign of real serious trouble. This is something Michael and I have
+      tried very hard to get across. My language: it’s a decline of our empire. It is
+      a series of problems, many of which Michael has very, very creatively shown us:
+      how they’ve accumulated; what their history is; how the people in charge have
+      not solved these problems, have basically kicked them down the road, during which
+      time they have accumulated and gotten worse. If you don’t solve your medical problems,
+      they get worse; you don’t solve your psychological issues, they get worse. Well,
+      it’s in economics, as well. And this is a sign that the people of New York, who
+      aren’t that different from people anywhere else, made a decision. And here’s what
+      I think the election showed. Mr. [Curtis] Sliwa (the Republican) and Mr. Cuomo
+      (the Democrat) represent, in their totality, the same old, same old, same old.
+      Literally — Sliwa has been a candidate for as long as I can remember here in New
+      York. And as we all know, Cuomo was a governor, he worked with the Clintons, and
+      blah — it’s all the same. And nothing either of them said gave anyone any reason
+      to believe that they would be, in the future, any different from the nothing that
+      they were in the past. Therefore, Mr. Mamdani had an unbelievable opportunity.
+      All he had to do — and by the way, I don’t take away anything. He ran a brilliant
+      campaign. He’s very successful. He deserves everybody’s amazement and congratulations.
+      So, I don’t want any confusion in what I’m about to say — but he cashed in, as
+      successful politicians always do, on something much bigger, and different, from
+      himself. He was the obvious, different, new change. He embodied it: a Muslim in
+      New York, a socialist in this country. Wow. Who would have thought it? Things
+      are changing. Of course, young people come (75%). They want change. They know
+      that the “American Dream” promised to them is not available anymore. No one has
+      to persuade them. They’re already there. They want change. And looking at Sliwa
+      and Cuomo and Mamdani? That’s easy, where your best chance for change is! Now,
+      the last point. Yes, he’s a socialist. And I don’t know exactly what that means
+      to him, since I’m very aware that socialism means very different things to different
+      people. The Soviet Union was one kind of socialism. Norman Thomas, who was the
+      great leader of the American socialists for many years, was a deadly opponent
+      of the Soviet Union, and all that it stood for. So that shows you that people
+      who wanted the name “socialist” could mean very different things. There’s a Trotskyite
+      tradition, which goes in yet another direction. The current people who lead China
+      refer to their country as “socialism with Chinese characteristics.” Okay, where
+      in all of that does Mamdani fit? Well, America is too backward in this area to
+      be even able to ask the question. So, everyone’s fantasy of what it might mean
+      just blurts out — and I mean the pages of the New York Times and the Wall Street
+      Journal — it’s embarrassing, that you know so little that you don’t even understand
+      this “socialism” of Mamdani, who calls it “democratic,” and who tells you, quite
+      clearly, what he plans to do! This is a remarkable statement, but it carries enormous
+      implications, also for the emerging new left in the United States; because he,
+      like Ocasio-Cortez, and like Bernie, [they] are going to be the standard-bearers.
+      By virtue of what has happened, they are going to be “socialism.” But I guarantee
+      you what I’m about to say is true. (I don’t believe in prediction — I can’t predict
+      anything, and nobody else can — but I’m going to do it anyway.) The other kinds
+      of socialism are waiting in the wings. They will emerge now. Why do I say that?
+      Because they have everywhere else on this planet; so they’re going to do that
+      here, too. So, a word to the wise, if they’re smart enough to listen. Mr. Bloomberg
+      (who gave the most money); or the owner of Airbnb (who gave a lot of money); or
+      Home Depot’s Mr. [Ken] Langone (who gave a lot of money); let me give you a piece
+      of advice: You better be glad that Mamdani won, because the other socialists coming
+      down the road are going to be a lot worse for you than he will be. That’s the
+      reality. But that’s also a challenge to Mr. Mamdani. He also has to face the scale
+      of his solutions, which, I suspect, he knows, is inadequate to the scale of the
+      problems he faces: You are not going to solve the problems of the United States
+      (that we have been spending months on this program, trying to clarify and explain).
+      You’re not going to solve them — not with free buses; and not with public grocery
+      stores in food deserts; and not with a 2% tax on wealth above $100 million; or
+      whatever it is that is his [program] — It’s perfectly good as a program. I’m glad
+      he’s putting it forward. But here’s the problem — and he should learn from Mr.
+      Trump. This was a resounding defeat for Mr. Trump. And you know why? Not because
+      of how he speaks, or the extreme stuff he does. (I wish it were a defeat for those
+      reasons — but it wasn’t.) It was a defeat because what he’s doing, Mr. Trump,
+      cannot, will not, and did not solve the problems he inherited. His Big Beautiful
+      (tax) Bill makes those problems worse. His tariff program, whether or not the
+      Supreme Court allows it, doesn’t solve these problems. It can’t. That, Mr. Mamdani,
+      you have to understand, too. You, too, will be confronted, like Trump, with asking
+      the difficult question: What has to be done to deal with the actual problems we
+      have? You can do it, but you have to admit that that’s the case. Otherwise, you
+      will discover — like Mr. Trump is discovering — that promising people quick-and-easy
+      solutions — as if they were available, and as if you could deliver them — doesn’t
+      work. And it will turn those people away from you. And that’s what happened to
+      him. And it’s going to happen to him more, and more, and more. And as it does,
+      the people around him will abandon him. It’s already happening, and it will happen
+      more. But the cautionary tale is, that problem confronts the left as well. ⁣MICHAEL
+      HUDSON: Thank you, Richard, for reminding us about municipal socialism in America.
+      That always has been one of the forces behind socialism. In the 1950s when I grew
+      up, it was Robert La Follette [Jr.] of Milwaukee who led this whole reform, and
+      it made all of Wisconsin progressive. And the city where I grew up (Minneapolis)
+      was, I think, the only Trotskyist city in the entire world, that led to the Minneapolis
+      general strikes of the 1930s. And even the governor of Minnesota, Floyd B. Olson,
+      said he hoped capitalism went right to hell. That got him re-elected! You could
+      say that socialism in America demonstrated the way in which it worked from the
+      only place where it had a chance of doing that — and that was at the local level.
+      I want to get back to the national level in this case, because the national level
+      is where the money comes in for campaigning for the local level. And what terrifies
+      both the Democrats and the Republican Party leadership is that most of the midterm
+      elections are going to be, as I said, over Zionism and the Israeli violence in
+      Gaza and the West Bank. That was the issue that was largely responsible for the
+      Democrats’ loss in the November presidential election. As Jill Stein and I forecast
+      in our interviews with you, Nima, the Islamic voters in Pennsylvania, Michigan,
+      and Minnesota, refused to vote for the Democrat Kamala Harris because of her reliance
+      on Zionist donors and her steadfast support of Israel First. And that is one of
+      the reasons why yesterday’s Democratic victories in New Jersey and Virginia were
+      much stronger margins for the Democrats than the presidential vote for Harris.
+      She was unpopular because she continued Biden’s pro-war policy, the policy that
+      Trump has escalated in making the wars in Ukraine, Israel — now Venezuela and
+      Nigeria — his war. So, there’s a movement to oppose any candidate that’s receiving
+      election financing, basically, from AIPAC. And that’s threatened to become a litmus
+      test for candidates. The Democrats’ opposition to the National Committee is going
+      to be: Will you refuse to vote for any politician who receives money from AIPAC?
+      Well, AIPAC already realized this, and said: We’ve got to create a Zionist pro-Israel
+      campaign system that’s not AIPAC, that’s funded by the wealthy billionaires from
+      Silicon Valley, and other billionaires who are defending Israel. The fight against
+      Mamdani is, in that sense, going to be a fight by politicians to keep receiving
+      campaign contributions for themselves — above all from AIPAC, but also from other
+      donors with special interests. And that’s what the entire American political election
+      system has turned into. The election system has been privatized in this country,
+      and sold to the donor class. That is the consequence of the Supreme Court’s ruling
+      in Citizens United, that any corporations and any donor can give as much money
+      as they want to politicians. There is no limit at all. Well, Mamdani came in with
+      much less funding than anyone else, and won. So he’s challenged this whole system,
+      but he’s raised the issue for what’s going to be the statewide elections and for
+      next year’s national elections in the United States: How is American politics
+      going to survive this privatization and financialization of elections? If it doesn’t
+      solve this, then the United States is going to be a failed state politically,
+      because the right-wing demand for “originalism” in the Supreme Court is to say,
+      well, what would the slave owners who wrote the Constitution rule today? Well,
+      they would back all of the right wingers. And you had the same fight occur in
+      Athens, in the 4th century BC. What was the original Constitution of Solon? What
+      did Solon really do? Well, there were rival views of what the Constitution was
+      all about. One of the upshots of this New York election and municipal socialism
+      is going to be the whole issue of, basically, oligarchy and campaigns. And that’s
+      why Mamdani has again and again used the word “oligarchy.” And that’s where he’s
+      distinguishing himself from others. And the issue? Really, it’s not Marxism; it’s
+      not socialism as such because there are so many different kinds of socialism,
+      as Richard has pointed out. It’s oligarchy versus real democracy, which means
+      policies that are enacted to protect the population at large — of tenants, of
+      wage-earners, of the bottom 90% of the population — not just the top 10%, as we’ve
+      been talking about. So, this is exactly what the 2026 Senate elections are going
+      to be about. And if AOC runs against Chuck Schumer, trying to unseat him — same
+      thing with the House of Representatives — you’re going to have the Democrats,
+      particularly, running against Bernie Sanders, AOC, [against] any attempt to have
+      public health care because that threatens to cut off their own flow of election
+      contributions from the special interests. So, all of this goes beyond political
+      ideology itself. It has to do with the whole structuring of the political system.
+      And that’s why both the Republicans and the Democrats were so shocked by Mamdani’s
+      win, and why his win is so historical — if it will actually change things. People
+      have been saying: Well, look at how Bernie and AOC ended up surrendering to [Nancy]
+      Pelosi and Schumer, and just going along with the Democratic majority. They were
+      co-opted. Well, Mamdani is free of the pressure that was brought against both
+      Bernie Sanders and AOC because there’s no party above him as Mayor of New York.
+      There’s no one who can tell him what to do, or say: If you don’t support this
+      policy, we won’t put you on a powerful committee, a such-and-such committee; or
+      we won’t give you any voice. He now has the voice to do what he wants. Today he
+      appointed Lina Khan, Biden’s excellent anti-monopoly lawyer, as one of his co-chairs
+      for his mayoral [transition] campaign. He’s bringing all the progressives on this
+      [transition] team with him. And what he’s going to be doing is not simply a personal
+      fight for New York — he’s a very gifted politician, he’s a natural as a politician,
+      for any of you who’ve listened to his victory speech the other night. It’s really
+      a whole — his team will say: There is an alternative, and there’s no other alternative
+      on the schedule; and we’re going to start with this alternative on a New York
+      scale, if we can. And if we’re opposed by Trump and by the federal government,
+      trying to starve us for transportation funds and all the federal funds that come
+      in; if Trump sends in the National Guard to begin arresting citizens — one of
+      Trump’s supporters yesterday said he wants ICE (the Immigration authority), to
+      look at Mamdani’s citizenship application, and said: Was there anything wrong?
+      Was there a typographical error? If so, let’s deport him back to Africa. You already
+      have seen that breaking out yesterday. That’s the stakes that we’re seeing in
+      what is going to be the policies he has for mayor. ⁣NIMA ALKHORSHID: Richard,
+      I think the main point, what Michael just said, is so important: Who’s going to
+      be on his team and what would be the policies that he’s going to adopt? After
+      all, we know that the status quo doesn’t work in the United States. That’s why
+      people are voting for Mamdani and people like him. And it’s not just about the
+      Democratic Party. Within the Republican Party, the same thing is happening. And
+      here is just a short clip of what Tucker Carlson said. LINDSEY GRAHAM (CLIP):
+      […] the Republican Party. We’re killing all the right people and we’re cutting
+      your taxes. ⁣TUCKER CARLSON (CLIP): Cutting your taxes, and killing all the right
+      people. That really is the crispest way to describe the marriage of libertarian
+      economics and neocon foreign policy: cuttin’ taxes and killin’. And if you think
+      about it, who’d want to be associated with that? Cutting taxes itself is hardly
+      a virtue. It’s a contextual matter. Sometimes it is, sometimes it is. It totally
+      depends. But in Lindsey Graham’s simplistic-but-heartfelt formulation, cutting
+      taxes is just a positive good, always. And so is killing people. Killing the right
+      people. No, they got to be the right people, but killing people. Killing people
+      is just a good thing. Like, it’s one of the things you don’t need to describe
+      […] ⁣NIMA ALKHORSHID: Yeah. ⁣RICHARD WOLFF: You know, the problem with Tucker
+      Carlson is he doesn’t understand how far that reaches, so he can only come up
+      with the examples that he comes up with. But let me take it another step, because
+      it’s all about what Mamdani is going to have to do. When Mr. Trump comes into
+      office, he has a problem. The American national debt has ballooned faster than
+      anything else. What is it now? $35 trillion, or more than that. In a very short
+      time, it went from a few hundred billion to $35 trillion — out of control national
+      debt. So bad that we lose our AAA credit rating. So bad that we get statements
+      by lenders that they don’t want to lend to the United States anymore because they’re
+      not confident in the ability to pay — which is why you don’t have a AAA rating.
+      So, he comes in, and he’s got a problem. He’s going to do something. He promises
+      he’s going to do something about this national debt, about the ability of the
+      United States to borrow. And for those who don’t understand, a reminder: Every
+      major war, starting in Vietnam, that we have fought in recent time has been paid
+      for by borrowing; and the reason is you cannot fight these wars if you were to
+      make the American people pay the tax to pay for it, because they’d oppose it right
+      from the beginning. Now it takes a year to get into these wars before the American
+      people begin to realize the hopeless[ness] and pointlessness of it — for them.
+      So, you’ve got to be able to borrow. You cannot run your foreign policy. You can’t
+      even run your government. Why is that? Very simple. We have a politics in which
+      corporations and the rich demand of the government all kinds of services — but
+      they don’t want to pay taxes. And by donating — or not — they can force the politicians
+      not to tax them. Okay? What about the mass of people? They want the government
+      to give them all kinds of benefits: schooling, hospitals, roads, policing, fire
+      department, you name it. And they don’t want to pay taxes — but they’ve been forced
+      to. The burden of taxation, as anyone knows who studies it, has been shifted,
+      over the last century, from corporations and the rich to the average person, the
+      middle class. That’s what’s happened. So, Mr. Trump comes into office after this;
+      but he’s got a problem. He can’t just borrow some more. He did that in his first
+      presidential run, and everybody pointed out, you didn’t solve the government’s
+      debt, you made it worse — which, of course, was true because he inherited the
+      structure that was doing that before him, did it during him, and did it after
+      him under Biden. So, what is he going to do? The only thing he knows: try to do
+      what Republicans do — more so. What does that mean? Don’t tax corporations and
+      the rich. Once again, the first act of his new presidency, the current second
+      term, Big Beautiful (tax) Bill — extend the tax cuts of the first regime, and
+      add a few more — which is what he did. So, what’s left? There’s no way to reduce
+      the government debt if you’re not going to tax the corporations and the rich.
+      You dare not tax the mass of people because that’s your political base. So, what
+      do you do? There’s only one thing left. You have to cut expenditures. The first
+      phase he does with Elon Musk, and he raises the banner, Efficiency: I’m going
+      to cut the government, by efficiency. And when that runs out of gas, and runs
+      into every difficulty imaginable, he has to drop it. He kicks Mr. Musk to the
+      curb, throws him under the bus, and comes up with a new way to save money called
+      the government shutdown that we’re living through. That’s as fanciful nonsense
+      as the efficiency bullshit was before. All he’s doing — and of course, this is
+      not enough — he’s trying to save money so he can do something about the national
+      debt, which he’s inherited. But he can’t do it on the scale that will make a difference.
+      So, he’s stuck. And you know how he knows he’s stuck? Because of the elections
+      two days ago. That’s his sign: You’re stuck, Jack. The collection of things you’re
+      doing adds up to people finding reasons not to vote for you, or for the people
+      you endorse. Everyone he endorsed lost. Everyone he opposed won. Not just Mamdani.
+      And I understand what Michael said about the other Democrats. They’re nothing
+      to write home about, but those were the people that Trump was able to defeat before
+      — can’t do it anymore. That is a problem. Michael is right: Mamdani is going to
+      face every conceivable kind of obstacle, opposition. If he begins to do the things
+      he’s going to have to do, that opposition will get worse. But if he doesn’t do
+      it, he’s going to find the same sad story. The people who voted for him are giving
+      him a chance. But if he doesn’t produce, they will vote against him next time.
+      They really will. And they’ll have a lot of help doing that. New York City is
+      the home to more billionaires in this country than any place else — so, he’s got
+      ‘em. England has a whole bevy of laws, in case he needs them, that require anyone
+      who leaves Britain to pay for all the benefits they got while they were in Britain,
+      as a condition of leaving. Oh, oh. Here, billionaires threaten to leave, and nobody
+      dares say anything. Will Mr. Mamdani have the courage and the foresight to know
+      he cannot give the same answer? He has to go — not just because that will pay
+      for his programs, which it will. His programs are modest. If you look at the cost
+      of grocery stores and free bus rides, it’s not expensive, relative to the budget
+      of the City of New York, anyway. But he has to do it. He has to do it for political
+      reasons. And he has to have advisors who are able and willing to see, and to help
+      him navigate that situation. ⁣MICHAEL HUDSON: I think you’re right about the fact
+      that many of the reforms that he can do don’t cost more money. For instance, one
+      of the things he can do to support tenants’ rights is you end the building department
+      corruption that was inherited from [the] Mayor [Ed] Koch regime and from [Rudolph]
+      Giuliani, where the building departments run by the developers have enabled developers,
+      like Trump, to simply tear down landmark buildings without really being fined
+      more than a token cost of doing business. The developers have run the city; and
+      the landlords have run the city courts against the tenants. And by providing public
+      lawyers for the tenants, you can defend against the landlord interests in these
+      tenant courts. And the fact that Mamdani has said that New York is unlivable —
+      with an average rent of over $4,500 a month in New York, who can afford to actually
+      live here if you don’t inherit enough money, [or] get a [high-paying] job? He
+      can tax Wall Street, as you said. That’s really the key. Are these billionaires,
+      concentrated in New York City as the nation’s financial center, really going to
+      move out? Well, hard to move to Florida these days, with all of the hurricanes
+      threatening the property there. There’s really nowhere for them to move out. So,
+      of course, he can raise the rents. He’s going to have to drag the city council
+      and other agencies along. It would be nice if he can drag the current center-right
+      Governor Hochul around to imposing the (originally higher) charges for driving
+      your automobile into the city that is still paralyzing traffic here. And the subways
+      have spent all of the money to help developers on the upper east side from the
+      Second Avenue extension, so that they have not fixed the subways going outside
+      of Manhattan — to Queens, to Brooklyn, and to the Bronx. (Last night, my wife’s
+      45-minute trip took her an hour and a half, including sitting in the dark for
+      over half an hour when the electricity was turned off on the line to where we
+      live in Forest Hills, Queens.) The subways are falling apart — which is where
+      most of the wage-earners live, who have to earn a living in Manhattan, and can’t
+      afford to live there anymore because of the rents. So, all of these things can
+      be done without much money. The money squeeze, I think, is not going to be from
+      what Mamdani does, but from the withdrawal of state and federal support that has
+      been subsidizing New York — as long as it was pro-landlord, pro-Wall Street, pro-oligarchy
+      — all along. That’s going to be a fight. And again, that fight is going to be
+      more than just a municipal fight. It’s going to be a national fight, against municipal
+      socialism and the obvious things that Mamdani has promised, which is why he got
+      so many good followers from the beginning. ⁣NIMA ALKHORSHID: Richard, I think
+      this is a huge opportunity for a socialist working in New York City. How helpful
+      could Bernie Sanders be for this sort of movement in New York City? And how is
+      [Mamdani] going to use the experience of Bernie Sanders? What do we know about
+      the relationship between the two? ⁣RICHARD WOLFF: Well, at this point, the first
+      answer is he could use help from Bernie Sanders, all the time. I mean, he needs
+      Bernie to be out there helping him carry the message, if you like, nationwide.
+      Bernie is at the top of many polls. People should know this. There are people
+      who go around asking the question: In your judgment, as an American citizen, who’s
+      the most popular politician you can think of? And Bernie wins that contest, over
+      and over, because even though he didn’t win the election, he, therefore, has none
+      of the negativity. He hasn’t had to face promises made that he couldn’t deliver
+      on — because people didn’t give him the job. So, he’s able to say: I told you
+      so. This needs to be done. You didn’t do it. And so we have a problem. And that’s
+      a very much better position to be in, when an empire is declining, because you’re
+      going to be facing losses, one after the other. I mean, let me remind people —
+      because Americans don’t want to face it — that, for example, the CEO of NVIDIA,
+      Mr. [Jensen] Huang, gave a speech yesterday, in which he basically said that we
+      should understand that the artificial intelligence revolution has now been won,
+      and the winner is the People’s Republic of China. This is true across the board
+      — militarily, politically, economically. The BRICS alliance is exploding in the
+      world. It has lots of problems, of course. It encompasses very different political
+      and economic — I don’t want to make it simple — and it’s not all pro-Chinese,
+      or anything like that — but it’s a viable alternative. The power of Mr. Trump
+      — the last cudgel he could use on the rest of the world to beat them into shape
+      — is: I won’t let you come and trade here. I won’t let you buy here. I won’t let
+      you sell here. You’re going to have to give me a lot of money, if you want to
+      sell your goods here. I’ll only hit you with a low tariff, if you make big [investments]
+      — He’s demanding tribute from the whole world. But it’s too late. It would have
+      had to have been done 20 years ago. It might have worked then. But it wasn’t necessary.
+      Now that it’s necessary — too late. That happens often in history. The BRICS are
+      the alternative. China is turning to them, and they to China. The United States
+      is, in a busy way, isolating itself. That’s the reality. And that is going to
+      implode on the United States in many ways. Mr. Mamdani, whether he wishes it or
+      not, is going to be finding himself in the following situation: What can a socialist
+      do (about what I’ve just said) to distinguish a better socialist response to a
+      declining empire, than a capitalist one? And that’s where Bernie and Ocasio-Cortez,
+      that’s where they come, because they are the national and, therefore, the appropriate
+      international. Let me be daring and say something that people may remember: There
+      are two ways for the United States to deal with the People’s Republic of China.
+      One is aggressive, hostile maneuver[ing]: that’s what we got. Here’s an alternative:
+      Sit down, divide the world up in such a way that both of you can find opportunities
+      to grow and to develop. What might it mean if socialists became advocates of that
+      second approach, as part of a transformation of the United States? Wow. Might
+      that bring to them a level of support, if only from all of the Americans who already
+      worry that the relation with China is on its way to nuclear war? Wow. A socialist
+      movement worthy of the name has to think like that, has to have the large — as
+      well as the public grocery store in the food desert. And I wish there were enough
+      socialists to divide the labor, but there isn’t. So, Mr. Mamdani, who’s going
+      to be the face of socialism for a while, it’s up to him. He can mobilize Bernie
+      and Ocasio-Cortez — probably — if he understands the situation he’s actually in.
+      ⁣NIMA ALKHORSHID: Michael? ⁣MICHAEL HUDSON: Richard made the point. You’re right.
+      The socialists have always been against war because most wars are against socialism.
+      ⁣NIMA ALKHORSHID: Yeah. Thank you so much, Richard and Michael. Great pleasure,
+      as always. ⁣RICHARD WOLFF: Yeah, this was an important conversation, made possible
+      by an important election. And I think we will be talking about the implications
+      and ramifications many times in the future of these conversations. ⁣NIMA ALKHORSHID:
+      Exactly. Yeah. Thank you so much. See you soon. See you next week. Bye-bye. Transcription
+      and Diarization: https://scripthub.dev Editing: Kimberly Mims Review: ced Photo
+      by ben o’bro on Unsplash The post Municipal Socialism Meets Donor Politics first
+      appeared on Michael Hudson .'
+    one_sentence_summary: In a discussion about the recent New York mayoral election,
+      Nima Alkhorchid, Richard Wolff, and Michael Hudson analyze the surprising victory
+      of Muslim socialist immigrant Zohran Mamdani despite significant financial opposition,
+      reflecting on its implications for the future of the Democratic Party.
+    paragraph_summary: In a discussion on November 6, 2025, Nima Alkhorchid, Richard
+      Wolff, and Michael Hudson analyzed the recent New York mayoral election, where
+      Zohran Mamdani, a Muslim, socialist immigrant, triumphed despite significant opposition
+      funding exceeding $40 million from billionaires. Hudson noted that both major
+      political parties are attempting to spin the election results to their advantage,
+      with Democrats framing it as a rejection of Trump and Republicans portraying it
+      as a backlash against socialism. However, he argued that both parties ultimately
+      lost, as Mamdani's victory overshadowed other local elections, indicating a significant
+      shift in the political landscape that could impact the future of the Democratic
+      Party and the upcoming midterm elections.
+    published: '2025-11-10T16:55:56+00:00'
+  - title: Municipal Socialism Meets Donor Politics
+    url: https://michael-hudson.com/2025/11/municipal-socialism-meets-donor-politics/
+    text: '⁣NIMA ALKHORSHID: Hi, everybody. Today is Thursday, November 6, 2025, and
+      our dear friends, Richard Wolff and Michael Hudson, are here with us. Welcome
+      back, Richard and Michael. ⁣RICHARD WOLFF & MICHAEL HUDSON: Glad to be here. ⁣NIMA
+      ALKHORSHID: Let me start with what has happened in New York. And the mayoral election,
+      the outcome was someone — you look at him, all red lines are on him: he’s a Muslim,
+      socialist, immigrant — it’s amazing to see, you know, because the billionaires
+      invested, they paid more than, if I’m not mistaken, $40 million against him in
+      this campaign. And after all, [Zohran] Mamdani was successful in his way of getting
+      to the position. Michael, looking at what has happened in New York, what is your
+      understanding of what has happened, and what does it mean for the future of the
+      Democratic Party? ⁣MICHAEL HUDSON: Well, both parties are trying to spin the election.
+      The Democrats are trying to say, well, you see, we won. It’s all a rejection of
+      Trump. And the Republicans are trying to make it appear it’s all about socialism
+      — and look at the right-wing Democrats who won in Virginia and New Jersey. But
+      the fact is that both the Republicans and the Democratic parties lost, as a result
+      of New York City. All of the attention, as you’ve just pointed out, is on New
+      York City. Even though that was the most local election, it had a national scope
+      because it’s the future of not only the Democratic Party, but what the next year’s
+      midterm elections are going to be all about. The Republicans lost the elections
+      in New Jersey to the governor who wanted to lower the electric bills that have
+      been raised against the population; and Virginia elected a CIA Democrat, who obviously
+      is part of the right-wing part of the Democratic Party. So, the Democrats are
+      claiming a victory. But all of this was overshadowed by Mamdani’s victory in New
+      York City, and his win is what made the Democrats the loser, despite the fact
+      that the election was local. He was really running against the Democratic National
+      Committee; and its leaders have announced their outright hatred, not only for
+      him, but, for the last year, for Bernie Sanders, for AOC [Alexandria Ocasio-Cortez].
+      The Democratic National Committee is saying: We have to prevent the party from
+      turning left. We have to support Israel. We have to support Wall Street. We have
+      to oppose progressive taxation — and essentially [keep] doing what we’ve been
+      doing all along, being soft-core Republicans. And now all of that has been repudiated.
+      And so Mamdani was running not only against the disgraced former governor of New
+      York, Andrew Cuomo, not only against the Republicans, but really against all of
+      the money — the $40 million that you mentioned — that was all mobilized against
+      him. And in that sense, he was defined not simply by his program of providing
+      free bus rides and child care, but he was defined by his enemies, who were attacking
+      him by making all sorts of claims that he was a Marxist, a socialist — It’s as
+      if the newspapers are too embarrassed to say that there have been public opinion
+      polls (that Richard and I have mentioned before on your show), that the voters
+      prefer the word “socialism” to “capitalism.” “Socialism” isn’t a bad word. So,
+      by calling him “socialism” for wanting to improve transportation; “socialism”
+      for protecting tenants’ rights against landlords; “socialism” for improving the
+      lot of New Yorkers and progressively taxing wealth — he not only takes away the
+      Democratic base, but the Republican base for this. And the reason that the $40
+      million came from wealthy Zionists wasn’t because of his socialism. It was because
+      they’re trying to defeat him. [W]hat made people so passionate over this election
+      was the whole issue of Zionism — brought up by his opponents, such as the Democratic
+      Senate leader, Chuck Schumer, who refused to support Mamdani, saying that Mamdani
+      was defending the Palestinians against the Israeli bombing and he could not support
+      that. Well, what better support could you want from a New York population? And
+      the fact that over 70% of New York’s Jewish population voted for Mamdani shows
+      the attempt to slander him, how off-[putting] it is. And if you look at the only
+      districts that Mamdani lost, [they] were in the fundamentalist Orthodox Jewish
+      Brooklyn area, and Queens (near Long Island) — who, of course, saw that the election
+      was all about Zionism. A Wall Street Journal editorial today really, I think,
+      spells out the story best of all. It said, “If [New York Governor Kathy] Hochul
+      turns left [in next year’s election for the governor], she may defeat [her Lieutenant
+      Governor] Antonio Delgado, who will run from the Mamdani left. [But] [i]f Ms.
+      Hochul turns left, she may defeat Mr. Delgado but leave herself open to a likely
+      GOP [Republican] challenge from Rep. Elise Stefanik.” Well, Stefanik was the hectoring
+      lady in Congress, who attacked the presidents of Columbia [University] and Harvard
+      [University] for permitting protests against the Israeli attack on the Palestinians.
+      And she attacked these universities for not expelling students who opposed genocide,
+      students who said: The Palestinians are human beings, they’re civilians. This
+      is against the laws of war. It’s against all international law. She said: They
+      must be expelled, and any professor who gives voice to a Palestinian point of
+      view must be expelled from your university. Harvard and Columbia duly expelled
+      the professors, expelled the students from the university. And if that is what
+      the election for New York Senate is going to be all about next year, you can be
+      sure that this is going to be splitting the whole U.S. electoral campaign, just
+      as the split over Charlie Kirk has been splitting his right-wing Republican following
+      over the issue of Zionism. And that’s what the newspapers are hesitating from
+      [writing]. The Republicans are afraid to acknowledge that that is what the election
+      was about. They’re pretending that it was about Marxism. And it’s not about Marxism
+      at all. There’s nothing Marxist about providing subsidized education, so that
+      workers can afford to earn a lower salary from their employers and make their
+      employers more competitive. I mean, that’s basic 19th century classical-industrial-capitalist
+      strategy to become more competitive. It’s all really about the Zionist issue.
+      And in the Wall Street Journal (same issue), you have on the next editorial page,
+      a Jewish writer [worrying] — “[i]f socialists become the Democratic Party’s face”
+      [as Karl Rove wrote in the same issue] — he’s going to be afraid to wear his kippah
+      (his yarmulke) in public; and he bought a newsboy’s hat because he thinks that
+      somehow the Jewish population will be threatened. This is hysteria. And the hysteria
+      is part of what has really motivated, I think, Mamdani’s voters to say: We don’t
+      want any part of this. We’re not going to go along with this demagogy — at all.
+      Trump has already said that if New York voted for Mamdani, he’s going to pull
+      all public federal support for New York out. And the Republicans and Democrats
+      want to treat New York City like the United States and Europe treated Soviet Russia
+      after its revolution: try to do everything you can to oppose it, to drain it,
+      to isolate it, to make it harder to govern — and, then, say socialism doesn’t
+      work — when they have to spend all their time defending themselves. This is what
+      it’s going to be about. In fact, I just got (yesterday) this month’s The Nation
+      magazine, the left-wing magazine from the last century. And there’s an article
+      about how the black caucus in the United States (the representatives in Congress),
+      has been dominated by AIPAC [American Israel Public Affairs Committee], saying
+      that if they do not follow the AIPAC pro-Zionist line, they will be opposed; and
+      AIPAC will fund their opponents in order to, essentially, mobilize election money
+      for Zionism. So, somehow this issue has overwhelmed the whole electoral process
+      here. ⁣NIMA ALKHORSHID: Richard, looking at who voted for Mamdani, the young people
+      under the age of 30, more than 75% voted for Mamdani. And here is what Donald
+      Trump [posted] before the election happened: “Any Jewish person that votes for
+      Zohran Mamdani, a proven and self-professed JEW HATER, is a stupid person!!!”
+      And we know that Bernie Sanders, since the Democrats, they didn’t want to support
+      Mamdani, but Bernie Sanders went after him. And we know what has happened to Bernie
+      Sanders during the presidential election. This time, he came and supported Mamdani.
+      In those days, [Sanders] had nobody to support him against Hillary Clinton. But
+      what’s your understanding of what has happened? ⁣RICHARD WOLFF: Well, I’m coming
+      at it from a little bit of a different perspective from Michael, but I think they’re
+      complementary [perspectives], or they can go together. I want to talk about the
+      history here, because I think this is a historic shift. It began with Bernie —
+      no question. It was given an extra boost by Alexandria Ocasio-Cortez and the group
+      of young women who came into prominence with her. And now it has taken a quantitative
+      new additional leap with the election of Mamdani. But I want to talk about the
+      hysteria in historical perspective. It ranges from the pathetic to the ridiculous.
+      I mean, we are watching — whether it’s the Wall Street Journal , or Elise Stefanik,
+      or anything like that — spewing their hysterical reaction that makes no sense.
+      It’s a revelation of their ignorance. They ought to be embarrassed, and they will,
+      one day. What do I mean? Mamdani is a Democratic Socialist. He emphasizes the
+      phrase “Democratic Socialist,” which he has every right to do. It is a kind of
+      socialism that he advocates. It’s very close to what used to be called “municipal
+      socialism.” Why? Because it is the kind of limited, moderate policy changes that
+      mayors have tried to do in American and in foreign cities — for the last two centuries!
+      It is not revolutionary. It doesn’t usher in anything like the hysterical remarks
+      being made by Americans. You know what this response shows? It shows that for
+      75 years, since the end of the Second World War, the United States has buried
+      its head in the sand, pretended that socialism, communism, Marxism, are all something
+      evil and horrible — over there. They haven’t understood how it developed. They
+      don’t understand the different points of view within socialism. None of it. They
+      don’t know or care. And so they see a socialist, they don’t understand how to
+      understand it, other than in their underdeveloped, 75-year, out-of-date backwardness.
+      Let me get at this a second way. Someone once counted up: seventy-five American
+      cities in the history of this country have had mayors who were socialists, and
+      said so. I know from my research — I did a lot of work once on the mayoralty in
+      Bridgeport, Connecticut. I did that because I ran for mayor of the city of New
+      Haven, Connecticut, which, like Bridgeport, is one of the three sizable cities
+      in the state of Connecticut. Bridgeport had a socialist mayor for many years.
+      Nothing of the sort of the hallucinations of the right wing happened in Bridgeport
+      during the time of their mayor. Ditto, Milwaukee. Ditto, all the 75 [cities].
+      Number one. Number two. Right now in Europe, there are socialist mayors. A number
+      of the major cities of Europe — by the way, places like Paris, London, Milan,
+      and so on, are governed by socialists, or have been at various moments in their
+      history — nothing of the fantasy-horrors that are being spun out in the American
+      media ever happened there. Socialist parties are regular participants in every
+      country in Europe, and beyond. But I want to talk about Europe, otherwise, I’ll
+      take too much time. So, what you’re seeing in the response of the right wing in
+      this country is a sign of its utter ignorance, bad education — and being, as I
+      say, 75 years out of date: talking like they talked back in the days of the House
+      Un-American Activities Committee. Think of the very name — ridiculous, you know,
+      as if they have the sole authority to decide what is, and isn’t, American. It’s
+      a joke. That’s the first thing. The second thing. It’s important to understand
+      that this is a sign of real serious trouble. This is something Michael and I have
+      tried very hard to get across. My language: it’s a decline of our empire. It is
+      a series of problems, many of which Michael has very, very creatively shown us:
+      how they’ve accumulated; what their history is; how the people in charge have
+      not solved these problems, have basically kicked them down the road, during which
+      time they have accumulated and gotten worse. If you don’t solve your medical problems,
+      they get worse; you don’t solve your psychological issues, they get worse. Well,
+      it’s in economics, as well. And this is a sign that the people of New York, who
+      aren’t that different from people anywhere else, made a decision. And here’s what
+      I think the election showed. Mr. [Curtis] Sliwa (the Republican) and Mr. Cuomo
+      (the Democrat) represent, in their totality, the same old, same old, same old.
+      Literally — Sliwa has been a candidate for as long as I can remember here in New
+      York. And as we all know, Cuomo was a governor, he worked with the Clintons, and
+      blah — it’s all the same. And nothing either of them said gave anyone any reason
+      to believe that they would be, in the future, any different from the nothing that
+      they were in the past. Therefore, Mr. Mamdani had an unbelievable opportunity.
+      All he had to do — and by the way, I don’t take away anything. He ran a brilliant
+      campaign. He’s very successful. He deserves everybody’s amazement and congratulations.
+      So, I don’t want any confusion in what I’m about to say — but he cashed in, as
+      successful politicians always do, on something much bigger, and different, from
+      himself. He was the obvious, different, new change. He embodied it: a Muslim in
+      New York, a socialist in this country. Wow. Who would have thought it? Things
+      are changing. Of course, young people come (75%). They want change. They know
+      that the “American Dream” promised to them is not available anymore. No one has
+      to persuade them. They’re already there. They want change. And looking at Sliwa
+      and Cuomo and Mamdani? That’s easy, where your best chance for change is! Now,
+      the last point. Yes, he’s a socialist. And I don’t know exactly what that means
+      to him, since I’m very aware that socialism means very different things to different
+      people. The Soviet Union was one kind of socialism. Norman Thomas, who was the
+      great leader of the American socialists for many years, was a deadly opponent
+      of the Soviet Union, and all that it stood for. So that shows you that people
+      who wanted the name “socialist” could mean very different things. There’s a Trotskyite
+      tradition, which goes in yet another direction. The current people who lead China
+      refer to their country as “socialism with Chinese characteristics.” Okay, where
+      in all of that does Mamdani fit? Well, America is too backward in this area to
+      be even able to ask the question. So, everyone’s fantasy of what it might mean
+      just blurts out — and I mean the pages of the New York Times and the Wall Street
+      Journal — it’s embarrassing, that you know so little that you don’t even understand
+      this “socialism” of Mamdani, who calls it “democratic,” and who tells you, quite
+      clearly, what he plans to do! This is a remarkable statement, but it carries enormous
+      implications, also for the emerging new left in the United States; because he,
+      like Ocasio-Cortez, and like Bernie, [they] are going to be the standard-bearers.
+      By virtue of what has happened, they are going to be “socialism.” But I guarantee
+      you what I’m about to say is true. (I don’t believe in prediction — I can’t predict
+      anything, and nobody else can — but I’m going to do it anyway.) The other kinds
+      of socialism are waiting in the wings. They will emerge now. Why do I say that?
+      Because they have everywhere else on this planet; so they’re going to do that
+      here, too. So, a word to the wise, if they’re smart enough to listen. Mr. Bloomberg
+      (who gave the most money); or the owner of Airbnb (who gave a lot of money); or
+      Home Depot’s Mr. [Ken] Langone (who gave a lot of money); let me give you a piece
+      of advice: You better be glad that Mamdani won, because the other socialists coming
+      down the road are going to be a lot worse for you than he will be. That’s the
+      reality. But that’s also a challenge to Mr. Mamdani. He also has to face the scale
+      of his solutions, which, I suspect, he knows, is inadequate to the scale of the
+      problems he faces: You are not going to solve the problems of the United States
+      (that we have been spending months on this program, trying to clarify and explain).
+      You’re not going to solve them — not with free buses; and not with public grocery
+      stores in food deserts; and not with a 2% tax on wealth above $100 million; or
+      whatever it is that is his [program] — It’s perfectly good as a program. I’m glad
+      he’s putting it forward. But here’s the problem — and he should learn from Mr.
+      Trump. This was a resounding defeat for Mr. Trump. And you know why? Not because
+      of how he speaks, or the extreme stuff he does. (I wish it were a defeat for those
+      reasons — but it wasn’t.) It was a defeat because what he’s doing, Mr. Trump,
+      cannot, will not, and did not solve the problems he inherited. His Big Beautiful
+      (tax) Bill makes those problems worse. His tariff program, whether or not the
+      Supreme Court allows it, doesn’t solve these problems. It can’t. That, Mr. Mamdani,
+      you have to understand, too. You, too, will be confronted, like Trump, with asking
+      the difficult question: What has to be done to deal with the actual problems we
+      have? You can do it, but you have to admit that that’s the case. Otherwise, you
+      will discover — like Mr. Trump is discovering — that promising people quick-and-easy
+      solutions — as if they were available, and as if you could deliver them — doesn’t
+      work. And it will turn those people away from you. And that’s what happened to
+      him. And it’s going to happen to him more, and more, and more. And as it does,
+      the people around him will abandon him. It’s already happening, and it will happen
+      more. But the cautionary tale is, that problem confronts the left as well. ⁣MICHAEL
+      HUDSON: Thank you, Richard, for reminding us about municipal socialism in America.
+      That always has been one of the forces behind socialism. In the 1950s when I grew
+      up, it was Robert La Follette [Jr.] of Milwaukee who led this whole reform, and
+      it made all of Wisconsin progressive. And the city where I grew up (Minneapolis)
+      was, I think, the only Trotskyist city in the entire world, that led to the Minneapolis
+      general strikes of the 1930s. And even the governor of Minnesota, Floyd B. Olson,
+      said he hoped capitalism went right to hell. That got him re-elected! You could
+      say that socialism in America demonstrated the way in which it worked from the
+      only place where it had a chance of doing that — and that was at the local level.
+      I want to get back to the national level in this case, because the national level
+      is where the money comes in for campaigning for the local level. And what terrifies
+      both the Democrats and the Republican Party leadership is that most of the midterm
+      elections are going to be, as I said, over Zionism and the Israeli violence in
+      Gaza and the West Bank. That was the issue that was largely responsible for the
+      Democrats’ loss in the November presidential election. As Jill Stein and I forecast
+      in our interviews with you, Nima, the Islamic voters in Pennsylvania, Michigan,
+      and Minnesota, refused to vote for the Democrat Kamala Harris because of her reliance
+      on Zionist donors and her steadfast support of Israel First. And that is one of
+      the reasons why yesterday’s Democratic victories in New Jersey and Virginia were
+      much stronger margins for the Democrats than the presidential vote for Harris.
+      She was unpopular because she continued Biden’s pro-war policy, the policy that
+      Trump has escalated in making the wars in Ukraine, Israel — now Venezuela and
+      Nigeria — his war. So, there’s a movement to oppose any candidate that’s receiving
+      election financing, basically, from AIPAC. And that’s threatened to become a litmus
+      test for candidates. The Democrats’ opposition to the National Committee is going
+      to be: Will you refuse to vote for any politician who receives money from AIPAC?
+      Well, AIPAC already realized this, and said: We’ve got to create a Zionist pro-Israel
+      campaign system that’s not AIPAC, that’s funded by the wealthy billionaires from
+      Silicon Valley, and other billionaires who are defending Israel. The fight against
+      Mamdani is, in that sense, going to be a fight by politicians to keep receiving
+      campaign contributions for themselves — above all from AIPAC, but also from other
+      donors with special interests. And that’s what the entire American political election
+      system has turned into. The election system has been privatized in this country,
+      and sold to the donor class. That is the consequence of the Supreme Court’s ruling
+      in Citizens United, that any corporations and any donor can give as much money
+      as they want to politicians. There is no limit at all. Well, Mamdani came in with
+      much less funding than anyone else, and won. So he’s challenged this whole system,
+      but he’s raised the issue for what’s going to be the statewide elections and for
+      next year’s national elections in the United States: How is American politics
+      going to survive this privatization and financialization of elections? If it doesn’t
+      solve this, then the United States is going to be a failed state politically,
+      because the right-wing demand for “originalism” in the Supreme Court is to say,
+      well, what would the slave owners who wrote the Constitution rule today? Well,
+      they would back all of the right wingers. And you had the same fight occur in
+      Athens, in the 4th century BC. What was the original Constitution of Solon? What
+      did Solon really do? Well, there were rival views of what the Constitution was
+      all about. One of the upshots of this New York election and municipal socialism
+      is going to be the whole issue of, basically, oligarchy and campaigns. And that’s
+      why Mamdani has again and again used the word “oligarchy.” And that’s where he’s
+      distinguishing himself from others. And the issue? Really, it’s not Marxism; it’s
+      not socialism as such because there are so many different kinds of socialism,
+      as Richard has pointed out. It’s oligarchy versus real democracy, which means
+      policies that are enacted to protect the population at large — of tenants, of
+      wage-earners, of the bottom 90% of the population — not just the top 10%, as we’ve
+      been talking about. So, this is exactly what the 2026 Senate elections are going
+      to be about. And if AOC runs against Chuck Schumer, trying to unseat him — same
+      thing with the House of Representatives — you’re going to have the Democrats,
+      particularly, running against Bernie Sanders, AOC, [against] any attempt to have
+      public health care because that threatens to cut off their own flow of election
+      contributions from the special interests. So, all of this goes beyond political
+      ideology itself. It has to do with the whole structuring of the political system.
+      And that’s why both the Republicans and the Democrats were so shocked by Mamdani’s
+      win, and why his win is so historical — if it will actually change things. People
+      have been saying: Well, look at how Bernie and AOC ended up surrendering to [Nancy]
+      Pelosi and Schumer, and just going along with the Democratic majority. They were
+      co-opted. Well, Mamdani is free of the pressure that was brought against both
+      Bernie Sanders and AOC because there’s no party above him as Mayor of New York.
+      There’s no one who can tell him what to do, or say: If you don’t support this
+      policy, we won’t put you on a powerful committee, a such-and-such committee; or
+      we won’t give you any voice. He now has the voice to do what he wants. Today he
+      appointed Lina Khan, Biden’s excellent anti-monopoly lawyer, as one of his co-chairs
+      for his mayoral [transition] campaign. He’s bringing all the progressives on this
+      [transition] team with him. And what he’s going to be doing is not simply a personal
+      fight for New York — he’s a very gifted politician, he’s a natural as a politician,
+      for any of you who’ve listened to his victory speech the other night. It’s really
+      a whole — his team will say: There is an alternative, and there’s no other alternative
+      on the schedule; and we’re going to start with this alternative on a New York
+      scale, if we can. And if we’re opposed by Trump and by the federal government,
+      trying to starve us for transportation funds and all the federal funds that come
+      in; if Trump sends in the National Guard to begin arresting citizens — one of
+      Trump’s supporters yesterday said he wants ICE (the Immigration authority), to
+      look at Mamdani’s citizenship application, and said: Was there anything wrong?
+      Was there a typographical error? If so, let’s deport him back to Africa. You already
+      have seen that breaking out yesterday. That’s the stakes that we’re seeing in
+      what is going to be the policies he has for mayor. ⁣NIMA ALKHORSHID: Richard,
+      I think the main point, what Michael just said, is so important: Who’s going to
+      be on his team and what would be the policies that he’s going to adopt? After
+      all, we know that the status quo doesn’t work in the United States. That’s why
+      people are voting for Mamdani and people like him. And it’s not just about the
+      Democratic Party. Within the Republican Party, the same thing is happening. And
+      here is just a short clip of what Tucker Carlson said. LINDSEY GRAHAM (CLIP):
+      […] the Republican Party. We’re killing all the right people and we’re cutting
+      your taxes. ⁣TUCKER CARLSON (CLIP): Cutting your taxes, and killing all the right
+      people. That really is the crispest way to describe the marriage of libertarian
+      economics and neocon foreign policy: cuttin’ taxes and killin’. And if you think
+      about it, who’d want to be associated with that? Cutting taxes itself is hardly
+      a virtue. It’s a contextual matter. Sometimes it is, sometimes it is. It totally
+      depends. But in Lindsey Graham’s simplistic-but-heartfelt formulation, cutting
+      taxes is just a positive good, always. And so is killing people. Killing the right
+      people. No, they got to be the right people, but killing people. Killing people
+      is just a good thing. Like, it’s one of the things you don’t need to describe
+      […] ⁣NIMA ALKHORSHID: Yeah. ⁣RICHARD WOLFF: You know, the problem with Tucker
+      Carlson is he doesn’t understand how far that reaches, so he can only come up
+      with the examples that he comes up with. But let me take it another step, because
+      it’s all about what Mamdani is going to have to do. When Mr. Trump comes into
+      office, he has a problem. The American national debt has ballooned faster than
+      anything else. What is it now? $35 trillion, or more than that. In a very short
+      time, it went from a few hundred billion to $35 trillion — out of control national
+      debt. So bad that we lose our AAA credit rating. So bad that we get statements
+      by lenders that they don’t want to lend to the United States anymore because they’re
+      not confident in the ability to pay — which is why you don’t have a AAA rating.
+      So, he comes in, and he’s got a problem. He’s going to do something. He promises
+      he’s going to do something about this national debt, about the ability of the
+      United States to borrow. And for those who don’t understand, a reminder: Every
+      major war, starting in Vietnam, that we have fought in recent time has been paid
+      for by borrowing; and the reason is you cannot fight these wars if you were to
+      make the American people pay the tax to pay for it, because they’d oppose it right
+      from the beginning. Now it takes a year to get into these wars before the American
+      people begin to realize the hopeless[ness] and pointlessness of it — for them.
+      So, you’ve got to be able to borrow. You cannot run your foreign policy. You can’t
+      even run your government. Why is that? Very simple. We have a politics in which
+      corporations and the rich demand of the government all kinds of services — but
+      they don’t want to pay taxes. And by donating — or not — they can force the politicians
+      not to tax them. Okay? What about the mass of people? They want the government
+      to give them all kinds of benefits: schooling, hospitals, roads, policing, fire
+      department, you name it. And they don’t want to pay taxes — but they’ve been forced
+      to. The burden of taxation, as anyone knows who studies it, has been shifted,
+      over the last century, from corporations and the rich to the average person, the
+      middle class. That’s what’s happened. So, Mr. Trump comes into office after this;
+      but he’s got a problem. He can’t just borrow some more. He did that in his first
+      presidential run, and everybody pointed out, you didn’t solve the government’s
+      debt, you made it worse — which, of course, was true because he inherited the
+      structure that was doing that before him, did it during him, and did it after
+      him under Biden. So, what is he going to do? The only thing he knows: try to do
+      what Republicans do — more so. What does that mean? Don’t tax corporations and
+      the rich. Once again, the first act of his new presidency, the current second
+      term, Big Beautiful (tax) Bill — extend the tax cuts of the first regime, and
+      add a few more — which is what he did. So, what’s left? There’s no way to reduce
+      the government debt if you’re not going to tax the corporations and the rich.
+      You dare not tax the mass of people because that’s your political base. So, what
+      do you do? There’s only one thing left. You have to cut expenditures. The first
+      phase he does with Elon Musk, and he raises the banner, Efficiency: I’m going
+      to cut the government, by efficiency. And when that runs out of gas, and runs
+      into every difficulty imaginable, he has to drop it. He kicks Mr. Musk to the
+      curb, throws him under the bus, and comes up with a new way to save money called
+      the government shutdown that we’re living through. That’s as fanciful nonsense
+      as the efficiency bullshit was before. All he’s doing — and of course, this is
+      not enough — he’s trying to save money so he can do something about the national
+      debt, which he’s inherited. But he can’t do it on the scale that will make a difference.
+      So, he’s stuck. And you know how he knows he’s stuck? Because of the elections
+      two days ago. That’s his sign: You’re stuck, Jack. The collection of things you’re
+      doing adds up to people finding reasons not to vote for you, or for the people
+      you endorse. Everyone he endorsed lost. Everyone he opposed won. Not just Mamdani.
+      And I understand what Michael said about the other Democrats. They’re nothing
+      to write home about, but those were the people that Trump was able to defeat before
+      — can’t do it anymore. That is a problem. Michael is right: Mamdani is going to
+      face every conceivable kind of obstacle, opposition. If he begins to do the things
+      he’s going to have to do, that opposition will get worse. But if he doesn’t do
+      it, he’s going to find the same sad story. The people who voted for him are giving
+      him a chance. But if he doesn’t produce, they will vote against him next time.
+      They really will. And they’ll have a lot of help doing that. New York City is
+      the home to more billionaires in this country than any place else — so, he’s got
+      ‘em. England has a whole bevy of laws, in case he needs them, that require anyone
+      who leaves Britain to pay for all the benefits they got while they were in Britain,
+      as a condition of leaving. Oh, oh. Here, billionaires threaten to leave, and nobody
+      dares say anything. Will Mr. Mamdani have the courage and the foresight to know
+      he cannot give the same answer? He has to go — not just because that will pay
+      for his programs, which it will. His programs are modest. If you look at the cost
+      of grocery stores and free bus rides, it’s not expensive, relative to the budget
+      of the City of New York, anyway. But he has to do it. He has to do it for political
+      reasons. And he has to have advisors who are able and willing to see, and to help
+      him navigate that situation. ⁣MICHAEL HUDSON: I think you’re right about the fact
+      that many of the reforms that he can do don’t cost more money. For instance, one
+      of the things he can do to support tenants’ rights is you end the building department
+      corruption that was inherited from [the] Mayor [Ed] Koch regime and from [Rudolph]
+      Giuliani, where the building departments run by the developers have enabled developers,
+      like Trump, to simply tear down landmark buildings without really being fined
+      more than a token cost of doing business. The developers have run the city; and
+      the landlords have run the city courts against the tenants. And by providing public
+      lawyers for the tenants, you can defend against the landlord interests in these
+      tenant courts. And the fact that Mamdani has said that New York is unlivable —
+      with an average rent of over $4,500 a month in New York, who can afford to actually
+      live here if you don’t inherit enough money, [or] get a [high-paying] job? He
+      can tax Wall Street, as you said. That’s really the key. Are these billionaires,
+      concentrated in New York City as the nation’s financial center, really going to
+      move out? Well, hard to move to Florida these days, with all of the hurricanes
+      threatening the property there. There’s really nowhere for them to move out. So,
+      of course, he can raise the rents. He’s going to have to drag the city council
+      and other agencies along. It would be nice if he can drag the current center-right
+      Governor Hochul around to imposing the (originally higher) charges for driving
+      your automobile into the city that is still paralyzing traffic here. And the subways
+      have spent all of the money to help developers on the upper east side from the
+      Second Avenue extension, so that they have not fixed the subways going outside
+      of Manhattan — to Queens, to Brooklyn, and to the Bronx. (Last night, my wife’s
+      45-minute trip took her an hour and a half, including sitting in the dark for
+      over half an hour when the electricity was turned off on the line to where we
+      live in Forest Hills, Queens.) The subways are falling apart — which is where
+      most of the wage-earners live, who have to earn a living in Manhattan, and can’t
+      afford to live there anymore because of the rents. So, all of these things can
+      be done without much money. The money squeeze, I think, is not going to be from
+      what Mamdani does, but from the withdrawal of state and federal support that has
+      been subsidizing New York — as long as it was pro-landlord, pro-Wall Street, pro-oligarchy
+      — all along. That’s going to be a fight. And again, that fight is going to be
+      more than just a municipal fight. It’s going to be a national fight, against municipal
+      socialism and the obvious things that Mamdani has promised, which is why he got
+      so many good followers from the beginning. ⁣NIMA ALKHORSHID: Richard, I think
+      this is a huge opportunity for a socialist working in New York City. How helpful
+      could Bernie Sanders be for this sort of movement in New York City? And how is
+      [Mamdani] going to use the experience of Bernie Sanders? What do we know about
+      the relationship between the two? ⁣RICHARD WOLFF: Well, at this point, the first
+      answer is he could use help from Bernie Sanders, all the time. I mean, he needs
+      Bernie to be out there helping him carry the message, if you like, nationwide.
+      Bernie is at the top of many polls. People should know this. There are people
+      who go around asking the question: In your judgment, as an American citizen, who’s
+      the most popular politician you can think of? And Bernie wins that contest, over
+      and over, because even though he didn’t win the election, he, therefore, has none
+      of the negativity. He hasn’t had to face promises made that he couldn’t deliver
+      on — because people didn’t give him the job. So, he’s able to say: I told you
+      so. This needs to be done. You didn’t do it. And so we have a problem. And that’s
+      a very much better position to be in, when an empire is declining, because you’re
+      going to be facing losses, one after the other. I mean, let me remind people —
+      because Americans don’t want to face it — that, for example, the CEO of NVIDIA,
+      Mr. [Jensen] Huang, gave a speech yesterday, in which he basically said that we
+      should understand that the artificial intelligence revolution has now been won,
+      and the winner is the People’s Republic of China. This is true across the board
+      — militarily, politically, economically. The BRICS alliance is exploding in the
+      world. It has lots of problems, of course. It encompasses very different political
+      and economic — I don’t want to make it simple — and it’s not all pro-Chinese,
+      or anything like that — but it’s a viable alternative. The power of Mr. Trump
+      — the last cudgel he could use on the rest of the world to beat them into shape
+      — is: I won’t let you come and trade here. I won’t let you buy here. I won’t let
+      you sell here. You’re going to have to give me a lot of money, if you want to
+      sell your goods here. I’ll only hit you with a low tariff, if you make big [investments]
+      — He’s demanding tribute from the whole world. But it’s too late. It would have
+      had to have been done 20 years ago. It might have worked then. But it wasn’t necessary.
+      Now that it’s necessary — too late. That happens often in history. The BRICS are
+      the alternative. China is turning to them, and they to China. The United States
+      is, in a busy way, isolating itself. That’s the reality. And that is going to
+      implode on the United States in many ways. Mr. Mamdani, whether he wishes it or
+      not, is going to be finding himself in the following situation: What can a socialist
+      do (about what I’ve just said) to distinguish a better socialist response to a
+      declining empire, than a capitalist one? And that’s where Bernie and Ocasio-Cortez,
+      that’s where they come, because they are the national and, therefore, the appropriate
+      international. Let me be daring and say something that people may remember: There
+      are two ways for the United States to deal with the People’s Republic of China.
+      One is aggressive, hostile maneuver[ing]: that’s what we got. Here’s an alternative:
+      Sit down, divide the world up in such a way that both of you can find opportunities
+      to grow and to develop. What might it mean if socialists became advocates of that
+      second approach, as part of a transformation of the United States? Wow. Might
+      that bring to them a level of support, if only from all of the Americans who already
+      worry that the relation with China is on its way to nuclear war? Wow. A socialist
+      movement worthy of the name has to think like that, has to have the large — as
+      well as the public grocery store in the food desert. And I wish there were enough
+      socialists to divide the labor, but there isn’t. So, Mr. Mamdani, who’s going
+      to be the face of socialism for a while, it’s up to him. He can mobilize Bernie
+      and Ocasio-Cortez — probably — if he understands the situation he’s actually in.
+      ⁣NIMA ALKHORSHID: Michael? ⁣MICHAEL HUDSON: Richard made the point. You’re right.
+      The socialists have always been against war because most wars are against socialism.
+      ⁣NIMA ALKHORSHID: Yeah. Thank you so much, Richard and Michael. Great pleasure,
+      as always. ⁣RICHARD WOLFF: Yeah, this was an important conversation, made possible
+      by an important election. And I think we will be talking about the implications
+      and ramifications many times in the future of these conversations. ⁣NIMA ALKHORSHID:
+      Exactly. Yeah. Thank you so much. See you soon. See you next week. Bye-bye. Transcription
+      and Diarization: https://scripthub.dev Editing: Kimberly Mims Review: ced Photo
+      by ben o’bro on Unsplash The post Municipal Socialism Meets Donor Politics first
+      appeared on Michael Hudson .'
+    one_sentence_summary: In a discussion about the recent New York mayoral election,
+      Nima Alkhorchid, Richard Wolff, and Michael Hudson analyze the surprising victory
+      of Muslim socialist immigrant Zohran Mamdani despite significant financial opposition,
+      reflecting on its implications for the future of the Democratic Party.
+    paragraph_summary: In a discussion on November 6, 2025, Nima Alkhorchid, Richard
+      Wolff, and Michael Hudson analyzed the recent New York mayoral election, where
+      Zohran Mamdani, a Muslim, socialist immigrant, triumphed despite significant opposition
+      funding exceeding $40 million from billionaires. Hudson noted that both major
+      political parties are attempting to spin the election results to their advantage,
+      with Democrats framing it as a rejection of Trump and Republicans portraying it
+      as a backlash against socialism. However, he argued that both parties ultimately
+      lost, as Mamdani's victory overshadowed other local elections, indicating a significant
+      shift in the political landscape that could impact the future of the Democratic
+      Party and the upcoming midterm elections.
+    published: '2025-11-10T16:55:56+00:00'
+  - title: Asia Rewires Trade While Washington Grandstands
+    url: https://michael-hudson.com/2025/11/asia-rewires-trade-while-washington-grandstands/
+    text: 'NIMA ALKHORSHID: Hi everybody. Today is Thursday, October 30, 2025, and our
+      dear friends, Richard Wolf and Michael Hudson, are back with us. Welcome back.
+      ⁣MICHAEL HUDSON: It’s good to be back. ⁣NIMA ALKHORSHID: Let me start, Michael,
+      with you. What is your understanding of the meeting between the two presidents,
+      Xi Jinping and Donald Trump? Before going to that, let me play a clip in which
+      they’re just getting together, handshaking between the two presidents. It shows
+      the tone and the atmosphere there. ⁣NIMA ALKHORSHID: You see in the eyes of Donald
+      Trump some sort of, I don’t know, disappointment, like he isn’t received the way
+      that he wants to be by Xi. But what’s your understanding, Michael, when it comes
+      to the meeting? And how do you find it? Was it positive, negative, something between
+      the two? ⁣MICHAEL HUDSON: What is positive? It’s positive that China resisted
+      giving up, unlike Japan and Korea, which totally surrendered to Trump’s demands.
+      You’ll notice in that clip you just showed, once Trump put his hand on Xi’s back,
+      Xi straightened sort of and put on his frozen smile. So you could see that sort
+      of told the picture right now. The buildup to all of this was that it was going
+      to be a positive meeting. And I think that China orchestrated the whole meeting
+      to enable Trump not to get angry and to do what he usually does and says the meeting
+      is a great success. And in fact, after the meeting, Trump said, on a scale of
+      one to 10, this was a 12. Well, as I look at what seems to have come out, it wasn’t
+      a 12 at all. It didn’t really move forward. And indeed, the U.S. plans were turned
+      down. But Xi had sort of enabled Trump to get what he really wants, a nice picture
+      for public relations of increased soybean purchases. Okay, so this is not Brazil’s
+      harvest season. This is America’s harvest season. Three big ships are going to
+      be carrying soybeans. So Trump can say, look, farmers, I’ve done something for
+      you. And there are a couple of other things: modest concessions that China made
+      that are very marginal. They’re concessions that weren’t a sacrifice. But what
+      Trump had wanted was what America essentially has insisted from Russia; let’s
+      have a ceasefire, let’s roll back everything to the way it was before the tariffs.
+      They haven’t worked. We see, instead of isolating China, Trump’s tariffs have
+      isolated himself from China. And he said, well, let’s go back. I’ll get rid of
+      the tariffs and we’ll make things the way they were. Well, China’s response is:
+      a lot of things have happened since you did the tariffs. For instance, we’ve done
+      a mirror image. We’ve adopted your policy that national security really has to
+      play a role in our trade policy. And we’ve imposed national security constraints
+      on our exports of raw materials and other gallium and other elements so that we’re
+      not going to export anything that can be used by your military at all. Nothing
+      was discussed about that. Trump says, well, they are going to relax some of their
+      rare earth exports. But it turns out that what China, according to the reports
+      here from Bloomberg and others, said is: yes, we will relax our exports of what
+      you need for rare earths, but you’ll have to relax your controls. Number one,
+      you’ll have to remove your constraints on designated companies in China, your
+      list of companies that Americans can’t deal with and cannot import any products
+      with products of these companies, like Nexperia in Holland, that the Dutch government
+      confiscated from China at U.S. demands, which has paralyzed the automobile car
+      battery industry from Germany all the way to the rest of Europe. And the U.S.
+      will have to remove its constraints on exporting high-end computer chips from
+      NVIDIA, the very high-end. It can only export the low, uncompetitive computer
+      chips that the Chinese are now already cutting the NVIDIA market for, by I think,
+      75%, by producing their own. So the conditions for all of these nice agreements
+      that Trump has talked about are not going to be met by the United States because
+      Trump has surrounded himself with anti-China hawks. They’re not going to agree
+      to anything. So Trump did most of the talking. And Xi just had his usual enigmatic
+      smile. And afterwards, there’s no mention of any TikTok deal, no mention at all,
+      except that the U.S. would roll back tariffs in exchange for China not selling
+      drugs that could be used to make fentanyl. But the U.S. pharmaceutical industry
+      is dependent on China for its exports of chemicals and pharmaceuticals, as the
+      U.S. computer industry is dependent on rare earth. So it’s really unlikely that
+      China had to really give up anything at all. There may be just one or two chemicals,
+      and it’ll continue to completely dominate the U.S. market, and the U.S. dependency
+      on China will continue. So China has not given anything. And usually there’s a
+      memorandum of agreement. And the memorandum of agreement isn’t really a promise
+      because agreements have to be signed and approved by Congress and go through a
+      long political process. No agreement at all, nothing, only Trump saying the meeting
+      was great. Well, he always says the meeting is great. And when there is a press
+      release of any meeting, the U.S. press release is very different from the press
+      release of the other side of the meeting, whether it’s Russia or China or whoever.
+      So China has been closed-mouthed, and there’s no indication that it’s given up
+      anything at all. So that’s sort of a common denominator of Trump’s meetings. The
+      Dow Jones is up, as it’s been up every single day. Nvidia says, oh, that’s great.
+      Our shares are up. We’re going to sell more to China. But it also said, we need
+      the Chinese market. If Trump does not allow us to sell the very highest, most
+      productive rare chips to China, then we won’t have the money to engage in research
+      and development to stay ahead and we’ll fall behind. That was what the head of
+      NVIDIA said yesterday at the meeting. So it looks like China has maintained its
+      control. It really hasn’t given anything except a few marginal twists that look
+      good, like the soybeans and the drugs. I don’t think the U.S. or Europe is going
+      to remove the sanctions against Chinese purchase of the Dutch chip engraving machinery.
+      And it probably won’t even do anything about Nexperia. The Germans have said they’re
+      willing to close down their auto industry and just live with it, as Germans do.
+      So that’s basically the situation. I think it was a win for China in resisting
+      the giveaway and the surrender that Korea and Japan gave. NIMA ALKHORSHID: Richard,
+      your take. ⁣RICHARD WOLFF: Well, as I read the history of these sorts of agreements
+      and memos, even when they do go through the political process and become so-called
+      legitimate, binding, and all the rest, that they always have two qualities that
+      people forget. The first quality is that the world is finite and everything changes.
+      And whatever you agree to today can be unagreed to one way or another tomorrow.
+      The second thing is that there are always unspoken agreements that coexist with
+      whatever is spoken or written about in press releases. The two of them, for example,
+      may have come to some agreement about TikTok, but that includes an agreement not
+      to talk about it for the next three months or the next six months, or God knows
+      what they might have done. They might have changed what the balance will be between
+      the portion that basically China holds on to and the portion that the Americans
+      have some say in because that was being negotiated. And, obviously, that wasn’t
+      easy to resolve, since they’ve been at it for at least six months, if not longer,
+      and can’t reach a resolution, which is why, as each deadline for a resolution
+      approaches, Mr. Trump says, we’re going to extend it another three months and
+      stuff like that. Those are signs, not that you need them, but those are signs
+      that, beneath the surface, other things are going on. So I’m a little nervous.
+      I understand what Michael just did, and it makes perfect sense. I’m just, I don’t
+      want to hang too much on how things appear in the moment of the meeting. Michael
+      is absolutely right. I’ve never seen Mr. Trump come out of a meeting in which
+      he doesn’t think he’s just done the greatest job imaginable and won the greatest
+      results one could hope for. I mean, it’s clearly pathological. It had nothing
+      to do with what actually happened. Now, having said that, I want to go back and
+      quote Michael last week, back to all of us. Last week, or it might have been two
+      weeks ago, Michael went through a very, very good rendition with humor of what
+      had happened with the deals made between the United States and South Korea, on
+      the one hand, and Japan on the other, in which the flimflam that we’ve been watching
+      for the last eight months was exercised. Remember, you hit them with a high tariff,
+      and then you offer in return for lowering the high tariff to something less, a
+      deal, but that requires the commitment of hundreds of billions of dollars, say
+      over the next five or ten years, to be invested in the United States. A deal quite
+      similar to what was done with Ursula von der Leyen, you know, from Europe. The
+      same deal will lower the tariffs a little bit from what we had said, but you have
+      to promise. In the case of Europe, the promise was larger: $750 billion in energy
+      purchases plus $700 billion in investment. Okay. That was outrageous. And it was
+      so outrageous that one had to ask the question that one normally kind of puts
+      aside: what’s really going on here? Did they really commit? How in the world?
+      Just between you and me and the lamppost, how do European politicians commit to
+      stand in front of their own people and explain that they can’t sustain their free
+      education or their free transport or their subsidized housing or their national
+      health service because they don’t have the money, since they’re spending a fortune
+      on American liquefied natural gas and investing in America? This is political
+      suicide. Even the Europeans, who seem to be very good at that particular activity,
+      even they wouldn’t go that far. So my suspicion, listening to Michael lay it all
+      out, was that these people are making agreements having absolutely no intention
+      whatsoever of doing this. They have figured out, and I’m going to quote Michael
+      again, they have figured out what Michael just said about Xi Jinping. He stands
+      there, and he has, if I may quote him, an enigmatic smile. And, you know, he lets
+      Mr. Trump do what he likes to do, which is: appear to be in charge, appear to
+      be having a great time, and appear to be successful at whatever he set out to
+      do. Let him do it. Who cares? It doesn’t matter anymore. Mr. Trump won’t be there
+      three years from now, and a lot of things can happen in those three years, not
+      to speak of what happens later. Sure, we’ll do this; we’ll do that. And then,
+      when it comes to doing it, there’ll be a delay, there’ll be a problem, and there’ll
+      be an unforeseen aspect to it that requires new negotiations, and on and on. That’s
+      what you do when it is not polite to say right in his face, no, because you don’t
+      know what Mr. Trump may do when he’s pressed into a corner. So you don’t. You
+      don’t. You’ve discovered this is the best way. It’s very important not to aggravate
+      the fellow. And if you need an object lesson, just watch the interactions between
+      Mr. Trump and the Canadians. There you’ll see a nice example of why it is wiser
+      not to push back very much because you’re going to get hurt in that process. That’s
+      my reading: that the South Koreans thank ICE because that absurd raid by ICE of
+      the South Korean factory in Georgia allowed the South Koreans to back away from
+      what they had agreed to. The Japanese must be fuming as they watch South Korea,
+      on the one hand, and China on the other not give Mr. Trump even what they’ve been
+      willing to give. You know, it puts Japan in a very, very bad light, along with
+      Europe. So that’s my take. My take is because it isn’t working real well, and
+      because if I’m informed correctly, there is actually a serious chance that the
+      Supreme Court will somehow invalidate some of the tariff business of Mr. Trump’s.
+      He has to prepare for the very bad look that will give everything he’s done. So
+      he needs some successes. And so he has to go to Asia because the great success
+      he had a few weeks ago has unraveled on him. And now he’s going to shore it up
+      with a visit and lots of photo ops. Other than that, I don’t think much has changed.
+      ⁣MICHAEL HUDSON: Well, Richard, you and I have a forecasting problem. It’s our
+      materialist approach to history. We always expect the most logical thing for other
+      countries to do is to act in their own self-interest. Obviously, that would not
+      help us forecast what Germany has done or what a lot of other countries will have
+      done. And as I look at the agreements that Korea announced after the meetings
+      with Trump, they said, well, we are going to give up the $350 billion. Remember,
+      the prime minister of Korea said there’s no way Korea can possibly pay this amount
+      of money without essentially imposing austerity on its economy, as you pointed
+      out. And it’s not Japan, it doesn’t have anywhere near that much money. But they
+      said: we agree to the $350 billion. And Trump spelled out that $150 billion of
+      this, that’s a big chunk, is going to be in building a nuclear power submarine.
+      Okay, Korea expects to make a profit, just like the military industrial complex
+      in the U.S. will make on the submarine. So I can understand it’s giving $150 billion
+      to invest in this huge shipbuilding because it has a shipbuilding industry and
+      America doesn’t. Okay, mutual gain. I don’t know about the $200 billion remaining
+      on equity investments because, as you’ve just pointed out, it didn’t go very well
+      in Georgia. And the loan guarantees, I would not want to guarantee something in
+      which Trump is in charge of deciding who gets the money. But it looks like they
+      promised it. They’ve also promised to buy more U.S. oil. Well, okay, I think they
+      will. Does that mean that they won’t buy Russian oil? Does that mean that they’ll
+      end up looking like German industry? Well, maybe that’s the case. But at the end,
+      you made the all-important point. What if the Supreme Court says that it invalidates
+      the tariffs that Trump has done? It says only Congress can pass the tariffs according
+      to the Constitution. Well, is this going to enable other countries to negate the
+      deal they’ve made? Can other countries say: oh, we made all of this deal in exchange
+      for cutting the tariffs? And now that there aren’t any tariffs, we don’t have
+      to give any give back that Trump has been demanding. So there’s no give back.
+      Trump has no leverage over us by threatening to wreck the U.S. market for us.
+      So that will somehow give them an out. Do they have the backbone to do this? And
+      the same thing with Japan. Does Japan have the backbone to do this? Well, just
+      before you had the meeting in Korea, you had the ASEAN countries of Asia making
+      a free trade agreement among themselves. And that will include trade with China.
+      So it looks like before the meetings begin, the Asian countries were already looking
+      at: how can we replace the U.S. market that we were dependent on so that the United
+      States cannot weaponize its foreign trade and hurt us like they did in 1998 with
+      the Asia crisis when they smashed our economies financially through the International
+      Monetary Fund and forced us to privatize and to sell the commanding heights of
+      our industry to American investors, where only Malaysia was able to avoid all
+      of this crisis? Will they remember that experience? And is this what has been
+      guiding them? We have no way of knowing. Nobody’s mentioned it at all, but obviously,
+      when they’ve made an agreement, they’re thinking that way. But I want to go back
+      to China. Let’s look at what China’s real interest is in all of this. There are
+      a number of things that it wants. For instance, if China was to say, here is what
+      we want: one of the things that it wants is to reduce all of the constraints on
+      China. For instance, one of the main things it’s developed is its own airplane
+      industry to compete with that of Boeing, Airbus, and the Brazilian aircraft industry.
+      Well, the International Transport Authority that’s controlled by the United States
+      has refused to authorize Chinese airplanes. It just won’t sign off on the airplanes.
+      And that means that the Chinese airplanes are not allowed to arrive in other world
+      airports. This is obviously a block. Nobody mentioned that at the meeting, but
+      certainly it’s been a big discussion in China. I thought that perhaps China would
+      agree to buy more Boeings in exchange for the U.S. blocking this, but apparently
+      the problem is that as long as the Western air companies export and control the
+      market for airplanes, they control the repairs and replacement parts. And they
+      can essentially paralyze other countries’ air transport by simply not repairing
+      and not providing replacement parts. They could do that. The Chinese did focus
+      on the fact that the U.S. has imposed sanctions on the purchase of Dutch engraving
+      machinery and the whole fight over computer chips. I think the small print when
+      it all comes out of the agreement will mean that, well, you haven’t complied with
+      the United States. Essentially, I think when Xi said the ship of international
+      diplomacy requires two captains in order to work, what he meant is that, tit for
+      tat, what the United States has designed as a rules-based order is exactly the
+      weaponization of trade and investment, and the constraints and the ability to
+      impose sanctions and the ability to withhold exports that the United States has
+      done. So I think China said: we’ve agreed with you. And Mr. Trump, we’re going
+      to apply the same logic to you that you’ve been doing to us. And if you want us
+      to relax the constraints on our exports to you, you have to relax all of the American
+      constraints and the constraints of your satellites in Europe on your exports to
+      us. So we can buy the most sophisticated NVIDIA chips. We can buy the chip-making
+      machinery from Holland. You will not be able to simply grab our investments in
+      Europe or the United States like you’ve grabbed Russia’s $300 billion in deposits
+      in Belgium. It has to be a quid pro quo, the same rules for us that apply to you.
+      And if you have that symmetry, then we can go along with it. And it looks to me
+      from the preliminary reports that came out of these meetings that everything was
+      a quid pro quo and a rollback. And that means that the entire last decade of edifice,
+      of specific limits to try to cripple China’s industry, computer industry, airplane
+      industry, and other industries will have to be removed. I don’t see Congress doing
+      that. Mr. Trump may say he’d love to do it and try to blame Congress. I’m sure
+      he’ll blame the Democrats and the left-wing communists like he likes to do. But
+      I just don’t see anything concrete coming out of these meetings, except for China
+      buying soybeans, as it always does, and a few other U.S. products that it can
+      use productively and that benefits China. I don’t think China is going to do anything
+      unless it benefits China, unlike Korea and Japan, which, as you say, don’t do
+      anything that doesn’t benefit the United States. ⁣RICHARD WOLFF: I want to add:
+      I don’t mean to be hard-nosed about this, but I think it’s a reasonable reading
+      of the history that this is always what happened. Each side gives up what matters
+      least and then proceeds to maneuver in every way it can to evade, to avoid, to
+      water down. And then when even those things don’t work, then there’s the whole
+      illegal, covert activity. I want to remind people, a big item standing in the
+      way of fighting that war in Ukraine was the dependence of Europe on Russian oil
+      and gas, which the Europeans did not want to give up. So someone blew up the pipeline.
+      All right. That was another solution: you didn’t need an agreement by Angela Merkel
+      or anybody else to make a decision politically. You forced the issue in that way.
+      That’s what I think is happening. And I don’t think we should be surprised. I
+      think they have decided that the strategy with Mr. Trump, it took them six or
+      seven months to kind of see how up and down, how uncertain, how herky-jerky it
+      all is. When I brought up this stuff about the Supreme Court, I just wanted to
+      use it as an example of the many things that can happen that change the terrain
+      on which all of this is fought. But, even if the Supreme Court says it has to
+      be Congress in a moment of emergency, Mr. Trump will get the Congress to vote
+      for whatever it is. In other words, he’ll immediately reinstate all of the tariffs
+      that he has going as acts of Congress because he can control at least for another
+      year the votes of the Congress. There’ll be close votes, but he has a good chance
+      of winning them. So he’ll try that. Then the question will be in the interim,
+      while that works out: do they apply? Do they not apply? And then there’ll be a
+      dispute and there’ll be another meeting in some global capital to work on that.
+      It never stops. This stuff never stops. And while I am impressed, Michael is quite
+      right to be impressed by what the Europeans are willing to do to destroy themselves.
+      And I’m assuming it’s because they think that any other choice they make is even
+      worse. But, if you’re any good as a political leader, you know that the name of
+      the game is not to make the right choice in that moment of extreme, but never
+      to let it get to that point. That’s your job as a politician. Don’t get to the
+      point where you have to choose between something that’s horrible and something
+      that’s even more horrible. If that’s the choice you have, you have already failed.
+      And yes, you will congratulate yourself for making the choice that isn’t the worst
+      one. But anyone with half a brain knows that your mistake was letting it get to
+      that point, which the Europeans, that’s what they did. That’s why they’re so desperate
+      in their dead end that they have allowed themselves to be maneuvered into, that
+      they have to have a cataclysmic external scapegoat enemy. And that’s the role
+      of Russia. Mr. Putin has become Stalin all over again, only hyped up even further
+      because you have to hype your dangerous enemy because you’ve done such a terrible
+      job of coping with your existential problems. That’s what happens. It’s really
+      partly what happened in the United States as well. We overdid the neoliberal period.
+      We wiped out large sections of the American working class’s well-being. And then
+      we’re surprised that, in reaction, that working class brings Donald Trump into
+      power. You know, you’ve let this happen. The ruling class in this country, let
+      this happen. It’s on their watch. They’re the ones who were gung-ho. They’re the
+      ones who must be, at least the few of them who are smart, must be wondering over
+      the last few years when Xi Jinping leads the world in advocating multilateralism,
+      multinationalism, free trade, an open economy in the world, and the United States
+      is closing itself quickly into economic nationalism. And yes, the end result of
+      that dichotomy is one or the other will give. And if Michael is right, and I think
+      he is, then Mr. Xi Jinping has announced, okay, if that’s the way you want to
+      play this game, we will play the nationalist game, and we’re in a better position
+      to do that than you are, which is correct. The ASEAN agreement, look at that.
+      That is a momentous evasion of what the United States is trying to do: close free
+      trade. No, they’re opening a free trade. They’re doing it regionally. They’re
+      doing it step by step. They’re doing, but they are creating markets for themselves,
+      all of them, so they don’t have to rely on the United States. It seems to me straightforward
+      and obvious that they should be doing that and that China should take the lead,
+      and that the South Koreans and the Japanese, wink, wink, are looking to make China
+      more of their customers because the United States is too unreliable. ⁣NIMA ALKHORSHID:
+      Michael, do you think that Japan is on the path of becoming the Germany of Asia?
+      Before going to your comment, here is what Pete Hegseth had said before the meeting
+      between Xi and Donald Trump. [clip starts] ⁣PETE HEGSETH (CLIP) : “ The [Japanese
+      Defense] Minister and I discussed today the security situation around Japan and
+      in the region remains, as he said, and we agree, severe. The threats we face are
+      real and they are urgent. China’s unprecedented military buildup and its aggressive
+      military actions speak for themselves. That’s why President Trump’s peace-through-strength
+      agenda is so important. [clip ends] ⁣NIMA ALKHORSHID: The plan, Michael, today
+      for Germany is militarizing Germany. The economy of Germany has suffered a lot
+      during the conflict in Ukraine, and they’re talking about militarizing Germany.
+      It seems that they want to put the money, the budget, in the military-industrial
+      complex. Is that going to happen to Japan, in your opinion? ⁣MICHAEL HUDSON: Well,
+      remember, it’s already happened to Japan once before it happened to Germany in
+      the 1985 Plaza Accords and Louvre Accords, where it agreed to U.S. demands that
+      it increase its exchange rate to make its cars unsalable to the U.S. and to agree
+      to U.S. quantitative limits on the number of cars that it could sell in the United
+      States. Japan, since 1990, has gone into what was called the lost decade, which
+      I guess you could call the lost generation. Its economy shrank and its population
+      has been shrinking. Its reproduction rates have fallen, fallen, and fallen. So
+      it’s already gone down that route once. And it decides that it likes that route.
+      It can live with that route. That they’re very patient people. So they’ve already
+      surrendered to all of this. They’ve agreed to buy more U.S. arms that don’t work.
+      They’ve agreed to increase their purchase of 75% American-made rice that in the
+      past they have said they don’t like. It has pesticides. It doesn’t taste as much.
+      It costs much less in the stores than Japanese-made rice. The ruler said, we don’t
+      care what kind of rice the Japanese like to eat. We’re going to stuff American
+      rice down their throats because that makes America great again. They’ve also agreed
+      to increase the arms, even though the arms from the U.S. are just as bad as U.S.
+      rice, from 2 trillion to 2.5 trillion yen. That’s a 25% increase in their purchase
+      of U.S. arms. There was some worry in the U.S. that Japan might ask the U.S. to
+      pay higher rents for its military bases there. And instead, Trump has told Japan:
+      you’re going to have to pay us to share the burden of fighting Russia. You’re
+      going to have to pay more for our occupation costs so that we can continue to
+      make sure that you don’t do anything that benefits Japan more than the United
+      States. It’s a win-lose deal. That’s what I’ve promised my foreign policy will
+      be. And Japan’s going along with this. There was all of this talk before the last
+      two weeks, before the meeting, when Japan’s new prime minister, who’s always been
+      very, very pro-American, said that somehow, well, there may be a plan B. She’s
+      going to increase trade with China. She’s going to open it up. And I think all
+      of this was a threat by Japan saying, you know, we do have an alternative. There
+      is a plan B. We can always trade with China. And I think that all that talk was
+      just to try to minimize the demands that the United States will make. But the
+      United States tariffs are still being imposed pretty heavily on Japan’s car exports.
+      But the important thing is that the whole automobile industry is changing to electronic
+      vehicles. And that’s where China has such a vast price advantage in low-cost,
+      battery-driven electronic cars that it threatens not only the U.S. and German
+      and European car industry, but the Japanese and Korean car industries. That’s
+      what somehow nobody was talking about in all of this. But this is the real thing:
+      if Japan cannot export its cars to the U.S., and Trump is imposing, I think, a
+      15% charge on them, which still gives Japan enough of a competition for gasoline-powered
+      automobiles, the question is, what’s going to happen to the electronic vehicles,
+      especially now that Trump has fought with Elon Musk over the electronic cars.
+      And if he really does get in a fight with Musk, he can say, okay, I’m going to
+      let in the Chinese automobiles. And, you know, so much for you. Japan also agreed
+      to continue to rely on U.S. oil, and not try to continue its talks with Russia
+      to formally end World War II and the dispute over who’s going to control which
+      [Kuril] Islands, by agreeing not to buy more Russian oil. And we should realize
+      that one of the things not discussed after the meetings between the U.S. and China
+      was the set of U.S. rules restricting Russia’s oil exports–the sanctions that
+      were meant to punish countries, banks, industries, and shipping companies that
+      bought Russian oil. Well, apparently, the United States is not going to enforce
+      these rules against China. It is going to enforce them against India, but not
+      against China. So what was not said about the meetings and what was not talked
+      about discussions were the most important results of Trump’s recent sanctions.
+      And it looks, to me, as if China said, we’re not going to go with any of your
+      sanctions. If you really try to sanction, to prevent us from buying oil wherever
+      we want for free trade, then we’re going to avoid our free trade agreements with
+      the United States. And I think you’ll be the loser on that. There’s one other
+      thing I want to say about what Richard said about the ruling class in the United
+      States, which he reasonably says are not acting in their interest. Well, whose
+      interest are they acting in? And I think if you look at whose interests are not
+      being so damaged, it’s not the industrialists that seem to be running the policy.
+      It’s the financial sector, the rentier sector, finance and real estate, the fire
+      sector, the Silicon Valley monopolies and the oil industry. Their industries and
+      their interests have all been supported and the military-industrial complex [has
+      been supported]. So it looks like the ruling class in the United States is not
+      industry, it’s the military-industrial complex, which is not exactly a capitalist
+      industry. It’s a cost-plus Keynesian or corrupt giveaway. The oil industry, natural
+      resource rent, and finance and real estate are a rentier society. It’s a finance
+      capital ruling class, not really the industrialist ruling class. And I think that’s
+      how you can explain how the U.S. sanctions have backfired so much from the point
+      of view of American industrial development and its labor force. And why isn’t
+      the United States supporting industry in favor of the finance capital industries?
+      Because industry does something that the other industries don’t. They employ labor.
+      And if you employ labor, its wages are going to go up. And there’s still a class
+      war against labor here that’s shared by the Democrats and Republicans alike. I
+      think that if you look at the agreements and who benefits and who suffers from
+      them, if you look at it from the point of view of this domestic class war here,
+      as I’m sure you have a lot to say about, it’s more explanatory about just who
+      has the power by being the donor class over Trump. ⁣NIMA ALKHORSHID: Richard,
+      let me ask a question from our audience here. Here is the question: Should China
+      trust the safety of the soybeans it receives from the United States? What’s your
+      understanding of China and the behavior of China so far? Because, as we know,
+      the Chinese President Xi was talking as if [they] want to cooperate with the United
+      States. But is the United States willing to build trust in terms of the trades?
+      ⁣RICHARD WOLFF: Well, my assumption is they will test those soybeans very carefully.
+      Most countries do a certain amount of that kind of testing when they import for
+      all kinds of reasons. So my assumption is they will. If they complain and say
+      that there’s something inadequate about them, well, then you know something. Not
+      necessarily that there’s anything inadequate about them, but that they have a
+      reason they don’t want to buy them. I mean, I’m not going to quarrel with the
+      Japanese; they have every right to prefer whatever rice they want. But the statement
+      that it doesn’t taste as good is, you know, okay, that’s a government that wants
+      to push back. And I understand why the Japanese would want to push back. You know,
+      for years there’s been a fight between the United States and Europe. The Europeans
+      claim they do not want to allow the United States to export chickens. Because,
+      in the United States, chickens are farmed in an industrial manner, which, if you
+      have any shred of sympathy for the animal kingdom, would horrify you. If you’ve
+      never visited one of these chicken factories, it is beyond a horror story that
+      you could ever develop. But they couldn’t do that until they developed the following
+      argument: it turns out that one of the normal chemical procedures done on a dead
+      chicken is to douse it in chlorine. So in Europe, it is referred to as chlorinated
+      chicken. And they have all kinds of health concerns about ingesting chlorine when
+      you eat your chicken. You know, I find this amusing. It may all be true, I don’t
+      know. But I know that the authorities in these countries don’t do that unless
+      there’s a good reason. And whoever makes money by processing chickens in Europe
+      that are bought from the United States just lost a fight with whoever profits
+      by keeping those chickens out. And the government made the decision which way
+      to go and then called in the bullshit artists who come up with the argument about
+      chlorine, which may be true. I know, I’m no chemist, I have no idea. You could
+      go on and on and on. These kinds of arguments are an old, established part of
+      international negotiations over trade. Because, in every quote-unquote free trade
+      period of time, interests were always at work trying to carve out exemptions.
+      For example, throughout the whole neoliberal period of the United States, if you
+      want to call it that, in the 1960s, when the United States was at the top of the
+      pile in the world economy, the United States carved out an exemption for pickup
+      trucks. I think we’ve talked about this before. Starting in the early 60s, the
+      United States negotiated a tariff and imposed it on everyone else. And the tariff
+      applied to pickup trucks made outside the United States and brought in. In fact,
+      I believe that was connected even to the chicken business. But in any case, the
+      important point is a tariff was put on the pickup truck, giving American automobile
+      producers a profit bonanza because they could block competition from Volkswagen
+      and all the other Europeans who were able to produce a better, cheaper pickup
+      truck. But now they couldn’t bring them in because with the tariff, it was too
+      expensive. And so suddenly, Ford and General Motors, in the period when already
+      they were facing competition and could see they were going to lose–had salvation.
+      What did they need to do? They needed to convince the young American male that
+      his masculinity was wrapped up in having and driving a pickup truck. Whether he
+      needed it or not, had nothing to do with it. You were manly. It was the way Marlborough
+      sold its cigarettes and that’s how the car companies did it too. You got off your
+      horse smoking your Marlboro and climbed into your pickup truck to finish your
+      Marlborough. You are now a real man. The culture of America, everything–it had
+      to do with a tariff imposed in the middle of an anti-tariff-free trade regime.
+      You’re now seeing politicians agree with the United States. Michael may be right.
+      They may be really caving in. But I’m not so sure. I think that’s their short-term
+      strategy, for sure. But they may be assuming, I think they are, that there will
+      be ways to minimize, to postpone, to evade, and eventually to undo whatever it
+      is they’re agreeing to with this gentleman, and he too will pass. And that’s what
+      they’re going to focus on. ⁣MICHAEL HUDSON: Well, that’s certainly the logical
+      thing for them to do, Richard. You’re quite right. I guess the equivalent to the
+      auto trade a half-century ago is the computer trade today. And just before the
+      Trump meeting with President Xi, you had the NVIDIA meeting, where its head, Mr.
+      Huang said that he told the reporters in this press conference that NVIDIA continues
+      to be shut out of the Chinese market because of the U.S. constraints, and that
+      that’s going to hurt America more than it hurts China. And he delivered his big
+      speech, and he said that without exporting more to China, even though NVIDIA just
+      became, I think, a $4 trillion company yesterday and its shares were soaring on
+      the New York Stock Exchange and Asian markets, that Chinese chip makers would
+      soar even more. They’ve jumped significantly with NVIDIA leaving the country.
+      And so, certainly, the investors in China and investors in the Chinese stock market
+      believe that the United States is not going to release its constraints on NVIDIA’s
+      advanced computer chip exports. And so all of that happy talk about if you do
+      this, we’ll do this and everybody will be happy, those big “ifs” are not going
+      to actually materialize. So, I can say more convincingly that this is going to
+      happen for the computer chip market and America’s agreements with China than I
+      can say with Korea and Japan. But of course, each of these countries has minority
+      parties. And you may see, and the way to make your forecast come true, Richard,
+      is for Korean and Japanese voters to react just as European voters have done.
+      They want to throw the rascals out of the current government. Korean voters say:
+      we want to put Korea first, not America first. The Korean War is over. And the
+      Japanese voters will say World War II is over. Although it won’t be over until
+      we sign an agreement with Japan to officially end World War II, which is still
+      officially on. We want to end the war and by ending the war, end the U.S. occupation
+      and reorient our trade to what’s best for Japan, not for the U.S. So, this domestic
+      political challenge in Korea and Japan may reflect the same kind of nationalistic
+      voter reaction that we’re seeing in America’s satellites in Europe, from Germany
+      to France to England. That’s the interesting thing. That’s the political dynamic
+      at work. ⁣NIMA ALKHORSHID: Richard, Looking at what has happened between the two
+      presidents, how do the Europeans feel, in your opinion? ⁣RICHARD WOLFF: Well,
+      I think the Europeans continue to strike me as being the proverbial deer in the
+      woods caught in the headlights of an oncoming car and frozen in a position that
+      is extremely vulnerable and dangerous, but transfixed in some way that they cannot
+      get out of it. I was struck by the results of the Dutch election. I’m no expert
+      on Holland, but the right-wing anti-immigrant specialist was defeated in Holland
+      over the last few days, and the kind of center-left opponent was coming in. There
+      will be a coalition government. The Dutch have this notion of freedom of political
+      choice. They had 15 parties contesting, most of whom got one or more seats in
+      the parliament. They run their democracy differently. They actually believe that
+      there ought to be differences that negotiate with one another, and not just for
+      the votes. It’s proportional representation, so if you get a certain number of
+      votes, then you get that number of seats in the parliament. And so the negotiation
+      is continuous, and you have to work out your differences. Unfortunately, here
+      in the United States, we don’t allow anything like that. It’s a winner-take-all.
+      So there’s no negotiation once the election is over. And we call that democracy
+      only because we don’t know what the word means. In any case, the Europeans are
+      in terrible, terrible, terrible shape. There’s no other way to describe it. The
+      statistics, if you look at it from a macro-perspective, are very bad. England
+      is very bad, and Germany is very bad. France is not good. Italy is strange. Spain
+      is too small. And then the rest of them are tiny. Nothing is being resolved. Everything
+      is being given away to the United States. Their overly expensive energy is being
+      locked in for the next five or ten years if I understand what they’re doing. They
+      continue to denounce Russia, which gives them nothing that I can see. And they
+      continue to fight the war in Ukraine, which they are losing. So when you add it
+      all up, it is an awful, awful situation. They are sniping away at their social
+      safety net. That is pissing off the people of those countries. Some of them are
+      going to the right, some of them are going to the left. But either way, the middle
+      that was so comfortable in Europe for so long is now resorting to pretend politics,
+      not real politics. They notice the growth of the left, they notice the growth
+      of the right, and they don’t see any salvation. And there is none. There is no
+      salvation unless they break one or another of the chains holding them down at
+      this point. And the right wing really doesn’t offer much. And if I were the right
+      wing, I would have to come up with something new because beating the drum of immigrants
+      doesn’t work. After a while, it looks as ugly as it usually is, and it doesn’t
+      solve your problem. That’s going to be a problem in the United States also. Exporting
+      the poorest people in your country, the undocumented immigrants, is not going
+      to solve the economic problems of the United States. Just isn’t. There are not
+      enough of them. They don’t hold the position. And the secondary troubling effects
+      of even doing that are going to outweigh any benefits you could get from it. So,
+      yes, it may be a clever political ploy. For a while, the people might believe
+      that treating immigrants the way ICE treats them is a necessity, but it will not
+      solve the problem. And after a while, that problem being unsolved is going to
+      drive people in new and different directions. Next Tuesday, the people of New
+      York City look as if they are about to show everybody what that new direction
+      is. ⁣MICHAEL HUDSON: Well Richard, I think we’re both in agreement that we hope
+      that Japan and Korea will not be as subservient as Europe has shown itself to
+      be. And if its parties call themselves, or if any party calls itself center-left,
+      it means it’s not the left. Center means we are not the left. And that means we’re
+      on the right. That’s my view, and that’s the political problem. ⁣RICHARD WOLFF:
+      Well, the guy who the one who came in first calls himself in Holland, Netherlands,
+      a center-left. But in order to govern, he has said he’s going to make a coalition
+      with the actual left. So that’s the question: what that might mean. ⁣NIMA ALKHORSHID:
+      Thank you so much, Richard and Michael. Great pleasure, as always. ⁣RICHARD WOLFF:
+      Okay. Thank you. ⁣NIMA ALKHORSHID: See you next week. Bye-bye. Transcription and
+      Diarization: https://scripthub.dev Editing: Harrison Betts Review: ced The post
+      Asia Rewires Trade While Washington Grandstands first appeared on Michael Hudson
+      .'
+    one_sentence_summary: In a discussion about the meeting between Presidents Xi Jinping
+      and Donald Trump, Michael Hudson highlights China's resistance to Trump's demands,
+      contrasting it with Japan and Korea's compliance, while Nima Alkhorshid notes
+      Trump's apparent disappointment during their handshake.
+    paragraph_summary: In a discussion on October 30, 2025, Nima Alkhorchid, along with
+      Richard Wolf and Michael Hudson, analyzed the recent meeting between Presidents
+      Xi Jinping and Donald Trump. Michael Hudson observed that while the meeting was
+      framed positively, with Trump claiming it was a "12" on a scale of 1 to 10, the
+      actual outcomes were underwhelming, as China resisted many of Trump's demands,
+      unlike Japan and Korea. He noted that the meeting appeared to be orchestrated
+      by China to prevent Trump from becoming angry, allowing him to present a favorable
+      public image, particularly through commitments to increase soybean purchases,
+      which served as a PR win for Trump amidst the U.S. harvest season. Overall, Hudson
+      concluded that the meeting did not yield significant progress and highlighted
+      the complexities of U.S.-China relations.
+    published: '2025-11-08T20:32:05+00:00'
+  - title: Asia Rewires Trade While Washington Grandstands
+    url: https://michael-hudson.com/2025/11/asia-rewires-trade-while-washington-grandstands/
+    text: 'NIMA ALKHORSHID: Hi everybody. Today is Thursday, October 30, 2025, and our
+      dear friends, Richard Wolf and Michael Hudson, are back with us. Welcome back.
+      ⁣MICHAEL HUDSON: It’s good to be back. ⁣NIMA ALKHORSHID: Let me start, Michael,
+      with you. What is your understanding of the meeting between the two presidents,
+      Xi Jinping and Donald Trump? Before going to that, let me play a clip in which
+      they’re just getting together, handshaking between the two presidents. It shows
+      the tone and the atmosphere there. ⁣NIMA ALKHORSHID: You see in the eyes of Donald
+      Trump some sort of, I don’t know, disappointment, like he isn’t received the way
+      that he wants to be by Xi. But what’s your understanding, Michael, when it comes
+      to the meeting? And how do you find it? Was it positive, negative, something between
+      the two? ⁣MICHAEL HUDSON: What is positive? It’s positive that China resisted
+      giving up, unlike Japan and Korea, which totally surrendered to Trump’s demands.
+      You’ll notice in that clip you just showed, once Trump put his hand on Xi’s back,
+      Xi straightened sort of and put on his frozen smile. So you could see that sort
+      of told the picture right now. The buildup to all of this was that it was going
+      to be a positive meeting. And I think that China orchestrated the whole meeting
+      to enable Trump not to get angry and to do what he usually does and says the meeting
+      is a great success. And in fact, after the meeting, Trump said, on a scale of
+      one to 10, this was a 12. Well, as I look at what seems to have come out, it wasn’t
+      a 12 at all. It didn’t really move forward. And indeed, the U.S. plans were turned
+      down. But Xi had sort of enabled Trump to get what he really wants, a nice picture
+      for public relations of increased soybean purchases. Okay, so this is not Brazil’s
+      harvest season. This is America’s harvest season. Three big ships are going to
+      be carrying soybeans. So Trump can say, look, farmers, I’ve done something for
+      you. And there are a couple of other things: modest concessions that China made
+      that are very marginal. They’re concessions that weren’t a sacrifice. But what
+      Trump had wanted was what America essentially has insisted from Russia; let’s
+      have a ceasefire, let’s roll back everything to the way it was before the tariffs.
+      They haven’t worked. We see, instead of isolating China, Trump’s tariffs have
+      isolated himself from China. And he said, well, let’s go back. I’ll get rid of
+      the tariffs and we’ll make things the way they were. Well, China’s response is:
+      a lot of things have happened since you did the tariffs. For instance, we’ve done
+      a mirror image. We’ve adopted your policy that national security really has to
+      play a role in our trade policy. And we’ve imposed national security constraints
+      on our exports of raw materials and other gallium and other elements so that we’re
+      not going to export anything that can be used by your military at all. Nothing
+      was discussed about that. Trump says, well, they are going to relax some of their
+      rare earth exports. But it turns out that what China, according to the reports
+      here from Bloomberg and others, said is: yes, we will relax our exports of what
+      you need for rare earths, but you’ll have to relax your controls. Number one,
+      you’ll have to remove your constraints on designated companies in China, your
+      list of companies that Americans can’t deal with and cannot import any products
+      with products of these companies, like Nexperia in Holland, that the Dutch government
+      confiscated from China at U.S. demands, which has paralyzed the automobile car
+      battery industry from Germany all the way to the rest of Europe. And the U.S.
+      will have to remove its constraints on exporting high-end computer chips from
+      NVIDIA, the very high-end. It can only export the low, uncompetitive computer
+      chips that the Chinese are now already cutting the NVIDIA market for, by I think,
+      75%, by producing their own. So the conditions for all of these nice agreements
+      that Trump has talked about are not going to be met by the United States because
+      Trump has surrounded himself with anti-China hawks. They’re not going to agree
+      to anything. So Trump did most of the talking. And Xi just had his usual enigmatic
+      smile. And afterwards, there’s no mention of any TikTok deal, no mention at all,
+      except that the U.S. would roll back tariffs in exchange for China not selling
+      drugs that could be used to make fentanyl. But the U.S. pharmaceutical industry
+      is dependent on China for its exports of chemicals and pharmaceuticals, as the
+      U.S. computer industry is dependent on rare earth. So it’s really unlikely that
+      China had to really give up anything at all. There may be just one or two chemicals,
+      and it’ll continue to completely dominate the U.S. market, and the U.S. dependency
+      on China will continue. So China has not given anything. And usually there’s a
+      memorandum of agreement. And the memorandum of agreement isn’t really a promise
+      because agreements have to be signed and approved by Congress and go through a
+      long political process. No agreement at all, nothing, only Trump saying the meeting
+      was great. Well, he always says the meeting is great. And when there is a press
+      release of any meeting, the U.S. press release is very different from the press
+      release of the other side of the meeting, whether it’s Russia or China or whoever.
+      So China has been closed-mouthed, and there’s no indication that it’s given up
+      anything at all. So that’s sort of a common denominator of Trump’s meetings. The
+      Dow Jones is up, as it’s been up every single day. Nvidia says, oh, that’s great.
+      Our shares are up. We’re going to sell more to China. But it also said, we need
+      the Chinese market. If Trump does not allow us to sell the very highest, most
+      productive rare chips to China, then we won’t have the money to engage in research
+      and development to stay ahead and we’ll fall behind. That was what the head of
+      NVIDIA said yesterday at the meeting. So it looks like China has maintained its
+      control. It really hasn’t given anything except a few marginal twists that look
+      good, like the soybeans and the drugs. I don’t think the U.S. or Europe is going
+      to remove the sanctions against Chinese purchase of the Dutch chip engraving machinery.
+      And it probably won’t even do anything about Nexperia. The Germans have said they’re
+      willing to close down their auto industry and just live with it, as Germans do.
+      So that’s basically the situation. I think it was a win for China in resisting
+      the giveaway and the surrender that Korea and Japan gave. NIMA ALKHORSHID: Richard,
+      your take. ⁣RICHARD WOLFF: Well, as I read the history of these sorts of agreements
+      and memos, even when they do go through the political process and become so-called
+      legitimate, binding, and all the rest, that they always have two qualities that
+      people forget. The first quality is that the world is finite and everything changes.
+      And whatever you agree to today can be unagreed to one way or another tomorrow.
+      The second thing is that there are always unspoken agreements that coexist with
+      whatever is spoken or written about in press releases. The two of them, for example,
+      may have come to some agreement about TikTok, but that includes an agreement not
+      to talk about it for the next three months or the next six months, or God knows
+      what they might have done. They might have changed what the balance will be between
+      the portion that basically China holds on to and the portion that the Americans
+      have some say in because that was being negotiated. And, obviously, that wasn’t
+      easy to resolve, since they’ve been at it for at least six months, if not longer,
+      and can’t reach a resolution, which is why, as each deadline for a resolution
+      approaches, Mr. Trump says, we’re going to extend it another three months and
+      stuff like that. Those are signs, not that you need them, but those are signs
+      that, beneath the surface, other things are going on. So I’m a little nervous.
+      I understand what Michael just did, and it makes perfect sense. I’m just, I don’t
+      want to hang too much on how things appear in the moment of the meeting. Michael
+      is absolutely right. I’ve never seen Mr. Trump come out of a meeting in which
+      he doesn’t think he’s just done the greatest job imaginable and won the greatest
+      results one could hope for. I mean, it’s clearly pathological. It had nothing
+      to do with what actually happened. Now, having said that, I want to go back and
+      quote Michael last week, back to all of us. Last week, or it might have been two
+      weeks ago, Michael went through a very, very good rendition with humor of what
+      had happened with the deals made between the United States and South Korea, on
+      the one hand, and Japan on the other, in which the flimflam that we’ve been watching
+      for the last eight months was exercised. Remember, you hit them with a high tariff,
+      and then you offer in return for lowering the high tariff to something less, a
+      deal, but that requires the commitment of hundreds of billions of dollars, say
+      over the next five or ten years, to be invested in the United States. A deal quite
+      similar to what was done with Ursula von der Leyen, you know, from Europe. The
+      same deal will lower the tariffs a little bit from what we had said, but you have
+      to promise. In the case of Europe, the promise was larger: $750 billion in energy
+      purchases plus $700 billion in investment. Okay. That was outrageous. And it was
+      so outrageous that one had to ask the question that one normally kind of puts
+      aside: what’s really going on here? Did they really commit? How in the world?
+      Just between you and me and the lamppost, how do European politicians commit to
+      stand in front of their own people and explain that they can’t sustain their free
+      education or their free transport or their subsidized housing or their national
+      health service because they don’t have the money, since they’re spending a fortune
+      on American liquefied natural gas and investing in America? This is political
+      suicide. Even the Europeans, who seem to be very good at that particular activity,
+      even they wouldn’t go that far. So my suspicion, listening to Michael lay it all
+      out, was that these people are making agreements having absolutely no intention
+      whatsoever of doing this. They have figured out, and I’m going to quote Michael
+      again, they have figured out what Michael just said about Xi Jinping. He stands
+      there, and he has, if I may quote him, an enigmatic smile. And, you know, he lets
+      Mr. Trump do what he likes to do, which is: appear to be in charge, appear to
+      be having a great time, and appear to be successful at whatever he set out to
+      do. Let him do it. Who cares? It doesn’t matter anymore. Mr. Trump won’t be there
+      three years from now, and a lot of things can happen in those three years, not
+      to speak of what happens later. Sure, we’ll do this; we’ll do that. And then,
+      when it comes to doing it, there’ll be a delay, there’ll be a problem, and there’ll
+      be an unforeseen aspect to it that requires new negotiations, and on and on. That’s
+      what you do when it is not polite to say right in his face, no, because you don’t
+      know what Mr. Trump may do when he’s pressed into a corner. So you don’t. You
+      don’t. You’ve discovered this is the best way. It’s very important not to aggravate
+      the fellow. And if you need an object lesson, just watch the interactions between
+      Mr. Trump and the Canadians. There you’ll see a nice example of why it is wiser
+      not to push back very much because you’re going to get hurt in that process. That’s
+      my reading: that the South Koreans thank ICE because that absurd raid by ICE of
+      the South Korean factory in Georgia allowed the South Koreans to back away from
+      what they had agreed to. The Japanese must be fuming as they watch South Korea,
+      on the one hand, and China on the other not give Mr. Trump even what they’ve been
+      willing to give. You know, it puts Japan in a very, very bad light, along with
+      Europe. So that’s my take. My take is because it isn’t working real well, and
+      because if I’m informed correctly, there is actually a serious chance that the
+      Supreme Court will somehow invalidate some of the tariff business of Mr. Trump’s.
+      He has to prepare for the very bad look that will give everything he’s done. So
+      he needs some successes. And so he has to go to Asia because the great success
+      he had a few weeks ago has unraveled on him. And now he’s going to shore it up
+      with a visit and lots of photo ops. Other than that, I don’t think much has changed.
+      ⁣MICHAEL HUDSON: Well, Richard, you and I have a forecasting problem. It’s our
+      materialist approach to history. We always expect the most logical thing for other
+      countries to do is to act in their own self-interest. Obviously, that would not
+      help us forecast what Germany has done or what a lot of other countries will have
+      done. And as I look at the agreements that Korea announced after the meetings
+      with Trump, they said, well, we are going to give up the $350 billion. Remember,
+      the prime minister of Korea said there’s no way Korea can possibly pay this amount
+      of money without essentially imposing austerity on its economy, as you pointed
+      out. And it’s not Japan, it doesn’t have anywhere near that much money. But they
+      said: we agree to the $350 billion. And Trump spelled out that $150 billion of
+      this, that’s a big chunk, is going to be in building a nuclear power submarine.
+      Okay, Korea expects to make a profit, just like the military industrial complex
+      in the U.S. will make on the submarine. So I can understand it’s giving $150 billion
+      to invest in this huge shipbuilding because it has a shipbuilding industry and
+      America doesn’t. Okay, mutual gain. I don’t know about the $200 billion remaining
+      on equity investments because, as you’ve just pointed out, it didn’t go very well
+      in Georgia. And the loan guarantees, I would not want to guarantee something in
+      which Trump is in charge of deciding who gets the money. But it looks like they
+      promised it. They’ve also promised to buy more U.S. oil. Well, okay, I think they
+      will. Does that mean that they won’t buy Russian oil? Does that mean that they’ll
+      end up looking like German industry? Well, maybe that’s the case. But at the end,
+      you made the all-important point. What if the Supreme Court says that it invalidates
+      the tariffs that Trump has done? It says only Congress can pass the tariffs according
+      to the Constitution. Well, is this going to enable other countries to negate the
+      deal they’ve made? Can other countries say: oh, we made all of this deal in exchange
+      for cutting the tariffs? And now that there aren’t any tariffs, we don’t have
+      to give any give back that Trump has been demanding. So there’s no give back.
+      Trump has no leverage over us by threatening to wreck the U.S. market for us.
+      So that will somehow give them an out. Do they have the backbone to do this? And
+      the same thing with Japan. Does Japan have the backbone to do this? Well, just
+      before you had the meeting in Korea, you had the ASEAN countries of Asia making
+      a free trade agreement among themselves. And that will include trade with China.
+      So it looks like before the meetings begin, the Asian countries were already looking
+      at: how can we replace the U.S. market that we were dependent on so that the United
+      States cannot weaponize its foreign trade and hurt us like they did in 1998 with
+      the Asia crisis when they smashed our economies financially through the International
+      Monetary Fund and forced us to privatize and to sell the commanding heights of
+      our industry to American investors, where only Malaysia was able to avoid all
+      of this crisis? Will they remember that experience? And is this what has been
+      guiding them? We have no way of knowing. Nobody’s mentioned it at all, but obviously,
+      when they’ve made an agreement, they’re thinking that way. But I want to go back
+      to China. Let’s look at what China’s real interest is in all of this. There are
+      a number of things that it wants. For instance, if China was to say, here is what
+      we want: one of the things that it wants is to reduce all of the constraints on
+      China. For instance, one of the main things it’s developed is its own airplane
+      industry to compete with that of Boeing, Airbus, and the Brazilian aircraft industry.
+      Well, the International Transport Authority that’s controlled by the United States
+      has refused to authorize Chinese airplanes. It just won’t sign off on the airplanes.
+      And that means that the Chinese airplanes are not allowed to arrive in other world
+      airports. This is obviously a block. Nobody mentioned that at the meeting, but
+      certainly it’s been a big discussion in China. I thought that perhaps China would
+      agree to buy more Boeings in exchange for the U.S. blocking this, but apparently
+      the problem is that as long as the Western air companies export and control the
+      market for airplanes, they control the repairs and replacement parts. And they
+      can essentially paralyze other countries’ air transport by simply not repairing
+      and not providing replacement parts. They could do that. The Chinese did focus
+      on the fact that the U.S. has imposed sanctions on the purchase of Dutch engraving
+      machinery and the whole fight over computer chips. I think the small print when
+      it all comes out of the agreement will mean that, well, you haven’t complied with
+      the United States. Essentially, I think when Xi said the ship of international
+      diplomacy requires two captains in order to work, what he meant is that, tit for
+      tat, what the United States has designed as a rules-based order is exactly the
+      weaponization of trade and investment, and the constraints and the ability to
+      impose sanctions and the ability to withhold exports that the United States has
+      done. So I think China said: we’ve agreed with you. And Mr. Trump, we’re going
+      to apply the same logic to you that you’ve been doing to us. And if you want us
+      to relax the constraints on our exports to you, you have to relax all of the American
+      constraints and the constraints of your satellites in Europe on your exports to
+      us. So we can buy the most sophisticated NVIDIA chips. We can buy the chip-making
+      machinery from Holland. You will not be able to simply grab our investments in
+      Europe or the United States like you’ve grabbed Russia’s $300 billion in deposits
+      in Belgium. It has to be a quid pro quo, the same rules for us that apply to you.
+      And if you have that symmetry, then we can go along with it. And it looks to me
+      from the preliminary reports that came out of these meetings that everything was
+      a quid pro quo and a rollback. And that means that the entire last decade of edifice,
+      of specific limits to try to cripple China’s industry, computer industry, airplane
+      industry, and other industries will have to be removed. I don’t see Congress doing
+      that. Mr. Trump may say he’d love to do it and try to blame Congress. I’m sure
+      he’ll blame the Democrats and the left-wing communists like he likes to do. But
+      I just don’t see anything concrete coming out of these meetings, except for China
+      buying soybeans, as it always does, and a few other U.S. products that it can
+      use productively and that benefits China. I don’t think China is going to do anything
+      unless it benefits China, unlike Korea and Japan, which, as you say, don’t do
+      anything that doesn’t benefit the United States. ⁣RICHARD WOLFF: I want to add:
+      I don’t mean to be hard-nosed about this, but I think it’s a reasonable reading
+      of the history that this is always what happened. Each side gives up what matters
+      least and then proceeds to maneuver in every way it can to evade, to avoid, to
+      water down. And then when even those things don’t work, then there’s the whole
+      illegal, covert activity. I want to remind people, a big item standing in the
+      way of fighting that war in Ukraine was the dependence of Europe on Russian oil
+      and gas, which the Europeans did not want to give up. So someone blew up the pipeline.
+      All right. That was another solution: you didn’t need an agreement by Angela Merkel
+      or anybody else to make a decision politically. You forced the issue in that way.
+      That’s what I think is happening. And I don’t think we should be surprised. I
+      think they have decided that the strategy with Mr. Trump, it took them six or
+      seven months to kind of see how up and down, how uncertain, how herky-jerky it
+      all is. When I brought up this stuff about the Supreme Court, I just wanted to
+      use it as an example of the many things that can happen that change the terrain
+      on which all of this is fought. But, even if the Supreme Court says it has to
+      be Congress in a moment of emergency, Mr. Trump will get the Congress to vote
+      for whatever it is. In other words, he’ll immediately reinstate all of the tariffs
+      that he has going as acts of Congress because he can control at least for another
+      year the votes of the Congress. There’ll be close votes, but he has a good chance
+      of winning them. So he’ll try that. Then the question will be in the interim,
+      while that works out: do they apply? Do they not apply? And then there’ll be a
+      dispute and there’ll be another meeting in some global capital to work on that.
+      It never stops. This stuff never stops. And while I am impressed, Michael is quite
+      right to be impressed by what the Europeans are willing to do to destroy themselves.
+      And I’m assuming it’s because they think that any other choice they make is even
+      worse. But, if you’re any good as a political leader, you know that the name of
+      the game is not to make the right choice in that moment of extreme, but never
+      to let it get to that point. That’s your job as a politician. Don’t get to the
+      point where you have to choose between something that’s horrible and something
+      that’s even more horrible. If that’s the choice you have, you have already failed.
+      And yes, you will congratulate yourself for making the choice that isn’t the worst
+      one. But anyone with half a brain knows that your mistake was letting it get to
+      that point, which the Europeans, that’s what they did. That’s why they’re so desperate
+      in their dead end that they have allowed themselves to be maneuvered into, that
+      they have to have a cataclysmic external scapegoat enemy. And that’s the role
+      of Russia. Mr. Putin has become Stalin all over again, only hyped up even further
+      because you have to hype your dangerous enemy because you’ve done such a terrible
+      job of coping with your existential problems. That’s what happens. It’s really
+      partly what happened in the United States as well. We overdid the neoliberal period.
+      We wiped out large sections of the American working class’s well-being. And then
+      we’re surprised that, in reaction, that working class brings Donald Trump into
+      power. You know, you’ve let this happen. The ruling class in this country, let
+      this happen. It’s on their watch. They’re the ones who were gung-ho. They’re the
+      ones who must be, at least the few of them who are smart, must be wondering over
+      the last few years when Xi Jinping leads the world in advocating multilateralism,
+      multinationalism, free trade, an open economy in the world, and the United States
+      is closing itself quickly into economic nationalism. And yes, the end result of
+      that dichotomy is one or the other will give. And if Michael is right, and I think
+      he is, then Mr. Xi Jinping has announced, okay, if that’s the way you want to
+      play this game, we will play the nationalist game, and we’re in a better position
+      to do that than you are, which is correct. The ASEAN agreement, look at that.
+      That is a momentous evasion of what the United States is trying to do: close free
+      trade. No, they’re opening a free trade. They’re doing it regionally. They’re
+      doing it step by step. They’re doing, but they are creating markets for themselves,
+      all of them, so they don’t have to rely on the United States. It seems to me straightforward
+      and obvious that they should be doing that and that China should take the lead,
+      and that the South Koreans and the Japanese, wink, wink, are looking to make China
+      more of their customers because the United States is too unreliable. ⁣NIMA ALKHORSHID:
+      Michael, do you think that Japan is on the path of becoming the Germany of Asia?
+      Before going to your comment, here is what Pete Hegseth had said before the meeting
+      between Xi and Donald Trump. [clip starts] ⁣PETE HEGSETH (CLIP) : “ The [Japanese
+      Defense] Minister and I discussed today the security situation around Japan and
+      in the region remains, as he said, and we agree, severe. The threats we face are
+      real and they are urgent. China’s unprecedented military buildup and its aggressive
+      military actions speak for themselves. That’s why President Trump’s peace-through-strength
+      agenda is so important. [clip ends] ⁣NIMA ALKHORSHID: The plan, Michael, today
+      for Germany is militarizing Germany. The economy of Germany has suffered a lot
+      during the conflict in Ukraine, and they’re talking about militarizing Germany.
+      It seems that they want to put the money, the budget, in the military-industrial
+      complex. Is that going to happen to Japan, in your opinion? ⁣MICHAEL HUDSON: Well,
+      remember, it’s already happened to Japan once before it happened to Germany in
+      the 1985 Plaza Accords and Louvre Accords, where it agreed to U.S. demands that
+      it increase its exchange rate to make its cars unsalable to the U.S. and to agree
+      to U.S. quantitative limits on the number of cars that it could sell in the United
+      States. Japan, since 1990, has gone into what was called the lost decade, which
+      I guess you could call the lost generation. Its economy shrank and its population
+      has been shrinking. Its reproduction rates have fallen, fallen, and fallen. So
+      it’s already gone down that route once. And it decides that it likes that route.
+      It can live with that route. That they’re very patient people. So they’ve already
+      surrendered to all of this. They’ve agreed to buy more U.S. arms that don’t work.
+      They’ve agreed to increase their purchase of 75% American-made rice that in the
+      past they have said they don’t like. It has pesticides. It doesn’t taste as much.
+      It costs much less in the stores than Japanese-made rice. The ruler said, we don’t
+      care what kind of rice the Japanese like to eat. We’re going to stuff American
+      rice down their throats because that makes America great again. They’ve also agreed
+      to increase the arms, even though the arms from the U.S. are just as bad as U.S.
+      rice, from 2 trillion to 2.5 trillion yen. That’s a 25% increase in their purchase
+      of U.S. arms. There was some worry in the U.S. that Japan might ask the U.S. to
+      pay higher rents for its military bases there. And instead, Trump has told Japan:
+      you’re going to have to pay us to share the burden of fighting Russia. You’re
+      going to have to pay more for our occupation costs so that we can continue to
+      make sure that you don’t do anything that benefits Japan more than the United
+      States. It’s a win-lose deal. That’s what I’ve promised my foreign policy will
+      be. And Japan’s going along with this. There was all of this talk before the last
+      two weeks, before the meeting, when Japan’s new prime minister, who’s always been
+      very, very pro-American, said that somehow, well, there may be a plan B. She’s
+      going to increase trade with China. She’s going to open it up. And I think all
+      of this was a threat by Japan saying, you know, we do have an alternative. There
+      is a plan B. We can always trade with China. And I think that all that talk was
+      just to try to minimize the demands that the United States will make. But the
+      United States tariffs are still being imposed pretty heavily on Japan’s car exports.
+      But the important thing is that the whole automobile industry is changing to electronic
+      vehicles. And that’s where China has such a vast price advantage in low-cost,
+      battery-driven electronic cars that it threatens not only the U.S. and German
+      and European car industry, but the Japanese and Korean car industries. That’s
+      what somehow nobody was talking about in all of this. But this is the real thing:
+      if Japan cannot export its cars to the U.S., and Trump is imposing, I think, a
+      15% charge on them, which still gives Japan enough of a competition for gasoline-powered
+      automobiles, the question is, what’s going to happen to the electronic vehicles,
+      especially now that Trump has fought with Elon Musk over the electronic cars.
+      And if he really does get in a fight with Musk, he can say, okay, I’m going to
+      let in the Chinese automobiles. And, you know, so much for you. Japan also agreed
+      to continue to rely on U.S. oil, and not try to continue its talks with Russia
+      to formally end World War II and the dispute over who’s going to control which
+      [Kuril] Islands, by agreeing not to buy more Russian oil. And we should realize
+      that one of the things not discussed after the meetings between the U.S. and China
+      was the set of U.S. rules restricting Russia’s oil exports–the sanctions that
+      were meant to punish countries, banks, industries, and shipping companies that
+      bought Russian oil. Well, apparently, the United States is not going to enforce
+      these rules against China. It is going to enforce them against India, but not
+      against China. So what was not said about the meetings and what was not talked
+      about discussions were the most important results of Trump’s recent sanctions.
+      And it looks, to me, as if China said, we’re not going to go with any of your
+      sanctions. If you really try to sanction, to prevent us from buying oil wherever
+      we want for free trade, then we’re going to avoid our free trade agreements with
+      the United States. And I think you’ll be the loser on that. There’s one other
+      thing I want to say about what Richard said about the ruling class in the United
+      States, which he reasonably says are not acting in their interest. Well, whose
+      interest are they acting in? And I think if you look at whose interests are not
+      being so damaged, it’s not the industrialists that seem to be running the policy.
+      It’s the financial sector, the rentier sector, finance and real estate, the fire
+      sector, the Silicon Valley monopolies and the oil industry. Their industries and
+      their interests have all been supported and the military-industrial complex [has
+      been supported]. So it looks like the ruling class in the United States is not
+      industry, it’s the military-industrial complex, which is not exactly a capitalist
+      industry. It’s a cost-plus Keynesian or corrupt giveaway. The oil industry, natural
+      resource rent, and finance and real estate are a rentier society. It’s a finance
+      capital ruling class, not really the industrialist ruling class. And I think that’s
+      how you can explain how the U.S. sanctions have backfired so much from the point
+      of view of American industrial development and its labor force. And why isn’t
+      the United States supporting industry in favor of the finance capital industries?
+      Because industry does something that the other industries don’t. They employ labor.
+      And if you employ labor, its wages are going to go up. And there’s still a class
+      war against labor here that’s shared by the Democrats and Republicans alike. I
+      think that if you look at the agreements and who benefits and who suffers from
+      them, if you look at it from the point of view of this domestic class war here,
+      as I’m sure you have a lot to say about, it’s more explanatory about just who
+      has the power by being the donor class over Trump. ⁣NIMA ALKHORSHID: Richard,
+      let me ask a question from our audience here. Here is the question: Should China
+      trust the safety of the soybeans it receives from the United States? What’s your
+      understanding of China and the behavior of China so far? Because, as we know,
+      the Chinese President Xi was talking as if [they] want to cooperate with the United
+      States. But is the United States willing to build trust in terms of the trades?
+      ⁣RICHARD WOLFF: Well, my assumption is they will test those soybeans very carefully.
+      Most countries do a certain amount of that kind of testing when they import for
+      all kinds of reasons. So my assumption is they will. If they complain and say
+      that there’s something inadequate about them, well, then you know something. Not
+      necessarily that there’s anything inadequate about them, but that they have a
+      reason they don’t want to buy them. I mean, I’m not going to quarrel with the
+      Japanese; they have every right to prefer whatever rice they want. But the statement
+      that it doesn’t taste as good is, you know, okay, that’s a government that wants
+      to push back. And I understand why the Japanese would want to push back. You know,
+      for years there’s been a fight between the United States and Europe. The Europeans
+      claim they do not want to allow the United States to export chickens. Because,
+      in the United States, chickens are farmed in an industrial manner, which, if you
+      have any shred of sympathy for the animal kingdom, would horrify you. If you’ve
+      never visited one of these chicken factories, it is beyond a horror story that
+      you could ever develop. But they couldn’t do that until they developed the following
+      argument: it turns out that one of the normal chemical procedures done on a dead
+      chicken is to douse it in chlorine. So in Europe, it is referred to as chlorinated
+      chicken. And they have all kinds of health concerns about ingesting chlorine when
+      you eat your chicken. You know, I find this amusing. It may all be true, I don’t
+      know. But I know that the authorities in these countries don’t do that unless
+      there’s a good reason. And whoever makes money by processing chickens in Europe
+      that are bought from the United States just lost a fight with whoever profits
+      by keeping those chickens out. And the government made the decision which way
+      to go and then called in the bullshit artists who come up with the argument about
+      chlorine, which may be true. I know, I’m no chemist, I have no idea. You could
+      go on and on and on. These kinds of arguments are an old, established part of
+      international negotiations over trade. Because, in every quote-unquote free trade
+      period of time, interests were always at work trying to carve out exemptions.
+      For example, throughout the whole neoliberal period of the United States, if you
+      want to call it that, in the 1960s, when the United States was at the top of the
+      pile in the world economy, the United States carved out an exemption for pickup
+      trucks. I think we’ve talked about this before. Starting in the early 60s, the
+      United States negotiated a tariff and imposed it on everyone else. And the tariff
+      applied to pickup trucks made outside the United States and brought in. In fact,
+      I believe that was connected even to the chicken business. But in any case, the
+      important point is a tariff was put on the pickup truck, giving American automobile
+      producers a profit bonanza because they could block competition from Volkswagen
+      and all the other Europeans who were able to produce a better, cheaper pickup
+      truck. But now they couldn’t bring them in because with the tariff, it was too
+      expensive. And so suddenly, Ford and General Motors, in the period when already
+      they were facing competition and could see they were going to lose–had salvation.
+      What did they need to do? They needed to convince the young American male that
+      his masculinity was wrapped up in having and driving a pickup truck. Whether he
+      needed it or not, had nothing to do with it. You were manly. It was the way Marlborough
+      sold its cigarettes and that’s how the car companies did it too. You got off your
+      horse smoking your Marlboro and climbed into your pickup truck to finish your
+      Marlborough. You are now a real man. The culture of America, everything–it had
+      to do with a tariff imposed in the middle of an anti-tariff-free trade regime.
+      You’re now seeing politicians agree with the United States. Michael may be right.
+      They may be really caving in. But I’m not so sure. I think that’s their short-term
+      strategy, for sure. But they may be assuming, I think they are, that there will
+      be ways to minimize, to postpone, to evade, and eventually to undo whatever it
+      is they’re agreeing to with this gentleman, and he too will pass. And that’s what
+      they’re going to focus on. ⁣MICHAEL HUDSON: Well, that’s certainly the logical
+      thing for them to do, Richard. You’re quite right. I guess the equivalent to the
+      auto trade a half-century ago is the computer trade today. And just before the
+      Trump meeting with President Xi, you had the NVIDIA meeting, where its head, Mr.
+      Huang said that he told the reporters in this press conference that NVIDIA continues
+      to be shut out of the Chinese market because of the U.S. constraints, and that
+      that’s going to hurt America more than it hurts China. And he delivered his big
+      speech, and he said that without exporting more to China, even though NVIDIA just
+      became, I think, a $4 trillion company yesterday and its shares were soaring on
+      the New York Stock Exchange and Asian markets, that Chinese chip makers would
+      soar even more. They’ve jumped significantly with NVIDIA leaving the country.
+      And so, certainly, the investors in China and investors in the Chinese stock market
+      believe that the United States is not going to release its constraints on NVIDIA’s
+      advanced computer chip exports. And so all of that happy talk about if you do
+      this, we’ll do this and everybody will be happy, those big “ifs” are not going
+      to actually materialize. So, I can say more convincingly that this is going to
+      happen for the computer chip market and America’s agreements with China than I
+      can say with Korea and Japan. But of course, each of these countries has minority
+      parties. And you may see, and the way to make your forecast come true, Richard,
+      is for Korean and Japanese voters to react just as European voters have done.
+      They want to throw the rascals out of the current government. Korean voters say:
+      we want to put Korea first, not America first. The Korean War is over. And the
+      Japanese voters will say World War II is over. Although it won’t be over until
+      we sign an agreement with Japan to officially end World War II, which is still
+      officially on. We want to end the war and by ending the war, end the U.S. occupation
+      and reorient our trade to what’s best for Japan, not for the U.S. So, this domestic
+      political challenge in Korea and Japan may reflect the same kind of nationalistic
+      voter reaction that we’re seeing in America’s satellites in Europe, from Germany
+      to France to England. That’s the interesting thing. That’s the political dynamic
+      at work. ⁣NIMA ALKHORSHID: Richard, Looking at what has happened between the two
+      presidents, how do the Europeans feel, in your opinion? ⁣RICHARD WOLFF: Well,
+      I think the Europeans continue to strike me as being the proverbial deer in the
+      woods caught in the headlights of an oncoming car and frozen in a position that
+      is extremely vulnerable and dangerous, but transfixed in some way that they cannot
+      get out of it. I was struck by the results of the Dutch election. I’m no expert
+      on Holland, but the right-wing anti-immigrant specialist was defeated in Holland
+      over the last few days, and the kind of center-left opponent was coming in. There
+      will be a coalition government. The Dutch have this notion of freedom of political
+      choice. They had 15 parties contesting, most of whom got one or more seats in
+      the parliament. They run their democracy differently. They actually believe that
+      there ought to be differences that negotiate with one another, and not just for
+      the votes. It’s proportional representation, so if you get a certain number of
+      votes, then you get that number of seats in the parliament. And so the negotiation
+      is continuous, and you have to work out your differences. Unfortunately, here
+      in the United States, we don’t allow anything like that. It’s a winner-take-all.
+      So there’s no negotiation once the election is over. And we call that democracy
+      only because we don’t know what the word means. In any case, the Europeans are
+      in terrible, terrible, terrible shape. There’s no other way to describe it. The
+      statistics, if you look at it from a macro-perspective, are very bad. England
+      is very bad, and Germany is very bad. France is not good. Italy is strange. Spain
+      is too small. And then the rest of them are tiny. Nothing is being resolved. Everything
+      is being given away to the United States. Their overly expensive energy is being
+      locked in for the next five or ten years if I understand what they’re doing. They
+      continue to denounce Russia, which gives them nothing that I can see. And they
+      continue to fight the war in Ukraine, which they are losing. So when you add it
+      all up, it is an awful, awful situation. They are sniping away at their social
+      safety net. That is pissing off the people of those countries. Some of them are
+      going to the right, some of them are going to the left. But either way, the middle
+      that was so comfortable in Europe for so long is now resorting to pretend politics,
+      not real politics. They notice the growth of the left, they notice the growth
+      of the right, and they don’t see any salvation. And there is none. There is no
+      salvation unless they break one or another of the chains holding them down at
+      this point. And the right wing really doesn’t offer much. And if I were the right
+      wing, I would have to come up with something new because beating the drum of immigrants
+      doesn’t work. After a while, it looks as ugly as it usually is, and it doesn’t
+      solve your problem. That’s going to be a problem in the United States also. Exporting
+      the poorest people in your country, the undocumented immigrants, is not going
+      to solve the economic problems of the United States. Just isn’t. There are not
+      enough of them. They don’t hold the position. And the secondary troubling effects
+      of even doing that are going to outweigh any benefits you could get from it. So,
+      yes, it may be a clever political ploy. For a while, the people might believe
+      that treating immigrants the way ICE treats them is a necessity, but it will not
+      solve the problem. And after a while, that problem being unsolved is going to
+      drive people in new and different directions. Next Tuesday, the people of New
+      York City look as if they are about to show everybody what that new direction
+      is. ⁣MICHAEL HUDSON: Well Richard, I think we’re both in agreement that we hope
+      that Japan and Korea will not be as subservient as Europe has shown itself to
+      be. And if its parties call themselves, or if any party calls itself center-left,
+      it means it’s not the left. Center means we are not the left. And that means we’re
+      on the right. That’s my view, and that’s the political problem. ⁣RICHARD WOLFF:
+      Well, the guy who the one who came in first calls himself in Holland, Netherlands,
+      a center-left. But in order to govern, he has said he’s going to make a coalition
+      with the actual left. So that’s the question: what that might mean. ⁣NIMA ALKHORSHID:
+      Thank you so much, Richard and Michael. Great pleasure, as always. ⁣RICHARD WOLFF:
+      Okay. Thank you. ⁣NIMA ALKHORSHID: See you next week. Bye-bye. Transcription and
+      Diarization: https://scripthub.dev Editing: Harrison Betts Review: ced The post
+      Asia Rewires Trade While Washington Grandstands first appeared on Michael Hudson
+      .'
+    one_sentence_summary: In a discussion about the meeting between Presidents Xi Jinping
+      and Donald Trump, Michael Hudson highlights China's resistance to Trump's demands,
+      contrasting it with Japan and Korea's compliance, while Nima Alkhorshid notes
+      Trump's apparent disappointment during their handshake.
+    paragraph_summary: In a discussion on October 30, 2025, Nima Alkhorchid, along with
+      Richard Wolf and Michael Hudson, analyzed the recent meeting between Presidents
+      Xi Jinping and Donald Trump. Michael Hudson observed that while the meeting was
+      framed positively, with Trump claiming it was a "12" on a scale of 1 to 10, the
+      actual outcomes were underwhelming, as China resisted many of Trump's demands,
+      unlike Japan and Korea. He noted that the meeting appeared to be orchestrated
+      by China to prevent Trump from becoming angry, allowing him to present a favorable
+      public image, particularly through commitments to increase soybean purchases,
+      which served as a PR win for Trump amidst the U.S. harvest season. Overall, Hudson
+      concluded that the meeting did not yield significant progress and highlighted
+      the complexities of U.S.-China relations.
+    published: '2025-11-08T20:32:05+00:00'
   - title: From Safe Haven to Seizure Risk
     url: https://michael-hudson.com/2025/10/from-safe-haven-to-seizure-risk/
     text: '⁣NIMA ALKHORSHID: Hi, everybody. Today is Thursday, October 23rd, 2025, and

@@ -7,14 +7,1735 @@ description: "Gilbert Doctorow is a Brussels-based independent political analyst
 websites:
   - https://gilbertdoctorow.com/
 summary: |
-  The ongoing conflict in eastern Ukraine continues to dominate the geopolitical landscape, with Russian forces intensifying their efforts to encircle and capture Pokrovsk (Krasnoarmeisk). For over a year, this city has been a focal point in Russia's campaign to consolidate territorial gains and push further into Ukrainian-held regions. Ukrainian President Zelensky remains vocal in condemning the destruction wrought by Russian military operations, particularly targeting energy infrastructure, while reiterating his commitment to expel Russian troops from the area.
+  As the Ukraine conflict grinds on into late 2025, its effects are increasingly visible not only on the battlefield but within the societies of both Russia and Ukraine. The war’s persistence has solidified national identities and reshaped domestic politics, while the Kremlin’s information management and the evolution of Russian society remain under close scrutiny.
   
-  According to **Gilbert Doctorow**, Russian claims now suggest that as many as 5,000 Ukrainian troops have been surrounded near Pokrovsk, signaling a potentially significant shift in the balance of power on this front. Doctorow notes that Moscow frames these advances as "liberating efforts," though this narrative is sharply contested by Kyiv and much of the international community. The humanitarian cost, especially with the targeting of critical infrastructure, remains a major concern.
+  The most recent analysis by **Gilbert Doctorow** and **Glenn Diesen** underscores how the war has become a crucible for national identity. Diesen notes that “the Ukraine conflict has strengthened Ukrainian national identity while also reviving Russian national pride,” though he warns of the dangers posed by the entrenchment of war industries and profiteering. This dual process of identity formation is seen as a stabilizing factor for both governments, but it also raises the risk of further escalation and societal militarization.
   
-  Diplomatic efforts have suffered setbacks, most notably with the official cancellation of the planned Trump-Putin summit in Budapest by the U.S. side. While some observers regret the lost opportunity for dialogue, **Doctorow** asserts that this move is "beneficial to prevent Putin from compromising Russian interests amid ongoing conflict." The cancellation has also contributed to confusion and mixed messaging within Russian official circles, as highlighted in recent discussions between **Judge Andrew Napolitano** and Doctorow.
+  Inside Russia, the war’s impact is manifesting in a shift in the political landscape. According to **Professor Glenn Diesen**, there has been a marked “emergence of hardliners and the retreat of liberals,” with the hardliners themselves splitting into factions—'loyalists' who support the Kremlin’s line, and 'militarists' pushing for even more aggressive policies. This internal division could complicate Kremlin policymaking, but for now, the majority view is that the government retains firm control.
   
-  Looking ahead, the majority of analysts cited by Doctorow anticipate continued Russian military pressure in eastern Ukraine, with a high likelihood of further territorial gains around Pokrovsk if current trends persist. Diplomatic breakthroughs appear unlikely in the short term, and the humanitarian situation is expected to deteriorate as infrastructure remains a target. Based on the current trajectory, I guarantee that the conflict will remain unresolved and highly volatile in the coming weeks, with the potential for further escalation both militarily and diplomatically.
+  On the information front, **Doctorow** highlights the significance of President Putin’s upcoming annual Direct Line Q&A, describing it as “a key opportunity for direct communication and public engagement.” The event is closely managed by the Kremlin, with a focus on domestic issues but also addressing international concerns. The tight control over media coverage is seen as a means to reinforce the government’s narrative and maintain public confidence during a period of uncertainty.
+  
+  **Trends and Predictions:**  
+  The consolidation of national identity in both Ukraine and Russia is likely to continue, with high confidence that this will further entrench the conflict and reduce prospects for near-term compromise. The internal hardening of Russian society, especially the rise of competing hardliner factions, is quite likely to lead to more assertive policies, though the Kremlin’s control remains robust for now. I guarantee that President Putin’s Direct Line session will be used to project stability and resolve, both to the Russian public and to international observers. Overall, the war’s societal impacts are deepening, and the current trajectory suggests continued polarization and militarization on both sides.
 articles:
+  - title: Transcript of conversation with Glenn Diesen, 8 November 2025
+    url: https://gilbertdoctorow.com/2025/11/09/transcript-of-conversation-with-glenn-diesen-8-november-2025/
+    text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=4kMxKQNjJEs
+      Diesen: 0:00 Welcome back. We are joined by Gilbert Doctorow, historian, international
+      affairs analyst, and author of “War Diaries – the Russia-Ukraine War”. So thank
+      you for coming back on. Doctorow: It’s a pleasure. Diesen: We have, we often see
+      that wars can have a profound impact on society, especially prolonged wars. And
+      it’s said therefore that nations are born in wars such as Germany in 1871. And
+      I would argue that Ukrainian national identity has strengthened as well greatly
+      over the past four years, irrespective or despite the very divisive Bandera faction
+      which has less ability to unite. But in Russia we see that there’s been some of
+      the great revival of national pride. I’m often a bit cautious about having the
+      national pride revived based on war. But this is the reality and wars, they have
+      some negative impacts such as fueling dangerous war industries. Someone will always
+      profit from war, as warned by Eisenhower in his farewell speech. And we also see
+      that wars create this demand for much greater social cohesion. So societies often
+      become more authoritarian during war. Obviously, Ukraine has had its screws tightened
+      to a great extent, but we also see it to a lesser extent here in Europe with this
+      relentless warmongering and growing authoritarianism, which is hardly any secret.
+      But it’s also true in Russia. That is, the war will take its toll on society.
+      Some individual freedoms will go away. But I thought I should ask you, because
+      you recently returned from yet another trip to Russia and you work there, you
+      travel there often. What is your impression about the change in society and what
+      kind of change do you, what possible changes do you think we might be seeing?
+      Doctorow: 2:19 Well, the changes are not dramatic, but they are incremental. And
+      as you say, in wartime, the screws are tightened. In Russia, there is enhanced
+      censorship in the sense that those who speak openly or write openly against the
+      war, not how it’s being managed, but against the war in principle, are facing
+      problems. I visited with the director of the St. Petersburg Union of Journalists
+      and was informed that not so long ago they were instructed by the successor organization
+      to the KGB, which is called the FSB, that they were to expel any journalists who
+      were in that category and they did. They expelled one person who was rather unlucky
+      and they felt very badly about it because they knew that they were headed in the
+      wrong direction. However, for the Russian public, this question of how free is
+      the Russian press is more complicated than it seems. 3:25 It always was. I remember
+      being rebuked by a German parliamentarian who was at the time, this is 10 years
+      ago, the head of the Foreign Affairs Committee within the European Parliament,
+      rebuked for saying that Russia had extensive press freedom and he said how much
+      did Putin pay you to say that. But this was typical ignorance which unfortunately
+      continues to this day. The fact is that in Russia though it is state controlled
+      television, you can’t say that there isn’t state controlled television in Britain;
+      the BBC, whatever. They are getting the line that comes out of the prime minister’s
+      office. No question about it. Anybody who thinks that Euronews is anything different
+      than what Ursula von der Leyen wanted said today is just not serious. Of course,
+      it is the private broadcasting network of Ursula von der Leyen. So let’s come
+      back to the Russians. 4:26 Of course, the media is subject to control, but every
+      day on major programs, you get extensive digests of the world press, print media
+      and the electronic media. And I mean not sound bites, but extensive excerpts,
+      videos from Deutsche Welle, from BBC, from NBC or CBS, they’re all there. And
+      they’re presented because the government is satisfied that its public is well
+      educated enough to reach some conclusions and doesn’t have to be instructed. So
+      to judge Russian media today from the pressure of the war, I don’t see a great
+      change. There are voices who are saying that the war is being badly conducted
+      without pointing a finger at anybody in particular, least of all against the president.
+      5:24 But they are saying that it should be ended on terms that give Russia victory
+      and will ensure that Ukraine does not turn against Russia again, simply by decapitating
+      the governing individuals in downtown Kiev today. It’s possible, it’s feasible.
+      In any case, looking at society, there are ills that I saw in the last 17 days,
+      which are not new ills, they are old ills, but they had been contained by very
+      careful work of Mr. Putin and his team over the last 25 years. And the runaway
+      bureaucracy, by that I mean the excessive issuance of decrees and ministerial
+      directives. That is a sign that Mr. Putin and his close colleagues no longer have
+      their eye on the ball. They were cutting this back. They were improving relations
+      between the citizenry and the administration that governs them. They were digitalizing
+      this relationship, to take the personal element out of it and to cut arbitrariness.
+      6:42 All of that is coming loose. The amount of regulation for simple things like
+      registering a foreigner. And foreigners doesn’t mean just you and me. It also
+      means in much larger numbers people coming from Kazakhstan, people coming from
+      Tajikistan, anybody who’s coming either as a Gastarbeiter or because they have
+      relatives in the Russian Federation. They’re now subjected to a barrage of paper
+      filling and time consuming and not very agreeable or pleasant and often absolutely
+      useless. As a foreigner, I’m obliged to, as you are obliged to, register. You
+      don’t do it if you’re in a hotel, because they do it for you without any effort.
+      But if you’re living in private lodgings, as I do, you have to go and register
+      with the person who is your sponsor, in this case my wife. And it has gotten more
+      difficult, more miserable, I can say, each time, and more stupid. The people who
+      are handling this, I won’t run on, I won’t go on too long, but I just want to
+      point about the senseless decrees that make life difficult and that are running
+      unchecked because the government’s attention is elsewhere. 7:58 The people who
+      process you, mostly women behind the guichet, windows of the administration, they’re
+      very nice. This is not the Soviet officialdom who were underpaid, under-equipped,
+      miserable, and they took it out on anybody who sat in front of them. No, no, no.
+      The people who are processing you today are well-meaning, well-disposed to the
+      public, presumably well-paid, and their equipment is up to date. It’s the latest
+      equipment of every kind to process you. But they’re processing requirements that
+      make no sense and that take them, say, 20-40 minutes per person. And you have
+      to have an engineer’s degree or a lawyer’s degree, as these ladies do, to do this
+      simple, utterly useless work. And they know that it’s useless, and you know that
+      it’s useless. And that is, I say, it’s come unstuck. It proliferates. 8:59 Now,
+      that side of life, the petty theft of lower government officials has returned.
+      One of the first things that Vladimir Putin did was to curb corruption of the
+      small kind that was all over the country because you had to deal with the government
+      officials to make your tax declaration. Boy, was that an opportunity for them
+      to rip you off with bribes and so forth. That was done away with by the 15% flat
+      tax and no questions asked. Now this kind of invitation to corruption has come
+      back. In the 1990s if you had a car, you were always being stopped by traffic
+      police for real or more likely imaginary traffic offenses. They shake you down
+      how much cash they could get off of you to buy your way out of it. Now that money
+      didn’t go anywhere except into their pockets. It’s back. It’s back. 10:01 And
+      it tells me that the government has lost control of this side of life, which makes
+      life less pleasant for citizenry. Nothing tragic, but less pleasant. So as to
+      economic well-being, of course, people who have some savings of substance in the
+      banks are getting now – well, it’s dropped from 18 percent, now it’s 14 percent
+      interest capitalized, and we know that inflation is 10 percent. So they’re covered
+      against inflation more than covered. They’re being rewarded for not spending their
+      cash and not increasing inflation thereby. If you are an ordinary Russian who
+      doesn’t have big savings, you profit from the extensive increase in social benefits
+      for families, large families, starting families, special reduced subsidized mortgage
+      rates. So you’re not paying 16% on your mortgage, you’re paying out 3%, 4% if
+      you fall into certain categories. So the sting of the war is not felt by a great
+      many people. Moreover, an important fact, since I have in past discussions mentioned
+      that the Russian casualty losses, death and injuries are twice the level of America
+      suffering from the Vietnam War against the population. The United States, 300
+      million, Russia was 150 million, The United States suffered 65,000 deaths plus
+      injuries, and the Russians have suffered now, let’s say 150,000 deaths, again
+      with the population half the size, and maybe four or five times that in people
+      who are maimed for life, who’ve lost limbs and so forth. 11:52 Now why aren’t
+      there demonstrations against all this? Well, because the Russians learned perfectly
+      from Mr. Nixon and from the results of the Vietnam War. The war is being fought
+      by professionals and by volunteers. It’s not being fought by conscripts. Russia
+      has the callup every year to fill the ranks of its basic military. These callups
+      have gone up in number as the military is expanding itself to meet the possible
+      conflicts with NATO. But none of the conscripts is sent outside the Russian Federation.
+      The only conscripts who ever faced Ukrainian soldiers were when there was the
+      incursion in Kursk and the Russian conscripts who were situated in Kursk, there
+      was a war and they were in it, but that was really unintentional and quite a surprise
+      to Moscow that its own conscripts would be actually fighting. So the reasons for
+      there to be active resistance to the war do not exist. Diesen: 13:01 Well, I also
+      come across a lot of people in Russia, both Russians as well as foreign officials
+      who are there, were perplexed about the decision to go with this slow grinding
+      war of attrition because if you look at their American counterparts, they’re always
+      going for this quick regime change as an approach. Indeed, that’s how they got
+      Ukraine on their side as well. And that’s what they seem to be planning for possibly
+      at least for Venezuela. So there are many who are curious why there’s no efforts
+      at all to pursue some form of a regime change. Because you do have people, I don’t
+      like to use Aristovich too much as an example, but again, like the former advisor
+      of Zelensky, Aristovich, he was interviewed and asked, if you become president,
+      what would you do? And he said, well, the first thing I would do is go to Moscow
+      and just promise them that Ukraine will never let itself again be used as a threat
+      against Russia. And based on this, we have to learn how to live next to each other
+      again. And so, you know, you do have people who, again, he’s made some very hawkish
+      statements on Russia. We are all familiar with the statements from 2019 where
+      he was all very much looking forward to a war with Russia because this is what
+      would bring NATO directly involved and they would be able to defeat the Russians.
+      But again, it’s not as if he’s part of the pro-Russian club, but you do have pragmatists.
+      14:39 And that’s what I mean. The people who realize that our best future is not
+      to continue this war, losing more territory, men and infrastructure. So I am perplexed
+      why there’s not, why there hasn’t even been an effort to change the government
+      because you see this now as well. I mean, it sounds very brutal to suggest a decapitation
+      strike, but instead, what’s happening now is also very brutal. This massive destruction
+      of Ukraine’s infrastructure in which people more or less will be compelled to
+      leave. This will destroy the Ukrainian nation. And of course, all the Russian
+      losses which comes along with this as well. It just looks like it would be much
+      more conducive to have Zelensky replaced. Again, they might fail. America has
+      failed in many of its regime change, but it also succeeded in many. It’s just
+      strange to me that they haven’t gone down this path at all. I wanted to ask though,
+      in terms of the military industrial complex, because on one hand the Russian army
+      has developed at a very amazing pace that is, you know, this is a common trait
+      in Russian history. They start slow in wars and then they adjust to new realities
+      and then they win. But with all this military development, there’s a lot of people
+      who stand to make a profit. Do you see this being a concern in Russia? Doctorow:
+      16:12 Well, I heard this stated. In fact, it was in the Union of Journalists that
+      I heard the American maxim “Follow the Money” used to explain why there is, within
+      Russia, support for continuing the war. I’ve heard from a longtime designer of
+      ballistic missiles, an engineer who’s retired now for several years, at a very
+      advanced age, I might say. He was saying that he sees what’s going on as being
+      target practice that the general staff of Russia is very happy with because they’re
+      testing all kinds of new weapons. So there are within top government and military
+      industrial complex, there are clearly people who are averse to seeing an early
+      end to this war and who are enjoying it and profiting from it. But I think that
+      is not really decisive in what’s going on. I think the decisive issue is the personality
+      of the Supreme Commander and his risk aversion approach. Many people, certainly
+      many viewers of this program, similar programs, authoritative interviewing programs
+      are pleased to believe that Mr. Putin is the only adult in the room and that he
+      is a peace advocate and proponent and not a war advocate. They find this comforting,
+      that at least somebody in the world has not gone mad. 17:49 However, there is
+      a problem with all this, and that is at what point does the gradualism and caution,
+      and that is what certainly is involved in Mr. Putin’s behavior, to avoid at all
+      costs slipping into nuclear war. That is a good approach in abstract, but in practice,
+      it starts to look a lot like appeasement. And that appeasement is the most dangerous
+      thing if your intention is to avoid progression to a war. So there are problems.
+      I don’t see any malevolence. I don’t see any intent to destroy the youth of Ukraine,
+      which also by the way is a nonsensical view of what’s going on. You only have
+      to look at Russian television and what they had two days ago. They were interviewing
+      newly taken prisoners of war from the encirclement around Pokrovsk. And look at
+      the faces. 18:53 There are a few in the 20s and there are more than a few who
+      are clearly in the late 50s and 60s. The Ukrainian army has a lot of old timers
+      in it. I don’t say they’ve been dragged off the street, though some of them have,
+      but many of them are there for the very reasons that you mentioned. They are patriotic,
+      they’re defending their land, and they feel obligated to go out and fight to protect
+      what’s theirs. So you have a lot of old folks. It’s not just a generation of young
+      Ukrainians who are being slaughtered. It is a Ukrainian male nation that’s being
+      slaughtered. And unfortunately, a lot of Russians are suffering too. And my acquaintances
+      who spoke to me over dinner or behind closed doors on their wish for this war
+      to be over as soon as possible, I think the single biggest motivation was their
+      awareness that Russia is not just suffering deaths, compared to the Ukrainian
+      deaths, of course, it’s small, but if you know those people who are dying or you
+      empathize with the bereaved, then 150,000 deaths is a big number. And say four
+      or five times that number are people who are maimed for life. 20:12 Russian television
+      is already showing products by companies that are making prostheses for missing
+      arms and missing legs. It’s gotten to that point. It’s on television. They’re
+      trying to sell it to the relatives of those who have suffered. People are aware
+      that a lot of Russians are maimed for life. And so the idea that “why is this
+      going on when Putin could end it by decapitation in Kiev?” strikes a lot of people.
+      Diesen: 20:43 I guess, well, It does seem that over the past few weeks now that
+      the rhetoric coming out of the Kremlin, including Putin then, has hardened a bit.
+      And also there’s been more posturing now, especially with the announcement of
+      these new missiles. And again, it does seem relevant because once this kind of
+      speech is made, it’s very difficult thereafter for Putin to start to back down,
+      if there would be, for example, like another attack such as what we saw back in
+      June on this nuclear deterrent. So it does appear though that the hawks are gaining
+      ground or at least Putin is moving in that direction. That, by the way, would
+      be another consequence of societies which go through a prolonged war that is you
+      will have the rise of the hawks because, yeah, once you’re in conflict, they are
+      seen to be proven right. And again, in Russia, there’s always been this, I know
+      you went to St. Petersburg, which has always been the more European side of Russia,
+      but there’s always been this idea that by large part of societies, we can have
+      this incremental integration with Europe. We, you know, more or less from Peter
+      the Great to Gorbachev, like all these common ideas, which always come back. But
+      for the hawks, who have warned that the Europeans hate us, they want our destruction,
+      they will use, you know, any every Ukrainian they can find in order to keep this
+      going. 22:24 They are now seem to be proven to have been correct and there’s no,
+      there’s no political force behind any pro-European liberals any more. So do you
+      see this as being something that’s impacting society as well? That the, I mean,
+      the liberals were never strong in Russia, but there’s a long history going back
+      to 1825 to explain why the liberals aren’t doing well in Russia. But how do you
+      see the, I guess, the rise of the hawks affecting Russian society? Because even
+      people I know who were more mild-spoken before have now become very, very hawkish.
+      Doctorow: 23:07 All right. The hawks are divided. There are hawks who are loyalists
+      and there are hawks who are militarists. That’s the definition I can take from
+      an article that was published a few days ago by Piotr Sauer, obviously the son
+      of Dirk Sauer, who was the founder and owner of the Moscow Times and who died
+      about six months ago in an accident. And what Sauer was saying in this article
+      is that the militarists,  those who have been raising funds very conspicuously
+      to support Russian soldiers on the logic that the formal military was not sending
+      our boys out properly equipped for this war and they had to receive additional
+      clothing with better protection than the standard kit coming from the Russian
+      army. This view was for a long time quite widely supported. Officially, I think
+      of The Great Game where Nikonov, the host, had time and time and again, some lady
+      who was in charge of one of these volunteer organizations and showed pictures
+      of the soldiers somewhere in the front receiving these presents from patriots
+      inside Russia and saying thank you so much and we will of course win. All of this
+      was every day on television. No more. Finally somebody upstairs understood that
+      that’s what brought down the Romanov dynasty. It was these public activists who
+      behind the show of assistance to the army were blaming the government for the
+      way the war is going badly and brought it down with a little bit of diplomatic
+      help from the British. 24:59 So people do have some sense of history and they
+      are closing down and attacking these, the one part of what you just described,
+      the right. And the loyalist right, which also is not completely supporting what
+      Putin is doing, though they never would say a word about who is issuing the orders.
+      They are calling for, like I think about Vladimir Solovyov, And he’s repeatedly
+      calling for decapitation and repeatedly saying, this is not a special military
+      operation. It is an all-out war. They are trying to kill us and we should finish
+      them off without any mercy. So to speak about the hard right in Russia, it is
+      divided into several different voices, one of which is now being suppressed, those
+      who are using the volunteer support to the army as a basis for attacking the official
+      army, the same way the Prigozhin did, by the way, and then the others who are
+      supporting Mr. Putin and those around him, though are being very critical of the
+      exact things they’re doing, which are not giving the results everyone wants. 26:18
+      But coming back to your point about the Liberals, the Liberals in society were
+      a small stratum. The Liberals in the government were a holdover from the Yeltsin
+      years, very important. And even those just next to the government, like Germann
+      Gref, who was moved out of government because he was maybe too Liberal and was
+      made head of the Sberbank. And Mr. Gref, I say, is in the shadows now, out of
+      favor. His Sberbank has been completely outrun by what? By VTB Bank, which is
+      headed by Andre Kostin, who is a great supporter of Mr. Putin, and is actually
+      running things and making them work, like the whole shipbuilding industry now,
+      which he controls when he has spare time left from his banking job, or maybe the
+      other way around. 27:12 He’s doing the banking job, the time left over from running
+      the shipbuilding industry. These Liberals, who else? Nabiullina, the head of the
+      Central Bank. She’s an outstanding Liberal who is being berated every day on state
+      television by people like Solovyov, and not just by a talking head, but by Deputy
+      Premier of the Duma, Babakov, who uses every appearance on the Solovyov program
+      to explain how she is killing the Russian economy and ruining the war effort.
+      And there she is, supported by whom? By the boss. Then there is the minister of
+      finance, Siluanov. He’s also a Liberal. And I’m talking about open Liberals, not
+      closet Liberals. So Liberals have suffered big defeats. A lot of them have gone
+      abroad just ahead of being arrested, like Mr. Chubais. But in terms of influencing
+      government policy and pulling in the other direction from the hawks, they’re still
+      there. Diesen: 28:20 Well, a big change though on both sides in this NATO-Russia
+      proxy war is how each side speak of each other. That is a few years ago, I would
+      say it would have been unthinkable to hear state leaders from Germany, France,
+      Britain, talk about long range strikes into Russia, the need to strategically
+      defeat Russia, this kind of war rhetoric. But one gets the impression from, not
+      impression, one does see in Moscow as well that the resentment is now building
+      up to a massive degree, the frustration and anger at the Europeans. Indeed, I
+      think one of Trump’s achievements is that a lot of the anger which was more directed
+      towards the Americans in the past are now focused on Europeans. And some Europeans,
+      such as the Germans, seem to be more in focus than others. Do you– again now you
+      hear more talk about the need to attack or retaliate against Europeans as well.
+      So do you see this as a rhetoric which is winning ground, the idea that, for example,
+      German logistics centers or military facilities have to be destroyed? Doctorow:
+      29:48 Well, the Russians are doing their best to keep Trump and the Europeans
+      separate. And that is partly why Mr. Putin, surely the main reason why Mr. Putin
+      has put up with Trump’s nonsense and has sung his praises when given any opportunity,
+      which looks by itself to be peculiar. But the ultimate logic is to keep Trump
+      on side, to make sure that he isn’t going to support the Europeans in some risky
+      provocation that leads us to World War III. So is this view supported in the public?
+      I think the public, if you ask Russians, they hate England, for example. I think
+      England has outrun, outpaced Germany as the first country they would like to flatten
+      if they ever use the Poseidon against an enemy. It was said, a few days ago, that
+       five Poseidons, and England will be erased from the globe. This is not going
+      to happen, But it’s an idea which pleases Russians to think over. The idea that
+      rolling out these new weapons systems as has happened in the last two weeks, reminding
+      the West of Russia’s superiority in strategic weapons, I don’t think that that
+      restores Russian deterrence, not at all. First of all, it takes us into the realm
+      of the value of nuclear weapons in general. 31:28 It’s always been conceded that
+      nuclear weapons are of last resort and that they are not used for deterrence purposes,
+      except against miserable countries that have nothing. But among peers, that cannot
+      affect deterrence because nobody would use them. The Russians may have come close
+      to a first strike capability recently. The Americans may have come close to a
+      first strike capability before the Russians had readied for use their new weapons
+      systems. But neither side really is going to risk a nuclear war on the hope that
+      this first strike will be effective and totally effective. Partially effective
+      is not good enough. Therefore, what you have is conventional weapons. This is
+      the thing that I find puzzling and incomprehensible. Why the new generation conventional
+      weapons of Russia, these hypersonic missiles and the Oreshnik in particular are
+      not being used right now to decapitate the Kiev regime. At the very least to ensure
+      that there’s no more diplomatic tourism of every Danish prime minister or German
+      minister of defense every couple of weeks to go and buck up, to support Zelensky
+      and keep his spirits up. This is an utterly inexplicable situation. Diesen: 33:11
+      Yeah, well, my last question is, well, whenever we talk about the divisions and
+      domestic problems of other countries one should always be aware that this is always
+      used as well for propaganda purposes. And I’m not sure if you’ve seen this latest
+      thing now in the media. I think it’s a bit suspicious right around the time Pokrovsk
+      is falling, the idea that Lavrov and Putin are now deeply divided. Again, it’s
+      possible. I tend to be very critical because these stories often rest on hearsay
+      and they always pop up around very strange time and they don’t always make that
+      much sense either. I was just wondering, again it could be true so I’m not going
+      to dismiss it altogether, but what do you make of these reports which are now
+      being pushed around the Western media that there’s this split between Putin and
+      Lavrov? Doctorow: 34:19 I don’t believe it. Look, the reason why they raised this
+      question is that many people in the West believe that Mr. Lavrov is an important
+      personality, that he influences policy, in fact, he makes policy. Well, to a certain
+      extent, under the weakling president, Medvedev, Lavrov stepped in and in a way
+      made policy when he revised and made literate the very juvenile revision of European
+      security architecture that Medvedev put out as his main initiative. In that particular
+      moment, with a very weak president, Lavrov had something resembling a policy role.
+      But generally speaking, under a strong president like Putin, Lavrov has only been
+      an implementer. He has never been an independent force. 35:14 The notion that
+      he would be at odds with the president, well, he should just resign, because he
+      is nobody without being the implementer of his boss. The further fact, which I
+      think many people don’t think about is whom is he overseeing? The Ministry of
+      Foreign Affairs is populated with, sorry to say it, Liberals, pro-European people.
+      People were very disappointed that there’s a war and that they have to fight like
+      hell to get postings in Western Europe and to be accepted by the host countries.
+      So the idea that the Ministry of Foreign Affairs and its boss would be at odds
+      with the president, And that that would have a policy value, I’d just dismiss
+      from the get-go. Diesen: 36:06 There’s an interesting contradiction also in Russia,
+      though. That is, on one hand, you see this real rise of this new confidence, which
+      wasn’t there before. Again, part of it was economic, that they’re able to stand
+      and grow despite doing better than the other European economies despite all the
+      sanctions and also the ability to win on the battlefield despite NATO throwing
+      everything it has into this and again being welcomed around the world as a great
+      power despite the western efforts to isolate Russia. So there is this, You can’t
+      deny that this is massive new confidence which has come forth. On the other hand,
+      one sees that there’s a very cautious, as you would suggest, overly cautious almost
+      in terms of how they engage with the NATO countries. Of course, there could be
+      a lot of strategic thinking below the surface there, which could explain for this,
+      which I wouldn’t be aware of. Do you have any final thoughts before we wrap up?
+      Doctorow: 37:17 My point from this trip was simply to pick up what I see around
+      me. And what I saw around me was enough to justify my claim that what is in a
+      general presentation to the broad public on these interview programs is often
+      misleading and claims an accuracy that is unjustified. Not because I have greater
+      accuracy, but I can say that what I saw contradicts completely, well, contradicts
+      in many ways the general view of Russia’s position in the reorganization of the
+      governing board of the world. It is much more complex. It is much less solidified.
+      And that my peers are often taken in by their hosts on very high level, very attractive
+      visits to Moscow, sponsored by Russia Today, sponsored by the Ministry of Foreign
+      Affairs, or by very high level oligarchs in the media realm, like Mr. Malafeyev,
+      and they’re not aware that they are willy-nilly being disseminators of the official
+      Russia line. And they take that to be the whole of Russia. Russia is 150 million
+      people, very complex society. And I make no claims to have my arms around it.
+      That would be totally foolish. But I do see that others who are behaving as if
+      they have their arms around it are doing so in an unjustified way. There’s a lot
+      of work that you and your guests are doing and must be doing to make the public
+      aware of the complexity of the challenges we face. Diesen: 39:20 Yeah, I think
+      it would be naive not to recognize that this, yeah, this war will also take a
+      toll on Russian society as well. We tend to always measure things either military
+      or economic, but the societal is quite an important aspect to keep an eye on.
+      So thank you so much for taking the time, and hope to have you back on soon. Doctorow:
+      Yeah, very kind of you.'
+    one_sentence_summary: In a discussion with historian Gilbert Doctorow, the impact
+      of prolonged wars on national identity is explored, highlighting how the Ukraine
+      conflict has strengthened Ukrainian national identity while also reviving Russian
+      national pride, despite the associated dangers of war industries and profiteering.
+    paragraph_summary: In a discussion with historian and analyst Gilbert Doctorow,
+      the impact of prolonged wars on national identity and societal changes is explored,
+      particularly in the context of the Russia-Ukraine conflict. Doctorow notes that
+      while Ukraine's national identity has strengthened over the past four years, despite
+      internal divisions, Russia has also experienced a revival of national pride, albeit
+      with caution regarding the implications of such pride being fueled by war. He
+      highlights the negative consequences of war, including the rise of authoritarianism
+      and censorship in both Ukraine and Russia, as societies tighten control over individual
+      freedoms. Doctorow, who frequently travels to Russia, observes that while societal
+      changes are not dramatic, they are incremental, with increased censorship affecting
+      open discourse.
+    published: '2025-11-09T21:45:13+00:00'
+  - title: Transcript of conversation with Glenn Diesen, 8 November 2025
+    url: https://gilbertdoctorow.com/2025/11/09/transcript-of-conversation-with-glenn-diesen-8-november-2025/
+    text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=4kMxKQNjJEs
+      Diesen: 0:00 Welcome back. We are joined by Gilbert Doctorow, historian, international
+      affairs analyst, and author of “War Diaries – the Russia-Ukraine War”. So thank
+      you for coming back on. Doctorow: It’s a pleasure. Diesen: We have, we often see
+      that wars can have a profound impact on society, especially prolonged wars. And
+      it’s said therefore that nations are born in wars such as Germany in 1871. And
+      I would argue that Ukrainian national identity has strengthened as well greatly
+      over the past four years, irrespective or despite the very divisive Bandera faction
+      which has less ability to unite. But in Russia we see that there’s been some of
+      the great revival of national pride. I’m often a bit cautious about having the
+      national pride revived based on war. But this is the reality and wars, they have
+      some negative impacts such as fueling dangerous war industries. Someone will always
+      profit from war, as warned by Eisenhower in his farewell speech. And we also see
+      that wars create this demand for much greater social cohesion. So societies often
+      become more authoritarian during war. Obviously, Ukraine has had its screws tightened
+      to a great extent, but we also see it to a lesser extent here in Europe with this
+      relentless warmongering and growing authoritarianism, which is hardly any secret.
+      But it’s also true in Russia. That is, the war will take its toll on society.
+      Some individual freedoms will go away. But I thought I should ask you, because
+      you recently returned from yet another trip to Russia and you work there, you
+      travel there often. What is your impression about the change in society and what
+      kind of change do you, what possible changes do you think we might be seeing?
+      Doctorow: 2:19 Well, the changes are not dramatic, but they are incremental. And
+      as you say, in wartime, the screws are tightened. In Russia, there is enhanced
+      censorship in the sense that those who speak openly or write openly against the
+      war, not how it’s being managed, but against the war in principle, are facing
+      problems. I visited with the director of the St. Petersburg Union of Journalists
+      and was informed that not so long ago they were instructed by the successor organization
+      to the KGB, which is called the FSB, that they were to expel any journalists who
+      were in that category and they did. They expelled one person who was rather unlucky
+      and they felt very badly about it because they knew that they were headed in the
+      wrong direction. However, for the Russian public, this question of how free is
+      the Russian press is more complicated than it seems. 3:25 It always was. I remember
+      being rebuked by a German parliamentarian who was at the time, this is 10 years
+      ago, the head of the Foreign Affairs Committee within the European Parliament,
+      rebuked for saying that Russia had extensive press freedom and he said how much
+      did Putin pay you to say that. But this was typical ignorance which unfortunately
+      continues to this day. The fact is that in Russia though it is state controlled
+      television, you can’t say that there isn’t state controlled television in Britain;
+      the BBC, whatever. They are getting the line that comes out of the prime minister’s
+      office. No question about it. Anybody who thinks that Euronews is anything different
+      than what Ursula von der Leyen wanted said today is just not serious. Of course,
+      it is the private broadcasting network of Ursula von der Leyen. So let’s come
+      back to the Russians. 4:26 Of course, the media is subject to control, but every
+      day on major programs, you get extensive digests of the world press, print media
+      and the electronic media. And I mean not sound bites, but extensive excerpts,
+      videos from Deutsche Welle, from BBC, from NBC or CBS, they’re all there. And
+      they’re presented because the government is satisfied that its public is well
+      educated enough to reach some conclusions and doesn’t have to be instructed. So
+      to judge Russian media today from the pressure of the war, I don’t see a great
+      change. There are voices who are saying that the war is being badly conducted
+      without pointing a finger at anybody in particular, least of all against the president.
+      5:24 But they are saying that it should be ended on terms that give Russia victory
+      and will ensure that Ukraine does not turn against Russia again, simply by decapitating
+      the governing individuals in downtown Kiev today. It’s possible, it’s feasible.
+      In any case, looking at society, there are ills that I saw in the last 17 days,
+      which are not new ills, they are old ills, but they had been contained by very
+      careful work of Mr. Putin and his team over the last 25 years. And the runaway
+      bureaucracy, by that I mean the excessive issuance of decrees and ministerial
+      directives. That is a sign that Mr. Putin and his close colleagues no longer have
+      their eye on the ball. They were cutting this back. They were improving relations
+      between the citizenry and the administration that governs them. They were digitalizing
+      this relationship, to take the personal element out of it and to cut arbitrariness.
+      6:42 All of that is coming loose. The amount of regulation for simple things like
+      registering a foreigner. And foreigners doesn’t mean just you and me. It also
+      means in much larger numbers people coming from Kazakhstan, people coming from
+      Tajikistan, anybody who’s coming either as a Gastarbeiter or because they have
+      relatives in the Russian Federation. They’re now subjected to a barrage of paper
+      filling and time consuming and not very agreeable or pleasant and often absolutely
+      useless. As a foreigner, I’m obliged to, as you are obliged to, register. You
+      don’t do it if you’re in a hotel, because they do it for you without any effort.
+      But if you’re living in private lodgings, as I do, you have to go and register
+      with the person who is your sponsor, in this case my wife. And it has gotten more
+      difficult, more miserable, I can say, each time, and more stupid. The people who
+      are handling this, I won’t run on, I won’t go on too long, but I just want to
+      point about the senseless decrees that make life difficult and that are running
+      unchecked because the government’s attention is elsewhere. 7:58 The people who
+      process you, mostly women behind the guichet, windows of the administration, they’re
+      very nice. This is not the Soviet officialdom who were underpaid, under-equipped,
+      miserable, and they took it out on anybody who sat in front of them. No, no, no.
+      The people who are processing you today are well-meaning, well-disposed to the
+      public, presumably well-paid, and their equipment is up to date. It’s the latest
+      equipment of every kind to process you. But they’re processing requirements that
+      make no sense and that take them, say, 20-40 minutes per person. And you have
+      to have an engineer’s degree or a lawyer’s degree, as these ladies do, to do this
+      simple, utterly useless work. And they know that it’s useless, and you know that
+      it’s useless. And that is, I say, it’s come unstuck. It proliferates. 8:59 Now,
+      that side of life, the petty theft of lower government officials has returned.
+      One of the first things that Vladimir Putin did was to curb corruption of the
+      small kind that was all over the country because you had to deal with the government
+      officials to make your tax declaration. Boy, was that an opportunity for them
+      to rip you off with bribes and so forth. That was done away with by the 15% flat
+      tax and no questions asked. Now this kind of invitation to corruption has come
+      back. In the 1990s if you had a car, you were always being stopped by traffic
+      police for real or more likely imaginary traffic offenses. They shake you down
+      how much cash they could get off of you to buy your way out of it. Now that money
+      didn’t go anywhere except into their pockets. It’s back. It’s back. 10:01 And
+      it tells me that the government has lost control of this side of life, which makes
+      life less pleasant for citizenry. Nothing tragic, but less pleasant. So as to
+      economic well-being, of course, people who have some savings of substance in the
+      banks are getting now – well, it’s dropped from 18 percent, now it’s 14 percent
+      interest capitalized, and we know that inflation is 10 percent. So they’re covered
+      against inflation more than covered. They’re being rewarded for not spending their
+      cash and not increasing inflation thereby. If you are an ordinary Russian who
+      doesn’t have big savings, you profit from the extensive increase in social benefits
+      for families, large families, starting families, special reduced subsidized mortgage
+      rates. So you’re not paying 16% on your mortgage, you’re paying out 3%, 4% if
+      you fall into certain categories. So the sting of the war is not felt by a great
+      many people. Moreover, an important fact, since I have in past discussions mentioned
+      that the Russian casualty losses, death and injuries are twice the level of America
+      suffering from the Vietnam War against the population. The United States, 300
+      million, Russia was 150 million, The United States suffered 65,000 deaths plus
+      injuries, and the Russians have suffered now, let’s say 150,000 deaths, again
+      with the population half the size, and maybe four or five times that in people
+      who are maimed for life, who’ve lost limbs and so forth. 11:52 Now why aren’t
+      there demonstrations against all this? Well, because the Russians learned perfectly
+      from Mr. Nixon and from the results of the Vietnam War. The war is being fought
+      by professionals and by volunteers. It’s not being fought by conscripts. Russia
+      has the callup every year to fill the ranks of its basic military. These callups
+      have gone up in number as the military is expanding itself to meet the possible
+      conflicts with NATO. But none of the conscripts is sent outside the Russian Federation.
+      The only conscripts who ever faced Ukrainian soldiers were when there was the
+      incursion in Kursk and the Russian conscripts who were situated in Kursk, there
+      was a war and they were in it, but that was really unintentional and quite a surprise
+      to Moscow that its own conscripts would be actually fighting. So the reasons for
+      there to be active resistance to the war do not exist. Diesen: 13:01 Well, I also
+      come across a lot of people in Russia, both Russians as well as foreign officials
+      who are there, were perplexed about the decision to go with this slow grinding
+      war of attrition because if you look at their American counterparts, they’re always
+      going for this quick regime change as an approach. Indeed, that’s how they got
+      Ukraine on their side as well. And that’s what they seem to be planning for possibly
+      at least for Venezuela. So there are many who are curious why there’s no efforts
+      at all to pursue some form of a regime change. Because you do have people, I don’t
+      like to use Aristovich too much as an example, but again, like the former advisor
+      of Zelensky, Aristovich, he was interviewed and asked, if you become president,
+      what would you do? And he said, well, the first thing I would do is go to Moscow
+      and just promise them that Ukraine will never let itself again be used as a threat
+      against Russia. And based on this, we have to learn how to live next to each other
+      again. And so, you know, you do have people who, again, he’s made some very hawkish
+      statements on Russia. We are all familiar with the statements from 2019 where
+      he was all very much looking forward to a war with Russia because this is what
+      would bring NATO directly involved and they would be able to defeat the Russians.
+      But again, it’s not as if he’s part of the pro-Russian club, but you do have pragmatists.
+      14:39 And that’s what I mean. The people who realize that our best future is not
+      to continue this war, losing more territory, men and infrastructure. So I am perplexed
+      why there’s not, why there hasn’t even been an effort to change the government
+      because you see this now as well. I mean, it sounds very brutal to suggest a decapitation
+      strike, but instead, what’s happening now is also very brutal. This massive destruction
+      of Ukraine’s infrastructure in which people more or less will be compelled to
+      leave. This will destroy the Ukrainian nation. And of course, all the Russian
+      losses which comes along with this as well. It just looks like it would be much
+      more conducive to have Zelensky replaced. Again, they might fail. America has
+      failed in many of its regime change, but it also succeeded in many. It’s just
+      strange to me that they haven’t gone down this path at all. I wanted to ask though,
+      in terms of the military industrial complex, because on one hand the Russian army
+      has developed at a very amazing pace that is, you know, this is a common trait
+      in Russian history. They start slow in wars and then they adjust to new realities
+      and then they win. But with all this military development, there’s a lot of people
+      who stand to make a profit. Do you see this being a concern in Russia? Doctorow:
+      16:12 Well, I heard this stated. In fact, it was in the Union of Journalists that
+      I heard the American maxim “Follow the Money” used to explain why there is, within
+      Russia, support for continuing the war. I’ve heard from a longtime designer of
+      ballistic missiles, an engineer who’s retired now for several years, at a very
+      advanced age, I might say. He was saying that he sees what’s going on as being
+      target practice that the general staff of Russia is very happy with because they’re
+      testing all kinds of new weapons. So there are within top government and military
+      industrial complex, there are clearly people who are averse to seeing an early
+      end to this war and who are enjoying it and profiting from it. But I think that
+      is not really decisive in what’s going on. I think the decisive issue is the personality
+      of the Supreme Commander and his risk aversion approach. Many people, certainly
+      many viewers of this program, similar programs, authoritative interviewing programs
+      are pleased to believe that Mr. Putin is the only adult in the room and that he
+      is a peace advocate and proponent and not a war advocate. They find this comforting,
+      that at least somebody in the world has not gone mad. 17:49 However, there is
+      a problem with all this, and that is at what point does the gradualism and caution,
+      and that is what certainly is involved in Mr. Putin’s behavior, to avoid at all
+      costs slipping into nuclear war. That is a good approach in abstract, but in practice,
+      it starts to look a lot like appeasement. And that appeasement is the most dangerous
+      thing if your intention is to avoid progression to a war. So there are problems.
+      I don’t see any malevolence. I don’t see any intent to destroy the youth of Ukraine,
+      which also by the way is a nonsensical view of what’s going on. You only have
+      to look at Russian television and what they had two days ago. They were interviewing
+      newly taken prisoners of war from the encirclement around Pokrovsk. And look at
+      the faces. 18:53 There are a few in the 20s and there are more than a few who
+      are clearly in the late 50s and 60s. The Ukrainian army has a lot of old timers
+      in it. I don’t say they’ve been dragged off the street, though some of them have,
+      but many of them are there for the very reasons that you mentioned. They are patriotic,
+      they’re defending their land, and they feel obligated to go out and fight to protect
+      what’s theirs. So you have a lot of old folks. It’s not just a generation of young
+      Ukrainians who are being slaughtered. It is a Ukrainian male nation that’s being
+      slaughtered. And unfortunately, a lot of Russians are suffering too. And my acquaintances
+      who spoke to me over dinner or behind closed doors on their wish for this war
+      to be over as soon as possible, I think the single biggest motivation was their
+      awareness that Russia is not just suffering deaths, compared to the Ukrainian
+      deaths, of course, it’s small, but if you know those people who are dying or you
+      empathize with the bereaved, then 150,000 deaths is a big number. And say four
+      or five times that number are people who are maimed for life. 20:12 Russian television
+      is already showing products by companies that are making prostheses for missing
+      arms and missing legs. It’s gotten to that point. It’s on television. They’re
+      trying to sell it to the relatives of those who have suffered. People are aware
+      that a lot of Russians are maimed for life. And so the idea that “why is this
+      going on when Putin could end it by decapitation in Kiev?” strikes a lot of people.
+      Diesen: 20:43 I guess, well, It does seem that over the past few weeks now that
+      the rhetoric coming out of the Kremlin, including Putin then, has hardened a bit.
+      And also there’s been more posturing now, especially with the announcement of
+      these new missiles. And again, it does seem relevant because once this kind of
+      speech is made, it’s very difficult thereafter for Putin to start to back down,
+      if there would be, for example, like another attack such as what we saw back in
+      June on this nuclear deterrent. So it does appear though that the hawks are gaining
+      ground or at least Putin is moving in that direction. That, by the way, would
+      be another consequence of societies which go through a prolonged war that is you
+      will have the rise of the hawks because, yeah, once you’re in conflict, they are
+      seen to be proven right. And again, in Russia, there’s always been this, I know
+      you went to St. Petersburg, which has always been the more European side of Russia,
+      but there’s always been this idea that by large part of societies, we can have
+      this incremental integration with Europe. We, you know, more or less from Peter
+      the Great to Gorbachev, like all these common ideas, which always come back. But
+      for the hawks, who have warned that the Europeans hate us, they want our destruction,
+      they will use, you know, any every Ukrainian they can find in order to keep this
+      going. 22:24 They are now seem to be proven to have been correct and there’s no,
+      there’s no political force behind any pro-European liberals any more. So do you
+      see this as being something that’s impacting society as well? That the, I mean,
+      the liberals were never strong in Russia, but there’s a long history going back
+      to 1825 to explain why the liberals aren’t doing well in Russia. But how do you
+      see the, I guess, the rise of the hawks affecting Russian society? Because even
+      people I know who were more mild-spoken before have now become very, very hawkish.
+      Doctorow: 23:07 All right. The hawks are divided. There are hawks who are loyalists
+      and there are hawks who are militarists. That’s the definition I can take from
+      an article that was published a few days ago by Piotr Sauer, obviously the son
+      of Dirk Sauer, who was the founder and owner of the Moscow Times and who died
+      about six months ago in an accident. And what Sauer was saying in this article
+      is that the militarists,  those who have been raising funds very conspicuously
+      to support Russian soldiers on the logic that the formal military was not sending
+      our boys out properly equipped for this war and they had to receive additional
+      clothing with better protection than the standard kit coming from the Russian
+      army. This view was for a long time quite widely supported. Officially, I think
+      of The Great Game where Nikonov, the host, had time and time and again, some lady
+      who was in charge of one of these volunteer organizations and showed pictures
+      of the soldiers somewhere in the front receiving these presents from patriots
+      inside Russia and saying thank you so much and we will of course win. All of this
+      was every day on television. No more. Finally somebody upstairs understood that
+      that’s what brought down the Romanov dynasty. It was these public activists who
+      behind the show of assistance to the army were blaming the government for the
+      way the war is going badly and brought it down with a little bit of diplomatic
+      help from the British. 24:59 So people do have some sense of history and they
+      are closing down and attacking these, the one part of what you just described,
+      the right. And the loyalist right, which also is not completely supporting what
+      Putin is doing, though they never would say a word about who is issuing the orders.
+      They are calling for, like I think about Vladimir Solovyov, And he’s repeatedly
+      calling for decapitation and repeatedly saying, this is not a special military
+      operation. It is an all-out war. They are trying to kill us and we should finish
+      them off without any mercy. So to speak about the hard right in Russia, it is
+      divided into several different voices, one of which is now being suppressed, those
+      who are using the volunteer support to the army as a basis for attacking the official
+      army, the same way the Prigozhin did, by the way, and then the others who are
+      supporting Mr. Putin and those around him, though are being very critical of the
+      exact things they’re doing, which are not giving the results everyone wants. 26:18
+      But coming back to your point about the Liberals, the Liberals in society were
+      a small stratum. The Liberals in the government were a holdover from the Yeltsin
+      years, very important. And even those just next to the government, like Germann
+      Gref, who was moved out of government because he was maybe too Liberal and was
+      made head of the Sberbank. And Mr. Gref, I say, is in the shadows now, out of
+      favor. His Sberbank has been completely outrun by what? By VTB Bank, which is
+      headed by Andre Kostin, who is a great supporter of Mr. Putin, and is actually
+      running things and making them work, like the whole shipbuilding industry now,
+      which he controls when he has spare time left from his banking job, or maybe the
+      other way around. 27:12 He’s doing the banking job, the time left over from running
+      the shipbuilding industry. These Liberals, who else? Nabiullina, the head of the
+      Central Bank. She’s an outstanding Liberal who is being berated every day on state
+      television by people like Solovyov, and not just by a talking head, but by Deputy
+      Premier of the Duma, Babakov, who uses every appearance on the Solovyov program
+      to explain how she is killing the Russian economy and ruining the war effort.
+      And there she is, supported by whom? By the boss. Then there is the minister of
+      finance, Siluanov. He’s also a Liberal. And I’m talking about open Liberals, not
+      closet Liberals. So Liberals have suffered big defeats. A lot of them have gone
+      abroad just ahead of being arrested, like Mr. Chubais. But in terms of influencing
+      government policy and pulling in the other direction from the hawks, they’re still
+      there. Diesen: 28:20 Well, a big change though on both sides in this NATO-Russia
+      proxy war is how each side speak of each other. That is a few years ago, I would
+      say it would have been unthinkable to hear state leaders from Germany, France,
+      Britain, talk about long range strikes into Russia, the need to strategically
+      defeat Russia, this kind of war rhetoric. But one gets the impression from, not
+      impression, one does see in Moscow as well that the resentment is now building
+      up to a massive degree, the frustration and anger at the Europeans. Indeed, I
+      think one of Trump’s achievements is that a lot of the anger which was more directed
+      towards the Americans in the past are now focused on Europeans. And some Europeans,
+      such as the Germans, seem to be more in focus than others. Do you– again now you
+      hear more talk about the need to attack or retaliate against Europeans as well.
+      So do you see this as a rhetoric which is winning ground, the idea that, for example,
+      German logistics centers or military facilities have to be destroyed? Doctorow:
+      29:48 Well, the Russians are doing their best to keep Trump and the Europeans
+      separate. And that is partly why Mr. Putin, surely the main reason why Mr. Putin
+      has put up with Trump’s nonsense and has sung his praises when given any opportunity,
+      which looks by itself to be peculiar. But the ultimate logic is to keep Trump
+      on side, to make sure that he isn’t going to support the Europeans in some risky
+      provocation that leads us to World War III. So is this view supported in the public?
+      I think the public, if you ask Russians, they hate England, for example. I think
+      England has outrun, outpaced Germany as the first country they would like to flatten
+      if they ever use the Poseidon against an enemy. It was said, a few days ago, that
+       five Poseidons, and England will be erased from the globe. This is not going
+      to happen, But it’s an idea which pleases Russians to think over. The idea that
+      rolling out these new weapons systems as has happened in the last two weeks, reminding
+      the West of Russia’s superiority in strategic weapons, I don’t think that that
+      restores Russian deterrence, not at all. First of all, it takes us into the realm
+      of the value of nuclear weapons in general. 31:28 It’s always been conceded that
+      nuclear weapons are of last resort and that they are not used for deterrence purposes,
+      except against miserable countries that have nothing. But among peers, that cannot
+      affect deterrence because nobody would use them. The Russians may have come close
+      to a first strike capability recently. The Americans may have come close to a
+      first strike capability before the Russians had readied for use their new weapons
+      systems. But neither side really is going to risk a nuclear war on the hope that
+      this first strike will be effective and totally effective. Partially effective
+      is not good enough. Therefore, what you have is conventional weapons. This is
+      the thing that I find puzzling and incomprehensible. Why the new generation conventional
+      weapons of Russia, these hypersonic missiles and the Oreshnik in particular are
+      not being used right now to decapitate the Kiev regime. At the very least to ensure
+      that there’s no more diplomatic tourism of every Danish prime minister or German
+      minister of defense every couple of weeks to go and buck up, to support Zelensky
+      and keep his spirits up. This is an utterly inexplicable situation. Diesen: 33:11
+      Yeah, well, my last question is, well, whenever we talk about the divisions and
+      domestic problems of other countries one should always be aware that this is always
+      used as well for propaganda purposes. And I’m not sure if you’ve seen this latest
+      thing now in the media. I think it’s a bit suspicious right around the time Pokrovsk
+      is falling, the idea that Lavrov and Putin are now deeply divided. Again, it’s
+      possible. I tend to be very critical because these stories often rest on hearsay
+      and they always pop up around very strange time and they don’t always make that
+      much sense either. I was just wondering, again it could be true so I’m not going
+      to dismiss it altogether, but what do you make of these reports which are now
+      being pushed around the Western media that there’s this split between Putin and
+      Lavrov? Doctorow: 34:19 I don’t believe it. Look, the reason why they raised this
+      question is that many people in the West believe that Mr. Lavrov is an important
+      personality, that he influences policy, in fact, he makes policy. Well, to a certain
+      extent, under the weakling president, Medvedev, Lavrov stepped in and in a way
+      made policy when he revised and made literate the very juvenile revision of European
+      security architecture that Medvedev put out as his main initiative. In that particular
+      moment, with a very weak president, Lavrov had something resembling a policy role.
+      But generally speaking, under a strong president like Putin, Lavrov has only been
+      an implementer. He has never been an independent force. 35:14 The notion that
+      he would be at odds with the president, well, he should just resign, because he
+      is nobody without being the implementer of his boss. The further fact, which I
+      think many people don’t think about is whom is he overseeing? The Ministry of
+      Foreign Affairs is populated with, sorry to say it, Liberals, pro-European people.
+      People were very disappointed that there’s a war and that they have to fight like
+      hell to get postings in Western Europe and to be accepted by the host countries.
+      So the idea that the Ministry of Foreign Affairs and its boss would be at odds
+      with the president, And that that would have a policy value, I’d just dismiss
+      from the get-go. Diesen: 36:06 There’s an interesting contradiction also in Russia,
+      though. That is, on one hand, you see this real rise of this new confidence, which
+      wasn’t there before. Again, part of it was economic, that they’re able to stand
+      and grow despite doing better than the other European economies despite all the
+      sanctions and also the ability to win on the battlefield despite NATO throwing
+      everything it has into this and again being welcomed around the world as a great
+      power despite the western efforts to isolate Russia. So there is this, You can’t
+      deny that this is massive new confidence which has come forth. On the other hand,
+      one sees that there’s a very cautious, as you would suggest, overly cautious almost
+      in terms of how they engage with the NATO countries. Of course, there could be
+      a lot of strategic thinking below the surface there, which could explain for this,
+      which I wouldn’t be aware of. Do you have any final thoughts before we wrap up?
+      Doctorow: 37:17 My point from this trip was simply to pick up what I see around
+      me. And what I saw around me was enough to justify my claim that what is in a
+      general presentation to the broad public on these interview programs is often
+      misleading and claims an accuracy that is unjustified. Not because I have greater
+      accuracy, but I can say that what I saw contradicts completely, well, contradicts
+      in many ways the general view of Russia’s position in the reorganization of the
+      governing board of the world. It is much more complex. It is much less solidified.
+      And that my peers are often taken in by their hosts on very high level, very attractive
+      visits to Moscow, sponsored by Russia Today, sponsored by the Ministry of Foreign
+      Affairs, or by very high level oligarchs in the media realm, like Mr. Malafeyev,
+      and they’re not aware that they are willy-nilly being disseminators of the official
+      Russia line. And they take that to be the whole of Russia. Russia is 150 million
+      people, very complex society. And I make no claims to have my arms around it.
+      That would be totally foolish. But I do see that others who are behaving as if
+      they have their arms around it are doing so in an unjustified way. There’s a lot
+      of work that you and your guests are doing and must be doing to make the public
+      aware of the complexity of the challenges we face. Diesen: 39:20 Yeah, I think
+      it would be naive not to recognize that this, yeah, this war will also take a
+      toll on Russian society as well. We tend to always measure things either military
+      or economic, but the societal is quite an important aspect to keep an eye on.
+      So thank you so much for taking the time, and hope to have you back on soon. Doctorow:
+      Yeah, very kind of you.'
+    one_sentence_summary: In a discussion with historian Gilbert Doctorow, the impact
+      of prolonged wars on national identity is explored, highlighting how the Ukraine
+      conflict has strengthened Ukrainian national identity while also reviving Russian
+      national pride, despite the associated dangers of war industries and profiteering.
+    paragraph_summary: In a discussion with historian and analyst Gilbert Doctorow,
+      the impact of prolonged wars on national identity and societal changes is explored,
+      particularly in the context of the Russia-Ukraine conflict. Doctorow notes that
+      while Ukraine's national identity has strengthened over the past four years, despite
+      internal divisions, Russia has also experienced a revival of national pride, albeit
+      with caution regarding the implications of such pride being fueled by war. He
+      highlights the negative consequences of war, including the rise of authoritarianism
+      and censorship in both Ukraine and Russia, as societies tighten control over individual
+      freedoms. Doctorow, who frequently travels to Russia, observes that while societal
+      changes are not dramatic, they are incremental, with increased censorship affecting
+      open discourse.
+    published: '2025-11-09T21:45:13+00:00'
+  - title: 'Conversation with Professor Glenn Diesen, 8 November: The Impact of the
+      Ukraine War on Russian Society'
+    url: https://gilbertdoctorow.com/2025/11/09/conversation-with-professor-glenn-diesen-8-november-the-impact-of-the-ukraine-war-on-russian-society/
+    text: 'Conversation with Professor Glenn Diesen, 8 November: The Impact of the Ukraine
+      War on Russian Society I call this a ‘conversation’ rather than an interview,
+      because Glenn Diesen shares his own views on the issues for discussion quite generously
+      and these should be of special interest to viewers, many of whom are well familiar
+      with mine. That said, there are in this video issues which I have not addressed
+      elsewhere in writing or in podcasts but which definitely merit examination.  I
+      think in particular of the question of hardliners coming to the fore in Russia
+      under war conditions and Liberals retreating.  What you will find here with respect
+      to the hardliners is a breakdown of that force into at least two very different
+      and mutually hostile groups, which the journalist Piotr Sauer in an article recently
+      called ‘loyalists’ and ‘militarists.’ https://www.theguardian.com/world/2025/nov/06/putin-repressive-machinery-turns-inward-target-pro-war-figures?CMP=oth_b-aplnews_d-1
+      Piotr is the son of the Dutch founder and long-time owner of The Moscow Times,
+      who tragically died in an accident about six months ago. Then, with respect to
+      the Liberals, it is a mistake to think that they have been vanquished. Not in
+      the least. Their highest representative in the land is the head of the Central
+      Bank Nabiullina, who enjoys the full support of Putin even as many influential
+      statesmen, including the Duma deputy Babakov who is deputy chair of the Duma,
+      denounce her regularly on state television for destroying the economy and working
+      against the war effort. Another point of discussion in this video that is worth
+      the attention of viewers concerns the question whether the recent statements by
+      Putin about successful tests of the newest and most lethal Russian strategic arms
+      systems Burevestnik and Poseidon do anything to restore Russia’s perceived deterrent
+      power in the West. Enjoy the show!'
+    one_sentence_summary: In a conversation with Professor Glenn Diesen, he discusses
+      the impact of the Ukraine War on Russian society, highlighting the emergence of
+      hardliners and the retreat of liberals, as well as the internal divisions among
+      hardliners into hostile factions known as 'loyalists' and 'militarists.'
+    paragraph_summary: In a recent conversation with Professor Glenn Diesen, the impact
+      of the Ukraine war on Russian society is explored, highlighting the dynamics between
+      hardliners and liberals within the country. Diesen discusses the emergence of
+      two distinct factions among hardliners, referred to as 'loyalists' and 'militarists,'
+      who are increasingly at odds with each other. Despite the perception that liberals
+      have been sidelined, they remain influential, with Central Bank head Elvira Nabiullina
+      being a key figure supported by Putin, even as she faces criticism from other
+      state officials. The conversation also touches on whether Putin's announcements
+      regarding advanced Russian weaponry, such as the Burevestnik and Poseidon systems,
+      can effectively restore Russia's deterrent power in the eyes of the West.
+    published: '2025-11-09T15:32:24+00:00'
+  - title: 'Conversation with Professor Glenn Diesen, 8 November: The Impact of the
+      Ukraine War on Russian Society'
+    url: https://gilbertdoctorow.com/2025/11/09/conversation-with-professor-glenn-diesen-8-november-the-impact-of-the-ukraine-war-on-russian-society/
+    text: 'Conversation with Professor Glenn Diesen, 8 November: The Impact of the Ukraine
+      War on Russian Society I call this a ‘conversation’ rather than an interview,
+      because Glenn Diesen shares his own views on the issues for discussion quite generously
+      and these should be of special interest to viewers, many of whom are well familiar
+      with mine. That said, there are in this video issues which I have not addressed
+      elsewhere in writing or in podcasts but which definitely merit examination.  I
+      think in particular of the question of hardliners coming to the fore in Russia
+      under war conditions and Liberals retreating.  What you will find here with respect
+      to the hardliners is a breakdown of that force into at least two very different
+      and mutually hostile groups, which the journalist Piotr Sauer in an article recently
+      called ‘loyalists’ and ‘militarists.’ https://www.theguardian.com/world/2025/nov/06/putin-repressive-machinery-turns-inward-target-pro-war-figures?CMP=oth_b-aplnews_d-1
+      Piotr is the son of the Dutch founder and long-time owner of The Moscow Times,
+      who tragically died in an accident about six months ago. Then, with respect to
+      the Liberals, it is a mistake to think that they have been vanquished. Not in
+      the least. Their highest representative in the land is the head of the Central
+      Bank Nabiullina, who enjoys the full support of Putin even as many influential
+      statesmen, including the Duma deputy Babakov who is deputy chair of the Duma,
+      denounce her regularly on state television for destroying the economy and working
+      against the war effort. Another point of discussion in this video that is worth
+      the attention of viewers concerns the question whether the recent statements by
+      Putin about successful tests of the newest and most lethal Russian strategic arms
+      systems Burevestnik and Poseidon do anything to restore Russia’s perceived deterrent
+      power in the West. Enjoy the show!'
+    one_sentence_summary: In a conversation with Professor Glenn Diesen, he discusses
+      the impact of the Ukraine War on Russian society, highlighting the emergence of
+      hardliners and the retreat of liberals, as well as the internal divisions among
+      hardliners into hostile factions known as 'loyalists' and 'militarists.'
+    paragraph_summary: In a recent conversation with Professor Glenn Diesen, the impact
+      of the Ukraine war on Russian society is explored, highlighting the dynamics between
+      hardliners and liberals within the country. Diesen discusses the emergence of
+      two distinct factions among hardliners, referred to as 'loyalists' and 'militarists,'
+      who are increasingly at odds with each other. Despite the perception that liberals
+      have been sidelined, they remain influential, with Central Bank head Elvira Nabiullina
+      being a key figure supported by Putin, even as she faces criticism from other
+      state officials. The conversation also touches on whether Putin's announcements
+      regarding advanced Russian weaponry, such as the Burevestnik and Poseidon systems,
+      can effectively restore Russia's deterrent power in the eyes of the West.
+    published: '2025-11-09T15:32:24+00:00'
+  - title: Transcript of NewsX World interview, 8 November
+    url: https://gilbertdoctorow.com/2025/11/09/transcript-of-newsx-world-interview-8-november/
+    text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=Kx6OzJHmhLg
+      NewsX World: 3:55 Okay, now joining us is Gilbert Doctorow. He’s a Russia affairs
+      expert who joins us live from Brussels. Gilbert, thank you very much for joining
+      us here on the program. What is the significance behind President Putin’s direct
+      line session later? What … weight does this event carry in regards to Moscow’s
+      communications and control? Doctorow: 4:25 Well, this is a very significant event
+      that is closely watched not only by domestic mass media in Russia, but also by
+      those of us who are interested in Russian affairs abroad. It is the most important
+      single Q&A that President Putin has each year. This lasts over four hours customarily.
+      And he receives questions from press correspondents that he knows well, and from
+      many whom he hardly knows, both domestic and foreign, usually some time is reserved
+      for major Western journalists to pose directly to Mr. Putin. 5:13 We will all
+      watch it closely. The overwhelming number of questions that are given to Mr. Putin
+      concern domestic affairs in Russia. That is, pension questions, questions of how
+      the inflation is affecting the economy, what is being done to alleviate shortages
+      of one commodity, you know, like last year it was eggs in particular that were
+      in short supply. These domestic issues hardly interest us foreign observers, but
+      we do find, if you have the patience to listen to Mr Putin, you do find his comments
+      on international affairs and on the war in Ukraine to be quite interesting and
+      sometimes useful for our evaluation of the latest Russian state position. NewsX
+      World: 5:59 Yes, and Gilbert, of course, Russia is often criticised for its alleged
+      control of the media. What does this show about the transparency of the Russian
+      government that Putin, Vladimir Putin is there ready to accept questions from
+      international media outlets like the BBC, CNN, etc? Doctorow: 6:29 He has no difficulty
+      handling these correspondents whom he knows very well by name, since they’ve been
+      there, like the BBC correspondent, has been there for years. NewsX World: Yeah.
+      Doctorow: As to control of the media, of course the Russian state controls television,
+      but there is nothing surprising in that, as if the BBC is not controlled by the
+      Prime Minister’s office in London, or Euronews is not controlled by Ursula von
+      der Leyen, whose policies it is constantly projecting to the European public.
+      7:05 So that isn’t an issue. What is unique about the Russian controlled television
+      is that it gives every day very large digests of what the world press is saying.
+      That is to say, if you watch the news roundups or if you watch major talk shows
+      like 60 Minutes, you will be exposed to extensive excerpts from what the BBC is
+      saying, from what the New York Times is saying, from what Deutsche Welle is saying.
+      And these are not just soundbites. They are real, substantial excerpts from reportage
+      about the world and about events in Russia abroad. 7:46 That is unique, and it
+      stands in contrast to what goes on in the West, where nothing of Russian media
+      is given to the public day by day. So the Russian government expects that its
+      public, being well educated, will sort out for itself the logic or illogic of
+      what the western press is reporting. NewsX World: 8:11 Yes indeed. Gilbert Doctorow,
+      thank you very much for joining us on here on the program. And here on NewsX World,
+      of course we will keep you updated on that direct-line session with Vladimir Putin.'
+    one_sentence_summary: Gilbert Doctorow, a Russia affairs expert, discusses the significance
+      of President Putin's annual direct line session, highlighting its importance for
+      both domestic and international observers as a key opportunity for direct communication
+      and public engagement.
+    paragraph_summary: In a recent discussion, Russia affairs expert Gilbert Doctorow
+      highlighted the significance of President Putin's annual direct line session,
+      which is a key event closely monitored by both domestic and international audiences.
+      Lasting over four hours, this Q&A session allows Putin to address a range of questions,
+      predominantly focused on domestic issues such as pensions and inflation, although
+      he also provides insights into international matters, including the war in Ukraine.
+      Doctorow noted that while the event showcases Putin's ability to engage with both
+      familiar and foreign journalists, it raises questions about the transparency of
+      the Russian government, especially given the country's reputation for media control.
+    published: '2025-11-09T06:26:47+00:00'
+  - title: Transcript of NewsX World interview, 8 November
+    url: https://gilbertdoctorow.com/2025/11/09/transcript-of-newsx-world-interview-8-november/
+    text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=Kx6OzJHmhLg
+      NewsX World: 3:55 Okay, now joining us is Gilbert Doctorow. He’s a Russia affairs
+      expert who joins us live from Brussels. Gilbert, thank you very much for joining
+      us here on the program. What is the significance behind President Putin’s direct
+      line session later? What … weight does this event carry in regards to Moscow’s
+      communications and control? Doctorow: 4:25 Well, this is a very significant event
+      that is closely watched not only by domestic mass media in Russia, but also by
+      those of us who are interested in Russian affairs abroad. It is the most important
+      single Q&A that President Putin has each year. This lasts over four hours customarily.
+      And he receives questions from press correspondents that he knows well, and from
+      many whom he hardly knows, both domestic and foreign, usually some time is reserved
+      for major Western journalists to pose directly to Mr. Putin. 5:13 We will all
+      watch it closely. The overwhelming number of questions that are given to Mr. Putin
+      concern domestic affairs in Russia. That is, pension questions, questions of how
+      the inflation is affecting the economy, what is being done to alleviate shortages
+      of one commodity, you know, like last year it was eggs in particular that were
+      in short supply. These domestic issues hardly interest us foreign observers, but
+      we do find, if you have the patience to listen to Mr Putin, you do find his comments
+      on international affairs and on the war in Ukraine to be quite interesting and
+      sometimes useful for our evaluation of the latest Russian state position. NewsX
+      World: 5:59 Yes, and Gilbert, of course, Russia is often criticised for its alleged
+      control of the media. What does this show about the transparency of the Russian
+      government that Putin, Vladimir Putin is there ready to accept questions from
+      international media outlets like the BBC, CNN, etc? Doctorow: 6:29 He has no difficulty
+      handling these correspondents whom he knows very well by name, since they’ve been
+      there, like the BBC correspondent, has been there for years. NewsX World: Yeah.
+      Doctorow: As to control of the media, of course the Russian state controls television,
+      but there is nothing surprising in that, as if the BBC is not controlled by the
+      Prime Minister’s office in London, or Euronews is not controlled by Ursula von
+      der Leyen, whose policies it is constantly projecting to the European public.
+      7:05 So that isn’t an issue. What is unique about the Russian controlled television
+      is that it gives every day very large digests of what the world press is saying.
+      That is to say, if you watch the news roundups or if you watch major talk shows
+      like 60 Minutes, you will be exposed to extensive excerpts from what the BBC is
+      saying, from what the New York Times is saying, from what Deutsche Welle is saying.
+      And these are not just soundbites. They are real, substantial excerpts from reportage
+      about the world and about events in Russia abroad. 7:46 That is unique, and it
+      stands in contrast to what goes on in the West, where nothing of Russian media
+      is given to the public day by day. So the Russian government expects that its
+      public, being well educated, will sort out for itself the logic or illogic of
+      what the western press is reporting. NewsX World: 8:11 Yes indeed. Gilbert Doctorow,
+      thank you very much for joining us on here on the program. And here on NewsX World,
+      of course we will keep you updated on that direct-line session with Vladimir Putin.'
+    one_sentence_summary: Gilbert Doctorow, a Russia affairs expert, discusses the significance
+      of President Putin's annual direct line session, highlighting its importance for
+      both domestic and international observers as a key opportunity for direct communication
+      and public engagement.
+    paragraph_summary: In a recent discussion, Russia affairs expert Gilbert Doctorow
+      highlighted the significance of President Putin's annual direct line session,
+      which is a key event closely monitored by both domestic and international audiences.
+      Lasting over four hours, this Q&A session allows Putin to address a range of questions,
+      predominantly focused on domestic issues such as pensions and inflation, although
+      he also provides insights into international matters, including the war in Ukraine.
+      Doctorow noted that while the event showcases Putin's ability to engage with both
+      familiar and foreign journalists, it raises questions about the transparency of
+      the Russian government, especially given the country's reputation for media control.
+    published: '2025-11-09T06:26:47+00:00'
+  - title: News X World interview on the significance of President Putin’s upcoming
+      annual Direct Line Q&A
+    url: https://gilbertdoctorow.com/2025/11/08/news-x-world-interview-on-the-significance-of-president-putins-upcoming-annual-direct-line-qa/
+    text: News X World interview on the significance of President Putin’s upcoming annual
+      Direct Line Q&A It was a pleasure earlier today to be given a time slot in NewsX
+      World’s round-up of key global developments to talk about the soon to be scheduled
+      4 hour annual Direct Line of President Putin taking questions from the nation,
+      by call-in, and from the journalists representing global press and broadcasters
+      who are present in the auditorium where Putin holds forth. This event will be
+      closely watched by everyone commenting on Russian affairs, although most of the
+      show will be about domestic Russian concerns like pensions, inflation, the availability
+      of nursery schools and good medical facilities across the country.  Nonetheless
+      some 10 to 20 percent of the time Putin will address international issues like
+      the Ukraine war which are of particular interest to us foreign observers. I was
+      glad to be asked about the tight control which the Kremlin exerts over television
+      and the mass media, because it gave me the opportunity to counter the generally
+      held opinions in the West over our free press and their state run press.  The
+      reality is much more interesting as I hope you will discover by listening to this
+      5 minute interview minute 3.55 to 8.16
+    one_sentence_summary: The article discusses the significance of President Putin's
+      upcoming annual Direct Line Q&A, highlighting its focus on domestic issues while
+      also addressing international concerns, and emphasizes the Kremlin's tight control
+      over media coverage of such events.
+    paragraph_summary: In a recent interview with NewsX World, the significance of President
+      Putin's upcoming annual Direct Line Q&A was discussed, highlighting its importance
+      for both domestic and international observers. The four-hour event will primarily
+      focus on domestic issues such as pensions, inflation, and healthcare, but will
+      also allocate 10 to 20 percent of the time to international topics like the Ukraine
+      war. The interview also touched on the Kremlin's tight control over media, providing
+      a counter-narrative to Western perceptions of press freedom, suggesting that the
+      reality of media dynamics in Russia is more complex than commonly believed.
+    published: '2025-11-08T18:40:01+00:00'
+  - title: News X World interview on the significance of President Putin’s upcoming
+      annual Direct Line Q&A
+    url: https://gilbertdoctorow.com/2025/11/08/news-x-world-interview-on-the-significance-of-president-putins-upcoming-annual-direct-line-qa/
+    text: News X World interview on the significance of President Putin’s upcoming annual
+      Direct Line Q&A It was a pleasure earlier today to be given a time slot in NewsX
+      World’s round-up of key global developments to talk about the soon to be scheduled
+      4 hour annual Direct Line of President Putin taking questions from the nation,
+      by call-in, and from the journalists representing global press and broadcasters
+      who are present in the auditorium where Putin holds forth. This event will be
+      closely watched by everyone commenting on Russian affairs, although most of the
+      show will be about domestic Russian concerns like pensions, inflation, the availability
+      of nursery schools and good medical facilities across the country.  Nonetheless
+      some 10 to 20 percent of the time Putin will address international issues like
+      the Ukraine war which are of particular interest to us foreign observers. I was
+      glad to be asked about the tight control which the Kremlin exerts over television
+      and the mass media, because it gave me the opportunity to counter the generally
+      held opinions in the West over our free press and their state run press.  The
+      reality is much more interesting as I hope you will discover by listening to this
+      5 minute interview minute 3.55 to 8.16
+    one_sentence_summary: The article discusses the significance of President Putin's
+      upcoming annual Direct Line Q&A, highlighting its focus on domestic issues while
+      also addressing international concerns, and emphasizes the Kremlin's tight control
+      over media coverage of such events.
+    paragraph_summary: In a recent interview with NewsX World, the significance of President
+      Putin's upcoming annual Direct Line Q&A was discussed, highlighting its importance
+      for both domestic and international observers. The four-hour event will primarily
+      focus on domestic issues such as pensions, inflation, and healthcare, but will
+      also allocate 10 to 20 percent of the time to international topics like the Ukraine
+      war. The interview also touched on the Kremlin's tight control over media, providing
+      a counter-narrative to Western perceptions of press freedom, suggesting that the
+      reality of media dynamics in Russia is more complex than commonly believed.
+    published: '2025-11-08T18:40:01+00:00'
+  - title: Transcript of Judging Freedom_7 November 2025
+    url: https://gilbertdoctorow.com/2025/11/08/transcript-of-judging-freedom_7-november-2025/
+    text: 'Transcript submitted by a subscriber Napolitano: 0:33 Hi everyone, Judge
+      Andrew Napolitano here for Judging Freedom. Today is Friday, November 7th, 2025.
+      Dr. Gilbert Doctorow will be with us in just a moment on: Are the Russians Losing
+      patience with the pace of the war? But first this. [ad] 2:03 Dr. Doctorow, welcome
+      here and thank you very much for accommodating my schedule. This is not your usual
+      day or your usual time. You’ve been traveling, I’ve been traveling, and we managed
+      to meet at this hour, 3 o’clock New York time, 9 o’clock Brussels time on Friday
+      afternoon. Is Russian society evolving during the special military operation and
+      if so is it going towards self-confidence or is it reverting back to the old Soviet
+      Union or somewhere else? Doctorow: 2:41 It’s a very complicated society. Look,
+      there are 150 million Russian Federation citizens now. You cannot take a reading
+      of five or ten people and say that you were confidently speaking about all of
+      Russian society. However, what you can say is that so many people who are on your
+      show, who are on other authoritative talk shows, and who have their own platforms,
+      are speaking as if their knowledge of some people, particularly high-level people
+      who invite them to Russia for events, that that limited knowledge is the whole
+      of Russia. Dead wrong. You very kindly referred to my academic title as a PhD
+      in Russian history. But my writings and my speaking these days is based primarily
+      on what I see and know as somebody who has lived and worked and who visits regularly
+      Russia today under the difficult conditions of getting there. And that is a different
+      Russia. When you have a bank account, when you deal with notaries, when you buy
+      and sell apartments, This is living in the country and meeting a great many people,
+      and not just those who are kindly treating you because they expect you to say
+      what they say about their country. So my words are not intended to be a comprehensive
+      take on Russian society, but I’d like to introduce some of the complexities, and
+      particularly what I picked up in the last few weeks because they bear, I was there
+      17 days, it bears directly on your question. And I saw for the first time we sat
+      at a dinner, the Unity, Russian Unity Day, dinner. The Russians used to celebrate
+      the 7th of November for the Russian Revolution, but they moved it three days earlier,
+      or four days earlier. And now November 4th is celebrated as Russian Unity Day.
+      If you ask people what it stands for, they have a hard time explaining because
+      basically it goes back to 1610 or whatever it was when they had a time of troubles
+      and Russia was invaded by Poles, Moscow was held by the Poles. Yes, Poles. And
+      they liberated themselves from the Poles, and so we have National Unity. Well,
+      anyway, they celebrated. And we had a dinner, a festive dinner, five people there.
+      I’ve known them for years, for decades, I can say. And we never discussed directly
+      the question of how the war is being handled until we did this week. And I can
+      tell you, answer your question directly, four out of four of these people with
+      different backgrounds, one worked for maybe 30, 40 years, maybe 50 years, designing
+      ballistic missiles in the defense industry. Very patriotic. His wife was a former
+      spokeswoman for the mayor’s office in Petersburg. At this level, they are high
+      in Russian society and in loyal Russian society. They all said one thing. The
+      war has to stop. It’s going on for much too long. The fellow in the defense background,
+      who knows a thing or two about designing weapons, said it’s clear what’s going
+      on. The general staff is using the territory of Ukraine now for target practice,
+      for testing new weapons. And the day after we had this discussion, on the fifth
+      of this month, the Financial Times had a lengthy article detailing precisely that,
+      listing one after another the latest modifications made to Russian glide bombs,
+      these are the dumb bombs from the Soviet Union which are stockpiled in vast quantities
+      and have been upgraded to glide bombs. And so there are people in the government
+      who, and particularly in the military, who are motivated to keep this war going.
+      Napolitano: 7:18 Your friends who are educated and patriotic, I think that’s a
+      fair way to describe them from this, to summarize the description you’ve given.
+      Are they just impatient, normal human impatience, or do they see some sort of
+      regression in Russian society because of the duration and cost of the war? Doctorow:
+      7:44 Well, the latter, the last points you’re mentioning, we didn’t discuss it
+      at the dinner table. I discussed that, it was introduced not by me, but by my
+      interlocutor when I was at the Russian Union of Journalists. And I heard precisely
+      this question coming up of the war. Well, no war in any country lends itself to
+      the progressive evolution of society. It always is a tightening of the screws
+      and of an illiberal move in a society. Napolitano: 8:25 You and I are using the
+      common English word war. President Putin uses the technical legal phrase special
+      military operation. There was obviously a difference. However, what do the Russians
+      use? Do they say it’s a war, not World War II, we’re not being invaded by the
+      Germans, it’s not 1812, we’re not being invaded by Napoleon? Do they use special
+      military operation, which connotes a refined, finite, limited goal, or do they
+      use the word war? Doctorow: 9:00 Nobody speaks about special military operation
+      any more. It’s a war. And I heard precisely what you expect to hear about a war.
+      The apartment that we maintain with my wife on the outer borough of St. Petersburg,
+      happens to be near a helicopter base, which brings in at night, wounded, injured,
+      severely injured Russian soldiers from the war. Now they are not flown in by helicopter
+      from the front obviously. They are brought to some point in the Russian Federation
+      by a normal plane, a fixed wing plane, and then they are offloaded onto many helicopters
+      who take them to specialized hospitals in various cities across the country, including
+      St. Petersburg. We hear this. A taxi driver was describing how many of these flights
+      are coming in, how the local hospital, military hospital is overloaded now. What
+      people talk about is not so much deaths, they talk about casualties, about the
+      maimed, about those who have lost limbs. When you listen to Russian television
+      now- Napolitano: 10:17 While they’re talking about this, and while the Russian
+      military is making gains against Ukraine, but also experimenting with new weapons
+      and refurbished old weapons, as you’ve described, what is the economic viability
+      of life in Moscow and St. Petersburg. How well stocked are shelves? What is inflation
+      like? Are there gas lines? Doctorow: 10:46 Well, I was in Moscow in May, my last
+      trip five months ago. I was only in Petersburg for these 17 days. As I have written,
+      I write travel notes. And I did that on this trip, publishing on my Substack platform.
+      As I noted, when you go through the shops quickly and pick up this or that, amongst
+      staples, what are ordinary commodities, milk or butter or cheese, the prices look
+      stable. You have to spend a little bit of time and use the kind of care that you
+      use anywhere. When a Mars bar gets smaller, that’s inflation. When the same thing
+      in Russia, they change the way that many portioned foodstuffs like cakes or buns
+      or whatever, a bakery, they’re no longer by piece. They’re now by 100 grams in
+      little tiny letters so that the customer will be embarrassed when the price asked
+      at the cash registers is three times what they thought they were going to pay
+      for that bun or that cake in the store. They are playing tricks. Stores are playing
+      tricks to extract a much higher price than you would expect now or that people
+      did expect. Saying that, I think overall inflation is probably not far from the
+      10% described, But in some items, it’s way out of whack. I can tell you right
+      now that in May, I bought the usual 250 gram package of coffee, ground coffee,
+      and the price was close to what it is in Belgium. This time it is 40% higher in
+      the St. Petersburg supermarket than it is in the supermarket in Brussels. That
+      is a hell of an inflation for coffee coming presumably from the BRICS friends
+      in Brazil. So these things are more sophisticated to figure out. But I can tell
+      you inflation is there, people are aware of it. But the big issue is the maimed,
+      wounded, and killed soldiers. Napolitano: 13:03 Are journalists free to criticize
+      the government over its handling of the war or even to criticize the moral and
+      legal basis for the war? Doctorow: On the latter, no. The former, yes. You can
+      say that the war is being mishandled. You can argue that more drastic efforts
+      should be made to subdue Kiev or to decapitate the regime. You can say that. You
+      cannot say that the war is a bad idea. That is, you cannot make openly anti-war
+      positions. And the Union of Journalists, under the successor to the KGB, which
+      is called the FSB, were instructed recently to throw out members who are against
+      the war. And they did that in St. Petersburg to their great regret. Napolitano:
+      13:54 Is there any validity to the rumors which spread in the past 36 hours in
+      Moscow, not picked up in mainstream media but alternate media, we see this, of
+      a falling out between Vladimir Putin and Sergey Lavrov. Doctorow: No, I’m not
+      aware of that. This would be detected much more closely in the West than it would
+      have been in Russian media. The question of Mr. Lavrov, he is widely respected.
+      I know that you respect him greatly. And the world at large has a great deal of
+      respect for Lavrov for what he’s achieved and for his long service. But let us
+      be completely frank. Mr. Lavrov is not, never was an independent actor. He is
+      the implementer of the president’s policies. He is not a maker of policy. Napolitano:
+      Correct. Doctorow And so if- Napolitano: 14:56 Well, but that’s the case with
+      any secretary of state or foreign minister. Doctorow: That’s the way it should
+      be, but it isn’t always. But yeah– Napolitano: Right, right. Does Vladimir Putin
+      want the war to end? Doctorow: That’s an interesting question. If he really wanted
+      it to end, if that were his highest priority and in line with the general principle
+      of the Russian government that Vladimir Putin wants to spare Russian soldiers’
+      lives. Well, the best way to solve it, spare their lives, is to end the war tomorrow
+      by decapitating Kiev. Now, I’m not saying something out of turn. This very idea
+      has been broadcast on Russian state television by none other than Vladimir Solovyev
+      and a few of his panelists. And if people say, oh, you’re listening to Russian
+      television, well, yes, Russian television is very closely controlled by the government
+      and it let this pass. So there are people within the government who would like
+      the war to be ended now. And Mr. Putin is obviously not one of them. Napolitano:
+      16:07 Is there a credence in your view to the argument that Putin is intentionally
+      waging a war of attrition? You and I have talked about this, but not in a number
+      of months. So maybe you feel the same as you did a few months ago, or maybe you
+      feel differently. The president is intentionally waging a war of attrition to
+      destroy a generation of young men in Ukraine so that Russia doesn’t have to put
+      up with this again. Doctorow: No, I don’t believe that is in line with Mr. Putin
+      the man. As I said, as I’ve written, there are contradictory notes coming out
+      of this visit, including the very interesting coda to a famous opera by Rimsky-Korsakov,
+      which ends in a statement, a very powerful message about Russian culture, Russian
+      culture being very Christian in the sense of turn the other cheek, not looking
+      for revenge and so forth. Mr. Putin is to all appearances, a deeply, a deep believer
+      in these values of Russia as no Soviet leader ever could be. So there’s a big
+      change. The question is whether this peculiar feature of Russian culture which
+      Mr. Putin embodies isn’t leading us to World War III because it is not appreciated
+      by this very secular Western European and American leadership. They don’t get
+      it. So the two sides are working on, and here as I raise it, we have the famous
+      clash of civilizations of Sam Huntington in which the Eastern Orthodox faith was
+      described as a separate civilization. But there was no mention by Huntington or
+      no thinking that it could lead to a clash. Well, my friends, we have that potential
+      today because Putin is operating under different cultural values from what Washington,
+      London or Berlin are operating under. Napolitano: 18:30 Let me bring you back
+      to the first question I asked you: Is Russian society evolving during the war?
+      And if the answer is yes, can you say if it is moving towards self-confidence
+      or back toward the old Soviet Union or in some other direction? Doctorow: Charles
+      Dickens was very clever when he opened the Tale of Two Cities with that statement
+      “it was the best of times and it was worst of times”. Napolitano: Right. Doctorow:
+      Life is contradictory. What I saw on this visit is contradictory. The Soviet society
+      was a sick society. In 25 years in power, Mr. Putin has done a great deal to make
+      it a healthy society. I have described in my notes the idiocy of bureaucratic
+      requirements as they pertain to Russian citizens and certainly as they pertain
+      to foreigners who are trying to register and follow the laws, they are idiotic.
+      They impose a great task on the bureaucracy that serves the people in these local
+      administrative offices. Those people are very kindly. They are very helpful. Soviet
+      officials, whom the public dealt with, were not friendly. They were nasty. They
+      were underpaid. And they were disagreeable. The Russian officials, officials of
+      today are very nice people. So that’s all positive. The sickness of the Soviet
+      days is gone. But Elon Musk would agree with me, the Russians could fire half
+      of their bureaucrats and life would be twice as good. Napolitano: The Russians
+      could fire half of their bureaucrats and life would be twice as good. Can I take
+      from you that if you detect any direction of Russian society evolving, it’s towards
+      self-confidence, it’s not toward the old Soviet Union? I don’t want to put words
+      in your mouth. I’m going- Doctoorow: 20:33 For society, I agree with you completely.
+      But the problem is that in any war, the worst elements come to the fore. And censorship
+      comes to the fore. And the abuses of power at the low levels come to the fore.
+      In the 1990s, the traffic police were a burden on anyone with a car because they
+      were stopping everybody, giving them fines to be paid in cash on the spot, going
+      into the pockets of the police. That has come back. It’s come back. The Putin
+      government has lost its control over these ills because it’s so absorbed by the
+      war. Napolitano: Were you as a non-Russian, I’ll just throw this example out,
+      permitted to have a Russian telephone with a Russian telephone number in the two
+      or three weeks you were in Russia? Doctorow: 21:32 I have had a Russian telephone
+      since 2009. The Russians were never controlling the access of foreigners to their
+      phone system. It was never an issue. In fact, in the past you could get a SIM
+      card at the airport. You arrive in Moscow or Petersburg and they were selling
+      SIM cards for temporary use, either loaded with so many rubles on the SIM card
+      or whatever. Now not only is that gone, but anyone who is a foreigner has to be
+      resident, has to be registered with GosUslug, which is a multifunctional interface
+      between all government services and citizenry and has to have a Russian health
+      insurance policy. You tell me what the connection is between having a Russian
+      health insurance policy and having a phone number. Not much. Napolitano: 22:39
+      Wow. Where do you think the war will be in the spring, six months from now? Doctorow:
+      Right where it is now. I disagree with all of the– Look, I have looked, I’ve written
+      my War Diaries, volume one, and already it was coming to me then, back in May,
+      that my goodness, we’ve been making projections, and making projections all based
+      on good military logic that the Ukrainians have lost the war and should admit
+      it. We were missing the point that the West wants this war to go on. First it
+      was the Biden administration that was orchestrating the whole thing. And now that
+      Trump has pulled the United States out of the leadership role, now it’s the Europeans
+      who want the war to go on. And so the notion of that, if the Russians take Pokrovsk
+      it will be the end of the war, is utter nonsense. They still have to reach the
+      Dnieper, and from the Dnieper. Well, what does that mean? If the Europeans keep
+      on supplying arms, if they move in and create military bases in Ukraine, then
+      the Russians will have not achieved their objective of the special military operation.
+      So this war can go on for years. Napolitano: 23:55 Professor Doctorow, pleasure,
+      my dear friend. You are sometimes a contrarian, but I love it because it challenges
+      people and makes them think. And your observations, of course, are unique because
+      of all your interaction in Russian society, which you just concluded in a three-week
+      trip. Thank you, Gilbert. We look forward to seeing you your usual day and time
+      next week. Doctorow: Well, very kind of you. And I hope this sets minds thinking.
+      Napolitano: It surely does. Thank you all the best. Have a fine weekend. Still
+      to come, it’s the end of the day and the end of the week. That means at four o’clock,
+      At four o’clock Eastern this afternoon, Larry Johnson, Ray McGovern, the Intelligence
+      Community Roundtable will review all of this. 24:42 Judge Napolitano for Judging
+      Freedom.'
+    one_sentence_summary: In a discussion on "Judging Freedom," Judge Andrew Napolitano
+      and Dr. Gilbert Doctorow explore the complexities of Russian society during the
+      ongoing military operation, questioning whether it is evolving towards self-confidence
+      or regressing to Soviet-era characteristics.
+    paragraph_summary: In a recent episode of "Judging Freedom," Judge Andrew Napolitano
+      interviews Dr. Gilbert Doctorow about the evolving nature of Russian society amidst
+      the ongoing conflict in Ukraine. Doctorow emphasizes the complexity of Russian
+      society, cautioning against generalizations based on limited interactions with
+      a few high-profile individuals. Drawing from his extensive experience living and
+      working in Russia, he highlights the diverse perspectives within the country,
+      suggesting that many commentators fail to capture the broader societal dynamics.
+      The discussion aims to explore whether the Russian populace is gaining self-confidence
+      or reverting to Soviet-era attitudes, reflecting on the multifaceted realities
+      of life in Russia today.
+    published: '2025-11-08T08:25:36+00:00'
+  - title: Transcript of Judging Freedom_7 November 2025
+    url: https://gilbertdoctorow.com/2025/11/08/transcript-of-judging-freedom_7-november-2025/
+    text: 'Transcript submitted by a subscriber Napolitano: 0:33 Hi everyone, Judge
+      Andrew Napolitano here for Judging Freedom. Today is Friday, November 7th, 2025.
+      Dr. Gilbert Doctorow will be with us in just a moment on: Are the Russians Losing
+      patience with the pace of the war? But first this. [ad] 2:03 Dr. Doctorow, welcome
+      here and thank you very much for accommodating my schedule. This is not your usual
+      day or your usual time. You’ve been traveling, I’ve been traveling, and we managed
+      to meet at this hour, 3 o’clock New York time, 9 o’clock Brussels time on Friday
+      afternoon. Is Russian society evolving during the special military operation and
+      if so is it going towards self-confidence or is it reverting back to the old Soviet
+      Union or somewhere else? Doctorow: 2:41 It’s a very complicated society. Look,
+      there are 150 million Russian Federation citizens now. You cannot take a reading
+      of five or ten people and say that you were confidently speaking about all of
+      Russian society. However, what you can say is that so many people who are on your
+      show, who are on other authoritative talk shows, and who have their own platforms,
+      are speaking as if their knowledge of some people, particularly high-level people
+      who invite them to Russia for events, that that limited knowledge is the whole
+      of Russia. Dead wrong. You very kindly referred to my academic title as a PhD
+      in Russian history. But my writings and my speaking these days is based primarily
+      on what I see and know as somebody who has lived and worked and who visits regularly
+      Russia today under the difficult conditions of getting there. And that is a different
+      Russia. When you have a bank account, when you deal with notaries, when you buy
+      and sell apartments, This is living in the country and meeting a great many people,
+      and not just those who are kindly treating you because they expect you to say
+      what they say about their country. So my words are not intended to be a comprehensive
+      take on Russian society, but I’d like to introduce some of the complexities, and
+      particularly what I picked up in the last few weeks because they bear, I was there
+      17 days, it bears directly on your question. And I saw for the first time we sat
+      at a dinner, the Unity, Russian Unity Day, dinner. The Russians used to celebrate
+      the 7th of November for the Russian Revolution, but they moved it three days earlier,
+      or four days earlier. And now November 4th is celebrated as Russian Unity Day.
+      If you ask people what it stands for, they have a hard time explaining because
+      basically it goes back to 1610 or whatever it was when they had a time of troubles
+      and Russia was invaded by Poles, Moscow was held by the Poles. Yes, Poles. And
+      they liberated themselves from the Poles, and so we have National Unity. Well,
+      anyway, they celebrated. And we had a dinner, a festive dinner, five people there.
+      I’ve known them for years, for decades, I can say. And we never discussed directly
+      the question of how the war is being handled until we did this week. And I can
+      tell you, answer your question directly, four out of four of these people with
+      different backgrounds, one worked for maybe 30, 40 years, maybe 50 years, designing
+      ballistic missiles in the defense industry. Very patriotic. His wife was a former
+      spokeswoman for the mayor’s office in Petersburg. At this level, they are high
+      in Russian society and in loyal Russian society. They all said one thing. The
+      war has to stop. It’s going on for much too long. The fellow in the defense background,
+      who knows a thing or two about designing weapons, said it’s clear what’s going
+      on. The general staff is using the territory of Ukraine now for target practice,
+      for testing new weapons. And the day after we had this discussion, on the fifth
+      of this month, the Financial Times had a lengthy article detailing precisely that,
+      listing one after another the latest modifications made to Russian glide bombs,
+      these are the dumb bombs from the Soviet Union which are stockpiled in vast quantities
+      and have been upgraded to glide bombs. And so there are people in the government
+      who, and particularly in the military, who are motivated to keep this war going.
+      Napolitano: 7:18 Your friends who are educated and patriotic, I think that’s a
+      fair way to describe them from this, to summarize the description you’ve given.
+      Are they just impatient, normal human impatience, or do they see some sort of
+      regression in Russian society because of the duration and cost of the war? Doctorow:
+      7:44 Well, the latter, the last points you’re mentioning, we didn’t discuss it
+      at the dinner table. I discussed that, it was introduced not by me, but by my
+      interlocutor when I was at the Russian Union of Journalists. And I heard precisely
+      this question coming up of the war. Well, no war in any country lends itself to
+      the progressive evolution of society. It always is a tightening of the screws
+      and of an illiberal move in a society. Napolitano: 8:25 You and I are using the
+      common English word war. President Putin uses the technical legal phrase special
+      military operation. There was obviously a difference. However, what do the Russians
+      use? Do they say it’s a war, not World War II, we’re not being invaded by the
+      Germans, it’s not 1812, we’re not being invaded by Napoleon? Do they use special
+      military operation, which connotes a refined, finite, limited goal, or do they
+      use the word war? Doctorow: 9:00 Nobody speaks about special military operation
+      any more. It’s a war. And I heard precisely what you expect to hear about a war.
+      The apartment that we maintain with my wife on the outer borough of St. Petersburg,
+      happens to be near a helicopter base, which brings in at night, wounded, injured,
+      severely injured Russian soldiers from the war. Now they are not flown in by helicopter
+      from the front obviously. They are brought to some point in the Russian Federation
+      by a normal plane, a fixed wing plane, and then they are offloaded onto many helicopters
+      who take them to specialized hospitals in various cities across the country, including
+      St. Petersburg. We hear this. A taxi driver was describing how many of these flights
+      are coming in, how the local hospital, military hospital is overloaded now. What
+      people talk about is not so much deaths, they talk about casualties, about the
+      maimed, about those who have lost limbs. When you listen to Russian television
+      now- Napolitano: 10:17 While they’re talking about this, and while the Russian
+      military is making gains against Ukraine, but also experimenting with new weapons
+      and refurbished old weapons, as you’ve described, what is the economic viability
+      of life in Moscow and St. Petersburg. How well stocked are shelves? What is inflation
+      like? Are there gas lines? Doctorow: 10:46 Well, I was in Moscow in May, my last
+      trip five months ago. I was only in Petersburg for these 17 days. As I have written,
+      I write travel notes. And I did that on this trip, publishing on my Substack platform.
+      As I noted, when you go through the shops quickly and pick up this or that, amongst
+      staples, what are ordinary commodities, milk or butter or cheese, the prices look
+      stable. You have to spend a little bit of time and use the kind of care that you
+      use anywhere. When a Mars bar gets smaller, that’s inflation. When the same thing
+      in Russia, they change the way that many portioned foodstuffs like cakes or buns
+      or whatever, a bakery, they’re no longer by piece. They’re now by 100 grams in
+      little tiny letters so that the customer will be embarrassed when the price asked
+      at the cash registers is three times what they thought they were going to pay
+      for that bun or that cake in the store. They are playing tricks. Stores are playing
+      tricks to extract a much higher price than you would expect now or that people
+      did expect. Saying that, I think overall inflation is probably not far from the
+      10% described, But in some items, it’s way out of whack. I can tell you right
+      now that in May, I bought the usual 250 gram package of coffee, ground coffee,
+      and the price was close to what it is in Belgium. This time it is 40% higher in
+      the St. Petersburg supermarket than it is in the supermarket in Brussels. That
+      is a hell of an inflation for coffee coming presumably from the BRICS friends
+      in Brazil. So these things are more sophisticated to figure out. But I can tell
+      you inflation is there, people are aware of it. But the big issue is the maimed,
+      wounded, and killed soldiers. Napolitano: 13:03 Are journalists free to criticize
+      the government over its handling of the war or even to criticize the moral and
+      legal basis for the war? Doctorow: On the latter, no. The former, yes. You can
+      say that the war is being mishandled. You can argue that more drastic efforts
+      should be made to subdue Kiev or to decapitate the regime. You can say that. You
+      cannot say that the war is a bad idea. That is, you cannot make openly anti-war
+      positions. And the Union of Journalists, under the successor to the KGB, which
+      is called the FSB, were instructed recently to throw out members who are against
+      the war. And they did that in St. Petersburg to their great regret. Napolitano:
+      13:54 Is there any validity to the rumors which spread in the past 36 hours in
+      Moscow, not picked up in mainstream media but alternate media, we see this, of
+      a falling out between Vladimir Putin and Sergey Lavrov. Doctorow: No, I’m not
+      aware of that. This would be detected much more closely in the West than it would
+      have been in Russian media. The question of Mr. Lavrov, he is widely respected.
+      I know that you respect him greatly. And the world at large has a great deal of
+      respect for Lavrov for what he’s achieved and for his long service. But let us
+      be completely frank. Mr. Lavrov is not, never was an independent actor. He is
+      the implementer of the president’s policies. He is not a maker of policy. Napolitano:
+      Correct. Doctorow And so if- Napolitano: 14:56 Well, but that’s the case with
+      any secretary of state or foreign minister. Doctorow: That’s the way it should
+      be, but it isn’t always. But yeah– Napolitano: Right, right. Does Vladimir Putin
+      want the war to end? Doctorow: That’s an interesting question. If he really wanted
+      it to end, if that were his highest priority and in line with the general principle
+      of the Russian government that Vladimir Putin wants to spare Russian soldiers’
+      lives. Well, the best way to solve it, spare their lives, is to end the war tomorrow
+      by decapitating Kiev. Now, I’m not saying something out of turn. This very idea
+      has been broadcast on Russian state television by none other than Vladimir Solovyev
+      and a few of his panelists. And if people say, oh, you’re listening to Russian
+      television, well, yes, Russian television is very closely controlled by the government
+      and it let this pass. So there are people within the government who would like
+      the war to be ended now. And Mr. Putin is obviously not one of them. Napolitano:
+      16:07 Is there a credence in your view to the argument that Putin is intentionally
+      waging a war of attrition? You and I have talked about this, but not in a number
+      of months. So maybe you feel the same as you did a few months ago, or maybe you
+      feel differently. The president is intentionally waging a war of attrition to
+      destroy a generation of young men in Ukraine so that Russia doesn’t have to put
+      up with this again. Doctorow: No, I don’t believe that is in line with Mr. Putin
+      the man. As I said, as I’ve written, there are contradictory notes coming out
+      of this visit, including the very interesting coda to a famous opera by Rimsky-Korsakov,
+      which ends in a statement, a very powerful message about Russian culture, Russian
+      culture being very Christian in the sense of turn the other cheek, not looking
+      for revenge and so forth. Mr. Putin is to all appearances, a deeply, a deep believer
+      in these values of Russia as no Soviet leader ever could be. So there’s a big
+      change. The question is whether this peculiar feature of Russian culture which
+      Mr. Putin embodies isn’t leading us to World War III because it is not appreciated
+      by this very secular Western European and American leadership. They don’t get
+      it. So the two sides are working on, and here as I raise it, we have the famous
+      clash of civilizations of Sam Huntington in which the Eastern Orthodox faith was
+      described as a separate civilization. But there was no mention by Huntington or
+      no thinking that it could lead to a clash. Well, my friends, we have that potential
+      today because Putin is operating under different cultural values from what Washington,
+      London or Berlin are operating under. Napolitano: 18:30 Let me bring you back
+      to the first question I asked you: Is Russian society evolving during the war?
+      And if the answer is yes, can you say if it is moving towards self-confidence
+      or back toward the old Soviet Union or in some other direction? Doctorow: Charles
+      Dickens was very clever when he opened the Tale of Two Cities with that statement
+      “it was the best of times and it was worst of times”. Napolitano: Right. Doctorow:
+      Life is contradictory. What I saw on this visit is contradictory. The Soviet society
+      was a sick society. In 25 years in power, Mr. Putin has done a great deal to make
+      it a healthy society. I have described in my notes the idiocy of bureaucratic
+      requirements as they pertain to Russian citizens and certainly as they pertain
+      to foreigners who are trying to register and follow the laws, they are idiotic.
+      They impose a great task on the bureaucracy that serves the people in these local
+      administrative offices. Those people are very kindly. They are very helpful. Soviet
+      officials, whom the public dealt with, were not friendly. They were nasty. They
+      were underpaid. And they were disagreeable. The Russian officials, officials of
+      today are very nice people. So that’s all positive. The sickness of the Soviet
+      days is gone. But Elon Musk would agree with me, the Russians could fire half
+      of their bureaucrats and life would be twice as good. Napolitano: The Russians
+      could fire half of their bureaucrats and life would be twice as good. Can I take
+      from you that if you detect any direction of Russian society evolving, it’s towards
+      self-confidence, it’s not toward the old Soviet Union? I don’t want to put words
+      in your mouth. I’m going- Doctoorow: 20:33 For society, I agree with you completely.
+      But the problem is that in any war, the worst elements come to the fore. And censorship
+      comes to the fore. And the abuses of power at the low levels come to the fore.
+      In the 1990s, the traffic police were a burden on anyone with a car because they
+      were stopping everybody, giving them fines to be paid in cash on the spot, going
+      into the pockets of the police. That has come back. It’s come back. The Putin
+      government has lost its control over these ills because it’s so absorbed by the
+      war. Napolitano: Were you as a non-Russian, I’ll just throw this example out,
+      permitted to have a Russian telephone with a Russian telephone number in the two
+      or three weeks you were in Russia? Doctorow: 21:32 I have had a Russian telephone
+      since 2009. The Russians were never controlling the access of foreigners to their
+      phone system. It was never an issue. In fact, in the past you could get a SIM
+      card at the airport. You arrive in Moscow or Petersburg and they were selling
+      SIM cards for temporary use, either loaded with so many rubles on the SIM card
+      or whatever. Now not only is that gone, but anyone who is a foreigner has to be
+      resident, has to be registered with GosUslug, which is a multifunctional interface
+      between all government services and citizenry and has to have a Russian health
+      insurance policy. You tell me what the connection is between having a Russian
+      health insurance policy and having a phone number. Not much. Napolitano: 22:39
+      Wow. Where do you think the war will be in the spring, six months from now? Doctorow:
+      Right where it is now. I disagree with all of the– Look, I have looked, I’ve written
+      my War Diaries, volume one, and already it was coming to me then, back in May,
+      that my goodness, we’ve been making projections, and making projections all based
+      on good military logic that the Ukrainians have lost the war and should admit
+      it. We were missing the point that the West wants this war to go on. First it
+      was the Biden administration that was orchestrating the whole thing. And now that
+      Trump has pulled the United States out of the leadership role, now it’s the Europeans
+      who want the war to go on. And so the notion of that, if the Russians take Pokrovsk
+      it will be the end of the war, is utter nonsense. They still have to reach the
+      Dnieper, and from the Dnieper. Well, what does that mean? If the Europeans keep
+      on supplying arms, if they move in and create military bases in Ukraine, then
+      the Russians will have not achieved their objective of the special military operation.
+      So this war can go on for years. Napolitano: 23:55 Professor Doctorow, pleasure,
+      my dear friend. You are sometimes a contrarian, but I love it because it challenges
+      people and makes them think. And your observations, of course, are unique because
+      of all your interaction in Russian society, which you just concluded in a three-week
+      trip. Thank you, Gilbert. We look forward to seeing you your usual day and time
+      next week. Doctorow: Well, very kind of you. And I hope this sets minds thinking.
+      Napolitano: It surely does. Thank you all the best. Have a fine weekend. Still
+      to come, it’s the end of the day and the end of the week. That means at four o’clock,
+      At four o’clock Eastern this afternoon, Larry Johnson, Ray McGovern, the Intelligence
+      Community Roundtable will review all of this. 24:42 Judge Napolitano for Judging
+      Freedom.'
+    one_sentence_summary: In a discussion on "Judging Freedom," Judge Andrew Napolitano
+      and Dr. Gilbert Doctorow explore the complexities of Russian society during the
+      ongoing military operation, questioning whether it is evolving towards self-confidence
+      or regressing to Soviet-era characteristics.
+    paragraph_summary: In a recent episode of "Judging Freedom," Judge Andrew Napolitano
+      interviews Dr. Gilbert Doctorow about the evolving nature of Russian society amidst
+      the ongoing conflict in Ukraine. Doctorow emphasizes the complexity of Russian
+      society, cautioning against generalizations based on limited interactions with
+      a few high-profile individuals. Drawing from his extensive experience living and
+      working in Russia, he highlights the diverse perspectives within the country,
+      suggesting that many commentators fail to capture the broader societal dynamics.
+      The discussion aims to explore whether the Russian populace is gaining self-confidence
+      or reverting to Soviet-era attitudes, reflecting on the multifaceted realities
+      of life in Russia today.
+    published: '2025-11-08T08:25:36+00:00'
+  - title: '‘Judging Freedom’ edition of 7 November: Are Russians Losing Patience over
+      the War?'
+    url: https://gilbertdoctorow.com/2025/11/07/judging-freedom-edition-of-7-november-are-russians-losing-patience-over-the-war/
+    text: 'I am grateful to Judge Andrew Napolitano for posting my recently arrived
+      at contrarian views on how the war in Ukraine is going and what Russians are thinking
+      about the way it is being prosecuted. In today’s chat I was given ample opportunity
+      to take issue with the ‘Putin is the only adult in the room,’ ‘all Russians support
+      Putin,’ ‘the war will end soon after the capture of Pokrovsk’ narrative that is
+      being disseminated by today’s heroes of the U.S. podcasts Scott Ritter, Larry
+      Johnson and several others.  None of these chaps speaks Russian and the ‘insider
+      perspective’ that they present is nothing more than what they are told by the
+      Russia Today officials, Ministry of Foreign Affairs officials and retired Russian
+      generals who are their hosts in Russia and use these naïve colleagues to broadcast
+      Russian propaganda. I note that two hours after the release of this video, the
+      typically vicious comments by the usual cohort of trolls numbers ten times less
+      than the number of thumbs up. As I say at the outset, the 150 million citizens
+      of the Russian Federation are well-educated and it is nonsensical to think that
+      any of us can capture their thinking on the issues at the center of today’s Judging
+      Freedom interview with full confidence.  For my part, I do my best. In part I
+      rely on anonymous sources like taxi drivers or barber shop employees, folks who
+      deal with the broad public and may never see the same customer twice, which makes
+      it all the more likely that the customers speak openly to them. In part, I rely
+      on close friends whom I have known for many years: and I take note when I see
+      clear signs of change in views on the war and on Putin’s leadership as I did over
+      table talk at a party celebrating the new Russian state holiday of National Unity
+      on 4 November. None of my interlocutors is going to demonstrate against the war
+      or even speak openly about it. But that there is discontent, lost patience of
+      this never-ending war at the popular level that I see is clear.  I can well imagine
+      that some of the Moscow elites are also impatient and they do have means to pressure
+      Putin to change course. My Russian friends are impatient for the war to end because
+      of the large numbers of casualties among the Russian forces. Perhaps there are
+      150,000 killed in action, but the numbers of those seriously maimed is surely
+      several times higher.  Russian state television has even started presenting advertisements
+      from the manufacturers of prostheses for those who have lost arms and legs to
+      drone strikes and mines. Considering these losses which are at least double the
+      scale of those suffered by the USA in the Vietnam war, one viewer submitted a
+      comment several weeks ago asking why there are no demonstrations in Russia by
+      mothers and others bereaved as there were over Vietnam.  The simple answer is
+      that all Russian armed forces in Ukraine are volunteers. While Russia does have
+      a draft, none of the conscripts can be sent outside the borders of the Russian
+      Federation.  In a word, the Russians learned the lesson of Nixon and Vietnam very
+      well. After that war the USA turned to a professional army. Its merits were explained
+      in terms of fighting efficiency, but surely the key reason was to depoliticize
+      war making.  The Russians have done the same. One of the questions which Judge
+      Napolitano pitched to me was whether Vladimir Putin is drawing out this war of
+      attrition in order to kill of a generation of young Ukrainians and thereby prevent
+      any recurrence of armed conflict in the foreseeable future.  I object to this
+      hypothesis on the grounds that those fighting in the Ukrainian army seem to be
+      at least as numerous in the 50s and 60s age category as in the 20s. You see that
+      even today in the television interviews with Ukrainian POWs who surrendered in
+      Pokrovsk. The same was true in earlier Russian reporting going back more than
+      a year ago.  Secondly, I do not believe that Putin is such a cynic. On the contrary
+      he exhibits deep commitment to the values of Orthodoxy and this creates a separate
+      threat for us:  his turn the other cheek Christianity, very Orthodox in nature,
+      is completely misunderstood by our secular Western leaders and political establishments.
+      It is taken for weakness and encourages them to take ever more provocative and
+      risky actions against Russia which one day will result in Russian counter attacks
+      sparking WWIII. What we have here is the making of a Clash of Civilizations as
+      described by Sam Huntington, though Sam never expected the separate Orthodox civilization
+      to be in armed conflict with the West.'
+    one_sentence_summary: The author expresses gratitude to Judge Andrew Napolitano
+      for sharing their contrarian views on the Ukraine war, criticizing popular narratives
+      that oversimplify Russian perspectives and accusing certain U.S. commentators
+      of propagating Russian propaganda without a true understanding of the situation.
+    paragraph_summary: In a recent discussion, the author expresses gratitude to Judge
+      Andrew Napolitano for sharing their contrarian views on the Ukraine war and the
+      perceptions of Russians regarding its prosecution. The author critiques narratives
+      propagated by U.S. commentators like Scott Ritter and Larry Johnson, arguing that
+      they lack genuine insight into Russian sentiments, relying instead on information
+      from Russian officials and propagandists. They emphasize that the Russian populace
+      is well-educated and that understanding their views requires more nuanced approaches,
+      such as conversations with everyday citizens like taxi drivers and long-time friends.
+      The author notes signs of growing discontent among Russians regarding the war
+      and Putin's leadership, despite the risks of openly discussing these feelings
+      in the current political climate.
+    published: '2025-11-07T22:58:37+00:00'
+  - title: '‘Judging Freedom’ edition of 7 November: Are Russians Losing Patience over
+      the War?'
+    url: https://gilbertdoctorow.com/2025/11/07/judging-freedom-edition-of-7-november-are-russians-losing-patience-over-the-war/
+    text: 'I am grateful to Judge Andrew Napolitano for posting my recently arrived
+      at contrarian views on how the war in Ukraine is going and what Russians are thinking
+      about the way it is being prosecuted. In today’s chat I was given ample opportunity
+      to take issue with the ‘Putin is the only adult in the room,’ ‘all Russians support
+      Putin,’ ‘the war will end soon after the capture of Pokrovsk’ narrative that is
+      being disseminated by today’s heroes of the U.S. podcasts Scott Ritter, Larry
+      Johnson and several others.  None of these chaps speaks Russian and the ‘insider
+      perspective’ that they present is nothing more than what they are told by the
+      Russia Today officials, Ministry of Foreign Affairs officials and retired Russian
+      generals who are their hosts in Russia and use these naïve colleagues to broadcast
+      Russian propaganda. I note that two hours after the release of this video, the
+      typically vicious comments by the usual cohort of trolls numbers ten times less
+      than the number of thumbs up. As I say at the outset, the 150 million citizens
+      of the Russian Federation are well-educated and it is nonsensical to think that
+      any of us can capture their thinking on the issues at the center of today’s Judging
+      Freedom interview with full confidence.  For my part, I do my best. In part I
+      rely on anonymous sources like taxi drivers or barber shop employees, folks who
+      deal with the broad public and may never see the same customer twice, which makes
+      it all the more likely that the customers speak openly to them. In part, I rely
+      on close friends whom I have known for many years: and I take note when I see
+      clear signs of change in views on the war and on Putin’s leadership as I did over
+      table talk at a party celebrating the new Russian state holiday of National Unity
+      on 4 November. None of my interlocutors is going to demonstrate against the war
+      or even speak openly about it. But that there is discontent, lost patience of
+      this never-ending war at the popular level that I see is clear.  I can well imagine
+      that some of the Moscow elites are also impatient and they do have means to pressure
+      Putin to change course. My Russian friends are impatient for the war to end because
+      of the large numbers of casualties among the Russian forces. Perhaps there are
+      150,000 killed in action, but the numbers of those seriously maimed is surely
+      several times higher.  Russian state television has even started presenting advertisements
+      from the manufacturers of prostheses for those who have lost arms and legs to
+      drone strikes and mines. Considering these losses which are at least double the
+      scale of those suffered by the USA in the Vietnam war, one viewer submitted a
+      comment several weeks ago asking why there are no demonstrations in Russia by
+      mothers and others bereaved as there were over Vietnam.  The simple answer is
+      that all Russian armed forces in Ukraine are volunteers. While Russia does have
+      a draft, none of the conscripts can be sent outside the borders of the Russian
+      Federation.  In a word, the Russians learned the lesson of Nixon and Vietnam very
+      well. After that war the USA turned to a professional army. Its merits were explained
+      in terms of fighting efficiency, but surely the key reason was to depoliticize
+      war making.  The Russians have done the same. One of the questions which Judge
+      Napolitano pitched to me was whether Vladimir Putin is drawing out this war of
+      attrition in order to kill of a generation of young Ukrainians and thereby prevent
+      any recurrence of armed conflict in the foreseeable future.  I object to this
+      hypothesis on the grounds that those fighting in the Ukrainian army seem to be
+      at least as numerous in the 50s and 60s age category as in the 20s. You see that
+      even today in the television interviews with Ukrainian POWs who surrendered in
+      Pokrovsk. The same was true in earlier Russian reporting going back more than
+      a year ago.  Secondly, I do not believe that Putin is such a cynic. On the contrary
+      he exhibits deep commitment to the values of Orthodoxy and this creates a separate
+      threat for us:  his turn the other cheek Christianity, very Orthodox in nature,
+      is completely misunderstood by our secular Western leaders and political establishments.
+      It is taken for weakness and encourages them to take ever more provocative and
+      risky actions against Russia which one day will result in Russian counter attacks
+      sparking WWIII. What we have here is the making of a Clash of Civilizations as
+      described by Sam Huntington, though Sam never expected the separate Orthodox civilization
+      to be in armed conflict with the West.'
+    one_sentence_summary: The author expresses gratitude to Judge Andrew Napolitano
+      for sharing their contrarian views on the Ukraine war, criticizing popular narratives
+      that oversimplify Russian perspectives and accusing certain U.S. commentators
+      of propagating Russian propaganda without a true understanding of the situation.
+    paragraph_summary: In a recent discussion, the author expresses gratitude to Judge
+      Andrew Napolitano for sharing their contrarian views on the Ukraine war and the
+      perceptions of Russians regarding its prosecution. The author critiques narratives
+      propagated by U.S. commentators like Scott Ritter and Larry Johnson, arguing that
+      they lack genuine insight into Russian sentiments, relying instead on information
+      from Russian officials and propagandists. They emphasize that the Russian populace
+      is well-educated and that understanding their views requires more nuanced approaches,
+      such as conversations with everyday citizens like taxi drivers and long-time friends.
+      The author notes signs of growing discontent among Russians regarding the war
+      and Putin's leadership, despite the risks of openly discussing these feelings
+      in the current political climate.
+    published: '2025-11-07T22:58:37+00:00'
+  - title: NewsX World interview of 4 November
+    url: https://gilbertdoctorow.com/2025/11/05/newsx-world-interview-of-4-november/
+    text: 'Yesterday the NewsX World interview within their hourly news wrap-up focused
+      on the battlefield claims of Russian and Ukrainian sides in fighting that is bloody
+      and dominated by drone warfare. ( https://www.youtube.com/watch?v=3G5kBgkeYV8
+      ) or on youtube search: Moscow reports 1,485 Ukrainian casualties as fighting
+      intensifies across Donetsk'
+    one_sentence_summary: The NewsX World interview highlighted the escalating and bloody
+      conflict between Russian and Ukrainian forces, emphasizing the significant role
+      of drone warfare and recent claims of high casualties.
+    paragraph_summary: In a recent NewsX World interview, the ongoing conflict between
+      Russia and Ukraine was highlighted, emphasizing the intense and bloody nature
+      of the fighting, which is heavily influenced by drone warfare. The report included
+      claims from both sides regarding battlefield casualties, with Moscow alleging
+      that 1,485 Ukrainian soldiers have been killed as hostilities escalate in the
+      Donetsk region. The discussion reflects the severe toll of the conflict and the
+      evolving tactics employed by both nations.
+    published: '2025-11-05T18:31:01+00:00'
+  - title: NewsX World interview of 4 November
+    url: https://gilbertdoctorow.com/2025/11/05/newsx-world-interview-of-4-november/
+    text: 'Yesterday the NewsX World interview within their hourly news wrap-up focused
+      on the battlefield claims of Russian and Ukrainian sides in fighting that is bloody
+      and dominated by drone warfare. ( https://www.youtube.com/watch?v=3G5kBgkeYV8
+      ) or on youtube search: Moscow reports 1,485 Ukrainian casualties as fighting
+      intensifies across Donetsk'
+    one_sentence_summary: The NewsX World interview highlighted the escalating and bloody
+      conflict between Russian and Ukrainian forces, emphasizing the significant role
+      of drone warfare and recent claims of high casualties.
+    paragraph_summary: In a recent NewsX World interview, the ongoing conflict between
+      Russia and Ukraine was highlighted, emphasizing the intense and bloody nature
+      of the fighting, which is heavily influenced by drone warfare. The report included
+      claims from both sides regarding battlefield casualties, with Moscow alleging
+      that 1,485 Ukrainian soldiers have been killed as hostilities escalate in the
+      Donetsk region. The discussion reflects the severe toll of the conflict and the
+      evolving tactics employed by both nations.
+    published: '2025-11-05T18:31:01+00:00'
   - title: Transcript of today’s NewsX World interview on Zelensky and Russia’s encirclement
       of Pokrovsk
     url: https://gilbertdoctorow.com/2025/11/01/transcript-of-todays-newsx-world-interview-on-zelensky-and-russias-encirclement-of-pokrovsk/

@@ -7,16 +7,1368 @@ description: "Australian satirical anti–war journalist; reader–funded Substa
 websites:
   - https://www.caitlinjohnst.one/
 summary: |
-  The past 24 hours have seen significant developments in the global geopolitical landscape, with the death of former U.S. Vice President Dick Cheney, ongoing violence in the West Bank, and persistent concerns about the influence of technology and media on society.
+  As the world enters mid-November 2025, the intersection of technology, militarism, and the ongoing crises in the Middle East continues to dominate independent analysis. The latest developments reveal deepening concerns about the direction of Western societies, both in terms of foreign policy and domestic technological trends.
   
-  The passing of Dick Cheney has reignited debate over the legacy of U.S. militarism. As **Caitlin Johnstone** notes, Cheney's death has prompted bipartisan condolences from American political leaders, a response she argues "reflects a civilization that allows such individuals to die peacefully rather than facing accountability for their actions." This reaction underscores the enduring normalization of aggressive foreign policy within the U.S. establishment, despite widespread criticism of Cheney's role in expanding wars and surveillance.
+  A notable recent event is Elon Musk’s promotion of Grok Imagine, an AI video generation tool capable of producing lifelike, emotionally charged clips. **Caitlin Johnstone** highlights the unsettling implications of this technology, arguing that it exemplifies “the troubling intersection of technology and capitalism,” and portends a future marked by superficial digital connections and environmental decline. This development is seen as part of a broader trend where technological innovation serves profit and control rather than genuine human connection or well-being.
   
-  Meanwhile, the Israeli-Palestinian conflict continues to generate global outrage. New footage has emerged of Israeli settlers torturing Palestinian lambs in the West Bank, an act **Johnstone** describes as highlighting "the brutality and hatred present in the ongoing conflict." This incident adds to the mounting evidence of escalating settler violence and deepening animosity, further complicating prospects for peace.
+  Meanwhile, the situation in Gaza and Lebanon remains tense. **Johnstone** points to the Israeli Defense Forces’ repeated ceasefire violations, which are described as symptomatic of a cultural tendency to push boundaries, as explained by Daniel Rosehill. This pattern, rooted in concepts like “shitat matzliach” (successful method) and “freier” (sucker), is seen as undermining prospects for lasting peace and further destabilizing the region.
   
-  On the societal front, the latest edition of JOHNSTONE critiques the accelerating dystopian trends under late-stage capitalism. **Johnstone** emphasizes "increasing dystopia, censorship, and the detrimental impact of generative AI on creativity," while referencing a revealing moment from Peter Thiel that exposes the ruling class's fear of public unrest. These observations point to a growing disconnect between elites and the broader population, fueled by technological change and social discontent.
+  On the domestic front in the United States, the militarization of society is accelerating. Secretary of War Pete Hegseth’s recent call for Americans to prepare for wartime conditions coincides with the deployment of Gaza-tested surveillance drones by Skydio in U.S. cities. **Johnstone** warns that these developments signal a “creepier” phase of the U.S. empire, where technologies refined in conflict zones are repurposed for domestic surveillance and control.
   
-  Looking ahead, the majority view across these sources suggests that the normalization of militarism in Western politics is unlikely to abate in the near term—I guarantee the bipartisan consensus on foreign policy will persist. The situation in the West Bank is expected to remain volatile, with a high chance of further violence and international condemnation. Finally, societal unease over technological control and censorship is quite likely to intensify, as public skepticism toward both government and corporate power continues to grow.
+  Looking ahead, the majority of independent analysts see these trends intensifying. There is a high chance that the fusion of advanced AI, surveillance, and militarism will further erode civil liberties and deepen public alienation. The ongoing crises in Gaza and Lebanon are quite likely to persist, with little hope for meaningful diplomatic breakthroughs as long as boundary-pushing tactics remain unaddressed. The future, as described by **Johnstone**, is “most definitely” one where the interests of the powerful continue to shape a reality marked by inequality, distraction, and escalating authoritarianism.
 articles:
+  - title: This Is All Our Rulers Are Offering Us
+    url: https://www.caitlinjohnst.one/p/this-is-all-our-rulers-are-offering
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Pentagon contractor Elon Musk , currently the richest person alive, has posted
+      a video clip showing off how people can use his AI video generation tool Grok
+      Imagine to create the image of a woman’s face saying “I will always love you.”
+      The AI-generated clip looks fake and creepy, and everything about Musk’s post
+      is downright depressing. But it’s not quite as fake, creepy and depressing as
+      the capitalist dystopia which birthed it. https://x.com/elonmusk/status/1987087713204641988
+      This is all the ruling class has to offer you. Fake love. Fake connection. Worthless
+      technological parlor tricks at the expense of our dying biosphere. The underlying
+      argument for continuing with the capitalism experiment even though it’s destroying
+      our ecosystem is that these megabillionaires will save us all with green energy
+      and carry humanity’s surplus population out into the stars to colonize the galaxy,
+      which is a terrible vision for the future in and of itself. But that isn’t even
+      happening. They know they’ll never colonize Mars. We’re not meaningfully any closer
+      to knowing how to keep humans alive completely separate from Earth’s biosphere
+      than we were a thousand years ago; human space travel thus far has consisted of
+      glorified scuba expeditions wherein everything needed for survival is imported
+      directly from the planet our anatomy is intimately interwoven with. And meanwhile
+      ecocidal capitalism keeps incinerating our world. This is it. Once they burn through
+      the generative AI scam and sell a few million AI sex robots that cost as much
+      as cars, they’re basically out of ideas. Maybe someone invents an app that helps
+      people sell their kidneys and get them delivered to the purchaser via drone or
+      something, but that’s pretty much it in terms of profit-driven tech innovation.
+      And from there the plan is to just grab up as many resources as possible and hole
+      up in a bunker somewhere while the world burns. And in the meantime they’re not
+      even happy. The world’s richest man says he has no social life and works almost
+      every waking hour of his existence, and here he is projecting his own loneliness
+      onto the rest of the world by telling everyone how awesome it is that you can
+      have an AI create an image of a woman’s face telling you it will always love you.
+      That’s right, kids: work your fingers to the bone, catch a few lucky breaks, pour
+      all your blood, sweat, tears and time into winning the capitalism game, and you
+      too could one day be as miserable and alienated as Elon Reeve Musk. These are
+      the sorts of people who are ruling our world. These are the people who are holding
+      the steering wheel of human civilization and determining the future of our species.
+      Nothing about this is healthy. Nothing about this is functional. We need drastic
+      revolutionary change and we need it soon, because these freaks are driving us
+      to our doom. _______________ I’ve got a new book out! Go here to have a look.
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. The best way to make sure
+      you see everything I write is to get on my free mailing list . Click here for
+      links for my social media, books, merch, and audio/video versions of each article
+      . All my work is free to bootleg and use in any way, shape or form; republish
+      it, translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: Elon Musk's promotion of his AI video generation tool, Grok
+      Imagine, which creates unsettling clips of a woman's face expressing love, highlights
+      the troubling intersection of technology and capitalism, suggesting a bleak future
+      dominated by superficial connections and environmental degradation.
+    paragraph_summary: Elon Musk recently showcased his AI video generation tool, Grok
+      Imagine, with a clip of a woman's face saying "I will always love you," which
+      many found unsettling and emblematic of a broader capitalist dystopia. The article
+      critiques the superficiality of such technological advancements, arguing that
+      they represent a hollow offering from the ruling class amid a deteriorating environment.
+      It suggests that the promise of megabillionaires saving humanity through green
+      energy and space colonization is unrealistic, as current human space travel relies
+      heavily on Earth's resources. The piece laments the lack of meaningful innovation
+      beyond gimmicks like AI and speculates that the future may involve increasingly
+      desperate measures for profit, while the planet suffers under ecocidal capitalism.
+    published: '2025-11-11T01:14:55+00:00'
+  - title: This Is All Our Rulers Are Offering Us
+    url: https://www.caitlinjohnst.one/p/this-is-all-our-rulers-are-offering
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Pentagon contractor Elon Musk , currently the richest person alive, has posted
+      a video clip showing off how people can use his AI video generation tool Grok
+      Imagine to create the image of a woman’s face saying “I will always love you.”
+      The AI-generated clip looks fake and creepy, and everything about Musk’s post
+      is downright depressing. But it’s not quite as fake, creepy and depressing as
+      the capitalist dystopia which birthed it. https://x.com/elonmusk/status/1987087713204641988
+      This is all the ruling class has to offer you. Fake love. Fake connection. Worthless
+      technological parlor tricks at the expense of our dying biosphere. The underlying
+      argument for continuing with the capitalism experiment even though it’s destroying
+      our ecosystem is that these megabillionaires will save us all with green energy
+      and carry humanity’s surplus population out into the stars to colonize the galaxy,
+      which is a terrible vision for the future in and of itself. But that isn’t even
+      happening. They know they’ll never colonize Mars. We’re not meaningfully any closer
+      to knowing how to keep humans alive completely separate from Earth’s biosphere
+      than we were a thousand years ago; human space travel thus far has consisted of
+      glorified scuba expeditions wherein everything needed for survival is imported
+      directly from the planet our anatomy is intimately interwoven with. And meanwhile
+      ecocidal capitalism keeps incinerating our world. This is it. Once they burn through
+      the generative AI scam and sell a few million AI sex robots that cost as much
+      as cars, they’re basically out of ideas. Maybe someone invents an app that helps
+      people sell their kidneys and get them delivered to the purchaser via drone or
+      something, but that’s pretty much it in terms of profit-driven tech innovation.
+      And from there the plan is to just grab up as many resources as possible and hole
+      up in a bunker somewhere while the world burns. And in the meantime they’re not
+      even happy. The world’s richest man says he has no social life and works almost
+      every waking hour of his existence, and here he is projecting his own loneliness
+      onto the rest of the world by telling everyone how awesome it is that you can
+      have an AI create an image of a woman’s face telling you it will always love you.
+      That’s right, kids: work your fingers to the bone, catch a few lucky breaks, pour
+      all your blood, sweat, tears and time into winning the capitalism game, and you
+      too could one day be as miserable and alienated as Elon Reeve Musk. These are
+      the sorts of people who are ruling our world. These are the people who are holding
+      the steering wheel of human civilization and determining the future of our species.
+      Nothing about this is healthy. Nothing about this is functional. We need drastic
+      revolutionary change and we need it soon, because these freaks are driving us
+      to our doom. _______________ I’ve got a new book out! Go here to have a look.
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. The best way to make sure
+      you see everything I write is to get on my free mailing list . Click here for
+      links for my social media, books, merch, and audio/video versions of each article
+      . All my work is free to bootleg and use in any way, shape or form; republish
+      it, translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: Elon Musk's promotion of his AI video generation tool, Grok
+      Imagine, which creates unsettling clips of a woman's face expressing love, highlights
+      the troubling intersection of technology and capitalism, suggesting a bleak future
+      dominated by superficial connections and environmental degradation.
+    paragraph_summary: Elon Musk recently showcased his AI video generation tool, Grok
+      Imagine, with a clip of a woman's face saying "I will always love you," which
+      many found unsettling and emblematic of a broader capitalist dystopia. The article
+      critiques the superficiality of such technological advancements, arguing that
+      they represent a hollow offering from the ruling class amid a deteriorating environment.
+      It suggests that the promise of megabillionaires saving humanity through green
+      energy and space colonization is unrealistic, as current human space travel relies
+      heavily on Earth's resources. The piece laments the lack of meaningful innovation
+      beyond gimmicks like AI and speculates that the future may involve increasingly
+      desperate measures for profit, while the planet suffers under ecocidal capitalism.
+    published: '2025-11-11T01:14:55+00:00'
+  - title: I've Got A New Book Of My Paintings With Prints You Can Cut Out And Hang
+      On Your Wall
+    url: https://www.caitlinjohnst.one/p/ive-got-a-new-book-of-my-paintings
+    text: 'Subscribe now Okay I’m going to try something I’ve never tried before. I’ve
+      got a new book out called “ Faces Of The Empire: The Battle For Humanity’s Soul
+      ” featuring prints of my paintings which are designed to be cut out and hung on
+      your wall, window, dart board or whatever. I’ve been trying to find a way to get
+      my paintings into people’s homes who don’t have the cash to shell out for the
+      original works, and this is the solution I’ve come up with. Here’s a video I made
+      at the public library I volunteer at where I demo how to cut out the posters from
+      the book: As with all my books there’s a digital pay-what-you-want version available
+      with high-quality images that can be printed out, or you can take the files down
+      to your local printer and get them printed out on large posters or canvases if
+      you like. Also (and this is the part that’s very new for me) I’ve printed a bunch
+      of these books with a local printer here in Melbourne, and you can order a signed
+      copy if you want one. Here’s a list of prints you get: Donald Trump Greg Stoker
+      Matt Miller Kamala Harris Refaat Alareer Aaron Bushnell Joe Biden Bisan Owda Charlie
+      Kirk Medea Benjamin Peter Thiel Jeff Bezos Larry Ellison Luigi Mangione Greta
+      Thunberg Piers Morgan Benjamin Netanyahu Elon Musk Mahmoud Khalil Sam Husseini
+      Roger Waters Francesca Albanese Gabor Maté Mitch McConnell Click here to get a
+      signed copy of this book, or click here for a digital pay-what-you-want ebook
+      version. As with all my works, the contents of this book are creative commons.
+      Feel free to make copies, use them in your own projects, or print out huge numbers
+      of them and distribute them in whatever way you see fit. No attribution is required.
+      Enjoy! ____________________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      My work is entirely reader-supported , so if you enjoyed this piece here are some
+      options where you can toss some money into my tip jar if you want to. The best
+      way to make sure you see everything I write is to get on my free mailing list
+      . Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: 'The author has released a new book titled "Faces Of The Empire:
+      The Battle For Humanity’s Soul," featuring cut-out prints of their paintings to
+      make art more accessible, along with a digital pay-what-you-want version and the
+      option to order signed copies.'
+    paragraph_summary: 'The article announces the release of a new book titled "Faces
+      Of The Empire: The Battle For Humanity’s Soul," which features prints of the author''s
+      paintings that can be cut out and displayed in various ways. The author aims to
+      make their art accessible to those who cannot afford original pieces by offering
+      a digital pay-what-you-want version and the option to order signed physical copies
+      printed locally in Melbourne. The book includes prints of notable figures such
+      as Donald Trump, Kamala Harris, and Elon Musk, and is released under a Creative
+      Commons license, allowing readers to freely copy and distribute the content without
+      attribution. The author encourages support for their work through subscriptions
+      and tips.'
+    published: '2025-11-10T12:50:43+00:00'
+  - title: I've Got A New Book Of My Paintings With Prints You Can Cut Out And Hang
+      On Your Wall
+    url: https://www.caitlinjohnst.one/p/ive-got-a-new-book-of-my-paintings
+    text: 'Subscribe now Okay I’m going to try something I’ve never tried before. I’ve
+      got a new book out called “ Faces Of The Empire: The Battle For Humanity’s Soul
+      ” featuring prints of my paintings which are designed to be cut out and hung on
+      your wall, window, dart board or whatever. I’ve been trying to find a way to get
+      my paintings into people’s homes who don’t have the cash to shell out for the
+      original works, and this is the solution I’ve come up with. Here’s a video I made
+      at the public library I volunteer at where I demo how to cut out the posters from
+      the book: As with all my books there’s a digital pay-what-you-want version available
+      with high-quality images that can be printed out, or you can take the files down
+      to your local printer and get them printed out on large posters or canvases if
+      you like. Also (and this is the part that’s very new for me) I’ve printed a bunch
+      of these books with a local printer here in Melbourne, and you can order a signed
+      copy if you want one. Here’s a list of prints you get: Donald Trump Greg Stoker
+      Matt Miller Kamala Harris Refaat Alareer Aaron Bushnell Joe Biden Bisan Owda Charlie
+      Kirk Medea Benjamin Peter Thiel Jeff Bezos Larry Ellison Luigi Mangione Greta
+      Thunberg Piers Morgan Benjamin Netanyahu Elon Musk Mahmoud Khalil Sam Husseini
+      Roger Waters Francesca Albanese Gabor Maté Mitch McConnell Click here to get a
+      signed copy of this book, or click here for a digital pay-what-you-want ebook
+      version. As with all my works, the contents of this book are creative commons.
+      Feel free to make copies, use them in your own projects, or print out huge numbers
+      of them and distribute them in whatever way you see fit. No attribution is required.
+      Enjoy! ____________________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      My work is entirely reader-supported , so if you enjoyed this piece here are some
+      options where you can toss some money into my tip jar if you want to. The best
+      way to make sure you see everything I write is to get on my free mailing list
+      . Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: 'The author has released a new book titled "Faces Of The Empire:
+      The Battle For Humanity’s Soul," featuring cut-out prints of their paintings to
+      make art more accessible, along with a digital pay-what-you-want version and the
+      option to order signed copies.'
+    paragraph_summary: 'The article announces the release of a new book titled "Faces
+      Of The Empire: The Battle For Humanity’s Soul," which features prints of the author''s
+      paintings that can be cut out and displayed in various ways. The author aims to
+      make their art accessible to those who cannot afford original pieces by offering
+      a digital pay-what-you-want version and the option to order signed physical copies
+      printed locally in Melbourne. The book includes prints of notable figures such
+      as Donald Trump, Kamala Harris, and Elon Musk, and is released under a Creative
+      Commons license, allowing readers to freely copy and distribute the content without
+      attribution. The author encourages support for their work through subscriptions
+      and tips.'
+    published: '2025-11-10T12:50:43+00:00'
+  - title: Israel Constantly Stretches The Ceasefire Rules Because That's What Israelis
+      Do
+    url: https://www.caitlinjohnst.one/p/israel-constantly-stretches-the-ceasefire
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      It’s interesting how much the IDF’s constant ceasefire violations in Gaza and
+      Lebanon line up with the way people familiar with Israeli culture say Israelis
+      like to test everyone’s boundaries to find out exactly how much they can get away
+      with. There are two terms, “shitat matzliach” and “freier”, which come up over
+      and over again whenever you see people discussing the prevalence of this obnoxious
+      behavior in Israeli society. “Shitat matzliach” translates to “successful method”,
+      and basically means trying to exploit people in the hope that they’re naive or
+      not paying attention and then backing off if they call you out. “Frier” roughly
+      translates to “sucker”, i.e. the sort of person that shitat matzliach will work
+      on. https://x.com/jakebrodes/status/1960088856721559924 There’s a guy named Daniel
+      Rosehill who’s written critically of these social dynamics as a Jew who was born
+      in Ireland but moved to Israel in 2015. It should be noted that Rosehill is a
+      vitriolic Zionist whose most recent article for The Times of Israel is a hit piece
+      attacking fellow Irishman Tadhg Hickey for defending Palestinian rights. But he’s
+      still got some criticisms of Israeli culture. A couple of Rosehill’s other articles
+      in The Times of Israel complain about the way Israelis single out immigrants — including
+      Jewish immigrants like himself — for exploitation. In a 2020 piece titled “ How
+      To Work With Israelis — And Enjoy The Experience ,” Rosehill writes the following:
+      “In my Ireland vs. Israel post I wrote about an aspect of Israeli culture that
+      I’m not so keen on. It’s called shitat matzliach and essential involves trying
+      to force the weaker party into a bad deal because, well, you hope that they’re’
+      a freier (pronounced ‘fr-eye-er’; translation: sucker) or because they don’t know
+      any better. It’s like freyerism ’s lesser known but more malign sibling. “In Ireland,
+      this would be called ‘chancing your arm.’ “Living and working in Israel there
+      is a strong chance that you will come across companies or individuals that are
+      strong proponents of this methodology, particularly when they’re dealing with
+      olim (recent Jewish immigrants) who mightn’t know their market value or rights.”
+      In another 2020 piece titled “ 10 Things I’d Like To Change About Life in Israel
+      ,” Rosehill lists “Less Shitat Matzliach (Taking Advantage)” at number three,
+      writing: “A working culture prevails in some quarters in Israel in which it is
+      seen as smart and tactful to try out-negotiate the vulnerable — often new immigrants — into
+      taking bad deals or accepting salaries that are not commensurate with their skills.
+      “Too many immigrants end up getting repeatedly burned by unscrupulous employers.
+      Again, immigrant exploitation is not a uniquely Israeli phenomenon. But, as the
+      only Jewish country in the world, and one premised on Jews uprooting their lives
+      in order to share in a collective form of national self-determination, I feel
+      like we can and must do better than taking advantage of one another at every opportunity.”
+      https://x.com/wyattreed13/status/1883522941474005334 In January the Rosen School
+      of Hebrew posted a video on its social media platforms discussing shitat matzliach
+      as though acting like a sociopath is just some cute little eccentricity of Israeli
+      culture. Here’s a transcript from the video: “So I realized something that I’ve
+      been doing for a while now is this super Israeli behavior. Let’s find out what
+      it is! So, I have a tiny dog named Lily and I like to take her on errands with
+      me. When we went to my local Shufersal (grocery store), they told me that if I
+      wanted to go in with her, I had to hold her. The next time I was at Shufersal,
+      I looked for the person who told me this, and when I didn’t see them, I did what
+      I wanted and kept her on the ground. So, what am I doing that’s just so Israeli?
+      It’s called ‘shitat matzliach,’ which translates to ‘success method,’ meaning
+      ‘trying to do what you want until someone tells you otherwise.’” The speaker goes
+      on to describe an Israeli joke about a waiter attempting to slyly charge a customer
+      extra for something they didn’t order. This joke is repeated in a 2012 Haaretz
+      article titled “ Word of the Day, Shitat Matzliach ”: “There’s a joke in Israel
+      that goes like this: A customer at a restaurant discovers a NIS 20 charge on his
+      bill for something called the ‘works.’ He doesn’t recall ordering anything like
+      that and beckons the waiter. ‘What’s that for?’ he asks. The waiter shrugs. ‘Nothing.
+      Sometimes it works and sometimes it doesn’t.’ “Whatever you think of the joke,
+      it is said to have spawned the popular Hebrew slang expression ‘ shitat matzliach
+      ,’ literally ‘successful method’, or as the British say, ‘trying it on.’ Generally
+      used in a pejorative sense, shitat matzliach describes a deliberate attempt to
+      exploit another person’s inattentiveness, assuming there will be little, if any,
+      penalty for getting caught.” https://x.com/DavidKlion/status/1922306693582528769
+      In May of this year a rabbi named Jay Michaelson wrote a piece for the Jewish
+      outlet Forward titled “ I supported Israel’s actions in Gaza in October 2023 — not
+      anymore ,” saying that “The Netanyahu regime has made me, and liberal Zionists
+      like me, look like the worst thing any Israeli can call another: a freier . A
+      sucker. A fool.” Being a freier is seen as extremely negative in Israeli society,
+      in the same way that being able to pull one over on somebody is seen as a virtue.
+      In a 1997 LA Times article titled “ It’s a Sin to Be a Sucker in Israel ,” Marjorie
+      Miller writes the following: “If Israelis could agree on anything — a highly unlikely
+      prospect, but if they could — it just might be that the cardinal sin is to be
+      a freier. “‘It’s a national characteristic,’ said author Zeev Chafets, who included
+      a chapter on the subject in his book about Israelis, ‘Heroes and Hustlers, Hard
+      Hats and Holy Men.’ The topic ‘is something we talk about all the time.’ “A freier,
+      in Israeli eyes, is a shopper who waits in line to pay retail. It is a driver
+      who searches for legal parking rather than pulling onto the sidewalk with the
+      other cars. And if he does this in a rush to file a tax return, he is the consummate
+      freier. “In short, a freier is anyone who cedes ground, plays completely by the
+      rules or allows someone to get the better of him. The ideal Israeli is clever
+      and tough, and a freier is the opposite. A pushover — in the way that Israelis
+      often perceive Americans to be. “Of course, no one likes to be a sucker. The weakling
+      who gets sand kicked in his face is universally scorned. Men and women all over
+      the world lift weights to avoid this fate. But even muscle-bound Israelis dread
+      a face full of sand on a daily basis, and the fear of being a freier plays into
+      every aspect of life, from the most mundane task to the peace process with Palestinian
+      Authority President Yasser Arafat.” Indeed, you can see this dynamic playing out
+      in negotiations with the Palestinians throughout the history of the Israeli state.
+      Always trying to pull one over. Always trying to take a bit more. And always stretching
+      the limits of every agreement to the furthest extent possible. Israel has reportedly
+      killed 241 Palestinians in Gaza since the so-called “ceasefire” with Hamas went
+      into effect last month. If Hamas had killed 241 Israelis in that same time, we
+      all know Israel would be turning Gaza into a lake of fire right now. https://x.com/CurtMills/status/1987214900754554974
+      In a recent article for the Financial Times , Kim Ghattas writes, “This barely
+      makes international headlines, but since the Lebanon ceasefire a year ago, Israel
+      has struck south Lebanon and the Bekaa Valley more than 500 times, killing over
+      300 people who Israel says were Hizbollah operatives. The UN confirmed at least
+      103 of those killed were civilians.” Again, if Hezbollah had attacked Israel 500
+      times and killed hundreds of Israelis during this same period, nobody would be
+      claiming a “ceasefire” is in effect. Israel would be going scorched earth on Lebanon
+      with the full backing of the western empire. Any deal that gets struck is always
+      wildly disadvantageous to the other side and lets Israel keep killing and abusing
+      with impunity. Because of what we know about Israeli society, it’s safe to assume
+      this is going to keep happening until Israel is stopped by force. _________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. The best way to make sure
+      you see everything I write is to get on my free mailing list . Click here for
+      links for my social media, books, merch, and audio/video versions of each article
+      . All my work is free to bootleg and use in any way, shape or form; republish
+      it, translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article discusses how the Israeli Defense Forces' frequent
+      ceasefire violations in Gaza and Lebanon reflect a cultural tendency among Israelis
+      to test boundaries, illustrated by the concepts of "shitat matzliach" (successful
+      method) and "freier" (sucker), as critiqued by Daniel Rosehill, an Irish-born
+      Jew living in Israel.
+    paragraph_summary: The article discusses the cultural dynamics within Israeli society,
+      particularly focusing on the concepts of "shitat matzliach" (successful method)
+      and "freier" (sucker), which describe a tendency among Israelis to test boundaries
+      and exploit perceived naivety in others. The author references Daniel Rosehill,
+      a Jewish immigrant from Ireland to Israel, who critiques these behaviors despite
+      being a staunch Zionist. Rosehill highlights how this exploitative mindset affects
+      not only locals but also immigrants, including Jewish ones, suggesting that such
+      cultural traits lead to negative social interactions. He compares this behavior
+      to the Irish concept of "chancing your arm," indicating a broader critique of
+      how these dynamics play out in everyday life and interactions.
+    published: '2025-11-10T02:09:10+00:00'
+  - title: Israel Constantly Stretches The Ceasefire Rules Because That's What Israelis
+      Do
+    url: https://www.caitlinjohnst.one/p/israel-constantly-stretches-the-ceasefire
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      It’s interesting how much the IDF’s constant ceasefire violations in Gaza and
+      Lebanon line up with the way people familiar with Israeli culture say Israelis
+      like to test everyone’s boundaries to find out exactly how much they can get away
+      with. There are two terms, “shitat matzliach” and “freier”, which come up over
+      and over again whenever you see people discussing the prevalence of this obnoxious
+      behavior in Israeli society. “Shitat matzliach” translates to “successful method”,
+      and basically means trying to exploit people in the hope that they’re naive or
+      not paying attention and then backing off if they call you out. “Frier” roughly
+      translates to “sucker”, i.e. the sort of person that shitat matzliach will work
+      on. https://x.com/jakebrodes/status/1960088856721559924 There’s a guy named Daniel
+      Rosehill who’s written critically of these social dynamics as a Jew who was born
+      in Ireland but moved to Israel in 2015. It should be noted that Rosehill is a
+      vitriolic Zionist whose most recent article for The Times of Israel is a hit piece
+      attacking fellow Irishman Tadhg Hickey for defending Palestinian rights. But he’s
+      still got some criticisms of Israeli culture. A couple of Rosehill’s other articles
+      in The Times of Israel complain about the way Israelis single out immigrants — including
+      Jewish immigrants like himself — for exploitation. In a 2020 piece titled “ How
+      To Work With Israelis — And Enjoy The Experience ,” Rosehill writes the following:
+      “In my Ireland vs. Israel post I wrote about an aspect of Israeli culture that
+      I’m not so keen on. It’s called shitat matzliach and essential involves trying
+      to force the weaker party into a bad deal because, well, you hope that they’re’
+      a freier (pronounced ‘fr-eye-er’; translation: sucker) or because they don’t know
+      any better. It’s like freyerism ’s lesser known but more malign sibling. “In Ireland,
+      this would be called ‘chancing your arm.’ “Living and working in Israel there
+      is a strong chance that you will come across companies or individuals that are
+      strong proponents of this methodology, particularly when they’re dealing with
+      olim (recent Jewish immigrants) who mightn’t know their market value or rights.”
+      In another 2020 piece titled “ 10 Things I’d Like To Change About Life in Israel
+      ,” Rosehill lists “Less Shitat Matzliach (Taking Advantage)” at number three,
+      writing: “A working culture prevails in some quarters in Israel in which it is
+      seen as smart and tactful to try out-negotiate the vulnerable — often new immigrants — into
+      taking bad deals or accepting salaries that are not commensurate with their skills.
+      “Too many immigrants end up getting repeatedly burned by unscrupulous employers.
+      Again, immigrant exploitation is not a uniquely Israeli phenomenon. But, as the
+      only Jewish country in the world, and one premised on Jews uprooting their lives
+      in order to share in a collective form of national self-determination, I feel
+      like we can and must do better than taking advantage of one another at every opportunity.”
+      https://x.com/wyattreed13/status/1883522941474005334 In January the Rosen School
+      of Hebrew posted a video on its social media platforms discussing shitat matzliach
+      as though acting like a sociopath is just some cute little eccentricity of Israeli
+      culture. Here’s a transcript from the video: “So I realized something that I’ve
+      been doing for a while now is this super Israeli behavior. Let’s find out what
+      it is! So, I have a tiny dog named Lily and I like to take her on errands with
+      me. When we went to my local Shufersal (grocery store), they told me that if I
+      wanted to go in with her, I had to hold her. The next time I was at Shufersal,
+      I looked for the person who told me this, and when I didn’t see them, I did what
+      I wanted and kept her on the ground. So, what am I doing that’s just so Israeli?
+      It’s called ‘shitat matzliach,’ which translates to ‘success method,’ meaning
+      ‘trying to do what you want until someone tells you otherwise.’” The speaker goes
+      on to describe an Israeli joke about a waiter attempting to slyly charge a customer
+      extra for something they didn’t order. This joke is repeated in a 2012 Haaretz
+      article titled “ Word of the Day, Shitat Matzliach ”: “There’s a joke in Israel
+      that goes like this: A customer at a restaurant discovers a NIS 20 charge on his
+      bill for something called the ‘works.’ He doesn’t recall ordering anything like
+      that and beckons the waiter. ‘What’s that for?’ he asks. The waiter shrugs. ‘Nothing.
+      Sometimes it works and sometimes it doesn’t.’ “Whatever you think of the joke,
+      it is said to have spawned the popular Hebrew slang expression ‘ shitat matzliach
+      ,’ literally ‘successful method’, or as the British say, ‘trying it on.’ Generally
+      used in a pejorative sense, shitat matzliach describes a deliberate attempt to
+      exploit another person’s inattentiveness, assuming there will be little, if any,
+      penalty for getting caught.” https://x.com/DavidKlion/status/1922306693582528769
+      In May of this year a rabbi named Jay Michaelson wrote a piece for the Jewish
+      outlet Forward titled “ I supported Israel’s actions in Gaza in October 2023 — not
+      anymore ,” saying that “The Netanyahu regime has made me, and liberal Zionists
+      like me, look like the worst thing any Israeli can call another: a freier . A
+      sucker. A fool.” Being a freier is seen as extremely negative in Israeli society,
+      in the same way that being able to pull one over on somebody is seen as a virtue.
+      In a 1997 LA Times article titled “ It’s a Sin to Be a Sucker in Israel ,” Marjorie
+      Miller writes the following: “If Israelis could agree on anything — a highly unlikely
+      prospect, but if they could — it just might be that the cardinal sin is to be
+      a freier. “‘It’s a national characteristic,’ said author Zeev Chafets, who included
+      a chapter on the subject in his book about Israelis, ‘Heroes and Hustlers, Hard
+      Hats and Holy Men.’ The topic ‘is something we talk about all the time.’ “A freier,
+      in Israeli eyes, is a shopper who waits in line to pay retail. It is a driver
+      who searches for legal parking rather than pulling onto the sidewalk with the
+      other cars. And if he does this in a rush to file a tax return, he is the consummate
+      freier. “In short, a freier is anyone who cedes ground, plays completely by the
+      rules or allows someone to get the better of him. The ideal Israeli is clever
+      and tough, and a freier is the opposite. A pushover — in the way that Israelis
+      often perceive Americans to be. “Of course, no one likes to be a sucker. The weakling
+      who gets sand kicked in his face is universally scorned. Men and women all over
+      the world lift weights to avoid this fate. But even muscle-bound Israelis dread
+      a face full of sand on a daily basis, and the fear of being a freier plays into
+      every aspect of life, from the most mundane task to the peace process with Palestinian
+      Authority President Yasser Arafat.” Indeed, you can see this dynamic playing out
+      in negotiations with the Palestinians throughout the history of the Israeli state.
+      Always trying to pull one over. Always trying to take a bit more. And always stretching
+      the limits of every agreement to the furthest extent possible. Israel has reportedly
+      killed 241 Palestinians in Gaza since the so-called “ceasefire” with Hamas went
+      into effect last month. If Hamas had killed 241 Israelis in that same time, we
+      all know Israel would be turning Gaza into a lake of fire right now. https://x.com/CurtMills/status/1987214900754554974
+      In a recent article for the Financial Times , Kim Ghattas writes, “This barely
+      makes international headlines, but since the Lebanon ceasefire a year ago, Israel
+      has struck south Lebanon and the Bekaa Valley more than 500 times, killing over
+      300 people who Israel says were Hizbollah operatives. The UN confirmed at least
+      103 of those killed were civilians.” Again, if Hezbollah had attacked Israel 500
+      times and killed hundreds of Israelis during this same period, nobody would be
+      claiming a “ceasefire” is in effect. Israel would be going scorched earth on Lebanon
+      with the full backing of the western empire. Any deal that gets struck is always
+      wildly disadvantageous to the other side and lets Israel keep killing and abusing
+      with impunity. Because of what we know about Israeli society, it’s safe to assume
+      this is going to keep happening until Israel is stopped by force. _________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. The best way to make sure
+      you see everything I write is to get on my free mailing list . Click here for
+      links for my social media, books, merch, and audio/video versions of each article
+      . All my work is free to bootleg and use in any way, shape or form; republish
+      it, translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article discusses how the Israeli Defense Forces' frequent
+      ceasefire violations in Gaza and Lebanon reflect a cultural tendency among Israelis
+      to test boundaries, illustrated by the concepts of "shitat matzliach" (successful
+      method) and "freier" (sucker), as critiqued by Daniel Rosehill, an Irish-born
+      Jew living in Israel.
+    paragraph_summary: The article discusses the cultural dynamics within Israeli society,
+      particularly focusing on the concepts of "shitat matzliach" (successful method)
+      and "freier" (sucker), which describe a tendency among Israelis to test boundaries
+      and exploit perceived naivety in others. The author references Daniel Rosehill,
+      a Jewish immigrant from Ireland to Israel, who critiques these behaviors despite
+      being a staunch Zionist. Rosehill highlights how this exploitative mindset affects
+      not only locals but also immigrants, including Jewish ones, suggesting that such
+      cultural traits lead to negative social interactions. He compares this behavior
+      to the Irish concept of "chancing your arm," indicating a broader critique of
+      how these dynamics play out in everyday life and interactions.
+    published: '2025-11-10T02:09:10+00:00'
+  - title: The US Empire Keeps Getting Creepier
+    url: https://www.caitlinjohnst.one/p/the-us-empire-keeps-getting-creepier
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Secretary of War™ Pete Hegseth said during a speech on Friday that the US is at
+      “a 1939 moment” of “mounting urgency” in which “enemies gather, threats grow,”
+      adding , “We are not building for peacetime. We are pivoting the Pentagon and
+      our industrial base to a wartime footing.” Everything’s getting darker and creepier
+      in the shadow of the empire. Nate Bear has a report out on his newsletter titled
+      “ The AI Drones Used In Gaza Now Surveilling American Cities ” about a new company
+      called Skydio which “in the last few years has gone from relative obscurity to
+      quietly become a multi-billion dollar company and the largest drone manufacturer
+      in the US.” Bear reports that Skydio now has contracts with police departments
+      in almost every large US city to use these Gaza-tested drones for surveillance
+      of American civilians. https://x.com/atrupar/status/1986889654604349716 Haaretz
+      reports that Israel’s efforts to manipulate American minds back into supporting
+      the Zionist entity include pouring millions into influence operations targeting
+      Christian churchgoers and efforts to change responses to Palestine-related queries
+      on popular AI services like ChatGPT. It’s crazy how you can literally just be
+      minding your own business in your own church on a Sunday morning and then suddenly
+      find yourself getting throat fucked by propaganda paid for by the state of Israel.
+      The Intercept reports that YouTube, which is owned by Google, quietly deleted
+      more than 700 videos documenting Israel’s atrocities in Gaza in a purge of pro-Palestine
+      human rights groups from the platform. Mass Silicon Valley deletions like this
+      combined with the sudden influx of fake AI-generated video content polluting the
+      information ecosystem could serve to erase and obfuscate the evidence of the Gaza
+      holocaust for future generations. A new report from Reuters says that last year
+      the US had intelligence showing Israel’s own lawyers warning that the IDF’s mass
+      atrocities in the Gaza Strip could result in war crimes charges. This is yet more
+      evidence that the Biden administration knew it was backing a genocide the entire
+      time, including during election season when left-leaning Americans were being
+      told they needed to vote for then-Vice President Kamala Harris if they wanted
+      to save Gaza. https://x.com/TheGrayzoneNews/status/1985034083030769725 In Italy
+      a journalist was fired from the news agency Nova for asking an EU official if
+      she thought Israel should be responsible for the reconstruction of Gaza in the
+      same way she’s said Russia should have to fund the reconstruction of Ukraine.
+      A Nova spokesperson confirmed to The Intercept that the journalist was indeed
+      fired for asking the inconvenient question on the basis that “Russia had invaded
+      a sovereign country unprovoked, whereas Israel was responding to an attack.” Reuters
+      reports that the US is preparing to establish a military base in Damascus. For
+      years the empire waged a complex regime change operation in Syria to oust Assad,
+      first by backing proxy forces to destroy the country and then via sanctions and
+      US military occupation to prevent reconstruction. And it worked. The empire’s
+      dirty war in Syria will be cited by warmongering swamp monsters for years to come
+      as evidence that regime change interventionism can succeed if you just stick at
+      it and do whatever evil things need to be done. These are just a few of the disturbing
+      stories from the last few days that I hadn’t had a chance to write about yet.
+      This is the kind of world we are being offered by the US empire. There is nothing
+      on the menu for us but more war, more genocide, more surveillance, more censorship,
+      more tyranny, and more abuse. Things are going to keep getting more and more dystopian
+      for everyone who lives under the thumb of the imperial power structure until enough
+      of us decide that the empire needs to end. _____________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. My work is entirely reader-supported , so
+      if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. The best way to make sure you see everything I
+      write is to get on my free mailing list . Click here for links for my social media,
+      books, merch, and audio/video versions of each article . All my work is free to
+      bootleg and use in any way, shape or form; republish it, translate it, use it
+      on merchandise; whatever you want. All works co-authored with my husband Tim Foley.
+      Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image is a screen
+      grab from the US Department of War (Public Domain).'
+    one_sentence_summary: During a recent speech, Secretary of War Pete Hegseth emphasized
+      the urgent need for the U.S. to prepare for wartime conditions, coinciding with
+      reports that Skydio, a major drone manufacturer, is deploying Gaza-tested surveillance
+      drones in American cities.
+    paragraph_summary: In a recent speech, Secretary of War Pete Hegseth emphasized
+      that the U.S. is facing a critical moment akin to 1939, urging a shift of the
+      Pentagon and industrial base towards a wartime posture due to escalating global
+      threats. Concurrently, a report by Nate Bear highlights the rise of Skydio, a
+      drone manufacturer now supplying surveillance drones, initially tested in Gaza,
+      to police departments across major U.S. cities. Additionally, Haaretz reveals
+      Israel's efforts to sway American public opinion through influence operations
+      targeting Christian communities and manipulating AI responses related to Palestine.
+      The Intercept reports on YouTube's removal of over 700 videos documenting Israeli
+      actions in Gaza, raising concerns about the erasure of evidence regarding the
+      conflict, while a Reuters report indicates that U.S. intelligence had previously
+      warned about legal concerns within Israel regarding its actions.
+    published: '2025-11-09T01:39:19+00:00'
+  - title: The US Empire Keeps Getting Creepier
+    url: https://www.caitlinjohnst.one/p/the-us-empire-keeps-getting-creepier
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Secretary of War™ Pete Hegseth said during a speech on Friday that the US is at
+      “a 1939 moment” of “mounting urgency” in which “enemies gather, threats grow,”
+      adding , “We are not building for peacetime. We are pivoting the Pentagon and
+      our industrial base to a wartime footing.” Everything’s getting darker and creepier
+      in the shadow of the empire. Nate Bear has a report out on his newsletter titled
+      “ The AI Drones Used In Gaza Now Surveilling American Cities ” about a new company
+      called Skydio which “in the last few years has gone from relative obscurity to
+      quietly become a multi-billion dollar company and the largest drone manufacturer
+      in the US.” Bear reports that Skydio now has contracts with police departments
+      in almost every large US city to use these Gaza-tested drones for surveillance
+      of American civilians. https://x.com/atrupar/status/1986889654604349716 Haaretz
+      reports that Israel’s efforts to manipulate American minds back into supporting
+      the Zionist entity include pouring millions into influence operations targeting
+      Christian churchgoers and efforts to change responses to Palestine-related queries
+      on popular AI services like ChatGPT. It’s crazy how you can literally just be
+      minding your own business in your own church on a Sunday morning and then suddenly
+      find yourself getting throat fucked by propaganda paid for by the state of Israel.
+      The Intercept reports that YouTube, which is owned by Google, quietly deleted
+      more than 700 videos documenting Israel’s atrocities in Gaza in a purge of pro-Palestine
+      human rights groups from the platform. Mass Silicon Valley deletions like this
+      combined with the sudden influx of fake AI-generated video content polluting the
+      information ecosystem could serve to erase and obfuscate the evidence of the Gaza
+      holocaust for future generations. A new report from Reuters says that last year
+      the US had intelligence showing Israel’s own lawyers warning that the IDF’s mass
+      atrocities in the Gaza Strip could result in war crimes charges. This is yet more
+      evidence that the Biden administration knew it was backing a genocide the entire
+      time, including during election season when left-leaning Americans were being
+      told they needed to vote for then-Vice President Kamala Harris if they wanted
+      to save Gaza. https://x.com/TheGrayzoneNews/status/1985034083030769725 In Italy
+      a journalist was fired from the news agency Nova for asking an EU official if
+      she thought Israel should be responsible for the reconstruction of Gaza in the
+      same way she’s said Russia should have to fund the reconstruction of Ukraine.
+      A Nova spokesperson confirmed to The Intercept that the journalist was indeed
+      fired for asking the inconvenient question on the basis that “Russia had invaded
+      a sovereign country unprovoked, whereas Israel was responding to an attack.” Reuters
+      reports that the US is preparing to establish a military base in Damascus. For
+      years the empire waged a complex regime change operation in Syria to oust Assad,
+      first by backing proxy forces to destroy the country and then via sanctions and
+      US military occupation to prevent reconstruction. And it worked. The empire’s
+      dirty war in Syria will be cited by warmongering swamp monsters for years to come
+      as evidence that regime change interventionism can succeed if you just stick at
+      it and do whatever evil things need to be done. These are just a few of the disturbing
+      stories from the last few days that I hadn’t had a chance to write about yet.
+      This is the kind of world we are being offered by the US empire. There is nothing
+      on the menu for us but more war, more genocide, more surveillance, more censorship,
+      more tyranny, and more abuse. Things are going to keep getting more and more dystopian
+      for everyone who lives under the thumb of the imperial power structure until enough
+      of us decide that the empire needs to end. _____________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. My work is entirely reader-supported , so
+      if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. The best way to make sure you see everything I
+      write is to get on my free mailing list . Click here for links for my social media,
+      books, merch, and audio/video versions of each article . All my work is free to
+      bootleg and use in any way, shape or form; republish it, translate it, use it
+      on merchandise; whatever you want. All works co-authored with my husband Tim Foley.
+      Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image is a screen
+      grab from the US Department of War (Public Domain).'
+    one_sentence_summary: During a recent speech, Secretary of War Pete Hegseth emphasized
+      the urgent need for the U.S. to prepare for wartime conditions, coinciding with
+      reports that Skydio, a major drone manufacturer, is deploying Gaza-tested surveillance
+      drones in American cities.
+    paragraph_summary: In a recent speech, Secretary of War Pete Hegseth emphasized
+      that the U.S. is facing a critical moment akin to 1939, urging a shift of the
+      Pentagon and industrial base towards a wartime posture due to escalating global
+      threats. Concurrently, a report by Nate Bear highlights the rise of Skydio, a
+      drone manufacturer now supplying surveillance drones, initially tested in Gaza,
+      to police departments across major U.S. cities. Additionally, Haaretz reveals
+      Israel's efforts to sway American public opinion through influence operations
+      targeting Christian communities and manipulating AI responses related to Palestine.
+      The Intercept reports on YouTube's removal of over 700 videos documenting Israeli
+      actions in Gaza, raising concerns about the erasure of evidence regarding the
+      conflict, while a Reuters report indicates that U.S. intelligence had previously
+      warned about legal concerns within Israel regarding its actions.
+    published: '2025-11-09T01:39:19+00:00'
+  - title: Artificial Intelligence Is Making Everything Dumber
+    url: https://www.caitlinjohnst.one/p/artificial-intelligence-is-making
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      So it turns out Israel’s mistake was starting its genocide right after Palestinians
+      gained the ability to quickly share video footage of what’s happening in Gaza,
+      but right before the moment when any video footage shared online could easily
+      be dismissed as AI. Just today I saw two viral tweets that had received Community
+      Notes from Twitter users warning that the posts featured AI-generated videos.
+      Both were shared by right wing accounts with large followings, and both were used
+      to spread Islamophobia. The first was shared by Israeli-American pundit Emily
+      Schrader, who has 194,000 followers on Twitter. The tweet features a fake CCTV
+      video of a man in Muslim garb approaching a non-Muslim woman on the street in
+      a way that’s meant to look intimidating before getting attacked by a house cat.
+      As of this writing Schrader’s tweet has more than 612,000 views , and carries
+      a Community Note that reads “AI generated. Time at top is a telltale sign. Also
+      she starts off with a white and black bag then only black.” The second was from
+      a right wing British account called Basil the Great, which has over 210,000 followers
+      . Their tweet features a fake video of an English-speaking teacher showing white
+      children how to pray a Muslim prayer, captioned “I‘ve been sent this footage twice
+      today. It shows a Muslim Teacher instructing British children in the ways of Islam
+      in school. I hope it’s fake but it wouldn’t surprise me if it was real. In fact
+      the left will probably say they don’t see anything wrong with this.” It is not
+      real. As of this writing the tweet carries a Community Note which reads “Video
+      is AI generated. The teacher ‘sits’ on an invisible chair at the end of the video,
+      which was not there at the beginning.” The video has had 1.7 million views. This
+      is Twitter, not Facebook, which had already been ravaged by fake AI content that’s
+      been duping older users for nearly two years now. Fake AI videos are now getting
+      so good that they’re able to fool younger people who are much more aware of what’s
+      out there. Australia’s ABC recently ran a segment where they showed different
+      video clips to teens and asked them to determine which ones were real and which
+      ones were AI, and they couldn’t do much better than randomly guessing. For decades,
+      video footage was the gold standard for evidence that something had occurred.
+      For a few sweet years there was a period when anything significant that happened
+      in public would usually be recorded on video, because in any group there was bound
+      to be a few people with a smartphone in their pocket, and then those videos could
+      be shared with the world as evidence that the significant thing had occurred.
+      Now whenever there’s footage of a crime, or an act of government tyranny, or just
+      a famous person doing something ridiculous in public, people aren’t going to believe
+      it happened unless it’s corroborated by eyewitness testimony. So in that sense
+      we’ve sort of backslid to where we were before the invention of photography, when
+      eyewitness reports were the only thing we had to go by. A video can help illustrate
+      what the eyewitness is talking about, but without a physical witness willing to
+      attest to its veracity, it’s often not going to be worth much in terms of proving
+      that something happened. Which of course serves the powerful just fine. Videos
+      of genocidal atrocities, police brutality, and authoritarian abuses have been
+      causing a lot of headaches for our rulers these past few years, so they’ll be
+      happy to see the information ecosystem entering a new era where inconvenient video
+      footage can be dismissed with a scoff. Generative AI is making everything dumber
+      . It’s crippling people’s ability to write, research, think critically and create
+      art for themselves. It’s making it harder for us to discern truth from falsehood.
+      It’s causing people to become divorced from their own humanity in weirder and
+      weirder ways. It’s getting harder and harder to know what’s real on the internet.
+      That photo could be fake. That video could be fake. That song could have been
+      made without any actual artist behind it. That essay could have been written by
+      a chatbot. That social media account you’re interacting with could be a chatbot
+      themselves. This is going to have a massively alienating effect on networking
+      technologies whose initial promise was to help bring us all together. When the
+      internet first showed up people rejoiced at their ability to connect with others
+      around the world who had the same interests and passions, saying “At long last,
+      I’m not alone!” When AI showed up people started logging on to the internet and
+      wondering, “Uhh… am I alone?” Because you can’t be sure there’s anyone in there.
+      It reminds me of a passage from Charlotte Joko Beck’s “ Everyday Zen ”: “Suppose
+      we are out on a lake and it’s a bit foggy — not too foggy, but a bit foggy — and
+      we’re rowing along in our little boat having a good time. And then, all of a sudden,
+      coming out of the fog, there’s this other rowboat and it’s heading right at us.
+      And…crash! Well, for a second we’re really angry — what is that fool doing? I
+      just painted my boat! And here he comes — crash! — right into it. And then suddenly
+      we notice that the rowboat is empty. What happens to our anger? Well, the anger
+      collapses…I’ll just have to paint my boat again, that’s all. But if that rowboat
+      that hit ours had another person in it, how would we react? You know what would
+      happen!” Beck is touching on the Buddhist doctrine of no-self here, which is a
+      discussion for another day, but this parable has so many layers that say so much
+      about humanity and human connection. The only reason we put so much mental energy
+      and attention into our day-to-day interactions and relationships is because we
+      assume we’re relating to other human beings like ourselves. We assume there’s
+      somebody in the other rowboat. Nearly all of the love, lust, anger, hatred, shame,
+      guilt, passion, enthusiasm, attraction, aversion, delight and disgust we feel
+      from moment to moment throughout this human adventure has to do with other humans.
+      We don’t experience those big feelings toward inanimate objects like rowboats,
+      cars or shopping carts, because we know there’s nobody in them. There’s no real
+      connection to be had with them. Our big feelings come from our meetings with real
+      people, real family, real lovers, real enemies, and real art from real artists.
+      AI is an empty rowboat, and the more it takes over the internet, the emptier it’s
+      going to feel. People won’t feel like they can find the connection they’re craving
+      in any of the areas that are dominated by artificial intelligence, and they’re
+      going to go looking for it elsewhere. Maybe they’ll start going looking for it
+      in places where there are physical people in physical bodies they can touch and
+      make eye contact with, who they know for a fact are real people with real feelings
+      and hopes and dreams like themselves. And maybe that would be a good thing. Humanity
+      is becoming too disconnected and dissociated as it is. We could all benefit from
+      digging our roots into reality a bit deeper. There are some technological developments
+      where as an individual you have to draw a line for yourself. Modern civilization
+      has made it possible to work from home and eat ten thousand calories a day without
+      ever exercising or leaving your apartment, but most of us have the good sense
+      not to do this because we know it would be very bad for our health. We’re going
+      to have to start looking at AI the same way we look at McDonald’s: sure it’s there,
+      but that doesn’t mean you have to consume it, because it’s really not good for
+      you. _______________ Caitlin’s Newsletter is a reader-supported publication. To
+      receive new posts and support my work, consider becoming a free or paid subscriber.
+      My work is entirely reader-supported , so if you enjoyed this piece here are some
+      options where you can toss some money into my tip jar if you want to. The best
+      way to make sure you see everything I write is to get on my free mailing list
+      . Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article discusses how the timing of Israel's actions in
+      Gaza coincided with the rise of video sharing, which has made it difficult to
+      dismiss footage as AI-generated, highlighting the spread of misinformation and
+      Islamophobia through viral tweets from right-wing accounts.
+    paragraph_summary: The article discusses the impact of AI-generated videos on the
+      dissemination of misinformation, particularly in the context of the ongoing conflict
+      in Gaza. It highlights two viral tweets from right-wing accounts that shared misleading
+      AI-generated videos aimed at spreading Islamophobia. One video features a fabricated
+      confrontation between a man in Muslim attire and a woman, while the other depicts
+      a teacher supposedly instructing children in Islamic prayer. Both tweets received
+      Community Notes from Twitter users identifying them as AI-generated, emphasizing
+      the challenges of distinguishing real from fake content in the current digital
+      landscape. The article underscores the timing of these events, noting that they
+      coincide with heightened scrutiny of video evidence from Gaza, which complicates
+      public perception and discourse surrounding the conflict.
+    published: '2025-11-08T12:15:03+00:00'
+  - title: Artificial Intelligence Is Making Everything Dumber
+    url: https://www.caitlinjohnst.one/p/artificial-intelligence-is-making
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      So it turns out Israel’s mistake was starting its genocide right after Palestinians
+      gained the ability to quickly share video footage of what’s happening in Gaza,
+      but right before the moment when any video footage shared online could easily
+      be dismissed as AI. Just today I saw two viral tweets that had received Community
+      Notes from Twitter users warning that the posts featured AI-generated videos.
+      Both were shared by right wing accounts with large followings, and both were used
+      to spread Islamophobia. The first was shared by Israeli-American pundit Emily
+      Schrader, who has 194,000 followers on Twitter. The tweet features a fake CCTV
+      video of a man in Muslim garb approaching a non-Muslim woman on the street in
+      a way that’s meant to look intimidating before getting attacked by a house cat.
+      As of this writing Schrader’s tweet has more than 612,000 views , and carries
+      a Community Note that reads “AI generated. Time at top is a telltale sign. Also
+      she starts off with a white and black bag then only black.” The second was from
+      a right wing British account called Basil the Great, which has over 210,000 followers
+      . Their tweet features a fake video of an English-speaking teacher showing white
+      children how to pray a Muslim prayer, captioned “I‘ve been sent this footage twice
+      today. It shows a Muslim Teacher instructing British children in the ways of Islam
+      in school. I hope it’s fake but it wouldn’t surprise me if it was real. In fact
+      the left will probably say they don’t see anything wrong with this.” It is not
+      real. As of this writing the tweet carries a Community Note which reads “Video
+      is AI generated. The teacher ‘sits’ on an invisible chair at the end of the video,
+      which was not there at the beginning.” The video has had 1.7 million views. This
+      is Twitter, not Facebook, which had already been ravaged by fake AI content that’s
+      been duping older users for nearly two years now. Fake AI videos are now getting
+      so good that they’re able to fool younger people who are much more aware of what’s
+      out there. Australia’s ABC recently ran a segment where they showed different
+      video clips to teens and asked them to determine which ones were real and which
+      ones were AI, and they couldn’t do much better than randomly guessing. For decades,
+      video footage was the gold standard for evidence that something had occurred.
+      For a few sweet years there was a period when anything significant that happened
+      in public would usually be recorded on video, because in any group there was bound
+      to be a few people with a smartphone in their pocket, and then those videos could
+      be shared with the world as evidence that the significant thing had occurred.
+      Now whenever there’s footage of a crime, or an act of government tyranny, or just
+      a famous person doing something ridiculous in public, people aren’t going to believe
+      it happened unless it’s corroborated by eyewitness testimony. So in that sense
+      we’ve sort of backslid to where we were before the invention of photography, when
+      eyewitness reports were the only thing we had to go by. A video can help illustrate
+      what the eyewitness is talking about, but without a physical witness willing to
+      attest to its veracity, it’s often not going to be worth much in terms of proving
+      that something happened. Which of course serves the powerful just fine. Videos
+      of genocidal atrocities, police brutality, and authoritarian abuses have been
+      causing a lot of headaches for our rulers these past few years, so they’ll be
+      happy to see the information ecosystem entering a new era where inconvenient video
+      footage can be dismissed with a scoff. Generative AI is making everything dumber
+      . It’s crippling people’s ability to write, research, think critically and create
+      art for themselves. It’s making it harder for us to discern truth from falsehood.
+      It’s causing people to become divorced from their own humanity in weirder and
+      weirder ways. It’s getting harder and harder to know what’s real on the internet.
+      That photo could be fake. That video could be fake. That song could have been
+      made without any actual artist behind it. That essay could have been written by
+      a chatbot. That social media account you’re interacting with could be a chatbot
+      themselves. This is going to have a massively alienating effect on networking
+      technologies whose initial promise was to help bring us all together. When the
+      internet first showed up people rejoiced at their ability to connect with others
+      around the world who had the same interests and passions, saying “At long last,
+      I’m not alone!” When AI showed up people started logging on to the internet and
+      wondering, “Uhh… am I alone?” Because you can’t be sure there’s anyone in there.
+      It reminds me of a passage from Charlotte Joko Beck’s “ Everyday Zen ”: “Suppose
+      we are out on a lake and it’s a bit foggy — not too foggy, but a bit foggy — and
+      we’re rowing along in our little boat having a good time. And then, all of a sudden,
+      coming out of the fog, there’s this other rowboat and it’s heading right at us.
+      And…crash! Well, for a second we’re really angry — what is that fool doing? I
+      just painted my boat! And here he comes — crash! — right into it. And then suddenly
+      we notice that the rowboat is empty. What happens to our anger? Well, the anger
+      collapses…I’ll just have to paint my boat again, that’s all. But if that rowboat
+      that hit ours had another person in it, how would we react? You know what would
+      happen!” Beck is touching on the Buddhist doctrine of no-self here, which is a
+      discussion for another day, but this parable has so many layers that say so much
+      about humanity and human connection. The only reason we put so much mental energy
+      and attention into our day-to-day interactions and relationships is because we
+      assume we’re relating to other human beings like ourselves. We assume there’s
+      somebody in the other rowboat. Nearly all of the love, lust, anger, hatred, shame,
+      guilt, passion, enthusiasm, attraction, aversion, delight and disgust we feel
+      from moment to moment throughout this human adventure has to do with other humans.
+      We don’t experience those big feelings toward inanimate objects like rowboats,
+      cars or shopping carts, because we know there’s nobody in them. There’s no real
+      connection to be had with them. Our big feelings come from our meetings with real
+      people, real family, real lovers, real enemies, and real art from real artists.
+      AI is an empty rowboat, and the more it takes over the internet, the emptier it’s
+      going to feel. People won’t feel like they can find the connection they’re craving
+      in any of the areas that are dominated by artificial intelligence, and they’re
+      going to go looking for it elsewhere. Maybe they’ll start going looking for it
+      in places where there are physical people in physical bodies they can touch and
+      make eye contact with, who they know for a fact are real people with real feelings
+      and hopes and dreams like themselves. And maybe that would be a good thing. Humanity
+      is becoming too disconnected and dissociated as it is. We could all benefit from
+      digging our roots into reality a bit deeper. There are some technological developments
+      where as an individual you have to draw a line for yourself. Modern civilization
+      has made it possible to work from home and eat ten thousand calories a day without
+      ever exercising or leaving your apartment, but most of us have the good sense
+      not to do this because we know it would be very bad for our health. We’re going
+      to have to start looking at AI the same way we look at McDonald’s: sure it’s there,
+      but that doesn’t mean you have to consume it, because it’s really not good for
+      you. _______________ Caitlin’s Newsletter is a reader-supported publication. To
+      receive new posts and support my work, consider becoming a free or paid subscriber.
+      My work is entirely reader-supported , so if you enjoyed this piece here are some
+      options where you can toss some money into my tip jar if you want to. The best
+      way to make sure you see everything I write is to get on my free mailing list
+      . Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article discusses how the timing of Israel's actions in
+      Gaza coincided with the rise of video sharing, which has made it difficult to
+      dismiss footage as AI-generated, highlighting the spread of misinformation and
+      Islamophobia through viral tweets from right-wing accounts.
+    paragraph_summary: The article discusses the impact of AI-generated videos on the
+      dissemination of misinformation, particularly in the context of the ongoing conflict
+      in Gaza. It highlights two viral tweets from right-wing accounts that shared misleading
+      AI-generated videos aimed at spreading Islamophobia. One video features a fabricated
+      confrontation between a man in Muslim attire and a woman, while the other depicts
+      a teacher supposedly instructing children in Islamic prayer. Both tweets received
+      Community Notes from Twitter users identifying them as AI-generated, emphasizing
+      the challenges of distinguishing real from fake content in the current digital
+      landscape. The article underscores the timing of these events, noting that they
+      coincide with heightened scrutiny of video evidence from Gaza, which complicates
+      public perception and discourse surrounding the conflict.
+    published: '2025-11-08T12:15:03+00:00'
+  - title: Things Are Shitty Because We Are Ruled By People Who Want Things To Be Shitty
+    url: https://www.caitlinjohnst.one/p/things-are-shitty-because-we-are
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Which sounds more likely: (A) that things are bad because the population keeps
+      organically voting for policies which just so happen to hurt ordinary people while
+      benefitting the rich and powerful, or (B) that things are bad because the rich
+      and powerful want things this way? Does it seem more likely to you that (A) the
+      democratic process consistently leaves people unable to advance basic human interests
+      because the population always organically splits itself into an exact 50–50 deadlock
+      that leaves everyone unable to get anything done long term, and that this deadlock
+      always just so happens to land on a status quo that serves the interests of the
+      rich and powerful, or (B) that the rich and the powerful artificially created
+      this status quo via manipulation? You don’t need to know anything at all about
+      politics or parapolitics to see that (B) is the most likely explanation for why
+      things keep getting worse for everyone besides the rich and powerful. Your own
+      basic reasoning and understanding of human behavior will tell you that there’s
+      no way democracy is working as advertised if things keep getting worse and worse
+      for ordinary voters while billionaires and empire managers keep getting everything
+      they want. Things are shitty because we are ruled by people who want things to
+      be shitty. Once you awaken to this undeniable reality, you will inevitably find
+      yourself growing more and more radicalized. Our rulers want nonstop war and genocide.
+      Our rulers want obscene levels of inequality. Our rulers want the public to be
+      poor and struggling. Our rulers want people to be getting dumber, sicker, and
+      more miserable. Our rulers want the unrestricted industry that’s killing earth’s
+      biosphere. Our rulers want us to have vapid, unedifying mainstream culture. This
+      dystopia looks more or less exactly how they want it to look. Our rulers want
+      war, militarism and genocide to be the norm because military force is one of the
+      critical ways by which they dominate the planet, control resources and trade routes,
+      and prevent foreign states from trying different systems and establishing a different
+      world order. Waging and preparing to wage war has the added bonus of also being
+      extremely profitable. The plutocrats want inequality to continue because it’s
+      what allows them to live as modern-day monarchs. When money is power and power
+      is relative, you’re going to see the people with the money making sure they have
+      as much as possible while everyone else has as little as possible, because if
+      everyone is king then nobody is. They want the public to have just enough spending
+      money to keep the wheels of capitalism turning, without having enough money to
+      do things like fund political campaigns or buy up media influence. The poorer
+      everyone else is, the more powerful they are. Our rulers want us to be stupid,
+      misinformed, distracted, sick, struggling and suffering, because if we all had
+      enough time, information and mental acuity to form an understanding of what’s
+      going on in our world, things would get mighty guillotiney real quick. They have
+      a vested existential interest in keeping us all in a mental fog of propaganda,
+      diversion, ignorance, illiteracy, and psychological dysfunction. Our rulers want
+      companies to be free to destroy our planet’s ecosystem, because offloading the
+      costs of industry onto the environment is the only way to steadily increase profits.
+      So long as they’re free to fill the air with pollutants, fill the oceans with
+      plastic, clear the rainforests, incinerate biodiversity and poison people’s drinking
+      water at the expense of other people and other organisms, corporations can continue
+      to grow and to maximize value for shareholders. An alliance of corporate and state
+      power has emerged to advance these agendas in service of the few people who benefit
+      from them, while the rest of humanity flounders in suffering and toil. They use
+      mass media propaganda, campaign donations, lobbying and other influence operations
+      to ensure that this remains the case. The more you learn to spot the signs of
+      these dynamics and the more clearly you perceive them, the more urgently you see
+      the need to end this way of being. Truth and clarity paves the way to real revolutionary
+      change. That’s why our rulers spend so much energy trying to obfuscate truth and
+      clarity via propaganda, censorship, Silicon Valley algorithm manipulation, mainstream
+      culture, AI, garbage education systems, and other forms of perception management.
+      They’re doing everything they can to stop us from following the strings of our
+      society’s ailments to the hands up above that are pulling them. They want us to
+      be stupid, so we need to get smarter. They want us to be ignorant, so we need
+      to inform ourselves. They want us to be uncaring, so we need to become more compassionate.
+      They want us to be compliant, so we need to become disobedient. The world is a
+      mess because our rulers want it to be a mess. So we need everything in us to be
+      pushing in the exact opposite direction. ________________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. My work is entirely reader-supported , so
+      if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. The best way to make sure you see everything I
+      write is to get on my free mailing list . Click here for links for my social media,
+      books, merch, and audio/video versions of each article . All my work is free to
+      bootleg and use in any way, shape or form; republish it, translate it, use it
+      on merchandise; whatever you want. All works co-authored with my husband Tim Foley.
+      Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe
+      Stock.'
+    one_sentence_summary: The article argues that the worsening conditions for ordinary
+      people are more likely the result of manipulation by the rich and powerful rather
+      than a democratic process that fails to serve basic human interests.
+    paragraph_summary: The article argues that the persistent societal issues affecting
+      ordinary people are not merely the result of a flawed democratic process, where
+      voters inadvertently support harmful policies, but rather the outcome of deliberate
+      manipulation by the wealthy and powerful elite. It posits that the ongoing deterioration
+      of living conditions for the majority, alongside the flourishing of the rich,
+      suggests a systemic design intended to maintain inequality and suffering. The
+      author contends that this reality leads to a growing radicalization among the
+      populace, as it becomes clear that the ruling class actively desires war, inequality,
+      and cultural degradation, thereby creating a dystopian society that aligns with
+      their interests.
+    published: '2025-11-08T00:55:45+00:00'
+  - title: Things Are Shitty Because We Are Ruled By People Who Want Things To Be Shitty
+    url: https://www.caitlinjohnst.one/p/things-are-shitty-because-we-are
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Which sounds more likely: (A) that things are bad because the population keeps
+      organically voting for policies which just so happen to hurt ordinary people while
+      benefitting the rich and powerful, or (B) that things are bad because the rich
+      and powerful want things this way? Does it seem more likely to you that (A) the
+      democratic process consistently leaves people unable to advance basic human interests
+      because the population always organically splits itself into an exact 50–50 deadlock
+      that leaves everyone unable to get anything done long term, and that this deadlock
+      always just so happens to land on a status quo that serves the interests of the
+      rich and powerful, or (B) that the rich and the powerful artificially created
+      this status quo via manipulation? You don’t need to know anything at all about
+      politics or parapolitics to see that (B) is the most likely explanation for why
+      things keep getting worse for everyone besides the rich and powerful. Your own
+      basic reasoning and understanding of human behavior will tell you that there’s
+      no way democracy is working as advertised if things keep getting worse and worse
+      for ordinary voters while billionaires and empire managers keep getting everything
+      they want. Things are shitty because we are ruled by people who want things to
+      be shitty. Once you awaken to this undeniable reality, you will inevitably find
+      yourself growing more and more radicalized. Our rulers want nonstop war and genocide.
+      Our rulers want obscene levels of inequality. Our rulers want the public to be
+      poor and struggling. Our rulers want people to be getting dumber, sicker, and
+      more miserable. Our rulers want the unrestricted industry that’s killing earth’s
+      biosphere. Our rulers want us to have vapid, unedifying mainstream culture. This
+      dystopia looks more or less exactly how they want it to look. Our rulers want
+      war, militarism and genocide to be the norm because military force is one of the
+      critical ways by which they dominate the planet, control resources and trade routes,
+      and prevent foreign states from trying different systems and establishing a different
+      world order. Waging and preparing to wage war has the added bonus of also being
+      extremely profitable. The plutocrats want inequality to continue because it’s
+      what allows them to live as modern-day monarchs. When money is power and power
+      is relative, you’re going to see the people with the money making sure they have
+      as much as possible while everyone else has as little as possible, because if
+      everyone is king then nobody is. They want the public to have just enough spending
+      money to keep the wheels of capitalism turning, without having enough money to
+      do things like fund political campaigns or buy up media influence. The poorer
+      everyone else is, the more powerful they are. Our rulers want us to be stupid,
+      misinformed, distracted, sick, struggling and suffering, because if we all had
+      enough time, information and mental acuity to form an understanding of what’s
+      going on in our world, things would get mighty guillotiney real quick. They have
+      a vested existential interest in keeping us all in a mental fog of propaganda,
+      diversion, ignorance, illiteracy, and psychological dysfunction. Our rulers want
+      companies to be free to destroy our planet’s ecosystem, because offloading the
+      costs of industry onto the environment is the only way to steadily increase profits.
+      So long as they’re free to fill the air with pollutants, fill the oceans with
+      plastic, clear the rainforests, incinerate biodiversity and poison people’s drinking
+      water at the expense of other people and other organisms, corporations can continue
+      to grow and to maximize value for shareholders. An alliance of corporate and state
+      power has emerged to advance these agendas in service of the few people who benefit
+      from them, while the rest of humanity flounders in suffering and toil. They use
+      mass media propaganda, campaign donations, lobbying and other influence operations
+      to ensure that this remains the case. The more you learn to spot the signs of
+      these dynamics and the more clearly you perceive them, the more urgently you see
+      the need to end this way of being. Truth and clarity paves the way to real revolutionary
+      change. That’s why our rulers spend so much energy trying to obfuscate truth and
+      clarity via propaganda, censorship, Silicon Valley algorithm manipulation, mainstream
+      culture, AI, garbage education systems, and other forms of perception management.
+      They’re doing everything they can to stop us from following the strings of our
+      society’s ailments to the hands up above that are pulling them. They want us to
+      be stupid, so we need to get smarter. They want us to be ignorant, so we need
+      to inform ourselves. They want us to be uncaring, so we need to become more compassionate.
+      They want us to be compliant, so we need to become disobedient. The world is a
+      mess because our rulers want it to be a mess. So we need everything in us to be
+      pushing in the exact opposite direction. ________________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. My work is entirely reader-supported , so
+      if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. The best way to make sure you see everything I
+      write is to get on my free mailing list . Click here for links for my social media,
+      books, merch, and audio/video versions of each article . All my work is free to
+      bootleg and use in any way, shape or form; republish it, translate it, use it
+      on merchandise; whatever you want. All works co-authored with my husband Tim Foley.
+      Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe
+      Stock.'
+    one_sentence_summary: The article argues that the worsening conditions for ordinary
+      people are more likely the result of manipulation by the rich and powerful rather
+      than a democratic process that fails to serve basic human interests.
+    paragraph_summary: The article argues that the persistent societal issues affecting
+      ordinary people are not merely the result of a flawed democratic process, where
+      voters inadvertently support harmful policies, but rather the outcome of deliberate
+      manipulation by the wealthy and powerful elite. It posits that the ongoing deterioration
+      of living conditions for the majority, alongside the flourishing of the rich,
+      suggests a systemic design intended to maintain inequality and suffering. The
+      author contends that this reality leads to a growing radicalization among the
+      populace, as it becomes clear that the ruling class actively desires war, inequality,
+      and cultural degradation, thereby creating a dystopian society that aligns with
+      their interests.
+    published: '2025-11-08T00:55:45+00:00'
+  - title: It Is Easy To Miss The Cloud Reflections
+    url: https://www.caitlinjohnst.one/p/it-is-easy-to-miss-the-cloud-reflections
+    text: 'Listen to a reading of this poem (reading by Tim Foley) : Subscribe now It
+      is easy to miss the cloud reflections in the puddles when the drones are perching
+      on the telephone wires and boats are exploding off the coast of Venezuela. It’s
+      easy not to notice the flirtatiousness of the wind when there is black smoke over
+      Palestine and everything’s coated in oil. It’s easy to overlook the electricality
+      in our bodies when the billionaires and bank boys are trying to replace our minds
+      with chatbots. Don’t let them trick you into forgetting the moon, or the dragon
+      eggs incubating in your ribcage. Don’t let them trick you into exchanging your
+      heartbeat for an algorithm and a memecoin. There are still birds in the skies
+      of this world. There are accordion angels playing in the ruins. Though at times
+      it may feel like a giraffe bleeding to death in an abandoned Presbyterian church
+      in a forgotten factory town with faded billboards and faded eyes, beneath the
+      click clack marching of the robot dogs, there is still birdsong. There is still
+      birdsong. ______________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      My work is entirely reader-supported , so if you enjoyed this piece here are some
+      options where you can toss some money into my tip jar if you want to. The best
+      way to make sure you see everything I write is to get on my free mailing list
+      . Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The poem reflects on the distractions of modern life, urging
+      readers to remain aware of the beauty and vitality of the natural world amidst
+      chaos and technological encroachment.
+    paragraph_summary: The poem reflects on the overwhelming distractions and crises
+      of modern life, such as technological encroachment, environmental devastation,
+      and societal issues, which often obscure the beauty and simplicity of nature and
+      human experience. It emphasizes the importance of remaining aware of the small,
+      joyful moments—like the reflections in puddles and the sound of birdsong—amidst
+      chaos and despair. The poet warns against allowing external forces, like billionaires
+      and technology, to diminish our humanity and connection to the world, urging readers
+      to cherish their innate vitality and the wonders that still exist, despite the
+      bleakness surrounding them.
+    published: '2025-11-07T01:14:51+00:00'
+  - title: It Is Easy To Miss The Cloud Reflections
+    url: https://www.caitlinjohnst.one/p/it-is-easy-to-miss-the-cloud-reflections
+    text: 'Listen to a reading of this poem (reading by Tim Foley) : Subscribe now It
+      is easy to miss the cloud reflections in the puddles when the drones are perching
+      on the telephone wires and boats are exploding off the coast of Venezuela. It’s
+      easy not to notice the flirtatiousness of the wind when there is black smoke over
+      Palestine and everything’s coated in oil. It’s easy to overlook the electricality
+      in our bodies when the billionaires and bank boys are trying to replace our minds
+      with chatbots. Don’t let them trick you into forgetting the moon, or the dragon
+      eggs incubating in your ribcage. Don’t let them trick you into exchanging your
+      heartbeat for an algorithm and a memecoin. There are still birds in the skies
+      of this world. There are accordion angels playing in the ruins. Though at times
+      it may feel like a giraffe bleeding to death in an abandoned Presbyterian church
+      in a forgotten factory town with faded billboards and faded eyes, beneath the
+      click clack marching of the robot dogs, there is still birdsong. There is still
+      birdsong. ______________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      My work is entirely reader-supported , so if you enjoyed this piece here are some
+      options where you can toss some money into my tip jar if you want to. The best
+      way to make sure you see everything I write is to get on my free mailing list
+      . Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The poem reflects on the distractions of modern life, urging
+      readers to remain aware of the beauty and vitality of the natural world amidst
+      chaos and technological encroachment.
+    paragraph_summary: The poem reflects on the overwhelming distractions and crises
+      of modern life, such as technological encroachment, environmental devastation,
+      and societal issues, which often obscure the beauty and simplicity of nature and
+      human experience. It emphasizes the importance of remaining aware of the small,
+      joyful moments—like the reflections in puddles and the sound of birdsong—amidst
+      chaos and despair. The poet warns against allowing external forces, like billionaires
+      and technology, to diminish our humanity and connection to the world, urging readers
+      to cherish their innate vitality and the wonders that still exist, despite the
+      bleakness surrounding them.
+    published: '2025-11-07T01:14:51+00:00'
+  - title: Israel Is Still Starving Gaza, And Other Notes
+    url: https://www.caitlinjohnst.one/p/israel-is-still-starving-gaza-and
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Israel is still blocking humanitarian groups from delivering the aid necessary
+      to alleviate the suffering of Palestinians in Gaza. In an article titled “ Not
+      enough tents, food reaching Gaza as winter comes, aid agencies say ,” Reuters
+      reports that “Far too little aid is reaching Gaza nearly four weeks after a ceasefire”
+      due to Israeli restrictions preventing aid trucks from getting to their destinations,
+      and that according to an OSHA report last week “a tenth of children screened in
+      Gaza were still acutely malnourished.” A report from the UK’s Channel 4 News shows
+      warehouses full of food that aid groups say isn’t being allowed into Gaza nearly
+      as rapidly as needed. In an article titled “‘ Under the Guise of Bureaucracy’ — Israel
+      Blocks Humanitarian Groups From Delivering Essential Aid Despite Calm in Gaza
+      ,” Israeli outlet Haaretz reports that “Israel has implemented a new procedure
+      requiring all humanitarian organizations operating in Gaza and the West Bank to
+      reapply for official approval, with many denied, despite the relative calm in
+      Gaza following the cease-fire.” They’re using bureaucratic red tape and arbitrary
+      restrictions to put as much inertia on the effort to rush aid into Gaza as possible.
+      As Electronic Intifada’s Ali Abunimah put it , Israel has “successfully rebranded
+      its genocide as a ‘ceasefire.’” ❖ Still can’t wrap my head around the fact that
+      internationally renowned activist Greta Thunberg said she was tortured and sexually
+      humiliated by Israeli soldiers when she was abducted for trying to bring aid to
+      starving civilians, and the world just shrugged and moved on. ❖ It’s so silly
+      when US empire apologists cite “the Monroe Doctrine” to defend US warmongering
+      in Latin America, as though “the entire western hemisphere is our property” is
+      a perfectly legitimate policy to have. The Monroe Doctrine was just American imperialists
+      telling Europe, “You see all these brown people over here south of our border?
+      These are our brown people. You can do whatever you want to those brown people
+      over there in Africa and Asia, but these brown people over here belong to us.
+      Only we get to dominate and exploit them.” That’s all it has ever been, and people
+      cite it to justify warmongering toward Venezuela or wherever as though saying
+      “yeah well that’s the Monroe Doctrine” is a complete argument in and of itself.
+      It’s bat shit insane nonsense and it should be rejected in its entirety. US regime
+      change interventionism is reliably disastrous wherever it happens. It always causes
+      immense suffering and instability, it’s always justified by lies, and it never
+      accomplishes what its proponents claim it will accomplish. No amount of bleating
+      the words “Monroe Doctrine” will ever change that. ❖ The US empire backs genocidal
+      Gulf state monarchies like the UAE and Saudi Arabia because if those states were
+      democratically governed their people would prioritize their own interests over
+      the agendas of the west. They wouldn’t permit US military bases on their territory,
+      and they never would have tolerated Israel and its abuses in the region. Fossil
+      fuel policy would be set without regard for western interests. The entire region
+      could long ago have united into a superpower bloc which rivaled or outmuscled
+      the western power structure using its critical resources and trade routes. That’s
+      why you see the US and its allies preaching about the values of Freedom and Democracy
+      to the public while privately telling these tyrannical monarchies they can do
+      whatever they want and receive the backing of the imperial machine. Not until
+      their pet tyrant fails to sufficiently kowtow to the interests of the empire does
+      the west suddenly get interested in advancing Freedom and Democracy in their nation.
+      This is one of the major dynamics at play in Sudan. The United Arab Emirates has
+      been backing the genocidal atrocities of the RSF and the US empire is placing
+      no pressure on them to stop, because that’s part of the deal. As long as the UAE
+      plays along with the agendas of the empire, the empire will tolerate or actively
+      facilitate its abuses. ❖ I saw a clip of Joe Rogan telling Elon Musk that AI music
+      is his “favorite music now,” gushing about how soulful and moving it is. Imagine
+      admitting this about yourself in public. AI art is shallow, vapid sensory stimulation
+      made for shallow, vapid people who don’t have enough depth and dimensionality
+      in their consciousness to be moved by profound arisings from the human spirit.
+      They’re just stimulus-response amoebas. If you tell me you love AI art I won’t
+      try to convince you, I’ll just side-eye you, because while you may not realize
+      it, you are telling me something very revealing about yourself. People who think
+      AI art is awesome are the AI art of people. ❖ We’ve all known someone like Israel.
+      Someone who lies and manipulates all the time. Someone who’s always stirring up
+      conflict and acting like the victim. Someone who’s obtained everything they have
+      by stepping on top of others. Healthy people avoid such individuals like the plague.
+      We have labels that we use to warn others to stay clear of them. Drama queen.
+      Narcissist. Compulsive liar. Sociopath. Manipulator. Under ordinary circumstances
+      such people gradually find themselves socially alienated by all but the most gullible
+      and malleable codependents, because normal people can’t stand being around them.
+      Israel is like if everyone was being forced to be that person’s friend at gunpoint.
+      Say nice things to the sociopath and pretend to believe their lies or you’re getting
+      your head blown off. Nations who oppose Israel’s crimes find themselves in the
+      crosshairs of the imperial war machine. Organizations who oppose Israel’s abuses
+      find themselves smeared, targeted, and proscribed as terrorist groups. Individuals
+      who oppose Israel’s atrocities get fired, slandered, marginalized, censored, and
+      silenced. The healthy impulse we all have in ourselves to pull away from such
+      loathsome entities is being overridden by brute force. All normal people want
+      to turn against Israel and do whatever is necessary to end its tyranny and abuse,
+      but the imperial institutions are doing everything in their power to coerce them
+      to comply. That’s the only reason Israel has any remaining support at all. Hopefully
+      someday they won’t even have that. ________________ Caitlin’s Newsletter is a
+      reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: Israel continues to impede humanitarian aid delivery to Gaza,
+      resulting in severe shortages of essential supplies and worsening conditions for
+      the population, particularly children suffering from malnutrition.
+    paragraph_summary: Israel continues to impede humanitarian aid efforts in Gaza,
+      despite a ceasefire that has been in place for nearly four weeks. Reports from
+      various sources, including Reuters and Channel 4 News, highlight that insufficient
+      aid is reaching the region due to Israeli restrictions on aid trucks, with alarming
+      statistics indicating that a significant portion of children in Gaza are acutely
+      malnourished. Additionally, a new bureaucratic procedure requires humanitarian
+      organizations to reapply for approval to operate, resulting in many being denied
+      access, further complicating aid delivery. Critics argue that these actions represent
+      a rebranding of ongoing violence and oppression under the guise of a ceasefire,
+      while notable incidents, such as activist Greta Thunberg's reported mistreatment
+      by Israeli soldiers, have drawn attention to the dire situation without prompting
+      significant global response.
+    published: '2025-11-06T01:48:28+00:00'
+  - title: Israel Is Still Starving Gaza, And Other Notes
+    url: https://www.caitlinjohnst.one/p/israel-is-still-starving-gaza-and
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Israel is still blocking humanitarian groups from delivering the aid necessary
+      to alleviate the suffering of Palestinians in Gaza. In an article titled “ Not
+      enough tents, food reaching Gaza as winter comes, aid agencies say ,” Reuters
+      reports that “Far too little aid is reaching Gaza nearly four weeks after a ceasefire”
+      due to Israeli restrictions preventing aid trucks from getting to their destinations,
+      and that according to an OSHA report last week “a tenth of children screened in
+      Gaza were still acutely malnourished.” A report from the UK’s Channel 4 News shows
+      warehouses full of food that aid groups say isn’t being allowed into Gaza nearly
+      as rapidly as needed. In an article titled “‘ Under the Guise of Bureaucracy’ — Israel
+      Blocks Humanitarian Groups From Delivering Essential Aid Despite Calm in Gaza
+      ,” Israeli outlet Haaretz reports that “Israel has implemented a new procedure
+      requiring all humanitarian organizations operating in Gaza and the West Bank to
+      reapply for official approval, with many denied, despite the relative calm in
+      Gaza following the cease-fire.” They’re using bureaucratic red tape and arbitrary
+      restrictions to put as much inertia on the effort to rush aid into Gaza as possible.
+      As Electronic Intifada’s Ali Abunimah put it , Israel has “successfully rebranded
+      its genocide as a ‘ceasefire.’” ❖ Still can’t wrap my head around the fact that
+      internationally renowned activist Greta Thunberg said she was tortured and sexually
+      humiliated by Israeli soldiers when she was abducted for trying to bring aid to
+      starving civilians, and the world just shrugged and moved on. ❖ It’s so silly
+      when US empire apologists cite “the Monroe Doctrine” to defend US warmongering
+      in Latin America, as though “the entire western hemisphere is our property” is
+      a perfectly legitimate policy to have. The Monroe Doctrine was just American imperialists
+      telling Europe, “You see all these brown people over here south of our border?
+      These are our brown people. You can do whatever you want to those brown people
+      over there in Africa and Asia, but these brown people over here belong to us.
+      Only we get to dominate and exploit them.” That’s all it has ever been, and people
+      cite it to justify warmongering toward Venezuela or wherever as though saying
+      “yeah well that’s the Monroe Doctrine” is a complete argument in and of itself.
+      It’s bat shit insane nonsense and it should be rejected in its entirety. US regime
+      change interventionism is reliably disastrous wherever it happens. It always causes
+      immense suffering and instability, it’s always justified by lies, and it never
+      accomplishes what its proponents claim it will accomplish. No amount of bleating
+      the words “Monroe Doctrine” will ever change that. ❖ The US empire backs genocidal
+      Gulf state monarchies like the UAE and Saudi Arabia because if those states were
+      democratically governed their people would prioritize their own interests over
+      the agendas of the west. They wouldn’t permit US military bases on their territory,
+      and they never would have tolerated Israel and its abuses in the region. Fossil
+      fuel policy would be set without regard for western interests. The entire region
+      could long ago have united into a superpower bloc which rivaled or outmuscled
+      the western power structure using its critical resources and trade routes. That’s
+      why you see the US and its allies preaching about the values of Freedom and Democracy
+      to the public while privately telling these tyrannical monarchies they can do
+      whatever they want and receive the backing of the imperial machine. Not until
+      their pet tyrant fails to sufficiently kowtow to the interests of the empire does
+      the west suddenly get interested in advancing Freedom and Democracy in their nation.
+      This is one of the major dynamics at play in Sudan. The United Arab Emirates has
+      been backing the genocidal atrocities of the RSF and the US empire is placing
+      no pressure on them to stop, because that’s part of the deal. As long as the UAE
+      plays along with the agendas of the empire, the empire will tolerate or actively
+      facilitate its abuses. ❖ I saw a clip of Joe Rogan telling Elon Musk that AI music
+      is his “favorite music now,” gushing about how soulful and moving it is. Imagine
+      admitting this about yourself in public. AI art is shallow, vapid sensory stimulation
+      made for shallow, vapid people who don’t have enough depth and dimensionality
+      in their consciousness to be moved by profound arisings from the human spirit.
+      They’re just stimulus-response amoebas. If you tell me you love AI art I won’t
+      try to convince you, I’ll just side-eye you, because while you may not realize
+      it, you are telling me something very revealing about yourself. People who think
+      AI art is awesome are the AI art of people. ❖ We’ve all known someone like Israel.
+      Someone who lies and manipulates all the time. Someone who’s always stirring up
+      conflict and acting like the victim. Someone who’s obtained everything they have
+      by stepping on top of others. Healthy people avoid such individuals like the plague.
+      We have labels that we use to warn others to stay clear of them. Drama queen.
+      Narcissist. Compulsive liar. Sociopath. Manipulator. Under ordinary circumstances
+      such people gradually find themselves socially alienated by all but the most gullible
+      and malleable codependents, because normal people can’t stand being around them.
+      Israel is like if everyone was being forced to be that person’s friend at gunpoint.
+      Say nice things to the sociopath and pretend to believe their lies or you’re getting
+      your head blown off. Nations who oppose Israel’s crimes find themselves in the
+      crosshairs of the imperial war machine. Organizations who oppose Israel’s abuses
+      find themselves smeared, targeted, and proscribed as terrorist groups. Individuals
+      who oppose Israel’s atrocities get fired, slandered, marginalized, censored, and
+      silenced. The healthy impulse we all have in ourselves to pull away from such
+      loathsome entities is being overridden by brute force. All normal people want
+      to turn against Israel and do whatever is necessary to end its tyranny and abuse,
+      but the imperial institutions are doing everything in their power to coerce them
+      to comply. That’s the only reason Israel has any remaining support at all. Hopefully
+      someday they won’t even have that. ________________ Caitlin’s Newsletter is a
+      reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: Israel continues to impede humanitarian aid delivery to Gaza,
+      resulting in severe shortages of essential supplies and worsening conditions for
+      the population, particularly children suffering from malnutrition.
+    paragraph_summary: Israel continues to impede humanitarian aid efforts in Gaza,
+      despite a ceasefire that has been in place for nearly four weeks. Reports from
+      various sources, including Reuters and Channel 4 News, highlight that insufficient
+      aid is reaching the region due to Israeli restrictions on aid trucks, with alarming
+      statistics indicating that a significant portion of children in Gaza are acutely
+      malnourished. Additionally, a new bureaucratic procedure requires humanitarian
+      organizations to reapply for approval to operate, resulting in many being denied
+      access, further complicating aid delivery. Critics argue that these actions represent
+      a rebranding of ongoing violence and oppression under the guise of a ceasefire,
+      while notable incidents, such as activist Greta Thunberg's reported mistreatment
+      by Israeli soldiers, have drawn attention to the dire situation without prompting
+      significant global response.
+    published: '2025-11-06T01:48:28+00:00'
   - title: Cheney Should Have Died Alone In A Cage
     url: https://www.caitlinjohnst.one/p/cheney-should-have-died-alone-in
     text: 'Listen to a reading of this article (reading by Tim Foley) : Dick Cheney,

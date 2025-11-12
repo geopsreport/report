@@ -7,16 +7,692 @@ description: "27-year CIA analyst turned independent; co-founder of Veteran Inte
 websites:
   - https://consortiumnews.com
 summary: |
-  As the U.S. enters a pivotal political season, recent independent analyses highlight mounting public discontent with elite influence, deepening party polarization, and the persistent legacy of intelligence manipulation in foreign policy.
+  The past 24 hours have brought renewed scrutiny to the intersection of Western power and democratic legitimacy, with significant developments spanning Washington, Canberra, and Dublin.
   
-  A new national poll, reported by **Ray McGovern**, reveals that a majority of Americans believe wealthy donors and corporations have disproportionate sway over elections. Notably, two-thirds of respondents disapprove of the Supreme Court's 2010 Citizens United decision, underscoring a widespread perception that democracy is being undermined by concentrated financial power. This sentiment is echoed by **Patrick Lawrence**, who argues that entrenched U.S. power elites remain unwilling to cede control, stifling prospects for genuine democratic reform.
+  In a striking display of realpolitik, the recent visit of Al-Sharaa—a figure with links to Al-Qaeda—to the White House has reignited debate over Washington's selective approach to democracy. As **Ray McGovern** observes, this episode "highlights Washington's historical disdain for democratic processes and those who advocate for them, both outside and occasionally within the West." The symbolism of this meeting, against the backdrop of ongoing U.S. support for controversial regimes and actors, has drawn criticism from both domestic and international observers, who argue that such alliances undermine the credibility of Western democratic rhetoric.
   
-  On the domestic political front, **Chris Hedges** contends that the Democratic Party's reluctance to mobilize mass opposition against the perceived authoritarian drift under Donald Trump stems from fears of marginalization. This hesitancy, Hedges suggests, inadvertently strengthens Trump's position by limiting the scope of organized resistance.
+  Meanwhile, the 50th anniversary of the 1975 Australian constitutional crisis has resurfaced with new revelations. **Jenny Hocking** and **Peter Cronau** report that Queen Elizabeth II directly advised the Australian governor-general to dismiss the elected government, a move that precipitated a major political upheaval. This intervention, corroborated by archival research and highlighted by **John Pilger**'s retrospective, underscores the enduring influence of external actors—namely the British monarchy and the CIA—in shaping the political destinies of allied states. The consensus among analysts is that this episode remains a cautionary tale about the fragility of democratic institutions under external pressure.
   
-  Meanwhile, historical context provided by the Veteran Intelligence Professionals for Sanity (VIPS) and reported by **Ray McGovern** revisits the manipulation of intelligence in the lead-up to the Iraq War. The VIPS memo to President George W. Bush in 2003, which warned of then-Vice President Dick Cheney's misleading actions, serves as a cautionary example of how intelligence can be distorted to justify controversial foreign interventions.
+  In Ireland, the inauguration of President Catherine Connolly has triggered immediate backlash from Western governments, primarily due to her outspoken positions on Israel and NATO. **Ray McGovern** notes that Connolly's election signals a shift in Irish foreign policy discourse, with potential implications for EU and transatlantic relations. The reaction from Western capitals suggests heightened sensitivity to dissenting voices within the alliance, particularly on issues related to the Middle East.
   
-  Looking ahead, the convergence of elite entrenchment, public frustration with electoral influence, and party paralysis suggests a period of heightened political volatility. I guarantee that unless there is a significant shift in political mobilization or campaign finance reform, these trends will persist and likely intensify as the 2026 election cycle approaches. The legacy of intelligence manipulation also remains a live issue, with high chance of renewed scrutiny should foreign policy crises emerge.
+  Looking ahead, the prevailing trend is one of increasing skepticism toward Western claims of democratic leadership, as historical and current events reveal persistent patterns of intervention and selective support for democratic norms. It is most definitely expected that revelations about past and present interventions will continue to fuel debate and challenge the legitimacy of Western foreign policy narratives. There is a high chance that tensions within alliances—especially over Middle East policy and questions of sovereignty—will intensify in the coming weeks.
 articles:
+  - title: 'PATRICK LAWRENCE: Al-Qaeda Goes to Washington'
+    url: https://consortiumnews.com/2025/11/11/patrick-lawrence-al-qaeda-goes-to-washington/
+    text: Al–Sharaa’s White House visit is a reminder of Washington’s longstanding abhorrence
+      of democratic processes and anyone — beyond the perimeter of the West and sometimes
+      within it — who stands for them. By Patrick Lawrence Special to Consortium News 
+      CN at… Read more →
+    one_sentence_summary: Al-Sharaa's visit to the White House highlights Washington's
+      historical disdain for democratic processes and those who advocate for them, both
+      outside and occasionally within the West.
+    paragraph_summary: The article by Patrick Lawrence discusses Al-Sharaa's visit to
+      the White House, highlighting it as a reflection of Washington's historical disdain
+      for democratic processes and those who advocate for them, both outside and occasionally
+      within the Western sphere. The visit serves as a reminder of the U.S. government's
+      tendency to prioritize political interests over genuine democratic values.
+    published: '2025-11-12T01:30:34+00:00'
+  - title: 'PATRICK LAWRENCE: Al-Qaeda Goes to Washington'
+    url: https://consortiumnews.com/2025/11/11/patrick-lawrence-al-qaeda-goes-to-washington/
+    text: Al–Sharaa’s White House visit is a reminder of Washington’s longstanding abhorrence
+      of democratic processes and anyone — beyond the perimeter of the West and sometimes
+      within it — who stands for them. By Patrick Lawrence Special to Consortium News 
+      CN at… Read more →
+    one_sentence_summary: Al-Sharaa's visit to the White House highlights Washington's
+      historical disdain for democratic processes and those who advocate for them, both
+      outside and occasionally within the West.
+    paragraph_summary: The article by Patrick Lawrence discusses Al-Sharaa's visit to
+      the White House, highlighting it as a reflection of Washington's historical disdain
+      for democratic processes and those who advocate for them, both outside and occasionally
+      within the Western sphere. The visit serves as a reminder of the U.S. government's
+      tendency to prioritize political interests over genuine democratic values.
+    published: '2025-11-12T01:30:34+00:00'
+  - title: The Queen’s Coup
+    url: https://consortiumnews.com/2025/11/11/the-queens-coup-2/
+    text: Queen Elizabeth II of England advised the governor-general he could overthrow
+      the elected government of Australia 50 years ago today – and he did, Jenny Hocking
+      and Peter Cronau report.  By Jenny Hocking and Peter Cronau Declassified Australia
+      It is 50 years… Read more →
+    one_sentence_summary: Fifty years ago, Queen Elizabeth II advised the Australian
+      governor-general to dismiss the elected government, leading to a significant political
+      crisis in Australia, as reported by Jenny Hocking and Peter Cronau.
+    paragraph_summary: Fifty years ago, Queen Elizabeth II advised the governor-general
+      of Australia to dismiss the elected government, leading to a significant political
+      crisis in the country. This event, reported by Jenny Hocking and Peter Cronau,
+      highlights the controversial role of the monarchy in Australian politics and the
+      implications of such actions on democratic governance. The article reflects on
+      the historical context and consequences of this intervention, marking a pivotal
+      moment in Australia's political landscape.
+    published: '2025-11-12T01:27:33+00:00'
+  - title: The Queen’s Coup
+    url: https://consortiumnews.com/2025/11/11/the-queens-coup-2/
+    text: Queen Elizabeth II of England advised the governor-general he could overthrow
+      the elected government of Australia 50 years ago today – and he did, Jenny Hocking
+      and Peter Cronau report.  By Jenny Hocking and Peter Cronau Declassified Australia
+      It is 50 years… Read more →
+    one_sentence_summary: Fifty years ago, Queen Elizabeth II advised the Australian
+      governor-general to dismiss the elected government, leading to a significant political
+      crisis in Australia, as reported by Jenny Hocking and Peter Cronau.
+    paragraph_summary: Fifty years ago, Queen Elizabeth II advised the governor-general
+      of Australia to dismiss the elected government, leading to a significant political
+      crisis in the country. This event, reported by Jenny Hocking and Peter Cronau,
+      highlights the controversial role of the monarchy in Australian politics and the
+      implications of such actions on democratic governance. The article reflects on
+      the historical context and consequences of this intervention, marking a pivotal
+      moment in Australia's political landscape.
+    published: '2025-11-12T01:27:33+00:00'
+  - title: 'CN at 30: JOHN PILGER: The Forgotten Coup'
+    url: https://consortiumnews.com/2025/11/11/cn-at-30-john-pilger-the-forgotten-coup/
+    text: Today is the 50th anniversary of the C.I.A./Buckingham Palace coup against
+      Australia’s government on Nov. 11, 1975. As part of our 30th anniversary commemoration,
+      we republish this article by the late John Pilger.  By John Pilger Special to
+      Consortium News… Read more →
+    one_sentence_summary: The article commemorates the 50th anniversary of the 1975
+      coup in Australia, orchestrated by the CIA and Buckingham Palace, and republished
+      a piece by journalist John Pilger reflecting on this significant event.
+    paragraph_summary: The article commemorates the 50th anniversary of the 1975 coup
+      in Australia, which was allegedly orchestrated by the CIA in collaboration with
+      Buckingham Palace, leading to the dismissal of Prime Minister Gough Whitlam. It
+      highlights the significance of this event in Australian history and reflects on
+      the implications of foreign interference in national governance. The piece is
+      a republication of an earlier article by the late journalist John Pilger, who
+      was known for his critical investigations into power and imperialism.
+    published: '2025-11-11T20:45:25+00:00'
+  - title: 'CN at 30: JOHN PILGER: The Forgotten Coup'
+    url: https://consortiumnews.com/2025/11/11/cn-at-30-john-pilger-the-forgotten-coup/
+    text: Today is the 50th anniversary of the C.I.A./Buckingham Palace coup against
+      Australia’s government on Nov. 11, 1975. As part of our 30th anniversary commemoration,
+      we republish this article by the late John Pilger.  By John Pilger Special to
+      Consortium News… Read more →
+    one_sentence_summary: The article commemorates the 50th anniversary of the 1975
+      coup in Australia, orchestrated by the CIA and Buckingham Palace, and republished
+      a piece by journalist John Pilger reflecting on this significant event.
+    paragraph_summary: The article commemorates the 50th anniversary of the 1975 coup
+      in Australia, which was allegedly orchestrated by the CIA in collaboration with
+      Buckingham Palace, leading to the dismissal of Prime Minister Gough Whitlam. It
+      highlights the significance of this event in Australian history and reflects on
+      the implications of foreign interference in national governance. The piece is
+      a republication of an earlier article by the late journalist John Pilger, who
+      was known for his critical investigations into power and imperialism.
+    published: '2025-11-11T20:45:25+00:00'
+  - title: Western Backlash to Ireland’s New President Over Israel
+    url: https://consortiumnews.com/2025/11/11/western-backlash-to-irelands-new-president-over-israel/
+    text: The outspoken new Irish president on Israel and NATO was inaugurated today
+      and already the knives are out for her, writes Mick Hall. By Mick Hall Special
+      to Consortium News CN at 30 As Catherine Connolly was inaugurated as Ireland’s…
+      Read more →
+    one_sentence_summary: Catherine Connolly was inaugurated as Ireland's new president,
+      facing immediate criticism for her views on Israel and NATO.
+    paragraph_summary: Catherine Connolly was inaugurated as Ireland's new president,
+      and her outspoken views on Israel and NATO have already drawn criticism. Mick
+      Hall reports that her controversial stance has sparked immediate backlash, highlighting
+      the challenges she may face in her new role. As she begins her presidency, the
+      political landscape appears tense, with opponents ready to challenge her positions.
+    published: '2025-11-11T18:40:55+00:00'
+  - title: Western Backlash to Ireland’s New President Over Israel
+    url: https://consortiumnews.com/2025/11/11/western-backlash-to-irelands-new-president-over-israel/
+    text: The outspoken new Irish president on Israel and NATO was inaugurated today
+      and already the knives are out for her, writes Mick Hall. By Mick Hall Special
+      to Consortium News CN at 30 As Catherine Connolly was inaugurated as Ireland’s…
+      Read more →
+    one_sentence_summary: Catherine Connolly was inaugurated as Ireland's new president,
+      facing immediate criticism for her views on Israel and NATO.
+    paragraph_summary: Catherine Connolly was inaugurated as Ireland's new president,
+      and her outspoken views on Israel and NATO have already drawn criticism. Mick
+      Hall reports that her controversial stance has sparked immediate backlash, highlighting
+      the challenges she may face in her new role. As she begins her presidency, the
+      political landscape appears tense, with opponents ready to challenge her positions.
+    published: '2025-11-11T18:40:55+00:00'
+  - title: 'WATCH: The Media’s Responsibility in Genocide'
+    url: https://consortiumnews.com/2025/11/11/watch-the-medias-responsibility-in-genocide/
+    text: Mainstream media cannot escape its guilt in helping to facilitate the genocide
+      in Gaza, says journalist Mary Kostakidis. Journalist Mary Kostakidis explores
+      the role the mainstream media has played in defending Israel’s genocide in Gaza.
+      She spoke during the Future… Read more →
+    one_sentence_summary: Journalist Mary Kostakidis argues that mainstream media bears
+      responsibility for enabling the genocide in Gaza by defending Israel's actions.
+    paragraph_summary: Journalist Mary Kostakidis argues that mainstream media bears
+      significant responsibility for enabling the genocide in Gaza by defending Israel's
+      actions. In her commentary, she highlights how media narratives have contributed
+      to the normalization of violence and the framing of the conflict, ultimately facilitating
+      the ongoing humanitarian crisis. Kostakidis emphasizes the need for accountability
+      in media reporting to ensure a more accurate representation of the situation in
+      Gaza.
+    published: '2025-11-11T17:00:23+00:00'
+  - title: 'WATCH: The Media’s Responsibility in Genocide'
+    url: https://consortiumnews.com/2025/11/11/watch-the-medias-responsibility-in-genocide/
+    text: Mainstream media cannot escape its guilt in helping to facilitate the genocide
+      in Gaza, says journalist Mary Kostakidis. Journalist Mary Kostakidis explores
+      the role the mainstream media has played in defending Israel’s genocide in Gaza.
+      She spoke during the Future… Read more →
+    one_sentence_summary: Journalist Mary Kostakidis argues that mainstream media bears
+      responsibility for enabling the genocide in Gaza by defending Israel's actions.
+    paragraph_summary: Journalist Mary Kostakidis argues that mainstream media bears
+      significant responsibility for enabling the genocide in Gaza by defending Israel's
+      actions. In her commentary, she highlights how media narratives have contributed
+      to the normalization of violence and the framing of the conflict, ultimately facilitating
+      the ongoing humanitarian crisis. Kostakidis emphasizes the need for accountability
+      in media reporting to ensure a more accurate representation of the situation in
+      Gaza.
+    published: '2025-11-11T17:00:23+00:00'
+  - title: 'WATCH: The History Mamdani Must Undo'
+    url: https://consortiumnews.com/2025/11/11/watch-the-history-mamdani-must-undo/
+    text: 'New New York Mayor Zohran Mamdani is faced with reversing a half century
+      of city policies stemming from the beginning of the neoliberal era of the mid-1970s,
+      says Judith Jorrisch. Interviewer: Joe Lauria. Guest: Judith Jorrisch Time: 51m,
+      52s Judith… Read more →'
+    one_sentence_summary: New York Mayor Zohran Mamdani must confront and attempt to
+      reverse decades of neoliberal policies that have shaped the city since the mid-1970s,
+      according to Judith Jorrisch.
+    paragraph_summary: New York Mayor Zohran Mamdani is confronted with the challenge
+      of reversing decades of city policies that have been influenced by neoliberalism
+      since the mid-1970s, according to Judith Jorrisch in an interview with Joe Lauria.
+      Jorrisch emphasizes the need for significant changes to address the long-standing
+      issues that have arisen from these policies.
+    published: '2025-11-11T11:00:52+00:00'
+  - title: 'WATCH: The History Mamdani Must Undo'
+    url: https://consortiumnews.com/2025/11/11/watch-the-history-mamdani-must-undo/
+    text: 'New New York Mayor Zohran Mamdani is faced with reversing a half century
+      of city policies stemming from the beginning of the neoliberal era of the mid-1970s,
+      says Judith Jorrisch. Interviewer: Joe Lauria. Guest: Judith Jorrisch Time: 51m,
+      52s Judith… Read more →'
+    one_sentence_summary: New York Mayor Zohran Mamdani must confront and attempt to
+      reverse decades of neoliberal policies that have shaped the city since the mid-1970s,
+      according to Judith Jorrisch.
+    paragraph_summary: New York Mayor Zohran Mamdani is confronted with the challenge
+      of reversing decades of city policies that have been influenced by neoliberalism
+      since the mid-1970s, according to Judith Jorrisch in an interview with Joe Lauria.
+      Jorrisch emphasizes the need for significant changes to address the long-standing
+      issues that have arisen from these policies.
+    published: '2025-11-11T11:00:52+00:00'
+  - title: 'Caitlin Johnstone: Israel’s ‘Successful Method’'
+    url: https://consortiumnews.com/2025/11/10/caitlin-johnstone-israels-successful-method/
+    text: From what we know about Israeli society, it’s safe to assume the IDF is going
+      to continue to constantly violate the ceasefires in Gaza and Lebanon until it
+      is stopped by force. By Caitlin Johnstone CaitlinJohnstone.com.au Listen to Tim
+      Foley… Read more →
+    one_sentence_summary: The article suggests that the Israeli Defense Forces (IDF)
+      are likely to persist in violating ceasefires in Gaza and Lebanon unless compelled
+      to stop through force.
+    paragraph_summary: The article by Caitlin Johnstone suggests that, based on insights
+      into Israeli society, the Israel Defense Forces (IDF) are likely to persist in
+      violating ceasefires in Gaza and Lebanon unless they are compelled to stop through
+      forceful means. The author implies that ongoing military actions will continue
+      despite diplomatic efforts, highlighting a cycle of conflict that seems entrenched
+      within the region.
+    published: '2025-11-10T19:03:37+00:00'
+  - title: 'Caitlin Johnstone: Israel’s ‘Successful Method’'
+    url: https://consortiumnews.com/2025/11/10/caitlin-johnstone-israels-successful-method/
+    text: From what we know about Israeli society, it’s safe to assume the IDF is going
+      to continue to constantly violate the ceasefires in Gaza and Lebanon until it
+      is stopped by force. By Caitlin Johnstone CaitlinJohnstone.com.au Listen to Tim
+      Foley… Read more →
+    one_sentence_summary: The article suggests that the Israeli Defense Forces (IDF)
+      are likely to persist in violating ceasefires in Gaza and Lebanon unless compelled
+      to stop through force.
+    paragraph_summary: The article by Caitlin Johnstone suggests that, based on insights
+      into Israeli society, the Israel Defense Forces (IDF) are likely to persist in
+      violating ceasefires in Gaza and Lebanon unless they are compelled to stop through
+      forceful means. The author implies that ongoing military actions will continue
+      despite diplomatic efforts, highlighting a cycle of conflict that seems entrenched
+      within the region.
+    published: '2025-11-10T19:03:37+00:00'
+  - title: 'WATCH: Awarded for Daring to Call it Genocide'
+    url: https://consortiumnews.com/2025/11/10/watch-awarded-for-daring-to-call-it-genocide/
+    text: Navi Pillay, a South African jurist who headed the U.N. Commission of Inquiry
+      on the Occupied Palestinian Territory, which found Israel had committed genocide,
+      won this year’s Sydney Peace Prize. Consortium News was there. On giving the Sydney
+      Peace Prize… Read more →
+    one_sentence_summary: Navi Pillay, a South African jurist and former head of the
+      U.N. Commission of Inquiry on the Occupied Palestinian Territory, which concluded
+      that Israel committed genocide, was awarded the Sydney Peace Prize this year.
+    paragraph_summary: Navi Pillay, a South African jurist and former head of the U.N.
+      Commission of Inquiry on the Occupied Palestinian Territory, was awarded the Sydney
+      Peace Prize for her work, which included findings that Israel had committed acts
+      of genocide. The award ceremony highlighted her contributions to human rights
+      and justice, and Consortium News covered the event, emphasizing the significance
+      of her recognition in the context of ongoing conflicts and humanitarian issues
+      in the region.
+    published: '2025-11-10T17:30:15+00:00'
+  - title: 'WATCH: Awarded for Daring to Call it Genocide'
+    url: https://consortiumnews.com/2025/11/10/watch-awarded-for-daring-to-call-it-genocide/
+    text: Navi Pillay, a South African jurist who headed the U.N. Commission of Inquiry
+      on the Occupied Palestinian Territory, which found Israel had committed genocide,
+      won this year’s Sydney Peace Prize. Consortium News was there. On giving the Sydney
+      Peace Prize… Read more →
+    one_sentence_summary: Navi Pillay, a South African jurist and former head of the
+      U.N. Commission of Inquiry on the Occupied Palestinian Territory, which concluded
+      that Israel committed genocide, was awarded the Sydney Peace Prize this year.
+    paragraph_summary: Navi Pillay, a South African jurist and former head of the U.N.
+      Commission of Inquiry on the Occupied Palestinian Territory, was awarded the Sydney
+      Peace Prize for her work, which included findings that Israel had committed acts
+      of genocide. The award ceremony highlighted her contributions to human rights
+      and justice, and Consortium News covered the event, emphasizing the significance
+      of her recognition in the context of ongoing conflicts and humanitarian issues
+      in the region.
+    published: '2025-11-10T17:30:15+00:00'
+  - title: 'CN at 30: A History of Consortium News By Robert Parry'
+    url: https://consortiumnews.com/2025/11/10/cn-at-30-a-history-of-consortium-news-by-robert-parry/
+    text: As we celebrate Consortium News‘ 30th Anniversary this month and appeal for
+      funds for our future, we republish this history of the site written by the founding
+      editor, Bob Parry, on Dec. 21, 2014. This is a facsimile of how… Read more →
+    one_sentence_summary: Consortium News marks its 30th anniversary by republishing
+      a historical piece written by founding editor Bob Parry in 2014, while also appealing
+      for financial support for its future.
+    paragraph_summary: In celebration of Consortium News' 30th Anniversary, the site
+      is republishing a historical overview written by founding editor Bob Parry on
+      December 21, 2014. This article reflects on the site's journey and significance
+      in the media landscape, while also serving as a call for financial support to
+      ensure its continued operation and future endeavors.
+    published: '2025-11-10T05:33:07+00:00'
+  - title: 'CN at 30: A History of Consortium News By Robert Parry'
+    url: https://consortiumnews.com/2025/11/10/cn-at-30-a-history-of-consortium-news-by-robert-parry/
+    text: As we celebrate Consortium News‘ 30th Anniversary this month and appeal for
+      funds for our future, we republish this history of the site written by the founding
+      editor, Bob Parry, on Dec. 21, 2014. This is a facsimile of how… Read more →
+    one_sentence_summary: Consortium News marks its 30th anniversary by republishing
+      a historical piece written by founding editor Bob Parry in 2014, while also appealing
+      for financial support for its future.
+    paragraph_summary: In celebration of Consortium News' 30th Anniversary, the site
+      is republishing a historical overview written by founding editor Bob Parry on
+      December 21, 2014. This article reflects on the site's journey and significance
+      in the media landscape, while also serving as a call for financial support to
+      ensure its continued operation and future endeavors.
+    published: '2025-11-10T05:33:07+00:00'
+  - title: 'WATCH: Epstein and ‘Nobody’s Girl’'
+    url: https://consortiumnews.com/2025/11/09/watch-epstein-and-nobodys-girl/
+    text: 'CN Live! talks to journalist Nick Bryant about the recently released book
+      Nobody’s Girl by Virginia Giuffre, one of Jeffrey Epstein’s victims. Interviewer:
+      Elizabeth Vos. Producer: Cathy Vogan. Time: 1hr 2min Virginia Giuffre was one
+      of the most prominent and well-known… Read more →'
+    one_sentence_summary: CN Live! interviews journalist Nick Bryant about Virginia
+      Giuffre's newly released book "Nobody’s Girl," which details her experiences as
+      one of Jeffrey Epstein's victims.
+    paragraph_summary: In a recent episode of CN Live!, journalist Nick Bryant discusses
+      Virginia Giuffre's newly released book, "Nobody’s Girl," which details her experiences
+      as one of Jeffrey Epstein's victims. The interview, conducted by Elizabeth Vos
+      and produced by Cathy Vogan, explores Giuffre's journey and the broader implications
+      of her story, highlighting her role in bringing attention to the issues of sexual
+      abuse and trafficking. The conversation delves into the challenges faced by survivors
+      and the importance of their narratives in seeking justice and accountability.
+    published: '2025-11-09T23:55:05+00:00'
+  - title: 'WATCH: Epstein and ‘Nobody’s Girl’'
+    url: https://consortiumnews.com/2025/11/09/watch-epstein-and-nobodys-girl/
+    text: 'CN Live! talks to journalist Nick Bryant about the recently released book
+      Nobody’s Girl by Virginia Giuffre, one of Jeffrey Epstein’s victims. Interviewer:
+      Elizabeth Vos. Producer: Cathy Vogan. Time: 1hr 2min Virginia Giuffre was one
+      of the most prominent and well-known… Read more →'
+    one_sentence_summary: CN Live! interviews journalist Nick Bryant about Virginia
+      Giuffre's newly released book "Nobody’s Girl," which details her experiences as
+      one of Jeffrey Epstein's victims.
+    paragraph_summary: In a recent episode of CN Live!, journalist Nick Bryant discusses
+      Virginia Giuffre's newly released book, "Nobody’s Girl," which details her experiences
+      as one of Jeffrey Epstein's victims. The interview, conducted by Elizabeth Vos
+      and produced by Cathy Vogan, explores Giuffre's journey and the broader implications
+      of her story, highlighting her role in bringing attention to the issues of sexual
+      abuse and trafficking. The conversation delves into the challenges faced by survivors
+      and the importance of their narratives in seeking justice and accountability.
+    published: '2025-11-09T23:55:05+00:00'
+  - title: California Law Illegally Muzzles Students & Teachers
+    url: https://consortiumnews.com/2025/11/08/california-law-illegally-muzzles-students-teachers/
+    text: The new law conflates criticism of Zionism with antisemitism and punishes
+      educators for teaching truthful information, reports Marjorie Cohn. By Marjorie
+      Cohn Truthout CN at 30 Beginning January 1, 2026, teachers in California classrooms
+      will be looking over their shoulders… Read more →
+    one_sentence_summary: A new California law equates criticism of Zionism with antisemitism,
+      potentially penalizing educators for teaching factual information about the topic,
+      according to Marjorie Cohn.
+    paragraph_summary: Marjorie Cohn reports that a new California law, set to take
+      effect on January 1, 2026, equates criticism of Zionism with antisemitism, potentially
+      penalizing educators for providing accurate information about the topic. This
+      legislation raises concerns about academic freedom and the ability of teachers
+      to discuss contentious issues without fear of repercussions.
+    published: '2025-11-08T05:53:04+00:00'
+  - title: California Law Illegally Muzzles Students & Teachers
+    url: https://consortiumnews.com/2025/11/08/california-law-illegally-muzzles-students-teachers/
+    text: The new law conflates criticism of Zionism with antisemitism and punishes
+      educators for teaching truthful information, reports Marjorie Cohn. By Marjorie
+      Cohn Truthout CN at 30 Beginning January 1, 2026, teachers in California classrooms
+      will be looking over their shoulders… Read more →
+    one_sentence_summary: A new California law equates criticism of Zionism with antisemitism,
+      potentially penalizing educators for teaching factual information about the topic,
+      according to Marjorie Cohn.
+    paragraph_summary: Marjorie Cohn reports that a new California law, set to take
+      effect on January 1, 2026, equates criticism of Zionism with antisemitism, potentially
+      penalizing educators for providing accurate information about the topic. This
+      legislation raises concerns about academic freedom and the ability of teachers
+      to discuss contentious issues without fear of repercussions.
+    published: '2025-11-08T05:53:04+00:00'
+  - title: 'Vijay Prashad: 5 Options for Attacking Venezuela'
+    url: https://consortiumnews.com/2025/11/07/vijay-prashad-5-options-for-attacking-venezuela/
+    text: '“Let the dogs of the empire bark. That is their role: to bark,” said Venezuelan
+      President Hugo Chávez in 2006. They are yapping now. By Vijay Prashad Tricontinental:
+      Institute for Social Research CN at 30 Since early September, the United States
+      has… Read more →'
+    one_sentence_summary: In a reflection on U.S. foreign policy, Vijay Prashad discusses
+      Venezuelan President Hugo Chávez's 2006 remark about the U.S. acting as a barking
+      dog of imperialism, highlighting ongoing tensions and criticisms of American actions
+      on the global stage.
+    paragraph_summary: In a recent article by Vijay Prashad, the author reflects on
+      Venezuelan President Hugo Chávez's 2006 remark about the "dogs of the empire"
+      barking, which serves as a metaphor for U.S. imperialism. Prashad discusses the
+      current geopolitical climate, particularly focusing on the actions and rhetoric
+      of the United States since early September, suggesting that these developments
+      are indicative of ongoing imperialist tendencies. The piece emphasizes the need
+      to critically analyze and respond to U.S. foreign policy and its implications
+      for global power dynamics.
+    published: '2025-11-07T19:30:06+00:00'
+  - title: 'Vijay Prashad: 5 Options for Attacking Venezuela'
+    url: https://consortiumnews.com/2025/11/07/vijay-prashad-5-options-for-attacking-venezuela/
+    text: '“Let the dogs of the empire bark. That is their role: to bark,” said Venezuelan
+      President Hugo Chávez in 2006. They are yapping now. By Vijay Prashad Tricontinental:
+      Institute for Social Research CN at 30 Since early September, the United States
+      has… Read more →'
+    one_sentence_summary: In a reflection on U.S. foreign policy, Vijay Prashad discusses
+      Venezuelan President Hugo Chávez's 2006 remark about the U.S. acting as a barking
+      dog of imperialism, highlighting ongoing tensions and criticisms of American actions
+      on the global stage.
+    paragraph_summary: In a recent article by Vijay Prashad, the author reflects on
+      Venezuelan President Hugo Chávez's 2006 remark about the "dogs of the empire"
+      barking, which serves as a metaphor for U.S. imperialism. Prashad discusses the
+      current geopolitical climate, particularly focusing on the actions and rhetoric
+      of the United States since early September, suggesting that these developments
+      are indicative of ongoing imperialist tendencies. The piece emphasizes the need
+      to critically analyze and respond to U.S. foreign policy and its implications
+      for global power dynamics.
+    published: '2025-11-07T19:30:06+00:00'
+  - title: An Assault on Academic Freedom
+    url: https://consortiumnews.com/2025/11/07/an-assault-on-academic-freedom/
+    text: U.S. civil rights laws are being exploited to suppress pro-Palestine speech
+      in an authoritarian assault on academic freedom, finds a report by two academic
+      groups. By Jessica Corbett Common Dreams Under both the Biden and Trump administrations,
+      pro-Israel and far-right… Read more →
+    one_sentence_summary: A report by two academic groups reveals that U.S. civil rights
+      laws are being misused to stifle pro-Palestine speech, posing a threat to academic
+      freedom under both the Biden and Trump administrations.
+    paragraph_summary: A report by two academic groups reveals that U.S. civil rights
+      laws are being misused to stifle pro-Palestine speech, which they describe as
+      an authoritarian attack on academic freedom. This trend has persisted under both
+      the Biden and Trump administrations, with pro-Israel and far-right entities allegedly
+      leveraging these laws to suppress dissenting voices in academia.
+    published: '2025-11-07T18:09:16+00:00'
+  - title: An Assault on Academic Freedom
+    url: https://consortiumnews.com/2025/11/07/an-assault-on-academic-freedom/
+    text: U.S. civil rights laws are being exploited to suppress pro-Palestine speech
+      in an authoritarian assault on academic freedom, finds a report by two academic
+      groups. By Jessica Corbett Common Dreams Under both the Biden and Trump administrations,
+      pro-Israel and far-right… Read more →
+    one_sentence_summary: A report by two academic groups reveals that U.S. civil rights
+      laws are being misused to stifle pro-Palestine speech, posing a threat to academic
+      freedom under both the Biden and Trump administrations.
+    paragraph_summary: A report by two academic groups reveals that U.S. civil rights
+      laws are being misused to stifle pro-Palestine speech, which they describe as
+      an authoritarian attack on academic freedom. This trend has persisted under both
+      the Biden and Trump administrations, with pro-Israel and far-right entities allegedly
+      leveraging these laws to suppress dissenting voices in academia.
+    published: '2025-11-07T18:09:16+00:00'
+  - title: 'WATCH: Jill Stein on Why Mamdani Won'
+    url: https://consortiumnews.com/2025/11/07/watch-jill-stein-on-mamdani-mania/
+    text: 'Jill Stein, three-time Green Party candidate for U.S. president, spoke to
+      CN Live! about Zohran Mamdani’s election as NYC mayor and the future of U.S. politics.
+      Interviewer: Joe Lauria. Producer: Cathy Vogan. Time: 52m 50s Please Donate to
+      CN’s 30th Anniversary… Read more →'
+    one_sentence_summary: Jill Stein discussed Zohran Mamdani's election as NYC mayor
+      and the future of U.S. politics in an interview with CN Live! hosted by Joe Lauria.
+    paragraph_summary: In an interview with CN Live!, Jill Stein, a three-time Green
+      Party presidential candidate, discussed the implications of Zohran Mamdani's election
+      as mayor of New York City and its significance for the future of U.S. politics.
+      Stein highlighted the potential for progressive change and the importance of grassroots
+      movements in shaping political landscapes. The conversation, led by interviewer
+      Joe Lauria and produced by Cathy Vogan, delved into the evolving dynamics of American
+      political discourse and the role of third-party candidates.
+    published: '2025-11-07T06:04:07+00:00'
+  - title: 'WATCH: Jill Stein on Why Mamdani Won'
+    url: https://consortiumnews.com/2025/11/07/watch-jill-stein-on-mamdani-mania/
+    text: 'Jill Stein, three-time Green Party candidate for U.S. president, spoke to
+      CN Live! about Zohran Mamdani’s election as NYC mayor and the future of U.S. politics.
+      Interviewer: Joe Lauria. Producer: Cathy Vogan. Time: 52m 50s Please Donate to
+      CN’s 30th Anniversary… Read more →'
+    one_sentence_summary: Jill Stein discussed Zohran Mamdani's election as NYC mayor
+      and the future of U.S. politics in an interview with CN Live! hosted by Joe Lauria.
+    paragraph_summary: In an interview with CN Live!, Jill Stein, a three-time Green
+      Party presidential candidate, discussed the implications of Zohran Mamdani's election
+      as mayor of New York City and its significance for the future of U.S. politics.
+      Stein highlighted the potential for progressive change and the importance of grassroots
+      movements in shaping political landscapes. The conversation, led by interviewer
+      Joe Lauria and produced by Cathy Vogan, delved into the evolving dynamics of American
+      political discourse and the role of third-party candidates.
+    published: '2025-11-07T06:04:07+00:00'
+  - title: Venezuelan Oil — American Gangster Politics
+    url: https://consortiumnews.com/2025/11/06/venezuelan-oil-american-gangster-politics/
+    text: The slogan has shifted from “restoring democracy” to “fighting narco-terrorists,”
+      write Jeffrey D. Sachs and Sybil Fares. But the objective remains the same. By Jeffrey
+      D. Sachs and Sybil Fares Common Dreams The United States is dusting off its old
+      regime-change playbook in… Read more →
+    one_sentence_summary: The article by Jeffrey D. Sachs and Sybil Fares discusses
+      how the U.S. has changed its slogan from "restoring democracy" to "fighting narco-terrorists,"
+      yet continues to pursue the same regime-change objectives.
+    paragraph_summary: In their article, Jeffrey D. Sachs and Sybil Fares discuss how
+      the U.S. has transitioned its narrative from "restoring democracy" to "fighting
+      narco-terrorists," yet the underlying goal of regime change remains unchanged.
+      They argue that this shift in rhetoric reflects a return to familiar strategies
+      aimed at influencing foreign governments, highlighting concerns about the implications
+      of such actions on international relations and domestic stability.
+    published: '2025-11-06T19:00:05+00:00'
+  - title: Venezuelan Oil — American Gangster Politics
+    url: https://consortiumnews.com/2025/11/06/venezuelan-oil-american-gangster-politics/
+    text: The slogan has shifted from “restoring democracy” to “fighting narco-terrorists,”
+      write Jeffrey D. Sachs and Sybil Fares. But the objective remains the same. By Jeffrey
+      D. Sachs and Sybil Fares Common Dreams The United States is dusting off its old
+      regime-change playbook in… Read more →
+    one_sentence_summary: The article by Jeffrey D. Sachs and Sybil Fares discusses
+      how the U.S. has changed its slogan from "restoring democracy" to "fighting narco-terrorists,"
+      yet continues to pursue the same regime-change objectives.
+    paragraph_summary: In their article, Jeffrey D. Sachs and Sybil Fares discuss how
+      the U.S. has transitioned its narrative from "restoring democracy" to "fighting
+      narco-terrorists," yet the underlying goal of regime change remains unchanged.
+      They argue that this shift in rhetoric reflects a return to familiar strategies
+      aimed at influencing foreign governments, highlighting concerns about the implications
+      of such actions on international relations and domestic stability.
+    published: '2025-11-06T19:00:05+00:00'
+  - title: Can Trump Impose Taxes on Americans?
+    url: https://consortiumnews.com/2025/11/06/can-trump-impose-taxes-on-americans/
+    text: Questions before the Supreme Court ask if Congress delegated away to the president
+      the power to tax under the rubric of tariffs. If it did, was that delegation constitutional? 
+      Judge Napolitano explains.  By Andrew P. Napolitano This week the Supreme Court…
+      Read more →
+    one_sentence_summary: The Supreme Court is reviewing whether Congress constitutionally
+      delegated its power to impose tariffs to the president, as discussed by Judge
+      Napolitano.
+    paragraph_summary: The article discusses a case before the Supreme Court that examines
+      whether Congress has constitutionally delegated its power to impose tariffs to
+      the president. Judge Andrew P. Napolitano analyzes the implications of this delegation,
+      questioning both its legality and the extent of presidential authority in taxation
+      matters. The case raises fundamental issues about the balance of power between
+      Congress and the executive branch regarding economic policy.
+    published: '2025-11-06T16:56:09+00:00'
+  - title: Can Trump Impose Taxes on Americans?
+    url: https://consortiumnews.com/2025/11/06/can-trump-impose-taxes-on-americans/
+    text: Questions before the Supreme Court ask if Congress delegated away to the president
+      the power to tax under the rubric of tariffs. If it did, was that delegation constitutional? 
+      Judge Napolitano explains.  By Andrew P. Napolitano This week the Supreme Court…
+      Read more →
+    one_sentence_summary: The Supreme Court is reviewing whether Congress constitutionally
+      delegated its power to impose tariffs to the president, as discussed by Judge
+      Napolitano.
+    paragraph_summary: The article discusses a case before the Supreme Court that examines
+      whether Congress has constitutionally delegated its power to impose tariffs to
+      the president. Judge Andrew P. Napolitano analyzes the implications of this delegation,
+      questioning both its legality and the extent of presidential authority in taxation
+      matters. The case raises fundamental issues about the balance of power between
+      Congress and the executive branch regarding economic policy.
+    published: '2025-11-06T16:56:09+00:00'
+  - title: 'WATCH: ‘Run, Zohran, Run’'
+    url: https://consortiumnews.com/2025/11/06/watch-run-zohran-run/
+    text: Theodore Hamm, author of a new book about Zohran Mamdani, joins CN Live! to
+      discuss Mamdani’s victory as mayor of New York City. Theodore Hamm is the author
+      of Run Zohran Run! Inside Zohran Mamdani’s Sensational Campaign to Become New…
+      Read more →
+    one_sentence_summary: Theodore Hamm discusses Zohran Mamdani's successful mayoral
+      campaign in New York City in his new book, "Run Zohran Run!" during an appearance
+      on CN Live!
+    paragraph_summary: Theodore Hamm, in his new book "Run Zohran Run! Inside Zohran
+      Mamdani’s Sensational Campaign to Become New York City Mayor," discusses Zohran
+      Mamdani's recent victory in the mayoral race. During his appearance on CN Live!,
+      Hamm explores the dynamics of Mamdani's campaign, highlighting its significance
+      and impact on New York City's political landscape. The conversation delves into
+      the strategies that led to Mamdani's success and the broader implications of his
+      leadership for the city.
+    published: '2025-11-06T05:17:33+00:00'
+  - title: 'WATCH: ‘Run, Zohran, Run’'
+    url: https://consortiumnews.com/2025/11/06/watch-run-zohran-run/
+    text: Theodore Hamm, author of a new book about Zohran Mamdani, joins CN Live! to
+      discuss Mamdani’s victory as mayor of New York City. Theodore Hamm is the author
+      of Run Zohran Run! Inside Zohran Mamdani’s Sensational Campaign to Become New…
+      Read more →
+    one_sentence_summary: Theodore Hamm discusses Zohran Mamdani's successful mayoral
+      campaign in New York City in his new book, "Run Zohran Run!" during an appearance
+      on CN Live!
+    paragraph_summary: Theodore Hamm, in his new book "Run Zohran Run! Inside Zohran
+      Mamdani’s Sensational Campaign to Become New York City Mayor," discusses Zohran
+      Mamdani's recent victory in the mayoral race. During his appearance on CN Live!,
+      Hamm explores the dynamics of Mamdani's campaign, highlighting its significance
+      and impact on New York City's political landscape. The conversation delves into
+      the strategies that led to Mamdani's success and the broader implications of his
+      leadership for the city.
+    published: '2025-11-06T05:17:33+00:00'
+  - title: 'VIPS MEMO:  What Wider War in Venezuela Would Bring'
+    url: https://consortiumnews.com/2025/11/05/vips-memo-what-wider-war-in-venezuela-would-bring/
+    text: Russia, and possibly even China, would feel obligated to enhance military
+      support in response to a missile, air, or even drone strike on sovereign Venezuelan
+      territory. Escalation would be almost inevitable. November 5, 2025 ALERT MEMORANDUM
+      FOR: The President FROM: VETERAN INTELLIGENCE… Read more →
+    one_sentence_summary: The article warns that a military strike on Venezuela could
+      compel Russia and potentially China to increase their military support for the
+      country, leading to an inevitable escalation of conflict.
+    paragraph_summary: The article discusses the potential repercussions of a missile,
+      air, or drone strike on Venezuelan territory, suggesting that such an action would
+      compel Russia, and possibly China, to increase their military support for Venezuela.
+      This escalation in military involvement is portrayed as almost unavoidable, highlighting
+      the geopolitical tensions and the implications of foreign intervention in the
+      region.
+    published: '2025-11-06T01:18:35+00:00'
+  - title: 'VIPS MEMO:  What Wider War in Venezuela Would Bring'
+    url: https://consortiumnews.com/2025/11/05/vips-memo-what-wider-war-in-venezuela-would-bring/
+    text: Russia, and possibly even China, would feel obligated to enhance military
+      support in response to a missile, air, or even drone strike on sovereign Venezuelan
+      territory. Escalation would be almost inevitable. November 5, 2025 ALERT MEMORANDUM
+      FOR: The President FROM: VETERAN INTELLIGENCE… Read more →
+    one_sentence_summary: The article warns that a military strike on Venezuela could
+      compel Russia and potentially China to increase their military support for the
+      country, leading to an inevitable escalation of conflict.
+    paragraph_summary: The article discusses the potential repercussions of a missile,
+      air, or drone strike on Venezuelan territory, suggesting that such an action would
+      compel Russia, and possibly China, to increase their military support for Venezuela.
+      This escalation in military involvement is portrayed as almost unavoidable, highlighting
+      the geopolitical tensions and the implications of foreign intervention in the
+      region.
+    published: '2025-11-06T01:18:35+00:00'
+  - title: 'Islam vs the West: 4 Fallacies Exposed'
+    url: https://consortiumnews.com/2025/11/05/islam-vs-the-west-4-fallacies-exposed/
+    text: Isn’t Islam inherently violent? What stopped the Islamic world having an Enlightenment?
+      Why are some Muslims so into head-chopping? Jonathan Cook examines some common
+      misperceptions.  By Jonathan Cook Jonathan-Cook.net A recent conversation with
+      a friend highlighted to me how little most… Read more →
+    one_sentence_summary: Jonathan Cook addresses common misconceptions about Islam,
+      arguing against the notion that the religion is inherently violent and exploring
+      the reasons behind the lack of an Enlightenment in the Islamic world.
+    paragraph_summary: In his article, Jonathan Cook addresses common misconceptions
+      about Islam, challenging the notion that the religion is inherently violent and
+      questioning why the Islamic world did not experience an Enlightenment similar
+      to that of the West. He explores the complexities of Islamic culture and history,
+      arguing that oversimplified views contribute to misunderstandings about the motivations
+      and actions of some Muslims, including extreme behaviors like violence. Cook emphasizes
+      the importance of recognizing the diverse interpretations of Islam and the socio-political
+      factors that influence perceptions of the religion.
+    published: '2025-11-05T19:00:33+00:00'
+  - title: 'Islam vs the West: 4 Fallacies Exposed'
+    url: https://consortiumnews.com/2025/11/05/islam-vs-the-west-4-fallacies-exposed/
+    text: Isn’t Islam inherently violent? What stopped the Islamic world having an Enlightenment?
+      Why are some Muslims so into head-chopping? Jonathan Cook examines some common
+      misperceptions.  By Jonathan Cook Jonathan-Cook.net A recent conversation with
+      a friend highlighted to me how little most… Read more →
+    one_sentence_summary: Jonathan Cook addresses common misconceptions about Islam,
+      arguing against the notion that the religion is inherently violent and exploring
+      the reasons behind the lack of an Enlightenment in the Islamic world.
+    paragraph_summary: In his article, Jonathan Cook addresses common misconceptions
+      about Islam, challenging the notion that the religion is inherently violent and
+      questioning why the Islamic world did not experience an Enlightenment similar
+      to that of the West. He explores the complexities of Islamic culture and history,
+      arguing that oversimplified views contribute to misunderstandings about the motivations
+      and actions of some Muslims, including extreme behaviors like violence. Cook emphasizes
+      the importance of recognizing the diverse interpretations of Islam and the socio-political
+      factors that influence perceptions of the religion.
+    published: '2025-11-05T19:00:33+00:00'
+  - title: Trump’s Insane & Illegal War on Venezuela
+    url: https://consortiumnews.com/2025/11/05/trumps-insane-illegal-war-on-venezuela/
+    text: The White House’s  murderous strikes on small boats at sea constitute unlawful
+      extrajudicial killings, writes Marjorie Cohn. By Marjorie Cohn Truthout As the
+      Trump administration continues to murder people in small boats on the high seas
+      and mounts the largest… Read more →
+    one_sentence_summary: Marjorie Cohn argues that the Trump administration's strikes
+      on small boats at sea amount to unlawful extrajudicial killings.
+    paragraph_summary: Marjorie Cohn argues in her article that the Trump administration's
+      military strikes on small boats at sea amount to unlawful extrajudicial killings.
+      She criticizes these actions as violations of international law, highlighting
+      the moral and legal implications of targeting individuals in such vulnerable situations.
+      Cohn emphasizes the need for accountability and adherence to legal standards in
+      military operations, particularly in the context of human rights and the protection
+      of civilians.
+    published: '2025-11-05T17:09:45+00:00'
+  - title: Trump’s Insane & Illegal War on Venezuela
+    url: https://consortiumnews.com/2025/11/05/trumps-insane-illegal-war-on-venezuela/
+    text: The White House’s  murderous strikes on small boats at sea constitute unlawful
+      extrajudicial killings, writes Marjorie Cohn. By Marjorie Cohn Truthout As the
+      Trump administration continues to murder people in small boats on the high seas
+      and mounts the largest… Read more →
+    one_sentence_summary: Marjorie Cohn argues that the Trump administration's strikes
+      on small boats at sea amount to unlawful extrajudicial killings.
+    paragraph_summary: Marjorie Cohn argues in her article that the Trump administration's
+      military strikes on small boats at sea amount to unlawful extrajudicial killings.
+      She criticizes these actions as violations of international law, highlighting
+      the moral and legal implications of targeting individuals in such vulnerable situations.
+      Cohn emphasizes the need for accountability and adherence to legal standards in
+      military operations, particularly in the context of human rights and the protection
+      of civilians.
+    published: '2025-11-05T17:09:45+00:00'
+  - title: NYC Voters Defy Establishment
+    url: https://consortiumnews.com/2025/11/05/nyc-voters-defy-establishment/
+    text: Voters in New York City withstood a barrage of money and racist insults against
+      their 34-year old socialist candidate to send him to City Hall in the country’s
+      biggest city in convincing fashion on Tuesday night. By Jon Queally Common… Read
+      more →
+    one_sentence_summary: New York City voters overwhelmingly elected a 34-year-old
+      socialist candidate to City Hall, despite facing significant financial opposition
+      and racist attacks against him.
+    paragraph_summary: In a significant electoral victory, voters in New York City elected
+      a 34-year-old socialist candidate to City Hall, overcoming substantial financial
+      opposition and racist attacks aimed at him. The election results reflect a strong
+      support for progressive policies in the nation's largest city, demonstrating the
+      electorate's resilience against negative campaigning and their willingness to
+      embrace a candidate who represents socialist ideals.
+    published: '2025-11-05T14:21:41+00:00'
+  - title: NYC Voters Defy Establishment
+    url: https://consortiumnews.com/2025/11/05/nyc-voters-defy-establishment/
+    text: Voters in New York City withstood a barrage of money and racist insults against
+      their 34-year old socialist candidate to send him to City Hall in the country’s
+      biggest city in convincing fashion on Tuesday night. By Jon Queally Common… Read
+      more →
+    one_sentence_summary: New York City voters overwhelmingly elected a 34-year-old
+      socialist candidate to City Hall, despite facing significant financial opposition
+      and racist attacks against him.
+    paragraph_summary: In a significant electoral victory, voters in New York City elected
+      a 34-year-old socialist candidate to City Hall, overcoming substantial financial
+      opposition and racist attacks aimed at him. The election results reflect a strong
+      support for progressive policies in the nation's largest city, demonstrating the
+      electorate's resilience against negative campaigning and their willingness to
+      embrace a candidate who represents socialist ideals.
+    published: '2025-11-05T14:21:41+00:00'
   - title: 'VIPS on Dick Cheney: Intelligence Unglued'
     url: https://consortiumnews.com/2025/11/04/vips-on-dick-cheney-intelligence-unglued/
     text: The Veteran Intelligence Professionals for Sanity (VIPS) sent this memo to

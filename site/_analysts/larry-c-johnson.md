@@ -7,16 +7,1626 @@ description: "Former CIA analyst & State Dept counterterrorism official; runs So
 websites:
   - https://sonar21.com
 summary: |
-  As the Ukraine conflict continues to reshape the global balance, recent independent analysis points to a widening strategic gap between Russia and NATO, with broader implications for the West’s influence worldwide.
+  As tensions between the United States and Russia continue to escalate, recent public remarks and ongoing military realities further complicate the geopolitical landscape. The latest development comes from former U.S. Treasury Secretary **Scott Bessent**, who, in a pointed interview on Fox News, sharply criticized Kirill Dmitriev, CEO of Russia's Direct Investment Fund. Bessent dismissed Dmitriev’s minimization of U.S. sanctions’ effects, labeling him a "Russian propagandist" and insisting that the sanctions will inflict "immediate pain" on Russia’s economy. This exchange, as noted by **Larry C. Johnson**, underscores the widening gulf between Washington and Moscow, with rhetoric hardening on both sides and little sign of diplomatic thaw.
   
-  The most notable development, according to **Larry C. Johnson**, is the stark disparity in main battle tank production during 2024. NATO managed to produce only 56 new tanks, most of which were South Korean models destined for Poland, while Russia’s output far exceeded this figure. This production imbalance underscores NATO’s ongoing prioritization of modernization and peacetime procurement cycles, even as the Ukraine war intensifies. Johnson emphasizes that “NATO’s industrial base remains focused on upgrades rather than surge production,” a factor that could prove decisive should the conflict escalate further.
+  Meanwhile, analysis of Russia’s military campaign in Ukraine continues to evolve. Western military observers, as summarized by **Larry C. Johnson**, have shifted from blaming Russian leadership or tactics for the slow pace of advances in 2023 and 2024, instead highlighting a critical manpower shortage. Russia’s initial troop deployments were insufficient to break through entrenched Ukrainian defenses, leading to a protracted conflict rather than a swift victory. This assessment aligns with a broader consensus that Russia’s strategy was shaped by resource constraints rather than operational incompetence.
   
-  On the ground in Ukraine, the situation remains dire for Kyiv’s forces. Johnson details two recent high-risk helicopter missions by Ukraine’s Main Intelligence Directorate in Pokrovsk, both of which failed to achieve their objectives amid significant Russian advances. The use of US-supplied helicopters in these operations highlights both the desperation and the limits of Western military assistance at this stage of the conflict.
+  Looking ahead, the prevailing trend is toward further polarization and entrenchment. The U.S. and its allies are unlikely to ease sanctions or soften their stance, especially as public figures like Bessent amplify the narrative of Russian vulnerability. On the military front, unless Russia addresses its manpower limitations, significant territorial gains in Ukraine remain improbable in the near term.
   
-  Broader geopolitical trends also suggest a shift in global power dynamics. Johnson argues that the “Collective West is losing its dominance to the Global South,” with the multipolarity of emerging economies increasingly challenging Western economic and military primacy. This trend is reinforced by the West’s apparent underestimation of Russia’s military capabilities and self-sufficiency, as well as the ongoing inability to break Russia’s economic resilience through sanctions or military pressure.
-  
-  Looking ahead, the majority of independent analysis suggests that Russia’s military-industrial advantage over NATO will persist in the near term. As Johnson puts it, “I guarantee Russia will maintain its lead in conventional armaments production and operational tempo.” There is also a high chance that the Global South’s influence will continue to rise, further eroding Western leverage in international affairs. The situation in Ukraine is expected to remain unfavorable for Kyiv, with Russian advances likely to continue barring a significant change in Western strategy or industrial mobilization.
+  Based on current trajectories, I guarantee that diplomatic relations between Washington and Moscow will remain strained, with high-profile public confrontations further reducing the likelihood of meaningful engagement. There is a high chance that the Ukraine conflict will continue at a slow, grinding pace, shaped by logistical and personnel constraints on both sides.
 articles:
+  - title: Scott Bessent’s Damaging Remarks Puts More Distance between Washington and
+      Moscow
+    url: https://sonar21.com/scott-bessents-damaging-remarks-puts-more-distance-between-washington-and-moscow/
+    text: 'Scott Bessent, the U.S. Treasury Secretary under President Trump, appeared
+      on Fox News recently and made some incredibly insulting remarks about Kirill Dmitriev,
+      who is the CEO of Russia’s Direct Investment Fund (RDIF) and a key Kremlin envoy
+      involved in back-channel diplomacy on Ukraine peace talks and sanctions, after
+      Dmitriev downplayed the impact of new U.S. sanctions on Russian oil companies.
+      Bessent dismissed Dmitriev’s claims that the sanctions would have “absolutely
+      no effect” on Russia’s economy, calling him a “Russian propagandist” who is “incapable
+      of speaking honestly.” He argued that Dmitriev’s role leaves him with “nothing
+      else to say” except to lie and minimize the pressure on Moscow. Calling an envoy
+      of Putin a liar falls outside the bounds of traditional diplomacy. Bessent countered
+      Dmitriev directly, stating that Russia will feel “immediate pain.” He cited evidence
+      like India’s complete halt on Russian oil purchases and slowdowns at Chinese refineries,
+      adding that Russia’s wartime economy is already strained (near-zero growth, inflation
+      over 20%, and oil revenues down 20% year-over-year). He predicted the sanctions
+      could slash revenues another 20–30%. Bessent tied this to Russia’s talking points,
+      saying they’ve falsely “immunized” their economy against Western measures. He
+      framed quoting Dmitriev as falling for Kremlin spin, especially amid stalled Ukraine
+      negotiations. Despite Bessent’s claim, India has not completely stopped buying
+      Russian oil as of November 11, 2025. However, imports have been scaled back—particularly
+      for December arrivals—due to escalating U.S. sanctions, tariffs, and trade negotiations
+      under President Trump. Indian refiners continue to process pre-sanctioned cargoes,
+      but new orders have largely halted, marking a sharp decline from the 1.9 million
+      barrels per day (bpd) imported in the first nine months of 2025 (about 40% of
+      Russia’s seaborne exports). While President Trump has publicly claimed that India
+      has “largely stopped” buying Russian oil and that Prime Minister Modi assured
+      him of this, the Indian government has pushed back. India’s foreign ministry stated
+      it was “not aware of any conversation” about such an assurance, emphasizing its
+      policy is to ensure “stable energy prices” by “broad-basing” its energy sourcing.
+      Analysts suggest that while India is reducing imports in the short term due to
+      sanctions, it is unlikely to completely phase out Russian oil over the long term.
+      If Russian crude becomes available at a sharp discount again, India’s “economics
+      first” approach will trump Trump’s attempt to coerce India to distance itself
+      from Russia. Notwithstanding Washington’s attempt to bully India, Prime Minister
+      Modi and his government are not going to move away from Russia… The partnership
+      has moved beyond a simple “buyer-seller” model. There is now a strong focus on
+      joint production and technology transfer under India’s “Make in India” initiative,
+      as seen with the BrahMos missile and the planned production of AK-203 rifles.
+      India and Russia maintain a robust Special and Privileged Strategic Partnership
+      in defense, rooted in decades of collaboration since the Cold War era. Russia
+      remains India’s largest historical arms supplier, accounting for ~36% of imports
+      in 2023 (down from 76% in 2009 due to India’s diversification and self-reliance
+      push under “Make in India”). Total contracts from 2005–2025 exceed $50 billion.
+      Cooperation spans arms procurement, joint production, technology transfers, exercises,
+      and logistics, guided by the India-Russia Inter-Governmental Commission on Military
+      Technical Cooperation (IRIGC-M& MTC, est. 2000). India is not going to risk that
+      relationship just to placate Trump. Scott Bessent fails to understand that oil
+      exports to India are not critical to Russia’s economic health… Only 15% of Russian
+      GDP comes from all oil exports. Moreover, I think it is highly likely that Russia
+      and India will find a way to use a third party to continue shipping oil to India
+      in order for India to continue to have access to affordable oil. Bessent displayed
+      an appalling ignorance of the Russian economy and the Russian commitment to win
+      the war with Ukraine and NATO in his comments about sanctions. He continues to
+      labor under the delusion that the US has economic leverage over the Russians and
+      that the US can use economic pressure to force Russia to end the war with Ukraine…
+      Ain’t going to happen. The following video from BORRIZKMAN addresses the issue
+      of sanctions: I was interviewed yesterday by Zarael , who works with the boys
+      at The Duran . We had a great conversation: https://theduran.beta.locals.com/feed?mode=content&post=7440200
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: Scott Bessent, former U.S. Treasury Secretary under Trump,
+      criticized Kirill Dmitriev, CEO of Russia's Direct Investment Fund, on Fox News
+      for downplaying the impact of U.S. sanctions on Russia, labeling him a "Russian
+      propagandist" and asserting that the sanctions would cause "immediate pain" to
+      the Russian economy.
+    paragraph_summary: Scott Bessent, former U.S. Treasury Secretary under President
+      Trump, recently criticized Kirill Dmitriev, CEO of Russia's Direct Investment
+      Fund, on Fox News after Dmitriev downplayed the effects of new U.S. sanctions
+      on Russian oil companies. Bessent labeled Dmitriev a "Russian propagandist" and
+      accused him of dishonesty, asserting that Russia would experience "immediate pain"
+      from the sanctions, which he argued would significantly impact the Russian economy,
+      citing evidence of reduced oil purchases from India and slowdowns in Chinese refineries.
+      He claimed that Russia's economy is already under strain, with near-zero growth
+      and inflation exceeding 20%. While Bessent's remarks suggested that India had
+      completely halted Russian oil imports, this was not entirely accurate, as imports
+      had been scaled back but not entirely stopped, reflecting the complexities of
+      ongoing trade negotiations and sanctions.
+    published: '2025-11-12T03:52:51+00:00'
+  - title: Scott Bessent’s Damaging Remarks Puts More Distance between Washington and
+      Moscow
+    url: https://sonar21.com/scott-bessents-damaging-remarks-puts-more-distance-between-washington-and-moscow/
+    text: 'Scott Bessent, the U.S. Treasury Secretary under President Trump, appeared
+      on Fox News recently and made some incredibly insulting remarks about Kirill Dmitriev,
+      who is the CEO of Russia’s Direct Investment Fund (RDIF) and a key Kremlin envoy
+      involved in back-channel diplomacy on Ukraine peace talks and sanctions, after
+      Dmitriev downplayed the impact of new U.S. sanctions on Russian oil companies.
+      Bessent dismissed Dmitriev’s claims that the sanctions would have “absolutely
+      no effect” on Russia’s economy, calling him a “Russian propagandist” who is “incapable
+      of speaking honestly.” He argued that Dmitriev’s role leaves him with “nothing
+      else to say” except to lie and minimize the pressure on Moscow. Calling an envoy
+      of Putin a liar falls outside the bounds of traditional diplomacy. Bessent countered
+      Dmitriev directly, stating that Russia will feel “immediate pain.” He cited evidence
+      like India’s complete halt on Russian oil purchases and slowdowns at Chinese refineries,
+      adding that Russia’s wartime economy is already strained (near-zero growth, inflation
+      over 20%, and oil revenues down 20% year-over-year). He predicted the sanctions
+      could slash revenues another 20–30%. Bessent tied this to Russia’s talking points,
+      saying they’ve falsely “immunized” their economy against Western measures. He
+      framed quoting Dmitriev as falling for Kremlin spin, especially amid stalled Ukraine
+      negotiations. Despite Bessent’s claim, India has not completely stopped buying
+      Russian oil as of November 11, 2025. However, imports have been scaled back—particularly
+      for December arrivals—due to escalating U.S. sanctions, tariffs, and trade negotiations
+      under President Trump. Indian refiners continue to process pre-sanctioned cargoes,
+      but new orders have largely halted, marking a sharp decline from the 1.9 million
+      barrels per day (bpd) imported in the first nine months of 2025 (about 40% of
+      Russia’s seaborne exports). While President Trump has publicly claimed that India
+      has “largely stopped” buying Russian oil and that Prime Minister Modi assured
+      him of this, the Indian government has pushed back. India’s foreign ministry stated
+      it was “not aware of any conversation” about such an assurance, emphasizing its
+      policy is to ensure “stable energy prices” by “broad-basing” its energy sourcing.
+      Analysts suggest that while India is reducing imports in the short term due to
+      sanctions, it is unlikely to completely phase out Russian oil over the long term.
+      If Russian crude becomes available at a sharp discount again, India’s “economics
+      first” approach will trump Trump’s attempt to coerce India to distance itself
+      from Russia. Notwithstanding Washington’s attempt to bully India, Prime Minister
+      Modi and his government are not going to move away from Russia… The partnership
+      has moved beyond a simple “buyer-seller” model. There is now a strong focus on
+      joint production and technology transfer under India’s “Make in India” initiative,
+      as seen with the BrahMos missile and the planned production of AK-203 rifles.
+      India and Russia maintain a robust Special and Privileged Strategic Partnership
+      in defense, rooted in decades of collaboration since the Cold War era. Russia
+      remains India’s largest historical arms supplier, accounting for ~36% of imports
+      in 2023 (down from 76% in 2009 due to India’s diversification and self-reliance
+      push under “Make in India”). Total contracts from 2005–2025 exceed $50 billion.
+      Cooperation spans arms procurement, joint production, technology transfers, exercises,
+      and logistics, guided by the India-Russia Inter-Governmental Commission on Military
+      Technical Cooperation (IRIGC-M& MTC, est. 2000). India is not going to risk that
+      relationship just to placate Trump. Scott Bessent fails to understand that oil
+      exports to India are not critical to Russia’s economic health… Only 15% of Russian
+      GDP comes from all oil exports. Moreover, I think it is highly likely that Russia
+      and India will find a way to use a third party to continue shipping oil to India
+      in order for India to continue to have access to affordable oil. Bessent displayed
+      an appalling ignorance of the Russian economy and the Russian commitment to win
+      the war with Ukraine and NATO in his comments about sanctions. He continues to
+      labor under the delusion that the US has economic leverage over the Russians and
+      that the US can use economic pressure to force Russia to end the war with Ukraine…
+      Ain’t going to happen. The following video from BORRIZKMAN addresses the issue
+      of sanctions: I was interviewed yesterday by Zarael , who works with the boys
+      at The Duran . We had a great conversation: https://theduran.beta.locals.com/feed?mode=content&post=7440200
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: Scott Bessent, former U.S. Treasury Secretary under Trump,
+      criticized Kirill Dmitriev, CEO of Russia's Direct Investment Fund, on Fox News
+      for downplaying the impact of U.S. sanctions on Russia, labeling him a "Russian
+      propagandist" and asserting that the sanctions would cause "immediate pain" to
+      the Russian economy.
+    paragraph_summary: Scott Bessent, former U.S. Treasury Secretary under President
+      Trump, recently criticized Kirill Dmitriev, CEO of Russia's Direct Investment
+      Fund, on Fox News after Dmitriev downplayed the effects of new U.S. sanctions
+      on Russian oil companies. Bessent labeled Dmitriev a "Russian propagandist" and
+      accused him of dishonesty, asserting that Russia would experience "immediate pain"
+      from the sanctions, which he argued would significantly impact the Russian economy,
+      citing evidence of reduced oil purchases from India and slowdowns in Chinese refineries.
+      He claimed that Russia's economy is already under strain, with near-zero growth
+      and inflation exceeding 20%. While Bessent's remarks suggested that India had
+      completely halted Russian oil imports, this was not entirely accurate, as imports
+      had been scaled back but not entirely stopped, reflecting the complexities of
+      ongoing trade negotiations and sanctions.
+    published: '2025-11-12T03:52:51+00:00'
+  - title: One Reason the Russian Military Advanced Slowly in 2023 and 2024
+    url: https://sonar21.com/one-reason-the-russian-military-advanced-slowly-in-2023-and-2024/
+    text: 'Europe vs Russia Western military analysts frequently deride and ridicule
+      the Russian military for its slow-pace of advance in taking back territory from
+      Ukraine in 2023 and 2024. But the perceived slow-advance was not the result of
+      poor leadership or bad tactics… It was a manpower issue. On the eve of Russia’s
+      full-scale invasion of Ukraine (which began on February 24, 2022), the Russian
+      Armed Forces significantly outnumbered those of Ukraine in terms of active personnel.
+      But even that number is misleading. If you are going to capture defensive positions
+      held by Ukraine, you need ground forces. Russia entered the Special Military Operation
+      ( SMO ) in February 2022 with an estimated 280,000 ground forces, while Ukraine
+      fielded an estimated 130,000. However, only 125,000 Russian troops entered Ukraine
+      at the start of the SMO . Under traditional doctrine, an attacking force should
+      have four times the number of troops in order to have a reasonable chance of defeating
+      an entrenched army. The fact that Russia deployed troops that were a fraction
+      of what was required to conquer Ukraine is prima facie evidence that Putin was
+      not intent on occupying all of Ukraine. Let me put this in perspective using the
+      Battle of Stalingrad as a benchmark… The Battle of Stalingrad was a turning point
+      in World War II, involving massive Soviet forces across multiple fronts and phases.
+      The term “Soviet ground force” refers to Red Army troops (infantry, armor, artillery,
+      etc.), excluding air and naval elements unless integrated into ground operations.
+      During the initial defense (August–November 1942) , the Soviets field ~ 187,000–200,000
+      soldiers on the Stalingrad Front under Yeryomenko. The Soviets suffered heavy
+      casualties during those four months and the heavily depleted Soviet units were
+      reinforced by ~50,000 replacements monthly. The Soviets broke the back of the
+      German 6th Army between December 1942 and February 1943 with an additional 1,100,000
+      soldiers that attacked the German flanks as part of Operation Uranus (November
+      19–23, 1942) , which resulted in the encirclement of the German army. The Battle
+      of Stalingrad, in the actual city, covered a distance of approximately 35 km from
+      north to south. Compare that to the line of contact in Ukraine today, which is
+      a distance of 1300 km from north to south. Lack of manpower is the primary reason
+      that Russia has opted for a slow, grinding war of attrition against Ukraine, with
+      the Russians using missiles, artillery, drones and glide bombs to compensate for
+      its relatively small number of ground forces. Starting in September 2022, the
+      Russian General Staff activated plans to deal with the manpower shortage by mobilizing
+      300,000 reservists and stepping up efforts to recruit contract soldiers. Russia’s
+      military has grown significantly since the 2022 invasion of Ukraine through partial
+      mobilizations, contract soldiers, and decrees increasing authorized strength.
+      Here is a breakdown based on the latest available data from November 2025: Russia
+      has at least tripled the size of its ground forces since the start of the SMO,
+      which explains why Russia is now capturing more territory and conducting more
+      successful attacks all along the line of contact. There are two other factors
+      that have imposed restraint on Russian ground operations in 2023 and 2024: 1)
+      Training new recruits, and 2) Orders from Putin to minimize Russian casualties.
+      Once a contract is signed or a conscript is inducted, the new soldiers are sent
+      to basic training and then advanced individual training. While the training time
+      was reduced in 2023 in order to get reinforcements to the front more quickly,
+      it appears that Russia now has the luxury of giving new recruits at least six
+      months of training before they see any combat. Putin’s order to minimize casualties
+      meant that Russian commanders shied away from human wave attacks and developed
+      new tactics that employed saturation bombing of enemy positions with missiles,
+      artillery, drones and glide bombs before small units were inserted to clear Ukrainian
+      fortifications. Shifting gears slightly, I have come across a video that I think
+      is an apt metaphor to describe the difference between Europe and Russia. (Hint:
+      Europe is the chihuahua.) Finally, it was an active day of podcasts… First with
+      Nima, then with the Judge, and wrapping up with Kyle Anzalone: I thank you for
+      your invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: Western military analysts criticize the slow pace of Russia's
+      territorial advances in Ukraine during 2023 and 2024, attributing it not to poor
+      leadership or tactics but to a significant manpower shortage, as Russia's initial
+      troop deployment was insufficient to effectively engage Ukraine's defenses.
+    paragraph_summary: Western military analysts have criticized the Russian military
+      for its slow progress in reclaiming territory from Ukraine in 2023 and 2024, attributing
+      this to poor leadership and tactics. However, the real issue lies in manpower
+      shortages. Before the full-scale invasion of Ukraine on February 24, 2022, Russia
+      had a numerical advantage with an estimated 280,000 ground forces compared to
+      Ukraine's 130,000. Yet, only 125,000 Russian troops were deployed at the onset
+      of the conflict, which is significantly below the traditional requirement of having
+      four times the number of troops to effectively attack an entrenched position.
+      This suggests that President Putin did not plan to occupy all of Ukraine. The
+      article draws a parallel to the Battle of Stalingrad during World War II, highlighting
+      the importance of troop numbers and reinforcements in achieving military success,
+      as the Soviets managed to turn the tide against the Germans with substantial reinforcements
+      after initial heavy losses.
+    published: '2025-11-11T03:37:20+00:00'
+  - title: One Reason the Russian Military Advanced Slowly in 2023 and 2024
+    url: https://sonar21.com/one-reason-the-russian-military-advanced-slowly-in-2023-and-2024/
+    text: 'Europe vs Russia Western military analysts frequently deride and ridicule
+      the Russian military for its slow-pace of advance in taking back territory from
+      Ukraine in 2023 and 2024. But the perceived slow-advance was not the result of
+      poor leadership or bad tactics… It was a manpower issue. On the eve of Russia’s
+      full-scale invasion of Ukraine (which began on February 24, 2022), the Russian
+      Armed Forces significantly outnumbered those of Ukraine in terms of active personnel.
+      But even that number is misleading. If you are going to capture defensive positions
+      held by Ukraine, you need ground forces. Russia entered the Special Military Operation
+      ( SMO ) in February 2022 with an estimated 280,000 ground forces, while Ukraine
+      fielded an estimated 130,000. However, only 125,000 Russian troops entered Ukraine
+      at the start of the SMO . Under traditional doctrine, an attacking force should
+      have four times the number of troops in order to have a reasonable chance of defeating
+      an entrenched army. The fact that Russia deployed troops that were a fraction
+      of what was required to conquer Ukraine is prima facie evidence that Putin was
+      not intent on occupying all of Ukraine. Let me put this in perspective using the
+      Battle of Stalingrad as a benchmark… The Battle of Stalingrad was a turning point
+      in World War II, involving massive Soviet forces across multiple fronts and phases.
+      The term “Soviet ground force” refers to Red Army troops (infantry, armor, artillery,
+      etc.), excluding air and naval elements unless integrated into ground operations.
+      During the initial defense (August–November 1942) , the Soviets field ~ 187,000–200,000
+      soldiers on the Stalingrad Front under Yeryomenko. The Soviets suffered heavy
+      casualties during those four months and the heavily depleted Soviet units were
+      reinforced by ~50,000 replacements monthly. The Soviets broke the back of the
+      German 6th Army between December 1942 and February 1943 with an additional 1,100,000
+      soldiers that attacked the German flanks as part of Operation Uranus (November
+      19–23, 1942) , which resulted in the encirclement of the German army. The Battle
+      of Stalingrad, in the actual city, covered a distance of approximately 35 km from
+      north to south. Compare that to the line of contact in Ukraine today, which is
+      a distance of 1300 km from north to south. Lack of manpower is the primary reason
+      that Russia has opted for a slow, grinding war of attrition against Ukraine, with
+      the Russians using missiles, artillery, drones and glide bombs to compensate for
+      its relatively small number of ground forces. Starting in September 2022, the
+      Russian General Staff activated plans to deal with the manpower shortage by mobilizing
+      300,000 reservists and stepping up efforts to recruit contract soldiers. Russia’s
+      military has grown significantly since the 2022 invasion of Ukraine through partial
+      mobilizations, contract soldiers, and decrees increasing authorized strength.
+      Here is a breakdown based on the latest available data from November 2025: Russia
+      has at least tripled the size of its ground forces since the start of the SMO,
+      which explains why Russia is now capturing more territory and conducting more
+      successful attacks all along the line of contact. There are two other factors
+      that have imposed restraint on Russian ground operations in 2023 and 2024: 1)
+      Training new recruits, and 2) Orders from Putin to minimize Russian casualties.
+      Once a contract is signed or a conscript is inducted, the new soldiers are sent
+      to basic training and then advanced individual training. While the training time
+      was reduced in 2023 in order to get reinforcements to the front more quickly,
+      it appears that Russia now has the luxury of giving new recruits at least six
+      months of training before they see any combat. Putin’s order to minimize casualties
+      meant that Russian commanders shied away from human wave attacks and developed
+      new tactics that employed saturation bombing of enemy positions with missiles,
+      artillery, drones and glide bombs before small units were inserted to clear Ukrainian
+      fortifications. Shifting gears slightly, I have come across a video that I think
+      is an apt metaphor to describe the difference between Europe and Russia. (Hint:
+      Europe is the chihuahua.) Finally, it was an active day of podcasts… First with
+      Nima, then with the Judge, and wrapping up with Kyle Anzalone: I thank you for
+      your invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: Western military analysts criticize the slow pace of Russia's
+      territorial advances in Ukraine during 2023 and 2024, attributing it not to poor
+      leadership or tactics but to a significant manpower shortage, as Russia's initial
+      troop deployment was insufficient to effectively engage Ukraine's defenses.
+    paragraph_summary: Western military analysts have criticized the Russian military
+      for its slow progress in reclaiming territory from Ukraine in 2023 and 2024, attributing
+      this to poor leadership and tactics. However, the real issue lies in manpower
+      shortages. Before the full-scale invasion of Ukraine on February 24, 2022, Russia
+      had a numerical advantage with an estimated 280,000 ground forces compared to
+      Ukraine's 130,000. Yet, only 125,000 Russian troops were deployed at the onset
+      of the conflict, which is significantly below the traditional requirement of having
+      four times the number of troops to effectively attack an entrenched position.
+      This suggests that President Putin did not plan to occupy all of Ukraine. The
+      article draws a parallel to the Battle of Stalingrad during World War II, highlighting
+      the importance of troop numbers and reinforcements in achieving military success,
+      as the Soviets managed to turn the tide against the Germans with substantial reinforcements
+      after initial heavy losses.
+    published: '2025-11-11T03:37:20+00:00'
+  - title: Dr. Doctorow’s Struggles with Realities
+    url: https://sonar21.com/dr-doctorows-struggles-with-realities/
+    text: 'When we first took a critical look at Gilbert Doctorow’s analyses a good
+      two weeks ago, it didn’t go down well. Now he is attacking his colleagues in the
+      most despicable way. By doing so, he is also harming Russia – is that what he
+      wants? By Peter Hanseler via forumgeopolitica.com Dr. Doctorow from Brussels is
+      not just anyone. He describes himself as an expert on Russia, having spent almost
+      his entire professional life in the Soviet Union. Everyone has their own experiences
+      and opinions based on them. But when he went so far as to compare President Putin
+      to Gorbachev and claim that the “elites”— nota bene , without describing them—were
+      preparing to remove Putin from office, we intervened to set the record straight.
+      This is what happened in our article “ When an ‘expert’ loses his footing .” Cheap
+      Shots Against His Colleagues Gilbert Doctorow was the first commentator on our
+      article, so he certainly took note of it. However, he responded in his own way,
+      not in a factual and collegial manner. Not only did he attack the author—which
+      I can live with—but he also accused Larry Johnson and Scott Ritter by name of
+      not even speaking Russian and of getting their “insider perspectives” from RT,
+      the Russian Foreign Ministry, and retired Russian generals, thus parroting Russian
+      propaganda and insinuating that they had been bought. These allegations are all
+      inaccurate. I know Larry Johnson and Scott Ritter personally, and we meet regularly
+      when they are in Moscow or elsewhere. I have seen Scott Ritter, who is currently
+      spending over two weeks in Russia, twice in the last few days. We met Russian
+      entrepreneurs, publishers, frontline soldiers, Spetsnaz, journalists, bloggers,
+      etc. Yesterday, Scott Ritter presented his new book, “ Highway to Hell ,” in its
+      Russian version, “ Дорога в Ад .” Scott Ritter’s producer manages him on a contract
+      basis, which she bills Ritter for. Scott Ritter is thus completely independent,
+      has no ties to the state or other third parties, and pays all his travel expenses
+      out of his own pocket; he is supported exclusively by the readers of his blog.
+      He has an enviable network throughout Russia and is respected by Russians as an
+      American patriot who seeks and promotes relations with Russia. His Russian isn’t
+      great, but he communicates perfectly well with his producer, who in turn speaks
+      virtually no English. One gets the impression that Gilbert Doctorow simply envies
+      his colleagues and attacks them—unsavory. Surprisingly Little Comprehension of
+      the Russian Soul Surprisingly, Gilbert Doctorow himself has no analytically relevant
+      connections in Russia, and why should he? When he sits in Brussels or in his apartment
+      in St. Petersburg, watches Russian television, dines with his old friends, and
+      palavers with taxi drivers, the yield of significant information seems rather
+      modest. His repeated emphasis on television as a primary source of his insights
+      backfires on him. Programs such as 60 Minutes, Solovyov Live, and others serve
+      to entertain the Russian people—with clear guidelines from the Kremlin. The millions
+      of people who watch these programs take the information they are given with Russian
+      skepticism—something Gilbert Doctorow lacks. He may speak Russian, but the misinterpretations
+      we criticize suggest a lack of understanding of the Russian mentality and soul.
+      Doctorow Accuses Russia of Xenophobia Against His Better Judgment After spending
+      almost three weeks traveling in Russia, Dr. Doctorow posted something on his blog
+      that leaves one stunned. He describes security measures in the Russian telecommunications
+      sector as a xenophobic gust of wind and—as evidence of alleged Russian xenophobia—falsely
+      claims that foreigners without permanent residence in Russia are no longer allowed
+      to own a Russian SIM card. In his travel report , he shared the following with
+      the public on November 6, 2025: “Yesterday I transferred to my Russian wife the
+      MTS SIM card and ownership of the local telephone number which has been mine since
+      2009. Why? Because a new law or more likely a new administrative instruction from
+      the FSB bars foreigners who are not permanent residents from owning a Russian
+      telephone number. This is not tragic even for those who do not have Russian relatives
+      to help them out. But it tells you which way the wind is blowing: it is a xenophobic
+      gust.” Gilbert Doctorow, 6. November 2025 As already mentioned, Gilbert Doctorow
+      speaks fluent Russian. So it should have been easy for him to find and understand
+      the relevant regulations of the Russian state, e.g. here https://www.gosuslugi.ru/landing/sim_migrant
+      . For travelers to Russia who do not speak Russian, the situation is somewhat
+      more difficult, but by no means unsolvable, as Russians are generally very helpful
+      in such cases and travelers will be able to obtain a SIM card. If someone wants
+      to purchase a SIM card in Germany or Switzerland, they can do so at any store
+      belonging to a telephone provider or one of its contractual partners. This problem
+      can also be solved online, but only if the person concerned identifies themselves
+      with their passport. Only then will they be able to obtain a SIM card. The same
+      applied in Russia. Until the beginning of 2025, foreigners in Russia were also
+      able to purchase an unlimited number of SIM cards. Then, in June 2025, came Operation
+      Spiderweb, which we reported on: “ Operation Spiderweb: Ukraine and NATO attack
+      Russia: A new Pearl Harbor? Full escalation? Are the fanatics back? Facts and
+      analysis. ”. The Russian security agencies—the military, police, and security
+      services—determined that the Ukrainian drones were equipped with Russian SIM cards
+      that could dial into the Russian telephone network as “Russians” and “navigate”
+      to their intended targets with the help of the Russian navigation system. Investigations
+      into attacks also revealed that Russian telephone numbers were involved, whose
+      connection to specific individuals was difficult or impossible to prove. So, large
+      quantities of Russian SIM cards were purchased and brought into Ukraine, and thereby
+      Russians were killed. The new conditions for the purchase or registration of existing
+      SIM cards for foreigners, which have been in force since 2025, are intended to
+      help solve this problem. We are somewhat concerned that Dr. Doctorow was unable—or
+      unwilling?—to make the obvious connection between terrorism and measures to combat
+      it. His conclusion is surprising when he writes: “But it tells you which way the
+      wind is blowing: it is a xenophobic gust.” Gilbert Doctorow, 6 November 2025 Conclusion
+      Admittedly, it is a battle for interpretational sovereignty. This battle can be
+      fought in a spirit of friendly competition, with contrarian views being expressed.
+      Or it can be fought by resorting to means that are objectively disingenuous, by
+      attacking colleagues with false claims or accusing the Russian government and
+      Russian society of xenophobia where none exists. We fondly remember Gilbert Doctorow’s
+      valuable analyses in the past.'
+    one_sentence_summary: Gilbert Doctorow's recent criticisms of his colleagues and
+      controversial comparisons of Putin to Gorbachev have sparked backlash, with accusations
+      that his approach is harmful to Russia and undermines constructive discourse.
+    paragraph_summary: In a recent critique, Peter Hanseler responds to Gilbert Doctorow's
+      controversial analyses regarding Russia, particularly Doctorow's comparison of
+      President Putin to Gorbachev and his claims about elite efforts to remove Putin
+      from power. Hanseler defends his colleagues, Larry Johnson and Scott Ritter, against
+      Doctorow's accusations that they lack genuine insights into Russia and are merely
+      echoing Russian propaganda. He emphasizes that both Johnson and Ritter have firsthand
+      experience and connections within Russia, highlighting Ritter's independence and
+      recent activities, including the presentation of his book in Russia. Hanseler
+      argues that Doctorow's attacks are not only unfounded but also detrimental to
+      Russia's interests.
+    published: '2025-11-10T16:08:29+00:00'
+  - title: Dr. Doctorow’s Struggles with Realities
+    url: https://sonar21.com/dr-doctorows-struggles-with-realities/
+    text: 'When we first took a critical look at Gilbert Doctorow’s analyses a good
+      two weeks ago, it didn’t go down well. Now he is attacking his colleagues in the
+      most despicable way. By doing so, he is also harming Russia – is that what he
+      wants? By Peter Hanseler via forumgeopolitica.com Dr. Doctorow from Brussels is
+      not just anyone. He describes himself as an expert on Russia, having spent almost
+      his entire professional life in the Soviet Union. Everyone has their own experiences
+      and opinions based on them. But when he went so far as to compare President Putin
+      to Gorbachev and claim that the “elites”— nota bene , without describing them—were
+      preparing to remove Putin from office, we intervened to set the record straight.
+      This is what happened in our article “ When an ‘expert’ loses his footing .” Cheap
+      Shots Against His Colleagues Gilbert Doctorow was the first commentator on our
+      article, so he certainly took note of it. However, he responded in his own way,
+      not in a factual and collegial manner. Not only did he attack the author—which
+      I can live with—but he also accused Larry Johnson and Scott Ritter by name of
+      not even speaking Russian and of getting their “insider perspectives” from RT,
+      the Russian Foreign Ministry, and retired Russian generals, thus parroting Russian
+      propaganda and insinuating that they had been bought. These allegations are all
+      inaccurate. I know Larry Johnson and Scott Ritter personally, and we meet regularly
+      when they are in Moscow or elsewhere. I have seen Scott Ritter, who is currently
+      spending over two weeks in Russia, twice in the last few days. We met Russian
+      entrepreneurs, publishers, frontline soldiers, Spetsnaz, journalists, bloggers,
+      etc. Yesterday, Scott Ritter presented his new book, “ Highway to Hell ,” in its
+      Russian version, “ Дорога в Ад .” Scott Ritter’s producer manages him on a contract
+      basis, which she bills Ritter for. Scott Ritter is thus completely independent,
+      has no ties to the state or other third parties, and pays all his travel expenses
+      out of his own pocket; he is supported exclusively by the readers of his blog.
+      He has an enviable network throughout Russia and is respected by Russians as an
+      American patriot who seeks and promotes relations with Russia. His Russian isn’t
+      great, but he communicates perfectly well with his producer, who in turn speaks
+      virtually no English. One gets the impression that Gilbert Doctorow simply envies
+      his colleagues and attacks them—unsavory. Surprisingly Little Comprehension of
+      the Russian Soul Surprisingly, Gilbert Doctorow himself has no analytically relevant
+      connections in Russia, and why should he? When he sits in Brussels or in his apartment
+      in St. Petersburg, watches Russian television, dines with his old friends, and
+      palavers with taxi drivers, the yield of significant information seems rather
+      modest. His repeated emphasis on television as a primary source of his insights
+      backfires on him. Programs such as 60 Minutes, Solovyov Live, and others serve
+      to entertain the Russian people—with clear guidelines from the Kremlin. The millions
+      of people who watch these programs take the information they are given with Russian
+      skepticism—something Gilbert Doctorow lacks. He may speak Russian, but the misinterpretations
+      we criticize suggest a lack of understanding of the Russian mentality and soul.
+      Doctorow Accuses Russia of Xenophobia Against His Better Judgment After spending
+      almost three weeks traveling in Russia, Dr. Doctorow posted something on his blog
+      that leaves one stunned. He describes security measures in the Russian telecommunications
+      sector as a xenophobic gust of wind and—as evidence of alleged Russian xenophobia—falsely
+      claims that foreigners without permanent residence in Russia are no longer allowed
+      to own a Russian SIM card. In his travel report , he shared the following with
+      the public on November 6, 2025: “Yesterday I transferred to my Russian wife the
+      MTS SIM card and ownership of the local telephone number which has been mine since
+      2009. Why? Because a new law or more likely a new administrative instruction from
+      the FSB bars foreigners who are not permanent residents from owning a Russian
+      telephone number. This is not tragic even for those who do not have Russian relatives
+      to help them out. But it tells you which way the wind is blowing: it is a xenophobic
+      gust.” Gilbert Doctorow, 6. November 2025 As already mentioned, Gilbert Doctorow
+      speaks fluent Russian. So it should have been easy for him to find and understand
+      the relevant regulations of the Russian state, e.g. here https://www.gosuslugi.ru/landing/sim_migrant
+      . For travelers to Russia who do not speak Russian, the situation is somewhat
+      more difficult, but by no means unsolvable, as Russians are generally very helpful
+      in such cases and travelers will be able to obtain a SIM card. If someone wants
+      to purchase a SIM card in Germany or Switzerland, they can do so at any store
+      belonging to a telephone provider or one of its contractual partners. This problem
+      can also be solved online, but only if the person concerned identifies themselves
+      with their passport. Only then will they be able to obtain a SIM card. The same
+      applied in Russia. Until the beginning of 2025, foreigners in Russia were also
+      able to purchase an unlimited number of SIM cards. Then, in June 2025, came Operation
+      Spiderweb, which we reported on: “ Operation Spiderweb: Ukraine and NATO attack
+      Russia: A new Pearl Harbor? Full escalation? Are the fanatics back? Facts and
+      analysis. ”. The Russian security agencies—the military, police, and security
+      services—determined that the Ukrainian drones were equipped with Russian SIM cards
+      that could dial into the Russian telephone network as “Russians” and “navigate”
+      to their intended targets with the help of the Russian navigation system. Investigations
+      into attacks also revealed that Russian telephone numbers were involved, whose
+      connection to specific individuals was difficult or impossible to prove. So, large
+      quantities of Russian SIM cards were purchased and brought into Ukraine, and thereby
+      Russians were killed. The new conditions for the purchase or registration of existing
+      SIM cards for foreigners, which have been in force since 2025, are intended to
+      help solve this problem. We are somewhat concerned that Dr. Doctorow was unable—or
+      unwilling?—to make the obvious connection between terrorism and measures to combat
+      it. His conclusion is surprising when he writes: “But it tells you which way the
+      wind is blowing: it is a xenophobic gust.” Gilbert Doctorow, 6 November 2025 Conclusion
+      Admittedly, it is a battle for interpretational sovereignty. This battle can be
+      fought in a spirit of friendly competition, with contrarian views being expressed.
+      Or it can be fought by resorting to means that are objectively disingenuous, by
+      attacking colleagues with false claims or accusing the Russian government and
+      Russian society of xenophobia where none exists. We fondly remember Gilbert Doctorow’s
+      valuable analyses in the past.'
+    one_sentence_summary: Gilbert Doctorow's recent criticisms of his colleagues and
+      controversial comparisons of Putin to Gorbachev have sparked backlash, with accusations
+      that his approach is harmful to Russia and undermines constructive discourse.
+    paragraph_summary: In a recent critique, Peter Hanseler responds to Gilbert Doctorow's
+      controversial analyses regarding Russia, particularly Doctorow's comparison of
+      President Putin to Gorbachev and his claims about elite efforts to remove Putin
+      from power. Hanseler defends his colleagues, Larry Johnson and Scott Ritter, against
+      Doctorow's accusations that they lack genuine insights into Russia and are merely
+      echoing Russian propaganda. He emphasizes that both Johnson and Ritter have firsthand
+      experience and connections within Russia, highlighting Ritter's independence and
+      recent activities, including the presentation of his book in Russia. Hanseler
+      argues that Doctorow's attacks are not only unfounded but also detrimental to
+      Russia's interests.
+    published: '2025-11-10T16:08:29+00:00'
+  - title: Lavrov Reaffirms Russia’s Demands to End the War as Ukraine Crumbles Under
+      Withering Attacks
+    url: https://sonar21.com/lavrov-reaffirms-russias-demands-to-end-the-war-as-ukraine-crumbles-under-withering-attacks/
+    text: 'Like Titanic passengers thrashing frantically in the icy Atlantic waters
+      grasping for something to keep them afloat in order to stay alive, US and NATO
+      officials are seizing on rumors and innuendos in a hopeless effort to salvage
+      their Ukrainian project to destroy Russia. Russian President Putin held two important
+      national security confabs last week and Foreign Minister Lavrov was not present
+      at either. That ignited a wild-fire of speculation in the West, which ranged from
+      unsourced claims that Lavrov was mad at Putin and was being pushed out of his
+      leadership role to the suggestion that Moscow’s fear of a decapitation strike
+      by the West was the real reason that Lavrov was absent from these meetings. The
+      West received a wake-up call over the weekend that dashed their dream of Russia
+      imploding from none other than Sergei Lavrov : Russia ’s top diplomat Sergey Lavrovhas
+      said he is ready to meet US Secretary of State Marco Rubio following reports of
+      a rift with President Vladimir Putin . “Secretary of State Marco Rubio and I understand
+      the need for regular communication,” the Russian Foreign Minister told Russia
+      ‘s Ria state agency on Sunday, weeks after efforts to organise a summit between
+      the Russian and US leaders were put on ice. Lavrov said he is ready to discuss
+      mending bilateral ties as well as the war in Ukraine , repeating that peace cannot
+      be achieved without “taking Russian interests into account”, a phrase Moscow has
+      used to signal it is standing firm in its maximalist demands for Ukraine . The
+      New Indian Express provided a more accurate translation of Lavrov’s remarks: Lavrov
+      said he is ready to meet US Secretary of State Marco Rubio but maintained that
+      ending the conflict is impossible without taking Russian interests into account
+      and eradicating its root causes. Once again, Moscow reiterates that this is not
+      a war about seizing territory… It is a war to eliminate the threat that NATO poses
+      to Russia. While Moscow is keeping the door open for diplomatic negotiations,
+      it has intensified its strikes on Ukraine’s energy infrastructure and is systematically
+      turning off the lights and the heat across central and western Ukraine. It is
+      even affecting Volodymyr Zelensky: According to the Deputy Minister of Energy
+      of Ukraine, the repair of Ukrainian power generation is significantly hindered
+      due to extensive destruction. He reported that : All thermal power plants of the
+      company “Centrenergo” have stopped generating electricity. This happened due to
+      a new tactic involving strikes with ballistic missiles together with drones on
+      both generation facilities and distribution systems. “There is a power deficit,
+      a shortage of spare parts. Under these conditions, hourly power outages are inevitable,
+      and they have already been introduced in most regions. The most difficult situation
+      is in Kharkov, Sumy, and Poltava regions. Up to three rounds of hourly outages
+      are in effect simultaneously there. In other regions, hourly outages reach two
+      and a half rounds,” Nekrasov stated. Sustained outages of electricity will likely
+      compel a large number of the residents of Kiev to seek refuge in cities and towns
+      west of Kiev. Meanwhile, Ukrainian volunteers are lining up enthusiastically to
+      join the war. Here is a short video of one new joyful recruit : I think the technical
+      term for this is cannon fodder . Men like this poor soul are being stuffed into
+      uniforms and sent to the front without any substantive training… And for what?
+      In 2025 alone, Ukraine is on pace to accumulate 500,000 casualties — most of those
+      KIA — by years end. They have suffered similar losses in 2023 and 2024. So it
+      is no exaggeration to report that Ukraine has incurred more than 1.5 million casualties
+      in the last 35 months. Consider this… Ukraine needs to recruit at least 40,000
+      new soldiers per month just to replace those killed and wounded along the front.
+      At some point, and I don’t know when that moment will come, the Ukrainian army
+      will break. Western analysts who insist that this war will go on for years simply
+      are not very good at math, nor do they understand what is required to produce
+      a soldier capable of fighting effectively on the front.'
+    one_sentence_summary: US and NATO officials are desperately clinging to unfounded
+      rumors about a rift between Russian President Putin and Foreign Minister Lavrov
+      in an attempt to salvage their efforts against Russia, only to be countered by
+      Lavrov's readiness to meet with US Secretary of State Marco Rubio, dispelling
+      speculation of discord.
+    paragraph_summary: US and NATO officials are clinging to speculation about a potential
+      rift between Russian President Vladimir Putin and Foreign Minister Sergey Lavrov
+      in a desperate attempt to salvage their efforts against Russia amid the ongoing
+      conflict in Ukraine. Lavrov's absence from two significant national security meetings
+      sparked rumors in the West, ranging from his alleged dissatisfaction with Putin
+      to concerns about a possible Western strike. However, Lavrov countered these narratives
+      by expressing his willingness to meet with US Secretary of State Marco Rubio to
+      discuss mending bilateral relations and the war in Ukraine, emphasizing that any
+      resolution must consider Russian interests. He reiterated that the conflict is
+      not about territorial gains but about addressing the perceived threats posed by
+      NATO to Russia, signaling Moscow's firm stance on its demands.
+    published: '2025-11-10T04:29:14+00:00'
+  - title: Lavrov Reaffirms Russia’s Demands to End the War as Ukraine Crumbles Under
+      Withering Attacks
+    url: https://sonar21.com/lavrov-reaffirms-russias-demands-to-end-the-war-as-ukraine-crumbles-under-withering-attacks/
+    text: 'Like Titanic passengers thrashing frantically in the icy Atlantic waters
+      grasping for something to keep them afloat in order to stay alive, US and NATO
+      officials are seizing on rumors and innuendos in a hopeless effort to salvage
+      their Ukrainian project to destroy Russia. Russian President Putin held two important
+      national security confabs last week and Foreign Minister Lavrov was not present
+      at either. That ignited a wild-fire of speculation in the West, which ranged from
+      unsourced claims that Lavrov was mad at Putin and was being pushed out of his
+      leadership role to the suggestion that Moscow’s fear of a decapitation strike
+      by the West was the real reason that Lavrov was absent from these meetings. The
+      West received a wake-up call over the weekend that dashed their dream of Russia
+      imploding from none other than Sergei Lavrov : Russia ’s top diplomat Sergey Lavrovhas
+      said he is ready to meet US Secretary of State Marco Rubio following reports of
+      a rift with President Vladimir Putin . “Secretary of State Marco Rubio and I understand
+      the need for regular communication,” the Russian Foreign Minister told Russia
+      ‘s Ria state agency on Sunday, weeks after efforts to organise a summit between
+      the Russian and US leaders were put on ice. Lavrov said he is ready to discuss
+      mending bilateral ties as well as the war in Ukraine , repeating that peace cannot
+      be achieved without “taking Russian interests into account”, a phrase Moscow has
+      used to signal it is standing firm in its maximalist demands for Ukraine . The
+      New Indian Express provided a more accurate translation of Lavrov’s remarks: Lavrov
+      said he is ready to meet US Secretary of State Marco Rubio but maintained that
+      ending the conflict is impossible without taking Russian interests into account
+      and eradicating its root causes. Once again, Moscow reiterates that this is not
+      a war about seizing territory… It is a war to eliminate the threat that NATO poses
+      to Russia. While Moscow is keeping the door open for diplomatic negotiations,
+      it has intensified its strikes on Ukraine’s energy infrastructure and is systematically
+      turning off the lights and the heat across central and western Ukraine. It is
+      even affecting Volodymyr Zelensky: According to the Deputy Minister of Energy
+      of Ukraine, the repair of Ukrainian power generation is significantly hindered
+      due to extensive destruction. He reported that : All thermal power plants of the
+      company “Centrenergo” have stopped generating electricity. This happened due to
+      a new tactic involving strikes with ballistic missiles together with drones on
+      both generation facilities and distribution systems. “There is a power deficit,
+      a shortage of spare parts. Under these conditions, hourly power outages are inevitable,
+      and they have already been introduced in most regions. The most difficult situation
+      is in Kharkov, Sumy, and Poltava regions. Up to three rounds of hourly outages
+      are in effect simultaneously there. In other regions, hourly outages reach two
+      and a half rounds,” Nekrasov stated. Sustained outages of electricity will likely
+      compel a large number of the residents of Kiev to seek refuge in cities and towns
+      west of Kiev. Meanwhile, Ukrainian volunteers are lining up enthusiastically to
+      join the war. Here is a short video of one new joyful recruit : I think the technical
+      term for this is cannon fodder . Men like this poor soul are being stuffed into
+      uniforms and sent to the front without any substantive training… And for what?
+      In 2025 alone, Ukraine is on pace to accumulate 500,000 casualties — most of those
+      KIA — by years end. They have suffered similar losses in 2023 and 2024. So it
+      is no exaggeration to report that Ukraine has incurred more than 1.5 million casualties
+      in the last 35 months. Consider this… Ukraine needs to recruit at least 40,000
+      new soldiers per month just to replace those killed and wounded along the front.
+      At some point, and I don’t know when that moment will come, the Ukrainian army
+      will break. Western analysts who insist that this war will go on for years simply
+      are not very good at math, nor do they understand what is required to produce
+      a soldier capable of fighting effectively on the front.'
+    one_sentence_summary: US and NATO officials are desperately clinging to unfounded
+      rumors about a rift between Russian President Putin and Foreign Minister Lavrov
+      in an attempt to salvage their efforts against Russia, only to be countered by
+      Lavrov's readiness to meet with US Secretary of State Marco Rubio, dispelling
+      speculation of discord.
+    paragraph_summary: US and NATO officials are clinging to speculation about a potential
+      rift between Russian President Vladimir Putin and Foreign Minister Sergey Lavrov
+      in a desperate attempt to salvage their efforts against Russia amid the ongoing
+      conflict in Ukraine. Lavrov's absence from two significant national security meetings
+      sparked rumors in the West, ranging from his alleged dissatisfaction with Putin
+      to concerns about a possible Western strike. However, Lavrov countered these narratives
+      by expressing his willingness to meet with US Secretary of State Marco Rubio to
+      discuss mending bilateral relations and the war in Ukraine, emphasizing that any
+      resolution must consider Russian interests. He reiterated that the conflict is
+      not about territorial gains but about addressing the perceived threats posed by
+      NATO to Russia, signaling Moscow's firm stance on its demands.
+    published: '2025-11-10T04:29:14+00:00'
+  - title: What A Wider War in Venezuela Would Bring
+    url: https://sonar21.com/what-a-wider-war-in-venezuela-would-bring/
+    text: 'November 5, 2025 ALERT MEMORANDUM FOR: The President FROM: VETERAN INTELLIGENCE
+      PROFESSIONALS FOR SANITY (VIPS) SUBJECT: What A Wider War in Venezuela Would Bring
+      Dear President Trump: W e are deeply concerned about where the United States seems
+      to be headed in its Venezuela policy and urge you to demand that the Intelligence
+      Community give you clear, unfiltered, “truth-to-power” analysis, as well as covert
+      action options in Venezuela. Flying blind into an unprovoked war against a Latin
+      American government, even one weakened by years of U.S. “maximum-pressure” sanctions,
+      risks a conflagration that could draw Russia into the conflict and offers zero
+      probability of establishing a legitimate, pro-U.S. successor government. We see
+      a classic storm of politicization brewing in the Intelligence Community, to which
+      we devoted our careers, as a result of blatant pressures that it give you the
+      “right” answer – fabricating or exaggerating a pretext for direct military intervention
+      in Venezuela. The State Department’s cancellation of views that don’t coincide
+      with its own, and the intelligence community leadership’s firing of senior analysts
+      whose classified, honest analysis contradicted unfounded Administration allegations
+      that Venezuelan President Nicolás Maduro controls the Tren de Aragua gang and
+      is using it to attack the United States have chilled collectors’ and analysts’
+      willingness to provide you unbiased, neutral, accurate intelligence. We have seen
+      this before – during numerous intelligence and foreign policy debacles, including
+      the fake allegations about weapons of mass destruction in Iraq. And we remember
+      the disastrous consequences for the country and its leaders. There is room for
+      some debate on the rationale for some sanctions on Venezuela. Maduro’s management
+      of elections has been correctly questioned, for example. But U.S. opposition to
+      the changes ushered in by the late President Chávez’s election in 1999 has been,
+      for most of these 26 years, implacable. The U.S. government, under Presidents
+      from both parties, has imposed sanctions to paralyze the country’s economy; identified,
+      trained, and funded opponents, including some who have resorted to violence similar
+      to that we accuse the government of; and – even more important – has supported
+      several failed attempts to overthrow the Chávez and Maduro Governments (with varying
+      levels of involvement), including a blatant attempt to assassinate Maduro in plain
+      daylight. The results have been disastrous for U.S. interests: Maduro has been
+      better at mobilizing support on the street than at managing the economy, but U.S.
+      sanctions – aimed to destroy an oil industry that accounts for 90 percent of national
+      revenues – have been the overwhelming driver of the exodus of millions of Venezuelans
+      to neighboring countries and the United States. Popular exhaustion from U.S. sanctions
+      and, more recently, fear of U.S. military attacks have indeed fueled desperation
+      among some Venezuelan citizens – who might welcome peace even at the expense of
+      a coup – but Washington policies have actually unified Maduro’s leadership team.
+      The military officers, who the U.S. apparently is counting on to rise up, fear
+      what U.S. justice and a successor government will do to them. The administration’s
+      designation of Maduro as the capo of the Cartel de los Soles , the existence of
+      which is unproven, and as a “narcoterrorist” as president of a country that produces
+      no drugs and has no direct hand in their transport, is evidence to the military
+      that Washington could eventually make up whatever “facts” it wants to hunt them
+      down too. An opposition coalition did well in the last national elections, but
+      the U.S.-favored faction and its leaders have split it so badly that it’s extremely
+      unlikely that they will be able to unite the nation and government. Their rhetoric
+      features pro-democracy slogans, but almost all serious analysts see little evidence
+      that they would have the discipline to resist strong temptations to unbridled
+      power – and revenge. U.S. “maximum-pressure” policies and saber-rattling in the
+      Caribbean make us look like bullies throughout Latin America if not the world
+      – a hegemon desperate to show it can act ruthlessly and with impunity in what
+      it considers its backyard. The Administration has provided no evidence that the
+      fast boats that it has destroyed were carrying drugs to the United States, while
+      most evidence points to the conclusion that they were not. Although some Latin
+      American governments haven’t concealed their dislike of Maduro, they are embarrassed
+      that the United States resorts only to sticks, including threats of military attack,
+      with no credible prospect of negotiations or carrots. They know history better
+      than we do: What we do to their neighbors is in our arsenal against them eventually
+      – if they ever dare to cross us. That fear makes for false allies. Threats of
+      coups and military intervention are the most counterproductive. Perhaps U.S. intelligence
+      operatives are telling you that they have assets in place who can kidnap or assassinate
+      Maduro in a lightning operation, but we suggest that you demand proof. C.I.A.
+      apparently convinced then-National Security Advisor John Bolton that people in
+      the military were ready to launch when U.S.-designated President Juan Guaidó called
+      on them to rise up in April 2019 to complete the “final phase” of overthrowing
+      Maduro. It was a massive failure. Caracas and each military command is Maduro’s
+      territory, so anyone claiming to make clean recruitments right under his nose
+      must demonstrate that they actually have. U.S. history in Latin America shows,
+      moreover, that U.S.-instigated and supported coups do not lead to stability, democracy,
+      or human rights. The same appears obvious if the overthrow is effected by U.S.
+      special operations personnel and a figurehead is installed. Most dangerous, of
+      course, is the prospect of war – a wider and/or “forever” war – with Venezuela
+      and its foreign supporters. We believe that Russia, and possibly even China, would
+      feel obligated to enhance military support in response to a missile, air, or even
+      drone strike on sovereign Venezuelan territory and military and civilian installations.
+      Escalation would be almost inevitable. U.S. warships off the coast are not immune
+      to anti-ship coastal missiles. If just one pierced the Navy’s formidable air-defense
+      systems, you may have to decide whether to mount another ill-advised, benighted,
+      Bay-of-Pigs-type operation. Despite what others may tell you, this would be a
+      singularly bad idea. We hope you know that in 1961 C.I.A. analysts were not asked
+      for precisely the kind of intelligence assessment we believe you should require
+      of the intelligence community now on Venezuela. Keeping C.I.A. analysts in the
+      dark, then-C.I.A. Director Allen Dulles deceived President Kennedy by claiming
+      the Cuban people would overthrow Castro once Dulles’s ragtag forces landed on
+      the beach. Forty years later, one of George W. Bush advisers on Iraq predicted
+      that the war would be a “cake walk”. U.S. boots on the ground would put U.S. men
+      and women into an insecure environment, with armed popular resistance, and into
+      another fundamentally political war for which they are ill-prepared. U.S. forces
+      are good at destroying governments and structures but not establishing new ones.
+      Our troops would be bloodied and humiliated – and, in our view, fail again. We
+      appreciate that individuals in your administration want to “win one” for you and,
+      in doing so, advance their own political credibility. But 26 years of failed policy
+      toward Venezuela are not a sound foundation for making even bigger mistakes. FOR
+      THE STEERING GROUP VETERAN INTELLIGENCE PROFESSIONALS FOR SANITY (VIPS) Fulton
+      Armstrong , National Intelligence Officer for Latin America (ret.) William Binney
+      , NSA Technical Director for World Geopolitical & Military Analysis; Co-founder
+      of NSA’s Signals Intelligence Automation Research Center (ret.) Marshall Carter-Tripp
+      , Foreign Service Officer (ret.) and Division Director, State Department Bureau
+      of Intelligence and Research Graham E. Fuller , Vice-Chair, National Intelligence
+      Council (ret.) Philip Girald i, C.I.A., Operations Officer (ret.) Matthew Hoh
+      , former Capt., USMC, Iraq & Foreign Service Officer, Afghanistan (associate VIPS)
+      Larry Johnson , former C.I.A. Intelligence Officer & former State Department Counter-Terrorism
+      Official (ret.) John Kiriakou , former C.I.A. Counterterrorism Officer and former
+      senior investigator, Senate Foreign Relations Committee Karen Kwiatkowski , former
+      Lt. Col., U.S. Air Force (ret.), at Office of Secretary of Defense watching the
+      manufacture of lies on Iraq, 2001-2003 Edward Loomis , Cryptologic Computer Scientist,
+      former Technical Director at NSA (ret.) Ray McGovern , former U.S. Army infantry/intelligence
+      officer & C.I.A. analyst; C.I.A. Presidential briefer (ret.) Elizabeth Murray
+      , former Deputy National Intelligence Officer for the Near East, National Intelligence
+      Council & C.I.A. political analyst (ret.) Scott Ritter , former MAJ., USMC, former
+      UN Weapon Inspector, Iraq Coleen Rowley , F.B.I. Special Agent and former Minneapolis
+      Division Legal Counsel (ret.) Sarah G. Wilton , CDR, USNR, (ret.)/D.I.A., (ret.)
+      Robert Wing , former Foreign Service Officer (associate VIPS) Ann Wright , Col.,
+      U.S. Army (ret.); Foreign Service Officer (resigned in opposition to the war on
+      Iraq) I thank you for your invaluable support by taking time to read or comment.
+      I do not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The Veteran Intelligence Professionals for Sanity (VIPS) warn
+      President Trump against escalating U.S. involvement in Venezuela, urging him to
+      seek honest intelligence analysis to avoid an unprovoked war that could escalate
+      into a broader conflict involving Russia and fail to establish a pro-U.S. government.
+    paragraph_summary: In a memorandum dated November 5, 2025, the Veteran Intelligence
+      Professionals for Sanity (VIPS) express grave concerns to President Trump regarding
+      the U.S. approach to Venezuela, urging him to seek unfiltered intelligence analysis
+      and covert action options. They warn that an unprovoked military intervention
+      could escalate into a larger conflict, potentially involving Russia, and would
+      unlikely result in a pro-U.S. government. The memo highlights issues of politicization
+      within the Intelligence Community, where analysts face pressure to conform to
+      the Administration's narrative, undermining the integrity of intelligence assessments.
+      The authors draw parallels to past intelligence failures, such as the Iraq War,
+      and caution against repeating history by fabricating justifications for military
+      action. While acknowledging some valid criticisms of Venezuela's leadership, they
+      argue that the U.S. has maintained an unyielding opposition to the country's political
+      changes since 1999.
+    published: '2025-11-09T03:27:35+00:00'
+  - title: What A Wider War in Venezuela Would Bring
+    url: https://sonar21.com/what-a-wider-war-in-venezuela-would-bring/
+    text: 'November 5, 2025 ALERT MEMORANDUM FOR: The President FROM: VETERAN INTELLIGENCE
+      PROFESSIONALS FOR SANITY (VIPS) SUBJECT: What A Wider War in Venezuela Would Bring
+      Dear President Trump: W e are deeply concerned about where the United States seems
+      to be headed in its Venezuela policy and urge you to demand that the Intelligence
+      Community give you clear, unfiltered, “truth-to-power” analysis, as well as covert
+      action options in Venezuela. Flying blind into an unprovoked war against a Latin
+      American government, even one weakened by years of U.S. “maximum-pressure” sanctions,
+      risks a conflagration that could draw Russia into the conflict and offers zero
+      probability of establishing a legitimate, pro-U.S. successor government. We see
+      a classic storm of politicization brewing in the Intelligence Community, to which
+      we devoted our careers, as a result of blatant pressures that it give you the
+      “right” answer – fabricating or exaggerating a pretext for direct military intervention
+      in Venezuela. The State Department’s cancellation of views that don’t coincide
+      with its own, and the intelligence community leadership’s firing of senior analysts
+      whose classified, honest analysis contradicted unfounded Administration allegations
+      that Venezuelan President Nicolás Maduro controls the Tren de Aragua gang and
+      is using it to attack the United States have chilled collectors’ and analysts’
+      willingness to provide you unbiased, neutral, accurate intelligence. We have seen
+      this before – during numerous intelligence and foreign policy debacles, including
+      the fake allegations about weapons of mass destruction in Iraq. And we remember
+      the disastrous consequences for the country and its leaders. There is room for
+      some debate on the rationale for some sanctions on Venezuela. Maduro’s management
+      of elections has been correctly questioned, for example. But U.S. opposition to
+      the changes ushered in by the late President Chávez’s election in 1999 has been,
+      for most of these 26 years, implacable. The U.S. government, under Presidents
+      from both parties, has imposed sanctions to paralyze the country’s economy; identified,
+      trained, and funded opponents, including some who have resorted to violence similar
+      to that we accuse the government of; and – even more important – has supported
+      several failed attempts to overthrow the Chávez and Maduro Governments (with varying
+      levels of involvement), including a blatant attempt to assassinate Maduro in plain
+      daylight. The results have been disastrous for U.S. interests: Maduro has been
+      better at mobilizing support on the street than at managing the economy, but U.S.
+      sanctions – aimed to destroy an oil industry that accounts for 90 percent of national
+      revenues – have been the overwhelming driver of the exodus of millions of Venezuelans
+      to neighboring countries and the United States. Popular exhaustion from U.S. sanctions
+      and, more recently, fear of U.S. military attacks have indeed fueled desperation
+      among some Venezuelan citizens – who might welcome peace even at the expense of
+      a coup – but Washington policies have actually unified Maduro’s leadership team.
+      The military officers, who the U.S. apparently is counting on to rise up, fear
+      what U.S. justice and a successor government will do to them. The administration’s
+      designation of Maduro as the capo of the Cartel de los Soles , the existence of
+      which is unproven, and as a “narcoterrorist” as president of a country that produces
+      no drugs and has no direct hand in their transport, is evidence to the military
+      that Washington could eventually make up whatever “facts” it wants to hunt them
+      down too. An opposition coalition did well in the last national elections, but
+      the U.S.-favored faction and its leaders have split it so badly that it’s extremely
+      unlikely that they will be able to unite the nation and government. Their rhetoric
+      features pro-democracy slogans, but almost all serious analysts see little evidence
+      that they would have the discipline to resist strong temptations to unbridled
+      power – and revenge. U.S. “maximum-pressure” policies and saber-rattling in the
+      Caribbean make us look like bullies throughout Latin America if not the world
+      – a hegemon desperate to show it can act ruthlessly and with impunity in what
+      it considers its backyard. The Administration has provided no evidence that the
+      fast boats that it has destroyed were carrying drugs to the United States, while
+      most evidence points to the conclusion that they were not. Although some Latin
+      American governments haven’t concealed their dislike of Maduro, they are embarrassed
+      that the United States resorts only to sticks, including threats of military attack,
+      with no credible prospect of negotiations or carrots. They know history better
+      than we do: What we do to their neighbors is in our arsenal against them eventually
+      – if they ever dare to cross us. That fear makes for false allies. Threats of
+      coups and military intervention are the most counterproductive. Perhaps U.S. intelligence
+      operatives are telling you that they have assets in place who can kidnap or assassinate
+      Maduro in a lightning operation, but we suggest that you demand proof. C.I.A.
+      apparently convinced then-National Security Advisor John Bolton that people in
+      the military were ready to launch when U.S.-designated President Juan Guaidó called
+      on them to rise up in April 2019 to complete the “final phase” of overthrowing
+      Maduro. It was a massive failure. Caracas and each military command is Maduro’s
+      territory, so anyone claiming to make clean recruitments right under his nose
+      must demonstrate that they actually have. U.S. history in Latin America shows,
+      moreover, that U.S.-instigated and supported coups do not lead to stability, democracy,
+      or human rights. The same appears obvious if the overthrow is effected by U.S.
+      special operations personnel and a figurehead is installed. Most dangerous, of
+      course, is the prospect of war – a wider and/or “forever” war – with Venezuela
+      and its foreign supporters. We believe that Russia, and possibly even China, would
+      feel obligated to enhance military support in response to a missile, air, or even
+      drone strike on sovereign Venezuelan territory and military and civilian installations.
+      Escalation would be almost inevitable. U.S. warships off the coast are not immune
+      to anti-ship coastal missiles. If just one pierced the Navy’s formidable air-defense
+      systems, you may have to decide whether to mount another ill-advised, benighted,
+      Bay-of-Pigs-type operation. Despite what others may tell you, this would be a
+      singularly bad idea. We hope you know that in 1961 C.I.A. analysts were not asked
+      for precisely the kind of intelligence assessment we believe you should require
+      of the intelligence community now on Venezuela. Keeping C.I.A. analysts in the
+      dark, then-C.I.A. Director Allen Dulles deceived President Kennedy by claiming
+      the Cuban people would overthrow Castro once Dulles’s ragtag forces landed on
+      the beach. Forty years later, one of George W. Bush advisers on Iraq predicted
+      that the war would be a “cake walk”. U.S. boots on the ground would put U.S. men
+      and women into an insecure environment, with armed popular resistance, and into
+      another fundamentally political war for which they are ill-prepared. U.S. forces
+      are good at destroying governments and structures but not establishing new ones.
+      Our troops would be bloodied and humiliated – and, in our view, fail again. We
+      appreciate that individuals in your administration want to “win one” for you and,
+      in doing so, advance their own political credibility. But 26 years of failed policy
+      toward Venezuela are not a sound foundation for making even bigger mistakes. FOR
+      THE STEERING GROUP VETERAN INTELLIGENCE PROFESSIONALS FOR SANITY (VIPS) Fulton
+      Armstrong , National Intelligence Officer for Latin America (ret.) William Binney
+      , NSA Technical Director for World Geopolitical & Military Analysis; Co-founder
+      of NSA’s Signals Intelligence Automation Research Center (ret.) Marshall Carter-Tripp
+      , Foreign Service Officer (ret.) and Division Director, State Department Bureau
+      of Intelligence and Research Graham E. Fuller , Vice-Chair, National Intelligence
+      Council (ret.) Philip Girald i, C.I.A., Operations Officer (ret.) Matthew Hoh
+      , former Capt., USMC, Iraq & Foreign Service Officer, Afghanistan (associate VIPS)
+      Larry Johnson , former C.I.A. Intelligence Officer & former State Department Counter-Terrorism
+      Official (ret.) John Kiriakou , former C.I.A. Counterterrorism Officer and former
+      senior investigator, Senate Foreign Relations Committee Karen Kwiatkowski , former
+      Lt. Col., U.S. Air Force (ret.), at Office of Secretary of Defense watching the
+      manufacture of lies on Iraq, 2001-2003 Edward Loomis , Cryptologic Computer Scientist,
+      former Technical Director at NSA (ret.) Ray McGovern , former U.S. Army infantry/intelligence
+      officer & C.I.A. analyst; C.I.A. Presidential briefer (ret.) Elizabeth Murray
+      , former Deputy National Intelligence Officer for the Near East, National Intelligence
+      Council & C.I.A. political analyst (ret.) Scott Ritter , former MAJ., USMC, former
+      UN Weapon Inspector, Iraq Coleen Rowley , F.B.I. Special Agent and former Minneapolis
+      Division Legal Counsel (ret.) Sarah G. Wilton , CDR, USNR, (ret.)/D.I.A., (ret.)
+      Robert Wing , former Foreign Service Officer (associate VIPS) Ann Wright , Col.,
+      U.S. Army (ret.); Foreign Service Officer (resigned in opposition to the war on
+      Iraq) I thank you for your invaluable support by taking time to read or comment.
+      I do not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The Veteran Intelligence Professionals for Sanity (VIPS) warn
+      President Trump against escalating U.S. involvement in Venezuela, urging him to
+      seek honest intelligence analysis to avoid an unprovoked war that could escalate
+      into a broader conflict involving Russia and fail to establish a pro-U.S. government.
+    paragraph_summary: In a memorandum dated November 5, 2025, the Veteran Intelligence
+      Professionals for Sanity (VIPS) express grave concerns to President Trump regarding
+      the U.S. approach to Venezuela, urging him to seek unfiltered intelligence analysis
+      and covert action options. They warn that an unprovoked military intervention
+      could escalate into a larger conflict, potentially involving Russia, and would
+      unlikely result in a pro-U.S. government. The memo highlights issues of politicization
+      within the Intelligence Community, where analysts face pressure to conform to
+      the Administration's narrative, undermining the integrity of intelligence assessments.
+      The authors draw parallels to past intelligence failures, such as the Iraq War,
+      and caution against repeating history by fabricating justifications for military
+      action. While acknowledging some valid criticisms of Venezuela's leadership, they
+      argue that the U.S. has maintained an unyielding opposition to the country's political
+      changes since 1999.
+    published: '2025-11-09T03:27:35+00:00'
+  - title: Countering the Myths of Western Analysts on Ukraine
+    url: https://sonar21.com/countering-the-myths-of-western-analysts-on-ukraine/
+    text: 'George Friedman, who writes at Geopolitical Futures has an undeserved reputation
+      as a good analyst… He is not. His latest piece — Russia’s New War of Attrition
+      — reveals a profound ignorance about Russia’s strategic goals and tactical operations.
+      The very title of Friedman’s article shows that he is terribly misinformed… Russia
+      has been executing a successful war of attrition since 2023. He begins his piece
+      with a false strawman : The initial invasion in 2022 consisted of several separate
+      and relatively narrow thrusts designed to achieve a rapid victory. One was meant
+      to seize the capital of Kyiv, while the others were meant to penetrate central
+      Ukraine. The strategy was designed to shatter and sever Ukrainian forces and,
+      ultimately, occupy the country. This is the Western narrative, but it is wrong.
+      Russia’s initial objective with the launch of the Special Military Operation (SMO)
+      was to create military pressure to compel Ukraine to negotiate. Russia’s initial
+      force involved an estimated 125,000 soldiers going up against more than 300,000
+      Ukrainians. At no time did Russia field a force capable of shattering and serving
+      Ukrainian forces in order to occupy the country. Instead, Russia achieved its
+      objective of bringing Ukraine to the table to negotiate an end to the SMO… Negotiations
+      started in March and a tentative agreement to end the conflict was reached in
+      late March. As a sign of goodwill, Putin ordered Russian forces to withdraw the
+      tank columns starting 31 March that controlled the territory north of Kiev. According
+      to Russian Foreign Minister Lavrov, Russia had agreed to the terms originally
+      submitted by the Ukrainian delegation. That agreement collapsed because the US
+      and UK ordered President Zelensky not to move forward with the agreement. It is
+      important to note that during the six weeks — starting the last week of February
+      2022 — that an enormous column of tanks sat in place north of Kiev, the Ukrainian
+      army failed to launch operations that could have destroyed a large portion of
+      those tanks. The Russians withdrew, suffering very few casualties. Friedman continues
+      with this delusional claim: These failures forced Moscow to adopt a new strategy
+      of massed forces in an attempt to overrun and destroy Ukrainian defenders along
+      the front held by the eastern thrust. In other words, what began as rapid movement
+      on multiple fronts became a battle of mass warfare that stalled in equal parts
+      because of effective Ukrainian defenses, drone strikes against Russian forces
+      and logistics problems that halted advances. Nope. With the collapse of negotiations,
+      the Russian General Staff launched the operation to close the gap in the line
+      of contact around Mariupol. By the end of May 2022, Russia took control of Mariupol
+      and captured thousands of Ukrainian soldiers. By August of 2022, Russia faced
+      a manpower shortage because the contracts for thousands of Russian soldiers expired.
+      Putin responded by mobilizing 300,000 reservists and prepared Russia for a prolonged
+      war of attrition. Between September 2022 and December 2022, Russian forces vacated
+      the west bank of Kherson and began erecting lines of defense in Zaporhyzhia and
+      Donetsk. The war of attrition began in earnest in January 2023, with the Battle
+      of Bakhmut. Russia committed ~45,000 troops (including Wagner PMC) in brutal urban
+      assaults to capture the ruined city, using “meat grinder” tactics with convict
+      recruits. Russia secured the city in May. Ukraine, under the de facto command
+      of the United States, launched an offensive in June of 2023, vowing to retake
+      Mariupol and bath in the Black Sea by August. Russia’s preparations to counter
+      the anticipated Ukrainian counteroffensive, and a defensive buildup that largely
+      blunted Ukraine’s summer push expanded the attrition of the Ukrainian army. Russian
+      forces prioritized depth in minefields, artillery dominance (firing 3–5 times
+      more shells daily than Ukraine). Lacking airpower, and facing Russian forces entrenched
+      in three inter-locking lines of defense, the Ukrainians suffered massive casualties
+      by launching human wave attacks, losing tens of thousands of soldiers and more
+      than a thousand tanks and armored fighting vehicles before the fighting subsided
+      in September. It was a debacle. Friedman’s ignorance of what actually happened
+      on the ground in Ukraine is on display in the following paragraph: Wars of attrition
+      have as their foundation the mathematical ability of each side to absorb casualties
+      and remain effective, with the larger force simply outlasting the smaller one.
+      . . . The problem in this sort of warfare is that the defenders, in this case
+      Ukrainians, will be better able to constantly retreat, giving them the advantage
+      of reducing the length of their supply lines. The attackers’ supply lines are
+      much longer, which amplifies normal supply issues and invites drone attacks. For
+      Russia, then, the key to this strategy is to prevent Ukrainian forces from retreating
+      and drawing the battle closer to reinforcement and resupply. What has happened
+      in Ukraine since January 2024 is an unrelenting decimation of Ukrainian forces.
+      Russia’s alleged slow advance is not due to lack of capability on the part of
+      Russian forces. Instead, Russia’s General Staff has conducted operations designed
+      to minimize Russian losses while inflicting the maximum damage possible on Ukrainian
+      forces. It is Ukraine, not Russia, that is struggling to keep open lines of communication
+      essential for resupply. I will conclude with this incredible piece of advice from
+      Friedman for the Ukrainians: For Ukraine, the best strategy is to avoid encirclement,
+      constantly moving closer to supply and reinforcement and drawing the Russians
+      away from their bases, and to carry out this withdrawal at a fast enough rate
+      to force a Russian logistics failure. Does this guy even read the news? Ukrainian
+      forces are currently facing encirclement in Kupyansk… And in the case of Pokrovsk,
+      they have been defeated. As of November 2025, Russia surrounded the city of Pokrovsk
+      in eastern Ukraine. After a prolonged battle lasting over 18 months, Russian forces
+      have destroyed Ukrainian defenses within and around the city. Russia cut key supply
+      routes, heavily damaged infrastructure, and made significant advances within the
+      city itself, including penetrating central areas and the southern districts. A
+      similar fate awaits Ukrainian forces in Kupyansk. Russian forces have captured
+      most of Kupyansk’s western half and are building up their presence in central
+      Kupyansk. Russian troops have advanced toward the crossings over the Oskil River,
+      which Ukraine uses to supply its bridgehead on the eastern bank. Open-source videos
+      show Russian assault troops operating even on the southern outskirts of the city’s
+      western half near these crossings. The Russian army is reported to be completing
+      a sweep of the western part of Kupyansk with ongoing street battles. Russian forces
+      have made advances in the eastern part of Kupyansk and are working to consolidate
+      their control. In short, Russia’s war of attrition is achieving tangible results
+      in reducing the combat effectiveness of Ukrainian soldiers. In addition to my
+      usual Friday chat with Nima and Colonel Wilkerson, and the Friday Roundtable with
+      Judge Napolitano and Ray McGovern, I interviewed Doug MacGregor on Thursday and
+      just posted the interview at Counter Currents : I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: George Friedman’s analysis of Russia's military strategy in
+      his article "Russia’s New War of Attrition" is criticized for misrepresenting
+      Russia's objectives and tactics, particularly by framing the initial invasion
+      as a rapid victory attempt rather than a strategy aimed at pressuring Ukraine
+      into negotiations.
+    paragraph_summary: George Friedman, a writer for Geopolitical Futures, is criticized
+      for his analysis of Russia's military strategy in his article "Russia’s New War
+      of Attrition," which the author argues is fundamentally flawed. The critique highlights
+      that Friedman misrepresents Russia's initial objectives during the 2022 invasion,
+      claiming that the goal was not to rapidly occupy Ukraine but rather to exert military
+      pressure to force negotiations. The author contends that Russia's strategy involved
+      a limited force of 125,000 troops against a larger Ukrainian army, and that negotiations
+      were initiated in March 2022, with a tentative agreement reached before being
+      derailed by external pressures from the US and UK. The critique emphasizes that
+      Friedman’s portrayal of the conflict reflects a misunderstanding of Russia's strategic
+      aims and the dynamics of the war.
+    published: '2025-11-08T04:53:23+00:00'
+  - title: Countering the Myths of Western Analysts on Ukraine
+    url: https://sonar21.com/countering-the-myths-of-western-analysts-on-ukraine/
+    text: 'George Friedman, who writes at Geopolitical Futures has an undeserved reputation
+      as a good analyst… He is not. His latest piece — Russia’s New War of Attrition
+      — reveals a profound ignorance about Russia’s strategic goals and tactical operations.
+      The very title of Friedman’s article shows that he is terribly misinformed… Russia
+      has been executing a successful war of attrition since 2023. He begins his piece
+      with a false strawman : The initial invasion in 2022 consisted of several separate
+      and relatively narrow thrusts designed to achieve a rapid victory. One was meant
+      to seize the capital of Kyiv, while the others were meant to penetrate central
+      Ukraine. The strategy was designed to shatter and sever Ukrainian forces and,
+      ultimately, occupy the country. This is the Western narrative, but it is wrong.
+      Russia’s initial objective with the launch of the Special Military Operation (SMO)
+      was to create military pressure to compel Ukraine to negotiate. Russia’s initial
+      force involved an estimated 125,000 soldiers going up against more than 300,000
+      Ukrainians. At no time did Russia field a force capable of shattering and serving
+      Ukrainian forces in order to occupy the country. Instead, Russia achieved its
+      objective of bringing Ukraine to the table to negotiate an end to the SMO… Negotiations
+      started in March and a tentative agreement to end the conflict was reached in
+      late March. As a sign of goodwill, Putin ordered Russian forces to withdraw the
+      tank columns starting 31 March that controlled the territory north of Kiev. According
+      to Russian Foreign Minister Lavrov, Russia had agreed to the terms originally
+      submitted by the Ukrainian delegation. That agreement collapsed because the US
+      and UK ordered President Zelensky not to move forward with the agreement. It is
+      important to note that during the six weeks — starting the last week of February
+      2022 — that an enormous column of tanks sat in place north of Kiev, the Ukrainian
+      army failed to launch operations that could have destroyed a large portion of
+      those tanks. The Russians withdrew, suffering very few casualties. Friedman continues
+      with this delusional claim: These failures forced Moscow to adopt a new strategy
+      of massed forces in an attempt to overrun and destroy Ukrainian defenders along
+      the front held by the eastern thrust. In other words, what began as rapid movement
+      on multiple fronts became a battle of mass warfare that stalled in equal parts
+      because of effective Ukrainian defenses, drone strikes against Russian forces
+      and logistics problems that halted advances. Nope. With the collapse of negotiations,
+      the Russian General Staff launched the operation to close the gap in the line
+      of contact around Mariupol. By the end of May 2022, Russia took control of Mariupol
+      and captured thousands of Ukrainian soldiers. By August of 2022, Russia faced
+      a manpower shortage because the contracts for thousands of Russian soldiers expired.
+      Putin responded by mobilizing 300,000 reservists and prepared Russia for a prolonged
+      war of attrition. Between September 2022 and December 2022, Russian forces vacated
+      the west bank of Kherson and began erecting lines of defense in Zaporhyzhia and
+      Donetsk. The war of attrition began in earnest in January 2023, with the Battle
+      of Bakhmut. Russia committed ~45,000 troops (including Wagner PMC) in brutal urban
+      assaults to capture the ruined city, using “meat grinder” tactics with convict
+      recruits. Russia secured the city in May. Ukraine, under the de facto command
+      of the United States, launched an offensive in June of 2023, vowing to retake
+      Mariupol and bath in the Black Sea by August. Russia’s preparations to counter
+      the anticipated Ukrainian counteroffensive, and a defensive buildup that largely
+      blunted Ukraine’s summer push expanded the attrition of the Ukrainian army. Russian
+      forces prioritized depth in minefields, artillery dominance (firing 3–5 times
+      more shells daily than Ukraine). Lacking airpower, and facing Russian forces entrenched
+      in three inter-locking lines of defense, the Ukrainians suffered massive casualties
+      by launching human wave attacks, losing tens of thousands of soldiers and more
+      than a thousand tanks and armored fighting vehicles before the fighting subsided
+      in September. It was a debacle. Friedman’s ignorance of what actually happened
+      on the ground in Ukraine is on display in the following paragraph: Wars of attrition
+      have as their foundation the mathematical ability of each side to absorb casualties
+      and remain effective, with the larger force simply outlasting the smaller one.
+      . . . The problem in this sort of warfare is that the defenders, in this case
+      Ukrainians, will be better able to constantly retreat, giving them the advantage
+      of reducing the length of their supply lines. The attackers’ supply lines are
+      much longer, which amplifies normal supply issues and invites drone attacks. For
+      Russia, then, the key to this strategy is to prevent Ukrainian forces from retreating
+      and drawing the battle closer to reinforcement and resupply. What has happened
+      in Ukraine since January 2024 is an unrelenting decimation of Ukrainian forces.
+      Russia’s alleged slow advance is not due to lack of capability on the part of
+      Russian forces. Instead, Russia’s General Staff has conducted operations designed
+      to minimize Russian losses while inflicting the maximum damage possible on Ukrainian
+      forces. It is Ukraine, not Russia, that is struggling to keep open lines of communication
+      essential for resupply. I will conclude with this incredible piece of advice from
+      Friedman for the Ukrainians: For Ukraine, the best strategy is to avoid encirclement,
+      constantly moving closer to supply and reinforcement and drawing the Russians
+      away from their bases, and to carry out this withdrawal at a fast enough rate
+      to force a Russian logistics failure. Does this guy even read the news? Ukrainian
+      forces are currently facing encirclement in Kupyansk… And in the case of Pokrovsk,
+      they have been defeated. As of November 2025, Russia surrounded the city of Pokrovsk
+      in eastern Ukraine. After a prolonged battle lasting over 18 months, Russian forces
+      have destroyed Ukrainian defenses within and around the city. Russia cut key supply
+      routes, heavily damaged infrastructure, and made significant advances within the
+      city itself, including penetrating central areas and the southern districts. A
+      similar fate awaits Ukrainian forces in Kupyansk. Russian forces have captured
+      most of Kupyansk’s western half and are building up their presence in central
+      Kupyansk. Russian troops have advanced toward the crossings over the Oskil River,
+      which Ukraine uses to supply its bridgehead on the eastern bank. Open-source videos
+      show Russian assault troops operating even on the southern outskirts of the city’s
+      western half near these crossings. The Russian army is reported to be completing
+      a sweep of the western part of Kupyansk with ongoing street battles. Russian forces
+      have made advances in the eastern part of Kupyansk and are working to consolidate
+      their control. In short, Russia’s war of attrition is achieving tangible results
+      in reducing the combat effectiveness of Ukrainian soldiers. In addition to my
+      usual Friday chat with Nima and Colonel Wilkerson, and the Friday Roundtable with
+      Judge Napolitano and Ray McGovern, I interviewed Doug MacGregor on Thursday and
+      just posted the interview at Counter Currents : I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: George Friedman’s analysis of Russia's military strategy in
+      his article "Russia’s New War of Attrition" is criticized for misrepresenting
+      Russia's objectives and tactics, particularly by framing the initial invasion
+      as a rapid victory attempt rather than a strategy aimed at pressuring Ukraine
+      into negotiations.
+    paragraph_summary: George Friedman, a writer for Geopolitical Futures, is criticized
+      for his analysis of Russia's military strategy in his article "Russia’s New War
+      of Attrition," which the author argues is fundamentally flawed. The critique highlights
+      that Friedman misrepresents Russia's initial objectives during the 2022 invasion,
+      claiming that the goal was not to rapidly occupy Ukraine but rather to exert military
+      pressure to force negotiations. The author contends that Russia's strategy involved
+      a limited force of 125,000 troops against a larger Ukrainian army, and that negotiations
+      were initiated in March 2022, with a tentative agreement reached before being
+      derailed by external pressures from the US and UK. The critique emphasizes that
+      Friedman’s portrayal of the conflict reflects a misunderstanding of Russia's strategic
+      aims and the dynamics of the war.
+    published: '2025-11-08T04:53:23+00:00'
+  - title: America First versus Israel First
+    url: https://sonar21.com/america-first-versus-israel-first/
+    text: 'Donald Trump has a rape problem that involves Israel and it is sinking his
+      Presidency. First was his decision to not release the Epstein files, nothwithstanding
+      his prior campaign promise to do so, because those files reportedly implicate
+      Israel in espionage activity that involved Epstein gathering compromising material
+      on prominent businessmen, bankers and politicians. Here’s a timeline of Trump’s
+      political evolution regarding Epstein: Second, there is the Palestinian rape controversy
+      , which refers to a series of explosive allegations and investigations into sexual
+      violence against Palestinian detainees by Israeli Security Forces (ISF), particularly
+      since the October 7, 2023, Hamas attacks. This issue escalated dramatically in
+      late October 2025, triggered by the leak of graphic video evidence from the Sde
+      Teiman detention facility, leading to high-level resignations, criminal probes,
+      and intense domestic political divisions. What began as reports of isolated abuses
+      has snowballed into accusations of systematic sexual and gender-based violence
+      as a tool of war, drawing UN condemnations and fueling debates over IDF accountability,
+      government cover-ups, and Israel’s international image. The controversy pits Israel’s
+      right-wing leadership (who decry it as a “blood libel”) against human rights groups
+      and opposition figures demanding transparency. These two incidents are fueling
+      a widening split between Trump’s America First supporters and the Republican Zionists,
+      such as Ted Cruz and Lindsey Graham. The Republican Jewish Coalition’s (RJC) annual
+      leadership summit, held October 31–November 2, 2025, at the Venetian Resort in
+      Las Vegas, Nevada brought this ideological war between MAGA and the Zionists into
+      the open… It was an ugly affair. Originally planned as a celebratory event to
+      highlight President Trump’s Middle East achievements (e.g., the recent Israel-Hamas
+      ceasefire), it devolved into a flashpoint for intra-GOP tensions over antisemitism,
+      particularly Carlson’s influence. The catalyst was Carlson’s October 25, 2025,
+      podcast interview with Nick Fuentes, who Zionists label as white supremacist and
+      Holocaust denier. Ultra-Zionists, such as Mark Levine and Congressman Randy Fine,
+      labeled Tucker as a Nazi and anti-semite because Carlson allegedly failed to challenge
+      Fuentes’s praise of Adolf Hitler, his calls for Israel’s extermination, and his
+      defense of Hamas. If you actually watched the interview with Fuentes, you know
+      that these are scurrilous, defamatory claims. Tucker pushed back on Fuentes. What
+      has the Zionist crowd fuming is that Tucker advocated for an American First policy
+      instead of putting Israel’s interests as the primary obligation of alleged conservatives.
+      The coalition that secured Trump’s second term has dissolved, and there now is
+      a heated verbal civil war between the ardent MAGA supporters and the Zionists.
+      When I was a young man and printed newspapers ruled the news cycle, the classic
+      aphorism was true: Never pick a fight with someone who buys ink by the barrel
+      . Today, printed newspapers are headed for extinction… Social media has the power.
+      Tucker Carlson’s YouTube channel has 4.9 million subscribers; Candace Owens boasts
+      5.5 million; and Joe Rogan has 20.4 million subscribers. Trump has alienated Candace
+      and Joe… Not smart. While Tucker has not turned against Trump, he is featuring
+      people who challenge many of Trump’s actions and policies… Most notably his servile
+      posture towards Israel and Bibi Netanyahu. I think Trump’s presidency is in jeopardy.
+      If he continues to slavishly acquiesce to his Zionist donors, he will become a
+      lame duck in 2026. Alternatively, if he focuses on reigniting a flagging economy
+      and rejecting the temptation to use US military force against imagined enemies,
+      such as Venezuela, Nigeria and Iran, he may be able to placate his MAGA base.
+      It has been a couple of busy podcast days… I have chatted with Danny Davis, Scott
+      Horton, Edward Demarche and Ryan Dawson: I thank you for your invaluable support
+      by taking time to read or comment. I do not charge a subscription fee nor do I
+      accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: Donald Trump's presidency is facing significant challenges
+      due to his controversial decision to withhold Epstein files that may implicate
+      Israel in espionage, alongside escalating allegations of sexual violence against
+      Palestinian detainees by Israeli Security Forces, which have led to political
+      turmoil and investigations.
+    paragraph_summary: Donald Trump is facing significant political challenges related
+      to allegations of sexual violence involving Israel, which are threatening his
+      presidency. His refusal to release Epstein files, which allegedly implicate Israel
+      in espionage through Epstein's collection of compromising material, has raised
+      eyebrows, particularly as it contradicts his earlier campaign promise. Additionally,
+      the Palestinian rape controversy has emerged, highlighting serious allegations
+      of sexual violence against Palestinian detainees by Israeli Security Forces, intensified
+      by leaked graphic evidence. This situation has led to high-profile resignations
+      and investigations, creating a rift within the Republican Party between Trump's
+      America First supporters and traditional Republican Zionists. The recent Republican
+      Jewish Coalition summit revealed these tensions, as the event, intended to celebrate
+      Trump's Middle East policies, became a battleground over issues of antisemitism
+      and accountability.
+    published: '2025-11-07T04:02:12+00:00'
+  - title: America First versus Israel First
+    url: https://sonar21.com/america-first-versus-israel-first/
+    text: 'Donald Trump has a rape problem that involves Israel and it is sinking his
+      Presidency. First was his decision to not release the Epstein files, nothwithstanding
+      his prior campaign promise to do so, because those files reportedly implicate
+      Israel in espionage activity that involved Epstein gathering compromising material
+      on prominent businessmen, bankers and politicians. Here’s a timeline of Trump’s
+      political evolution regarding Epstein: Second, there is the Palestinian rape controversy
+      , which refers to a series of explosive allegations and investigations into sexual
+      violence against Palestinian detainees by Israeli Security Forces (ISF), particularly
+      since the October 7, 2023, Hamas attacks. This issue escalated dramatically in
+      late October 2025, triggered by the leak of graphic video evidence from the Sde
+      Teiman detention facility, leading to high-level resignations, criminal probes,
+      and intense domestic political divisions. What began as reports of isolated abuses
+      has snowballed into accusations of systematic sexual and gender-based violence
+      as a tool of war, drawing UN condemnations and fueling debates over IDF accountability,
+      government cover-ups, and Israel’s international image. The controversy pits Israel’s
+      right-wing leadership (who decry it as a “blood libel”) against human rights groups
+      and opposition figures demanding transparency. These two incidents are fueling
+      a widening split between Trump’s America First supporters and the Republican Zionists,
+      such as Ted Cruz and Lindsey Graham. The Republican Jewish Coalition’s (RJC) annual
+      leadership summit, held October 31–November 2, 2025, at the Venetian Resort in
+      Las Vegas, Nevada brought this ideological war between MAGA and the Zionists into
+      the open… It was an ugly affair. Originally planned as a celebratory event to
+      highlight President Trump’s Middle East achievements (e.g., the recent Israel-Hamas
+      ceasefire), it devolved into a flashpoint for intra-GOP tensions over antisemitism,
+      particularly Carlson’s influence. The catalyst was Carlson’s October 25, 2025,
+      podcast interview with Nick Fuentes, who Zionists label as white supremacist and
+      Holocaust denier. Ultra-Zionists, such as Mark Levine and Congressman Randy Fine,
+      labeled Tucker as a Nazi and anti-semite because Carlson allegedly failed to challenge
+      Fuentes’s praise of Adolf Hitler, his calls for Israel’s extermination, and his
+      defense of Hamas. If you actually watched the interview with Fuentes, you know
+      that these are scurrilous, defamatory claims. Tucker pushed back on Fuentes. What
+      has the Zionist crowd fuming is that Tucker advocated for an American First policy
+      instead of putting Israel’s interests as the primary obligation of alleged conservatives.
+      The coalition that secured Trump’s second term has dissolved, and there now is
+      a heated verbal civil war between the ardent MAGA supporters and the Zionists.
+      When I was a young man and printed newspapers ruled the news cycle, the classic
+      aphorism was true: Never pick a fight with someone who buys ink by the barrel
+      . Today, printed newspapers are headed for extinction… Social media has the power.
+      Tucker Carlson’s YouTube channel has 4.9 million subscribers; Candace Owens boasts
+      5.5 million; and Joe Rogan has 20.4 million subscribers. Trump has alienated Candace
+      and Joe… Not smart. While Tucker has not turned against Trump, he is featuring
+      people who challenge many of Trump’s actions and policies… Most notably his servile
+      posture towards Israel and Bibi Netanyahu. I think Trump’s presidency is in jeopardy.
+      If he continues to slavishly acquiesce to his Zionist donors, he will become a
+      lame duck in 2026. Alternatively, if he focuses on reigniting a flagging economy
+      and rejecting the temptation to use US military force against imagined enemies,
+      such as Venezuela, Nigeria and Iran, he may be able to placate his MAGA base.
+      It has been a couple of busy podcast days… I have chatted with Danny Davis, Scott
+      Horton, Edward Demarche and Ryan Dawson: I thank you for your invaluable support
+      by taking time to read or comment. I do not charge a subscription fee nor do I
+      accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: Donald Trump's presidency is facing significant challenges
+      due to his controversial decision to withhold Epstein files that may implicate
+      Israel in espionage, alongside escalating allegations of sexual violence against
+      Palestinian detainees by Israeli Security Forces, which have led to political
+      turmoil and investigations.
+    paragraph_summary: Donald Trump is facing significant political challenges related
+      to allegations of sexual violence involving Israel, which are threatening his
+      presidency. His refusal to release Epstein files, which allegedly implicate Israel
+      in espionage through Epstein's collection of compromising material, has raised
+      eyebrows, particularly as it contradicts his earlier campaign promise. Additionally,
+      the Palestinian rape controversy has emerged, highlighting serious allegations
+      of sexual violence against Palestinian detainees by Israeli Security Forces, intensified
+      by leaked graphic evidence. This situation has led to high-profile resignations
+      and investigations, creating a rift within the Republican Party between Trump's
+      America First supporters and traditional Republican Zionists. The recent Republican
+      Jewish Coalition summit revealed these tensions, as the event, intended to celebrate
+      Trump's Middle East policies, became a battleground over issues of antisemitism
+      and accountability.
+    published: '2025-11-07T04:02:12+00:00'
+  - title: The Zionists are Failing to Cover Up Their Lies, And a New Ukrainian War
+      Crime
+    url: https://sonar21.com/the-zionists-are-failing-to-cover-up-their-lies-and-a-new-ukrainian-war-crime/
+    text: 'I decided to post this update on Iran’s successful attacks on Israel during
+      the 12-day war because a troll who writes under the name, Gabriel , thought he
+      could post Zionist propaganda and not face any pushback. The source of the troll’s
+      misinformation appears to be Israel’s Channel 14 . Starting October 22, and continuing
+      thru November 5, Israel’s Channel 14 —a pro-government outlet—has been pumping
+      out the Hasbara about the June 2025 12-Day War in segments marking its four-month
+      anniversary, and emphasizing lessons for ongoing tensions with Iran. Channel 14’s
+      coverage, including prime-time specials like “Missile Myths Exposed” (which aired
+      October 28 and November 2), focused on declassified IDF data and expert panels
+      critiquing Iran’s arsenal as “overhyped and underdelivering.” Reports highlighted
+      high intercept rates, launch failures, and strategic shortfalls, often contrasting
+      this with Tehran’s recent threats (e.g., post-ceasefire rhetoric from Khamenei).
+      No new conflicts occurred in this period, so analysis drew on war archives, satellite
+      imagery, and interviews with IDF analysts. Key themes: Iran’s missiles were neutralized
+      by preemption and tech superiority, validating Israel’s doctrine. It was all bullshit.
+      Amit Segal, Channel 12’s chief political commentator and one of Israel’s most
+      influential journalists, dropped a bombshell on the Friday night flagship program
+      Ulpan Shishi (October 29, 2025, 8:00 PM IST). In a 12-minute investigative segment
+      titled “The Hits We Weren’t Allowed to See” , Segal used drone footage, high-res
+      satellite before/after images, and leaked IDF damage-assessment reports to prove
+      that Iranian ballistic missiles inflicted far more military damage during the
+      June 12-Day War than the public—or even most Knesset members—were ever told .
+      This was the first time any Israeli outlet aired visual proof of direct hits on
+      three classified air-force bases . The Military Censor had kept a total blackout
+      on these sites for 139 days, citing “enemy calibration risk.” Segal’s sources
+      (described only as “senior officers who could no longer stay silent”) handed him
+      the material after the censor quietly lifted restrictions on October 27. The Nine
+      Missiles That “Actually Landed Where They Were Aimed” Segal walked viewers through
+      three salvos (June 14, 18, and 19) where Iran deliberately saturated the same
+      radar corridors to create interception gaps. Key stat Segal flashed on screen
+      : Official IDF war summary (June 25) : “91 % interception, 17 civilian impacts,
+      zero strategic losses.” Segal’s data : “71 % interception on the three targeted
+      salvos; 9 warheads detonated inside perimeter fences.” How the Censorship Worked
+      Day 1 order : Censor banned any location narrower than “central/southern Israel.”
+      Day 4 escalation : Journalists caught filming craters near Nevatim were detained;
+      memory cards wiped. Post-war : Even MKs on the Foreign Affairs & Defense Committee
+      were shown redacted satellite slides with impact circles blacked out. Segal played
+      a leaked audio clip of the censor telling a Channel 12 editor: If Iran learns
+      which radar they blinded, they’ll fire 50 next time instead of 5. Immediate Fallout
+      (Oct 30–31) IDF Spokesman’s damage-control presser (Oct 30, 11:00 AM) : Brig.
+      Gen. Effie Defrin: “All sites remained 100 % operational; repairs completed under
+      72 hours.” But he confirmed the nine hits and admitted “localized grounding of
+      two squadrons for 48–72 hours.” Netanyahu’s office : Called the leak “irresponsible”
+      but scheduled a closed-door Knesset briefing for November 3. Opposition fury :
+      Yesh Atid leader Yair Lapid: “They hid casualties from our pilots to protect Bibi’s
+      victory photo-op.” Viewer Reaction & Ratings 3.1 million viewers (42 % share)—highest-rated
+      news broadcast of 2025. Trending hashtags: #המכותשלאראינו (“The Hits We Didn’t
+      See”) and #צנזורה2025. Segal closed the segment with a warning: “Iran’s missiles
+      didn’t just scratch paint—they proved that 400 missiles can do what 4,000 Hamas
+      rockets never could. Next time, the censor won’t be able to hide the smoke.” Turning
+      away from the horror of the Zionist genocide against the Palestinians and the
+      gaslighting by the Netanyahu government about Iran, there is a truly horrific
+      video that surfaced today that shows the depravity and evil that is the Government
+      of Ukraine. I woman trying to leave Pokrovsk was deliberately and cruelly attacked:
+      If there is a God, and God metes out justice, the person piloting this drone deserves
+      an eternity of being repeatedly attacked by a drone. I had two great conversations
+      today… The first with Rachel Blevins and the second with Danny Haiphong and Colonel
+      Lawrence Wilkerson: I thank you for your invaluable support by taking time to
+      read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article critiques Israel's Channel 14 for disseminating
+      pro-government propaganda about the June 2025 12-Day War, countering claims of
+      Iran's military effectiveness with data on Israel's defense successes and emphasizing
+      the need for ongoing vigilance against Iranian threats.
+    paragraph_summary: The article discusses the misinformation propagated by Israel's
+      Channel 14 regarding the June 2025 12-Day War, particularly in relation to Iran's
+      military capabilities. The channel, known for its pro-government stance, aired
+      segments that downplayed the effectiveness of Iranian missile strikes, presenting
+      data that suggested Israel's defenses were superior and that Iran's threats were
+      exaggerated. However, a significant revelation came from Amit Segal, a prominent
+      journalist on Channel 12, who aired an investigative segment revealing that Iranian
+      missiles had caused more damage than publicly acknowledged, showcasing drone footage
+      and satellite images of direct hits on Israeli air force bases that had been kept
+      under wraps by military censorship for over four months. This revelation challenges
+      the narrative pushed by Channel 14 and highlights the complexities of the ongoing
+      conflict between Israel and Iran.
+    published: '2025-11-06T01:53:48+00:00'
+  - title: The Zionists are Failing to Cover Up Their Lies, And a New Ukrainian War
+      Crime
+    url: https://sonar21.com/the-zionists-are-failing-to-cover-up-their-lies-and-a-new-ukrainian-war-crime/
+    text: 'I decided to post this update on Iran’s successful attacks on Israel during
+      the 12-day war because a troll who writes under the name, Gabriel , thought he
+      could post Zionist propaganda and not face any pushback. The source of the troll’s
+      misinformation appears to be Israel’s Channel 14 . Starting October 22, and continuing
+      thru November 5, Israel’s Channel 14 —a pro-government outlet—has been pumping
+      out the Hasbara about the June 2025 12-Day War in segments marking its four-month
+      anniversary, and emphasizing lessons for ongoing tensions with Iran. Channel 14’s
+      coverage, including prime-time specials like “Missile Myths Exposed” (which aired
+      October 28 and November 2), focused on declassified IDF data and expert panels
+      critiquing Iran’s arsenal as “overhyped and underdelivering.” Reports highlighted
+      high intercept rates, launch failures, and strategic shortfalls, often contrasting
+      this with Tehran’s recent threats (e.g., post-ceasefire rhetoric from Khamenei).
+      No new conflicts occurred in this period, so analysis drew on war archives, satellite
+      imagery, and interviews with IDF analysts. Key themes: Iran’s missiles were neutralized
+      by preemption and tech superiority, validating Israel’s doctrine. It was all bullshit.
+      Amit Segal, Channel 12’s chief political commentator and one of Israel’s most
+      influential journalists, dropped a bombshell on the Friday night flagship program
+      Ulpan Shishi (October 29, 2025, 8:00 PM IST). In a 12-minute investigative segment
+      titled “The Hits We Weren’t Allowed to See” , Segal used drone footage, high-res
+      satellite before/after images, and leaked IDF damage-assessment reports to prove
+      that Iranian ballistic missiles inflicted far more military damage during the
+      June 12-Day War than the public—or even most Knesset members—were ever told .
+      This was the first time any Israeli outlet aired visual proof of direct hits on
+      three classified air-force bases . The Military Censor had kept a total blackout
+      on these sites for 139 days, citing “enemy calibration risk.” Segal’s sources
+      (described only as “senior officers who could no longer stay silent”) handed him
+      the material after the censor quietly lifted restrictions on October 27. The Nine
+      Missiles That “Actually Landed Where They Were Aimed” Segal walked viewers through
+      three salvos (June 14, 18, and 19) where Iran deliberately saturated the same
+      radar corridors to create interception gaps. Key stat Segal flashed on screen
+      : Official IDF war summary (June 25) : “91 % interception, 17 civilian impacts,
+      zero strategic losses.” Segal’s data : “71 % interception on the three targeted
+      salvos; 9 warheads detonated inside perimeter fences.” How the Censorship Worked
+      Day 1 order : Censor banned any location narrower than “central/southern Israel.”
+      Day 4 escalation : Journalists caught filming craters near Nevatim were detained;
+      memory cards wiped. Post-war : Even MKs on the Foreign Affairs & Defense Committee
+      were shown redacted satellite slides with impact circles blacked out. Segal played
+      a leaked audio clip of the censor telling a Channel 12 editor: If Iran learns
+      which radar they blinded, they’ll fire 50 next time instead of 5. Immediate Fallout
+      (Oct 30–31) IDF Spokesman’s damage-control presser (Oct 30, 11:00 AM) : Brig.
+      Gen. Effie Defrin: “All sites remained 100 % operational; repairs completed under
+      72 hours.” But he confirmed the nine hits and admitted “localized grounding of
+      two squadrons for 48–72 hours.” Netanyahu’s office : Called the leak “irresponsible”
+      but scheduled a closed-door Knesset briefing for November 3. Opposition fury :
+      Yesh Atid leader Yair Lapid: “They hid casualties from our pilots to protect Bibi’s
+      victory photo-op.” Viewer Reaction & Ratings 3.1 million viewers (42 % share)—highest-rated
+      news broadcast of 2025. Trending hashtags: #המכותשלאראינו (“The Hits We Didn’t
+      See”) and #צנזורה2025. Segal closed the segment with a warning: “Iran’s missiles
+      didn’t just scratch paint—they proved that 400 missiles can do what 4,000 Hamas
+      rockets never could. Next time, the censor won’t be able to hide the smoke.” Turning
+      away from the horror of the Zionist genocide against the Palestinians and the
+      gaslighting by the Netanyahu government about Iran, there is a truly horrific
+      video that surfaced today that shows the depravity and evil that is the Government
+      of Ukraine. I woman trying to leave Pokrovsk was deliberately and cruelly attacked:
+      If there is a God, and God metes out justice, the person piloting this drone deserves
+      an eternity of being repeatedly attacked by a drone. I had two great conversations
+      today… The first with Rachel Blevins and the second with Danny Haiphong and Colonel
+      Lawrence Wilkerson: I thank you for your invaluable support by taking time to
+      read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article critiques Israel's Channel 14 for disseminating
+      pro-government propaganda about the June 2025 12-Day War, countering claims of
+      Iran's military effectiveness with data on Israel's defense successes and emphasizing
+      the need for ongoing vigilance against Iranian threats.
+    paragraph_summary: The article discusses the misinformation propagated by Israel's
+      Channel 14 regarding the June 2025 12-Day War, particularly in relation to Iran's
+      military capabilities. The channel, known for its pro-government stance, aired
+      segments that downplayed the effectiveness of Iranian missile strikes, presenting
+      data that suggested Israel's defenses were superior and that Iran's threats were
+      exaggerated. However, a significant revelation came from Amit Segal, a prominent
+      journalist on Channel 12, who aired an investigative segment revealing that Iranian
+      missiles had caused more damage than publicly acknowledged, showcasing drone footage
+      and satellite images of direct hits on Israeli air force bases that had been kept
+      under wraps by military censorship for over four months. This revelation challenges
+      the narrative pushed by Channel 14 and highlights the complexities of the ongoing
+      conflict between Israel and Iran.
+    published: '2025-11-06T01:53:48+00:00'
+  - title: Dick Cheney Proves Old Proverb is True
+    url: https://sonar21.com/dick-cheney-proves-old-proverb-is-true/
+    text: 'Dick Cheney’s death, at the age of 84, is further proof that the proverb,
+      Only the Good Die Young , is true. Cheney is a symbol of everything that is wrong
+      with Washington. He became wealthy, not because he was brilliant or creative,
+      but because he had the right connections. I know something of Cheney’s start in
+      Washington thanks to a dear friend, who is no longer alive, who told me the true
+      story… His name was Bruce Bradley. First I need to give you some background on
+      Bruce. Bruce was the son of one of the founders of Lockheed Martin. At the ripe
+      old age of 23, Bruce joined the 1964 Goldwater campaign as an aide to Goldwater’s
+      Vice Presidential candidate, William Miller. Following that failed campaign, Bruce
+      snared a job as chief of staff to Congressman Robert Ellsworth of Kansas, who
+      also happened to be the mentor of Donald Rumsfeld. Bruce told me that he and Rumsfeld
+      played squash almost every week… Rumsfeld was a freshman member of Congress. In
+      1967, Bruce was approached by Nelson Rockefeller and asked to work on his campaign…
+      Bruce was good at math and was put in charge of putting together a database on
+      delegates needed to secure the nomination. He also was asked to supervise Henry
+      Kissinger. Rockefeller failed to secure the nomination, Bruce went back to his
+      job with Congressman Ellsworth, and Kissinger went to work for Nixon. When Nixon
+      won the election in 1968, Kissinger was named as National Security advisor, and
+      he offered Bruce a job as his deputy. Bruce said he told Henry the following:
+      Henry, you are a terrific subordinate, you know how to kiss ass better than anyone
+      I’ve ever met, but as a boss you would be impossible to work for . In 1972, Bruce
+      set up a political consulting firm in Washington, DC: Bradley Woods . He got a
+      phone call early in 1973 from Don Rumsfeld, who had been appointed US ambassador
+      to NATO. Rummy said that he needed to get a job for a young guy… Yes, you guessed
+      it, Dick Cheney. Rumsfeld said that he offered Cheney a position in Brussels,
+      but Cheney wanted to stay in D.C. Bruce stepped up and offered Cheney a “ job
+      .” Bruce told me that Cheney excelled at smoking two packs of cigarettes a day
+      (53 years ago you could still smoke in most offices in DC) and doing three-martini
+      lunches. And you wonder why he eventually had heart problems. Cheney contented
+      himself at Bradley Woods with doing political analysis and meeting with clients
+      until, in late October 1975, he got a call from Rumsfeld and was offered the job
+      of serving as President Gerald Ford’s Chief of Staff. Rummy had that job, but
+      was nominated to serve as Secretary of Defense. Cheney started at the White House
+      on November 3, and served in that role until January 20, 1977, when Ford left
+      office after losing the 1976 presidential election to Jimmy Carter. Cheney’s next
+      move? He returned to work for Bruce Bradley, where he plotted his next move… Running
+      for Congress in Wyoming, representing its sole congressional seat. And, as the
+      idiom goes, The rest is history . Could it be that Dick Cheney was the inspiration
+      for Ringo Star’s hit: I Get By with a Little Help from My Friends ? Cheney, in
+      my view, disgraced the office of the Vice President and, as is typical in Washington,
+      used his connections as a springboard to great wealth. Better to serve yourself
+      than serve your nation. It was a light podcast day… I spoke with Marcello (i.e.,
+      the Brazilian who lives in Italy) and Rasheed Muhammad: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: Dick Cheney's death at 84 highlights his controversial legacy
+      as a symbol of Washington's corruption and the notion that success often stems
+      from connections rather than merit.
+    paragraph_summary: Dick Cheney's recent death at 84 has reignited discussions about
+      his controversial legacy as a prominent figure in Washington, often viewed as
+      emblematic of the political establishment's shortcomings. The article reflects
+      on Cheney's rise to power, attributing his wealth and influence not to exceptional
+      talent but to strategic connections, particularly through relationships with influential
+      figures like Donald Rumsfeld and Henry Kissinger. The narrative is framed through
+      the experiences of Bruce Bradley, a political insider who interacted closely with
+      these key players, illustrating how Cheney's career was facilitated by a network
+      of powerful allies rather than individual merit. Ultimately, the piece critiques
+      the nature of political success in Washington, suggesting that it often favors
+      those with the right connections over genuine capability.
+    published: '2025-11-05T05:48:11+00:00'
+  - title: Dick Cheney Proves Old Proverb is True
+    url: https://sonar21.com/dick-cheney-proves-old-proverb-is-true/
+    text: 'Dick Cheney’s death, at the age of 84, is further proof that the proverb,
+      Only the Good Die Young , is true. Cheney is a symbol of everything that is wrong
+      with Washington. He became wealthy, not because he was brilliant or creative,
+      but because he had the right connections. I know something of Cheney’s start in
+      Washington thanks to a dear friend, who is no longer alive, who told me the true
+      story… His name was Bruce Bradley. First I need to give you some background on
+      Bruce. Bruce was the son of one of the founders of Lockheed Martin. At the ripe
+      old age of 23, Bruce joined the 1964 Goldwater campaign as an aide to Goldwater’s
+      Vice Presidential candidate, William Miller. Following that failed campaign, Bruce
+      snared a job as chief of staff to Congressman Robert Ellsworth of Kansas, who
+      also happened to be the mentor of Donald Rumsfeld. Bruce told me that he and Rumsfeld
+      played squash almost every week… Rumsfeld was a freshman member of Congress. In
+      1967, Bruce was approached by Nelson Rockefeller and asked to work on his campaign…
+      Bruce was good at math and was put in charge of putting together a database on
+      delegates needed to secure the nomination. He also was asked to supervise Henry
+      Kissinger. Rockefeller failed to secure the nomination, Bruce went back to his
+      job with Congressman Ellsworth, and Kissinger went to work for Nixon. When Nixon
+      won the election in 1968, Kissinger was named as National Security advisor, and
+      he offered Bruce a job as his deputy. Bruce said he told Henry the following:
+      Henry, you are a terrific subordinate, you know how to kiss ass better than anyone
+      I’ve ever met, but as a boss you would be impossible to work for . In 1972, Bruce
+      set up a political consulting firm in Washington, DC: Bradley Woods . He got a
+      phone call early in 1973 from Don Rumsfeld, who had been appointed US ambassador
+      to NATO. Rummy said that he needed to get a job for a young guy… Yes, you guessed
+      it, Dick Cheney. Rumsfeld said that he offered Cheney a position in Brussels,
+      but Cheney wanted to stay in D.C. Bruce stepped up and offered Cheney a “ job
+      .” Bruce told me that Cheney excelled at smoking two packs of cigarettes a day
+      (53 years ago you could still smoke in most offices in DC) and doing three-martini
+      lunches. And you wonder why he eventually had heart problems. Cheney contented
+      himself at Bradley Woods with doing political analysis and meeting with clients
+      until, in late October 1975, he got a call from Rumsfeld and was offered the job
+      of serving as President Gerald Ford’s Chief of Staff. Rummy had that job, but
+      was nominated to serve as Secretary of Defense. Cheney started at the White House
+      on November 3, and served in that role until January 20, 1977, when Ford left
+      office after losing the 1976 presidential election to Jimmy Carter. Cheney’s next
+      move? He returned to work for Bruce Bradley, where he plotted his next move… Running
+      for Congress in Wyoming, representing its sole congressional seat. And, as the
+      idiom goes, The rest is history . Could it be that Dick Cheney was the inspiration
+      for Ringo Star’s hit: I Get By with a Little Help from My Friends ? Cheney, in
+      my view, disgraced the office of the Vice President and, as is typical in Washington,
+      used his connections as a springboard to great wealth. Better to serve yourself
+      than serve your nation. It was a light podcast day… I spoke with Marcello (i.e.,
+      the Brazilian who lives in Italy) and Rasheed Muhammad: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: Dick Cheney's death at 84 highlights his controversial legacy
+      as a symbol of Washington's corruption and the notion that success often stems
+      from connections rather than merit.
+    paragraph_summary: Dick Cheney's recent death at 84 has reignited discussions about
+      his controversial legacy as a prominent figure in Washington, often viewed as
+      emblematic of the political establishment's shortcomings. The article reflects
+      on Cheney's rise to power, attributing his wealth and influence not to exceptional
+      talent but to strategic connections, particularly through relationships with influential
+      figures like Donald Rumsfeld and Henry Kissinger. The narrative is framed through
+      the experiences of Bruce Bradley, a political insider who interacted closely with
+      these key players, illustrating how Cheney's career was facilitated by a network
+      of powerful allies rather than individual merit. Ultimately, the piece critiques
+      the nature of political success in Washington, suggesting that it often favors
+      those with the right connections over genuine capability.
+    published: '2025-11-05T05:48:11+00:00'
   - title: Russia vs NATO… The Strategic Imbalance
     url: https://sonar21.com/russia-vs-nato-the-strategic-imbalance/
     text: 'Let’s just deal with basic numbers in comparing Russia and NATO, and let’s

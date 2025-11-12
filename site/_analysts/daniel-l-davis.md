@@ -7,17 +7,226 @@ description: "Retired US Army Lt. Colonel and defense fellow; contributes critic
 websites:
   - https://19fortyfive.com
 summary: |
-  As of November 5, 2025, the global security landscape is being shaped by rapid technological advancements and shifting military strategies among major powers. Recent developments highlight Russia’s renewed focus on strategic air power, China’s evolving naval posture, and ongoing debates in Western defense procurement.
+  As of November 12, 2025, the global military landscape is marked by rapid technological advancements and strategic recalibrations, particularly in the maritime and aerospace domains. The latest analyses highlight intensifying competition between major powers, with a focus on undersea warfare, airpower modernization, and shifting procurement strategies.
   
-  Russia is making headlines with the reintroduction and modernization of its Tu-160M "Blackjack" bombers. According to **Daniel L. Davis**, these aircraft, originally designed in the 1980s, are being upgraded with new engines and avionics. While they lack stealth features, their enhanced speed and payload capacity signal Moscow’s intent to maintain a credible long-range strike capability. In parallel, Russia is advancing the MiG-41 fighter project, which **Davis** describes as aiming for "MACH 4.3 and potentially nearing MACH 5," a speed that would outpace current Western fighters like the F-22 and F-35. These moves underscore Russia’s commitment to technological parity, if not superiority, in certain domains.
+  **Submarine Stealth Under Threat**
   
-  On the maritime front, China’s new aircraft carriers are drawing attention not just for their size but for their strategic orientation. **Daniel L. Davis** notes that these carriers may serve a primarily defensive role, aimed at safeguarding Chinese interests rather than projecting power aggressively. This assessment challenges prevailing narratives about Chinese expansionism and suggests a nuanced approach to regional security, especially in the context of a shrinking U.S. Navy, which is projected to fall to 280 warships by 2027.
+  While U.S. submarines have long enjoyed superiority in acoustic detection, new developments are eroding this advantage. According to **Daniel L. Davis**, "emerging non-acoustic sensors like magnetic anomaly detection and thermal imaging are increasingly challenging their stealth capabilities." This signals a potential end to the era of undetectable submarines, with adversaries investing heavily in sensor technology that could expose even the most advanced boats. The implications for U.S. and allied undersea operations are profound, as maintaining stealth becomes more difficult and costly.
   
-  Meanwhile, in North America, Canada’s reconsideration of its F-35 procurement—prompted by trade tensions and supply chain issues—raises questions about future interoperability within NORAD. The potential shift to Saab’s JAS 39 Gripen, as reported by **Davis**, could complicate maintenance and training, further straining U.S.-Canada defense cooperation.
+  **Australia’s Submarine Modernization**
   
-  **Trends and Predictions:**  
-  The majority of sources agree that Russia’s investment in high-speed, non-stealth platforms reflects both technological ambition and resource constraints. China’s naval buildup is likely to continue, but with a focus on regional defense rather than outright power projection. The U.S. and its allies face growing challenges in maintaining technological and operational advantages, particularly as procurement and readiness issues persist. I guarantee that the next 12-24 months will see intensified competition in aerospace and naval capabilities, with a high chance of further procurement debates among Western allies.
+  In response to a more assertive Chinese PLA Navy, Australia is moving decisively to bolster its undersea deterrent. As **Daniel L. Davis** notes, Canberra is investing $4–5 billion in a life-of-type extension for its Collins-class submarines, ensuring their operational readiness into the 2030s. This bridge strategy is designed to maintain capability while awaiting the arrival of AUKUS nuclear-powered submarines later in the decade. The move underscores the urgency felt by U.S. allies in the Indo-Pacific to keep pace with regional military developments.
+  
+  **Russian Aerospace Challenges**
+  
+  On the Russian front, efforts to modernize airpower are encountering significant obstacles. The MiG-35, intended as a next-generation multirole fighter, is hampered by "low-observability and networking capabilities," leading to limited production and export prospects, according to **Daniel L. Davis**. Meanwhile, Russia’s only aircraft carrier, the Admiral Kuznetsov, remains out of action after more than eight years of repairs and decay, further constraining Moscow’s ability to project power at sea.
+  
+  **Trends and Predictions**
+  
+  The overarching trend is clear: technological innovation is rapidly altering the balance of power, but new capabilities often bring new vulnerabilities. The race for undersea stealth is entering a new phase, with non-acoustic detection technologies threatening to upend traditional doctrines. Australia’s investment in submarine life-extension is a stopgap, but a necessary one given regional uncertainties.
+  
+  Looking ahead, I assess with high confidence that the proliferation of advanced sensors will "most definitely" force navies worldwide to rethink undersea operations and invest in countermeasures. There is also a high chance that Russia’s struggles with both its MiG-35 program and naval aviation will persist, limiting its ability to compete with NATO and China in these domains through at least the end of the decade.
 articles:
+  - title: 'No Place to Hide: The End of Submarine Stealth?'
+    url: https://www.19fortyfive.com/2025/11/no-place-to-hide-the-end-of-submarine-stealth/
+    text: 'Key Points and Summary – U.S. submarines still own the acoustic fight, but
+      a wave of non-acoustic sensors is narrowing the gap. -A Naval Submarine League
+      analysis spotlights magnetic anomaly detection (MAD), bioluminescent “boundary
+      layer” wakes, surface and internal wave signatures, thermal trails seen by IR,
+      and blue-green laser lidar that can ping through seawater. […] The post No Place
+      to Hide: The End of Submarine Stealth? appeared first on 19FortyFive .'
+    one_sentence_summary: The article discusses how while U.S. submarines maintain superiority
+      in acoustic detection, emerging non-acoustic sensors like magnetic anomaly detection
+      and thermal imaging are increasingly challenging their stealth capabilities.
+    paragraph_summary: A recent analysis by the Naval Submarine League highlights that
+      while U.S. submarines maintain superiority in acoustic detection, emerging non-acoustic
+      sensors are increasingly challenging their stealth capabilities. Technologies
+      such as magnetic anomaly detection (MAD), bioluminescent wakes, surface and internal
+      wave signatures, infrared thermal trails, and blue-green laser lidar are becoming
+      more effective at detecting submarines, potentially diminishing their ability
+      to operate undetected. This shift raises concerns about the future of submarine
+      stealth in naval warfare.
+    published: '2025-11-10T20:47:29+00:00'
+  - title: 'No Place to Hide: The End of Submarine Stealth?'
+    url: https://www.19fortyfive.com/2025/11/no-place-to-hide-the-end-of-submarine-stealth/
+    text: 'Key Points and Summary – U.S. submarines still own the acoustic fight, but
+      a wave of non-acoustic sensors is narrowing the gap. -A Naval Submarine League
+      analysis spotlights magnetic anomaly detection (MAD), bioluminescent “boundary
+      layer” wakes, surface and internal wave signatures, thermal trails seen by IR,
+      and blue-green laser lidar that can ping through seawater. […] The post No Place
+      to Hide: The End of Submarine Stealth? appeared first on 19FortyFive .'
+    one_sentence_summary: The article discusses how while U.S. submarines maintain superiority
+      in acoustic detection, emerging non-acoustic sensors like magnetic anomaly detection
+      and thermal imaging are increasingly challenging their stealth capabilities.
+    paragraph_summary: A recent analysis by the Naval Submarine League highlights that
+      while U.S. submarines maintain superiority in acoustic detection, emerging non-acoustic
+      sensors are increasingly challenging their stealth capabilities. Technologies
+      such as magnetic anomaly detection (MAD), bioluminescent wakes, surface and internal
+      wave signatures, infrared thermal trails, and blue-green laser lidar are becoming
+      more effective at detecting submarines, potentially diminishing their ability
+      to operate undetected. This shift raises concerns about the future of submarine
+      stealth in naval warfare.
+    published: '2025-11-10T20:47:29+00:00'
+  - title: Australia’s Collins-Class Submarines Can Be Summed Up in 4
+    url: https://www.19fortyfive.com/2025/11/australias-collins-class-submarines-can-be-summed-up-in-4/
+    text: Key Points and Summary – Facing a sharper PLA Navy and recent provocations,
+      Australia is doubling down on undersea power. -While AUKUS nuclear boats are years
+      away, the Royal Australian Navy’s six Collins-class submarines are getting a $4–5
+      billion life-of-type extension at Osborne, keeping them operational into the 2030s.
+      -The quiet diesel-electrics—armed with Mk 48 […] The post Australia’s Collins-Class
+      Submarines Can Be Summed Up in 4 appeared first on 19FortyFive .
+    one_sentence_summary: Australia is enhancing its undersea capabilities in response
+      to a more assertive PLA Navy by investing $4–5 billion in a life-of-type extension
+      for its Collins-class submarines, ensuring their operational readiness into the
+      2030s while awaiting the arrival of AUKUS nuclear submarines.
+    paragraph_summary: In response to a more assertive People's Liberation Army (PLA)
+      Navy and recent provocations, Australia is reinforcing its undersea capabilities
+      by investing $4–5 billion in a life-of-type extension for its six Collins-class
+      submarines, ensuring their operational status into the 2030s. While the AUKUS
+      nuclear submarines are still years from deployment, the Collins-class submarines,
+      which are quiet diesel-electric vessels equipped with advanced Mk 48 torpedoes,
+      will play a crucial role in bolstering Australia's naval power during this transitional
+      period.
+    published: '2025-11-10T17:17:27+00:00'
+  - title: Australia’s Collins-Class Submarines Can Be Summed Up in 4
+    url: https://www.19fortyfive.com/2025/11/australias-collins-class-submarines-can-be-summed-up-in-4/
+    text: Key Points and Summary – Facing a sharper PLA Navy and recent provocations,
+      Australia is doubling down on undersea power. -While AUKUS nuclear boats are years
+      away, the Royal Australian Navy’s six Collins-class submarines are getting a $4–5
+      billion life-of-type extension at Osborne, keeping them operational into the 2030s.
+      -The quiet diesel-electrics—armed with Mk 48 […] The post Australia’s Collins-Class
+      Submarines Can Be Summed Up in 4 appeared first on 19FortyFive .
+    one_sentence_summary: Australia is enhancing its undersea capabilities in response
+      to a more assertive PLA Navy by investing $4–5 billion in a life-of-type extension
+      for its Collins-class submarines, ensuring their operational readiness into the
+      2030s while awaiting the arrival of AUKUS nuclear submarines.
+    paragraph_summary: In response to a more assertive People's Liberation Army (PLA)
+      Navy and recent provocations, Australia is reinforcing its undersea capabilities
+      by investing $4–5 billion in a life-of-type extension for its six Collins-class
+      submarines, ensuring their operational status into the 2030s. While the AUKUS
+      nuclear submarines are still years from deployment, the Collins-class submarines,
+      which are quiet diesel-electric vessels equipped with advanced Mk 48 torpedoes,
+      will play a crucial role in bolstering Australia's naval power during this transitional
+      period.
+    published: '2025-11-10T17:17:27+00:00'
+  - title: Russia’s MiG-35 Fighter Headache Has No Cure
+    url: https://www.19fortyfive.com/2025/11/russias-mig-35-fighter-headache-has-no-cure/
+    text: 'Key Points and Summary – The MiG-35 is Russia’s latest iteration of the MiG-29:
+      a lighter, agile multirole fighter updated with AESA radar, improved EW, and precision-strike
+      options. -On paper it bridges late-4th gen and fifth-gen ambitions; in practice
+      it lacks low-observability, mature networking, and scale. -Production remains
+      small, export pitches to Egypt, Vietnam and […] The post Russia’s MiG-35 Fighter
+      Headache Has No Cure appeared first on 19FortyFive .'
+    one_sentence_summary: The MiG-35, Russia's advanced multirole fighter derived from
+      the MiG-29, features modern upgrades but struggles with low-observability and
+      networking capabilities, leading to limited production and export opportunities.
+    paragraph_summary: The MiG-35, Russia's latest version of the MiG-29, is a lightweight,
+      agile multirole fighter equipped with advanced features such as AESA radar, enhanced
+      electronic warfare capabilities, and precision-strike options. While it theoretically
+      positions itself between late 4th generation and 5th generation fighter technology,
+      it falls short in practical aspects like low observability, mature networking,
+      and production scale. Consequently, production numbers remain limited, and export
+      efforts to countries like Egypt and Vietnam have not yielded significant success.
+    published: '2025-11-10T14:25:34+00:00'
+  - title: Russia’s MiG-35 Fighter Headache Has No Cure
+    url: https://www.19fortyfive.com/2025/11/russias-mig-35-fighter-headache-has-no-cure/
+    text: 'Key Points and Summary – The MiG-35 is Russia’s latest iteration of the MiG-29:
+      a lighter, agile multirole fighter updated with AESA radar, improved EW, and precision-strike
+      options. -On paper it bridges late-4th gen and fifth-gen ambitions; in practice
+      it lacks low-observability, mature networking, and scale. -Production remains
+      small, export pitches to Egypt, Vietnam and […] The post Russia’s MiG-35 Fighter
+      Headache Has No Cure appeared first on 19FortyFive .'
+    one_sentence_summary: The MiG-35, Russia's advanced multirole fighter derived from
+      the MiG-29, features modern upgrades but struggles with low-observability and
+      networking capabilities, leading to limited production and export opportunities.
+    paragraph_summary: The MiG-35, Russia's latest version of the MiG-29, is a lightweight,
+      agile multirole fighter equipped with advanced features such as AESA radar, enhanced
+      electronic warfare capabilities, and precision-strike options. While it theoretically
+      positions itself between late 4th generation and 5th generation fighter technology,
+      it falls short in practical aspects like low observability, mature networking,
+      and production scale. Consequently, production numbers remain limited, and export
+      efforts to countries like Egypt and Vietnam have not yielded significant success.
+    published: '2025-11-10T14:25:34+00:00'
+  - title: Russia’s Admiral Kuznetsov Aircraft Carrier Summed Up Simply in Just 3 Words
+    url: https://www.19fortyfive.com/2025/11/russias-admiral-kuznetsov-aircraft-carrier-summed-up-simply-in-just-3-words/
+    text: Key Points  – Russia’s lone aircraft carrier, Admiral Kuznetsov, has been
+      pier-bound in Murmansk for over eight years, its “return to sea” repeatedly derailed
+      by disaster and decay. -The PD-50 dry dock sank, a major fire struck during repairs,
+      and key systems—from electronics to engines—need wholesale replacement. -Soviet-era
+      shipyards that built such vessels now sit […] The post Russia’s Admiral Kuznetsov
+      Aircraft Carrier Summed Up Simply in Just 3 Words appeared first on 19FortyFive
+      .
+    one_sentence_summary: Russia's Admiral Kuznetsov aircraft carrier has been inactive
+      for over eight years due to extensive damage and decay, with ongoing repair challenges.
+    paragraph_summary: Russia's sole aircraft carrier, the Admiral Kuznetsov, has been
+      stuck in Murmansk for over eight years due to a series of setbacks, including
+      the sinking of its dry dock, a significant fire during repairs, and the need for
+      extensive replacements of critical systems like electronics and engines. The aging
+      Soviet-era shipyards that originally constructed such vessels are now in disrepair,
+      further complicating the carrier's potential return to service.
+    published: '2025-11-10T13:38:47+00:00'
+  - title: Russia’s Admiral Kuznetsov Aircraft Carrier Summed Up Simply in Just 3 Words
+    url: https://www.19fortyfive.com/2025/11/russias-admiral-kuznetsov-aircraft-carrier-summed-up-simply-in-just-3-words/
+    text: Key Points  – Russia’s lone aircraft carrier, Admiral Kuznetsov, has been
+      pier-bound in Murmansk for over eight years, its “return to sea” repeatedly derailed
+      by disaster and decay. -The PD-50 dry dock sank, a major fire struck during repairs,
+      and key systems—from electronics to engines—need wholesale replacement. -Soviet-era
+      shipyards that built such vessels now sit […] The post Russia’s Admiral Kuznetsov
+      Aircraft Carrier Summed Up Simply in Just 3 Words appeared first on 19FortyFive
+      .
+    one_sentence_summary: Russia's Admiral Kuznetsov aircraft carrier has been inactive
+      for over eight years due to extensive damage and decay, with ongoing repair challenges.
+    paragraph_summary: Russia's sole aircraft carrier, the Admiral Kuznetsov, has been
+      stuck in Murmansk for over eight years due to a series of setbacks, including
+      the sinking of its dry dock, a significant fire during repairs, and the need for
+      extensive replacements of critical systems like electronics and engines. The aging
+      Soviet-era shipyards that originally constructed such vessels are now in disrepair,
+      further complicating the carrier's potential return to service.
+    published: '2025-11-10T13:38:47+00:00'
+  - title: China’s New Sixth Generation White Emperor Fighter Explained in 1 Word
+    url: https://www.19fortyfive.com/2025/11/chinas-new-sixth-generation-white-emperor-fighter-explained-in-1-word/
+    text: Key Points and Summary – China’s “White Emperor” (Baidi) 6th-gen fighter concept,
+      unveiled as a “mockup” at the 2024 Zhuhai Airshow, is a “space-air fighter.” -The
+      analysis questions if the “impressive” design (tailless, hypersonic-capable) is
+      a “bluff”—a “Reagan’s ‘Star Wars'”-style “trick” to bankrupt the U.S. ($38T in
+      debt). The White Emperor Fighter Scam?  China unveiled […] The post China’s New
+      Sixth Generation White Emperor Fighter Explained in 1 Word appeared first on 19FortyFive
+      .
+    one_sentence_summary: China's newly unveiled sixth-generation "White Emperor" fighter,
+      presented as a mockup at the 2024 Zhuhai Airshow, is a tailless, hypersonic-capable
+      "space-air fighter," but analysts question whether its impressive design is a
+      strategic bluff aimed at financially pressuring the U.S.
+    paragraph_summary: China's recently unveiled sixth-generation fighter concept, the
+      "White Emperor" (Baidi), showcased at the 2024 Zhuhai Airshow, is described as
+      a "space-air fighter" featuring an impressive tailless design and hypersonic capabilities.
+      However, analysts are skeptical about its viability, suggesting that it may be
+      a strategic bluff reminiscent of the U.S. "Star Wars" initiative aimed at financially
+      burdening the U.S. amidst its significant national debt. The article raises questions
+      about the authenticity and practicality of the fighter's capabilities, hinting
+      at a potential deception in China's military advancements.
+    published: '2025-11-10T12:33:31+00:00'
+  - title: China’s New Sixth Generation White Emperor Fighter Explained in 1 Word
+    url: https://www.19fortyfive.com/2025/11/chinas-new-sixth-generation-white-emperor-fighter-explained-in-1-word/
+    text: Key Points and Summary – China’s “White Emperor” (Baidi) 6th-gen fighter concept,
+      unveiled as a “mockup” at the 2024 Zhuhai Airshow, is a “space-air fighter.” -The
+      analysis questions if the “impressive” design (tailless, hypersonic-capable) is
+      a “bluff”—a “Reagan’s ‘Star Wars'”-style “trick” to bankrupt the U.S. ($38T in
+      debt). The White Emperor Fighter Scam?  China unveiled […] The post China’s New
+      Sixth Generation White Emperor Fighter Explained in 1 Word appeared first on 19FortyFive
+      .
+    one_sentence_summary: China's newly unveiled sixth-generation "White Emperor" fighter,
+      presented as a mockup at the 2024 Zhuhai Airshow, is a tailless, hypersonic-capable
+      "space-air fighter," but analysts question whether its impressive design is a
+      strategic bluff aimed at financially pressuring the U.S.
+    paragraph_summary: China's recently unveiled sixth-generation fighter concept, the
+      "White Emperor" (Baidi), showcased at the 2024 Zhuhai Airshow, is described as
+      a "space-air fighter" featuring an impressive tailless design and hypersonic capabilities.
+      However, analysts are skeptical about its viability, suggesting that it may be
+      a strategic bluff reminiscent of the U.S. "Star Wars" initiative aimed at financially
+      burdening the U.S. amidst its significant national debt. The article raises questions
+      about the authenticity and practicality of the fighter's capabilities, hinting
+      at a potential deception in China's military advancements.
+    published: '2025-11-10T12:33:31+00:00'
   - title: Russia’s New Mach 2 Tu-160M Bomber Can Be Summed Up In Just 2 Words
     url: https://www.19fortyfive.com/2025/11/russias-new-mach-2-tu-160m-bomber-can-be-summed-up-in-just-2-words/
     text: In what might seem like an odd move, the Russian Aerospace Forces have been

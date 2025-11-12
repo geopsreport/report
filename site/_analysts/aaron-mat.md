@@ -7,16 +7,49 @@ description: "Journalist and producer; covers US foreign policy, Russiagate, and
 websites:
   - https://www.aaronmate.net/
 summary: |
-  As the global balance continues to shift in the wake of ongoing conflicts and diplomatic maneuvering, the latest developments highlight persistent instability in Ukraine, Gaza, and Syria, with U.S. policy under President Trump facing mounting scrutiny.
+  As of November 12, 2025, the geopolitical landscape remains volatile, shaped by US policy shifts under President Trump, ongoing Middle East crises, and the aftermath of major leadership changes in Syria. Recent developments highlight persistent tensions and unresolved conflicts despite high-profile diplomatic maneuvers.
   
-  The most recent and significant update concerns the Ukraine conflict. President Trump has rejected Ukrainian President Volodymyr Zelensky’s request for long-range U.S. Tomahawk missiles, instead urging Kyiv to consider ceding the Donbas region to Russia and pursue diplomacy. **Aaron Maté** notes that Trump’s approach is driven by concerns over escalation and a desire to avoid deepening U.S. involvement. However, this stance is sharply at odds with Washington’s foreign policy establishment, which, according to Maté, “refuses to ‘lose’” in Ukraine and continues to push for a more aggressive posture. This internal division signals ongoing uncertainty over the direction of U.S. support, with the majority of analysts suggesting that a diplomatic settlement is now more likely than a dramatic escalation, though the outcome remains contested.
+  The most significant new development centers on US-Syria relations. For the first time in nearly six decades, a sitting Syrian president—Ahmed al-Sharaa, formerly known as Mohammed al-Jolani and a past leader of Al Qaeda and ISIS—visited the United States. This unprecedented move follows the US decision to remove al-Sharaa from its terrorism list after his role in the ousting of Bashar al-Assad. According to **Aaron Maté**, this visit signals a dramatic realignment in US policy toward Syria, raising concerns about the normalization of former militant leaders and the potential for increased sectarian violence both in Syria and domestically within the US.
   
-  In Gaza, the ceasefire brokered by Trump remains fragile. While the deal has temporarily halted large-scale violence, **Aaron Maté** points out that “the underlying issues of Israeli occupation and Palestinian self-determination remain unaddressed,” with Israel already violating terms by restricting humanitarian aid and continuing limited attacks. The consensus among observers is that the ceasefire is unlikely to hold in the long term without substantive changes to the status quo. There is a high chance of renewed tensions if these root causes are not addressed.
+  Meanwhile, the Israeli-Palestinian conflict remains unresolved despite a Trump-brokered ceasefire between Israel and Hamas. **Aaron Maté** notes that while the agreement has temporarily halted violence in Gaza, Israel continues to restrict humanitarian aid and conduct military operations, effectively violating the ceasefire terms. The underlying issues of occupation and Palestinian self-determination remain unaddressed, with the Trump administration’s so-called “peace plan” widely criticized as a demand for Palestinian capitulation rather than a genuine resolution.
   
-  Meanwhile, the situation in Syria continues to draw international attention. The U.S. recently hosted Ahmed al-Sharaa (Mohammed al-Jolani), Syria’s new president and former Al Qaeda leader, marking a dramatic shift in U.S. policy after his group’s role in toppling Bashar al-Assad. **Aaron Maté** underscores the controversy of legitimizing a figure with such a background, especially as sectarian violence persists within Syria. Most analysts agree that this move reflects Washington’s willingness to prioritize strategic interests over previous counterterrorism policies, but it also risks further destabilizing the region.
+  On Ukraine, President Trump has rejected President Zelensky’s request for long-range Tomahawk missiles, instead urging diplomatic concessions such as ceding the Donbas region to Russia. This marks a shift from earlier US support for Ukraine’s military efforts, reflecting Trump’s preference for negotiation over escalation. However, as **Aaron Maté** reports, the Washington foreign policy establishment remains resistant to any outcome perceived as a loss, suggesting continued friction within US policymaking circles.
   
-  In summary, the prevailing trends indicate a U.S. administration increasingly focused on transactional diplomacy and short-term deals, often at odds with entrenched policy lobbies and longstanding regional grievances. There is a high chance that the Ukraine conflict will move toward a negotiated settlement, while the Gaza ceasefire remains precarious and Syria’s new alignment with the U.S. could trigger further volatility. I guarantee that without addressing underlying causes, these flashpoints will continue to generate instability and unpredictable shifts in the geopolitical landscape.
+  Looking ahead, the trends indicate persistent instability in the Middle East, with the US increasingly willing to engage with controversial actors to secure its interests. The Israeli-Palestinian conflict is expected to remain at an impasse, with little progress on core issues. In Ukraine, the likelihood of a negotiated settlement has increased, but internal US divisions could hinder a swift resolution. There is a high chance that these patterns—pragmatic US engagement with former adversaries, stalled peace processes, and intra-governmental discord—will continue to define the geopolitical environment in the coming months.
 articles:
+  - title: Trump's regime change plans for Venezuela; Mamdani, MAGA fuel dissent over
+      Israel
+    url: https://www.aaronmate.net/p/trumps-regime-change-plans-for-venezuela
+    text: 'Aaron Mate Trump''s regime change plans for Venezuela; Mamdani, MAGA fuel
+      dissent over Israel 104 22 1× 0:00 Current time: 0:00 / Total time: -29:04 -29:04
+      Audio playback is not supported on your browser. Please upgrade. Trump''s regime
+      change plans for Venezuela; Mamdani, MAGA fuel dissent over Israel Aaron Maté
+      Nov 06, 2025 104 22 Share Transcript Aaron Mate is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      Subscribe Discussion about this episode Comments Restacks Aaron Mate Reporting
+      and analysis by award-winning independent journalist. Reporting and analysis by
+      award-winning independent journalist. Subscribe Authors Aaron Maté Recent Episodes
+      Diplomacy subverted, from Ukraine to Palestine Oct 22 • Aaron Maté Article audio:
+      Trump rejects Zelensky on Tomahawks, but Washington''s war lobby refuses to "lose"
+      Oct 20 • Aaron Maté Audio: Trump’s ''peace plan'' is a repackaged demand for Palestinian
+      surrender Oct 7 • Aaron Maté Netanyahu confirms that Trump''s peace plan is a
+      ruse Oct 1 • Aaron Maté Narrated version: By Russiagate standards, the Comey case
+      is a slam-dunk Sep 29 • Aaron Maté Article audio: With nuclear pact in peril,
+      Trump embraces prolonged war in Ukraine Sep 25 • Aaron Maté US hosts Syria''s
+      ruling fmr. Al Qaeda leader amid sectarian violence at home Sep 22 • Aaron Maté'
+    one_sentence_summary: The article discusses Aaron Maté's analysis of Trump's regime
+      change intentions for Venezuela and the dissent surrounding Israel fueled by figures
+      like Mamdani and the MAGA movement.
+    paragraph_summary: In his recent analysis, Aaron Maté discusses Trump's regime change
+      plans for Venezuela and highlights the dissent surrounding Israel, fueled by figures
+      like Mamdani and elements of the MAGA movement. The episode reflects on the broader
+      implications of U.S. foreign policy, particularly in relation to conflicts in
+      Ukraine and Palestine, and critiques the motivations behind these strategies.
+      Maté emphasizes the complexities and contradictions in U.S. diplomacy, suggesting
+      that Trump's approach often serves to perpetuate conflict rather than resolve
+      it. The discussion also touches on the reactions to Trump's policies and the ongoing
+      debates within American political discourse regarding international interventions.
+    published: '2025-11-06T17:36:07+00:00'
   - title: Trump rejects Zelensky on Tomahawks, but Washington's war lobby refuses to
       "lose"
     url: https://www.aaronmate.net/p/trump-rejects-zelensky-on-tomahawks

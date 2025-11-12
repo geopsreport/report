@@ -7,19 +7,129 @@ description: "Cambridge–educated researcher at RMIT; writes widely on imperial
 websites:
   - https://counterpunch.org/author/jete6/
 summary: |
-  As global tensions persist across multiple fronts, recent developments highlight the interplay between environmental accountability, nuclear brinkmanship, and shifting alliances in critical resources. These issues are unfolding against a backdrop of ongoing conflicts and contested narratives, with new information shedding light on the underlying dynamics.
+  The past days have seen intensifying scrutiny of the intersection between technology, geopolitics, and environmental policy, with new developments highlighting the complex interplay of corporate power, state interests, and global security.
   
-  The most recent controversy centers on Amazon’s data centers and their environmental impact. Despite public commitments to sustainability, Amazon faces mounting criticism for its lack of transparency regarding water consumption as it rapidly expands operations. **Binoy Kampmark** notes that the company’s sustainability initiatives may serve to “obscure the true environmental impact of its practices,” raising questions about corporate responsibility amid growing resource scarcity. This lack of disclosure is particularly concerning given the increasing demand for water-intensive data infrastructure worldwide.
+  Amidst ongoing debates about the role of artificial intelligence in governance and industry, **Binoy Kampmark**’s latest analysis draws attention to the growing reliance on generative AI within the consulting sector. Kampmark argues that this trend not only erodes the value of in-house expertise but also entrenches dependence on costly, opaque consultancy firms. The majority view among analysts is that this shift will likely deepen the influence of external consultants over both public and private decision-making, raising concerns about transparency and accountability. There is a high chance that, absent regulatory intervention, this dynamic will persist and potentially expand into critical policy domains.
   
-  Meanwhile, nuclear policy remains a source of global anxiety. President Trump’s recent boasts about potential renewed U.S. nuclear testing have reignited fears of an accelerated arms race. **Binoy Kampmark** critiques the “unfulfilled promises of disarmament by nuclear-armed states,” warning that such rhetoric could exacerbate international tensions. Layoffs at the National Nuclear Security Administration further complicate the situation, as budget cuts undermine the very workforce tasked with maintaining the U.S. arsenal. The paradox of pushing for nuclear modernization while reducing oversight capacity is, as Kampmark observes, a “recipe for instability.”
+  Environmental concerns have also resurfaced, particularly regarding the practices of major tech corporations. Amazon’s aggressive data center expansion has come under fire for its lack of transparency around water consumption, despite public commitments to sustainability. As **Kampmark** notes, “Amazon’s sustainability initiatives may obscure the true environmental impact of its practices.” The consensus is that mounting public and regulatory pressure will force greater disclosure from tech giants, but meaningful change remains uncertain. There is a high chance of increased scrutiny and possible regulatory action in the near future, though the effectiveness of such measures is still in question.
   
-  On the resource front, Australia’s deepening alignment with the United States over critical minerals and defense technology continues to draw scrutiny. The recent White House meeting between Prime Minister Albanese and President Trump produced a framework for cooperation that, according to **Binoy Kampmark**, raises “concerns about Australian sovereignty and the unequal nature of the partnership.” While media coverage has focused on diplomatic optics, the strategic implications—particularly for Australia’s autonomy—are significant.
+  On the security front, the U.S. nuclear posture continues to generate controversy. President Trump’s recent boasts about potential renewed nuclear testing, coupled with layoffs at the National Nuclear Security Administration, have drawn criticism for undermining both disarmament efforts and the stability of the U.S. nuclear arsenal. **Kampmark** highlights the paradox of “reducing the workforce responsible for maintaining the U.S. nuclear arsenal while questioning the need for nuclear modernization.” The prevailing assessment is that these moves could exacerbate global tensions and accelerate an arms race, with a high chance of further diplomatic fallout if nuclear testing resumes.
   
-  **Trends and Predictions:**  
-  The majority of analysts agree that corporate greenwashing, especially in the tech sector, will come under increasing scrutiny as environmental crises intensify. There is a high chance that Amazon and similar firms will face regulatory pressure to disclose resource usage more transparently. On the nuclear front, there is a high chance that renewed U.S. testing rhetoric will provoke reciprocal moves from other nuclear powers, increasing the risk of escalation—though actual testing remains less certain. Regarding Australia-U.S. resource cooperation, there is a high chance that domestic opposition in Australia will grow, but the strategic partnership will most definitely deepen, given current geopolitical alignments.
-  
-  In sum, the coming weeks will likely see heightened debate over environmental transparency, nuclear policy, and resource sovereignty, with significant implications for global stability and governance.
+  In summary, the latest developments point to a world where technological advances, environmental responsibility, and security policy are increasingly interwoven, often to the detriment of transparency and long-term stability. Most definitely, the coming months will see intensified debates over the regulation of AI and big tech, as well as heightened international concern over U.S. nuclear policy.
 articles:
+  - title: 'Consultants and Artificial Intelligence: The Next Great Confidence Trick'
+    url: https://www.counterpunch.org/2025/11/10/consultants-and-artificial-intelligence-the-next-great-confidence-trick/
+    text: 'Why trust these gold seeking buffoons of questionable expertise? Overpaid
+      as they are by gullible clients who really ought to know better, consultancy firms
+      are now getting paid for work done by non-humans, conventionally called “generative
+      artificial intelligence”. Occupying some kind of purgatorial space of amoral pursuit,
+      these vague, private sector entities offer the services that could (and should)
+      just as easily be done within government or a firm at a fraction of the cost.
+      Increasingly, the next confidence trick is taking hold: automation using large
+      language models.
+
+
+      First, let’s consider why companies such as McKinsey, Bain & Company and Boston
+      Consulting Group are the sorts that should be tarred, feathered and run out of
+      town. Opaque in their operations, hostile to accountability, the consultancy industry
+      secures lucrative contracts with large corporations and governments of a Teflon
+      quality. Their selling point is external expertise of a singular quality, a promise
+      that serves to discourage expertise that should be sharpened by government officials
+      or business employees. The other, and here, we have a silly, rosy view from The
+      Economist, such companies “make available specialist knowledge that may not exist
+      within some organisations, from deploying cloud computing to assessing climate
+      change’s impact on supply chains. By performing similar work for many clients,
+      consultants spread productivity-enhancing practices.”
+
+
+      Leaving that ghastly, mangled prose aside, the same paper admits that generating
+      such advice can lead to a “self-protection racket.” The CEO of a company wishing
+      to thin the ranks of employees can rely on a favourable assessment that will justify
+      the brutal measure; consultants are hardly going to submit something that would
+      suggest the preservation of jobs.
+
+
+      The emergence of AI and its effects on the consulting industry yields two views.
+      One insists that the very advent of automated platforms such as ChatGPT will make
+      the consultant vanish into nursing home obsolescence. Travis Kalanick, cofounder
+      of that most mercenary of platforms Uber, is very much a proponent of this. “If
+      you’re a traditional consultant and you’re just doing the thing, you’re executing
+      the thing, you’re probably in some trouble,” he suggested to Peter Diamandis during
+      the 2025 Abundance Summit. This, however, had to be qualified through the operating
+      principle involving the selection of the fittest. “If you’re the consultant that
+      puts the things together that replaces the consultant, maybe you got some stuff.”
+
+
+      There would be some truth to this, in so far as junior consultants handling the
+      dreary, tilling business of research, modelling and analysis could find themselves
+      cheapened into redundancy, leaving the dim sharks at the apex dreaming about strategy
+      and coddling their clients with flattering emails automated by software.
+
+
+      The other view is that AI is a herald for efficiency, sharpening the ostensible
+      worth of the consultant. Kearney senior partner, Anshuman Sengar, brightly extols
+      the virtues of the technology in an interview with the Australian Financial Review.
+      Generative AI tools “save me up to 10 to 20 percent of my time.” As he could not
+      attend every meeting or read every article, this had “increased” relevant coverage.
+      Crisp summaries of meetings and webinars could be generated. Accuracy was not
+      a problem here as “the input data is your own meeting.”
+
+
+      Mindful of any sceptics of the industry keen to identify sloth, Sengar was careful
+      to emphasise the care he took in drafting emails with the use of such tools as
+      Copilot. “I’m very thoughtful. If an email needs a high degree of EQ [emotional
+      intelligence], and if I’m writing to a senior client, I would usually do it myself.”
+      The mention of the word “usually” is most reassuring, and something that hoodwinked
+      clients would do well to heed.
+
+
+      Across the field, we see the use of agentic AI, typically the sort of software
+      agents that complete menial tasks. In 2024, Boston Consulting Group earned a fifth
+      of its revenue from AI related work. IBM raked in over US$1 billion sales commitments
+      for consulting work through its Watsonx system. From earning no revenue from such
+      tools in 2023, KPMG International received something in the order of US$650 million
+      in business ventures because of generative AI.
+
+
+      The others to profit in this cash bonanza of wonkiness are companies in the business
+      of creating generative AI. In May last year, PwC purchased over 100,000 licenses
+      of OpenAI’s ChatGPT Enterprise system, making it the company’s largest customer.
+
+
+      Seeking the services of these consultancy guided platforms is an exercise in cerebral
+      corrosion. Deloitte offers its Zora AI platform, which uses NVIDIA AI. “Simplify
+      enterprise operations, boost productivity and efficiency, and drive more confident
+      decision making that unlocks business value, with the help of an ever-growing
+      portfolio of specialized AI agents,” states the company’s pitch to potential customers.
+      It babbles and stumbles along to suggest that such agents “augment your human
+      workforce with extensive domain-specific intelligence, flexible technical architecture,
+      and built-in transparency to autonomously execute and analyze complex business
+      processes.”
+
+
+      Given such an advertisement, the middle ground of snake oil consultancy looks
+      increasingly irrelevant – not that it should have been relevant to begin with.
+      Why bother with Deloitte’s hack pretences when you can get the raw technology
+      from NVIDIA? But the authors of a September article in the Harvard Business Review
+      insist that consultancy is here to stay. (They would, given their pedigree.) The
+      industry is merely “being fundamentally reshaped.” And hardly for the better.'
+    one_sentence_summary: The article critiques the consulting industry for its reliance
+      on generative AI to perform tasks that could be done more efficiently and cost-effectively
+      by in-house teams, suggesting that this trend not only undermines the value of
+      human expertise but also perpetuates a cycle of dependency on opaque, overpaid
+      consultancy firms.
+    paragraph_summary: The article critiques the consulting industry, particularly firms
+      like McKinsey and Bain & Company, for their opaque operations and reliance on
+      generative artificial intelligence (AI) to perform tasks that could be done more
+      efficiently in-house at a lower cost. It highlights the industry's tendency to
+      promote external expertise while undermining the development of internal skills
+      within organizations, leading to a "self-protection racket" where consultants
+      provide favorable assessments to justify layoffs. The emergence of AI is seen
+      as a double-edged sword; while some argue it could render traditional consultants
+      obsolete, others believe it enhances their efficiency. However, the article ultimately
+      suggests that the consulting sector, despite its flaws and the rise of AI, is
+      unlikely to disappear but will be reshaped in ways that may not benefit clients.
+    published: '2025-11-10T06:54:44+00:00'
   - title: 'Draining Practices: Amazon, Water Consumption and Data Centers'
     url: https://www.counterpunch.org/2025/11/04/draining-practices-amazon-water-consumption-and-data-centers/
     text: 'Amazon, ruthless, mean spirited, soulless and wedded to the obscene profit

@@ -7,19 +7,1643 @@ description: "Veteran Middle East war correspondent; provides first-hand analysi
 websites:
   - https://ejmagnier.com
 summary: |
-  Lebanon remains at the center of regional instability, with its internal crisis compounded by persistent external pressure. The country's severe socio-economic collapse and governance paralysis have prompted U.S. Envoy Thomas Barrack to label Lebanon a "failed state." However, as **Elijah J. Magnier** notes, Barrack's ongoing engagement with Lebanese officials suggests a more complex agenda, raising questions about Washington's true intentions. The "failed state" designation, according to Magnier, serves as a political tool rather than a neutral assessment, especially given the U.S. role in shaping Lebanon's current predicament.
+  Nearly two years into Israel’s campaign to dismantle Hamas in Gaza, the conflict has reached a critical juncture, with the latest developments highlighting persistent intelligence failures and the enduring resilience of Hamas’s underground operations. According to **Elijah J. Magnier**, despite “extensive military efforts and resources from Israel and its allies,” Israeli forces have failed to locate and neutralize a decisive Hamas tunnel in Rafah. This operational blind spot was underscored by the recent recovery of an Israeli officer’s remains—achieved only on Hamas’s terms—and a subsequent deadly attack on another Israeli officer, indicating that Hamas retains significant operational capacity underground.
   
-  Meanwhile, the 2024 truce between Israel and Lebanon has effectively unraveled. Daily Israeli strikes, justified as self-defense, have rendered the ceasefire a mere facade. **Elijah J. Magnier** emphasizes that these operations maintain Lebanon in a state of perpetual threat, keeping the country destabilized without a formal declaration of war. This strategy allows Israel to exert continuous pressure while avoiding the diplomatic consequences of open conflict.
+  Magnier’s analysis, echoed across multiple language editions, stresses that Israeli and Western intelligence have repeatedly targeted the wrong locations, revealing a “collapse of intelligence” and an inability to disrupt Hamas’s subterranean warfare. The tunnel network remains not only intact but actively used for both military operations and psychological leverage.
   
-  On the broader regional front, U.S. policy continues to enable Israeli military actions, particularly in Gaza. The language of "revenge" endorsed by figures like Donald Trump, as highlighted by **Elijah J. Magnier**, undermines diplomatic norms and international law, granting Israel broad latitude for continued operations under the guise of self-defense.
+  While the destruction of Palestinian olive trees and the broader psychological warfare against Palestinian heritage remain ongoing concerns, there are no significant new developments on these fronts since the last reporting cycle. Similarly, the escalation of Israeli rhetoric against Hezbollah and Lebanon, including demands for disarmament and threats of expanded conflict, has not advanced with new actions or statements in the past 12 hours.
   
   **Trends and Predictions:**  
-  - There is a high chance that Lebanon's internal crisis will deepen, as external actors use the "failed state" narrative to justify further intervention or pressure.
-  - The current pattern of Israeli strikes is most definitely set to continue, keeping Lebanon in a state of "no peace, no war" and preventing meaningful stabilization.
-  - U.S. support for Israeli actions, both in Lebanon and Gaza, is unlikely to waver in the near term, reinforcing the cycle of instability in the region.
-  
-  In summary, the intersection of internal collapse and external manipulation leaves Lebanon trapped in a cycle of crisis, with no clear path to recovery as regional power dynamics continue to play out at its expense.
+  The majority of sources, led by **Elijah J. Magnier**, agree that Israel’s inability to neutralize Hamas’s tunnel infrastructure in Rafah signals a strategic impasse. The resilience of Hamas’s underground network is likely to prolong the conflict and complicate any Israeli claims of victory or control in Gaza. Given the repeated intelligence shortcomings and ongoing effective Hamas operations, I guarantee that the Israeli campaign will continue to face major obstacles, with little prospect for a decisive breakthrough in the near term. The situation is set to remain highly volatile, with a high chance of further attritional warfare and psychological operations shaping the conflict’s next phase.
 articles:
+  - title: 'Israels strategische Blindheit in Rafah: Der Zusammenbruch der Geheimdienste
+      und die Widerstandsfähigkeit des Untergrundkriegs der Hamas'
+    url: https://ejmagnier.com/2025/11/11/israels-strategische-blindheit-in-rafah-der-zusammenbruch-der-geheimdienste-und-die-widerstandsfahigkeit-des-untergrundkriegs-der-hamas/
+    text: 'Von Elijah J. Magnier – Seit fast zwei Jahren investieren Israel und seine
+      mächtigsten westlichen Verbündeten beispiellose Ressourcen in eine Kriegskampagne,
+      die, wie sie versprachen, die militärischen Kapazitäten der Hamas im Gazastreifen
+      zerschlagen würde. Das Paradox dieser Kampagne ist in Rafah schmerzlich deutlich
+      geworden: Nach monatelangen Ausgrabungen, kontinuierlicher israelisch-amerikanisch-britischer
+      Luftüberwachung und der Errichtung eines befestigten Außenpostens nur wenige Dutzend
+      Meter vom Ort entfernt gelang es den israelischen Streitkräften nicht, einen wichtigen
+      Tunnel zu lokalisieren. Satellitenaufnahmen zeigten später, dass Israel lange
+      Zeit am falschen Ort aktiv war; die Überreste des israelischen Offiziers Hadar
+      Goldin wurden erst geborgen, als die Hamas beschloss, sie dem Internationalen
+      Komitee vom Roten Kreuz zu ihren eigenen Bedingungen zu übergeben. Eine Woche
+      nach dieser Übergabe tauchten Kämpfer aus dem unterirdischen Netz von Rafah auf
+      und töteten einen israelischen Offizier, was zeigte, dass genau das System, das
+      Israel zu zerstören vorgab, weiterhin funktionsfähig und tödlich war und weniger
+      als 200 Kämpfer beherbergte. Die Kreativität und Anpassungsfähigkeit des Widerstands
+      überwältigte die modernste Technologie und Militärmacht. Diese Abfolge von Ereignissen
+      ist nicht einfach eine Auflistung operativer Fehler. Sie offenbart einen systemischen
+      Zusammenbruch der Annahmen, die die israelische Strategie bestimmt haben – ein
+      übermäßiges Vertrauen in technische Sensoren, ein Verfall der menschlichen Intelligenz,
+      eine Unterschätzung der Täuschungsmanöver des Feindes und die Politisierung militärischer
+      Zeitpläne. Jedes dieser Versagen verstärkte die anderen und führte zu einem klassischen
+      Fall von Datensättigung ohne Verständnis: Israel sammelte Überwachungsdaten, konnte
+      aber die tatsächliche Struktur unter den Trümmern nicht erkennen. Technologische
+      Überlegenheit war Israels Verkaufsargument. Drohnen, Synthetic Aperture Radar,
+      bodendurchdringende Vermessungen und eine Reihe von elektronischen Abhörmaßnahmen
+      vermittelten den Eindruck vollständiger Sichtbarkeit. In Rafah führte diese Sichtbarkeit
+      jedoch eher zu Verwirrung als zu Klarheit. Wiederholte Bombardierungen veränderten
+      das Stadtbild; zerstörte Häuserblocks und umherliegende Trümmer löschten frühere
+      Orientierungspunkte aus und begruben alte Tunneleingänge unter neuen Schichten
+      von Trümmern. Sensoren, die sich in vorhersehbaren Umgebungen bewähren, waren
+      durch die sich ständig verändernde Topografie überfordert. Die israelische Annahme
+      – „wenn es einen Tunnel gibt, werden wir ihn entdecken“ – erwies sich als falsch,
+      wenn man sie mit einem unterirdischen System vergleicht, das bewusst so konstruiert
+      wurde, dass es die Ortung erschwert. Subscribe Subscribe to get access Read more
+      of this content when you subscribe today. Subscribe Submitting form Log in Make
+      a one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly'
+    one_sentence_summary: Trotz intensiver militärischer Bemühungen und Überwachung
+      durch Israel und seine westlichen Verbündeten gelang es den israelischen Streitkräften
+      nicht, einen entscheidenden Tunnel der Hamas in Rafah zu finden, was die Ineffektivität
+      ihrer Kampagne zur Zerschlagung der militärischen Kapazitäten der Gruppe verdeutlicht.
+    paragraph_summary: In einem Artikel von Elijah J. Magnier wird die gescheiterte
+      israelische Militärkampagne gegen die Hamas im Gazastreifen thematisiert, die
+      trotz erheblicher Ressourcen und modernster Technologie nicht in der Lage war,
+      entscheidende militärische Strukturen zu lokalisieren, insbesondere einen wichtigen
+      Tunnel in Rafah. Trotz monatelanger Überwachung und militärischer Präsenz blieb
+      Israel im Unklaren über die tatsächlichen Gegebenheiten, was zu einem systematischen
+      Zusammenbruch der strategischen Annahmen führte, die die israelische Militärstrategie
+      prägten. Die Überbetonung technischer Sensoren, ein Mangel an menschlicher Intelligenz
+      und die Unterschätzung der Täuschungsstrategien der Hamas führten zu einem Missverhältnis
+      zwischen gesammelten Daten und deren Interpretation. Letztlich zeigte sich, dass
+      die Widerstandsfähigkeit und Anpassungsfähigkeit der Hamas die israelischen Bemühungen
+      übertrafen, was die vermeintliche technologische Überlegenheit Israels in Frage
+      stellte.
+    published: '2025-11-11T18:46:02+00:00'
+  - title: 'Israels strategische Blindheit in Rafah: Der Zusammenbruch der Geheimdienste
+      und die Widerstandsfähigkeit des Untergrundkriegs der Hamas'
+    url: https://ejmagnier.com/2025/11/11/israels-strategische-blindheit-in-rafah-der-zusammenbruch-der-geheimdienste-und-die-widerstandsfahigkeit-des-untergrundkriegs-der-hamas/
+    text: 'Von Elijah J. Magnier – Seit fast zwei Jahren investieren Israel und seine
+      mächtigsten westlichen Verbündeten beispiellose Ressourcen in eine Kriegskampagne,
+      die, wie sie versprachen, die militärischen Kapazitäten der Hamas im Gazastreifen
+      zerschlagen würde. Das Paradox dieser Kampagne ist in Rafah schmerzlich deutlich
+      geworden: Nach monatelangen Ausgrabungen, kontinuierlicher israelisch-amerikanisch-britischer
+      Luftüberwachung und der Errichtung eines befestigten Außenpostens nur wenige Dutzend
+      Meter vom Ort entfernt gelang es den israelischen Streitkräften nicht, einen wichtigen
+      Tunnel zu lokalisieren. Satellitenaufnahmen zeigten später, dass Israel lange
+      Zeit am falschen Ort aktiv war; die Überreste des israelischen Offiziers Hadar
+      Goldin wurden erst geborgen, als die Hamas beschloss, sie dem Internationalen
+      Komitee vom Roten Kreuz zu ihren eigenen Bedingungen zu übergeben. Eine Woche
+      nach dieser Übergabe tauchten Kämpfer aus dem unterirdischen Netz von Rafah auf
+      und töteten einen israelischen Offizier, was zeigte, dass genau das System, das
+      Israel zu zerstören vorgab, weiterhin funktionsfähig und tödlich war und weniger
+      als 200 Kämpfer beherbergte. Die Kreativität und Anpassungsfähigkeit des Widerstands
+      überwältigte die modernste Technologie und Militärmacht. Diese Abfolge von Ereignissen
+      ist nicht einfach eine Auflistung operativer Fehler. Sie offenbart einen systemischen
+      Zusammenbruch der Annahmen, die die israelische Strategie bestimmt haben – ein
+      übermäßiges Vertrauen in technische Sensoren, ein Verfall der menschlichen Intelligenz,
+      eine Unterschätzung der Täuschungsmanöver des Feindes und die Politisierung militärischer
+      Zeitpläne. Jedes dieser Versagen verstärkte die anderen und führte zu einem klassischen
+      Fall von Datensättigung ohne Verständnis: Israel sammelte Überwachungsdaten, konnte
+      aber die tatsächliche Struktur unter den Trümmern nicht erkennen. Technologische
+      Überlegenheit war Israels Verkaufsargument. Drohnen, Synthetic Aperture Radar,
+      bodendurchdringende Vermessungen und eine Reihe von elektronischen Abhörmaßnahmen
+      vermittelten den Eindruck vollständiger Sichtbarkeit. In Rafah führte diese Sichtbarkeit
+      jedoch eher zu Verwirrung als zu Klarheit. Wiederholte Bombardierungen veränderten
+      das Stadtbild; zerstörte Häuserblocks und umherliegende Trümmer löschten frühere
+      Orientierungspunkte aus und begruben alte Tunneleingänge unter neuen Schichten
+      von Trümmern. Sensoren, die sich in vorhersehbaren Umgebungen bewähren, waren
+      durch die sich ständig verändernde Topografie überfordert. Die israelische Annahme
+      – „wenn es einen Tunnel gibt, werden wir ihn entdecken“ – erwies sich als falsch,
+      wenn man sie mit einem unterirdischen System vergleicht, das bewusst so konstruiert
+      wurde, dass es die Ortung erschwert. Subscribe Subscribe to get access Read more
+      of this content when you subscribe today. Subscribe Submitting form Log in Make
+      a one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly'
+    one_sentence_summary: Trotz intensiver militärischer Bemühungen und Überwachung
+      durch Israel und seine westlichen Verbündeten gelang es den israelischen Streitkräften
+      nicht, einen entscheidenden Tunnel der Hamas in Rafah zu finden, was die Ineffektivität
+      ihrer Kampagne zur Zerschlagung der militärischen Kapazitäten der Gruppe verdeutlicht.
+    paragraph_summary: In einem Artikel von Elijah J. Magnier wird die gescheiterte
+      israelische Militärkampagne gegen die Hamas im Gazastreifen thematisiert, die
+      trotz erheblicher Ressourcen und modernster Technologie nicht in der Lage war,
+      entscheidende militärische Strukturen zu lokalisieren, insbesondere einen wichtigen
+      Tunnel in Rafah. Trotz monatelanger Überwachung und militärischer Präsenz blieb
+      Israel im Unklaren über die tatsächlichen Gegebenheiten, was zu einem systematischen
+      Zusammenbruch der strategischen Annahmen führte, die die israelische Militärstrategie
+      prägten. Die Überbetonung technischer Sensoren, ein Mangel an menschlicher Intelligenz
+      und die Unterschätzung der Täuschungsstrategien der Hamas führten zu einem Missverhältnis
+      zwischen gesammelten Daten und deren Interpretation. Letztlich zeigte sich, dass
+      die Widerstandsfähigkeit und Anpassungsfähigkeit der Hamas die israelischen Bemühungen
+      übertrafen, was die vermeintliche technologische Überlegenheit Israels in Frage
+      stellte.
+    published: '2025-11-11T18:46:02+00:00'
+  - title: 'Israëls strategische blindheid in Rafah: de ineenstorting van de inlichtingendienst
+      en het uithoudingsvermogen van Hamas’ ondergrondse oorlog'
+    url: https://ejmagnier.com/2025/11/11/israels-strategische-blindheid-in-rafah-de-ineenstorting-van-de-inlichtingendienst-en-het-uithoudingsvermogen-van-hamas-ondergrondse-oorlog/
+    text: 'Geschreven door Elijah J. Magnier – Vertaald door Francis J. Al bijna twee
+      jaar hebben Israël en zijn machtigste westerse bondgenoten ongekende middelen
+      ingezet in een oorlogscampagne die Hamas’ militaire capaciteiten in Gaza volledig
+      zou vernietigen. De paradox van die campagne is pijnlijk zichtbaar geworden in
+      Rafah: na maanden van graafwerk, voortdurende Israëlisch-Amerikaans-Britse luchtobservatie
+      en de bouw van een versterkte buitenpost op enkele tientallen meters van de locatie,
+      slaagden Israëlische troepen er niet in een cruciale tunnel te lokaliseren. Satellietverificatie
+      toonde later aan dat Israël lange tijd op de verkeerde plaats actief was geweest;
+      de stoffelijke resten van de Israëlische officier Hadar Goldin werden pas gevonden
+      toen Hamas besloot ze over te dragen aan het Internationale Comité van het Rode
+      Kruis, op voorwaarden die het zelf bepaalde. Een week na die overdracht kwamen
+      strijders uit Rafahs ondergrondse netwerk tevoorschijn om een Israëlische officier
+      te doden – een bewijs dat het systeem dat Israël beweerde te vernietigen nog operationeel
+      en dodelijk was, met minder dan tweehonderd strijders in zijn gelederen. De vindingrijkheid
+      en aanpassingsvermogen van het verzet bleken sterker dan Israëls technologisch
+      en militair overwicht. Deze gebeurtenissen vormen geen eenvoudige reeks operationele
+      fouten. Ze leggen een systemische ineenstorting bloot in de aannames waarop Israëls
+      strategie rust: een te groot vertrouwen in technologische sensoren, een verval
+      van menselijke inlichtingen, een onderschatting van vijandelijke misleiding en
+      de politisering van militaire tijdlijnen. Elk van deze tekortkomingen versterkte
+      de andere, wat resulteerde in een klassiek geval van dataverzadiging zonder inzicht:
+      Israël verzamelde observatie, maar kon de werkelijkheid onder het puin niet zien.
+      Technologische superioriteit is Israëls handelsmerk geweest. Drones, synthetische
+      apertuurradar, grondpenetrerende scanners en een scala aan elektronische intercepties
+      wekten de indruk van totale zichtbaarheid. In Rafah leverde dat echter meer ruis
+      dan helderheid op. Herhaaldelijke bombardementen veranderden het stadslandschap;
+      verwoeste wijken en verschoven puinmassa’s maakten eerdere referentiepunten onbruikbaar
+      en begroeven oude tunnelopeningen onder nieuwe lagen afval. Apparatuur die uitblinkt
+      in voorspelbare omgevingen raakte in de war door een topografie die voortdurend
+      in gewelddadige verandering was. De Israëlische veronderstelling: “als er een
+      tunnel is, zullen we die detecteren”, bleek niet te kloppen tegenover een stelsel
+      dat juist ontworpen was om detectie te frustreren. Subscribe Subscribe to get
+      access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Na bijna twee jaar van intensieve militaire inspanningen door
+      Israël en zijn westerse bondgenoten om Hamas in Gaza te vernietigen, blijkt uit
+      de mislukte zoektocht naar een cruciale tunnel dat ze vaak op de verkeerde locaties
+      actief waren, wat culminerde in de ontdekking van de stoffelijke resten van een
+      Israëlische officier door Hamas, gevolgd door een dodelijke aanval op een andere
+      Israëlische officier.
+    paragraph_summary: In een artikel van Elijah J. Magnier wordt de falende militaire
+      campagne van Israël en zijn westerse bondgenoten tegen Hamas in Gaza belicht,
+      die gericht was op het volledig vernietigen van Hamas' militaire capaciteiten.
+      Ondanks maanden van intensieve inspanningen, waaronder luchtobservatie en het
+      bouwen van een versterkte buitenpost, slaagden Israëlische troepen er niet in
+      een cruciale tunnel te vinden, wat aantoont dat hun strategische aannames en afhankelijkheid
+      van technologie tekortschoten. De ontdekking van de stoffelijke resten van de
+      Israëlische officier Hadar Goldin, pas na de overdracht door Hamas, en de daaropvolgende
+      succesvolle aanval door strijders uit Rafah, illustreren dat het verzet nog steeds
+      operationeel en dodelijk is. Dit wijst op een systemische ineenstorting in Israël's
+      militaire strategie, gekenmerkt door een te groot vertrouwen in technologie, een
+      tekort aan menselijke inlichtingen en een onderschatting van vijandelijke tactieken,
+      wat resulteerde in dataverzadiging zonder daadwerkelijk inzicht in de situatie
+      op de grond.
+    published: '2025-11-11T18:43:23+00:00'
+  - title: 'Israëls strategische blindheid in Rafah: de ineenstorting van de inlichtingendienst
+      en het uithoudingsvermogen van Hamas’ ondergrondse oorlog'
+    url: https://ejmagnier.com/2025/11/11/israels-strategische-blindheid-in-rafah-de-ineenstorting-van-de-inlichtingendienst-en-het-uithoudingsvermogen-van-hamas-ondergrondse-oorlog/
+    text: 'Geschreven door Elijah J. Magnier – Vertaald door Francis J. Al bijna twee
+      jaar hebben Israël en zijn machtigste westerse bondgenoten ongekende middelen
+      ingezet in een oorlogscampagne die Hamas’ militaire capaciteiten in Gaza volledig
+      zou vernietigen. De paradox van die campagne is pijnlijk zichtbaar geworden in
+      Rafah: na maanden van graafwerk, voortdurende Israëlisch-Amerikaans-Britse luchtobservatie
+      en de bouw van een versterkte buitenpost op enkele tientallen meters van de locatie,
+      slaagden Israëlische troepen er niet in een cruciale tunnel te lokaliseren. Satellietverificatie
+      toonde later aan dat Israël lange tijd op de verkeerde plaats actief was geweest;
+      de stoffelijke resten van de Israëlische officier Hadar Goldin werden pas gevonden
+      toen Hamas besloot ze over te dragen aan het Internationale Comité van het Rode
+      Kruis, op voorwaarden die het zelf bepaalde. Een week na die overdracht kwamen
+      strijders uit Rafahs ondergrondse netwerk tevoorschijn om een Israëlische officier
+      te doden – een bewijs dat het systeem dat Israël beweerde te vernietigen nog operationeel
+      en dodelijk was, met minder dan tweehonderd strijders in zijn gelederen. De vindingrijkheid
+      en aanpassingsvermogen van het verzet bleken sterker dan Israëls technologisch
+      en militair overwicht. Deze gebeurtenissen vormen geen eenvoudige reeks operationele
+      fouten. Ze leggen een systemische ineenstorting bloot in de aannames waarop Israëls
+      strategie rust: een te groot vertrouwen in technologische sensoren, een verval
+      van menselijke inlichtingen, een onderschatting van vijandelijke misleiding en
+      de politisering van militaire tijdlijnen. Elk van deze tekortkomingen versterkte
+      de andere, wat resulteerde in een klassiek geval van dataverzadiging zonder inzicht:
+      Israël verzamelde observatie, maar kon de werkelijkheid onder het puin niet zien.
+      Technologische superioriteit is Israëls handelsmerk geweest. Drones, synthetische
+      apertuurradar, grondpenetrerende scanners en een scala aan elektronische intercepties
+      wekten de indruk van totale zichtbaarheid. In Rafah leverde dat echter meer ruis
+      dan helderheid op. Herhaaldelijke bombardementen veranderden het stadslandschap;
+      verwoeste wijken en verschoven puinmassa’s maakten eerdere referentiepunten onbruikbaar
+      en begroeven oude tunnelopeningen onder nieuwe lagen afval. Apparatuur die uitblinkt
+      in voorspelbare omgevingen raakte in de war door een topografie die voortdurend
+      in gewelddadige verandering was. De Israëlische veronderstelling: “als er een
+      tunnel is, zullen we die detecteren”, bleek niet te kloppen tegenover een stelsel
+      dat juist ontworpen was om detectie te frustreren. Subscribe Subscribe to get
+      access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Na bijna twee jaar van intensieve militaire inspanningen door
+      Israël en zijn westerse bondgenoten om Hamas in Gaza te vernietigen, blijkt uit
+      de mislukte zoektocht naar een cruciale tunnel dat ze vaak op de verkeerde locaties
+      actief waren, wat culminerde in de ontdekking van de stoffelijke resten van een
+      Israëlische officier door Hamas, gevolgd door een dodelijke aanval op een andere
+      Israëlische officier.
+    paragraph_summary: In een artikel van Elijah J. Magnier wordt de falende militaire
+      campagne van Israël en zijn westerse bondgenoten tegen Hamas in Gaza belicht,
+      die gericht was op het volledig vernietigen van Hamas' militaire capaciteiten.
+      Ondanks maanden van intensieve inspanningen, waaronder luchtobservatie en het
+      bouwen van een versterkte buitenpost, slaagden Israëlische troepen er niet in
+      een cruciale tunnel te vinden, wat aantoont dat hun strategische aannames en afhankelijkheid
+      van technologie tekortschoten. De ontdekking van de stoffelijke resten van de
+      Israëlische officier Hadar Goldin, pas na de overdracht door Hamas, en de daaropvolgende
+      succesvolle aanval door strijders uit Rafah, illustreren dat het verzet nog steeds
+      operationeel en dodelijk is. Dit wijst op een systemische ineenstorting in Israël's
+      militaire strategie, gekenmerkt door een te groot vertrouwen in technologie, een
+      tekort aan menselijke inlichtingen en een onderschatting van vijandelijke tactieken,
+      wat resulteerde in dataverzadiging zonder daadwerkelijk inzicht in de situatie
+      op de grond.
+    published: '2025-11-11T18:43:23+00:00'
+  - title: 'L’aveuglement stratégique d’Israël à Rafah : l’effondrement du renseignement
+      et la résilience de la guerre souterraine du Hamas'
+    url: https://ejmagnier.com/2025/11/11/laveuglement-strategique-disrael-a-rafah-leffondrement-du-renseignement-et-la-resilience-de-la-guerre-souterraine-du-hamas/
+    text: 'Par Elijah J. Magnier Depuis près de deux ans, Israël et ses plus puissants
+      alliés occidentaux ont investi des ressources sans précédent dans une campagne
+      militaire censée anéantir les capacités du Hamas dans la bande de Gaza. Le paradoxe
+      de cette guerre est devenu douloureusement visible à Rafah : après des mois d’excavations,
+      une surveillance aérienne israélo-américano-britannique ininterrompue et un poste
+      fortifié installé à quelques dizaines de mètres du site, les forces israéliennes
+      ont échoué à localiser un tunnel clé. Les vérifications satellitaires ont ensuite
+      montré une activité israélienne prolongée au mauvais endroit ; les restes de l’officier
+      israélien Hadar Goldin n’ont été retrouvés que lorsque le Hamas a choisi de les
+      remettre au Comité international de la Croix-Rouge selon ses propres conditions.
+      Quelques semaines avant cette restitution, des combattants sont sortis du réseau
+      souterrain de Rafah pour tuer un officier israélien, démontrant que le système
+      qu’Israël prétendait détruire restait opérationnel, létal et abritait moins de
+      deux cents combattants. La créativité et la capacité d’adaptation de la résistance
+      ont surpassé la technologie et la puissance militaire les plus sophistiquées.
+      Cette séquence d’événements ne relève pas d’une simple série d’erreurs opérationnelles.
+      Elle révèle un effondrement systémique des postulats qui ont guidé la stratégie
+      israélienne : une dépendance excessive aux capteurs techniques, une dégradation
+      du renseignement humain, une sous-estimation de la tromperie ennemie et une politisation
+      des calendriers militaires. Chacune de ces failles a renforcé les autres, produisant
+      un cas classique de saturation de données sans compréhension : Israël a accumulé
+      la surveillance sans percevoir la structure réelle sous les décombres. La suprématie
+      technologique est depuis toujours l’argument-clé d’Israël. Drones, radars à synthèse
+      d’ouverture, études géophysiques et interceptions électroniques ont entretenu
+      l’illusion d’une visibilité totale. À Rafah, pourtant, cette visibilité a généré
+      du bruit plutôt que de la clarté. Les bombardements répétés ont remodelé le paysage
+      urbain ; les blocs détruits et les gravats redistribués ont effacé les repères
+      précédents et enseveli les anciennes entrées de tunnels sous de nouvelles couches
+      de ruines. Les capteurs, efficaces dans des environnements prévisibles, se sont
+      trouvés déconcertés par une topographie en perpétuelle mutation violente. L’hypothèse
+      israélienne – « si un tunnel existe, nous le détecterons » – s’est révélée fausse
+      face à un système souterrain délibérément conçu pour contrecarrer toute détection.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly'
+    one_sentence_summary: Malgré des efforts militaires intensifs et une surveillance
+      constante, Israël a échoué à localiser un tunnel clé du Hamas à Rafah, illustrant
+      l'inefficacité de sa campagne contre le groupe militant dans la bande de Gaza.
+    paragraph_summary: Depuis près de deux ans, Israël et ses alliés occidentaux ont
+      mené une campagne militaire intense pour détruire les capacités du Hamas à Gaza,
+      mais cette guerre a révélé des paradoxes, notamment à Rafah, où les forces israéliennes
+      n'ont pas réussi à localiser un tunnel clé malgré des efforts considérables. Des
+      vérifications satellitaires ont montré que l'activité israélienne se concentrait
+      au mauvais endroit, et la récupération des restes d'un officier israélien n'a
+      eu lieu que lorsque le Hamas a décidé de les remettre, illustrant que le réseau
+      souterrain demeurait opérationnel et létal. Ces échecs ne sont pas seulement des
+      erreurs opérationnelles, mais plutôt le résultat d'un effondrement systémique
+      des stratégies israéliennes, marqué par une dépendance excessive à la technologie,
+      une dégradation du renseignement humain, une sous-estimation des tactiques ennemies
+      et une politisation des calendriers militaires. Cela a conduit à une accumulation
+      de données sans véritable compréhension de la situation sur le terrain, remettant
+      en question l'argument de la suprématie technologique d'Israël.
+    published: '2025-11-11T18:41:08+00:00'
+  - title: 'L’aveuglement stratégique d’Israël à Rafah : l’effondrement du renseignement
+      et la résilience de la guerre souterraine du Hamas'
+    url: https://ejmagnier.com/2025/11/11/laveuglement-strategique-disrael-a-rafah-leffondrement-du-renseignement-et-la-resilience-de-la-guerre-souterraine-du-hamas/
+    text: 'Par Elijah J. Magnier Depuis près de deux ans, Israël et ses plus puissants
+      alliés occidentaux ont investi des ressources sans précédent dans une campagne
+      militaire censée anéantir les capacités du Hamas dans la bande de Gaza. Le paradoxe
+      de cette guerre est devenu douloureusement visible à Rafah : après des mois d’excavations,
+      une surveillance aérienne israélo-américano-britannique ininterrompue et un poste
+      fortifié installé à quelques dizaines de mètres du site, les forces israéliennes
+      ont échoué à localiser un tunnel clé. Les vérifications satellitaires ont ensuite
+      montré une activité israélienne prolongée au mauvais endroit ; les restes de l’officier
+      israélien Hadar Goldin n’ont été retrouvés que lorsque le Hamas a choisi de les
+      remettre au Comité international de la Croix-Rouge selon ses propres conditions.
+      Quelques semaines avant cette restitution, des combattants sont sortis du réseau
+      souterrain de Rafah pour tuer un officier israélien, démontrant que le système
+      qu’Israël prétendait détruire restait opérationnel, létal et abritait moins de
+      deux cents combattants. La créativité et la capacité d’adaptation de la résistance
+      ont surpassé la technologie et la puissance militaire les plus sophistiquées.
+      Cette séquence d’événements ne relève pas d’une simple série d’erreurs opérationnelles.
+      Elle révèle un effondrement systémique des postulats qui ont guidé la stratégie
+      israélienne : une dépendance excessive aux capteurs techniques, une dégradation
+      du renseignement humain, une sous-estimation de la tromperie ennemie et une politisation
+      des calendriers militaires. Chacune de ces failles a renforcé les autres, produisant
+      un cas classique de saturation de données sans compréhension : Israël a accumulé
+      la surveillance sans percevoir la structure réelle sous les décombres. La suprématie
+      technologique est depuis toujours l’argument-clé d’Israël. Drones, radars à synthèse
+      d’ouverture, études géophysiques et interceptions électroniques ont entretenu
+      l’illusion d’une visibilité totale. À Rafah, pourtant, cette visibilité a généré
+      du bruit plutôt que de la clarté. Les bombardements répétés ont remodelé le paysage
+      urbain ; les blocs détruits et les gravats redistribués ont effacé les repères
+      précédents et enseveli les anciennes entrées de tunnels sous de nouvelles couches
+      de ruines. Les capteurs, efficaces dans des environnements prévisibles, se sont
+      trouvés déconcertés par une topographie en perpétuelle mutation violente. L’hypothèse
+      israélienne – « si un tunnel existe, nous le détecterons » – s’est révélée fausse
+      face à un système souterrain délibérément conçu pour contrecarrer toute détection.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly'
+    one_sentence_summary: Malgré des efforts militaires intensifs et une surveillance
+      constante, Israël a échoué à localiser un tunnel clé du Hamas à Rafah, illustrant
+      l'inefficacité de sa campagne contre le groupe militant dans la bande de Gaza.
+    paragraph_summary: Depuis près de deux ans, Israël et ses alliés occidentaux ont
+      mené une campagne militaire intense pour détruire les capacités du Hamas à Gaza,
+      mais cette guerre a révélé des paradoxes, notamment à Rafah, où les forces israéliennes
+      n'ont pas réussi à localiser un tunnel clé malgré des efforts considérables. Des
+      vérifications satellitaires ont montré que l'activité israélienne se concentrait
+      au mauvais endroit, et la récupération des restes d'un officier israélien n'a
+      eu lieu que lorsque le Hamas a décidé de les remettre, illustrant que le réseau
+      souterrain demeurait opérationnel et létal. Ces échecs ne sont pas seulement des
+      erreurs opérationnelles, mais plutôt le résultat d'un effondrement systémique
+      des stratégies israéliennes, marqué par une dépendance excessive à la technologie,
+      une dégradation du renseignement humain, une sous-estimation des tactiques ennemies
+      et une politisation des calendriers militaires. Cela a conduit à une accumulation
+      de données sans véritable compréhension de la situation sur le terrain, remettant
+      en question l'argument de la suprématie technologique d'Israël.
+    published: '2025-11-11T18:41:08+00:00'
+  - title: 'Israel’s Strategic Blindness in Rafah: The Collapse of Intelligence and
+      the Resilience of Hamas’s Underground War'
+    url: https://ejmagnier.com/2025/11/11/israels-strategic-blindness-in-rafah-the-collapse-of-intelligence-and-the-resilience-of-hamass-underground-war/
+    text: 'By Elijah J. Magnier – Almost two years, Israel and its most powerful western
+      allies have poured unprecedented resources into a war campaign it vowed would
+      finish Hamas’s military capacity in Gaza. The paradox of that campaign has become
+      painfully visible in Rafah: after months of excavation, continuous Israeli-American-British
+      aerial surveillance and a fortified outpost established a few dozen metres from
+      the site, Israeli forces failed to locate a key tunnel. Satellite verification
+      later showed prolonged Israeli activity in the wrong place; the remains of Israeli
+      officer Hadar Goldin were recovered only when Hamas chose to hand them to the
+      International Committee of the Red Cross on terms of its own making. Weeks before
+      that handover, fighters emerged from Rafah’s subterranean network to kill an Israeli
+      officer, demonstrating that the very system Israel claimed to be destroying remained
+      operational, lethal and hosts fewer than 200 fighters. The resistance’s creativity
+      and adaptation overpowered the most sophisticated technology and military power.
+      This sequence of events is not a simple catalogue of operational mistakes. It
+      exposes a systemic collapse in the assumptions that have driven Israeli strategy
+      – an overreliance on technical sensors, a decay of human intelligence, an underestimation
+      of enemy deception, and the politicisation of military timelines. Each of these
+      failures reinforced the others, producing a classic case of data saturation without
+      understanding: Israel accumulated surveillance but could not see the real structure
+      beneath the rubble. Technological supremacy has been Israel’s selling point. Drones,
+      synthetic-aperture radar, ground-penetrating surveys and an array of electronic
+      intercepts created the impression of total visibility. In Rafah, however, that
+      visibility produced noise rather than clarity. Repeated bombardment reshaped the
+      urban landscape; demolished blocks and reshuffled debris erased previous reference
+      points and buried old tunnel entrances under new layers of rubble. Sensors that
+      excel in predictable environments found themselves confounded by a topography
+      in constant violent flux. The Israeli assumption – “if a tunnel exists, we will
+      detect it” – proved false when measured against a subterranean system deliberately
+      engineered to frustrate detection. Subscribe Subscribe to get access Read more
+      of this content when you subscribe today. Subscribe Submitting form Log in Human
+      intelligence, once a reliable complement to sensors, is withering under siege
+      conditions. The population of Gaza has been subject to displacement, trauma and
+      coercion; a community under existential pressure is a poor source of accurate,
+      timely information. Informants can be compromised, coerced, or turn to disinformation
+      as a survival strategy. In such a context, a single compromised source can misdirect
+      months of costly engineering work. The subsequent public display of “progress”
+      – the ritual of announcing another excavation or shaft – looks less like operational
+      success and more like bureaucratic theatre designed to satisfy political imperatives.
+      Those political imperatives are critical. The Israeli government has invested
+      in maximalist rhetoric: “destroy the tunnels”, “eradicate Hamas”. When electoral
+      survival and public expectation press for visible results, commanders feel compelled
+      to show movement. That pressure transforms uncertain intelligence into momentum:
+      every shaft becomes a headline; every partial find is inflated into a victory.
+      In Rafah, momentum substituted for methodology. Months of digging in proximity
+      to the target were presented as progress while the true corridors of the network
+      remained intact elsewhere. Hamas’s response to Israel’s tools has been systematic
+      and generational. The network under Gaza is not a collection of hastily dug shafts
+      but a strategic organism – modular, redundant and adaptive engineering. Decades
+      of experience produced construction techniques that descend beyond routine detection
+      ranges, incorporate sealed and decoy sections, and interlink through multiple
+      vertical and horizontal layers. These tunnels are engineered to be reconfigurable:
+      sections can be abandoned, flooded, resealed and reopened; entrances can be moved
+      beneath reconstructed homes, mosques or rubble. Such design turns the underground
+      into a survivable logistics system – command-and-control rooms, munitions stores,
+      sheltered mobility routes – enabling continuity of operations even while the surface
+      is rendered uninhabitable. Beyond the engineering, the tunnels perform a psychological
+      function: endurance as strategy. The concealment and eventual transfer of Goldin’s
+      body after eleven years underlines this point. That concealment was not merely
+      about hiding a corpse; it was a long-term act of narrative leverage. By controlling
+      when and how to return the remains, Hamas converted a tactical event into a prolonged
+      instrument of humiliation and bargaining. The later attack from Rafah tunnels
+      – killing an Israeli officer after months of Israeli operations – reinforced the
+      message: subterranean survival is itself a form of strategic victory. The immediate
+      military consequences are stark. If forces cannot reliably map or neutralise subterranean
+      threats, the calculus of ground operations changes. Commanders confront a cruel
+      choice: proceed methodically with high casualty risk, or resort to broader standoff
+      bombardment that amplifies civilian suffering and political costs. Neither option
+      produces the declared objective of total defeat. Instead, Israel appears to be
+      settling into containment: maintaining partial occupation zones, enforcing buffer
+      areas, and relying on aerial suppression rather than decisive ground control.
+      That posture preserves manpower but concedes initiative, allowing Hamas to remain
+      the arbiter of escalation in the underground domain. This dynamic has broader
+      strategic implications. The public failure to find the Rafah tunnel damages the
+      credibility of Israel’s deterrence narrative and confirmed it has failed in achieving
+      its war objectives. Deterrence rests not only on capability but on perceived mastery;
+      when a state renowned for intelligence prowess digs for months beside a target
+      and fails, the image of omniscience cracks. The lesson is simple: sophisticated
+      surveillance cannot automatically translate into domination in environments where
+      an enemy invests time, engineering and secrecy. Political fractures in Israel
+      compound the military dilemma. Domestically, voices clash over how to handle the
+      small number of fighters reportedly still in Rafah’s tunnels. Washington, according
+      to diplomatic reporting, proposed a pragmatic—if politically fraught—solution:
+      allow fewer than two hundred Hamas fighters to exit Rafah unarmed and under guaranteed
+      safety, in exchange for the delivery of Goldin’s body and the protection of those
+      fighters by U.S. assurances. Steve Witkoff and Jared Kushner’s presence in Israel
+      to press for the arrangement highlights the extent of the US external pressure
+      to salvage the ceasefire and avoid its sabotage over a single case. Within Israel,
+      competing currents urge very different responses: some demand surrender and prosecution,
+      others call for summary execution or for exile to a third country. That diplomatic
+      bargaining illuminates the interplay of military failure and political expedience.
+      If the United States can secure an arrangement that removes a small number of
+      fighters while securing the body’s return, it stabilises the immediate truce.
+      But it also institutionalises a pragmatic, if uncomfortable, compromise: an enemy’s
+      fighters slip away from the battlefield intact while Israel accepts the symbolic
+      cost of failing to capture them. For an Israeli government that hinges much of
+      its legitimacy on visible success, that outcome is politically costly; yet the
+      alternative – renewed broad-scale operations to root them out – risks catastrophic
+      escalation that neither Israel nor its partners wish to invite. Rafah has thus
+      become a mirror – reflecting the limits of force when divorced from adaptable
+      intelligence and political clarity. The Strip is paradoxically the most observed
+      and the least understood battleground on earth. Israel’s sensors record everything
+      but its interpretation lags behind; Hamas’s long-term investment in subterranean
+      resilience converts technological surveillance into strategic illusion. The result
+      is not merely tactical embarrassment but cognitive defeat: a state that once presumed
+      to know every inch of its environment now confronts the fact that some domains
+      remain sovereign to those who have prepared them for invisibility. If anything,
+      Rafah is a wake-up call. Military power without epistemic humility produces ruin
+      rather than resolution. The tunnels will not vanish because of bombs alone; they
+      are an infrastructure that demands methodical, patient, intelligence-led approaches
+      coupled with political strategies that address the underlying drivers of the conflict.
+      Until such a recalibration occurs, the pattern exposed in Rafah – months of effort,
+      scant strategic gain, and repeated civilian suffering – will repeat itself: overwhelming
+      force, limited control, and a subterranean resilience that reshapes the very meaning
+      of defeat and victory in Gaza. Prime Minister Benjamin Netanyahu accepted the
+      limitation of his army in finding and destroying Hamas’s tunnels but has another
+      pressing issue to deal with at the moment. He finds himself stranded between allowing
+      a free passage to Hamas fighters in Rafah’s tunnels and jeopardising the ceasefire
+      if he refuses the US deal. His government is trapped in domestic crisis even as
+      external mediators press for a pragmatic closure. Nevertheless, he is unwilling
+      to clash with the US and has already said he will do “whatever is in the interest
+      of Israel” to reach a compromise. He may ultimately yield to US demands but will
+      do his best to divide and slow down the most crucial part of the ceasefire, phase
+      two: the withdrawal of all Israeli forces, the international force that will operate
+      in Gaza, and the reconstruction of the Strip. Rafah, however, has already exposed
+      the deeper fault line. It has revealed the exhaustion of a strategy built on surveillance
+      without comprehension and force without foresight. The episode encapsulates Israel’s
+      strategic blindness: a state that once prided itself on omniscient intelligence
+      now confronts the limits of its own assumptions. Military power, stripped of interpretive
+      understanding, becomes an engine of repetition rather than resolution. The underground
+      war has inverted the hierarchy of visibility — Hamas operates in the unseen while
+      Israel remains trapped in the glare of its own sensors. Netanyahu’s political
+      paralysis mirrors this cognitive impasse. His dilemma between appeasing Washington,
+      managing domestic fracture, and salvaging a faltering campaign is not merely political;
+      it symbolises the broader disorientation of a state fighting shadows it can no
+      longer define. Unless Israel rethinks its epistemology of war — integrating human
+      intelligence, strategic patience, and political realism — Rafah will stand as
+      the emblem of a wider defeat: overwhelming force, minimal control, and an adversary
+      whose survival in darkness continues to reshape the meaning of deterrence and
+      victory alike. Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Despite extensive military efforts and resources from Israel
+      and its allies aimed at dismantling Hamas's capabilities in Gaza, the ongoing
+      conflict has revealed that Hamas's tunnel network remains operational and effective,
+      as evidenced by recent attacks and the recovery of an Israeli officer's remains
+      only through Hamas's terms.
+    paragraph_summary: In a detailed analysis, Elijah J. Magnier highlights the failures
+      of Israel's extensive military campaign against Hamas in Gaza, particularly in
+      Rafah, where despite significant resources and advanced technology, Israeli forces
+      struggled to locate a key tunnel and ultimately recovered the remains of an Israeli
+      officer only through Hamas’s terms. The article argues that this situation reflects
+      a systemic collapse in Israeli military strategy, characterized by an overreliance
+      on technological surveillance, a decline in human intelligence, and a misunderstanding
+      of enemy tactics. The reliance on sophisticated tools created an illusion of total
+      visibility, yet resulted in confusion and operational mistakes, as the bombardment
+      altered the urban landscape, obscuring critical references and enabling Hamas
+      to maintain its operational capacity with fewer than 200 fighters.
+    published: '2025-11-11T18:32:02+00:00'
+  - title: 'Israel’s Strategic Blindness in Rafah: The Collapse of Intelligence and
+      the Resilience of Hamas’s Underground War'
+    url: https://ejmagnier.com/2025/11/11/israels-strategic-blindness-in-rafah-the-collapse-of-intelligence-and-the-resilience-of-hamass-underground-war/
+    text: 'By Elijah J. Magnier – Almost two years, Israel and its most powerful western
+      allies have poured unprecedented resources into a war campaign it vowed would
+      finish Hamas’s military capacity in Gaza. The paradox of that campaign has become
+      painfully visible in Rafah: after months of excavation, continuous Israeli-American-British
+      aerial surveillance and a fortified outpost established a few dozen metres from
+      the site, Israeli forces failed to locate a key tunnel. Satellite verification
+      later showed prolonged Israeli activity in the wrong place; the remains of Israeli
+      officer Hadar Goldin were recovered only when Hamas chose to hand them to the
+      International Committee of the Red Cross on terms of its own making. Weeks before
+      that handover, fighters emerged from Rafah’s subterranean network to kill an Israeli
+      officer, demonstrating that the very system Israel claimed to be destroying remained
+      operational, lethal and hosts fewer than 200 fighters. The resistance’s creativity
+      and adaptation overpowered the most sophisticated technology and military power.
+      This sequence of events is not a simple catalogue of operational mistakes. It
+      exposes a systemic collapse in the assumptions that have driven Israeli strategy
+      – an overreliance on technical sensors, a decay of human intelligence, an underestimation
+      of enemy deception, and the politicisation of military timelines. Each of these
+      failures reinforced the others, producing a classic case of data saturation without
+      understanding: Israel accumulated surveillance but could not see the real structure
+      beneath the rubble. Technological supremacy has been Israel’s selling point. Drones,
+      synthetic-aperture radar, ground-penetrating surveys and an array of electronic
+      intercepts created the impression of total visibility. In Rafah, however, that
+      visibility produced noise rather than clarity. Repeated bombardment reshaped the
+      urban landscape; demolished blocks and reshuffled debris erased previous reference
+      points and buried old tunnel entrances under new layers of rubble. Sensors that
+      excel in predictable environments found themselves confounded by a topography
+      in constant violent flux. The Israeli assumption – “if a tunnel exists, we will
+      detect it” – proved false when measured against a subterranean system deliberately
+      engineered to frustrate detection. Subscribe Subscribe to get access Read more
+      of this content when you subscribe today. Subscribe Submitting form Log in Human
+      intelligence, once a reliable complement to sensors, is withering under siege
+      conditions. The population of Gaza has been subject to displacement, trauma and
+      coercion; a community under existential pressure is a poor source of accurate,
+      timely information. Informants can be compromised, coerced, or turn to disinformation
+      as a survival strategy. In such a context, a single compromised source can misdirect
+      months of costly engineering work. The subsequent public display of “progress”
+      – the ritual of announcing another excavation or shaft – looks less like operational
+      success and more like bureaucratic theatre designed to satisfy political imperatives.
+      Those political imperatives are critical. The Israeli government has invested
+      in maximalist rhetoric: “destroy the tunnels”, “eradicate Hamas”. When electoral
+      survival and public expectation press for visible results, commanders feel compelled
+      to show movement. That pressure transforms uncertain intelligence into momentum:
+      every shaft becomes a headline; every partial find is inflated into a victory.
+      In Rafah, momentum substituted for methodology. Months of digging in proximity
+      to the target were presented as progress while the true corridors of the network
+      remained intact elsewhere. Hamas’s response to Israel’s tools has been systematic
+      and generational. The network under Gaza is not a collection of hastily dug shafts
+      but a strategic organism – modular, redundant and adaptive engineering. Decades
+      of experience produced construction techniques that descend beyond routine detection
+      ranges, incorporate sealed and decoy sections, and interlink through multiple
+      vertical and horizontal layers. These tunnels are engineered to be reconfigurable:
+      sections can be abandoned, flooded, resealed and reopened; entrances can be moved
+      beneath reconstructed homes, mosques or rubble. Such design turns the underground
+      into a survivable logistics system – command-and-control rooms, munitions stores,
+      sheltered mobility routes – enabling continuity of operations even while the surface
+      is rendered uninhabitable. Beyond the engineering, the tunnels perform a psychological
+      function: endurance as strategy. The concealment and eventual transfer of Goldin’s
+      body after eleven years underlines this point. That concealment was not merely
+      about hiding a corpse; it was a long-term act of narrative leverage. By controlling
+      when and how to return the remains, Hamas converted a tactical event into a prolonged
+      instrument of humiliation and bargaining. The later attack from Rafah tunnels
+      – killing an Israeli officer after months of Israeli operations – reinforced the
+      message: subterranean survival is itself a form of strategic victory. The immediate
+      military consequences are stark. If forces cannot reliably map or neutralise subterranean
+      threats, the calculus of ground operations changes. Commanders confront a cruel
+      choice: proceed methodically with high casualty risk, or resort to broader standoff
+      bombardment that amplifies civilian suffering and political costs. Neither option
+      produces the declared objective of total defeat. Instead, Israel appears to be
+      settling into containment: maintaining partial occupation zones, enforcing buffer
+      areas, and relying on aerial suppression rather than decisive ground control.
+      That posture preserves manpower but concedes initiative, allowing Hamas to remain
+      the arbiter of escalation in the underground domain. This dynamic has broader
+      strategic implications. The public failure to find the Rafah tunnel damages the
+      credibility of Israel’s deterrence narrative and confirmed it has failed in achieving
+      its war objectives. Deterrence rests not only on capability but on perceived mastery;
+      when a state renowned for intelligence prowess digs for months beside a target
+      and fails, the image of omniscience cracks. The lesson is simple: sophisticated
+      surveillance cannot automatically translate into domination in environments where
+      an enemy invests time, engineering and secrecy. Political fractures in Israel
+      compound the military dilemma. Domestically, voices clash over how to handle the
+      small number of fighters reportedly still in Rafah’s tunnels. Washington, according
+      to diplomatic reporting, proposed a pragmatic—if politically fraught—solution:
+      allow fewer than two hundred Hamas fighters to exit Rafah unarmed and under guaranteed
+      safety, in exchange for the delivery of Goldin’s body and the protection of those
+      fighters by U.S. assurances. Steve Witkoff and Jared Kushner’s presence in Israel
+      to press for the arrangement highlights the extent of the US external pressure
+      to salvage the ceasefire and avoid its sabotage over a single case. Within Israel,
+      competing currents urge very different responses: some demand surrender and prosecution,
+      others call for summary execution or for exile to a third country. That diplomatic
+      bargaining illuminates the interplay of military failure and political expedience.
+      If the United States can secure an arrangement that removes a small number of
+      fighters while securing the body’s return, it stabilises the immediate truce.
+      But it also institutionalises a pragmatic, if uncomfortable, compromise: an enemy’s
+      fighters slip away from the battlefield intact while Israel accepts the symbolic
+      cost of failing to capture them. For an Israeli government that hinges much of
+      its legitimacy on visible success, that outcome is politically costly; yet the
+      alternative – renewed broad-scale operations to root them out – risks catastrophic
+      escalation that neither Israel nor its partners wish to invite. Rafah has thus
+      become a mirror – reflecting the limits of force when divorced from adaptable
+      intelligence and political clarity. The Strip is paradoxically the most observed
+      and the least understood battleground on earth. Israel’s sensors record everything
+      but its interpretation lags behind; Hamas’s long-term investment in subterranean
+      resilience converts technological surveillance into strategic illusion. The result
+      is not merely tactical embarrassment but cognitive defeat: a state that once presumed
+      to know every inch of its environment now confronts the fact that some domains
+      remain sovereign to those who have prepared them for invisibility. If anything,
+      Rafah is a wake-up call. Military power without epistemic humility produces ruin
+      rather than resolution. The tunnels will not vanish because of bombs alone; they
+      are an infrastructure that demands methodical, patient, intelligence-led approaches
+      coupled with political strategies that address the underlying drivers of the conflict.
+      Until such a recalibration occurs, the pattern exposed in Rafah – months of effort,
+      scant strategic gain, and repeated civilian suffering – will repeat itself: overwhelming
+      force, limited control, and a subterranean resilience that reshapes the very meaning
+      of defeat and victory in Gaza. Prime Minister Benjamin Netanyahu accepted the
+      limitation of his army in finding and destroying Hamas’s tunnels but has another
+      pressing issue to deal with at the moment. He finds himself stranded between allowing
+      a free passage to Hamas fighters in Rafah’s tunnels and jeopardising the ceasefire
+      if he refuses the US deal. His government is trapped in domestic crisis even as
+      external mediators press for a pragmatic closure. Nevertheless, he is unwilling
+      to clash with the US and has already said he will do “whatever is in the interest
+      of Israel” to reach a compromise. He may ultimately yield to US demands but will
+      do his best to divide and slow down the most crucial part of the ceasefire, phase
+      two: the withdrawal of all Israeli forces, the international force that will operate
+      in Gaza, and the reconstruction of the Strip. Rafah, however, has already exposed
+      the deeper fault line. It has revealed the exhaustion of a strategy built on surveillance
+      without comprehension and force without foresight. The episode encapsulates Israel’s
+      strategic blindness: a state that once prided itself on omniscient intelligence
+      now confronts the limits of its own assumptions. Military power, stripped of interpretive
+      understanding, becomes an engine of repetition rather than resolution. The underground
+      war has inverted the hierarchy of visibility — Hamas operates in the unseen while
+      Israel remains trapped in the glare of its own sensors. Netanyahu’s political
+      paralysis mirrors this cognitive impasse. His dilemma between appeasing Washington,
+      managing domestic fracture, and salvaging a faltering campaign is not merely political;
+      it symbolises the broader disorientation of a state fighting shadows it can no
+      longer define. Unless Israel rethinks its epistemology of war — integrating human
+      intelligence, strategic patience, and political realism — Rafah will stand as
+      the emblem of a wider defeat: overwhelming force, minimal control, and an adversary
+      whose survival in darkness continues to reshape the meaning of deterrence and
+      victory alike. Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Despite extensive military efforts and resources from Israel
+      and its allies aimed at dismantling Hamas's capabilities in Gaza, the ongoing
+      conflict has revealed that Hamas's tunnel network remains operational and effective,
+      as evidenced by recent attacks and the recovery of an Israeli officer's remains
+      only through Hamas's terms.
+    paragraph_summary: In a detailed analysis, Elijah J. Magnier highlights the failures
+      of Israel's extensive military campaign against Hamas in Gaza, particularly in
+      Rafah, where despite significant resources and advanced technology, Israeli forces
+      struggled to locate a key tunnel and ultimately recovered the remains of an Israeli
+      officer only through Hamas’s terms. The article argues that this situation reflects
+      a systemic collapse in Israeli military strategy, characterized by an overreliance
+      on technological surveillance, a decline in human intelligence, and a misunderstanding
+      of enemy tactics. The reliance on sophisticated tools created an illusion of total
+      visibility, yet resulted in confusion and operational mistakes, as the bombardment
+      altered the urban landscape, obscuring critical references and enabling Hamas
+      to maintain its operational capacity with fewer than 200 fighters.
+    published: '2025-11-11T18:32:02+00:00'
+  - title: 'Uprooting Memory: The Psychological Warfare Behind the Destruction of Olive
+      Trees in the Levant'
+    url: https://ejmagnier.com/2025/11/09/uprooting-memory-the-psychological-warfare-behind-the-destruction-of-olive-trees-in-the-levant/
+    text: 'Tweet By Elijah J. Magnier Avid observers of Middle Eastern geopolitics cannot
+      ignore the relentless toll of Palestinian lives under Israeli fire in Gaza and
+      the West Bank. Yet Israel has found another, quieter way of killing. Across the
+      hills of the Levant, the olive tree stands as more than a crop: it is ancestry
+      made visible, a living testament to endurance and belonging. From Palestine to
+      southern Lebanon and northern Jordan, it bridges the sacred and the practical.
+      To plant one is to declare faith in the permanence of land; to tend one is to
+      join a lineage older than recorded history. Since 1967 more than 800,000 olive
+      trees have been uprooted or burned by Israeli authorities or settlers (Le Monde,
+      2024). During the 2025 harvest season alone, over 4,000 trees were vandalised
+      and 16,800 damaged (OCHA, 2025). Each felled tree marks more than the loss of
+      a livelihood—it is an assault on memory and identity. The destruction is deliberate,
+      not random. Psychologists and anthropologists describe it as symbolic violence
+      (Bourdieu, 1991): a gesture of domination meant to sever the bond between people
+      and place. Environmental psychology calls this place attachment —the emotional
+      and cognitive link that gives communities stability and meaning (Altman and Low,
+      1992; Scannell and Gifford, 2010). To destroy what embodies that link is to attack
+      identity itself. Each olive tree is a biography in roots. Families in rural Palestine
+      name their oldest trees and recount who planted them and through which wars they
+      endured. Harvesting, pruning, and pressing oil are not mere agricultural tasks
+      but rituals shaping the rhythm of life. When settlers destroy a grove, they shatter
+      those cycles of meaning. Farmers describe the loss as bereavement; Amnesty International
+      (2022) and Human Rights Watch (2019) record testimonies of villagers who liken
+      it to losing a family member. The Psychology of Uprooting The destruction of olive
+      trees is a campaign of despair. It seeks to induce learned helplessness —the belief
+      that no care or resistance can prevent loss. Farmers replant only to see new saplings
+      burned again, a cycle of grief that environmental philosopher Glenn Albrecht (2016)
+      calls solastalgia : the distress of environmental loss in one’s own home landscape.
+      Subscribe Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: The article highlights the systematic destruction of olive
+      trees in Palestine and surrounding regions by Israeli authorities and settlers,
+      emphasizing that this act is not only a loss of livelihood but also a profound
+      assault on cultural identity and heritage.
+    paragraph_summary: The article by Elijah J. Magnier highlights the profound impact
+      of the destruction of olive trees in Palestine and surrounding regions as a form
+      of symbolic violence perpetrated by Israeli authorities and settlers. Since 1967,
+      over 800,000 olive trees have been uprooted or burned, with significant damage
+      reported during the 2025 harvest season alone. These trees represent more than
+      just agricultural assets; they are deeply intertwined with the identity, history,
+      and emotional well-being of Palestinian families, serving as living testaments
+      to their ancestry and connection to the land. The deliberate destruction of these
+      trees is seen as an attack on memory and identity, with affected communities likening
+      the loss to bereavement. This campaign aims to sever the bond between people and
+      place, inducing despair and a sense of hopelessness among those who rely on the
+      olive tree for their cultural and economic survival.
+    published: '2025-11-09T17:28:28+00:00'
+  - title: 'Uprooting Memory: The Psychological Warfare Behind the Destruction of Olive
+      Trees in the Levant'
+    url: https://ejmagnier.com/2025/11/09/uprooting-memory-the-psychological-warfare-behind-the-destruction-of-olive-trees-in-the-levant/
+    text: 'Tweet By Elijah J. Magnier Avid observers of Middle Eastern geopolitics cannot
+      ignore the relentless toll of Palestinian lives under Israeli fire in Gaza and
+      the West Bank. Yet Israel has found another, quieter way of killing. Across the
+      hills of the Levant, the olive tree stands as more than a crop: it is ancestry
+      made visible, a living testament to endurance and belonging. From Palestine to
+      southern Lebanon and northern Jordan, it bridges the sacred and the practical.
+      To plant one is to declare faith in the permanence of land; to tend one is to
+      join a lineage older than recorded history. Since 1967 more than 800,000 olive
+      trees have been uprooted or burned by Israeli authorities or settlers (Le Monde,
+      2024). During the 2025 harvest season alone, over 4,000 trees were vandalised
+      and 16,800 damaged (OCHA, 2025). Each felled tree marks more than the loss of
+      a livelihood—it is an assault on memory and identity. The destruction is deliberate,
+      not random. Psychologists and anthropologists describe it as symbolic violence
+      (Bourdieu, 1991): a gesture of domination meant to sever the bond between people
+      and place. Environmental psychology calls this place attachment —the emotional
+      and cognitive link that gives communities stability and meaning (Altman and Low,
+      1992; Scannell and Gifford, 2010). To destroy what embodies that link is to attack
+      identity itself. Each olive tree is a biography in roots. Families in rural Palestine
+      name their oldest trees and recount who planted them and through which wars they
+      endured. Harvesting, pruning, and pressing oil are not mere agricultural tasks
+      but rituals shaping the rhythm of life. When settlers destroy a grove, they shatter
+      those cycles of meaning. Farmers describe the loss as bereavement; Amnesty International
+      (2022) and Human Rights Watch (2019) record testimonies of villagers who liken
+      it to losing a family member. The Psychology of Uprooting The destruction of olive
+      trees is a campaign of despair. It seeks to induce learned helplessness —the belief
+      that no care or resistance can prevent loss. Farmers replant only to see new saplings
+      burned again, a cycle of grief that environmental philosopher Glenn Albrecht (2016)
+      calls solastalgia : the distress of environmental loss in one’s own home landscape.
+      Subscribe Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: The article highlights the systematic destruction of olive
+      trees in Palestine and surrounding regions by Israeli authorities and settlers,
+      emphasizing that this act is not only a loss of livelihood but also a profound
+      assault on cultural identity and heritage.
+    paragraph_summary: The article by Elijah J. Magnier highlights the profound impact
+      of the destruction of olive trees in Palestine and surrounding regions as a form
+      of symbolic violence perpetrated by Israeli authorities and settlers. Since 1967,
+      over 800,000 olive trees have been uprooted or burned, with significant damage
+      reported during the 2025 harvest season alone. These trees represent more than
+      just agricultural assets; they are deeply intertwined with the identity, history,
+      and emotional well-being of Palestinian families, serving as living testaments
+      to their ancestry and connection to the land. The deliberate destruction of these
+      trees is seen as an attack on memory and identity, with affected communities likening
+      the loss to bereavement. This campaign aims to sever the bond between people and
+      place, inducing despair and a sense of hopelessness among those who rely on the
+      olive tree for their cultural and economic survival.
+    published: '2025-11-09T17:28:28+00:00'
+  - title: 'Déraciner la mémoire : la guerre psychologique derrière la destruction des
+      oliviers au Levant'
+    url: https://ejmagnier.com/2025/11/09/deraciner-la-memoire-la-guerre-psychologique-derriere-la-destruction-des-oliviers-au-levant/
+    text: 'Tweet Par Elijah J. Magnier Les observateurs attentifs de la géopolitique
+      au Moyen-Orient ne peuvent ignorer le tribut incessant de vies palestiniennes
+      tombées sous le feu israélien à Gaza et en Cisjordanie. Pourtant, Israël a trouvé
+      une autre manière, plus silencieuse, de tuer. À travers les collines du Levant,
+      l’olivier représente bien plus qu’une simple culture : c’est l’ascendance rendue
+      visible, un témoignage vivant d’endurance et d’appartenance. De la Palestine au
+      sud du Liban, jusqu’au nord de la Jordanie, il relie le sacré et le quotidien.
+      Planter un olivier, c’est affirmer la permanence de la terre ; en prendre soin,
+      c’est rejoindre une lignée plus ancienne que l’histoire écrite. Depuis 1967, plus
+      de 800 000 oliviers ont été déracinés ou brûlés par les autorités israéliennes
+      ou les colons (Le Monde, 2024). Durant la saison de récolte 2025, plus de 4 000
+      arbres ont été vandalisés et 16 800 endommagés (OCHA, 2025). Chaque arbre abattu
+      marque bien plus qu’une perte économique : c’est une attaque contre la mémoire
+      et l’identité. Cette destruction n’a rien de fortuit. Psychologues et anthropologues
+      y voient une forme de violence symbolique (Bourdieu, 1991) : un geste de domination
+      destiné à rompre le lien entre les hommes et leur terre. En psychologie environnementale,
+      on parle d’ attachement au lieu — ce lien émotionnel et cognitif qui donne stabilité
+      et sens aux communautés (Altman et Low, 1992 ; Scannell et Gifford, 2010). Détruire
+      ce qui incarne cet attachement revient à s’en prendre à l’identité elle-même.
+      Chaque olivier est une biographie enracinée. Dans les villages palestiniens, les
+      familles donnent un nom à leurs arbres les plus anciens, racontent qui les a plantés
+      et à travers quelles guerres ils ont survécu. La récolte, la taille et la presse
+      de l’huile ne sont pas de simples tâches agricoles : ce sont des rituels qui rythment
+      la vie. Lorsqu’un bosquet est détruit, c’est tout un cycle de sens — religieux,
+      social, économique — qui se brise. Des agriculteurs disent éprouver un deuil comparable
+      à la perte d’un proche ; Amnesty International (2022) et Human Rights Watch (2019)
+      ont recueilli de nombreux témoignages allant dans ce sens. La psychologie du déracinement
+      La destruction des oliviers constitue une véritable campagne du désespoir. Elle
+      cherche à provoquer ce que les psychologues appellent l’ impuissance apprise :
+      la conviction que ni soin ni résistance ne peuvent empêcher la perte. Les paysans
+      replantent, pour voir leurs jeunes pousses brûlées à nouveau — un cycle de chagrin
+      que le philosophe environnemental Glenn Albrecht (2005) nomme solastalgie , la
+      détresse née de la perte environnementale dans son propre foyer. Ce chagrin transforme
+      la vie sociale, vidant de leur substance les rituels qui structuraient jadis le
+      calendrier agricole. Les villages perdent leurs fêtes de récolte et leurs chants
+      ; les familles perdent le rythme intergénérationnel qui liait travail, mémoire
+      et prière. Le traumatisme devient collectif et cumulatif. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: L'article souligne que, en plus des pertes humaines, Israël
+      détruit silencieusement l'identité palestinienne en déracinant des oliviers, symboles
+      de culture et d'appartenance, avec plus de 800 000 arbres détruits depuis 1967,
+      ce qui représente une atteinte à l'héritage et à la continuité de la terre palestinienne.
+    paragraph_summary: L'article souligne l'impact dévastateur de la destruction des
+      oliviers en Palestine, qui va au-delà de la simple perte économique pour toucher
+      à l'identité et à la mémoire collective des communautés. Les oliviers, symboles
+      d'endurance et d'appartenance, sont déracinés ou brûlés par les autorités israéliennes
+      et les colons, avec plus de 800 000 arbres détruits depuis 1967. Cette violence
+      symbolique vise à rompre le lien entre les Palestiniens et leur terre, en s'attaquant
+      à leur attachement émotionnel et cognitif à cet environnement. Les rituels liés
+      à la culture de l'olivier, tels que la récolte et la production d'huile, sont
+      essentiels à la vie communautaire, et leur destruction entraîne une rupture profonde
+      des cycles de sens religieux, social et économique.
+    published: '2025-11-09T17:26:27+00:00'
+  - title: 'Déraciner la mémoire : la guerre psychologique derrière la destruction des
+      oliviers au Levant'
+    url: https://ejmagnier.com/2025/11/09/deraciner-la-memoire-la-guerre-psychologique-derriere-la-destruction-des-oliviers-au-levant/
+    text: 'Tweet Par Elijah J. Magnier Les observateurs attentifs de la géopolitique
+      au Moyen-Orient ne peuvent ignorer le tribut incessant de vies palestiniennes
+      tombées sous le feu israélien à Gaza et en Cisjordanie. Pourtant, Israël a trouvé
+      une autre manière, plus silencieuse, de tuer. À travers les collines du Levant,
+      l’olivier représente bien plus qu’une simple culture : c’est l’ascendance rendue
+      visible, un témoignage vivant d’endurance et d’appartenance. De la Palestine au
+      sud du Liban, jusqu’au nord de la Jordanie, il relie le sacré et le quotidien.
+      Planter un olivier, c’est affirmer la permanence de la terre ; en prendre soin,
+      c’est rejoindre une lignée plus ancienne que l’histoire écrite. Depuis 1967, plus
+      de 800 000 oliviers ont été déracinés ou brûlés par les autorités israéliennes
+      ou les colons (Le Monde, 2024). Durant la saison de récolte 2025, plus de 4 000
+      arbres ont été vandalisés et 16 800 endommagés (OCHA, 2025). Chaque arbre abattu
+      marque bien plus qu’une perte économique : c’est une attaque contre la mémoire
+      et l’identité. Cette destruction n’a rien de fortuit. Psychologues et anthropologues
+      y voient une forme de violence symbolique (Bourdieu, 1991) : un geste de domination
+      destiné à rompre le lien entre les hommes et leur terre. En psychologie environnementale,
+      on parle d’ attachement au lieu — ce lien émotionnel et cognitif qui donne stabilité
+      et sens aux communautés (Altman et Low, 1992 ; Scannell et Gifford, 2010). Détruire
+      ce qui incarne cet attachement revient à s’en prendre à l’identité elle-même.
+      Chaque olivier est une biographie enracinée. Dans les villages palestiniens, les
+      familles donnent un nom à leurs arbres les plus anciens, racontent qui les a plantés
+      et à travers quelles guerres ils ont survécu. La récolte, la taille et la presse
+      de l’huile ne sont pas de simples tâches agricoles : ce sont des rituels qui rythment
+      la vie. Lorsqu’un bosquet est détruit, c’est tout un cycle de sens — religieux,
+      social, économique — qui se brise. Des agriculteurs disent éprouver un deuil comparable
+      à la perte d’un proche ; Amnesty International (2022) et Human Rights Watch (2019)
+      ont recueilli de nombreux témoignages allant dans ce sens. La psychologie du déracinement
+      La destruction des oliviers constitue une véritable campagne du désespoir. Elle
+      cherche à provoquer ce que les psychologues appellent l’ impuissance apprise :
+      la conviction que ni soin ni résistance ne peuvent empêcher la perte. Les paysans
+      replantent, pour voir leurs jeunes pousses brûlées à nouveau — un cycle de chagrin
+      que le philosophe environnemental Glenn Albrecht (2005) nomme solastalgie , la
+      détresse née de la perte environnementale dans son propre foyer. Ce chagrin transforme
+      la vie sociale, vidant de leur substance les rituels qui structuraient jadis le
+      calendrier agricole. Les villages perdent leurs fêtes de récolte et leurs chants
+      ; les familles perdent le rythme intergénérationnel qui liait travail, mémoire
+      et prière. Le traumatisme devient collectif et cumulatif. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: L'article souligne que, en plus des pertes humaines, Israël
+      détruit silencieusement l'identité palestinienne en déracinant des oliviers, symboles
+      de culture et d'appartenance, avec plus de 800 000 arbres détruits depuis 1967,
+      ce qui représente une atteinte à l'héritage et à la continuité de la terre palestinienne.
+    paragraph_summary: L'article souligne l'impact dévastateur de la destruction des
+      oliviers en Palestine, qui va au-delà de la simple perte économique pour toucher
+      à l'identité et à la mémoire collective des communautés. Les oliviers, symboles
+      d'endurance et d'appartenance, sont déracinés ou brûlés par les autorités israéliennes
+      et les colons, avec plus de 800 000 arbres détruits depuis 1967. Cette violence
+      symbolique vise à rompre le lien entre les Palestiniens et leur terre, en s'attaquant
+      à leur attachement émotionnel et cognitif à cet environnement. Les rituels liés
+      à la culture de l'olivier, tels que la récolte et la production d'huile, sont
+      essentiels à la vie communautaire, et leur destruction entraîne une rupture profonde
+      des cycles de sens religieux, social et économique.
+    published: '2025-11-09T17:26:27+00:00'
+  - title: 'Het uitwissen van het collectief geheugen: De Psychologische Oorlog Achter
+      de Vernietiging van Olijfbomen in het Nabije Oosten'
+    url: https://ejmagnier.com/2025/11/09/het-uitwissen-van-het-collectief-geheugen-de-psychologische-oorlog-achter-de-vernietiging-van-olijfbomen-in-het-nabije-oosten/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Bevlogen
+      waarnemers van de geopolitiek in het Midden-Oosten kunnen de onophoudelijke tol
+      van Palestijnse levens onder Israëlisch vuur in Gaza en de Westelijke Jordaanoever
+      niet negeren. Toch heeft Israël een andere, stillere wijze van doden gevonden.
+      Over de heuvels van het Nabije Oosten staat de olijfboom voor meer dan slechts
+      een gewas: het is zichtbare afkomst, een levend bewijs van uithoudingsvermogen
+      en verbondenheid. Van Palestina tot Zuid-Libanon en Noord-Jordanië vormt hij een
+      brug tussen het heilige en het praktische. Een boom planten betekent vertrouwen
+      uitspreken in de blijvende aard van het land; hem verzorgen betekent deel uitmaken
+      van een stamboom die ouder is dan de geschreven geschiedenis. Sinds 1967 zijn
+      meer dan 800.000 olijfbomen door Israëlische autoriteiten of kolonisten uitgetrokken
+      of verbrand (Le Monde, 2024). Alleen al tijdens het oogstseizoen van 2025 werden
+      meer dan 4.000 bomen vernield en 16.800 beschadigd (OCHA, 2025). Elke gekapte
+      boom betekent meer dan het verlies van een bestaan – het is een aanval op herinnering
+      en identiteit. De vernietiging is doelbewust, niet willekeurig. Psychologen en
+      antropologen noemen het symbolisch geweld (Bourdieu, 1991): een gebaar van overheersing
+      bedoeld om de band tussen mensen en plaats te verbreken. De milieupsychologie
+      noemt dit plaatsgebondenheid – de emotionele en cognitieve verbinding die gemeenschappen
+      stabiliteit en betekenis geeft (Altman en Low, 1992; Scannell en Gifford, 2010).
+      Vernietigen wat die link belichaamt is een aanval op identiteit zelf. Elke olijfboom
+      is een biografie in de wortels. Families op het platteland van Palestina noemen
+      hun oudste bomen bij naam en vertellen wie ze plantte en door welke oorlogen ze
+      heen kwamen. Oogsten, snoeien en het persen van olie zijn geen simpele landbouwtaken
+      maar rituelen die het levensritme bepalen. Wanneer kolonisten een olijfgaard vernietigen,
+      vernietigen ze die betekenisvolle cycli. Boeren noemen het verlies rouw; Amnesty
+      International (2022) en Human Rights Watch (2019) registreren getuigenissen van
+      dorpelingen die het vergelijken met het verliezen van een familielid. De Psychologie
+      van het Uitwieden De vernietiging van olijfbomen is een campagne van wanhoop.
+      Ze beoogt geleerde hulpeloosheid – de overtuiging dat geen zorg of verzet verlies
+      kan voorkomen. Boeren planten opnieuw, maar zien nieuwe boompjes weer verbrand
+      worden, een rouwproces dat de milieufilosoof Glenn Albrecht (2016) solastalgie
+      noemt: het leed van milieuschade in de eigen leefomgeving. Deze rouw verandert
+      het sociale leven, door het wegvallen van rituelen die eerder de landbouwkalender
+      bepaalden. Dorpen verliezen oogstbijeenkomsten en liederen; families verliezen
+      het generatie-overstijgende ritme dat werk, herinnering en gebed verbond. Het
+      trauma is collectief en cumulatief. Subscribe Subscribe to get access Read more
+      of this content when you subscribe today. Subscribe Submitting form Log in Make
+      a one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Elijah J. Magnier's article highlights the ongoing destruction
+      of Palestinian olive trees by Israeli authorities, symbolizing a deeper cultural
+      and historical loss, as over 800,000 trees have been uprooted or burned since
+      1967, with significant damage occurring even during the 2025 harvest season.
+    paragraph_summary: In a poignant commentary on the ongoing conflict in the Middle
+      East, Elijah J. Magnier highlights the devastating impact of Israel's actions
+      on Palestinian identity and heritage, particularly through the destruction of
+      olive trees, which symbolize resilience and connection to the land. Since 1967,
+      over 800,000 olive trees have been uprooted or burned by Israeli authorities or
+      settlers, with significant destruction occurring during the 2025 harvest season
+      alone. This deliberate act of destruction is framed as "symbolic violence," aimed
+      at severing the deep-rooted ties between people and their land, thus attacking
+      their identity. Olive trees are not merely crops; they represent family histories,
+      cultural rituals, and a sense of belonging, making their loss a profound assault
+      on the very essence of Palestinian life.
+    published: '2025-11-09T17:24:39+00:00'
+  - title: 'Het uitwissen van het collectief geheugen: De Psychologische Oorlog Achter
+      de Vernietiging van Olijfbomen in het Nabije Oosten'
+    url: https://ejmagnier.com/2025/11/09/het-uitwissen-van-het-collectief-geheugen-de-psychologische-oorlog-achter-de-vernietiging-van-olijfbomen-in-het-nabije-oosten/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Bevlogen
+      waarnemers van de geopolitiek in het Midden-Oosten kunnen de onophoudelijke tol
+      van Palestijnse levens onder Israëlisch vuur in Gaza en de Westelijke Jordaanoever
+      niet negeren. Toch heeft Israël een andere, stillere wijze van doden gevonden.
+      Over de heuvels van het Nabije Oosten staat de olijfboom voor meer dan slechts
+      een gewas: het is zichtbare afkomst, een levend bewijs van uithoudingsvermogen
+      en verbondenheid. Van Palestina tot Zuid-Libanon en Noord-Jordanië vormt hij een
+      brug tussen het heilige en het praktische. Een boom planten betekent vertrouwen
+      uitspreken in de blijvende aard van het land; hem verzorgen betekent deel uitmaken
+      van een stamboom die ouder is dan de geschreven geschiedenis. Sinds 1967 zijn
+      meer dan 800.000 olijfbomen door Israëlische autoriteiten of kolonisten uitgetrokken
+      of verbrand (Le Monde, 2024). Alleen al tijdens het oogstseizoen van 2025 werden
+      meer dan 4.000 bomen vernield en 16.800 beschadigd (OCHA, 2025). Elke gekapte
+      boom betekent meer dan het verlies van een bestaan – het is een aanval op herinnering
+      en identiteit. De vernietiging is doelbewust, niet willekeurig. Psychologen en
+      antropologen noemen het symbolisch geweld (Bourdieu, 1991): een gebaar van overheersing
+      bedoeld om de band tussen mensen en plaats te verbreken. De milieupsychologie
+      noemt dit plaatsgebondenheid – de emotionele en cognitieve verbinding die gemeenschappen
+      stabiliteit en betekenis geeft (Altman en Low, 1992; Scannell en Gifford, 2010).
+      Vernietigen wat die link belichaamt is een aanval op identiteit zelf. Elke olijfboom
+      is een biografie in de wortels. Families op het platteland van Palestina noemen
+      hun oudste bomen bij naam en vertellen wie ze plantte en door welke oorlogen ze
+      heen kwamen. Oogsten, snoeien en het persen van olie zijn geen simpele landbouwtaken
+      maar rituelen die het levensritme bepalen. Wanneer kolonisten een olijfgaard vernietigen,
+      vernietigen ze die betekenisvolle cycli. Boeren noemen het verlies rouw; Amnesty
+      International (2022) en Human Rights Watch (2019) registreren getuigenissen van
+      dorpelingen die het vergelijken met het verliezen van een familielid. De Psychologie
+      van het Uitwieden De vernietiging van olijfbomen is een campagne van wanhoop.
+      Ze beoogt geleerde hulpeloosheid – de overtuiging dat geen zorg of verzet verlies
+      kan voorkomen. Boeren planten opnieuw, maar zien nieuwe boompjes weer verbrand
+      worden, een rouwproces dat de milieufilosoof Glenn Albrecht (2016) solastalgie
+      noemt: het leed van milieuschade in de eigen leefomgeving. Deze rouw verandert
+      het sociale leven, door het wegvallen van rituelen die eerder de landbouwkalender
+      bepaalden. Dorpen verliezen oogstbijeenkomsten en liederen; families verliezen
+      het generatie-overstijgende ritme dat werk, herinnering en gebed verbond. Het
+      trauma is collectief en cumulatief. Subscribe Subscribe to get access Read more
+      of this content when you subscribe today. Subscribe Submitting form Log in Make
+      a one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Elijah J. Magnier's article highlights the ongoing destruction
+      of Palestinian olive trees by Israeli authorities, symbolizing a deeper cultural
+      and historical loss, as over 800,000 trees have been uprooted or burned since
+      1967, with significant damage occurring even during the 2025 harvest season.
+    paragraph_summary: In a poignant commentary on the ongoing conflict in the Middle
+      East, Elijah J. Magnier highlights the devastating impact of Israel's actions
+      on Palestinian identity and heritage, particularly through the destruction of
+      olive trees, which symbolize resilience and connection to the land. Since 1967,
+      over 800,000 olive trees have been uprooted or burned by Israeli authorities or
+      settlers, with significant destruction occurring during the 2025 harvest season
+      alone. This deliberate act of destruction is framed as "symbolic violence," aimed
+      at severing the deep-rooted ties between people and their land, thus attacking
+      their identity. Olive trees are not merely crops; they represent family histories,
+      cultural rituals, and a sense of belonging, making their loss a profound assault
+      on the very essence of Palestinian life.
+    published: '2025-11-09T17:24:39+00:00'
+  - title: 'Erinnerungen auslöschen: Die psychologische Kriegsführung hinter der Zerstörung
+      von Olivenbäumen in der Levante'
+    url: https://ejmagnier.com/2025/11/09/erinnerungen-ausloschen-die-psychologische-kriegsfuhrung-hinter-der-zerstorung-von-olivenbaumen-in-der-levante/
+    text: 'Tweet Von Elijah J. Magnier – Aufmerksame Beobachter der Geopolitik im Nahen
+      Osten können die unerbittlichen Opfer unter der palästinensischen Bevölkerung
+      durch israelische Angriffe im Gazastreifen und im Westjordanland nicht ignorieren.
+      Doch Israel hat eine andere, stillere Art des Tötens gefunden. Überall in den
+      Hügeln der Levante ist der Olivenbaum mehr als nur eine Kulturpflanze: Er ist
+      sichtbares Erbe, ein lebendiges Zeugnis von Ausdauer und Zugehörigkeit. Von Palästina
+      bis zum Südlibanon und Nordjordanien verbindet er das Heilige mit dem Praktischen.
+      Einen Olivenbaum zu pflanzen bedeutet, den Glauben an die Beständigkeit des Landes
+      zu bekunden; ihn zu pflegen bedeutet, sich einer Tradition anzuschließen, die
+      älter ist als die aufgezeichnete Geschichte. Seit 1967 wurden mehr als 800.000
+      Olivenbäume von israelischen Behörden oder Siedlern entwurzelt oder verbrannt
+      (Le Monde, 2024). Allein während der Erntezeit 2025 wurden über 4.000 Bäume zerstört
+      und 16.800 beschädigt (OCHA, 2025). Jeder gefällte Baum bedeutet mehr als nur
+      den Verlust einer Lebensgrundlage – er ist ein Angriff auf die Erinnerung und
+      Identität. Die Zerstörung ist absichtlich, nicht zufällig. Psychologen und Anthropologen
+      beschreiben dies als symbolische Gewalt (Bourdieu, 1991): eine Geste der Dominanz,
+      die darauf abzielt, die Verbindung zwischen Menschen und Orten zu zerstören. Die
+      Umweltpsychologie nennt dies Ortsverbundenheit – die emotionale und kognitive
+      Verbindung, die Gemeinschaften Stabilität und Bedeutung verleiht (Altman und Low,
+      1992; Scannell und Gifford, 2010). Die Zerstörung dessen, was diese Verbindung
+      verkörpert, ist ein Angriff auf die Identität selbst. Jeder Olivenbaum ist eine
+      Biografie in Wurzeln. Familien im ländlichen Palästina geben ihren ältesten Bäumen
+      Namen und erzählen, wer sie gepflanzt hat und welche Kriege sie überstanden haben.
+      Das Ernten, Beschneiden und Pressen von Öl sind nicht nur landwirtschaftliche
+      Aufgaben, sondern Rituale, die den Rhythmus des Lebens prägen. Wenn Siedler einen
+      Hain zerstören, zerstören sie diese bedeutungsvollen Zyklen. Landwirte beschreiben
+      den Verlust als Trauerfall; Amnesty International (2022) und Human Rights Watch
+      (2019) dokumentieren Aussagen von Dorfbewohnern, die ihn mit dem Verlust eines
+      Familienmitglieds vergleichen. Die Psychologie der Entwurzelung Die Zerstörung
+      von Olivenbäumen ist eine Kampagne der Verzweiflung. Sie zielt darauf ab, erlernte
+      Hilflosigkeit hervorzurufen – den Glauben, dass keine Fürsorge und kein Widerstand
+      den Verlust verhindern können. Die Bauern pflanzen nur neu, um zu sehen, wie die
+      neuen Setzlinge wieder verbrannt werden, ein Kreislauf der Trauer, den der Umweltphilosoph
+      Glenn Albrecht (2016) als Solastalgie bezeichnet: die Trauer über den Verlust
+      der Umwelt in der eigenen Heimatlandschaft. Diese Trauer verändert das soziale
+      Leben und höhlt Rituale aus, die einst den landwirtschaftlichen Kalender strukturierten.
+      Dörfer verlieren Erntefeste und Lieder, Familien verlieren den generationsübergreifenden
+      Rhythmus, der Arbeit, Erinnerung und Gebet miteinander verband. Das Trauma ist
+      kollektiv und kumulativ. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: Der Artikel beschreibt, wie Israel durch die Zerstörung von
+      Olivenbäumen im Gazastreifen und Westjordanland eine stille Form der Gewalt gegen
+      die palästinensische Bevölkerung ausübt, während diese Bäume symbolisch für das
+      kulturelle Erbe und die Beständigkeit des palästinensischen Volkes stehen.
+    paragraph_summary: In einem Tweet beschreibt Elijah J. Magnier die verheerenden
+      Auswirkungen der israelischen Angriffe auf die palästinensische Bevölkerung, insbesondere
+      die Zerstörung von Olivenbäumen, die weit über den Verlust von Lebensgrundlagen
+      hinausgeht. Diese Bäume sind nicht nur landwirtschaftliche Kulturen, sondern auch
+      Symbole für Identität, Geschichte und Zugehörigkeit in der Region. Seit 1967 wurden
+      über 800.000 Olivenbäume durch israelische Behörden oder Siedler zerstört, was
+      als gezielte symbolische Gewalt angesehen wird, die darauf abzielt, die Verbindung
+      zwischen den Menschen und ihrem Land zu brechen. Die Pflege und Ernte dieser Bäume
+      sind tief in der palästinensischen Kultur verwurzelt und stellen Rituale dar,
+      die das Leben und die Gemeinschaft prägen.
+    published: '2025-11-09T17:23:12+00:00'
+  - title: 'Erinnerungen auslöschen: Die psychologische Kriegsführung hinter der Zerstörung
+      von Olivenbäumen in der Levante'
+    url: https://ejmagnier.com/2025/11/09/erinnerungen-ausloschen-die-psychologische-kriegsfuhrung-hinter-der-zerstorung-von-olivenbaumen-in-der-levante/
+    text: 'Tweet Von Elijah J. Magnier – Aufmerksame Beobachter der Geopolitik im Nahen
+      Osten können die unerbittlichen Opfer unter der palästinensischen Bevölkerung
+      durch israelische Angriffe im Gazastreifen und im Westjordanland nicht ignorieren.
+      Doch Israel hat eine andere, stillere Art des Tötens gefunden. Überall in den
+      Hügeln der Levante ist der Olivenbaum mehr als nur eine Kulturpflanze: Er ist
+      sichtbares Erbe, ein lebendiges Zeugnis von Ausdauer und Zugehörigkeit. Von Palästina
+      bis zum Südlibanon und Nordjordanien verbindet er das Heilige mit dem Praktischen.
+      Einen Olivenbaum zu pflanzen bedeutet, den Glauben an die Beständigkeit des Landes
+      zu bekunden; ihn zu pflegen bedeutet, sich einer Tradition anzuschließen, die
+      älter ist als die aufgezeichnete Geschichte. Seit 1967 wurden mehr als 800.000
+      Olivenbäume von israelischen Behörden oder Siedlern entwurzelt oder verbrannt
+      (Le Monde, 2024). Allein während der Erntezeit 2025 wurden über 4.000 Bäume zerstört
+      und 16.800 beschädigt (OCHA, 2025). Jeder gefällte Baum bedeutet mehr als nur
+      den Verlust einer Lebensgrundlage – er ist ein Angriff auf die Erinnerung und
+      Identität. Die Zerstörung ist absichtlich, nicht zufällig. Psychologen und Anthropologen
+      beschreiben dies als symbolische Gewalt (Bourdieu, 1991): eine Geste der Dominanz,
+      die darauf abzielt, die Verbindung zwischen Menschen und Orten zu zerstören. Die
+      Umweltpsychologie nennt dies Ortsverbundenheit – die emotionale und kognitive
+      Verbindung, die Gemeinschaften Stabilität und Bedeutung verleiht (Altman und Low,
+      1992; Scannell und Gifford, 2010). Die Zerstörung dessen, was diese Verbindung
+      verkörpert, ist ein Angriff auf die Identität selbst. Jeder Olivenbaum ist eine
+      Biografie in Wurzeln. Familien im ländlichen Palästina geben ihren ältesten Bäumen
+      Namen und erzählen, wer sie gepflanzt hat und welche Kriege sie überstanden haben.
+      Das Ernten, Beschneiden und Pressen von Öl sind nicht nur landwirtschaftliche
+      Aufgaben, sondern Rituale, die den Rhythmus des Lebens prägen. Wenn Siedler einen
+      Hain zerstören, zerstören sie diese bedeutungsvollen Zyklen. Landwirte beschreiben
+      den Verlust als Trauerfall; Amnesty International (2022) und Human Rights Watch
+      (2019) dokumentieren Aussagen von Dorfbewohnern, die ihn mit dem Verlust eines
+      Familienmitglieds vergleichen. Die Psychologie der Entwurzelung Die Zerstörung
+      von Olivenbäumen ist eine Kampagne der Verzweiflung. Sie zielt darauf ab, erlernte
+      Hilflosigkeit hervorzurufen – den Glauben, dass keine Fürsorge und kein Widerstand
+      den Verlust verhindern können. Die Bauern pflanzen nur neu, um zu sehen, wie die
+      neuen Setzlinge wieder verbrannt werden, ein Kreislauf der Trauer, den der Umweltphilosoph
+      Glenn Albrecht (2016) als Solastalgie bezeichnet: die Trauer über den Verlust
+      der Umwelt in der eigenen Heimatlandschaft. Diese Trauer verändert das soziale
+      Leben und höhlt Rituale aus, die einst den landwirtschaftlichen Kalender strukturierten.
+      Dörfer verlieren Erntefeste und Lieder, Familien verlieren den generationsübergreifenden
+      Rhythmus, der Arbeit, Erinnerung und Gebet miteinander verband. Das Trauma ist
+      kollektiv und kumulativ. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: Der Artikel beschreibt, wie Israel durch die Zerstörung von
+      Olivenbäumen im Gazastreifen und Westjordanland eine stille Form der Gewalt gegen
+      die palästinensische Bevölkerung ausübt, während diese Bäume symbolisch für das
+      kulturelle Erbe und die Beständigkeit des palästinensischen Volkes stehen.
+    paragraph_summary: In einem Tweet beschreibt Elijah J. Magnier die verheerenden
+      Auswirkungen der israelischen Angriffe auf die palästinensische Bevölkerung, insbesondere
+      die Zerstörung von Olivenbäumen, die weit über den Verlust von Lebensgrundlagen
+      hinausgeht. Diese Bäume sind nicht nur landwirtschaftliche Kulturen, sondern auch
+      Symbole für Identität, Geschichte und Zugehörigkeit in der Region. Seit 1967 wurden
+      über 800.000 Olivenbäume durch israelische Behörden oder Siedler zerstört, was
+      als gezielte symbolische Gewalt angesehen wird, die darauf abzielt, die Verbindung
+      zwischen den Menschen und ihrem Land zu brechen. Die Pflege und Ernte dieser Bäume
+      sind tief in der palästinensischen Kultur verwurzelt und stellen Rituale dar,
+      die das Leben und die Gemeinschaft prägen.
+    published: '2025-11-09T17:23:12+00:00'
+  - title: Israël élargit ses cibles au Liban et invite implicitement le Hezbollah à
+      frapper Tel-Aviv en cas de guerre totale
+    url: https://ejmagnier.com/2025/11/08/israel-elargit-ses-cibles-au-liban-et-invite-implicitement-le-hezbollah-a-frapper-tel-aviv-en-cas-de-guerre-totale/
+    text: 'Tweet Par Elijah J. Magnier Ces dernières semaines, Israël a intensifié sa
+      rhétorique à l’égard du Hezbollah et du Liban, articulant son discours autour
+      de l’affirmation selon laquelle « le Hezbollah se réarme et doit être neutralisé
+      » et soutenant que le gouvernement et l’armée libanais présenteront d’ici la fin
+      de 2025 un plan visant à désarmer le mouvement. L’émissaire américain Thomas Barrack
+      a donné au Liban jusqu’à la fin du mois de novembre pour élaborer un tel plan
+      et engager un dialogue direct avec Israël. Dans ces déclarations, il n’est jamais
+      fait mention des milliers de violations du cessez-le-feu par Israël, de l’occupation
+      continue de nouvelles collines depuis la guerre d’octobre 2024, ni des centaines
+      de Libanais tués quotidiennement depuis ce conflit. Washington et Tel-Aviv n’évoquent
+      plus la résolution 1701 du Conseil de sécurité de l’ONU, qui avait mis fin aux
+      hostilités de 2024 ; ils se concentrent désormais sur ce que le Liban pourrait
+      offrir à la sécurité d’Israël en éliminant la capacité militaire de la résistance
+      — sans contrepartie ni concession des forces d’occupation israéliennes. Le ministre
+      israélien de la Défense, Israël Katz, a averti que « toute attaque contre les
+      colonies du nord d’Israël entraînerait une attaque immédiate contre la capitale,
+      Beyrouth ». Pris au pied de la lettre, cet avertissement équivaut à une invitation
+      : si Israël considère une attaque sur ses colonies du nord comme un motif pour
+      frapper Beyrouth, le Hezbollah est de fait encouragé à étendre sa riposte au-delà
+      du niveau tactique et à viser, dès le premier jour d’une guerre totale, les centres
+      politiques et économiques israéliens. Sur le plan opérationnel, Israël a élargi
+      ses critères de ciblage. Alors que les frappes visaient autrefois des combattants
+      actifs du corps jihadiste, les opérations récentes s’étendent désormais aux membres
+      du Hezbollah définis par les « forces géographiques » — c’est-à-dire les résidents
+      permanents du sud du Liban. Israël cible également des membres du « bras exécutif
+      » du Hezbollah, occupant des fonctions municipales ou administratives, et, plus
+      récemment, des blessés ou handicapés des attaques de sabotage par pagers survenues
+      avant la guerre de 2024. Frapper des personnes manifestement hors de combat ne
+      peut raisonnablement être présenté comme une riposte proportionnée ; cela traduit
+      une règle d’engagement calibrée destinée à exercer une pression sans franchir
+      le seuil d’une guerre généralisée, tout en adressant le message qu’Israël ne distingue
+      plus les différentes branches du Hezbollah. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Intégration stratégique et doctrine de ciblage préventif Le dispositif
+      de surveillance israélien constitue un élément central de sa doctrine « left-of-launch
+      » — détecter, classifier et neutraliser les menaces avant qu’elles ne soient opérationnelles.
+      L’ISR continu et la fusion des signaux permettent aux structures de commandement
+      d’alimenter des banques de cibles dynamiques, favorisant des frappes sensibles
+      au temps et des opérations psychologiques contre le Hezbollah bien avant l’ouverture
+      des hostilités. La surveillance persistante transforme les données en moyen de
+      dissuasion : le message implicite étant que chaque mouvement et chaque trace numérique
+      sont visibles. Pour le Hezbollah, le défi consiste à concilier activité opérationnelle
+      et discipline de l’invisibilité dans un environnement dominé par la surveillance
+      de précision. L’approche israélienne à l’égard du Liban combine coercition militaire
+      et ingénierie politique. Tel-Aviv vise à instaurer un nouvel ordre de sécurité
+      qui limite la capacité armée du Hezbollah tout en redéfinissant la souveraineté
+      libanaise selon un cadre contrôlé par Israël. L’objectif n’est pas une invasion
+      générale mais une campagne calibrée de frappes ciblées, d’assassinats sélectifs
+      et de survols persistants — une logique d’attrition destinée à user politiquement
+      et économiquement le Liban afin de rendre inévitable un face-à-face direct avec
+      Israël. Les mises en garde publiques sur des « jours de combat sévères » et l’évocation
+      d’un délai d’un mois traduisent une disponibilité à conduire une opération contenue
+      mais puissante, visant à modifier l’équilibre interne plutôt qu’à occuper le pays.
+      Les États-Unis jouent le rôle d’« habilitateur » de cette politique sous couvert
+      de médiation. L’ultimatum américain — désarmez le Hezbollah et négociez avec Israël,
+      ou affrontez l’isolement — marque une mutation du langage de la stabilité vers
+      une diplomatie coercitive. En se déclarant prêts à « ne pas faire pression sur
+      Israël », Washington renonce à la posture de neutralité et laisse à Tel-Aviv la
+      latitude d’agir militairement tout en préservant une façade de coordination stratégique.
+      La mise à l’écart de mécanismes multilatéraux tels que le « Mechanism Committee
+      » de l’ONU fragilise les protections minimales dont disposait le Liban, laissant
+      Beyrouth vulnérable au moment même où l’intervention collective serait la plus
+      nécessaire. Pourtant, cette campagne de pression méconnaît les réalités locales.
+      Le Hezbollah n’a ni l’intention ni le projet de se retirer ou de se replier hors
+      du Liban. Après sa période de reconstruction d’un an suivant la guerre de 66 jours
+      en 2024, l’organisation s’est restructurée — non pas pour lancer de nouvelles
+      offensives, mais pour consolider une posture défensive et dissuasive à l’intérieur
+      du pays. Sa direction conçoit la résistance comme une mission domestique : protéger
+      le territoire contre les incursions israéliennes et compenser la faiblesse de
+      l’armée nationale. Le redéploiement actuel au nord de la rivière Litani, conjugué
+      à des réformes internes de commandement et de logistique, témoigne d’une préparation
+      à encaisser et repousser une agression plutôt qu’à la provoquer. Cette posture
+      fragilise la logique de coercition israélo-américaine. Le raisonnement politique
+      postule que la pression continue — diplomatique, militaire et économique — sapera
+      la légitimité du Hezbollah et contraindra les dirigeants libanais à agir contre
+      lui. Or la dynamique observée est inverse : plus Israël menace et Washington exige,
+      plus le récit du Hezbollah fondé sur la résistance dissuasive s’ancre dans l’opinion
+      libanaise, faute d’alternative crédible pour contrer l’agression externe. Plutôt
+      que d’aboutir au désarmement, les politiques actuelles risquent de consolider
+      la place centrale du Hezbollah dans l’architecture sécuritaire du pays et de renforcer
+      son rôle perçu comme garant ultime de la défense nationale. En somme, l’impatience
+      israélienne et l’ultimatum américain reposent sur une lecture erronée du tissu
+      social et politique libanais. La fragilité ne signifie pas docilité : elle engendre
+      volatilité. Tenter d’imposer un ordre de sécurité à la manière de 1983 par la
+      coercition et l’aide conditionnelle risque de raviver l’instabilité que l’on prétend
+      prévenir. Avec un Hezbollah réorganisé et psychologiquement orienté vers l’endurance
+      et la résilience plutôt que la confrontation, Israël et les États-Unis risquent
+      de constater que leur campagne n’a pas affaibli le mouvement mais l’a recalibré
+      pour une confrontation prolongée — menée autant sur les terrains du récit et de
+      la légitimité que sur celui des armes. La doctrine actuelle du Hezbollah privilégie
+      la survie par la résistance plutôt que la résistance par l’attaque. L’organisation
+      vise à défendre le Liban, non à initier une guerre. Israël a pris acte de cet
+      ajustement et s’en sert pour maintenir un équilibre gérable : une pression de
+      faible intensité, ponctuée de frappes limitées et d’assassinats ciblés, qui évite
+      une escalade susceptible de déclencher une campagne de missiles sur Tel-Aviv.
+      À moins d’un changement majeur dans les calculs politiques ou militaires, et avec
+      des élections israéliennes dans moins d’un an, le risque d’une confrontation générale
+      reste limité — chacun conserve pour l’heure une marge d’action qui ménage le statu
+      quo : une confrontation contrôlée où la dissuasion repose sur l’endurance plutôt
+      que sur l’engagement décisif. Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Israël a intensifié ses menaces contre le Hezbollah et le
+      Liban, exigeant un plan de désarmement d'ici fin novembre, tout en ignorant les
+      violations israéliennes du cessez-le-feu et les conséquences du conflit d'octobre
+      2024.
+    paragraph_summary: Israël a récemment intensifié ses menaces contre le Hezbollah
+      et le Liban, affirmant que le mouvement chiite se réarme et doit être désarmé,
+      avec un ultimatum américain pour que le Liban présente un plan de désarmement
+      d'ici fin novembre 2025. Cependant, ces déclarations ignorent les violations israéliennes
+      du cessez-le-feu et l'occupation continue de territoires libanais depuis la guerre
+      d'octobre 2024, ainsi que les pertes humaines quotidiennes au Liban. Les États-Unis
+      et Israël ne mentionnent plus la résolution 1701 de l'ONU, se concentrant plutôt
+      sur les exigences de sécurité d'Israël sans concessions en retour. Le ministre
+      israélien de la Défense a menacé de frapper Beyrouth en cas d'attaque contre le
+      nord d'Israël, ce qui pourrait inciter le Hezbollah à élargir sa réponse en cas
+      de conflit. Par ailleurs, Israël a élargi ses critères de ciblage pour inclure
+      non seulement les combattants, mais aussi les résidents du sud du Liban liés au
+      Hezbollah.
+    published: '2025-11-08T15:16:15+00:00'
+  - title: Israël élargit ses cibles au Liban et invite implicitement le Hezbollah à
+      frapper Tel-Aviv en cas de guerre totale
+    url: https://ejmagnier.com/2025/11/08/israel-elargit-ses-cibles-au-liban-et-invite-implicitement-le-hezbollah-a-frapper-tel-aviv-en-cas-de-guerre-totale/
+    text: 'Tweet Par Elijah J. Magnier Ces dernières semaines, Israël a intensifié sa
+      rhétorique à l’égard du Hezbollah et du Liban, articulant son discours autour
+      de l’affirmation selon laquelle « le Hezbollah se réarme et doit être neutralisé
+      » et soutenant que le gouvernement et l’armée libanais présenteront d’ici la fin
+      de 2025 un plan visant à désarmer le mouvement. L’émissaire américain Thomas Barrack
+      a donné au Liban jusqu’à la fin du mois de novembre pour élaborer un tel plan
+      et engager un dialogue direct avec Israël. Dans ces déclarations, il n’est jamais
+      fait mention des milliers de violations du cessez-le-feu par Israël, de l’occupation
+      continue de nouvelles collines depuis la guerre d’octobre 2024, ni des centaines
+      de Libanais tués quotidiennement depuis ce conflit. Washington et Tel-Aviv n’évoquent
+      plus la résolution 1701 du Conseil de sécurité de l’ONU, qui avait mis fin aux
+      hostilités de 2024 ; ils se concentrent désormais sur ce que le Liban pourrait
+      offrir à la sécurité d’Israël en éliminant la capacité militaire de la résistance
+      — sans contrepartie ni concession des forces d’occupation israéliennes. Le ministre
+      israélien de la Défense, Israël Katz, a averti que « toute attaque contre les
+      colonies du nord d’Israël entraînerait une attaque immédiate contre la capitale,
+      Beyrouth ». Pris au pied de la lettre, cet avertissement équivaut à une invitation
+      : si Israël considère une attaque sur ses colonies du nord comme un motif pour
+      frapper Beyrouth, le Hezbollah est de fait encouragé à étendre sa riposte au-delà
+      du niveau tactique et à viser, dès le premier jour d’une guerre totale, les centres
+      politiques et économiques israéliens. Sur le plan opérationnel, Israël a élargi
+      ses critères de ciblage. Alors que les frappes visaient autrefois des combattants
+      actifs du corps jihadiste, les opérations récentes s’étendent désormais aux membres
+      du Hezbollah définis par les « forces géographiques » — c’est-à-dire les résidents
+      permanents du sud du Liban. Israël cible également des membres du « bras exécutif
+      » du Hezbollah, occupant des fonctions municipales ou administratives, et, plus
+      récemment, des blessés ou handicapés des attaques de sabotage par pagers survenues
+      avant la guerre de 2024. Frapper des personnes manifestement hors de combat ne
+      peut raisonnablement être présenté comme une riposte proportionnée ; cela traduit
+      une règle d’engagement calibrée destinée à exercer une pression sans franchir
+      le seuil d’une guerre généralisée, tout en adressant le message qu’Israël ne distingue
+      plus les différentes branches du Hezbollah. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Intégration stratégique et doctrine de ciblage préventif Le dispositif
+      de surveillance israélien constitue un élément central de sa doctrine « left-of-launch
+      » — détecter, classifier et neutraliser les menaces avant qu’elles ne soient opérationnelles.
+      L’ISR continu et la fusion des signaux permettent aux structures de commandement
+      d’alimenter des banques de cibles dynamiques, favorisant des frappes sensibles
+      au temps et des opérations psychologiques contre le Hezbollah bien avant l’ouverture
+      des hostilités. La surveillance persistante transforme les données en moyen de
+      dissuasion : le message implicite étant que chaque mouvement et chaque trace numérique
+      sont visibles. Pour le Hezbollah, le défi consiste à concilier activité opérationnelle
+      et discipline de l’invisibilité dans un environnement dominé par la surveillance
+      de précision. L’approche israélienne à l’égard du Liban combine coercition militaire
+      et ingénierie politique. Tel-Aviv vise à instaurer un nouvel ordre de sécurité
+      qui limite la capacité armée du Hezbollah tout en redéfinissant la souveraineté
+      libanaise selon un cadre contrôlé par Israël. L’objectif n’est pas une invasion
+      générale mais une campagne calibrée de frappes ciblées, d’assassinats sélectifs
+      et de survols persistants — une logique d’attrition destinée à user politiquement
+      et économiquement le Liban afin de rendre inévitable un face-à-face direct avec
+      Israël. Les mises en garde publiques sur des « jours de combat sévères » et l’évocation
+      d’un délai d’un mois traduisent une disponibilité à conduire une opération contenue
+      mais puissante, visant à modifier l’équilibre interne plutôt qu’à occuper le pays.
+      Les États-Unis jouent le rôle d’« habilitateur » de cette politique sous couvert
+      de médiation. L’ultimatum américain — désarmez le Hezbollah et négociez avec Israël,
+      ou affrontez l’isolement — marque une mutation du langage de la stabilité vers
+      une diplomatie coercitive. En se déclarant prêts à « ne pas faire pression sur
+      Israël », Washington renonce à la posture de neutralité et laisse à Tel-Aviv la
+      latitude d’agir militairement tout en préservant une façade de coordination stratégique.
+      La mise à l’écart de mécanismes multilatéraux tels que le « Mechanism Committee
+      » de l’ONU fragilise les protections minimales dont disposait le Liban, laissant
+      Beyrouth vulnérable au moment même où l’intervention collective serait la plus
+      nécessaire. Pourtant, cette campagne de pression méconnaît les réalités locales.
+      Le Hezbollah n’a ni l’intention ni le projet de se retirer ou de se replier hors
+      du Liban. Après sa période de reconstruction d’un an suivant la guerre de 66 jours
+      en 2024, l’organisation s’est restructurée — non pas pour lancer de nouvelles
+      offensives, mais pour consolider une posture défensive et dissuasive à l’intérieur
+      du pays. Sa direction conçoit la résistance comme une mission domestique : protéger
+      le territoire contre les incursions israéliennes et compenser la faiblesse de
+      l’armée nationale. Le redéploiement actuel au nord de la rivière Litani, conjugué
+      à des réformes internes de commandement et de logistique, témoigne d’une préparation
+      à encaisser et repousser une agression plutôt qu’à la provoquer. Cette posture
+      fragilise la logique de coercition israélo-américaine. Le raisonnement politique
+      postule que la pression continue — diplomatique, militaire et économique — sapera
+      la légitimité du Hezbollah et contraindra les dirigeants libanais à agir contre
+      lui. Or la dynamique observée est inverse : plus Israël menace et Washington exige,
+      plus le récit du Hezbollah fondé sur la résistance dissuasive s’ancre dans l’opinion
+      libanaise, faute d’alternative crédible pour contrer l’agression externe. Plutôt
+      que d’aboutir au désarmement, les politiques actuelles risquent de consolider
+      la place centrale du Hezbollah dans l’architecture sécuritaire du pays et de renforcer
+      son rôle perçu comme garant ultime de la défense nationale. En somme, l’impatience
+      israélienne et l’ultimatum américain reposent sur une lecture erronée du tissu
+      social et politique libanais. La fragilité ne signifie pas docilité : elle engendre
+      volatilité. Tenter d’imposer un ordre de sécurité à la manière de 1983 par la
+      coercition et l’aide conditionnelle risque de raviver l’instabilité que l’on prétend
+      prévenir. Avec un Hezbollah réorganisé et psychologiquement orienté vers l’endurance
+      et la résilience plutôt que la confrontation, Israël et les États-Unis risquent
+      de constater que leur campagne n’a pas affaibli le mouvement mais l’a recalibré
+      pour une confrontation prolongée — menée autant sur les terrains du récit et de
+      la légitimité que sur celui des armes. La doctrine actuelle du Hezbollah privilégie
+      la survie par la résistance plutôt que la résistance par l’attaque. L’organisation
+      vise à défendre le Liban, non à initier une guerre. Israël a pris acte de cet
+      ajustement et s’en sert pour maintenir un équilibre gérable : une pression de
+      faible intensité, ponctuée de frappes limitées et d’assassinats ciblés, qui évite
+      une escalade susceptible de déclencher une campagne de missiles sur Tel-Aviv.
+      À moins d’un changement majeur dans les calculs politiques ou militaires, et avec
+      des élections israéliennes dans moins d’un an, le risque d’une confrontation générale
+      reste limité — chacun conserve pour l’heure une marge d’action qui ménage le statu
+      quo : une confrontation contrôlée où la dissuasion repose sur l’endurance plutôt
+      que sur l’engagement décisif. Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Israël a intensifié ses menaces contre le Hezbollah et le
+      Liban, exigeant un plan de désarmement d'ici fin novembre, tout en ignorant les
+      violations israéliennes du cessez-le-feu et les conséquences du conflit d'octobre
+      2024.
+    paragraph_summary: Israël a récemment intensifié ses menaces contre le Hezbollah
+      et le Liban, affirmant que le mouvement chiite se réarme et doit être désarmé,
+      avec un ultimatum américain pour que le Liban présente un plan de désarmement
+      d'ici fin novembre 2025. Cependant, ces déclarations ignorent les violations israéliennes
+      du cessez-le-feu et l'occupation continue de territoires libanais depuis la guerre
+      d'octobre 2024, ainsi que les pertes humaines quotidiennes au Liban. Les États-Unis
+      et Israël ne mentionnent plus la résolution 1701 de l'ONU, se concentrant plutôt
+      sur les exigences de sécurité d'Israël sans concessions en retour. Le ministre
+      israélien de la Défense a menacé de frapper Beyrouth en cas d'attaque contre le
+      nord d'Israël, ce qui pourrait inciter le Hezbollah à élargir sa réponse en cas
+      de conflit. Par ailleurs, Israël a élargi ses critères de ciblage pour inclure
+      non seulement les combattants, mais aussi les résidents du sud du Liban liés au
+      Hezbollah.
+    published: '2025-11-08T15:16:15+00:00'
+  - title: Israël breidt zijn doelwitten in Libanon uit en daagt Hezbollah uit om Tel
+      Aviv aan te vallen in het geval van een totale oorlog
+    url: https://ejmagnier.com/2025/11/08/israel-breidt-zijn-doelwitten-in-libanon-uit-en-daagt-hezbollah-uit-om-tel-aviv-aan-te-vallen-in-het-geval-van-een-totale-oorlog/
+    text: 'Tweet Geschreven door Elijah J. Magnier –  vertaald door Francis J. In de
+      afgelopen weken heeft Israël zijn retoriek tegenover Hezbollah en Libanon opgevoerd,
+      waarbij het zijn narratief baseert op de bewering dat “Hezbollah zich opnieuw
+      bewapent en geneutraliseerd moet worden”. Daarbij stelt het dat de Libanese regering
+      en het leger vóór het einde van 2025 een plan zullen presenteren om de beweging
+      te ontwapenen. De Amerikaanse gezant Thomas Barrack gaf Libanon tot het einde
+      van deze maand november om met een plan te komen om Hezbollah te ontwapenen en
+      een directe dialoog met Israël op te starten. In geen van deze verklaringen wordt
+      verwezen naar de duizenden staakt-het-vuren-schendingen van Israël, de voortgezette
+      bezetting van nieuw geïmproviseerde heuvelposities sinds de oorlog van oktober
+      2024, of de honderden Libanezen die sinds dat conflict dagelijks omkomen. Washington
+      en Tel Aviv verwijzen niet langer naar VN-Veiligheidsraad Resolutie 1701, die
+      de vijandelijkheden van 2024 beëindigde; in plaats daarvan concentreren zij zich
+      op wat Libanon kan opleveren voor Israëls veiligheid door de militaire capaciteit
+      van het verzet uit te schakelen – zonder enige wederkerige concessie van de Israëlische
+      bezettingsmacht. De Israëlische minister van Defensie, Israel Katz, waarschuwde
+      dat “elke aanval op de noordelijke Israëlische nederzettingen een onmiddellijke
+      aanval op hoofdstad Beiroet zal uitlokken”. Letterlijk genomen komt dit neer op
+      een uitnodiging: als Israël aanvallen op zijn noordelijke nederzettingen als rechtvaardiging
+      beschouwt om Beiroet te treffen, wordt Hezbollah feitelijk aangemoedigd om vanaf
+      de eerste dag van een totale oorlog niet enkel tactisch te reageren, maar ook
+      de politieke en economische centra van Israël aan te vallen. Operationeel gezien
+      is Israëls doelwitselectie breder geworden. Waar aanvallen voorheen gericht waren
+      op actieve strijders van de jihadistische vleugel, zijn recente operaties uitgebreid
+      naar Hezbollah-leden die behoren tot de zogenaamde “geografische eenheden” (vaste
+      bewoners van Zuid-Libanon). Israël is ook begonnen met het viseren van Hezbollah-leden
+      van de “uitvoerende tak” met gemeentelijke of bestuurlijke functies en, opvallend
+      genoeg, ook van gewonde of gehandicapte leden sinds de “pieper-sabotage”-aanvallen
+      van vóór de oorlog. Het treffen van personen die duidelijk niet meer aan de strijd
+      deelnemen, kan bezwaarlijk als proportionele vergelding worden voorgesteld; het
+      is eerder een berekende gedragsregel die druk moet uitoefenen zonder de drempel
+      tot algemene oorlog te overschrijden, en die een signaal geeft dat Israël geen
+      onderscheid meer maakt tussen de verschillende afdelingen van Hezbollah. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Israël heeft zijn retoriek tegen Hezbollah en Libanon opgevoerd,
+      met de eis dat de Libanese regering voor eind 2025 een plan presenteert om de
+      groep te ontwapenen, terwijl belangrijke schendingen van het staakt-het-vuren
+      en de VN-resolutie 1701 worden genegeerd.
+    paragraph_summary: In recent weeks, Israel has intensified its rhetoric against
+      Hezbollah and Lebanon, claiming that Hezbollah is rearming and must be neutralized,
+      with a plan expected from the Lebanese government and military by the end of 2025
+      to disarm the group. U.S. envoy Thomas Barrack has given Lebanon until the end
+      of November to present a disarmament plan and initiate direct dialogue with Israel.
+      However, these statements overlook Israel's numerous ceasefire violations, ongoing
+      occupation of newly established positions since the October 2024 conflict, and
+      the daily casualties among Lebanese people. Washington and Tel Aviv have shifted
+      focus away from UN Security Council Resolution 1701, which ended the 2024 hostilities,
+      to demanding that Lebanon enhance Israeli security by dismantling Hezbollah's
+      military capabilities without offering any reciprocal concessions. Israeli Defense
+      Minister Israel Katz warned that any attack on northern Israeli settlements would
+      provoke an immediate response against Beirut, effectively encouraging Hezbollah
+      to target not just military assets but also Israel's political and economic centers
+      in the event of a full-scale war. Israel's operational focus has broadened, now
+      including attacks on Hezbollah members beyond active jihadist fighters.
+    published: '2025-11-08T15:15:03+00:00'
+  - title: Israël breidt zijn doelwitten in Libanon uit en daagt Hezbollah uit om Tel
+      Aviv aan te vallen in het geval van een totale oorlog
+    url: https://ejmagnier.com/2025/11/08/israel-breidt-zijn-doelwitten-in-libanon-uit-en-daagt-hezbollah-uit-om-tel-aviv-aan-te-vallen-in-het-geval-van-een-totale-oorlog/
+    text: 'Tweet Geschreven door Elijah J. Magnier –  vertaald door Francis J. In de
+      afgelopen weken heeft Israël zijn retoriek tegenover Hezbollah en Libanon opgevoerd,
+      waarbij het zijn narratief baseert op de bewering dat “Hezbollah zich opnieuw
+      bewapent en geneutraliseerd moet worden”. Daarbij stelt het dat de Libanese regering
+      en het leger vóór het einde van 2025 een plan zullen presenteren om de beweging
+      te ontwapenen. De Amerikaanse gezant Thomas Barrack gaf Libanon tot het einde
+      van deze maand november om met een plan te komen om Hezbollah te ontwapenen en
+      een directe dialoog met Israël op te starten. In geen van deze verklaringen wordt
+      verwezen naar de duizenden staakt-het-vuren-schendingen van Israël, de voortgezette
+      bezetting van nieuw geïmproviseerde heuvelposities sinds de oorlog van oktober
+      2024, of de honderden Libanezen die sinds dat conflict dagelijks omkomen. Washington
+      en Tel Aviv verwijzen niet langer naar VN-Veiligheidsraad Resolutie 1701, die
+      de vijandelijkheden van 2024 beëindigde; in plaats daarvan concentreren zij zich
+      op wat Libanon kan opleveren voor Israëls veiligheid door de militaire capaciteit
+      van het verzet uit te schakelen – zonder enige wederkerige concessie van de Israëlische
+      bezettingsmacht. De Israëlische minister van Defensie, Israel Katz, waarschuwde
+      dat “elke aanval op de noordelijke Israëlische nederzettingen een onmiddellijke
+      aanval op hoofdstad Beiroet zal uitlokken”. Letterlijk genomen komt dit neer op
+      een uitnodiging: als Israël aanvallen op zijn noordelijke nederzettingen als rechtvaardiging
+      beschouwt om Beiroet te treffen, wordt Hezbollah feitelijk aangemoedigd om vanaf
+      de eerste dag van een totale oorlog niet enkel tactisch te reageren, maar ook
+      de politieke en economische centra van Israël aan te vallen. Operationeel gezien
+      is Israëls doelwitselectie breder geworden. Waar aanvallen voorheen gericht waren
+      op actieve strijders van de jihadistische vleugel, zijn recente operaties uitgebreid
+      naar Hezbollah-leden die behoren tot de zogenaamde “geografische eenheden” (vaste
+      bewoners van Zuid-Libanon). Israël is ook begonnen met het viseren van Hezbollah-leden
+      van de “uitvoerende tak” met gemeentelijke of bestuurlijke functies en, opvallend
+      genoeg, ook van gewonde of gehandicapte leden sinds de “pieper-sabotage”-aanvallen
+      van vóór de oorlog. Het treffen van personen die duidelijk niet meer aan de strijd
+      deelnemen, kan bezwaarlijk als proportionele vergelding worden voorgesteld; het
+      is eerder een berekende gedragsregel die druk moet uitoefenen zonder de drempel
+      tot algemene oorlog te overschrijden, en die een signaal geeft dat Israël geen
+      onderscheid meer maakt tussen de verschillende afdelingen van Hezbollah. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Israël heeft zijn retoriek tegen Hezbollah en Libanon opgevoerd,
+      met de eis dat de Libanese regering voor eind 2025 een plan presenteert om de
+      groep te ontwapenen, terwijl belangrijke schendingen van het staakt-het-vuren
+      en de VN-resolutie 1701 worden genegeerd.
+    paragraph_summary: In recent weeks, Israel has intensified its rhetoric against
+      Hezbollah and Lebanon, claiming that Hezbollah is rearming and must be neutralized,
+      with a plan expected from the Lebanese government and military by the end of 2025
+      to disarm the group. U.S. envoy Thomas Barrack has given Lebanon until the end
+      of November to present a disarmament plan and initiate direct dialogue with Israel.
+      However, these statements overlook Israel's numerous ceasefire violations, ongoing
+      occupation of newly established positions since the October 2024 conflict, and
+      the daily casualties among Lebanese people. Washington and Tel Aviv have shifted
+      focus away from UN Security Council Resolution 1701, which ended the 2024 hostilities,
+      to demanding that Lebanon enhance Israeli security by dismantling Hezbollah's
+      military capabilities without offering any reciprocal concessions. Israeli Defense
+      Minister Israel Katz warned that any attack on northern Israeli settlements would
+      provoke an immediate response against Beirut, effectively encouraging Hezbollah
+      to target not just military assets but also Israel's political and economic centers
+      in the event of a full-scale war. Israel's operational focus has broadened, now
+      including attacks on Hezbollah members beyond active jihadist fighters.
+    published: '2025-11-08T15:15:03+00:00'
+  - title: Israel enlarges its targets in Lebanon and invites Hezbollah to strike Tel
+      Aviv in the event of all-out war
+    url: https://ejmagnier.com/2025/11/08/israel-enlarges-its-targets-in-lebanon-and-invites-hezbollah-to-strike-tel-aviv-in-the-event-of-all-out-war/
+    text: 'Tweet By Elijah J. Magnier In recent weeks Israel has stepped up its rhetoric
+      toward Hezbollah and Lebanon, framing its narrative around the claim that “Hezbollah
+      is rearming and must be neutralised” and asserting that the Lebanese government
+      and army will present a plan to disarm the movement before the end of 2025. US
+      envoy Thomas Barrack gave Lebanon until the end of this month of November to come
+      up with a plan to disarm Hezbollah and establish direct dialogue with Israel. Nowhere
+      in these statements is there reference to Israel’s thousands of ceasefire violations,
+      its continued occupation of newly improvised hills since the October 2024 war,
+      or the hundreds of Lebanese killed daily since that conflict. Washington and Tel
+      Aviv no longer invoke UNSCR 1701, which ended the 2024 hostilities; instead, they
+      focus on what Lebanon can deliver for Israel’s security by eliminating the resistance’s
+      military capacity — without offering reciprocal concessions from Israeli occupying
+      forces. Israel’s defence minister, Israel Katz, warned that “any attack on the
+      Israeli northern settlements will trigger an immediate attack on the capital,
+      Beirut.” Taken literally, this amounts to an invitation: if Israel treats strikes
+      on its northern settlements as justification to hit Beirut, Hezbollah is effectively
+      encouraged to expand its response beyond tactical retaliation and target Israel’s
+      political and economic centres from the first day of an all-out war. Operationally,
+      Israel’s targeting has widened. Where strikes once focused on active combatants of
+      the Jihadi body. Recent operations have extended to Hezbollah members defined
+      by “geography forces” (permanent residents of southern Lebanon). Israel has also
+      initiated targeting Hezbollah members of the “executive branch” holding municipal
+      or administrative roles, and, most strikingly, those wounded or disabled in the
+      pre-war “pager sabotage” attacks. Hitting people clearly out of combat cannot
+      plausibly be framed as proportional retaliation; it represents a calibrated rule
+      of engagement designed to apply pressure without crossing the threshold into generalised
+      war and to send a message that Israel is making no distinction between Hezbollah
+      branches. For Hezbollah, this shift comes as the movement concentrates on reconstruction:
+      it has spent over $1 billion repairing roughly 70 per cent of damaged buildings
+      in southern Lebanon, the Bekaa Valley, and Beirut’s suburbs — work that Israel is
+      totally obstructing in Lebanese border villages, preventing displaced residents
+      from repairing their homes and returning. Subscribe Subscribe to get access Read
+      more of this content when you subscribe today. Subscribe Submitting form Log in
+      Make a one-time donation Your contribution is appreciated. Donate Make a monthly
+      donation Your contribution is appreciated. Donate monthly Make a yearly donation
+      Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Israel has intensified its rhetoric against Hezbollah, demanding
+      Lebanon disarm the group by the end of 2025 while ignoring its own ceasefire violations
+      and the ongoing impact of the 2024 conflict on Lebanon.
+    paragraph_summary: In recent weeks, Israel has intensified its rhetoric against
+      Hezbollah and Lebanon, claiming that Hezbollah is rearming and must be disarmed
+      by the Lebanese government by the end of 2025, with U.S. envoy Thomas Barrack
+      urging Lebanon to establish direct dialogue with Israel by the end of November.
+      However, these demands ignore Israel's numerous ceasefire violations and ongoing
+      occupation since the October 2024 war, as well as the significant casualties in
+      Lebanon. Instead of referencing UNSCR 1701, which ended the 2024 conflict, Israel
+      and the U.S. focus on Lebanon's obligations to enhance Israeli security without
+      offering any concessions in return. Israeli Defense Minister Israel Katz has warned
+      that any attack on northern Israeli settlements will lead to immediate retaliation
+      against Beirut, potentially encouraging Hezbollah to broaden its response in a
+      future conflict. Additionally, Israel's military operations have expanded to target
+      not only active combatants but also Hezbollah members in administrative roles
+      and even those who are no longer combat-ready, raising concerns about the proportionality
+      of their actions.
+    published: '2025-11-08T15:11:17+00:00'
+  - title: Israel enlarges its targets in Lebanon and invites Hezbollah to strike Tel
+      Aviv in the event of all-out war
+    url: https://ejmagnier.com/2025/11/08/israel-enlarges-its-targets-in-lebanon-and-invites-hezbollah-to-strike-tel-aviv-in-the-event-of-all-out-war/
+    text: 'Tweet By Elijah J. Magnier In recent weeks Israel has stepped up its rhetoric
+      toward Hezbollah and Lebanon, framing its narrative around the claim that “Hezbollah
+      is rearming and must be neutralised” and asserting that the Lebanese government
+      and army will present a plan to disarm the movement before the end of 2025. US
+      envoy Thomas Barrack gave Lebanon until the end of this month of November to come
+      up with a plan to disarm Hezbollah and establish direct dialogue with Israel. Nowhere
+      in these statements is there reference to Israel’s thousands of ceasefire violations,
+      its continued occupation of newly improvised hills since the October 2024 war,
+      or the hundreds of Lebanese killed daily since that conflict. Washington and Tel
+      Aviv no longer invoke UNSCR 1701, which ended the 2024 hostilities; instead, they
+      focus on what Lebanon can deliver for Israel’s security by eliminating the resistance’s
+      military capacity — without offering reciprocal concessions from Israeli occupying
+      forces. Israel’s defence minister, Israel Katz, warned that “any attack on the
+      Israeli northern settlements will trigger an immediate attack on the capital,
+      Beirut.” Taken literally, this amounts to an invitation: if Israel treats strikes
+      on its northern settlements as justification to hit Beirut, Hezbollah is effectively
+      encouraged to expand its response beyond tactical retaliation and target Israel’s
+      political and economic centres from the first day of an all-out war. Operationally,
+      Israel’s targeting has widened. Where strikes once focused on active combatants of
+      the Jihadi body. Recent operations have extended to Hezbollah members defined
+      by “geography forces” (permanent residents of southern Lebanon). Israel has also
+      initiated targeting Hezbollah members of the “executive branch” holding municipal
+      or administrative roles, and, most strikingly, those wounded or disabled in the
+      pre-war “pager sabotage” attacks. Hitting people clearly out of combat cannot
+      plausibly be framed as proportional retaliation; it represents a calibrated rule
+      of engagement designed to apply pressure without crossing the threshold into generalised
+      war and to send a message that Israel is making no distinction between Hezbollah
+      branches. For Hezbollah, this shift comes as the movement concentrates on reconstruction:
+      it has spent over $1 billion repairing roughly 70 per cent of damaged buildings
+      in southern Lebanon, the Bekaa Valley, and Beirut’s suburbs — work that Israel is
+      totally obstructing in Lebanese border villages, preventing displaced residents
+      from repairing their homes and returning. Subscribe Subscribe to get access Read
+      more of this content when you subscribe today. Subscribe Submitting form Log in
+      Make a one-time donation Your contribution is appreciated. Donate Make a monthly
+      donation Your contribution is appreciated. Donate monthly Make a yearly donation
+      Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Israel has intensified its rhetoric against Hezbollah, demanding
+      Lebanon disarm the group by the end of 2025 while ignoring its own ceasefire violations
+      and the ongoing impact of the 2024 conflict on Lebanon.
+    paragraph_summary: In recent weeks, Israel has intensified its rhetoric against
+      Hezbollah and Lebanon, claiming that Hezbollah is rearming and must be disarmed
+      by the Lebanese government by the end of 2025, with U.S. envoy Thomas Barrack
+      urging Lebanon to establish direct dialogue with Israel by the end of November.
+      However, these demands ignore Israel's numerous ceasefire violations and ongoing
+      occupation since the October 2024 war, as well as the significant casualties in
+      Lebanon. Instead of referencing UNSCR 1701, which ended the 2024 conflict, Israel
+      and the U.S. focus on Lebanon's obligations to enhance Israeli security without
+      offering any concessions in return. Israeli Defense Minister Israel Katz has warned
+      that any attack on northern Israeli settlements will lead to immediate retaliation
+      against Beirut, potentially encouraging Hezbollah to broaden its response in a
+      future conflict. Additionally, Israel's military operations have expanded to target
+      not only active combatants but also Hezbollah members in administrative roles
+      and even those who are no longer combat-ready, raising concerns about the proportionality
+      of their actions.
+    published: '2025-11-08T15:11:17+00:00'
   - title: Is Lebanon Really a Failed State? How Washington Made It — and Now Offers
       the Cure, Unwittingly
     url: https://ejmagnier.com/2025/11/03/is-lebanon-really-a-failed-state-how-washington-made-it-and-now-offers-the-cure-unwittingly/
