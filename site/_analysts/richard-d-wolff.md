@@ -9,23 +9,27 @@ websites:
   - https://www.counterpunch.org/author/rwolff0998/
   - https://www.laprogressive.com/author/richard-d-wolff
 summary: |
-  As the U.S. approaches the 2026 mid-term elections, domestic and international tensions continue to shape the geopolitical landscape. The interplay between economic inequality, shifting global power dynamics, and the persistence of militarized policies underscores the current moment.
+  As the world enters mid-November 2025, the geopolitical landscape remains shaped by persistent conflicts, economic realignments, and intensifying domestic challenges within the United States. The following report synthesizes the latest insights from independent analyst **Richard D. Wolff**, focusing on the most recent and significant developments.
   
-  **Domestic Political Climate and Rising Authoritarianism**
+  **Gaza Conflict and U.S. Political Dynamics**
   
-  With the 2026 mid-terms on the horizon, the U.S. political environment is marked by heightened polarization and concerns over democratic backsliding. **Richard D. Wolff** notes that the Democratic Party faces criticism for its handling of recent conflicts, particularly in Gaza, and for failing to present a robust alternative to rising authoritarian tendencies. The persistence of voter suppression tactics and the influence of figures like Trump have intensified anxieties about the future of American democracy. There is a high chance that these trends will continue to erode public trust in institutions, especially if progressive leadership fails to mobilize effectively.
+  The ongoing conflict in Gaza continues to reverberate through U.S. politics, particularly as the 2026 mid-term elections approach. **Richard D. Wolff** highlights growing criticism of the Democratic Party’s approach to peace, noting that their stance has been undermined by recent escalations in Gaza and the broader Middle East. The use of landmines and the implications of the so-called “Trump peace plan” have further complicated prospects for a durable resolution. As the U.S. electorate becomes more polarized on foreign policy, there is a “high chance” that these divisions will deepen, especially given the party’s perceived inability to offer a clear alternative to militarized solutions.
   
-  **Economic Shifts and Global Power Realignment**
+  **Rising Authoritarianism and Threats to Democracy**
   
-  The decline of U.S. economic influence relative to BRICS nations remains a central theme. As **Richard D. Wolff** highlights, the G7 economies, particularly the UK and U.S., are experiencing stagnation or contraction, while China and other BRICS countries continue to grow. This shift is exacerbated by capital flight and deindustrialization in the U.S., leading to increased inequality and social unrest. There is high confidence that this trend will persist, with the U.S. middle class facing further decline unless systemic reforms are enacted.
+  Domestically, the U.S. faces mounting concerns over the erosion of democratic norms. **Wolff** points to the rise of fascist tendencies and the impact of figures like Trump, whose influence persists in both the Republican Party and the broader political discourse. The politicization of the judicial system and ongoing voter suppression efforts are seen as significant threats to the integrity of the 2026 elections. There is “high chance” that these trends will continue unless there is a substantial mobilization of progressive forces and reforms to safeguard democratic processes.
   
-  **Foreign Policy Contradictions and Military Keynesianism**
+  **Economic Inequality and Labor Movements**
   
-  U.S. foreign policy is increasingly characterized by contradictions, especially in its approach to China and ongoing conflicts like Gaza. **Richard D. Wolff** points out the dual strategy of attempting to contain China while maintaining economic interdependence, reflecting unresolved internal class conflicts. Simultaneously, the reliance on military Keynesianism—using defense spending to stimulate the economy—remains entrenched, both domestically and in Europe. This approach, while providing short-term economic relief, perpetuates global instability and diverts resources from pressing social needs. Most definitely, without a major policy shift, military spending will continue to dominate U.S. economic strategy.
+  Economic inequality remains a central issue, exacerbated by the continued prioritization of corporate profits over worker welfare. **Wolff** emphasizes the need for systemic change, citing the successes and ongoing struggles of labor movements, particularly in California. The gig economy and the resurgence of neofascist threats have forced unions to adapt, but the broader capitalist system’s contradictions persist. There is “high chance” that without significant policy shifts, economic disparities will widen, fueling further social unrest and political polarization.
+  
+  **Climate Policy and Global Economic Shifts**
+  
+  On the global stage, the U.S. faces challenges from both climate change and shifting economic power centers. The rollback of environmental regulations under the Trump administration has stalled progress on climate initiatives, while bipartisan support for fossil fuels hampers the transition to renewable energy. Meanwhile, the economic growth of China and BRICS nations contrasts sharply with stagnation in the G7, signaling a redistribution of global economic influence. **Wolff** asserts that unless the U.S. adopts more forward-looking policies, it will “most definitely” continue to lose ground in both economic and environmental leadership.
   
   **Trends and Predictions**
   
-  The convergence of economic decline, political polarization, and militarized policy responses suggests a period of sustained instability. There is a high chance that the U.S. will see increased social unrest and further erosion of its global influence unless there is a significant realignment towards progressive economic and foreign policies. The global economic center of gravity will continue shifting towards BRICS, and U.S. attempts to maintain hegemony through military and economic means are likely to face diminishing returns.
+  The prevailing trends suggest a period of heightened instability, both domestically and internationally. The U.S. is likely to see intensified political polarization, persistent economic inequality, and continued challenges to democratic norms. On the global front, the shift of economic power towards the Global South and the ongoing climate crisis will further test the resilience of established institutions. As **Wolff** concludes, without bold systemic reforms, these dynamics will “most definitely” shape the geopolitical order for years to come.
 articles:
   - title: War and Peace
     url: https://www.laprogressive.com/war-and-peace

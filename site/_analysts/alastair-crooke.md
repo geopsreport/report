@@ -7,14 +7,227 @@ description: "Ex-MI6 diplomat and founder of Conflicts Forum (Beirut); publishes
 websites:
   - https://www.eurasiareview.com/author/alastair-crooke/
 summary: |
-  The global geopolitical landscape remains in flux as U.S. foreign policy, under President Trump, faces mounting internal and external challenges. The latest analysis by **Alastair Crooke** highlights a critical juncture: the RAND Corporation’s recent report urges Washington to reconsider its adversarial stance towards China, advocating for “mutual recognition and cooperation” rather than default confrontation. However, Crooke notes that entrenched political dynamics in Washington make such a pivot unlikely in the near term, especially as U.S. policymakers remain preoccupied with domestic divisions and the legacy of recent military entanglements.
+  As the U.S. enters a period of heightened political turbulence following recent Democratic victories and California’s redistricting, the underlying structural crisis in the American economy is fueling widespread populist discontent. **Alastair Crooke** notes that this disillusionment is not limited to one party, but is increasingly directed at the entire political establishment, including Trump’s base. This signals a broader instability that could undermine the current administration’s ability to sustain its foreign policy direction.
   
-  Meanwhile, the abrupt cancellation of Trump’s proposed summit with Putin underscores the deepening freeze in U.S.-Russia relations. Crooke observes that the U.S. has failed to grasp Russia’s categorical rejection of a ‘frozen conflict’ approach in Ukraine, signaling that Moscow is unlikely to accept any settlement that does not address its core security concerns. This impasse, coupled with the U.S. withdrawal of support from Ukraine, is “most definitely” accelerating a shift in European security burdens onto the EU, with unpredictable consequences for regional stability.
+  On the international front, the cancellation of Trump’s proposed summit with Putin underscores a deepening rift between Washington and Moscow. According to **Crooke**, the U.S. continues to misread Russia’s rejection of a ‘frozen conflict’ approach, leading to escalating tensions. Meanwhile, Japan’s unexpected pivot towards China is emerging as a significant challenge to U.S. economic influence in Asia, potentially accelerating a shift in regional power dynamics.
   
-  In Asia, a significant development is Japan’s unexpected pivot towards China, which Crooke describes as a potential destabilizer for U.S. economic influence in the region. This move, if sustained, could embolden Beijing’s efforts to reshape the regional order and further erode the dollar’s dominance in global trade—a trend Crooke has previously identified as a source of anxiety within the U.S. establishment.
+  In parallel, a RAND Corporation report has sparked debate in Washington by advocating for a recalibration of U.S. policy towards China, suggesting mutual recognition and cooperation rather than confrontation. **Crooke** questions whether such a shift is feasible given the entrenched geopolitical and internal political dynamics in the U.S., but acknowledges that the debate itself reflects growing uncertainty about the sustainability of current strategies.
   
-  Looking ahead, the majority of independent analysts cited by Crooke foresee a period of “imminent disorder” in the global financial and geopolitical framework. There is a “high chance” that U.S. attempts to maintain dominance through coercive means will provoke further resistance from emerging powers, particularly as Western liberal norms continue to erode. Crooke concludes that unless Washington can adapt to the realities of a multipolar world, the current trajectory points toward escalating volatility and a diminished U.S. role on the world stage.
+  Looking ahead, the trends point to increasing volatility both domestically and internationally. The U.S. faces a “high chance” of further political instability as economic grievances intensify and populist movements gain traction. In foreign affairs, the likelihood of a durable rapprochement with either Russia or China remains low, while the erosion of U.S. influence in Asia is “quite likely” to continue. As **Crooke** concludes, the West is entering a period of imminent disorder, with established frameworks and alliances under mounting strain.
 articles:
+  - title: 'Western Cross-Currents: Cultural Populism Vs Deep Architecture – OpEd'
+    url: https://www.eurasiareview.com/12112025-western-cross-currents-cultural-populism-vs-deep-architecture-oped/
+    text: 'By Alastair Crooke
+
+
+      The starting gun for the U.S. 2026 Midterms was fired this past week with three
+      consequential elections and a key re-districting poll held in California. The
+      Democrats swept three major races (NY, NJ, VA) and won the re-districting proposition
+      in California. Californian re-districting could give the Democrats a further five
+      seats in the House.
+
+
+      But the lens by which to understand these events perhaps is better that of the
+      last British general election: The governing party was both discredited and widely
+      disliked. The British electorate wanted to deliver to it a resounding slap – which
+      they duly did. The problem was that electors did not like the alternative parties
+      so much either. But to send the message, they had to vote for something. The Labour
+      Party won a thumping majority, but no real mandate. The new Prime Minister, and
+      his party (as it turns out), is as widely disliked as his predecessor.
+
+
+      Politics in the UK are broken for now. It is largely the same in France.
+
+
+      So, when the headlines say the Democrats ‘swept’ the races in the U.S., it likely
+      reflects the same double-dislike that is evident in Europe. American Populists
+      do not care for either Party’s ruling Establishment, seeing them as Tweedle Dum
+      and Tweedle Dee – a plague on both your houses is their riposte. (The Democrats
+      have their Populists too.)
+
+
+      This impasse is not susceptible to a quick fix. The ruling stratum is deeply embedded
+      and owned by mega-donors precisely to keep it that way.
+
+
+      Nonetheless, the populist dynamic in the U.S. is irrefutable, and may soon evolve
+      beyond the reach of donor speech repression structures.
+
+
+      The primary reasons for this impasse are deeply structural, as well as ideological.
+
+
+      Structurally, there is a crisis affecting all but the top 10% or so of households.
+      The U.S. stock market has entered a fantasy euphoria: Fundamentals do not matter;
+      data does not matter; only the meme of the day and how to trade it matters. (The
+      top 10% of households oowns 87% of all stocks).
+
+
+      The bottom tier of society however, is further ‘punished’ by price rises (inflation)
+      that have resulted in a crisis of consumer confidence not seen in decades. Even
+      regular staples are being left unsold on supermarket shelves.
+
+
+      But criticism of Trump policies and especially tariffs (for their effect on prices)
+      has been notably muted since this summer – the Financial Times writes – when Trump
+      called for Goldman Sachs to fire its Chief Economist, who had penned a level-headed
+      note on trade tariffs that drew the President’s ire. Cold water. Only two gurus
+      seem licensed to speak their mind – Bridgewater’s Ray Dalio and JPMorgan’s Jamie
+      Dimon, the FT opines.
+
+
+      The key structural shift sending shivers of anxiety at prospects of coming social
+      unrest down the spine of the financial panjandrums however, is a simple chart
+      showing vertically soaring U.S. stock market prices for its up-vector, crossing
+      at a certain point with a sharply downward trajectory of job-openings. It is being
+      widely termed a ‘death cross’.
+
+
+      This chart explains a lot of what hides in the background to western election
+      outcomes.
+
+
+      The crossover point – where the vectors divide so explosively – is given as the
+      launch date of the AI tool Chat GPT. The chart thus foreshadows a social time
+      bomb. Are big companies anticipating that AI will bring massive job replacement?
+
+
+      Is such an outcome probable? A recent MIT study by contrast found that 95% of
+      companies that had invested in AI tools were seeing zero return, and concluded
+      that today’s AI doesn’t understand ‘environments’ – It just pattern-matches inside
+      them.
+
+
+      Either way, the prospect is dour: It is either a crucial market misjudgement by
+      the U.S. AI giants – one that might trigger a market crash – or else, the U.S.
+      AI majors correctly are foretelling a coming tsunami of job replacements. Whichever
+      it is has huge political implications.
+
+
+      Whether their judgement is right or wrong, the reality is that, with the top 4
+      U.S. AI spenders planning on investing $420 billion on infrastructure next year,
+      the “Godfather of AI”, Geoffrey Hinton, says this level of spending can only be
+      justified by replacing humans: “I think the big companies are betting on it causing
+      massive job replacement by AI, because that’s where the big money is going to
+      be … I believe that to make money you’re going to have to replace human labour”.
+
+
+      Just to be clear, Trump has made his bet on the U.S. dominating global AI: “If
+      you go a couple of years out, you’re gonna see numbers like you’ve never seen.
+      We’re building some of the biggest buildings ever built anywhere in the world:
+      The AI buildings”.
+
+
+      Yet the CEO of Nividia told the FT that China will overtake the U.S. in AI, and
+      Open AI has been angling for a government loan guarantee.
+
+
+      The ‘geological’ fault line here is that there is not one American (or European)
+      economy, there are two quite separate economies: A financialised cornucopia as
+      one, and structured privation as the other. The two do not meet. The West has
+      invested too heavily in the ’cornucopia’ model to be able to change it at short
+      notice. It would mean turning deep ‘architectural structures’ inside out.
+
+
+      If this is so, Trump is in peril and the November U.S. Midterms may be fraught.
+      The outlook is inherently unstable. The AI bubble may anytime pop and trigger
+      a sell-off in markets. And the U.S. Supreme Court too, possibly might rule that
+      Trump’s heavy reliance on tariffs – both as a weaponised geo-political tool, and
+      as a source of revenue to plug deficit holes in the Federal budget – be deemed
+      to be partly or wholly unconstitutional.
+
+
+      Trump has said that, were the Supreme Court to rule his tariffs unconstitutional:
+      “We would be defenceless, leading perhaps even to the ruination of our Nation”.
+
+
+      The outlook is unstable too at the level of Trump’s base: MAGA supporters backed
+      away from the ballot this week, either staying home, or flipping to Democrat.
+
+
+      At the root of the MAGA disenchantment is both the ‘split economy’, but also –
+      in the wake of the killing of Charlie Kirk – a growing breach between MAGA ‘America
+      First’ supporters and the pro-Israel mega-donor cadre. Trump’s close identification
+      with Netanyahu and Israel has been demonstrated to be a losing issue electorally.
+      Yet, this is the sphere in which – uniquely – Trump is not simply transactional.
+      He acts and speaks — and ‘walks-the-walk’ — of a zealous Zionist.
+
+
+      The big question therefore, is can Trump re-define himself in the wake of a clear
+      signal that the Midterms are his to lose? If he cannot recalibrate, he faces a
+      year, after which he may find himself facing House investigations or even impeachment
+      – and with the U.S. entering into political and economic turmoil.
+
+
+      Trump’s options are limited: He will not be allowed to row back on the donor-financed
+      deep foreign policy architecture that has been in place for four decades: i.e.
+      unqualified support for Israel and the unconstrained open resort to U.S. military
+      action wherever actors decline to align with U.S. and Israeli positions, or refuse
+      to defer to dollar trade primacy.
+
+
+      Backstopping AI, which is viewed by much of MAGA as ‘Orwellian’, is no vote winner
+      too. The key to the future (whether for the U.S. or Europe) is who can persuade
+      voters they can, and will, provide solutions to the ‘bread-and-butter’ structural
+      contradictions ruining their electors’ wellbeing.
+
+
+      Were Trump to be hammered in next year’s mid-terms, there will be no returning
+      to the neo-liberal ways of the last 40 years. No candidate in the U.S. or Europe
+      can any longer expect to win on a pro-globalisation or a DEI platform. That much
+      is obvious. And if political solutions are disallowed (or gerrymandered) by the
+      ruling strata, then insurrection becomes possible.
+
+
+      The bottom line? Trump’s foreign policy will face disruptions from both Israel
+      (exacerbating MAGA disquiet) and from Europe. The European élite technocracy is
+      still in denial that they are widely seen by their electorates as dysfunctional
+      failures. Complacency that somehow a return to ‘normal’ will follow Trump’s expected
+      loss at the midterms permeates their otherwise sealed technocratic retort.
+
+
+      To insulate themselves politically from imminent defeat in Ukraine, the European
+      Establishment is sanguine that it can succeed in repressing dissent forcibly,
+      and further control media narratives. ‘Russophobia‘ is their only rallying cry
+      and we may expect further provocations aimed at Russia. They (still) hope to prove
+      that they were right, all along – that Russia is indeed the threat. The Élites
+      may believe that, but their electorates do not, despite the prevalence of ‘Estonia-itis’
+      as the ‘Baltic tail wagging the EU dog’ has occasionally been termed.
+
+
+      The Trump ‘Order’ is inherently unstable. Facing evident western decline, Trump
+      sails ‘heroically’ against the tide – trying to revive the golden age of America.
+      But that age, if it ever was golden, is no longer to be found. It has passed away;
+      MAGA is finding its values more with the Pat Buchanan legacy, rather than from
+      the Bush-Cheney world.
+
+
+      When the fundamental balance of an ‘order’ has become disrupted beyond a certain
+      point; when the young turn against illusion and begin to search for something
+      fresh to supplant the tired patterns of the old … this is known as waiting for
+      the new moon.
+
+
+      That’s where we are. Waiting.'
+    one_sentence_summary: The recent Democratic victories in the U.S. elections and
+      California's re-districting highlight a growing populist discontent with both
+      major parties, reflecting a broader structural crisis in the economy that could
+      lead to significant political instability, particularly for Trump as he faces
+      disillusionment among his base and potential challenges to his foreign policy.
+    paragraph_summary: In a recent analysis, Alastair Crooke discusses the implications
+      of the U.S. 2026 Midterms, highlighting the Democrats' victories in key elections
+      and a re-districting win in California that could bolster their House representation.
+      He draws parallels with the current political landscape in the UK, where discontent
+      with both major parties has led to a fractured electorate. Crooke emphasizes the
+      deep structural issues facing the U.S., particularly the widening economic divide
+      exacerbated by inflation and a stock market disconnected from the realities of
+      most Americans. He warns of a potential social unrest stemming from the rise of
+      AI and its implications for job displacement, while also noting the precarious
+      position of Trump and his base, which is increasingly disillusioned. The article
+      concludes that the political order is unstable, with a growing demand for new
+      solutions to the pressing economic and social challenges, suggesting that the
+      current political dynamics may lead to significant upheaval if not addressed.
+    published: '2025-11-12T16:01:06+00:00'
   - title: 'U.S. Foreign Policy In Contention: Is Trump Allowed To Agree A Deal With
       China (but Not Russia Or Iran)? – OpEd'
     url: https://www.eurasiareview.com/03112025-u-s-foreign-policy-in-contention-is-trump-allowed-to-agree-a-deal-with-china-but-not-russia-or-iran-oped/

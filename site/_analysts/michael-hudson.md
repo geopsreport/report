@@ -8,16 +8,684 @@ websites:
   - https://michael-hudson.com/
   - https://geopoliticaleconomy.com/author/michael-hudson/
 summary: |
-  The past 48 hours have seen significant developments in both U.S. domestic politics and the global economic order, with implications for the future of Western hegemony and the structure of international finance.
+  As the global contest for resources and influence intensifies, recent developments underscore the shifting strategies of major powers and the vulnerabilities of key regions. The U.S. is accelerating its push for resource extraction in Central Asia, while Europe faces mounting challenges in its technology sector amid ongoing geopolitical tensions. Meanwhile, political shifts in the U.S. signal potential changes in domestic and international policy alignments.
   
-  The most notable new development is the unexpected victory of Zohran Mamdani, a Muslim socialist immigrant, in the New York mayoral election. Despite facing overwhelming financial opposition from established donor networks, Mamdani’s win signals, in the words of **Michael Hudson**, “a turning point for the Democratic Party and urban politics in America.” Analysts including **Nima Alkhorchid** and **Richard Wolff** agree that this outcome reflects a growing disconnect between traditional party elites and an increasingly mobilized, diverse urban electorate. The majority view is that this could embolden similar grassroots campaigns in other major U.S. cities, challenging the dominance of donor-driven politics. I guarantee this trend will continue to reshape the Democratic Party’s internal dynamics over the next election cycle.
+  The latest analysis by **Michael Hudson** highlights the strategic importance of Kazakhstan’s rare earth minerals, especially tungsten, as the U.S. ramps up efforts to secure critical supply chains. The new U.S. ambassador’s call for rapid extraction and export of these resources is seen as part of a broader neo-imperial competition, with Central Asia positioned as a battleground for global powers. According to Hudson, this approach risks perpetuating a “rentier rule of law” that undermines local development and sovereignty.
   
-  On the international front, recent reports highlight the shifting landscape of global trade and finance. **Michael Hudson** notes that China has “resisted Trump’s demands” during the latest summit, maintaining its independent economic course, while Japan and Korea have shown greater willingness to align with U.S. interests. **Nima Alkhorshid** observed Trump’s “visible disappointment” during the bilateral handshake, underscoring the limits of U.S. leverage in Asia. There is high chance that China’s stance will further accelerate the decoupling of Asian trade from the Western financial system.
+  In Europe, the fallout from the tech war with China continues to deepen. **Hudson** notes that the recent seizure of semiconductor wafers and chips—essential for the continent’s automotive industry—could disrupt supply lines and exacerbate Europe’s economic decline. The continent’s alignment with U.S. policies against China, he argues, has left it exposed to both economic and technological vulnerabilities.
   
-  Meanwhile, the European Union’s ongoing consideration of seizing Russian assets to fund Ukraine’s war effort is driving a broader realignment in global finance. **Michael Hudson** emphasizes that this move has “undermined confidence in the Western financial system,” prompting a surge in gold purchases by countries seeking to protect their reserves from potential seizure. This trend is most definitely set to continue, with more states diversifying away from dollar-denominated assets.
+  On the domestic front, the surprising victory of Zohran Mamdani, a Muslim socialist immigrant, in the New York mayoral election signals a potential realignment within the Democratic Party. As discussed by **Nima Alkhorchid** and **Richard Wolff**, Mamdani’s win despite significant financial opposition may embolden progressive movements and reshape donor politics in the U.S., with possible ripple effects for national policy debates.
   
-  In summary, the current period is marked by the erosion of traditional political and financial power structures in the West, the rise of alternative political movements domestically, and a steady shift in the global economic balance. The majority consensus among analysts is that these trends will intensify, with high confidence in further fragmentation of Western-led systems and the emergence of new political and economic alignments.
+  Looking ahead, the majority of analysts cited by Hudson foresee continued instability in resource-rich regions like Central Asia, with high confidence that external powers will intensify their competition for strategic minerals. Europe’s economic challenges are expected to persist, with a high chance of further disruptions in key industries due to ongoing geopolitical tensions. Domestically, the rise of progressive candidates in the U.S. is quite likely to influence the Democratic Party’s direction, though the long-term impact remains uncertain.
+  
+  In summary, the current geopolitical landscape is marked by heightened competition for resources, technological vulnerabilities in Europe, and emerging political shifts in the U.S.—trends that are most definitely set to shape global affairs in the coming months.
 articles:
+  - title: 'Rentier Rule of Law: Why Central Asia Was Set Up to Fail'
+    url: https://michael-hudson.com/2025/11/rentier-rule-of-law-why-central-asia-was-set-up-to-fail/
+    text: 'I wrote the introduction to Rentier Capitalism and its Discontents: Power,
+      Morality and Resistance in Central Asia by Balihar Sanghera and Elmira Satybaldieva
+      (Palgrave Macmillan, 2021). My analysis in the upcoming discussion with Nima draws
+      on their work and the text below. But first, here’s Satybaldieva on Trump’s rare
+      earths pivot: We are witnessing a neo-imperial competition for rare earth minerals.
+      The new  US ambassador to Kazakhstan, Julie Stufft, stated that Kazakhstan is
+      capable of meeting 50% of the US demand for rare earth resources.  She called
+      for rapid extraction of resources and suggested the export of extracted resources
+      via the Trans-Caspian route. The  US is particularly interested in tungsten mining.
+      The US based Cove Kaz Capital is planning developing large deposits of this strategically
+      important metal in Kazakhstan (Verkhne-Kairatinskoye and North Katpar.) The US
+      views tungsten as a key resource for the defense industry, used in the production
+      of shells, armor, and special equipment. The American side’s goal is to reduce
+      dependence on China for this metal. The negotiations are being led by US Secretary
+      of Commerce Howard Lutnick, who previously participated in a successful deal between
+      the American company Wabtec and Kazakhstan Railways. A joint venture is proposed
+      between Cove Kaz Capital and Kazakhstan’s Samruk-Kazyna Fund. The American company
+      plans to not only mine but also process tungsten in Kazakhstan and then supply
+      it to the US. Kazakhstan will receive a share of the profits, but control over
+      the project will likely remain with the American side. The United States is considering
+      financial support for the project through government agencies, but does not plan
+      to directly participate in the company’s capital. This project is part of a broader
+      U.S. strategy to reduce dependence on China for critical resource supplies. China
+      is also showing interest in developing Kazakhstan’s deposits, offering more favorable
+      terms. A week ago, Kazakhstan’s Minister of Economy Serik Zhumangarin met with
+      American businessmen in Washington, where he presented Kazakhstan’s investment
+      potential. It appears that the United States has now seized another strategic
+      mineral in Kazakhstan. My introduction to their book: Central Asia’s Neoliberal
+      Tragedy In the mid-1980s, Soviet officials saw a need to open up their economy
+      in hope of achieving Western-style innovation and productivity. That was the decade
+      in which Margaret Thatcher and Ronald Reagan were sponsoring the neoliberal pro-financial
+      policies that have polarised the U.S., British and other economies and loaded
+      them down with rentier overhead. The Soviet Union followed a privatization policy
+      far more extreme than anything the social-democratic West would have tolerated.
+      It agreed in December 1990 to adopt the neoliberal blueprint presented in Houston
+      by the International Monetary Fund (IMF), the World Bank, the Organisation for
+      Economic Cooperation and Development (OECD) and the European Bank for Reconstruction
+      and Development (EBRD) to transfer hitherto public property into private hands.
+      The promise was that the privatisers would find their interest to lie in producing
+      abundant new housing, consumer goods and prosperity. The Soviet leaders believed
+      that the neoliberal advice they received was about how to follow the path by which
+      the advanced industrialised nations had developed and made their prosperity seem
+      so attractive. But the advice actually turned out to be how to open up their economies
+      and enable U.S. and other foreign investors to make money off the former Soviet
+      republics, by creating client oligarchies of the sort that U.S. diplomacy had
+      installed in Latin American and other puppet states. The Cold War’s isolation
+      of the former Soviet Union gave way to turning its republics into prey for financial
+      and natural-resource exploitation by U.S. and other Western banks and corporations.
+      The result was kleptocracy, euphemised as a free market. Banking, real estate,
+      natural resources and public utilities were privatised in the hands of appropriators
+      who managed their acquisitions in their own self-interest, which they found to
+      dovetail with that of foreign investors and banks. As a Russian joke of the 1990s
+      expressed the ensuing crisis: ‘Everything they Party old us about communism was
+      false; but everything they told us about capitalism was true!’ Vladimir Putin
+      described the destruction of the former Soviet Union as the great tragedy of the
+      late 20 th century. What made it a classical Greek tragedy was how inevitable
+      yet also how unanticipated its destiny was when the Soviet republics accepted
+      shock therapy and abolished the government’s role as investor, credit creator
+      and regulator in 1991. Privatisation did not end dysfunctional planning. It merely
+      privatised social dysfunction, soon proving to be as economically and demographically
+      destructive as an outright military attack would have been. Every economy is managed
+      by some class or another. In the absence of public authority, planning passes
+      to whomever is in control of banks, land and related sources of wealth, and above
+      all the allocation of credit. Today, three decades after the post-Soviet carve-up
+      began, the concentration of banking has devastated, indebted and impoverished
+      the population, leading to shorter lifespans and rising emigration. This excellent
+      but heart-breaking book describes the tragedy wrought by post-Soviet neoliberal
+      remaking of Kazakhstan and Kyrgyzstan. Sanghera and Satybaldieva describe how
+      U.S., World Bank and IMF officials, posing as helpful advisors claiming to help
+      these republics adopt the model by which the Western economies had grown prosperous,
+      pressured these countries to act on behalf of foreign financial institutions and
+      corporations more than for their own populations. These ‘aid-giving’ (or more
+      accurately, debt-creating) institutions acted on behalf of Western banks and investors
+      to promote the carve up and financialisation of post-Soviet land, real estate,
+      oil and mineral wealth. Soviet planning had provided housing as a right, along
+      with access to education and basic health care. There was no market for housing
+      and no mortgage debt. Government financing of housing by its own credit creation
+      kept housing charges low. There was overcrowding, but at least families were not
+      driven into debt to obtain housing, education or medical treatment. That is a
+      major reason why so many Russians and other post-Soviet populations now feel a
+      certain nostalgia for Soviet times, bad as they seemed in 1991. The subsequent
+      malaise was unnecessary. The post-Soviet economies could easily have been made
+      vibrant and affluent. They could have given title for real estate to its existing
+      occupants and users. In the immediate aftermath of the Soviet Union, occupants
+      and users of real estate were given titles, obtaining property free of debt. But
+      if state controls on rent and speculation had remained in place and social housing
+      construction had been adequately financed, people would not have had to amass
+      huge debts to own homes, buildings and land. This would have minimised the economy’s
+      cost of living, helping the post-Soviet states develop a low-cost agriculture
+      and industry. The Soviet planners paid little attention to how the course of rent
+      and interest payments were polarising the Western economies. Not having levied
+      charges for land rent or interest led them to miss their economy’s great advantage
+      compared to Western finance capitalism: freedom from land rent, monopoly rent,
+      interest and usurious financial practices. It has been these rentier revenues
+      that have ended up polarising and impoverishing the Post-Soviet economies. The
+      post-Soviet republics could have used their own central banking systems to finance
+      restructuring, keeping credit creation as a public utility as it was in the Soviet
+      times. That would have freed these economies from reliance on foreign banks to
+      extend dollar credit to be spent locally. Without wages being paid or other income
+      received after their currency collapse wiped out domestic savings, there was an
+      immediate need for debt financing to survive. Public banking would have freed
+      economies from the need to borrow dollars or other foreign currency, especially
+      to obtain housing. National treasuries could have given value to this money by
+      taxing the economic rents created in real estate, agriculture and industry. That
+      was the ideal of classical economists, after all. Taxing the land’s rental value
+      would have prevented it from becoming an object of speculation. Instead, rental
+      income was paid to the commercial bankers who emerged, financed by Western banks
+      instead of a new national central bank. The post-Soviet tax systems burdened labour
+      and industry, while property owners were largely untaxed, steering their economies
+      along rentier lines. The ‘rule of law’ sponsored by Western backers enabled managers
+      and political insiders to register public land, oil and mineral resources, public
+      utilities and factories in their own names, and ‘cash out’ in hard currency by
+      selling many (and often most) shares in their new companies to Westerners. Most
+      of the proceeds were kept abroad, leaving local economies in need of foreign credit
+      to function. To make this asset grabbing irreversible, the neoliberal rule of
+      law and ‘security of contract’ were legal straitjackets giving creditors the right
+      to foreclose on the property of debtors – without rights for debtors and renters,
+      who were evicted if they could not meet their mortgage payments or pay higher
+      rents as housing was gentrified. As Sanghera and Satybaldieva summarize, ‘By instituting
+      neoliberal financial policies, the Central Asian states re-wrote the social contract
+      and created a new class dependency between financial elites and borrowers. Debtfare
+      states were established that facilitated, justified and normalised unequal class
+      relationships to ensure debt-led capital accumulation. They minimised the oversight
+      of the financial sector, and eliminated strong protections against predatory lending.
+      The political elites legitimised the neoliberal framing of debt as empowering.’
+      The effect was not to empower the population but to marginalise it while driving
+      smallholders into debt and depriving them of their homes. What was lost was the
+      concept of housing and other basic needs as a human right. ‘In the Soviet Union
+      there was a definite set of property rights that people could rely on, and the
+      state would respect and implement,’ the authors describe. ‘The bundle of rights
+      included rights to land and housing, and rights to occupancy and use for tenants
+      and their families. Rent, interest and speculative gains were ‘non-labour’ income,
+      and were not allowed.’ After 1991, however, housing throughout the former Soviet
+      republics had to be obtained by taking on debt. They thus traded away domestic
+      state-sponsored financial, fiscal and real estate self-reliance to follow a dream
+      of obtaining widespread U.S.-style prosperity, not realising how polarising the
+      policy of debt-financing would be. In the absence of domestic savings (which had
+      been wiped out by hyperinflation), commercial banks obtained loanable funds by
+      borrowing abroad. Domestic private-sector debt thus found its counterpart in rising
+      debts to foreign banks. Describing how ambitious individuals obtained title to
+      prime housing, shopping centres and marketplaces before entering political office,
+      the authors provide a list of local mayors who enriched themselves further by
+      selling off public land and municipal assets. Corporate housing became a vehicle
+      for appropriators to evict former employees and long-time tenants, gentrifying
+      real estate much as in the U.S. Rust Belt where factories were being closed down.
+      The new owners were free to maximise whatever they could squeeze out, with no
+      attempt made to provide the social protections taken for granted in the West for
+      debtors or renters. Obtaining housing after 1991, required going into debt. Unlike
+      the 5% range of mortgage rates in the West, much of the population borrowed money
+      at effective interest rates between 25 and 50%. It was like trying to buy a home
+      by resorting to American-style payday loans. There was little way to pay them
+      off. Moreover, women and the non-affluent rural influx into the cities had to
+      rely on microcredit, typically bearing 80% annual interest. Sanghera and Satybaldieva
+      single out the World Bank’s International Finance Corporation and the United States
+      Agency for International Development (USAID) for their efforts to legitimise such
+      usury while sanctimoniously claiming that it ‘empowered’ women as debtors. The
+      reality, they point out, was that, ‘the International Finance Corporation and
+      other international donors mandated these MFIs [microfinance institutions] to
+      become fully commercialised to achieve high returns on equity. The average interest
+      rate was 44%.’ The result, as Satybaldieva has pointed out elsewhere, has been
+      a disaster: Many women, who were previously employed as factory and agricultural
+      workers, and as teachers and healthcare specialists, were forced into petty trading
+      through Western sponsored microcredit schemes. . . . Second, many women borrowed
+      money to pay for services, such as health care and education, which were previously
+      available for free. Key social services saw significant cuts in state spending,
+      which not only reduced public sector pay but privatised and commodified basic
+      necessities, enabling affluent groups to access better quality services while
+      low-income groups were deprived of them. . . . A 2021 survey of online microcredit
+      borrowers in Kazakhstan showed that 29% of respondents took out loans to pay for
+      emergency expenses, 21% to make ends meet, and 16% to pay off debt on bank loans.
+      The rest used the loans to pay for medical treatment, utilities, educational fees.
+      Only a small minority of loans was linked to buying consumer goods. To enforce
+      collection, local microcredit lenders mobilised local district officials and elders
+      to shame women for missing their repayments, even descending on families at funerals
+      to insist that they bear collective responsibility for the debts of the deceased.
+      The amounts involved are enormous, the authors report. ‘ Between 1995-2012 microcredit
+      enabled a transfer of up to $125 billion from poor communities in the Global South
+      to financial centres in the Global North.’ Women became the most radical opponents
+      of Western-style neoliberal reforms. In Bishkek, Kyrgyzstan’s capital and largest
+      city: ‘ On 26 May 2016 about 700 people, mostly rural women, protested in front
+      of the US Embassy demanding debt amnesty from banks and MFIs that had been created
+      and supported by the United States Agency for International Development (USAID)
+      and the World Bank’s International Finance Corporation. Holding placards that
+      read “Occupy FINCA”, “Debt kills”, “Save our homes from banks” and “Humans above
+      profit”, the protesters did something very significant that day.’ They attributed
+      responsibility and blame for their situation to Western financial institutions
+      rather than on their personal failings. Similar anti-debt protests and attributions
+      occurred in neighbouring Kazakhstan. What made the debt burden a national problem
+      was that homebuyers and businesses typically agreed to denominate their debts
+      in dollars in order to lower the exorbitant interest rates charged for loans in
+      local currency. As economies were dollarised, their local exchange rates depreciated
+      as a result of the balance-of-payments deficits resulting from trade dependency
+      and general economic imbalance. The cost of servicing foreign-currency debts rose
+      in proportion to the depreciating exchange rate. Poverty drove labour to emigrate.
+      Ironically, this helped stabilise the balance of payments for many Central Asian
+      countries. Remittances from Kyrgyzstan’s exodus of migrant workers account for
+      about 30% of its GDP, and Kyrgyzstan had a similar ratio of 33%. That was typical
+      of Central Asia. Similarly, Tajikistan’s migrant workers in Russia sent their
+      families back home income amounting to over 30% of its GDP. Post-Soviet Central
+      Asia lacks the basic reforms almost universal for thousands of years. Already
+      around 2350 BC, the Sumerian ruler Urukagina proclaimed a reform that stopped
+      creditors from entering the homes of debtors and simply grabbing their possessions
+      and animals. From Mesopotamia and Egypt down to Roman times the rights of debtors
+      were protected by requiring written records to document all creditor claims and
+      limiting interest rates. But Western advisors made no attempt to create such rule
+      of law in Central Asia. What their legal system achieved is closer to barbarism,
+      as Sanghera and Satybaldieva conclude: In seeking to liberate the population from
+      the Soviet form of welfare dependency, the neoliberal architects produced new
+      parasitic and exploitative forms of market dependency, in which the powerful propertied
+      class appropriated and exploited surplus value that others generated. The asset-rich
+      and transnational capital became richer by taking from the asset-poor through
+      interest, rent, capital gains and low wages. The massive transfer of wealth left
+      much of the population in a state of indebtedness, poverty, misery and distress.
+      On the international level, the neoliberal rule of law is what corporate lawyers
+      have written to enable Investor-State Dispute Settlement (ISDS) courts to block
+      government attempts to fine or charge foreign investors for the ecological and
+      social damages they cause. Global oil and mining monopolies confront governments
+      in a united front, having mobilised the World Bank, IMF and World Trade Organisation
+      to pressure host countries to abide by pro-corporate rules that limit the rights
+      of their governments and blocking democratic electoral oversight or pressure.
+      In the face of these courts and the often naïve (or corrupt) contracts signed
+      with government, no countervailing attempt was made to create state regulatory
+      agencies, courts or international law to give post-Soviet economies the protections
+      common in the United States and Europe. What Western investors wanted most from
+      Central Asia was its natural-resource wealth. The authors describe how U.S., World
+      Bank and NGO advisors imposed contracts favouring the interests of Western oil
+      and mining companies. Chevron set its eyes on the vast oil reserves in Kazakhstan’s
+      Tengiz oil field. What Kazakhstan wanted was Western expertise as contractor and
+      minority investor. But Chevron wanted control – and to leave the host-country
+      government with as little revenue as possible from the sale of its oil. The result
+      was one of the world’s most predatory oil contracts – nothing like what Kazakhstan
+      thought it was to get, but a bonanza for Chevron. The contract promised that the
+      government would receive 80% of production, reflecting the normal 80%/20% production-sharing
+      agreements for European and Middle Eastern countries. However, the authors describe,
+      Kazakhstan ended up with only 2% of the project’s revenue. Corporate lawyers drew
+      up a contract obliging Kazakhstan’s government not to receive any profits at all
+      until it had borne the immense costs of developing the oil field itself (borrowing
+      from the IMF) and met a long-term production target – by which time nearly a quarter
+      of the Tengiz oil reserves would be emptied out and sold. Chevron’s operation
+      proved to be as disastrous an ecological horror story as it had caused in Ecuador.
+      It was fined $303 million for violating environmental protection laws, but pressured
+      President Nazarbayev to repeal the fine to show the world how ‘investor-friendly’
+      Kazakhstan was! When popular opposition arose to demand a fair contract, international
+      investors, the response by international investors and Western government officials
+      and their front men at the IMF, World Bank and USAID was to claim that renegotiation
+      would violate the rule of law and sanctity of contracts. Kyrgyzstan suffered in
+      a similar way from foreign gold-mining polluters. These ‘externalities’ were borne
+      by the host countries, with no cost to the foreign investors for their illegal,
+      irresponsible and predatory behaviour. If the West truly had sought to help the
+      post-Soviet states become prosperous, its diplomats would have helped negotiate
+      fair natural-resource investment agreements, environmental protection, worker
+      safety and other public regulation. Instead, Sanghera and Satybaldieva conclude:
+      ‘The neoliberal investment rules regime binds governments to agreements signed
+      with transnational corporations . . . If agreements are violated, investors feel
+      justified to take host states to international arbitration for damages. . . .
+      The rule of law . . . claimed that . . . the state cannot infringe individual
+      rights and freedoms, and the domain of private property must be protected from
+      majoritarian politics.’ Neoliberalism thus did not get rid of state planning.
+      It established corporate dominance over the state, forcing host-country governments
+      to give ‘the interests of transnational capital [priority] over those of their
+      own population, and cooperate with foreign corporations to limit democratic voices
+      and weaken resistance.’ Some conquered countries recover, as Germany and Japan
+      after 1945. But conquest of the former Soviet states took the form of corrupting
+      their economic structure by installing a kleptocracy. The destiny of Central Asia
+      and other post-Soviet states remains shaped by the way in which their land, mineral
+      resources and public enterprises have been privatised at the hands of a client
+      kleptocracy in alliance with foreign capital. Like the land grants created by
+      the Norman Conquest and those of Spain in the New World, the post-Soviet asset
+      grab has created a new oligarchy empowered to collect land and natural-resource
+      rents for themselves, and for U.S. and other foreign shareholders and creditors.
+      The widening maldistribution of property and debt dependency is likely to block
+      their development for many decades. The accusation that Tacitus put into the mouth
+      of Rome’s adversary, the Celtic leader Calgacus two thousand years ago – ‘They
+      made a desert and called it peace’ – might be levied against the Western neoliberals
+      who impose financialised austerity, dependency and debt peonage, and call the
+      takeover of government by rentiers a natural and inherent rule of law. The challenge
+      for Central Asia is how to reform in the face of the vested interests that have
+      been put in place over the past thirty years. Reform is resisted not only by the
+      new rentier interests and their foreign sponsors, but also by the narrow ‘middle-class’,
+      which does not find its interest to lie in joining with the majority to revive
+      public spending and tax land rent and other economic rents. Resilience cannot
+      be restored without public spending, but the rentier business plan is to minimize
+      taxes by shrinking the government, especially by privatizing its public utilities
+      and other functions to create opportunities for charging monopoly rents, and to
+      oppose taxation of economic rent. Today’s mainstream economic philosophy and academic
+      curriculum throughout the West backs this neoliberal program by denying that there
+      is any such thing as unearned rentier income or wealth. Yet only a rent tax can
+      recapture what insiders have appropriated. At issue above all is whether credit,
+      the banking and tax system will be managed as a public utility or for private
+      gain. A national treasury or central bank must be empowered to create money so
+      as not to rely on foreign banks. The guideline must be that no economy should
+      borrow in a foreign currency that it does not earn, e.g., by exporting to earn
+      the foreign currency needed to pay debts. There is no need to rely on foreign
+      banks to lend dollars to be converted into domestic currency. In such cases the
+      central bank has to create the domestic currency anyway. Foreign credit is needed
+      only to pay for trade and payments deficits, not for domestic investment or consumption.
+      These tax and financial reforms failed as classical economics was rejected after
+      World War I. The world today needs to recover its basic approach in order to free
+      itself from the pro- rentier detour that it has taken, not only in the post-Soviet
+      republics most conspicuously but now also plaguing Europe and the U.S. post-industrial
+      economy itself. To avoid the foreign dependency inherent in the neoliberalism
+      sponsored by U.S. diplomacy, the World Bank and IMF requires an alternative body
+      of economic theory, above all the distinction between earned and unearned income
+      and the concept of economic rent as the excess of market pricing over intrinsic
+      cost value. That was the thrust of classical political economy in the 19 th century
+      – to free markets from the rentier class. Value and price theory were the analytic
+      tools to isolate economic rent as unearned income. These concepts provide the
+      basis for managing a mixed public/private economy, public investment and credit
+      creation, and for protecting domestic labour, industry and agriculture. In elaborating
+      a theory to guide policy, the disastrous neoliberal promotion of rentier interests
+      throughout the post-Soviet states provides an object lesson for what to avoid.
+      Michael Hudson New York, June 2021 Image by Chickenonline from Pixabay The post
+      Rentier Rule of Law: Why Central Asia Was Set Up to Fail first appeared on Michael
+      Hudson .'
+    one_sentence_summary: The article discusses the strategic importance of Kazakhstan's
+      rare earth minerals, particularly tungsten, in the context of U.S. interests and
+      neo-imperial competition, highlighting the new U.S. ambassador's call for rapid
+      resource extraction and export.
+    paragraph_summary: The article discusses the geopolitical competition for rare earth
+      minerals, particularly focusing on the U.S. pivot towards Kazakhstan's resources
+      under the new ambassador, Julie Stufft. She highlighted Kazakhstan's potential
+      to fulfill 50% of U.S. demand for rare earths, especially tungsten, which is crucial
+      for the defense industry. The U.S.-based company Cove Kaz Capital plans to develop
+      significant tungsten deposits in Kazakhstan through a joint venture with the state-owned
+      Samruk-Kazyna Fund, aiming to mine and process the metal for export to the U.S.
+      This initiative is part of a broader strategy to reduce American reliance on China
+      for critical resources, amid China's competing interests in Kazakhstan's mineral
+      wealth. While Kazakhstan stands to gain profit shares, control of the project
+      is expected to remain largely with the U.S. side, with potential financial backing
+      from American government agencies.
+    published: '2025-11-13T20:33:14+00:00'
+  - title: 'Rentier Rule of Law: Why Central Asia Was Set Up to Fail'
+    url: https://michael-hudson.com/2025/11/rentier-rule-of-law-why-central-asia-was-set-up-to-fail/
+    text: 'I wrote the introduction to Rentier Capitalism and its Discontents: Power,
+      Morality and Resistance in Central Asia by Balihar Sanghera and Elmira Satybaldieva
+      (Palgrave Macmillan, 2021). My analysis in the upcoming discussion with Nima draws
+      on their work and the text below. But first, here’s Satybaldieva on Trump’s rare
+      earths pivot: We are witnessing a neo-imperial competition for rare earth minerals.
+      The new  US ambassador to Kazakhstan, Julie Stufft, stated that Kazakhstan is
+      capable of meeting 50% of the US demand for rare earth resources.  She called
+      for rapid extraction of resources and suggested the export of extracted resources
+      via the Trans-Caspian route. The  US is particularly interested in tungsten mining.
+      The US based Cove Kaz Capital is planning developing large deposits of this strategically
+      important metal in Kazakhstan (Verkhne-Kairatinskoye and North Katpar.) The US
+      views tungsten as a key resource for the defense industry, used in the production
+      of shells, armor, and special equipment. The American side’s goal is to reduce
+      dependence on China for this metal. The negotiations are being led by US Secretary
+      of Commerce Howard Lutnick, who previously participated in a successful deal between
+      the American company Wabtec and Kazakhstan Railways. A joint venture is proposed
+      between Cove Kaz Capital and Kazakhstan’s Samruk-Kazyna Fund. The American company
+      plans to not only mine but also process tungsten in Kazakhstan and then supply
+      it to the US. Kazakhstan will receive a share of the profits, but control over
+      the project will likely remain with the American side. The United States is considering
+      financial support for the project through government agencies, but does not plan
+      to directly participate in the company’s capital. This project is part of a broader
+      U.S. strategy to reduce dependence on China for critical resource supplies. China
+      is also showing interest in developing Kazakhstan’s deposits, offering more favorable
+      terms. A week ago, Kazakhstan’s Minister of Economy Serik Zhumangarin met with
+      American businessmen in Washington, where he presented Kazakhstan’s investment
+      potential. It appears that the United States has now seized another strategic
+      mineral in Kazakhstan. My introduction to their book: Central Asia’s Neoliberal
+      Tragedy In the mid-1980s, Soviet officials saw a need to open up their economy
+      in hope of achieving Western-style innovation and productivity. That was the decade
+      in which Margaret Thatcher and Ronald Reagan were sponsoring the neoliberal pro-financial
+      policies that have polarised the U.S., British and other economies and loaded
+      them down with rentier overhead. The Soviet Union followed a privatization policy
+      far more extreme than anything the social-democratic West would have tolerated.
+      It agreed in December 1990 to adopt the neoliberal blueprint presented in Houston
+      by the International Monetary Fund (IMF), the World Bank, the Organisation for
+      Economic Cooperation and Development (OECD) and the European Bank for Reconstruction
+      and Development (EBRD) to transfer hitherto public property into private hands.
+      The promise was that the privatisers would find their interest to lie in producing
+      abundant new housing, consumer goods and prosperity. The Soviet leaders believed
+      that the neoliberal advice they received was about how to follow the path by which
+      the advanced industrialised nations had developed and made their prosperity seem
+      so attractive. But the advice actually turned out to be how to open up their economies
+      and enable U.S. and other foreign investors to make money off the former Soviet
+      republics, by creating client oligarchies of the sort that U.S. diplomacy had
+      installed in Latin American and other puppet states. The Cold War’s isolation
+      of the former Soviet Union gave way to turning its republics into prey for financial
+      and natural-resource exploitation by U.S. and other Western banks and corporations.
+      The result was kleptocracy, euphemised as a free market. Banking, real estate,
+      natural resources and public utilities were privatised in the hands of appropriators
+      who managed their acquisitions in their own self-interest, which they found to
+      dovetail with that of foreign investors and banks. As a Russian joke of the 1990s
+      expressed the ensuing crisis: ‘Everything they Party old us about communism was
+      false; but everything they told us about capitalism was true!’ Vladimir Putin
+      described the destruction of the former Soviet Union as the great tragedy of the
+      late 20 th century. What made it a classical Greek tragedy was how inevitable
+      yet also how unanticipated its destiny was when the Soviet republics accepted
+      shock therapy and abolished the government’s role as investor, credit creator
+      and regulator in 1991. Privatisation did not end dysfunctional planning. It merely
+      privatised social dysfunction, soon proving to be as economically and demographically
+      destructive as an outright military attack would have been. Every economy is managed
+      by some class or another. In the absence of public authority, planning passes
+      to whomever is in control of banks, land and related sources of wealth, and above
+      all the allocation of credit. Today, three decades after the post-Soviet carve-up
+      began, the concentration of banking has devastated, indebted and impoverished
+      the population, leading to shorter lifespans and rising emigration. This excellent
+      but heart-breaking book describes the tragedy wrought by post-Soviet neoliberal
+      remaking of Kazakhstan and Kyrgyzstan. Sanghera and Satybaldieva describe how
+      U.S., World Bank and IMF officials, posing as helpful advisors claiming to help
+      these republics adopt the model by which the Western economies had grown prosperous,
+      pressured these countries to act on behalf of foreign financial institutions and
+      corporations more than for their own populations. These ‘aid-giving’ (or more
+      accurately, debt-creating) institutions acted on behalf of Western banks and investors
+      to promote the carve up and financialisation of post-Soviet land, real estate,
+      oil and mineral wealth. Soviet planning had provided housing as a right, along
+      with access to education and basic health care. There was no market for housing
+      and no mortgage debt. Government financing of housing by its own credit creation
+      kept housing charges low. There was overcrowding, but at least families were not
+      driven into debt to obtain housing, education or medical treatment. That is a
+      major reason why so many Russians and other post-Soviet populations now feel a
+      certain nostalgia for Soviet times, bad as they seemed in 1991. The subsequent
+      malaise was unnecessary. The post-Soviet economies could easily have been made
+      vibrant and affluent. They could have given title for real estate to its existing
+      occupants and users. In the immediate aftermath of the Soviet Union, occupants
+      and users of real estate were given titles, obtaining property free of debt. But
+      if state controls on rent and speculation had remained in place and social housing
+      construction had been adequately financed, people would not have had to amass
+      huge debts to own homes, buildings and land. This would have minimised the economy’s
+      cost of living, helping the post-Soviet states develop a low-cost agriculture
+      and industry. The Soviet planners paid little attention to how the course of rent
+      and interest payments were polarising the Western economies. Not having levied
+      charges for land rent or interest led them to miss their economy’s great advantage
+      compared to Western finance capitalism: freedom from land rent, monopoly rent,
+      interest and usurious financial practices. It has been these rentier revenues
+      that have ended up polarising and impoverishing the Post-Soviet economies. The
+      post-Soviet republics could have used their own central banking systems to finance
+      restructuring, keeping credit creation as a public utility as it was in the Soviet
+      times. That would have freed these economies from reliance on foreign banks to
+      extend dollar credit to be spent locally. Without wages being paid or other income
+      received after their currency collapse wiped out domestic savings, there was an
+      immediate need for debt financing to survive. Public banking would have freed
+      economies from the need to borrow dollars or other foreign currency, especially
+      to obtain housing. National treasuries could have given value to this money by
+      taxing the economic rents created in real estate, agriculture and industry. That
+      was the ideal of classical economists, after all. Taxing the land’s rental value
+      would have prevented it from becoming an object of speculation. Instead, rental
+      income was paid to the commercial bankers who emerged, financed by Western banks
+      instead of a new national central bank. The post-Soviet tax systems burdened labour
+      and industry, while property owners were largely untaxed, steering their economies
+      along rentier lines. The ‘rule of law’ sponsored by Western backers enabled managers
+      and political insiders to register public land, oil and mineral resources, public
+      utilities and factories in their own names, and ‘cash out’ in hard currency by
+      selling many (and often most) shares in their new companies to Westerners. Most
+      of the proceeds were kept abroad, leaving local economies in need of foreign credit
+      to function. To make this asset grabbing irreversible, the neoliberal rule of
+      law and ‘security of contract’ were legal straitjackets giving creditors the right
+      to foreclose on the property of debtors – without rights for debtors and renters,
+      who were evicted if they could not meet their mortgage payments or pay higher
+      rents as housing was gentrified. As Sanghera and Satybaldieva summarize, ‘By instituting
+      neoliberal financial policies, the Central Asian states re-wrote the social contract
+      and created a new class dependency between financial elites and borrowers. Debtfare
+      states were established that facilitated, justified and normalised unequal class
+      relationships to ensure debt-led capital accumulation. They minimised the oversight
+      of the financial sector, and eliminated strong protections against predatory lending.
+      The political elites legitimised the neoliberal framing of debt as empowering.’
+      The effect was not to empower the population but to marginalise it while driving
+      smallholders into debt and depriving them of their homes. What was lost was the
+      concept of housing and other basic needs as a human right. ‘In the Soviet Union
+      there was a definite set of property rights that people could rely on, and the
+      state would respect and implement,’ the authors describe. ‘The bundle of rights
+      included rights to land and housing, and rights to occupancy and use for tenants
+      and their families. Rent, interest and speculative gains were ‘non-labour’ income,
+      and were not allowed.’ After 1991, however, housing throughout the former Soviet
+      republics had to be obtained by taking on debt. They thus traded away domestic
+      state-sponsored financial, fiscal and real estate self-reliance to follow a dream
+      of obtaining widespread U.S.-style prosperity, not realising how polarising the
+      policy of debt-financing would be. In the absence of domestic savings (which had
+      been wiped out by hyperinflation), commercial banks obtained loanable funds by
+      borrowing abroad. Domestic private-sector debt thus found its counterpart in rising
+      debts to foreign banks. Describing how ambitious individuals obtained title to
+      prime housing, shopping centres and marketplaces before entering political office,
+      the authors provide a list of local mayors who enriched themselves further by
+      selling off public land and municipal assets. Corporate housing became a vehicle
+      for appropriators to evict former employees and long-time tenants, gentrifying
+      real estate much as in the U.S. Rust Belt where factories were being closed down.
+      The new owners were free to maximise whatever they could squeeze out, with no
+      attempt made to provide the social protections taken for granted in the West for
+      debtors or renters. Obtaining housing after 1991, required going into debt. Unlike
+      the 5% range of mortgage rates in the West, much of the population borrowed money
+      at effective interest rates between 25 and 50%. It was like trying to buy a home
+      by resorting to American-style payday loans. There was little way to pay them
+      off. Moreover, women and the non-affluent rural influx into the cities had to
+      rely on microcredit, typically bearing 80% annual interest. Sanghera and Satybaldieva
+      single out the World Bank’s International Finance Corporation and the United States
+      Agency for International Development (USAID) for their efforts to legitimise such
+      usury while sanctimoniously claiming that it ‘empowered’ women as debtors. The
+      reality, they point out, was that, ‘the International Finance Corporation and
+      other international donors mandated these MFIs [microfinance institutions] to
+      become fully commercialised to achieve high returns on equity. The average interest
+      rate was 44%.’ The result, as Satybaldieva has pointed out elsewhere, has been
+      a disaster: Many women, who were previously employed as factory and agricultural
+      workers, and as teachers and healthcare specialists, were forced into petty trading
+      through Western sponsored microcredit schemes. . . . Second, many women borrowed
+      money to pay for services, such as health care and education, which were previously
+      available for free. Key social services saw significant cuts in state spending,
+      which not only reduced public sector pay but privatised and commodified basic
+      necessities, enabling affluent groups to access better quality services while
+      low-income groups were deprived of them. . . . A 2021 survey of online microcredit
+      borrowers in Kazakhstan showed that 29% of respondents took out loans to pay for
+      emergency expenses, 21% to make ends meet, and 16% to pay off debt on bank loans.
+      The rest used the loans to pay for medical treatment, utilities, educational fees.
+      Only a small minority of loans was linked to buying consumer goods. To enforce
+      collection, local microcredit lenders mobilised local district officials and elders
+      to shame women for missing their repayments, even descending on families at funerals
+      to insist that they bear collective responsibility for the debts of the deceased.
+      The amounts involved are enormous, the authors report. ‘ Between 1995-2012 microcredit
+      enabled a transfer of up to $125 billion from poor communities in the Global South
+      to financial centres in the Global North.’ Women became the most radical opponents
+      of Western-style neoliberal reforms. In Bishkek, Kyrgyzstan’s capital and largest
+      city: ‘ On 26 May 2016 about 700 people, mostly rural women, protested in front
+      of the US Embassy demanding debt amnesty from banks and MFIs that had been created
+      and supported by the United States Agency for International Development (USAID)
+      and the World Bank’s International Finance Corporation. Holding placards that
+      read “Occupy FINCA”, “Debt kills”, “Save our homes from banks” and “Humans above
+      profit”, the protesters did something very significant that day.’ They attributed
+      responsibility and blame for their situation to Western financial institutions
+      rather than on their personal failings. Similar anti-debt protests and attributions
+      occurred in neighbouring Kazakhstan. What made the debt burden a national problem
+      was that homebuyers and businesses typically agreed to denominate their debts
+      in dollars in order to lower the exorbitant interest rates charged for loans in
+      local currency. As economies were dollarised, their local exchange rates depreciated
+      as a result of the balance-of-payments deficits resulting from trade dependency
+      and general economic imbalance. The cost of servicing foreign-currency debts rose
+      in proportion to the depreciating exchange rate. Poverty drove labour to emigrate.
+      Ironically, this helped stabilise the balance of payments for many Central Asian
+      countries. Remittances from Kyrgyzstan’s exodus of migrant workers account for
+      about 30% of its GDP, and Kyrgyzstan had a similar ratio of 33%. That was typical
+      of Central Asia. Similarly, Tajikistan’s migrant workers in Russia sent their
+      families back home income amounting to over 30% of its GDP. Post-Soviet Central
+      Asia lacks the basic reforms almost universal for thousands of years. Already
+      around 2350 BC, the Sumerian ruler Urukagina proclaimed a reform that stopped
+      creditors from entering the homes of debtors and simply grabbing their possessions
+      and animals. From Mesopotamia and Egypt down to Roman times the rights of debtors
+      were protected by requiring written records to document all creditor claims and
+      limiting interest rates. But Western advisors made no attempt to create such rule
+      of law in Central Asia. What their legal system achieved is closer to barbarism,
+      as Sanghera and Satybaldieva conclude: In seeking to liberate the population from
+      the Soviet form of welfare dependency, the neoliberal architects produced new
+      parasitic and exploitative forms of market dependency, in which the powerful propertied
+      class appropriated and exploited surplus value that others generated. The asset-rich
+      and transnational capital became richer by taking from the asset-poor through
+      interest, rent, capital gains and low wages. The massive transfer of wealth left
+      much of the population in a state of indebtedness, poverty, misery and distress.
+      On the international level, the neoliberal rule of law is what corporate lawyers
+      have written to enable Investor-State Dispute Settlement (ISDS) courts to block
+      government attempts to fine or charge foreign investors for the ecological and
+      social damages they cause. Global oil and mining monopolies confront governments
+      in a united front, having mobilised the World Bank, IMF and World Trade Organisation
+      to pressure host countries to abide by pro-corporate rules that limit the rights
+      of their governments and blocking democratic electoral oversight or pressure.
+      In the face of these courts and the often naïve (or corrupt) contracts signed
+      with government, no countervailing attempt was made to create state regulatory
+      agencies, courts or international law to give post-Soviet economies the protections
+      common in the United States and Europe. What Western investors wanted most from
+      Central Asia was its natural-resource wealth. The authors describe how U.S., World
+      Bank and NGO advisors imposed contracts favouring the interests of Western oil
+      and mining companies. Chevron set its eyes on the vast oil reserves in Kazakhstan’s
+      Tengiz oil field. What Kazakhstan wanted was Western expertise as contractor and
+      minority investor. But Chevron wanted control – and to leave the host-country
+      government with as little revenue as possible from the sale of its oil. The result
+      was one of the world’s most predatory oil contracts – nothing like what Kazakhstan
+      thought it was to get, but a bonanza for Chevron. The contract promised that the
+      government would receive 80% of production, reflecting the normal 80%/20% production-sharing
+      agreements for European and Middle Eastern countries. However, the authors describe,
+      Kazakhstan ended up with only 2% of the project’s revenue. Corporate lawyers drew
+      up a contract obliging Kazakhstan’s government not to receive any profits at all
+      until it had borne the immense costs of developing the oil field itself (borrowing
+      from the IMF) and met a long-term production target – by which time nearly a quarter
+      of the Tengiz oil reserves would be emptied out and sold. Chevron’s operation
+      proved to be as disastrous an ecological horror story as it had caused in Ecuador.
+      It was fined $303 million for violating environmental protection laws, but pressured
+      President Nazarbayev to repeal the fine to show the world how ‘investor-friendly’
+      Kazakhstan was! When popular opposition arose to demand a fair contract, international
+      investors, the response by international investors and Western government officials
+      and their front men at the IMF, World Bank and USAID was to claim that renegotiation
+      would violate the rule of law and sanctity of contracts. Kyrgyzstan suffered in
+      a similar way from foreign gold-mining polluters. These ‘externalities’ were borne
+      by the host countries, with no cost to the foreign investors for their illegal,
+      irresponsible and predatory behaviour. If the West truly had sought to help the
+      post-Soviet states become prosperous, its diplomats would have helped negotiate
+      fair natural-resource investment agreements, environmental protection, worker
+      safety and other public regulation. Instead, Sanghera and Satybaldieva conclude:
+      ‘The neoliberal investment rules regime binds governments to agreements signed
+      with transnational corporations . . . If agreements are violated, investors feel
+      justified to take host states to international arbitration for damages. . . .
+      The rule of law . . . claimed that . . . the state cannot infringe individual
+      rights and freedoms, and the domain of private property must be protected from
+      majoritarian politics.’ Neoliberalism thus did not get rid of state planning.
+      It established corporate dominance over the state, forcing host-country governments
+      to give ‘the interests of transnational capital [priority] over those of their
+      own population, and cooperate with foreign corporations to limit democratic voices
+      and weaken resistance.’ Some conquered countries recover, as Germany and Japan
+      after 1945. But conquest of the former Soviet states took the form of corrupting
+      their economic structure by installing a kleptocracy. The destiny of Central Asia
+      and other post-Soviet states remains shaped by the way in which their land, mineral
+      resources and public enterprises have been privatised at the hands of a client
+      kleptocracy in alliance with foreign capital. Like the land grants created by
+      the Norman Conquest and those of Spain in the New World, the post-Soviet asset
+      grab has created a new oligarchy empowered to collect land and natural-resource
+      rents for themselves, and for U.S. and other foreign shareholders and creditors.
+      The widening maldistribution of property and debt dependency is likely to block
+      their development for many decades. The accusation that Tacitus put into the mouth
+      of Rome’s adversary, the Celtic leader Calgacus two thousand years ago – ‘They
+      made a desert and called it peace’ – might be levied against the Western neoliberals
+      who impose financialised austerity, dependency and debt peonage, and call the
+      takeover of government by rentiers a natural and inherent rule of law. The challenge
+      for Central Asia is how to reform in the face of the vested interests that have
+      been put in place over the past thirty years. Reform is resisted not only by the
+      new rentier interests and their foreign sponsors, but also by the narrow ‘middle-class’,
+      which does not find its interest to lie in joining with the majority to revive
+      public spending and tax land rent and other economic rents. Resilience cannot
+      be restored without public spending, but the rentier business plan is to minimize
+      taxes by shrinking the government, especially by privatizing its public utilities
+      and other functions to create opportunities for charging monopoly rents, and to
+      oppose taxation of economic rent. Today’s mainstream economic philosophy and academic
+      curriculum throughout the West backs this neoliberal program by denying that there
+      is any such thing as unearned rentier income or wealth. Yet only a rent tax can
+      recapture what insiders have appropriated. At issue above all is whether credit,
+      the banking and tax system will be managed as a public utility or for private
+      gain. A national treasury or central bank must be empowered to create money so
+      as not to rely on foreign banks. The guideline must be that no economy should
+      borrow in a foreign currency that it does not earn, e.g., by exporting to earn
+      the foreign currency needed to pay debts. There is no need to rely on foreign
+      banks to lend dollars to be converted into domestic currency. In such cases the
+      central bank has to create the domestic currency anyway. Foreign credit is needed
+      only to pay for trade and payments deficits, not for domestic investment or consumption.
+      These tax and financial reforms failed as classical economics was rejected after
+      World War I. The world today needs to recover its basic approach in order to free
+      itself from the pro- rentier detour that it has taken, not only in the post-Soviet
+      republics most conspicuously but now also plaguing Europe and the U.S. post-industrial
+      economy itself. To avoid the foreign dependency inherent in the neoliberalism
+      sponsored by U.S. diplomacy, the World Bank and IMF requires an alternative body
+      of economic theory, above all the distinction between earned and unearned income
+      and the concept of economic rent as the excess of market pricing over intrinsic
+      cost value. That was the thrust of classical political economy in the 19 th century
+      – to free markets from the rentier class. Value and price theory were the analytic
+      tools to isolate economic rent as unearned income. These concepts provide the
+      basis for managing a mixed public/private economy, public investment and credit
+      creation, and for protecting domestic labour, industry and agriculture. In elaborating
+      a theory to guide policy, the disastrous neoliberal promotion of rentier interests
+      throughout the post-Soviet states provides an object lesson for what to avoid.
+      Michael Hudson New York, June 2021 Image by Chickenonline from Pixabay The post
+      Rentier Rule of Law: Why Central Asia Was Set Up to Fail first appeared on Michael
+      Hudson .'
+    one_sentence_summary: The article discusses the strategic importance of Kazakhstan's
+      rare earth minerals, particularly tungsten, in the context of U.S. interests and
+      neo-imperial competition, highlighting the new U.S. ambassador's call for rapid
+      resource extraction and export.
+    paragraph_summary: The article discusses the geopolitical competition for rare earth
+      minerals, particularly focusing on the U.S. pivot towards Kazakhstan's resources
+      under the new ambassador, Julie Stufft. She highlighted Kazakhstan's potential
+      to fulfill 50% of U.S. demand for rare earths, especially tungsten, which is crucial
+      for the defense industry. The U.S.-based company Cove Kaz Capital plans to develop
+      significant tungsten deposits in Kazakhstan through a joint venture with the state-owned
+      Samruk-Kazyna Fund, aiming to mine and process the metal for export to the U.S.
+      This initiative is part of a broader strategy to reduce American reliance on China
+      for critical resources, amid China's competing interests in Kazakhstan's mineral
+      wealth. While Kazakhstan stands to gain profit shares, control of the project
+      is expected to remain largely with the U.S. side, with potential financial backing
+      from American government agencies.
+    published: '2025-11-13T20:33:14+00:00'
   - title: Municipal Socialism Meets Donor Politics
     url: https://michael-hudson.com/2025/11/municipal-socialism-meets-donor-politics/
     text: '⁣NIMA ALKHORSHID: Hi, everybody. Today is Thursday, November 6, 2025, and
@@ -1034,6 +1702,904 @@ articles:
       shift in the political landscape that could impact the future of the Democratic
       Party and the upcoming midterm elections.
     published: '2025-11-10T16:55:56+00:00'
+  - title: The Strange Case of Europe’s Decline
+    url: https://michael-hudson.com/2025/11/the-strange-case-of-europes-decline/
+    text: '⁣ [In this interview I had abbreviated the Nexperia seizure as being about
+      batteries. It was actually about the wafers and chips that go into the control
+      systems of batteries and other automotive systems. Without seemingly marginal
+      processes such as controlling windows and doors, the supply lines of auto manufacturers
+      and other industries will be interrupted. MH ] ⁣GLENN DIESEN: Welcome back to
+      the program. We are joined today by Professor Michael Hudson to discuss the very
+      strange case of Europe’s economic decline, as well as some of its latest self-harm
+      and questionable decisions. So thank you very much for coming back on. ⁣MICHAEL
+      HUDSON: I’m glad you invited me, Glenn. ⁣GLENN DIESEN: So, I wanted to get into
+      the Europeans joining in on America’s tech war, or economic war, against China.
+      But, first, I wanted to ask a bit about this seizure the Europeans are engaging
+      in; because, as we know,  they have frozen Russian assets — that is, sovereign
+      funds — and there is now growing pressure to seize these funds. That is, as various
+      newspapers write, they’re looking for something to make it seem legal to, essentially,
+      steal the Russian assets — sovereign funds — something that’s never been done
+      before. And what makes this unique is the Americans do not want to participate
+      in this because, of course, they would become financial pariahs. Japan doesn’t
+      want to. But for some reasons, the Europeans seem quite determined that this is
+      something they should do. What do you make of this decision? Because it is quite
+      complex: they want to take the Russian assets [to] use as collateral for a loan,
+      which can’t be repaid. So, you know, either way, the Russians are not going to
+      get their money back, more or less. ⁣MICHAEL HUDSON: Well, the question is: Who
+      are the Europeans that we’re talking about? I’m not sure it’s the European population
+      that seems to be against the war with Russia and Ukraine, and seems to want to
+      simply have an industrial recovery. The Europeans are led by the EU Commission,
+      Ursula von der Leyen, and the Estonian, her Estonian helper [Kaja Kallas], and
+      by Friedrich Merz of Germany. And the neocons and the NATO groups, Mark Rutte,
+      have all decided that they want to extend the war between Ukraine to Russia into
+      a war between Europe and Russia, or at least to frighten Europe, and make Europe
+      think that there’s going to be an imminent war, in order to, basically, create
+      a kind of military Keynesianism. So, let me begin, I think, where we’ve left off,
+      or we’ve discussed earlier — about this $300 billion Russian deposit with Euroclear,
+      which was the clearing organization centered in Brussels for dealings with Russia’s
+      foreign exchange in Euros and dollars. Nobody knows where Euroclear has actually
+      put this $300 billion (or Euros), in assets. It seems to have spread them over
+      many countries, in many investments. There have been many attempts, by journalists
+      and by politicians, to try to find out where [it is]. Nobody knows where it is.
+      And the Belgian prime minister says: Well, since Euroclear is in our country,
+      we only have $10 to $20 billion of this money at stake, but we’re against Europe
+      seizing Euroclear. So, the Germans, and the French, and the other pro-war advocates
+      in Europe, have sought to circumvent this by mobilizing public opinion, by frightening
+      it into thinking that there’s an imminent problem. Ultimately, what they’re conjuring
+      up is, well, is Russia going to invade Europe? This is absurd. No country that’s
+      developed and has an elected official at the head is going to invade any other
+      country. Land invasions are over. Any fight with Russia is going to be fought
+      by missiles, and only by missiles. It could be air missiles, it could be from
+      submarines, it could be naval missiles, but it’s going to be a missile-type fight.
+      The main missiles that people have spoken about so far are the drones. I think
+      the aim — what Merz and the Europeans, who are trying to set European interests
+      against those of Russia, are trying to do — is [to] achieve this military Keynesianism,
+      based on the ostensible need to fight Russia, or to “defend” itself against Russia,
+      is an extension of this bombing of Ukraine. And that’s where the conflict is certainly
+      leading. Now, the plan of Merz and Germany is to give the money to Ukraine, from
+      the Euroclear, that’ll be earmarked in Ukrainian account, to buy weapons to fight
+      Russia. Nobody trusts the Ukrainian kleptocracy enough to simply give the $300
+      billion to Ukraine —it would end up in the pockets of the kleptocrats — but they
+      will create an account for Ukrainians to spend on European armaments. Good news
+      for the European military-industrial complex, whose stocks have been going up,
+      while the other industrial stocks have not followed suit because of the slowdown
+      that was caused ever since the termination of trade for Russian oil and gas. Well,
+      the news, exposed in the last few days, is that Merz turns out to have staged
+      alleged Russian drone appearances at airports in Germany, in order to whoop up
+      propaganda against Russia, as if [Russia] really had some intention of attacking
+      Germany in some way or another. I mean, that’s what the drones are doing in Ukraine.
+      And the fact that the drones are such a novel form of transforming the character
+      of warfare, in the last three years, you can see how this was the button to push
+      on the German and the European population. And you’ve already had the NATO head,
+      Mark Rutte, calling on NATO to be prepared to fight a long-term confrontation
+      with Russia. Well, a “confrontation” means, at some point, a war: that’s what
+      NATO is all about. And he claims that the alliance has turned the tide on ammunition.
+      He says NATO’s currently winning. And if you read the European popular press,
+      the mass media, they all say that Ukraine has a chance of beating Russia. It’s
+      just fighting to a stalemate! This is completely different from the guests that
+      you’ve had on your programs who are, like me, reading — What are the Chinese saying,
+      What are the Russians saying? What are reporters throughout all the rest of the
+      world saying? That the Ukrainian war is, basically, over. It’s lost, totally.
+      And the problem for Europe’s industrial economies, according to Merz, is, well,
+      if the war in Ukraine has been lost, then what are we going to use all of our
+      weapons for? Who’s going to buy our weapons? Not the United States. The United
+      States is asking Europe to buy American weapons for NATO. NATO needs the threat
+      of war in order to maintain the military-industrial production and employment
+      that it seems to have been willing to base the economy on. Four days ago, Germany’s
+      Stern magazine published insider leaks, showing that the whole idea that Russian
+      drones were being used against German airports to sort of sound them out — as
+      if this was all a preparation for Russian bombing of the airports in Germany and
+      Europe, just as it was bombing air transportation in Ukraine. All of this turns
+      out to have been made up by Merz, and orchestrated as a scheme to sort of amplify
+      public fear, and fast-track these lucrative military contracts for the domestic
+      firms. It turns out that [Merz]’s personal background is a corporate lawyer with
+      deep connections to Germany’s arms sector. And from the very beginning in Germany,
+      as the Christian Democratic leader, he’s been advocating more defense outlays
+      — saying this is going to lead the German recovery — as if the German industry
+      can recover given the break of relations with Russia, and now the imminent break
+      of relations with China, as well. So, if these leaks turn out to hold water —
+      and Sahra Wagenknecht in Germany has been very outspoken in trying to get to the
+      bottom of this, and insisting on a public investigation — then it’s going to be
+      obvious that Europe has this deep state of NATO and anti-Russian neocons, that
+      is just as serious as the U.S. deep state in pushing for confrontation and, ultimately,
+      war with Russia. And if you read what Merz has said, it’s as if this really isn’t
+      about national security at all. It’s about securing gains for industrial investors
+      and for a minority, that has hijacked European defense policy and industrial policy.
+      I think the question is: Why are they doing it now? Now that the war is ending,
+      it looks like there’s going to be, at some point (and it may take until Spring),
+      a Ukrainian surrender. The Russians are going to take over and appoint a non-Nazi
+      government — replace the whole government in Ukraine. The intention of Russia
+      is to block any attempt by Europe to send more missiles or arms attacking Russia
+      itself. Russia’s aim is simply to isolate itself as much as possible from Europe
+      because it no longer looks at Western Europe as offering an opportunity for mutual
+      gain. It only sees Europe as representing a threat — and if it could make an iron
+      wall isolating Europe? Basically, it’s “you leave us alone, we’ll leave you alone
+      — but don’t get involved.” I think, given the fact that (if and when) the war
+      ends, Russia is now going to have to spend an enormous amount of money rebuilding
+      the Russian-speaking Ukraine (former Ukraine), that is now part of Russia. Donetsk
+      and Luhansk and Crimea have already voted, had a referendum, to rejoin Russia.
+      And Russia is going to need a lot of money. The opportunity of ending the war
+      in Ukraine offered Russia the chance to say: Well, you are demanding reparations
+      from Russia for the war in Ukraine that you, NATO, started, with the U.S.–British
+      coup d’état of 2014 by the Nazis that overthrew the elected government. (It was
+      NATO in Europe that backed the Ukrainians in an ethnic war against Russian-speaking
+      Eastern provinces.) So, we’re the victims, not the attackers. If there’s anyone
+      who owes reparations, it’s Europe owing reparations to Russia; but, of course,
+      that would take years and years to settle through the courts. But what Russia,
+      I think, would be willing to agree on is: We’re going to use that $300 billion
+      to spend largely in Europe, to start the reconstruction and rebuilding of the
+      real estate, the industry, the economies of Luhansk (Donbass), and other parts
+      of the former Ukraine that are now part of Russia. And I think that what Merz
+      and the anti-Russian cabal in the European leadership are trying to do is to prevent
+      this opportunity. They don’t want Russia to spend its money on Europe to rebuild
+      the Russian-speaking former provinces of Ukraine. They want the money to be spent,
+      specifically, on Europe’s military-industrial complex. That’s what the whole problem
+      is all about. ⁣GLENN DIESEN: Well, I think a key problem for Europe is also that
+      the war now is, well, the work going on is, more or less, a condition for the
+      survival of the political West, indeed, Europe itself; because the U.S. has already
+      made its intentions clear, that it wants to reduce its presence, not just in Ukraine,
+      but Europe. But the Americans have now taken this clear position that they will
+      want to make a profit from the weapons. So, the Europeans have to pay for the
+      weapons it sends. But what was interesting (back in the end of August), it was
+      reported in Reuters that the U.S. told the Europeans that they would begin to
+      pull, a bit, out of the Baltic states. And that’s suddenly when you see all this
+      reporting on the drones. So, suddenly, everyone, you know, if they think they
+      saw a drone, but it hasn’t been confirmed; or actual drones were seen, but none
+      of them were actually tied to Russia? Many of them were revealed — that there
+      were people flying drones as a hobby — Germans in Germany, for example. But the
+      narrative remains. That is, not one piece of evidence; but if you put the 0 +
+      0 + 0, suddenly, you have at least a 1 (one) — in the European math. But we also
+      see now that the U.S. is gradually pulling some of its troops from Poland [and]
+      Romania; and this is creating some panic. The only thing that can make the U.S.,
+      perhaps, change its mind is if there’s an actual conflict brewing up some real
+      threats towards Europe. Otherwise, yes, I want to say, as well, Europe itself
+      risks fragmenting because the EU’s main strength was collective-bargaining power:
+      the ability to stand together; and this transfer of sovereignty towards Brussels
+      would allow for the EU to deliver some tangible economic benefits for its member
+      states. The EU doesn’t really do well economically anymore. So, at the moment,
+      unity, to a large extent, depends on the war. Once the war is over, it’s very
+      likely that the EU will begin to fragment. So, I think a lot of this helps to
+      explain why the political leadership in Europe seems so frightened, or desperate
+      to keep the war going. ⁣MICHAEL HUDSON: But Glenn, the war is creating disunity.
+      Look at what is happening with Hungary and Czechoslovakia. The European Union
+      now is saying, well, under the rules that we’ve had all along, Hungary is given
+      the ability to block our military spending in support of Ukraine — Hungary has
+      actually been attacked by Ukraine. Article 5 of the NATO [Charter] is dead. A
+      NATO member (Hungary) has been attacked by a foreign power (Ukraine) to destroy
+      its oil supplies that it was getting via Kazakhstan, via Russia. And both Hungary
+      and Czechoslovakia — and now there’s pressure in other countries, too — saying:
+      We cannot afford the war of Russia. You, Germans, are willing to end your industrial
+      growth and deindustrialize, and impoverish your economy for your ideological hatred
+      of Russia; but we cannot afford your war. We’re going to block it. And so, the
+      European Union wants to change the rules to not permit member countries any longer
+      to have the right to block. So, what is Hungary to do? Is it to join the Shanghai
+      Cooperation Organization? It’s being left out. The war is, I think, not only dividing
+      European countries against each other, it’s dividing the European right-wing NATO
+      leadership from the voters, the population as a whole. The voters want secular
+      recovery. They don’t want war, because war is going to impoverish them. War will
+      enrich the military firms that are represented by Merz and the other pro-war leaders.
+      It’s not going to really help the economy at all. So, I think it’s being divisive.
+      ⁣GLENN DIESEN: No, I think you’re very right. And in the long term, the war is
+      just deepening the divisions within Europe. But in the short term, it’s seen as
+      something to hold it together. Again, this is part of the problem now, I think:
+      there’s no strategic thinking where we’re actually going with this. But towards
+      this end, though, the need to have the constant tensions with Russia, and keeping
+      the war going with Ukraine, is becoming more difficult now that Ukraine is turning
+      out to be in much worse shape than many European leaders would like to admit.
+      How do you see this moving forward? Do you think the European leaders have to
+      step in? Because there’s a lot of talk now in Europe. You have the former NATO
+      Secretary General arguing that the Europeans, or NATO, should start intercepting
+      Russian missiles and drones from NATO territory. There’s more push now to do long-range
+      strikes into Russia — we keep saying “helping Ukraine” — but at the end of the
+      day, this will be our weapons, buttons pushed by our contractors. It will be our
+      targeting, our satellites. So it’s a NATO attack on Russia. And I think more or
+      less this shouldn’t be controversial to say anymore. ⁣MICHAEL HUDSON: Well, it’s
+      not controversial in Russia. Both President Putin and Foreign Minister [Sergei]
+      Lavrov have said that if a missile hits Russia from a NATO country, and even if
+      this missile is launched from Ukraine, if the missile itself is from a NATO country,
+      or steered electronically from Wiesbaden, or any other European guidance center,
+      Russia will retaliate against the countries that produced, or guided, the missile.
+      And that means it’s going to do to Germany what it’s done to Ukraine. How much
+      will it do it? Will it just begin hitting the military companies, the army bases,
+      the electric-power utilities; or will it be more? Russia’s response will be: You
+      sent a missile against us? We’re going to send missiles against you. You, Europeans,
+      have no defense against our new hypersonic missiles. They’re not going to be atomic
+      — they don’t have to be — but they’re enough to disable your industry, certainly
+      your military industry, to disable your ability to send missiles. We can disable
+      not only your arms-makers, but your electronic [and] electrical facilities, your
+      transportation facilities, your railroads, your airports, your ports. They’ve
+      been as clear as they can in saying this, to such a point that, given the feelings
+      [of] the Russian voters themselves, saying: You can’t just ignore one red line
+      after another, and let Europe escalate. You’ve got to respond. We’re dealing with
+      a step function here. Russia has tried to warn Europe again and again: here is
+      what’s going to happen if you really do “that.” Europe has decided that it wants
+      “that.” Apparently, Merz, and Rutte of NATO, believe that Europe needs to be attacked
+      by Russia in order to rebuild its industry. But the attack by Russia is going
+      to prevent it from rebuilding its industry. That’s what we call an internal contradiction.
+      And how do you explain this? It’s a tunnel-visioned ideology of, literally, sharing
+      the long-term British hatred of Russia. It has nothing to do with communism, because
+      Russia is not the Soviet Union anymore. It’s almost a geopolitical confrontation
+      that leads Europe to share the U.S. neocon view that, well, if only we could divide
+      Russia into four or five small countries, then it wouldn’t have the power to not
+      only threaten us, but to play any positive role in the world at all. And that’ll
+      enable us to play a positive role in the world, as America’s leading puppets,
+      administering the rest of the world on America’s behalf. I mean, that’s a pretty
+      pitiful worldview, but that’s where it’s all moving towards. I have other things
+      that I want to talk about in your show. What the European Union has done is say
+      [that] it’s not enough to fight Russia. As Rutte said: This is not only a fight
+      against Russia, it’s a fight against Russia’s allies: China, Iran, North Korea.
+      This is a war against us, against what almost seems to be the Global Majority.
+      And the first arena in this war has been against China; and it’s been by the Dutch,
+      who seem to be, even more than Germany, extremists. They confiscated the Nexperia
+      company, that Chinese firms had bought and developed in Holland to provide a basic
+      stage in transforming silicon wafers into batteries [Nexperia’s products]. This
+      is not in itself a national security issue. And in fact, because it’s not a national
+      security issue — it’s such a common mundane technology: automobiles, Mercedes,
+      Volkswagen, all the big German car companies, but also industry in general, need
+      all of these ​​batteries [products]. (And batteries are fairly simple, but the
+      technology requires, I’d say, a couple of years to put in place.) And so, Donald
+      Trump and the Americans pressed the Dutch government to say: You have to seize
+      any [company] that China owns 50% or more of, or Chinese investors own 50% or
+      more of, you have to confiscate it as part of our war against China; because we,
+      Americans, are not going to join your fight against Russia, but we are going to
+      end up fighting against China as our existential enemy — as the Americans like
+      to put it. So, the Dutch seized Nexperia, on the grounds that — well, number one,
+      the United States told [Holland] to seize it, by designating hundreds of Chinese
+      companies that are owned 50% or more, as free for Europeans to grab; and the Dutch
+      grabbed it — and because it said: We worry that Nexperia, given the growing antagonism
+      of the West towards China, is going to move some of its operations to China; and
+      China might do something that we don’t like, or interfere with our control of
+      this bilateral battery trade. And so, we’re going to grab the company, take it
+      over, and confiscate it — just like the European companies have confiscated [Russian]
+      Lukoil’s affiliates in Romania, and other European countries. So, obviously, China
+      denounced it. The anger in China is very clear. And it [China] said: How can you
+      do this? — Europe’s manufacturing sector is dependent on Nexperia batteries. Millions,
+      millions of its products are sold throughout Europe as not very expensive, but
+      key inputs for automobiles and other basic machinery. And all of this is going
+      to be blocked now — and China said: Well, obviously, you know, we’re not going
+      to keep selling/producing all of this output for companies that have now been
+      seized by the Dutch government, in violation of all law, simply because the Americans
+      tell them to. Well, the Dutch responded to say: Well, Donald Trump has indeed
+      said he’s no longer imposing the 50% rule against China’s designated companies.
+      But that’s not why we grabbed it. We were going to grab it anyway because we don’t
+      want the Chinese to be in control of a company that so many of our other firms,
+      in Holland and throughout Europe, actually are dependent on. So, they’ve stopped
+      production; and the Chinese have said: Well, you know, we’re not going to give
+      you stuff for free. First of all, all future trade with Holland, and with other
+      European industries, is going to be in our own currency (the RMB), not in Euros.
+      We cannot keep our savings, and bill our products, in Euros because you may do
+      to us what you just did to Russia. It’s obvious we’re on the same trajectory there.
+      Mark Rutte has said: We’re just as bad as Russia because we’re importing Russia’s
+      oil — and that’s supposed to help [Ukraine defeat Russia; and the whole fantasy
+      of interconnections that the Europeans have drawn? So the Nexperia incident has
+      — to China — become a whole barometer of Europe’s institutional credibility, is
+      what the Chinese spokesmen have said. And [China has] unilaterally halted the
+      wafer supplies to Nexperia, claiming its own national security for all of this.
+      So, I don’t see any chance of a resolution for this. The Dutch keep saying: We
+      think the Chinese are going to be reasonable and surrender to us. Well, China’s
+      not going to surrender. And in fact, it’s blocking key exports: not only raw material,
+      not only rare earths, but other raw materials. There are so many key materials
+      that China is supplying to the West that even if there are alternative sources
+      to Europe, these alternative sources are, first of all, going to be more expensive.
+      And secondly, it’s going to take quite a while to put them in place. China has
+      said: We are able, of course, to replicate at home what Nexperia was producing
+      in Holland (and it has affiliates all over Europe); of course, we can do it, but
+      it’s going to take a while (and certainly, just to begin exporting these ​​batteries
+      again is going to take three or four months). Well, the European industries that
+      have been using these imports have all followed just-in-time accounting. They’ve
+      minimized their keeping of inventories, so that they can operate with a lower
+      expense of doing business. So, Europe doesn’t have inventories of these batteries
+      [products]: its companies — all throughout Europe — within two months, have announced
+      (Mercedes and others), they’re going to have to close down their plants; because
+      you can’t make a car without these simple, basic batteries [control systems] —
+      that raise and lower windows when they go up, you know, automatic control, internal
+      control systems of cars — and they’re going to have to lay off the labor force.
+      So, once again, this idea, of Europe somehow regaining control of its economy
+      by declaring a trade and investment and financial-currency war — extending this
+      war from Russia to China and other countries — is going to be as serious (on a
+      smaller scale) as Europe’s decision not to import Russian oil and gas anymore.
+      Europe is cutting itself off from all of the basic imports — from raw materials,
+      to semi[conductor] manufacturers, to other manufacturers — [from] goods that it’s
+      become dependent upon. And there’s no way that an economy can function without
+      these products. Well, you can be sure that China is quite aware of this. And when
+      [China] says it’s going to take a while, it’s completely Holland’s fault for doing
+      this. Well, what [China is] saying is, let European countries fight among themselves
+      to see what the resolution is. And of course, when there’s a resolution, there’s
+      going to have to be reparations, and China will protect its own national security
+      from future seizure by saying the European leaders are really just like Donald
+      Trump: they’re changing the rules at will for their military confrontation. [China
+      says] in order for us to avoid our own interruption of our processing and manufacturing,
+      we’re going to have to keep our control of our own manufacturing. Europe can,
+      of course, do the same thing. Well, maybe in ten years (let’s say seven or eight
+      years), Europe can do its own thing. Its population will fall in half. Mass poverty
+      — the governments will be voted out of office. It’ll be a disaster. That is the
+      clearly outlined plan that Merz and von der Leyen, the European Union, European
+      Commission, NATO, the German government, the English government, the French government,
+      are pushing for. It’s unanimous, that the future is for a European collapse, deindustrialization;
+      and it’s going to result in a breakup of the European Union. And probably this
+      kind of a breakup is what leads to actual military confrontation and war. And
+      that’s where things seem to be leading. It seems crazy, but I don’t see — when
+      you read what other governments are saying, this is what they’re warning Europe
+      about. And the Europeans said, well, that’s what we want. ⁣GLENN DIESEN: It’s
+      very crazy we ended up in this situation. But the thing is, the Russian market
+      was quite good for Europe. Indeed, it was a very important part of the entire
+      development model. That is not just all the cheap energy which was being supplied
+      by Russia, but also what the Russians were doing with all that money, because
+      they were, to a large extent, buying European-produced goods. And if there weren’t
+      a special energy project, work in the Arctic, often under the hope of developing
+      this Greater Europe, based on [Mikhail] Gorbachev’s Common European Home idea?
+      Often Europe was favored as partners, as well as with the United States, with
+      the assumption that economic connectivity would somehow lead to Russia’s gradual
+      integration. It’s just crazy going down this path, because it was the Americans
+      who were pushing very hard for NATO expansion to redivide the continent, remilitarize
+      it. It was the Europeans who, for all these years, worried that we would recreate
+      the Cold War logic, that we would impose these zero-sum civilizational choices
+      on the countries, between NATO and Russia, which could make a choice, which would
+      manifest itself in civil wars, and then proxy wars. But yet, here we are, and
+      the Europeans are now really doubling down. It’s very hard to have anyone actually
+      explain where the national interest comes in here, how this is good for anyone,
+      including Ukraine, for that sake. But no, the Chinese and others are definitely
+      watching; because if there would be some push tomorrow for Taiwan to secede, and
+      China would take any actions, why wouldn’t the Europeans also take the Chinese
+      funds? Why wouldn’t they seize Chinese companies? I mean, even the fact that they’re
+      discussing this is just, I think, a horrible mistake. ⁣MICHAEL HUDSON: There is
+      a discussion of national interest, and Merz, and Rutte, and von der Leyen have
+      said: Our national interest is in deindustrializing Europe. Our national interest
+      is anti-labor. Our national interest is war. That is their idea of national interest.
+      So, it’s not what you mean by national interest. When you and I talk about national
+      interests, we use it in the way that it used to be used 50 years ago. It’s the
+      interest of the entire economy — if you were saying what is good for the economy,
+      in terms of its material welfare and well-being for the population, the increase
+      in output, and the more equal distribution of this output — that’s how you and
+      I, and, I think, most of your listeners, have defined a national interest. But
+      the national interest as defined by the European leadership is: No, our interest
+      is the same as in America — the 1%, mainly the 10%. Our interest is in the military-industrial
+      complex. Our interest is the money in our personal pockets, that we get from the
+      bribery from the U.S., from NATO, from the companies that we represent — against
+      the interest of labor and the voters. So, you have a divergence of national interest,
+      from what used to be called a materialist approach to history: thinking that countries
+      are going to act in their own economic, and social, and political self-interest,
+      in a democratic way that represents what’s good for the population as a whole.
+      This is no longer the meaning of national interest in today’s Western economies,
+      from the United States to Europe. ⁣GLENN DIESEN: Well, it’s not as if — this will
+      be my last question — it’s not as if there were some structural problems before
+      this conflict. That is, if you look at the European economy 20 years ago, it was
+      close to parity with the United States, the EU and the US. But since those days,
+      the divisions between the Americans and Europeans have only increased. I was wondering,
+      how do you see the reasoning behind this? Is it about the energy cost? Is it about
+      the technological sovereignty? Financialization? Or is it just subordinating European
+      interests — economic interests, primarily — to U.S. geopolitical interests? How
+      do you make sense of how that parity fell? Because that was quite important for
+      the Europeans, the way the Europeans had envisioned the post-Cold War era: it
+      would be a collective hegemony under the U.S. and EU as equal partners. And if
+      you [fast] forward [to] today, as you said, the main objective of the Europeans
+      appears to be to hope that America will accept Europe as a junior partner, if
+      we subordinate ourselves enough — which is a far cry away from where we were 20
+      years ago. ⁣MICHAEL HUDSON: Well, Glenn, you know that I’m a financial economist
+      primarily; and so it’s hardly by surprise that I trace the whole decline of Europe
+      to its disastrous adoption of the Euro; and its German-backed rules, that European
+      governments, including the European Union, as a whole central bank, should not
+      create its own money. [The EU] has to, basically, borrow the money, and it cannot
+      run a budget deficit more than 5% of the population. Europe, at the beginning,
+      said: We will never — under the rules — be able to apply the same Keynesian policy
+      for economic recovery that the United States, China, and every successful industrial
+      company, has. We are going to tie the hands of [our] Europeans’ banking and financial
+      system to prevent the government from providing enough credit to enable the economy
+      to grow — as more and more of its national income is spent on finance and economic
+      rent-seeking activities. The design came from University of Chicago extremists
+      of the hard-money Milton Friedman School. And the United States knew just exactly
+      that by imposing these self-destructive, tunnel-visioned rules on Europe, Europe
+      could not use the Modern Monetary policy that the United States uses for right-wing
+      purposes; but not for the purposes that Modern Monetary Theory was developed:
+      to help the economy, as a whole, grow. So, Europe tied its hands from the beginning,
+      by not being able to have the government play a role. The United States backed
+      politicians who said: Although Europe is joining now, it will be a Europe of corporations.
+      We want the country to be led by — [Giorgia] Meloni in Italy. We want exactly
+      the corporatism that Mussolini advocated for Italy. We failed before in World
+      War II. We’re not going to fail again. And this is the craziness of it. Of course,
+      the way in which every industrial economy — including Europe, and Germany, in
+      particular — developed its industry in the 19th century was a mixed economy, with
+      government taking the lead in public infrastructure; and in supporting a central
+      bank supplying credit to the economy, relying on government banking and government
+      rules, steering finance into productive capital formation, and tangible investment,
+      building factories and employing labor. That’s not what Europe is advocating anymore.
+      In fact, I don’t think that Europeans spend much attention looking at what made
+      industrial Germany in the 19th century so productive, and enabled it to take the
+      lead; and what made French industry, also, so productive. Why did it have such
+      a great takeoff in the 19th century to be the economic center of the world? And
+      now it’s shrinking onto the periphery? If you compare the difference, it’s very
+      largely the role of the government in what was becoming industrial socialism.
+      It was called “social democracy,” which really meant socialism in Germany, and
+      the other leading industrial countries of Europe. And now? It turned into finance
+      capitalism, where most European wealth is made financially, not industrially.
+      And the financial sector realizes that it’s easier to make corporate and personal
+      fortunes in a shrinking economy, than it is in a growing economy; because in a
+      shrinking economy, you have grabitization. You have insolvency, bankruptcies,
+      you have an enormous concentration of wealth ownership. And you’re going to be
+      seeing that in Europe, just as you’re seeing that in the United States economy.
+      And that polarization ends up impoverishing the economy as a whole, and also leading
+      to a suspension in democratic freedom of expression, of voting. It neuters the
+      role of voter election of national officials by this overpowering EU control system,
+      that turns out to be taken over by a unity of the neocons and the financial oligarchy,
+      basing itself more and more on the military-industrial complex, and its links
+      to the United States, and as a [subsidizer] of these personal companies and personalities
+      — the Tony Blairs of continental Europe, and the Merzes — that have been able
+      to take control. ⁣GLENN DIESEN: It is fascinating that the European project, which
+      began after World War II, under the Coal and Steel [European Coal and Steel Community],
+      was intended to have transparency, to avoid militarization, and be an anti-war
+      project. Now the EU, more and more, defines itself, in its own words, as a geopolitical
+      Europe in which economic development will be done through military Keynesianism.
+      Well, thank you, as always. Very much appreciate you taking the time. So, thank
+      you. ⁣MICHAEL HUDSON: Well, I guess it’s not too optimistic, unless you look at
+      the prospect of a revolution as being optimistic. Transcription and Diarization:
+      https://scripthub.dev Editing: Kimberly Mims Review: ced Photo by Dan Begel on
+      Unsplash The post The Strange Case of Europe’s Decline first appeared on Michael
+      Hudson .'
+    one_sentence_summary: In an interview, Professor Michael Hudson discusses Europe's
+      economic decline and its participation in the tech war against China, highlighting
+      the implications of a recent seizure related to semiconductor wafers and chips
+      essential for automotive systems, which could disrupt supply lines.
+    paragraph_summary: In an interview with Professor Michael Hudson, Glenn Disen discusses
+      Europe's economic decline and its controversial decision to seize Russian sovereign
+      assets, a move that has raised legal and ethical questions. Hudson highlights
+      the complexity of this situation, noting that while European leaders seem determined
+      to pursue this course of action, it does not reflect the sentiments of the broader
+      European population, which is largely against the war with Russia and desires
+      industrial recovery. The seizure of Russian assets aims to use them as collateral
+      for loans that cannot be repaid, effectively ensuring that Russia will not reclaim
+      its funds. This decision stands in contrast to the reluctance of the U.S. and
+      Japan to engage in similar actions, as they fear the repercussions of being labeled
+      financial pariahs.
+    published: '2025-11-10T10:47:02+00:00'
+  - title: The Strange Case of Europe’s Decline
+    url: https://michael-hudson.com/2025/11/the-strange-case-of-europes-decline/
+    text: '⁣ [In this interview I had abbreviated the Nexperia seizure as being about
+      batteries. It was actually about the wafers and chips that go into the control
+      systems of batteries and other automotive systems. Without seemingly marginal
+      processes such as controlling windows and doors, the supply lines of auto manufacturers
+      and other industries will be interrupted. MH ] ⁣GLENN DIESEN: Welcome back to
+      the program. We are joined today by Professor Michael Hudson to discuss the very
+      strange case of Europe’s economic decline, as well as some of its latest self-harm
+      and questionable decisions. So thank you very much for coming back on. ⁣MICHAEL
+      HUDSON: I’m glad you invited me, Glenn. ⁣GLENN DIESEN: So, I wanted to get into
+      the Europeans joining in on America’s tech war, or economic war, against China.
+      But, first, I wanted to ask a bit about this seizure the Europeans are engaging
+      in; because, as we know,  they have frozen Russian assets — that is, sovereign
+      funds — and there is now growing pressure to seize these funds. That is, as various
+      newspapers write, they’re looking for something to make it seem legal to, essentially,
+      steal the Russian assets — sovereign funds — something that’s never been done
+      before. And what makes this unique is the Americans do not want to participate
+      in this because, of course, they would become financial pariahs. Japan doesn’t
+      want to. But for some reasons, the Europeans seem quite determined that this is
+      something they should do. What do you make of this decision? Because it is quite
+      complex: they want to take the Russian assets [to] use as collateral for a loan,
+      which can’t be repaid. So, you know, either way, the Russians are not going to
+      get their money back, more or less. ⁣MICHAEL HUDSON: Well, the question is: Who
+      are the Europeans that we’re talking about? I’m not sure it’s the European population
+      that seems to be against the war with Russia and Ukraine, and seems to want to
+      simply have an industrial recovery. The Europeans are led by the EU Commission,
+      Ursula von der Leyen, and the Estonian, her Estonian helper [Kaja Kallas], and
+      by Friedrich Merz of Germany. And the neocons and the NATO groups, Mark Rutte,
+      have all decided that they want to extend the war between Ukraine to Russia into
+      a war between Europe and Russia, or at least to frighten Europe, and make Europe
+      think that there’s going to be an imminent war, in order to, basically, create
+      a kind of military Keynesianism. So, let me begin, I think, where we’ve left off,
+      or we’ve discussed earlier — about this $300 billion Russian deposit with Euroclear,
+      which was the clearing organization centered in Brussels for dealings with Russia’s
+      foreign exchange in Euros and dollars. Nobody knows where Euroclear has actually
+      put this $300 billion (or Euros), in assets. It seems to have spread them over
+      many countries, in many investments. There have been many attempts, by journalists
+      and by politicians, to try to find out where [it is]. Nobody knows where it is.
+      And the Belgian prime minister says: Well, since Euroclear is in our country,
+      we only have $10 to $20 billion of this money at stake, but we’re against Europe
+      seizing Euroclear. So, the Germans, and the French, and the other pro-war advocates
+      in Europe, have sought to circumvent this by mobilizing public opinion, by frightening
+      it into thinking that there’s an imminent problem. Ultimately, what they’re conjuring
+      up is, well, is Russia going to invade Europe? This is absurd. No country that’s
+      developed and has an elected official at the head is going to invade any other
+      country. Land invasions are over. Any fight with Russia is going to be fought
+      by missiles, and only by missiles. It could be air missiles, it could be from
+      submarines, it could be naval missiles, but it’s going to be a missile-type fight.
+      The main missiles that people have spoken about so far are the drones. I think
+      the aim — what Merz and the Europeans, who are trying to set European interests
+      against those of Russia, are trying to do — is [to] achieve this military Keynesianism,
+      based on the ostensible need to fight Russia, or to “defend” itself against Russia,
+      is an extension of this bombing of Ukraine. And that’s where the conflict is certainly
+      leading. Now, the plan of Merz and Germany is to give the money to Ukraine, from
+      the Euroclear, that’ll be earmarked in Ukrainian account, to buy weapons to fight
+      Russia. Nobody trusts the Ukrainian kleptocracy enough to simply give the $300
+      billion to Ukraine —it would end up in the pockets of the kleptocrats — but they
+      will create an account for Ukrainians to spend on European armaments. Good news
+      for the European military-industrial complex, whose stocks have been going up,
+      while the other industrial stocks have not followed suit because of the slowdown
+      that was caused ever since the termination of trade for Russian oil and gas. Well,
+      the news, exposed in the last few days, is that Merz turns out to have staged
+      alleged Russian drone appearances at airports in Germany, in order to whoop up
+      propaganda against Russia, as if [Russia] really had some intention of attacking
+      Germany in some way or another. I mean, that’s what the drones are doing in Ukraine.
+      And the fact that the drones are such a novel form of transforming the character
+      of warfare, in the last three years, you can see how this was the button to push
+      on the German and the European population. And you’ve already had the NATO head,
+      Mark Rutte, calling on NATO to be prepared to fight a long-term confrontation
+      with Russia. Well, a “confrontation” means, at some point, a war: that’s what
+      NATO is all about. And he claims that the alliance has turned the tide on ammunition.
+      He says NATO’s currently winning. And if you read the European popular press,
+      the mass media, they all say that Ukraine has a chance of beating Russia. It’s
+      just fighting to a stalemate! This is completely different from the guests that
+      you’ve had on your programs who are, like me, reading — What are the Chinese saying,
+      What are the Russians saying? What are reporters throughout all the rest of the
+      world saying? That the Ukrainian war is, basically, over. It’s lost, totally.
+      And the problem for Europe’s industrial economies, according to Merz, is, well,
+      if the war in Ukraine has been lost, then what are we going to use all of our
+      weapons for? Who’s going to buy our weapons? Not the United States. The United
+      States is asking Europe to buy American weapons for NATO. NATO needs the threat
+      of war in order to maintain the military-industrial production and employment
+      that it seems to have been willing to base the economy on. Four days ago, Germany’s
+      Stern magazine published insider leaks, showing that the whole idea that Russian
+      drones were being used against German airports to sort of sound them out — as
+      if this was all a preparation for Russian bombing of the airports in Germany and
+      Europe, just as it was bombing air transportation in Ukraine. All of this turns
+      out to have been made up by Merz, and orchestrated as a scheme to sort of amplify
+      public fear, and fast-track these lucrative military contracts for the domestic
+      firms. It turns out that [Merz]’s personal background is a corporate lawyer with
+      deep connections to Germany’s arms sector. And from the very beginning in Germany,
+      as the Christian Democratic leader, he’s been advocating more defense outlays
+      — saying this is going to lead the German recovery — as if the German industry
+      can recover given the break of relations with Russia, and now the imminent break
+      of relations with China, as well. So, if these leaks turn out to hold water —
+      and Sahra Wagenknecht in Germany has been very outspoken in trying to get to the
+      bottom of this, and insisting on a public investigation — then it’s going to be
+      obvious that Europe has this deep state of NATO and anti-Russian neocons, that
+      is just as serious as the U.S. deep state in pushing for confrontation and, ultimately,
+      war with Russia. And if you read what Merz has said, it’s as if this really isn’t
+      about national security at all. It’s about securing gains for industrial investors
+      and for a minority, that has hijacked European defense policy and industrial policy.
+      I think the question is: Why are they doing it now? Now that the war is ending,
+      it looks like there’s going to be, at some point (and it may take until Spring),
+      a Ukrainian surrender. The Russians are going to take over and appoint a non-Nazi
+      government — replace the whole government in Ukraine. The intention of Russia
+      is to block any attempt by Europe to send more missiles or arms attacking Russia
+      itself. Russia’s aim is simply to isolate itself as much as possible from Europe
+      because it no longer looks at Western Europe as offering an opportunity for mutual
+      gain. It only sees Europe as representing a threat — and if it could make an iron
+      wall isolating Europe? Basically, it’s “you leave us alone, we’ll leave you alone
+      — but don’t get involved.” I think, given the fact that (if and when) the war
+      ends, Russia is now going to have to spend an enormous amount of money rebuilding
+      the Russian-speaking Ukraine (former Ukraine), that is now part of Russia. Donetsk
+      and Luhansk and Crimea have already voted, had a referendum, to rejoin Russia.
+      And Russia is going to need a lot of money. The opportunity of ending the war
+      in Ukraine offered Russia the chance to say: Well, you are demanding reparations
+      from Russia for the war in Ukraine that you, NATO, started, with the U.S.–British
+      coup d’état of 2014 by the Nazis that overthrew the elected government. (It was
+      NATO in Europe that backed the Ukrainians in an ethnic war against Russian-speaking
+      Eastern provinces.) So, we’re the victims, not the attackers. If there’s anyone
+      who owes reparations, it’s Europe owing reparations to Russia; but, of course,
+      that would take years and years to settle through the courts. But what Russia,
+      I think, would be willing to agree on is: We’re going to use that $300 billion
+      to spend largely in Europe, to start the reconstruction and rebuilding of the
+      real estate, the industry, the economies of Luhansk (Donbass), and other parts
+      of the former Ukraine that are now part of Russia. And I think that what Merz
+      and the anti-Russian cabal in the European leadership are trying to do is to prevent
+      this opportunity. They don’t want Russia to spend its money on Europe to rebuild
+      the Russian-speaking former provinces of Ukraine. They want the money to be spent,
+      specifically, on Europe’s military-industrial complex. That’s what the whole problem
+      is all about. ⁣GLENN DIESEN: Well, I think a key problem for Europe is also that
+      the war now is, well, the work going on is, more or less, a condition for the
+      survival of the political West, indeed, Europe itself; because the U.S. has already
+      made its intentions clear, that it wants to reduce its presence, not just in Ukraine,
+      but Europe. But the Americans have now taken this clear position that they will
+      want to make a profit from the weapons. So, the Europeans have to pay for the
+      weapons it sends. But what was interesting (back in the end of August), it was
+      reported in Reuters that the U.S. told the Europeans that they would begin to
+      pull, a bit, out of the Baltic states. And that’s suddenly when you see all this
+      reporting on the drones. So, suddenly, everyone, you know, if they think they
+      saw a drone, but it hasn’t been confirmed; or actual drones were seen, but none
+      of them were actually tied to Russia? Many of them were revealed — that there
+      were people flying drones as a hobby — Germans in Germany, for example. But the
+      narrative remains. That is, not one piece of evidence; but if you put the 0 +
+      0 + 0, suddenly, you have at least a 1 (one) — in the European math. But we also
+      see now that the U.S. is gradually pulling some of its troops from Poland [and]
+      Romania; and this is creating some panic. The only thing that can make the U.S.,
+      perhaps, change its mind is if there’s an actual conflict brewing up some real
+      threats towards Europe. Otherwise, yes, I want to say, as well, Europe itself
+      risks fragmenting because the EU’s main strength was collective-bargaining power:
+      the ability to stand together; and this transfer of sovereignty towards Brussels
+      would allow for the EU to deliver some tangible economic benefits for its member
+      states. The EU doesn’t really do well economically anymore. So, at the moment,
+      unity, to a large extent, depends on the war. Once the war is over, it’s very
+      likely that the EU will begin to fragment. So, I think a lot of this helps to
+      explain why the political leadership in Europe seems so frightened, or desperate
+      to keep the war going. ⁣MICHAEL HUDSON: But Glenn, the war is creating disunity.
+      Look at what is happening with Hungary and Czechoslovakia. The European Union
+      now is saying, well, under the rules that we’ve had all along, Hungary is given
+      the ability to block our military spending in support of Ukraine — Hungary has
+      actually been attacked by Ukraine. Article 5 of the NATO [Charter] is dead. A
+      NATO member (Hungary) has been attacked by a foreign power (Ukraine) to destroy
+      its oil supplies that it was getting via Kazakhstan, via Russia. And both Hungary
+      and Czechoslovakia — and now there’s pressure in other countries, too — saying:
+      We cannot afford the war of Russia. You, Germans, are willing to end your industrial
+      growth and deindustrialize, and impoverish your economy for your ideological hatred
+      of Russia; but we cannot afford your war. We’re going to block it. And so, the
+      European Union wants to change the rules to not permit member countries any longer
+      to have the right to block. So, what is Hungary to do? Is it to join the Shanghai
+      Cooperation Organization? It’s being left out. The war is, I think, not only dividing
+      European countries against each other, it’s dividing the European right-wing NATO
+      leadership from the voters, the population as a whole. The voters want secular
+      recovery. They don’t want war, because war is going to impoverish them. War will
+      enrich the military firms that are represented by Merz and the other pro-war leaders.
+      It’s not going to really help the economy at all. So, I think it’s being divisive.
+      ⁣GLENN DIESEN: No, I think you’re very right. And in the long term, the war is
+      just deepening the divisions within Europe. But in the short term, it’s seen as
+      something to hold it together. Again, this is part of the problem now, I think:
+      there’s no strategic thinking where we’re actually going with this. But towards
+      this end, though, the need to have the constant tensions with Russia, and keeping
+      the war going with Ukraine, is becoming more difficult now that Ukraine is turning
+      out to be in much worse shape than many European leaders would like to admit.
+      How do you see this moving forward? Do you think the European leaders have to
+      step in? Because there’s a lot of talk now in Europe. You have the former NATO
+      Secretary General arguing that the Europeans, or NATO, should start intercepting
+      Russian missiles and drones from NATO territory. There’s more push now to do long-range
+      strikes into Russia — we keep saying “helping Ukraine” — but at the end of the
+      day, this will be our weapons, buttons pushed by our contractors. It will be our
+      targeting, our satellites. So it’s a NATO attack on Russia. And I think more or
+      less this shouldn’t be controversial to say anymore. ⁣MICHAEL HUDSON: Well, it’s
+      not controversial in Russia. Both President Putin and Foreign Minister [Sergei]
+      Lavrov have said that if a missile hits Russia from a NATO country, and even if
+      this missile is launched from Ukraine, if the missile itself is from a NATO country,
+      or steered electronically from Wiesbaden, or any other European guidance center,
+      Russia will retaliate against the countries that produced, or guided, the missile.
+      And that means it’s going to do to Germany what it’s done to Ukraine. How much
+      will it do it? Will it just begin hitting the military companies, the army bases,
+      the electric-power utilities; or will it be more? Russia’s response will be: You
+      sent a missile against us? We’re going to send missiles against you. You, Europeans,
+      have no defense against our new hypersonic missiles. They’re not going to be atomic
+      — they don’t have to be — but they’re enough to disable your industry, certainly
+      your military industry, to disable your ability to send missiles. We can disable
+      not only your arms-makers, but your electronic [and] electrical facilities, your
+      transportation facilities, your railroads, your airports, your ports. They’ve
+      been as clear as they can in saying this, to such a point that, given the feelings
+      [of] the Russian voters themselves, saying: You can’t just ignore one red line
+      after another, and let Europe escalate. You’ve got to respond. We’re dealing with
+      a step function here. Russia has tried to warn Europe again and again: here is
+      what’s going to happen if you really do “that.” Europe has decided that it wants
+      “that.” Apparently, Merz, and Rutte of NATO, believe that Europe needs to be attacked
+      by Russia in order to rebuild its industry. But the attack by Russia is going
+      to prevent it from rebuilding its industry. That’s what we call an internal contradiction.
+      And how do you explain this? It’s a tunnel-visioned ideology of, literally, sharing
+      the long-term British hatred of Russia. It has nothing to do with communism, because
+      Russia is not the Soviet Union anymore. It’s almost a geopolitical confrontation
+      that leads Europe to share the U.S. neocon view that, well, if only we could divide
+      Russia into four or five small countries, then it wouldn’t have the power to not
+      only threaten us, but to play any positive role in the world at all. And that’ll
+      enable us to play a positive role in the world, as America’s leading puppets,
+      administering the rest of the world on America’s behalf. I mean, that’s a pretty
+      pitiful worldview, but that’s where it’s all moving towards. I have other things
+      that I want to talk about in your show. What the European Union has done is say
+      [that] it’s not enough to fight Russia. As Rutte said: This is not only a fight
+      against Russia, it’s a fight against Russia’s allies: China, Iran, North Korea.
+      This is a war against us, against what almost seems to be the Global Majority.
+      And the first arena in this war has been against China; and it’s been by the Dutch,
+      who seem to be, even more than Germany, extremists. They confiscated the Nexperia
+      company, that Chinese firms had bought and developed in Holland to provide a basic
+      stage in transforming silicon wafers into batteries [Nexperia’s products]. This
+      is not in itself a national security issue. And in fact, because it’s not a national
+      security issue — it’s such a common mundane technology: automobiles, Mercedes,
+      Volkswagen, all the big German car companies, but also industry in general, need
+      all of these ​​batteries [products]. (And batteries are fairly simple, but the
+      technology requires, I’d say, a couple of years to put in place.) And so, Donald
+      Trump and the Americans pressed the Dutch government to say: You have to seize
+      any [company] that China owns 50% or more of, or Chinese investors own 50% or
+      more of, you have to confiscate it as part of our war against China; because we,
+      Americans, are not going to join your fight against Russia, but we are going to
+      end up fighting against China as our existential enemy — as the Americans like
+      to put it. So, the Dutch seized Nexperia, on the grounds that — well, number one,
+      the United States told [Holland] to seize it, by designating hundreds of Chinese
+      companies that are owned 50% or more, as free for Europeans to grab; and the Dutch
+      grabbed it — and because it said: We worry that Nexperia, given the growing antagonism
+      of the West towards China, is going to move some of its operations to China; and
+      China might do something that we don’t like, or interfere with our control of
+      this bilateral battery trade. And so, we’re going to grab the company, take it
+      over, and confiscate it — just like the European companies have confiscated [Russian]
+      Lukoil’s affiliates in Romania, and other European countries. So, obviously, China
+      denounced it. The anger in China is very clear. And it [China] said: How can you
+      do this? — Europe’s manufacturing sector is dependent on Nexperia batteries. Millions,
+      millions of its products are sold throughout Europe as not very expensive, but
+      key inputs for automobiles and other basic machinery. And all of this is going
+      to be blocked now — and China said: Well, obviously, you know, we’re not going
+      to keep selling/producing all of this output for companies that have now been
+      seized by the Dutch government, in violation of all law, simply because the Americans
+      tell them to. Well, the Dutch responded to say: Well, Donald Trump has indeed
+      said he’s no longer imposing the 50% rule against China’s designated companies.
+      But that’s not why we grabbed it. We were going to grab it anyway because we don’t
+      want the Chinese to be in control of a company that so many of our other firms,
+      in Holland and throughout Europe, actually are dependent on. So, they’ve stopped
+      production; and the Chinese have said: Well, you know, we’re not going to give
+      you stuff for free. First of all, all future trade with Holland, and with other
+      European industries, is going to be in our own currency (the RMB), not in Euros.
+      We cannot keep our savings, and bill our products, in Euros because you may do
+      to us what you just did to Russia. It’s obvious we’re on the same trajectory there.
+      Mark Rutte has said: We’re just as bad as Russia because we’re importing Russia’s
+      oil — and that’s supposed to help [Ukraine defeat Russia; and the whole fantasy
+      of interconnections that the Europeans have drawn? So the Nexperia incident has
+      — to China — become a whole barometer of Europe’s institutional credibility, is
+      what the Chinese spokesmen have said. And [China has] unilaterally halted the
+      wafer supplies to Nexperia, claiming its own national security for all of this.
+      So, I don’t see any chance of a resolution for this. The Dutch keep saying: We
+      think the Chinese are going to be reasonable and surrender to us. Well, China’s
+      not going to surrender. And in fact, it’s blocking key exports: not only raw material,
+      not only rare earths, but other raw materials. There are so many key materials
+      that China is supplying to the West that even if there are alternative sources
+      to Europe, these alternative sources are, first of all, going to be more expensive.
+      And secondly, it’s going to take quite a while to put them in place. China has
+      said: We are able, of course, to replicate at home what Nexperia was producing
+      in Holland (and it has affiliates all over Europe); of course, we can do it, but
+      it’s going to take a while (and certainly, just to begin exporting these ​​batteries
+      again is going to take three or four months). Well, the European industries that
+      have been using these imports have all followed just-in-time accounting. They’ve
+      minimized their keeping of inventories, so that they can operate with a lower
+      expense of doing business. So, Europe doesn’t have inventories of these batteries
+      [products]: its companies — all throughout Europe — within two months, have announced
+      (Mercedes and others), they’re going to have to close down their plants; because
+      you can’t make a car without these simple, basic batteries [control systems] —
+      that raise and lower windows when they go up, you know, automatic control, internal
+      control systems of cars — and they’re going to have to lay off the labor force.
+      So, once again, this idea, of Europe somehow regaining control of its economy
+      by declaring a trade and investment and financial-currency war — extending this
+      war from Russia to China and other countries — is going to be as serious (on a
+      smaller scale) as Europe’s decision not to import Russian oil and gas anymore.
+      Europe is cutting itself off from all of the basic imports — from raw materials,
+      to semi[conductor] manufacturers, to other manufacturers — [from] goods that it’s
+      become dependent upon. And there’s no way that an economy can function without
+      these products. Well, you can be sure that China is quite aware of this. And when
+      [China] says it’s going to take a while, it’s completely Holland’s fault for doing
+      this. Well, what [China is] saying is, let European countries fight among themselves
+      to see what the resolution is. And of course, when there’s a resolution, there’s
+      going to have to be reparations, and China will protect its own national security
+      from future seizure by saying the European leaders are really just like Donald
+      Trump: they’re changing the rules at will for their military confrontation. [China
+      says] in order for us to avoid our own interruption of our processing and manufacturing,
+      we’re going to have to keep our control of our own manufacturing. Europe can,
+      of course, do the same thing. Well, maybe in ten years (let’s say seven or eight
+      years), Europe can do its own thing. Its population will fall in half. Mass poverty
+      — the governments will be voted out of office. It’ll be a disaster. That is the
+      clearly outlined plan that Merz and von der Leyen, the European Union, European
+      Commission, NATO, the German government, the English government, the French government,
+      are pushing for. It’s unanimous, that the future is for a European collapse, deindustrialization;
+      and it’s going to result in a breakup of the European Union. And probably this
+      kind of a breakup is what leads to actual military confrontation and war. And
+      that’s where things seem to be leading. It seems crazy, but I don’t see — when
+      you read what other governments are saying, this is what they’re warning Europe
+      about. And the Europeans said, well, that’s what we want. ⁣GLENN DIESEN: It’s
+      very crazy we ended up in this situation. But the thing is, the Russian market
+      was quite good for Europe. Indeed, it was a very important part of the entire
+      development model. That is not just all the cheap energy which was being supplied
+      by Russia, but also what the Russians were doing with all that money, because
+      they were, to a large extent, buying European-produced goods. And if there weren’t
+      a special energy project, work in the Arctic, often under the hope of developing
+      this Greater Europe, based on [Mikhail] Gorbachev’s Common European Home idea?
+      Often Europe was favored as partners, as well as with the United States, with
+      the assumption that economic connectivity would somehow lead to Russia’s gradual
+      integration. It’s just crazy going down this path, because it was the Americans
+      who were pushing very hard for NATO expansion to redivide the continent, remilitarize
+      it. It was the Europeans who, for all these years, worried that we would recreate
+      the Cold War logic, that we would impose these zero-sum civilizational choices
+      on the countries, between NATO and Russia, which could make a choice, which would
+      manifest itself in civil wars, and then proxy wars. But yet, here we are, and
+      the Europeans are now really doubling down. It’s very hard to have anyone actually
+      explain where the national interest comes in here, how this is good for anyone,
+      including Ukraine, for that sake. But no, the Chinese and others are definitely
+      watching; because if there would be some push tomorrow for Taiwan to secede, and
+      China would take any actions, why wouldn’t the Europeans also take the Chinese
+      funds? Why wouldn’t they seize Chinese companies? I mean, even the fact that they’re
+      discussing this is just, I think, a horrible mistake. ⁣MICHAEL HUDSON: There is
+      a discussion of national interest, and Merz, and Rutte, and von der Leyen have
+      said: Our national interest is in deindustrializing Europe. Our national interest
+      is anti-labor. Our national interest is war. That is their idea of national interest.
+      So, it’s not what you mean by national interest. When you and I talk about national
+      interests, we use it in the way that it used to be used 50 years ago. It’s the
+      interest of the entire economy — if you were saying what is good for the economy,
+      in terms of its material welfare and well-being for the population, the increase
+      in output, and the more equal distribution of this output — that’s how you and
+      I, and, I think, most of your listeners, have defined a national interest. But
+      the national interest as defined by the European leadership is: No, our interest
+      is the same as in America — the 1%, mainly the 10%. Our interest is in the military-industrial
+      complex. Our interest is the money in our personal pockets, that we get from the
+      bribery from the U.S., from NATO, from the companies that we represent — against
+      the interest of labor and the voters. So, you have a divergence of national interest,
+      from what used to be called a materialist approach to history: thinking that countries
+      are going to act in their own economic, and social, and political self-interest,
+      in a democratic way that represents what’s good for the population as a whole.
+      This is no longer the meaning of national interest in today’s Western economies,
+      from the United States to Europe. ⁣GLENN DIESEN: Well, it’s not as if — this will
+      be my last question — it’s not as if there were some structural problems before
+      this conflict. That is, if you look at the European economy 20 years ago, it was
+      close to parity with the United States, the EU and the US. But since those days,
+      the divisions between the Americans and Europeans have only increased. I was wondering,
+      how do you see the reasoning behind this? Is it about the energy cost? Is it about
+      the technological sovereignty? Financialization? Or is it just subordinating European
+      interests — economic interests, primarily — to U.S. geopolitical interests? How
+      do you make sense of how that parity fell? Because that was quite important for
+      the Europeans, the way the Europeans had envisioned the post-Cold War era: it
+      would be a collective hegemony under the U.S. and EU as equal partners. And if
+      you [fast] forward [to] today, as you said, the main objective of the Europeans
+      appears to be to hope that America will accept Europe as a junior partner, if
+      we subordinate ourselves enough — which is a far cry away from where we were 20
+      years ago. ⁣MICHAEL HUDSON: Well, Glenn, you know that I’m a financial economist
+      primarily; and so it’s hardly by surprise that I trace the whole decline of Europe
+      to its disastrous adoption of the Euro; and its German-backed rules, that European
+      governments, including the European Union, as a whole central bank, should not
+      create its own money. [The EU] has to, basically, borrow the money, and it cannot
+      run a budget deficit more than 5% of the population. Europe, at the beginning,
+      said: We will never — under the rules — be able to apply the same Keynesian policy
+      for economic recovery that the United States, China, and every successful industrial
+      company, has. We are going to tie the hands of [our] Europeans’ banking and financial
+      system to prevent the government from providing enough credit to enable the economy
+      to grow — as more and more of its national income is spent on finance and economic
+      rent-seeking activities. The design came from University of Chicago extremists
+      of the hard-money Milton Friedman School. And the United States knew just exactly
+      that by imposing these self-destructive, tunnel-visioned rules on Europe, Europe
+      could not use the Modern Monetary policy that the United States uses for right-wing
+      purposes; but not for the purposes that Modern Monetary Theory was developed:
+      to help the economy, as a whole, grow. So, Europe tied its hands from the beginning,
+      by not being able to have the government play a role. The United States backed
+      politicians who said: Although Europe is joining now, it will be a Europe of corporations.
+      We want the country to be led by — [Giorgia] Meloni in Italy. We want exactly
+      the corporatism that Mussolini advocated for Italy. We failed before in World
+      War II. We’re not going to fail again. And this is the craziness of it. Of course,
+      the way in which every industrial economy — including Europe, and Germany, in
+      particular — developed its industry in the 19th century was a mixed economy, with
+      government taking the lead in public infrastructure; and in supporting a central
+      bank supplying credit to the economy, relying on government banking and government
+      rules, steering finance into productive capital formation, and tangible investment,
+      building factories and employing labor. That’s not what Europe is advocating anymore.
+      In fact, I don’t think that Europeans spend much attention looking at what made
+      industrial Germany in the 19th century so productive, and enabled it to take the
+      lead; and what made French industry, also, so productive. Why did it have such
+      a great takeoff in the 19th century to be the economic center of the world? And
+      now it’s shrinking onto the periphery? If you compare the difference, it’s very
+      largely the role of the government in what was becoming industrial socialism.
+      It was called “social democracy,” which really meant socialism in Germany, and
+      the other leading industrial countries of Europe. And now? It turned into finance
+      capitalism, where most European wealth is made financially, not industrially.
+      And the financial sector realizes that it’s easier to make corporate and personal
+      fortunes in a shrinking economy, than it is in a growing economy; because in a
+      shrinking economy, you have grabitization. You have insolvency, bankruptcies,
+      you have an enormous concentration of wealth ownership. And you’re going to be
+      seeing that in Europe, just as you’re seeing that in the United States economy.
+      And that polarization ends up impoverishing the economy as a whole, and also leading
+      to a suspension in democratic freedom of expression, of voting. It neuters the
+      role of voter election of national officials by this overpowering EU control system,
+      that turns out to be taken over by a unity of the neocons and the financial oligarchy,
+      basing itself more and more on the military-industrial complex, and its links
+      to the United States, and as a [subsidizer] of these personal companies and personalities
+      — the Tony Blairs of continental Europe, and the Merzes — that have been able
+      to take control. ⁣GLENN DIESEN: It is fascinating that the European project, which
+      began after World War II, under the Coal and Steel [European Coal and Steel Community],
+      was intended to have transparency, to avoid militarization, and be an anti-war
+      project. Now the EU, more and more, defines itself, in its own words, as a geopolitical
+      Europe in which economic development will be done through military Keynesianism.
+      Well, thank you, as always. Very much appreciate you taking the time. So, thank
+      you. ⁣MICHAEL HUDSON: Well, I guess it’s not too optimistic, unless you look at
+      the prospect of a revolution as being optimistic. Transcription and Diarization:
+      https://scripthub.dev Editing: Kimberly Mims Review: ced Photo by Dan Begel on
+      Unsplash The post The Strange Case of Europe’s Decline first appeared on Michael
+      Hudson .'
+    one_sentence_summary: In an interview, Professor Michael Hudson discusses Europe's
+      economic decline and its participation in the tech war against China, highlighting
+      the implications of a recent seizure related to semiconductor wafers and chips
+      essential for automotive systems, which could disrupt supply lines.
+    paragraph_summary: In an interview with Professor Michael Hudson, Glenn Disen discusses
+      Europe's economic decline and its controversial decision to seize Russian sovereign
+      assets, a move that has raised legal and ethical questions. Hudson highlights
+      the complexity of this situation, noting that while European leaders seem determined
+      to pursue this course of action, it does not reflect the sentiments of the broader
+      European population, which is largely against the war with Russia and desires
+      industrial recovery. The seizure of Russian assets aims to use them as collateral
+      for loans that cannot be repaid, effectively ensuring that Russia will not reclaim
+      its funds. This decision stands in contrast to the reluctance of the U.S. and
+      Japan to engage in similar actions, as they fear the repercussions of being labeled
+      financial pariahs.
+    published: '2025-11-10T10:47:02+00:00'
   - title: Asia Rewires Trade While Washington Grandstands
     url: https://michael-hudson.com/2025/11/asia-rewires-trade-while-washington-grandstands/
     text: 'NIMA ALKHORSHID: Hi everybody. Today is Thursday, October 30, 2025, and our

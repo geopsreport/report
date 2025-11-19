@@ -7,16 +7,251 @@ description: "Cambridge–educated researcher at RMIT; writes widely on imperial
 websites:
   - https://counterpunch.org/author/jete6/
 summary: |
-  The past days have seen intensifying scrutiny of the intersection between technology, geopolitics, and environmental policy, with new developments highlighting the complex interplay of corporate power, state interests, and global security.
+  The past days have seen intensifying scrutiny of the intersection between technology, geopolitics, and military strategy, particularly in the Asia-Pacific region. As global power competition sharpens, recent developments highlight the growing overlap of commercial infrastructure and national security, as well as persistent challenges in media integrity and international law.
   
-  Amidst ongoing debates about the role of artificial intelligence in governance and industry, **Binoy Kampmark**’s latest analysis draws attention to the growing reliance on generative AI within the consulting sector. Kampmark argues that this trend not only erodes the value of in-house expertise but also entrenches dependence on costly, opaque consultancy firms. The majority view among analysts is that this shift will likely deepen the influence of external consultants over both public and private decision-making, raising concerns about transparency and accountability. There is a high chance that, absent regulatory intervention, this dynamic will persist and potentially expand into critical policy domains.
+  The most significant new development is the controversy surrounding Google’s planned artificial intelligence data center on Christmas Island, part of the A$80 million South Pacific Connect initiative. As **Binoy Kampmark** notes, the project—ostensibly aimed at boosting digital infrastructure—has sparked fears of “imminent militarisation” and raised questions about its dual-use potential. Local communities and regional observers are increasingly concerned that the facility could serve as a strategic asset for intelligence gathering or military operations, given Christmas Island’s proximity to key Indo-Pacific shipping lanes. The Australian government’s partnership with Google and Vocus is seen by many as an effort to counter China’s influence in the region, but the lack of transparency and consultation has fueled suspicion and local unease.
   
-  Environmental concerns have also resurfaced, particularly regarding the practices of major tech corporations. Amazon’s aggressive data center expansion has come under fire for its lack of transparency around water consumption, despite public commitments to sustainability. As **Kampmark** notes, “Amazon’s sustainability initiatives may obscure the true environmental impact of its practices.” The consensus is that mounting public and regulatory pressure will force greater disclosure from tech giants, but meaningful change remains uncertain. There is a high chance of increased scrutiny and possible regulatory action in the near future, though the effectiveness of such measures is still in question.
+  Meanwhile, the fallout from the BBC’s editing scandal continues to reverberate. The broadcaster faces public backlash and internal resignations after revelations of biased editing in its Panorama documentary on Donald Trump. **Binoy Kampmark** reports that the controversy has not only damaged the BBC’s credibility but also emboldened Trump, who is now seeking legal action for damages. This episode underscores broader concerns about media manipulation and the erosion of public trust in major news institutions, especially in the context of highly polarized political climates.
   
-  On the security front, the U.S. nuclear posture continues to generate controversy. President Trump’s recent boasts about potential renewed nuclear testing, coupled with layoffs at the National Nuclear Security Administration, have drawn criticism for undermining both disarmament efforts and the stability of the U.S. nuclear arsenal. **Kampmark** highlights the paradox of “reducing the workforce responsible for maintaining the U.S. nuclear arsenal while questioning the need for nuclear modernization.” The prevailing assessment is that these moves could exacerbate global tensions and accelerate an arms race, with a high chance of further diplomatic fallout if nuclear testing resumes.
+  On the technology front, the consulting industry’s embrace of generative AI is drawing criticism for perpetuating inefficiency and dependency. **Binoy Kampmark** argues that the trend “undermines the value of human expertise” and locks organizations into costly, opaque relationships with consultancy firms. This dynamic is particularly relevant as governments and corporations increasingly rely on AI-driven solutions for both civilian and security applications.
   
-  In summary, the latest developments point to a world where technological advances, environmental responsibility, and security policy are increasingly interwoven, often to the detriment of transparency and long-term stability. Most definitely, the coming months will see intensified debates over the regulation of AI and big tech, as well as heightened international concern over U.S. nuclear policy.
+  Looking ahead, the militarization of digital infrastructure in the Pacific is most definitely set to accelerate, with high confidence that similar projects will face growing scrutiny and resistance from local communities and regional powers. The BBC’s credibility crisis is quite likely to spur further debate about media ethics and regulatory oversight, though meaningful reform remains uncertain. The consulting sector’s reliance on AI is expected to persist, but there is a high chance of mounting calls for greater transparency and accountability.
+  
+  In summary, the convergence of technology, security, and media integrity is shaping the current geopolitical landscape, with rising tensions and skepticism about the motives behind major infrastructure projects and the narratives constructed by powerful institutions.
 articles:
+  - title: 'Google on Christmas Island: Data Centres and Imminent Militarisation'
+    url: https://www.counterpunch.org/2025/11/17/google-on-christmas-island-data-centres-and-imminent-militarisation/
+    text: 'Google has become something of a fixture in digital infrastructure in the
+      Pacific. In late 2023, Canberra announced a joint project with the US, Google
+      and Vocus, an Australian digital infrastructure firm, to deliver the A$80 million
+      South Pacific Connect initiative. The object: to link Fiji and French Polynesia
+      to Australia and North America, with the hopeful placement of landing stations
+      in other South Pacific countries.
+
+
+      Interest in Google’s relationship with the Australian government was also piqued
+      this month by promised activity on Christmas Island, located 350 kilometres (220
+      miles) south of Indonesia. The Indian Ocean outpost of exquisite environmental
+      beauty has often been sinister in its secrecy. Unwanted refugees and asylum seekers
+      have periodically found themselves as detainees on the island, victims of Australia’s
+      sadistic approach to undocumented naval arrivals. In August 2016, the Asylum Seeker
+      Resource Centre claimed that the Christmas Island Detention Centre had all the
+      brutal features of “a high security military camp where control is based on fear
+      and punishment and the extensive internal use of extrajudicial punishment by force
+      and isolation is evident.”
+
+
+      The goal of the Silicon Valley behemoth lies elsewhere. Occasioned by the signing
+      of a cloud deal with Australia’s Department of Defence earlier in July, the company
+      promises to build what Reuters describes as “a large artificial intelligence data
+      centre” on the island. Advanced talks are being held on leasing land near the
+      island’s airport that will be used for the site. This will include an arrangement
+      with a local mining company to deal with any necessary energy needs for the 7-megawatt
+      facility, which will be powered on diesel and renewable energy.
+
+
+      The scale of the project, let alone its broader significance, is not something
+      the company or government wonks wish others to know about. “We are not constructing
+      ‘a large artificial intelligence data centre’ on Christmas Island,” came the sharp
+      response from a Google spokesperson to Data Center Dynamics. “This is a continuation
+      of our Australia Connect work to deliver subsea cable infrastructure, and we look
+      forward to sharing more soon.” Planning documents further show the company’s vision
+      for an “additional future cable system” that will connect Christmas Island to
+      Asia.
+
+
+      The Australian Department of Infrastructure has confirmed the Google project,
+      which includes plans to link the island to Darwin using the services of US-based
+      contractor SubCom. The bureaucrats were also quick to gloss over what disruptions
+      might arise to the 1,600 residents heavily reliant on diesel to patch up inadequate
+      renewable sources. “The department is in discussions with Google to ensure energy
+      requirements for the proposed project are met without impacting supply to local
+      residents and businesses.” A spokesperson also stated that, “All environmental
+      and other planning requirements will need to be met for the project to succeed.”
+
+
+      The same cautionary note has not been struck by enthusiasts who see the military
+      potential of the island outpost. Former US Navy strategist Bryan Clark, fresh
+      from being involved in a tabletop war game involving personnel from the US, Japanese
+      and Australian militaries, was keen to inflate the importance of the data centre.
+      That importance, he stresses, lies in the field of conflict. “The data centre
+      is partly to allow you to do the kinds of AI-enabled command and control that
+      you need to do in the future, especially if you rely on uncrewed systems for surveillance
+      missions and targeting missions and even engagements.”
+
+
+      He considers the use of subsea cables more reliable in frustrating any mischief
+      that might arise from China (who else?), notably in attempts to jam Starlink or
+      any satellite communications. Such cables also provided more bandwidth for communication.
+      “If you’ve got a data centre on Christmas, you can do a lot of that through cloud
+      infrastructure.” Again, American power uses Australian territory as a conduit
+      to maintain the imperium.
+
+
+      Google’s ties with the military tendrils of several nations continues the ongoing
+      penetration of Big Tech companies into the industrial complex. The circle between
+      military Research and Development pioneered by government agencies and their partnering
+      with private contractors is complete. Indeed, digital-military-industrial complexes
+      are now battling in steady rivalry (the two most prominent being China and the
+      United States). “This is contributing to the blurring of state-corporation boundaries
+      even more than what was observed during the second half of the twentieth century
+      with the rise of transnational corporations,” write Andrea Coveri, Claudia Cozza
+      and Dario Guarsacio in Intereconomics.
+
+
+      This blurring has served to diminish company accountability and government independence,
+      however well-dressed the issue of planning approvals is. Christmas Island residents
+      will be left to the mercies of unimaginative officials easily seduced by the promise
+      of investment and returns. “There is support for it,” says a convinced Steve Pereira,
+      Christmas Island Shire President, “providing this data centre actually does put
+      back into the community with infrastructure, employment and adding economic value
+      to the island.” As for the military dimension? “We are a strategic asset for defence.”
+      What a comfort for the local citizenry.'
+    one_sentence_summary: In late 2023, Google, in collaboration with the Australian
+      government and Vocus, announced the A$80 million South Pacific Connect initiative
+      to enhance digital infrastructure in the Pacific, including plans for a controversial
+      artificial intelligence data center on Christmas Island, which has raised concerns
+      about its military implications and potential impacts on the local community.
+    paragraph_summary: In late 2023, Google, in collaboration with the Australian government
+      and US-based Vocus, announced the A$80 million South Pacific Connect initiative
+      aimed at enhancing digital connectivity between Fiji, French Polynesia, Australia,
+      and North America, with potential landing stations in other South Pacific nations.
+      Concurrently, Google is reportedly planning to establish a large artificial intelligence
+      data center on Christmas Island, which has a controversial history as a detention
+      center for asylum seekers. While the Australian Department of Infrastructure confirmed
+      the project, emphasizing the need to meet local energy requirements without disrupting
+      the island's residents, concerns have been raised about the military implications
+      of the data center, particularly in relation to US military strategies in the
+      region. This development highlights the growing intertwining of Big Tech and military
+      interests, raising questions about accountability and the impact on local communities
+      as they navigate the promises of economic investment against potential strategic
+      exploitation.
+    published: '2025-11-17T06:53:25+00:00'
+  - title: 'Dangerous Edits: The BBC’s Foolish Gift to Donald Trump'
+    url: https://www.counterpunch.org/2025/11/12/dangerous-edits-the-bbcs-foolish-gift-to-donald-trump/
+    text: 'It began with a revelation in The Telegraph on November 3. The paper had
+      seen an internal memo in the BBC pointing to editing on its October 2024 Panorama
+      programme of two parts of US President Donald Trump’s speech in January 2021.
+      The sin was not in the editing but its liberal manner, suggesting that Trump had
+      explicitly incited the Capitol Hill riots of January 6. Through spliced footage,
+      Trump is initially shown promising to walk with his supporters to the Capitol
+      where he would “fight like hell” when he had said he would walk with them “to
+      peacefully and patriotically make your voices heard”.
+
+
+      The Panorama special, titled “Trump: A Second Chance?”, goes on to give the impression
+      that flag-waving men had also converged with menacing intent after the speech.
+      In the words of the dossier, this “created the impression Trump’s supporters had
+      taken up his ‘call to arms,’” when the footage had, in fact, been shot before
+      the address.
+
+
+      The internal leaked memo, running into 19 pages, was all the more stinging in
+      coming from a former external advisor to the BBC’s Editorial Guidelines and Standards
+      Committee (EGSC), Michael Prescott. The document also alleged that senior executives,
+      including the BBC chairman Samir Shah, had given the cold shoulder to various
+      serious complaints submitted by an advisor to the EGSC. There was a general refusal
+      “to accept there had been a breach of standards”. Indeed, at the EGSC meeting
+      on May 12, 2025, the corporation’s deputy director of news, Jonathan Munro, blandly
+      asserts it as “normal practice to edit speeches into short form clips.” Nor did
+      he see any need to balance the Trump Panorama special “with an equally aggressive
+      look at [Democratic candidate Kamala] Harris”. In Munro’s words, there was no
+      need “for due impartiality to have companion programmes”.
+
+
+      The Conservatives, scrounging for every morsel to claw back some electoral appeal,
+      saw a gaming chance in barking at the corporation. Former Tory prime minister
+      Boris Johnson was seething in calling the revelations a “total disgrace”. Current
+      Tory leader Kemi Badenoch was all in favour of seeing heads roll. “The BBC license
+      fee,” stated shadow culture secretary Nigel Huddleston, “is justified on the basis
+      of impartiality and trust.” There could be “no justification for this kind of
+      deliberate manipulation and the spreading of misinformation.” And, he argued,
+      the corporation had form. “This is not the first time that evidence of bias at
+      the BBC has emerged, but it is one of the most stark and alarming examples to
+      date.”
+
+
+      Heads did roll, and not merely because of the Panorama program. The corporation
+      has also been assailed regarding its coverage of Gaza and such topics as transgender
+      rights. Tim Davie, the Director-General of the BBC, along with Deborah Turness,
+      CEO of news, stepped up to the chopping block. In his statement, Davie had “been
+      reflecting on the very intense personal and professional demands of managing this
+      role over many years in these febrile times” allied to “the fact that I want to
+      give a successor time to help the Charter plans they will be delivering.” Admitting
+      merely “some mistakes” in the organisation, the BBC remained “the most trusted
+      news brand globally.”
+
+
+      Turness was more explicit. “The ongoing controversy around the Panorama on President
+      Trump has reached a stage where it is causing damage to the BBC – an institution
+      that I love.” While taking her share of responsibility for the debacle, she remained
+      “absolutely clear recent allegations that BBC News is institutionally biased are
+      wrong.”
+
+
+      For his part, Shah preferred a letter of tardy contrition to the House of Commons
+      Culture, Media and Sports Committee. He conceded that “the way the speech was
+      edited did give the impression of a direct call for violent action. The BBC would
+      like to apologise for that error of judgment.”
+
+
+      It had been a foolish thing to do. The Panorama mangle gift wrapped the claims
+      of bias to British politicians and figures best exposed. It also gave the White
+      House more grist to the mill in arguing that the Fourth Estate was not to be trusted
+      and worthy of being hounded. Trump has already made something of a habit of raging
+      against the American networks and successfully settling claims. In December last
+      year, ABC News settled a lawsuit with Trump in which it agreed to give $15 million
+      to Trump’s presidential library. Trump claimed that anchor George Stephanopoulos
+      had inaccurately asserted on-air that he had been liable for raping E. Jean Carroll.
+
+
+      In July, Paramount settled with Trump’s legal team to the sum of $16 million also
+      intended for the future Donald Trump Library. CBS’s parent company had folded
+      under pressure, despite frivolous claims regarding editorial decisions on a CBS
+      interview with Democratic presidential nominee Kamala Harris in 2024. The settlement
+      was undoubtedly helped along by the presence of Trump’s Federal Communications
+      Commission appointee Brendan Carr.
+
+
+      Such settlements can only sully the networks and their news divisions. CBS news
+      anchor John Dickerson is hard to fault in points made in his Reporter’s Notebook
+      segment: “Can you hold power to account when you’ve paid it millions? Can an audience
+      trust you when you’ve traded away that trust?”
+
+
+      With the BBC admitting to error, and a few high-level resignations, Trump’s desire
+      to extend his bullying approach to a foreign broadcaster has been stirred. His
+      lawyers seek three actions from the corporation: a retraction of the documentary,
+      an apology, and compensation. Failing to do this, legal action for $1 billion
+      in damages will be sought.
+
+
+      The chastening question in all of this was why the Panorama crew even felt the
+      need to splice and adjust footage, despite being aware that news coverage, at
+      least of the BBC brand, must be above reproach. The corporation’s former North
+      America editor Jon Sopel, aware of Trump’s snarling disposition to the press,
+      summed it up: “You do not leave any room for error; you just have to be scrupulous.”
+      Trump is more than able to do the work for documentary makers without elaborate
+      abridgments or forced edits, very much a man capable of being hoisted by his own
+      petard. Unfortunately, those in the news business just can’t help themselves.'
+    one_sentence_summary: The BBC faced backlash and high-level resignations after an
+      internal memo revealed biased editing in its Panorama documentary on Donald Trump,
+      which misrepresented his speech regarding the Capitol riots, leading to accusations
+      of misinformation and prompting Trump to seek legal action against the corporation
+      for damages.
+    paragraph_summary: 'The BBC faced backlash after an internal memo revealed that
+      its October 2024 Panorama program, "Trump: A Second Chance?", edited President
+      Donald Trump''s January 2021 speech to imply he incited the Capitol riots, despite
+      his actual words advocating for peaceful protest. The memo, leaked by former BBC
+      advisor Michael Prescott, criticized senior executives for dismissing complaints
+      about the editing and failing to uphold impartiality standards, leading to calls
+      for accountability from Conservative politicians. Following the controversy, BBC
+      Director-General Tim Davie and news CEO Deborah Turness resigned, with the BBC
+      admitting that the editing misrepresented Trump''s speech and issued an apology.
+      Trump, seizing the opportunity, is now pursuing legal action against the BBC for
+      $1 billion, demanding a retraction, an apology, and compensation, highlighting
+      the precarious relationship between media integrity and political accountability.'
+    published: '2025-11-12T06:54:34+00:00'
   - title: 'Consultants and Artificial Intelligence: The Next Great Confidence Trick'
     url: https://www.counterpunch.org/2025/11/10/consultants-and-artificial-intelligence-the-next-great-confidence-trick/
     text: 'Why trust these gold seeking buffoons of questionable expertise? Overpaid

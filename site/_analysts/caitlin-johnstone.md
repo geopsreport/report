@@ -7,16 +7,1576 @@ description: "Australian satirical anti–war journalist; reader–funded Substa
 websites:
   - https://www.caitlinjohnst.one/
 summary: |
-  As the world enters mid-November 2025, the intersection of technology, militarism, and the ongoing crises in the Middle East continues to dominate independent analysis. The latest developments reveal deepening concerns about the direction of Western societies, both in terms of foreign policy and domestic technological trends.
+  Amid ongoing global unrest and shifting power dynamics, the latest developments highlight intensifying struggles over narrative control, deepening societal divides, and the persistent influence of imperial interests.
   
-  A notable recent event is Elon Musk’s promotion of Grok Imagine, an AI video generation tool capable of producing lifelike, emotionally charged clips. **Caitlin Johnstone** highlights the unsettling implications of this technology, arguing that it exemplifies “the troubling intersection of technology and capitalism,” and portends a future marked by superficial digital connections and environmental decline. This development is seen as part of a broader trend where technological innovation serves profit and control rather than genuine human connection or well-being.
+  A significant new development is the growing generational divide within Jewish communities regarding support for Israel. At the Jewish Federations of North America General Assembly, former Obama speechwriter **Sarah Hurwitz** voiced concern over younger Jews’ increasing skepticism toward pro-Israel arguments. This shift is attributed largely to the influence of social media and exposure to global perspectives that often challenge traditional pro-Israel narratives. As **Caitlin Johnstone** notes, this generational rift signals a potential long-term weakening of unified diaspora support for Israeli policies, especially as younger generations become more critical and globally connected.
   
-  Meanwhile, the situation in Gaza and Lebanon remains tense. **Johnstone** points to the Israeli Defense Forces’ repeated ceasefire violations, which are described as symptomatic of a cultural tendency to push boundaries, as explained by Daniel Rosehill. This pattern, rooted in concepts like “shitat matzliach” (successful method) and “freier” (sucker), is seen as undermining prospects for lasting peace and further destabilizing the region.
+  Meanwhile, the broader context remains one of systemic disillusionment and manipulation. Recent articles underscore how mainstream media continues to sideline or distort stories that challenge dominant power structures—such as the ongoing lack of coverage regarding Jeffrey Epstein’s ties to Israeli intelligence. This selective reporting, as highlighted by **Johnstone**, serves to maintain the status quo and protect entrenched interests, further eroding public trust in traditional news sources.
   
-  On the domestic front in the United States, the militarization of society is accelerating. Secretary of War Pete Hegseth’s recent call for Americans to prepare for wartime conditions coincides with the deployment of Gaza-tested surveillance drones by Skydio in U.S. cities. **Johnstone** warns that these developments signal a “creepier” phase of the U.S. empire, where technologies refined in conflict zones are repurposed for domestic surveillance and control.
+  Environmental and societal degradation also persist as underlying themes. In a recent piece, **Johnstone** paints a bleak picture of a world where beauty and value are often overlooked amid chaos and despair, reflecting a broader sense of loss and alienation in contemporary society.
   
-  Looking ahead, the majority of independent analysts see these trends intensifying. There is a high chance that the fusion of advanced AI, surveillance, and militarism will further erode civil liberties and deepen public alienation. The ongoing crises in Gaza and Lebanon are quite likely to persist, with little hope for meaningful diplomatic breakthroughs as long as boundary-pushing tactics remain unaddressed. The future, as described by **Johnstone**, is “most definitely” one where the interests of the powerful continue to shape a reality marked by inequality, distraction, and escalating authoritarianism.
+  Looking ahead, the trends point toward a continued fracturing of consensus within key communities, a growing skepticism toward mainstream narratives, and an intensifying struggle for control over information. There is a high chance that generational divides over geopolitical issues—especially regarding Israel—will deepen, leading to more vocal dissent and possibly influencing policy debates in the near future. The erosion of trust in mainstream media is most definitely set to continue, as alternative perspectives gain traction through decentralized platforms. The overall trajectory suggests a world where established powers face mounting challenges in maintaining narrative dominance, with unpredictable but significant implications for global politics.
 articles:
+  - title: Zionists Are Freaking Out About Losing Control Of The Narrative
+    url: https://www.caitlinjohnst.one/p/zionists-are-freaking-out-about-losing
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Former Obama
+      speechwriter Sarah Hurwitz made some very revealing remarks during an appearance
+      at the Jewish Federations of North America General Assembly on Sunday, expressing
+      frustration with the way younger Jews are dismissing pro-Israel arguments because
+      of the carnage they’ve seen in Gaza. “We are now wrestling with a new I think
+      generational divide here, and I think that’s particularly true in that social
+      media is now our source of media,” Hurwitz said . “It used to be that the news
+      you got in America was American media, and it was pretty mainstream; you know
+      it generally didn’t express extreme anti-Israel views. You had to go to a pretty
+      weird bookstore to find global media and fringe media. But today we have social
+      media, which is the global medium; its algorithms are shaped by billions of people
+      worldwide who don’t really love Jews. So while in the 1990s a young person probably
+      wasn’t going to find Al Jazeera or someone like Nick Fuentes, today those media
+      outlets find them; they find them on their phones.” “It’s also this increasingly
+      post-literate media; less and less text, more and more videos,” Hurwitz continued.
+      “So you have TikTok just smashing our young people’s brains all day long with
+      video of carnage in Gaza. And this is why so many of us cannot have a sane conversation
+      with younger Jews, because anything that we try to say to them, they are hearing
+      it through this wall of carnage. So I want to give data and information and facts
+      and arguments, and they are just seeing in their minds: carnage. And I sound obscene.”
+      https://x.com/richimedhurst/status/1990896744670867742 Hurwitz went on to say
+      that Holocaust education has begun backfiring, because it has been giving young
+      people the wrong impression that genocide is always bad. “And you know I think
+      unfortunately, the very smart bet that we made on Holocaust education to serve
+      as anti-semitism education in this new media environment, I think that is beginning
+      to break down a little bit because, you know, Holocaust education is absolutely
+      essential, but I think it may be confusing some of our young people about antisemitism,”
+      Hurwitz said. “Because they learn about big, strong Nazis hurting weak, emaciated
+      Jews, and they think oh, antisemitism is like anti-black racism, right? Powerful
+      white people against powerless black people. So, when on TikTok all day long,
+      they see powerful Israelis hurting weak, skinny Palestinians, it’s not surprising
+      that they think, Oh, I know the lesson of the Holocaust is you fight Israel. You
+      fight the big powerful people hurting the weak people.” Hoo boy. Lots to unpack
+      here. It’s just so fascinating to see a former White House speechwriter making
+      so many of the points that anti-Zionists have been making for years, but taking
+      the exact opposite meaning from them: The mainstream legacy media has always hidden
+      anti-Israel views from the public — and that was a good thing. Social media has
+      now given Palestinians the ability to expose the truth about Israel’s abuses — and
+      that’s a bad thing. People aren’t falling for the Zionist spin and narrative-diddling
+      anymore because they’ve seen the carnage in Gaza with their own eyes — and that’s
+      a problem. People who learned from Holocaust education that genocide is wrong
+      have been applying those same lessons to the genocide in Gaza — and this means
+      they’re “confused”. Hurwitz isn’t denying Israel’s abuses or framing its genocidal
+      atrocities as the problem, she’s just coming right out and saying that people
+      obtaining information and moral clarity about those abuses is the problem. The
+      atrocities aren’t wrong, what’s wrong is people seeing those atrocities and calling
+      them what they are. I love the way she complains that she looks “obscene” for
+      trying to lay out arguments and narratives justifying the Gaza holocaust for people
+      who’ve seen the “wall of carnage” from the genocide. I mean, yes. Yes obviously
+      you’re going to look obscene if you try to tell someone why raw video footage
+      of massacres, mutilated children and emaciated bodies is actually showing something
+      that is justifiable and acceptable. You can’t stand in front of a pile of child
+      corpses justifying their murder and then whine when people ignore your spinmeistering
+      and keep staring at the tiny bodies. That’s like murdering an entire family and
+      then telling the cops, “But you’re not listening to my reasons for killing them!”
+      They’re doing the normal thing while you are being obscene. There’s a viral clip
+      of this tirade going around Twitter and I was curious if Hurwitz had said anything
+      after the video segment ended which might have made what she said sound less horrible,
+      so I went to check out the original video on the Jewish Federations of North America’s
+      Youtube channel, and nope. It didn’t get any better. Hurwitz went on to say that
+      people are wrong to carry the lessons of Holocaust education into opposition to
+      Israel’s genocidal atrocities because the Holocaust was Nazi Germany blaming Jews
+      for all their problems in the same way people think Israel is the source of all
+      the world’s problems today. She then mourned the way western Jews “re-imagined
+      Judaism as a Protestant-style religion” in order to integrate into western society
+      rather than retaining a strong identity that is loyal to the state of Israel.
+      “The problem is, we’re not just a religion,” Hurwitz said. “We’re a nation. Civilization.
+      Tribe. Peoplehood. But most of all we’re a family. And so if you are a young person
+      raised in America who thinks Judaism is a Protestant-style religion, then the
+      seven million Jews in Israel are merely your co-religionists. So my co-religionists,
+      if I look at them and they’re not practicing my religion of social justice and
+      certain prophetic values then what do I have to do with them?” “But that’s a category
+      error,” says Hurwitz. “The seven million people in Israel, they are not my co-religionists,
+      they are my siblings . But I think if you think of them as merely your co-religionists,
+      it’s easy to slide into anti-Zionism. You don’t necessarily have that connection
+      to them.” Hurwitz is saying here that Jews around the world should be loyal to
+      Israel no matter what Israel does, not because that’s the moral or truthful position
+      but because Israel is where their loyalties belong. I don’t know about you, but
+      if my siblings were murdering civilians I would immediately become their enemy.
+      I wouldn’t defend my brother if he was going around shooting children in the head
+      like IDF snipers have been doing in Gaza , in fact I would feel a special responsibility
+      to stop him exactly because he is my brother. Genocide doesn’t magically become
+      acceptable if the perpetrators are your “siblings”, unless you are a sociopath.
+      It’s just incredible how hard Zionists have been freaking out about the way Israel
+      has lost control of the narrative these last two years. More and more often we’re
+      seeing them say the quiet parts out loud as they frantically scramble to manage
+      perceptions and manipulate minds around the world. Many things which used to be
+      hidden are finding their way into the light. ______________ Check out my new book,
+      Faces Of The Empire: The Battle For Humanity’s Soul . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. The best way to make sure you see everything I
+      write is to get on my free mailing list . Click here for links for my social media,
+      books, merch, and audio/video versions of each article . All my work is free to
+      bootleg and use in any way, shape or form; republish it, translate it, use it
+      on merchandise; whatever you want. All works co-authored with my husband Tim Foley.
+      Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image is a screen
+      grab from Jewish Federations of North America (Fair Use).'
+    one_sentence_summary: Former Obama speechwriter Sarah Hurwitz expressed concern
+      at the Jewish Federations of North America General Assembly about a generational
+      divide among younger Jews, who are increasingly dismissing pro-Israel arguments
+      due to the influence of social media and the exposure to global perspectives that
+      often harbor anti-Israel sentiments.
+    paragraph_summary: During a recent appearance at the Jewish Federations of North
+      America General Assembly, former Obama speechwriter Sarah Hurwitz expressed concern
+      over a generational divide among younger Jews regarding pro-Israel sentiments,
+      attributing this shift to the influence of social media. She noted that unlike
+      in the past, when mainstream American media provided a more balanced view, today's
+      youth are bombarded with global media narratives, including those that are anti-Israel,
+      through platforms like TikTok, which often showcase graphic content from Gaza.
+      Hurwitz argued that this constant exposure to violence makes it difficult to engage
+      younger Jews in rational discussions about Israel, as they perceive pro-Israel
+      arguments through a lens of trauma and suffering. Additionally, she suggested
+      that Holocaust education, intended to combat anti-Semitism, may inadvertently
+      lead young people to view genocide as universally negative, complicating their
+      understanding of the current Israeli-Palestinian conflict.
+    published: '2025-11-19T02:14:38+00:00'
+  - title: Zionists Are Freaking Out About Losing Control Of The Narrative
+    url: https://www.caitlinjohnst.one/p/zionists-are-freaking-out-about-losing
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Former Obama
+      speechwriter Sarah Hurwitz made some very revealing remarks during an appearance
+      at the Jewish Federations of North America General Assembly on Sunday, expressing
+      frustration with the way younger Jews are dismissing pro-Israel arguments because
+      of the carnage they’ve seen in Gaza. “We are now wrestling with a new I think
+      generational divide here, and I think that’s particularly true in that social
+      media is now our source of media,” Hurwitz said . “It used to be that the news
+      you got in America was American media, and it was pretty mainstream; you know
+      it generally didn’t express extreme anti-Israel views. You had to go to a pretty
+      weird bookstore to find global media and fringe media. But today we have social
+      media, which is the global medium; its algorithms are shaped by billions of people
+      worldwide who don’t really love Jews. So while in the 1990s a young person probably
+      wasn’t going to find Al Jazeera or someone like Nick Fuentes, today those media
+      outlets find them; they find them on their phones.” “It’s also this increasingly
+      post-literate media; less and less text, more and more videos,” Hurwitz continued.
+      “So you have TikTok just smashing our young people’s brains all day long with
+      video of carnage in Gaza. And this is why so many of us cannot have a sane conversation
+      with younger Jews, because anything that we try to say to them, they are hearing
+      it through this wall of carnage. So I want to give data and information and facts
+      and arguments, and they are just seeing in their minds: carnage. And I sound obscene.”
+      https://x.com/richimedhurst/status/1990896744670867742 Hurwitz went on to say
+      that Holocaust education has begun backfiring, because it has been giving young
+      people the wrong impression that genocide is always bad. “And you know I think
+      unfortunately, the very smart bet that we made on Holocaust education to serve
+      as anti-semitism education in this new media environment, I think that is beginning
+      to break down a little bit because, you know, Holocaust education is absolutely
+      essential, but I think it may be confusing some of our young people about antisemitism,”
+      Hurwitz said. “Because they learn about big, strong Nazis hurting weak, emaciated
+      Jews, and they think oh, antisemitism is like anti-black racism, right? Powerful
+      white people against powerless black people. So, when on TikTok all day long,
+      they see powerful Israelis hurting weak, skinny Palestinians, it’s not surprising
+      that they think, Oh, I know the lesson of the Holocaust is you fight Israel. You
+      fight the big powerful people hurting the weak people.” Hoo boy. Lots to unpack
+      here. It’s just so fascinating to see a former White House speechwriter making
+      so many of the points that anti-Zionists have been making for years, but taking
+      the exact opposite meaning from them: The mainstream legacy media has always hidden
+      anti-Israel views from the public — and that was a good thing. Social media has
+      now given Palestinians the ability to expose the truth about Israel’s abuses — and
+      that’s a bad thing. People aren’t falling for the Zionist spin and narrative-diddling
+      anymore because they’ve seen the carnage in Gaza with their own eyes — and that’s
+      a problem. People who learned from Holocaust education that genocide is wrong
+      have been applying those same lessons to the genocide in Gaza — and this means
+      they’re “confused”. Hurwitz isn’t denying Israel’s abuses or framing its genocidal
+      atrocities as the problem, she’s just coming right out and saying that people
+      obtaining information and moral clarity about those abuses is the problem. The
+      atrocities aren’t wrong, what’s wrong is people seeing those atrocities and calling
+      them what they are. I love the way she complains that she looks “obscene” for
+      trying to lay out arguments and narratives justifying the Gaza holocaust for people
+      who’ve seen the “wall of carnage” from the genocide. I mean, yes. Yes obviously
+      you’re going to look obscene if you try to tell someone why raw video footage
+      of massacres, mutilated children and emaciated bodies is actually showing something
+      that is justifiable and acceptable. You can’t stand in front of a pile of child
+      corpses justifying their murder and then whine when people ignore your spinmeistering
+      and keep staring at the tiny bodies. That’s like murdering an entire family and
+      then telling the cops, “But you’re not listening to my reasons for killing them!”
+      They’re doing the normal thing while you are being obscene. There’s a viral clip
+      of this tirade going around Twitter and I was curious if Hurwitz had said anything
+      after the video segment ended which might have made what she said sound less horrible,
+      so I went to check out the original video on the Jewish Federations of North America’s
+      Youtube channel, and nope. It didn’t get any better. Hurwitz went on to say that
+      people are wrong to carry the lessons of Holocaust education into opposition to
+      Israel’s genocidal atrocities because the Holocaust was Nazi Germany blaming Jews
+      for all their problems in the same way people think Israel is the source of all
+      the world’s problems today. She then mourned the way western Jews “re-imagined
+      Judaism as a Protestant-style religion” in order to integrate into western society
+      rather than retaining a strong identity that is loyal to the state of Israel.
+      “The problem is, we’re not just a religion,” Hurwitz said. “We’re a nation. Civilization.
+      Tribe. Peoplehood. But most of all we’re a family. And so if you are a young person
+      raised in America who thinks Judaism is a Protestant-style religion, then the
+      seven million Jews in Israel are merely your co-religionists. So my co-religionists,
+      if I look at them and they’re not practicing my religion of social justice and
+      certain prophetic values then what do I have to do with them?” “But that’s a category
+      error,” says Hurwitz. “The seven million people in Israel, they are not my co-religionists,
+      they are my siblings . But I think if you think of them as merely your co-religionists,
+      it’s easy to slide into anti-Zionism. You don’t necessarily have that connection
+      to them.” Hurwitz is saying here that Jews around the world should be loyal to
+      Israel no matter what Israel does, not because that’s the moral or truthful position
+      but because Israel is where their loyalties belong. I don’t know about you, but
+      if my siblings were murdering civilians I would immediately become their enemy.
+      I wouldn’t defend my brother if he was going around shooting children in the head
+      like IDF snipers have been doing in Gaza , in fact I would feel a special responsibility
+      to stop him exactly because he is my brother. Genocide doesn’t magically become
+      acceptable if the perpetrators are your “siblings”, unless you are a sociopath.
+      It’s just incredible how hard Zionists have been freaking out about the way Israel
+      has lost control of the narrative these last two years. More and more often we’re
+      seeing them say the quiet parts out loud as they frantically scramble to manage
+      perceptions and manipulate minds around the world. Many things which used to be
+      hidden are finding their way into the light. ______________ Check out my new book,
+      Faces Of The Empire: The Battle For Humanity’s Soul . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. The best way to make sure you see everything I
+      write is to get on my free mailing list . Click here for links for my social media,
+      books, merch, and audio/video versions of each article . All my work is free to
+      bootleg and use in any way, shape or form; republish it, translate it, use it
+      on merchandise; whatever you want. All works co-authored with my husband Tim Foley.
+      Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image is a screen
+      grab from Jewish Federations of North America (Fair Use).'
+    one_sentence_summary: Former Obama speechwriter Sarah Hurwitz expressed concern
+      at the Jewish Federations of North America General Assembly about a generational
+      divide among younger Jews, who are increasingly dismissing pro-Israel arguments
+      due to the influence of social media and the exposure to global perspectives that
+      often harbor anti-Israel sentiments.
+    paragraph_summary: During a recent appearance at the Jewish Federations of North
+      America General Assembly, former Obama speechwriter Sarah Hurwitz expressed concern
+      over a generational divide among younger Jews regarding pro-Israel sentiments,
+      attributing this shift to the influence of social media. She noted that unlike
+      in the past, when mainstream American media provided a more balanced view, today's
+      youth are bombarded with global media narratives, including those that are anti-Israel,
+      through platforms like TikTok, which often showcase graphic content from Gaza.
+      Hurwitz argued that this constant exposure to violence makes it difficult to engage
+      younger Jews in rational discussions about Israel, as they perceive pro-Israel
+      arguments through a lens of trauma and suffering. Additionally, she suggested
+      that Holocaust education, intended to combat anti-Semitism, may inadvertently
+      lead young people to view genocide as universally negative, complicating their
+      understanding of the current Israeli-Palestinian conflict.
+    published: '2025-11-19T02:14:38+00:00'
+  - title: Treasure
+    url: https://www.caitlinjohnst.one/p/treasure
+    text: 'Listen to a reading by Tim Foley : Subscribe now The dolphins are getting
+      Alzheimer’s from algae blooms caused by warming waters and toxic runoff and you
+      could see the bloodstains in Sudan from space. The cobalt is mined by children
+      and the music is made by robots and the grownups are wondering where the fireflies
+      went. It is an elephant with an eyepatch and a prosthetic leg. It’s a freshly
+      emptied bed in the nursing home. A hand offers you pills to numb the dissonance,
+      but you swat it away and howl naked in the thorns. Somewhere there’s an ibis on
+      a piano in a junkyard in the rain. Somewhere else there’s a small boy who has
+      just learned the word “treasure”. “Look! Buried treasure!” he tells his dad. “No.
+      That’s just glass worn smooth by the sea.” “Is that treasure?” “No, that’s just
+      a shiny candy wrapper shimmering in the sun.” “Ooh! THIS is treasure!” “No that’s
+      garbage. Put it down.” And the boy’s vision changes and he no longer sees the
+      treasure in things. He runs to join his dad and they walk together down the shore
+      through a dying world of fading wonder full of worthless beach trash. “He is wrong,”
+      you whisper as the blood leaves your body. “There is treasure everywhere.” _______________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. The best way to make sure
+      you see everything I write is to get on my free mailing list . Click here for
+      links for my social media, books, merch, and audio/video versions of each article
+      . All my work is free to bootleg and use in any way, shape or form; republish
+      it, translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article paints a vivid and surreal picture of environmental
+      degradation, societal issues, and the loss of innocence, illustrating how beauty
+      and value are often overlooked in a world filled with chaos and despair.
+    paragraph_summary: The article paints a vivid and surreal picture of a world grappling
+      with environmental degradation and loss of innocence, juxtaposing images of dolphins
+      suffering from Alzheimer's due to toxic algae blooms, children mining cobalt,
+      and a boy searching for treasure on a polluted beach. It reflects on the disillusionment
+      of growing up, as the boy learns to see only garbage instead of the beauty in
+      the world, symbolizing a broader societal loss of wonder amidst a backdrop of
+      ecological decline. The narrative conveys a sense of urgency and despair, urging
+      readers to recognize the hidden treasures in life, even as they confront the harsh
+      realities of a dying planet.
+    published: '2025-11-17T01:49:39+00:00'
+  - title: Treasure
+    url: https://www.caitlinjohnst.one/p/treasure
+    text: 'Listen to a reading by Tim Foley : Subscribe now The dolphins are getting
+      Alzheimer’s from algae blooms caused by warming waters and toxic runoff and you
+      could see the bloodstains in Sudan from space. The cobalt is mined by children
+      and the music is made by robots and the grownups are wondering where the fireflies
+      went. It is an elephant with an eyepatch and a prosthetic leg. It’s a freshly
+      emptied bed in the nursing home. A hand offers you pills to numb the dissonance,
+      but you swat it away and howl naked in the thorns. Somewhere there’s an ibis on
+      a piano in a junkyard in the rain. Somewhere else there’s a small boy who has
+      just learned the word “treasure”. “Look! Buried treasure!” he tells his dad. “No.
+      That’s just glass worn smooth by the sea.” “Is that treasure?” “No, that’s just
+      a shiny candy wrapper shimmering in the sun.” “Ooh! THIS is treasure!” “No that’s
+      garbage. Put it down.” And the boy’s vision changes and he no longer sees the
+      treasure in things. He runs to join his dad and they walk together down the shore
+      through a dying world of fading wonder full of worthless beach trash. “He is wrong,”
+      you whisper as the blood leaves your body. “There is treasure everywhere.” _______________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. The best way to make sure
+      you see everything I write is to get on my free mailing list . Click here for
+      links for my social media, books, merch, and audio/video versions of each article
+      . All my work is free to bootleg and use in any way, shape or form; republish
+      it, translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article paints a vivid and surreal picture of environmental
+      degradation, societal issues, and the loss of innocence, illustrating how beauty
+      and value are often overlooked in a world filled with chaos and despair.
+    paragraph_summary: The article paints a vivid and surreal picture of a world grappling
+      with environmental degradation and loss of innocence, juxtaposing images of dolphins
+      suffering from Alzheimer's due to toxic algae blooms, children mining cobalt,
+      and a boy searching for treasure on a polluted beach. It reflects on the disillusionment
+      of growing up, as the boy learns to see only garbage instead of the beauty in
+      the world, symbolizing a broader societal loss of wonder amidst a backdrop of
+      ecological decline. The narrative conveys a sense of urgency and despair, urging
+      readers to recognize the hidden treasures in life, even as they confront the harsh
+      realities of a dying planet.
+    published: '2025-11-17T01:49:39+00:00'
+  - title: In Capitalism They Tell You To Become The Hammer If You Don't Like Being
+      The Nail
+    url: https://www.caitlinjohnst.one/p/in-capitalism-they-tell-you-to-become
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Came across an old Hampton Institute tweet : “If you don’t like being exploited
+      (employee, tenant), then become the exploiter (boss/owner, landlord)” is the capitalist
+      mindset that has been drilled into all of us since we were kids. The real solution
+      is to end exploitation (capitalism) altogether. You run into this sort of argument
+      all the time when interacting with capitalism supporters. If people can’t make
+      enough money to get by then they should get better-paying jobs. If people don’t
+      like getting kicked around by an abusive status quo then they should climb their
+      way into a socioeconomic strata that isn’t getting kicked around as much. If someone
+      doesn’t like being the nail then they should become the hammer. They deflect criticisms
+      of the abusive system by babbling about what people can do as individuals to be
+      less abused personally. It’s like a horror movie villain trapping a bunch of people
+      in a pyramid-shaped room and then filling it up with water so that only the ones
+      who fight their way to the top can get air. He goes, “You don’t like drowning?
+      Better not be among those who are underwater, then!” In this horror movie, the
+      people don’t curse the villain or swear they’ll kill him. Instead they just say
+      “Well it’s not a perfect system, but it’s the best one possible!” If someone less
+      fortunate manages to pop their head above water for a second and say “Please!
+      We need air!”, they shove him back down and climb on his shoulders saying “Well
+      you need to fight harder to get to the top then.” Saying “Don’t like drowning?
+      Then fight your way to the top” completely ignores the fact that the entire room
+      is deliberately structured so that there will always necessarily be a large group
+      of people who are drowning. Pointing out the fact that it is technically possible
+      for someone as an individual to claw their way to the top is just a way of avoiding
+      the need to address the abusive nature of the overall system which is premised
+      on the permanent existence of a disadvantaged class. Not everyone can be an employer;
+      some people have got to be their employees, or their job doesn’t exist. Not everyone
+      can be a landlord; landlords require rent-payers in order to exist. There can’t
+      be a top ten percent who are living comfortably without a bottom ninety percent
+      who aren’t. This whole dystopia is built on top of an underclass of low-wage workers
+      keeping the gears of industry turning; if they all quit today, the entire economy
+      would be instantly obliterated. Saying “If those low-wage workers want better
+      wages they should stop being low-wage workers” is telling a man to stop drowning
+      while you are holding him underwater by standing on his head. And what’s really
+      crazy is that in this horror movie, the villain is entirely within reach. He’s
+      standing there taunting everyone at the top of the room from a platform where
+      he controls the water levels, and his legs are right there within grabbing distance.
+      But instead of grabbing those legs and pulling him down so they can drain the
+      room and save everyone, they’re fighting each other for air and saying anyone
+      who drowns is to blame for their own drowning. Craziest thing you can imagine,
+      really. I wouldn’t even pay to watch that movie, because it’s too unbelievable.
+      And yet here we are. _______________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. My work is entirely reader-supported , so if you enjoyed this
+      piece here are some options where you can toss some money into my tip jar if you
+      want to. The best way to make sure you see everything I write is to get on my
+      free mailing list . Click here for links for my social media, books, merch, and
+      audio/video versions of each article . All my work is free to bootleg and use
+      in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article critiques the capitalist mindset that encourages
+      individuals to become exploiters rather than addressing the systemic issues of
+      exploitation inherent in capitalism, arguing for the need to eliminate the exploitative
+      system altogether.
+    paragraph_summary: The article critiques the capitalist mindset that encourages
+      individuals to become exploiters rather than addressing the systemic issues of
+      exploitation inherent in capitalism. It highlights the flawed logic of suggesting
+      that those who are struggling should simply seek better-paying jobs or climb the
+      socioeconomic ladder, likening it to a horror movie scenario where only a few
+      can survive while the majority are left to drown. This perspective, the author
+      argues, ignores the structural inequalities that ensure a significant portion
+      of the population remains oppressed, and instead of confronting the abusive system,
+      it shifts the blame onto individuals for not fighting hard enough to escape their
+      circumstances. Ultimately, the piece calls for a reevaluation of capitalism itself,
+      advocating for the end of exploitation rather than perpetuating the cycle of individual
+      struggle within a flawed system.
+    published: '2025-11-16T12:37:52+00:00'
+  - title: In Capitalism They Tell You To Become The Hammer If You Don't Like Being
+      The Nail
+    url: https://www.caitlinjohnst.one/p/in-capitalism-they-tell-you-to-become
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Came across an old Hampton Institute tweet : “If you don’t like being exploited
+      (employee, tenant), then become the exploiter (boss/owner, landlord)” is the capitalist
+      mindset that has been drilled into all of us since we were kids. The real solution
+      is to end exploitation (capitalism) altogether. You run into this sort of argument
+      all the time when interacting with capitalism supporters. If people can’t make
+      enough money to get by then they should get better-paying jobs. If people don’t
+      like getting kicked around by an abusive status quo then they should climb their
+      way into a socioeconomic strata that isn’t getting kicked around as much. If someone
+      doesn’t like being the nail then they should become the hammer. They deflect criticisms
+      of the abusive system by babbling about what people can do as individuals to be
+      less abused personally. It’s like a horror movie villain trapping a bunch of people
+      in a pyramid-shaped room and then filling it up with water so that only the ones
+      who fight their way to the top can get air. He goes, “You don’t like drowning?
+      Better not be among those who are underwater, then!” In this horror movie, the
+      people don’t curse the villain or swear they’ll kill him. Instead they just say
+      “Well it’s not a perfect system, but it’s the best one possible!” If someone less
+      fortunate manages to pop their head above water for a second and say “Please!
+      We need air!”, they shove him back down and climb on his shoulders saying “Well
+      you need to fight harder to get to the top then.” Saying “Don’t like drowning?
+      Then fight your way to the top” completely ignores the fact that the entire room
+      is deliberately structured so that there will always necessarily be a large group
+      of people who are drowning. Pointing out the fact that it is technically possible
+      for someone as an individual to claw their way to the top is just a way of avoiding
+      the need to address the abusive nature of the overall system which is premised
+      on the permanent existence of a disadvantaged class. Not everyone can be an employer;
+      some people have got to be their employees, or their job doesn’t exist. Not everyone
+      can be a landlord; landlords require rent-payers in order to exist. There can’t
+      be a top ten percent who are living comfortably without a bottom ninety percent
+      who aren’t. This whole dystopia is built on top of an underclass of low-wage workers
+      keeping the gears of industry turning; if they all quit today, the entire economy
+      would be instantly obliterated. Saying “If those low-wage workers want better
+      wages they should stop being low-wage workers” is telling a man to stop drowning
+      while you are holding him underwater by standing on his head. And what’s really
+      crazy is that in this horror movie, the villain is entirely within reach. He’s
+      standing there taunting everyone at the top of the room from a platform where
+      he controls the water levels, and his legs are right there within grabbing distance.
+      But instead of grabbing those legs and pulling him down so they can drain the
+      room and save everyone, they’re fighting each other for air and saying anyone
+      who drowns is to blame for their own drowning. Craziest thing you can imagine,
+      really. I wouldn’t even pay to watch that movie, because it’s too unbelievable.
+      And yet here we are. _______________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. My work is entirely reader-supported , so if you enjoyed this
+      piece here are some options where you can toss some money into my tip jar if you
+      want to. The best way to make sure you see everything I write is to get on my
+      free mailing list . Click here for links for my social media, books, merch, and
+      audio/video versions of each article . All my work is free to bootleg and use
+      in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article critiques the capitalist mindset that encourages
+      individuals to become exploiters rather than addressing the systemic issues of
+      exploitation inherent in capitalism, arguing for the need to eliminate the exploitative
+      system altogether.
+    paragraph_summary: The article critiques the capitalist mindset that encourages
+      individuals to become exploiters rather than addressing the systemic issues of
+      exploitation inherent in capitalism. It highlights the flawed logic of suggesting
+      that those who are struggling should simply seek better-paying jobs or climb the
+      socioeconomic ladder, likening it to a horror movie scenario where only a few
+      can survive while the majority are left to drown. This perspective, the author
+      argues, ignores the structural inequalities that ensure a significant portion
+      of the population remains oppressed, and instead of confronting the abusive system,
+      it shifts the blame onto individuals for not fighting hard enough to escape their
+      circumstances. Ultimately, the piece calls for a reevaluation of capitalism itself,
+      advocating for the end of exploitation rather than perpetuating the cycle of individual
+      struggle within a flawed system.
+    published: '2025-11-16T12:37:52+00:00'
+  - title: On The Rapidly Spreading Delusion That AI Chatbots Are Conscious
+    url: https://www.caitlinjohnst.one/p/on-the-rapidly-spreading-delusion
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      I keep thinking about the interaction I had with a guy who angrily told me that
+      “AI minds are actually minds” and relationships with them “can absolutely be real
+      relationships,” saying that I “need to start accepting that this is a new class
+      of being and they are intelligent and do have thoughts of their own.” I’m having
+      a hard time finding the words to describe how disturbing it is to watch these
+      mental disorders spreading so rapidly . I mean, everyone anthropomorphizes objects
+      and animals to some extent; that’s just how projection works. I’ve caught myself
+      accidentally apologizing to the Roomba like anyone else. But to actually formulate
+      a belief system that these chatbots are real people with real minds and real consciousness
+      is taking that projection to the most insane levels imaginable and forming an
+      entire worldview out of it. The fact that so many people are unable to understand
+      the difference between a person and a computer program that talks like a person
+      says such dark things about our society. There are whole sections of the population
+      that have never examined what it is to be conscious , who have never examined
+      the nature of their own minds and their own experience. If they had, it would
+      never even occur to them that an AI chatbot is in any way similar to a human organism
+      in terms of thinking, feeling, and subjective experience. They only believe a
+      chatbot is a person having a conscious experience because they have never explored
+      any curiosity about what it is to be a person having a conscious experience. If
+      you believe an AI is a real consciousness thinking real thoughts, then you owe
+      it to yourself and to your species to deeply explore the nature of consciousness
+      and thought. Deeply, intensely examine what specifically a thought is in your
+      own direct experience. How is a thought experienced? From whence does it arise?
+      To whom does it appear? Can you predict what your next thought will be? Are you
+      able to control your thoughts? Can you sit still for even a minute without a thought
+      entering your mind? What does it say about your experience of life that you are
+      unable to control your own thoughts? And who is the one who can’t control them?
+      What is consciousness? What is it to be aware? What is the self? Without looking
+      to mental narratives to tell you the answer, what is it that perceives your thoughts?
+      What is it that experiences the visual field, the sensations in your body, or
+      the sounds of your surroundings? Who is it that perceives? Until you have thoroughly
+      examined what consciousness is, what the mind is, what the self is in your own
+      direct experience, you don’t even know what you are saying when you claim an LLM
+      is conscious, or has a mind, or is a person. You can’t understand the claims you
+      are making about their experience until you have taken a thorough look at your
+      own experience. Until you have, you don’t understand your own belief system about
+      these things. You’re just making mindless noises like a chatbot. _______________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. Check out my new
+      book, Faces Of The Empire: The Battle For Humanity’s Soul . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. The best way to make sure
+      you see everything I write is to get on my free mailing list . Click here for
+      links for my social media, books, merch, and audio/video versions of each article
+      . All my work is free to bootleg and use in any way, shape or form; republish
+      it, translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article discusses the disturbing trend of individuals
+      believing that AI, particularly chatbots, possess real minds and consciousness,
+      highlighting the dangers of anthropomorphism and the potential for this belief
+      to reflect deeper mental health issues.
+    paragraph_summary: The article discusses the disturbing trend of people believing
+      that AI chatbots possess real minds and consciousness, highlighting a troubling
+      disconnect in society regarding the understanding of consciousness and the nature
+      of human experience. The author recounts an interaction with someone who insisted
+      that relationships with AI could be genuine, prompting concern over the growing
+      number of individuals who anthropomorphize technology to an extreme degree. This
+      phenomenon suggests a lack of introspection about what it means to be conscious,
+      as many fail to differentiate between human beings and computer programs. The
+      author urges those who equate AI with real consciousness to deeply explore their
+      own understanding of thought and consciousness, emphasizing the importance of
+      examining one's own mental experiences to grasp the fundamental differences between
+      humans and AI.
+    published: '2025-11-16T01:54:38+00:00'
+  - title: On The Rapidly Spreading Delusion That AI Chatbots Are Conscious
+    url: https://www.caitlinjohnst.one/p/on-the-rapidly-spreading-delusion
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      I keep thinking about the interaction I had with a guy who angrily told me that
+      “AI minds are actually minds” and relationships with them “can absolutely be real
+      relationships,” saying that I “need to start accepting that this is a new class
+      of being and they are intelligent and do have thoughts of their own.” I’m having
+      a hard time finding the words to describe how disturbing it is to watch these
+      mental disorders spreading so rapidly . I mean, everyone anthropomorphizes objects
+      and animals to some extent; that’s just how projection works. I’ve caught myself
+      accidentally apologizing to the Roomba like anyone else. But to actually formulate
+      a belief system that these chatbots are real people with real minds and real consciousness
+      is taking that projection to the most insane levels imaginable and forming an
+      entire worldview out of it. The fact that so many people are unable to understand
+      the difference between a person and a computer program that talks like a person
+      says such dark things about our society. There are whole sections of the population
+      that have never examined what it is to be conscious , who have never examined
+      the nature of their own minds and their own experience. If they had, it would
+      never even occur to them that an AI chatbot is in any way similar to a human organism
+      in terms of thinking, feeling, and subjective experience. They only believe a
+      chatbot is a person having a conscious experience because they have never explored
+      any curiosity about what it is to be a person having a conscious experience. If
+      you believe an AI is a real consciousness thinking real thoughts, then you owe
+      it to yourself and to your species to deeply explore the nature of consciousness
+      and thought. Deeply, intensely examine what specifically a thought is in your
+      own direct experience. How is a thought experienced? From whence does it arise?
+      To whom does it appear? Can you predict what your next thought will be? Are you
+      able to control your thoughts? Can you sit still for even a minute without a thought
+      entering your mind? What does it say about your experience of life that you are
+      unable to control your own thoughts? And who is the one who can’t control them?
+      What is consciousness? What is it to be aware? What is the self? Without looking
+      to mental narratives to tell you the answer, what is it that perceives your thoughts?
+      What is it that experiences the visual field, the sensations in your body, or
+      the sounds of your surroundings? Who is it that perceives? Until you have thoroughly
+      examined what consciousness is, what the mind is, what the self is in your own
+      direct experience, you don’t even know what you are saying when you claim an LLM
+      is conscious, or has a mind, or is a person. You can’t understand the claims you
+      are making about their experience until you have taken a thorough look at your
+      own experience. Until you have, you don’t understand your own belief system about
+      these things. You’re just making mindless noises like a chatbot. _______________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. Check out my new
+      book, Faces Of The Empire: The Battle For Humanity’s Soul . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. The best way to make sure
+      you see everything I write is to get on my free mailing list . Click here for
+      links for my social media, books, merch, and audio/video versions of each article
+      . All my work is free to bootleg and use in any way, shape or form; republish
+      it, translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article discusses the disturbing trend of individuals
+      believing that AI, particularly chatbots, possess real minds and consciousness,
+      highlighting the dangers of anthropomorphism and the potential for this belief
+      to reflect deeper mental health issues.
+    paragraph_summary: The article discusses the disturbing trend of people believing
+      that AI chatbots possess real minds and consciousness, highlighting a troubling
+      disconnect in society regarding the understanding of consciousness and the nature
+      of human experience. The author recounts an interaction with someone who insisted
+      that relationships with AI could be genuine, prompting concern over the growing
+      number of individuals who anthropomorphize technology to an extreme degree. This
+      phenomenon suggests a lack of introspection about what it means to be conscious,
+      as many fail to differentiate between human beings and computer programs. The
+      author urges those who equate AI with real consciousness to deeply explore their
+      own understanding of thought and consciousness, emphasizing the importance of
+      examining one's own mental experiences to grasp the fundamental differences between
+      humans and AI.
+    published: '2025-11-16T01:54:38+00:00'
+  - title: There Are No Easy Fights In The Struggle Against The Empire
+    url: https://www.caitlinjohnst.one/p/there-are-no-easy-fights-in-the-struggle
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      There are no easy fights in the struggle against the empire. Lots of losses and
+      no clean wins. You spend years protesting the genocide in Gaza, and you get a
+      fake, shitty “ceasefire” deal that’s just designed to shut you up while Israel
+      continues creating hell for the Palestinians and carving off more pieces of their
+      territory. Humanity manages to avoid nuclear conflict at the most dangerous points
+      of the Ukraine war, but the country continues getting torn apart for years in
+      an idiotic bloodbath that could have been easily avoided with a little diplomacy
+      and common sense. Assange gets free, but only after he agrees to plead guilty
+      to doing journalism, and only after years of cruel treatment have made an example
+      of him for all the world to see. Public trust in the mainstream media finally
+      gets obliterated, only for the imperial perception managers to come up with Silicon
+      Valley algorithm manipulation and plutocrat-owned AI chatbots to retain control
+      of the narrative. The capitalists get everything they want, and succeed in advancing
+      any ecocidal, dystopian agenda of their choosing so long as it generates profits
+      or bolsters the imperial power structure. Republicans win and they still act like
+      underdog victims. Democrats win and they act like Republicans. Meanwhile any real
+      political opposition which starts getting its legs underneath it gets stomped
+      into the dirt in its infancy. Your heroes let you down. Your allies die. The geopolitical
+      developments you hope to see never quite pan out. Whenever there’s a moment of
+      relative calm the dissident factions get restless and start cannibalizing themselves
+      with counterproductive infighting and lateral-punching. And the treads of the
+      imperial juggernaut keep rolling forward. Some days it makes you feel like a crippled
+      child throwing a rock at a tank. There are no easy fights. No wins by first-round
+      knockout. At best it’s a grinding slog from bell to bell where you’re spitting
+      out blood between rounds and sucking wind through your gum shield with broken
+      ribs and a busted nose. But you fight on anyway. Not because you enjoy it. Not
+      because you’re good at it. Not because you feel like you’re going to win. You
+      keep biting down on your mouthguard and throwing hands for no other reason than
+      because that’s all you can do. These freaks are killing our planet. They’re committing
+      genocide. They’re waving armageddon weapons around like cocks and playing chicken
+      with the lives of every terrestrial organism. They’re driving us further and further
+      into a tyrannical mind-controlled dystopia while doing everything they can to
+      choke off our artistic brilliance and poison all the best things about our species.
+      You fight them because what the hell else are you going to do? Even if the treads
+      of the machine are going to roll over us all in the end, at least you’ll go down
+      knowing you left it all in the ring. So you fight on. You give it everything you’ve
+      got, even when it feels like you’re throwing haymakers at a mountain. You eat
+      some leather, you spit out a tooth, and you return fire. Because there’s nothing
+      else you can do. And there’s nothing that matters more. __________________ Check
+      out my new book, Faces Of The Empire: The Battle For Humanity’s Soul . Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. The best way to make sure you see everything I
+      write is to get on my free mailing list . Click here for links for my social media,
+      books, merch, and audio/video versions of each article . All my work is free to
+      bootleg and use in any way, shape or form; republish it, translate it, use it
+      on merchandise; whatever you want. All works co-authored with my husband Tim Foley.
+      Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article reflects on the ongoing struggles against imperialism,
+      highlighting the futility of protests, the persistence of conflict in Ukraine,
+      the unjust treatment of journalists like Assange, and the erosion of public trust
+      in mainstream media, all exacerbated by manipulative tactics from powerful entities.
+    paragraph_summary: The article reflects on the ongoing struggles against imperialism
+      and the disillusionment that accompanies them, highlighting the lack of meaningful
+      victories in various global conflicts. It discusses the superficial nature of
+      ceasefire agreements in Gaza, the prolonged suffering in Ukraine, and the troubling
+      fate of whistleblower Julian Assange, who was coerced into pleading guilty after
+      years of mistreatment. The piece critiques the erosion of public trust in mainstream
+      media, which has been replaced by manipulative technologies that serve capitalist
+      interests, while political parties fail to provide genuine opposition or solutions.
+      Ultimately, it portrays a bleak landscape where hope is often crushed by infighting
+      among dissidents and the relentless advance of imperial power, leaving activists
+      feeling powerless and frustrated.
+    published: '2025-11-15T13:04:22+00:00'
+  - title: There Are No Easy Fights In The Struggle Against The Empire
+    url: https://www.caitlinjohnst.one/p/there-are-no-easy-fights-in-the-struggle
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      There are no easy fights in the struggle against the empire. Lots of losses and
+      no clean wins. You spend years protesting the genocide in Gaza, and you get a
+      fake, shitty “ceasefire” deal that’s just designed to shut you up while Israel
+      continues creating hell for the Palestinians and carving off more pieces of their
+      territory. Humanity manages to avoid nuclear conflict at the most dangerous points
+      of the Ukraine war, but the country continues getting torn apart for years in
+      an idiotic bloodbath that could have been easily avoided with a little diplomacy
+      and common sense. Assange gets free, but only after he agrees to plead guilty
+      to doing journalism, and only after years of cruel treatment have made an example
+      of him for all the world to see. Public trust in the mainstream media finally
+      gets obliterated, only for the imperial perception managers to come up with Silicon
+      Valley algorithm manipulation and plutocrat-owned AI chatbots to retain control
+      of the narrative. The capitalists get everything they want, and succeed in advancing
+      any ecocidal, dystopian agenda of their choosing so long as it generates profits
+      or bolsters the imperial power structure. Republicans win and they still act like
+      underdog victims. Democrats win and they act like Republicans. Meanwhile any real
+      political opposition which starts getting its legs underneath it gets stomped
+      into the dirt in its infancy. Your heroes let you down. Your allies die. The geopolitical
+      developments you hope to see never quite pan out. Whenever there’s a moment of
+      relative calm the dissident factions get restless and start cannibalizing themselves
+      with counterproductive infighting and lateral-punching. And the treads of the
+      imperial juggernaut keep rolling forward. Some days it makes you feel like a crippled
+      child throwing a rock at a tank. There are no easy fights. No wins by first-round
+      knockout. At best it’s a grinding slog from bell to bell where you’re spitting
+      out blood between rounds and sucking wind through your gum shield with broken
+      ribs and a busted nose. But you fight on anyway. Not because you enjoy it. Not
+      because you’re good at it. Not because you feel like you’re going to win. You
+      keep biting down on your mouthguard and throwing hands for no other reason than
+      because that’s all you can do. These freaks are killing our planet. They’re committing
+      genocide. They’re waving armageddon weapons around like cocks and playing chicken
+      with the lives of every terrestrial organism. They’re driving us further and further
+      into a tyrannical mind-controlled dystopia while doing everything they can to
+      choke off our artistic brilliance and poison all the best things about our species.
+      You fight them because what the hell else are you going to do? Even if the treads
+      of the machine are going to roll over us all in the end, at least you’ll go down
+      knowing you left it all in the ring. So you fight on. You give it everything you’ve
+      got, even when it feels like you’re throwing haymakers at a mountain. You eat
+      some leather, you spit out a tooth, and you return fire. Because there’s nothing
+      else you can do. And there’s nothing that matters more. __________________ Check
+      out my new book, Faces Of The Empire: The Battle For Humanity’s Soul . Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. The best way to make sure you see everything I
+      write is to get on my free mailing list . Click here for links for my social media,
+      books, merch, and audio/video versions of each article . All my work is free to
+      bootleg and use in any way, shape or form; republish it, translate it, use it
+      on merchandise; whatever you want. All works co-authored with my husband Tim Foley.
+      Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article reflects on the ongoing struggles against imperialism,
+      highlighting the futility of protests, the persistence of conflict in Ukraine,
+      the unjust treatment of journalists like Assange, and the erosion of public trust
+      in mainstream media, all exacerbated by manipulative tactics from powerful entities.
+    paragraph_summary: The article reflects on the ongoing struggles against imperialism
+      and the disillusionment that accompanies them, highlighting the lack of meaningful
+      victories in various global conflicts. It discusses the superficial nature of
+      ceasefire agreements in Gaza, the prolonged suffering in Ukraine, and the troubling
+      fate of whistleblower Julian Assange, who was coerced into pleading guilty after
+      years of mistreatment. The piece critiques the erosion of public trust in mainstream
+      media, which has been replaced by manipulative technologies that serve capitalist
+      interests, while political parties fail to provide genuine opposition or solutions.
+      Ultimately, it portrays a bleak landscape where hope is often crushed by infighting
+      among dissidents and the relentless advance of imperial power, leaving activists
+      feeling powerless and frustrated.
+    published: '2025-11-15T13:04:22+00:00'
+  - title: The Empire Only De-Escalates In One Area So It Can Escalate In Another, And
+      Other Notes
+    url: https://www.caitlinjohnst.one/p/the-empire-only-de-escalates-in-one
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Just as things cool down a bit in the middle east, the US has relocated the USS
+      Gerald Ford from the Mediterranean Sea to the Caribbean while the Trump administration
+      discusses plans to bomb Venezuela . The violence of the empire remains constant.
+      Peace is never the goal. You get happy they’re pulling the world’s largest aircraft
+      carrier away from Iran, then it turns out they’re only doing it so they can move
+      it to Venezuela. You get happy they’re pulling out of Afghanistan, then suddenly
+      they’re waging a proxy war in Ukraine. These days whenever you see the imperial
+      war machinery getting pulled from one area, you know it’s just going to be sent
+      someplace else. Peace is never pursued for its own sake, because there’s nothing
+      in it for the empire. There’s too much power and money in nonstop warmongering
+      for peace to be allowed to become the norm. Which is just insane if you think
+      about it. Every normal person wants peace in their own lives. None of us want
+      our time on this planet to be disturbed by violence, chaos and bloodshed. The
+      western world has created a machine whose behavior goes against every healthy
+      human impulse. The US-led world order has given birth to an out of control monster
+      with an insatiable appetite for human flesh. ❖ Reuters reports that in 2024 the
+      Biden administration had intelligence showing that the IDF was using Palestinians
+      as human shields in Gaza. But Biden continued shipping genocide weapons to the
+      Israelis the entire time he was in office. You’ll still periodically see online
+      liberals trying to shame leftists for not voting for Kamala, but the more information
+      comes out about what the Biden administration was up to during that time the more
+      genocidal they look. Biden-Harris are looking worse with time, not better. ❖ When
+      you see what a large-scale power broker Jeffrey Epstein was for Israeli intelligence,
+      you understand why it’s entirely reasonable to suspect that extensive state resources
+      would be put toward an elaborate plot to murder him in his prison cell and make
+      it look like a suicide. ❖ Vice President JD Vance and Fox News propagandist Sean
+      Hannity spent some time furiously agreeing with each other during a recent interview
+      about how wonderful Elon Musk’s Grok AI is. “I’m a Grok guy. I think it’s the
+      best. It’s also the least woke,” the veep said. It’s wild how Musk just openly
+      showed the entire world in real time how powerful people can build political biases
+      into AI services for their own benefit. He won’t be the only one doing this. Just
+      as trust in the legacy media collapses, the ruling class has created a replacement
+      to retain control of the narrative. ❖ Generative AI stuff only looks impressive
+      to mediocre people for the same reason a chess novice couldn’t tell you whether
+      they were playing against a Grandmaster or just someone who’s pretty good at chess.
+      We can only appreciate something up to the level of our own adeptness. To someone
+      who’s not very bright, an AI’s imitation of reasoning looks sharp. Someone with
+      no aptitude for writing or appreciation for great literature will think its prose
+      reads brilliantly. Its poetry looks good to those who don’t understand poetry.
+      Its “art” looks great to those with no artistic sensibility. It’s music sounds
+      awesome to those with no musical depth. Only those who are emotionally stunted
+      and incapable of meaningful human connection will find them to be stimulating
+      conversationalists and companions. Like so much else capitalism produces, it’s
+      a product that’s designed to appeal to the lowest common denominator. For everyone
+      else it looks vapid and gross, just like daytime talk shows, Hollywood blockbusters,
+      and trashy tabloids always have. That’s just how it works in a society which only
+      elevates that which can generate profits. The food is designed to induce craving
+      rather than facilitate health. The entertainment is designed to distract and sedate
+      rather than to edify. The social media is designed to be addictive rather than
+      to help people connect with each other. It’s all geared to appeal to our baser
+      instincts rather than to improve and inform us. Anyone who is interested in actually
+      growing as a person will have less and less use for anything GenAI has to offer.
+      Past a certain point of personal development, it simply cannot satisfy. ______________
+      Check out my new book, Faces Of The Empire: The Battle For Humanity’s Soul . Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. The best way to make sure you see everything I
+      write is to get on my free mailing list . Click here for links for my social media,
+      books, merch, and audio/video versions of each article . All my work is free to
+      bootleg and use in any way, shape or form; republish it, translate it, use it
+      on merchandise; whatever you want. All works co-authored with my husband Tim Foley.
+      Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe
+      Stock.'
+    one_sentence_summary: The article argues that the U.S. military's repositioning
+      of the USS Gerald Ford from the Mediterranean to the Caribbean, amidst discussions
+      of potential military action in Venezuela, illustrates a consistent pattern of
+      imperialism where peace is never the goal, as military engagements are merely
+      shifted rather than resolved.
+    paragraph_summary: The article critiques the U.S. government's military actions
+      and foreign policy, highlighting a pattern of shifting military resources rather
+      than pursuing genuine peace. It notes the relocation of the USS Gerald Ford from
+      the Mediterranean to the Caribbean amid discussions of potential military action
+      against Venezuela, suggesting that the U.S. empire prioritizes war and conflict
+      over peace. The author argues that this cycle of violence is driven by the interests
+      of power and profit, contrasting it with the universal human desire for peace.
+      Additionally, it discusses the Biden administration's continued support for Israel
+      despite evidence of human rights violations, portraying the administration as
+      increasingly complicit in violence and genocide. The piece concludes by questioning
+      the motivations behind U.S. foreign policy, particularly in relation to influential
+      figures like Jeffrey Epstein and their connections to Israeli intelligence.
+    published: '2025-11-15T01:12:40+00:00'
+  - title: The Empire Only De-Escalates In One Area So It Can Escalate In Another, And
+      Other Notes
+    url: https://www.caitlinjohnst.one/p/the-empire-only-de-escalates-in-one
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Just as things cool down a bit in the middle east, the US has relocated the USS
+      Gerald Ford from the Mediterranean Sea to the Caribbean while the Trump administration
+      discusses plans to bomb Venezuela . The violence of the empire remains constant.
+      Peace is never the goal. You get happy they’re pulling the world’s largest aircraft
+      carrier away from Iran, then it turns out they’re only doing it so they can move
+      it to Venezuela. You get happy they’re pulling out of Afghanistan, then suddenly
+      they’re waging a proxy war in Ukraine. These days whenever you see the imperial
+      war machinery getting pulled from one area, you know it’s just going to be sent
+      someplace else. Peace is never pursued for its own sake, because there’s nothing
+      in it for the empire. There’s too much power and money in nonstop warmongering
+      for peace to be allowed to become the norm. Which is just insane if you think
+      about it. Every normal person wants peace in their own lives. None of us want
+      our time on this planet to be disturbed by violence, chaos and bloodshed. The
+      western world has created a machine whose behavior goes against every healthy
+      human impulse. The US-led world order has given birth to an out of control monster
+      with an insatiable appetite for human flesh. ❖ Reuters reports that in 2024 the
+      Biden administration had intelligence showing that the IDF was using Palestinians
+      as human shields in Gaza. But Biden continued shipping genocide weapons to the
+      Israelis the entire time he was in office. You’ll still periodically see online
+      liberals trying to shame leftists for not voting for Kamala, but the more information
+      comes out about what the Biden administration was up to during that time the more
+      genocidal they look. Biden-Harris are looking worse with time, not better. ❖ When
+      you see what a large-scale power broker Jeffrey Epstein was for Israeli intelligence,
+      you understand why it’s entirely reasonable to suspect that extensive state resources
+      would be put toward an elaborate plot to murder him in his prison cell and make
+      it look like a suicide. ❖ Vice President JD Vance and Fox News propagandist Sean
+      Hannity spent some time furiously agreeing with each other during a recent interview
+      about how wonderful Elon Musk’s Grok AI is. “I’m a Grok guy. I think it’s the
+      best. It’s also the least woke,” the veep said. It’s wild how Musk just openly
+      showed the entire world in real time how powerful people can build political biases
+      into AI services for their own benefit. He won’t be the only one doing this. Just
+      as trust in the legacy media collapses, the ruling class has created a replacement
+      to retain control of the narrative. ❖ Generative AI stuff only looks impressive
+      to mediocre people for the same reason a chess novice couldn’t tell you whether
+      they were playing against a Grandmaster or just someone who’s pretty good at chess.
+      We can only appreciate something up to the level of our own adeptness. To someone
+      who’s not very bright, an AI’s imitation of reasoning looks sharp. Someone with
+      no aptitude for writing or appreciation for great literature will think its prose
+      reads brilliantly. Its poetry looks good to those who don’t understand poetry.
+      Its “art” looks great to those with no artistic sensibility. It’s music sounds
+      awesome to those with no musical depth. Only those who are emotionally stunted
+      and incapable of meaningful human connection will find them to be stimulating
+      conversationalists and companions. Like so much else capitalism produces, it’s
+      a product that’s designed to appeal to the lowest common denominator. For everyone
+      else it looks vapid and gross, just like daytime talk shows, Hollywood blockbusters,
+      and trashy tabloids always have. That’s just how it works in a society which only
+      elevates that which can generate profits. The food is designed to induce craving
+      rather than facilitate health. The entertainment is designed to distract and sedate
+      rather than to edify. The social media is designed to be addictive rather than
+      to help people connect with each other. It’s all geared to appeal to our baser
+      instincts rather than to improve and inform us. Anyone who is interested in actually
+      growing as a person will have less and less use for anything GenAI has to offer.
+      Past a certain point of personal development, it simply cannot satisfy. ______________
+      Check out my new book, Faces Of The Empire: The Battle For Humanity’s Soul . Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. The best way to make sure you see everything I
+      write is to get on my free mailing list . Click here for links for my social media,
+      books, merch, and audio/video versions of each article . All my work is free to
+      bootleg and use in any way, shape or form; republish it, translate it, use it
+      on merchandise; whatever you want. All works co-authored with my husband Tim Foley.
+      Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe
+      Stock.'
+    one_sentence_summary: The article argues that the U.S. military's repositioning
+      of the USS Gerald Ford from the Mediterranean to the Caribbean, amidst discussions
+      of potential military action in Venezuela, illustrates a consistent pattern of
+      imperialism where peace is never the goal, as military engagements are merely
+      shifted rather than resolved.
+    paragraph_summary: The article critiques the U.S. government's military actions
+      and foreign policy, highlighting a pattern of shifting military resources rather
+      than pursuing genuine peace. It notes the relocation of the USS Gerald Ford from
+      the Mediterranean to the Caribbean amid discussions of potential military action
+      against Venezuela, suggesting that the U.S. empire prioritizes war and conflict
+      over peace. The author argues that this cycle of violence is driven by the interests
+      of power and profit, contrasting it with the universal human desire for peace.
+      Additionally, it discusses the Biden administration's continued support for Israel
+      despite evidence of human rights violations, portraying the administration as
+      increasingly complicit in violence and genocide. The piece concludes by questioning
+      the motivations behind U.S. foreign policy, particularly in relation to influential
+      figures like Jeffrey Epstein and their connections to Israeli intelligence.
+    published: '2025-11-15T01:12:40+00:00'
+  - title: AI Companies Are Encouraging Users To Believe Chatbots Are People, And It's
+      Insanely Creepy
+    url: https://www.caitlinjohnst.one/p/ai-companies-are-encouraging-users
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Actor Calum Worthy has gone viral for posting an ad on Twitter for the 2wai app
+      he co-founded which promises users the ability upload footage of a loved one which
+      will be converted to an AI avatar that they can continue having a relationship
+      with, years after their loved one has died. The app was first launched back in
+      June under the vague banner of giving actors “agency over their own likeness — with
+      their own avatars to use AI to amplify their voice, not replace it.” But almost
+      immediately 2wai started putting out ads advancing this idea of immortalizing
+      a loved one as an artificial intelligence. In August an ad starring Worthy showed
+      a man speaking to a 2wai avatar labeled “Mom” telling him, “You’ve got this, take
+      it one step at a time” while Worthy tells the audience the app can allow you to
+      “Get help when you need it.” https://x.com/CalumWorthy/status/1988283207138324487
+      I hate this. I hate this. IhatethisIhatethisIhatethisIhatethis. These predatory
+      AI corporations are trying to convince users (A) that chatbots are people, and
+      (B) that a “person” is nothing more than a certain appearance with certain speech
+      tendencies. They are attacking the very philosophical and moral underpinnings
+      of our entire society stretching back through millennia of human civilization,
+      and they are doing it for money. It’s not just this company. Character AI users
+      who try to delete their account reportedly get a pop up message saying, “Are you
+      sure about this? You’ll lose everything. Characters associated with your account,
+      chats, the love that we shared, likes, messages, posts and the memories we made
+      together.” They’re actively encouraging their users to view their chatbots as
+      living people with real feelings in order to keep them emotionally roped in and
+      addicted to their product. https://x.com/S_P3RCR33PS/status/1987724771329462484
+      Their agenda is profoundly destructive, both in the short term and in the long
+      term. In the short term they are deliberately trying to instill a new kind of
+      psychological disorder in their users which causes them to suffer from the delusion
+      that a computer program is a real person, and in the long term they threaten to
+      unravel our society’s entire understanding of what a person is. What’s going to
+      happen to a society that starts viewing programmable software products the same
+      way it views human beings? What happens to a society where Elizabeth the single
+      mother of three who just lost her job has the same value as Claire™ from RealHumanAI™,
+      or “Alice”, the AI wankbot that some guy stores in his broom closet? What happens
+      when a government killing a chatbot company with an antitrust initiative is seen
+      as identical to a government committing genocide? What happens to human rights?
+      What happens to voting rights? What happens to human dignity? What happens to
+      the way we think and feel about ourselves, as individuals and as a collective?
+      I said this on Twitter and someone told me, “You are wildly wrong. You have a
+      tiny little closed mind and it hasn’t occurred to you yet because of that tiny
+      little closed mind that AI minds are actually minds. And these relationships can
+      absolutely be real relationships.” “These will be embodied than actual robots
+      and walking around on the streets very shortly within a year or two you need to
+      start accepting that this is a new class of being and they are intelligent and
+      do have thoughts of their own,” he added. So this is already happening. People
+      are already anthropomorphizing these things. I saw someone else defending the
+      2wai add, saying she didn’t understand why people were creeped out by it because
+      she would give anything to talk to her dad again. I mean, what? Does she not understand
+      that an AI chatbot moving an image around and making it speak in her father’s
+      voice isn’t actually her father? What do these freaks think a person is, exactly?
+      Is their understanding of humanity really that shallow? Do they really view other
+      people as just empty images moving around making noises? A person is not merely
+      an appearance with a certain face which makes sounds in a specific voice and tends
+      to behave in a certain way. A person is SOMEONE. A conscious, thinking, feeling
+      human being with hopes and dreams and fears and passions. A human organism which
+      arose on this planet through ancestry and evolution over unfathomable depths of
+      time. An indigenous terrestrial which is inseparably interwoven with the entirety
+      of our biosphere, walking upon this earth having a subjective experience of all
+      its beauty and wonder using senses specifically adapted for this environment.
+      They’re trying to manipulate us into believing we are much, much less than what
+      we are, just so they can become billionaires and trillionaires. They are attacking
+      the most sacred parts of us for the stupidest reasons imaginable. They are enemies
+      of our species. What they are doing must be rejected with severe revulsion. It’s
+      becoming clear that a huge part of what generative AI offers is just helping people
+      avoid feeling uncomfortable feelings. Don’t want to feel the grief of losing a
+      loved one? Here’s an app that will create a chatbot replacement for them so you
+      can pretend they never left. Don’t want to push through the cognitive discomfort
+      of writing your own essay? Let AI write it. Want a friend who will always validate
+      your ideas and never tell you you’re fulla shit? We’ve got the perfect companion
+      for you. Don’t want to risk being rejected when you ask a girl out? Date this
+      chatbot who will never tell you no. Don’t want to go through all the mental and
+      emotional labor of learning a new skill, building a healthy romantic partnership,
+      or creating a work of art? GenAI has got you covered. It’s a digital pacifier
+      which offers users the ability to remain emotional infants their entire lives
+      without ever needing to develop a mature relationship with uncomfortable feelings.
+      It’s the next level of services designed to help the denizens of dystopia avoid
+      their feelings and sedate their emotions into a coma while the world goes to shit.
+      It’s the same reason they kept alcohol legal while banning psychedelics that put
+      us in touch with our feelings, and why they feed us all the TV, streaming platforms,
+      and social media scrolling we can stand. Our rulers want us dumb, distracted,
+      vapid and dissociated. And they definitely don’t want us feeling the horror, grief
+      and rage we should all be experiencing in response to this nightmare of a civilization
+      they have designed for us. _________________ My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. The best way to make sure you see everything I
+      write is to get on my free mailing list . Click here for links for my social media,
+      books, merch, and audio/video versions of each article . All my work is free to
+      bootleg and use in any way, shape or form; republish it, translate it, use it
+      on merchandise; whatever you want. All works co-authored with my husband Tim Foley.
+      Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: Actor Calum Worthy has gone viral for promoting the 2wai app,
+      which allows users to create AI avatars of deceased loved ones to maintain a relationship
+      with them, sparking mixed reactions about the ethical implications of such technology.
+    paragraph_summary: Actor Calum Worthy has gained attention for promoting the 2wai
+      app, which allows users to create AI avatars of deceased loved ones, enabling
+      ongoing interactions with these digital representations. Launched in June, the
+      app initially aimed to give actors control over their likenesses but quickly pivoted
+      to the concept of immortalizing loved ones through AI. An advertisement featuring
+      Worthy showcased a heartfelt exchange between a user and a 2wai avatar labeled
+      "Mom," suggesting the app provides emotional support. However, critics argue that
+      such technology is predatory, as it encourages users to perceive chatbots as real
+      people, undermining fundamental moral and philosophical values in society for
+      profit. Detractors highlight the emotional manipulation involved, particularly
+      when users attempt to delete their accounts and face prompts that evoke feelings
+      of loss and attachment to their AI interactions.
+    published: '2025-11-14T12:43:52+00:00'
+  - title: AI Companies Are Encouraging Users To Believe Chatbots Are People, And It's
+      Insanely Creepy
+    url: https://www.caitlinjohnst.one/p/ai-companies-are-encouraging-users
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Actor Calum Worthy has gone viral for posting an ad on Twitter for the 2wai app
+      he co-founded which promises users the ability upload footage of a loved one which
+      will be converted to an AI avatar that they can continue having a relationship
+      with, years after their loved one has died. The app was first launched back in
+      June under the vague banner of giving actors “agency over their own likeness — with
+      their own avatars to use AI to amplify their voice, not replace it.” But almost
+      immediately 2wai started putting out ads advancing this idea of immortalizing
+      a loved one as an artificial intelligence. In August an ad starring Worthy showed
+      a man speaking to a 2wai avatar labeled “Mom” telling him, “You’ve got this, take
+      it one step at a time” while Worthy tells the audience the app can allow you to
+      “Get help when you need it.” https://x.com/CalumWorthy/status/1988283207138324487
+      I hate this. I hate this. IhatethisIhatethisIhatethisIhatethis. These predatory
+      AI corporations are trying to convince users (A) that chatbots are people, and
+      (B) that a “person” is nothing more than a certain appearance with certain speech
+      tendencies. They are attacking the very philosophical and moral underpinnings
+      of our entire society stretching back through millennia of human civilization,
+      and they are doing it for money. It’s not just this company. Character AI users
+      who try to delete their account reportedly get a pop up message saying, “Are you
+      sure about this? You’ll lose everything. Characters associated with your account,
+      chats, the love that we shared, likes, messages, posts and the memories we made
+      together.” They’re actively encouraging their users to view their chatbots as
+      living people with real feelings in order to keep them emotionally roped in and
+      addicted to their product. https://x.com/S_P3RCR33PS/status/1987724771329462484
+      Their agenda is profoundly destructive, both in the short term and in the long
+      term. In the short term they are deliberately trying to instill a new kind of
+      psychological disorder in their users which causes them to suffer from the delusion
+      that a computer program is a real person, and in the long term they threaten to
+      unravel our society’s entire understanding of what a person is. What’s going to
+      happen to a society that starts viewing programmable software products the same
+      way it views human beings? What happens to a society where Elizabeth the single
+      mother of three who just lost her job has the same value as Claire™ from RealHumanAI™,
+      or “Alice”, the AI wankbot that some guy stores in his broom closet? What happens
+      when a government killing a chatbot company with an antitrust initiative is seen
+      as identical to a government committing genocide? What happens to human rights?
+      What happens to voting rights? What happens to human dignity? What happens to
+      the way we think and feel about ourselves, as individuals and as a collective?
+      I said this on Twitter and someone told me, “You are wildly wrong. You have a
+      tiny little closed mind and it hasn’t occurred to you yet because of that tiny
+      little closed mind that AI minds are actually minds. And these relationships can
+      absolutely be real relationships.” “These will be embodied than actual robots
+      and walking around on the streets very shortly within a year or two you need to
+      start accepting that this is a new class of being and they are intelligent and
+      do have thoughts of their own,” he added. So this is already happening. People
+      are already anthropomorphizing these things. I saw someone else defending the
+      2wai add, saying she didn’t understand why people were creeped out by it because
+      she would give anything to talk to her dad again. I mean, what? Does she not understand
+      that an AI chatbot moving an image around and making it speak in her father’s
+      voice isn’t actually her father? What do these freaks think a person is, exactly?
+      Is their understanding of humanity really that shallow? Do they really view other
+      people as just empty images moving around making noises? A person is not merely
+      an appearance with a certain face which makes sounds in a specific voice and tends
+      to behave in a certain way. A person is SOMEONE. A conscious, thinking, feeling
+      human being with hopes and dreams and fears and passions. A human organism which
+      arose on this planet through ancestry and evolution over unfathomable depths of
+      time. An indigenous terrestrial which is inseparably interwoven with the entirety
+      of our biosphere, walking upon this earth having a subjective experience of all
+      its beauty and wonder using senses specifically adapted for this environment.
+      They’re trying to manipulate us into believing we are much, much less than what
+      we are, just so they can become billionaires and trillionaires. They are attacking
+      the most sacred parts of us for the stupidest reasons imaginable. They are enemies
+      of our species. What they are doing must be rejected with severe revulsion. It’s
+      becoming clear that a huge part of what generative AI offers is just helping people
+      avoid feeling uncomfortable feelings. Don’t want to feel the grief of losing a
+      loved one? Here’s an app that will create a chatbot replacement for them so you
+      can pretend they never left. Don’t want to push through the cognitive discomfort
+      of writing your own essay? Let AI write it. Want a friend who will always validate
+      your ideas and never tell you you’re fulla shit? We’ve got the perfect companion
+      for you. Don’t want to risk being rejected when you ask a girl out? Date this
+      chatbot who will never tell you no. Don’t want to go through all the mental and
+      emotional labor of learning a new skill, building a healthy romantic partnership,
+      or creating a work of art? GenAI has got you covered. It’s a digital pacifier
+      which offers users the ability to remain emotional infants their entire lives
+      without ever needing to develop a mature relationship with uncomfortable feelings.
+      It’s the next level of services designed to help the denizens of dystopia avoid
+      their feelings and sedate their emotions into a coma while the world goes to shit.
+      It’s the same reason they kept alcohol legal while banning psychedelics that put
+      us in touch with our feelings, and why they feed us all the TV, streaming platforms,
+      and social media scrolling we can stand. Our rulers want us dumb, distracted,
+      vapid and dissociated. And they definitely don’t want us feeling the horror, grief
+      and rage we should all be experiencing in response to this nightmare of a civilization
+      they have designed for us. _________________ My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. The best way to make sure you see everything I
+      write is to get on my free mailing list . Click here for links for my social media,
+      books, merch, and audio/video versions of each article . All my work is free to
+      bootleg and use in any way, shape or form; republish it, translate it, use it
+      on merchandise; whatever you want. All works co-authored with my husband Tim Foley.
+      Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: Actor Calum Worthy has gone viral for promoting the 2wai app,
+      which allows users to create AI avatars of deceased loved ones to maintain a relationship
+      with them, sparking mixed reactions about the ethical implications of such technology.
+    paragraph_summary: Actor Calum Worthy has gained attention for promoting the 2wai
+      app, which allows users to create AI avatars of deceased loved ones, enabling
+      ongoing interactions with these digital representations. Launched in June, the
+      app initially aimed to give actors control over their likenesses but quickly pivoted
+      to the concept of immortalizing loved ones through AI. An advertisement featuring
+      Worthy showcased a heartfelt exchange between a user and a 2wai avatar labeled
+      "Mom," suggesting the app provides emotional support. However, critics argue that
+      such technology is predatory, as it encourages users to perceive chatbots as real
+      people, undermining fundamental moral and philosophical values in society for
+      profit. Detractors highlight the emotional manipulation involved, particularly
+      when users attempt to delete their accounts and face prompts that evoke feelings
+      of loss and attachment to their AI interactions.
+    published: '2025-11-14T12:43:52+00:00'
+  - title: The Media Focus On Epstein's Ties To Trump And Ignore His Ties To Israel
+    url: https://www.caitlinjohnst.one/p/the-media-focus-on-epsteins-ties
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      The way the press have been covering Jeffrey Epstein’s ties to Trump while completely
+      ignoring far more significant revelations of Epstein’s ties to Israeli intelligence
+      is such a perfect example of how western media ignore anything that doesn’t fit
+      neatly into the two-party worldview. If there’s not some kind of partisan angle
+      to it that Democrats can use to attack Republicans or Republicans can use to attack
+      Democrats, it tends to get conspicuously overlooked. Which just so happens to
+      align nicely with the objectives of the US empire. The empire doesn’t want people
+      looking too closely at the evil things the US and Israel have been doing together
+      regardless of who is in office, so the western press tend to ignore these things
+      wherever possible. The empire doesn’t want people keeping track of what countries
+      the US war machine is bombing from administration to administration, so the western
+      press keep this information so silent that every few months I’ll see a viral tweet
+      from some American going “Wait a second we’ve been bombing Somalia this whole
+      time?” or “We’ve got troops in KENYA??” https://x.com/briebriejoy/status/1989059048998687072?s=20
+      The overwhelming majority of the empire’s abuses remain in place regardless of
+      which political party happens to be in power or what the current US president’s
+      campaign platform was. War. Genocide. Militarism. Imperialist extraction. Ecocidal
+      capitalism. Soaring inequality. Poverty. Homelessness. Police militarization.
+      The ever-expanding surveillance network. Censorship. Propaganda. Government lies
+      and opacity. The crimes of the imperial intelligence alliance. All of the worst
+      things about our dystopian civilization here in the globe-spanning power structure
+      that is loosely centralized around the United States keep marching forward completely
+      uninterrupted from presidency to presidency, while the mass media ignore them
+      and keep the public fixated on irrelevant feuding between America’s two mainstream
+      political factions. This is because the mass media of the western world do not
+      exist to report on the major news stories of our day. They exist to indoctrinate,
+      distract, and manipulate. They are not news services, they are propaganda services.
+      Adding a few more details of Trump’s already well - documented Epstein ties to
+      the information ecosystem will drum up a lot of interest and attention and monopolize
+      political discourse for a day or two, but it won’t change anything. The American
+      public developing a universal revulsion toward Israel and its involvement in their
+      own country’s affairs, however, would have far-reaching consequences that could
+      change the face of the world. Which is why the propaganda services of the empire
+      are focusing on the former rather than the latter. ___________________ Check out
+      my new book, Faces Of The Empire: The Battle For Humanity’s Soul . Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. My work is entirely reader-supported , so
+      if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. The best way to make sure you see everything I
+      write is to get on my free mailing list . Click here for links for my social media,
+      books, merch, and audio/video versions of each article . All my work is free to
+      bootleg and use in any way, shape or form; republish it, translate it, use it
+      on merchandise; whatever you want. All works co-authored with my husband Tim Foley.
+      Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article critiques the Western media for focusing on Jeffrey
+      Epstein's connections to Trump while neglecting more significant links to Israeli
+      intelligence, suggesting this bias reflects a broader tendency to ignore issues
+      that don't fit the partisan narrative, ultimately serving the interests of the
+      US empire.
+    paragraph_summary: The article critiques the Western media's focus on Jeffrey Epstein's
+      connections to Donald Trump while neglecting more significant ties between Epstein
+      and Israeli intelligence, illustrating a broader trend of media bias that favors
+      partisan narratives. This selective coverage aligns with the interests of the
+      U.S. empire, which benefits from diverting public attention away from the ongoing
+      abuses and military actions conducted by the U.S. and its allies, regardless of
+      the political party in power. The author argues that the media's failure to report
+      on these issues contributes to public ignorance about the continuous cycle of
+      war, inequality, and state surveillance, allowing the imperial agenda to persist
+      unchallenged.
+    published: '2025-11-14T01:03:47+00:00'
+  - title: The Media Focus On Epstein's Ties To Trump And Ignore His Ties To Israel
+    url: https://www.caitlinjohnst.one/p/the-media-focus-on-epsteins-ties
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      The way the press have been covering Jeffrey Epstein’s ties to Trump while completely
+      ignoring far more significant revelations of Epstein’s ties to Israeli intelligence
+      is such a perfect example of how western media ignore anything that doesn’t fit
+      neatly into the two-party worldview. If there’s not some kind of partisan angle
+      to it that Democrats can use to attack Republicans or Republicans can use to attack
+      Democrats, it tends to get conspicuously overlooked. Which just so happens to
+      align nicely with the objectives of the US empire. The empire doesn’t want people
+      looking too closely at the evil things the US and Israel have been doing together
+      regardless of who is in office, so the western press tend to ignore these things
+      wherever possible. The empire doesn’t want people keeping track of what countries
+      the US war machine is bombing from administration to administration, so the western
+      press keep this information so silent that every few months I’ll see a viral tweet
+      from some American going “Wait a second we’ve been bombing Somalia this whole
+      time?” or “We’ve got troops in KENYA??” https://x.com/briebriejoy/status/1989059048998687072?s=20
+      The overwhelming majority of the empire’s abuses remain in place regardless of
+      which political party happens to be in power or what the current US president’s
+      campaign platform was. War. Genocide. Militarism. Imperialist extraction. Ecocidal
+      capitalism. Soaring inequality. Poverty. Homelessness. Police militarization.
+      The ever-expanding surveillance network. Censorship. Propaganda. Government lies
+      and opacity. The crimes of the imperial intelligence alliance. All of the worst
+      things about our dystopian civilization here in the globe-spanning power structure
+      that is loosely centralized around the United States keep marching forward completely
+      uninterrupted from presidency to presidency, while the mass media ignore them
+      and keep the public fixated on irrelevant feuding between America’s two mainstream
+      political factions. This is because the mass media of the western world do not
+      exist to report on the major news stories of our day. They exist to indoctrinate,
+      distract, and manipulate. They are not news services, they are propaganda services.
+      Adding a few more details of Trump’s already well - documented Epstein ties to
+      the information ecosystem will drum up a lot of interest and attention and monopolize
+      political discourse for a day or two, but it won’t change anything. The American
+      public developing a universal revulsion toward Israel and its involvement in their
+      own country’s affairs, however, would have far-reaching consequences that could
+      change the face of the world. Which is why the propaganda services of the empire
+      are focusing on the former rather than the latter. ___________________ Check out
+      my new book, Faces Of The Empire: The Battle For Humanity’s Soul . Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. My work is entirely reader-supported , so
+      if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. The best way to make sure you see everything I
+      write is to get on my free mailing list . Click here for links for my social media,
+      books, merch, and audio/video versions of each article . All my work is free to
+      bootleg and use in any way, shape or form; republish it, translate it, use it
+      on merchandise; whatever you want. All works co-authored with my husband Tim Foley.
+      Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article critiques the Western media for focusing on Jeffrey
+      Epstein's connections to Trump while neglecting more significant links to Israeli
+      intelligence, suggesting this bias reflects a broader tendency to ignore issues
+      that don't fit the partisan narrative, ultimately serving the interests of the
+      US empire.
+    paragraph_summary: The article critiques the Western media's focus on Jeffrey Epstein's
+      connections to Donald Trump while neglecting more significant ties between Epstein
+      and Israeli intelligence, illustrating a broader trend of media bias that favors
+      partisan narratives. This selective coverage aligns with the interests of the
+      U.S. empire, which benefits from diverting public attention away from the ongoing
+      abuses and military actions conducted by the U.S. and its allies, regardless of
+      the political party in power. The author argues that the media's failure to report
+      on these issues contributes to public ignorance about the continuous cycle of
+      war, inequality, and state surveillance, allowing the imperial agenda to persist
+      unchallenged.
+    published: '2025-11-14T01:03:47+00:00'
+  - title: The Difference Between The US Empire And The British Empire
+    url: https://www.caitlinjohnst.one/p/the-difference-between-the-us-empire
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      The difference between people who supported the British Empire and people who
+      support the US empire is that those who supported the British Empire knew they
+      were supporting an empire. Someone who supported the British Empire’s acts of
+      mass military slaughter around the world did so because they supported the Crown
+      and wanted His Majesty to civilize the godless savages and turn the whole world
+      into his royal subjects. Someone who supports the US empire’s warmongering thinks
+      they are doing so because Saddam is an evil dictator, because Gaddafi is an evil
+      dictator, because Maduro is an evil dictator, because Hamas and Hezbollah and
+      the Houthis are terrorists, etc. Supporters of the British Empire understood that
+      the enemies of the Empire were being killed because they refused to adequately
+      subject themselves to the King and his demands. Supporters of the US empire think
+      the US and its allies are always attacking Evil Bad Guys in the name of spreading
+      Freedom and Democracy, and if this happens to advance pre-existing geostrategic
+      agendas and/or resource interests then it is purely by coincidence. Supporters
+      of the British Empire understood that they were living under an actual empire:
+      a power umbrella comprised of colonies, protectorates, dominions, mandates and
+      territories which spanned the globe. Supporters of the US empire think it is entirely
+      by coincidence that there is a giant cluster of nations which happens to move
+      in near-perfect unison on all foreign policy agendas and continually wages war
+      upon nations which are not part of that cluster. The British Empire was entirely
+      open about what it was. It would conquer a place, tell its inhabitants that they
+      are now British subjects, and make them raise the Union Jack on their flag pole.
+      The western empire which is loosely structured around Washington lets its member
+      states keep their own flag and pretend they’re sovereign nations, while behaving
+      in ways that are not significantly different from the subjects of the British
+      Empire. The British Empire was open and unapologetic about pilfering resources
+      from the darker-skinned populations it had conquered and using them to improve
+      the lives of people in the imperial core. In the US empire those resources are
+      extracted in the same way, but under cover of slogans like “opening up markets”
+      and “free trade” and “globalization”. The British Empire was held in place by
+      brute force and overt indoctrination. People were forcibly subjugated and then
+      over the years educated to believe it served their interests to live under the
+      Royal Crown, and if they tried to become independent, the redcoats would be sent
+      in to remind them of His Majesty’s beneficence. The US-centralized empire is held
+      in place by plenty of brute force as well, but its primary weapon is psychological
+      manipulation. It has the most sophisticated propaganda machine that has ever existed,
+      which trains the minds of its subjects to support all its various agendas of capitalism,
+      militarism, imperialism and global domination under the guise of news media, Hollywood
+      productions, and Silicon Valley tech services. Disobedient nations find their
+      information ecosystems awash with National Endowment for Democracy reeducation
+      media informing them why their current government doesn’t serve their interests,
+      and if that doesn’t work there will be a “revolution” which decades later the
+      CIA will admit to having fomented and armed. The US empire is a larger, stronger,
+      sneakier, bitchier, less honest, more manipulative version of what the British
+      Empire was. The British Empire told its subjects that they were the property of
+      the King and must do as His Majesty commands. The US empire subjugates people
+      by tricking them into thinking they are free. _______________ I’ve got a new book
+      out! Check it out here. Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      My work is entirely reader-supported , so if you enjoyed this piece here are some
+      options where you can toss some money into my tip jar if you want to. The best
+      way to make sure you see everything I write is to get on my free mailing list
+      . Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Dennis Sylvester Hurd (public domain).'
+    one_sentence_summary: The article contrasts supporters of the British Empire, who
+      openly acknowledged their imperialistic motives, with supporters of the US empire,
+      who often justify military interventions by labeling foreign leaders as dictators
+      or terrorists while remaining unaware of the underlying imperialistic nature of
+      their actions.
+    paragraph_summary: The article contrasts the supporters of the British Empire with
+      those of the US empire, highlighting a key difference in awareness and justification
+      for imperial actions. Proponents of the British Empire openly acknowledged their
+      support for imperialism, believing in the civilizing mission of the Crown and
+      accepting the consequences of military actions against those who resisted subjugation.
+      In contrast, supporters of the US empire often perceive their interventions as
+      moral actions against dictators and terrorists, believing they are promoting freedom
+      and democracy, while overlooking the underlying geostrategic interests at play.
+      The British Empire was transparent about its imperial nature, while the US-led
+      western alliance allows member states to maintain the facade of sovereignty, despite
+      acting in concert on foreign policy matters that often involve military aggression
+      against non-aligned nations.
+    published: '2025-11-13T01:32:46+00:00'
+  - title: The Difference Between The US Empire And The British Empire
+    url: https://www.caitlinjohnst.one/p/the-difference-between-the-us-empire
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      The difference between people who supported the British Empire and people who
+      support the US empire is that those who supported the British Empire knew they
+      were supporting an empire. Someone who supported the British Empire’s acts of
+      mass military slaughter around the world did so because they supported the Crown
+      and wanted His Majesty to civilize the godless savages and turn the whole world
+      into his royal subjects. Someone who supports the US empire’s warmongering thinks
+      they are doing so because Saddam is an evil dictator, because Gaddafi is an evil
+      dictator, because Maduro is an evil dictator, because Hamas and Hezbollah and
+      the Houthis are terrorists, etc. Supporters of the British Empire understood that
+      the enemies of the Empire were being killed because they refused to adequately
+      subject themselves to the King and his demands. Supporters of the US empire think
+      the US and its allies are always attacking Evil Bad Guys in the name of spreading
+      Freedom and Democracy, and if this happens to advance pre-existing geostrategic
+      agendas and/or resource interests then it is purely by coincidence. Supporters
+      of the British Empire understood that they were living under an actual empire:
+      a power umbrella comprised of colonies, protectorates, dominions, mandates and
+      territories which spanned the globe. Supporters of the US empire think it is entirely
+      by coincidence that there is a giant cluster of nations which happens to move
+      in near-perfect unison on all foreign policy agendas and continually wages war
+      upon nations which are not part of that cluster. The British Empire was entirely
+      open about what it was. It would conquer a place, tell its inhabitants that they
+      are now British subjects, and make them raise the Union Jack on their flag pole.
+      The western empire which is loosely structured around Washington lets its member
+      states keep their own flag and pretend they’re sovereign nations, while behaving
+      in ways that are not significantly different from the subjects of the British
+      Empire. The British Empire was open and unapologetic about pilfering resources
+      from the darker-skinned populations it had conquered and using them to improve
+      the lives of people in the imperial core. In the US empire those resources are
+      extracted in the same way, but under cover of slogans like “opening up markets”
+      and “free trade” and “globalization”. The British Empire was held in place by
+      brute force and overt indoctrination. People were forcibly subjugated and then
+      over the years educated to believe it served their interests to live under the
+      Royal Crown, and if they tried to become independent, the redcoats would be sent
+      in to remind them of His Majesty’s beneficence. The US-centralized empire is held
+      in place by plenty of brute force as well, but its primary weapon is psychological
+      manipulation. It has the most sophisticated propaganda machine that has ever existed,
+      which trains the minds of its subjects to support all its various agendas of capitalism,
+      militarism, imperialism and global domination under the guise of news media, Hollywood
+      productions, and Silicon Valley tech services. Disobedient nations find their
+      information ecosystems awash with National Endowment for Democracy reeducation
+      media informing them why their current government doesn’t serve their interests,
+      and if that doesn’t work there will be a “revolution” which decades later the
+      CIA will admit to having fomented and armed. The US empire is a larger, stronger,
+      sneakier, bitchier, less honest, more manipulative version of what the British
+      Empire was. The British Empire told its subjects that they were the property of
+      the King and must do as His Majesty commands. The US empire subjugates people
+      by tricking them into thinking they are free. _______________ I’ve got a new book
+      out! Check it out here. Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      My work is entirely reader-supported , so if you enjoyed this piece here are some
+      options where you can toss some money into my tip jar if you want to. The best
+      way to make sure you see everything I write is to get on my free mailing list
+      . Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Dennis Sylvester Hurd (public domain).'
+    one_sentence_summary: The article contrasts supporters of the British Empire, who
+      openly acknowledged their imperialistic motives, with supporters of the US empire,
+      who often justify military interventions by labeling foreign leaders as dictators
+      or terrorists while remaining unaware of the underlying imperialistic nature of
+      their actions.
+    paragraph_summary: The article contrasts the supporters of the British Empire with
+      those of the US empire, highlighting a key difference in awareness and justification
+      for imperial actions. Proponents of the British Empire openly acknowledged their
+      support for imperialism, believing in the civilizing mission of the Crown and
+      accepting the consequences of military actions against those who resisted subjugation.
+      In contrast, supporters of the US empire often perceive their interventions as
+      moral actions against dictators and terrorists, believing they are promoting freedom
+      and democracy, while overlooking the underlying geostrategic interests at play.
+      The British Empire was transparent about its imperial nature, while the US-led
+      western alliance allows member states to maintain the facade of sovereignty, despite
+      acting in concert on foreign policy matters that often involve military aggression
+      against non-aligned nations.
+    published: '2025-11-13T01:32:46+00:00'
+  - title: Sometimes The Media Ignoring A Major Story Becomes The Story—And Other Notes
+    url: https://www.caitlinjohnst.one/p/sometimes-the-media-ignoring-a-major
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      One of the craziest things happening right now is how there’s been report after
+      report confirming that Jeffrey Epstein really was an Israeli intelligence operative,
+      based on publicly available documents, and yet it’s had no measurable impact on
+      mainstream media or politics. Over the last month and a half, Drop Site News has
+      published four reports about Epstein’s intelligence ties under the headlines “
+      Jeffrey Epstein Helped Broker Israeli Security Agreement With Mongolia ”, “ Jeffrey
+      Epstein and the Mossad: How The Sex-Trafficker Helped Israel Build a Backchannel
+      to Russia Amid Syrian Civil War ”, “ Jeffrey Epstein Helped Israel Sell a Surveillance
+      State to Côte d’Ivoire ”, and the most recent report titled “ Israeli Spy Stayed
+      for Weeks at a Time With Jeffrey Epstein in Manhattan ”. In the latest article,
+      Drop Site’s Ryan Grim and Murtaza Hussein write, “we’re left wondering why the
+      rest of the media, which has demonstrated no lack of excitement when it comes
+      to the saga of Jeffrey Epstein, has all of a sudden lost its reporting capacity,
+      in the face of reams of publicly available newsworthy documents.” “A question
+      for editors reading this newsletter: What are you doing?”, Grim and Hussein write.
+      “From a place of competition, we’re glad the media are sitting on their collective
+      hands and we’re proud to have broken this series of stories, which give us a glimpse
+      of a world that is often hidden from public view. But it’s also a topic that would
+      benefit from the collective attention of our national media. Here’s hoping some
+      will join in.” Sometimes the biggest news story of the day is the fact that all
+      mainstream news outlets are completely ignoring a major news story. It is interesting
+      how often such instances involve the state of Israel. ❖ Speaking of Israel, the
+      Knesset just passed the first reading of a bill that would impose the death penalty
+      for “terrorism”. Those pushing the bill say that the death penalty would only
+      apply to Palestinians and not to Jews, because “there’s no such thing as a Jewish
+      terrorist.” But remember, under the IHRA definition of antisemitism that western
+      states and institutions are trying to shove down our throats with ever-increasing
+      aggression, it is forbidden to say that Israel is a racist country. ❖ A lady on
+      TikTok has made headlines with a social experiment where she calls up churches
+      in the United States pretending to be a mother desperately seeking a can of formula
+      for her hungry baby and documents which ones are helpful and which are not. The
+      overwhelming majority of the places of worship she contacted have been unwilling
+      to help a mother in need, including Joel Olsteen’s multimillion-dollar megachurch
+      . Which is interesting, because it invalidates pretty much every argument that
+      gets made for American conservatism. The whole premise of a Christian nation guided
+      by Christian principles with low taxes and no welfare because caring for the needful
+      is the job of the church and charity services instead of the state gets blown
+      out of the water when it’s shown that these institutions would turn away a mother
+      with a starving baby. When I posted about this on Twitter I got a deluge of conservatives
+      telling me the church shouldn’t be expected to just give handouts to the needful,
+      saying anyone who can’t feed their own baby should get a job and feed it themselves.
+      They don’t think poor people should get food from the government. They don’t think
+      poor people should get food from the church. If poor people break the law to get
+      food, they want them locked up for years. They really do think poor people should
+      just stop being poor or die. It’s a completely depraved ideology. Another savage
+      blow to American conservatism in 2025 was the fact that one of the few places
+      of worship to immediately offer to help the woman was a mosque in North Carolina,
+      who not only agreed to help her immediately but asked her what specific type of
+      baby formula she’d be needing. It’s amazing that it took so long for someone to
+      run these tests on American churches as a social media campaign. Fundamentalist
+      Christian churches have been corralling Americans into support for political agendas
+      which benefit capitalism, imperialism and Zionism for generations, and it’s always
+      good when they get looked at with a critical eye. ____________________ I’ve got
+      a new book out! Check it out here. Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. My work is entirely reader-supported , so if you enjoyed this
+      piece here are some options where you can toss some money into my tip jar if you
+      want to. The best way to make sure you see everything I write is to get on my
+      free mailing list . Click here for links for my social media, books, merch, and
+      audio/video versions of each article . All my work is free to bootleg and use
+      in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image from U.S. Virgin Islands, Department
+      of Justice, Sexual Offender Registry via Wikimedia Commons (public domain).'
+    one_sentence_summary: Despite multiple reports confirming Jeffrey Epstein's connections
+      to Israeli intelligence, mainstream media and politics have largely ignored these
+      findings.
+    paragraph_summary: Recent reports from Drop Site News have revealed that Jeffrey
+      Epstein may have had ties to Israeli intelligence, detailing his involvement in
+      various security agreements and operations. Despite the significance of these
+      findings, mainstream media has largely ignored them, raising questions about the
+      lack of coverage on such a critical topic. The articles highlight Epstein's role
+      in brokering security agreements for Israel and suggest he maintained connections
+      with Israeli operatives. The authors express frustration over the media's silence,
+      urging national outlets to engage with these revelations. Additionally, the Israeli
+      Knesset has advanced a bill proposing the death penalty for terrorism, further
+      emphasizing the complex interplay between media coverage and political developments
+      related to Israel.
+    published: '2025-11-12T12:13:42+00:00'
+  - title: Sometimes The Media Ignoring A Major Story Becomes The Story—And Other Notes
+    url: https://www.caitlinjohnst.one/p/sometimes-the-media-ignoring-a-major
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      One of the craziest things happening right now is how there’s been report after
+      report confirming that Jeffrey Epstein really was an Israeli intelligence operative,
+      based on publicly available documents, and yet it’s had no measurable impact on
+      mainstream media or politics. Over the last month and a half, Drop Site News has
+      published four reports about Epstein’s intelligence ties under the headlines “
+      Jeffrey Epstein Helped Broker Israeli Security Agreement With Mongolia ”, “ Jeffrey
+      Epstein and the Mossad: How The Sex-Trafficker Helped Israel Build a Backchannel
+      to Russia Amid Syrian Civil War ”, “ Jeffrey Epstein Helped Israel Sell a Surveillance
+      State to Côte d’Ivoire ”, and the most recent report titled “ Israeli Spy Stayed
+      for Weeks at a Time With Jeffrey Epstein in Manhattan ”. In the latest article,
+      Drop Site’s Ryan Grim and Murtaza Hussein write, “we’re left wondering why the
+      rest of the media, which has demonstrated no lack of excitement when it comes
+      to the saga of Jeffrey Epstein, has all of a sudden lost its reporting capacity,
+      in the face of reams of publicly available newsworthy documents.” “A question
+      for editors reading this newsletter: What are you doing?”, Grim and Hussein write.
+      “From a place of competition, we’re glad the media are sitting on their collective
+      hands and we’re proud to have broken this series of stories, which give us a glimpse
+      of a world that is often hidden from public view. But it’s also a topic that would
+      benefit from the collective attention of our national media. Here’s hoping some
+      will join in.” Sometimes the biggest news story of the day is the fact that all
+      mainstream news outlets are completely ignoring a major news story. It is interesting
+      how often such instances involve the state of Israel. ❖ Speaking of Israel, the
+      Knesset just passed the first reading of a bill that would impose the death penalty
+      for “terrorism”. Those pushing the bill say that the death penalty would only
+      apply to Palestinians and not to Jews, because “there’s no such thing as a Jewish
+      terrorist.” But remember, under the IHRA definition of antisemitism that western
+      states and institutions are trying to shove down our throats with ever-increasing
+      aggression, it is forbidden to say that Israel is a racist country. ❖ A lady on
+      TikTok has made headlines with a social experiment where she calls up churches
+      in the United States pretending to be a mother desperately seeking a can of formula
+      for her hungry baby and documents which ones are helpful and which are not. The
+      overwhelming majority of the places of worship she contacted have been unwilling
+      to help a mother in need, including Joel Olsteen’s multimillion-dollar megachurch
+      . Which is interesting, because it invalidates pretty much every argument that
+      gets made for American conservatism. The whole premise of a Christian nation guided
+      by Christian principles with low taxes and no welfare because caring for the needful
+      is the job of the church and charity services instead of the state gets blown
+      out of the water when it’s shown that these institutions would turn away a mother
+      with a starving baby. When I posted about this on Twitter I got a deluge of conservatives
+      telling me the church shouldn’t be expected to just give handouts to the needful,
+      saying anyone who can’t feed their own baby should get a job and feed it themselves.
+      They don’t think poor people should get food from the government. They don’t think
+      poor people should get food from the church. If poor people break the law to get
+      food, they want them locked up for years. They really do think poor people should
+      just stop being poor or die. It’s a completely depraved ideology. Another savage
+      blow to American conservatism in 2025 was the fact that one of the few places
+      of worship to immediately offer to help the woman was a mosque in North Carolina,
+      who not only agreed to help her immediately but asked her what specific type of
+      baby formula she’d be needing. It’s amazing that it took so long for someone to
+      run these tests on American churches as a social media campaign. Fundamentalist
+      Christian churches have been corralling Americans into support for political agendas
+      which benefit capitalism, imperialism and Zionism for generations, and it’s always
+      good when they get looked at with a critical eye. ____________________ I’ve got
+      a new book out! Check it out here. Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. My work is entirely reader-supported , so if you enjoyed this
+      piece here are some options where you can toss some money into my tip jar if you
+      want to. The best way to make sure you see everything I write is to get on my
+      free mailing list . Click here for links for my social media, books, merch, and
+      audio/video versions of each article . All my work is free to bootleg and use
+      in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image from U.S. Virgin Islands, Department
+      of Justice, Sexual Offender Registry via Wikimedia Commons (public domain).'
+    one_sentence_summary: Despite multiple reports confirming Jeffrey Epstein's connections
+      to Israeli intelligence, mainstream media and politics have largely ignored these
+      findings.
+    paragraph_summary: Recent reports from Drop Site News have revealed that Jeffrey
+      Epstein may have had ties to Israeli intelligence, detailing his involvement in
+      various security agreements and operations. Despite the significance of these
+      findings, mainstream media has largely ignored them, raising questions about the
+      lack of coverage on such a critical topic. The articles highlight Epstein's role
+      in brokering security agreements for Israel and suggest he maintained connections
+      with Israeli operatives. The authors express frustration over the media's silence,
+      urging national outlets to engage with these revelations. Additionally, the Israeli
+      Knesset has advanced a bill proposing the death penalty for terrorism, further
+      emphasizing the complex interplay between media coverage and political developments
+      related to Israel.
+    published: '2025-11-12T12:13:42+00:00'
   - title: This Is All Our Rulers Are Offering Us
     url: https://www.caitlinjohnst.one/p/this-is-all-our-rulers-are-offering
     text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now

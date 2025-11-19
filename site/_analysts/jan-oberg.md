@@ -7,18 +7,214 @@ description: "Swedish peace researcher and co–founder of Transnational Foundat
 websites:
   - https://transnational.live/
 summary: |
-  Amid ongoing global tensions and shifting alliances, recent developments highlight the increasing alignment of Western institutions with U.S. foreign policy, the persistence of unresolved crises, and the growing scrutiny of security narratives in Europe.
+  The adoption of former President Trump’s “peace” plan for Gaza by the UN Security Council marks a significant and controversial shift in international diplomacy. As **Jan Oberg** observes, this move signals a “troubling departure from genuine peace efforts” and highlights a broader global deficiency in conflict resolution literacy. Oberg’s analysis stresses that the plan, rather than addressing the root causes of the conflict, represents what he calls a “cruel joke” in a world increasingly ill-equipped to foster real peace.
   
-  The most notable event is the Norwegian Nobel Committee's decision to award its Peace Prize to Venezuelan opposition leader María Corina Machado. As **Jan Oberg** points out, Machado is a vocal proponent of U.S. military intervention and regime change in Venezuela, making the award a controversial endorsement of interventionist policies. Oberg argues this reflects a "disturbing congruence" between the Nobel Committee and U.S. strategic interests, rather than an impartial pursuit of peace. This move is likely to further polarize international opinion on Venezuela and may embolden external actors to intensify pressure on Caracas.
+  This development comes amid ongoing debates about the nature of peace and the mechanisms required to achieve it. Recent discussions, such as those critiquing the Sachs–Mearsheimer debate, underscore the need for “designated zones of peace” and transformative dialogue, as articulated by Biljana Vankovska and echoed by Oberg. The lack of such spaces, Oberg argues, is symptomatic of a deeper malaise in global governance and peace studies.
   
-  Meanwhile, the security situation in Northern Europe remains clouded by uncertainty. Reports of unidentified drones over Denmark and other Nordic countries have triggered widespread concern. However, **Jan Oberg** cautions against the prevailing assumption that Russia is responsible, suggesting that other actors, including Ukraine, could have motives to provoke or destabilize NATO airspace. He criticizes the lack of transparency and critical inquiry from European media and officials, warning that the current "staged panic" may serve broader strategic purposes unrelated to actual Russian aggression.
+  Meanwhile, the broader context of international relations remains tense. Oberg’s reflections on his recent participation in academic conferences in Shanghai point to a lack of Scandinavian and, more broadly, independent voices in critical dialogues about China and global security. He emphasizes the importance of discourse and dialogue, warning that without diverse perspectives, peace studies risk stagnation.
   
-  On the humanitarian front, the crisis in Gaza continues to deteriorate. The UN's declaration of famine has prompted renewed calls for immediate international intervention. Oberg urges citizens to pressure their governments for concrete action, emphasizing that verbal commitments are insufficient in the face of escalating starvation and conflict.
-  
-  Looking ahead, the trend toward militarization and alignment with U.S. policy among Western institutions is set to continue. The Nobel Committee's decision signals a high likelihood of further politicization of peace initiatives. In Northern Europe, the ambiguity surrounding drone incidents is expected to persist, with a "high chance" that narratives will remain contested and potentially manipulated for strategic ends. The humanitarian situation in Gaza, absent decisive action, is "most definitely" poised to worsen, with the risk of broader regional destabilization.
-  
-  In summary, the current geopolitical climate is marked by deepening divisions, contested narratives, and a growing gap between rhetoric and meaningful action on peace and humanitarian issues.
+  Looking forward, the prevailing trend is a consolidation of power by major actors within international institutions, often at the expense of genuine, grassroots peace initiatives. Based on Oberg’s repeated warnings and the current trajectory, there is a high chance that the adoption of superficial peace plans will continue to undermine authentic conflict resolution efforts. “I guarantee,” Oberg asserts, “that unless there is a fundamental shift towards inclusive, informed dialogue, the prospects for sustainable peace will remain bleak.”
 articles:
+  - title: 'Trump’s Gaza “peace” plan: A cruel joke in a conflict and peace illiterate
+      world'
+    url: https://transnational.live/2025/11/18/trumps-gaza-peace-plan-a-cruel-joke-in-a-conflict-and-peace-illiterate-world/
+    text: '“The Peace Throne Is Empty and the UN Cancelled” • Illustration AI-generated
+      by Jan Oberg The fact that the outlandish and quackish Trump “peace” plan for
+      the genocided Gaza was passed by the UN Security Council defines the end of every
+      understanding of true peace. Jan Oberg November 18, 2025 The UN Security Council
+      adopted […] The post Trump’s Gaza “peace” plan: A cruel joke in a conflict and
+      peace illiterate world appeared first on The Transnational .'
+    one_sentence_summary: The adoption of Trump's controversial "peace" plan for Gaza
+      by the UN Security Council signifies a troubling departure from genuine peace
+      efforts in a world lacking understanding of conflict resolution.
+    paragraph_summary: In an article by Jan Oberg, the author critiques the UN Security
+      Council's adoption of Trump's controversial "peace" plan for Gaza, describing
+      it as a misguided and inhumane approach to a deeply complex conflict. Oberg argues
+      that this decision marks a significant departure from genuine efforts toward peace,
+      highlighting the plan's insensitivity to the suffering of the people in Gaza and
+      the broader implications for international diplomacy. The piece underscores a
+      growing disillusionment with the UN's role in addressing global conflicts, suggesting
+      that the current state of affairs reflects a lack of understanding and commitment
+      to true peace.
+    published: '2025-11-18T11:47:24+00:00'
+  - title: 'Trump’s Gaza “peace” plan: A cruel joke in a conflict and peace illiterate
+      world'
+    url: https://transnational.live/2025/11/18/trumps-gaza-peace-plan-a-cruel-joke-in-a-conflict-and-peace-illiterate-world/
+    text: '“The Peace Throne Is Empty and the UN Cancelled” • Illustration AI-generated
+      by Jan Oberg The fact that the outlandish and quackish Trump “peace” plan for
+      the genocided Gaza was passed by the UN Security Council defines the end of every
+      understanding of true peace. Jan Oberg November 18, 2025 The UN Security Council
+      adopted […] The post Trump’s Gaza “peace” plan: A cruel joke in a conflict and
+      peace illiterate world appeared first on The Transnational .'
+    one_sentence_summary: The adoption of Trump's controversial "peace" plan for Gaza
+      by the UN Security Council signifies a troubling departure from genuine peace
+      efforts in a world lacking understanding of conflict resolution.
+    paragraph_summary: In an article by Jan Oberg, the author critiques the UN Security
+      Council's adoption of Trump's controversial "peace" plan for Gaza, describing
+      it as a misguided and inhumane approach to a deeply complex conflict. Oberg argues
+      that this decision marks a significant departure from genuine efforts toward peace,
+      highlighting the plan's insensitivity to the suffering of the people in Gaza and
+      the broader implications for international diplomacy. The piece underscores a
+      growing disillusionment with the UN's role in addressing global conflicts, suggesting
+      that the current state of affairs reflects a lack of understanding and commitment
+      to true peace.
+    published: '2025-11-18T11:47:24+00:00'
+  - title: ✅ TFF Share Blog, News & Notes from 2021 till today
+    url: https://transnational.live/2025/11/14/%f0%9f%94%97-tff-in-the-news-notes-2021/
+    text: Below are TFF-related media mentions, comments, videos and social media posts
+      published elsewhere but not on this homepage. We happen to catch and list only
+      a fraction. Regarding video comments and debates, we recommend that you go to
+      the TFF Video Channel on Substack where many of them are reproduced. Jan Oberg
+      is a contributor […] The post ✅ TFF Share Blog, News & Notes from 2021 till today
+      appeared first on The Transnational .
+    one_sentence_summary: The article provides a summary of various media mentions,
+      comments, videos, and social media posts related to TFF, highlighting that only
+      a fraction is listed and recommending the TFF Video Channel on Substack for more
+      content.
+    paragraph_summary: The article provides a summary of various media mentions, comments,
+      videos, and social media posts related to TFF (Transnational Foundation for Peace
+      and Future Research) that have been published outside of its main homepage, noting
+      that only a small fraction of these are captured. It encourages readers to visit
+      the TFF Video Channel on Substack for a broader collection of video comments and
+      discussions. Additionally, Jan Oberg is mentioned as a contributor to the content
+      shared.
+    published: '2025-11-14T15:20:00+00:00'
+  - title: ✅ TFF Share Blog, News & Notes from 2021 till today
+    url: https://transnational.live/2025/11/14/%f0%9f%94%97-tff-in-the-news-notes-2021/
+    text: Below are TFF-related media mentions, comments, videos and social media posts
+      published elsewhere but not on this homepage. We happen to catch and list only
+      a fraction. Regarding video comments and debates, we recommend that you go to
+      the TFF Video Channel on Substack where many of them are reproduced. Jan Oberg
+      is a contributor […] The post ✅ TFF Share Blog, News & Notes from 2021 till today
+      appeared first on The Transnational .
+    one_sentence_summary: The article provides a summary of various media mentions,
+      comments, videos, and social media posts related to TFF, highlighting that only
+      a fraction is listed and recommending the TFF Video Channel on Substack for more
+      content.
+    paragraph_summary: The article provides a summary of various media mentions, comments,
+      videos, and social media posts related to TFF (Transnational Foundation for Peace
+      and Future Research) that have been published outside of its main homepage, noting
+      that only a small fraction of these are captured. It encourages readers to visit
+      the TFF Video Channel on Substack for a broader collection of video comments and
+      discussions. Additionally, Jan Oberg is mentioned as a contributor to the content
+      shared.
+    published: '2025-11-14T15:20:00+00:00'
+  - title: What the Sachs–Mearsheimer Debate Misses
+    url: https://transnational.live/2025/11/13/what-the-sachs-mearsheimer-debate-misses/
+    text: The World Is a Sphere, But It Needs Zones of Peace Biljana Vankovska Professor
+      emerita, TFF Board member November 13, 2025 As members of a global intellectual
+      public, concerned not merely with knowledge but with humanity’s survival, we hunger
+      for debates that are as rigorous as transformative, i.e. debates capable of imagining
+      a fundamentally different […] The post What the Sachs–Mearsheimer Debate Misses
+      appeared first on The Transnational .
+    one_sentence_summary: Biljana Vankovska argues that while the world is interconnected
+      like a sphere, it requires designated zones of peace to foster transformative
+      debates essential for humanity's survival, highlighting the shortcomings of the
+      Sachs-Mearsheimer debate.
+    paragraph_summary: In her article, Biljana Vankovska emphasizes the importance of
+      fostering rigorous and transformative debates within the global intellectual community,
+      particularly in the context of humanity's survival. She critiques the Sachs-Mearsheimer
+      debate for overlooking essential aspects of global peace and cooperation, arguing
+      that while the world is interconnected like a sphere, it requires designated zones
+      of peace to address pressing global challenges. Vankovska calls for a reimagining
+      of discussions that prioritize not just knowledge but also the well-being of humanity,
+      advocating for a shift towards more constructive and inclusive dialogues.
+    published: '2025-11-13T12:59:03+00:00'
+  - title: What the Sachs–Mearsheimer Debate Misses
+    url: https://transnational.live/2025/11/13/what-the-sachs-mearsheimer-debate-misses/
+    text: The World Is a Sphere, But It Needs Zones of Peace Biljana Vankovska Professor
+      emerita, TFF Board member November 13, 2025 As members of a global intellectual
+      public, concerned not merely with knowledge but with humanity’s survival, we hunger
+      for debates that are as rigorous as transformative, i.e. debates capable of imagining
+      a fundamentally different […] The post What the Sachs–Mearsheimer Debate Misses
+      appeared first on The Transnational .
+    one_sentence_summary: Biljana Vankovska argues that while the world is interconnected
+      like a sphere, it requires designated zones of peace to foster transformative
+      debates essential for humanity's survival, highlighting the shortcomings of the
+      Sachs-Mearsheimer debate.
+    paragraph_summary: In her article, Biljana Vankovska emphasizes the importance of
+      fostering rigorous and transformative debates within the global intellectual community,
+      particularly in the context of humanity's survival. She critiques the Sachs-Mearsheimer
+      debate for overlooking essential aspects of global peace and cooperation, arguing
+      that while the world is interconnected like a sphere, it requires designated zones
+      of peace to address pressing global challenges. Vankovska calls for a reimagining
+      of discussions that prioritize not just knowledge but also the well-being of humanity,
+      advocating for a shift towards more constructive and inclusive dialogues.
+    published: '2025-11-13T12:59:03+00:00'
+  - title: Jan Oberg Exposes the Truth About Nuclear Weapons
+    url: https://transnational.live/2025/11/12/jan-oberg-exposes-the-truth-about-nuclear-weapons/
+    text: Jan Oberg November 12, 2025 I’m very happy to present a few videos on existential
+      global issues produced by the excellent media corporation, The China Academy,
+      which were filmed during my visit to Shanghai in October 2025. Here is the first.
+      Your comments, whether below or on YouTube, are most welcome. The post Jan Oberg
+      Exposes the Truth About Nuclear Weapons appeared first on The Transnational .
+    one_sentence_summary: Jan Oberg shares videos addressing existential global issues,
+      particularly focusing on nuclear weapons, produced by The China Academy during
+      his October 2025 visit to Shanghai.
+    paragraph_summary: Jan Oberg announced the release of several videos addressing
+      critical global issues, created by The China Academy during his visit to Shanghai
+      in October 2025. The first video focuses on the topic of nuclear weapons, and
+      Oberg invites viewers to share their thoughts and comments either below the post
+      or on YouTube. The announcement was published on The Transnational website.
+    published: '2025-11-12T22:30:39+00:00'
+  - title: Jan Oberg Exposes the Truth About Nuclear Weapons
+    url: https://transnational.live/2025/11/12/jan-oberg-exposes-the-truth-about-nuclear-weapons/
+    text: Jan Oberg November 12, 2025 I’m very happy to present a few videos on existential
+      global issues produced by the excellent media corporation, The China Academy,
+      which were filmed during my visit to Shanghai in October 2025. Here is the first.
+      Your comments, whether below or on YouTube, are most welcome. The post Jan Oberg
+      Exposes the Truth About Nuclear Weapons appeared first on The Transnational .
+    one_sentence_summary: Jan Oberg shares videos addressing existential global issues,
+      particularly focusing on nuclear weapons, produced by The China Academy during
+      his October 2025 visit to Shanghai.
+    paragraph_summary: Jan Oberg announced the release of several videos addressing
+      critical global issues, created by The China Academy during his visit to Shanghai
+      in October 2025. The first video focuses on the topic of nuclear weapons, and
+      Oberg invites viewers to share their thoughts and comments either below the post
+      or on YouTube. The announcement was published on The Transnational website.
+    published: '2025-11-12T22:30:39+00:00'
+  - title: 'Two Conferences in Shanghai: Reflections on Discourse, Dialogue, and the
+      Non-Studies of Peace'
+    url: https://transnational.live/2025/11/12/two-conferences-in-shanghai-reflections-on-discourse-dialogue-and-the-non-studies-of-peace/
+    text: 'Jan Oberg, TFF Director In October 2025, I attended two major academic conferences
+      in Shanghai—both by invitation, and, curiously, as the only scholar from Scandinavia.
+      That absence felt unjust to the more experienced Nordic experts in China studies
+      who deserve a seat at such global forums. What unfolded was a journey through
+      two distinct but […] The post Two Conferences in Shanghai: Reflections on Discourse,
+      Dialogue, and the Non-Studies of Peace appeared first on The Transnational .'
+    one_sentence_summary: Jan Oberg reflects on his experience as the sole Scandinavian
+      scholar at two significant academic conferences in Shanghai, highlighting the
+      need for greater representation of Nordic experts in China studies and the importance
+      of discourse and dialogue in peace studies.
+    paragraph_summary: In October 2025, Jan Oberg, the TFF Director, participated in
+      two significant academic conferences in Shanghai, where he was notably the only
+      Scandinavian scholar present. This absence of Nordic experts in China studies
+      highlighted a perceived injustice, as these experienced individuals deserved representation
+      at such global events. Oberg's experience at the conferences prompted reflections
+      on the nature of discourse, dialogue, and the overlooked importance of peace studies
+      within academic discussions.
+    published: '2025-11-12T10:31:16+00:00'
+  - title: 'Two Conferences in Shanghai: Reflections on Discourse, Dialogue, and the
+      Non-Studies of Peace'
+    url: https://transnational.live/2025/11/12/two-conferences-in-shanghai-reflections-on-discourse-dialogue-and-the-non-studies-of-peace/
+    text: 'Jan Oberg, TFF Director In October 2025, I attended two major academic conferences
+      in Shanghai—both by invitation, and, curiously, as the only scholar from Scandinavia.
+      That absence felt unjust to the more experienced Nordic experts in China studies
+      who deserve a seat at such global forums. What unfolded was a journey through
+      two distinct but […] The post Two Conferences in Shanghai: Reflections on Discourse,
+      Dialogue, and the Non-Studies of Peace appeared first on The Transnational .'
+    one_sentence_summary: Jan Oberg reflects on his experience as the sole Scandinavian
+      scholar at two significant academic conferences in Shanghai, highlighting the
+      need for greater representation of Nordic experts in China studies and the importance
+      of discourse and dialogue in peace studies.
+    paragraph_summary: In October 2025, Jan Oberg, the TFF Director, participated in
+      two significant academic conferences in Shanghai, where he was notably the only
+      Scandinavian scholar present. This absence of Nordic experts in China studies
+      highlighted a perceived injustice, as these experienced individuals deserved representation
+      at such global events. Oberg's experience at the conferences prompted reflections
+      on the nature of discourse, dialogue, and the overlooked importance of peace studies
+      within academic discussions.
+    published: '2025-11-12T10:31:16+00:00'
   - title: The Nobel ‘Peace’ Committe Awards US Military Regime Change Policies
     url: https://transnational.live/2025/10/10/the-nobel-peace-committe-awards-us-military-regime-change-policies/
     text: OK, Trump did not get it. But he got a full endorsement of a possible future

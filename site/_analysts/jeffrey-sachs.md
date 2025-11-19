@@ -8,16 +8,235 @@ websites:
   - https://www.commondreams.org/author/jeffrey-d-sachs
   - https://www.jeffsachs.org/newspaper-articles
 summary: |
-  The past days have seen renewed scrutiny of U.S. interventionism in Latin America and the Middle East, alongside persistent calls for a fundamental rethinking of European foreign policy. As global tensions remain high, the latest developments underscore a pattern of power politics that continues to shape international affairs.
+  The geopolitical landscape remains dominated by the fallout from U.S. and Israeli policies in the Middle East, with new developments centering on the Trump administration’s push for a controversial UN Security Council resolution regarding Gaza. This move, as detailed by **Jeffrey Sachs**, is widely interpreted as an attempt to revive a colonial-style mandate, effectively placing Gaza under U.S. control and sidelining Palestinian sovereignty. The proposal, crafted in close coordination with Israel, seeks to separate Gaza from the rest of Palestine and grants the U.S. and Israel the authority to determine the timeline for any withdrawal, raising concerns that such control could become indefinite.
   
-  The most recent analysis by **Jeffrey Sachs** highlights a sharp escalation in U.S. tactics toward Venezuela. The United States, shifting its official rhetoric from “restoring democracy” to combating “narco-terrorists,” has revived regime-change strategies targeting President Nicolás Maduro. According to Sachs, the underlying motive remains access to Venezuela’s significant oil reserves, with Washington employing economic sanctions, military threats, and even placing a bounty on Maduro. These actions, Sachs argues, “reflect a long-standing pattern of intervention,” with severe humanitarian consequences for the Venezuelan population and questionable legal justification under international law. The normalization of military intervention rhetoric signals a high risk of further destabilization in the region.
+  **Sachs** argues that this strategy is “imperialism disguised as a peace process,” warning that it undermines both Palestinian statehood and regional stability. The majority of independent analysis concurs: the international community is urged to reject U.S. pressure and instead support a resolution that recognizes Palestinian statehood, ensures territorial integrity, and upholds international law. The ongoing violence and humanitarian crisis in Gaza are cited as direct consequences of these policies, with critics highlighting the urgent need for a genuine peace process.
   
-  Turning to Europe, Sachs continues to warn that the European Union is trapped in a security and economic crisis, exacerbated by its dependency on the United States and an exaggerated fear of Russia and China. He contends that Europe’s current alignment with U.S. interests undermines its own economic and security priorities. Sachs asserts, “Europe must overcome its Russophobia and develop a foreign policy that respects the interests of all parties involved.” There is a high chance, he predicts, that unless Europe reorients its approach, it will remain mired in crisis and unable to assert its autonomy on the world stage.
+  Meanwhile, the U.S. approach to Venezuela has also escalated, with Washington reviving regime-change tactics under the guise of combating “narco-terrorism.” **Jeffrey Sachs** points out that the underlying motive remains control over Venezuela’s vast oil reserves, as evidenced by renewed economic sanctions, military threats, and a bounty on President Nicolás Maduro. This pattern of intervention, he notes, mirrors past U.S. actions in the region and raises significant ethical and legal concerns, particularly given the severe humanitarian impact on the Venezuelan population.
   
-  Meanwhile, the aftermath of the recent Gaza ceasefire remains fraught. Sachs’s reporting attributes the halt in fighting to Israel reaching a predetermined “quota” of Palestinian deaths, rather than any substantive progress toward peace. He notes that the Israeli government, led by Prime Minister Netanyahu, remains firmly opposed to the establishment of a Palestinian state, despite growing international condemnation and a modest shift in U.S. policy. While there is a high chance of renewed diplomatic efforts, Sachs is skeptical that Israel will engage in genuine negotiations for a two-state solution without significant external pressure.
-  
-  In summary, the latest developments point to a continuation of U.S.-driven interventionism, persistent instability in the Middle East, and a European Union at a crossroads. The prevailing trend is one of entrenched interests resisting meaningful change, but mounting humanitarian costs and international criticism may force a reassessment of current policies. There is a high chance that, absent a strategic shift—particularly by the U.S. and Europe—these crises will persist, with only incremental progress toward peace and stability.
+  Looking ahead, the prevailing trend is a deepening skepticism toward U.S.-led interventions, both in the Middle East and Latin America. There is a high chance that the Trump administration’s Gaza proposal will face strong resistance at the UN and from the broader international community. As **Sachs** emphasizes, “a genuine resolution must recognize Palestinian statehood and mutual security,” and the prospects for peace will remain dim unless these core issues are addressed. On Venezuela, it is quite likely that continued U.S. pressure will exacerbate the crisis without achieving regime change, further isolating Washington diplomatically. The overall outlook suggests mounting global calls for a shift toward diplomacy, respect for sovereignty, and adherence to international law.
 articles:
+  - title: Trump wants to recreate the British mandate in Palestine
+    url: https://www.aljazeera.com/opinions/2025/11/13/trump-wants-to-recreate-the-british-mandate-in-palestine
+    text: 'The US president is pushing a UN resolution that would revive the mandate
+      structure of 100 years ago almost entirely, simply replacing the UK with the US
+      as the authority in control.
+
+
+      The Trump administration is pushing an Israeli-crafted resolution at the UN Security
+      Council (UNSC) this week aimed at eliminating the possibility of a State of Palestine.
+      The resolution does three things. It establishes US political control over the
+      Gaza Strip. It separates Gaza from the rest of Palestine. And it allows the US,
+      and therefore Israel, to determine the timeline for Israel’s supposed withdrawal
+      from Gaza, which would mean never.
+
+
+      This is imperialism masquerading as a peace process. In and of itself, it is no
+      surprise. Israel runs US foreign policy in the Middle East. What is a surprise
+      is that the US and Israel might just get away with this travesty unless the world
+      speaks up with urgency and indignation.
+
+
+      The draft UNSC resolution would establish a US-UK-dominated Board of Peace, chaired
+      by none other than President Donald Trump himself, and endowed with sweeping powers
+      over Gaza’s governance, borders, reconstruction, and security. This resolution
+      would sideline the State of Palestine and condition any transfer of authority
+      to the Palestinians on the indulgence of the Board of Peace.
+
+
+      This would be an overt return to the British mandate of 100 years ago, with the
+      only change being that the US would hold the mandate rather than the United Kingdom.
+      If it were not so utterly tragic, it would be laughable. As Marx said, history
+      repeats itself, first as tragedy, then as farce. Yes, the proposal is a farce,
+      yet Israel’s genocide is not. It is a tragedy of the first order.
+
+
+      Incredibly, according to the draft resolution, the Board of Peace would be granted
+      sovereign powers in Gaza. Palestinian sovereignty is left to the discretion of
+      the board, which alone would decide when Palestinians are “ready” to govern themselves
+      – perhaps in another 100 years? Even military security is subordinated to the
+      board, and the envisioned forces would answer not to the UNSC or to the Palestinian
+      people, but to the board’s “strategic guidance”.
+
+
+      Advertisement
+
+
+      The US-Israel resolution is being put forward precisely because the rest of the
+      world – other than Israel and the US – has woken up to two facts. First, Israel
+      is committing genocide, a reality witnessed every day in Gaza and the occupied
+      West Bank, where innocent Palestinians are murdered to the satisfaction of the
+      Israeli military and illegal Israeli settlers in the West Bank. Second, Palestine
+      is a state, albeit one whose sovereignty remains obstructed by the US, which uses
+      its veto in the UNSC to block Palestine’s permanent UN membership. At the UN this
+      past July and then again in September, the UN General Assembly voted overwhelmingly
+      for Palestine’s statehood, a fact that put the Israel-US Zionist lobby into overdrive,
+      resulting in the current draft resolution.
+
+
+      For Israel to accomplish its goal of Greater Israel, the US is pursuing a classic
+      divide-and-conquer strategy, squeezing Arab and Islamic states with threats and
+      inducements. When other countries resist the US-Israel demands, they are cut off
+      from critical technologies, lose access to World Bank and IMF financing, and suffer
+      Israeli bombing, even in countries with US military bases present. The US offers
+      no real protection; rather, it orchestrates a protection racket, extracting concessions
+      from countries wherever US leverage exists. This extortion will continue until
+      the global community stands up to such tactics and insists upon genuine Palestinian
+      sovereignty and US and Israeli adherence to international law.
+
+
+      Palestine remains the endless victim of US and Israeli manoeuvres. The results
+      are not just devastating for Palestine, which has suffered an outright genocide,
+      but for the Arab world and beyond. Israel and the US are currently at war, overtly
+      or covertly, across the Horn of Africa (Libya, Sudan, Somalia), the eastern Mediterranean
+      (Lebanon, Syria), the Gulf region (Yemen), and Western Asia (Iraq, Iran).
+
+
+      If the UNSC is to provide true security according to the UN Charter, it must not
+      yield to US pressures and instead act decisively in line with international law.
+      A resolution truly for peace should include four vital points. First, it should
+      welcome the State of Palestine as a sovereign UN member state, with the US lifting
+      its veto. Second, it should safeguard the territorial integrity of the State of
+      Palestine and Israel, according to the 1967 borders. Third, it should establish
+      a UNSC-mandated protection force drawn up from Muslim-majority states. Fourth,
+      it should include the defunding and disarmament of all belligerent non-state entities,
+      and it should ensure the mutual security of Israel and Palestine.
+
+
+      Advertisement
+
+
+      The two-state solution is about true peace, not about the politicide and genocide
+      of Palestine, or the continued attacks by militants on Israel. It is time for
+      both Palestinians and Israelis to be safe, and for the US and Israel to give up
+      the cruel delusion of permanently ruling over the Palestinian people.
+
+
+      The views expressed in this article are the authors’ own and do not necessarily
+      reflect Al Jazeera’s editorial policy.'
+    one_sentence_summary: The Trump administration is advocating for a UN resolution
+      that would effectively replace British control in Palestine with US authority,
+      undermining Palestinian sovereignty and perpetuating Israeli dominance in the
+      region, while framing it as a peace process despite the ongoing violence and genocide
+      against Palestinians.
+    paragraph_summary: The article critiques a proposed UN Security Council resolution
+      by the Trump administration, which aims to establish US control over the Gaza
+      Strip while undermining Palestinian sovereignty and effectively reviving a colonial
+      mandate structure reminiscent of a century ago, but with the US replacing the
+      UK as the authority. The resolution, crafted with Israeli input, seeks to separate
+      Gaza from the rest of Palestine and allows the US and Israel to dictate the timeline
+      for any potential withdrawal from Gaza, which critics argue could lead to indefinite
+      control. The article condemns this move as imperialism disguised as a peace process,
+      highlighting the ongoing violence against Palestinians and the broader implications
+      for regional stability. It calls for a genuine resolution that recognizes Palestinian
+      statehood, ensures territorial integrity, and promotes mutual security for both
+      Israelis and Palestinians, urging the international community to reject US pressures
+      and uphold international law.
+    published: '2025-11-14T05:50:24.120145+00:00'
+  - title: Trump’s Ploy at the UN Is American Imperialism Masquerading as a Peace Process
+    url: https://www.commondreams.org/opinion/trump-s-ploy-at-the-un-is-american-imperialism-masquerading-as-a-peace-process
+    text: 'The Trump administration is pushing an Israeli-crafted resolution at the
+      UN Security Council (UNSC) this week aimed at eliminating the possibility of a
+      State of Palestine. The resolution does three things. It establishes US political
+      control over Gaza. It separates Gaza from the rest of Palestine. And it allows
+      the US, and therefore Israel, to determine the timeline for Israel’s supposed
+      withdrawal from Gaza–which would mean: never.
+
+
+      This is imperialism masquerading as a peace process. In and of itself it’s no
+      surprise. Israel runs US foreign policy in the Middle East. What is a surprise
+      is that the US and Israel might just get away with this travesty unless the world
+      speaks up with urgency and indignation.
+
+
+      The draft UNSC resolution would establish a US-UK-dominated Board of Peace, chaired
+      by none other than Donald Trump himself, and endowed with sweeping powers over
+      Gaza’s governance, borders, reconstruction, and security. This resolution would
+      sideline the State of Palestine and condition any transfer of authority to the
+      Palestinians on the indulgence of the Board of Peace.
+
+
+      This would be an overt return to the British Mandate of 100 years ago, with the
+      only change being that the US would hold the mandate rather than Britain. If it
+      weren’t so utterly tragic, it would be laughable. As Marx said, history repeats
+      itself, first as tragedy, then as farce. Yes, the proposal is farce, yet Israel’s
+      genocide is not. It is tragedy of the first order.
+
+
+      If it weren’t so utterly tragic, it would be laughable.
+
+
+      Incredibly, according to the draft resolution, the Board of Peace would be granted
+      sovereign powers in Gaza. Palestinian sovereignty is left to the discretion of
+      the Board, which alone would decide when Palestinians are “ready” to govern themselves
+      – perhaps in another 100 years? Even military security is subordinated to the
+      Board, and the envisioned forces would answer not to the UN Security Council or
+      to the Palestinian people, but to the Board’s “strategic guidance.”
+
+
+      The US-Israel resolution is being put forward precisely because the rest of the
+      world—other than Israel and the US—has woken up to two facts. First, Israel is
+      committing genocide, a reality witnessed every day in Gaza and the West Bank,
+      where innocent Palestinians are murdered to the satisfaction of the Israel Defense
+      Forces and the illegal Israeli settlers in the West Bank. Second, Palestine is
+      a state, albeit one whose sovereignty remains obstructed by the US, which uses
+      its veto in the UNSC to block Palestine’s permanent UN membership. At the UN this
+      past July and then again in September, the UN General Assembly voted overwhelmingly
+      for Palestine’s statehood, a fact that put the Israel-US Zionist lobby into overdrive,
+      resulting in the current draft resolution.
+
+
+      For Israel to accomplish its goal of Greater Israel, the US is pursuing a classic
+      divide-and-conquer strategy, squeezing Arab and Islamic states with threats and
+      inducements. When other countries resist the US-Israel demands, they are cut off
+      from critical technologies, lose access to World Bank and IMF financing, and suffer
+      Israeli bombing, even in countries with US military bases present. The US offers
+      no real protection; rather, it orchestrates a protection racket, extracting concessions
+      from countries wherever US leverage exists. This extortion will continue until
+      the global community stands up to such tactics and insists upon genuine Palestinian
+      sovereignty and US and Israeli adherence to international law.
+
+
+      Palestine remains the endless victim of US and Israeli maneuvers. The results
+      are not just devastating for Palestine, which has suffered an outright genocide,
+      but for the Arab world and beyond. Israel and the US are currently at war, overtly
+      or covertly, across the Horn of Africa (Libya, Sudan, Somalia), the Eastern Mediterranean
+      (Lebanon, Syria), the Gulf region (Yemen), and Western Asia (Iraq, Iran).
+
+
+      If the UN Security Council is to provide true security in accordance with the
+      UN Charter, it must not yield to US pressures and instead act decisively in line
+      with international law. A resolution truly for peace should include four vital
+      points. First, it should welcome the State of Palestine as a sovereign UN member
+      state, with the US lifting its veto. Second, it should safeguard the territorial
+      integrity of the State of Palestine and Israel, according to the 1967 borders.
+      Third, it should establish a UNSC-mandated protection force drawn up from Muslim-majority
+      states. Fourth, it should include the defunding and disarmament of all belligerent
+      non-state entities, and it should ensure the mutual security of Israel and Palestine.
+
+
+      The two-state solution is about true peace—not about the politicide and genocide
+      of Palestine, or the continued attacks by militants on Israel. It’s time for both
+      Palestinians and Israelis to be safe, and for the US and Israel to give up the
+      cruel delusion of permanently ruling over the Palestinian people.'
+    one_sentence_summary: The Trump administration is promoting a UN Security Council
+      resolution that aims to undermine Palestinian statehood by establishing US control
+      over Gaza and sidelining Palestinian governance, which critics argue represents
+      a form of imperialism and exacerbates the ongoing humanitarian crisis in the region.
+    paragraph_summary: The Trump administration is advocating for a UN Security Council
+      resolution, crafted by Israel, that seeks to undermine the establishment of a
+      State of Palestine by asserting US political control over Gaza and separating
+      it from the rest of Palestine. This resolution proposes the creation of a US-UK-dominated
+      Board of Peace, led by Donald Trump, which would have extensive powers over Gaza's
+      governance and security, effectively sidelining Palestinian sovereignty and delaying
+      any self-governance indefinitely. Critics argue that this move represents a return
+      to colonial-style governance, with the US and Israel employing a divide-and-conquer
+      strategy to maintain dominance over the region while the international community
+      increasingly recognizes Palestine's statehood. The article calls for a genuine
+      peace resolution that acknowledges Palestinian sovereignty, protects territorial
+      integrity, and ensures mutual security for both Israelis and Palestinians, urging
+      the UN to resist US pressure and uphold international law.
+    published: '2025-11-13T12:16:03+00:00'
   - title: Venezuela’s Oil, US-led Regime Change, and America’s Gangster Politics
     url: https://www.commondreams.org/opinion/us-regime-change-venezuela
     text: 'The United States is dusting off its old regime-change playbook in Venezuela.

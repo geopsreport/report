@@ -7,16 +7,634 @@ description: "27-year CIA analyst turned independent; co-founder of Veteran Inte
 websites:
   - https://consortiumnews.com
 summary: |
-  The past 24 hours have brought renewed scrutiny to the intersection of Western power and democratic legitimacy, with significant developments spanning Washington, Canberra, and Dublin.
+  The geopolitical landscape remains dominated by the ongoing crisis in Gaza and shifting U.S. foreign policy, with new developments highlighting the deepening consequences of recent decisions.
   
-  In a striking display of realpolitik, the recent visit of Al-Sharaa—a figure with links to Al-Qaeda—to the White House has reignited debate over Washington's selective approach to democracy. As **Ray McGovern** observes, this episode "highlights Washington's historical disdain for democratic processes and those who advocate for them, both outside and occasionally within the West." The symbolism of this meeting, against the backdrop of ongoing U.S. support for controversial regimes and actors, has drawn criticism from both domestic and international observers, who argue that such alliances undermine the credibility of Western democratic rhetoric.
+  The latest reports underscore the implementation of Donald Trump’s Gaza policy, which independent analyst **Lee Camp** asserts will result in colonizers occupying 58 percent of Gaza, leaving the rest “devastated and in ruins.” This marks a significant escalation from previous proposals, suggesting a near-total transformation of the territory’s demographic and physical landscape. The majority of analysts agree that this move will exacerbate humanitarian concerns and further destabilize the region.
   
-  Meanwhile, the 50th anniversary of the 1975 Australian constitutional crisis has resurfaced with new revelations. **Jenny Hocking** and **Peter Cronau** report that Queen Elizabeth II directly advised the Australian governor-general to dismiss the elected government, a move that precipitated a major political upheaval. This intervention, corroborated by archival research and highlighted by **John Pilger**'s retrospective, underscores the enduring influence of external actors—namely the British monarchy and the CIA—in shaping the political destinies of allied states. The consensus among analysts is that this episode remains a cautionary tale about the fragility of democratic institutions under external pressure.
+  At the international level, criticism of global complicity is mounting. U.N. Special Rapporteur **Francesca Albanese** has sharply condemned over 60 nations for their role in what she describes as “ongoing genocide in Gaza.” This follows the recent U.N. Security Council decision to grant the U.S. a mandate over Palestine, a move widely interpreted as legitimizing Trump’s controversial plans for the territory. The prevailing view among independent observers is that these actions represent a continuation of American and Israeli dominance in the region, with little regard for Palestinian self-determination.
   
-  In Ireland, the inauguration of President Catherine Connolly has triggered immediate backlash from Western governments, primarily due to her outspoken positions on Israel and NATO. **Ray McGovern** notes that Connolly's election signals a shift in Irish foreign policy discourse, with potential implications for EU and transatlantic relations. The reaction from Western capitals suggests heightened sensitivity to dissenting voices within the alliance, particularly on issues related to the Middle East.
+  Meanwhile, in Latin America, **Greg Grandin** traces the evolution of the U.S.-led War on Drugs, noting that the Trump era has been marked by increased violence and governmental failure. This trend, while not new, has intensified under current policies, contributing to regional instability and undermining prospects for reform.
   
-  Looking ahead, the prevailing trend is one of increasing skepticism toward Western claims of democratic leadership, as historical and current events reveal persistent patterns of intervention and selective support for democratic norms. It is most definitely expected that revelations about past and present interventions will continue to fuel debate and challenge the legitimacy of Western foreign policy narratives. There is a high chance that tensions within alliances—especially over Middle East policy and questions of sovereignty—will intensify in the coming weeks.
+  Looking ahead, the majority of analysts, including **Ray McGovern**, predict with high confidence that the situation in Gaza will deteriorate further, with international condemnation likely to grow but with limited practical effect. The U.S. is expected to maintain its current course, prioritizing strategic interests over humanitarian concerns. In Latin America, the cycle of violence linked to drug policy is “quite likely” to persist, absent a significant shift in U.S. strategy.
+  
+  In summary, the dominant trends point toward deepening crises in both Gaza and Latin America, driven by entrenched policy choices and a lack of effective international intervention. The prognosis remains bleak, with little indication of imminent positive change.
 articles:
+  - title: Trump’s Gaza Colonization Coming To Fruition
+    url: https://consortiumnews.com/2025/11/18/trumps-gaza-colonization-coming-to-fruition/
+    text: Colonizers will take over 58 percent of Gaza, the rest will be left in ruins,
+      writes Lee Camp. By Lee Camp Lee Camp & Dangerous Ideas  In the increasingly noxious
+      world in which we live, a country can make clear precisely… Read more →
+    one_sentence_summary: Lee Camp argues that colonizers will occupy 58 percent of
+      Gaza, leaving the remainder devastated and in ruins.
+    paragraph_summary: In his article, Lee Camp discusses the dire situation in Gaza,
+      predicting that colonizers will seize 58 percent of the territory, leaving the
+      remainder in devastation. He highlights the broader implications of this takeover
+      in a world marked by increasing hostility and conflict, emphasizing the urgent
+      need to address the injustices faced by the Palestinian people amidst ongoing
+      colonization efforts.
+    published: '2025-11-19T00:21:45+00:00'
+  - title: Trump’s Gaza Colonization Coming To Fruition
+    url: https://consortiumnews.com/2025/11/18/trumps-gaza-colonization-coming-to-fruition/
+    text: Colonizers will take over 58 percent of Gaza, the rest will be left in ruins,
+      writes Lee Camp. By Lee Camp Lee Camp & Dangerous Ideas  In the increasingly noxious
+      world in which we live, a country can make clear precisely… Read more →
+    one_sentence_summary: Lee Camp argues that colonizers will occupy 58 percent of
+      Gaza, leaving the remainder devastated and in ruins.
+    paragraph_summary: In his article, Lee Camp discusses the dire situation in Gaza,
+      predicting that colonizers will seize 58 percent of the territory, leaving the
+      remainder in devastation. He highlights the broader implications of this takeover
+      in a world marked by increasing hostility and conflict, emphasizing the urgent
+      need to address the injustices faced by the Palestinian people amidst ongoing
+      colonization efforts.
+    published: '2025-11-19T00:21:45+00:00'
+  - title: Escalating the Escalation
+    url: https://consortiumnews.com/2025/11/18/escalating-the-escalation/
+    text: Greg Grandin provides a short history of the Long War on Drugs in Latin America
+      from Richard Nixon to Donald Trump. By Greg Grandin TomDispatch Today, Donald
+      Trump presides over his own Murder Incorporated, less a government than a death
+      squad.… Read more →
+    one_sentence_summary: Greg Grandin outlines the history of the Long War on Drugs
+      in Latin America, highlighting its evolution from Richard Nixon's era to Donald
+      Trump's presidency, which he characterizes as a time marked by violence and governmental
+      failure.
+    paragraph_summary: In his article, Greg Grandin traces the history of the Long War
+      on Drugs in Latin America, highlighting its evolution from Richard Nixon's era
+      to Donald Trump's presidency. He critiques the ongoing violence and militarization
+      associated with U.S. drug policies, suggesting that the current administration
+      operates more like a death squad than a legitimate government, perpetuating a
+      cycle of murder and chaos in the region. Grandin's analysis underscores the detrimental
+      impact of these policies on Latin American societies and the broader implications
+      for U.S. foreign policy.
+    published: '2025-11-18T19:00:34+00:00'
+  - title: Escalating the Escalation
+    url: https://consortiumnews.com/2025/11/18/escalating-the-escalation/
+    text: Greg Grandin provides a short history of the Long War on Drugs in Latin America
+      from Richard Nixon to Donald Trump. By Greg Grandin TomDispatch Today, Donald
+      Trump presides over his own Murder Incorporated, less a government than a death
+      squad.… Read more →
+    one_sentence_summary: Greg Grandin outlines the history of the Long War on Drugs
+      in Latin America, highlighting its evolution from Richard Nixon's era to Donald
+      Trump's presidency, which he characterizes as a time marked by violence and governmental
+      failure.
+    paragraph_summary: In his article, Greg Grandin traces the history of the Long War
+      on Drugs in Latin America, highlighting its evolution from Richard Nixon's era
+      to Donald Trump's presidency. He critiques the ongoing violence and militarization
+      associated with U.S. drug policies, suggesting that the current administration
+      operates more like a death squad than a legitimate government, perpetuating a
+      cycle of murder and chaos in the region. Grandin's analysis underscores the detrimental
+      impact of these policies on Latin American societies and the broader implications
+      for U.S. foreign policy.
+    published: '2025-11-18T19:00:34+00:00'
+  - title: 'Hedges Report:  UN Members Complicit in Genocide'
+    url: https://consortiumnews.com/2025/11/17/hedges-report-un-members-complicit-in-genocide/
+    text: U.N. Special Rapporteur on Palestine Francesca Albanese discusses why, in
+      her most recent report, she called out more than 60 nations for their collective-crime
+      roles in the ongoing genocide in Gaza. By Chris Hedges The Chris Hedges Report
+      After two years… Read more →
+    one_sentence_summary: U.N. Special Rapporteur Francesca Albanese criticizes over
+      60 nations for their complicity in the ongoing genocide in Gaza in her latest
+      report.
+    paragraph_summary: In her recent report, U.N. Special Rapporteur on Palestine Francesca
+      Albanese criticized over 60 nations for their complicity in what she describes
+      as a genocide in Gaza. Albanese argues that these countries share responsibility
+      for the ongoing violence and humanitarian crisis due to their political, military,
+      and economic support for Israel. The report highlights the urgent need for international
+      accountability and action to address the situation in Gaza, emphasizing the moral
+      obligation of the global community to intervene and protect the rights of the
+      Palestinian people.
+    published: '2025-11-18T01:52:10+00:00'
+  - title: 'Hedges Report:  UN Members Complicit in Genocide'
+    url: https://consortiumnews.com/2025/11/17/hedges-report-un-members-complicit-in-genocide/
+    text: U.N. Special Rapporteur on Palestine Francesca Albanese discusses why, in
+      her most recent report, she called out more than 60 nations for their collective-crime
+      roles in the ongoing genocide in Gaza. By Chris Hedges The Chris Hedges Report
+      After two years… Read more →
+    one_sentence_summary: U.N. Special Rapporteur Francesca Albanese criticizes over
+      60 nations for their complicity in the ongoing genocide in Gaza in her latest
+      report.
+    paragraph_summary: In her recent report, U.N. Special Rapporteur on Palestine Francesca
+      Albanese criticized over 60 nations for their complicity in what she describes
+      as a genocide in Gaza. Albanese argues that these countries share responsibility
+      for the ongoing violence and humanitarian crisis due to their political, military,
+      and economic support for Israel. The report highlights the urgent need for international
+      accountability and action to address the situation in Gaza, emphasizing the moral
+      obligation of the global community to intervene and protect the rights of the
+      Palestinian people.
+    published: '2025-11-18T01:52:10+00:00'
+  - title: UN Security Council Gives US ‘Mandate’ Over Palestine
+    url: https://consortiumnews.com/2025/11/17/un-security-council-gives-us-mandate-over-palestine/
+    text: The council endorsed Donald Trump’s neo-colonial governing board over a territory
+      that he said should be depopulated to make way for his resort fantasy to be built
+      on the bones of the victims of Israel’s genocide, reports Joe Lauria. This… Read
+      more →
+    one_sentence_summary: The council supported Donald Trump's controversial plan for
+      a governing board in a territory he proposed to depopulate for a resort project,
+      which critics link to the ongoing suffering of victims of Israel's actions.
+    paragraph_summary: The article discusses a council's endorsement of Donald Trump's
+      governing board for a territory he envisions transforming into a resort, a plan
+      criticized for its neo-colonial implications and insensitivity to the victims
+      of Israel's genocide. Joe Lauria highlights the controversial nature of Trump's
+      proposal, suggesting it prioritizes commercial interests over the rights and histories
+      of the affected populations.
+    published: '2025-11-18T00:27:26+00:00'
+  - title: UN Security Council Gives US ‘Mandate’ Over Palestine
+    url: https://consortiumnews.com/2025/11/17/un-security-council-gives-us-mandate-over-palestine/
+    text: The council endorsed Donald Trump’s neo-colonial governing board over a territory
+      that he said should be depopulated to make way for his resort fantasy to be built
+      on the bones of the victims of Israel’s genocide, reports Joe Lauria. This… Read
+      more →
+    one_sentence_summary: The council supported Donald Trump's controversial plan for
+      a governing board in a territory he proposed to depopulate for a resort project,
+      which critics link to the ongoing suffering of victims of Israel's actions.
+    paragraph_summary: The article discusses a council's endorsement of Donald Trump's
+      governing board for a territory he envisions transforming into a resort, a plan
+      criticized for its neo-colonial implications and insensitivity to the victims
+      of Israel's genocide. Joe Lauria highlights the controversial nature of Trump's
+      proposal, suggesting it prioritizes commercial interests over the rights and histories
+      of the affected populations.
+    published: '2025-11-18T00:27:26+00:00'
+  - title: 'Jeffrey Sachs: Trump’s UN Ploy'
+    url: https://consortiumnews.com/2025/11/17/jeffrey-sachs-trumps-un-ploy/
+    text: The U.S. administration’s efforts behind an Israel-crafted resolution is American
+      imperialism masquerading as a peace process. By Jeffrey D. Sachs and Sybil Fares
+      Common Dreams The Trump administration is pushing an Israeli-crafted resolution
+      at the U.N. Security Council (UNSC) this week aimed at… Read more →
+    one_sentence_summary: The article argues that the U.S. administration's support
+      for an Israeli-designed resolution at the U.N. Security Council is a form of American
+      imperialism disguised as a peace initiative.
+    paragraph_summary: The article by Jeffrey D. Sachs and Sybil Fares critiques the
+      Trump administration's support for an Israeli-crafted resolution at the U.N. Security
+      Council, arguing that it represents American imperialism disguised as a peace
+      initiative. The authors suggest that this approach undermines genuine efforts
+      for peace in the region and reflects a broader pattern of U.S. foreign policy
+      that prioritizes Israeli interests over a fair resolution to the Israeli-Palestinian
+      conflict.
+    published: '2025-11-17T23:30:17+00:00'
+  - title: 'Jeffrey Sachs: Trump’s UN Ploy'
+    url: https://consortiumnews.com/2025/11/17/jeffrey-sachs-trumps-un-ploy/
+    text: The U.S. administration’s efforts behind an Israel-crafted resolution is American
+      imperialism masquerading as a peace process. By Jeffrey D. Sachs and Sybil Fares
+      Common Dreams The Trump administration is pushing an Israeli-crafted resolution
+      at the U.N. Security Council (UNSC) this week aimed at… Read more →
+    one_sentence_summary: The article argues that the U.S. administration's support
+      for an Israeli-designed resolution at the U.N. Security Council is a form of American
+      imperialism disguised as a peace initiative.
+    paragraph_summary: The article by Jeffrey D. Sachs and Sybil Fares critiques the
+      Trump administration's support for an Israeli-crafted resolution at the U.N. Security
+      Council, arguing that it represents American imperialism disguised as a peace
+      initiative. The authors suggest that this approach undermines genuine efforts
+      for peace in the region and reflects a broader pattern of U.S. foreign policy
+      that prioritizes Israeli interests over a fair resolution to the Israeli-Palestinian
+      conflict.
+    published: '2025-11-17T23:30:17+00:00'
+  - title: AS’AD AbuKHALIL:  Bernie Sanders, Zionist
+    url: https://consortiumnews.com/2025/11/17/asad-abukhalil-bernie-sanders-zionist/
+    text: Sanders has made clear all along that he isn’t actually disagreeing with the
+      tenets of Zionism, as much as distancing himself personally from the revisionist
+      Zionism of Benjamin Netanyahu. By As`ad AbuKhalil Special to Consortium News In
+      a recent interview, U.S.… Read more →
+    one_sentence_summary: Bernie Sanders aims to clarify that his stance is not against
+      the core principles of Zionism, but rather a rejection of the revisionist Zionism
+      associated with Benjamin Netanyahu.
+    paragraph_summary: In a recent interview, As'ad AbuKhalil discusses Bernie Sanders'
+      stance on Zionism, emphasizing that Sanders does not fundamentally oppose the
+      core principles of Zionism. Instead, he seeks to distance himself from the revisionist
+      Zionism associated with Israeli Prime Minister Benjamin Netanyahu. This distinction
+      highlights Sanders' nuanced position within the broader discourse on Israeli-Palestinian
+      relations.
+    published: '2025-11-17T22:30:17+00:00'
+  - title: AS’AD AbuKHALIL:  Bernie Sanders, Zionist
+    url: https://consortiumnews.com/2025/11/17/asad-abukhalil-bernie-sanders-zionist/
+    text: Sanders has made clear all along that he isn’t actually disagreeing with the
+      tenets of Zionism, as much as distancing himself personally from the revisionist
+      Zionism of Benjamin Netanyahu. By As`ad AbuKhalil Special to Consortium News In
+      a recent interview, U.S.… Read more →
+    one_sentence_summary: Bernie Sanders aims to clarify that his stance is not against
+      the core principles of Zionism, but rather a rejection of the revisionist Zionism
+      associated with Benjamin Netanyahu.
+    paragraph_summary: In a recent interview, As'ad AbuKhalil discusses Bernie Sanders'
+      stance on Zionism, emphasizing that Sanders does not fundamentally oppose the
+      core principles of Zionism. Instead, he seeks to distance himself from the revisionist
+      Zionism associated with Israeli Prime Minister Benjamin Netanyahu. This distinction
+      highlights Sanders' nuanced position within the broader discourse on Israeli-Palestinian
+      relations.
+    published: '2025-11-17T22:30:17+00:00'
+  - title: Canada Interrogates 95 Yr Old ex-UN Rapporteur on Palestine
+    url: https://consortiumnews.com/2025/11/17/__trashed-2/
+    text: Authorities detained the human rights expert Richard Falk and his wife, scholar
+      Hilal Elver, as they entered Canada for a conference on that nation’s complicity
+      with Israel’s genocide in Gaza. By Jon Queally Common Dreams Ninety-five-year-old
+      Richard Falk — world… Read more →
+    one_sentence_summary: Authorities detained human rights expert Richard Falk and
+      his wife, scholar Hilal Elver, upon their arrival in Canada for a conference addressing
+      the country's complicity in Israel's actions in Gaza.
+    paragraph_summary: Authorities in Canada detained human rights expert Richard Falk
+      and his wife, scholar Hilal Elver, upon their arrival for a conference addressing
+      Canada's complicity in Israel's actions in Gaza. Falk, who is 95 years old, has
+      been a prominent critic of Israeli policies and has previously served as a UN
+      special rapporteur on Palestinian human rights. Their detention has raised concerns
+      about freedom of speech and the treatment of scholars discussing sensitive political
+      issues.
+    published: '2025-11-17T20:51:32+00:00'
+  - title: Canada Interrogates 95 Yr Old ex-UN Rapporteur on Palestine
+    url: https://consortiumnews.com/2025/11/17/__trashed-2/
+    text: Authorities detained the human rights expert Richard Falk and his wife, scholar
+      Hilal Elver, as they entered Canada for a conference on that nation’s complicity
+      with Israel’s genocide in Gaza. By Jon Queally Common Dreams Ninety-five-year-old
+      Richard Falk — world… Read more →
+    one_sentence_summary: Authorities detained human rights expert Richard Falk and
+      his wife, scholar Hilal Elver, upon their arrival in Canada for a conference addressing
+      the country's complicity in Israel's actions in Gaza.
+    paragraph_summary: Authorities in Canada detained human rights expert Richard Falk
+      and his wife, scholar Hilal Elver, upon their arrival for a conference addressing
+      Canada's complicity in Israel's actions in Gaza. Falk, who is 95 years old, has
+      been a prominent critic of Israeli policies and has previously served as a UN
+      special rapporteur on Palestinian human rights. Their detention has raised concerns
+      about freedom of speech and the treatment of scholars discussing sensitive political
+      issues.
+    published: '2025-11-17T20:51:32+00:00'
+  - title: 'CN at 30: WATCH: CN Live! — Dissident Intellectual'
+    url: https://consortiumnews.com/2025/11/17/cn-at-30-watch-cn-live-dissident-intellectual/
+    text: Consortium News looked back at the career of Richard Falk, a former U.N. special
+      rapporteur on Palestine, and outspoken critic of U.S. foreign policy, who joined
+      CN Live! on March 17, 2021. CN Live! hosts Elizabeth Vos and Joe Lauria… Read
+      more →
+    one_sentence_summary: Consortium News reflected on Richard Falk's career as a former
+      U.N. special rapporteur on Palestine and critic of U.S. foreign policy during
+      his appearance on CN Live! on March 17, 2021.
+    paragraph_summary: Consortium News reflected on the career of Richard Falk, a former
+      U.N. special rapporteur on Palestine and a vocal critic of U.S. foreign policy,
+      during his appearance on CN Live! on March 17, 2021. In the discussion hosted
+      by Elizabeth Vos and Joe Lauria, Falk shared insights from his extensive experience
+      and perspectives on international relations and the Palestinian issue.
+    published: '2025-11-17T20:51:00+00:00'
+  - title: 'CN at 30: WATCH: CN Live! — Dissident Intellectual'
+    url: https://consortiumnews.com/2025/11/17/cn-at-30-watch-cn-live-dissident-intellectual/
+    text: Consortium News looked back at the career of Richard Falk, a former U.N. special
+      rapporteur on Palestine, and outspoken critic of U.S. foreign policy, who joined
+      CN Live! on March 17, 2021. CN Live! hosts Elizabeth Vos and Joe Lauria… Read
+      more →
+    one_sentence_summary: Consortium News reflected on Richard Falk's career as a former
+      U.N. special rapporteur on Palestine and critic of U.S. foreign policy during
+      his appearance on CN Live! on March 17, 2021.
+    paragraph_summary: Consortium News reflected on the career of Richard Falk, a former
+      U.N. special rapporteur on Palestine and a vocal critic of U.S. foreign policy,
+      during his appearance on CN Live! on March 17, 2021. In the discussion hosted
+      by Elizabeth Vos and Joe Lauria, Falk shared insights from his extensive experience
+      and perspectives on international relations and the Palestinian issue.
+    published: '2025-11-17T20:51:00+00:00'
+  - title: 'CN at 30: The Meaning of Consortium News'
+    url: https://consortiumnews.com/2025/11/16/cn-at-30-the-meaning-of-consortium-news/
+    text: Founding editor Bob Parry left a legacy of strict, non-partisan journalism,
+      really the only kind of journalism that there is, which this site has endeavored
+      to continue, writes Joe Lauria. By Joe Lauria Special to Consortium News CN at
+      30… Read more →
+    one_sentence_summary: Bob Parry's legacy of strict, non-partisan journalism continues
+      to influence the work of Consortium News, as highlighted by Joe Lauria.
+    paragraph_summary: In a tribute to founding editor Bob Parry, Joe Lauria reflects
+      on Parry's commitment to strict, non-partisan journalism, emphasizing that this
+      approach is the only true form of journalism. Lauria highlights how the site has
+      strived to uphold Parry's legacy over the years, reinforcing the importance of
+      integrity and objectivity in reporting.
+    published: '2025-11-16T23:46:42+00:00'
+  - title: 'CN at 30: The Meaning of Consortium News'
+    url: https://consortiumnews.com/2025/11/16/cn-at-30-the-meaning-of-consortium-news/
+    text: Founding editor Bob Parry left a legacy of strict, non-partisan journalism,
+      really the only kind of journalism that there is, which this site has endeavored
+      to continue, writes Joe Lauria. By Joe Lauria Special to Consortium News CN at
+      30… Read more →
+    one_sentence_summary: Bob Parry's legacy of strict, non-partisan journalism continues
+      to influence the work of Consortium News, as highlighted by Joe Lauria.
+    paragraph_summary: In a tribute to founding editor Bob Parry, Joe Lauria reflects
+      on Parry's commitment to strict, non-partisan journalism, emphasizing that this
+      approach is the only true form of journalism. Lauria highlights how the site has
+      strived to uphold Parry's legacy over the years, reinforcing the importance of
+      integrity and objectivity in reporting.
+    published: '2025-11-16T23:46:42+00:00'
+  - title: US Inequality Is Way Past Revolution Time
+    url: https://consortiumnews.com/2025/11/14/us-inequality-is-way-past-revolution-time/
+    text: 'New Report: The rich are richer than the Gilded Age and half of all U.S.
+      children live in poverty, writes Lee Camp. By Lee Camp Lee Camp & Dangerous Ideas 
+      One would think that perhaps the greatest benefit of being a… Read more →'
+    one_sentence_summary: A new report by Lee Camp reveals that wealth inequality in
+      the U.S. has reached levels surpassing those of the Gilded Age, with half of all
+      American children living in poverty.
+    paragraph_summary: In his article, Lee Camp discusses a new report highlighting
+      the stark economic disparities in the U.S., revealing that the wealth of the richest
+      individuals has surpassed that of the Gilded Age, while simultaneously, half of
+      all American children are living in poverty. Camp emphasizes the alarming contrast
+      between the immense wealth concentration among the affluent and the dire financial
+      struggles faced by a significant portion of the population, particularly children,
+      underscoring the urgent need for systemic change to address these inequalities.
+    published: '2025-11-14T22:00:33+00:00'
+  - title: US Inequality Is Way Past Revolution Time
+    url: https://consortiumnews.com/2025/11/14/us-inequality-is-way-past-revolution-time/
+    text: 'New Report: The rich are richer than the Gilded Age and half of all U.S.
+      children live in poverty, writes Lee Camp. By Lee Camp Lee Camp & Dangerous Ideas 
+      One would think that perhaps the greatest benefit of being a… Read more →'
+    one_sentence_summary: A new report by Lee Camp reveals that wealth inequality in
+      the U.S. has reached levels surpassing those of the Gilded Age, with half of all
+      American children living in poverty.
+    paragraph_summary: In his article, Lee Camp discusses a new report highlighting
+      the stark economic disparities in the U.S., revealing that the wealth of the richest
+      individuals has surpassed that of the Gilded Age, while simultaneously, half of
+      all American children are living in poverty. Camp emphasizes the alarming contrast
+      between the immense wealth concentration among the affluent and the dire financial
+      struggles faced by a significant portion of the population, particularly children,
+      underscoring the urgent need for systemic change to address these inequalities.
+    published: '2025-11-14T22:00:33+00:00'
+  - title: 'WATCH: Our 30th Birthday Celebration'
+    url: https://consortiumnews.com/2025/11/14/watch-our-30th-birthday-celebration/
+    text: 'Saturday 9pm EST: Consortium News turns 30 years old Saturday. Robert Parry
+      founded the first independent, online news publication in the U.S. on Nov. 15,
+      1995. We’re celebrating 3 decades of bringing you news others won’t. Join our
+      celebration this… Read more →'
+    one_sentence_summary: Consortium News is celebrating its 30th anniversary as the
+      first independent online news publication in the U.S., founded by Robert Parry
+      on November 15, 1995.
+    paragraph_summary: Consortium News is celebrating its 30th anniversary on November
+      15, 2025, marking three decades as the first independent online news publication
+      in the U.S., founded by Robert Parry. The organization has built a reputation
+      for delivering news that often goes unreported by mainstream outlets, and it invites
+      readers to join in the celebration of its longstanding commitment to independent
+      journalism.
+    published: '2025-11-14T19:00:28+00:00'
+  - title: 'WATCH: Our 30th Birthday Celebration'
+    url: https://consortiumnews.com/2025/11/14/watch-our-30th-birthday-celebration/
+    text: 'Saturday 9pm EST: Consortium News turns 30 years old Saturday. Robert Parry
+      founded the first independent, online news publication in the U.S. on Nov. 15,
+      1995. We’re celebrating 3 decades of bringing you news others won’t. Join our
+      celebration this… Read more →'
+    one_sentence_summary: Consortium News is celebrating its 30th anniversary as the
+      first independent online news publication in the U.S., founded by Robert Parry
+      on November 15, 1995.
+    paragraph_summary: Consortium News is celebrating its 30th anniversary on November
+      15, 2025, marking three decades as the first independent online news publication
+      in the U.S., founded by Robert Parry. The organization has built a reputation
+      for delivering news that often goes unreported by mainstream outlets, and it invites
+      readers to join in the celebration of its longstanding commitment to independent
+      journalism.
+    published: '2025-11-14T19:00:28+00:00'
+  - title: 'Caitlin Johnstone: Burying the Real Epstein Story'
+    url: https://consortiumnews.com/2025/11/14/caitlin-johnstone-burying-the-real-epstein-story/
+    text: Sometimes the biggest news story of the day is the one all mainstream news
+      outlets are completely ignoring. It is interesting how often such instances involve
+      the state of Israel. By Caitlin Johnstone Caitlin’s Newsletter  One of the craziest
+      things… Read more →
+    one_sentence_summary: The article by Caitlin Johnstone discusses how significant
+      news stories, particularly those related to Israel, are often overlooked by mainstream
+      media outlets.
+    paragraph_summary: In her article, Caitlin Johnstone highlights the tendency of
+      mainstream news outlets to overlook significant stories, particularly those related
+      to Israel. She argues that this pattern reveals a broader issue in media coverage,
+      where critical events may go unreported or underreported, leading to a lack of
+      public awareness and understanding of important geopolitical dynamics. Johnstone's
+      commentary suggests a need for greater scrutiny of media narratives and encourages
+      readers to seek out alternative perspectives on global issues.
+    published: '2025-11-14T18:30:32+00:00'
+  - title: 'Caitlin Johnstone: Burying the Real Epstein Story'
+    url: https://consortiumnews.com/2025/11/14/caitlin-johnstone-burying-the-real-epstein-story/
+    text: Sometimes the biggest news story of the day is the one all mainstream news
+      outlets are completely ignoring. It is interesting how often such instances involve
+      the state of Israel. By Caitlin Johnstone Caitlin’s Newsletter  One of the craziest
+      things… Read more →
+    one_sentence_summary: The article by Caitlin Johnstone discusses how significant
+      news stories, particularly those related to Israel, are often overlooked by mainstream
+      media outlets.
+    paragraph_summary: In her article, Caitlin Johnstone highlights the tendency of
+      mainstream news outlets to overlook significant stories, particularly those related
+      to Israel. She argues that this pattern reveals a broader issue in media coverage,
+      where critical events may go unreported or underreported, leading to a lack of
+      public awareness and understanding of important geopolitical dynamics. Johnstone's
+      commentary suggests a need for greater scrutiny of media narratives and encourages
+      readers to seek out alternative perspectives on global issues.
+    published: '2025-11-14T18:30:32+00:00'
+  - title: 'Craig Murray: London Opposes Review of Palestine Action Terrorist Proscription'
+    url: https://consortiumnews.com/2025/11/14/craig-murray-london-opposes-review-of-palestine-action-terrorist-proscription/
+    text: Although the U.K. government continues in its attempt to prevent a challenge
+      to Palestine Action being labeled a terrorist group, there are numerous reasons
+      to believe they should be unsuccessful.  The activist group Palestine Action was
+      proscribed as a terrorist… Read more →
+    one_sentence_summary: The U.K. government's efforts to prevent Palestine Action
+      from being designated a terrorist group face significant challenges, as there
+      are compelling arguments against such a classification.
+    paragraph_summary: The U.K. government is working to prevent Palestine Action from
+      being designated as a terrorist organization, but there are compelling arguments
+      suggesting that their efforts will likely fail. The activist group, which has
+      been labeled as a terrorist entity, faces significant scrutiny and opposition
+      regarding this classification, indicating a complex debate surrounding their actions
+      and the implications of such a designation.
+    published: '2025-11-14T17:00:38+00:00'
+  - title: 'Craig Murray: London Opposes Review of Palestine Action Terrorist Proscription'
+    url: https://consortiumnews.com/2025/11/14/craig-murray-london-opposes-review-of-palestine-action-terrorist-proscription/
+    text: Although the U.K. government continues in its attempt to prevent a challenge
+      to Palestine Action being labeled a terrorist group, there are numerous reasons
+      to believe they should be unsuccessful.  The activist group Palestine Action was
+      proscribed as a terrorist… Read more →
+    one_sentence_summary: The U.K. government's efforts to prevent Palestine Action
+      from being designated a terrorist group face significant challenges, as there
+      are compelling arguments against such a classification.
+    paragraph_summary: The U.K. government is working to prevent Palestine Action from
+      being designated as a terrorist organization, but there are compelling arguments
+      suggesting that their efforts will likely fail. The activist group, which has
+      been labeled as a terrorist entity, faces significant scrutiny and opposition
+      regarding this classification, indicating a complex debate surrounding their actions
+      and the implications of such a designation.
+    published: '2025-11-14T17:00:38+00:00'
+  - title: 'Jonathan Cook: BBC Chose the Wrong Target This Time'
+    url: https://consortiumnews.com/2025/11/13/jonathan-cook-bbc-chose-the-wrong-target-this-time/
+    text: 'Heads have rolled at the BBC, but not due to a journalistic blunder – it
+      makes them all the time. It foolishly deferred to the billionaires in the political
+      battle over image-laundering: where to direct the hate. By Jonathan Cook… Read
+      more →'
+    one_sentence_summary: The article criticizes the BBC for prioritizing the interests
+      of billionaires in political image management over journalistic integrity, leading
+      to significant leadership changes.
+    paragraph_summary: In his article, Jonathan Cook critiques the BBC for its recent
+      leadership changes, arguing that they are not a result of journalistic failures
+      but rather a misguided attempt to appease wealthy individuals involved in political
+      image management. He suggests that the BBC's decision to prioritize the interests
+      of billionaires in the ongoing political landscape reflects a troubling trend
+      of deflecting public anger and undermines the integrity of its journalism. Cook
+      emphasizes the need for the BBC to maintain its independence and accountability
+      rather than bowing to external pressures.
+    published: '2025-11-14T01:14:39+00:00'
+  - title: 'Jonathan Cook: BBC Chose the Wrong Target This Time'
+    url: https://consortiumnews.com/2025/11/13/jonathan-cook-bbc-chose-the-wrong-target-this-time/
+    text: 'Heads have rolled at the BBC, but not due to a journalistic blunder – it
+      makes them all the time. It foolishly deferred to the billionaires in the political
+      battle over image-laundering: where to direct the hate. By Jonathan Cook… Read
+      more →'
+    one_sentence_summary: The article criticizes the BBC for prioritizing the interests
+      of billionaires in political image management over journalistic integrity, leading
+      to significant leadership changes.
+    paragraph_summary: In his article, Jonathan Cook critiques the BBC for its recent
+      leadership changes, arguing that they are not a result of journalistic failures
+      but rather a misguided attempt to appease wealthy individuals involved in political
+      image management. He suggests that the BBC's decision to prioritize the interests
+      of billionaires in the ongoing political landscape reflects a troubling trend
+      of deflecting public anger and undermines the integrity of its journalism. Cook
+      emphasizes the need for the BBC to maintain its independence and accountability
+      rather than bowing to external pressures.
+    published: '2025-11-14T01:14:39+00:00'
+  - title: Trump’s Attempt to Abridge Free Speech
+    url: https://consortiumnews.com/2025/11/13/trumps-attempt-to-abridge-free-speech/
+    text: Andrew P. Napolitano responds to a memo by Donald Trump calling antifa — which
+      is an ideology — a domestic terrorism “organization” and directing federal law
+      enforcement to disrupt its gatherings. By Andrew P. Napolitano While the country’s
+      attention was drawn to… Read more →
+    one_sentence_summary: Andrew P. Napolitano critiques Donald Trump's characterization
+      of antifa as a domestic terrorism "organization" and his directive for federal
+      law enforcement to disrupt its gatherings, emphasizing that antifa represents
+      an ideology rather than a formal group.
+    paragraph_summary: Andrew P. Napolitano critiques a memo from Donald Trump that
+      labels antifa, an ideology rather than a formal organization, as a domestic terrorism
+      entity and instructs federal law enforcement to disrupt its gatherings. Napolitano
+      argues that this characterization is misleading and raises concerns about the
+      implications of targeting ideological movements under the guise of combating terrorism,
+      emphasizing the importance of distinguishing between ideology and organized groups
+      in discussions about national security and civil liberties.
+    published: '2025-11-13T19:34:10+00:00'
+  - title: Trump’s Attempt to Abridge Free Speech
+    url: https://consortiumnews.com/2025/11/13/trumps-attempt-to-abridge-free-speech/
+    text: Andrew P. Napolitano responds to a memo by Donald Trump calling antifa — which
+      is an ideology — a domestic terrorism “organization” and directing federal law
+      enforcement to disrupt its gatherings. By Andrew P. Napolitano While the country’s
+      attention was drawn to… Read more →
+    one_sentence_summary: Andrew P. Napolitano critiques Donald Trump's characterization
+      of antifa as a domestic terrorism "organization" and his directive for federal
+      law enforcement to disrupt its gatherings, emphasizing that antifa represents
+      an ideology rather than a formal group.
+    paragraph_summary: Andrew P. Napolitano critiques a memo from Donald Trump that
+      labels antifa, an ideology rather than a formal organization, as a domestic terrorism
+      entity and instructs federal law enforcement to disrupt its gatherings. Napolitano
+      argues that this characterization is misleading and raises concerns about the
+      implications of targeting ideological movements under the guise of combating terrorism,
+      emphasizing the importance of distinguishing between ideology and organized groups
+      in discussions about national security and civil liberties.
+    published: '2025-11-13T19:34:10+00:00'
+  - title: Secret Plans for Media Censorship
+    url: https://consortiumnews.com/2025/11/13/secret-plans-for-media-censorshiphip-in-australia/
+    text: William Evans reports on efforts by Australia’s Department of Home Affairs
+      to revive the four-decade dead D-Notice system. By William Evans Declassified
+      Australia CN at 30 Documents obtained by Declassified Australia show that following
+      the June 2019 Federal Police raids… Read more →
+    one_sentence_summary: William Evans discusses Australia's Department of Home Affairs'
+      attempts to reinstate the long-defunct D-Notice system, as revealed by documents
+      obtained from Declassified Australia.
+    paragraph_summary: William Evans reports that Australia's Department of Home Affairs
+      is working to revive the long-dormant D-Notice system, which has not been active
+      for four decades. This initiative comes in the wake of Federal Police raids in
+      June 2019, as revealed by documents obtained by Declassified Australia. The D-Notice
+      system is intended to provide guidelines for the media on matters of national
+      security, aiming to balance public interest with the protection of sensitive information.
+    published: '2025-11-13T17:00:59+00:00'
+  - title: Secret Plans for Media Censorship
+    url: https://consortiumnews.com/2025/11/13/secret-plans-for-media-censorshiphip-in-australia/
+    text: William Evans reports on efforts by Australia’s Department of Home Affairs
+      to revive the four-decade dead D-Notice system. By William Evans Declassified
+      Australia CN at 30 Documents obtained by Declassified Australia show that following
+      the June 2019 Federal Police raids… Read more →
+    one_sentence_summary: William Evans discusses Australia's Department of Home Affairs'
+      attempts to reinstate the long-defunct D-Notice system, as revealed by documents
+      obtained from Declassified Australia.
+    paragraph_summary: William Evans reports that Australia's Department of Home Affairs
+      is working to revive the long-dormant D-Notice system, which has not been active
+      for four decades. This initiative comes in the wake of Federal Police raids in
+      June 2019, as revealed by documents obtained by Declassified Australia. The D-Notice
+      system is intended to provide guidelines for the media on matters of national
+      security, aiming to balance public interest with the protection of sensitive information.
+    published: '2025-11-13T17:00:59+00:00'
+  - title: 'CN at 30: Three Decades of Independence'
+    url: https://consortiumnews.com/2025/11/12/cn-at-30-three-decades-of-independence/
+    text: Consortium News was launched on Nov. 15, 1995 when the internet was in its
+      infancy, blazing a trail for the explosion of independent media to follow. By
+      Joe Lauria Special to Consortium News CN at 30 In terms of the… Read more →
+    one_sentence_summary: Consortium News, founded on November 15, 1995, played a pioneering
+      role in the rise of independent media during the early days of the internet.
+    paragraph_summary: Consortium News, founded on November 15, 1995, played a pioneering
+      role in the early days of the internet by establishing a platform for independent
+      journalism. Celebrating its 30th anniversary, the outlet has significantly influenced
+      the growth of independent media, providing an alternative to mainstream news sources.
+    published: '2025-11-13T03:23:55+00:00'
+  - title: 'CN at 30: Three Decades of Independence'
+    url: https://consortiumnews.com/2025/11/12/cn-at-30-three-decades-of-independence/
+    text: Consortium News was launched on Nov. 15, 1995 when the internet was in its
+      infancy, blazing a trail for the explosion of independent media to follow. By
+      Joe Lauria Special to Consortium News CN at 30 In terms of the… Read more →
+    one_sentence_summary: Consortium News, founded on November 15, 1995, played a pioneering
+      role in the rise of independent media during the early days of the internet.
+    paragraph_summary: Consortium News, founded on November 15, 1995, played a pioneering
+      role in the early days of the internet by establishing a platform for independent
+      journalism. Celebrating its 30th anniversary, the outlet has significantly influenced
+      the growth of independent media, providing an alternative to mainstream news sources.
+    published: '2025-11-13T03:23:55+00:00'
+  - title: 'Chris Hedges: The US Banana Republic'
+    url: https://consortiumnews.com/2025/11/12/chris-hedges-the-us-banana-republic/
+    text: Every dictatorship is a grotesque opera buffa. No encomium is too outrageous.
+      No bribe too small. No violation of civil liberties too extreme. No stupidity
+      too absurd. All dissent, no matter how tepid, is treason. By Chris Hedges ScheerPost
+      El Presidente… Read more →
+    one_sentence_summary: The article by Chris Hedges critiques dictatorships as absurd
+      and grotesque systems where extreme violations of civil liberties and dissent
+      are met with harsh repression and absurdity.
+    paragraph_summary: In his article, Chris Hedges critiques the nature of dictatorships,
+      likening them to a grotesque opera buffa where excessive praise, minor bribes,
+      and extreme violations of civil liberties are commonplace. He highlights the absurdity
+      and irrationality inherent in such regimes, where any form of dissent is treated
+      as treason, illustrating the oppressive and ludicrous environment that characterizes
+      authoritarian rule.
+    published: '2025-11-12T22:53:39+00:00'
+  - title: 'Chris Hedges: The US Banana Republic'
+    url: https://consortiumnews.com/2025/11/12/chris-hedges-the-us-banana-republic/
+    text: Every dictatorship is a grotesque opera buffa. No encomium is too outrageous.
+      No bribe too small. No violation of civil liberties too extreme. No stupidity
+      too absurd. All dissent, no matter how tepid, is treason. By Chris Hedges ScheerPost
+      El Presidente… Read more →
+    one_sentence_summary: The article by Chris Hedges critiques dictatorships as absurd
+      and grotesque systems where extreme violations of civil liberties and dissent
+      are met with harsh repression and absurdity.
+    paragraph_summary: In his article, Chris Hedges critiques the nature of dictatorships,
+      likening them to a grotesque opera buffa where excessive praise, minor bribes,
+      and extreme violations of civil liberties are commonplace. He highlights the absurdity
+      and irrationality inherent in such regimes, where any form of dissent is treated
+      as treason, illustrating the oppressive and ludicrous environment that characterizes
+      authoritarian rule.
+    published: '2025-11-12T22:53:39+00:00'
+  - title: 'Civil Disobedience:  Preventing Tyranny'
+    url: https://consortiumnews.com/2025/11/12/civil-disobedience-preventing-tyranny/
+    text: Mick Hall looks into the justification, precedence, thinking and tactical
+      logic behind a longstanding means of confronting unjust systems and laws.   By
+      Mick Hall Mick Hall In Context CN at 30 Australian psychiatrist and author Dr.
+      Niall McLaren believes… Read more →
+    one_sentence_summary: Mick Hall examines the rationale and strategic reasoning behind
+      the historical practice of challenging unjust systems and laws, as discussed by
+      Australian psychiatrist Dr. Niall McLaren.
+    paragraph_summary: Mick Hall examines the rationale and strategic reasoning behind
+      the enduring practice of challenging unjust systems and laws, drawing on insights
+      from Australian psychiatrist Dr. Niall McLaren. The article delves into the historical
+      context and precedents that inform this approach, highlighting the importance
+      of critical thinking in confronting societal injustices. Through this exploration,
+      Hall underscores the tactical logic that underpins activism and the necessity
+      of addressing systemic inequities.
+    published: '2025-11-12T19:02:47+00:00'
+  - title: 'Civil Disobedience:  Preventing Tyranny'
+    url: https://consortiumnews.com/2025/11/12/civil-disobedience-preventing-tyranny/
+    text: Mick Hall looks into the justification, precedence, thinking and tactical
+      logic behind a longstanding means of confronting unjust systems and laws.   By
+      Mick Hall Mick Hall In Context CN at 30 Australian psychiatrist and author Dr.
+      Niall McLaren believes… Read more →
+    one_sentence_summary: Mick Hall examines the rationale and strategic reasoning behind
+      the historical practice of challenging unjust systems and laws, as discussed by
+      Australian psychiatrist Dr. Niall McLaren.
+    paragraph_summary: Mick Hall examines the rationale and strategic reasoning behind
+      the enduring practice of challenging unjust systems and laws, drawing on insights
+      from Australian psychiatrist Dr. Niall McLaren. The article delves into the historical
+      context and precedents that inform this approach, highlighting the importance
+      of critical thinking in confronting societal injustices. Through this exploration,
+      Hall underscores the tactical logic that underpins activism and the necessity
+      of addressing systemic inequities.
+    published: '2025-11-12T19:02:47+00:00'
   - title: 'PATRICK LAWRENCE: Al-Qaeda Goes to Washington'
     url: https://consortiumnews.com/2025/11/11/patrick-lawrence-al-qaeda-goes-to-washington/
     text: Al–Sharaa’s White House visit is a reminder of Washington’s longstanding abhorrence

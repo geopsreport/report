@@ -7,15 +7,688 @@ description: "Veteran Middle East war correspondent; provides first-hand analysi
 websites:
   - https://ejmagnier.com
 summary: |
-  Nearly two years into Israel’s campaign to dismantle Hamas in Gaza, the conflict has reached a critical juncture, with the latest developments highlighting persistent intelligence failures and the enduring resilience of Hamas’s underground operations. According to **Elijah J. Magnier**, despite “extensive military efforts and resources from Israel and its allies,” Israeli forces have failed to locate and neutralize a decisive Hamas tunnel in Rafah. This operational blind spot was underscored by the recent recovery of an Israeli officer’s remains—achieved only on Hamas’s terms—and a subsequent deadly attack on another Israeli officer, indicating that Hamas retains significant operational capacity underground.
+  The Middle East is entering a new phase following the adoption of UN Security Council Resolution 2803, which has formally ended the Gaza war. According to **Elijah J. Magnier**, the resolution establishes an international legal mandate for peace that supersedes Israeli political calculations. However, the ceasefire agreement is notably lacking in concrete provisions for post-war governance, reconstruction, or mechanisms to ensure Palestinian self-rule. This absence of clarity leaves the future of Gaza in a state of uncertainty, with no clear roadmap for rebuilding or political stabilization.
   
-  Magnier’s analysis, echoed across multiple language editions, stresses that Israeli and Western intelligence have repeatedly targeted the wrong locations, revealing a “collapse of intelligence” and an inability to disrupt Hamas’s subterranean warfare. The tunnel network remains not only intact but actively used for both military operations and psychological leverage.
+  **Magnier** emphasizes that while the war’s cessation is a significant diplomatic achievement, the resolution’s vagueness on critical issues—such as the management of reconstruction funds and the political status of Gaza—poses serious risks for long-term stability. The international community now faces the challenge of translating the ceasefire into a sustainable peace, but without a defined framework, the prospects for meaningful progress remain limited.
   
-  While the destruction of Palestinian olive trees and the broader psychological warfare against Palestinian heritage remain ongoing concerns, there are no significant new developments on these fronts since the last reporting cycle. Similarly, the escalation of Israeli rhetoric against Hezbollah and Lebanon, including demands for disarmament and threats of expanded conflict, has not advanced with new actions or statements in the past 12 hours.
-  
-  **Trends and Predictions:**  
-  The majority of sources, led by **Elijah J. Magnier**, agree that Israel’s inability to neutralize Hamas’s tunnel infrastructure in Rafah signals a strategic impasse. The resilience of Hamas’s underground network is likely to prolong the conflict and complicate any Israeli claims of victory or control in Gaza. Given the repeated intelligence shortcomings and ongoing effective Hamas operations, I guarantee that the Israeli campaign will continue to face major obstacles, with little prospect for a decisive breakthrough in the near term. The situation is set to remain highly volatile, with a high chance of further attritional warfare and psychological operations shaping the conflict’s next phase.
+  Looking ahead, there is a high chance that the lack of a robust post-war plan will lead to renewed tensions and power struggles within Gaza. As **Magnier** notes, “the future remains empty,” with no guarantees for Palestinian self-governance or effective international oversight. I guarantee that, unless a comprehensive political and reconstruction framework is established soon, the region will remain at risk of further instability and humanitarian crisis. The coming days will test whether global actors can move beyond symbolic resolutions to deliver substantive change on the ground.
 articles:
+  - title: 'UNSCR 2803: A Ceasefire That Ends the War but Leaves the Future Empty'
+    url: https://ejmagnier.com/2025/11/18/unscr-2803-a-ceasefire-that-ends-the-war-but-leaves-the-future-empty/
+    text: 'By Elijah J. Magnier – UN Security Council Resolution 2803 did something
+      significant the moment it passed: it confirmed, unequivocally, that the Gaza war
+      as the world has known it for two years has stopped. That decision is now anchored
+      in international law, no longer subject to the preferences or political survival
+      needs of Israeli Prime Minister Benjamin Netanyahu or his far-right coalition.
+      The battlefield has been frozen by a global mandate, not by Israeli choice. Yet
+      once the guns fall silent, the real problems begin, because everything that should
+      follow a ceasefire has been left to ambiguity and wishful thinking. Washington
+      quickly presented the resolution as the diplomatic centrepiece of President Donald
+      Trump’s Twenty-Point Plan, describing it as the scaffolding for Gaza’s transition
+      toward stability, reconstruction, and eventual Palestinian self-governance. But
+      the resolution reads less like a structured roadmap and more like a political
+      placeholder: a document that articulates intentions without mechanisms, principles
+      without enforcement, and a vision without architecture. The clarity begins and
+      ends with the ceasefire clause. Beyond that, almost every essential element is
+      deferred, vague, or internally contradictory. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: UN Security Council Resolution 2803 has officially ended the
+      Gaza war, establishing a global mandate for peace that transcends Israeli political
+      interests, but it lacks a clear framework for post-ceasefire stability and reconstruction.
+    paragraph_summary: UN Security Council Resolution 2803 has officially marked the
+      end of the Gaza war, establishing a ceasefire that is now recognized under international
+      law, independent of Israeli Prime Minister Benjamin Netanyahu's political agenda.
+      However, while the resolution serves as a diplomatic framework for transitioning
+      Gaza towards stability and self-governance, it lacks concrete mechanisms and enforcement
+      measures, rendering it more of a political placeholder than a comprehensive plan.
+      The resolution articulates intentions but fails to provide clarity on essential
+      post-ceasefire elements, leaving many critical issues unresolved and ambiguous.
+    published: '2025-11-18T17:44:40+00:00'
+  - title: 'UNSCR 2803: A Ceasefire That Ends the War but Leaves the Future Empty'
+    url: https://ejmagnier.com/2025/11/18/unscr-2803-a-ceasefire-that-ends-the-war-but-leaves-the-future-empty/
+    text: 'By Elijah J. Magnier – UN Security Council Resolution 2803 did something
+      significant the moment it passed: it confirmed, unequivocally, that the Gaza war
+      as the world has known it for two years has stopped. That decision is now anchored
+      in international law, no longer subject to the preferences or political survival
+      needs of Israeli Prime Minister Benjamin Netanyahu or his far-right coalition.
+      The battlefield has been frozen by a global mandate, not by Israeli choice. Yet
+      once the guns fall silent, the real problems begin, because everything that should
+      follow a ceasefire has been left to ambiguity and wishful thinking. Washington
+      quickly presented the resolution as the diplomatic centrepiece of President Donald
+      Trump’s Twenty-Point Plan, describing it as the scaffolding for Gaza’s transition
+      toward stability, reconstruction, and eventual Palestinian self-governance. But
+      the resolution reads less like a structured roadmap and more like a political
+      placeholder: a document that articulates intentions without mechanisms, principles
+      without enforcement, and a vision without architecture. The clarity begins and
+      ends with the ceasefire clause. Beyond that, almost every essential element is
+      deferred, vague, or internally contradictory. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: UN Security Council Resolution 2803 has officially ended the
+      Gaza war, establishing a global mandate for peace that transcends Israeli political
+      interests, but it lacks a clear framework for post-ceasefire stability and reconstruction.
+    paragraph_summary: UN Security Council Resolution 2803 has officially marked the
+      end of the Gaza war, establishing a ceasefire that is now recognized under international
+      law, independent of Israeli Prime Minister Benjamin Netanyahu's political agenda.
+      However, while the resolution serves as a diplomatic framework for transitioning
+      Gaza towards stability and self-governance, it lacks concrete mechanisms and enforcement
+      measures, rendering it more of a political placeholder than a comprehensive plan.
+      The resolution articulates intentions but fails to provide clarity on essential
+      post-ceasefire elements, leaving many critical issues unresolved and ambiguous.
+    published: '2025-11-18T17:44:40+00:00'
+  - title: 'UNSCR 2803 : Un cessez-le-feu qui met fin à la guerre mais laisse l’avenir
+      vide'
+    url: https://ejmagnier.com/2025/11/18/unscr-2803-un-cessez-le-feu-qui-met-fin-a-la-guerre-mais-laisse-lavenir-vide/
+    text: 'Par Elijah J. Magnier – La résolution 2803 du Conseil de sécurité des Nations
+      unies a eu un effet immédiat dès son adoption : elle a confirmé, sans équivoque,
+      que la guerre de Gaza telle que le monde l’a connue pendant deux ans a pris fin.
+      Cette décision est désormais ancrée dans le droit international, échappant aux
+      préférences ou aux besoins de survie politique du Premier ministre israélien Benjamin
+      Netanyahu ou de sa coalition d’extrême droite. Le champ de bataille a été figé
+      par un mandat mondial, et non par un choix israélien. Mais une fois les armes
+      silencieuses, les véritables problèmes commencent, car tout ce qui devrait suivre
+      un cessez-le-feu a été laissé à l’ambiguïté et aux vœux pieux. Washington a rapidement
+      présenté la résolution comme la pièce maîtresse diplomatique du plan en vingt
+      points du président Donald Trump, la décrivant comme l’échafaudage de la transition
+      de Gaza vers la stabilité, la reconstruction et, à terme, l’autogouvernance palestinienne.
+      Mais la résolution ressemble moins à une feuille de route structurée qu’à un texte
+      politique de substitution : un document qui énonce des intentions sans mécanismes,
+      des principes sans moyens d’application, et une vision sans architecture. La clarté
+      commence et s’arrête à la clause de cessez-le-feu. Au-delà, presque chaque élément
+      essentiel est différé, vague ou contradictoire. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: La résolution 2803 du Conseil de sécurité des Nations unies
+      a mis fin à la guerre de Gaza, établissant un cadre juridique international pour
+      la paix, mais laisse des questions cruciales sur la reconstruction et l'autogouvernance
+      palestinienne sans réponses claires.
+    paragraph_summary: L'adoption de la résolution 2803 du Conseil de sécurité des Nations
+      unies a marqué la fin de la guerre de Gaza, établissant un cadre juridique international
+      qui transcende les intérêts politiques du Premier ministre israélien Benjamin
+      Netanyahu et de sa coalition. Cependant, bien que la résolution ait été présentée
+      comme une étape clé vers la stabilité et l'autogouvernance palestinienne, elle
+      manque de détails concrets et de mécanismes d'application, se limitant à un cessez-le-feu
+      sans offrir de solutions claires pour les défis à venir. En conséquence, la résolution
+      apparaît davantage comme un document politique vague que comme un véritable plan
+      d'action pour l'avenir de Gaza.
+    published: '2025-11-18T17:43:38+00:00'
+  - title: 'UNSCR 2803 : Un cessez-le-feu qui met fin à la guerre mais laisse l’avenir
+      vide'
+    url: https://ejmagnier.com/2025/11/18/unscr-2803-un-cessez-le-feu-qui-met-fin-a-la-guerre-mais-laisse-lavenir-vide/
+    text: 'Par Elijah J. Magnier – La résolution 2803 du Conseil de sécurité des Nations
+      unies a eu un effet immédiat dès son adoption : elle a confirmé, sans équivoque,
+      que la guerre de Gaza telle que le monde l’a connue pendant deux ans a pris fin.
+      Cette décision est désormais ancrée dans le droit international, échappant aux
+      préférences ou aux besoins de survie politique du Premier ministre israélien Benjamin
+      Netanyahu ou de sa coalition d’extrême droite. Le champ de bataille a été figé
+      par un mandat mondial, et non par un choix israélien. Mais une fois les armes
+      silencieuses, les véritables problèmes commencent, car tout ce qui devrait suivre
+      un cessez-le-feu a été laissé à l’ambiguïté et aux vœux pieux. Washington a rapidement
+      présenté la résolution comme la pièce maîtresse diplomatique du plan en vingt
+      points du président Donald Trump, la décrivant comme l’échafaudage de la transition
+      de Gaza vers la stabilité, la reconstruction et, à terme, l’autogouvernance palestinienne.
+      Mais la résolution ressemble moins à une feuille de route structurée qu’à un texte
+      politique de substitution : un document qui énonce des intentions sans mécanismes,
+      des principes sans moyens d’application, et une vision sans architecture. La clarté
+      commence et s’arrête à la clause de cessez-le-feu. Au-delà, presque chaque élément
+      essentiel est différé, vague ou contradictoire. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: La résolution 2803 du Conseil de sécurité des Nations unies
+      a mis fin à la guerre de Gaza, établissant un cadre juridique international pour
+      la paix, mais laisse des questions cruciales sur la reconstruction et l'autogouvernance
+      palestinienne sans réponses claires.
+    paragraph_summary: L'adoption de la résolution 2803 du Conseil de sécurité des Nations
+      unies a marqué la fin de la guerre de Gaza, établissant un cadre juridique international
+      qui transcende les intérêts politiques du Premier ministre israélien Benjamin
+      Netanyahu et de sa coalition. Cependant, bien que la résolution ait été présentée
+      comme une étape clé vers la stabilité et l'autogouvernance palestinienne, elle
+      manque de détails concrets et de mécanismes d'application, se limitant à un cessez-le-feu
+      sans offrir de solutions claires pour les défis à venir. En conséquence, la résolution
+      apparaît davantage comme un document politique vague que comme un véritable plan
+      d'action pour l'avenir de Gaza.
+    published: '2025-11-18T17:43:38+00:00'
+  - title: 'Ein Deal auf tönernen Füßen: Die verborgenen Widersprüche hinter Syriens
+      plötzlicher Annäherung an Washington'
+    url: https://ejmagnier.com/2025/11/16/ein-deal-auf-tonernen-fusen-die-verborgenen-widerspruche-hinter-syriens-plotzlicher-annaherung-an-washington/
+    text: 'Von Elijah J. Magnier – Der Empfang des syrischen Präsidenten Ahmed al-Sharaa
+      im Weißen Haus – vom US-Botschafter in der Türkei und Sonderbeauftragten für Syrien,
+      Thomas J. Barrack Jr., als historischer Wendepunkt in der Diplomatie des Nahen
+      Ostens präsentiert – markiert eine der dramatischsten Neuausrichtungen in der
+      modernen Geschichte der Region. Zum ersten Mal seit 1946 wurde ein syrischer Staatschef
+      im Oval Office empfangen. Washington stellte das Treffen als Geburtsstunde einer
+      neuen regionalen Architektur dar: ein „Syrien nach Assad”, das sich dem von den
+      USA geführten D-ISIS-Rahmenwerk anschließt, bei der Bekämpfung verbleibender terroristischer
+      Netzwerke kooperiert, die SDF in nationale Strukturen integriert und sich den
+      strategischen Visionen der USA und der Türkei anschließt. Der triumphale Ton des
+      Kommuniqués lässt eine zuversichtliche Transformation vermuten. Hinter der feierlichen
+      Sprache verbirgt sich jedoch eine Realität, die weitaus fragiler und widersprüchlicher
+      ist, als Washington zugibt. Die neue syrische Führung sieht sich mit tiefgreifender
+      innerer Instabilität, ungelösten konfessionellen Spannungen und eskalierenden
+      Sicherheitsvorfällen konfrontiert – Faktoren, die jeden ehrgeizigen Plan der USA
+      höchst prekär machen. Der Besuch mag einen diplomatischen Durchbruch symbolisieren,
+      aber die Grundlagen dafür sind alles andere als stabil. Subscribe Subscribe to
+      get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Der Empfang des syrischen Präsidenten Ahmed al-Sharaa im Weißen
+      Haus wird als historischer Wendepunkt in der Nahost-Diplomatie betrachtet, da
+      er die erste Begegnung eines syrischen Staatschefs im Oval Office seit 1946 markiert
+      und den Beginn einer neuen regionalen Architektur unter US-Führung signalisiert,
+      während die tatsächlichen Bedingungen jedoch fragiler und komplexer sind.
+    paragraph_summary: Der Empfang des syrischen Präsidenten Ahmed al-Sharaa im Weißen
+      Haus, als historischer Wendepunkt in der Nahost-Diplomatie von US-Botschafter
+      Thomas J. Barrack Jr. präsentiert, markiert das erste Treffen eines syrischen
+      Staatschefs im Oval Office seit 1946. Washington sieht darin den Beginn einer
+      neuen regionalen Architektur, die ein „Syrien nach Assad“ anstrebt, um mit den
+      USA und der Türkei gegen verbleibende terroristische Netzwerke zu kooperieren
+      und die SDF in nationale Strukturen zu integrieren. Trotz des optimistischen Tons
+      des Kommuniqués ist die Realität jedoch von innerer Instabilität, ungelösten konfessionellen
+      Spannungen und eskalierenden Sicherheitsvorfällen geprägt, was die Ambitionen
+      der USA gefährdet und die Grundlagen für diesen diplomatischen Durchbruch als
+      fragil erscheinen lässt.
+    published: '2025-11-16T17:48:17+00:00'
+  - title: 'Ein Deal auf tönernen Füßen: Die verborgenen Widersprüche hinter Syriens
+      plötzlicher Annäherung an Washington'
+    url: https://ejmagnier.com/2025/11/16/ein-deal-auf-tonernen-fusen-die-verborgenen-widerspruche-hinter-syriens-plotzlicher-annaherung-an-washington/
+    text: 'Von Elijah J. Magnier – Der Empfang des syrischen Präsidenten Ahmed al-Sharaa
+      im Weißen Haus – vom US-Botschafter in der Türkei und Sonderbeauftragten für Syrien,
+      Thomas J. Barrack Jr., als historischer Wendepunkt in der Diplomatie des Nahen
+      Ostens präsentiert – markiert eine der dramatischsten Neuausrichtungen in der
+      modernen Geschichte der Region. Zum ersten Mal seit 1946 wurde ein syrischer Staatschef
+      im Oval Office empfangen. Washington stellte das Treffen als Geburtsstunde einer
+      neuen regionalen Architektur dar: ein „Syrien nach Assad”, das sich dem von den
+      USA geführten D-ISIS-Rahmenwerk anschließt, bei der Bekämpfung verbleibender terroristischer
+      Netzwerke kooperiert, die SDF in nationale Strukturen integriert und sich den
+      strategischen Visionen der USA und der Türkei anschließt. Der triumphale Ton des
+      Kommuniqués lässt eine zuversichtliche Transformation vermuten. Hinter der feierlichen
+      Sprache verbirgt sich jedoch eine Realität, die weitaus fragiler und widersprüchlicher
+      ist, als Washington zugibt. Die neue syrische Führung sieht sich mit tiefgreifender
+      innerer Instabilität, ungelösten konfessionellen Spannungen und eskalierenden
+      Sicherheitsvorfällen konfrontiert – Faktoren, die jeden ehrgeizigen Plan der USA
+      höchst prekär machen. Der Besuch mag einen diplomatischen Durchbruch symbolisieren,
+      aber die Grundlagen dafür sind alles andere als stabil. Subscribe Subscribe to
+      get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Der Empfang des syrischen Präsidenten Ahmed al-Sharaa im Weißen
+      Haus wird als historischer Wendepunkt in der Nahost-Diplomatie betrachtet, da
+      er die erste Begegnung eines syrischen Staatschefs im Oval Office seit 1946 markiert
+      und den Beginn einer neuen regionalen Architektur unter US-Führung signalisiert,
+      während die tatsächlichen Bedingungen jedoch fragiler und komplexer sind.
+    paragraph_summary: Der Empfang des syrischen Präsidenten Ahmed al-Sharaa im Weißen
+      Haus, als historischer Wendepunkt in der Nahost-Diplomatie von US-Botschafter
+      Thomas J. Barrack Jr. präsentiert, markiert das erste Treffen eines syrischen
+      Staatschefs im Oval Office seit 1946. Washington sieht darin den Beginn einer
+      neuen regionalen Architektur, die ein „Syrien nach Assad“ anstrebt, um mit den
+      USA und der Türkei gegen verbleibende terroristische Netzwerke zu kooperieren
+      und die SDF in nationale Strukturen zu integrieren. Trotz des optimistischen Tons
+      des Kommuniqués ist die Realität jedoch von innerer Instabilität, ungelösten konfessionellen
+      Spannungen und eskalierenden Sicherheitsvorfällen geprägt, was die Ambitionen
+      der USA gefährdet und die Grundlagen für diesen diplomatischen Durchbruch als
+      fragil erscheinen lässt.
+    published: '2025-11-16T17:48:17+00:00'
+  - title: 'Een deal gebouwd op zand: de verborgen tegenstrijdigheden achter de plotselinge
+      toenadering van Syrië tot Washington'
+    url: https://ejmagnier.com/2025/11/16/een-deal-gebouwd-op-zand-de-verborgen-tegenstrijdigheden-achter-de-plotselinge-toenadering-van-syrie-tot-washington/
+    text: 'Geschreven door Elijah J. Magnier – Vertaald door Francis J. De ontvangst
+      van de Syrische president Ahmed al-Sharaa in het Witte Huis – door de Amerikaanse
+      ambassadeur in Turkije en speciaal gezant voor Syrië Thomas J. Barrack Jr. gepresenteerd
+      als een historisch keerpunt in de diplomatie in het Midden-Oosten – markeert een
+      van de meest dramatische heroriëntaties in de moderne geschiedenis van de regio.
+      Voor het eerst sinds 1946 werd een Syrisch staatshoofd verwelkomd in de Oval Office.
+      Washington beschouwde de ontmoeting als het begin van een nieuwe regionale architectuur:
+      een “post-Assad Syrië” dat zich aansluit bij het door de VS geleide D-ISIS-kader,
+      samenwerkt tegen resterende terroristische netwerken, de SDF integreert in nationale
+      structuren en zich aansluit bij de strategische visies van Amerika en Turkije.
+      De triomfantelijke toon van het communiqué suggereert een zelfverzekerde transformatie.
+      Maar achter de feestelijke taal schuilt een realiteit die veel kwetsbaarder en
+      tegenstrijdiger is dan Washington toegeeft. Het nieuwe Syrische leiderschap wordt
+      geconfronteerd met diepgaande interne instabiliteit, onopgeloste sektarische spanningen
+      en escalerende veiligheidsincidenten – factoren die elk ambitieus plan van de
+      VS uiterst precair maken. Het bezoek mag dan een diplomatieke doorbraak symboliseren,
+      maar de fundamenten ervan zijn allesbehalve stabiel. Een van de eerste illusies
+      in het verhaal van Washington is de veronderstelling dat Syrië onmiddellijk macht
+      naar buiten toe kan uitoefenen terwijl zijn interne veiligheidsarchitectuur gefragmenteerd
+      is. Iran en Hezbollah – de twee meest invloedrijke buitenlandse actoren in Syrië
+      sinds meer dan tien jaar – hebben zich in december 2024 uit het land teruggetrokken
+      na de afzetting van Bashar al-Assad. Het vertrek van deze strijdkrachten mag dan
+      wel tegemoetkomen aan de strategische voorkeuren van de VS en Israël, maar het
+      heeft een veiligheidsvacuüm gecreëerd dat de nieuwe regering maar moeilijk kan
+      opvullen. President al-Sharaa mag dan in privé-kring zijn bereidheid uitspreken
+      om Hezbollah buiten de grenzen van Syrië te confronteren, hij kan een dergelijke
+      stap niet overwegen zonder eerst interne stabiliteit te creëren en zijn gezag
+      over het versnipperde land te herstellen. Subscribe Subscribe to get access Read
+      more of this content when you subscribe today. Subscribe Submitting form Log in
+      Make a one-time donation Your contribution is appreciated. Donate Make a monthly
+      donation Your contribution is appreciated. Donate monthly Make a yearly donation
+      Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: De ontvangst van de Syrische president Ahmed al-Sharaa in
+      het Witte Huis markeert een historisch keerpunt in de diplomatie in het Midden-Oosten
+      en symboliseert een mogelijke heroriëntatie naar een "post-Assad Syrië" dat samenwerkt
+      met de VS en Turkije, ondanks de kwetsbare realiteit achter de optimistische boodschap.
+    paragraph_summary: De ontvangst van de Syrische president Ahmed al-Sharaa in het
+      Witte Huis, gepresenteerd door de Amerikaanse ambassadeur in Turkije als een historisch
+      keerpunt in de diplomatie in het Midden-Oosten, markeert een significante heroriëntatie
+      in de regio. Dit is de eerste keer sinds 1946 dat een Syrisch staatshoofd in de
+      Oval Office wordt verwelkomd, wat Washington beschouwt als de start van een nieuwe
+      regionale structuur gericht op een "post-Assad Syrië". Dit nieuwe regime moet
+      samenwerken met de VS en Turkije in de strijd tegen terrorisme en de integratie
+      van de SDF in nationale structuren. Echter, ondanks de optimistische toon van
+      de officiële mededelingen, staat het nieuwe Syrische leiderschap voor aanzienlijke
+      interne uitdagingen, waaronder instabiliteit, sektarische spanningen en veiligheidsproblemen,
+      die de haalbaarheid van Amerikaanse plannen ondermijnen. Bovendien heeft de terugtrekking
+      van Iran en Hezbollah uit Syrië een veiligheidsvacuüm gecreëerd dat de nieuwe
+      regering moeilijk kan opvullen, wat de fundamenten van deze diplomatieke doorbraak
+      fragiel maakt.
+    published: '2025-11-16T17:44:09+00:00'
+  - title: 'Een deal gebouwd op zand: de verborgen tegenstrijdigheden achter de plotselinge
+      toenadering van Syrië tot Washington'
+    url: https://ejmagnier.com/2025/11/16/een-deal-gebouwd-op-zand-de-verborgen-tegenstrijdigheden-achter-de-plotselinge-toenadering-van-syrie-tot-washington/
+    text: 'Geschreven door Elijah J. Magnier – Vertaald door Francis J. De ontvangst
+      van de Syrische president Ahmed al-Sharaa in het Witte Huis – door de Amerikaanse
+      ambassadeur in Turkije en speciaal gezant voor Syrië Thomas J. Barrack Jr. gepresenteerd
+      als een historisch keerpunt in de diplomatie in het Midden-Oosten – markeert een
+      van de meest dramatische heroriëntaties in de moderne geschiedenis van de regio.
+      Voor het eerst sinds 1946 werd een Syrisch staatshoofd verwelkomd in de Oval Office.
+      Washington beschouwde de ontmoeting als het begin van een nieuwe regionale architectuur:
+      een “post-Assad Syrië” dat zich aansluit bij het door de VS geleide D-ISIS-kader,
+      samenwerkt tegen resterende terroristische netwerken, de SDF integreert in nationale
+      structuren en zich aansluit bij de strategische visies van Amerika en Turkije.
+      De triomfantelijke toon van het communiqué suggereert een zelfverzekerde transformatie.
+      Maar achter de feestelijke taal schuilt een realiteit die veel kwetsbaarder en
+      tegenstrijdiger is dan Washington toegeeft. Het nieuwe Syrische leiderschap wordt
+      geconfronteerd met diepgaande interne instabiliteit, onopgeloste sektarische spanningen
+      en escalerende veiligheidsincidenten – factoren die elk ambitieus plan van de
+      VS uiterst precair maken. Het bezoek mag dan een diplomatieke doorbraak symboliseren,
+      maar de fundamenten ervan zijn allesbehalve stabiel. Een van de eerste illusies
+      in het verhaal van Washington is de veronderstelling dat Syrië onmiddellijk macht
+      naar buiten toe kan uitoefenen terwijl zijn interne veiligheidsarchitectuur gefragmenteerd
+      is. Iran en Hezbollah – de twee meest invloedrijke buitenlandse actoren in Syrië
+      sinds meer dan tien jaar – hebben zich in december 2024 uit het land teruggetrokken
+      na de afzetting van Bashar al-Assad. Het vertrek van deze strijdkrachten mag dan
+      wel tegemoetkomen aan de strategische voorkeuren van de VS en Israël, maar het
+      heeft een veiligheidsvacuüm gecreëerd dat de nieuwe regering maar moeilijk kan
+      opvullen. President al-Sharaa mag dan in privé-kring zijn bereidheid uitspreken
+      om Hezbollah buiten de grenzen van Syrië te confronteren, hij kan een dergelijke
+      stap niet overwegen zonder eerst interne stabiliteit te creëren en zijn gezag
+      over het versnipperde land te herstellen. Subscribe Subscribe to get access Read
+      more of this content when you subscribe today. Subscribe Submitting form Log in
+      Make a one-time donation Your contribution is appreciated. Donate Make a monthly
+      donation Your contribution is appreciated. Donate monthly Make a yearly donation
+      Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: De ontvangst van de Syrische president Ahmed al-Sharaa in
+      het Witte Huis markeert een historisch keerpunt in de diplomatie in het Midden-Oosten
+      en symboliseert een mogelijke heroriëntatie naar een "post-Assad Syrië" dat samenwerkt
+      met de VS en Turkije, ondanks de kwetsbare realiteit achter de optimistische boodschap.
+    paragraph_summary: De ontvangst van de Syrische president Ahmed al-Sharaa in het
+      Witte Huis, gepresenteerd door de Amerikaanse ambassadeur in Turkije als een historisch
+      keerpunt in de diplomatie in het Midden-Oosten, markeert een significante heroriëntatie
+      in de regio. Dit is de eerste keer sinds 1946 dat een Syrisch staatshoofd in de
+      Oval Office wordt verwelkomd, wat Washington beschouwt als de start van een nieuwe
+      regionale structuur gericht op een "post-Assad Syrië". Dit nieuwe regime moet
+      samenwerken met de VS en Turkije in de strijd tegen terrorisme en de integratie
+      van de SDF in nationale structuren. Echter, ondanks de optimistische toon van
+      de officiële mededelingen, staat het nieuwe Syrische leiderschap voor aanzienlijke
+      interne uitdagingen, waaronder instabiliteit, sektarische spanningen en veiligheidsproblemen,
+      die de haalbaarheid van Amerikaanse plannen ondermijnen. Bovendien heeft de terugtrekking
+      van Iran en Hezbollah uit Syrië een veiligheidsvacuüm gecreëerd dat de nieuwe
+      regering moeilijk kan opvullen, wat de fundamenten van deze diplomatieke doorbraak
+      fragiel maakt.
+    published: '2025-11-16T17:44:09+00:00'
+  - title: 'Un accord bâti sur du sable : les contradictions cachées derrière l’alignement
+      soudain de la Syrie sur Washington'
+    url: https://ejmagnier.com/2025/11/16/un-accord-bati-sur-du-sable-les-contradictions-cachees-derriere-lalignement-soudain-de-la-syrie-sur-washington/
+    text: 'Par Elijah J. Magnier – La réception du président syrien Ahmed al-Sharaa
+      à la Maison-Blanche – présentée par l’ambassadeur américain en Turquie et envoyé
+      spécial pour la Syrie, Thomas J. Barrack Jr., comme un tournant historique de
+      la diplomatie moyen-orientale – marque l’une des réorientations les plus spectaculaires
+      de l’histoire récente de la région. Pour la première fois depuis 1946, un chef
+      d’État syrien était accueilli dans le Bureau ovale. Washington a présenté la rencontre
+      comme la naissance d’une nouvelle architecture régionale : une « Syrie post-Assad
+      » rejoignant le dispositif anti-Daech dirigé par les États-Unis, coopérant contre
+      les réseaux terroristes résiduels, intégrant les FDS dans les structures nationales
+      et s’alignant sur les visions stratégiques américaines et turques. Le ton triomphant
+      du communiqué laisse croire à une transformation assurée. Pourtant, derrière ce
+      langage célébratoire se cache une réalité bien plus fragile et contradictoire
+      que Washington ne l’admet. La nouvelle direction syrienne fait face à une instabilité
+      interne profonde, à des tensions confessionnelles non résolues et à une escalade
+      d’incidents sécuritaires – autant de facteurs qui rendent tout projet ambitieux
+      des États-Unis extrêmement précaire. La visite peut symboliser une percée diplomatique,
+      mais les fondations sur lesquelles elle repose sont loin d’être solides. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: La visite historique du président syrien Ahmed al-Sharaa à
+      la Maison-Blanche, présentée comme un tournant majeur de la diplomatie au Moyen-Orient,
+      souligne une réorientation spectaculaire des relations régionales, mais masque
+      des réalités complexes et fragiles sous-jacentes.
+    paragraph_summary: L'accueil du président syrien Ahmed al-Sharaa à la Maison-Blanche,
+      présenté par l'ambassadeur américain en Turquie comme un tournant historique,
+      marque la première visite d'un chef d'État syrien au Bureau ovale depuis 1946.
+      Washington considère cette rencontre comme le début d'une nouvelle architecture
+      régionale, avec une "Syrie post-Assad" intégrée dans la lutte anti-Daech et alignée
+      sur les stratégies américaines et turques. Cependant, malgré le ton optimiste
+      du communiqué, la réalité en Syrie est marquée par une instabilité interne, des
+      tensions confessionnelles et une escalade des incidents sécuritaires, rendant
+      ainsi fragile tout projet ambitieux des États-Unis. La visite, bien qu'elle puisse
+      symboliser une avancée diplomatique, repose sur des bases instables.
+    published: '2025-11-16T05:52:08+00:00'
+  - title: 'Un accord bâti sur du sable : les contradictions cachées derrière l’alignement
+      soudain de la Syrie sur Washington'
+    url: https://ejmagnier.com/2025/11/16/un-accord-bati-sur-du-sable-les-contradictions-cachees-derriere-lalignement-soudain-de-la-syrie-sur-washington/
+    text: 'Par Elijah J. Magnier – La réception du président syrien Ahmed al-Sharaa
+      à la Maison-Blanche – présentée par l’ambassadeur américain en Turquie et envoyé
+      spécial pour la Syrie, Thomas J. Barrack Jr., comme un tournant historique de
+      la diplomatie moyen-orientale – marque l’une des réorientations les plus spectaculaires
+      de l’histoire récente de la région. Pour la première fois depuis 1946, un chef
+      d’État syrien était accueilli dans le Bureau ovale. Washington a présenté la rencontre
+      comme la naissance d’une nouvelle architecture régionale : une « Syrie post-Assad
+      » rejoignant le dispositif anti-Daech dirigé par les États-Unis, coopérant contre
+      les réseaux terroristes résiduels, intégrant les FDS dans les structures nationales
+      et s’alignant sur les visions stratégiques américaines et turques. Le ton triomphant
+      du communiqué laisse croire à une transformation assurée. Pourtant, derrière ce
+      langage célébratoire se cache une réalité bien plus fragile et contradictoire
+      que Washington ne l’admet. La nouvelle direction syrienne fait face à une instabilité
+      interne profonde, à des tensions confessionnelles non résolues et à une escalade
+      d’incidents sécuritaires – autant de facteurs qui rendent tout projet ambitieux
+      des États-Unis extrêmement précaire. La visite peut symboliser une percée diplomatique,
+      mais les fondations sur lesquelles elle repose sont loin d’être solides. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: La visite historique du président syrien Ahmed al-Sharaa à
+      la Maison-Blanche, présentée comme un tournant majeur de la diplomatie au Moyen-Orient,
+      souligne une réorientation spectaculaire des relations régionales, mais masque
+      des réalités complexes et fragiles sous-jacentes.
+    paragraph_summary: L'accueil du président syrien Ahmed al-Sharaa à la Maison-Blanche,
+      présenté par l'ambassadeur américain en Turquie comme un tournant historique,
+      marque la première visite d'un chef d'État syrien au Bureau ovale depuis 1946.
+      Washington considère cette rencontre comme le début d'une nouvelle architecture
+      régionale, avec une "Syrie post-Assad" intégrée dans la lutte anti-Daech et alignée
+      sur les stratégies américaines et turques. Cependant, malgré le ton optimiste
+      du communiqué, la réalité en Syrie est marquée par une instabilité interne, des
+      tensions confessionnelles et une escalade des incidents sécuritaires, rendant
+      ainsi fragile tout projet ambitieux des États-Unis. La visite, bien qu'elle puisse
+      symboliser une avancée diplomatique, repose sur des bases instables.
+    published: '2025-11-16T05:52:08+00:00'
+  - title: 'A Deal Built on Sand: The Hidden Contradictions Behind Syria’s Sudden Alignment
+      with Washington'
+    url: https://ejmagnier.com/2025/11/16/a-deal-built-on-sand-the-hidden-contradictions-behind-syrias-sudden-alignment-with-washington/
+    text: 'By Elijah J. Magnier – The White House reception of Syrian President Ahmed
+      al-Sharaa – presented by U.S. Ambassador to Türkiye and Special Envoy for Syria
+      Thomas J. Barrack Jr. as a historic turning point in Middle Eastern diplomacy
+      – marks one of the most dramatic reorientations in the region’s modern history.
+      For the first time since 1946, a Syrian head of state was welcomed into the Oval
+      Office. Washington framed the meeting as the birth of a new regional architecture:
+      a “post-Assad Syria” joining the U.S.-led D-ISIS framework, cooperating against
+      remaining terrorist networks, integrating the SDF into national structures, and
+      aligning with American and Turkish strategic visions. The triumphant tone of the
+      communiqué suggests a confident transformation. Yet behind the celebratory language
+      lies a reality far more fragile and contradictory than Washington admits. The
+      new Syrian leadership faces profound internal instability, unresolved sectarian
+      tensions, and escalating security incidents – factors that make any ambitious
+      U.S. plan highly precarious. The visit may symbolise a diplomatic breakthrough,
+      but the foundations beneath it are anything but stable. Subscribe Subscribe to
+      get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: The historic reception of Syrian President Ahmed al-Sharaa
+      at the White House signifies a dramatic shift in Middle Eastern diplomacy, marking
+      a potential new era for Syria's integration into U.S.-led initiatives, despite
+      underlying challenges of internal instability and sectarian tensions.
+    paragraph_summary: The recent reception of Syrian President Ahmed al-Sharaa at the
+      White House, heralded by U.S. Ambassador Thomas J. Barrack Jr. as a significant
+      milestone in Middle Eastern diplomacy, marks the first time since 1946 that a
+      Syrian leader has been welcomed into the Oval Office. This meeting is framed by
+      Washington as the beginning of a new regional framework for a "post-Assad Syria,"
+      aimed at collaborating within the U.S.-led D-ISIS initiative and addressing terrorist
+      networks, while also integrating the Syrian Democratic Forces (SDF) into national
+      structures. However, despite the optimistic tone of the announcement, the reality
+      on the ground is fraught with challenges, including internal instability, unresolved
+      sectarian issues, and rising security threats, which cast doubt on the viability
+      of U.S. ambitions in the region. Thus, while the visit may represent a diplomatic
+      achievement, the underlying conditions remain precarious and complex.
+    published: '2025-11-16T05:47:24+00:00'
+  - title: 'A Deal Built on Sand: The Hidden Contradictions Behind Syria’s Sudden Alignment
+      with Washington'
+    url: https://ejmagnier.com/2025/11/16/a-deal-built-on-sand-the-hidden-contradictions-behind-syrias-sudden-alignment-with-washington/
+    text: 'By Elijah J. Magnier – The White House reception of Syrian President Ahmed
+      al-Sharaa – presented by U.S. Ambassador to Türkiye and Special Envoy for Syria
+      Thomas J. Barrack Jr. as a historic turning point in Middle Eastern diplomacy
+      – marks one of the most dramatic reorientations in the region’s modern history.
+      For the first time since 1946, a Syrian head of state was welcomed into the Oval
+      Office. Washington framed the meeting as the birth of a new regional architecture:
+      a “post-Assad Syria” joining the U.S.-led D-ISIS framework, cooperating against
+      remaining terrorist networks, integrating the SDF into national structures, and
+      aligning with American and Turkish strategic visions. The triumphant tone of the
+      communiqué suggests a confident transformation. Yet behind the celebratory language
+      lies a reality far more fragile and contradictory than Washington admits. The
+      new Syrian leadership faces profound internal instability, unresolved sectarian
+      tensions, and escalating security incidents – factors that make any ambitious
+      U.S. plan highly precarious. The visit may symbolise a diplomatic breakthrough,
+      but the foundations beneath it are anything but stable. Subscribe Subscribe to
+      get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: The historic reception of Syrian President Ahmed al-Sharaa
+      at the White House signifies a dramatic shift in Middle Eastern diplomacy, marking
+      a potential new era for Syria's integration into U.S.-led initiatives, despite
+      underlying challenges of internal instability and sectarian tensions.
+    paragraph_summary: The recent reception of Syrian President Ahmed al-Sharaa at the
+      White House, heralded by U.S. Ambassador Thomas J. Barrack Jr. as a significant
+      milestone in Middle Eastern diplomacy, marks the first time since 1946 that a
+      Syrian leader has been welcomed into the Oval Office. This meeting is framed by
+      Washington as the beginning of a new regional framework for a "post-Assad Syria,"
+      aimed at collaborating within the U.S.-led D-ISIS initiative and addressing terrorist
+      networks, while also integrating the Syrian Democratic Forces (SDF) into national
+      structures. However, despite the optimistic tone of the announcement, the reality
+      on the ground is fraught with challenges, including internal instability, unresolved
+      sectarian issues, and rising security threats, which cast doubt on the viability
+      of U.S. ambitions in the region. Thus, while the visit may represent a diplomatic
+      achievement, the underlying conditions remain precarious and complex.
+    published: '2025-11-16T05:47:24+00:00'
+  - title: 'Naamloos in de Dood: de Vernedering achter Israëls Achterhouding en Teruggave
+      van Palestijnse Lichamen'
+    url: https://ejmagnier.com/2025/11/14/naamloos-in-de-dood-de-vernedering-achter-israels-achterhouding-en-teruggave-van-palestijnse-lichamen/
+    text: 'Geschreven door Elijah J. Magnier –   Vertaald door Francis J. De wreedheid
+      van Israël lijkt geen einde te kennen. Terwijl de Palestijnen de identiteit doorgaven
+      van elke Israëlische soldaat die zij in hun handen hadden, gaf Israël 315 Palestijnse
+      lichamen terug — naamloos. Slechts 89 konden er geïdentificeerd worden, via een
+      proces zo pijnlijk dat families het omschrijven als een tweede dood. Moeders,
+      vaders en broers of zussen werden opgeroepen om gescheurde kleren, verbrande gezichten
+      of verminkte ledematen te bekijken, op zoek naar tekenen van hun geliefden tussen
+      de verminkte resten. De taferelen in hef ziekenhuis van Khan Younis tarten elk
+      begrip. In tenten die tot geïmproviseerde mortuaria werden omgevormd, ook de bestaande
+      mortuaria in Gaza werden vernietigd, staan families urenlang in de rij, foto’s
+      of stukjes stof in de hand, hopend dat herkenning — hoe verwoestend ook — tenminste
+      afsluiting zal brengen. Velen vinden slechts fragmenten terug: een been, een schouder,
+      een verkoold lichaam. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in'
+    one_sentence_summary: Het artikel beschrijft de wrede omstandigheden waarin Palestijnen
+      de identiteit van Israëlische soldaten doorgeven, terwijl Israël 315 Palestijnse
+      lichamen teruggeeft, waarvan slechts 89 geïdentificeerd kunnen worden, wat leidt
+      tot een pijnlijke en traumatische zoektocht naar herkenning voor de families van
+      de slachtoffers.
+    paragraph_summary: In a harrowing account by Elijah J. Magnier, the ongoing brutality
+      of Israel's actions is highlighted as Palestinian families endure the painful
+      process of identifying the remains of their loved ones. While Palestinians have
+      been able to identify every Israeli soldier captured, Israel returned 315 nameless
+      Palestinian bodies, with only 89 being identifiable through a traumatic process
+      likened to a "second death" by grieving families. In makeshift morgues in Khan
+      Younis, families wait for hours, clutching photos and pieces of clothing, hoping
+      for some form of closure amidst the devastation, often finding only dismembered
+      fragments or charred remains of their relatives.
+    published: '2025-11-14T04:41:21+00:00'
+  - title: 'Naamloos in de Dood: de Vernedering achter Israëls Achterhouding en Teruggave
+      van Palestijnse Lichamen'
+    url: https://ejmagnier.com/2025/11/14/naamloos-in-de-dood-de-vernedering-achter-israels-achterhouding-en-teruggave-van-palestijnse-lichamen/
+    text: 'Geschreven door Elijah J. Magnier –   Vertaald door Francis J. De wreedheid
+      van Israël lijkt geen einde te kennen. Terwijl de Palestijnen de identiteit doorgaven
+      van elke Israëlische soldaat die zij in hun handen hadden, gaf Israël 315 Palestijnse
+      lichamen terug — naamloos. Slechts 89 konden er geïdentificeerd worden, via een
+      proces zo pijnlijk dat families het omschrijven als een tweede dood. Moeders,
+      vaders en broers of zussen werden opgeroepen om gescheurde kleren, verbrande gezichten
+      of verminkte ledematen te bekijken, op zoek naar tekenen van hun geliefden tussen
+      de verminkte resten. De taferelen in hef ziekenhuis van Khan Younis tarten elk
+      begrip. In tenten die tot geïmproviseerde mortuaria werden omgevormd, ook de bestaande
+      mortuaria in Gaza werden vernietigd, staan families urenlang in de rij, foto’s
+      of stukjes stof in de hand, hopend dat herkenning — hoe verwoestend ook — tenminste
+      afsluiting zal brengen. Velen vinden slechts fragmenten terug: een been, een schouder,
+      een verkoold lichaam. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in'
+    one_sentence_summary: Het artikel beschrijft de wrede omstandigheden waarin Palestijnen
+      de identiteit van Israëlische soldaten doorgeven, terwijl Israël 315 Palestijnse
+      lichamen teruggeeft, waarvan slechts 89 geïdentificeerd kunnen worden, wat leidt
+      tot een pijnlijke en traumatische zoektocht naar herkenning voor de families van
+      de slachtoffers.
+    paragraph_summary: In a harrowing account by Elijah J. Magnier, the ongoing brutality
+      of Israel's actions is highlighted as Palestinian families endure the painful
+      process of identifying the remains of their loved ones. While Palestinians have
+      been able to identify every Israeli soldier captured, Israel returned 315 nameless
+      Palestinian bodies, with only 89 being identifiable through a traumatic process
+      likened to a "second death" by grieving families. In makeshift morgues in Khan
+      Younis, families wait for hours, clutching photos and pieces of clothing, hoping
+      for some form of closure amidst the devastation, often finding only dismembered
+      fragments or charred remains of their relatives.
+    published: '2025-11-14T04:41:21+00:00'
+  - title: 'Unnamed in Death: The Humiliation Behind Israel’s Withholding and Delivery
+      of Palestinian Bodies.'
+    url: https://ejmagnier.com/2025/11/13/unnamed-in-death-the-humiliation-behind-israels-withholding-and-delivery-of-palestinian-bodies/
+    text: 'By Elijah J. Magnier – The cruelty of Israel seems without end. While Palestinians
+      handed over the identity of every Israeli soldier held in their custody, Israel
+      returned 315 Palestinian bodies without names. Only 89 were identified — through
+      a process so painful that families described it as a second death. Mothers, fathers,
+      and siblings were called to inspect torn clothing, scorched faces, or dismembered
+      limbs, searching for signs of their loved ones among the disfigured remains. Scenes
+      at the hospitals of Khan Younis defy comprehension. In tents converted into makeshift
+      morgues, families queue for hours, clutching photographs or scraps of cloth, hoping
+      that recognition — however devastating — will offer closure. Many find only fragments:
+      a leg, a shoulder, a charred torso. Subscribe Subscribe to get access Read more
+      of this content when you subscribe today. Subscribe Submitting form Log in Make
+      a one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly'
+    one_sentence_summary: The article describes the harrowing experience of Palestinian
+      families as they identify the remains of their loved ones among 315 unclaimed
+      bodies returned by Israel, highlighting the profound grief and trauma caused by
+      the brutal nature of the conflict.
+    paragraph_summary: The article by Elijah J. Magnier highlights the ongoing brutality
+      faced by Palestinians, particularly in the context of Israel's recent actions.
+      While Palestinians have provided the identities of every Israeli soldier in their
+      custody, Israel has returned 315 Palestinian bodies, with only 89 identified,
+      causing immense suffering for families who must endure the harrowing process of
+      recognizing their loved ones among disfigured remains. In Khan Younis, makeshift
+      morgues are filled with families desperately searching for closure, often finding
+      only fragments of their loved ones, leading to a profound sense of grief and despair.
+    published: '2025-11-13T17:34:29+00:00'
+  - title: 'Unnamed in Death: The Humiliation Behind Israel’s Withholding and Delivery
+      of Palestinian Bodies.'
+    url: https://ejmagnier.com/2025/11/13/unnamed-in-death-the-humiliation-behind-israels-withholding-and-delivery-of-palestinian-bodies/
+    text: 'By Elijah J. Magnier – The cruelty of Israel seems without end. While Palestinians
+      handed over the identity of every Israeli soldier held in their custody, Israel
+      returned 315 Palestinian bodies without names. Only 89 were identified — through
+      a process so painful that families described it as a second death. Mothers, fathers,
+      and siblings were called to inspect torn clothing, scorched faces, or dismembered
+      limbs, searching for signs of their loved ones among the disfigured remains. Scenes
+      at the hospitals of Khan Younis defy comprehension. In tents converted into makeshift
+      morgues, families queue for hours, clutching photographs or scraps of cloth, hoping
+      that recognition — however devastating — will offer closure. Many find only fragments:
+      a leg, a shoulder, a charred torso. Subscribe Subscribe to get access Read more
+      of this content when you subscribe today. Subscribe Submitting form Log in Make
+      a one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly'
+    one_sentence_summary: The article describes the harrowing experience of Palestinian
+      families as they identify the remains of their loved ones among 315 unclaimed
+      bodies returned by Israel, highlighting the profound grief and trauma caused by
+      the brutal nature of the conflict.
+    paragraph_summary: The article by Elijah J. Magnier highlights the ongoing brutality
+      faced by Palestinians, particularly in the context of Israel's recent actions.
+      While Palestinians have provided the identities of every Israeli soldier in their
+      custody, Israel has returned 315 Palestinian bodies, with only 89 identified,
+      causing immense suffering for families who must endure the harrowing process of
+      recognizing their loved ones among disfigured remains. In Khan Younis, makeshift
+      morgues are filled with families desperately searching for closure, often finding
+      only fragments of their loved ones, leading to a profound sense of grief and despair.
+    published: '2025-11-13T17:34:29+00:00'
+  - title: 'Sans nom dans la mort: l’humiliation derrière la rétention et la restitution
+      des corps palestiniens par Israël'
+    url: https://ejmagnier.com/2025/11/13/sans-nom-dans-la-mort-lhumiliation-derriere-la-retention-et-la-restitution-des-corps-palestiniens-par-israel/
+    text: 'Par Elijah J. Magnier – La cruauté d’Israël semble sans fin. Alors que les
+      Palestiniens ont remis l’identité de chaque soldat israélien détenu, Israël a
+      restitué 315 corps palestiniens sans noms. Seuls 89 ont pu être identifiés – à
+      travers un processus si douloureux que des familles l’ont décrit comme une seconde
+      mort. Mères, pères et frères ou sœurs ont été appelés à inspecter des vêtements
+      déchirés, des visages brûlés ou des membres mutilés, cherchant les traces de leurs
+      proches parmi les dépouilles défigurées. Les scènes dans les hôpitaux de Khan
+      Younès défient toute compréhension. Sous des tentes transformées en morgues improvisées,
+      des familles attendent des heures, tenant des photos ou des morceaux de tissu,
+      espérant qu’une reconnaissance – aussi dévastatrice soit-elle – leur offrira un
+      semblant de clôture. Beaucoup ne trouvent que des fragments: une jambe, une épaule,
+      un torse calciné. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: L'article décrit la douleur insupportable des familles palestiniennes
+      qui tentent d'identifier des corps de leurs proches parmi 315 dépouilles non identifiées
+      restituées par Israël, un processus éprouvant qui leur inflige une seconde mort.
+    paragraph_summary: L'article d'Elijah J. Magnier décrit la cruauté persistante d'Israël
+      envers les Palestiniens, illustrée par le retour de 315 corps palestiniens non
+      identifiés, dont seulement 89 ont pu être identifiés par leurs familles. Ce processus
+      d'identification est décrit comme douloureux, les proches devant inspecter des
+      restes défigurés dans des morgues improvisées à Khan Younès, où ils espèrent trouver
+      des traces de leurs êtres chers. Les familles, armées de photos et de morceaux
+      de tissu, attendent des heures dans des conditions dévastatrices, souvent ne retrouvant
+      que des fragments de corps, ce qui rend leur quête de clôture encore plus tragique.
+    published: '2025-11-13T17:31:04+00:00'
+  - title: 'Sans nom dans la mort: l’humiliation derrière la rétention et la restitution
+      des corps palestiniens par Israël'
+    url: https://ejmagnier.com/2025/11/13/sans-nom-dans-la-mort-lhumiliation-derriere-la-retention-et-la-restitution-des-corps-palestiniens-par-israel/
+    text: 'Par Elijah J. Magnier – La cruauté d’Israël semble sans fin. Alors que les
+      Palestiniens ont remis l’identité de chaque soldat israélien détenu, Israël a
+      restitué 315 corps palestiniens sans noms. Seuls 89 ont pu être identifiés – à
+      travers un processus si douloureux que des familles l’ont décrit comme une seconde
+      mort. Mères, pères et frères ou sœurs ont été appelés à inspecter des vêtements
+      déchirés, des visages brûlés ou des membres mutilés, cherchant les traces de leurs
+      proches parmi les dépouilles défigurées. Les scènes dans les hôpitaux de Khan
+      Younès défient toute compréhension. Sous des tentes transformées en morgues improvisées,
+      des familles attendent des heures, tenant des photos ou des morceaux de tissu,
+      espérant qu’une reconnaissance – aussi dévastatrice soit-elle – leur offrira un
+      semblant de clôture. Beaucoup ne trouvent que des fragments: une jambe, une épaule,
+      un torse calciné. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: L'article décrit la douleur insupportable des familles palestiniennes
+      qui tentent d'identifier des corps de leurs proches parmi 315 dépouilles non identifiées
+      restituées par Israël, un processus éprouvant qui leur inflige une seconde mort.
+    paragraph_summary: L'article d'Elijah J. Magnier décrit la cruauté persistante d'Israël
+      envers les Palestiniens, illustrée par le retour de 315 corps palestiniens non
+      identifiés, dont seulement 89 ont pu être identifiés par leurs familles. Ce processus
+      d'identification est décrit comme douloureux, les proches devant inspecter des
+      restes défigurés dans des morgues improvisées à Khan Younès, où ils espèrent trouver
+      des traces de leurs êtres chers. Les familles, armées de photos et de morceaux
+      de tissu, attendent des heures dans des conditions dévastatrices, souvent ne retrouvant
+      que des fragments de corps, ce qui rend leur quête de clôture encore plus tragique.
+    published: '2025-11-13T17:31:04+00:00'
   - title: 'Israels strategische Blindheit in Rafah: Der Zusammenbruch der Geheimdienste
       und die Widerstandsfähigkeit des Untergrundkriegs der Hamas'
     url: https://ejmagnier.com/2025/11/11/israels-strategische-blindheit-in-rafah-der-zusammenbruch-der-geheimdienste-und-die-widerstandsfahigkeit-des-untergrundkriegs-der-hamas/

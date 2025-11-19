@@ -7,26 +7,124 @@ description: "Retired US Army Lt. Colonel and defense fellow; contributes critic
 websites:
   - https://19fortyfive.com
 summary: |
-  As of November 12, 2025, the global military landscape is marked by rapid technological advancements and strategic recalibrations, particularly in the maritime and aerospace domains. The latest analyses highlight intensifying competition between major powers, with a focus on undersea warfare, airpower modernization, and shifting procurement strategies.
+  As of November 19, 2025, the global military landscape is being shaped by rapid technological upgrades, strategic signaling, and persistent modernization challenges among major powers.
   
-  **Submarine Stealth Under Threat**
+  The most recent development concerns the U.S. Air Force’s ongoing difficulties with the B-52J bomber upgrade program. According to **Daniel L. Davis**, senior Air Force leaders now openly acknowledge that delays in the B-52J modernization could force the service to accelerate the introduction of the B-21 Raider stealth bomber. This shift could have significant implications for the U.S. bomber fleet’s readiness and strategic posture, as the B-21 is still in the early stages of production and operational integration. The urgency reflects growing concerns about maintaining credible long-range strike capabilities amid rising peer competition.
   
-  While U.S. submarines have long enjoyed superiority in acoustic detection, new developments are eroding this advantage. According to **Daniel L. Davis**, "emerging non-acoustic sensors like magnetic anomaly detection and thermal imaging are increasingly challenging their stealth capabilities." This signals a potential end to the era of undetectable submarines, with adversaries investing heavily in sensor technology that could expose even the most advanced boats. The implications for U.S. and allied undersea operations are profound, as maintaining stealth becomes more difficult and costly.
+  In East Asia, Japan’s defense modernization is sending a clear message to China. The F-15JSI program has delivered upgraded F-15J “Super Interceptor” fighters equipped with advanced radar and electronic warfare systems. **Daniel L. Davis** notes these enhancements are tailored to Japan’s unique security environment and are intended as a direct deterrent to Chinese air force activities in the region. This move underscores Tokyo’s commitment to maintaining air superiority and signals a robust response to Beijing’s increasingly assertive posture.
   
-  **Australia’s Submarine Modernization**
+  Looking at broader trends, the U.S. faces mounting pressure to maintain technological superiority, not only from China’s ambitious aerospace programs but also from Russia’s ongoing efforts to revitalize its legacy platforms with modern upgrades. Meanwhile, regional actors like Japan are investing in targeted capabilities to counter specific threats, contributing to a more complex and dynamic security environment in the Indo-Pacific.
   
-  In response to a more assertive Chinese PLA Navy, Australia is moving decisively to bolster its undersea deterrent. As **Daniel L. Davis** notes, Canberra is investing $4–5 billion in a life-of-type extension for its Collins-class submarines, ensuring their operational readiness into the 2030s. This bridge strategy is designed to maintain capability while awaiting the arrival of AUKUS nuclear-powered submarines later in the decade. The move underscores the urgency felt by U.S. allies in the Indo-Pacific to keep pace with regional military developments.
-  
-  **Russian Aerospace Challenges**
-  
-  On the Russian front, efforts to modernize airpower are encountering significant obstacles. The MiG-35, intended as a next-generation multirole fighter, is hampered by "low-observability and networking capabilities," leading to limited production and export prospects, according to **Daniel L. Davis**. Meanwhile, Russia’s only aircraft carrier, the Admiral Kuznetsov, remains out of action after more than eight years of repairs and decay, further constraining Moscow’s ability to project power at sea.
-  
-  **Trends and Predictions**
-  
-  The overarching trend is clear: technological innovation is rapidly altering the balance of power, but new capabilities often bring new vulnerabilities. The race for undersea stealth is entering a new phase, with non-acoustic detection technologies threatening to upend traditional doctrines. Australia’s investment in submarine life-extension is a stopgap, but a necessary one given regional uncertainties.
-  
-  Looking ahead, I assess with high confidence that the proliferation of advanced sensors will "most definitely" force navies worldwide to rethink undersea operations and invest in countermeasures. There is also a high chance that Russia’s struggles with both its MiG-35 program and naval aviation will persist, limiting its ability to compete with NATO and China in these domains through at least the end of the decade.
+  Based on current trajectories, I assess with high confidence that the U.S. will most definitely prioritize the B-21 Raider’s deployment, even if it means accepting short-term gaps in bomber fleet readiness. There is also a high chance that Japan’s enhanced air capabilities will further deter Chinese incursions, but will likely prompt additional countermeasures from Beijing, fueling a continued cycle of military modernization in the region.
 articles:
+  - title: The New B-52J Bomber Is Turning Into a Big Problem for the U.S. Air Force
+    url: https://www.19fortyfive.com/2025/11/the-new-b-52j-bomber-is-turning-into-a-big-problem-for-the-u-s-air-force/
+    text: Senior leaders openly admit that if the B-52J upgrade stumbles, the service
+      will need more B-21 Raiders sooner than planned. The post The New B-52J Bomber
+      Is Turning Into a Big Problem for the U.S. Air Force appeared first on 19FortyFive
+      .
+    one_sentence_summary: Senior leaders of the U.S. Air Force acknowledge that delays
+      in the B-52J upgrade could necessitate an expedited introduction of the B-21 Raiders.
+    paragraph_summary: Senior leaders in the U.S. Air Force have acknowledged that if
+      the B-52J upgrade faces significant challenges, the service may require the B-21
+      Raiders to be deployed earlier than initially scheduled. This admission highlights
+      concerns regarding the reliability and effectiveness of the B-52J upgrade, suggesting
+      that the Air Force is preparing for potential setbacks in its modernization efforts.
+    published: '2025-11-19T00:08:38+00:00'
+  - title: The New B-52J Bomber Is Turning Into a Big Problem for the U.S. Air Force
+    url: https://www.19fortyfive.com/2025/11/the-new-b-52j-bomber-is-turning-into-a-big-problem-for-the-u-s-air-force/
+    text: Senior leaders openly admit that if the B-52J upgrade stumbles, the service
+      will need more B-21 Raiders sooner than planned. The post The New B-52J Bomber
+      Is Turning Into a Big Problem for the U.S. Air Force appeared first on 19FortyFive
+      .
+    one_sentence_summary: Senior leaders of the U.S. Air Force acknowledge that delays
+      in the B-52J upgrade could necessitate an expedited introduction of the B-21 Raiders.
+    paragraph_summary: Senior leaders in the U.S. Air Force have acknowledged that if
+      the B-52J upgrade faces significant challenges, the service may require the B-21
+      Raiders to be deployed earlier than initially scheduled. This admission highlights
+      concerns regarding the reliability and effectiveness of the B-52J upgrade, suggesting
+      that the Air Force is preparing for potential setbacks in its modernization efforts.
+    published: '2025-11-19T00:08:38+00:00'
+  - title: Japan’s F-15J ‘Super Interceptor’ Fighter Has a Message for China’s Air Force
+    url: https://www.19fortyfive.com/2025/11/japans-f-15j-super-interceptor-fighter-has-a-message-for-chinas-air-force/
+    text: Key Points and Summary – Japan’s F-15J started as a licensed copy of the U.S.
+      F-15C, but decades of upgrades have turned it into a bespoke air dominance platform
+      tailored to Japan’s threat environment. -Now, through the F-15JSI program, 68
+      jets are getting APG-82 AESA radar, EPAWSS electronic warfare, new mission computers,
+      and JASSM-ER cruise […] The post Japan’s F-15J ‘Super Interceptor’ Fighter Has
+      a Message for China’s Air Force appeared first on 19FortyFive .
+    one_sentence_summary: Japan's upgraded F-15J fighter jets, now enhanced through
+      the F-15JSI program with advanced radar and electronic warfare capabilities, are
+      specifically designed to address the country's unique security challenges, sending
+      a clear message to China's air force.
+    paragraph_summary: Japan's F-15J, originally a licensed version of the U.S. F-15C,
+      has undergone extensive upgrades over the years, evolving into a specialized air
+      dominance fighter suited to Japan's specific security needs. The ongoing F-15JSI
+      program is enhancing 68 of these jets with advanced features such as the APG-82
+      AESA radar, EPAWSS electronic warfare systems, new mission computers, and JASSM-ER
+      cruise missiles. This modernization effort sends a clear message to China's air
+      force regarding Japan's commitment to strengthening its defense capabilities.
+    published: '2025-11-18T20:52:55+00:00'
+  - title: Japan’s F-15J ‘Super Interceptor’ Fighter Has a Message for China’s Air Force
+    url: https://www.19fortyfive.com/2025/11/japans-f-15j-super-interceptor-fighter-has-a-message-for-chinas-air-force/
+    text: Key Points and Summary – Japan’s F-15J started as a licensed copy of the U.S.
+      F-15C, but decades of upgrades have turned it into a bespoke air dominance platform
+      tailored to Japan’s threat environment. -Now, through the F-15JSI program, 68
+      jets are getting APG-82 AESA radar, EPAWSS electronic warfare, new mission computers,
+      and JASSM-ER cruise […] The post Japan’s F-15J ‘Super Interceptor’ Fighter Has
+      a Message for China’s Air Force appeared first on 19FortyFive .
+    one_sentence_summary: Japan's upgraded F-15J fighter jets, now enhanced through
+      the F-15JSI program with advanced radar and electronic warfare capabilities, are
+      specifically designed to address the country's unique security challenges, sending
+      a clear message to China's air force.
+    paragraph_summary: Japan's F-15J, originally a licensed version of the U.S. F-15C,
+      has undergone extensive upgrades over the years, evolving into a specialized air
+      dominance fighter suited to Japan's specific security needs. The ongoing F-15JSI
+      program is enhancing 68 of these jets with advanced features such as the APG-82
+      AESA radar, EPAWSS electronic warfare systems, new mission computers, and JASSM-ER
+      cruise missiles. This modernization effort sends a clear message to China's air
+      force regarding Japan's commitment to strengthening its defense capabilities.
+    published: '2025-11-18T20:52:55+00:00'
+  - title: The F-14 Tomcat Fighter Legend Just Keeps Growing
+    url: https://www.19fortyfive.com/2025/11/the-f-14-tomcat-fighter-legend-just-keeps-growing/
+    text: Key Points and Summary – A profile of the F-14 Tomcat highlights the “revolutionary”
+      upgrade that created the F-14B. -The original F-14 was famous for its variable-sweep
+      wings and two-seat Radar Intercept Officer (RIO), but its engines were problematic.
+      In the 1980s, it received new General Electric F101/F110 engines, which “made
+      all the difference.” -This […] The post The F-14 Tomcat Fighter Legend Just Keeps
+      Growing appeared first on 19FortyFive .
+    one_sentence_summary: The F-14 Tomcat, renowned for its variable-sweep wings and
+      two-seat design, underwent a significant transformation with the introduction
+      of new General Electric engines in the 1980s, enhancing its performance and solidifying
+      its legendary status.
+    paragraph_summary: The article profiles the F-14 Tomcat, emphasizing the significant
+      upgrades that led to the creation of the F-14B model. Initially renowned for its
+      variable-sweep wings and two-seat configuration with a Radar Intercept Officer
+      (RIO), the original F-14 faced issues with its engines. However, in the 1980s,
+      the introduction of new General Electric F101/F110 engines transformed the aircraft's
+      performance, marking a pivotal improvement in its capabilities. The F-14 Tomcat's
+      legacy continues to grow as a legendary fighter jet.
+    published: '2025-11-14T19:34:28+00:00'
+  - title: The F-14 Tomcat Fighter Legend Just Keeps Growing
+    url: https://www.19fortyfive.com/2025/11/the-f-14-tomcat-fighter-legend-just-keeps-growing/
+    text: Key Points and Summary – A profile of the F-14 Tomcat highlights the “revolutionary”
+      upgrade that created the F-14B. -The original F-14 was famous for its variable-sweep
+      wings and two-seat Radar Intercept Officer (RIO), but its engines were problematic.
+      In the 1980s, it received new General Electric F101/F110 engines, which “made
+      all the difference.” -This […] The post The F-14 Tomcat Fighter Legend Just Keeps
+      Growing appeared first on 19FortyFive .
+    one_sentence_summary: The F-14 Tomcat, renowned for its variable-sweep wings and
+      two-seat design, underwent a significant transformation with the introduction
+      of new General Electric engines in the 1980s, enhancing its performance and solidifying
+      its legendary status.
+    paragraph_summary: The article profiles the F-14 Tomcat, emphasizing the significant
+      upgrades that led to the creation of the F-14B model. Initially renowned for its
+      variable-sweep wings and two-seat configuration with a Radar Intercept Officer
+      (RIO), the original F-14 faced issues with its engines. However, in the 1980s,
+      the introduction of new General Electric F101/F110 engines transformed the aircraft's
+      performance, marking a pivotal improvement in its capabilities. The F-14 Tomcat's
+      legacy continues to grow as a legendary fighter jet.
+    published: '2025-11-14T19:34:28+00:00'
   - title: 'No Place to Hide: The End of Submarine Stealth?'
     url: https://www.19fortyfive.com/2025/11/no-place-to-hide-the-end-of-submarine-stealth/
     text: 'Key Points and Summary – U.S. submarines still own the acoustic fight, but

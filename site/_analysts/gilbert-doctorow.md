@@ -7,17 +7,1432 @@ description: "Gilbert Doctorow is a Brussels-based independent political analyst
 websites:
   - https://gilbertdoctorow.com/
 summary: |
-  As the Ukraine conflict grinds on into late 2025, its effects are increasingly visible not only on the battlefield but within the societies of both Russia and Ukraine. The war’s persistence has solidified national identities and reshaped domestic politics, while the Kremlin’s information management and the evolution of Russian society remain under close scrutiny.
+  The geopolitical landscape continues to be shaped by the ongoing Ukraine war, shifting alliances, and the repercussions of Western sanctions. The most recent developments highlight the growing strain in Russia-India relations, the evolving situation on the Ukrainian frontlines, and the diplomatic maneuvers of President Zelensky.
   
-  The most recent analysis by **Gilbert Doctorow** and **Glenn Diesen** underscores how the war has become a crucible for national identity. Diesen notes that “the Ukraine conflict has strengthened Ukrainian national identity while also reviving Russian national pride,” though he warns of the dangers posed by the entrenchment of war industries and profiteering. This dual process of identity formation is seen as a stabilizing factor for both governments, but it also raises the risk of further escalation and societal militarization.
+  **Russia-India Relations Under Pressure**
   
-  Inside Russia, the war’s impact is manifesting in a shift in the political landscape. According to **Professor Glenn Diesen**, there has been a marked “emergence of hardliners and the retreat of liberals,” with the hardliners themselves splitting into factions—'loyalists' who support the Kremlin’s line, and 'militarists' pushing for even more aggressive policies. This internal division could complicate Kremlin policymaking, but for now, the majority view is that the government retains firm control.
+  According to **Gilbert Doctorow**, U.S. sanctions are presenting significant challenges for Russia-India cooperation, particularly in the defense and energy sectors. While the two countries have historically maintained close ties, the secondary effects of Western financial restrictions are now impeding trade and joint projects. Doctorow notes that India is increasingly cautious about deepening engagement with Russia, wary of jeopardizing its own access to Western markets and technology.
   
-  On the information front, **Doctorow** highlights the significance of President Putin’s upcoming annual Direct Line Q&A, describing it as “a key opportunity for direct communication and public engagement.” The event is closely managed by the Kremlin, with a focus on domestic issues but also addressing international concerns. The tight control over media coverage is seen as a means to reinforce the government’s narrative and maintain public confidence during a period of uncertainty.
+  **Ukraine: Territorial Shifts and Diplomatic Optics**
   
-  **Trends and Predictions:**  
-  The consolidation of national identity in both Ukraine and Russia is likely to continue, with high confidence that this will further entrench the conflict and reduce prospects for near-term compromise. The internal hardening of Russian society, especially the rise of competing hardliner factions, is quite likely to lead to more assertive policies, though the Kremlin’s control remains robust for now. I guarantee that President Putin’s Direct Line session will be used to project stability and resolve, both to the Russian public and to international observers. Overall, the war’s societal impacts are deepening, and the current trajectory suggests continued polarization and militarization on both sides.
+  On the Ukrainian front, Doctorow reports recent Russian territorial gains in both Dnepropetrovsk and Kharkiv regions. These advances, while not yet decisive, underscore the persistent volatility of the conflict. Meanwhile, Ukrainian President Zelensky’s latest diplomatic visits are described as “more focused on image than substantive agreements.” Doctorow suggests that these trips are aimed at maintaining international visibility and support, but have so far yielded little in the way of concrete aid or new alliances.
+  
+  **Asset Confiscation Risks Escalate**
+  
+  A new point of tension is the potential confiscation of Russian state assets held in Euroclear, Belgium. Doctorow highlights this as a significant escalation in the economic front of the conflict, warning that such a move could provoke severe retaliatory measures from Moscow and further destabilize international financial systems.
+  
+  **Trends and Predictions**
+  
+  The majority view among analysts is that the Ukraine conflict will remain the central axis of East-West tensions. The weakening of Russia-India ties is expected to continue unless there is a shift in U.S. sanctions policy—an outcome Doctorow considers unlikely in the near term. The risk of asset confiscation is “quite likely” to trigger a new round of countermeasures, increasing global economic uncertainty. As for the battlefield, Doctorow sees a “high chance” of continued incremental Russian advances, but no imminent breakthrough.
+  
+  In summary, the geopolitical environment is marked by deepening fractures in traditional alliances, persistent conflict in Ukraine, and the growing use of economic levers as instruments of statecraft. These trends are expected to intensify in the coming weeks.
 articles:
+  - title: NewsX World:  two segments from the midday wrap-up
+    url: https://gilbertdoctorow.com/2025/11/18/newsx-world-two-segments-from-the-midday-wrap-up/
+    text: “Russia-India Ties Factor of Stability in International Relations” Regrettably
+      I was obliged to contradict the enthusiastic words of the host about the ongoing
+      visit of the Indian foreign minister to Moscow as he and Sergei Lavrov prepare
+      for President Putin’s state visit to India next month. The secondary sanctions
+      on India imposed by Donald Trump have done considerable damage to Russian-Indian
+      commercial ties as I explain here. https://www.youtube.com/watch?v=BVbg8NyE4QI
+      The host spoke glowingly about Zelensky’s visit to Spain today in which he spoke
+      to parliament and spent time with the prime minister. It was unclear exactly what
+      he expected to take away. However, that is not relevant since this visit, following
+      on his visits to Greece last weekend to reach an accord on supplies of petroleum
+      gas for this winter’s heating and his visit to France to sign an agreement on
+      purchase of 100 Rafael fighter jets over the coming 10 years is more about image
+      than anything else. Against the background of a highly damaging corruption scandal
+      among officials very close to the president, Zelensky was keen to demonstrate
+      his continuing usefulness to the cause of the war by his mission abroad this week. 
+      Meanwhile his next stop will be Istanbul, where he is expected to meet with Witkoff
+      and Erdogan to discuss his readiness for renewing peace talks with Moscow.  There
+      again the essence is PR, given that under present conditions Russia has no desire
+      whatsoever to sign a peace with the head of the regime it now expects to remove
+      by force on the strength of its military victory on the battlefield
+    one_sentence_summary: The article discusses the challenges facing Russia-India relations
+      due to U.S. sanctions, while contrasting this with Ukrainian President Zelensky's
+      recent diplomatic visits, which appear more focused on image than substantive
+      agreements.
+    paragraph_summary: The article discusses the complex dynamics of international relations
+      involving Russia and India, particularly in light of the Indian foreign minister's
+      visit to Moscow ahead of President Putin's upcoming state visit to India. It highlights
+      the detrimental impact of secondary sanctions imposed on India by the Trump administration,
+      which have harmed Russian-Indian commercial ties. Additionally, the article touches
+      on Ukrainian President Zelensky's recent diplomatic efforts in Spain, Greece,
+      and France, aimed at bolstering his image amid a corruption scandal, while also
+      preparing for potential peace talks with Russia in Istanbul. However, it suggests
+      that these diplomatic gestures may be more about public relations than substantive
+      progress, as Russia currently has no intention of negotiating peace with Ukraine.
+    published: '2025-11-18T18:58:26+00:00'
+  - title: NewsX World:  two segments from the midday wrap-up
+    url: https://gilbertdoctorow.com/2025/11/18/newsx-world-two-segments-from-the-midday-wrap-up/
+    text: “Russia-India Ties Factor of Stability in International Relations” Regrettably
+      I was obliged to contradict the enthusiastic words of the host about the ongoing
+      visit of the Indian foreign minister to Moscow as he and Sergei Lavrov prepare
+      for President Putin’s state visit to India next month. The secondary sanctions
+      on India imposed by Donald Trump have done considerable damage to Russian-Indian
+      commercial ties as I explain here. https://www.youtube.com/watch?v=BVbg8NyE4QI
+      The host spoke glowingly about Zelensky’s visit to Spain today in which he spoke
+      to parliament and spent time with the prime minister. It was unclear exactly what
+      he expected to take away. However, that is not relevant since this visit, following
+      on his visits to Greece last weekend to reach an accord on supplies of petroleum
+      gas for this winter’s heating and his visit to France to sign an agreement on
+      purchase of 100 Rafael fighter jets over the coming 10 years is more about image
+      than anything else. Against the background of a highly damaging corruption scandal
+      among officials very close to the president, Zelensky was keen to demonstrate
+      his continuing usefulness to the cause of the war by his mission abroad this week. 
+      Meanwhile his next stop will be Istanbul, where he is expected to meet with Witkoff
+      and Erdogan to discuss his readiness for renewing peace talks with Moscow.  There
+      again the essence is PR, given that under present conditions Russia has no desire
+      whatsoever to sign a peace with the head of the regime it now expects to remove
+      by force on the strength of its military victory on the battlefield
+    one_sentence_summary: The article discusses the challenges facing Russia-India relations
+      due to U.S. sanctions, while contrasting this with Ukrainian President Zelensky's
+      recent diplomatic visits, which appear more focused on image than substantive
+      agreements.
+    paragraph_summary: The article discusses the complex dynamics of international relations
+      involving Russia and India, particularly in light of the Indian foreign minister's
+      visit to Moscow ahead of President Putin's upcoming state visit to India. It highlights
+      the detrimental impact of secondary sanctions imposed on India by the Trump administration,
+      which have harmed Russian-Indian commercial ties. Additionally, the article touches
+      on Ukrainian President Zelensky's recent diplomatic efforts in Spain, Greece,
+      and France, aimed at bolstering his image amid a corruption scandal, while also
+      preparing for potential peace talks with Russia in Istanbul. However, it suggests
+      that these diplomatic gestures may be more about public relations than substantive
+      progress, as Russia currently has no intention of negotiating peace with Ukraine.
+    published: '2025-11-18T18:58:26+00:00'
+  - title: 'NewsX World: interview of 17 November 2025'
+    url: https://gilbertdoctorow.com/2025/11/18/newsx-world-interview-of-17-november-2025/
+    text: 18 November 2025 18  November 2025 Yesterday’s morning news hour broadcast
+      by NewsX World (India) allotted two Ukraine war related segments to me see 4.30
+      – 8.30 significance of the capture of settlements in Dnepropetrovsk and Kharkiv
+      oblasts and 7.00 – 12.20 on importance of the possible confiscation of the Russian
+      state assets being held in Euroclear, Belgium
+    one_sentence_summary: On November 18, 2025, NewsX World featured two segments on
+      the Ukraine war, discussing the significance of recent territorial captures in
+      Dnepropetrovsk and Kharkiv, as well as the potential confiscation of Russian state
+      assets in Euroclear, Belgium.
+    paragraph_summary: On November 18, 2025, NewsX World (India) featured two segments
+      during its morning news hour focusing on the Ukraine war. The first segment, aired
+      from 4:30 to 8:30, discussed the significance of recent territorial gains in the
+      Dnepropetrovsk and Kharkiv oblasts. The second segment, from 7:00 to 12:20, addressed
+      the potential confiscation of Russian state assets held in Euroclear, Belgium,
+      highlighting its implications for the ongoing conflict.
+    published: '2025-11-18T11:58:10+00:00'
+  - title: 'NewsX World: interview of 17 November 2025'
+    url: https://gilbertdoctorow.com/2025/11/18/newsx-world-interview-of-17-november-2025/
+    text: 18 November 2025 18  November 2025 Yesterday’s morning news hour broadcast
+      by NewsX World (India) allotted two Ukraine war related segments to me see 4.30
+      – 8.30 significance of the capture of settlements in Dnepropetrovsk and Kharkiv
+      oblasts and 7.00 – 12.20 on importance of the possible confiscation of the Russian
+      state assets being held in Euroclear, Belgium
+    one_sentence_summary: On November 18, 2025, NewsX World featured two segments on
+      the Ukraine war, discussing the significance of recent territorial captures in
+      Dnepropetrovsk and Kharkiv, as well as the potential confiscation of Russian state
+      assets in Euroclear, Belgium.
+    paragraph_summary: On November 18, 2025, NewsX World (India) featured two segments
+      during its morning news hour focusing on the Ukraine war. The first segment, aired
+      from 4:30 to 8:30, discussed the significance of recent territorial gains in the
+      Dnepropetrovsk and Kharkiv oblasts. The second segment, from 7:00 to 12:20, addressed
+      the potential confiscation of Russian state assets held in Euroclear, Belgium,
+      highlighting its implications for the ongoing conflict.
+    published: '2025-11-18T11:58:10+00:00'
+  - title: Transcript of NewsX World interview, 15 November
+    url: https://gilbertdoctorow.com/2025/11/16/transcript-of-newsx-world-interview-15-november/
+    text: 'Transcript submitted by a reader NewsX World: 0:09 Hello and welcome viewers,
+      I’m Pia and you’re watching NewsX Eurozone and here are the top headlines. Switzerland
+      has won US tariff rate cut to 15% from earlier imposed 39% tariffs. The trade
+      agreement includes both Washington slashing its tariffs on its products and a
+      pledge by companies to invest $200 billion in the US by the end of 2030. UN Secretary-General
+      António Gutterez has strongly condemned Russia’s latest wave of large-scale missile
+      drone strikes in Ukraine, which have claimed it caused widespread damage across
+      several regions. Ukrainian President Volodymyr Zelenskyy says that no Russian
+      strike will go unpunished after deadly attacks on Kiev and in areas in southern
+      Ukraine. 1:08 The major oil terminal in the Russian port city of Novorossiysk
+      has temporarily suspended operations, which is approximately 2% of its global
+      oil supply. This comes after a Ukrainian strike targeted its oil facilities. US
+      Vice President JD Vance says that US President Trump recognizes the need to negotiate
+      with his Russian counterpart Vladimir Putin on the ongoing war despite their differences
+      as the meeting between Trump and Putin in Budapest was cancelled earlier. Dutch
+      computer chipmaker Nexperia has stated that they have not halted the shipping
+      of the chips and have alternative supply chains in place. This comes amid the
+      disruption caused by the dispute between Europe-based unit and its factory plant
+      in China. 2:08 US President Donald Trump has stated that he would likely sue the
+      BBC next week for as much as $5 billion. This comes as the British broadcaster
+      admitted it wrongly edited a video of a speech delivered by US President Donald
+      Trump. Several people were killed and many were reportedly injured when the bus
+      crashed in central Stockholm. The Swedish police have ruled out an attack and
+      are investigating the incident as involuntary manslaughter. 2:42 My viewers, those
+      are the headlines and our top focus: the Russian defense ministry has stated that
+      its forces have taken control of Yablukova in Ukraine’s Zaporozhiya region. The
+      ministry has also stated that it has downed 13 Ukrainian drones over several Russian
+      regions, including Rostov, Crimea, which is disputed, and Belgorod. Meanwhile,
+      Ukrainian officials have reported that Russia launched a heavy drone and missile
+      attack on Ukraine early on the 14th of November. The attack on energy facilities,
+      apartment buildings, and infrastructure has killed six people in Kiev and two
+      more in the southern area of the country. Meanwhile, UN spokesperson Stephanie
+      Jadwaryk had earlier stated that UN Secretary-General Antonio Guterrez strongly
+      condemns large-scale missile and drone attacks by Russian forces on Ukrainian
+      regions. 3:39 With us on the broadcast is Ms. Alison Muttler, former Associated
+      Press Bureau chief joining us from Romania. Thank you so much for taking your
+      time and speaking to us on NewsX World. Yablukova is obviously a village, but
+      it lies very close to certain key logistical footholds and also areas that are
+      a crucial part of the supply chains regarding the Ukrainian defense equipment.
+      In that context, you know, many experts are touting this as a strategic gain.
+      What do you make of this current advance by the Russian forces on the front lines?
+      Mutttler: 4:23 Well, this current advance, this current offensive is very important
+      to Russia. They want to strangle hold on Ukrainian defense to stop the Ukrainian
+      defending their territory. And so they’ve decided this is the way to move in the
+      Zaporizhzhia region, which is in the southeast of Ukraine on the Dnieper River.
+      It’s very important to them. And they have been making an advance in that area.
+      But what’s important to remember is that these are Russian claims. These are Russian
+      claims that have appeared on Russian media outlets in Russia. They have not appeared
+      on Western media outlets. They have not been independently verified. 5:03 I looked
+      at the Institute of War and there is nothing at this moment confirming it. So
+      we cannot state with any certainty that it is as Russia says. This is the message
+      again that Moscow, the Kremlin wants to give to the Russian public and also anybody
+      abroad who will be broadcasting it, but we can’t be sure what is happening without
+      independent verification. What is certain from what we’ve seen over the past few
+      years, there is a Russian offensive in that area, a Russian advance and they do
+      have strategic aims to choke off Ukrainian defense. But at the moment we cannot
+      base our reporting on what Russia is saying because they have you know they have
+      propaganda interest in this war World: 5:52 Indeed and I want to also understand
+      from you if Russia continues to follow its strategy of pincer attacks as it’s
+      doing right now, does it then run the risk of its lines being too stretched, especially
+      with winter around the corner? Muttler: 6:09 That’s a very good question. A pincer
+      attack is like a crab when you grab an area, you strangle it. And it’s a good
+      strategy for attacking. But as you say, if you put a lot of your forces, a lot
+      of your troops, if you invest a lot of your troops in these attacks, these advances,
+      these offences, then you risk leaving other areas uncovered. And as winter approaches,
+      and we’re coming close to December and it’s pretty cold over there, it gets much,
+      much harder. So Russia, I think, want to make a final effort, as they seem to
+      be have been doing in the previous weeks to get as much offensive activity as
+      they can before the snow falls, before it gets icy and conditions get a lot more
+      difficult. But they do have a problem with manpower. They are relying, for this
+      huge war effort, they’re relying on troops from North Korea. North Korea are also
+      working in their military factories. 7:09 So they are very stretched. Russians
+      don’t generally want to fight in this war for obvious reasons. So it is difficult.
+      And if they do put too many troops into one region or one attack, that does take
+      away their military from other regions that they might need to, they want to attack
+      or they need to defend. World: 7:28 Indeed. And we’ve also seen a statement by
+      US Vice President JD Vance. He has emphasized that Donald Trump now recognizes
+      the need to negotiate with Vladimir Putin, despite their differences. We did see
+      that Trump was eyeing talks in Budapest which did not materialize. Of course it
+      happened after Kremlin sent a memo to Washington. But what do you make of Vance’s
+      statement, especially the timing of it? Muttler 8:00 I think it’s an interesting
+      development. What I know is that it was Donald Trump who cancelled the talks in
+      Budapest. And I know that this caused a lot of problems in the Kremlin in Russia,
+      because any time Donald Trump appears with Vladimir Putin, it’s good optics. It
+      looks good for Vladimir Putin. It looks bad for Donald Trump because the general
+      impression is that Vladimir Putin runs circles around Donald Trump in terms of
+      negotiation and in terms of persuading Donald Trump of his point of view. But
+      we have seen this offensive in recent weeks, and I know that Trump definitely
+      wants to settle this dispute. He wants to say that he is a peacemaker and he has
+      managed to end this war. So it was clearly a postponement. But what is interesting
+      is obviously J.D. Vance is being used here as a spokesman for Trump. He’s putting
+      forward the administration’s position. 8:57 What is interesting is he is acknowledging
+      publicly there are differences. So we may expect the announcement of a new meeting
+      and we’ll have to watch it play out, where it will be, what will happen, etc.
+      etc. Because the one in Alaska was generally seen as a big victory for Vladimir
+      Putin, a failure for Donald Trump and nothing was achieved. World: Indeed, I would
+      request you to stay on with us as we are tracking further updates from Europe.
+      We are now learning that Slovakia’s Prime Minister Robert Fico has reiterated
+      his opposition to the European Union transferring 140 billion euros in frozen
+      Russian assets to Ukraine. Fico has stated that the transfer of 140 billion euros
+      to Ukraine would mean two more years of killings in the conflict. Fico has recently
+      emphasized that as long as he is Prime Minister, Slovakia will not participate
+      in what he calls financing the continuation of the war. Slovakia has maintained
+      that it insists on an immediate ceasefire and lasting peace in Ukraine. Still
+      with us on the broadcast is Ms. Alison Mutler. Slovakia is not the only country
+      we’ve seen trying to stall this bit. We’ve seen Hungary in the past as well. We
+      also know that the Czech Republic and its Prime Minister Andrzej Babis are also
+      not really pro-Ukraine. But at the same time, the EU is having to deal with pressure
+      from the Trump administration to really pull up their funding in this war. How
+      do you think Brussels will sort of balance the two? Muttler: Well, I read Robert
+      Fico’s statement. I also read that he went to a school and they were pro-Ukrainian
+      students there, protesters, and he actually said to them, why don’t you go and
+      fight in Ukraine? I also noticed his statement that he opposed the use of 140
+      billion euros of frozen assets and then prolong the war. The first news agency
+      to pick it up, I’m talking outside Slovakia, was TASS. So TASS is the Russian
+      national news agency. So Robert Fico is doing the work, if you like, of the Kremlin.
+      He is a spokesman in a way for Vladimir Putin as is Viktor Orban and also the
+      new Czech Prime Minister. These are Russia-friendly nations, and their aim is
+      to disrupt any effort that Europe is making towards bolstering, helping Ukraine
+      and they are very useful to the Kremlin. I’m sure the European Union and NATO
+      as well will find a way around their vote against – I mean, it’s a democracy.
+      It doesn’t necessarily have to be a unanimous decision. But we can expect, if
+      we hear Robert Fico, Viktor Orban, the new Czech prime minister, we can expect
+      opposition to any help, any military aid, any unfreezing of assets that Europe,
+      that Brussels intends to give Ukraine. These are nations that feel themselves
+      more closely aligned to Vladimir Putin and Russia than they do to helping Ukraine
+      in its war effort. As I’ve said before, Ukraine’s war effort is, they call it
+      not just a defense of their country but defense of Europe, but these three other
+      nations they feel more closely allied to Moscow than they do Brussels. World:
+      12:24 All right now with that I’d like to thank you for taking your time, of course
+      putting all of that into context for our viewers. On that note, we should focus
+      on some more developments coming in. We are now learning that US President Donald
+      Trump has stated that he would like to hold a meeting between the United States,
+      Russia and China to discuss reductions in nuclear arsenals. Aboard the Air Force
+      One, Trump has stated that he would like to denuclearize, in a meeting primarily
+      of the top three nuclear powers to cut back on nuclear weapons. Trump has added
+      that the United States has more nuclear weapons than any other country, with Russia
+      being the second and China the distant third. These are his claims of course.
+      He’s also added that both Russia and China will be at par with the US within four
+      to five years. Listen in to what Trump has said. Trump: 13:14 –renovated them,
+      have built some, and I hated to do it, but I had no choice because they haven’t.
+      We have more, Russia’s second, and China is a distant third; but within four or
+      five years they’re going to be up with us. What I would like to do is I would
+      like to go denuclearization. In other words, where we have a meeting primarily
+      of the top three to cut back on nuclear weapons. That would be a great topic.
+      World: 13:44 With us on the broadcast is Mr. Gilbert Doctorow, international affairs
+      expert, joining us from Brussels. Thank you so much for taking your time and speaking
+      to us. Of course, Donald Trump there trying to once again make a bid for denuclearization,
+      an interesting 180 degree U-turn from his earlier assertion that the United States
+      will resume nuclear testing. He’s also in fact stated that the United States is
+      first as far as its nuclear arsenal is concerned, a claim that is disputed. Many
+      consider that Russia is leading at the moment. But despite all of this, what do
+      you make of Trump’s rhetoric now, the abrupt change in his tone? What sort of
+      spurred that? Doctorow: 14:30 Well, there’s nothing particularly surprising that
+      he changes his position by 180 degrees on any given major international issue
+      from day to day or week to week. So this isn’t an exceptional change. I think
+      perhaps he got a better briefing from his military advisors as to what the real
+      state of the situation is, where Russia has completely renovated its nuclear triad,
+      and it’s perhaps 10 years ahead of the United States in that regard. So they told
+      him, “Boss, we are behind in the arms race. In fact, we lost the arms race. So
+      maybe we should go back to the negotiating table.” That’s what it’s all about.
+      The idea that he will bring together both the Chinese and the Russians at the
+      same table is a complete nonstarter, and he knows that. The Chinese have refused
+      to be roped into any new limitation on nuclear weapons when they are so far behind
+      the Russians and the United States. By their own earlier decisions, they did not
+      want to go nuclear. They only wanted to have a kind of riposte, a kind of deterrent
+      to prevent nuclear attack on themselves. Well, the United States surrounding China
+      doing everything possible to prepare for a war with China has changed the Chinese
+      thinking. And now they’re going for broke. They are going to match the same level
+      of nuclear weapons as the United States and Russia. 15:57 And there’s nothing
+      that Mr. Trump can do about that unless he backs off completely from the strategic
+      assault on China that he is overseeing. World: Indeed, you’ve mentioned that China
+      has basically, it’s looking at increasing its arsenal in light of what the United
+      States is doing in the Indo-Pacific and its arsenal in the first place is in order
+      to deter a nuclear strike on it first. We do know that China does have a formal
+      no-first- use policy. But in spite all of this, is Taiwan one of the primary considerations
+      for the United States to come out with this aggressive rhetoric in the first place?
+      And China, of course, not seeing eye to eye because of the One-China policy. Doctorow:
+      16:47 Yes, there’s a sharp contradiction here. And Mr. Trump is never completely
+      consistent. I don’t take his words at any face value. I look at his actions. His
+      actions so far have been to put up a vast fortune to finance a Golden Dome to
+      protect the United States from Russian and any other missile attacks, an utterly
+      hopeless task which the Russians have brought home and made very explicit by demonstrating
+      their latest strategic weapons, the Burevestnik in particular, which can penetrate
+      any foreseeable future dome. So he has committed to spending vast fortunes of
+      American taxpayers’ money on absolutely hopeless and useless defenses. Now, I
+      think he finally may have gotten the message that that effort is useless and perhaps
+      should be stopped. And now he’d like to go to the negotiating table. The problem
+      with all this is: Mr. Trump has been the leading force in the world in the last
+      dozen years against multi-party agreements. He is against any measure that restricts
+      America’s freedom of action. So his saying that he is for arms limitation is in
+      sharp contradiction with his actions over the last decade. World: 18:11 Indeed
+      sir, and you know, if China is successful in augmenting its nuclear arsenal, Some
+      even estimate that it is trying to basically double the current number of warheads
+      that it has. How might then a future scenario like that impact the balance of
+      power, especially in the nuclear arena? Doctorow: It won’t. Let’s face it, the
+      nuclear arms that each of these major powers has is not usable. If it were to
+      be used, you have mutual assured destruction and the end of civilization on Earth
+      as we know it. And all of the leaders of these powers understand that perfectly.
+      The only strategic strength that any country can have today is conventional weapons.
+      And in that realm, Russia is way out ahead of everybody else, including ahead
+      of the Chinese. So when you take measures of military strength, the measures used
+      in the past, and particularly the ones you’ve mentioned now, are invalid. World:
+      19:15 All right. So with that, I’d like to thank you for taking our time and of
+      course sharing your analysis with all of us at NewsX World.'
+    one_sentence_summary: Switzerland has successfully negotiated a reduction of US
+      tariffs from 39% to 15% while committing to a $200 billion investment in the US
+      by 2030, amidst ongoing tensions as UN Secretary-General António Guterres condemns
+      Russia's missile strikes in Ukraine and Ukrainian President Zelenskyy vows retaliation.
+    paragraph_summary: In recent news, Switzerland has successfully negotiated a significant
+      reduction in US tariffs from 39% to 15%, alongside a commitment from companies
+      to invest $200 billion in the US by 2030. Meanwhile, UN Secretary-General António
+      Guterres condemned Russia's recent missile and drone strikes in Ukraine, which
+      have resulted in extensive damage, prompting Ukrainian President Volodymyr Zelenskyy
+      to vow retaliation. Additionally, operations at a major oil terminal in Novorossiysk,
+      Russia, were temporarily halted due to a Ukrainian strike, affecting about 2%
+      of global oil supply. In the US, Vice President JD Vance indicated President Trump’s
+      willingness to negotiate with Putin regarding the ongoing war, despite a canceled
+      meeting in Budapest. In other news, Dutch chipmaker Nexperia confirmed it has
+      not ceased shipments despite supply chain disputes, and Trump announced plans
+      to sue the BBC for $5 billion over a video editing error. Lastly, a bus crash
+      in central Stockholm resulted in fatalities and injuries, with police treating
+      the incident as involuntary manslaughter rather than an attack.
+    published: '2025-11-16T20:19:39+00:00'
+  - title: Transcript of NewsX World interview, 15 November
+    url: https://gilbertdoctorow.com/2025/11/16/transcript-of-newsx-world-interview-15-november/
+    text: 'Transcript submitted by a reader NewsX World: 0:09 Hello and welcome viewers,
+      I’m Pia and you’re watching NewsX Eurozone and here are the top headlines. Switzerland
+      has won US tariff rate cut to 15% from earlier imposed 39% tariffs. The trade
+      agreement includes both Washington slashing its tariffs on its products and a
+      pledge by companies to invest $200 billion in the US by the end of 2030. UN Secretary-General
+      António Gutterez has strongly condemned Russia’s latest wave of large-scale missile
+      drone strikes in Ukraine, which have claimed it caused widespread damage across
+      several regions. Ukrainian President Volodymyr Zelenskyy says that no Russian
+      strike will go unpunished after deadly attacks on Kiev and in areas in southern
+      Ukraine. 1:08 The major oil terminal in the Russian port city of Novorossiysk
+      has temporarily suspended operations, which is approximately 2% of its global
+      oil supply. This comes after a Ukrainian strike targeted its oil facilities. US
+      Vice President JD Vance says that US President Trump recognizes the need to negotiate
+      with his Russian counterpart Vladimir Putin on the ongoing war despite their differences
+      as the meeting between Trump and Putin in Budapest was cancelled earlier. Dutch
+      computer chipmaker Nexperia has stated that they have not halted the shipping
+      of the chips and have alternative supply chains in place. This comes amid the
+      disruption caused by the dispute between Europe-based unit and its factory plant
+      in China. 2:08 US President Donald Trump has stated that he would likely sue the
+      BBC next week for as much as $5 billion. This comes as the British broadcaster
+      admitted it wrongly edited a video of a speech delivered by US President Donald
+      Trump. Several people were killed and many were reportedly injured when the bus
+      crashed in central Stockholm. The Swedish police have ruled out an attack and
+      are investigating the incident as involuntary manslaughter. 2:42 My viewers, those
+      are the headlines and our top focus: the Russian defense ministry has stated that
+      its forces have taken control of Yablukova in Ukraine’s Zaporozhiya region. The
+      ministry has also stated that it has downed 13 Ukrainian drones over several Russian
+      regions, including Rostov, Crimea, which is disputed, and Belgorod. Meanwhile,
+      Ukrainian officials have reported that Russia launched a heavy drone and missile
+      attack on Ukraine early on the 14th of November. The attack on energy facilities,
+      apartment buildings, and infrastructure has killed six people in Kiev and two
+      more in the southern area of the country. Meanwhile, UN spokesperson Stephanie
+      Jadwaryk had earlier stated that UN Secretary-General Antonio Guterrez strongly
+      condemns large-scale missile and drone attacks by Russian forces on Ukrainian
+      regions. 3:39 With us on the broadcast is Ms. Alison Muttler, former Associated
+      Press Bureau chief joining us from Romania. Thank you so much for taking your
+      time and speaking to us on NewsX World. Yablukova is obviously a village, but
+      it lies very close to certain key logistical footholds and also areas that are
+      a crucial part of the supply chains regarding the Ukrainian defense equipment.
+      In that context, you know, many experts are touting this as a strategic gain.
+      What do you make of this current advance by the Russian forces on the front lines?
+      Mutttler: 4:23 Well, this current advance, this current offensive is very important
+      to Russia. They want to strangle hold on Ukrainian defense to stop the Ukrainian
+      defending their territory. And so they’ve decided this is the way to move in the
+      Zaporizhzhia region, which is in the southeast of Ukraine on the Dnieper River.
+      It’s very important to them. And they have been making an advance in that area.
+      But what’s important to remember is that these are Russian claims. These are Russian
+      claims that have appeared on Russian media outlets in Russia. They have not appeared
+      on Western media outlets. They have not been independently verified. 5:03 I looked
+      at the Institute of War and there is nothing at this moment confirming it. So
+      we cannot state with any certainty that it is as Russia says. This is the message
+      again that Moscow, the Kremlin wants to give to the Russian public and also anybody
+      abroad who will be broadcasting it, but we can’t be sure what is happening without
+      independent verification. What is certain from what we’ve seen over the past few
+      years, there is a Russian offensive in that area, a Russian advance and they do
+      have strategic aims to choke off Ukrainian defense. But at the moment we cannot
+      base our reporting on what Russia is saying because they have you know they have
+      propaganda interest in this war World: 5:52 Indeed and I want to also understand
+      from you if Russia continues to follow its strategy of pincer attacks as it’s
+      doing right now, does it then run the risk of its lines being too stretched, especially
+      with winter around the corner? Muttler: 6:09 That’s a very good question. A pincer
+      attack is like a crab when you grab an area, you strangle it. And it’s a good
+      strategy for attacking. But as you say, if you put a lot of your forces, a lot
+      of your troops, if you invest a lot of your troops in these attacks, these advances,
+      these offences, then you risk leaving other areas uncovered. And as winter approaches,
+      and we’re coming close to December and it’s pretty cold over there, it gets much,
+      much harder. So Russia, I think, want to make a final effort, as they seem to
+      be have been doing in the previous weeks to get as much offensive activity as
+      they can before the snow falls, before it gets icy and conditions get a lot more
+      difficult. But they do have a problem with manpower. They are relying, for this
+      huge war effort, they’re relying on troops from North Korea. North Korea are also
+      working in their military factories. 7:09 So they are very stretched. Russians
+      don’t generally want to fight in this war for obvious reasons. So it is difficult.
+      And if they do put too many troops into one region or one attack, that does take
+      away their military from other regions that they might need to, they want to attack
+      or they need to defend. World: 7:28 Indeed. And we’ve also seen a statement by
+      US Vice President JD Vance. He has emphasized that Donald Trump now recognizes
+      the need to negotiate with Vladimir Putin, despite their differences. We did see
+      that Trump was eyeing talks in Budapest which did not materialize. Of course it
+      happened after Kremlin sent a memo to Washington. But what do you make of Vance’s
+      statement, especially the timing of it? Muttler 8:00 I think it’s an interesting
+      development. What I know is that it was Donald Trump who cancelled the talks in
+      Budapest. And I know that this caused a lot of problems in the Kremlin in Russia,
+      because any time Donald Trump appears with Vladimir Putin, it’s good optics. It
+      looks good for Vladimir Putin. It looks bad for Donald Trump because the general
+      impression is that Vladimir Putin runs circles around Donald Trump in terms of
+      negotiation and in terms of persuading Donald Trump of his point of view. But
+      we have seen this offensive in recent weeks, and I know that Trump definitely
+      wants to settle this dispute. He wants to say that he is a peacemaker and he has
+      managed to end this war. So it was clearly a postponement. But what is interesting
+      is obviously J.D. Vance is being used here as a spokesman for Trump. He’s putting
+      forward the administration’s position. 8:57 What is interesting is he is acknowledging
+      publicly there are differences. So we may expect the announcement of a new meeting
+      and we’ll have to watch it play out, where it will be, what will happen, etc.
+      etc. Because the one in Alaska was generally seen as a big victory for Vladimir
+      Putin, a failure for Donald Trump and nothing was achieved. World: Indeed, I would
+      request you to stay on with us as we are tracking further updates from Europe.
+      We are now learning that Slovakia’s Prime Minister Robert Fico has reiterated
+      his opposition to the European Union transferring 140 billion euros in frozen
+      Russian assets to Ukraine. Fico has stated that the transfer of 140 billion euros
+      to Ukraine would mean two more years of killings in the conflict. Fico has recently
+      emphasized that as long as he is Prime Minister, Slovakia will not participate
+      in what he calls financing the continuation of the war. Slovakia has maintained
+      that it insists on an immediate ceasefire and lasting peace in Ukraine. Still
+      with us on the broadcast is Ms. Alison Mutler. Slovakia is not the only country
+      we’ve seen trying to stall this bit. We’ve seen Hungary in the past as well. We
+      also know that the Czech Republic and its Prime Minister Andrzej Babis are also
+      not really pro-Ukraine. But at the same time, the EU is having to deal with pressure
+      from the Trump administration to really pull up their funding in this war. How
+      do you think Brussels will sort of balance the two? Muttler: Well, I read Robert
+      Fico’s statement. I also read that he went to a school and they were pro-Ukrainian
+      students there, protesters, and he actually said to them, why don’t you go and
+      fight in Ukraine? I also noticed his statement that he opposed the use of 140
+      billion euros of frozen assets and then prolong the war. The first news agency
+      to pick it up, I’m talking outside Slovakia, was TASS. So TASS is the Russian
+      national news agency. So Robert Fico is doing the work, if you like, of the Kremlin.
+      He is a spokesman in a way for Vladimir Putin as is Viktor Orban and also the
+      new Czech Prime Minister. These are Russia-friendly nations, and their aim is
+      to disrupt any effort that Europe is making towards bolstering, helping Ukraine
+      and they are very useful to the Kremlin. I’m sure the European Union and NATO
+      as well will find a way around their vote against – I mean, it’s a democracy.
+      It doesn’t necessarily have to be a unanimous decision. But we can expect, if
+      we hear Robert Fico, Viktor Orban, the new Czech prime minister, we can expect
+      opposition to any help, any military aid, any unfreezing of assets that Europe,
+      that Brussels intends to give Ukraine. These are nations that feel themselves
+      more closely aligned to Vladimir Putin and Russia than they do to helping Ukraine
+      in its war effort. As I’ve said before, Ukraine’s war effort is, they call it
+      not just a defense of their country but defense of Europe, but these three other
+      nations they feel more closely allied to Moscow than they do Brussels. World:
+      12:24 All right now with that I’d like to thank you for taking your time, of course
+      putting all of that into context for our viewers. On that note, we should focus
+      on some more developments coming in. We are now learning that US President Donald
+      Trump has stated that he would like to hold a meeting between the United States,
+      Russia and China to discuss reductions in nuclear arsenals. Aboard the Air Force
+      One, Trump has stated that he would like to denuclearize, in a meeting primarily
+      of the top three nuclear powers to cut back on nuclear weapons. Trump has added
+      that the United States has more nuclear weapons than any other country, with Russia
+      being the second and China the distant third. These are his claims of course.
+      He’s also added that both Russia and China will be at par with the US within four
+      to five years. Listen in to what Trump has said. Trump: 13:14 –renovated them,
+      have built some, and I hated to do it, but I had no choice because they haven’t.
+      We have more, Russia’s second, and China is a distant third; but within four or
+      five years they’re going to be up with us. What I would like to do is I would
+      like to go denuclearization. In other words, where we have a meeting primarily
+      of the top three to cut back on nuclear weapons. That would be a great topic.
+      World: 13:44 With us on the broadcast is Mr. Gilbert Doctorow, international affairs
+      expert, joining us from Brussels. Thank you so much for taking your time and speaking
+      to us. Of course, Donald Trump there trying to once again make a bid for denuclearization,
+      an interesting 180 degree U-turn from his earlier assertion that the United States
+      will resume nuclear testing. He’s also in fact stated that the United States is
+      first as far as its nuclear arsenal is concerned, a claim that is disputed. Many
+      consider that Russia is leading at the moment. But despite all of this, what do
+      you make of Trump’s rhetoric now, the abrupt change in his tone? What sort of
+      spurred that? Doctorow: 14:30 Well, there’s nothing particularly surprising that
+      he changes his position by 180 degrees on any given major international issue
+      from day to day or week to week. So this isn’t an exceptional change. I think
+      perhaps he got a better briefing from his military advisors as to what the real
+      state of the situation is, where Russia has completely renovated its nuclear triad,
+      and it’s perhaps 10 years ahead of the United States in that regard. So they told
+      him, “Boss, we are behind in the arms race. In fact, we lost the arms race. So
+      maybe we should go back to the negotiating table.” That’s what it’s all about.
+      The idea that he will bring together both the Chinese and the Russians at the
+      same table is a complete nonstarter, and he knows that. The Chinese have refused
+      to be roped into any new limitation on nuclear weapons when they are so far behind
+      the Russians and the United States. By their own earlier decisions, they did not
+      want to go nuclear. They only wanted to have a kind of riposte, a kind of deterrent
+      to prevent nuclear attack on themselves. Well, the United States surrounding China
+      doing everything possible to prepare for a war with China has changed the Chinese
+      thinking. And now they’re going for broke. They are going to match the same level
+      of nuclear weapons as the United States and Russia. 15:57 And there’s nothing
+      that Mr. Trump can do about that unless he backs off completely from the strategic
+      assault on China that he is overseeing. World: Indeed, you’ve mentioned that China
+      has basically, it’s looking at increasing its arsenal in light of what the United
+      States is doing in the Indo-Pacific and its arsenal in the first place is in order
+      to deter a nuclear strike on it first. We do know that China does have a formal
+      no-first- use policy. But in spite all of this, is Taiwan one of the primary considerations
+      for the United States to come out with this aggressive rhetoric in the first place?
+      And China, of course, not seeing eye to eye because of the One-China policy. Doctorow:
+      16:47 Yes, there’s a sharp contradiction here. And Mr. Trump is never completely
+      consistent. I don’t take his words at any face value. I look at his actions. His
+      actions so far have been to put up a vast fortune to finance a Golden Dome to
+      protect the United States from Russian and any other missile attacks, an utterly
+      hopeless task which the Russians have brought home and made very explicit by demonstrating
+      their latest strategic weapons, the Burevestnik in particular, which can penetrate
+      any foreseeable future dome. So he has committed to spending vast fortunes of
+      American taxpayers’ money on absolutely hopeless and useless defenses. Now, I
+      think he finally may have gotten the message that that effort is useless and perhaps
+      should be stopped. And now he’d like to go to the negotiating table. The problem
+      with all this is: Mr. Trump has been the leading force in the world in the last
+      dozen years against multi-party agreements. He is against any measure that restricts
+      America’s freedom of action. So his saying that he is for arms limitation is in
+      sharp contradiction with his actions over the last decade. World: 18:11 Indeed
+      sir, and you know, if China is successful in augmenting its nuclear arsenal, Some
+      even estimate that it is trying to basically double the current number of warheads
+      that it has. How might then a future scenario like that impact the balance of
+      power, especially in the nuclear arena? Doctorow: It won’t. Let’s face it, the
+      nuclear arms that each of these major powers has is not usable. If it were to
+      be used, you have mutual assured destruction and the end of civilization on Earth
+      as we know it. And all of the leaders of these powers understand that perfectly.
+      The only strategic strength that any country can have today is conventional weapons.
+      And in that realm, Russia is way out ahead of everybody else, including ahead
+      of the Chinese. So when you take measures of military strength, the measures used
+      in the past, and particularly the ones you’ve mentioned now, are invalid. World:
+      19:15 All right. So with that, I’d like to thank you for taking our time and of
+      course sharing your analysis with all of us at NewsX World.'
+    one_sentence_summary: Switzerland has successfully negotiated a reduction of US
+      tariffs from 39% to 15% while committing to a $200 billion investment in the US
+      by 2030, amidst ongoing tensions as UN Secretary-General António Guterres condemns
+      Russia's missile strikes in Ukraine and Ukrainian President Zelenskyy vows retaliation.
+    paragraph_summary: In recent news, Switzerland has successfully negotiated a significant
+      reduction in US tariffs from 39% to 15%, alongside a commitment from companies
+      to invest $200 billion in the US by 2030. Meanwhile, UN Secretary-General António
+      Guterres condemned Russia's recent missile and drone strikes in Ukraine, which
+      have resulted in extensive damage, prompting Ukrainian President Volodymyr Zelenskyy
+      to vow retaliation. Additionally, operations at a major oil terminal in Novorossiysk,
+      Russia, were temporarily halted due to a Ukrainian strike, affecting about 2%
+      of global oil supply. In the US, Vice President JD Vance indicated President Trump’s
+      willingness to negotiate with Putin regarding the ongoing war, despite a canceled
+      meeting in Budapest. In other news, Dutch chipmaker Nexperia confirmed it has
+      not ceased shipments despite supply chain disputes, and Trump announced plans
+      to sue the BBC for $5 billion over a video editing error. Lastly, a bus crash
+      in central Stockholm resulted in fatalities and injuries, with police treating
+      the incident as involuntary manslaughter rather than an attack.
+    published: '2025-11-16T20:19:39+00:00'
+  - title: 'US Russia China discussion: Nuclear reductions proposed by Trump in trilateral
+      meeting| NewsX World'
+    url: https://gilbertdoctorow.com/2025/11/16/us-russia-china-discussion-nuclear-reductions-proposed-by-trump-in-trilateral-meeting-newsx-world/
+    text: In this news wrap-up on NewsX World, I respond to questions about Trump’s
+      proposal for meetings with Russia and China to discuss limits on nuclear weapons
+      arsenals beginning at minute 14.54 and ending at minute 19. I urge the Community
+      to take a look at the preceding segment in this video (minutes 4 – 14), when a
+      female journalist based in Romania speaks about the latest Russian capture of
+      a village in Ukraine. This chat proceeds to discussion of problems with men and
+      supplies that she alleges the Russian armed forces are experiencing and ends with
+      her remarks on how the Slovaks, Hungarians and Czechs are now ‘more closely allied
+      to Russia than to Brussels’ and are hindering aid efforts to the Kiev regime. 
+      I congratulate NewsX World for bringing on air this rather capable spokesperson
+      for what I will call ‘the enemy camp’ as regards the Russia-Ukraine war.  Obviously
+      they are striving to find some kind of balance between what I stand for and the
+      mainstream narrative.
+    one_sentence_summary: In a NewsX World segment, the speaker discusses Trump's proposal
+      for nuclear talks with Russia and China, highlights a Romanian journalist's insights
+      on Russia's military challenges in Ukraine, and notes the shifting alliances of
+      Slovakia, Hungary, and the Czech Republic towards Russia, while commending the
+      show's effort to present diverse perspectives on the conflict.
+    paragraph_summary: In a recent segment on NewsX World, the host discusses Trump's
+      proposal for nuclear weapons discussions with Russia and China, emphasizing the
+      importance of these talks from minutes 14.54 to 19. The preceding segment features
+      a Romanian journalist who reports on Russia's recent capture of a village in Ukraine,
+      highlighting issues faced by Russian forces, including supply problems and the
+      shifting allegiances of Slovaks, Hungarians, and Czechs towards Russia over Brussels,
+      which complicates aid to Ukraine. The host commends NewsX World for featuring
+      this journalist, whom he views as a representative of the opposing perspective
+      in the Russia-Ukraine conflict, suggesting the network is attempting to balance
+      differing viewpoints.
+    published: '2025-11-16T15:21:28+00:00'
+  - title: 'US Russia China discussion: Nuclear reductions proposed by Trump in trilateral
+      meeting| NewsX World'
+    url: https://gilbertdoctorow.com/2025/11/16/us-russia-china-discussion-nuclear-reductions-proposed-by-trump-in-trilateral-meeting-newsx-world/
+    text: In this news wrap-up on NewsX World, I respond to questions about Trump’s
+      proposal for meetings with Russia and China to discuss limits on nuclear weapons
+      arsenals beginning at minute 14.54 and ending at minute 19. I urge the Community
+      to take a look at the preceding segment in this video (minutes 4 – 14), when a
+      female journalist based in Romania speaks about the latest Russian capture of
+      a village in Ukraine. This chat proceeds to discussion of problems with men and
+      supplies that she alleges the Russian armed forces are experiencing and ends with
+      her remarks on how the Slovaks, Hungarians and Czechs are now ‘more closely allied
+      to Russia than to Brussels’ and are hindering aid efforts to the Kiev regime. 
+      I congratulate NewsX World for bringing on air this rather capable spokesperson
+      for what I will call ‘the enemy camp’ as regards the Russia-Ukraine war.  Obviously
+      they are striving to find some kind of balance between what I stand for and the
+      mainstream narrative.
+    one_sentence_summary: In a NewsX World segment, the speaker discusses Trump's proposal
+      for nuclear talks with Russia and China, highlights a Romanian journalist's insights
+      on Russia's military challenges in Ukraine, and notes the shifting alliances of
+      Slovakia, Hungary, and the Czech Republic towards Russia, while commending the
+      show's effort to present diverse perspectives on the conflict.
+    paragraph_summary: In a recent segment on NewsX World, the host discusses Trump's
+      proposal for nuclear weapons discussions with Russia and China, emphasizing the
+      importance of these talks from minutes 14.54 to 19. The preceding segment features
+      a Romanian journalist who reports on Russia's recent capture of a village in Ukraine,
+      highlighting issues faced by Russian forces, including supply problems and the
+      shifting allegiances of Slovaks, Hungarians, and Czechs towards Russia over Brussels,
+      which complicates aid to Ukraine. The host commends NewsX World for featuring
+      this journalist, whom he views as a representative of the opposing perspective
+      in the Russia-Ukraine conflict, suggesting the network is attempting to balance
+      differing viewpoints.
+    published: '2025-11-16T15:21:28+00:00'
+  - title: A special essay for WordPress readers
+    url: https://gilbertdoctorow.com/2025/11/15/a-special-essay-for-wordpress-readers/
+    text: 'As some of you may be aware, I use this WordPress platform to publish my
+      video interviews and their transcripts. I maintain this platform mainly for the
+      purpose of giving viewers access to my earliest archived essays going back more
+      than a decade.  All of my current essays are published elsewhere, on my Substack
+      channel – Armageddon Newsletter.  That is open to both free and paid subscribers,
+      and I note that the numbers of subscribers and readers there are many times greater
+      than here on WordPress. I call this fact out in particular to my Japanese audience.  I
+      am very pleased that my latest book “War Diaries” has found a significant number
+      of purchasers on Amazon.co.jp not only in ebook but also in paperback format.  This
+      is quite remarkable, because the Japanese market is very hard to crack for writers
+      in English.  Since I see Japan among the dozen leading countries watching this
+      WordPress platform daily, may I suggest that you sign up for my Substack platform
+      so that you can read my daily essays and not just see podcasts. Today I make an
+      exception to my rule against publishing essays on WordPress. The growing controversy
+      in Alternative Media that I have precipitated has become bitter and ad hominem
+      in nature.  Accordingly I am obliged to respond, as I do in the essay below: A
+      riposte to Scott Ritter’s latest calumny At the top of the profession, the world
+      of geopolitical interview podcasts is fairly narrow. In terms of popularity as
+      measured by viewer numbers on each and every broadcast, there is a cluster of
+      names that come up again and again:  Scott Ritter, Larry Johnson, Jeffrey Sachs,
+      John Mearsheimer. To my surprise, over the past 18 months since my first debut
+      on ‘Judging Freedom’ hosted by Andrew Napolitano, I find myself among these leading
+      names. I say ‘surprise’ because this kind of public activity was never in my plans
+      or expectations. I have been in ‘public intellectual’ mode since 2010, when I
+      began publishing analytical essays online and my audience over the years reached
+      to hundreds, then thousands of readers. To be sure, in 2016, when I was the guest
+      on mainstream Russian talk shows on all federal channels, I appeared on programs
+      watched by very large audiences, but that ended in 2017 when Russian TV’s fascination
+      with Americans in the Trump camp came to an end. cThe idea of reaching 200,000
+      viewers with a single half-hour interview, as has happened repeatedly over the
+      past year, was something I did not strive for and did not have the means to achieve
+      until my good friend Ray McGovern put me together with Judge Napolitano. With
+      respect to Napolitano’s program, where the host himself shares broadly the views
+      of the aforementioned guests, I am an outlier who serves as a useful demonstration
+      of the program’s openness to diversity of opinion, if nothing more, since none
+      of his guests agrees with my positions on this or that as regards Russia. And
+      why should they? Apart from Ray and me, not a single one of the guests on this
+      channel is a Russia expert. Not a single one of them knows more than three words
+      of Russian. We work from very different methodologies, which by itself predetermines
+      outcomes of analysis. On another channel, one which came later to prominence and
+      still has lower subscription numbers, that of Professor Glenn Diesen, my views
+      are closer to those of the host and, presumably, to his target audience. The end
+      result of this process is that I am at the center of controversy in Alternative
+      Media. In an ideal world, that would not be a problem. But in the real world,
+      the controversy has too often been highly personalized and venomous.  There is
+      no one more active in spreading venom than Scott Ritter, who has on air in recent
+      months described me as ‘a moron’ and as ‘a piece of shit.’ So much for politesse.
+      In his latest interview with The Judge, he is more careful in choosing his words
+      though in his remark about my travels in Russia, ‘if they let Doctorow back in’
+      you get an inkling to what kind of skullduggery he is attempting in Moscow and
+      Petersburg during his ongoing visit there. I invite the Community to watch Ritter’s
+      latest interview with The Judge.  He gratuitously attacks me three or four times
+      over issues big and small. But that is NOT the reason I recommend viewing this
+      interview. It is to see and consider Ritter’s thinking processes, because they
+      are emblematic of how this very popular public figure in Alternative Media bases
+      everything he says about Russia today on what he hears from front line military
+      commanders including the director of a drone unit, from government officials in
+      the energy sector, from intelligence officials. These are, for Ritter, the whole
+      of Russian society, which is fully backing the war, the way it is being waged,
+      the collegial government around President Putin, and Putin himself.  He is not
+      being feted by RT, he says, but is on a book promotion tour.  Indeed! And one
+      may ask who his publisher is and who actually is putting up the funds to host
+      him. He is admittedly not paying his way, which should make the Buyer beware.  
+      I pay for every visit to Petersburg out of my own pocket. To be very kindly about
+      it, there is a strange naivete in Ritter’s thinking about how Russia stands apart
+      from the ways in which the rest of the world operates.  There can be no internal
+      contradictions between different Russian government agencies! Everyone is pulling
+      in the same direction! No personal ambitions seem to exist! I have been criticized
+      not only by Ritter for using anecdotal evidence in support of generalizations
+      in my travel reports. I do not deny that because it would be impossible to take
+      in everything happening in that vast country in a methodical, scientific manner
+      in a three-week visit, or even in a three-year visit. A great deal rests on the
+      judgment and prior experience of the observer.  My experience goes back to 1967. 
+      I lived and worked as a head of corporate representations in Moscow and Petersburg
+      from 1994 to 2000. None of my peers can say the same.  They bring different background
+      experience to the table when they speak and so it is no wonder that we come to
+      different conclusions. To suggest that my dinner hosts on National Unity Day were
+      Navalny supporters, meaning subversives, as Ritter does in this interview, is
+      gratuitous calumny. Enjoy the show. And think over carefully the mental processes
+      you see the hero of the piece bringing to bear on the vital questions of our times.'
+    one_sentence_summary: The author uses their WordPress platform to archive early
+      essays and promote their Substack channel, where they publish current essays and
+      have seen significant engagement, particularly from Japanese readers who are purchasing
+      their latest book, "War Diaries."
+    paragraph_summary: The author utilizes their WordPress platform primarily to archive
+      early essays while publishing current works on their more popular Substack channel,
+      Armageddon Newsletter, which has garnered significantly more subscribers. They
+      express gratitude for the success of their latest book, "War Diaries," in the
+      challenging Japanese market, encouraging their Japanese audience to join their
+      Substack for daily essays. The author also addresses a growing controversy in
+      Alternative Media, particularly a conflict with Scott Ritter, and reflects on
+      their unexpected rise in popularity within the geopolitical podcasting sphere,
+      which began with their debut on 'Judging Freedom' 18 months ago.
+    published: '2025-11-15T07:41:42+00:00'
+  - title: A special essay for WordPress readers
+    url: https://gilbertdoctorow.com/2025/11/15/a-special-essay-for-wordpress-readers/
+    text: 'As some of you may be aware, I use this WordPress platform to publish my
+      video interviews and their transcripts. I maintain this platform mainly for the
+      purpose of giving viewers access to my earliest archived essays going back more
+      than a decade.  All of my current essays are published elsewhere, on my Substack
+      channel – Armageddon Newsletter.  That is open to both free and paid subscribers,
+      and I note that the numbers of subscribers and readers there are many times greater
+      than here on WordPress. I call this fact out in particular to my Japanese audience.  I
+      am very pleased that my latest book “War Diaries” has found a significant number
+      of purchasers on Amazon.co.jp not only in ebook but also in paperback format.  This
+      is quite remarkable, because the Japanese market is very hard to crack for writers
+      in English.  Since I see Japan among the dozen leading countries watching this
+      WordPress platform daily, may I suggest that you sign up for my Substack platform
+      so that you can read my daily essays and not just see podcasts. Today I make an
+      exception to my rule against publishing essays on WordPress. The growing controversy
+      in Alternative Media that I have precipitated has become bitter and ad hominem
+      in nature.  Accordingly I am obliged to respond, as I do in the essay below: A
+      riposte to Scott Ritter’s latest calumny At the top of the profession, the world
+      of geopolitical interview podcasts is fairly narrow. In terms of popularity as
+      measured by viewer numbers on each and every broadcast, there is a cluster of
+      names that come up again and again:  Scott Ritter, Larry Johnson, Jeffrey Sachs,
+      John Mearsheimer. To my surprise, over the past 18 months since my first debut
+      on ‘Judging Freedom’ hosted by Andrew Napolitano, I find myself among these leading
+      names. I say ‘surprise’ because this kind of public activity was never in my plans
+      or expectations. I have been in ‘public intellectual’ mode since 2010, when I
+      began publishing analytical essays online and my audience over the years reached
+      to hundreds, then thousands of readers. To be sure, in 2016, when I was the guest
+      on mainstream Russian talk shows on all federal channels, I appeared on programs
+      watched by very large audiences, but that ended in 2017 when Russian TV’s fascination
+      with Americans in the Trump camp came to an end. cThe idea of reaching 200,000
+      viewers with a single half-hour interview, as has happened repeatedly over the
+      past year, was something I did not strive for and did not have the means to achieve
+      until my good friend Ray McGovern put me together with Judge Napolitano. With
+      respect to Napolitano’s program, where the host himself shares broadly the views
+      of the aforementioned guests, I am an outlier who serves as a useful demonstration
+      of the program’s openness to diversity of opinion, if nothing more, since none
+      of his guests agrees with my positions on this or that as regards Russia. And
+      why should they? Apart from Ray and me, not a single one of the guests on this
+      channel is a Russia expert. Not a single one of them knows more than three words
+      of Russian. We work from very different methodologies, which by itself predetermines
+      outcomes of analysis. On another channel, one which came later to prominence and
+      still has lower subscription numbers, that of Professor Glenn Diesen, my views
+      are closer to those of the host and, presumably, to his target audience. The end
+      result of this process is that I am at the center of controversy in Alternative
+      Media. In an ideal world, that would not be a problem. But in the real world,
+      the controversy has too often been highly personalized and venomous.  There is
+      no one more active in spreading venom than Scott Ritter, who has on air in recent
+      months described me as ‘a moron’ and as ‘a piece of shit.’ So much for politesse.
+      In his latest interview with The Judge, he is more careful in choosing his words
+      though in his remark about my travels in Russia, ‘if they let Doctorow back in’
+      you get an inkling to what kind of skullduggery he is attempting in Moscow and
+      Petersburg during his ongoing visit there. I invite the Community to watch Ritter’s
+      latest interview with The Judge.  He gratuitously attacks me three or four times
+      over issues big and small. But that is NOT the reason I recommend viewing this
+      interview. It is to see and consider Ritter’s thinking processes, because they
+      are emblematic of how this very popular public figure in Alternative Media bases
+      everything he says about Russia today on what he hears from front line military
+      commanders including the director of a drone unit, from government officials in
+      the energy sector, from intelligence officials. These are, for Ritter, the whole
+      of Russian society, which is fully backing the war, the way it is being waged,
+      the collegial government around President Putin, and Putin himself.  He is not
+      being feted by RT, he says, but is on a book promotion tour.  Indeed! And one
+      may ask who his publisher is and who actually is putting up the funds to host
+      him. He is admittedly not paying his way, which should make the Buyer beware.  
+      I pay for every visit to Petersburg out of my own pocket. To be very kindly about
+      it, there is a strange naivete in Ritter’s thinking about how Russia stands apart
+      from the ways in which the rest of the world operates.  There can be no internal
+      contradictions between different Russian government agencies! Everyone is pulling
+      in the same direction! No personal ambitions seem to exist! I have been criticized
+      not only by Ritter for using anecdotal evidence in support of generalizations
+      in my travel reports. I do not deny that because it would be impossible to take
+      in everything happening in that vast country in a methodical, scientific manner
+      in a three-week visit, or even in a three-year visit. A great deal rests on the
+      judgment and prior experience of the observer.  My experience goes back to 1967. 
+      I lived and worked as a head of corporate representations in Moscow and Petersburg
+      from 1994 to 2000. None of my peers can say the same.  They bring different background
+      experience to the table when they speak and so it is no wonder that we come to
+      different conclusions. To suggest that my dinner hosts on National Unity Day were
+      Navalny supporters, meaning subversives, as Ritter does in this interview, is
+      gratuitous calumny. Enjoy the show. And think over carefully the mental processes
+      you see the hero of the piece bringing to bear on the vital questions of our times.'
+    one_sentence_summary: The author uses their WordPress platform to archive early
+      essays and promote their Substack channel, where they publish current essays and
+      have seen significant engagement, particularly from Japanese readers who are purchasing
+      their latest book, "War Diaries."
+    paragraph_summary: The author utilizes their WordPress platform primarily to archive
+      early essays while publishing current works on their more popular Substack channel,
+      Armageddon Newsletter, which has garnered significantly more subscribers. They
+      express gratitude for the success of their latest book, "War Diaries," in the
+      challenging Japanese market, encouraging their Japanese audience to join their
+      Substack for daily essays. The author also addresses a growing controversy in
+      Alternative Media, particularly a conflict with Scott Ritter, and reflects on
+      their unexpected rise in popularity within the geopolitical podcasting sphere,
+      which began with their debut on 'Judging Freedom' 18 months ago.
+    published: '2025-11-15T07:41:42+00:00'
+  - title: Transcript of ‘Judging Freedom’ edition of 12 November
+    url: https://gilbertdoctorow.com/2025/11/13/transcript-of-judging-freedom-edition-of-12-november/
+    text: 'Transcript submitted by a reader Napolitano: 0:31 Hi, everyone. Judge Andrew
+      Napolitano here for Judging Freedom. Today is Wednesday, November 12th, 2025.
+      Dr. Gilbert Doctorow joins us now. Dr. Doctorow, a pleasure and thank you very
+      much for being here. Are you sensing or were you even experiencing any palpable
+      domestic effects on everyday Russian life arguably triggered by the war? Doctorow:
+      1:05 I’d like to point out that the Russian government policies are caught between
+      two factions, they’re called factions, they’re two branches of the government,
+      which are at odds. And the answer to your question lies with one of those. It
+      seems to be predominant at the moment. What I’m describing is a ministry of foreign
+      affairs being on the progressive liberal open society end of things, and the successor
+      organization to the KGB called the FSB being on the repressive side of things.
+      Recent developments that affect a lot of people in Russia that are negative and
+      repressive are coming from the KGB successor, FSB. 2:04 And if you have any doubts,
+      you could find it in major media in Russia in the last 10 days. I’ll just give
+      a few of these and you’ll see what I mean. Everyone knows that about a month ago
+      or six weeks ago, WhatsApp lost its voice functionality in Russia. That’s to say,
+      in Russia, anybody can call you from abroad, from anywhere, and the phone rings.
+      You pick it up, and it disconnects. It will not connect for a voice connection.
+      On the other hand, the text function of WhatsApp works. You can send people, say,
+      an equivalent to SMS, and it works fine. Now, that doesn’t sound like much if
+      you don’t know what’s been going on in Russia for the last several years. Everybody
+      was using WhatsApp. And WhatsApp was a free way to speak with the whole world.
+      You know, you pay nothing for international phone calls on WhatsApp. And Russians
+      were using this very well. Now when the voice function is cut, they are left with,
+      most people are left with using the normal telephone system. Napolitano: 3:15
+      Can you use a VPN? Can you use one of those systems that bypasses the blockage
+      and would allow you to use the WhatsApp? Doctorow: You can use a VPN, but first
+      of all, not everybody is very clever about these things. Those who are clever,
+      they use it. And of course they have access to everything. However, it is viewed
+      with a jaundiced eye by the authorities. And there is going to be a crackdown
+      on VPN, because it obviously violates the whole principle of the regulations that
+      have come down now from on high. Napolitano: 3:58 Does the government acknowledge
+      these regulations? Does it say what it’s doing? Does it give a reason or does
+      it just do it? Doctorow: Absolutely. It both gives a reason and explains what
+      it’s doing or about to do. And in the last two weeks, while I mentioned the WhatsApp
+      incident, which I see is more powerful in cutting off Russians from the world
+      than their loss of the BBC or CNN or whatever else that they had when international
+      broadcasters left the Russian market or when satellites stopped carrying Russian
+      transmitters. Big things happened in the last few weeks. One of them I mentioned
+      in our previous chats and I’ve written about was this taking away from foreigners
+      of the right to have a Russian SIM card or telephone number in Russia. And of
+      course, having a telephone, local telephone, is very important if you’re a visitor
+      or if you live in Russia, either as a permanent resident or as a temporary long-staying
+      visitor, to do almost anything, including calling a taxi. 5:15 Well, so foreigners
+      were the first to be hit by this rule, and it was explained, as we know, by the
+      incidents around the Spider Web attack on Russian strategic assets, in which local
+      telephones were used as an enabling device for setting off the drones and so forth.
+      OK, that’s the foreigner side. But now, in the last several days, the authorities
+      have issued a new ruling, a new directive, that any Russian who travels abroad
+      and comes back with his telephone will find that his telephone number is blocked.
+      And he has to go to his service provider and, I don’t know, somehow explain himself
+      to them. Well we’re speaking about– about 10 million people a year leave Russia
+      and go abroad on vacation or work or whatever. And they come back to the country
+      and they don’t have a telephone. 6:16 They have to go to their service provider.
+      It’s not yet clear what you have to do to be verified or re-verified to get back
+      the use of your phone. Just to be petty about it, you arrive at an airport and
+      you can’t call a taxi, you can’t call your friends, you are cut off until you
+      get around to visiting your service provider. Not very friendly. The reason, as
+      I said: they’re doing it for national security reasons. And here I see two different
+      agencies of the Russian government pulling in different directions. The FSB is
+      clearly issuing these directives, claiming national security is uppermost. Their
+      rationale, I’m sorry to say, is hare-brained. To think that by subjecting all
+      Russians to this type of scrutiny, you’re going to prevent terrorism, you’re going
+      to prevent the British and the Ukrainian and other foreign intelligence operatives
+      on Russian territory from getting telephone numbers. For heaven’s sakes, Russian
+      television was carrying yesterday the story of the MI6 attempt to bribe Russian
+      pilots with $3 million in cash and citizenship somewhere in Western Europe if
+      they would fly a MiG-31 into Romania together with the latest generation missile,
+      Kinzhal, to go to Western intelligence. 7:42 Three million dollars in cash was
+      available. I’m sure that a few dollars are available to buy up from some stupid
+      local person or drunk– Napolitano: Let me stop you. I get the picture, but I had
+      not heard about this bribe. Who was offering these bribes? MI6, CIA, Ukrainian,
+      Mossad? Who was it? Doctorow: According to the Russian story, this was carried
+      by Mr. Lavrov last night, Brits, it’s all Brits. Brits means– Napolitano: 8:11
+      How pervasive, maybe the answer to this question is unknowable, but how pervasive
+      are MI6, CIA, Ukrainian intel throughout — let’s limit it to– Moscow? Doctorow:
+      No, the whole of Russia. The British in particular have worked closely with Ukrainians.
+      Remember, so many Ukrainians are good Russian speakers; that was the essence of
+      the nationalities problem in Ukraine. Half of the country didn’t speak the language
+      of the land. They spoke Russian. So, of course, there are plenty of Ukrainian
+      agents all over the place in Russia. And to think that you’re going to prevent
+      them from using the telephone network to do terror acts in Russia by holding up
+      every Russian who comes back with his phone is really nonsense. Napolitano: 9:10
+      Tell me more about this rivalry or conflict between FSB, the intelligence services,
+      and the foreign ministry headed by Sergey Lavrov. The people that work for him
+      are generally graduates of the School of International Diplomacy, which is a very
+      high-end academic institution at which I’ve been privileged to lecture. And they
+      were very interested in the American constitution when I was there. They knew
+      exactly what they were talking about. These of course are future diplomats. Mr.
+      Lavrov himself is a graduate of that school. 9:51 But tell me about the rivalry.
+      Can President Putin control the FSB, unlike President Trump, who cannot control
+      the American deep state? Doctorow: I have to wonder about that. You would think
+      that as a former KGB officer, he would know these people perfectly well and have
+      them under control. But I have my doubts now, that that’s happening. Let’s come
+      back to the central issue. I would like to take this away from the personality
+      of Mr. Putin — as if he is the whole of Russia; he isn’t– and take it to the institutional
+      and ideological differences that are different in his government. You asked me
+      a week ago about the rumored retirement of Lavrov, and I had nothing to say. But
+      you know, in light of what I’m about to say now, I think it makes a lot of sense
+      that these rumors spread. What is the Russian Ministry of Foreign Affairs and
+      the Diplomatic Corp and who is who? Let’s look at age. The people who are now
+      ambassadors are mostly in their 50s. 10:58 That’s to say they started their careers
+      in the Yeltsin years. That tells you a lot. They were what the Russians call Zopadniky.
+      They were westernizers. They were sympathetic to and wanted to have the best of
+      relations with the United States and Western Europe. And they are the ones who
+      are now ambassadors across the world. Napolitano: Is, in your opinion, Sergey
+      Lavrov of that mentality? Doctorow: Absolutely. Napolitano: Yes. Doctorow: And
+      the only big exception that I’m aware of in his immediate entourage is Mr. Ryabkov,
+      who is a real hardliner, a real tough guy looking after in the most vigorous way
+      Russian interests. Other people came up into the ministry when Mr. Kozarev was
+      the Minister of Foreign Affairs. He was the yes man, as opposed to Gromyko, who
+      had been Mr. Nyet. Mr. Kozarev agreed to everything that the United States wanted,
+      however it undermined Russian national interests. And he was finally sacked in
+      about 1998. 12:06 The point is that these people who are the professional diplomatic
+      corps of Russia, they went to MGIMO. I agree with you. It is one of the best institutions
+      of its kind in the world and has a lot of Americanists in it, like the people
+      who spoke to you about the American Constitution. These are very well-educated
+      people. But the disposition of the institution is open to the world, and that’s
+      the key point. What is the Ministry of Foreign Affairs doing? Every chance it
+      has, it opens the world for Russians. I think a week ago they announced that they
+      had just agreed with Saudi Arabia to have visa-free travel of Russians in Saudi
+      Arabia. That is a regular preoccupation of that ministry, opening the world to
+      Russians. The FSB is closing the world to Russians. Napolitano: 12:56 Is the FSB,
+      I’ll use the word repression, I don’t know if that’s the right word. I don’t know
+      if it’s gotten to that point. Let’s be charitable and call it the new regulations.
+      Are these something would have to be approved by President Putin himself? Doctorow:
+      I don’t know. I don’t know to what level this type of issuance of regulations
+      rises for approval. It’s not a dramatic thing we’re talking about, for a government
+      to do this. It is a very big influence on how people feel about themselves and
+      their access to the world. But I don’t think it is the kind of crucial issue that
+      would come up to the desk of Mr. Putin, or even to the head of the FSB. Napolitano:
+      13:43 So are these regulations a nuisance and an inconvenience, or are they a
+      knock on the door in the night? Doctorow: It’s not a knock on the door in the
+      night. 1937 has not returned. But the country’s steady march towards an open society,
+      towards the end to arbitrariness and graft that Mr. Putin oversaw for 25 years
+      is now beginning to unravel. Napolitano: And I guess you’re attributing this to
+      the consequences of the war. Doctorow: Absolutely. And this is why — I don’t mean
+      to sound like a one-note orchestra — but this is why I’m saying that the war has
+      to end as quickly as possible, which is within the power of the Russian army,
+      if it wants to use its power, which up till now it doesn’t. What they’re doing,
+      and I think here’s where the FSB influence comes in, they are destroying the energy
+      infrastructure of Ukraine. They’re causing great misery to average Ukrainians,
+      but that will not end the war [sooner] by one day. The country will get electricity
+      supplies from Europe, as it now does partially. All they have to do is build more
+      high power lines from Europe. If Europe’s going to put up tens of billions of
+      dollars in arms, they certainly can afford to put up some energy high power lines.
+      Napolitano: 15:16 How decrepit is the– and I use that word intentionally because
+      of what I’m about to tell you, nothing new to you– the Ukrainian military? We
+      are in the West getting reports of conscription, which is horrific, training of
+      non-existent young men in their late teenage years and early twenties on the front
+      line who barely know how to pull the trigger on the weapon, terrified that just
+      a week ago they were at home with their parents. I mean, this can’t be any way
+      to run a military. We’re also getting reports from General, I only know his first
+      name, forgive me, Oleksandr, I forget his last name, the commander of the [Ukrainian]
+      troops, acknowledging to some of his, some Ukrainian parliamentarians that the
+      military is in a bad way. Doctorow: Of course it’s in a bad way when you lose
+      the vast numbers of people they have. However, let me just point out that in the
+      interviews with prisoners of war who surrendered, say around Pokrovsk in the last
+      couple of weeks– Napolitano: These are Ukrainian groups who surrendered to the
+      Russians. Doctorow: 16:37 Right. But mostly if you look at the faces, these are
+      people in their late 50s or 60s. These are not the 20-year-olds. The 20-year-olds
+      I see around here in Brussels bars, that’s where the young Ukrainians have gone
+      and where they want to stay. It is unfortunately a lot of overaged people who
+      are now in the military, aren’t good for very much actually, and not a one of
+      them spoke about how they were dragooned into the army. So it’s more complicated
+      than speaking about these excessive measures to forcibly put people in uniform.
+      And as to the experience of people in this part of the world, Eastern Europe and
+      Russia in particular, with preparation for military service, just go back and
+      look at what happened at the start of World War II and the Germans invading Russian
+      territory and the start of the siege. 17:32 Well, we have friends in Petersburg,
+      or had friends, because many of these have died already, who fought in the first
+      days defending Leningrad from the invading German troops. And boy, they had zero
+      training. They also could hardly know how to pull a trigger. So this isn’t an
+      exactly new development in that part of the world. Napolitano: What pressures
+      are there on President Putin? Or let me restate the question. Is this societal
+      change affecting his popularity and approval? Doctorow: I don’t think so. But
+      again, let’s not personalize this whole thing. When you look at Russian television
+      and the criticism of the way the war is being conducted, there is never a word
+      about the president. It’s only about the specifics of the way the war is being
+      conducted, not who has approved it; we all know who it was. So Mr. Putin is essentially
+      one step back from the front lines of answerability for the way the war is being
+      conducted. Napolitano: 18:44 Well does he receive pressure from either the military
+      or the FSB to get the war over with? Doctorow: I can’t say that. I don’t think,
+      but just looking at the dynamics here, I don’t think the FSB is under particular
+      pressure to get the war over with. The war is giving them more power. Napolitano:
+      So, just as there’s criticism of Secretary of State Marco Rubio that he does not
+      want the war to end because he belongs to the neocon camp that thinks the war
+      will bleed Russia dry and adversely affect President Putin’s presidency. You’re
+      suggesting that there are elements of the Russian government that do not want
+      the war to end, the military-industrial complex, certain elements in the military,
+      certain elements in the intelligence community, because they’re at the height
+      of their power. Doctorow: 19:41 This is rather normal. I don’t see any aberration
+      to this, but let’s just call facts as they are. There are reasons why certain
+      groups in government would find the war to be convenient. Napolitano: 19:57 Is
+      the war popular amongst average Russians? Are they cheering on the Russian military
+      or is it not in the Russian consciousness? Is it not something they talk about
+      every day? It’s just something happening in Ukraine. Or “I don’t like what the
+      war is doing to me now, and I wish Putin would end it.” Can you put your thumb
+      on the pulse of Russian thinking or is there no one standard way of thinking common
+      to the Russian people? Doctorow: 20:27 Well, there is one standard common to the
+      Russian people, and that is they want the war to end with Russian victory. That
+      is a hundred percent guaranteed. But once you get past that commonality, how is
+      Russian victory going to be assured? That’s where differences come up. Napolitano:
+      Got it. What do you think will happen? Do you think we’ll wake up one morning
+      and five Oreshniks will have leveled Kiev? Or do you think President Putin will
+      maintain slow, methodical, patient wearing down of the Ukrainian military? Doctorow:
+      21:03 I don’t think the latter is going to happen because the Ukrainian military
+      is not what’s behind this war. It is London, Paris, and Berlin that are behind
+      the war today. And they are not going away. They have not conceded defeat. They
+      are ready to put up particularly the frozen Russian assets, to keep the war going
+      while they rearm and prepare for direct conflict with Russia. Napolitano: Are
+      they going to send troops to Ukraine? Doctorow: They may. It is possible. It’s
+      unlikely, but it’s possible. Napolitano: Well if they don’t send troops and the
+      Ukrainian military is on its last legs, I mean what good is military equipment
+      if there are not human beings to operate it? Doctorow: I wouldn’t agree it’s on
+      its last legs. The front line, present front line is on its last legs. It is still
+      east of the Dnieper River. If the Russians in the next several months, and I don’t
+      say next several days, but in the next several months, push further and reach
+      to Dnieper. Well, that’s it. They’ve reached 40 percent of the Ukrainian territory.
+      What about the rest? The other 60 percent? They don’t want to move there because
+      it is Ukrainian Ukraine. They will be an army of occupation when they set foot
+      there. And that will be dangerous, expensive, and it will not bring them closer
+      to a normalization with the rest of the world. So that is not thinkable. The idea
+      that this war will end after Pokrovsk falls, I mean, I could be wrong. We’ve had
+      a lot of false predictions for the last three years, including my own. But it
+      seems to me improbable that there’ll be a collapse on the Ukrainian side after
+      Pokrovsk falls, which is a matter of days. Napolitano: 22:52 Got it. Dr. Doctorow,
+      thank you very much. A fascinating, fascinating series of observations, much of
+      it firsthand. And I thank you for your time. Thanks for accommodating my schedule.
+      We’ll look forward to seeing you again as always next week. Doctorow: It’s a pleasure.
+      Napolitano: You’re welcome. Coming up later today at 11 o’clock this morning,
+      Phil Giraldi; at 1:15 this afternoon from the Ron Paul Institute, my dear friend
+      Daniel McAdams; at two o’clock this afternoon. Aaron Mate; at three o’clock this
+      afternoon from St. Petersburg, Russia, Scott Ritter. 23:32 Judge Napolitano for
+      “Judging Freedom”.'
+    one_sentence_summary: In a discussion on the impact of the war on Russian life,
+      Dr. Gilbert Doctorow highlights the internal conflict within the Russian government
+      between progressive and repressive factions, particularly noting the negative
+      effects stemming from the FSB's actions.
+    paragraph_summary: In a recent discussion on "Judging Freedom," Judge Andrew Napolitano
+      interviewed Dr. Gilbert Doctorow about the impact of the ongoing war on everyday
+      life in Russia. Doctorow highlighted the internal conflict within the Russian
+      government, where the Ministry of Foreign Affairs leans towards progressive liberal
+      policies, while the FSB, the successor to the KGB, enforces repressive measures.
+      He noted that recent developments, such as the loss of voice functionality on
+      WhatsApp, have significantly affected communication for Russians, who previously
+      relied on the app for free international calls. This change reflects broader negative
+      trends in Russian society, driven by the FSB's increasing control.
+    published: '2025-11-13T15:44:27+00:00'
+  - title: Transcript of ‘Judging Freedom’ edition of 12 November
+    url: https://gilbertdoctorow.com/2025/11/13/transcript-of-judging-freedom-edition-of-12-november/
+    text: 'Transcript submitted by a reader Napolitano: 0:31 Hi, everyone. Judge Andrew
+      Napolitano here for Judging Freedom. Today is Wednesday, November 12th, 2025.
+      Dr. Gilbert Doctorow joins us now. Dr. Doctorow, a pleasure and thank you very
+      much for being here. Are you sensing or were you even experiencing any palpable
+      domestic effects on everyday Russian life arguably triggered by the war? Doctorow:
+      1:05 I’d like to point out that the Russian government policies are caught between
+      two factions, they’re called factions, they’re two branches of the government,
+      which are at odds. And the answer to your question lies with one of those. It
+      seems to be predominant at the moment. What I’m describing is a ministry of foreign
+      affairs being on the progressive liberal open society end of things, and the successor
+      organization to the KGB called the FSB being on the repressive side of things.
+      Recent developments that affect a lot of people in Russia that are negative and
+      repressive are coming from the KGB successor, FSB. 2:04 And if you have any doubts,
+      you could find it in major media in Russia in the last 10 days. I’ll just give
+      a few of these and you’ll see what I mean. Everyone knows that about a month ago
+      or six weeks ago, WhatsApp lost its voice functionality in Russia. That’s to say,
+      in Russia, anybody can call you from abroad, from anywhere, and the phone rings.
+      You pick it up, and it disconnects. It will not connect for a voice connection.
+      On the other hand, the text function of WhatsApp works. You can send people, say,
+      an equivalent to SMS, and it works fine. Now, that doesn’t sound like much if
+      you don’t know what’s been going on in Russia for the last several years. Everybody
+      was using WhatsApp. And WhatsApp was a free way to speak with the whole world.
+      You know, you pay nothing for international phone calls on WhatsApp. And Russians
+      were using this very well. Now when the voice function is cut, they are left with,
+      most people are left with using the normal telephone system. Napolitano: 3:15
+      Can you use a VPN? Can you use one of those systems that bypasses the blockage
+      and would allow you to use the WhatsApp? Doctorow: You can use a VPN, but first
+      of all, not everybody is very clever about these things. Those who are clever,
+      they use it. And of course they have access to everything. However, it is viewed
+      with a jaundiced eye by the authorities. And there is going to be a crackdown
+      on VPN, because it obviously violates the whole principle of the regulations that
+      have come down now from on high. Napolitano: 3:58 Does the government acknowledge
+      these regulations? Does it say what it’s doing? Does it give a reason or does
+      it just do it? Doctorow: Absolutely. It both gives a reason and explains what
+      it’s doing or about to do. And in the last two weeks, while I mentioned the WhatsApp
+      incident, which I see is more powerful in cutting off Russians from the world
+      than their loss of the BBC or CNN or whatever else that they had when international
+      broadcasters left the Russian market or when satellites stopped carrying Russian
+      transmitters. Big things happened in the last few weeks. One of them I mentioned
+      in our previous chats and I’ve written about was this taking away from foreigners
+      of the right to have a Russian SIM card or telephone number in Russia. And of
+      course, having a telephone, local telephone, is very important if you’re a visitor
+      or if you live in Russia, either as a permanent resident or as a temporary long-staying
+      visitor, to do almost anything, including calling a taxi. 5:15 Well, so foreigners
+      were the first to be hit by this rule, and it was explained, as we know, by the
+      incidents around the Spider Web attack on Russian strategic assets, in which local
+      telephones were used as an enabling device for setting off the drones and so forth.
+      OK, that’s the foreigner side. But now, in the last several days, the authorities
+      have issued a new ruling, a new directive, that any Russian who travels abroad
+      and comes back with his telephone will find that his telephone number is blocked.
+      And he has to go to his service provider and, I don’t know, somehow explain himself
+      to them. Well we’re speaking about– about 10 million people a year leave Russia
+      and go abroad on vacation or work or whatever. And they come back to the country
+      and they don’t have a telephone. 6:16 They have to go to their service provider.
+      It’s not yet clear what you have to do to be verified or re-verified to get back
+      the use of your phone. Just to be petty about it, you arrive at an airport and
+      you can’t call a taxi, you can’t call your friends, you are cut off until you
+      get around to visiting your service provider. Not very friendly. The reason, as
+      I said: they’re doing it for national security reasons. And here I see two different
+      agencies of the Russian government pulling in different directions. The FSB is
+      clearly issuing these directives, claiming national security is uppermost. Their
+      rationale, I’m sorry to say, is hare-brained. To think that by subjecting all
+      Russians to this type of scrutiny, you’re going to prevent terrorism, you’re going
+      to prevent the British and the Ukrainian and other foreign intelligence operatives
+      on Russian territory from getting telephone numbers. For heaven’s sakes, Russian
+      television was carrying yesterday the story of the MI6 attempt to bribe Russian
+      pilots with $3 million in cash and citizenship somewhere in Western Europe if
+      they would fly a MiG-31 into Romania together with the latest generation missile,
+      Kinzhal, to go to Western intelligence. 7:42 Three million dollars in cash was
+      available. I’m sure that a few dollars are available to buy up from some stupid
+      local person or drunk– Napolitano: Let me stop you. I get the picture, but I had
+      not heard about this bribe. Who was offering these bribes? MI6, CIA, Ukrainian,
+      Mossad? Who was it? Doctorow: According to the Russian story, this was carried
+      by Mr. Lavrov last night, Brits, it’s all Brits. Brits means– Napolitano: 8:11
+      How pervasive, maybe the answer to this question is unknowable, but how pervasive
+      are MI6, CIA, Ukrainian intel throughout — let’s limit it to– Moscow? Doctorow:
+      No, the whole of Russia. The British in particular have worked closely with Ukrainians.
+      Remember, so many Ukrainians are good Russian speakers; that was the essence of
+      the nationalities problem in Ukraine. Half of the country didn’t speak the language
+      of the land. They spoke Russian. So, of course, there are plenty of Ukrainian
+      agents all over the place in Russia. And to think that you’re going to prevent
+      them from using the telephone network to do terror acts in Russia by holding up
+      every Russian who comes back with his phone is really nonsense. Napolitano: 9:10
+      Tell me more about this rivalry or conflict between FSB, the intelligence services,
+      and the foreign ministry headed by Sergey Lavrov. The people that work for him
+      are generally graduates of the School of International Diplomacy, which is a very
+      high-end academic institution at which I’ve been privileged to lecture. And they
+      were very interested in the American constitution when I was there. They knew
+      exactly what they were talking about. These of course are future diplomats. Mr.
+      Lavrov himself is a graduate of that school. 9:51 But tell me about the rivalry.
+      Can President Putin control the FSB, unlike President Trump, who cannot control
+      the American deep state? Doctorow: I have to wonder about that. You would think
+      that as a former KGB officer, he would know these people perfectly well and have
+      them under control. But I have my doubts now, that that’s happening. Let’s come
+      back to the central issue. I would like to take this away from the personality
+      of Mr. Putin — as if he is the whole of Russia; he isn’t– and take it to the institutional
+      and ideological differences that are different in his government. You asked me
+      a week ago about the rumored retirement of Lavrov, and I had nothing to say. But
+      you know, in light of what I’m about to say now, I think it makes a lot of sense
+      that these rumors spread. What is the Russian Ministry of Foreign Affairs and
+      the Diplomatic Corp and who is who? Let’s look at age. The people who are now
+      ambassadors are mostly in their 50s. 10:58 That’s to say they started their careers
+      in the Yeltsin years. That tells you a lot. They were what the Russians call Zopadniky.
+      They were westernizers. They were sympathetic to and wanted to have the best of
+      relations with the United States and Western Europe. And they are the ones who
+      are now ambassadors across the world. Napolitano: Is, in your opinion, Sergey
+      Lavrov of that mentality? Doctorow: Absolutely. Napolitano: Yes. Doctorow: And
+      the only big exception that I’m aware of in his immediate entourage is Mr. Ryabkov,
+      who is a real hardliner, a real tough guy looking after in the most vigorous way
+      Russian interests. Other people came up into the ministry when Mr. Kozarev was
+      the Minister of Foreign Affairs. He was the yes man, as opposed to Gromyko, who
+      had been Mr. Nyet. Mr. Kozarev agreed to everything that the United States wanted,
+      however it undermined Russian national interests. And he was finally sacked in
+      about 1998. 12:06 The point is that these people who are the professional diplomatic
+      corps of Russia, they went to MGIMO. I agree with you. It is one of the best institutions
+      of its kind in the world and has a lot of Americanists in it, like the people
+      who spoke to you about the American Constitution. These are very well-educated
+      people. But the disposition of the institution is open to the world, and that’s
+      the key point. What is the Ministry of Foreign Affairs doing? Every chance it
+      has, it opens the world for Russians. I think a week ago they announced that they
+      had just agreed with Saudi Arabia to have visa-free travel of Russians in Saudi
+      Arabia. That is a regular preoccupation of that ministry, opening the world to
+      Russians. The FSB is closing the world to Russians. Napolitano: 12:56 Is the FSB,
+      I’ll use the word repression, I don’t know if that’s the right word. I don’t know
+      if it’s gotten to that point. Let’s be charitable and call it the new regulations.
+      Are these something would have to be approved by President Putin himself? Doctorow:
+      I don’t know. I don’t know to what level this type of issuance of regulations
+      rises for approval. It’s not a dramatic thing we’re talking about, for a government
+      to do this. It is a very big influence on how people feel about themselves and
+      their access to the world. But I don’t think it is the kind of crucial issue that
+      would come up to the desk of Mr. Putin, or even to the head of the FSB. Napolitano:
+      13:43 So are these regulations a nuisance and an inconvenience, or are they a
+      knock on the door in the night? Doctorow: It’s not a knock on the door in the
+      night. 1937 has not returned. But the country’s steady march towards an open society,
+      towards the end to arbitrariness and graft that Mr. Putin oversaw for 25 years
+      is now beginning to unravel. Napolitano: And I guess you’re attributing this to
+      the consequences of the war. Doctorow: Absolutely. And this is why — I don’t mean
+      to sound like a one-note orchestra — but this is why I’m saying that the war has
+      to end as quickly as possible, which is within the power of the Russian army,
+      if it wants to use its power, which up till now it doesn’t. What they’re doing,
+      and I think here’s where the FSB influence comes in, they are destroying the energy
+      infrastructure of Ukraine. They’re causing great misery to average Ukrainians,
+      but that will not end the war [sooner] by one day. The country will get electricity
+      supplies from Europe, as it now does partially. All they have to do is build more
+      high power lines from Europe. If Europe’s going to put up tens of billions of
+      dollars in arms, they certainly can afford to put up some energy high power lines.
+      Napolitano: 15:16 How decrepit is the– and I use that word intentionally because
+      of what I’m about to tell you, nothing new to you– the Ukrainian military? We
+      are in the West getting reports of conscription, which is horrific, training of
+      non-existent young men in their late teenage years and early twenties on the front
+      line who barely know how to pull the trigger on the weapon, terrified that just
+      a week ago they were at home with their parents. I mean, this can’t be any way
+      to run a military. We’re also getting reports from General, I only know his first
+      name, forgive me, Oleksandr, I forget his last name, the commander of the [Ukrainian]
+      troops, acknowledging to some of his, some Ukrainian parliamentarians that the
+      military is in a bad way. Doctorow: Of course it’s in a bad way when you lose
+      the vast numbers of people they have. However, let me just point out that in the
+      interviews with prisoners of war who surrendered, say around Pokrovsk in the last
+      couple of weeks– Napolitano: These are Ukrainian groups who surrendered to the
+      Russians. Doctorow: 16:37 Right. But mostly if you look at the faces, these are
+      people in their late 50s or 60s. These are not the 20-year-olds. The 20-year-olds
+      I see around here in Brussels bars, that’s where the young Ukrainians have gone
+      and where they want to stay. It is unfortunately a lot of overaged people who
+      are now in the military, aren’t good for very much actually, and not a one of
+      them spoke about how they were dragooned into the army. So it’s more complicated
+      than speaking about these excessive measures to forcibly put people in uniform.
+      And as to the experience of people in this part of the world, Eastern Europe and
+      Russia in particular, with preparation for military service, just go back and
+      look at what happened at the start of World War II and the Germans invading Russian
+      territory and the start of the siege. 17:32 Well, we have friends in Petersburg,
+      or had friends, because many of these have died already, who fought in the first
+      days defending Leningrad from the invading German troops. And boy, they had zero
+      training. They also could hardly know how to pull a trigger. So this isn’t an
+      exactly new development in that part of the world. Napolitano: What pressures
+      are there on President Putin? Or let me restate the question. Is this societal
+      change affecting his popularity and approval? Doctorow: I don’t think so. But
+      again, let’s not personalize this whole thing. When you look at Russian television
+      and the criticism of the way the war is being conducted, there is never a word
+      about the president. It’s only about the specifics of the way the war is being
+      conducted, not who has approved it; we all know who it was. So Mr. Putin is essentially
+      one step back from the front lines of answerability for the way the war is being
+      conducted. Napolitano: 18:44 Well does he receive pressure from either the military
+      or the FSB to get the war over with? Doctorow: I can’t say that. I don’t think,
+      but just looking at the dynamics here, I don’t think the FSB is under particular
+      pressure to get the war over with. The war is giving them more power. Napolitano:
+      So, just as there’s criticism of Secretary of State Marco Rubio that he does not
+      want the war to end because he belongs to the neocon camp that thinks the war
+      will bleed Russia dry and adversely affect President Putin’s presidency. You’re
+      suggesting that there are elements of the Russian government that do not want
+      the war to end, the military-industrial complex, certain elements in the military,
+      certain elements in the intelligence community, because they’re at the height
+      of their power. Doctorow: 19:41 This is rather normal. I don’t see any aberration
+      to this, but let’s just call facts as they are. There are reasons why certain
+      groups in government would find the war to be convenient. Napolitano: 19:57 Is
+      the war popular amongst average Russians? Are they cheering on the Russian military
+      or is it not in the Russian consciousness? Is it not something they talk about
+      every day? It’s just something happening in Ukraine. Or “I don’t like what the
+      war is doing to me now, and I wish Putin would end it.” Can you put your thumb
+      on the pulse of Russian thinking or is there no one standard way of thinking common
+      to the Russian people? Doctorow: 20:27 Well, there is one standard common to the
+      Russian people, and that is they want the war to end with Russian victory. That
+      is a hundred percent guaranteed. But once you get past that commonality, how is
+      Russian victory going to be assured? That’s where differences come up. Napolitano:
+      Got it. What do you think will happen? Do you think we’ll wake up one morning
+      and five Oreshniks will have leveled Kiev? Or do you think President Putin will
+      maintain slow, methodical, patient wearing down of the Ukrainian military? Doctorow:
+      21:03 I don’t think the latter is going to happen because the Ukrainian military
+      is not what’s behind this war. It is London, Paris, and Berlin that are behind
+      the war today. And they are not going away. They have not conceded defeat. They
+      are ready to put up particularly the frozen Russian assets, to keep the war going
+      while they rearm and prepare for direct conflict with Russia. Napolitano: Are
+      they going to send troops to Ukraine? Doctorow: They may. It is possible. It’s
+      unlikely, but it’s possible. Napolitano: Well if they don’t send troops and the
+      Ukrainian military is on its last legs, I mean what good is military equipment
+      if there are not human beings to operate it? Doctorow: I wouldn’t agree it’s on
+      its last legs. The front line, present front line is on its last legs. It is still
+      east of the Dnieper River. If the Russians in the next several months, and I don’t
+      say next several days, but in the next several months, push further and reach
+      to Dnieper. Well, that’s it. They’ve reached 40 percent of the Ukrainian territory.
+      What about the rest? The other 60 percent? They don’t want to move there because
+      it is Ukrainian Ukraine. They will be an army of occupation when they set foot
+      there. And that will be dangerous, expensive, and it will not bring them closer
+      to a normalization with the rest of the world. So that is not thinkable. The idea
+      that this war will end after Pokrovsk falls, I mean, I could be wrong. We’ve had
+      a lot of false predictions for the last three years, including my own. But it
+      seems to me improbable that there’ll be a collapse on the Ukrainian side after
+      Pokrovsk falls, which is a matter of days. Napolitano: 22:52 Got it. Dr. Doctorow,
+      thank you very much. A fascinating, fascinating series of observations, much of
+      it firsthand. And I thank you for your time. Thanks for accommodating my schedule.
+      We’ll look forward to seeing you again as always next week. Doctorow: It’s a pleasure.
+      Napolitano: You’re welcome. Coming up later today at 11 o’clock this morning,
+      Phil Giraldi; at 1:15 this afternoon from the Ron Paul Institute, my dear friend
+      Daniel McAdams; at two o’clock this afternoon. Aaron Mate; at three o’clock this
+      afternoon from St. Petersburg, Russia, Scott Ritter. 23:32 Judge Napolitano for
+      “Judging Freedom”.'
+    one_sentence_summary: In a discussion on the impact of the war on Russian life,
+      Dr. Gilbert Doctorow highlights the internal conflict within the Russian government
+      between progressive and repressive factions, particularly noting the negative
+      effects stemming from the FSB's actions.
+    paragraph_summary: In a recent discussion on "Judging Freedom," Judge Andrew Napolitano
+      interviewed Dr. Gilbert Doctorow about the impact of the ongoing war on everyday
+      life in Russia. Doctorow highlighted the internal conflict within the Russian
+      government, where the Ministry of Foreign Affairs leans towards progressive liberal
+      policies, while the FSB, the successor to the KGB, enforces repressive measures.
+      He noted that recent developments, such as the loss of voice functionality on
+      WhatsApp, have significantly affected communication for Russians, who previously
+      relied on the app for free international calls. This change reflects broader negative
+      trends in Russian society, driven by the FSB's increasing control.
+    published: '2025-11-13T15:44:27+00:00'
+  - title: '‘Judging Freedom’ edition of 12 November: The Russians and their War'
+    url: https://gilbertdoctorow.com/2025/11/12/judging-freedom-edition-of-12-november-the-russians-and-their-war/
+    text: I am pleased to inform the community that this interview heads off in new
+      directions which may be productive in understanding the contradictions in Russian
+      domestic and foreign policy under wartime conditions. I attempt here to depersonalize
+      the formulation and implementation of Russian policy, to remove Vladimir Vladimirovich
+      Putin for a moment and to identify the conflicts between key organizations in
+      his government, namely the Ministry of Foreign Affairs and the FSB, the successor
+      organization to the KGB. My point is that the Ministry of Foreign Affairs (MFA),
+      the diplomatic corps, stand for Russia’s ever greater integration into the world,
+      for an open society. One of the preoccupations of this ministry over the years
+      has been to reach agreement with ever more countries around the world for visa
+      free travel by Russian citizens. Just last week such an agreement was reached
+      with Saudi Arabia.  Today, in the midst of war, the MFA stands for reaching a
+      diplomatic solution to the war, a peace treaty, and normalization of relations
+      with Europe and the USA. Yesterday’s little speech by the new Russian ambassador
+      to the Kingdom of Belgium at the WWI memorial territory within the Ixelles Cemetery
+      (Brussels) on the occasion of Armistice Day conformed perfectly with that generalization
+      about what the MFA stands for. Meanwhile, the FSB is pulling in the opposite direction.
+      It is issuing directive after directive that aim to isolate Russians from the
+      world. That was the effect of the ban on voice functionality of WhatsApp, which
+      had been the most popular App used by Russians to communicate with the world cost
+      free. That is the effect of the newly introduced blockage on the SIM cards of
+      all Russians returning from abroad until they can restore service by some unspecified
+      verification of their service providers.  And, since the war enhances their powers
+      over the population as justified by national security reasons, however tenuous,
+      the FSB obviously is interested in the war’s going on forever. Enjoy the show!
+      ©Gilbert Doctorow, 2025
+    one_sentence_summary: The article discusses the internal conflicts within the Russian
+      government, particularly between the Ministry of Foreign Affairs, which advocates
+      for greater global integration and diplomatic solutions, and the FSB, highlighting
+      the complexities of Russian domestic and foreign policy during wartime.
+    paragraph_summary: The article discusses the contrasting roles of key Russian government
+      organizations, particularly the Ministry of Foreign Affairs (MFA) and the FSB,
+      in shaping the country's domestic and foreign policies during wartime. The MFA
+      advocates for greater global integration and diplomatic solutions, exemplified
+      by recent agreements for visa-free travel and calls for peace with Europe and
+      the USA, while the FSB promotes isolationist policies, such as restricting communication
+      tools like WhatsApp and imposing controls on returning citizens. This divergence
+      highlights the internal conflicts within the Russian government, as the MFA seeks
+      normalization and cooperation, whereas the FSB leverages the war to enhance its
+      authority and restrict citizens' connections to the outside world.
+    published: '2025-11-12T14:49:53+00:00'
+  - title: '‘Judging Freedom’ edition of 12 November: The Russians and their War'
+    url: https://gilbertdoctorow.com/2025/11/12/judging-freedom-edition-of-12-november-the-russians-and-their-war/
+    text: I am pleased to inform the community that this interview heads off in new
+      directions which may be productive in understanding the contradictions in Russian
+      domestic and foreign policy under wartime conditions. I attempt here to depersonalize
+      the formulation and implementation of Russian policy, to remove Vladimir Vladimirovich
+      Putin for a moment and to identify the conflicts between key organizations in
+      his government, namely the Ministry of Foreign Affairs and the FSB, the successor
+      organization to the KGB. My point is that the Ministry of Foreign Affairs (MFA),
+      the diplomatic corps, stand for Russia’s ever greater integration into the world,
+      for an open society. One of the preoccupations of this ministry over the years
+      has been to reach agreement with ever more countries around the world for visa
+      free travel by Russian citizens. Just last week such an agreement was reached
+      with Saudi Arabia.  Today, in the midst of war, the MFA stands for reaching a
+      diplomatic solution to the war, a peace treaty, and normalization of relations
+      with Europe and the USA. Yesterday’s little speech by the new Russian ambassador
+      to the Kingdom of Belgium at the WWI memorial territory within the Ixelles Cemetery
+      (Brussels) on the occasion of Armistice Day conformed perfectly with that generalization
+      about what the MFA stands for. Meanwhile, the FSB is pulling in the opposite direction.
+      It is issuing directive after directive that aim to isolate Russians from the
+      world. That was the effect of the ban on voice functionality of WhatsApp, which
+      had been the most popular App used by Russians to communicate with the world cost
+      free. That is the effect of the newly introduced blockage on the SIM cards of
+      all Russians returning from abroad until they can restore service by some unspecified
+      verification of their service providers.  And, since the war enhances their powers
+      over the population as justified by national security reasons, however tenuous,
+      the FSB obviously is interested in the war’s going on forever. Enjoy the show!
+      ©Gilbert Doctorow, 2025
+    one_sentence_summary: The article discusses the internal conflicts within the Russian
+      government, particularly between the Ministry of Foreign Affairs, which advocates
+      for greater global integration and diplomatic solutions, and the FSB, highlighting
+      the complexities of Russian domestic and foreign policy during wartime.
+    paragraph_summary: The article discusses the contrasting roles of key Russian government
+      organizations, particularly the Ministry of Foreign Affairs (MFA) and the FSB,
+      in shaping the country's domestic and foreign policies during wartime. The MFA
+      advocates for greater global integration and diplomatic solutions, exemplified
+      by recent agreements for visa-free travel and calls for peace with Europe and
+      the USA, while the FSB promotes isolationist policies, such as restricting communication
+      tools like WhatsApp and imposing controls on returning citizens. This divergence
+      highlights the internal conflicts within the Russian government, as the MFA seeks
+      normalization and cooperation, whereas the FSB leverages the war to enhance its
+      authority and restrict citizens' connections to the outside world.
+    published: '2025-11-12T14:49:53+00:00'
   - title: Transcript of conversation with Glenn Diesen, 8 November 2025
     url: https://gilbertdoctorow.com/2025/11/09/transcript-of-conversation-with-glenn-diesen-8-november-2025/
     text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=4kMxKQNjJEs

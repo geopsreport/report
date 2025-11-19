@@ -7,14 +7,475 @@ description: "Former CIA analyst & State Dept counterterrorism official; runs So
 websites:
   - https://sonar21.com
 summary: |
-  As tensions between the United States and Russia continue to escalate, recent public remarks and ongoing military realities further complicate the geopolitical landscape. The latest development comes from former U.S. Treasury Secretary **Scott Bessent**, who, in a pointed interview on Fox News, sharply criticized Kirill Dmitriev, CEO of Russia's Direct Investment Fund. Bessent dismissed Dmitriev’s minimization of U.S. sanctions’ effects, labeling him a "Russian propagandist" and insisting that the sanctions will inflict "immediate pain" on Russia’s economy. This exchange, as noted by **Larry C. Johnson**, underscores the widening gulf between Washington and Moscow, with rhetoric hardening on both sides and little sign of diplomatic thaw.
+  As the conflict in Ukraine continues into late November 2025, the situation on the ground has become increasingly dire for Ukrainian forces. According to **Larry C. Johnson**, Russian attacks persist across a broad front, inflicting heavy daily casualties and prompting a wave of desertions within the Ukrainian ranks. Johnson notes that the scale of losses now requires Ukraine to recruit "at least 1,000 new soldiers every day" just to maintain force levels—a pace he describes as unsustainable given current conditions.
   
-  Meanwhile, analysis of Russia’s military campaign in Ukraine continues to evolve. Western military observers, as summarized by **Larry C. Johnson**, have shifted from blaming Russian leadership or tactics for the slow pace of advances in 2023 and 2024, instead highlighting a critical manpower shortage. Russia’s initial troop deployments were insufficient to break through entrenched Ukrainian defenses, leading to a protracted conflict rather than a swift victory. This assessment aligns with a broader consensus that Russia’s strategy was shaped by resource constraints rather than operational incompetence.
+  This assessment builds on previous analyses highlighting Russian manpower constraints as a limiting factor in the pace of their advances. However, the current reporting underscores a shift: while Russia's progress was previously slowed by its own troop shortages, Ukraine's position is now deteriorating more rapidly due to attrition and morale issues. Johnson's latest article suggests that the Ukrainian military is approaching a breaking point, with its ability to replenish losses in question.
   
-  Looking ahead, the prevailing trend is toward further polarization and entrenchment. The U.S. and its allies are unlikely to ease sanctions or soften their stance, especially as public figures like Bessent amplify the narrative of Russian vulnerability. On the military front, unless Russia addresses its manpower limitations, significant territorial gains in Ukraine remain improbable in the near term.
+  On the political front, the ongoing corruption scandals within Ukraine's leadership remain a point of contention. Johnson has previously argued that Western narratives mislabel these issues as "money laundering" when, in his view, they are more accurately described as outright theft. This distinction, he contends, reflects a broader misunderstanding in Western discourse about the realities of governance and accountability in Kyiv.
   
-  Based on current trajectories, I guarantee that diplomatic relations between Washington and Moscow will remain strained, with high-profile public confrontations further reducing the likelihood of meaningful engagement. There is a high chance that the Ukraine conflict will continue at a slow, grinding pace, shaped by logistical and personnel constraints on both sides.
+  Looking at the broader geopolitical landscape, tensions between Washington and Moscow remain high. Recent remarks by former U.S. Treasury Secretary Scott Bessent, who accused Russian officials of downplaying the impact of U.S. sanctions, have further strained relations. Johnson reports that Bessent's public criticism on Fox News has widened the diplomatic rift, with little sign of rapprochement in the near term.
+  
+  **Trends and Predictions:**  
+  Based on the majority of recent analyses, there is a high degree of confidence that Ukraine's military situation will continue to deteriorate unless there is a dramatic change in external support or internal dynamics. As Johnson puts it, "Ukraine’s days are numbered" given the current trajectory. The diplomatic standoff between the U.S. and Russia is also expected to persist, with sanctions and public rhetoric fueling ongoing hostility. I guarantee that, barring unforeseen developments, the conflict will remain unresolved and the humanitarian situation in Ukraine will worsen in the coming weeks.
 articles:
+  - title: Ukraine’s Days are Numbered
+    url: https://sonar21.com/ukraines-days-are-numbered/
+    text: 'Like a bad Italian opera, the fat lady is singing from a balcony overlooking
+      a city that is ablaze. Zaporhyzhia, Dneipropetrovsk, Donetsk, Kherson, Kharkiv,
+      Sumy… The Russian ground forces are attacking in all of these locations, which
+      represents about 1,000 miles of territory stretching from Sumy in the north to
+      Zaporhyzhia in the south. Russia is inflicting an average of 1,335 casualties
+      a day on the Ukrainian forces, which translates into 456,695 losses in 2025 as
+      of November 17. That is almost 40,000 per month. Add to that an estimated 20,000
+      to 40,000 desertions each month… That means Ukraine must recruit a minimum of
+      60,000 new conscripts each month just to maintain its current troop strength.
+      That ain’t happening (see chart above). The recruitment figures cited by the Atlantic
+      Council and the Institute for the Study of War , which represent partisan pro-Ukrainian
+      sites, reinforce the dire state of the Ukrainian forces. When your very best friends
+      are telling you that you are 50% short, you know things are grim. Meanwhile, back
+      in Kiev, Zelensky ain’t home. He’s scampering about Europe pleading for more money,
+      but the Europeans are focused intently on the brewing corruption scandals haunting
+      the Z-man. There is not a lot of enthusiasm for sending billions of dollars more
+      to Ukraine as key officials in Zelensky’s government seek sanctuary in Israel
+      (i.e., you don’t get extradited from Israel if you’re Jewish, even if major criminal
+      charges hand over your head). There are rumors in Moscow that the diplomatic dance
+      with Washington is heating up, but I think that is just wishful thinking on the
+      part of some in Washington. Trump’s failure to deliver on peace, coupled with
+      his bombastic, threatening rhetoric towards Venezuela, Iran and Russia, is losing
+      him support and fracturing his MAGA base. Here are my recent sessions with Nima
+      and the Judge: I thank you for your invaluable support by taking time to read
+      or comment. I do not charge a subscription fee nor do I accept advertising. I
+      want the content to be accessible to everyone interested in the issues I am discussing.
+      However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article highlights the severe challenges facing Ukrainian
+      forces amid ongoing Russian attacks across a vast territory, with significant
+      daily casualties and desertions necessitating an unsustainable recruitment effort
+      to maintain troop strength.
+    paragraph_summary: The article paints a grim picture of the ongoing conflict in
+      Ukraine, detailing the extensive Russian military assaults across multiple regions,
+      resulting in significant daily casualties for Ukrainian forces. With an estimated
+      1,335 casualties per day, Ukraine faces a dire situation requiring the recruitment
+      of at least 60,000 new conscripts monthly to maintain troop strength, amidst high
+      desertion rates. Meanwhile, President Zelensky is reportedly seeking financial
+      support in Europe, but faces skepticism due to corruption scandals within his
+      government. The article also touches on the shifting political landscape in the
+      U.S., suggesting that Trump's aggressive foreign policy rhetoric is alienating
+      some of his support base. Overall, the situation appears increasingly precarious
+      for Ukraine, both on the battlefield and in terms of international support.
+    published: '2025-11-18T22:20:59+00:00'
+  - title: Ukraine’s Days are Numbered
+    url: https://sonar21.com/ukraines-days-are-numbered/
+    text: 'Like a bad Italian opera, the fat lady is singing from a balcony overlooking
+      a city that is ablaze. Zaporhyzhia, Dneipropetrovsk, Donetsk, Kherson, Kharkiv,
+      Sumy… The Russian ground forces are attacking in all of these locations, which
+      represents about 1,000 miles of territory stretching from Sumy in the north to
+      Zaporhyzhia in the south. Russia is inflicting an average of 1,335 casualties
+      a day on the Ukrainian forces, which translates into 456,695 losses in 2025 as
+      of November 17. That is almost 40,000 per month. Add to that an estimated 20,000
+      to 40,000 desertions each month… That means Ukraine must recruit a minimum of
+      60,000 new conscripts each month just to maintain its current troop strength.
+      That ain’t happening (see chart above). The recruitment figures cited by the Atlantic
+      Council and the Institute for the Study of War , which represent partisan pro-Ukrainian
+      sites, reinforce the dire state of the Ukrainian forces. When your very best friends
+      are telling you that you are 50% short, you know things are grim. Meanwhile, back
+      in Kiev, Zelensky ain’t home. He’s scampering about Europe pleading for more money,
+      but the Europeans are focused intently on the brewing corruption scandals haunting
+      the Z-man. There is not a lot of enthusiasm for sending billions of dollars more
+      to Ukraine as key officials in Zelensky’s government seek sanctuary in Israel
+      (i.e., you don’t get extradited from Israel if you’re Jewish, even if major criminal
+      charges hand over your head). There are rumors in Moscow that the diplomatic dance
+      with Washington is heating up, but I think that is just wishful thinking on the
+      part of some in Washington. Trump’s failure to deliver on peace, coupled with
+      his bombastic, threatening rhetoric towards Venezuela, Iran and Russia, is losing
+      him support and fracturing his MAGA base. Here are my recent sessions with Nima
+      and the Judge: I thank you for your invaluable support by taking time to read
+      or comment. I do not charge a subscription fee nor do I accept advertising. I
+      want the content to be accessible to everyone interested in the issues I am discussing.
+      However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article highlights the severe challenges facing Ukrainian
+      forces amid ongoing Russian attacks across a vast territory, with significant
+      daily casualties and desertions necessitating an unsustainable recruitment effort
+      to maintain troop strength.
+    paragraph_summary: The article paints a grim picture of the ongoing conflict in
+      Ukraine, detailing the extensive Russian military assaults across multiple regions,
+      resulting in significant daily casualties for Ukrainian forces. With an estimated
+      1,335 casualties per day, Ukraine faces a dire situation requiring the recruitment
+      of at least 60,000 new conscripts monthly to maintain troop strength, amidst high
+      desertion rates. Meanwhile, President Zelensky is reportedly seeking financial
+      support in Europe, but faces skepticism due to corruption scandals within his
+      government. The article also touches on the shifting political landscape in the
+      U.S., suggesting that Trump's aggressive foreign policy rhetoric is alienating
+      some of his support base. Overall, the situation appears increasingly precarious
+      for Ukraine, both on the battlefield and in terms of international support.
+    published: '2025-11-18T22:20:59+00:00'
+  - title: An Appearance in Moscow
+    url: https://sonar21.com/an-appearance-in-moscow/
+    text: 'I’m busier than I anticipated. I hope to have time later today to post an
+      article. In the meantime, I was interviewed by a Professor from Moscow State University.
+      We had a great discussion: https://disk.yandex.ru/i/8IazniXMHpWiVQ I thank you
+      for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: The author, currently busy, plans to post an article later
+      and shares a positive interview experience with a Moscow State University professor,
+      while expressing gratitude for reader support and emphasizing their commitment
+      to accessible content without fees or ads.
+    paragraph_summary: The author expresses that they are busier than expected but hopes
+      to post an article later in the day. They mention having a productive interview
+      with a professor from Moscow State University and provide a link to the discussion.
+      The author appreciates their readers' support and emphasizes their commitment
+      to keeping content free of charge and advertising to ensure accessibility for
+      all interested in the topics discussed. They also include a link for those who
+      wish to make a donation.
+    published: '2025-11-17T06:42:06+00:00'
+  - title: An Appearance in Moscow
+    url: https://sonar21.com/an-appearance-in-moscow/
+    text: 'I’m busier than I anticipated. I hope to have time later today to post an
+      article. In the meantime, I was interviewed by a Professor from Moscow State University.
+      We had a great discussion: https://disk.yandex.ru/i/8IazniXMHpWiVQ I thank you
+      for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: The author, currently busy, plans to post an article later
+      and shares a positive interview experience with a Moscow State University professor,
+      while expressing gratitude for reader support and emphasizing their commitment
+      to accessible content without fees or ads.
+    paragraph_summary: The author expresses that they are busier than expected but hopes
+      to post an article later in the day. They mention having a productive interview
+      with a professor from Moscow State University and provide a link to the discussion.
+      The author appreciates their readers' support and emphasizes their commitment
+      to keeping content free of charge and advertising to ensure accessibility for
+      all interested in the topics discussed. They also include a link for those who
+      wish to make a donation.
+    published: '2025-11-17T06:42:06+00:00'
+  - title: Donald Trump Losing His Mind Over Jeffrey Epstein
+    url: https://sonar21.com/donald-trump-losing-his-mind-over-jeffrey-epstein/
+    text: 'When the history of Donald Trump’s failed presidency is written, his coverup
+      of the Jeffrey Epstein affair will be seen as the coup de grace that divorced
+      Trump from the MAGA movement. Trump’s attack on Marjorie Taylor Greene (aka, MTG),
+      along with the barbs tossed at Senator Rand Paul Jr.  and Congressman Thomas Massie,
+      exposes him as a thin-skinned bully and a hypocrite. Trump is clearly panicked
+      about the release of the Jeffrey Epstein files… Just look at his social media
+      posts since November 12: The Democrats are trying to bring up the Jeffrey Epstein
+      Hoax again because they’ll do anything at all to deflect on how badly they’ve
+      done on the Shutdown, and so many other subjects. Only a very bad, or stupid,
+      Republican would fall into that trap. The Democrats cost our Country $1.5 Trillion
+      Dollars with their recent antics of viciously closing our Country, while at the
+      same time putting many at risk — and they should pay a fair price. There should
+      be no deflections to Epstein or anything else, and any Republicans involved should
+      be focused only on opening up our Country, and fixing the massive damage caused
+      by the Democrats! https://t.me/real_DonaldJTrump/18729 In other words, the Democrats
+      are using the Jeffrey Epstein Hoax to try and deflect from their massive failures,
+      in particular, their most recent one — THE SHUTDOWN! https://t.me/real_DonaldJTrump/18730
+      The Democrats are doing everything in their withering power to push the Epstein
+      Hoax again, despite the DOJ releasing 50,000 pages of documents, in order to deflect
+      from all of their bad policies and losses, especially the SHUTDOWN EMBARRASSMENT,
+      where their party is in total disarray, and has no idea what to do. Some Weak
+      Republicans have fallen into their clutches because they are soft and foolish.
+      Epstein was a Democrat, and he is the Democrat’s problem, not the Republican’s
+      problem! Ask Bill Clinton, Reid Hoffman, and Larry Summers about Epstein, they
+      know all about him, don’t waste your time with Trump. I have a Country to run!
+      https://t.me/real_DonaldJTrump/18732 Now that the Democrats are using the Epstein
+      Hoax, involving Democrats, not Republicans, to try and deflect from their disastrous
+      SHUTDOWN, and all of their other failures, I will be asking A.G. Pam Bondi, and
+      the Department of Justice, together with our great patriots at the FBI, to investigate
+      Jeffrey Epstein’s involvement and relationship with Bill Clinton, Larry Summers,
+      Reid Hoffman, J.P. Morgan, Chase, and many other people and institutions, to determine
+      what was going on with them, and him. This is another Russia, Russia, Russia Scam,
+      with all arrows pointing to the Democrats. Records show that these men, and many
+      others, spent large portions of their life with Epstein, and on his “Island.”
+      Stay tuned!!! https://t.me/real_DonaldJTrump/18733 Trump conveniently ignores
+      his own 15-year relationship with Epstein, which includes videos of the future
+      President whispering into the pedophile’s ear and yucking it up like a fraternity
+      brother at a frat party. Trump’s attempt to divert attention from his own relationship
+      with Epstein, while trying to blame Epstein on the Democrats, will fail. I believe
+      that Trump’s obfuscation on the Epstein material is motivated by his desire to
+      shield the CIA and the Israeli Mossad from scrutiny because of the role they played
+      in using Epstein as an asset for their own nefarious purposes. Trump’s attempt
+      to bury the Epstein affair as a Democrat hoax is simply an extension of his Israel
+      First policy, which is shredding the MAGA base. Hurling insults at MTG, who has
+      been a staunch supporter of Trump in the past, just adds fuel to the burning outrage
+      that is spreading among many MAGA supporters who feel betrayed by Trump. Trump’s
+      bombast is biting him in the ass… He is too proud and too narcissistic to admit
+      he is wrong and seek forgiveness. We do not know if Trump had a hand in Epstein’s
+      alleged suicide during Trump’s first term, but this much is certain… Epstein may
+      be dead, but he is reaching beyond the grave to assist in the demise of the Trump
+      presidency. Is it karma? I thank you for your invaluable support by taking time
+      to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article argues that Donald Trump's handling of the Jeffrey
+      Epstein affair will ultimately alienate him from the MAGA movement, highlighting
+      his recent attacks on fellow Republicans as signs of panic and hypocrisy in response
+      to the impending release of Epstein-related files.
+    paragraph_summary: The article discusses how Donald Trump's handling of the Jeffrey
+      Epstein affair may ultimately be viewed as a significant factor in his estrangement
+      from the MAGA movement. It highlights Trump's recent criticisms of figures like
+      Marjorie Taylor Greene, Rand Paul, and Thomas Massie, portraying him as a thin-skinned
+      bully and hypocrite. The piece suggests that Trump is anxious about the impending
+      release of Epstein-related documents, as evidenced by his social media posts,
+      where he accuses Democrats of using the Epstein issue to distract from their failures,
+      particularly regarding the government shutdown. Trump insists that the Epstein
+      controversy is a Democratic problem and urges Republicans to focus on addressing
+      what he perceives as the Democrats' mismanagement rather than getting entangled
+      in the Epstein narrative.
+    published: '2025-11-15T22:58:48+00:00'
+  - title: Donald Trump Losing His Mind Over Jeffrey Epstein
+    url: https://sonar21.com/donald-trump-losing-his-mind-over-jeffrey-epstein/
+    text: 'When the history of Donald Trump’s failed presidency is written, his coverup
+      of the Jeffrey Epstein affair will be seen as the coup de grace that divorced
+      Trump from the MAGA movement. Trump’s attack on Marjorie Taylor Greene (aka, MTG),
+      along with the barbs tossed at Senator Rand Paul Jr.  and Congressman Thomas Massie,
+      exposes him as a thin-skinned bully and a hypocrite. Trump is clearly panicked
+      about the release of the Jeffrey Epstein files… Just look at his social media
+      posts since November 12: The Democrats are trying to bring up the Jeffrey Epstein
+      Hoax again because they’ll do anything at all to deflect on how badly they’ve
+      done on the Shutdown, and so many other subjects. Only a very bad, or stupid,
+      Republican would fall into that trap. The Democrats cost our Country $1.5 Trillion
+      Dollars with their recent antics of viciously closing our Country, while at the
+      same time putting many at risk — and they should pay a fair price. There should
+      be no deflections to Epstein or anything else, and any Republicans involved should
+      be focused only on opening up our Country, and fixing the massive damage caused
+      by the Democrats! https://t.me/real_DonaldJTrump/18729 In other words, the Democrats
+      are using the Jeffrey Epstein Hoax to try and deflect from their massive failures,
+      in particular, their most recent one — THE SHUTDOWN! https://t.me/real_DonaldJTrump/18730
+      The Democrats are doing everything in their withering power to push the Epstein
+      Hoax again, despite the DOJ releasing 50,000 pages of documents, in order to deflect
+      from all of their bad policies and losses, especially the SHUTDOWN EMBARRASSMENT,
+      where their party is in total disarray, and has no idea what to do. Some Weak
+      Republicans have fallen into their clutches because they are soft and foolish.
+      Epstein was a Democrat, and he is the Democrat’s problem, not the Republican’s
+      problem! Ask Bill Clinton, Reid Hoffman, and Larry Summers about Epstein, they
+      know all about him, don’t waste your time with Trump. I have a Country to run!
+      https://t.me/real_DonaldJTrump/18732 Now that the Democrats are using the Epstein
+      Hoax, involving Democrats, not Republicans, to try and deflect from their disastrous
+      SHUTDOWN, and all of their other failures, I will be asking A.G. Pam Bondi, and
+      the Department of Justice, together with our great patriots at the FBI, to investigate
+      Jeffrey Epstein’s involvement and relationship with Bill Clinton, Larry Summers,
+      Reid Hoffman, J.P. Morgan, Chase, and many other people and institutions, to determine
+      what was going on with them, and him. This is another Russia, Russia, Russia Scam,
+      with all arrows pointing to the Democrats. Records show that these men, and many
+      others, spent large portions of their life with Epstein, and on his “Island.”
+      Stay tuned!!! https://t.me/real_DonaldJTrump/18733 Trump conveniently ignores
+      his own 15-year relationship with Epstein, which includes videos of the future
+      President whispering into the pedophile’s ear and yucking it up like a fraternity
+      brother at a frat party. Trump’s attempt to divert attention from his own relationship
+      with Epstein, while trying to blame Epstein on the Democrats, will fail. I believe
+      that Trump’s obfuscation on the Epstein material is motivated by his desire to
+      shield the CIA and the Israeli Mossad from scrutiny because of the role they played
+      in using Epstein as an asset for their own nefarious purposes. Trump’s attempt
+      to bury the Epstein affair as a Democrat hoax is simply an extension of his Israel
+      First policy, which is shredding the MAGA base. Hurling insults at MTG, who has
+      been a staunch supporter of Trump in the past, just adds fuel to the burning outrage
+      that is spreading among many MAGA supporters who feel betrayed by Trump. Trump’s
+      bombast is biting him in the ass… He is too proud and too narcissistic to admit
+      he is wrong and seek forgiveness. We do not know if Trump had a hand in Epstein’s
+      alleged suicide during Trump’s first term, but this much is certain… Epstein may
+      be dead, but he is reaching beyond the grave to assist in the demise of the Trump
+      presidency. Is it karma? I thank you for your invaluable support by taking time
+      to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article argues that Donald Trump's handling of the Jeffrey
+      Epstein affair will ultimately alienate him from the MAGA movement, highlighting
+      his recent attacks on fellow Republicans as signs of panic and hypocrisy in response
+      to the impending release of Epstein-related files.
+    paragraph_summary: The article discusses how Donald Trump's handling of the Jeffrey
+      Epstein affair may ultimately be viewed as a significant factor in his estrangement
+      from the MAGA movement. It highlights Trump's recent criticisms of figures like
+      Marjorie Taylor Greene, Rand Paul, and Thomas Massie, portraying him as a thin-skinned
+      bully and hypocrite. The piece suggests that Trump is anxious about the impending
+      release of Epstein-related documents, as evidenced by his social media posts,
+      where he accuses Democrats of using the Epstein issue to distract from their failures,
+      particularly regarding the government shutdown. Trump insists that the Epstein
+      controversy is a Democratic problem and urges Republicans to focus on addressing
+      what he perceives as the Democrats' mismanagement rather than getting entangled
+      in the Epstein narrative.
+    published: '2025-11-15T22:58:48+00:00'
+  - title: It Ain’t Money Laundering, It is Theft
+    url: https://sonar21.com/it-aint-money-laundering-it-is-theft/
+    text: 'Volodymyr-Zelenskyy A brief note before I board my next flight… The fact
+      that reports are now circulating in the West about the corrupt activities of the
+      Ukrainian government is, in my opinion, another indicator that this demonic party
+      in Ukraine is wrapping up. Thanks to Hollywood, the average American uses the
+      term, money laundering , incorrectly. Most of the time that term is mentioned,
+      people are actually describing some kind of theft. The foundation of money laundering
+      is that the money in question is generated by a criminal act — e.g., theft, sex
+      trafficking, drug trafficking, etc. Money laundering are the steps taken after
+      the criminal act to hide the source of the illegal proceeds. I am belaboring this
+      point because much of what is being written about the criminal theft being carried
+      out by Volodymyr Zelensky and his crew is being described as money laundering.
+      No… It is theft. Submitting invoices for ammunition or a weapon system that is
+      marked up a 1000% is not money laundering. It is fraud. Sharing the proceeds of
+      that graft is not money laundering… It is a conspiracy to defraud the US government.
+      Recent reports that a couple of members of Zelensky’s inner crowd have absconded
+      with $100 million is attracting media attention, and the term money laundering
+      is being tossed about, but this is chicken feed. The Criminal Investigative Service
+      within the Pentagon is currently investigating whistleblower allegations that
+      Zelensky and his crew have stolen/diverted $48 billion dollars in US aid. If Zelensky
+      purchases a villa in Italy with that stolen money, that is not money laundering.
+      If one of his cronies, using the stolen money, purchased a villa with the stolen
+      money, gifted the villa to Zelensky, and then Zelensky sold the villa and used
+      the money to buy other property, that would be money laundering. In the case of
+      Zelensky, the US aid reportedly has been diverted to back accounts in the Baltic
+      states and then is being moved to other accounts in places such as the Cayman
+      Islands. From there the money is moved to personal accounts or front companies
+      or into the offshore accounts of members of the US Congress… This includes Senators
+      and Members of the House of Representatives. I had a chance to discuss this on
+      Thursday with Danny Davis before I headed for the airport: I thank you for your
+      invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: The article argues that recent reports of corruption within
+      the Ukrainian government, particularly regarding Volodymyr Zelensky, are mischaracterized
+      as money laundering when they are actually instances of theft, highlighting a
+      misunderstanding of the term in popular discourse.
+    paragraph_summary: The article discusses allegations of corruption within the Ukrainian
+      government under President Volodymyr Zelensky, arguing that recent reports of
+      financial misconduct should be characterized as theft rather than money laundering.
+      It emphasizes that the term "money laundering" is often misused, as it specifically
+      involves concealing the origins of illegally obtained money, whereas the actions
+      attributed to Zelensky and his associates—such as inflating invoices for military
+      supplies—constitute fraud and conspiracy to defraud the U.S. government. The article
+      highlights ongoing investigations into claims that Zelensky's administration has
+      misappropriated $48 billion in U.S. aid, suggesting that the mischaracterization
+      of these actions as money laundering detracts from the seriousness of the alleged
+      crimes.
+    published: '2025-11-14T15:47:46+00:00'
+  - title: It Ain’t Money Laundering, It is Theft
+    url: https://sonar21.com/it-aint-money-laundering-it-is-theft/
+    text: 'Volodymyr-Zelenskyy A brief note before I board my next flight… The fact
+      that reports are now circulating in the West about the corrupt activities of the
+      Ukrainian government is, in my opinion, another indicator that this demonic party
+      in Ukraine is wrapping up. Thanks to Hollywood, the average American uses the
+      term, money laundering , incorrectly. Most of the time that term is mentioned,
+      people are actually describing some kind of theft. The foundation of money laundering
+      is that the money in question is generated by a criminal act — e.g., theft, sex
+      trafficking, drug trafficking, etc. Money laundering are the steps taken after
+      the criminal act to hide the source of the illegal proceeds. I am belaboring this
+      point because much of what is being written about the criminal theft being carried
+      out by Volodymyr Zelensky and his crew is being described as money laundering.
+      No… It is theft. Submitting invoices for ammunition or a weapon system that is
+      marked up a 1000% is not money laundering. It is fraud. Sharing the proceeds of
+      that graft is not money laundering… It is a conspiracy to defraud the US government.
+      Recent reports that a couple of members of Zelensky’s inner crowd have absconded
+      with $100 million is attracting media attention, and the term money laundering
+      is being tossed about, but this is chicken feed. The Criminal Investigative Service
+      within the Pentagon is currently investigating whistleblower allegations that
+      Zelensky and his crew have stolen/diverted $48 billion dollars in US aid. If Zelensky
+      purchases a villa in Italy with that stolen money, that is not money laundering.
+      If one of his cronies, using the stolen money, purchased a villa with the stolen
+      money, gifted the villa to Zelensky, and then Zelensky sold the villa and used
+      the money to buy other property, that would be money laundering. In the case of
+      Zelensky, the US aid reportedly has been diverted to back accounts in the Baltic
+      states and then is being moved to other accounts in places such as the Cayman
+      Islands. From there the money is moved to personal accounts or front companies
+      or into the offshore accounts of members of the US Congress… This includes Senators
+      and Members of the House of Representatives. I had a chance to discuss this on
+      Thursday with Danny Davis before I headed for the airport: I thank you for your
+      invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: The article argues that recent reports of corruption within
+      the Ukrainian government, particularly regarding Volodymyr Zelensky, are mischaracterized
+      as money laundering when they are actually instances of theft, highlighting a
+      misunderstanding of the term in popular discourse.
+    paragraph_summary: The article discusses allegations of corruption within the Ukrainian
+      government under President Volodymyr Zelensky, arguing that recent reports of
+      financial misconduct should be characterized as theft rather than money laundering.
+      It emphasizes that the term "money laundering" is often misused, as it specifically
+      involves concealing the origins of illegally obtained money, whereas the actions
+      attributed to Zelensky and his associates—such as inflating invoices for military
+      supplies—constitute fraud and conspiracy to defraud the U.S. government. The article
+      highlights ongoing investigations into claims that Zelensky's administration has
+      misappropriated $48 billion in U.S. aid, suggesting that the mischaracterization
+      of these actions as money laundering detracts from the seriousness of the alleged
+      crimes.
+    published: '2025-11-14T15:47:46+00:00'
+  - title: A Profound Analysis of Trump’s Failing Presidency by Robert Barnes… Stas
+      Agrees that Russian Manpower Issues Have Determined the Russian Pace of Advance
+    url: https://sonar21.com/a-profound-analysis-of-trumps-failing-presidency-by-robert-barnes-stas-agrees-that-russian-manpower-issues-have-determined-the-russian-pace-of-advance/
+    text: 'Trump1d This will be a brief article, but you will have to do some work by
+      watching the videos. For starters, Robert Barnes appeared on The Duran on Monday
+      and provided an incredibly brilliant analysis of the causes behind the collapse
+      of Donald Trump’s presidency. According to Barnes, Trump is a captive of the Zionist
+      lobby and is betraying the MAGA base by sucking up to corporate interests. I know
+      that is no surprise to many of you, but Barnes’ explanation puts some important
+      meat on those bones. He is particularly scathing of Chief of Staff Susie Wiles
+      and Treasury Secretary Scott Bessent: Stanislav aka Stas interviewed me on Monday
+      and we discussed my belief that the slow pace of Russia’s advances in Ukraine
+      in 2023 and 2024 was a consequence of the shortage of trained troops the Russian
+      General Staff could deploy to the front… Stas agreed. I am hammering that point
+      because it explains the dramatic acceleration in Russia’s advances all along the
+      line of contact… Russia currently is carrying out nine separate offensive operations
+      and the Ukrainian forces are starting to collapse. The fact that Russia now has
+      more than 700,000 combat soldiers on the frontlines is a critical variable that
+      has made this possible: I thank you for your invaluable support by taking time
+      to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: Robert Barnes, in a recent appearance on The Duran, analyzed
+      the collapse of Donald Trump's presidency, attributing it to his allegiance to
+      the Zionist lobby and corporate interests, which he argues betrays the MAGA base,
+      while also discussing the implications of Russia's troop shortages on its military
+      advances in Ukraine.
+    paragraph_summary: In a recent appearance on The Duran, attorney Robert Barnes provided
+      a critical analysis of the factors contributing to the decline of Donald Trump's
+      presidency, arguing that Trump has become beholden to the Zionist lobby and is
+      alienating his MAGA base by prioritizing corporate interests. Barnes specifically
+      criticized Chief of Staff Susie Wiles and Treasury Secretary Scott Bessent for
+      their roles in this dynamic. Additionally, he discussed the implications of Russia's
+      military strategies in Ukraine, noting that the slow progress in 2023 and 2024
+      was due to a shortage of trained troops, which has now shifted as Russia has mobilized
+      over 700,000 combat soldiers, leading to a significant increase in their offensive
+      operations and the weakening of Ukrainian forces. The article emphasizes the importance
+      of accessible discourse on these topics, encouraging reader engagement without
+      subscription fees or advertising.
+    published: '2025-11-13T05:16:41+00:00'
+  - title: A Profound Analysis of Trump’s Failing Presidency by Robert Barnes… Stas
+      Agrees that Russian Manpower Issues Have Determined the Russian Pace of Advance
+    url: https://sonar21.com/a-profound-analysis-of-trumps-failing-presidency-by-robert-barnes-stas-agrees-that-russian-manpower-issues-have-determined-the-russian-pace-of-advance/
+    text: 'Trump1d This will be a brief article, but you will have to do some work by
+      watching the videos. For starters, Robert Barnes appeared on The Duran on Monday
+      and provided an incredibly brilliant analysis of the causes behind the collapse
+      of Donald Trump’s presidency. According to Barnes, Trump is a captive of the Zionist
+      lobby and is betraying the MAGA base by sucking up to corporate interests. I know
+      that is no surprise to many of you, but Barnes’ explanation puts some important
+      meat on those bones. He is particularly scathing of Chief of Staff Susie Wiles
+      and Treasury Secretary Scott Bessent: Stanislav aka Stas interviewed me on Monday
+      and we discussed my belief that the slow pace of Russia’s advances in Ukraine
+      in 2023 and 2024 was a consequence of the shortage of trained troops the Russian
+      General Staff could deploy to the front… Stas agreed. I am hammering that point
+      because it explains the dramatic acceleration in Russia’s advances all along the
+      line of contact… Russia currently is carrying out nine separate offensive operations
+      and the Ukrainian forces are starting to collapse. The fact that Russia now has
+      more than 700,000 combat soldiers on the frontlines is a critical variable that
+      has made this possible: I thank you for your invaluable support by taking time
+      to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: Robert Barnes, in a recent appearance on The Duran, analyzed
+      the collapse of Donald Trump's presidency, attributing it to his allegiance to
+      the Zionist lobby and corporate interests, which he argues betrays the MAGA base,
+      while also discussing the implications of Russia's troop shortages on its military
+      advances in Ukraine.
+    paragraph_summary: In a recent appearance on The Duran, attorney Robert Barnes provided
+      a critical analysis of the factors contributing to the decline of Donald Trump's
+      presidency, arguing that Trump has become beholden to the Zionist lobby and is
+      alienating his MAGA base by prioritizing corporate interests. Barnes specifically
+      criticized Chief of Staff Susie Wiles and Treasury Secretary Scott Bessent for
+      their roles in this dynamic. Additionally, he discussed the implications of Russia's
+      military strategies in Ukraine, noting that the slow progress in 2023 and 2024
+      was due to a shortage of trained troops, which has now shifted as Russia has mobilized
+      over 700,000 combat soldiers, leading to a significant increase in their offensive
+      operations and the weakening of Ukrainian forces. The article emphasizes the importance
+      of accessible discourse on these topics, encouraging reader engagement without
+      subscription fees or advertising.
+    published: '2025-11-13T05:16:41+00:00'
   - title: Scott Bessent’s Damaging Remarks Puts More Distance between Washington and
       Moscow
     url: https://sonar21.com/scott-bessents-damaging-remarks-puts-more-distance-between-washington-and-moscow/
