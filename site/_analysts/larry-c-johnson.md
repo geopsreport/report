@@ -7,17 +7,1900 @@ description: "Former CIA analyst & State Dept counterterrorism official; runs So
 websites:
   - https://sonar21.com
 summary: |
-  As the conflict in Ukraine continues into late November 2025, the situation on the ground has become increasingly dire for Ukrainian forces. According to **Larry C. Johnson**, Russian attacks persist across a broad front, inflicting heavy daily casualties and prompting a wave of desertions within the Ukrainian ranks. Johnson notes that the scale of losses now requires Ukraine to recruit "at least 1,000 new soldiers every day" just to maintain force levels—a pace he describes as unsustainable given current conditions.
+  The ongoing Ukraine conflict remains at the center of diplomatic maneuvering, with the latest developments highlighting persistent divisions among Western stakeholders and skepticism from Russia. Over the past 48 hours, negotiations involving the US, Ukraine, and European partners have reportedly reached consensus on 19 out of 28 points in a proposed framework to be presented to Russia. However, **Larry C. Johnson** notes that “confusion over the plan’s authorship and its substantive effectiveness has led to skepticism about its viability,” with European actors in particular casting doubt on the framework’s prospects.
   
-  This assessment builds on previous analyses highlighting Russian manpower constraints as a limiting factor in the pace of their advances. However, the current reporting underscores a shift: while Russia's progress was previously slowed by its own troop shortages, Ukraine's position is now deteriorating more rapidly due to attrition and morale issues. Johnson's latest article suggests that the Ukrainian military is approaching a breaking point, with its ability to replenish losses in question.
+  This skepticism is rooted in historical precedent. As **Johnson** reminds readers, the Minsk agreements of 2014-2015 were ultimately revealed by German and French leaders to be a strategy to buy time for Ukraine to strengthen its military, rather than a genuine effort to end hostilities. This legacy has left Moscow wary of Western-brokered proposals, and Johnson asserts that Russia “will not make the same mistake it did with Minsk II.” The Russian side remains confident in its military position and is unlikely to accept any deal perceived as a repeat of past deceptions.
   
-  On the political front, the ongoing corruption scandals within Ukraine's leadership remain a point of contention. Johnson has previously argued that Western narratives mislabel these issues as "money laundering" when, in his view, they are more accurately described as outright theft. This distinction, he contends, reflects a broader misunderstanding in Western discourse about the realities of governance and accountability in Kyiv.
+  Meanwhile, the broader geopolitical context is shifting. The resilience and influence of BRICS continues to grow, with the organization increasingly seen as a counterweight to Western economic and political dominance. **Johnson** highlights how Western media have been dismissive of BRICS, but the bloc’s expanding role is “shifting the global economic and geopolitical balance towards the Global South.”
   
-  Looking at the broader geopolitical landscape, tensions between Washington and Moscow remain high. Recent remarks by former U.S. Treasury Secretary Scott Bessent, who accused Russian officials of downplaying the impact of U.S. sanctions, have further strained relations. Johnson reports that Bessent's public criticism on Fox News has widened the diplomatic rift, with little sign of rapprochement in the near term.
-  
-  **Trends and Predictions:**  
-  Based on the majority of recent analyses, there is a high degree of confidence that Ukraine's military situation will continue to deteriorate unless there is a dramatic change in external support or internal dynamics. As Johnson puts it, "Ukraine’s days are numbered" given the current trajectory. The diplomatic standoff between the U.S. and Russia is also expected to persist, with sanctions and public rhetoric fueling ongoing hostility. I guarantee that, barring unforeseen developments, the conflict will remain unresolved and the humanitarian situation in Ukraine will worsen in the coming weeks.
+  Looking ahead, the majority view across sources is that the current US/European peace initiative for Ukraine is unlikely to succeed in its present form. There is high confidence that Russia will reject any proposal reminiscent of the Minsk framework, and that the conflict will persist absent a fundamentally new approach. As for the global order, the rise of BRICS is quite likely to continue, further complicating Western efforts to isolate Russia and shape outcomes in Ukraine.
 articles:
+  - title: Trump Administration is Letting Europe Kill Its Proposed Russia/Ukrainian
+      Peace Plan
+    url: https://sonar21.com/trump-administration-is-killing-its-proposed-russia-ukrainian-peace-plan/
+    text: 'Negotiations between the US, Ukraine and Europe over the 28-point proposed
+      framework reportedly has produced agreement on 19-points, which will be presented
+      at sometime in the near future to the Russians. However, despite a ton of positive
+      spin coming out of Geneva (where the talks were held) the actual substance of
+      the supposed agreement is a dumpster fire . The first point of confusion is the
+      authorship of the 28-point plan. The Washington Post reported on Monday that:
+      Rubio “made it very clear to us that we are the recipients of a proposal that
+      was delivered to one of our representatives,” Sen. Mike Rounds (R-South Dakota)
+      said during the Halifax International Security Forum. “It is not our recommendation.
+      It is not our peace plan.” Rubio denied the senators’ statements hours later,
+      writing on X: “The peace proposal was authored by the U.S. It is offered as a
+      strong framework for ongoing negotiations.” State Department spokesman Tommy Pigott
+      called the senators’ comments “blatantly false.” In separate statements, Pigott
+      and the White House said the plan “was authored by the United States, with input
+      from both the Russians and Ukrainians.” Here is one problem: the “Russian input”
+      did not come from any Russian official… It was reportedly provided by Kiril Dimitriev,
+      who is an informal advisor to Vladimir Putin but holds no weight within the Russian
+      Foreign Ministry nor in the Russian National Security Council. Moreover, as I
+      reported in my previous analysis of the 28-point document, there is very little
+      in that purported peace plan that actually reflects Russia’s stated positions
+      on a variety of issues. Yuri Ushakov, a top aide to Russian President Vladimir
+      Putin and the Kremlin’s foreign policy advisor, commented on the proposed US peace
+      plan for Ukraine during an interview today (Monday, 24 November) with the state
+      news agency TASS. Ushakov, who coordinates Russia’s international relations and
+      has been involved in key diplomatic efforts (including the 2022 Istanbul talks),
+      described the plan as partially aligned with Moscow’s interests, but emphasized
+      that no formal negotiations have occurred. So far, the only document that Russia
+      has reviewed was the one presented at the meeting in August at the Anchorage,
+      Alaska meeting between Trump and Putin. According to Ushakov, Russia is familiar
+      with an original version of the US peace plan (stemming from the August 2025 Alaska
+      summit between Putin and President Trump), but “no specific negotiations” have
+      taken place on it. He noted multiple versions are now circulating, but his comments
+      focused on the one reviewed by the Kremlin. Ushakov added that the Kremlin views
+      the EU’s alternative peace framework as “completely unconstructive” and unsuitable,
+      as it fails to meet Russia’s core interests, such as weakening NATO’s posture
+      in Eastern Europe. Donald Trump is too weak politically to secure a deal that
+      will be acceptable to Russia without igniting a firestorm among Republican and
+      Democrat legislators, not to mention the strong opposition from the Europeans
+      and Ukrainian officials. Here’s just a sample of the pushback : U.S. lawmakers
+      worried the initial proposal would further destabilize global security by rewarding
+      Russia after its 2022 invasion of Ukraine — raising questions over why Trump needs
+      the deal signed so urgently, even if it comes at the expense of American and Ukrainian
+      interests. “Some people better get fired on Monday for the gross buffoonery we
+      just witnessed over the last four days,” Rep. Don Bacon (R-Nebraska) posted on
+      X on Saturday. “This hurt our country and undermined our alliances, and encouraged
+      our adversaries.”. . . Sen. Mitch McConnell (R-Kentucky), the former majority
+      leader, on Sunday cautioned against the Trump administration “pressuring the victim
+      and appeasing the aggressor” as a way to bring about peace. He questioned “which
+      difficult concessions” the U.S. had asked of Russia. “Allies and adversaries are
+      watching: Will America hold firm against aggression or will we reward it?” McConnell
+      wrote on X. Sen. Mark R. Warner (D-Virginia) sharply criticized the early plan,
+      telling ABC on Sunday morning that “Neville Chamberlain’s giving in to Hitler
+      [before] World War II looks strong in comparison” and that the plan resembles
+      a set of “Russian talking points.” An overwhelming majority Washington politicians
+      and European leaders are still in denial about the dire situation confronting
+      Ukraine… They genuinely believe that Russia is under great pressure from a supposedly
+      failing economy and staggering losses on the battlefield. Both are lies. Russia
+      is wasting no time in continuing to attack and destroy Ukrainian fortifications
+      and electrical infrastructure all along the line of contact. Putin, along with
+      Kremlin spokesman Peskov and Ushakov, continue to feign interest in a diplomatic
+      solution, but understand that Trump will fail to produce a proposed deal that
+      Russia would find acceptable. If Ukraine was winning on the battlefield and Russia
+      was failing economically and militarily, we would not be seeing the panicked effort
+      by the US and Europe to secure an agreement with Moscow that would end the fighting…
+      Hell, the West, along with Zelensky, would be popping champagne corks and celebrating.
+      Once Rubia comes up with a proposal that satisfies Ukraine and placates Europe,
+      it will be presented to Putin’s Foreign Ministry, who will make all of the appropriate
+      diplomatic gestures, carefully read the document, and then politely reject it
+      or call for a meeting between Trump and Putin. All of this will take time, and
+      Russia is in no hurry to secure an agreement because of its accelerating success
+      on the battlefield. This is one of the messages I communicated to Nima and Judge
+      Napolitano during our regularly scheduled Monday chats: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: Negotiations among the US, Ukraine, and Europe have reached
+      agreement on 19 out of 28 points in a proposed framework to be presented to Russia,
+      but confusion over the plan's authorship and its substantive effectiveness has
+      led to skepticism about its viability.
+    paragraph_summary: Negotiations involving the US, Ukraine, and Europe have reportedly
+      reached an agreement on 19 out of 28 points in a proposed framework intended for
+      presentation to Russia, but the substance of the agreement has been criticized
+      as inadequate. Confusion surrounds the authorship of the plan, with conflicting
+      statements from US senators and officials regarding whether it originated from
+      the US or was merely a proposal received from another party. While the US State
+      Department insists the plan was authored by the US with input from both Russians
+      and Ukrainians, the Russian input came from an informal advisor to Putin rather
+      than official channels, raising doubts about its alignment with Russia's actual
+      positions. A senior Russian official has also expressed skepticism about the proposal's
+      viability, further complicating the diplomatic landscape.
+    published: '2025-11-25T04:25:28+00:00'
+  - title: Trump Administration is Letting Europe Kill Its Proposed Russia/Ukrainian
+      Peace Plan
+    url: https://sonar21.com/trump-administration-is-killing-its-proposed-russia-ukrainian-peace-plan/
+    text: 'Negotiations between the US, Ukraine and Europe over the 28-point proposed
+      framework reportedly has produced agreement on 19-points, which will be presented
+      at sometime in the near future to the Russians. However, despite a ton of positive
+      spin coming out of Geneva (where the talks were held) the actual substance of
+      the supposed agreement is a dumpster fire . The first point of confusion is the
+      authorship of the 28-point plan. The Washington Post reported on Monday that:
+      Rubio “made it very clear to us that we are the recipients of a proposal that
+      was delivered to one of our representatives,” Sen. Mike Rounds (R-South Dakota)
+      said during the Halifax International Security Forum. “It is not our recommendation.
+      It is not our peace plan.” Rubio denied the senators’ statements hours later,
+      writing on X: “The peace proposal was authored by the U.S. It is offered as a
+      strong framework for ongoing negotiations.” State Department spokesman Tommy Pigott
+      called the senators’ comments “blatantly false.” In separate statements, Pigott
+      and the White House said the plan “was authored by the United States, with input
+      from both the Russians and Ukrainians.” Here is one problem: the “Russian input”
+      did not come from any Russian official… It was reportedly provided by Kiril Dimitriev,
+      who is an informal advisor to Vladimir Putin but holds no weight within the Russian
+      Foreign Ministry nor in the Russian National Security Council. Moreover, as I
+      reported in my previous analysis of the 28-point document, there is very little
+      in that purported peace plan that actually reflects Russia’s stated positions
+      on a variety of issues. Yuri Ushakov, a top aide to Russian President Vladimir
+      Putin and the Kremlin’s foreign policy advisor, commented on the proposed US peace
+      plan for Ukraine during an interview today (Monday, 24 November) with the state
+      news agency TASS. Ushakov, who coordinates Russia’s international relations and
+      has been involved in key diplomatic efforts (including the 2022 Istanbul talks),
+      described the plan as partially aligned with Moscow’s interests, but emphasized
+      that no formal negotiations have occurred. So far, the only document that Russia
+      has reviewed was the one presented at the meeting in August at the Anchorage,
+      Alaska meeting between Trump and Putin. According to Ushakov, Russia is familiar
+      with an original version of the US peace plan (stemming from the August 2025 Alaska
+      summit between Putin and President Trump), but “no specific negotiations” have
+      taken place on it. He noted multiple versions are now circulating, but his comments
+      focused on the one reviewed by the Kremlin. Ushakov added that the Kremlin views
+      the EU’s alternative peace framework as “completely unconstructive” and unsuitable,
+      as it fails to meet Russia’s core interests, such as weakening NATO’s posture
+      in Eastern Europe. Donald Trump is too weak politically to secure a deal that
+      will be acceptable to Russia without igniting a firestorm among Republican and
+      Democrat legislators, not to mention the strong opposition from the Europeans
+      and Ukrainian officials. Here’s just a sample of the pushback : U.S. lawmakers
+      worried the initial proposal would further destabilize global security by rewarding
+      Russia after its 2022 invasion of Ukraine — raising questions over why Trump needs
+      the deal signed so urgently, even if it comes at the expense of American and Ukrainian
+      interests. “Some people better get fired on Monday for the gross buffoonery we
+      just witnessed over the last four days,” Rep. Don Bacon (R-Nebraska) posted on
+      X on Saturday. “This hurt our country and undermined our alliances, and encouraged
+      our adversaries.”. . . Sen. Mitch McConnell (R-Kentucky), the former majority
+      leader, on Sunday cautioned against the Trump administration “pressuring the victim
+      and appeasing the aggressor” as a way to bring about peace. He questioned “which
+      difficult concessions” the U.S. had asked of Russia. “Allies and adversaries are
+      watching: Will America hold firm against aggression or will we reward it?” McConnell
+      wrote on X. Sen. Mark R. Warner (D-Virginia) sharply criticized the early plan,
+      telling ABC on Sunday morning that “Neville Chamberlain’s giving in to Hitler
+      [before] World War II looks strong in comparison” and that the plan resembles
+      a set of “Russian talking points.” An overwhelming majority Washington politicians
+      and European leaders are still in denial about the dire situation confronting
+      Ukraine… They genuinely believe that Russia is under great pressure from a supposedly
+      failing economy and staggering losses on the battlefield. Both are lies. Russia
+      is wasting no time in continuing to attack and destroy Ukrainian fortifications
+      and electrical infrastructure all along the line of contact. Putin, along with
+      Kremlin spokesman Peskov and Ushakov, continue to feign interest in a diplomatic
+      solution, but understand that Trump will fail to produce a proposed deal that
+      Russia would find acceptable. If Ukraine was winning on the battlefield and Russia
+      was failing economically and militarily, we would not be seeing the panicked effort
+      by the US and Europe to secure an agreement with Moscow that would end the fighting…
+      Hell, the West, along with Zelensky, would be popping champagne corks and celebrating.
+      Once Rubia comes up with a proposal that satisfies Ukraine and placates Europe,
+      it will be presented to Putin’s Foreign Ministry, who will make all of the appropriate
+      diplomatic gestures, carefully read the document, and then politely reject it
+      or call for a meeting between Trump and Putin. All of this will take time, and
+      Russia is in no hurry to secure an agreement because of its accelerating success
+      on the battlefield. This is one of the messages I communicated to Nima and Judge
+      Napolitano during our regularly scheduled Monday chats: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: Negotiations among the US, Ukraine, and Europe have reached
+      agreement on 19 out of 28 points in a proposed framework to be presented to Russia,
+      but confusion over the plan's authorship and its substantive effectiveness has
+      led to skepticism about its viability.
+    paragraph_summary: Negotiations involving the US, Ukraine, and Europe have reportedly
+      reached an agreement on 19 out of 28 points in a proposed framework intended for
+      presentation to Russia, but the substance of the agreement has been criticized
+      as inadequate. Confusion surrounds the authorship of the plan, with conflicting
+      statements from US senators and officials regarding whether it originated from
+      the US or was merely a proposal received from another party. While the US State
+      Department insists the plan was authored by the US with input from both Russians
+      and Ukrainians, the Russian input came from an informal advisor to Putin rather
+      than official channels, raising doubts about its alignment with Russia's actual
+      positions. A senior Russian official has also expressed skepticism about the proposal's
+      viability, further complicating the diplomatic landscape.
+    published: '2025-11-25T04:25:28+00:00'
+  - title: Russia Will Not Make the Same Mistake It Did With Minsk II
+    url: https://sonar21.com/russia-will-not-make-the-same-mistake-it-did-with-minsk-ii/
+    text: 'The Minsk process (Minsk I in September 2014 and Minsk II in February 2015)
+      was born from desperation: Ukraine’s military was in tatters after defeats like
+      Ilovaisk (August 2014, where thousands of Ukrainian troops were killed or captured
+      in an encirclement) and the early Debaltseve push. This dire situation prompted
+      Germany’s Angela Merkel and France’s Francois Hollande to intervene urgently via
+      the Normandy Format , which resulted in Minsk II. That agreement was a bust. Russia’s
+      President Putin was bamboozled by the West… He genuinely believed that the West
+      and Ukraine were serious about ending the war against the people of the Donbas.
+      They were not. In December 2022, both Merkel and Hollande admitted that Minsk
+      II was a ploy to give Ukraine time to regroup and rebuild its army with the help
+      of NATO. Merkel, in an interview with Die Zeit on December 7, 2022 said: The 2014
+      Minsk agreement was an attempt to give Ukraine time. It also used this time to
+      become stronger, as can be seen today. The Ukraine of 2014–2015 is not the modern
+      Ukraine… It was clear to us that the conflict was frozen, that the problem had
+      not been solved, but that is precisely what gave Ukraine valuable time. Hollande,
+      in an interview with the Kyiv Independent/Libération , confirmed this a few days
+      later: Yes, Angela Merkel is right… The Minsk Agreements stopped the Russian offensive
+      for a while while the West decided how to prevent any further Russian attempts.
+      Which brings me to the current drama surrounding the 28-point peace plan proposed
+      by the Trump administration. The specifics of the Trump plan are in dispute, with
+      a Ukrainian legislator touting one version while US media sources, e.g. Axios
+      and the Financial Times , proffer a different account. Given this uncertainty,
+      it is better that we listen in full to what Vladmir Putin has said this past week
+      about Trump’s plan: “Of course. There’s no secret here. We haven’t talked about
+      it publicly except in the broadest terms, but there’s nothing to hide. President
+      Trump’s peace plan on Ukraine was discussed before the Alaska meeting [in August].
+      And during those preliminary talks, the Americans asked us to make certain compromises.
+      To show what they called “flexibility”. The main purpose of the Anchorage meeting
+      was to confirm that, despite some points of difficulty on our side, we were prepared
+      to agree to their proposals and show the flexibility they asked for. We briefed
+      all our friends and partners in the Global South in detail; including China, India,
+      North Korea, South Africa, Brazil, many others, and of course the CSTO states.
+      And I want to stress, every one of them supported these potential agreements.
+      But after the Alaska talks, we’ve noticed a pause from the American side. And
+      we know why: Ukraine had essentially rejected Trump’s peace plan. That’s why this
+      new, expanded 28-point version appeared. We have the text, it came through our
+      usual channels with the US administration, and we think it could serve as a basis
+      for a final settlement. But it’s not being discussed with us in detail . My guess
+      is the reason is the same: Washington still can’t secure Ukraine’s consent. Ukraine
+      is against it. And it seems Kiev and its European supporters still live under
+      the illusion that they can deliver Russia a strategic defeat on the battlefield.
+      I suspect this isn’t just about their lack of competence, though I won’t get into
+      that now, but more about the fact that they simply don’t have an objective picture
+      of what’s happening at the front. And judging by everything we see, neither Ukraine
+      nor [Western] Europe understands where this is all heading. Let me give just one
+      recent example, Kupyansk. On November 4, just two weeks ago, Kiev publicly claimed
+      there were no more than 60 Russian soldiers left in the city, and that Ukrainian
+      forces would fully unblock it within days. But I can tell you that as of November
+      4, the city was already almost entirely under Russian control. Our troops were
+      just clearing a few remaining neighbourhoods. The fate of the city was already
+      sealed. What does this tell us? Either Ukraine’s leaders genuinely have no objective
+      information about the front, or they have it but simply cannot interpret it realistically.
+      If Kiev refuses to discuss Trump’s proposal, fine, but Ukraine and its European
+      warmongers need to understand that what happened in Kupyansk will happen again
+      in other key sectors. Maybe not as fast as we’d like, but it will happen. And
+      in general, that suits us: it means the goals of the “special military operation”
+      will be achieved militarily. Still, as I have said many times, we are ready for
+      peaceful negotiations . But that requires a detailed, substantive discussion of
+      the plan. We are ready for that.” Putin and his government, despite Western beliefs
+      to the contrary, are under no economic or political pressure, especially from
+      the Russian people, to bring a quick end to the war. Russia is winning on the
+      battlefield and there is nothing that the West can do to reverse the situation.
+      Given the history of Minsk II, Putin and his national security team will not make
+      the same mistake of agreeing to a peace deal that does not address Russia’s stated
+      objectives: demilitarize and de-nazify Ukraine. They are willing to engage in
+      serious negotiations to secure a diplomatic end to the war, but not at the expense
+      of sacrificing their military gains or leaving the Russian-speaking inhabitants
+      to the mercy of a bunch of Nazi fanatics. On a completely different topic, I did
+      a session with Pepe Escobar and Alexander Babakov on Tuesday where we discussed
+      Russia’s relationship with China and BRICS : I thank you for your invaluable support
+      by taking time to read or comment. I do not charge a subscription fee nor do I
+      accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: The Minsk agreements, initiated in 2014 and 2015 to resolve
+      the conflict in Ukraine, were ultimately revealed by German and French leaders
+      to be a strategy to allow Ukraine to strengthen its military rather than a genuine
+      effort to end hostilities, misleading Russian President Putin in the process.
+    paragraph_summary: The Minsk process, initiated in 2014 and 2015 amid Ukraine's
+      military struggles against Russian-backed separatists, aimed to establish a ceasefire
+      and peace framework but ultimately failed, as revealed by former leaders Angela
+      Merkel and Francois Hollande in December 2022. They admitted that the Minsk II
+      agreement was a strategic maneuver to allow Ukraine time to strengthen its military
+      with NATO's support, rather than a genuine effort to resolve the conflict. This
+      acknowledgment highlights the complexities of international diplomacy during the
+      crisis and sets the stage for current discussions around a new peace plan proposed
+      by the Trump administration, which remains shrouded in uncertainty and differing
+      interpretations.
+    published: '2025-11-24T03:35:22+00:00'
+  - title: Russia Will Not Make the Same Mistake It Did With Minsk II
+    url: https://sonar21.com/russia-will-not-make-the-same-mistake-it-did-with-minsk-ii/
+    text: 'The Minsk process (Minsk I in September 2014 and Minsk II in February 2015)
+      was born from desperation: Ukraine’s military was in tatters after defeats like
+      Ilovaisk (August 2014, where thousands of Ukrainian troops were killed or captured
+      in an encirclement) and the early Debaltseve push. This dire situation prompted
+      Germany’s Angela Merkel and France’s Francois Hollande to intervene urgently via
+      the Normandy Format , which resulted in Minsk II. That agreement was a bust. Russia’s
+      President Putin was bamboozled by the West… He genuinely believed that the West
+      and Ukraine were serious about ending the war against the people of the Donbas.
+      They were not. In December 2022, both Merkel and Hollande admitted that Minsk
+      II was a ploy to give Ukraine time to regroup and rebuild its army with the help
+      of NATO. Merkel, in an interview with Die Zeit on December 7, 2022 said: The 2014
+      Minsk agreement was an attempt to give Ukraine time. It also used this time to
+      become stronger, as can be seen today. The Ukraine of 2014–2015 is not the modern
+      Ukraine… It was clear to us that the conflict was frozen, that the problem had
+      not been solved, but that is precisely what gave Ukraine valuable time. Hollande,
+      in an interview with the Kyiv Independent/Libération , confirmed this a few days
+      later: Yes, Angela Merkel is right… The Minsk Agreements stopped the Russian offensive
+      for a while while the West decided how to prevent any further Russian attempts.
+      Which brings me to the current drama surrounding the 28-point peace plan proposed
+      by the Trump administration. The specifics of the Trump plan are in dispute, with
+      a Ukrainian legislator touting one version while US media sources, e.g. Axios
+      and the Financial Times , proffer a different account. Given this uncertainty,
+      it is better that we listen in full to what Vladmir Putin has said this past week
+      about Trump’s plan: “Of course. There’s no secret here. We haven’t talked about
+      it publicly except in the broadest terms, but there’s nothing to hide. President
+      Trump’s peace plan on Ukraine was discussed before the Alaska meeting [in August].
+      And during those preliminary talks, the Americans asked us to make certain compromises.
+      To show what they called “flexibility”. The main purpose of the Anchorage meeting
+      was to confirm that, despite some points of difficulty on our side, we were prepared
+      to agree to their proposals and show the flexibility they asked for. We briefed
+      all our friends and partners in the Global South in detail; including China, India,
+      North Korea, South Africa, Brazil, many others, and of course the CSTO states.
+      And I want to stress, every one of them supported these potential agreements.
+      But after the Alaska talks, we’ve noticed a pause from the American side. And
+      we know why: Ukraine had essentially rejected Trump’s peace plan. That’s why this
+      new, expanded 28-point version appeared. We have the text, it came through our
+      usual channels with the US administration, and we think it could serve as a basis
+      for a final settlement. But it’s not being discussed with us in detail . My guess
+      is the reason is the same: Washington still can’t secure Ukraine’s consent. Ukraine
+      is against it. And it seems Kiev and its European supporters still live under
+      the illusion that they can deliver Russia a strategic defeat on the battlefield.
+      I suspect this isn’t just about their lack of competence, though I won’t get into
+      that now, but more about the fact that they simply don’t have an objective picture
+      of what’s happening at the front. And judging by everything we see, neither Ukraine
+      nor [Western] Europe understands where this is all heading. Let me give just one
+      recent example, Kupyansk. On November 4, just two weeks ago, Kiev publicly claimed
+      there were no more than 60 Russian soldiers left in the city, and that Ukrainian
+      forces would fully unblock it within days. But I can tell you that as of November
+      4, the city was already almost entirely under Russian control. Our troops were
+      just clearing a few remaining neighbourhoods. The fate of the city was already
+      sealed. What does this tell us? Either Ukraine’s leaders genuinely have no objective
+      information about the front, or they have it but simply cannot interpret it realistically.
+      If Kiev refuses to discuss Trump’s proposal, fine, but Ukraine and its European
+      warmongers need to understand that what happened in Kupyansk will happen again
+      in other key sectors. Maybe not as fast as we’d like, but it will happen. And
+      in general, that suits us: it means the goals of the “special military operation”
+      will be achieved militarily. Still, as I have said many times, we are ready for
+      peaceful negotiations . But that requires a detailed, substantive discussion of
+      the plan. We are ready for that.” Putin and his government, despite Western beliefs
+      to the contrary, are under no economic or political pressure, especially from
+      the Russian people, to bring a quick end to the war. Russia is winning on the
+      battlefield and there is nothing that the West can do to reverse the situation.
+      Given the history of Minsk II, Putin and his national security team will not make
+      the same mistake of agreeing to a peace deal that does not address Russia’s stated
+      objectives: demilitarize and de-nazify Ukraine. They are willing to engage in
+      serious negotiations to secure a diplomatic end to the war, but not at the expense
+      of sacrificing their military gains or leaving the Russian-speaking inhabitants
+      to the mercy of a bunch of Nazi fanatics. On a completely different topic, I did
+      a session with Pepe Escobar and Alexander Babakov on Tuesday where we discussed
+      Russia’s relationship with China and BRICS : I thank you for your invaluable support
+      by taking time to read or comment. I do not charge a subscription fee nor do I
+      accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: The Minsk agreements, initiated in 2014 and 2015 to resolve
+      the conflict in Ukraine, were ultimately revealed by German and French leaders
+      to be a strategy to allow Ukraine to strengthen its military rather than a genuine
+      effort to end hostilities, misleading Russian President Putin in the process.
+    paragraph_summary: The Minsk process, initiated in 2014 and 2015 amid Ukraine's
+      military struggles against Russian-backed separatists, aimed to establish a ceasefire
+      and peace framework but ultimately failed, as revealed by former leaders Angela
+      Merkel and Francois Hollande in December 2022. They admitted that the Minsk II
+      agreement was a strategic maneuver to allow Ukraine time to strengthen its military
+      with NATO's support, rather than a genuine effort to resolve the conflict. This
+      acknowledgment highlights the complexities of international diplomacy during the
+      crisis and sets the stage for current discussions around a new peace plan proposed
+      by the Trump administration, which remains shrouded in uncertainty and differing
+      interpretations.
+    published: '2025-11-24T03:35:22+00:00'
+  - title: My Latest Trip to Moscow
+    url: https://sonar21.com/my-latest-trip-to-moscow/
+    text: 'Thanks to Alastair Crooke, my latest trip to Moscow introduced me to a number
+      of influential Russian policymakers and academics, and reaffirmed my belief that
+      the US and Russia should be great friends rather than adversaries. Alastair’s
+      organization — Conflicts Forum — was asked to organize — in partnership with The
+      Presidential Council for Civil Society and Human Rights and the St. Petersburg
+      Dialogue Forum (both Russian bodies) –- a high-level Strategic Dialogue Initiative
+      in Moscow. The Presidential Council for Civil Society and Human Rights is a Russian consultative
+      body established to assist the Russian President in the exercise of his constitutional
+      responsibilities to guarantee and protect human rights and freedoms, keep the Russian President
+      informed on the situation in this area and to facilitate development of civil
+      society institutions in Russia, and draft proposals for the President on matters
+      within its mandate. For many years, the Council has been advocating for a constructive
+      dialogue between Russia and Western countries. The Council is chaired by Mr Valery
+      Fadeev , Adviser to the President of the Russian Federation. The St Petersburg
+      Dialogue Forum used to be a venue of unofficial dialogue between Russian and German
+      public figures, but for the past years has been dormant due to the conflict and
+      war in Ukraine. The objective of this Dialogue Initiative was — through the joint
+      efforts of senior independent figures in civil society in the West and in Russia
+      – to contribute to overcoming the current extremely negative trends that are leading
+      towards conflict and possibly war, and to identify ways out of this dramatic situation.
+      Along with Mr. Fadeev, Mr. Sergei Karaganov played a critical role in moderating
+      the discussion that Alastair and I had with an extraordinary group of Russian
+      intellectuals. Mr. Karaganov is not your typical academic. He is a key intellectual
+      figure in Russia’s elite circles, often described as an informal advisor to President
+      Vladimir Putin and Foreign Minister Sergey Lavrov. Karaganov is recognized for
+      formulating influential doctrines that have shaped Russian policy toward its “near
+      abroad,” including Ukraine, and for advocating a multipolar world order led by
+      Russia and China. Following the Strategic Dialogue session on Saturday, Alastair
+      and I were invited to speak at the Council on Foreign and Defense Policy, which
+      was sponsored by the Higher School of Economics’ (HSE) Faculty of World Economy
+      and International Affairs. The Higher School of Economics in Moscow is a large
+      public research university formally known as the National Research University
+      Higher School of Economics (HSE University). It was founded in 1992 as a new,
+      reform-oriented economics institute in post-Soviet Russia and has since grown
+      into one of the country’s leading universities, with its main campus and governance
+      in Moscow and additional campuses in St. Petersburg, Nizhny Novgorod, and Perm.
+      Our session was attended by a diverse group of government officials, diplomats,
+      academics and journalists, as well as students of HSE. Alastair and I focused
+      our remarks principally on the special military operation in Ukraine and Russia’s
+      relationship with the West and BRICS. The last three days of my visit to Moscow
+      was with the International Club of National Unity. The International Club of National
+      Unity (also referred to as the International “National Unity Club” or ICNE in
+      English; Russian: Международный клуб национального единства) is a Russian non-governmental
+      organization and think tank focused on promoting traditional Russian spiritual
+      and moral values, fostering inter-ethnic harmony, and advancing pro-Russian geopolitical
+      narratives. It operates as a platform for public diplomacy, media events, and
+      international outreach. Established in the early 2010s, the club is headquartered
+      in Moscow and functions as a network of politicians, journalists, military figures,
+      and international commentators sympathetic to Russia’s worldview. It emphasizes
+      “national unity” as a counter to perceived Western “globalism” and cultural erosion.
+      The organization’s website describes its core aims as supporting state policies
+      on preserving Russian values, promoting peace and friendship among peoples, and
+      popularizing the “Russian world” (Russkiy Mir) concept, which includes cultural,
+      historical, and linguistic ties to Russian-speaking populations abroad. The ICNE
+      is co-chaired by Alexander Babakov, Deputy Chairman of the Russian State Duma,
+      and political philosopher Alexander Kazakov. I consider both men as new friends
+      and have interviewed each, and posted those videos on sonar21.com and my Bitchute
+      channel . Members include Eduard Basurin (former Donetsk People’s Republic defense
+      official), Andrey Gurulev (State Duma deputy), and Lt. General Apti Alaudinov
+      (commander of Akhmat special forces). It is a non-partisan, diverse group. During
+      my three days with ICNE, I interviewed eleven prominent Russians who are members
+      of the ICNE. I was pleasantly surprised to have an extended chat with Vyacheslav
+      “Slava” Fetisov, a legend in the world of Hockey. Mr. Fetisov is a Deputy of the
+      State Duma of the Federal Assembly of the Russian Federation and First Deputy
+      Chairman of the State Duma Committee on Physical Culture, Sports, Tourism, and
+      Youth Affairs. Member of the Supreme Council of the “United Russia” party. He
+      holds the rank of Active State Councillor of the Russian Federation, 1st Class.
+      Mr. Fetisov is one of the most decorated athletes in hockey history: a two time
+      Olympic Champion, seven-time World Champion, and three-time Stanley Cup winner.
+      He is a member of the IIHF Hall of Fame and the Hockey Hall of Fame in Toronto.
+      He previously held high-level government positions, including Head of the Federal
+      Agency for Physical Culture and Sports (Rossport) and Senator from Primorsky Krai.
+      I was shocked to learn that the US has sanctioned Mr. Fetisov… He is prohibited
+      from traveling to the US to see his daughter and grandchildren even though he
+      played hockey for the New Jersey Devils and the Detroit Red Wings. He is a consummate
+      gentleman. Banning someone like Mr. Fetisov from visiting the United States is
+      a stain on my country. My interview with him is posted below, along with my chat
+      on Friday with Glenn Diesen: I thank you for your invaluable support by taking
+      time to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The author's recent trip to Moscow, facilitated by Alastair
+      Crooke and the Conflicts Forum, highlighted the potential for a positive US-Russia
+      relationship through engagement with influential Russian policymakers and the
+      Strategic Dialogue Initiative.
+    paragraph_summary: During a recent trip to Moscow organized by Alastair Crooke's
+      Conflicts Forum, the author engaged with influential Russian policymakers and
+      academics, reinforcing the belief that the US and Russia should foster a friendship
+      rather than enmity. The visit was part of a high-level Strategic Dialogue Initiative
+      in collaboration with the Presidential Council for Civil Society and Human Rights
+      and the St. Petersburg Dialogue Forum, both aimed at promoting constructive dialogue
+      between Russia and the West. The Presidential Council, chaired by Valery Fadeev,
+      advises the Russian President on human rights and civil society issues, while
+      the St. Petersburg Dialogue Forum has historically facilitated discussions between
+      Russian and German figures. The initiative sought to address the escalating tensions
+      that could lead to conflict, with key contributions from prominent intellectuals
+      like Sergei Karaganov, who is regarded as an informal advisor to President Vladimir
+      Putin.
+    published: '2025-11-23T03:10:34+00:00'
+  - title: My Latest Trip to Moscow
+    url: https://sonar21.com/my-latest-trip-to-moscow/
+    text: 'Thanks to Alastair Crooke, my latest trip to Moscow introduced me to a number
+      of influential Russian policymakers and academics, and reaffirmed my belief that
+      the US and Russia should be great friends rather than adversaries. Alastair’s
+      organization — Conflicts Forum — was asked to organize — in partnership with The
+      Presidential Council for Civil Society and Human Rights and the St. Petersburg
+      Dialogue Forum (both Russian bodies) –- a high-level Strategic Dialogue Initiative
+      in Moscow. The Presidential Council for Civil Society and Human Rights is a Russian consultative
+      body established to assist the Russian President in the exercise of his constitutional
+      responsibilities to guarantee and protect human rights and freedoms, keep the Russian President
+      informed on the situation in this area and to facilitate development of civil
+      society institutions in Russia, and draft proposals for the President on matters
+      within its mandate. For many years, the Council has been advocating for a constructive
+      dialogue between Russia and Western countries. The Council is chaired by Mr Valery
+      Fadeev , Adviser to the President of the Russian Federation. The St Petersburg
+      Dialogue Forum used to be a venue of unofficial dialogue between Russian and German
+      public figures, but for the past years has been dormant due to the conflict and
+      war in Ukraine. The objective of this Dialogue Initiative was — through the joint
+      efforts of senior independent figures in civil society in the West and in Russia
+      – to contribute to overcoming the current extremely negative trends that are leading
+      towards conflict and possibly war, and to identify ways out of this dramatic situation.
+      Along with Mr. Fadeev, Mr. Sergei Karaganov played a critical role in moderating
+      the discussion that Alastair and I had with an extraordinary group of Russian
+      intellectuals. Mr. Karaganov is not your typical academic. He is a key intellectual
+      figure in Russia’s elite circles, often described as an informal advisor to President
+      Vladimir Putin and Foreign Minister Sergey Lavrov. Karaganov is recognized for
+      formulating influential doctrines that have shaped Russian policy toward its “near
+      abroad,” including Ukraine, and for advocating a multipolar world order led by
+      Russia and China. Following the Strategic Dialogue session on Saturday, Alastair
+      and I were invited to speak at the Council on Foreign and Defense Policy, which
+      was sponsored by the Higher School of Economics’ (HSE) Faculty of World Economy
+      and International Affairs. The Higher School of Economics in Moscow is a large
+      public research university formally known as the National Research University
+      Higher School of Economics (HSE University). It was founded in 1992 as a new,
+      reform-oriented economics institute in post-Soviet Russia and has since grown
+      into one of the country’s leading universities, with its main campus and governance
+      in Moscow and additional campuses in St. Petersburg, Nizhny Novgorod, and Perm.
+      Our session was attended by a diverse group of government officials, diplomats,
+      academics and journalists, as well as students of HSE. Alastair and I focused
+      our remarks principally on the special military operation in Ukraine and Russia’s
+      relationship with the West and BRICS. The last three days of my visit to Moscow
+      was with the International Club of National Unity. The International Club of National
+      Unity (also referred to as the International “National Unity Club” or ICNE in
+      English; Russian: Международный клуб национального единства) is a Russian non-governmental
+      organization and think tank focused on promoting traditional Russian spiritual
+      and moral values, fostering inter-ethnic harmony, and advancing pro-Russian geopolitical
+      narratives. It operates as a platform for public diplomacy, media events, and
+      international outreach. Established in the early 2010s, the club is headquartered
+      in Moscow and functions as a network of politicians, journalists, military figures,
+      and international commentators sympathetic to Russia’s worldview. It emphasizes
+      “national unity” as a counter to perceived Western “globalism” and cultural erosion.
+      The organization’s website describes its core aims as supporting state policies
+      on preserving Russian values, promoting peace and friendship among peoples, and
+      popularizing the “Russian world” (Russkiy Mir) concept, which includes cultural,
+      historical, and linguistic ties to Russian-speaking populations abroad. The ICNE
+      is co-chaired by Alexander Babakov, Deputy Chairman of the Russian State Duma,
+      and political philosopher Alexander Kazakov. I consider both men as new friends
+      and have interviewed each, and posted those videos on sonar21.com and my Bitchute
+      channel . Members include Eduard Basurin (former Donetsk People’s Republic defense
+      official), Andrey Gurulev (State Duma deputy), and Lt. General Apti Alaudinov
+      (commander of Akhmat special forces). It is a non-partisan, diverse group. During
+      my three days with ICNE, I interviewed eleven prominent Russians who are members
+      of the ICNE. I was pleasantly surprised to have an extended chat with Vyacheslav
+      “Slava” Fetisov, a legend in the world of Hockey. Mr. Fetisov is a Deputy of the
+      State Duma of the Federal Assembly of the Russian Federation and First Deputy
+      Chairman of the State Duma Committee on Physical Culture, Sports, Tourism, and
+      Youth Affairs. Member of the Supreme Council of the “United Russia” party. He
+      holds the rank of Active State Councillor of the Russian Federation, 1st Class.
+      Mr. Fetisov is one of the most decorated athletes in hockey history: a two time
+      Olympic Champion, seven-time World Champion, and three-time Stanley Cup winner.
+      He is a member of the IIHF Hall of Fame and the Hockey Hall of Fame in Toronto.
+      He previously held high-level government positions, including Head of the Federal
+      Agency for Physical Culture and Sports (Rossport) and Senator from Primorsky Krai.
+      I was shocked to learn that the US has sanctioned Mr. Fetisov… He is prohibited
+      from traveling to the US to see his daughter and grandchildren even though he
+      played hockey for the New Jersey Devils and the Detroit Red Wings. He is a consummate
+      gentleman. Banning someone like Mr. Fetisov from visiting the United States is
+      a stain on my country. My interview with him is posted below, along with my chat
+      on Friday with Glenn Diesen: I thank you for your invaluable support by taking
+      time to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The author's recent trip to Moscow, facilitated by Alastair
+      Crooke and the Conflicts Forum, highlighted the potential for a positive US-Russia
+      relationship through engagement with influential Russian policymakers and the
+      Strategic Dialogue Initiative.
+    paragraph_summary: During a recent trip to Moscow organized by Alastair Crooke's
+      Conflicts Forum, the author engaged with influential Russian policymakers and
+      academics, reinforcing the belief that the US and Russia should foster a friendship
+      rather than enmity. The visit was part of a high-level Strategic Dialogue Initiative
+      in collaboration with the Presidential Council for Civil Society and Human Rights
+      and the St. Petersburg Dialogue Forum, both aimed at promoting constructive dialogue
+      between Russia and the West. The Presidential Council, chaired by Valery Fadeev,
+      advises the Russian President on human rights and civil society issues, while
+      the St. Petersburg Dialogue Forum has historically facilitated discussions between
+      Russian and German figures. The initiative sought to address the escalating tensions
+      that could lead to conflict, with key contributions from prominent intellectuals
+      like Sergei Karaganov, who is regarded as an informal advisor to President Vladimir
+      Putin.
+    published: '2025-11-23T03:10:34+00:00'
+  - title: How Resilient is BRICS in the Storm of Geopolitics? – Part 1
+    url: https://sonar21.com/how-resilient-is-brics-in-the-storm-of-geopolitics-part-1/
+    text: 'BRICS is a powerful force whose members, partners, and candidates are currently
+      facing significant challenges. Reflections on the resilience of this alliance
+      based on facts and analysis. By Peter Hanseler via ForumGeopolitica.com Introduction
+      BRICS is an organization that has the potential to shift the entire economic and
+      geopolitical balance of the world in favor of the Global South; moreover, it is
+      fair to say that this has already occurred. This organization is a key topic of
+      our blog. Our very first article, “ The Unstoppable Rise of the East ” from November
+      18, 2022, was dedicated to BRICS. Readers who base their worldview primarily on
+      Western media will know little or nothing about this organization, as the West
+      focuses on either ignoring BRICS altogether or referring to it in a condescending
+      manner as a failed or embarrassing attempt by a few developing countries to rise
+      above their insignificance. This is how the Collective West communicates the whole
+      story to its own subjects. The reality, however, presents a completely different
+      picture. In this first part, we will compile the facts about BRICS and highlight
+      major trends. In the second part, we will explain why we believe that storm clouds
+      have indeed gathered, because BRICS, or rather its members, partners, and candidates,
+      cannot develop in peace and quiet, as did its counterpart in the Collective West,
+      the G7, which was founded in 1975, or the World Bank, which was founded in 1944.
+      Their counterpart was only launched in 2014 and is called the New Development
+      Bank, and it must hold its own in turbulent times. In the third and final part,
+      we will then attempt to show where this organization could be headed and what
+      can be expected from the Collective West in terms of attempts to prevent this.
+      Where does BRICS Stand Today? Difficult Information Gathering – “Fog of War” It
+      has always been difficult to obtain accurate data on members, partners, and candidates,
+      which is probably one reason why we are the only blog we know of that has undertaken
+      this enormous task. Our Denis Dobrin tirelessly scours the internet to extract
+      reliable information for us from a jumble of the usual gossip and rumors. A “fog
+      of war” has descended on key information about this organization. At present,
+      however, it appears that this information is being deliberately kept even more
+      vague than before, as the official BRICS website is even more reticent with information
+      than in the past. This is a clear indication that many parties considering joining
+      are pursuing a very cautious information policy for fear of American repression
+      and aggression. This is a new phenomenon for an economic alliance in our time.
+      Let’s call a spade a spade: a “ fog of war ” has descended on key information
+      about this organization. For this reason, the following information should be
+      understood as “ best effort ,” i.e., we confirm that we have made every effort
+      to obtain the correct information, but cannot provide any guarantee. Members G7
+      members – pink; BRICS members – green – Source: ForumGeopolitica BRICS currently
+      has 10 full members. Indonesia was newly admitted as a full member on January
+      6, 2025. Indonesia is hardly noticed in the West. This huge country (1,905,000
+      km²) is more than five times larger than Germany (357,022 km²) and its population
+      (285 million) exceeds that of Germany (83 million) by a factor of 3.5. Source:
+      ForumGeopolitica Partners G7 members – pink; BRICS members – green; BRICS partners
+      – yellow: Source: ForumGeopolitica Partner status was created at the 2024 BRICS
+      summit in Kazan. It is not a second-class membership. BRICS covers not only economics,
+      but also culture, education, research, relations between peoples, and women’s
+      rights. During 2024, when Russia held the presidency, over 200 sub-conferences
+      on BRICS were held in Russia. This represents a huge effort to create a common
+      course at various levels among very heterogeneous peoples. Partner status can
+      thus be described and understood as a antechamber to full membership. Countries
+      with partner status exchange ideas with full members in the antechamber and coordinate
+      in order to then jointly achieve full membership. I assume that countries that
+      achieve partner status already maintain closer and more advantageous economic
+      relations with full members during this status. Source: ForumGeopolitica Classification
+      of Numbers Population Figures The Collective West accounts for approximately 10%
+      of the world’s population and thus more or less controlled the rest of the world
+      for centuries, first through the Portuguese, then the Spanish, Dutch, French,
+      British, and now the US. The part of the world we call the Global South accounts
+      for approximately 90% of the world’s population and no longer wants to be dominated
+      by the 10% – this is probably one of the main reasons why BRICS is developing
+      so rapidly. In the past, the dominance of the West was possible, to put it simply,
+      because the Global South was unable to defend itself militarily, as social cohesion
+      was lacking, often due to a lack of education, and this part of the world did
+      not dare to rebel against these superhumans in the first place. That has now changed
+      completely. American universities still top the rankings, for example in university
+      rankings, but this is mainly because these rankings are compiled in the West –
+      paper is patient. If the quality of the results – for example in science – were
+      included as a criterion, universities from the Global South (China, India, Russia)
+      would probably be very well represented in the rankings. Gross National Product
+      We show gross national product adjusted for purchasing power parity. Using the
+      US dollar as a benchmark for GDP distorts a country’s economic strength: if you
+      want to measure financial clout realistically, it matters greatly whether, for
+      example, a Big Mac costs twice as much in US dollars in one place as it does elsewhere.
+      The so-called Big Mac Index is reason enough to use purchasing power-adjusted
+      figures when comparing GDP figures. The reason why Western media use unadjusted
+      figures is purely for marketing purposes, to conceal the devaluation of the US
+      dollar and make it appear stronger than it is. Oil Production When evaluating
+      oil production figures, the following additional facts should be taken into account:
+      Firstly, although the US is still the world’s largest oil producer, accounting
+      for around 18% of global production, it also consumes the most oil, accounting
+      for over 20% of global consumption. This means that the US is currently not even
+      able to cover its own consumption. This circumstance alone is a compelling reason
+      for the US to put pressure on Saudi Arabia, for example, to prevent it from joining
+      BRICS. Secondly, the major oil-producing members of BRICS have a great deal of
+      influence over, or even control of, OPEC. Since BRICS also dominates OPEC and
+      thus controls the price and distribution of a large part of the oil, one can speak
+      of an (indirect) monopoly position of BRICS. Thirdly, the production costs for
+      US oil are several times higher than the production costs in BRICS countries.
+      These factors further strengthen BRICS’ position of power with regard to oil.
+      Natural Gas With regard to natural gas, it should be noted that with Iran’s accession
+      to BRICS, the world’s two largest natural gas producers are both members of BRICS:
+      Russia and Iran. The largest non-BRICS gas producer is Qatar, which is (still)
+      allied with the US. BRICS is therefore also a real power center in terms of natural
+      gas. Gold In the past, we were ridiculed on several occasions for including gold
+      production in the table of important commodities. Today, however, it is clear
+      that gold—and silver too—will not only be important in the unstable environment
+      of financial markets and fiat currencies, but will also be strategically indispensable
+      for the survival of all economies. Further Data Special Thanks to Simon Hunt While
+      writing this article, I consulted with my close friend Simon Hunt and asked him
+      for more data—for which I thank him warm. Dynamics of Future GDP Development The
+      GDP of the BRICS countries is expected to grow by an average of 3.8% this year
+      and by a further 3.7% by 2026 (World Bank). For the fundamental problems with
+      GDP as a reliable measure of value creation, I refer you to Tony Deden’s excellent
+      article “ The Illusion of Progress .” In contrast, the real GDP of the G7 countries
+      is expected to grow by 1.0% this year and by 1.2% by 2026 (World Bank). If we
+      assume that the real GDP of the BRICS countries will grow by an average of 3.5%
+      until 2032 and the average GDP of the G7 countries by 2% per year, we arrive at
+      the following conclusion. 2025 BRICS 100.00 G7 100.00 2026 103.50 102.00 2027
+      107.12 104.04 2028 110.87 106.12 2029 114.75 108.24 2030 118.77 110.41 2031 122.93
+      112.62 2032 127.23 114.87 This would result in a 27% increase in the GDP of the
+      BRICS countries and only a 14% increase in that of the G7. However, this exercise
+      in figures is only intended to serve as an illustrative example of the greater
+      dynamism of the BRICS countries, since such an extrapolation of economic growth
+      assumes that the membership of BRICS will remain unchanged until 2032 and that
+      the overall dynamics of economic development will not change, which I consider
+      highly unlikely. This view is confirmed by Bloomberg : Other Commodities and Industrial
+      Production According to Simon Hunt’s research, the share of global raw materials,
+      in addition to those listed in our tables, is very impressive. For example: 70%
+      of global coal production 72% of global reserves of rare minerals (including processing)
+      42% of global wheat production 52% of global rice production 43% of global corn
+      production Hunt estimates that BRICS countries currently account for 38% of total
+      industrial production. Financial Facts of BRICS New Development Bank – “BRICS
+      Bank” It is headquartered in Pudong, China. The current president is Ms. Dilma
+      Rousseff, the former president of Brazil, who is competently supported by four
+      vice presidents and around 300 employees. The bank has an authorized initial capital
+      of US$100 billion, of which US$10 billion is contributed in equal shares by the
+      five founding members. The callable capital amounts to US$40 billion, which the
+      members must provide when needed to meet financial obligations. The United Arab
+      Emirates joined the bank in 2021. A formal operational and administrative structure
+      has been established. The administration operates in a very conservative manner.
+      For example: The minimum capital ratio is set at 25%, but stood at 37% at the
+      end of 2024. The minimum liquidity ratio is 100%, but stood at 149% at the end
+      of 2024. The maximum capital utilization is 90%, but stood at 16% at the end of
+      last year. The bank was recently authorized to repay loans in local currencies.
+      The ultimate goal is for the BRICS bank to become the primary source of credit
+      for member countries, thus replacing the World Bank and the IMF. This new policy
+      is consistent with the development of trade and investment within the BRICS community,
+      which is to be conducted in local currencies and, ultimately, when finally structured
+      in the new BRICS currency, backed by gold. This will likely be done through the
+      Shanghai Gold Exchange (SGE), which is building gold vaults in member countries.
+      A new gold facility has been created in Hong Kong, and the SGE is nearing completion
+      of a gold vault in Saudi Arabia. Saudi Arabia has a trade surplus of about $20
+      billion with China. Currently, oil sales to China are paid for in yuan, which
+      Saudi Arabia can currently exchange for gold in Shanghai if it wishes. In the
+      future, the exchange will take place at the SGE in Saudi Arabia. Thus, gold is
+      the intermediate value, not the dollar. This is the plan for all BRICS members
+      and partners. The expansion of the Chinese Cross-Border International Payments
+      System (CIPS) is linked to the developing BRICS currency system. Currently, 189
+      countries are participating in the system. According to the PBOC, more than 4
+      million transactions worth US$12.7 trillion were processed in the first half of
+      2025, many of which were carried out within the BRICS countries. The Trend Away
+      from the US Dollar and Toward the Renminbi The use of the US dollar as a weapon
+      is increasingly leading to a decline in the use of the US dollar as a reserve
+      currency. The US has used the US dollar as a weapon for decades, cutting off countries,
+      companies, and individuals from US dollar trading if, in the US’s sole opinion,
+      they did not act in accordance with US interests. The straw that broke the camel’s
+      back was definitely the freezing and subsequent theft of Russia’s foreign exchange
+      reserves. The BRICS members now saw that the US could devastate any country with
+      the stroke of a pen, demonstrating that holding US dollars is a risky and dangerous
+      undertaking in today’s geopolitical situation. The response from countries in
+      the Global South—not just BRICS—was prompt, as the following chart from Bloomberg
+      shows: Source: Bloomberg Added to this is the ongoing devaluation of the US dollar.
+      In 1971, an ounce of gold cost US$35; today, the price is US$4100. The US dollar
+      has thus lost 99% of its value compared to gold. Russia was initially the trendsetter,
+      switching from the US dollar to the renminbi due to sanctions. Source: German
+      Institute for International and Security Affairs Several African countries have
+      thus begun converting their US dollar-denominated debt into Chinese yuan. Kenya
+      has completed the conversion of three Chinese loans worth around $3.5 billion.
+      Ethiopia is currently negotiating with Beijing to convert at least part of its
+      $5.38 billion Chinese debt into yuan-denominated loans. Other countries will follow,
+      according to Chinascope . According to FinanceAsia , Kazakhstan Development Bank
+      has issued its first offshore bond in renminbi. CICC ( China International Capital
+      Corporation ) acted as global coordinator for the issuance of a dim sum bond worth
+      2 billion renminbi with a yield of 3.35%—note the low interest rate. Energy We
+      must also include the ability to provide large quantities of electrical energy
+      among our strategic resources. This does not just mean the ability to supply industry
+      and the population with electricity. We are focusing here on the ability of an
+      economy to provide significant amounts of electrical energy beyond the “conventional”
+      industrial framework, e.g., for data centers of all kinds, especially for artificial
+      intelligence. Here, too, the West as a whole is in a very uncomfortable position
+      compared to China. By shutting down and dismantling its solid nuclear power plants
+      and turning to solar energy with almost religious fervor, Germany has put itself
+      in an untenable position for an industrialized country. The following chart illustrates
+      this based on import and export volumes for the year 2025 to date: Source: Energy
+      Charts With this energy structure, Germany, currently the largest economy in the
+      EU, will not be able to participate in the data market, which will be decisive
+      for the future. This is because an AI center with its data centers requires enormous
+      amounts of electricity that must be available at all times. However, with its
+      gigantic miscalculation in the energy sector, Germany is dragging the whole of
+      Europe down with it. And that’s not even taking into account the EU’s bizarre
+      clinging to Ukraine, which is more likely to guarantee further decline than prosperity.
+      But the US also has noticeable problems, as a recent analysis by stock3 .com shows.
+      Referring to Goldman Sachs, it states: “Eight of 13 regional US electricity markets
+      are already operating at or below critical reserve levels. Effective reserve capacity
+      in electricity generation has plummeted from 26% five years ago to 19% today,
+      approaching the industry’s emergency threshold of 15%.” It goes on to say: “Data
+      centers already consume 6% of total US electricity demand. By 2030, this share
+      is projected to rise to 11%, which could bring the grids to the brink of collapse.”
+      China, on the other hand, is reaping the rewards of a well-considered, strategic
+      approach in this crucial area: “China, on the other hand, is pursuing an energy
+      offensive of historic proportions. By 2030, the Middle Kingdom will have effective
+      electricity reserves of around 400 GW, more than three times the expected global
+      data center demand of around 120 GW. Beijing is aggressively diversifying its
+      energy mix and expanding capacity at a breathtaking pace.” It should also be mentioned
+      that the energy offensive is accompanied by an equally well-thought-out offensive
+      in the development and production of the latest semiconductors. Interim Result
+      The bare figures are certainly impressive, and under normal, peaceful circumstances,
+      the race between the Global South and the Collective West would probably already
+      be over. There are two main players: on the one hand, BRICS as an organization
+      whose heavyweights China, Russia, and India dictate not so much the direction
+      of travel as the pace. On the other hand, China is challenging the US in terms
+      of reserve currency, a trend that can no longer be ignored. However, it should
+      be clearly stated that this will only be a prelude to a complete turnaround, as
+      the multipolar Global South is not aiming for the renminbi as a reserve currency
+      as its ultimate goal, but ultimately for the multipolar use of many currencies
+      with a settlement system that will probably be based on gold. See our article
+      from February 2025: “ How BRICS could overcome its biggest challenge – payment
+      settlement .” In the second part, which will follow in the next few days, we will
+      argue why we describe the current geopolitical situation as a storm that is affecting
+      the orderly development of BRICS. Peter Hanseler is a geopolitical analyst who
+      reports from Moscow. Peter was born in Zurich, Switzerland. He holds a J.D. (lic.
+      iur.) and Ph.D. (Dr. iur.) from Zurich University Law School and Master in International
+      Commercial Law (LL.M.) from Georgetown University Law School, Washington, D.C.
+      He has lived in the US, Spain, Switzerland, Thailand and Russia. Peter is independent,
+      his work is not supported by government or private entities. Peter’s website Forumgeopolitica.com
+      publishes its content in English, Russian, German and French.'
+    one_sentence_summary: The article discusses the resilience and growing influence
+      of BRICS as a significant force in shifting the global economic and geopolitical
+      balance towards the Global South, while highlighting the Western media's dismissive
+      portrayal of the organization.
+    paragraph_summary: BRICS, an alliance of emerging economies, is positioned to significantly
+      alter the global economic and geopolitical landscape in favor of the Global South,
+      a shift that has already begun. Despite the Western media's tendency to downplay
+      or ridicule BRICS as an ineffective coalition of developing nations, the reality
+      is more complex, as the organization faces substantial challenges that hinder
+      its growth compared to established Western entities like the G7 and the World
+      Bank. The article by Peter Hanseler emphasizes the importance of understanding
+      BRICS through factual analysis, highlighting the difficulties in gathering accurate
+      information about its members and partners. It suggests that while BRICS has the
+      potential for resilience and influence, it must navigate turbulent times and anticipate
+      resistance from the Collective West, which may seek to undermine its progress.
+    published: '2025-11-22T08:37:26+00:00'
+  - title: How Resilient is BRICS in the Storm of Geopolitics? – Part 1
+    url: https://sonar21.com/how-resilient-is-brics-in-the-storm-of-geopolitics-part-1/
+    text: 'BRICS is a powerful force whose members, partners, and candidates are currently
+      facing significant challenges. Reflections on the resilience of this alliance
+      based on facts and analysis. By Peter Hanseler via ForumGeopolitica.com Introduction
+      BRICS is an organization that has the potential to shift the entire economic and
+      geopolitical balance of the world in favor of the Global South; moreover, it is
+      fair to say that this has already occurred. This organization is a key topic of
+      our blog. Our very first article, “ The Unstoppable Rise of the East ” from November
+      18, 2022, was dedicated to BRICS. Readers who base their worldview primarily on
+      Western media will know little or nothing about this organization, as the West
+      focuses on either ignoring BRICS altogether or referring to it in a condescending
+      manner as a failed or embarrassing attempt by a few developing countries to rise
+      above their insignificance. This is how the Collective West communicates the whole
+      story to its own subjects. The reality, however, presents a completely different
+      picture. In this first part, we will compile the facts about BRICS and highlight
+      major trends. In the second part, we will explain why we believe that storm clouds
+      have indeed gathered, because BRICS, or rather its members, partners, and candidates,
+      cannot develop in peace and quiet, as did its counterpart in the Collective West,
+      the G7, which was founded in 1975, or the World Bank, which was founded in 1944.
+      Their counterpart was only launched in 2014 and is called the New Development
+      Bank, and it must hold its own in turbulent times. In the third and final part,
+      we will then attempt to show where this organization could be headed and what
+      can be expected from the Collective West in terms of attempts to prevent this.
+      Where does BRICS Stand Today? Difficult Information Gathering – “Fog of War” It
+      has always been difficult to obtain accurate data on members, partners, and candidates,
+      which is probably one reason why we are the only blog we know of that has undertaken
+      this enormous task. Our Denis Dobrin tirelessly scours the internet to extract
+      reliable information for us from a jumble of the usual gossip and rumors. A “fog
+      of war” has descended on key information about this organization. At present,
+      however, it appears that this information is being deliberately kept even more
+      vague than before, as the official BRICS website is even more reticent with information
+      than in the past. This is a clear indication that many parties considering joining
+      are pursuing a very cautious information policy for fear of American repression
+      and aggression. This is a new phenomenon for an economic alliance in our time.
+      Let’s call a spade a spade: a “ fog of war ” has descended on key information
+      about this organization. For this reason, the following information should be
+      understood as “ best effort ,” i.e., we confirm that we have made every effort
+      to obtain the correct information, but cannot provide any guarantee. Members G7
+      members – pink; BRICS members – green – Source: ForumGeopolitica BRICS currently
+      has 10 full members. Indonesia was newly admitted as a full member on January
+      6, 2025. Indonesia is hardly noticed in the West. This huge country (1,905,000
+      km²) is more than five times larger than Germany (357,022 km²) and its population
+      (285 million) exceeds that of Germany (83 million) by a factor of 3.5. Source:
+      ForumGeopolitica Partners G7 members – pink; BRICS members – green; BRICS partners
+      – yellow: Source: ForumGeopolitica Partner status was created at the 2024 BRICS
+      summit in Kazan. It is not a second-class membership. BRICS covers not only economics,
+      but also culture, education, research, relations between peoples, and women’s
+      rights. During 2024, when Russia held the presidency, over 200 sub-conferences
+      on BRICS were held in Russia. This represents a huge effort to create a common
+      course at various levels among very heterogeneous peoples. Partner status can
+      thus be described and understood as a antechamber to full membership. Countries
+      with partner status exchange ideas with full members in the antechamber and coordinate
+      in order to then jointly achieve full membership. I assume that countries that
+      achieve partner status already maintain closer and more advantageous economic
+      relations with full members during this status. Source: ForumGeopolitica Classification
+      of Numbers Population Figures The Collective West accounts for approximately 10%
+      of the world’s population and thus more or less controlled the rest of the world
+      for centuries, first through the Portuguese, then the Spanish, Dutch, French,
+      British, and now the US. The part of the world we call the Global South accounts
+      for approximately 90% of the world’s population and no longer wants to be dominated
+      by the 10% – this is probably one of the main reasons why BRICS is developing
+      so rapidly. In the past, the dominance of the West was possible, to put it simply,
+      because the Global South was unable to defend itself militarily, as social cohesion
+      was lacking, often due to a lack of education, and this part of the world did
+      not dare to rebel against these superhumans in the first place. That has now changed
+      completely. American universities still top the rankings, for example in university
+      rankings, but this is mainly because these rankings are compiled in the West –
+      paper is patient. If the quality of the results – for example in science – were
+      included as a criterion, universities from the Global South (China, India, Russia)
+      would probably be very well represented in the rankings. Gross National Product
+      We show gross national product adjusted for purchasing power parity. Using the
+      US dollar as a benchmark for GDP distorts a country’s economic strength: if you
+      want to measure financial clout realistically, it matters greatly whether, for
+      example, a Big Mac costs twice as much in US dollars in one place as it does elsewhere.
+      The so-called Big Mac Index is reason enough to use purchasing power-adjusted
+      figures when comparing GDP figures. The reason why Western media use unadjusted
+      figures is purely for marketing purposes, to conceal the devaluation of the US
+      dollar and make it appear stronger than it is. Oil Production When evaluating
+      oil production figures, the following additional facts should be taken into account:
+      Firstly, although the US is still the world’s largest oil producer, accounting
+      for around 18% of global production, it also consumes the most oil, accounting
+      for over 20% of global consumption. This means that the US is currently not even
+      able to cover its own consumption. This circumstance alone is a compelling reason
+      for the US to put pressure on Saudi Arabia, for example, to prevent it from joining
+      BRICS. Secondly, the major oil-producing members of BRICS have a great deal of
+      influence over, or even control of, OPEC. Since BRICS also dominates OPEC and
+      thus controls the price and distribution of a large part of the oil, one can speak
+      of an (indirect) monopoly position of BRICS. Thirdly, the production costs for
+      US oil are several times higher than the production costs in BRICS countries.
+      These factors further strengthen BRICS’ position of power with regard to oil.
+      Natural Gas With regard to natural gas, it should be noted that with Iran’s accession
+      to BRICS, the world’s two largest natural gas producers are both members of BRICS:
+      Russia and Iran. The largest non-BRICS gas producer is Qatar, which is (still)
+      allied with the US. BRICS is therefore also a real power center in terms of natural
+      gas. Gold In the past, we were ridiculed on several occasions for including gold
+      production in the table of important commodities. Today, however, it is clear
+      that gold—and silver too—will not only be important in the unstable environment
+      of financial markets and fiat currencies, but will also be strategically indispensable
+      for the survival of all economies. Further Data Special Thanks to Simon Hunt While
+      writing this article, I consulted with my close friend Simon Hunt and asked him
+      for more data—for which I thank him warm. Dynamics of Future GDP Development The
+      GDP of the BRICS countries is expected to grow by an average of 3.8% this year
+      and by a further 3.7% by 2026 (World Bank). For the fundamental problems with
+      GDP as a reliable measure of value creation, I refer you to Tony Deden’s excellent
+      article “ The Illusion of Progress .” In contrast, the real GDP of the G7 countries
+      is expected to grow by 1.0% this year and by 1.2% by 2026 (World Bank). If we
+      assume that the real GDP of the BRICS countries will grow by an average of 3.5%
+      until 2032 and the average GDP of the G7 countries by 2% per year, we arrive at
+      the following conclusion. 2025 BRICS 100.00 G7 100.00 2026 103.50 102.00 2027
+      107.12 104.04 2028 110.87 106.12 2029 114.75 108.24 2030 118.77 110.41 2031 122.93
+      112.62 2032 127.23 114.87 This would result in a 27% increase in the GDP of the
+      BRICS countries and only a 14% increase in that of the G7. However, this exercise
+      in figures is only intended to serve as an illustrative example of the greater
+      dynamism of the BRICS countries, since such an extrapolation of economic growth
+      assumes that the membership of BRICS will remain unchanged until 2032 and that
+      the overall dynamics of economic development will not change, which I consider
+      highly unlikely. This view is confirmed by Bloomberg : Other Commodities and Industrial
+      Production According to Simon Hunt’s research, the share of global raw materials,
+      in addition to those listed in our tables, is very impressive. For example: 70%
+      of global coal production 72% of global reserves of rare minerals (including processing)
+      42% of global wheat production 52% of global rice production 43% of global corn
+      production Hunt estimates that BRICS countries currently account for 38% of total
+      industrial production. Financial Facts of BRICS New Development Bank – “BRICS
+      Bank” It is headquartered in Pudong, China. The current president is Ms. Dilma
+      Rousseff, the former president of Brazil, who is competently supported by four
+      vice presidents and around 300 employees. The bank has an authorized initial capital
+      of US$100 billion, of which US$10 billion is contributed in equal shares by the
+      five founding members. The callable capital amounts to US$40 billion, which the
+      members must provide when needed to meet financial obligations. The United Arab
+      Emirates joined the bank in 2021. A formal operational and administrative structure
+      has been established. The administration operates in a very conservative manner.
+      For example: The minimum capital ratio is set at 25%, but stood at 37% at the
+      end of 2024. The minimum liquidity ratio is 100%, but stood at 149% at the end
+      of 2024. The maximum capital utilization is 90%, but stood at 16% at the end of
+      last year. The bank was recently authorized to repay loans in local currencies.
+      The ultimate goal is for the BRICS bank to become the primary source of credit
+      for member countries, thus replacing the World Bank and the IMF. This new policy
+      is consistent with the development of trade and investment within the BRICS community,
+      which is to be conducted in local currencies and, ultimately, when finally structured
+      in the new BRICS currency, backed by gold. This will likely be done through the
+      Shanghai Gold Exchange (SGE), which is building gold vaults in member countries.
+      A new gold facility has been created in Hong Kong, and the SGE is nearing completion
+      of a gold vault in Saudi Arabia. Saudi Arabia has a trade surplus of about $20
+      billion with China. Currently, oil sales to China are paid for in yuan, which
+      Saudi Arabia can currently exchange for gold in Shanghai if it wishes. In the
+      future, the exchange will take place at the SGE in Saudi Arabia. Thus, gold is
+      the intermediate value, not the dollar. This is the plan for all BRICS members
+      and partners. The expansion of the Chinese Cross-Border International Payments
+      System (CIPS) is linked to the developing BRICS currency system. Currently, 189
+      countries are participating in the system. According to the PBOC, more than 4
+      million transactions worth US$12.7 trillion were processed in the first half of
+      2025, many of which were carried out within the BRICS countries. The Trend Away
+      from the US Dollar and Toward the Renminbi The use of the US dollar as a weapon
+      is increasingly leading to a decline in the use of the US dollar as a reserve
+      currency. The US has used the US dollar as a weapon for decades, cutting off countries,
+      companies, and individuals from US dollar trading if, in the US’s sole opinion,
+      they did not act in accordance with US interests. The straw that broke the camel’s
+      back was definitely the freezing and subsequent theft of Russia’s foreign exchange
+      reserves. The BRICS members now saw that the US could devastate any country with
+      the stroke of a pen, demonstrating that holding US dollars is a risky and dangerous
+      undertaking in today’s geopolitical situation. The response from countries in
+      the Global South—not just BRICS—was prompt, as the following chart from Bloomberg
+      shows: Source: Bloomberg Added to this is the ongoing devaluation of the US dollar.
+      In 1971, an ounce of gold cost US$35; today, the price is US$4100. The US dollar
+      has thus lost 99% of its value compared to gold. Russia was initially the trendsetter,
+      switching from the US dollar to the renminbi due to sanctions. Source: German
+      Institute for International and Security Affairs Several African countries have
+      thus begun converting their US dollar-denominated debt into Chinese yuan. Kenya
+      has completed the conversion of three Chinese loans worth around $3.5 billion.
+      Ethiopia is currently negotiating with Beijing to convert at least part of its
+      $5.38 billion Chinese debt into yuan-denominated loans. Other countries will follow,
+      according to Chinascope . According to FinanceAsia , Kazakhstan Development Bank
+      has issued its first offshore bond in renminbi. CICC ( China International Capital
+      Corporation ) acted as global coordinator for the issuance of a dim sum bond worth
+      2 billion renminbi with a yield of 3.35%—note the low interest rate. Energy We
+      must also include the ability to provide large quantities of electrical energy
+      among our strategic resources. This does not just mean the ability to supply industry
+      and the population with electricity. We are focusing here on the ability of an
+      economy to provide significant amounts of electrical energy beyond the “conventional”
+      industrial framework, e.g., for data centers of all kinds, especially for artificial
+      intelligence. Here, too, the West as a whole is in a very uncomfortable position
+      compared to China. By shutting down and dismantling its solid nuclear power plants
+      and turning to solar energy with almost religious fervor, Germany has put itself
+      in an untenable position for an industrialized country. The following chart illustrates
+      this based on import and export volumes for the year 2025 to date: Source: Energy
+      Charts With this energy structure, Germany, currently the largest economy in the
+      EU, will not be able to participate in the data market, which will be decisive
+      for the future. This is because an AI center with its data centers requires enormous
+      amounts of electricity that must be available at all times. However, with its
+      gigantic miscalculation in the energy sector, Germany is dragging the whole of
+      Europe down with it. And that’s not even taking into account the EU’s bizarre
+      clinging to Ukraine, which is more likely to guarantee further decline than prosperity.
+      But the US also has noticeable problems, as a recent analysis by stock3 .com shows.
+      Referring to Goldman Sachs, it states: “Eight of 13 regional US electricity markets
+      are already operating at or below critical reserve levels. Effective reserve capacity
+      in electricity generation has plummeted from 26% five years ago to 19% today,
+      approaching the industry’s emergency threshold of 15%.” It goes on to say: “Data
+      centers already consume 6% of total US electricity demand. By 2030, this share
+      is projected to rise to 11%, which could bring the grids to the brink of collapse.”
+      China, on the other hand, is reaping the rewards of a well-considered, strategic
+      approach in this crucial area: “China, on the other hand, is pursuing an energy
+      offensive of historic proportions. By 2030, the Middle Kingdom will have effective
+      electricity reserves of around 400 GW, more than three times the expected global
+      data center demand of around 120 GW. Beijing is aggressively diversifying its
+      energy mix and expanding capacity at a breathtaking pace.” It should also be mentioned
+      that the energy offensive is accompanied by an equally well-thought-out offensive
+      in the development and production of the latest semiconductors. Interim Result
+      The bare figures are certainly impressive, and under normal, peaceful circumstances,
+      the race between the Global South and the Collective West would probably already
+      be over. There are two main players: on the one hand, BRICS as an organization
+      whose heavyweights China, Russia, and India dictate not so much the direction
+      of travel as the pace. On the other hand, China is challenging the US in terms
+      of reserve currency, a trend that can no longer be ignored. However, it should
+      be clearly stated that this will only be a prelude to a complete turnaround, as
+      the multipolar Global South is not aiming for the renminbi as a reserve currency
+      as its ultimate goal, but ultimately for the multipolar use of many currencies
+      with a settlement system that will probably be based on gold. See our article
+      from February 2025: “ How BRICS could overcome its biggest challenge – payment
+      settlement .” In the second part, which will follow in the next few days, we will
+      argue why we describe the current geopolitical situation as a storm that is affecting
+      the orderly development of BRICS. Peter Hanseler is a geopolitical analyst who
+      reports from Moscow. Peter was born in Zurich, Switzerland. He holds a J.D. (lic.
+      iur.) and Ph.D. (Dr. iur.) from Zurich University Law School and Master in International
+      Commercial Law (LL.M.) from Georgetown University Law School, Washington, D.C.
+      He has lived in the US, Spain, Switzerland, Thailand and Russia. Peter is independent,
+      his work is not supported by government or private entities. Peter’s website Forumgeopolitica.com
+      publishes its content in English, Russian, German and French.'
+    one_sentence_summary: The article discusses the resilience and growing influence
+      of BRICS as a significant force in shifting the global economic and geopolitical
+      balance towards the Global South, while highlighting the Western media's dismissive
+      portrayal of the organization.
+    paragraph_summary: BRICS, an alliance of emerging economies, is positioned to significantly
+      alter the global economic and geopolitical landscape in favor of the Global South,
+      a shift that has already begun. Despite the Western media's tendency to downplay
+      or ridicule BRICS as an ineffective coalition of developing nations, the reality
+      is more complex, as the organization faces substantial challenges that hinder
+      its growth compared to established Western entities like the G7 and the World
+      Bank. The article by Peter Hanseler emphasizes the importance of understanding
+      BRICS through factual analysis, highlighting the difficulties in gathering accurate
+      information about its members and partners. It suggests that while BRICS has the
+      potential for resilience and influence, it must navigate turbulent times and anticipate
+      resistance from the Collective West, which may seek to undermine its progress.
+    published: '2025-11-22T08:37:26+00:00'
+  - title: Putting Venezuela Into Perspective… A Massive Challenge Compared to Iraq,
+      While Russian Offensive Picks Up Steam
+    url: https://sonar21.com/putting-venezuela-into-perspective-a-massive-challenge-compared-to-iraq-while-russian-offensive-picks-up-steam/
+    text: 'Angel Falls in Venezuela As the US continues to build up its military forces
+      off the coast of Venezuela, it is worth asking about the risks associated with
+      an actual US invasion with ground forces. I think that US military planners, regardless
+      of what Donald Trump is saying, have cautioned their bosses about the extreme
+      risks that such an operation would entail. During my appearance today with Judge
+      Napolitano, I suggested we compare what a possible military operation inside Venezuela
+      would entail compared to our 2003 attack on Iraq… Venezuela is a much tougher
+      nut to crack than was Iraq. Venezuela covers roughly 2.02 times the land area
+      of Iraq (882,050 ÷ 437,367 ≈ 2.02). This makes it the 32nd largest country in
+      the world, while Iraq ranks 58th. Venezuela’s terrain is diverse, featuring the
+      Andes Mountains, Amazon rainforests, coastal plains, and the vast Orinoco Delta,
+      contributing to its expansive footprint. Iraq’s smaller size is dominated by the
+      Mesopotamian alluvial plains (fed by the Tigris and Euphrates rivers), northern
+      highlands, and western/southern deserts (covering about 40% of the country). Despite
+      its compact size, Iraq has a higher population density due to concentrated urban
+      centers like Baghdad and fertile river valleys. Let’s look backwards at the 2003
+      US invasion of Iraq, since Iraq is half the size of Venezuela and its geographic
+      features are less challenging than those that confront the US in Venezuela. The
+      US-led coalition invasion of Iraq, known as Operation Iraqi Freedom , began on
+      March 20, 2003 (March 19 in US time zones), with initial airstrikes followed by
+      ground operations on March 21. Assembling the necessary forces—approximately 130,000
+      US troops (out of a total coalition force of about 160,000, including 45,000 British)—was
+      a deliberate process driven by political, diplomatic, and logistical considerations.
+      The buildup was not from a standing start but built on pre-positioned equipment
+      and forces in the region. Covert preparations began in July 2002 with CIA Special
+      Activities Division (SAD) and MI6 paramilitary teams entering Iraq to scout and
+      prepare for larger forces. This included organizing Kurdish Peshmerga allies in
+      northern Iraq. By late 2002, following the US Congress’s October 8 authorization
+      for military force, initial troop rotations and equipment prepositioning accelerated
+      in Kuwait and other Gulf states. UN Security Council Resolution 1441 (November
+      8, 2002) heightened tensions, prompting a surge in deployments. US forces began
+      massing in Kuwait, with naval assets (e.g., carrier strike groups) positioning
+      in the Persian Gulf by December. Analysts noted this as the start of the “intensified”
+      phase, with logistics like sealift ships unloading cargo at ports such as Ash
+      Shuaybah. By February 18, 2003, around 100,000 US troops were assembled in Kuwait
+      alone, supported by 15,000 Navy personnel on regional ships. The buildup reached
+      full operational readiness by early March, coinciding with diplomatic efforts
+      (e.g., Colin Powell’s February 5 UN presentation on alleged Iraqi WMDs). President
+      Bush’s 48-hour ultimatum to Saddam Hussein on March 17 marked the final positioning.
+      The core assembly of combat-ready forces took approximately 3–4 months (from early
+      December 2002 to mid-March 2003), during which the US intensified deployments
+      in order to achieve overwhelming superiority. By comparison, the US buildup of
+      over 500,000 troops for the 1991 Gulf War took six-months. After launching the
+      invasion of Iraq on 20 March of 2003, it took the US six weeks to achieve what
+      George W. Bush christened as Mission Accomplished on 1 May. But we know how that
+      turned out… After defeating the Iraqi army, the US found itself ensnared in a
+      deadly insurgency. The insurgency in Iraq following the US-led invasion of March
+      2003 was a prolonged, multifaceted conflict involving Sunni Arab nationalists,
+      former Ba’athists, foreign jihadists (e.g., Al-Qaeda in Iraq), and later Shia
+      militias. It emerged from the power vacuum after Saddam Hussein’s regime fell,
+      fueled by the disbandment of Iraqi security forces, sectarian tensions, and resentment
+      toward the occupation. While violence evolved over time—with a peak in sectarian
+      civil war (2006–2008) and a decline after the 2007 US troop surge—historians and
+      analysts generally define its primary phase as lasting from mid-2003 until the
+      US withdrawal in December 2011, a total of approximately 8 years and 9 months
+      (or roughly 8.75 years). At present, the US reportedly has assembled 18,000 troops
+      in the course of three-months for a possible mission in Venezuela, with most based
+      in Puerto Rico or are on-board ships. If Donald Trump decides to pursue a ground
+      invasion of Venezuela, US forces are likely to face an insurgent threat comparable
+      to what the US encountered in Iraq, only worse. Why worse? First there is the
+      terrain… Venezuela is covered with triple-canopy jungle and mountains. These geographic
+      features make it easy for insurgents to hide and carryout deadly ambushes. Second,
+      and related to the first, are the porous borders with Brazil and Colombia… Insurgents
+      can move easily across these borders and obtain resupply. This will get very ugly
+      for US troops if Trump orders them to deploy on the ground in Venezuela. Shifting
+      topics to Ukraine… The Russian ground forces are making rapid advances all along
+      the 1300 kilometer line of contact. In Donetsk, Russian forces are attacking from
+      multiple axes (northwest near Hryshyne, north near Rodynske, northeast near Chervonyi
+      Lyman, east near Rivne and Myrnohrad, southeast near Lysivka, southwest near Kotlyne).
+      Russian forces have made significant gains north of Pokrovsk and on southeastern
+      Hryshyne outskirts. Sticking with Donetsk, Russia also has launched ttacks near/within
+      Siversk, northwest near Dronivka, northeast near Serebryanka, south near Pereizne.
+      Russia also has seized 30% of Siversk. Russian forces are attacking multiple targets
+      in Dontesk, these include: Kostyantynivka, northeast near Chasiv Yar, southeast
+      near Toretsk, the seizure of Vesele along with attacks north near Yehorivka, east
+      near Zatyshshya, Oleksandrohrad, south near Stepove, and southwest near Verbove.
+      The situation is equally dire in the north in the Kharkiv region: Russia is attacking
+      within Vovchansk, near Synelnykove, Lyman, and Vilcha. Russia claims it has made
+      gains in southern Vovchansk. Russian forces using drones have cut infiltration
+      routes near Kupyansk and Holubivka. Attacks are continuing within Vovchansk, near
+      Synelnykove, Lyman, and Vilcha… Russia claims it has achieved important gains
+      in southern Vovchansk. I agree with Alexander Mercouris that it is no coincidence
+      that word of a possible peace pland deal leaked as the situation of Ukrainian
+      forces on the battlefield worsened. I did three podcasts today that have been
+      posted on YouTube — i.e., Nima, Danny Davis and Judge Napolitano: I thank you
+      for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: The article discusses the significant risks and challenges
+      the U.S. would face in a potential military invasion of Venezuela, highlighting
+      its larger and more diverse terrain compared to Iraq, which complicates any military
+      operation.
+    paragraph_summary: The article discusses the potential risks and challenges of a
+      US military invasion of Venezuela, comparing it to the 2003 invasion of Iraq.
+      It argues that military planners are likely aware of the significant difficulties
+      posed by Venezuela's larger size and diverse terrain, which includes mountains,
+      rainforests, and deltas, making it a more complex target than Iraq. While Iraq's
+      geographic features were less challenging and its population density was higher
+      due to urban centers, the US invasion there involved careful planning and a substantial
+      troop buildup. The article suggests that any military operation in Venezuela would
+      require similar, if not greater, logistical and strategic considerations, highlighting
+      the inherent risks of such an undertaking.
+    published: '2025-11-22T04:19:05+00:00'
+  - title: Putting Venezuela Into Perspective… A Massive Challenge Compared to Iraq,
+      While Russian Offensive Picks Up Steam
+    url: https://sonar21.com/putting-venezuela-into-perspective-a-massive-challenge-compared-to-iraq-while-russian-offensive-picks-up-steam/
+    text: 'Angel Falls in Venezuela As the US continues to build up its military forces
+      off the coast of Venezuela, it is worth asking about the risks associated with
+      an actual US invasion with ground forces. I think that US military planners, regardless
+      of what Donald Trump is saying, have cautioned their bosses about the extreme
+      risks that such an operation would entail. During my appearance today with Judge
+      Napolitano, I suggested we compare what a possible military operation inside Venezuela
+      would entail compared to our 2003 attack on Iraq… Venezuela is a much tougher
+      nut to crack than was Iraq. Venezuela covers roughly 2.02 times the land area
+      of Iraq (882,050 ÷ 437,367 ≈ 2.02). This makes it the 32nd largest country in
+      the world, while Iraq ranks 58th. Venezuela’s terrain is diverse, featuring the
+      Andes Mountains, Amazon rainforests, coastal plains, and the vast Orinoco Delta,
+      contributing to its expansive footprint. Iraq’s smaller size is dominated by the
+      Mesopotamian alluvial plains (fed by the Tigris and Euphrates rivers), northern
+      highlands, and western/southern deserts (covering about 40% of the country). Despite
+      its compact size, Iraq has a higher population density due to concentrated urban
+      centers like Baghdad and fertile river valleys. Let’s look backwards at the 2003
+      US invasion of Iraq, since Iraq is half the size of Venezuela and its geographic
+      features are less challenging than those that confront the US in Venezuela. The
+      US-led coalition invasion of Iraq, known as Operation Iraqi Freedom , began on
+      March 20, 2003 (March 19 in US time zones), with initial airstrikes followed by
+      ground operations on March 21. Assembling the necessary forces—approximately 130,000
+      US troops (out of a total coalition force of about 160,000, including 45,000 British)—was
+      a deliberate process driven by political, diplomatic, and logistical considerations.
+      The buildup was not from a standing start but built on pre-positioned equipment
+      and forces in the region. Covert preparations began in July 2002 with CIA Special
+      Activities Division (SAD) and MI6 paramilitary teams entering Iraq to scout and
+      prepare for larger forces. This included organizing Kurdish Peshmerga allies in
+      northern Iraq. By late 2002, following the US Congress’s October 8 authorization
+      for military force, initial troop rotations and equipment prepositioning accelerated
+      in Kuwait and other Gulf states. UN Security Council Resolution 1441 (November
+      8, 2002) heightened tensions, prompting a surge in deployments. US forces began
+      massing in Kuwait, with naval assets (e.g., carrier strike groups) positioning
+      in the Persian Gulf by December. Analysts noted this as the start of the “intensified”
+      phase, with logistics like sealift ships unloading cargo at ports such as Ash
+      Shuaybah. By February 18, 2003, around 100,000 US troops were assembled in Kuwait
+      alone, supported by 15,000 Navy personnel on regional ships. The buildup reached
+      full operational readiness by early March, coinciding with diplomatic efforts
+      (e.g., Colin Powell’s February 5 UN presentation on alleged Iraqi WMDs). President
+      Bush’s 48-hour ultimatum to Saddam Hussein on March 17 marked the final positioning.
+      The core assembly of combat-ready forces took approximately 3–4 months (from early
+      December 2002 to mid-March 2003), during which the US intensified deployments
+      in order to achieve overwhelming superiority. By comparison, the US buildup of
+      over 500,000 troops for the 1991 Gulf War took six-months. After launching the
+      invasion of Iraq on 20 March of 2003, it took the US six weeks to achieve what
+      George W. Bush christened as Mission Accomplished on 1 May. But we know how that
+      turned out… After defeating the Iraqi army, the US found itself ensnared in a
+      deadly insurgency. The insurgency in Iraq following the US-led invasion of March
+      2003 was a prolonged, multifaceted conflict involving Sunni Arab nationalists,
+      former Ba’athists, foreign jihadists (e.g., Al-Qaeda in Iraq), and later Shia
+      militias. It emerged from the power vacuum after Saddam Hussein’s regime fell,
+      fueled by the disbandment of Iraqi security forces, sectarian tensions, and resentment
+      toward the occupation. While violence evolved over time—with a peak in sectarian
+      civil war (2006–2008) and a decline after the 2007 US troop surge—historians and
+      analysts generally define its primary phase as lasting from mid-2003 until the
+      US withdrawal in December 2011, a total of approximately 8 years and 9 months
+      (or roughly 8.75 years). At present, the US reportedly has assembled 18,000 troops
+      in the course of three-months for a possible mission in Venezuela, with most based
+      in Puerto Rico or are on-board ships. If Donald Trump decides to pursue a ground
+      invasion of Venezuela, US forces are likely to face an insurgent threat comparable
+      to what the US encountered in Iraq, only worse. Why worse? First there is the
+      terrain… Venezuela is covered with triple-canopy jungle and mountains. These geographic
+      features make it easy for insurgents to hide and carryout deadly ambushes. Second,
+      and related to the first, are the porous borders with Brazil and Colombia… Insurgents
+      can move easily across these borders and obtain resupply. This will get very ugly
+      for US troops if Trump orders them to deploy on the ground in Venezuela. Shifting
+      topics to Ukraine… The Russian ground forces are making rapid advances all along
+      the 1300 kilometer line of contact. In Donetsk, Russian forces are attacking from
+      multiple axes (northwest near Hryshyne, north near Rodynske, northeast near Chervonyi
+      Lyman, east near Rivne and Myrnohrad, southeast near Lysivka, southwest near Kotlyne).
+      Russian forces have made significant gains north of Pokrovsk and on southeastern
+      Hryshyne outskirts. Sticking with Donetsk, Russia also has launched ttacks near/within
+      Siversk, northwest near Dronivka, northeast near Serebryanka, south near Pereizne.
+      Russia also has seized 30% of Siversk. Russian forces are attacking multiple targets
+      in Dontesk, these include: Kostyantynivka, northeast near Chasiv Yar, southeast
+      near Toretsk, the seizure of Vesele along with attacks north near Yehorivka, east
+      near Zatyshshya, Oleksandrohrad, south near Stepove, and southwest near Verbove.
+      The situation is equally dire in the north in the Kharkiv region: Russia is attacking
+      within Vovchansk, near Synelnykove, Lyman, and Vilcha. Russia claims it has made
+      gains in southern Vovchansk. Russian forces using drones have cut infiltration
+      routes near Kupyansk and Holubivka. Attacks are continuing within Vovchansk, near
+      Synelnykove, Lyman, and Vilcha… Russia claims it has achieved important gains
+      in southern Vovchansk. I agree with Alexander Mercouris that it is no coincidence
+      that word of a possible peace pland deal leaked as the situation of Ukrainian
+      forces on the battlefield worsened. I did three podcasts today that have been
+      posted on YouTube — i.e., Nima, Danny Davis and Judge Napolitano: I thank you
+      for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: The article discusses the significant risks and challenges
+      the U.S. would face in a potential military invasion of Venezuela, highlighting
+      its larger and more diverse terrain compared to Iraq, which complicates any military
+      operation.
+    paragraph_summary: The article discusses the potential risks and challenges of a
+      US military invasion of Venezuela, comparing it to the 2003 invasion of Iraq.
+      It argues that military planners are likely aware of the significant difficulties
+      posed by Venezuela's larger size and diverse terrain, which includes mountains,
+      rainforests, and deltas, making it a more complex target than Iraq. While Iraq's
+      geographic features were less challenging and its population density was higher
+      due to urban centers, the US invasion there involved careful planning and a substantial
+      troop buildup. The article suggests that any military operation in Venezuela would
+      require similar, if not greater, logistical and strategic considerations, highlighting
+      the inherent risks of such an undertaking.
+    published: '2025-11-22T04:19:05+00:00'
+  - title: The Alleged 28-Point Ukrainian and Russian Peace Plan
+    url: https://sonar21.com/the-alleged-28-point-ukrainian-and-russian-peace-plan/
+    text: 'A full version of the alleged 28-point US drafted peace plan to bring an
+      end to the war in Ukraine appeared on line courtesy of Ivan Katchanovski @I_Katchanovski
+      (you can read the original post on X here ). According to my friend, Pepe Escobar,
+      this document was leaked to the Russian press by Kiril Dimitriev. This proposal
+      is worse than I imagined. During an interview with Maria Zakharova that I hosted
+      on Wednesday, along with Alexander Kazakov and Pepe Escobar, she stated that the
+      Russian Foreign Ministry had not yet received an official copy of the proposal.
+      Once the proposed document is submitted to the Russian Foreign Ministry, I believe
+      that Sergei Lavrov will use careful diplomatic language welcoming it as a starting
+      point for negotiations, but there is no way in hell that Russia will agree to
+      this in its current form. Russia is winning on the battlefield and is confident
+      that it will prevail, not only over Ukraine, but over NATO. The proposed document
+      assumes that Russia is looking for a way out… It is not. The biggest problem with
+      this document is that it assumes that Russia and Ukraine are negotiating from
+      a position of equal strength. However, given the current collapse of the Ukrainian
+      military, it will be Russia who will dictate the terms. I have highlighted in
+      BOLD some of the more problematic portions of this document: 1. Ukraine’s sovereignty
+      will be confirmed. 2. A full and comprehensive non-aggression agreement will be
+      concluded between Russia, Ukraine, and Europe. All ambiguities of the past 30
+      years will be considered resolved. 3. It is expected that Russia will not invade
+      neighbouring countries and that NATO will not expand further. The word, expected,
+      is a major stumbling block… Russia will insist on an iron-clad guarantee that
+      NATO will end expansion and remove weapon systems from Romania and Poland that
+      are capable of launching nuclear missiles. 4. A dialogue will be conducted between
+      Russia and NATO, mediated by the United States, to resolve all security issues
+      and create conditions for de-escalation, thereby ensuring global security and
+      increasing opportunities for cooperation and future economic development. 5. Ukraine
+      will receive reliable security guarantees. 6. The size of the Armed Forces of
+      Ukraine will be limited to 600,000 personnel. In February 2022, at the start of
+      Russia’s special military operation, the total size of the Ukrainian military
+      was about 260,000–280,000 active-duty personnel, including all branches (ground
+      forces, air force, navy, airborne, marines, and special operations). There is
+      no way that Russia will agree to a 600,000 number. During the negotiations with
+      Ukraine in Istanbul in March 2022, Russia demanded a peacetime cap of 85,000 active
+      personnel for Ukraine’s armed forces, a figure far below Ukraine’s pre-war standing
+      army of approximately 200,000–250,000 troops. This was part of broader Russian
+      demands for demilitarization, including restrictions on tanks (e.g., fewer than
+      400), aircraft (e.g., 60–80 combat aircraft), missiles (range limited to 40 km),
+      and artillery systems. 7. Ukraine agrees to enshrine in its constitution that
+      it will not join NATO, and NATO agrees to include in its statutes a provision
+      that it will not accept Ukraine in the future. 8. NATO agrees not to deploy troops
+      in Ukraine. 9. European fighter aircraft will be stationed in Poland. I believe
+      that Russia will demand specific limitations on the type of NATO aircraft that
+      will be allowed in Poland. 10. U.S. Guarantees: The United States will receive
+      compensation for the guarantee. If Ukraine invades Russia, it will lose the guarantee.
+      If Russia invades Ukraine, in addition to a decisive coordinated military response,
+      all global sanctions will be reinstated, recognition of new territories and all
+      other benefits of this deal will be revoked. If Ukraine without cause launches
+      a missile at Moscow or Saint Petersburg, the security guarantee will be considered
+      invalid. As currently presented, this is a problem for Moscow, especially given
+      the history of NATO working with Ukrainian intelligence services to launch false
+      flag attacks . 11. Ukraine retains the right to EU membership and will receive
+      short-term preferential access to the European market while the issue is under
+      consideration. 12. A powerful global package of measures for the reconstruction
+      of Ukraine, including but not limited to: a. Creation of a Ukraine Development
+      Fund to invest in high-growth sectors, including technology, data-processing centres,
+      and artificial intelligence. b. The United States will cooperate with Ukraine
+      on the joint reconstruction, development, modernisation, and operation of Ukraine’s
+      gas infrastructure, including pipelines and storage facilities. c. Joint efforts
+      to restore war-affected territories, including the reconstruction and modernisation
+      of cities and residential areas. d. Infrastructure development. e. Extraction
+      of minerals and natural resources. f. The World Bank will develop a special financing
+      package to accelerate these efforts. 13. Russia will be reintegrated into the
+      global economy: a. The lifting of sanctions will be discussed and agreed upon
+      gradually and on an individual basis. b. The United States will conclude a long-term
+      economic cooperation agreement aimed at mutual development in the fields of energy,
+      natural resources, infrastructure, artificial intelligence, data-processing centres,
+      rare-earth mining projects in the Arctic, and other mutually beneficial corporate
+      opportunities. c. Russia will be invited to return to the G8. 14. Frozen assets
+      will be used in the following way: US$100 billion of frozen Russian assets will
+      be invested in U.S.-led reconstruction and investment efforts in Ukraine. The
+      United States will receive 50% of the profits from this undertaking. Europe will
+      add another US$100 billion to increase the total investment available for Ukraine’s
+      reconstruction. Frozen European assets will be unfrozen. The remaining frozen
+      Russian assets will be invested in a separate American-Russian investment vehicle
+      that will implement joint American-Russian projects in areas to be determined.
+      This fund will be aimed at strengthening bilateral relations and increasing shared
+      interests in order to create strong motivation not to return to conflict. Paragraphs
+      13 and 14 are delusional proposals. Russia will insist that all sanctions be lifted
+      immediately. Moreover, given the growing importance of BRICS , Russia has little
+      interest in “ returning to the G8 .” 15. A joint American-Russian working group
+      on security issues will be established to facilitate and ensure the fulfillment
+      of all provisions of this agreement. 16. Russia will legislatively enshrine a
+      policy of non-aggression toward Europe and Ukraine. 17. The United States and
+      Russia will agree to extend the validity of treaties on the non-proliferation
+      of nuclear weapons and arms control, including START-1. 18. Ukraine agrees to
+      remain a non-nuclear state in accordance with the Treaty on the Non-Proliferation
+      of Nuclear Weapons. 19. The Zaporizhzhia Nuclear Power Plant (ZNPP)will be restarted
+      under IAEA supervision, and the generated electricity will be split equally between
+      Russia and Ukraine (50:50). Paragraph 19 is a non-starter… ZNPP is officially
+      part of Russia and Russia will not share this with Ukraine. 20. Both countries
+      undertake to introduce educational programmes in schools and society that promote
+      understanding and tolerance of different cultures and the elimination of racism
+      and prejudice: a. Ukraine will adopt EU rules on religious tolerance and protection
+      of linguistic minorities. b. Both countries agree to lift all discriminatory measures
+      and to guarantee the rights of Ukrainian and Russian media and education. c. All
+      Nazi ideology and activity must be rejected and prohibited. 21. Territories: a.
+      Crimea, Luhansk, and Donetsk will be recognised de facto as Russian, including
+      by the United States. b. Kherson and Zaporizhzhia will be frozen along the line
+      of contact, which will mean de facto recognition along the line of contact. c.
+      Russia renounces other annexed territories (probably referring to Russian-occupied
+      parts of Kharkiv, Sumy, and Dnipropetrovsk oblasts – Ed.) that it controls outside
+      the five regions. d. Ukrainian forces will withdraw from the part of Donetsk oblast
+      they currently control; this withdrawal zone will be regarded as a neutral demilitarised
+      buffer zone, internationally recognised as territory belonging to the Russian
+      Federation. Russian forces will not enter this demilitarised zone. Russia is not
+      going to agree to freeze anything along the line of contact in Kherson and Zaporizhzhia…
+      Those territories are not constitutionally part of the Russia Federal Republic.
+      Russia also will not “renounce” its control over annexed territories… It will
+      insist that the people in those territories have the right to vote whether to
+      remain part of Ukraine or to become part of the Russian Federal Republic. 22.
+      After future territorial arrangements are agreed, both the Russian Federation
+      and Ukraine undertake not to change these arrangements by force. Any security
+      guarantees will not apply in the event of violation of this commitment. 23. Russia
+      will not obstruct Ukraine’s commercial use of the Dnipro River, and agreements
+      will be reached on the free transportation of grain across the Black Sea. Russia’s
+      control of Kherson and Zaporizhzhia gives it de facto control of the Dnipro River…
+      Russia is not going to surrender control of that to a Ukraine that is aligned
+      with the West. 24. A humanitarian committee will be created to resolve outstanding
+      issues: a. All remaining prisoners and bodies will be exchanged on the “all-for-all”
+      principle. b. All civilian detainees and hostages will be returned, including
+      children. c. A family reunification programme will be implemented. d. Measures
+      will be taken to alleviate the suffering of conflict victims. 25. Ukraine will
+      hold elections 100 days after the agreement is signed. 26. All parties involved
+      in the conflict will receive full amnesty for actions committed during the war
+      and will undertake not to file claims or pursue complaints in the future. I do
+      not believe that Russia will agree to full amnesty . 27. This agreement will be
+      legally binding. Its implementation will be monitored and guaranteed by a Peace
+      Council headed by President Trump. Predetermined sanctions will apply in the event
+      of violations. 28. Once all parties have agreed to and signed this memorandum,
+      the ceasefire will enter into force immediately after both sides withdraw to the
+      agreed positions so that implementation of the agreement can begin. There is that
+      word again: ceasefire. Putin’s position on this matter was presented on June 14,
+      2024. Russia will insist on Ukraine’s demilitarization… Short of that, there is
+      no viable path forward for negotiations. Russia is not going to put its security
+      in the hands of Donald Trump. He is a lame duck leader and there is no guarantee
+      on the table that will satisfy the Russians that this proposed agreement would
+      be enforced by his successor. Here is the video of the interview with Maria Zakharova
+      and General Apti Aluadinov (Note — The video is huge and it will take some time
+      for it to upload: I thank you for your invaluable support by taking time to read
+      or comment. I do not charge a subscription fee nor do I accept advertising. I
+      want the content to be accessible to everyone interested in the issues I am discussing.
+      However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: A leaked 28-point US peace plan for Ukraine, which has not
+      yet been officially received by the Russian Foreign Ministry, is viewed as unacceptable
+      by Russia, which remains confident in its military position and unlikely to agree
+      to the proposal in its current form.
+    paragraph_summary: A leaked 28-point US-drafted peace plan aimed at ending the war
+      in Ukraine has surfaced online, revealing proposals that are deemed unacceptable
+      by Russia, according to analysts. The document, shared by Ivan Katchanovski and
+      reportedly leaked by Kiril Dimitriev, has not been officially received by the
+      Russian Foreign Ministry, which suggests that while Russia may diplomatically
+      acknowledge it as a starting point for negotiations, it is unlikely to agree to
+      its terms. The plan is criticized for assuming an equal negotiating position between
+      Russia and Ukraine, despite the latter's military collapse. Key contentious points
+      include the confirmation of Ukraine's sovereignty, a non-aggression agreement,
+      and expectations regarding NATO's expansion and military presence in Eastern Europe,
+      which Russia views as inadequate and insists on more stringent guarantees. Overall,
+      the document reflects a significant misalignment in the current geopolitical landscape,
+      with Russia asserting its dominance on the battlefield.
+    published: '2025-11-21T04:55:34+00:00'
+  - title: The Alleged 28-Point Ukrainian and Russian Peace Plan
+    url: https://sonar21.com/the-alleged-28-point-ukrainian-and-russian-peace-plan/
+    text: 'A full version of the alleged 28-point US drafted peace plan to bring an
+      end to the war in Ukraine appeared on line courtesy of Ivan Katchanovski @I_Katchanovski
+      (you can read the original post on X here ). According to my friend, Pepe Escobar,
+      this document was leaked to the Russian press by Kiril Dimitriev. This proposal
+      is worse than I imagined. During an interview with Maria Zakharova that I hosted
+      on Wednesday, along with Alexander Kazakov and Pepe Escobar, she stated that the
+      Russian Foreign Ministry had not yet received an official copy of the proposal.
+      Once the proposed document is submitted to the Russian Foreign Ministry, I believe
+      that Sergei Lavrov will use careful diplomatic language welcoming it as a starting
+      point for negotiations, but there is no way in hell that Russia will agree to
+      this in its current form. Russia is winning on the battlefield and is confident
+      that it will prevail, not only over Ukraine, but over NATO. The proposed document
+      assumes that Russia is looking for a way out… It is not. The biggest problem with
+      this document is that it assumes that Russia and Ukraine are negotiating from
+      a position of equal strength. However, given the current collapse of the Ukrainian
+      military, it will be Russia who will dictate the terms. I have highlighted in
+      BOLD some of the more problematic portions of this document: 1. Ukraine’s sovereignty
+      will be confirmed. 2. A full and comprehensive non-aggression agreement will be
+      concluded between Russia, Ukraine, and Europe. All ambiguities of the past 30
+      years will be considered resolved. 3. It is expected that Russia will not invade
+      neighbouring countries and that NATO will not expand further. The word, expected,
+      is a major stumbling block… Russia will insist on an iron-clad guarantee that
+      NATO will end expansion and remove weapon systems from Romania and Poland that
+      are capable of launching nuclear missiles. 4. A dialogue will be conducted between
+      Russia and NATO, mediated by the United States, to resolve all security issues
+      and create conditions for de-escalation, thereby ensuring global security and
+      increasing opportunities for cooperation and future economic development. 5. Ukraine
+      will receive reliable security guarantees. 6. The size of the Armed Forces of
+      Ukraine will be limited to 600,000 personnel. In February 2022, at the start of
+      Russia’s special military operation, the total size of the Ukrainian military
+      was about 260,000–280,000 active-duty personnel, including all branches (ground
+      forces, air force, navy, airborne, marines, and special operations). There is
+      no way that Russia will agree to a 600,000 number. During the negotiations with
+      Ukraine in Istanbul in March 2022, Russia demanded a peacetime cap of 85,000 active
+      personnel for Ukraine’s armed forces, a figure far below Ukraine’s pre-war standing
+      army of approximately 200,000–250,000 troops. This was part of broader Russian
+      demands for demilitarization, including restrictions on tanks (e.g., fewer than
+      400), aircraft (e.g., 60–80 combat aircraft), missiles (range limited to 40 km),
+      and artillery systems. 7. Ukraine agrees to enshrine in its constitution that
+      it will not join NATO, and NATO agrees to include in its statutes a provision
+      that it will not accept Ukraine in the future. 8. NATO agrees not to deploy troops
+      in Ukraine. 9. European fighter aircraft will be stationed in Poland. I believe
+      that Russia will demand specific limitations on the type of NATO aircraft that
+      will be allowed in Poland. 10. U.S. Guarantees: The United States will receive
+      compensation for the guarantee. If Ukraine invades Russia, it will lose the guarantee.
+      If Russia invades Ukraine, in addition to a decisive coordinated military response,
+      all global sanctions will be reinstated, recognition of new territories and all
+      other benefits of this deal will be revoked. If Ukraine without cause launches
+      a missile at Moscow or Saint Petersburg, the security guarantee will be considered
+      invalid. As currently presented, this is a problem for Moscow, especially given
+      the history of NATO working with Ukrainian intelligence services to launch false
+      flag attacks . 11. Ukraine retains the right to EU membership and will receive
+      short-term preferential access to the European market while the issue is under
+      consideration. 12. A powerful global package of measures for the reconstruction
+      of Ukraine, including but not limited to: a. Creation of a Ukraine Development
+      Fund to invest in high-growth sectors, including technology, data-processing centres,
+      and artificial intelligence. b. The United States will cooperate with Ukraine
+      on the joint reconstruction, development, modernisation, and operation of Ukraine’s
+      gas infrastructure, including pipelines and storage facilities. c. Joint efforts
+      to restore war-affected territories, including the reconstruction and modernisation
+      of cities and residential areas. d. Infrastructure development. e. Extraction
+      of minerals and natural resources. f. The World Bank will develop a special financing
+      package to accelerate these efforts. 13. Russia will be reintegrated into the
+      global economy: a. The lifting of sanctions will be discussed and agreed upon
+      gradually and on an individual basis. b. The United States will conclude a long-term
+      economic cooperation agreement aimed at mutual development in the fields of energy,
+      natural resources, infrastructure, artificial intelligence, data-processing centres,
+      rare-earth mining projects in the Arctic, and other mutually beneficial corporate
+      opportunities. c. Russia will be invited to return to the G8. 14. Frozen assets
+      will be used in the following way: US$100 billion of frozen Russian assets will
+      be invested in U.S.-led reconstruction and investment efforts in Ukraine. The
+      United States will receive 50% of the profits from this undertaking. Europe will
+      add another US$100 billion to increase the total investment available for Ukraine’s
+      reconstruction. Frozen European assets will be unfrozen. The remaining frozen
+      Russian assets will be invested in a separate American-Russian investment vehicle
+      that will implement joint American-Russian projects in areas to be determined.
+      This fund will be aimed at strengthening bilateral relations and increasing shared
+      interests in order to create strong motivation not to return to conflict. Paragraphs
+      13 and 14 are delusional proposals. Russia will insist that all sanctions be lifted
+      immediately. Moreover, given the growing importance of BRICS , Russia has little
+      interest in “ returning to the G8 .” 15. A joint American-Russian working group
+      on security issues will be established to facilitate and ensure the fulfillment
+      of all provisions of this agreement. 16. Russia will legislatively enshrine a
+      policy of non-aggression toward Europe and Ukraine. 17. The United States and
+      Russia will agree to extend the validity of treaties on the non-proliferation
+      of nuclear weapons and arms control, including START-1. 18. Ukraine agrees to
+      remain a non-nuclear state in accordance with the Treaty on the Non-Proliferation
+      of Nuclear Weapons. 19. The Zaporizhzhia Nuclear Power Plant (ZNPP)will be restarted
+      under IAEA supervision, and the generated electricity will be split equally between
+      Russia and Ukraine (50:50). Paragraph 19 is a non-starter… ZNPP is officially
+      part of Russia and Russia will not share this with Ukraine. 20. Both countries
+      undertake to introduce educational programmes in schools and society that promote
+      understanding and tolerance of different cultures and the elimination of racism
+      and prejudice: a. Ukraine will adopt EU rules on religious tolerance and protection
+      of linguistic minorities. b. Both countries agree to lift all discriminatory measures
+      and to guarantee the rights of Ukrainian and Russian media and education. c. All
+      Nazi ideology and activity must be rejected and prohibited. 21. Territories: a.
+      Crimea, Luhansk, and Donetsk will be recognised de facto as Russian, including
+      by the United States. b. Kherson and Zaporizhzhia will be frozen along the line
+      of contact, which will mean de facto recognition along the line of contact. c.
+      Russia renounces other annexed territories (probably referring to Russian-occupied
+      parts of Kharkiv, Sumy, and Dnipropetrovsk oblasts – Ed.) that it controls outside
+      the five regions. d. Ukrainian forces will withdraw from the part of Donetsk oblast
+      they currently control; this withdrawal zone will be regarded as a neutral demilitarised
+      buffer zone, internationally recognised as territory belonging to the Russian
+      Federation. Russian forces will not enter this demilitarised zone. Russia is not
+      going to agree to freeze anything along the line of contact in Kherson and Zaporizhzhia…
+      Those territories are not constitutionally part of the Russia Federal Republic.
+      Russia also will not “renounce” its control over annexed territories… It will
+      insist that the people in those territories have the right to vote whether to
+      remain part of Ukraine or to become part of the Russian Federal Republic. 22.
+      After future territorial arrangements are agreed, both the Russian Federation
+      and Ukraine undertake not to change these arrangements by force. Any security
+      guarantees will not apply in the event of violation of this commitment. 23. Russia
+      will not obstruct Ukraine’s commercial use of the Dnipro River, and agreements
+      will be reached on the free transportation of grain across the Black Sea. Russia’s
+      control of Kherson and Zaporizhzhia gives it de facto control of the Dnipro River…
+      Russia is not going to surrender control of that to a Ukraine that is aligned
+      with the West. 24. A humanitarian committee will be created to resolve outstanding
+      issues: a. All remaining prisoners and bodies will be exchanged on the “all-for-all”
+      principle. b. All civilian detainees and hostages will be returned, including
+      children. c. A family reunification programme will be implemented. d. Measures
+      will be taken to alleviate the suffering of conflict victims. 25. Ukraine will
+      hold elections 100 days after the agreement is signed. 26. All parties involved
+      in the conflict will receive full amnesty for actions committed during the war
+      and will undertake not to file claims or pursue complaints in the future. I do
+      not believe that Russia will agree to full amnesty . 27. This agreement will be
+      legally binding. Its implementation will be monitored and guaranteed by a Peace
+      Council headed by President Trump. Predetermined sanctions will apply in the event
+      of violations. 28. Once all parties have agreed to and signed this memorandum,
+      the ceasefire will enter into force immediately after both sides withdraw to the
+      agreed positions so that implementation of the agreement can begin. There is that
+      word again: ceasefire. Putin’s position on this matter was presented on June 14,
+      2024. Russia will insist on Ukraine’s demilitarization… Short of that, there is
+      no viable path forward for negotiations. Russia is not going to put its security
+      in the hands of Donald Trump. He is a lame duck leader and there is no guarantee
+      on the table that will satisfy the Russians that this proposed agreement would
+      be enforced by his successor. Here is the video of the interview with Maria Zakharova
+      and General Apti Aluadinov (Note — The video is huge and it will take some time
+      for it to upload: I thank you for your invaluable support by taking time to read
+      or comment. I do not charge a subscription fee nor do I accept advertising. I
+      want the content to be accessible to everyone interested in the issues I am discussing.
+      However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: A leaked 28-point US peace plan for Ukraine, which has not
+      yet been officially received by the Russian Foreign Ministry, is viewed as unacceptable
+      by Russia, which remains confident in its military position and unlikely to agree
+      to the proposal in its current form.
+    paragraph_summary: A leaked 28-point US-drafted peace plan aimed at ending the war
+      in Ukraine has surfaced online, revealing proposals that are deemed unacceptable
+      by Russia, according to analysts. The document, shared by Ivan Katchanovski and
+      reportedly leaked by Kiril Dimitriev, has not been officially received by the
+      Russian Foreign Ministry, which suggests that while Russia may diplomatically
+      acknowledge it as a starting point for negotiations, it is unlikely to agree to
+      its terms. The plan is criticized for assuming an equal negotiating position between
+      Russia and Ukraine, despite the latter's military collapse. Key contentious points
+      include the confirmation of Ukraine's sovereignty, a non-aggression agreement,
+      and expectations regarding NATO's expansion and military presence in Eastern Europe,
+      which Russia views as inadequate and insists on more stringent guarantees. Overall,
+      the document reflects a significant misalignment in the current geopolitical landscape,
+      with Russia asserting its dominance on the battlefield.
+    published: '2025-11-21T04:55:34+00:00'
+  - title: Watch “Larry Johnson’s Flying Circus vs Comfy Chairs from Hell”
+    url: https://sonar21.com/watch-larry-johnsons-flying-circus-vs-comfy-chairs-from-hell/
+    text: 'CLICK HERE to watch this new episode from Quixote News featuring Larry Johnson!
+      In this Pythonesque satire, Larry drops in on the Quixote News Network (QNN) to
+      join the Dude of la Mancha and Rosie, in poking some mischievous fun at the numbingly
+      comfortable lies that giant media propaganda mills are spinning about the genocide
+      in Gaza. Quixote News Network (QNN) Links: • View this episode on Youtube: youtu.be/WUXAGsOllmw
+      • Visit our Youtube channel: www.youtube.com/@QuixoteNews • Join us on Facebook:
+      www.facebook.com/groups/quixote.news • Who animated this? uwontario.academia.edu/richardsanders
+      • Where did QNN come from? coat.ncf.ca In this episode: Characters, Core Concepts
+      and Plots Larry Johnson: This show celebrates former CIA intel analyst, Larry
+      Johnson. With a knack for speaking truth to power and a lightness of being reflected
+      in his stylish flamboyance, Larry sails through interviews like a Kung-fu master.
+      As we learn in this episode, Larry also has an amazing ability to do voice impressions
+      of Monty Python characters. This may or may not have been useful in his secret
+      work for the CIA. But that’s classified… and plausibly deniable. Don Quixote:
+      Our trusty anchorman, Don Quixote, having traded his noble steed for a news desk,
+      takes the reins and leads us down some seriously surreal comedic paths (and rabbit
+      holes). His team’s playful animations deploy moving collages that reflect a millennium
+      of cultural icons from medieval Christian images of hell, to the fake paradise
+      of TV’s “Gullible’s Island.” And then there’s QNN’s unexpected use of Archie Bunker’s
+      sacrosanct chair as a standby prop in the Python’s Spanish-Inquisition skit. Larry’s
+      Flying Circus : In Larry’s Flying-Circus scene, irreverent fun is poked at smiley-faced,
+      hot-air balloon presidents, whose two war parties have, with the greatest of ease,
+      foisted righteous-war spectacles on the world. How better to justify killing millions
+      of innocent people, in one genocide after another, than by spreading inflated
+      war pretexts fueled by steaming heaps of dung? And, if that didn’t prove their
+      kindness enough, the diabolically-nice Pentagon has handed out its hegemonic hypocrisy
+      with happy helpings of peace, democracy, destruction and corporate greed. Rosie,
+      the Riveting Reporter: In this show, Quixote’s rural sidekick, Sancho Panza, is
+      replaced with a true force of urban nature, the sweet Dulcinea, aka Rosie the
+      Riveting Reporter. Her hard-hitting, no-nonsense, industrial-strength style provides
+      rough-and-ready knock-out strike to anything even smacking of political BS. By
+      using her red microphone to take direct action, Rosie goes beyond questioning
+      authority and adds a strong-arm slapstick smirk to QNN’s in-your-face advocacy
+      journalism. Quest for the Holy Grail of Satire: Walking the razor’s edge of effective
+      political satire is a quixotic task. The struggle to expose societal contradictions,
+      to debunk the ludicrous myths spread by power elites, and to provoke political
+      change can be done dryly with a chill, straight-faced analytical calm. However,
+      that might be boring! Surely our sacred expedition could benefit from some laughter.
+      Humor can help relieve the pent-up stress of activists who wage seemingly endless,
+      futile struggles. Punchlines can also be used to expose the absurd contradictions
+      within hypocritical double standards, to provoke cognitive dissonance, and to
+      catalyze the public rejection of official lies and deceptions. What happens when
+      Comfy Chairs meet Killer Jokes? This episode’s recurring comfy-chair motif is
+      a visual metaphor symbolizing the deceitful narratives that are used to numb people
+      into being comfortable with their support for imperialist wars of aggression.
+      The show concludes by furnishing Monty Python’s “killer joke” skit with Archie’s
+      chair from the Spanish Inquisition’s torture chamber. This fake-news mockumentary
+      presents the story that humor was weaponized by British forces to fight Nazism.
+      This phony recounting of WWII states that after “peace broke out” in 1945, “joke
+      warfare was banned at a special session of the Geneva Convention.” The skit concludes
+      with QNN putting its own unique animated spin on the Python’s deliberate miscaptioning
+      of a raving speech by Hitler. Join the Quixotic Quest! QNN’s relentless mission
+      to find the elusive holy grail of political satire, with its wondrously miraculous
+      societal-healing qualities, will no doubt be a spectacular failure, but let’s
+      keep that our little secret! In the meantime, please join us in this senseless
+      pursuit of a magically-potent animation that can be wielded in our struggle to
+      stop “the violence inherent in the system” (Dennis the peasant, Monty Python and
+      the Holy Grail, 1975). If such an enchanted devise even exists, its dramatic impact
+      will be like a figurative “whoopie cushion” that will knock the folk out of their
+      soft chairs, make them jump into action and take a firm stand against con artists
+      whose institutions dupe people into sitting idly by and doing nothing when all
+      hell is breaking loose! These and many other credits appear at the end of this
+      QNN episode : Music • “En la plaza de mi pueblo,” with lyrics attributed to Spain’s
+      CNT-FAI union during the fight against Franco, 1936-39, is based on Spanish folk
+      melody, “El Café de Chinitas.” Performed by Coro Popular Jabalón, 1977. • John
+      Philip Sousa’s “The Liberty Bell,” 1889, and “In Memoriam,” 1881. Performed by
+      The President’s Own Marine Band, 2015. • “Hail to the Chief,” c.1812, was adapted
+      by James Sanderson from a Scottish Gaelic melody. • “SCP-x1x (Gateway to Hell),”
+      by Kevin MacLeod, 2020. incompetech.com • “Female Sacred,” by daniloprates, 2012.
+      Larry’s voice was excerpted from these excellent channels • “Counter Currents”
+      Larry Johnson www.youtube.com/@counter_currents_channel • “Dialogue Works” Nima
+      Alkhorshid www.youtube.com/@dialogueworks01 • “Geopolitics” Danny Haiphong www.youtube.com/@geopoliticshaiphong
+      • “Mother of all Talk Shows” George Galloway www.youtube.com/@GeorgeGallowayOfficial
+      • “EXPAT American” Joseph Rose www.youtube.com/@expatamerican3234'
+    one_sentence_summary: In a satirical episode of Quixote News, Larry Johnson humorously
+      critiques the misleading narratives propagated by mainstream media regarding the
+      genocide in Gaza, alongside characters like the Dude of la Mancha and Rosie.
+    paragraph_summary: In a new episode of Quixote News featuring former CIA analyst
+      Larry Johnson, the show employs Pythonesque satire to critique the misleading
+      narratives propagated by mainstream media regarding the genocide in Gaza. Joined
+      by the whimsical characters of Don Quixote and Rosie, Johnson uses humor and voice
+      impressions to navigate through absurdities in media reporting, while the show's
+      playful animations juxtapose cultural icons and historical references. The episode
+      highlights the surreal nature of political discourse, mocking the justifications
+      for war and the complacency of audiences in the face of global atrocities, all
+      while maintaining a light-hearted and irreverent tone.
+    published: '2025-11-20T16:43:57+00:00'
+  - title: Watch “Larry Johnson’s Flying Circus vs Comfy Chairs from Hell”
+    url: https://sonar21.com/watch-larry-johnsons-flying-circus-vs-comfy-chairs-from-hell/
+    text: 'CLICK HERE to watch this new episode from Quixote News featuring Larry Johnson!
+      In this Pythonesque satire, Larry drops in on the Quixote News Network (QNN) to
+      join the Dude of la Mancha and Rosie, in poking some mischievous fun at the numbingly
+      comfortable lies that giant media propaganda mills are spinning about the genocide
+      in Gaza. Quixote News Network (QNN) Links: • View this episode on Youtube: youtu.be/WUXAGsOllmw
+      • Visit our Youtube channel: www.youtube.com/@QuixoteNews • Join us on Facebook:
+      www.facebook.com/groups/quixote.news • Who animated this? uwontario.academia.edu/richardsanders
+      • Where did QNN come from? coat.ncf.ca In this episode: Characters, Core Concepts
+      and Plots Larry Johnson: This show celebrates former CIA intel analyst, Larry
+      Johnson. With a knack for speaking truth to power and a lightness of being reflected
+      in his stylish flamboyance, Larry sails through interviews like a Kung-fu master.
+      As we learn in this episode, Larry also has an amazing ability to do voice impressions
+      of Monty Python characters. This may or may not have been useful in his secret
+      work for the CIA. But that’s classified… and plausibly deniable. Don Quixote:
+      Our trusty anchorman, Don Quixote, having traded his noble steed for a news desk,
+      takes the reins and leads us down some seriously surreal comedic paths (and rabbit
+      holes). His team’s playful animations deploy moving collages that reflect a millennium
+      of cultural icons from medieval Christian images of hell, to the fake paradise
+      of TV’s “Gullible’s Island.” And then there’s QNN’s unexpected use of Archie Bunker’s
+      sacrosanct chair as a standby prop in the Python’s Spanish-Inquisition skit. Larry’s
+      Flying Circus : In Larry’s Flying-Circus scene, irreverent fun is poked at smiley-faced,
+      hot-air balloon presidents, whose two war parties have, with the greatest of ease,
+      foisted righteous-war spectacles on the world. How better to justify killing millions
+      of innocent people, in one genocide after another, than by spreading inflated
+      war pretexts fueled by steaming heaps of dung? And, if that didn’t prove their
+      kindness enough, the diabolically-nice Pentagon has handed out its hegemonic hypocrisy
+      with happy helpings of peace, democracy, destruction and corporate greed. Rosie,
+      the Riveting Reporter: In this show, Quixote’s rural sidekick, Sancho Panza, is
+      replaced with a true force of urban nature, the sweet Dulcinea, aka Rosie the
+      Riveting Reporter. Her hard-hitting, no-nonsense, industrial-strength style provides
+      rough-and-ready knock-out strike to anything even smacking of political BS. By
+      using her red microphone to take direct action, Rosie goes beyond questioning
+      authority and adds a strong-arm slapstick smirk to QNN’s in-your-face advocacy
+      journalism. Quest for the Holy Grail of Satire: Walking the razor’s edge of effective
+      political satire is a quixotic task. The struggle to expose societal contradictions,
+      to debunk the ludicrous myths spread by power elites, and to provoke political
+      change can be done dryly with a chill, straight-faced analytical calm. However,
+      that might be boring! Surely our sacred expedition could benefit from some laughter.
+      Humor can help relieve the pent-up stress of activists who wage seemingly endless,
+      futile struggles. Punchlines can also be used to expose the absurd contradictions
+      within hypocritical double standards, to provoke cognitive dissonance, and to
+      catalyze the public rejection of official lies and deceptions. What happens when
+      Comfy Chairs meet Killer Jokes? This episode’s recurring comfy-chair motif is
+      a visual metaphor symbolizing the deceitful narratives that are used to numb people
+      into being comfortable with their support for imperialist wars of aggression.
+      The show concludes by furnishing Monty Python’s “killer joke” skit with Archie’s
+      chair from the Spanish Inquisition’s torture chamber. This fake-news mockumentary
+      presents the story that humor was weaponized by British forces to fight Nazism.
+      This phony recounting of WWII states that after “peace broke out” in 1945, “joke
+      warfare was banned at a special session of the Geneva Convention.” The skit concludes
+      with QNN putting its own unique animated spin on the Python’s deliberate miscaptioning
+      of a raving speech by Hitler. Join the Quixotic Quest! QNN’s relentless mission
+      to find the elusive holy grail of political satire, with its wondrously miraculous
+      societal-healing qualities, will no doubt be a spectacular failure, but let’s
+      keep that our little secret! In the meantime, please join us in this senseless
+      pursuit of a magically-potent animation that can be wielded in our struggle to
+      stop “the violence inherent in the system” (Dennis the peasant, Monty Python and
+      the Holy Grail, 1975). If such an enchanted devise even exists, its dramatic impact
+      will be like a figurative “whoopie cushion” that will knock the folk out of their
+      soft chairs, make them jump into action and take a firm stand against con artists
+      whose institutions dupe people into sitting idly by and doing nothing when all
+      hell is breaking loose! These and many other credits appear at the end of this
+      QNN episode : Music • “En la plaza de mi pueblo,” with lyrics attributed to Spain’s
+      CNT-FAI union during the fight against Franco, 1936-39, is based on Spanish folk
+      melody, “El Café de Chinitas.” Performed by Coro Popular Jabalón, 1977. • John
+      Philip Sousa’s “The Liberty Bell,” 1889, and “In Memoriam,” 1881. Performed by
+      The President’s Own Marine Band, 2015. • “Hail to the Chief,” c.1812, was adapted
+      by James Sanderson from a Scottish Gaelic melody. • “SCP-x1x (Gateway to Hell),”
+      by Kevin MacLeod, 2020. incompetech.com • “Female Sacred,” by daniloprates, 2012.
+      Larry’s voice was excerpted from these excellent channels • “Counter Currents”
+      Larry Johnson www.youtube.com/@counter_currents_channel • “Dialogue Works” Nima
+      Alkhorshid www.youtube.com/@dialogueworks01 • “Geopolitics” Danny Haiphong www.youtube.com/@geopoliticshaiphong
+      • “Mother of all Talk Shows” George Galloway www.youtube.com/@GeorgeGallowayOfficial
+      • “EXPAT American” Joseph Rose www.youtube.com/@expatamerican3234'
+    one_sentence_summary: In a satirical episode of Quixote News, Larry Johnson humorously
+      critiques the misleading narratives propagated by mainstream media regarding the
+      genocide in Gaza, alongside characters like the Dude of la Mancha and Rosie.
+    paragraph_summary: In a new episode of Quixote News featuring former CIA analyst
+      Larry Johnson, the show employs Pythonesque satire to critique the misleading
+      narratives propagated by mainstream media regarding the genocide in Gaza. Joined
+      by the whimsical characters of Don Quixote and Rosie, Johnson uses humor and voice
+      impressions to navigate through absurdities in media reporting, while the show's
+      playful animations juxtapose cultural icons and historical references. The episode
+      highlights the surreal nature of political discourse, mocking the justifications
+      for war and the complacency of audiences in the face of global atrocities, all
+      while maintaining a light-hearted and irreverent tone.
+    published: '2025-11-20T16:43:57+00:00'
+  - title: Trump’s 28-Point Peace Plan for Ukraine is Dead On Arrival
+    url: https://sonar21.com/trumps-28-point-peace-plan-for-ukraine-is-dead-on-arrival/
+    text: 'Ok. The plan to end the war in Ukraine  is not Trump’s… It reportedly was
+      crafted by Trump’s man, Steve Witkoff. The key territorial provisions in Witkoff’s
+      proposed Ukrainian peace plan primarily involve significant concessions by Ukraine
+      to Russia. The plan reportedly includes Ukraine relinquishing control over the
+      entire eastern Donbas region, which means including areas currently occupied by
+      Russia as well as parts not under Russian occupation. However, the plan also calls
+      for Russia to freeze its forces in place in Kherson and Zaporhyzhia and to withdraw
+      Russian forces from Kharkiv and Sumy. That is a non-starter for Russia. According
+      to Oliver Carroll — a reporter for The Economist — the Ukrainians also are not
+      thrilled with Witkoff’s plan : The plan, they say, is a 28-point document aimed
+      largely at curbing Ukraine’s military power once the war ends. It envisages a
+      reduction in the number of Ukrainian troops to just 40% of the current level,
+      with no corresponding cut on the Russian side. Ukraine would be required to cede
+      yet more territory, beyond the large parts of its east and south already occupied
+      by Russia. It would be barred from possessing several classes of weapons, including
+      long-range systems capable of reaching Moscow and St Petersburg. No foreign troops
+      would be allowed on Ukrainian soil. Planes used by foreign diplomats would be
+      prohibited from flying to Ukraine, raising questions as to Russia’s intentions
+      for Ukrainian airspace. Ukraine would also be required to designate Russian as
+      a second state language, and the local branch of the Russian Orthodox Church,
+      disbanded over Ukrainian charges that it is a tool of Kremlin propaganda and espionage,
+      would be restored. The demands are far-fetched. Ukrainians see most of them as
+      non-starters. The country’s forces have been battered on the battlefield lately,
+      but Russia has not achieved a serious operational breakthrough since 2022. Military
+      analysts do not see Ukraine’s position as being so desperate that Mr Zelensky
+      would need to agree to such punishing terms. Zelensky will not have a choice…
+      The Russian ground forces are advancing rapidly all along the 1000-mile line of
+      contact. This is one other reason that makes it unlikely that Russia will agree
+      to a Witkoff proposal that requires them to give up captured territory. I thank
+      you for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: A proposed peace plan for Ukraine, crafted by Steve Witkoff,
+      suggests significant territorial concessions from Ukraine to Russia, including
+      relinquishing control over the Donbas region, while also calling for a freeze
+      of Russian forces in certain areas, but it has faced rejection from both Russia
+      and Ukraine due to its unfavorable terms.
+    paragraph_summary: The proposed peace plan for Ukraine, reportedly crafted by Steve
+      Witkoff, a close associate of Donald Trump, suggests significant territorial concessions
+      from Ukraine to Russia, including the relinquishment of the entire eastern Donbas
+      region and further territory. While it calls for Russia to freeze its forces in
+      certain areas and withdraw from Kharkiv and Sumy, these terms are deemed unacceptable
+      by Russia. The 28-point plan also aims to reduce Ukraine's military capabilities,
+      limiting its troops to 40% of current levels without similar reductions for Russia,
+      and imposes restrictions on Ukraine's weaponry and foreign military presence.
+      Additionally, it requires the designation of Russian as a second state language
+      and the restoration of the local Russian Orthodox Church, which many Ukrainians
+      view as unrealistic and unacceptable. Despite recent battlefield challenges, military
+      analysts suggest that Ukraine's situation is not as dire as the plan implies.
+    published: '2025-11-20T07:24:40+00:00'
+  - title: Trump’s 28-Point Peace Plan for Ukraine is Dead On Arrival
+    url: https://sonar21.com/trumps-28-point-peace-plan-for-ukraine-is-dead-on-arrival/
+    text: 'Ok. The plan to end the war in Ukraine  is not Trump’s… It reportedly was
+      crafted by Trump’s man, Steve Witkoff. The key territorial provisions in Witkoff’s
+      proposed Ukrainian peace plan primarily involve significant concessions by Ukraine
+      to Russia. The plan reportedly includes Ukraine relinquishing control over the
+      entire eastern Donbas region, which means including areas currently occupied by
+      Russia as well as parts not under Russian occupation. However, the plan also calls
+      for Russia to freeze its forces in place in Kherson and Zaporhyzhia and to withdraw
+      Russian forces from Kharkiv and Sumy. That is a non-starter for Russia. According
+      to Oliver Carroll — a reporter for The Economist — the Ukrainians also are not
+      thrilled with Witkoff’s plan : The plan, they say, is a 28-point document aimed
+      largely at curbing Ukraine’s military power once the war ends. It envisages a
+      reduction in the number of Ukrainian troops to just 40% of the current level,
+      with no corresponding cut on the Russian side. Ukraine would be required to cede
+      yet more territory, beyond the large parts of its east and south already occupied
+      by Russia. It would be barred from possessing several classes of weapons, including
+      long-range systems capable of reaching Moscow and St Petersburg. No foreign troops
+      would be allowed on Ukrainian soil. Planes used by foreign diplomats would be
+      prohibited from flying to Ukraine, raising questions as to Russia’s intentions
+      for Ukrainian airspace. Ukraine would also be required to designate Russian as
+      a second state language, and the local branch of the Russian Orthodox Church,
+      disbanded over Ukrainian charges that it is a tool of Kremlin propaganda and espionage,
+      would be restored. The demands are far-fetched. Ukrainians see most of them as
+      non-starters. The country’s forces have been battered on the battlefield lately,
+      but Russia has not achieved a serious operational breakthrough since 2022. Military
+      analysts do not see Ukraine’s position as being so desperate that Mr Zelensky
+      would need to agree to such punishing terms. Zelensky will not have a choice…
+      The Russian ground forces are advancing rapidly all along the 1000-mile line of
+      contact. This is one other reason that makes it unlikely that Russia will agree
+      to a Witkoff proposal that requires them to give up captured territory. I thank
+      you for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: A proposed peace plan for Ukraine, crafted by Steve Witkoff,
+      suggests significant territorial concessions from Ukraine to Russia, including
+      relinquishing control over the Donbas region, while also calling for a freeze
+      of Russian forces in certain areas, but it has faced rejection from both Russia
+      and Ukraine due to its unfavorable terms.
+    paragraph_summary: The proposed peace plan for Ukraine, reportedly crafted by Steve
+      Witkoff, a close associate of Donald Trump, suggests significant territorial concessions
+      from Ukraine to Russia, including the relinquishment of the entire eastern Donbas
+      region and further territory. While it calls for Russia to freeze its forces in
+      certain areas and withdraw from Kharkiv and Sumy, these terms are deemed unacceptable
+      by Russia. The 28-point plan also aims to reduce Ukraine's military capabilities,
+      limiting its troops to 40% of current levels without similar reductions for Russia,
+      and imposes restrictions on Ukraine's weaponry and foreign military presence.
+      Additionally, it requires the designation of Russian as a second state language
+      and the restoration of the local Russian Orthodox Church, which many Ukrainians
+      view as unrealistic and unacceptable. Despite recent battlefield challenges, military
+      analysts suggest that Ukraine's situation is not as dire as the plan implies.
+    published: '2025-11-20T07:24:40+00:00'
   - title: Ukraine’s Days are Numbered
     url: https://sonar21.com/ukraines-days-are-numbered/
     text: 'Like a bad Italian opera, the fat lady is singing from a balcony overlooking

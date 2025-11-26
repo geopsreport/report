@@ -7,12 +7,701 @@ description: "Veteran Middle East war correspondent; provides first-hand analysi
 websites:
   - https://ejmagnier.com
 summary: |
-  The Middle East is entering a new phase following the adoption of UN Security Council Resolution 2803, which has formally ended the Gaza war. According to **Elijah J. Magnier**, the resolution establishes an international legal mandate for peace that supersedes Israeli political calculations. However, the ceasefire agreement is notably lacking in concrete provisions for post-war governance, reconstruction, or mechanisms to ensure Palestinian self-rule. This absence of clarity leaves the future of Gaza in a state of uncertainty, with no clear roadmap for rebuilding or political stabilization.
+  The geopolitical landscape in the Middle East remains highly volatile, with Lebanon’s internal fragility and the enduring US-Israeli alliance at the forefront of current developments. Over the past days, the situation in Lebanon has become increasingly precarious as Israeli military actions intensify and Washington amplifies its political pressure, further straining the Lebanese state’s already limited capacity.
   
-  **Magnier** emphasizes that while the war’s cessation is a significant diplomatic achievement, the resolution’s vagueness on critical issues—such as the management of reconstruction funds and the political status of Gaza—poses serious risks for long-term stability. The international community now faces the challenge of translating the ceasefire into a sustainable peace, but without a defined framework, the prospects for meaningful progress remain limited.
+  **Elijah J. Magnier** emphasizes that Lebanon’s vulnerability is rooted in nearly two decades of unresolved conflict with Israel, compounded by the dual authority of the state and Hezbollah. The recent escalation of Israeli attacks, coupled with US diplomatic maneuvers, is pushing Lebanon toward a critical juncture. Magnier notes that “the influence of external actors seeking to redefine the roles of Hezbollah and the Lebanese state” is now more pronounced than ever, raising the risk of internal destabilization.
   
-  Looking ahead, there is a high chance that the lack of a robust post-war plan will lead to renewed tensions and power struggles within Gaza. As **Magnier** notes, “the future remains empty,” with no guarantees for Palestinian self-governance or effective international oversight. I guarantee that, unless a comprehensive political and reconstruction framework is established soon, the region will remain at risk of further instability and humanitarian crisis. The coming days will test whether global actors can move beyond symbolic resolutions to deliver substantive change on the ground.
+  On the international front, the US continues to justify its substantial military aid to Israel as an economic boon for Americans. However, **Elijah J. Magnier** challenges this narrative, arguing that such claims “overlook the deeper implications of this financial relationship,” and questions whether the US is truly benefiting or simply perpetuating a cycle of conflict. This critique reflects a growing skepticism about the sustainability and strategic wisdom of current US policy in the region.
+  
+  Meanwhile, the ceasefire in Gaza, established by UN Security Council Resolution 2803, has officially ended active hostilities but left the future governance and reconstruction of Gaza unresolved. The lack of a clear post-war framework is a source of concern among analysts, who warn that the absence of a roadmap could lead to renewed instability.
+  
+  **Trends and Predictions:**  
+  The majority of sources agree that Lebanon’s situation is likely to deteriorate further if external pressures persist and internal divisions deepen. There is a high chance that, without significant diplomatic intervention, the risk of a broader conflict involving Hezbollah and Israel will increase. Regarding US-Israeli relations, it is quite likely that debates over the true cost and benefit of military aid will intensify, especially as regional instability continues. As for Gaza, the ceasefire is expected to hold in the short term, but the lack of a comprehensive peace plan means that the long-term outlook remains uncertain. 
+  
+  Based on current dynamics, I guarantee that Lebanon will remain a focal point of regional tension, with high potential for escalation if the current trajectory is not altered through meaningful diplomatic engagement.
 articles:
+  - title: 'De limieten en kwetsbaarheid van de staat en het verzet: hoe Libanon omgaat
+      met een oorlog die wordt bepaald door de macht en druk van de VS en Israël'
+    url: https://ejmagnier.com/2025/11/23/de-limieten-en-kwetsbaarheid-van-de-staat-en-het-verzet-hoe-libanon-omgaat-met-een-oorlog-die-wordt-bepaald-door-de-macht-en-druk-van-de-vs-en-israel/
+    text: Geschreven door Elijah J. Magnier – Vertaald door Francis J. Al bijna twee
+      decennia leeft Libanon in een fragiele situatie die wordt bepaald door een onopgelost
+      conflict met Israël, beperkte staatscapaciteit en de aanwezigheid van een verzetsbeweging
+      die is ontstaan om de structurele machtsongelijkheid te compenseren. Deze situatie
+      staat opnieuw onder druk nu de Israëlische aanvallen aan de zuidgrens intensiveren
+      en de politieke retoriek in Washington probeert de interne veiligheidsdynamiek
+      van Libanon te hervormen door middel van vertekende en selectieve verhalen. Om
+      de huidige situatie goed te begrijpen, moet onderscheid worden gemaakt tussen
+      de rol van Hezbollah, de Libanese strijdkrachten en de Libanese staat, en moet
+      worden erkend hoe externe actoren consequent hebben geprobeerd deze rollen te
+      hervormen in het voordeel van Israël. Vóór de oorlog tegen Libanon in 2024 vertrouwde
+      Hezbollah voornamelijk op afschrikking door middel van verhalen. Het propageerde
+      het idee dat de As van het Verzet functioneerde als een strak gecoördineerd front,
+      waarbij elke bedreiging voor één actor een collectieve reactie zou uitlokken.
+      In de praktijk was deze as nooit een verenigd commando. Het was een psychologische
+      houding die bedoeld was om samenhang uit te stralen en Israël te ontmoedigen om
+      een volledige oorlog te voeren. Dit narratief stortte in op 7 oktober, toen Hamas
+      zijn aanval lanceerde, terwijl Hezbollah zich beperkte tot gecontroleerde activiteiten
+      langs de grens, Syrië weigerde mee te doen en Iraakse facties alleen symbolische
+      drones stuurden voordat ze hun betrokkenheid stopzetten. Jemen was de enige actor
+      die doorging met het lanceren van drones en raketten in een symbolische poging
+      waarvan het strategische effect vooral financieel was, gezien het gebrek aan territoriale
+      continuïteit met Israël, dat zijn oorlogsplannen hoe dan ook handhaafde. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: Libanon verkeert al bijna twee decennia in een fragiele situatie
+      door een onopgelost conflict met Israël, beperkte staatscapaciteit en de invloed
+      van Hezbollah, terwijl de recente intensivering van Israëlische aanvallen en politieke
+      druk vanuit Washington de interne dynamiek verder compliceren.
+    paragraph_summary: In the article by Elijah J. Magnier, the fragile situation in
+      Lebanon is explored, characterized by an unresolved conflict with Israel, limited
+      state capacity, and the presence of Hezbollah, a resistance movement formed to
+      address structural power imbalances. The current tensions are exacerbated by intensified
+      Israeli attacks along the southern border and a political narrative from Washington
+      aimed at reshaping Lebanon's internal security dynamics through selective storytelling.
+      The article emphasizes the need to differentiate between the roles of Hezbollah,
+      the Lebanese Armed Forces, and the Lebanese state, while highlighting how external
+      actors have consistently sought to alter these roles to favor Israel. Prior to
+      the anticipated 2024 war, Hezbollah relied on a deterrent narrative of a united
+      resistance front, which collapsed following Hamas's attack on October 7, as Hezbollah's
+      response remained limited and other regional actors, like Syria and Iraqi factions,
+      refrained from significant involvement. Only Yemen continued to launch symbolic
+      attacks, underscoring the complex interplay of regional dynamics and the ongoing
+      threat posed by Israel.
+    published: '2025-11-23T15:33:32+00:00'
+  - title: 'De limieten en kwetsbaarheid van de staat en het verzet: hoe Libanon omgaat
+      met een oorlog die wordt bepaald door de macht en druk van de VS en Israël'
+    url: https://ejmagnier.com/2025/11/23/de-limieten-en-kwetsbaarheid-van-de-staat-en-het-verzet-hoe-libanon-omgaat-met-een-oorlog-die-wordt-bepaald-door-de-macht-en-druk-van-de-vs-en-israel/
+    text: Geschreven door Elijah J. Magnier – Vertaald door Francis J. Al bijna twee
+      decennia leeft Libanon in een fragiele situatie die wordt bepaald door een onopgelost
+      conflict met Israël, beperkte staatscapaciteit en de aanwezigheid van een verzetsbeweging
+      die is ontstaan om de structurele machtsongelijkheid te compenseren. Deze situatie
+      staat opnieuw onder druk nu de Israëlische aanvallen aan de zuidgrens intensiveren
+      en de politieke retoriek in Washington probeert de interne veiligheidsdynamiek
+      van Libanon te hervormen door middel van vertekende en selectieve verhalen. Om
+      de huidige situatie goed te begrijpen, moet onderscheid worden gemaakt tussen
+      de rol van Hezbollah, de Libanese strijdkrachten en de Libanese staat, en moet
+      worden erkend hoe externe actoren consequent hebben geprobeerd deze rollen te
+      hervormen in het voordeel van Israël. Vóór de oorlog tegen Libanon in 2024 vertrouwde
+      Hezbollah voornamelijk op afschrikking door middel van verhalen. Het propageerde
+      het idee dat de As van het Verzet functioneerde als een strak gecoördineerd front,
+      waarbij elke bedreiging voor één actor een collectieve reactie zou uitlokken.
+      In de praktijk was deze as nooit een verenigd commando. Het was een psychologische
+      houding die bedoeld was om samenhang uit te stralen en Israël te ontmoedigen om
+      een volledige oorlog te voeren. Dit narratief stortte in op 7 oktober, toen Hamas
+      zijn aanval lanceerde, terwijl Hezbollah zich beperkte tot gecontroleerde activiteiten
+      langs de grens, Syrië weigerde mee te doen en Iraakse facties alleen symbolische
+      drones stuurden voordat ze hun betrokkenheid stopzetten. Jemen was de enige actor
+      die doorging met het lanceren van drones en raketten in een symbolische poging
+      waarvan het strategische effect vooral financieel was, gezien het gebrek aan territoriale
+      continuïteit met Israël, dat zijn oorlogsplannen hoe dan ook handhaafde. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: Libanon verkeert al bijna twee decennia in een fragiele situatie
+      door een onopgelost conflict met Israël, beperkte staatscapaciteit en de invloed
+      van Hezbollah, terwijl de recente intensivering van Israëlische aanvallen en politieke
+      druk vanuit Washington de interne dynamiek verder compliceren.
+    paragraph_summary: In the article by Elijah J. Magnier, the fragile situation in
+      Lebanon is explored, characterized by an unresolved conflict with Israel, limited
+      state capacity, and the presence of Hezbollah, a resistance movement formed to
+      address structural power imbalances. The current tensions are exacerbated by intensified
+      Israeli attacks along the southern border and a political narrative from Washington
+      aimed at reshaping Lebanon's internal security dynamics through selective storytelling.
+      The article emphasizes the need to differentiate between the roles of Hezbollah,
+      the Lebanese Armed Forces, and the Lebanese state, while highlighting how external
+      actors have consistently sought to alter these roles to favor Israel. Prior to
+      the anticipated 2024 war, Hezbollah relied on a deterrent narrative of a united
+      resistance front, which collapsed following Hamas's attack on October 7, as Hezbollah's
+      response remained limited and other regional actors, like Syria and Iraqi factions,
+      refrained from significant involvement. Only Yemen continued to launch symbolic
+      attacks, underscoring the complex interplay of regional dynamics and the ongoing
+      threat posed by Israel.
+    published: '2025-11-23T15:33:32+00:00'
+  - title: Les Limites et la Vulnérabilité de l’État et de la Résistance: Comment le
+      Liban Affronte une Guerre Définie par la Puissance et la Pression Américaines
+      et Israéliennes
+    url: https://ejmagnier.com/2025/11/23/les-limites-et-la-vulnerabilite-de-letat-et-de-la-resistance-comment-le-liban-affronte-une-guerre-definie-par-la-puissance-et-la-pression-americaines-et-israeliennes/
+    text: Par Elijah J. Magnier Depuis près de deux décennies, le Liban vit sous une
+      équation fragile définie par un conflit non résolu avec Israël, une capacité étatique
+      limitée et la présence d’un mouvement de résistance né pour compenser un déséquilibre
+      structurel des forces. Cette équation est de nouveau mise à l’épreuve à mesure
+      que les attaques israéliennes s’intensifient le long de la frontière sud et que
+      la rhétorique politique à Washington tente de remodeler la dynamique sécuritaire
+      interne du Liban à travers des récits déformés et sélectifs. Comprendre clairement
+      le moment présent nécessite de distinguer les rôles du Hezbollah, des Forces armées
+      libanaises et de l’État libanais, et de reconnaître comment des acteurs externes
+      ont constamment cherché à redéfinir ces rôles au profit d’Israël. Avant la guerre
+      de 2024 contre le Liban, le Hezbollah s’appuyait principalement sur une dissuasion
+      narrative. Il promouvait l’idée selon laquelle l’Axe de la Résistance fonctionnait
+      comme un front étroitement coordonné où toute menace contre un acteur déclencherait
+      une réponse collective. En pratique, cet axe n’a jamais constitué un commandement
+      unifié. Il s’agissait d’une posture psychologique visant à projeter une cohésion
+      et à décourager Israël d’engager une guerre totale. Cette narration s’est effondrée
+      le 7 octobre, lorsque le Hamas a lancé son attaque tandis que le Hezbollah limitait
+      son engagement à des actions contrôlées le long de la frontière, que la Syrie
+      refusait de se laisser entraîner, et que les factions irakiennes n’envoyaient
+      que quelques drones symboliques avant de suspendre leur participation. Le Yémen
+      fut le seul acteur à poursuivre des tirs de drones et de missiles dans un effort
+      symbolique dont l’impact stratégique resta principalement financier, étant donné
+      son absence de continuité territoriale avec Israël, qui maintint ses plans de
+      guerre sans en être affecté. Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly
+    one_sentence_summary: L'article d'Elijah J. Magnier souligne la fragilité de la
+      situation au Liban, exacerbée par les tensions croissantes avec Israël et l'influence
+      des acteurs externes qui cherchent à redéfinir les rôles du Hezbollah et de l'État
+      libanais, tout en mettant en lumière la nécessité de comprendre les dynamiques
+      sécuritaires internes avant un éventuel conflit.
+    paragraph_summary: L'article d'Elijah J. Magnier examine la situation complexe et
+      fragile du Liban, marqué par un conflit non résolu avec Israël, une capacité étatique
+      limitée et la présence du Hezbollah, un mouvement de résistance. Alors que les
+      attaques israéliennes le long de la frontière sud s'intensifient, la dynamique
+      sécuritaire interne du Liban est influencée par des récits déformés provenant
+      de Washington. Magnier souligne l'importance de distinguer les rôles du Hezbollah,
+      des Forces armées libanaises et de l'État libanais, tout en notant que des acteurs
+      externes cherchent à redéfinir ces rôles en faveur d'Israël. Avant la guerre de
+      2024, le Hezbollah s'appuyait sur une dissuasion narrative, mais cette stratégie
+      a été mise à mal après l'attaque du Hamas le 7 octobre, alors que le Hezbollah
+      et d'autres factions régionales ont limité leur engagement, illustrant ainsi une
+      fragmentation de l'Axe de la Résistance et une incapacité à répondre de manière
+      unifiée face à Israël.
+    published: '2025-11-23T06:48:47+00:00'
+  - title: Les Limites et la Vulnérabilité de l’État et de la Résistance: Comment le
+      Liban Affronte une Guerre Définie par la Puissance et la Pression Américaines
+      et Israéliennes
+    url: https://ejmagnier.com/2025/11/23/les-limites-et-la-vulnerabilite-de-letat-et-de-la-resistance-comment-le-liban-affronte-une-guerre-definie-par-la-puissance-et-la-pression-americaines-et-israeliennes/
+    text: Par Elijah J. Magnier Depuis près de deux décennies, le Liban vit sous une
+      équation fragile définie par un conflit non résolu avec Israël, une capacité étatique
+      limitée et la présence d’un mouvement de résistance né pour compenser un déséquilibre
+      structurel des forces. Cette équation est de nouveau mise à l’épreuve à mesure
+      que les attaques israéliennes s’intensifient le long de la frontière sud et que
+      la rhétorique politique à Washington tente de remodeler la dynamique sécuritaire
+      interne du Liban à travers des récits déformés et sélectifs. Comprendre clairement
+      le moment présent nécessite de distinguer les rôles du Hezbollah, des Forces armées
+      libanaises et de l’État libanais, et de reconnaître comment des acteurs externes
+      ont constamment cherché à redéfinir ces rôles au profit d’Israël. Avant la guerre
+      de 2024 contre le Liban, le Hezbollah s’appuyait principalement sur une dissuasion
+      narrative. Il promouvait l’idée selon laquelle l’Axe de la Résistance fonctionnait
+      comme un front étroitement coordonné où toute menace contre un acteur déclencherait
+      une réponse collective. En pratique, cet axe n’a jamais constitué un commandement
+      unifié. Il s’agissait d’une posture psychologique visant à projeter une cohésion
+      et à décourager Israël d’engager une guerre totale. Cette narration s’est effondrée
+      le 7 octobre, lorsque le Hamas a lancé son attaque tandis que le Hezbollah limitait
+      son engagement à des actions contrôlées le long de la frontière, que la Syrie
+      refusait de se laisser entraîner, et que les factions irakiennes n’envoyaient
+      que quelques drones symboliques avant de suspendre leur participation. Le Yémen
+      fut le seul acteur à poursuivre des tirs de drones et de missiles dans un effort
+      symbolique dont l’impact stratégique resta principalement financier, étant donné
+      son absence de continuité territoriale avec Israël, qui maintint ses plans de
+      guerre sans en être affecté. Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly
+    one_sentence_summary: L'article d'Elijah J. Magnier souligne la fragilité de la
+      situation au Liban, exacerbée par les tensions croissantes avec Israël et l'influence
+      des acteurs externes qui cherchent à redéfinir les rôles du Hezbollah et de l'État
+      libanais, tout en mettant en lumière la nécessité de comprendre les dynamiques
+      sécuritaires internes avant un éventuel conflit.
+    paragraph_summary: L'article d'Elijah J. Magnier examine la situation complexe et
+      fragile du Liban, marqué par un conflit non résolu avec Israël, une capacité étatique
+      limitée et la présence du Hezbollah, un mouvement de résistance. Alors que les
+      attaques israéliennes le long de la frontière sud s'intensifient, la dynamique
+      sécuritaire interne du Liban est influencée par des récits déformés provenant
+      de Washington. Magnier souligne l'importance de distinguer les rôles du Hezbollah,
+      des Forces armées libanaises et de l'État libanais, tout en notant que des acteurs
+      externes cherchent à redéfinir ces rôles en faveur d'Israël. Avant la guerre de
+      2024, le Hezbollah s'appuyait sur une dissuasion narrative, mais cette stratégie
+      a été mise à mal après l'attaque du Hamas le 7 octobre, alors que le Hezbollah
+      et d'autres factions régionales ont limité leur engagement, illustrant ainsi une
+      fragmentation de l'Axe de la Résistance et une incapacité à répondre de manière
+      unifiée face à Israël.
+    published: '2025-11-23T06:48:47+00:00'
+  - title: 'The Limits and Vulnerability of the State and the Resistance: How Lebanon
+      Confronts a War Defined by US and Israeli Power and Pressure'
+    url: https://ejmagnier.com/2025/11/23/the-limits-and-vulnerability-of-the-state-and-the-resistance-how-lebanon-confronts-a-war-defined-by-us-and-israeli-power-and-pressure/
+    text: By Elijah J. Magnier For nearly two decades, Lebanon has lived under a fragile
+      equation defined by an unresolved conflict with Israel, limited state capacity,
+      and the presence of a resistance movement that emerged to compensate for the structural
+      imbalance of power. This equation is again under strain as Israeli attacks intensify
+      across the southern border and political rhetoric in Washington attempts to recast
+      Lebanon’s internal security dynamics through distorted and selective narratives.
+      A clear understanding of the current moment requires distinguishing between the
+      roles of Hezbollah, the Lebanese Armed Forces, and the Lebanese state, and recognising
+      how external actors have consistently sought to reshape these roles to Israel’s
+      advantage. Before the 2024 war on Lebanon, Hezbollah relied primarily on deterrence
+      by narrative. It promoted the idea that the Axis of the Resistance operated as
+      a tightly coordinated front, where any threat to one actor would trigger a collective
+      response. In practice, this axis was never a unified command. It was a psychological
+      posture intended to project cohesion and discourage Israel from pursuing a full
+      war. This narrative collapsed on the seventh of October, when Hamas launched its
+      attack while Hezbollah limited its own engagement to controlled activity along
+      the border, Syria refused to be drawn in, and Iraqi factions sent only symbolic
+      drones before halting their involvement. Yemen was the sole actor that continued
+      launching drones and missiles in a symbolic effort whose strategic effect was
+      mainly financial given its lack of territorial continuity with Israel that maintained
+      its war plans regardless. Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly
+    one_sentence_summary: The article discusses the fragile political and military dynamics
+      in Lebanon, highlighting the increasing strain on its longstanding conflict with
+      Israel, the roles of Hezbollah and the Lebanese state, and the influence of external
+      actors in shaping these dynamics, particularly in light of escalating Israeli
+      attacks and political narratives from Washington.
+    paragraph_summary: The article by Elijah J. Magnier discusses the precarious situation
+      in Lebanon, characterized by a longstanding conflict with Israel, limited state
+      authority, and the presence of Hezbollah as a resistance movement. Recent Israeli
+      attacks have exacerbated tensions, while U.S. political narratives attempt to
+      reshape Lebanon's internal security dynamics to favor Israel. The article emphasizes
+      the need to differentiate between Hezbollah, the Lebanese Armed Forces, and the
+      state, noting that external actors have historically manipulated these roles.
+      Hezbollah's strategy of deterrence through a narrative of a unified "Axis of Resistance"
+      faltered after Hamas's attack on October 7, 2023, as Hezbollah's response was
+      limited and other regional actors, including Syria and Iraqi factions, refrained
+      from significant involvement, leaving Yemen as the only active participant in
+      a largely symbolic manner.
+    published: '2025-11-23T06:37:32+00:00'
+  - title: 'The Limits and Vulnerability of the State and the Resistance: How Lebanon
+      Confronts a War Defined by US and Israeli Power and Pressure'
+    url: https://ejmagnier.com/2025/11/23/the-limits-and-vulnerability-of-the-state-and-the-resistance-how-lebanon-confronts-a-war-defined-by-us-and-israeli-power-and-pressure/
+    text: By Elijah J. Magnier For nearly two decades, Lebanon has lived under a fragile
+      equation defined by an unresolved conflict with Israel, limited state capacity,
+      and the presence of a resistance movement that emerged to compensate for the structural
+      imbalance of power. This equation is again under strain as Israeli attacks intensify
+      across the southern border and political rhetoric in Washington attempts to recast
+      Lebanon’s internal security dynamics through distorted and selective narratives.
+      A clear understanding of the current moment requires distinguishing between the
+      roles of Hezbollah, the Lebanese Armed Forces, and the Lebanese state, and recognising
+      how external actors have consistently sought to reshape these roles to Israel’s
+      advantage. Before the 2024 war on Lebanon, Hezbollah relied primarily on deterrence
+      by narrative. It promoted the idea that the Axis of the Resistance operated as
+      a tightly coordinated front, where any threat to one actor would trigger a collective
+      response. In practice, this axis was never a unified command. It was a psychological
+      posture intended to project cohesion and discourage Israel from pursuing a full
+      war. This narrative collapsed on the seventh of October, when Hamas launched its
+      attack while Hezbollah limited its own engagement to controlled activity along
+      the border, Syria refused to be drawn in, and Iraqi factions sent only symbolic
+      drones before halting their involvement. Yemen was the sole actor that continued
+      launching drones and missiles in a symbolic effort whose strategic effect was
+      mainly financial given its lack of territorial continuity with Israel that maintained
+      its war plans regardless. Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly
+    one_sentence_summary: The article discusses the fragile political and military dynamics
+      in Lebanon, highlighting the increasing strain on its longstanding conflict with
+      Israel, the roles of Hezbollah and the Lebanese state, and the influence of external
+      actors in shaping these dynamics, particularly in light of escalating Israeli
+      attacks and political narratives from Washington.
+    paragraph_summary: The article by Elijah J. Magnier discusses the precarious situation
+      in Lebanon, characterized by a longstanding conflict with Israel, limited state
+      authority, and the presence of Hezbollah as a resistance movement. Recent Israeli
+      attacks have exacerbated tensions, while U.S. political narratives attempt to
+      reshape Lebanon's internal security dynamics to favor Israel. The article emphasizes
+      the need to differentiate between Hezbollah, the Lebanese Armed Forces, and the
+      state, noting that external actors have historically manipulated these roles.
+      Hezbollah's strategy of deterrence through a narrative of a unified "Axis of Resistance"
+      faltered after Hamas's attack on October 7, 2023, as Hezbollah's response was
+      limited and other regional actors, including Syria and Iraqi factions, refrained
+      from significant involvement, leaving Yemen as the only active participant in
+      a largely symbolic manner.
+    published: '2025-11-23T06:37:32+00:00'
+  - title: 'U.S. Billions to Israel: Jobs for Americans or Subsidising War?'
+    url: https://ejmagnier.com/2025/11/20/u-s-billions-to-israel-jobs-for-americans-or-subsidising-war/
+    text: 'By Elijah J. Magnier – When Israeli Prime Minister Benjamin Netanyahu said that
+      “about 80% of U.S. military aid to Israel is spent back in the U.S., strengthening the economy
+      and creating U.S. jobs,” he collapsed one of the world’s most contentious military
+      partnerships into the language of corporate ledger sheets. He added, in an Orwellian
+      inversion mastery, that Israel is “working towards greater defence-industry independence,”
+      as though Washington’s multibillion-dollar pipeline were merely a generous apprenticeship
+      programme Israel will graciously “graduate” from in due time. At first glance,
+      the argument begs to sound clever: American taxpayers send Israel billions in
+      free military grants, and Israel, in an act of apparent benevolence, sends most
+      of the money back to American weapons manufacturers. But a closer examination
+      raises an unavoidable issue: Is the United States truly benefiting from this circular
+      transaction, or is it underwriting a war machine that entrenches conflict, empowers
+      defence giants and delivers only narrow, corporate-centred gains at home? The
+      answer is far more complex than Netanyahu’s sound-bite implies — and deliberately
+      so. What this neat economic framing disguises is not only the magnitude of the
+      aid but the political alignment it reflects: a partnership in which Washington
+      is not a reluctant sponsor but an active participant, operating in full harmony
+      with every major Israeli military campaign. Undoubtedly, U.S. assistance covers
+      a significant proportion of Israel’s wartime expenditure, while the strategic
+      return for the United States remains ambiguous at best. The Orwellian inversion
+      George Orwell’s Nineteen Eighty-Four (1949) warned that “Who controls the past
+      controls the future; who controls the present controls the past.” The slogan,
+      which has appeared in debates at the Israeli Knesset, captures how political actors
+      manipulate historical narratives to shape public perception and consolidate power.
+      Prime Minister Benjamin Netanyahu’s political language – a man who consistently
+      serves his own interests above all else – frequently mirrors the mechanisms Orwell
+      described, turning the writer’s dystopian insights into a working method of governance.
+      Israel has become adept at what can be called the “Orwellian inversion”: a rhetorical
+      and political manoeuvre in which reality is deliberately reversed. Truth is cast
+      as falsehood, war as peace, occupation as liberation, oppression as security,
+      and a generous foreign grant is reframed as a favour to the donor. This is not
+      mere hypocrisy; it is a systematic re-engineering of moral and factual meaning
+      designed to preserve power while concealing the violence and inequality that power
+      produces. Slogans like “War is Peace,” “Freedom is Slavery,” “Ignorance is Strength,”
+      or contemporary claims such as “attack is defence” are not intended to persuade
+      logically. Their purpose is to erode the line between truth and propaganda until
+      contradictions feel natural. An Orwellian inversion occurs when leaders describe
+      harmful or coercive actions in benevolent language, effectively reversing moral
+      polarity. The oppressor claims victimhood; the aggressor claims self-defence;
+      facts are rewritten to fit ideology. Subscribe Subscribe to get access Read more
+      of this content when you subscribe today. Subscribe Submitting form Log in Make
+      a one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly'
+    one_sentence_summary: Israeli Prime Minister Benjamin Netanyahu's assertion that
+      U.S. military aid to Israel primarily benefits the American economy overlooks
+      the deeper implications of this financial relationship, raising questions about
+      whether the U.S. is truly gaining from this arrangement or merely supporting a
+      cycle of conflict.
+    paragraph_summary: In a recent statement, Israeli Prime Minister Benjamin Netanyahu
+      claimed that approximately 80% of U.S. military aid to Israel is reinvested in
+      the American economy, framing the partnership as mutually beneficial. However,
+      this perspective oversimplifies a complex relationship where U.S. financial support
+      significantly underpins Israel's military operations, raising questions about
+      whether the U.S. truly benefits from this arrangement. The article critiques Netanyahu's
+      portrayal as an "Orwellian inversion," suggesting it obscures the reality of a
+      partnership where the U.S. is not merely a supporter but an active participant
+      in Israeli military endeavors. This dynamic not only highlights the substantial
+      aid provided but also reflects a political alignment that prioritizes corporate
+      interests over broader strategic gains for the U.S.
+    published: '2025-11-20T17:32:34+00:00'
+  - title: 'U.S. Billions to Israel: Jobs for Americans or Subsidising War?'
+    url: https://ejmagnier.com/2025/11/20/u-s-billions-to-israel-jobs-for-americans-or-subsidising-war/
+    text: 'By Elijah J. Magnier – When Israeli Prime Minister Benjamin Netanyahu said that
+      “about 80% of U.S. military aid to Israel is spent back in the U.S., strengthening the economy
+      and creating U.S. jobs,” he collapsed one of the world’s most contentious military
+      partnerships into the language of corporate ledger sheets. He added, in an Orwellian
+      inversion mastery, that Israel is “working towards greater defence-industry independence,”
+      as though Washington’s multibillion-dollar pipeline were merely a generous apprenticeship
+      programme Israel will graciously “graduate” from in due time. At first glance,
+      the argument begs to sound clever: American taxpayers send Israel billions in
+      free military grants, and Israel, in an act of apparent benevolence, sends most
+      of the money back to American weapons manufacturers. But a closer examination
+      raises an unavoidable issue: Is the United States truly benefiting from this circular
+      transaction, or is it underwriting a war machine that entrenches conflict, empowers
+      defence giants and delivers only narrow, corporate-centred gains at home? The
+      answer is far more complex than Netanyahu’s sound-bite implies — and deliberately
+      so. What this neat economic framing disguises is not only the magnitude of the
+      aid but the political alignment it reflects: a partnership in which Washington
+      is not a reluctant sponsor but an active participant, operating in full harmony
+      with every major Israeli military campaign. Undoubtedly, U.S. assistance covers
+      a significant proportion of Israel’s wartime expenditure, while the strategic
+      return for the United States remains ambiguous at best. The Orwellian inversion
+      George Orwell’s Nineteen Eighty-Four (1949) warned that “Who controls the past
+      controls the future; who controls the present controls the past.” The slogan,
+      which has appeared in debates at the Israeli Knesset, captures how political actors
+      manipulate historical narratives to shape public perception and consolidate power.
+      Prime Minister Benjamin Netanyahu’s political language – a man who consistently
+      serves his own interests above all else – frequently mirrors the mechanisms Orwell
+      described, turning the writer’s dystopian insights into a working method of governance.
+      Israel has become adept at what can be called the “Orwellian inversion”: a rhetorical
+      and political manoeuvre in which reality is deliberately reversed. Truth is cast
+      as falsehood, war as peace, occupation as liberation, oppression as security,
+      and a generous foreign grant is reframed as a favour to the donor. This is not
+      mere hypocrisy; it is a systematic re-engineering of moral and factual meaning
+      designed to preserve power while concealing the violence and inequality that power
+      produces. Slogans like “War is Peace,” “Freedom is Slavery,” “Ignorance is Strength,”
+      or contemporary claims such as “attack is defence” are not intended to persuade
+      logically. Their purpose is to erode the line between truth and propaganda until
+      contradictions feel natural. An Orwellian inversion occurs when leaders describe
+      harmful or coercive actions in benevolent language, effectively reversing moral
+      polarity. The oppressor claims victimhood; the aggressor claims self-defence;
+      facts are rewritten to fit ideology. Subscribe Subscribe to get access Read more
+      of this content when you subscribe today. Subscribe Submitting form Log in Make
+      a one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly'
+    one_sentence_summary: Israeli Prime Minister Benjamin Netanyahu's assertion that
+      U.S. military aid to Israel primarily benefits the American economy overlooks
+      the deeper implications of this financial relationship, raising questions about
+      whether the U.S. is truly gaining from this arrangement or merely supporting a
+      cycle of conflict.
+    paragraph_summary: In a recent statement, Israeli Prime Minister Benjamin Netanyahu
+      claimed that approximately 80% of U.S. military aid to Israel is reinvested in
+      the American economy, framing the partnership as mutually beneficial. However,
+      this perspective oversimplifies a complex relationship where U.S. financial support
+      significantly underpins Israel's military operations, raising questions about
+      whether the U.S. truly benefits from this arrangement. The article critiques Netanyahu's
+      portrayal as an "Orwellian inversion," suggesting it obscures the reality of a
+      partnership where the U.S. is not merely a supporter but an active participant
+      in Israeli military endeavors. This dynamic not only highlights the substantial
+      aid provided but also reflects a political alignment that prioritizes corporate
+      interests over broader strategic gains for the U.S.
+    published: '2025-11-20T17:32:34+00:00'
+  - title: 'Milliards de dollars américains pour Israël: emplois pour les Américains
+      ou subvention de la guerre ?'
+    url: https://ejmagnier.com/2025/11/20/milliards-de-dollars-americains-pour-israel-emplois-pour-les-americains-ou-subvention-de-la-guerre/
+    text: 'Par Elijah J. Magnier Lorsque le Premier ministre israélien Benjamin Netanyahu
+      a affirmé que « environ 80 pour cent de l’aide militaire américaine à Israël est
+      dépensée aux États-Unis, renforçant l’économie et créant des emplois américains
+      », il a réduit l’un des partenariats militaires les plus controversés au monde
+      au langage d’un bilan comptable. Il a ajouté, dans une maîtrise de l’inversion
+      orwellienne, qu’Israël « travaille à une plus grande indépendance de son industrie
+      de défense », comme si le pipeline de plusieurs milliards de dollars offert par
+      Washington n’était qu’un généreux programme d’apprentissage dont Israël « sortirait
+      » gracieusement en temps voulu. À première vue, l’argument cherche à paraître
+      astucieux : les contribuables américains envoient à Israël des milliards de dollars
+      de subventions militaires gratuites, et Israël, dans un acte de bienveillance
+      apparente, renvoie la majorité de cet argent aux fabricants d’armes américains.
+      Mais un examen plus attentif soulève une question inévitable : les États-Unis
+      profitent-ils réellement de cette transaction circulaire, ou financent-ils une
+      machine de guerre qui entretient le conflit, renforce les géants de la défense
+      et ne procure que des bénéfices étroits et centrés sur l’industrie militaire américaine
+      ? La réponse est bien plus complexe que ce que laisse entendre la formule de Netanyahu
+      — et volontairement. Cette présentation économique simplifiée masque non seulement
+      l’ampleur de l’aide, mais aussi l’alignement politique qu’elle reflète : un partenariat
+      dans lequel Washington n’est pas un parrain réticent, mais un participant actif,
+      en harmonie avec chaque grande campagne militaire israélienne. Il est indéniable
+      que l’assistance américaine couvre une part significative des dépenses de guerre
+      d’Israël, tandis que le bénéfice stratégique pour les États-Unis reste au mieux
+      ambigu. L’inversion orwellienne Dans Nineteen Eighty-Four (1949), George Orwell
+      avertissait que « Qui contrôle le passé contrôle l’avenir ; qui contrôle le présent
+      contrôle le passé ». Ce slogan, régulièrement évoqué dans les débats à la Knesset,
+      décrit la manière dont des acteurs politiques manipulent les récits historiques
+      pour façonner la perception publique et consolider leur pouvoir. Le langage politique
+      du Premier ministre Benjamin Netanyahu — un homme qui sert de manière constante
+      ses propres intérêts avant tout — reflète souvent les mécanismes décrits par Orwell,
+      transformant les intuitions dystopiques de l’écrivain en méthode de gouvernance.
+      Israël est devenu expert dans ce que l’on peut appeler « l’inversion orwellienne
+      » : une manœuvre rhétorique et politique dans laquelle la réalité est délibérément
+      inversée. La vérité devient mensonge, la guerre devient paix, l’occupation devient
+      libération, l’oppression devient sécurité, et une subvention étrangère généreuse
+      est reformulée comme un cadeau fait au donateur. Il ne s’agit pas seulement d’hypocrisie
+      ; c’est une réingénierie systématique de la signification morale et factuelle
+      destinée à préserver le pouvoir tout en dissimulant la violence et les inégalités
+      qu’il produit. Des slogans comme « La guerre, c’est la paix », « La liberté, c’est
+      l’esclavage », « L’ignorance, c’est la force », ou des formules contemporaines
+      telles que « l’attaque, c’est la défense », ne visent pas à persuader de manière
+      logique. Leur objectif est d’éroder la frontière entre vérité et propagande, jusqu’à
+      ce que les contradictions paraissent naturelles. Une inversion orwellienne se
+      produit lorsque des dirigeants décrivent des actions nuisibles ou coercitives
+      dans un langage bienveillant, inversant ainsi la polarité morale. L’oppresseur
+      se présente comme victime ; l’agresseur se revendique défenseur ; les faits sont
+      réécrits pour s’ajuster à l’idéologie. Subscribe Subscribe to get access Read
+      more of this content when you subscribe today. Subscribe Submitting form Log in
+      Make a one-time donation Your contribution is appreciated. Donate Make a monthly
+      donation Your contribution is appreciated. Donate monthly Make a yearly donation
+      Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: L'article critique les déclarations du Premier ministre israélien
+      Benjamin Netanyahu sur l'aide militaire américaine à Israël, les qualifiant de
+      simplistes et trompeuses, tout en soulignant les implications complexes et controversées
+      de ce partenariat militaire.
+    paragraph_summary: L'article d'Elijah J. Magnier critique les déclarations du Premier
+      ministre israélien Benjamin Netanyahu concernant l'aide militaire américaine à
+      Israël, qu'il présente comme bénéfique pour l'économie américaine. Magnier souligne
+      que cette vision simpliste masque la réalité complexe de cette aide, qui finance
+      en grande partie la machine de guerre israélienne et entretient le conflit, tout
+      en interrogeant les véritables bénéfices pour les États-Unis. Il met en lumière
+      le partenariat militaire entre les deux pays, suggérant que Washington est un
+      acteur actif dans les campagnes militaires israéliennes plutôt qu'un simple sponsor,
+      et questionne la justification de cette aide face à ses implications stratégiques
+      ambiguës.
+    published: '2025-11-20T17:31:20+00:00'
+  - title: 'Milliards de dollars américains pour Israël: emplois pour les Américains
+      ou subvention de la guerre ?'
+    url: https://ejmagnier.com/2025/11/20/milliards-de-dollars-americains-pour-israel-emplois-pour-les-americains-ou-subvention-de-la-guerre/
+    text: 'Par Elijah J. Magnier Lorsque le Premier ministre israélien Benjamin Netanyahu
+      a affirmé que « environ 80 pour cent de l’aide militaire américaine à Israël est
+      dépensée aux États-Unis, renforçant l’économie et créant des emplois américains
+      », il a réduit l’un des partenariats militaires les plus controversés au monde
+      au langage d’un bilan comptable. Il a ajouté, dans une maîtrise de l’inversion
+      orwellienne, qu’Israël « travaille à une plus grande indépendance de son industrie
+      de défense », comme si le pipeline de plusieurs milliards de dollars offert par
+      Washington n’était qu’un généreux programme d’apprentissage dont Israël « sortirait
+      » gracieusement en temps voulu. À première vue, l’argument cherche à paraître
+      astucieux : les contribuables américains envoient à Israël des milliards de dollars
+      de subventions militaires gratuites, et Israël, dans un acte de bienveillance
+      apparente, renvoie la majorité de cet argent aux fabricants d’armes américains.
+      Mais un examen plus attentif soulève une question inévitable : les États-Unis
+      profitent-ils réellement de cette transaction circulaire, ou financent-ils une
+      machine de guerre qui entretient le conflit, renforce les géants de la défense
+      et ne procure que des bénéfices étroits et centrés sur l’industrie militaire américaine
+      ? La réponse est bien plus complexe que ce que laisse entendre la formule de Netanyahu
+      — et volontairement. Cette présentation économique simplifiée masque non seulement
+      l’ampleur de l’aide, mais aussi l’alignement politique qu’elle reflète : un partenariat
+      dans lequel Washington n’est pas un parrain réticent, mais un participant actif,
+      en harmonie avec chaque grande campagne militaire israélienne. Il est indéniable
+      que l’assistance américaine couvre une part significative des dépenses de guerre
+      d’Israël, tandis que le bénéfice stratégique pour les États-Unis reste au mieux
+      ambigu. L’inversion orwellienne Dans Nineteen Eighty-Four (1949), George Orwell
+      avertissait que « Qui contrôle le passé contrôle l’avenir ; qui contrôle le présent
+      contrôle le passé ». Ce slogan, régulièrement évoqué dans les débats à la Knesset,
+      décrit la manière dont des acteurs politiques manipulent les récits historiques
+      pour façonner la perception publique et consolider leur pouvoir. Le langage politique
+      du Premier ministre Benjamin Netanyahu — un homme qui sert de manière constante
+      ses propres intérêts avant tout — reflète souvent les mécanismes décrits par Orwell,
+      transformant les intuitions dystopiques de l’écrivain en méthode de gouvernance.
+      Israël est devenu expert dans ce que l’on peut appeler « l’inversion orwellienne
+      » : une manœuvre rhétorique et politique dans laquelle la réalité est délibérément
+      inversée. La vérité devient mensonge, la guerre devient paix, l’occupation devient
+      libération, l’oppression devient sécurité, et une subvention étrangère généreuse
+      est reformulée comme un cadeau fait au donateur. Il ne s’agit pas seulement d’hypocrisie
+      ; c’est une réingénierie systématique de la signification morale et factuelle
+      destinée à préserver le pouvoir tout en dissimulant la violence et les inégalités
+      qu’il produit. Des slogans comme « La guerre, c’est la paix », « La liberté, c’est
+      l’esclavage », « L’ignorance, c’est la force », ou des formules contemporaines
+      telles que « l’attaque, c’est la défense », ne visent pas à persuader de manière
+      logique. Leur objectif est d’éroder la frontière entre vérité et propagande, jusqu’à
+      ce que les contradictions paraissent naturelles. Une inversion orwellienne se
+      produit lorsque des dirigeants décrivent des actions nuisibles ou coercitives
+      dans un langage bienveillant, inversant ainsi la polarité morale. L’oppresseur
+      se présente comme victime ; l’agresseur se revendique défenseur ; les faits sont
+      réécrits pour s’ajuster à l’idéologie. Subscribe Subscribe to get access Read
+      more of this content when you subscribe today. Subscribe Submitting form Log in
+      Make a one-time donation Your contribution is appreciated. Donate Make a monthly
+      donation Your contribution is appreciated. Donate monthly Make a yearly donation
+      Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: L'article critique les déclarations du Premier ministre israélien
+      Benjamin Netanyahu sur l'aide militaire américaine à Israël, les qualifiant de
+      simplistes et trompeuses, tout en soulignant les implications complexes et controversées
+      de ce partenariat militaire.
+    paragraph_summary: L'article d'Elijah J. Magnier critique les déclarations du Premier
+      ministre israélien Benjamin Netanyahu concernant l'aide militaire américaine à
+      Israël, qu'il présente comme bénéfique pour l'économie américaine. Magnier souligne
+      que cette vision simpliste masque la réalité complexe de cette aide, qui finance
+      en grande partie la machine de guerre israélienne et entretient le conflit, tout
+      en interrogeant les véritables bénéfices pour les États-Unis. Il met en lumière
+      le partenariat militaire entre les deux pays, suggérant que Washington est un
+      acteur actif dans les campagnes militaires israéliennes plutôt qu'un simple sponsor,
+      et questionne la justification de cette aide face à ses implications stratégiques
+      ambiguës.
+    published: '2025-11-20T17:31:20+00:00'
+  - title: 'Miljarden van de VS aan Israël: banen voor Amerikanen of subsidiëring van
+      oorlog?'
+    url: https://ejmagnier.com/2025/11/20/miljarden-van-de-vs-aan-israel-banen-voor-amerikanen-of-subsidiering-van-oorlog/
+    text: 'Geschreven door Elijah J. Magnier – Vertaald door Francis J. Toen de Israëlische
+      premier Benjamin Netanyahu zei dat “ongeveer 80% van de Amerikaanse militaire
+      hulp aan Israël weer in de VS wordt uitgegeven, waardoor de economie wordt versterkt
+      en Amerikaanse banen worden gecreëerd”, reduceerde hij een van ‘s werelds meest
+      omstreden militaire partnerschappen tot de taal van bedrijfsboekhoudingen. Hij
+      voegde eraan toe, in een meesterlijke Orwelliaanse omkering, dat Israël “werkt
+      aan een grotere onafhankelijkheid van de defensie-industrie”, alsof de miljardenpijplijn
+      van Washington slechts een genereus stageprogramma is waar Israël te zijner tijd
+      gracieus aan zal “afstuderen”. Op het eerste gezicht klinkt het argument slim:
+      Amerikaanse belastingbetalers sturen Israël miljarden aan gratis militaire subsidies,
+      en Israël stuurt, in een daad van schijnbare welwillendheid, het grootste deel
+      van het geld terug naar Amerikaanse wapenproducenten. Maar bij nader inzien rijst
+      een onvermijdelijke vraag: profiteert de Verenigde Staten echt van deze circulaire
+      transactie, of financiert het een oorlogsmachine die conflicten bestendigt, defensiegiganten
+      macht geeft en alleen maar beperkte, bedrijfsgerichte voordelen oplevert in eigen
+      land? Het antwoord is veel complexer dan Netanyahu’s soundbite suggereert – en
+      dat is ook bewust zo. Wat deze nette economische framing verhult, is niet alleen
+      de omvang van de hulp, maar ook de politieke afstemming die deze weerspiegelt:
+      een partnerschap waarin Washington geen terughoudende sponsor is, maar een actieve
+      deelnemer, die volledig in harmonie opereert met elke grote Israëlische militaire
+      campagne. Het lijdt geen twijfel dat de Amerikaanse hulp een aanzienlijk deel
+      van de oorlogsuitgaven van Israël dekt, terwijl het strategische rendement voor
+      de Verenigde Staten op zijn best dubbelzinnig blijft. De Orwelliaanse omkering
+      George Orwell waarschuwde in zijn boek Nineteen Eighty-Four (1949) dat “wie het
+      verleden beheerst, de toekomst beheerst; wie het heden beheerst, het verleden
+      beheerst”. Deze slogan, die in debatten in de Israëlische Knesset is gebruikt,
+      geeft weer hoe politieke actoren historische verhalen manipuleren om de publieke
+      perceptie te beïnvloeden en hun macht te consolideren. De politieke taal van premier
+      Benjamin Netanyahu – een man die consequent zijn eigen belangen boven alles stelt
+      – weerspiegelt vaak de mechanismen die Orwell beschreef, waardoor de dystopische
+      inzichten van de schrijver worden omgezet in een werkwijze van bestuur. Israël
+      is bedreven geraakt in wat je de “Orwelliaanse omkering” zou kunnen noemen: een
+      retorische en politieke manoeuvre waarbij de werkelijkheid opzettelijk wordt omgekeerd.
+      Waarheid wordt voorgesteld als leugen, oorlog als vrede, bezetting als bevrijding,
+      onderdrukking als veiligheid, en een genereuze buitenlandse subsidie wordt geherformuleerd
+      als een gunst aan de donor. Dit is niet louter hypocrisie; het is een systematische
+      herziening van morele en feitelijke betekenis, bedoeld om de macht te behouden
+      en tegelijkertijd het geweld en de ongelijkheid die die macht voortbrengt te verbergen.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly'
+    one_sentence_summary: Israëlische premier Netanyahu beschrijft de militaire hulp
+      van de VS aan Israël als een economische stimulans voor de Amerikaanse economie,
+      maar deze bewering verhult de complexe en controversiële aard van hun militaire
+      samenwerking.
+    paragraph_summary: In een recente uitspraak benadrukte de Israëlische premier Benjamin
+      Netanyahu dat ongeveer 80% van de Amerikaanse militaire hulp aan Israël weer in
+      de VS wordt uitgegeven, wat volgens hem de Amerikaanse economie versterkt en banen
+      creëert. Deze bewering, die de complexe relatie tussen de VS en Israël reduceert
+      tot een economische transactie, roept echter vragen op over de werkelijke voordelen
+      voor de VS. De auteur, Elijah J. Magnier, stelt dat deze framing de omvang van
+      de hulp en de politieke dynamiek verbergt, waarbij de VS niet alleen als sponsor
+      optreedt, maar ook als actieve deelnemer aan Israëlische militaire campagnes.
+      De Amerikaanse hulp dekt een aanzienlijk deel van Israël's oorlogsuitgaven, terwijl
+      de strategische voordelen voor de VS onduidelijk blijven, wat de noodzaak benadrukt
+      om deze relatie kritisch te heroverwegen.
+    published: '2025-11-20T17:26:57+00:00'
+  - title: 'Miljarden van de VS aan Israël: banen voor Amerikanen of subsidiëring van
+      oorlog?'
+    url: https://ejmagnier.com/2025/11/20/miljarden-van-de-vs-aan-israel-banen-voor-amerikanen-of-subsidiering-van-oorlog/
+    text: 'Geschreven door Elijah J. Magnier – Vertaald door Francis J. Toen de Israëlische
+      premier Benjamin Netanyahu zei dat “ongeveer 80% van de Amerikaanse militaire
+      hulp aan Israël weer in de VS wordt uitgegeven, waardoor de economie wordt versterkt
+      en Amerikaanse banen worden gecreëerd”, reduceerde hij een van ‘s werelds meest
+      omstreden militaire partnerschappen tot de taal van bedrijfsboekhoudingen. Hij
+      voegde eraan toe, in een meesterlijke Orwelliaanse omkering, dat Israël “werkt
+      aan een grotere onafhankelijkheid van de defensie-industrie”, alsof de miljardenpijplijn
+      van Washington slechts een genereus stageprogramma is waar Israël te zijner tijd
+      gracieus aan zal “afstuderen”. Op het eerste gezicht klinkt het argument slim:
+      Amerikaanse belastingbetalers sturen Israël miljarden aan gratis militaire subsidies,
+      en Israël stuurt, in een daad van schijnbare welwillendheid, het grootste deel
+      van het geld terug naar Amerikaanse wapenproducenten. Maar bij nader inzien rijst
+      een onvermijdelijke vraag: profiteert de Verenigde Staten echt van deze circulaire
+      transactie, of financiert het een oorlogsmachine die conflicten bestendigt, defensiegiganten
+      macht geeft en alleen maar beperkte, bedrijfsgerichte voordelen oplevert in eigen
+      land? Het antwoord is veel complexer dan Netanyahu’s soundbite suggereert – en
+      dat is ook bewust zo. Wat deze nette economische framing verhult, is niet alleen
+      de omvang van de hulp, maar ook de politieke afstemming die deze weerspiegelt:
+      een partnerschap waarin Washington geen terughoudende sponsor is, maar een actieve
+      deelnemer, die volledig in harmonie opereert met elke grote Israëlische militaire
+      campagne. Het lijdt geen twijfel dat de Amerikaanse hulp een aanzienlijk deel
+      van de oorlogsuitgaven van Israël dekt, terwijl het strategische rendement voor
+      de Verenigde Staten op zijn best dubbelzinnig blijft. De Orwelliaanse omkering
+      George Orwell waarschuwde in zijn boek Nineteen Eighty-Four (1949) dat “wie het
+      verleden beheerst, de toekomst beheerst; wie het heden beheerst, het verleden
+      beheerst”. Deze slogan, die in debatten in de Israëlische Knesset is gebruikt,
+      geeft weer hoe politieke actoren historische verhalen manipuleren om de publieke
+      perceptie te beïnvloeden en hun macht te consolideren. De politieke taal van premier
+      Benjamin Netanyahu – een man die consequent zijn eigen belangen boven alles stelt
+      – weerspiegelt vaak de mechanismen die Orwell beschreef, waardoor de dystopische
+      inzichten van de schrijver worden omgezet in een werkwijze van bestuur. Israël
+      is bedreven geraakt in wat je de “Orwelliaanse omkering” zou kunnen noemen: een
+      retorische en politieke manoeuvre waarbij de werkelijkheid opzettelijk wordt omgekeerd.
+      Waarheid wordt voorgesteld als leugen, oorlog als vrede, bezetting als bevrijding,
+      onderdrukking als veiligheid, en een genereuze buitenlandse subsidie wordt geherformuleerd
+      als een gunst aan de donor. Dit is niet louter hypocrisie; het is een systematische
+      herziening van morele en feitelijke betekenis, bedoeld om de macht te behouden
+      en tegelijkertijd het geweld en de ongelijkheid die die macht voortbrengt te verbergen.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly'
+    one_sentence_summary: Israëlische premier Netanyahu beschrijft de militaire hulp
+      van de VS aan Israël als een economische stimulans voor de Amerikaanse economie,
+      maar deze bewering verhult de complexe en controversiële aard van hun militaire
+      samenwerking.
+    paragraph_summary: In een recente uitspraak benadrukte de Israëlische premier Benjamin
+      Netanyahu dat ongeveer 80% van de Amerikaanse militaire hulp aan Israël weer in
+      de VS wordt uitgegeven, wat volgens hem de Amerikaanse economie versterkt en banen
+      creëert. Deze bewering, die de complexe relatie tussen de VS en Israël reduceert
+      tot een economische transactie, roept echter vragen op over de werkelijke voordelen
+      voor de VS. De auteur, Elijah J. Magnier, stelt dat deze framing de omvang van
+      de hulp en de politieke dynamiek verbergt, waarbij de VS niet alleen als sponsor
+      optreedt, maar ook als actieve deelnemer aan Israëlische militaire campagnes.
+      De Amerikaanse hulp dekt een aanzienlijk deel van Israël's oorlogsuitgaven, terwijl
+      de strategische voordelen voor de VS onduidelijk blijven, wat de noodzaak benadrukt
+      om deze relatie kritisch te heroverwegen.
+    published: '2025-11-20T17:26:57+00:00'
   - title: 'UNSCR 2803: A Ceasefire That Ends the War but Leaves the Future Empty'
     url: https://ejmagnier.com/2025/11/18/unscr-2803-a-ceasefire-that-ends-the-war-but-leaves-the-future-empty/
     text: 'By Elijah J. Magnier – UN Security Council Resolution 2803 did something

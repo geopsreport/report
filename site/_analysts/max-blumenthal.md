@@ -7,16 +7,119 @@ description: "Investigative journalist and filmmaker; founder of The Grayzone; c
 websites:
   - https://thegrayzone.com
 summary: |
-  As the global landscape continues to be shaped by covert operations and intelligence scandals, recent revelations have further exposed the deep entanglement of Western elites with foreign intelligence agencies and the growing use of advanced surveillance technologies.
+  In recent weeks, a series of investigative reports have shed new light on the covert operations and political machinations shaping global affairs. The most significant recent development comes from newly unsealed federal court documents, which, according to **Max Blumenthal**, confirm that White House officials were aware in advance of the 2020 coup attempt in Venezuela. The documents detail the involvement of figures close to former President Trump and outline the conspiratorial tactics used in the failed operation. This revelation not only implicates high-level U.S. officials but also raises questions about ongoing U.S. policy towards Latin America.
   
-  The most recent and explosive development centers on the British Royal Family. In a detailed interview, historian **Andrew Lownie** revealed that Prince Andrew’s relationship with Jeffrey Epstein went beyond personal misconduct, involving the exchange of young girls and sensitive intelligence with foreign spy agencies. According to Lownie, “further revelations could severely damage the Royal Family’s reputation,” suggesting that the fallout from these disclosures may only be beginning. Given the gravity and specificity of these claims, there is a high chance that additional damaging details will emerge, most likely leading to intensified scrutiny of both the monarchy and its international connections.
+  Meanwhile, in Mexico, the so-called "Gen Z rebellion" has been exposed as a manufactured movement. **Blumenthal** reports that what was initially portrayed as a spontaneous youth uprising against corruption was, in fact, orchestrated and funded by a coalition of local oligarchs and international right-wing networks. Their objective: to destabilize President Claudia Sheinbaum's administration. The exposure of this plot has significantly undermined the credibility of the protest movement and may strengthen Sheinbaum's position in the short term.
   
-  Meanwhile, the deployment of AI-powered reconnaissance drones—originally used in Gaza—has expanded to American cities, where they are now being used to surveil protesters. **Max Blumenthal** reports that this development has sparked significant concerns about privacy and civil liberties, as the same technologies designed for foreign conflict zones are now being repurposed for domestic monitoring. The trend toward militarization of domestic surveillance is quite likely to accelerate, especially as protest movements grow and authorities seek new tools for crowd control and intelligence gathering.
+  On another front, the fallout from Prince Andrew’s association with Jeffrey Epstein continues to reverberate. Historian Andrew Lownie, interviewed by **Blumenthal**, revealed that Prince Andrew’s relationship with Epstein involved not only the trafficking of young women but also the exchange of intelligence with foreign spy agencies. The potential for further damaging revelations remains high, posing a serious threat to the reputation of the British Royal Family.
   
-  In the United States, the fallout from the failed 2020 Venezuela coup continues to reverberate. Newly released federal court documents implicate Trump associates and suggest that White House insiders had prior knowledge of the plot. This revelation adds to the mounting evidence of direct U.S. involvement in regime change efforts in Latin America, raising questions about ongoing covert operations and the potential for further legal and political consequences.
-  
-  Looking ahead, the convergence of elite scandals, intelligence agency operations, and the normalization of military-grade surveillance in civilian contexts points to a period of heightened instability and public distrust. There is a high chance that further leaks and investigative reporting will expose additional layers of collusion and misconduct among Western political and intelligence elites. I guarantee that the use of advanced surveillance technologies for domestic purposes will expand, with significant implications for civil liberties and protest movements in the West.
+  **Trends and Predictions:**  
+  The accumulation of evidence pointing to covert U.S. involvement in regime change operations in Latin America suggests that similar strategies may persist, though with increased scrutiny and risk of exposure. In Mexico, the failure of the right-wing-backed protest movement is likely to embolden the current government, at least in the near term. Regarding the British Royal Family, there is a high chance that additional disclosures will emerge, further eroding public trust. Overall, I guarantee that the coming months will see intensified investigative reporting and political fallout as these stories continue to develop.
 articles:
+  - title: Funcionarios de la Casa Blanca sabían de antemano del golpe de Estado Venezolano
+      de 2020, según archivos
+    url: https://thegrayzone.com/2025/11/24/casa-blanca-sabia-del-golpe-venezolano/
+    text: 'Documentos publicados por una corte federal ofrecen detalles nuevos y perturbadores
+      sobre el intento de figuras relacionadas con Trump de orquestar un golpe contra
+      un gobierno que claramente no entendían. Esta es una mirada sin precedentes a
+      los actores y sus conspiraciones -desde terrorismo hasta banderas falsas- que
+      pudiera ilustrar la naturaleza el asalto militar estadounidense en ciernes contra
+      Venezuela.  El hombre al que el gobierno estadounidense culpa de todo, Jordan
+      Goudreau, proveyó evidencias a The Grayzone de: Que firmó […] The post Funcionarios
+      de la Casa Blanca sabían de antemano del golpe de Estado Venezolano de 2020, según
+      archivos first appeared on The Grayzone . The post Funcionarios de la Casa Blanca
+      sabían de antemano del golpe de Estado Venezolano de 2020, según archivos appeared
+      first on The Grayzone .'
+    one_sentence_summary: Documentos de una corte federal revelan que funcionarios de
+      la Casa Blanca estaban al tanto del intento de golpe de Estado en Venezuela en
+      2020, orquestado por figuras cercanas a Trump, y detallan las conspiraciones y
+      tácticas involucradas.
+    paragraph_summary: Documentos de una corte federal revelan nuevos y preocupantes
+      detalles sobre el intento de figuras vinculadas a Trump de llevar a cabo un golpe
+      de Estado en Venezuela, un esfuerzo que parece haber sido mal entendido por sus
+      organizadores. La información sugiere una conexión entre estos actores y conspiraciones
+      que incluyen terrorismo y operaciones encubiertas. Jordan Goudreau, señalado por
+      el gobierno estadounidense como el principal responsable, proporcionó pruebas
+      que indican que funcionarios de la Casa Blanca estaban al tanto del plan para
+      el golpe de Estado en 2020.
+    published: '2025-11-24T18:16:56+00:00'
+  - title: Funcionarios de la Casa Blanca sabían de antemano del golpe de Estado Venezolano
+      de 2020, según archivos
+    url: https://thegrayzone.com/2025/11/24/casa-blanca-sabia-del-golpe-venezolano/
+    text: 'Documentos publicados por una corte federal ofrecen detalles nuevos y perturbadores
+      sobre el intento de figuras relacionadas con Trump de orquestar un golpe contra
+      un gobierno que claramente no entendían. Esta es una mirada sin precedentes a
+      los actores y sus conspiraciones -desde terrorismo hasta banderas falsas- que
+      pudiera ilustrar la naturaleza el asalto militar estadounidense en ciernes contra
+      Venezuela.  El hombre al que el gobierno estadounidense culpa de todo, Jordan
+      Goudreau, proveyó evidencias a The Grayzone de: Que firmó […] The post Funcionarios
+      de la Casa Blanca sabían de antemano del golpe de Estado Venezolano de 2020, según
+      archivos first appeared on The Grayzone . The post Funcionarios de la Casa Blanca
+      sabían de antemano del golpe de Estado Venezolano de 2020, según archivos appeared
+      first on The Grayzone .'
+    one_sentence_summary: Documentos de una corte federal revelan que funcionarios de
+      la Casa Blanca estaban al tanto del intento de golpe de Estado en Venezuela en
+      2020, orquestado por figuras cercanas a Trump, y detallan las conspiraciones y
+      tácticas involucradas.
+    paragraph_summary: Documentos de una corte federal revelan nuevos y preocupantes
+      detalles sobre el intento de figuras vinculadas a Trump de llevar a cabo un golpe
+      de Estado en Venezuela, un esfuerzo que parece haber sido mal entendido por sus
+      organizadores. La información sugiere una conexión entre estos actores y conspiraciones
+      que incluyen terrorismo y operaciones encubiertas. Jordan Goudreau, señalado por
+      el gobierno estadounidense como el principal responsable, proporcionó pruebas
+      que indican que funcionarios de la Casa Blanca estaban al tanto del plan para
+      el golpe de Estado en 2020.
+    published: '2025-11-24T18:16:56+00:00'
+  - title: Mexico’s ‘Gen Z rebellion’ exposed as viral right-wing plot
+    url: https://thegrayzone.com/2025/11/19/mexicos-rebellion-right-wing-plot/
+    text: Presented as a spontaneous youth-led uprising against corruption, violent
+      protests that erupted across Mexico this month were backed by local oligarchs
+      and an international right-wing network determined to topple the popular President
+      Claudia Sheinbaum. Violent demonstrations which erupted in over 50 cities across
+      Mexico on November 15 were secretly financed and coordinated by an international
+      right-wing network and amplified by bot networks, a new report by public fact-checking
+      platform Infodemia has concluded. Those findings were amplified by Mexican President
+      Claudia […] The post Mexico’s ‘Gen Z rebellion’ exposed as viral right-wing plot
+      first appeared on The Grayzone . The post Mexico’s ‘Gen Z rebellion’ exposed as
+      viral right-wing plot appeared first on The Grayzone .
+    one_sentence_summary: Recent violent protests in Mexico, initially portrayed as
+      a youth-led uprising against corruption, were revealed to be secretly funded and
+      coordinated by local oligarchs and an international right-wing network aiming
+      to undermine President Claudia Sheinbaum.
+    paragraph_summary: Recent protests in Mexico, initially portrayed as a grassroots
+      movement against corruption, have been revealed as a coordinated effort backed
+      by local oligarchs and an international right-wing network aiming to undermine
+      President Claudia Sheinbaum. A report by the public fact-checking platform Infodemia
+      indicates that the violent demonstrations, which occurred in over 50 cities on
+      November 15, were secretly financed and organized, with their reach amplified
+      through bot networks. This revelation challenges the narrative of a spontaneous
+      youth-led uprising, suggesting a more complex political agenda at play.
+    published: '2025-11-20T00:42:02+00:00'
+  - title: Mexico’s ‘Gen Z rebellion’ exposed as viral right-wing plot
+    url: https://thegrayzone.com/2025/11/19/mexicos-rebellion-right-wing-plot/
+    text: Presented as a spontaneous youth-led uprising against corruption, violent
+      protests that erupted across Mexico this month were backed by local oligarchs
+      and an international right-wing network determined to topple the popular President
+      Claudia Sheinbaum. Violent demonstrations which erupted in over 50 cities across
+      Mexico on November 15 were secretly financed and coordinated by an international
+      right-wing network and amplified by bot networks, a new report by public fact-checking
+      platform Infodemia has concluded. Those findings were amplified by Mexican President
+      Claudia […] The post Mexico’s ‘Gen Z rebellion’ exposed as viral right-wing plot
+      first appeared on The Grayzone . The post Mexico’s ‘Gen Z rebellion’ exposed as
+      viral right-wing plot appeared first on The Grayzone .
+    one_sentence_summary: Recent violent protests in Mexico, initially portrayed as
+      a youth-led uprising against corruption, were revealed to be secretly funded and
+      coordinated by local oligarchs and an international right-wing network aiming
+      to undermine President Claudia Sheinbaum.
+    paragraph_summary: Recent protests in Mexico, initially portrayed as a grassroots
+      movement against corruption, have been revealed as a coordinated effort backed
+      by local oligarchs and an international right-wing network aiming to undermine
+      President Claudia Sheinbaum. A report by the public fact-checking platform Infodemia
+      indicates that the violent demonstrations, which occurred in over 50 cities on
+      November 15, were secretly financed and organized, with their reach amplified
+      through bot networks. This revelation challenges the narrative of a spontaneous
+      youth-led uprising, suggesting a more complex political agenda at play.
+    published: '2025-11-20T00:42:02+00:00'
   - title: The intel scandal behind Prince Andrew’s twisted Epstein exploits
     url: https://thegrayzone.com/2025/11/16/prince-andrews-epstein-buckingham-palace/
     text: In an interview with The Grayzone, author Andrew Lownie details shocking findings

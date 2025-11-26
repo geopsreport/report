@@ -7,19 +7,208 @@ description: "Journalist and producer; covers US foreign policy, Russiagate, and
 websites:
   - https://www.aaronmate.net/
 summary: |
-  The global geopolitical landscape remains volatile, with U.S. foreign policy under President Trump driving significant developments across several conflict zones. Recent reporting has highlighted new regime change ambitions, persistent tensions in Ukraine, and the evolving aftermath of the Gaza ceasefire.
+  The past weeks have seen a rapid succession of developments across the Middle East and Eastern Europe, with US foreign policy under President Trump driving significant changes in longstanding conflicts. The most recent and consequential shift is the UN Security Council’s approval—this time with US backing—of a measure that, according to **Aaron Maté**, “reflects a troubling consensus among nations that undermines Palestinian rights and endorses Trump’s controversial peace plan for Gaza.” This marks a departure from the US’s habitual use of its veto to shield Israel, signaling a new international alignment that, while halting some violence, effectively cements the status quo and Trump’s vision for the region.
   
-  Most recently, **Aaron Maté** reports that the Trump administration is intensifying its regime change agenda in Venezuela, signaling a renewed push for intervention. Trump’s approach, according to Maté, is “less about democracy than about restoring U.S. influence in the region,” with the administration leveraging both economic pressure and covert support for opposition groups. This marks a notable escalation from previous diplomatic posturing, and Maté warns that “the risk of direct confrontation is rising.”
+  Meanwhile, the situation in Gaza remains dire despite the ceasefire brokered by Trump. The agreement, as previously analyzed, fails to address the root causes of the conflict—namely, Israeli occupation and the denial of Palestinian self-determination. **Aaron Maté** notes that Israel continues to violate the terms by restricting aid and conducting further attacks, while the international community’s latest move at the UN “endorses Trump’s plan” rather than pushing for a just resolution. The majority of sources agree that the so-called peace plan is widely seen as a repackaged demand for Palestinian surrender, rather than a genuine step towards peace.
   
-  In Ukraine, President Trump has rejected President Zelensky’s request for U.S. Tomahawk missiles, instead urging Kyiv to consider ceding the Donbas region to Russia as part of a diplomatic solution. **Aaron Maté** emphasizes that Trump’s stance reflects growing skepticism in Washington about further military escalation, even as “the war lobby refuses to ‘lose’.” This signals a potential shift toward negotiations, though entrenched interests in D.C. continue to advocate for a more confrontational approach.
+  In Ukraine, Trump’s rejection of President Zelensky’s request for long-range Tomahawk missiles has shifted the conversation towards diplomacy, with Trump urging Zelensky to consider ceding the Donbas region to Russia. This stance, while reducing the risk of immediate escalation, leaves Ukraine in a precarious position and signals a broader US retrenchment from direct military engagement. The “war lobby” in Washington, however, remains resistant to any outcome that could be construed as a loss, suggesting continued internal debate over US strategy.
   
-  Meanwhile, the ceasefire between Israel and Hamas, brokered by Trump, remains fragile. While the deal has temporarily halted large-scale violence in Gaza, **Aaron Maté** notes that “the underlying causes—Israeli occupation and Palestinian self-determination—remain unaddressed.” Israel’s ongoing restrictions on aid and continued military actions suggest the ceasefire’s durability is questionable, with Maté cautioning that “violations are already occurring.”
-  
-  **Trends and Predictions:**  
-  The majority of analysts agree that U.S. policy is entering a more openly interventionist phase in Latin America, while simultaneously seeking to de-escalate direct military involvement in Ukraine. The Gaza ceasefire is widely seen as a stopgap, unlikely to produce lasting peace without deeper structural changes. Based on current trajectories, there is a high chance that U.S.-Venezuela tensions will escalate further, and the Ukraine conflict may see increased diplomatic pressure for territorial concessions. The Gaza situation, absent meaningful policy shifts, is quite likely to revert to violence in the near term.
-  
-  Overall, the prevailing trend is one of selective engagement: assertive intervention where U.S. interests are perceived as threatened, and cautious retrenchment where the costs of escalation are deemed too high.
+  Looking ahead, the trends point towards a consolidation of Trump’s approach: transactional diplomacy, pressure on adversaries to accept US terms, and a willingness to override international norms when convenient. The endorsement of Trump’s Gaza plan at the UN, coupled with the US’s shifting posture in Ukraine, suggests that these patterns will persist. There is a high chance that Palestinian rights will remain sidelined in the near term, and that the US will continue to prioritize stability and its own interests over substantive conflict resolution. As **Aaron Maté** concludes, “the underlying causes remain unchanged,” and absent a major shift in international consensus, these dynamics are most definitely set to continue.
 articles:
+  - title: With UN blessing, the US and Israel impose the master’s plan
+    url: https://www.aaronmate.net/p/with-un-blessing-the-us-and-israel
+    text: '(Photo by Adam Gray/Getty Images) For more than five decades, the US has
+      used its veto power at the United Nations Security Council (UNSC) to safeguard
+      Israeli aggression against the Palestinian people and occupation of their land.  That
+      long record of impunity includes six times since Oct. 7 th 2023, when the US blocked
+      calls for an end to Israel’s scorched-earth bombardment of Gaza and siege of its
+      civilian population. On Monday, the UNSC managed to pass a rare measure with US
+      blessing. But it did not result from a shift in Washington. Instead, in an unprecedented
+      development, the assembled nations, including permanent members Russia and China,
+      formally acceded to longstanding US-Israeli rejection of Palestinian rights, and
+      with it an abandonment of the global consensus for resolving the main source of
+      all Middle East strife. The US-authored measure grants international approval
+      to Donald Trump’s so-called “peace plan” for Gaza, which foresees a multinational
+      “International Stabilization Force” policing the territory and a Trump-headed
+      “Board of Peace” governing it for at least two years. As Trump envoy Steve Witkoff
+      acknowledged to CBS News last month , the plan is the brainchild of Trump son-in-law
+      Jared Kushner, who has “been working on master plans for the last two years.”
+      Kushner does not even hold an official government position, but no matter: as
+      Vice President JD Vance put it , he is “the investor here.” Under the Trump-Kushner
+      vision, valuable parts of Gaza will be developed into industrial zones for the
+      benefit of allied profiteers, including Gulf monarchies Saudi Arabia and Qatar,
+      who have parked billions of sovereign wealth fund dollars in Kushner’s investment
+      firm. Meanwhile, Kushner has decreed that “no reconstruction funds will be going
+      into areas that Hamas still controls”, leaving Palestinians there with the choice
+      to live in rubble or leave. Kushner was a key architect of Trump’s 2020 “peace
+      plan ” for Israel-Palestine, a de-facto demand for Palestinian surrender in the
+      West Bank as well. Under any future peace deal, the 2020 Trump-Kushner plan said,
+      Israel “will not have to uproot any settlements, and will incorporate the vast
+      majority of Israeli settlements into contiguous Israeli territory.” Echoing the
+      toothless language in Trump’s latest 20-point plan , the Security Council resolution
+      ’s only nod to Palestinian rights comes in the form of a vague pledge that, should
+      the West Bank-based Palestinian Authority sufficiently reform in US eyes, “conditions
+      may finally be in place for a credible pathway to Palestinian self-determination
+      and statehood.” By contrast, a Russian-authored measure circulated ahead of the
+      vote offered a clear demand for a Palestinian state. But Russia and its ally China,
+      who vote as a de-facto bloc, abandoned their joint position and abstained on the
+      US proposal, securing its approval. Both countries claim to have backed down with
+      trepidation. “Today is a sorrowful day for the Security Council,” Russian Ambassador
+      Vasily Nebenzya remarked, adding that the measure only succeeded because the US
+      was “twisting the arms” of other members. With Arab countries and even the Palestinian
+      Authority supporting the US proposal, Russia and China did not want to stand apart
+      as the lone obstacle. But their arms were arguably twisted as well. Bogged down
+      in Ukraine, and hoping to strike a deal with Trump that could end the conflict,
+      Moscow decided that inalienable Palestinian rights are newly expendable. China,
+      which remains locked in a trade feud with Trump and faces the ongoing threat of
+      a military showdown over Taiwan, likely made a similar calculation. Their retreat
+      brings to mind an observation by Noam Chomsky : “People have human rights insofar
+      as they provide services to power. Israel provides substantial services to US
+      power, Palestinians on the other hand provide nothing.” Therefore, they can easily
+      be abandoned. To get Russia and China to stand down, the US also pressed its case
+      with open threats. Ahead of the vote, the US mission to the UN warned that alternative
+      proposals like Russia’s amounted to “attempts to sow discord,” and would have
+      “grave, tangible and entirely avoidable consequences for Palestinians in Gaza.”
+      Any “departure” from the US position, “be it by those who wish to play political
+      games or to relitigate the past,” US Ambassador Mike Waltz wrote, “will come with
+      a real human cost.” Waltz’s threat is backed by a long past that carries into
+      the present. The US and Israel have come to their dominant position precisely
+      because of their willingness to impose massive human cost throughout the region,
+      not just in Palestine but also Iraq, Libya, Yemen, Syria, and Lebanon. That aggression
+      continues in Gaza, where Israel has killed at least 280 people since the so-called
+      “ceasefire” took effect last month. Israel also continues to block the delivery
+      of basic supplies, subjecting displaced Palestinians to new depths of suffering
+      at the outset of winter. This includes devastating flooding after heavy rains
+      and uncontrolled sewage water soaked families sheltering in dilapidated tents.
+      Israel can continue to kill Palestinians and ignore its humanitarian obligations
+      as a result of what the Wall Street Journal recently described as a “new position
+      of power after a series of wars that have left it with no significant regional
+      rivals.” Or as Amos Hochstein, a top official for the Middle East under Joe Biden,
+      put it: “The fundamental change that has to be recognized in addressing the future
+      of the Middle East is that Israel is now the strongest power in the Middle East.
+      They are the absolute, overwhelming, dominant military hegemon of the Middle East.”
+      The dominant military hegemon makes no effort to hide its contempt for the region’s
+      weakest party. “Israel’s policy is clear: There will be no Palestinian state,”
+      Defense Minister Israel Katz said ahead of the UNSC vote. “The only real solution
+      for Gaza,” Katz added, “is encouraging voluntary emigration.” All a part of the
+      master’s plan. Aaron Mate is a reader-supported publication. To receive new posts
+      and support my work, consider becoming a free or paid subscriber.'
+    one_sentence_summary: The article discusses how the US has historically used its
+      veto power at the UN Security Council to protect Israeli actions against Palestinians,
+      recently blocking calls to end the bombardment of Gaza, while a new measure, despite
+      being approved with US support, reflects a troubling consensus among nations that
+      undermines Palestinian rights and endorses Trump's controversial peace plan for
+      Gaza.
+    paragraph_summary: For over fifty years, the United States has utilized its veto
+      power at the United Nations Security Council (UNSC) to protect Israeli actions
+      against Palestinians, recently blocking calls to halt Israel's military actions
+      in Gaza. In a rare move, the UNSC passed a measure with US support, but this was
+      not indicative of a change in US policy; rather, it marked a formal acceptance
+      by other nations, including Russia and China, of the US-Israeli stance on Palestinian
+      rights. The measure endorses Donald Trump's "peace plan" for Gaza, which includes
+      the establishment of an "International Stabilization Force" and a governing "Board
+      of Peace" led by Trump. This plan, largely crafted by Trump’s son-in-law Jared
+      Kushner, aims to develop parts of Gaza into industrial zones benefiting allied
+      investors, while denying reconstruction funds to areas controlled by Hamas, effectively
+      leaving many Palestinians in dire conditions.
+    published: '2025-11-19T19:51:13+00:00'
+  - title: With UN blessing, the US and Israel impose the master’s plan
+    url: https://www.aaronmate.net/p/with-un-blessing-the-us-and-israel
+    text: '(Photo by Adam Gray/Getty Images) For more than five decades, the US has
+      used its veto power at the United Nations Security Council (UNSC) to safeguard
+      Israeli aggression against the Palestinian people and occupation of their land.  That
+      long record of impunity includes six times since Oct. 7 th 2023, when the US blocked
+      calls for an end to Israel’s scorched-earth bombardment of Gaza and siege of its
+      civilian population. On Monday, the UNSC managed to pass a rare measure with US
+      blessing. But it did not result from a shift in Washington. Instead, in an unprecedented
+      development, the assembled nations, including permanent members Russia and China,
+      formally acceded to longstanding US-Israeli rejection of Palestinian rights, and
+      with it an abandonment of the global consensus for resolving the main source of
+      all Middle East strife. The US-authored measure grants international approval
+      to Donald Trump’s so-called “peace plan” for Gaza, which foresees a multinational
+      “International Stabilization Force” policing the territory and a Trump-headed
+      “Board of Peace” governing it for at least two years. As Trump envoy Steve Witkoff
+      acknowledged to CBS News last month , the plan is the brainchild of Trump son-in-law
+      Jared Kushner, who has “been working on master plans for the last two years.”
+      Kushner does not even hold an official government position, but no matter: as
+      Vice President JD Vance put it , he is “the investor here.” Under the Trump-Kushner
+      vision, valuable parts of Gaza will be developed into industrial zones for the
+      benefit of allied profiteers, including Gulf monarchies Saudi Arabia and Qatar,
+      who have parked billions of sovereign wealth fund dollars in Kushner’s investment
+      firm. Meanwhile, Kushner has decreed that “no reconstruction funds will be going
+      into areas that Hamas still controls”, leaving Palestinians there with the choice
+      to live in rubble or leave. Kushner was a key architect of Trump’s 2020 “peace
+      plan ” for Israel-Palestine, a de-facto demand for Palestinian surrender in the
+      West Bank as well. Under any future peace deal, the 2020 Trump-Kushner plan said,
+      Israel “will not have to uproot any settlements, and will incorporate the vast
+      majority of Israeli settlements into contiguous Israeli territory.” Echoing the
+      toothless language in Trump’s latest 20-point plan , the Security Council resolution
+      ’s only nod to Palestinian rights comes in the form of a vague pledge that, should
+      the West Bank-based Palestinian Authority sufficiently reform in US eyes, “conditions
+      may finally be in place for a credible pathway to Palestinian self-determination
+      and statehood.” By contrast, a Russian-authored measure circulated ahead of the
+      vote offered a clear demand for a Palestinian state. But Russia and its ally China,
+      who vote as a de-facto bloc, abandoned their joint position and abstained on the
+      US proposal, securing its approval. Both countries claim to have backed down with
+      trepidation. “Today is a sorrowful day for the Security Council,” Russian Ambassador
+      Vasily Nebenzya remarked, adding that the measure only succeeded because the US
+      was “twisting the arms” of other members. With Arab countries and even the Palestinian
+      Authority supporting the US proposal, Russia and China did not want to stand apart
+      as the lone obstacle. But their arms were arguably twisted as well. Bogged down
+      in Ukraine, and hoping to strike a deal with Trump that could end the conflict,
+      Moscow decided that inalienable Palestinian rights are newly expendable. China,
+      which remains locked in a trade feud with Trump and faces the ongoing threat of
+      a military showdown over Taiwan, likely made a similar calculation. Their retreat
+      brings to mind an observation by Noam Chomsky : “People have human rights insofar
+      as they provide services to power. Israel provides substantial services to US
+      power, Palestinians on the other hand provide nothing.” Therefore, they can easily
+      be abandoned. To get Russia and China to stand down, the US also pressed its case
+      with open threats. Ahead of the vote, the US mission to the UN warned that alternative
+      proposals like Russia’s amounted to “attempts to sow discord,” and would have
+      “grave, tangible and entirely avoidable consequences for Palestinians in Gaza.”
+      Any “departure” from the US position, “be it by those who wish to play political
+      games or to relitigate the past,” US Ambassador Mike Waltz wrote, “will come with
+      a real human cost.” Waltz’s threat is backed by a long past that carries into
+      the present. The US and Israel have come to their dominant position precisely
+      because of their willingness to impose massive human cost throughout the region,
+      not just in Palestine but also Iraq, Libya, Yemen, Syria, and Lebanon. That aggression
+      continues in Gaza, where Israel has killed at least 280 people since the so-called
+      “ceasefire” took effect last month. Israel also continues to block the delivery
+      of basic supplies, subjecting displaced Palestinians to new depths of suffering
+      at the outset of winter. This includes devastating flooding after heavy rains
+      and uncontrolled sewage water soaked families sheltering in dilapidated tents.
+      Israel can continue to kill Palestinians and ignore its humanitarian obligations
+      as a result of what the Wall Street Journal recently described as a “new position
+      of power after a series of wars that have left it with no significant regional
+      rivals.” Or as Amos Hochstein, a top official for the Middle East under Joe Biden,
+      put it: “The fundamental change that has to be recognized in addressing the future
+      of the Middle East is that Israel is now the strongest power in the Middle East.
+      They are the absolute, overwhelming, dominant military hegemon of the Middle East.”
+      The dominant military hegemon makes no effort to hide its contempt for the region’s
+      weakest party. “Israel’s policy is clear: There will be no Palestinian state,”
+      Defense Minister Israel Katz said ahead of the UNSC vote. “The only real solution
+      for Gaza,” Katz added, “is encouraging voluntary emigration.” All a part of the
+      master’s plan. Aaron Mate is a reader-supported publication. To receive new posts
+      and support my work, consider becoming a free or paid subscriber.'
+    one_sentence_summary: The article discusses how the US has historically used its
+      veto power at the UN Security Council to protect Israeli actions against Palestinians,
+      recently blocking calls to end the bombardment of Gaza, while a new measure, despite
+      being approved with US support, reflects a troubling consensus among nations that
+      undermines Palestinian rights and endorses Trump's controversial peace plan for
+      Gaza.
+    paragraph_summary: For over fifty years, the United States has utilized its veto
+      power at the United Nations Security Council (UNSC) to protect Israeli actions
+      against Palestinians, recently blocking calls to halt Israel's military actions
+      in Gaza. In a rare move, the UNSC passed a measure with US support, but this was
+      not indicative of a change in US policy; rather, it marked a formal acceptance
+      by other nations, including Russia and China, of the US-Israeli stance on Palestinian
+      rights. The measure endorses Donald Trump's "peace plan" for Gaza, which includes
+      the establishment of an "International Stabilization Force" and a governing "Board
+      of Peace" led by Trump. This plan, largely crafted by Trump’s son-in-law Jared
+      Kushner, aims to develop parts of Gaza into industrial zones benefiting allied
+      investors, while denying reconstruction funds to areas controlled by Hamas, effectively
+      leaving many Palestinians in dire conditions.
+    published: '2025-11-19T19:51:13+00:00'
   - title: Trump's regime change plans for Venezuela; Mamdani, MAGA fuel dissent over
       Israel
     url: https://www.aaronmate.net/p/trumps-regime-change-plans-for-venezuela

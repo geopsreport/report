@@ -7,14 +7,98 @@ description: "Swedish peace researcher and co–founder of Transnational Foundat
 websites:
   - https://transnational.live/
 summary: |
-  The adoption of former President Trump’s “peace” plan for Gaza by the UN Security Council marks a significant and controversial shift in international diplomacy. As **Jan Oberg** observes, this move signals a “troubling departure from genuine peace efforts” and highlights a broader global deficiency in conflict resolution literacy. Oberg’s analysis stresses that the plan, rather than addressing the root causes of the conflict, represents what he calls a “cruel joke” in a world increasingly ill-equipped to foster real peace.
+  As the international community continues to grapple with protracted crises in Ukraine and Gaza, recent analysis by **Jan Oberg** underscores a growing skepticism about the effectiveness and authenticity of current peace initiatives. The prevailing view across Oberg’s latest publications is that conventional diplomatic and military approaches are failing to address the root causes of these conflicts, and that genuine peace will require a fundamental shift in strategy.
   
-  This development comes amid ongoing debates about the nature of peace and the mechanisms required to achieve it. Recent discussions, such as those critiquing the Sachs–Mearsheimer debate, underscore the need for “designated zones of peace” and transformative dialogue, as articulated by Biljana Vankovska and echoed by Oberg. The lack of such spaces, Oberg argues, is symptomatic of a deeper malaise in global governance and peace studies.
+  On Ukraine, **Oberg** argues that neither existing peace plans nor ongoing military actions are likely to bring about a sustainable resolution. Instead, he emphasizes the necessity of building trust and fostering prosperity through constructive, long-term initiatives. According to Oberg, “true peace in Ukraine cannot be achieved through existing peace plans or military actions, but rather requires a focus on building trust and fostering prosperity through constructive initiatives.” This reflects a broader skepticism about the sincerity of recent US-Russian diplomatic efforts, which Oberg suggests may be more performative than substantive.
   
-  Meanwhile, the broader context of international relations remains tense. Oberg’s reflections on his recent participation in academic conferences in Shanghai point to a lack of Scandinavian and, more broadly, independent voices in critical dialogues about China and global security. He emphasizes the importance of discourse and dialogue, warning that without diverse perspectives, peace studies risk stagnation.
+  Turning to the Middle East, the adoption of former President Trump’s “peace” plan for Gaza by the UN Security Council is described by **Oberg** as a “cruel joke,” highlighting what he sees as a troubling lack of genuine conflict resolution expertise at the highest levels of international governance. The plan’s passage is interpreted as a sign that the global system remains ill-equipped to broker meaningful peace in deeply entrenched conflicts.
   
-  Looking forward, the prevailing trend is a consolidation of power by major actors within international institutions, often at the expense of genuine, grassroots peace initiatives. Based on Oberg’s repeated warnings and the current trajectory, there is a high chance that the adoption of superficial peace plans will continue to undermine authentic conflict resolution efforts. “I guarantee,” Oberg asserts, “that unless there is a fundamental shift towards inclusive, informed dialogue, the prospects for sustainable peace will remain bleak.”
+  Looking ahead, the majority opinion across these analyses is that without a paradigm shift—away from militarized solutions and towards trust-building, economic development, and inclusive dialogue—both the Ukraine and Gaza crises are likely to persist. **Oberg** expresses high confidence that “there is a high chance” current approaches will not yield lasting peace, and that only transformative, grassroots-driven strategies can alter the trajectory. The trend, therefore, points toward continued instability unless international actors embrace more holistic and innovative peacebuilding frameworks.
 articles:
+  - title: 'TFF Portfolio for true peace in Ukraine: UNITE trust, DREAM prosperity and
+      other constructive components.'
+    url: https://transnational.live/2025/11/23/portfolio-for-true-peace-in-ukraine-unite-trust-dream-prosperity-and-other-constructive-components/
+    text: 'Peace will not result from any “peace” plan circulated to date. Neither will
+      it emerge from warfare – as the elites of NATO, EU, Russia, and Ukraine seem to
+      finally recognise after avoidable, unspeakable losses of people, trust and physical,
+      socio-economic destruction. And horse-trading based on military ‘security’ guarantees
+      reveals only peace and conflict illiteracy. […] The post TFF Portfolio for true
+      peace in Ukraine: UNITE trust, DREAM prosperity and other constructive components.
+      appeared first on The Transnational .'
+    one_sentence_summary: The article argues that true peace in Ukraine cannot be achieved
+      through existing peace plans or military actions, but rather requires a focus
+      on building trust and fostering prosperity through constructive initiatives.
+    paragraph_summary: The article argues that a genuine peace in Ukraine cannot be
+      achieved through existing "peace" plans or continued warfare, as recognized by
+      the elites of NATO, the EU, Russia, and Ukraine after significant losses and destruction.
+      It critiques the reliance on military security guarantees, suggesting that such
+      approaches demonstrate a lack of understanding of peace and conflict dynamics.
+      Instead, it advocates for a new framework focused on building trust and fostering
+      prosperity through constructive initiatives, as outlined in the TFF Portfolio
+      for true peace in Ukraine.
+    published: '2025-11-23T17:10:42+00:00'
+  - title: 'TFF Portfolio for true peace in Ukraine: UNITE trust, DREAM prosperity and
+      other constructive components.'
+    url: https://transnational.live/2025/11/23/portfolio-for-true-peace-in-ukraine-unite-trust-dream-prosperity-and-other-constructive-components/
+    text: 'Peace will not result from any “peace” plan circulated to date. Neither will
+      it emerge from warfare – as the elites of NATO, EU, Russia, and Ukraine seem to
+      finally recognise after avoidable, unspeakable losses of people, trust and physical,
+      socio-economic destruction. And horse-trading based on military ‘security’ guarantees
+      reveals only peace and conflict illiteracy. […] The post TFF Portfolio for true
+      peace in Ukraine: UNITE trust, DREAM prosperity and other constructive components.
+      appeared first on The Transnational .'
+    one_sentence_summary: The article argues that true peace in Ukraine cannot be achieved
+      through existing peace plans or military actions, but rather requires a focus
+      on building trust and fostering prosperity through constructive initiatives.
+    paragraph_summary: The article argues that a genuine peace in Ukraine cannot be
+      achieved through existing "peace" plans or continued warfare, as recognized by
+      the elites of NATO, the EU, Russia, and Ukraine after significant losses and destruction.
+      It critiques the reliance on military security guarantees, suggesting that such
+      approaches demonstrate a lack of understanding of peace and conflict dynamics.
+      Instead, it advocates for a new framework focused on building trust and fostering
+      prosperity through constructive initiatives, as outlined in the TFF Portfolio
+      for true peace in Ukraine.
+    published: '2025-11-23T17:10:42+00:00'
+  - title: True or false US-Russian peace in Ukraine?
+    url: https://transnational.live/2025/11/20/true-or-false-us-russian-peace-in-ukraine/
+    text: 'Kirill Dmitriev and Steve Witkoff (Photo: Sputnik/Vyacheslav Prokofyev/Pool
+      via REUTERS), here reposted from The New Voice of Ukraine. TFF’s comprehensive
+      proposal for dialogue about true peace in Ukraine is due in a day or two Jan Oberg
+      November 20, 2025 What is being whispered through diplomatic corridors today is
+      not peace, but quackery. The alleged […] The post True or false US-Russian peace
+      in Ukraine? appeared first on The Transnational .'
+    one_sentence_summary: The article discusses skepticism regarding the authenticity
+      of ongoing US-Russian diplomatic efforts for peace in Ukraine, suggesting that
+      what is being proposed may not be genuine.
+    paragraph_summary: The article discusses the ongoing diplomatic efforts regarding
+      peace in Ukraine, highlighting skepticism about the sincerity and effectiveness
+      of these initiatives. It suggests that rather than genuine dialogue, what is being
+      proposed may be superficial or misleading, referring to it as "quackery." The
+      piece emphasizes the need for a comprehensive and authentic approach to achieving
+      true peace, as articulated in a proposal expected to be released soon. Overall,
+      it questions the legitimacy of current US-Russian discussions surrounding the
+      conflict in Ukraine.
+    published: '2025-11-20T14:37:43+00:00'
+  - title: True or false US-Russian peace in Ukraine?
+    url: https://transnational.live/2025/11/20/true-or-false-us-russian-peace-in-ukraine/
+    text: 'Kirill Dmitriev and Steve Witkoff (Photo: Sputnik/Vyacheslav Prokofyev/Pool
+      via REUTERS), here reposted from The New Voice of Ukraine. TFF’s comprehensive
+      proposal for dialogue about true peace in Ukraine is due in a day or two Jan Oberg
+      November 20, 2025 What is being whispered through diplomatic corridors today is
+      not peace, but quackery. The alleged […] The post True or false US-Russian peace
+      in Ukraine? appeared first on The Transnational .'
+    one_sentence_summary: The article discusses skepticism regarding the authenticity
+      of ongoing US-Russian diplomatic efforts for peace in Ukraine, suggesting that
+      what is being proposed may not be genuine.
+    paragraph_summary: The article discusses the ongoing diplomatic efforts regarding
+      peace in Ukraine, highlighting skepticism about the sincerity and effectiveness
+      of these initiatives. It suggests that rather than genuine dialogue, what is being
+      proposed may be superficial or misleading, referring to it as "quackery." The
+      piece emphasizes the need for a comprehensive and authentic approach to achieving
+      true peace, as articulated in a proposal expected to be released soon. Overall,
+      it questions the legitimacy of current US-Russian discussions surrounding the
+      conflict in Ukraine.
+    published: '2025-11-20T14:37:43+00:00'
   - title: 'Trump’s Gaza “peace” plan: A cruel joke in a conflict and peace illiterate
       world'
     url: https://transnational.live/2025/11/18/trumps-gaza-peace-plan-a-cruel-joke-in-a-conflict-and-peace-illiterate-world/

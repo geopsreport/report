@@ -7,18 +7,712 @@ description: "27-year CIA analyst turned independent; co-founder of Veteran Inte
 websites:
   - https://consortiumnews.com
 summary: |
-  The geopolitical landscape remains dominated by the ongoing crisis in Gaza and shifting U.S. foreign policy, with new developments highlighting the deepening consequences of recent decisions.
+  As of November 26, 2025, global geopolitical dynamics remain turbulent, with new developments in Ukraine, Mexico, and the climate crisis shaping the international agenda.
   
-  The latest reports underscore the implementation of Donald Trump’s Gaza policy, which independent analyst **Lee Camp** asserts will result in colonizers occupying 58 percent of Gaza, leaving the rest “devastated and in ruins.” This marks a significant escalation from previous proposals, suggesting a near-total transformation of the territory’s demographic and physical landscape. The majority of analysts agree that this move will exacerbate humanitarian concerns and further destabilize the region.
+  The most significant update centers on the ongoing Russia-Ukraine conflict and the latest U.S. efforts to broker peace. **Daniel McAdams** offers a sharp critique of Donald Trump’s recently unveiled 28-point Ukraine peace plan, arguing that Trump’s alignment with neoconservative figures—particularly Senator Marco Rubio—undermines any genuine prospects for ending the war. McAdams warns that “aligning with neoconservatives leads to inevitable conflicts,” casting doubt on the plan’s viability. This view is echoed by the majority of independent analysts, who see the plan as more a product of U.S. political maneuvering than a serious diplomatic breakthrough. There is a high chance that, barring a significant shift in Washington’s approach, the conflict will persist into 2026.
   
-  At the international level, criticism of global complicity is mounting. U.N. Special Rapporteur **Francesca Albanese** has sharply condemned over 60 nations for their role in what she describes as “ongoing genocide in Gaza.” This follows the recent U.N. Security Council decision to grant the U.S. a mandate over Palestine, a move widely interpreted as legitimizing Trump’s controversial plans for the territory. The prevailing view among independent observers is that these actions represent a continuation of American and Israeli dominance in the region, with little regard for Palestinian self-determination.
+  In Mexico, the so-called “Gen Z Rebellion” has been exposed as a coordinated effort by local oligarchs and an international right-wing network to destabilize the government. The movement, initially presented as a grassroots anti-corruption uprising, has led to violent demonstrations in over 50 cities. Analysts agree that the protests were less about genuine reform and more about undermining Mexico’s popular president. This revelation is likely to further polarize Mexican society and complicate U.S.-Mexico relations in the coming months.
   
-  Meanwhile, in Latin America, **Greg Grandin** traces the evolution of the U.S.-led War on Drugs, noting that the Trump era has been marked by increased violence and governmental failure. This trend, while not new, has intensified under current policies, contributing to regional instability and undermining prospects for reform.
+  Meanwhile, the aftermath of Hurricane Melissa in Jamaica has reignited criticism of the global elite’s response to climate disasters. **Juan Cole** highlights the disconnect between the high-tech sector’s wealth accumulation and the realities faced by those on the front lines of climate change. Cole notes that “the pro-billionaire high-tech sector remains insulated from the devastation,” underscoring the urgent need for systemic change. With climate-driven disasters intensifying, there is high confidence that public pressure for equitable climate policies will grow, though meaningful action from major powers remains uncertain.
   
-  Looking ahead, the majority of analysts, including **Ray McGovern**, predict with high confidence that the situation in Gaza will deteriorate further, with international condemnation likely to grow but with limited practical effect. The U.S. is expected to maintain its current course, prioritizing strategic interests over humanitarian concerns. In Latin America, the cycle of violence linked to drug policy is “quite likely” to persist, absent a significant shift in U.S. strategy.
-  
-  In summary, the dominant trends point toward deepening crises in both Gaza and Latin America, driven by entrenched policy choices and a lack of effective international intervention. The prognosis remains bleak, with little indication of imminent positive change.
+  In summary, the prevailing trends point toward continued instability in Ukraine, deepening political divides in Mexico, and mounting frustration over global climate inaction. I guarantee that without substantive policy shifts, these crises will persist and likely intensify in the near future.
 articles:
+  - title: Rubio Neo-Conned Trump’s Ukraine Peace Plan
+    url: https://consortiumnews.com/2025/11/25/rubio-neo-conned-trumps-ukraine-peace-plan/
+    text: Lie down with dogs, you wake up with fleas; lie down with neocons, you wake
+      up with wars, says Daniel McAdams.  So goes Trump’s 28-point plan to end the Russia-Ukraine
+      war. By Daniel McAdams Ron Paul Institute So goes President Trump’s… Read more
+      →
+    one_sentence_summary: Daniel McAdams critiques Trump's 28-point plan to end the
+      Russia-Ukraine war, suggesting that aligning with neoconservatives leads to inevitable
+      conflicts.
+    paragraph_summary: In his article, Daniel McAdams critiques former President Trump's
+      28-point plan to end the Russia-Ukraine war, suggesting that aligning with neoconservative
+      ideologies could lead to further conflicts rather than resolution. He emphasizes
+      that engaging with such political factions often results in increased militarization
+      and war, drawing a parallel to the saying about lying down with dogs and waking
+      up with fleas. McAdams argues that Trump's approach may inadvertently perpetuate
+      the very issues it seeks to address.
+    published: '2025-11-26T02:37:35+00:00'
+  - title: Rubio Neo-Conned Trump’s Ukraine Peace Plan
+    url: https://consortiumnews.com/2025/11/25/rubio-neo-conned-trumps-ukraine-peace-plan/
+    text: Lie down with dogs, you wake up with fleas; lie down with neocons, you wake
+      up with wars, says Daniel McAdams.  So goes Trump’s 28-point plan to end the Russia-Ukraine
+      war. By Daniel McAdams Ron Paul Institute So goes President Trump’s… Read more
+      →
+    one_sentence_summary: Daniel McAdams critiques Trump's 28-point plan to end the
+      Russia-Ukraine war, suggesting that aligning with neoconservatives leads to inevitable
+      conflicts.
+    paragraph_summary: In his article, Daniel McAdams critiques former President Trump's
+      28-point plan to end the Russia-Ukraine war, suggesting that aligning with neoconservative
+      ideologies could lead to further conflicts rather than resolution. He emphasizes
+      that engaging with such political factions often results in increased militarization
+      and war, drawing a parallel to the saying about lying down with dogs and waking
+      up with fleas. McAdams argues that Trump's approach may inadvertently perpetuate
+      the very issues it seeks to address.
+    published: '2025-11-26T02:37:35+00:00'
+  - title: Bill Gates & the Hot Tub of Death
+    url: https://consortiumnews.com/2025/11/25/bill-gates-the-hot-tub-of-death/
+    text: Juan Cole on Bill Gates, Hurricane Melissa and the pro-billionaire high-tech
+      sector. By Juan Cole TomDispatch.com In late October, Hurricane Melissa (that
+      should have been called “Godzilla”) battered western Jamaica with 185-mile-an-hour
+      winds. It tossed the roofs of buildings about like… Read more →
+    one_sentence_summary: Juan Cole discusses the impact of Hurricane Melissa on Jamaica
+      and critiques the pro-billionaire high-tech sector, highlighting the disconnect
+      between wealth accumulation and the realities of climate disasters.
+    paragraph_summary: In his article, Juan Cole discusses the impact of Hurricane Melissa,
+      which struck western Jamaica with devastating 185-mile-an-hour winds, likening
+      its destructive force to that of "Godzilla." He critiques the pro-billionaire
+      high-tech sector, particularly focusing on figures like Bill Gates, and examines
+      the broader implications of wealth concentration and corporate influence in the
+      context of climate change and natural disasters. Cole emphasizes the need for
+      a reevaluation of priorities in addressing environmental crises and the role of
+      the wealthy elite in shaping societal responses.
+    published: '2025-11-25T19:00:07+00:00'
+  - title: Bill Gates & the Hot Tub of Death
+    url: https://consortiumnews.com/2025/11/25/bill-gates-the-hot-tub-of-death/
+    text: Juan Cole on Bill Gates, Hurricane Melissa and the pro-billionaire high-tech
+      sector. By Juan Cole TomDispatch.com In late October, Hurricane Melissa (that
+      should have been called “Godzilla”) battered western Jamaica with 185-mile-an-hour
+      winds. It tossed the roofs of buildings about like… Read more →
+    one_sentence_summary: Juan Cole discusses the impact of Hurricane Melissa on Jamaica
+      and critiques the pro-billionaire high-tech sector, highlighting the disconnect
+      between wealth accumulation and the realities of climate disasters.
+    paragraph_summary: In his article, Juan Cole discusses the impact of Hurricane Melissa,
+      which struck western Jamaica with devastating 185-mile-an-hour winds, likening
+      its destructive force to that of "Godzilla." He critiques the pro-billionaire
+      high-tech sector, particularly focusing on figures like Bill Gates, and examines
+      the broader implications of wealth concentration and corporate influence in the
+      context of climate change and natural disasters. Cole emphasizes the need for
+      a reevaluation of priorities in addressing environmental crises and the role of
+      the wealthy elite in shaping societal responses.
+    published: '2025-11-25T19:00:07+00:00'
+  - title: Mexico’s ‘Gen Z Rebellion’ Exposed as Right-Wing Plot
+    url: https://consortiumnews.com/2025/11/25/mexicos-gen-z-rebellion-exposed-as-right-wing-plot/
+    text: Intent on toppling Mexico’s popular president, local oligarchs and an international
+      right-wing network backed a youth-led anti-corruption uprising, Wyatt Reed and
+      Kit Klarenberg report. By Wyatt Reed and Kit Klarenberg The Grayzone  Violent
+      demonstrations which erupted in over 50 cities… Read more →
+    one_sentence_summary: Local oligarchs and an international right-wing network supported
+      a youth-led anti-corruption uprising aimed at overthrowing Mexico's popular president,
+      leading to violent demonstrations in over 50 cities.
+    paragraph_summary: The article by Wyatt Reed and Kit Klarenberg discusses how local
+      oligarchs in Mexico, along with an international right-wing network, have supported
+      a youth-led anti-corruption movement aimed at undermining the country's popular
+      president. The protests, which turned violent and spread across more than 50 cities,
+      reflect a coordinated effort to destabilize the current government and challenge
+      its policies.
+    published: '2025-11-25T17:00:23+00:00'
+  - title: Mexico’s ‘Gen Z Rebellion’ Exposed as Right-Wing Plot
+    url: https://consortiumnews.com/2025/11/25/mexicos-gen-z-rebellion-exposed-as-right-wing-plot/
+    text: Intent on toppling Mexico’s popular president, local oligarchs and an international
+      right-wing network backed a youth-led anti-corruption uprising, Wyatt Reed and
+      Kit Klarenberg report. By Wyatt Reed and Kit Klarenberg The Grayzone  Violent
+      demonstrations which erupted in over 50 cities… Read more →
+    one_sentence_summary: Local oligarchs and an international right-wing network supported
+      a youth-led anti-corruption uprising aimed at overthrowing Mexico's popular president,
+      leading to violent demonstrations in over 50 cities.
+    paragraph_summary: The article by Wyatt Reed and Kit Klarenberg discusses how local
+      oligarchs in Mexico, along with an international right-wing network, have supported
+      a youth-led anti-corruption movement aimed at undermining the country's popular
+      president. The protests, which turned violent and spread across more than 50 cities,
+      reflect a coordinated effort to destabilize the current government and challenge
+      its policies.
+    published: '2025-11-25T17:00:23+00:00'
+  - title: 'PATRICK LAWRENCE: What? Peace in Our Time?'
+    url: https://consortiumnews.com/2025/11/24/patrick-lawrence-what-peace-in-our-time/
+    text: The Trump regime’s 28–point Ukraine peace plan accepts Moscow’s core concerns
+      as legitimate. That’s essential for any possible settlement of the war, or the
+      broader crisis between Russia and the West. By Patrick Lawrence Special to Consortium
+      News There are any… Read more →
+    one_sentence_summary: The Trump administration's 28-point Ukraine peace plan acknowledges
+      Moscow's key concerns as valid, which is crucial for achieving a potential resolution
+      to the conflict and the larger tensions between Russia and the West.
+    paragraph_summary: The Trump administration's 28-point Ukraine peace plan acknowledges
+      and accepts Moscow's primary concerns as legitimate, which is deemed crucial for
+      achieving a potential resolution to the ongoing war and the larger tensions between
+      Russia and the West. Patrick Lawrence, writing for Consortium News, emphasizes
+      that recognizing these core issues is essential for any meaningful dialogue and
+      settlement in the conflict.
+    published: '2025-11-25T01:01:04+00:00'
+  - title: 'PATRICK LAWRENCE: What? Peace in Our Time?'
+    url: https://consortiumnews.com/2025/11/24/patrick-lawrence-what-peace-in-our-time/
+    text: The Trump regime’s 28–point Ukraine peace plan accepts Moscow’s core concerns
+      as legitimate. That’s essential for any possible settlement of the war, or the
+      broader crisis between Russia and the West. By Patrick Lawrence Special to Consortium
+      News There are any… Read more →
+    one_sentence_summary: The Trump administration's 28-point Ukraine peace plan acknowledges
+      Moscow's key concerns as valid, which is crucial for achieving a potential resolution
+      to the conflict and the larger tensions between Russia and the West.
+    paragraph_summary: The Trump administration's 28-point Ukraine peace plan acknowledges
+      and accepts Moscow's primary concerns as legitimate, which is deemed crucial for
+      achieving a potential resolution to the ongoing war and the larger tensions between
+      Russia and the West. Patrick Lawrence, writing for Consortium News, emphasizes
+      that recognizing these core issues is essential for any meaningful dialogue and
+      settlement in the conflict.
+    published: '2025-11-25T01:01:04+00:00'
+  - title: Trump & India’s Changing Response to Terrorism
+    url: https://consortiumnews.com/2025/11/24/trump-indias-different-response-to-terrorism/
+    text: Two weeks have passed since the Red Fort attack in Delhi and the Indian response
+      against Pakistan has been muted, unlike after an earlier terrorist attack in April,
+      reports Betwa Sharma. By Betwa Sharma in Delhi, India Special to Consortium News…
+      Read more →
+    one_sentence_summary: Two weeks after the Red Fort attack in Delhi, India's response
+      to Pakistan has been notably restrained compared to its reaction following a similar
+      terrorist incident in April, according to Betwa Sharma.
+    paragraph_summary: Two weeks after the Red Fort attack in Delhi, India's response
+      to Pakistan has been notably restrained compared to its reaction following a similar
+      terrorist incident in April, according to Betwa Sharma. The article highlights
+      the differences in the Indian government's approach to these attacks, suggesting
+      a shift in strategy or diplomatic considerations in the wake of the recent violence.
+    published: '2025-11-24T19:45:14+00:00'
+  - title: Trump & India’s Changing Response to Terrorism
+    url: https://consortiumnews.com/2025/11/24/trump-indias-different-response-to-terrorism/
+    text: Two weeks have passed since the Red Fort attack in Delhi and the Indian response
+      against Pakistan has been muted, unlike after an earlier terrorist attack in April,
+      reports Betwa Sharma. By Betwa Sharma in Delhi, India Special to Consortium News…
+      Read more →
+    one_sentence_summary: Two weeks after the Red Fort attack in Delhi, India's response
+      to Pakistan has been notably restrained compared to its reaction following a similar
+      terrorist incident in April, according to Betwa Sharma.
+    paragraph_summary: Two weeks after the Red Fort attack in Delhi, India's response
+      to Pakistan has been notably restrained compared to its reaction following a similar
+      terrorist incident in April, according to Betwa Sharma. The article highlights
+      the differences in the Indian government's approach to these attacks, suggesting
+      a shift in strategy or diplomatic considerations in the wake of the recent violence.
+    published: '2025-11-24T19:45:14+00:00'
+  - title: 'Hedges Report: On Israel Exporting Occupation Technology'
+    url: https://consortiumnews.com/2025/11/24/hedges-report-on-israel-exporting-occupation-technology/
+    text: Antony Loewenstein discusses the ease with which Israel has used Gaza to experiment
+      with tools of war and surveillance as a means of control as well as profit thanks
+      to their grave human rights abuses.  By Chris Hedges The Chris Hedges… Read more
+      →
+    one_sentence_summary: Antony Loewenstein highlights how Israel exploits Gaza for
+      military experimentation and surveillance, profiting from severe human rights
+      violations in the process.
+    paragraph_summary: In the article, Antony Loewenstein highlights how Israel has
+      leveraged the Gaza Strip as a testing ground for advanced military technologies
+      and surveillance methods, effectively using the region's ongoing conflict to enhance
+      its control and generate profit. This practice is underscored by significant human
+      rights violations, as the Israeli government employs these tools not only for
+      security purposes but also as a means of exerting dominance over the Palestinian
+      population. Chris Hedges emphasizes the ethical implications of such actions,
+      raising concerns about the broader consequences of militarization and surveillance
+      in conflict zones.
+    published: '2025-11-24T17:32:27+00:00'
+  - title: 'Hedges Report: On Israel Exporting Occupation Technology'
+    url: https://consortiumnews.com/2025/11/24/hedges-report-on-israel-exporting-occupation-technology/
+    text: Antony Loewenstein discusses the ease with which Israel has used Gaza to experiment
+      with tools of war and surveillance as a means of control as well as profit thanks
+      to their grave human rights abuses.  By Chris Hedges The Chris Hedges… Read more
+      →
+    one_sentence_summary: Antony Loewenstein highlights how Israel exploits Gaza for
+      military experimentation and surveillance, profiting from severe human rights
+      violations in the process.
+    paragraph_summary: In the article, Antony Loewenstein highlights how Israel has
+      leveraged the Gaza Strip as a testing ground for advanced military technologies
+      and surveillance methods, effectively using the region's ongoing conflict to enhance
+      its control and generate profit. This practice is underscored by significant human
+      rights violations, as the Israeli government employs these tools not only for
+      security purposes but also as a means of exerting dominance over the Palestinian
+      population. Chris Hedges emphasizes the ethical implications of such actions,
+      raising concerns about the broader consequences of militarization and surveillance
+      in conflict zones.
+    published: '2025-11-24T17:32:27+00:00'
+  - title: 'Vijay Prashad: Defying Genocide'
+    url: https://consortiumnews.com/2025/11/24/vijay-prashad-defying-genocide/
+    text: 'Not only will Palestinian culture survive the genocide, but it is the people’s
+      cultural resources that will help heal the children and provide them with a pathway
+      back to some level of sanity. By Vijay Prashad Tricontinental: Institute for Social…
+      Read more →'
+    one_sentence_summary: The article asserts that despite the ongoing genocide, Palestinian
+      culture will endure and serve as a vital resource for healing and restoring a
+      sense of normalcy for the children affected.
+    paragraph_summary: In the article by Vijay Prashad, it is asserted that despite
+      the ongoing genocide, Palestinian culture will endure and play a crucial role
+      in the healing process for children affected by the violence. The author emphasizes
+      that the rich cultural resources of the Palestinian people will provide a means
+      for recovery and a pathway towards restoring a sense of normalcy and sanity amidst
+      the turmoil. Prashad highlights the resilience of Palestinian identity and culture
+      as vital for the community's survival and regeneration.
+    published: '2025-11-24T05:08:35+00:00'
+  - title: 'Vijay Prashad: Defying Genocide'
+    url: https://consortiumnews.com/2025/11/24/vijay-prashad-defying-genocide/
+    text: 'Not only will Palestinian culture survive the genocide, but it is the people’s
+      cultural resources that will help heal the children and provide them with a pathway
+      back to some level of sanity. By Vijay Prashad Tricontinental: Institute for Social…
+      Read more →'
+    one_sentence_summary: The article asserts that despite the ongoing genocide, Palestinian
+      culture will endure and serve as a vital resource for healing and restoring a
+      sense of normalcy for the children affected.
+    paragraph_summary: In the article by Vijay Prashad, it is asserted that despite
+      the ongoing genocide, Palestinian culture will endure and play a crucial role
+      in the healing process for children affected by the violence. The author emphasizes
+      that the rich cultural resources of the Palestinian people will provide a means
+      for recovery and a pathway towards restoring a sense of normalcy and sanity amidst
+      the turmoil. Prashad highlights the resilience of Palestinian identity and culture
+      as vital for the community's survival and regeneration.
+    published: '2025-11-24T05:08:35+00:00'
+  - title: 'WATCH: 50 Yrs of Combatting Suppressed News'
+    url: https://consortiumnews.com/2025/11/23/watch-50-yrs-of-combatting-suppressed-news/
+    text: Project Censored marked its 50th anniversary Friday night in Washington with
+      Ryan Grim, John Kiriakou, Lauren Harper, Joe Lauria, Mischa Geracoulis and Mickey
+      Huff. The problem of censorship and suppressed news in the United States is older
+      than 50 years,… Read more →
+    one_sentence_summary: Project Censored celebrated its 50th anniversary in Washington,
+      highlighting ongoing issues of censorship and suppressed news in the United States,
+      with contributions from notable speakers including Ryan Grim and John Kiriakou.
+    paragraph_summary: Project Censored celebrated its 50th anniversary in Washington,
+      featuring speakers such as Ryan Grim, John Kiriakou, Lauren Harper, Joe Lauria,
+      Mischa Geracoulis, and Mickey Huff. The event highlighted the ongoing issues of
+      censorship and the suppression of news in the United States, emphasizing that
+      these challenges have persisted for much longer than the organization's existence.
+    published: '2025-11-23T15:00:03+00:00'
+  - title: 'WATCH: 50 Yrs of Combatting Suppressed News'
+    url: https://consortiumnews.com/2025/11/23/watch-50-yrs-of-combatting-suppressed-news/
+    text: Project Censored marked its 50th anniversary Friday night in Washington with
+      Ryan Grim, John Kiriakou, Lauren Harper, Joe Lauria, Mischa Geracoulis and Mickey
+      Huff. The problem of censorship and suppressed news in the United States is older
+      than 50 years,… Read more →
+    one_sentence_summary: Project Censored celebrated its 50th anniversary in Washington,
+      highlighting ongoing issues of censorship and suppressed news in the United States,
+      with contributions from notable speakers including Ryan Grim and John Kiriakou.
+    paragraph_summary: Project Censored celebrated its 50th anniversary in Washington,
+      featuring speakers such as Ryan Grim, John Kiriakou, Lauren Harper, Joe Lauria,
+      Mischa Geracoulis, and Mickey Huff. The event highlighted the ongoing issues of
+      censorship and the suppression of news in the United States, emphasizing that
+      these challenges have persisted for much longer than the organization's existence.
+    published: '2025-11-23T15:00:03+00:00'
+  - title: 'Jonathan Cook: Breaking Out of Media Group-Think'
+    url: https://consortiumnews.com/2025/11/21/jonathan-cook-breaking-out-of-media-group-think/
+    text: The Western media’s failure to report the reality of Gaza didn’t start on
+      Oct. 7. It’s always been like this. Here’s why journalists won’t tell you the
+      truth about Palestine. By Jonathan Cook Jonathan-Cook.net [This is an adaptation
+      of a… Read more →
+    one_sentence_summary: The article argues that the Western media has consistently
+      failed to accurately report the realities of Gaza and Palestine, suggesting that
+      this longstanding issue stems from various biases and pressures that influence
+      journalistic practices.
+    paragraph_summary: In his article, Jonathan Cook argues that the Western media has
+      consistently failed to accurately report the realities of Gaza and the broader
+      Palestinian situation, a trend that predates the recent escalation of violence
+      on October 7. He explores the reasons behind this media bias, suggesting that
+      systemic issues, including political pressures and a lack of understanding of
+      the region, contribute to the misrepresentation of Palestinian experiences. Cook
+      emphasizes the need for a more truthful and nuanced portrayal of the conflict
+      to better inform the public.
+    published: '2025-11-21T23:26:19+00:00'
+  - title: 'Jonathan Cook: Breaking Out of Media Group-Think'
+    url: https://consortiumnews.com/2025/11/21/jonathan-cook-breaking-out-of-media-group-think/
+    text: The Western media’s failure to report the reality of Gaza didn’t start on
+      Oct. 7. It’s always been like this. Here’s why journalists won’t tell you the
+      truth about Palestine. By Jonathan Cook Jonathan-Cook.net [This is an adaptation
+      of a… Read more →
+    one_sentence_summary: The article argues that the Western media has consistently
+      failed to accurately report the realities of Gaza and Palestine, suggesting that
+      this longstanding issue stems from various biases and pressures that influence
+      journalistic practices.
+    paragraph_summary: In his article, Jonathan Cook argues that the Western media has
+      consistently failed to accurately report the realities of Gaza and the broader
+      Palestinian situation, a trend that predates the recent escalation of violence
+      on October 7. He explores the reasons behind this media bias, suggesting that
+      systemic issues, including political pressures and a lack of understanding of
+      the region, contribute to the misrepresentation of Palestinian experiences. Cook
+      emphasizes the need for a more truthful and nuanced portrayal of the conflict
+      to better inform the public.
+    published: '2025-11-21T23:26:19+00:00'
+  - title: 'Caitlin Johnstone: No One to Save Us But Ourselves'
+    url: https://consortiumnews.com/2025/11/21/caitlin-johnstone-no-one-to-save-us-but-ourselves/
+    text: Everyone wants change, but no one wants to change. The deus ex machina plot
+      resolution is a fantasy and maintaining hope in fantasy is the first obstacle
+      preventing change. By Caitlin Johnstone Caitlin’s Newsletter Listen to Tim Foley
+      reading this… Read more →
+    one_sentence_summary: The article by Caitlin Johnstone argues that while people
+      desire change, their reluctance to embrace personal transformation and reliance
+      on unrealistic solutions hinder actual progress.
+    paragraph_summary: In her article, Caitlin Johnstone explores the paradox of people's
+      desire for change while simultaneously resisting the necessary transformations
+      to achieve it. She argues that the hope for a miraculous solution, akin to a "deus
+      ex machina," serves as an obstacle to real change, as it fosters reliance on fantasy
+      rather than encouraging proactive efforts. Johnstone emphasizes that acknowledging
+      and confronting this tendency is crucial for fostering genuine progress.
+    published: '2025-11-21T19:00:05+00:00'
+  - title: 'Caitlin Johnstone: No One to Save Us But Ourselves'
+    url: https://consortiumnews.com/2025/11/21/caitlin-johnstone-no-one-to-save-us-but-ourselves/
+    text: Everyone wants change, but no one wants to change. The deus ex machina plot
+      resolution is a fantasy and maintaining hope in fantasy is the first obstacle
+      preventing change. By Caitlin Johnstone Caitlin’s Newsletter Listen to Tim Foley
+      reading this… Read more →
+    one_sentence_summary: The article by Caitlin Johnstone argues that while people
+      desire change, their reluctance to embrace personal transformation and reliance
+      on unrealistic solutions hinder actual progress.
+    paragraph_summary: In her article, Caitlin Johnstone explores the paradox of people's
+      desire for change while simultaneously resisting the necessary transformations
+      to achieve it. She argues that the hope for a miraculous solution, akin to a "deus
+      ex machina," serves as an obstacle to real change, as it fosters reliance on fantasy
+      rather than encouraging proactive efforts. Johnstone emphasizes that acknowledging
+      and confronting this tendency is crucial for fostering genuine progress.
+    published: '2025-11-21T19:00:05+00:00'
+  - title: 'Vijay Prashad: Let the Sudanese Walk To Peace'
+    url: https://consortiumnews.com/2025/11/21/vijay-prashad-let-the-sudanese-walk-to-peace/
+    text: 'Backed by foreign powers, the Sudanese Armed Forces (SAF) and Rapid Support
+      Forces (RSF) are locked in a bloody war with devastating consequences for the
+      Sudanese people. By Vijay Prashad Tricontinental: Institute for Social Research
+      In early November, United Nations Secretary-General António… Read more →'
+    one_sentence_summary: The Sudanese Armed Forces and Rapid Support Forces are engaged
+      in a violent conflict, exacerbated by foreign support, leading to severe humanitarian
+      crises for the Sudanese population.
+    paragraph_summary: The article discusses the ongoing brutal conflict in Sudan between
+      the Sudanese Armed Forces (SAF) and the Rapid Support Forces (RSF), which is exacerbated
+      by foreign backing for both sides. The war has led to severe humanitarian crises
+      and suffering for the Sudanese population. United Nations Secretary-General António
+      Guterres has highlighted the dire situation, emphasizing the need for international
+      attention and intervention to address the escalating violence and its devastating
+      impact on civilians.
+    published: '2025-11-21T17:00:34+00:00'
+  - title: 'Vijay Prashad: Let the Sudanese Walk To Peace'
+    url: https://consortiumnews.com/2025/11/21/vijay-prashad-let-the-sudanese-walk-to-peace/
+    text: 'Backed by foreign powers, the Sudanese Armed Forces (SAF) and Rapid Support
+      Forces (RSF) are locked in a bloody war with devastating consequences for the
+      Sudanese people. By Vijay Prashad Tricontinental: Institute for Social Research
+      In early November, United Nations Secretary-General António… Read more →'
+    one_sentence_summary: The Sudanese Armed Forces and Rapid Support Forces are engaged
+      in a violent conflict, exacerbated by foreign support, leading to severe humanitarian
+      crises for the Sudanese population.
+    paragraph_summary: The article discusses the ongoing brutal conflict in Sudan between
+      the Sudanese Armed Forces (SAF) and the Rapid Support Forces (RSF), which is exacerbated
+      by foreign backing for both sides. The war has led to severe humanitarian crises
+      and suffering for the Sudanese population. United Nations Secretary-General António
+      Guterres has highlighted the dire situation, emphasizing the need for international
+      attention and intervention to address the escalating violence and its devastating
+      impact on civilians.
+    published: '2025-11-21T17:00:34+00:00'
+  - title: 'CN at 30: The Knowledge & Experience of Insiders'
+    url: https://consortiumnews.com/2025/11/21/cn-at-30-the-knowledge-experience-of-insiders/
+    text: Consortium News is comprised of former insiders at senior levels of intelligence
+      and mainstream media who broke with the establishment to share their unique insights
+      about the world with our readers. By Joe Lauria Special to Consortium News CN
+      at… Read more →
+    one_sentence_summary: Consortium News features insights from former high-ranking
+      intelligence and media professionals who have distanced themselves from mainstream
+      narratives to provide alternative perspectives on global issues.
+    paragraph_summary: Consortium News is a platform founded by former high-ranking
+      intelligence and mainstream media professionals who left the establishment to
+      provide readers with their unique perspectives on global issues. The publication
+      aims to offer insights that challenge conventional narratives and promote a deeper
+      understanding of current events.
+    published: '2025-11-21T05:35:39+00:00'
+  - title: 'CN at 30: The Knowledge & Experience of Insiders'
+    url: https://consortiumnews.com/2025/11/21/cn-at-30-the-knowledge-experience-of-insiders/
+    text: Consortium News is comprised of former insiders at senior levels of intelligence
+      and mainstream media who broke with the establishment to share their unique insights
+      about the world with our readers. By Joe Lauria Special to Consortium News CN
+      at… Read more →
+    one_sentence_summary: Consortium News features insights from former high-ranking
+      intelligence and media professionals who have distanced themselves from mainstream
+      narratives to provide alternative perspectives on global issues.
+    paragraph_summary: Consortium News is a platform founded by former high-ranking
+      intelligence and mainstream media professionals who left the establishment to
+      provide readers with their unique perspectives on global issues. The publication
+      aims to offer insights that challenge conventional narratives and promote a deeper
+      understanding of current events.
+    published: '2025-11-21T05:35:39+00:00'
+  - title: 'Craig Murray: The Beat of UK War Drums'
+    url: https://consortiumnews.com/2025/11/20/craig-murray-the-beat-of-uk-war-drums/
+    text: Talk about a Russian ship “inside British waters” is the normal refuge of
+      extremely unpopular governments. It is also part of the military industrial complex’s
+      tightening grip on the state. By Craig Murray CraigMurray.org.uk In fascist lockstep,
+      the entire British… Read more →
+    one_sentence_summary: The article critiques the British government's focus on a
+      Russian ship allegedly in its waters as a distraction tactic for unpopular policies
+      and a sign of the military-industrial complex's increasing influence over the
+      state.
+    paragraph_summary: The article by Craig Murray discusses how the narrative surrounding
+      a Russian ship allegedly operating "inside British waters" serves as a distraction
+      for unpopular governments and reflects the increasing influence of the military-industrial
+      complex over the British state. Murray suggests that such claims are often used
+      to rally public support and divert attention from domestic issues, while also
+      critiquing the alignment of government actions with militaristic agendas.
+    published: '2025-11-21T01:00:25+00:00'
+  - title: 'Craig Murray: The Beat of UK War Drums'
+    url: https://consortiumnews.com/2025/11/20/craig-murray-the-beat-of-uk-war-drums/
+    text: Talk about a Russian ship “inside British waters” is the normal refuge of
+      extremely unpopular governments. It is also part of the military industrial complex’s
+      tightening grip on the state. By Craig Murray CraigMurray.org.uk In fascist lockstep,
+      the entire British… Read more →
+    one_sentence_summary: The article critiques the British government's focus on a
+      Russian ship allegedly in its waters as a distraction tactic for unpopular policies
+      and a sign of the military-industrial complex's increasing influence over the
+      state.
+    paragraph_summary: The article by Craig Murray discusses how the narrative surrounding
+      a Russian ship allegedly operating "inside British waters" serves as a distraction
+      for unpopular governments and reflects the increasing influence of the military-industrial
+      complex over the British state. Murray suggests that such claims are often used
+      to rally public support and divert attention from domestic issues, while also
+      critiquing the alignment of government actions with militaristic agendas.
+    published: '2025-11-21T01:00:25+00:00'
+  - title: Project Censored Marks 50th Year
+    url: https://consortiumnews.com/2025/11/20/project-censored-marks-50th-year/
+    text: Project Censored celebrates 50 years at a D.C. event Friday with Ryan Grim,
+      John Kiriakou, Lauren Harper, Joe Lauria, Mischa Geracoulis & Mickey Huff. Project
+      Censored has tracked the most censored news stories in the U.S. since it was founded…
+      Read more →
+    one_sentence_summary: Project Censored commemorates its 50th anniversary with a
+      D.C. event featuring notable speakers, highlighting its mission to track the most
+      censored news stories in the U.S. since its inception.
+    paragraph_summary: Project Censored marked its 50th anniversary at a Washington
+      D.C. event featuring speakers such as Ryan Grim, John Kiriakou, Lauren Harper,
+      Joe Lauria, Mischa Geracoulis, and Mickey Huff. Since its inception, Project Censored
+      has focused on identifying and highlighting the most censored news stories in
+      the United States, emphasizing the importance of media transparency and accountability.
+    published: '2025-11-20T22:31:17+00:00'
+  - title: Project Censored Marks 50th Year
+    url: https://consortiumnews.com/2025/11/20/project-censored-marks-50th-year/
+    text: Project Censored celebrates 50 years at a D.C. event Friday with Ryan Grim,
+      John Kiriakou, Lauren Harper, Joe Lauria, Mischa Geracoulis & Mickey Huff. Project
+      Censored has tracked the most censored news stories in the U.S. since it was founded…
+      Read more →
+    one_sentence_summary: Project Censored commemorates its 50th anniversary with a
+      D.C. event featuring notable speakers, highlighting its mission to track the most
+      censored news stories in the U.S. since its inception.
+    paragraph_summary: Project Censored marked its 50th anniversary at a Washington
+      D.C. event featuring speakers such as Ryan Grim, John Kiriakou, Lauren Harper,
+      Joe Lauria, Mischa Geracoulis, and Mickey Huff. Since its inception, Project Censored
+      has focused on identifying and highlighting the most censored news stories in
+      the United States, emphasizing the importance of media transparency and accountability.
+    published: '2025-11-20T22:31:17+00:00'
+  - title: The IDF’s Latest ‘Ceasefire’ Massacres
+    url: https://consortiumnews.com/2025/11/20/the-idfs-latest-ceasefire-massacres/
+    text: Israeli forces killed at least 28 Palestinians — including 17 children — in
+      Gaza on Wednesday following their massacre of 13 Palestinians in a refugee camp
+      in southern Lebanon. By Brett Wilkins Common Dreams Israel Defense Forces strikes
+      killed at least… Read more →
+    one_sentence_summary: Israeli forces killed at least 28 Palestinians, including
+      17 children, in Gaza on Wednesday, following a prior incident in which 13 Palestinians
+      were killed in a refugee camp in southern Lebanon.
+    paragraph_summary: Israeli forces conducted airstrikes in Gaza on Wednesday, resulting
+      in the deaths of at least 28 Palestinians, including 17 children. This escalation
+      followed a previous incident where Israeli forces killed 13 Palestinians in a
+      refugee camp in southern Lebanon. The ongoing violence highlights the severe humanitarian
+      crisis in the region, as tensions continue to rise.
+    published: '2025-11-20T21:00:10+00:00'
+  - title: The IDF’s Latest ‘Ceasefire’ Massacres
+    url: https://consortiumnews.com/2025/11/20/the-idfs-latest-ceasefire-massacres/
+    text: Israeli forces killed at least 28 Palestinians — including 17 children — in
+      Gaza on Wednesday following their massacre of 13 Palestinians in a refugee camp
+      in southern Lebanon. By Brett Wilkins Common Dreams Israel Defense Forces strikes
+      killed at least… Read more →
+    one_sentence_summary: Israeli forces killed at least 28 Palestinians, including
+      17 children, in Gaza on Wednesday, following a prior incident in which 13 Palestinians
+      were killed in a refugee camp in southern Lebanon.
+    paragraph_summary: Israeli forces conducted airstrikes in Gaza on Wednesday, resulting
+      in the deaths of at least 28 Palestinians, including 17 children. This escalation
+      followed a previous incident where Israeli forces killed 13 Palestinians in a
+      refugee camp in southern Lebanon. The ongoing violence highlights the severe humanitarian
+      crisis in the region, as tensions continue to rise.
+    published: '2025-11-20T21:00:10+00:00'
+  - title: What the US Founders Feared Most
+    url: https://consortiumnews.com/2025/11/20/what-the-us-founders-feared-most/
+    text: Trump’s constitutional breaches are enough to rouse James Madison from his
+      grave, writes Andrew P. Napolitano. On top of all that comes “The Kavanaugh Stop.”
+      By Andrew P. Napolitano “The means of defense against foreign danger have been
+      always the… Read more →
+    one_sentence_summary: Andrew P. Napolitano argues that Donald Trump's constitutional
+      violations are so severe they would alarm even the Founding Fathers, particularly
+      in light of recent events like "The Kavanaugh Stop."
+    paragraph_summary: In his article, Andrew P. Napolitano argues that former President
+      Donald Trump's actions represent significant constitutional violations that would
+      alarm the Founding Fathers, particularly James Madison. He highlights the implications
+      of these breaches on the rule of law and governance, while also referencing "The
+      Kavanaugh Stop," which likely pertains to the contentious confirmation of Justice
+      Brett Kavanaugh and its broader implications for the judicial system and political
+      landscape. Napolitano emphasizes the importance of defending constitutional principles
+      against perceived threats, both foreign and domestic.
+    published: '2025-11-20T19:00:55+00:00'
+  - title: What the US Founders Feared Most
+    url: https://consortiumnews.com/2025/11/20/what-the-us-founders-feared-most/
+    text: Trump’s constitutional breaches are enough to rouse James Madison from his
+      grave, writes Andrew P. Napolitano. On top of all that comes “The Kavanaugh Stop.”
+      By Andrew P. Napolitano “The means of defense against foreign danger have been
+      always the… Read more →
+    one_sentence_summary: Andrew P. Napolitano argues that Donald Trump's constitutional
+      violations are so severe they would alarm even the Founding Fathers, particularly
+      in light of recent events like "The Kavanaugh Stop."
+    paragraph_summary: In his article, Andrew P. Napolitano argues that former President
+      Donald Trump's actions represent significant constitutional violations that would
+      alarm the Founding Fathers, particularly James Madison. He highlights the implications
+      of these breaches on the rule of law and governance, while also referencing "The
+      Kavanaugh Stop," which likely pertains to the contentious confirmation of Justice
+      Brett Kavanaugh and its broader implications for the judicial system and political
+      landscape. Napolitano emphasizes the importance of defending constitutional principles
+      against perceived threats, both foreign and domestic.
+    published: '2025-11-20T19:00:55+00:00'
+  - title: Leaked Emails Expose Top Tories’ Historic Relationship with Israel
+    url: https://consortiumnews.com/2025/11/20/leaked-emails-expose-top-tories-historic-relationship-with-israel/
+    text: The historic relationship between top Tories and the Israeli government has
+      been laid bare in a remarkable cache of leaked emails seen by Declassified UK,
+      report Martin Williams and John McEvoy. By Martin Williams and John McEvoy  Declassified
+      UK The historic relationship between… Read more →
+    one_sentence_summary: Leaked emails reveal the longstanding ties between leading
+      Conservative Party members and the Israeli government, according to a report by
+      Declassified UK.
+    paragraph_summary: A recent leak of emails has revealed the longstanding ties between
+      senior members of the Conservative Party and the Israeli government, as reported
+      by Declassified UK journalists Martin Williams and John McEvoy. The correspondence
+      highlights the depth of these connections, shedding light on the political dynamics
+      and interactions between top Tories and Israeli officials over time.
+    published: '2025-11-20T17:00:46+00:00'
+  - title: Leaked Emails Expose Top Tories’ Historic Relationship with Israel
+    url: https://consortiumnews.com/2025/11/20/leaked-emails-expose-top-tories-historic-relationship-with-israel/
+    text: The historic relationship between top Tories and the Israeli government has
+      been laid bare in a remarkable cache of leaked emails seen by Declassified UK,
+      report Martin Williams and John McEvoy. By Martin Williams and John McEvoy  Declassified
+      UK The historic relationship between… Read more →
+    one_sentence_summary: Leaked emails reveal the longstanding ties between leading
+      Conservative Party members and the Israeli government, according to a report by
+      Declassified UK.
+    paragraph_summary: A recent leak of emails has revealed the longstanding ties between
+      senior members of the Conservative Party and the Israeli government, as reported
+      by Declassified UK journalists Martin Williams and John McEvoy. The correspondence
+      highlights the depth of these connections, shedding light on the political dynamics
+      and interactions between top Tories and Israeli officials over time.
+    published: '2025-11-20T17:00:46+00:00'
+  - title: 'Caitlin Johnstone: Zionists Coming Un-Spun'
+    url: https://consortiumnews.com/2025/11/19/caitlin-johnstone-zionists-coming-un-spun/
+    text: A former White House speechwriter’s frantic tirade shows how Israel’s carnage
+      in Gaza has forced Zionists into the role of outright apologists for genocide. 
+      By Caitlin Johnstone CaitlinJohnstone.com.au Listen to Tim Foley reading this
+      article Former Obama speechwriter Sarah Hurwitz… Read more →
+    one_sentence_summary: A former White House speechwriter's impassioned outburst highlights
+      how Israel's actions in Gaza have compelled Zionists to become overt defenders
+      of what some perceive as genocide.
+    paragraph_summary: In her article, Caitlin Johnstone critiques former White House
+      speechwriter Sarah Hurwitz's passionate defense of Israel's actions in Gaza, arguing
+      that it highlights how some Zionists are compelled to justify what Johnstone perceives
+      as acts of genocide. Hurwitz's frantic response reflects the broader struggle
+      among supporters of Israel to reconcile their beliefs with the humanitarian crisis
+      unfolding in Gaza, as they grapple with the moral implications of the violence
+      and its impact on public perception.
+    published: '2025-11-19T23:53:28+00:00'
+  - title: 'Caitlin Johnstone: Zionists Coming Un-Spun'
+    url: https://consortiumnews.com/2025/11/19/caitlin-johnstone-zionists-coming-un-spun/
+    text: A former White House speechwriter’s frantic tirade shows how Israel’s carnage
+      in Gaza has forced Zionists into the role of outright apologists for genocide. 
+      By Caitlin Johnstone CaitlinJohnstone.com.au Listen to Tim Foley reading this
+      article Former Obama speechwriter Sarah Hurwitz… Read more →
+    one_sentence_summary: A former White House speechwriter's impassioned outburst highlights
+      how Israel's actions in Gaza have compelled Zionists to become overt defenders
+      of what some perceive as genocide.
+    paragraph_summary: In her article, Caitlin Johnstone critiques former White House
+      speechwriter Sarah Hurwitz's passionate defense of Israel's actions in Gaza, arguing
+      that it highlights how some Zionists are compelled to justify what Johnstone perceives
+      as acts of genocide. Hurwitz's frantic response reflects the broader struggle
+      among supporters of Israel to reconcile their beliefs with the humanitarian crisis
+      unfolding in Gaza, as they grapple with the moral implications of the violence
+      and its impact on public perception.
+    published: '2025-11-19T23:53:28+00:00'
+  - title: 'Patrick Lawrence: The ‘Post–9/11 Method’'
+    url: https://consortiumnews.com/2025/11/19/patrick-lawrence-the-post-9-11-method/
+    text: Ultra-Zionist Minister Ben–Givr wants the Zionist state to kill Palestinian
+      prisoners of war. But there is a straight line between Washington’s post–9/11
+      abuses of international law and the death penalty vote in the Knesset last Monday.
+      By Patrick Lawrence  ScheerPost Maybe… Read more →
+    one_sentence_summary: Ultra-Zionist Minister Ben-Gvir's call for the execution of
+      Palestinian prisoners of war reflects a troubling continuity of international
+      law abuses stemming from Washington's post-9/11 policies, as highlighted by Patrick
+      Lawrence in ScheerPost.
+    paragraph_summary: In a recent article by Patrick Lawrence on ScheerPost, it is
+      reported that ultra-Zionist Minister Ben-Gvir is advocating for the execution
+      of Palestinian prisoners of war, highlighting a troubling connection between this
+      stance and the United States' post-9/11 violations of international law. The article
+      suggests that the recent vote in the Knesset to support the death penalty reflects
+      a broader trend influenced by U.S. policies, indicating a dangerous escalation
+      in the Israeli government's approach to the Palestinian conflict.
+    published: '2025-11-19T19:00:56+00:00'
+  - title: 'Patrick Lawrence: The ‘Post–9/11 Method’'
+    url: https://consortiumnews.com/2025/11/19/patrick-lawrence-the-post-9-11-method/
+    text: Ultra-Zionist Minister Ben–Givr wants the Zionist state to kill Palestinian
+      prisoners of war. But there is a straight line between Washington’s post–9/11
+      abuses of international law and the death penalty vote in the Knesset last Monday.
+      By Patrick Lawrence  ScheerPost Maybe… Read more →
+    one_sentence_summary: Ultra-Zionist Minister Ben-Gvir's call for the execution of
+      Palestinian prisoners of war reflects a troubling continuity of international
+      law abuses stemming from Washington's post-9/11 policies, as highlighted by Patrick
+      Lawrence in ScheerPost.
+    paragraph_summary: In a recent article by Patrick Lawrence on ScheerPost, it is
+      reported that ultra-Zionist Minister Ben-Gvir is advocating for the execution
+      of Palestinian prisoners of war, highlighting a troubling connection between this
+      stance and the United States' post-9/11 violations of international law. The article
+      suggests that the recent vote in the Knesset to support the death penalty reflects
+      a broader trend influenced by U.S. policies, indicating a dangerous escalation
+      in the Israeli government's approach to the Palestinian conflict.
+    published: '2025-11-19T19:00:56+00:00'
+  - title: What Did Palestine Action Do to be Named Terrorists?
+    url: https://consortiumnews.com/2025/11/19/what-did-palestine-action-do-to-be-named-terrorists/
+    text: Four months after pro-Palestine activists targeted Brize Norton, the Ministry
+      of Defence can’t substantiate claims about the cost of the damage, reports John
+      McEvoy. New Questions in Palestine Action Proscription By John McEvoy Declassified
+      UK MoD unclear on damage caused by… Read more →
+    one_sentence_summary: Four months after pro-Palestine activists targeted Brize Norton,
+      the Ministry of Defence has been unable to verify the extent of the damage, raising
+      questions about the claims made regarding the incident.
+    paragraph_summary: Four months after pro-Palestine activists targeted Brize Norton,
+      the UK Ministry of Defence has been unable to provide evidence to support claims
+      regarding the extent of the damage caused during the incident, as reported by
+      John McEvoy. The situation has raised new questions about the potential proscription
+      of Palestine Action, the group behind the protest, highlighting ongoing concerns
+      about accountability and the implications of such activism.
+    published: '2025-11-19T17:00:32+00:00'
+  - title: What Did Palestine Action Do to be Named Terrorists?
+    url: https://consortiumnews.com/2025/11/19/what-did-palestine-action-do-to-be-named-terrorists/
+    text: Four months after pro-Palestine activists targeted Brize Norton, the Ministry
+      of Defence can’t substantiate claims about the cost of the damage, reports John
+      McEvoy. New Questions in Palestine Action Proscription By John McEvoy Declassified
+      UK MoD unclear on damage caused by… Read more →
+    one_sentence_summary: Four months after pro-Palestine activists targeted Brize Norton,
+      the Ministry of Defence has been unable to verify the extent of the damage, raising
+      questions about the claims made regarding the incident.
+    paragraph_summary: Four months after pro-Palestine activists targeted Brize Norton,
+      the UK Ministry of Defence has been unable to provide evidence to support claims
+      regarding the extent of the damage caused during the incident, as reported by
+      John McEvoy. The situation has raised new questions about the potential proscription
+      of Palestine Action, the group behind the protest, highlighting ongoing concerns
+      about accountability and the implications of such activism.
+    published: '2025-11-19T17:00:32+00:00'
+  - title: 'Craig Murray: How Britain Can Lose Its UN Veto'
+    url: https://consortiumnews.com/2025/11/19/craig-murray-how-britain-can-lose-its-un-veto/
+    text: The U.S. abuse of its veto power at the U.N. to continue the Gaza genocide
+      has intensified interest in cracking open the structure of the Security Council.
+      Here’s the tool.  By Craig Murray CraigMurray.org.uk Scottish Independence is
+      an extremely attractive… Read more →
+    one_sentence_summary: The article discusses how the U.S. misuse of its veto power
+      at the U.N. regarding the Gaza situation has sparked increased interest in reforming
+      the Security Council's structure.
+    paragraph_summary: The article by Craig Murray discusses the increasing scrutiny
+      of the U.S. use of its veto power in the United Nations, particularly in relation
+      to the ongoing conflict in Gaza, which some describe as genocide. This situation
+      has sparked a broader interest in reforming the structure of the U.N. Security
+      Council to address perceived injustices and imbalances in power. Murray suggests
+      that this moment could serve as a catalyst for significant change within the international
+      governing body.
+    published: '2025-11-19T06:58:38+00:00'
+  - title: 'Craig Murray: How Britain Can Lose Its UN Veto'
+    url: https://consortiumnews.com/2025/11/19/craig-murray-how-britain-can-lose-its-un-veto/
+    text: The U.S. abuse of its veto power at the U.N. to continue the Gaza genocide
+      has intensified interest in cracking open the structure of the Security Council.
+      Here’s the tool.  By Craig Murray CraigMurray.org.uk Scottish Independence is
+      an extremely attractive… Read more →
+    one_sentence_summary: The article discusses how the U.S. misuse of its veto power
+      at the U.N. regarding the Gaza situation has sparked increased interest in reforming
+      the Security Council's structure.
+    paragraph_summary: The article by Craig Murray discusses the increasing scrutiny
+      of the U.S. use of its veto power in the United Nations, particularly in relation
+      to the ongoing conflict in Gaza, which some describe as genocide. This situation
+      has sparked a broader interest in reforming the structure of the U.N. Security
+      Council to address perceived injustices and imbalances in power. Murray suggests
+      that this moment could serve as a catalyst for significant change within the international
+      governing body.
+    published: '2025-11-19T06:58:38+00:00'
   - title: Trump’s Gaza Colonization Coming To Fruition
     url: https://consortiumnews.com/2025/11/18/trumps-gaza-colonization-coming-to-fruition/
     text: Colonizers will take over 58 percent of Gaza, the rest will be left in ruins,

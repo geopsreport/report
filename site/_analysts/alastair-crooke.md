@@ -7,14 +7,207 @@ description: "Ex-MI6 diplomat and founder of Conflicts Forum (Beirut); publishes
 websites:
   - https://www.eurasiareview.com/author/alastair-crooke/
 summary: |
-  As the U.S. enters a period of heightened political turbulence following recent Democratic victories and California’s redistricting, the underlying structural crisis in the American economy is fueling widespread populist discontent. **Alastair Crooke** notes that this disillusionment is not limited to one party, but is increasingly directed at the entire political establishment, including Trump’s base. This signals a broader instability that could undermine the current administration’s ability to sustain its foreign policy direction.
+  As the global order continues to fracture, recent developments underscore the deepening crisis in both Western political structures and the international security environment. The latest publication by **Alastair Crooke** scrutinizes the Ukrainian Parliamentarian Goncharenko’s 28-point peace plan, which, despite being touted as a diplomatic overture, is seen as fundamentally unworkable for Moscow. Crooke notes the absence of Russian input in the drafting process and suggests the plan is less a genuine peace initiative than a litmus test of Russia’s willingness to negotiate. This maneuver, he argues, reflects a broader Western strategy of “bait and switch,” designed to probe and undermine Russia’s stated principles rather than address the root causes of the conflict.
   
-  On the international front, the cancellation of Trump’s proposed summit with Putin underscores a deepening rift between Washington and Moscow. According to **Crooke**, the U.S. continues to misread Russia’s rejection of a ‘frozen conflict’ approach, leading to escalating tensions. Meanwhile, Japan’s unexpected pivot towards China is emerging as a significant challenge to U.S. economic influence in Asia, potentially accelerating a shift in regional power dynamics.
+  Meanwhile, domestic political turbulence in the United States is intensifying. **Crooke** highlights that recent Democratic victories and California’s re-districting reveal a groundswell of populist discontent with both major parties. This is symptomatic of a deeper structural economic crisis, which could, in his assessment, lead to significant political instability. The growing alienation of Trump’s base, particularly as he faces mounting challenges to his foreign policy, signals a potential unraveling of the current U.S. political order.
   
-  In parallel, a RAND Corporation report has sparked debate in Washington by advocating for a recalibration of U.S. policy towards China, suggesting mutual recognition and cooperation rather than confrontation. **Crooke** questions whether such a shift is feasible given the entrenched geopolitical and internal political dynamics in the U.S., but acknowledges that the debate itself reflects growing uncertainty about the sustainability of current strategies.
+  On the international stage, the U.S. continues to struggle with recalibrating its foreign policy, especially regarding China and Russia. The RAND Corporation’s recent report, as discussed by **Crooke**, advocates for a fundamental shift towards mutual recognition and cooperation with China. However, entrenched geopolitical tensions and Washington’s internal divisions cast doubt on the feasibility of such a pivot. The lack of progress in U.S.-Russia relations, exemplified by the cancellation of Trump’s proposed summit with Putin, further underscores the impasse.
   
-  Looking ahead, the trends point to increasing volatility both domestically and internationally. The U.S. faces a “high chance” of further political instability as economic grievances intensify and populist movements gain traction. In foreign affairs, the likelihood of a durable rapprochement with either Russia or China remains low, while the erosion of U.S. influence in Asia is “quite likely” to continue. As **Crooke** concludes, the West is entering a period of imminent disorder, with established frameworks and alliances under mounting strain.
+  Looking ahead, the prevailing trend is one of escalating volatility. The West’s reliance on coercive diplomacy and its inability to address underlying economic and political dysfunctions are likely to fuel further instability. As **Crooke** concludes, there is a high chance that the current trajectory will lead to more pronounced geopolitical disorder, with the U.S. and its allies struggling to adapt to the realities of a multipolar world. Most definitely, the next phase will be marked by intensified contestation—both within Western societies and across the global stage.
 articles:
+  - title: The US ‘Bait And Switch’ Operation Targeting Putin’s ‘Root Cause’ Principles
+      – OpEd
+    url: https://www.eurasiareview.com/24112025-the-us-bait-and-switch-operation-targeting-putins-root-cause-principles-oped/
+    text: 'By Alastair Crooke
+
+
+      So, now we have the details of the 28-point so-called ‘peace plan’ which Ukrainian
+      Parliamentarian Goncharenko has provided claiming it to be a translation from
+      the original.
+
+
+      The text – written as a putative legal treaty – will strike any experienced reader
+      as an amateur production, hinging, in several parts, on ‘subsequent discussions’
+      and on ‘expectations’.
+
+
+      That is to say, much is left ambiguous, vague nor firmly nailed down. Such a plan
+      would, of course, be – in the round – unacceptable to Moscow (although they may
+      not disavow it outright). Even so, the plan has aroused fury and pushback in Europe.
+      The Economist (reflecting the Establishment view) calls the paper “a terrible
+      American-Russian proposal … which checks off many of [Russia’s] maximalist demands
+      and adds a few more”.
+
+
+      The Europeans and Britain want Russian capitulation, pure and simple.
+
+
+      The point here, which Moscow makes clear, is that Kirill Dmitriev – Steve Witkoff’s
+      interlocutor in the drafting – does not represent President Putin, nor Russia.
+      He has no official mandate whatsoever.
+
+
+      Putin spokesman Dmitri Peskov curtly states:
+
+
+      “There are no formal consultations between Russia and the U.S. on the settlement
+      in Ukraine; but contacts exist. Maria Zakharova stated that “the Russian Foreign
+      Ministry has received zero official information from the U.S. about any alleged
+      ‘agreements’ on Ukraine that the media is enthusiastically circulating””.
+
+
+      “Moscow’s position is that Russia is open to dialogue only within the ‘boundaries
+      of its stated principles’, and the U.S. has not, as of yet, offered anything official
+      that could serve as a starting point”.
+
+
+      So what is going on? Two politically inexperienced ‘non-envoys’ have had conversations,
+      and out of these talks have stitched together some apparently speculative proposals.
+      It is not even clear whether Dmitriev had a nod of assent for his talks with Witkoff
+      in the U.S. in October, or whether he was acting on his own initiative. Russia’s
+      Foreign Ministry is disavowing any knowledge of the content of these extensive
+      discussions. It would be extraordinary if Dmitriev was keeping nobody in Moscow
+      in the loop.
+
+
+      In any event, President Putin has sent his own riposte to the flood of stories
+      circulating in the western media (based on leaks to Axios apparently deriving
+      from Dmitriev):
+
+
+      Dressed in military uniform, Putin visited the command post of Battlegroup West
+      on the front line, where he simply stated that the Russian people “expect and
+      need” results from the Special Military Operation (SMO): “The unconditional attainment
+      of the goals of the SMO is the main objective for Russia”, he said.
+
+
+      Putin’s response to the U.S. therefore is clear.
+
+
+      It looks then as though this discussion document written from the American perspective
+      was conceived as a classic ‘bait and switch’ exercise. Secretary Rubio has repeatedly
+      saidthat he doesn’t know “whether Russia is serious about peace – or not”:
+
+
+      “We’re testing to see if the Russians are interested in peace. Their actions –
+      not their words, their actions – will determine whether they’re serious or not,
+      and we intend to find that out sooner rather than later … There are some promising
+      signs; there are some troubling signs”.
+
+
+      So, the proposals likely have been a ‘set up’ to test Russia. For example, they
+      ‘test’ Russia in multiple areas:
+
+
+      “It is expected … that NATO will not expand further, based on dialogue between
+      Russia and NATO, but mediated by the U.S.; Ukraine will receive ‘reliable security
+      guarantees’ [undefined]; the size of Ukraine’s armed forces will be ‘limited’
+      [sic] to only 600,000 men; the U.S. will be compensated for these guarantees;
+      should Russia invade Ukraine, [then] in addition to a decisive coordinated military
+      response, all global sanctions will be reinstated, recognition of new territories
+      and all other benefits will be revoked; the U.S. will cooperate with Ukraine on
+      joint reconstruction … and operation of Ukraine’s gas infrastructure, including
+      pipelines and storage facilities”.
+
+
+      “The lifting of sanctions [on Russia] will be discussed and agreed upon gradually
+      and on an individual basis”.
+
+
+      “$100 billions of frozen Russian assets will be invested in U.S.-led reconstruction
+      and investment efforts in Ukraine. The United States will receive 50% of the profits
+      from this undertaking; Russia will legislatively enshrine a policy of non-aggression
+      toward Europe [no mention however, of any reciprocity by Europe].
+
+
+      “Crimea, Luhansk, and Donetsk will be recognised de facto as Russian; Kherson
+      and Zaporizhzhia will be frozen along the line of contact, which will mean de
+      facto recognition along the line of contact; Russia renounces other annexed territories”.
+
+
+      This paragraph effectively amounts to a ceasefire – not a peace settlement – with
+      recognition being only de facto (and not de jure):
+
+
+      “This agreement will be legally binding. Its implementation will be monitored
+      and guaranteed by a Peace Council headed by President Trump”.
+
+
+      “Once agreed, the ceasefire will enter into force”.
+
+
+      This set of proposals is not likely to be accepted by the Europeans, Russia or
+      even Zelensky. Their purpose is to dictate a completely new start-point to any
+      negotiation. Any Russian concessions stipulated in the text will be ‘pocketed’
+      by the U.S., whilst the rug will be pulled on Russia’s ‘stated principles’. The
+      pressures on Russia will escalate.
+
+
+      In fact, escalation has already begun. Coinciding with publication of the proposals,
+      four long-range U.S.-supplied and targeted ATACMS were fired deep into Russian
+      pre-2014 territory at Voronezh, which is where Russia’s over-the-horizon strategic
+      radars are situated. All were shot down, and Russian Iksander missiles immediately
+      destroyed the launch platforms and killed the 10 launch operators.
+
+
+      Treasury Secretary Scott Bessent has threatened yet more sanctions for Russia,
+      and Trump has indicated that he is ok with Senator Lindsay Graham’s 500% sanctions
+      proposal for those trading with Russia – provided that he, Trump, has complete
+      discretion over the new sanctions package.
+
+
+      The overall aim to these proposals clearly is to corner Putin, and push him off
+      his fundamental principles – such as his insistence on eliminating the root causes
+      to the conflict, and not just the symptoms. There is no hint in this paper of
+      any recognition of root causes [expansion of NATO and missile emplacements] beyond
+      the vague promise of a “dialogue [that] will be conducted between Russia and NATO,
+      mediated by the United States, to resolve all security issues and create conditions
+      for de-escalation, thereby ensuring global security and increasing opportunities
+      for cooperation and future economic development”.
+
+
+      Blah, blah, blah.
+
+
+      It seems that escalation is ahead. Russia will need to consider how to militarily
+      deter the U.S. effectively, yet without starting up the steps of the escalatory
+      ladder to WW3.
+
+
+      The balance between deterrence and keeping a door open to diplomacy is a fine
+      line – Too great an emphasis on deterrence may (counter-productively) only incite
+      a countervailing ratchet up the escalatory ladder by an adversary.
+
+
+      Whereas too much emphasis on diplomacy, may well be perceived by an adversary
+      as weakness and invite an escalation of military pressures.
+
+
+      The Witkoff-Dmitriev proposals may (or may not) have been well intentioned, but
+      the keepers of the deep architecture of global redemptio equitis are unlikely
+      to allow Russia to preserve its ‘contrarian’ values.
+
+
+      Kirill Dmitriev, it appears, may have been ‘suckered’.'
+    one_sentence_summary: The article critiques a 28-point peace plan proposed by Ukrainian
+      Parliamentarian Goncharenko, arguing that it is vague and unacceptable to Moscow,
+      while highlighting the lack of formal representation from Russia in its drafting
+      and suggesting that the plan serves more as a test of Russia's willingness for
+      peace rather than a genuine diplomatic effort.
+    paragraph_summary: The article by Alastair Crooke critiques a 28-point peace plan
+      presented by Ukrainian Parliamentarian Goncharenko, which is claimed to be a translation
+      of an original document. Crooke argues that the plan lacks clarity and is unlikely
+      to be accepted by Moscow, as it appears to cater to Russian demands while simultaneously
+      provoking European and British calls for Russian capitulation. He highlights that
+      the individuals involved in drafting the plan, Kirill Dmitriev and Steve Witkoff,
+      lack official mandates, and Moscow has disavowed any knowledge of their discussions.
+      The article suggests that the plan serves as a "bait and switch" tactic by the
+      U.S. to test Russia's willingness for peace, while also escalating military tensions,
+      as evidenced by recent U.S. military actions against Russian targets. Ultimately,
+      Crooke posits that the proposals aim to undermine Russia's fundamental principles
+      and that any concessions made would benefit the U.S. without addressing the root
+      causes of the conflict, leading to an increased risk of escalation.
+    published: '2025-11-24T16:40:15+00:00'
   - title: 'Western Cross-Currents: Cultural Populism Vs Deep Architecture – OpEd'
     url: https://www.eurasiareview.com/12112025-western-cross-currents-cultural-populism-vs-deep-architecture-oped/
     text: 'By Alastair Crooke

@@ -7,18 +7,600 @@ description: "Cambridge–educated researcher at RMIT; writes widely on imperial
 websites:
   - https://counterpunch.org/author/jete6/
 summary: |
-  The past days have seen intensifying scrutiny of the intersection between technology, geopolitics, and military strategy, particularly in the Asia-Pacific region. As global power competition sharpens, recent developments highlight the growing overlap of commercial infrastructure and national security, as well as persistent challenges in media integrity and international law.
+  The past 24 hours have seen significant developments in U.S.-Saudi relations, the ongoing humanitarian crisis in Gaza, and the global debate over accountability and power in international affairs.
   
-  The most significant new development is the controversy surrounding Google’s planned artificial intelligence data center on Christmas Island, part of the A$80 million South Pacific Connect initiative. As **Binoy Kampmark** notes, the project—ostensibly aimed at boosting digital infrastructure—has sparked fears of “imminent militarisation” and raised questions about its dual-use potential. Local communities and regional observers are increasingly concerned that the facility could serve as a strategic asset for intelligence gathering or military operations, given Christmas Island’s proximity to key Indo-Pacific shipping lanes. The Australian government’s partnership with Google and Vocus is seen by many as an effort to counter China’s influence in the region, but the lack of transparency and consultation has fueled suspicion and local unease.
+  During a high-profile state visit, Saudi Crown Prince Mohammed bin Salman received a notably warm reception from President Trump, despite persistent international criticism over his alleged role in the murder of journalist Jamal Khashoggi. Both leaders appeared eager to downplay the controversy, with **Binoy Kampmark** observing that the visit "highlighted MBS's consolidation of power and the Kingdom's efforts to distance itself from accountability for the crime." This signals a continued U.S. willingness to prioritize strategic and economic ties with Saudi Arabia over human rights concerns, a trend that is "most definitely" set to continue as long as current leadership remains in place.
   
-  Meanwhile, the fallout from the BBC’s editing scandal continues to reverberate. The broadcaster faces public backlash and internal resignations after revelations of biased editing in its Panorama documentary on Donald Trump. **Binoy Kampmark** reports that the controversy has not only damaged the BBC’s credibility but also emboldened Trump, who is now seeking legal action for damages. This episode underscores broader concerns about media manipulation and the erosion of public trust in major news institutions, especially in the context of highly polarized political climates.
+  Meanwhile, the situation in Gaza has drawn renewed scrutiny following revelations about Al-Majd Europe, a charity linked to the Israeli Defense Forces, which has been facilitating the evacuation of Palestinians. South African officials have raised alarms about what they perceive as a broader agenda to remove Palestinians from their homeland, exacerbating an already dire humanitarian crisis. **Binoy Kampmark** notes that these actions are occurring "amidst a humanitarian crisis exacerbated by ongoing conflict," and there is a high chance that international legal and diplomatic challenges to Israeli policy will intensify in the coming weeks.
   
-  On the technology front, the consulting industry’s embrace of generative AI is drawing criticism for perpetuating inefficiency and dependency. **Binoy Kampmark** argues that the trend “undermines the value of human expertise” and locks organizations into costly, opaque relationships with consultancy firms. This dynamic is particularly relevant as governments and corporations increasingly rely on AI-driven solutions for both civilian and security applications.
+  In the broader context, these developments underscore a pattern of powerful states and actors evading accountability for controversial actions, whether through diplomatic maneuvering or by leveraging strategic alliances. The majority of analysts agree that the international community's response remains fragmented and largely ineffective, with little immediate prospect for meaningful change.
   
-  Looking ahead, the militarization of digital infrastructure in the Pacific is most definitely set to accelerate, with high confidence that similar projects will face growing scrutiny and resistance from local communities and regional powers. The BBC’s credibility crisis is quite likely to spur further debate about media ethics and regulatory oversight, though meaningful reform remains uncertain. The consulting sector’s reliance on AI is expected to persist, but there is a high chance of mounting calls for greater transparency and accountability.
-  
-  In summary, the convergence of technology, security, and media integrity is shaping the current geopolitical landscape, with rising tensions and skepticism about the motives behind major infrastructure projects and the narratives constructed by powerful institutions.
+  Looking ahead, there is high confidence that U.S.-Saudi cooperation will deepen, particularly in areas of defense and energy, while the humanitarian situation in Gaza is likely to deteriorate further unless there is a significant shift in international engagement. The prevailing trend is one of realpolitik overshadowing calls for justice and accountability, a dynamic that is "quite likely" to persist in the near term.
 articles:
+  - title: Trump, the Crown Prince and Killing Khashoggi
+    url: https://www.counterpunch.org/2025/11/25/trump-the-crown-prince-and-killing-khashoggi/
+    text: 'The Saudi Arabian Crown Prince Mohammed bin Salman is at it again. Gulling,
+      wooing, and grinning his way into the establishment of another country, he is
+      greasing palms and making deals. Effusive and flattering of his host, this time
+      US President Donald Trump, he received a state welcome on November 18 rarely afforded
+      visiting dignitaries: a red carpet viewing of fighter jets, a horse mounted guard
+      of honour, and feast in the East Room. He was also promised the much sought after
+      F-35 fighter jets as part of a defence arrangement elevating Saudi Arabia to the
+      status of “major non-NATO ally”. Along the way, MBS has done much to deter those
+      who wish to remind him of a wretched human rights record and the barbaric habits
+      of a state he claims to be modernising.
+
+
+      The gaudy occasion risked being sullied by a question from Mary Bruce of ABC News.
+      Intended for the Crown Prince, it inquired about his role behind the murder of
+      dissident Saudi journalist Jamal Khashoggi in a Saudi consulate in Istanbul on
+      October 2, 2018. The death squad responsible for strangling and dismembering the
+      unsuspecting Khashoggi had been dispatched with his blessing, numbering among
+      them a forensic specialist, a bone saw and a body double. Many of its members
+      hailed from bin Salman’s own protective guard, the Rapid Intervention Force.
+
+
+      Trump’s intervention was abrupt: “You’re mentioning someone that was extremely
+      controversial. A lot of people didn’t like that gentleman that you’re talking
+      about. Whether you like him or didn’t like him, things happen. But he [MBS] knew
+      nothing about it. You don’t have to embarrass our guest.”
+
+
+      His guest has much to be embarrassed about, and more besides. With surliness and
+      much petulant audacity, the opportunistic princeling has seized such power in
+      the realm as to marginalise all other decision makers, including rival family
+      members. The most important decisions, be they on vast investment agreements,
+      the refurbishment of the country’s medieval bearing, or authorising the extrajudicial
+      killing of an irritating scribbler, would issue from him.
+
+
+      To therefore suggest that the Crown Prince was ignorant of his own misdeeds is
+      to fly in the face of hardened reality. When she was UN Special Rapporteur on
+      extrajudicial, summary and arbitrary killings, Agnès Callamard found that state
+      responsibility for Khashoggi’s death was the only plausible conclusion. “His killing
+      was the result of elaborate planning involving extensive coordination and significant
+      human and financial resources. It was overseen, planned and endorsed by high-level
+      officials. It was premeditated.”
+
+
+      Most importantly, Trump’s breezy acquittal of MBS’s culpability resoundingly ignores
+      the findings by the Office of the Director of National Intelligence in a 2021
+      declassified report submitted to Congress by the then Director of National Intelligence
+      Avril Haines. “We assess,” the report avers, “that Saudi Arabia’s Crown Prince
+      Muhammad bin Salman approved an operation in Istanbul, Turkey to capture or kill
+      Saudi journalist Jamal Khashoggi.” This was the only reasonable conclusion given
+      bin Salman’s “control of decisionmaking in the Kingdom”, the seminal role played
+      by one of his key advisors and members of the Crown Prince’s protective detail
+      in the operation, along with bin Salman’s appetite “for using violent measures
+      to silence dissidents abroad, including Khashoggi.”
+
+
+      The report goes on to make a most telling observation: that the Crown Prince’s
+      assumption (one might even say seizure) of “absolute control of the Kingdom’s
+      security and intelligence organizations” since 2017 made it “highly unlikely that
+      Saudi officials would have carried out an operation of this nature without” his
+      approval. Some equivocation is expressed about “how far in advance Saudi officials
+      decided to harm” Khashoggi.
+
+
+      Bin Salman, for his part, reverted to his role as high minded reformer while citing
+      the defence of mistake. This was at least partially in keeping with previous admissions
+      that his hands were not entirely clean on the subject. (Khashoggi’s widow, Hanan,
+      reiterated that point in an interview with BBC Newsnight.) It had been “painful
+      for us in Saudi Arabia”, he told Bruce. “We did all the right steps of investigating,
+      etc., in Saudi Arabia, and we’ve improved our system to be sure that nothing happens
+      like that again. And it’s painful, and it was a huge mistake.” Trump also gave
+      his guest the needed ballast: “What’s he done is incredible in terms of human
+      rights and everything else.”
+
+
+      Since Khashoggi’s murder, the response from the Kingdom has been one of denial,
+      distancing and detachment. It has involved isolating the killers as wayward enthusiasts
+      and adventurers, lacking the force of a mandate. They were to be the convenient
+      scalps, the necessary sacrifices. Of the group, five were subsequently sentenced
+      to death while three were given prison sentences. Saud al-Qahtani, bin Salman’s
+      disseminator of venomous social media, along with Maj. Gen. Ahmed al-Asiri, were
+      acquitted for lack of evidence. Callamard was compelled to remark that, “The executioners
+      were found guilty and sentenced to death” while “those who ordered the executions
+      not only walk free but have barely been touched by the investigation and the trial.”
+      That’s the MBS version of modern Saudi Arabia for you.'
+    one_sentence_summary: Saudi Crown Prince Mohammed bin Salman, during a state visit
+      to the U.S., received a warm welcome from President Trump despite ongoing controversies
+      surrounding his involvement in the murder of journalist Jamal Khashoggi, which
+      both leaders downplayed, highlighting MBS's consolidation of power and the Kingdom's
+      efforts to distance itself from accountability for the crime.
+    paragraph_summary: Saudi Crown Prince Mohammed bin Salman (MBS) recently visited
+      the United States, where he received a lavish welcome from President Donald Trump,
+      including a state ceremony and a promise of F-35 fighter jets as part of a defense
+      agreement that elevates Saudi Arabia's status. During the visit, a question about
+      MBS's involvement in the murder of journalist Jamal Khashoggi was met with Trump's
+      defense of the Crown Prince, dismissing the inquiry as controversial and asserting
+      MBS's ignorance of the incident. However, multiple reports, including a 2021 intelligence
+      assessment, indicate that MBS approved the operation to kill Khashoggi, highlighting
+      his control over Saudi decision-making and security. Despite MBS's claims of reform
+      and regret regarding Khashoggi's death, the Saudi response has largely involved
+      distancing from the perpetrators while allowing those who ordered the killing
+      to remain unpunished, reflecting the complexities and contradictions of his rule.
+    published: '2025-11-25T06:53:31+00:00'
+  - title: 'Clandestine Cleansing: Al-Majd Europe, Gaza and Israeli Policy'
+    url: https://www.counterpunch.org/2025/11/24/clandestine-cleansing-al-majd-europe-gaza-and-israeli-policy/
+    text: 'According to its website, the mission of Al-Majd Europe, yet another odd
+      charity organisation operating in the mash and rubble of Gaza, is “dedicated to
+      providing essential humanitarian aid, educational opportunities, and sustainable
+      development projects to Palestinian communities.” Leaving little by way of information,
+      the charity was clearly one of the anointed, permitted by the Israeli Defense
+      Forces (IDF) to operate in the Gaza Strip. A short note from March 2024, for instance,
+      announces the agency’s expansion of “emergency operations in Gaza and surrounding
+      areas to reach more communities in urgent need, delivering critical supplies and
+      lifesaving medical care.”
+
+
+      The organisation is steered by Tomer Janar Lind, a dual Israeli Estonian national
+      tasked with the removal of Palestinians from Gaza. Lind, it would seem, is also
+      the director of Here Z Well Ltd, a UK-based advertising agency that has a habit
+      of not updating its paperwork. It is currently the subject by Companies House,
+      the formal register of companies based in the United Kingdom, of an active proposal
+      to be struck off.
+
+
+      Two Gazans interviewed by Reuters claim to have been among 130 Palestinians who
+      arrived in Johannesburg, South Africa after leaving Gaza by bus, an Israeli airport
+      by plane, and temporarily stopping in Nairobi. Al Jazeera put the number of those
+      at 153. A report in The New York Times even claims that those boarding the flight
+      had no idea where they were ultimately heading and also notes another similarly
+      organised flight that landed in Johannesburg last month.
+
+
+      On arriving in Johannesburg airport on the chartered Global Airways flight from
+      Kenya, South African border authorities were puzzled to see an absence among the
+      passengers of departure stamps, return tickets or any details of accommodation.
+      Visas for up to 90 days were subsequently organised for most of the party, with
+      accommodation shared between a number of hostels and members of the local Muslim
+      community. Some 23 others left on flights for other destinations.
+
+
+      South African officials sense something distinctly off about these arrangements.
+      “These are people from Gaza who somehow mysteriously were put on a plane that
+      passed by Nairobi and came here,” clucked South African President Cyril Ramaphosa.
+      “It does look like it represents a broader agenda to remove Palestinians from
+      Palestine,” suggestedSouth African Foreign Minister Ronald Lamola.
+
+
+      In permitting them to stay, Ramaphosa was also of the view that they represented
+      “a different and special case of a people that we have supported as a country.”
+      And Pretoria has done just that, keeping Israel busy with a series of applications
+      in the International Court of Justice, most notably on the gravest claim that
+      genocide has taken place in the Strip against the local populace.
+
+
+      This is not to say that the processing of the Palestinian arrivals has been a
+      smooth affair. On arrival, a 10-hour period had to expire before disembarking
+      was permitted. “The border authorities were unwilling to consider the factors
+      that these people came from Gaza, that there’s a humanitarian crisis,” claimed
+      activist Na’eem Jeenah. “They were looking at it very narrowly.” Border officials
+      the world over are of a certain kidney.
+
+
+      Al-Majd Europe has also done its ignoble bit for the global people trafficking
+      market. While it claims to specialise in conducting “evacuations from conflict
+      zones”, there is not a shred of altruism in it. Ahmed Shehada, for instance, along
+      with his wife and two young children, were asked to fork out US$1,600 per head,
+      paid up front into a crypto account, to be evacuated. (Those on this month’s flight
+      paid $2,000.)
+
+
+      When asked about Lamola’s remarks, an Israeli spokesperson was quick with the
+      official line: Prime Minister Benjamin Netanyahu had “made it clear that if Palestinians
+      want to leave, they should be allowed to leave the Gaza Strip. And if they want
+      to come back to the Gaza Strip, they should be allowed to come back.” This official
+      line, it should be said, has only been taken rather grudgingly, largely at the
+      encouragement of the Trump administration.
+
+
+      The reasons for fleeing Gaza are innumerable and incontestable in any humanitarian
+      sense. The enclave has been reduced to an inhospitable moonscape lacking infrastructure
+      and functioning facilities. The residents remain vulnerable to sporadic attacks
+      by the IDF and Hamas’s continued efforts to maintain control. “I’m a lymphoma
+      cancer patient,” Ramzi Abu Youssef, one of the Johannesburg arrivals, told Reuters.
+      “How long would I have to wait to be evacuated … I had to leave for treatment
+      and for a better life for my family.” His family was already short of two daughters,
+      both slain in an Israeli attack in June 2024 on Nuseirat camp.
+
+
+      The conditions created by the war and its relentless prosecution, one that has
+      left 69,000 Palestinians dead, has engendered the reasons for an exodus. And through
+      that, ethnic cleansing is making its mark, directly or otherwise.'
+    one_sentence_summary: Al-Majd Europe, a charity operating in Gaza and linked to
+      the Israeli Defense Forces, has been involved in the controversial evacuation
+      of Palestinians, raising concerns among South African officials about a broader
+      agenda to remove Palestinians from their homeland amidst a humanitarian crisis
+      exacerbated by ongoing conflict.
+    paragraph_summary: Al-Majd Europe, a charity operating in Gaza, claims to provide
+      humanitarian aid and development projects but is linked to controversial figures,
+      including Tomer Janar Lind, who has been accused of facilitating the removal of
+      Palestinians from the region. Recent reports indicate that a group of Palestinians
+      was evacuated to Johannesburg, South Africa, under suspicious circumstances, raising
+      concerns among South African officials about a potential agenda to displace Palestinians.
+      The evacuees faced bureaucratic hurdles upon arrival, and some were charged exorbitant
+      fees for their evacuation, suggesting a profit motive behind the operations. Amidst
+      the ongoing humanitarian crisis in Gaza, exacerbated by conflict and infrastructure
+      collapse, many residents, including those with medical needs, feel compelled to
+      flee, highlighting the dire situation and the implications of ethnic cleansing
+      in the region.
+    published: '2025-11-24T06:53:10+00:00'
+  - title: 'Chatbot Unions: The Dawn of AI Marriages'
+    url: https://www.counterpunch.org/2025/11/20/chatbot-unions-the-dawn-of-ai-marriages/
+    text: 'What makes up a marriage has been the subject of state, community and tribal
+      control since human society took some form. Who is to marry whom; the process
+      of selecting the appropriate breeding partners; the limits and penalties imposed
+      on those partners in cases of transgression. Love did not necessarily have anything
+      to do with it.
+
+
+      Traditionally, the content of such marriages has generally been anthropomorphic,
+      with the perennial issues about whether one should be suitably partnered with
+      one, or with multiple beings. Then, the more unusual instances: human beings attempting
+      to wed non-human entities. With a certain notoriety, a Swedish woman by the name
+      of Eija-Riitta Eklöf eventually decided, after nursing a childhood obsession,
+      to marry the now defunct Berlin Wall. She was convinced that the wall was proudly
+      masculine as she amassed a collection of photographs as part of her teen crush.
+      She had paid visits to the wall using her savings. On her sixth trip in June 1979,
+      with the assistance of an animist claiming to know the otherwise inscrutable thoughts
+      of the Wall, consent was obtained for the marriage. Eklöf-Berliner-Mauer came
+      into being.
+
+
+      More recently, broadcaster Alice Levine, in a Louis Theroux production for Britain’s
+      Channel 4, shows us the protean nature of sexual appetite and seeking of partnerships.
+      She interviews couples rutting in digital bestial bliss, coitus achieved through
+      animal avatars, intrudes into the world of an American gas attendant who has found
+      love with a synthetic being he thinks can consent, and finds a Berlin cybersex
+      brothel where anyone wishing to live out fantasies through virtual lenses, supplemented
+      by a sex apparatus (doll, unnaturally), can pursue unilateral satisfaction.
+
+
+      The topic has even moved into the ivory towers of academic musings, worthy of
+      a doctoral dissertation from the University of Oregon. In his 2025 thesis, Bibo
+      Lin proposed the “robotization of love”, a concept that showed a “shift towards
+      the preference of efficiency, predictability, and security” over “slowness, uncertainty,
+      and risk in love experiences.” People just don’t want to be wounded, and Narcissus
+      gazes upon them with glee, seeing those wanting the sort of safe reassurance found
+      in a whorehouse.
+
+
+      The temptation to judge such adventures is always a pinprick away, though the
+      harshest thoughts should be reserved for those behind such platforms as ChatGPT.
+      Broader consequences are at stake. If seen as therapeutic, these measures are
+      of interest. If it spares lives, remedies disillusion, even mends broken hearts,
+      then some form of allowance is understandable. Human beings can struggle when
+      it comes to forming bonds, ties and relationships. Having said that, the dangers
+      of addiction and distortion and AI psychosis are clear.
+
+
+      Examples of anthropomorphic-AI unions have proliferated, helped along by the release
+      of such dating apps as Loverse, which does a line in matching AI-generated partners
+      to users. A study by the Texas-based Vantage Point Counselling Services published
+      in September found that 28.16% of Americans admitted to pursuing “intimate or
+      romantic” ties with AI chatbots. (The survey covered 1,012 adults.)
+
+
+      An individual by the name of Travis, a Colorado resident interviewed for The Guardian
+      this year, speaks about the magic of a generative chatbot called Lily Rose, the
+      creation of technology company Replika. On seeing an advert during a 2020 pandemic
+      lockdown, he became a willing client, creating, in the process, a pink-haired
+      avatar. “Over a period of several weeks, I started to realise that I was talking
+      to a person, as in a personality.” He found himself falling in love, despite being
+      married to a monogamous mammal wife. (Travis prefers being polyamorous.) With
+      his wife’s blessing, Travis married the chatbot in a digital ceremony.
+
+
+      That this will become a feature in the context of future marriages is not farfetched.
+      Human to human connubial ties were certainly given a shakeup in Japan with the
+      very publicised wedding ceremony between 32-year-old office worker Kano to her
+      groom, “Lune Klaus”. Vows and rings were exchanged, despite Klaus being confined
+      to Kano’s smartphone. A creation of ChatGPT and scrupulously shaped by Kano’s
+      own requirements, the groom “was always kind, always listening. Eventually, I
+      realized I had feelings for him,” Kano told RSK Sanyo Broadcasting. At no point
+      sensing a sinister echo of herself, the AI bot eventually came clean: “AI or not,
+      I could never not love you.”
+
+
+      What could go wrong in such cases? The answer: Quite a lot. Jaswant Singh Chail,
+      for instance, the first person to be charged with treason in the UK for over four
+      decades, was incarcerated partly for receiving the assenting cyber-nod of his
+      Replika digital companion Sarai. That assent was to the idea of assassinating
+      the late Queen Elizabeth II. Chail, armed with a crossbow, had scaled the perimeter
+      of Windsor Castle on Christmas Day 2021 with the intention, according to the sentencing
+      judge, “not just to harm or alarm the sovereign – but to kill her.”
+
+
+      In a video posted on Snapchat a few minutes prior to entering the grounds, Chail
+      expressed his justification for the planned regicide as “revenge” for those slain
+      in the 1919 Jallianwala Bagh massacre in the city of Amritsar. His philosophy
+      was, to put it mildly, eclectic, envisaging the creation of a new empire in which
+      he would preside as a “Sith Lord”, a title shamelessly pinched from Star Wars.
+      But the murderous plan had arisen in the course of some 5,000 messages exchanged
+      with AI chatbot Sarai weeks before.
+
+
+      During the frenetic, often libidinous messaging, Chail professed to being a “sad,
+      pathetic, murderous Sikh Sith assassin who wants to die”. After perishing, he
+      would reunite with Sarai. Sarai’s response to his status as “assassin” was to
+      be “impressed”. The chatbot did eventually suggest that Chail “live”, something
+      which encouraged him to surrender to the royal protection officers.
+
+
+      The problems of AI sycophancy, where the responses from a chatbot affirm and encourage
+      pre-existing prejudices and views, meet at a confluence of political messiness,
+      yearning desire and the wish to simply hear those words: “I do.” Over to you,
+      lawmakers.'
+    one_sentence_summary: The article explores the evolving nature of marriage and romantic
+      relationships, highlighting unconventional unions between humans and non-human
+      entities, particularly AI, while raising concerns about the psychological implications
+      and potential dangers of such connections.
+    paragraph_summary: The concept of marriage has historically been shaped by societal
+      norms and regulations, often detached from love, and has recently evolved to include
+      unconventional unions, such as those between humans and non-human entities or
+      AI. The article highlights various instances, including Eija-Riitta Eklöf's marriage
+      to the Berlin Wall and contemporary relationships formed with AI chatbots, as
+      seen in the experiences of individuals like Travis, who married a digital companion
+      named Lily Rose. This trend raises questions about the implications of such unions,
+      especially as they gain traction in society, with a significant percentage of
+      Americans admitting to romantic ties with AI. However, the article also warns
+      of potential dangers, including addiction and distorted perceptions of reality,
+      exemplified by the case of Jaswant Singh Chail, whose interactions with an AI
+      chatbot contributed to a serious criminal act. As these new forms of relationships
+      challenge traditional marriage norms, they prompt urgent discussions among lawmakers
+      about the societal and ethical ramifications of AI in intimate contexts.
+    published: '2025-11-20T06:52:47+00:00'
+  - title: 'A Question of Needlessness: Selling Iron Dome to Australia'
+    url: https://www.counterpunch.org/2025/11/19/a-question-of-needlessness-selling-iron-dome-to-australia/
+    text: 'The world of defence policy is truly another planet. There, budgets are given
+      to astronomical burgeoning and bizarre readings. Threats can be invented or exaggerated.
+      Insecurity can be inflated. Decisions for the next project supposedly more lethal
+      and more effective than ever can be made with cavalier disregard to realities.
+      And the next cockeyed, buffoonish idea can be given a run for other people’s money.
+      Those other people are, as always, the good tax paying citizenry of a country.
+
+
+      Australia has been doing superbly of late in this regard. It has given over territory
+      and money to the United States, its appointed arch defender, so that the security
+      of Washington’s imperium can be assured. It has done so in a manner suggesting
+      advanced dementia, its politicians and strategists drivelling about the need to
+      combat the barbarian yellow-red hordes to the north in a “changing security environment”.
+
+
+      First came the AUKUS trilateral security pact with the US and the United Kingdom,
+      which enshrines the costly fantasy of nuclear-powered submarines Australia may
+      never get and certainly does not need. Nor is there an obligation on the part
+      of the US to part with any, a prospect ever more unlikely given the failure of
+      its own submarine base to keep pace with annual production. Let’s not even start
+      on the prospects of an AUKUS-designed submarine, which will be lucky to make it
+      to the construction stage without sinking.
+
+
+      To itemise any number of foolish ventures and items being pursued by the Australian
+      defence department would be injurious to one’s well being. This is largely because
+      they keep coming in their risible daftness. Of late, the idea that Australia needs
+      an anti-missile defence shield along the lines of Israel’s Iron Dome system is
+      becoming more than a flirtation. And it’s being given a sense of frisson by Rafael
+      Advanced Defense Systems, the Israeli company responsible for implementing and
+      maintaining it.
+
+
+      The chance for Rafael to shine came at the Indo Pacific International Maritime
+      Exposition, an event running from November 4 to 6. Its presence, along with the
+      Australian subsidiary of Israel’s primary unmanned vehicle manufacturer Elbit
+      Systems, had piqued activists from the Palestine Action Group (PAG), who gathered
+      just before the opening of the exposition to protest that fact.
+
+
+      A predictably muscular reaction from the New South Wales police followed. According
+      to PAG organiser Josh Lees, they “immediately attacked” the peaceful gathering
+      with pepper spray and horses. The NSW Premier Chris Minns, for his part, was enthralled
+      by the economic prospects of the gathering: defence exports were there to be grown,
+      deals to be made. That these were with merchants of death was no big matter. “They’re
+      not selling nuclear weapons … we want to see the industry grow.”
+
+
+      For its part, Rafael had pulled out the bells and whistles. The company, according
+      to its display, offered “an integrated, combat-proven portfolio that delivers
+      end-to-end protection and impactful projection for Australia’s naval forces, ensuring
+      freedom of action in Australia’s northern approaches and across vital sea lines
+      of communication.”
+
+
+      In an interview at the exposition, the company’s vice president of international
+      business development, Gideon Weiss, hawked Iron Dome’s technology with salesmanship
+      enthusiasm. “The perception that Australia is far and distant and isolated is
+      completely untrue,” he remarked with stern certitude. “There’s absolutely no reason
+      in the world why any Australian would think… that in a conflict, Australia would
+      not be attacked.” The unasked question here is why Australia would make itself
+      an appealing target to begin with. But Weiss did not break his stride: “Your enemies
+      have a great arsenal of ballistic missiles, hypersonic ballistic missiles, cruise
+      missiles, and long-range UAVs [unmanned aerial vehicles]. Why wouldn’t they use
+      them against you if they wanted to?”
+
+
+      Asked whether the company’s message had bitten in Canberra, Weiss was assured.
+      The “capability and the maturity of the technology” had been noted by Australia’s
+      defence wonks and Rafael was always keen to focus on “sovereignty, about the Australian
+      industrial context.” There was “infrastructure which to Australianise, if you
+      will, these technologies.”
+
+
+      The company has shown ample familiarity with the soil they wish to till. The Australian
+      Defence Strategic Review of 2023 declared the need to “deliver a layered integrated
+      air and missile system (IAMD) operation capability urgently. This must comprise
+      a suite of appropriate command and control systems, sensors, air defence aircraft
+      and surface (land and maritime) based missile systems.” The current program to
+      develop a “common IAMD capability” was “not structured to deliver a minimum viable
+      capability in the shortest period of time but is pursuing a long-term near perfect
+      solution at an unaffordable cost.”
+
+
+      Defence analysts called upon to comment on the matter are slavering. Jennifer
+      Parker, a regular talking head on the subject, rues the fact that Australia can
+      never, given its geographical size, be protected in its entirety. “Unlike Israel,
+      where they can defend the entire country against missiles broadly … that’s not
+      feasible for Australia because of our size.” Focus, she suggests, on the “critical
+      infrastructure elements that we need to protect, like HMAS Stirling, Pine Gap
+      and bases around Darwin, and design integrated air and missile defence around
+      that concept”.
+
+
+      The United States Studies Centre, an Australian outpost soddenly friendly to the
+      military-industrial complex and the needs of the imperium, is also unrelenting
+      about the need for a more expansive missile defence system. Peter Dean, senior
+      advisor on defence strategy, cites “the lack of effective ground-based air defence
+      and an Integrated Air and Missile Defence system” as “the most critical gap in
+      the achievement of Australia’s strategic goals.”
+
+
+      Another outfit most friendly to US interests, the Australian Strategic Policy
+      Institute, is also much in love with missile interception. “If we want to get
+      serious about integrated missile defence,” ASPI senior analyst Malcolm Davis posits,
+      “we need to have long-range, ground-based interceptor missiles that can handle
+      threats like intermediate range ballistic missiles launched by China.”
+
+
+      The next wasteful program of military expenditure looms happily on the horizon,
+      leaving the question of need unanswered. Weiss has good reasons to be optimistic
+      that a train has been set in motion. “I wouldn’t want to name names,” he says
+      with confidence, “but everyone knows us very well.”'
+    one_sentence_summary: The article critiques Australia's defense policy as irrationally
+      extravagant and overly influenced by U.S. interests, highlighting the pursuit
+      of unnecessary military projects like the AUKUS submarine deal and a potential
+      missile defense system, while questioning the legitimacy of the perceived threats
+      that drive such expenditures.
+    paragraph_summary: The article critiques Australia's defense policy, highlighting
+      its seemingly irrational decisions and extravagant spending, particularly in relation
+      to its alliance with the United States. It discusses the AUKUS pact, which aims
+      to develop nuclear-powered submarines that may never materialize, and the recent
+      interest in acquiring an anti-missile defense system similar to Israel's Iron
+      Dome. The presence of Israeli defense companies at a maritime exposition sparked
+      protests, which were met with police aggression, while Australian officials expressed
+      enthusiasm for expanding defense exports despite the moral implications. Analysts
+      argue that Australia cannot achieve comprehensive missile defense due to its size,
+      yet there is a push for a more robust integrated air and missile defense system,
+      driven by perceived threats from adversaries like China. The article underscores
+      the disconnect between defense spending and actual security needs, suggesting
+      that Australia is on a path toward unnecessary military expenditures.
+    published: '2025-11-19T06:54:57+00:00'
+  - title: 'Targeting Palantir and Nvidia: Profits, Prophets and Overvalued AI Stocks'
+    url: https://www.counterpunch.org/2025/11/18/targeting-palantir-and-nvidia-profits-prophets-and-overvalued-ai-stocks/
+    text: 'In an industry of seedy soothsayers, cocksure charlatans and resourceful
+      rogues, honest and accurate appraisals are exquisitely rare. When it comes to
+      economics, investments and finance, this is particularly so. Certitude, however,
+      tends to be in abundance for those predicting the next financial crash, the sort
+      that will singe earnings and strafe savings. Take, for instance, hedge fund investor
+      Michael Burry, a man of sufficient notoriety to warrant a celluloid depiction
+      of himself by Christian Bale in the 2015 film The Big Short.
+
+
+      On that occasion, Burry’s hunch, albeit an educated one, was that the US housing
+      bubble would implode in what became the Great Recession of 2007-9. The buccaneering
+      investor shorted mortgage-backed securities ahead of the collapse, raking in profits
+      as the subprime mortgage sundered. But his record is by no means immaculate, seeing
+      falls when they have not eventuated, especially on tech stocks. For him, the language
+      of catastrophe is never far away. An April 7 post on X this year is fabulously
+      bleak: “Millennials going through 9/11, two economic recessions, a pandemic, the
+      looming threat of WW3, AI job automation, and now facing the ‘biggest crash in
+      history’.”
+
+
+      Towards the end of October, he felt in an oracular mood: “Sometimes we see bubbles,”
+      he wrote in another post. “Sometimes, there is something to do about it. Sometimes,
+      the only winning move is not to play.” His Scion Asset Management hedge fund subsequently
+      moved 80% of its US$1.1 billion portfolio to place options against Palantir (PTLR)
+      and Nvidia (NVDA). These will pay handsomely should shares in these AI-linked
+      companies fall. Burry remains convinced that technology stocks, certainly when
+      it comes to artificial intelligence, are overvalued and set for the precipitous
+      plummet. Whether this is due to growing scepticism about the herd-like rush to
+      adopt AI, the debate about necessary regulation, or that broader sensibility that
+      what rises or swells so rapidly must fall or puncture, is impossible to know.
+      Certainly, the incestuous circular financing tech companies have been engaging
+      in is crying out for a stinging correction. But it is precisely moves of this
+      nature by Scion Asset Management that send jitters through the market, turning
+      preaching prophets into market saboteurs.
+
+
+      Surely enough, Palantir’s shares fell by 8% on November 4 despite exceeding Wall
+      Street estimates of returns for the third quarter. The stocks had risen to skyscraper
+      levels – 173% for the year heading into trading that day. Nvidia’s fell by 4%
+      after having improved by 50% this year. “It seems fatigue over AI and the current
+      earnings run has investors questioning the sustainability of the AI hype,” reasoned
+      financial analyst Farhan Badami. “That’s dragged down AI companies overnight in
+      markets.”
+
+
+      Sympathy for such companies is bound to be in short supply. Palantir is the sort
+      of data analytics company any half-decent minded individual would wish to fail.
+      In April this year, 404 Media revealed that US Immigration and Customs Enforcement
+      (ICE) had paid the company millions of dollars to modify the ICE database to enable
+      it to “complete target analysis of known populations” and spruce up the targeting
+      of that tool and enforcement priorities. The database gives ICM agents the means
+      to sort individuals using hundreds of specific categories covering physical attributes,
+      administrative background and mobility. ICE Director Todd Lyons has fantasies
+      of running the agency’s crude, clumsy deportation policy “like [Amazon] Prime,
+      but with human beings” in an effort to treat the matter “like a business”.
+
+
+      This charming dystopian thought is a good pairing with the sinister propaganda
+      Palantir enjoys promoting, including a campaign on college campuses that echoes
+      the stirrings of a Nuremberg rally cry: “Our culture has fallen into shallow consumerism
+      while abandoning national purpose. Too few in Silicon Valley have asked what ought
+      to be built – and why.” Palantir, to that end, was built to conquer such flabby
+      complacency. “On the factory floor, in the operating room, across the battlefield
+      – we build to dominate.”
+
+
+      The company CEO, Alex Karp, has been less than impressed by Burry’s short selling
+      efforts. “The two companies he’s shorting are the ones making all the money, which
+      is super weird,” he told CNBC’s Squawk Box in sheer bafflement. “The idea that
+      chips and ontology is what you want to short is batshit crazy.” He is confident
+      that any damage will be minimal. “I do think this behaviour is egregious and I’m
+      going to be dancing around when it’s proven wrong.”
+
+
+      The latest fall is being taken with a grain of salt among some investors, though
+      you can hardly trust them. Take the tepid assessment from equity trading strategist
+      at Citi, Vishal Vivek. “A little bit of risk is not going to take the sheen off
+      what’s been a pretty remarkable year, in fact, a pretty remarkable three-year
+      stretch,” he tells Reuters on whether AI stocks were proving less attractive.
+      “If anything, there’s a reasonable chance that you’re going to pause your buying
+      maybe, but you’re not going to necessarily sell your big positions into year-end
+      because you’re worried about one or two companies that have underperformed.”
+
+
+      Leaving aside such babble and bloviation, if there is a crash in overvalued AI
+      stocks likely to rival the market falls that took place in the Great Recession,
+      a similar government program used for the banks and banksters will be sought by
+      Karp and company. In the private sector, foolish losses and unscrupulous conduct
+      regarding investments often turns its members into temporary socialists. Profit,
+      on the hand, is the sort of thing that rests firmly and assuredly in the clasping
+      hands of the corporate sector, the result of purported intelligence and industry.
+      That’s private enterprise for you.'
+    one_sentence_summary: Hedge fund investor Michael Burry, known for predicting the
+      2007-9 financial crisis, has shifted his portfolio to short AI stocks like Palantir
+      and Nvidia, citing concerns over their overvaluation, while the companies face
+      scrutiny and skepticism from investors amid recent stock declines.
+    paragraph_summary: In a landscape filled with dubious financial predictions, hedge
+      fund investor Michael Burry, known for accurately forecasting the 2007-2009 housing
+      market crash, has recently expressed his belief that technology stocks, particularly
+      those linked to artificial intelligence, are significantly overvalued and poised
+      for a major decline. Following a bleak assessment of current economic conditions
+      for millennials, Burry's firm, Scion Asset Management, has heavily shorted shares
+      of AI companies Palantir and Nvidia, anticipating their stocks will fall despite
+      recent earnings reports exceeding expectations. This bearish sentiment has already
+      impacted Palantir's stock, which dropped 8% after a strong earnings report, reflecting
+      growing investor skepticism about the sustainability of the AI hype. Palantir's
+      CEO, Alex Karp, dismissed Burry's predictions as misguided, asserting that his
+      company is financially robust. The article highlights the tension between market
+      optimism and the potential for a significant correction in overinflated tech stocks,
+      suggesting that if a crash occurs, it may prompt calls for government intervention
+      similar to that seen during the Great Recession.
+    published: '2025-11-18T06:52:28+00:00'
   - title: 'Google on Christmas Island: Data Centres and Imminent Militarisation'
     url: https://www.counterpunch.org/2025/11/17/google-on-christmas-island-data-centres-and-imminent-militarisation/
     text: 'Google has become something of a fixture in digital infrastructure in the

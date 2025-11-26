@@ -8,16 +8,164 @@ websites:
   - https://responsiblestatecraft.org/author/alieven/
   - https://quincyinst.org/author/anatol-lieven/
 summary: |
-  As of November 19, 2025, the geopolitical landscape in Europe remains defined by the ongoing Russia-Ukraine conflict, persistent instability within Western European governments, and shifting U.S. strategies under President Trump. The latest analyses highlight a cautious recalibration in U.S. policy, mounting European political challenges, and the enduring complexity of peace negotiations.
+  As the Ukraine conflict enters a critical phase, diplomatic maneuvering has intensified following the leak of President Trump’s “28-point plan” for a potential settlement. This draft framework, as analyzed by **Anatol Lieven**, marks the most substantial progress in months toward a negotiated end to the war, but it is already provoking fierce debate both within Ukraine and among Western allies. The plan reportedly addresses core issues—territorial concessions, security guarantees, and Ukraine’s future military posture—yet faces skepticism in Kyiv and may require significant U.S. pressure to secure Ukrainian acquiescence.
   
-  The most recent development is President Trump’s apparent pivot toward a more pragmatic stance on Ukraine. According to **Anatol Lieven**, allegations of Trump "bullying" President Zelensky are distractions from the substantive shift in U.S. and NATO strategy. Trump is now advocating for a measured approach that avoids direct escalation with Russia, while emphasizing the necessity of a diplomatic resolution. This marks a departure from earlier, more hawkish rhetoric and aligns with growing calls in Washington for restraint and realism in dealings with Moscow.
+  **Lieven** notes that while the U.S.-Russia framework is a “significant step,” it risks undermining Ukraine’s sovereignty and military capacity, raising the specter of a “peace” that could leave Ukraine vulnerable in the long term. There is a high chance that the Trump administration will push hard for acceptance, leveraging continued military and economic aid as bargaining chips. However, the plan’s provisions—especially any recognition of Russian control over Crimea and Donbas—remain deeply controversial and could trigger political upheaval in Ukraine.
   
-  Meanwhile, the internal crises plaguing key European states continue to undermine collective Western responses. France, in particular, is grappling with a severe political and economic crisis—characterized by a stagnant economy, high public debt, and a fragmented parliament. As **Lieven** notes, these challenges are mirrored across Western Europe, where rising radical parties and unpopular austerity measures threaten to destabilize governments and complicate transatlantic cooperation. The British National Security Strategy, criticized as "a disorganized collection of conflicting goals," further exemplifies the disconnect between ambition and capability among Europe’s traditional powers.
+  Meanwhile, the broader European context remains fraught. France’s ongoing political and economic crisis, coupled with Britain’s incoherent national security strategy, has left Europe divided and under-resourced in its support for Ukraine. **Lieven** argues that European pledges of increased military aid are “promises with no money,” reflecting both domestic turmoil and a growing reluctance to escalate confrontation with Russia. This fragmentation is likely to persist, further shifting the diplomatic initiative toward Washington and Moscow.
   
-  On the diplomatic front, recent U.S.-led efforts to broker security guarantees for Ukraine have produced only tentative agreements, with significant ambiguity remaining around the specifics of military support and the limits of NATO involvement. The exchange of memos between Ukraine and Russia in Istanbul revealed entrenched positions, with both sides showing little genuine interest in immediate peace absent substantial U.S. intervention. **Lieven** underscores that, without a comprehensive U.S.-backed peace plan addressing Russia’s broader security concerns, the prospects for a durable settlement remain slim.
-  
-  Looking ahead, the prevailing trend is one of cautious engagement and incremental diplomacy, rather than dramatic breakthroughs. The Trump administration’s shift toward direct negotiation and realism is likely to persist, with a high chance of continued U.S. pressure for a negotiated settlement that may require painful concessions from Ukraine. European instability is expected to further limit the continent’s ability to act decisively, reinforcing U.S. leadership in the peace process. I guarantee that, barring unexpected escalation, the coming months will see intensified diplomatic maneuvering but no immediate resolution to the conflict.
+  Looking ahead, the prevailing trend is toward a U.S.-brokered settlement, with most analysts agreeing that only robust American engagement can break the current deadlock. There is high confidence that the Trump administration will continue to prioritize a diplomatic resolution, even if it means pressuring Ukraine into difficult compromises. The risk of renewed escalation remains, particularly if Russian provocations—such as drone incursions into NATO airspace—are met with overreaction. However, the majority view is that both sides are seeking a way out of the conflict, making a negotiated agreement “quite likely” in the coming months, albeit on terms that may fall short of Ukraine’s original war aims.
 articles:
+  - title: Trump's '28-point plan' for Ukraine War provokes political earthquake
+    url: https://responsiblestatecraft.org/trump-plan-ukraine-war/
+    text: 'When it comes to the reported draft framework agreement between the U.S.
+      and Russia, and its place in the Ukraine peace process, a quote by Winston Churchill
+      (on the British victory at El Alamein) may be appropriate: “Now this is not the
+      end. It is not even the beginning of the end. But it is, perhaps, the end of the
+      beginning.” This is because at long last, this document engages with the concrete,
+      detailed issues that will have to be resolved if peace is to be achieved.
+
+
+      The plan has apparently been worked out between U.S. envoy Steve Witkoff and Russian
+      envoy Kirill Dmitriev (together reportedly with Vice President JD Vance, Secretary
+      of State Marco Rubio and the president''s son-in-law Jared Kushner) but a great
+      deal about it is highly unclear. The Trump administration reportedly believes
+      that a deal is imminent , but the Russian government has been at pains to stress
+      that no agreement has yet been reached. We do not know if Moscow will try to exact
+      further concessions; the details of several key points have not been revealed;
+      and above all, it may be impossible to get the Ukrainian government to agree to
+      essential elements, unless the Trump administration is prepared to bring extremely
+      heavy pressure to bear on both Ukraine and America’s European allies.
+
+
+      It has already been reported that President Zelensky has rejected the plan and
+      is working with European governments to propose an alternative — though so far,
+      nothing that the Europeans have proposed stands the remotest chance of being accepted
+      by Moscow.
+
+
+      Among the most difficult points for Ukraine will be the reported draft agreement
+      that Ukraine should withdraw from the approximately 14% of the Donbas that it
+      still holds, and that it has sacrificed tens of thousands of lives to retain.
+      But with the key Ukrainian town of Pokrovsk seemingly close to falling, the Trump
+      administration apparently believes that the rest of the Donbas is sooner or later
+      bound to fall too, and there is no point in losing more Ukrainian lives in a vain
+      attempt to keep it, and also risk Ukrainian military collapse and losing more
+      territory beyond the Donbas.
+
+
+      The draft agreement also reportedly softens the blow for Ukraine by stating that
+      the area handed over will be demilitarized and controlled by neutral peacekeepers.
+      In the other two provinces claimed (but only partially occupied) by Russia, Zaporizhia
+      and Kherson, the ceasefire line will run along the existing front line, and Russia
+      will abandon its demand for the whole of these provinces.
+
+
+      In a huge concession to Russia however, the Trump administration — and possibly
+      other countries like Turkey and Qatar, that helped mediate this proposed deal
+      — is willing to recognize Russian legal sovereignty over the Donbas and Crimea
+      (which would also imply the lifting of many U.S. sanctions on Russia) though it
+      does not expect Ukraine to do so.
+
+
+      The draft agreement apparently excludes long-range missiles for Ukraine and would
+      impose limits on the size of the Ukrainian armed forces, though we do not know
+      how great these limits will be. The Ukrainian government agreed to the principle
+      of arms limitations at the Istanbul talks in March 2022, but has since categorically
+      rejected the idea.
+
+
+      The draft agreement also reportedly includes unspecified U.S. security guarantees
+      to Ukraine, and a formal Russian acknowledgment (already stated by President Putin
+      and Foreign Minister Lavrov) of Ukraine’s right to join the European Union, in
+      return for the exclusion of NATO membership for Ukraine. It has not been revealed
+      however whether this would require a change to the Ukrainian constitution to restore
+      the previous commitment to neutrality, something that could be hard to pass through
+      the Ukrainian parliament.
+
+
+      This is also true of another key element of the reported plan — the establishment
+      of Russian as a second official language in Ukraine. This is a neuralgic issue
+      for Ukrainian ethnic nationalists, but they should recognize and respond with
+      gratitude to the fact that in the face of the Russian invasion the great majority
+      of Russians and Russian speakers have remained loyal to Ukraine.
+
+
+      Predictably, the leaked plan has drawn immediate denunciation from both Ukrainian
+      and Western sources, with it being described as a demand for Ukraine’s “ capitulation
+      .” This is mistaken. As the Quincy Institute has long pointed out , an agreement
+      that leaves three quarters of Ukraine independent and with a path to EU membership
+      would in fact be a Ukrainian victory, albeit a qualified one.
+
+
+      This should be obvious if you look at the Russian government’s goal at the start
+      of the war of turning the whole of Ukraine into a client state, or alternatively
+      of seizing the whole of eastern and southern Ukraine. It would also be a Ukrainian
+      victory in terms of the 500-year-long history of Russian, Polish and Turkish rule
+      over Ukraine. And by way of additional evidence, you would only have to listen
+      to the howls of protest that an agreement along these lines will evoke from Russian
+      hardliners, who still dream of achieving Russian maximalist aims. European comments
+      that this draft agreement concedes Russia’s “maximalist demands” are therefore
+      nonsense.
+
+
+      When it comes to the Western security guarantees to Ukraine promised (but not
+      specified) in the draft agreement, it is crucial to recognize that in international
+      affairs and in history there is no such thing as an absolute guarantee, let alone
+      a permanent one. There are however a whole set of commitments that can be included
+      in order to deter future Russian aggression: the peace agreement should be ratified
+      by the U.N. Security Council and endorsed by the BRICS; Western economic sanctions
+      should be not ended but suspended, with a snap-back clause stating that they will
+      automatically resume if Russia resumes aggression; designated long-range missiles
+      and other arms can be stockpiled with a legally binding guarantee that they will
+      be provided to Ukraine if Russia restarts the war.
+
+
+      Above all, Ukraine should retain the complete and guaranteed right to receive
+      and develop the defensive weapons that throughout this war have played a key part
+      in slowing the Russian advance to a crawl and inflicting immense casualties on
+      the Russian army. Because in the end, the greatest deterrent by far against Russia
+      starting a new war is how badly its armed forces have suffered and performed in
+      this war. If Russia has achieved its basic stated goals in Ukraine, would any
+      future Russian government really want to go through this again?
+
+
+      Certain Western officials, politicians, and commentators believe , and have stated
+      openly, that keeping the Ukraine War going is “money well spent” because it weakens
+      Russia without sacrificing U.S. lives. But apart from the deep immorality of sacrificing
+      Ukrainian lives for this goal, the longer the war goes on the greater the risk
+      that Ukraine will suffer a far greater defeat, Russia a far greater victory, and
+      the U.S. a far greater humiliation.
+
+
+      Given the growing evidence of Ukrainian military weakness and Russian ability
+      to press forward with its offensives, simple prudence dictates the search for
+      an early peace on reasonable terms. That is what the present plan promises, and
+      everyone who truly has Ukraine’s and Europe’s interests at heart should support
+      it.'
+    one_sentence_summary: The reported draft framework agreement between the U.S. and
+      Russia represents a significant step in the Ukraine peace process by addressing
+      critical issues for resolution, though it faces skepticism from Ukraine and may
+      require substantial pressure from the U.S. to gain acceptance, while also raising
+      concerns about concessions to Russia and the implications for Ukraine's sovereignty
+      and military capabilities.
+    paragraph_summary: The reported draft framework agreement between the U.S. and Russia
+      regarding the Ukraine peace process represents a significant, albeit tentative,
+      step towards resolving the conflict, as it addresses critical issues that must
+      be negotiated for peace. While U.S. officials, including envoy Steve Witkoff and
+      Vice President JD Vance, believe a deal is imminent, the Russian government has
+      emphasized that no agreement has been finalized, and key details remain undisclosed.
+      The plan reportedly includes Ukraine's withdrawal from parts of the Donbas, recognition
+      of Russian sovereignty over Crimea, and limitations on Ukraine's military capabilities,
+      which have faced backlash from Ukrainian officials and Western sources who view
+      it as a capitulation. However, proponents argue that the agreement could still
+      allow for a significant portion of Ukraine to remain independent and pursue EU
+      membership, presenting a qualified victory for Ukraine. The draft also suggests
+      security guarantees for Ukraine, though the effectiveness of such guarantees is
+      debated. Ultimately, the article advocates for an early peace to prevent further
+      losses for Ukraine and to stabilize the region, emphasizing that continued conflict
+      may lead to greater risks for all parties involved.
+    published: '2025-11-20T10:47:00+00:00'
   - title: Finally, Trump takes a sensible turn on Ukraine
     url: https://responsiblestatecraft.org/trump-ukraine-zelensky-2674216108/
     text: 'Claims that President Trump bullied President Zelensky and urged him to withdraw

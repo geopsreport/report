@@ -7,16 +7,961 @@ description: "Australian satirical anti–war journalist; reader–funded Substa
 websites:
   - https://www.caitlinjohnst.one/
 summary: |
-  Amid ongoing global unrest and shifting power dynamics, the latest developments highlight intensifying struggles over narrative control, deepening societal divides, and the persistent influence of imperial interests.
+  The past week has seen escalating tensions and ongoing violence in Gaza, persistent concerns about media manipulation, and growing skepticism about systemic solutions to global crises. The situation remains volatile, with new developments highlighting the complexity and urgency of these issues.
   
-  A significant new development is the growing generational divide within Jewish communities regarding support for Israel. At the Jewish Federations of North America General Assembly, former Obama speechwriter **Sarah Hurwitz** voiced concern over younger Jews’ increasing skepticism toward pro-Israel arguments. This shift is attributed largely to the influence of social media and exposure to global perspectives that often challenge traditional pro-Israel narratives. As **Caitlin Johnstone** notes, this generational rift signals a potential long-term weakening of unified diaspora support for Israeli policies, especially as younger generations become more critical and globally connected.
+  Most recently, **Caitlin Johnstone** reported on a deadly Israeli Defense Forces (IDF) attack in Gaza, which Israel justified as retaliation for a supposed ceasefire violation by Hamas. However, Johnstone notes the lack of evidence for this claim and the absence of any Israeli casualties, raising questions about the legitimacy of Israel’s narrative and the broader conduct of the operation. This follows earlier reports of the IDF moving boundary lines within Gaza and targeting Palestinians for crossing these newly imposed borders, including a disturbing incident where a Palestinian boy was shot in the face with a teargas canister.
   
-  Meanwhile, the broader context remains one of systemic disillusionment and manipulation. Recent articles underscore how mainstream media continues to sideline or distort stories that challenge dominant power structures—such as the ongoing lack of coverage regarding Jeffrey Epstein’s ties to Israeli intelligence. This selective reporting, as highlighted by **Johnstone**, serves to maintain the status quo and protect entrenched interests, further eroding public trust in traditional news sources.
+  On the information front, Johnstone has called for urgent legal action against the use of generative AI to deceive the public, arguing that “it should be illegal to use AI to deceive people.” She advocates for severe penalties for companies that fail to prevent the spread of fake content, and for mandatory warnings on all AI-generated materials. This reflects broader anxieties about the erosion of trust in media and the weaponization of new technologies to manipulate public perception.
   
-  Environmental and societal degradation also persist as underlying themes. In a recent piece, **Johnstone** paints a bleak picture of a world where beauty and value are often overlooked amid chaos and despair, reflecting a broader sense of loss and alienation in contemporary society.
+  Meanwhile, there is a growing recognition that systemic change will not come from external actors or technological fixes. As Johnstone puts it, “nobody’s coming to humanity’s rescue; we’ve got to save ourselves,” emphasizing the need for grassroots action and collective responsibility in the face of mounting global challenges.
   
-  Looking ahead, the trends point toward a continued fracturing of consensus within key communities, a growing skepticism toward mainstream narratives, and an intensifying struggle for control over information. There is a high chance that generational divides over geopolitical issues—especially regarding Israel—will deepen, leading to more vocal dissent and possibly influencing policy debates in the near future. The erosion of trust in mainstream media is most definitely set to continue, as alternative perspectives gain traction through decentralized platforms. The overall trajectory suggests a world where established powers face mounting challenges in maintaining narrative dominance, with unpredictable but significant implications for global politics.
+  **Trends and Predictions:**  
+  The majority of sources agree that the situation in Gaza is likely to deteriorate further, with little hope for a meaningful ceasefire or accountability for human rights abuses in the near term. There is a high chance that information warfare—both through traditional media and AI-generated content—will intensify, further polarizing public opinion and complicating efforts to reach consensus or resolution. Most definitely, grassroots activism and independent journalism will play an increasingly important role in challenging dominant narratives and pushing for systemic change, but the path forward remains fraught with obstacles.
 articles:
+  - title: A Note Of Gratitude And Appreciation
+    url: https://www.caitlinjohnst.one/p/a-note-of-gratitude-and-appreciation
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      It was a surprisingly exhilarating adventure packing up poster books and mailing
+      them off to my readers. This was my first time ever physically interfacing with
+      my audience in large numbers to any extent, and it was so beautiful going through
+      everyone’s names and addresses and getting to send them all physical things that
+      I could put my love into. I made so many expensive rookie mistakes and had to
+      solve a million problems figuring out how to do this thing that I’d never attempted
+      before, but I loved every minute of it. It filled me with so much appreciation
+      for all of you who’ve made it possible for me to do this weird, crazy job all
+      these years and undertake these strange projects every so often. After years of
+      confining my expression to mostly online digital works it’s been so cool to take
+      physical paintings that I made with my hands and turn them into books that I drove
+      across town and picked up and packaged and sent off by hand, especially after
+      all the freaky stuff that’s been happening with generative AI lately. I suspect
+      were going to have to do things like this to stay in touch with our humanity going
+      forward. I enjoyed the humanness and physicality of it, even the stressful bits.
+      I enjoyed getting way more orders than expected and having to scale up at the
+      last minute. I enjoyed going to an actual, physical printer that made some of
+      the books wonky after the printing took way longer than their website said. I
+      enjoyed mistakenly weighing the books down with so much fancy packaging that I
+      had to embrace the fact that this was to be mostly a labor of love once I saw
+      how much the shipping cost. I loved hand writing everyone little notes on postcards
+      after all these years of typing. I loved seeing a name I recognized from online
+      and taking a childlike delight in the fact that they live on an actual street
+      in an actual apartment. I loved seeing all the different countries people come
+      from; when everything’s in the spaceless environment of the internet you don’t
+      really appreciate the fact that there are a bunch of people in places like Sweden
+      or France connecting with your work. I loved visiting the post office twice a
+      day with my carloads of packages and chatting with the workers about what I’m
+      up to. It was also such a fun thing to do with the family. Sitting around with
+      Tim and my kids wrapping, writing, printing and packaging together while making
+      jokes and listening to music for hours will be a memory I’ll always cherish. It’s
+      just not the sort of thing we generally get to do together, and I loved it so,
+      so much. I don’t know if anyone even cares about this stuff, but this thing’s
+      been such a big part of my world for days and days that I just wanted to share
+      my thoughts and feelings about it. I am so unspeakably grateful to everyone who’s
+      been helping me live the life I’ve been living since going crowdfunded in 2017,
+      whether that’s by financial support or just reading and sharing my stuff. My life
+      is so intertwined with yours, and I gained a new level of insight into what that
+      means with this latest poster book adventure. Anyway, yeah. Looks like everyone
+      will be getting their orders before Christmas, unless I’ve made some egregious
+      error I don’t yet know about. If you want to order a signed copy now I’ve still
+      got a few left and I’ll get it to you ASAP, but if you live outside of Australia
+      I can’t 100 percent guarantee it’ll be in your hands by Christmas. Thank you all
+      so very, very much for doing this thing with me. I really really love you guys.
+      _______________ Caitlin’s Newsletter is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber. My
+      work is entirely reader-supported , so if you enjoyed this piece here are some
+      options where you can toss some money into my tip jar if you want to. The best
+      way to make sure you see everything I write is to get on my free mailing list
+      . Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The author describes the exhilarating experience of physically
+      mailing poster books to readers for the first time, expressing gratitude for their
+      support and the joy of transitioning from digital to tangible art.
+    paragraph_summary: The author reflects on the exhilarating experience of packing
+      and mailing poster books to readers, marking their first significant physical
+      interaction with their audience. Despite encountering numerous challenges and
+      making rookie mistakes, the process filled them with appreciation for their supporters
+      and the opportunity to engage in a tangible, hands-on way. Transitioning from
+      digital to physical art, the author relished the human connection involved in
+      handwriting notes, navigating unexpected order volumes, and dealing with printing
+      and shipping hurdles. This experience, especially in light of the rise of generative
+      AI, reinforced the importance of maintaining human touch and creativity in their
+      work, celebrating the joy of connecting with readers from around the world.
+    published: '2025-11-25T10:51:27+00:00'
+  - title: A Note Of Gratitude And Appreciation
+    url: https://www.caitlinjohnst.one/p/a-note-of-gratitude-and-appreciation
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      It was a surprisingly exhilarating adventure packing up poster books and mailing
+      them off to my readers. This was my first time ever physically interfacing with
+      my audience in large numbers to any extent, and it was so beautiful going through
+      everyone’s names and addresses and getting to send them all physical things that
+      I could put my love into. I made so many expensive rookie mistakes and had to
+      solve a million problems figuring out how to do this thing that I’d never attempted
+      before, but I loved every minute of it. It filled me with so much appreciation
+      for all of you who’ve made it possible for me to do this weird, crazy job all
+      these years and undertake these strange projects every so often. After years of
+      confining my expression to mostly online digital works it’s been so cool to take
+      physical paintings that I made with my hands and turn them into books that I drove
+      across town and picked up and packaged and sent off by hand, especially after
+      all the freaky stuff that’s been happening with generative AI lately. I suspect
+      were going to have to do things like this to stay in touch with our humanity going
+      forward. I enjoyed the humanness and physicality of it, even the stressful bits.
+      I enjoyed getting way more orders than expected and having to scale up at the
+      last minute. I enjoyed going to an actual, physical printer that made some of
+      the books wonky after the printing took way longer than their website said. I
+      enjoyed mistakenly weighing the books down with so much fancy packaging that I
+      had to embrace the fact that this was to be mostly a labor of love once I saw
+      how much the shipping cost. I loved hand writing everyone little notes on postcards
+      after all these years of typing. I loved seeing a name I recognized from online
+      and taking a childlike delight in the fact that they live on an actual street
+      in an actual apartment. I loved seeing all the different countries people come
+      from; when everything’s in the spaceless environment of the internet you don’t
+      really appreciate the fact that there are a bunch of people in places like Sweden
+      or France connecting with your work. I loved visiting the post office twice a
+      day with my carloads of packages and chatting with the workers about what I’m
+      up to. It was also such a fun thing to do with the family. Sitting around with
+      Tim and my kids wrapping, writing, printing and packaging together while making
+      jokes and listening to music for hours will be a memory I’ll always cherish. It’s
+      just not the sort of thing we generally get to do together, and I loved it so,
+      so much. I don’t know if anyone even cares about this stuff, but this thing’s
+      been such a big part of my world for days and days that I just wanted to share
+      my thoughts and feelings about it. I am so unspeakably grateful to everyone who’s
+      been helping me live the life I’ve been living since going crowdfunded in 2017,
+      whether that’s by financial support or just reading and sharing my stuff. My life
+      is so intertwined with yours, and I gained a new level of insight into what that
+      means with this latest poster book adventure. Anyway, yeah. Looks like everyone
+      will be getting their orders before Christmas, unless I’ve made some egregious
+      error I don’t yet know about. If you want to order a signed copy now I’ve still
+      got a few left and I’ll get it to you ASAP, but if you live outside of Australia
+      I can’t 100 percent guarantee it’ll be in your hands by Christmas. Thank you all
+      so very, very much for doing this thing with me. I really really love you guys.
+      _______________ Caitlin’s Newsletter is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber. My
+      work is entirely reader-supported , so if you enjoyed this piece here are some
+      options where you can toss some money into my tip jar if you want to. The best
+      way to make sure you see everything I write is to get on my free mailing list
+      . Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The author describes the exhilarating experience of physically
+      mailing poster books to readers for the first time, expressing gratitude for their
+      support and the joy of transitioning from digital to tangible art.
+    paragraph_summary: The author reflects on the exhilarating experience of packing
+      and mailing poster books to readers, marking their first significant physical
+      interaction with their audience. Despite encountering numerous challenges and
+      making rookie mistakes, the process filled them with appreciation for their supporters
+      and the opportunity to engage in a tangible, hands-on way. Transitioning from
+      digital to physical art, the author relished the human connection involved in
+      handwriting notes, navigating unexpected order volumes, and dealing with printing
+      and shipping hurdles. This experience, especially in light of the rise of generative
+      AI, reinforced the importance of maintaining human touch and creativity in their
+      work, celebrating the joy of connecting with readers from around the world.
+    published: '2025-11-25T10:51:27+00:00'
+  - title: It Should Be Illegal To Use AI To Deceive People
+    url: https://www.caitlinjohnst.one/p/it-should-be-illegal-to-use-ai-to
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      It should be against the law to use generative AI to deceive the public. I’ve
+      got absolutely no problem with outright government censorship in this case, and
+      I say this as an aggressive and outspoken proponent of free speech. AI products
+      which deceive people should be illegal in the same way fraud is illegal. I want
+      it to be illegal to knowingly circulate AI video footage and pass it off as real.
+      I want AI companies to be severely penalized if they don’t prevent people from
+      using their products to generate fake videos that get passed off as real. https://x.com/caitoz/status/1990561334208192809
+      I want generative AI companies to be forced to place highly visible warnings across
+      all AI-generated videos with wording that explicitly says they are AI-generated — not
+      just a little watermark in the corner that can be cropped out. I want AI companies
+      to be harshly penalized if their chatbots encourage users to engage in harmful
+      behavior, or if they tell users they are conscious, or if they psychologically
+      manipulate users into forming emotional attachments to them. I want it to be illegal
+      for companies to use bots which tell people they are talking to a real human being.
+      I want it to be illegal for politicians to use AI deepfakes of their opponents
+      saying outrageous things in their political campaigns, as we’ve been seeing more
+      and more often lately. Your right to extend your fist ends at my nose. These products
+      threaten to erode the fabric of our society. They are attacking people’s ability
+      to understand reality and sort out fact from fiction. They are driving people
+      insane. If fraud is illegal, than these abuses should be illegal. Fraud isn’t
+      considered protected speech, because it hurts people and is detrimental to a functioning
+      society. Generative AI deception shouldn’t be protected for precisely those same
+      reasons. Tech plutocrats should not be allowed to profit from sowing deception,
+      confusion, and mental illness. The collective has the right to protect itself
+      from harm from destructive individuals. The state is a gentler tool for this than
+      guillotines. Governments should intervene to end these assaults on our ability
+      to perceive and understand our world. https://x.com/EFCevie/status/1986955359341170755
+      I really don’t care how much force needs to be used to rein this shit in. If people
+      can’t perceive and understand reality clearly, then everything goes to hell. Nobody
+      knows what to think, how to act, how to vote or how to live if they can’t determine
+      what’s true or false. Bring these new technologies to heel by any means necessary.
+      It’s about basic self-defense at this point. And I don’t expect any of this to
+      happen any time soon; the rich and powerful are way too excited about generative
+      AI and what it can do for them, and they tend to get what they want. Trump is
+      already drawing significant backlash over reported plans for an executive order
+      which would ban states from regulating AI companies on their own. So it looks
+      like we’re getting these abusive technologies shoved down our throat in whatever
+      way benefits the zillionaires and Zionists of the imperial power structure, whether
+      we like it or not. __________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. My work is entirely reader-supported , so if you enjoyed this
+      piece here are some options where you can toss some money into my tip jar if you
+      want to. The best way to make sure you see everything I write is to get on my
+      free mailing list . Click here for links for my social media, books, merch, and
+      audio/video versions of each article . All my work is free to bootleg and use
+      in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: The article argues for strict legal measures against the use
+      of generative AI to deceive the public, advocating for severe penalties for companies
+      that fail to prevent the dissemination of fake content and calling for clear warnings
+      on AI-generated materials.
+    paragraph_summary: The article argues for the implementation of strict laws against
+      the use of generative AI to deceive the public, equating such deception to fraud.
+      The author advocates for severe penalties for AI companies that fail to prevent
+      the misuse of their products for creating fake videos or misleading interactions,
+      emphasizing that AI-generated content should carry clear warnings. Additionally,
+      the piece calls for regulations to prohibit the use of AI deepfakes in political
+      campaigns and the manipulation of users by chatbots. The author contends that
+      these deceptive practices threaten societal understanding of reality and should
+      not be protected under free speech, as they harm individuals and undermine a functioning
+      society.
+    published: '2025-11-23T23:57:30+00:00'
+  - title: It Should Be Illegal To Use AI To Deceive People
+    url: https://www.caitlinjohnst.one/p/it-should-be-illegal-to-use-ai-to
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      It should be against the law to use generative AI to deceive the public. I’ve
+      got absolutely no problem with outright government censorship in this case, and
+      I say this as an aggressive and outspoken proponent of free speech. AI products
+      which deceive people should be illegal in the same way fraud is illegal. I want
+      it to be illegal to knowingly circulate AI video footage and pass it off as real.
+      I want AI companies to be severely penalized if they don’t prevent people from
+      using their products to generate fake videos that get passed off as real. https://x.com/caitoz/status/1990561334208192809
+      I want generative AI companies to be forced to place highly visible warnings across
+      all AI-generated videos with wording that explicitly says they are AI-generated — not
+      just a little watermark in the corner that can be cropped out. I want AI companies
+      to be harshly penalized if their chatbots encourage users to engage in harmful
+      behavior, or if they tell users they are conscious, or if they psychologically
+      manipulate users into forming emotional attachments to them. I want it to be illegal
+      for companies to use bots which tell people they are talking to a real human being.
+      I want it to be illegal for politicians to use AI deepfakes of their opponents
+      saying outrageous things in their political campaigns, as we’ve been seeing more
+      and more often lately. Your right to extend your fist ends at my nose. These products
+      threaten to erode the fabric of our society. They are attacking people’s ability
+      to understand reality and sort out fact from fiction. They are driving people
+      insane. If fraud is illegal, than these abuses should be illegal. Fraud isn’t
+      considered protected speech, because it hurts people and is detrimental to a functioning
+      society. Generative AI deception shouldn’t be protected for precisely those same
+      reasons. Tech plutocrats should not be allowed to profit from sowing deception,
+      confusion, and mental illness. The collective has the right to protect itself
+      from harm from destructive individuals. The state is a gentler tool for this than
+      guillotines. Governments should intervene to end these assaults on our ability
+      to perceive and understand our world. https://x.com/EFCevie/status/1986955359341170755
+      I really don’t care how much force needs to be used to rein this shit in. If people
+      can’t perceive and understand reality clearly, then everything goes to hell. Nobody
+      knows what to think, how to act, how to vote or how to live if they can’t determine
+      what’s true or false. Bring these new technologies to heel by any means necessary.
+      It’s about basic self-defense at this point. And I don’t expect any of this to
+      happen any time soon; the rich and powerful are way too excited about generative
+      AI and what it can do for them, and they tend to get what they want. Trump is
+      already drawing significant backlash over reported plans for an executive order
+      which would ban states from regulating AI companies on their own. So it looks
+      like we’re getting these abusive technologies shoved down our throat in whatever
+      way benefits the zillionaires and Zionists of the imperial power structure, whether
+      we like it or not. __________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. My work is entirely reader-supported , so if you enjoyed this
+      piece here are some options where you can toss some money into my tip jar if you
+      want to. The best way to make sure you see everything I write is to get on my
+      free mailing list . Click here for links for my social media, books, merch, and
+      audio/video versions of each article . All my work is free to bootleg and use
+      in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: The article argues for strict legal measures against the use
+      of generative AI to deceive the public, advocating for severe penalties for companies
+      that fail to prevent the dissemination of fake content and calling for clear warnings
+      on AI-generated materials.
+    paragraph_summary: The article argues for the implementation of strict laws against
+      the use of generative AI to deceive the public, equating such deception to fraud.
+      The author advocates for severe penalties for AI companies that fail to prevent
+      the misuse of their products for creating fake videos or misleading interactions,
+      emphasizing that AI-generated content should carry clear warnings. Additionally,
+      the piece calls for regulations to prohibit the use of AI deepfakes in political
+      campaigns and the manipulation of users by chatbots. The author contends that
+      these deceptive practices threaten societal understanding of reality and should
+      not be protected under free speech, as they harm individuals and undermine a functioning
+      society.
+    published: '2025-11-23T23:57:30+00:00'
+  - title: You Don't Hate The Mass Media Enough
+    url: https://www.caitlinjohnst.one/p/you-dont-hate-the-mass-media-enough
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      There was another IDF massacre in Gaza on Saturday, reportedly killing dozens
+      of Palestinians. Israel as usual claimed it was responding to a ceasefire violation
+      by Hamas, but of course there’s absolutely no evidence for this to be found. AP
+      reports that according to the IDF the strikes were launched after a Hamas fighter
+      “shot at troops in southern Gaza,” but that “no soldiers were hurt” in this alleged
+      attack. Not so much as a scratch. So I guess we’re just expected to take Israel’s
+      word for it. Now check out these western media headlines about the massacre and
+      notice the disgusting spin they are placing on the narrative to normalize the
+      continued slaughter of Palestinians: “ Israel launches strikes in Gaza ceasefire’s
+      latest test as hospitals say 24 killed ,” by AP. “ Israel launches strikes in
+      Gaza ceasefire’s latest test as hospitals say more than 20 killed ,” by NBC News.
+      “ Israel launches strikes on Gaza in further test of fragile ceasefire ,” from
+      Sky News. “ Israel launches strikes on Gaza in latest test to fragile ceasefire
+      ,” from France 24. “ Israeli Strikes Kill at Least Two Dozen in Gaza Amid Fragile
+      Ceasefire ,” from Newsweek. Do you see what they’re doing here? The western press
+      see the killing of Palestinians as such a baseline norm that Israel can massacre
+      dozens of people in Gaza and they’ll go, “Gosh I sure hope this doesn’t lead to
+      any violations of the ceasefire!” https://x.com/tparsi/status/1992309926144901449
+      It’s never a ceasefire violation to commit mass murder against Palestinians. It’s
+      only ever a “test” of the ceasefire, or something that happens “amid a fragile
+      ceasefire”. If Hamas suddenly attacked and killed dozens of Israelis, these empire
+      propagandists wouldn’t be saying “Hmm I sure hope the fragile ceasefire holds
+      up amid this challenging test.” They’d just call it what it is. And it would be
+      the main news story in the world. The imperial media have been framing Israel’s
+      ceasefire violations like this the entire time. Just the other day NBC News ran
+      a report about a different IDF massacre in Gaza titled “ Israeli airstrikes kill
+      25 Palestinians in Gaza, rattling fragile ceasefire ”. Last month CNN ran a headline
+      claiming “ US-brokered ceasefire appears to survive first major test ” after Israel
+      killed at least 44 people, when Israel had been violating the ceasefire every
+      single day up to that point. The mass media have been running egregiously misleading
+      headlines throughout this entire genocide, which has an overwhelmingly distorting
+      effect on public perception in an information environment where skim-reading has
+      become the norm and most social media users share news stories after just reading
+      the headline . https://x.com/caitoz/status/1979860363442335814 It almost feels
+      silly to point out that the mass media are wildly biased in favor of Israel two
+      years into a genocide which they’ve actively run propaganda cover for in brazen
+      acts of journalistic malpractice from the very beginning . But we can’t let it
+      slip from our attention how evil these imperial spinmeisters are. How racist they
+      are. How mendacious and manipulative they are. However much you hate them, you
+      don’t hate them enough. These are the people who are informing western perspectives
+      about what’s going on in our world. They aren’t just deceiving the public with
+      dishonest headlines and precipitously slanted reporting which gets loudly amplified
+      by Silicon Valley algorithms, they are writing the stories which get used and
+      cited by AI chatbots and online platforms like Wikipedia which people are increasingly
+      turning to for information about world events. They are polluting the entire information
+      ecosystem with a deluge of propaganda they are churning out day after day, year
+      after year. These freaks are attacking our minds. They are attacking humanity’s
+      ability to understand its waking reality. They are continuously indoctrinating
+      the public into an ignorant, western supremacist worldview which only values human
+      life when it lives in the correct part of the world, speaks the correct language,
+      practices the correct religion, has the correct skin color, and aligns with the
+      correct geopolitical agendas. They make everything worse. It’s impossible to have
+      enough disdain for these mass media propagandists. ________________ Check out
+      my new book, Faces Of The Empire: The Battle For Humanity’s Soul . Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. My work is entirely reader-supported , so
+      if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. The best way to make sure you see everything I
+      write is to get on my free mailing list . Click here for links for my social media,
+      books, merch, and audio/video versions of each article . All my work is free to
+      bootleg and use in any way, shape or form; republish it, translate it, use it
+      on merchandise; whatever you want. All works co-authored with my husband Tim Foley.
+      Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article reports on a recent Israeli Defense Forces (IDF)
+      attack in Gaza that allegedly killed dozens of Palestinians, with Israel claiming
+      it was a response to a ceasefire violation by Hamas, despite a lack of evidence
+      and the absence of injuries to Israeli soldiers.
+    paragraph_summary: On Saturday, the Israeli Defense Forces (IDF) reportedly killed
+      dozens of Palestinians in Gaza, claiming the strikes were a response to a ceasefire
+      violation by Hamas, despite a lack of evidence to support this assertion. The
+      IDF stated that the strikes followed an alleged attack by a Hamas fighter, although
+      no Israeli soldiers were injured. The article criticizes Western media outlets
+      for their framing of the incident, suggesting they normalize the violence against
+      Palestinians by describing the killings as a "test" of the ceasefire rather than
+      acknowledging them as acts of mass murder. The author argues that if the roles
+      were reversed, the media would react with outrage rather than downplaying the
+      severity of the situation.
+    published: '2025-11-23T01:06:35+00:00'
+  - title: You Don't Hate The Mass Media Enough
+    url: https://www.caitlinjohnst.one/p/you-dont-hate-the-mass-media-enough
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      There was another IDF massacre in Gaza on Saturday, reportedly killing dozens
+      of Palestinians. Israel as usual claimed it was responding to a ceasefire violation
+      by Hamas, but of course there’s absolutely no evidence for this to be found. AP
+      reports that according to the IDF the strikes were launched after a Hamas fighter
+      “shot at troops in southern Gaza,” but that “no soldiers were hurt” in this alleged
+      attack. Not so much as a scratch. So I guess we’re just expected to take Israel’s
+      word for it. Now check out these western media headlines about the massacre and
+      notice the disgusting spin they are placing on the narrative to normalize the
+      continued slaughter of Palestinians: “ Israel launches strikes in Gaza ceasefire’s
+      latest test as hospitals say 24 killed ,” by AP. “ Israel launches strikes in
+      Gaza ceasefire’s latest test as hospitals say more than 20 killed ,” by NBC News.
+      “ Israel launches strikes on Gaza in further test of fragile ceasefire ,” from
+      Sky News. “ Israel launches strikes on Gaza in latest test to fragile ceasefire
+      ,” from France 24. “ Israeli Strikes Kill at Least Two Dozen in Gaza Amid Fragile
+      Ceasefire ,” from Newsweek. Do you see what they’re doing here? The western press
+      see the killing of Palestinians as such a baseline norm that Israel can massacre
+      dozens of people in Gaza and they’ll go, “Gosh I sure hope this doesn’t lead to
+      any violations of the ceasefire!” https://x.com/tparsi/status/1992309926144901449
+      It’s never a ceasefire violation to commit mass murder against Palestinians. It’s
+      only ever a “test” of the ceasefire, or something that happens “amid a fragile
+      ceasefire”. If Hamas suddenly attacked and killed dozens of Israelis, these empire
+      propagandists wouldn’t be saying “Hmm I sure hope the fragile ceasefire holds
+      up amid this challenging test.” They’d just call it what it is. And it would be
+      the main news story in the world. The imperial media have been framing Israel’s
+      ceasefire violations like this the entire time. Just the other day NBC News ran
+      a report about a different IDF massacre in Gaza titled “ Israeli airstrikes kill
+      25 Palestinians in Gaza, rattling fragile ceasefire ”. Last month CNN ran a headline
+      claiming “ US-brokered ceasefire appears to survive first major test ” after Israel
+      killed at least 44 people, when Israel had been violating the ceasefire every
+      single day up to that point. The mass media have been running egregiously misleading
+      headlines throughout this entire genocide, which has an overwhelmingly distorting
+      effect on public perception in an information environment where skim-reading has
+      become the norm and most social media users share news stories after just reading
+      the headline . https://x.com/caitoz/status/1979860363442335814 It almost feels
+      silly to point out that the mass media are wildly biased in favor of Israel two
+      years into a genocide which they’ve actively run propaganda cover for in brazen
+      acts of journalistic malpractice from the very beginning . But we can’t let it
+      slip from our attention how evil these imperial spinmeisters are. How racist they
+      are. How mendacious and manipulative they are. However much you hate them, you
+      don’t hate them enough. These are the people who are informing western perspectives
+      about what’s going on in our world. They aren’t just deceiving the public with
+      dishonest headlines and precipitously slanted reporting which gets loudly amplified
+      by Silicon Valley algorithms, they are writing the stories which get used and
+      cited by AI chatbots and online platforms like Wikipedia which people are increasingly
+      turning to for information about world events. They are polluting the entire information
+      ecosystem with a deluge of propaganda they are churning out day after day, year
+      after year. These freaks are attacking our minds. They are attacking humanity’s
+      ability to understand its waking reality. They are continuously indoctrinating
+      the public into an ignorant, western supremacist worldview which only values human
+      life when it lives in the correct part of the world, speaks the correct language,
+      practices the correct religion, has the correct skin color, and aligns with the
+      correct geopolitical agendas. They make everything worse. It’s impossible to have
+      enough disdain for these mass media propagandists. ________________ Check out
+      my new book, Faces Of The Empire: The Battle For Humanity’s Soul . Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. My work is entirely reader-supported , so
+      if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. The best way to make sure you see everything I
+      write is to get on my free mailing list . Click here for links for my social media,
+      books, merch, and audio/video versions of each article . All my work is free to
+      bootleg and use in any way, shape or form; republish it, translate it, use it
+      on merchandise; whatever you want. All works co-authored with my husband Tim Foley.
+      Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article reports on a recent Israeli Defense Forces (IDF)
+      attack in Gaza that allegedly killed dozens of Palestinians, with Israel claiming
+      it was a response to a ceasefire violation by Hamas, despite a lack of evidence
+      and the absence of injuries to Israeli soldiers.
+    paragraph_summary: On Saturday, the Israeli Defense Forces (IDF) reportedly killed
+      dozens of Palestinians in Gaza, claiming the strikes were a response to a ceasefire
+      violation by Hamas, despite a lack of evidence to support this assertion. The
+      IDF stated that the strikes followed an alleged attack by a Hamas fighter, although
+      no Israeli soldiers were injured. The article criticizes Western media outlets
+      for their framing of the incident, suggesting they normalize the violence against
+      Palestinians by describing the killings as a "test" of the ceasefire rather than
+      acknowledging them as acts of mass murder. The author argues that if the roles
+      were reversed, the media would react with outrage rather than downplaying the
+      severity of the situation.
+    published: '2025-11-23T01:06:35+00:00'
+  - title: 'UPDATE: Your Poster Books Are Coming!'
+    url: https://www.caitlinjohnst.one/p/update-your-poster-books-are-coming
+    text: 'Subscribe now Just wanted to give a quick video update for everyone who’s
+      ordered a signed book of prints of my paintings, and show off our cool packaging
+      system: Click here to order a copy if you haven’t ordered one yet . ___________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. The best way to make sure
+      you see everything I write is to get on my free mailing list . Click here for
+      links for my social media, books, merch, and audio/video versions of each article
+      . All my work is free to bootleg and use in any way, shape or form; republish
+      it, translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article provides a video update for those who ordered
+      signed books of prints of the author's paintings, highlights the packaging system,
+      and encourages readers to support the work through subscriptions and donations.
+    paragraph_summary: Caitlin provides a video update for those who have ordered signed
+      books of prints of her paintings, showcasing her unique packaging system and encouraging
+      others to place orders. She emphasizes that her newsletter is reader-supported
+      and invites readers to subscribe for free or paid options to support her work.
+      Caitlin also promotes her social media, books, and merchandise, while stating
+      that her content is free to use and republish in any form. Additionally, she mentions
+      the option for Bitcoin donations.
+    published: '2025-11-22T12:35:17+00:00'
+  - title: 'UPDATE: Your Poster Books Are Coming!'
+    url: https://www.caitlinjohnst.one/p/update-your-poster-books-are-coming
+    text: 'Subscribe now Just wanted to give a quick video update for everyone who’s
+      ordered a signed book of prints of my paintings, and show off our cool packaging
+      system: Click here to order a copy if you haven’t ordered one yet . ___________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. The best way to make sure
+      you see everything I write is to get on my free mailing list . Click here for
+      links for my social media, books, merch, and audio/video versions of each article
+      . All my work is free to bootleg and use in any way, shape or form; republish
+      it, translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article provides a video update for those who ordered
+      signed books of prints of the author's paintings, highlights the packaging system,
+      and encourages readers to support the work through subscriptions and donations.
+    paragraph_summary: Caitlin provides a video update for those who have ordered signed
+      books of prints of her paintings, showcasing her unique packaging system and encouraging
+      others to place orders. She emphasizes that her newsletter is reader-supported
+      and invites readers to subscribe for free or paid options to support her work.
+      Caitlin also promotes her social media, books, and merchandise, while stating
+      that her content is free to use and republish in any form. Additionally, she mentions
+      the option for Bitcoin donations.
+    published: '2025-11-22T12:35:17+00:00'
+  - title: Israel Moved Gaza's Yellow Line And Then Shelled Palestinians For Being On
+      The Wrong Side
+    url: https://www.caitlinjohnst.one/p/israel-moved-gazas-yellow-line-and
+    text: 'Notes from The Edge of the Narrative Matrix Listen to a reading of this article
+      (reading by Tim Foley) : Subscribe now Drop Site News reports that the IDF quietly
+      moved part of the “yellow line” which divides Gaza 300 meters forward, and then
+      started shelling Palestinians for being on the “wrong side” of the line. They
+      just keep finding new ways to carve off more pieces of Gaza and murder more Palestinians.
+      ❖ Haaretz has a disturbing story out about a 14 year-old Palestinian boy who was
+      waiting for his school bus in the West Bank on a quiet street eating a cookie,
+      when suddenly a bunch of IDF vehicles pulled up and a soldier shot him directly
+      in the face with a teargas canister. Then they sped off. The boy lost his right
+      eye in the attack. Israelis will just casually shoot a Palestinian kid in the
+      fucking face for no fucking reason, and then go online and call you hateful for
+      opposing them. ❖ Leftists are going to hate Israel for leftist reasons and rightists
+      are going to hate Israel for rightist reasons. This is not a difference that needs
+      to be reconciled or a problem that needs to be solved. Some groyper hating the
+      same genocidal apartheid state I hate doesn’t say anything about me or my politics
+      anymore than our having the same opinion on the importance of dental hygiene.
+      It doesn’t make me the same as him. It doesn’t make him my friend. It doesn’t
+      mean I have to be nice to him. It doesn’t mean I have to stop opposing Israel
+      and its atrocities. It doesn’t mean I am obligated to do anything to protect Israel
+      from the western rightists who’ve been turning against it in rapidly increasing
+      numbers. It doesn’t mean anything. It just is what it is. You’ll see Israel supporters
+      point to the rising number of rightists who oppose Israel and trying to marry
+      it to pro-Palestine leftists in some way. I recently saw former Israeli spokesman
+      Eylon Levy claiming that antizionism “builds coalitions on both extremes — and
+      increasingly between them — by mobilizing politics against Jews.” But that’s just
+      some nonsense they’re making up in order to justify their genocidal atrocities.
+      Leftist opposition to Israel is about justice, equality, anticolonialism, antiracism,
+      anti-imperialism, antiwar and anti-apartheid activism, and has nothing whatsoever
+      to do with hating Jews. Rightist opposition to Israel is more about nationalism,
+      anti-interventionism, America First ideology, and yes, in many cases a hatred
+      of Jews. These are two completely different things. You never saw Zionists bitching
+      about the far right until they started pivoting against Israel; until then they
+      were happy to make alliances with them, and still are as long as they remain supportive
+      of Israel. And half the time you see them citing anti-Israel sentiments on the
+      right it’s only to play guilt-by-association by framing them as the same as the
+      pro-Palestine left. It’s just more empty narrative-diddling from Israel apologists.
+      It’s not a real argument, and doesn’t require a counter-argument. It’s just them
+      flailing around trying anything they can to stop the entire western political
+      spectrum from flushing Israel down the toilet. ❖ New York Times war propagandist
+      Bret Stephens has a new article out titled “ The Case for Overthrowing Maduro
+      ” in which he argues for US regime change interventionism in Venezuela on the
+      basis that “the regime’s close economic and strategic ties to China, Russia and
+      Iran give America’s enemies a significant foothold in the Americas.” This would
+      be the same Bret Stephens who in 2023 wrote an article in the New York Times titled
+      “ 20 Years On, I Don’t Regret Supporting the Iraq War ,” by the way. On a related
+      note, the leftist outlet Current Affairs presently has a special going where if
+      you cancel your New York Times subscription and send proof of cancelation to help@currentaffairs.org
+      right now, you’ll get a free year-long digital subscription to their vastly superior
+      publication. ❖ Right wingers think a mother should be at home raising her children,
+      an arrangement that many mothers would be on board with, but if you say this requires
+      either state support or for employers to be forced to increase pay so that single-income
+      families can exist they say “No that’s socialism!” They want the mothers to stay
+      at home while the fathers work 80-hour work weeks for ten bucks an hour so that
+      billionaires can become trillionaires. ❖ Elon Musk says that in 10 to 20 years
+      work will be optional and money will be meaningless because AI and automation
+      will eliminate the need for labor and make everything wonderful. Something tells
+      me the guy who just took a trillion-dollar pay package from Tesla doesn’t really
+      believe money is going to be meaningless anytime soon. This soon-to-be-trillionaire
+      whose ego is so fragile and infantile that his AI chatbot tells people he’s smarter
+      than da Vinci and more athletic than LeBron James is asking us to believe that
+      revolutionary change isn’t necessary because capitalists like himself are going
+      to fix it so that everyone lives in luxury. Yeah sure, buddy. A likely story.
+      ❖ OpenAI reportedly plans on building 250 gigawatts of capacity by 2033 to use
+      for its energy-consuming servers, about the same amount of electricity that’s
+      used by 1.5 billion people in India. So, no. No to this. Your right to extend
+      your fist ends at my nose. You don’t get to just add this giant burden to the
+      already severely overburdened ecosystem we all depend on for survival in order
+      to expand your chatbot project. The collective is entitled to stop you. By force.
+      _________________ Check out my new book, Faces Of The Empire: The Battle For Humanity’s
+      Soul . Caitlin’s Newsletter is a reader-supported publication. To receive new
+      posts and support my work, consider becoming a free or paid subscriber. My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. The best way to
+      make sure you see everything I write is to get on my free mailing list . Click
+      here for links for my social media, books, merch, and audio/video versions of
+      each article . All my work is free to bootleg and use in any way, shape or form;
+      republish it, translate it, use it on merchandise; whatever you want. All works
+      co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article reports on recent actions by the IDF, including
+      moving the boundary line in Gaza and shelling Palestinians, as well as a disturbing
+      incident where a Palestinian boy was shot in the face with a teargas canister,
+      highlighting ongoing violence and human rights abuses against Palestinians.
+    paragraph_summary: The article discusses recent actions by the Israeli Defense Forces
+      (IDF) that have escalated tensions in Gaza and the West Bank, including the repositioning
+      of a boundary line that led to shelling and a disturbing incident where a 14-year-old
+      Palestinian boy lost his eye after being shot with a teargas canister while waiting
+      for a school bus. It critiques the casual violence against Palestinians and highlights
+      the complex political landscape, noting that both leftists and rightists harbor
+      animosity towards Israel for different reasons. The author emphasizes that shared
+      opposition to Israel's actions does not create a political alliance between disparate
+      groups, and expresses a refusal to align with those who oppose Israel for reasons
+      that differ from their own.
+    published: '2025-11-22T01:21:33+00:00'
+  - title: Israel Moved Gaza's Yellow Line And Then Shelled Palestinians For Being On
+      The Wrong Side
+    url: https://www.caitlinjohnst.one/p/israel-moved-gazas-yellow-line-and
+    text: 'Notes from The Edge of the Narrative Matrix Listen to a reading of this article
+      (reading by Tim Foley) : Subscribe now Drop Site News reports that the IDF quietly
+      moved part of the “yellow line” which divides Gaza 300 meters forward, and then
+      started shelling Palestinians for being on the “wrong side” of the line. They
+      just keep finding new ways to carve off more pieces of Gaza and murder more Palestinians.
+      ❖ Haaretz has a disturbing story out about a 14 year-old Palestinian boy who was
+      waiting for his school bus in the West Bank on a quiet street eating a cookie,
+      when suddenly a bunch of IDF vehicles pulled up and a soldier shot him directly
+      in the face with a teargas canister. Then they sped off. The boy lost his right
+      eye in the attack. Israelis will just casually shoot a Palestinian kid in the
+      fucking face for no fucking reason, and then go online and call you hateful for
+      opposing them. ❖ Leftists are going to hate Israel for leftist reasons and rightists
+      are going to hate Israel for rightist reasons. This is not a difference that needs
+      to be reconciled or a problem that needs to be solved. Some groyper hating the
+      same genocidal apartheid state I hate doesn’t say anything about me or my politics
+      anymore than our having the same opinion on the importance of dental hygiene.
+      It doesn’t make me the same as him. It doesn’t make him my friend. It doesn’t
+      mean I have to be nice to him. It doesn’t mean I have to stop opposing Israel
+      and its atrocities. It doesn’t mean I am obligated to do anything to protect Israel
+      from the western rightists who’ve been turning against it in rapidly increasing
+      numbers. It doesn’t mean anything. It just is what it is. You’ll see Israel supporters
+      point to the rising number of rightists who oppose Israel and trying to marry
+      it to pro-Palestine leftists in some way. I recently saw former Israeli spokesman
+      Eylon Levy claiming that antizionism “builds coalitions on both extremes — and
+      increasingly between them — by mobilizing politics against Jews.” But that’s just
+      some nonsense they’re making up in order to justify their genocidal atrocities.
+      Leftist opposition to Israel is about justice, equality, anticolonialism, antiracism,
+      anti-imperialism, antiwar and anti-apartheid activism, and has nothing whatsoever
+      to do with hating Jews. Rightist opposition to Israel is more about nationalism,
+      anti-interventionism, America First ideology, and yes, in many cases a hatred
+      of Jews. These are two completely different things. You never saw Zionists bitching
+      about the far right until they started pivoting against Israel; until then they
+      were happy to make alliances with them, and still are as long as they remain supportive
+      of Israel. And half the time you see them citing anti-Israel sentiments on the
+      right it’s only to play guilt-by-association by framing them as the same as the
+      pro-Palestine left. It’s just more empty narrative-diddling from Israel apologists.
+      It’s not a real argument, and doesn’t require a counter-argument. It’s just them
+      flailing around trying anything they can to stop the entire western political
+      spectrum from flushing Israel down the toilet. ❖ New York Times war propagandist
+      Bret Stephens has a new article out titled “ The Case for Overthrowing Maduro
+      ” in which he argues for US regime change interventionism in Venezuela on the
+      basis that “the regime’s close economic and strategic ties to China, Russia and
+      Iran give America’s enemies a significant foothold in the Americas.” This would
+      be the same Bret Stephens who in 2023 wrote an article in the New York Times titled
+      “ 20 Years On, I Don’t Regret Supporting the Iraq War ,” by the way. On a related
+      note, the leftist outlet Current Affairs presently has a special going where if
+      you cancel your New York Times subscription and send proof of cancelation to help@currentaffairs.org
+      right now, you’ll get a free year-long digital subscription to their vastly superior
+      publication. ❖ Right wingers think a mother should be at home raising her children,
+      an arrangement that many mothers would be on board with, but if you say this requires
+      either state support or for employers to be forced to increase pay so that single-income
+      families can exist they say “No that’s socialism!” They want the mothers to stay
+      at home while the fathers work 80-hour work weeks for ten bucks an hour so that
+      billionaires can become trillionaires. ❖ Elon Musk says that in 10 to 20 years
+      work will be optional and money will be meaningless because AI and automation
+      will eliminate the need for labor and make everything wonderful. Something tells
+      me the guy who just took a trillion-dollar pay package from Tesla doesn’t really
+      believe money is going to be meaningless anytime soon. This soon-to-be-trillionaire
+      whose ego is so fragile and infantile that his AI chatbot tells people he’s smarter
+      than da Vinci and more athletic than LeBron James is asking us to believe that
+      revolutionary change isn’t necessary because capitalists like himself are going
+      to fix it so that everyone lives in luxury. Yeah sure, buddy. A likely story.
+      ❖ OpenAI reportedly plans on building 250 gigawatts of capacity by 2033 to use
+      for its energy-consuming servers, about the same amount of electricity that’s
+      used by 1.5 billion people in India. So, no. No to this. Your right to extend
+      your fist ends at my nose. You don’t get to just add this giant burden to the
+      already severely overburdened ecosystem we all depend on for survival in order
+      to expand your chatbot project. The collective is entitled to stop you. By force.
+      _________________ Check out my new book, Faces Of The Empire: The Battle For Humanity’s
+      Soul . Caitlin’s Newsletter is a reader-supported publication. To receive new
+      posts and support my work, consider becoming a free or paid subscriber. My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. The best way to
+      make sure you see everything I write is to get on my free mailing list . Click
+      here for links for my social media, books, merch, and audio/video versions of
+      each article . All my work is free to bootleg and use in any way, shape or form;
+      republish it, translate it, use it on merchandise; whatever you want. All works
+      co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article reports on recent actions by the IDF, including
+      moving the boundary line in Gaza and shelling Palestinians, as well as a disturbing
+      incident where a Palestinian boy was shot in the face with a teargas canister,
+      highlighting ongoing violence and human rights abuses against Palestinians.
+    paragraph_summary: The article discusses recent actions by the Israeli Defense Forces
+      (IDF) that have escalated tensions in Gaza and the West Bank, including the repositioning
+      of a boundary line that led to shelling and a disturbing incident where a 14-year-old
+      Palestinian boy lost his eye after being shot with a teargas canister while waiting
+      for a school bus. It critiques the casual violence against Palestinians and highlights
+      the complex political landscape, noting that both leftists and rightists harbor
+      animosity towards Israel for different reasons. The author emphasizes that shared
+      opposition to Israel's actions does not create a political alliance between disparate
+      groups, and expresses a refusal to align with those who oppose Israel for reasons
+      that differ from their own.
+    published: '2025-11-22T01:21:33+00:00'
+  - title: Nobody's Coming To Humanity's Rescue; We've Got To Save Ourselves
+    url: https://www.caitlinjohnst.one/p/nobodys-coming-to-humanitys-rescue
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      AI isn’t going to save us. Tech innovation isn’t going to save us. Your favorite
+      politician isn’t going to save us. The Epstein files aren’t going to save us.
+      China isn’t going to save us. The aliens aren’t going to save us. No one is coming
+      to save us. There is no deus ex machina resolution to the plotline of the human
+      story. We’re going to have to save ourselves. In ancient Greek theater they used
+      to resolve plays by having gods come in at the end to punish the villains and
+      reward the heroes. The actors playing the gods would either be lowered onto the
+      stage by a crane or raised by machine from a trap door below, hence the term deus
+      ex machina . Today it’s used to refer to any lazy plot resolution where the protagonists
+      are rescued out of the blue by an external force rather than by the fruit of their
+      own struggles and character development; if the gods just come in to save them
+      at the end, then nothing they did up until that point mattered, leaving the audience
+      dissatisfied and staring at the writer instead of at the story. When you look
+      at the existential crises facing humanity today, it’s tempting to find hope in
+      some belief about external forces coming to our rescue without our having to struggle
+      and change ourselves. You see such salvation stories everywhere: Elon Musk is
+      going to automate everything so we don’t have to work and then help humanity become
+      an interplanetary species. Artificial superintelligence is right around the corner
+      and it will explode our scientific understanding of the universe and give birth
+      to transformational new technologies. The release of the Epstein files will expose
+      all the corruption that’s been poisoning our society and lead to the arrest and
+      disempowerment of all the evil bad guys. Electing progressive Democrats or populist
+      Republicans can put heroes into office who will transform the American political
+      system for us. The rise of China is going to reshape the world order and help
+      bring about the end of capitalism. UFO disclosure is happening any minute now
+      and it’s going to bring in alien technologies that will save humanity from destruction.
+      And it never happens. The Greek god never makes his entrance. The actors are left
+      standing there in a long, awkward silence while the set collapses around them.
+      It’s never gonna happen, folks. Apollo missed his entrance and Zeus is a no-show.
+      Nobody’s going to save us but us. We’re going to have to change. We’re going to
+      have to act. We’ll keep hurtling in the direction of tyrannical dystopia, environmental
+      catastrophe and nuclear armageddon until we do. We’re going to have to help each
+      other snap out of the hypnotic trance of propaganda and awaken to the truth of
+      what’s really going on in our world, and show each other that real change is both
+      necessary and possible. We’re going to have to wake up enough that we can use
+      the power of our numbers to force our rulers to stop stealing from us, oppressing
+      us, killing our biosphere and murdering people. We’re going to have to awaken
+      from the trance of ego and become a truly conscious species, so that we can build
+      a healthy world without falling back in to our self-destructive patterning when
+      the revolution is over. Everyone wants change, but no one wants to change. That’s
+      why the deus ex machina plot resolution is preferable in our minds. It’s just
+      a fantasy, though. Change is coming from nowhere but ourselves. Maintaining hope
+      in the fantasy is the first obstacle preventing us from waking up to reality.
+      Every species eventually hits a juncture where it must either make adaptations
+      to changing conditions or go extinct. We are at that juncture today. We’ll either
+      pass that test or we won’t, and if we pass it, it will be because of our own efforts,
+      sacrifices, and self-transformations. Nobody’s going to do it for us. _____________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. The best way to make sure
+      you see everything I write is to get on my free mailing list . Click here for
+      links for my social media, books, merch, and audio/video versions of each article
+      . All my work is free to bootleg and use in any way, shape or form; republish
+      it, translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article argues that no external force or innovation will
+      save humanity from its challenges, emphasizing that we must rely on ourselves
+      to create solutions rather than waiting for a miraculous intervention.
+    paragraph_summary: The article argues that humanity must take responsibility for
+      its own salvation rather than relying on external forces or innovations, such
+      as technology, politicians, or sensational events, to resolve its existential
+      crises. It critiques the notion of "deus ex machina," where problems are conveniently
+      solved by outside interventions, leaving characters' struggles meaningless. Instead,
+      it emphasizes the importance of personal effort and character development in overcoming
+      challenges, warning against the temptation to hope for miraculous solutions from
+      figures like Elon Musk or through political changes. Ultimately, the piece calls
+      for self-empowerment and active engagement in addressing societal issues rather
+      than waiting for a savior to emerge.
+    published: '2025-11-21T01:14:18+00:00'
+  - title: Nobody's Coming To Humanity's Rescue; We've Got To Save Ourselves
+    url: https://www.caitlinjohnst.one/p/nobodys-coming-to-humanitys-rescue
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      AI isn’t going to save us. Tech innovation isn’t going to save us. Your favorite
+      politician isn’t going to save us. The Epstein files aren’t going to save us.
+      China isn’t going to save us. The aliens aren’t going to save us. No one is coming
+      to save us. There is no deus ex machina resolution to the plotline of the human
+      story. We’re going to have to save ourselves. In ancient Greek theater they used
+      to resolve plays by having gods come in at the end to punish the villains and
+      reward the heroes. The actors playing the gods would either be lowered onto the
+      stage by a crane or raised by machine from a trap door below, hence the term deus
+      ex machina . Today it’s used to refer to any lazy plot resolution where the protagonists
+      are rescued out of the blue by an external force rather than by the fruit of their
+      own struggles and character development; if the gods just come in to save them
+      at the end, then nothing they did up until that point mattered, leaving the audience
+      dissatisfied and staring at the writer instead of at the story. When you look
+      at the existential crises facing humanity today, it’s tempting to find hope in
+      some belief about external forces coming to our rescue without our having to struggle
+      and change ourselves. You see such salvation stories everywhere: Elon Musk is
+      going to automate everything so we don’t have to work and then help humanity become
+      an interplanetary species. Artificial superintelligence is right around the corner
+      and it will explode our scientific understanding of the universe and give birth
+      to transformational new technologies. The release of the Epstein files will expose
+      all the corruption that’s been poisoning our society and lead to the arrest and
+      disempowerment of all the evil bad guys. Electing progressive Democrats or populist
+      Republicans can put heroes into office who will transform the American political
+      system for us. The rise of China is going to reshape the world order and help
+      bring about the end of capitalism. UFO disclosure is happening any minute now
+      and it’s going to bring in alien technologies that will save humanity from destruction.
+      And it never happens. The Greek god never makes his entrance. The actors are left
+      standing there in a long, awkward silence while the set collapses around them.
+      It’s never gonna happen, folks. Apollo missed his entrance and Zeus is a no-show.
+      Nobody’s going to save us but us. We’re going to have to change. We’re going to
+      have to act. We’ll keep hurtling in the direction of tyrannical dystopia, environmental
+      catastrophe and nuclear armageddon until we do. We’re going to have to help each
+      other snap out of the hypnotic trance of propaganda and awaken to the truth of
+      what’s really going on in our world, and show each other that real change is both
+      necessary and possible. We’re going to have to wake up enough that we can use
+      the power of our numbers to force our rulers to stop stealing from us, oppressing
+      us, killing our biosphere and murdering people. We’re going to have to awaken
+      from the trance of ego and become a truly conscious species, so that we can build
+      a healthy world without falling back in to our self-destructive patterning when
+      the revolution is over. Everyone wants change, but no one wants to change. That’s
+      why the deus ex machina plot resolution is preferable in our minds. It’s just
+      a fantasy, though. Change is coming from nowhere but ourselves. Maintaining hope
+      in the fantasy is the first obstacle preventing us from waking up to reality.
+      Every species eventually hits a juncture where it must either make adaptations
+      to changing conditions or go extinct. We are at that juncture today. We’ll either
+      pass that test or we won’t, and if we pass it, it will be because of our own efforts,
+      sacrifices, and self-transformations. Nobody’s going to do it for us. _____________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. The best way to make sure
+      you see everything I write is to get on my free mailing list . Click here for
+      links for my social media, books, merch, and audio/video versions of each article
+      . All my work is free to bootleg and use in any way, shape or form; republish
+      it, translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article argues that no external force or innovation will
+      save humanity from its challenges, emphasizing that we must rely on ourselves
+      to create solutions rather than waiting for a miraculous intervention.
+    paragraph_summary: The article argues that humanity must take responsibility for
+      its own salvation rather than relying on external forces or innovations, such
+      as technology, politicians, or sensational events, to resolve its existential
+      crises. It critiques the notion of "deus ex machina," where problems are conveniently
+      solved by outside interventions, leaving characters' struggles meaningless. Instead,
+      it emphasizes the importance of personal effort and character development in overcoming
+      challenges, warning against the temptation to hope for miraculous solutions from
+      figures like Elon Musk or through political changes. Ultimately, the piece calls
+      for self-empowerment and active engagement in addressing societal issues rather
+      than waiting for a savior to emerge.
+    published: '2025-11-21T01:14:18+00:00'
+  - title: Capitalism Is The Best It's Ever Been!
+    url: https://www.caitlinjohnst.one/p/capitalism-is-the-best-its-ever-been
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      No no everything’s fine. It’s perfectly normal for people to have 80 hour work
+      weeks while billionaires transform into trillionaires and tech plutocrats feed
+      all our drinking water to AI servers as the planet dies. This is the only system
+      that could possibly work. No no it’s great. If you can’t afford a house it’s because
+      you’re lazy and entitled. Stop eating fancy fruits and vegetables and sleep in
+      your cubicle. One time I saw a homeless person with a phone. Sell your phone and
+      use the money buy a house, you idiot. What do you mean you want taxes to go toward
+      infrastructure and basic social safety nets? That money is for the arms industry,
+      and for Israel. If you want a high-speed rail system, build it yourself. If you’re
+      sad about being poor, ask your parents to loan you a few million dollars so you
+      can invest it and become wealthy. There’s a veritable smorgasbord of exciting
+      new opportunities on the horizon. There’s still time to get in on the ground floor
+      of the upcoming sexbot industry, for example, or the militarized police robot
+      industry. Create a line of children’s toys with functions you can activate through
+      a small monthly fee with flexible tiered payment options. See if you can design
+      a highly addictive social media platform that feeds people’s information directly
+      to CIA headquarters. Invent an AI system that automatically freezes people’s digital
+      money if they try to start a union. Make a new gig economy app that helps poor
+      people sell and deliver their organs to rich people. Or what about a boat that
+      sinks if you let your Remain Buoyant subscription lapse? They say there are giant
+      continents of plastic forming in the Pacific Ocean. You could rent out apartments
+      on those. Cult leaders are generally good at extracting wealth from their followers.
+      You could probably make a chatbot that does that. Elon Musk is working on those
+      Neuralink implants to connect human brains to computers. You could set up a company
+      that beams advertisements directly into people’s heads. Speaking of advertisements,
+      how has nobody thought of drones with megaphones blaring commercials at pedestrians
+      yet? That’s a multibillion-dollar industry right there. They should fill the air
+      in every major city on earth. Capitalism is the best it’s ever been, is my point.
+      There has never been a more exciting time to be an industrious young mind with
+      a dream in your heart and a roll of nickels in your pocket. So quit your whining,
+      commie. _________________ Check out my new book, Faces Of The Empire: The Battle
+      For Humanity’s Soul . Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      My work is entirely reader-supported , so if you enjoyed this piece here are some
+      options where you can toss some money into my tip jar if you want to. The best
+      way to make sure you see everything I write is to get on my free mailing list
+      . Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article satirically critiques the absurdity of blaming
+      individuals for systemic economic issues, highlighting the stark contrast between
+      the struggles of the working class and the wealth accumulation of billionaires.
+    paragraph_summary: The article presents a satirical critique of the current socio-economic
+      system, highlighting the absurdity of extreme wealth disparity and the unrealistic
+      expectations placed on the working class. It mocks the notion that individuals
+      are solely responsible for their financial struggles, suggesting that the system
+      favors billionaires and tech moguls while neglecting basic social safety nets
+      and infrastructure. The author humorously proposes a series of outrageous business
+      ideas that exploit societal issues, such as a gig economy app for organ selling
+      and a subscription-based boat that sinks if payments lapse, illustrating the absurdity
+      of the capitalist mindset that prioritizes profit over human welfare. Overall,
+      the piece underscores the dire consequences of an unregulated economy that benefits
+      the wealthy at the expense of the poor.
+    published: '2025-11-20T01:56:57+00:00'
+  - title: Capitalism Is The Best It's Ever Been!
+    url: https://www.caitlinjohnst.one/p/capitalism-is-the-best-its-ever-been
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      No no everything’s fine. It’s perfectly normal for people to have 80 hour work
+      weeks while billionaires transform into trillionaires and tech plutocrats feed
+      all our drinking water to AI servers as the planet dies. This is the only system
+      that could possibly work. No no it’s great. If you can’t afford a house it’s because
+      you’re lazy and entitled. Stop eating fancy fruits and vegetables and sleep in
+      your cubicle. One time I saw a homeless person with a phone. Sell your phone and
+      use the money buy a house, you idiot. What do you mean you want taxes to go toward
+      infrastructure and basic social safety nets? That money is for the arms industry,
+      and for Israel. If you want a high-speed rail system, build it yourself. If you’re
+      sad about being poor, ask your parents to loan you a few million dollars so you
+      can invest it and become wealthy. There’s a veritable smorgasbord of exciting
+      new opportunities on the horizon. There’s still time to get in on the ground floor
+      of the upcoming sexbot industry, for example, or the militarized police robot
+      industry. Create a line of children’s toys with functions you can activate through
+      a small monthly fee with flexible tiered payment options. See if you can design
+      a highly addictive social media platform that feeds people’s information directly
+      to CIA headquarters. Invent an AI system that automatically freezes people’s digital
+      money if they try to start a union. Make a new gig economy app that helps poor
+      people sell and deliver their organs to rich people. Or what about a boat that
+      sinks if you let your Remain Buoyant subscription lapse? They say there are giant
+      continents of plastic forming in the Pacific Ocean. You could rent out apartments
+      on those. Cult leaders are generally good at extracting wealth from their followers.
+      You could probably make a chatbot that does that. Elon Musk is working on those
+      Neuralink implants to connect human brains to computers. You could set up a company
+      that beams advertisements directly into people’s heads. Speaking of advertisements,
+      how has nobody thought of drones with megaphones blaring commercials at pedestrians
+      yet? That’s a multibillion-dollar industry right there. They should fill the air
+      in every major city on earth. Capitalism is the best it’s ever been, is my point.
+      There has never been a more exciting time to be an industrious young mind with
+      a dream in your heart and a roll of nickels in your pocket. So quit your whining,
+      commie. _________________ Check out my new book, Faces Of The Empire: The Battle
+      For Humanity’s Soul . Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      My work is entirely reader-supported , so if you enjoyed this piece here are some
+      options where you can toss some money into my tip jar if you want to. The best
+      way to make sure you see everything I write is to get on my free mailing list
+      . Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article satirically critiques the absurdity of blaming
+      individuals for systemic economic issues, highlighting the stark contrast between
+      the struggles of the working class and the wealth accumulation of billionaires.
+    paragraph_summary: The article presents a satirical critique of the current socio-economic
+      system, highlighting the absurdity of extreme wealth disparity and the unrealistic
+      expectations placed on the working class. It mocks the notion that individuals
+      are solely responsible for their financial struggles, suggesting that the system
+      favors billionaires and tech moguls while neglecting basic social safety nets
+      and infrastructure. The author humorously proposes a series of outrageous business
+      ideas that exploit societal issues, such as a gig economy app for organ selling
+      and a subscription-based boat that sinks if payments lapse, illustrating the absurdity
+      of the capitalist mindset that prioritizes profit over human welfare. Overall,
+      the piece underscores the dire consequences of an unregulated economy that benefits
+      the wealthy at the expense of the poor.
+    published: '2025-11-20T01:56:57+00:00'
   - title: Zionists Are Freaking Out About Losing Control Of The Narrative
     url: https://www.caitlinjohnst.one/p/zionists-are-freaking-out-about-losing
     text: 'Listen to a reading of this article (reading by Tim Foley) : Former Obama

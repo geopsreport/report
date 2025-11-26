@@ -7,26 +7,1070 @@ description: "Gilbert Doctorow is a Brussels-based independent political analyst
 websites:
   - https://gilbertdoctorow.com/
 summary: |
-  The geopolitical landscape continues to be shaped by the ongoing Ukraine war, shifting alliances, and the repercussions of Western sanctions. The most recent developments highlight the growing strain in Russia-India relations, the evolving situation on the Ukrainian frontlines, and the diplomatic maneuvers of President Zelensky.
+  As the November 27 deadline for the Trump administration’s 28-point peace plan approaches, the geopolitical landscape surrounding the Russia-Ukraine conflict is marked by shifting expectations and increasing skepticism about the viability of a negotiated settlement. Over the past 24 hours, new developments have emerged regarding the evolving US strategy, the changing tone in international media, and the uncertain positions of both Kyiv and Moscow.
   
-  **Russia-India Relations Under Pressure**
+  The most recent analyses, including a conversation featured on WION and a NewsX World interview, highlight that the US’ refined peace framework may inadvertently strengthen Russia’s position while diminishing Ukraine’s leverage. **Gilbert Doctorow** notes that “the US’ 28-point peace plan, as currently drafted, appears to empower Russia and undermine Ukraine’s negotiating stance,” reflecting a broader shift in Western media narratives that are now more openly questioning the plan’s implications for Ukrainian sovereignty.
   
-  According to **Gilbert Doctorow**, U.S. sanctions are presenting significant challenges for Russia-India cooperation, particularly in the defense and energy sectors. While the two countries have historically maintained close ties, the secondary effects of Western financial restrictions are now impeding trade and joint projects. Doctorow notes that India is increasingly cautious about deepening engagement with Russia, wary of jeopardizing its own access to Western markets and technology.
+  Further, there is growing speculation about the true intentions behind Trump’s peace initiative. According to **Doctorow**, there is a “high chance” that the Trump team is preparing for a ‘bait and switch’—publicly advocating for peace while privately anticipating the collapse of negotiations. This strategy would allow Washington to deflect blame for any failure to reach an agreement, particularly as European and Ukrainian resistance to the plan remains strong.
   
-  **Ukraine: Territorial Shifts and Diplomatic Optics**
+  Meanwhile, the mood in Moscow is reportedly cautious but not dismissive. Russian officials have provisionally approved the framework, but final acceptance hinges on Ukraine’s response. The Ukrainian side, under increasing pressure from Washington—especially with the threat of suspended military aid—faces a narrowing set of options. The consensus among analysts is that Zelensky may be compelled to accept the deal, but only under significant duress.
   
-  On the Ukrainian front, Doctorow reports recent Russian territorial gains in both Dnepropetrovsk and Kharkiv regions. These advances, while not yet decisive, underscore the persistent volatility of the conflict. Meanwhile, Ukrainian President Zelensky’s latest diplomatic visits are described as “more focused on image than substantive agreements.” Doctorow suggests that these trips are aimed at maintaining international visibility and support, but have so far yielded little in the way of concrete aid or new alliances.
-  
-  **Asset Confiscation Risks Escalate**
-  
-  A new point of tension is the potential confiscation of Russian state assets held in Euroclear, Belgium. Doctorow highlights this as a significant escalation in the economic front of the conflict, warning that such a move could provoke severe retaliatory measures from Moscow and further destabilize international financial systems.
-  
-  **Trends and Predictions**
-  
-  The majority view among analysts is that the Ukraine conflict will remain the central axis of East-West tensions. The weakening of Russia-India ties is expected to continue unless there is a shift in U.S. sanctions policy—an outcome Doctorow considers unlikely in the near term. The risk of asset confiscation is “quite likely” to trigger a new round of countermeasures, increasing global economic uncertainty. As for the battlefield, Doctorow sees a “high chance” of continued incremental Russian advances, but no imminent breakthrough.
-  
-  In summary, the geopolitical environment is marked by deepening fractures in traditional alliances, persistent conflict in Ukraine, and the growing use of economic levers as instruments of statecraft. These trends are expected to intensify in the coming weeks.
+  Looking ahead, the prevailing trend is one of deepening uncertainty. While the US peace plan is still technically on the table, the likelihood of a breakthrough appears to be receding. As **Doctorow** summarizes, “there is a high chance that no agreement will be reached by the November 27 deadline,” and if talks fail, escalation on the ground in Ukraine is “quite likely.” The next 48 hours will be critical in determining whether the current diplomatic maneuvering leads to a fragile ceasefire or a renewed phase of conflict.
 articles:
+  - title: US’ 28-Point Peace Plan Empowers Russia, Diminishes Ukraine? | WION GAME
+      PLAN
+    url: https://gilbertdoctorow.com/2025/11/25/us-28-point-peace-plan-empowers-russia-diminishes-ukraine-wion-game-plan/
+    text: US’ 28-Point Peace Plan Empowers Russia, Diminishes Ukraine? | WION GAME PLAN
+      It was a pleasure this morning to have a 10-minute online chat with presenter
+      Shivan Chanana of India’s largest English-language global broadcaster, WION, who
+      have more than 9 million subscribers. In keeping with the shifting currents in
+      high politics in Delhi, which always walked a tightrope between the USA and Russia
+      (formerly USSR),  the broadcaster has shifted back and forth between favoring
+      Mainstream commentaries on the Russia-Ukraine war from US military experts over
+      the past several months and then coming back to me for a contrarian opinion as
+      they did today.  Please note that the single largest audience I have ever had
+      in podcasts, more than 350,000 views, was precisely on WION at perhaps 9 months
+      ago.
+    one_sentence_summary: The article discusses a conversation about the US' 28-point
+      peace plan, suggesting it may empower Russia while undermining Ukraine, and highlights
+      the shifting media perspectives on the Russia-Ukraine conflict, particularly in
+      relation to the broadcaster WION's approach.
+    paragraph_summary: In a recent online discussion with WION, a major Indian broadcaster,
+      the speaker addressed the implications of the US' 28-point peace plan regarding
+      the Russia-Ukraine conflict, suggesting that it may inadvertently empower Russia
+      while undermining Ukraine's position. The conversation highlighted WION's fluctuating
+      editorial stance on the war, oscillating between mainstream US military perspectives
+      and contrarian viewpoints like the speaker's. The speaker noted the significant
+      audience engagement from their previous appearances on WION, indicating the platform's
+      influence and reach in shaping public discourse on international issues.
+    published: '2025-11-25T17:05:59+00:00'
+  - title: US’ 28-Point Peace Plan Empowers Russia, Diminishes Ukraine? | WION GAME
+      PLAN
+    url: https://gilbertdoctorow.com/2025/11/25/us-28-point-peace-plan-empowers-russia-diminishes-ukraine-wion-game-plan/
+    text: US’ 28-Point Peace Plan Empowers Russia, Diminishes Ukraine? | WION GAME PLAN
+      It was a pleasure this morning to have a 10-minute online chat with presenter
+      Shivan Chanana of India’s largest English-language global broadcaster, WION, who
+      have more than 9 million subscribers. In keeping with the shifting currents in
+      high politics in Delhi, which always walked a tightrope between the USA and Russia
+      (formerly USSR),  the broadcaster has shifted back and forth between favoring
+      Mainstream commentaries on the Russia-Ukraine war from US military experts over
+      the past several months and then coming back to me for a contrarian opinion as
+      they did today.  Please note that the single largest audience I have ever had
+      in podcasts, more than 350,000 views, was precisely on WION at perhaps 9 months
+      ago.
+    one_sentence_summary: The article discusses a conversation about the US' 28-point
+      peace plan, suggesting it may empower Russia while undermining Ukraine, and highlights
+      the shifting media perspectives on the Russia-Ukraine conflict, particularly in
+      relation to the broadcaster WION's approach.
+    paragraph_summary: In a recent online discussion with WION, a major Indian broadcaster,
+      the speaker addressed the implications of the US' 28-point peace plan regarding
+      the Russia-Ukraine conflict, suggesting that it may inadvertently empower Russia
+      while undermining Ukraine's position. The conversation highlighted WION's fluctuating
+      editorial stance on the war, oscillating between mainstream US military perspectives
+      and contrarian viewpoints like the speaker's. The speaker noted the significant
+      audience engagement from their previous appearances on WION, indicating the platform's
+      influence and reach in shaping public discourse on international issues.
+    published: '2025-11-25T17:05:59+00:00'
+  - title: 'NewsX World: US, Ukraine Draft Refined Peace Framework'
+    url: https://gilbertdoctorow.com/2025/11/25/newsx-world-us-ukraine-draft-refined-peace-framework/
+    text: This link to a brief interview from yesterday has just arrived and I am pleased
+      to share it with the Community. Pay no attention to the ‘China Warning’ heading
+      because this is a news digest and the Russia-Ukraine War is the first topic on
+      the interview agenda after the presenter reads off the top news of the hour. Yes,
+      as you will notice, my expectations from this latest Trump peace initiative are
+      changing by the day. I emphasize that I have no angst changing my position when
+      the object under examination changes, and the evolution of this initiative is
+      anything but consistent. Some are saying that Team Trump is overseeing a ‘bait
+      and switch’ operation in which the Russians were offered one fairly acceptable
+      28-point plan and now instead they will be required to agree to a much less desirable
+      Ukrainian-edited plan.  That may be.  But I think something more characteristic
+      of Trump is underway:  he is preparing for the parties NOT to agree to his mediated
+      settlement and then will lower the boom on both – withdrawing US intel and military
+      hardware support for Ukraine and imposing new draconian sanctions on Russia. This
+      will allow him to wiggle out of the entire project of bringing peace to Ukraine
+      and tell the Europeans to deal with it on their own. I mention this as a possible
+      explanation for the peculiar behavior of Dan Driscoll and Steve Witkoff in Geneva,
+      letting the Ukrainians gut the original proposal and then smiling at the end and
+      saying everything is very constructive.
+    one_sentence_summary: The article discusses a recent interview that highlights evolving
+      expectations regarding Trump's peace initiative for the Russia-Ukraine War, suggesting
+      that it may involve a 'bait and switch' strategy, with Trump preparing for the
+      possibility of no agreement being reached.
+    paragraph_summary: The article discusses a recent interview that touches on the
+      evolving nature of a peace initiative led by former President Trump regarding
+      the Russia-Ukraine War. The author expresses skepticism about the initiative,
+      noting that expectations are shifting daily as the proposal seems to be changing
+      from an initially acceptable 28-point plan to a less favorable version influenced
+      by Ukraine. The author speculates that Trump may be preparing for a scenario where
+      the parties do not reach an agreement, potentially leading to a withdrawal of
+      U.S. support for Ukraine and the imposition of harsh sanctions on Russia. This
+      strategy could allow Trump to distance himself from the peace efforts and leave
+      Europe to manage the situation independently. The article also highlights the
+      seemingly contradictory behavior of key figures involved in the negotiations,
+      who appear to endorse the altered proposal despite its shortcomings.
+    published: '2025-11-25T16:45:17+00:00'
+  - title: 'NewsX World: US, Ukraine Draft Refined Peace Framework'
+    url: https://gilbertdoctorow.com/2025/11/25/newsx-world-us-ukraine-draft-refined-peace-framework/
+    text: This link to a brief interview from yesterday has just arrived and I am pleased
+      to share it with the Community. Pay no attention to the ‘China Warning’ heading
+      because this is a news digest and the Russia-Ukraine War is the first topic on
+      the interview agenda after the presenter reads off the top news of the hour. Yes,
+      as you will notice, my expectations from this latest Trump peace initiative are
+      changing by the day. I emphasize that I have no angst changing my position when
+      the object under examination changes, and the evolution of this initiative is
+      anything but consistent. Some are saying that Team Trump is overseeing a ‘bait
+      and switch’ operation in which the Russians were offered one fairly acceptable
+      28-point plan and now instead they will be required to agree to a much less desirable
+      Ukrainian-edited plan.  That may be.  But I think something more characteristic
+      of Trump is underway:  he is preparing for the parties NOT to agree to his mediated
+      settlement and then will lower the boom on both – withdrawing US intel and military
+      hardware support for Ukraine and imposing new draconian sanctions on Russia. This
+      will allow him to wiggle out of the entire project of bringing peace to Ukraine
+      and tell the Europeans to deal with it on their own. I mention this as a possible
+      explanation for the peculiar behavior of Dan Driscoll and Steve Witkoff in Geneva,
+      letting the Ukrainians gut the original proposal and then smiling at the end and
+      saying everything is very constructive.
+    one_sentence_summary: The article discusses a recent interview that highlights evolving
+      expectations regarding Trump's peace initiative for the Russia-Ukraine War, suggesting
+      that it may involve a 'bait and switch' strategy, with Trump preparing for the
+      possibility of no agreement being reached.
+    paragraph_summary: The article discusses a recent interview that touches on the
+      evolving nature of a peace initiative led by former President Trump regarding
+      the Russia-Ukraine War. The author expresses skepticism about the initiative,
+      noting that expectations are shifting daily as the proposal seems to be changing
+      from an initially acceptable 28-point plan to a less favorable version influenced
+      by Ukraine. The author speculates that Trump may be preparing for a scenario where
+      the parties do not reach an agreement, potentially leading to a withdrawal of
+      U.S. support for Ukraine and the imposition of harsh sanctions on Russia. This
+      strategy could allow Trump to distance himself from the peace efforts and leave
+      Europe to manage the situation independently. The article also highlights the
+      seemingly contradictory behavior of key figures involved in the negotiations,
+      who appear to endorse the altered proposal despite its shortcomings.
+    published: '2025-11-25T16:45:17+00:00'
+  - title: 'RT International interview: Trump disappoints yet again…'
+    url: https://gilbertdoctorow.com/2025/11/24/rt-international-interview-trump-disappoints-yet-again/
+    text: RT International interview:  Trump disappoints yet again… The news coming
+      out of the Geneva talks today between the US delegation headed by Marco Rubio,
+      Steve Witkoff and Daniel Driscoll is shocking and upsets my optimistic expectations
+      for peace arrived at on Friday and Saturday following the release of the 28-point
+      Trump plan. It is inconceivable that Trump can expect to get an approving from
+      Moscow after its having been gutted by the Ukrainians acting in consultation with
+      the European war-mongers. Putin’s wager on reestablishing good relations with
+      the USA and neutralizing the Europeans appears to have been lost. Will he now
+      throw in his and Russia’s lot with the Russian ultranationalists and escalate
+      the destruction of Ukraine? Will he finally decapitate the regime? https://drive.google.com/file/d/1p_3hj6hDKa0Tf2PODe4_X4V7ycSPM9JJ/view?usp=sharing
+    one_sentence_summary: The article expresses disappointment in the outcomes of the
+      Geneva talks led by the US delegation, suggesting that Trump's peace plan has
+      been undermined by Ukrainian and European influences, leaving doubts about the
+      future of US-Russia relations and the potential for increased conflict in Ukraine.
+    paragraph_summary: In a recent RT International interview, the disappointment surrounding
+      the Geneva talks led by US officials Marco Rubio, Steve Witkoff, and Daniel Driscoll
+      is palpable, as the outcomes starkly contrast with the optimistic expectations
+      for peace following the unveiling of the 28-point Trump plan. The article criticizes
+      the plan's revisions made in collaboration with Ukrainians and European allies,
+      suggesting that these changes have alienated Moscow and undermined Trump's efforts
+      to mend US-Russia relations. The author questions whether Putin will now align
+      more closely with Russian ultranationalists and escalate military actions in Ukraine,
+      potentially leading to a more aggressive stance against the Ukrainian regime.
+    published: '2025-11-24T18:52:30+00:00'
+  - title: 'RT International interview: Trump disappoints yet again…'
+    url: https://gilbertdoctorow.com/2025/11/24/rt-international-interview-trump-disappoints-yet-again/
+    text: RT International interview:  Trump disappoints yet again… The news coming
+      out of the Geneva talks today between the US delegation headed by Marco Rubio,
+      Steve Witkoff and Daniel Driscoll is shocking and upsets my optimistic expectations
+      for peace arrived at on Friday and Saturday following the release of the 28-point
+      Trump plan. It is inconceivable that Trump can expect to get an approving from
+      Moscow after its having been gutted by the Ukrainians acting in consultation with
+      the European war-mongers. Putin’s wager on reestablishing good relations with
+      the USA and neutralizing the Europeans appears to have been lost. Will he now
+      throw in his and Russia’s lot with the Russian ultranationalists and escalate
+      the destruction of Ukraine? Will he finally decapitate the regime? https://drive.google.com/file/d/1p_3hj6hDKa0Tf2PODe4_X4V7ycSPM9JJ/view?usp=sharing
+    one_sentence_summary: The article expresses disappointment in the outcomes of the
+      Geneva talks led by the US delegation, suggesting that Trump's peace plan has
+      been undermined by Ukrainian and European influences, leaving doubts about the
+      future of US-Russia relations and the potential for increased conflict in Ukraine.
+    paragraph_summary: In a recent RT International interview, the disappointment surrounding
+      the Geneva talks led by US officials Marco Rubio, Steve Witkoff, and Daniel Driscoll
+      is palpable, as the outcomes starkly contrast with the optimistic expectations
+      for peace following the unveiling of the 28-point Trump plan. The article criticizes
+      the plan's revisions made in collaboration with Ukrainians and European allies,
+      suggesting that these changes have alienated Moscow and undermined Trump's efforts
+      to mend US-Russia relations. The author questions whether Putin will now align
+      more closely with Russian ultranationalists and escalate military actions in Ukraine,
+      potentially leading to a more aggressive stance against the Ukrainian regime.
+    published: '2025-11-24T18:52:30+00:00'
+  - title: Links to today’s interview segments from News X World and an excellent briefing
+      on the Peace Plan by Ray McGovern
+    url: https://gilbertdoctorow.com/2025/11/23/links-to-todays-interview-segments-from-news-x-world-and-an-excellent-briefing-on-the-peace-plan-by-ray-mcgovern/
+    text: Links to today’s interview segments from News X World and an excellent briefing
+      on the Peace Plan by Ray McGovern The producers at NewsX World were very fast
+      off the mark this morning and have just posted on the internet the two interview
+      segments from earlier today that I described in my latest essay on these pages.
+      Russian defenses intercept drones in unprecedented wave Canadian PM Mark Carney
+      & German Chancellor Friedrich Merz discuss Ukraine Peace Deal I also use this
+      opportunity to bring to the attention of the Community a just released interview
+      with my friend and colleague in the Alternative Media, Ray McGovern, taken by
+      Professor Glenn Diesen. I recommend this because Ray sets out very clearly the
+      sequence of events starting from the presidential summit in Alaska in mid-August
+      that led to compilation of Trump’s 28-point peace plan, which now has been provisionally
+      approved by Vladimir Putin as the basis for a settlement and awaits a final ‘yes’
+      from Volodymyr Zelensky. Ray pays special attention to how Putin explained this
+      story during the well -choreographed opening minutes of last Friday’s weekly Russian
+      Security Council session. All of this is an essential context for our appreciation
+      of the Trump document.  He makes reference to the dire situation of the Ukrainians
+      on the field of battle where they have suffered very serious losses of fortified
+      cities like Kupyansk, Pokrovsk, Volchansk which have protected their hold on the
+      Donbas from the start of the Special Military Operation to present. What is missing
+      from Ray’s explanation is the European context for Trump’s present demand that
+      the Plan be signed before Thanksgiving, 27 November. Sitting as I do in Brussels,
+      I am much more sensitive than my American colleagues in Washington or New York
+      to the European dimension, namely war hysteria in the media and the ever more
+      brazen, ever more irresponsible and provocative measures that the European heads
+      of government are prepared to take to ensure that the war continues. As I say,
+      Trump’s Plan is as much a preparation for -regime change across Europe, for the
+      ousting of the war mongers in power here as it is for a cease-fire and outbreak
+      of peace between Russia and Ukraine. These issues are directly interlinked. In
+      these circumstances, it is foreseeable that at their next gathering in Brussels
+      mid-December these same members of the European Council will do the unthinkable,
+      will violate international law, will do what no one dared to do even in the midst
+      of WWII and will confiscate the 185 billion euros of Russian state assets now
+      frozen in Euroclear for the purpose of funding the war in Ukraine for two more
+      years. ©Gilbert Doctorow, 2025
+    one_sentence_summary: The article highlights recent interview segments from News
+      X World discussing the Ukraine Peace Deal, featuring insights from Ray McGovern
+      on the development of Trump's 28-point peace plan, which has received provisional
+      approval from Putin and is pending final agreement from Zelensky.
+    paragraph_summary: The article discusses recent developments regarding a peace plan
+      for Ukraine, highlighted by interviews from News X World featuring Canadian PM
+      Mark Carney and German Chancellor Friedrich Merz. It emphasizes an interview with
+      Ray McGovern, who outlines the events leading to Trump's 28-point peace plan,
+      provisionally approved by Vladimir Putin and pending final approval from Volodymyr
+      Zelensky. McGovern also notes the dire situation for Ukrainian forces, particularly
+      in key cities like Kupyansk and Pokrovsk, which have faced significant losses.
+      The author, situated in Brussels, underscores the importance of understanding
+      the European context and the escalating war rhetoric among European leaders, which
+      may influence the urgency of finalizing the peace agreement before Thanksgiving.
+    published: '2025-11-23T11:09:00+00:00'
+  - title: Links to today’s interview segments from News X World and an excellent briefing
+      on the Peace Plan by Ray McGovern
+    url: https://gilbertdoctorow.com/2025/11/23/links-to-todays-interview-segments-from-news-x-world-and-an-excellent-briefing-on-the-peace-plan-by-ray-mcgovern/
+    text: Links to today’s interview segments from News X World and an excellent briefing
+      on the Peace Plan by Ray McGovern The producers at NewsX World were very fast
+      off the mark this morning and have just posted on the internet the two interview
+      segments from earlier today that I described in my latest essay on these pages.
+      Russian defenses intercept drones in unprecedented wave Canadian PM Mark Carney
+      & German Chancellor Friedrich Merz discuss Ukraine Peace Deal I also use this
+      opportunity to bring to the attention of the Community a just released interview
+      with my friend and colleague in the Alternative Media, Ray McGovern, taken by
+      Professor Glenn Diesen. I recommend this because Ray sets out very clearly the
+      sequence of events starting from the presidential summit in Alaska in mid-August
+      that led to compilation of Trump’s 28-point peace plan, which now has been provisionally
+      approved by Vladimir Putin as the basis for a settlement and awaits a final ‘yes’
+      from Volodymyr Zelensky. Ray pays special attention to how Putin explained this
+      story during the well -choreographed opening minutes of last Friday’s weekly Russian
+      Security Council session. All of this is an essential context for our appreciation
+      of the Trump document.  He makes reference to the dire situation of the Ukrainians
+      on the field of battle where they have suffered very serious losses of fortified
+      cities like Kupyansk, Pokrovsk, Volchansk which have protected their hold on the
+      Donbas from the start of the Special Military Operation to present. What is missing
+      from Ray’s explanation is the European context for Trump’s present demand that
+      the Plan be signed before Thanksgiving, 27 November. Sitting as I do in Brussels,
+      I am much more sensitive than my American colleagues in Washington or New York
+      to the European dimension, namely war hysteria in the media and the ever more
+      brazen, ever more irresponsible and provocative measures that the European heads
+      of government are prepared to take to ensure that the war continues. As I say,
+      Trump’s Plan is as much a preparation for -regime change across Europe, for the
+      ousting of the war mongers in power here as it is for a cease-fire and outbreak
+      of peace between Russia and Ukraine. These issues are directly interlinked. In
+      these circumstances, it is foreseeable that at their next gathering in Brussels
+      mid-December these same members of the European Council will do the unthinkable,
+      will violate international law, will do what no one dared to do even in the midst
+      of WWII and will confiscate the 185 billion euros of Russian state assets now
+      frozen in Euroclear for the purpose of funding the war in Ukraine for two more
+      years. ©Gilbert Doctorow, 2025
+    one_sentence_summary: The article highlights recent interview segments from News
+      X World discussing the Ukraine Peace Deal, featuring insights from Ray McGovern
+      on the development of Trump's 28-point peace plan, which has received provisional
+      approval from Putin and is pending final agreement from Zelensky.
+    paragraph_summary: The article discusses recent developments regarding a peace plan
+      for Ukraine, highlighted by interviews from News X World featuring Canadian PM
+      Mark Carney and German Chancellor Friedrich Merz. It emphasizes an interview with
+      Ray McGovern, who outlines the events leading to Trump's 28-point peace plan,
+      provisionally approved by Vladimir Putin and pending final approval from Volodymyr
+      Zelensky. McGovern also notes the dire situation for Ukrainian forces, particularly
+      in key cities like Kupyansk and Pokrovsk, which have faced significant losses.
+      The author, situated in Brussels, underscores the importance of understanding
+      the European context and the escalating war rhetoric among European leaders, which
+      may influence the urgency of finalizing the peace agreement before Thanksgiving.
+    published: '2025-11-23T11:09:00+00:00'
+  - title: 'Conversation with Professor Glenn Diesen: Trump Neutralizes Europe with
+      Peace Plan'
+    url: https://gilbertdoctorow.com/2025/11/22/conversation-with-professor-glenn-diesen-trump-neutralizes-europe-with-peace-plan/
+    text: 'Conversation with Professor Glenn Diesen: Trump Neutralizes Europe with Peace
+      Plan In this 45-minute chat, we discussed why there is reason for optimism that
+      Trump’s 28-point plan will achieve its several interrelated objectives. From the
+      moment of its signing as the master plan for a to-be-negotiated detailed set of
+      agreements between Russia, Ukraine, Europe and the USA this initiative will begin
+      to dramatically clear the air, reduce tensions in the region and across Europe.
+      Assuming that it is accepted by both Volodymyr Zelensky and Vladimir Putin within
+      the 27 November deadline set by Trump, the signing will be followed immediately
+      by a withdrawal of Ukrainian forces from all of the Donbas and withdrawal of Russian
+      forces from all oblasts of Ukraine aside from the Lugansk, Donetsk, Zaporozhye
+      and Kherson regions. The withdrawal process will be accompanied by a full ceasefire.
+      So far, so good, but that is only the very beginning of the process that will
+      be set on its way. Some of my peers have chosen to ignore the foregoing and speak
+      of the Plan as something that will be discussed and discussed for months before
+      anything happens.  They are dead wrong. They are missing the reasons why Trump
+      has set just 7 days for acceptance or rejection of the document by Russia and
+      Ukraine. These are the same reasons why it apparently was drafted by respective
+      emissaries of Trump and Putin outside the normal institutional channels.  The
+      point has been to catch Zelensky at the present moment of great weakness following
+      the revelations a week ago of immense corruption among his close entourage and
+      also amidst the deeply humiliating loss of Kupyansk and Pokrovsk to Russian forces,
+      which show beyond any doubt that Ukraine’s hopes for holding the Donbass are illusory.
+      The point has been not to allow the Europeans to reorganize a counter strategy
+      to keep the war going built, likely, on confiscation of Russian state assets in
+      Euroclear. The point has been not to give Britain and France time to send troops
+      down to Ukraine and massively escalate the war. I consider this interview as setting
+      forth my final word on how Trump is setting the stage for regime change across
+      Europe by removing the whole logic of a security threat from Russia which the
+      warmongering leaders of 24 EU Member States have been using to consolidate their
+      hold on power. Normalization of relations with Russia, revising the security architecture
+      of the Continent puts paid to the ongoing distortion of the EU from a peace project
+      to a war project. ©Gilbert Doctorow, 2025'
+    one_sentence_summary: In a discussion with Professor Glenn Diesen, optimism is expressed
+      regarding Trump's 28-point peace plan, which aims to reduce tensions in Europe
+      by facilitating a ceasefire and the withdrawal of Ukrainian and Russian forces,
+      contingent on acceptance by both leaders by the November 27 deadline.
+    paragraph_summary: In a recent conversation with Professor Glenn Diesen, optimism
+      was expressed regarding Donald Trump's 28-point peace plan aimed at resolving
+      the conflict between Russia and Ukraine. The plan, which requires acceptance from
+      Ukrainian President Volodymyr Zelensky and Russian President Vladimir Putin by
+      November 27, proposes an immediate ceasefire and the withdrawal of Ukrainian and
+      Russian forces from specific regions. Diesen argues that the urgency of the seven-day
+      acceptance window is strategic, as it capitalizes on Zelensky's current vulnerabilities
+      due to recent corruption scandals and military setbacks. The plan seeks to prevent
+      European nations from formulating a counter-strategy that could prolong the conflict,
+      thereby aiming to stabilize the situation in Europe and reduce regional tensions.
+    published: '2025-11-22T19:04:41+00:00'
+  - title: 'Conversation with Professor Glenn Diesen: Trump Neutralizes Europe with
+      Peace Plan'
+    url: https://gilbertdoctorow.com/2025/11/22/conversation-with-professor-glenn-diesen-trump-neutralizes-europe-with-peace-plan/
+    text: 'Conversation with Professor Glenn Diesen: Trump Neutralizes Europe with Peace
+      Plan In this 45-minute chat, we discussed why there is reason for optimism that
+      Trump’s 28-point plan will achieve its several interrelated objectives. From the
+      moment of its signing as the master plan for a to-be-negotiated detailed set of
+      agreements between Russia, Ukraine, Europe and the USA this initiative will begin
+      to dramatically clear the air, reduce tensions in the region and across Europe.
+      Assuming that it is accepted by both Volodymyr Zelensky and Vladimir Putin within
+      the 27 November deadline set by Trump, the signing will be followed immediately
+      by a withdrawal of Ukrainian forces from all of the Donbas and withdrawal of Russian
+      forces from all oblasts of Ukraine aside from the Lugansk, Donetsk, Zaporozhye
+      and Kherson regions. The withdrawal process will be accompanied by a full ceasefire.
+      So far, so good, but that is only the very beginning of the process that will
+      be set on its way. Some of my peers have chosen to ignore the foregoing and speak
+      of the Plan as something that will be discussed and discussed for months before
+      anything happens.  They are dead wrong. They are missing the reasons why Trump
+      has set just 7 days for acceptance or rejection of the document by Russia and
+      Ukraine. These are the same reasons why it apparently was drafted by respective
+      emissaries of Trump and Putin outside the normal institutional channels.  The
+      point has been to catch Zelensky at the present moment of great weakness following
+      the revelations a week ago of immense corruption among his close entourage and
+      also amidst the deeply humiliating loss of Kupyansk and Pokrovsk to Russian forces,
+      which show beyond any doubt that Ukraine’s hopes for holding the Donbass are illusory.
+      The point has been not to allow the Europeans to reorganize a counter strategy
+      to keep the war going built, likely, on confiscation of Russian state assets in
+      Euroclear. The point has been not to give Britain and France time to send troops
+      down to Ukraine and massively escalate the war. I consider this interview as setting
+      forth my final word on how Trump is setting the stage for regime change across
+      Europe by removing the whole logic of a security threat from Russia which the
+      warmongering leaders of 24 EU Member States have been using to consolidate their
+      hold on power. Normalization of relations with Russia, revising the security architecture
+      of the Continent puts paid to the ongoing distortion of the EU from a peace project
+      to a war project. ©Gilbert Doctorow, 2025'
+    one_sentence_summary: In a discussion with Professor Glenn Diesen, optimism is expressed
+      regarding Trump's 28-point peace plan, which aims to reduce tensions in Europe
+      by facilitating a ceasefire and the withdrawal of Ukrainian and Russian forces,
+      contingent on acceptance by both leaders by the November 27 deadline.
+    paragraph_summary: In a recent conversation with Professor Glenn Diesen, optimism
+      was expressed regarding Donald Trump's 28-point peace plan aimed at resolving
+      the conflict between Russia and Ukraine. The plan, which requires acceptance from
+      Ukrainian President Volodymyr Zelensky and Russian President Vladimir Putin by
+      November 27, proposes an immediate ceasefire and the withdrawal of Ukrainian and
+      Russian forces from specific regions. Diesen argues that the urgency of the seven-day
+      acceptance window is strategic, as it capitalizes on Zelensky's current vulnerabilities
+      due to recent corruption scandals and military setbacks. The plan seeks to prevent
+      European nations from formulating a counter-strategy that could prolong the conflict,
+      thereby aiming to stabilize the situation in Europe and reduce regional tensions.
+    published: '2025-11-22T19:04:41+00:00'
+  - title: 'NewsX Eurozone: Ukraine’s options in response to the Trump peace plan'
+    url: https://gilbertdoctorow.com/2025/11/22/newsx-eurozone-ukraines-options-in-response-to-the-trump-peace-plan/
+    text: I appear as from 1minute10 This morning’s session with NewsX World focused
+      first on how Zelensky has no options but to accept the Trump plan given the U.S.
+      threat to stop all intel sharing and supply of military hardware if he resists.
+      As I say here, the Peace Plan is directed towards normalization of relations between
+      Russia, Europe and the USA. There will be many beneficiaries, including the peoples
+      of Western Europe who may now see their warmonger leaders totally discredited
+      and unseated. The second issue was what motivated Lukashenko to free 32 political
+      prisoners in response to requests from Washington. My fellow panelist in Berlin
+      saw this as an outreach to Trump to find leverage against his relationship with
+      Putin and Russia. I dispute this interpretation, finding instead that Trump was
+      reaching out to Belarus to lift sanctions in order to demonstrate to the Kremlin
+      that they may also enjoy relaxation of sanctions if they make concessions and
+      proceed along the 28-point peace plan
+    one_sentence_summary: The discussion on NewsX World highlighted that Zelensky may
+      have to accept Trump's peace plan due to U.S. threats of halting military support,
+      while also analyzing Lukashenko's release of political prisoners as a potential
+      strategic move influenced by U.S. relations rather than a direct outreach to Trump.
+    paragraph_summary: The NewsX World session discussed the implications of a peace
+      plan proposed by Trump, which Ukrainian President Zelensky may feel compelled
+      to accept due to U.S. threats of halting intelligence and military support if
+      he resists. The plan aims to normalize relations between Russia, Europe, and the
+      U.S., potentially benefiting Western European citizens by discrediting their current
+      leaders. Additionally, the panel examined Belarusian President Lukashenko's decision
+      to release 32 political prisoners, with one panelist suggesting it was an attempt
+      to gain leverage with Trump against Putin. However, the speaker disagreed, arguing
+      that Trump's outreach to Belarus was intended to signal to the Kremlin that sanctions
+      could be lifted if they comply with the peace plan's terms.
+    published: '2025-11-22T13:52:09+00:00'
+  - title: 'NewsX Eurozone: Ukraine’s options in response to the Trump peace plan'
+    url: https://gilbertdoctorow.com/2025/11/22/newsx-eurozone-ukraines-options-in-response-to-the-trump-peace-plan/
+    text: I appear as from 1minute10 This morning’s session with NewsX World focused
+      first on how Zelensky has no options but to accept the Trump plan given the U.S.
+      threat to stop all intel sharing and supply of military hardware if he resists.
+      As I say here, the Peace Plan is directed towards normalization of relations between
+      Russia, Europe and the USA. There will be many beneficiaries, including the peoples
+      of Western Europe who may now see their warmonger leaders totally discredited
+      and unseated. The second issue was what motivated Lukashenko to free 32 political
+      prisoners in response to requests from Washington. My fellow panelist in Berlin
+      saw this as an outreach to Trump to find leverage against his relationship with
+      Putin and Russia. I dispute this interpretation, finding instead that Trump was
+      reaching out to Belarus to lift sanctions in order to demonstrate to the Kremlin
+      that they may also enjoy relaxation of sanctions if they make concessions and
+      proceed along the 28-point peace plan
+    one_sentence_summary: The discussion on NewsX World highlighted that Zelensky may
+      have to accept Trump's peace plan due to U.S. threats of halting military support,
+      while also analyzing Lukashenko's release of political prisoners as a potential
+      strategic move influenced by U.S. relations rather than a direct outreach to Trump.
+    paragraph_summary: The NewsX World session discussed the implications of a peace
+      plan proposed by Trump, which Ukrainian President Zelensky may feel compelled
+      to accept due to U.S. threats of halting intelligence and military support if
+      he resists. The plan aims to normalize relations between Russia, Europe, and the
+      U.S., potentially benefiting Western European citizens by discrediting their current
+      leaders. Additionally, the panel examined Belarusian President Lukashenko's decision
+      to release 32 political prisoners, with one panelist suggesting it was an attempt
+      to gain leverage with Trump against Putin. However, the speaker disagreed, arguing
+      that Trump's outreach to Belarus was intended to signal to the Kremlin that sanctions
+      could be lifted if they comply with the peace plan's terms.
+    published: '2025-11-22T13:52:09+00:00'
+  - title: Press TV (Iran) interview on the 28-point Peace Plan this morning
+    url: https://gilbertdoctorow.com/2025/11/21/press-tv-iran-interview-on-the-28-point-peace-plan-this-morning/
+    text: No sooner had I read the text of the Peace plan in The Financial Times ths
+      morning after breakfast, than producers at Iran’s Press TV reached out to request
+      a 9am interview and catch my first impressions. It was pleasant to be back on
+      air with Teheran, since I have the highest regard for their professional journalism.
+      https://www.urmedium.net/c/presstv/135213
+    one_sentence_summary: After reading the Peace plan in The Financial Times, I was
+      promptly invited for an interview by Iran’s Press TV, which I appreciated due
+      to my respect for their journalism.
+    paragraph_summary: The author reflects on their experience of reading a peace plan
+      in The Financial Times and subsequently being invited for an interview by Iran's
+      Press TV to share their initial thoughts. They express appreciation for the opportunity
+      to engage with Iranian media, highlighting their respect for the professionalism
+      of Press TV's journalism.
+    published: '2025-11-21T18:41:16+00:00'
+  - title: Press TV (Iran) interview on the 28-point Peace Plan this morning
+    url: https://gilbertdoctorow.com/2025/11/21/press-tv-iran-interview-on-the-28-point-peace-plan-this-morning/
+    text: No sooner had I read the text of the Peace plan in The Financial Times ths
+      morning after breakfast, than producers at Iran’s Press TV reached out to request
+      a 9am interview and catch my first impressions. It was pleasant to be back on
+      air with Teheran, since I have the highest regard for their professional journalism.
+      https://www.urmedium.net/c/presstv/135213
+    one_sentence_summary: After reading the Peace plan in The Financial Times, I was
+      promptly invited for an interview by Iran’s Press TV, which I appreciated due
+      to my respect for their journalism.
+    paragraph_summary: The author reflects on their experience of reading a peace plan
+      in The Financial Times and subsequently being invited for an interview by Iran's
+      Press TV to share their initial thoughts. They express appreciation for the opportunity
+      to engage with Iranian media, highlighting their respect for the professionalism
+      of Press TV's journalism.
+    published: '2025-11-21T18:41:16+00:00'
+  - title: News X World (India) interview at midday on the Trump Peace Plan and Russian
+      capture of Kupyansk
+    url: https://gilbertdoctorow.com/2025/11/21/news-x-world-india-interview-at-midday-on-the-trump-peace-plan-and-russian-capture-of-kupyansk/
+    text: News X World (India) interview at midday on the Trump Peace Plan and Russian
+      capture of Kupyansk You will note that I determinedly ignore the questions put
+      to me by the News X World moderator because they are, like almost all discussion
+      of the Trump Peace Plan in Western media, focused strictly on the points in the
+      Peace Plan relating to Ukraine’s giving up its presently held territory in the
+      Donbas. This is what Kaja Kallas at the EU Commission and the warmongers Keir
+      Starmer of the UK, Emanuel Macron of France and Friedrich Merz of Germany denounce
+      as a capitulation imposed on Ukraine which they say they are determined to resist.
+      However, the 28-point Peace Plan is a comprehensive road map intended to put an
+      end to the remilitarization of Europe and implies regime change not only in Ukraine
+      but in 24 of the 27 European Member States that are today’s troublemakers.  By
+      bringing about a nonaggression pact between Russia, Europe and the U.S., by pledging
+      not to ever invite Ukraine into NATO and in general no longer to expand NATO,
+      this plan will revise the security architecture of Europe to ensure at least a
+      coming generation of peace on the Continent, not only between Russia and Ukraine.
+      Moreover, the point on extension of the START treaty on strategic nuclear weapons
+      is something unrelated to the Ukraine war but very much a concern in the Kremlin
+      and also among those in the West who stand taller than their pygmy heads of state
+      and government. ©Gilbert Doctorow, 2025 Zelenskyy signals readiness for honest
+      talks as US peace plan sparks backlash
+    one_sentence_summary: The article discusses an interview regarding the Trump Peace
+      Plan, highlighting that Western media focuses on Ukraine's territorial concessions
+      while the plan aims for broader geopolitical changes, including a nonaggression
+      pact between Russia, Europe, and the U.S., and potential regime changes in many
+      European countries.
+    paragraph_summary: In an interview with News X World, the speaker critiques the
+      Western media's narrow focus on the Trump Peace Plan's implications for Ukraine's
+      territorial concessions in the Donbas, which are met with resistance from European
+      leaders like Kaja Kallas, Keir Starmer, Emmanuel Macron, and Friedrich Merz. The
+      speaker argues that the 28-point Peace Plan is a broader strategy aimed at ending
+      Europe's remilitarization and facilitating a nonaggression pact between Russia,
+      Europe, and the U.S., which would also involve a halt to NATO's expansion and
+      potentially lead to regime changes in several European nations. Additionally,
+      the plan addresses concerns regarding the extension of the START treaty on strategic
+      nuclear weapons, highlighting its significance beyond the Ukraine conflict.
+    published: '2025-11-21T17:59:29+00:00'
+  - title: News X World (India) interview at midday on the Trump Peace Plan and Russian
+      capture of Kupyansk
+    url: https://gilbertdoctorow.com/2025/11/21/news-x-world-india-interview-at-midday-on-the-trump-peace-plan-and-russian-capture-of-kupyansk/
+    text: News X World (India) interview at midday on the Trump Peace Plan and Russian
+      capture of Kupyansk You will note that I determinedly ignore the questions put
+      to me by the News X World moderator because they are, like almost all discussion
+      of the Trump Peace Plan in Western media, focused strictly on the points in the
+      Peace Plan relating to Ukraine’s giving up its presently held territory in the
+      Donbas. This is what Kaja Kallas at the EU Commission and the warmongers Keir
+      Starmer of the UK, Emanuel Macron of France and Friedrich Merz of Germany denounce
+      as a capitulation imposed on Ukraine which they say they are determined to resist.
+      However, the 28-point Peace Plan is a comprehensive road map intended to put an
+      end to the remilitarization of Europe and implies regime change not only in Ukraine
+      but in 24 of the 27 European Member States that are today’s troublemakers.  By
+      bringing about a nonaggression pact between Russia, Europe and the U.S., by pledging
+      not to ever invite Ukraine into NATO and in general no longer to expand NATO,
+      this plan will revise the security architecture of Europe to ensure at least a
+      coming generation of peace on the Continent, not only between Russia and Ukraine.
+      Moreover, the point on extension of the START treaty on strategic nuclear weapons
+      is something unrelated to the Ukraine war but very much a concern in the Kremlin
+      and also among those in the West who stand taller than their pygmy heads of state
+      and government. ©Gilbert Doctorow, 2025 Zelenskyy signals readiness for honest
+      talks as US peace plan sparks backlash
+    one_sentence_summary: The article discusses an interview regarding the Trump Peace
+      Plan, highlighting that Western media focuses on Ukraine's territorial concessions
+      while the plan aims for broader geopolitical changes, including a nonaggression
+      pact between Russia, Europe, and the U.S., and potential regime changes in many
+      European countries.
+    paragraph_summary: In an interview with News X World, the speaker critiques the
+      Western media's narrow focus on the Trump Peace Plan's implications for Ukraine's
+      territorial concessions in the Donbas, which are met with resistance from European
+      leaders like Kaja Kallas, Keir Starmer, Emmanuel Macron, and Friedrich Merz. The
+      speaker argues that the 28-point Peace Plan is a broader strategy aimed at ending
+      Europe's remilitarization and facilitating a nonaggression pact between Russia,
+      Europe, and the U.S., which would also involve a halt to NATO's expansion and
+      potentially lead to regime changes in several European nations. Additionally,
+      the plan addresses concerns regarding the extension of the START treaty on strategic
+      nuclear weapons, highlighting its significance beyond the Ukraine conflict.
+    published: '2025-11-21T17:59:29+00:00'
+  - title: Donald Trump’s 28-point peace plan for ending the Russia-Ukraine War
+    url: https://gilbertdoctorow.com/2025/11/21/donald-trumps-28-point-peace-plan-for-ending-the-russia-ukraine-war/
+    text: 'The BBC this morning already began giving the microphone to the usual Neocon
+      academics at Stanford who berated the 28 point peace plan that was delivered to
+      Zelensky in Kiev yesterday, and which he said he would respond to shortly. Trump
+      is being accused by mainstream commentators of selling out an ally, pandering
+      to a tyrant (Putin) and doing a disservice to American interests worldwide. I
+      imagine that ultra-nationalist Russians will appear on Russian state television
+      talk shows later today to issue their condemnatory words on the peace plan from
+      the perspective of the other side of the barricades. For my part, after reading
+      through the plan, which The Financial Times published several hours ago and which
+      I reproduce below, I say ‘bravo’ to the American President, whose team has cobbled
+      together a road map to long-lasting peace not just between Russia and Ukraine,
+      but between Russia, Europe and the United States. Those determined critics of
+      Trump in both Western mainstream AND in Western alternative media who have predicted
+      the same kind of faux peace that was imposed on Hamas and Israel will ultimately
+      have to admit that The Man does some things right when he and his close advisors
+      set their minds to it. I will issue a proper evaluation of the document point
+      for point in the coming day or two. For the moment, I take pleasure in noting
+      that the concept of using the frozen Russian assets as a means of not merely ensuring
+      quick reconstruction of both the Ukrainian held and the Russian held parts of
+      what was pre-war Ukraine but also involving the United States in the process,
+      to ensure the funds are not diverted into private pockets and really do some good. 
+      This is a variation on my long-held proposal for these funds. Moreover, the plan
+      obliges Europe to contribute $100 billion to the very same cause, which is a far
+      more worthy objective for extracting funds from European taxpayers than further
+      financial and military aid to the bankrupt regime in Kiev. That the concept of
+      denazification is also addressed in this plan is especially worthy of note. There
+      are those who were asking just days ago how this could be realized. Here in the
+      plan we see very specific proposals for its being implemented – without purges,
+      without recrimination and with a positive approach to shaping the future society
+      in Ukraine. I also note especially the requirement that elections be held in Ukraine
+      within 100 days of concluding the agreement and start of its implementation, which
+      includes, of course, a comprehensive cease-fire.  This, not forced regime change
+      by American or British intelligence operatives, is the best possible way to ensure
+      the evolution of Ukraine towards democracy and peaceful coexistence with its neighbor.
+      Among the 28 points are issues not directly related to the Ukraine-Russia conflict
+      but having decisive importance for restoring calm in international relations and
+      taking us all back from the risks of nuclear war. The outstanding point in this
+      regard is the call for extension of the START treaty without any mention of bringing
+      China to the table, which of course would at this point condemn the initiative
+      to failure. The full text of Trump’s 28-point Ukraine-Russia peace plan 1. Ukraine’s
+      sovereignty will be confirmed. 2. A comprehensive and comprehensive [sic] non-aggression
+      agreement will be concluded between Russia, Ukraine and Europe. All ambiguities
+      of the last 30 years will be considered settled. 3. It is expected that Russia
+      will not invade neighbouring countries and NATO will not expand further. 4. A
+      dialogue will be held between Russia and NATO, mediated by the United States,
+      to resolve all security issues and create conditions for de-escalation in order
+      to ensure global security and increase opportunities for cooperation and future
+      economic development. 5. Ukraine will receive reliable security guarantees. 6.
+      The size of the Ukrainian Armed Forces will be limited to 600,000 personnel. 7.
+      Ukraine agrees to enshrine in its constitution that it will not join NATO, and
+      NATO agrees to include in its statutes a provision that Ukraine will not be admitted
+      in the future. 8. NATO agrees not to station troops in Ukraine. 9. European fighter
+      jets will be stationed in Poland. 10. US guarantee: The US will receive compensation
+      for the guarantee. If Ukraine invades Russia, it will lose the guarantee. If Russia
+      invades Ukraine, in addition to a decisive coordinated military response, all
+      global sanctions will be reinstated, recognition of the new territory and all
+      other benefits of this deal will be revoked. If Ukraine launches a missile at
+      Moscow or St. Petersburg without cause, the security guarantee will be deemed
+      invalid. 11. Ukraine is eligible for EU membership and will receive short-term
+      preferential access to the European market while this issue is being considered.
+      12. A powerful global package of measures to rebuild Ukraine, including but not
+      limited to: a. The creation of a Ukraine Development Fund to invest in fast-growing
+      industries, including technology, data centres, and artificial intelligence. b.
+      The United States will cooperate with Ukraine to jointly rebuild, develop, modernise,
+      and operate Ukraine’s gas infrastructure, including pipelines and storage facilities.
+      c. Joint efforts to rehabilitate war-affected areas for the restoration, reconstruction
+      and modernisation of cities and residential areas. d. Infrastructure development.
+      e. Extraction of minerals and natural resources. f. The World Bank will develop
+      a special financing package to accelerate these efforts. 13. Russia will be reintegrated
+      into the global economy: a. The lifting of sanctions will be discussed and agreed
+      upon in stages and on a case-by-case basis. b. The United States will enter into
+      a long-term economic cooperation agreement for mutual development in the areas
+      of energy, natural resources, infrastructure, artificial intelligence, data centres,
+      rare earth metal extraction projects in the Arctic, and other mutually beneficial
+      corporate opportunities. c. Russia will be invited to rejoin the G8. 14. Frozen
+      funds will be used as follows: $100 billion in frozen Russian assets will be invested
+      in US-led efforts to rebuild and invest in Ukraine. The US will receive 50% of
+      the profits from this venture. Europe will add $100 billion to increase the amount
+      of investment available for Ukraine’s reconstruction. The remainder of the frozen
+      Russian funds will be invested in a separate US-Russian investment vehicle that
+      will implement joint projects in specific areas. This fund will be aimed at strengthening
+      relations and increasing common interests to create a strong incentive not to
+      return to conflict. 15. A joint American-Russian working group on security issues
+      will be established to promote and ensure compliance with all provisions of this
+      agreement. 16. Russia will enshrine in law its policy of non-aggression towards
+      Europe and Ukraine. 17. The United States and Russia will agree to extend the
+      validity of treaties on the non-proliferation and control of nuclear weapons,
+      including the START I Treaty. 18. Ukraine agrees to be a non-nuclear state in
+      accordance with the Treaty on the Non-Proliferation of Nuclear Weapons. 19. The
+      Zaporizhzhya [sic] Nuclear Power Plant will be launched under the supervision
+      of the IAEA, and the electricity produced will be distributed equally between
+      Russia and Ukraine — 50:50. 20. Both countries undertake to implement educational
+      programmes in schools and society aimed at promoting understanding and tolerance
+      of different cultures and eliminating racism and prejudice: a. Ukraine will adopt
+      EU rules on religious tolerance and the protection of linguistic minorities. b.
+      Both countries will agree to abolish all discriminatory measures and guarantee
+      the rights of Ukrainian and Russian media and education. c. All Nazi ideology
+      and activities must be rejected and prohibited. 21. Territories: a. Crimea, Luhansk
+      and Donetsk will be recognised as de facto Russian, including by the United States.
+      b. Kherson and Zaporizhzhia will be frozen along the line of contact, which will
+      mean de facto recognition along the line of contact. c. Russia will relinquish
+      other agreed territories it controls outside the five regions. d. Ukrainian forces
+      will withdraw from the part of Donetsk Oblast that they currently control, and
+      this withdrawal zone will be considered a neutral demilitarised buffer zone, internationally
+      recognised as territory belonging to the Russian Federation. Russian forces will
+      not enter this demilitarised zone. 22. After agreeing on future territorial arrangements,
+      both the Russian Federation and Ukraine undertake not to change these arrangements
+      by force. Any security guarantees will not apply in the event of a breach of this
+      commitment. 23. Russia will not prevent Ukraine from using the Dnieper River for
+      commercial activities, and agreements will be reached on the free transport of
+      grain across the Black Sea. 24. A humanitarian committee will be established to
+      resolve outstanding issues: a. All remaining prisoners and bodies will be exchanged
+      on an ‘all for all’ basis. b. All civilian detainees and hostages will be returned,
+      including children. c. A family reunification programme will be implemented. d.
+      Measures will be taken to alleviate the suffering of the victims of the conflict.
+      25. Ukraine will hold elections in 100 days. 26. All parties involved in this
+      conflict will receive full amnesty for their actions during the war and agree
+      not to make any claims or consider any complaints in the future. 27. This agreement
+      will be legally binding. Its implementation will be monitored and guaranteed by
+      the Peace Council, headed by President Donald J. Trump. Sanctions will be imposed
+      for violations. 28. Once all parties agree to this memorandum, the ceasefire will
+      take effect immediately after both sides retreat to agreed points to begin implementation
+      of the agreement.'
+    one_sentence_summary: The article discusses the backlash against Trump's 28-point
+      peace plan for Ukraine, with critics labeling him as a sellout to Putin, while
+      the author expresses support for the plan as a potential pathway to lasting peace
+      between Russia, Ukraine, Europe, and the U.S.
+    paragraph_summary: The article discusses the mixed reactions to a 28-point peace
+      plan presented to Ukrainian President Zelensky, with critics, particularly from
+      neoconservative circles, condemning it as a betrayal of American interests and
+      an appeasement of Putin. While mainstream commentators accuse Trump of selling
+      out an ally, the author expresses support for the plan, viewing it as a potential
+      roadmap for lasting peace not only between Russia and Ukraine but also involving
+      Europe and the U.S. The author appreciates the proposal to utilize frozen Russian
+      assets for reconstruction efforts in Ukraine and emphasizes the plan's requirement
+      for Europe to contribute $100 billion, framing it as a more constructive use of
+      taxpayer funds than ongoing military aid to Ukraine. The author plans to provide
+      a detailed evaluation of the plan in the coming days.
+    published: '2025-11-21T07:02:26+00:00'
+  - title: Donald Trump’s 28-point peace plan for ending the Russia-Ukraine War
+    url: https://gilbertdoctorow.com/2025/11/21/donald-trumps-28-point-peace-plan-for-ending-the-russia-ukraine-war/
+    text: 'The BBC this morning already began giving the microphone to the usual Neocon
+      academics at Stanford who berated the 28 point peace plan that was delivered to
+      Zelensky in Kiev yesterday, and which he said he would respond to shortly. Trump
+      is being accused by mainstream commentators of selling out an ally, pandering
+      to a tyrant (Putin) and doing a disservice to American interests worldwide. I
+      imagine that ultra-nationalist Russians will appear on Russian state television
+      talk shows later today to issue their condemnatory words on the peace plan from
+      the perspective of the other side of the barricades. For my part, after reading
+      through the plan, which The Financial Times published several hours ago and which
+      I reproduce below, I say ‘bravo’ to the American President, whose team has cobbled
+      together a road map to long-lasting peace not just between Russia and Ukraine,
+      but between Russia, Europe and the United States. Those determined critics of
+      Trump in both Western mainstream AND in Western alternative media who have predicted
+      the same kind of faux peace that was imposed on Hamas and Israel will ultimately
+      have to admit that The Man does some things right when he and his close advisors
+      set their minds to it. I will issue a proper evaluation of the document point
+      for point in the coming day or two. For the moment, I take pleasure in noting
+      that the concept of using the frozen Russian assets as a means of not merely ensuring
+      quick reconstruction of both the Ukrainian held and the Russian held parts of
+      what was pre-war Ukraine but also involving the United States in the process,
+      to ensure the funds are not diverted into private pockets and really do some good. 
+      This is a variation on my long-held proposal for these funds. Moreover, the plan
+      obliges Europe to contribute $100 billion to the very same cause, which is a far
+      more worthy objective for extracting funds from European taxpayers than further
+      financial and military aid to the bankrupt regime in Kiev. That the concept of
+      denazification is also addressed in this plan is especially worthy of note. There
+      are those who were asking just days ago how this could be realized. Here in the
+      plan we see very specific proposals for its being implemented – without purges,
+      without recrimination and with a positive approach to shaping the future society
+      in Ukraine. I also note especially the requirement that elections be held in Ukraine
+      within 100 days of concluding the agreement and start of its implementation, which
+      includes, of course, a comprehensive cease-fire.  This, not forced regime change
+      by American or British intelligence operatives, is the best possible way to ensure
+      the evolution of Ukraine towards democracy and peaceful coexistence with its neighbor.
+      Among the 28 points are issues not directly related to the Ukraine-Russia conflict
+      but having decisive importance for restoring calm in international relations and
+      taking us all back from the risks of nuclear war. The outstanding point in this
+      regard is the call for extension of the START treaty without any mention of bringing
+      China to the table, which of course would at this point condemn the initiative
+      to failure. The full text of Trump’s 28-point Ukraine-Russia peace plan 1. Ukraine’s
+      sovereignty will be confirmed. 2. A comprehensive and comprehensive [sic] non-aggression
+      agreement will be concluded between Russia, Ukraine and Europe. All ambiguities
+      of the last 30 years will be considered settled. 3. It is expected that Russia
+      will not invade neighbouring countries and NATO will not expand further. 4. A
+      dialogue will be held between Russia and NATO, mediated by the United States,
+      to resolve all security issues and create conditions for de-escalation in order
+      to ensure global security and increase opportunities for cooperation and future
+      economic development. 5. Ukraine will receive reliable security guarantees. 6.
+      The size of the Ukrainian Armed Forces will be limited to 600,000 personnel. 7.
+      Ukraine agrees to enshrine in its constitution that it will not join NATO, and
+      NATO agrees to include in its statutes a provision that Ukraine will not be admitted
+      in the future. 8. NATO agrees not to station troops in Ukraine. 9. European fighter
+      jets will be stationed in Poland. 10. US guarantee: The US will receive compensation
+      for the guarantee. If Ukraine invades Russia, it will lose the guarantee. If Russia
+      invades Ukraine, in addition to a decisive coordinated military response, all
+      global sanctions will be reinstated, recognition of the new territory and all
+      other benefits of this deal will be revoked. If Ukraine launches a missile at
+      Moscow or St. Petersburg without cause, the security guarantee will be deemed
+      invalid. 11. Ukraine is eligible for EU membership and will receive short-term
+      preferential access to the European market while this issue is being considered.
+      12. A powerful global package of measures to rebuild Ukraine, including but not
+      limited to: a. The creation of a Ukraine Development Fund to invest in fast-growing
+      industries, including technology, data centres, and artificial intelligence. b.
+      The United States will cooperate with Ukraine to jointly rebuild, develop, modernise,
+      and operate Ukraine’s gas infrastructure, including pipelines and storage facilities.
+      c. Joint efforts to rehabilitate war-affected areas for the restoration, reconstruction
+      and modernisation of cities and residential areas. d. Infrastructure development.
+      e. Extraction of minerals and natural resources. f. The World Bank will develop
+      a special financing package to accelerate these efforts. 13. Russia will be reintegrated
+      into the global economy: a. The lifting of sanctions will be discussed and agreed
+      upon in stages and on a case-by-case basis. b. The United States will enter into
+      a long-term economic cooperation agreement for mutual development in the areas
+      of energy, natural resources, infrastructure, artificial intelligence, data centres,
+      rare earth metal extraction projects in the Arctic, and other mutually beneficial
+      corporate opportunities. c. Russia will be invited to rejoin the G8. 14. Frozen
+      funds will be used as follows: $100 billion in frozen Russian assets will be invested
+      in US-led efforts to rebuild and invest in Ukraine. The US will receive 50% of
+      the profits from this venture. Europe will add $100 billion to increase the amount
+      of investment available for Ukraine’s reconstruction. The remainder of the frozen
+      Russian funds will be invested in a separate US-Russian investment vehicle that
+      will implement joint projects in specific areas. This fund will be aimed at strengthening
+      relations and increasing common interests to create a strong incentive not to
+      return to conflict. 15. A joint American-Russian working group on security issues
+      will be established to promote and ensure compliance with all provisions of this
+      agreement. 16. Russia will enshrine in law its policy of non-aggression towards
+      Europe and Ukraine. 17. The United States and Russia will agree to extend the
+      validity of treaties on the non-proliferation and control of nuclear weapons,
+      including the START I Treaty. 18. Ukraine agrees to be a non-nuclear state in
+      accordance with the Treaty on the Non-Proliferation of Nuclear Weapons. 19. The
+      Zaporizhzhya [sic] Nuclear Power Plant will be launched under the supervision
+      of the IAEA, and the electricity produced will be distributed equally between
+      Russia and Ukraine — 50:50. 20. Both countries undertake to implement educational
+      programmes in schools and society aimed at promoting understanding and tolerance
+      of different cultures and eliminating racism and prejudice: a. Ukraine will adopt
+      EU rules on religious tolerance and the protection of linguistic minorities. b.
+      Both countries will agree to abolish all discriminatory measures and guarantee
+      the rights of Ukrainian and Russian media and education. c. All Nazi ideology
+      and activities must be rejected and prohibited. 21. Territories: a. Crimea, Luhansk
+      and Donetsk will be recognised as de facto Russian, including by the United States.
+      b. Kherson and Zaporizhzhia will be frozen along the line of contact, which will
+      mean de facto recognition along the line of contact. c. Russia will relinquish
+      other agreed territories it controls outside the five regions. d. Ukrainian forces
+      will withdraw from the part of Donetsk Oblast that they currently control, and
+      this withdrawal zone will be considered a neutral demilitarised buffer zone, internationally
+      recognised as territory belonging to the Russian Federation. Russian forces will
+      not enter this demilitarised zone. 22. After agreeing on future territorial arrangements,
+      both the Russian Federation and Ukraine undertake not to change these arrangements
+      by force. Any security guarantees will not apply in the event of a breach of this
+      commitment. 23. Russia will not prevent Ukraine from using the Dnieper River for
+      commercial activities, and agreements will be reached on the free transport of
+      grain across the Black Sea. 24. A humanitarian committee will be established to
+      resolve outstanding issues: a. All remaining prisoners and bodies will be exchanged
+      on an ‘all for all’ basis. b. All civilian detainees and hostages will be returned,
+      including children. c. A family reunification programme will be implemented. d.
+      Measures will be taken to alleviate the suffering of the victims of the conflict.
+      25. Ukraine will hold elections in 100 days. 26. All parties involved in this
+      conflict will receive full amnesty for their actions during the war and agree
+      not to make any claims or consider any complaints in the future. 27. This agreement
+      will be legally binding. Its implementation will be monitored and guaranteed by
+      the Peace Council, headed by President Donald J. Trump. Sanctions will be imposed
+      for violations. 28. Once all parties agree to this memorandum, the ceasefire will
+      take effect immediately after both sides retreat to agreed points to begin implementation
+      of the agreement.'
+    one_sentence_summary: The article discusses the backlash against Trump's 28-point
+      peace plan for Ukraine, with critics labeling him as a sellout to Putin, while
+      the author expresses support for the plan as a potential pathway to lasting peace
+      between Russia, Ukraine, Europe, and the U.S.
+    paragraph_summary: The article discusses the mixed reactions to a 28-point peace
+      plan presented to Ukrainian President Zelensky, with critics, particularly from
+      neoconservative circles, condemning it as a betrayal of American interests and
+      an appeasement of Putin. While mainstream commentators accuse Trump of selling
+      out an ally, the author expresses support for the plan, viewing it as a potential
+      roadmap for lasting peace not only between Russia and Ukraine but also involving
+      Europe and the U.S. The author appreciates the proposal to utilize frozen Russian
+      assets for reconstruction efforts in Ukraine and emphasizes the plan's requirement
+      for Europe to contribute $100 billion, framing it as a more constructive use of
+      taxpayer funds than ongoing military aid to Ukraine. The author plans to provide
+      a detailed evaluation of the plan in the coming days.
+    published: '2025-11-21T07:02:26+00:00'
+  - title: Two interview segments with News X World, 19 November
+    url: https://gilbertdoctorow.com/2025/11/20/two-interview-segments-with-news-x-world-19-november/
+    text: Two interview segments with News X World, 19 November Warsaw Lublin railway
+      explosion escalates international concerns minutes 2.10 to 5.00 Kremlin dismisses
+      media speculation about peace proposal 2.40 to 7.12 I particularly commend the
+      railway explosion interview which gave me the opportunity to say a few words about
+      the state of Polish railways generally and the corruption that has prevented their
+      upgrading from single track sections, for example, for decades while vast funds
+      have gone to Siemens to buy beautiful railway cars that crawl along on the decrepit
+      tracks.
+    one_sentence_summary: The article discusses two interview segments addressing the
+      recent Warsaw Lublin railway explosion, highlighting international concerns and
+      the Kremlin's dismissal of peace proposal speculations, while also criticizing
+      the longstanding corruption in Polish railways that has hindered necessary upgrades
+      despite significant investments in new trains.
+    paragraph_summary: In a recent interview with News X World, segments focused on
+      the escalating international concerns following a railway explosion in Warsaw
+      Lublin, alongside the Kremlin's dismissal of media speculation regarding a peace
+      proposal. The discussion highlighted issues within the Polish railway system,
+      particularly the longstanding corruption that has hindered necessary upgrades
+      from single-track sections, despite significant funds being allocated to purchase
+      modern trains from Siemens that operate on outdated infrastructure.
+    published: '2025-11-20T08:08:22+00:00'
+  - title: Two interview segments with News X World, 19 November
+    url: https://gilbertdoctorow.com/2025/11/20/two-interview-segments-with-news-x-world-19-november/
+    text: Two interview segments with News X World, 19 November Warsaw Lublin railway
+      explosion escalates international concerns minutes 2.10 to 5.00 Kremlin dismisses
+      media speculation about peace proposal 2.40 to 7.12 I particularly commend the
+      railway explosion interview which gave me the opportunity to say a few words about
+      the state of Polish railways generally and the corruption that has prevented their
+      upgrading from single track sections, for example, for decades while vast funds
+      have gone to Siemens to buy beautiful railway cars that crawl along on the decrepit
+      tracks.
+    one_sentence_summary: The article discusses two interview segments addressing the
+      recent Warsaw Lublin railway explosion, highlighting international concerns and
+      the Kremlin's dismissal of peace proposal speculations, while also criticizing
+      the longstanding corruption in Polish railways that has hindered necessary upgrades
+      despite significant investments in new trains.
+    paragraph_summary: In a recent interview with News X World, segments focused on
+      the escalating international concerns following a railway explosion in Warsaw
+      Lublin, alongside the Kremlin's dismissal of media speculation regarding a peace
+      proposal. The discussion highlighted issues within the Polish railway system,
+      particularly the longstanding corruption that has hindered necessary upgrades
+      from single-track sections, despite significant funds being allocated to purchase
+      modern trains from Siemens that operate on outdated infrastructure.
+    published: '2025-11-20T08:08:22+00:00'
+  - title: 'A homecoming: ‘The Gaggle’ with George Szamuely and Peter Lavelle'
+    url: https://gilbertdoctorow.com/2025/11/20/a-homecoming-the-gaggle-with-george-szamuely-and-peter-lavelle/
+    text: This nearly hour-long interview covers the waterfront of issues surrounding
+      the 28-point peace plan that was jointly elaborated by Team Trump and Team Putin
+      in a secret backchannel that eluded the attention not only of Congress but of
+      the recalcitrant Secretary of State and others in the Administration who have
+      been working against Trump on resolving the Ukraine war. This was the plan that
+      Steve Witkoff was planning to hand deliver to Zelensky in Istanbul yesterday,
+      but which the Ukrainian leader hoped to dodge by cancelling the meeting. On the
+      American side it evidently was developed by Witkoff and his junior aides. On the
+      Russian side, it appears that Kirill Dmitriev carried the ball during his visit
+      to the United States following the break-off of plans for a summit of the two
+      presidents in Budapest. What then looked like an irrelevant trip to promote US-Russian
+      big business projects when relations were at a nadir turns out to have been a
+      cleverly disguised step forward in coordinating plans for peace. There are many
+      current developments in Kiev suggesting that a regime change piloted by the United
+      States is underway. As of today, these are all a matter of conjecture, not hard
+      facts. The latest word on Russian state television last night was coverage of
+      attempts in the Ukrainian Verkhovna Rada (parliament) to bring down Yermak, Head
+      of the Office of the President, and key power behind Zelensky’s throne. The corruption
+      scandal is the lever for this attack. Yermak’s downfall would prepare the way
+      for Zelensky’s removal or forced power sharing with other political forces. The
+      talk with Szamuely and Lavelle focused on the Russian side of the equation and
+      what it will take to end the war. I was delighted that at the start of our chat
+      Peter brought up our mutual excitement in November 2016 when we met the news of
+      Trump’s electoral victory and celebrated on air in the RT studio, Moscow by opening
+      a bottle of shampanskoye. I was then a regular panelist on his CrossTalk show. 
+      My contact with George Szamuely so far had been virtual when we were matched panelists
+      on a couple of Press TV (Iran) talk shows. ©Gilbert Doctorow, 2025
+    one_sentence_summary: The article discusses a nearly hour-long interview revealing
+      a secret 28-point peace plan developed by Team Trump and Team Putin to address
+      the Ukraine war, which was intended to be delivered to Ukrainian President Zelensky
+      but faced potential cancellation, highlighting the covert collaboration amidst
+      opposition from other U.S. officials.
+    paragraph_summary: The article discusses a nearly hour-long interview that delves
+      into a 28-point peace plan developed in secret by Team Trump and Team Putin, which
+      has largely gone unnoticed by Congress and other officials opposed to Trump's
+      efforts to resolve the Ukraine conflict. The plan, intended to be delivered by
+      Steve Witkoff to Ukrainian President Zelensky in Istanbul, faced potential cancellation
+      by Zelensky. The collaboration involved Witkoff and his aides on the American
+      side and Kirill Dmitriev on the Russian side, revealing that a seemingly irrelevant
+      trip to the U.S. was actually a strategic move towards peace. Current events in
+      Ukraine suggest a possible regime change influenced by the U.S., with reports
+      of attempts to undermine key figures in Zelensky's administration amid corruption
+      allegations. The conversation also reflected on the initial excitement surrounding
+      Trump's election victory in 2016.
+    published: '2025-11-20T02:04:30+00:00'
+  - title: 'A homecoming: ‘The Gaggle’ with George Szamuely and Peter Lavelle'
+    url: https://gilbertdoctorow.com/2025/11/20/a-homecoming-the-gaggle-with-george-szamuely-and-peter-lavelle/
+    text: This nearly hour-long interview covers the waterfront of issues surrounding
+      the 28-point peace plan that was jointly elaborated by Team Trump and Team Putin
+      in a secret backchannel that eluded the attention not only of Congress but of
+      the recalcitrant Secretary of State and others in the Administration who have
+      been working against Trump on resolving the Ukraine war. This was the plan that
+      Steve Witkoff was planning to hand deliver to Zelensky in Istanbul yesterday,
+      but which the Ukrainian leader hoped to dodge by cancelling the meeting. On the
+      American side it evidently was developed by Witkoff and his junior aides. On the
+      Russian side, it appears that Kirill Dmitriev carried the ball during his visit
+      to the United States following the break-off of plans for a summit of the two
+      presidents in Budapest. What then looked like an irrelevant trip to promote US-Russian
+      big business projects when relations were at a nadir turns out to have been a
+      cleverly disguised step forward in coordinating plans for peace. There are many
+      current developments in Kiev suggesting that a regime change piloted by the United
+      States is underway. As of today, these are all a matter of conjecture, not hard
+      facts. The latest word on Russian state television last night was coverage of
+      attempts in the Ukrainian Verkhovna Rada (parliament) to bring down Yermak, Head
+      of the Office of the President, and key power behind Zelensky’s throne. The corruption
+      scandal is the lever for this attack. Yermak’s downfall would prepare the way
+      for Zelensky’s removal or forced power sharing with other political forces. The
+      talk with Szamuely and Lavelle focused on the Russian side of the equation and
+      what it will take to end the war. I was delighted that at the start of our chat
+      Peter brought up our mutual excitement in November 2016 when we met the news of
+      Trump’s electoral victory and celebrated on air in the RT studio, Moscow by opening
+      a bottle of shampanskoye. I was then a regular panelist on his CrossTalk show. 
+      My contact with George Szamuely so far had been virtual when we were matched panelists
+      on a couple of Press TV (Iran) talk shows. ©Gilbert Doctorow, 2025
+    one_sentence_summary: The article discusses a nearly hour-long interview revealing
+      a secret 28-point peace plan developed by Team Trump and Team Putin to address
+      the Ukraine war, which was intended to be delivered to Ukrainian President Zelensky
+      but faced potential cancellation, highlighting the covert collaboration amidst
+      opposition from other U.S. officials.
+    paragraph_summary: The article discusses a nearly hour-long interview that delves
+      into a 28-point peace plan developed in secret by Team Trump and Team Putin, which
+      has largely gone unnoticed by Congress and other officials opposed to Trump's
+      efforts to resolve the Ukraine conflict. The plan, intended to be delivered by
+      Steve Witkoff to Ukrainian President Zelensky in Istanbul, faced potential cancellation
+      by Zelensky. The collaboration involved Witkoff and his aides on the American
+      side and Kirill Dmitriev on the Russian side, revealing that a seemingly irrelevant
+      trip to the U.S. was actually a strategic move towards peace. Current events in
+      Ukraine suggest a possible regime change influenced by the U.S., with reports
+      of attempts to undermine key figures in Zelensky's administration amid corruption
+      allegations. The conversation also reflected on the initial excitement surrounding
+      Trump's election victory in 2016.
+    published: '2025-11-20T02:04:30+00:00'
+  - title: ‘Judging Freedom’ edition of 19 November:  Why Russia Needs to Win Its War
+    url: https://gilbertdoctorow.com/2025/11/19/judging-freedom-edition-of-19-november-why-russia-needs-to-win-its-war/
+    text: In the hour before this show, the news which I had received from the Indian
+      broadcaster WION early in the morning that Steve Witkoff, Donald Trump’s emissary
+      for the Ukraine war talks, was going to meet with Zelensky in Istanbul later today
+      was superseded by news that the meeting was cancelled by Zelensky. Per WION, Witkoff
+      planned to present America’s latest 20-point peace plan which had been substantially
+      agreed to by Russia and so was likely to be very harsh on Ukraine.  Nonetheless,
+      the dry residue of this news is that there have been highly secret talks between
+      Team Trump and Team Putin to arrive at this peace plan, which was not considered
+      possible by the great many experts in both mainstream and alternative media who
+      despise and underappreciate the constancy of purpose of Donald Trump.  To my mind
+      this secret backchannel finally explains the extraordinary efforts of Putin to
+      ingratiate himself with Trump during his speech and Q&A at the Valdai Discussion
+      Club annual meeting in Sochi two months ago. It also bears on the dispute between
+      Deputy Foreign Minister Ryabkov and other officials close to Putin when Ryabkov
+      said the time for diplomacy was over and the momentum of the Alaska summit was
+      a spent force. These and other key questions are, I believe, worth a listen. 
+      I think in particular of the way that drone warfare has been the great equalizer
+      in the Russia-Ukraine war over the past six months so that the kill ratio in favor
+      of Russia during the artillery war phase of the conflict is now no longer relevant,
+      and Russia is bleeding more than anyone says; or the way that regime change may
+      come about in the coming week if Zelensky is offered a ‘golden handshake’ to resign
+    one_sentence_summary: A planned meeting between Steve Witkoff, Donald Trump’s envoy
+      for Ukraine, and Ukrainian President Zelensky in Istanbul was canceled, revealing
+      secret negotiations between Trump and Putin over a controversial peace plan for
+      Ukraine that many experts deemed unlikely.
+    paragraph_summary: The article discusses the cancellation of a planned meeting between
+      Steve Witkoff, Donald Trump's envoy for Ukraine war talks, and Ukrainian President
+      Zelensky, which was intended to present a controversial 20-point peace plan reportedly
+      agreed upon by Russia. This development highlights ongoing secret negotiations
+      between Trump’s team and Putin’s, challenging the skepticism of many experts regarding
+      Trump's influence on the situation. The piece also reflects on Putin's recent
+      attempts to align with Trump and comments from Russian officials about the state
+      of diplomacy. Additionally, it notes the impact of drone warfare on the conflict's
+      dynamics and speculates on potential regime change in Ukraine if Zelensky is offered
+      a significant incentive to resign.
+    published: '2025-11-19T15:38:35+00:00'
+  - title: ‘Judging Freedom’ edition of 19 November:  Why Russia Needs to Win Its War
+    url: https://gilbertdoctorow.com/2025/11/19/judging-freedom-edition-of-19-november-why-russia-needs-to-win-its-war/
+    text: In the hour before this show, the news which I had received from the Indian
+      broadcaster WION early in the morning that Steve Witkoff, Donald Trump’s emissary
+      for the Ukraine war talks, was going to meet with Zelensky in Istanbul later today
+      was superseded by news that the meeting was cancelled by Zelensky. Per WION, Witkoff
+      planned to present America’s latest 20-point peace plan which had been substantially
+      agreed to by Russia and so was likely to be very harsh on Ukraine.  Nonetheless,
+      the dry residue of this news is that there have been highly secret talks between
+      Team Trump and Team Putin to arrive at this peace plan, which was not considered
+      possible by the great many experts in both mainstream and alternative media who
+      despise and underappreciate the constancy of purpose of Donald Trump.  To my mind
+      this secret backchannel finally explains the extraordinary efforts of Putin to
+      ingratiate himself with Trump during his speech and Q&A at the Valdai Discussion
+      Club annual meeting in Sochi two months ago. It also bears on the dispute between
+      Deputy Foreign Minister Ryabkov and other officials close to Putin when Ryabkov
+      said the time for diplomacy was over and the momentum of the Alaska summit was
+      a spent force. These and other key questions are, I believe, worth a listen. 
+      I think in particular of the way that drone warfare has been the great equalizer
+      in the Russia-Ukraine war over the past six months so that the kill ratio in favor
+      of Russia during the artillery war phase of the conflict is now no longer relevant,
+      and Russia is bleeding more than anyone says; or the way that regime change may
+      come about in the coming week if Zelensky is offered a ‘golden handshake’ to resign
+    one_sentence_summary: A planned meeting between Steve Witkoff, Donald Trump’s envoy
+      for Ukraine, and Ukrainian President Zelensky in Istanbul was canceled, revealing
+      secret negotiations between Trump and Putin over a controversial peace plan for
+      Ukraine that many experts deemed unlikely.
+    paragraph_summary: The article discusses the cancellation of a planned meeting between
+      Steve Witkoff, Donald Trump's envoy for Ukraine war talks, and Ukrainian President
+      Zelensky, which was intended to present a controversial 20-point peace plan reportedly
+      agreed upon by Russia. This development highlights ongoing secret negotiations
+      between Trump’s team and Putin’s, challenging the skepticism of many experts regarding
+      Trump's influence on the situation. The piece also reflects on Putin's recent
+      attempts to align with Trump and comments from Russian officials about the state
+      of diplomacy. Additionally, it notes the impact of drone warfare on the conflict's
+      dynamics and speculates on potential regime change in Ukraine if Zelensky is offered
+      a significant incentive to resign.
+    published: '2025-11-19T15:38:35+00:00'
   - title: NewsX World:  two segments from the midday wrap-up
     url: https://gilbertdoctorow.com/2025/11/18/newsx-world-two-segments-from-the-midday-wrap-up/
     text: “Russia-India Ties Factor of Stability in International Relations” Regrettably

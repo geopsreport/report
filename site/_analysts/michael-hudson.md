@@ -8,18 +8,1062 @@ websites:
   - https://michael-hudson.com/
   - https://geopoliticaleconomy.com/author/michael-hudson/
 summary: |
-  As the global contest for resources and influence intensifies, recent developments underscore the shifting strategies of major powers and the vulnerabilities of key regions. The U.S. is accelerating its push for resource extraction in Central Asia, while Europe faces mounting challenges in its technology sector amid ongoing geopolitical tensions. Meanwhile, political shifts in the U.S. signal potential changes in domestic and international policy alignments.
+  As global power dynamics continue to shift, recent developments underscore intensifying competition over strategic resources, the fragility of Western economic models, and the growing sense of insecurity among states reliant on the U.S.-led financial system.
   
-  The latest analysis by **Michael Hudson** highlights the strategic importance of Kazakhstan’s rare earth minerals, especially tungsten, as the U.S. ramps up efforts to secure critical supply chains. The new U.S. ambassador’s call for rapid extraction and export of these resources is seen as part of a broader neo-imperial competition, with Central Asia positioned as a battleground for global powers. According to Hudson, this approach risks perpetuating a “rentier rule of law” that undermines local development and sovereignty.
+  The most notable new development concerns **Donald Trump’s** ambitious $35 billion investment pledge in Central Asia, targeting Kazakhstan’s tungsten and rare earths sector. **Michael Hudson** expresses deep skepticism about the feasibility of these plans, citing both logistical and political obstacles. He notes, “The idea that U.S. capital can simply swoop in and extract these resources ignores the entrenched rentier structures and the region’s history of failed Western interventions.” This skepticism is widely shared, with analysts emphasizing the difficulty of rapidly scaling up extraction and export in a region marked by complex governance and competing interests from Russia and China.
   
-  In Europe, the fallout from the tech war with China continues to deepen. **Hudson** notes that the recent seizure of semiconductor wafers and chips—essential for the continent’s automotive industry—could disrupt supply lines and exacerbate Europe’s economic decline. The continent’s alignment with U.S. policies against China, he argues, has left it exposed to both economic and technological vulnerabilities.
+  Meanwhile, the ongoing fallout from the European Union’s seizure of Russian assets continues to reverberate. **Hudson** highlights that this move has “prompted a global reassessment of the safety of Western financial institutions,” with a marked uptick in gold purchases by states seeking to hedge against further asset seizures. This trend signals a broader erosion of trust in the Western financial order, especially among countries outside the U.S. sphere of influence.
   
-  On the domestic front, the surprising victory of Zohran Mamdani, a Muslim socialist immigrant, in the New York mayoral election signals a potential realignment within the Democratic Party. As discussed by **Nima Alkhorchid** and **Richard Wolff**, Mamdani’s win despite significant financial opposition may embolden progressive movements and reshape donor politics in the U.S., with possible ripple effects for national policy debates.
+  In the context of Europe’s economic trajectory, **Hudson** points to the continent’s deepening decline, exacerbated by its alignment with the U.S. in the tech war against China. The recent seizure of semiconductor components destined for European automotive manufacturers threatens to disrupt critical supply chains, further undermining Europe’s industrial competitiveness.
   
-  Looking ahead, the majority of analysts cited by Hudson foresee continued instability in resource-rich regions like Central Asia, with high confidence that external powers will intensify their competition for strategic minerals. Europe’s economic challenges are expected to persist, with a high chance of further disruptions in key industries due to ongoing geopolitical tensions. Domestically, the rise of progressive candidates in the U.S. is quite likely to influence the Democratic Party’s direction, though the long-term impact remains uncertain.
-  
-  In summary, the current geopolitical landscape is marked by heightened competition for resources, technological vulnerabilities in Europe, and emerging political shifts in the U.S.—trends that are most definitely set to shape global affairs in the coming months.
+  Looking ahead, these developments suggest a high likelihood of continued fragmentation in the global economic system. There is a **high chance** that U.S. efforts to assert control over Central Asian resources will be met with resistance and limited success. The erosion of confidence in Western financial institutions is **most definitely** accelerating the shift toward alternative reserves, particularly gold. Europe’s economic woes are **quite likely** to deepen as supply chain disruptions persist and the continent struggles to adapt to the new geopolitical reality.
 articles:
+  - title: Cowboy Capitalism in Central Asia
+    url: https://michael-hudson.com/2025/11/cowboy-capitalism-in-central-asia/
+    text: '⁣NIMA ALKHORSHID: Hi everybody. Today is Thursday, November 13, 2025, and
+      our friends Michael Hudson and Richard Wolff are back with us. Welcome back. ⁣RICHARD
+      WOLFF: Glad to be here. ⁣NIMA ALKHORSHID: Let me start, Michael, with you and
+      what has happened with Donald Trump and his policies in Central Asia. Donald Trump
+      says that he’s going to reconquer the heartland, Central Asia. Really? What’s
+      going on in your opinion? He’s talking about an investment of $35 billion to Uzbekistan.
+      And they’re talking about Kazakhstan and maybe the base going back to these countries.
+      What is the importance of Central Asia in your opinion? ⁣MICHAEL HUDSON: The ostensible
+      aim that he’s talked about is having American companies invest in tungsten and
+      rare earths. Kazakhstan has very heavy tungsten holds and America thinks that
+      it can replace reliance on China for tungsten. And the dream of Trump — almost
+      obsession — is rare earths, but I just don’t see Kazakhstan being really much
+      of a source of rare earths. American oil companies have invested heavily in Kazakhstan,
+      in Kyrgyzstan — and it was a disaster. It was called ecocide. The oil workers’
+      unions all rose up and fought against it. And there’s a very strong anti-American
+      feeling, certainly against American mining companies and oil companies, throughout
+      Central Asia. That’s basically what Trump is going to be fighting about. And he’s
+      hoping that the financing for this is not going to come from the U.S. government,
+      [that] it’s going to come from the International Monetary Fund and the World Bank.
+      They were [the ones] who originally brought neoliberalism to Kazakhstan and Central
+      Asia — and it was a disaster. What happened in Central Asia is pretty much what
+      happened in the Baltics: Local kleptocracies took over. They registered the property
+      in their own names. They made deals with the Western companies for payoffs and
+      kept their money in the West. They took all of the best housing for themselves.
+      And the IMF and the World Bank introduced the “rule of law,” meaning that it enabled
+      the governments to foreclose on debtors, people who had bought their houses on
+      credit. Microcredit was the big thing that was sponsored by the Americans and
+      the IMF and by the neoliberals. It worked mainly through women because you could
+      bring social pressure on women to repay all of the debts. The suicide rates went
+      up; so, the women actually led the opposition to the western influence throughout
+      Kazakhstan and Kyrgyzstan, and the other countries there. The original reaction
+      against the Soviet Union has given way now to a general feeling that things were
+      much better back then. At least people had security of their housing. There wasn’t
+      polarization; and there wasn’t a wealthy billionaire class (that has emerged in
+      these countries); and nepotism by the rulers of these countries to their own personal
+      families. It’s really back to the 19th century, in a way. So what we’re seeing
+      is more about minerals now. The 19th century was more about crops and opium, and
+      things like that. But all of this is really just a replay of what was called the
+      Great Game (the British called it the Eastern Question): the long fight between
+      Britain and Russia — and now the United States against Russia and China — for
+      control of everything, from Iran, all the way across Central Asia, to the Uyghur
+      sections of Western China. You’re seeing this geopolitical game, with mining companies
+      playing the role; the mining companies are probably the most unpopular [companies]
+      in the entire region there. We haven’t heard a word about what China and Russia
+      are doing — I think they’re just letting America try to play its cards — but,
+      last week, the Kazakhstan foreign minister was in Washington trying to talk up
+      Kazakhstan to make deals. It seems that, certainly, the existing government is
+      trying to make a deal that’s going to benefit it. I think they met with the Secretary
+      of Commerce Howard Lutnick, who had negotiated a deal for Kazakhstan’s railways
+      before. There’s now a proposal between the Cove Kaz (a capital fund) to invest
+      in mining, some kind of profit-sharing agreement with Kazakhstan that may not
+      know all the intricacies of the “Hollywood” accounting that doesn’t really leave
+      many profits to be shared — after paying all of the interest charges and management
+      charges, and other charges that are all put down. The Great Game now is between
+      neoliberal mining interests (and what the Kazakhstani people are calling ecocide:
+      destruction of the environment from all of the pollution and the spills that the
+      oil companies have caused) and China (China’s Belt and Road Initiative, on quite
+      different terms, and with a different philosophy from neoliberalism). It’s not
+      only a geopolitical game now; it’s a game between what kind of economic arrangements
+      are going to be made. Will they be those of (more or less socialist-type) BRICS
+      arrangements; or will they be the neoliberal arrangements that the United States
+      is trying to push right now? ⁣RICHARD WOLFF: I would add two dimensions to it.
+      One, this strikes me as, stunningly, a replay of 19th and 20th century imperialism.
+      This is Western countries, in this case the United States, seeing the opportunity
+      for profit, by either mining — which is as old as imperialism, going back to gold
+      and silver, and all the other things, that have been luring Europeans to go all
+      over the world looking for places where they can get it cheaply, or steal it —
+      or whatever is necessary, because it is so nicely liquid for them to use in the
+      way they want. Sure, add tungsten, add rare earths. It was always shifting with
+      the technologies that we have available, which determine which resource under
+      the ground is more extractively interesting, for profit, than the other. So now,
+      there’s these new ones, and now there’s a new place to go get them, and the United
+      States is going to try to do it — get other people to pay for it — you know, despoil
+      the environment. That’s what they always did. This is not new. I want to remind
+      someone of a lesson. And the lesson is that the countries that were able to break
+      away from the global capitalist imperialist arrangement — Russia in the 20th century,
+      and China now — are the success stories. Russia was, then, under the Soviet Union
+      — I want to remind people, since it’s so fashionable not to know this, that Soviet
+      economic growth, from the time of the revolution in 1917 ‘til the time of the
+      dissolution in 1989, was the success story of the 20th century. The most backward
+      European country — that had to go through (ready?) losing World War I; then a
+      civil war and a revolution; and then collectivization of agriculture; and then
+      World War II — still came out at the end of the century, having grown faster than
+      anybody else, despite all of those setbacks. Extraordinary story! And China, we
+      all know, is the other one. What do they have in common? They broke away from
+      the colonial capitalist system. They’re the success stories, the ones who did
+      not allow what they’re discussing for Kyrgyzstan or Kazakhstan, at this point.
+      And that’s the first thing. The second observation (just adding to what Michael
+      talked about) is, I am very aware — perhaps I am misguided here — of all the machinations:
+      the 76 — because I keep count — the 76 dead people that were killed in those boats,
+      the so-called narco-boats, in the Caribbean and the Pacific. I’m aware that that
+      is a process, together with the positioning of the aircraft carrier Gerald Ford
+      that is now off the coast of Venezuela. I’m aware that there’s a positioning to
+      do a little regime change in Venezuela, in order to reaffirm the Monroe Doctrine,
+      and to grab one of the great oil repositories on this planet. Here comes the punchline:
+      The Russians, with the implicit backing of the Chinese, have warned the United
+      States not to do that. Now, this is an important — granted, still symbolic, but
+      an important — step. It’s that the Monroe Doctrine has just been nullified. The
+      United States does not have some sort of understood right to dominate in the Western
+      Hemisphere. The Russians are announcing, they’re here too. And if the Russians
+      are there with ships and navy, which they apparently are, then the Chinese are
+      not far behind. My suspicion is, part of the attractiveness of having these meetings
+      in the White House is for Mr. Trump to say: Okay, if I have to take you seriously
+      in the Western Hemisphere, well, you’re going to have to take me seriously, even
+      more than you thought you did. Look here, I’m doing stuff right in your neighborhood
+      here, with the Central Asian governments. So, you do have this geopolitical maneuvering
+      around — it’s part of the fluid adjustment of the world to the fact that the West
+      is not the dominant economic player anymore. And everybody, the West included,
+      is re-maneuvering, trying to figure out how to stay afloat in this rapidly shifting
+      global situation. ⁣MICHAEL HUDSON: I think you’re right to bring up the Monroe
+      Doctrine because the flip side of that was the promise — that Europe, you stay
+      out of the Western Hemisphere, we’ll stay out of your hemisphere — and that’s,
+      exactly, not happening. So, you’re quite right when you say that Russia and China
+      are saying: You’ve broken the deal. You’ve come over here. Okay, tit for tat:
+      What we’re doing is symmetrical to your reactions and your actions. Basically,
+      you’re seeing Russia and China in this, reacting against the West. But again,
+      all of this goes back to [Halford] Mackinder’s heartland versus the British-controlled
+      seacoast and commercial areas. The whole idea of China’s and Russia’s (but mainly
+      China’s) plans for the last 20 years has been to expand overland through Central
+      Asia. There’s a whole attempt to build railroads. All of this [is a replay of]
+      the late 19th century, starting with Persia. It was the Persian Empire that controlled
+      most of this region. And in the late 18th century, Russia reconquered what had
+      been the northern Persian Empire: Azerbaijan, Georgia, and part of Dagestan were
+      there. The Qajar, a local tribal dynasty, took over the shah of Iran [Persia]
+      in 1789 and ruled it until 1925, and essentially reconquered this area. Russia
+      then conquered it back, and Russia then used this conquest of what had been northern
+      Persia to extend the railroad all the way through Kazakhstan and Central Asia,
+      further east. Well, Britain opposed all of this, and fought the Crimean War against
+      Russia to say, Russia is our existential enemy. You can look at the U.S. and China
+      today: that was Russia and Britain back in the Crimean War; and the sequel to
+      that was the Anglo-Persian War (1856-1857) over who’s going to control the route
+      to Afghanistan, which Persia had controlled. And it was fought over the city of
+      Herat in western Afghanistan. The British said: We’ve got to block Russia from
+      getting access to India — because India was still the crown jewel that was giving
+      financial support for the British Empire. Essentially, Britain defeated Russia,
+      defeated Persia, and took control of that. And the next half century, all the
+      way through the late 19th century, saw Russia and the British both asking for
+      concessions to build a railroad through this region, which was still largely under
+      Persian control. Well, they were able to block each other; and Persia wasn’t able
+      to build a railroad until, finally, in the mid-1930s, the state did. It was afraid
+      of getting foreign concessions. The trauma of British investment — all the way
+      from Persia, further east — was so destructive that there was a general pro-Russian
+      feeling. After the Russian Revolution, the Russians had the support of the population
+      in these regions; there was ongoing warfare over who was going to control everything
+      from Persia (that didn’t become Iran until later) and Central Asia. And, basically,
+      the British intervened with the military and settled things by overthrowing the
+      Qajar tribal dynasty with the two shahs (the Pahlavi dynasty), the father and
+      the son who did a police state. When Persia granted an oil concession to [William
+      Knox] D’Arcy of England in 1901, that led to the discovery of oil a decade later;
+      and I think what happened after that, in Persia, is what’s going to happen in
+      Central Asia. The Iranians elected Mossadegh as a leader in the early 1950s. The
+      British MI6 and the CIA overthrew him, and the shah tightened up a police state
+      that was so awful, so oppressive, that the only place that people were able to
+      meet to resist was in the mosques. And the result is that there was a Shiite revolution
+      that overthrew the shah. This is pretty much what happened in the 1890s when the
+      opposition to the British takeover of Persia’s tobacco and opium trade was opposed
+      primarily by the religious leaders, who imposed a fatwa against smoking; and the
+      water pipes were all broken; and, essentially, the shah (the Qajar tribal shah
+      who had ruled for 50 years) was assassinated, and the British put in their own
+      proxies. This is the kind of fight that you’re going to be seeing, with what’s
+      now called the “color revolution,” in Southeast Asia. If the U.S. plans for mining
+      and for control, and the support of the neoliberal kleptocracy succeed in this
+      area, there’s going to be the same kind of revolution that there has been in other
+      countries. This is going to be the dynamic that’s going to shape the next decade.
+      ⁣NIMA ALKHORSHID: Yeah. Richard, what’s going on with the case of Kazakhstan and
+      Uzbekistan? They’re both deeply connected to China’s Belt and Road Initiative
+      and Russia’s Eurasian Economic Union. And, you know, looking at the reality of
+      the region, can these countries realistically pivot toward Washington, without
+      jeopardizing their existing strategic dependencies? ⁣RICHARD WOLFF: I doubt it.
+      I doubt it a great deal, and I’ll tell you two reasons why. One, there’s a part
+      of the history (I can add to everything that Michael just said), which is, in
+      Persia, as a resistance against what was being done by the British, and by those
+      parts of Persian society that were allied to the British, was to develop one of
+      the largest and most well-developed communist parties — the Tudeh party — in the
+      world. This kind of behavior by the West didn’t just provoke the religious opposition
+      — it did; and for the time being, that became quite dominant, right into the present
+      — but that religious opposition existed, and coexisted, with a very powerful secular
+      opposition, which, in the case of Iran/Persia, was the Tudeh party; which had
+      to be ruthlessly destroyed so that the religious opposition could survive. And
+      that continues. The oppositions inside Iran, to this day, have their roots in
+      that Tudeh party in many, many ways, which the people of Iran have explained to
+      me on countless occasions. So, I would be careful because I think this kind of
+      behavior that we’re seeing — this sort of, if you like it, renewal of classical
+      imperialism — it may strengthen, in some ways, religious opposition; but it will
+      also give a whole new lease on life to a non-religious, to a secular socialist,
+      or communist, resistance, which has deep roots there. The second reason I expect
+      that, is because the ability of Russia and China, separately and together, to
+      help that Tudeh-based opposition revive, is much greater than anything that Russia
+      or China had been able to do before. And they will now have a vested interest
+      in being the support to an anti-West basis that already exists here, on many levels.
+      So, yeah, you might re-engage that old battle the way Michael has sketched it
+      out; but the conditions, and the strength of the relative players there, is not
+      what it was the first time. And so, I think, now — the second time — the outcome
+      will be quite different. ⁣MICHAEL HUDSON: There’s a very good book that was published,
+      I think, in 2021, by Balihar Sanghera and Elmira Satybaldieva: Rentier Capitalism
+      and its Discontents: Power, Morality, and Resistance in Central Asia . I wrote
+      the introduction to that book (and I’ll put it on my website today) because it
+      describes, exactly, the trauma that occurred when U.S. oil companies came into
+      this region, in conjunction with the neoliberal rules that have led this region
+      to be more receptive to the Chinese Belt and Road [Initiative]. Chevron set its
+      eyes on these vast oil reserves, especially in Kazakhstan’s Tengiz oil field.
+      What Kazakhstan wanted, simply, was Western expertise. It wanted to develop it
+      itself. But what Chevron wanted was control. And that’s what any U.S. mining company
+      in this region is going to want: the same kind of control. It’ll promise the government
+      control; but the way that the IMF and World Bank have imposed free-market rules
+      is, there’s really nothing that the state can do to penalize these countries for
+      all the pollution that their mining is going to cause, especially for the rare
+      earths. And Trump has said: Well, we can get half of America’s rare earth needs,
+      just from Kazakhstan! Well, that’s really crazy, if you look at the fact, how
+      long it’s going to take to build all of these mining facilities. Who’s going to
+      do the refining? Will it be done in Kazakhstan? Or will it all be sent, as ores
+      are now being sent, to China to do? Who’s going to do the production? The agreement
+      seems so simple the way that Trump and the Americans describe it. And they always
+      screw the host countries in the small print of the contract, that really says,
+      well, anything you do to enforce cleanup costs and any damage we control, we’ll
+      just sue you through the International Investment Dispute Court. And you’ll have
+      to just pay us, not only you’ll have to pay us the damages, but we’ll arrest your
+      lawyer, like we did for Ecuador — the lawyer [Steven Donziger] who defended against
+      Chevron’s pollution there. You know? We’ll just make life hell for you. And I
+      would not be surprised to see Russia and China give a whole scenario of what may
+      happen to these countries if they actually let the new mining companies do to
+      them what Chevron has done. Chevron promised [to Kazakhstan] the agreement, 80%
+      of the production, and reflected this 80-20% profit-sharing agreement. But it
+      turns out that Kazakhstan ended up with only 2% of the project’s revenue. It was
+      a disaster — 2%! — for all of this oil that it was getting. It was the most unfavorable
+      oil contract that had been negotiated in the last few decades. And Kazakhstan
+      is still living with the aftermath of that. So, it has not had a good experience
+      with Western investment. Same thing in Kyrgyzstan. It suffered in a similar way
+      from the gold-mining polluters. These also came in — and gold mining is very polluting,
+      as, of course, is the rare earth and tungsten — and they’ve had a very unfortunate
+      thing — and the authors of the book that I just mentioned, I’ll read what they
+      say: “The neoliberal investment rules regime binds governments to agreements signed
+      with transnational corporations. If agreements are violated, investors feel justified
+      to take host states to international arbitration for damages. The rule of law
+      claimed that the state cannot infringe individual rights and freedoms, and that
+      the domain of private property must be protected from majoritarian politics.”
+      So, neoliberalism did not get rid of state planning. It has turned over what was
+      Soviet planning to the large corporations and the transnational firms in these
+      countries. That’s what they’ve already been experiencing. And I’m sure that the
+      governments want money now. And I’m sure that, as in the case of past investments,
+      all the way from 19th-century Persia, with its tobacco concessions to mining concessions
+      today, there’s all sorts of bribery going on to officials and covertness. That’s
+      how the system works. Crime is part of the free market. I think [R. H.] Tawney
+      said, “Property is not theft, but a good deal of theft becomes property,” and
+      I think that’s what you’ve seen in Central Asia so far; and it’s the U.S. game
+      plan for that region. ⁣RICHARD WOLFF: And you have to notice the international
+      law there. They’re protecting private property from “majoritarian” — What a wonderful
+      word! You could have said “democracy,” but you didn’t. You got rid of that term,
+      and you substituted something that sounds different: “Majoritarian.” We shouldn’t
+      let the majority have a decisive role there. When you do that, all you’re doing
+      is postponing the revolution that comes to demand what the majoritarian system
+      was supposed to give you, as a peaceful way of resolving these sorts of differences.
+      You have to always shake your head in wonder at what was possible. And I’m not
+      surprised that the Trump people — what else is their model? They don’t have anything
+      in their head but the last two, or three, hundred years of capitalist imperialism.
+      What else should occur to them? These are not critics. They’re not steeped in
+      a revolutionary, or rebellious, or socialist, or (whatever word you want) alternative
+      way of thinking. No, they deal with what exists — the capitalist system — and
+      how they’re going to keep it going. And if they need tungsten, and if they need
+      rare earths, then they look around the world, and go and invest in control, wherever
+      it is. I’m reminded of the way the British Empire worked. You know, once the United
+      States became independent, and now could develop, and discover, that in its territory
+      was something that world capitalism wanted. And in the 19th century, what world
+      capitalism wanted above all else was cotton, because the world was learning to
+      dress itself in cotton cloth of one kind or another. And the American South, once
+      you were able to bring Black Africans to work it, was a source of the cotton.
+      And the British Empire was now faced with the fact they have to pay for the cotton
+      because they didn’t have the colony anymore; so, they would have to pay these
+      Americans. So, the word went out in the British Empire that they should work at
+      Kew Gardens (outside of London) to plant cotton in every conceivable way to see
+      where in the world cotton could grow, that they could harvest for their cotton
+      industry. That’s why Uganda is a cotton plantation; why Egypt is the source of
+      cotton. They tried it everywhere. Where it didn’t work, they forgot it. Where
+      it did, they came down with their colonial regime to make sure they got it. And
+      they got a century of really good money out of their cotton textiles, by giving
+      the small African farmers of Uganda — nothing — you know, and by giving most of
+      the people in Egypt — nothing — and so on. We’re just replaying that old game
+      again, in new areas, with new issues that have to be gotten. But the framework
+      is exactly the same. ⁣MICHAEL HUDSON: And it’s a short-term framework, ultimately.
+      I mean, imperialism, neoliberalism is, basically, extractive: It looks for short-term
+      gains — hit-and-run — and, at a certain point, you’re forced to run because finally
+      there is a revolution to throw them over. China is playing (and Russia) in this
+      region, [they] are playing the long game; and the long game always works out in
+      the end. The question is, how long is it going to take Central Asia to become
+      part of the long game? And what can China and Russia do now to counter the attempt
+      at any regime change against any country that resists the expansion of the U.S.
+      mining interests? You have the equivalent of your cotton example: the U.S. simply
+      sees South/Central Asia as a source of minerals to replace China. China is able
+      to say: Well, we want to go beyond being a monoculture — being a monoculture is
+      what’s impoverished you; being a monoculture (a minerals monoculture, whether
+      it’s oil, or tungsten, or rare earth), is going to create a small layer of a client
+      oligarchy — a client kleptocracy, as you have had throughout the Soviet states
+      — or are you going to have social revolution? Well, of course, that’s what Russia
+      did in Persia, which is (as you correctly say), the Communist Party was very strong
+      there before the mass murders and assassination (Pinochet-style), by the shah
+      at the hands of the MI6 and CIA direction there. So, I could imagine that there
+      could be a dirty war and dirty politics, all of that, coming out of that. Is Southeast
+      Asia going to have a kleptocratic centralized bureaucracy state? Or will it be
+      a kind of — I like the term majoritarian — state that is probably the political
+      tactic that China is going to use to say: if you have our Belt and Road, you’d
+      much rather have us extend the money to develop your economy, than having it done
+      through the IMF and World Bank, and the corporations that are going to borrow
+      the money on Wall Street, invest there, and then all the profits are going to
+      be absorbed by paying interest (for us to pay interest to our own bankers and
+      our own offshore financial corporations and management corporations), really leaving
+      nothing for you. That’s the “Hollywood” accounting — or you could just say the
+      neoliberal accounting — that’s used to prevent host countries from getting the
+      benefits of their natural resources. And the whole attempt by the U.S. there is
+      to prevent these countries from using their patrimony — their natural resources
+      — as their tax base. Well, of course, that’s just what Adam Smith and the whole
+      classical economists — John Stuart Mill, [Karl] Marx, and the socialists — were
+      all advocating for Europe: Get rid of the rentier class; get rid of the landlords;
+      use land rent and natural-resource rent as the tax base. That’s what [David] Ricardo
+      was very clear about in his analysis. And China can pick up this classical economic
+      idea of a free market: a free market is one free from rent extraction — natural
+      resource — or land-rent, or mineral-rent extraction. China wants Central Asia
+      to be able to tax the revenue from its oil, tungsten, [and] other raw materials,
+      to use that to pay for the capital investments in the Belt and Road Initiative
+      that China wants to build. And so what you’re seeing unfolding in Central Asia
+      is the fight: Who is going to get the natural-resource rent? Will it be paid to
+      the Western private oil companies and mining companies? And leave the Central
+      Asian governments without these natural resources as a meaningful tax base? And
+      they’ll have to tax the population at large, preventing their industrial takeoff?
+      Or, will they say: No, the state owns all of these. We will do what we originally
+      wanted to do with oil — and what was promised us — when we first talked to the
+      American interests; that they would give us the expertise to develop our oil.
+      We will then get the profits — and we will use [the profits] to develop our country.
+      That didn’t happen the first time around. There has to be a learning curve here.
+      And China now has its vested interest in promoting this learning curve to say:
+      Use your natural resources. You can export all of the raw materials you want to
+      the West. We want you to export: source of earnings, source of dollar-earnings.
+      That is what will enable you to compensate us for the Belt-and-Road investment
+      that we’re trying to make to develop your whole economy; that will benefit the
+      population at large, by being more than just an extractive industry, but setting
+      up small-scale industry, larger-scale industry, moderniz[ing] your agriculture,
+      etc. That’s what is going to be unfolding in the next decade. ⁣NIMA ALKHORSHID:
+      Richard, the United States already faces overextension in Europe and the Indo-Pacific.
+      And the question would be: Can they meaningfully compete in Central Asia without
+      draining attention from other strategic theaters? Considering China’s presence
+      in Central Asia is not just economic, it’s infrastructural and institutional,
+      through SCO and BRICS. ⁣RICHARD WOLFF: Yeah, I was about to say the same thing
+      from a different angle. In classic imperialism, you had European countries — Britain,
+      France, Germany, Belgium, and so on — all using the same logic, the same system.
+      And the remarkable thing now is that China, Russia (particularly China), have
+      a different system; but that alone isn’t enough. They’re also the wealthier economic
+      bloc in the world. They have more money to provide to Central Asia, if it comes
+      right down to it. You add up the GDPs of the BRICS nations, and it far outdistances
+      the total GDP of the G7. These are no longer equal competitors. The Chinese have
+      — look what they’ve been doing. The Belt and Road is an enormous outlay of money,
+      that the Chinese have to do such a thing. It’s not just a nice plan. It’s not
+      just a profit grab. It is a long-term investment of an enormous amount of money.
+      And now that the United States has, basically, declared war on the rest of the
+      economy with that tariff craziness, they have created an incentive for the Chinese,
+      for the BRICS, but for almost every other country, to look elsewhere than the
+      United States, in the years ahead, to do business; because dealing with the United
+      States, now that it has turned into a nationalist, national-security-fetishizing
+      system, is an unreliable partner: It’s an unreliable place to sell — look what
+      the tariffs can do — it’s an unreliable place to buy, because everything is weaponized
+      in this American system now, and you don’t know whether your dependence on importing
+      something — I mean, there aren’t that many things the United States is important
+      in exporting anymore anyway; but whatever it is, that’s not reliable. Everybody
+      is trying to find secure business partners. Where? In the Chinese orbit or, at
+      least, in the non-American orbit, because it’s safer to be diversified out of
+      dependence on the United States. This means that the United States (as you put
+      it Nima, and you’re right) is not in a good position to engage in a struggle with
+      Russia and China in Central Asia, putting aside a military engagement; but in
+      an economic competition the odds aren’t so good for the United States at this
+      point. Even Kazakhstan and Kyrgyzstan must wonder, if what they’re going to be
+      doing is getting an awful lot of money, to do an awful lot of mining, to sell
+      an awful lot of exports, to the United States — they’re getting deeper into a
+      dependence, when the whole world is telling you: Go the other direction, have
+      less of a dependence on them. Here’s the joke you might think of: The Americans
+      lead them to borrow from the IMF; they develop all these instruments; they have
+      a revolution, and they sell tungsten and the rare earths — to China. Think about
+      it, because you need to think that way now. And that’s a reasonable way to think
+      of the law of events. That’s what’s changed, exactly that, in the world. ⁣MICHAEL
+      HUDSON: Nima, were you going to make an announcement? ⁣NIMA ALKHORSHID: Yeah,
+      go ahead. ⁣MICHAEL HUDSON: No, I thought you were going to make it. ⁣NIMA ALKHORSHID:
+      For our audience: if you want to follow Michael Hudson and Richard Wolff, you
+      can go to their websites: for Richard, go to “Democracy At Work”  https://www.democracyatwork.info/;
+      and for Michael, go to https://michael-hudson.com . [Note the hyphen.]
+
+      [Both Michael and Richard have Patreon sites: go to https://www. patreon.com /home
+      and search for “Michael Hudson” and “Democracy at Work.”]
+
+      [Democracy at Work also has a YouTube channel: @democracyatwrk.] And the other
+      point is, Richard, as we were talking about it before coming up, that many people
+      are stealing the videos that we’re making, these talks that we’re making, and
+      we cannot go after them, because there are a lot. ⁣RICHARD WOLFF: Let me say a
+      word about Nima, just to reinforce it. I call these fake videos. What they are
+      (and I’m talking mostly about those of my work, but I suspect it’s the same for
+      everybody): If you’re good at computers, if you’re good at video, if you know
+      how to use AI, and so forth, what is being produced are videos that have my face
+      (or something that looks like it), articulating a whole argument; and it’s my
+      mouth, and words sound like my voice — All of that is manufactured. It’s not me.
+      Other people are taking (for example, in one case) the upper part of my face,
+      so I’m recognizable (for people that are used to seeing me); and then the lower
+      part is somebody else’s mouth, articulating a script that I didn’t write and has
+      nothing to do with me. And the whole thing is packaged as “Here’s Richard Wolff.”
+      And people know enough about the work I do that, I guess, folks out there can
+      charge money to people who want to see that video, and they then collect the money
+      — and they simply used me as so much raw material. Now I got very worried, as
+      you can imagine — because you could imagine they could put in literally the opposite
+      of what I’m saying. Now, so far, they haven’t done that — although maybe I will
+      now get emails showing me that they have, but so far, what we’ve seen is not ideologically,
+      or analytically, opposite — but it’s just make-believe. It is just somebody else’s
+      creation. Therefore, if you want to be sure it’s actually me? Yes, go to democracyatwork.info;
+      or go to @democracyatwrk (YouTube channel); or go to @democracyatwork on Substack.
+      All of those are ours. We own those things, and we only put our own stuff up there.
+      That way, you can be sure it’s not a fake. ⁣MICHAEL HUDSON: Well, it’s the same
+      on my site, but specifically about Nima’s shows. People have been sending me copies
+      of Nima’s shows, with Richard and me, and at the bottom, there’s another host
+      (a fourth host!) that is sort of sitting there on their site, having your whole
+      show that we’ve just done. They may or may not pick up the transcript that I make
+      for these shows and that I post on my site, and send to you. And so it seems to
+      be that your show, Dialogue Works, appears on a non-Dialogue Works site, a whole
+      different site with Richard and me, with somebody else saying it. And they even
+      had the chutzpah to write me, and say: We’ve got a lot of viewer response to the
+      videos we’ve shown from you and Richard and Nima. Will you be a guest on our site?
+      As if somehow that would legitimize them all. So, we’re dealing with huge theft,
+      sponsored by YouTube, because YouTube will get more advertising from this — and
+      let a hundred flowers bloom. And I suspect that the viewers on these plagiarized
+      sites are not the kind of viewers that usually watch Nima’s show, or that read
+      what Richard and I write on our respective websites. That’s michael-hudson.com
+      1 , to be specific. That’s where you want to go. And I have a Patreon group. Richard
+      has a group. We have our own sites, but they are pirating what we do. And they’re
+      fake sites. And even, as Richard points out, they’ve gone to fake content for
+      us. That’s the AI revolution. Whoever controls the platform, the AI platform,
+      controls the content. And that is the equivalent of [George] Orwell: Who controls
+      the [past], controls the [future]. Well, who controls the AI system? Garbage in,
+      garbage out, that’s what we’re seeing. ⁣NIMA ALKHORSHID: Yeah. The problem is
+      that they’re getting more views than the original video! Before wrapping up, Richard,
+      I want to put up a clip of Donald Trump talking about tariffs before wrapping
+      up this session, Richard. Here is what Donald Trump said. ⁣DONALD TRUMP (CLIP):
+      I took in hundreds of millions of tariffs. I put tariffs on China very early.
+      Then when we got hit with COVID, we fought that. We did a very good job. But that
+      was COVID. It came from a certain place in China. LAURA INGRAHAM (CLIP): Another
+      great gift from China. ⁣DONALD TRUMP (CLIP): … is another little gift we got.
+      But look, I get along great with President Xi. I get along great with China. But
+      the only way you’re going to get along well with China is you have to deal from
+      a position of strength. We have tremendous strength because of tariffs. We have
+      tremendous strength because of what I’ve done. I’ve rebuilt our military; and
+      they have a lot of missiles, but we have a lot of missiles too. And they don’t
+      want to mess around with us. ⁣RICHARD WOLFF: Yeah, well, you know, this is the
+      country that invented the cowboy. And the cowboy mentality is widespread. Lots
+      of little boys grow up with a model of the very impressive fellow up on the horse
+      shooting people, that are usually browner skin and the cowboy, and all the rest
+      of it. And that’s what we have here. You could have shown us a clip in which he
+      explains, with glee in his eye, how he is killing those drug traffickers that
+      he shoots in the boats. And that when he finishes with them, they’ll be dead.
+      And he says the word “dead” with as much intensity as he can muster. You know,
+      killing drug traffickers. We arrest people in the drug trade in the United States,
+      every day. We have an enormous drug trade in this country, and we arrest people,
+      one place or another, every day. We never kill them. Whether they’re guilty or
+      innocent, we don’t have capital punishment for the people in the drug trade —
+      until Mr. Trump decided to be the judge, and the jury, and the lawyer, and the
+      evidence, and go directly from “I see a person in a boat” to executing them. It
+      is so bad that the British intelligence agency — Well, what you’re seeing here
+      with his discussion about China — and he rebuilt the military — it’s all the same.
+      It’s all this elaborate theater of Mr. Tough Guy. It’s not serious, except that
+      this is still a rich country, it still has a powerful military, it still can do
+      damage. Mostly, what the tariff program did — is damage. And let me conclude with
+      one thing: We are all now awaiting the decision of the Supreme Court as to whether
+      the tariffs are a legal action, or not. Now, here’s why that’s important, regardless
+      of what the outcome is. The President of the United States has attacked, and damaged,
+      countless countries, countless corporations, hurt by the tariffs. And he did that
+      knowing that they might be unconstitutional. He put the country through an experience,
+      the costs of which will be enormous — and already are — when he didn’t even know,
+      or take the time or trouble, because he’s a cowboy and reaches right for his gun
+      — So he did the tariffs — and now, by the way, one of his defenses, recently pleading
+      with the Supreme Court, was to tell them how disruptive it would be of the world
+      economy, if he had to undo all the — Exactly! How could you do that? What kind
+      of a political leader does such a thing? Wow. We’re talking about shooting from
+      the hip in ways that already are, and can be stupefyingly self-destructive. ⁣MICHAEL
+      HUDSON: Aha, Richard, this is exactly what Trump is planning, the sword that Trump
+      is holding over Central Asia. He can say that, well, if you’re going to reorient
+      your export to the United States, we can put tariffs on your exports and we can
+      create chaos in you, if you make any move to accommodate China, Russia, Iran,
+      or anyone on our enemies list. By investing in Central Asian minerals, oil, and
+      other products, this gives Trump the ability to create chaos in them, and to use
+      the denial of the U.S. market to create control. Nima’s quote showed Trump talking
+      about missiles. He’s not going to use missiles in Southeast Asia. He’s going to
+      use al-Qaeda. This is America’s war of terror. They call it the war on terror,
+      but it’s a war of terror. It’s using al-Qaeda assassinations, CIA assassinations,
+      National Endowment for Democracy regime change, and all of that; and they’re going
+      to try to bring al-Qaeda to any Central Asian countries that act in a way that
+      the United States does not like. And you’ll see in Central Asia exactly what al-Qaeda
+      did in Iraq, and in Syria. And the fact that, two days ago, you had the al-Qaeda
+      leader, [Abu Mohammad al-]Jolani, appear at the White House, shaking hands with
+      Trump, and playing basketball with the U.S. CENTCOM generals! Now that, you know,
+      there’s no longer a $10 million [bounty] on your head, keep killing the Christians.
+      It’s okay. It’s true that we accuse other countries of killing Christians, and
+      [we] are opposing them; but you can kill Christians because you’re our Christian
+      killer, not their Christian killer. You’re seeing the hypocrisy of this whole,
+      just, pretense, this paper-tiger mask of the United States falling away, being
+      stripped away in the last few days, for everyone to see. ⁣NIMA ALKHORSHID: Yeah.
+      I think we’re about to wrap it up. Thank you so much, Richard and Michael, for
+      being with us today. Great pleasure to talk to you two. ⁣RICHARD WOLFF: Same here.
+      Let’s hope that we made a little progress against the fake videos, too. ⁣NIMA
+      ALKHORSHID: Yeah, I hope so. ⁣MICHAEL HUDSON: Yep. ⁣NIMA ALKHORSHID: Not sure,
+      but I hope so. See you soon. Bye-bye. Transcription and Diarization: https://scripthub.dev
+      Editing: Ton Yeh & Kimberly Mims Review: ced Photo by Farhodjon Chinberdiev on
+      Unsplash The post Cowboy Capitalism in Central Asia first appeared on Michael
+      Hudson .'
+    one_sentence_summary: In a discussion about Donald Trump's intentions in Central
+      Asia, Michael Hudson expresses skepticism about the feasibility of Trump's plans
+      to invest $35 billion in the region, particularly regarding the extraction of
+      tungsten and rare earths in Kazakhstan.
+    paragraph_summary: In a discussion on November 13, 2025, Nima Alkhorchid, Michael
+      Hudson, and Richard Wolff examined Donald Trump's ambitions for Central Asia,
+      particularly his proposal for a $35 billion investment in Uzbekistan and potential
+      military bases in the region. Hudson expressed skepticism about the feasibility
+      of Trump's plans, noting that while the U.S. aims to reduce reliance on China
+      for tungsten and rare earths—minerals that Kazakhstan possesses—past American
+      investments in Central Asia, particularly in oil, have led to significant backlash
+      and anti-American sentiment due to environmental disasters and local corruption.
+      He highlighted that the financing for these initiatives is expected to come from
+      the International Monetary Fund and World Bank, which have previously contributed
+      to the region's neoliberal challenges, resulting in kleptocratic governance and
+      wealth concentration among local elites.
+    published: '2025-11-20T23:37:51+00:00'
+  - title: Cowboy Capitalism in Central Asia
+    url: https://michael-hudson.com/2025/11/cowboy-capitalism-in-central-asia/
+    text: '⁣NIMA ALKHORSHID: Hi everybody. Today is Thursday, November 13, 2025, and
+      our friends Michael Hudson and Richard Wolff are back with us. Welcome back. ⁣RICHARD
+      WOLFF: Glad to be here. ⁣NIMA ALKHORSHID: Let me start, Michael, with you and
+      what has happened with Donald Trump and his policies in Central Asia. Donald Trump
+      says that he’s going to reconquer the heartland, Central Asia. Really? What’s
+      going on in your opinion? He’s talking about an investment of $35 billion to Uzbekistan.
+      And they’re talking about Kazakhstan and maybe the base going back to these countries.
+      What is the importance of Central Asia in your opinion? ⁣MICHAEL HUDSON: The ostensible
+      aim that he’s talked about is having American companies invest in tungsten and
+      rare earths. Kazakhstan has very heavy tungsten holds and America thinks that
+      it can replace reliance on China for tungsten. And the dream of Trump — almost
+      obsession — is rare earths, but I just don’t see Kazakhstan being really much
+      of a source of rare earths. American oil companies have invested heavily in Kazakhstan,
+      in Kyrgyzstan — and it was a disaster. It was called ecocide. The oil workers’
+      unions all rose up and fought against it. And there’s a very strong anti-American
+      feeling, certainly against American mining companies and oil companies, throughout
+      Central Asia. That’s basically what Trump is going to be fighting about. And he’s
+      hoping that the financing for this is not going to come from the U.S. government,
+      [that] it’s going to come from the International Monetary Fund and the World Bank.
+      They were [the ones] who originally brought neoliberalism to Kazakhstan and Central
+      Asia — and it was a disaster. What happened in Central Asia is pretty much what
+      happened in the Baltics: Local kleptocracies took over. They registered the property
+      in their own names. They made deals with the Western companies for payoffs and
+      kept their money in the West. They took all of the best housing for themselves.
+      And the IMF and the World Bank introduced the “rule of law,” meaning that it enabled
+      the governments to foreclose on debtors, people who had bought their houses on
+      credit. Microcredit was the big thing that was sponsored by the Americans and
+      the IMF and by the neoliberals. It worked mainly through women because you could
+      bring social pressure on women to repay all of the debts. The suicide rates went
+      up; so, the women actually led the opposition to the western influence throughout
+      Kazakhstan and Kyrgyzstan, and the other countries there. The original reaction
+      against the Soviet Union has given way now to a general feeling that things were
+      much better back then. At least people had security of their housing. There wasn’t
+      polarization; and there wasn’t a wealthy billionaire class (that has emerged in
+      these countries); and nepotism by the rulers of these countries to their own personal
+      families. It’s really back to the 19th century, in a way. So what we’re seeing
+      is more about minerals now. The 19th century was more about crops and opium, and
+      things like that. But all of this is really just a replay of what was called the
+      Great Game (the British called it the Eastern Question): the long fight between
+      Britain and Russia — and now the United States against Russia and China — for
+      control of everything, from Iran, all the way across Central Asia, to the Uyghur
+      sections of Western China. You’re seeing this geopolitical game, with mining companies
+      playing the role; the mining companies are probably the most unpopular [companies]
+      in the entire region there. We haven’t heard a word about what China and Russia
+      are doing — I think they’re just letting America try to play its cards — but,
+      last week, the Kazakhstan foreign minister was in Washington trying to talk up
+      Kazakhstan to make deals. It seems that, certainly, the existing government is
+      trying to make a deal that’s going to benefit it. I think they met with the Secretary
+      of Commerce Howard Lutnick, who had negotiated a deal for Kazakhstan’s railways
+      before. There’s now a proposal between the Cove Kaz (a capital fund) to invest
+      in mining, some kind of profit-sharing agreement with Kazakhstan that may not
+      know all the intricacies of the “Hollywood” accounting that doesn’t really leave
+      many profits to be shared — after paying all of the interest charges and management
+      charges, and other charges that are all put down. The Great Game now is between
+      neoliberal mining interests (and what the Kazakhstani people are calling ecocide:
+      destruction of the environment from all of the pollution and the spills that the
+      oil companies have caused) and China (China’s Belt and Road Initiative, on quite
+      different terms, and with a different philosophy from neoliberalism). It’s not
+      only a geopolitical game now; it’s a game between what kind of economic arrangements
+      are going to be made. Will they be those of (more or less socialist-type) BRICS
+      arrangements; or will they be the neoliberal arrangements that the United States
+      is trying to push right now? ⁣RICHARD WOLFF: I would add two dimensions to it.
+      One, this strikes me as, stunningly, a replay of 19th and 20th century imperialism.
+      This is Western countries, in this case the United States, seeing the opportunity
+      for profit, by either mining — which is as old as imperialism, going back to gold
+      and silver, and all the other things, that have been luring Europeans to go all
+      over the world looking for places where they can get it cheaply, or steal it —
+      or whatever is necessary, because it is so nicely liquid for them to use in the
+      way they want. Sure, add tungsten, add rare earths. It was always shifting with
+      the technologies that we have available, which determine which resource under
+      the ground is more extractively interesting, for profit, than the other. So now,
+      there’s these new ones, and now there’s a new place to go get them, and the United
+      States is going to try to do it — get other people to pay for it — you know, despoil
+      the environment. That’s what they always did. This is not new. I want to remind
+      someone of a lesson. And the lesson is that the countries that were able to break
+      away from the global capitalist imperialist arrangement — Russia in the 20th century,
+      and China now — are the success stories. Russia was, then, under the Soviet Union
+      — I want to remind people, since it’s so fashionable not to know this, that Soviet
+      economic growth, from the time of the revolution in 1917 ‘til the time of the
+      dissolution in 1989, was the success story of the 20th century. The most backward
+      European country — that had to go through (ready?) losing World War I; then a
+      civil war and a revolution; and then collectivization of agriculture; and then
+      World War II — still came out at the end of the century, having grown faster than
+      anybody else, despite all of those setbacks. Extraordinary story! And China, we
+      all know, is the other one. What do they have in common? They broke away from
+      the colonial capitalist system. They’re the success stories, the ones who did
+      not allow what they’re discussing for Kyrgyzstan or Kazakhstan, at this point.
+      And that’s the first thing. The second observation (just adding to what Michael
+      talked about) is, I am very aware — perhaps I am misguided here — of all the machinations:
+      the 76 — because I keep count — the 76 dead people that were killed in those boats,
+      the so-called narco-boats, in the Caribbean and the Pacific. I’m aware that that
+      is a process, together with the positioning of the aircraft carrier Gerald Ford
+      that is now off the coast of Venezuela. I’m aware that there’s a positioning to
+      do a little regime change in Venezuela, in order to reaffirm the Monroe Doctrine,
+      and to grab one of the great oil repositories on this planet. Here comes the punchline:
+      The Russians, with the implicit backing of the Chinese, have warned the United
+      States not to do that. Now, this is an important — granted, still symbolic, but
+      an important — step. It’s that the Monroe Doctrine has just been nullified. The
+      United States does not have some sort of understood right to dominate in the Western
+      Hemisphere. The Russians are announcing, they’re here too. And if the Russians
+      are there with ships and navy, which they apparently are, then the Chinese are
+      not far behind. My suspicion is, part of the attractiveness of having these meetings
+      in the White House is for Mr. Trump to say: Okay, if I have to take you seriously
+      in the Western Hemisphere, well, you’re going to have to take me seriously, even
+      more than you thought you did. Look here, I’m doing stuff right in your neighborhood
+      here, with the Central Asian governments. So, you do have this geopolitical maneuvering
+      around — it’s part of the fluid adjustment of the world to the fact that the West
+      is not the dominant economic player anymore. And everybody, the West included,
+      is re-maneuvering, trying to figure out how to stay afloat in this rapidly shifting
+      global situation. ⁣MICHAEL HUDSON: I think you’re right to bring up the Monroe
+      Doctrine because the flip side of that was the promise — that Europe, you stay
+      out of the Western Hemisphere, we’ll stay out of your hemisphere — and that’s,
+      exactly, not happening. So, you’re quite right when you say that Russia and China
+      are saying: You’ve broken the deal. You’ve come over here. Okay, tit for tat:
+      What we’re doing is symmetrical to your reactions and your actions. Basically,
+      you’re seeing Russia and China in this, reacting against the West. But again,
+      all of this goes back to [Halford] Mackinder’s heartland versus the British-controlled
+      seacoast and commercial areas. The whole idea of China’s and Russia’s (but mainly
+      China’s) plans for the last 20 years has been to expand overland through Central
+      Asia. There’s a whole attempt to build railroads. All of this [is a replay of]
+      the late 19th century, starting with Persia. It was the Persian Empire that controlled
+      most of this region. And in the late 18th century, Russia reconquered what had
+      been the northern Persian Empire: Azerbaijan, Georgia, and part of Dagestan were
+      there. The Qajar, a local tribal dynasty, took over the shah of Iran [Persia]
+      in 1789 and ruled it until 1925, and essentially reconquered this area. Russia
+      then conquered it back, and Russia then used this conquest of what had been northern
+      Persia to extend the railroad all the way through Kazakhstan and Central Asia,
+      further east. Well, Britain opposed all of this, and fought the Crimean War against
+      Russia to say, Russia is our existential enemy. You can look at the U.S. and China
+      today: that was Russia and Britain back in the Crimean War; and the sequel to
+      that was the Anglo-Persian War (1856-1857) over who’s going to control the route
+      to Afghanistan, which Persia had controlled. And it was fought over the city of
+      Herat in western Afghanistan. The British said: We’ve got to block Russia from
+      getting access to India — because India was still the crown jewel that was giving
+      financial support for the British Empire. Essentially, Britain defeated Russia,
+      defeated Persia, and took control of that. And the next half century, all the
+      way through the late 19th century, saw Russia and the British both asking for
+      concessions to build a railroad through this region, which was still largely under
+      Persian control. Well, they were able to block each other; and Persia wasn’t able
+      to build a railroad until, finally, in the mid-1930s, the state did. It was afraid
+      of getting foreign concessions. The trauma of British investment — all the way
+      from Persia, further east — was so destructive that there was a general pro-Russian
+      feeling. After the Russian Revolution, the Russians had the support of the population
+      in these regions; there was ongoing warfare over who was going to control everything
+      from Persia (that didn’t become Iran until later) and Central Asia. And, basically,
+      the British intervened with the military and settled things by overthrowing the
+      Qajar tribal dynasty with the two shahs (the Pahlavi dynasty), the father and
+      the son who did a police state. When Persia granted an oil concession to [William
+      Knox] D’Arcy of England in 1901, that led to the discovery of oil a decade later;
+      and I think what happened after that, in Persia, is what’s going to happen in
+      Central Asia. The Iranians elected Mossadegh as a leader in the early 1950s. The
+      British MI6 and the CIA overthrew him, and the shah tightened up a police state
+      that was so awful, so oppressive, that the only place that people were able to
+      meet to resist was in the mosques. And the result is that there was a Shiite revolution
+      that overthrew the shah. This is pretty much what happened in the 1890s when the
+      opposition to the British takeover of Persia’s tobacco and opium trade was opposed
+      primarily by the religious leaders, who imposed a fatwa against smoking; and the
+      water pipes were all broken; and, essentially, the shah (the Qajar tribal shah
+      who had ruled for 50 years) was assassinated, and the British put in their own
+      proxies. This is the kind of fight that you’re going to be seeing, with what’s
+      now called the “color revolution,” in Southeast Asia. If the U.S. plans for mining
+      and for control, and the support of the neoliberal kleptocracy succeed in this
+      area, there’s going to be the same kind of revolution that there has been in other
+      countries. This is going to be the dynamic that’s going to shape the next decade.
+      ⁣NIMA ALKHORSHID: Yeah. Richard, what’s going on with the case of Kazakhstan and
+      Uzbekistan? They’re both deeply connected to China’s Belt and Road Initiative
+      and Russia’s Eurasian Economic Union. And, you know, looking at the reality of
+      the region, can these countries realistically pivot toward Washington, without
+      jeopardizing their existing strategic dependencies? ⁣RICHARD WOLFF: I doubt it.
+      I doubt it a great deal, and I’ll tell you two reasons why. One, there’s a part
+      of the history (I can add to everything that Michael just said), which is, in
+      Persia, as a resistance against what was being done by the British, and by those
+      parts of Persian society that were allied to the British, was to develop one of
+      the largest and most well-developed communist parties — the Tudeh party — in the
+      world. This kind of behavior by the West didn’t just provoke the religious opposition
+      — it did; and for the time being, that became quite dominant, right into the present
+      — but that religious opposition existed, and coexisted, with a very powerful secular
+      opposition, which, in the case of Iran/Persia, was the Tudeh party; which had
+      to be ruthlessly destroyed so that the religious opposition could survive. And
+      that continues. The oppositions inside Iran, to this day, have their roots in
+      that Tudeh party in many, many ways, which the people of Iran have explained to
+      me on countless occasions. So, I would be careful because I think this kind of
+      behavior that we’re seeing — this sort of, if you like it, renewal of classical
+      imperialism — it may strengthen, in some ways, religious opposition; but it will
+      also give a whole new lease on life to a non-religious, to a secular socialist,
+      or communist, resistance, which has deep roots there. The second reason I expect
+      that, is because the ability of Russia and China, separately and together, to
+      help that Tudeh-based opposition revive, is much greater than anything that Russia
+      or China had been able to do before. And they will now have a vested interest
+      in being the support to an anti-West basis that already exists here, on many levels.
+      So, yeah, you might re-engage that old battle the way Michael has sketched it
+      out; but the conditions, and the strength of the relative players there, is not
+      what it was the first time. And so, I think, now — the second time — the outcome
+      will be quite different. ⁣MICHAEL HUDSON: There’s a very good book that was published,
+      I think, in 2021, by Balihar Sanghera and Elmira Satybaldieva: Rentier Capitalism
+      and its Discontents: Power, Morality, and Resistance in Central Asia . I wrote
+      the introduction to that book (and I’ll put it on my website today) because it
+      describes, exactly, the trauma that occurred when U.S. oil companies came into
+      this region, in conjunction with the neoliberal rules that have led this region
+      to be more receptive to the Chinese Belt and Road [Initiative]. Chevron set its
+      eyes on these vast oil reserves, especially in Kazakhstan’s Tengiz oil field.
+      What Kazakhstan wanted, simply, was Western expertise. It wanted to develop it
+      itself. But what Chevron wanted was control. And that’s what any U.S. mining company
+      in this region is going to want: the same kind of control. It’ll promise the government
+      control; but the way that the IMF and World Bank have imposed free-market rules
+      is, there’s really nothing that the state can do to penalize these countries for
+      all the pollution that their mining is going to cause, especially for the rare
+      earths. And Trump has said: Well, we can get half of America’s rare earth needs,
+      just from Kazakhstan! Well, that’s really crazy, if you look at the fact, how
+      long it’s going to take to build all of these mining facilities. Who’s going to
+      do the refining? Will it be done in Kazakhstan? Or will it all be sent, as ores
+      are now being sent, to China to do? Who’s going to do the production? The agreement
+      seems so simple the way that Trump and the Americans describe it. And they always
+      screw the host countries in the small print of the contract, that really says,
+      well, anything you do to enforce cleanup costs and any damage we control, we’ll
+      just sue you through the International Investment Dispute Court. And you’ll have
+      to just pay us, not only you’ll have to pay us the damages, but we’ll arrest your
+      lawyer, like we did for Ecuador — the lawyer [Steven Donziger] who defended against
+      Chevron’s pollution there. You know? We’ll just make life hell for you. And I
+      would not be surprised to see Russia and China give a whole scenario of what may
+      happen to these countries if they actually let the new mining companies do to
+      them what Chevron has done. Chevron promised [to Kazakhstan] the agreement, 80%
+      of the production, and reflected this 80-20% profit-sharing agreement. But it
+      turns out that Kazakhstan ended up with only 2% of the project’s revenue. It was
+      a disaster — 2%! — for all of this oil that it was getting. It was the most unfavorable
+      oil contract that had been negotiated in the last few decades. And Kazakhstan
+      is still living with the aftermath of that. So, it has not had a good experience
+      with Western investment. Same thing in Kyrgyzstan. It suffered in a similar way
+      from the gold-mining polluters. These also came in — and gold mining is very polluting,
+      as, of course, is the rare earth and tungsten — and they’ve had a very unfortunate
+      thing — and the authors of the book that I just mentioned, I’ll read what they
+      say: “The neoliberal investment rules regime binds governments to agreements signed
+      with transnational corporations. If agreements are violated, investors feel justified
+      to take host states to international arbitration for damages. The rule of law
+      claimed that the state cannot infringe individual rights and freedoms, and that
+      the domain of private property must be protected from majoritarian politics.”
+      So, neoliberalism did not get rid of state planning. It has turned over what was
+      Soviet planning to the large corporations and the transnational firms in these
+      countries. That’s what they’ve already been experiencing. And I’m sure that the
+      governments want money now. And I’m sure that, as in the case of past investments,
+      all the way from 19th-century Persia, with its tobacco concessions to mining concessions
+      today, there’s all sorts of bribery going on to officials and covertness. That’s
+      how the system works. Crime is part of the free market. I think [R. H.] Tawney
+      said, “Property is not theft, but a good deal of theft becomes property,” and
+      I think that’s what you’ve seen in Central Asia so far; and it’s the U.S. game
+      plan for that region. ⁣RICHARD WOLFF: And you have to notice the international
+      law there. They’re protecting private property from “majoritarian” — What a wonderful
+      word! You could have said “democracy,” but you didn’t. You got rid of that term,
+      and you substituted something that sounds different: “Majoritarian.” We shouldn’t
+      let the majority have a decisive role there. When you do that, all you’re doing
+      is postponing the revolution that comes to demand what the majoritarian system
+      was supposed to give you, as a peaceful way of resolving these sorts of differences.
+      You have to always shake your head in wonder at what was possible. And I’m not
+      surprised that the Trump people — what else is their model? They don’t have anything
+      in their head but the last two, or three, hundred years of capitalist imperialism.
+      What else should occur to them? These are not critics. They’re not steeped in
+      a revolutionary, or rebellious, or socialist, or (whatever word you want) alternative
+      way of thinking. No, they deal with what exists — the capitalist system — and
+      how they’re going to keep it going. And if they need tungsten, and if they need
+      rare earths, then they look around the world, and go and invest in control, wherever
+      it is. I’m reminded of the way the British Empire worked. You know, once the United
+      States became independent, and now could develop, and discover, that in its territory
+      was something that world capitalism wanted. And in the 19th century, what world
+      capitalism wanted above all else was cotton, because the world was learning to
+      dress itself in cotton cloth of one kind or another. And the American South, once
+      you were able to bring Black Africans to work it, was a source of the cotton.
+      And the British Empire was now faced with the fact they have to pay for the cotton
+      because they didn’t have the colony anymore; so, they would have to pay these
+      Americans. So, the word went out in the British Empire that they should work at
+      Kew Gardens (outside of London) to plant cotton in every conceivable way to see
+      where in the world cotton could grow, that they could harvest for their cotton
+      industry. That’s why Uganda is a cotton plantation; why Egypt is the source of
+      cotton. They tried it everywhere. Where it didn’t work, they forgot it. Where
+      it did, they came down with their colonial regime to make sure they got it. And
+      they got a century of really good money out of their cotton textiles, by giving
+      the small African farmers of Uganda — nothing — you know, and by giving most of
+      the people in Egypt — nothing — and so on. We’re just replaying that old game
+      again, in new areas, with new issues that have to be gotten. But the framework
+      is exactly the same. ⁣MICHAEL HUDSON: And it’s a short-term framework, ultimately.
+      I mean, imperialism, neoliberalism is, basically, extractive: It looks for short-term
+      gains — hit-and-run — and, at a certain point, you’re forced to run because finally
+      there is a revolution to throw them over. China is playing (and Russia) in this
+      region, [they] are playing the long game; and the long game always works out in
+      the end. The question is, how long is it going to take Central Asia to become
+      part of the long game? And what can China and Russia do now to counter the attempt
+      at any regime change against any country that resists the expansion of the U.S.
+      mining interests? You have the equivalent of your cotton example: the U.S. simply
+      sees South/Central Asia as a source of minerals to replace China. China is able
+      to say: Well, we want to go beyond being a monoculture — being a monoculture is
+      what’s impoverished you; being a monoculture (a minerals monoculture, whether
+      it’s oil, or tungsten, or rare earth), is going to create a small layer of a client
+      oligarchy — a client kleptocracy, as you have had throughout the Soviet states
+      — or are you going to have social revolution? Well, of course, that’s what Russia
+      did in Persia, which is (as you correctly say), the Communist Party was very strong
+      there before the mass murders and assassination (Pinochet-style), by the shah
+      at the hands of the MI6 and CIA direction there. So, I could imagine that there
+      could be a dirty war and dirty politics, all of that, coming out of that. Is Southeast
+      Asia going to have a kleptocratic centralized bureaucracy state? Or will it be
+      a kind of — I like the term majoritarian — state that is probably the political
+      tactic that China is going to use to say: if you have our Belt and Road, you’d
+      much rather have us extend the money to develop your economy, than having it done
+      through the IMF and World Bank, and the corporations that are going to borrow
+      the money on Wall Street, invest there, and then all the profits are going to
+      be absorbed by paying interest (for us to pay interest to our own bankers and
+      our own offshore financial corporations and management corporations), really leaving
+      nothing for you. That’s the “Hollywood” accounting — or you could just say the
+      neoliberal accounting — that’s used to prevent host countries from getting the
+      benefits of their natural resources. And the whole attempt by the U.S. there is
+      to prevent these countries from using their patrimony — their natural resources
+      — as their tax base. Well, of course, that’s just what Adam Smith and the whole
+      classical economists — John Stuart Mill, [Karl] Marx, and the socialists — were
+      all advocating for Europe: Get rid of the rentier class; get rid of the landlords;
+      use land rent and natural-resource rent as the tax base. That’s what [David] Ricardo
+      was very clear about in his analysis. And China can pick up this classical economic
+      idea of a free market: a free market is one free from rent extraction — natural
+      resource — or land-rent, or mineral-rent extraction. China wants Central Asia
+      to be able to tax the revenue from its oil, tungsten, [and] other raw materials,
+      to use that to pay for the capital investments in the Belt and Road Initiative
+      that China wants to build. And so what you’re seeing unfolding in Central Asia
+      is the fight: Who is going to get the natural-resource rent? Will it be paid to
+      the Western private oil companies and mining companies? And leave the Central
+      Asian governments without these natural resources as a meaningful tax base? And
+      they’ll have to tax the population at large, preventing their industrial takeoff?
+      Or, will they say: No, the state owns all of these. We will do what we originally
+      wanted to do with oil — and what was promised us — when we first talked to the
+      American interests; that they would give us the expertise to develop our oil.
+      We will then get the profits — and we will use [the profits] to develop our country.
+      That didn’t happen the first time around. There has to be a learning curve here.
+      And China now has its vested interest in promoting this learning curve to say:
+      Use your natural resources. You can export all of the raw materials you want to
+      the West. We want you to export: source of earnings, source of dollar-earnings.
+      That is what will enable you to compensate us for the Belt-and-Road investment
+      that we’re trying to make to develop your whole economy; that will benefit the
+      population at large, by being more than just an extractive industry, but setting
+      up small-scale industry, larger-scale industry, moderniz[ing] your agriculture,
+      etc. That’s what is going to be unfolding in the next decade. ⁣NIMA ALKHORSHID:
+      Richard, the United States already faces overextension in Europe and the Indo-Pacific.
+      And the question would be: Can they meaningfully compete in Central Asia without
+      draining attention from other strategic theaters? Considering China’s presence
+      in Central Asia is not just economic, it’s infrastructural and institutional,
+      through SCO and BRICS. ⁣RICHARD WOLFF: Yeah, I was about to say the same thing
+      from a different angle. In classic imperialism, you had European countries — Britain,
+      France, Germany, Belgium, and so on — all using the same logic, the same system.
+      And the remarkable thing now is that China, Russia (particularly China), have
+      a different system; but that alone isn’t enough. They’re also the wealthier economic
+      bloc in the world. They have more money to provide to Central Asia, if it comes
+      right down to it. You add up the GDPs of the BRICS nations, and it far outdistances
+      the total GDP of the G7. These are no longer equal competitors. The Chinese have
+      — look what they’ve been doing. The Belt and Road is an enormous outlay of money,
+      that the Chinese have to do such a thing. It’s not just a nice plan. It’s not
+      just a profit grab. It is a long-term investment of an enormous amount of money.
+      And now that the United States has, basically, declared war on the rest of the
+      economy with that tariff craziness, they have created an incentive for the Chinese,
+      for the BRICS, but for almost every other country, to look elsewhere than the
+      United States, in the years ahead, to do business; because dealing with the United
+      States, now that it has turned into a nationalist, national-security-fetishizing
+      system, is an unreliable partner: It’s an unreliable place to sell — look what
+      the tariffs can do — it’s an unreliable place to buy, because everything is weaponized
+      in this American system now, and you don’t know whether your dependence on importing
+      something — I mean, there aren’t that many things the United States is important
+      in exporting anymore anyway; but whatever it is, that’s not reliable. Everybody
+      is trying to find secure business partners. Where? In the Chinese orbit or, at
+      least, in the non-American orbit, because it’s safer to be diversified out of
+      dependence on the United States. This means that the United States (as you put
+      it Nima, and you’re right) is not in a good position to engage in a struggle with
+      Russia and China in Central Asia, putting aside a military engagement; but in
+      an economic competition the odds aren’t so good for the United States at this
+      point. Even Kazakhstan and Kyrgyzstan must wonder, if what they’re going to be
+      doing is getting an awful lot of money, to do an awful lot of mining, to sell
+      an awful lot of exports, to the United States — they’re getting deeper into a
+      dependence, when the whole world is telling you: Go the other direction, have
+      less of a dependence on them. Here’s the joke you might think of: The Americans
+      lead them to borrow from the IMF; they develop all these instruments; they have
+      a revolution, and they sell tungsten and the rare earths — to China. Think about
+      it, because you need to think that way now. And that’s a reasonable way to think
+      of the law of events. That’s what’s changed, exactly that, in the world. ⁣MICHAEL
+      HUDSON: Nima, were you going to make an announcement? ⁣NIMA ALKHORSHID: Yeah,
+      go ahead. ⁣MICHAEL HUDSON: No, I thought you were going to make it. ⁣NIMA ALKHORSHID:
+      For our audience: if you want to follow Michael Hudson and Richard Wolff, you
+      can go to their websites: for Richard, go to “Democracy At Work”  https://www.democracyatwork.info/;
+      and for Michael, go to https://michael-hudson.com . [Note the hyphen.]
+
+      [Both Michael and Richard have Patreon sites: go to https://www. patreon.com /home
+      and search for “Michael Hudson” and “Democracy at Work.”]
+
+      [Democracy at Work also has a YouTube channel: @democracyatwrk.] And the other
+      point is, Richard, as we were talking about it before coming up, that many people
+      are stealing the videos that we’re making, these talks that we’re making, and
+      we cannot go after them, because there are a lot. ⁣RICHARD WOLFF: Let me say a
+      word about Nima, just to reinforce it. I call these fake videos. What they are
+      (and I’m talking mostly about those of my work, but I suspect it’s the same for
+      everybody): If you’re good at computers, if you’re good at video, if you know
+      how to use AI, and so forth, what is being produced are videos that have my face
+      (or something that looks like it), articulating a whole argument; and it’s my
+      mouth, and words sound like my voice — All of that is manufactured. It’s not me.
+      Other people are taking (for example, in one case) the upper part of my face,
+      so I’m recognizable (for people that are used to seeing me); and then the lower
+      part is somebody else’s mouth, articulating a script that I didn’t write and has
+      nothing to do with me. And the whole thing is packaged as “Here’s Richard Wolff.”
+      And people know enough about the work I do that, I guess, folks out there can
+      charge money to people who want to see that video, and they then collect the money
+      — and they simply used me as so much raw material. Now I got very worried, as
+      you can imagine — because you could imagine they could put in literally the opposite
+      of what I’m saying. Now, so far, they haven’t done that — although maybe I will
+      now get emails showing me that they have, but so far, what we’ve seen is not ideologically,
+      or analytically, opposite — but it’s just make-believe. It is just somebody else’s
+      creation. Therefore, if you want to be sure it’s actually me? Yes, go to democracyatwork.info;
+      or go to @democracyatwrk (YouTube channel); or go to @democracyatwork on Substack.
+      All of those are ours. We own those things, and we only put our own stuff up there.
+      That way, you can be sure it’s not a fake. ⁣MICHAEL HUDSON: Well, it’s the same
+      on my site, but specifically about Nima’s shows. People have been sending me copies
+      of Nima’s shows, with Richard and me, and at the bottom, there’s another host
+      (a fourth host!) that is sort of sitting there on their site, having your whole
+      show that we’ve just done. They may or may not pick up the transcript that I make
+      for these shows and that I post on my site, and send to you. And so it seems to
+      be that your show, Dialogue Works, appears on a non-Dialogue Works site, a whole
+      different site with Richard and me, with somebody else saying it. And they even
+      had the chutzpah to write me, and say: We’ve got a lot of viewer response to the
+      videos we’ve shown from you and Richard and Nima. Will you be a guest on our site?
+      As if somehow that would legitimize them all. So, we’re dealing with huge theft,
+      sponsored by YouTube, because YouTube will get more advertising from this — and
+      let a hundred flowers bloom. And I suspect that the viewers on these plagiarized
+      sites are not the kind of viewers that usually watch Nima’s show, or that read
+      what Richard and I write on our respective websites. That’s michael-hudson.com
+      1 , to be specific. That’s where you want to go. And I have a Patreon group. Richard
+      has a group. We have our own sites, but they are pirating what we do. And they’re
+      fake sites. And even, as Richard points out, they’ve gone to fake content for
+      us. That’s the AI revolution. Whoever controls the platform, the AI platform,
+      controls the content. And that is the equivalent of [George] Orwell: Who controls
+      the [past], controls the [future]. Well, who controls the AI system? Garbage in,
+      garbage out, that’s what we’re seeing. ⁣NIMA ALKHORSHID: Yeah. The problem is
+      that they’re getting more views than the original video! Before wrapping up, Richard,
+      I want to put up a clip of Donald Trump talking about tariffs before wrapping
+      up this session, Richard. Here is what Donald Trump said. ⁣DONALD TRUMP (CLIP):
+      I took in hundreds of millions of tariffs. I put tariffs on China very early.
+      Then when we got hit with COVID, we fought that. We did a very good job. But that
+      was COVID. It came from a certain place in China. LAURA INGRAHAM (CLIP): Another
+      great gift from China. ⁣DONALD TRUMP (CLIP): … is another little gift we got.
+      But look, I get along great with President Xi. I get along great with China. But
+      the only way you’re going to get along well with China is you have to deal from
+      a position of strength. We have tremendous strength because of tariffs. We have
+      tremendous strength because of what I’ve done. I’ve rebuilt our military; and
+      they have a lot of missiles, but we have a lot of missiles too. And they don’t
+      want to mess around with us. ⁣RICHARD WOLFF: Yeah, well, you know, this is the
+      country that invented the cowboy. And the cowboy mentality is widespread. Lots
+      of little boys grow up with a model of the very impressive fellow up on the horse
+      shooting people, that are usually browner skin and the cowboy, and all the rest
+      of it. And that’s what we have here. You could have shown us a clip in which he
+      explains, with glee in his eye, how he is killing those drug traffickers that
+      he shoots in the boats. And that when he finishes with them, they’ll be dead.
+      And he says the word “dead” with as much intensity as he can muster. You know,
+      killing drug traffickers. We arrest people in the drug trade in the United States,
+      every day. We have an enormous drug trade in this country, and we arrest people,
+      one place or another, every day. We never kill them. Whether they’re guilty or
+      innocent, we don’t have capital punishment for the people in the drug trade —
+      until Mr. Trump decided to be the judge, and the jury, and the lawyer, and the
+      evidence, and go directly from “I see a person in a boat” to executing them. It
+      is so bad that the British intelligence agency — Well, what you’re seeing here
+      with his discussion about China — and he rebuilt the military — it’s all the same.
+      It’s all this elaborate theater of Mr. Tough Guy. It’s not serious, except that
+      this is still a rich country, it still has a powerful military, it still can do
+      damage. Mostly, what the tariff program did — is damage. And let me conclude with
+      one thing: We are all now awaiting the decision of the Supreme Court as to whether
+      the tariffs are a legal action, or not. Now, here’s why that’s important, regardless
+      of what the outcome is. The President of the United States has attacked, and damaged,
+      countless countries, countless corporations, hurt by the tariffs. And he did that
+      knowing that they might be unconstitutional. He put the country through an experience,
+      the costs of which will be enormous — and already are — when he didn’t even know,
+      or take the time or trouble, because he’s a cowboy and reaches right for his gun
+      — So he did the tariffs — and now, by the way, one of his defenses, recently pleading
+      with the Supreme Court, was to tell them how disruptive it would be of the world
+      economy, if he had to undo all the — Exactly! How could you do that? What kind
+      of a political leader does such a thing? Wow. We’re talking about shooting from
+      the hip in ways that already are, and can be stupefyingly self-destructive. ⁣MICHAEL
+      HUDSON: Aha, Richard, this is exactly what Trump is planning, the sword that Trump
+      is holding over Central Asia. He can say that, well, if you’re going to reorient
+      your export to the United States, we can put tariffs on your exports and we can
+      create chaos in you, if you make any move to accommodate China, Russia, Iran,
+      or anyone on our enemies list. By investing in Central Asian minerals, oil, and
+      other products, this gives Trump the ability to create chaos in them, and to use
+      the denial of the U.S. market to create control. Nima’s quote showed Trump talking
+      about missiles. He’s not going to use missiles in Southeast Asia. He’s going to
+      use al-Qaeda. This is America’s war of terror. They call it the war on terror,
+      but it’s a war of terror. It’s using al-Qaeda assassinations, CIA assassinations,
+      National Endowment for Democracy regime change, and all of that; and they’re going
+      to try to bring al-Qaeda to any Central Asian countries that act in a way that
+      the United States does not like. And you’ll see in Central Asia exactly what al-Qaeda
+      did in Iraq, and in Syria. And the fact that, two days ago, you had the al-Qaeda
+      leader, [Abu Mohammad al-]Jolani, appear at the White House, shaking hands with
+      Trump, and playing basketball with the U.S. CENTCOM generals! Now that, you know,
+      there’s no longer a $10 million [bounty] on your head, keep killing the Christians.
+      It’s okay. It’s true that we accuse other countries of killing Christians, and
+      [we] are opposing them; but you can kill Christians because you’re our Christian
+      killer, not their Christian killer. You’re seeing the hypocrisy of this whole,
+      just, pretense, this paper-tiger mask of the United States falling away, being
+      stripped away in the last few days, for everyone to see. ⁣NIMA ALKHORSHID: Yeah.
+      I think we’re about to wrap it up. Thank you so much, Richard and Michael, for
+      being with us today. Great pleasure to talk to you two. ⁣RICHARD WOLFF: Same here.
+      Let’s hope that we made a little progress against the fake videos, too. ⁣NIMA
+      ALKHORSHID: Yeah, I hope so. ⁣MICHAEL HUDSON: Yep. ⁣NIMA ALKHORSHID: Not sure,
+      but I hope so. See you soon. Bye-bye. Transcription and Diarization: https://scripthub.dev
+      Editing: Ton Yeh & Kimberly Mims Review: ced Photo by Farhodjon Chinberdiev on
+      Unsplash The post Cowboy Capitalism in Central Asia first appeared on Michael
+      Hudson .'
+    one_sentence_summary: In a discussion about Donald Trump's intentions in Central
+      Asia, Michael Hudson expresses skepticism about the feasibility of Trump's plans
+      to invest $35 billion in the region, particularly regarding the extraction of
+      tungsten and rare earths in Kazakhstan.
+    paragraph_summary: In a discussion on November 13, 2025, Nima Alkhorchid, Michael
+      Hudson, and Richard Wolff examined Donald Trump's ambitions for Central Asia,
+      particularly his proposal for a $35 billion investment in Uzbekistan and potential
+      military bases in the region. Hudson expressed skepticism about the feasibility
+      of Trump's plans, noting that while the U.S. aims to reduce reliance on China
+      for tungsten and rare earths—minerals that Kazakhstan possesses—past American
+      investments in Central Asia, particularly in oil, have led to significant backlash
+      and anti-American sentiment due to environmental disasters and local corruption.
+      He highlighted that the financing for these initiatives is expected to come from
+      the International Monetary Fund and World Bank, which have previously contributed
+      to the region's neoliberal challenges, resulting in kleptocratic governance and
+      wealth concentration among local elites.
+    published: '2025-11-20T23:37:51+00:00'
   - title: 'Rentier Rule of Law: Why Central Asia Was Set Up to Fail'
     url: https://michael-hudson.com/2025/11/rentier-rule-of-law-why-central-asia-was-set-up-to-fail/
     text: 'I wrote the introduction to Rentier Capitalism and its Discontents: Power,

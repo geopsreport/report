@@ -7,16 +7,482 @@ description: "Jack Rasmus is an American economist, author, and radio show host 
 websites:
   - https://jackrasmus.com/
 summary: |
-  The global geopolitical landscape remains volatile as the U.S. faces mounting economic and strategic challenges, with ripple effects across financial markets and international relations. Recent analyses by **Jack Rasmus** highlight several converging crises that are reshaping the outlook for American power and global stability.
+  As the Ukraine-Russia conflict grinds on with no decisive shifts on the battlefield or at the negotiating table, the latest developments center on President Trump’s recently unveiled 28-point proposal for ending the war. This initiative, coming after a series of failed negotiation attempts and shifting U.S. policy stances, is widely seen by analysts as a strategic maneuver rather than a genuine breakthrough.
   
-  The most immediate concern is the simultaneous expansion of four major financial bubbles—gold, cryptocurrencies, U.S. stocks, and AI investments. According to **Jack Rasmus**, “AI has been responsible for 80% of stock price appreciation in 2025 and is already four times larger than the mortgage bubble of 2003-07 and 17 times the dotcom bubble of 1997-2000.” This surge is driven by a weakened U.S. dollar—down 10% due to aggressive sanctions—and a global economic slowdown pushing investors toward alternative assets. The scale and interconnectedness of these bubbles raise the risk of a major financial correction. Rasmus warns that the current environment is “most definitely” primed for instability, with the potential for cascading effects if any one bubble bursts.
+  **Jack Rasmus** notes that the Trump plan may serve multiple purposes: providing political cover for reducing U.S. military aid to Ukraine, leveraging sanctions against both Russia and Ukraine, and potentially enabling the U.S. to benefit from frozen Russian assets. There is also speculation that the proposal could justify a U.S. withdrawal from the conflict, effectively shifting responsibility to European allies, or facilitate a temporary truce to allow Ukraine to regroup. However, entrenched positions among Ukraine, Russia, and Europe remain largely unchanged, suggesting that the plan’s immediate impact will be limited. Rasmus emphasizes that the proposal is likely intended to set the stage for future negotiations after further military exhaustion, rather than to deliver an imminent peace.
   
-  On the economic front, the U.S. is teetering on the edge of recession. The July jobs report showed only 73,000 new jobs, with downward revisions suggesting a mere 50,000 jobs added over three months. The Federal Reserve’s decision to hold rates steady, combined with President Trump’s sweeping tariff hikes on over 40 countries, is exacerbating uncertainty. **Jack Rasmus** notes that “labor market conditions are deteriorating rapidly,” and there is a high chance the U.S. will enter a recession before year’s end.
+  On the economic front, the U.S. faces mounting instability. The convergence of four major asset bubbles—gold, cryptocurrencies, U.S. stocks, and AI investments—has created a precarious financial environment. According to **Jack Rasmus**, AI-driven speculation has accounted for 80% of stock price appreciation in 2025, with the scale of the AI bubble now dwarfing previous market excesses. The 10% depreciation of the dollar, driven by U.S. sanctions and a global economic slowdown, has further fueled investor flight to alternative assets. These dynamics point to a high risk of financial instability or even a crash, with Rasmus warning that the current situation is “already four times larger than the mortgage bubble of 2003-07 and 17 times the dotcom bubble of 1997-2000.”
   
-  Meanwhile, U.S. foreign policy is marked by abrupt shifts and growing unpredictability. The Trump administration’s recent Minerals Deal 2.0 with Ukraine represents a significant retreat from earlier demands that Ukraine use mineral revenues to repay U.S. aid. The new agreement, lacking a formal U.S. security guarantee for Ukraine, signals a weakening of American leverage and a possible realignment of interests. Only one of three documents has been disclosed, fueling speculation about undisclosed terms, possibly including security arrangements.
+  Looking ahead, the majority of independent analysts agree that the Ukraine conflict is unlikely to see a negotiated resolution in the near term, as all parties remain dug in. The U.S. is quite likely to continue reducing its direct involvement, shifting the burden to Europe, while seeking ways to benefit economically from the situation. Financial markets, meanwhile, are entering a period of heightened risk, with a high chance of significant corrections or instability in the coming months.
   
-  Looking ahead, the convergence of financial risk, economic slowdown, and erratic foreign policy is accelerating the decline of U.S. global influence. As **Jack Rasmus** argues, while the American empire is not on the verge of collapse, its decline is “significant and accelerating” across economic, political, and strategic dimensions. The majority view among independent analysts is that these trends will persist, with a high likelihood of further instability in both domestic and international arenas.
+  **Prediction:** There is a high chance that the U.S. will further scale back its military and financial commitments to Ukraine, using diplomatic proposals as cover. The financial bubbles, especially in AI and alternative assets, are most definitely unsustainable and will lead to increased volatility or a correction in the near future.
 articles:
+  - title: Trump’s 28 Pt. Ukraine War Plan
+    url: https://jackrasmus.com/2025/11/24/trumps-28-pt-ukraine-war-plan/
+    text: 'by Jack Rasmus This past week President Trump proposed a 28 Pt. plan to Russia
+      and Ukraine as a basis for negotiations to end the current Ukraine-Russia war,
+      now approaching its fourth year. What’s behind the Trump proposal? Is it a further
+      revelation of verbal understandings agreed to between Trump and Putin last August
+      in Anchorage, Alaska? Or something more? Is it a political cover for Trump to
+      finally cut military intelligence and surveillance aid to Ukraine—while simultaneously
+      imposing additional sanctions on Russia, and perhaps Ukraine as well, to pressure
+      both parties to commence negotiations in earnest? Is it a Trump maneuver to enable
+      the US to share in the exploitation of the $260 billion Russian assets frozen
+      in Belgium and EU banks? Is it a Trump tactic to justify further US withdrawal
+      from involvement in the war, once the Europeans reject it, and to let the Europeans
+      have ‘their war’ with Russia in Ukraine? Is it, as some have argued, a clever
+      ‘hard cop’ (Europe) vs. ‘soft cop’ (US) maneuver to get Russia and Putin to agree
+      to another ‘Minsk III’-like temporary truce to halt the conflict on the ground
+      so that Europe & Ukraine can buy time to recruit, rearm, and retrain forces in
+      order to continue the conflict? Or is it a preliminary step toward eventual real
+      negotiations down the road—i.e. after further military conflict exhausts both
+      sides creating a basis for real compromises and negotiations in 2026? Up to the
+      release of the 28 point proposals this past week, the fundamental positions of
+      three of the four parties involved in the conflict—Ukraine, Russia, and Europe—have
+      not changed much, if at all. Is Trump’s plan therefore about trying to move the
+      parties off their prior hardened positions that prevent any serious negotiations.
+      Prior Positions of the Parties To date, Russia has held firm to its June 2024
+      positions: No NATO in Ukraine; formal recognition by Europe-US-Ukraine of Russian
+      sovereignty over the four provinces (Lughansk, Donestsk, Zaporozhia, Kherson)
+      and Crimea; reduction of Ukraine armed forces to less than 100,000 to ensure no
+      future threat to Russia; and Ukraine neutrality and denazification of its government.
+      Ukraine’s position has been the same since the onset of the conflict in 2022:
+      no Ukraine land concessions including Crimea; reparations for Russian damages;
+      full retreat of all Russian military forces to Ukraine’s 1991 borders; and no
+      negotiations to begin until a ceasefire and Russia’s full retreat. Europe’s position
+      is full support for Ukraine’s positions; an immediate ceasefire along the lines
+      of combat as precondition to negotiations; use of Russia’s $260 billion frozen
+      assets in its banks to fund Ukraine’s war effort in the interim and thereafter
+      for Ukraine’s eventual reconstruction post-war; no changes to borders as a result
+      of force; Europe troops to be allowed in Ukraine after the war ends; and no limits
+      to NATO expansion determined by any state outside NATO member states. The US position
+      under Biden agreed with the European and Ukrainian positions above virtually completely.
+      Biden proposed, moreover, to continue to escalate US financial, weaponry, and
+      military assistance for as long as it takes to force Russia to end the war. Under
+      Trump, the US position shifted, to seek negotiations and to end the war on terms
+      of whatever is eventually acceptable by Russia, Europe and Ukraine—as dictated
+      by the relationship of forces at the time of final negotiations. Trump and the
+      US have therefore swung between a solution preferred by the political alliance
+      of US neocons, Europe leaders, and Ukraine to a solution advocated by other political
+      forces within the US who have begun recognizing the impossibility of ending the
+      war on the basis of Europe-Ukraine positions to date. Trump’s dual representatives
+      reflect the duality of the US position: General Kellogg representing the US neocon/EU
+      positions and Trump’s personal advisor, Steve Witkoff, the emerging more realist
+      US view of the conflict. US Vice-President, J.D. Vance, summarized this latter,
+      realist view when questioned by US media this past weekend after the release of
+      Trump’s 28 Pt. Plan: the rigid Europe-Ukraine hardline view of the past three
+      and a half years represents the view of “failed diplomats or politicians living
+      in fantasy land” committed to the idea that somehow “more money, more weapons,
+      or more sanctions” will result in eventual “victory”! The US wants to move on
+      from Europe’s war with Russia in Ukraine. Its imperial interests now include larger
+      strategic concerns in the middle east (Israel-GAZA-Iran war), Latin America (Venezuela
+      regime change plans), and western Pacific (Taiwan-China). The emerging new view
+      is that if Europe wants to continue war with Russia, they should do so on their
+      own, paying for it and providing Ukraine’s the military support themselves.  The
+      new view beginning to take hold among the Trump wing of the US foreign policy
+      elite is that the USA has more important global strategic interests and concerns
+      beyond continuing fighting and paying for Europe’s wars or protecting Europe from
+      its imagined threat from Russia. Mainstream Media Complicity The US and Europe
+      mainstream media throughout the conflict since 2022 reflected the US neocon view
+      that Russia’s economy was about to collapse, Putin would be overthrown by Russian
+      political opponents, and the Russian army was weak and would quickly stop fighting.
+       The most recent such view is that Russia has suffered 1.5 million losses since
+      2022—a number even larger than the current total Russian military of 1.4 million.
+      Following the announcement of the 28 Pt. plan, the New York Times provided a brief,
+      incomplete and slanted summary of its terms.  In its very first paragraph, it
+      described the Trump plan as one in which “Ukraine would have to capitulate on
+      most of Putin’s demands” and that “Ukraine would gain little other than a halt
+      to the war”.  The Times’ authors added “Russia’s economy is at its weakest since
+      February 2022” and that Russia is facing serious economic pressures due to US
+      sanctions—all of which is a repeat of the propaganda mantra and remains contrary
+      to the facts stated by various western market research sources.  Another Times
+      theme is that the Trump requirement Ukraine hold elections is about “ushering
+      out” Zelensky—i.e. a political goal attributed to Putin. These themes were reiterated
+      by the European media in turn and then some. The UK Guardian clarified several
+      important elements of the plan conveniently ignored by the New York Times. For
+      example, it questioned who originally authored the plan? It suggested the Plan
+      was perhaps Russia’s originally, and was passed off by US Secretary State, Rubio,
+      as Trump’s plan. The attempt here clearly was to undermine the plan and the US
+      role, suggesting the US was just a dupe for Russia. Rubio immediately denied the
+      suggestion, called the Times’ suggestion “blatantly wrong” and confirmed it was
+      a US plan, not Russia’s, reached after US discussions with both Ukraine and Russia.
+      That did not stop US neocon Senators from repeating the Times’ theme publicly
+      as well, implying the plan was Russia’s not Trump’s. Key Elements of the 28 Pt.
+      Plan The plan is now public and readers can review it in detail for themselves.
+      However, the key elements are the following: Ukraine must withdraw from the two
+      provinces, Lughansk and Donetsk. It has already been driven out of Lughansk and
+      occupies only 25% left of Donetsk. Moreover, the area from which it withdraws
+      in those two provinces is to remain a demilitarized zone. So per the plan Ukraine
+      is not required to actually recognized either as Russian sovereignty. Russia must
+      withdraw all its forces from the northern provinces of Sumy and Kharkov. Its forces
+      in Zaporozhie and Kherson are to be frozen in place, the rest of those two provinces
+      remaining occupied by Ukraine. The plan calls for no NATO troops deployed in Ukraine
+      and no further NATO expansion (the latter point left unclear as to where exactly
+      no expansion was to occur). Ukraine can join the European Union. Sanctions on
+      Russia would be removed in steps. Russia was allowed to join the G7 as its new
+      G8 member. The size of Ukraine’s current 900,000 military forces would be capped
+      at 600,000. $100 billion of Russia’s $260 billion frozen assets in Europe banks
+      would be transferred to a joint US-Russia administered fund for the reconstruction
+      of Ukraine after the war. To which Europe will add another $100 billion but not
+      administer. Elections in Ukraine would be held within 100 days after the final
+      agreement to end the war. There were also numerous vague terms calling for restoration
+      of Russian speaking Ukrainians cultural and political rights prior to the new
+      elections. Europe leaders initially expressed extreme displeasure with not being
+      part of the determining of the plan, cut out of negotiations with Russia, and
+      especially with having to provide $100 billion of Russia’s frozen assets to the
+      joint US-Russian fund and then another $100 billion further to the reconstruction
+      of Ukraine. Thus, the European and US have begun early in-fighting over the spoils
+      available after the end of the war. Whose corporations will receive the lion’s
+      share of the proceeds from reconstruction has begun emerging as a source of contention
+      within the NATO forces, US and European. Responses to the 28 Pt. Plan Russia has
+      said the 28 Pt. proposal is a basis upon which to start negotiations. Europe has
+      initially rejected it and it hurriedly gathered its leaders in Geneva on November
+      23, 2025 to craft its official rejection and alternative proposal. Zelensky and
+      Ukraine once again took cover behind the European opposition to the latest Trump
+      initiative, declaring its opposition to the plan as well. Europe and Ukraine have
+      consistently insisted that negotiations should only take place when Russia agrees
+      to an unconditional ceasefire along all lines of combat. Ceasefire first and freezing
+      all lines of military contact is the precondition to start negotiations. That
+      remains the fundamental Europe-Ukraine demand, which it has been since 2022. By
+      demanding ceasefire first, then negotiations, Europe-Ukraine in effect propose
+      a repeat of Minsk II negotiations held in 2015 to halt Russian military activity.
+      They want a ‘Minsk III’. As former British diplomat, Alaistair Crooke, has explained,
+      “they (Europe) want a ceasefire, not a solution, so they can go back in, retrain,
+      and rearm Ukraine to continue the war”. He adds: “Europe is coaching Zelensky
+      to say No” and it wants to continue a “controlled war”. German Chancellor, Merz,
+      warned if Ukraine loses it will have a profound impact on Europe politics as a
+      whole. That’s true. Europe’s current political elite have tied their futures to
+      the war in Ukraine and cannot retreat. To do so risks the possible fracturing
+      of NATO and even perhaps the European Union.  So why are Europe leaders like Merz,
+      Macron in France, and Starmer in the UK so committed to continuing the war? There
+      are several possible explanations. First, the war is the way to keep the USA financially,
+      and even militarily, committed to remain in NATO in Europe. The USA military umbrella
+      since 1945 has been profitable for Europe and politically useful for Europe’s
+      domestic politics: not having to expend huge sums on defense (US total cost in
+      NATO is now estimated at $32B per year) has enabled Europe to provide social benefits
+      to its populace much greater than the US has provided to its populace. Should
+      the USA pull out of Europe—which Trump likely wants to do eventually to cut $32B
+      from future US defense spending—then Europe will have to cut social benefits,
+      raise taxes further, and/or incur more sovereign debt, in order to develop its
+      own defense/war military industrial complex. Merz has already declared Germany
+      will spend $1 trillion over the next five years to do so. Other European countries
+      will have to do the same. Europe’s economy cannot sustain that expenditure without
+      massive cuts to social benefits that will certainly result in widespread political
+      upheaval. Europe’s economy has been limping along since 2008, growing tepidly,
+      experiencing bouts of stagnation and mild recessions for the last decade and a
+      half, and has been declining in terms of productivity for some time. Real wages
+      have not risen since at least 1999 when the European Union was created. Europe
+      has been steadily falling behind the US and China technologically and financially.
+      European leaders may think a surge in military spending will energize its GDP
+      and growth but that route holds great economic and political risks. European leaders
+      are likely aware of the consequences. But they see continuing the war as the way
+      to keep US involved supporting the war, to keep US in NATO providing its subsidies,
+      and the way to buy time to transition to their own military-industrial economy.
+      The Ukraine war is key to buy time for this economic transition. Continued war
+      in Ukraine is the only way for Europe’s elites to justify the social benefit cuts
+      on the agenda. As UK diplomat Alastair Crooke has correctly observed, Europe needs
+      the war to continue. Ukraine and Zelensky will ride the European horse into the
+      sunset as long as they can. Failure to end the Ukraine war is not a problem of
+      individuals—i.e. Zelensky, or Putin, or Trump or even the ultra-nationalist/neo-nazi
+      elements in the Ukraine government. The problem is Europe—and Europe’s US neocon
+      allies who share its pro-war objectives as well. European leadership is committed
+      to a long war in Ukraine, so long as Ukraine has the troops to throw into the
+      maelstrom. However, that may be coming to an end sooner than later. The European
+      leadership met this past Sunday, November 23, to hammer out a response to Trump’s
+      28 Pts. They will inject their own demands into a new document. In essence, some
+      new formulation of ‘ceasefire first’ and other new demands. According to the Guardian
+      newspaper, they will propose to amend the 28 Pt plan to include a reduction in
+      Ukraine military forces by only 100,000 to 800,000 instead of the 600,000 indicated
+      in Trump’s plan—neither of which Russia will agree to. They will demand the Zaporozhie
+      nuclear power plan now occupied by Russia to be returned to Ukraine. They’ll oppose
+      immediate reductions of sanctions on Russia or permit it in the G8. They’ll especially
+      reject the US-Russia joint administered fund to reconstruct Ukraine. They won’t
+      agree to no NATO in Ukraine and will reiterate European forces must be allowed
+      in Ukraine after the war. Reports are circulating they may even call for the US
+      to commit troops to ‘supervise’ the truce on the ground after the war, i.e. to
+      lure the US to provide cover for future European military encroachments. Their
+      amendments will thus constitute a ‘ceasefire’ plan, albeit couched in more clever
+      proposals. All of which Russia will reject. Trump’s response to Europe’s counterproposals
+      will likely include his acceptance of whatever the Europeans propose at Geneva.
+      He’s as much as said so. The 28 Pt plan, even with the European amendments, is
+      just an interim document and another false start event—i.e. an ‘Anchorage 2.0’—on
+      the road to a later more serious negotiation. When asked by the media he admitted
+      the plan is not the ‘final agreement’. And when queried in turn what he’ll do
+      if Zelensky rejects it, Trump replied: “he’ll have to like it, or just keep fighting,
+      I guess.” Strategically the best the US and Trump can get from the Plan is to
+      move Ukraine and Europe off their nearly four years-long hardline positions. To
+      create some ‘hooks’ upon which to hang future negotiations. True negotiations
+      will not begin until Russia takes back all the four provinces it has declared
+      as part of sovereign Russia. Serious discussions begin only when Russia takes
+      back all of the four provinces, stands at the Dnipr river and decides whether
+      or not to push further west into Ukraine or to take Odessa in the south.  At that
+      point the ‘Special Military Operation’, SMO, becomes something else. Something
+      much larger. Alternatively, realistic negotiations might begin if and when the
+      Ukraine army begins to collapse before Russia reaches the Dnipr, which could happen
+      within the next 90 days given the current rate of Russian advances on the ground
+      in the east. The Institute for War (IFW), a western think tank clearly allied
+      with NATO and Ukraine, has reported up to 300,000 Ukrainian troops have deserted
+      since the war began. At least another 500,000 have been killed or permanently
+      disabled. Per the IFW Ukraine is recruiting 17,000 troops per month but is losing
+      30,000.  Russian volunteers (not draftees as in Ukraine) are joining its military
+      at the rate of roughly 30,000/ month and its losses are much less than its recruitment.
+      The ultimate limit to war is not finding enough money to pay for it. Nor even
+      enough weapons. It is the manpower losses. The war in Ukraine will end when the
+      military conflict ends. Not vice versa—i.e. not as result of a ceasefire ending
+      the conflict before negotiating the terms of its ending. The Trump 28 Pt. plan
+      will not begin the process of ending the war. On the contrary, the inevitable
+      collapse of the plan may well lead to more escalation, not less. Jack Rasmus November
+      22, 2025'
+    one_sentence_summary: President Trump's recent 28-point proposal for negotiations
+      to end the Ukraine-Russia war raises questions about its motivations, including
+      potential political maneuvers to reduce U.S. involvement, leverage sanctions,
+      and exploit frozen Russian assets.
+    paragraph_summary: President Trump's recent 28-point proposal for negotiations to
+      end the ongoing Ukraine-Russia war raises questions about its underlying motives
+      and implications. Analysts speculate whether the proposal reflects prior understandings
+      between Trump and Putin, serves as a political cover for reducing U.S. military
+      aid to Ukraine while imposing sanctions on both Russia and Ukraine, or is a strategy
+      to enable the U.S. to benefit from frozen Russian assets. There are also suggestions
+      that it could be a tactic to justify a U.S. withdrawal from the conflict, allowing
+      Europe to take the lead, or a maneuver to facilitate a temporary truce that would
+      give Ukraine time to regroup. Ultimately, the proposal aims to shift the entrenched
+      positions of the involved parties—Ukraine, Russia, and Europe—who have remained
+      largely unchanged in their stances, potentially paving the way for future negotiations
+      after further military exhaustion.
+    published: '2025-11-24T18:35:12+00:00'
+  - title: Trump’s 28 Pt. Ukraine War Plan
+    url: https://jackrasmus.com/2025/11/24/trumps-28-pt-ukraine-war-plan/
+    text: 'by Jack Rasmus This past week President Trump proposed a 28 Pt. plan to Russia
+      and Ukraine as a basis for negotiations to end the current Ukraine-Russia war,
+      now approaching its fourth year. What’s behind the Trump proposal? Is it a further
+      revelation of verbal understandings agreed to between Trump and Putin last August
+      in Anchorage, Alaska? Or something more? Is it a political cover for Trump to
+      finally cut military intelligence and surveillance aid to Ukraine—while simultaneously
+      imposing additional sanctions on Russia, and perhaps Ukraine as well, to pressure
+      both parties to commence negotiations in earnest? Is it a Trump maneuver to enable
+      the US to share in the exploitation of the $260 billion Russian assets frozen
+      in Belgium and EU banks? Is it a Trump tactic to justify further US withdrawal
+      from involvement in the war, once the Europeans reject it, and to let the Europeans
+      have ‘their war’ with Russia in Ukraine? Is it, as some have argued, a clever
+      ‘hard cop’ (Europe) vs. ‘soft cop’ (US) maneuver to get Russia and Putin to agree
+      to another ‘Minsk III’-like temporary truce to halt the conflict on the ground
+      so that Europe & Ukraine can buy time to recruit, rearm, and retrain forces in
+      order to continue the conflict? Or is it a preliminary step toward eventual real
+      negotiations down the road—i.e. after further military conflict exhausts both
+      sides creating a basis for real compromises and negotiations in 2026? Up to the
+      release of the 28 point proposals this past week, the fundamental positions of
+      three of the four parties involved in the conflict—Ukraine, Russia, and Europe—have
+      not changed much, if at all. Is Trump’s plan therefore about trying to move the
+      parties off their prior hardened positions that prevent any serious negotiations.
+      Prior Positions of the Parties To date, Russia has held firm to its June 2024
+      positions: No NATO in Ukraine; formal recognition by Europe-US-Ukraine of Russian
+      sovereignty over the four provinces (Lughansk, Donestsk, Zaporozhia, Kherson)
+      and Crimea; reduction of Ukraine armed forces to less than 100,000 to ensure no
+      future threat to Russia; and Ukraine neutrality and denazification of its government.
+      Ukraine’s position has been the same since the onset of the conflict in 2022:
+      no Ukraine land concessions including Crimea; reparations for Russian damages;
+      full retreat of all Russian military forces to Ukraine’s 1991 borders; and no
+      negotiations to begin until a ceasefire and Russia’s full retreat. Europe’s position
+      is full support for Ukraine’s positions; an immediate ceasefire along the lines
+      of combat as precondition to negotiations; use of Russia’s $260 billion frozen
+      assets in its banks to fund Ukraine’s war effort in the interim and thereafter
+      for Ukraine’s eventual reconstruction post-war; no changes to borders as a result
+      of force; Europe troops to be allowed in Ukraine after the war ends; and no limits
+      to NATO expansion determined by any state outside NATO member states. The US position
+      under Biden agreed with the European and Ukrainian positions above virtually completely.
+      Biden proposed, moreover, to continue to escalate US financial, weaponry, and
+      military assistance for as long as it takes to force Russia to end the war. Under
+      Trump, the US position shifted, to seek negotiations and to end the war on terms
+      of whatever is eventually acceptable by Russia, Europe and Ukraine—as dictated
+      by the relationship of forces at the time of final negotiations. Trump and the
+      US have therefore swung between a solution preferred by the political alliance
+      of US neocons, Europe leaders, and Ukraine to a solution advocated by other political
+      forces within the US who have begun recognizing the impossibility of ending the
+      war on the basis of Europe-Ukraine positions to date. Trump’s dual representatives
+      reflect the duality of the US position: General Kellogg representing the US neocon/EU
+      positions and Trump’s personal advisor, Steve Witkoff, the emerging more realist
+      US view of the conflict. US Vice-President, J.D. Vance, summarized this latter,
+      realist view when questioned by US media this past weekend after the release of
+      Trump’s 28 Pt. Plan: the rigid Europe-Ukraine hardline view of the past three
+      and a half years represents the view of “failed diplomats or politicians living
+      in fantasy land” committed to the idea that somehow “more money, more weapons,
+      or more sanctions” will result in eventual “victory”! The US wants to move on
+      from Europe’s war with Russia in Ukraine. Its imperial interests now include larger
+      strategic concerns in the middle east (Israel-GAZA-Iran war), Latin America (Venezuela
+      regime change plans), and western Pacific (Taiwan-China). The emerging new view
+      is that if Europe wants to continue war with Russia, they should do so on their
+      own, paying for it and providing Ukraine’s the military support themselves.  The
+      new view beginning to take hold among the Trump wing of the US foreign policy
+      elite is that the USA has more important global strategic interests and concerns
+      beyond continuing fighting and paying for Europe’s wars or protecting Europe from
+      its imagined threat from Russia. Mainstream Media Complicity The US and Europe
+      mainstream media throughout the conflict since 2022 reflected the US neocon view
+      that Russia’s economy was about to collapse, Putin would be overthrown by Russian
+      political opponents, and the Russian army was weak and would quickly stop fighting.
+       The most recent such view is that Russia has suffered 1.5 million losses since
+      2022—a number even larger than the current total Russian military of 1.4 million.
+      Following the announcement of the 28 Pt. plan, the New York Times provided a brief,
+      incomplete and slanted summary of its terms.  In its very first paragraph, it
+      described the Trump plan as one in which “Ukraine would have to capitulate on
+      most of Putin’s demands” and that “Ukraine would gain little other than a halt
+      to the war”.  The Times’ authors added “Russia’s economy is at its weakest since
+      February 2022” and that Russia is facing serious economic pressures due to US
+      sanctions—all of which is a repeat of the propaganda mantra and remains contrary
+      to the facts stated by various western market research sources.  Another Times
+      theme is that the Trump requirement Ukraine hold elections is about “ushering
+      out” Zelensky—i.e. a political goal attributed to Putin. These themes were reiterated
+      by the European media in turn and then some. The UK Guardian clarified several
+      important elements of the plan conveniently ignored by the New York Times. For
+      example, it questioned who originally authored the plan? It suggested the Plan
+      was perhaps Russia’s originally, and was passed off by US Secretary State, Rubio,
+      as Trump’s plan. The attempt here clearly was to undermine the plan and the US
+      role, suggesting the US was just a dupe for Russia. Rubio immediately denied the
+      suggestion, called the Times’ suggestion “blatantly wrong” and confirmed it was
+      a US plan, not Russia’s, reached after US discussions with both Ukraine and Russia.
+      That did not stop US neocon Senators from repeating the Times’ theme publicly
+      as well, implying the plan was Russia’s not Trump’s. Key Elements of the 28 Pt.
+      Plan The plan is now public and readers can review it in detail for themselves.
+      However, the key elements are the following: Ukraine must withdraw from the two
+      provinces, Lughansk and Donetsk. It has already been driven out of Lughansk and
+      occupies only 25% left of Donetsk. Moreover, the area from which it withdraws
+      in those two provinces is to remain a demilitarized zone. So per the plan Ukraine
+      is not required to actually recognized either as Russian sovereignty. Russia must
+      withdraw all its forces from the northern provinces of Sumy and Kharkov. Its forces
+      in Zaporozhie and Kherson are to be frozen in place, the rest of those two provinces
+      remaining occupied by Ukraine. The plan calls for no NATO troops deployed in Ukraine
+      and no further NATO expansion (the latter point left unclear as to where exactly
+      no expansion was to occur). Ukraine can join the European Union. Sanctions on
+      Russia would be removed in steps. Russia was allowed to join the G7 as its new
+      G8 member. The size of Ukraine’s current 900,000 military forces would be capped
+      at 600,000. $100 billion of Russia’s $260 billion frozen assets in Europe banks
+      would be transferred to a joint US-Russia administered fund for the reconstruction
+      of Ukraine after the war. To which Europe will add another $100 billion but not
+      administer. Elections in Ukraine would be held within 100 days after the final
+      agreement to end the war. There were also numerous vague terms calling for restoration
+      of Russian speaking Ukrainians cultural and political rights prior to the new
+      elections. Europe leaders initially expressed extreme displeasure with not being
+      part of the determining of the plan, cut out of negotiations with Russia, and
+      especially with having to provide $100 billion of Russia’s frozen assets to the
+      joint US-Russian fund and then another $100 billion further to the reconstruction
+      of Ukraine. Thus, the European and US have begun early in-fighting over the spoils
+      available after the end of the war. Whose corporations will receive the lion’s
+      share of the proceeds from reconstruction has begun emerging as a source of contention
+      within the NATO forces, US and European. Responses to the 28 Pt. Plan Russia has
+      said the 28 Pt. proposal is a basis upon which to start negotiations. Europe has
+      initially rejected it and it hurriedly gathered its leaders in Geneva on November
+      23, 2025 to craft its official rejection and alternative proposal. Zelensky and
+      Ukraine once again took cover behind the European opposition to the latest Trump
+      initiative, declaring its opposition to the plan as well. Europe and Ukraine have
+      consistently insisted that negotiations should only take place when Russia agrees
+      to an unconditional ceasefire along all lines of combat. Ceasefire first and freezing
+      all lines of military contact is the precondition to start negotiations. That
+      remains the fundamental Europe-Ukraine demand, which it has been since 2022. By
+      demanding ceasefire first, then negotiations, Europe-Ukraine in effect propose
+      a repeat of Minsk II negotiations held in 2015 to halt Russian military activity.
+      They want a ‘Minsk III’. As former British diplomat, Alaistair Crooke, has explained,
+      “they (Europe) want a ceasefire, not a solution, so they can go back in, retrain,
+      and rearm Ukraine to continue the war”. He adds: “Europe is coaching Zelensky
+      to say No” and it wants to continue a “controlled war”. German Chancellor, Merz,
+      warned if Ukraine loses it will have a profound impact on Europe politics as a
+      whole. That’s true. Europe’s current political elite have tied their futures to
+      the war in Ukraine and cannot retreat. To do so risks the possible fracturing
+      of NATO and even perhaps the European Union.  So why are Europe leaders like Merz,
+      Macron in France, and Starmer in the UK so committed to continuing the war? There
+      are several possible explanations. First, the war is the way to keep the USA financially,
+      and even militarily, committed to remain in NATO in Europe. The USA military umbrella
+      since 1945 has been profitable for Europe and politically useful for Europe’s
+      domestic politics: not having to expend huge sums on defense (US total cost in
+      NATO is now estimated at $32B per year) has enabled Europe to provide social benefits
+      to its populace much greater than the US has provided to its populace. Should
+      the USA pull out of Europe—which Trump likely wants to do eventually to cut $32B
+      from future US defense spending—then Europe will have to cut social benefits,
+      raise taxes further, and/or incur more sovereign debt, in order to develop its
+      own defense/war military industrial complex. Merz has already declared Germany
+      will spend $1 trillion over the next five years to do so. Other European countries
+      will have to do the same. Europe’s economy cannot sustain that expenditure without
+      massive cuts to social benefits that will certainly result in widespread political
+      upheaval. Europe’s economy has been limping along since 2008, growing tepidly,
+      experiencing bouts of stagnation and mild recessions for the last decade and a
+      half, and has been declining in terms of productivity for some time. Real wages
+      have not risen since at least 1999 when the European Union was created. Europe
+      has been steadily falling behind the US and China technologically and financially.
+      European leaders may think a surge in military spending will energize its GDP
+      and growth but that route holds great economic and political risks. European leaders
+      are likely aware of the consequences. But they see continuing the war as the way
+      to keep US involved supporting the war, to keep US in NATO providing its subsidies,
+      and the way to buy time to transition to their own military-industrial economy.
+      The Ukraine war is key to buy time for this economic transition. Continued war
+      in Ukraine is the only way for Europe’s elites to justify the social benefit cuts
+      on the agenda. As UK diplomat Alastair Crooke has correctly observed, Europe needs
+      the war to continue. Ukraine and Zelensky will ride the European horse into the
+      sunset as long as they can. Failure to end the Ukraine war is not a problem of
+      individuals—i.e. Zelensky, or Putin, or Trump or even the ultra-nationalist/neo-nazi
+      elements in the Ukraine government. The problem is Europe—and Europe’s US neocon
+      allies who share its pro-war objectives as well. European leadership is committed
+      to a long war in Ukraine, so long as Ukraine has the troops to throw into the
+      maelstrom. However, that may be coming to an end sooner than later. The European
+      leadership met this past Sunday, November 23, to hammer out a response to Trump’s
+      28 Pts. They will inject their own demands into a new document. In essence, some
+      new formulation of ‘ceasefire first’ and other new demands. According to the Guardian
+      newspaper, they will propose to amend the 28 Pt plan to include a reduction in
+      Ukraine military forces by only 100,000 to 800,000 instead of the 600,000 indicated
+      in Trump’s plan—neither of which Russia will agree to. They will demand the Zaporozhie
+      nuclear power plan now occupied by Russia to be returned to Ukraine. They’ll oppose
+      immediate reductions of sanctions on Russia or permit it in the G8. They’ll especially
+      reject the US-Russia joint administered fund to reconstruct Ukraine. They won’t
+      agree to no NATO in Ukraine and will reiterate European forces must be allowed
+      in Ukraine after the war. Reports are circulating they may even call for the US
+      to commit troops to ‘supervise’ the truce on the ground after the war, i.e. to
+      lure the US to provide cover for future European military encroachments. Their
+      amendments will thus constitute a ‘ceasefire’ plan, albeit couched in more clever
+      proposals. All of which Russia will reject. Trump’s response to Europe’s counterproposals
+      will likely include his acceptance of whatever the Europeans propose at Geneva.
+      He’s as much as said so. The 28 Pt plan, even with the European amendments, is
+      just an interim document and another false start event—i.e. an ‘Anchorage 2.0’—on
+      the road to a later more serious negotiation. When asked by the media he admitted
+      the plan is not the ‘final agreement’. And when queried in turn what he’ll do
+      if Zelensky rejects it, Trump replied: “he’ll have to like it, or just keep fighting,
+      I guess.” Strategically the best the US and Trump can get from the Plan is to
+      move Ukraine and Europe off their nearly four years-long hardline positions. To
+      create some ‘hooks’ upon which to hang future negotiations. True negotiations
+      will not begin until Russia takes back all the four provinces it has declared
+      as part of sovereign Russia. Serious discussions begin only when Russia takes
+      back all of the four provinces, stands at the Dnipr river and decides whether
+      or not to push further west into Ukraine or to take Odessa in the south.  At that
+      point the ‘Special Military Operation’, SMO, becomes something else. Something
+      much larger. Alternatively, realistic negotiations might begin if and when the
+      Ukraine army begins to collapse before Russia reaches the Dnipr, which could happen
+      within the next 90 days given the current rate of Russian advances on the ground
+      in the east. The Institute for War (IFW), a western think tank clearly allied
+      with NATO and Ukraine, has reported up to 300,000 Ukrainian troops have deserted
+      since the war began. At least another 500,000 have been killed or permanently
+      disabled. Per the IFW Ukraine is recruiting 17,000 troops per month but is losing
+      30,000.  Russian volunteers (not draftees as in Ukraine) are joining its military
+      at the rate of roughly 30,000/ month and its losses are much less than its recruitment.
+      The ultimate limit to war is not finding enough money to pay for it. Nor even
+      enough weapons. It is the manpower losses. The war in Ukraine will end when the
+      military conflict ends. Not vice versa—i.e. not as result of a ceasefire ending
+      the conflict before negotiating the terms of its ending. The Trump 28 Pt. plan
+      will not begin the process of ending the war. On the contrary, the inevitable
+      collapse of the plan may well lead to more escalation, not less. Jack Rasmus November
+      22, 2025'
+    one_sentence_summary: President Trump's recent 28-point proposal for negotiations
+      to end the Ukraine-Russia war raises questions about its motivations, including
+      potential political maneuvers to reduce U.S. involvement, leverage sanctions,
+      and exploit frozen Russian assets.
+    paragraph_summary: President Trump's recent 28-point proposal for negotiations to
+      end the ongoing Ukraine-Russia war raises questions about its underlying motives
+      and implications. Analysts speculate whether the proposal reflects prior understandings
+      between Trump and Putin, serves as a political cover for reducing U.S. military
+      aid to Ukraine while imposing sanctions on both Russia and Ukraine, or is a strategy
+      to enable the U.S. to benefit from frozen Russian assets. There are also suggestions
+      that it could be a tactic to justify a U.S. withdrawal from the conflict, allowing
+      Europe to take the lead, or a maneuver to facilitate a temporary truce that would
+      give Ukraine time to regroup. Ultimately, the proposal aims to shift the entrenched
+      positions of the involved parties—Ukraine, Russia, and Europe—who have remained
+      largely unchanged in their stances, potentially paving the way for future negotiations
+      after further military exhaustion.
+    published: '2025-11-24T18:35:12+00:00'
   - title: '4 Financial Bubbles: Gold, Cryptos, Stocks & AI'
     url: https://jackrasmus.com/2025/10/22/4-financial-bubbles-gold-cryptos-stocks-ai/
     text: https://alternativevisions.podbean.com/e/4-financial-bubbles-growing-gold-cryptos-us-stocks-ai/
