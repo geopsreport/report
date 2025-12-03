@@ -7,16 +7,72 @@ description: "Jack Rasmus is an American economist, author, and radio show host 
 websites:
   - https://jackrasmus.com/
 summary: |
-  As the Ukraine-Russia conflict grinds on with no decisive shifts on the battlefield or at the negotiating table, the latest developments center on President Trump’s recently unveiled 28-point proposal for ending the war. This initiative, coming after a series of failed negotiation attempts and shifting U.S. policy stances, is widely seen by analysts as a strategic maneuver rather than a genuine breakthrough.
+  As global markets enter December 2025, volatility across financial asset classes is intensifying, with geopolitical tensions and domestic policy uncertainty amplifying instability. The latest analysis by **Jack Rasmus** highlights several interconnected developments shaping the geopolitical and economic landscape.
   
-  **Jack Rasmus** notes that the Trump plan may serve multiple purposes: providing political cover for reducing U.S. military aid to Ukraine, leveraging sanctions against both Russia and Ukraine, and potentially enabling the U.S. to benefit from frozen Russian assets. There is also speculation that the proposal could justify a U.S. withdrawal from the conflict, effectively shifting responsibility to European allies, or facilitate a temporary truce to allow Ukraine to regroup. However, entrenched positions among Ukraine, Russia, and Europe remain largely unchanged, suggesting that the plan’s immediate impact will be limited. Rasmus emphasizes that the proposal is likely intended to set the stage for future negotiations after further military exhaustion, rather than to deliver an imminent peace.
+  The most recent reports underscore a surge in volatility across Cryptos, Gold, and Stock Markets, with **Rasmus** warning of potential contagion effects between these asset classes. He notes, “The volatility is not isolated—instability in one market is increasingly spilling over into others.” This heightened turbulence is attributed to a combination of unresolved geopolitical crises and unreliable US economic data, the latter exacerbated by a recent government shutdown that has undermined confidence in official statistics.
   
-  On the economic front, the U.S. faces mounting instability. The convergence of four major asset bubbles—gold, cryptocurrencies, U.S. stocks, and AI investments—has created a precarious financial environment. According to **Jack Rasmus**, AI-driven speculation has accounted for 80% of stock price appreciation in 2025, with the scale of the AI bubble now dwarfing previous market excesses. The 10% depreciation of the dollar, driven by U.S. sanctions and a global economic slowdown, has further fueled investor flight to alternative assets. These dynamics point to a high risk of financial instability or even a crash, with Rasmus warning that the current situation is “already four times larger than the mortgage bubble of 2003-07 and 17 times the dotcom bubble of 1997-2000.”
+  On the geopolitical front, the situation in Ukraine remains in flux. President Trump’s 28-point Ukraine war proposal, discussed in detail by **Rasmus**, is viewed as a strategic maneuver to reduce US involvement while leveraging sanctions and frozen Russian assets. However, skepticism persists about the plan’s true intent, with **Rasmus** suggesting it may be more about domestic political positioning than genuine conflict resolution.
   
-  Looking ahead, the majority of independent analysts agree that the Ukraine conflict is unlikely to see a negotiated resolution in the near term, as all parties remain dug in. The U.S. is quite likely to continue reducing its direct involvement, shifting the burden to Europe, while seeking ways to benefit economically from the situation. Financial markets, meanwhile, are entering a period of heightened risk, with a high chance of significant corrections or instability in the coming months.
+  Meanwhile, the broader economic outlook for the US is clouded by warning signs of recession. Recent negative job and GDP data, coupled with aggressive tariff hikes, have led **Rasmus** to assert that “the door to recession is now open,” contradicting earlier claims of economic resilience. He further critiques the mainstream focus on the specifics of Trump’s tax cuts, arguing that the real issue is a mounting fiscal crisis driven by decades of tax reductions, soaring defense spending, and a national debt projected to hit $38 trillion by year’s end.
   
-  **Prediction:** There is a high chance that the U.S. will further scale back its military and financial commitments to Ukraine, using diplomatic proposals as cover. The financial bubbles, especially in AI and alternative assets, are most definitely unsustainable and will lead to increased volatility or a correction in the near future.
+  Looking ahead, **Rasmus** predicts with high confidence that financial market volatility will persist and likely worsen, given the interconnectedness of asset bubbles and ongoing geopolitical uncertainty. He also maintains a high chance of continued economic slowdown in the US, with the risk of recession now “quite likely.” The geopolitical stalemate in Ukraine is expected to drag on, with any major breakthrough in negotiations remaining elusive in the near term.
+  
+  In summary, the current environment is defined by mounting financial instability, unreliable economic data, and unresolved geopolitical crises, all contributing to a heightened sense of uncertainty as 2025 draws to a close.
 articles:
+  - title: Financial Bubbles Becoming More Volatile
+    url: https://jackrasmus.com/2025/12/02/financial-bubbles-becoming-more-volatile/
+    text: 'Listen to my November 21, 2025 Alternative Visions radio show for discussion
+      of the latest swings in financial asset prices for Cryptos, Gold, Stock Markets
+      and AI. How are they related? Will contagion spread from one to the others? What’s
+      the contagion mechanism? Why are financial assets becoming more unstable, while
+      the real economy continues to slow? Why the recent government shutdown means October
+      and November US govt stats are virtually worthless (as no surveys for wages, prices,
+      jobs, GDP took place and Govt stat departments say they’ll ‘impute’ the gap between
+      Sept. and December–i.e. make up the numbers). Why December numbers will be biased
+      to the upside temporarily after the shutdown. (Also my latest analyses on the
+      prospects for war in Ukraine and Venezuela) TO Listen: https://alternativevisions.podbean.com/e/alternate-visions-financial-bubbles-become-more-volatile-fragile-latest-on-ukraine-and-venezuela-112125/'
+    one_sentence_summary: The November 21, 2025 Alternative Visions radio show discusses
+      the volatility of financial asset prices, including Cryptos, Gold, and Stock Markets,
+      examines the potential contagion effects among them, critiques the reliability
+      of US government statistics due to a recent shutdown, and analyzes the geopolitical
+      situations in Ukraine and Venezuela.
+    paragraph_summary: In the November 21, 2025 episode of the Alternative Visions radio
+      show, the host discusses the recent volatility in financial asset prices, including
+      cryptocurrencies, gold, stock markets, and AI, exploring their interconnections
+      and the potential for contagion among them. The show addresses the increasing
+      instability of financial assets despite a slowing real economy and critiques the
+      impact of a recent government shutdown, which rendered October and November U.S.
+      government statistics unreliable due to the lack of data collection. The host
+      warns that December's figures may be artificially inflated as a result. Additionally,
+      the episode includes analyses of the geopolitical situations in Ukraine and Venezuela.
+    published: '2025-12-03T01:36:59+00:00'
+  - title: Financial Bubbles Becoming More Volatile
+    url: https://jackrasmus.com/2025/12/02/financial-bubbles-becoming-more-volatile/
+    text: 'Listen to my November 21, 2025 Alternative Visions radio show for discussion
+      of the latest swings in financial asset prices for Cryptos, Gold, Stock Markets
+      and AI. How are they related? Will contagion spread from one to the others? What’s
+      the contagion mechanism? Why are financial assets becoming more unstable, while
+      the real economy continues to slow? Why the recent government shutdown means October
+      and November US govt stats are virtually worthless (as no surveys for wages, prices,
+      jobs, GDP took place and Govt stat departments say they’ll ‘impute’ the gap between
+      Sept. and December–i.e. make up the numbers). Why December numbers will be biased
+      to the upside temporarily after the shutdown. (Also my latest analyses on the
+      prospects for war in Ukraine and Venezuela) TO Listen: https://alternativevisions.podbean.com/e/alternate-visions-financial-bubbles-become-more-volatile-fragile-latest-on-ukraine-and-venezuela-112125/'
+    one_sentence_summary: The November 21, 2025 Alternative Visions radio show discusses
+      the volatility of financial asset prices, including Cryptos, Gold, and Stock Markets,
+      examines the potential contagion effects among them, critiques the reliability
+      of US government statistics due to a recent shutdown, and analyzes the geopolitical
+      situations in Ukraine and Venezuela.
+    paragraph_summary: In the November 21, 2025 episode of the Alternative Visions radio
+      show, the host discusses the recent volatility in financial asset prices, including
+      cryptocurrencies, gold, stock markets, and AI, exploring their interconnections
+      and the potential for contagion among them. The show addresses the increasing
+      instability of financial assets despite a slowing real economy and critiques the
+      impact of a recent government shutdown, which rendered October and November U.S.
+      government statistics unreliable due to the lack of data collection. The host
+      warns that December's figures may be artificially inflated as a result. Additionally,
+      the episode includes analyses of the geopolitical situations in Ukraine and Venezuela.
+    published: '2025-12-03T01:36:59+00:00'
   - title: Trump’s 28 Pt. Ukraine War Plan
     url: https://jackrasmus.com/2025/11/24/trumps-28-pt-ukraine-war-plan/
     text: 'by Jack Rasmus This past week President Trump proposed a 28 Pt. plan to Russia

@@ -7,16 +7,54 @@ description: "Retired US diplomat and China/Middle East expert; realist voice on
 websites:
   - https://chasfreeman.net
 summary: |
-  As the global order continues to shift in late 2025, recent analyses highlight mounting pressures on Western dominance, the persistence of unresolved conflicts, and the urgent need for diplomatic recalibration. The following developments and perspectives from **Chas W. Freeman, Jr.** provide context for the evolving geopolitical landscape.
+  As the international order continues its rapid transformation, recent analyses highlight the intensifying competition between the United States and China, the ongoing instability in Europe, and the persistent challenges in the Middle East. These developments are reshaping global alignments and prompting calls for a reassessment of diplomatic strategies.
   
-  The U.S.-Israel relationship remains under scrutiny, with **Freeman** questioning whether American foreign policy serves broader national interests or disproportionately prioritizes Israel. He argues for a more balanced approach that integrates Arab perspectives, suggesting that such a shift could foster greater regional stability. This debate reflects growing calls within U.S. policy circles for a reassessment of alliances and strategic priorities in the Middle East.
+  The most recent remarks from **Chas W. Freeman, Jr.** at Brown University underscore China’s successful resurgence as a global power. Freeman emphasizes that “the dynamics of change often reveal the ambitions of those who stand to gain from it,” pointing to China’s return to wealth and influence as a defining feature of the current era. He warns that the manner in which the U.S. and other nations respond to China’s growing prominence will have lasting consequences for international relations and global stability.
   
-  Simultaneously, the ongoing war in Ukraine exemplifies the West’s struggle to achieve its strategic objectives. **Freeman** contends that the conflict has not weakened Russia as intended, but has instead devastated Ukraine and failed to isolate Moscow. He warns that without a realistic peace plan—one that acknowledges Russian security concerns—Ukraine risks further dismemberment and suffering. The majority view among independent analysts is that continued Western reliance on military solutions, rather than inclusive diplomacy, will prolong instability in Europe.
+  On the European front, Freeman’s earlier critiques of the war in Ukraine remain relevant. He argues that Western strategies have failed to weaken Russia or integrate Ukraine into the Western alliance, resulting instead in the devastation of Ukraine and the entrenchment of Russian influence. Without a realistic peace plan that addresses Russia’s security concerns, Freeman predicts continued instability and the potential for further fragmentation in Europe.
   
-  On the global stage, the U.S.-China rivalry is intensifying amid what **Freeman** describes as a period of Western decline and systemic transformation. He cautions that American perceptions of China are often shaped by ideological bias and misperception, leading to counterproductive policies that escalate tensions, especially over Taiwan. **Freeman** emphasizes that China seeks regional respect and stability rather than expansion, and that U.S. efforts to contain its rise have inadvertently strengthened Sino-Russian ties.
+  Turning to the Middle East, Freeman questions whether U.S. foreign policy is prioritizing Israeli interests over broader American objectives. He advocates for a more balanced approach that includes the perspectives of Arab nations, suggesting this could lead to more effective diplomacy and regional stability.
   
-  Looking ahead, the trends point toward a fragmented, “multi-nodal” world order where Western influence is increasingly contested by regional powers. **Freeman** predicts with high confidence that unless the U.S. embraces professional diplomacy, prioritizes dialogue, and recalibrates its grand strategy, it will face further marginalization. There is a high chance that unresolved conflicts—particularly in Ukraine and the Middle East—will persist absent a fundamental shift toward inclusive, realistic negotiations. The majority consensus is clear: only a renewed commitment to diplomacy can prevent further escalation and foster a more stable international system.
+  Looking ahead, the prevailing trend is a shift toward a more complex, multi-nodal world order, with China asserting itself as a central power and the West facing challenges to its dominance. Freeman’s analysis suggests that unless the U.S. recalibrates its approach—prioritizing diplomacy, dialogue, and a realistic assessment of its own strengths and limitations—it risks further marginalization in a rapidly evolving geopolitical landscape. There is a high chance that China’s influence will continue to grow, and, unless addressed, the current trajectories in Europe and the Middle East will perpetuate instability. I guarantee that the choices made by major powers in the coming months will decisively shape the future of global order.
 articles:
+  - title: Ceding the Future to China
+    url: https://chasfreeman.net/ceding-the-future-to-china/
+    text: Ceding the Future to China Remarks to Brown University’s Watson School’s “China
+      Chat” Ambassador Chas W. Freeman, Jr. (USFS, Ret.) Providence, Rhode Island, 2
+      December 2025 It is human to imagine that change lays bare the ambitions of those
+      who benefit from it. China has successfully returned to wealth and …
+    one_sentence_summary: In his remarks at Brown University, Ambassador Chas W. Freeman,
+      Jr. discusses how China's resurgence to wealth highlights the ambitions of those
+      who benefit from global changes, emphasizing the need for the U.S. to reconsider
+      its position in relation to China.
+    paragraph_summary: In his remarks at Brown University's Watson School's "China Chat,"
+      Ambassador Chas W. Freeman, Jr. discussed the implications of China's resurgence
+      as a global power and the potential consequences for the future. He emphasized
+      that the dynamics of change often reveal the ambitions of those who stand to gain
+      from it, highlighting China's successful return to wealth and influence on the
+      world stage. Freeman's insights suggest a need for careful consideration of how
+      the U.S. and other nations respond to China's growing prominence, as it could
+      shape international relations and global stability moving forward.
+    published: '2025-12-02T17:00:27+00:00'
+  - title: Ceding the Future to China
+    url: https://chasfreeman.net/ceding-the-future-to-china/
+    text: Ceding the Future to China Remarks to Brown University’s Watson School’s “China
+      Chat” Ambassador Chas W. Freeman, Jr. (USFS, Ret.) Providence, Rhode Island, 2
+      December 2025 It is human to imagine that change lays bare the ambitions of those
+      who benefit from it. China has successfully returned to wealth and …
+    one_sentence_summary: In his remarks at Brown University, Ambassador Chas W. Freeman,
+      Jr. discusses how China's resurgence to wealth highlights the ambitions of those
+      who benefit from global changes, emphasizing the need for the U.S. to reconsider
+      its position in relation to China.
+    paragraph_summary: In his remarks at Brown University's Watson School's "China Chat,"
+      Ambassador Chas W. Freeman, Jr. discussed the implications of China's resurgence
+      as a global power and the potential consequences for the future. He emphasized
+      that the dynamics of change often reveal the ambitions of those who stand to gain
+      from it, highlighting China's successful return to wealth and influence on the
+      world stage. Freeman's insights suggest a need for careful consideration of how
+      the U.S. and other nations respond to China's growing prominence, as it could
+      shape international relations and global stability moving forward.
+    published: '2025-12-02T17:00:27+00:00'
   - title: Israel or America First?
     url: https://chasfreeman.net/2631-2/
     text: Israel or America First? Address to the Arab Center, Washington, DC Ambassador

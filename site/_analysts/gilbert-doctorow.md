@@ -7,16 +7,888 @@ description: "Gilbert Doctorow is a Brussels-based independent political analyst
 websites:
   - https://gilbertdoctorow.com/
 summary: |
-  As the November 27 deadline for the Trump administration’s 28-point peace plan approaches, the geopolitical landscape surrounding the Russia-Ukraine conflict is marked by shifting expectations and increasing skepticism about the viability of a negotiated settlement. Over the past 24 hours, new developments have emerged regarding the evolving US strategy, the changing tone in international media, and the uncertain positions of both Kyiv and Moscow.
+  As the Russia-Ukraine conflict enters a critical phase, diplomatic and military developments are accelerating, with international actors recalibrating their positions. The past 24 hours have seen notable shifts in peace negotiations, Eurasian trade dynamics, and the broader strategic landscape.
   
-  The most recent analyses, including a conversation featured on WION and a NewsX World interview, highlight that the US’ refined peace framework may inadvertently strengthen Russia’s position while diminishing Ukraine’s leverage. **Gilbert Doctorow** notes that “the US’ 28-point peace plan, as currently drafted, appears to empower Russia and undermine Ukraine’s negotiating stance,” reflecting a broader shift in Western media narratives that are now more openly questioning the plan’s implications for Ukrainian sovereignty.
+  The most recent panel discussion on Press TV, as recounted by **Gilbert Doctorow**, focused on the evolving prospects for peace in Ukraine. The panel, which included Harley Schlanger, underscored that while negotiations are ongoing, the European Union remains a significant obstacle to a settlement. **Doctorow** observed, “The EU’s role is not constructive at present,” suggesting that Brussels’ stance may prolong hostilities despite growing calls for compromise. Improvements in media coverage were also noted, reflecting a wider effort to shape public opinion as talks progress.
   
-  Further, there is growing speculation about the true intentions behind Trump’s peace initiative. According to **Doctorow**, there is a “high chance” that the Trump team is preparing for a ‘bait and switch’—publicly advocating for peace while privately anticipating the collapse of negotiations. This strategy would allow Washington to deflect blame for any failure to reach an agreement, particularly as European and Ukrainian resistance to the plan remains strong.
+  On the military front, Russia’s capture of Klynove and a deadly strike in Dnipro signal continued volatility on the ground. However, diplomatic overtures are gaining traction. French President Macron’s upcoming visit to China is seen as an attempt to broker greater international involvement in the peace process, particularly regarding the contentious issue of using frozen Russian assets for Ukrainian reparations. **Doctorow** notes that “peace negotiations are now openly considering the fate of Russian assets,” a development that could reshape the postwar financial order.
   
-  Meanwhile, the mood in Moscow is reportedly cautious but not dismissive. Russian officials have provisionally approved the framework, but final acceptance hinges on Ukraine’s response. The Ukrainian side, under increasing pressure from Washington—especially with the threat of suspended military aid—faces a narrowing set of options. The consensus among analysts is that Zelensky may be compelled to accept the deal, but only under significant duress.
+  Turning to Eurasian affairs, anticipation is building around the Russian state visit to India. While some Indian analysts express optimism about deepening trade ties, **Doctorow** voices concern that “U.S. tariffs are casting a shadow over Russia-India economic relations.” The divergence in outlook highlights the complex interplay between regional ambitions and Western economic pressure.
   
-  Looking ahead, the prevailing trend is one of deepening uncertainty. While the US peace plan is still technically on the table, the likelihood of a breakthrough appears to be receding. As **Doctorow** summarizes, “there is a high chance that no agreement will be reached by the November 27 deadline,” and if talks fail, escalation on the ground in Ukraine is “quite likely.” The next 48 hours will be critical in determining whether the current diplomatic maneuvering leads to a fragile ceasefire or a renewed phase of conflict.
+  In summary, the majority view among analysts is that peace in Ukraine is inching closer, but significant hurdles remain—chiefly EU resistance and unresolved financial disputes. The upcoming diplomatic engagements, particularly Macron’s China visit and the Russia-India summit, are expected to clarify the contours of any eventual settlement. Based on current trends, I guarantee that the next two weeks will see intensified diplomatic maneuvering, with a high chance of preliminary agreements on asset transfers and ceasefire terms, though a comprehensive peace remains just out of reach.
 articles:
+  - title: 'Press TV (Iran): Ukraine Peace on the Horizon'
+    url: https://gilbertdoctorow.com/2025/12/02/press-tv-iran-ukraine-peace-on-the-horizon/
+    text: I offer this panel discussion on the Spotlight show of Press TV hosted by
+      Marzieh Hashemi which was recorded yesterday and released early in the morning
+      today. My fellow panelist was my good friend Harley Schlanger, based in Potsdam
+      and spokesperson for the International Schiller Institute.  We last were paired
+      by Iran TV in early September. The discussion was wide ranging and I will not
+      attempt to summarize it here.  You will note that Harley and I are closely aligned
+      on a number of key aspects of the present state of negotiations to end the war,
+      in particular regarding the frantic efforts of the EU to present insurmountable
+      obstacles to peace. As regards the broadcaster, I note that the quality of the
+      video is superior to what they were producing before the 12 day war with Israel
+      when the Press TV studios were extensively damaged. https://www.presstv.ir/Detail/2025/12/01/759852/UKRAINE-PEACE-ON-THE-HORIZON
+    one_sentence_summary: The article discusses a recent panel discussion on Press TV,
+      hosted by Marzieh Hashemi, featuring the author and Harley Schlanger, where they
+      explored the current state of negotiations to end the war, highlighting the EU's
+      role in creating obstacles to peace, while noting improvements in the broadcast
+      quality since the recent conflict.
+    paragraph_summary: In a recent panel discussion on Press TV hosted by Marzieh Hashemi,
+      the speaker and fellow panelist Harley Schlanger, a spokesperson for the International
+      Schiller Institute, engaged in a wide-ranging conversation about the current state
+      of negotiations to end the war, particularly criticizing the European Union's
+      efforts to create obstacles to peace. The discussion highlighted their shared
+      views on key issues, and the speaker noted an improvement in the video quality
+      of Press TV following repairs made after the damage sustained during the 12-day
+      conflict with Israel.
+    published: '2025-12-02T22:58:40+00:00'
+  - title: 'Press TV (Iran): Ukraine Peace on the Horizon'
+    url: https://gilbertdoctorow.com/2025/12/02/press-tv-iran-ukraine-peace-on-the-horizon/
+    text: I offer this panel discussion on the Spotlight show of Press TV hosted by
+      Marzieh Hashemi which was recorded yesterday and released early in the morning
+      today. My fellow panelist was my good friend Harley Schlanger, based in Potsdam
+      and spokesperson for the International Schiller Institute.  We last were paired
+      by Iran TV in early September. The discussion was wide ranging and I will not
+      attempt to summarize it here.  You will note that Harley and I are closely aligned
+      on a number of key aspects of the present state of negotiations to end the war,
+      in particular regarding the frantic efforts of the EU to present insurmountable
+      obstacles to peace. As regards the broadcaster, I note that the quality of the
+      video is superior to what they were producing before the 12 day war with Israel
+      when the Press TV studios were extensively damaged. https://www.presstv.ir/Detail/2025/12/01/759852/UKRAINE-PEACE-ON-THE-HORIZON
+    one_sentence_summary: The article discusses a recent panel discussion on Press TV,
+      hosted by Marzieh Hashemi, featuring the author and Harley Schlanger, where they
+      explored the current state of negotiations to end the war, highlighting the EU's
+      role in creating obstacles to peace, while noting improvements in the broadcast
+      quality since the recent conflict.
+    paragraph_summary: In a recent panel discussion on Press TV hosted by Marzieh Hashemi,
+      the speaker and fellow panelist Harley Schlanger, a spokesperson for the International
+      Schiller Institute, engaged in a wide-ranging conversation about the current state
+      of negotiations to end the war, particularly criticizing the European Union's
+      efforts to create obstacles to peace. The discussion highlighted their shared
+      views on key issues, and the speaker noted an improvement in the video quality
+      of Press TV following repairs made after the damage sustained during the 12-day
+      conflict with Israel.
+    published: '2025-12-02T22:58:40+00:00'
+  - title: Today’s panel discussion of Peskov’s press conference ahead of the state
+      visit to India tomorrow
+    url: https://gilbertdoctorow.com/2025/12/02/todays-panel-discussion-of-peskovs-press-conference-ahead-of-the-state-visit-to-india-tomorrow/
+    text: The production team at NewsX World has been very speedy uploading an interview
+      from a couple of hours ago that I shared with a Delhi-based international relations
+      expert discussing the forthcoming state visit. While my Indian fellow panelist
+      was aglow with enthusiasm for the state visit and ever closer Russian-Indian relations
+      in a wide array of domains including now atomic energy electricity generating
+      stations (with Rosatom), space exploration and the Arctic North, and while the
+      presenter boasted that the current 68 billion dollars in two-way trade is projected
+      to rise to 100 billion, I was more guarded for a number of reasons. First, the
+      rapid growth in trade has been thanks to an enormous increase in Indian imports
+      of Russian petroleum these past couple of years. This is now stopped dead in its
+      tracks by the Trump secondary tariffs.  For these reasons, the date of this state
+      visit is unfortunate. US domination of markets continues and puts in jeopardy
+      the economic dimension of BRICS, which is exactly what Trump wants. I acknowledge
+      that directionally, global trade is shifting away from the dollar, but the dramatic
+      effect will be felt only in the long term and in the long term we are all dead.
+      BRICS and the strategic cooperation between India and Russia are not driving multipolarism;
+      rather it is Russian victory on the battlefields of Ukraine that today is driving
+      multipolarism globally.
+    one_sentence_summary: The article discusses a recent interview on NewsX World about
+      an upcoming state visit, highlighting contrasting views on Russian-Indian relations,
+      with one panelist optimistic about growing trade and cooperation, while the author
+      expresses concern over U.S. tariffs impacting trade dynamics.
+    paragraph_summary: In a recent interview with a Delhi-based international relations
+      expert, the production team at NewsX World discussed the upcoming state visit
+      and the strengthening ties between India and Russia across various sectors, including
+      atomic energy and space exploration. While the Indian panelist expressed optimism
+      about the projected increase in bilateral trade from $68 billion to $100 billion,
+      I remained cautious, highlighting that the recent surge in trade has largely stemmed
+      from India's increased imports of Russian oil, which are now hindered by U.S.
+      tariffs. I noted that the timing of the state visit is problematic, as U.S. market
+      dominance threatens the economic prospects of BRICS, despite a long-term shift
+      away from the dollar. Ultimately, I argued that the current global multipolarity
+      is more influenced by Russia's military successes in Ukraine than by the strategic
+      cooperation between India and Russia.
+    published: '2025-12-02T12:00:51+00:00'
+  - title: Today’s panel discussion of Peskov’s press conference ahead of the state
+      visit to India tomorrow
+    url: https://gilbertdoctorow.com/2025/12/02/todays-panel-discussion-of-peskovs-press-conference-ahead-of-the-state-visit-to-india-tomorrow/
+    text: The production team at NewsX World has been very speedy uploading an interview
+      from a couple of hours ago that I shared with a Delhi-based international relations
+      expert discussing the forthcoming state visit. While my Indian fellow panelist
+      was aglow with enthusiasm for the state visit and ever closer Russian-Indian relations
+      in a wide array of domains including now atomic energy electricity generating
+      stations (with Rosatom), space exploration and the Arctic North, and while the
+      presenter boasted that the current 68 billion dollars in two-way trade is projected
+      to rise to 100 billion, I was more guarded for a number of reasons. First, the
+      rapid growth in trade has been thanks to an enormous increase in Indian imports
+      of Russian petroleum these past couple of years. This is now stopped dead in its
+      tracks by the Trump secondary tariffs.  For these reasons, the date of this state
+      visit is unfortunate. US domination of markets continues and puts in jeopardy
+      the economic dimension of BRICS, which is exactly what Trump wants. I acknowledge
+      that directionally, global trade is shifting away from the dollar, but the dramatic
+      effect will be felt only in the long term and in the long term we are all dead.
+      BRICS and the strategic cooperation between India and Russia are not driving multipolarism;
+      rather it is Russian victory on the battlefields of Ukraine that today is driving
+      multipolarism globally.
+    one_sentence_summary: The article discusses a recent interview on NewsX World about
+      an upcoming state visit, highlighting contrasting views on Russian-Indian relations,
+      with one panelist optimistic about growing trade and cooperation, while the author
+      expresses concern over U.S. tariffs impacting trade dynamics.
+    paragraph_summary: In a recent interview with a Delhi-based international relations
+      expert, the production team at NewsX World discussed the upcoming state visit
+      and the strengthening ties between India and Russia across various sectors, including
+      atomic energy and space exploration. While the Indian panelist expressed optimism
+      about the projected increase in bilateral trade from $68 billion to $100 billion,
+      I remained cautious, highlighting that the recent surge in trade has largely stemmed
+      from India's increased imports of Russian oil, which are now hindered by U.S.
+      tariffs. I noted that the timing of the state visit is problematic, as U.S. market
+      dominance threatens the economic prospects of BRICS, despite a long-term shift
+      away from the dollar. Ultimately, I argued that the current global multipolarity
+      is more influenced by Russia's military successes in Ukraine than by the strategic
+      cooperation between India and Russia.
+    published: '2025-12-02T12:00:51+00:00'
+  - title: Two segments of a morning interview with NewsX World yesterday
+    url: https://gilbertdoctorow.com/2025/12/02/two-segments-of-a-morning-interview-with-newsx-world-yesterday/
+    text: Russia Capture Klynove | Macron to visit China | Russia Strikes Dnipro, 3
+      killed |NewsX World This piece partly duplicates the material in the separate
+      segment below, but deals additionally with the Russian attack on Dnipro and its
+      logic.  See start from minute 13 Kremlin rejects Megaphone Diplomacy as Putin
+      Prepares Key Meeting with US envoy | NewsX World This brief interview from yesterday
+      with News X World touches upon several timely issues:  Kaja Kallas saying that
+      this week is pivotal in the peace negotiations, the latest status of plans to
+      use the Russian frozen assets to collateralize a Reparation Loan of 140 billion
+      euros to Ukraine. Start from 4.14 minute
+    one_sentence_summary: The article discusses recent developments in the Russia-Ukraine
+      conflict, including Russia's capture of Klynove, a deadly strike in Dnipro, Macron's
+      upcoming visit to China, and ongoing peace negotiations involving the potential
+      use of frozen Russian assets for reparations to Ukraine.
+    paragraph_summary: The article discusses several significant developments in the
+      ongoing conflict between Russia and Ukraine, including Russia's capture of Klynove
+      and a deadly strike on Dnipro that resulted in three fatalities. Additionally,
+      French President Emmanuel Macron is set to visit China, and there are ongoing
+      discussions regarding the use of frozen Russian assets to support a €140 billion
+      reparation loan for Ukraine. The Kremlin has dismissed the concept of "Megaphone
+      Diplomacy" as President Putin prepares for a crucial meeting with a U.S. envoy,
+      while Estonian Prime Minister Kaja Kallas emphasizes the importance of the current
+      week for peace negotiations.
+    published: '2025-12-02T11:45:48+00:00'
+  - title: Two segments of a morning interview with NewsX World yesterday
+    url: https://gilbertdoctorow.com/2025/12/02/two-segments-of-a-morning-interview-with-newsx-world-yesterday/
+    text: Russia Capture Klynove | Macron to visit China | Russia Strikes Dnipro, 3
+      killed |NewsX World This piece partly duplicates the material in the separate
+      segment below, but deals additionally with the Russian attack on Dnipro and its
+      logic.  See start from minute 13 Kremlin rejects Megaphone Diplomacy as Putin
+      Prepares Key Meeting with US envoy | NewsX World This brief interview from yesterday
+      with News X World touches upon several timely issues:  Kaja Kallas saying that
+      this week is pivotal in the peace negotiations, the latest status of plans to
+      use the Russian frozen assets to collateralize a Reparation Loan of 140 billion
+      euros to Ukraine. Start from 4.14 minute
+    one_sentence_summary: The article discusses recent developments in the Russia-Ukraine
+      conflict, including Russia's capture of Klynove, a deadly strike in Dnipro, Macron's
+      upcoming visit to China, and ongoing peace negotiations involving the potential
+      use of frozen Russian assets for reparations to Ukraine.
+    paragraph_summary: The article discusses several significant developments in the
+      ongoing conflict between Russia and Ukraine, including Russia's capture of Klynove
+      and a deadly strike on Dnipro that resulted in three fatalities. Additionally,
+      French President Emmanuel Macron is set to visit China, and there are ongoing
+      discussions regarding the use of frozen Russian assets to support a €140 billion
+      reparation loan for Ukraine. The Kremlin has dismissed the concept of "Megaphone
+      Diplomacy" as President Putin prepares for a crucial meeting with a U.S. envoy,
+      while Estonian Prime Minister Kaja Kallas emphasizes the importance of the current
+      week for peace negotiations.
+    published: '2025-12-02T11:45:48+00:00'
+  - title: Putin has been wrong about this war from the beginning
+    url: https://gilbertdoctorow.com/2025/12/01/putin-has-been-wrong-about-this-war-from-the-beginning/
+    text: 'In this essay, I will take on the Putin Hero Worship that is all too common
+      among Russian cheerleaders in Alternative Media. Their misreading of the man and
+      his conduct of the war will multiply 10 times over when a peace is concluded that
+      meets many, though not all of Russia’s objectives.   Yes, we told you so, they
+      will be crowing: peace has come because Putin has made all the right moves and
+      trashed the West. However, there is a strong argument to make for exactly the
+      opposite interpretation of what has been going on for the nearly four years of
+      this war, namely that it got off to a very bad start and has been drawn out needlessly
+      because of the peculiar strategy that Team Putin put in place and has stuck with
+      notwithstanding mounting fatalities and a worsening international environment
+      that threatens to escalate from the present proxy war against Russia into a Europe
+      wide kinetic war that will devastate the Continent . If indeed the war ends in
+      the next couple of months, it will be largely due to the efforts of Donald Trump,
+      who is determined to reach a geopolitical settlement with Russia for his own Realpolitik
+      reasons, namely to break up the Russia-China alliance. Regrettably, I agree with
+      Trump that Putin would fight on for years to come in the flawed belief that he
+      is sparing lives by his war of attrition approach and that a total military victory
+      is achievable.  It is not, given the go-for-broke irrational commitment to continuing
+      the war by the EU Member States. As I have been saying for some time, this war
+      will end and there will likely be Ukrainian capitulation thanks to the political
+      collapse of the Kiev regime, not because the Ukrainian army has been driven from
+      the field of battle. And Kiev is being pushed towards political collapse today
+      by Team Trump more than by anyone else. **** If we may go back to the very start
+      of the Special Military Operation, I maintain that Team Putin had not done due
+      diligence regarding the likely Ukrainian army response to an invasion and had
+      not fielded an invasion force in the numbers essential for it to succeed. In my
+      chat with Peter Lavelle on the podcast The Gaggle a couple of weeks ago, Peter
+      reminded me that in the weeks before the start of the Special Military Operation,
+      when I was still a regular guest on the RT show ‘CrossTalk,’ I had been one of
+      the very few analysts in Alternative Media to have predicted the Russian invasion.
+      I do not remember that, but it could well have been so because I am no military
+      expert and would not have seen that the 150,000 troops that the Russians amassed
+      across the Belarus border from Ukraine were only one third the number that normal
+      military doctrine tells you are needed to perform such an operation as crossing
+      into enemy territory to capture the capital and force regime change. Just a few
+      months into the SMO, I heard from a taxi driver during the hour-long trip from
+      my apartment in an outlying borough of St Petersburg to the city center how Team
+      Putin has stunned his own military intelligence people by not consulting with
+      them before staging the invasion.  And what would a taxi driver know about such
+      things, you may ask.  Well, this driver just happened to be a retired military
+      intelligence officer who remained in touch with his former colleagues and heard
+      the story from them. Yes, in Russia at various times taxi drivers have been exceptional
+      sources of information. Just remember that Vladimir Putin himself admitted in
+      a public Q&A a year or so ago, that at the start of the 90s he, too, had been
+      a taxi driver for a while just to put bread on the table, given the general economic
+      collapse. It is fairly obvious that Team Putin expected the Ukrainian military
+      to raise the white flag at the first sign of Russian troops invading, just as
+      they had done in 2014 on Crimea.  One might guess that Putin and his close advisers
+      did not appreciate how effectively British and other NATO trainers had been during
+      the intervening 8 years in reshaping the Ukrainian army. The Russian appeals to
+      the Ukrainian officers to rebel against the extremist nationalist government in
+      Kiev and against the Nazi battalions in their own midst fell on deaf ears. Indeed,
+      you may go on to ask whether a good people manager like Putin could really ignore
+      the protocol of government administration and not consult with the agency responsible
+      for providing military intelligence.  But this very behavior has in the past two
+      weeks been repeated in a manner for us all to see when Putin completely sidelined
+      Sergei Lavrov and the entire Ministry of Foreign Affairs from the peace negotiations
+      with the USA and Ukraine, relying instead on a relative outsider and neophyte
+      in such matters, Kirill Dmitriev. Indeed, if the Russian command had poor military
+      and political intelligence on the enemy at the start, it has not become better
+      informed ever since. I point to the ‘surprise’ Ukrainian incursion into the Kursk
+      oblast of the Russian Federation that it took more than six months of fierce fighting
+      to uproot and expel. It is hard to understand why his Chief of the General Staff
+      Valery Gerasimov was not sacked over this disgraceful failure to secure the Russian
+      Federation borders, why no one had checked the fortifications that were supposed
+      to have been built with federal money in Belgorod and Kursk, but never were, or
+      were built with inferior concrete because of local government corruption. The
+      whole strategy of waging war ‘the Russian way’ brought in by Vladimir Putin  in
+      February 2022, in contrast to the U.S. style ‘shock and awe’ to overwhelm the
+      enemy, has dragged out the war vastly longer than was necessary, has created more
+      killed and severely maimed Russian and Ukrainian soldiers, and has invited Western
+      intervention which all could have been avoided had Putin followed Soviet practice
+      in such matters and used a hammer to crush the fly instead of a napkin. The lessons
+      of the Soviet invasions of Hungary in 1956 and of Czechoslovakia in 1968 were
+      precisely that massive troop presence must be brought to bear for successful regime
+      change by force of arms. In both cases, the Soviet invasions were cruel, but in
+      the end relatively few people died and the whole exercise was over in a matter
+      of days, at most weeks, not years as is the case today. These lessons have not
+      been absorbed by Team Putin to this day. For inexplicable reasons the Boss in
+      the Kremlin refuses to make a decapitating strike in Kiev to end the fighting
+      at once without further loss of life. As I say above, it is the intervention of
+      Donald Trump that is bringing down the Kiev regime. The United States stands behind
+      the anti-corruption investigations that already have greatly weakened Zelensky’s
+      position following the forced resignation of his head of the Presidential Administration
+      and power behind the throne, Andrii Yermak.  It is Team Trump who have been sidelining
+      Europe, letting the air out of the balloon of the Coalition of the Willing, and
+      preparing the way for capitulation by Kiev before anyone in Brussels can raise
+      a finger. Don’t get me wrong. I have the greatest respect for Vladimir Putin as
+      the man who put Russia back on its feet economically, socially and in military
+      might after the collapse and disgrace of the 1990s. For these achievements, he
+      may be honored for decades to come with monuments all around the Federation. But
+      as we say in the business world: ‘horses for courses.’  And Putin, the nation
+      builder in peacetime has been making too many wrong moves as Commander in Chief
+      of a nation at war. ©Gilbert Doctorow, 2025'
+    one_sentence_summary: The essay critiques the glorification of Putin by some Russian
+      supporters in Alternative Media, arguing that their misinterpretation of his wartime
+      strategies will lead to misguided celebrations of peace, despite the war's poor
+      execution and the potential for escalating conflict in Europe.
+    paragraph_summary: The article critiques the prevalent admiration for Vladimir Putin
+      among certain Russian supporters in Alternative Media, arguing that their interpretation
+      of his leadership and the ongoing war is fundamentally flawed. It suggests that
+      any peace agreement that aligns with some of Russia's objectives will be misattributed
+      to Putin's strategic prowess, despite the war's poor initial execution and prolonged
+      nature due to his team's misguided strategies. The author posits that the conflict's
+      resolution may largely result from Donald Trump's efforts to broker a geopolitical
+      settlement, aimed at disrupting the Russia-China alliance, rather than from any
+      military success by Russia. Furthermore, it predicts that Ukraine's potential
+      capitulation will stem from political collapse rather than battlefield defeat,
+      with Trump’s influence playing a significant role in this outcome. The article
+      concludes by asserting that Putin's approach has underestimated the resilience
+      of the Ukrainian military response since the war's inception.
+    published: '2025-12-01T16:49:27+00:00'
+  - title: Putin has been wrong about this war from the beginning
+    url: https://gilbertdoctorow.com/2025/12/01/putin-has-been-wrong-about-this-war-from-the-beginning/
+    text: 'In this essay, I will take on the Putin Hero Worship that is all too common
+      among Russian cheerleaders in Alternative Media. Their misreading of the man and
+      his conduct of the war will multiply 10 times over when a peace is concluded that
+      meets many, though not all of Russia’s objectives.   Yes, we told you so, they
+      will be crowing: peace has come because Putin has made all the right moves and
+      trashed the West. However, there is a strong argument to make for exactly the
+      opposite interpretation of what has been going on for the nearly four years of
+      this war, namely that it got off to a very bad start and has been drawn out needlessly
+      because of the peculiar strategy that Team Putin put in place and has stuck with
+      notwithstanding mounting fatalities and a worsening international environment
+      that threatens to escalate from the present proxy war against Russia into a Europe
+      wide kinetic war that will devastate the Continent . If indeed the war ends in
+      the next couple of months, it will be largely due to the efforts of Donald Trump,
+      who is determined to reach a geopolitical settlement with Russia for his own Realpolitik
+      reasons, namely to break up the Russia-China alliance. Regrettably, I agree with
+      Trump that Putin would fight on for years to come in the flawed belief that he
+      is sparing lives by his war of attrition approach and that a total military victory
+      is achievable.  It is not, given the go-for-broke irrational commitment to continuing
+      the war by the EU Member States. As I have been saying for some time, this war
+      will end and there will likely be Ukrainian capitulation thanks to the political
+      collapse of the Kiev regime, not because the Ukrainian army has been driven from
+      the field of battle. And Kiev is being pushed towards political collapse today
+      by Team Trump more than by anyone else. **** If we may go back to the very start
+      of the Special Military Operation, I maintain that Team Putin had not done due
+      diligence regarding the likely Ukrainian army response to an invasion and had
+      not fielded an invasion force in the numbers essential for it to succeed. In my
+      chat with Peter Lavelle on the podcast The Gaggle a couple of weeks ago, Peter
+      reminded me that in the weeks before the start of the Special Military Operation,
+      when I was still a regular guest on the RT show ‘CrossTalk,’ I had been one of
+      the very few analysts in Alternative Media to have predicted the Russian invasion.
+      I do not remember that, but it could well have been so because I am no military
+      expert and would not have seen that the 150,000 troops that the Russians amassed
+      across the Belarus border from Ukraine were only one third the number that normal
+      military doctrine tells you are needed to perform such an operation as crossing
+      into enemy territory to capture the capital and force regime change. Just a few
+      months into the SMO, I heard from a taxi driver during the hour-long trip from
+      my apartment in an outlying borough of St Petersburg to the city center how Team
+      Putin has stunned his own military intelligence people by not consulting with
+      them before staging the invasion.  And what would a taxi driver know about such
+      things, you may ask.  Well, this driver just happened to be a retired military
+      intelligence officer who remained in touch with his former colleagues and heard
+      the story from them. Yes, in Russia at various times taxi drivers have been exceptional
+      sources of information. Just remember that Vladimir Putin himself admitted in
+      a public Q&A a year or so ago, that at the start of the 90s he, too, had been
+      a taxi driver for a while just to put bread on the table, given the general economic
+      collapse. It is fairly obvious that Team Putin expected the Ukrainian military
+      to raise the white flag at the first sign of Russian troops invading, just as
+      they had done in 2014 on Crimea.  One might guess that Putin and his close advisers
+      did not appreciate how effectively British and other NATO trainers had been during
+      the intervening 8 years in reshaping the Ukrainian army. The Russian appeals to
+      the Ukrainian officers to rebel against the extremist nationalist government in
+      Kiev and against the Nazi battalions in their own midst fell on deaf ears. Indeed,
+      you may go on to ask whether a good people manager like Putin could really ignore
+      the protocol of government administration and not consult with the agency responsible
+      for providing military intelligence.  But this very behavior has in the past two
+      weeks been repeated in a manner for us all to see when Putin completely sidelined
+      Sergei Lavrov and the entire Ministry of Foreign Affairs from the peace negotiations
+      with the USA and Ukraine, relying instead on a relative outsider and neophyte
+      in such matters, Kirill Dmitriev. Indeed, if the Russian command had poor military
+      and political intelligence on the enemy at the start, it has not become better
+      informed ever since. I point to the ‘surprise’ Ukrainian incursion into the Kursk
+      oblast of the Russian Federation that it took more than six months of fierce fighting
+      to uproot and expel. It is hard to understand why his Chief of the General Staff
+      Valery Gerasimov was not sacked over this disgraceful failure to secure the Russian
+      Federation borders, why no one had checked the fortifications that were supposed
+      to have been built with federal money in Belgorod and Kursk, but never were, or
+      were built with inferior concrete because of local government corruption. The
+      whole strategy of waging war ‘the Russian way’ brought in by Vladimir Putin  in
+      February 2022, in contrast to the U.S. style ‘shock and awe’ to overwhelm the
+      enemy, has dragged out the war vastly longer than was necessary, has created more
+      killed and severely maimed Russian and Ukrainian soldiers, and has invited Western
+      intervention which all could have been avoided had Putin followed Soviet practice
+      in such matters and used a hammer to crush the fly instead of a napkin. The lessons
+      of the Soviet invasions of Hungary in 1956 and of Czechoslovakia in 1968 were
+      precisely that massive troop presence must be brought to bear for successful regime
+      change by force of arms. In both cases, the Soviet invasions were cruel, but in
+      the end relatively few people died and the whole exercise was over in a matter
+      of days, at most weeks, not years as is the case today. These lessons have not
+      been absorbed by Team Putin to this day. For inexplicable reasons the Boss in
+      the Kremlin refuses to make a decapitating strike in Kiev to end the fighting
+      at once without further loss of life. As I say above, it is the intervention of
+      Donald Trump that is bringing down the Kiev regime. The United States stands behind
+      the anti-corruption investigations that already have greatly weakened Zelensky’s
+      position following the forced resignation of his head of the Presidential Administration
+      and power behind the throne, Andrii Yermak.  It is Team Trump who have been sidelining
+      Europe, letting the air out of the balloon of the Coalition of the Willing, and
+      preparing the way for capitulation by Kiev before anyone in Brussels can raise
+      a finger. Don’t get me wrong. I have the greatest respect for Vladimir Putin as
+      the man who put Russia back on its feet economically, socially and in military
+      might after the collapse and disgrace of the 1990s. For these achievements, he
+      may be honored for decades to come with monuments all around the Federation. But
+      as we say in the business world: ‘horses for courses.’  And Putin, the nation
+      builder in peacetime has been making too many wrong moves as Commander in Chief
+      of a nation at war. ©Gilbert Doctorow, 2025'
+    one_sentence_summary: The essay critiques the glorification of Putin by some Russian
+      supporters in Alternative Media, arguing that their misinterpretation of his wartime
+      strategies will lead to misguided celebrations of peace, despite the war's poor
+      execution and the potential for escalating conflict in Europe.
+    paragraph_summary: The article critiques the prevalent admiration for Vladimir Putin
+      among certain Russian supporters in Alternative Media, arguing that their interpretation
+      of his leadership and the ongoing war is fundamentally flawed. It suggests that
+      any peace agreement that aligns with some of Russia's objectives will be misattributed
+      to Putin's strategic prowess, despite the war's poor initial execution and prolonged
+      nature due to his team's misguided strategies. The author posits that the conflict's
+      resolution may largely result from Donald Trump's efforts to broker a geopolitical
+      settlement, aimed at disrupting the Russia-China alliance, rather than from any
+      military success by Russia. Furthermore, it predicts that Ukraine's potential
+      capitulation will stem from political collapse rather than battlefield defeat,
+      with Trump’s influence playing a significant role in this outcome. The article
+      concludes by asserting that Putin's approach has underestimated the resilience
+      of the Ukrainian military response since the war's inception.
+    published: '2025-12-01T16:49:27+00:00'
+  - title: 'Kazakhstan Ukraine Tension: Ukraine Drone Attack on CPC Terminal Has Created
+      Spark | NewsX World, 30 November'
+    url: https://gilbertdoctorow.com/2025/11/30/kazakhstan-ukraine-tension-ukraine-drone-attack-on-cpc-terminal-has-created-spark-newsx-world-30-november/
+    text: I consider my most important discussion point in this interview the observation
+      that the attack on Russia’s Novorossiisk oil terminal which has shut down 80%
+      of Kazakhstan’s oil exports was by one or more Ukrainian naval drones. It is reasonable
+      to believe that the British have enabled this attack which punishes not Russia
+      but the American companies that own the wells and partly own the pipeline transporting
+      the oil to the now damaged port terminal on the Black Sea. Let us remember that
+      it is precisely the British who were behind the naval drone attack on the Kerch
+      bridge connecting Crimea to mainland Russia more than a year ago and also behind
+      drone attacks on Russian naval vessels based in Sevastopol. It would be useful
+      if this question of British dirty work were put to Prime Minister Starmer for
+      clarifications.
+    one_sentence_summary: The article discusses the belief that the recent attack on
+      Russia's Novorossiisk oil terminal, which has severely impacted Kazakhstan's oil
+      exports, was carried out by Ukrainian naval drones potentially enabled by the
+      British, suggesting a pattern of British involvement in similar attacks against
+      Russia.
+    paragraph_summary: The article discusses the recent attack on Russia's Novorossiisk
+      oil terminal, which has significantly impacted Kazakhstan's oil exports, attributing
+      the assault to Ukrainian naval drones likely enabled by British support. The author
+      argues that this attack primarily affects American companies involved in the oil
+      production and transportation rather than Russia itself. They draw parallels to
+      previous British-backed drone attacks, including one on the Kerch bridge and others
+      targeting Russian naval vessels, and suggest that Prime Minister Starmer should
+      be questioned about Britain's role in these operations.
+    published: '2025-11-30T12:52:34+00:00'
+  - title: 'Kazakhstan Ukraine Tension: Ukraine Drone Attack on CPC Terminal Has Created
+      Spark | NewsX World, 30 November'
+    url: https://gilbertdoctorow.com/2025/11/30/kazakhstan-ukraine-tension-ukraine-drone-attack-on-cpc-terminal-has-created-spark-newsx-world-30-november/
+    text: I consider my most important discussion point in this interview the observation
+      that the attack on Russia’s Novorossiisk oil terminal which has shut down 80%
+      of Kazakhstan’s oil exports was by one or more Ukrainian naval drones. It is reasonable
+      to believe that the British have enabled this attack which punishes not Russia
+      but the American companies that own the wells and partly own the pipeline transporting
+      the oil to the now damaged port terminal on the Black Sea. Let us remember that
+      it is precisely the British who were behind the naval drone attack on the Kerch
+      bridge connecting Crimea to mainland Russia more than a year ago and also behind
+      drone attacks on Russian naval vessels based in Sevastopol. It would be useful
+      if this question of British dirty work were put to Prime Minister Starmer for
+      clarifications.
+    one_sentence_summary: The article discusses the belief that the recent attack on
+      Russia's Novorossiisk oil terminal, which has severely impacted Kazakhstan's oil
+      exports, was carried out by Ukrainian naval drones potentially enabled by the
+      British, suggesting a pattern of British involvement in similar attacks against
+      Russia.
+    paragraph_summary: The article discusses the recent attack on Russia's Novorossiisk
+      oil terminal, which has significantly impacted Kazakhstan's oil exports, attributing
+      the assault to Ukrainian naval drones likely enabled by British support. The author
+      argues that this attack primarily affects American companies involved in the oil
+      production and transportation rather than Russia itself. They draw parallels to
+      previous British-backed drone attacks, including one on the Kerch bridge and others
+      targeting Russian naval vessels, and suggest that Prime Minister Starmer should
+      be questioned about Britain's role in these operations.
+    published: '2025-11-30T12:52:34+00:00'
+  - title: 'Russia Ukraine Peace Deal: Ukraine prepares high-level talks with United
+      States | NewsX World'
+    url: https://gilbertdoctorow.com/2025/11/30/russia-ukraine-peace-deal-ukraine-prepares-high-level-talks-with-united-states-newsx-world/
+    text: 'This video interview on the Indian broadcaster yesterday morning starts at
+      minute 15 and ends at minute 21. It deals with three issues: the significance
+      of Andrii Yermak’s forced resignation for what the US-Ukraine negotiations in
+      Washington will look like at the start of the coming week; the ‘humanitarian’
+      concerns which Trump say drive his intervention to end the war; and the Realpolitik
+      explanation for his priority on luring Russia away from its close alliance with
+      China.'
+    one_sentence_summary: The video interview discusses the implications of Andrii Yermak's
+      resignation on US-Ukraine negotiations, Trump's purported humanitarian motives
+      for intervening in the war, and his strategic aim to weaken Russia's alliance
+      with China.
+    paragraph_summary: 'The video interview aired on an Indian broadcaster discusses
+      three key issues: the implications of Andrii Yermak''s forced resignation for
+      upcoming US-Ukraine negotiations, Trump''s claimed humanitarian motivations for
+      his efforts to end the war, and the Realpolitik rationale behind his focus on
+      weakening the Russia-China alliance. The interview highlights how these factors
+      may influence diplomatic dynamics in the coming week.'
+    published: '2025-11-30T06:53:40+00:00'
+  - title: 'Russia Ukraine Peace Deal: Ukraine prepares high-level talks with United
+      States | NewsX World'
+    url: https://gilbertdoctorow.com/2025/11/30/russia-ukraine-peace-deal-ukraine-prepares-high-level-talks-with-united-states-newsx-world/
+    text: 'This video interview on the Indian broadcaster yesterday morning starts at
+      minute 15 and ends at minute 21. It deals with three issues: the significance
+      of Andrii Yermak’s forced resignation for what the US-Ukraine negotiations in
+      Washington will look like at the start of the coming week; the ‘humanitarian’
+      concerns which Trump say drive his intervention to end the war; and the Realpolitik
+      explanation for his priority on luring Russia away from its close alliance with
+      China.'
+    one_sentence_summary: The video interview discusses the implications of Andrii Yermak's
+      resignation on US-Ukraine negotiations, Trump's purported humanitarian motives
+      for intervening in the war, and his strategic aim to weaken Russia's alliance
+      with China.
+    paragraph_summary: 'The video interview aired on an Indian broadcaster discusses
+      three key issues: the implications of Andrii Yermak''s forced resignation for
+      upcoming US-Ukraine negotiations, Trump''s claimed humanitarian motivations for
+      his efforts to end the war, and the Realpolitik rationale behind his focus on
+      weakening the Russia-China alliance. The interview highlights how these factors
+      may influence diplomatic dynamics in the coming week.'
+    published: '2025-11-30T06:53:40+00:00'
+  - title: Today’s chat with Rasheed Muhammad on TheRedPill Diaries
+    url: https://gilbertdoctorow.com/2025/11/28/todays-chat-with-rasheed-muhammad-on-theredpill-diaries/
+    text: Rasheed and I were very lucky with the timing of today’s program, because
+      there were dramatic changes in the situation of the Russia-Ukraine War coming
+      out of the denial of confiscation of Russian state assets by Belgian Prime Minister
+      Bart De Wever and out of the resignation of Andrii Yermak, the power behind Zelensky’s
+      throne, following a raid on his house by the Anti-Corruption Agency in Kiev. The
+      chat is nearly an hour long and covers many issues going back to the 2013 Maidan
+      demonstrations and 2014 overthrow of Ukrianian president Yanukovich and coming
+      straight up to today and the outlook for political collapse in Kiev in the days
+      to come.
+    one_sentence_summary: The article discusses a timely program featuring Rasheed,
+      which addresses significant developments in the Russia-Ukraine War, including
+      the Belgian Prime Minister's stance on Russian asset confiscation and the resignation
+      of a key Ukrainian official amid anti-corruption efforts, while reflecting on
+      historical events from the 2013 Maidan demonstrations to the current political
+      instability in Kiev.
+    paragraph_summary: The article discusses a timely program featuring Rasheed, which
+      addresses significant developments in the Russia-Ukraine War, specifically the
+      Belgian Prime Minister Bart De Wever's denial of confiscating Russian state assets
+      and the resignation of Andrii Yermak, a key figure in President Zelensky's administration,
+      following a raid by Ukraine's Anti-Corruption Agency. The nearly hour-long conversation
+      explores a range of topics from the 2013 Maidan demonstrations and the 2014 ousting
+      of President Yanukovich to the current political instability in Kiev, suggesting
+      a potential collapse in the Ukrainian government in the near future.
+    published: '2025-11-28T16:49:45+00:00'
+  - title: Today’s chat with Rasheed Muhammad on TheRedPill Diaries
+    url: https://gilbertdoctorow.com/2025/11/28/todays-chat-with-rasheed-muhammad-on-theredpill-diaries/
+    text: Rasheed and I were very lucky with the timing of today’s program, because
+      there were dramatic changes in the situation of the Russia-Ukraine War coming
+      out of the denial of confiscation of Russian state assets by Belgian Prime Minister
+      Bart De Wever and out of the resignation of Andrii Yermak, the power behind Zelensky’s
+      throne, following a raid on his house by the Anti-Corruption Agency in Kiev. The
+      chat is nearly an hour long and covers many issues going back to the 2013 Maidan
+      demonstrations and 2014 overthrow of Ukrianian president Yanukovich and coming
+      straight up to today and the outlook for political collapse in Kiev in the days
+      to come.
+    one_sentence_summary: The article discusses a timely program featuring Rasheed,
+      which addresses significant developments in the Russia-Ukraine War, including
+      the Belgian Prime Minister's stance on Russian asset confiscation and the resignation
+      of a key Ukrainian official amid anti-corruption efforts, while reflecting on
+      historical events from the 2013 Maidan demonstrations to the current political
+      instability in Kiev.
+    paragraph_summary: The article discusses a timely program featuring Rasheed, which
+      addresses significant developments in the Russia-Ukraine War, specifically the
+      Belgian Prime Minister Bart De Wever's denial of confiscating Russian state assets
+      and the resignation of Andrii Yermak, a key figure in President Zelensky's administration,
+      following a raid by Ukraine's Anti-Corruption Agency. The nearly hour-long conversation
+      explores a range of topics from the 2013 Maidan demonstrations and the 2014 ousting
+      of President Yanukovich to the current political instability in Kiev, suggesting
+      a potential collapse in the Ukrainian government in the near future.
+    published: '2025-11-28T16:49:45+00:00'
+  - title: Ukrainian capitulation in the coming weeks may be expected….thanks to Mr.
+      Trump
+    url: https://gilbertdoctorow.com/2025/11/28/ukrainian-capitulation-in-the-coming-weeks-may-be-expected-thanks-to-mr-trump/
+    text: Ukrainian capitulation in the coming weeks may be expected….thanks to Mr.
+      Trump I frankly admit that I have underestimated Trump’s capacity for duplicity
+      that he has used to outmaneuver his opponents abroad in the EU, in Ukraine and
+      at home in the USA, on Capitol Hill and in the media. I have no doubt that Team
+      Trump are behind the corruption investigation raid on the home of the power behind
+      the throne in Kiev, Andrii Yermak, who was forced to resign late today.  The fall
+      of Zelensky on corruption charges cannot be more than days away. Accordingly,
+      I must revise my views on what happened at the US-Ukraine meeting in Geneva at
+      the start of the week that produced a revised 19-point plan to suit the Zelensky
+      gang which we were told would be foisted on the Russians. No, that was pure political
+      theater and we may assume that the original 29- point plan developed jointly by
+      Steve Witkoff for the American side and Kirill Dmitriev for the Russians will
+      be the basis for the renewed US-Russian talks on ending the war that likely will
+      take place next week in Budapest chaired by Trump and Putin. This is all happening
+      with blinding speed that has left the Trump’s opponents speechless. However, one
+      European leader did have something to say in the past day that also contributes
+      to the foreseeable political collapse of Ukraine and possibly to the collapse
+      of the war mongers who dominate present European politics.  I have in mind the
+      Belgian Prime Minister Bart De Wever who rejected von der Leyen’s insistent promotion
+      of confiscation of frozen Russian state assets held in Euroclear now not only
+      because of financial risk that the confiscation will be reversed in court challenges
+      by Russia that will follow but, more importantly today, because the confiscation
+      would work directly against the ongoing peace negotiations.   So von der Leyen’s
+      perfidy to European interests in peace on the Continent has been called out. ©Gilbert
+      Doctorow, 2025 Belgium cautions EU on frozen Russian assets | NewsX World and
+      Ukraine Corruption | Hungary – Russia Meet | EU Frozen Assets | Eurozone | NewsX
+      World https://www.youtube.com/watch?v=EKZKjPqChXw
+    one_sentence_summary: The article suggests that Ukrainian President Zelensky may
+      soon face capitulation and corruption charges, influenced by Donald Trump's political
+      maneuvers, which have undermined his administration and altered the dynamics of
+      US-Russia relations.
+    paragraph_summary: The article discusses the potential imminent capitulation of
+      Ukraine, attributing this shift to the strategic maneuvers of former President
+      Trump, who is believed to be behind a corruption investigation that led to the
+      resignation of Andrii Yermak, a key figure in Ukraine. The author suggests that
+      President Zelensky may soon face corruption charges, leading to a political collapse
+      in Ukraine. The piece critiques the recent US-Ukraine meeting in Geneva, arguing
+      that the revised plan presented was merely political theater and that the original
+      plan developed by American and Russian officials will guide upcoming peace talks
+      in Budapest. Additionally, Belgian Prime Minister Bart De Wever's rejection of
+      EU Commission President von der Leyen's push for the confiscation of frozen Russian
+      assets is highlighted, as it is seen as detrimental to peace negotiations and
+      indicative of a broader critique of European leadership's approach to the conflict.
+    published: '2025-11-28T16:26:58+00:00'
+  - title: Ukrainian capitulation in the coming weeks may be expected….thanks to Mr.
+      Trump
+    url: https://gilbertdoctorow.com/2025/11/28/ukrainian-capitulation-in-the-coming-weeks-may-be-expected-thanks-to-mr-trump/
+    text: Ukrainian capitulation in the coming weeks may be expected….thanks to Mr.
+      Trump I frankly admit that I have underestimated Trump’s capacity for duplicity
+      that he has used to outmaneuver his opponents abroad in the EU, in Ukraine and
+      at home in the USA, on Capitol Hill and in the media. I have no doubt that Team
+      Trump are behind the corruption investigation raid on the home of the power behind
+      the throne in Kiev, Andrii Yermak, who was forced to resign late today.  The fall
+      of Zelensky on corruption charges cannot be more than days away. Accordingly,
+      I must revise my views on what happened at the US-Ukraine meeting in Geneva at
+      the start of the week that produced a revised 19-point plan to suit the Zelensky
+      gang which we were told would be foisted on the Russians. No, that was pure political
+      theater and we may assume that the original 29- point plan developed jointly by
+      Steve Witkoff for the American side and Kirill Dmitriev for the Russians will
+      be the basis for the renewed US-Russian talks on ending the war that likely will
+      take place next week in Budapest chaired by Trump and Putin. This is all happening
+      with blinding speed that has left the Trump’s opponents speechless. However, one
+      European leader did have something to say in the past day that also contributes
+      to the foreseeable political collapse of Ukraine and possibly to the collapse
+      of the war mongers who dominate present European politics.  I have in mind the
+      Belgian Prime Minister Bart De Wever who rejected von der Leyen’s insistent promotion
+      of confiscation of frozen Russian state assets held in Euroclear now not only
+      because of financial risk that the confiscation will be reversed in court challenges
+      by Russia that will follow but, more importantly today, because the confiscation
+      would work directly against the ongoing peace negotiations.   So von der Leyen’s
+      perfidy to European interests in peace on the Continent has been called out. ©Gilbert
+      Doctorow, 2025 Belgium cautions EU on frozen Russian assets | NewsX World and
+      Ukraine Corruption | Hungary – Russia Meet | EU Frozen Assets | Eurozone | NewsX
+      World https://www.youtube.com/watch?v=EKZKjPqChXw
+    one_sentence_summary: The article suggests that Ukrainian President Zelensky may
+      soon face capitulation and corruption charges, influenced by Donald Trump's political
+      maneuvers, which have undermined his administration and altered the dynamics of
+      US-Russia relations.
+    paragraph_summary: The article discusses the potential imminent capitulation of
+      Ukraine, attributing this shift to the strategic maneuvers of former President
+      Trump, who is believed to be behind a corruption investigation that led to the
+      resignation of Andrii Yermak, a key figure in Ukraine. The author suggests that
+      President Zelensky may soon face corruption charges, leading to a political collapse
+      in Ukraine. The piece critiques the recent US-Ukraine meeting in Geneva, arguing
+      that the revised plan presented was merely political theater and that the original
+      plan developed by American and Russian officials will guide upcoming peace talks
+      in Budapest. Additionally, Belgian Prime Minister Bart De Wever's rejection of
+      EU Commission President von der Leyen's push for the confiscation of frozen Russian
+      assets is highlighted, as it is seen as detrimental to peace negotiations and
+      indicative of a broader critique of European leadership's approach to the conflict.
+    published: '2025-11-28T16:26:58+00:00'
+  - title: 'NewsX World: Putin announces military modernization'
+    url: https://gilbertdoctorow.com/2025/11/27/newsx-world-putin-announces-military-modernization/
+    text: NewsX World:  Putin announces military modernization This midday interview
+      on the Indian television station NewsX World featured several items from breaking
+      news, including President Putin’s remarks at the ongoing Collective Security Treaty
+      Organization (CSTO) meeting in Bishkek, Kyrgyzstan. Putin said that Russia will
+      be making available to the CSTO Member States its latest military hardware that
+      has proven itself on the field of battle. As I say here, providing ‘toys for the
+      boys’ is a sensible way of raising loyalty among these former republics of the
+      USSR and of keeping out of Central Asia, in particular, the meddling US, British
+      and French spoilers. I will be attending a conference on Eurasian security at
+      the Russian Embassy in Brussels this evening and if there is any information of
+      value to the Community that comes out of that event I will post it here tomorrow.
+      The other key item in this video concerns Erdogan’s response to President Macron’s
+      efforts to bring Turkey into a British and French force that would be introduced
+      into Ukraine ahead of implementation of a cease-fire to provide security to the
+      Ukrainians.
+    one_sentence_summary: President Putin announced at the CSTO meeting in Bishkek that
+      Russia will provide its latest military hardware to member states to strengthen
+      loyalty and counter Western influence in Central Asia.
+    paragraph_summary: In a recent interview on NewsX World, President Putin announced
+      at the Collective Security Treaty Organization (CSTO) meeting in Bishkek, Kyrgyzstan,
+      that Russia will supply its latest military hardware to CSTO member states, enhancing
+      loyalty among former USSR republics and countering Western influence in Central
+      Asia. The discussion also highlighted Turkish President Erdogan's reaction to
+      French President Macron's attempts to involve Turkey in a British and French military
+      force aimed at securing Ukraine ahead of a cease-fire. The host mentioned attending
+      a conference on Eurasian security at the Russian Embassy in Brussels and promised
+      to share any significant updates from the event.
+    published: '2025-11-27T15:34:13+00:00'
+  - title: 'NewsX World: Putin announces military modernization'
+    url: https://gilbertdoctorow.com/2025/11/27/newsx-world-putin-announces-military-modernization/
+    text: NewsX World:  Putin announces military modernization This midday interview
+      on the Indian television station NewsX World featured several items from breaking
+      news, including President Putin’s remarks at the ongoing Collective Security Treaty
+      Organization (CSTO) meeting in Bishkek, Kyrgyzstan. Putin said that Russia will
+      be making available to the CSTO Member States its latest military hardware that
+      has proven itself on the field of battle. As I say here, providing ‘toys for the
+      boys’ is a sensible way of raising loyalty among these former republics of the
+      USSR and of keeping out of Central Asia, in particular, the meddling US, British
+      and French spoilers. I will be attending a conference on Eurasian security at
+      the Russian Embassy in Brussels this evening and if there is any information of
+      value to the Community that comes out of that event I will post it here tomorrow.
+      The other key item in this video concerns Erdogan’s response to President Macron’s
+      efforts to bring Turkey into a British and French force that would be introduced
+      into Ukraine ahead of implementation of a cease-fire to provide security to the
+      Ukrainians.
+    one_sentence_summary: President Putin announced at the CSTO meeting in Bishkek that
+      Russia will provide its latest military hardware to member states to strengthen
+      loyalty and counter Western influence in Central Asia.
+    paragraph_summary: In a recent interview on NewsX World, President Putin announced
+      at the Collective Security Treaty Organization (CSTO) meeting in Bishkek, Kyrgyzstan,
+      that Russia will supply its latest military hardware to CSTO member states, enhancing
+      loyalty among former USSR republics and countering Western influence in Central
+      Asia. The discussion also highlighted Turkish President Erdogan's reaction to
+      French President Macron's attempts to involve Turkey in a British and French military
+      force aimed at securing Ukraine ahead of a cease-fire. The host mentioned attending
+      a conference on Eurasian security at the Russian Embassy in Brussels and promised
+      to share any significant updates from the event.
+    published: '2025-11-27T15:34:13+00:00'
+  - title: 'News X Eurozone: a friendly debate on the status of the Ukraine peace talks'
+    url: https://gilbertdoctorow.com/2025/11/26/news-x-eurozone-a-friendly-debate-on-the-status-of-the-ukraine-peace-talks/
+    text: Occasionally the production team at the Indian broadcaster News X puts me
+      together with someone from the other side of the barricades, so to speak, to discuss
+      the latest developments in the Ukraine war, now in the Ukraine peace talks. Going
+      back nine months or more, News X was just getting started filling its stable of
+      experts for these programs and, frankly speaking, the first panelists they selected
+      were rather primitive Ukrainian propagandists. I backed out of that format and
+      was subsequently only interviewed on my own. However, now I find that they have
+      brought in some very good spokesmen for the other side of the issues of the day
+      and it was an unexpected pleasure to engage in a debate of sorts with a mainstream
+      kind of expert. Curiously, though we have very different big picture thinking,
+      on the issues put to us by the moderator, especially with respect to the likelihood
+      of von der Leyen’s getting her hands on the frozen Russian assets in Euroclear,
+      we were singing from the same scores. Pay no attention to the titles on the video.
+      This is a news hour broadcast and the first 5 minutes deal with the breaking news
+      in a great many different places. After that it is strictly Ukraine and the questions
+      to me and my fellow panelist.
+    one_sentence_summary: The author reflects on their experience with News X, noting
+      an initial reluctance to participate in debates with less credible Ukrainian representatives,
+      but expressing satisfaction in engaging with a more knowledgeable opponent in
+      discussions about the Ukraine war and peace talks.
+    paragraph_summary: The author reflects on their experiences participating in discussions
+      about the Ukraine war on the Indian broadcaster News X, noting a significant evolution
+      in the quality of panelists over time. Initially, the show featured less credible
+      Ukrainian propagandists, prompting the author to opt for solo interviews. However,
+      they recently engaged in a debate with a knowledgeable expert from the opposing
+      side, finding common ground on certain issues, particularly regarding the potential
+      handling of frozen Russian assets by Ursula von der Leyen. The format of the broadcast
+      includes a brief segment on breaking news before focusing on Ukraine-related discussions.
+    published: '2025-11-26T16:59:29+00:00'
+  - title: 'News X Eurozone: a friendly debate on the status of the Ukraine peace talks'
+    url: https://gilbertdoctorow.com/2025/11/26/news-x-eurozone-a-friendly-debate-on-the-status-of-the-ukraine-peace-talks/
+    text: Occasionally the production team at the Indian broadcaster News X puts me
+      together with someone from the other side of the barricades, so to speak, to discuss
+      the latest developments in the Ukraine war, now in the Ukraine peace talks. Going
+      back nine months or more, News X was just getting started filling its stable of
+      experts for these programs and, frankly speaking, the first panelists they selected
+      were rather primitive Ukrainian propagandists. I backed out of that format and
+      was subsequently only interviewed on my own. However, now I find that they have
+      brought in some very good spokesmen for the other side of the issues of the day
+      and it was an unexpected pleasure to engage in a debate of sorts with a mainstream
+      kind of expert. Curiously, though we have very different big picture thinking,
+      on the issues put to us by the moderator, especially with respect to the likelihood
+      of von der Leyen’s getting her hands on the frozen Russian assets in Euroclear,
+      we were singing from the same scores. Pay no attention to the titles on the video.
+      This is a news hour broadcast and the first 5 minutes deal with the breaking news
+      in a great many different places. After that it is strictly Ukraine and the questions
+      to me and my fellow panelist.
+    one_sentence_summary: The author reflects on their experience with News X, noting
+      an initial reluctance to participate in debates with less credible Ukrainian representatives,
+      but expressing satisfaction in engaging with a more knowledgeable opponent in
+      discussions about the Ukraine war and peace talks.
+    paragraph_summary: The author reflects on their experiences participating in discussions
+      about the Ukraine war on the Indian broadcaster News X, noting a significant evolution
+      in the quality of panelists over time. Initially, the show featured less credible
+      Ukrainian propagandists, prompting the author to opt for solo interviews. However,
+      they recently engaged in a debate with a knowledgeable expert from the opposing
+      side, finding common ground on certain issues, particularly regarding the potential
+      handling of frozen Russian assets by Ursula von der Leyen. The format of the broadcast
+      includes a brief segment on breaking news before focusing on Ukraine-related discussions.
+    published: '2025-11-26T16:59:29+00:00'
+  - title: '‘Judging Freedom’ edition of 26 November: Can Putin Tolerate More War?'
+    url: https://gilbertdoctorow.com/2025/11/26/judging-freedom-edition-of-26-november-can-putin-tolerate-more-war/
+    text: In today’s chat we discussed several very important issues of the day as a
+      flood of news relating to the peace negotiations come out of Washington, Moscow,
+      Abu Dhabi and the European capitals. I report on the very evident split between
+      Foreign Minister Sergei Lavrov and Vladimir Putin over the unconventional and
+      now apparently failing procedure by which negotiations for peace are being held.
+      Lavrov yesterday strongly criticized the use of back channels and entirely sidelining
+      his own ministry which normally should be in charge of such important talks that
+      require great secrecy and also great diplomatic competence on the part of the
+      leading figures in the talks.  Lavrov said that he has not seen the revised plan,
+      now counting 18 points and so cannot comment but does not expect to see anything
+      good in it, since the leaks allowed the wrecking team from Europe to nullify what
+      was good about the original 28-point plan. Today, President Putin’s special advisor
+      on foreign relations Yuri Ushakov made a public statement to the effect that he
+      has seen the revised plan and that it can be used as a basis for further talks. 
+      Let me be clear:  Ushakov is a seasoned diplomat with a lot of relevant experience
+      considering that he was the Russian ambassador to Washington from 1998 to 2008.
+      But today he is a law unto himself, not a member of the diplomatic corps. He may
+      be said to speak for Putin.  And now we find that his position on the peace process
+      is diametrically opposed to that of the Foreign Minister.  This is a remarkable
+      development in Moscow that one very rarely sees. What we may guess is that Putin’s
+      prioritization on establishing good relations with the United States has drawn
+      him into the backchannel solution, which now is going sour. Judge Napolitano raised
+      the issue of Ursula von der Leyen’s pack of lies and hypocrisy speech yesterday
+      regarding the way forward on the peace talks.  A two-minute excerpt from that
+      speech was put up on the screen. The woman is very dangerous for the future of
+      Europe.  Let us assume that she has a very solid bomb shelter beneath the Commission
+      headquarters.  But that gives little comfort to the rest of us. Should she have
+      her way, in a year or two Western Europe may look a lot like war ravaged Ukraine
+      does today. ©Gilbert Doctorow, 2025
+    one_sentence_summary: In a recent discussion, it was revealed that Foreign Minister
+      Sergei Lavrov is at odds with President Vladimir Putin over the handling of peace
+      negotiations, criticizing the sidelining of his ministry and expressing skepticism
+      about the revised negotiation plan, which he believes has been undermined by European
+      leaks.
+    paragraph_summary: In a recent discussion, significant tensions emerged within the
+      Russian government regarding the ongoing peace negotiations, particularly between
+      Foreign Minister Sergei Lavrov and President Vladimir Putin. Lavrov criticized
+      the unconventional negotiation process, which has sidelined his ministry and relied
+      on back channels, expressing skepticism about a revised 18-point plan that he
+      believes has been compromised by European leaks. In contrast, Putin's special
+      advisor, Yuri Ushakov, who has experience as a former ambassador to Washington,
+      endorsed the revised plan as a basis for further talks, highlighting a stark divide
+      in perspectives within the Russian leadership. This internal conflict reflects
+      Putin's focus on improving relations with the U.S., even as the negotiation strategy
+      appears to falter. Additionally, concerns were raised about Ursula von der Leyen's
+      recent statements regarding the peace talks, which were characterized as misleading.
+    published: '2025-11-26T16:28:07+00:00'
+  - title: '‘Judging Freedom’ edition of 26 November: Can Putin Tolerate More War?'
+    url: https://gilbertdoctorow.com/2025/11/26/judging-freedom-edition-of-26-november-can-putin-tolerate-more-war/
+    text: In today’s chat we discussed several very important issues of the day as a
+      flood of news relating to the peace negotiations come out of Washington, Moscow,
+      Abu Dhabi and the European capitals. I report on the very evident split between
+      Foreign Minister Sergei Lavrov and Vladimir Putin over the unconventional and
+      now apparently failing procedure by which negotiations for peace are being held.
+      Lavrov yesterday strongly criticized the use of back channels and entirely sidelining
+      his own ministry which normally should be in charge of such important talks that
+      require great secrecy and also great diplomatic competence on the part of the
+      leading figures in the talks.  Lavrov said that he has not seen the revised plan,
+      now counting 18 points and so cannot comment but does not expect to see anything
+      good in it, since the leaks allowed the wrecking team from Europe to nullify what
+      was good about the original 28-point plan. Today, President Putin’s special advisor
+      on foreign relations Yuri Ushakov made a public statement to the effect that he
+      has seen the revised plan and that it can be used as a basis for further talks. 
+      Let me be clear:  Ushakov is a seasoned diplomat with a lot of relevant experience
+      considering that he was the Russian ambassador to Washington from 1998 to 2008.
+      But today he is a law unto himself, not a member of the diplomatic corps. He may
+      be said to speak for Putin.  And now we find that his position on the peace process
+      is diametrically opposed to that of the Foreign Minister.  This is a remarkable
+      development in Moscow that one very rarely sees. What we may guess is that Putin’s
+      prioritization on establishing good relations with the United States has drawn
+      him into the backchannel solution, which now is going sour. Judge Napolitano raised
+      the issue of Ursula von der Leyen’s pack of lies and hypocrisy speech yesterday
+      regarding the way forward on the peace talks.  A two-minute excerpt from that
+      speech was put up on the screen. The woman is very dangerous for the future of
+      Europe.  Let us assume that she has a very solid bomb shelter beneath the Commission
+      headquarters.  But that gives little comfort to the rest of us. Should she have
+      her way, in a year or two Western Europe may look a lot like war ravaged Ukraine
+      does today. ©Gilbert Doctorow, 2025
+    one_sentence_summary: In a recent discussion, it was revealed that Foreign Minister
+      Sergei Lavrov is at odds with President Vladimir Putin over the handling of peace
+      negotiations, criticizing the sidelining of his ministry and expressing skepticism
+      about the revised negotiation plan, which he believes has been undermined by European
+      leaks.
+    paragraph_summary: In a recent discussion, significant tensions emerged within the
+      Russian government regarding the ongoing peace negotiations, particularly between
+      Foreign Minister Sergei Lavrov and President Vladimir Putin. Lavrov criticized
+      the unconventional negotiation process, which has sidelined his ministry and relied
+      on back channels, expressing skepticism about a revised 18-point plan that he
+      believes has been compromised by European leaks. In contrast, Putin's special
+      advisor, Yuri Ushakov, who has experience as a former ambassador to Washington,
+      endorsed the revised plan as a basis for further talks, highlighting a stark divide
+      in perspectives within the Russian leadership. This internal conflict reflects
+      Putin's focus on improving relations with the U.S., even as the negotiation strategy
+      appears to falter. Additionally, concerns were raised about Ursula von der Leyen's
+      recent statements regarding the peace talks, which were characterized as misleading.
+    published: '2025-11-26T16:28:07+00:00'
   - title: US’ 28-Point Peace Plan Empowers Russia, Diminishes Ukraine? | WION GAME
       PLAN
     url: https://gilbertdoctorow.com/2025/11/25/us-28-point-peace-plan-empowers-russia-diminishes-ukraine-wion-game-plan/

@@ -7,16 +7,394 @@ description: "27-year CIA analyst turned independent; co-founder of Veteran Inte
 websites:
   - https://consortiumnews.com
 summary: |
-  As of November 26, 2025, global geopolitical dynamics remain turbulent, with new developments in Ukraine, Mexico, and the climate crisis shaping the international agenda.
+  The ongoing crises in the Middle East and Europe continue to expose deep fractures in Western political systems and international law. Over the past 24 hours, new analysis has focused on the interplay between domestic politics in the UK, the legal handling of pro-Palestinian activism, and the broader implications for democratic accountability.
   
-  The most significant update centers on the ongoing Russia-Ukraine conflict and the latest U.S. efforts to broker peace. **Daniel McAdams** offers a sharp critique of Donald Trump’s recently unveiled 28-point Ukraine peace plan, arguing that Trump’s alignment with neoconservative figures—particularly Senator Marco Rubio—undermines any genuine prospects for ending the war. McAdams warns that “aligning with neoconservatives leads to inevitable conflicts,” casting doubt on the plan’s viability. This view is echoed by the majority of independent analysts, who see the plan as more a product of U.S. political maneuvering than a serious diplomatic breakthrough. There is a high chance that, barring a significant shift in Washington’s approach, the conflict will persist into 2026.
+  A significant development comes from the UK, where, according to **Jonathan Cook**, recent High Court decisions regarding terrorism laws are seen as strategic moves to shield Prime Minister Keir Starmer and his ministers from scrutiny over their support for Israel’s actions in Gaza. Cook contends that these legal maneuvers are less about security and more about insulating political leaders from public and legal accountability, suggesting a growing disconnect between government actions and democratic oversight.
   
-  In Mexico, the so-called “Gen Z Rebellion” has been exposed as a coordinated effort by local oligarchs and an international right-wing network to destabilize the government. The movement, initially presented as a grassroots anti-corruption uprising, has led to violent demonstrations in over 50 cities. Analysts agree that the protests were less about genuine reform and more about undermining Mexico’s popular president. This revelation is likely to further polarize Mexican society and complicate U.S.-Mexico relations in the coming months.
+  Meanwhile, **Mark Curtis** and **Laura Pidcock** argue that the UK's response to the Gaza conflict has laid bare the weaknesses of its democratic institutions. They emphasize that the atrocities in Israel and Gaza have catalyzed calls for a mass movement to address a range of systemic issues, not just foreign policy. This perspective reflects a broader trend of public dissatisfaction with the political establishment’s handling of international crises.
   
-  Meanwhile, the aftermath of Hurricane Melissa in Jamaica has reignited criticism of the global elite’s response to climate disasters. **Juan Cole** highlights the disconnect between the high-tech sector’s wealth accumulation and the realities faced by those on the front lines of climate change. Cole notes that “the pro-billionaire high-tech sector remains insulated from the devastation,” underscoring the urgent need for systemic change. With climate-driven disasters intensifying, there is high confidence that public pressure for equitable climate policies will grow, though meaningful action from major powers remains uncertain.
+  On the human side of the conflict, **Micaela Sahhar**’s personal account, as highlighted by Ray McGovern, underscores the enduring impact of displacement on Palestinian families. Her narrative serves as a reminder that the geopolitical struggle has profound and lasting effects on individual lives, reinforcing the urgency of finding a just resolution.
   
-  In summary, the prevailing trends point toward continued instability in Ukraine, deepening political divides in Mexico, and mounting frustration over global climate inaction. I guarantee that without substantive policy shifts, these crises will persist and likely intensify in the near future.
+  Looking ahead, the majority of analysts agree that the current trajectory in both the UK and the Middle East points toward increased public mobilization and growing demands for accountability. There is a high chance that legal and political pressures will intensify, particularly as more citizens question the legitimacy of government actions. I guarantee that unless there is a significant policy shift, the disconnect between public sentiment and official policy will continue to widen, fueling further unrest and calls for reform.
 articles:
+  - title: 'Hedges Report: Erasing Palestine'
+    url: https://consortiumnews.com/2025/12/02/hedges-report-erasing-palestine/
+    text: Micaela Sahhar reframes monumental events in Palestinian history through an
+      intimate lens of her own family’s displacement during the 20th century. By Chris
+      Hedges The Hedges Report This interview is also available on podcast platforms
+      and Rumble. “How do we… Read more →
+    one_sentence_summary: Micaela Sahhar personalizes significant moments in Palestinian
+      history by sharing her family's experiences of displacement throughout the 20th
+      century.
+    paragraph_summary: Micaela Sahhar explores significant events in Palestinian history
+      by sharing the personal narrative of her family's displacement throughout the
+      20th century. In an interview with Chris Hedges, she emphasizes the importance
+      of intimate stories in understanding broader historical contexts, illustrating
+      how individual experiences reflect the collective struggles of the Palestinian
+      people. The discussion highlights the intersection of personal and political narratives,
+      shedding light on the ongoing impact of displacement and conflict in the region.
+    published: '2025-12-02T19:00:33+00:00'
+  - title: 'Hedges Report: Erasing Palestine'
+    url: https://consortiumnews.com/2025/12/02/hedges-report-erasing-palestine/
+    text: Micaela Sahhar reframes monumental events in Palestinian history through an
+      intimate lens of her own family’s displacement during the 20th century. By Chris
+      Hedges The Hedges Report This interview is also available on podcast platforms
+      and Rumble. “How do we… Read more →
+    one_sentence_summary: Micaela Sahhar personalizes significant moments in Palestinian
+      history by sharing her family's experiences of displacement throughout the 20th
+      century.
+    paragraph_summary: Micaela Sahhar explores significant events in Palestinian history
+      by sharing the personal narrative of her family's displacement throughout the
+      20th century. In an interview with Chris Hedges, she emphasizes the importance
+      of intimate stories in understanding broader historical contexts, illustrating
+      how individual experiences reflect the collective struggles of the Palestinian
+      people. The discussion highlights the intersection of personal and political narratives,
+      shedding light on the ongoing impact of displacement and conflict in the region.
+    published: '2025-12-02T19:00:33+00:00'
+  - title: 'Jonathan Cook:  High Court Trickery on Palestine Action'
+    url: https://consortiumnews.com/2025/12/02/jonathan-cook-high-court-trickery-on-palestine-action/
+    text: This looks like a stitch-up to extricate Keir Starmer and his ministers from
+      the mess they have made of British terrorism laws — all so they can continue conspiring
+      in Israel’s genocide. By Jonathan Cook Jonathan-Cook.net The High Court judge…
+      Read more →
+    one_sentence_summary: The article argues that recent legal developments regarding
+      British terrorism laws are a maneuver to protect Keir Starmer and his ministers
+      from accountability for their handling of the situation, while suggesting they
+      are complicit in supporting Israel's actions.
+    paragraph_summary: The article by Jonathan Cook critiques the actions of Keir Starmer
+      and his ministers regarding British terrorism laws, suggesting that recent legal
+      decisions are designed to absolve them of responsibility for their handling of
+      these laws. Cook implies that this maneuvering is part of a broader agenda that
+      allows the government to support Israel's actions, which he characterizes as genocidal.
+      The piece argues that the legal developments serve to protect the government from
+      accountability while enabling continued complicity in international conflicts.
+    published: '2025-12-02T17:00:37+00:00'
+  - title: 'Jonathan Cook:  High Court Trickery on Palestine Action'
+    url: https://consortiumnews.com/2025/12/02/jonathan-cook-high-court-trickery-on-palestine-action/
+    text: This looks like a stitch-up to extricate Keir Starmer and his ministers from
+      the mess they have made of British terrorism laws — all so they can continue conspiring
+      in Israel’s genocide. By Jonathan Cook Jonathan-Cook.net The High Court judge…
+      Read more →
+    one_sentence_summary: The article argues that recent legal developments regarding
+      British terrorism laws are a maneuver to protect Keir Starmer and his ministers
+      from accountability for their handling of the situation, while suggesting they
+      are complicit in supporting Israel's actions.
+    paragraph_summary: The article by Jonathan Cook critiques the actions of Keir Starmer
+      and his ministers regarding British terrorism laws, suggesting that recent legal
+      decisions are designed to absolve them of responsibility for their handling of
+      these laws. Cook implies that this maneuvering is part of a broader agenda that
+      allows the government to support Israel's actions, which he characterizes as genocidal.
+      The piece argues that the legal developments serve to protect the government from
+      accountability while enabling continued complicity in international conflicts.
+    published: '2025-12-02T17:00:37+00:00'
+  - title: Gaza Reveals How Britain Is Run
+    url: https://consortiumnews.com/2025/12/02/gaza-reveals-how-britain-is-run/
+    text: The horror of Israel’s genocide exposes the illusion that the U.K. is a democracy.
+      A mass movement is needed to address ten major issues, write Mark Curtis and Laura
+      Pidcock. By Mark Curtis and Laura Pidcock Declassified UK This should be… Read
+      more →
+    one_sentence_summary: Mark Curtis and Laura Pidcock argue that the atrocities in
+      Israel reveal the shortcomings of the U.K.'s democratic system and emphasize the
+      need for a mass movement to tackle ten critical issues.
+    paragraph_summary: In their article, Mark Curtis and Laura Pidcock argue that the
+      ongoing violence and perceived genocide in Israel reveal the shortcomings of the
+      U.K.'s democratic system. They contend that the situation necessitates a mass
+      movement to confront ten critical issues that highlight these democratic failures.
+      The authors emphasize the urgency of mobilizing public action to address these
+      concerns and challenge the status quo in the U.K. political landscape.
+    published: '2025-12-02T07:29:37+00:00'
+  - title: Gaza Reveals How Britain Is Run
+    url: https://consortiumnews.com/2025/12/02/gaza-reveals-how-britain-is-run/
+    text: The horror of Israel’s genocide exposes the illusion that the U.K. is a democracy.
+      A mass movement is needed to address ten major issues, write Mark Curtis and Laura
+      Pidcock. By Mark Curtis and Laura Pidcock Declassified UK This should be… Read
+      more →
+    one_sentence_summary: Mark Curtis and Laura Pidcock argue that the atrocities in
+      Israel reveal the shortcomings of the U.K.'s democratic system and emphasize the
+      need for a mass movement to tackle ten critical issues.
+    paragraph_summary: In their article, Mark Curtis and Laura Pidcock argue that the
+      ongoing violence and perceived genocide in Israel reveal the shortcomings of the
+      U.K.'s democratic system. They contend that the situation necessitates a mass
+      movement to confront ten critical issues that highlight these democratic failures.
+      The authors emphasize the urgency of mobilizing public action to address these
+      concerns and challenge the status quo in the U.K. political landscape.
+    published: '2025-12-02T07:29:37+00:00'
+  - title: Europa Ante Novum Bellum (Europe Before the New War)
+    url: https://consortiumnews.com/2025/12/01/europa-ante-novum-bellum-europe-before-the-new-war/
+    text: 'Whose interests are served by predictions of a third general European war
+      in little more than a century? The answer is clear: politicians who have led Europe
+      into this nearly hopeless situation, says Uros Lipuscek. By Uroš Lipušcek Special
+      to… Read more →'
+    one_sentence_summary: Uroš Lipušcek argues that predictions of a third general European
+      war primarily serve the interests of politicians who have contributed to Europe's
+      precarious situation.
+    paragraph_summary: In his article, Uroš Lipušcek argues that predictions of a third
+      general European war serve the interests of politicians who have contributed to
+      the current precarious state of Europe. He suggests that these dire forecasts
+      may be used to justify their actions and policies, despite the bleak outlook they
+      present. Lipušcek emphasizes that such predictions are not merely alarmist but
+      reflect the consequences of political decisions that have led Europe into a challenging
+      and potentially dangerous situation.
+    published: '2025-12-01T19:00:18+00:00'
+  - title: Europa Ante Novum Bellum (Europe Before the New War)
+    url: https://consortiumnews.com/2025/12/01/europa-ante-novum-bellum-europe-before-the-new-war/
+    text: 'Whose interests are served by predictions of a third general European war
+      in little more than a century? The answer is clear: politicians who have led Europe
+      into this nearly hopeless situation, says Uros Lipuscek. By Uroš Lipušcek Special
+      to… Read more →'
+    one_sentence_summary: Uroš Lipušcek argues that predictions of a third general European
+      war primarily serve the interests of politicians who have contributed to Europe's
+      precarious situation.
+    paragraph_summary: In his article, Uroš Lipušcek argues that predictions of a third
+      general European war serve the interests of politicians who have contributed to
+      the current precarious state of Europe. He suggests that these dire forecasts
+      may be used to justify their actions and policies, despite the bleak outlook they
+      present. Lipušcek emphasizes that such predictions are not merely alarmist but
+      reflect the consequences of political decisions that have led Europe into a challenging
+      and potentially dangerous situation.
+    published: '2025-12-01T19:00:18+00:00'
+  - title: 'WATCH: Unspeakable Facts About JFK'
+    url: https://consortiumnews.com/2025/12/01/watch-unspeakable-facts-about-jfk/
+    text: James Douglass, author of JFK and the Unspeakable, recounts how Patrice Lumumba
+      was assassinated just three days before J.F.K. took office, and where Fidel Castro
+      was when he learned of the murder in Dallas. Author and researcher James Douglass
+      spoke… Read more →
+    one_sentence_summary: James Douglass discusses the assassination of Patrice Lumumba
+      shortly before JFK's inauguration and Fidel Castro's reaction to the news of the
+      murder in Dallas.
+    paragraph_summary: In an article by James Douglass, author of "JFK and the Unspeakable,"
+      he discusses the assassination of Patrice Lumumba, which occurred just three days
+      before John F. Kennedy assumed the presidency. Douglass also reflects on Fidel
+      Castro's reaction upon learning of Lumumba's murder in Dallas, highlighting the
+      interconnectedness of these historical events and their implications for U.S.
+      foreign policy during that era.
+    published: '2025-12-01T09:13:43+00:00'
+  - title: 'WATCH: Unspeakable Facts About JFK'
+    url: https://consortiumnews.com/2025/12/01/watch-unspeakable-facts-about-jfk/
+    text: James Douglass, author of JFK and the Unspeakable, recounts how Patrice Lumumba
+      was assassinated just three days before J.F.K. took office, and where Fidel Castro
+      was when he learned of the murder in Dallas. Author and researcher James Douglass
+      spoke… Read more →
+    one_sentence_summary: James Douglass discusses the assassination of Patrice Lumumba
+      shortly before JFK's inauguration and Fidel Castro's reaction to the news of the
+      murder in Dallas.
+    paragraph_summary: In an article by James Douglass, author of "JFK and the Unspeakable,"
+      he discusses the assassination of Patrice Lumumba, which occurred just three days
+      before John F. Kennedy assumed the presidency. Douglass also reflects on Fidel
+      Castro's reaction upon learning of Lumumba's murder in Dallas, highlighting the
+      interconnectedness of these historical events and their implications for U.S.
+      foreign policy during that era.
+    published: '2025-12-01T09:13:43+00:00'
+  - title: Ignoring JFK’s Warning on Russia
+    url: https://consortiumnews.com/2025/12/01/ignoring-jfks-warning-on-russia/
+    text: A history of U.S. bullying — from a broken promise not to expand NATO to deceit
+      over Minsk — shows that U.S. leaders since the Cold War’s end have ignored J.F.K.’s
+      dire warning not to humiliate a nuclear power. By… Read more →
+    one_sentence_summary: The article argues that U.S. leaders have repeatedly disregarded
+      John F. Kennedy's caution against humiliating nuclear powers, as evidenced by
+      broken promises regarding NATO expansion and misleading actions related to the
+      Minsk agreements since the end of the Cold War.
+    paragraph_summary: The article discusses the history of U.S. foreign policy regarding
+      bullying tactics, particularly in relation to NATO expansion and the Minsk agreements,
+      highlighting a pattern of deceit and broken promises since the end of the Cold
+      War. It emphasizes that U.S. leaders have overlooked John F. Kennedy's caution
+      against humiliating nuclear powers, suggesting that this disregard has contributed
+      to escalating tensions and conflicts in international relations.
+    published: '2025-12-01T09:02:04+00:00'
+  - title: Ignoring JFK’s Warning on Russia
+    url: https://consortiumnews.com/2025/12/01/ignoring-jfks-warning-on-russia/
+    text: A history of U.S. bullying — from a broken promise not to expand NATO to deceit
+      over Minsk — shows that U.S. leaders since the Cold War’s end have ignored J.F.K.’s
+      dire warning not to humiliate a nuclear power. By… Read more →
+    one_sentence_summary: The article argues that U.S. leaders have repeatedly disregarded
+      John F. Kennedy's caution against humiliating nuclear powers, as evidenced by
+      broken promises regarding NATO expansion and misleading actions related to the
+      Minsk agreements since the end of the Cold War.
+    paragraph_summary: The article discusses the history of U.S. foreign policy regarding
+      bullying tactics, particularly in relation to NATO expansion and the Minsk agreements,
+      highlighting a pattern of deceit and broken promises since the end of the Cold
+      War. It emphasizes that U.S. leaders have overlooked John F. Kennedy's caution
+      against humiliating nuclear powers, suggesting that this disregard has contributed
+      to escalating tensions and conflicts in international relations.
+    published: '2025-12-01T09:02:04+00:00'
+  - title: What Defeat Looks Like
+    url: https://consortiumnews.com/2025/11/28/what-defeat-looks-like/
+    text: As in Potsdam at the end of the Second World War, the only path forward now
+      is working out the terms of Ukraine’s defeat. And there is still time to save
+      lives, writes Stefan Moore. By Stefan Moore Special to Consortium… Read more →
+    one_sentence_summary: Stefan Moore argues that, similar to the Potsdam Conference
+      after World War II, the current focus should be on negotiating the terms of Ukraine's
+      defeat to potentially save lives.
+    paragraph_summary: In his article, Stefan Moore draws a parallel between the current
+      situation in Ukraine and the post-World War II negotiations in Potsdam, suggesting
+      that the only viable solution now is to negotiate the terms of Ukraine's defeat.
+      He emphasizes the urgency of reaching an agreement to prevent further loss of
+      life, advocating for diplomatic efforts to address the ongoing conflict. Moore's
+      perspective highlights the need for pragmatic approaches in the face of challenging
+      circumstances.
+    published: '2025-11-29T02:09:27+00:00'
+  - title: What Defeat Looks Like
+    url: https://consortiumnews.com/2025/11/28/what-defeat-looks-like/
+    text: As in Potsdam at the end of the Second World War, the only path forward now
+      is working out the terms of Ukraine’s defeat. And there is still time to save
+      lives, writes Stefan Moore. By Stefan Moore Special to Consortium… Read more →
+    one_sentence_summary: Stefan Moore argues that, similar to the Potsdam Conference
+      after World War II, the current focus should be on negotiating the terms of Ukraine's
+      defeat to potentially save lives.
+    paragraph_summary: In his article, Stefan Moore draws a parallel between the current
+      situation in Ukraine and the post-World War II negotiations in Potsdam, suggesting
+      that the only viable solution now is to negotiate the terms of Ukraine's defeat.
+      He emphasizes the urgency of reaching an agreement to prevent further loss of
+      life, advocating for diplomatic efforts to address the ongoing conflict. Moore's
+      perspective highlights the need for pragmatic approaches in the face of challenging
+      circumstances.
+    published: '2025-11-29T02:09:27+00:00'
+  - title: 'RAY McGOVERN: The Neocon-Realist War Over Ukraine'
+    url: https://consortiumnews.com/2025/11/28/ray-mcgovern-the-neocon-realist-armageddon-over-ukraine/
+    text: Trump holds the cards to end this war but he has to find the fortitude to
+      stand up to the Europeans and the neocons he appointed. By Ray McGovern Special
+      to Consortium News Donald Trump made some revealing remarks to… Read more →
+    one_sentence_summary: In a recent article, Ray McGovern argues that Donald Trump
+      has the power to end the ongoing conflict but must muster the courage to confront
+      European leaders and the neoconservatives he has surrounded himself with.
+    paragraph_summary: In an article by Ray McGovern for Consortium News, the author
+      argues that Donald Trump possesses the power to end ongoing conflicts but must
+      muster the courage to confront European leaders and the neoconservatives he has
+      surrounded himself with. McGovern highlights Trump's recent comments that suggest
+      a potential shift in his approach, emphasizing the need for him to assert his
+      authority and make decisive choices to bring about peace. The piece underscores
+      the tension between Trump's instincts and the influences of those in his administration
+      and abroad.
+    published: '2025-11-28T21:56:48+00:00'
+  - title: 'RAY McGOVERN: The Neocon-Realist War Over Ukraine'
+    url: https://consortiumnews.com/2025/11/28/ray-mcgovern-the-neocon-realist-armageddon-over-ukraine/
+    text: Trump holds the cards to end this war but he has to find the fortitude to
+      stand up to the Europeans and the neocons he appointed. By Ray McGovern Special
+      to Consortium News Donald Trump made some revealing remarks to… Read more →
+    one_sentence_summary: In a recent article, Ray McGovern argues that Donald Trump
+      has the power to end the ongoing conflict but must muster the courage to confront
+      European leaders and the neoconservatives he has surrounded himself with.
+    paragraph_summary: In an article by Ray McGovern for Consortium News, the author
+      argues that Donald Trump possesses the power to end ongoing conflicts but must
+      muster the courage to confront European leaders and the neoconservatives he has
+      surrounded himself with. McGovern highlights Trump's recent comments that suggest
+      a potential shift in his approach, emphasizing the need for him to assert his
+      authority and make decisive choices to bring about peace. The piece underscores
+      the tension between Trump's instincts and the influences of those in his administration
+      and abroad.
+    published: '2025-11-28T21:56:48+00:00'
+  - title: After Decades, India Warms to the Taliban
+    url: https://consortiumnews.com/2025/11/26/after-decades-india-warms-to-the-taliban/
+    text: 'The enemy of my enemy is my friend: as Afghanistan fights Pakistan, India
+      opens ties with the Taliban, reports Betwa Sharma. By Betwa Sharma in Delhi, India
+      Special to Consortium News For much of the world, Afghanistan is synonymous with
+      9/11,… Read more →'
+    one_sentence_summary: As Afghanistan confronts Pakistan, India is strengthening
+      its relations with the Taliban, reflecting a complex geopolitical shift in the
+      region.
+    paragraph_summary: In her article, Betwa Sharma discusses the shifting geopolitical
+      dynamics in South Asia, particularly focusing on India's evolving relationship
+      with the Taliban amid ongoing tensions between Afghanistan and Pakistan. As Afghanistan
+      grapples with its conflicts, India is strategically opening ties with the Taliban,
+      viewing it as a counterbalance to Pakistan's influence in the region. This development
+      highlights the complex interplay of alliances and enmities, encapsulated in the
+      adage "the enemy of my enemy is my friend," as nations navigate their interests
+      in a volatile landscape.
+    published: '2025-11-26T22:18:47+00:00'
+  - title: After Decades, India Warms to the Taliban
+    url: https://consortiumnews.com/2025/11/26/after-decades-india-warms-to-the-taliban/
+    text: 'The enemy of my enemy is my friend: as Afghanistan fights Pakistan, India
+      opens ties with the Taliban, reports Betwa Sharma. By Betwa Sharma in Delhi, India
+      Special to Consortium News For much of the world, Afghanistan is synonymous with
+      9/11,… Read more →'
+    one_sentence_summary: As Afghanistan confronts Pakistan, India is strengthening
+      its relations with the Taliban, reflecting a complex geopolitical shift in the
+      region.
+    paragraph_summary: In her article, Betwa Sharma discusses the shifting geopolitical
+      dynamics in South Asia, particularly focusing on India's evolving relationship
+      with the Taliban amid ongoing tensions between Afghanistan and Pakistan. As Afghanistan
+      grapples with its conflicts, India is strategically opening ties with the Taliban,
+      viewing it as a counterbalance to Pakistan's influence in the region. This development
+      highlights the complex interplay of alliances and enmities, encapsulated in the
+      adage "the enemy of my enemy is my friend," as nations navigate their interests
+      in a volatile landscape.
+    published: '2025-11-26T22:18:47+00:00'
+  - title: 'Imperial Washington: Ozymandias on the Potomac'
+    url: https://consortiumnews.com/2025/11/26/imperial-washington-ozymandias-on-the-potomac/
+    text: Alfred W. McCoy on the role of energy over the past five centuries in fueling
+      imperial supremacy and the current politics of American decline amid China’s green-energy
+      ride to global power.   By Alfred McCoy TomDispatch.com At the dawning of the…
+      Read more →
+    one_sentence_summary: Alfred W. McCoy discusses how energy has historically driven
+      imperial dominance over the past five centuries and examines the implications
+      of America's declining power in the context of China's rise through green energy
+      initiatives.
+    paragraph_summary: In his article, Alfred W. McCoy explores the pivotal role of
+      energy in shaping imperial dominance over the past five centuries, highlighting
+      how control over energy resources has historically fueled the rise and fall of
+      empires. He discusses the current geopolitical landscape, emphasizing America's
+      declining influence as it faces challenges from China's ascent, particularly in
+      the realm of green energy. McCoy argues that as China invests heavily in renewable
+      energy technologies, it positions itself for global leadership, while the U.S.
+      grapples with its own energy politics and the implications for its future power
+      status.
+    published: '2025-11-26T19:00:32+00:00'
+  - title: 'Imperial Washington: Ozymandias on the Potomac'
+    url: https://consortiumnews.com/2025/11/26/imperial-washington-ozymandias-on-the-potomac/
+    text: Alfred W. McCoy on the role of energy over the past five centuries in fueling
+      imperial supremacy and the current politics of American decline amid China’s green-energy
+      ride to global power.   By Alfred McCoy TomDispatch.com At the dawning of the…
+      Read more →
+    one_sentence_summary: Alfred W. McCoy discusses how energy has historically driven
+      imperial dominance over the past five centuries and examines the implications
+      of America's declining power in the context of China's rise through green energy
+      initiatives.
+    paragraph_summary: In his article, Alfred W. McCoy explores the pivotal role of
+      energy in shaping imperial dominance over the past five centuries, highlighting
+      how control over energy resources has historically fueled the rise and fall of
+      empires. He discusses the current geopolitical landscape, emphasizing America's
+      declining influence as it faces challenges from China's ascent, particularly in
+      the realm of green energy. McCoy argues that as China invests heavily in renewable
+      energy technologies, it positions itself for global leadership, while the U.S.
+      grapples with its own energy politics and the implications for its future power
+      status.
+    published: '2025-11-26T19:00:32+00:00'
+  - title: The Necropolitics of Warfare Over Healthcare
+    url: https://consortiumnews.com/2025/11/26/the-necropolitics-of-warfare-over-healthcare/
+    text: With a skyrocketing insurance premium forcing her to give up her health coverage,
+      Melissa Garriga says she joins all the other people around the world harmed by
+      U.S. militarism. By Melissa Garriga Codepink.org Next year, an estimated 5 million
+      people… Read more →
+    one_sentence_summary: Melissa Garriga highlights how rising insurance premiums have
+      forced her to forgo health coverage, illustrating the broader impact of U.S. militarism
+      on individuals worldwide.
+    paragraph_summary: Melissa Garriga, in her article for Codepink.org, expresses her
+      frustration over the rising insurance premiums that have compelled her to forfeit
+      her health coverage, highlighting a broader issue of how U.S. militarism adversely
+      affects individuals globally. She points out that next year, approximately 5 million
+      people will face similar challenges, illustrating the widespread impact of military
+      spending on essential services like healthcare. Garriga's personal experience
+      serves as a microcosm of the larger consequences of militarism, emphasizing the
+      need for a reevaluation of priorities in the face of such hardships.
+    published: '2025-11-26T17:00:49+00:00'
+  - title: The Necropolitics of Warfare Over Healthcare
+    url: https://consortiumnews.com/2025/11/26/the-necropolitics-of-warfare-over-healthcare/
+    text: With a skyrocketing insurance premium forcing her to give up her health coverage,
+      Melissa Garriga says she joins all the other people around the world harmed by
+      U.S. militarism. By Melissa Garriga Codepink.org Next year, an estimated 5 million
+      people… Read more →
+    one_sentence_summary: Melissa Garriga highlights how rising insurance premiums have
+      forced her to forgo health coverage, illustrating the broader impact of U.S. militarism
+      on individuals worldwide.
+    paragraph_summary: Melissa Garriga, in her article for Codepink.org, expresses her
+      frustration over the rising insurance premiums that have compelled her to forfeit
+      her health coverage, highlighting a broader issue of how U.S. militarism adversely
+      affects individuals globally. She points out that next year, approximately 5 million
+      people will face similar challenges, illustrating the widespread impact of military
+      spending on essential services like healthcare. Garriga's personal experience
+      serves as a microcosm of the larger consequences of militarism, emphasizing the
+      need for a reevaluation of priorities in the face of such hardships.
+    published: '2025-11-26T17:00:49+00:00'
   - title: Rubio Neo-Conned Trump’s Ukraine Peace Plan
     url: https://consortiumnews.com/2025/11/25/rubio-neo-conned-trumps-ukraine-peace-plan/
     text: Lie down with dogs, you wake up with fleas; lie down with neocons, you wake

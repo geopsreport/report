@@ -7,19 +7,574 @@ description: "Veteran Middle East war correspondent; provides first-hand analysi
 websites:
   - https://ejmagnier.com
 summary: |
-  The geopolitical landscape in the Middle East remains highly volatile, with Lebanon’s internal fragility and the enduring US-Israeli alliance at the forefront of current developments. Over the past days, the situation in Lebanon has become increasingly precarious as Israeli military actions intensify and Washington amplifies its political pressure, further straining the Lebanese state’s already limited capacity.
+  The fragile ceasefire between Lebanon and Israel, established in the wake of the 2023 Gaza war, continues to unravel, with Lebanon increasingly drawn into a secondary conflict zone. Despite Hezbollah’s adherence to the agreement, Israeli violations of Lebanese sovereignty have persisted throughout the past year. As **Elijah J. Magnier** notes, “the ceasefire… has largely failed in practice, with Lebanon becoming a secondary battleground despite Hezbollah's compliance with the agreement and the ongoing Israeli violations.”
   
-  **Elijah J. Magnier** emphasizes that Lebanon’s vulnerability is rooted in nearly two decades of unresolved conflict with Israel, compounded by the dual authority of the state and Hezbollah. The recent escalation of Israeli attacks, coupled with US diplomatic maneuvers, is pushing Lebanon toward a critical juncture. Magnier notes that “the influence of external actors seeking to redefine the roles of Hezbollah and the Lebanese state” is now more pronounced than ever, raising the risk of internal destabilization.
+  Recent analysis underscores a significant doctrinal shift within Hezbollah. The group has recalibrated its military posture, moving away from large-scale missile exchanges with Israel. Instead, it now reserves the use of long-range precision missiles for extreme scenarios—primarily to defend civilians or in response to direct attacks on Lebanese territory. This strategic adjustment aims to avoid a devastating escalation that could lead to widespread destruction in Lebanon. **Elijah J. Magnier** explains that Hezbollah “will only consider the use of long-range precision missiles in extreme circumstances, particularly if Israel targets civilians, while also preparing defensively against potential ground incursions.”
   
-  On the international front, the US continues to justify its substantial military aid to Israel as an economic boon for Americans. However, **Elijah J. Magnier** challenges this narrative, arguing that such claims “overlook the deeper implications of this financial relationship,” and questions whether the US is truly benefiting or simply perpetuating a cycle of conflict. This critique reflects a growing skepticism about the sustainability and strategic wisdom of current US policy in the region.
+  Meanwhile, Lebanon’s internal vulnerabilities remain acute. The state’s limited capacity, combined with external pressures—especially from the US and Israel—continues to complicate the domestic balance of power. The intensification of Israeli attacks and political pressure from Washington have further strained Lebanon’s already fragile political and security framework.
   
-  Meanwhile, the ceasefire in Gaza, established by UN Security Council Resolution 2803, has officially ended active hostilities but left the future governance and reconstruction of Gaza unresolved. The lack of a clear post-war framework is a source of concern among analysts, who warn that the absence of a roadmap could lead to renewed instability.
-  
-  **Trends and Predictions:**  
-  The majority of sources agree that Lebanon’s situation is likely to deteriorate further if external pressures persist and internal divisions deepen. There is a high chance that, without significant diplomatic intervention, the risk of a broader conflict involving Hezbollah and Israel will increase. Regarding US-Israeli relations, it is quite likely that debates over the true cost and benefit of military aid will intensify, especially as regional instability continues. As for Gaza, the ceasefire is expected to hold in the short term, but the lack of a comprehensive peace plan means that the long-term outlook remains uncertain. 
-  
-  Based on current dynamics, I guarantee that Lebanon will remain a focal point of regional tension, with high potential for escalation if the current trajectory is not altered through meaningful diplomatic engagement.
+  Looking ahead, the prevailing trend is one of persistent instability along the Lebanon-Israel frontier, with a high likelihood of continued low-intensity conflict and sporadic escalations. However, given Hezbollah’s revised doctrine, a full-scale missile war is unlikely unless there is a significant provocation involving civilian casualties. As **Elijah J. Magnier** concludes, “there is a high chance that the current pattern of violations and limited responses will persist, with both sides seeking to avoid a broader war.” This assessment is shared with high confidence, barring any dramatic shift in the underlying dynamics.
 articles:
+  - title: 'The Ceasefire That Never Was: A Year of Violations, Pressure, Shifting Power
+      and Uncertainty'
+    url: https://ejmagnier.com/2025/11/29/the-ceasefire-that-never-was-a-year-of-violations-pressure-shifting-power-and-uncertainty/
+    text: By Elijah J. Magnier – The ceasefire between Lebanon and Israel that followed
+      the eruption of the Gaza war in late 2023 was meant to stop a wider war that failed
+      to achieve its objectives following an Israeli ground invasion. It came after
+      Hezbollah opened a northern front on 8 October in support of Gaza. The end of
+      the third Israeli war agreement rested on the same principles that shaped UN Security
+      Council Resolution 1701, which was supposed to prevent cross-border attacks, enforce
+      withdrawals, and allow life along the frontier to stabilise. Instead, the past
+      year has shown that the ceasefire mainly existed on paper. Lebanon became a secondary
+      arena of the conflict, and the promises that accompanied the ceasefire have unravelled
+      one by one. The Lebanese have respected the deal, and Hezbollah removed all warehouses
+      from south of the Litani River, regardless of the continuous Israeli violation
+      of Lebanon’s sovereignty. The Lebanese Army confirmed that there were no longer
+      Hezbollah warehouses in the area covered by the UNSCR 1701 and has confiscated
+      230,000 weapons. A whole year has passed, and, during this time, Israel has killed
+      around 335 people in Lebanon, 96,000 were displaced, 24 southern villages were
+      destroyed and prevented from returning to their homes, and a total of 240,000
+      homes were damaged all over Lebanon. Meanwhile, Israel, which violates Lebanon’s sovereignty
+      over 10,000 according to the UNIFIL report, is still claiming that a “cessation
+      of hostilities” is in place, even if almost half of the Israeli settlers deployed
+      along the Lebanese borders refused to return. The World Bank estimates the damage
+      Israel has inflicted on Lebanon is 5.1 billion dollars. Through every targeted
+      assassination, airstrike and bombardment, Israel presents its actions as enjoying
+      a free mandate from the United States to strike what Tel Aviv defines as ‘potential
+      menace’ and, oddly, pretending to ‘respect the UN resolution’. Israel occupied
+      at least five strategic hills in the south of Lebanon and, according to the UNIFIL
+      forces, added another 4000 sqm of Lebanese land inside a cement wall it has raised
+      along part of the border. But Israel gave Lebanon until the end of the year 2025
+      to disarm Hezbollah or face a devastating war. What can Lebanon possibly do? Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: The ceasefire between Lebanon and Israel, intended to prevent
+      a broader conflict following the Gaza war, has largely failed in practice, with
+      Lebanon becoming a secondary battleground despite Hezbollah's compliance with
+      the agreement and the ongoing Israeli violations of Lebanese sovereignty.
+    paragraph_summary: The ceasefire between Lebanon and Israel, established after the
+      outbreak of the Gaza war in late 2023, aimed to prevent a broader conflict but
+      has largely failed to materialize in practice. Following Hezbollah's involvement
+      on October 8, the ceasefire was intended to uphold the principles of UN Security
+      Council Resolution 1701, which sought to stabilize the border and prevent cross-border
+      attacks. However, the situation has deteriorated, with Israel violating Lebanese
+      sovereignty and causing significant casualties and destruction, including the
+      deaths of around 335 people and the displacement of 96,000 individuals in Lebanon
+      over the past year. Despite Hezbollah's compliance with the ceasefire terms, including
+      the removal of weapons from southern Lebanon, Israel has continued its military
+      actions, leading to an estimated $5.1 billion in damages. The ongoing conflict
+      highlights the disparity between the ceasefire's intended goals and the reality
+      on the ground, as Israel claims to respect the UN resolution while conducting
+      operations it justifies as necessary for national security.
+    published: '2025-11-29T17:50:09+00:00'
+  - title: 'The Ceasefire That Never Was: A Year of Violations, Pressure, Shifting Power
+      and Uncertainty'
+    url: https://ejmagnier.com/2025/11/29/the-ceasefire-that-never-was-a-year-of-violations-pressure-shifting-power-and-uncertainty/
+    text: By Elijah J. Magnier – The ceasefire between Lebanon and Israel that followed
+      the eruption of the Gaza war in late 2023 was meant to stop a wider war that failed
+      to achieve its objectives following an Israeli ground invasion. It came after
+      Hezbollah opened a northern front on 8 October in support of Gaza. The end of
+      the third Israeli war agreement rested on the same principles that shaped UN Security
+      Council Resolution 1701, which was supposed to prevent cross-border attacks, enforce
+      withdrawals, and allow life along the frontier to stabilise. Instead, the past
+      year has shown that the ceasefire mainly existed on paper. Lebanon became a secondary
+      arena of the conflict, and the promises that accompanied the ceasefire have unravelled
+      one by one. The Lebanese have respected the deal, and Hezbollah removed all warehouses
+      from south of the Litani River, regardless of the continuous Israeli violation
+      of Lebanon’s sovereignty. The Lebanese Army confirmed that there were no longer
+      Hezbollah warehouses in the area covered by the UNSCR 1701 and has confiscated
+      230,000 weapons. A whole year has passed, and, during this time, Israel has killed
+      around 335 people in Lebanon, 96,000 were displaced, 24 southern villages were
+      destroyed and prevented from returning to their homes, and a total of 240,000
+      homes were damaged all over Lebanon. Meanwhile, Israel, which violates Lebanon’s sovereignty
+      over 10,000 according to the UNIFIL report, is still claiming that a “cessation
+      of hostilities” is in place, even if almost half of the Israeli settlers deployed
+      along the Lebanese borders refused to return. The World Bank estimates the damage
+      Israel has inflicted on Lebanon is 5.1 billion dollars. Through every targeted
+      assassination, airstrike and bombardment, Israel presents its actions as enjoying
+      a free mandate from the United States to strike what Tel Aviv defines as ‘potential
+      menace’ and, oddly, pretending to ‘respect the UN resolution’. Israel occupied
+      at least five strategic hills in the south of Lebanon and, according to the UNIFIL
+      forces, added another 4000 sqm of Lebanese land inside a cement wall it has raised
+      along part of the border. But Israel gave Lebanon until the end of the year 2025
+      to disarm Hezbollah or face a devastating war. What can Lebanon possibly do? Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: The ceasefire between Lebanon and Israel, intended to prevent
+      a broader conflict following the Gaza war, has largely failed in practice, with
+      Lebanon becoming a secondary battleground despite Hezbollah's compliance with
+      the agreement and the ongoing Israeli violations of Lebanese sovereignty.
+    paragraph_summary: The ceasefire between Lebanon and Israel, established after the
+      outbreak of the Gaza war in late 2023, aimed to prevent a broader conflict but
+      has largely failed to materialize in practice. Following Hezbollah's involvement
+      on October 8, the ceasefire was intended to uphold the principles of UN Security
+      Council Resolution 1701, which sought to stabilize the border and prevent cross-border
+      attacks. However, the situation has deteriorated, with Israel violating Lebanese
+      sovereignty and causing significant casualties and destruction, including the
+      deaths of around 335 people and the displacement of 96,000 individuals in Lebanon
+      over the past year. Despite Hezbollah's compliance with the ceasefire terms, including
+      the removal of weapons from southern Lebanon, Israel has continued its military
+      actions, leading to an estimated $5.1 billion in damages. The ongoing conflict
+      highlights the disparity between the ceasefire's intended goals and the reality
+      on the ground, as Israel claims to respect the UN resolution while conducting
+      operations it justifies as necessary for national security.
+    published: '2025-11-29T17:50:09+00:00'
+  - title: 'Le cessez-le-feu qui n’a jamais existé: une année de violations, de pressions,
+      de rapports de force changeants et d’incertitude'
+    url: https://ejmagnier.com/2025/11/29/le-cessez-le-feu-qui-na-jamais-existe-une-annee-de-violations-de-pressions-de-rapports-de-force-changeants-et-dincertitude/
+    text: Par Elijah J. Magnier – Le cessez-le-feu entre le Liban et Israël, qui a suivi
+      l’éruption de la guerre de Gaza à la fin de l’année 2023, était censé empêcher
+      une guerre plus large qui n’avait pas atteint ses objectifs après l’invasion terrestre
+      israélienne. Il est intervenu après que le Hezbollah a ouvert un front nord le
+      8 octobre en soutien à Gaza. La fin de la troisième guerre israélienne reposait
+      sur les mêmes principes qui avaient façonné la résolution 1701 du Conseil de sécurité
+      de l’ONU, censée empêcher les attaques transfrontalières, imposer les retraits
+      et permettre aux populations frontalières de retrouver une certaine stabilité.
+      Au contraire, l’année écoulée a montré que le cessez-le-feu existait principalement
+      sur le papier. Le Liban est devenu un théâtre secondaire du conflit, et les promesses
+      qui accompagnaient l’accord se sont effondrées l’une après l’autre. Les Libanais
+      ont respecté l’accord, et le Hezbollah a retiré tous ses dépôts situés au sud
+      du fleuve Litani, malgré les violations continues de la souveraineté libanaise
+      par Israël. L’Armée libanaise a confirmé qu’il n’y avait plus de dépôts d’armes
+      du Hezbollah dans la zone couverte par la résolution 1701, et a saisi 230 000
+      armes. Une année entière s’est écoulée et, durant cette période, Israël a tué
+      environ 335 personnes au Liban. 96 000 habitants ont été déplacés, 24 villages
+      du Sud ont été détruits et leurs habitants empêchés de rentrer chez eux, et un
+      total de 240 000 habitations ont été endommagées dans tout le pays. Pendant ce
+      temps, Israël, qui viole la souveraineté libanaise à plus de 10 000 reprises selon
+      le rapport de la FINUL, affirme toujours qu’une « cessation des hostilités » est
+      en cours, alors que près de la moitié des colons israéliens déployés le long de
+      la frontière refusent de revenir. La Banque mondiale estime que les dégâts infligés
+      au Liban s’élèvent à 5,1 milliards de dollars. À travers chaque assassinat ciblé,
+      chaque frappe aérienne et chaque bombardement, Israël présente ses actions comme
+      bénéficiant d’un mandat libre des États-Unis pour frapper ce que Tel-Aviv définit
+      comme une « menace potentielle », tout en prétendant curieusement « respecter
+      la résolution de l’ONU ». Israël a occupé au moins cinq collines stratégiques
+      dans le sud du Liban et, selon la FINUL, a annexé 4 000 m² supplémentaires de
+      territoire libanais derrière un mur de béton construit le long d’une partie de
+      la frontière. Par ailleurs, Israël a donné au Liban jusqu’à la fin de l’année
+      2025 pour désarmer le Hezbollah, faute de quoi il ferait face à une guerre dévastatrice.
+      Que peut faire le Liban ? Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly
+    one_sentence_summary: Le cessez-le-feu entre le Liban et Israël, instauré après
+      le début de la guerre de Gaza fin 2023, a échoué à atteindre ses objectifs de
+      stabilité et de prévention des attaques transfrontalières, laissant le Liban en
+      proie à des tensions persistantes malgré le respect de l'accord par les Libanais
+      et le retrait du Hezbollah.
+    paragraph_summary: L'article d'Elijah J. Magnier traite du cessez-le-feu entre le
+      Liban et Israël, instauré après le début de la guerre de Gaza à la fin de 2023,
+      qui visait à éviter une escalade du conflit. Bien que le Hezbollah ait ouvert
+      un front nord en soutien à Gaza, le cessez-le-feu a été largement inefficace,
+      se traduisant par une série de violations et de destructions au Liban, où environ
+      335 personnes ont été tuées, 96 000 déplacées, et 240 000 habitations endommagées.
+      Malgré le respect apparent de l'accord par le Hezbollah et l'Armée libanaise,
+      qui a confirmé l'absence de dépôts d'armes dans certaines zones, les incursions
+      israéliennes ont continué, avec plus de 10 000 violations de la souveraineté libanaise.
+      Les dommages économiques au Liban sont estimés à 5,1 milliards de dollars, tandis
+      qu'Israël continue de revendiquer une "cessation des hostilités", malgré la situation
+      précaire des habitants le long de la frontière.
+    published: '2025-11-29T17:49:19+00:00'
+  - title: 'Le cessez-le-feu qui n’a jamais existé: une année de violations, de pressions,
+      de rapports de force changeants et d’incertitude'
+    url: https://ejmagnier.com/2025/11/29/le-cessez-le-feu-qui-na-jamais-existe-une-annee-de-violations-de-pressions-de-rapports-de-force-changeants-et-dincertitude/
+    text: Par Elijah J. Magnier – Le cessez-le-feu entre le Liban et Israël, qui a suivi
+      l’éruption de la guerre de Gaza à la fin de l’année 2023, était censé empêcher
+      une guerre plus large qui n’avait pas atteint ses objectifs après l’invasion terrestre
+      israélienne. Il est intervenu après que le Hezbollah a ouvert un front nord le
+      8 octobre en soutien à Gaza. La fin de la troisième guerre israélienne reposait
+      sur les mêmes principes qui avaient façonné la résolution 1701 du Conseil de sécurité
+      de l’ONU, censée empêcher les attaques transfrontalières, imposer les retraits
+      et permettre aux populations frontalières de retrouver une certaine stabilité.
+      Au contraire, l’année écoulée a montré que le cessez-le-feu existait principalement
+      sur le papier. Le Liban est devenu un théâtre secondaire du conflit, et les promesses
+      qui accompagnaient l’accord se sont effondrées l’une après l’autre. Les Libanais
+      ont respecté l’accord, et le Hezbollah a retiré tous ses dépôts situés au sud
+      du fleuve Litani, malgré les violations continues de la souveraineté libanaise
+      par Israël. L’Armée libanaise a confirmé qu’il n’y avait plus de dépôts d’armes
+      du Hezbollah dans la zone couverte par la résolution 1701, et a saisi 230 000
+      armes. Une année entière s’est écoulée et, durant cette période, Israël a tué
+      environ 335 personnes au Liban. 96 000 habitants ont été déplacés, 24 villages
+      du Sud ont été détruits et leurs habitants empêchés de rentrer chez eux, et un
+      total de 240 000 habitations ont été endommagées dans tout le pays. Pendant ce
+      temps, Israël, qui viole la souveraineté libanaise à plus de 10 000 reprises selon
+      le rapport de la FINUL, affirme toujours qu’une « cessation des hostilités » est
+      en cours, alors que près de la moitié des colons israéliens déployés le long de
+      la frontière refusent de revenir. La Banque mondiale estime que les dégâts infligés
+      au Liban s’élèvent à 5,1 milliards de dollars. À travers chaque assassinat ciblé,
+      chaque frappe aérienne et chaque bombardement, Israël présente ses actions comme
+      bénéficiant d’un mandat libre des États-Unis pour frapper ce que Tel-Aviv définit
+      comme une « menace potentielle », tout en prétendant curieusement « respecter
+      la résolution de l’ONU ». Israël a occupé au moins cinq collines stratégiques
+      dans le sud du Liban et, selon la FINUL, a annexé 4 000 m² supplémentaires de
+      territoire libanais derrière un mur de béton construit le long d’une partie de
+      la frontière. Par ailleurs, Israël a donné au Liban jusqu’à la fin de l’année
+      2025 pour désarmer le Hezbollah, faute de quoi il ferait face à une guerre dévastatrice.
+      Que peut faire le Liban ? Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly
+    one_sentence_summary: Le cessez-le-feu entre le Liban et Israël, instauré après
+      le début de la guerre de Gaza fin 2023, a échoué à atteindre ses objectifs de
+      stabilité et de prévention des attaques transfrontalières, laissant le Liban en
+      proie à des tensions persistantes malgré le respect de l'accord par les Libanais
+      et le retrait du Hezbollah.
+    paragraph_summary: L'article d'Elijah J. Magnier traite du cessez-le-feu entre le
+      Liban et Israël, instauré après le début de la guerre de Gaza à la fin de 2023,
+      qui visait à éviter une escalade du conflit. Bien que le Hezbollah ait ouvert
+      un front nord en soutien à Gaza, le cessez-le-feu a été largement inefficace,
+      se traduisant par une série de violations et de destructions au Liban, où environ
+      335 personnes ont été tuées, 96 000 déplacées, et 240 000 habitations endommagées.
+      Malgré le respect apparent de l'accord par le Hezbollah et l'Armée libanaise,
+      qui a confirmé l'absence de dépôts d'armes dans certaines zones, les incursions
+      israéliennes ont continué, avec plus de 10 000 violations de la souveraineté libanaise.
+      Les dommages économiques au Liban sont estimés à 5,1 milliards de dollars, tandis
+      qu'Israël continue de revendiquer une "cessation des hostilités", malgré la situation
+      précaire des habitants le long de la frontière.
+    published: '2025-11-29T17:49:19+00:00'
+  - title: 'Het staakt-het-vuren dat er nooit was: een jaar van schendingen, druk, machtsverschuivingen
+      en onzekerheid'
+    url: https://ejmagnier.com/2025/11/29/het-staakt-het-vuren-dat-er-nooit-was-een-jaar-van-schendingen-druk-machtsverschuivingen-en-onzekerheid/
+    text: Geschreven door Elijah J. Magnier – Vertaald door Francis J. Het staakt-het-vuren
+      tussen Libanon en Israël dat volgde op het uitbreken van de oorlog in Gaza eind
+      2023 was bedoeld om een grotere oorlog te voorkomen, die na een grondinvasie zijn
+      doelstellingen niet had bereikt. Het kwam nadat Hezbollah op 8 oktober een noordelijk
+      front had geopend ter ondersteuning van Gaza. Het einde van de derde Israëlische
+      oorlogsovereenkomst berustte op dezelfde principes die ten grondslag lagen aan
+      resolutie 1701 van de VN-Veiligheidsraad, die grensoverschrijdende aanvallen moest
+      voorkomen, terugtrekkingen moest afdwingen en het leven langs de grens moest stabiliseren.
+      In plaats daarvan heeft het afgelopen jaar aangetoond dat het staakt-het-vuren
+      vooral op papier bestond. Libanon werd een secundair strijdtoneel en de beloften
+      die met het staakt-het-vuren gepaard gingen, zijn een voor een ontrafeld. Libanon
+      heeft zich aan de overeenkomst gehouden en Hezbollah heeft alle wapenopslagplaatsen
+      ten zuiden van de Litani-rivier verwijderd, ondanks de voortdurende schendingen
+      van de soevereiniteit van Libanon door Israël. Het Libanese leger heeft bevestigd
+      dat er geen wapenopslagplaatsen van Hezbollah meer zijn in het gebied dat onder
+      resolutie 1701 van de VN-Veiligheidsraad valt, en heeft 230 000 wapens in beslag
+      genomen. Er is een heel jaar verstreken en in die periode heeft Israël ongeveer
+      335 mensen in Libanon gedood, 96.000 mensen ontheemd, 24 dorpen in het zuiden
+      verwoest en hen verhinderd naar hun huizen terug te keren, en in totaal 240.000
+      huizen in heel Libanon verwoest. Ondertussen beweert Israël, dat volgens het UNIFIL-rapport
+      de soevereiniteit van Libanon meer dan 10.000 keer heeft geschonden, nog steeds
+      dat er een “staakt-het-vuren” van kracht is, ook al weigert bijna de helft van
+      de Israëlische kolonisten die langs de Libanese grenzen zijn gestationeerd, terug
+      te keren. De Wereldbank schat de schade die Israël aan Libanon heeft toegebracht
+      op 5,1 miljard dollar. Bij elke gerichte moordaanslag, luchtaanval en bombardement
+      presenteert Israël zijn acties als een vrij mandaat van de Verenigde Staten om
+      toe te slaan tegen wat Tel Aviv definieert als een “potentiële bedreiging” en
+      doet het vreemd genoeg alsof het “de VN-resolutie respecteert”. Israël bezette
+      ten minste vijf strategische heuvels in het zuiden van Libanon en voegde volgens
+      de UNIFIL-troepen nog eens 4000 m² Libanees grondgebied toe aan een betonnen muur
+      die het langs een deel van de grenzen heeft opgetrokken. Maar Israël gaf Libanon
+      tot eind 2025 de tijd om Hezbollah te ontwapenen, anders zou het een verwoestende
+      oorlog tegemoet kunnen zien. Wat kan Libanon mogelijk doen? Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: Het staakt-het-vuren tussen Libanon en Israël na de oorlog
+      in Gaza eind 2023 was bedoeld om een grotere oorlog te voorkomen, maar bleek voornamelijk
+      symbolisch te zijn, met Libanon als secundair strijdtoneel en de beloften van
+      stabiliteit die niet zijn nagekomen.
+    paragraph_summary: Het staakt-het-vuren tussen Libanon en Israël, dat volgde op
+      de uitbraak van de oorlog in Gaza eind 2023, was bedoeld om een grotere oorlog
+      te voorkomen, maar heeft in de praktijk vooral op papier bestaan. Na de opening
+      van een noordelijk front door Hezbollah ter ondersteuning van Gaza op 8 oktober,
+      werd het staakt-het-vuren gebaseerd op VN-resolutie 1701, die grensoverschrijdende
+      aanvallen moest voorkomen en stabiliteit moest waarborgen. Ondanks de naleving
+      van Libanon en het verwijderen van Hezbollah-wapenopslagplaatsen, heeft Israël
+      de soevereiniteit van Libanon herhaaldelijk geschonden, met aanzienlijke verliezen
+      en verwoestingen tot gevolg, waaronder 335 doden en 240.000 verwoeste huizen.
+      Terwijl Israël claimt dat het staakt-het-vuren nog steeds van kracht is, blijkt
+      uit de situatie dat de beloften van stabiliteit en veiligheid niet zijn nagekomen,
+      met een geschatte schade van 5,1 miljard dollar aan Libanon volgens de Wereldbank.
+    published: '2025-11-29T17:48:26+00:00'
+  - title: 'Het staakt-het-vuren dat er nooit was: een jaar van schendingen, druk, machtsverschuivingen
+      en onzekerheid'
+    url: https://ejmagnier.com/2025/11/29/het-staakt-het-vuren-dat-er-nooit-was-een-jaar-van-schendingen-druk-machtsverschuivingen-en-onzekerheid/
+    text: Geschreven door Elijah J. Magnier – Vertaald door Francis J. Het staakt-het-vuren
+      tussen Libanon en Israël dat volgde op het uitbreken van de oorlog in Gaza eind
+      2023 was bedoeld om een grotere oorlog te voorkomen, die na een grondinvasie zijn
+      doelstellingen niet had bereikt. Het kwam nadat Hezbollah op 8 oktober een noordelijk
+      front had geopend ter ondersteuning van Gaza. Het einde van de derde Israëlische
+      oorlogsovereenkomst berustte op dezelfde principes die ten grondslag lagen aan
+      resolutie 1701 van de VN-Veiligheidsraad, die grensoverschrijdende aanvallen moest
+      voorkomen, terugtrekkingen moest afdwingen en het leven langs de grens moest stabiliseren.
+      In plaats daarvan heeft het afgelopen jaar aangetoond dat het staakt-het-vuren
+      vooral op papier bestond. Libanon werd een secundair strijdtoneel en de beloften
+      die met het staakt-het-vuren gepaard gingen, zijn een voor een ontrafeld. Libanon
+      heeft zich aan de overeenkomst gehouden en Hezbollah heeft alle wapenopslagplaatsen
+      ten zuiden van de Litani-rivier verwijderd, ondanks de voortdurende schendingen
+      van de soevereiniteit van Libanon door Israël. Het Libanese leger heeft bevestigd
+      dat er geen wapenopslagplaatsen van Hezbollah meer zijn in het gebied dat onder
+      resolutie 1701 van de VN-Veiligheidsraad valt, en heeft 230 000 wapens in beslag
+      genomen. Er is een heel jaar verstreken en in die periode heeft Israël ongeveer
+      335 mensen in Libanon gedood, 96.000 mensen ontheemd, 24 dorpen in het zuiden
+      verwoest en hen verhinderd naar hun huizen terug te keren, en in totaal 240.000
+      huizen in heel Libanon verwoest. Ondertussen beweert Israël, dat volgens het UNIFIL-rapport
+      de soevereiniteit van Libanon meer dan 10.000 keer heeft geschonden, nog steeds
+      dat er een “staakt-het-vuren” van kracht is, ook al weigert bijna de helft van
+      de Israëlische kolonisten die langs de Libanese grenzen zijn gestationeerd, terug
+      te keren. De Wereldbank schat de schade die Israël aan Libanon heeft toegebracht
+      op 5,1 miljard dollar. Bij elke gerichte moordaanslag, luchtaanval en bombardement
+      presenteert Israël zijn acties als een vrij mandaat van de Verenigde Staten om
+      toe te slaan tegen wat Tel Aviv definieert als een “potentiële bedreiging” en
+      doet het vreemd genoeg alsof het “de VN-resolutie respecteert”. Israël bezette
+      ten minste vijf strategische heuvels in het zuiden van Libanon en voegde volgens
+      de UNIFIL-troepen nog eens 4000 m² Libanees grondgebied toe aan een betonnen muur
+      die het langs een deel van de grenzen heeft opgetrokken. Maar Israël gaf Libanon
+      tot eind 2025 de tijd om Hezbollah te ontwapenen, anders zou het een verwoestende
+      oorlog tegemoet kunnen zien. Wat kan Libanon mogelijk doen? Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: Het staakt-het-vuren tussen Libanon en Israël na de oorlog
+      in Gaza eind 2023 was bedoeld om een grotere oorlog te voorkomen, maar bleek voornamelijk
+      symbolisch te zijn, met Libanon als secundair strijdtoneel en de beloften van
+      stabiliteit die niet zijn nagekomen.
+    paragraph_summary: Het staakt-het-vuren tussen Libanon en Israël, dat volgde op
+      de uitbraak van de oorlog in Gaza eind 2023, was bedoeld om een grotere oorlog
+      te voorkomen, maar heeft in de praktijk vooral op papier bestaan. Na de opening
+      van een noordelijk front door Hezbollah ter ondersteuning van Gaza op 8 oktober,
+      werd het staakt-het-vuren gebaseerd op VN-resolutie 1701, die grensoverschrijdende
+      aanvallen moest voorkomen en stabiliteit moest waarborgen. Ondanks de naleving
+      van Libanon en het verwijderen van Hezbollah-wapenopslagplaatsen, heeft Israël
+      de soevereiniteit van Libanon herhaaldelijk geschonden, met aanzienlijke verliezen
+      en verwoestingen tot gevolg, waaronder 335 doden en 240.000 verwoeste huizen.
+      Terwijl Israël claimt dat het staakt-het-vuren nog steeds van kracht is, blijkt
+      uit de situatie dat de beloften van stabiliteit en veiligheid niet zijn nagekomen,
+      met een geschatte schade van 5,1 miljard dollar aan Libanon volgens de Wereldbank.
+    published: '2025-11-29T17:48:26+00:00'
+  - title: 'De strategie van Hezbollah na de afschrikking: waarom moorden geen raketoorlog
+      met Israël zullen uitlokken'
+    url: https://ejmagnier.com/2025/11/26/de-strategie-van-hezbollah-na-de-afschrikking-waarom-moorden-geen-raketoorlog-met-israel-zullen-uitlokken/
+    text: 'Geschreven door Elijah J. Magnier – Vertaald door Francis J. Hezbollah heeft
+      een beter begrip van de aard van zijn confrontatie met Israël: het tijdperk van
+      grootschalige raketuitwisselingen wordt als zinloos beschouwd en is feitelijk
+      voorbij, tenzij de situatie een punt bereikt waarop er geen weg terug meer is.
+      Zelfs de eventuele moord op zijn nieuw benoemde secretaris-generaal (sjeik Naeim
+      Qassem) of andere hoge besluitvormers zou de organisatie niet automatisch tot
+      een vergeldingscampagne met raketten aanzetten. Het leiderschap van Hezbollah
+      heeft besloten dat langeafstandsraketten en precisieraketten alleen in extreme
+      gevallen zullen worden gebruikt, namelijk als Israël opzettelijk grote groepen
+      burgers als doelwit neemt. Deze verschuiving betekent een belangrijke doctrinaire
+      transformatie. Het geduld van de organisatie is nu expliciet gekoppeld aan de
+      bescherming van het leven van burgers en het voorkomen van een scenario van vernietiging
+      in Libanon zoals in Gaza. Israël begrijpt deze rode lijn duidelijk. Het weet ook
+      dat Hezbollah nu prioriteit geeft aan het opzetten van een defensieve strategie
+      die is ontworpen om elke Israëlische grondtroepenmacht die dorpen in Zuid-Libanon
+      probeert te veroveren of te bezetten, te verslaan, in plaats van een openlijke
+      raketoorlog te voeren. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: Hezbollah heeft zijn strategie herzien en beschouwt grootschalige
+      raketuitwisselingen als zinloos, waarbij het gebruik van langeafstandsraketten
+      en precisieraketten alleen in extreme gevallen zal plaatsvinden, vooral ter bescherming
+      van burgers en om een scenario van vernietiging in Libanon te vermijden.
+    paragraph_summary: Hezbollah heeft zijn strategie ten opzichte van Israël herzien
+      en beschouwt grootschalige raketuitwisselingen als zinloos, tenzij de situatie
+      extreem escaleert. De organisatie, onder leiding van sjeik Naeim Qassem, zal langeafstandsraketten
+      en precisieraketten alleen gebruiken in gevallen waar Israël opzettelijk grote
+      groepen burgers aanvalt. Deze verschuiving markeert een belangrijke doctrinaire
+      verandering, waarbij Hezbollah nu de bescherming van burgerlevens vooropstelt
+      en een defensieve strategie ontwikkelt om Israëlische grondtroepen in Zuid-Libanon
+      tegen te houden, in plaats van zich in een openlijke raketoorlog te storten. Israël
+      is zich bewust van deze nieuwe rode lijnen en de veranderde prioriteiten van Hezbollah.
+    published: '2025-11-26T20:24:10+00:00'
+  - title: 'De strategie van Hezbollah na de afschrikking: waarom moorden geen raketoorlog
+      met Israël zullen uitlokken'
+    url: https://ejmagnier.com/2025/11/26/de-strategie-van-hezbollah-na-de-afschrikking-waarom-moorden-geen-raketoorlog-met-israel-zullen-uitlokken/
+    text: 'Geschreven door Elijah J. Magnier – Vertaald door Francis J. Hezbollah heeft
+      een beter begrip van de aard van zijn confrontatie met Israël: het tijdperk van
+      grootschalige raketuitwisselingen wordt als zinloos beschouwd en is feitelijk
+      voorbij, tenzij de situatie een punt bereikt waarop er geen weg terug meer is.
+      Zelfs de eventuele moord op zijn nieuw benoemde secretaris-generaal (sjeik Naeim
+      Qassem) of andere hoge besluitvormers zou de organisatie niet automatisch tot
+      een vergeldingscampagne met raketten aanzetten. Het leiderschap van Hezbollah
+      heeft besloten dat langeafstandsraketten en precisieraketten alleen in extreme
+      gevallen zullen worden gebruikt, namelijk als Israël opzettelijk grote groepen
+      burgers als doelwit neemt. Deze verschuiving betekent een belangrijke doctrinaire
+      transformatie. Het geduld van de organisatie is nu expliciet gekoppeld aan de
+      bescherming van het leven van burgers en het voorkomen van een scenario van vernietiging
+      in Libanon zoals in Gaza. Israël begrijpt deze rode lijn duidelijk. Het weet ook
+      dat Hezbollah nu prioriteit geeft aan het opzetten van een defensieve strategie
+      die is ontworpen om elke Israëlische grondtroepenmacht die dorpen in Zuid-Libanon
+      probeert te veroveren of te bezetten, te verslaan, in plaats van een openlijke
+      raketoorlog te voeren. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: Hezbollah heeft zijn strategie herzien en beschouwt grootschalige
+      raketuitwisselingen als zinloos, waarbij het gebruik van langeafstandsraketten
+      en precisieraketten alleen in extreme gevallen zal plaatsvinden, vooral ter bescherming
+      van burgers en om een scenario van vernietiging in Libanon te vermijden.
+    paragraph_summary: Hezbollah heeft zijn strategie ten opzichte van Israël herzien
+      en beschouwt grootschalige raketuitwisselingen als zinloos, tenzij de situatie
+      extreem escaleert. De organisatie, onder leiding van sjeik Naeim Qassem, zal langeafstandsraketten
+      en precisieraketten alleen gebruiken in gevallen waar Israël opzettelijk grote
+      groepen burgers aanvalt. Deze verschuiving markeert een belangrijke doctrinaire
+      verandering, waarbij Hezbollah nu de bescherming van burgerlevens vooropstelt
+      en een defensieve strategie ontwikkelt om Israëlische grondtroepen in Zuid-Libanon
+      tegen te houden, in plaats van zich in een openlijke raketoorlog te storten. Israël
+      is zich bewust van deze nieuwe rode lijnen en de veranderde prioriteiten van Hezbollah.
+    published: '2025-11-26T20:24:10+00:00'
+  - title: 'La stratégie post-dissuasion du Hezbollah : pourquoi les assassinats ne
+      déclencheront pas une guerre de missiles avec Israël'
+    url: https://ejmagnier.com/2025/11/26/la-strategie-post-dissuasion-du-hezbollah-pourquoi-les-assassinats-ne-declencheront-pas-une-guerre-de-missiles-avec-israel/
+    text: Par Elijah J. Magnier Le Hezbollah estime désormais que l’échange massif de
+      missiles avec Israël n’est plus une option stratégique, sauf si la situation franchit
+      un seuil de non-retour. Même l’assassinat éventuel de son nouveau Secrétaire général
+      (le cheikh Naeim Qassem) ou de tout autre haut responsable ne pousserait pas automatiquement
+      l’organisation à lancer une campagne de représailles balistiques. La direction
+      du Hezbollah a établi que les missiles de longue portée et de précision ne seront
+      utilisés qu’en dernier recours, uniquement si Israël cible délibérément un grand
+      nombre de civils. Ce changement marque une transformation doctrinale majeure.
+      La patience de l’organisation est désormais explicitement liée à la protection
+      des civils et à la volonté d’éviter un scénario de destruction totale comparable
+      à Gaza. Israël comprend clairement cette ligne rouge. Il sait également que le
+      Hezbollah a désormais choisi de concentrer sa stratégie sur un dispositif défensif
+      destiné à affronter toute force terrestre israélienne cherchant à occuper des
+      villages du sud du Liban, plutôt que de s’engager dans une guerre ouverte de missiles.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly
+    one_sentence_summary: Le Hezbollah a révisé sa stratégie en décidant de ne recourir
+      aux missiles de longue portée qu'en dernier recours, notamment pour protéger les
+      civils, et ne répondra pas automatiquement à des provocations telles que l'assassinat
+      de ses dirigeants, marquant ainsi un changement doctrinal significatif.
+    paragraph_summary: Hezbollah has shifted its strategic approach regarding missile
+      exchanges with Israel, now considering such actions only as a last resort, particularly
+      if a significant threshold is crossed, such as a deliberate attack on civilians.
+      The organization has indicated that even the assassination of its new Secretary
+      General or other high-ranking officials would not automatically trigger a missile
+      retaliation. This marks a significant doctrinal change, with Hezbollah prioritizing
+      civilian protection and aiming to avoid a scenario of total destruction similar
+      to that in Gaza. Instead, the group is focusing on defensive strategies to counter
+      any potential Israeli ground incursions into southern Lebanon, signaling to Israel
+      that it understands and respects this new red line.
+    published: '2025-11-26T17:14:05+00:00'
+  - title: 'La stratégie post-dissuasion du Hezbollah : pourquoi les assassinats ne
+      déclencheront pas une guerre de missiles avec Israël'
+    url: https://ejmagnier.com/2025/11/26/la-strategie-post-dissuasion-du-hezbollah-pourquoi-les-assassinats-ne-declencheront-pas-une-guerre-de-missiles-avec-israel/
+    text: Par Elijah J. Magnier Le Hezbollah estime désormais que l’échange massif de
+      missiles avec Israël n’est plus une option stratégique, sauf si la situation franchit
+      un seuil de non-retour. Même l’assassinat éventuel de son nouveau Secrétaire général
+      (le cheikh Naeim Qassem) ou de tout autre haut responsable ne pousserait pas automatiquement
+      l’organisation à lancer une campagne de représailles balistiques. La direction
+      du Hezbollah a établi que les missiles de longue portée et de précision ne seront
+      utilisés qu’en dernier recours, uniquement si Israël cible délibérément un grand
+      nombre de civils. Ce changement marque une transformation doctrinale majeure.
+      La patience de l’organisation est désormais explicitement liée à la protection
+      des civils et à la volonté d’éviter un scénario de destruction totale comparable
+      à Gaza. Israël comprend clairement cette ligne rouge. Il sait également que le
+      Hezbollah a désormais choisi de concentrer sa stratégie sur un dispositif défensif
+      destiné à affronter toute force terrestre israélienne cherchant à occuper des
+      villages du sud du Liban, plutôt que de s’engager dans une guerre ouverte de missiles.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly
+    one_sentence_summary: Le Hezbollah a révisé sa stratégie en décidant de ne recourir
+      aux missiles de longue portée qu'en dernier recours, notamment pour protéger les
+      civils, et ne répondra pas automatiquement à des provocations telles que l'assassinat
+      de ses dirigeants, marquant ainsi un changement doctrinal significatif.
+    paragraph_summary: Hezbollah has shifted its strategic approach regarding missile
+      exchanges with Israel, now considering such actions only as a last resort, particularly
+      if a significant threshold is crossed, such as a deliberate attack on civilians.
+      The organization has indicated that even the assassination of its new Secretary
+      General or other high-ranking officials would not automatically trigger a missile
+      retaliation. This marks a significant doctrinal change, with Hezbollah prioritizing
+      civilian protection and aiming to avoid a scenario of total destruction similar
+      to that in Gaza. Instead, the group is focusing on defensive strategies to counter
+      any potential Israeli ground incursions into southern Lebanon, signaling to Israel
+      that it understands and respects this new red line.
+    published: '2025-11-26T17:14:05+00:00'
+  - title: 'Hezbollah’s Post-Deterrence Strategy: Why Assassinations Will Not Trigger
+      a Missile War with Israel'
+    url: https://ejmagnier.com/2025/11/26/hezbollahs-post-deterrence-strategy-why-assassinations-will-not-trigger-a-missile-war-with-israel/
+    text: 'By Elijah J. Magnier Hezbollah has a greater understanding of the nature
+      of its confrontation with Israel: the era of large-scale missile exchanges is considered
+      useless and effectively over unless the situation reaches a non-return option.
+      Even the eventual assassination of its newly appointed Secretary General (Sheikh
+      Naeim Qassem) or any senior decision-makers would not automatically push the organisation
+      into a retaliatory missile campaign. Hezbollah’s leadership has determined that
+      long-range and precision missiles will only be used in extremist if Israel deliberately
+      targets mass civilians. This shift represents a major doctrinal transformation.
+      The organisation’s patience is now explicitly tied to the protection of civilian
+      life and the avoidance of a Gaza-style destruction scenario in Lebanon. Israel
+      understands this red line clearly. It also knows that Hezbollah has now prioritised
+      building a defensive strategy designed to clash with any Israeli ground forces
+      attempting to seize or occupy villages in south Lebanon, rather than engaging
+      in open missile warfare. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: Hezbollah has shifted its military strategy away from large-scale
+      missile exchanges with Israel, focusing instead on protecting civilian life and
+      only considering the use of long-range precision missiles in extreme circumstances,
+      particularly if Israel targets civilians, while also preparing defensively against
+      potential ground incursions.
+    paragraph_summary: Hezbollah has shifted its strategic approach in its confrontation
+      with Israel, moving away from large-scale missile exchanges and focusing instead
+      on a defensive strategy aimed at protecting civilian life in Lebanon. The organization,
+      led by Sheikh Naeim Qassem, has determined that long-range and precision missiles
+      will only be deployed in extreme circumstances, such as if Israel targets mass
+      civilians, indicating a significant doctrinal change. This new strategy prioritizes
+      preventing a scenario similar to the destruction seen in Gaza and aims to counter
+      Israeli ground forces rather than engage in open missile warfare. Israel is aware
+      of this red line and the implications it has for future confrontations.
+    published: '2025-11-26T17:08:06+00:00'
+  - title: 'Hezbollah’s Post-Deterrence Strategy: Why Assassinations Will Not Trigger
+      a Missile War with Israel'
+    url: https://ejmagnier.com/2025/11/26/hezbollahs-post-deterrence-strategy-why-assassinations-will-not-trigger-a-missile-war-with-israel/
+    text: 'By Elijah J. Magnier Hezbollah has a greater understanding of the nature
+      of its confrontation with Israel: the era of large-scale missile exchanges is considered
+      useless and effectively over unless the situation reaches a non-return option.
+      Even the eventual assassination of its newly appointed Secretary General (Sheikh
+      Naeim Qassem) or any senior decision-makers would not automatically push the organisation
+      into a retaliatory missile campaign. Hezbollah’s leadership has determined that
+      long-range and precision missiles will only be used in extremist if Israel deliberately
+      targets mass civilians. This shift represents a major doctrinal transformation.
+      The organisation’s patience is now explicitly tied to the protection of civilian
+      life and the avoidance of a Gaza-style destruction scenario in Lebanon. Israel
+      understands this red line clearly. It also knows that Hezbollah has now prioritised
+      building a defensive strategy designed to clash with any Israeli ground forces
+      attempting to seize or occupy villages in south Lebanon, rather than engaging
+      in open missile warfare. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: Hezbollah has shifted its military strategy away from large-scale
+      missile exchanges with Israel, focusing instead on protecting civilian life and
+      only considering the use of long-range precision missiles in extreme circumstances,
+      particularly if Israel targets civilians, while also preparing defensively against
+      potential ground incursions.
+    paragraph_summary: Hezbollah has shifted its strategic approach in its confrontation
+      with Israel, moving away from large-scale missile exchanges and focusing instead
+      on a defensive strategy aimed at protecting civilian life in Lebanon. The organization,
+      led by Sheikh Naeim Qassem, has determined that long-range and precision missiles
+      will only be deployed in extreme circumstances, such as if Israel targets mass
+      civilians, indicating a significant doctrinal change. This new strategy prioritizes
+      preventing a scenario similar to the destruction seen in Gaza and aims to counter
+      Israeli ground forces rather than engage in open missile warfare. Israel is aware
+      of this red line and the implications it has for future confrontations.
+    published: '2025-11-26T17:08:06+00:00'
   - title: 'De limieten en kwetsbaarheid van de staat en het verzet: hoe Libanon omgaat
       met een oorlog die wordt bepaald door de macht en druk van de VS en Israël'
     url: https://ejmagnier.com/2025/11/23/de-limieten-en-kwetsbaarheid-van-de-staat-en-het-verzet-hoe-libanon-omgaat-met-een-oorlog-die-wordt-bepaald-door-de-macht-en-druk-van-de-vs-en-israel/

@@ -7,14 +7,59 @@ description: "Journalist and producer; covers US foreign policy, Russiagate, and
 websites:
   - https://www.aaronmate.net/
 summary: |
-  The past weeks have seen a rapid succession of developments across the Middle East and Eastern Europe, with US foreign policy under President Trump driving significant changes in longstanding conflicts. The most recent and consequential shift is the UN Security Council’s approval—this time with US backing—of a measure that, according to **Aaron Maté**, “reflects a troubling consensus among nations that undermines Palestinian rights and endorses Trump’s controversial peace plan for Gaza.” This marks a departure from the US’s habitual use of its veto to shield Israel, signaling a new international alignment that, while halting some violence, effectively cements the status quo and Trump’s vision for the region.
+  As of early December 2025, the global geopolitical landscape remains defined by persistent crises in Ukraine, Gaza, and the broader Middle East, with US policy under President Trump facing mounting resistance both at home and abroad.
   
-  Meanwhile, the situation in Gaza remains dire despite the ceasefire brokered by Trump. The agreement, as previously analyzed, fails to address the root causes of the conflict—namely, Israeli occupation and the denial of Palestinian self-determination. **Aaron Maté** notes that Israel continues to violate the terms by restricting aid and conducting further attacks, while the international community’s latest move at the UN “endorses Trump’s plan” rather than pushing for a just resolution. The majority of sources agree that the so-called peace plan is widely seen as a repackaged demand for Palestinian surrender, rather than a genuine step towards peace.
+  The most recent development centers on President Trump’s 28-point Ukraine peace plan, which, according to **Aaron Maté**, has been met with “bipartisan opposition from Washington's foreign-policy establishment and European NATO allies.” The backlash signals entrenched resistance to any negotiated settlement perceived as a concession to Russia, despite Trump’s diplomatic overtures. This opposition is not only ideological but also institutional, reflecting a deep reluctance in Washington and European capitals to accept a settlement that could be framed as a “loss.” The majority view among analysts is that this deadlock will persist, with **Maté** noting that “Washington's war lobby refuses to 'lose',” making a near-term breakthrough highly unlikely.
   
-  In Ukraine, Trump’s rejection of President Zelensky’s request for long-range Tomahawk missiles has shifted the conversation towards diplomacy, with Trump urging Zelensky to consider ceding the Donbas region to Russia. This stance, while reducing the risk of immediate escalation, leaves Ukraine in a precarious position and signals a broader US retrenchment from direct military engagement. The “war lobby” in Washington, however, remains resistant to any outcome that could be construed as a loss, suggesting continued internal debate over US strategy.
+  In the Middle East, the US and Israel have leveraged their influence at the United Nations to shape outcomes in Gaza. A recent UN measure, passed with US support, has been criticized for “undermining Palestinian rights and endorsing Trump’s controversial peace plan for Gaza,” as **Maté** reports. Despite the formal ceasefire brokered by Trump, Israeli actions on the ground—including continued restrictions on aid and sporadic attacks—have already violated the spirit, if not the letter, of the agreement. The consensus among independent analysts is that the underlying issues of occupation and self-determination remain unaddressed, and thus, the ceasefire is unlikely to hold in the long term.
   
-  Looking ahead, the trends point towards a consolidation of Trump’s approach: transactional diplomacy, pressure on adversaries to accept US terms, and a willingness to override international norms when convenient. The endorsement of Trump’s Gaza plan at the UN, coupled with the US’s shifting posture in Ukraine, suggests that these patterns will persist. There is a high chance that Palestinian rights will remain sidelined in the near term, and that the US will continue to prioritize stability and its own interests over substantive conflict resolution. As **Aaron Maté** concludes, “the underlying causes remain unchanged,” and absent a major shift in international consensus, these dynamics are most definitely set to continue.
+  Meanwhile, the US’s shifting alliances in the region are exemplified by its embrace of Syria’s new president, Ahmed al-Sharaa (formerly Mohammed al-Jolani), a former Al Qaeda leader. **Maté** highlights the historic nature of al-Sharaa’s visit to Washington and the US’s decision to remove him from its terrorism list, a move that underscores the fluidity—and at times, the moral ambiguity—of US strategy in the Middle East.
+  
+  **Trends and Predictions:**  
+  The prevailing trend is one of diplomatic stalemate and managed instability. In Ukraine, there is a high chance that the conflict will remain unresolved in the coming months, as entrenched interests in Washington and Europe block any peace deal that involves territorial concessions. In Gaza, the ceasefire is fragile; most definitely, without addressing core grievances, renewed violence is likely. The US’s pragmatic, if controversial, realignment in Syria signals a willingness to prioritize short-term strategic gains over long-standing principles, a trend that is quite likely to continue as regional dynamics evolve.
+  
+  In summary, the geopolitical outlook remains tense and unpredictable, with diplomatic initiatives stymied by entrenched opposition and unresolved root causes. I guarantee that absent a shift in the underlying power dynamics, these crises will persist well into 2026.
 articles:
+  - title: Trump’s Ukraine peace plan faces a familiar foe in Washington
+    url: https://www.aaronmate.net/p/trumps-ukraine-peace-plan-faces-a
+    text: (Photo by Fabrice COFFRINI / AFP via Getty Images) Since taking office in
+      January with a pledge to end the Russian invasion of Ukraine, President Trump
+      has alternately blamed each side for his failure to follow through. The fallout
+      from the disclosure of Trump’s new 28-point peace plan has exposed where the real
+      blame lies. In a longstanding tradition, Washington’s bipartisan foreign-policy
+      establishment and European NATO allies have worked relentlessly to sabotage Trump’s
+      attempt to end a war that has already killed hundreds of thousands. Read more
+    one_sentence_summary: President Trump's efforts to end the Russian invasion of Ukraine
+      have been undermined by bipartisan opposition from Washington's foreign-policy
+      establishment and European NATO allies, as revealed by the backlash against his
+      new 28-point peace plan.
+    paragraph_summary: 'Since assuming office in January, President Trump has struggled
+      to fulfill his promise to end the Russian invasion of Ukraine, often shifting
+      blame between the conflicting parties. The recent unveiling of his 28-point peace
+      plan has highlighted the underlying issue: the bipartisan foreign-policy establishment
+      in Washington and European NATO allies have actively undermined his efforts to
+      resolve the conflict, which has resulted in significant loss of life.'
+    published: '2025-11-28T16:25:58+00:00'
+  - title: Trump’s Ukraine peace plan faces a familiar foe in Washington
+    url: https://www.aaronmate.net/p/trumps-ukraine-peace-plan-faces-a
+    text: (Photo by Fabrice COFFRINI / AFP via Getty Images) Since taking office in
+      January with a pledge to end the Russian invasion of Ukraine, President Trump
+      has alternately blamed each side for his failure to follow through. The fallout
+      from the disclosure of Trump’s new 28-point peace plan has exposed where the real
+      blame lies. In a longstanding tradition, Washington’s bipartisan foreign-policy
+      establishment and European NATO allies have worked relentlessly to sabotage Trump’s
+      attempt to end a war that has already killed hundreds of thousands. Read more
+    one_sentence_summary: President Trump's efforts to end the Russian invasion of Ukraine
+      have been undermined by bipartisan opposition from Washington's foreign-policy
+      establishment and European NATO allies, as revealed by the backlash against his
+      new 28-point peace plan.
+    paragraph_summary: 'Since assuming office in January, President Trump has struggled
+      to fulfill his promise to end the Russian invasion of Ukraine, often shifting
+      blame between the conflicting parties. The recent unveiling of his 28-point peace
+      plan has highlighted the underlying issue: the bipartisan foreign-policy establishment
+      in Washington and European NATO allies have actively undermined his efforts to
+      resolve the conflict, which has resulted in significant loss of life.'
+    published: '2025-11-28T16:25:58+00:00'
   - title: With UN blessing, the US and Israel impose the master’s plan
     url: https://www.aaronmate.net/p/with-un-blessing-the-us-and-israel
     text: '(Photo by Adam Gray/Getty Images) For more than five decades, the US has

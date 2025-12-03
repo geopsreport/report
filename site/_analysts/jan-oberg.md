@@ -7,14 +7,96 @@ description: "Swedish peace researcher and co–founder of Transnational Foundat
 websites:
   - https://transnational.live/
 summary: |
-  As the international community continues to grapple with protracted crises in Ukraine and Gaza, recent analysis by **Jan Oberg** underscores a growing skepticism about the effectiveness and authenticity of current peace initiatives. The prevailing view across Oberg’s latest publications is that conventional diplomatic and military approaches are failing to address the root causes of these conflicts, and that genuine peace will require a fundamental shift in strategy.
+  The global geopolitical landscape is currently marked by escalating challenges to international institutions and peace processes, as highlighted in recent analyses by **Jan Oberg**. The most pressing development is the United Nations’ deepening financial crisis, which **Oberg** attributes to a growing diversion of national resources toward military spending at the expense of multilateral diplomacy and humanitarian work. He warns that “the UN’s ability to fulfill its mandate is being undermined by chronic underfunding,” with delayed contributions from major powers—particularly China—exacerbating the situation.
   
-  On Ukraine, **Oberg** argues that neither existing peace plans nor ongoing military actions are likely to bring about a sustainable resolution. Instead, he emphasizes the necessity of building trust and fostering prosperity through constructive, long-term initiatives. According to Oberg, “true peace in Ukraine cannot be achieved through existing peace plans or military actions, but rather requires a focus on building trust and fostering prosperity through constructive initiatives.” This reflects a broader skepticism about the sincerity of recent US-Russian diplomatic efforts, which Oberg suggests may be more performative than substantive.
+  This funding shortfall, according to **Oberg**, is not simply a budgetary issue but a reflection of shifting global priorities, where military investments are prioritized over peacebuilding and conflict prevention. The implications are severe: as the UN’s operational capacity diminishes, its credibility and effectiveness as a mediator in major conflicts, such as Ukraine and Gaza, are further called into question.
   
-  Turning to the Middle East, the adoption of former President Trump’s “peace” plan for Gaza by the UN Security Council is described by **Oberg** as a “cruel joke,” highlighting what he sees as a troubling lack of genuine conflict resolution expertise at the highest levels of international governance. The plan’s passage is interpreted as a sign that the global system remains ill-equipped to broker meaningful peace in deeply entrenched conflicts.
+  On the Ukraine conflict, **Oberg** maintains that genuine peace remains elusive, noting that “true peace in Ukraine cannot be achieved through existing peace plans or military actions.” He emphasizes the need for trust-building and prosperity-driven initiatives, rather than reliance on externally imposed solutions or superficial diplomatic gestures. This skepticism extends to recent US-Russian diplomatic efforts, which he views as lacking authenticity and unlikely to yield substantive results in the near term.
   
-  Looking ahead, the majority opinion across these analyses is that without a paradigm shift—away from militarized solutions and towards trust-building, economic development, and inclusive dialogue—both the Ukraine and Gaza crises are likely to persist. **Oberg** expresses high confidence that “there is a high chance” current approaches will not yield lasting peace, and that only transformative, grassroots-driven strategies can alter the trajectory. The trend, therefore, points toward continued instability unless international actors embrace more holistic and innovative peacebuilding frameworks.
+  Looking forward, the prevailing trend is a continued erosion of multilateralism and a rise in unilateral, militarized approaches to international crises. **Oberg** predicts with high confidence that unless there is a significant redirection of resources and political will toward strengthening global institutions and fostering genuine dialogue, the world will “most definitely” see further weakening of the UN and increased instability in conflict zones. The prospects for transformative peace initiatives remain limited under current conditions, making renewed commitment to diplomacy and trust-building more urgent than ever.
 articles:
+  - title: 'The UN’s Financing Crisis: Who Pays, Who Doesn’t, and Why China’s Delays
+      Matter'
+    url: https://transnational.live/2025/12/02/the-uns-financing-crisis-who-pays-who-doesnt-and-why-chinas-delays-matter/
+    text: 'The UN is being systematically starved of funds while the money goes to the
+      insatiable military. If this is not short-sighted, irresponsible and shameful,
+      what is? Jan Oberg December 2, 2025 The United Nations is facing one of the gravest
+      financial crises in its history. According to the UN Secretariat, by late 2025,
+      only 145 […] The post The UN’s Financing Crisis: Who Pays, Who Doesn’t, and Why
+      China’s Delays Matter appeared first on The Transnational .'
+    one_sentence_summary: The article highlights the severe financial crisis facing
+      the United Nations due to a lack of funding, as resources are increasingly diverted
+      to military expenditures, raising concerns about the implications of this trend.
+    paragraph_summary: The United Nations is experiencing a severe financial crisis,
+      with funding being significantly reduced while military expenditures continue
+      to rise, raising concerns about the prioritization of resources. As of late 2025,
+      only 145 countries have contributed to the UN's budget, highlighting a troubling
+      trend of underfunding that undermines the organization's capacity to fulfill its
+      mission. The article emphasizes the implications of this funding shortfall and
+      points to China's delays in contributions as a critical factor in the crisis,
+      questioning the short-sightedness and irresponsibility of neglecting the UN in
+      favor of military spending.
+    published: '2025-12-02T14:53:56+00:00'
+  - title: 'The UN’s Financing Crisis: Who Pays, Who Doesn’t, and Why China’s Delays
+      Matter'
+    url: https://transnational.live/2025/12/02/the-uns-financing-crisis-who-pays-who-doesnt-and-why-chinas-delays-matter/
+    text: 'The UN is being systematically starved of funds while the money goes to the
+      insatiable military. If this is not short-sighted, irresponsible and shameful,
+      what is? Jan Oberg December 2, 2025 The United Nations is facing one of the gravest
+      financial crises in its history. According to the UN Secretariat, by late 2025,
+      only 145 […] The post The UN’s Financing Crisis: Who Pays, Who Doesn’t, and Why
+      China’s Delays Matter appeared first on The Transnational .'
+    one_sentence_summary: The article highlights the severe financial crisis facing
+      the United Nations due to a lack of funding, as resources are increasingly diverted
+      to military expenditures, raising concerns about the implications of this trend.
+    paragraph_summary: The United Nations is experiencing a severe financial crisis,
+      with funding being significantly reduced while military expenditures continue
+      to rise, raising concerns about the prioritization of resources. As of late 2025,
+      only 145 countries have contributed to the UN's budget, highlighting a troubling
+      trend of underfunding that undermines the organization's capacity to fulfill its
+      mission. The article emphasizes the implications of this funding shortfall and
+      points to China's delays in contributions as a critical factor in the crisis,
+      questioning the short-sightedness and irresponsibility of neglecting the UN in
+      favor of military spending.
+    published: '2025-12-02T14:53:56+00:00'
+  - title: 50 years in peace and conflict research
+    url: https://transnational.live/2025/11/28/50-years-in-peace-and-conflict-research/
+    text: 'Jan Oberg November 28, 2025 It is hardly of any importance to the world,
+      but it is to me as a peace scholar, TFF co-founder and director: On September
+      1, 2025, it was 50 years since I got my first article published in what was the
+      flagship of peace and conflict research, The Journal of […] The post 50 years
+      in peace and conflict research appeared first on The Transnational .'
+    one_sentence_summary: Jan Oberg reflects on his 50-year journey in peace and conflict
+      research, marking the anniversary of his first published article in a leading
+      journal in the field.
+    paragraph_summary: In a reflective piece marking the 50th anniversary of his first
+      article published in a prominent peace and conflict research journal, Jan Oberg,
+      co-founder and director of the Transnational Foundation for Peace and Future Research,
+      shares his personal journey and contributions to the field. He emphasizes the
+      significance of this milestone in his career as a peace scholar, despite its limited
+      impact on the broader world. Oberg's reflections highlight the evolution of peace
+      research over the decades and his commitment to advancing understanding and solutions
+      in this critical area.
+    published: '2025-11-28T13:01:05+00:00'
+  - title: 50 years in peace and conflict research
+    url: https://transnational.live/2025/11/28/50-years-in-peace-and-conflict-research/
+    text: 'Jan Oberg November 28, 2025 It is hardly of any importance to the world,
+      but it is to me as a peace scholar, TFF co-founder and director: On September
+      1, 2025, it was 50 years since I got my first article published in what was the
+      flagship of peace and conflict research, The Journal of […] The post 50 years
+      in peace and conflict research appeared first on The Transnational .'
+    one_sentence_summary: Jan Oberg reflects on his 50-year journey in peace and conflict
+      research, marking the anniversary of his first published article in a leading
+      journal in the field.
+    paragraph_summary: In a reflective piece marking the 50th anniversary of his first
+      article published in a prominent peace and conflict research journal, Jan Oberg,
+      co-founder and director of the Transnational Foundation for Peace and Future Research,
+      shares his personal journey and contributions to the field. He emphasizes the
+      significance of this milestone in his career as a peace scholar, despite its limited
+      impact on the broader world. Oberg's reflections highlight the evolution of peace
+      research over the decades and his commitment to advancing understanding and solutions
+      in this critical area.
+    published: '2025-11-28T13:01:05+00:00'
   - title: 'TFF Portfolio for true peace in Ukraine: UNITE trust, DREAM prosperity and
       other constructive components.'
     url: https://transnational.live/2025/11/23/portfolio-for-true-peace-in-ukraine-unite-trust-dream-prosperity-and-other-constructive-components/

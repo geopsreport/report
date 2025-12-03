@@ -7,14 +7,1850 @@ description: "Former CIA analyst & State Dept counterterrorism official; runs So
 websites:
   - https://sonar21.com
 summary: |
-  The ongoing Ukraine conflict remains at the center of diplomatic maneuvering, with the latest developments highlighting persistent divisions among Western stakeholders and skepticism from Russia. Over the past 48 hours, negotiations involving the US, Ukraine, and European partners have reportedly reached consensus on 19 out of 28 points in a proposed framework to be presented to Russia. However, **Larry C. Johnson** notes that “confusion over the plan’s authorship and its substantive effectiveness has led to skepticism about its viability,” with European actors in particular casting doubt on the framework’s prospects.
+  As the war in Ukraine enters another critical phase, diplomatic activity has intensified. The most significant recent development is the high-profile meeting in Moscow between U.S. President Trump’s special envoy Steve Witkoff, accompanied by Jared Kushner, and Russian President Vladimir Putin. According to **Larry C. Johnson**, the talks centered on a revised peace proposal, with particular focus on a potential ceasefire, territorial concessions, and security guarantees. This marks a notable escalation in U.S. engagement, following Putin’s earlier acknowledgment of Trump’s 28-point plan as a possible negotiation baseline—albeit one requiring substantial Ukrainian concessions.
   
-  This skepticism is rooted in historical precedent. As **Johnson** reminds readers, the Minsk agreements of 2014-2015 were ultimately revealed by German and French leaders to be a strategy to buy time for Ukraine to strengthen its military, rather than a genuine effort to end hostilities. This legacy has left Moscow wary of Western-brokered proposals, and Johnson asserts that Russia “will not make the same mistake it did with Minsk II.” The Russian side remains confident in its military position and is unlikely to accept any deal perceived as a repeat of past deceptions.
+  The backdrop to these negotiations is Russia’s continued military and economic pressure on Ukraine. **Larry C. Johnson** emphasizes that Western analysts have underestimated both the pace of Russian advances—highlighting the capture of 86 villages and towns since September—and the extent of economic damage inflicted, especially in the eastern regions along the Dnieper River. This dual-pronged strategy has left Ukraine in a weakened bargaining position, while also challenging the West’s assumptions about Russia’s economic resilience.
   
-  Meanwhile, the broader geopolitical context is shifting. The resilience and influence of BRICS continues to grow, with the organization increasingly seen as a counterweight to Western economic and political dominance. **Johnson** highlights how Western media have been dismissive of BRICS, but the bloc’s expanding role is “shifting the global economic and geopolitical balance towards the Global South.”
+  Meanwhile, the European Union’s stance remains hardline, with figures like Kaja Kallas insisting on the existential threat posed by Russia and advocating for increased defense spending. However, **Johnson** notes that Europe’s global influence is waning, as emerging powers like China and Russia reshape the international order, leaving Europe more dependent and less capable of shaping outcomes.
   
-  Looking ahead, the majority view across sources is that the current US/European peace initiative for Ukraine is unlikely to succeed in its present form. There is high confidence that Russia will reject any proposal reminiscent of the Minsk framework, and that the conflict will persist absent a fundamentally new approach. As for the global order, the rise of BRICS is quite likely to continue, further complicating Western efforts to isolate Russia and shape outcomes in Ukraine.
+  Looking ahead, the trend is toward intensified diplomatic maneuvering, but with Russia holding most of the leverage. The U.S. push for a ceasefire and peace framework is likely to continue, but as **Larry C. Johnson** assesses, “there is a high chance” that any agreement will be on terms largely favorable to Moscow, given the current realities on the ground. I guarantee that unless there is a dramatic shift in military dynamics or Western policy, Russia’s negotiating position will only strengthen in the coming weeks.
 articles:
+  - title: Negotiating in Moscow on the Negotiations
+    url: https://sonar21.com/negotiating-in-moscow-on-the-negotiations/
+    text: 'U.S. President Donald Trump’s special envoy, Steve Witkoff and Trump’s son-in-law,
+      Jared Kushner met with Russian President Vladimir Putin at the Kremlin in Moscow.
+      The approximately five-hour session focused on a revised U.S. peace proposal aimed
+      at ending Russia’s nearly four-year war in Ukraine. This marked Witkoff’s sixth
+      meeting with Putin in 2025 and Kushner’s first in-person involvement in these
+      talks. The U.S. delegation arrived directly from recent negotiations with Ukrainian
+      officials in Miami and Paris, where the peace plan was refined from 28 to 19 points.
+      The media is reporting that the core agenda was the updated U.S. peace framework,
+      which emphasizes: A potential ceasefire and de facto border recognition, possibly
+      involving Ukrainian concessions in the Donbas region to meet Russia’s territorial
+      demands. Security guarantees for Ukraine, coordinated with European allies like
+      France. Broader steps for implementation, including front-line adjustments and
+      restrictions on Ukraine’s military capabilities. Putin reportedly agreed with
+      some elements of the proposal but reiterated Russia’s non-negotiable positions,
+      including full control over annexed territories and limits on NATO expansion.
+      The U.S. side pushed for Putin to soften these demands in exchange for ending
+      hostilities, but no new wording or provisions were finalized. Kremlin aide Yuri
+      Ushakov described the talks as “useful” and noted productive exchanges on substantive
+      issues, but emphasized that “no compromise plan has been found yet” and “a lot
+      of work remains.” Russian state media and envoy Dmitriev called the session “productive,”
+      but there were no agreements on specific concessions, a ceasefire timeline, or
+      a follow-up summit between Putin and Trump (potentially slated for April–June
+      2026). But what was the real purpose of this meeting? Speaking to reporters in
+      Bishkek, in the Central Asian republic of Kyrgyzstan last Thursday, Putin explained
+      how negotiations would be handled. During that press conference, Putin said that
+      Foreign Minister Sergey Lavrov is responsible for handling contacts and negotiations
+      on possible terms to end the war in Ukraine, and that he relies on Lavrov’s reports
+      from these talks while avoiding public discussion of specific proposals. In his
+      latest comments around US–Russia contacts on Ukraine, Putin indicated that the
+      negotiation process is being conducted through professional channels, explicitly
+      pointing to Lavrov and the Foreign Ministry as those leading the work on possible
+      peace arrangements. He stressed that he is regularly briefed by Lavrov on these
+      discussions, including on US-drafted peace ideas that Moscow says draw heavily
+      on earlier Russian proposals. While Putin was meeting with Witkoff and Kushner,
+      Sergei Lavrov held warm bilateral talks with China’s Foreign Minister Wang Yi.
+      Lavrov’s absence from the Witkoff/Kushner meeting was a clear signal from Russia
+      that the foundation for actual negotiations was still not in place. Putin’s goal
+      was to explain — politely and firmly — what Russia’s fundamental positions are
+      with respect to settling the war in Ukraine. I am certain that he presented, again,
+      the same points he laid out on June 14, 2024. The ball is now in Donald Trump’s
+      court. Witkoff and Kushner, after speaking on Wednesday with Zelensky in Ireland,
+      will return to Washington and explain to President Trump Putin’s firm conditions
+      that must be agreed to before the actual negotiations — with Lavrov and Rubio
+      sitting down, accompanied by their respective delegations — can begin. This meeting
+      is not the beginning of the end … rather, I think it marks the end of the beginning
+      . It is up to President Trump to agree to Russia’s terms and dispatch Secretary
+      of State Marco Rubio to make the deal with Lavrov. I had two very enjoyable chats
+      today. The first was with Rachel Blevins, and the second with a friend, John Polomny.
+      John Polomny is a contrarian resource and macro investor who runs the research
+      platform and newsletter Actionable Intelligence Alert , focused on value-oriented,
+      long-term opportunities in energy and commodity markets such as oil, uranium,
+      and precious metals. He previously spent decades working in the power industry,
+      building and operating power plants, and now produces investment commentary via
+      newsletters, podcasts, and YouTube , emphasizing cyclical resource markets, pattern
+      recognition, and disciplined, cash-flow-focused investing: I thank you for your
+      invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: U.S. President Trump's special envoy Steve Witkoff and son-in-law
+      Jared Kushner met with Russian President Vladimir Putin in Moscow to discuss a
+      revised peace proposal aimed at ending the war in Ukraine, focusing on a potential
+      ceasefire, territorial concessions, and security guarantees.
+    paragraph_summary: U.S. President Donald Trump's special envoy, Steve Witkoff, and
+      Trump’s son-in-law, Jared Kushner, held a five-hour meeting with Russian President
+      Vladimir Putin in Moscow to discuss a revised U.S. peace proposal aimed at resolving
+      the ongoing war in Ukraine. This meeting, which was Witkoff's sixth with Putin
+      and Kushner's first, followed negotiations with Ukrainian officials in Miami and
+      Paris, where the peace plan was condensed from 28 to 19 points. Key elements of
+      the proposal included a potential ceasefire, de facto border recognition with
+      possible Ukrainian concessions in the Donbas region, and security guarantees for
+      Ukraine in coordination with European allies. While Putin acknowledged some aspects
+      of the proposal, he maintained Russia's firm positions on territorial control
+      and NATO expansion, leading to no finalized agreements or compromises. Despite
+      the lack of concrete outcomes, both sides described the discussions as "useful,"
+      indicating that further negotiations are necessary.
+    published: '2025-12-03T02:52:31+00:00'
+  - title: Negotiating in Moscow on the Negotiations
+    url: https://sonar21.com/negotiating-in-moscow-on-the-negotiations/
+    text: 'U.S. President Donald Trump’s special envoy, Steve Witkoff and Trump’s son-in-law,
+      Jared Kushner met with Russian President Vladimir Putin at the Kremlin in Moscow.
+      The approximately five-hour session focused on a revised U.S. peace proposal aimed
+      at ending Russia’s nearly four-year war in Ukraine. This marked Witkoff’s sixth
+      meeting with Putin in 2025 and Kushner’s first in-person involvement in these
+      talks. The U.S. delegation arrived directly from recent negotiations with Ukrainian
+      officials in Miami and Paris, where the peace plan was refined from 28 to 19 points.
+      The media is reporting that the core agenda was the updated U.S. peace framework,
+      which emphasizes: A potential ceasefire and de facto border recognition, possibly
+      involving Ukrainian concessions in the Donbas region to meet Russia’s territorial
+      demands. Security guarantees for Ukraine, coordinated with European allies like
+      France. Broader steps for implementation, including front-line adjustments and
+      restrictions on Ukraine’s military capabilities. Putin reportedly agreed with
+      some elements of the proposal but reiterated Russia’s non-negotiable positions,
+      including full control over annexed territories and limits on NATO expansion.
+      The U.S. side pushed for Putin to soften these demands in exchange for ending
+      hostilities, but no new wording or provisions were finalized. Kremlin aide Yuri
+      Ushakov described the talks as “useful” and noted productive exchanges on substantive
+      issues, but emphasized that “no compromise plan has been found yet” and “a lot
+      of work remains.” Russian state media and envoy Dmitriev called the session “productive,”
+      but there were no agreements on specific concessions, a ceasefire timeline, or
+      a follow-up summit between Putin and Trump (potentially slated for April–June
+      2026). But what was the real purpose of this meeting? Speaking to reporters in
+      Bishkek, in the Central Asian republic of Kyrgyzstan last Thursday, Putin explained
+      how negotiations would be handled. During that press conference, Putin said that
+      Foreign Minister Sergey Lavrov is responsible for handling contacts and negotiations
+      on possible terms to end the war in Ukraine, and that he relies on Lavrov’s reports
+      from these talks while avoiding public discussion of specific proposals. In his
+      latest comments around US–Russia contacts on Ukraine, Putin indicated that the
+      negotiation process is being conducted through professional channels, explicitly
+      pointing to Lavrov and the Foreign Ministry as those leading the work on possible
+      peace arrangements. He stressed that he is regularly briefed by Lavrov on these
+      discussions, including on US-drafted peace ideas that Moscow says draw heavily
+      on earlier Russian proposals. While Putin was meeting with Witkoff and Kushner,
+      Sergei Lavrov held warm bilateral talks with China’s Foreign Minister Wang Yi.
+      Lavrov’s absence from the Witkoff/Kushner meeting was a clear signal from Russia
+      that the foundation for actual negotiations was still not in place. Putin’s goal
+      was to explain — politely and firmly — what Russia’s fundamental positions are
+      with respect to settling the war in Ukraine. I am certain that he presented, again,
+      the same points he laid out on June 14, 2024. The ball is now in Donald Trump’s
+      court. Witkoff and Kushner, after speaking on Wednesday with Zelensky in Ireland,
+      will return to Washington and explain to President Trump Putin’s firm conditions
+      that must be agreed to before the actual negotiations — with Lavrov and Rubio
+      sitting down, accompanied by their respective delegations — can begin. This meeting
+      is not the beginning of the end … rather, I think it marks the end of the beginning
+      . It is up to President Trump to agree to Russia’s terms and dispatch Secretary
+      of State Marco Rubio to make the deal with Lavrov. I had two very enjoyable chats
+      today. The first was with Rachel Blevins, and the second with a friend, John Polomny.
+      John Polomny is a contrarian resource and macro investor who runs the research
+      platform and newsletter Actionable Intelligence Alert , focused on value-oriented,
+      long-term opportunities in energy and commodity markets such as oil, uranium,
+      and precious metals. He previously spent decades working in the power industry,
+      building and operating power plants, and now produces investment commentary via
+      newsletters, podcasts, and YouTube , emphasizing cyclical resource markets, pattern
+      recognition, and disciplined, cash-flow-focused investing: I thank you for your
+      invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: U.S. President Trump's special envoy Steve Witkoff and son-in-law
+      Jared Kushner met with Russian President Vladimir Putin in Moscow to discuss a
+      revised peace proposal aimed at ending the war in Ukraine, focusing on a potential
+      ceasefire, territorial concessions, and security guarantees.
+    paragraph_summary: U.S. President Donald Trump's special envoy, Steve Witkoff, and
+      Trump’s son-in-law, Jared Kushner, held a five-hour meeting with Russian President
+      Vladimir Putin in Moscow to discuss a revised U.S. peace proposal aimed at resolving
+      the ongoing war in Ukraine. This meeting, which was Witkoff's sixth with Putin
+      and Kushner's first, followed negotiations with Ukrainian officials in Miami and
+      Paris, where the peace plan was condensed from 28 to 19 points. Key elements of
+      the proposal included a potential ceasefire, de facto border recognition with
+      possible Ukrainian concessions in the Donbas region, and security guarantees for
+      Ukraine in coordination with European allies. While Putin acknowledged some aspects
+      of the proposal, he maintained Russia's firm positions on territorial control
+      and NATO expansion, leading to no finalized agreements or compromises. Despite
+      the lack of concrete outcomes, both sides described the discussions as "useful,"
+      indicating that further negotiations are necessary.
+    published: '2025-12-03T02:52:31+00:00'
+  - title: In the Russia/Ukraine War, Economic Power is Just as Important as Military
+      Power
+    url: https://sonar21.com/in-the-russia-ukraine-war-economic-power-is-just-as-important-as-military-power/
+    text: 'Barges on the Dnieper River As pressure mounts in the West to bring an end
+      to the war in Ukraine, most of the pro-Ukrainian military analysts in the West
+      do not grasp the simple, yet profound, observation by Clausewitz in his book,
+      On War : No one starts a war — or rather, no one in his senses ought to do so
+      — without first being clear in his mind what he intends to achieve by that war
+      and how he intends to conduct it. … The political object and the means available
+      (including economic means) must be in proportion. In short, the Russians understood
+      this principle and the West did not. Washington, along with the NATO allies, believed
+      they could cripple Russia’s economy and thereby defeat the Russians. Yet, little
+      attention has been paid to the economic damage that Russia has inflicted on Ukraine.
+      Most of the fighting since February 2022 has occurred on Ukrainian territory east
+      of the Dnieper River. The Dnieper is Ukraine’s primary inland waterway and historically
+      one of the country’s most important economic arteries. Before the full-scale Russian
+      invasion in 2022, it accounted for a significant share of bulk freight transport
+      and supported key export industries (grain, iron ore, steel, coal). The war and
+      the 2023 destruction of the Kakhovka Dam has dramatically reduced its contribution
+      to Ukraine’s economy. The following chart illustrates the financial damage to
+      Ukraine’s economy as a result of the fighting that has taken place along the Dnieper
+      River: According to Gross Regional Product (GRP) figures from Ukraine’s State
+      Statistics Service, converted to EUR for consistency (total national GDP: €205.7
+      billion), Eastern regions contributed disproportionately to heavy industry (~40–50%
+      of Ukraine’s metallurgy output) and grain (~30–40%), but their share of overall
+      GDP was moderated by war disruptions and concentration in the west/center (e.g.,
+      Kyiv at 27%). Post-2022 occupation has further eroded this, with ~18–20% of national
+      territory (mostly east) now under Russian control, amplifying economic losses.
+      Ukraine’s grain production (primarily wheat, corn, and barley) is geographically
+      uneven, with the Dnieper River serving as a rough divide: the western bank (including
+      central regions like Poltava and Chernihiv) dominates corn output, while the eastern/southern
+      bank (e.g., Kharkiv, Dnipro, Zaporizhzhia) is more significant for wheat and barley.
+      Based on pre-war data from the USDA (2010s–2021 averages), approximately 30–40%
+      of Ukraine’s total grain production originates from lands east of the Dnieper.
+      Ukraine’s debt-to-GDP ratio since the start of the Special Military Operation
+      (SMO) has worsened dramatically… Ukraine’s public debt-to-GDP ratio has surged
+      since 2021 due to the full-scale Russian invasion, which began in February 2022.
+      Pre-war, the ratio was stable and declining as part of post-2014 recovery efforts.
+      The war triggered massive defense spending (over 25% of GDP annually), revenue
+      shortfalls from disrupted trade and occupation of ~20% of territory, and reliance
+      on international aid and borrowing. This has more than doubled the ratio, pushing
+      it toward unsustainable levels (projected over 100% by year-end 2025). Data primarily
+      draws from IMF, OECD, and World Bank sources, with some variance due to GDP estimation
+      challenges amid conflict (e.g., nominal GDP fell ~30% in 2022 before partial recovery).
+      The ratio has roughly doubled (from 48.9% to ~100%), reflecting a shift from fiscal
+      consolidation to war financing. Pre-2022, Ukraine aimed for <50% under IMF programs;
+      now, it’s comparable to high-debt peers like Argentina (~90%) but with war as
+      the accelerator. Sharp 2022 spike due to GDP collapse; gradual rises since from
+      borrowing (external debt ~80% of total). 2024 restructuring deferred payments,
+      but 2025 marks a “tipping point” with debt service exceeding pensions (~15% of
+      budget). If the war continues on the current trajectory, 2026 looks bleak… the
+      debt-to-GDP ratio is expected to soar to 132%+ by 2026. Russia, by sharp contrast,
+      has benefited from the war… With a debt-to-GDP ratio of 19%, Russia has been able
+      to mobilize its defense industry and produce a variety of cutting-edge weapons,
+      including ample supplies of ammunition and drones, without becoming indebted.
+      Russia’s 2024 growth rate of plus4% did ignited double digit inflation, but Russia,
+      as a result of fiscal austerity measures, has reduced inflation in 2025, which
+      as reduced to the output of the economy to 1%. But that has not stymied Russia’s
+      ability to produce what it needs to expand military operations, as is evidenced
+      by Russia’s dramatic advances in Ukraine since September. This is the critical
+      point that Donald Trump and his national security team fail to grasp… Ukraine
+      not only lacks trained manpower and is faced with unsustainable losses in personnel,
+      but its economy is crumbling and beyond the point of recovery, which means it
+      will be more dependent on the West to finance Ukrainian government operations
+      as well as the military campaign. Yet, the West is struggling economically on
+      all fronts as well, and is not capable of providing the financing required to
+      keep Ukraine afloat. Compounding matters is the growing focus on the vast corruption
+      in Ukraine, with at least $50 billion of the $360 billion dollars in Western aid
+      since 2022 having disappeared into the pockets of the Zelensky government. While
+      I believe that this war will end on the battlefield and not by diplomacy, I also
+      recall that Clausewitz noted that many wars in history ended not with a decisive
+      battle but when one side simply ran out of money (e.g., the Seven Years’ War for
+      France). Given current trends, Ukraine is running out of money, and so are its
+      Western benefactors. Here are the videos of my regularly scheduled Monday conversations
+      with Nima and with Judge Napolitano: I thank you for your invaluable support by
+      taking time to read or comment. I do not charge a subscription fee nor do I accept
+      advertising. I want the content to be accessible to everyone interested in the
+      issues I am discussing. However, if you wish to make a donation, please see this
+      link .'
+    one_sentence_summary: The article argues that while the West, particularly Washington
+      and NATO, underestimated Russia's strategic objectives and economic resilience
+      in the Ukraine war, they failed to recognize the significant economic damage Russia
+      has inflicted on Ukraine, particularly in the eastern regions along the Dnieper
+      River.
+    paragraph_summary: The article discusses the ongoing war in Ukraine, emphasizing
+      a critical misunderstanding among Western analysts regarding the strategic objectives
+      of Russia compared to their own. It highlights the importance of understanding
+      the economic implications of the conflict, particularly focusing on the Dnieper
+      River, which has historically been vital for Ukraine's economy due to its role
+      in bulk freight transport and key export industries like grain and metallurgy.
+      The war, especially following the destruction of the Kakhovka Dam, has severely
+      impacted Ukraine's economic output, particularly in the eastern regions that contribute
+      significantly to the country's industrial and agricultural sectors. The analysis
+      suggests that while the West aimed to weaken Russia economically, it has overlooked
+      the substantial economic damage inflicted on Ukraine itself, exacerbated by territorial
+      losses to Russian occupation.
+    published: '2025-12-02T06:44:09+00:00'
+  - title: In the Russia/Ukraine War, Economic Power is Just as Important as Military
+      Power
+    url: https://sonar21.com/in-the-russia-ukraine-war-economic-power-is-just-as-important-as-military-power/
+    text: 'Barges on the Dnieper River As pressure mounts in the West to bring an end
+      to the war in Ukraine, most of the pro-Ukrainian military analysts in the West
+      do not grasp the simple, yet profound, observation by Clausewitz in his book,
+      On War : No one starts a war — or rather, no one in his senses ought to do so
+      — without first being clear in his mind what he intends to achieve by that war
+      and how he intends to conduct it. … The political object and the means available
+      (including economic means) must be in proportion. In short, the Russians understood
+      this principle and the West did not. Washington, along with the NATO allies, believed
+      they could cripple Russia’s economy and thereby defeat the Russians. Yet, little
+      attention has been paid to the economic damage that Russia has inflicted on Ukraine.
+      Most of the fighting since February 2022 has occurred on Ukrainian territory east
+      of the Dnieper River. The Dnieper is Ukraine’s primary inland waterway and historically
+      one of the country’s most important economic arteries. Before the full-scale Russian
+      invasion in 2022, it accounted for a significant share of bulk freight transport
+      and supported key export industries (grain, iron ore, steel, coal). The war and
+      the 2023 destruction of the Kakhovka Dam has dramatically reduced its contribution
+      to Ukraine’s economy. The following chart illustrates the financial damage to
+      Ukraine’s economy as a result of the fighting that has taken place along the Dnieper
+      River: According to Gross Regional Product (GRP) figures from Ukraine’s State
+      Statistics Service, converted to EUR for consistency (total national GDP: €205.7
+      billion), Eastern regions contributed disproportionately to heavy industry (~40–50%
+      of Ukraine’s metallurgy output) and grain (~30–40%), but their share of overall
+      GDP was moderated by war disruptions and concentration in the west/center (e.g.,
+      Kyiv at 27%). Post-2022 occupation has further eroded this, with ~18–20% of national
+      territory (mostly east) now under Russian control, amplifying economic losses.
+      Ukraine’s grain production (primarily wheat, corn, and barley) is geographically
+      uneven, with the Dnieper River serving as a rough divide: the western bank (including
+      central regions like Poltava and Chernihiv) dominates corn output, while the eastern/southern
+      bank (e.g., Kharkiv, Dnipro, Zaporizhzhia) is more significant for wheat and barley.
+      Based on pre-war data from the USDA (2010s–2021 averages), approximately 30–40%
+      of Ukraine’s total grain production originates from lands east of the Dnieper.
+      Ukraine’s debt-to-GDP ratio since the start of the Special Military Operation
+      (SMO) has worsened dramatically… Ukraine’s public debt-to-GDP ratio has surged
+      since 2021 due to the full-scale Russian invasion, which began in February 2022.
+      Pre-war, the ratio was stable and declining as part of post-2014 recovery efforts.
+      The war triggered massive defense spending (over 25% of GDP annually), revenue
+      shortfalls from disrupted trade and occupation of ~20% of territory, and reliance
+      on international aid and borrowing. This has more than doubled the ratio, pushing
+      it toward unsustainable levels (projected over 100% by year-end 2025). Data primarily
+      draws from IMF, OECD, and World Bank sources, with some variance due to GDP estimation
+      challenges amid conflict (e.g., nominal GDP fell ~30% in 2022 before partial recovery).
+      The ratio has roughly doubled (from 48.9% to ~100%), reflecting a shift from fiscal
+      consolidation to war financing. Pre-2022, Ukraine aimed for <50% under IMF programs;
+      now, it’s comparable to high-debt peers like Argentina (~90%) but with war as
+      the accelerator. Sharp 2022 spike due to GDP collapse; gradual rises since from
+      borrowing (external debt ~80% of total). 2024 restructuring deferred payments,
+      but 2025 marks a “tipping point” with debt service exceeding pensions (~15% of
+      budget). If the war continues on the current trajectory, 2026 looks bleak… the
+      debt-to-GDP ratio is expected to soar to 132%+ by 2026. Russia, by sharp contrast,
+      has benefited from the war… With a debt-to-GDP ratio of 19%, Russia has been able
+      to mobilize its defense industry and produce a variety of cutting-edge weapons,
+      including ample supplies of ammunition and drones, without becoming indebted.
+      Russia’s 2024 growth rate of plus4% did ignited double digit inflation, but Russia,
+      as a result of fiscal austerity measures, has reduced inflation in 2025, which
+      as reduced to the output of the economy to 1%. But that has not stymied Russia’s
+      ability to produce what it needs to expand military operations, as is evidenced
+      by Russia’s dramatic advances in Ukraine since September. This is the critical
+      point that Donald Trump and his national security team fail to grasp… Ukraine
+      not only lacks trained manpower and is faced with unsustainable losses in personnel,
+      but its economy is crumbling and beyond the point of recovery, which means it
+      will be more dependent on the West to finance Ukrainian government operations
+      as well as the military campaign. Yet, the West is struggling economically on
+      all fronts as well, and is not capable of providing the financing required to
+      keep Ukraine afloat. Compounding matters is the growing focus on the vast corruption
+      in Ukraine, with at least $50 billion of the $360 billion dollars in Western aid
+      since 2022 having disappeared into the pockets of the Zelensky government. While
+      I believe that this war will end on the battlefield and not by diplomacy, I also
+      recall that Clausewitz noted that many wars in history ended not with a decisive
+      battle but when one side simply ran out of money (e.g., the Seven Years’ War for
+      France). Given current trends, Ukraine is running out of money, and so are its
+      Western benefactors. Here are the videos of my regularly scheduled Monday conversations
+      with Nima and with Judge Napolitano: I thank you for your invaluable support by
+      taking time to read or comment. I do not charge a subscription fee nor do I accept
+      advertising. I want the content to be accessible to everyone interested in the
+      issues I am discussing. However, if you wish to make a donation, please see this
+      link .'
+    one_sentence_summary: The article argues that while the West, particularly Washington
+      and NATO, underestimated Russia's strategic objectives and economic resilience
+      in the Ukraine war, they failed to recognize the significant economic damage Russia
+      has inflicted on Ukraine, particularly in the eastern regions along the Dnieper
+      River.
+    paragraph_summary: The article discusses the ongoing war in Ukraine, emphasizing
+      a critical misunderstanding among Western analysts regarding the strategic objectives
+      of Russia compared to their own. It highlights the importance of understanding
+      the economic implications of the conflict, particularly focusing on the Dnieper
+      River, which has historically been vital for Ukraine's economy due to its role
+      in bulk freight transport and key export industries like grain and metallurgy.
+      The war, especially following the destruction of the Kakhovka Dam, has severely
+      impacted Ukraine's economic output, particularly in the eastern regions that contribute
+      significantly to the country's industrial and agricultural sectors. The analysis
+      suggests that while the West aimed to weaken Russia economically, it has overlooked
+      the substantial economic damage inflicted on Ukraine itself, exacerbated by territorial
+      losses to Russian occupation.
+    published: '2025-12-02T06:44:09+00:00'
+  - title: Russia is Moving Much Faster than US Military Experts Claim… Who Could Have
+      Predicted That?
+    url: https://sonar21.com/russia-is-moving-much-faster-than-us-military-experts-claim-who-could-have-predicted-that/
+    text: '31 March 2022 Map of Ukraine If a picture is worth a thousand words, then
+      a video is worth Leo Tolstoy’s book, War and Peace , which has over 580,000 words.
+      It is posted below… The video shows 86 villages and towns that Russia has captured
+      since September 2025. This video illustrates why the retired US military officers
+      who appear on mainstream media to analyze the war in Ukraine are a bunch of clowns.
+      During 2025, several retired and active duty US military leaders have publicly
+      claimed that Russian gains are incremental, costly, and not indicative of a decisive
+      breakthrough. These views align with analyses from think tanks like the Institute
+      for the Study of War (ISW) , which describe Russian offensives as “grinding” and
+      “foot-pace” with high casualties relative to territorial gains. Below is a list
+      of notable figures who have made such statements in interviews, op-eds, or public
+      forums this year. I’ve focused on direct quotes or paraphrases from verified 2025
+      sources: General Ben Hodges (former U.S. Army Europe commander): In May 2025 remarks,
+      he described a phase where “neither side can knock out the other,” highlighting
+      Russia’s underperformance, failure to achieve air superiority, and high costs
+      without decisive gains. General Mark Hertling (Retired US Army Lieutenant General;
+      former Commander, US Army Europe and Seventh Army): Russia’s advances are not
+      like Pearl Harbor… an inflection point is coming due to failing Russian war economy
+      and lack of leadership adaptation.” In June 2025, he highlighted Russia’s “creeping
+      foot pace” around Kharkiv and Donetsk, estimating that at current rates (e.g.,
+      4.4 years for full oblast capture per UK MoD data), offensives are effectively
+      stalled against Ukrainian innovations like drones. In February 2023, Hertling
+      also predicted that Russia’s offensive was “doomed to fail,” stating that an “unprepared
+      army” with “untrained forces,” “inadequate equipment,” “poor leadership,” and
+      no clear objectives is “destined for failure,” making troops “cannon fodder” unfit
+      for any offensive. Admiral James Stavridis (Retired US Navy Admiral; former Supreme
+      Allied Commander Europe (NATO): Russia has advantages, but not total dominance…
+      any ‘success’ will come at a high cost.” In March 2025, he assessed that Russian
+      forces’ “small advances” in Donetsk (e.g., near Avdiivka remnants) are unsustainable
+      long-term, allowing Ukraine to “sustain resistance indefinitely” with European
+      aid, as Moscow’s manpower and logistics strain prevents broader offensives. General
+      Jack Keane (former Army Vice Chief of Staff): On 25 October 2025, Keane said,
+      “Russia has completely stalled in their military advances over the past year and
+      sustained massive casualties.” In November 2025, Keane said that, “We’re far from
+      this war ending. Russia hasn’t changed its goals… but [advances are] not possible
+      to defeat Ukraine.” General David Petraeus (Retired US Army General; former CIA
+      Director and CENTCOM Commander): In August 2025, Petraeus co-authored a piece
+      with Frederick Kagan that assessed Russia’s “slow, grinding pace” in eastern Ukraine
+      as a result of degraded ground forces and overreliance on attrition tactics. He
+      noted that despite small gains near Pokrovsk, Russia’s “decreasing quality” (e.g.,
+      high losses in elite units) prevents breakthroughs, projecting no major territorial
+      shifts before 2026 without adaptation. General Christopher Cavoli [Active US Army
+      General (not retired as of Nov 2025); Supreme Allied Commander Europe (NATO)]:
+      In a Senate hearing (shared on X), Cavoli stated Russia’s ground forces have “decreasing
+      quality” overall, with “isolated areas of strength” but no broad momentum. He
+      described 2025 advances as “not like Pearl Harbor,” emphasizing slow progress
+      due to unanticipated high losses (far exceeding 2022 estimates) and Ukraine’s
+      innovations in drones and defenses. Unnamed Retired General (quoted without attribution
+      in August 2025 Washington Post column by David Ignatius): “Russia’s incremental
+      battlefield advances so far in 2025 would take approximately 4.4 more years to
+      gain 100% of the four Ukrainian oblasts’ territory” at current rates, per UK MoD
+      data. This underscores stalled momentum, with gains offset by 1,000+ daily casualties
+      and no encirclements. I particularly enjoy General Petraeus’ bold prediction that
+      there would be no major territorial shifts before 2026… Whoops! In light of the
+      developments since September, David Ignatius may want to update his pathetic analysis
+      that reflects the hopium of the CIA and the Pentagon. I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: The article critiques retired US military officers and think
+      tanks for downplaying the significance of Russian territorial gains in Ukraine,
+      highlighting a video that showcases 86 villages and towns captured by Russia since
+      September 2025, contradicting claims of incremental and costly advances.
+    paragraph_summary: The article discusses a video that showcases the 86 villages
+      and towns captured by Russia since September 2025, contrasting this visual evidence
+      with the assessments of retired US military officers who claim that Russian territorial
+      gains are minimal and costly. It criticizes these military analysts for downplaying
+      the significance of Russia's advances, which they describe as slow and ineffective,
+      with high casualties and a lack of decisive breakthroughs. Notable figures like
+      General Ben Hodges and General Mark Hertling express skepticism about Russia's
+      military performance, highlighting issues such as poor leadership, inadequate
+      resources, and the impact of Ukrainian innovations like drones. The article suggests
+      that the current Russian offensive is unlikely to succeed, emphasizing the disconnect
+      between the reality on the ground and the narratives presented by some military
+      commentators.
+    published: '2025-12-01T02:14:01+00:00'
+  - title: Russia is Moving Much Faster than US Military Experts Claim… Who Could Have
+      Predicted That?
+    url: https://sonar21.com/russia-is-moving-much-faster-than-us-military-experts-claim-who-could-have-predicted-that/
+    text: '31 March 2022 Map of Ukraine If a picture is worth a thousand words, then
+      a video is worth Leo Tolstoy’s book, War and Peace , which has over 580,000 words.
+      It is posted below… The video shows 86 villages and towns that Russia has captured
+      since September 2025. This video illustrates why the retired US military officers
+      who appear on mainstream media to analyze the war in Ukraine are a bunch of clowns.
+      During 2025, several retired and active duty US military leaders have publicly
+      claimed that Russian gains are incremental, costly, and not indicative of a decisive
+      breakthrough. These views align with analyses from think tanks like the Institute
+      for the Study of War (ISW) , which describe Russian offensives as “grinding” and
+      “foot-pace” with high casualties relative to territorial gains. Below is a list
+      of notable figures who have made such statements in interviews, op-eds, or public
+      forums this year. I’ve focused on direct quotes or paraphrases from verified 2025
+      sources: General Ben Hodges (former U.S. Army Europe commander): In May 2025 remarks,
+      he described a phase where “neither side can knock out the other,” highlighting
+      Russia’s underperformance, failure to achieve air superiority, and high costs
+      without decisive gains. General Mark Hertling (Retired US Army Lieutenant General;
+      former Commander, US Army Europe and Seventh Army): Russia’s advances are not
+      like Pearl Harbor… an inflection point is coming due to failing Russian war economy
+      and lack of leadership adaptation.” In June 2025, he highlighted Russia’s “creeping
+      foot pace” around Kharkiv and Donetsk, estimating that at current rates (e.g.,
+      4.4 years for full oblast capture per UK MoD data), offensives are effectively
+      stalled against Ukrainian innovations like drones. In February 2023, Hertling
+      also predicted that Russia’s offensive was “doomed to fail,” stating that an “unprepared
+      army” with “untrained forces,” “inadequate equipment,” “poor leadership,” and
+      no clear objectives is “destined for failure,” making troops “cannon fodder” unfit
+      for any offensive. Admiral James Stavridis (Retired US Navy Admiral; former Supreme
+      Allied Commander Europe (NATO): Russia has advantages, but not total dominance…
+      any ‘success’ will come at a high cost.” In March 2025, he assessed that Russian
+      forces’ “small advances” in Donetsk (e.g., near Avdiivka remnants) are unsustainable
+      long-term, allowing Ukraine to “sustain resistance indefinitely” with European
+      aid, as Moscow’s manpower and logistics strain prevents broader offensives. General
+      Jack Keane (former Army Vice Chief of Staff): On 25 October 2025, Keane said,
+      “Russia has completely stalled in their military advances over the past year and
+      sustained massive casualties.” In November 2025, Keane said that, “We’re far from
+      this war ending. Russia hasn’t changed its goals… but [advances are] not possible
+      to defeat Ukraine.” General David Petraeus (Retired US Army General; former CIA
+      Director and CENTCOM Commander): In August 2025, Petraeus co-authored a piece
+      with Frederick Kagan that assessed Russia’s “slow, grinding pace” in eastern Ukraine
+      as a result of degraded ground forces and overreliance on attrition tactics. He
+      noted that despite small gains near Pokrovsk, Russia’s “decreasing quality” (e.g.,
+      high losses in elite units) prevents breakthroughs, projecting no major territorial
+      shifts before 2026 without adaptation. General Christopher Cavoli [Active US Army
+      General (not retired as of Nov 2025); Supreme Allied Commander Europe (NATO)]:
+      In a Senate hearing (shared on X), Cavoli stated Russia’s ground forces have “decreasing
+      quality” overall, with “isolated areas of strength” but no broad momentum. He
+      described 2025 advances as “not like Pearl Harbor,” emphasizing slow progress
+      due to unanticipated high losses (far exceeding 2022 estimates) and Ukraine’s
+      innovations in drones and defenses. Unnamed Retired General (quoted without attribution
+      in August 2025 Washington Post column by David Ignatius): “Russia’s incremental
+      battlefield advances so far in 2025 would take approximately 4.4 more years to
+      gain 100% of the four Ukrainian oblasts’ territory” at current rates, per UK MoD
+      data. This underscores stalled momentum, with gains offset by 1,000+ daily casualties
+      and no encirclements. I particularly enjoy General Petraeus’ bold prediction that
+      there would be no major territorial shifts before 2026… Whoops! In light of the
+      developments since September, David Ignatius may want to update his pathetic analysis
+      that reflects the hopium of the CIA and the Pentagon. I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: The article critiques retired US military officers and think
+      tanks for downplaying the significance of Russian territorial gains in Ukraine,
+      highlighting a video that showcases 86 villages and towns captured by Russia since
+      September 2025, contradicting claims of incremental and costly advances.
+    paragraph_summary: The article discusses a video that showcases the 86 villages
+      and towns captured by Russia since September 2025, contrasting this visual evidence
+      with the assessments of retired US military officers who claim that Russian territorial
+      gains are minimal and costly. It criticizes these military analysts for downplaying
+      the significance of Russia's advances, which they describe as slow and ineffective,
+      with high casualties and a lack of decisive breakthroughs. Notable figures like
+      General Ben Hodges and General Mark Hertling express skepticism about Russia's
+      military performance, highlighting issues such as poor leadership, inadequate
+      resources, and the impact of Ukrainian innovations like drones. The article suggests
+      that the current Russian offensive is unlikely to succeed, emphasizing the disconnect
+      between the reality on the ground and the narratives presented by some military
+      commentators.
+    published: '2025-12-01T02:14:01+00:00'
+  - title: How Resilient is BRICS in the Storm of Geopolitics? – Part 2
+    url: https://sonar21.com/how-resilient-is-brics-in-the-storm-of-geopolitics-part-2/
+    text: 'BRICS is a huge power factor whose members, partners, and candidates are
+      currently being put to the test. Today, we are thinking about the term “storm.”
+      Introduction In the first part of this series, we looked at the facts about BRICS
+      and the major economic trends we are currently seeing. Today’s second part focuses
+      on the environment in which BRICS must develop as the most important organization
+      in the Global South. We assess the general circumstances of war, the great danger
+      that a nuclear war would constitute, and the unpredictability of the geopolitical
+      situation, which leads us to describe the current situation as a “storm.” In the
+      third and final part, we will then attempt to show where this organization could
+      be heading and what can be expected from the Collective West in terms of attempts
+      to prevent this. Storm Has World War III Already Begun? How the current geopolitical
+      situation is characterized and described depends on the perspective of the observer.
+      It is fair to say that, from a purely military point of view, World War III is
+      already in full swing. We already made this claim in February 2023 in our article
+      “ Sleepwalkers at work: World War III has probably already begun .” The situation
+      regarding Western involvement has become even more pronounced since the article
+      was published. Direct involvement—such as supplying the Ukrainian army with target
+      information with the help of personnel on the ground—is no longer even seriously
+      disputed. Thus, the question of whether World War III has already begun from a
+      military point of view has been answered, even though the Russians are not stating
+      this openly for reasons of de-escalation. There are other arguments that could
+      be used to justify the start of World War III. First of all, there is the geographical
+      spread of attacks of all kinds. Secondly, the nature of warfare has changed completely.
+      War can be waged not only kinetically, but also on an economic level or as cyberwarfare.
+      Cyber warfare—you don’t hear much about it Cross-border cyberattacks are commonplace
+      and affect all major players in this conflict. Furthermore, the Collective West
+      is waging economic war against Russia by imposing a barrage of sanctions since
+      2014, intensified since February 2022, that is unprecedented in history. The US
+      has also been sanctioning many other countries, such as Venezuela since 2015 and,
+      previously, Cuba and Iran. The sanctions in Venezuela are directed against companies,
+      individuals, the government and its members, with secondary sanctions against
+      counterparties around the world and against the general public through entry restrictions.
+      The economic sanctions have already led to weight loss in the population due to
+      hunger for years (2018: 11 kg). Thus, the world war can also be well justified
+      with these, albeit new, arguments. In early 2025, I published the series “The
+      War of Two Worlds Has Already Begun” ( Part 1 ; Part 2 ; Part 3 ; Part 4 ; Part
+      5 ) and argued that we were facing decades of military conflict between the Collective
+      West and the Global South, but not directly – in my assessment – rather as proxy
+      wars in places of strategic importance to both worlds, such as countries with
+      large reserves of raw materials or control over important trade routes. Admittedly,
+      this thesis is also based on the hope that a direct conflict between the US and
+      China and Russia would not occur, as the risk of a nuclear exchange would then
+      be horrendously high. For this reason, we are presenting the view of my friend
+      and colleague Scott Ritter, who considers the risk of a direct nuclear exchange
+      between the US and Russia to be much greater than I did at the beginning of this
+      year. The Danger of a Nuclear Armageddon Two weeks ago, I was invited to the book
+      launch of Scott Ritter’s latest work, “ Highway to Hell ,” in Moscow. The Russian
+      version is titled “ Дорога в Ад .” Scott Ritter in Moscow on November 9, 2025,
+      at his book presentation. I know Scott Ritter well personally and have the utmost
+      respect for him as a person, friend, and geopolitical analyst. With his refreshing
+      modesty, he always presents himself as a simple, non-intellectual Marine , but
+      this is revealed to be mere coquetry when he speaks freely for over an hour in
+      front of a critical audience and then spends another hour answering sometimes
+      uncomfortable questions; then you witness his enviable intellectual acuity and
+      his incredibly broad and deep knowledge. Scott Ritter’s thesis is indeed frightening
+      and is based on several lines of argument. For example, on the fact that the disarmament
+      treaties have been terminated by the US, will soon expire and, if not renewed,
+      will multiply the risk of a nuclear exchange, as well as on a few isolated statements
+      – for example by David Lasseter – that a nuclear war can be won. Similar thoughts
+      were expressed a few days ago by the well-known Russian geopolitician Sergei Karaganov
+      in an interview in Moscow . It should be noted that he does not represent the
+      opinion of the Kremlin. These isolated and dangerous statements clearly contradict
+      the joint declaration by the heads of state and government of the five nuclear-weapon
+      states on preventing nuclear war and avoiding an arms race, dated January 3, 2022,
+      in which China, the US, France, Russia, and the UK clearly stated: «We affirm
+      that a nuclear war cannot be won and must never be fought» Joint Statement of
+      the Leaders of the Five Nuclear-Weapon States on Preventing Nuclear War and Avoiding
+      Arms Races Ritter’s statements are credible, unfortunately realistic, and extremely
+      disturbing: he calls on Russia and the US to engage in unconditional and immediate
+      negotiations—we can only agree with him. The insane statements that tactical nuclear
+      weapons could be used and Armageddon still prevented must be condemned in the
+      strongest possible terms. It almost seems as if the unconditional fear of nuclear
+      war, which has protected humanity from nuclear war since 1945, is wearing thin.
+      Assuming that 80% of the world’s population would die immediately or as a result
+      of a fully escalated nuclear war, one would not want to be among the remaining
+      20% who would languish in the inevitable apocalyptic nuclear winter that would
+      follow. I advise anyone who considers the consequences of a nuclear war to be
+      acceptable in any way to watch the 1983 disaster epic “The Day After.” Despite
+      all these apocalyptic thoughts that one will have after an intensive exchange
+      with Scott Ritter’s explanations, I believe—perhaps motivated by naive optimism—that
+      we will be able to prevent this major catastrophe, not least thanks to Scott Ritter’s
+      tireless work in revealing this existential issue to decision-makers and raising
+      public awareness of it. Storm as a Description of the Present Nevertheless, the
+      situation is extremely dangerous, and even if nuclear war is prevented, there
+      is reason to fear that millions of people will die in the storm that is already
+      raging. I use the term “storm” in this context deliberately. When I hear the word
+      storm, I don’t just think of strong winds, but of wind systems that can cause
+      the wind direction to change 360 degrees in a matter of seconds – yes, 360 degrees
+      is correct this time. This view is based on childhood memories of Lake Maggiore,
+      a lake surrounded by mountains, a small part of which lies in Italian-speaking
+      Switzerland and most of which lies in Italy, and whose storms are characterized
+      by the fact that the downdrafts cause this phenomenon of immediately changing
+      winds. Storm on Lake Maggiore – Image: Il Giornale del Ticino So when I hear the
+      word “storm,” I remember how the wind direction can change completely in a matter
+      of seconds. If you assume that in a war, the tide can turn in one direction or
+      the other, then in a storm it’s even more unpredictable, especially in storms
+      like the ones I’ve experienced. President Trump’s behavior, for example, causes
+      every weather vane to spin around its own axis; to this day, I still don’t know
+      whether Trump is pursuing a strategy that I don’t understand or whether he is
+      intellectually so overwhelmed that he has lost all sense of direction. The longer
+      I watch this spectacle—or rather, this tragicomedy—the more I tend to suspect
+      the latter. There is no way of knowing whether the new 28-point plan will be successful;
+      what can be said with certainty is that the Europeans will do everything in their
+      power, thus, to prevent peace from being achieved. The question is therefore whether
+      Trump can prevail against the Europeans. In doing so, he would – intentionally
+      or unintentionally – also protect Russia’s interests. Zelensky’s opinion is completely
+      irrelevant in this regard. Which side Trump will ultimately take is as predictable
+      as the outcome of a coin toss. In connection with the ups and downs of Trump’s
+      unpredictable politics, we must say a word about Russia’s diplomacy, especially
+      after the publication of the American 28-point plan. At the moment, it looks as
+      if—to put it bluntly—the US is literally “sledding” with Zelensky and the EU leadership.
+      Let’s not kid ourselves: Trump’s success also depends on the flexibility of Russian
+      diplomacy. In the run-up to Anchorage, the US had apparently demanded “flexibility”
+      from the Russian leadership in order to be able to outmaneuver the Ukraine-Europe
+      axis. And Russia delivered. Putin’s statement that the American 28-point plan
+      corresponds to “the framework discussed in Anchorage” is likely to have caused
+      quite a stir around the world. However, let us not be fooled: this US-Russian
+      alliance of convenience only serves both sides if both sides “deliver.” Despite
+      all diplomatic concessions, however, we should not delude ourselves: even if fundamental
+      Russian peace conditions are not included in Trump’s plan, Putin will only sign
+      it if these conditions are met. And BRICS will fully support Putin in this. In
+      recent days, the Epstein scandal also seems to have taken on a momentum that leaves
+      one speechless. George Galloway, the eloquent British commentator, published his
+      monologue entitled “Trump will not survive” on Sunday, November 18, 2025. The
+      assumptions raised in this monologue about the vulnerability of Trump and his
+      administration to blackmail are horrendous, an indicator of a possible loss of
+      control by the Trump administration over the narrative of this scandal, which
+      could not be more distasteful. This, in turn, guarantees the perpetuation of the
+      scandal, because the more unsavoury a scandal is, the longer it stays alive. Imagine—and
+      this now seems to be a realistic scenario—President Trump having to resign amid
+      this complete chaos, for which he is partly responsible. That would overturn every
+      geopolitical forecast that was considered certain or at least compelling. …and
+      bring J. D. Vance to the White House. To find your way in a storm, you also need
+      a compass. The Collective West lost its moral compass in October 2023 at the latest
+      and has not found it again since. As a lifelong diligent student of the Holocaust,
+      I am unable to muster even a hint of justification or understanding for the genocide
+      that is taking place not only in Gaza but also in the West Bank. I have expressed
+      my views in detail on this unsavory topic, which should not even exist, in my
+      article “ Genocide as ‘self-defense’ – Western media as accomplices in the genocide
+      in Gaza – We stand up! ” If the US would not just carry its morals like a banner
+      in a procession, but would live up to its noble words, this genocide would not
+      be possible; I am deliberately leaving Europe out of this discussion. Europe has
+      long since ceased to exist morally, and if it does, then only as an appendage
+      of the US; unfortunately, this includes my home country, Switzerland. The “ceasefire”
+      concluded a few weeks ago is not a ceasefire – the killing continues. This diabolical
+      deal serves only as a fig leaf. For whom? For the Western media, which promotes
+      genocide, in order to conceal the genocide deliberately and consciously staged
+      by Zionists and orchestrated materially and politically by the West. The world
+      is therefore in a highly unstable state. Humanity is being tossed about in the
+      waves like a nutshell, more intensely than ever before. This is also due to the
+      fact that the balance of power is spread across many more poles than before, as
+      a result of the developing multipolar world. “There has probably never been a
+      more vivid metaphor for ‘David versus Goliath’ in military history.” During the
+      last world war, power—and thus destructive power—was concentrated in a few countries.
+      Today, the number of countries wielding power is much greater. There are numerous
+      reasons for this: the nature of conflict capability is more diverse, as military
+      conflict capability now includes inexpensive drones and guided missiles, which
+      help a small, previously inferior opponent to inflict asymmetrical damage on a
+      much larger and richer opponent. The Houthis, for example, have been fought by
+      Saudi Arabia, the US, the UK, Israel, and France for over 10 years and still have
+      the upper hand. An estimated 350,000 Houthis, of whom only about 20,000 are combat
+      troops, are able to keep five of the largest military powers in the Red Sea at
+      bay. There has probably never been a more vivid metaphor for “David versus Goliath”
+      in military history – a veritable disaster for the prestige of the American and
+      European armed forces. Cyberwarfare should also be mentioned, where results depend
+      on intellect and creativity rather than gross national product. These two examples,
+      combined with the higher number of participants, cause the number of possible
+      outcomes of this conflict to increase exponentially. Interim Result The world
+      is indeed experiencing turbulent times. These are certainly not favorable conditions
+      for the BRICS community to develop in a positive way. One could argue that this
+      is unfair to the Global South, citing the comparatively peaceful post-war decades
+      during which the power structures of the Collective West were able to develop.
+      But those “born of the storm” are inherently stronger. However, concepts of fairness
+      should not be used as arguments in geopolitics, because despite fig leaves such
+      as “human rights” and “international law,” it is ultimately the stronger side
+      that prevails—that is all that matters. Nazi Germany did not lose World War II
+      because fairness demanded it, but because it was defeated militarily. This time
+      will be no different. In this interim chapter, we have established that the geopolitical
+      situation in the world could not be more confusing and that the word “storm” actually
+      describes the situation well. But those “born of the storm” are inherently stronger.
+      In the third part, we will describe the flashpoints that arise from the lists
+      of members, partners, and candidates of BRICS+. Peter Hanseler is a geopolitical
+      analyst who reports from Moscow. Peter was born in Zurich, Switzerland. He holds
+      a J.D. (lic. iur.) and Ph.D. (Dr. iur.) from Zurich University Law School and
+      Master in International Commercial Law (LL.M.) from Georgetown University Law
+      School, Washington, D.C. He has lived in the US, Spain, Switzerland, Thailand
+      and Russia. Peter is independent, his work is not supported by government or private
+      entities. Peter’s website Forumgeopolitica.com publishes its content in English,
+      Russian, German and French.'
+    one_sentence_summary: The article discusses the challenges faced by BRICS amid a
+      turbulent geopolitical landscape, likening the current global situation to a "storm"
+      and exploring the implications for the organization's future and its interactions
+      with the Collective West.
+    paragraph_summary: The article discusses the current challenges and geopolitical
+      dynamics facing BRICS, emphasizing the organization's significance as a key player
+      in the Global South amidst a turbulent global environment characterized by war
+      and the looming threat of nuclear conflict. It describes the ongoing situation
+      as a "storm," suggesting that World War III may already be underway from a military
+      perspective, particularly due to the West's direct involvement in conflicts like
+      the one in Ukraine. The piece highlights the evolving nature of warfare, which
+      now encompasses not only traditional military engagements but also economic and
+      cyber warfare, indicating a complex and multifaceted conflict landscape that BRICS
+      must navigate as it seeks to assert its influence and respond to pressures from
+      the Collective West.
+    published: '2025-11-30T07:31:50+00:00'
+  - title: How Resilient is BRICS in the Storm of Geopolitics? – Part 2
+    url: https://sonar21.com/how-resilient-is-brics-in-the-storm-of-geopolitics-part-2/
+    text: 'BRICS is a huge power factor whose members, partners, and candidates are
+      currently being put to the test. Today, we are thinking about the term “storm.”
+      Introduction In the first part of this series, we looked at the facts about BRICS
+      and the major economic trends we are currently seeing. Today’s second part focuses
+      on the environment in which BRICS must develop as the most important organization
+      in the Global South. We assess the general circumstances of war, the great danger
+      that a nuclear war would constitute, and the unpredictability of the geopolitical
+      situation, which leads us to describe the current situation as a “storm.” In the
+      third and final part, we will then attempt to show where this organization could
+      be heading and what can be expected from the Collective West in terms of attempts
+      to prevent this. Storm Has World War III Already Begun? How the current geopolitical
+      situation is characterized and described depends on the perspective of the observer.
+      It is fair to say that, from a purely military point of view, World War III is
+      already in full swing. We already made this claim in February 2023 in our article
+      “ Sleepwalkers at work: World War III has probably already begun .” The situation
+      regarding Western involvement has become even more pronounced since the article
+      was published. Direct involvement—such as supplying the Ukrainian army with target
+      information with the help of personnel on the ground—is no longer even seriously
+      disputed. Thus, the question of whether World War III has already begun from a
+      military point of view has been answered, even though the Russians are not stating
+      this openly for reasons of de-escalation. There are other arguments that could
+      be used to justify the start of World War III. First of all, there is the geographical
+      spread of attacks of all kinds. Secondly, the nature of warfare has changed completely.
+      War can be waged not only kinetically, but also on an economic level or as cyberwarfare.
+      Cyber warfare—you don’t hear much about it Cross-border cyberattacks are commonplace
+      and affect all major players in this conflict. Furthermore, the Collective West
+      is waging economic war against Russia by imposing a barrage of sanctions since
+      2014, intensified since February 2022, that is unprecedented in history. The US
+      has also been sanctioning many other countries, such as Venezuela since 2015 and,
+      previously, Cuba and Iran. The sanctions in Venezuela are directed against companies,
+      individuals, the government and its members, with secondary sanctions against
+      counterparties around the world and against the general public through entry restrictions.
+      The economic sanctions have already led to weight loss in the population due to
+      hunger for years (2018: 11 kg). Thus, the world war can also be well justified
+      with these, albeit new, arguments. In early 2025, I published the series “The
+      War of Two Worlds Has Already Begun” ( Part 1 ; Part 2 ; Part 3 ; Part 4 ; Part
+      5 ) and argued that we were facing decades of military conflict between the Collective
+      West and the Global South, but not directly – in my assessment – rather as proxy
+      wars in places of strategic importance to both worlds, such as countries with
+      large reserves of raw materials or control over important trade routes. Admittedly,
+      this thesis is also based on the hope that a direct conflict between the US and
+      China and Russia would not occur, as the risk of a nuclear exchange would then
+      be horrendously high. For this reason, we are presenting the view of my friend
+      and colleague Scott Ritter, who considers the risk of a direct nuclear exchange
+      between the US and Russia to be much greater than I did at the beginning of this
+      year. The Danger of a Nuclear Armageddon Two weeks ago, I was invited to the book
+      launch of Scott Ritter’s latest work, “ Highway to Hell ,” in Moscow. The Russian
+      version is titled “ Дорога в Ад .” Scott Ritter in Moscow on November 9, 2025,
+      at his book presentation. I know Scott Ritter well personally and have the utmost
+      respect for him as a person, friend, and geopolitical analyst. With his refreshing
+      modesty, he always presents himself as a simple, non-intellectual Marine , but
+      this is revealed to be mere coquetry when he speaks freely for over an hour in
+      front of a critical audience and then spends another hour answering sometimes
+      uncomfortable questions; then you witness his enviable intellectual acuity and
+      his incredibly broad and deep knowledge. Scott Ritter’s thesis is indeed frightening
+      and is based on several lines of argument. For example, on the fact that the disarmament
+      treaties have been terminated by the US, will soon expire and, if not renewed,
+      will multiply the risk of a nuclear exchange, as well as on a few isolated statements
+      – for example by David Lasseter – that a nuclear war can be won. Similar thoughts
+      were expressed a few days ago by the well-known Russian geopolitician Sergei Karaganov
+      in an interview in Moscow . It should be noted that he does not represent the
+      opinion of the Kremlin. These isolated and dangerous statements clearly contradict
+      the joint declaration by the heads of state and government of the five nuclear-weapon
+      states on preventing nuclear war and avoiding an arms race, dated January 3, 2022,
+      in which China, the US, France, Russia, and the UK clearly stated: «We affirm
+      that a nuclear war cannot be won and must never be fought» Joint Statement of
+      the Leaders of the Five Nuclear-Weapon States on Preventing Nuclear War and Avoiding
+      Arms Races Ritter’s statements are credible, unfortunately realistic, and extremely
+      disturbing: he calls on Russia and the US to engage in unconditional and immediate
+      negotiations—we can only agree with him. The insane statements that tactical nuclear
+      weapons could be used and Armageddon still prevented must be condemned in the
+      strongest possible terms. It almost seems as if the unconditional fear of nuclear
+      war, which has protected humanity from nuclear war since 1945, is wearing thin.
+      Assuming that 80% of the world’s population would die immediately or as a result
+      of a fully escalated nuclear war, one would not want to be among the remaining
+      20% who would languish in the inevitable apocalyptic nuclear winter that would
+      follow. I advise anyone who considers the consequences of a nuclear war to be
+      acceptable in any way to watch the 1983 disaster epic “The Day After.” Despite
+      all these apocalyptic thoughts that one will have after an intensive exchange
+      with Scott Ritter’s explanations, I believe—perhaps motivated by naive optimism—that
+      we will be able to prevent this major catastrophe, not least thanks to Scott Ritter’s
+      tireless work in revealing this existential issue to decision-makers and raising
+      public awareness of it. Storm as a Description of the Present Nevertheless, the
+      situation is extremely dangerous, and even if nuclear war is prevented, there
+      is reason to fear that millions of people will die in the storm that is already
+      raging. I use the term “storm” in this context deliberately. When I hear the word
+      storm, I don’t just think of strong winds, but of wind systems that can cause
+      the wind direction to change 360 degrees in a matter of seconds – yes, 360 degrees
+      is correct this time. This view is based on childhood memories of Lake Maggiore,
+      a lake surrounded by mountains, a small part of which lies in Italian-speaking
+      Switzerland and most of which lies in Italy, and whose storms are characterized
+      by the fact that the downdrafts cause this phenomenon of immediately changing
+      winds. Storm on Lake Maggiore – Image: Il Giornale del Ticino So when I hear the
+      word “storm,” I remember how the wind direction can change completely in a matter
+      of seconds. If you assume that in a war, the tide can turn in one direction or
+      the other, then in a storm it’s even more unpredictable, especially in storms
+      like the ones I’ve experienced. President Trump’s behavior, for example, causes
+      every weather vane to spin around its own axis; to this day, I still don’t know
+      whether Trump is pursuing a strategy that I don’t understand or whether he is
+      intellectually so overwhelmed that he has lost all sense of direction. The longer
+      I watch this spectacle—or rather, this tragicomedy—the more I tend to suspect
+      the latter. There is no way of knowing whether the new 28-point plan will be successful;
+      what can be said with certainty is that the Europeans will do everything in their
+      power, thus, to prevent peace from being achieved. The question is therefore whether
+      Trump can prevail against the Europeans. In doing so, he would – intentionally
+      or unintentionally – also protect Russia’s interests. Zelensky’s opinion is completely
+      irrelevant in this regard. Which side Trump will ultimately take is as predictable
+      as the outcome of a coin toss. In connection with the ups and downs of Trump’s
+      unpredictable politics, we must say a word about Russia’s diplomacy, especially
+      after the publication of the American 28-point plan. At the moment, it looks as
+      if—to put it bluntly—the US is literally “sledding” with Zelensky and the EU leadership.
+      Let’s not kid ourselves: Trump’s success also depends on the flexibility of Russian
+      diplomacy. In the run-up to Anchorage, the US had apparently demanded “flexibility”
+      from the Russian leadership in order to be able to outmaneuver the Ukraine-Europe
+      axis. And Russia delivered. Putin’s statement that the American 28-point plan
+      corresponds to “the framework discussed in Anchorage” is likely to have caused
+      quite a stir around the world. However, let us not be fooled: this US-Russian
+      alliance of convenience only serves both sides if both sides “deliver.” Despite
+      all diplomatic concessions, however, we should not delude ourselves: even if fundamental
+      Russian peace conditions are not included in Trump’s plan, Putin will only sign
+      it if these conditions are met. And BRICS will fully support Putin in this. In
+      recent days, the Epstein scandal also seems to have taken on a momentum that leaves
+      one speechless. George Galloway, the eloquent British commentator, published his
+      monologue entitled “Trump will not survive” on Sunday, November 18, 2025. The
+      assumptions raised in this monologue about the vulnerability of Trump and his
+      administration to blackmail are horrendous, an indicator of a possible loss of
+      control by the Trump administration over the narrative of this scandal, which
+      could not be more distasteful. This, in turn, guarantees the perpetuation of the
+      scandal, because the more unsavoury a scandal is, the longer it stays alive. Imagine—and
+      this now seems to be a realistic scenario—President Trump having to resign amid
+      this complete chaos, for which he is partly responsible. That would overturn every
+      geopolitical forecast that was considered certain or at least compelling. …and
+      bring J. D. Vance to the White House. To find your way in a storm, you also need
+      a compass. The Collective West lost its moral compass in October 2023 at the latest
+      and has not found it again since. As a lifelong diligent student of the Holocaust,
+      I am unable to muster even a hint of justification or understanding for the genocide
+      that is taking place not only in Gaza but also in the West Bank. I have expressed
+      my views in detail on this unsavory topic, which should not even exist, in my
+      article “ Genocide as ‘self-defense’ – Western media as accomplices in the genocide
+      in Gaza – We stand up! ” If the US would not just carry its morals like a banner
+      in a procession, but would live up to its noble words, this genocide would not
+      be possible; I am deliberately leaving Europe out of this discussion. Europe has
+      long since ceased to exist morally, and if it does, then only as an appendage
+      of the US; unfortunately, this includes my home country, Switzerland. The “ceasefire”
+      concluded a few weeks ago is not a ceasefire – the killing continues. This diabolical
+      deal serves only as a fig leaf. For whom? For the Western media, which promotes
+      genocide, in order to conceal the genocide deliberately and consciously staged
+      by Zionists and orchestrated materially and politically by the West. The world
+      is therefore in a highly unstable state. Humanity is being tossed about in the
+      waves like a nutshell, more intensely than ever before. This is also due to the
+      fact that the balance of power is spread across many more poles than before, as
+      a result of the developing multipolar world. “There has probably never been a
+      more vivid metaphor for ‘David versus Goliath’ in military history.” During the
+      last world war, power—and thus destructive power—was concentrated in a few countries.
+      Today, the number of countries wielding power is much greater. There are numerous
+      reasons for this: the nature of conflict capability is more diverse, as military
+      conflict capability now includes inexpensive drones and guided missiles, which
+      help a small, previously inferior opponent to inflict asymmetrical damage on a
+      much larger and richer opponent. The Houthis, for example, have been fought by
+      Saudi Arabia, the US, the UK, Israel, and France for over 10 years and still have
+      the upper hand. An estimated 350,000 Houthis, of whom only about 20,000 are combat
+      troops, are able to keep five of the largest military powers in the Red Sea at
+      bay. There has probably never been a more vivid metaphor for “David versus Goliath”
+      in military history – a veritable disaster for the prestige of the American and
+      European armed forces. Cyberwarfare should also be mentioned, where results depend
+      on intellect and creativity rather than gross national product. These two examples,
+      combined with the higher number of participants, cause the number of possible
+      outcomes of this conflict to increase exponentially. Interim Result The world
+      is indeed experiencing turbulent times. These are certainly not favorable conditions
+      for the BRICS community to develop in a positive way. One could argue that this
+      is unfair to the Global South, citing the comparatively peaceful post-war decades
+      during which the power structures of the Collective West were able to develop.
+      But those “born of the storm” are inherently stronger. However, concepts of fairness
+      should not be used as arguments in geopolitics, because despite fig leaves such
+      as “human rights” and “international law,” it is ultimately the stronger side
+      that prevails—that is all that matters. Nazi Germany did not lose World War II
+      because fairness demanded it, but because it was defeated militarily. This time
+      will be no different. In this interim chapter, we have established that the geopolitical
+      situation in the world could not be more confusing and that the word “storm” actually
+      describes the situation well. But those “born of the storm” are inherently stronger.
+      In the third part, we will describe the flashpoints that arise from the lists
+      of members, partners, and candidates of BRICS+. Peter Hanseler is a geopolitical
+      analyst who reports from Moscow. Peter was born in Zurich, Switzerland. He holds
+      a J.D. (lic. iur.) and Ph.D. (Dr. iur.) from Zurich University Law School and
+      Master in International Commercial Law (LL.M.) from Georgetown University Law
+      School, Washington, D.C. He has lived in the US, Spain, Switzerland, Thailand
+      and Russia. Peter is independent, his work is not supported by government or private
+      entities. Peter’s website Forumgeopolitica.com publishes its content in English,
+      Russian, German and French.'
+    one_sentence_summary: The article discusses the challenges faced by BRICS amid a
+      turbulent geopolitical landscape, likening the current global situation to a "storm"
+      and exploring the implications for the organization's future and its interactions
+      with the Collective West.
+    paragraph_summary: The article discusses the current challenges and geopolitical
+      dynamics facing BRICS, emphasizing the organization's significance as a key player
+      in the Global South amidst a turbulent global environment characterized by war
+      and the looming threat of nuclear conflict. It describes the ongoing situation
+      as a "storm," suggesting that World War III may already be underway from a military
+      perspective, particularly due to the West's direct involvement in conflicts like
+      the one in Ukraine. The piece highlights the evolving nature of warfare, which
+      now encompasses not only traditional military engagements but also economic and
+      cyber warfare, indicating a complex and multifaceted conflict landscape that BRICS
+      must navigate as it seeks to assert its influence and respond to pressures from
+      the Collective West.
+    published: '2025-11-30T07:31:50+00:00'
+  - title: Say Good-Bye to Reagan’s Vision of America as City on a Hill
+    url: https://sonar21.com/say-good-bye-to-reagans-vision-of-america-as-city-on-a-hill/
+    text: 'I wonder what Ronald Reagan would say about Donald Trump’s criminal campaign
+      of extrajudicial killings in the name of fighting narco terrorism ? During his
+      two terms as President, Reagan repeatedly framed America as a “light unto the
+      nations” and a “shining city upon a hill” whose freedom, democratic institutions,
+      and prosperity should serve as a model to others, not through conquest but by
+      example. He argued that Americans had an obligation to “keep faith” with this
+      vision—maintaining limited government, strong civil society, and a sense of moral
+      purpose—so that the city would remain strong, free, and worthy of the world’s
+      attention The phrase, “a shining city upon a hill,” comes from the Bible… The
+      Gospel of Matthew, chapter 5, verse 14, to be precise: You are the light of the
+      world. A city set on a hill cannot be hidden. A lofty vision to be sure, but given
+      Donald Trump’s current policy of killing suspected drug traffickers without the
+      benefit of a trial, which the US military is happily carrying out, the United
+      States is behaving like a venal, bloodthirsty tyrant. We have become a metaphorical
+      city of darkness and evil. If Trump genuinely believes that the boats and crews
+      he is blowing up are actually ferrying illegal narcotics, then those boats should
+      be seized and the cargo inspected. Only if the people onboard those crafts started
+      shooting at an approaching US vessel would lethal force be justified. According
+      to a detailed investigative report published by The Washington Post on November
+      28, 2025, U.S. Defense Secretary Pete Hegseth issued a verbal directive to U.S.
+      military personnel to “kill everybody” on board a vessel suspected of smuggling
+      illegal narcotics in the Caribbean Sea. This order reportedly led to a second
+      missile strike that killed two survivors who were clinging to the wreckage of
+      the boat after an initial attack. The incident occurred on September 2, 2025,
+      off the coast of Trinidad, and was the first in a series of over 20 U.S. strikes
+      on suspected drug boats that have killed more than 80 people to date. The founding
+      fathers of the United States eschewed giving the President the power to kill whomever
+      he or she deemed as bad. The essence of our judicial system is the presumption
+      of innocence until proven guilty in a court of law. That means presenting evidence
+      beyond a reasonable doubt that a person or persons have committed a crime, and
+      that a jury of their peers pass judgment. This Constitutional foundation means
+      that police cannot simply shoot and kill someone just because they think that
+      person is engaged in the sale of illegal narcotics. I am appalled at the cowardice
+      of the six Democrat members of Congress who have spoken in general terms about
+      the duty of service members and intelligence personnel to refuse “illegal” or
+      “unlawful” orders, but not said one damn word about these attacks on boats departing
+      Venezuela. If they don’t make it specific, then they are just engaged in a cheap
+      political stunt. Although Donald Trump and Secretary of War, Pete Hegseth, insist
+      that they have the law on their side, neither is a lawyer and neither seems to
+      understand the US Constitution. Just because some political hack at the Department
+      of Justice (DOJ) writes a memo justifying illegal and immoral actions, that does
+      not permit anyone — the President included — to carry out extrajudicial killings.
+      I still remember that this same tactic was used by George W Bush to justify torture…
+      the US DOJ said it was okay, but it was not. Donald Trump is not the first US
+      President to order extrajudicial killings… George W Bush did it, Barack Obama
+      did it, and Joe Biden did it. In fact, the CIA assassination program was just
+      another manifestation of this evil. What I find terrifying is that most US legislators
+      are either cheering this madness or remaining quiet, unwilling to challenge a
+      corrupt and illegal policy. I think that Ronald Reagan genuinely believed that
+      US actions and its embrace of freedom, democratic institutions, and prosperity,
+      both at home and abroad, would serve as a model to other nations. Donald Trump
+      is sending a darker message — we kill who we want to without regard to law and
+      human decency. I believe we are setting a standard for how a nation should behave,
+      but it is one based in depravity. As an American with 28 ancestors who fought
+      in the American Revolution in 1776, I am ashamed of what my country has become…
+      Instead of a City that is a Beacon of Light , we are behaving like the inhabitants
+      of Sodom and Gomorah , who lived in darkness and celebrated killing. Consider
+      this my sermon for Sunday. Here is my chat with Matt Erhet and Marty Sieff on
+      Beyond Geopolitics : I thank you for your invaluable support by taking time to
+      read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article contrasts Ronald Reagan's vision of America as
+      a moral example to the world with Donald Trump's controversial policy of extrajudicial
+      killings in the fight against narco-terrorism, questioning how Reagan would respond
+      to such actions.
+    paragraph_summary: The article critiques Donald Trump's approach to combating narco-terrorism
+      through extrajudicial killings, contrasting it with Ronald Reagan's vision of
+      America as a moral beacon for the world. Reagan emphasized the importance of maintaining
+      a strong, free society through example rather than violence, advocating for limited
+      government and civil liberties. In stark contrast, the article describes Trump's
+      directive to the U.S. military to kill all individuals on vessels suspected of
+      drug trafficking, which has resulted in lethal strikes without due process. This
+      shift in policy is portrayed as a departure from America's foundational values,
+      transforming the nation from a "shining city upon a hill" into a "city of darkness
+      and evil." The author argues that such actions undermine the moral authority of
+      the United States and calls for a more measured approach that respects legal processes.
+    published: '2025-11-30T05:04:46+00:00'
+  - title: Say Good-Bye to Reagan’s Vision of America as City on a Hill
+    url: https://sonar21.com/say-good-bye-to-reagans-vision-of-america-as-city-on-a-hill/
+    text: 'I wonder what Ronald Reagan would say about Donald Trump’s criminal campaign
+      of extrajudicial killings in the name of fighting narco terrorism ? During his
+      two terms as President, Reagan repeatedly framed America as a “light unto the
+      nations” and a “shining city upon a hill” whose freedom, democratic institutions,
+      and prosperity should serve as a model to others, not through conquest but by
+      example. He argued that Americans had an obligation to “keep faith” with this
+      vision—maintaining limited government, strong civil society, and a sense of moral
+      purpose—so that the city would remain strong, free, and worthy of the world’s
+      attention The phrase, “a shining city upon a hill,” comes from the Bible… The
+      Gospel of Matthew, chapter 5, verse 14, to be precise: You are the light of the
+      world. A city set on a hill cannot be hidden. A lofty vision to be sure, but given
+      Donald Trump’s current policy of killing suspected drug traffickers without the
+      benefit of a trial, which the US military is happily carrying out, the United
+      States is behaving like a venal, bloodthirsty tyrant. We have become a metaphorical
+      city of darkness and evil. If Trump genuinely believes that the boats and crews
+      he is blowing up are actually ferrying illegal narcotics, then those boats should
+      be seized and the cargo inspected. Only if the people onboard those crafts started
+      shooting at an approaching US vessel would lethal force be justified. According
+      to a detailed investigative report published by The Washington Post on November
+      28, 2025, U.S. Defense Secretary Pete Hegseth issued a verbal directive to U.S.
+      military personnel to “kill everybody” on board a vessel suspected of smuggling
+      illegal narcotics in the Caribbean Sea. This order reportedly led to a second
+      missile strike that killed two survivors who were clinging to the wreckage of
+      the boat after an initial attack. The incident occurred on September 2, 2025,
+      off the coast of Trinidad, and was the first in a series of over 20 U.S. strikes
+      on suspected drug boats that have killed more than 80 people to date. The founding
+      fathers of the United States eschewed giving the President the power to kill whomever
+      he or she deemed as bad. The essence of our judicial system is the presumption
+      of innocence until proven guilty in a court of law. That means presenting evidence
+      beyond a reasonable doubt that a person or persons have committed a crime, and
+      that a jury of their peers pass judgment. This Constitutional foundation means
+      that police cannot simply shoot and kill someone just because they think that
+      person is engaged in the sale of illegal narcotics. I am appalled at the cowardice
+      of the six Democrat members of Congress who have spoken in general terms about
+      the duty of service members and intelligence personnel to refuse “illegal” or
+      “unlawful” orders, but not said one damn word about these attacks on boats departing
+      Venezuela. If they don’t make it specific, then they are just engaged in a cheap
+      political stunt. Although Donald Trump and Secretary of War, Pete Hegseth, insist
+      that they have the law on their side, neither is a lawyer and neither seems to
+      understand the US Constitution. Just because some political hack at the Department
+      of Justice (DOJ) writes a memo justifying illegal and immoral actions, that does
+      not permit anyone — the President included — to carry out extrajudicial killings.
+      I still remember that this same tactic was used by George W Bush to justify torture…
+      the US DOJ said it was okay, but it was not. Donald Trump is not the first US
+      President to order extrajudicial killings… George W Bush did it, Barack Obama
+      did it, and Joe Biden did it. In fact, the CIA assassination program was just
+      another manifestation of this evil. What I find terrifying is that most US legislators
+      are either cheering this madness or remaining quiet, unwilling to challenge a
+      corrupt and illegal policy. I think that Ronald Reagan genuinely believed that
+      US actions and its embrace of freedom, democratic institutions, and prosperity,
+      both at home and abroad, would serve as a model to other nations. Donald Trump
+      is sending a darker message — we kill who we want to without regard to law and
+      human decency. I believe we are setting a standard for how a nation should behave,
+      but it is one based in depravity. As an American with 28 ancestors who fought
+      in the American Revolution in 1776, I am ashamed of what my country has become…
+      Instead of a City that is a Beacon of Light , we are behaving like the inhabitants
+      of Sodom and Gomorah , who lived in darkness and celebrated killing. Consider
+      this my sermon for Sunday. Here is my chat with Matt Erhet and Marty Sieff on
+      Beyond Geopolitics : I thank you for your invaluable support by taking time to
+      read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article contrasts Ronald Reagan's vision of America as
+      a moral example to the world with Donald Trump's controversial policy of extrajudicial
+      killings in the fight against narco-terrorism, questioning how Reagan would respond
+      to such actions.
+    paragraph_summary: The article critiques Donald Trump's approach to combating narco-terrorism
+      through extrajudicial killings, contrasting it with Ronald Reagan's vision of
+      America as a moral beacon for the world. Reagan emphasized the importance of maintaining
+      a strong, free society through example rather than violence, advocating for limited
+      government and civil liberties. In stark contrast, the article describes Trump's
+      directive to the U.S. military to kill all individuals on vessels suspected of
+      drug trafficking, which has resulted in lethal strikes without due process. This
+      shift in policy is portrayed as a departure from America's foundational values,
+      transforming the nation from a "shining city upon a hill" into a "city of darkness
+      and evil." The author argues that such actions undermine the moral authority of
+      the United States and calls for a more measured approach that respects legal processes.
+    published: '2025-11-30T05:04:46+00:00'
+  - title: The EU’s Kaja Kallas is Bad at History
+    url: https://sonar21.com/the-eus-kaja-kallas-is-bad-at-history/
+    text: 'As the EU’s High Representative for Foreign Affairs and Security Policy and
+      former Prime Minister of Estonia, Kaja Kallas has been one of Europe’s most vocal
+      critics of Russia. Her statements consistently frame Russia—particularly under
+      Vladimir Putin—as an “existential threat” to European security, emphasizing historical
+      patterns of invasion, the need for robust EU defense investments, and the imperative
+      to weaken Russia’s military capacity to prevent future conflicts. She often ties
+      this to the ongoing war in Ukraine, arguing that concessions to Moscow would invite
+      broader instability. Although Kallas was not alive when Sam Cooke sang, What a
+      Wonderful World , I can’t think of a more appropriate tune for this intellectual
+      lightweight (p.s., it was written by Lou Adler and Herb Alpert)… Her Wonderful
+      World is a world without Russia: In a recent press conference, Kallas made the
+      following outlandish claim: Over the last 100 years, Russia has attacked more
+      than 19 countries, some of them even three or four times. None of these countries
+      has ever attacked Russia. But history tells a different story… Russia has been
+      visited with eight major invasions by European countries or European-led coalitions
+      since 1600, and four times since 1900: I suspect that most Americans, and maybe
+      most Europeans, do not know how many European countries fought on the side of
+      Nazi Germany in World War II… There were 13: Russia’s military occupations and
+      annexes since 1800 have been confined to territories on its border. In 1877, as
+      part of the Russo – Turkish war, Russia liberated Bulgaria, Romania, Serbia from
+      the Ottoman Empire. Russia is not credited with invading France in 1814 because
+      it was fighting alongside other European nations. France under Napoleon had invaded
+      Russia in 1812 (the catastrophic campaign that destroyed the Grande Armée). From
+      1813–1814, the Sixth Coalition (Russia, Prussia, Austria, Sweden, Britain, and
+      many German states) fought a defensive and then offensive war against Napoleonic
+      France. Russian, Prussian, and Austrian armies crossed the Rhine into France in
+      early 1814, defeated Napoleon in a series of battles (including the Battle of
+      Paris), and occupied the French capital. Tsar Alexander I personally entered Paris
+      at the head of the coalition forces. I don’t know if Kaja Kallas is simply uneducated
+      or just plain stupid. Regardless, her attempt to paint Russia as a voracious imperialist
+      intent on conquering Europe is just another manifestation of projection… Russia
+      does not want any European territory, but the same cannot be said for the Europeans.
+      Jarosław Kaczyński, as leader of the Law and Justice party (PiS) and former Prime
+      Minister, has repeatedly called for the “decolonization” of Russia, arguing it
+      must be broken into smaller states to neutralize its imperial threat. In a 2023
+      interview, he stated: Russia is a colonial empire… The only way to ensure security
+      is to dismantle it into several independent countries, like the USSR’s collapse
+      in 1991. He echoed this in 2024 speeches, linking it to supporting Ukrainian independence
+      movements in Russian regions. This aligns with Polish historical fears of Russian
+      expansionism. Another Pole, Bronislaw Komorowski, who was President of Poland
+      (2010–2015), proposed in 2022 that Western support for separatist movements in
+      Russia’s ethnic republics (e.g., Tatarstan, Chechnya) could lead to its fragmentation,
+      similar to post-WWI empires. He said: Russia’s unity is artificial; aiding its
+      regions’ self-determination would end the threat to Europe. Estonia’s Urmas Reinsalu,
+      Defense Minister (2019–2023) and current Foreign Minister, suggested in 2023 that
+      Europe’s long-term strategy should include “promoting democracy in Russia’s autonomous
+      regions” to foster independence, potentially “dividing the empire into manageable
+      parts.” This was framed as a response to hybrid threats. And then there is Kaja
+      Kallas… Although she has not explicitly called for actively “chopping up” Russia
+      through external intervention, which would risk nuclear escalation, she frames
+      Russia’s potential fragmentation as a possible long-term consequence of its imperial
+      overreach and defeat in Ukraine. She draws parallels to the Soviet Union’s collapse
+      in 1991, and she emphasizes that smaller, independent nations within Russia’s
+      borders (e.g., Tatarstan, Chechnya, or Siberian regions) could reduce the threat
+      posed by a centralized “big power.” Nothing to see here… Move along. While Kallas
+      clearly knows nothing about history, the Russians remember vividly the threat
+      posed by Europe. Over the course of 400 years, millions of Russians have died
+      fending off attacks from Europe. That is one possible reason that Russia does
+      not want to have anything to do with modern Europe… Just saying. I discussed the
+      current status of Trump’s ill-fated peace plan today with Danny Davis and with
+      Nima and Colonel Lawrence Wilkerson: I thank you for your invaluable support by
+      taking time to read or comment. I do not charge a subscription fee nor do I accept
+      advertising. I want the content to be accessible to everyone interested in the
+      issues I am discussing. However, if you wish to make a donation, please see this
+      link .'
+    one_sentence_summary: Kaja Kallas, the EU's High Representative for Foreign Affairs
+      and Security Policy, has consistently labeled Russia as an existential threat
+      to European security, advocating for increased defense investments and a strong
+      stance against Moscow to prevent further conflicts, particularly in light of the
+      ongoing war in Ukraine.
+    paragraph_summary: Kaja Kallas, the EU's High Representative for Foreign Affairs
+      and Security Policy and former Prime Minister of Estonia, has emerged as a prominent
+      critic of Russia, framing it as an "existential threat" to European security under
+      Vladimir Putin. She emphasizes the historical context of Russian invasions and
+      advocates for increased EU defense investments to diminish Russia's military capacity,
+      particularly in light of the ongoing war in Ukraine. Kallas argues that making
+      concessions to Russia could lead to greater instability in Europe. However, her
+      claims about Russia's aggression, including stating that it has attacked over
+      19 countries in the last century, have been challenged by historical accounts
+      that highlight numerous invasions of Russia by European powers and its role in
+      liberating territories during conflicts. The article suggests that Kallas's perspective
+      may overlook the complexities of historical interactions between Russia and Europe.
+    published: '2025-11-29T04:14:02+00:00'
+  - title: The EU’s Kaja Kallas is Bad at History
+    url: https://sonar21.com/the-eus-kaja-kallas-is-bad-at-history/
+    text: 'As the EU’s High Representative for Foreign Affairs and Security Policy and
+      former Prime Minister of Estonia, Kaja Kallas has been one of Europe’s most vocal
+      critics of Russia. Her statements consistently frame Russia—particularly under
+      Vladimir Putin—as an “existential threat” to European security, emphasizing historical
+      patterns of invasion, the need for robust EU defense investments, and the imperative
+      to weaken Russia’s military capacity to prevent future conflicts. She often ties
+      this to the ongoing war in Ukraine, arguing that concessions to Moscow would invite
+      broader instability. Although Kallas was not alive when Sam Cooke sang, What a
+      Wonderful World , I can’t think of a more appropriate tune for this intellectual
+      lightweight (p.s., it was written by Lou Adler and Herb Alpert)… Her Wonderful
+      World is a world without Russia: In a recent press conference, Kallas made the
+      following outlandish claim: Over the last 100 years, Russia has attacked more
+      than 19 countries, some of them even three or four times. None of these countries
+      has ever attacked Russia. But history tells a different story… Russia has been
+      visited with eight major invasions by European countries or European-led coalitions
+      since 1600, and four times since 1900: I suspect that most Americans, and maybe
+      most Europeans, do not know how many European countries fought on the side of
+      Nazi Germany in World War II… There were 13: Russia’s military occupations and
+      annexes since 1800 have been confined to territories on its border. In 1877, as
+      part of the Russo – Turkish war, Russia liberated Bulgaria, Romania, Serbia from
+      the Ottoman Empire. Russia is not credited with invading France in 1814 because
+      it was fighting alongside other European nations. France under Napoleon had invaded
+      Russia in 1812 (the catastrophic campaign that destroyed the Grande Armée). From
+      1813–1814, the Sixth Coalition (Russia, Prussia, Austria, Sweden, Britain, and
+      many German states) fought a defensive and then offensive war against Napoleonic
+      France. Russian, Prussian, and Austrian armies crossed the Rhine into France in
+      early 1814, defeated Napoleon in a series of battles (including the Battle of
+      Paris), and occupied the French capital. Tsar Alexander I personally entered Paris
+      at the head of the coalition forces. I don’t know if Kaja Kallas is simply uneducated
+      or just plain stupid. Regardless, her attempt to paint Russia as a voracious imperialist
+      intent on conquering Europe is just another manifestation of projection… Russia
+      does not want any European territory, but the same cannot be said for the Europeans.
+      Jarosław Kaczyński, as leader of the Law and Justice party (PiS) and former Prime
+      Minister, has repeatedly called for the “decolonization” of Russia, arguing it
+      must be broken into smaller states to neutralize its imperial threat. In a 2023
+      interview, he stated: Russia is a colonial empire… The only way to ensure security
+      is to dismantle it into several independent countries, like the USSR’s collapse
+      in 1991. He echoed this in 2024 speeches, linking it to supporting Ukrainian independence
+      movements in Russian regions. This aligns with Polish historical fears of Russian
+      expansionism. Another Pole, Bronislaw Komorowski, who was President of Poland
+      (2010–2015), proposed in 2022 that Western support for separatist movements in
+      Russia’s ethnic republics (e.g., Tatarstan, Chechnya) could lead to its fragmentation,
+      similar to post-WWI empires. He said: Russia’s unity is artificial; aiding its
+      regions’ self-determination would end the threat to Europe. Estonia’s Urmas Reinsalu,
+      Defense Minister (2019–2023) and current Foreign Minister, suggested in 2023 that
+      Europe’s long-term strategy should include “promoting democracy in Russia’s autonomous
+      regions” to foster independence, potentially “dividing the empire into manageable
+      parts.” This was framed as a response to hybrid threats. And then there is Kaja
+      Kallas… Although she has not explicitly called for actively “chopping up” Russia
+      through external intervention, which would risk nuclear escalation, she frames
+      Russia’s potential fragmentation as a possible long-term consequence of its imperial
+      overreach and defeat in Ukraine. She draws parallels to the Soviet Union’s collapse
+      in 1991, and she emphasizes that smaller, independent nations within Russia’s
+      borders (e.g., Tatarstan, Chechnya, or Siberian regions) could reduce the threat
+      posed by a centralized “big power.” Nothing to see here… Move along. While Kallas
+      clearly knows nothing about history, the Russians remember vividly the threat
+      posed by Europe. Over the course of 400 years, millions of Russians have died
+      fending off attacks from Europe. That is one possible reason that Russia does
+      not want to have anything to do with modern Europe… Just saying. I discussed the
+      current status of Trump’s ill-fated peace plan today with Danny Davis and with
+      Nima and Colonel Lawrence Wilkerson: I thank you for your invaluable support by
+      taking time to read or comment. I do not charge a subscription fee nor do I accept
+      advertising. I want the content to be accessible to everyone interested in the
+      issues I am discussing. However, if you wish to make a donation, please see this
+      link .'
+    one_sentence_summary: Kaja Kallas, the EU's High Representative for Foreign Affairs
+      and Security Policy, has consistently labeled Russia as an existential threat
+      to European security, advocating for increased defense investments and a strong
+      stance against Moscow to prevent further conflicts, particularly in light of the
+      ongoing war in Ukraine.
+    paragraph_summary: Kaja Kallas, the EU's High Representative for Foreign Affairs
+      and Security Policy and former Prime Minister of Estonia, has emerged as a prominent
+      critic of Russia, framing it as an "existential threat" to European security under
+      Vladimir Putin. She emphasizes the historical context of Russian invasions and
+      advocates for increased EU defense investments to diminish Russia's military capacity,
+      particularly in light of the ongoing war in Ukraine. Kallas argues that making
+      concessions to Russia could lead to greater instability in Europe. However, her
+      claims about Russia's aggression, including stating that it has attacked over
+      19 countries in the last century, have been challenged by historical accounts
+      that highlight numerous invasions of Russia by European powers and its role in
+      liberating territories during conflicts. The article suggests that Kallas's perspective
+      may overlook the complexities of historical interactions between Russia and Europe.
+    published: '2025-11-29T04:14:02+00:00'
+  - title: President Putin Reiterates June 14, 2024 Conditions for Ending the War with
+      Ukraine
+    url: https://sonar21.com/president-putin-reiterates-june-14-2024-conditions-for-ending-the-war-with-ukraine/
+    text: 'During a press conference in Bishkek, Kyrgyzstan, on November 27, 2025, following
+      the Collective Security Treaty Organization (CSTO) summit, Russian President Vladimir
+      Putin addressed Donald Trump’s proposed 28-point peace plan for the Ukraine conflict
+      for the first time in detail. The plan, which had been revised after input from
+      Ukrainian and European officials, was described by Putin as a potential starting
+      point for negotiations, but he emphasized that it required further refinement
+      and tied any ceasefire to major Ukrainian concessions. Putin stated that the U.S.-Ukraine
+      draft “could become the basis of future agreements” or “form the basis for a future
+      deal,” acknowledging that Washington appeared to be incorporating Russia’s positions.
+      He noted that a U.S. delegation, led by Trump’s envoy Steve Witkoff, would visit
+      Moscow in the coming week to discuss it further, and Russia was ready for “serious”
+      talks. However, he clarified there were “no draft agreements” yet—only a “set
+      of questions” for discussion. Putin also identified his chief negotiators… Putin
+      said : Obviously, the negotiator from the Russian side is the Ministry of Foreign
+      Affairs. When we really sit down at the negotiating table and start discussing
+      each of the proposed items in substance and in detail, the Foreign Ministry –
+      on our part, from the Presidential Executive Office – Vladimir Medinsky, Aide
+      to the President who has been engaged in that from the outset. I also included
+      my Aide, Yury Ushakov, to deal with current issues, to organise all this work,
+      he is in touch with his American counterparts. But he cannot deal with all of this
+      alone – the Foreign Ministry must step in and to some extent, the Presidential
+      Executive Office. This is a big, very extensive set of issues that need to be
+      discussed, formalised, and properly spelled out. Andrei Kolesnikov, a reporter
+      with the Kommersant daily , asked the following: Mr President, are you going to insist
+      that the territorial issue, above all in Donbass, should be resolved here and now,
+      and for good? Or, will you agree to postpone it, so to speak, until better days?
+      One more question, with your permission: would you agree to return to G7, the Group
+      of Eight, as one of the peace plan versions provides; that is, to all those people?
+      Putin first addressed the irrelevance of the G7: As for G7 or G8, we have never
+      asked to be there, we were invited there once and we worked there. It was a platform
+      for coordinating certain positions. I must say, you know, please take note, even
+      before the tragic events in Ukraine began, I stopped travelling there. Did you
+      notice? This is why, when the developments in Ukraine began, they said: “Well,
+      we are not expecting you there.” And good riddance… I do not remember who it was,
+      I think it was the Prime Minister who went there once. The first time I refused
+      was because really, I do not invent anything, it was when the Government was formed
+      after I was elected President, I think in 2012. However, we never reject contacts,
+      we are always open for interaction. First, nobody invites us there, I have not
+      heard of or received any official proposals. And second, we know how the great
+      majority of that association, called the Big Seven, and I have already said it
+      once that I do not quite understand why it is called the big seven: in terms of territory,
+      population and contribution to the global GDP they are getting smaller and smaller.
+      Well, it does not matter, they are our important partners anyway. In today’s situation
+      I just cannot imagine how we can interact directly. Can you imagine it? Well,
+      we’ve arrived, hello, and now we will be stare at each other, or what? Putin then
+      reiterated Russia’s June 14, 2024 demands, insisting that Ukrainian forces must
+      fully withdraw from the four regions claimed by Moscow (Donetsk, Luhansk, Kherson,
+      and Zaporizhia)—including areas not currently occupied by Russian troops—before
+      any ceasefire could be signed. He warned: “Ukrainian forces will have to leave
+      the territories they currently occupy, and then the fighting will stop. If they
+      don’t, we will achieve this by military means.” He added that Russia was prepared
+      to “fight to the last Ukrainian” if necessary. Putin also repeated Moscow’s long-standing
+      position that an unconditional ceasefire with Ukraine is out of the question :
+      We’re still receiving calls for a cessation of hostilities here, there, and there.
+      Ukrainian troops will withdraw from the territories they occupy, and then the
+      hostilities will cease. If they don’t withdraw, we’ll achieve this through military
+      means . There has been some wild speculation about a meeting earlier this week
+      in Abu Dhabi between representatives of the Russian and Ukrainian intelligence
+      services. Putin addressed that question as follows: As for the Abu Dhabi talks,
+      yes, I have heard some information noise on this score. But there was nothing
+      unusual, nothing secret happening there either. Our secret services, Russian and Ukrainian,
+      have always been in contact with each other, even in the hardest times. And they
+      are in contact now. What are they dealing with? They are resolving a number of humanitarian
+      issues, primarily related to the exchange of prisoners of war. The Abu Dhabi platform
+      is actively used for this purpose. We are very grateful to the President of the United
+      Arab Emirates for the opportunities extended to us. Thanks to his efforts, hundreds
+      of our men, our heroes, have returned to their homeland. At the initiative of the Ukrainian
+      side, one of such regular meetings was scheduled and took place in Abu Dhabi.
+      On our side, one of Russia’s FSB leaders attended it. A representative of the US
+      administration also came to this meeting. It was a bit unexpected for us, but
+      we never give up on contacts. He spoke with the Russian representative and wondered
+      if perhaps we should not wait until next week to continue contacts but rather
+      hold a meeting in Moscow this week. To sum it up, there has been no substantive
+      change in the position President Putin outlined at his 14 June 2024 meeting with
+      the Russian Foreign Ministry. If you are tired of the updates on the Trump peace
+      plan, you can listen to my analysis of what is going on in Venezuela. I recorded
+      this yesterday (Wednesday): I thank you for your invaluable support by taking
+      time to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: At a press conference in Bishkek, Russian President Vladimir
+      Putin acknowledged Donald Trump's revised 28-point peace plan for the Ukraine
+      conflict as a potential starting point for negotiations, contingent on significant
+      Ukrainian concessions, while indicating that further discussions would take place
+      with a U.S. delegation in Moscow.
+    paragraph_summary: During a press conference in Bishkek on November 27, 2025, Russian
+      President Vladimir Putin discussed Donald Trump's revised 28-point peace plan
+      for the Ukraine conflict, describing it as a potential starting point for negotiations
+      but emphasizing the need for further refinement and major Ukrainian concessions
+      for any ceasefire. He acknowledged that the U.S.-Ukraine draft could serve as
+      a basis for future agreements and noted that a U.S. delegation would visit Moscow
+      to discuss the plan in more detail. While expressing readiness for serious talks,
+      Putin clarified that there were no formal agreements yet, only a set of discussion
+      questions, and outlined the roles of his chief negotiators from the Foreign Ministry
+      and the Presidential Executive Office in the upcoming negotiations.
+    published: '2025-11-28T03:09:47+00:00'
+  - title: President Putin Reiterates June 14, 2024 Conditions for Ending the War with
+      Ukraine
+    url: https://sonar21.com/president-putin-reiterates-june-14-2024-conditions-for-ending-the-war-with-ukraine/
+    text: 'During a press conference in Bishkek, Kyrgyzstan, on November 27, 2025, following
+      the Collective Security Treaty Organization (CSTO) summit, Russian President Vladimir
+      Putin addressed Donald Trump’s proposed 28-point peace plan for the Ukraine conflict
+      for the first time in detail. The plan, which had been revised after input from
+      Ukrainian and European officials, was described by Putin as a potential starting
+      point for negotiations, but he emphasized that it required further refinement
+      and tied any ceasefire to major Ukrainian concessions. Putin stated that the U.S.-Ukraine
+      draft “could become the basis of future agreements” or “form the basis for a future
+      deal,” acknowledging that Washington appeared to be incorporating Russia’s positions.
+      He noted that a U.S. delegation, led by Trump’s envoy Steve Witkoff, would visit
+      Moscow in the coming week to discuss it further, and Russia was ready for “serious”
+      talks. However, he clarified there were “no draft agreements” yet—only a “set
+      of questions” for discussion. Putin also identified his chief negotiators… Putin
+      said : Obviously, the negotiator from the Russian side is the Ministry of Foreign
+      Affairs. When we really sit down at the negotiating table and start discussing
+      each of the proposed items in substance and in detail, the Foreign Ministry –
+      on our part, from the Presidential Executive Office – Vladimir Medinsky, Aide
+      to the President who has been engaged in that from the outset. I also included
+      my Aide, Yury Ushakov, to deal with current issues, to organise all this work,
+      he is in touch with his American counterparts. But he cannot deal with all of this
+      alone – the Foreign Ministry must step in and to some extent, the Presidential
+      Executive Office. This is a big, very extensive set of issues that need to be
+      discussed, formalised, and properly spelled out. Andrei Kolesnikov, a reporter
+      with the Kommersant daily , asked the following: Mr President, are you going to insist
+      that the territorial issue, above all in Donbass, should be resolved here and now,
+      and for good? Or, will you agree to postpone it, so to speak, until better days?
+      One more question, with your permission: would you agree to return to G7, the Group
+      of Eight, as one of the peace plan versions provides; that is, to all those people?
+      Putin first addressed the irrelevance of the G7: As for G7 or G8, we have never
+      asked to be there, we were invited there once and we worked there. It was a platform
+      for coordinating certain positions. I must say, you know, please take note, even
+      before the tragic events in Ukraine began, I stopped travelling there. Did you
+      notice? This is why, when the developments in Ukraine began, they said: “Well,
+      we are not expecting you there.” And good riddance… I do not remember who it was,
+      I think it was the Prime Minister who went there once. The first time I refused
+      was because really, I do not invent anything, it was when the Government was formed
+      after I was elected President, I think in 2012. However, we never reject contacts,
+      we are always open for interaction. First, nobody invites us there, I have not
+      heard of or received any official proposals. And second, we know how the great
+      majority of that association, called the Big Seven, and I have already said it
+      once that I do not quite understand why it is called the big seven: in terms of territory,
+      population and contribution to the global GDP they are getting smaller and smaller.
+      Well, it does not matter, they are our important partners anyway. In today’s situation
+      I just cannot imagine how we can interact directly. Can you imagine it? Well,
+      we’ve arrived, hello, and now we will be stare at each other, or what? Putin then
+      reiterated Russia’s June 14, 2024 demands, insisting that Ukrainian forces must
+      fully withdraw from the four regions claimed by Moscow (Donetsk, Luhansk, Kherson,
+      and Zaporizhia)—including areas not currently occupied by Russian troops—before
+      any ceasefire could be signed. He warned: “Ukrainian forces will have to leave
+      the territories they currently occupy, and then the fighting will stop. If they
+      don’t, we will achieve this by military means.” He added that Russia was prepared
+      to “fight to the last Ukrainian” if necessary. Putin also repeated Moscow’s long-standing
+      position that an unconditional ceasefire with Ukraine is out of the question :
+      We’re still receiving calls for a cessation of hostilities here, there, and there.
+      Ukrainian troops will withdraw from the territories they occupy, and then the
+      hostilities will cease. If they don’t withdraw, we’ll achieve this through military
+      means . There has been some wild speculation about a meeting earlier this week
+      in Abu Dhabi between representatives of the Russian and Ukrainian intelligence
+      services. Putin addressed that question as follows: As for the Abu Dhabi talks,
+      yes, I have heard some information noise on this score. But there was nothing
+      unusual, nothing secret happening there either. Our secret services, Russian and Ukrainian,
+      have always been in contact with each other, even in the hardest times. And they
+      are in contact now. What are they dealing with? They are resolving a number of humanitarian
+      issues, primarily related to the exchange of prisoners of war. The Abu Dhabi platform
+      is actively used for this purpose. We are very grateful to the President of the United
+      Arab Emirates for the opportunities extended to us. Thanks to his efforts, hundreds
+      of our men, our heroes, have returned to their homeland. At the initiative of the Ukrainian
+      side, one of such regular meetings was scheduled and took place in Abu Dhabi.
+      On our side, one of Russia’s FSB leaders attended it. A representative of the US
+      administration also came to this meeting. It was a bit unexpected for us, but
+      we never give up on contacts. He spoke with the Russian representative and wondered
+      if perhaps we should not wait until next week to continue contacts but rather
+      hold a meeting in Moscow this week. To sum it up, there has been no substantive
+      change in the position President Putin outlined at his 14 June 2024 meeting with
+      the Russian Foreign Ministry. If you are tired of the updates on the Trump peace
+      plan, you can listen to my analysis of what is going on in Venezuela. I recorded
+      this yesterday (Wednesday): I thank you for your invaluable support by taking
+      time to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: At a press conference in Bishkek, Russian President Vladimir
+      Putin acknowledged Donald Trump's revised 28-point peace plan for the Ukraine
+      conflict as a potential starting point for negotiations, contingent on significant
+      Ukrainian concessions, while indicating that further discussions would take place
+      with a U.S. delegation in Moscow.
+    paragraph_summary: During a press conference in Bishkek on November 27, 2025, Russian
+      President Vladimir Putin discussed Donald Trump's revised 28-point peace plan
+      for the Ukraine conflict, describing it as a potential starting point for negotiations
+      but emphasizing the need for further refinement and major Ukrainian concessions
+      for any ceasefire. He acknowledged that the U.S.-Ukraine draft could serve as
+      a basis for future agreements and noted that a U.S. delegation would visit Moscow
+      to discuss the plan in more detail. While expressing readiness for serious talks,
+      Putin clarified that there were no formal agreements yet, only a set of discussion
+      questions, and outlined the roles of his chief negotiators from the Foreign Ministry
+      and the Presidential Executive Office in the upcoming negotiations.
+    published: '2025-11-28T03:09:47+00:00'
+  - title: Why Europe No Longer Matters
+    url: https://sonar21.com/why-europe-no-longer-matters/
+    text: 'While there is no denying that Europe during the last 500 years was the foundation
+      of Western civilization and led the way in the industrial revolution and scientific
+      advancements, it also created a bloody colonial legacy that produced incalculable
+      human suffering across the globe. Europe, along with the United States, has ruled
+      the world financially for the last three centuries. But the sun is setting on
+      Europe. It is no longer relevant in the new financial and political order that
+      is forming in the Global south, with China and Russia playing critical roles in
+      the birth of this new world. Once a military powerhouse, Europe is not largely
+      impotent… Yes, the leading European nations, i.e. Germany, France and the United
+      Kingdom, still have some military power, but they have lost their status as major
+      industrial powers. Europe is largely bereft of critical natural resources, and
+      is dependent of foreign supplies of oil and gas. Europe, particularly the European
+      Union (EU-27 plus associated countries like the UK, Norway, and Switzerland in
+      trade data), is a major global grain producer, but relies on imports to bridge
+      gaps in domestic production, especially for feed grains like maize and specific
+      staples like rice. The EU’s grain sector is resilient overall, with a net export
+      surplus in broader agri-food trade (€70.1 billion in 2023), but imports play a
+      key role in stabilizing supply amid weather variability, high livestock feed demand,
+      and geopolitical shocks (e.g., Russia’s war in Ukraine disrupting Black Sea exports).
+      Dependence varies by grain type: the EU is a net exporter of wheat and barley
+      but a net importer of maize (corn) and rice. In summary, Europe is moderately
+      dependent (10–15% overall), acting as a net exporter but vulnerable to maize/feed
+      shortages and external shocks. In terms of military power, Europe is an impotent
+      paper tiger. The big three European powers in NATO — i.e., the United Kingdom,
+      France and Germany — can only muster a combined active-duty force of 506,000.
+      If we add in Turkey, which is not part of Europe politically but fields the second
+      largest army in NATO with 355,000 active duty personnel, we get a grand total
+      of 861,000. Now consider the ironic fact that the Europeans are demanding that
+      Russia agree to allow Ukraine to have an army of 800,000. Although Ukraine is
+      not a de jure member of NATO, it has been a de facto member since 1997. If Russia
+      were to agree to the European demand — and Moscow will not — Ukraine would have
+      the second largest military force in NATO, surpassing Turkey and standing second
+      to the United States. There are several factors that are relegating Europe into
+      the irrelevance category: stagnant, de-industrialized economies; fractured governments
+      saddled with serious financial debt; political balkanization, with governments
+      in the major countries ruled by minority parties that lack popular support; and
+      the decline of Christianity in many of the key countries. Consider the transformation
+      taking place in the UK… In 1950, approximately 85–90% of the UK population was
+      considered Christian, based on the best available historical data and church affiliation
+      metrics of the time. As of 2025, approximately 46% of the UK population identifies
+      as Christian, based on the most recent comprehensive data from the 2021 censuses
+      (England & Wales, Northern Ireland) and 2022 Scottish census, with no major UK-wide
+      census conducted in 2025. This figure reflects a continued decline from 59.5%
+      in 2011, driven by rising secularism (non-religious now ~38%) and immigration-related
+      diversity. So much for fighting for God and country. Donald Trump’s proposed peace
+      plan to end the war between Russia and Ukraine has exposed the impotence of Europe.
+      While many of the European states are still capable of causing mayhem, they are
+      left in the sad position of begging Trump for a seat at the negotiating table
+      and to be allowed the equivalent of a veto over any agreement seen as too favorable
+      to Russia. So far Trump is saying, “No,” which has infuriated many of the NATO
+      chiefs, but what can they do other than pout like an angry teenager? Europe is
+      a fading industrial, financial, cultural and military power. I think the main
+      reason that France, Germany and the UK are so terrified of the impending defeat
+      of Ukraine by Russia is that it will force them to accept the fact that they are
+      no longer relevant. The most risible claim by the European warmongers is that
+      Russia wants to conquer and occupy Europe… Why? Europe no longer has anything
+      that Russia needs or wants. It was a busy podcast day… I chatted with Hakan Bergmark
+      in Norway, David Oualaalou in the US, Rasheed Mohammed in the Panhandle of Florida,
+      and Jelena and Zinderneuf, with Jelena based in the Nordic region. Most of the
+      discussion centered on the Trump peace plan and the European meltdown: I thank
+      you for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: Europe, once the epicenter of Western civilization and industrial
+      progress, is now losing its global relevance and power as emerging nations like
+      China and Russia reshape the financial and political landscape, leaving Europe
+      dependent on foreign resources and diminished in military and industrial strength.
+    paragraph_summary: The article discusses Europe's historical significance as the
+      foundation of Western civilization and its role in the industrial revolution,
+      while also acknowledging its colonial legacy that caused immense global suffering.
+      Despite its past dominance, Europe is now losing relevance in the emerging financial
+      and political landscape dominated by the Global South, particularly China and
+      Russia. The continent, once a military powerhouse, has diminished in industrial
+      strength and is heavily reliant on foreign resources, especially for oil, gas,
+      and certain agricultural products. While the European Union maintains a net export
+      surplus in agri-food trade, it remains vulnerable to external shocks and supply
+      shortages, particularly in maize and rice. Overall, Europe is depicted as a moderately
+      dependent region with limited military power, characterized as a "paper tiger"
+      in the context of NATO.
+    published: '2025-11-27T05:23:30+00:00'
+  - title: Why Europe No Longer Matters
+    url: https://sonar21.com/why-europe-no-longer-matters/
+    text: 'While there is no denying that Europe during the last 500 years was the foundation
+      of Western civilization and led the way in the industrial revolution and scientific
+      advancements, it also created a bloody colonial legacy that produced incalculable
+      human suffering across the globe. Europe, along with the United States, has ruled
+      the world financially for the last three centuries. But the sun is setting on
+      Europe. It is no longer relevant in the new financial and political order that
+      is forming in the Global south, with China and Russia playing critical roles in
+      the birth of this new world. Once a military powerhouse, Europe is not largely
+      impotent… Yes, the leading European nations, i.e. Germany, France and the United
+      Kingdom, still have some military power, but they have lost their status as major
+      industrial powers. Europe is largely bereft of critical natural resources, and
+      is dependent of foreign supplies of oil and gas. Europe, particularly the European
+      Union (EU-27 plus associated countries like the UK, Norway, and Switzerland in
+      trade data), is a major global grain producer, but relies on imports to bridge
+      gaps in domestic production, especially for feed grains like maize and specific
+      staples like rice. The EU’s grain sector is resilient overall, with a net export
+      surplus in broader agri-food trade (€70.1 billion in 2023), but imports play a
+      key role in stabilizing supply amid weather variability, high livestock feed demand,
+      and geopolitical shocks (e.g., Russia’s war in Ukraine disrupting Black Sea exports).
+      Dependence varies by grain type: the EU is a net exporter of wheat and barley
+      but a net importer of maize (corn) and rice. In summary, Europe is moderately
+      dependent (10–15% overall), acting as a net exporter but vulnerable to maize/feed
+      shortages and external shocks. In terms of military power, Europe is an impotent
+      paper tiger. The big three European powers in NATO — i.e., the United Kingdom,
+      France and Germany — can only muster a combined active-duty force of 506,000.
+      If we add in Turkey, which is not part of Europe politically but fields the second
+      largest army in NATO with 355,000 active duty personnel, we get a grand total
+      of 861,000. Now consider the ironic fact that the Europeans are demanding that
+      Russia agree to allow Ukraine to have an army of 800,000. Although Ukraine is
+      not a de jure member of NATO, it has been a de facto member since 1997. If Russia
+      were to agree to the European demand — and Moscow will not — Ukraine would have
+      the second largest military force in NATO, surpassing Turkey and standing second
+      to the United States. There are several factors that are relegating Europe into
+      the irrelevance category: stagnant, de-industrialized economies; fractured governments
+      saddled with serious financial debt; political balkanization, with governments
+      in the major countries ruled by minority parties that lack popular support; and
+      the decline of Christianity in many of the key countries. Consider the transformation
+      taking place in the UK… In 1950, approximately 85–90% of the UK population was
+      considered Christian, based on the best available historical data and church affiliation
+      metrics of the time. As of 2025, approximately 46% of the UK population identifies
+      as Christian, based on the most recent comprehensive data from the 2021 censuses
+      (England & Wales, Northern Ireland) and 2022 Scottish census, with no major UK-wide
+      census conducted in 2025. This figure reflects a continued decline from 59.5%
+      in 2011, driven by rising secularism (non-religious now ~38%) and immigration-related
+      diversity. So much for fighting for God and country. Donald Trump’s proposed peace
+      plan to end the war between Russia and Ukraine has exposed the impotence of Europe.
+      While many of the European states are still capable of causing mayhem, they are
+      left in the sad position of begging Trump for a seat at the negotiating table
+      and to be allowed the equivalent of a veto over any agreement seen as too favorable
+      to Russia. So far Trump is saying, “No,” which has infuriated many of the NATO
+      chiefs, but what can they do other than pout like an angry teenager? Europe is
+      a fading industrial, financial, cultural and military power. I think the main
+      reason that France, Germany and the UK are so terrified of the impending defeat
+      of Ukraine by Russia is that it will force them to accept the fact that they are
+      no longer relevant. The most risible claim by the European warmongers is that
+      Russia wants to conquer and occupy Europe… Why? Europe no longer has anything
+      that Russia needs or wants. It was a busy podcast day… I chatted with Hakan Bergmark
+      in Norway, David Oualaalou in the US, Rasheed Mohammed in the Panhandle of Florida,
+      and Jelena and Zinderneuf, with Jelena based in the Nordic region. Most of the
+      discussion centered on the Trump peace plan and the European meltdown: I thank
+      you for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: Europe, once the epicenter of Western civilization and industrial
+      progress, is now losing its global relevance and power as emerging nations like
+      China and Russia reshape the financial and political landscape, leaving Europe
+      dependent on foreign resources and diminished in military and industrial strength.
+    paragraph_summary: The article discusses Europe's historical significance as the
+      foundation of Western civilization and its role in the industrial revolution,
+      while also acknowledging its colonial legacy that caused immense global suffering.
+      Despite its past dominance, Europe is now losing relevance in the emerging financial
+      and political landscape dominated by the Global South, particularly China and
+      Russia. The continent, once a military powerhouse, has diminished in industrial
+      strength and is heavily reliant on foreign resources, especially for oil, gas,
+      and certain agricultural products. While the European Union maintains a net export
+      surplus in agri-food trade, it remains vulnerable to external shocks and supply
+      shortages, particularly in maize and rice. Overall, Europe is depicted as a moderately
+      dependent region with limited military power, characterized as a "paper tiger"
+      in the context of NATO.
+    published: '2025-11-27T05:23:30+00:00'
+  - title: The West is Still in Denial… Refusing to Understand the Meaning of Demilitarize
+      and Denazify
+    url: https://sonar21.com/the-west-is-still-in-denial-refusing-to-understand-the-meaning-of-demilitarize-and-denazify/
+    text: 'Ukrainian Logistics Center… Before and After Russian Strike From the start
+      of the Special Military Operation (SMO) in February 2022, Russia has been unequivocal
+      in its objectives: demilitarize and denazify Ukraine. The US and its NATO allies,
+      however, apparently do not believe that Russia is serious about this. If the reports
+      about the Trump peace plan are accurate, then Trump’s plan will be rejected by
+      Putin. There is no room for negotiation on these two points. Western media report,
+      citing senior officials following talks in Geneva, claim that Ukraine agrees to
+      limit the number of its armed forces to 800,000 soldiers… That is a non-starter
+      for Russia because it would require Russia to accept Ukraine having a larger military
+      than it had at the start of the SMO. On February 22, 2022—the day before Russia’s
+      full-scale invasion—Ukraine’s military was undergoing reforms to modernize and
+      expand its forces, but it remained smaller and less equipped than Russia’s. Data
+      from authoritative sources like the International Institute for Strategic Studies
+      (IISS) The Military Balance 2022 , and contemporary reports, estimated Ukraine’s
+      core standing army, including ground, air, naval, and support units to be 196,000
+      in February 2022; Ukrainian Defense Minister later referenced 261,000 as the baseline
+      at the start of the SMO . Ukraine also had 900,000 reservists, which included
+      former conscripts and territorial defense volunteers. As I noted in an earlier
+      article on the Trump peace plan, Russia and Ukraine agreed during their negotiations
+      in Istanbul in March 2022 to cap Ukraine’s military at 85,000. Given that Russia
+      is now successfully attacking Ukrainian positions along eight separate axes (i.e.,
+      the plural of axis ), Moscow has zero incentive to agree to a plan that would
+      effectively leave Ukraine with the same size military force that it had at the
+      start of the SMO . The issue of the size of Ukraine’s military is not the only
+      obstacle to a diplomatic settlement of the war… Points concerning territories
+      and security guarantees for Ukraine remain unresolved. Foreign Minister Lavrov
+      was quite clear about Russia’s position in comments to reporters on Tuesday in
+      Moscow : Russian Foreign Minister Sergei Lavrov said he expected the Americans
+      to soon present to Russia their interim version of the deal following input from
+      the Ukrainians and Europeans. But he warned that if it strayed from what Putin
+      demanded in August when he met Trump inAlaska, there would be a problem. “Because
+      if the spirit and letter of the Anchorage agreement are erased, based on the key
+      understandings contained therein, then, of course, we’ll be in a fundamentally
+      different situation,” he said. One of those key elements concerns the status of
+      Crimea, Zaporizhzhia, Kherson, Donetsk and Luhansk. Under the Russian Constitution,
+      as amended and updated following the 2022 annexation process, Donetsk, Luhansk,
+      Zaporizhzhia, and Kherson are formally recognized as federal subjects (constituents)
+      of the Russian Federation. This status was established through a series of legal
+      steps in September–October 2022, integrating these territories (referred to as
+      the Donetsk People’s Republic, Luhansk People’s Republic, Zaporizhzhia Oblast,
+      and Kherson Oblast) into Russia’s constitutional framework. Residents are considered
+      Russian citizens from September 30, 2022, onward. Vladimir Putin does not have
+      the legal authority to unilaterally reverse that decision. President Putin make
+      it clear to Donald Trump that those territories must be recognized as permanently
+      part of the Russian Federation. Then there is the issue of denazification . This
+      means the removal of the “neo-Nazi regime” that seized power in Kyiv in 2014,
+      that persecutes Russian-speakers, and that threatens Russia. The Kremlin points
+      to far-right groups (Azov Battalion, Right Sector, Svoboda party), Holocaust-denial
+      incidents, and the glorification of WWII collaborators (Stepan Bandera, Roman
+      Shukhevych, UPA) as proof that Ukraine is ruled or heavily influenced by Nazis.
+      If it walks like a duck and quacks like a duck, it is reasonable to assume that
+      the bird is a duck. The same logic applies to the term, Nazi . In other words,
+      denazification means the removal of those who defend Nazi views and the prohibition
+      of Nazi ideology on the territory of Ukraine. Zelensky and his crew will refuse
+      to accept this condition, but Russia will not relent… The memory of the Great
+      Patriotic War and the murder of 27 million Russians by Nazi forces has left a
+      permanent scar of the Russian soul. As far as President Putin is concerned, this
+      is not an idle political slogan. Achieving this diplomatically means that Ukraine
+      must hold new, internationally supervised elections, and the participants in those
+      elections must have no affiliation with neo-Nazi groups or ideology. While the
+      Russians would like to achieve this through diplomatic measures and negotiation,
+      I believe that President Putin and the Russian General Staff understand that the
+      only practical way to satisfy this objective will be through the use of military
+      force and the total defeat of the Zelensky government. The Ukrainians and the
+      European leaders still believe that they can compel Donald Trump to reject Russia’s
+      conditions regarding the Ukrainian military and the need to denazify Ukraine.
+      Zelensky stated that he is ready to meet with Trump, but only in the presence
+      of Europeans. He told reporters on Tuesday: I am ready to meet with President
+      Trump – there are delicate issues to discuss. But European partners must be present
+      with me at the negotiations. I will take that as a benchmark for judging whether
+      or not President Trump is serious about securing a peace deal that is acceptable
+      to Russia… If he caves to Zelensky and allows the Europeans to participate in
+      the negotiations, then the peace plan is dead. Personally, I believe all the Sturm
+      und Drang surrounding the peace plan is just a distraction cooked up by a White
+      House desperate to avoid the military defeat of Ukraine and, by extension, NATO.
+      It is a futile and feckless exercise… While the talks go on, Russian forces continue
+      to advance all along the line of contact. Ukraine’s defeat is inevitable… it is
+      merely a question of how many more Ukrainian soldiers will die before the reality
+      of that defeat is grasped by Trump and his NATO allies. I am posting two great
+      videos that were recorded last week during my visit to Moscow. The first is with
+      Lt. General Apti Alaudinov. Pepe Escobar, Alexander Kazakov and I conducted the
+      interview. The second is just me with Vasily Prozorov, a former Colonel in Ukraine’s
+      SBU. Colonel Prozorov began spying for Russia’s security service after the Maidan
+      Coup in February 2014 and he defected to Russia in 2018. I thank you for your
+      invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: The article discusses the ongoing conflict between Russia
+      and Ukraine, emphasizing Russia's firm objectives of demilitarization and denazification,
+      the skepticism of the US and NATO regarding Russia's intentions, and the challenges
+      surrounding potential peace negotiations, particularly regarding Ukraine's military
+      size.
+    paragraph_summary: The article discusses the ongoing conflict between Russia and
+      Ukraine, highlighting Russia's stated objectives of demilitarizing and denazifying
+      Ukraine since the onset of the Special Military Operation (SMO) in February 2022.
+      It notes skepticism from the US and NATO regarding Russia's intentions and mentions
+      a proposed peace plan by Trump that is likely to be rejected by Putin due to its
+      stipulations on Ukraine's military size. Reports indicate that Ukraine is willing
+      to limit its armed forces to 800,000, which Russia finds unacceptable as it would
+      exceed Ukraine's military capacity at the start of the SMO. The article also references
+      Ukraine's military reforms and the agreed cap of 85,000 troops from earlier negotiations,
+      emphasizing that the size of Ukraine's military remains a significant barrier
+      to achieving a diplomatic resolution to the conflict.
+    published: '2025-11-26T06:05:34+00:00'
+  - title: The West is Still in Denial… Refusing to Understand the Meaning of Demilitarize
+      and Denazify
+    url: https://sonar21.com/the-west-is-still-in-denial-refusing-to-understand-the-meaning-of-demilitarize-and-denazify/
+    text: 'Ukrainian Logistics Center… Before and After Russian Strike From the start
+      of the Special Military Operation (SMO) in February 2022, Russia has been unequivocal
+      in its objectives: demilitarize and denazify Ukraine. The US and its NATO allies,
+      however, apparently do not believe that Russia is serious about this. If the reports
+      about the Trump peace plan are accurate, then Trump’s plan will be rejected by
+      Putin. There is no room for negotiation on these two points. Western media report,
+      citing senior officials following talks in Geneva, claim that Ukraine agrees to
+      limit the number of its armed forces to 800,000 soldiers… That is a non-starter
+      for Russia because it would require Russia to accept Ukraine having a larger military
+      than it had at the start of the SMO. On February 22, 2022—the day before Russia’s
+      full-scale invasion—Ukraine’s military was undergoing reforms to modernize and
+      expand its forces, but it remained smaller and less equipped than Russia’s. Data
+      from authoritative sources like the International Institute for Strategic Studies
+      (IISS) The Military Balance 2022 , and contemporary reports, estimated Ukraine’s
+      core standing army, including ground, air, naval, and support units to be 196,000
+      in February 2022; Ukrainian Defense Minister later referenced 261,000 as the baseline
+      at the start of the SMO . Ukraine also had 900,000 reservists, which included
+      former conscripts and territorial defense volunteers. As I noted in an earlier
+      article on the Trump peace plan, Russia and Ukraine agreed during their negotiations
+      in Istanbul in March 2022 to cap Ukraine’s military at 85,000. Given that Russia
+      is now successfully attacking Ukrainian positions along eight separate axes (i.e.,
+      the plural of axis ), Moscow has zero incentive to agree to a plan that would
+      effectively leave Ukraine with the same size military force that it had at the
+      start of the SMO . The issue of the size of Ukraine’s military is not the only
+      obstacle to a diplomatic settlement of the war… Points concerning territories
+      and security guarantees for Ukraine remain unresolved. Foreign Minister Lavrov
+      was quite clear about Russia’s position in comments to reporters on Tuesday in
+      Moscow : Russian Foreign Minister Sergei Lavrov said he expected the Americans
+      to soon present to Russia their interim version of the deal following input from
+      the Ukrainians and Europeans. But he warned that if it strayed from what Putin
+      demanded in August when he met Trump inAlaska, there would be a problem. “Because
+      if the spirit and letter of the Anchorage agreement are erased, based on the key
+      understandings contained therein, then, of course, we’ll be in a fundamentally
+      different situation,” he said. One of those key elements concerns the status of
+      Crimea, Zaporizhzhia, Kherson, Donetsk and Luhansk. Under the Russian Constitution,
+      as amended and updated following the 2022 annexation process, Donetsk, Luhansk,
+      Zaporizhzhia, and Kherson are formally recognized as federal subjects (constituents)
+      of the Russian Federation. This status was established through a series of legal
+      steps in September–October 2022, integrating these territories (referred to as
+      the Donetsk People’s Republic, Luhansk People’s Republic, Zaporizhzhia Oblast,
+      and Kherson Oblast) into Russia’s constitutional framework. Residents are considered
+      Russian citizens from September 30, 2022, onward. Vladimir Putin does not have
+      the legal authority to unilaterally reverse that decision. President Putin make
+      it clear to Donald Trump that those territories must be recognized as permanently
+      part of the Russian Federation. Then there is the issue of denazification . This
+      means the removal of the “neo-Nazi regime” that seized power in Kyiv in 2014,
+      that persecutes Russian-speakers, and that threatens Russia. The Kremlin points
+      to far-right groups (Azov Battalion, Right Sector, Svoboda party), Holocaust-denial
+      incidents, and the glorification of WWII collaborators (Stepan Bandera, Roman
+      Shukhevych, UPA) as proof that Ukraine is ruled or heavily influenced by Nazis.
+      If it walks like a duck and quacks like a duck, it is reasonable to assume that
+      the bird is a duck. The same logic applies to the term, Nazi . In other words,
+      denazification means the removal of those who defend Nazi views and the prohibition
+      of Nazi ideology on the territory of Ukraine. Zelensky and his crew will refuse
+      to accept this condition, but Russia will not relent… The memory of the Great
+      Patriotic War and the murder of 27 million Russians by Nazi forces has left a
+      permanent scar of the Russian soul. As far as President Putin is concerned, this
+      is not an idle political slogan. Achieving this diplomatically means that Ukraine
+      must hold new, internationally supervised elections, and the participants in those
+      elections must have no affiliation with neo-Nazi groups or ideology. While the
+      Russians would like to achieve this through diplomatic measures and negotiation,
+      I believe that President Putin and the Russian General Staff understand that the
+      only practical way to satisfy this objective will be through the use of military
+      force and the total defeat of the Zelensky government. The Ukrainians and the
+      European leaders still believe that they can compel Donald Trump to reject Russia’s
+      conditions regarding the Ukrainian military and the need to denazify Ukraine.
+      Zelensky stated that he is ready to meet with Trump, but only in the presence
+      of Europeans. He told reporters on Tuesday: I am ready to meet with President
+      Trump – there are delicate issues to discuss. But European partners must be present
+      with me at the negotiations. I will take that as a benchmark for judging whether
+      or not President Trump is serious about securing a peace deal that is acceptable
+      to Russia… If he caves to Zelensky and allows the Europeans to participate in
+      the negotiations, then the peace plan is dead. Personally, I believe all the Sturm
+      und Drang surrounding the peace plan is just a distraction cooked up by a White
+      House desperate to avoid the military defeat of Ukraine and, by extension, NATO.
+      It is a futile and feckless exercise… While the talks go on, Russian forces continue
+      to advance all along the line of contact. Ukraine’s defeat is inevitable… it is
+      merely a question of how many more Ukrainian soldiers will die before the reality
+      of that defeat is grasped by Trump and his NATO allies. I am posting two great
+      videos that were recorded last week during my visit to Moscow. The first is with
+      Lt. General Apti Alaudinov. Pepe Escobar, Alexander Kazakov and I conducted the
+      interview. The second is just me with Vasily Prozorov, a former Colonel in Ukraine’s
+      SBU. Colonel Prozorov began spying for Russia’s security service after the Maidan
+      Coup in February 2014 and he defected to Russia in 2018. I thank you for your
+      invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: The article discusses the ongoing conflict between Russia
+      and Ukraine, emphasizing Russia's firm objectives of demilitarization and denazification,
+      the skepticism of the US and NATO regarding Russia's intentions, and the challenges
+      surrounding potential peace negotiations, particularly regarding Ukraine's military
+      size.
+    paragraph_summary: The article discusses the ongoing conflict between Russia and
+      Ukraine, highlighting Russia's stated objectives of demilitarizing and denazifying
+      Ukraine since the onset of the Special Military Operation (SMO) in February 2022.
+      It notes skepticism from the US and NATO regarding Russia's intentions and mentions
+      a proposed peace plan by Trump that is likely to be rejected by Putin due to its
+      stipulations on Ukraine's military size. Reports indicate that Ukraine is willing
+      to limit its armed forces to 800,000, which Russia finds unacceptable as it would
+      exceed Ukraine's military capacity at the start of the SMO. The article also references
+      Ukraine's military reforms and the agreed cap of 85,000 troops from earlier negotiations,
+      emphasizing that the size of Ukraine's military remains a significant barrier
+      to achieving a diplomatic resolution to the conflict.
+    published: '2025-11-26T06:05:34+00:00'
   - title: Trump Administration is Letting Europe Kill Its Proposed Russia/Ukrainian
       Peace Plan
     url: https://sonar21.com/trump-administration-is-killing-its-proposed-russia-ukrainian-peace-plan/

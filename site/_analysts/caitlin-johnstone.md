@@ -7,17 +7,1044 @@ description: "Australian satirical anti–war journalist; reader–funded Substa
 websites:
   - https://www.caitlinjohnst.one/
 summary: |
-  The past week has seen escalating tensions and ongoing violence in Gaza, persistent concerns about media manipulation, and growing skepticism about systemic solutions to global crises. The situation remains volatile, with new developments highlighting the complexity and urgency of these issues.
+  As tensions escalate in the Americas, the United States under President Trump is reportedly weighing military options to force regime change in Venezuela. This development follows a series of provocative moves, including Trump’s declaration of Venezuelan airspace as "closed" and a media campaign linking Venezuela’s government to international drug trafficking and jihadist networks. **Caitlin Johnstone** notes that these narratives are being pushed despite widespread domestic opposition to intervention, with the majority of Americans against military action.
   
-  Most recently, **Caitlin Johnstone** reported on a deadly Israeli Defense Forces (IDF) attack in Gaza, which Israel justified as retaliation for a supposed ceasefire violation by Hamas. However, Johnstone notes the lack of evidence for this claim and the absence of any Israeli casualties, raising questions about the legitimacy of Israel’s narrative and the broader conduct of the operation. This follows earlier reports of the IDF moving boundary lines within Gaza and targeting Palestinians for crossing these newly imposed borders, including a disturbing incident where a Palestinian boy was shot in the face with a teargas canister.
+  The timing of these reports is notable. The Wall Street Journal’s recent article tying Venezuela’s alleged drug trade to African jihadist groups coincided with Trump’s ultimatum to President Maduro, framing U.S. pressure as a global security issue. **Johnstone** highlights the use of such narratives as classic war propaganda, designed to justify intervention and rally European support by presenting the crisis as an international concern.
   
-  On the information front, Johnstone has called for urgent legal action against the use of generative AI to deceive the public, arguing that “it should be illegal to use AI to deceive people.” She advocates for severe penalties for companies that fail to prevent the spread of fake content, and for mandatory warnings on all AI-generated materials. This reflects broader anxieties about the erosion of trust in media and the weaponization of new technologies to manipulate public perception.
+  Meanwhile, the broader context is marked by skepticism toward the effectiveness and motives of U.S. regime change operations. Past interventions have often led to instability and humanitarian crises, a pattern that **Johnstone** argues is being overlooked in the current push for action against Venezuela.
   
-  Meanwhile, there is a growing recognition that systemic change will not come from external actors or technological fixes. As Johnstone puts it, “nobody’s coming to humanity’s rescue; we’ve got to save ourselves,” emphasizing the need for grassroots action and collective responsibility in the face of mounting global challenges.
-  
-  **Trends and Predictions:**  
-  The majority of sources agree that the situation in Gaza is likely to deteriorate further, with little hope for a meaningful ceasefire or accountability for human rights abuses in the near term. There is a high chance that information warfare—both through traditional media and AI-generated content—will intensify, further polarizing public opinion and complicating efforts to reach consensus or resolution. Most definitely, grassroots activism and independent journalism will play an increasingly important role in challenging dominant narratives and pushing for systemic change, but the path forward remains fraught with obstacles.
+  Looking ahead, the trend toward militarized U.S. foreign policy in Latin America is likely to intensify, especially as media campaigns continue to shape public perception. There is a high chance that, barring significant domestic pushback or international resistance, the U.S. will escalate its efforts to oust the Maduro government—most definitely through increased pressure, and quite likely through direct or indirect military involvement. The majority opinion among independent analysts remains deeply critical of these moves, warning of disastrous consequences for both Venezuela and the broader region.
 articles:
+  - title: World's Most Tyrannical Government Wants To Free Venezuela From Tyranny
+    url: https://www.caitlinjohnst.one/p/worlds-most-tyrannical-government
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      President Trump has been holding talks with top advisors this week regarding potential
+      US attacks on Venezuela in order to bring about regime change in yet another oil-rich
+      nation. As the western political/media class frames Venezuela’s President Maduro
+      as a “dictator” who must urgently be removed from power, it is worth noting that
+      any US military operation to remove him would be taking place directly against
+      the will of the American public. A recent CBS News poll found that seventy percent
+      of Americans “would oppose” the US taking military action against Venezuela. So
+      here we have the president of a nation which calls itself a democracy, holding
+      meetings to plan military operations which are completely and unambiguously against
+      the wishes of the electorate, in the name of removing a dictator and spreading
+      freedom and democracy. Interesting. https://x.com/Antiwarcom/status/1995658176662814992
+      Whenever I see the US empire saying they plan to remove the latest Official Bad
+      Guy from power in order to liberate a nation from tyranny, I always want to ask,
+      what is tyranny? Is it tyranny to constantly topple foreign governments by force
+      if their leaders disobey you? Is it tyranny to circle the planet with hundreds
+      of military bases in order to dominate all of humanity? Is it tyranny to continuously
+      be inflicting mass military slaughter, backing genocides, staging foreign coups,
+      fomenting unrest and uprisings in foreign nations, meddling in foreign elections,
+      funding proxy conflicts, imposing blockades and starvation sanctions on civilian
+      populations, and engaging in nuclear brinkmanship in order to rule the world?
+      Is it tyranny to treat the entire global south as your personal piggy bank from
+      which to extract limitless labor and resources and murder anyone who tries to
+      inhibit these practices through any movement toward national sovereignty? Because
+      if it is, it’s a bit silly for the US to claim to be liberating any nation from
+      tyranny. Kinda like a morbidly obese man coming up to you and saying he’ll train
+      you to shed those extra pounds. It’s like Nick Fuentes offering cultural sensitivity
+      training workshops. It’s like the Green River Killer publishing a book on the
+      the importance of combating toxic masculinity. The US empire is the most tyrannical
+      power structure on earth, by an extremely massive margin. There is no close second
+      place in contention. Nobody else is brutalizing and terrorizing the entire planet
+      into compliance with its dictates. No other power is constantly assaulting any
+      government or population anywhere on earth that doesn’t bow to its demands. Only
+      the US empire can be said to be guilty of this . Even if Maduro really was the
+      worst dictator on earth (he’s not), and even if this push for regime change really
+      had anything to do with liberating the Venezuelan people (it doesn’t), and even
+      if you could make a convincing argument that regime change interventionism would
+      probably make things better for Venezuelans (you can’t), the US would be the last
+      government on earth with any business doing so. The world’s most tyrannical power
+      structure has no business trying to liberate anyone from tyranny. If the US empire
+      wants to make the world less tyrannical, its first and only move should be to
+      dismantle itself. _________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. My work is entirely reader-supported , so if you enjoyed this
+      piece here are some options where you can toss some money into my tip jar if you
+      want to. The best way to make sure you see everything I write is to get on my
+      free mailing list . Click here for links for my social media, books, merch, and
+      audio/video versions of each article . All my work is free to bootleg and use
+      in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image is a screen grab from The White
+      House .'
+    one_sentence_summary: President Trump is reportedly discussing potential military
+      actions against Venezuela to effect regime change, despite a significant majority
+      of Americans opposing such interventions.
+    paragraph_summary: President Trump has been discussing potential military actions
+      against Venezuela with his advisors, aiming for regime change in a country framed
+      by Western media as being under a "dictator," President Maduro. However, a recent
+      CBS News poll indicates that 70% of Americans oppose such military intervention,
+      highlighting a disconnect between government actions and public opinion. The article
+      critiques the U.S. government's justification for military interventions, questioning
+      the definition of tyranny and pointing out the hypocrisy of a nation that promotes
+      democracy while engaging in practices like foreign coups, military dominance,
+      and exploitation of resources in other countries.
+    published: '2025-12-03T01:48:28+00:00'
+  - title: World's Most Tyrannical Government Wants To Free Venezuela From Tyranny
+    url: https://www.caitlinjohnst.one/p/worlds-most-tyrannical-government
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      President Trump has been holding talks with top advisors this week regarding potential
+      US attacks on Venezuela in order to bring about regime change in yet another oil-rich
+      nation. As the western political/media class frames Venezuela’s President Maduro
+      as a “dictator” who must urgently be removed from power, it is worth noting that
+      any US military operation to remove him would be taking place directly against
+      the will of the American public. A recent CBS News poll found that seventy percent
+      of Americans “would oppose” the US taking military action against Venezuela. So
+      here we have the president of a nation which calls itself a democracy, holding
+      meetings to plan military operations which are completely and unambiguously against
+      the wishes of the electorate, in the name of removing a dictator and spreading
+      freedom and democracy. Interesting. https://x.com/Antiwarcom/status/1995658176662814992
+      Whenever I see the US empire saying they plan to remove the latest Official Bad
+      Guy from power in order to liberate a nation from tyranny, I always want to ask,
+      what is tyranny? Is it tyranny to constantly topple foreign governments by force
+      if their leaders disobey you? Is it tyranny to circle the planet with hundreds
+      of military bases in order to dominate all of humanity? Is it tyranny to continuously
+      be inflicting mass military slaughter, backing genocides, staging foreign coups,
+      fomenting unrest and uprisings in foreign nations, meddling in foreign elections,
+      funding proxy conflicts, imposing blockades and starvation sanctions on civilian
+      populations, and engaging in nuclear brinkmanship in order to rule the world?
+      Is it tyranny to treat the entire global south as your personal piggy bank from
+      which to extract limitless labor and resources and murder anyone who tries to
+      inhibit these practices through any movement toward national sovereignty? Because
+      if it is, it’s a bit silly for the US to claim to be liberating any nation from
+      tyranny. Kinda like a morbidly obese man coming up to you and saying he’ll train
+      you to shed those extra pounds. It’s like Nick Fuentes offering cultural sensitivity
+      training workshops. It’s like the Green River Killer publishing a book on the
+      the importance of combating toxic masculinity. The US empire is the most tyrannical
+      power structure on earth, by an extremely massive margin. There is no close second
+      place in contention. Nobody else is brutalizing and terrorizing the entire planet
+      into compliance with its dictates. No other power is constantly assaulting any
+      government or population anywhere on earth that doesn’t bow to its demands. Only
+      the US empire can be said to be guilty of this . Even if Maduro really was the
+      worst dictator on earth (he’s not), and even if this push for regime change really
+      had anything to do with liberating the Venezuelan people (it doesn’t), and even
+      if you could make a convincing argument that regime change interventionism would
+      probably make things better for Venezuelans (you can’t), the US would be the last
+      government on earth with any business doing so. The world’s most tyrannical power
+      structure has no business trying to liberate anyone from tyranny. If the US empire
+      wants to make the world less tyrannical, its first and only move should be to
+      dismantle itself. _________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. My work is entirely reader-supported , so if you enjoyed this
+      piece here are some options where you can toss some money into my tip jar if you
+      want to. The best way to make sure you see everything I write is to get on my
+      free mailing list . Click here for links for my social media, books, merch, and
+      audio/video versions of each article . All my work is free to bootleg and use
+      in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image is a screen grab from The White
+      House .'
+    one_sentence_summary: President Trump is reportedly discussing potential military
+      actions against Venezuela to effect regime change, despite a significant majority
+      of Americans opposing such interventions.
+    paragraph_summary: President Trump has been discussing potential military actions
+      against Venezuela with his advisors, aiming for regime change in a country framed
+      by Western media as being under a "dictator," President Maduro. However, a recent
+      CBS News poll indicates that 70% of Americans oppose such military intervention,
+      highlighting a disconnect between government actions and public opinion. The article
+      critiques the U.S. government's justification for military interventions, questioning
+      the definition of tyranny and pointing out the hypocrisy of a nation that promotes
+      democracy while engaging in practices like foreign coups, military dominance,
+      and exploitation of resources in other countries.
+    published: '2025-12-03T01:48:28+00:00'
+  - title: Ah, Good Old War Propaganda
+    url: https://www.caitlinjohnst.one/p/ah-good-old-war-propaganda
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Just as the news breaks that Trump has issued Maduro an ultimatum to leave Venezuela
+      immediately if he wants to escape with his life, the Murdoch-owned Wall Street
+      Journal has published an amazingly brazen war propaganda piece titled “ How Venezuelan
+      Gangs and African Jihadists Are Flooding Europe With Cocaine .” “Venezuela has
+      become a major launchpad for huge volumes of cocaine shipped to West Africa, where
+      jihadists are helping traffic it to Europe in record quantities,” the article
+      begins, going out of its way to note that “the Trump administration’s pressure
+      campaign against Venezuelan leader Nicolás Maduro — who it asserts is heavily
+      involved in drug smuggling — has brought global attention to the country’s role
+      in the drug trade.” The propaganda piece is plainly aimed at Europeans as well
+      as Americans, emphasizing Secretary of State Marco Rubio’s quip last month that
+      the Europeans “should be thanking us” for blowing up alleged drug boats coming
+      from Venezuela because he says some of those drugs are winding up in Europe. It’s
+      got everything. Whipping up international support for a regime change war. Fearmongering
+      about “jihadists”. The evil, scary dictator. The whole war propaganda sales package.
+      https://x.com/WSJ/status/1995427489670214015 The mass media do this every time
+      the US empire gets war-horny. And the Murdoch press are always the most egregious
+      offenders. Reminds me of an old tweet by a man named Malcolm Price: “I remember
+      in the run-up to the Iraq War a friend I had known all my life suddenly said to
+      me, ‘We must do something about this monster in Iraq.’ I said, ‘When did you first
+      think that?’ He answered honestly, ‘A month ago’.” Price’s friend had been swept
+      up in the imperial war propaganda campaign that had recently begun, just like
+      countless millions of others. Month after month after month western consciousness
+      was hammered with false narratives about weapons of mass destruction, forced associations
+      of Saddam Hussein with 9/11, and stories about how much better things will be
+      for the people of Iraq once that evil tyrant is gone. Normally it never would
+      have occurred to the average westerner that a country on the other side of the
+      planet should be invaded and its leader replaced with a puppet regime. That’s
+      not the sort of thing that would have organically entered someone’s mind. It needed
+      to be placed there. So it was. The most common misconception about the free press
+      of the western world is that it exists. All the west’s most influential and far-reaching
+      news media publications are here not to report factual stories about current events,
+      but to manufacture consent for the pre-existing agendas of the US-centralized
+      western empire. They report many true things, to be sure, and if you acquire some
+      media literacy you can actually learn how to glean a lot of useful information
+      from the imperial press without losing your mind to the spin machine. But reporting
+      true things is not their purpose. Their purpose is to manipulate public psychology
+      at mass scale for the benefit of the empire they serve. This doesn’t happen through
+      some kind of centralized Ministry of Truth where sinister social engineers secretly
+      conspire to deceive people. It happens because all mainstream press institutions
+      are controlled either by plutocrats or by western governments in the form of state
+      broadcasters like the BBC, both of which have a vested interest in maintaining
+      the imperial status quo. They control who the executives and lead editors of these
+      outlets are, and those leaders shape the hiring and editing processes of the publication
+      or broadcaster. Reporters come to understand that there are certain lines they
+      need to color within if they want to get articles published and continue advancing
+      their careers, so they either learn to toe the imperial line or they disappear
+      from the mass media industry. If people had a clear understanding of everything
+      that’s really going on in our world, they would tear the empire apart brick by
+      brick. If they could truly see how much evil is being done in their name and really
+      wrap their minds around it, and if they could understand how much wealth the plutocrats
+      are getting out of the imperial status quo compared to how little they themselves
+      benefit from it, there would be immediate revolution. So the oligarchs and empire
+      managers shore up narrative control in the form of media ownership, think tanks,
+      Silicon Valley algorithm manipulation, imperial information ops like Wikipedia,
+      and now increasingly through billionaire-owned AI chatbots to ensure that this
+      never happens. https://x.com/exogamist/status/984355620584292352 The entire empire
+      is built on a foundation of lies. The whole power structure is held together by
+      nonstop manipulation of the way westerners think, speak, act, shop, work, and
+      vote. If truth ever finds a way to get a word in edgewise, the entire thing would
+      collapse. We know this is true because the oligarchs and empire managers pour
+      so much wealth and energy into manipulating our minds. They’re not doing this
+      for fun, they’re doing it because they need to. If they didn’t need to, it wouldn’t
+      be happening. So what they are doing is intensely creepy and destructive, but
+      it’s also empowering, because it shows us right where their weak spot is. They’re
+      pouring all this energy into controlling the dominant narrative because that’s
+      the weakest point in the armor of the imperial machine. What we need, then, is
+      a grassroots effort to help truth get a word in. Help people understand that they’ve
+      been propagandized and deceived about the world by western media and by their
+      power-serving education systems every day of their lives, because propaganda only
+      works if you don’t know it’s happening to you. Sow distrust in the imperial media
+      and institutions. Open people’s eyes to the fact that they’re being lied to, and
+      help them learn to see the truth. Anywhere the empire is sowing lies and distortions — whether
+      that’s in Venezuela or Gaza or somewhere else — use that opportunity to help more
+      people unplug their minds from the propaganda matrix. A better world is possible.
+      The first step in moving toward it is snapping people out of the propaganda-induced
+      coma which dupes them into settling for this dystopian nightmare instead. _____________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. The best way to make sure
+      you see everything I write is to get on my free mailing list . Click here for
+      links for my social media, books, merch, and audio/video versions of each article
+      . All my work is free to bootleg and use in any way, shape or form; republish
+      it, translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The Wall Street Journal published a controversial article
+      linking Venezuela's drug trade to jihadist groups in Africa, coinciding with Trump's
+      ultimatum to Maduro, and framing the U.S. pressure on Venezuela as a global concern
+      that should garner European gratitude.
+    paragraph_summary: The article critiques a Wall Street Journal piece that portrays
+      Venezuela as a major hub for cocaine trafficking, linking it to jihadists and
+      emphasizing the Trump administration's pressure on Venezuelan leader Nicolás Maduro,
+      who is accused of drug smuggling. The author argues that the article serves as
+      war propaganda aimed at garnering international support for regime change in Venezuela,
+      employing fearmongering tactics about terrorism and depicting Maduro as a threatening
+      dictator. This narrative is compared to past media campaigns that preceded U.S.
+      military interventions, suggesting that it manipulates public perception to justify
+      potential military action.
+    published: '2025-12-02T01:49:59+00:00'
+  - title: Ah, Good Old War Propaganda
+    url: https://www.caitlinjohnst.one/p/ah-good-old-war-propaganda
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Just as the news breaks that Trump has issued Maduro an ultimatum to leave Venezuela
+      immediately if he wants to escape with his life, the Murdoch-owned Wall Street
+      Journal has published an amazingly brazen war propaganda piece titled “ How Venezuelan
+      Gangs and African Jihadists Are Flooding Europe With Cocaine .” “Venezuela has
+      become a major launchpad for huge volumes of cocaine shipped to West Africa, where
+      jihadists are helping traffic it to Europe in record quantities,” the article
+      begins, going out of its way to note that “the Trump administration’s pressure
+      campaign against Venezuelan leader Nicolás Maduro — who it asserts is heavily
+      involved in drug smuggling — has brought global attention to the country’s role
+      in the drug trade.” The propaganda piece is plainly aimed at Europeans as well
+      as Americans, emphasizing Secretary of State Marco Rubio’s quip last month that
+      the Europeans “should be thanking us” for blowing up alleged drug boats coming
+      from Venezuela because he says some of those drugs are winding up in Europe. It’s
+      got everything. Whipping up international support for a regime change war. Fearmongering
+      about “jihadists”. The evil, scary dictator. The whole war propaganda sales package.
+      https://x.com/WSJ/status/1995427489670214015 The mass media do this every time
+      the US empire gets war-horny. And the Murdoch press are always the most egregious
+      offenders. Reminds me of an old tweet by a man named Malcolm Price: “I remember
+      in the run-up to the Iraq War a friend I had known all my life suddenly said to
+      me, ‘We must do something about this monster in Iraq.’ I said, ‘When did you first
+      think that?’ He answered honestly, ‘A month ago’.” Price’s friend had been swept
+      up in the imperial war propaganda campaign that had recently begun, just like
+      countless millions of others. Month after month after month western consciousness
+      was hammered with false narratives about weapons of mass destruction, forced associations
+      of Saddam Hussein with 9/11, and stories about how much better things will be
+      for the people of Iraq once that evil tyrant is gone. Normally it never would
+      have occurred to the average westerner that a country on the other side of the
+      planet should be invaded and its leader replaced with a puppet regime. That’s
+      not the sort of thing that would have organically entered someone’s mind. It needed
+      to be placed there. So it was. The most common misconception about the free press
+      of the western world is that it exists. All the west’s most influential and far-reaching
+      news media publications are here not to report factual stories about current events,
+      but to manufacture consent for the pre-existing agendas of the US-centralized
+      western empire. They report many true things, to be sure, and if you acquire some
+      media literacy you can actually learn how to glean a lot of useful information
+      from the imperial press without losing your mind to the spin machine. But reporting
+      true things is not their purpose. Their purpose is to manipulate public psychology
+      at mass scale for the benefit of the empire they serve. This doesn’t happen through
+      some kind of centralized Ministry of Truth where sinister social engineers secretly
+      conspire to deceive people. It happens because all mainstream press institutions
+      are controlled either by plutocrats or by western governments in the form of state
+      broadcasters like the BBC, both of which have a vested interest in maintaining
+      the imperial status quo. They control who the executives and lead editors of these
+      outlets are, and those leaders shape the hiring and editing processes of the publication
+      or broadcaster. Reporters come to understand that there are certain lines they
+      need to color within if they want to get articles published and continue advancing
+      their careers, so they either learn to toe the imperial line or they disappear
+      from the mass media industry. If people had a clear understanding of everything
+      that’s really going on in our world, they would tear the empire apart brick by
+      brick. If they could truly see how much evil is being done in their name and really
+      wrap their minds around it, and if they could understand how much wealth the plutocrats
+      are getting out of the imperial status quo compared to how little they themselves
+      benefit from it, there would be immediate revolution. So the oligarchs and empire
+      managers shore up narrative control in the form of media ownership, think tanks,
+      Silicon Valley algorithm manipulation, imperial information ops like Wikipedia,
+      and now increasingly through billionaire-owned AI chatbots to ensure that this
+      never happens. https://x.com/exogamist/status/984355620584292352 The entire empire
+      is built on a foundation of lies. The whole power structure is held together by
+      nonstop manipulation of the way westerners think, speak, act, shop, work, and
+      vote. If truth ever finds a way to get a word in edgewise, the entire thing would
+      collapse. We know this is true because the oligarchs and empire managers pour
+      so much wealth and energy into manipulating our minds. They’re not doing this
+      for fun, they’re doing it because they need to. If they didn’t need to, it wouldn’t
+      be happening. So what they are doing is intensely creepy and destructive, but
+      it’s also empowering, because it shows us right where their weak spot is. They’re
+      pouring all this energy into controlling the dominant narrative because that’s
+      the weakest point in the armor of the imperial machine. What we need, then, is
+      a grassroots effort to help truth get a word in. Help people understand that they’ve
+      been propagandized and deceived about the world by western media and by their
+      power-serving education systems every day of their lives, because propaganda only
+      works if you don’t know it’s happening to you. Sow distrust in the imperial media
+      and institutions. Open people’s eyes to the fact that they’re being lied to, and
+      help them learn to see the truth. Anywhere the empire is sowing lies and distortions — whether
+      that’s in Venezuela or Gaza or somewhere else — use that opportunity to help more
+      people unplug their minds from the propaganda matrix. A better world is possible.
+      The first step in moving toward it is snapping people out of the propaganda-induced
+      coma which dupes them into settling for this dystopian nightmare instead. _____________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. The best way to make sure
+      you see everything I write is to get on my free mailing list . Click here for
+      links for my social media, books, merch, and audio/video versions of each article
+      . All my work is free to bootleg and use in any way, shape or form; republish
+      it, translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The Wall Street Journal published a controversial article
+      linking Venezuela's drug trade to jihadist groups in Africa, coinciding with Trump's
+      ultimatum to Maduro, and framing the U.S. pressure on Venezuela as a global concern
+      that should garner European gratitude.
+    paragraph_summary: The article critiques a Wall Street Journal piece that portrays
+      Venezuela as a major hub for cocaine trafficking, linking it to jihadists and
+      emphasizing the Trump administration's pressure on Venezuelan leader Nicolás Maduro,
+      who is accused of drug smuggling. The author argues that the article serves as
+      war propaganda aimed at garnering international support for regime change in Venezuela,
+      employing fearmongering tactics about terrorism and depicting Maduro as a threatening
+      dictator. This narrative is compared to past media campaigns that preceded U.S.
+      military interventions, suggesting that it manipulates public perception to justify
+      potential military action.
+    published: '2025-12-02T01:49:59+00:00'
+  - title: The Craziest Thing In The World Is That We Could End Poverty, But We Don't
+    url: https://www.caitlinjohnst.one/p/the-craziest-thing-in-the-world-is
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      It’s the craziest thing in the world that we already have the technological ability
+      to provide a decent standard of living for everyone on earth, but it doesn’t happen
+      because it’s not profitable. We attained the greatest scientific achievement of
+      all time and then did nothing with it. Our society is completely uninterested
+      in it because capitalism is completely uninterested in it. It’s just so insane
+      how this doesn’t sit front and center in our attention all the time. There are
+      people dying of starvation, exposure and preventable illnesses every single day
+      for no good reason. Humanity became more than capable of ensuring that this never
+      happened to anyone ever again, and just rode right past that stunning moment in
+      history without even glancing up from its smartphone. Can you imagine if we did
+      that with any other major technological development? “Oh yeah humans can fly now…
+      but let’s not.” “Hey humans now have the ability to share ideas and information
+      in real time with anyone in the world, but whatever, let’s keep mailing letters
+      instead.” And I would argue that the ability to eliminate poverty and needless
+      human suffering is a far more significant development than flight or the internet.
+      But because it doesn’t generate value for shareholders, we cruised right past
+      it going “Let’s make a chatbot that can generate an Alvin and the Chipmunks version
+      of any song!” This happened because caring for everyone was never the goal of
+      capitalism. The goal of capitalism is to extract labor from the working class
+      and resources from the global south to sell goods and services at a rate that
+      generates profit for the owners of the means of production. That’s it. Capitalism
+      has no wisdom. It will start wars to generate profit . It will have impoverished
+      populations toiling in mines and sweatshops for pennies in order to generate profit.
+      It will burn up critical drinking water supplies for AI data centers in order
+      to generate profit. It will cut down the last acre of old-growth rainforest in
+      order to generate profit. It will pollute the air, fill the oceans with plastic
+      and kill all the insects if offloading the cost of industry onto the ecosystem
+      helps generate profit. The entire world is being consumed by an artificially imposed
+      system which holds as its foundational premise that mass-scale human behavior
+      should be driven by the pursuit of profit for its own sake. It’s a mindless, planet-devouring
+      machine of our own making. It is creating unfathomable destruction and suffering
+      for terrestrial organisms of every species. And it doesn’t have to be this way.
+      There is nothing inscribed upon the fabric of the universe which says that we
+      need to live under a system which causes us to feed our biosphere into the woodchipper
+      so that billionaires can become trillionaires. Nowhere is it written in adamantine
+      that that the many must always toil and suffer for the benefit of the few. Things
+      are the way they are because of systems that were put in place by human beings,
+      and human beings can replace those systems with different ones. If we are to continue
+      to survive on this planet, we’re going to have to move from systems which drive
+      us to compete against our fellow humans and our fellow terrestrial organisms to
+      systems that are driven by collaboration toward the good of all beings. Such systems
+      would be entirely unprecedented by their nature, because unprecedented times call
+      for unprecedented measures. It would be unlike anything that’s ever been done
+      before, but it is now a matter of existential importance that it be done. We’re
+      going to have to change. We’re going to have to become kinder. Gentler. Emotionally
+      intelligent. Driven by the desire for the greater good instead of by fear and
+      insecurity. We’re going to have to wake up. We’re going to have to become unlike
+      anything we’ve ever been before. Every species eventually hits an adapt-or-die
+      juncture in its existence. This is ours. We must become a compassionate animal,
+      or we will go the way of the dinosaur. _________________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. My work is entirely reader-supported , so
+      if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. The best way to make sure you see everything I
+      write is to get on my free mailing list . Click here for links for my social media,
+      books, merch, and audio/video versions of each article . All my work is free to
+      bootleg and use in any way, shape or form; republish it, translate it, use it
+      on merchandise; whatever you want. All works co-authored with my husband Tim Foley.
+      Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe
+      Stock.'
+    one_sentence_summary: The article argues that despite having the technological capability
+      to provide a decent standard of living for everyone, capitalism's profit-driven
+      nature prevents society from addressing issues like starvation and preventable
+      illnesses.
+    paragraph_summary: The article critiques capitalism for its failure to leverage
+      technological advancements that could eliminate poverty and improve living standards
+      globally, arguing that despite humanity's capability to ensure no one suffers
+      from starvation or preventable diseases, profit motives overshadow humanitarian
+      goals. It highlights the absurdity of ignoring such significant achievements,
+      comparing it to disregarding other major technological breakthroughs like flight
+      or the internet. The author contends that capitalism prioritizes profit extraction
+      from the working class and global resources over caring for people, leading to
+      a society that neglects the potential for widespread well-being in favor of generating
+      shareholder value.
+    published: '2025-12-01T01:48:46+00:00'
+  - title: The Craziest Thing In The World Is That We Could End Poverty, But We Don't
+    url: https://www.caitlinjohnst.one/p/the-craziest-thing-in-the-world-is
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      It’s the craziest thing in the world that we already have the technological ability
+      to provide a decent standard of living for everyone on earth, but it doesn’t happen
+      because it’s not profitable. We attained the greatest scientific achievement of
+      all time and then did nothing with it. Our society is completely uninterested
+      in it because capitalism is completely uninterested in it. It’s just so insane
+      how this doesn’t sit front and center in our attention all the time. There are
+      people dying of starvation, exposure and preventable illnesses every single day
+      for no good reason. Humanity became more than capable of ensuring that this never
+      happened to anyone ever again, and just rode right past that stunning moment in
+      history without even glancing up from its smartphone. Can you imagine if we did
+      that with any other major technological development? “Oh yeah humans can fly now…
+      but let’s not.” “Hey humans now have the ability to share ideas and information
+      in real time with anyone in the world, but whatever, let’s keep mailing letters
+      instead.” And I would argue that the ability to eliminate poverty and needless
+      human suffering is a far more significant development than flight or the internet.
+      But because it doesn’t generate value for shareholders, we cruised right past
+      it going “Let’s make a chatbot that can generate an Alvin and the Chipmunks version
+      of any song!” This happened because caring for everyone was never the goal of
+      capitalism. The goal of capitalism is to extract labor from the working class
+      and resources from the global south to sell goods and services at a rate that
+      generates profit for the owners of the means of production. That’s it. Capitalism
+      has no wisdom. It will start wars to generate profit . It will have impoverished
+      populations toiling in mines and sweatshops for pennies in order to generate profit.
+      It will burn up critical drinking water supplies for AI data centers in order
+      to generate profit. It will cut down the last acre of old-growth rainforest in
+      order to generate profit. It will pollute the air, fill the oceans with plastic
+      and kill all the insects if offloading the cost of industry onto the ecosystem
+      helps generate profit. The entire world is being consumed by an artificially imposed
+      system which holds as its foundational premise that mass-scale human behavior
+      should be driven by the pursuit of profit for its own sake. It’s a mindless, planet-devouring
+      machine of our own making. It is creating unfathomable destruction and suffering
+      for terrestrial organisms of every species. And it doesn’t have to be this way.
+      There is nothing inscribed upon the fabric of the universe which says that we
+      need to live under a system which causes us to feed our biosphere into the woodchipper
+      so that billionaires can become trillionaires. Nowhere is it written in adamantine
+      that that the many must always toil and suffer for the benefit of the few. Things
+      are the way they are because of systems that were put in place by human beings,
+      and human beings can replace those systems with different ones. If we are to continue
+      to survive on this planet, we’re going to have to move from systems which drive
+      us to compete against our fellow humans and our fellow terrestrial organisms to
+      systems that are driven by collaboration toward the good of all beings. Such systems
+      would be entirely unprecedented by their nature, because unprecedented times call
+      for unprecedented measures. It would be unlike anything that’s ever been done
+      before, but it is now a matter of existential importance that it be done. We’re
+      going to have to change. We’re going to have to become kinder. Gentler. Emotionally
+      intelligent. Driven by the desire for the greater good instead of by fear and
+      insecurity. We’re going to have to wake up. We’re going to have to become unlike
+      anything we’ve ever been before. Every species eventually hits an adapt-or-die
+      juncture in its existence. This is ours. We must become a compassionate animal,
+      or we will go the way of the dinosaur. _________________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. My work is entirely reader-supported , so
+      if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. The best way to make sure you see everything I
+      write is to get on my free mailing list . Click here for links for my social media,
+      books, merch, and audio/video versions of each article . All my work is free to
+      bootleg and use in any way, shape or form; republish it, translate it, use it
+      on merchandise; whatever you want. All works co-authored with my husband Tim Foley.
+      Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe
+      Stock.'
+    one_sentence_summary: The article argues that despite having the technological capability
+      to provide a decent standard of living for everyone, capitalism's profit-driven
+      nature prevents society from addressing issues like starvation and preventable
+      illnesses.
+    paragraph_summary: The article critiques capitalism for its failure to leverage
+      technological advancements that could eliminate poverty and improve living standards
+      globally, arguing that despite humanity's capability to ensure no one suffers
+      from starvation or preventable diseases, profit motives overshadow humanitarian
+      goals. It highlights the absurdity of ignoring such significant achievements,
+      comparing it to disregarding other major technological breakthroughs like flight
+      or the internet. The author contends that capitalism prioritizes profit extraction
+      from the working class and global resources over caring for people, leading to
+      a society that neglects the potential for widespread well-being in favor of generating
+      shareholder value.
+    published: '2025-12-01T01:48:46+00:00'
+  - title: US Regime Change Interventionism Is Reliably Disastrous, And Other Notes
+    url: https://www.caitlinjohnst.one/p/us-regime-change-interventionism
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Trump has bizarrely announced that the airspace over Venezuela is “closed”, posting
+      the following on Truth Social on Saturday: “To all Airlines, Pilots, Drug Dealers,
+      and Human Traffickers, please consider THE AIRSPACE ABOVE AND SURROUNDING VENEZUELA
+      TO BE CLOSED IN ITS ENTIRETY.” It isn’t even clear what precisely the president
+      means by this. Are they about to start shooting down Venezuelan aircraft like
+      they’ve been blowing up boats? Are they preparing for a ground invasion? Whatever
+      it is, things are looking ugly. Washington is banging the war drums trying to
+      justify regime change interventionism in Venezuela under the ridiculous claim
+      that it’s about fighting drug trafficking just as Trump announces that he will
+      pardon former president of Honduras Juan Orlando Hernández, who the US convicted
+      of drug trafficking charges just last year. Drugs come into the United States
+      from numerous nations in Latin America, and it sure is an awfully interesting
+      coincidence that the one they’re focused on regime changing to stop the drug flow
+      just so happens to be the socialist country with the largest proven oil reserves
+      on the entire planet. Americans who’ve been rejecting the propaganda for wars
+      in the middle east but now fully buy into it for regime change in Venezuela are
+      the weirdest. That’s like managing to pull your head out of your ass, taking a
+      deep breath, and then shoving it right back in there. US regime change interventionism
+      is reliably disastrous , and is always justified based on lies . This would be
+      true even if Venezuela really was a major drug trafficking threat and even if
+      Maduro really was the world’s most evil dictator, neither of which are the case.
+      Only idiots and sociopaths are clapping along with the war drums. ❖ A man opened
+      fire on National Guardsmen near the White House the other day, killing one and
+      seriously wounding another. He was captured alive and will likely face terrorism
+      charges. As it turns out, the guy is an Afghan national who worked for a CIA “Zero
+      Unit” death squad enforcing the USA’s occupation of his home country. Washington
+      is always making completely nonsensical additions to its list of terrorist organizations
+      like Antifa and the completely fictional Cartel de los Soles , when it’s a well-established
+      fact that the strongest predictor of future terrorist behavior is employment with
+      the US war machine. ❖ There’s a video going around showing a room full of Israeli
+      youths squealing with delight at the sight of their nation’s finance minister
+      Bezalel Smotrich, who is such a genocidal Nazi that he’s been sanctioned by imperial
+      core states like the UK, Canada and Australia. The kids in the video are seen
+      screaming and swooning for this psychopathic monster like the girls in those old
+      Beatles concert videos. Two months ago after the so-called “ceasefire” deal was
+      announced the New York Times editorial board banged out a piece saying that Gaza
+      is going to need “deradicalization programs” in order to “remove Hamas’s pervasive
+      radicalizing influence over Gazan society.” But clearly it’s Israeli society that
+      needs deradicalizing. ❖ One of the reasons “antisemitism” claims have stopped
+      getting traction is because once people started questioning the narrative “THERE’S
+      A SPECIAL GROUP OF WHITE PEOPLE WHOSE FEELINGS MUST TAKE PRIORITY OVER EVERY POSSIBLE
+      CONCERN” it was never going to hold up under scrutiny. ❖ State prosecutors are
+      reportedly handling more than 300,000 desertion-related cases in Ukraine because
+      nobody wants to fight and die in this stupid, pointless war anymore. Desertion
+      rates say Ukrainian soldiers don’t want this war. Polls say Ukrainian civilians
+      don’t want this war. Yet the war keeps going, because the western power structure
+      which actively provoked it wants it to continue. ❖ If I had told you five years
+      ago that I’d just invented a product which ends the careers of professional artists
+      and makes it impossible to tell what’s real on the internet, would you have said
+      I should be given billions of dollars immediately, or would you have said I should
+      be fed to crocodiles? The debate about generative AI is interesting because it’s
+      all the brilliant, creative people who value truth and the human intellect on
+      one side and all the uncreative, intellectually sluggish people who can’t write
+      a paragraph on the other, and the latter group is winning because they’ve got
+      capital on their side. ________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. My work is entirely reader-supported , so if you enjoyed this
+      piece here are some options where you can toss some money into my tip jar if you
+      want to. The best way to make sure you see everything I write is to get on my
+      free mailing list . Click here for links for my social media, books, merch, and
+      audio/video versions of each article . All my work is free to bootleg and use
+      in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: Trump has controversially declared the airspace over Venezuela
+      "closed" on Truth Social, raising questions about potential military actions while
+      the U.S. government pushes for regime change under the guise of combating drug
+      trafficking.
+    paragraph_summary: Donald Trump recently declared that the airspace over Venezuela
+      is "closed," a statement made on Truth Social that raises questions about its
+      implications, including potential military actions or a ground invasion. This
+      announcement coincides with increasing U.S. rhetoric advocating for regime change
+      in Venezuela, framed under the guise of combating drug trafficking, despite the
+      irony of Trump pardoning a former Honduran president convicted of drug charges.
+      Critics argue that the U.S. focus on Venezuela—home to the world's largest proven
+      oil reserves—reveals ulterior motives behind the regime change narrative, suggesting
+      that the justification for intervention is rooted in lies and historical patterns
+      of disastrous U.S. foreign policy. The article also briefly mentions a violent
+      incident near the White House involving a shooting of National Guardsmen.
+    published: '2025-11-30T13:22:24+00:00'
+  - title: US Regime Change Interventionism Is Reliably Disastrous, And Other Notes
+    url: https://www.caitlinjohnst.one/p/us-regime-change-interventionism
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Trump has bizarrely announced that the airspace over Venezuela is “closed”, posting
+      the following on Truth Social on Saturday: “To all Airlines, Pilots, Drug Dealers,
+      and Human Traffickers, please consider THE AIRSPACE ABOVE AND SURROUNDING VENEZUELA
+      TO BE CLOSED IN ITS ENTIRETY.” It isn’t even clear what precisely the president
+      means by this. Are they about to start shooting down Venezuelan aircraft like
+      they’ve been blowing up boats? Are they preparing for a ground invasion? Whatever
+      it is, things are looking ugly. Washington is banging the war drums trying to
+      justify regime change interventionism in Venezuela under the ridiculous claim
+      that it’s about fighting drug trafficking just as Trump announces that he will
+      pardon former president of Honduras Juan Orlando Hernández, who the US convicted
+      of drug trafficking charges just last year. Drugs come into the United States
+      from numerous nations in Latin America, and it sure is an awfully interesting
+      coincidence that the one they’re focused on regime changing to stop the drug flow
+      just so happens to be the socialist country with the largest proven oil reserves
+      on the entire planet. Americans who’ve been rejecting the propaganda for wars
+      in the middle east but now fully buy into it for regime change in Venezuela are
+      the weirdest. That’s like managing to pull your head out of your ass, taking a
+      deep breath, and then shoving it right back in there. US regime change interventionism
+      is reliably disastrous , and is always justified based on lies . This would be
+      true even if Venezuela really was a major drug trafficking threat and even if
+      Maduro really was the world’s most evil dictator, neither of which are the case.
+      Only idiots and sociopaths are clapping along with the war drums. ❖ A man opened
+      fire on National Guardsmen near the White House the other day, killing one and
+      seriously wounding another. He was captured alive and will likely face terrorism
+      charges. As it turns out, the guy is an Afghan national who worked for a CIA “Zero
+      Unit” death squad enforcing the USA’s occupation of his home country. Washington
+      is always making completely nonsensical additions to its list of terrorist organizations
+      like Antifa and the completely fictional Cartel de los Soles , when it’s a well-established
+      fact that the strongest predictor of future terrorist behavior is employment with
+      the US war machine. ❖ There’s a video going around showing a room full of Israeli
+      youths squealing with delight at the sight of their nation’s finance minister
+      Bezalel Smotrich, who is such a genocidal Nazi that he’s been sanctioned by imperial
+      core states like the UK, Canada and Australia. The kids in the video are seen
+      screaming and swooning for this psychopathic monster like the girls in those old
+      Beatles concert videos. Two months ago after the so-called “ceasefire” deal was
+      announced the New York Times editorial board banged out a piece saying that Gaza
+      is going to need “deradicalization programs” in order to “remove Hamas’s pervasive
+      radicalizing influence over Gazan society.” But clearly it’s Israeli society that
+      needs deradicalizing. ❖ One of the reasons “antisemitism” claims have stopped
+      getting traction is because once people started questioning the narrative “THERE’S
+      A SPECIAL GROUP OF WHITE PEOPLE WHOSE FEELINGS MUST TAKE PRIORITY OVER EVERY POSSIBLE
+      CONCERN” it was never going to hold up under scrutiny. ❖ State prosecutors are
+      reportedly handling more than 300,000 desertion-related cases in Ukraine because
+      nobody wants to fight and die in this stupid, pointless war anymore. Desertion
+      rates say Ukrainian soldiers don’t want this war. Polls say Ukrainian civilians
+      don’t want this war. Yet the war keeps going, because the western power structure
+      which actively provoked it wants it to continue. ❖ If I had told you five years
+      ago that I’d just invented a product which ends the careers of professional artists
+      and makes it impossible to tell what’s real on the internet, would you have said
+      I should be given billions of dollars immediately, or would you have said I should
+      be fed to crocodiles? The debate about generative AI is interesting because it’s
+      all the brilliant, creative people who value truth and the human intellect on
+      one side and all the uncreative, intellectually sluggish people who can’t write
+      a paragraph on the other, and the latter group is winning because they’ve got
+      capital on their side. ________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. My work is entirely reader-supported , so if you enjoyed this
+      piece here are some options where you can toss some money into my tip jar if you
+      want to. The best way to make sure you see everything I write is to get on my
+      free mailing list . Click here for links for my social media, books, merch, and
+      audio/video versions of each article . All my work is free to bootleg and use
+      in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: Trump has controversially declared the airspace over Venezuela
+      "closed" on Truth Social, raising questions about potential military actions while
+      the U.S. government pushes for regime change under the guise of combating drug
+      trafficking.
+    paragraph_summary: Donald Trump recently declared that the airspace over Venezuela
+      is "closed," a statement made on Truth Social that raises questions about its
+      implications, including potential military actions or a ground invasion. This
+      announcement coincides with increasing U.S. rhetoric advocating for regime change
+      in Venezuela, framed under the guise of combating drug trafficking, despite the
+      irony of Trump pardoning a former Honduran president convicted of drug charges.
+      Critics argue that the U.S. focus on Venezuela—home to the world's largest proven
+      oil reserves—reveals ulterior motives behind the regime change narrative, suggesting
+      that the justification for intervention is rooted in lies and historical patterns
+      of disastrous U.S. foreign policy. The article also briefly mentions a violent
+      incident near the White House involving a shooting of National Guardsmen.
+    published: '2025-11-30T13:22:24+00:00'
+  - title: It's Getting Harder And Harder To Preserve Our Mental Sovereignty
+    url: https://www.caitlinjohnst.one/p/its-getting-harder-and-harder-to
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      It’s a full-time job protecting your mental lucidity in this dystopia. It was
+      hard enough to form a clear perception of reality when all we had to deal with
+      was the propaganda of plutocrat-owned media corporations and the indoctrination
+      of our power-serving education systems. Now on top of those still-persisting obfuscations
+      we’ve got things like Silicon Valley algorithm manipulation , imperial information
+      ops like Wikipedia , and an exponentially growing field of AI perception management
+      to work through. I remember watching Julian Assange give a talk way back in 2017
+      where he described a future in which artificial intelligence is able to harvest
+      the data of individual internet users and then manipulate the information they
+      see online in a custom-built perceptual prism designed to manipulate their thinking
+      at a level far too subtle to be noticed. He compared it to the way a computer
+      program can play chess with strategies looking 20 to 30 moves ahead at a level
+      the human brain just can’t keep up with, saying that we’ll one day have artificial
+      intelligence that can manipulate public perception with a similar degree of sophistication.
+      That future is a lot easier to imagine now than it was back in 2017. To be sure,
+      the ruling class is not pouring trillions of dollars into AI so that we can all
+      have free Studio Ghibli-style illustrations of ourselves. There is an understanding
+      that major returns on investment will come largely in the form of these new technologies
+      being deliberately knit into every part of our civilization, driven by the official
+      and unofficial power structures that we live under, and that this will happen
+      in a way that benefits the rich and powerful. We’re on a trajectory where soon
+      all our information will be stored and analyzed by artificial intelligence controlled
+      by governments and billionaire megacorporations who can then use that information
+      to surveil, manipulate and oppress us. All our medical and financial information.
+      Whole psychological profiles based on what we view and say online. A far more
+      thorough assessment of our personalities than we could ever create on our own.
+      This information can then be used to determine what sort of advertisements for
+      which products would be likely to work on us, or maybe even produce a custom-made
+      ad on the spot just for us. It can be used to determine what type of power-serving
+      news media or punditry is likely to appeal to our confirmation biases and then
+      make sure it crosses our line of sight at some ideal moment in our day. It can
+      be used to determine how likely we are to oppose the imperial machine in any way,
+      from joining a peace march to starting a union to leading an armed revolution.
+      It can be used to closely monitor our individual path toward political radicalization,
+      and it can be used to feed us information intended to steer that dissident energy
+      toward political movements that don’t threaten the status quo. https://x.com/QudsNen/status/1984915779754827802
+      Our rulers see AI as an opportunity to recapture the degree of social control
+      that was shaken by the arrival of widespread internet access — a loss of information
+      hegemony we’ve seen oligarchs and empire managers openly complaining about with
+      regard to how social media has spread public dissent on issues like Israel and
+      Palestine. Journalist Whitney Webb has flagged the fact that Google plutocrat
+      Eric Schmidt co-authored a book with war criminal Henry Kissinger which envisions
+      a future where the public becomes increasingly dependent on artificial intelligence
+      to do our thinking and creative expression for us, allowing our consciousness
+      to become further and further intertwined with these oligarch-owned technologies.
+      “The Kissinger/Eric Schmidt book on AI basically states that the real promise
+      of AI, from their perspective, is as a tool of perception manipulation — that
+      eventually people will not be able to interpret or perceive reality without the
+      help of an AI via cognitive diminishment and learned helplessness,” Webb warns
+      . Once we’ve outsourced our cognitive sovereignty to AI, our minds have been captured
+      by the owners of the machines. So it’s a dark and creepy trail we are traveling
+      down. As a collective we’re going to have to find it within ourselves to start
+      fighting back against this dystopia which is consuming more and more of what’s
+      decent in our world, and as individuals we’re going to have to find ways to maintain
+      our inner clarity despite the empire’s increasingly aggressive efforts to make
+      us vapid, stupid and confused. Luckily for us there are still large aspects of
+      our humanity which they cannot infiltrate or control, and we would do well to
+      familiarize ourselves with that terrain. Inspiration. Creativity. Consciousness.
+      Spiritual awakening. These are realms wherein the tech plutocrats and imperial
+      social engineers cannot tread. Explore your own consciousness. Inquire deeply
+      into the nature of self and the mind until clarity dawns on you. Heal your inner
+      wounds. Remove from within yourself all the mental hooks of fear and hatred so
+      that the propagandists can find no psychological purchase with which to manipulate
+      you. Follow the faint whisperings of your muse, and learn to help your inspiration
+      birth new creative expression into the world. These are the kinds of things we’ll
+      have to do to preserve ourselves as we move into this strange new world, on top
+      of the usual business of staying informed and learning to see through the propaganda
+      illusions. Luckily these things are all good for us anyway; the path toward protecting
+      our humanity also just happens to be the path toward becoming a healthier human
+      being and making the world a better place. We are being called to awaken, and
+      to transform. We are being beckoned not away from our humanity as the transhumanists
+      imagine but deep into the heart of it, to a widespread blossoming of a bud that’s
+      been waiting within us this entire time. This age invites us to evolve into a
+      truly conscious species. ______________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. My work is entirely reader-supported , so if you enjoyed this
+      piece here are some options where you can toss some money into my tip jar if you
+      want to. The best way to make sure you see everything I write is to get on my
+      free mailing list . Click here for links for my social media, books, merch, and
+      audio/video versions of each article . All my work is free to bootleg and use
+      in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: The article discusses the increasing challenges of maintaining
+      mental clarity in a world filled with pervasive propaganda, algorithm manipulation,
+      and AI-driven information management, highlighting the complexities of discerning
+      reality amidst these influences.
+    paragraph_summary: The article discusses the challenges of maintaining mental clarity
+      in an increasingly manipulated information landscape, exacerbated by the rise
+      of AI and algorithmic control. It highlights the historical context of media propaganda
+      and educational indoctrination, while emphasizing the contemporary threats posed
+      by Silicon Valley's data manipulation and imperial information operations. The
+      author recalls Julian Assange's 2017 predictions about AI's potential to subtly
+      influence public perception, likening it to advanced chess strategies that outpace
+      human understanding. The piece warns that the ruling elite are investing heavily
+      in AI not for public benefit, but to reinforce their power and control over society,
+      leading to a future where information is closely monitored and manipulated to
+      serve the interests of the wealthy and powerful.
+    published: '2025-11-29T13:26:46+00:00'
+  - title: It's Getting Harder And Harder To Preserve Our Mental Sovereignty
+    url: https://www.caitlinjohnst.one/p/its-getting-harder-and-harder-to
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      It’s a full-time job protecting your mental lucidity in this dystopia. It was
+      hard enough to form a clear perception of reality when all we had to deal with
+      was the propaganda of plutocrat-owned media corporations and the indoctrination
+      of our power-serving education systems. Now on top of those still-persisting obfuscations
+      we’ve got things like Silicon Valley algorithm manipulation , imperial information
+      ops like Wikipedia , and an exponentially growing field of AI perception management
+      to work through. I remember watching Julian Assange give a talk way back in 2017
+      where he described a future in which artificial intelligence is able to harvest
+      the data of individual internet users and then manipulate the information they
+      see online in a custom-built perceptual prism designed to manipulate their thinking
+      at a level far too subtle to be noticed. He compared it to the way a computer
+      program can play chess with strategies looking 20 to 30 moves ahead at a level
+      the human brain just can’t keep up with, saying that we’ll one day have artificial
+      intelligence that can manipulate public perception with a similar degree of sophistication.
+      That future is a lot easier to imagine now than it was back in 2017. To be sure,
+      the ruling class is not pouring trillions of dollars into AI so that we can all
+      have free Studio Ghibli-style illustrations of ourselves. There is an understanding
+      that major returns on investment will come largely in the form of these new technologies
+      being deliberately knit into every part of our civilization, driven by the official
+      and unofficial power structures that we live under, and that this will happen
+      in a way that benefits the rich and powerful. We’re on a trajectory where soon
+      all our information will be stored and analyzed by artificial intelligence controlled
+      by governments and billionaire megacorporations who can then use that information
+      to surveil, manipulate and oppress us. All our medical and financial information.
+      Whole psychological profiles based on what we view and say online. A far more
+      thorough assessment of our personalities than we could ever create on our own.
+      This information can then be used to determine what sort of advertisements for
+      which products would be likely to work on us, or maybe even produce a custom-made
+      ad on the spot just for us. It can be used to determine what type of power-serving
+      news media or punditry is likely to appeal to our confirmation biases and then
+      make sure it crosses our line of sight at some ideal moment in our day. It can
+      be used to determine how likely we are to oppose the imperial machine in any way,
+      from joining a peace march to starting a union to leading an armed revolution.
+      It can be used to closely monitor our individual path toward political radicalization,
+      and it can be used to feed us information intended to steer that dissident energy
+      toward political movements that don’t threaten the status quo. https://x.com/QudsNen/status/1984915779754827802
+      Our rulers see AI as an opportunity to recapture the degree of social control
+      that was shaken by the arrival of widespread internet access — a loss of information
+      hegemony we’ve seen oligarchs and empire managers openly complaining about with
+      regard to how social media has spread public dissent on issues like Israel and
+      Palestine. Journalist Whitney Webb has flagged the fact that Google plutocrat
+      Eric Schmidt co-authored a book with war criminal Henry Kissinger which envisions
+      a future where the public becomes increasingly dependent on artificial intelligence
+      to do our thinking and creative expression for us, allowing our consciousness
+      to become further and further intertwined with these oligarch-owned technologies.
+      “The Kissinger/Eric Schmidt book on AI basically states that the real promise
+      of AI, from their perspective, is as a tool of perception manipulation — that
+      eventually people will not be able to interpret or perceive reality without the
+      help of an AI via cognitive diminishment and learned helplessness,” Webb warns
+      . Once we’ve outsourced our cognitive sovereignty to AI, our minds have been captured
+      by the owners of the machines. So it’s a dark and creepy trail we are traveling
+      down. As a collective we’re going to have to find it within ourselves to start
+      fighting back against this dystopia which is consuming more and more of what’s
+      decent in our world, and as individuals we’re going to have to find ways to maintain
+      our inner clarity despite the empire’s increasingly aggressive efforts to make
+      us vapid, stupid and confused. Luckily for us there are still large aspects of
+      our humanity which they cannot infiltrate or control, and we would do well to
+      familiarize ourselves with that terrain. Inspiration. Creativity. Consciousness.
+      Spiritual awakening. These are realms wherein the tech plutocrats and imperial
+      social engineers cannot tread. Explore your own consciousness. Inquire deeply
+      into the nature of self and the mind until clarity dawns on you. Heal your inner
+      wounds. Remove from within yourself all the mental hooks of fear and hatred so
+      that the propagandists can find no psychological purchase with which to manipulate
+      you. Follow the faint whisperings of your muse, and learn to help your inspiration
+      birth new creative expression into the world. These are the kinds of things we’ll
+      have to do to preserve ourselves as we move into this strange new world, on top
+      of the usual business of staying informed and learning to see through the propaganda
+      illusions. Luckily these things are all good for us anyway; the path toward protecting
+      our humanity also just happens to be the path toward becoming a healthier human
+      being and making the world a better place. We are being called to awaken, and
+      to transform. We are being beckoned not away from our humanity as the transhumanists
+      imagine but deep into the heart of it, to a widespread blossoming of a bud that’s
+      been waiting within us this entire time. This age invites us to evolve into a
+      truly conscious species. ______________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. My work is entirely reader-supported , so if you enjoyed this
+      piece here are some options where you can toss some money into my tip jar if you
+      want to. The best way to make sure you see everything I write is to get on my
+      free mailing list . Click here for links for my social media, books, merch, and
+      audio/video versions of each article . All my work is free to bootleg and use
+      in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: The article discusses the increasing challenges of maintaining
+      mental clarity in a world filled with pervasive propaganda, algorithm manipulation,
+      and AI-driven information management, highlighting the complexities of discerning
+      reality amidst these influences.
+    paragraph_summary: The article discusses the challenges of maintaining mental clarity
+      in an increasingly manipulated information landscape, exacerbated by the rise
+      of AI and algorithmic control. It highlights the historical context of media propaganda
+      and educational indoctrination, while emphasizing the contemporary threats posed
+      by Silicon Valley's data manipulation and imperial information operations. The
+      author recalls Julian Assange's 2017 predictions about AI's potential to subtly
+      influence public perception, likening it to advanced chess strategies that outpace
+      human understanding. The piece warns that the ruling elite are investing heavily
+      in AI not for public benefit, but to reinforce their power and control over society,
+      leading to a future where information is closely monitored and manipulated to
+      serve the interests of the wealthy and powerful.
+    published: '2025-11-29T13:26:46+00:00'
+  - title: Don't Let The Empire Gaslight You Into Believing You Are Powerless
+    url: https://www.caitlinjohnst.one/p/dont-let-the-empire-gaslight-you
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Don’t let the empire gaslight you into believing you are powerless and helpless.
+      There are always things you can do to fight the bastards, and there are always
+      things you can do to improve your own life. It’s so easy to fall into the trap
+      of believing there’s nothing we can do. Nothing we can do to fight the machine
+      because it’s too large and entrenched, and nothing we can do to change our own
+      personal circumstances because the deck is stacked so unfairly against ordinary
+      people. It’s a strong illusion because at a surface glance it appears to be true.
+      Our political systems are locked down by the rich and powerful to ensure that
+      our votes don’t inconvenience them in any way, and any new political movement
+      which challenges establishment power structures will find itself facing sabotage
+      from the outside and from within. Our voices are kept marginalized and our countrymen
+      have been turned into mindless empire automatons by a lifetime of propaganda indoctrination.
+      And at first glance we appear to be just as powerless in our personal lives as
+      well. Unless you’re lucky enough to have obtained some capital which you can use
+      to extract labor from the working class or to possess some special aptitude that
+      our system happens to value, you can spend your whole life struggling in poverty.
+      The life of a worker is getting harder and harder, and it’s easy to feel like
+      there’s nothing you can do about your own unhappiness and psychological dysfunction
+      because you’re laboring under a system that’s so abusive and unfair. So while
+      it is true that there are many doors that are closed to a denizen of our dystopia,
+      that doesn’t mean you are powerless to change things. Believing that you are powerless
+      serves no one but the powerful. We are never truly powerless because we always
+      have the ability to help foment a revolutionary zeitgeist , and because we always
+      have the ability to heal ourselves. As a collective we have the power to inform
+      and educate the public to help them understand that they’ve been deceived their
+      whole lives about our society, and that a better world is both needed and possible.
+      As individuals we have the ability to do inner work to heal our trauma and liberate
+      ourselves from the delusion of ego, which will have radically transformative effects
+      on our quality of life in a whole host of ways. There is nothing our rulers can
+      do to take these abilities away from us. We will always have the ability to do
+      something to help awaken the people to the need for revolution, and we will always
+      have the ability to heal our inner wounds. Every single day there are concrete
+      actions we can take toward both of these ends. It serves nobody but the powerful
+      to believe there’s nothing we can do to change things. Too many socialists are
+      content to just sit around smugly knowing better than everyone else and having
+      all the correct opinions about things while expressing distain for everyone who
+      tries to expand awareness or make the world a better place. Get active in your
+      community. Produce dissident media. Make revolutionary art. Have conversations.
+      Change minds. Open some eyes. Wake people up so that one day there will be enough
+      of us to force real change. It serves nobody but the powerful to believe you are
+      doomed to a life of misery. Too many socialists are content to blame all their
+      internal dysfunction on the abuses of capitalism and just spend their days masturbating
+      their inner wounds in meetings and online without doing the rigorous inner work
+      necessary to come to inner peace. Get curious about your internal processes. Research
+      the many modalities for inner healing that are available online. Listen to the
+      brilliant minds who’ve been sharing groundbreaking new insights about trauma and
+      inner work lately. Investigate the possibility that spiritual enlightenment is
+      a real phenomenon that is entirely achievable in this life. Take responsibility
+      for your own inner wellbeing, and start doing something about it. We don’t need
+      to sit around paralyzed by power-serving learned helplessness. We don’t need to
+      sit idly by waiting for some deus ex machina resolution to our plight. We don’t
+      need to resign ourselves to a life of suffering and making the same mistakes over
+      and over again because we’re being whipped about by unconscious forces within
+      us that we’ve never taken the time to investigate. There is always something we
+      can do. We can never do everything, but we can always do something. There’s no
+      good reason not to do that something we can do, every single day of our lives.
+      ________________ Caitlin’s Newsletter is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber. My
+      work is entirely reader-supported , so if you enjoyed this piece here are some
+      options where you can toss some money into my tip jar if you want to. The best
+      way to make sure you see everything I write is to get on my free mailing list
+      . Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article emphasizes that despite feelings of powerlessness
+      against entrenched systems of control, individuals can still take action to challenge
+      the status quo and improve their own lives.
+    paragraph_summary: The article emphasizes the importance of recognizing one's power
+      in the face of systemic oppression and personal struggles, urging readers not
+      to succumb to feelings of helplessness perpetuated by the powerful elite. It acknowledges
+      the overwhelming nature of political and economic systems that seem designed to
+      marginalize ordinary voices and maintain the status quo, leading many to believe
+      they are powerless to effect change. However, it asserts that individuals can
+      still take action to challenge these structures and improve their own lives, highlighting
+      the potential for collective empowerment and personal healing. Ultimately, the
+      piece encourages a shift in mindset from one of defeat to one of agency and possibility.
+    published: '2025-11-27T00:08:30+00:00'
+  - title: Don't Let The Empire Gaslight You Into Believing You Are Powerless
+    url: https://www.caitlinjohnst.one/p/dont-let-the-empire-gaslight-you
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Don’t let the empire gaslight you into believing you are powerless and helpless.
+      There are always things you can do to fight the bastards, and there are always
+      things you can do to improve your own life. It’s so easy to fall into the trap
+      of believing there’s nothing we can do. Nothing we can do to fight the machine
+      because it’s too large and entrenched, and nothing we can do to change our own
+      personal circumstances because the deck is stacked so unfairly against ordinary
+      people. It’s a strong illusion because at a surface glance it appears to be true.
+      Our political systems are locked down by the rich and powerful to ensure that
+      our votes don’t inconvenience them in any way, and any new political movement
+      which challenges establishment power structures will find itself facing sabotage
+      from the outside and from within. Our voices are kept marginalized and our countrymen
+      have been turned into mindless empire automatons by a lifetime of propaganda indoctrination.
+      And at first glance we appear to be just as powerless in our personal lives as
+      well. Unless you’re lucky enough to have obtained some capital which you can use
+      to extract labor from the working class or to possess some special aptitude that
+      our system happens to value, you can spend your whole life struggling in poverty.
+      The life of a worker is getting harder and harder, and it’s easy to feel like
+      there’s nothing you can do about your own unhappiness and psychological dysfunction
+      because you’re laboring under a system that’s so abusive and unfair. So while
+      it is true that there are many doors that are closed to a denizen of our dystopia,
+      that doesn’t mean you are powerless to change things. Believing that you are powerless
+      serves no one but the powerful. We are never truly powerless because we always
+      have the ability to help foment a revolutionary zeitgeist , and because we always
+      have the ability to heal ourselves. As a collective we have the power to inform
+      and educate the public to help them understand that they’ve been deceived their
+      whole lives about our society, and that a better world is both needed and possible.
+      As individuals we have the ability to do inner work to heal our trauma and liberate
+      ourselves from the delusion of ego, which will have radically transformative effects
+      on our quality of life in a whole host of ways. There is nothing our rulers can
+      do to take these abilities away from us. We will always have the ability to do
+      something to help awaken the people to the need for revolution, and we will always
+      have the ability to heal our inner wounds. Every single day there are concrete
+      actions we can take toward both of these ends. It serves nobody but the powerful
+      to believe there’s nothing we can do to change things. Too many socialists are
+      content to just sit around smugly knowing better than everyone else and having
+      all the correct opinions about things while expressing distain for everyone who
+      tries to expand awareness or make the world a better place. Get active in your
+      community. Produce dissident media. Make revolutionary art. Have conversations.
+      Change minds. Open some eyes. Wake people up so that one day there will be enough
+      of us to force real change. It serves nobody but the powerful to believe you are
+      doomed to a life of misery. Too many socialists are content to blame all their
+      internal dysfunction on the abuses of capitalism and just spend their days masturbating
+      their inner wounds in meetings and online without doing the rigorous inner work
+      necessary to come to inner peace. Get curious about your internal processes. Research
+      the many modalities for inner healing that are available online. Listen to the
+      brilliant minds who’ve been sharing groundbreaking new insights about trauma and
+      inner work lately. Investigate the possibility that spiritual enlightenment is
+      a real phenomenon that is entirely achievable in this life. Take responsibility
+      for your own inner wellbeing, and start doing something about it. We don’t need
+      to sit around paralyzed by power-serving learned helplessness. We don’t need to
+      sit idly by waiting for some deus ex machina resolution to our plight. We don’t
+      need to resign ourselves to a life of suffering and making the same mistakes over
+      and over again because we’re being whipped about by unconscious forces within
+      us that we’ve never taken the time to investigate. There is always something we
+      can do. We can never do everything, but we can always do something. There’s no
+      good reason not to do that something we can do, every single day of our lives.
+      ________________ Caitlin’s Newsletter is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber. My
+      work is entirely reader-supported , so if you enjoyed this piece here are some
+      options where you can toss some money into my tip jar if you want to. The best
+      way to make sure you see everything I write is to get on my free mailing list
+      . Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article emphasizes that despite feelings of powerlessness
+      against entrenched systems of control, individuals can still take action to challenge
+      the status quo and improve their own lives.
+    paragraph_summary: The article emphasizes the importance of recognizing one's power
+      in the face of systemic oppression and personal struggles, urging readers not
+      to succumb to feelings of helplessness perpetuated by the powerful elite. It acknowledges
+      the overwhelming nature of political and economic systems that seem designed to
+      marginalize ordinary voices and maintain the status quo, leading many to believe
+      they are powerless to effect change. However, it asserts that individuals can
+      still take action to challenge these structures and improve their own lives, highlighting
+      the potential for collective empowerment and personal healing. Ultimately, the
+      piece encourages a shift in mindset from one of defeat to one of agency and possibility.
+    published: '2025-11-27T00:08:30+00:00'
   - title: A Note Of Gratitude And Appreciation
     url: https://www.caitlinjohnst.one/p/a-note-of-gratitude-and-appreciation
     text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
