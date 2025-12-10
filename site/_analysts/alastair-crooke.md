@@ -7,17 +7,184 @@ description: "Ex-MI6 diplomat and founder of Conflicts Forum (Beirut); publishes
 websites:
   - https://www.eurasiareview.com/author/alastair-crooke/
 summary: |
-  Amidst ongoing global instability, recent developments underscore the deepening crisis in Western political and strategic coherence, with ripple effects across the US, Europe, and the broader Eurasian sphere. The latest focus is on diplomatic maneuvering around the Ukraine conflict, shifting US domestic dynamics, and the recalibration of alliances in Asia.
+  Amidst ongoing geopolitical turbulence, the latest developments center on the faltering U.S.-Russia dialogue over Ukraine, deepening Western political disarray, and the persistent recalibration of global alliances.
   
-  A new Ukrainian peace plan, spearheaded by Parliamentarian Goncharenko, has drawn scrutiny for its vagueness and lack of Russian involvement. **Alastair Crooke** notes that the plan appears less a genuine diplomatic overture and more a “test of Russia’s willingness for peace,” with Moscow almost certain to reject its terms. The absence of Russian representation in the drafting process signals, according to Crooke, that Western efforts remain performative rather than substantive, further entrenching the stalemate.
+  The most recent and significant event is the Moscow meeting between Steve Witkoff, Jared Kushner, and President Putin. As **Alastair Crooke** reports, this engagement underscored a fundamental disconnect: while U.S. envoys sought to advance talking points aligned with Trump's desire for a quick diplomatic "success" in Ukraine, Putin insisted on a legally binding treaty addressing the conflict's root causes. Crooke notes that the U.S. approach appears more performative than substantive, with Washington prioritizing optics over the structural issues at stake. This signals that, despite high-level contacts, there is no real progress toward a durable settlement—Putin remains unmoved by proposals that do not guarantee Russia’s core security interests.
   
-  Meanwhile, the US political landscape is showing signs of profound structural crisis. The recent Democratic victories and California’s redistricting, as analyzed by **Alastair Crooke**, reflect a “growing populist discontent” with both major parties. This disillusionment, he argues, could precipitate significant instability, especially for Trump, who now faces challenges from within his own base. The economic underpinnings of this unrest suggest that the US may be entering a period of heightened unpredictability, with foreign policy potentially becoming a casualty of domestic discord.
+  Meanwhile, domestic political instability in the U.S. continues to shape its foreign policy posture. Recent Democratic victories and California's re-districting, according to **Crooke**, reveal a growing populist backlash against both parties. This internal discontent is feeding into a broader crisis of legitimacy, which could undermine Trump’s ability to project coherent policy abroad. The resulting unpredictability is likely to further complicate U.S. engagement with both allies and adversaries.
   
-  In Asia, the unexpected pivot of Japan towards China continues to unsettle established alliances. Crooke highlights that this move could “destabilize US economic influence in Asia,” accelerating the erosion of Washington’s regional dominance. The broader context is one of a multipolar world in which the US struggles to adapt, as evidenced by the cancellation of high-level summits and the inability to secure consensus on key security issues.
+  On the global stage, the West’s declining influence is increasingly apparent. The earlier pivot of Japan towards China, as highlighted by Crooke, has unsettled U.S. economic dominance in Asia, while the Shanghai Cooperation Organization’s assertiveness signals a shift towards multipolarity. The U.S. establishment remains anxious about the erosion of dollar supremacy and the rise of alternative financial systems led by China.
   
   **Trends and Predictions:**  
-  The prevailing trend is one of fragmentation—both within Western societies and across the international order. The Ukraine peace process is likely to remain stalled, with no breakthrough expected unless Western actors engage Russia directly and substantively. In the US, political instability is set to intensify, with a high chance of further populist backlash and policy paralysis. In Asia, the realignment of key players such as Japan is quite likely to accelerate the decline of US influence. I guarantee that, barring a major strategic rethink in Washington and Brussels, the current trajectory will lead to greater disorder and diminished Western leverage in global affairs.
+  - There is a high chance that U.S.-Russia negotiations over Ukraine will remain deadlocked, as Moscow demands legally binding guarantees that Washington is unwilling or unable to provide.
+  - The U.S. domestic political crisis is quite likely to intensify, further constraining Trump’s foreign policy maneuverability.
+  - The global shift towards multipolarity and the weakening of Western economic and diplomatic leverage will most definitely continue, with Asian powers consolidating their positions.
+  
+  In sum, the current trajectory points to sustained geopolitical fragmentation, with Western attempts at diplomatic resets proving largely ineffective against the backdrop of structural shifts in global power.
 articles:
+  - title: 'Bait And Switch Stage Two: Shooting The Breeze In Moscow – OpEd'
+    url: https://www.eurasiareview.com/09122025-bait-and-switch-stage-two-shooting-the-breeze-in-moscow-oped/
+    text: 'By Alastair Crooke
+
+
+      President Trump’s friend, Steve Witkoff, together with Trump’s son-in-law, Jared
+      Kushner, met on 2 December with President Putin at the Kremlin in Moscow.
+
+
+      Taking part in the meeting on the Russian side were Presidential Aide Yury Ushakov
+      and Kirill Dmitriev. This marked Witkoff’s sixth meeting with Putin in 2025 and
+      Kushner’s first in-person involvement in these talks.
+
+
+      Reportedly, the core agenda was an ‘update’ of the U.S. ‘talking points’ – one
+      that is said to have incorporated further (unspecified) input from the Ukrainians
+      and Europeans.
+
+
+      Despite the redrafting, the talking points reflect a U.S. agenda that is little
+      changed in essence from earlier Witkoff talking points. It is, for example, again
+      framed around a ceasefire (rather than a wider political agreement, as Russia
+      demands); on de facto border recognition (rather than de jure recognition of the
+      four oblasts now constitutionally incorporated into Russia).
+
+
+      Some possible Ukrainian concessions in the Donbas region seemingly were discussed
+      too, as well as security guarantees for Ukraine that would be coordinated with
+      European allies; and finally, ‘restrictions’ on Ukraine’s military capabilities
+      (somewhat laughably ‘capped’ at 800,000 men – rather than the 2022 Istanbul ball-park
+      figure of some 50,000-60,00).
+
+
+      Putin reportedly agreed that some elements of the proposal might merit further
+      discussion, but reiterated Russia’s non-negotiable positions.
+
+
+      In sum, it seems that, as Marco Rubio has stated, “[the U.S. continues] to test
+      to see if the Russians are ‘interested in peace’. Their actions – not their words,
+      their actions – will determine whether they’re serious or not, and we [team Trump]
+      intend to find that out sooner rather than later …”.
+
+
+      Effectively, Witkoff was sent to Moscow ‘to test yet again’ (after another American
+      escalatory episode, with four ATACM long-range missiles fired ‘deep into Russia’
+      and the imposition of more oil sanctions) whether Putin now was willing to do
+      a ‘deal’ that Trump could present as an ‘American achievement’.
+
+
+      The U.S. ‘carrot’ is the offer of incremental sanctions relief (at U.S. discretion).
+      The ‘stick’ was represented by the missiles launched into deep Russia – and more
+      sanctions imposed on Russian oil companies. These latter clearly were intended
+      as a ‘memo’ of what might follow – should Putin not agree a ‘deal’.
+
+
+      This is the same ‘deal’ that has been offered to Russia before. And here is the
+      rub – simply, Putin does not want a ‘deal’. What he insists on is a legally binding
+      treaty – as he has repeatedly stated.
+
+
+      Putin pointedly underlined this demand through Lavrov’s absence from the Witkoff
+      meeting. It was a clear signal from Russia that the foundation for actual negotiations
+      is still not in place. Putin’s goal was to explain — politely and firmly — what
+      Russia’s fundamental positions are with respect to settling the war in Ukraine.
+
+
+      These positions are unchanged from those that Putin outlined on 14 June 2024 in
+      his address to the Russian Foreign Ministry staff.
+
+
+      Putin however, sent his own ‘message’ to the White House.
+
+
+      Speaking to reporters in Bishkek, in Kyrgyzstan last Thursday, Putin explained
+      how negotiations with the U.S. should – and must – be handled. He said that Foreign
+      Minister Lavrov is responsible for handling contacts and negotiations on possible
+      terms to end the war in Ukraine, and that he relies on Lavrov’s reports from these
+      talks, while avoiding public discussion of specific proposals.
+
+
+      So, there it is. Putin scents the coming U.S. ‘switch’ – and won’t have any of
+      it.
+
+
+      He is indicating that the negotiation process is only to be conducted through
+      professional channels, in a professionally staffed and legal format that leads
+      to a treaty, rather than ‘a deal’.
+
+
+      Putin thus explicitly renounces ‘a deal’. Witkoff and Kushner were intent on seeking
+      to extract concessions from Russia: they sought a temporary ceasefire (rather
+      than any binding settlement), sweetened by sanctions relief that would incremental:
+      i.e. as ‘periodic rewards’ for continued Russian good behaviour (rather as rats
+      in a laboratory are trained to press the food button).
+
+
+      Why is the U.S. so stuck on a ceasefire rather than a comprehensive security framework
+      including a new security architecture for East Europe?
+
+
+      The answer is that Trump wants a ‘win’ – an outcome that can be presented to the
+      American public as another war ‘stopped by Trump’ (he claims it would be the eighth),
+      whilst simultaneously sold to the deep powers as merely a hiatus in a conflict
+      that will be resumed after a pause – when the Europeans (‘security guarantors’)
+      have rebuilt the Ukrainian army. It would represent ‘a win’ for the ‘hawks’ because
+      it can be ‘narrated’ that resumed military conflict would eat into the Russian
+      economy, and might even end with Putin’s removal from office.
+
+
+      Wishful thinking, of course. But so many western narratives are wishful, rather
+      than realist thinking.
+
+
+      In short, the overall aim to the American opaque and ambiguous ‘talking points’
+      is to corner Putin, and push him off his fundamental principles – such as his
+      insistence on eliminating the root causes to the conflict, and not just the symptoms.
+      There is no hint in this or earlier drafts or of any recognition of root causes
+      (expansion of NATO and missile emplacements), beyond the vague promise of a “dialogue
+      [that] will be conducted between Russia and NATO, mediated by the United States,
+      to resolve all security issues and create conditions for de-escalation, thereby
+      ensuring global security and increasing opportunities for cooperation and future
+      economic development”.
+
+
+      The Sherlock Holmesian ‘dog that significantly did not bark in the night’ consists
+      in the odd absence of Rubio, who is the formal Secretary of State, and the man,
+      who, in normal circumstances would negotiate a legal and binding treaty.
+
+
+      Instead, we have Trump’s New York real estate friend and his son-in-law. Neither
+      are formal members of the U.S. Administration; neither are mandated by the official
+      organs of the U.S. state to negotiate on behalf of the United States.
+
+
+      So should America decide to resume its war on Russia, it would be possible to
+      say, as per the “not one inch eastward” (as after the reunification of Germany),
+      ‘but was that not-an-inch further’ commitment written on paper?
+
+
+      Witkoff and Kushner? ‘They were but Trump’s friends shooting the breeze during
+      a visit to Moscow’.'
+    one_sentence_summary: Steve Witkoff and Jared Kushner met with President Putin in
+      Moscow to discuss U.S. talking points regarding the Ukraine conflict, but the
+      meeting highlighted a fundamental disconnect between U.S. and Russian positions,
+      with Putin emphasizing the need for a legally binding treaty rather than a temporary
+      deal, reflecting Trump's desire for a narrative of success while ignoring the
+      deeper causes of the conflict.
+    paragraph_summary: In a recent meeting at the Kremlin, President Trump’s associates,
+      Steve Witkoff and Jared Kushner, engaged with President Putin and his aides to
+      discuss U.S. talking points regarding the ongoing conflict in Ukraine. This marked
+      Kushner's first direct involvement in such discussions, while Witkoff had met
+      with Putin multiple times before. The agenda centered on updating U.S. proposals,
+      which still largely reflect previous positions, focusing on a ceasefire rather
+      than a comprehensive political agreement, and included discussions on potential
+      Ukrainian concessions and military restrictions. However, Putin reiterated Russia's
+      demand for a legally binding treaty, signaling that he is not interested in a
+      temporary deal. The U.S. strategy appears to be aimed at securing a narrative
+      of success for Trump, while the absence of formal negotiators like Secretary of
+      State Marco Rubio raises questions about the legitimacy and seriousness of the
+      U.S. approach. Ultimately, the meeting underscores a persistent disconnect between
+      U.S. and Russian positions, with Putin emphasizing the need for professional negotiation
+      channels rather than informal discussions.
+    published: '2025-12-08T23:44:42+00:00'
   - title: The US ‘Bait And Switch’ Operation Targeting Putin’s ‘Root Cause’ Principles
       – OpEd
     url: https://www.eurasiareview.com/24112025-the-us-bait-and-switch-operation-targeting-putins-root-cause-principles-oped/

@@ -7,16 +7,61 @@ description: "Investigative journalist and filmmaker; founder of The Grayzone; c
 websites:
   - https://thegrayzone.com
 summary: |
-  The past weeks have seen mounting evidence of covert operations and information control shaping political realities across several regions. Recent disclosures, particularly from **Max Blumenthal**, have illuminated the extent of Western state and intelligence involvement in both domestic and foreign affairs, with significant implications for press freedom, regional stability, and democratic processes.
+  As global power struggles intensify, recent revelations highlight the deepening entanglement between intelligence agencies, private tech firms, and Western governments. The latest disclosures underscore a trend of increasing reliance on foreign-linked security infrastructure and covert influence operations, with significant implications for democratic oversight and international relations.
   
-  The most recent revelations concern the United Kingdom’s D-Notice censorship regime. Documents obtained by The Grayzone show that British soldiers and intelligence officials have systematically used D-Notices to suppress reporting on sensitive national security matters. According to **Blumenthal**, this regime boasts a “high success rate in enforcing the official narrative and silencing controversial stories,” underscoring the persistent tension between state secrecy and journalistic independence. This development is likely to fuel further debate over transparency and accountability in the UK, with a high chance of increased scrutiny from both domestic and international watchdogs.
+  The most recent development, as reported by **Max Blumenthal**, is the Pentagon and multiple US government agencies’ adoption of cybersecurity services from Axonius—a firm founded by former Israeli military intelligence operatives. This move, intended to bolster US data protection, raises questions about the influence of foreign intelligence veterans over sensitive American digital infrastructure. The majority of analysts cited by Blumenthal warn that this could create vulnerabilities and potential conflicts of interest, especially given the history of intelligence-sharing between the US and Israel.
   
-  Meanwhile, in Central America, the U.S. role in Honduran politics has come under renewed focus. **Blumenthal** reports that Donald Trump’s recent pardon of former Honduran President Juan Orlando Hernandez—convicted of narco-trafficking—coincides with threats to undermine Honduras’ economy unless the National Party wins the upcoming election. These actions are widely interpreted as attempts to influence the electoral outcome, raising concerns about the integrity of the process and the broader implications for U.S. policy in the region. Given the pattern of U.S. intervention, it is quite likely that political tensions and instability in Honduras will intensify in the coming weeks.
+  In the UK, newly obtained documents reveal the extent of the British military and intelligence community’s use of the D-Notice censorship regime. According to **Max Blumenthal**, the D-Notice system has been highly effective in suppressing reporting on national security matters, shaping public perception, and silencing dissenting narratives. This practice, while justified by officials as necessary for national security, is increasingly criticized for undermining press freedom and democratic accountability.
   
-  Finally, the exposure of the UK’s D-Notice system and the U.S. maneuvering in Honduras reflect a broader trend of Western governments employing both overt and covert means to shape narratives and outcomes in their favor. As **Blumenthal**’s reporting suggests, there is a high chance that further leaks and investigative work will continue to reveal the depth of these operations. Most definitely, the coming months will see heightened calls for transparency and accountability, though the entrenched nature of these practices means substantive change is unlikely in the near term.
+  Meanwhile, in Central America, the US role in regional politics faces renewed scrutiny. Former President Donald Trump’s recent pardon of convicted narco-trafficker Juan Orlando Hernandez, coupled with threats to undermine the Honduran economy unless the National Party prevails in upcoming elections, suggests ongoing efforts to influence political outcomes abroad. **Max Blumenthal** notes that these actions are widely viewed as attempts to secure US-aligned leadership in Honduras, despite widespread condemnation and concerns about democratic legitimacy.
   
-  In summary, the latest developments highlight a persistent pattern: Western powers leveraging information control and political influence to maintain strategic advantages, often at the expense of democratic norms and public oversight. The confidence in these trends is high, and further disclosures are almost guaranteed to keep these issues at the forefront of geopolitical discourse.
+  **Trends and Predictions:**  
+  The convergence of intelligence, technology, and political intervention is accelerating, with Western governments increasingly outsourcing critical security functions to private firms with foreign ties. This is likely to fuel debates over sovereignty, transparency, and the erosion of civil liberties. In the UK, the entrenchment of censorship mechanisms is expected to persist, with high confidence that official narratives will continue to dominate public discourse. In Central America, US interventionist tactics are quite likely to provoke instability and backlash, with a high chance of further revelations about covert operations. I guarantee that scrutiny of these practices will intensify, driving calls for greater oversight and accountability across the transatlantic sphere.
 articles:
+  - title: Former Israeli spies now overseeing US government cybersecurity
+    url: https://thegrayzone.com/2025/12/03/israeli-spies-run-us-cybersecurity/
+    text: The Pentagon, Treasury Department, DHS, and a variety of other US government
+      agencies have begun relying on a firm launched by former Israeli military intelligence
+      operatives to consolidate and protect their data. This article was originally
+      published by ¡Do Not Panic! A company with deep ties to Israeli intelligence oversees
+      cyber security across more than seventy US government agencies, including the
+      Department of Defense and Homeland Security. Axonius was founded by former spies
+      in Israel’s Unit 8200 and its software, which […] The post Former Israeli spies
+      now overseeing US government cybersecurity first appeared on The Grayzone . The
+      post Former Israeli spies now overseeing US government cybersecurity appeared
+      first on The Grayzone .
+    one_sentence_summary: The Pentagon and various US government agencies are utilizing
+      cybersecurity services from Axonius, a firm founded by former Israeli military
+      intelligence operatives, to enhance their data protection efforts.
+    paragraph_summary: The Pentagon, Treasury Department, and DHS, among other US government
+      agencies, are increasingly relying on Axonius, a cybersecurity firm founded by
+      former Israeli military intelligence operatives from Unit 8200, to manage and
+      secure their data. This company, which has strong connections to Israeli intelligence,
+      is now responsible for overseeing cybersecurity across more than seventy US government
+      entities, including the Department of Defense and Homeland Security.
+    published: '2025-12-03T21:00:13+00:00'
+  - title: Former Israeli spies now overseeing US government cybersecurity
+    url: https://thegrayzone.com/2025/12/03/israeli-spies-run-us-cybersecurity/
+    text: The Pentagon, Treasury Department, DHS, and a variety of other US government
+      agencies have begun relying on a firm launched by former Israeli military intelligence
+      operatives to consolidate and protect their data. This article was originally
+      published by ¡Do Not Panic! A company with deep ties to Israeli intelligence oversees
+      cyber security across more than seventy US government agencies, including the
+      Department of Defense and Homeland Security. Axonius was founded by former spies
+      in Israel’s Unit 8200 and its software, which […] The post Former Israeli spies
+      now overseeing US government cybersecurity first appeared on The Grayzone . The
+      post Former Israeli spies now overseeing US government cybersecurity appeared
+      first on The Grayzone .
+    one_sentence_summary: The Pentagon and various US government agencies are utilizing
+      cybersecurity services from Axonius, a firm founded by former Israeli military
+      intelligence operatives, to enhance their data protection efforts.
+    paragraph_summary: The Pentagon, Treasury Department, and DHS, among other US government
+      agencies, are increasingly relying on Axonius, a cybersecurity firm founded by
+      former Israeli military intelligence operatives from Unit 8200, to manage and
+      secure their data. This company, which has strong connections to Israeli intelligence,
+      is now responsible for overseeing cybersecurity across more than seventy US government
+      entities, including the Department of Defense and Homeland Security.
+    published: '2025-12-03T21:00:13+00:00'
   - title: Files expose Britain’s secret D-Notice censorship regime
     url: https://thegrayzone.com/2025/11/30/files-expose-britains-secret-d-notice-censorship-regime/
     text: Documents obtained by The Grayzone reveal how British soldiers and spies censor

@@ -7,14 +7,1106 @@ description: "Veteran Middle East war correspondent; provides first-hand analysi
 websites:
   - https://ejmagnier.com
 summary: |
-  The fragile ceasefire between Lebanon and Israel, established in the wake of the 2023 Gaza war, continues to unravel, with Lebanon increasingly drawn into a secondary conflict zone. Despite Hezbollah’s adherence to the agreement, Israeli violations of Lebanese sovereignty have persisted throughout the past year. As **Elijah J. Magnier** notes, “the ceasefire… has largely failed in practice, with Lebanon becoming a secondary battleground despite Hezbollah's compliance with the agreement and the ongoing Israeli violations.”
+  As the conflict in Gaza enters a new phase, the strategic landscape has shifted markedly, with the United States now asserting greater control over the direction and tempo of events. According to **Elijah J. Magnier**, Washington has moved away from seeking outright military victories and is instead imposing a "sequencing" strategy that prioritizes economic and political frameworks. This approach effectively freezes conflicts rather than resolving them, a significant departure from Israel's traditional reliance on military initiative.
   
-  Recent analysis underscores a significant doctrinal shift within Hezbollah. The group has recalibrated its military posture, moving away from large-scale missile exchanges with Israel. Instead, it now reserves the use of long-range precision missiles for extreme scenarios—primarily to defend civilians or in response to direct attacks on Lebanese territory. This strategic adjustment aims to avoid a devastating escalation that could lead to widespread destruction in Lebanon. **Elijah J. Magnier** explains that Hezbollah “will only consider the use of long-range precision missiles in extreme circumstances, particularly if Israel targets civilians, while also preparing defensively against potential ground incursions.”
+  Recent developments underscore Israel's growing constraints. Despite international pressure and U.S. directives, Israel continues to violate ceasefire agreements by restricting humanitarian aid access to Gaza, deepening the ongoing humanitarian crisis. **Magnier** notes that Israel's actions are increasingly at odds with Washington's objectives, signaling a loss of strategic initiative for Tel Aviv and a recalibration of U.S. policy in the region.
   
-  Meanwhile, Lebanon’s internal vulnerabilities remain acute. The state’s limited capacity, combined with external pressures—especially from the US and Israel—continues to complicate the domestic balance of power. The intensification of Israeli attacks and political pressure from Washington have further strained Lebanon’s already fragile political and security framework.
+  This U.S.-led sequencing strategy is not limited to Gaza. There are indications, as previously reported, that Washington is testing similar approaches in other conflict zones, notably in Ukraine, where pragmatic ceasefires based on military realities are being explored.
   
-  Looking ahead, the prevailing trend is one of persistent instability along the Lebanon-Israel frontier, with a high likelihood of continued low-intensity conflict and sporadic escalations. However, given Hezbollah’s revised doctrine, a full-scale missile war is unlikely unless there is a significant provocation involving civilian casualties. As **Elijah J. Magnier** concludes, “there is a high chance that the current pattern of violations and limited responses will persist, with both sides seeking to avoid a broader war.” This assessment is shared with high confidence, barring any dramatic shift in the underlying dynamics.
+  Looking ahead, the prevailing trend is clear: the U.S. is consolidating its role as the principal arbiter in regional conflicts, leveraging political and economic tools over direct military engagement. I guarantee that, barring unforeseen escalations, this approach will continue to define U.S. strategy in the Middle East and beyond, with Israel's operational freedom likely to remain curtailed and the humanitarian situation in Gaza subject to the pace and priorities set by Washington.
 articles:
+  - title: 'Gaza and the Moment Israel Lost Strategic Initiative: Washington Takes Control
+      of the Second Phase'
+    url: https://ejmagnier.com/2025/12/09/gaza-and-the-moment-israel-lost-strategic-initiative-washington-takes-control-of-the-second-phase/
+    text: By Elijah J. Magnier – The United States is no longer seeking decisive battlefield
+      outcomes. Instead, it is enforcing a sequencing strategy in which escalation is
+      postponed, conflicts are frozen, and economic–political frameworks take precedence.
+      Israel, long accustomed to shaping events through military initiative, now finds
+      itself increasingly constrained by this approach. As widely anticipated, Israel
+      has not complied with the ceasefire agreement or its provisions. One of the earliest
+      and most consequential violations concerns humanitarian access. The agreement
+      stipulated the daily entry of 600 humanitarian aid trucks into Gaza. In practice,
+      Israel has allowed fewer than 220 per day, despite Gaza requiring several thousand
+      truckloads daily to cope with the consequences of a prolonged war and months of
+      enforced starvation resulting from Israeli policy. At the same time, the prisoner
+      file is nearing closure. Of the 255 Israeli captives taken on 7 October, only
+      one remains unaccounted for. All others have been accounted for, either released
+      alive or returned deceased, in line with the first article of the agreement. Locating
+      the final group of Israeli prisoners proved particularly difficult due to Israel’s
+      indiscriminate bombardment of Gaza, the widescale destruction and bulldozing of
+      Palestinian homes, and the deliberate flooding of Hamas tunnels with cement, where
+      several captives were believed to have been held. Despite the near completion
+      of this central obligation, no multinational stabilisation force has been deployed
+      to Gaza, contrary to what was envisaged in the second phase of US President Donald
+      Trump’s plan that brought an end to nearly two years of war on the Strip. Meanwhile,
+      more than two million Palestinians remain confined to roughly 40 per cent of Gaza’s
+      total area of 360 square kilometres. This population is restricted to zones designated
+      — and progressively expanded — by Israel as a “yellow safe line,” pending the
+      plan’s implementation and an Israeli redeployment to a secondary line that would
+      nonetheless formalise a permanent buffer zone. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: The article discusses how the U.S. is shifting its strategy
+      from seeking decisive military outcomes to enforcing a sequencing approach that
+      prioritizes economic and political frameworks, which has led to Israel's non-compliance
+      with ceasefire agreements and inadequate humanitarian aid delivery to Gaza.
+    paragraph_summary: The article by Elijah J. Magnier discusses the shift in U.S.
+      strategy regarding the Israeli-Palestinian conflict, moving from seeking decisive
+      military outcomes to a sequencing approach that prioritizes economic and political
+      frameworks while freezing conflicts. Israel, traditionally reliant on military
+      initiatives, is now facing limitations under this strategy, particularly evident
+      in its failure to adhere to a ceasefire agreement that promised daily humanitarian
+      aid to Gaza. Instead of the stipulated 600 aid trucks, Israel has allowed fewer
+      than 220, exacerbating the humanitarian crisis in the region. While the situation
+      regarding Israeli captives from the October 7 incident is nearing resolution,
+      with most accounted for, the anticipated multinational stabilization force has
+      not been deployed. Over two million Palestinians remain confined to a restricted
+      area of Gaza, highlighting the ongoing humanitarian and political challenges.
+    published: '2025-12-09T18:07:58+00:00'
+  - title: 'Gaza and the Moment Israel Lost Strategic Initiative: Washington Takes Control
+      of the Second Phase'
+    url: https://ejmagnier.com/2025/12/09/gaza-and-the-moment-israel-lost-strategic-initiative-washington-takes-control-of-the-second-phase/
+    text: By Elijah J. Magnier – The United States is no longer seeking decisive battlefield
+      outcomes. Instead, it is enforcing a sequencing strategy in which escalation is
+      postponed, conflicts are frozen, and economic–political frameworks take precedence.
+      Israel, long accustomed to shaping events through military initiative, now finds
+      itself increasingly constrained by this approach. As widely anticipated, Israel
+      has not complied with the ceasefire agreement or its provisions. One of the earliest
+      and most consequential violations concerns humanitarian access. The agreement
+      stipulated the daily entry of 600 humanitarian aid trucks into Gaza. In practice,
+      Israel has allowed fewer than 220 per day, despite Gaza requiring several thousand
+      truckloads daily to cope with the consequences of a prolonged war and months of
+      enforced starvation resulting from Israeli policy. At the same time, the prisoner
+      file is nearing closure. Of the 255 Israeli captives taken on 7 October, only
+      one remains unaccounted for. All others have been accounted for, either released
+      alive or returned deceased, in line with the first article of the agreement. Locating
+      the final group of Israeli prisoners proved particularly difficult due to Israel’s
+      indiscriminate bombardment of Gaza, the widescale destruction and bulldozing of
+      Palestinian homes, and the deliberate flooding of Hamas tunnels with cement, where
+      several captives were believed to have been held. Despite the near completion
+      of this central obligation, no multinational stabilisation force has been deployed
+      to Gaza, contrary to what was envisaged in the second phase of US President Donald
+      Trump’s plan that brought an end to nearly two years of war on the Strip. Meanwhile,
+      more than two million Palestinians remain confined to roughly 40 per cent of Gaza’s
+      total area of 360 square kilometres. This population is restricted to zones designated
+      — and progressively expanded — by Israel as a “yellow safe line,” pending the
+      plan’s implementation and an Israeli redeployment to a secondary line that would
+      nonetheless formalise a permanent buffer zone. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: The article discusses how the U.S. is shifting its strategy
+      from seeking decisive military outcomes to enforcing a sequencing approach that
+      prioritizes economic and political frameworks, which has led to Israel's non-compliance
+      with ceasefire agreements and inadequate humanitarian aid delivery to Gaza.
+    paragraph_summary: The article by Elijah J. Magnier discusses the shift in U.S.
+      strategy regarding the Israeli-Palestinian conflict, moving from seeking decisive
+      military outcomes to a sequencing approach that prioritizes economic and political
+      frameworks while freezing conflicts. Israel, traditionally reliant on military
+      initiatives, is now facing limitations under this strategy, particularly evident
+      in its failure to adhere to a ceasefire agreement that promised daily humanitarian
+      aid to Gaza. Instead of the stipulated 600 aid trucks, Israel has allowed fewer
+      than 220, exacerbating the humanitarian crisis in the region. While the situation
+      regarding Israeli captives from the October 7 incident is nearing resolution,
+      with most accounted for, the anticipated multinational stabilization force has
+      not been deployed. Over two million Palestinians remain confined to a restricted
+      area of Gaza, highlighting the ongoing humanitarian and political challenges.
+    published: '2025-12-09T18:07:58+00:00'
+  - title: 'Gaza et le moment où Israël a perdu l’initiative stratégique : Washington
+      prend le contrôle de la deuxième phase'
+    url: https://ejmagnier.com/2025/12/09/gaza-et-le-moment-ou-israel-a-perdu-linitiative-strategique-washington-prend-le-controle-de-la-deuxieme-phase/
+    text: Les États-Unis ne cherchent plus des résultats décisifs sur le champ de bataille.
+      Ils imposent désormais une stratégie de séquençage dans laquelle l’escalade est
+      repoussée, les conflits gelés et les cadres politico-économiques placés au premier
+      plan. Israël, longtemps habitué à façonner les événements par l’initiative militaire,
+      se retrouve aujourd’hui de plus en plus contraint par cette approche. Comme largement
+      anticipé, Israël ne s’est pas conformé à l’accord de cessez-le-feu ni à ses dispositions.
+      L’une des violations les plus précoces et les plus lourdes de conséquences concerne
+      l’accès humanitaire. L’accord prévoyait l’entrée quotidienne de 600 camions d’aide
+      humanitaire à Gaza. En pratique, Israël n’en autorise pas plus de 220 par jour,
+      alors que Gaza nécessite plusieurs milliers de camions quotidiennement pour faire
+      face aux effets d’une guerre prolongée et de mois de famine imposée par la politique
+      israélienne. Parallèlement, le dossier des prisonniers arrive à son terme. Sur
+      les 255 captifs israéliens enlevés le 7 octobre, un seul reste non localisé. Tous
+      les autres ont été recensés, soit libérés vivants, soit restitués décédés, conformément
+      au premier article de l’accord. La localisation du dernier groupe de prisonniers
+      israéliens s’est révélée particulièrement difficile en raison des bombardements
+      indiscriminés menés par Israël à Gaza, de la destruction massive et du bulldozage
+      des habitations palestiniennes, ainsi que de l’injection délibérée de ciment dans
+      les tunnels du Hamas, où plusieurs captifs auraient été détenus. Malgré l’achèvement
+      quasi complet de cette obligation centrale, aucune force multinationale de stabilisation
+      n’a été déployée à Gaza, contrairement à ce qui était prévu dans la deuxième phase
+      du plan du président américain Donald Trump, qui a mis fin à près de deux années
+      de guerre dans l’enclave. Dans le même temps, plus de deux millions de Palestiniens
+      restent confinés à environ 40 % des 360 kilomètres carrés de Gaza. Cette population
+      est cantonnée dans des zones désignées — et progressivement étendues — par Israël
+      comme une « ligne de sécurité jaune », en attendant la mise en œuvre du plan et
+      un redéploiement israélien vers une ligne secondaire qui consacrerait néanmoins
+      une zone tampon permanente. Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly
+    one_sentence_summary: Les États-Unis adoptent une stratégie de séquençage qui privilégie
+      les cadres politico-économiques et gèle les conflits, tandis qu'Israël, habitué
+      à l'initiative militaire, viole les accords de cessez-le-feu en limitant l'accès
+      humanitaire à Gaza, aggravant ainsi la crise humanitaire.
+    paragraph_summary: Les États-Unis ont changé leur approche en matière de conflits,
+      privilégiant une stratégie de séquençage qui met l'accent sur la stabilisation
+      politique et économique plutôt que sur des résultats militaires décisifs. Cette
+      nouvelle dynamique contraint Israël, qui a traditionnellement agi par des initiatives
+      militaires, à s'adapter à des conditions où les conflits sont gelés et les escalades
+      retardées. Malgré un accord de cessez-le-feu qui prévoyait l'entrée quotidienne
+      de 600 camions d'aide humanitaire à Gaza, Israël n'en autorise que 220, alors
+      que la région a un besoin urgent de plusieurs milliers de camions pour faire face
+      aux conséquences d'une guerre prolongée. Par ailleurs, la situation des prisonniers
+      israéliens capturés en octobre est presque résolue, mais la localisation du dernier
+      reste compliquée en raison des bombardements israéliens et de la destruction des
+      infrastructures à Gaza. Enfin, plus de deux millions de Palestiniens continuent
+      de vivre dans des conditions précaires, confinés sur une petite partie du territoire
+      de Gaza.
+    published: '2025-12-09T18:06:43+00:00'
+  - title: 'Gaza et le moment où Israël a perdu l’initiative stratégique : Washington
+      prend le contrôle de la deuxième phase'
+    url: https://ejmagnier.com/2025/12/09/gaza-et-le-moment-ou-israel-a-perdu-linitiative-strategique-washington-prend-le-controle-de-la-deuxieme-phase/
+    text: Les États-Unis ne cherchent plus des résultats décisifs sur le champ de bataille.
+      Ils imposent désormais une stratégie de séquençage dans laquelle l’escalade est
+      repoussée, les conflits gelés et les cadres politico-économiques placés au premier
+      plan. Israël, longtemps habitué à façonner les événements par l’initiative militaire,
+      se retrouve aujourd’hui de plus en plus contraint par cette approche. Comme largement
+      anticipé, Israël ne s’est pas conformé à l’accord de cessez-le-feu ni à ses dispositions.
+      L’une des violations les plus précoces et les plus lourdes de conséquences concerne
+      l’accès humanitaire. L’accord prévoyait l’entrée quotidienne de 600 camions d’aide
+      humanitaire à Gaza. En pratique, Israël n’en autorise pas plus de 220 par jour,
+      alors que Gaza nécessite plusieurs milliers de camions quotidiennement pour faire
+      face aux effets d’une guerre prolongée et de mois de famine imposée par la politique
+      israélienne. Parallèlement, le dossier des prisonniers arrive à son terme. Sur
+      les 255 captifs israéliens enlevés le 7 octobre, un seul reste non localisé. Tous
+      les autres ont été recensés, soit libérés vivants, soit restitués décédés, conformément
+      au premier article de l’accord. La localisation du dernier groupe de prisonniers
+      israéliens s’est révélée particulièrement difficile en raison des bombardements
+      indiscriminés menés par Israël à Gaza, de la destruction massive et du bulldozage
+      des habitations palestiniennes, ainsi que de l’injection délibérée de ciment dans
+      les tunnels du Hamas, où plusieurs captifs auraient été détenus. Malgré l’achèvement
+      quasi complet de cette obligation centrale, aucune force multinationale de stabilisation
+      n’a été déployée à Gaza, contrairement à ce qui était prévu dans la deuxième phase
+      du plan du président américain Donald Trump, qui a mis fin à près de deux années
+      de guerre dans l’enclave. Dans le même temps, plus de deux millions de Palestiniens
+      restent confinés à environ 40 % des 360 kilomètres carrés de Gaza. Cette population
+      est cantonnée dans des zones désignées — et progressivement étendues — par Israël
+      comme une « ligne de sécurité jaune », en attendant la mise en œuvre du plan et
+      un redéploiement israélien vers une ligne secondaire qui consacrerait néanmoins
+      une zone tampon permanente. Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly
+    one_sentence_summary: Les États-Unis adoptent une stratégie de séquençage qui privilégie
+      les cadres politico-économiques et gèle les conflits, tandis qu'Israël, habitué
+      à l'initiative militaire, viole les accords de cessez-le-feu en limitant l'accès
+      humanitaire à Gaza, aggravant ainsi la crise humanitaire.
+    paragraph_summary: Les États-Unis ont changé leur approche en matière de conflits,
+      privilégiant une stratégie de séquençage qui met l'accent sur la stabilisation
+      politique et économique plutôt que sur des résultats militaires décisifs. Cette
+      nouvelle dynamique contraint Israël, qui a traditionnellement agi par des initiatives
+      militaires, à s'adapter à des conditions où les conflits sont gelés et les escalades
+      retardées. Malgré un accord de cessez-le-feu qui prévoyait l'entrée quotidienne
+      de 600 camions d'aide humanitaire à Gaza, Israël n'en autorise que 220, alors
+      que la région a un besoin urgent de plusieurs milliers de camions pour faire face
+      aux conséquences d'une guerre prolongée. Par ailleurs, la situation des prisonniers
+      israéliens capturés en octobre est presque résolue, mais la localisation du dernier
+      reste compliquée en raison des bombardements israéliens et de la destruction des
+      infrastructures à Gaza. Enfin, plus de deux millions de Palestiniens continuent
+      de vivre dans des conditions précaires, confinés sur une petite partie du territoire
+      de Gaza.
+    published: '2025-12-09T18:06:43+00:00'
+  - title: 'Gaza en het moment waarop Israël het strategische initiatief verloor: Washington
+      neemt de controle over de tweede fase'
+    url: https://ejmagnier.com/2025/12/09/gaza-en-het-moment-waarop-israel-het-strategische-initiatief-verloor-washington-neemt-de-controle-over-de-tweede-fase/
+    text: Geschreven door Elijah J. Magnier – Vertaald door Francis J. De Verenigde
+      Staten streven niet langer naar beslissende resultaten op het slagveld. In plaats
+      daarvan voeren ze een strategie uit waarbij escalatie wordt uitgesteld, conflicten
+      worden bevroren en economisch-politieke kaders voorrang krijgen. Israël, dat al
+      lang gewend is om gebeurtenissen te beïnvloeden door middel van militaire initiatieven,
+      voelt zich nu steeds meer beperkt door deze aanpak. Zoals algemeen werd verwacht,
+      heeft Israël zich niet gehouden aan het staakt-het-vuren-akkoord en de bepalingen
+      daarvan. Een van de eerste en meest ingrijpende schendingen betreft de toegang
+      voor humanitaire hulp. Het akkoord bepaalde dat er dagelijks 600 vrachtwagens
+      met humanitaire hulp Gaza mochten binnenrijden. In de praktijk heeft Israël minder
+      dan 220 per dag toegestaan, ondanks het feit dat Gaza dagelijks enkele duizenden
+      vrachtwagenladingen nodig heeft om het hoofd te bieden aan de gevolgen van een
+      langdurige oorlog en maandenlange gedwongen uithongering als gevolg van het Israëlische
+      beleid. Tegelijkertijd nadert het dossier van de gevangenen zijn afronding. Van
+      de 255 Israëlische gevangenen die op 7 oktober zijn ontvoerd wordt er nog maar
+      één vermist. Alle anderen zijn teruggevonden, levend vrijgelaten of als overleden
+      teruggebracht, in overeenstemming met het eerste artikel van de overeenkomst.
+      Het opsporen van de laatste groep Israëlische gevangenen bleek bijzonder moeilijk
+      vanwege de willekeurige bombardementen van Israël op Gaza, de grootschalige verwoesting
+      en het met bulldozers platwalsen van Palestijnse huizen, en het opzettelijk onder
+      water zetten met cement van tunnels van Hamas, waar vermoedelijk verschillende
+      gevangenen werden vastgehouden. Ondanks dat deze centrale verplichting bijna is
+      nagekomen, is er geen multinationale stabilisatiemacht naar Gaza gestuurd, in
+      tegenstelling tot wat was voorzien in de tweede fase van het plan van de Amerikaanse
+      president Donald Trump, dat een einde maakte aan bijna twee jaar oorlog in de
+      Gazastrook. Ondertussen blijven meer dan twee miljoen Palestijnen opgesloten in
+      ongeveer 40 procent van het totale oppervlak van Gaza, dat 360 vierkante kilometer
+      beslaat. Deze bevolking is beperkt tot zones die door Israël zijn aangewezen –
+      en geleidelijk zijn uitgebreid – als een “gele veilige lijn”, in afwachting van
+      de uitvoering van het plan en een Israëlische hergroepering naar een secundaire
+      lijn die niettemin een permanente bufferzone zou formaliseren. De Israëlische
+      stafchef, Eyal Zamir, heeft duidelijk gemaakt dat deze “gele lijn” niet is bedoeld
+      als een tijdelijke regeling. Hij heeft deze lijn omschreven als zowel een “defensieve
+      als een offensieve positie”, waarmee hij aangeeft dat Israël van plan is deze
+      lijn te handhaven als de nieuwe feitelijke grens van Gaza, zonder dat er een onmiddellijke
+      terugtrekking op stapel staat. Premier Benjamin Netanyahu beweert ondertussen
+      dat de tweede fase van de overeenkomst “zeer dichtbij” is, maar stelt tegelijkertijd
+      als voorwaarde voor de uitvoering ervan dat de laatste Israëlische gevangene,
+      die vermoedelijk nog steeds onder het puin van Gaza begraven ligt, wordt gevonden
+      en teruggebrach. Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly
+    one_sentence_summary: De Verenigde Staten hanteren een strategie van het bevriezen
+      van conflicten en het prioriteren van economische en politieke oplossingen, terwijl
+      Israël zich steeds meer beperkt voelt in zijn militaire acties en het staakt-het-vuren-akkoord
+      schendt door de toegang tot humanitaire hulp voor Gaza te beperken.
+    paragraph_summary: In een artikel van Elijah J. Magnier, vertaald door Francis J.,
+      wordt besproken dat de Verenigde Staten hun militaire strategie in het Midden-Oosten
+      hebben veranderd van het nastreven van beslissende overwinningen naar het bevriezen
+      van conflicten en het prioriteren van economische en politieke oplossingen. Israël,
+      dat gewend is om conflicten via militaire acties te beïnvloeden, voelt zich beperkt
+      door deze nieuwe aanpak en heeft zich niet gehouden aan het staakt-het-vuren-akkoord,
+      met name wat betreft de toegang tot humanitaire hulp voor Gaza. Ondanks de afspraak
+      om dagelijks 600 vrachtwagens met hulp toe te laten, heeft Israël in werkelijkheid
+      minder dan 220 per dag toegestaan, terwijl Gaza duizenden vrachtwagens nodig heeft.
+      Ondertussen is de situatie van de Israëlische gevangenen die op 7 oktober zijn
+      ontvoerd bijna opgelost, maar de zoektocht naar de laatste vermiste gevangene
+      wordt bemoeilijkt door Israëlische bombardementen en verwoestingen in Gaza. Er
+      is echter geen multinationale stabilisatiemacht naar Gaza gestuurd, wat in strijd
+      is met eerdere plannen van de Amerikaanse president Donald Trump.
+    published: '2025-12-09T18:05:51+00:00'
+  - title: 'Gaza en het moment waarop Israël het strategische initiatief verloor: Washington
+      neemt de controle over de tweede fase'
+    url: https://ejmagnier.com/2025/12/09/gaza-en-het-moment-waarop-israel-het-strategische-initiatief-verloor-washington-neemt-de-controle-over-de-tweede-fase/
+    text: Geschreven door Elijah J. Magnier – Vertaald door Francis J. De Verenigde
+      Staten streven niet langer naar beslissende resultaten op het slagveld. In plaats
+      daarvan voeren ze een strategie uit waarbij escalatie wordt uitgesteld, conflicten
+      worden bevroren en economisch-politieke kaders voorrang krijgen. Israël, dat al
+      lang gewend is om gebeurtenissen te beïnvloeden door middel van militaire initiatieven,
+      voelt zich nu steeds meer beperkt door deze aanpak. Zoals algemeen werd verwacht,
+      heeft Israël zich niet gehouden aan het staakt-het-vuren-akkoord en de bepalingen
+      daarvan. Een van de eerste en meest ingrijpende schendingen betreft de toegang
+      voor humanitaire hulp. Het akkoord bepaalde dat er dagelijks 600 vrachtwagens
+      met humanitaire hulp Gaza mochten binnenrijden. In de praktijk heeft Israël minder
+      dan 220 per dag toegestaan, ondanks het feit dat Gaza dagelijks enkele duizenden
+      vrachtwagenladingen nodig heeft om het hoofd te bieden aan de gevolgen van een
+      langdurige oorlog en maandenlange gedwongen uithongering als gevolg van het Israëlische
+      beleid. Tegelijkertijd nadert het dossier van de gevangenen zijn afronding. Van
+      de 255 Israëlische gevangenen die op 7 oktober zijn ontvoerd wordt er nog maar
+      één vermist. Alle anderen zijn teruggevonden, levend vrijgelaten of als overleden
+      teruggebracht, in overeenstemming met het eerste artikel van de overeenkomst.
+      Het opsporen van de laatste groep Israëlische gevangenen bleek bijzonder moeilijk
+      vanwege de willekeurige bombardementen van Israël op Gaza, de grootschalige verwoesting
+      en het met bulldozers platwalsen van Palestijnse huizen, en het opzettelijk onder
+      water zetten met cement van tunnels van Hamas, waar vermoedelijk verschillende
+      gevangenen werden vastgehouden. Ondanks dat deze centrale verplichting bijna is
+      nagekomen, is er geen multinationale stabilisatiemacht naar Gaza gestuurd, in
+      tegenstelling tot wat was voorzien in de tweede fase van het plan van de Amerikaanse
+      president Donald Trump, dat een einde maakte aan bijna twee jaar oorlog in de
+      Gazastrook. Ondertussen blijven meer dan twee miljoen Palestijnen opgesloten in
+      ongeveer 40 procent van het totale oppervlak van Gaza, dat 360 vierkante kilometer
+      beslaat. Deze bevolking is beperkt tot zones die door Israël zijn aangewezen –
+      en geleidelijk zijn uitgebreid – als een “gele veilige lijn”, in afwachting van
+      de uitvoering van het plan en een Israëlische hergroepering naar een secundaire
+      lijn die niettemin een permanente bufferzone zou formaliseren. De Israëlische
+      stafchef, Eyal Zamir, heeft duidelijk gemaakt dat deze “gele lijn” niet is bedoeld
+      als een tijdelijke regeling. Hij heeft deze lijn omschreven als zowel een “defensieve
+      als een offensieve positie”, waarmee hij aangeeft dat Israël van plan is deze
+      lijn te handhaven als de nieuwe feitelijke grens van Gaza, zonder dat er een onmiddellijke
+      terugtrekking op stapel staat. Premier Benjamin Netanyahu beweert ondertussen
+      dat de tweede fase van de overeenkomst “zeer dichtbij” is, maar stelt tegelijkertijd
+      als voorwaarde voor de uitvoering ervan dat de laatste Israëlische gevangene,
+      die vermoedelijk nog steeds onder het puin van Gaza begraven ligt, wordt gevonden
+      en teruggebrach. Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly
+    one_sentence_summary: De Verenigde Staten hanteren een strategie van het bevriezen
+      van conflicten en het prioriteren van economische en politieke oplossingen, terwijl
+      Israël zich steeds meer beperkt voelt in zijn militaire acties en het staakt-het-vuren-akkoord
+      schendt door de toegang tot humanitaire hulp voor Gaza te beperken.
+    paragraph_summary: In een artikel van Elijah J. Magnier, vertaald door Francis J.,
+      wordt besproken dat de Verenigde Staten hun militaire strategie in het Midden-Oosten
+      hebben veranderd van het nastreven van beslissende overwinningen naar het bevriezen
+      van conflicten en het prioriteren van economische en politieke oplossingen. Israël,
+      dat gewend is om conflicten via militaire acties te beïnvloeden, voelt zich beperkt
+      door deze nieuwe aanpak en heeft zich niet gehouden aan het staakt-het-vuren-akkoord,
+      met name wat betreft de toegang tot humanitaire hulp voor Gaza. Ondanks de afspraak
+      om dagelijks 600 vrachtwagens met hulp toe te laten, heeft Israël in werkelijkheid
+      minder dan 220 per dag toegestaan, terwijl Gaza duizenden vrachtwagens nodig heeft.
+      Ondertussen is de situatie van de Israëlische gevangenen die op 7 oktober zijn
+      ontvoerd bijna opgelost, maar de zoektocht naar de laatste vermiste gevangene
+      wordt bemoeilijkt door Israëlische bombardementen en verwoestingen in Gaza. Er
+      is echter geen multinationale stabilisatiemacht naar Gaza gestuurd, wat in strijd
+      is met eerdere plannen van de Amerikaanse president Donald Trump.
+    published: '2025-12-09T18:05:51+00:00'
+  - title: 'Israels strategisches Spionagenetzwerk verliert das Vertrauen in das digitale
+      Ökosystem: Jedes Netzwerk hat Sicherheitslücken, jedes Gerät sendet Daten und
+      jedes Update birgt Risiken.'
+    url: https://ejmagnier.com/2025/12/08/israels-strategisches-spionagenetzwerk-verliert-das-vertrauen-in-das-digitale-okosystem-jedes-netzwerk-hat-sicherheitslucken-jedes-gerat-sendet-daten-und-jedes-update-birgt-risiken/
+    text: 'Von Elijah J. Magnier Mehr als zwei Jahrzehnte lang basierte die Doktrin
+      des israelischen Geheimdienstes auf einer zentralen Annahme: dass die digitale
+      Umgebung nach außen gekehrt, als Waffe eingesetzt und asymmetrisch ausgenutzt
+      werden könne. Dieser Ansatz trug dazu bei, Israels Ruf als technologische und
+      nachrichtendienstliche Supermacht zu festigen: anpassungsfähig, innovativ und
+      dominant in den unsichtbaren Bereichen des Cyberspace und der Signalaufklärung.
+      Jüngste interne Maßnahmen erzählen jedoch eine andere Geschichte. Das gemeldete
+      Verbot von Android-Geräten für hochrangige Beamte und die Entfernung von in China
+      hergestellten vernetzten Fahrzeugen aus dem Besitz sensibler Mitarbeiter sind
+      keine geringfügigen bürokratischen Anpassungen. Sie stehen für einen strukturellen
+      Wandel in der Art und Weise, wie der israelische Geheimdienst das digitale Terrain
+      nun einschätzt. Das Ökosystem, das Israel als Überwachungsraum mit normalisiert
+      hat, wird selbst von der eigenen Führung nicht mehr uneingeschränkt vertraut.
+      Diese Veränderung spiegelt mehr als nur erhöhte Vorsicht wider. Sie signalisiert
+      den Zusammenbruch einer langjährigen Asymmetrie: die Überzeugung, dass die offensive
+      Beherrschung digitaler Systeme aufrechterhalten werden könne, ohne dass man zu
+      Hause denselben Systemen in gleichem Maße ausgesetzt sei. Von der Sammelplattform
+      zur Angriffsfläche Während eines Großteils der Zeit nach dem 11. September 2001
+      betrachtete der israelische Geheimdienst Verbrauchertechnologie als einen Kraftmultiplikator.
+      Telefone fungierten als Ortungsgeräte. Apps wurden zu Verhaltenskarten. Basisstationen,
+      Router, Fahrzeuge und Kameras bildeten ein diffuses, aber leistungsstarkes Sensornetz,
+      das Metadaten, Bewegungen, soziale Netzwerke und Kommunikationen erfasste. Während
+      diese Haltung mit den globalen Geheimdiensttrends übereinstimmte, erwies sich
+      Israel als besonders effektiv bei der Operationalisierung, indem es kommerzielle
+      Technologien tief in militärische und geheimdienstliche Arbeitsabläufe integrierte.
+      Die Kernannahme, die diesem Modell zugrunde lag, war Kontrolle. Kein System galt
+      als vollkommen sicher, aber man ging davon aus, dass die Gegner mehrere Schritte
+      hinterherhinkten. Es wurde angenommen, dass die von Israels Geheimdiensten entdeckten
+      oder ausgenutzten Schwachstellen über einen längeren Zeitraum hinweg asymmetrische
+      Vorteile bleiben würden. Ein fragmentierter und sich schnell verändernder globaler
+      Technologiemarkt verstärkte diese Überzeugung. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Der Artikel beschreibt, dass der israelische Geheimdienst,
+      der lange Zeit auf der Annahme basierte, die digitale Umgebung als Waffe nutzen
+      zu können, nun durch interne Maßnahmen wie das Verbot von Android-Geräten und
+      den Rückzug von vernetzten Fahrzeugen einen strukturellen Wandel in seiner Einschätzung
+      des digitalen Terrains vollzieht.
+    paragraph_summary: Der Artikel von Elijah J. Magnier beleuchtet einen signifikanten
+      Wandel in der Doktrin des israelischen Geheimdienstes, der über zwei Jahrzehnte
+      auf der Annahme basierte, dass digitale Technologien als Waffen genutzt werden
+      können. Jüngste interne Maßnahmen, wie das Verbot von Android-Geräten für hochrangige
+      Beamte und die Entfernung chinesischer vernetzter Fahrzeuge, deuten auf ein wachsendes
+      Misstrauen gegenüber der eigenen digitalen Infrastruktur hin. Diese Veränderungen
+      reflektieren nicht nur eine erhöhte Vorsicht, sondern auch einen Zusammenbruch
+      der bisherigen Überzeugung, dass offensive digitale Fähigkeiten ohne gleichzeitige
+      Exposition gegenüber diesen Technologien aufrechterhalten werden können. Der Artikel
+      beschreibt, wie Israel einst Verbrauchertechnologie als strategischen Vorteil
+      betrachtete, nun jedoch eine grundlegende Neubewertung seiner Sicherheitsstrategie
+      vornehmen muss.
+    published: '2025-12-08T06:30:37+00:00'
+  - title: 'Israels strategisches Spionagenetzwerk verliert das Vertrauen in das digitale
+      Ökosystem: Jedes Netzwerk hat Sicherheitslücken, jedes Gerät sendet Daten und
+      jedes Update birgt Risiken.'
+    url: https://ejmagnier.com/2025/12/08/israels-strategisches-spionagenetzwerk-verliert-das-vertrauen-in-das-digitale-okosystem-jedes-netzwerk-hat-sicherheitslucken-jedes-gerat-sendet-daten-und-jedes-update-birgt-risiken/
+    text: 'Von Elijah J. Magnier Mehr als zwei Jahrzehnte lang basierte die Doktrin
+      des israelischen Geheimdienstes auf einer zentralen Annahme: dass die digitale
+      Umgebung nach außen gekehrt, als Waffe eingesetzt und asymmetrisch ausgenutzt
+      werden könne. Dieser Ansatz trug dazu bei, Israels Ruf als technologische und
+      nachrichtendienstliche Supermacht zu festigen: anpassungsfähig, innovativ und
+      dominant in den unsichtbaren Bereichen des Cyberspace und der Signalaufklärung.
+      Jüngste interne Maßnahmen erzählen jedoch eine andere Geschichte. Das gemeldete
+      Verbot von Android-Geräten für hochrangige Beamte und die Entfernung von in China
+      hergestellten vernetzten Fahrzeugen aus dem Besitz sensibler Mitarbeiter sind
+      keine geringfügigen bürokratischen Anpassungen. Sie stehen für einen strukturellen
+      Wandel in der Art und Weise, wie der israelische Geheimdienst das digitale Terrain
+      nun einschätzt. Das Ökosystem, das Israel als Überwachungsraum mit normalisiert
+      hat, wird selbst von der eigenen Führung nicht mehr uneingeschränkt vertraut.
+      Diese Veränderung spiegelt mehr als nur erhöhte Vorsicht wider. Sie signalisiert
+      den Zusammenbruch einer langjährigen Asymmetrie: die Überzeugung, dass die offensive
+      Beherrschung digitaler Systeme aufrechterhalten werden könne, ohne dass man zu
+      Hause denselben Systemen in gleichem Maße ausgesetzt sei. Von der Sammelplattform
+      zur Angriffsfläche Während eines Großteils der Zeit nach dem 11. September 2001
+      betrachtete der israelische Geheimdienst Verbrauchertechnologie als einen Kraftmultiplikator.
+      Telefone fungierten als Ortungsgeräte. Apps wurden zu Verhaltenskarten. Basisstationen,
+      Router, Fahrzeuge und Kameras bildeten ein diffuses, aber leistungsstarkes Sensornetz,
+      das Metadaten, Bewegungen, soziale Netzwerke und Kommunikationen erfasste. Während
+      diese Haltung mit den globalen Geheimdiensttrends übereinstimmte, erwies sich
+      Israel als besonders effektiv bei der Operationalisierung, indem es kommerzielle
+      Technologien tief in militärische und geheimdienstliche Arbeitsabläufe integrierte.
+      Die Kernannahme, die diesem Modell zugrunde lag, war Kontrolle. Kein System galt
+      als vollkommen sicher, aber man ging davon aus, dass die Gegner mehrere Schritte
+      hinterherhinkten. Es wurde angenommen, dass die von Israels Geheimdiensten entdeckten
+      oder ausgenutzten Schwachstellen über einen längeren Zeitraum hinweg asymmetrische
+      Vorteile bleiben würden. Ein fragmentierter und sich schnell verändernder globaler
+      Technologiemarkt verstärkte diese Überzeugung. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Der Artikel beschreibt, dass der israelische Geheimdienst,
+      der lange Zeit auf der Annahme basierte, die digitale Umgebung als Waffe nutzen
+      zu können, nun durch interne Maßnahmen wie das Verbot von Android-Geräten und
+      den Rückzug von vernetzten Fahrzeugen einen strukturellen Wandel in seiner Einschätzung
+      des digitalen Terrains vollzieht.
+    paragraph_summary: Der Artikel von Elijah J. Magnier beleuchtet einen signifikanten
+      Wandel in der Doktrin des israelischen Geheimdienstes, der über zwei Jahrzehnte
+      auf der Annahme basierte, dass digitale Technologien als Waffen genutzt werden
+      können. Jüngste interne Maßnahmen, wie das Verbot von Android-Geräten für hochrangige
+      Beamte und die Entfernung chinesischer vernetzter Fahrzeuge, deuten auf ein wachsendes
+      Misstrauen gegenüber der eigenen digitalen Infrastruktur hin. Diese Veränderungen
+      reflektieren nicht nur eine erhöhte Vorsicht, sondern auch einen Zusammenbruch
+      der bisherigen Überzeugung, dass offensive digitale Fähigkeiten ohne gleichzeitige
+      Exposition gegenüber diesen Technologien aufrechterhalten werden können. Der Artikel
+      beschreibt, wie Israel einst Verbrauchertechnologie als strategischen Vorteil
+      betrachtete, nun jedoch eine grundlegende Neubewertung seiner Sicherheitsstrategie
+      vornehmen muss.
+    published: '2025-12-08T06:30:37+00:00'
+  - title: 'Israel’s Strategic Spying Network is Losing Trust in the Digital Ecosystem:
+      Every network leaks, every device emits data, and every update carries risks.'
+    url: https://ejmagnier.com/2025/12/07/het-strategische-spionagenetwerk-van-israel-verliest-vertrouwen-in-het-digitale-ecosysteem-elk-netwerk-lekt-elk-apparaat-zendt-gegevens-uit-en-elke-update-brengt-risicos-met-zich-mee-2/
+    text: 'By Elijah J. Magnier For more than two decades, Israeli intelligence doctrine
+      rested on a central assumption: that the digital environment could be turned outward,
+      weaponised, and exploited asymmetrically. This approach helped shape Israel’s
+      reputation as a technological and intelligence superpower: adaptable, innovative,
+      and dominant in the invisible domains of cyberspace and signals intelligence.
+      Recent internal measures tell a different story. The reported ban on Android devices
+      for senior officers and the removal of Chinese-made connected vehicles from sensitive
+      personnel are not minor bureaucratic adjustments. They represent a structural
+      shift in how Israeli intelligence now assesses the digital terrain. The ecosystem
+      Israel helped normalise as a space of surveillance is no longer fully trusted,
+      even by its own leadership. This change reflects more than heightened caution.
+      It signals the breakdown of a long-standing asymmetry: the belief that offensive
+      mastery of digital systems could be sustained without equal exposure to those
+      same systems at home. From Collection Platform to Attack Surface For much of the
+      post-9/11 era, Israeli intelligence treated consumer technology as a force multiplier.
+      Phones functioned as location beacons. Apps became behavioural maps. Base stations,
+      routers, vehicles, and cameras formed a diffuse but powerful sensor grid, harvesting
+      metadata, movement, social networks, and communications. While this posture aligned
+      with global intelligence trends, Israel proved particularly effective at operationalising
+      it, integrating commercial technologies deeply into military and intelligence
+      workflows. The core assumption underpinning this model was control. No system
+      was considered perfectly secure, but adversaries were assumed to be several steps
+      behind. Vulnerabilities discovered or exploited by Israel’s intelligence community
+      were believed to remain asymmetric advantages for meaningful periods of time.
+      A fragmented and fast-moving global technology market reinforced that belief.
+      That assumption no longer holds. The decision to restrict Android usage reflects
+      an acknowledgement that modern consumer platforms have become attack surfaces
+      by default. They are no longer passive sources of exploitable data, but complex,
+      interconnected systems with multiple points of ingress. Each firmware layer, proprietary
+      modification, update server, and third-party component expands the scope for covert
+      access. When devices are designed, assembled, and updated across global supply
+      chains, attribution becomes difficult and trust increasingly abstract. What once
+      functioned as a one-way mirror has become transparent in both directions. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Israeli intelligence, once confident in its ability to weaponize
+      the digital environment, is now reassessing its approach and implementing significant
+      internal changes, such as banning Android devices for senior officers, indicating
+      a loss of trust in the very systems it once dominated.
+    paragraph_summary: Israeli intelligence has long relied on the assumption that it
+      could exploit the digital environment for asymmetric advantages, solidifying its
+      reputation as a leader in technology and intelligence. However, recent internal
+      changes, such as banning Android devices for senior officers and removing Chinese-made
+      connected vehicles from sensitive use, indicate a significant shift in this approach.
+      This reflects a growing mistrust in the digital systems that Israel once viewed
+      as secure and advantageous, suggesting a breakdown of the previously held belief
+      that offensive capabilities in cyberspace could be maintained without equal risks
+      at home. The evolution of consumer technology from a tool for intelligence gathering
+      to a potential vulnerability highlights the changing dynamics of global tech and
+      intelligence operations.
+    published: '2025-12-07T16:55:24+00:00'
+  - title: 'Israel’s Strategic Spying Network is Losing Trust in the Digital Ecosystem:
+      Every network leaks, every device emits data, and every update carries risks.'
+    url: https://ejmagnier.com/2025/12/07/het-strategische-spionagenetwerk-van-israel-verliest-vertrouwen-in-het-digitale-ecosysteem-elk-netwerk-lekt-elk-apparaat-zendt-gegevens-uit-en-elke-update-brengt-risicos-met-zich-mee-2/
+    text: 'By Elijah J. Magnier For more than two decades, Israeli intelligence doctrine
+      rested on a central assumption: that the digital environment could be turned outward,
+      weaponised, and exploited asymmetrically. This approach helped shape Israel’s
+      reputation as a technological and intelligence superpower: adaptable, innovative,
+      and dominant in the invisible domains of cyberspace and signals intelligence.
+      Recent internal measures tell a different story. The reported ban on Android devices
+      for senior officers and the removal of Chinese-made connected vehicles from sensitive
+      personnel are not minor bureaucratic adjustments. They represent a structural
+      shift in how Israeli intelligence now assesses the digital terrain. The ecosystem
+      Israel helped normalise as a space of surveillance is no longer fully trusted,
+      even by its own leadership. This change reflects more than heightened caution.
+      It signals the breakdown of a long-standing asymmetry: the belief that offensive
+      mastery of digital systems could be sustained without equal exposure to those
+      same systems at home. From Collection Platform to Attack Surface For much of the
+      post-9/11 era, Israeli intelligence treated consumer technology as a force multiplier.
+      Phones functioned as location beacons. Apps became behavioural maps. Base stations,
+      routers, vehicles, and cameras formed a diffuse but powerful sensor grid, harvesting
+      metadata, movement, social networks, and communications. While this posture aligned
+      with global intelligence trends, Israel proved particularly effective at operationalising
+      it, integrating commercial technologies deeply into military and intelligence
+      workflows. The core assumption underpinning this model was control. No system
+      was considered perfectly secure, but adversaries were assumed to be several steps
+      behind. Vulnerabilities discovered or exploited by Israel’s intelligence community
+      were believed to remain asymmetric advantages for meaningful periods of time.
+      A fragmented and fast-moving global technology market reinforced that belief.
+      That assumption no longer holds. The decision to restrict Android usage reflects
+      an acknowledgement that modern consumer platforms have become attack surfaces
+      by default. They are no longer passive sources of exploitable data, but complex,
+      interconnected systems with multiple points of ingress. Each firmware layer, proprietary
+      modification, update server, and third-party component expands the scope for covert
+      access. When devices are designed, assembled, and updated across global supply
+      chains, attribution becomes difficult and trust increasingly abstract. What once
+      functioned as a one-way mirror has become transparent in both directions. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Israeli intelligence, once confident in its ability to weaponize
+      the digital environment, is now reassessing its approach and implementing significant
+      internal changes, such as banning Android devices for senior officers, indicating
+      a loss of trust in the very systems it once dominated.
+    paragraph_summary: Israeli intelligence has long relied on the assumption that it
+      could exploit the digital environment for asymmetric advantages, solidifying its
+      reputation as a leader in technology and intelligence. However, recent internal
+      changes, such as banning Android devices for senior officers and removing Chinese-made
+      connected vehicles from sensitive use, indicate a significant shift in this approach.
+      This reflects a growing mistrust in the digital systems that Israel once viewed
+      as secure and advantageous, suggesting a breakdown of the previously held belief
+      that offensive capabilities in cyberspace could be maintained without equal risks
+      at home. The evolution of consumer technology from a tool for intelligence gathering
+      to a potential vulnerability highlights the changing dynamics of global tech and
+      intelligence operations.
+    published: '2025-12-07T16:55:24+00:00'
+  - title: 'Le réseau stratégique de surveillance d’Israël perd la confiance dans l’écosystème
+      numérique: chaque réseau fuit, chaque appareil émet des données et chaque mise
+      à jour comporte des risques.'
+    url: https://ejmagnier.com/2025/12/07/le-reseau-strategique-de-surveillance-disrael-perd-la-confiance-dans-lecosysteme-numerique-chaque-reseau-fuit-chaque-appareil-emet-des-donnees-et-chaque-mise-a-jour-comporte-des-ri/
+    text: 'Par Elijah J. Magnier Depuis plus de deux décennies, la doctrine du renseignement
+      israélien reposait sur une hypothèse centrale : l’environnement numérique pouvait
+      être tourné vers l’extérieur, militarisé et exploité de manière asymétrique. Les
+      technologies commerciales – smartphones, applications, réseaux, véhicules et appareils
+      électroniques grand public – n’étaient pas considérées comme de simples commodités
+      neutres, mais comme des capteurs latents. Cette approche a contribué à forger
+      la réputation d’Israël comme superpuissance technologique et du renseignement
+      : adaptable, innovante et dominante dans les domaines invisibles du cyberespace
+      et du renseignement électromagnétique. Les mesures internes récentes racontent
+      une autre histoire. L’interdiction signalée des appareils Android pour les officiers
+      supérieurs et le retrait des véhicules connectés de fabrication chinoise du personnel
+      sensible ne relèvent pas d’ajustements bureaucratiques mineurs. Elles traduisent
+      un changement structurel dans la manière dont le renseignement israélien évalue
+      désormais le terrain numérique. L’écosystème qu’Israël a contribué à normaliser
+      comme espace de surveillance n’est plus entièrement digne de confiance, y compris
+      pour sa propre direction. Ce changement reflète plus qu’une prudence accrue. Il
+      marque l’effondrement d’une asymétrie de longue date : la croyance selon laquelle
+      la maîtrise offensive des systèmes numériques pouvait être maintenue sans exposition
+      équivalente à ces mêmes systèmes sur le plan interne. D’une plateforme de collecte
+      à une surface d’attaque Pendant une grande partie de l’ère post-11 septembre,
+      le renseignement israélien a traité la technologie grand public comme un multiplicateur
+      de force. Les téléphones faisaient office de balises de localisation. Les applications
+      devenaient des cartes comportementales. Les stations de base, routeurs, véhicules
+      et caméras formaient une grille de capteurs diffuse mais puissants, collectant
+      métadonnées, déplacements, réseaux sociaux et communications. Si cette posture
+      s’inscrivait dans les tendances mondiales du renseignement, Israël s’est montré
+      particulièrement efficace pour l’opérationnaliser, intégrant profondément les
+      technologies commerciales aux flux de travail militaires et de renseignement.
+      L’hypothèse centrale de ce modèle était le contrôle. Aucun système n’était considéré
+      comme parfaitement sécurisé, mais les adversaires étaient supposés avoir plusieurs
+      longueurs de retard. Les vulnérabilités découvertes ou exploitées par la communauté
+      israélienne du renseignement étaient perçues comme des avantages asymétriques
+      durables. Un marché technologique mondial fragmenté et en évolution rapide confortait
+      cette conviction. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: L'article souligne un changement stratégique dans la doctrine
+      du renseignement israélien, qui, après avoir longtemps exploité l'environnement
+      numérique comme un atout, impose désormais des restrictions sur l'utilisation
+      de technologies commerciales par ses officiers, signalant une préoccupation croissante
+      pour la sécurité interne.
+    paragraph_summary: L'article d'Elijah J. Magnier examine l'évolution de la doctrine
+      du renseignement israélien au cours des deux dernières décennies, soulignant un
+      changement significatif dans l'évaluation de l'environnement numérique. Alors
+      qu'Israël a longtemps considéré les technologies commerciales comme des outils
+      de surveillance et de collecte de données, des mesures récentes, telles que l'interdiction
+      des appareils Android pour les officiers supérieurs et le retrait de véhicules
+      connectés chinois, indiquent une perte de confiance dans cet écosystème. Ce changement
+      structurel suggère que la maîtrise offensive des systèmes numériques n'est plus
+      perçue comme sans risque, révélant une nouvelle vulnérabilité interne et un effondrement
+      de l'asymétrie qui a longtemps favorisé le renseignement israélien.
+    published: '2025-12-07T16:54:07+00:00'
+  - title: 'Le réseau stratégique de surveillance d’Israël perd la confiance dans l’écosystème
+      numérique: chaque réseau fuit, chaque appareil émet des données et chaque mise
+      à jour comporte des risques.'
+    url: https://ejmagnier.com/2025/12/07/le-reseau-strategique-de-surveillance-disrael-perd-la-confiance-dans-lecosysteme-numerique-chaque-reseau-fuit-chaque-appareil-emet-des-donnees-et-chaque-mise-a-jour-comporte-des-ri/
+    text: 'Par Elijah J. Magnier Depuis plus de deux décennies, la doctrine du renseignement
+      israélien reposait sur une hypothèse centrale : l’environnement numérique pouvait
+      être tourné vers l’extérieur, militarisé et exploité de manière asymétrique. Les
+      technologies commerciales – smartphones, applications, réseaux, véhicules et appareils
+      électroniques grand public – n’étaient pas considérées comme de simples commodités
+      neutres, mais comme des capteurs latents. Cette approche a contribué à forger
+      la réputation d’Israël comme superpuissance technologique et du renseignement
+      : adaptable, innovante et dominante dans les domaines invisibles du cyberespace
+      et du renseignement électromagnétique. Les mesures internes récentes racontent
+      une autre histoire. L’interdiction signalée des appareils Android pour les officiers
+      supérieurs et le retrait des véhicules connectés de fabrication chinoise du personnel
+      sensible ne relèvent pas d’ajustements bureaucratiques mineurs. Elles traduisent
+      un changement structurel dans la manière dont le renseignement israélien évalue
+      désormais le terrain numérique. L’écosystème qu’Israël a contribué à normaliser
+      comme espace de surveillance n’est plus entièrement digne de confiance, y compris
+      pour sa propre direction. Ce changement reflète plus qu’une prudence accrue. Il
+      marque l’effondrement d’une asymétrie de longue date : la croyance selon laquelle
+      la maîtrise offensive des systèmes numériques pouvait être maintenue sans exposition
+      équivalente à ces mêmes systèmes sur le plan interne. D’une plateforme de collecte
+      à une surface d’attaque Pendant une grande partie de l’ère post-11 septembre,
+      le renseignement israélien a traité la technologie grand public comme un multiplicateur
+      de force. Les téléphones faisaient office de balises de localisation. Les applications
+      devenaient des cartes comportementales. Les stations de base, routeurs, véhicules
+      et caméras formaient une grille de capteurs diffuse mais puissants, collectant
+      métadonnées, déplacements, réseaux sociaux et communications. Si cette posture
+      s’inscrivait dans les tendances mondiales du renseignement, Israël s’est montré
+      particulièrement efficace pour l’opérationnaliser, intégrant profondément les
+      technologies commerciales aux flux de travail militaires et de renseignement.
+      L’hypothèse centrale de ce modèle était le contrôle. Aucun système n’était considéré
+      comme parfaitement sécurisé, mais les adversaires étaient supposés avoir plusieurs
+      longueurs de retard. Les vulnérabilités découvertes ou exploitées par la communauté
+      israélienne du renseignement étaient perçues comme des avantages asymétriques
+      durables. Un marché technologique mondial fragmenté et en évolution rapide confortait
+      cette conviction. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: L'article souligne un changement stratégique dans la doctrine
+      du renseignement israélien, qui, après avoir longtemps exploité l'environnement
+      numérique comme un atout, impose désormais des restrictions sur l'utilisation
+      de technologies commerciales par ses officiers, signalant une préoccupation croissante
+      pour la sécurité interne.
+    paragraph_summary: L'article d'Elijah J. Magnier examine l'évolution de la doctrine
+      du renseignement israélien au cours des deux dernières décennies, soulignant un
+      changement significatif dans l'évaluation de l'environnement numérique. Alors
+      qu'Israël a longtemps considéré les technologies commerciales comme des outils
+      de surveillance et de collecte de données, des mesures récentes, telles que l'interdiction
+      des appareils Android pour les officiers supérieurs et le retrait de véhicules
+      connectés chinois, indiquent une perte de confiance dans cet écosystème. Ce changement
+      structurel suggère que la maîtrise offensive des systèmes numériques n'est plus
+      perçue comme sans risque, révélant une nouvelle vulnérabilité interne et un effondrement
+      de l'asymétrie qui a longtemps favorisé le renseignement israélien.
+    published: '2025-12-07T16:54:07+00:00'
+  - title: 'Het strategische spionagenetwerk van Israël verliest vertrouwen in het digitale
+      ecosysteem: elk netwerk lekt, elk apparaat zendt gegevens uit en elke update brengt
+      risico’s met zich mee.'
+    url: https://ejmagnier.com/2025/12/07/het-strategische-spionagenetwerk-van-israel-verliest-vertrouwen-in-het-digitale-ecosysteem-elk-netwerk-lekt-elk-apparaat-zendt-gegevens-uit-en-elke-update-brengt-risicos-met-zich-mee/
+    text: 'Geschreven door Elijah J. Magnier – Vertaald door Francis J. Meer dan twee
+      decennia lang was de Israëlische inlichtingendienst gebaseerd op een centrale
+      aanname: dat de digitale omgeving naar buiten kon worden gekeerd, als wapen kon
+      worden ingezet en asymmetrisch kon worden uitgebuit. Deze aanpak heeft bijgedragen
+      aan de reputatie van Israël als technologische en inlichtingen-supermacht: flexibel,
+      innovatief en dominant in de onzichtbare domeinen van cyberspace en signaalinlichtingen.
+      Recente interne maatregelen vertellen een ander verhaal. Het gerapporteerde verbod
+      op Android-apparaten voor hoge officieren en het verwijderen van in China geproduceerde
+      connected vehicles van gevoelig personeel zijn geen kleine bureaucratische aanpassingen.
+      Ze vertegenwoordigen een structurele verschuiving in hoe de Israëlische inlichtingendienst
+      het digitale terrein nu beoordeelt. Het ecosysteem dat Israël heeft helpen normaliseren
+      als een ruimte voor surveillance, wordt niet langer volledig vertrouwd, zelfs
+      niet door zijn eigen leiders. Deze verandering weerspiegelt meer dan alleen verhoogde
+      voorzichtigheid. Het duidt op het uiteenvallen van een langdurige asymmetrie:
+      de overtuiging dat offensieve beheersing van digitale systemen kon worden gehandhaafd
+      zonder gelijke blootstelling aan diezelfde systemen in eigen land. Van verzamelplatform
+      naar aanvalsoppervlak Gedurende een groot deel van het tijdperk na 9/11 beschouwde
+      de Israëlische inlichtingendienst consumententechnologie als een krachtvermenigvuldiger.
+      Telefoons functioneerden als locatiebakens. Apps werden gedragskaarten. Basisstations,
+      routers, voertuigen en camera’s vormden een diffuus maar krachtig sensornetwerk
+      dat metadata, bewegingen, sociale netwerken en communicatie verzamelde. Hoewel
+      deze houding aansloot bij de wereldwijde trends op het gebied van inlichtingen,
+      bleek Israël bijzonder effectief in het operationaliseren ervan, door commerciële
+      technologieën diep te integreren in militaire en inlichtingenworkflows. De kernveronderstelling
+      achter dit model was controle. Geen enkel systeem werd als volkomen veilig beschouwd,
+      maar men ging ervan uit dat tegenstanders een aantal stappen achterliepen. Kwetsbaarheden
+      die door de Israëlische inlichtingendiensten werden ontdekt of uitgebuit, zouden
+      naar verwachting gedurende een aanzienlijke periode een asymmetrisch voordeel
+      blijven. Een gefragmenteerde en snel veranderende wereldwijde technologiemarkt
+      versterkte die overtuiging. Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly'
+    one_sentence_summary: De Israëlische inlichtingendienst ondergaat een structurele
+      verschuiving in haar beoordeling van de digitale omgeving, zoals blijkt uit recente
+      interne maatregelen die het gebruik van Android-apparaten en Chinese connected
+      vehicles door gevoelige personeel beperken, wat wijst op een afname van vertrouwen
+      in de technologieën die eerder als wapen en middel voor surveillance werden ingezet.
+    paragraph_summary: In een recent artikel bespreekt Elijah J. Magnier de verschuiving
+      in de benadering van de Israëlische inlichtingendienst ten aanzien van digitale
+      technologieën, die jarenlang als een strategisch voordeel werden beschouwd. Voorheen
+      werd de digitale omgeving gezien als een wapen dat kon worden ingezet voor surveillance
+      en inlichtingen, maar recente interne maatregelen, zoals het verbod op Android-apparaten
+      voor hoge officieren en het verwijderen van Chinese voertuigen van gevoelige personeel,
+      wijzen op een groeiend wantrouwen in deze technologieën. Deze veranderingen reflecteren
+      een afname van de eerder heersende asymmetrie, waarbij Israël dacht dat het offensieve
+      gebruik van digitale systemen kon worden volgehouden zonder risico's voor eigen
+      veiligheid. De Israëlische inlichtingendienst, die ooit consumententechnologie
+      als een krachtvermenigvuldiger beschouwde, lijkt nu de noodzaak te erkennen om
+      voorzichtiger om te gaan met de digitale middelen die eerder als onmisbaar werden
+      gezien.
+    published: '2025-12-07T16:42:48+00:00'
+  - title: 'Het strategische spionagenetwerk van Israël verliest vertrouwen in het digitale
+      ecosysteem: elk netwerk lekt, elk apparaat zendt gegevens uit en elke update brengt
+      risico’s met zich mee.'
+    url: https://ejmagnier.com/2025/12/07/het-strategische-spionagenetwerk-van-israel-verliest-vertrouwen-in-het-digitale-ecosysteem-elk-netwerk-lekt-elk-apparaat-zendt-gegevens-uit-en-elke-update-brengt-risicos-met-zich-mee/
+    text: 'Geschreven door Elijah J. Magnier – Vertaald door Francis J. Meer dan twee
+      decennia lang was de Israëlische inlichtingendienst gebaseerd op een centrale
+      aanname: dat de digitale omgeving naar buiten kon worden gekeerd, als wapen kon
+      worden ingezet en asymmetrisch kon worden uitgebuit. Deze aanpak heeft bijgedragen
+      aan de reputatie van Israël als technologische en inlichtingen-supermacht: flexibel,
+      innovatief en dominant in de onzichtbare domeinen van cyberspace en signaalinlichtingen.
+      Recente interne maatregelen vertellen een ander verhaal. Het gerapporteerde verbod
+      op Android-apparaten voor hoge officieren en het verwijderen van in China geproduceerde
+      connected vehicles van gevoelig personeel zijn geen kleine bureaucratische aanpassingen.
+      Ze vertegenwoordigen een structurele verschuiving in hoe de Israëlische inlichtingendienst
+      het digitale terrein nu beoordeelt. Het ecosysteem dat Israël heeft helpen normaliseren
+      als een ruimte voor surveillance, wordt niet langer volledig vertrouwd, zelfs
+      niet door zijn eigen leiders. Deze verandering weerspiegelt meer dan alleen verhoogde
+      voorzichtigheid. Het duidt op het uiteenvallen van een langdurige asymmetrie:
+      de overtuiging dat offensieve beheersing van digitale systemen kon worden gehandhaafd
+      zonder gelijke blootstelling aan diezelfde systemen in eigen land. Van verzamelplatform
+      naar aanvalsoppervlak Gedurende een groot deel van het tijdperk na 9/11 beschouwde
+      de Israëlische inlichtingendienst consumententechnologie als een krachtvermenigvuldiger.
+      Telefoons functioneerden als locatiebakens. Apps werden gedragskaarten. Basisstations,
+      routers, voertuigen en camera’s vormden een diffuus maar krachtig sensornetwerk
+      dat metadata, bewegingen, sociale netwerken en communicatie verzamelde. Hoewel
+      deze houding aansloot bij de wereldwijde trends op het gebied van inlichtingen,
+      bleek Israël bijzonder effectief in het operationaliseren ervan, door commerciële
+      technologieën diep te integreren in militaire en inlichtingenworkflows. De kernveronderstelling
+      achter dit model was controle. Geen enkel systeem werd als volkomen veilig beschouwd,
+      maar men ging ervan uit dat tegenstanders een aantal stappen achterliepen. Kwetsbaarheden
+      die door de Israëlische inlichtingendiensten werden ontdekt of uitgebuit, zouden
+      naar verwachting gedurende een aanzienlijke periode een asymmetrisch voordeel
+      blijven. Een gefragmenteerde en snel veranderende wereldwijde technologiemarkt
+      versterkte die overtuiging. Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly'
+    one_sentence_summary: De Israëlische inlichtingendienst ondergaat een structurele
+      verschuiving in haar beoordeling van de digitale omgeving, zoals blijkt uit recente
+      interne maatregelen die het gebruik van Android-apparaten en Chinese connected
+      vehicles door gevoelige personeel beperken, wat wijst op een afname van vertrouwen
+      in de technologieën die eerder als wapen en middel voor surveillance werden ingezet.
+    paragraph_summary: In een recent artikel bespreekt Elijah J. Magnier de verschuiving
+      in de benadering van de Israëlische inlichtingendienst ten aanzien van digitale
+      technologieën, die jarenlang als een strategisch voordeel werden beschouwd. Voorheen
+      werd de digitale omgeving gezien als een wapen dat kon worden ingezet voor surveillance
+      en inlichtingen, maar recente interne maatregelen, zoals het verbod op Android-apparaten
+      voor hoge officieren en het verwijderen van Chinese voertuigen van gevoelige personeel,
+      wijzen op een groeiend wantrouwen in deze technologieën. Deze veranderingen reflecteren
+      een afname van de eerder heersende asymmetrie, waarbij Israël dacht dat het offensieve
+      gebruik van digitale systemen kon worden volgehouden zonder risico's voor eigen
+      veiligheid. De Israëlische inlichtingendienst, die ooit consumententechnologie
+      als een krachtvermenigvuldiger beschouwde, lijkt nu de noodzaak te erkennen om
+      voorzichtiger om te gaan met de digitale middelen die eerder als onmisbaar werden
+      gezien.
+    published: '2025-12-07T16:42:48+00:00'
+  - title: 'Rusland-Oekraïne: Test Washington een staakt-het-vuren in Gaza-stijl, of
+      bereidt het zich voor op escalatie?'
+    url: https://ejmagnier.com/2025/12/05/rusland-oekraine-test-washington-een-staakt-het-vuren-in-gaza-stijl-of-bereidt-het-zich-voor-op-escalatie/
+    text: Geschreven do or Elijah J. Magnier – Vetaald door Francis J. Het bezoek van
+      de Amerikaanse speciale gezant Steve Witkoff aan Moskou is geen diplomatieke routine.
+      Het is het duidelijkste teken tot nu toe dat Washington een parallel kanaal met
+      het Kremlin test na een impasse, mislukte initiatieven en uitputting op het slagveld.
+      Het lijkt misschien een discrete reis van een vastgoedmagnaat die dicht bij president
+      Donald Trump staat, maar het politieke gewicht ervan is veel groter. Witkoff is
+      geen diplomaat. Dat is precies waarom hij daar is. Zijn missie is niet om over
+      vrede te onderhandelen, maar om te ontdekken of vrede überhaupt mogelijk is en
+      of er een zakelijke overeenkomst kan worden gesloten, vergelijkbaar met die in
+      Gaza. Voor het eerst sinds het mislukken van de onderhandelingen in Istanbul in
+      april 2022 onderzoeken beide partijen of een staakt-het-vuren kan worden gebaseerd
+      op militaire feiten in plaats van diplomatieke slogans. In elke oorlog volgt de
+      diplomatie de realiteit op het slagveld, en niet andersom. Rusland heeft nu het
+      initiatief in handen. Oekraïne is in de verdediging. En Washington weet als geen
+      ander dat de kaart – en niet toespraken of sancties – de volgende stap zal dicteren.
+      De echte vraag is vandaag niet wat Rusland wil. De vraag is of de Verenigde Staten
+      bereid zijn Oekraïne onder druk te zetten om een akkoord te sluiten, of dat ze
+      er de voorkeur aan geven de oorlog voor onbepaalde tijd te beheren zonder Kiev
+      te laten instorten. De aanwezigheid van Witkoff in Moskou zal onthullen naar welke
+      keuze Washington neigt. Rusland heeft op meerdere fronten terrein gewonnen en
+      gelooft dat de tijd in zijn voordeel werkt. Oekraïne voert ondertussen een oorlog
+      zonder strategische reserves. Het leger krimpt, is uitgeput en steeds meer afhankelijk
+      van gemobiliseerde burgers en territoriale verdedigingseenheden. De economie is
+      ernstig aangetast. Het voortbestaan van het land is volledig afhankelijk van westerse
+      financiering, wapens, munitie, satellietinformatie en training. Kiev heeft het
+      vermogen verloren om onafhankelijk te onderhandelen; elke overeenkomst die tot
+      stand komt, zal worden bepaald – en uiteindelijk gedicteerd – door Washington.
+      De Amerikaanse president wil de oorlog beëindigen voordat deze verhardt tot een
+      bevroren conflict dat Europa destabiliseert. President Trump heeft behoefte aan
+      een vroege diplomatieke prestatie om toe te voegen aan zijn trofeeën na het bereiken
+      van het staakt-het-vuren in Gaza. En hoewel Trump en Biden sterk van mening verschillen,
+      begrijpen beiden dat een ongecontroleerde ineenstorting van Oekraïne een geopolitieke
+      en politieke ramp zou zijn. Ondertussen is de gevestigde diplomatieke machinerie
+      – het ministerie van Buitenlandse Zaken, de NAVO, de EU, de OVSE – vastgelopen
+      en levert zij geen noemenswaardige resultaten op. Het feit dat een particuliere
+      zakenman wordt ingezet om de deur te openen, bevestigt dat Washington van mening
+      is dat de officiële structuur vastzit. Diplomatie is uitbesteed aan improvisatie.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly
+    one_sentence_summary: De bezoek van de Amerikaanse speciale gezant Steve Witkoff
+      aan Moskou markeert een belangrijke stap in het testen van een parallel kanaal
+      tussen Washington en het Kremlin, gericht op het verkennen van de mogelijkheid
+      van een staakt-het-vuren op basis van militaire feiten in plaats van diplomatieke
+      onderhandelingen.
+    paragraph_summary: De recente bezoek van de Amerikaanse speciale gezant Steve Witkoff
+      aan Moskou markeert een belangrijke verschuiving in de diplomatieke aanpak van
+      Washington, die probeert een parallel kanaal met het Kremlin te verkennen na eerdere
+      mislukte onderhandelingen en een stagnatie op het slagveld. Witkoff, een vastgoedmagnaat
+      met nauwe banden met president Trump, is niet daar om vredesovereenkomsten te
+      sluiten, maar om te onderzoeken of een staakt-het-vuren mogelijk is, gebaseerd
+      op militaire realiteiten in plaats van diplomatieke retoriek. Terwijl Rusland
+      terrein wint en Oekraïne in de verdediging is, vraagt de situatie zich af of de
+      VS bereid zijn Oekraïne onder druk te zetten voor een akkoord of de oorlog willen
+      blijven beheren zonder Kiev te laten instorten. De uitkomst van Witkoffs missie
+      kan inzicht geven in de toekomstige Amerikaanse strategie ten aanzien van het
+      conflict, dat Oekraïne steeds meer onder druk zet door een afname van strategische
+      reserves en afhankelijkheid van westerse steun.
+    published: '2025-12-05T16:03:58+00:00'
+  - title: 'Rusland-Oekraïne: Test Washington een staakt-het-vuren in Gaza-stijl, of
+      bereidt het zich voor op escalatie?'
+    url: https://ejmagnier.com/2025/12/05/rusland-oekraine-test-washington-een-staakt-het-vuren-in-gaza-stijl-of-bereidt-het-zich-voor-op-escalatie/
+    text: Geschreven do or Elijah J. Magnier – Vetaald door Francis J. Het bezoek van
+      de Amerikaanse speciale gezant Steve Witkoff aan Moskou is geen diplomatieke routine.
+      Het is het duidelijkste teken tot nu toe dat Washington een parallel kanaal met
+      het Kremlin test na een impasse, mislukte initiatieven en uitputting op het slagveld.
+      Het lijkt misschien een discrete reis van een vastgoedmagnaat die dicht bij president
+      Donald Trump staat, maar het politieke gewicht ervan is veel groter. Witkoff is
+      geen diplomaat. Dat is precies waarom hij daar is. Zijn missie is niet om over
+      vrede te onderhandelen, maar om te ontdekken of vrede überhaupt mogelijk is en
+      of er een zakelijke overeenkomst kan worden gesloten, vergelijkbaar met die in
+      Gaza. Voor het eerst sinds het mislukken van de onderhandelingen in Istanbul in
+      april 2022 onderzoeken beide partijen of een staakt-het-vuren kan worden gebaseerd
+      op militaire feiten in plaats van diplomatieke slogans. In elke oorlog volgt de
+      diplomatie de realiteit op het slagveld, en niet andersom. Rusland heeft nu het
+      initiatief in handen. Oekraïne is in de verdediging. En Washington weet als geen
+      ander dat de kaart – en niet toespraken of sancties – de volgende stap zal dicteren.
+      De echte vraag is vandaag niet wat Rusland wil. De vraag is of de Verenigde Staten
+      bereid zijn Oekraïne onder druk te zetten om een akkoord te sluiten, of dat ze
+      er de voorkeur aan geven de oorlog voor onbepaalde tijd te beheren zonder Kiev
+      te laten instorten. De aanwezigheid van Witkoff in Moskou zal onthullen naar welke
+      keuze Washington neigt. Rusland heeft op meerdere fronten terrein gewonnen en
+      gelooft dat de tijd in zijn voordeel werkt. Oekraïne voert ondertussen een oorlog
+      zonder strategische reserves. Het leger krimpt, is uitgeput en steeds meer afhankelijk
+      van gemobiliseerde burgers en territoriale verdedigingseenheden. De economie is
+      ernstig aangetast. Het voortbestaan van het land is volledig afhankelijk van westerse
+      financiering, wapens, munitie, satellietinformatie en training. Kiev heeft het
+      vermogen verloren om onafhankelijk te onderhandelen; elke overeenkomst die tot
+      stand komt, zal worden bepaald – en uiteindelijk gedicteerd – door Washington.
+      De Amerikaanse president wil de oorlog beëindigen voordat deze verhardt tot een
+      bevroren conflict dat Europa destabiliseert. President Trump heeft behoefte aan
+      een vroege diplomatieke prestatie om toe te voegen aan zijn trofeeën na het bereiken
+      van het staakt-het-vuren in Gaza. En hoewel Trump en Biden sterk van mening verschillen,
+      begrijpen beiden dat een ongecontroleerde ineenstorting van Oekraïne een geopolitieke
+      en politieke ramp zou zijn. Ondertussen is de gevestigde diplomatieke machinerie
+      – het ministerie van Buitenlandse Zaken, de NAVO, de EU, de OVSE – vastgelopen
+      en levert zij geen noemenswaardige resultaten op. Het feit dat een particuliere
+      zakenman wordt ingezet om de deur te openen, bevestigt dat Washington van mening
+      is dat de officiële structuur vastzit. Diplomatie is uitbesteed aan improvisatie.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly
+    one_sentence_summary: De bezoek van de Amerikaanse speciale gezant Steve Witkoff
+      aan Moskou markeert een belangrijke stap in het testen van een parallel kanaal
+      tussen Washington en het Kremlin, gericht op het verkennen van de mogelijkheid
+      van een staakt-het-vuren op basis van militaire feiten in plaats van diplomatieke
+      onderhandelingen.
+    paragraph_summary: De recente bezoek van de Amerikaanse speciale gezant Steve Witkoff
+      aan Moskou markeert een belangrijke verschuiving in de diplomatieke aanpak van
+      Washington, die probeert een parallel kanaal met het Kremlin te verkennen na eerdere
+      mislukte onderhandelingen en een stagnatie op het slagveld. Witkoff, een vastgoedmagnaat
+      met nauwe banden met president Trump, is niet daar om vredesovereenkomsten te
+      sluiten, maar om te onderzoeken of een staakt-het-vuren mogelijk is, gebaseerd
+      op militaire realiteiten in plaats van diplomatieke retoriek. Terwijl Rusland
+      terrein wint en Oekraïne in de verdediging is, vraagt de situatie zich af of de
+      VS bereid zijn Oekraïne onder druk te zetten voor een akkoord of de oorlog willen
+      blijven beheren zonder Kiev te laten instorten. De uitkomst van Witkoffs missie
+      kan inzicht geven in de toekomstige Amerikaanse strategie ten aanzien van het
+      conflict, dat Oekraïne steeds meer onder druk zet door een afname van strategische
+      reserves en afhankelijkheid van westerse steun.
+    published: '2025-12-05T16:03:58+00:00'
+  - title: 'Russia–Ukraine: Is Washington Testing a Gaza-Style Ceasefire, or Preparing
+      for Escalation?'
+    url: https://ejmagnier.com/2025/12/03/russia-ukraine-is-washington-testing-a-gaza-style-ceasefire-or-preparing-for-escalation/
+    text: By Elijah J. Magnier US Special Envoy Steve Witkoff’s visit to Moscow is not
+      diplomacy as usual. It is the clearest sign yet that Washington is testing a parallel
+      channel with the Kremlin after a deadlock, failed initiatives, and battlefield
+      exhaustion. It may look like a discreet trip by a real-estate magnate close to
+      President Donald Trump, but its political weight is far greater. Witkoff is not
+      a diplomat. That is precisely why he is there. His mission is not to negotiate
+      peace; it is to discover whether peace is even possible and whether a business-like
+      bargain can be struck similar to the one in Gaza. For the first time since the
+      collapse of the Istanbul talks in April 2022, both sides are probing whether a
+      ceasefire can be built on military facts rather than diplomatic slogans. In every
+      war, diplomacy follows battlefield reality, not the other way around. Russia now
+      holds the initiative. Ukraine is on the defensive. And Washington, more than anyone,
+      knows that the map—not speeches, not sanctions, will dictate the next step. The
+      real question today is not what Russia wants. It is whether the United States
+      is ready to pressure Ukraine into a deal, or whether it prefers to manage the
+      war indefinitely without letting Kyiv collapse. Witkoff’s presence in Moscow will
+      reveal which choice Washington is leaning toward. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: US Special Envoy Steve Witkoff's visit to Moscow signals a
+      shift in Washington's approach, as he seeks to explore the possibility of a pragmatic
+      ceasefire between Russia and Ukraine based on military realities rather than traditional
+      diplomatic efforts.
+    paragraph_summary: US Special Envoy Steve Witkoff's recent visit to Moscow signifies
+      a shift in Washington's approach to the ongoing conflict, as it explores a potential
+      parallel channel with the Kremlin following previous diplomatic failures and military
+      stalemates. Unlike traditional diplomats, Witkoff's role is to assess the feasibility
+      of a peace agreement based on current military realities rather than diplomatic
+      rhetoric, particularly after the collapse of the Istanbul talks in April 2022.
+      With Russia currently holding the initiative and Ukraine on the defensive, the
+      focus is on whether the US is willing to pressure Ukraine into a deal or if it
+      prefers to continue managing the conflict without pushing for a resolution. Witkoff's
+      mission could indicate which direction Washington is leaning regarding its involvement
+      in the war.
+    published: '2025-12-03T18:20:18+00:00'
+  - title: 'Russia–Ukraine: Is Washington Testing a Gaza-Style Ceasefire, or Preparing
+      for Escalation?'
+    url: https://ejmagnier.com/2025/12/03/russia-ukraine-is-washington-testing-a-gaza-style-ceasefire-or-preparing-for-escalation/
+    text: By Elijah J. Magnier US Special Envoy Steve Witkoff’s visit to Moscow is not
+      diplomacy as usual. It is the clearest sign yet that Washington is testing a parallel
+      channel with the Kremlin after a deadlock, failed initiatives, and battlefield
+      exhaustion. It may look like a discreet trip by a real-estate magnate close to
+      President Donald Trump, but its political weight is far greater. Witkoff is not
+      a diplomat. That is precisely why he is there. His mission is not to negotiate
+      peace; it is to discover whether peace is even possible and whether a business-like
+      bargain can be struck similar to the one in Gaza. For the first time since the
+      collapse of the Istanbul talks in April 2022, both sides are probing whether a
+      ceasefire can be built on military facts rather than diplomatic slogans. In every
+      war, diplomacy follows battlefield reality, not the other way around. Russia now
+      holds the initiative. Ukraine is on the defensive. And Washington, more than anyone,
+      knows that the map—not speeches, not sanctions, will dictate the next step. The
+      real question today is not what Russia wants. It is whether the United States
+      is ready to pressure Ukraine into a deal, or whether it prefers to manage the
+      war indefinitely without letting Kyiv collapse. Witkoff’s presence in Moscow will
+      reveal which choice Washington is leaning toward. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: US Special Envoy Steve Witkoff's visit to Moscow signals a
+      shift in Washington's approach, as he seeks to explore the possibility of a pragmatic
+      ceasefire between Russia and Ukraine based on military realities rather than traditional
+      diplomatic efforts.
+    paragraph_summary: US Special Envoy Steve Witkoff's recent visit to Moscow signifies
+      a shift in Washington's approach to the ongoing conflict, as it explores a potential
+      parallel channel with the Kremlin following previous diplomatic failures and military
+      stalemates. Unlike traditional diplomats, Witkoff's role is to assess the feasibility
+      of a peace agreement based on current military realities rather than diplomatic
+      rhetoric, particularly after the collapse of the Istanbul talks in April 2022.
+      With Russia currently holding the initiative and Ukraine on the defensive, the
+      focus is on whether the US is willing to pressure Ukraine into a deal or if it
+      prefers to continue managing the conflict without pushing for a resolution. Witkoff's
+      mission could indicate which direction Washington is leaning regarding its involvement
+      in the war.
+    published: '2025-12-03T18:20:18+00:00'
+  - title: 'Russie–Ukraine : Washington teste-t-il un cessez-le-feu à la manière de
+      Gaza, ou prépare-t-il une escalade ?'
+    url: https://ejmagnier.com/2025/12/03/russie-ukraine-washington-teste-t-il-un-cessez-le-feu-a-la-maniere-de-gaza-ou-prepare-t-il-une-escalade/
+    text: Par Elijah J. Magnier La visite à Moscou de l’envoyé spécial américain Steve
+      Witkoff n’a rien d’une démarche diplomatique habituelle. Elle constitue le signe
+      le plus clair à ce jour que Washington teste un canal parallèle avec le Kremlin
+      après une longue période d’impasse, d’initiatives avortées et d’épuisement sur
+      le champ de bataille. Cela peut sembler un déplacement discret d’un magnat de
+      l’immobilier proche du président Donald Trump, mais son poids politique est bien
+      plus conséquent. Witkoff n’est pas un diplomate, et c’est précisément pour cela
+      qu’il est là. Sa mission n’est pas de négocier la paix, mais de déterminer si
+      une paix est même envisageable et si un accord de type commercial, semblable à
+      celui obtenu à Gaza, peut être trouvé. Pour la première fois depuis l’effondrement
+      des discussions d’Istanbul en avril 2022, les deux parties cherchent à savoir
+      si un cessez-le-feu peut se fonder sur la réalité militaire plutôt que sur des
+      slogans diplomatiques. Dans toute guerre, la diplomatie suit la réalité du champ
+      de bataille, jamais l’inverse. La Russie détient désormais l’initiative. L’Ukraine
+      est sur la défensive. Et Washington sait mieux que quiconque que la carte du front
+      – et non les discours ou les sanctions – déterminera la prochaine étape. La vraie
+      question aujourd’hui n’est pas ce que veut la Russie, mais si les États-Unis sont
+      prêts à exercer une pression sur l’Ukraine pour conclure un accord, ou s’ils préfèrent
+      gérer la guerre indéfiniment sans laisser Kyiv s’effondrer. La présence de Witkoff
+      à Moscou indiquera vers quelle option s’oriente Washington. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: La visite à Moscou de l'envoyé spécial américain Steve Witkoff
+      marque une tentative de Washington d'explorer un canal parallèle avec le Kremlin
+      pour évaluer la possibilité d'un cessez-le-feu basé sur des réalités militaires,
+      plutôt que sur des discours diplomatiques.
+    paragraph_summary: La visite à Moscou de l'envoyé spécial américain Steve Witkoff
+      marque un tournant significatif dans les relations entre Washington et le Kremlin,
+      signalant que les États-Unis explorent un canal parallèle après une période d'impasse.
+      Witkoff, un magnat de l'immobilier et non un diplomate, a pour mission de déterminer
+      la faisabilité d'un accord de paix, potentiellement similaire à celui de Gaza,
+      plutôt que de négocier directement. Pour la première fois depuis l'échec des discussions
+      d'Istanbul en avril 2022, les deux parties envisagent un cessez-le-feu basé sur
+      la réalité militaire actuelle, où la Russie a l'initiative et l'Ukraine est sur
+      la défensive. La clé réside dans la volonté des États-Unis d'exercer une pression
+      sur l'Ukraine pour parvenir à un accord ou de continuer à gérer le conflit sans
+      permettre un effondrement de Kyiv. La présence de Witkoff à Moscou pourrait indiquer
+      la direction que Washington choisira.
+    published: '2025-12-03T18:19:15+00:00'
+  - title: 'Russie–Ukraine : Washington teste-t-il un cessez-le-feu à la manière de
+      Gaza, ou prépare-t-il une escalade ?'
+    url: https://ejmagnier.com/2025/12/03/russie-ukraine-washington-teste-t-il-un-cessez-le-feu-a-la-maniere-de-gaza-ou-prepare-t-il-une-escalade/
+    text: Par Elijah J. Magnier La visite à Moscou de l’envoyé spécial américain Steve
+      Witkoff n’a rien d’une démarche diplomatique habituelle. Elle constitue le signe
+      le plus clair à ce jour que Washington teste un canal parallèle avec le Kremlin
+      après une longue période d’impasse, d’initiatives avortées et d’épuisement sur
+      le champ de bataille. Cela peut sembler un déplacement discret d’un magnat de
+      l’immobilier proche du président Donald Trump, mais son poids politique est bien
+      plus conséquent. Witkoff n’est pas un diplomate, et c’est précisément pour cela
+      qu’il est là. Sa mission n’est pas de négocier la paix, mais de déterminer si
+      une paix est même envisageable et si un accord de type commercial, semblable à
+      celui obtenu à Gaza, peut être trouvé. Pour la première fois depuis l’effondrement
+      des discussions d’Istanbul en avril 2022, les deux parties cherchent à savoir
+      si un cessez-le-feu peut se fonder sur la réalité militaire plutôt que sur des
+      slogans diplomatiques. Dans toute guerre, la diplomatie suit la réalité du champ
+      de bataille, jamais l’inverse. La Russie détient désormais l’initiative. L’Ukraine
+      est sur la défensive. Et Washington sait mieux que quiconque que la carte du front
+      – et non les discours ou les sanctions – déterminera la prochaine étape. La vraie
+      question aujourd’hui n’est pas ce que veut la Russie, mais si les États-Unis sont
+      prêts à exercer une pression sur l’Ukraine pour conclure un accord, ou s’ils préfèrent
+      gérer la guerre indéfiniment sans laisser Kyiv s’effondrer. La présence de Witkoff
+      à Moscou indiquera vers quelle option s’oriente Washington. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: La visite à Moscou de l'envoyé spécial américain Steve Witkoff
+      marque une tentative de Washington d'explorer un canal parallèle avec le Kremlin
+      pour évaluer la possibilité d'un cessez-le-feu basé sur des réalités militaires,
+      plutôt que sur des discours diplomatiques.
+    paragraph_summary: La visite à Moscou de l'envoyé spécial américain Steve Witkoff
+      marque un tournant significatif dans les relations entre Washington et le Kremlin,
+      signalant que les États-Unis explorent un canal parallèle après une période d'impasse.
+      Witkoff, un magnat de l'immobilier et non un diplomate, a pour mission de déterminer
+      la faisabilité d'un accord de paix, potentiellement similaire à celui de Gaza,
+      plutôt que de négocier directement. Pour la première fois depuis l'échec des discussions
+      d'Istanbul en avril 2022, les deux parties envisagent un cessez-le-feu basé sur
+      la réalité militaire actuelle, où la Russie a l'initiative et l'Ukraine est sur
+      la défensive. La clé réside dans la volonté des États-Unis d'exercer une pression
+      sur l'Ukraine pour parvenir à un accord ou de continuer à gérer le conflit sans
+      permettre un effondrement de Kyiv. La présence de Witkoff à Moscou pourrait indiquer
+      la direction que Washington choisira.
+    published: '2025-12-03T18:19:15+00:00'
   - title: 'The Ceasefire That Never Was: A Year of Violations, Pressure, Shifting Power
       and Uncertainty'
     url: https://ejmagnier.com/2025/11/29/the-ceasefire-that-never-was-a-year-of-violations-pressure-shifting-power-and-uncertainty/

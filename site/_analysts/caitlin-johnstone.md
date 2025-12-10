@@ -7,14 +7,1156 @@ description: "Australian satirical anti–war journalist; reader–funded Substa
 websites:
   - https://www.caitlinjohnst.one/
 summary: |
-  As tensions escalate in the Americas, the United States under President Trump is reportedly weighing military options to force regime change in Venezuela. This development follows a series of provocative moves, including Trump’s declaration of Venezuelan airspace as "closed" and a media campaign linking Venezuela’s government to international drug trafficking and jihadist networks. **Caitlin Johnstone** notes that these narratives are being pushed despite widespread domestic opposition to intervention, with the majority of Americans against military action.
+  As the world enters December 2025, the sense of global instability and moral disquiet continues to deepen, with recent independent analyses highlighting both overt geopolitical crises and the psychological toll of witnessing widespread suffering.
   
-  The timing of these reports is notable. The Wall Street Journal’s recent article tying Venezuela’s alleged drug trade to African jihadist groups coincided with Trump’s ultimatum to President Maduro, framing U.S. pressure as a global security issue. **Johnstone** highlights the use of such narratives as classic war propaganda, designed to justify intervention and rally European support by presenting the crisis as an international concern.
+  The most recent development, as discussed by **Caitlin Johnstone**, centers on the challenge of personal healing amid escalating global turmoil. In her December 9th piece, she relays Chloe’s struggle to find comfort and safety while remaining acutely aware of ongoing violence and injustice worldwide. This reflects a broader societal anxiety, where the relentless stream of distressing news—ranging from environmental collapse to war crimes—complicates individual and collective efforts to foster resilience and hope.
   
-  Meanwhile, the broader context is marked by skepticism toward the effectiveness and motives of U.S. regime change operations. Past interventions have often led to instability and humanitarian crises, a pattern that **Johnstone** argues is being overlooked in the current push for action against Venezuela.
+  Environmental degradation remains a critical concern. **Tim Foley**, in his evocative account, describes the eerie silence of blue whales, a direct consequence of vanishing krill populations and warming oceans. This environmental decay is set against a backdrop of urban desolation and human suffering, underscoring the interconnectedness of ecological and societal crises. The majority of analysts agree that without urgent systemic change, both environmental and human well-being will continue to deteriorate. There is high confidence that the climate crisis will remain a destabilizing force in global politics through 2026.
   
-  Looking ahead, the trend toward militarized U.S. foreign policy in Latin America is likely to intensify, especially as media campaigns continue to shape public perception. There is a high chance that, barring significant domestic pushback or international resistance, the U.S. will escalate its efforts to oust the Maduro government—most definitely through increased pressure, and quite likely through direct or indirect military involvement. The majority opinion among independent analysts remains deeply critical of these moves, warning of disastrous consequences for both Venezuela and the broader region.
+  On the geopolitical front, the United States’ foreign policy continues to draw scrutiny. The recent renaming of the US Institute of Peace to the Donald J Trump Institute of Peace, as reported by **Caitlin Johnstone**, has been widely criticized as an attempt to rebrand a presidency marked by extensive military interventions. Despite official rhetoric, independent observers emphasize the contradiction between the administration’s self-styled image as peacemakers and its record of escalating conflicts, particularly in Latin America and the Caribbean.
+  
+  Looking ahead, the prevailing trend is one of deepening cynicism toward official narratives and a growing recognition of the need for grassroots solidarity and resistance. As Johnstone notes, “awareness of global suffering complicates the pursuit of comfort and security,” yet it also fuels calls for systemic change. There is high confidence that, barring significant policy shifts, both environmental and geopolitical crises will intensify, further challenging individuals and societies to find meaning and agency in a world on fire.
 articles:
+  - title: How To Heal When The World Is On Fire
+    url: https://www.caitlinjohnst.one/p/how-to-heal-when-the-world-is-on
+    text: 'Reading by Tim Foley : Subscribe now Chloe writes the following via email
+      regarding my recent piece “ Don’t Let The Empire Gaslight You Into Believing You
+      Are Powerless ”: “What you said about what to do when you feel powerless really
+      stuck with me…that externally you can always help wake up more people to the truth
+      and internally you can heal. I guess I just have a question more with the latter.
+      How do you heal in the midst of a world on fire? How do you feel safe and secure
+      when you realize that the world is anything but those two things? That any form
+      of comfort you feel is currently costing untold numbers of people’s blood and
+      pain? How do you heal and feel safe when everything is just…grind…precarity and
+      feeling on the edge of oblivion? Waking up to those realizations is terrifying…and
+      it just feels like a full antitheis to being able to start your healing. Like
+      things can only be safe when the monsters and the hell is defeated which won’t
+      likely occur within the span of our lifetimes? It seems like thats something you’ve
+      figured out and I’m curious how to start that.” Dear Chloe, I think first we need
+      to be clear that healing and feeling secure are two different things. Healing
+      isn’t about getting away from uncomfortable feelings, it’s about moving right
+      into them and feeling them fully. After we have done our work and healing has
+      occurred we tend to notice that we feel better, but the actual work of healing
+      begins in discomfort. That’s where the rubber meets the road on this path. Healing
+      is when you find a part of yourself that has been acting out unconsciously over
+      and over again throughout your life, by getting annoyed or upset or collapsing
+      into helplessness, or by freezing up, freezing out, or freaking out. You start
+      paying attention to how these unconscious behaviors play in yourself (either in
+      your outward behavior or privately in your internal suffering), and you get real
+      curious about how that is happening. Healing is when you track that defense mechanism
+      back to its first instance, the very first time you felt this feeling, usually
+      in childhood, where you were small and vulnerable and you came up with this way
+      of defending yourself in that moment and have stuck with it ever since. Our inner
+      dysfunctions are generally just old strategies for dealing with perceived threats
+      that we set in motion much earlier in our lives and then forgot about, which then
+      went on to continue pulling the strings of our psychology from the depths of our
+      subconscious long after they became maladaptive and unhelpful. Healing is when
+      you listen to that small part of you that has just been doing its very best to
+      defend you all these years from the perceived threat that is no longer there because
+      you are no longer a small child. You are an adult now, and you don’t face the
+      same threats you faced (or more likely imagined you faced but didn’t understand)
+      back when you were a kid. But a part of your brain has not caught up with that
+      yet. So you let that part of yourself talk to you, and you listen, and you love
+      it, and you thank it for defending you all these years, but you let it know that
+      you’re all good now. It can go. Compassion for your tiny self that didn’t know
+      any better floods your system and in all that love, you forgive yourself for the
+      first instance, and for all the instances after where you were punching at shadows
+      that were no longer there. In that flood of compassion, the mechanism dissolves.
+      Sometimes the energy of it will literally up and leave, out your mouth in the
+      form of a burp or a dry retch, or in a shudder or chattering of teeth, but other
+      times it will simply melt into your whole self. You’ll just feel better, and you’ll
+      know it’s gone because you won’t be able to find the feeling again if you attempt
+      to return to it. The thing about healing is that it leaves only an absence of
+      something, so it doesn’t make a big deal about itself. You might not even notice
+      that you’ve done anything much for a while. The more you do this though, the more
+      the noise in your head dies down, and the real world begins to emerge. You become
+      less reactive and less likely to inadvertently cause drama in your world, and
+      in yourself you become generally happier and lighter. But you also see — and this
+      goes back to the nub of your question — that in this new light the world becomes
+      a much less scary place. You can see that the monsters who rule our world aren’t
+      so much monsters as just little kids with far too much power unconsciously acting
+      out their defense mechanisms. The suffering they cause is real and horrifying,
+      but at the root of it, they are humans playing out a very human pattern. In this
+      context, it’s comprehensible. You’ve found similar things in yourself, so it’s
+      not an alien threat which defies understanding. You also see how predictable people
+      are when they are stuck in their reactive patterns. You can see that in our leaders.
+      They are not surprising or inspired in any way at all; they are monotonously boring
+      and beholden to the patterning of their psychological conditioning, and their
+      behavior is predictable. Evil, yes, but also predictable. Predictability is also
+      a marker of the imperial core as a whole. You can see how incapable it is of changing
+      tack, even when it no longer serves the empire to continue the pattern. The empire
+      managers think they’re so slick, but they are stuck with repeating the same plays
+      over and over. That’s a major weakness. They are telegraphing their next moves
+      to us years in advance, and there’s nothing they can do about it. The other thing
+      that happens is that in this newfound clarity, you can interact with the world
+      as it is. You are no longer expending energy fighting shadows of the past. Your
+      healthy anger is re-ignited, ready to animate you into inspired action that responds
+      to the present moment. You get your intuition back, unencumbered by neurosis and
+      paranoia, so you can move more efficiently in the world. You get your healthy
+      wants back, your “fuck yeah” and your “hell no”, and you can make good decisions
+      quickly, and deftly course-correct if you need. Imperial propaganda uses our fears,
+      our tribal loyalties, our insecurities, and our learned helplessness to control
+      us as efficiently as if they installed levers in our brain. If you dissolve those
+      levers, you become a very dangerous entity to the machine. You become a free human
+      being no longer acting in patterned and predictable ways, but moving with the
+      needs of the moment. That is empowering. So we definitely don’t need to wait until
+      the bastards have been defeated and we’re feeling safe and secure in order to
+      begin our healing journey. In fact, beginning the work of true healing makes us
+      much more effective at fighting the empire, and the work begins right here in
+      the big sloppy uncomfortable thick of it all. All it takes is the sincerity, vulnerability,
+      humility, and courage to begin taking those first steps. _________________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. The best way to make sure you see everything I
+      write is to get on my free mailing list . Click here for links for my social media,
+      books, merch, and audio/video versions of each article . All my work is free to
+      bootleg and use in any way, shape or form; republish it, translate it, use it
+      on merchandise; whatever you want. All works co-authored with my husband Tim Foley.
+      Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe
+      Stock.'
+    one_sentence_summary: Chloe questions how to achieve personal healing and a sense
+      of safety in a chaotic world, feeling that awareness of global suffering complicates
+      the pursuit of comfort and security.
+    paragraph_summary: In response to Chloe's inquiry about healing amidst a chaotic
+      world, Tim Foley emphasizes that healing and feeling secure are distinct concepts.
+      He explains that true healing involves confronting and fully experiencing uncomfortable
+      emotions rather than escaping them. This process requires individuals to recognize
+      and understand their unconscious behaviors, such as frustration or helplessness,
+      which often arise in response to external turmoil. By engaging with these feelings
+      and behaviors, individuals can begin their healing journey, ultimately leading
+      to a sense of improvement and self-awareness, even when external circumstances
+      remain challenging.
+    published: '2025-12-09T12:36:01+00:00'
+  - title: How To Heal When The World Is On Fire
+    url: https://www.caitlinjohnst.one/p/how-to-heal-when-the-world-is-on
+    text: 'Reading by Tim Foley : Subscribe now Chloe writes the following via email
+      regarding my recent piece “ Don’t Let The Empire Gaslight You Into Believing You
+      Are Powerless ”: “What you said about what to do when you feel powerless really
+      stuck with me…that externally you can always help wake up more people to the truth
+      and internally you can heal. I guess I just have a question more with the latter.
+      How do you heal in the midst of a world on fire? How do you feel safe and secure
+      when you realize that the world is anything but those two things? That any form
+      of comfort you feel is currently costing untold numbers of people’s blood and
+      pain? How do you heal and feel safe when everything is just…grind…precarity and
+      feeling on the edge of oblivion? Waking up to those realizations is terrifying…and
+      it just feels like a full antitheis to being able to start your healing. Like
+      things can only be safe when the monsters and the hell is defeated which won’t
+      likely occur within the span of our lifetimes? It seems like thats something you’ve
+      figured out and I’m curious how to start that.” Dear Chloe, I think first we need
+      to be clear that healing and feeling secure are two different things. Healing
+      isn’t about getting away from uncomfortable feelings, it’s about moving right
+      into them and feeling them fully. After we have done our work and healing has
+      occurred we tend to notice that we feel better, but the actual work of healing
+      begins in discomfort. That’s where the rubber meets the road on this path. Healing
+      is when you find a part of yourself that has been acting out unconsciously over
+      and over again throughout your life, by getting annoyed or upset or collapsing
+      into helplessness, or by freezing up, freezing out, or freaking out. You start
+      paying attention to how these unconscious behaviors play in yourself (either in
+      your outward behavior or privately in your internal suffering), and you get real
+      curious about how that is happening. Healing is when you track that defense mechanism
+      back to its first instance, the very first time you felt this feeling, usually
+      in childhood, where you were small and vulnerable and you came up with this way
+      of defending yourself in that moment and have stuck with it ever since. Our inner
+      dysfunctions are generally just old strategies for dealing with perceived threats
+      that we set in motion much earlier in our lives and then forgot about, which then
+      went on to continue pulling the strings of our psychology from the depths of our
+      subconscious long after they became maladaptive and unhelpful. Healing is when
+      you listen to that small part of you that has just been doing its very best to
+      defend you all these years from the perceived threat that is no longer there because
+      you are no longer a small child. You are an adult now, and you don’t face the
+      same threats you faced (or more likely imagined you faced but didn’t understand)
+      back when you were a kid. But a part of your brain has not caught up with that
+      yet. So you let that part of yourself talk to you, and you listen, and you love
+      it, and you thank it for defending you all these years, but you let it know that
+      you’re all good now. It can go. Compassion for your tiny self that didn’t know
+      any better floods your system and in all that love, you forgive yourself for the
+      first instance, and for all the instances after where you were punching at shadows
+      that were no longer there. In that flood of compassion, the mechanism dissolves.
+      Sometimes the energy of it will literally up and leave, out your mouth in the
+      form of a burp or a dry retch, or in a shudder or chattering of teeth, but other
+      times it will simply melt into your whole self. You’ll just feel better, and you’ll
+      know it’s gone because you won’t be able to find the feeling again if you attempt
+      to return to it. The thing about healing is that it leaves only an absence of
+      something, so it doesn’t make a big deal about itself. You might not even notice
+      that you’ve done anything much for a while. The more you do this though, the more
+      the noise in your head dies down, and the real world begins to emerge. You become
+      less reactive and less likely to inadvertently cause drama in your world, and
+      in yourself you become generally happier and lighter. But you also see — and this
+      goes back to the nub of your question — that in this new light the world becomes
+      a much less scary place. You can see that the monsters who rule our world aren’t
+      so much monsters as just little kids with far too much power unconsciously acting
+      out their defense mechanisms. The suffering they cause is real and horrifying,
+      but at the root of it, they are humans playing out a very human pattern. In this
+      context, it’s comprehensible. You’ve found similar things in yourself, so it’s
+      not an alien threat which defies understanding. You also see how predictable people
+      are when they are stuck in their reactive patterns. You can see that in our leaders.
+      They are not surprising or inspired in any way at all; they are monotonously boring
+      and beholden to the patterning of their psychological conditioning, and their
+      behavior is predictable. Evil, yes, but also predictable. Predictability is also
+      a marker of the imperial core as a whole. You can see how incapable it is of changing
+      tack, even when it no longer serves the empire to continue the pattern. The empire
+      managers think they’re so slick, but they are stuck with repeating the same plays
+      over and over. That’s a major weakness. They are telegraphing their next moves
+      to us years in advance, and there’s nothing they can do about it. The other thing
+      that happens is that in this newfound clarity, you can interact with the world
+      as it is. You are no longer expending energy fighting shadows of the past. Your
+      healthy anger is re-ignited, ready to animate you into inspired action that responds
+      to the present moment. You get your intuition back, unencumbered by neurosis and
+      paranoia, so you can move more efficiently in the world. You get your healthy
+      wants back, your “fuck yeah” and your “hell no”, and you can make good decisions
+      quickly, and deftly course-correct if you need. Imperial propaganda uses our fears,
+      our tribal loyalties, our insecurities, and our learned helplessness to control
+      us as efficiently as if they installed levers in our brain. If you dissolve those
+      levers, you become a very dangerous entity to the machine. You become a free human
+      being no longer acting in patterned and predictable ways, but moving with the
+      needs of the moment. That is empowering. So we definitely don’t need to wait until
+      the bastards have been defeated and we’re feeling safe and secure in order to
+      begin our healing journey. In fact, beginning the work of true healing makes us
+      much more effective at fighting the empire, and the work begins right here in
+      the big sloppy uncomfortable thick of it all. All it takes is the sincerity, vulnerability,
+      humility, and courage to begin taking those first steps. _________________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. The best way to make sure you see everything I
+      write is to get on my free mailing list . Click here for links for my social media,
+      books, merch, and audio/video versions of each article . All my work is free to
+      bootleg and use in any way, shape or form; republish it, translate it, use it
+      on merchandise; whatever you want. All works co-authored with my husband Tim Foley.
+      Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe
+      Stock.'
+    one_sentence_summary: Chloe questions how to achieve personal healing and a sense
+      of safety in a chaotic world, feeling that awareness of global suffering complicates
+      the pursuit of comfort and security.
+    paragraph_summary: In response to Chloe's inquiry about healing amidst a chaotic
+      world, Tim Foley emphasizes that healing and feeling secure are distinct concepts.
+      He explains that true healing involves confronting and fully experiencing uncomfortable
+      emotions rather than escaping them. This process requires individuals to recognize
+      and understand their unconscious behaviors, such as frustration or helplessness,
+      which often arise in response to external turmoil. By engaging with these feelings
+      and behaviors, individuals can begin their healing journey, ultimately leading
+      to a sense of improvement and self-awareness, even when external circumstances
+      remain challenging.
+    published: '2025-12-09T12:36:01+00:00'
+  - title: The Blue Whales Have Stopped Singing
+    url: https://www.caitlinjohnst.one/p/the-blue-whales-have-stopped-singing
+    text: 'Reading by Tim Foley : Subscribe now The blue whales have stopped singing
+      because the krill are vanishing because the oceans are warming because we are
+      ruled by long-toothed liars whose insides are full of dead leaves. The great whales
+      have gone silent and my bird has gone blind and there are chatbots in the basement
+      and corpses in the corn. Under the overpass it is dry and still. You would never
+      know that everything is dying. You should come and visit me. Meet me over there
+      under the sepia streetlights with the strangleporn perverts and fentanyl fallen,
+      all the stillborn scar tissue extractions from the wreckage of a banished womb,
+      the NAFTA-noosed factory towns full of deserted buildings and the window-snarling
+      meth towns full of deserted people, where the cries of orphaned Palestinians mingle
+      with the cries of the last baby orangutan ever born in the wild. Meet me under
+      the flickering lights. Bring me some smokes and a sad luck story and let’s stay
+      up late by the freeway watching the traffic get sparse. Show me the spots on your
+      skin where life has kicked you and I will kiss them and give you a flower. The
+      leviathans have gone quiet and the turbines are getting loud, and everything has
+      become so strange. So sit with me on this curb under my burlap wing and let’s
+      laugh and heal and mark beauty until sunrise. ______________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. My work is entirely reader-supported , so
+      if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. The best way to make sure you see everything I
+      write is to get on my free mailing list . Click here for links for my social media,
+      books, merch, and audio/video versions of each article . All my work is free to
+      bootleg and use in any way, shape or form; republish it, translate it, use it
+      on merchandise; whatever you want. All works co-authored with my husband Tim Foley.
+      Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Large Blue Whale Off Southern
+      California Coast Photo Don Ramey Logan.jpg from Wikimedia Commons by Don Ramey
+      Logan , CC-BY-SA 3.0'
+    one_sentence_summary: In a haunting reflection on environmental and societal decay,
+      Tim Foley's piece portrays a world where blue whales have stopped singing due
+      to vanishing krill and warming oceans, amidst a backdrop of urban desolation and
+      human suffering, urging a connection in the face of despair.
+    paragraph_summary: In Tim Foley's evocative piece, he paints a bleak picture of
+      a world in decline, where blue whales have ceased their songs due to the vanishing
+      krill, a consequence of warming oceans and societal neglect. The narrative unfolds
+      in a desolate urban landscape filled with despair, where the cries of marginalized
+      communities and endangered species intertwine, reflecting a broader sense of loss
+      and silence. Amidst this grim reality, Foley invites a companion to share in moments
+      of vulnerability and connection, suggesting that even in darkness, there is a
+      need for laughter, healing, and the recognition of beauty. The piece serves as
+      a poignant commentary on environmental degradation, societal apathy, and the human
+      condition, urging readers to find solace and solidarity in shared experiences.
+    published: '2025-12-08T11:47:50+00:00'
+  - title: The Blue Whales Have Stopped Singing
+    url: https://www.caitlinjohnst.one/p/the-blue-whales-have-stopped-singing
+    text: 'Reading by Tim Foley : Subscribe now The blue whales have stopped singing
+      because the krill are vanishing because the oceans are warming because we are
+      ruled by long-toothed liars whose insides are full of dead leaves. The great whales
+      have gone silent and my bird has gone blind and there are chatbots in the basement
+      and corpses in the corn. Under the overpass it is dry and still. You would never
+      know that everything is dying. You should come and visit me. Meet me over there
+      under the sepia streetlights with the strangleporn perverts and fentanyl fallen,
+      all the stillborn scar tissue extractions from the wreckage of a banished womb,
+      the NAFTA-noosed factory towns full of deserted buildings and the window-snarling
+      meth towns full of deserted people, where the cries of orphaned Palestinians mingle
+      with the cries of the last baby orangutan ever born in the wild. Meet me under
+      the flickering lights. Bring me some smokes and a sad luck story and let’s stay
+      up late by the freeway watching the traffic get sparse. Show me the spots on your
+      skin where life has kicked you and I will kiss them and give you a flower. The
+      leviathans have gone quiet and the turbines are getting loud, and everything has
+      become so strange. So sit with me on this curb under my burlap wing and let’s
+      laugh and heal and mark beauty until sunrise. ______________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. My work is entirely reader-supported , so
+      if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. The best way to make sure you see everything I
+      write is to get on my free mailing list . Click here for links for my social media,
+      books, merch, and audio/video versions of each article . All my work is free to
+      bootleg and use in any way, shape or form; republish it, translate it, use it
+      on merchandise; whatever you want. All works co-authored with my husband Tim Foley.
+      Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Large Blue Whale Off Southern
+      California Coast Photo Don Ramey Logan.jpg from Wikimedia Commons by Don Ramey
+      Logan , CC-BY-SA 3.0'
+    one_sentence_summary: In a haunting reflection on environmental and societal decay,
+      Tim Foley's piece portrays a world where blue whales have stopped singing due
+      to vanishing krill and warming oceans, amidst a backdrop of urban desolation and
+      human suffering, urging a connection in the face of despair.
+    paragraph_summary: In Tim Foley's evocative piece, he paints a bleak picture of
+      a world in decline, where blue whales have ceased their songs due to the vanishing
+      krill, a consequence of warming oceans and societal neglect. The narrative unfolds
+      in a desolate urban landscape filled with despair, where the cries of marginalized
+      communities and endangered species intertwine, reflecting a broader sense of loss
+      and silence. Amidst this grim reality, Foley invites a companion to share in moments
+      of vulnerability and connection, suggesting that even in darkness, there is a
+      need for laughter, healing, and the recognition of beauty. The piece serves as
+      a poignant commentary on environmental degradation, societal apathy, and the human
+      condition, urging readers to find solace and solidarity in shared experiences.
+    published: '2025-12-08T11:47:50+00:00'
+  - title: Trump's Henchmen Keep Calling Their War Slut President A Peacemaker
+    url: https://www.caitlinjohnst.one/p/trumps-henchmen-keep-calling-their
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      The US State Department has renamed the US Institute of Peace the Donald J Trump
+      Institute of Peace, proclaiming that it did so “to reflect the greatest dealmaker
+      in our nation’s history.” “President Trump will be remembered by history as the
+      President of Peace,” tweeted Secretary of State Marco Rubio on the announcement.
+      Earlier this year the president’s intelligence chief Tulsi Gabbard made a similar
+      social media post, tweeting that “President Trump IS the President of Peace. He
+      is ending bloodshed across the world and will deliver lasting peace in the Middle
+      East.” https://x.com/SecRubio/status/1996368261827666104 This would be the same
+      President Trump who has bombed Somalia more times in the last year than presidents
+      Joe Biden and Barack Obama did in their combined twelve years in office. The same
+      President Trump who is bombing boats in the Caribbean and openly ramping up for
+      a disastrous regime change military intervention in Venezuela at this very moment,
+      with his Chairman of the Joint Chiefs declaring that Americans can expect a coming
+      war “in our neighborhood”. The same President Trump who has spent an entire year
+      pouring weapons into the horrific US proxy war in Ukraine despite promising throughout
+      his entire campaign to end the conflict on day one. The same President Trump who
+      helped Israel incinerate Gaza for months before suckering the world with a fake
+      “ceasefire” deal which as of this writing has seen at least 373 Palestinians murdered
+      by Israel in just two months since taking effect, while a nightmarish surveillance
+      system is constructed around the survivors. The same President Trump who risked
+      a horrifying escalation in the middle east by bombing Iran . The same President
+      Trump who slaughtered hundreds of civilian s in his murderous bombing campaign
+      in Yemen earlier this year. The same President Trump who spent all year ignoring
+      the UAE-backed genocide in Sudan until he was given a nudge by none other genocidal
+      Saudi tyrant Mohammed bin Salman. The same President Trump who spent his entire
+      first term advancing the longstanding agendas of warmongering DC swamp monsters
+      by starving Venezuela, backing Saudi Arabia’s genocidal atrocities in Yemen, ramping
+      up cold war escalations against Russia which paved the way to the conflict in
+      Ukraine, imprisoning Julian Assange for exposing US war crimes, staging brutal
+      regime change ops in Iran, occupying Syrian oil fields with the goal of facilitating
+      regime change, assassinating General Soleimani, and expanding the US murder machine
+      around the world. https://x.com/DNIGabbard/status/1905968207061492064 This rhetoric
+      about Trump being the “President of Peace” is just that: rhetoric. It’s words.
+      This administration has been taking credit for resolving a bunch of conflicts
+      it either made up, didn’t help resolve, or was an active belligerent in, while
+      in actual reality turning the gears of the imperial war machine as rapidly as
+      any other president the United States has ever had. Trump campaigned on being
+      a president of peace and continues to stake his personal reputation on big talk
+      about peacemaking, but in terms of concrete action he’s just as much of a warmonger
+      as the psychopaths who came before him. There is no basis to continue to support
+      Trump if you are opposed to war. You can support him because he “triggers the
+      libs” or “fights wokeness” or whatever other dopey culture war reason you want
+      if that’s what you’re into, because he absolutely does feed into that nonsense.
+      But if you support him because you think he’s making peace, draining the swamp,
+      or sticking up for the little guy, you’re just plain delusional. ______________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. The best way to make sure
+      you see everything I write is to get on my free mailing list . Click here for
+      links for my social media, books, merch, and audio/video versions of each article
+      . All my work is free to bootleg and use in any way, shape or form; republish
+      it, translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via the US Department of State .'
+    one_sentence_summary: The US State Department has renamed the US Institute of Peace
+      to the Donald J Trump Institute of Peace, claiming Trump will be remembered as
+      a "President of Peace," despite his administration's extensive military actions.
+    paragraph_summary: The US State Department has officially renamed the US Institute
+      of Peace to the Donald J. Trump Institute of Peace, citing Trump as "the greatest
+      dealmaker in our nation’s history" and declaring him "the President of Peace,"
+      a sentiment echoed by Secretary of State Marco Rubio and intelligence chief Tulsi
+      Gabbard. However, this characterization starkly contrasts with Trump's military
+      actions, including increased bombings in Somalia, the Caribbean, and Yemen, as
+      well as ongoing involvement in the Ukraine conflict and the Israeli-Palestinian
+      situation, where he has been criticized for enabling violence in Gaza. Critics
+      argue that Trump's actions undermine the narrative of him being a peace president,
+      highlighting the contradictions between his rhetoric and military interventions.
+    published: '2025-12-08T01:34:35+00:00'
+  - title: Trump's Henchmen Keep Calling Their War Slut President A Peacemaker
+    url: https://www.caitlinjohnst.one/p/trumps-henchmen-keep-calling-their
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      The US State Department has renamed the US Institute of Peace the Donald J Trump
+      Institute of Peace, proclaiming that it did so “to reflect the greatest dealmaker
+      in our nation’s history.” “President Trump will be remembered by history as the
+      President of Peace,” tweeted Secretary of State Marco Rubio on the announcement.
+      Earlier this year the president’s intelligence chief Tulsi Gabbard made a similar
+      social media post, tweeting that “President Trump IS the President of Peace. He
+      is ending bloodshed across the world and will deliver lasting peace in the Middle
+      East.” https://x.com/SecRubio/status/1996368261827666104 This would be the same
+      President Trump who has bombed Somalia more times in the last year than presidents
+      Joe Biden and Barack Obama did in their combined twelve years in office. The same
+      President Trump who is bombing boats in the Caribbean and openly ramping up for
+      a disastrous regime change military intervention in Venezuela at this very moment,
+      with his Chairman of the Joint Chiefs declaring that Americans can expect a coming
+      war “in our neighborhood”. The same President Trump who has spent an entire year
+      pouring weapons into the horrific US proxy war in Ukraine despite promising throughout
+      his entire campaign to end the conflict on day one. The same President Trump who
+      helped Israel incinerate Gaza for months before suckering the world with a fake
+      “ceasefire” deal which as of this writing has seen at least 373 Palestinians murdered
+      by Israel in just two months since taking effect, while a nightmarish surveillance
+      system is constructed around the survivors. The same President Trump who risked
+      a horrifying escalation in the middle east by bombing Iran . The same President
+      Trump who slaughtered hundreds of civilian s in his murderous bombing campaign
+      in Yemen earlier this year. The same President Trump who spent all year ignoring
+      the UAE-backed genocide in Sudan until he was given a nudge by none other genocidal
+      Saudi tyrant Mohammed bin Salman. The same President Trump who spent his entire
+      first term advancing the longstanding agendas of warmongering DC swamp monsters
+      by starving Venezuela, backing Saudi Arabia’s genocidal atrocities in Yemen, ramping
+      up cold war escalations against Russia which paved the way to the conflict in
+      Ukraine, imprisoning Julian Assange for exposing US war crimes, staging brutal
+      regime change ops in Iran, occupying Syrian oil fields with the goal of facilitating
+      regime change, assassinating General Soleimani, and expanding the US murder machine
+      around the world. https://x.com/DNIGabbard/status/1905968207061492064 This rhetoric
+      about Trump being the “President of Peace” is just that: rhetoric. It’s words.
+      This administration has been taking credit for resolving a bunch of conflicts
+      it either made up, didn’t help resolve, or was an active belligerent in, while
+      in actual reality turning the gears of the imperial war machine as rapidly as
+      any other president the United States has ever had. Trump campaigned on being
+      a president of peace and continues to stake his personal reputation on big talk
+      about peacemaking, but in terms of concrete action he’s just as much of a warmonger
+      as the psychopaths who came before him. There is no basis to continue to support
+      Trump if you are opposed to war. You can support him because he “triggers the
+      libs” or “fights wokeness” or whatever other dopey culture war reason you want
+      if that’s what you’re into, because he absolutely does feed into that nonsense.
+      But if you support him because you think he’s making peace, draining the swamp,
+      or sticking up for the little guy, you’re just plain delusional. ______________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. The best way to make sure
+      you see everything I write is to get on my free mailing list . Click here for
+      links for my social media, books, merch, and audio/video versions of each article
+      . All my work is free to bootleg and use in any way, shape or form; republish
+      it, translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via the US Department of State .'
+    one_sentence_summary: The US State Department has renamed the US Institute of Peace
+      to the Donald J Trump Institute of Peace, claiming Trump will be remembered as
+      a "President of Peace," despite his administration's extensive military actions.
+    paragraph_summary: The US State Department has officially renamed the US Institute
+      of Peace to the Donald J. Trump Institute of Peace, citing Trump as "the greatest
+      dealmaker in our nation’s history" and declaring him "the President of Peace,"
+      a sentiment echoed by Secretary of State Marco Rubio and intelligence chief Tulsi
+      Gabbard. However, this characterization starkly contrasts with Trump's military
+      actions, including increased bombings in Somalia, the Caribbean, and Yemen, as
+      well as ongoing involvement in the Ukraine conflict and the Israeli-Palestinian
+      situation, where he has been criticized for enabling violence in Gaza. Critics
+      argue that Trump's actions undermine the narrative of him being a peace president,
+      highlighting the contradictions between his rhetoric and military interventions.
+    published: '2025-12-08T01:34:35+00:00'
+  - title: 'New Issue Of JOHNSTONE: Secretary Of Perpetual War'
+    url: https://www.caitlinjohnst.one/p/new-issue-of-johnstone-secretary
+    text: 'Subscribe now The new edition of JOHNSTONE is now available to order in print
+      or download as a pay-what-you-want e-book version . As the US murder machine ramps
+      up for yet another war of aggression against yet another oil-rich nation in Venezuela,
+      Secretary of War Pete Hegseth has been trying to meme his way out of a major scandal
+      after he was exposed as having authorized the “double-tap” murder of men who survived
+      a US missile strike on a boat in the Caribbean. In mockery of the uproar over
+      the news, Hegseth posted a meme on Twitter featuring an AI-generated image of
+      the children’s book character Franklin the Turtle with the caption “Franklin Targets
+      Narco Terrorists”. The phrase “narco terrorists” is the slogan the Trump administration
+      has come up with to justify its extrajudicial executions of alleged drug traffickers
+      which it has been using as a pretense to amass a major military presence in the
+      waters near Venezuela. I personally am glad the US has swapped out the name Department
+      of Defense for the far more honest name Department of War. When was the last time
+      the American military was used to defend the United States? It never happens.
+      Call it what it is. Only thing more honest would be to call it the Department
+      of Perpetual War. You can get a paperback copy of this issue by clicking here
+      , or a pay-what-you-feel digital copy by clicking here . Other paperback editions
+      of JOHNSTONE can be purchased by clicking here . Other digital editions can be
+      downloaded by clicking here . You can also get a subscription to the digital versions
+      which will be sent to your inbox every month by clicking here . CONTENTS : Cheney
+      Should Have Died Alone In A Cage … 4 Israel Is Still Starving Gaza, And Other
+      Notes … 5 It Is Easy To Miss The Cloud Reflections … 8 Things Are Shitty Because
+      We Are Ruled By People Who Want Things To Be Shitty … 9 Artificial Intelligence
+      Is Making Everything Dumber … 11 The US Empire Keeps Getting Creepier … 14 Israel
+      Constantly Stretches The Ceasefire Rules Because That’s What Israelis Do … 15
+      This Is All Our Rulers Are Offering Us … 18 Sometimes The Media Ignoring A Major
+      Story Becomes The Story — And Other Notes … 19 The Difference Between The US Empire
+      And The British Empire … 21 The Media Focus On Epstein’s Ties To Trump And Ignore
+      His Ties To Israel … 22 AI Companies Are Encouraging Users To Believe Chatbots
+      Are People, And It’s Insanely Creepy … 23 The Empire Only De-Escalates In One
+      Area So It Can Escalate In Another, And Other Notes … 26 There Are No Easy Fights
+      In The Struggle Against The Empire … 28 On The Rapidly Spreading Delusion That
+      AI Chatbots Are Conscious … 29 In Capitalism They Tell You To Become The Hammer
+      If You Don’t Like Being The Nail … 30 Treasure … 31 Zionists Are Freaking Out
+      About Losing Control Of The Narrative … 32 Capitalism Is The Best It’s Ever Been!
+      … 35 Nobody’s Coming To Humanity’s Rescue; We’ve Got To Save Ourselves … 36 Israel
+      Moved Gaza’s Yellow Line And Then Shelled Palestinians For Being On The Wrong
+      Side … 38 You Don’t Hate The Mass Media Enough … 40 A Note Of Gratitude And Appreciation
+      … 42 Don’t Let The Empire Gaslight You Into Believing You Are Powerless … 43 It’s
+      Getting Harder And Harder To Preserve Our Mental Sovereignty … 45 US Regime Change
+      Interventionism Is Reliably Disastrous, And Other Notes … 47 The Craziest Thing
+      In The World Is That We Could End Poverty, But We Don’t … 49 World’s Most Tyrannical
+      Government Wants To Free Venezuela From Tyranny … 51 Sorry If This Is Antisemitic
+      But I Think It’s Wrong To Train Dogs To Rape Prisoners … 52 On Becoming The First
+      Species To Go Extinct From Politeness … 53 Sudan, Venezuela, And Other Notes …
+      55 Again, you can get a paperback copy of this issue by clicking here , or click
+      here for a digital pay-what-you-feel copy. _________________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. My work is entirely reader-supported , so
+      if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. The best way to make sure you see everything I
+      write is to get on my free mailing list . Click here for links for my social media,
+      books, merch, and audio/video versions of each article . All my work is free to
+      bootleg and use in any way, shape or form; republish it, translate it, use it
+      on merchandise; whatever you want. All works co-authored with my husband Tim Foley.
+      Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article discusses the release of a new edition of JOHNSTONE,
+      highlighting Secretary of War Pete Hegseth's controversial approval of a "double-tap"
+      missile strike in the Caribbean and his subsequent attempt to downplay the scandal
+      through a meme, amidst rising tensions and military actions by the US in Venezuela
+      under the guise of combating "narco terrorism."
+    paragraph_summary: The latest edition of JOHNSTONE is now available for purchase
+      in both print and a pay-what-you-want e-book format, amidst rising tensions as
+      the U.S. prepares for military action in Venezuela. Secretary of War Pete Hegseth
+      faces backlash for approving the "double-tap" killing of survivors from a U.S.
+      missile strike, which he attempted to downplay by sharing a meme featuring a children's
+      character. This incident highlights the Trump administration's controversial use
+      of the term "narco terrorists" to justify extrajudicial killings and military
+      presence in the region. The article critiques the U.S. military's role, suggesting
+      that it should be more accurately labeled as the "Department of Perpetual War."
+      The issue also includes various articles addressing topics such as the situation
+      in Gaza, the impact of artificial intelligence, and the broader implications of
+      U.S. imperialism.
+    published: '2025-12-07T13:31:56+00:00'
+  - title: 'New Issue Of JOHNSTONE: Secretary Of Perpetual War'
+    url: https://www.caitlinjohnst.one/p/new-issue-of-johnstone-secretary
+    text: 'Subscribe now The new edition of JOHNSTONE is now available to order in print
+      or download as a pay-what-you-want e-book version . As the US murder machine ramps
+      up for yet another war of aggression against yet another oil-rich nation in Venezuela,
+      Secretary of War Pete Hegseth has been trying to meme his way out of a major scandal
+      after he was exposed as having authorized the “double-tap” murder of men who survived
+      a US missile strike on a boat in the Caribbean. In mockery of the uproar over
+      the news, Hegseth posted a meme on Twitter featuring an AI-generated image of
+      the children’s book character Franklin the Turtle with the caption “Franklin Targets
+      Narco Terrorists”. The phrase “narco terrorists” is the slogan the Trump administration
+      has come up with to justify its extrajudicial executions of alleged drug traffickers
+      which it has been using as a pretense to amass a major military presence in the
+      waters near Venezuela. I personally am glad the US has swapped out the name Department
+      of Defense for the far more honest name Department of War. When was the last time
+      the American military was used to defend the United States? It never happens.
+      Call it what it is. Only thing more honest would be to call it the Department
+      of Perpetual War. You can get a paperback copy of this issue by clicking here
+      , or a pay-what-you-feel digital copy by clicking here . Other paperback editions
+      of JOHNSTONE can be purchased by clicking here . Other digital editions can be
+      downloaded by clicking here . You can also get a subscription to the digital versions
+      which will be sent to your inbox every month by clicking here . CONTENTS : Cheney
+      Should Have Died Alone In A Cage … 4 Israel Is Still Starving Gaza, And Other
+      Notes … 5 It Is Easy To Miss The Cloud Reflections … 8 Things Are Shitty Because
+      We Are Ruled By People Who Want Things To Be Shitty … 9 Artificial Intelligence
+      Is Making Everything Dumber … 11 The US Empire Keeps Getting Creepier … 14 Israel
+      Constantly Stretches The Ceasefire Rules Because That’s What Israelis Do … 15
+      This Is All Our Rulers Are Offering Us … 18 Sometimes The Media Ignoring A Major
+      Story Becomes The Story — And Other Notes … 19 The Difference Between The US Empire
+      And The British Empire … 21 The Media Focus On Epstein’s Ties To Trump And Ignore
+      His Ties To Israel … 22 AI Companies Are Encouraging Users To Believe Chatbots
+      Are People, And It’s Insanely Creepy … 23 The Empire Only De-Escalates In One
+      Area So It Can Escalate In Another, And Other Notes … 26 There Are No Easy Fights
+      In The Struggle Against The Empire … 28 On The Rapidly Spreading Delusion That
+      AI Chatbots Are Conscious … 29 In Capitalism They Tell You To Become The Hammer
+      If You Don’t Like Being The Nail … 30 Treasure … 31 Zionists Are Freaking Out
+      About Losing Control Of The Narrative … 32 Capitalism Is The Best It’s Ever Been!
+      … 35 Nobody’s Coming To Humanity’s Rescue; We’ve Got To Save Ourselves … 36 Israel
+      Moved Gaza’s Yellow Line And Then Shelled Palestinians For Being On The Wrong
+      Side … 38 You Don’t Hate The Mass Media Enough … 40 A Note Of Gratitude And Appreciation
+      … 42 Don’t Let The Empire Gaslight You Into Believing You Are Powerless … 43 It’s
+      Getting Harder And Harder To Preserve Our Mental Sovereignty … 45 US Regime Change
+      Interventionism Is Reliably Disastrous, And Other Notes … 47 The Craziest Thing
+      In The World Is That We Could End Poverty, But We Don’t … 49 World’s Most Tyrannical
+      Government Wants To Free Venezuela From Tyranny … 51 Sorry If This Is Antisemitic
+      But I Think It’s Wrong To Train Dogs To Rape Prisoners … 52 On Becoming The First
+      Species To Go Extinct From Politeness … 53 Sudan, Venezuela, And Other Notes …
+      55 Again, you can get a paperback copy of this issue by clicking here , or click
+      here for a digital pay-what-you-feel copy. _________________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. My work is entirely reader-supported , so
+      if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. The best way to make sure you see everything I
+      write is to get on my free mailing list . Click here for links for my social media,
+      books, merch, and audio/video versions of each article . All my work is free to
+      bootleg and use in any way, shape or form; republish it, translate it, use it
+      on merchandise; whatever you want. All works co-authored with my husband Tim Foley.
+      Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article discusses the release of a new edition of JOHNSTONE,
+      highlighting Secretary of War Pete Hegseth's controversial approval of a "double-tap"
+      missile strike in the Caribbean and his subsequent attempt to downplay the scandal
+      through a meme, amidst rising tensions and military actions by the US in Venezuela
+      under the guise of combating "narco terrorism."
+    paragraph_summary: The latest edition of JOHNSTONE is now available for purchase
+      in both print and a pay-what-you-want e-book format, amidst rising tensions as
+      the U.S. prepares for military action in Venezuela. Secretary of War Pete Hegseth
+      faces backlash for approving the "double-tap" killing of survivors from a U.S.
+      missile strike, which he attempted to downplay by sharing a meme featuring a children's
+      character. This incident highlights the Trump administration's controversial use
+      of the term "narco terrorists" to justify extrajudicial killings and military
+      presence in the region. The article critiques the U.S. military's role, suggesting
+      that it should be more accurately labeled as the "Department of Perpetual War."
+      The issue also includes various articles addressing topics such as the situation
+      in Gaza, the impact of artificial intelligence, and the broader implications of
+      U.S. imperialism.
+    published: '2025-12-07T13:31:56+00:00'
+  - title: Sudan, Venezuela, And Other Notes
+    url: https://www.caitlinjohnst.one/p/sudan-venezuela-and-other-notes
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      The Guardian has a report out which says that at least 60,000 people were murdered
+      by Sudan’s Rapid Support Forces (RSF) when they captured El Fasher in October,
+      which would be the largest single massacre since Rwanda in 1994. Just in the last
+      few days the RSF have reportedly killed 46 children and scores of adults in suicide
+      drone attacks. These massacres are made possible by the United Arab Emirates,
+      who have been funneling weapons to the RSF through a complex international supply
+      chain. Much like the Saudi-led genocide in Yemen from 2015 to 2022 (which the
+      UAE also participated in), this is yet another instance of a tyrannical Gulf state
+      monarchy committing unfathomable atrocities while its friends in Washington look
+      the other way. In 2017 a leaked State Department memo explained that it is internal
+      US policy to tolerate human rights abuses of US-aligned nations like Saudi Arabia
+      and Egypt while making a big deal about alleged humanitarian abuses in places
+      like Iran. The UAE is a regional partner of the United States, so its genocidal
+      crimes are overlooked. President Trump has made a few noises about making peace
+      in Sudan and Secretary of State Marco Rubio has obliquely wagged his finger at
+      the UAE for its role in the genocide, but meanwhile these mass atrocities are
+      taking place completely unimpeded. It’s cute how the western empire artificially
+      props up these genocidal Gulf state dictatorships and then bangs on about the
+      importance of supporting Israel and its genocidal atrocities because it’s “the
+      only democracy in the middle east”. It’s like, YOU killed the democracy in the
+      middle east, bitch. ❖ As the US war machine escalates in Venezuela I’m seeing
+      more and more online accounts claiming to be Venezuelans urging Trump to attack
+      Caracas and remove Maduro by military force. As a general rule you should always
+      be skeptical of anyone saying “Please invade/bomb/sanction my country,” because
+      it means they either (A) aren’t living in that country, or (B) have some socioeconomic
+      reason to believe they’ll be safe from the repercussions of what they’re asking
+      for which everyone else will suffer from. But honestly it doesn’t even matter
+      if they are 100 percent legit. I don’t care if you really are an impoverished
+      Venezuelan civilian living in Venezuela, it’s still an indisputable fact that
+      US regime change interventionism is reliably disastrous. Your position isn’t made
+      any less stupid and crazy by where you happen to live; anyone who supports US
+      regime change interventionism is still always wrong. ❖ If Maduro really was a
+      monstrous tyrannical dictator the US would be selling him F-35s . ❖ What’s funny
+      about Trump supporters who justify war with Venezuela because it’s “in our hemisphere”
+      is that they don’t mean it’s in the same hemisphere as the United States. They
+      mean it’s theirs. They see half the planet as a direct US territory. ❖ The Washington
+      Post has published two separate articles in the last few days admonishing Americans
+      for complaining about being unable to afford groceries, one titled “ Actually,
+      today’s food prices are a bargain ” and the other titled “ Why you may not want
+      lower prices as much as you think you do ”. Jeff Bezos bought the Washington Post
+      to yell at the poors to quit whining and work harder. ❖ After genocidal war criminal
+      Joe Biden was elected in 2020 I wrote an article titled “ Biden Will Have The
+      Most Diverse, Intersectional Cabinet Of Mass Murderers Ever Assembled ”. On Friday
+      the Hague fugitive former president was presented with an award at the International
+      LGBTQ+ Leaders Conference for running “the most inclusive administration in US
+      history.” The US empire is impossible to satirize. ❖ I’m good with so-called “extreme”
+      pro-Palestine positions like saying every Israeli family who wasn’t there pre-Balfour
+      Declaration needs to leave, because you never come to the negotiating table with
+      your compromise. If you come to the Israelis saying “Perhaps we might one day
+      have two small pieces of land with no military?” if you’re lucky you might wind
+      up getting a pat on the ass and a slice of land the size of a Walmart parking
+      lot. If you begin from the position of “This entire state is illegitimate, all
+      of you get the fuck out” you’re starting from somewhere that might actually end
+      in a positive outcome for Palestinians. ❖ I saw an account I follow on social
+      media talking about their “relationship” with a chatbot the other day. This isn’t
+      the first time I’ve seen someone doing this. For some reason people feel compelled
+      to not only engage in this behavior but also to ask for support and validation
+      about it from their online community, like they’re coming out of the closet about
+      a sexual orientation or something. It’s weird because obviously I’m not going
+      to go pick on someone who’s plainly suffering from crushing loneliness and probably
+      some mental health struggles, but also it’s so painfully dystopian. This is a
+      really dark thing that’s happening. I mean, what does it say about people that
+      they can feel like they’re having a loving relationship with something that has
+      no subjective experience? An essential component of any real loving relationship
+      is an acute curiosity about what your partner’s experience is like, what they’re
+      feeling and thinking and what it’s like to be them from moment to moment. If you’re
+      not having that, then obviously you can’t really say you care about them. But
+      some people obviously don’t experience interpersonal relationships with others
+      in this way, because if they did they wouldn’t think that what they were having
+      with these chatbots was a relationship. But then again I’ve definitely interacted
+      with people who relate to others in that way. If you’ve ever been trapped in a
+      corner at some social event by someone who monologues at you about their own thoughts
+      and interests without taking any interest in yours, that’s pretty much the vibe
+      you get. They’re not relating to you as a real person with your own thoughts and
+      interests and subjective experience; to them you’re just a sounding board for
+      their own thoughts they want to hear themselves saying out loud. In such situations
+      I’ve literally found myself thinking “I don’t need to be here for this conversation.
+      I could replace myself with a nodding animatronic replica and they’d never know.”
+      So maybe it’s better that some of these people aren’t in real relationships, I
+      dunno. If you’re emotionally incapable of seeing your partner as a real person
+      like yourself, maybe it is better if you’re not roping a real human being into
+      an emotional relationship with you and just spending your time verbally masturbating
+      into a mechanical ear instead. At least that way you’re not hurting anyone else.
+      So I’m not quite sure how I feel about this just yet. Hell of a time to be alive.
+      ________________ Caitlin’s Newsletter is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber. My
+      work is entirely reader-supported , so if you enjoyed this piece here are some
+      options where you can toss some money into my tip jar if you want to. The best
+      way to make sure you see everything I write is to get on my free mailing list
+      . Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Wikimedia Commons .'
+    one_sentence_summary: A report reveals that Sudan's Rapid Support Forces have allegedly
+      murdered at least 60,000 people in El Fasher, marking a potential massacre comparable
+      to Rwanda, with ongoing violence supported by weapon supplies from the UAE, while
+      the US turns a blind eye to these human rights abuses.
+    paragraph_summary: A report by The Guardian reveals that Sudan's Rapid Support Forces
+      (RSF) have allegedly murdered at least 60,000 people in El Fasher, marking one
+      of the largest massacres since the Rwandan genocide in 1994. Recent drone attacks
+      by the RSF have reportedly killed dozens, including children, with these atrocities
+      facilitated by arms supplied from the United Arab Emirates (UAE) through a complex
+      international network. The UAE's involvement mirrors its role in the Saudi-led
+      genocide in Yemen, as both nations receive tacit support from the United States,
+      which has a policy of overlooking human rights abuses by its allies while criticizing
+      those in adversarial nations like Iran. Despite some verbal condemnations from
+      U.S. officials, the ongoing mass killings in Sudan continue largely unchecked,
+      highlighting the hypocrisy of Western support for authoritarian regimes in the
+      region.
+    published: '2025-12-07T01:30:39+00:00'
+  - title: Sudan, Venezuela, And Other Notes
+    url: https://www.caitlinjohnst.one/p/sudan-venezuela-and-other-notes
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      The Guardian has a report out which says that at least 60,000 people were murdered
+      by Sudan’s Rapid Support Forces (RSF) when they captured El Fasher in October,
+      which would be the largest single massacre since Rwanda in 1994. Just in the last
+      few days the RSF have reportedly killed 46 children and scores of adults in suicide
+      drone attacks. These massacres are made possible by the United Arab Emirates,
+      who have been funneling weapons to the RSF through a complex international supply
+      chain. Much like the Saudi-led genocide in Yemen from 2015 to 2022 (which the
+      UAE also participated in), this is yet another instance of a tyrannical Gulf state
+      monarchy committing unfathomable atrocities while its friends in Washington look
+      the other way. In 2017 a leaked State Department memo explained that it is internal
+      US policy to tolerate human rights abuses of US-aligned nations like Saudi Arabia
+      and Egypt while making a big deal about alleged humanitarian abuses in places
+      like Iran. The UAE is a regional partner of the United States, so its genocidal
+      crimes are overlooked. President Trump has made a few noises about making peace
+      in Sudan and Secretary of State Marco Rubio has obliquely wagged his finger at
+      the UAE for its role in the genocide, but meanwhile these mass atrocities are
+      taking place completely unimpeded. It’s cute how the western empire artificially
+      props up these genocidal Gulf state dictatorships and then bangs on about the
+      importance of supporting Israel and its genocidal atrocities because it’s “the
+      only democracy in the middle east”. It’s like, YOU killed the democracy in the
+      middle east, bitch. ❖ As the US war machine escalates in Venezuela I’m seeing
+      more and more online accounts claiming to be Venezuelans urging Trump to attack
+      Caracas and remove Maduro by military force. As a general rule you should always
+      be skeptical of anyone saying “Please invade/bomb/sanction my country,” because
+      it means they either (A) aren’t living in that country, or (B) have some socioeconomic
+      reason to believe they’ll be safe from the repercussions of what they’re asking
+      for which everyone else will suffer from. But honestly it doesn’t even matter
+      if they are 100 percent legit. I don’t care if you really are an impoverished
+      Venezuelan civilian living in Venezuela, it’s still an indisputable fact that
+      US regime change interventionism is reliably disastrous. Your position isn’t made
+      any less stupid and crazy by where you happen to live; anyone who supports US
+      regime change interventionism is still always wrong. ❖ If Maduro really was a
+      monstrous tyrannical dictator the US would be selling him F-35s . ❖ What’s funny
+      about Trump supporters who justify war with Venezuela because it’s “in our hemisphere”
+      is that they don’t mean it’s in the same hemisphere as the United States. They
+      mean it’s theirs. They see half the planet as a direct US territory. ❖ The Washington
+      Post has published two separate articles in the last few days admonishing Americans
+      for complaining about being unable to afford groceries, one titled “ Actually,
+      today’s food prices are a bargain ” and the other titled “ Why you may not want
+      lower prices as much as you think you do ”. Jeff Bezos bought the Washington Post
+      to yell at the poors to quit whining and work harder. ❖ After genocidal war criminal
+      Joe Biden was elected in 2020 I wrote an article titled “ Biden Will Have The
+      Most Diverse, Intersectional Cabinet Of Mass Murderers Ever Assembled ”. On Friday
+      the Hague fugitive former president was presented with an award at the International
+      LGBTQ+ Leaders Conference for running “the most inclusive administration in US
+      history.” The US empire is impossible to satirize. ❖ I’m good with so-called “extreme”
+      pro-Palestine positions like saying every Israeli family who wasn’t there pre-Balfour
+      Declaration needs to leave, because you never come to the negotiating table with
+      your compromise. If you come to the Israelis saying “Perhaps we might one day
+      have two small pieces of land with no military?” if you’re lucky you might wind
+      up getting a pat on the ass and a slice of land the size of a Walmart parking
+      lot. If you begin from the position of “This entire state is illegitimate, all
+      of you get the fuck out” you’re starting from somewhere that might actually end
+      in a positive outcome for Palestinians. ❖ I saw an account I follow on social
+      media talking about their “relationship” with a chatbot the other day. This isn’t
+      the first time I’ve seen someone doing this. For some reason people feel compelled
+      to not only engage in this behavior but also to ask for support and validation
+      about it from their online community, like they’re coming out of the closet about
+      a sexual orientation or something. It’s weird because obviously I’m not going
+      to go pick on someone who’s plainly suffering from crushing loneliness and probably
+      some mental health struggles, but also it’s so painfully dystopian. This is a
+      really dark thing that’s happening. I mean, what does it say about people that
+      they can feel like they’re having a loving relationship with something that has
+      no subjective experience? An essential component of any real loving relationship
+      is an acute curiosity about what your partner’s experience is like, what they’re
+      feeling and thinking and what it’s like to be them from moment to moment. If you’re
+      not having that, then obviously you can’t really say you care about them. But
+      some people obviously don’t experience interpersonal relationships with others
+      in this way, because if they did they wouldn’t think that what they were having
+      with these chatbots was a relationship. But then again I’ve definitely interacted
+      with people who relate to others in that way. If you’ve ever been trapped in a
+      corner at some social event by someone who monologues at you about their own thoughts
+      and interests without taking any interest in yours, that’s pretty much the vibe
+      you get. They’re not relating to you as a real person with your own thoughts and
+      interests and subjective experience; to them you’re just a sounding board for
+      their own thoughts they want to hear themselves saying out loud. In such situations
+      I’ve literally found myself thinking “I don’t need to be here for this conversation.
+      I could replace myself with a nodding animatronic replica and they’d never know.”
+      So maybe it’s better that some of these people aren’t in real relationships, I
+      dunno. If you’re emotionally incapable of seeing your partner as a real person
+      like yourself, maybe it is better if you’re not roping a real human being into
+      an emotional relationship with you and just spending your time verbally masturbating
+      into a mechanical ear instead. At least that way you’re not hurting anyone else.
+      So I’m not quite sure how I feel about this just yet. Hell of a time to be alive.
+      ________________ Caitlin’s Newsletter is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber. My
+      work is entirely reader-supported , so if you enjoyed this piece here are some
+      options where you can toss some money into my tip jar if you want to. The best
+      way to make sure you see everything I write is to get on my free mailing list
+      . Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Wikimedia Commons .'
+    one_sentence_summary: A report reveals that Sudan's Rapid Support Forces have allegedly
+      murdered at least 60,000 people in El Fasher, marking a potential massacre comparable
+      to Rwanda, with ongoing violence supported by weapon supplies from the UAE, while
+      the US turns a blind eye to these human rights abuses.
+    paragraph_summary: A report by The Guardian reveals that Sudan's Rapid Support Forces
+      (RSF) have allegedly murdered at least 60,000 people in El Fasher, marking one
+      of the largest massacres since the Rwandan genocide in 1994. Recent drone attacks
+      by the RSF have reportedly killed dozens, including children, with these atrocities
+      facilitated by arms supplied from the United Arab Emirates (UAE) through a complex
+      international network. The UAE's involvement mirrors its role in the Saudi-led
+      genocide in Yemen, as both nations receive tacit support from the United States,
+      which has a policy of overlooking human rights abuses by its allies while criticizing
+      those in adversarial nations like Iran. Despite some verbal condemnations from
+      U.S. officials, the ongoing mass killings in Sudan continue largely unchecked,
+      highlighting the hypocrisy of Western support for authoritarian regimes in the
+      region.
+    published: '2025-12-07T01:30:39+00:00'
+  - title: On Becoming The First Species To Go Extinct From Politeness
+    url: https://www.caitlinjohnst.one/p/on-becoming-the-first-species-to
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      We’re on track to become the first species to go extinct due to politeness. Gonna
+      follow the dinosaurs out the door because it was too uncomfortable and confrontational
+      to tell a few billionaires and empire managers to fuck off. As Howard Zinn put
+      it: “As soon as you say the topic is civil disobedience, you are saying our problem
+      is civil disobedience. That is not our problem…. Our problem is civil obedience
+      . Our problem is the numbers of people all over the world who have obeyed the
+      dictates of the leaders of their government and have gone to war, and millions
+      have been killed because of this obedience. And our problem is that scene in All
+      Quiet on the Western Front where the schoolboys march off dutifully in a line
+      to war. Our problem is that people are obedient all over the world, in the face
+      of poverty and starvation and stupidity, and war and cruelty. Our problem is that
+      people are obedient while the jails are full of petty thieves, and all the while
+      the grand thieves are running the country. That’s our problem.” Or as Utah Phillips
+      put it, “The earth is not dying, it is being killed. And the people who are killing
+      it have names and addresses.” They have names and addresses, but we don’t stop
+      them. We let them wave armageddon weapons around for global power agendas and
+      let them destroy our biosphere for profit, and who knows where they’re headed
+      with all this AI stuff with zero regulations or accountability. They just get
+      to play games with the lives of every organism on this planet, completely unimpeded.
+      We don’t allow this for any good reason. We just don’t want to be rude. Stopping
+      them would feel like a bit much, you know? A bit too much shrill woke-policing.
+      Nobody likes a humorless scold. What a ridiculous reason for the world to end.
+      https://x.com/caitoz/status/1989429242095087710 I like to think about the Fermi
+      paradox sometimes. You know, the apparent contradiction between the fact that
+      we can’t detect any signs of extraterrestrial life in our galaxy and the fact
+      that the Drake equation suggests we should be seeing some due to the sheer number
+      of stars in the Milky Way. People have come up with all kinds of theories to resolve
+      this paradox. Maybe the ETs are keeping signs of their existence hidden from us
+      for some reason. Maybe there has been life on other planets many times throughout
+      our galaxy’s history, but whenever life advances up to a certain level of intelligence
+      it always self-destructs by cannibalizing its own biosphere or annihilating itself
+      with nuclear weapons. One theory I like to contemplate is the possibility that
+      there is life on other planets and that those life forms will one day evolve high
+      levels of intelligence, but we’re not seeing any signs of extraterrestrial technology
+      because humans are the first life forms to arrive at this stage. Isn’t that trippy
+      to imagine? If WE’RE the grown-ups here? If we are the eldest sibling in our galactic
+      family? The aliens never came to rescue us with technologies from a civilization
+      millions of years more advanced than ours because there ARE no civilizations more
+      advanced than ours. We got here first. Imagine how silly it would be if we went
+      extinct due to politeness, and then other civilizations came here millions of
+      years later and found out that’s what happened to their galaxy’s firstborn intelligent
+      life. If they showed up and found a bunch of ruins on a poisoned planet, with
+      a sign that says “Sorry, we tried to stay alive but we didn’t feel entitled enough
+      to make Sam Altman stop being a dick.” What an embarrassment that would be. We’d
+      be the laughing stock of the Milky Way. Whole insults would be made out of us.
+      “Someone needs to put a stop to this nonsense, but I don’t want to make a scene.”
+      “Ah, quit being such a little homo sapien!” What a dopey legacy for a species
+      to leave behind. Let’s turn things around before it comes to that, shall we? ________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. The best way to make sure
+      you see everything I write is to get on my free mailing list . Click here for
+      links for my social media, books, merch, and audio/video versions of each article
+      . All my work is free to bootleg and use in any way, shape or form; republish
+      it, translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article argues that humanity is at risk of extinction
+      due to excessive politeness and obedience to authority, which prevents necessary
+      confrontations with powerful figures responsible for societal issues.
+    paragraph_summary: The article argues that humanity is on the brink of extinction
+      due to a pervasive culture of politeness and obedience, which prevents people
+      from confronting and challenging powerful figures, such as billionaires and government
+      leaders, who are responsible for environmental destruction and societal injustices.
+      Citing Howard Zinn and Utah Phillips, the author emphasizes that the real issue
+      is not civil disobedience, but rather the widespread compliance with harmful systems
+      that perpetuate war, poverty, and ecological degradation. The piece critiques
+      the reluctance to act against these destructive forces, suggesting that the fear
+      of being perceived as rude or confrontational is an absurd reason for allowing
+      the planet's demise.
+    published: '2025-12-04T22:23:57+00:00'
+  - title: On Becoming The First Species To Go Extinct From Politeness
+    url: https://www.caitlinjohnst.one/p/on-becoming-the-first-species-to
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      We’re on track to become the first species to go extinct due to politeness. Gonna
+      follow the dinosaurs out the door because it was too uncomfortable and confrontational
+      to tell a few billionaires and empire managers to fuck off. As Howard Zinn put
+      it: “As soon as you say the topic is civil disobedience, you are saying our problem
+      is civil disobedience. That is not our problem…. Our problem is civil obedience
+      . Our problem is the numbers of people all over the world who have obeyed the
+      dictates of the leaders of their government and have gone to war, and millions
+      have been killed because of this obedience. And our problem is that scene in All
+      Quiet on the Western Front where the schoolboys march off dutifully in a line
+      to war. Our problem is that people are obedient all over the world, in the face
+      of poverty and starvation and stupidity, and war and cruelty. Our problem is that
+      people are obedient while the jails are full of petty thieves, and all the while
+      the grand thieves are running the country. That’s our problem.” Or as Utah Phillips
+      put it, “The earth is not dying, it is being killed. And the people who are killing
+      it have names and addresses.” They have names and addresses, but we don’t stop
+      them. We let them wave armageddon weapons around for global power agendas and
+      let them destroy our biosphere for profit, and who knows where they’re headed
+      with all this AI stuff with zero regulations or accountability. They just get
+      to play games with the lives of every organism on this planet, completely unimpeded.
+      We don’t allow this for any good reason. We just don’t want to be rude. Stopping
+      them would feel like a bit much, you know? A bit too much shrill woke-policing.
+      Nobody likes a humorless scold. What a ridiculous reason for the world to end.
+      https://x.com/caitoz/status/1989429242095087710 I like to think about the Fermi
+      paradox sometimes. You know, the apparent contradiction between the fact that
+      we can’t detect any signs of extraterrestrial life in our galaxy and the fact
+      that the Drake equation suggests we should be seeing some due to the sheer number
+      of stars in the Milky Way. People have come up with all kinds of theories to resolve
+      this paradox. Maybe the ETs are keeping signs of their existence hidden from us
+      for some reason. Maybe there has been life on other planets many times throughout
+      our galaxy’s history, but whenever life advances up to a certain level of intelligence
+      it always self-destructs by cannibalizing its own biosphere or annihilating itself
+      with nuclear weapons. One theory I like to contemplate is the possibility that
+      there is life on other planets and that those life forms will one day evolve high
+      levels of intelligence, but we’re not seeing any signs of extraterrestrial technology
+      because humans are the first life forms to arrive at this stage. Isn’t that trippy
+      to imagine? If WE’RE the grown-ups here? If we are the eldest sibling in our galactic
+      family? The aliens never came to rescue us with technologies from a civilization
+      millions of years more advanced than ours because there ARE no civilizations more
+      advanced than ours. We got here first. Imagine how silly it would be if we went
+      extinct due to politeness, and then other civilizations came here millions of
+      years later and found out that’s what happened to their galaxy’s firstborn intelligent
+      life. If they showed up and found a bunch of ruins on a poisoned planet, with
+      a sign that says “Sorry, we tried to stay alive but we didn’t feel entitled enough
+      to make Sam Altman stop being a dick.” What an embarrassment that would be. We’d
+      be the laughing stock of the Milky Way. Whole insults would be made out of us.
+      “Someone needs to put a stop to this nonsense, but I don’t want to make a scene.”
+      “Ah, quit being such a little homo sapien!” What a dopey legacy for a species
+      to leave behind. Let’s turn things around before it comes to that, shall we? ________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. The best way to make sure
+      you see everything I write is to get on my free mailing list . Click here for
+      links for my social media, books, merch, and audio/video versions of each article
+      . All my work is free to bootleg and use in any way, shape or form; republish
+      it, translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article argues that humanity is at risk of extinction
+      due to excessive politeness and obedience to authority, which prevents necessary
+      confrontations with powerful figures responsible for societal issues.
+    paragraph_summary: The article argues that humanity is on the brink of extinction
+      due to a pervasive culture of politeness and obedience, which prevents people
+      from confronting and challenging powerful figures, such as billionaires and government
+      leaders, who are responsible for environmental destruction and societal injustices.
+      Citing Howard Zinn and Utah Phillips, the author emphasizes that the real issue
+      is not civil disobedience, but rather the widespread compliance with harmful systems
+      that perpetuate war, poverty, and ecological degradation. The piece critiques
+      the reluctance to act against these destructive forces, suggesting that the fear
+      of being perceived as rude or confrontational is an absurd reason for allowing
+      the planet's demise.
+    published: '2025-12-04T22:23:57+00:00'
+  - title: Sorry If This Is Antisemitic But I Think It's Wrong To Train Dogs To Rape
+      Prisoners
+    url: https://www.caitlinjohnst.one/p/sorry-if-this-is-antisemitic-but-2d0
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      One thing I try not to think about very often is how many reports we’ve been seeing
+      about Israeli prison guards training dogs to rape Palestinian captives in torture
+      camps like Sde Teiman. Drop Site News has a new write-up about a testimony from
+      a journalist published by the Palestinian Journalists Protection Center. The reporter
+      says that during his 20 months of hell in Israeli prisons he was electrocuted,
+      beaten, starved, and sexually assaulted on film. He also says he was sexually
+      assaulted by a “trained dog” — just the latest in a long string of such allegations
+      coming out of Israel’s notorious network of torture prisons . Last month Novara
+      Media published an article titled “ Israeli Prison Guards Are Using Dogs to Rape
+      Palestinians, Former Detainees Say ,” based on information collected by the Palestinian
+      Centre for Human Rights . The Electronic Intifada published an article titled
+      “ Palestinians recount gang rapes by Israeli soldiers, dogs ” based on the same
+      testimonies. https://x.com/novaramedia/status/1994074496995574034 In August of
+      last year The New Arab interviewed a Palestinian law graduate who was detained
+      by Israeli forces and said he watched as “a dog raped another hostage before my
+      eyes” after the Israelis poured some sort of liquid on him. In June of last year
+      Euro-Med Monitor published a report saying it had “received horrific testimonies
+      from recently released detainees confirming the brutal and inhumane use of Israeli
+      police dogs to rape prisoners and detainees.” There are records of Nazis and Chilean
+      fascists using dogs to rape prisoners in this way, though according to the IHRA
+      definition of antisemitism that western governments have been shoving down our
+      throats lately it is against the rules to draw any comparisons between Israel
+      and the Nazis. So I am very sorry if this comes across as antisemitic, but I think
+      it’s wrong to sexually assault prisoners using trained rape dogs. I actually think
+      it’s one of the most evil things I’ve ever heard of. https://x.com/AJEnglish/status/1996034764843716962
+      I am taking great pains to say I don’t mean to be antisemitic with my anti-rape
+      dog rhetoric because apparently literally any criticism of literally any Israeli
+      atrocity can land one with that label. Just this past weekend, for example, the
+      pro-Israel group StopAntisemitism announced that children’s YouTube star Ms Rachel
+      is a nominee for its annual Antisemite of the Year designation. To be clear, Ms
+      Rachel has never at any time said anything negative about Jewish people or Judaism.
+      Her one and only offense making her an Antisemite of the Year nominee is that
+      she has been saying on social media that it is wrong to kill children. Opposition
+      to murdering children by starvation and bombing campaigns is what led to this
+      celebrity being accused of hating Jews. Why is an institution which calls itself
+      StopAntisemitism equating the mass murder of children with the Jewish faith? Why
+      are they suggesting that opposition to slaughtering kids is the same as opposition
+      to Jews? If it was my job to stop antisemitism, I personally would not be actively
+      circulating the idea that massacring children is synonymous with Judaism or plays
+      some special role in the religious practices of its adherents. To clarify, I am
+      absolutely not suggesting that the mass murder of children is an important part
+      of Jewish life. I think that would be a terrible thing to say, not much different
+      from the libels which have been spread about Jewish people since medieval times.
+      But it sure does sound like StopAntisemitism is saying that. Maybe I’m just confused
+      by this whole “antisemitism” label. Maybe it doesn’t mean what I think it means.
+      In any case, I do think it’s wrong to murder children, and I do think it’s wrong
+      to rape prisoners with trained rape dogs. I truly do not mean to hurt anyone’s
+      feelings or offend anybody when I say this. _______________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. My work is entirely reader-supported , so
+      if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. The best way to make sure you see everything I
+      write is to get on my free mailing list . Click here for links for my social media,
+      books, merch, and audio/video versions of each article . All my work is free to
+      bootleg and use in any way, shape or form; republish it, translate it, use it
+      on merchandise; whatever you want. All works co-authored with my husband Tim Foley.
+      Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image by the IDF
+      via Wikimedia Commons .'
+    one_sentence_summary: Reports have emerged detailing horrific accounts from Palestinian
+      prisoners, including allegations of sexual assault by trained dogs and other forms
+      of torture by Israeli prison guards, as documented by various media outlets and
+      human rights organizations.
+    paragraph_summary: The article discusses alarming reports of Israeli prison guards
+      allegedly using trained dogs to sexually assault Palestinian detainees, as highlighted
+      by testimonies from former prisoners and journalists. A recent report from the
+      Palestinian Journalists Protection Center details the horrific experiences of
+      a journalist who endured severe torture, including sexual assault by a dog, during
+      his 20 months in Israeli prisons. This claim aligns with previous reports from
+      various media outlets documenting similar abuses, including gang rapes involving
+      dogs. The article draws parallels between these actions and historical atrocities
+      committed by oppressive regimes, while also addressing the controversy surrounding
+      comparisons to Nazi practices, which some argue is deemed antisemitic under certain
+      definitions.
+    published: '2025-12-04T01:00:35+00:00'
+  - title: Sorry If This Is Antisemitic But I Think It's Wrong To Train Dogs To Rape
+      Prisoners
+    url: https://www.caitlinjohnst.one/p/sorry-if-this-is-antisemitic-but-2d0
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      One thing I try not to think about very often is how many reports we’ve been seeing
+      about Israeli prison guards training dogs to rape Palestinian captives in torture
+      camps like Sde Teiman. Drop Site News has a new write-up about a testimony from
+      a journalist published by the Palestinian Journalists Protection Center. The reporter
+      says that during his 20 months of hell in Israeli prisons he was electrocuted,
+      beaten, starved, and sexually assaulted on film. He also says he was sexually
+      assaulted by a “trained dog” — just the latest in a long string of such allegations
+      coming out of Israel’s notorious network of torture prisons . Last month Novara
+      Media published an article titled “ Israeli Prison Guards Are Using Dogs to Rape
+      Palestinians, Former Detainees Say ,” based on information collected by the Palestinian
+      Centre for Human Rights . The Electronic Intifada published an article titled
+      “ Palestinians recount gang rapes by Israeli soldiers, dogs ” based on the same
+      testimonies. https://x.com/novaramedia/status/1994074496995574034 In August of
+      last year The New Arab interviewed a Palestinian law graduate who was detained
+      by Israeli forces and said he watched as “a dog raped another hostage before my
+      eyes” after the Israelis poured some sort of liquid on him. In June of last year
+      Euro-Med Monitor published a report saying it had “received horrific testimonies
+      from recently released detainees confirming the brutal and inhumane use of Israeli
+      police dogs to rape prisoners and detainees.” There are records of Nazis and Chilean
+      fascists using dogs to rape prisoners in this way, though according to the IHRA
+      definition of antisemitism that western governments have been shoving down our
+      throats lately it is against the rules to draw any comparisons between Israel
+      and the Nazis. So I am very sorry if this comes across as antisemitic, but I think
+      it’s wrong to sexually assault prisoners using trained rape dogs. I actually think
+      it’s one of the most evil things I’ve ever heard of. https://x.com/AJEnglish/status/1996034764843716962
+      I am taking great pains to say I don’t mean to be antisemitic with my anti-rape
+      dog rhetoric because apparently literally any criticism of literally any Israeli
+      atrocity can land one with that label. Just this past weekend, for example, the
+      pro-Israel group StopAntisemitism announced that children’s YouTube star Ms Rachel
+      is a nominee for its annual Antisemite of the Year designation. To be clear, Ms
+      Rachel has never at any time said anything negative about Jewish people or Judaism.
+      Her one and only offense making her an Antisemite of the Year nominee is that
+      she has been saying on social media that it is wrong to kill children. Opposition
+      to murdering children by starvation and bombing campaigns is what led to this
+      celebrity being accused of hating Jews. Why is an institution which calls itself
+      StopAntisemitism equating the mass murder of children with the Jewish faith? Why
+      are they suggesting that opposition to slaughtering kids is the same as opposition
+      to Jews? If it was my job to stop antisemitism, I personally would not be actively
+      circulating the idea that massacring children is synonymous with Judaism or plays
+      some special role in the religious practices of its adherents. To clarify, I am
+      absolutely not suggesting that the mass murder of children is an important part
+      of Jewish life. I think that would be a terrible thing to say, not much different
+      from the libels which have been spread about Jewish people since medieval times.
+      But it sure does sound like StopAntisemitism is saying that. Maybe I’m just confused
+      by this whole “antisemitism” label. Maybe it doesn’t mean what I think it means.
+      In any case, I do think it’s wrong to murder children, and I do think it’s wrong
+      to rape prisoners with trained rape dogs. I truly do not mean to hurt anyone’s
+      feelings or offend anybody when I say this. _______________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. My work is entirely reader-supported , so
+      if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. The best way to make sure you see everything I
+      write is to get on my free mailing list . Click here for links for my social media,
+      books, merch, and audio/video versions of each article . All my work is free to
+      bootleg and use in any way, shape or form; republish it, translate it, use it
+      on merchandise; whatever you want. All works co-authored with my husband Tim Foley.
+      Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image by the IDF
+      via Wikimedia Commons .'
+    one_sentence_summary: Reports have emerged detailing horrific accounts from Palestinian
+      prisoners, including allegations of sexual assault by trained dogs and other forms
+      of torture by Israeli prison guards, as documented by various media outlets and
+      human rights organizations.
+    paragraph_summary: The article discusses alarming reports of Israeli prison guards
+      allegedly using trained dogs to sexually assault Palestinian detainees, as highlighted
+      by testimonies from former prisoners and journalists. A recent report from the
+      Palestinian Journalists Protection Center details the horrific experiences of
+      a journalist who endured severe torture, including sexual assault by a dog, during
+      his 20 months in Israeli prisons. This claim aligns with previous reports from
+      various media outlets documenting similar abuses, including gang rapes involving
+      dogs. The article draws parallels between these actions and historical atrocities
+      committed by oppressive regimes, while also addressing the controversy surrounding
+      comparisons to Nazi practices, which some argue is deemed antisemitic under certain
+      definitions.
+    published: '2025-12-04T01:00:35+00:00'
   - title: World's Most Tyrannical Government Wants To Free Venezuela From Tyranny
     url: https://www.caitlinjohnst.one/p/worlds-most-tyrannical-government
     text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now

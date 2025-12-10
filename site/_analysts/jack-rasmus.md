@@ -7,18 +7,86 @@ description: "Jack Rasmus is an American economist, author, and radio show host 
 websites:
   - https://jackrasmus.com/
 summary: |
-  As global markets enter December 2025, volatility across financial asset classes is intensifying, with geopolitical tensions and domestic policy uncertainty amplifying instability. The latest analysis by **Jack Rasmus** highlights several interconnected developments shaping the geopolitical and economic landscape.
+  Global economic and geopolitical tensions remain high as Western policymakers grapple with persistent financial instability and the ongoing fallout from the Ukraine conflict. The latest analysis by **Jack Rasmus** highlights several interconnected developments shaping the current landscape.
   
-  The most recent reports underscore a surge in volatility across Cryptos, Gold, and Stock Markets, with **Rasmus** warning of potential contagion effects between these asset classes. He notes, “The volatility is not isolated—instability in one market is increasingly spilling over into others.” This heightened turbulence is attributed to a combination of unresolved geopolitical crises and unreliable US economic data, the latter exacerbated by a recent government shutdown that has undermined confidence in official statistics.
+  European Moves on Russian Assets  
+  A major new development is the European Union’s push to seize frozen Russian assets to fund Ukraine’s war effort. **Jack Rasmus** notes this proposal is “contentious,” with significant legal and political risks. The move signals both a hardening of Europe’s stance and a recognition of the fiscal strains facing Western support for Ukraine. Rasmus points out that this scheme could provoke strong retaliatory measures from Russia and further destabilize global financial markets, especially if other states fear similar asset grabs in future conflicts.
   
-  On the geopolitical front, the situation in Ukraine remains in flux. President Trump’s 28-point Ukraine war proposal, discussed in detail by **Rasmus**, is viewed as a strategic maneuver to reduce US involvement while leveraging sanctions and frozen Russian assets. However, skepticism persists about the plan’s true intent, with **Rasmus** suggesting it may be more about domestic political positioning than genuine conflict resolution.
+  US Economic Pressures and Financial Bubbles  
+  Domestically, the US economy continues to show signs of strain. According to **Jack Rasmus**, inflation is eroding consumer spending, manufacturing remains in contraction, and new housing has stagnated. Meanwhile, asset bubbles in stocks, gold, cryptocurrencies, and AI investments are becoming “more volatile,” raising the risk of contagion across markets. Rasmus is skeptical about the ability of AI-driven investments to generate sustainable profits, warning that the hype may be masking deeper structural weaknesses.
   
-  Meanwhile, the broader economic outlook for the US is clouded by warning signs of recession. Recent negative job and GDP data, coupled with aggressive tariff hikes, have led **Rasmus** to assert that “the door to recession is now open,” contradicting earlier claims of economic resilience. He further critiques the mainstream focus on the specifics of Trump’s tax cuts, arguing that the real issue is a mounting fiscal crisis driven by decades of tax reductions, soaring defense spending, and a national debt projected to hit $38 trillion by year’s end.
+  Germany’s Rearmament and Strategic Shifts  
+  Another emerging trend is Germany’s move toward military rearmament, which **Jack Rasmus** hints will be a focus of upcoming strategic discussions. This shift reflects broader European concerns about security and autonomy in the wake of the Ukraine war and uncertainty over US commitments.
   
-  Looking ahead, **Rasmus** predicts with high confidence that financial market volatility will persist and likely worsen, given the interconnectedness of asset bubbles and ongoing geopolitical uncertainty. He also maintains a high chance of continued economic slowdown in the US, with the risk of recession now “quite likely.” The geopolitical stalemate in Ukraine is expected to drag on, with any major breakthrough in negotiations remaining elusive in the near term.
+  Outlook and Predictions  
+  Looking ahead, **Jack Rasmus** argues there is a high chance of increased volatility in financial markets, with the potential for further contagion between asset classes. He also sees a “high chance” that European attempts to seize Russian assets will escalate tensions with Moscow and could backfire economically. On the US side, the combination of persistent inflation, manufacturing weakness, and asset bubbles suggests the risk of recession remains elevated.
   
-  In summary, the current environment is defined by mounting financial instability, unreliable economic data, and unresolved geopolitical crises, all contributing to a heightened sense of uncertainty as 2025 draws to a close.
+  In summary, the Western response to the Ukraine war is entering a more confrontational and risky phase, both economically and geopolitically. The next period will likely see heightened financial instability and further escalation in the contest over Russian assets, with broader implications for global markets and security.
 articles:
+  - title: Financial Bubbles, US Real Economy & Europe’s latest scheme to grab Russian
+      Assets
+    url: https://jackrasmus.com/2025/12/08/financial-bubbles-us-real-economy-europes-latest-scheme-to-grab-russian-assets/
+    text: 'Last week’s Alternative Visions show discussed the latest change to financial
+      asset bubbles (cryptos, gold, silver, S&P stocks and AI). Why AI isn’t making
+      any money except for big & tech corps and won’t any time soon. Latest stats on
+      real economy consumer spending mostly just price increases since not adjusted
+      for inflation. Manufacturing continues to contract. New housing flat. Recent govt
+      shutdown distorting econ stats. Show addresses latest European scheme to seize
+      Russian assets in its banks and use to fund Ukraine war. Why Euroclear in Brussels,
+      Belgium govt, and now European central bank all against the seizure being pushed
+      by European Commission and German chancellor Merz. (Next week: USA’s new Strategic
+      Direction plan document and the rearming of German War Machine article in The
+      Atlantic Mag. What does it all mean?) https://alternativevisions.podbean.com/e/alternate-vision-12-5-25/'
+    one_sentence_summary: The latest episode of the Alternative Visions show examines
+      the current state of financial asset bubbles, the limitations of AI in generating
+      profits, the impact of inflation on consumer spending, ongoing manufacturing contraction,
+      the stagnation of new housing, and the contentious European proposal to seize
+      Russian assets to fund the Ukraine war, while hinting at upcoming discussions
+      on U.S. strategic plans and Germany's military rearmament.
+    paragraph_summary: The latest episode of the Alternative Visions show examined recent
+      developments in financial asset bubbles, including cryptocurrencies, gold, silver,
+      S&P stocks, and AI, highlighting that AI is primarily benefiting large tech corporations
+      and is not generating profits for the broader economy. The discussion revealed
+      that consumer spending figures are largely driven by inflation rather than real
+      growth, with manufacturing in decline and new housing markets stagnant. Additionally,
+      the show addressed the controversial European initiative to seize Russian assets
+      to fund the Ukraine war, noting opposition from Euroclear, the Belgian government,
+      and the European Central Bank against the European Commission's and German Chancellor
+      Merz's push for asset seizure. The upcoming episode promises to explore the USA's
+      new Strategic Direction plan and the implications of Germany's military rearmament.
+    published: '2025-12-08T21:36:10+00:00'
+  - title: Financial Bubbles, US Real Economy & Europe’s latest scheme to grab Russian
+      Assets
+    url: https://jackrasmus.com/2025/12/08/financial-bubbles-us-real-economy-europes-latest-scheme-to-grab-russian-assets/
+    text: 'Last week’s Alternative Visions show discussed the latest change to financial
+      asset bubbles (cryptos, gold, silver, S&P stocks and AI). Why AI isn’t making
+      any money except for big & tech corps and won’t any time soon. Latest stats on
+      real economy consumer spending mostly just price increases since not adjusted
+      for inflation. Manufacturing continues to contract. New housing flat. Recent govt
+      shutdown distorting econ stats. Show addresses latest European scheme to seize
+      Russian assets in its banks and use to fund Ukraine war. Why Euroclear in Brussels,
+      Belgium govt, and now European central bank all against the seizure being pushed
+      by European Commission and German chancellor Merz. (Next week: USA’s new Strategic
+      Direction plan document and the rearming of German War Machine article in The
+      Atlantic Mag. What does it all mean?) https://alternativevisions.podbean.com/e/alternate-vision-12-5-25/'
+    one_sentence_summary: The latest episode of the Alternative Visions show examines
+      the current state of financial asset bubbles, the limitations of AI in generating
+      profits, the impact of inflation on consumer spending, ongoing manufacturing contraction,
+      the stagnation of new housing, and the contentious European proposal to seize
+      Russian assets to fund the Ukraine war, while hinting at upcoming discussions
+      on U.S. strategic plans and Germany's military rearmament.
+    paragraph_summary: The latest episode of the Alternative Visions show examined recent
+      developments in financial asset bubbles, including cryptocurrencies, gold, silver,
+      S&P stocks, and AI, highlighting that AI is primarily benefiting large tech corporations
+      and is not generating profits for the broader economy. The discussion revealed
+      that consumer spending figures are largely driven by inflation rather than real
+      growth, with manufacturing in decline and new housing markets stagnant. Additionally,
+      the show addressed the controversial European initiative to seize Russian assets
+      to fund the Ukraine war, noting opposition from Euroclear, the Belgian government,
+      and the European Central Bank against the European Commission's and German Chancellor
+      Merz's push for asset seizure. The upcoming episode promises to explore the USA's
+      new Strategic Direction plan and the implications of Germany's military rearmament.
+    published: '2025-12-08T21:36:10+00:00'
   - title: Financial Bubbles Becoming More Volatile
     url: https://jackrasmus.com/2025/12/02/financial-bubbles-becoming-more-volatile/
     text: 'Listen to my November 21, 2025 Alternative Visions radio show for discussion

@@ -7,16 +7,1234 @@ description: "Gilbert Doctorow is a Brussels-based independent political analyst
 websites:
   - https://gilbertdoctorow.com/
 summary: |
-  As the Russia-Ukraine conflict enters a critical phase, diplomatic and military developments are accelerating, with international actors recalibrating their positions. The past 24 hours have seen notable shifts in peace negotiations, Eurasian trade dynamics, and the broader strategic landscape.
+  As the Ukraine conflict grinds on into December 2025, the geopolitical landscape is increasingly shaped by shifting U.S. strategy, internal European divisions, and the evolving prospects for peace. The latest analysis highlights significant developments in U.S. foreign policy, European responses to the war, and the ongoing debate over the seizure of Russian assets.
   
-  The most recent panel discussion on Press TV, as recounted by **Gilbert Doctorow**, focused on the evolving prospects for peace in Ukraine. The panel, which included Harley Schlanger, underscored that while negotiations are ongoing, the European Union remains a significant obstacle to a settlement. **Doctorow** observed, “The EU’s role is not constructive at present,” suggesting that Brussels’ stance may prolong hostilities despite growing calls for compromise. Improvements in media coverage were also noted, reflecting a wider effort to shape public opinion as talks progress.
+  The most notable recent development is the publication of the 2025 U.S. National Security Strategy. In a detailed conversation with Professor Glenn Diesen, **Gilbert Doctorow** underscores the document’s return to a Realist, Kissinger-style approach, emphasizing national interests and pragmatic engagement. This marks a clear departure from the previous administration’s Idealist, militarized stance, which sought to isolate Russia diplomatically. According to Doctorow, “the continuity with Trump’s 2017 strategy is unmistakable,” suggesting that Washington is now more focused on negotiation and balance-of-power politics than on ideological confrontation.
   
-  On the military front, Russia’s capture of Klynove and a deadly strike in Dnipro signal continued volatility on the ground. However, diplomatic overtures are gaining traction. French President Macron’s upcoming visit to China is seen as an attempt to broker greater international involvement in the peace process, particularly regarding the contentious issue of using frozen Russian assets for Ukrainian reparations. **Doctorow** notes that “peace negotiations are now openly considering the fate of Russian assets,” a development that could reshape the postwar financial order.
+  Meanwhile, internal European dynamics are becoming increasingly consequential. In his recent commentary, **Doctorow** points to Belgian Prime Minister Bart De Wever as a potential game-changer in the EU’s Ukraine policy. De Wever’s opposition to European Commission President Ursula von der Leyen’s hardline stance is gaining traction, with Doctorow arguing that “the actions of De Wever may ultimately prove more decisive for the war’s resolution than even recent Russian military gains or Hungary’s resistance.” This signals a growing rift within the EU, as some member states push back against the prevailing consensus on continued confrontation with Moscow.
   
-  Turning to Eurasian affairs, anticipation is building around the Russian state visit to India. While some Indian analysts express optimism about deepening trade ties, **Doctorow** voices concern that “U.S. tariffs are casting a shadow over Russia-India economic relations.” The divergence in outlook highlights the complex interplay between regional ambitions and Western economic pressure.
+  Another critical issue is the European Commission’s proposal to seize frozen Russian assets to fund Ukraine’s war effort. The CEO of Euroclear has raised alarms about the potential for severe disruptions to global financial markets if these plans proceed. As Doctorow notes, “the risks to market stability are considerable,” and the move could undermine confidence in the European financial system, further complicating the bloc’s internal cohesion.
   
-  In summary, the majority view among analysts is that peace in Ukraine is inching closer, but significant hurdles remain—chiefly EU resistance and unresolved financial disputes. The upcoming diplomatic engagements, particularly Macron’s China visit and the Russia-India summit, are expected to clarify the contours of any eventual settlement. Based on current trends, I guarantee that the next two weeks will see intensified diplomatic maneuvering, with a high chance of preliminary agreements on asset transfers and ceasefire terms, though a comprehensive peace remains just out of reach.
+  Looking ahead, the prevailing sentiment among independent analysts is that the U.S. is now actively seeking a negotiated settlement to the Ukraine conflict, with the aim of reintegrating Russia into the global order and restoring energy flows to Europe. There is a high chance that intra-European divisions will deepen, especially if economic pressures mount and the asset seizure plan triggers market instability. Most definitely, the Realist turn in U.S. policy will continue to shape diplomatic efforts in the coming months, with a quite likely scenario of accelerated peace negotiations—provided European unity does not fracture irreparably.
 articles:
+  - title: 'A conversation with Professor Glenn Diesen, 9 December: U.S. National Security
+      Strategy Embraces Kissinger-Style Strategy'
+    url: https://gilbertdoctorow.com/2025/12/09/a-conversation-with-professor-glenn-diesen-9-december-u-s-national-security-strategy-embraces-kissinger-style-strategy/
+    text: 'Today’s conversation goes on for 52 minutes, and could have run still longer
+      if we were to examine more than the several aspects of the latest U.S. National
+      Security Strategy document. I am pleased, nonetheless, that we had ample opportunity
+      to explore the ways in which this 2025 document compares with Trump’s first NSS
+      of December 2017, to see how there is continuity in thinking from then to now.
+      Trump was then a Kissinger-mentored Realist. He is one today, as well. His embrace
+      of an interest driven foreign policy means that he is ready to seek compromises
+      and compromises are arrived at by diplomacy, which is why he has placed emphasis
+      on reestablishing communication lines with Russia. The efforts of the Biden administration
+      to break off all contact with Russia, to close down diplomacy and to rely solely
+      on a militarized foreign policy, was not the idiosyncratic wish of one man: it
+      came directly from the Idealist, values driven approach to foreign policy that
+      every U.S. administration since Richard Nixon has prioritized. In this chat, I
+      explained what insights into the NSS come from close textual analysis of the document,
+      from decoding innocent statements like our favoring pragmatism over pragmatists,
+      realism over realists; or by the mention of how Germany is deindustrializing because
+      its industrialists are moving production to China to take advantage of cheap Russian
+      gas there. I also had a chance to explain the mechanisms in European politics
+      which make it impossible to reverse course on failing policies, so that the meddling
+      that Trump proposes in the NSS and which the Germans have denounced, is very much
+      needed if Europe is to be saved from its present suicidal course. There is a great
+      deal more here for the Community to explore. By the way, I perhaps abused my privilege
+      as guest to promote my 2019 book of essays entitled The Belgian Perspective on
+      International Affairs , sales of which are just beginning to take off, six years
+      after its launch. Perhaps prospective readers were turned off by the notion that
+      Belgium dominates the content and Belgium is too small to be of value for understanding
+      world politics.  However, I had used a play on words, since the Belgian perspective
+      was in reality, my perspective, now that I had become a naturalized Belgian two
+      years earlier. It is in that book that you will find my detailed analysis of Trump’s
+      2017 NSS, which largely sets out the thinking he has stayed with in 2025. It is
+      there, in chapter one, that you will find my call for Trump’s impeachment over
+      his vile speech to the UN General Assembly in September 2017 when he proposed
+      to utterly destroy North Korea and obliterate its 22 million population. I am
+      viewing Trump very differently these days, focusing as I do on his top priorities
+      for global power sharing with Russia and China and choosing to overlook his bullying,
+      imperialist ways in Venezuela and his enabling genocide in Gaza. ©Gilbert Doctorow,
+      2025'
+    one_sentence_summary: The article discusses a 52-minute conversation comparing the
+      2025 U.S. National Security Strategy with Trump's 2017 document, highlighting
+      the continuity of Trump's Realist, interest-driven foreign policy approach, particularly
+      in contrast to the Biden administration's Idealist, militarized stance that seeks
+      to sever diplomatic ties with Russia.
+    paragraph_summary: In a 52-minute discussion, the conversation delves into the latest
+      U.S. National Security Strategy (NSS) document, comparing it to Trump's 2017 NSS
+      and highlighting the continuity of his Realist approach to foreign policy. The
+      speaker emphasizes Trump's interest-driven diplomacy, particularly in reestablishing
+      communication with Russia, contrasting it with the Biden administration's Idealist
+      stance that favors a militarized foreign policy and has led to a breakdown in
+      diplomatic relations. The analysis also touches on the implications of Germany's
+      industrial decline due to its reliance on cheap Russian gas and critiques the
+      inability of European politics to change failing policies. The speaker promotes
+      their 2019 book, "The Belgian Perspective on International Affairs," noting its
+      recent surge in sales.
+    published: '2025-12-09T13:20:19+00:00'
+  - title: 'A conversation with Professor Glenn Diesen, 9 December: U.S. National Security
+      Strategy Embraces Kissinger-Style Strategy'
+    url: https://gilbertdoctorow.com/2025/12/09/a-conversation-with-professor-glenn-diesen-9-december-u-s-national-security-strategy-embraces-kissinger-style-strategy/
+    text: 'Today’s conversation goes on for 52 minutes, and could have run still longer
+      if we were to examine more than the several aspects of the latest U.S. National
+      Security Strategy document. I am pleased, nonetheless, that we had ample opportunity
+      to explore the ways in which this 2025 document compares with Trump’s first NSS
+      of December 2017, to see how there is continuity in thinking from then to now.
+      Trump was then a Kissinger-mentored Realist. He is one today, as well. His embrace
+      of an interest driven foreign policy means that he is ready to seek compromises
+      and compromises are arrived at by diplomacy, which is why he has placed emphasis
+      on reestablishing communication lines with Russia. The efforts of the Biden administration
+      to break off all contact with Russia, to close down diplomacy and to rely solely
+      on a militarized foreign policy, was not the idiosyncratic wish of one man: it
+      came directly from the Idealist, values driven approach to foreign policy that
+      every U.S. administration since Richard Nixon has prioritized. In this chat, I
+      explained what insights into the NSS come from close textual analysis of the document,
+      from decoding innocent statements like our favoring pragmatism over pragmatists,
+      realism over realists; or by the mention of how Germany is deindustrializing because
+      its industrialists are moving production to China to take advantage of cheap Russian
+      gas there. I also had a chance to explain the mechanisms in European politics
+      which make it impossible to reverse course on failing policies, so that the meddling
+      that Trump proposes in the NSS and which the Germans have denounced, is very much
+      needed if Europe is to be saved from its present suicidal course. There is a great
+      deal more here for the Community to explore. By the way, I perhaps abused my privilege
+      as guest to promote my 2019 book of essays entitled The Belgian Perspective on
+      International Affairs , sales of which are just beginning to take off, six years
+      after its launch. Perhaps prospective readers were turned off by the notion that
+      Belgium dominates the content and Belgium is too small to be of value for understanding
+      world politics.  However, I had used a play on words, since the Belgian perspective
+      was in reality, my perspective, now that I had become a naturalized Belgian two
+      years earlier. It is in that book that you will find my detailed analysis of Trump’s
+      2017 NSS, which largely sets out the thinking he has stayed with in 2025. It is
+      there, in chapter one, that you will find my call for Trump’s impeachment over
+      his vile speech to the UN General Assembly in September 2017 when he proposed
+      to utterly destroy North Korea and obliterate its 22 million population. I am
+      viewing Trump very differently these days, focusing as I do on his top priorities
+      for global power sharing with Russia and China and choosing to overlook his bullying,
+      imperialist ways in Venezuela and his enabling genocide in Gaza. ©Gilbert Doctorow,
+      2025'
+    one_sentence_summary: The article discusses a 52-minute conversation comparing the
+      2025 U.S. National Security Strategy with Trump's 2017 document, highlighting
+      the continuity of Trump's Realist, interest-driven foreign policy approach, particularly
+      in contrast to the Biden administration's Idealist, militarized stance that seeks
+      to sever diplomatic ties with Russia.
+    paragraph_summary: In a 52-minute discussion, the conversation delves into the latest
+      U.S. National Security Strategy (NSS) document, comparing it to Trump's 2017 NSS
+      and highlighting the continuity of his Realist approach to foreign policy. The
+      speaker emphasizes Trump's interest-driven diplomacy, particularly in reestablishing
+      communication with Russia, contrasting it with the Biden administration's Idealist
+      stance that favors a militarized foreign policy and has led to a breakdown in
+      diplomatic relations. The analysis also touches on the implications of Germany's
+      industrial decline due to its reliance on cheap Russian gas and critiques the
+      inability of European politics to change failing policies. The speaker promotes
+      their 2019 book, "The Belgian Perspective on International Affairs," noting its
+      recent surge in sales.
+    published: '2025-12-09T13:20:19+00:00'
+  - title: Today’s News X World morning news bulletin
+    url: https://gilbertdoctorow.com/2025/12/08/todays-news-x-world-morning-news-bulletin/
+    text: I may soon request a journalist’s card from News X World, since they are knocking
+      at the door each morning to schedule an interview on one or another aspect of
+      the Ukraine war. I appear at the very start of this long news bulletin which dealt
+      with many other topics from around the world.  The first talking point was the
+      strategy meeting today of Zelensky with Starmer, Macron and Merz over how to respond
+      to the latest US peace plan as revised in Miami, which Trump says the Ukrainian
+      negotiators love. We also discussed the latest pronouncements by the Euroclear
+      CEO protesting plans by the European Commission to seize the frozen Russian state
+      assets in that Belgian institution for use as collateral to provide massive loans
+      to Ukraine.  As I point out, Euroclear is not just your ordinary corner bank.
+      It holds 42 trillion dollars in assets from depositors around the world, and any
+      action that compromises its creditworthiness or its reputation can have devastating
+      effects on world markets.
+    one_sentence_summary: The article discusses the author's frequent interviews with
+      News X World regarding the Ukraine war, highlighting a strategy meeting involving
+      Zelensky and European leaders about a revised US peace plan, as well as concerns
+      raised by Euroclear's CEO over the European Commission's plans to seize frozen
+      Russian assets, which could impact global markets.
+    paragraph_summary: The article discusses the author's frequent interviews with News
+      X World regarding the Ukraine war, highlighting a recent news bulletin that covered
+      various global topics. A key focus was a strategy meeting involving Ukrainian
+      President Zelensky and leaders Starmer, Macron, and Merz, addressing a revised
+      US peace plan that Trump claims Ukrainian negotiators favor. Additionally, the
+      article mentions the Euroclear CEO's objections to the European Commission's proposal
+      to use frozen Russian state assets as collateral for loans to Ukraine, emphasizing
+      that Euroclear, which manages $42 trillion in global assets, plays a critical
+      role in maintaining market stability and that any compromise to its credibility
+      could have severe repercussions.
+    published: '2025-12-08T12:49:53+00:00'
+  - title: Today’s News X World morning news bulletin
+    url: https://gilbertdoctorow.com/2025/12/08/todays-news-x-world-morning-news-bulletin/
+    text: I may soon request a journalist’s card from News X World, since they are knocking
+      at the door each morning to schedule an interview on one or another aspect of
+      the Ukraine war. I appear at the very start of this long news bulletin which dealt
+      with many other topics from around the world.  The first talking point was the
+      strategy meeting today of Zelensky with Starmer, Macron and Merz over how to respond
+      to the latest US peace plan as revised in Miami, which Trump says the Ukrainian
+      negotiators love. We also discussed the latest pronouncements by the Euroclear
+      CEO protesting plans by the European Commission to seize the frozen Russian state
+      assets in that Belgian institution for use as collateral to provide massive loans
+      to Ukraine.  As I point out, Euroclear is not just your ordinary corner bank.
+      It holds 42 trillion dollars in assets from depositors around the world, and any
+      action that compromises its creditworthiness or its reputation can have devastating
+      effects on world markets.
+    one_sentence_summary: The article discusses the author's frequent interviews with
+      News X World regarding the Ukraine war, highlighting a strategy meeting involving
+      Zelensky and European leaders about a revised US peace plan, as well as concerns
+      raised by Euroclear's CEO over the European Commission's plans to seize frozen
+      Russian assets, which could impact global markets.
+    paragraph_summary: The article discusses the author's frequent interviews with News
+      X World regarding the Ukraine war, highlighting a recent news bulletin that covered
+      various global topics. A key focus was a strategy meeting involving Ukrainian
+      President Zelensky and leaders Starmer, Macron, and Merz, addressing a revised
+      US peace plan that Trump claims Ukrainian negotiators favor. Additionally, the
+      article mentions the Euroclear CEO's objections to the European Commission's proposal
+      to use frozen Russian state assets as collateral for loans to Ukraine, emphasizing
+      that Euroclear, which manages $42 trillion in global assets, plays a critical
+      role in maintaining market stability and that any compromise to its credibility
+      could have severe repercussions.
+    published: '2025-12-08T12:49:53+00:00'
+  - title: 'Panel discussion on who will succeed Zelensky in Ukrainian elections: CTVBY
+      Belarus'
+    url: https://gilbertdoctorow.com/2025/12/08/panel-discussion-on-who-will-succeed-zelensky-in-ukrainian-elections-ctvby-belarus/
+    text: This Russian language video panel discussion “Opinion” (Мнение)  was hosted
+      by a Belarus broadcaster who, as I understand, is de facto RT Belarus. I was very
+      pleased to be invited as the only out-of-region panelist, though it put my fluency
+      to a test. Regrettably, there seems to have been a problem with the quality of
+      the Zoom link which brought me into this program so that the speech is choppy.
+      Nonetheless, I am particularly content with my second ‘intervention’ in this discussion
+      in which I brought out the fact that it is not “European bureaucrats” who are
+      responsible for the awful, war mongering policy of the EU today, as a fellow panelist
+      stated but the imperious usurper who occupies the post of Commission President,
+      Ursula von der Leyen, and that her policies are seconded by the conformist 24
+      out of 27 prime ministers of the European Union Member States, mostly male, who
+      seem to ‘have no balls.’  I use this moment to call out the brave stand of Belgian
+      PM Bart De Wever in opposing openly and directly von der Leyen’s schemes to confiscate
+      frozen Russian state assets in Euroclear (Belgium) to keep the war in Ukraine
+      going for two more years.
+    one_sentence_summary: In a Russian language panel discussion hosted by a Belarus
+      broadcaster, the author, the only non-regional panelist, addressed the flawed
+      perception of EU policies, attributing responsibility to Commission President
+      Ursula von der Leyen and the compliant majority of EU prime ministers, while praising
+      Belgian PM Bart De Wever for his opposition.
+    paragraph_summary: In a recent Russian-language video panel discussion titled "Opinion,"
+      hosted by a Belarus broadcaster akin to RT Belarus, the author participated as
+      the only panelist from outside the region, despite facing technical difficulties
+      with the Zoom connection. During the discussion, the author challenged a fellow
+      panelist's assertion that "European bureaucrats" are to blame for the EU's aggressive
+      policies, instead attributing responsibility to Ursula von der Leyen, the Commission
+      President, and the compliant majority of EU prime ministers. The author praised
+      Belgian Prime Minister Bart De Wever for his courageous opposition to von der
+      Leyen's proposal to use frozen Russian state assets to prolong the war in Ukraine,
+      highlighting the need for stronger leadership among EU leaders.
+    published: '2025-12-08T07:11:54+00:00'
+  - title: 'Panel discussion on who will succeed Zelensky in Ukrainian elections: CTVBY
+      Belarus'
+    url: https://gilbertdoctorow.com/2025/12/08/panel-discussion-on-who-will-succeed-zelensky-in-ukrainian-elections-ctvby-belarus/
+    text: This Russian language video panel discussion “Opinion” (Мнение)  was hosted
+      by a Belarus broadcaster who, as I understand, is de facto RT Belarus. I was very
+      pleased to be invited as the only out-of-region panelist, though it put my fluency
+      to a test. Regrettably, there seems to have been a problem with the quality of
+      the Zoom link which brought me into this program so that the speech is choppy.
+      Nonetheless, I am particularly content with my second ‘intervention’ in this discussion
+      in which I brought out the fact that it is not “European bureaucrats” who are
+      responsible for the awful, war mongering policy of the EU today, as a fellow panelist
+      stated but the imperious usurper who occupies the post of Commission President,
+      Ursula von der Leyen, and that her policies are seconded by the conformist 24
+      out of 27 prime ministers of the European Union Member States, mostly male, who
+      seem to ‘have no balls.’  I use this moment to call out the brave stand of Belgian
+      PM Bart De Wever in opposing openly and directly von der Leyen’s schemes to confiscate
+      frozen Russian state assets in Euroclear (Belgium) to keep the war in Ukraine
+      going for two more years.
+    one_sentence_summary: In a Russian language panel discussion hosted by a Belarus
+      broadcaster, the author, the only non-regional panelist, addressed the flawed
+      perception of EU policies, attributing responsibility to Commission President
+      Ursula von der Leyen and the compliant majority of EU prime ministers, while praising
+      Belgian PM Bart De Wever for his opposition.
+    paragraph_summary: In a recent Russian-language video panel discussion titled "Opinion,"
+      hosted by a Belarus broadcaster akin to RT Belarus, the author participated as
+      the only panelist from outside the region, despite facing technical difficulties
+      with the Zoom connection. During the discussion, the author challenged a fellow
+      panelist's assertion that "European bureaucrats" are to blame for the EU's aggressive
+      policies, instead attributing responsibility to Ursula von der Leyen, the Commission
+      President, and the compliant majority of EU prime ministers. The author praised
+      Belgian Prime Minister Bart De Wever for his courageous opposition to von der
+      Leyen's proposal to use frozen Russian state assets to prolong the war in Ukraine,
+      highlighting the need for stronger leadership among EU leaders.
+    published: '2025-12-08T07:11:54+00:00'
+  - title: Don’t underestimate the stubbornness of a Fleming!
+    url: https://gilbertdoctorow.com/2025/12/08/dont-underestimate-the-stubbornness-of-a-fleming/
+    text: '[I post below an article of considerable importance which I released on http://www.gilbertdoctorow.substack.com
+      , the platform on which I publish my essays several times a week – available by
+      subscription.  The issue discussed here is critical:  I insist that what the Belgian
+      prime minister is doing may have greater impact on an early end to the Ukraine
+      war, due to impending bankruptcy of the Ukrainian state, than the much celebrated
+      Russian military victory in Pokrovsk or than Viktor Orban’s theatrics) PM Bart
+      De Wever presents the most effective resistance to the usurper President of the
+      European Commission and European war mongers that we have today The European leader
+      who is best known in Alternative Media for standing up to the imperious, autocratic
+      Ursula von der Leyen is surely the Hungarian Prime Minister Viktor Orban. He has
+      decried the Commission’s policies towards Russia and threatened to veto funding
+      of arms to Ukraine as well as every new round of sanctions against Moscow.  He
+      has gone twice to Moscow, on a peace mission without any ‘by your leave’ from
+      Brussels, as Chancellor Merz pointed out in acid criticism of Orban yesterday.
+      He will be headed back there in a week or two as head of a big trade delegation.
+      Orban sought and obtained from Trump permission to continue buying Russian gas
+      and oil without facing secondary sanctions. But note: Orban has been acting strictly
+      in defense of his country’s economic interests. He wants the Ukraine war to end
+      for fear that it will escalate out of control into a pan-European war.  He has
+      used the threat of vetoes in the European Council to extort various economic and
+      financial concessions from the EU. When the day of voting arrives, each time Orban
+      steps back and joins the conformist 26 other European Member States to vote ‘yes.’
+      Now I propose for the Community’s consideration as the more impactful hero of
+      our times an unlikely candidate whom you have probably never heard of:  Belgian
+      Prime Minister Bart De Wever. In his public pronouncements, De Wever has stuck
+      to the official EU line of unwavering support for Kiev in its just cause against
+      the Russian aggressor.  But in practice, he is now striking a blow at von der
+      Leyen’s jugular by withholding his approval of her plans for what amounts to confiscation
+      of roughly 200 billion euros in frozen Russian state assets for the purpose of
+      financing Kiev in two more years of war against Russia. By doing this, De Wever,
+      like Orban, is doing his job as protector of his nation’s prosperity. Should the
+      von der Leyen initiative pass, should the frozen assets secure massive loans to
+      Ukraine that will not and cannot be repaid, should Russia win its expected law
+      suits against confiscation, which clearly violates international law so that the
+      confiscated assets are ordered returned to Moscow, then Belgium as a state will
+      be financially ruined – obliged to pay back the equivalent of one-third of its
+      annual GDP.  Unlike Orban, De Wever, is unlikely to be bought off by some financial
+      concessions from the EU budget.  He is likely to go all the way and carry his
+      veto to the next and decisive session of the European Council on 18-19 December.
+      This past Friday both Ursula von der Leyen and German Chancellor Friedrich Merz
+      foisted themselves on De Wever for a dinner at which they intended to bring him
+      around.  Merz reportedly even cancelled a state visit to Norway otherwise scheduled
+      for Friday with reception by the Norwegian king to instead apply his force of
+      will against the leader of that little country that Germans had twice overrun
+      and occupied in the last century. Had they paid closer attention to what De Wever
+      did the day before, von der Leyen and Merz would have found reasons to pass up
+      the dinner with De Wever as mission impossible.  In fact, the day before De Wever
+      spoke to the Chamber of Representatives (lower house of the bicameral Belgian
+      legislature) and reiterated there why he objects to the confiscation as carrying
+      unacceptable risks for the country. He received a standing ovation and as the
+      French-language daily Le Soir remarked in its well-hidden online article about
+      the parliamentary session, a very rare moment in political life took place:  the
+      leader of a Far Left party stood up in the chamber and congratulated De Wever
+      on his speech, saying that he shared De Wever’s reasoning.  Those of you who have
+      some experience of the highly politicized and poisonous relations between Right
+      and Left in European legislatures will savor this account. De Wever is the head
+      of a conservative, Thatcher-style economics party. Surely, von der Leyen and Merz
+      had indigestion when they left the dinner table from their time with De Wever.
+      You read nothing about the outcome of this meeting in mainstream US and UK media
+      because, as Le Soir announced in its two paragraph coverage yesterday, the parties
+      agreed to continue talking about the problem and trying to find a solution that
+      satisfies Belgium’s demand for water-tight legal guarantees from all other EU
+      Member States that they will share the risks of the confiscation in case it goes
+      wrong and the funds must be reconstituted and handed over to Moscow. We can be
+      nearly certain that such guarantees will not be delivered on 18 December because
+      numerous Member States, including notably, France, refuse to cooperate. *****
+      Though Ursula von der Leyen has spent more than six years at her Commission job
+      in Brussels, and though she was born in the Brussels central borough of Ixelles
+      and so became fluent in French during her childhood, which is a key reason why
+      Macron backed her for the job, she seems not to have spent enough time in the
+      North of the country and has no understanding of how stubborn a true Fleming can
+      be. Perhaps during her years here she was too cozy with corrupt Belgian French
+      speakers from the Liberal MR Party like her Commissioner of Justice for five years,
+      Didier Reynders, now facing prison time for money laundering, something he understood
+      inside out from his many years as Belgium’s Finance Minister in several successive
+      coalition governments. Or she became cocky after taming Reynders’ former boss
+      at MR, Charles Michel, with whom Ursula crossed swords during his time as head
+      of the rival executive body of the EU, the European Council; at the start of his
+      tenure, he challenged von der Leyen for the one vacant seat at a meeting but by
+      the time he left office, von der Leyen was wiping the floor with Michel. Prime
+      Minister Bart De Wever, a Flemish nationalist, is giving her a good lesson in
+      what it means to be a true Fleming and to be concerned about national survival
+      instead of about feathering one’s own nest. The entire conflict arose because
+      the President of the European Commission is desperate to use frozen Russian state
+      assets held in Europe to finance Ukraine’s budgetary needs and procurement of
+      weapons so that the war may continue for another couple of years while Europe
+      restores its military industry and raises its numbers of soldiers at arms through
+      conscription and volunteer enlistment schemes in order to be ready to engage Russia
+      in a kinetic war by the end of the decade. The Commission leadership, like the
+      vast majority of heads of government in the EU Member States has invested all
+      its political capital in a Ukrainian victory. They understand fully well that
+      Ursula and her team may lose their grip on power when the Ukrainians conclude
+      a peace on Russia’s terms, which presently is what Donald Trump is facilitating
+      by his mediation. The single largest repository of frozen Russian state assets
+      happens to be in Euroclear, a financial entity in Belgium. The top management
+      of Euroclear opposes what would effectively be the confiscation of the assets
+      under the various schemes proposed by von der Leyen. The head of the European
+      Central Bank has sounded the alarm, warning that the damage to the Euro might
+      be irremediable and refusing to act as a back-stop to any loan in which the assets
+      are used as collateral. And the Belgian prime minister has used these arguments
+      to justify his rejection of the confiscation schemes, together with the argument
+      that confiscating the frozen assets would undermine the ongoing peace negotiations.
+      Also in these past few days De Wever has reportedly said publicly that the notion
+      of Russia being defeated ‘is a fairy tale and total illusion,’ though he may have
+      retracted this later (per Echo de la Bourse ), when the security services claimed
+      the statement was ‘serving Russian disinformation.’ In the final section of this
+      essay set out below, I provide an overview of how the dramatic actions of the
+      Prime Minister have been covered by the leading French and Flemish language daily
+      newspapers. ***** I have just cited a tiny article in the 5 December issue of
+      the largest French-language financial daily in Belgium, L’Echo. The same issue
+      has two full pages of articles on the question of risks to Euroclear if the frozen
+      Russian assets are touched, on the planned Friday visit with De Wever by the German
+      Chancellor and Commission President Ursula von der Leyen ‘to try and force De
+      Wever to yield on the Russian assets,’ as well as a long column editorial on the
+      Russian assets – ‘to construct a moral framework at cheap cost.’ Let us begin
+      with the editorial, which it seems to me dances from foot to foot. The editors
+      remark that the money locked in the Russian assets would resolve a triple threat
+      facing Ukraine in the near future: “the drying up of means to sustain Ukraine
+      financially and militarily in the context of the ever more evident departure of
+      the United States; the future bankruptcy – said to be in a few months – of the
+      Ukrainian state; and more recently, the whims of Donald Trump that we see in his
+      ‘peace plan’ – to himself seize part of the Euroclear assets.” The editors identify
+      a collective lack of motivation with respect to Ukraine among the EU Member States
+      that reveals itself in the negotiations over the frozen Russian assets. This brings
+      the editorial board to the punch line:  “Belgium’s partners only pay lip service
+      to the solidarity that our government rightly demands.” To my reading this is
+      a thumbs down to Ursula and a vote of confidence in Bart De Wever’s stand. The
+      article in L’echo de la bourse on the plans of Berlin and the European Commission
+      to try to bend De Wever to their will has some very interesting detailed information.
+      First, the author claims that the vote of the 27 heads of government on 18 December
+      over the use of the assets in Euroclear will require approval only from a qualified
+      majority, not unanimity, so that opposition from Belgium can be overruled. If
+      that is true, and I have my doubts, then one wonders why Merz and von der Leyen
+      would spend their time trying to bring De Wever around to their plans. Another
+      point in this article may be more useful and factually correct:  that the von
+      der Leyen plan is to loan Kiev a total of 165 billion euros, of which 45 billion
+      euros would be made available in 2026 and the same amount in 2027, reserving the
+      rest for later years. The allocation of these sums would be 110 billion for purchase
+      of arms and 55 billion for the needs of their Treasury. We may assume that this
+      is to cover government employee salaries and pay to soldiers. This sum would be
+      guaranteed by 210 billion euros in Russian assets held in Europe, of which 185
+      billion are in Euroclear (Belgium) and 25 billion in France, Germany, Sweden and
+      Cyprus. The difference between the loan to Kiev of 165 billion and the 210 billion
+      would be used to reimburse a G7 loan extended to Ukraine in 2024. This article
+      further informs us that the Commission intends to use article 122 of the EU Treaty
+      to forbid the transfer of the frozen assets to Russia. This they say is “An audacious
+      interpretation of the article conferring emergency powers and making it possible
+      to get around the need for unanimity in case of economic crisis.” I am left to
+      wonder if the author has not assumed that the aforementioned vote on the Euroclear
+      assets will be by only qualified majority because article 122 is being invoked.
+      Finally this L’Echo article describes the overall political contest between the
+      EU and Belgium as follows: it is a fight between, on the one hand, the European
+      centrist majority of the European People’s Party (Christian Democrats),  the Socialists
+      (Socialists and Democrats), and the Liberals of Renew (the Macron faction) versus
+      the group of European Conservatives and Reformists (ECR), a Right radical, neo-Atlanticist
+      party close to Trump in which De Wever’s N-VA party belongs. The author, Vincent
+      Georis, sees the solution in getting Europe to offer sufficient guarantees to
+      Belgium. But the Editorial, as noted above, does not expect this to happen. The
+      L’Echo article by Xander Vlassenbroeck on the risks that Euroclear faces if the
+      frozen Russian assets are touched opens by mentioning that Euroclear is a repository
+      presently holding 42 trillion dollars in global assets. The proposed loan to Kiev
+      based on the frozen Russian assets as collateral is the present “Plan A” of the
+      Commission.  Its “Plan B” is for the EU to finance the loan directly from its
+      own budget, but that is said to be less realistic because of the tough legislative
+      process it would face. As for Plan A, the author notes that the CEO of Euroclear
+      Valerie Urbain has sent a letter to the Commission stating that the rather vague
+      guarantees of risk sharing so far produced by the Commission are not sufficient
+      reassurance. She considers that the Plan A would be seen as ‘confiscation’ outside
+      the EU and would dissuade investors from depositing money in Europe, including
+      in State bonds, all of which would have a bad impact on interest rates. She said
+      in an interview with Le Monde , that she did not exclude the possibility of taking
+      the European institutions to court if the ‘fiduciary obligations’ of Euroclear
+      were compromised. After all, Euroclear is a systemic institution whose bankruptcy
+      could cause a major crisis for all exchanges. It depends more than other banks
+      on the confidence of its clients, for whom it is responsible for 42 trillion euros
+      of assets in the world.  Euroclear is seen to be politically neutral, but if this
+      is compromised by a confiscation that is politically motivated, then there will
+      be repercussions not only on Euroclear but on the European capital markets.  
+      Apparently, the Chinese have already signaled to Euroclear that they are following
+      this case very closely.  Meanwhile, people are asking what the shareholders of
+      Euroclear are thinking about this issue. They include the French Caisse des depots,
+      but also the sovereign fund of New Zealand, that of Singapore, Chinese and Australian
+      public entities. Up till now, they all have been very discreet. Finally, I turn
+      to the 5 December issue of the Flemish newspaper De Standaard .  I have in front
+      of me an article with the peculiar title “De Wever’s statement that it is not
+      desirable for Russia to lose fuels anti-Belgian sentiment” The first paragraph
+      of this article points to disinformation about what De Wever did or did not say
+      during a lecture he delivered in French in the Bozar auditorium in downtown Brussels
+      in the past week: “With tensions rising over the Russian billions, criticism of
+      Belgium and Prime Minister De Wever is also increasing. It was already harsh,
+      but a sentence from a French-language lecture has given it a further boost.” “At
+      press conferences, in an official letter to the European Commission, and during
+      interviews, Prime Minister Bart De Wever repeatedly explains why it is particularly
+      risky to use Russian assets frozen in Belgium for the reconstruction of Ukraine.
+      “That was no different on Monday evening at a lecture for a French-speaking audience
+      at the Bozar art center in Brussels. “The editor-in-chief of La Libre Belgique
+      interviewed De Wever after that lecture and asked a question about the delicate
+      financial issue, after which a summary of that conversation appeared in the French-language
+      newspaper. “In it, De Wever uttered a few sentences that reinforced the critics’
+      vision of a country that would not side with Ukraine. ‘Who really believes that
+      Russia will lose in Ukraine?’ said De Wever. ‘That is a myth, a total illusion.
+      It is not even desirable for her to lose and for instability to arise in a country
+      that possesses nuclear weapons.’ “The specific passage from the printed interview,
+      particularly the section entitled “It is not desirable for Russia to lose,” has
+      been widely shared on social media since Thursday. Among others, a former Ukrainian
+      diplomat drew attention to De Wever’s statements. “For weeks, a campaign has been
+      raging on X and Telegram, with predominantly pro-Ukraine voices accusing Belgium
+      of being selfish, endangering European security, and abandoning Ukraine. Even
+      during World War II, Germany’s money was not confiscated,’ said the prime minister.”
+      Another article in the same issue of Standaard has the title “De Wever enjoys
+      support from PVDA and Vlaams Belang on Euroclear.”  This is not intended as a
+      compliment.  PVDA is the Workers’ Party of Belgium, a Marxist party headed by
+      Raoul Hedebouw.  Hedebouw is the deputy who offered his support to De Wever in
+      the Chamber of Representatives, as noted above.  Vlaams Belang is a Flemish separatist
+      party that long has had a taint of racism, though its domestic policies are more
+      socially minded than De Wever’s N-VA. If I may summarize, my reading of the Belgian
+      press demonstrates that opinions are divided on De Wever’s stand with respect
+      to confiscation and on the Ukraine-Russia war, between different newspapers and
+      even within the staff of a single newspaper like L’Echo . Against this media background
+      in his own country. Bart De Wever’s principled stand against the von der Leyen
+      plan to confiscate Russian state assets in Euroclear is all the more impressive
+      and praiseworthy. ©Gilbert Doctorow, 2025'
+    one_sentence_summary: The article argues that Belgian Prime Minister Bart De Wever's
+      actions may significantly influence the resolution of the Ukraine war, potentially
+      more so than recent military victories by Russia or the opposition from Hungarian
+      Prime Minister Viktor Orban against European Commission President Ursula von der
+      Leyen's policies.
+    paragraph_summary: In a recent article, the author argues that Belgian Prime Minister
+      Bart De Wever may play a more crucial role in ending the Ukraine war than the
+      widely recognized actions of Hungarian Prime Minister Viktor Orban or recent Russian
+      military successes. De Wever is portrayed as a significant figure in resisting
+      the European Commission's leadership under Ursula von der Leyen and the prevailing
+      pro-war sentiment among European leaders. While Orban has gained attention for
+      his vocal opposition to EU policies and his attempts to protect Hungary's economic
+      interests, the author suggests that De Wever's approach could be more effective
+      in addressing the impending bankruptcy of Ukraine and facilitating a resolution
+      to the conflict. The article emphasizes the importance of De Wever's leadership
+      in the current geopolitical landscape, positioning him as a potentially impactful
+      player in the future of European diplomacy.
+    published: '2025-12-08T05:50:19+00:00'
+  - title: Don’t underestimate the stubbornness of a Fleming!
+    url: https://gilbertdoctorow.com/2025/12/08/dont-underestimate-the-stubbornness-of-a-fleming/
+    text: '[I post below an article of considerable importance which I released on http://www.gilbertdoctorow.substack.com
+      , the platform on which I publish my essays several times a week – available by
+      subscription.  The issue discussed here is critical:  I insist that what the Belgian
+      prime minister is doing may have greater impact on an early end to the Ukraine
+      war, due to impending bankruptcy of the Ukrainian state, than the much celebrated
+      Russian military victory in Pokrovsk or than Viktor Orban’s theatrics) PM Bart
+      De Wever presents the most effective resistance to the usurper President of the
+      European Commission and European war mongers that we have today The European leader
+      who is best known in Alternative Media for standing up to the imperious, autocratic
+      Ursula von der Leyen is surely the Hungarian Prime Minister Viktor Orban. He has
+      decried the Commission’s policies towards Russia and threatened to veto funding
+      of arms to Ukraine as well as every new round of sanctions against Moscow.  He
+      has gone twice to Moscow, on a peace mission without any ‘by your leave’ from
+      Brussels, as Chancellor Merz pointed out in acid criticism of Orban yesterday.
+      He will be headed back there in a week or two as head of a big trade delegation.
+      Orban sought and obtained from Trump permission to continue buying Russian gas
+      and oil without facing secondary sanctions. But note: Orban has been acting strictly
+      in defense of his country’s economic interests. He wants the Ukraine war to end
+      for fear that it will escalate out of control into a pan-European war.  He has
+      used the threat of vetoes in the European Council to extort various economic and
+      financial concessions from the EU. When the day of voting arrives, each time Orban
+      steps back and joins the conformist 26 other European Member States to vote ‘yes.’
+      Now I propose for the Community’s consideration as the more impactful hero of
+      our times an unlikely candidate whom you have probably never heard of:  Belgian
+      Prime Minister Bart De Wever. In his public pronouncements, De Wever has stuck
+      to the official EU line of unwavering support for Kiev in its just cause against
+      the Russian aggressor.  But in practice, he is now striking a blow at von der
+      Leyen’s jugular by withholding his approval of her plans for what amounts to confiscation
+      of roughly 200 billion euros in frozen Russian state assets for the purpose of
+      financing Kiev in two more years of war against Russia. By doing this, De Wever,
+      like Orban, is doing his job as protector of his nation’s prosperity. Should the
+      von der Leyen initiative pass, should the frozen assets secure massive loans to
+      Ukraine that will not and cannot be repaid, should Russia win its expected law
+      suits against confiscation, which clearly violates international law so that the
+      confiscated assets are ordered returned to Moscow, then Belgium as a state will
+      be financially ruined – obliged to pay back the equivalent of one-third of its
+      annual GDP.  Unlike Orban, De Wever, is unlikely to be bought off by some financial
+      concessions from the EU budget.  He is likely to go all the way and carry his
+      veto to the next and decisive session of the European Council on 18-19 December.
+      This past Friday both Ursula von der Leyen and German Chancellor Friedrich Merz
+      foisted themselves on De Wever for a dinner at which they intended to bring him
+      around.  Merz reportedly even cancelled a state visit to Norway otherwise scheduled
+      for Friday with reception by the Norwegian king to instead apply his force of
+      will against the leader of that little country that Germans had twice overrun
+      and occupied in the last century. Had they paid closer attention to what De Wever
+      did the day before, von der Leyen and Merz would have found reasons to pass up
+      the dinner with De Wever as mission impossible.  In fact, the day before De Wever
+      spoke to the Chamber of Representatives (lower house of the bicameral Belgian
+      legislature) and reiterated there why he objects to the confiscation as carrying
+      unacceptable risks for the country. He received a standing ovation and as the
+      French-language daily Le Soir remarked in its well-hidden online article about
+      the parliamentary session, a very rare moment in political life took place:  the
+      leader of a Far Left party stood up in the chamber and congratulated De Wever
+      on his speech, saying that he shared De Wever’s reasoning.  Those of you who have
+      some experience of the highly politicized and poisonous relations between Right
+      and Left in European legislatures will savor this account. De Wever is the head
+      of a conservative, Thatcher-style economics party. Surely, von der Leyen and Merz
+      had indigestion when they left the dinner table from their time with De Wever.
+      You read nothing about the outcome of this meeting in mainstream US and UK media
+      because, as Le Soir announced in its two paragraph coverage yesterday, the parties
+      agreed to continue talking about the problem and trying to find a solution that
+      satisfies Belgium’s demand for water-tight legal guarantees from all other EU
+      Member States that they will share the risks of the confiscation in case it goes
+      wrong and the funds must be reconstituted and handed over to Moscow. We can be
+      nearly certain that such guarantees will not be delivered on 18 December because
+      numerous Member States, including notably, France, refuse to cooperate. *****
+      Though Ursula von der Leyen has spent more than six years at her Commission job
+      in Brussels, and though she was born in the Brussels central borough of Ixelles
+      and so became fluent in French during her childhood, which is a key reason why
+      Macron backed her for the job, she seems not to have spent enough time in the
+      North of the country and has no understanding of how stubborn a true Fleming can
+      be. Perhaps during her years here she was too cozy with corrupt Belgian French
+      speakers from the Liberal MR Party like her Commissioner of Justice for five years,
+      Didier Reynders, now facing prison time for money laundering, something he understood
+      inside out from his many years as Belgium’s Finance Minister in several successive
+      coalition governments. Or she became cocky after taming Reynders’ former boss
+      at MR, Charles Michel, with whom Ursula crossed swords during his time as head
+      of the rival executive body of the EU, the European Council; at the start of his
+      tenure, he challenged von der Leyen for the one vacant seat at a meeting but by
+      the time he left office, von der Leyen was wiping the floor with Michel. Prime
+      Minister Bart De Wever, a Flemish nationalist, is giving her a good lesson in
+      what it means to be a true Fleming and to be concerned about national survival
+      instead of about feathering one’s own nest. The entire conflict arose because
+      the President of the European Commission is desperate to use frozen Russian state
+      assets held in Europe to finance Ukraine’s budgetary needs and procurement of
+      weapons so that the war may continue for another couple of years while Europe
+      restores its military industry and raises its numbers of soldiers at arms through
+      conscription and volunteer enlistment schemes in order to be ready to engage Russia
+      in a kinetic war by the end of the decade. The Commission leadership, like the
+      vast majority of heads of government in the EU Member States has invested all
+      its political capital in a Ukrainian victory. They understand fully well that
+      Ursula and her team may lose their grip on power when the Ukrainians conclude
+      a peace on Russia’s terms, which presently is what Donald Trump is facilitating
+      by his mediation. The single largest repository of frozen Russian state assets
+      happens to be in Euroclear, a financial entity in Belgium. The top management
+      of Euroclear opposes what would effectively be the confiscation of the assets
+      under the various schemes proposed by von der Leyen. The head of the European
+      Central Bank has sounded the alarm, warning that the damage to the Euro might
+      be irremediable and refusing to act as a back-stop to any loan in which the assets
+      are used as collateral. And the Belgian prime minister has used these arguments
+      to justify his rejection of the confiscation schemes, together with the argument
+      that confiscating the frozen assets would undermine the ongoing peace negotiations.
+      Also in these past few days De Wever has reportedly said publicly that the notion
+      of Russia being defeated ‘is a fairy tale and total illusion,’ though he may have
+      retracted this later (per Echo de la Bourse ), when the security services claimed
+      the statement was ‘serving Russian disinformation.’ In the final section of this
+      essay set out below, I provide an overview of how the dramatic actions of the
+      Prime Minister have been covered by the leading French and Flemish language daily
+      newspapers. ***** I have just cited a tiny article in the 5 December issue of
+      the largest French-language financial daily in Belgium, L’Echo. The same issue
+      has two full pages of articles on the question of risks to Euroclear if the frozen
+      Russian assets are touched, on the planned Friday visit with De Wever by the German
+      Chancellor and Commission President Ursula von der Leyen ‘to try and force De
+      Wever to yield on the Russian assets,’ as well as a long column editorial on the
+      Russian assets – ‘to construct a moral framework at cheap cost.’ Let us begin
+      with the editorial, which it seems to me dances from foot to foot. The editors
+      remark that the money locked in the Russian assets would resolve a triple threat
+      facing Ukraine in the near future: “the drying up of means to sustain Ukraine
+      financially and militarily in the context of the ever more evident departure of
+      the United States; the future bankruptcy – said to be in a few months – of the
+      Ukrainian state; and more recently, the whims of Donald Trump that we see in his
+      ‘peace plan’ – to himself seize part of the Euroclear assets.” The editors identify
+      a collective lack of motivation with respect to Ukraine among the EU Member States
+      that reveals itself in the negotiations over the frozen Russian assets. This brings
+      the editorial board to the punch line:  “Belgium’s partners only pay lip service
+      to the solidarity that our government rightly demands.” To my reading this is
+      a thumbs down to Ursula and a vote of confidence in Bart De Wever’s stand. The
+      article in L’echo de la bourse on the plans of Berlin and the European Commission
+      to try to bend De Wever to their will has some very interesting detailed information.
+      First, the author claims that the vote of the 27 heads of government on 18 December
+      over the use of the assets in Euroclear will require approval only from a qualified
+      majority, not unanimity, so that opposition from Belgium can be overruled. If
+      that is true, and I have my doubts, then one wonders why Merz and von der Leyen
+      would spend their time trying to bring De Wever around to their plans. Another
+      point in this article may be more useful and factually correct:  that the von
+      der Leyen plan is to loan Kiev a total of 165 billion euros, of which 45 billion
+      euros would be made available in 2026 and the same amount in 2027, reserving the
+      rest for later years. The allocation of these sums would be 110 billion for purchase
+      of arms and 55 billion for the needs of their Treasury. We may assume that this
+      is to cover government employee salaries and pay to soldiers. This sum would be
+      guaranteed by 210 billion euros in Russian assets held in Europe, of which 185
+      billion are in Euroclear (Belgium) and 25 billion in France, Germany, Sweden and
+      Cyprus. The difference between the loan to Kiev of 165 billion and the 210 billion
+      would be used to reimburse a G7 loan extended to Ukraine in 2024. This article
+      further informs us that the Commission intends to use article 122 of the EU Treaty
+      to forbid the transfer of the frozen assets to Russia. This they say is “An audacious
+      interpretation of the article conferring emergency powers and making it possible
+      to get around the need for unanimity in case of economic crisis.” I am left to
+      wonder if the author has not assumed that the aforementioned vote on the Euroclear
+      assets will be by only qualified majority because article 122 is being invoked.
+      Finally this L’Echo article describes the overall political contest between the
+      EU and Belgium as follows: it is a fight between, on the one hand, the European
+      centrist majority of the European People’s Party (Christian Democrats),  the Socialists
+      (Socialists and Democrats), and the Liberals of Renew (the Macron faction) versus
+      the group of European Conservatives and Reformists (ECR), a Right radical, neo-Atlanticist
+      party close to Trump in which De Wever’s N-VA party belongs. The author, Vincent
+      Georis, sees the solution in getting Europe to offer sufficient guarantees to
+      Belgium. But the Editorial, as noted above, does not expect this to happen. The
+      L’Echo article by Xander Vlassenbroeck on the risks that Euroclear faces if the
+      frozen Russian assets are touched opens by mentioning that Euroclear is a repository
+      presently holding 42 trillion dollars in global assets. The proposed loan to Kiev
+      based on the frozen Russian assets as collateral is the present “Plan A” of the
+      Commission.  Its “Plan B” is for the EU to finance the loan directly from its
+      own budget, but that is said to be less realistic because of the tough legislative
+      process it would face. As for Plan A, the author notes that the CEO of Euroclear
+      Valerie Urbain has sent a letter to the Commission stating that the rather vague
+      guarantees of risk sharing so far produced by the Commission are not sufficient
+      reassurance. She considers that the Plan A would be seen as ‘confiscation’ outside
+      the EU and would dissuade investors from depositing money in Europe, including
+      in State bonds, all of which would have a bad impact on interest rates. She said
+      in an interview with Le Monde , that she did not exclude the possibility of taking
+      the European institutions to court if the ‘fiduciary obligations’ of Euroclear
+      were compromised. After all, Euroclear is a systemic institution whose bankruptcy
+      could cause a major crisis for all exchanges. It depends more than other banks
+      on the confidence of its clients, for whom it is responsible for 42 trillion euros
+      of assets in the world.  Euroclear is seen to be politically neutral, but if this
+      is compromised by a confiscation that is politically motivated, then there will
+      be repercussions not only on Euroclear but on the European capital markets.  
+      Apparently, the Chinese have already signaled to Euroclear that they are following
+      this case very closely.  Meanwhile, people are asking what the shareholders of
+      Euroclear are thinking about this issue. They include the French Caisse des depots,
+      but also the sovereign fund of New Zealand, that of Singapore, Chinese and Australian
+      public entities. Up till now, they all have been very discreet. Finally, I turn
+      to the 5 December issue of the Flemish newspaper De Standaard .  I have in front
+      of me an article with the peculiar title “De Wever’s statement that it is not
+      desirable for Russia to lose fuels anti-Belgian sentiment” The first paragraph
+      of this article points to disinformation about what De Wever did or did not say
+      during a lecture he delivered in French in the Bozar auditorium in downtown Brussels
+      in the past week: “With tensions rising over the Russian billions, criticism of
+      Belgium and Prime Minister De Wever is also increasing. It was already harsh,
+      but a sentence from a French-language lecture has given it a further boost.” “At
+      press conferences, in an official letter to the European Commission, and during
+      interviews, Prime Minister Bart De Wever repeatedly explains why it is particularly
+      risky to use Russian assets frozen in Belgium for the reconstruction of Ukraine.
+      “That was no different on Monday evening at a lecture for a French-speaking audience
+      at the Bozar art center in Brussels. “The editor-in-chief of La Libre Belgique
+      interviewed De Wever after that lecture and asked a question about the delicate
+      financial issue, after which a summary of that conversation appeared in the French-language
+      newspaper. “In it, De Wever uttered a few sentences that reinforced the critics’
+      vision of a country that would not side with Ukraine. ‘Who really believes that
+      Russia will lose in Ukraine?’ said De Wever. ‘That is a myth, a total illusion.
+      It is not even desirable for her to lose and for instability to arise in a country
+      that possesses nuclear weapons.’ “The specific passage from the printed interview,
+      particularly the section entitled “It is not desirable for Russia to lose,” has
+      been widely shared on social media since Thursday. Among others, a former Ukrainian
+      diplomat drew attention to De Wever’s statements. “For weeks, a campaign has been
+      raging on X and Telegram, with predominantly pro-Ukraine voices accusing Belgium
+      of being selfish, endangering European security, and abandoning Ukraine. Even
+      during World War II, Germany’s money was not confiscated,’ said the prime minister.”
+      Another article in the same issue of Standaard has the title “De Wever enjoys
+      support from PVDA and Vlaams Belang on Euroclear.”  This is not intended as a
+      compliment.  PVDA is the Workers’ Party of Belgium, a Marxist party headed by
+      Raoul Hedebouw.  Hedebouw is the deputy who offered his support to De Wever in
+      the Chamber of Representatives, as noted above.  Vlaams Belang is a Flemish separatist
+      party that long has had a taint of racism, though its domestic policies are more
+      socially minded than De Wever’s N-VA. If I may summarize, my reading of the Belgian
+      press demonstrates that opinions are divided on De Wever’s stand with respect
+      to confiscation and on the Ukraine-Russia war, between different newspapers and
+      even within the staff of a single newspaper like L’Echo . Against this media background
+      in his own country. Bart De Wever’s principled stand against the von der Leyen
+      plan to confiscate Russian state assets in Euroclear is all the more impressive
+      and praiseworthy. ©Gilbert Doctorow, 2025'
+    one_sentence_summary: The article argues that Belgian Prime Minister Bart De Wever's
+      actions may significantly influence the resolution of the Ukraine war, potentially
+      more so than recent military victories by Russia or the opposition from Hungarian
+      Prime Minister Viktor Orban against European Commission President Ursula von der
+      Leyen's policies.
+    paragraph_summary: In a recent article, the author argues that Belgian Prime Minister
+      Bart De Wever may play a more crucial role in ending the Ukraine war than the
+      widely recognized actions of Hungarian Prime Minister Viktor Orban or recent Russian
+      military successes. De Wever is portrayed as a significant figure in resisting
+      the European Commission's leadership under Ursula von der Leyen and the prevailing
+      pro-war sentiment among European leaders. While Orban has gained attention for
+      his vocal opposition to EU policies and his attempts to protect Hungary's economic
+      interests, the author suggests that De Wever's approach could be more effective
+      in addressing the impending bankruptcy of Ukraine and facilitating a resolution
+      to the conflict. The article emphasizes the importance of De Wever's leadership
+      in the current geopolitical landscape, positioning him as a potentially impactful
+      player in the future of European diplomacy.
+    published: '2025-12-08T05:50:19+00:00'
+  - title: An important multi-subject interview with News X World (India) this afternoon
+    url: https://gilbertdoctorow.com/2025/12/07/an-important-multi-subject-interview-with-news-x-world-india-this-afternoon/
+    text: 'This unhurried interview covered several major news items of the day relating
+      to the Ukraine war and also to the newly issued U.S. National Security Strategy.
+      As regards the NSS, Moscow has commented favorably on it as if this represents
+      a wholly new direction in U.S. foreign policy. However, in fact, as I describe
+      in detail in today’s essay on Substack, the new NSS pick up where Trump’s first
+      NSS in December 2017 left off. It enshrines an interest-driven foreign policy
+      as opposed to a values driven foreign policy. It anticipates an early end to the
+      Russia-Ukraine war so that Washington can proceed with the reintegration of Russia
+      into normal commercial, diplomatic, cultural relations not only with the USA but
+      also with the European Union. Indeed, if you look closely, the NSS intimates that
+      Europe should resume importation of Russian pipeline gas:  the document notes
+      that German industry is leaving the country for China, where it can have access
+      to cheap Russian gas! We also discuss the widely quoted remark of General Keith
+      Kellogg that peace in Ukraine is now within reach, that the sides have just the
+      last 10 meters to reach it.  As I note, the old folk wisdom of ‘missed by a meter,
+      missed by a mile’ is relevant here: either you have reached the successful conclusion
+      of a peace or you have not and the daily missile and drone attacks continue unabated.
+      I insist that Kellogg does not speak for the administration, that he was just
+      window dressing for Trump to mislead his enemies into thinking that he sided with
+      Kellogg’s pro-Ukrainian stance. The massive Russian overnight strike on the Ukrainian
+      city of Kremenchuk is brought up, and I say that this success is an impressive
+      show of technical capabilities of the Kinzhal hypersonic missile and other Russian
+      Wunderwaffen, but it does not bring the end of the war one day closer.  The rule
+      of ‘whack a mole’ has to be invoked: you smack down a molehill and the mole emerges
+      somewhere else.  Military victory is not won by aerial strikes but by feet on
+      the ground. This war has gone on for much too long and could have been vastly
+      shorter and less deadly if the Russians had from the beginning mobilized the necessary
+      attack force to get the job done. ©Gilbert Doctorow, 2025'
+    one_sentence_summary: The interview discusses the U.S. National Security Strategy's
+      continuity with previous policies, highlighting Moscow's favorable interpretation
+      of it, and suggests that it aims for a swift resolution to the Ukraine war to
+      facilitate Russia's reintegration into global relations, including potential resumption
+      of gas imports to Europe.
+    paragraph_summary: The interview discusses the ongoing Ukraine war and the recently
+      released U.S. National Security Strategy (NSS), which Moscow has interpreted as
+      a significant shift in U.S. foreign policy. However, the article argues that the
+      NSS continues the interest-driven approach established during Trump's presidency,
+      suggesting a potential early resolution to the conflict that could lead to the
+      reintegration of Russia into global relations, including the resumption of gas
+      imports to Europe. The piece also critiques General Keith Kellogg's assertion
+      that peace is near, emphasizing that ongoing violence contradicts this claim.
+      The recent Russian missile strike on Kremenchuk is highlighted as a demonstration
+      of military capability but not indicative of an imminent end to the war, underscoring
+      the complexity of achieving a lasting resolution.
+    published: '2025-12-07T13:30:03+00:00'
+  - title: An important multi-subject interview with News X World (India) this afternoon
+    url: https://gilbertdoctorow.com/2025/12/07/an-important-multi-subject-interview-with-news-x-world-india-this-afternoon/
+    text: 'This unhurried interview covered several major news items of the day relating
+      to the Ukraine war and also to the newly issued U.S. National Security Strategy.
+      As regards the NSS, Moscow has commented favorably on it as if this represents
+      a wholly new direction in U.S. foreign policy. However, in fact, as I describe
+      in detail in today’s essay on Substack, the new NSS pick up where Trump’s first
+      NSS in December 2017 left off. It enshrines an interest-driven foreign policy
+      as opposed to a values driven foreign policy. It anticipates an early end to the
+      Russia-Ukraine war so that Washington can proceed with the reintegration of Russia
+      into normal commercial, diplomatic, cultural relations not only with the USA but
+      also with the European Union. Indeed, if you look closely, the NSS intimates that
+      Europe should resume importation of Russian pipeline gas:  the document notes
+      that German industry is leaving the country for China, where it can have access
+      to cheap Russian gas! We also discuss the widely quoted remark of General Keith
+      Kellogg that peace in Ukraine is now within reach, that the sides have just the
+      last 10 meters to reach it.  As I note, the old folk wisdom of ‘missed by a meter,
+      missed by a mile’ is relevant here: either you have reached the successful conclusion
+      of a peace or you have not and the daily missile and drone attacks continue unabated.
+      I insist that Kellogg does not speak for the administration, that he was just
+      window dressing for Trump to mislead his enemies into thinking that he sided with
+      Kellogg’s pro-Ukrainian stance. The massive Russian overnight strike on the Ukrainian
+      city of Kremenchuk is brought up, and I say that this success is an impressive
+      show of technical capabilities of the Kinzhal hypersonic missile and other Russian
+      Wunderwaffen, but it does not bring the end of the war one day closer.  The rule
+      of ‘whack a mole’ has to be invoked: you smack down a molehill and the mole emerges
+      somewhere else.  Military victory is not won by aerial strikes but by feet on
+      the ground. This war has gone on for much too long and could have been vastly
+      shorter and less deadly if the Russians had from the beginning mobilized the necessary
+      attack force to get the job done. ©Gilbert Doctorow, 2025'
+    one_sentence_summary: The interview discusses the U.S. National Security Strategy's
+      continuity with previous policies, highlighting Moscow's favorable interpretation
+      of it, and suggests that it aims for a swift resolution to the Ukraine war to
+      facilitate Russia's reintegration into global relations, including potential resumption
+      of gas imports to Europe.
+    paragraph_summary: The interview discusses the ongoing Ukraine war and the recently
+      released U.S. National Security Strategy (NSS), which Moscow has interpreted as
+      a significant shift in U.S. foreign policy. However, the article argues that the
+      NSS continues the interest-driven approach established during Trump's presidency,
+      suggesting a potential early resolution to the conflict that could lead to the
+      reintegration of Russia into global relations, including the resumption of gas
+      imports to Europe. The piece also critiques General Keith Kellogg's assertion
+      that peace is near, emphasizing that ongoing violence contradicts this claim.
+      The recent Russian missile strike on Kremenchuk is highlighted as a demonstration
+      of military capability but not indicative of an imminent end to the war, underscoring
+      the complexity of achieving a lasting resolution.
+    published: '2025-12-07T13:30:03+00:00'
+  - title: U.S. Ambassador to NATO Matthew Whitaker says that Ukraine and Russia are
+      ‘closer than ever’ to reach a peace deal
+    url: https://gilbertdoctorow.com/2025/12/06/u-s-ambassador-to-nato-matthew-whitaker-says-that-ukraine-and-russia-are-closer-than-ever-to-reach-a-peace-deal/
+    text: 'Another News X World interview for the amusement as well as edification of
+      their global audience This afternoon’s interview has just been posted on youtube
+      and I offer it to the Community because we discussed several new developments
+      in the war and the peace negotiations while lightening this heavy going with some
+      justified levity. I think in particular of the foolish remarks of the U.S. Ambassador
+      Matthew Whitaker on the state of play during the ongoing talks in Miami.  As I
+      comment here, Whitaker’s claim that Russia and Ukraine are closer than ever to
+      peace sounds as persuasive as the comment by U.S. National Security Advisor Jake
+      Sullivan at the end of September 2023 that he had never before seen the Middle
+      East so peaceful. My speculation that Whitaker was a career diplomat from before
+      the Trump administration was misplaced. No, he was a lawyer with private and public
+      practice.  But perhaps this information about him in his US Mission web page tells
+      us something highly relevant to his latest observations: “A graduate of the University
+      of Iowa, Whitaker earned a Master of Business Administration, Juris Doctor, and
+      Bachelor of Arts. During his time at Iowa, he was a three-year letterman on the
+      football team, contributing to a Big Ten Championship and playing in the 1991
+      Rose Bowl. He was also awarded the prestigious Big Ten Medal of Honor for his
+      academic and athletic achievements.” Playing in the Rose Bowl can carry you just
+      so far… Otherwise in my News X World interview this afternoon, we also discussed
+      how drone warfare is a great leveler. But I consider the most important part of
+      our discussion was about the latest edition of the US national security strategy
+      that came out yesterday. Judging by the overview published in the Financial Times
+      online edition today, this is a document that should be required reading for every
+      subscriber to this Substack account. It is a continuation and expansion of what
+      J.D. Vance said at the Munich Security Conference in February. Reading between
+      the lines, we see here that Trump has a clearly defined foreign policy which is
+      to end the Ukraine-Russia war, to normalize relations with Russia, to continue
+      the US pivot to the Pacific region, and to bring down the leadership of the European
+      Institutions in Brussels and the governments in 24 of the 27 EU Member States
+      because they are destroying European civilization and destroying traditional Christian
+      values. These ‘allies’ did what they could to prevent Trump’s election to the
+      presidency in 2016 and again in 2024. They are ideological enemies and he is unforgiving
+      in seeking to unseat them. ©Gilbert Doctorow, 2025'
+    one_sentence_summary: In a recent News X World interview, the discussion centered
+      on new developments in the Ukraine-Russia conflict and peace negotiations, highlighting
+      the questionable remarks made by U.S. Ambassador Matthew Whitaker regarding the
+      state of peace talks.
+    paragraph_summary: In a recent interview on News X World, the discussion revolved
+      around the ongoing war and peace negotiations, highlighting the questionable remarks
+      made by U.S. Ambassador Matthew Whitaker regarding the state of talks between
+      Russia and Ukraine. The host compared Whitaker's assertions to U.S. National Security
+      Advisor Jake Sullivan's overly optimistic comments about peace in the Middle East,
+      suggesting a disconnect from reality. The interview also touched on the evolving
+      nature of drone warfare and emphasized the significance of the newly released
+      U.S. national security strategy, which the host believes is essential reading
+      for followers of the Substack account. Overall, the conversation balanced serious
+      topics with moments of levity, reflecting on the complexities of international
+      relations.
+    published: '2025-12-06T15:54:06+00:00'
+  - title: U.S. Ambassador to NATO Matthew Whitaker says that Ukraine and Russia are
+      ‘closer than ever’ to reach a peace deal
+    url: https://gilbertdoctorow.com/2025/12/06/u-s-ambassador-to-nato-matthew-whitaker-says-that-ukraine-and-russia-are-closer-than-ever-to-reach-a-peace-deal/
+    text: 'Another News X World interview for the amusement as well as edification of
+      their global audience This afternoon’s interview has just been posted on youtube
+      and I offer it to the Community because we discussed several new developments
+      in the war and the peace negotiations while lightening this heavy going with some
+      justified levity. I think in particular of the foolish remarks of the U.S. Ambassador
+      Matthew Whitaker on the state of play during the ongoing talks in Miami.  As I
+      comment here, Whitaker’s claim that Russia and Ukraine are closer than ever to
+      peace sounds as persuasive as the comment by U.S. National Security Advisor Jake
+      Sullivan at the end of September 2023 that he had never before seen the Middle
+      East so peaceful. My speculation that Whitaker was a career diplomat from before
+      the Trump administration was misplaced. No, he was a lawyer with private and public
+      practice.  But perhaps this information about him in his US Mission web page tells
+      us something highly relevant to his latest observations: “A graduate of the University
+      of Iowa, Whitaker earned a Master of Business Administration, Juris Doctor, and
+      Bachelor of Arts. During his time at Iowa, he was a three-year letterman on the
+      football team, contributing to a Big Ten Championship and playing in the 1991
+      Rose Bowl. He was also awarded the prestigious Big Ten Medal of Honor for his
+      academic and athletic achievements.” Playing in the Rose Bowl can carry you just
+      so far… Otherwise in my News X World interview this afternoon, we also discussed
+      how drone warfare is a great leveler. But I consider the most important part of
+      our discussion was about the latest edition of the US national security strategy
+      that came out yesterday. Judging by the overview published in the Financial Times
+      online edition today, this is a document that should be required reading for every
+      subscriber to this Substack account. It is a continuation and expansion of what
+      J.D. Vance said at the Munich Security Conference in February. Reading between
+      the lines, we see here that Trump has a clearly defined foreign policy which is
+      to end the Ukraine-Russia war, to normalize relations with Russia, to continue
+      the US pivot to the Pacific region, and to bring down the leadership of the European
+      Institutions in Brussels and the governments in 24 of the 27 EU Member States
+      because they are destroying European civilization and destroying traditional Christian
+      values. These ‘allies’ did what they could to prevent Trump’s election to the
+      presidency in 2016 and again in 2024. They are ideological enemies and he is unforgiving
+      in seeking to unseat them. ©Gilbert Doctorow, 2025'
+    one_sentence_summary: In a recent News X World interview, the discussion centered
+      on new developments in the Ukraine-Russia conflict and peace negotiations, highlighting
+      the questionable remarks made by U.S. Ambassador Matthew Whitaker regarding the
+      state of peace talks.
+    paragraph_summary: In a recent interview on News X World, the discussion revolved
+      around the ongoing war and peace negotiations, highlighting the questionable remarks
+      made by U.S. Ambassador Matthew Whitaker regarding the state of talks between
+      Russia and Ukraine. The host compared Whitaker's assertions to U.S. National Security
+      Advisor Jake Sullivan's overly optimistic comments about peace in the Middle East,
+      suggesting a disconnect from reality. The interview also touched on the evolving
+      nature of drone warfare and emphasized the significance of the newly released
+      U.S. national security strategy, which the host believes is essential reading
+      for followers of the Substack account. Overall, the conversation balanced serious
+      topics with moments of levity, reflecting on the complexities of international
+      relations.
+    published: '2025-12-06T15:54:06+00:00'
+  - title: News X World – interview from yesterday, 5 December
+    url: https://gilbertdoctorow.com/2025/12/06/news-x-world-interview-from-yesterday-5-december/
+    text: My entrance comes at minute 2. We discuss conflicting Ukrainian and Russian
+      reports on the fall of Pokrovsk, the ferocity of the war on the ground and the
+      significance of Kramatorsk and Slavyansk as the last fortified Ukrainian towns
+      resisting Russian advances as the battle lines move West
+    one_sentence_summary: The article discusses the contrasting reports from Ukraine
+      and Russia regarding the fall of Pokrovsk and highlights the intense fighting
+      in the region, emphasizing the strategic importance of Kramatorsk and Slavyansk
+      as the last strongholds of Ukrainian resistance against Russian advances.
+    paragraph_summary: The article discusses the ongoing conflict between Ukraine and
+      Russia, focusing on the contrasting reports regarding the fall of Pokrovsk. It
+      highlights the intensity of the fighting on the ground and emphasizes the strategic
+      importance of Kramatorsk and Slavyansk, which are currently the last fortified
+      Ukrainian towns standing against Russian advances as the front lines shift westward.
+    published: '2025-12-06T12:22:57+00:00'
+  - title: News X World – interview from yesterday, 5 December
+    url: https://gilbertdoctorow.com/2025/12/06/news-x-world-interview-from-yesterday-5-december/
+    text: My entrance comes at minute 2. We discuss conflicting Ukrainian and Russian
+      reports on the fall of Pokrovsk, the ferocity of the war on the ground and the
+      significance of Kramatorsk and Slavyansk as the last fortified Ukrainian towns
+      resisting Russian advances as the battle lines move West
+    one_sentence_summary: The article discusses the contrasting reports from Ukraine
+      and Russia regarding the fall of Pokrovsk and highlights the intense fighting
+      in the region, emphasizing the strategic importance of Kramatorsk and Slavyansk
+      as the last strongholds of Ukrainian resistance against Russian advances.
+    paragraph_summary: The article discusses the ongoing conflict between Ukraine and
+      Russia, focusing on the contrasting reports regarding the fall of Pokrovsk. It
+      highlights the intensity of the fighting on the ground and emphasizes the strategic
+      importance of Kramatorsk and Slavyansk, which are currently the last fortified
+      Ukrainian towns standing against Russian advances as the front lines shift westward.
+    published: '2025-12-06T12:22:57+00:00'
+  - title: 'Conversation with Professor Glenn Diesen, 3 December: US & Russia Sideline
+      Europe & Ukraine in Negotiations'
+    url: https://gilbertdoctorow.com/2025/12/03/conversation-with-professor-glenn-diesen-3-december-us-russia-sideline-europe-ukraine-in-negotiations/
+    text: 'This 30-minute conversation covers very efficiently many of the issues surrounding
+      the negotiations, the issues surrounding the European efforts to sabotage the
+      peace initiative of Donald Trump. Accordingly I can recommend it heartily to the
+      Community. At the same time, I use this opportunity to say that the deluge of
+      news on and about the war does not let up and the concerns set out in this video
+      have in a way been bypassed by the latest news out of Brussels regarding the European
+      Commission’s dramatic plans to push through the confiscation of Russian state
+      assets to continue funding the war. The Financial Times online this evening sets
+      out in great detail what von der Leyen is planning to do in order to overcome
+      objections from Belgium, the jurisdiction of Euroclear where the single largest
+      amount of these frozen assets are held, and also to overcome possible vetoes to
+      her plans by Hungary and other states. The plan is monstrous and entails the utter
+      destruction of the European Union institutions for one purpose only: to perpetuate
+      the war at all costs. As I said on the Judging Freedom show earlier today, essentially
+      what is proposed is to prepare a 200 billion euro debt for the Member States without
+      any of the parliaments voting on this vital question and in the knowledge that
+      they will be hit for payment at some future date when the Russians eventually
+      win justice in the courts. At that point, the citizens of Europe will be faced
+      with costs that they never authorized their governments to incur. Frau von der
+      Leyen is a usurper of power, a dictator on the scale of Hitler. What is surprising,
+      shocking is that the prime ministers of 23 of the 27 European Member States go
+      along with her.  You have to ask where are the men in the room?  Have they all
+      been castrated? For those of you who may have wondered how Europe could have blundered
+      into WWI, we now know, because each day we see the present European leaders and
+      the governing elites in Europe displaying utter ignorance of what a Continent-wide
+      war will bring, namely the destruction of what remains of civilization here and
+      the loss of tens of millions of lives. ©Gilbert Doctorow, 2025'
+    one_sentence_summary: The article discusses a 30-minute conversation that addresses
+      the complexities of negotiations surrounding Trump's peace initiative, while highlighting
+      the European Commission's controversial plans to confiscate Russian state assets
+      to fund the war, which could threaten the stability of the European Union.
+    paragraph_summary: The article discusses a 30-minute conversation that highlights
+      the ongoing negotiations and European efforts to undermine Donald Trump's peace
+      initiative regarding the war. It emphasizes the urgency of the situation, particularly
+      in light of the European Commission's controversial plans to confiscate Russian
+      state assets to fund the war, as detailed by the Financial Times. The author criticizes
+      Ursula von der Leyen's approach, which allegedly seeks to impose a significant
+      debt on EU member states without parliamentary approval, potentially leading to
+      unforeseen financial burdens on European citizens. The article expresses outrage
+      at the complicity of 23 out of 27 European leaders in this plan, likening von
+      der Leyen's actions to those of a dictator and questioning the leadership and
+      accountability within the current European political landscape.
+    published: '2025-12-03T20:38:34+00:00'
+  - title: 'Conversation with Professor Glenn Diesen, 3 December: US & Russia Sideline
+      Europe & Ukraine in Negotiations'
+    url: https://gilbertdoctorow.com/2025/12/03/conversation-with-professor-glenn-diesen-3-december-us-russia-sideline-europe-ukraine-in-negotiations/
+    text: 'This 30-minute conversation covers very efficiently many of the issues surrounding
+      the negotiations, the issues surrounding the European efforts to sabotage the
+      peace initiative of Donald Trump. Accordingly I can recommend it heartily to the
+      Community. At the same time, I use this opportunity to say that the deluge of
+      news on and about the war does not let up and the concerns set out in this video
+      have in a way been bypassed by the latest news out of Brussels regarding the European
+      Commission’s dramatic plans to push through the confiscation of Russian state
+      assets to continue funding the war. The Financial Times online this evening sets
+      out in great detail what von der Leyen is planning to do in order to overcome
+      objections from Belgium, the jurisdiction of Euroclear where the single largest
+      amount of these frozen assets are held, and also to overcome possible vetoes to
+      her plans by Hungary and other states. The plan is monstrous and entails the utter
+      destruction of the European Union institutions for one purpose only: to perpetuate
+      the war at all costs. As I said on the Judging Freedom show earlier today, essentially
+      what is proposed is to prepare a 200 billion euro debt for the Member States without
+      any of the parliaments voting on this vital question and in the knowledge that
+      they will be hit for payment at some future date when the Russians eventually
+      win justice in the courts. At that point, the citizens of Europe will be faced
+      with costs that they never authorized their governments to incur. Frau von der
+      Leyen is a usurper of power, a dictator on the scale of Hitler. What is surprising,
+      shocking is that the prime ministers of 23 of the 27 European Member States go
+      along with her.  You have to ask where are the men in the room?  Have they all
+      been castrated? For those of you who may have wondered how Europe could have blundered
+      into WWI, we now know, because each day we see the present European leaders and
+      the governing elites in Europe displaying utter ignorance of what a Continent-wide
+      war will bring, namely the destruction of what remains of civilization here and
+      the loss of tens of millions of lives. ©Gilbert Doctorow, 2025'
+    one_sentence_summary: The article discusses a 30-minute conversation that addresses
+      the complexities of negotiations surrounding Trump's peace initiative, while highlighting
+      the European Commission's controversial plans to confiscate Russian state assets
+      to fund the war, which could threaten the stability of the European Union.
+    paragraph_summary: The article discusses a 30-minute conversation that highlights
+      the ongoing negotiations and European efforts to undermine Donald Trump's peace
+      initiative regarding the war. It emphasizes the urgency of the situation, particularly
+      in light of the European Commission's controversial plans to confiscate Russian
+      state assets to fund the war, as detailed by the Financial Times. The author criticizes
+      Ursula von der Leyen's approach, which allegedly seeks to impose a significant
+      debt on EU member states without parliamentary approval, potentially leading to
+      unforeseen financial burdens on European citizens. The article expresses outrage
+      at the complicity of 23 out of 27 European leaders in this plan, likening von
+      der Leyen's actions to those of a dictator and questioning the leadership and
+      accountability within the current European political landscape.
+    published: '2025-12-03T20:38:34+00:00'
+  - title: 'Minionzatwork: Why Europe Wants War & Trump Wants Out: Dr. Gilbert Doctorow
+      on the EU’s Fracture'
+    url: https://gilbertdoctorow.com/2025/12/03/minionzatwork-why-europe-wants-war-trump-wants-out-dr-gilbert-doctorow-on-the-eus-fracture/
+    text: It is always very nice to be invited to address new audiences via new broadcasting
+      partners. Here is the podcast created a day ago in conversation with Immanuel
+      John, the first host in Belgium to engage with me. It is far reaching, going back
+      in time to explain my involvement in things Russian for decades, including eight
+      years of living and working in Moscow and St Petersburg in the 1990s. It moves
+      on to the current day issues in and around the Russia-Ukraine war. Enjoy the show!
+    one_sentence_summary: The article announces a new podcast featuring a conversation
+      with Immanuel John, discussing the author's extensive experience with Russia and
+      current issues related to the Russia-Ukraine war.
+    paragraph_summary: The article announces a recent podcast featuring a conversation
+      with Immanuel John, the first Belgian host to interview the author. The discussion
+      covers the author's extensive experience with Russian affairs, including eight
+      years spent living and working in Moscow and St. Petersburg during the 1990s,
+      and transitions to contemporary issues related to the Russia-Ukraine war. The
+      author invites listeners to enjoy the show.
+    published: '2025-12-03T16:48:30+00:00'
+  - title: 'Minionzatwork: Why Europe Wants War & Trump Wants Out: Dr. Gilbert Doctorow
+      on the EU’s Fracture'
+    url: https://gilbertdoctorow.com/2025/12/03/minionzatwork-why-europe-wants-war-trump-wants-out-dr-gilbert-doctorow-on-the-eus-fracture/
+    text: It is always very nice to be invited to address new audiences via new broadcasting
+      partners. Here is the podcast created a day ago in conversation with Immanuel
+      John, the first host in Belgium to engage with me. It is far reaching, going back
+      in time to explain my involvement in things Russian for decades, including eight
+      years of living and working in Moscow and St Petersburg in the 1990s. It moves
+      on to the current day issues in and around the Russia-Ukraine war. Enjoy the show!
+    one_sentence_summary: The article announces a new podcast featuring a conversation
+      with Immanuel John, discussing the author's extensive experience with Russia and
+      current issues related to the Russia-Ukraine war.
+    paragraph_summary: The article announces a recent podcast featuring a conversation
+      with Immanuel John, the first Belgian host to interview the author. The discussion
+      covers the author's extensive experience with Russian affairs, including eight
+      years spent living and working in Moscow and St. Petersburg during the 1990s,
+      and transitions to contemporary issues related to the Russia-Ukraine war. The
+      author invites listeners to enjoy the show.
+    published: '2025-12-03T16:48:30+00:00'
+  - title: 'NewsX World: US-Ukraine Relations: Trump comments on Ukraine weapons assistance
+      plan'
+    url: https://gilbertdoctorow.com/2025/12/03/newsx-world-us-ukraine-relations-trump-comments-on-ukraine-weapons-assistance-plan/
+    text: 'Published by gilbertdoctorow
+
+
+      Gilbert Doctorow''s latest book, "War Diaries. The Russia-Ukraine War, 2022-2023"
+      is a unique contribution to literature on the war thanks to the author''s reports
+      on the Russian home front written during his periodic visits to St Petersburg
+      at a time when Russia no longer issued visas and nearly all Western journalists
+      had left the country. Doctorow''s two-volume "Memoirs of a Russianist" published
+      in 2020 also constitutes a category of its own, consisting largely of diary entries
+      rather than reminiscences written decades later.. Volume 2 focuses on the community
+      of 50,000 expatriate managers working and living in Moscow during the 1990s, about
+      which none of his peers has yet to write. Gilbert Doctorow is a professional Russia
+      watcher and actor in Russian affairs going back to 1965. He is a magna cum laude
+      graduate of Harvard College (1967), a past Fulbright scholar, and holder of a
+      Ph.D. with honors in history from Columbia University (1975). After completing
+      his studies, Mr. Doctorow pursued a business career focused on the USSR and Eastern
+      Europe. For twenty-five years he worked for US and European multinationals in
+      marketing and general management with regional responsibility. From 1998-2002,
+      Doctorow served as the Chairman of the Russian Booker Literary Prize in Moscow.
+      During the 2010-2011 academic year, he was a Visiting scholar of the Harriman
+      Institute, Columbia University. Mr. Doctorow is a long-time resident of Brussels.
+      View all posts by gilbertdoctorow'
+    one_sentence_summary: Gilbert Doctorow's "War Diaries. The Russia-Ukraine War, 2022-2023"
+      offers a distinctive perspective on the conflict through his firsthand accounts
+      from Russia during a time when Western journalists were largely absent, complementing
+      his previous work on the expatriate community in Moscow during the 1990s.
+    paragraph_summary: Gilbert Doctorow's book, "War Diaries. The Russia-Ukraine War,
+      2022-2023," offers a distinctive perspective on the ongoing conflict through his
+      firsthand accounts from the Russian home front during a period when Western journalists
+      were largely absent due to visa restrictions. This work follows his earlier two-volume
+      memoir, "Memoirs of a Russianist," which includes unique diary entries about the
+      expatriate community in Moscow during the 1990s, a topic not previously explored
+      by his contemporaries. With a background as a professional observer of Russian
+      affairs since 1965, Doctorow combines his academic credentials, including a Ph.D.
+      from Columbia University and experience in multinational business, to provide
+      insightful commentary on the region. He has also held notable positions, such
+      as Chairman of the Russian Booker Literary Prize and Visiting Scholar at Columbia's
+      Harriman Institute, and currently resides in Brussels.
+    published: '2025-12-03T16:34:04+00:00'
+  - title: '‘Judging Freedom’ edition of 3 December 2025: Are US/Russian Negotiations
+      a Waste of Time?'
+    url: https://gilbertdoctorow.com/2025/12/03/judging-freedom-edition-of-3-december-2025-are-us-russian-negotiations-a-waste-of-time/
+    text: '‘Judging Freedom’ edition of 3 December 2025: Are US/Russian Negotiations
+      a Waste of Time? I gladly present this chat with Judge Napolitano because we departed
+      from the strict and often dry terms of foreign policy analysis to other methods
+      which Andrew Napolitano cultivated during his time on the bench but which political
+      scientists, for reasons best known to them, do not deal in:  body language. We
+      both viewed segments from the most recent public statements by Vladimir Putin,
+      most likely made after the conclusion of his talks with Witkoff and Kushner over
+      peace in Ukraine. My reading of Putin’s body language was that he was supremely
+      confident of the superiority of Russian arms over anything in the European arsenals
+      when he said that Russia is ready to go to war with Europe if that is what they
+      want, and can do so right now. He went on to say that the war will not be very
+      long. This brought to mind the lyrics of Tom Lehrer’s song to his mother that
+      he would be back from the war in a half hour or so.  For those not clued in: 
+      Putin was saying in veiled language what Russian nationalists have been saying
+      for some time, namely that Russia will not pussy foot with the Europeans in war
+      conditions as it has done with Ukraine because of the residual brotherly feelings
+      towards Ukraine which are absent with regard to Europe. Russia will not fight
+      in the trenches, but will use its tactical nuclear weapons to annihilate any European
+      forces sent against it. I do hope that in the chancelleries of Europe, and especially
+      in Germany, they have paid close attention to these remarks of Putin, because
+      they make a mockery of the European rearmament efforts at present. No amount of
+      new tanks or artillery, no new fighter jets, no additional recruits to their armed
+      forces, whether volunteer or by a draft, will provide any defense whatsoever for
+      Europe if they go head to head against Russia today. ©Gilbert Doctorow, 2025'
+    one_sentence_summary: In a discussion with Judge Napolitano, the article analyzes
+      Vladimir Putin's confident body language during recent statements about Russia's
+      military readiness and willingness to go to war with Europe, suggesting that US/Russian
+      negotiations may be futile.
+    paragraph_summary: In the December 3, 2025 edition of ‘Judging Freedom,’ Judge Andrew
+      Napolitano discusses the implications of recent statements made by Vladimir Putin
+      regarding Russia's military readiness and its stance towards Europe, particularly
+      in the context of ongoing negotiations over peace in Ukraine. Analyzing Putin's
+      body language, Napolitano interprets his confidence in Russia's military superiority
+      and a willingness to engage in war with Europe if provoked, suggesting that Russia
+      would not hesitate to use tactical nuclear weapons against European forces. This
+      perspective raises concerns about the effectiveness of European rearmament efforts,
+      as Napolitano argues that no amount of military enhancement will adequately protect
+      Europe from a potential conflict with Russia, which views the situation with a
+      starkly different mindset than it does with Ukraine. The article emphasizes the
+      gravity of Putin's remarks and urges European leaders to take them seriously.
+    published: '2025-12-03T13:54:39+00:00'
+  - title: '‘Judging Freedom’ edition of 3 December 2025: Are US/Russian Negotiations
+      a Waste of Time?'
+    url: https://gilbertdoctorow.com/2025/12/03/judging-freedom-edition-of-3-december-2025-are-us-russian-negotiations-a-waste-of-time/
+    text: '‘Judging Freedom’ edition of 3 December 2025: Are US/Russian Negotiations
+      a Waste of Time? I gladly present this chat with Judge Napolitano because we departed
+      from the strict and often dry terms of foreign policy analysis to other methods
+      which Andrew Napolitano cultivated during his time on the bench but which political
+      scientists, for reasons best known to them, do not deal in:  body language. We
+      both viewed segments from the most recent public statements by Vladimir Putin,
+      most likely made after the conclusion of his talks with Witkoff and Kushner over
+      peace in Ukraine. My reading of Putin’s body language was that he was supremely
+      confident of the superiority of Russian arms over anything in the European arsenals
+      when he said that Russia is ready to go to war with Europe if that is what they
+      want, and can do so right now. He went on to say that the war will not be very
+      long. This brought to mind the lyrics of Tom Lehrer’s song to his mother that
+      he would be back from the war in a half hour or so.  For those not clued in: 
+      Putin was saying in veiled language what Russian nationalists have been saying
+      for some time, namely that Russia will not pussy foot with the Europeans in war
+      conditions as it has done with Ukraine because of the residual brotherly feelings
+      towards Ukraine which are absent with regard to Europe. Russia will not fight
+      in the trenches, but will use its tactical nuclear weapons to annihilate any European
+      forces sent against it. I do hope that in the chancelleries of Europe, and especially
+      in Germany, they have paid close attention to these remarks of Putin, because
+      they make a mockery of the European rearmament efforts at present. No amount of
+      new tanks or artillery, no new fighter jets, no additional recruits to their armed
+      forces, whether volunteer or by a draft, will provide any defense whatsoever for
+      Europe if they go head to head against Russia today. ©Gilbert Doctorow, 2025'
+    one_sentence_summary: In a discussion with Judge Napolitano, the article analyzes
+      Vladimir Putin's confident body language during recent statements about Russia's
+      military readiness and willingness to go to war with Europe, suggesting that US/Russian
+      negotiations may be futile.
+    paragraph_summary: In the December 3, 2025 edition of ‘Judging Freedom,’ Judge Andrew
+      Napolitano discusses the implications of recent statements made by Vladimir Putin
+      regarding Russia's military readiness and its stance towards Europe, particularly
+      in the context of ongoing negotiations over peace in Ukraine. Analyzing Putin's
+      body language, Napolitano interprets his confidence in Russia's military superiority
+      and a willingness to engage in war with Europe if provoked, suggesting that Russia
+      would not hesitate to use tactical nuclear weapons against European forces. This
+      perspective raises concerns about the effectiveness of European rearmament efforts,
+      as Napolitano argues that no amount of military enhancement will adequately protect
+      Europe from a potential conflict with Russia, which views the situation with a
+      starkly different mindset than it does with Ukraine. The article emphasizes the
+      gravity of Putin's remarks and urges European leaders to take them seriously.
+    published: '2025-12-03T13:54:39+00:00'
   - title: 'Press TV (Iran): Ukraine Peace on the Horizon'
     url: https://gilbertdoctorow.com/2025/12/02/press-tv-iran-ukraine-peace-on-the-horizon/
     text: I offer this panel discussion on the Spotlight show of Press TV hosted by

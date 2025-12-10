@@ -7,16 +7,601 @@ description: "Cambridge–educated researcher at RMIT; writes widely on imperial
 websites:
   - https://counterpunch.org/author/jete6/
 summary: |
-  The past 24 hours in global affairs have seen further consolidation of power by controversial leaders, deepening humanitarian crises, and continued skepticism over the motives behind major defense and technology initiatives.
+  As global tensions persist across multiple fronts, recent independent analysis by **Binoy Kampmark** highlights several significant developments shaping the current geopolitical landscape.
   
-  Saudi Crown Prince Mohammed bin Salman’s recent state visit to the United States has drawn sharp attention, as President Trump extended a notably warm welcome despite persistent international outrage over the murder of journalist Jamal Khashoggi. Both leaders downplayed the controversy, with **Binoy Kampmark** noting that this signals “MBS’s consolidation of power and the Kingdom’s efforts to distance itself from accountability for the crime.” The visit underscores a broader trend of realpolitik, where strategic alliances and economic interests are prioritized over human rights concerns.
+  The most pressing new development centers on the mounting scrutiny faced by U.S. Secretary of Defense Pete Hegseth. Allegations have surfaced accusing Hegseth of authorizing lethal strikes on vessels allegedly linked to drug trafficking, resulting in substantial loss of life. The Trump administration staunchly defends these actions as necessary for national security, but **Kampmark** notes that the controversy has intensified debates over the legality and morality of such operations. The majority of analysts suggest that, given the administration’s defensive posture and the lack of international consensus on the definition of legitimate military targets in anti-narcotics operations, accountability is unlikely in the short term. However, the issue is expected to fuel ongoing calls for greater oversight of U.S. military conduct abroad.
   
-  Meanwhile, the situation in Gaza remains dire. New revelations about Al-Majd Europe, a charity linked to the Israeli Defense Forces, have intensified scrutiny. The organization’s role in evacuating Palestinians has sparked alarm among South African officials, who suspect a broader agenda to forcibly remove Palestinians from their homeland. **Binoy Kampmark** highlights that this is taking place “amidst a humanitarian crisis exacerbated by ongoing conflict,” with little sign of meaningful intervention from the international community.
+  Meanwhile, the situation in Gaza remains dire despite the so-called ceasefire between Israel and Hamas. **Kampmark** argues that the truce has functioned more as a diplomatic façade than a genuine cessation of hostilities, with Israeli operations continuing under the pretext of restraint. The humanitarian crisis persists, with civilian casualties mounting and international aid efforts hampered. There is a high chance, as **Kampmark** observes, that the ceasefire will remain nominal, prolonging the suffering and instability in the region.
   
-  In Australia, defense spending continues to draw criticism. The government’s pursuit of costly military projects, such as the AUKUS submarine deal and a potential Iron Dome missile defense system, is seen by many as excessive and driven by U.S. influence. **Binoy Kampmark** describes Australia’s defense policy as “irrationally extravagant,” questioning the legitimacy of the threats cited to justify such expenditures.
+  On the legal front, the recent proscription of Palestine Action under the UK Terrorism Act, following their protest at a Royal Air Force base, has sparked significant backlash. Human rights organizations and legal experts are challenging the move, claiming it undermines civil liberties and the right to protest. A judicial review is underway, and while the government maintains its stance, the majority opinion among analysts is that this case could set a precedent for future restrictions on activism, with a high chance of continued legal and public resistance.
   
-  Looking ahead, the prevailing trends indicate a high likelihood that strategic interests will continue to override calls for accountability and humanitarian action. The U.S.-Saudi relationship is most definitely set to deepen, with little chance of repercussions for MBS. In Gaza, there is a high chance the humanitarian crisis will worsen, as international mechanisms remain ineffective. Australia’s defense trajectory is quite likely to persist, with further investments in high-profile, U.S.-aligned projects expected in the near term.
+  Looking ahead, the trends point to a period of heightened legal and political contestation over state actions—both in military and civil society contexts. The U.S. is likely to face ongoing criticism for its extraterritorial military policies, while the UK may see increasing judicial scrutiny of its counterterrorism measures. In the Middle East, the absence of meaningful progress in Gaza suggests that the humanitarian crisis will most definitely persist, with little hope for resolution in the near term.
 articles:
+  - title: War Crimes and Pete Hegseth’s Lust for Blood
+    url: https://www.counterpunch.org/2025/12/05/war-crimes-and-pete-hegseths-lust-for-blood/
+    text: 'Pete Hegseth, the soap opera styled US Secretary of Defense, sports a questionable
+      sanity. His behaviour before generals is the stuff of low comedy. His mania about
+      sending narco-traffickers making passage on the sea from Venezuela to a watery
+      grave has a millenarian zeal. But psychological coarseness and imperfection have
+      not prevented questions being asked about why he, allegedly, ordered to strike
+      a vessel twice in order to ensure the death of all aboard it.
+
+
+      Some 21 known deadly strikes on such vessels, resulting in the deaths of 83 people,
+      have been orchestrated since September 2, when President Donald Trump stated in
+      a War Powers Resolution notification to Congress that such acts were “self-defense”
+      measures motivated by “the inability or unwillingness of some states in the region
+      to address the continuing threat to United States persons and interests emanating
+      from their territories”. The following month, a presidential notice was issued
+      categorising those killed in alleged drug smuggling as “unlawful combatants”,
+      a dangerously novel interpretation authorising homicide on the high seas.
+
+
+      The September 2 “double-tap” strike was initially reported as involving an order
+      from the Secretary to “kill everybody” upon an alleged Venezuelan drug boat. Two
+      survivors from the initial attack, desperately clinging to the burning remnants
+      of the vessel, were dispatched in the second strike.
+
+
+      A generally mute Congress was aroused into action. The campaign against alleged
+      narcotics smugglers, typified by an absence of due process and having all the
+      markings of summary execution, had come in for inspection. Senator Mark Kelly
+      (D-Ariz.) of the Senate Armed Services Committee demanded an investigation. House
+      Minority Leader Hakeem Jeffries (D-NY) believed that bipartisan investigations
+      would be conducted “in both the House and the Senate in order to determine whether
+      war crimes were committed, and either US law or international law or both, were
+      violated.”
+
+
+      Certain Republicans even went so far as to contemplate the possibility that a
+      war crime had been committed. Rep. Michael R. Turner of Ohio and the Armed Services
+      Committee, agreed that the killing of survivors would have “be an illegal act”,
+      while Rep. Don Bacon could scarce believe that Hegseth would have been “foolish
+      enough to make this decision to say, ‘kill everybody,’ ‘kill the survivors’ because
+      that’s a clear violation of the law of war.” (Bacon has seemingly not seen Hegseth’s
+      social media splashes.)
+
+
+      In a joint statement from Armed Services Committee Chairman Senator Roger Wicker
+      (R-Miss.) and ranking member Jack Reed (D-R.I.), “vigorous oversight” over operations
+      in the Caribbean was promised. “The Committee is aware of recent news reports
+      – and the Department of Defense’s initial response – regarding alleged follow-on
+      strikes on suspected narcotics vessels in the SOUTHCOM area of responsibility”.
+      The Democrats on the same committee have requested that Hegseth and Attorney General
+      Pam Bondi release the Office of Legal Counsel’s written opinion laying the legal
+      basis for the strikes.
+
+
+      The White House proceeded to pour cold water on the suggestion that Hegseth had
+      given the order. US Special Operations Command chief Admiral Frank Bradley was
+      outed as the figure who ordered the second strike. In doing so, he had, according
+      to Press Secretary Karoline Leavitt, “worked well within his authority and the
+      law, directing the engagement to ensure the boat was destroyed and the threat
+      to the United States of America was eliminated.” More broadly, both Trump and
+      Hegseth had “made it clear that presidentially designated narco-terrorist groups
+      are subject to legal targeting in accordance with the laws of war”.
+
+
+      Given some exiting wriggle room, Hegseth heaped praise upon Admiral Bradley as
+      “an American hero, a true professional, and has my 100% support. I stand by him
+      and the combat decisions he has made – on the September 2 mission and all others
+      since then.”
+
+
+      The dubious quality of these strikes has enlivened broader concern in the region.
+      On September 15, a Colombian boat involved in fishing activities was struck, resulting
+      in the death of Alejandro Carranza Medina. Its ruthlessness made Colombian President
+      Gustavo Petro accuse the US government of committing murder and violating sovereignty.
+      A complaint has been submitted to the Inter-American Commission on Human Rights
+      (IACHR) alleging that Hegseth “was responsible for ordering the bombing of boats
+      like those of Alejandro Carranza Medina and the murder of all those on such boats.”
+      These orders were given “despite the fact that they did not know the identity
+      of those being targeted for these bombings and extra-judicial killings”.
+
+
+      The attacks on these vessels in the Caribbean Sea are just another aspect of the
+      Trump reality show. This administration cherishes show before substance, seemingly
+      hoping that the show distracts sufficiently for the substance to change. The withering
+      report by the Pentagon’s inspector general claiming that Hegseth endangered US
+      personnel by sharing details of planned US strikes on Houthi forces in Yemen via
+      a conversation conducted on Signal does just that. (Not only is Signal a commercially
+      available messaging platform: a journalist from The Atlantic, Jeffrey Goldberg,
+      had been unwittingly added to the conversation.)
+
+
+      The substance here is clearly not narcotics. Trump’s outrageous pardon of former
+      Honduran leader Juan Orlando Hernández, serving a 45-year sentence in a West Virginia
+      prison for paving “a cocaine superhighway” to the United States, gave the game
+      away. Regime change in Venezuela, and the world’s largest known oil reserves,
+      await. In the meantime, Hegseth continues to feed his bloodlust.'
+    one_sentence_summary: Pete Hegseth, the U.S. Secretary of Defense, faces scrutiny
+      and allegations of war crimes for allegedly ordering lethal strikes on vessels
+      linked to drug trafficking, resulting in numerous deaths, while the Trump administration
+      defends these actions as necessary measures against perceived threats.
+    paragraph_summary: The article critiques Pete Hegseth, the U.S. Secretary of Defense,
+      for his controversial and seemingly reckless approach to military operations against
+      alleged Venezuelan drug traffickers, which have resulted in numerous strikes leading
+      to civilian casualties. Since September 2, 21 strikes have reportedly killed 83
+      individuals, with Hegseth allegedly ordering a "double-tap" strike that killed
+      survivors of an initial attack. This has sparked bipartisan concern in Congress,
+      with calls for investigations into potential war crimes and violations of international
+      law. While the White House distanced itself from Hegseth's alleged orders, attributing
+      the second strike to Admiral Frank Bradley, the broader implications of these
+      actions have raised alarms in the region, including accusations from Colombian
+      President Gustavo Petro of murder and sovereignty violations. The article suggests
+      that these military actions are part of a larger, showy strategy under the Trump
+      administration, which prioritizes spectacle over substantive policy, with underlying
+      motives potentially linked to regime change in Venezuela and access to its oil
+      reserves.
+    published: '2025-12-05T06:53:56+00:00'
+  - title: 'A Ceasefire in Name Only: Gaza’s Prolonged Purgatory'
+    url: https://www.counterpunch.org/2025/12/04/a-ceasefire-in-name-only-gazas-prolonged-purgatory/
+    text: 'A ceasefire can be a strange thing. The assumption, generally speaking, is
+      that the parties to it restrain themselves for a period of time, ordering their
+      forces and disciplining their charges from straying. But straying happens, transgressions
+      inevitable. Some are genuine enough: silly misunderstandings, hot headed confusion,
+      a fear that the other side has broken it. Room for error, and a degree of death
+      and injury, is crudely permitted.
+
+
+      In the case of the Israel-Hamas ceasefire, transgressions have become the lingua
+      franca of the parties, though Israel remains, by far, the perpetrator par excellence.
+      The latter’s departures from the agreement have been so vicious as to prompt the
+      observation that they are pursuing a mutilated reading of the agreement, essentially
+      a “reducefire”. The deaths of 347 Palestinians in Gaza since October 10, including
+      136 children, do not point to cooling restraint.
+
+
+      On October 28, at least 104 Palestinians were slaughtered in a single day. This
+      might have suggested a breach so serious as to suggest a repudiation. Not so,
+      claimed Qatari Prime Minister, Sheikh Mohammed bin Abdul Rahman Al Thani. “Fortunately,”
+      he told a US audience, “I think the main parties – both of them [Israel and Hamas]
+      – are acknowledging that the ceasefire should hold and they should stick to the
+      agreement.”
+
+
+      What is becoming apparent is that the ceasefire has led to a state of affairs
+      where Israeli forces have been permitted enormous latitude in the way it inflicts
+      violence on local Gazans. The UN Women’s Chief of Humanitarian Action, Sofia Calltorp,
+      reveals how Gazan women told her “again and again: there may be a ceasefire, but
+      the war is not over. The attacks are fewer, but the killings continue.” Agnès
+      Callmard, Secretary General of Amnesty International, goes so far as to declare
+      that the ceasefire has created “a dangerous illusion that life in Gaza is returning
+      to normal.” What has in fact happened is a mere reduction of “the scale of [Israel’s]
+      attacks” and the meagre allowance of humanitarian aid into the Strip.
+
+
+      In a briefing note released on November 27, the organisation is adamant that “Israeli
+      authorities are still committing genocide against Palestinians in the occupied
+      Gaza Strip, by continuing to deliberately inflict conditions of life calculated
+      to bring about their physical destruction.” Expulsions continue, prosecutions
+      of alleged atrocities and war crimes by Israeli forces non-existent. The means
+      to build the crucial infrastructure required to sustain life is being hampered,
+      while unexploded ordnance, contaminated rubble and sewage, remain unaddressed.
+
+
+      Structural realities have also intruded. The Israeli Defense Forces remain in
+      control of over 58% of Gaza. According to a clutch of special rapporteurs and
+      experts in the employ of the United Nations, including Francesca Albanese, Ben
+      Saul and Irene Khan, 40 active Israeli sites continue to operate “beyond the agreed
+      withdrawal line, in clear breach of the ceasefire terms.” They also warn that
+      the UN Security Council resolution authorising the deployment of an International
+      Stabilisation Force (ISF), with Egypt and Israel coordinating border matters alongside
+      a spanking new Palestinian trained police force “risks replicating – if not aggravating
+      – the model of security coordination that has entrenched Israel’s settler-colonial
+      apartheid regime in the West Bank”.
+
+
+      Humanitarian assistance remains at a painful trickle, an obscene state of affairs
+      given the levelling devastation wrought by the war (85% of water and sanitation
+      facilities were damaged or destroyed; likewise 92% of homes). The charity Oxfam
+      does not spare any details in what is needed: “The most pressing needs include
+      food and healthcare and shelter, as well as water, sanitation and hygiene services
+      (WASH) including menstrual products and waste management services.” While some
+      food and goods have become more available in local markets, they remain prohibitively
+      expensive for Gaza’s residents.
+
+
+      Between October 10 and 21, seventeen international non-government organisations
+      had essential aid shipments for Gaza, including water, food, tents, and medical
+      supplies, blocked, with Israeli authorities claiming they were not authorised
+      to do so. Some 99 requests by international NGOs to deliver aid were rejected,
+      along with six requests from UN agencies. “This includes,” stated Oxfam last month,
+      “agencies that continue to have long-standing INGO registration with Palestinian
+      and Israeli authorities and are legally permitted to operate by the latter while
+      new registration processes are ongoing.”
+
+
+      A system of brutality, practised, insistent, even casual, has been entrenched
+      against those in Gaza and, increasingly, the West Bank. The summary execution
+      of two men in Jenin by Israeli soldiers after their surrender was lauded by Israel’s
+      National Security Minister, Itamar Ben-Gvir, who thought the killings the very
+      thing “expected of them”. Implicit is the suggestion that Palestinians are required
+      to behave in specific, tolerated ways: humbly submit to their apparently generous
+      oppressors, suffer ceaseless purgatorial deprivation and accept a ceasefire in
+      name only.'
+    one_sentence_summary: The article critiques the Israel-Hamas ceasefire, arguing
+      that it has allowed Israel to continue inflicting violence on Palestinians under
+      the guise of restraint, leading to ongoing deaths and humanitarian crises in Gaza
+      while creating a false perception of normalcy.
+    paragraph_summary: The article discusses the complexities and contradictions surrounding
+      the Israel-Hamas ceasefire, highlighting that while a ceasefire typically implies
+      restraint from both parties, Israel has frequently violated the agreement, resulting
+      in significant casualties among Palestinians, including children. Despite claims
+      from officials like Qatari Prime Minister Sheikh Mohammed bin Abdul Rahman Al
+      Thani that both sides acknowledge the ceasefire, reports indicate that Israeli
+      forces continue to inflict violence and maintain control over much of Gaza, leading
+      to ongoing humanitarian crises. Organizations such as Amnesty International and
+      Oxfam emphasize that the ceasefire has created a false sense of normalcy, as humanitarian
+      aid remains severely restricted and the living conditions for Gazans are dire.
+      The article portrays a grim reality where systemic brutality against Palestinians
+      persists, with Israeli authorities facing little accountability for their actions.
+    published: '2025-12-04T06:53:50+00:00'
+  - title: 'Clownish Proscriptions: Challenging the Palestine Action Ban'
+    url: https://www.counterpunch.org/2025/12/02/clownish-proscriptions-challenging-the-palestine-action-ban/
+    text: 'On June 20, members of Palestine Action broke into a Royal Airforce base
+      at Brize Norton, Oxfordshire, going on to spray paint two military aircraft activists
+      claimed were being used in “direct participation in the commission of genocide
+      and war crimes across the Middle East.” This was deemed so horrible as to draw
+      the ire of then Home Secretary Yvette Cooper, who went on to invoke section 3
+      of the Terrorism Act to proscribe the organisation.
+
+
+      At the time, it seemed impulsive, rash and most likely intended to placate Israeli
+      voices that something was being done about these bleeding hearts in Albion. Toby
+      Cadman, Member of the International Bar Association’s War Crimes Committee Advisory
+      Board, was in no doubt that the proscription was fashioned “as a blunt instrument
+      to silence certain voices on Palestine at a moment when public opinion and government
+      policy are sharply at odds.”
+
+
+      It did not take long for those well versed about human rights to protest this
+      scrappy measure as absurd and needlessly authoritarian. The UN Human Rights Office
+      of the High Commissioner, counting among their number Francesca Albanese, Ben
+      Saul and Irene Khan, issued a press release in early July expressing their bafflement
+      at the proscription. “According to international standards, acts of protest that
+      damage property, but are not intended to kill or injure people, should not be
+      treated as terrorism.” Since the addition of Palestine Action to the naughty list
+      of outlawed organisations, over 2,200 arrests have been made citing terrorism
+      legislation, with 254 people charged with terrorism offences merely for participating
+      in peaceful protests.
+
+
+      Even within government circles, this measure did not fly smoothly. That most terrier-like
+      human rights activist and former diplomat Craig Murray got his hands on a leaked
+      report by the Joint Terrorism Analysis Centre (JTAC) revealing that the impulsive
+      decision to proscribe the organisation had been a fumbling episode riddled with
+      mendacity. The JTAC could hardly be said to be devotees of Palestine Action, but
+      they did struggle, at points, to see the alleged, outsized terrorist demon shadowing
+      their actions. “The majority of the group’s activity would not be classified as
+      terrorism under Section 1 of the Terrorism Act 2000.”
+
+
+      The process is well underway to challenge the order as a breach of Articles 10
+      and 11 of the European Convention of Human Rights, which protect freedom of expression
+      and freedom of assembly and association. On October 17, the Court of Appeal confirmed
+      that Huda Ammori, co-founder of Palestine Action, could seek a judicial review
+      of the proscription decision by the Home Office. Three judges upheld the July
+      decision by the lower court to grant judicial review, rejecting the flimsy arguments
+      by the Home Office that Ammori could merely seek to “deproscribe” the organisation
+      via application to the Secretary of State, then appeal further to the Proscribed
+      Organisations Appeal Commission (POAC), if refused. This could hardly be an adequate
+      remedy.
+
+
+      The appeals court also found that the Secretary of State had failed to consider
+      that the acts of protest used by Palestine Action could not meet the criminal
+      threshold. The wider support shown for the organisation had also been ignored.
+      The judges further singled out a mischief common to many governments: that the
+      addition of Palestine Action to the list of proscribed organisations was done
+      for an improper purpose. Organisations dedicated to civil disobedience should
+      not fall within the proscription regime, yet here we were, seeing rattled politicians
+      terrified by the actions of a less than incendiary organisation.
+
+
+      To give the finding a fine rounding off, the judges also noted that the criminalisation
+      of the organisation potentially breached the Equality Act 2010, notably section
+      149. There had been little regard paid to eliminating discrimination, advancing
+      equality of opportunity, and fostering good relations.
+
+
+      The organisation has been able to count on some powerful submissions to aid their
+      cause. Liberty, the UK’s foremost domestic human rights organisation, paired with
+      Amnesty International as intervening parties to assist the High Court in reaching
+      its decision.
+
+
+      The feisty arguments of these bodies against the proscribing of Palestine Action
+      draw from Lord Hoffman’s firm observation in a case concerning, rather strikingly,
+      the actions of organised protesters keen to create mayhem on a US airbase. Not
+      only did the judge refer to that “long and honourable history” of civil disobedience
+      in the UK, he also thought reference to the suffragettes a reliably sturdy comparison.
+      When it came to such actions as the destruction of property, it was “the mark
+      of a civilised community” that such protestation and demonstration could be accommodated.
+      There was a fundamental “moral difference” between those engaged in civil disobedience
+      and those engaged in ordinary lawbreaking.
+
+
+      On November 26, Raza Husain KC told urged the court to consider that the proscription
+      was “repugnant to the tradition of the common law and contrary to the European
+      Convention on Human Rights.” The government had “imposed extreme measures on a
+      protest group (which enjoyed widespread popularity among the British public) seeking
+      to expose, protest and prevent serious violations of international law by Israel,
+      and the complicity of the UK government and companies in the UK therewith, including
+      by seeking to obstruct the continuing supply of weapons and components to Israel.”
+
+
+      Ultimately, issues of proportionality will be central to any successful judicial
+      review. The property damage that arose in the case could not be compared with
+      those instances counter-terrorism legislation was intended to cover, which considers
+      the intent to commit acts of violence against people. The object of the organisation
+      had to also be considered, distinguishing aims abhorrent to a society respecting
+      human rights, and those whose intention was to uphold international law.
+
+
+      Saul, the UN Special Rapporteur on counter-terrorism and human rights, also intervened
+      in the case to challenge the proscription as unlawful for being incompatible with
+      Articles 10, 11 and 14 (the non-discrimination provision) of the ECHR, and grounds
+      of public law. Assistance to that end has been supplied by notes from the UN special
+      rapporteur on the rights of peaceful assembly and association, Gina Romero, and
+      Khan, the UN Special Rapporteur for the promotion and protection of the right
+      of freedom of opinion and expression.
+
+
+      Across the globe, protest is being curtailed by jittery authorities eager to see
+      a rabid terrorist in the clothing of a demonstrator. This clownish effort by the
+      Starmer government against Palestine Action, one of a long and running list, has
+      brought the importance of civil disobedience and lawful assembly to the fore.
+      Will the high court bite?'
+    one_sentence_summary: Palestine Action's proscription under the Terrorism Act following
+      their protest at a Royal Airforce base has faced significant backlash from human
+      rights organizations and legal experts, who argue that the government's actions
+      are an overreach that undermines civil disobedience and freedom of expression,
+      prompting a judicial review to challenge the legality of the proscription.
+    paragraph_summary: On June 20, members of Palestine Action vandalized military aircraft
+      at a Royal Airforce base in Brize Norton, claiming they were involved in war crimes
+      in the Middle East, which led then Home Secretary Yvette Cooper to invoke the
+      Terrorism Act to proscribe the organization. This decision faced widespread criticism
+      from human rights advocates, including the UN Human Rights Office, which argued
+      that property damage without intent to harm should not be classified as terrorism.
+      A leaked report from the Joint Terrorism Analysis Centre indicated that most of
+      Palestine Action's activities did not meet the terrorism threshold, prompting
+      legal challenges against the proscription based on violations of the European
+      Convention on Human Rights. The Court of Appeal has allowed co-founder Huda Ammori
+      to seek a judicial review, emphasizing that the government's actions could be
+      seen as discriminatory and improper, particularly given the organization's intent
+      to protest against violations of international law. The case highlights the tension
+      between civil disobedience and government responses to protest, raising questions
+      about the legality and proportionality of the proscription.
+    published: '2025-12-02T06:53:39+00:00'
+  - title: 'Fossil Fuels at COP30: Sacred, Profane and Unmentioned'
+    url: https://www.counterpunch.org/2025/12/01/fossil-fuels-at-cop30-sacred-profane-and-unmentioned/
+    text: 'If the camel is a committee’s version of a horse, then the concluding notes
+      of the 30th United Nations Conference of the Parties (COP30) at Belém, Brazil
+      were bound to be ungainly, weak, and messy. That is what you get from an emitting
+      gathering of over 56,000 mostly subsidised attendees keen to etch their way into
+      posterity. Leave aside the fact that some of the conference mongers might have
+      been well meaning, the final agreement was always going to be significant for
+      what it omitted. It was also prominent for lacking any official role from the
+      United States, a country where Make America Great Again has all but parted ways
+      with notions of climate change.
+
+
+      For three decades, these events have drawn attention to climate change ostensibly
+      to address it. For three decades, the stuttering, the vacillation, the manipulation,
+      have become habitual features, making the very object of condemnation – fossil
+      fuels – both sacred and profane. The message is that humanity must do without
+      it lest we let planet Earth cook; the message, equally, is that it can’t. “COP30
+      will be the ‘COP of truth,’” Brazil President Luiz Inácio Lula de Silva declared
+      extravagantly at the 80th United Nations General Assembly in September, immediately
+      dooming it to comic platitude. The sacred and profane – fossil fuels – would remain
+      strong at the end of the show.
+
+
+      There was some initial promise that attending member states might do something
+      different. Initial pressure was exerted by the Colombia-led coalition (“mutirão”
+      or joint effort) of 83 countries to abandon the use of fossil fuels and chart
+      a Roadmap to decarbonise the global economy.
+
+
+      Then came a soggy threat by a group of 29 countries in a letter to the Brazilian
+      COP presidency that any agreement lacking a commitment to phase out fossil fuels
+      would be blocked. “We cannot support an outcome that does not include a roadmap
+      for implementing a just, orderly, and equitable transition away from fossil fuels,”
+      emphasised the authors, which included such countries as Austria, Belgium, France,
+      Germany, Palau, the UK and Vanuatu. This expectation is shared by a vast majority
+      of Parties, as well as by science and by the people who are watching our work
+      closely.” The threat duly sagged into oblivion.
+
+
+      The resulting COP 30 agreement, with the aspirational title “Global Mutirão: Uniting
+      humanity in a global mobilization against climate change” was a tepid affair.
+      There were the usual tired acknowledgments – the importance of addressing climate
+      change (yes, that’s what they were there for); the need to conserve, protect and
+      restore nature and ecosystems through reversing deforestation (wonderful); the
+      human rights dimension (rights to health, a clean, healthy and sustainable environment);
+      the importance of equity and the principle of common albeit differentiated responsibilities
+      specific to the States (fine sentiments) known as the just transition mechanism.
+
+
+      Most conspicuously, the final agreement makes no mention of fossil fuels (it made
+      a unique appearance in COP28), tantamount to discussing a raging pandemic without
+      ever mentioning the devastating virus. As Jasper Inventor, Deputy Programme Director
+      of Greenpeace International acidly remarked: “COP30 didn’t deliver ambition on
+      the 3Fs – fossil fuels, finance and forests.” In what can only be regarded as
+      an observation born from defeat and desperation, UN Climate Change Secretary Simon
+      Stiell offered his summary: “Many countries wanted to move faster on fossil fuels,
+      finance, and responding to climate disasters. I understand that frustration, and
+      many of those I share myself. But let’s not ignore how far this COP has moved
+      forward.” In this area of diplomacy, movement is excruciatingly relative.
+
+
+      There remained a modish insistence on voluntariness, with COP30 President André
+      Corrêa de Lago announcing a voluntary “roadmap” to move away from fossil fuels.
+      Officially, the sacred and the profane could not be mentioned; unofficially, other
+      countries and civil society could do what they damn well wished to when addressing
+      climate change challenges. To that end, the process would take place outside the
+      formal UN processes and merge with the Columbia-steered “coalition of the willing”.
+      The parties would otherwise, as the agreement stipulated, “launch the Global Implementation
+      Accelerator” to “keep 1.5°C within reach”, yet another woolly term conceived by
+      committee.
+
+
+      Colombia and the Netherlands were quick to announce their co-hosting of the First
+      International Conference on the Just Transition Away from Fossil Fuels. “This
+      will be,” explained Irene Vélez Torres, Colombia’s Minister for Environment and
+      Sustainable Development, “a broad intergovernmental, multisectoral platform complementary
+      to the UNFCCC [United Nations Framework Convention on Climate Change] designed
+      to identify legal, economic, and social pathways that are necessary to make the
+      phasing out of fossil fuels.”
+
+
+      Admirable as this may be, a note of profound resignation reigned among many in
+      the scientific community. While COP30 might have been seen as a meeting of “truth
+      and implementation”, the truth, charged Johan Rockström, the director of the Potsdam
+      Institute for Climate Impact Research, was that keeping the target of 1.5°C within
+      reach entailed bending “the global curve of emissions downward in 2026 and then
+      reduce emissions by at least 5% per year.” And that’s saying nothing about implementation.'
+    one_sentence_summary: The 30th United Nations Conference of the Parties (COP30)
+      in Belém, Brazil, concluded with a weak agreement that notably omitted any mention
+      of fossil fuels, reflecting the ongoing struggle and frustration among nations
+      to effectively address climate change despite calls for urgent action.
+    paragraph_summary: The 30th United Nations Conference of the Parties (COP30) in
+      Belém, Brazil, concluded with a weak and ambiguous agreement that notably omitted
+      any commitment to phase out fossil fuels, despite initial hopes for a more decisive
+      stance against climate change. The conference, attended by over 56,000 participants,
+      showcased the ongoing struggle between the need to address climate change and
+      the entrenched reliance on fossil fuels, with Brazil's President Lula de Silva's
+      declaration of COP30 as the "COP of truth" falling flat. Although a coalition
+      of 83 countries pushed for a roadmap to decarbonize the global economy, their
+      efforts were undermined by a lack of concrete action, leading to a final agreement
+      that merely reiterated existing sentiments about climate action without addressing
+      the critical role of fossil fuels. The outcome left many in the scientific community
+      disheartened, as experts emphasized the urgent need for significant emission reductions
+      to meet climate targets, highlighting the disconnect between ambitious rhetoric
+      and the reality of implementation.
+    published: '2025-12-01T06:53:34+00:00'
+  - title: 'Parochialism, Justice and International Law: Türkiye’s Genocide Warrants
+      for Israel'
+    url: https://www.counterpunch.org/2025/11/26/parochialism-justice-and-international-law-turkiyes-genocide-warrants-for-israel/
+    text: 'The authorities in Türkiye have hit their stride regarding international
+      humanitarian law, a subject they are not always consistent about. The Israeli
+      Prime Minister Benjamin Netanyahu, the defence minister Israel Katz, and others,
+      are facing arrest warrants for genocide from the Istanbul Criminal Court of Peace.
+      This is plucky, assertive, and undoubtedly, from the perspective of the Erdoğan
+      government, stealing publicity. It also brings up that hoary old chestnut of parochial
+      interest and the merits of the accuser.
+
+
+      A November 7 statement from the Istanbul chief public prosecutor’s office said
+      that as many as 37 suspects were on the list, though not all were named. We know
+      that it includes, in addition to Netanyahu and Katz, National Security Minister
+      Itamar Ben-Gvir, the IDF Chief of Staff, Lt. Gen. Eyal Zamir, and Navy Commander
+      David Saar Salama. They are charged under Article 77 (crimes against humanity)
+      and Article 76 (genocide) of the Turkish Penal Code.
+
+
+      Reference is made to the March 21 bombing of the Turkish Palestinian Friendship
+      Hospital, the October 17, 2023 attack on the Al-Ahli Baptist Hospital, the deliberate
+      destruction of medical equipment by Israeli soldiers and the blockading of Gaza
+      and the denial of humanitarian aid to the enclave. The October attack on the humanitarian
+      Global Sumud Flotilla in international waters, and the seizure by Israeli forces
+      of crew members is also mentioned.
+
+
+      This enterprise is not without problems. Türkiye is not particularly amenable
+      to punishing genocide within the context of its own, strictly invigilated history.
+      Such nationalistic, convenient laxity brings to mind George Orwell’s formidable
+      argument made in the October 22, 1943 issue of The Tribune. Reviewing a work outlining
+      the case for trying the Italian fascist leader Benito Mussolini for war crimes,
+      Orwell trawls through the record of hypocrisy among British figures who saw much
+      merit in the skull cracking antics of Italy’s fascist leader – at least when things
+      seemed rather rosy. He points out the hobbling problems of those making such accusations,
+      given that a trial for Mussolini might well be justified alongside those of the
+      then current Prime Minister Winston Churchill, or former Prime Minister Ramsay
+      MacDonald, and even the Chinese Nationalist leader Chiang Kai-shek. When seeking
+      to place leaders of a country in the dock, be careful what you wish for.
+
+
+      To this day, it is forbidden to describe the sadistic and opportunistic killing
+      of Armenians within the proto-Turkish state that arose from the stricken body
+      of the Ottoman Empire as genocidal. Power, as always, smudges the record.
+
+
+      Given that Turkish prosecutors are not coming to the table with sprightly, clean
+      hands, any such move will cause not merely discomfort among human rights advocates
+      but stabbing derision from political critics. Israeli Foreign Minister Gideon
+      Sa’ar was quick to take up the challenge, observing that “in Erdogan’s Turkey,
+      the judiciary has long since become a tool for silencing political rivals and
+      detaining journalists, judges and mayors.” This is not a charge Erdoğan can be
+      easily acquitted of, given his successful efforts to bring the entire judiciary
+      under the control of the executive branch. Independent judges and prosecutors
+      have been imprisoned. Sympathetic Islamists and nationalists have swelled the
+      ranks.
+
+
+      In the United States, guffawing pundits can be found aplenty, poking fun at Türkiye’s
+      charges as “nonsense”. This remains stock practice in an imperium that adulates
+      international law even while battering it, suggesting an often-schizophrenic approach.
+      Michael Rubin, senior fellow at the American Enterprise Institute, offers a case
+      in point. Striking in his criticism of the Turkish effort, Rubin is worried about
+      the implications of targeting democratically elected leaders for how they mistreat
+      their own subjects. What of, say, violent acts and misdemeanours committed against
+      India’s Muslim minorities? It becomes clear that Rubin assumes that leaders of
+      democratic societies are above suspicion when it comes to human rights violations,
+      while Islamic states are opportunistic and villainous. “The Indian government,”
+      he broods, “should not ignore the outrage, for what Erdoğan targets Israel with
+      today, he will apply to India tomorrow.”
+
+
+      Were Erdoğan successful in getting any Israeli into court, it would “only be a
+      matter of time until he and his Pakistani, Qatari, and Malaysian allies try to
+      do the same with democratically elected Indian leaders like Prime Minister Narendra
+      Modi, and senior Indian diplomats and military officers as part of a similar ‘lawfare’
+      campaign to pursue their Kashmir and Khalistan ambitions.” (Notice the lazy bracketing
+      of all these states.)
+
+
+      This is not to say that charges of genocide won’t fly. The International Court
+      of Justice in The Hague is currently tasked with assessing Israel’s conduct in
+      Gaza, alleged by South Africa’s submission to be genocidal in nature. While the
+      judges have yet to reach a decision on the genocide question, they have made several
+      provisional orders cautioning Israel to abide by the UN Genocide Convention. The
+      UN Independent International Commission of Inquiry on the Occupied Palestinian
+      Territory was somewhat bolder, asserting in its September 16 report that four
+      of the five elements of genocide outlined in the Convention had been met by Israel’s
+      ruthless waging of war in the Strip. Innumerable civil society and human rights
+      organisations, including the Israeli human rights organisation B’Tselem, have
+      made similar findings.
+
+
+      Governments the world over often misuse international law as a pretext to attack
+      their enemies. This effort by the Turkish court system might be seen as another
+      play in the politicisation of human rights. But States and their legal organs
+      can also exercise universal jurisdiction in punishing the most abhorrent of crimes
+      – crimes against humanity, war crimes, genocide and torture. The other option,
+      one stubbornly resisted by Israel, the United States and Türkiye, is becoming
+      a party to the Rome Statute and International Criminal Court. In refusing to become
+      parties to the statute, all three are, at least on that score, in violent agreement.'
+    one_sentence_summary: Türkiye has issued arrest warrants for Israeli leaders, including
+      Prime Minister Benjamin Netanyahu, on charges of genocide and crimes against humanity,
+      raising questions about the consistency of its commitment to international humanitarian
+      law and the politicization of such legal actions.
+    paragraph_summary: The Turkish authorities have issued arrest warrants for Israeli
+      leaders, including Prime Minister Benjamin Netanyahu and Defense Minister Israel
+      Katz, on charges of genocide and crimes against humanity related to their actions
+      in Gaza, particularly the bombing of hospitals and the blockade of humanitarian
+      aid. This move, seen as politically motivated by the Erdoğan government, raises
+      questions about Turkey's own historical accountability for genocide, particularly
+      regarding the Armenian killings. Critics argue that Turkey's judiciary has been
+      compromised and used as a tool for political repression, undermining the legitimacy
+      of its accusations against Israel. Meanwhile, international reactions vary, with
+      some viewing Turkey's actions as hypocritical and others highlighting the broader
+      implications for international law and human rights. The International Court of
+      Justice is currently examining Israel's conduct in Gaza, with some reports suggesting
+      that elements of genocide may have occurred, while the politicization of human
+      rights and the misuse of international law remain contentious issues globally.
+    published: '2025-11-26T06:53:00+00:00'
   - title: Trump, the Crown Prince and Killing Khashoggi
     url: https://www.counterpunch.org/2025/11/25/trump-the-crown-prince-and-killing-khashoggi/
     text: 'The Saudi Arabian Crown Prince Mohammed bin Salman is at it again. Gulling,

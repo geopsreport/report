@@ -7,16 +7,602 @@ description: "27-year CIA analyst turned independent; co-founder of Veteran Inte
 websites:
   - https://consortiumnews.com
 summary: |
-  The ongoing crises in the Middle East and Europe continue to expose deep fractures in Western political systems and international law. Over the past 24 hours, new analysis has focused on the interplay between domestic politics in the UK, the legal handling of pro-Palestinian activism, and the broader implications for democratic accountability.
+  The ongoing erosion of journalistic integrity and the shifting landscape of global power remain central themes in recent analysis. On the anniversary of Gary Webb’s downfall, **Robert Parry**—as cited by Ray McGovern—reflects on December 9, 2004, as a watershed moment marking the U.S. press’s transition from a watchdog to a defender of entrenched interests. This context is crucial for understanding current media coverage of international affairs, where skepticism toward official narratives is increasingly warranted.
   
-  A significant development comes from the UK, where, according to **Jonathan Cook**, recent High Court decisions regarding terrorism laws are seen as strategic moves to shield Prime Minister Keir Starmer and his ministers from scrutiny over their support for Israel’s actions in Gaza. Cook contends that these legal maneuvers are less about security and more about insulating political leaders from public and legal accountability, suggesting a growing disconnect between government actions and democratic oversight.
+  Turning to transatlantic relations, **Alastair Crooke** critiques the latest U.S. National Security Strategy, which now openly concedes the failure of Washington’s quest for global primacy. European governments, according to Crooke, are in “panic” over the implications of a U.S. pivot toward stability with Russia, fearing diminished influence and strategic uncertainty. This signals a likely period of recalibration within NATO and the EU, as allies reassess their security postures and diplomatic priorities.
   
-  Meanwhile, **Mark Curtis** and **Laura Pidcock** argue that the UK's response to the Gaza conflict has laid bare the weaknesses of its democratic institutions. They emphasize that the atrocities in Israel and Gaza have catalyzed calls for a mass movement to address a range of systemic issues, not just foreign policy. This perspective reflects a broader trend of public dissatisfaction with the political establishment’s handling of international crises.
+  Meanwhile, the humanitarian impact of sanctions remains acute. A recent study highlighted by speakers from Cuba, Nicaragua, Palestine, and Venezuela—referenced in McGovern’s reporting—underscores the deadly toll of economic blockades, particularly on children under five. The Lancet’s findings are fueling renewed calls for international scrutiny and policy change, though immediate relief appears unlikely.
   
-  On the human side of the conflict, **Micaela Sahhar**’s personal account, as highlighted by Ray McGovern, underscores the enduring impact of displacement on Palestinian families. Her narrative serves as a reminder that the geopolitical struggle has profound and lasting effects on individual lives, reinforcing the urgency of finding a just resolution.
-  
-  Looking ahead, the majority of analysts agree that the current trajectory in both the UK and the Middle East points toward increased public mobilization and growing demands for accountability. There is a high chance that legal and political pressures will intensify, particularly as more citizens question the legitimacy of government actions. I guarantee that unless there is a significant policy shift, the disconnect between public sentiment and official policy will continue to widen, fueling further unrest and calls for reform.
+  Looking ahead, the majority view among analysts is that the credibility crisis in Western media will persist, most definitely shaping public perception and policy debates. There is a high chance that Europe’s anxiety over U.S.-Russia dynamics will translate into more assertive EU foreign policy initiatives. On sanctions, the evidence of humanitarian harm is mounting, but with entrenched political interests, significant policy shifts remain only quite likely in the medium term.
 articles:
+  - title: 'Dec. 9: A Day When Journalism Died'
+    url: https://consortiumnews.com/2025/12/09/dec-9-a-day-when-journalism-died/
+    text: 'Robert Parry wrote: Dec. 9 has a grim meaning for the U.S. Republic, the
+      date in 2004 when Gary Webb was driven to ruin by vindictive colleagues, demarcating
+      when the U.S. press went from protecting people to shielding corruption. By… Read
+      more →'
+    one_sentence_summary: Robert Parry reflects on December 9, 2004, as a pivotal date
+      marking the decline of the U.S. press from a protector of the public to a defender
+      of corruption, exemplified by the downfall of journalist Gary Webb.
+    paragraph_summary: In his article, Robert Parry reflects on the significance of
+      December 9, 2004, marking the downfall of journalist Gary Webb, whose investigative
+      work exposed government corruption and drug trafficking. Parry argues that this
+      date symbolizes a turning point for the U.S. press, which shifted from a role
+      of protecting the public to one of shielding corrupt practices. Webb's experience
+      serves as a cautionary tale about the consequences of challenging powerful interests
+      and the media's complicity in overlooking uncomfortable truths.
+    published: '2025-12-09T19:42:02+00:00'
+  - title: 'Dec. 9: A Day When Journalism Died'
+    url: https://consortiumnews.com/2025/12/09/dec-9-a-day-when-journalism-died/
+    text: 'Robert Parry wrote: Dec. 9 has a grim meaning for the U.S. Republic, the
+      date in 2004 when Gary Webb was driven to ruin by vindictive colleagues, demarcating
+      when the U.S. press went from protecting people to shielding corruption. By… Read
+      more →'
+    one_sentence_summary: Robert Parry reflects on December 9, 2004, as a pivotal date
+      marking the decline of the U.S. press from a protector of the public to a defender
+      of corruption, exemplified by the downfall of journalist Gary Webb.
+    paragraph_summary: In his article, Robert Parry reflects on the significance of
+      December 9, 2004, marking the downfall of journalist Gary Webb, whose investigative
+      work exposed government corruption and drug trafficking. Parry argues that this
+      date symbolizes a turning point for the U.S. press, which shifted from a role
+      of protecting the public to one of shielding corrupt practices. Webb's experience
+      serves as a cautionary tale about the consequences of challenging powerful interests
+      and the media's complicity in overlooking uncomfortable truths.
+    published: '2025-12-09T19:42:02+00:00'
+  - title: 'CN at 30: Why Bob Parry Started Consortium News'
+    url: https://consortiumnews.com/2025/12/09/cn-at-30-why-bob-parry-started-consortium-news/
+    text: Consortium News founder Robert Parry wrote this short history of the site
+      in 2011, explaining the principles that still guide CN after 30 years of continuous
+      publication. By Robert Parry Special to Consortium News CN at 30 In 1995, after
+      more than… Read more →
+    one_sentence_summary: Robert Parry reflects on the founding principles and enduring
+      mission of Consortium News, which has been continuously published for 30 years,
+      in a brief history he wrote in 2011.
+    paragraph_summary: In a 2011 piece, Consortium News founder Robert Parry reflects
+      on the site's 30-year history, outlining the guiding principles that have shaped
+      its mission since its inception in 1995. Parry emphasizes the importance of independent
+      journalism and the commitment to providing accurate, in-depth reporting that challenges
+      mainstream narratives. He highlights the challenges faced by the publication over
+      the years, including financial struggles and the evolving media landscape, while
+      reaffirming its dedication to truth and transparency in journalism.
+    published: '2025-12-09T19:00:01+00:00'
+  - title: 'CN at 30: Why Bob Parry Started Consortium News'
+    url: https://consortiumnews.com/2025/12/09/cn-at-30-why-bob-parry-started-consortium-news/
+    text: Consortium News founder Robert Parry wrote this short history of the site
+      in 2011, explaining the principles that still guide CN after 30 years of continuous
+      publication. By Robert Parry Special to Consortium News CN at 30 In 1995, after
+      more than… Read more →
+    one_sentence_summary: Robert Parry reflects on the founding principles and enduring
+      mission of Consortium News, which has been continuously published for 30 years,
+      in a brief history he wrote in 2011.
+    paragraph_summary: In a 2011 piece, Consortium News founder Robert Parry reflects
+      on the site's 30-year history, outlining the guiding principles that have shaped
+      its mission since its inception in 1995. Parry emphasizes the importance of independent
+      journalism and the commitment to providing accurate, in-depth reporting that challenges
+      mainstream narratives. He highlights the challenges faced by the publication over
+      the years, including financial struggles and the evolving media landscape, while
+      reaffirming its dedication to truth and transparency in journalism.
+    published: '2025-12-09T19:00:01+00:00'
+  - title: 'Hedges Report: The Toxic Pursuit of Greatness in Chess'
+    url: https://consortiumnews.com/2025/12/09/hedges-report-the-toxic-pursuit-of-greatness-in-chess/
+    text: Author and journalist Brin-Jonathan Butler chronicles the disturbing history
+      of chess’ greatest players and those obsessed with the game. By Chris Hedges The
+      Chris Hedges Report This interview is also available on podcast platforms and
+      Rumble. Achieving greatness requires immense sacrifice.… Read more →
+    one_sentence_summary: Brin-Jonathan Butler's work explores the troubling history
+      of chess's top players and the intense obsession surrounding the game, highlighting
+      the significant sacrifices required for greatness.
+    paragraph_summary: In an interview with Chris Hedges, author and journalist Brin-Jonathan
+      Butler explores the unsettling history of chess and its most prominent players,
+      delving into the intense dedication and sacrifices required to reach the pinnacle
+      of the game. Butler highlights the obsession that often accompanies the pursuit
+      of greatness in chess, revealing the darker aspects of the lives of those who
+      have achieved success in this intellectual sport. The discussion emphasizes the
+      complex relationship between ambition, sacrifice, and the psychological toll that
+      can accompany a lifelong commitment to mastery in chess.
+    published: '2025-12-09T17:00:19+00:00'
+  - title: 'Hedges Report: The Toxic Pursuit of Greatness in Chess'
+    url: https://consortiumnews.com/2025/12/09/hedges-report-the-toxic-pursuit-of-greatness-in-chess/
+    text: Author and journalist Brin-Jonathan Butler chronicles the disturbing history
+      of chess’ greatest players and those obsessed with the game. By Chris Hedges The
+      Chris Hedges Report This interview is also available on podcast platforms and
+      Rumble. Achieving greatness requires immense sacrifice.… Read more →
+    one_sentence_summary: Brin-Jonathan Butler's work explores the troubling history
+      of chess's top players and the intense obsession surrounding the game, highlighting
+      the significant sacrifices required for greatness.
+    paragraph_summary: In an interview with Chris Hedges, author and journalist Brin-Jonathan
+      Butler explores the unsettling history of chess and its most prominent players,
+      delving into the intense dedication and sacrifices required to reach the pinnacle
+      of the game. Butler highlights the obsession that often accompanies the pursuit
+      of greatness in chess, revealing the darker aspects of the lives of those who
+      have achieved success in this intellectual sport. The discussion emphasizes the
+      complex relationship between ambition, sacrifice, and the psychological toll that
+      can accompany a lifelong commitment to mastery in chess.
+    published: '2025-12-09T17:00:19+00:00'
+  - title: Europe in Panic Over US Strategy for Stability With Russia
+    url: https://consortiumnews.com/2025/12/08/europe-in-panic-over-us-strategy-for-stability-with-russia/
+    text: Alastair Crooke on the Trump administration’s most recent National Security
+      Strategy, which critiques U.S. pursuit of global primacy as a failure. By Alastair
+      Crooke Conflicts Forum  A National Security Strategy (NSS) is produced periodically
+      by U.S. administrations (President Donald Trump… Read more →
+    one_sentence_summary: Alastair Crooke critiques the Trump administration's National
+      Security Strategy for deeming the U.S. pursuit of global primacy a failure.
+    paragraph_summary: Alastair Crooke critiques the Trump administration's latest National
+      Security Strategy (NSS), arguing that it reflects a recognition of the failures
+      in the U.S. pursuit of global primacy. He suggests that the NSS indicates a shift
+      in understanding the limitations of American power and the complexities of international
+      relations, highlighting the need for a more realistic approach to national security
+      that acknowledges the changing global landscape.
+    published: '2025-12-09T02:43:59+00:00'
+  - title: Europe in Panic Over US Strategy for Stability With Russia
+    url: https://consortiumnews.com/2025/12/08/europe-in-panic-over-us-strategy-for-stability-with-russia/
+    text: Alastair Crooke on the Trump administration’s most recent National Security
+      Strategy, which critiques U.S. pursuit of global primacy as a failure. By Alastair
+      Crooke Conflicts Forum  A National Security Strategy (NSS) is produced periodically
+      by U.S. administrations (President Donald Trump… Read more →
+    one_sentence_summary: Alastair Crooke critiques the Trump administration's National
+      Security Strategy for deeming the U.S. pursuit of global primacy a failure.
+    paragraph_summary: Alastair Crooke critiques the Trump administration's latest National
+      Security Strategy (NSS), arguing that it reflects a recognition of the failures
+      in the U.S. pursuit of global primacy. He suggests that the NSS indicates a shift
+      in understanding the limitations of American power and the complexities of international
+      relations, highlighting the need for a more realistic approach to national security
+      that acknowledges the changing global landscape.
+    published: '2025-12-09T02:43:59+00:00'
+  - title: Sanctions Kill
+    url: https://consortiumnews.com/2025/12/08/sanctions-kill/
+    text: Speakers from four affected countries — Cuba, Nicaragua, Palestine and Venezuela
+      — describe the deadly toll of blockades and sanctions, particularly on children
+      under 5. By Jill Clark-Gollub and Margaret Flowers Popular Resistance  An October
+      study published in The Lancet… Read more →
+    one_sentence_summary: Speakers from Cuba, Nicaragua, Palestine, and Venezuela highlight
+      the severe impact of blockades and sanctions on children under five, emphasizing
+      the deadly consequences in a recent study published in The Lancet.
+    paragraph_summary: In an article by Jill Clark-Gollub and Margaret Flowers for Popular
+      Resistance, speakers from Cuba, Nicaragua, Palestine, and Venezuela highlight
+      the severe impact of blockades and sanctions on their nations, particularly emphasizing
+      the devastating effects on children under five years old. An October study published
+      in The Lancet underscores the deadly toll these economic measures impose, revealing
+      a humanitarian crisis that exacerbates malnutrition and health issues among vulnerable
+      populations in these countries.
+    published: '2025-12-08T19:04:07+00:00'
+  - title: Sanctions Kill
+    url: https://consortiumnews.com/2025/12/08/sanctions-kill/
+    text: Speakers from four affected countries — Cuba, Nicaragua, Palestine and Venezuela
+      — describe the deadly toll of blockades and sanctions, particularly on children
+      under 5. By Jill Clark-Gollub and Margaret Flowers Popular Resistance  An October
+      study published in The Lancet… Read more →
+    one_sentence_summary: Speakers from Cuba, Nicaragua, Palestine, and Venezuela highlight
+      the severe impact of blockades and sanctions on children under five, emphasizing
+      the deadly consequences in a recent study published in The Lancet.
+    paragraph_summary: In an article by Jill Clark-Gollub and Margaret Flowers for Popular
+      Resistance, speakers from Cuba, Nicaragua, Palestine, and Venezuela highlight
+      the severe impact of blockades and sanctions on their nations, particularly emphasizing
+      the devastating effects on children under five years old. An October study published
+      in The Lancet underscores the deadly toll these economic measures impose, revealing
+      a humanitarian crisis that exacerbates malnutrition and health issues among vulnerable
+      populations in these countries.
+    published: '2025-12-08T19:04:07+00:00'
+  - title: How a New UN Secretary-General is Chosen
+    url: https://consortiumnews.com/2025/12/08/how-a-new-un-secretary-general-is-chosen/
+    text: A look at the complicated process that has evolved to choose the next U.N.
+      secretary general who will assume office in 2027.  Ben Donaldson reports. By Ben
+      Donaldson PassBlue As the United Nations gears up to select its next leader… Read
+      more →
+    one_sentence_summary: The article by Ben Donaldson examines the intricate procedures
+      involved in selecting the next U.N. secretary general, who is set to take office
+      in 2027.
+    paragraph_summary: The article by Ben Donaldson explores the intricate and evolving
+      process of selecting the next United Nations Secretary-General, who is set to
+      take office in 2027. It highlights the complexities involved in the selection,
+      including the political dynamics among member states, the need for transparency,
+      and the importance of gender and regional representation. As the U.N. prepares
+      for this significant leadership transition, various factors and considerations
+      come into play, shaping the future of the organization and its global impact.
+    published: '2025-12-08T17:00:03+00:00'
+  - title: How a New UN Secretary-General is Chosen
+    url: https://consortiumnews.com/2025/12/08/how-a-new-un-secretary-general-is-chosen/
+    text: A look at the complicated process that has evolved to choose the next U.N.
+      secretary general who will assume office in 2027.  Ben Donaldson reports. By Ben
+      Donaldson PassBlue As the United Nations gears up to select its next leader… Read
+      more →
+    one_sentence_summary: The article by Ben Donaldson examines the intricate procedures
+      involved in selecting the next U.N. secretary general, who is set to take office
+      in 2027.
+    paragraph_summary: The article by Ben Donaldson explores the intricate and evolving
+      process of selecting the next United Nations Secretary-General, who is set to
+      take office in 2027. It highlights the complexities involved in the selection,
+      including the political dynamics among member states, the need for transparency,
+      and the importance of gender and regional representation. As the U.N. prepares
+      for this significant leadership transition, various factors and considerations
+      come into play, shaping the future of the organization and its global impact.
+    published: '2025-12-08T17:00:03+00:00'
+  - title: Israel’s Continued Defiance of World Court & UN
+    url: https://consortiumnews.com/2025/12/08/israels-continued-defiance-of-world-court-un/
+    text: 'Mona Ali Khalil says the U.N. chief has a duty to take further measures to
+      restrain Israel as it escalates and expands its violations of international humanitarian
+      and rights law. Update: Israeli police raided a U.N. office in Jerusalem on… Read
+      more →'
+    one_sentence_summary: Mona Ali Khalil urges the U.N. chief to take stronger action
+      against Israel for its increasing violations of international humanitarian and
+      rights law, amidst reports of Israeli police raiding a U.N. office in Jerusalem.
+    paragraph_summary: Mona Ali Khalil emphasizes that the U.N. chief must take stronger
+      actions to limit Israel's increasing violations of international humanitarian
+      and human rights laws. This call for action comes amid reports of Israeli police
+      conducting a raid on a U.N. office in Jerusalem, highlighting the ongoing tensions
+      and the need for the U.N. to address these escalating issues.
+    published: '2025-12-08T12:25:47+00:00'
+  - title: Israel’s Continued Defiance of World Court & UN
+    url: https://consortiumnews.com/2025/12/08/israels-continued-defiance-of-world-court-un/
+    text: 'Mona Ali Khalil says the U.N. chief has a duty to take further measures to
+      restrain Israel as it escalates and expands its violations of international humanitarian
+      and rights law. Update: Israeli police raided a U.N. office in Jerusalem on… Read
+      more →'
+    one_sentence_summary: Mona Ali Khalil urges the U.N. chief to take stronger action
+      against Israel for its increasing violations of international humanitarian and
+      rights law, amidst reports of Israeli police raiding a U.N. office in Jerusalem.
+    paragraph_summary: Mona Ali Khalil emphasizes that the U.N. chief must take stronger
+      actions to limit Israel's increasing violations of international humanitarian
+      and human rights laws. This call for action comes amid reports of Israeli police
+      conducting a raid on a U.N. office in Jerusalem, highlighting the ongoing tensions
+      and the need for the U.N. to address these escalating issues.
+    published: '2025-12-08T12:25:47+00:00'
+  - title: 'Vijay Prashad: Capitalist Climate Catastrophe'
+    url: https://consortiumnews.com/2025/12/06/vijay-prashad-capitalist-climate-catastrophe/
+    text: 'As Global North countries fail to meet their climate finance obligations,
+      the U.N.’s climate meetings have become sites of struggle for countries of the
+      Global South. By Vijay Prashad Tricontinental: Institute for Social Research During
+      the closing plenaries of the 30th Conference… Read more →'
+    one_sentence_summary: The article discusses how the failure of Global North countries
+      to fulfill their climate finance commitments has turned U.N. climate meetings
+      into battlegrounds for Global South nations advocating for their rights and needs
+      in addressing climate change.
+    paragraph_summary: The article by Vijay Prashad discusses how Global North countries
+      are not fulfilling their climate finance commitments, leading to increased tensions
+      at U.N. climate meetings, particularly for nations in the Global South. These
+      meetings have transformed into battlegrounds where developing countries advocate
+      for the financial support necessary to combat climate change, highlighting the
+      disparities in responsibility and resources between the Global North and South.
+      The failure to meet these obligations exacerbates existing inequalities and undermines
+      global efforts to address climate challenges.
+    published: '2025-12-06T09:38:33+00:00'
+  - title: 'Vijay Prashad: Capitalist Climate Catastrophe'
+    url: https://consortiumnews.com/2025/12/06/vijay-prashad-capitalist-climate-catastrophe/
+    text: 'As Global North countries fail to meet their climate finance obligations,
+      the U.N.’s climate meetings have become sites of struggle for countries of the
+      Global South. By Vijay Prashad Tricontinental: Institute for Social Research During
+      the closing plenaries of the 30th Conference… Read more →'
+    one_sentence_summary: The article discusses how the failure of Global North countries
+      to fulfill their climate finance commitments has turned U.N. climate meetings
+      into battlegrounds for Global South nations advocating for their rights and needs
+      in addressing climate change.
+    paragraph_summary: The article by Vijay Prashad discusses how Global North countries
+      are not fulfilling their climate finance commitments, leading to increased tensions
+      at U.N. climate meetings, particularly for nations in the Global South. These
+      meetings have transformed into battlegrounds where developing countries advocate
+      for the financial support necessary to combat climate change, highlighting the
+      disparities in responsibility and resources between the Global North and South.
+      The failure to meet these obligations exacerbates existing inequalities and undermines
+      global efforts to address climate challenges.
+    published: '2025-12-06T09:38:33+00:00'
+  - title: Did Trump Pressure Starmer to Ban Palestine Action?
+    url: https://consortiumnews.com/2025/12/05/did-trump-pressure-starmer-to-ban-palestine-action/
+    text: Conversations between the two leaders came up during the direct action group’s
+      legal challenge to its proscription at the High Court last week, John McEvoy and
+      Dania Akkad report. By John McEvoy and Dania Akkad Declassified UK The British
+      government’s Cabinet… Read more →
+    one_sentence_summary: The article discusses how conversations between two leaders
+      were mentioned during a legal challenge by a direct action group against its proscription
+      at the High Court.
+    paragraph_summary: The article discusses a legal challenge by a direct action group
+      against its proscription, which was highlighted during a High Court hearing. It
+      reveals that conversations between two leaders were mentioned in this context,
+      as reported by John McEvoy and Dania Akkad from Declassified UK. The implications
+      of these discussions and the government's Cabinet involvement are central to the
+      ongoing legal proceedings.
+    published: '2025-12-05T19:54:50+00:00'
+  - title: Did Trump Pressure Starmer to Ban Palestine Action?
+    url: https://consortiumnews.com/2025/12/05/did-trump-pressure-starmer-to-ban-palestine-action/
+    text: Conversations between the two leaders came up during the direct action group’s
+      legal challenge to its proscription at the High Court last week, John McEvoy and
+      Dania Akkad report. By John McEvoy and Dania Akkad Declassified UK The British
+      government’s Cabinet… Read more →
+    one_sentence_summary: The article discusses how conversations between two leaders
+      were mentioned during a legal challenge by a direct action group against its proscription
+      at the High Court.
+    paragraph_summary: The article discusses a legal challenge by a direct action group
+      against its proscription, which was highlighted during a High Court hearing. It
+      reveals that conversations between two leaders were mentioned in this context,
+      as reported by John McEvoy and Dania Akkad from Declassified UK. The implications
+      of these discussions and the government's Cabinet involvement are central to the
+      ongoing legal proceedings.
+    published: '2025-12-05T19:54:50+00:00'
+  - title: Selling Out Australian Sovereignty
+    url: https://consortiumnews.com/2025/12/05/selling-out-australian-sovereignty/
+    text: Revelations of secret F-35 fighter jet parts shipments to Israel have exposed
+      a yawning hole in Australia’s sovereign national defence, writes Peter Cronau.
+      By Peter Cronau Declassified Australia This Declassified Australia investigation
+      is published in partnership with investigative news site,… Read more →
+    one_sentence_summary: An investigation reveals that secret shipments of F-35 fighter
+      jet parts to Israel highlight significant vulnerabilities in Australia's national
+      defense capabilities.
+    paragraph_summary: An investigation by Peter Cronau reveals that secret shipments
+      of F-35 fighter jet parts to Israel have highlighted significant vulnerabilities
+      in Australia's national defense sovereignty. The findings raise concerns about
+      the implications of such undisclosed transactions on Australia's military independence
+      and security strategy. The article emphasizes the need for greater transparency
+      and scrutiny regarding defense procurement and international military collaborations.
+    published: '2025-12-05T17:00:31+00:00'
+  - title: Selling Out Australian Sovereignty
+    url: https://consortiumnews.com/2025/12/05/selling-out-australian-sovereignty/
+    text: Revelations of secret F-35 fighter jet parts shipments to Israel have exposed
+      a yawning hole in Australia’s sovereign national defence, writes Peter Cronau.
+      By Peter Cronau Declassified Australia This Declassified Australia investigation
+      is published in partnership with investigative news site,… Read more →
+    one_sentence_summary: An investigation reveals that secret shipments of F-35 fighter
+      jet parts to Israel highlight significant vulnerabilities in Australia's national
+      defense capabilities.
+    paragraph_summary: An investigation by Peter Cronau reveals that secret shipments
+      of F-35 fighter jet parts to Israel have highlighted significant vulnerabilities
+      in Australia's national defense sovereignty. The findings raise concerns about
+      the implications of such undisclosed transactions on Australia's military independence
+      and security strategy. The article emphasizes the need for greater transparency
+      and scrutiny regarding defense procurement and international military collaborations.
+    published: '2025-12-05T17:00:31+00:00'
+  - title: 'Jonathan Cook: UK Hunger Strike Is Not Being Televised'
+    url: https://consortiumnews.com/2025/12/05/jonathan-cook-uk-hunger-strike-is-not-being-televised/
+    text: Even Palestinian hunger strikers held illegally in Israeli jails receive more
+      coverage from the Israeli press than Palestine Action’s political prisoners are
+      getting in Britain.  By Jonathan Cook Jonathan-Cook.net If we truly had a free
+      media in the U.K., rather… Read more →
+    one_sentence_summary: The article argues that Palestinian hunger strikers in Israeli
+      jails receive more media attention in Israel than political prisoners associated
+      with Palestine Action do in the U.K., highlighting a disparity in media coverage.
+    paragraph_summary: In his article, Jonathan Cook argues that Palestinian hunger
+      strikers imprisoned in Israel receive more media attention from the Israeli press
+      than political prisoners associated with Palestine Action do in the UK. He suggests
+      that this disparity highlights a lack of true freedom in the British media, which
+      fails to adequately cover issues related to political dissent and activism. Cook
+      emphasizes the need for greater awareness and coverage of these political prisoners
+      in Britain to ensure a more balanced and just representation of their struggles.
+    published: '2025-12-05T09:37:10+00:00'
+  - title: 'Jonathan Cook: UK Hunger Strike Is Not Being Televised'
+    url: https://consortiumnews.com/2025/12/05/jonathan-cook-uk-hunger-strike-is-not-being-televised/
+    text: Even Palestinian hunger strikers held illegally in Israeli jails receive more
+      coverage from the Israeli press than Palestine Action’s political prisoners are
+      getting in Britain.  By Jonathan Cook Jonathan-Cook.net If we truly had a free
+      media in the U.K., rather… Read more →
+    one_sentence_summary: The article argues that Palestinian hunger strikers in Israeli
+      jails receive more media attention in Israel than political prisoners associated
+      with Palestine Action do in the U.K., highlighting a disparity in media coverage.
+    paragraph_summary: In his article, Jonathan Cook argues that Palestinian hunger
+      strikers imprisoned in Israel receive more media attention from the Israeli press
+      than political prisoners associated with Palestine Action do in the UK. He suggests
+      that this disparity highlights a lack of true freedom in the British media, which
+      fails to adequately cover issues related to political dissent and activism. Cook
+      emphasizes the need for greater awareness and coverage of these political prisoners
+      in Britain to ensure a more balanced and just representation of their struggles.
+    published: '2025-12-05T09:37:10+00:00'
+  - title: CN Launches Winter Fund Appeal
+    url: https://consortiumnews.com/2025/12/04/cn-launches-winter-fund-appeal/
+    text: Consortium News today launches its end-of year, tax-deductible, Winter Fund
+      Drive as it celebrates 30 years of unmatched independent journalism. Please donate
+      today! Please Donate to CN’s 30th Anniversary Winter Fund Drive Read more →
+    one_sentence_summary: Consortium News is kicking off its Winter Fund Drive to celebrate
+      30 years of independent journalism and is encouraging donations to support its
+      efforts.
+    paragraph_summary: Consortium News has initiated its Winter Fund Drive to celebrate
+      30 years of independent journalism, inviting readers to contribute tax-deductible
+      donations to support its mission. The campaign emphasizes the importance of sustaining
+      quality journalism and encourages immediate donations to help continue its work.
+    published: '2025-12-05T00:13:59+00:00'
+  - title: CN Launches Winter Fund Appeal
+    url: https://consortiumnews.com/2025/12/04/cn-launches-winter-fund-appeal/
+    text: Consortium News today launches its end-of year, tax-deductible, Winter Fund
+      Drive as it celebrates 30 years of unmatched independent journalism. Please donate
+      today! Please Donate to CN’s 30th Anniversary Winter Fund Drive Read more →
+    one_sentence_summary: Consortium News is kicking off its Winter Fund Drive to celebrate
+      30 years of independent journalism and is encouraging donations to support its
+      efforts.
+    paragraph_summary: Consortium News has initiated its Winter Fund Drive to celebrate
+      30 years of independent journalism, inviting readers to contribute tax-deductible
+      donations to support its mission. The campaign emphasizes the importance of sustaining
+      quality journalism and encourages immediate donations to help continue its work.
+    published: '2025-12-05T00:13:59+00:00'
+  - title: The Richest Men in the World Are Media Moguls
+    url: https://consortiumnews.com/2025/12/04/the-richest-men-in-the-world-are-media-moguls/
+    text: Alan MacLeod on the capture of media systems by the planet’s mega-rich and
+      the existential threat that poses to an open society and the free flow of information.
+      By Alan MacLeod MintPress News Trump loyalist and C.I.A. contractor Larry Ellison’s…
+      Read more →
+    one_sentence_summary: Alan MacLeod discusses how the dominance of mega-rich individuals
+      over media systems threatens open societies and the free flow of information.
+    paragraph_summary: In his article, Alan MacLeod discusses how the concentration
+      of media ownership among the ultra-wealthy, exemplified by figures like Trump
+      supporter and CIA contractor Larry Ellison, poses a significant threat to open
+      societies and the free flow of information. MacLeod argues that this consolidation
+      undermines democratic discourse and public access to diverse viewpoints, ultimately
+      endangering the very foundations of a healthy, informed society.
+    published: '2025-12-04T19:00:27+00:00'
+  - title: The Richest Men in the World Are Media Moguls
+    url: https://consortiumnews.com/2025/12/04/the-richest-men-in-the-world-are-media-moguls/
+    text: Alan MacLeod on the capture of media systems by the planet’s mega-rich and
+      the existential threat that poses to an open society and the free flow of information.
+      By Alan MacLeod MintPress News Trump loyalist and C.I.A. contractor Larry Ellison’s…
+      Read more →
+    one_sentence_summary: Alan MacLeod discusses how the dominance of mega-rich individuals
+      over media systems threatens open societies and the free flow of information.
+    paragraph_summary: In his article, Alan MacLeod discusses how the concentration
+      of media ownership among the ultra-wealthy, exemplified by figures like Trump
+      supporter and CIA contractor Larry Ellison, poses a significant threat to open
+      societies and the free flow of information. MacLeod argues that this consolidation
+      undermines democratic discourse and public access to diverse viewpoints, ultimately
+      endangering the very foundations of a healthy, informed society.
+    published: '2025-12-04T19:00:27+00:00'
+  - title: Murder for Christmas?
+    url: https://consortiumnews.com/2025/12/04/murder-for-christmas/
+    text: By ordering the annihilation of people in speedboats in the Caribbean, Trump
+      and Hegseth have assumed powers that numerous laws forbid, writes Andrew P. Napolitano.
+      By Andrew P. Napolitano When Secretary of Defense Pete Hegseth posted a meme of
+      Franklin… Read more →
+    one_sentence_summary: Andrew P. Napolitano argues that Trump and Secretary of Defense
+      Pete Hegseth have overstepped legal boundaries by endorsing the violent elimination
+      of individuals in speedboats in the Caribbean.
+    paragraph_summary: In an article by Andrew P. Napolitano, he critiques former President
+      Trump and Secretary of Defense Pete Hegseth for allegedly overstepping legal boundaries
+      by endorsing the violent elimination of individuals in speedboats in the Caribbean.
+      Napolitano argues that such actions violate numerous laws and reflect a dangerous
+      assumption of power by Trump and Hegseth, highlighting the implications of their
+      rhetoric on governance and legality.
+    published: '2025-12-04T17:00:18+00:00'
+  - title: Murder for Christmas?
+    url: https://consortiumnews.com/2025/12/04/murder-for-christmas/
+    text: By ordering the annihilation of people in speedboats in the Caribbean, Trump
+      and Hegseth have assumed powers that numerous laws forbid, writes Andrew P. Napolitano.
+      By Andrew P. Napolitano When Secretary of Defense Pete Hegseth posted a meme of
+      Franklin… Read more →
+    one_sentence_summary: Andrew P. Napolitano argues that Trump and Secretary of Defense
+      Pete Hegseth have overstepped legal boundaries by endorsing the violent elimination
+      of individuals in speedboats in the Caribbean.
+    paragraph_summary: In an article by Andrew P. Napolitano, he critiques former President
+      Trump and Secretary of Defense Pete Hegseth for allegedly overstepping legal boundaries
+      by endorsing the violent elimination of individuals in speedboats in the Caribbean.
+      Napolitano argues that such actions violate numerous laws and reflect a dangerous
+      assumption of power by Trump and Hegseth, highlighting the implications of their
+      rhetoric on governance and legality.
+    published: '2025-12-04T17:00:18+00:00'
+  - title: 'RAY McGOVERN: Trump Ukraine Plan AOA (Alive on Arrival)'
+    url: https://consortiumnews.com/2025/12/04/ray-mcgovern-trump-ukraine-plan-aoa-alive-on-arrival/
+    text: Yury Ushakov, Putin’s man on Ukraine, said there’s no firm plan for Ukraine
+      yet and some American ideas are acceptable to Russia, some not.  But the plan
+      is not dead. By Ray McGovern Special to Consortium News Despite widespread rejection…
+      Read more →
+    one_sentence_summary: Yury Ushakov stated that while there is no definitive plan
+      for Ukraine and some American proposals are acceptable to Russia, the overall
+      plan is still alive despite widespread rejection.
+    paragraph_summary: Yury Ushakov, a key advisor to Putin regarding Ukraine, indicated
+      that while there is no definitive plan in place for Ukraine, some American proposals
+      are acceptable to Russia while others are not. He emphasized that the plan is
+      still alive despite facing significant rejection. This statement reflects the
+      ongoing complexities and negotiations surrounding the situation in Ukraine, as
+      discussed by Ray McGovern in his piece for Consortium News.
+    published: '2025-12-04T06:56:06+00:00'
+  - title: 'RAY McGOVERN: Trump Ukraine Plan AOA (Alive on Arrival)'
+    url: https://consortiumnews.com/2025/12/04/ray-mcgovern-trump-ukraine-plan-aoa-alive-on-arrival/
+    text: Yury Ushakov, Putin’s man on Ukraine, said there’s no firm plan for Ukraine
+      yet and some American ideas are acceptable to Russia, some not.  But the plan
+      is not dead. By Ray McGovern Special to Consortium News Despite widespread rejection…
+      Read more →
+    one_sentence_summary: Yury Ushakov stated that while there is no definitive plan
+      for Ukraine and some American proposals are acceptable to Russia, the overall
+      plan is still alive despite widespread rejection.
+    paragraph_summary: Yury Ushakov, a key advisor to Putin regarding Ukraine, indicated
+      that while there is no definitive plan in place for Ukraine, some American proposals
+      are acceptable to Russia while others are not. He emphasized that the plan is
+      still alive despite facing significant rejection. This statement reflects the
+      ongoing complexities and negotiations surrounding the situation in Ukraine, as
+      discussed by Ray McGovern in his piece for Consortium News.
+    published: '2025-12-04T06:56:06+00:00'
+  - title: Cheney Died, Mamdani Won; Has a New Era Begun?
+    url: https://consortiumnews.com/2025/12/03/cheney-died-mamdani-won-has-a-new-era-begun/
+    text: Dick Cheney died the day before Zohran Mamdani was elected NYC mayor. His
+      funeral was the day before Mamdani met Trump. Are the two linked in a symbolic
+      changing of the guard of U.S. politics? asks Joe Lauria. By Joe… Read more →
+    one_sentence_summary: Joe Lauria explores the symbolic significance of the timing
+      of Dick Cheney's death and funeral in relation to Zohran Mamdani's election as
+      NYC mayor and his subsequent meeting with Trump, suggesting a potential shift
+      in U.S. politics.
+    paragraph_summary: The article by Joe Lauria explores the symbolic significance
+      of the timing surrounding the death of former Vice President Dick Cheney and the
+      election of Zohran Mamdani as NYC mayor. Cheney's passing occurred just before
+      Mamdani's election, and his funeral took place a day before Mamdani's meeting
+      with former President Trump. Lauria raises the question of whether these events
+      represent a metaphorical shift in U.S. politics, suggesting a potential changing
+      of the guard between established political figures and a new generation of leaders.
+    published: '2025-12-03T19:00:56+00:00'
+  - title: Cheney Died, Mamdani Won; Has a New Era Begun?
+    url: https://consortiumnews.com/2025/12/03/cheney-died-mamdani-won-has-a-new-era-begun/
+    text: Dick Cheney died the day before Zohran Mamdani was elected NYC mayor. His
+      funeral was the day before Mamdani met Trump. Are the two linked in a symbolic
+      changing of the guard of U.S. politics? asks Joe Lauria. By Joe… Read more →
+    one_sentence_summary: Joe Lauria explores the symbolic significance of the timing
+      of Dick Cheney's death and funeral in relation to Zohran Mamdani's election as
+      NYC mayor and his subsequent meeting with Trump, suggesting a potential shift
+      in U.S. politics.
+    paragraph_summary: The article by Joe Lauria explores the symbolic significance
+      of the timing surrounding the death of former Vice President Dick Cheney and the
+      election of Zohran Mamdani as NYC mayor. Cheney's passing occurred just before
+      Mamdani's election, and his funeral took place a day before Mamdani's meeting
+      with former President Trump. Lauria raises the question of whether these events
+      represent a metaphorical shift in U.S. politics, suggesting a potential changing
+      of the guard between established political figures and a new generation of leaders.
+    published: '2025-12-03T19:00:56+00:00'
+  - title: 'PATRICK LAWRENCE: Zionism on the Upper East Side'
+    url: https://consortiumnews.com/2025/12/03/patrick-lawrence-zionism-on-the-upper-east-side/
+    text: What has lately transpired in the New York of Zohran Mamdani is a very direct
+      extension of the impunity that encourages and protects the Israeli terror machine
+      in Gaza and the West Bank. By Patrick Lawrence Special to Consortium News We…
+      Read more →
+    one_sentence_summary: The article argues that recent events involving Zohran Mamdani
+      in New York reflect the broader impunity that supports Israeli actions in Gaza
+      and the West Bank.
+    paragraph_summary: The article by Patrick Lawrence discusses the recent events in
+      New York involving Zohran Mamdani, highlighting how they reflect a broader issue
+      of impunity that supports Israeli actions in Gaza and the West Bank. Lawrence
+      argues that the situation illustrates a systemic protection of violence and oppression,
+      drawing parallels between local incidents and the ongoing conflict in the region.
+      The piece emphasizes the need for accountability and a reevaluation of the prevailing
+      narratives surrounding these issues.
+    published: '2025-12-03T17:00:07+00:00'
+  - title: 'PATRICK LAWRENCE: Zionism on the Upper East Side'
+    url: https://consortiumnews.com/2025/12/03/patrick-lawrence-zionism-on-the-upper-east-side/
+    text: What has lately transpired in the New York of Zohran Mamdani is a very direct
+      extension of the impunity that encourages and protects the Israeli terror machine
+      in Gaza and the West Bank. By Patrick Lawrence Special to Consortium News We…
+      Read more →
+    one_sentence_summary: The article argues that recent events involving Zohran Mamdani
+      in New York reflect the broader impunity that supports Israeli actions in Gaza
+      and the West Bank.
+    paragraph_summary: The article by Patrick Lawrence discusses the recent events in
+      New York involving Zohran Mamdani, highlighting how they reflect a broader issue
+      of impunity that supports Israeli actions in Gaza and the West Bank. Lawrence
+      argues that the situation illustrates a systemic protection of violence and oppression,
+      drawing parallels between local incidents and the ongoing conflict in the region.
+      The piece emphasizes the need for accountability and a reevaluation of the prevailing
+      narratives surrounding these issues.
+    published: '2025-12-03T17:00:07+00:00'
+  - title: 'Patrick Lawrence:  Pardon Me?'
+    url: https://consortiumnews.com/2025/12/03/patrick-lawrence-pardon-me/
+    text: The festival of pardons that now features prominently in America’s political
+      life offers a measure of how the republic, in its late-imperial phase, is crumbing.
+      By Patrick Lawrence  ScheerPost Wandering among the media over the Thanksgiving
+      weekend…. I read that President… Read more →
+    one_sentence_summary: The article discusses how the prominence of the festival of
+      pardons in American politics reflects the decline of the republic during its late-imperial
+      phase.
+    paragraph_summary: The article by Patrick Lawrence discusses the significance of
+      the festival of pardons in American political life, suggesting that it reflects
+      the declining state of the republic in what he describes as its late-imperial
+      phase. The author observes that this tradition, highlighted during the Thanksgiving
+      weekend, serves as a barometer for the broader issues facing the nation, indicating
+      a sense of decay and disillusionment within the political system.
+    published: '2025-12-03T06:14:23+00:00'
+  - title: 'Patrick Lawrence:  Pardon Me?'
+    url: https://consortiumnews.com/2025/12/03/patrick-lawrence-pardon-me/
+    text: The festival of pardons that now features prominently in America’s political
+      life offers a measure of how the republic, in its late-imperial phase, is crumbing.
+      By Patrick Lawrence  ScheerPost Wandering among the media over the Thanksgiving
+      weekend…. I read that President… Read more →
+    one_sentence_summary: The article discusses how the prominence of the festival of
+      pardons in American politics reflects the decline of the republic during its late-imperial
+      phase.
+    paragraph_summary: The article by Patrick Lawrence discusses the significance of
+      the festival of pardons in American political life, suggesting that it reflects
+      the declining state of the republic in what he describes as its late-imperial
+      phase. The author observes that this tradition, highlighted during the Thanksgiving
+      weekend, serves as a barometer for the broader issues facing the nation, indicating
+      a sense of decay and disillusionment within the political system.
+    published: '2025-12-03T06:14:23+00:00'
   - title: 'Hedges Report: Erasing Palestine'
     url: https://consortiumnews.com/2025/12/02/hedges-report-erasing-palestine/
     text: Micaela Sahhar reframes monumental events in Palestinian history through an
