@@ -7,14 +7,398 @@ description: "Richard Falk is an international law and international relations s
 websites:
   - https://richardfalk.org/
 summary: |
-  The Gaza conflict remains at the forefront of international concern, with the recent Istanbul Statement from the Gaza Tribunal’s Steering Committee underscoring the ongoing crisis despite a declared ceasefire between Israel and Hamas. The Tribunal, a civil society initiative, concluded its final session in Istanbul, focusing on the continued suffering of Palestinians and the urgent need for justice and accountability.
+  As the year draws to a close, the geopolitical landscape remains dominated by the ongoing crisis in Gaza and the broader implications for the post-1945 world order. The persistent violence and humanitarian catastrophe in Gaza have exposed the limitations of international institutions, particularly the United Nations, in upholding justice and enforcing legal commitments. **Richard Falk** observes that the UN’s failure to intervene effectively has underscored the primacy of power politics over the rule of law, a trend that is “most definitely” accelerating the erosion of the legitimacy of the international system.
   
-  According to **Richard Falk**, the Istanbul Statement unequivocally condemns what it terms the “ongoing genocide in Palestine,” emphasizing that the ceasefire has not halted the underlying conditions of violence and dispossession. The Tribunal’s findings call for the inclusion of Palestinian rights as a central pillar in any sustainable peace process, highlighting the inadequacy of current diplomatic efforts that overlook these fundamental issues.
+  Recent civil society initiatives, such as the Gaza Tribunal in Istanbul, have sought to fill the accountability vacuum left by state actors. The Tribunal’s final statement, as reported by **Richard Falk**, condemned the ongoing “genocide in Palestine” and called for the inclusion of Palestinian rights in any future peace process. Despite a formal ceasefire between Israel and Hamas, the Tribunal’s findings highlight that the underlying issues—Palestinian erasure, lack of justice, and continued suffering—remain unresolved.
   
-  The Tribunal’s jury, composed of diverse international figures, sought to counteract state-driven narratives and media bias, aiming to present an unfiltered account of Palestinian experiences post-October 7, 2023. **Falk** notes that this approach reflects a growing disillusionment with official channels and a turn toward grassroots mechanisms for truth and justice.
+  Diplomatic efforts for Palestinian statehood have gained some momentum, with new recognitions in recent months. However, **Richard Falk** notes that these gestures are largely symbolic in the absence of genuine political will from Israel and the United States to facilitate a viable two-state solution. The expansion of Israeli settlements and the lack of meaningful negotiations continue to undermine prospects for Palestinian self-determination.
   
-  Looking ahead, the consensus among analysts is that without significant shifts in international policy—particularly from the US and EU—towards imposing real consequences for Israeli actions, the situation in Gaza is unlikely to improve. There is a high chance that calls for justice and accountability will intensify, with civil society initiatives gaining further prominence in the absence of effective state action. Most definitely, the inclusion of Palestinian rights in peace negotiations will remain a non-negotiable demand for any meaningful resolution.
+  Looking ahead, the majority of independent analysts cited by **Richard Falk** predict with high confidence that the current trajectory—marked by international inaction, deepening humanitarian crises, and the sidelining of Palestinian rights—will persist into 2026. Civil society initiatives may continue to draw attention to the crisis, but without a fundamental shift in the approach of major powers, the prospects for a just and lasting resolution remain bleak.
 articles:
+  - title: Three Poems of Struggle Against ‘The Dying of the Light’
+    url: https://richardfalk.org/2025/12/15/three-poems-of-struggle-against-the-dying-of-the-light/
+    text: '[ Prefat ory Note : These three recent poems of mine are published here as
+      a humble seasonal offering that is both alarmed by the ambience of darkness and
+      encouraged by glimmers. Poetry is also my mode of speaking when normal language
+      is stymied by unspeakable happenings. For me poetry–whether read or written is
+      a valuable resource for me. I self-published a book of poems a few years ago with
+      the title Waiting for Rainbows. I find myself still waiting. Read with gentle
+      eyes.] The End of the Road? I yearn to know the future and yet my dreams seem
+      grayer than an overcast sky crystal balls roll toward the sea clouded over of
+      no use a captivity of time thou shall not pass this gate now never thou shall
+      not KNOW Condemned to die At this gate barring entry ghosted by eternal curiosity
+      What is to come will be foretold after a light from above or within shines green
+      by day and night through all seasons at the end of the road where you will be
+      waiting and only for me Richard Falk Yalikavak, Turkey August 19, 2025 Rev. December
+      15, 2025 Aspiring Royalism As if a crown prince impatient for a crown to fall
+      from heaven a dark miracle landing on his head Not accidentally Nor dynastically
+      The American way stealth and wealth overt crime as needed Upending history is
+      part of the story after all if the Confederacy is reborn Why not the American
+      Revolution an outworn pride to restore the worst to renounce the best Keeping
+      the pomp hiding the circumstance indulging in state dinners while being indulged
+      By the ghost royalty of a dying kingdom and dying king the pageantry alone survives
+      This is America where kings ascend the throne by stealth and wealth No need for
+      coronations or dynastic entitlements in MAGA Amerika Enough to glow in pale light
+      cast by reigning oligarchs Reinventing the glitter with guns swag and swagger
+      of salutes and sheiks Farewell to nightmares of freedom and equality diversity
+      inclusion remembering forgetting At this time once proud citizens bend their knees
+      comply by plunder This is not America This is the New America Like the New Middle
+      East The sun no longer rises Over deserts of the spirit Darkness prevails glimmers
+      of light here and there signposts of hope Awaiting coronations of evil before
+      the next dawn s Richard Falk September 21, 2025 Yalikavak, Turkey/Rev. December
+      15, 2025 Advice to a Novice Poet Why waste words seeking truth or beauty on these
+      arid starless nights My ancient brain instructs My heart shuts down as storm clouds
+      Gather above the earth hauntingly Dooming human destiny endangered As never before
+      even more As endangered as snow leopards With no church bells ringing stillness
+      seems better Hanging out in gardens clinging to solitude On lookout for wildfires
+      here and there Daydreaming about truth and trust amid lies and bluffs While mighty
+      men play losers poker with our future Grifters who rarely smile preside prevail
+      Claiming their toxic farts a rare perfume Always performing partying at gallows
+      Satanic antics beneath a blood-stained moon Richard Falk August 16, 2025, rev.
+      December 15, 2025 Yalikavak, Turkey o'
+    one_sentence_summary: The author shares three recent poems as a seasonal reflection
+      on the interplay of darkness and hope, expressing a yearning for understanding
+      the future while finding solace in poetry amidst uncertainty.
+    paragraph_summary: The article presents three recent poems by Richard Falk, reflecting
+      on themes of darkness, uncertainty, and the search for hope amidst despair. In
+      "The End of the Road," the poet expresses a yearning for knowledge of the future,
+      feeling trapped by time and curiosity, while awaiting a guiding light. In "Aspiring
+      Royalism," Falk critiques the rise of a new form of American royalty characterized
+      by stealth, wealth, and a departure from traditional democratic values, suggesting
+      a troubling return to historical injustices and the erosion of freedom and equality.
+      Overall, the poems serve as a poignant commentary on contemporary societal issues,
+      inviting readers to engage with the complexities of the human experience through
+      the lens of poetry.
+    published: '2025-12-15T22:55:49+00:00'
+  - title: Three Poems of Struggle Against ‘The Dying of the Light’
+    url: https://richardfalk.org/2025/12/15/three-poems-of-struggle-against-the-dying-of-the-light/
+    text: '[ Prefat ory Note : These three recent poems of mine are published here as
+      a humble seasonal offering that is both alarmed by the ambience of darkness and
+      encouraged by glimmers. Poetry is also my mode of speaking when normal language
+      is stymied by unspeakable happenings. For me poetry–whether read or written is
+      a valuable resource for me. I self-published a book of poems a few years ago with
+      the title Waiting for Rainbows. I find myself still waiting. Read with gentle
+      eyes.] The End of the Road? I yearn to know the future and yet my dreams seem
+      grayer than an overcast sky crystal balls roll toward the sea clouded over of
+      no use a captivity of time thou shall not pass this gate now never thou shall
+      not KNOW Condemned to die At this gate barring entry ghosted by eternal curiosity
+      What is to come will be foretold after a light from above or within shines green
+      by day and night through all seasons at the end of the road where you will be
+      waiting and only for me Richard Falk Yalikavak, Turkey August 19, 2025 Rev. December
+      15, 2025 Aspiring Royalism As if a crown prince impatient for a crown to fall
+      from heaven a dark miracle landing on his head Not accidentally Nor dynastically
+      The American way stealth and wealth overt crime as needed Upending history is
+      part of the story after all if the Confederacy is reborn Why not the American
+      Revolution an outworn pride to restore the worst to renounce the best Keeping
+      the pomp hiding the circumstance indulging in state dinners while being indulged
+      By the ghost royalty of a dying kingdom and dying king the pageantry alone survives
+      This is America where kings ascend the throne by stealth and wealth No need for
+      coronations or dynastic entitlements in MAGA Amerika Enough to glow in pale light
+      cast by reigning oligarchs Reinventing the glitter with guns swag and swagger
+      of salutes and sheiks Farewell to nightmares of freedom and equality diversity
+      inclusion remembering forgetting At this time once proud citizens bend their knees
+      comply by plunder This is not America This is the New America Like the New Middle
+      East The sun no longer rises Over deserts of the spirit Darkness prevails glimmers
+      of light here and there signposts of hope Awaiting coronations of evil before
+      the next dawn s Richard Falk September 21, 2025 Yalikavak, Turkey/Rev. December
+      15, 2025 Advice to a Novice Poet Why waste words seeking truth or beauty on these
+      arid starless nights My ancient brain instructs My heart shuts down as storm clouds
+      Gather above the earth hauntingly Dooming human destiny endangered As never before
+      even more As endangered as snow leopards With no church bells ringing stillness
+      seems better Hanging out in gardens clinging to solitude On lookout for wildfires
+      here and there Daydreaming about truth and trust amid lies and bluffs While mighty
+      men play losers poker with our future Grifters who rarely smile preside prevail
+      Claiming their toxic farts a rare perfume Always performing partying at gallows
+      Satanic antics beneath a blood-stained moon Richard Falk August 16, 2025, rev.
+      December 15, 2025 Yalikavak, Turkey o'
+    one_sentence_summary: The author shares three recent poems as a seasonal reflection
+      on the interplay of darkness and hope, expressing a yearning for understanding
+      the future while finding solace in poetry amidst uncertainty.
+    paragraph_summary: The article presents three recent poems by Richard Falk, reflecting
+      on themes of darkness, uncertainty, and the search for hope amidst despair. In
+      "The End of the Road," the poet expresses a yearning for knowledge of the future,
+      feeling trapped by time and curiosity, while awaiting a guiding light. In "Aspiring
+      Royalism," Falk critiques the rise of a new form of American royalty characterized
+      by stealth, wealth, and a departure from traditional democratic values, suggesting
+      a troubling return to historical injustices and the erosion of freedom and equality.
+      Overall, the poems serve as a poignant commentary on contemporary societal issues,
+      inviting readers to engage with the complexities of the human experience through
+      the lens of poetry.
+    published: '2025-12-15T22:55:49+00:00'
+  - title: Gaza and the Unravelling of the post-1945 World Order
+    url: https://richardfalk.org/2025/12/10/gaza-and-the-unravelling-of-the-post-1945-world-order/
+    text: '[ Prefatory Note : Below is the text of my op-ed published on December 10,
+      2025 in Al Jazeera English. The tragedy in Gaza lays bare the contradictions of
+      a world order built to manage power, not deliver justice or enforce its legal
+      commitments. By Richard Falk Richard Falk is Albert G Milbank Professor Emeritus
+      of International Law at Princeton University and Research Fellow, Orfalea Center
+      of Global Studies. He is also former UN Special Rapporteur on Palestinian human
+      rights. Published On 10 Dec 202510 Dec 2025 Click here to share on social media
+      Share Save Internally displaced Palestinians walk among the ruins of destroyed
+      buildings in the Al Sheikh Radwan neighborhood of Gaza City, Gaza Strip, 08 December
+      2025 [Mohammed Saber/.EPA] The catastrophic violence in Gaza has unfolded within
+      an international system that was never designed to restrain the geopolitical ambitions
+      of powerful states. Understanding why the United Nations has proved so limited
+      in responding to what many regard as a genocidal assault requires returning to
+      the foundations of the post–World War II order and examining how its structure
+      has long enabled impunity rather than accountability. After World War II, the
+      architecture for a new international order based on respect for the UN Charter
+      and international law was agreed upon as the normative foundation of a peaceful
+      future. Above all, it was intended to prevent a third world war. These commitments
+      emerged from the carnage of global conflict, the debasement of human dignity through
+      the Nazi Holocaust, and public anxieties about nuclear weaponry. Yet, the political
+      imperative to accommodate the victorious states compromised these arrangements
+      from the outset. Tensions over priorities for world order were papered over by
+      granting the Security Council exclusive decisional authority and further limiting
+      UN autonomy. Five states were made permanent members, each with veto power: the
+      United States, the Soviet Union, France, the United Kingdom, and China. In practice,
+      this left global security largely in the hands of these states, preserving their
+      dominance. It meant removing the strategic interests of geopolitical actors from
+      any obligatory respect for legal constraints, with a corresponding weakening of
+      UN capability. The Soviet Union had some justification for defending itself against
+      a West-dominated voting majority, yet it too used the veto pragmatically and displayed
+      a dismissive approach to international law and human rights, as did the three
+      liberal democracies. Advertisement In 1945, these governments were understood
+      as simply retaining the traditional freedoms of manoeuvre exercised by the so-called
+      Great Powers. The UK and France, leading NATO members in a Euro-American alliance,
+      interpreted the future through the lens of an emerging rivalry with the Soviet
+      Union. China, meanwhile, was preoccupied with a civil war that continued until
+      1949. Three aspects of this post-war arrangement shape our present understanding.
+      First, the historical aspect: Learning from the failures of the League of Nations,
+      where the absence of influential states undermined the organisation’s relevance
+      to questions of war and peace. In 1945, it was deemed better to acknowledge power
+      differentials within the UN than to construct a global body based on democratic
+      equality among sovereign states or population size. Second, the ideological aspect:
+      Political leaders of the more affluent and powerful states placed far greater
+      trust in hard-power militarism than in soft-power legalism. Even nuclear weaponry
+      was absorbed into the logic of deterrence rather than compliance with Article
+      VI of the Non-Proliferation Treaty, which required good-faith pursuit of disarmament.
+      International law was set aside whenever it conflicted with geopolitical interests.
+      Third, the economistic aspect: The profitability of arms races and wars reinforced
+      a pre–World War II pattern of lawless global politics, sustained by an alliance
+      of geopolitical realism, corporate media, and private-sector militarism. Why the
+      UN could not protect Gaza Against this background, it is unsurprising that the
+      UN performed in a disappointing manner during the two-plus years of genocidal
+      assault on Gaza. Sign up for Al Jazeera Americas Coverage Newsletter Top of Form
+      US politics, Canada’s multiculturalism, South America’s geopolitical rise—we bring
+      you the stories that matter. Subscribe By signing up, you agree to our Privacy
+      Policy Bottom of Form protected by reCAPTCHA In many respects, the UN did what
+      it was designed to do in the turmoil after October 7, and only fundamental reforms
+      driven by the Global South and transnational civil society can alter this structural
+      limitation. What makes these events so disturbing is the extremes of Israeli disregard
+      for international law, the Charter, and even basic morality. At the same time,
+      the UN did act more constructively than is often acknowledged in exposing Israel’s
+      flagrant violations of international law and human rights. Yet, it fell short
+      of what was legally possible, particularly when the General Assembly failed to
+      explore its potential self-empowerment through the Uniting for Peace resolution
+      or the Responsibility to Protect norm . Among the UN’s strongest contributions
+      were the near-unanimous judicial outcomes at the International Court of Justice
+      (ICJ) on genocide and occupation. On genocide, the ICJ granted South Africa’s
+      request for provisional measures concerning genocidal violence and the obstruction
+      of humanitarian aid in Gaza. A final decision is expected after further arguments
+      in 2026. Advertisement On occupation, responding to a General Assembly request
+      for clarification, the Court issued a historic advisory opinion on July 19, 2024,
+      finding Israel in severe violation of its duties under international humanitarian
+      law in administering Gaza, the West Bank, and East Jerusalem. It ordered Israel’s
+      withdrawal within a year. The General Assembly affirmed the opinion by a large
+      majority. Israel responded by repudiating or ignoring the Court’s authority, backed
+      by the US government’s extraordinary claim that recourse to the ICJ lacked legal
+      merit. The UN also provided far more reliable coverage of the Gaza genocide than
+      was available in corporate media, which tended to amplify Israeli rationalisations
+      and suppress Palestinian perspectives. For those seeking a credible analysis of
+      genocide allegations, the Human Rights Council offered the most convincing counter
+      to pro-Israeli distortions. A Moon Will Arise from this Darkness: Reports on Genocide
+      in Palestine, containing the publicly submitted reports of the special rapporteur,
+      Francesca Albanese, documents and strongly supports the genocide findings. A further
+      unheralded contribution came from UNRWA, the UN agency for Palestinian refugees,
+      whose services were essential to a civilian population facing acute insecurity,
+      devastation, starvation, disease, and cruel combat tactics. Some 281 staff members
+      were killed while providing shelter, education, healthcare, and psychological
+      support to beleaguered Palestinians during the course of Israel’s actions over
+      the past two years. UNRWA, instead of receiving deserved praise, was irresponsibly
+      condemned by Israel and accused, without credible evidence, of allowing staff
+      participation in the October 7 attack. Liberal democracies compounded this by
+      cutting funding, while Israel barred international staff from entering Gaza. Nevertheless,
+      UNRWA has sought to continue its relief work to the best of its ability and with
+      great courage. In light of these institutional shortcomings and partial successes,
+      the implications for global governance become even more stark, setting the stage
+      for a broader assessment of legitimacy and accountability. The moral and political
+      costs of UN paralysis The foregoing needs to be read in light of the continuing
+      Palestinian ordeal, which persists despite numerous Israeli violations, resulting
+      in more than 350 Palestinian deaths since the ceasefire was agreed upon on October
+      10, 2025. International law seems to have no direct impact on the behaviour of
+      the main governmental actors, but it does influence perceptions of legitimacy.
+      In this sense, the ICJ outcomes and the reports of the special rapporteur that
+      take the international law dimensions seriously have the indirect effect of legitimising
+      various forms of civil society activism in support of true and just peace, which
+      presupposes the realisation of Palestinian basic rights – above all, the inalienable
+      right of self-determination. The exclusion of Palestinian participation in the
+      US-imposed Trump Plan for shaping Gaza’s political future is a sign that liberal
+      democracies stubbornly adhere to their unsupportable positions of complicity with
+      Israel. Advertisement Finally, the unanimous adoption of Security Council Resolution
+      2803 in unacceptably endorsing the Trump Plan aligns the UN fully with the US
+      and Israel, a demoralising evasion and repudiation of its own truth-telling procedures.
+      It also establishes a most unfortunate precedent for the enforcement of international
+      law and the accountability of perpetrators of international crimes. In doing so,
+      it deepens the crisis of confidence in global governance and underscores the urgent
+      need for meaningful UN reform if genuine peace and justice are ever to be realised.
+      The views expressed in this article are the author’s own and do not necessarily
+      reflect Al Jazeera’s editorial stance. Richard Falk Richard Falk is Albert G Milbank
+      Professor Emeritus of International Law at Princeton University and Research Fellow,
+      Orfalea Center of Global Studies. He is also former UN Special Rapporteur on Palestinian
+      human rights.'
+    one_sentence_summary: The op-ed by Richard Falk critiques the international system,
+      particularly the United Nations, for its failure to deliver justice and effectively
+      respond to the catastrophic violence in Gaza, highlighting the contradictions
+      of a world order that prioritizes power management over legal commitments.
+    paragraph_summary: In his op-ed published on December 10, 2025, Richard Falk critiques
+      the international system's failure to address the ongoing violence in Gaza, arguing
+      that it reflects a world order designed to manage power rather than deliver justice
+      or uphold legal commitments. He contends that the limitations of the United Nations
+      in responding to what many view as a genocidal assault stem from the post-World
+      War II framework, which prioritized the interests of powerful states over accountability.
+      Falk highlights that while the UN was established to promote peace and prevent
+      global conflict, its structure—particularly the Security Council's exclusive authority
+      and the veto power held by five permanent members—has undermined its ability to
+      act effectively, resulting in a system that enables impunity rather than justice.
+    published: '2025-12-10T19:29:26+00:00'
+  - title: Gaza and the Unravelling of the post-1945 World Order
+    url: https://richardfalk.org/2025/12/10/gaza-and-the-unravelling-of-the-post-1945-world-order/
+    text: '[ Prefatory Note : Below is the text of my op-ed published on December 10,
+      2025 in Al Jazeera English. The tragedy in Gaza lays bare the contradictions of
+      a world order built to manage power, not deliver justice or enforce its legal
+      commitments. By Richard Falk Richard Falk is Albert G Milbank Professor Emeritus
+      of International Law at Princeton University and Research Fellow, Orfalea Center
+      of Global Studies. He is also former UN Special Rapporteur on Palestinian human
+      rights. Published On 10 Dec 202510 Dec 2025 Click here to share on social media
+      Share Save Internally displaced Palestinians walk among the ruins of destroyed
+      buildings in the Al Sheikh Radwan neighborhood of Gaza City, Gaza Strip, 08 December
+      2025 [Mohammed Saber/.EPA] The catastrophic violence in Gaza has unfolded within
+      an international system that was never designed to restrain the geopolitical ambitions
+      of powerful states. Understanding why the United Nations has proved so limited
+      in responding to what many regard as a genocidal assault requires returning to
+      the foundations of the post–World War II order and examining how its structure
+      has long enabled impunity rather than accountability. After World War II, the
+      architecture for a new international order based on respect for the UN Charter
+      and international law was agreed upon as the normative foundation of a peaceful
+      future. Above all, it was intended to prevent a third world war. These commitments
+      emerged from the carnage of global conflict, the debasement of human dignity through
+      the Nazi Holocaust, and public anxieties about nuclear weaponry. Yet, the political
+      imperative to accommodate the victorious states compromised these arrangements
+      from the outset. Tensions over priorities for world order were papered over by
+      granting the Security Council exclusive decisional authority and further limiting
+      UN autonomy. Five states were made permanent members, each with veto power: the
+      United States, the Soviet Union, France, the United Kingdom, and China. In practice,
+      this left global security largely in the hands of these states, preserving their
+      dominance. It meant removing the strategic interests of geopolitical actors from
+      any obligatory respect for legal constraints, with a corresponding weakening of
+      UN capability. The Soviet Union had some justification for defending itself against
+      a West-dominated voting majority, yet it too used the veto pragmatically and displayed
+      a dismissive approach to international law and human rights, as did the three
+      liberal democracies. Advertisement In 1945, these governments were understood
+      as simply retaining the traditional freedoms of manoeuvre exercised by the so-called
+      Great Powers. The UK and France, leading NATO members in a Euro-American alliance,
+      interpreted the future through the lens of an emerging rivalry with the Soviet
+      Union. China, meanwhile, was preoccupied with a civil war that continued until
+      1949. Three aspects of this post-war arrangement shape our present understanding.
+      First, the historical aspect: Learning from the failures of the League of Nations,
+      where the absence of influential states undermined the organisation’s relevance
+      to questions of war and peace. In 1945, it was deemed better to acknowledge power
+      differentials within the UN than to construct a global body based on democratic
+      equality among sovereign states or population size. Second, the ideological aspect:
+      Political leaders of the more affluent and powerful states placed far greater
+      trust in hard-power militarism than in soft-power legalism. Even nuclear weaponry
+      was absorbed into the logic of deterrence rather than compliance with Article
+      VI of the Non-Proliferation Treaty, which required good-faith pursuit of disarmament.
+      International law was set aside whenever it conflicted with geopolitical interests.
+      Third, the economistic aspect: The profitability of arms races and wars reinforced
+      a pre–World War II pattern of lawless global politics, sustained by an alliance
+      of geopolitical realism, corporate media, and private-sector militarism. Why the
+      UN could not protect Gaza Against this background, it is unsurprising that the
+      UN performed in a disappointing manner during the two-plus years of genocidal
+      assault on Gaza. Sign up for Al Jazeera Americas Coverage Newsletter Top of Form
+      US politics, Canada’s multiculturalism, South America’s geopolitical rise—we bring
+      you the stories that matter. Subscribe By signing up, you agree to our Privacy
+      Policy Bottom of Form protected by reCAPTCHA In many respects, the UN did what
+      it was designed to do in the turmoil after October 7, and only fundamental reforms
+      driven by the Global South and transnational civil society can alter this structural
+      limitation. What makes these events so disturbing is the extremes of Israeli disregard
+      for international law, the Charter, and even basic morality. At the same time,
+      the UN did act more constructively than is often acknowledged in exposing Israel’s
+      flagrant violations of international law and human rights. Yet, it fell short
+      of what was legally possible, particularly when the General Assembly failed to
+      explore its potential self-empowerment through the Uniting for Peace resolution
+      or the Responsibility to Protect norm . Among the UN’s strongest contributions
+      were the near-unanimous judicial outcomes at the International Court of Justice
+      (ICJ) on genocide and occupation. On genocide, the ICJ granted South Africa’s
+      request for provisional measures concerning genocidal violence and the obstruction
+      of humanitarian aid in Gaza. A final decision is expected after further arguments
+      in 2026. Advertisement On occupation, responding to a General Assembly request
+      for clarification, the Court issued a historic advisory opinion on July 19, 2024,
+      finding Israel in severe violation of its duties under international humanitarian
+      law in administering Gaza, the West Bank, and East Jerusalem. It ordered Israel’s
+      withdrawal within a year. The General Assembly affirmed the opinion by a large
+      majority. Israel responded by repudiating or ignoring the Court’s authority, backed
+      by the US government’s extraordinary claim that recourse to the ICJ lacked legal
+      merit. The UN also provided far more reliable coverage of the Gaza genocide than
+      was available in corporate media, which tended to amplify Israeli rationalisations
+      and suppress Palestinian perspectives. For those seeking a credible analysis of
+      genocide allegations, the Human Rights Council offered the most convincing counter
+      to pro-Israeli distortions. A Moon Will Arise from this Darkness: Reports on Genocide
+      in Palestine, containing the publicly submitted reports of the special rapporteur,
+      Francesca Albanese, documents and strongly supports the genocide findings. A further
+      unheralded contribution came from UNRWA, the UN agency for Palestinian refugees,
+      whose services were essential to a civilian population facing acute insecurity,
+      devastation, starvation, disease, and cruel combat tactics. Some 281 staff members
+      were killed while providing shelter, education, healthcare, and psychological
+      support to beleaguered Palestinians during the course of Israel’s actions over
+      the past two years. UNRWA, instead of receiving deserved praise, was irresponsibly
+      condemned by Israel and accused, without credible evidence, of allowing staff
+      participation in the October 7 attack. Liberal democracies compounded this by
+      cutting funding, while Israel barred international staff from entering Gaza. Nevertheless,
+      UNRWA has sought to continue its relief work to the best of its ability and with
+      great courage. In light of these institutional shortcomings and partial successes,
+      the implications for global governance become even more stark, setting the stage
+      for a broader assessment of legitimacy and accountability. The moral and political
+      costs of UN paralysis The foregoing needs to be read in light of the continuing
+      Palestinian ordeal, which persists despite numerous Israeli violations, resulting
+      in more than 350 Palestinian deaths since the ceasefire was agreed upon on October
+      10, 2025. International law seems to have no direct impact on the behaviour of
+      the main governmental actors, but it does influence perceptions of legitimacy.
+      In this sense, the ICJ outcomes and the reports of the special rapporteur that
+      take the international law dimensions seriously have the indirect effect of legitimising
+      various forms of civil society activism in support of true and just peace, which
+      presupposes the realisation of Palestinian basic rights – above all, the inalienable
+      right of self-determination. The exclusion of Palestinian participation in the
+      US-imposed Trump Plan for shaping Gaza’s political future is a sign that liberal
+      democracies stubbornly adhere to their unsupportable positions of complicity with
+      Israel. Advertisement Finally, the unanimous adoption of Security Council Resolution
+      2803 in unacceptably endorsing the Trump Plan aligns the UN fully with the US
+      and Israel, a demoralising evasion and repudiation of its own truth-telling procedures.
+      It also establishes a most unfortunate precedent for the enforcement of international
+      law and the accountability of perpetrators of international crimes. In doing so,
+      it deepens the crisis of confidence in global governance and underscores the urgent
+      need for meaningful UN reform if genuine peace and justice are ever to be realised.
+      The views expressed in this article are the author’s own and do not necessarily
+      reflect Al Jazeera’s editorial stance. Richard Falk Richard Falk is Albert G Milbank
+      Professor Emeritus of International Law at Princeton University and Research Fellow,
+      Orfalea Center of Global Studies. He is also former UN Special Rapporteur on Palestinian
+      human rights.'
+    one_sentence_summary: The op-ed by Richard Falk critiques the international system,
+      particularly the United Nations, for its failure to deliver justice and effectively
+      respond to the catastrophic violence in Gaza, highlighting the contradictions
+      of a world order that prioritizes power management over legal commitments.
+    paragraph_summary: In his op-ed published on December 10, 2025, Richard Falk critiques
+      the international system's failure to address the ongoing violence in Gaza, arguing
+      that it reflects a world order designed to manage power rather than deliver justice
+      or uphold legal commitments. He contends that the limitations of the United Nations
+      in responding to what many view as a genocidal assault stem from the post-World
+      War II framework, which prioritized the interests of powerful states over accountability.
+      Falk highlights that while the UN was established to promote peace and prevent
+      global conflict, its structure—particularly the Security Council's exclusive authority
+      and the veto power held by five permanent members—has undermined its ability to
+      act effectively, resulting in a system that enables impunity rather than justice.
+    published: '2025-12-10T19:29:26+00:00'
   - title: 'Istanbul Final Statement: Gaza Tribunal Concludes, the Gaza Genocide Continues'
     url: https://richardfalk.org/2025/11/02/istanbul-final-statement-gaza-tribunal-concludes-the-gaza-genocide-continues/
     text: '[Prefatory Note: On October 26 the Istanbul Statement issued on behalf of

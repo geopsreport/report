@@ -8,20 +8,1023 @@ websites:
   - https://michael-hudson.com/
   - https://geopoliticaleconomy.com/author/michael-hudson/
 summary: |
-  As of December 10, 2025, global geopolitics is marked by intensifying competition over strategic resources, shifting economic alliances, and the ongoing recalibration of U.S. foreign policy under President Trump. Recent independent analyses highlight three key developments:
+  As of December 17, 2025, global geopolitics remains shaped by the ongoing fallout from the Ukraine conflict, shifting resource strategies in Central Asia, and the West’s economic rivalry with China. Recent developments show a recalibration of Western diplomatic and economic tactics, with significant implications for global stability and resource access.
   
-  **Central Asia’s Resource Gamble and U.S. Ambitions**  
-  The Trump administration’s announcement of a $35 billion investment push into Central Asia, with a focus on Kazakhstan’s tungsten and rare earths, has drawn skepticism from analysts. **Michael Hudson** notes that “the feasibility of such large-scale extraction projects is questionable,” citing both logistical and political obstacles. The new U.S. ambassador’s call for rapid resource extraction underscores Washington’s urgency to secure critical minerals amid global supply chain anxieties. However, Hudson warns that the region’s entrenched rentier structures and history of neo-imperial competition make success unlikely. There is a high chance these efforts will stall or yield only limited results.
+  The most notable update concerns the U.S.-led ceasefire initiative in Ukraine. According to **Michael Hudson**, the original 28-point plan has been pared down to 22 points after a high-level meeting involving U.S. Senator Marco Rubio, European, and Ukrainian representatives. This reduction signals persistent disagreements among Western allies and Kyiv over the terms of any settlement. **Hudson** notes that the plan’s evolution reflects both mounting war fatigue in Europe and the Biden administration’s desire to demonstrate progress, though the substantive gaps between the parties remain unresolved. There is a high chance that further revisions will be necessary, and a comprehensive agreement remains elusive in the near term.
   
-  **Europe’s Economic Troubles Deepen Amid Tech War**  
-  Europe continues to grapple with economic decline, exacerbated by its alignment with U.S. policy in the ongoing tech war against China. A recent seizure of semiconductor wafers and chips—vital for the continent’s automotive sector—has raised alarms. **Michael Hudson** points out that such disruptions could “further undermine Europe’s industrial base,” with ripple effects on employment and growth. The majority view among analysts is that Europe’s dependency on U.S. strategic decisions is accelerating its relative decline, with no clear path to recovery in the near term.
+  In Central Asia, U.S. ambitions for resource extraction face skepticism. **Hudson** expresses doubt about Donald Trump’s $35 billion investment pledge for Kazakhstan, especially regarding tungsten and rare earths. He highlights logistical and political hurdles, including entrenched local interests and the risk of backlash against perceived neo-imperial moves. The new U.S. ambassador’s push for rapid extraction and export underscores Washington’s urgency, but as **Hudson** argues, “the region was set up to fail” under current rentier and legal frameworks. It is quite likely that U.S. efforts will encounter significant resistance and delays, with only limited gains in the short term.
   
-  **Political Shifts in the U.S.: Municipal Socialism’s Rise**  
-  Domestically, the unexpected victory of Zohran Mamdani, a Muslim socialist immigrant, in New York’s mayoral race signals a potential realignment within the Democratic Party. As discussed by **Nima Alkhorchid** and **Richard Wolff**, Mamdani’s win—despite substantial financial opposition—reflects growing grassroots dissatisfaction with the party’s establishment wing. This development is quite likely to embolden similar movements in other major U.S. cities, potentially reshaping the party’s national strategy.
+  Meanwhile, Europe’s economic position continues to deteriorate, exacerbated by its alignment with U.S. tech war policies against China. Recent seizures of semiconductor components critical to the automotive sector threaten to disrupt supply chains further. **Hudson** warns that such actions may accelerate Europe’s decline, as industries dependent on these inputs face mounting uncertainty. The majority view among analysts is that Europe’s economic woes will deepen unless it recalibrates its approach to both Russia and China.
   
-  **Trends and Predictions**  
-  Looking ahead, the scramble for critical minerals in Central Asia is expected to remain fraught, with most efforts hampered by local resistance and logistical hurdles. Europe’s economic woes are likely to persist, especially as the tech war with China intensifies. In the U.S., the rise of municipal socialism could signal broader shifts in political alignments, though the long-term impact remains uncertain. I guarantee that the global contest for resources and technological supremacy will continue to drive instability and realignment across regions.
+  **Trends and Predictions:**  
+  - The Ukraine ceasefire process will remain stalled, with only incremental progress and no final settlement in the coming months (high confidence).
+  - U.S. resource extraction initiatives in Central Asia are likely to underperform expectations due to structural and political obstacles (high confidence).
+  - Europe’s economic decline will continue, particularly if it persists in its current confrontational stance toward China and Russia (high confidence).
+  
+  Overall, the prevailing trend is one of mounting geopolitical fragmentation, with Western strategies facing increasing resistance and diminishing returns across multiple theaters.
 articles:
+  - title: The Ceasefire Charade
+    url: https://michael-hudson.com/2025/12/the-ceasefire-charade/
+    text: '⁣NIMA ALKHORSHID: Hi, everybody. Today is Wednesday, November 26, 2025, and
+      our dear friend, Michael Hudson, is here with us. Welcome back, Michael. ⁣MICHAEL
+      HUDSON: It’s good to be back. ⁣NIMA ALKHORSHID: Please subscribe and hit the like
+      button to help us reach more people. And you can see Michael Hudson’s website
+      (below his name): michael-hudson.com. You can go there and follow Michael. ⁣MICHAEL
+      HUDSON: It’s michael, hyphen, hudson, dot, com (michael-hudson.com). ⁣⁣NIMA ALKHORSHID:
+      Michael, let me start with the [28]-point plan on the part of the United States.
+      They have proposed [28 points]. It seems that they have reduced it, after the
+      meeting [Marco] Rubio had in Geneva with Europeans and Ukrainians. They have reduced
+      it, as Donald Trump mentioned. We thought that it would be 19 points, but Donald
+      Trump today said that it’s going to be 22 points. But after all, looking at the
+      document, what is your take on what’s going on, with the document? ⁣MICHAEL HUDSON:
+      The important thing to realize is it’s not a peace proposal. It’s not a plan at
+      all. It’s a bold attempt to shape the terms in which the public views the entire
+      Ukrainian coup d’état at Maidan in February 2014, followed by the whole Ukrainian
+      attack on the Russian-speaking population, and the last (almost three) years of
+      war. It’s a fight to shape public opinion, and it’s (in that sense) a brilliant
+      propaganda attack. President Putin and Foreign Minister [Sergey] Lavrov have given
+      speech after speech explaining the whole history, explaining how the Russians
+      intend to end the war when they win and they create a new government — free of
+      the Nazis, free of the Russia-haters — and disarm Ukraine, and prevent it from
+      joining NATO. What NATO and the Americans have done is, instead of just giving
+      a different speech and saying, okay, here’s your narrative, here’s ours, they’ve
+      encapsulated their answer, and their counter-argument, and their counter-narrative,
+      in the form of a point by point, listing by listing — as if it’s a proposed articles
+      of agreement [document]. And, of course, these articles will never be agreed upon.
+      There’s no way in which either Russia or NATO (Europe, and the United States)
+      — not to mention Zelensky’s government in Ukraine — can accept them. So, the purpose
+      is not to get any agreement at all. It’s to make people think in terms of: How
+      do we view what’s happening? What’s the war all about? Who’s responsible for it?
+      And these points have been crafted by propagandists, to sort of win the hearts
+      and minds of the people, in support of the Maidan coup. The aim has been sort
+      of leaked to the press, going all the way back — to reverse the way of, how World
+      War II ended. What Europe wants to do is say: We want to refight the end of World
+      War II. And already in 1944, Churchill was saying: As soon as the war is over,
+      let’s attack the Soviet Union. Europe said: Well, let’s go back to that point
+      — 1944 — okay? That’s 80 years ago. Let’s see whether we can refight, at that
+      point. Now we can attack Russia. That’s really what it’s about, and it’s an outrageous
+      trick. It’s been carefully thought out and propagandized. So the peace proposal
+      is not intended to bring peace. It’s just a propaganda charade at pretending to
+      negotiate peace. And it’s really a propaganda effort. In a word, the aim is to
+      essentially obfuscate what is really happening. By the way, Foreign Minister Lavrov
+      said yesterday at a French news conference that Europe’s “elites opted for war
+      and have staked their entire political careers on the slogan of inflicting what
+      they call a strategic defeat on Russia.” [Dialogue F-R YouTube channel, Nov. 21,
+      2025] Well, that has failed; so NATO realizes it’s lost the war. It doesn’t have
+      the arms to fight. You’ve seen the Russian advance, accelerating day after day.
+      So NATO says: Well, okay, we’ll lose the war. How do we win the peace? And that’s
+      going to be: How is history (and current voters) going to look at what’s been
+      happening? What is all of this about? And if you look at the U.S. press (the New
+      York Times and the Washington Post ) and the British press, it’s which side of
+      the fight is analogous to the Nazis and [Adolf] Hitler? In the New York Times
+      yesterday, you have [Thomas] Friedman talking about, well, how can Trump appease
+      Hitler? Trump is “Putin’s puppet.” These agreements are really Russia’s demands.
+      (Well, of course, they’re not Russia’s demands before. You can read the Russian
+      demand, and what Putin and Lavrov have said.) So, I think we can [discuss], if
+      this were really an agreement to discuss: Where do we go from here, and how do
+      we think about solving this fighting in Ukraine? Article 1 should be: Were there
+      any war crimes committed? That’s what it’s all about. And a basic issue is, well,
+      if they were, by whom, and against whom? And who are the victims? And what were
+      these crimes? Well, Russia has already announced that when it conquers Ukraine
+      and installs a non-Nazi government, it’s going to hold a modern Nuremberg trial.
+      It’s going to convict parties that have committed war crimes. That is what terrifies
+      the NATO leaders, not to mention the kleptocrats in Zelensky’s regime that have
+      enriched themselves and been embezzling the loans — from Europe, the United States,
+      and, especially, the International Monetary Fund — to buy properties offshore,
+      and Bitcoin, and the things that kleptocrats do to hide or conceal the money they’ve
+      taken. Well, for the Russians, it’s vitally important to establish the historical
+      record, because that’s the key to what is going to be the body of international
+      law following  on from all of this. Again and again, President Putin and Lavrov
+      have said: We thought that the Nuremberg trials had established the international
+      law of war crimes. We’ve been attacked. Russia is not the attacker. The Maidan
+      [the coupists] was the attacker. The Ukrainian attack on the Russian-speaking
+      population — the civilian population — was a war crime, breaking the rules of
+      war. We came in to protect the Russian speakers. The populations of Luhansk and
+      Donetsk have voted to become part of Russia, which were, in practice, [Russian]
+      all the time during the Soviet Union, when there wasn’t any real separate Ukrainian
+      nation. The Russians are basing their actions, and their intentions, on international
+      law. To do this, they have to have a Nuremberg trial — a war-crime trial — to
+      reiterate: What is the appropriate international law to deal with the situation,
+      such as we’ve been fighting, for more than two years, in Ukraine? And the West
+      says: Well, it was Russia that’s the attacker. Russia has committed the war crime.
+      That’s the travesty of what’s happening. But it’s the aim of the U.S. and NATO
+      narrative to turn the war into a new Cold War propaganda weapon against Russia,
+      aimed at turning the world against Russia and supporting Western Europe. So, in
+      practical terms, it’s to protect the Ukrainians and neo-Nazis, and the European
+      backers; to whitewash all the corruption that’s been occurring during this. And
+      a major aim of the Ukrainian Nazis has been to avoid punishment. They want to
+      leave Ukraine with the money that they’ve embezzled, and stored away, and go to
+      their British mansions and Mediterranean castles. So, the U.S.-NATO proposal calls
+      for blanket amnesty. And if there, indeed, were a war crime, then there shouldn’t
+      be an amnesty for everyone. If a criminal breaks the law, then the criminal must
+      be arrested, and put away, not merely to punish them for what they’ve done in
+      the past, but to protect the present population from having them continue to commit
+      crimes. Well, that (committing crimes) is exactly what the NATO-West wants to
+      do against Russia, against China, against Venezuela, against Iran, and against
+      any country that is resisting the U.S.-dominated world order. So, all of this
+      jockeying, for how do we determine the terms of peace? Is it all, we’re just going
+      to forget everything? Are we going to blame Russia, or are we going to blame the
+      United States and NATO? All of this is what’s at stake, in all of this. I can
+      elaborate. The original proposal called for Ukraine to investigate corruption.
+      The Wall Street Journal , a few days ago, reported that the Ukrainians insisted
+      on changing the language to say that all countries will receive “full amnesty
+      for their actions during the war.” Well, the actions are not only the war crimes
+      — staging false flags, like the Bucha staged [war crime] — but the crimes of embezzlement.
+      The World Bank, the Europeans, all have agreed that NATO [Ukraine] is the most
+      corrupt country in the Northern Hemisphere, and it has been ever since 1991 —
+      ⁣NIMA ALKHORSHID: You mean Ukraine is the most corrupt? ⁣MICHAEL HUDSON: Yes,
+      what did I say? ⁣NIMA ALKHORSHID: You said NATO. ⁣MICHAEL HUDSON: I’m sorry. Well,
+      Ukraine is the most corrupt, although its corruption has been with the full participation
+      and support of Europe. And I would imagine that any trial is going to involve
+      the actions of [Emmanuel] Macron, and [Friedrich] Merz, and [Keir] Starmer (and
+      the British — in breaking up the agreement that the Ukrainians and Russians had
+      made to end the war all the way back in 2022 — the agreements that were all broken,
+      and turned out to want a ceasefire just to rearm Ukraine with more NATO arms to
+      go on fighting against Russia). That’s something that Russia is never going to
+      fall for again. So, the whole idea of a ceasefire, as if that’s what these proposals
+      are about, there never was a possibility of that. And so, if that was never a
+      realistic possibility, why are they doing it? It doesn’t have anything to do with
+      creating an actual peace, as I said. It’s a way to shape the categories of how
+      people think about this whole conflict between NATO and Russia, the whole expansion
+      of NATO since the Americans had promised NATO would not expand, if Russia ended
+      its military occupation of Central Europe and agreed to dissolve the Soviet Union.
+      All of that has already happened, and I don’t think Russia has any intention of
+      trying to trust the West again. So, the reality is that any real peace agreement,
+      logically, has to be created after the fighting stops — not before it stops —
+      and especially not when one side is defeating the other overwhelmingly. Trying
+      to freeze a conflict when Russia is overwhelmingly winning is trying to solve
+      the Ukrainian problem by just making the loser set the terms of the peace. NATO
+      and the United States have lost the war that they started in Ukraine — hoping
+      that the war would drain Russia’s economy; would create an economic crisis; would
+      persuade Russian voters that we need a regime change, we’ve got to replace Putin
+      for having started this war, and put in a new group. The idea of a “new” group
+      is the same neoliberal kleptocrats that they put in in the 1990s — privatize Russia,
+      ideally break it into parts (the whole strategy against Russia) — and that’s just
+      a fantasy. So, how can they, at least, try to convince the population that this
+      fantasy is a realistic probability, and even a moral probability? Their solution
+      is to say (well, the big picture): Who are the counterparts to World War II’s
+      Nazis in this? And we’re seeing a replay of the ending of World War II. And since
+      Russia is organizing the peace, it’s in a position to hold these (what I call
+      the new) Nuremberg trials. And the NATO aim is to make people take seriously the
+      idea that Putin is a modern Neville Chamberlain making peace with the Nazis —
+      (I’m sorry, not Putin) to make Donald Trump look like a Neville Chamberlain —
+      just surrendering to Russia. That’s what Friedman had written in the New York
+      Times . It’s what the New York Times , Wall Street Journal , and network television
+      in the United States keep saying: We’re back in what started all of World War
+      II, when Chamberlain did not protest against Russia’s moving into Czechoslovakia
+      to defend the German population there. Well, if trying to say that Trump is a
+      Chamberlain means — you have the leaders of the Republicans in Congress, Mitch
+      McConnell, especially, says there’s no way in which the U.S. Congress can possibly
+      agree to even the proposal that Trump and his staff have put on the table. So
+      Congress has already announced [that] any agreement is going to be a no-go. The
+      Ukrainians have said: We absolutely will not cede any territory to Russia. Even
+      though Russia has conquered it, even though we have no army to defend it, we’re
+      not going to agree with that. Well, the defeated party does not get the right
+      to determine the terms of peace, and who won and who lost. That’s what war is
+      about. As [Carl von] Clausewitz said, it’s a continuation of policy by other means
+      — by military means. Russia has been obliged to use an enormous expenditure, and
+      troops, to achieve this military policy of ending the NATO expansion towards trying
+      to destroy the Russian economy, and hurt it in any way it can; especially by cutting
+      off its trade with Europe in oil and gas, and other things; to seize Russia’s
+      savings that it had kept in the West and [in] Euroclear (its foreign-exchange
+      reserves that it was using). That’s the first issue. The second article up for
+      discussion should not be put in terms of blaming one party or another. It should
+      be: Who owes reparations to whom, and how are reparations going to be paid? Well,
+      trying to frame the narrative, the current text says Russia owes reparations to
+      Ukraine; but it’s Ukraine that should pay reparations; and Europe-NATO should
+      pay reparations to Russia for initiating the war, for breaking the rules of war,
+      for destroying enormous amounts of civilian property in the Russian-speaking portions
+      of what was Ukraine. And this is the cover story for the U.S. and Congress backing
+      the NATO-Euroclear seizure of more than 200 billion euros (even more in dollars)
+      of Russian assets. They say: Make these assets a loan to Ukraine. Well, Ukraine’s
+      already broke. It’s unable to pay the IMF loans. The IMF loans, in fact, were
+      made — illegally — against the basic principles of the IMF, saying the International
+      Monetary Fund will not make loans to a country at war, or to support a belligerent.
+      The IMF said: This is not war. You know? This is … we’re defending ourselves.
+      The war is … Russia, not Ukraine. So the pretense that somehow [Russia] is liable?
+      The hope [of the belligerents] is going to be that when Russia carves out its
+      portions — of those Ukrainians that want to be part of Russia, and vote to become
+      part of Russia — that the whole idea is to destabilize the next decade of legal
+      argument, saying Russia owes money to the West. Well, if Russia would have thought
+      of not giving speeches, but let us put a 28-point plan in, it would have said,
+      how much does the West owe Russia? What’s going to be the cost? There’s no question
+      that Russia is going to spend more than 200 billion euros (and dollars), the equivalent
+      in rebuilding all of the real estate that you’ve seen destroyed in the fighting
+      that’s gone on so far — which is entirely on Russian-speaking land. The way that
+      the Trump administration shaped the agreement was: Well, alright, we’ll give 100
+      million of this (half of the money) to Donald Trump’s group, so American companies
+      can come in, and they can rebuild Ukraine, and make enormous profits — Russia
+      has no intention of letting American real-estate companies rip off profits, and
+      emulate the Zelensky kleptocrats in just embezzling the money for themselves —
+      and building the kind of shoddy building that Trump is known for, the shoddy Trump
+      Tower, whose architects tell me he cut costs everywhere, and it’s just junk. The
+      Russians build much stronger buildings, to last, and at less expense than Trump’s
+      real-estate ripoffs that he made his career on building. So, all of this, the
+      phrasing of the peace agreement is designed to justify Trump’s, and the Americans’,
+      and the Western Europeans’ attempt simply to grab what was Russia’s foreign-exchange
+      reserves for themselves, and prevent Russia from having the resources to spend
+      — the balance-of-payments drain — that it’s going to take to buy the raw materials,
+      the equipment to rebuild the buildings with plumbing, all of the imported goods,
+      the facilities that you need to make new apartment houses, houses — the vast amount
+      of reconstruction that Russia is going to have to spend (and has promised to spend
+      in Luhansk and Donetsk), and the other territories that it takes as it moves west,
+      again, to those populations that want to remain part of Russia — leaving the Ukrainian
+      West that does not want to be part of Russia isolated, demilitarized, denazified,
+      and disarmed, not to ever again become a proxy battlefield for NATO, led by the
+      United States and the neocons in their fight against Russia. It wants to prevent
+      that permanently; not simply to have a short-term ripoff that is being proposed
+      by the United States. I’m amazed that the Russians have not been more vocal in
+      calling a spade a spade in all of this. You may have other points of the agreement
+      that you’d want to bring up. And if you go over point by point, I’ll be glad to
+      answer them. But again, to me, the key is, Russia’s 200 billion in reserves is,
+      the subject of this false narrative, of the premise: that Russia is the attacker
+      — not NATO — and that Russia has attacked civilians — not Ukraine has attacked
+      civilians. Russia was very careful to focus on military targets, that extended
+      to energy companies, to electrical systems. Russia had proposed a mutual agreement
+      between it and NATO-Ukraine not to bomb each other’s energy; and President Trump
+      said: No, no. We have to bomb Russia’s oil refineries because we want to block
+      Russia’s ability to export oil. We want to create an oil crisis so that the United
+      States can use oil as the key controller of American foreign policy. This is what
+      you and I have discussed for the last few months on your show. So, of course,
+      Trump said: No, no. Ukraine, don’t agree not to bomb energy systems. So, Russia
+      realizes that it’s energy that has been powering the NATO arms factories, that’s
+      been powering the Ukrainian war machine, and that its basic military tactic is
+      indeed to focus on destroying this military ability to fight; and energy is as
+      much the key to military conquest as it is to Gross National Product. Energy is
+      what makes the factories go; it’s what heats apartments; and it’s made life unlivable
+      for much of Western Ukraine — and that was the choice of Trump’s foreign policy.
+      So, these are the two shaping narrative structures of the propaganda effort that’s
+      been put in place. Do you have any questions you want to follow on to fill out
+      this big picture? ⁣NIMA ALKHORSHID: Michael, one of the crucial points in the
+      [28] points is the size of the Ukrainian army, which was supposed to be (in the
+      document) about 600,000. Then the Europeans changed it to 800,000. And right now,
+      it seems that there is no limitation for that. Who’s going to pay for this army?
+      You know, it’s a huge army, if they go in that direction — because this army should
+      be supported by someone, you know, other countries, Europeans, together with the
+      United States — which literally means that NATO is going to arm this Ukrainian
+      army, again and again, to fight Russians. The same attitude. Do you think that
+      Russia would accept that? ⁣MICHAEL HUDSON: This is the opposite of demilitarizing
+      the enemy. Remember the end of World War II? The Morgenthau Plan in the United
+      States was to say, make Germany never industrial again — make it an agricultural
+      country, make it a theme park, but it won’t be an industrial country — so, that
+      was [Henry] Morgenthau’s plan, and that was turned down by the United States.
+      But the idea was for Germany, and also for Japan: Japan and Germany were to demilitarize
+      and never be able to rearm, because they were incorrigible aggressors. And that
+      is the principle (exactly the same principle) that Russia is trying to do [in
+      Ukraine]. NATO says: We have to triple the size of what the Ukrainian army was
+      when we began this war; and we have to leave the Nazis in control. There won’t
+      be any war-crimes trial. We have to leave the Ukrainian government. It may not
+      be [led by] Zelensky, it’ll be one of the [Stepan] Bandera followers. It will
+      be the Nazi-led army so that, if we fail (so far), we can come again — and this
+      time, we’re really going to hit you, with long-[range] missiles, and we’re still
+      going to bring down the [Russian] government — until the Russian population says:
+      It’s worth anything to surrender to the West and let them take over. We can’t
+      fight anymore. This is the evil fantasy that is being promoted. Of course, Russia
+      is going to say: We are the victors. We get to disarm the government. We get to
+      put in place a post-war constitution of the restructured Ukraine (whatever is
+      left of Ukraine), so that it will not have a standing army; it will not have Western
+      weapons. And if the Western countries, if NATO or the United States provides weapons
+      to [Ukraine], President Putin has already said: If a missile, or a weapon hurts
+      the Russians, we will retaliate not simply against Ukraine; we’ll retaliate against
+      the country that has supplied Ukraine with the weapons. Well, Donald Trump has
+      said, quite realistically: There’s no way Ukraine is going to win. It’s a black
+      hole. We are not going to give weapons to Ukraine. It doesn’t pay — We want to
+      fight China. This is a race war. It’s the Anglo-Saxon West against the global
+      majority; and China is the key, our long-term enemy. We want to do to China what
+      we tried to do to Russia, and failed; so we’re not going to spend any money on
+      arms on Russia, because we’ve depleted all of our arms, and NATO has depleted
+      its arms. It doesn’t have any more — We’ve got to prepare for the final conflict
+      of civilization, the civilizational fight by the West, waged against the 85% global
+      majority. That’s Trump’s position; so Trump is not going to provide American arms
+      to Ukraine. It’ll be the European countries. And it will be these countries, against
+      which Russia will retaliate — and destroy not only their arms factories, but the
+      political and military capitals, and ports, and power supply itself. The European
+      NATO leaders, having agreed to fight to the last Ukrainian, are now saying: We’re
+      going to fight to the last European, in an attempt to, somehow, hurt Russia, a
+      little bit. So, European history, essentially, is going to end, if this plan is
+      put into operation — Russia has made that very clear. It says: There must be a
+      better solution. Let’s just have nothing to do with Western Europe. Let it go
+      its way. It can join the United States in some kind of political alliance — maybe
+      France can become the 52nd state, Germany the 53rd state, you know, after Canada
+      and Mexico. Right down the line. It doesn’t matter. Russia wants to separate itself
+      from the West and turn east. The West wants to move eastward, via Russia, towards
+      its own fight against China. That is the long military dynamic — and it’s a crazy
+      dynamic. It’s crazy because there’s no chance that the West has of winning. Its
+      arms don’t work. The American ATACMS missiles that were just fired at Russia were
+      all shot down by the Russian defenses. And then the Russians retaliated by a missile
+      that killed the troops that were sending the missiles [their] way. I don’t know
+      how you can get a clearer example of — this is a microcosm of what would happen
+      if there are further NATO attempts to attack Russia. But you can see that they
+      don’t have the arms, they don’t have the money for the arms, and yet the  leaders
+      — Macron, Starmer, Merz, the Dutch leaders — and the French general, last week,
+      said France should be willing to sacrifice its youth of the future to fight Russia:
+      We need an army to go into Ukraine towards Russia and invade it. Your children
+      are going to die. It’s all worth it because we hate Russia, don’t you? Well, how
+      are they going to get the population, ever, to say: Okay, we’ll send our kids
+      to war and they can fight to the last French infantryman, just like the Ukrainians
+      are fighting to the last Ukrainian? Of course, we will agree that this is a moral
+      fight against Russia? I don’t see any way of convincing the French population
+      of doing that. So far, you’ve had all of the yellow-vest protests against the
+      Macron government. What more can they do? What do you do when a government is
+      fighting a war in Ukraine, against Russia, that the populations of Germany, France,
+      the rest of the European countries, do not support? Their only outlet has been
+      to support the nationalistic parties, such as the Alternativ für Deutschland,
+      [Giorgia] Meloni in Italy, and similar parties in England and abroad. That’s not
+      very effective in stopping this whole military plan of attack, and the whole rearmament,
+      and the whole resumption of the new Cold War — which, really, is trying to refight
+      the end of World War II. That’s, really, what it’s all about. Well, Russia is
+      going to be the winner. The winner gets to set the terms, and NATO will lose;
+      but it can say: Well, if we can generate in the public mind enough resentment
+      against the Russian victory, against the Russian denazification, against the Russian
+      demilitarization of Ukraine; then we can fan these simmering embers of resentment
+      into a new anti-Russian mentality. It’s all about the narrative, once again. That’s
+      what they’re trying to do in all of this; and that’s why they keep calling Trump
+      Neville Chamberlain, and turning Trump into “Putin’s puppet.” It turns history
+      inside out, and, with it, the whole idea of right and wrong, and good and evil,
+      as described by the whole spirit of civilization for the last few hundred years
+      of drawing up laws of warfare — laws to prevent armies from attacking civilians,
+      false-flag operations. The whole behavior, and breakdown, of the system of international
+      law that’s occurred over the last few decades — really since 1990 (quite a few
+      decades now) — all of this is a breakdown. That’s what we’re dealing with: the
+      breakdown of the West, and the attempt by Russia, China, and Eurasia to create
+      its own laws of civilization — on how they would define civilization — and these
+      laws are pretty universal; and they’ll pick up what the West’s ideals used to
+      be, but which the West has abandoned now. ⁣NIMA ALKHORSHID: Michael, how do you
+      see the ability of Europe — because Ursula von der Leyen was talking about [how]
+      Ukraine must be part of Europe (Ukraine, in today’s condition that they have,
+      politically, economically, militarily)? Is Europe capable, or able to let Ukraine
+      in? ⁣MICHAEL HUDSON: The question is: What will Ukraine be? If Europe lets Ukraine
+      in, is there going to be free migration within Ukraine? You’re going to have the
+      Ukrainian males who are able to bribe their way, or otherwise escape from the
+      suicidal service in the army, [and] have already gone into Poland, and Central
+      Europe, and into Germany. From what I read in the newspapers, they’ve made themselves
+      fairly unpopular there, by being very demanding, saying: You have to support us.
+      We’re victims. Can Europe afford this whole migration crisis? Well, the whole
+      spirit of the nationalist parties, and of the voters, is very much like the United
+      States. It’s anti-immigration. They’re saying: Western Europe for the Western
+      Europeans; or, at least, they’re saying: France for the Frenchmen, Germany for
+      the Germans, Britain for the British; but not for these countries to support,
+      first of all, the influx of populations from the Middle East (where the United
+      States [has] destroyed), from North Africa, from the Islamic countries — and now
+      from the Ukrainians. In order to fund the war, you’ve had Chancellor Merz in Germany
+      say: We’ve got to cut back social spending. We’ve got to end the subsidies that
+      we have given to German families — so that they can afford the higher gas and
+      oil prices to heat their homes, and to cook, and to drive their cars — that we’ve
+      been giving, when we cut off the trade with Russia. We cannot afford that, if
+      we are going to spend our money on creating arms to give, or sell, or otherwise
+      provide Ukraine with. Well, what do you think the Germans are going to say? It’s
+      okay? We’re willing to freeze in the dark and eat cold cereal instead of cooking,
+      as long as we’re hurting Russia? Can they really be convinced to hate Russia that
+      much? The neocons find this believable because they hate Russia that much. They’re
+      not willing to fight Russia — and the Banderites (the neo-Nazis in Ukraine) are
+      not the armies, primarily, that are fighting. The Azov Battalion, and others,
+      tend to stay in the back and send the Ukrainian farmboys to fight, not the Nazis
+      themselves. They’re shooting their own soldiers in the back, if their soldiers
+      seek to retreat, instead of moving forward and simply being killed by the Russian
+      drones. So, you’re having an internecine Ukrainian war, by the Nazis, against
+      the non-Nazi Ukrainians. And you’re going to have this kind of counterpart all
+      throughout the European countries, between the neocon governments representing
+      NATO (the EU union represents NATO, not the elected voters) and the voters in
+      the European countries. All of that is breaking up the European Union itself.
+      And that’s going to be one of the results of this war. It will not be up to Russia
+      to do what it’s doing in Ukraine, and rewrite the European constitution and restructure
+      the European economies, like it intends to do in Ukraine. But you can see that
+      in this fight over how to depict the culmination of the Russian military victory
+      and restructuring of Ukraine; and the loss of the war by NATO, by the United States,
+      and the loss of its whole plans to destabilize Russia — to deplete its arms supply,
+      in order to try to make Russia deplete its arms supply (which has not occurred)
+      — the failure of all of its unrealistic forecasts. And this is what’s at stake:
+      Can it maintain the fictitious view of reality that led to all of this failure,
+      in the first place, ever since the 2014 Maidan coup d’état? That’s what is the
+      big picture of destabilization that’s occurring. And at what point will the European
+      countries say: We’ve been suckered into fighting on behalf of NATO (which is really
+      the U.S. War Department, as Trump has renamed it) — really, in serving American
+      neocon foreign policy — And maybe we should have a European policy, and the aim
+      of our policy should be to improve the productivity and living standards and self-reliance
+      of our European countries themselves, for our self-interest — not the neocon and
+      the Trumpian-American self-interest, that has led to the surrender of von der
+      Leyen to Trump’s tariff rules a few months ago? They’re going to put European
+      interests before foreign interests; and that’s going to mean, at some point, the
+      loss of Europe to the United States. This has been discussed by Putin in some
+      of his press conferences. And he said, I think, realistically: You know, it’s
+      going to take about 30 years for there, really, to be a restoration of trust,
+      and trade, and investment, mutually, between Western Europe and Russia. For the
+      time being, we’re turning eastward, with countries whose values we share. And
+      this ending of the Ukraine war, like the beginning of the Ukraine war, has been
+      all about values. And I think Lavrov had a wonderful statement, a few days ago,
+      in the meeting with Belarus that Russia has once a year. He said: If we talk about
+      what was, and what they want to restore (meaning NATO), these are all exhausted
+      Euro-Atlantic models. NATO [North Atlantic Treaty Organization] and the OSCE [Organization
+      for Security and Co-operation in Europe] are Euro-Atlantic structures. The European
+      Union has long ceased to be a European forum where the interests of Europeans
+      are represented. It’s become an appendage to NATO. And what they call fighting
+      for their values, is fighting for, what turns out to be, Nazi values. That says
+      it all, in a nutshell. Again, yesterday, Lavrov said, in a French interview, that
+      the whole drama began with the West’s attempt to have NATO absorb Ukraine, create
+      a military threat to Russia right on our borders; and in breach of all the promises
+      given to the Soviet Union, and contrary to all the understandings concluded then
+      with the Russian Federation. As part of the OSCE framework on the indivisible
+      nature of security, and the fact that no organization, no country in Europe will
+      seek to strengthen its security at the expense of others, it was approved at the
+      highest level — NATO acted in exactly the opposite way. That’s the Russian position
+      that’s going to shape how it restructures the domestic legal system and political
+      system of Ukraine, and the value system in which it’s doing this. If you read
+      what they’ve said, you realize the total disconnect between the so-called “peace
+      proposal” propaganda effort, and what Russia intends to do. Russia has been sort
+      of slow to raise the ante, and say: This isn’t simply about what military side
+      is going to win; it’s a fight over the values of civilization. And Lavrov has
+      said that Western Europe no longer has the values that shaped the Enlightenment,
+      and shaped European Idealism at a point when Europe achieved world political and
+      economic ascendancy in the 19th and 20th centuries. ⁣NIMA ALKHORSHID: Michael,
+      before this live[stream] we were talking about Bloomberg’s leak of Steve Witkoff’s
+      private call with Kremlin aide Yury Ushakov. What are they trying to do? Looking
+      at the social media, the way that they’re attacking Steve Witkoff, they’re calling
+      [him] a KGB agent? He’s an agent of the Trump administration! He’s Russia’s puppet,
+      “Putin’s puppet?” What’s going on with the case of Witkoff? It seems that the
+      establishment is attacking him, and these people are getting in line with the
+      establishment. ⁣MICHAEL HUDSON: Well, you mentioned the establishment. It’s obvious
+      that the phone calls and the emails that Witkoff was handling were all copied
+      by the National Security Agency. Essentially, they’re doing to Witkoff what they
+      did to Donald Trump in his first administration, [when he] tried to appoint the
+      general that was going to clean up the CIA, and clean out the bad actors. The
+      NSA leaked it to the FBI saying, oh, look at what the general said. They pretty
+      much falsified the charges against him. I’m blocking out the general’s name, but
+      you must remember who he is. At any rate, they’re trying to do the same with Witkoff.
+      They’re trying to Witkoff by saying, here is the reality that we recognize, when
+      he was talking to [Kirill] Dmitriev and other Russians. ⁣NIMA ALKHORSHID: Michael,
+      you mean that general that was in Russiagate, they said that he’s connected with
+      Russia, General [Michael] Flynn? ⁣MICHAEL HUDSON: Yes, General Flynn. The one
+      thing that the deep state wanted to do was to prevent General Flynn from being
+      appointed to clean out the CIA, to clean out the neocons. That’s what Trump wanted
+      to do. They framed him up, and they got Trump’s awful vice-president [Mike Pence]
+      to say, and his idiot son-in-law [Jared Kushner] to say: No, you’ve got to get
+      rid of General Flynn. The FBI doesn’t like him. Well, of course the FBI and the
+      deep state doesn’t like him because he wanted to clean out the neocons. And Trump
+      was gullible enough to trust his idiot son-in-law and the vice president that
+      was urging him. And he listened to the neocons who he wanted to get rid of for
+      the advice: Don’t have anyone strong enough to get rid of us in power. He was
+      suckered. And I think he decided not to do that again. And that’s why he’s focused,
+      in his second term, on appointing politically loyal cabinet members, and army
+      members, and NSC members, and State Department members. The problem is that appointing
+      political loyalists, they’re not (all) that savvy as to how to really conduct
+      foreign relations and foreign policy, or even military policy. So that’s the trade-off
+      that is sort of tearing his second term apart. Well, they’re trying to say: Witkoff,
+      by saying that Russia is winning, Witkoff is also “Putin’s puppet.” Well, any
+      attempt at reality is defined [by neocons] as “pro-Russian,” because reality is
+      the Russians have defeated Ukraine. They are marching towards victory, that they
+      will probably conclude at the end of next spring, at the latest, in Ukraine. They
+      will get rid of the Nazi government. They will replace it with a new government.
+      They will write a new constitution. All of that (obvious) military victory is
+      a realistic expectation, and yet that’s called pro-Russian. Well, if reality is
+      pro-Russian, then that means that NATO and America is the sphere of unreality.
+      And the only way that you can ever get unreality to somehow dominate the electoral
+      political process is by shaping a narrative in a way that distorts reality, that
+      distorts the reality that recognizes Russia’s military victory in Ukraine; and,
+      by the same token, [distorts the reality] that recognizes the futility of ever
+      sending millions of Ukrainians to die, or to emigrate, or to suffer, to fight
+      to the last Ukrainian. What will the Ukrainian population think when the war is
+      over? The voters — not the neo-Nazi leaders and the kleptocrats — what will they
+      think? To say: How did we ever get our children, and our relatives, killed in
+      this futile fight that we’ve lost, and had no chance of winning, because we were
+      outgunned, outmanned? And all of this was just to, somehow, weaken Russia, not
+      to help us? What interest did we have in fighting against the Russian language,
+      in burning the library books that are written in Russian, in blaming, banning
+      the Russian speakers, banning Russian music, and all of that? Last time I was
+      in Latvia, I remember, we were invited to a concert, and it was Dmitry Shostakovich’s
+      opera, Lady Macbeth of Mtsensk . This was many years ago, when I was there performing
+      Russian operas. All that, now, is swept away by the anti-Russian Baltic feeling,
+      by banning the Russian-speaking population from voting and really having a voice
+      in the electoral process. So that’s what all of this is about. When they’re saying
+      that Witkoff is pro-Russian, and that what he is saying — that Russia’s winning
+      — is pro-Russian — it’s as if that’s a bad word. Instead of saying: Witkoff is
+      recognizing economic reality. Thank God that we have Donald Trump appointing him,
+      [who] is willing to face the reality that, as Trump has said (again and again),
+      Ukraine is losing. And if Ukraine doesn’t agree to end the war now, on whatever
+      terms it can, it’s going to be in an even worse position later. Well, Trump is
+      right. ⁣NIMA ALKHORSHID: Yeah, exactly. Thank you so much, Michael, for being
+      with us today. It was great to talk in detail [about] what’s going on in terms
+      of Trump’s [28]-point peace plan, and what’s next, happening behind the scenes.
+      Yeah, great pleasure, Michael. ⁣MICHAEL HUDSON: Thank you very much. I’m so glad
+      we had this discussion. Transcription and Diarization: https://scripthub.dev Editing:
+      Kimberly Mims Review: ced Photo by Jay Soundo on Unsplash The post The Ceasefire
+      Charade first appeared on Michael Hudson .'
+    one_sentence_summary: In a discussion on November 26, 2025, Nima Alkhorchid and
+      Michael Hudson address the evolving 28-point plan proposed by the United States,
+      which has been reduced to 22 points following a meeting involving Marco Rubio
+      and European and Ukrainian representatives.
+    paragraph_summary: In a recent discussion, Nima Alkhorchid and Michael Hudson addressed
+      the United States' proposed 28-point plan regarding the ongoing conflict in Ukraine,
+      which has reportedly been revised following a meeting involving Marco Rubio and
+      European and Ukrainian officials. Hudson emphasized that the plan is not a genuine
+      peace proposal but rather a strategic effort to influence public perception of
+      the events surrounding the Ukrainian coup in 2014 and the subsequent war. He described
+      it as a sophisticated propaganda initiative aimed at countering the narratives
+      put forth by Russian leaders, who have articulated their intentions to reshape
+      Ukraine's government and prevent its NATO membership. Hudson's analysis suggests
+      that the U.S. plan serves more to frame the discussion than to offer a viable
+      resolution to the conflict.
+    published: '2025-12-15T11:32:36+00:00'
+  - title: The Ceasefire Charade
+    url: https://michael-hudson.com/2025/12/the-ceasefire-charade/
+    text: '⁣NIMA ALKHORSHID: Hi, everybody. Today is Wednesday, November 26, 2025, and
+      our dear friend, Michael Hudson, is here with us. Welcome back, Michael. ⁣MICHAEL
+      HUDSON: It’s good to be back. ⁣NIMA ALKHORSHID: Please subscribe and hit the like
+      button to help us reach more people. And you can see Michael Hudson’s website
+      (below his name): michael-hudson.com. You can go there and follow Michael. ⁣MICHAEL
+      HUDSON: It’s michael, hyphen, hudson, dot, com (michael-hudson.com). ⁣⁣NIMA ALKHORSHID:
+      Michael, let me start with the [28]-point plan on the part of the United States.
+      They have proposed [28 points]. It seems that they have reduced it, after the
+      meeting [Marco] Rubio had in Geneva with Europeans and Ukrainians. They have reduced
+      it, as Donald Trump mentioned. We thought that it would be 19 points, but Donald
+      Trump today said that it’s going to be 22 points. But after all, looking at the
+      document, what is your take on what’s going on, with the document? ⁣MICHAEL HUDSON:
+      The important thing to realize is it’s not a peace proposal. It’s not a plan at
+      all. It’s a bold attempt to shape the terms in which the public views the entire
+      Ukrainian coup d’état at Maidan in February 2014, followed by the whole Ukrainian
+      attack on the Russian-speaking population, and the last (almost three) years of
+      war. It’s a fight to shape public opinion, and it’s (in that sense) a brilliant
+      propaganda attack. President Putin and Foreign Minister [Sergey] Lavrov have given
+      speech after speech explaining the whole history, explaining how the Russians
+      intend to end the war when they win and they create a new government — free of
+      the Nazis, free of the Russia-haters — and disarm Ukraine, and prevent it from
+      joining NATO. What NATO and the Americans have done is, instead of just giving
+      a different speech and saying, okay, here’s your narrative, here’s ours, they’ve
+      encapsulated their answer, and their counter-argument, and their counter-narrative,
+      in the form of a point by point, listing by listing — as if it’s a proposed articles
+      of agreement [document]. And, of course, these articles will never be agreed upon.
+      There’s no way in which either Russia or NATO (Europe, and the United States)
+      — not to mention Zelensky’s government in Ukraine — can accept them. So, the purpose
+      is not to get any agreement at all. It’s to make people think in terms of: How
+      do we view what’s happening? What’s the war all about? Who’s responsible for it?
+      And these points have been crafted by propagandists, to sort of win the hearts
+      and minds of the people, in support of the Maidan coup. The aim has been sort
+      of leaked to the press, going all the way back — to reverse the way of, how World
+      War II ended. What Europe wants to do is say: We want to refight the end of World
+      War II. And already in 1944, Churchill was saying: As soon as the war is over,
+      let’s attack the Soviet Union. Europe said: Well, let’s go back to that point
+      — 1944 — okay? That’s 80 years ago. Let’s see whether we can refight, at that
+      point. Now we can attack Russia. That’s really what it’s about, and it’s an outrageous
+      trick. It’s been carefully thought out and propagandized. So the peace proposal
+      is not intended to bring peace. It’s just a propaganda charade at pretending to
+      negotiate peace. And it’s really a propaganda effort. In a word, the aim is to
+      essentially obfuscate what is really happening. By the way, Foreign Minister Lavrov
+      said yesterday at a French news conference that Europe’s “elites opted for war
+      and have staked their entire political careers on the slogan of inflicting what
+      they call a strategic defeat on Russia.” [Dialogue F-R YouTube channel, Nov. 21,
+      2025] Well, that has failed; so NATO realizes it’s lost the war. It doesn’t have
+      the arms to fight. You’ve seen the Russian advance, accelerating day after day.
+      So NATO says: Well, okay, we’ll lose the war. How do we win the peace? And that’s
+      going to be: How is history (and current voters) going to look at what’s been
+      happening? What is all of this about? And if you look at the U.S. press (the New
+      York Times and the Washington Post ) and the British press, it’s which side of
+      the fight is analogous to the Nazis and [Adolf] Hitler? In the New York Times
+      yesterday, you have [Thomas] Friedman talking about, well, how can Trump appease
+      Hitler? Trump is “Putin’s puppet.” These agreements are really Russia’s demands.
+      (Well, of course, they’re not Russia’s demands before. You can read the Russian
+      demand, and what Putin and Lavrov have said.) So, I think we can [discuss], if
+      this were really an agreement to discuss: Where do we go from here, and how do
+      we think about solving this fighting in Ukraine? Article 1 should be: Were there
+      any war crimes committed? That’s what it’s all about. And a basic issue is, well,
+      if they were, by whom, and against whom? And who are the victims? And what were
+      these crimes? Well, Russia has already announced that when it conquers Ukraine
+      and installs a non-Nazi government, it’s going to hold a modern Nuremberg trial.
+      It’s going to convict parties that have committed war crimes. That is what terrifies
+      the NATO leaders, not to mention the kleptocrats in Zelensky’s regime that have
+      enriched themselves and been embezzling the loans — from Europe, the United States,
+      and, especially, the International Monetary Fund — to buy properties offshore,
+      and Bitcoin, and the things that kleptocrats do to hide or conceal the money they’ve
+      taken. Well, for the Russians, it’s vitally important to establish the historical
+      record, because that’s the key to what is going to be the body of international
+      law following  on from all of this. Again and again, President Putin and Lavrov
+      have said: We thought that the Nuremberg trials had established the international
+      law of war crimes. We’ve been attacked. Russia is not the attacker. The Maidan
+      [the coupists] was the attacker. The Ukrainian attack on the Russian-speaking
+      population — the civilian population — was a war crime, breaking the rules of
+      war. We came in to protect the Russian speakers. The populations of Luhansk and
+      Donetsk have voted to become part of Russia, which were, in practice, [Russian]
+      all the time during the Soviet Union, when there wasn’t any real separate Ukrainian
+      nation. The Russians are basing their actions, and their intentions, on international
+      law. To do this, they have to have a Nuremberg trial — a war-crime trial — to
+      reiterate: What is the appropriate international law to deal with the situation,
+      such as we’ve been fighting, for more than two years, in Ukraine? And the West
+      says: Well, it was Russia that’s the attacker. Russia has committed the war crime.
+      That’s the travesty of what’s happening. But it’s the aim of the U.S. and NATO
+      narrative to turn the war into a new Cold War propaganda weapon against Russia,
+      aimed at turning the world against Russia and supporting Western Europe. So, in
+      practical terms, it’s to protect the Ukrainians and neo-Nazis, and the European
+      backers; to whitewash all the corruption that’s been occurring during this. And
+      a major aim of the Ukrainian Nazis has been to avoid punishment. They want to
+      leave Ukraine with the money that they’ve embezzled, and stored away, and go to
+      their British mansions and Mediterranean castles. So, the U.S.-NATO proposal calls
+      for blanket amnesty. And if there, indeed, were a war crime, then there shouldn’t
+      be an amnesty for everyone. If a criminal breaks the law, then the criminal must
+      be arrested, and put away, not merely to punish them for what they’ve done in
+      the past, but to protect the present population from having them continue to commit
+      crimes. Well, that (committing crimes) is exactly what the NATO-West wants to
+      do against Russia, against China, against Venezuela, against Iran, and against
+      any country that is resisting the U.S.-dominated world order. So, all of this
+      jockeying, for how do we determine the terms of peace? Is it all, we’re just going
+      to forget everything? Are we going to blame Russia, or are we going to blame the
+      United States and NATO? All of this is what’s at stake, in all of this. I can
+      elaborate. The original proposal called for Ukraine to investigate corruption.
+      The Wall Street Journal , a few days ago, reported that the Ukrainians insisted
+      on changing the language to say that all countries will receive “full amnesty
+      for their actions during the war.” Well, the actions are not only the war crimes
+      — staging false flags, like the Bucha staged [war crime] — but the crimes of embezzlement.
+      The World Bank, the Europeans, all have agreed that NATO [Ukraine] is the most
+      corrupt country in the Northern Hemisphere, and it has been ever since 1991 —
+      ⁣NIMA ALKHORSHID: You mean Ukraine is the most corrupt? ⁣MICHAEL HUDSON: Yes,
+      what did I say? ⁣NIMA ALKHORSHID: You said NATO. ⁣MICHAEL HUDSON: I’m sorry. Well,
+      Ukraine is the most corrupt, although its corruption has been with the full participation
+      and support of Europe. And I would imagine that any trial is going to involve
+      the actions of [Emmanuel] Macron, and [Friedrich] Merz, and [Keir] Starmer (and
+      the British — in breaking up the agreement that the Ukrainians and Russians had
+      made to end the war all the way back in 2022 — the agreements that were all broken,
+      and turned out to want a ceasefire just to rearm Ukraine with more NATO arms to
+      go on fighting against Russia). That’s something that Russia is never going to
+      fall for again. So, the whole idea of a ceasefire, as if that’s what these proposals
+      are about, there never was a possibility of that. And so, if that was never a
+      realistic possibility, why are they doing it? It doesn’t have anything to do with
+      creating an actual peace, as I said. It’s a way to shape the categories of how
+      people think about this whole conflict between NATO and Russia, the whole expansion
+      of NATO since the Americans had promised NATO would not expand, if Russia ended
+      its military occupation of Central Europe and agreed to dissolve the Soviet Union.
+      All of that has already happened, and I don’t think Russia has any intention of
+      trying to trust the West again. So, the reality is that any real peace agreement,
+      logically, has to be created after the fighting stops — not before it stops —
+      and especially not when one side is defeating the other overwhelmingly. Trying
+      to freeze a conflict when Russia is overwhelmingly winning is trying to solve
+      the Ukrainian problem by just making the loser set the terms of the peace. NATO
+      and the United States have lost the war that they started in Ukraine — hoping
+      that the war would drain Russia’s economy; would create an economic crisis; would
+      persuade Russian voters that we need a regime change, we’ve got to replace Putin
+      for having started this war, and put in a new group. The idea of a “new” group
+      is the same neoliberal kleptocrats that they put in in the 1990s — privatize Russia,
+      ideally break it into parts (the whole strategy against Russia) — and that’s just
+      a fantasy. So, how can they, at least, try to convince the population that this
+      fantasy is a realistic probability, and even a moral probability? Their solution
+      is to say (well, the big picture): Who are the counterparts to World War II’s
+      Nazis in this? And we’re seeing a replay of the ending of World War II. And since
+      Russia is organizing the peace, it’s in a position to hold these (what I call
+      the new) Nuremberg trials. And the NATO aim is to make people take seriously the
+      idea that Putin is a modern Neville Chamberlain making peace with the Nazis —
+      (I’m sorry, not Putin) to make Donald Trump look like a Neville Chamberlain —
+      just surrendering to Russia. That’s what Friedman had written in the New York
+      Times . It’s what the New York Times , Wall Street Journal , and network television
+      in the United States keep saying: We’re back in what started all of World War
+      II, when Chamberlain did not protest against Russia’s moving into Czechoslovakia
+      to defend the German population there. Well, if trying to say that Trump is a
+      Chamberlain means — you have the leaders of the Republicans in Congress, Mitch
+      McConnell, especially, says there’s no way in which the U.S. Congress can possibly
+      agree to even the proposal that Trump and his staff have put on the table. So
+      Congress has already announced [that] any agreement is going to be a no-go. The
+      Ukrainians have said: We absolutely will not cede any territory to Russia. Even
+      though Russia has conquered it, even though we have no army to defend it, we’re
+      not going to agree with that. Well, the defeated party does not get the right
+      to determine the terms of peace, and who won and who lost. That’s what war is
+      about. As [Carl von] Clausewitz said, it’s a continuation of policy by other means
+      — by military means. Russia has been obliged to use an enormous expenditure, and
+      troops, to achieve this military policy of ending the NATO expansion towards trying
+      to destroy the Russian economy, and hurt it in any way it can; especially by cutting
+      off its trade with Europe in oil and gas, and other things; to seize Russia’s
+      savings that it had kept in the West and [in] Euroclear (its foreign-exchange
+      reserves that it was using). That’s the first issue. The second article up for
+      discussion should not be put in terms of blaming one party or another. It should
+      be: Who owes reparations to whom, and how are reparations going to be paid? Well,
+      trying to frame the narrative, the current text says Russia owes reparations to
+      Ukraine; but it’s Ukraine that should pay reparations; and Europe-NATO should
+      pay reparations to Russia for initiating the war, for breaking the rules of war,
+      for destroying enormous amounts of civilian property in the Russian-speaking portions
+      of what was Ukraine. And this is the cover story for the U.S. and Congress backing
+      the NATO-Euroclear seizure of more than 200 billion euros (even more in dollars)
+      of Russian assets. They say: Make these assets a loan to Ukraine. Well, Ukraine’s
+      already broke. It’s unable to pay the IMF loans. The IMF loans, in fact, were
+      made — illegally — against the basic principles of the IMF, saying the International
+      Monetary Fund will not make loans to a country at war, or to support a belligerent.
+      The IMF said: This is not war. You know? This is … we’re defending ourselves.
+      The war is … Russia, not Ukraine. So the pretense that somehow [Russia] is liable?
+      The hope [of the belligerents] is going to be that when Russia carves out its
+      portions — of those Ukrainians that want to be part of Russia, and vote to become
+      part of Russia — that the whole idea is to destabilize the next decade of legal
+      argument, saying Russia owes money to the West. Well, if Russia would have thought
+      of not giving speeches, but let us put a 28-point plan in, it would have said,
+      how much does the West owe Russia? What’s going to be the cost? There’s no question
+      that Russia is going to spend more than 200 billion euros (and dollars), the equivalent
+      in rebuilding all of the real estate that you’ve seen destroyed in the fighting
+      that’s gone on so far — which is entirely on Russian-speaking land. The way that
+      the Trump administration shaped the agreement was: Well, alright, we’ll give 100
+      million of this (half of the money) to Donald Trump’s group, so American companies
+      can come in, and they can rebuild Ukraine, and make enormous profits — Russia
+      has no intention of letting American real-estate companies rip off profits, and
+      emulate the Zelensky kleptocrats in just embezzling the money for themselves —
+      and building the kind of shoddy building that Trump is known for, the shoddy Trump
+      Tower, whose architects tell me he cut costs everywhere, and it’s just junk. The
+      Russians build much stronger buildings, to last, and at less expense than Trump’s
+      real-estate ripoffs that he made his career on building. So, all of this, the
+      phrasing of the peace agreement is designed to justify Trump’s, and the Americans’,
+      and the Western Europeans’ attempt simply to grab what was Russia’s foreign-exchange
+      reserves for themselves, and prevent Russia from having the resources to spend
+      — the balance-of-payments drain — that it’s going to take to buy the raw materials,
+      the equipment to rebuild the buildings with plumbing, all of the imported goods,
+      the facilities that you need to make new apartment houses, houses — the vast amount
+      of reconstruction that Russia is going to have to spend (and has promised to spend
+      in Luhansk and Donetsk), and the other territories that it takes as it moves west,
+      again, to those populations that want to remain part of Russia — leaving the Ukrainian
+      West that does not want to be part of Russia isolated, demilitarized, denazified,
+      and disarmed, not to ever again become a proxy battlefield for NATO, led by the
+      United States and the neocons in their fight against Russia. It wants to prevent
+      that permanently; not simply to have a short-term ripoff that is being proposed
+      by the United States. I’m amazed that the Russians have not been more vocal in
+      calling a spade a spade in all of this. You may have other points of the agreement
+      that you’d want to bring up. And if you go over point by point, I’ll be glad to
+      answer them. But again, to me, the key is, Russia’s 200 billion in reserves is,
+      the subject of this false narrative, of the premise: that Russia is the attacker
+      — not NATO — and that Russia has attacked civilians — not Ukraine has attacked
+      civilians. Russia was very careful to focus on military targets, that extended
+      to energy companies, to electrical systems. Russia had proposed a mutual agreement
+      between it and NATO-Ukraine not to bomb each other’s energy; and President Trump
+      said: No, no. We have to bomb Russia’s oil refineries because we want to block
+      Russia’s ability to export oil. We want to create an oil crisis so that the United
+      States can use oil as the key controller of American foreign policy. This is what
+      you and I have discussed for the last few months on your show. So, of course,
+      Trump said: No, no. Ukraine, don’t agree not to bomb energy systems. So, Russia
+      realizes that it’s energy that has been powering the NATO arms factories, that’s
+      been powering the Ukrainian war machine, and that its basic military tactic is
+      indeed to focus on destroying this military ability to fight; and energy is as
+      much the key to military conquest as it is to Gross National Product. Energy is
+      what makes the factories go; it’s what heats apartments; and it’s made life unlivable
+      for much of Western Ukraine — and that was the choice of Trump’s foreign policy.
+      So, these are the two shaping narrative structures of the propaganda effort that’s
+      been put in place. Do you have any questions you want to follow on to fill out
+      this big picture? ⁣NIMA ALKHORSHID: Michael, one of the crucial points in the
+      [28] points is the size of the Ukrainian army, which was supposed to be (in the
+      document) about 600,000. Then the Europeans changed it to 800,000. And right now,
+      it seems that there is no limitation for that. Who’s going to pay for this army?
+      You know, it’s a huge army, if they go in that direction — because this army should
+      be supported by someone, you know, other countries, Europeans, together with the
+      United States — which literally means that NATO is going to arm this Ukrainian
+      army, again and again, to fight Russians. The same attitude. Do you think that
+      Russia would accept that? ⁣MICHAEL HUDSON: This is the opposite of demilitarizing
+      the enemy. Remember the end of World War II? The Morgenthau Plan in the United
+      States was to say, make Germany never industrial again — make it an agricultural
+      country, make it a theme park, but it won’t be an industrial country — so, that
+      was [Henry] Morgenthau’s plan, and that was turned down by the United States.
+      But the idea was for Germany, and also for Japan: Japan and Germany were to demilitarize
+      and never be able to rearm, because they were incorrigible aggressors. And that
+      is the principle (exactly the same principle) that Russia is trying to do [in
+      Ukraine]. NATO says: We have to triple the size of what the Ukrainian army was
+      when we began this war; and we have to leave the Nazis in control. There won’t
+      be any war-crimes trial. We have to leave the Ukrainian government. It may not
+      be [led by] Zelensky, it’ll be one of the [Stepan] Bandera followers. It will
+      be the Nazi-led army so that, if we fail (so far), we can come again — and this
+      time, we’re really going to hit you, with long-[range] missiles, and we’re still
+      going to bring down the [Russian] government — until the Russian population says:
+      It’s worth anything to surrender to the West and let them take over. We can’t
+      fight anymore. This is the evil fantasy that is being promoted. Of course, Russia
+      is going to say: We are the victors. We get to disarm the government. We get to
+      put in place a post-war constitution of the restructured Ukraine (whatever is
+      left of Ukraine), so that it will not have a standing army; it will not have Western
+      weapons. And if the Western countries, if NATO or the United States provides weapons
+      to [Ukraine], President Putin has already said: If a missile, or a weapon hurts
+      the Russians, we will retaliate not simply against Ukraine; we’ll retaliate against
+      the country that has supplied Ukraine with the weapons. Well, Donald Trump has
+      said, quite realistically: There’s no way Ukraine is going to win. It’s a black
+      hole. We are not going to give weapons to Ukraine. It doesn’t pay — We want to
+      fight China. This is a race war. It’s the Anglo-Saxon West against the global
+      majority; and China is the key, our long-term enemy. We want to do to China what
+      we tried to do to Russia, and failed; so we’re not going to spend any money on
+      arms on Russia, because we’ve depleted all of our arms, and NATO has depleted
+      its arms. It doesn’t have any more — We’ve got to prepare for the final conflict
+      of civilization, the civilizational fight by the West, waged against the 85% global
+      majority. That’s Trump’s position; so Trump is not going to provide American arms
+      to Ukraine. It’ll be the European countries. And it will be these countries, against
+      which Russia will retaliate — and destroy not only their arms factories, but the
+      political and military capitals, and ports, and power supply itself. The European
+      NATO leaders, having agreed to fight to the last Ukrainian, are now saying: We’re
+      going to fight to the last European, in an attempt to, somehow, hurt Russia, a
+      little bit. So, European history, essentially, is going to end, if this plan is
+      put into operation — Russia has made that very clear. It says: There must be a
+      better solution. Let’s just have nothing to do with Western Europe. Let it go
+      its way. It can join the United States in some kind of political alliance — maybe
+      France can become the 52nd state, Germany the 53rd state, you know, after Canada
+      and Mexico. Right down the line. It doesn’t matter. Russia wants to separate itself
+      from the West and turn east. The West wants to move eastward, via Russia, towards
+      its own fight against China. That is the long military dynamic — and it’s a crazy
+      dynamic. It’s crazy because there’s no chance that the West has of winning. Its
+      arms don’t work. The American ATACMS missiles that were just fired at Russia were
+      all shot down by the Russian defenses. And then the Russians retaliated by a missile
+      that killed the troops that were sending the missiles [their] way. I don’t know
+      how you can get a clearer example of — this is a microcosm of what would happen
+      if there are further NATO attempts to attack Russia. But you can see that they
+      don’t have the arms, they don’t have the money for the arms, and yet the  leaders
+      — Macron, Starmer, Merz, the Dutch leaders — and the French general, last week,
+      said France should be willing to sacrifice its youth of the future to fight Russia:
+      We need an army to go into Ukraine towards Russia and invade it. Your children
+      are going to die. It’s all worth it because we hate Russia, don’t you? Well, how
+      are they going to get the population, ever, to say: Okay, we’ll send our kids
+      to war and they can fight to the last French infantryman, just like the Ukrainians
+      are fighting to the last Ukrainian? Of course, we will agree that this is a moral
+      fight against Russia? I don’t see any way of convincing the French population
+      of doing that. So far, you’ve had all of the yellow-vest protests against the
+      Macron government. What more can they do? What do you do when a government is
+      fighting a war in Ukraine, against Russia, that the populations of Germany, France,
+      the rest of the European countries, do not support? Their only outlet has been
+      to support the nationalistic parties, such as the Alternativ für Deutschland,
+      [Giorgia] Meloni in Italy, and similar parties in England and abroad. That’s not
+      very effective in stopping this whole military plan of attack, and the whole rearmament,
+      and the whole resumption of the new Cold War — which, really, is trying to refight
+      the end of World War II. That’s, really, what it’s all about. Well, Russia is
+      going to be the winner. The winner gets to set the terms, and NATO will lose;
+      but it can say: Well, if we can generate in the public mind enough resentment
+      against the Russian victory, against the Russian denazification, against the Russian
+      demilitarization of Ukraine; then we can fan these simmering embers of resentment
+      into a new anti-Russian mentality. It’s all about the narrative, once again. That’s
+      what they’re trying to do in all of this; and that’s why they keep calling Trump
+      Neville Chamberlain, and turning Trump into “Putin’s puppet.” It turns history
+      inside out, and, with it, the whole idea of right and wrong, and good and evil,
+      as described by the whole spirit of civilization for the last few hundred years
+      of drawing up laws of warfare — laws to prevent armies from attacking civilians,
+      false-flag operations. The whole behavior, and breakdown, of the system of international
+      law that’s occurred over the last few decades — really since 1990 (quite a few
+      decades now) — all of this is a breakdown. That’s what we’re dealing with: the
+      breakdown of the West, and the attempt by Russia, China, and Eurasia to create
+      its own laws of civilization — on how they would define civilization — and these
+      laws are pretty universal; and they’ll pick up what the West’s ideals used to
+      be, but which the West has abandoned now. ⁣NIMA ALKHORSHID: Michael, how do you
+      see the ability of Europe — because Ursula von der Leyen was talking about [how]
+      Ukraine must be part of Europe (Ukraine, in today’s condition that they have,
+      politically, economically, militarily)? Is Europe capable, or able to let Ukraine
+      in? ⁣MICHAEL HUDSON: The question is: What will Ukraine be? If Europe lets Ukraine
+      in, is there going to be free migration within Ukraine? You’re going to have the
+      Ukrainian males who are able to bribe their way, or otherwise escape from the
+      suicidal service in the army, [and] have already gone into Poland, and Central
+      Europe, and into Germany. From what I read in the newspapers, they’ve made themselves
+      fairly unpopular there, by being very demanding, saying: You have to support us.
+      We’re victims. Can Europe afford this whole migration crisis? Well, the whole
+      spirit of the nationalist parties, and of the voters, is very much like the United
+      States. It’s anti-immigration. They’re saying: Western Europe for the Western
+      Europeans; or, at least, they’re saying: France for the Frenchmen, Germany for
+      the Germans, Britain for the British; but not for these countries to support,
+      first of all, the influx of populations from the Middle East (where the United
+      States [has] destroyed), from North Africa, from the Islamic countries — and now
+      from the Ukrainians. In order to fund the war, you’ve had Chancellor Merz in Germany
+      say: We’ve got to cut back social spending. We’ve got to end the subsidies that
+      we have given to German families — so that they can afford the higher gas and
+      oil prices to heat their homes, and to cook, and to drive their cars — that we’ve
+      been giving, when we cut off the trade with Russia. We cannot afford that, if
+      we are going to spend our money on creating arms to give, or sell, or otherwise
+      provide Ukraine with. Well, what do you think the Germans are going to say? It’s
+      okay? We’re willing to freeze in the dark and eat cold cereal instead of cooking,
+      as long as we’re hurting Russia? Can they really be convinced to hate Russia that
+      much? The neocons find this believable because they hate Russia that much. They’re
+      not willing to fight Russia — and the Banderites (the neo-Nazis in Ukraine) are
+      not the armies, primarily, that are fighting. The Azov Battalion, and others,
+      tend to stay in the back and send the Ukrainian farmboys to fight, not the Nazis
+      themselves. They’re shooting their own soldiers in the back, if their soldiers
+      seek to retreat, instead of moving forward and simply being killed by the Russian
+      drones. So, you’re having an internecine Ukrainian war, by the Nazis, against
+      the non-Nazi Ukrainians. And you’re going to have this kind of counterpart all
+      throughout the European countries, between the neocon governments representing
+      NATO (the EU union represents NATO, not the elected voters) and the voters in
+      the European countries. All of that is breaking up the European Union itself.
+      And that’s going to be one of the results of this war. It will not be up to Russia
+      to do what it’s doing in Ukraine, and rewrite the European constitution and restructure
+      the European economies, like it intends to do in Ukraine. But you can see that
+      in this fight over how to depict the culmination of the Russian military victory
+      and restructuring of Ukraine; and the loss of the war by NATO, by the United States,
+      and the loss of its whole plans to destabilize Russia — to deplete its arms supply,
+      in order to try to make Russia deplete its arms supply (which has not occurred)
+      — the failure of all of its unrealistic forecasts. And this is what’s at stake:
+      Can it maintain the fictitious view of reality that led to all of this failure,
+      in the first place, ever since the 2014 Maidan coup d’état? That’s what is the
+      big picture of destabilization that’s occurring. And at what point will the European
+      countries say: We’ve been suckered into fighting on behalf of NATO (which is really
+      the U.S. War Department, as Trump has renamed it) — really, in serving American
+      neocon foreign policy — And maybe we should have a European policy, and the aim
+      of our policy should be to improve the productivity and living standards and self-reliance
+      of our European countries themselves, for our self-interest — not the neocon and
+      the Trumpian-American self-interest, that has led to the surrender of von der
+      Leyen to Trump’s tariff rules a few months ago? They’re going to put European
+      interests before foreign interests; and that’s going to mean, at some point, the
+      loss of Europe to the United States. This has been discussed by Putin in some
+      of his press conferences. And he said, I think, realistically: You know, it’s
+      going to take about 30 years for there, really, to be a restoration of trust,
+      and trade, and investment, mutually, between Western Europe and Russia. For the
+      time being, we’re turning eastward, with countries whose values we share. And
+      this ending of the Ukraine war, like the beginning of the Ukraine war, has been
+      all about values. And I think Lavrov had a wonderful statement, a few days ago,
+      in the meeting with Belarus that Russia has once a year. He said: If we talk about
+      what was, and what they want to restore (meaning NATO), these are all exhausted
+      Euro-Atlantic models. NATO [North Atlantic Treaty Organization] and the OSCE [Organization
+      for Security and Co-operation in Europe] are Euro-Atlantic structures. The European
+      Union has long ceased to be a European forum where the interests of Europeans
+      are represented. It’s become an appendage to NATO. And what they call fighting
+      for their values, is fighting for, what turns out to be, Nazi values. That says
+      it all, in a nutshell. Again, yesterday, Lavrov said, in a French interview, that
+      the whole drama began with the West’s attempt to have NATO absorb Ukraine, create
+      a military threat to Russia right on our borders; and in breach of all the promises
+      given to the Soviet Union, and contrary to all the understandings concluded then
+      with the Russian Federation. As part of the OSCE framework on the indivisible
+      nature of security, and the fact that no organization, no country in Europe will
+      seek to strengthen its security at the expense of others, it was approved at the
+      highest level — NATO acted in exactly the opposite way. That’s the Russian position
+      that’s going to shape how it restructures the domestic legal system and political
+      system of Ukraine, and the value system in which it’s doing this. If you read
+      what they’ve said, you realize the total disconnect between the so-called “peace
+      proposal” propaganda effort, and what Russia intends to do. Russia has been sort
+      of slow to raise the ante, and say: This isn’t simply about what military side
+      is going to win; it’s a fight over the values of civilization. And Lavrov has
+      said that Western Europe no longer has the values that shaped the Enlightenment,
+      and shaped European Idealism at a point when Europe achieved world political and
+      economic ascendancy in the 19th and 20th centuries. ⁣NIMA ALKHORSHID: Michael,
+      before this live[stream] we were talking about Bloomberg’s leak of Steve Witkoff’s
+      private call with Kremlin aide Yury Ushakov. What are they trying to do? Looking
+      at the social media, the way that they’re attacking Steve Witkoff, they’re calling
+      [him] a KGB agent? He’s an agent of the Trump administration! He’s Russia’s puppet,
+      “Putin’s puppet?” What’s going on with the case of Witkoff? It seems that the
+      establishment is attacking him, and these people are getting in line with the
+      establishment. ⁣MICHAEL HUDSON: Well, you mentioned the establishment. It’s obvious
+      that the phone calls and the emails that Witkoff was handling were all copied
+      by the National Security Agency. Essentially, they’re doing to Witkoff what they
+      did to Donald Trump in his first administration, [when he] tried to appoint the
+      general that was going to clean up the CIA, and clean out the bad actors. The
+      NSA leaked it to the FBI saying, oh, look at what the general said. They pretty
+      much falsified the charges against him. I’m blocking out the general’s name, but
+      you must remember who he is. At any rate, they’re trying to do the same with Witkoff.
+      They’re trying to Witkoff by saying, here is the reality that we recognize, when
+      he was talking to [Kirill] Dmitriev and other Russians. ⁣NIMA ALKHORSHID: Michael,
+      you mean that general that was in Russiagate, they said that he’s connected with
+      Russia, General [Michael] Flynn? ⁣MICHAEL HUDSON: Yes, General Flynn. The one
+      thing that the deep state wanted to do was to prevent General Flynn from being
+      appointed to clean out the CIA, to clean out the neocons. That’s what Trump wanted
+      to do. They framed him up, and they got Trump’s awful vice-president [Mike Pence]
+      to say, and his idiot son-in-law [Jared Kushner] to say: No, you’ve got to get
+      rid of General Flynn. The FBI doesn’t like him. Well, of course the FBI and the
+      deep state doesn’t like him because he wanted to clean out the neocons. And Trump
+      was gullible enough to trust his idiot son-in-law and the vice president that
+      was urging him. And he listened to the neocons who he wanted to get rid of for
+      the advice: Don’t have anyone strong enough to get rid of us in power. He was
+      suckered. And I think he decided not to do that again. And that’s why he’s focused,
+      in his second term, on appointing politically loyal cabinet members, and army
+      members, and NSC members, and State Department members. The problem is that appointing
+      political loyalists, they’re not (all) that savvy as to how to really conduct
+      foreign relations and foreign policy, or even military policy. So that’s the trade-off
+      that is sort of tearing his second term apart. Well, they’re trying to say: Witkoff,
+      by saying that Russia is winning, Witkoff is also “Putin’s puppet.” Well, any
+      attempt at reality is defined [by neocons] as “pro-Russian,” because reality is
+      the Russians have defeated Ukraine. They are marching towards victory, that they
+      will probably conclude at the end of next spring, at the latest, in Ukraine. They
+      will get rid of the Nazi government. They will replace it with a new government.
+      They will write a new constitution. All of that (obvious) military victory is
+      a realistic expectation, and yet that’s called pro-Russian. Well, if reality is
+      pro-Russian, then that means that NATO and America is the sphere of unreality.
+      And the only way that you can ever get unreality to somehow dominate the electoral
+      political process is by shaping a narrative in a way that distorts reality, that
+      distorts the reality that recognizes Russia’s military victory in Ukraine; and,
+      by the same token, [distorts the reality] that recognizes the futility of ever
+      sending millions of Ukrainians to die, or to emigrate, or to suffer, to fight
+      to the last Ukrainian. What will the Ukrainian population think when the war is
+      over? The voters — not the neo-Nazi leaders and the kleptocrats — what will they
+      think? To say: How did we ever get our children, and our relatives, killed in
+      this futile fight that we’ve lost, and had no chance of winning, because we were
+      outgunned, outmanned? And all of this was just to, somehow, weaken Russia, not
+      to help us? What interest did we have in fighting against the Russian language,
+      in burning the library books that are written in Russian, in blaming, banning
+      the Russian speakers, banning Russian music, and all of that? Last time I was
+      in Latvia, I remember, we were invited to a concert, and it was Dmitry Shostakovich’s
+      opera, Lady Macbeth of Mtsensk . This was many years ago, when I was there performing
+      Russian operas. All that, now, is swept away by the anti-Russian Baltic feeling,
+      by banning the Russian-speaking population from voting and really having a voice
+      in the electoral process. So that’s what all of this is about. When they’re saying
+      that Witkoff is pro-Russian, and that what he is saying — that Russia’s winning
+      — is pro-Russian — it’s as if that’s a bad word. Instead of saying: Witkoff is
+      recognizing economic reality. Thank God that we have Donald Trump appointing him,
+      [who] is willing to face the reality that, as Trump has said (again and again),
+      Ukraine is losing. And if Ukraine doesn’t agree to end the war now, on whatever
+      terms it can, it’s going to be in an even worse position later. Well, Trump is
+      right. ⁣NIMA ALKHORSHID: Yeah, exactly. Thank you so much, Michael, for being
+      with us today. It was great to talk in detail [about] what’s going on in terms
+      of Trump’s [28]-point peace plan, and what’s next, happening behind the scenes.
+      Yeah, great pleasure, Michael. ⁣MICHAEL HUDSON: Thank you very much. I’m so glad
+      we had this discussion. Transcription and Diarization: https://scripthub.dev Editing:
+      Kimberly Mims Review: ced Photo by Jay Soundo on Unsplash The post The Ceasefire
+      Charade first appeared on Michael Hudson .'
+    one_sentence_summary: In a discussion on November 26, 2025, Nima Alkhorchid and
+      Michael Hudson address the evolving 28-point plan proposed by the United States,
+      which has been reduced to 22 points following a meeting involving Marco Rubio
+      and European and Ukrainian representatives.
+    paragraph_summary: In a recent discussion, Nima Alkhorchid and Michael Hudson addressed
+      the United States' proposed 28-point plan regarding the ongoing conflict in Ukraine,
+      which has reportedly been revised following a meeting involving Marco Rubio and
+      European and Ukrainian officials. Hudson emphasized that the plan is not a genuine
+      peace proposal but rather a strategic effort to influence public perception of
+      the events surrounding the Ukrainian coup in 2014 and the subsequent war. He described
+      it as a sophisticated propaganda initiative aimed at countering the narratives
+      put forth by Russian leaders, who have articulated their intentions to reshape
+      Ukraine's government and prevent its NATO membership. Hudson's analysis suggests
+      that the U.S. plan serves more to frame the discussion than to offer a viable
+      resolution to the conflict.
+    published: '2025-12-15T11:32:36+00:00'
   - title: Cowboy Capitalism in Central Asia
     url: https://michael-hudson.com/2025/11/cowboy-capitalism-in-central-asia/
     text: '⁣NIMA ALKHORSHID: Hi everybody. Today is Thursday, November 13, 2025, and

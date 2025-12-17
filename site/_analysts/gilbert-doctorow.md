@@ -7,16 +7,454 @@ description: "Gilbert Doctorow is a Brussels-based independent political analyst
 websites:
   - https://gilbertdoctorow.com/
 summary: |
-  As the Ukraine conflict grinds on into December 2025, the geopolitical landscape is increasingly shaped by shifting U.S. strategy, internal European divisions, and the evolving prospects for peace. The latest analysis highlights significant developments in U.S. foreign policy, European responses to the war, and the ongoing debate over the seizure of Russian assets.
+  As diplomatic maneuvering intensifies in Europe, the latest developments center on a high-level meeting in Berlin, where EU Member States and American representatives presented terms for a Russia-Ukraine ceasefire. According to **Gilbert Doctorow**, these proposals closely mirror Ukrainian President Zelensky’s long-standing demands for Russian capitulation, suggesting little movement toward compromise. This approach, Doctorow notes, is unlikely to produce a breakthrough, as it fails to address core Russian concerns and may instead prolong the stalemate.
   
-  The most notable recent development is the publication of the 2025 U.S. National Security Strategy. In a detailed conversation with Professor Glenn Diesen, **Gilbert Doctorow** underscores the document’s return to a Realist, Kissinger-style approach, emphasizing national interests and pragmatic engagement. This marks a clear departure from the previous administration’s Idealist, militarized stance, which sought to isolate Russia diplomatically. According to Doctorow, “the continuity with Trump’s 2017 strategy is unmistakable,” suggesting that Washington is now more focused on negotiation and balance-of-power politics than on ideological confrontation.
+  Meanwhile, Ukraine’s recent escalation of drone attacks on Russian territory has drawn attention. Doctorow characterizes these strikes as a “public relations strategy” aimed at securing continued Western support, rather than achieving decisive military gains. The majority of analysts agree that while these attacks generate headlines, they have not shifted the balance on the battlefield.
   
-  Meanwhile, internal European dynamics are becoming increasingly consequential. In his recent commentary, **Doctorow** points to Belgian Prime Minister Bart De Wever as a potential game-changer in the EU’s Ukraine policy. De Wever’s opposition to European Commission President Ursula von der Leyen’s hardline stance is gaining traction, with Doctorow arguing that “the actions of De Wever may ultimately prove more decisive for the war’s resolution than even recent Russian military gains or Hungary’s resistance.” This signals a growing rift within the EU, as some member states push back against the prevailing consensus on continued confrontation with Moscow.
+  In the broader context, Doctorow continues to highlight the growing rift within the EU regarding the handling of frozen Russian assets. The resistance led by Belgian Prime Minister Bart De Wever and Euroclear’s CEO Valerie Urbain against asset confiscation is seen as a significant obstacle to Brussels’ plans, with potential ramifications for global financial markets and intra-EU cohesion.
   
-  Another critical issue is the European Commission’s proposal to seize frozen Russian assets to fund Ukraine’s war effort. The CEO of Euroclear has raised alarms about the potential for severe disruptions to global financial markets if these plans proceed. As Doctorow notes, “the risks to market stability are considerable,” and the move could undermine confidence in the European financial system, further complicating the bloc’s internal cohesion.
-  
-  Looking ahead, the prevailing sentiment among independent analysts is that the U.S. is now actively seeking a negotiated settlement to the Ukraine conflict, with the aim of reintegrating Russia into the global order and restoring energy flows to Europe. There is a high chance that intra-European divisions will deepen, especially if economic pressures mount and the asset seizure plan triggers market instability. Most definitely, the Realist turn in U.S. policy will continue to shape diplomatic efforts in the coming months, with a quite likely scenario of accelerated peace negotiations—provided European unity does not fracture irreparably.
+  Looking ahead, Doctorow assesses with high confidence that the current Western approach—demanding Russian capitulation and leveraging economic pressure—will not yield a negotiated settlement in the near term. He predicts that internal EU divisions, particularly over financial measures, will become increasingly prominent and could shape the trajectory of both the war and Europe’s political landscape.
 articles:
+  - title: Required reading
+    url: https://gilbertdoctorow.com/2025/12/16/required-reading/
+    text: 'One of the benefits of being in multiple ‘press pools’ is that you get drawn
+      into reporting on breaking news even before major media put out their accounts.
+      Thus, early this morning I received a WhatsApp invitation from RT International
+      to comment briefly on the Statement issued by the participating EU Member States
+      at a meeting in Berlin yesterday hosted by Chancellor Friedrich Merz. https://ec.europa.eu/commission/presscorner/detail/en/statement_25_3086
+      Note: the meeting in Berlin set out Europe’s terms for a cease fire and peace
+      to be concluded between Russia and Ukraine. It amounts to a Russian capitulation
+      along the lines that Volodymyr Zelensky has demanded for more than three years
+      now. The Americans Steve Witkoff and Jared Kushner took part in that meeting.
+      They are shown in photographs released today by The Financial Times standing next
+      to the other participants and appearing to be relaxed and accommodating. We are
+      led to believe that they agreed to the terms of this so-called peace deal, though
+      that strains my credulity. However, the importance of the Statement is not in
+      settling with the Americans what terms for peace will now be presented to Moscow.
+      It was a measure to get the EU states aligned for the decisive meeting of the
+      European Council tomorrow and on the 19 th to vote on disposition of the frozen
+      Russian state assets being held in Euroclear (Belgium) as Ursula von der Leyen
+      wants and the Belgian prime minister has so far vetoed.  In this context, it is
+      important that we see Italy’s prime minister Meloni has signed the Statement,
+      considering that among its terms it envisions using the frozen assets to serve
+      as reparations to Ukraine for the damage Russia has caused by its war of aggression.
+      That is precisely what the European heads of government and of state will be voting
+      on in Brussels and on that issue Meloni had joined Belgium, Bulgaria and Malta
+      in a statement last Friday which expressed opposition to the collateralization
+      of the assets for purposes of lending 145 billion euros to Ukraine. As I have
+      said in the RT interview, which will be posted on the internet and for which I
+      will share the link as soon as I receive it, the greater meaning of the meeting
+      in Berlin yesterday as reflected in the Statement now on the Commission website
+      is that it seeks to perpetuate all of the preconditions that Moscow has called
+      the root causes of the conflict and what prompted them to launch their Special
+      Military Operation. By its terms, NATO-Russian relations will be those of enemies
+      who are armed and ready for the next round of battle at any time. Ukraine will
+      be armed to NATO standards, with NATO military personnel present on the ground
+      as a trip-wire to set off World War III at any time. And the neo-Nazi regime in
+      Kiev will remain in power, with hundreds of billions of euros in Russian ‘reparations’
+      to sustain the criminal feeding frenzy of its civilian and military leaders. Chancellor
+      Merz and Ursula von der Leyen have gotten what they wanted from this meeting.
+      They are well on their way to ensuring their continued rule for years to come
+      while turning the EU from the Peace Project which it was in the 20 th century
+      to the War Project that it is today. Meanwhile, the brutal suppression of civic
+      freedoms in Europe that J.D. Vance denounced at his speech to the Munich Security
+      Conference continues unchecked. Yesterday one reader alerted me to the latest
+      EU sanctions applied to Jacques Baud for allegedly acting as a spokesperson for
+      the Kremlin and spreading disinformation about the Bucha massacre and other issues
+      relating to the ongoing war. See the Radio Free Europe summary: https://www.rferl.org/a/eu-blacklist-russia-sanctions-shadow-fleet/33619173.html
+      For those who do not know Baud, from among the books he has published about the
+      war, I can recommend his ‘The Russian Art of War: How the West Led Ukraine to
+      Defeat’ (2024).  You will quickly understand that this former colonel and member
+      of the Swiss strategic intelligence service who also advised United Nations peacekeeping
+      operations, is a serious scholar. He has been interviewed by Glenn Diesen on his
+      youtube channel and been a guest on other major Alternative Media programs. The
+      EU sanctions now potentially mean that Baud will not be allowed to travel to any
+      EU country and any assets he may have in Europe will be confiscated. I point out
+      that the sanctions imposed on Baud could just as easily be imposed on any of the
+      American and other non-EU passport holders appearing on any of the Alternative
+      Media programs that readers of these pages are likely to consult. In brief, this
+      development should be brought to the attention of J.D. Vance because it bears
+      directly on his denunciation of the EU Institutions for violating free speech
+      principles. It also provides grist for Elon Musk’s call to disband the EU and
+      restore sovereignty to the Member States. ©Gilbert Doctorow, 2025'
+    one_sentence_summary: The article discusses a meeting in Berlin where EU Member
+      States, along with American participants, outlined terms for a ceasefire and peace
+      between Russia and Ukraine, which are perceived as aligning with Ukrainian President
+      Volodymyr Zelensky's long-standing demands for Russian capitulation.
+    paragraph_summary: The article discusses a recent meeting in Berlin, hosted by Chancellor
+      Friedrich Merz, where EU Member States outlined their terms for a ceasefire and
+      peace agreement between Russia and Ukraine, which essentially reflects the demands
+      of Ukrainian President Volodymyr Zelensky. The meeting included American figures
+      Steve Witkoff and Jared Kushner, who appeared to support the proposed peace deal,
+      although the author expresses skepticism about their agreement. The significance
+      of the meeting lies in aligning EU states ahead of a crucial European Council
+      meeting to vote on the disposition of frozen Russian state assets, which Ursula
+      von der Leyen advocates for using as reparations for Ukraine. Notably, Italian
+      Prime Minister Giorgia Meloni's support for the Statement is highlighted, especially
+      given her previous opposition to collateralizing these assets for reparations.
+    published: '2025-12-16T09:14:11+00:00'
+  - title: Required reading
+    url: https://gilbertdoctorow.com/2025/12/16/required-reading/
+    text: 'One of the benefits of being in multiple ‘press pools’ is that you get drawn
+      into reporting on breaking news even before major media put out their accounts.
+      Thus, early this morning I received a WhatsApp invitation from RT International
+      to comment briefly on the Statement issued by the participating EU Member States
+      at a meeting in Berlin yesterday hosted by Chancellor Friedrich Merz. https://ec.europa.eu/commission/presscorner/detail/en/statement_25_3086
+      Note: the meeting in Berlin set out Europe’s terms for a cease fire and peace
+      to be concluded between Russia and Ukraine. It amounts to a Russian capitulation
+      along the lines that Volodymyr Zelensky has demanded for more than three years
+      now. The Americans Steve Witkoff and Jared Kushner took part in that meeting.
+      They are shown in photographs released today by The Financial Times standing next
+      to the other participants and appearing to be relaxed and accommodating. We are
+      led to believe that they agreed to the terms of this so-called peace deal, though
+      that strains my credulity. However, the importance of the Statement is not in
+      settling with the Americans what terms for peace will now be presented to Moscow.
+      It was a measure to get the EU states aligned for the decisive meeting of the
+      European Council tomorrow and on the 19 th to vote on disposition of the frozen
+      Russian state assets being held in Euroclear (Belgium) as Ursula von der Leyen
+      wants and the Belgian prime minister has so far vetoed.  In this context, it is
+      important that we see Italy’s prime minister Meloni has signed the Statement,
+      considering that among its terms it envisions using the frozen assets to serve
+      as reparations to Ukraine for the damage Russia has caused by its war of aggression.
+      That is precisely what the European heads of government and of state will be voting
+      on in Brussels and on that issue Meloni had joined Belgium, Bulgaria and Malta
+      in a statement last Friday which expressed opposition to the collateralization
+      of the assets for purposes of lending 145 billion euros to Ukraine. As I have
+      said in the RT interview, which will be posted on the internet and for which I
+      will share the link as soon as I receive it, the greater meaning of the meeting
+      in Berlin yesterday as reflected in the Statement now on the Commission website
+      is that it seeks to perpetuate all of the preconditions that Moscow has called
+      the root causes of the conflict and what prompted them to launch their Special
+      Military Operation. By its terms, NATO-Russian relations will be those of enemies
+      who are armed and ready for the next round of battle at any time. Ukraine will
+      be armed to NATO standards, with NATO military personnel present on the ground
+      as a trip-wire to set off World War III at any time. And the neo-Nazi regime in
+      Kiev will remain in power, with hundreds of billions of euros in Russian ‘reparations’
+      to sustain the criminal feeding frenzy of its civilian and military leaders. Chancellor
+      Merz and Ursula von der Leyen have gotten what they wanted from this meeting.
+      They are well on their way to ensuring their continued rule for years to come
+      while turning the EU from the Peace Project which it was in the 20 th century
+      to the War Project that it is today. Meanwhile, the brutal suppression of civic
+      freedoms in Europe that J.D. Vance denounced at his speech to the Munich Security
+      Conference continues unchecked. Yesterday one reader alerted me to the latest
+      EU sanctions applied to Jacques Baud for allegedly acting as a spokesperson for
+      the Kremlin and spreading disinformation about the Bucha massacre and other issues
+      relating to the ongoing war. See the Radio Free Europe summary: https://www.rferl.org/a/eu-blacklist-russia-sanctions-shadow-fleet/33619173.html
+      For those who do not know Baud, from among the books he has published about the
+      war, I can recommend his ‘The Russian Art of War: How the West Led Ukraine to
+      Defeat’ (2024).  You will quickly understand that this former colonel and member
+      of the Swiss strategic intelligence service who also advised United Nations peacekeeping
+      operations, is a serious scholar. He has been interviewed by Glenn Diesen on his
+      youtube channel and been a guest on other major Alternative Media programs. The
+      EU sanctions now potentially mean that Baud will not be allowed to travel to any
+      EU country and any assets he may have in Europe will be confiscated. I point out
+      that the sanctions imposed on Baud could just as easily be imposed on any of the
+      American and other non-EU passport holders appearing on any of the Alternative
+      Media programs that readers of these pages are likely to consult. In brief, this
+      development should be brought to the attention of J.D. Vance because it bears
+      directly on his denunciation of the EU Institutions for violating free speech
+      principles. It also provides grist for Elon Musk’s call to disband the EU and
+      restore sovereignty to the Member States. ©Gilbert Doctorow, 2025'
+    one_sentence_summary: The article discusses a meeting in Berlin where EU Member
+      States, along with American participants, outlined terms for a ceasefire and peace
+      between Russia and Ukraine, which are perceived as aligning with Ukrainian President
+      Volodymyr Zelensky's long-standing demands for Russian capitulation.
+    paragraph_summary: The article discusses a recent meeting in Berlin, hosted by Chancellor
+      Friedrich Merz, where EU Member States outlined their terms for a ceasefire and
+      peace agreement between Russia and Ukraine, which essentially reflects the demands
+      of Ukrainian President Volodymyr Zelensky. The meeting included American figures
+      Steve Witkoff and Jared Kushner, who appeared to support the proposed peace deal,
+      although the author expresses skepticism about their agreement. The significance
+      of the meeting lies in aligning EU states ahead of a crucial European Council
+      meeting to vote on the disposition of frozen Russian state assets, which Ursula
+      von der Leyen advocates for using as reparations for Ukraine. Notably, Italian
+      Prime Minister Giorgia Meloni's support for the Statement is highlighted, especially
+      given her previous opposition to collateralizing these assets for reparations.
+    published: '2025-12-16T09:14:11+00:00'
+  - title: 'NewsX World hourly bulletin: discussing the latest Ukrainian massive drone
+      attacks on Russia'
+    url: https://gilbertdoctorow.com/2025/12/15/newsx-world-hourly-bulletin-discussing-the-latest-ukrainian-massive-drone-attacks-on-russia/
+    text: I open with a word of gratitude to the NewsX World production team for inviting
+      my commentary on the Russia-Ukraine war and peace efforts day after day given
+      that they know very well how my interpretations of events contradict directly
+      the Western mainstream spin that turns the news bulletins on Euronews, on the
+      BBC and on some other Indian broadcasters into crass pro-Kiev propaganda! Today’s
+      discussion, beginning at minute 21 focuses on the latest wave of Ukrainian drones
+      sent deep into the territory of the Russian Federation, with 15 targeting Moscow. 
+      As I say here, this wave drone attack as well as the attack with an even greater
+      number of UAVs on the previous day may be seen as a Public Relations effort. Zelensky
+      has placed PR above purely military objectives in order to impress Western backers
+      with Ukraine’s robust fight and wheedle still more financial and hardware support
+      from them. In fact, there seem to have been no Russian infrastructure struck by
+      these drones, only one incidence of reported damage due to falling debris from
+      a drone struck by Russian air defenses. I also was given an opportunity to decode
+      Zelensky’s stated willingness to make concessions now on NATO membership so long
+      as Ukraine receives strong security commitments from the US and other allies.
+      His intent is clear:  to demand that his Western supporters, especially the USA
+      install themselves in Ukraine for purposes of the country’s security. That, of
+      course, is precisely what the Russians saw as an existential threat to themselves
+      in the run-up to their December 2021 demand that NATO  move back its men and installations
+      to the pre-1996 borders. It was to end the de facto NATO presence in Ukraine that
+      the Russians they launched the SMO in February 2022.  A Russian rejection of peace
+      over the stationing of Coalition of the Willing troops in Ukraine will be trumpeted
+      as demonstration of ‘Putin’s unwillingness to end his war of aggression.
+    one_sentence_summary: The article expresses gratitude to the NewsX World production
+      team for allowing commentary that challenges Western narratives on the Russia-Ukraine
+      war, focusing on Ukraine's recent drone attacks on Russia as a public relations
+      strategy to garner further support from Western allies rather than achieving significant
+      military objectives.
+    paragraph_summary: The author expresses gratitude to the NewsX World production
+      team for allowing commentary on the Russia-Ukraine war, highlighting a perspective
+      that contrasts with the pro-Kiev narrative prevalent in Western media. In a recent
+      discussion, the focus was on Ukraine's drone attacks deep into Russian territory,
+      particularly targeting Moscow, which the author interprets as a Public Relations
+      strategy by President Zelensky to impress Western allies and secure further military
+      and financial support. The attacks reportedly caused minimal damage, with no significant
+      Russian infrastructure affected. Additionally, the author analyzes Zelensky's
+      recent willingness to make concessions regarding NATO membership, suggesting that
+      his aim is to secure strong security commitments from the US and allies, which
+      echoes Russia's concerns about NATO's presence in Ukraine—an issue that contributed
+      to the conflict's escalation. The author warns that any Russian rejection of peace
+      proposals involving foreign troop presence in Ukraine will be portrayed as a refusal
+      to end hostilities, reinforcing the narrative of Russian aggression.
+    published: '2025-12-15T12:14:09+00:00'
+  - title: 'NewsX World hourly bulletin: discussing the latest Ukrainian massive drone
+      attacks on Russia'
+    url: https://gilbertdoctorow.com/2025/12/15/newsx-world-hourly-bulletin-discussing-the-latest-ukrainian-massive-drone-attacks-on-russia/
+    text: I open with a word of gratitude to the NewsX World production team for inviting
+      my commentary on the Russia-Ukraine war and peace efforts day after day given
+      that they know very well how my interpretations of events contradict directly
+      the Western mainstream spin that turns the news bulletins on Euronews, on the
+      BBC and on some other Indian broadcasters into crass pro-Kiev propaganda! Today’s
+      discussion, beginning at minute 21 focuses on the latest wave of Ukrainian drones
+      sent deep into the territory of the Russian Federation, with 15 targeting Moscow. 
+      As I say here, this wave drone attack as well as the attack with an even greater
+      number of UAVs on the previous day may be seen as a Public Relations effort. Zelensky
+      has placed PR above purely military objectives in order to impress Western backers
+      with Ukraine’s robust fight and wheedle still more financial and hardware support
+      from them. In fact, there seem to have been no Russian infrastructure struck by
+      these drones, only one incidence of reported damage due to falling debris from
+      a drone struck by Russian air defenses. I also was given an opportunity to decode
+      Zelensky’s stated willingness to make concessions now on NATO membership so long
+      as Ukraine receives strong security commitments from the US and other allies.
+      His intent is clear:  to demand that his Western supporters, especially the USA
+      install themselves in Ukraine for purposes of the country’s security. That, of
+      course, is precisely what the Russians saw as an existential threat to themselves
+      in the run-up to their December 2021 demand that NATO  move back its men and installations
+      to the pre-1996 borders. It was to end the de facto NATO presence in Ukraine that
+      the Russians they launched the SMO in February 2022.  A Russian rejection of peace
+      over the stationing of Coalition of the Willing troops in Ukraine will be trumpeted
+      as demonstration of ‘Putin’s unwillingness to end his war of aggression.
+    one_sentence_summary: The article expresses gratitude to the NewsX World production
+      team for allowing commentary that challenges Western narratives on the Russia-Ukraine
+      war, focusing on Ukraine's recent drone attacks on Russia as a public relations
+      strategy to garner further support from Western allies rather than achieving significant
+      military objectives.
+    paragraph_summary: The author expresses gratitude to the NewsX World production
+      team for allowing commentary on the Russia-Ukraine war, highlighting a perspective
+      that contrasts with the pro-Kiev narrative prevalent in Western media. In a recent
+      discussion, the focus was on Ukraine's drone attacks deep into Russian territory,
+      particularly targeting Moscow, which the author interprets as a Public Relations
+      strategy by President Zelensky to impress Western allies and secure further military
+      and financial support. The attacks reportedly caused minimal damage, with no significant
+      Russian infrastructure affected. Additionally, the author analyzes Zelensky's
+      recent willingness to make concessions regarding NATO membership, suggesting that
+      his aim is to secure strong security commitments from the US and allies, which
+      echoes Russia's concerns about NATO's presence in Ukraine—an issue that contributed
+      to the conflict's escalation. The author warns that any Russian rejection of peace
+      proposals involving foreign troop presence in Ukraine will be portrayed as a refusal
+      to end hostilities, reinforcing the narrative of Russian aggression.
+    published: '2025-12-15T12:14:09+00:00'
+  - title: 'NewsX Eurozone: this morning’s interview on latest war developments'
+    url: https://gilbertdoctorow.com/2025/12/13/newsx-eurozone-this-mornings-interview-on-latest-war-developments/
+    text: In this hourly news bulletin on the Indian broadcaster, I comment on the Ukrainian
+      response to American proposals for creating a free economic zone in the parts
+      of the Donbas from which Ukraine withdraws under conditions of a peace treaty.
+      We also discuss the latest Russian attacks on the Ukrainian port cities of Chernomorsk
+      and Odessa in which Turkish ships were damaged.
+    one_sentence_summary: The news bulletin covers Ukraine's reaction to U.S. proposals
+      for a free economic zone in parts of the Donbas amid a peace treaty, along with
+      reports of recent Russian attacks on Ukrainian port cities that resulted in damage
+      to Turkish ships.
+    paragraph_summary: In the latest hourly news bulletin from an Indian broadcaster,
+      the discussion centers on Ukraine's reaction to U.S. proposals for establishing
+      a free economic zone in areas of the Donbas that Ukraine would vacate as part
+      of a peace treaty. The bulletin also covers recent Russian assaults on Ukrainian
+      port cities, specifically Chernomorsk and Odessa, which resulted in damage to
+      Turkish vessels.
+    published: '2025-12-13T12:48:03+00:00'
+  - title: 'NewsX Eurozone: this morning’s interview on latest war developments'
+    url: https://gilbertdoctorow.com/2025/12/13/newsx-eurozone-this-mornings-interview-on-latest-war-developments/
+    text: In this hourly news bulletin on the Indian broadcaster, I comment on the Ukrainian
+      response to American proposals for creating a free economic zone in the parts
+      of the Donbas from which Ukraine withdraws under conditions of a peace treaty.
+      We also discuss the latest Russian attacks on the Ukrainian port cities of Chernomorsk
+      and Odessa in which Turkish ships were damaged.
+    one_sentence_summary: The news bulletin covers Ukraine's reaction to U.S. proposals
+      for a free economic zone in parts of the Donbas amid a peace treaty, along with
+      reports of recent Russian attacks on Ukrainian port cities that resulted in damage
+      to Turkish ships.
+    paragraph_summary: In the latest hourly news bulletin from an Indian broadcaster,
+      the discussion centers on Ukraine's reaction to U.S. proposals for establishing
+      a free economic zone in areas of the Donbas that Ukraine would vacate as part
+      of a peace treaty. The bulletin also covers recent Russian assaults on Ukrainian
+      port cities, specifically Chernomorsk and Odessa, which resulted in damage to
+      Turkish vessels.
+    published: '2025-12-13T12:48:03+00:00'
+  - title: 'RT International: “Unelected Rule”'
+    url: https://gilbertdoctorow.com/2025/12/10/rt-international-unelected-rule/
+    text: 10 December 2025 This morning’s chat with RT International (Moscow) focused
+      on the questions of the democratic failings of the European Parliament and its
+      domination by the Germans, whose power is leveraged via the European People’s
+      Party, the single most numerous party in Parliament, to give them a 5:1 stronger
+      say on how European affairs are conducted than the say of any other citizens in
+      the European Union.  We also discuss the bravery of Belgium’s Prime Minister Bart
+      De Wever and of CEO of Euroclear Valerie Urbain who do not just ‘talk the talk’
+      but actually put their credibility on the line by directly vetoing the plans for
+      confiscation of Russian assets. https://drive.google.com/file/d/1Y7DLcOJ5AafhZaYPLwl5vRnjdHu9GG2K/view
+    one_sentence_summary: The article critiques the European Parliament's democratic
+      shortcomings and German dominance through the European People's Party, while praising
+      Belgium's Prime Minister Bart De Wever and Euroclear's CEO Valerie Urbain for
+      their courageous veto against the confiscation of Russian assets.
+    paragraph_summary: In a recent interview with RT International, discussions centered
+      on the perceived democratic shortcomings of the European Parliament, particularly
+      highlighting the dominance of Germany through the European People's Party, which
+      reportedly gives them a disproportionate influence in EU affairs, with a 5:1 advantage
+      over other citizens. The conversation also praised Belgium's Prime Minister Bart
+      De Wever and Euroclear CEO Valerie Urbain for their courageous decision to veto
+      plans for the confiscation of Russian assets, demonstrating their commitment to
+      accountability and integrity in governance.
+    published: '2025-12-10T15:38:43+00:00'
+  - title: 'RT International: “Unelected Rule”'
+    url: https://gilbertdoctorow.com/2025/12/10/rt-international-unelected-rule/
+    text: 10 December 2025 This morning’s chat with RT International (Moscow) focused
+      on the questions of the democratic failings of the European Parliament and its
+      domination by the Germans, whose power is leveraged via the European People’s
+      Party, the single most numerous party in Parliament, to give them a 5:1 stronger
+      say on how European affairs are conducted than the say of any other citizens in
+      the European Union.  We also discuss the bravery of Belgium’s Prime Minister Bart
+      De Wever and of CEO of Euroclear Valerie Urbain who do not just ‘talk the talk’
+      but actually put their credibility on the line by directly vetoing the plans for
+      confiscation of Russian assets. https://drive.google.com/file/d/1Y7DLcOJ5AafhZaYPLwl5vRnjdHu9GG2K/view
+    one_sentence_summary: The article critiques the European Parliament's democratic
+      shortcomings and German dominance through the European People's Party, while praising
+      Belgium's Prime Minister Bart De Wever and Euroclear's CEO Valerie Urbain for
+      their courageous veto against the confiscation of Russian assets.
+    paragraph_summary: In a recent interview with RT International, discussions centered
+      on the perceived democratic shortcomings of the European Parliament, particularly
+      highlighting the dominance of Germany through the European People's Party, which
+      reportedly gives them a disproportionate influence in EU affairs, with a 5:1 advantage
+      over other citizens. The conversation also praised Belgium's Prime Minister Bart
+      De Wever and Euroclear CEO Valerie Urbain for their courageous decision to veto
+      plans for the confiscation of Russian assets, demonstrating their commitment to
+      accountability and integrity in governance.
+    published: '2025-12-10T15:38:43+00:00'
+  - title: '‘Judging Freedom’ edition of 10 December 2025: Trump Embraces Realism'
+    url: https://gilbertdoctorow.com/2025/12/10/judging-freedom-edition-of-10-december-2025-trump-embraces-realism/
+    text: I am grateful to Judge Andrew Napolitano for leading today’s discussion towards
+      highly topical questions of how the Trump administration is functioning, to what
+      contradictions there are between the ‘realism’ which is set as the guiding light
+      of the new National Security Strategy and the day to day actions of Team Trump
+      that we see in various parts of the world, to what are the merits of Marco Rubio
+      having been installed as Secretary of State, to the Neocon population of State
+      and not just of Rubio, its top executive, and to what qualifications do top business
+      executives have to be diplomats, among other issues. For this reason, viewers
+      will find that there is very little overlap with yesterday’s lengthy conversation
+      with Professor Glenn Diesen. ©Gilbert Doctorow, 2025
+    one_sentence_summary: The article discusses a conversation led by Judge Andrew Napolitano
+      that critiques the contradictions in the Trump administration's National Security
+      Strategy, examines Marco Rubio's appointment as Secretary of State, and questions
+      the diplomatic qualifications of top business executives, highlighting its distinct
+      focus compared to a previous discussion with Professor Glenn Diesen.
+    paragraph_summary: In a discussion led by Judge Andrew Napolitano, key issues regarding
+      the functioning of the Trump administration were explored, including the contradictions
+      between the National Security Strategy's emphasis on 'realism' and the administration's
+      actions globally. The conversation also touched on the implications of Marco Rubio's
+      appointment as Secretary of State, the influence of Neoconservatives within the
+      State Department, and the qualifications of business executives for diplomatic
+      roles. The dialogue differed significantly from a previous discussion with Professor
+      Glenn Diesen, highlighting the unique perspectives presented.
+    published: '2025-12-10T14:47:29+00:00'
+  - title: '‘Judging Freedom’ edition of 10 December 2025: Trump Embraces Realism'
+    url: https://gilbertdoctorow.com/2025/12/10/judging-freedom-edition-of-10-december-2025-trump-embraces-realism/
+    text: I am grateful to Judge Andrew Napolitano for leading today’s discussion towards
+      highly topical questions of how the Trump administration is functioning, to what
+      contradictions there are between the ‘realism’ which is set as the guiding light
+      of the new National Security Strategy and the day to day actions of Team Trump
+      that we see in various parts of the world, to what are the merits of Marco Rubio
+      having been installed as Secretary of State, to the Neocon population of State
+      and not just of Rubio, its top executive, and to what qualifications do top business
+      executives have to be diplomats, among other issues. For this reason, viewers
+      will find that there is very little overlap with yesterday’s lengthy conversation
+      with Professor Glenn Diesen. ©Gilbert Doctorow, 2025
+    one_sentence_summary: The article discusses a conversation led by Judge Andrew Napolitano
+      that critiques the contradictions in the Trump administration's National Security
+      Strategy, examines Marco Rubio's appointment as Secretary of State, and questions
+      the diplomatic qualifications of top business executives, highlighting its distinct
+      focus compared to a previous discussion with Professor Glenn Diesen.
+    paragraph_summary: In a discussion led by Judge Andrew Napolitano, key issues regarding
+      the functioning of the Trump administration were explored, including the contradictions
+      between the National Security Strategy's emphasis on 'realism' and the administration's
+      actions globally. The conversation also touched on the implications of Marco Rubio's
+      appointment as Secretary of State, the influence of Neoconservatives within the
+      State Department, and the qualifications of business executives for diplomatic
+      roles. The dialogue differed significantly from a previous discussion with Professor
+      Glenn Diesen, highlighting the unique perspectives presented.
+    published: '2025-12-10T14:47:29+00:00'
+  - title: Kremlin Welcomes Trump Remarks Claiming RUSSIA WILL WIN Ukraine War | NewsX
+      World
+    url: https://gilbertdoctorow.com/2025/12/10/kremlin-welcomes-trump-remarks-claiming-russia-will-win-ukraine-war-newsx-world/
+    text: This morning’s interview with NewsX World (India) on their hourly news bulletin,
+      minutes 4.40 to 10.20, focused on Zelensky’s latest hopes for bringing European
+      and US troops into Ukraine to ‘assure its security,’ now for purposes of holding
+      elections, and also on the likely scenario here in Brussels next week when Ursula
+      von der Leyen plans to impose an unprecedented ‘qualified majority’ voting rule
+      over the indefinite extension of the freeze on Russian state assets in order to
+      promote their collateralization for purposes of massive loans to Ukraine. I foresee 
+      a very contentious meeting that may end up bringing down von der Leyen and like-minded
+      leaders of EU Member States.
+    one_sentence_summary: The interview discussed Ukrainian President Zelensky's desire
+      for European and US troop support for elections in Ukraine, alongside Ursula von
+      der Leyen's plans to implement a controversial voting rule in Brussels regarding
+      the extension of frozen Russian assets to aid Ukraine, which may lead to significant
+      political fallout for her and other EU leaders.
+    paragraph_summary: In a recent interview with NewsX World, the discussion centered
+      on Ukrainian President Zelensky's aspirations to involve European and US troops
+      in Ukraine to ensure security for upcoming elections. The conversation also highlighted
+      an upcoming contentious meeting in Brussels, where Ursula von der Leyen intends
+      to implement a 'qualified majority' voting rule for the indefinite extension of
+      frozen Russian state assets, aiming to use these assets as collateral for substantial
+      loans to Ukraine. This move is anticipated to spark significant debate and could
+      potentially jeopardize von der Leyen's position and that of other EU leaders aligned
+      with her.
+    published: '2025-12-10T14:32:48+00:00'
+  - title: Kremlin Welcomes Trump Remarks Claiming RUSSIA WILL WIN Ukraine War | NewsX
+      World
+    url: https://gilbertdoctorow.com/2025/12/10/kremlin-welcomes-trump-remarks-claiming-russia-will-win-ukraine-war-newsx-world/
+    text: This morning’s interview with NewsX World (India) on their hourly news bulletin,
+      minutes 4.40 to 10.20, focused on Zelensky’s latest hopes for bringing European
+      and US troops into Ukraine to ‘assure its security,’ now for purposes of holding
+      elections, and also on the likely scenario here in Brussels next week when Ursula
+      von der Leyen plans to impose an unprecedented ‘qualified majority’ voting rule
+      over the indefinite extension of the freeze on Russian state assets in order to
+      promote their collateralization for purposes of massive loans to Ukraine. I foresee 
+      a very contentious meeting that may end up bringing down von der Leyen and like-minded
+      leaders of EU Member States.
+    one_sentence_summary: The interview discussed Ukrainian President Zelensky's desire
+      for European and US troop support for elections in Ukraine, alongside Ursula von
+      der Leyen's plans to implement a controversial voting rule in Brussels regarding
+      the extension of frozen Russian assets to aid Ukraine, which may lead to significant
+      political fallout for her and other EU leaders.
+    paragraph_summary: In a recent interview with NewsX World, the discussion centered
+      on Ukrainian President Zelensky's aspirations to involve European and US troops
+      in Ukraine to ensure security for upcoming elections. The conversation also highlighted
+      an upcoming contentious meeting in Brussels, where Ursula von der Leyen intends
+      to implement a 'qualified majority' voting rule for the indefinite extension of
+      frozen Russian state assets, aiming to use these assets as collateral for substantial
+      loans to Ukraine. This move is anticipated to spark significant debate and could
+      potentially jeopardize von der Leyen's position and that of other EU leaders aligned
+      with her.
+    published: '2025-12-10T14:32:48+00:00'
   - title: 'A conversation with Professor Glenn Diesen, 9 December: U.S. National Security
       Strategy Embraces Kissinger-Style Strategy'
     url: https://gilbertdoctorow.com/2025/12/09/a-conversation-with-professor-glenn-diesen-9-december-u-s-national-security-strategy-embraces-kissinger-style-strategy/

@@ -7,17 +7,69 @@ description: "Investigative journalist and filmmaker; founder of The Grayzone; c
 websites:
   - https://thegrayzone.com
 summary: |
-  As global power struggles intensify, recent revelations highlight the deepening entanglement between intelligence agencies, private tech firms, and Western governments. The latest disclosures underscore a trend of increasing reliance on foreign-linked security infrastructure and covert influence operations, with significant implications for democratic oversight and international relations.
+  The past week has seen a series of revelations highlighting the covert influence of Western powers in political upheavals and information control across several regions. These developments underscore an intensifying global contest for influence, especially between the US, its allies, and competing powers such as China and India.
   
-  The most recent development, as reported by **Max Blumenthal**, is the Pentagon and multiple US government agencies’ adoption of cybersecurity services from Axonius—a firm founded by former Israeli military intelligence operatives. This move, intended to bolster US data protection, raises questions about the influence of foreign intelligence veterans over sensitive American digital infrastructure. The majority of analysts cited by Blumenthal warn that this could create vulnerabilities and potential conflicts of interest, especially given the history of intelligence-sharing between the US and Israel.
+  The most recent and significant disclosure comes from Nepal, where, according to **Max Blumenthal**, leaked documents reveal that the US government covertly funded Nepalese youth groups to orchestrate a coup. The operation aimed to reduce Chinese and Indian sway in Kathmandu, culminating in the installation of a leader chosen via a social media poll. This marks a novel approach to regime change, leveraging youth activism and digital platforms to reshape the political landscape. The majority of analysts cited in these leaks agree that this represents a new phase in US efforts to counter rival influence in South Asia, with **Blumenthal** noting, “The US is now experimenting with youth-driven, tech-enabled regime change as a tool to reassert its strategic interests.”
   
-  In the UK, newly obtained documents reveal the extent of the British military and intelligence community’s use of the D-Notice censorship regime. According to **Max Blumenthal**, the D-Notice system has been highly effective in suppressing reporting on national security matters, shaping public perception, and silencing dissenting narratives. This practice, while justified by officials as necessary for national security, is increasingly criticized for undermining press freedom and democratic accountability.
+  Meanwhile, scrutiny of Western information control mechanisms has deepened. Files obtained by The Grayzone and reported by **Blumenthal** expose the UK’s secretive D-Notice censorship regime, which British military and intelligence agencies use to suppress reporting on national security matters. The system boasts a high success rate in shaping the public narrative and silencing dissenting or controversial stories. This revelation has reignited debates about press freedom and the extent of government intervention in the media.
   
-  Meanwhile, in Central America, the US role in regional politics faces renewed scrutiny. Former President Donald Trump’s recent pardon of convicted narco-trafficker Juan Orlando Hernandez, coupled with threats to undermine the Honduran economy unless the National Party prevails in upcoming elections, suggests ongoing efforts to influence political outcomes abroad. **Max Blumenthal** notes that these actions are widely viewed as attempts to secure US-aligned leadership in Honduras, despite widespread condemnation and concerns about democratic legitimacy.
+  In the US, concerns over cybersecurity and foreign influence have been amplified by the Pentagon’s reliance on Axonius, a firm founded by former Israeli military intelligence officers, for safeguarding government data. As **Blumenthal** reports, this partnership reflects the growing entanglement between US security infrastructure and foreign expertise, raising questions about sovereignty and the potential risks of outsourcing critical digital defenses.
   
   **Trends and Predictions:**  
-  The convergence of intelligence, technology, and political intervention is accelerating, with Western governments increasingly outsourcing critical security functions to private firms with foreign ties. This is likely to fuel debates over sovereignty, transparency, and the erosion of civil liberties. In the UK, the entrenchment of censorship mechanisms is expected to persist, with high confidence that official narratives will continue to dominate public discourse. In Central America, US interventionist tactics are quite likely to provoke instability and backlash, with a high chance of further revelations about covert operations. I guarantee that scrutiny of these practices will intensify, driving calls for greater oversight and accountability across the transatlantic sphere.
+  The convergence of these events suggests a broader trend of Western powers intensifying covert operations and information control to maintain geopolitical dominance. The use of youth-led, digitally coordinated regime change efforts is likely to expand, especially in regions where traditional influence is waning. Simultaneously, the reliance on foreign expertise for cybersecurity and the use of censorship regimes point to a tightening of control over both physical and informational domains.
+  
+  Based on the current trajectory and the weight of evidence, I guarantee that we will see further revelations of covert influence operations and expanded efforts to control narratives in contested regions. There is a high chance that similar youth-driven, tech-enabled interventions will be attempted elsewhere, particularly where US or allied interests are perceived to be at risk.
 articles:
+  - title: US regime change front funded Nepalese youth revolutionaries, leaks reveal
+    url: https://thegrayzone.com/2025/12/10/cia-front-funded-nepal-revolutionaries/
+    text: Leaked files reviewed by The Grayzone show the US gov’t covertly funded Nepalese
+      youth groups in the run-up to a violent coup. The “Gen Z” shadow army mobilized
+      as the US sought to neutralize Chinese and Indian influence over Kathmandu – now
+      controlled by a leader chosen by an informal social media poll. The US government’s
+      National Endowment for Democracy (NED) spent hundreds of thousands of dollars
+      tutoring dozens of Nepalese youth on “strategies and skills in organizing protests
+      and […] The post US regime change front funded Nepalese youth revolutionaries,
+      leaks reveal first appeared on The Grayzone . The post US regime change front
+      funded Nepalese youth revolutionaries, leaks reveal appeared first on The Grayzone
+      .
+    one_sentence_summary: Leaked documents indicate that the US government covertly
+      financed Nepalese youth groups to orchestrate a coup aimed at diminishing Chinese
+      and Indian influence in Kathmandu, resulting in the rise of a leader selected
+      through a social media poll.
+    paragraph_summary: Leaked documents reviewed by The Grayzone reveal that the U.S.
+      government covertly funded youth groups in Nepal ahead of a violent coup aimed
+      at diminishing Chinese and Indian influence in the region. The initiative, supported
+      by the National Endowment for Democracy (NED), involved spending hundreds of thousands
+      of dollars to train Nepalese youth in protest organization strategies. This effort
+      contributed to the rise of a "Gen Z" shadow army that played a role in establishing
+      a new leadership in Kathmandu, which was reportedly selected through an informal
+      social media poll.
+    published: '2025-12-10T21:46:31+00:00'
+  - title: US regime change front funded Nepalese youth revolutionaries, leaks reveal
+    url: https://thegrayzone.com/2025/12/10/cia-front-funded-nepal-revolutionaries/
+    text: Leaked files reviewed by The Grayzone show the US gov’t covertly funded Nepalese
+      youth groups in the run-up to a violent coup. The “Gen Z” shadow army mobilized
+      as the US sought to neutralize Chinese and Indian influence over Kathmandu – now
+      controlled by a leader chosen by an informal social media poll. The US government’s
+      National Endowment for Democracy (NED) spent hundreds of thousands of dollars
+      tutoring dozens of Nepalese youth on “strategies and skills in organizing protests
+      and […] The post US regime change front funded Nepalese youth revolutionaries,
+      leaks reveal first appeared on The Grayzone . The post US regime change front
+      funded Nepalese youth revolutionaries, leaks reveal appeared first on The Grayzone
+      .
+    one_sentence_summary: Leaked documents indicate that the US government covertly
+      financed Nepalese youth groups to orchestrate a coup aimed at diminishing Chinese
+      and Indian influence in Kathmandu, resulting in the rise of a leader selected
+      through a social media poll.
+    paragraph_summary: Leaked documents reviewed by The Grayzone reveal that the U.S.
+      government covertly funded youth groups in Nepal ahead of a violent coup aimed
+      at diminishing Chinese and Indian influence in the region. The initiative, supported
+      by the National Endowment for Democracy (NED), involved spending hundreds of thousands
+      of dollars to train Nepalese youth in protest organization strategies. This effort
+      contributed to the rise of a "Gen Z" shadow army that played a role in establishing
+      a new leadership in Kathmandu, which was reportedly selected through an informal
+      social media poll.
+    published: '2025-12-10T21:46:31+00:00'
   - title: Former Israeli spies now overseeing US government cybersecurity
     url: https://thegrayzone.com/2025/12/03/israeli-spies-run-us-cybersecurity/
     text: The Pentagon, Treasury Department, DHS, and a variety of other US government

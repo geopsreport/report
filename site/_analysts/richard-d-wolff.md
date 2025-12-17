@@ -9,16 +9,456 @@ websites:
   - https://www.counterpunch.org/author/rwolff0998/
   - https://www.laprogressive.com/author/richard-d-wolff
 summary: |
-  As the U.S. approaches the 2026 mid-term elections, the geopolitical landscape is marked by intensifying domestic polarization and persistent international conflicts. The ongoing war in Gaza, the rise of authoritarian tendencies in American politics, and the deepening economic divide all shape the current moment.
+  As the global economic and political order continues to shift, recent analyses underscore the deepening parallels between the decline of US and British capitalism, the rise of nationalist economic policies, and the resulting geopolitical realignments. The latest report by **Richard D. Wolff** highlights how both the US and UK, facing prolonged economic stagnation, have turned inward—manifested in Brexit and the resurgence of Trump-era trade wars. This shift is not merely tactical but ideological, with US political discourse increasingly framing government intervention as a liability rather than a solution, a reversal from the post-Depression consensus.
   
-  The most recent developments center on the U.S. political climate, particularly the Democratic Party’s struggle to articulate a coherent stance on peace amid the Gaza conflict. **Richard D. Wolff** notes that “the Democratic Party’s rhetoric on peace is undermined by its support for military action in Gaza,” reflecting a broader crisis of credibility as the party attempts to balance its progressive base with centrist and pro-military factions. This tension is expected to be a defining issue in the run-up to the 2026 elections, with high confidence that debates over foreign policy and militarism will dominate campaign discourse.
+  A key development is the entrenchment of "nationalist capitalism." According to **Wolff**, this model—now central to Trump's strategy—seeks to protect domestic industries through tariffs and isolationist measures, even as it fails to address the underlying causes of economic decline, such as automation and the offshoring of production. The working class, once the backbone of US prosperity, continues to bear the brunt of these changes, fueling political polarization and the rise of right-wing populism.
   
-  Domestically, the rise of anti-trans legislation and the scapegoating of LGBTQ+ communities continue to escalate. **Richard D. Wolff** highlights that “transgender individuals are being targeted as a distraction from deeper systemic issues,” a tactic employed by both state and national political actors. This trend is likely to intensify as parties seek to mobilize their bases through cultural wedge issues, with a high chance that legal and social battles over LGBTQ+ rights will remain at the forefront of U.S. politics.
+  On the international front, the US approach to China remains fraught with contradictions. While policymakers attempt to curb China's economic ascent, the reality of deep mutual dependence persists. **Wolff** notes that this "contradictory approach" reflects not only strategic uncertainty but also internal class conflicts within both nations, as elites seek to balance profit motives with geopolitical rivalry.
   
-  On the economic front, widening inequality and the persistence of “military Keynesianism” are fueling social discontent. According to **Richard D. Wolff**, “the contradictions of capitalism provoke both war and civil conflict,” as government spending on defense crowds out investment in social programs. The continued offshoring of production and the decline of the U.S. middle class are exacerbating these tensions, with a high likelihood that economic grievances will further radicalize both left- and right-wing movements.
-  
-  Looking ahead, the majority of analysts agree that the U.S. will remain mired in political and economic instability through 2026. The intersection of foreign policy crises, domestic culture wars, and economic inequality is expected to drive further polarization. I guarantee that unless systemic reforms are enacted, these trends will continue to undermine both U.S. democracy and its global standing.
+  Looking ahead, the majority of analysts agree that the current trajectory—marked by economic nationalism, political fragmentation, and unresolved systemic crises—will likely persist. There is a high chance, as **Wolff** asserts, that these trends will further erode the global influence of the US and UK, while accelerating the rise of alternative economic blocs such as BRICS. I guarantee that unless there is a fundamental shift in economic policy and political leadership, the decline of Western capitalist hegemony will continue, with significant implications for global stability and the balance of power.
 articles:
+  - title: Nationalist Capitalism, What Is It and Why Is Trump Depending on It ?
+    url: https://www.laprogressive.com/author/richard-d-wolff/civil-liberties-and-civil-rights/nationalist-capitalism
+    text: 'A mid-length answer connects certain similarities in the histories of US
+      and British capitalisms. Britain’s declining empire and economy led to Boris Johnson,
+      blaming Europe for that decline, cutting off from Europe via Brexit, and Britain’s
+      downward self-isolation since. The US’s declining empire and economy led to Trump,
+      his blaming that decline on the whole world, cutting off from and punishing the
+      world via tariffs and trade wars, and the resulting US downward self-isolation.
+
+
+      A fuller response is more complicated and requires specifying the historical context.
+      Before the 1970s, US citizens had long been told about the exceptional virtues
+      and benefits of US capitalism. We had achieved unprecedented success, the world’s
+      only truly “middle-class” society. Extremes of wealth and poverty barely existed
+      except for a very few superrich and a few very poor. After the 1970s, we were
+      told a different story, namely that the US government had excessively intervened
+      from the 1930s to the 1970s in the workings of “our optimally efficient private
+      enterprise economy.” Regaining prosperity required ending such government interventions.
+      Since the 1970s, terms like neo-liberalism, globalization, free-trade, and privatization
+      became prominent markers of US capitalism, differentiating it from the 1930s to
+      1975 when the state’s economic interventions had won praise. After the 1970s,
+      freedom from those government interventions became the dominant dogma governing
+      state economic policy.
+
+
+      Before the 1970s, private capitalism had widely seemed the problem and government
+      intervention had seemed the necessary solution. After the 1970s, the reverse view
+      prevailed. It insisted that government intervention was the problem and privatization
+      was the solution. This reversal reminded many of an important earlier reversal:
+      after 1945, when the US and the USSR reversed their status as great allies to
+      became instead the opposite, great enemies.
+
+
+      After the 1970s, the US government increasingly resumed its pre-Great Depression
+      limitations on economic intervention (associated with classical, i.e. British,
+      liberalism). Increasingly too, after the 1970s, the 1930s New Deal seemed a distant,
+      long-ago emergency time. Its reforms were considered no longer needed or, worse,
+      deemed counterproductive. A few Depression era reforms survived because of working-class
+      pressures from below, plus widespread apprehensions that they might well prove
+      useful to constrain future economic downturns. The US business community had never
+      wanted the New Deal, resented its reforms, and recoiled at the taxes on their
+      profits that helped pay for them. That community’s political goals after 1945
+      boiled down to undoing the New Deal. That had to be done slowly, gradually, and
+      cautiously for political reasons from 1945 through the 1970s. After that, with
+      Reagan’s election, it could and did accelerate. It has done so still more in Trump’s
+      second term.
+
+
+      After the 1970s, US capitalism’s ceaseless relocation of capital investments from
+      lower- to higher-profit opportunities increasingly took two prominent forms. First
+      was automation: employers sequentially installed computers, robots and AI. Second
+      was globalization: employers increasingly went beyond US borders. They moved jobs
+      abroad and especially to Asia and Latin America. US military bases by the hundreds,
+      originally justified after 1945 as needed to contain the Soviet Union and communism’s
+      expansion, revealed their other and more important purpose. They served nicely
+      to enforce a world trade system (later exalted as a “rules-based international
+      order”) committed to US-led and US-defined “free” trade.
+
+
+      Tying everything together ideologically, a new dogma effectively reversed its
+      1930s to 1970s predecessor. The old dogma had admitted that private capitalism
+      sometimes encountered serious business cycle problems. For example, those in the
+      1930s had threatened capitalism itself. Keynes had shown the world how to prevent
+      or at least greatly moderate them. Timely government intervention, monetary and
+      fiscal, could do the trick. Central banks could manipulate the quantity of money
+      in circulation and interest rates to control capitalism’s cycles. Governments
+      could likewise maneuver tax collections, spending programs, and resulting borrowing
+      toward the same end. For a while it was widely believed that capitalism’s long-standing
+      problem of cyclical instability had been solved. Leading US economists, among
+      others, went to work to persuade and explain the Keynesian solution to business,
+      political, and academic leaders. Most of the rest of the economics profession
+      followed by teaching Keynesian economics to successive generations of college
+      students. From the 1930sto the 1970s, economists were mostly the old dogma’s priests.
+
+
+      At the margins of the US economics profession from 1945 to 1975 were some who
+      rejected the dominant old dogma more or less. Among them Milton Friedman refused
+      the premise that capitalism had somehow “failed” in the 1930s. It could have rallied,
+      he believed, to overcome a cyclical downturn as it had many times before. Indeed,
+      he and his co-authors labored to suggest how and why governmental interventions
+      did more to worsen the Great Depression than to prevent or moderate it. Marxist
+      economists such as Paul M. Sweezy, admired Keynes’ critical insights into capitalism’s
+      cyclical dysfunction yet disagreed that his work had or could overcome that cyclical
+      instability. Still other marginal economists demurred, but even taken altogether,
+      the marginalized economists could not undermine the Keynesian dogma. For decades,
+      government leaders believed that they and their business and academic advisers
+      “knew” how to manage capitalism to end its dangerous instability. They ruled the
+      US (and beyond) after the 1930s Great Depression.
+
+
+      What finally undid that dogma were two key movements that converged in the 1970s.
+      The first was the recovery of all the major economies that had destroyed one another
+      in World War 2 (especially Japan, Germany, UK, France, and others except the US).
+      While US capitalism had been the only globally dominant economy from 1945 to 1975,
+      serious foreign competition resumed for the US again by the end of that period.
+      The second development that undermined the Keynesian dogma was technological development:
+      chiefly the computer and jet air travel. They enabled employers to raise profits
+      (1) by exporting jobs to lower-waged regions overseas and (2) by automation that
+      replaced workers with computers, robots and now AI. US employers profited from
+      relocating abroad because they thereby escaped the high wages and costly benefits
+      that US workers had won in rough union and class struggles with employers before
+      and during the 1930s Great Depression. They also escaped the costs of ecological
+      protection.
+
+
+      Of course, automation and job exports represented costs to workers who lost jobs,
+      to their families, and to the businesses relying on their purchasing power. Employers
+      targeted especially the highest-paid workers since replacing them by automation
+      or overseas relocation boosted employers’ profits the most. Often unionized, those
+      workers tried to resist and pushed back. In response, globalizing employers mobilized
+      and funded a massive ideological program to undermine those workers’ resistance.
+      It updated classical defenses of capitalism whenever its social costs, such as
+      automation and relocation, became more burdensome.
+
+
+      A positively defined term, globalization, came to the fore. It replaced terms
+      like imperialism and colonialism that had acquired increasingly pejorative connotations.
+      Economists celebrated globalization for bringing everyone greater efficiency via
+      free trade. The same economists denounced national regulations and controls for
+      restraining global capitalist expansion and the prosperity it delivered. In the
+      US, enthusiasts for capitalism extolled immense gains awaiting capitalists who
+      expanded inside the US and then globally. Not only would profits soar, but societies
+      as a whole—all classes, the claimed—would benefit. Globalization was the greatest
+      of historical tides that lifted all boats.
+
+
+      Within the US employer class, the risk-takers went first. They moved enterprises,
+      built them, or partnered with existing enterprises in China, India, Brazil, etc.
+      The low wages there, accommodating governments, and access to their large and
+      fast-growing markets proved uncommonly profitable. That forced their more risk-averse
+      competitors back in the US to join the relocation. Their exodus shaped the US
+      and most of the world’s other economies over the last half-century.
+
+
+      Yet right from the beginning, there were victims and critics. They tended to arise
+      from among the highest-paid job-holders: unionized, white, male factory workers.
+      They had risen to the top of the working class during the century before the 1970s.
+      There they encountered a tendency of capitalism bitter for workers. The more successfully
+      US laborers had struggled to raise their wages, the greater the incentive that
+      resulted for employers to fire them and substitute machines or cheaper foreign
+      workers.
+
+
+      Globalization as an efficiency-maximizing kind of capitalism became an ideological
+      campaign slogan for US corporations relocating overseas. Celebrating globalization
+      spread from corporate leaders to podcast hosts, journalists, academics, and politicians.
+      The voices of those who objected and criticized globalization found few outlets.
+      Globalization’s celebrants insisted that everyone everywhere would benefit.
+
+
+      The working class, bearing the brunt of globalization, slowly but increasingly
+      turned against it. The richest 10 percent of Americans, invested in the stock
+      market, did not. Corporate gains boosted by relocating production abroad (firing
+      workers and thereby saving on wage costs) enabled higher dividends, capital gains
+      from appreciating stock, and soaring executive pay packages. But that trickle-down
+      got little further than the nation’s richest 10 percent. American capitalism thus
+      devolved over many years into two economies. Today, in the rich one, 10% of US
+      citizens account for 50% of total consumer spending. In the poor one, the other
+      90% do the other half of consumer spending.
+
+
+      For those deprived of good jobs, appealing to their union leaders, both major
+      parties’ establishments, and broad public opinion yielded little. Most unions
+      had long since narrowed their focus and targets to more immediate gains workers
+      could still get or to reducing further losses. Unions devoted relative few resources
+      to educating members on, let alone mobilizing them around, international issues.
+      Most Republicans had long sided with employer interests and thus readily endorsed
+      globalization. For many Democrats, the long post-1950s decline of the labor union
+      movement deprived them of their labor base and also of large numbers of their
+      most skilled union-donated campaign workers. Democratic Party leaders’ resulting
+      turn to corporate donors led them increasingly to mimic Republicans’ endorsements
+      of globalization. The large but amorphous and disorganized US left made some criticisms
+      of corporate globalization but managed only sporadic resistance.
+
+
+      Globalization proved an effective ideological cover as the US replaced the old
+      European empires across the 20th century. The US presented its global position
+      and resulting actions—economic but also political and military—as so many steps
+      leading to “global freedom” as they “helped” liberate other nations caught in
+      doubly backward conditions. Backward economically because they had not sufficiently
+      developed the private capitalist enterprises needed for a “modern, developed economy.”
+      They were not yet integrated into that maximally efficient world economy that
+      globalization could and would achieve. They were backward politically because
+      they had not sufficiently developed the necessary “liberal democratic institutions”
+      credited for making the US the leading global model economy for our times. Establishing
+      US-style “freedom” and “capitalism”—often merged into an identity—became the globally
+      necessary road to social success and progress. Saying so won Nobel prizes.
+
+
+      Until that road no longer seemed necessary. A confluence of social changes finally
+      turned many in the US against globalization while many in China turned in favor
+      of it. China’s state-led and sustained high rates of economic growth after the
+      1970s plus the relocation to China of many US, European and Japanese private capitalist
+      enterprises combined to make China the manufacturing powerhouse of today’s world
+      economy. “Socialism with Chinese characteristics”—China’s official self-definition—is
+      a hybrid of state-owned and operated enterprises alongside private foreign and
+      domestic capitalist enterprises. Supervisory economic planning and management
+      of that hybrid by the Chinese state and the Chinese Communist Party combined to
+      make China’s economy the world’s fastest growing during the 21st century’s first
+      generation. Ironically, the stable hegemony of the US dollar provided the context
+      for China’s remarkable growth.
+
+
+      A key factor distinguished Chinese from other Global South circumstances. The
+      West had denied post-1949 China the foreign aid and development “assistance” deployed
+      elsewhere. Its resulting self-reliance sped China’s growth. Even the initial assistance
+      China obtained from the USSR vanished when the two nations’ relationship deteriorated
+      (roughly 1960 to 1989). Another key factor was China’s commitment to national
+      economic planning before and after it allowed, invited, and facilitated a private
+      capitalist sector of both domestic and foreign enterprises. Chinese economic growth
+      displays a remarkable mastery of both economic nationalism and openness to the
+      world economy, both state and private enterprises. All were integrated to serve
+      maximum economic growth.
+
+
+      In contrast, the US and the collective West, 70 years after World War 2, transitioned
+      from free trade toward economic nationalism under Presidents Biden and especially
+      Trump. That transition flowed chiefly from (1) steadily rising working class opposition
+      to the globalization after the 1970s in the US and Europe, and (2) growing Chinese
+      challenges to the global dominance of the US in the world economy.
+
+
+      Angry white male unionized (and thus relatively well-paid) factory workers, displaced
+      by automation and globalization, knew that it was their employers who made the
+      decisions that displaced them. They also knew that profit considerations motivated
+      those decisions. However, they also feared the backlash that would crash in on
+      anyone who blamed employers, the employer class, or the capitalist system for
+      anything negative. Seventy-five years of Cold War ideology had taught the US working
+      class how ferociously the US employer class could mobilize the mass media, academia,
+      and most major social institutions to demonize and repress anything that even
+      hinted of anti-capitalism or socialism.
+
+
+      Therefore, US workers hurt by automation or job exports rarely chose to blame
+      corporate owners and leaders. They rarely opposed free trade, globalization, multiculturalism,
+      neoliberalism, nor the anti-communism/socialism usually woven into them. The employer
+      class and its media, political and academic spokespersons, most Republicans and
+      Democrats, all celebrated globalization as the cause and expression of a wonderfully
+      successful capitalism. It brought material prosperity and political freedom. Blaming
+      capitalists was therefore considered irrational, perverse, or both.
+
+
+      The economic theories of the academics simply reinforced the way the economy and
+      politics blocked any revolt. Generations of leaders in business, politics, and
+      mass media learned in their college courses that private enterprises in markets
+      minimally regulated by any state apparatus achieve the “maximum possible utility.”
+      In short, capitalism was the human race’s greatest and finest achievement. Criticizing
+      it thus became, for many, literally unthinkable.
+
+
+      Trump explained to victimized US workers what caused their economic pains: foreign
+      immigrants, China, and indeed foreign nations generally, including even Canada
+      and Mexico. For decades, he said, all had economically cheated and abused the
+      US. Traditional Republicans and Democrats had been complicit. He presented himself
+      as the new and different kind of politician who alone would end that abuse and
+      the pains it caused. He would “Make America Great Again,” and the “rest of the
+      world will have to pay for it.” His means: anti-immigrant walls supplemented by
+      mass deportation, tariff walls, and trade wars that would reshore manufacturing
+      (i.e. secure, high-paying) jobs, and reduce federal budget deficits. All that
+      would revive US capitalism and its global dominance; the decline of the empire
+      would be reversed.
+
+
+      More recently, Trump broadened his list of primary targets to blame for US social
+      distress: protesters against ICE deportation actions and critics of his other
+      policies (especially “efficiency” firings of federal employees and government
+      “shutdowns”). He called them all “radical left lunatics.” In the case of New York
+      City’s new socialist mayor-elect Zohran Mamdani, who won with more votes than
+      all other candidates combined, Trump’s denunciations peaked in calling him a “communist.”
+      The McCarthyite tragedy of the 1950s returns, but this time already well en route
+      to becoming a farce.
+
+
+      Trump has likewise sharply increased the severity of punishment he decrees for
+      those he decides are “evil-doers.” He has summarily executed an estimated 83 persons
+      in fishing boats in the Caribbean and Pacific whom he has called “drug traffickers
+      in narco-boats.” No trials, no evidence, no lawyers, no judge: Trump simply ordered
+      the killings in international waters (executions without trial or evidence). Trump
+      has likewise attacked or threatened to attack foreign governments (Iran, Venezuela,
+      Nigeria, Panama, Greenland, Mexico, and Canada).
+
+
+      Trump’s nationalist political theater includes repetitions of his belief that
+      tariffs punish those foreign countries he blames. He seemed not to understand,
+      as every undergraduate economics student learns, that tariffs imposed by the US
+      government fall only on the US businesses or individuals who import goods and
+      services. By saying or implying that foreigners pay his tariffs, Trump makes it
+      appear that he thereby punishes them for causing US workers’ distress. Of course,
+      Trump’s tariffs are a major new tax imposed by a Republican president on US businesses
+      and individuals (those who import tariffed items). For opponents of taxation and
+      Trump followers who blame foreigners for US problems and suffering, it is very
+      politically convenient and comforting to imagine that Trump’s tariffs hurt them.
+
+
+      US tariffs can also hurt foreign economies in so far as US buyers order fewer
+      foreign-made products. This can happen if US importers raise their prices for
+      imported goods and services as a way to pass on (recoup) their tariff costs. To
+      the rest of the world, Trump’s tariffs were aggressive economic warfare: risking
+      losses for them to secure economic gains for the US. The world awaits how each
+      foreign country will decide whether, how, and when to retaliate and how badly
+      retaliations will impact the US economy.
+
+
+      One last point about tariffs can show how systematically Trump protects and serves
+      the employer class in the US. In contrast, what he does for his MAGA base is mostly
+      symbolic and theatrical. Tariffs are taxes that fall directly on US businesses
+      and so might have been expected to anger and provoke them. Trump avoided that
+      problem by means of his “big beautiful tax bill” passed by Congress before Trump
+      presented his tariffs. That bill extended the huge tax cuts for businesses and
+      the rich (originally scheduled to expire in 2025) that were Trump’s first act
+      in his first term as president. That tax bill also provided further tax cuts for
+      them. In other words, Trump cut all business taxes before his tariffs raised them
+      on business imports. The net effect on business and the rich was to protect them
+      even as they proceeded to pass on the cost of the tariffs by raising retail prices
+      for the US employee majority.
+
+
+      Most Republican and Democratic leaders (Bushes, Clintons, Obama) kept on supporting
+      globalization after the 1970s. Increasingly the same donors funded both parties,
+      and those donors were globalization’s chief beneficiaries. The leaders marginalized
+      the few voices that publicly blamed employers for choosing to automate or relocate
+      abroad. Those few voices—people like Sen. Bernie Sanders, Rep. Alexandria Ocasio-Cortez,
+      or Mamdani—provoked intense hostility from party leaders. Trump’s rare outbursts
+      focused only and briefly on particular companies, not on the employer class per
+      se as the key and therefore blameworthy decision-makers.
+
+
+      China’s economic growth after the 1980s was unprecedented in its speed. In addition,
+      China built an economic alliance initially with Brazil, Russia, India, and South
+      Africa known as the BRICS; it kept adding various members into the new century.
+      By 2020, the aggregate GDP of China and its BRICS allies had caught up to the
+      aggregate of the US and its G7 allies. Since 2020, China and its BRICS allies
+      have outgrown the US and its G7 allies each year. Before 2010, China was viewed
+      by most in the West as just another poor, subordinate Global South nation slowly
+      being “modernized” thanks to the West’s globalization/free trade program. Unlike
+      them, however, China grew much faster. “Modernization theories and theorists”
+      had often expected China’s economic development to be slower. It was, after all,
+      cut off from much Western assistance, trade, and investment for ideological reasons.
+      Its communist party, presiding over its “socialism with Chinese characteristics”
+      was thought to hamper growth with regulations and planning.
+
+
+      For US and European leaders, as China’s development progressed into the 21st century,
+      it was redefined from a subordinate nation into an evil and aggressive dictatorship.
+      Most established political leaders in the West accused China of outcompeting the
+      West economically by means that were illegal or unfair. That soon broadened to
+      accusing China of threatening the West politically, ideologically, and even militarily.
+      China’s endorsement of free trade (as the global context for its own spectacular
+      economic development over the last 30-40 years) helped to provoke the West’s turning
+      away from it toward economic nationalism instead.
+
+
+      Already during Obama’s presidency, 2009-2017, it became common to hear of the
+      “need to pivot toward China” as the key adversary for the current century. China’s
+      embrace of “free trade” and globalization was interpreted as part of its adversarial
+      position. Of course, many larger US employers who had invested heavily in China
+      after the 1970s also still supported free trade. Those investments assumed access
+      to China’s expanding market plus the profitable export of their outputs back to
+      the US market. Yet China’s rise steadily undercut the West’s support for free
+      trade. Increasing numbers of US business leaders questioned free trade orthodoxy,
+      became supporters of a US turn to economic nationalism, and supported Trump as
+      its emerging champion.
+
+
+      To conclude, statistical projections mostly agree that China’s dominance in world
+      industrial production will grow between now and 2030. Already, China’s industrial
+      output exceeds that of the US, Germany, Japan, and South Korea, combined. There
+      is little evidence to support the possibility that the US can or will reverse
+      its decline relative to China. That decline will impede the reshoring of US manufacturing,
+      balancing the federal budget, and offsetting the likely employment impacts of
+      the AI revolution and other nations’ retaliations to US tariffs. The US working
+      class might then shift leftward politically to solve the problems that Trump’s
+      rightward turn failed to overcome.
+
+
+      A new New Deal (Green or otherwise) might then emerge much as the original did
+      in the 1930s. Then the US working class responded to a sustained capitalist crisis
+      by surging sharply to the left around the New Deal Coalition (the CIO unions,
+      two Socialist parties, and the Communist Party). Today’s coalition would differ
+      from its predecessor because its activists will have learned key lessons from
+      the 1930s as well as from the subsequent period that undid so much of the New
+      Deal. Chief among those lessons is that capitalism itself must be put into question.
+
+
+      That means the new New Deal will not leave corporations in private hands. After
+      1945, corporate capitalism’s major shareholders and top managers had retained
+      their social positions as receivers of the system’s corporate profits. That position
+      gave them every incentive to protect and boost their profits by, among other strategies,
+      using them to undo the regulations, tax structures, and indeed the whole progressive
+      spirit of the New Deal. That is what they succeeded in doing over the last 75
+      years. Those 75 years also taught us why we must put capitalism itself in question.
+      Many of us have done that and reached conclusions guiding our contributions to
+      social change now.
+
+
+      The organization of enterprises—factories, offices, and stores—can no longer entail
+      a basic division between a class of employers and a class of employees. Their
+      consequentially different class interests and conflicts provoke and produce capitalism’s
+      difficulties and the obstacles to overcoming them. Reforms of capitalism were
+      the experiment undertaken in and by the New Deal. Those reforms left unchallenged
+      capitalism’s basic class structure. History—the undoing of the New Deal over the
+      last 75 years—has shown those reforms to be insufficient.
+
+
+      Our next step is to democratize enterprises as a needed addition to the 1930s-type
+      reforms of capitalism so that they do not again get undone. If profits flow to
+      the workers in enterprises where employers and employees are the same people,
+      equal components of a democratically organized community, they will not be used
+      to undo reforms generated by those workers. Changing the class structure of enterprises
+      will ramify throughout the society experiencing such change. Democratizing enterprises
+      will make the largely formal democracy elsewhere in that society far more real
+      than it has ever been.
+
+
+      A genuinely new New Deal should remember and build on all the old New Deal accomplished.
+      Yet it must also not repeat its crucial mistake: not challenging capitalism itself.
+      Evidence is accumulating that that crucial lesson is being learned.
+
+
+      Common Dreams'
+    one_sentence_summary: The article explores the parallels between the decline of
+      US and British capitalism, highlighting how both nations' economic downturns led
+      to political isolationism—Brexit in Britain and Trump's trade wars in the US—while
+      also detailing the ideological shift in the US from viewing government intervention
+      as a solution to seeing it as a problem, particularly after the 1970s, which facilitated
+      globalization and automation at the expense of the working class.
+    paragraph_summary: The article explores the parallels between the economic trajectories
+      of US and British capitalism, particularly in light of their respective declines
+      and the political responses that followed. It discusses how Britain's economic
+      downturn led to Brexit and a retreat from Europe, while the US's decline under
+      Trump involved blaming global factors for domestic issues, resulting in tariffs
+      and trade wars that further isolated the country. The narrative traces a shift
+      in US economic ideology post-1970s, where government intervention was increasingly
+      viewed as a problem rather than a solution, leading to a neoliberal focus on privatization
+      and globalization. This shift coincided with technological advancements and the
+      relocation of jobs abroad, which benefitted capitalists but harmed the working
+      class, particularly unionized factory workers. The article highlights how globalization
+      became a dominant ideology, masking the negative impacts on workers while enriching
+      the top 10% of earners. It concludes by noting the rise of economic nationalism
+      in the US under Trump, who capitalized on worker discontent by scapegoating foreign
+      entities while implementing policies that primarily benefited the employer class.
+    published: '2025-12-17T06:00:29.052383+00:00'
   - title: War and Peace
     url: https://www.laprogressive.com/war-and-peace
     text: 'War and Peace - LA Progressive Skip to main content Topics Animal Rights

@@ -7,16 +7,240 @@ description: "Cambridge–educated researcher at RMIT; writes widely on imperial
 websites:
   - https://counterpunch.org/author/jete6/
 summary: |
-  As global tensions persist across multiple fronts, recent independent analysis by **Binoy Kampmark** highlights several significant developments shaping the current geopolitical landscape.
+  As 2025 draws to a close, global geopolitics remains marked by shifting alliances, contested narratives, and mounting skepticism over the legitimacy of international institutions and agreements. Recent developments highlight the growing entanglement of politics, security, and public perception, with several key stories dominating the landscape.
   
-  The most pressing new development centers on the mounting scrutiny faced by U.S. Secretary of Defense Pete Hegseth. Allegations have surfaced accusing Hegseth of authorizing lethal strikes on vessels allegedly linked to drug trafficking, resulting in substantial loss of life. The Trump administration staunchly defends these actions as necessary for national security, but **Kampmark** notes that the controversy has intensified debates over the legality and morality of such operations. The majority of analysts suggest that, given the administration’s defensive posture and the lack of international consensus on the definition of legitimate military targets in anti-narcotics operations, accountability is unlikely in the short term. However, the issue is expected to fuel ongoing calls for greater oversight of U.S. military conduct abroad.
+  The most recent and controversial event is the awarding of FIFA’s inaugural “Peace Prize” to U.S. President Donald Trump. The ceremony, as **Binoy Kampmark** notes, was met with widespread criticism for its “perceived hypocrisy and lack of neutrality,” especially given FIFA’s own history of political entanglements and Trump’s divisive policies. The move is seen by many as an attempt to rehabilitate reputations rather than a genuine recognition of peace efforts, further blurring the lines between sport, politics, and global image-making.
   
-  Meanwhile, the situation in Gaza remains dire despite the so-called ceasefire between Israel and Hamas. **Kampmark** argues that the truce has functioned more as a diplomatic façade than a genuine cessation of hostilities, with Israeli operations continuing under the pretext of restraint. The humanitarian crisis persists, with civilian casualties mounting and international aid efforts hampered. There is a high chance, as **Kampmark** observes, that the ceasefire will remain nominal, prolonging the suffering and instability in the region.
+  Meanwhile, Australia’s deepening commitment to the AUKUS security pact with the United States and United Kingdom continues to raise alarms about sovereignty and strategic autonomy. **Kampmark** argues that Australia has become “a subordinate state that is financially supporting US submarine production without guaranteed benefits,” with the risk of being drawn into future conflicts not of its own making. The majority view among analysts is that Canberra’s defense policy is increasingly dictated by Washington, with little regard for independent threat assessments or long-term national interests.
   
-  On the legal front, the recent proscription of Palestine Action under the UK Terrorism Act, following their protest at a Royal Air Force base, has sparked significant backlash. Human rights organizations and legal experts are challenging the move, claiming it undermines civil liberties and the right to protest. A judicial review is underway, and while the government maintains its stance, the majority opinion among analysts is that this case could set a precedent for future restrictions on activism, with a high chance of continued legal and public resistance.
+  On the security front, the U.S. Secretary of Defense, Pete Hegseth, faces mounting scrutiny over alleged war crimes linked to lethal strikes on vessels suspected of drug trafficking. The Trump administration’s defense of these actions as “necessary measures” against threats is unlikely to quell international criticism or legal challenges. The episode underscores the ongoing tension between national security imperatives and adherence to international law—a theme that has become increasingly pronounced under the current U.S. administration.
   
-  Looking ahead, the trends point to a period of heightened legal and political contestation over state actions—both in military and civil society contexts. The U.S. is likely to face ongoing criticism for its extraterritorial military policies, while the UK may see increasing judicial scrutiny of its counterterrorism measures. In the Middle East, the absence of meaningful progress in Gaza suggests that the humanitarian crisis will most definitely persist, with little hope for resolution in the near term.
+  Looking ahead, the trends point to further erosion of trust in international institutions, as well as a growing willingness among major powers to bypass established norms in pursuit of perceived national interests. The politicization of awards and alliances, coupled with a disregard for legal and ethical constraints, is likely to intensify. There is a high chance, as **Kampmark** suggests, that Australia’s entanglement in U.S.-led security initiatives will deepen, while efforts to hold powerful actors accountable for controversial actions will face significant obstacles. I guarantee that skepticism toward the legitimacy of global institutions and the motives behind high-profile gestures—such as the FIFA Peace Prize—will only grow in the coming months.
 articles:
+  - title: 'Perfectly Appropriate: Trump, Infantino and the FIFA Peace Prize'
+    url: https://www.counterpunch.org/2025/12/12/perfectly-appropriate-trump-infantino-and-the-fifa-peace-prize/
+    text: 'He craves it, and, to some extent, his desire was satisfied. President Donald
+      Trump did get a peace prize. Not the peace prize picked out by self-important
+      Norwegian non-entities, but the inaugural curiosity of FIFA, an organisation famed
+      for opacity, corruption and graft. What the critics missed in all of this was
+      its sheer appositeness.
+
+
+      In a two-hour ceremony held on December 5 at Washington’s Kennedy Center, which
+      included the World Cup draw for participants at next year’s games, Trump was presented
+      with a prize few FIFA officials seem to know existed. Last month, FIFA president
+      Gianni Infantino announced the award, expressing the view that Trump also deserved
+      that other coveted gong, the Nobel Peace Prize. One senior FIFA official boldly
+      told BBC Sport that the football organisation’s prize deserved serious attention:
+      “Why can’t this be bigger than the Nobel Peace Prize? Football has huge global
+      support, so it’s right that it recognises extraordinary efforts to bring about
+      peace every year.”
+
+
+      That football – grand sport of sublimated aggression, contest and rivalries –
+      is an agent of peace, is one of those shibboleths sporting administrators feed.
+      Go through the records of any famous club rivalry, and peace is found wanting.
+      Violence and politics, however, can be found in abundance. But Infantino did not
+      become FIFA President on his mastery of such details. His formula was simple if
+      hypocritical: athletes should play and shut up about politics, leaving it to the
+      administrative class to do the rest.
+
+
+      With fawning relish, he heaped high praise on the winner. “This is what we want
+      from a leader; a leader who cares about the people. We want to live in a safe
+      world, in a safe environment. We want to unite – that’s what we do here today,
+      that’s what we’ll do at the (FIFA) World Cup, Mr President.” Trump, in deserving
+      the inaugural award, could count on Infantino’s support and that “of the entire
+      football community – or ‘soccer’ community – to help you make peace and make sure
+      the world prospers all over the world.”
+
+
+      Infantino has never been a strict observer of the dusty ethics clause stating
+      that the organisation maintains neutrality “in matters of politics and religion”
+      and that “all persons bound by the code remain politically neutral … in dealings
+      with government institutions.” He has hobnobbed with the leaders of Qatar, Saudi
+      Arabia and Russia, ostensibly pursuing the footballing cause. He was the only
+      sports leader present at the Egyptian “Summit for Peace” held in October, when
+      a clutch of significant figures, marshalled by Trump and Egyptian President Abdel
+      Fatah El-Sisi, agreed to implement the first phase of the Gaza peace plan. (There
+      was much personal gratitude for Trump, praised as “absolutely fundamental and
+      crucial in the [peace] process.) He has gathered a swag of awards and accolades
+      from governments, hardly an affirmation of neutrality in any strict sense.
+
+
+      In keeping with the mood, Trump spoke about everything other than football. He
+      was in the business of saving lives, and peace prizes did not matter much. (You
+      need to get one in order to dismiss its merits.) For good measure, he had also
+      “saved a lot [of lives], millions even.”
+
+
+      In keeping with the absurd occasion was the furious criticism of the choice, when
+      its absurdity was most apt. Infantino, derided over his stance on not suspending
+      Israel over its military operations in Gaza, was now receiving rebukes for eschewing
+      neutrality. “Not satisfied with two years of FIFA complicity in genocide in Palestine,
+      Infantino and his cronies have now invented a ‘peace prize’ in order to curry
+      favour with Donald Trump,” fumed former UN official Craig Mokhiber and campaigner
+      against Israeli’s membership of FIFA.
+
+
+      Andrea Florence, Executive Director of the Sports & Rights Alliance, acknowledged
+      that the World Cup had been the political plaything of states in rinsing stained
+      human rights records. “But FIFA is now doing the sportswashing itself. Giving
+      this so-called FIFA ‘Peace Prize’ to US President Donald Trump with no clear criteria
+      or process – and despite his administration’s violent detentions of immigrants,
+      crackdowns on freedom of expression, and militarization of US cities – it’s sportswashing
+      on steroids.”
+
+
+      This grumbling was bound to take a more formal shape, and it came in the form
+      of an eight-page letter of complaint from the non-profit advocacy organisation,
+      FairSquare. Unfortunately for the organisation, it was sent to FIFA. In the letter,
+      the organisation demands that the ethics committee (the joke keeps giving) “investigate
+      the circumstances surrounding the decision to introduce and award a FIFA Peace
+      Prize and their conformity with FIFA’s procedural rules.” It makes reference to
+      various remarks of Infantino’s, including those in an Instagram post from Trump’s
+      inauguration on January 20 declaring that, “Together we will make not only America
+      great again, but also the entire world”.
+
+
+      Studiously referencing FIFA statutes – not that this will get them far – the group
+      goes on to state that awarding such a prize “to a sitting political leader is
+      in and of itself a clear breach of Fifa’s duty of neutrality”. Infantino lacked
+      the power to unilaterally determine “the organisation’s mission, strategic direction,
+      policies and values”.
+
+
+      As with most things relevant to that organisation, the complaint is unlikely to
+      get far. Politics and sport do mix, as they have always done. Infantino, chief
+      of the world’s foremost unchallenged sporting mafia, may claim otherwise, but
+      his tenure shows that he knows that crude reality all too well.'
+    one_sentence_summary: President Donald Trump was awarded FIFA's inaugural "Peace
+      Prize" during a ceremony that drew criticism for its perceived hypocrisy and lack
+      of neutrality, particularly given the organization's history of political entanglements
+      and Trump's controversial policies.
+    paragraph_summary: President Donald Trump was awarded the inaugural FIFA Peace Prize
+      during a ceremony at Washington's Kennedy Center, an event that sparked criticism
+      due to FIFA's controversial history and the perceived absurdity of the award.
+      FIFA President Gianni Infantino praised Trump as a leader who cares about peace,
+      despite the organization's supposed commitment to political neutrality. Critics,
+      including former UN officials and human rights advocates, condemned the award
+      as an act of "sportswashing," arguing that it undermines FIFA's ethical standards
+      and trivializes serious issues such as human rights abuses. An advocacy group,
+      FairSquare, formally complained to FIFA, questioning the legitimacy of the prize
+      and Infantino's authority to award it, highlighting the inherent conflict between
+      politics and sport that has long characterized FIFA's operations.
+    published: '2025-12-12T06:52:01+00:00'
+  - title: The Colby Review, AUKUS and Lopsided Commitments
+    url: https://www.counterpunch.org/2025/12/10/the-colby-review-aukus-and-lopsided-commitments/
+    text: 'In one of his many cutting observations about the fallibility of politicians,
+      H. L. Mencken had this to say about the practical sort: “It is his business to
+      convince the mob (a) that it is confronted by some grave danger, some dreadful
+      menace to its peace and security, and (b) that he can save it.” Regarding Australia’s
+      often provincial politicians, that grave danger remains the Yellow Peril, albeit
+      it one garbed in communist party colours, while the quackery they continue to
+      practise involves the notion the United States will act as shield bearer and saviour
+      in any future conflict.
+
+
+      The AUKUS trilateral security pact between Australia, the United Kingdom and the
+      United States has turned the first of these countries into an expectant vassal
+      state, mindful of security guarantees it does not need from a power that can,
+      and would at a moment’s notice, abandon it. But more dangerously, the expectation
+      here is that Canberra, awaiting Virginia Class (SSN-774) nuclear-powered submarines
+      from the US, will offer unconditional succour, resources and promises to the projection
+      of Washington’s power in the Indo-Pacific. Without any guarantee of such submarines,
+      Australian money is underwriting US submarine production, which remains consistently
+      tardy. (Currently, 1.3 boats are being produced annually, when 2.3 are needed.)
+
+
+      The 2023 National Defense Authorization Act makes it irrefutably clear that Congress
+      shall be notified that any transfer of boats “will not degrade the United States
+      underseas capabilities”. Pursuing AUKUS still entailed “sufficient submarine production
+      and maintenance investments” on the part of the US to meet undersea capabilities,
+      with Australia advancing “appropriate funds and support for the additional capacity
+      required to meet the requirements” along with Canberra’s “capability to host and
+      fully operate the vessels authorized to be transferred.”
+
+
+      This true steal for US diplomacy, and sad tribute to Homo boobiens on the part
+      of the Australians, has continued with the review of AUKUS conducted by Undersecretary
+      of Defense Policy Eldridge Colby. The review is not available for public eyes,
+      but Colby had previously released smoke signals that the AUKUS pact would only
+      “lead to more submarines collectively in 10, 15, 20 years, which is way beyond
+      the window of maximum danger, which is really this decade.”
+
+
+      The Australian Defence Minister Richard Marles told reporters on December 4 that
+      the review had been received. “We’re working through the AUKUS review, and we
+      very much thank the United States for providing it to us.” (Surely that’s the
+      least they could have done.) He had identified unwavering support for the pact.
+      Pentagon spokesman Sean Parnell also released a statement to the media expressing
+      enthusiasm. “Consistent with President Trump’s guidance that AUKUS should move
+      ‘full steam ahead,’ the review identified opportunities to put AUKUS on the strongest
+      possible footing.” No doubt opportunities have been identified, but these are
+      likely to be consistent with the lopsided arrangements Australia has had with
+      the US to date.
+
+
+      Australia has so far provided A$1.6 billion in funding to the US submarine base,
+      with the promise of more. What remains unclear is how much of this is also going
+      into training Australian personnel to operate and maintain the vessels. “There’s
+      a schedule of payments to be made,” explained Australian Prime Minister Anthony
+      Albanese in July. “We have an agreement with the United States as well as with
+      the United Kingdom. It is about increasing their capacity, their industrial capacity.”
+      As part of such arrangements, “we have Australians on the ground, learning those
+      skills.”
+
+
+      The joint fact sheet on the 2025 Australia-US Ministerial Consultations (AUSMIN),
+      held between US Secretary of State Marco Rubio, US Secretary of War Pete Hegseth
+      and their Australian counterparts Penny Wong and Marles in Washington, makes one
+      reference to AUKUS and nothing in terms of substance to Colby’s recommendations.
+      There is, however, this bit of unpardonable gibberish: “In line with President
+      Trump and Prime Minister Albanese’s direction to move ‘full steam ahead’ on AUKUS,
+      the [ministers] recognised the work underway to deliver priority infrastructure
+      works and workforce uplift plan in support of an enhanced trilateral submarine
+      industrial base.”
+
+
+      Given such statements, it is hard to see what opportunities identified in the
+      Colby report could possibly be advantageous to Australia, a mere annexure of the
+      US imperium. There is bound to be continued pressure on Australia to increase
+      its defence spending. There are also unaddressed concerns about how sovereign
+      the SSNs in Australian hands are going to be when and if they ever make it across
+      the Pacific. In a conflict involving the United States, notably in the Indo-Pacific,
+      Canberra will be expected to rush in with that mindless enthusiasm that has seen
+      Australian soldiers die in theatres they would struggle to name for causes they
+      could barely articulate.
+
+
+      Even the confident opinion of Joe Courtney, a Democrat member of the House Armed
+      Services Committee and representative of Groton, Connecticut (the “Submarine Capital
+      of the World”), should be viewed warily. “The statutory authority enacted by Congress
+      in 2023 will remain intact, including the sale of three Virginia-class submarines
+      starting in 2032,” comes his beaming assessment. The Colby review “correctly determined
+      that there are critical deadlines that all three countries have to meet. Therefore,
+      maintaining disciplined adherence to schedule is paramount.” That degree of discipline
+      and adherence to schedules is unlikely to be an equal one. It is bound to favour,
+      first and foremost, Washington’s own single perspective.'
+    one_sentence_summary: The article critiques Australia's reliance on the AUKUS security
+      pact with the US and UK, arguing that it has turned Australia into a subordinate
+      state that is financially supporting US submarine production without guaranteed
+      benefits, while raising concerns about the implications for Australian sovereignty
+      and military involvement in future conflicts.
+    paragraph_summary: The article critiques the AUKUS trilateral security pact between
+      Australia, the UK, and the US, arguing that it has turned Australia into a dependent
+      state, relying on US military support that may not be forthcoming. It highlights
+      the ongoing expectation that Australia will provide resources and support for
+      US military operations in the Indo-Pacific, despite the lack of timely delivery
+      of promised Virginia-class submarines. The author expresses skepticism about the
+      benefits of the AUKUS arrangement for Australia, pointing out that it has already
+      invested significant funds into US submarine production without clear returns,
+      and raises concerns about the implications of this dependency for Australia's
+      sovereignty and military autonomy. The article concludes that Australia may face
+      increasing pressure to bolster its defense spending while remaining uncertain
+      about the operational independence of any submarines it eventually receives.
+    published: '2025-12-10T06:54:03+00:00'
   - title: War Crimes and Pete Hegseth’s Lust for Blood
     url: https://www.counterpunch.org/2025/12/05/war-crimes-and-pete-hegseths-lust-for-blood/
     text: 'Pete Hegseth, the soap opera styled US Secretary of Defense, sports a questionable

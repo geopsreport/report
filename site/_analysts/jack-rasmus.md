@@ -7,21 +7,17 @@ description: "Jack Rasmus is an American economist, author, and radio show host 
 websites:
   - https://jackrasmus.com/
 summary: |
-  Global economic and geopolitical tensions remain high as Western policymakers grapple with persistent financial instability and the ongoing fallout from the Ukraine conflict. The latest analysis by **Jack Rasmus** highlights several interconnected developments shaping the current landscape.
+  As 2025 draws to a close, the global geopolitical and economic landscape is marked by mounting financial instability, persistent conflict over Russian assets, and deepening economic malaise in the US and Europe. The latest analyses highlight several emerging developments.
   
-  European Moves on Russian Assets  
-  A major new development is the European Union’s push to seize frozen Russian assets to fund Ukraine’s war effort. **Jack Rasmus** notes this proposal is “contentious,” with significant legal and political risks. The move signals both a hardening of Europe’s stance and a recognition of the fiscal strains facing Western support for Ukraine. Rasmus points out that this scheme could provoke strong retaliatory measures from Russia and further destabilize global financial markets, especially if other states fear similar asset grabs in future conflicts.
+  The most recent reports, as detailed by **Jack Rasmus**, underscore the growing volatility across multiple financial asset classes. Asset bubbles in gold, cryptocurrencies, US stocks, and AI investments are expanding simultaneously, with **Rasmus** warning that "the potential contagion effects among them" could amplify financial instability. He notes that the size of the AI bubble in particular now "far exceeds previous market bubbles," raising the risk of a disorderly correction. This volatility is compounded by unreliable US economic statistics following a recent government shutdown, making it harder for policymakers and investors to assess real risks.
   
-  US Economic Pressures and Financial Bubbles  
-  Domestically, the US economy continues to show signs of strain. According to **Jack Rasmus**, inflation is eroding consumer spending, manufacturing remains in contraction, and new housing has stagnated. Meanwhile, asset bubbles in stocks, gold, cryptocurrencies, and AI investments are becoming “more volatile,” raising the risk of contagion across markets. Rasmus is skeptical about the ability of AI-driven investments to generate sustainable profits, warning that the hype may be masking deeper structural weaknesses.
+  On the geopolitical front, Europe’s contentious proposal to seize frozen Russian assets to fund the Ukraine war is gaining traction. According to **Rasmus**, this move is "highly contentious" and could trigger significant retaliation from Moscow, as well as legal and financial blowback within the EU itself. The debate over the legality and potential consequences of such asset seizures is intensifying, with European policymakers under pressure to find new funding sources for Kyiv as US support becomes increasingly uncertain.
   
-  Germany’s Rearmament and Strategic Shifts  
-  Another emerging trend is Germany’s move toward military rearmament, which **Jack Rasmus** hints will be a focus of upcoming strategic discussions. This shift reflects broader European concerns about security and autonomy in the wake of the Ukraine war and uncertainty over US commitments.
+  Meanwhile, the US real economy continues to show signs of strain. Persistent inflation is eroding consumer spending power, manufacturing remains in contraction, and new housing starts are stagnating. **Rasmus** points out that "the impact of inflation on consumer spending" is now a central concern, with the risk of recession looming larger as fiscal and monetary policy options narrow.
   
-  Outlook and Predictions  
-  Looking ahead, **Jack Rasmus** argues there is a high chance of increased volatility in financial markets, with the potential for further contagion between asset classes. He also sees a “high chance” that European attempts to seize Russian assets will escalate tensions with Moscow and could backfire economically. On the US side, the combination of persistent inflation, manufacturing weakness, and asset bubbles suggests the risk of recession remains elevated.
+  Looking ahead, the convergence of these trends suggests heightened risk. **Rasmus** predicts with high confidence that "financial bubbles will become more volatile and prone to contagion," and that the US and European economies are "quite likely" to face further stagnation or recession in early 2026. The European asset seizure scheme, if implemented, will "most definitely" escalate tensions with Russia and could undermine confidence in Western financial systems.
   
-  In summary, the Western response to the Ukraine war is entering a more confrontational and risky phase, both economically and geopolitically. The next period will likely see heightened financial instability and further escalation in the contest over Russian assets, with broader implications for global markets and security.
+  In summary, the latest developments point to a period of increasing financial and geopolitical instability, with policymakers facing limited room to maneuver as structural weaknesses become more pronounced.
 articles:
   - title: Financial Bubbles, US Real Economy & Europe’s latest scheme to grab Russian
       Assets

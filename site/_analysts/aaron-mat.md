@@ -7,16 +7,142 @@ description: "Journalist and producer; covers US foreign policy, Russiagate, and
 websites:
   - https://www.aaronmate.net/
 summary: |
-  As the global order continues to shift under the Trump administration, recent developments underscore persistent tensions in Ukraine, the Middle East, and US domestic politics. President Trump's foreign policy maneuvers—particularly his attempts at brokering peace in Ukraine and Gaza—are meeting entrenched resistance both at home and abroad.
+  The geopolitical landscape remains dominated by the unresolved crises in Gaza and Ukraine, with new developments highlighting persistent barriers to peace and shifting political calculations.
   
-  The latest reports highlight that President Trump’s new 28-point Ukraine peace plan has been met with bipartisan opposition in Washington and skepticism from European NATO allies. **Aaron Maté** notes that the US foreign policy establishment remains committed to a confrontational stance against Russia, undermining Trump’s diplomatic overtures. The backlash suggests that, despite Trump’s efforts to push for a negotiated settlement—potentially involving Ukrainian territorial concessions—there is little appetite in the US or Europe for what is perceived as a “premature” peace. This entrenched opposition makes a near-term resolution to the Ukraine conflict unlikely. There is a high chance that the war will persist into 2026, as Washington’s “war lobby refuses to lose,” according to Maté.
+  In Gaza, despite a Trump-brokered ceasefire, Israeli attacks continue, and the humanitarian situation remains dire. In a recent interview with **Aaron Maté**, Hamas negotiator Basem Naim criticized ongoing Israeli violations of the ceasefire and the UN’s insistence on Hamas disarmament without guaranteeing Palestinian self-determination. Naim argued that such demands, absent political rights for Palestinians, are “unrealistic” and serve to entrench the status quo. The interview also underscored internal Palestinian divisions and the lack of progress on prisoner releases, further complicating prospects for unity and a durable settlement.
   
-  In the Middle East, the US and Israel have leveraged their influence at the United Nations to push through a controversial measure that, while nominally supporting peace, effectively endorses Trump’s Gaza plan and undermines Palestinian rights. **Aaron Maté** observes that the US’s historical use of its UN veto to shield Israel has now evolved into a broader international consensus that marginalizes Palestinian self-determination. The ceasefire brokered by Trump has not addressed the root causes of the conflict, and Israel continues to restrict aid and conduct military operations in Gaza, in violation of the agreement. There is a high chance that the humanitarian crisis in Gaza will deepen, and the underlying issues will remain unresolved.
+  On the Ukraine front, President Zelensky has publicly rejected ceding the Donbas region to Russia, even as he floated the idea of a national referendum on its fate. As **Aaron Maté** notes, this stance is complicated by the reality that most of Donbas is now under Russian control, raising questions about the feasibility and legitimacy of any such vote. Meanwhile, Trump’s proposed peace plan for Ukraine continues to face resistance from Washington’s foreign policy establishment and European NATO allies, stalling diplomatic efforts.
   
-  On the domestic front, the indictment of former FBI Director James Comey for alleged false statements to Congress is being interpreted by some as political retribution by Trump. However, **Aaron Maté** points out that the case also reflects the fraught legacy of the Trump-Russia investigation and the ongoing politicization of US law enforcement. This development signals continued polarization and instability within US institutions, with unpredictable consequences for governance and accountability.
+  Elsewhere, the shifting political order in Syria has drawn attention, with the US hosting President Ahmed al-Sharaa (formerly Mohammed al-Jolani), a former Al Qaeda and ISIS leader. This unprecedented visit signals a dramatic realignment in US-Syrian relations, following the US decision to remove al-Sharaa from its terrorism list after his role in the ouster of Bashar al-Assad.
   
-  In summary, the prevailing trends indicate that Trump’s peace initiatives are consistently stymied by institutional resistance, both domestically and internationally. The Ukraine war is set to drag on, the Gaza crisis remains unresolved, and US political divisions are deepening. Most definitely, these dynamics will continue to shape global affairs into 2026, with little prospect for genuine resolution in the near term.
+  Looking ahead, the majority of analysts cited by **Aaron Maté** believe that, barring significant external pressure, both the Gaza and Ukraine conflicts are likely to remain stalemated. There is a high chance that Israeli military operations and restrictions in Gaza will persist, undermining any ceasefire. In Ukraine, the entrenched positions of both Kyiv and Moscow, combined with Western reluctance to force a settlement, make a near-term resolution unlikely. The normalization of controversial figures in Syria suggests the US is willing to recalibrate alliances for strategic advantage, a trend that will most definitely continue as regional power balances shift.
 articles:
+  - title: Hamas negotiator on Israel's ceasefire violations and new barriers to Palestinian
+      freedom
+    url: https://www.aaronmate.net/p/hamas-negotiator-on-israels-ceasefire
+    text: 'As Israel violates the ceasefire with relentless attacks on Gaza, The Grayzone’s
+      Aaron Maté sits down with senior Hamas negotiator Basem Naim  in Doha, Qatar.
+      Naim survived the Israeli military’s attack on a gathering of Hamas officials
+      in September. He discusses the UN-endorsed demand that Hamas disarm without a
+      path to Palestinian self-determination; faltering efforts to unify Palestinian
+      political factions; the bid to free political prisoners including Marwan Barghouti;
+      the new Syrian government’s interdiction of weapons shipments to Hezbollah, and
+      more. Guest : Dr. Basem Naim. Doha-based Hamas negotiator and former head of Gaza’s
+      Health Ministry. Watch the video at The Grayzone’s YouTube channel or below. Aaron
+      Mate is a reader-supported publication. To receive new posts and support my work,
+      consider becoming a free or paid subscriber.'
+    one_sentence_summary: In an interview with Aaron Maté, Hamas negotiator Basem Naim
+      discusses the ongoing Israeli attacks on Gaza, the UN's demand for Hamas disarmament
+      without ensuring Palestinian self-determination, and various political dynamics
+      affecting Palestinian unity and prisoner releases.
+    paragraph_summary: In a recent interview with The Grayzone's Aaron Maté, senior
+      Hamas negotiator Basem Naim discusses the ongoing Israeli attacks on Gaza despite
+      a ceasefire, reflecting on the UN's demand for Hamas to disarm without ensuring
+      Palestinian self-determination. Naim, who survived an Israeli military strike
+      on Hamas officials, addresses the challenges of unifying Palestinian political
+      factions, efforts to release political prisoners like Marwan Barghouti, and the
+      new Syrian government's role in preventing weapons shipments to Hezbollah. The
+      conversation highlights the complexities and ongoing struggles within Palestinian
+      politics and the broader regional dynamics.
+    published: '2025-12-13T14:13:24+00:00'
+  - title: Hamas negotiator on Israel's ceasefire violations and new barriers to Palestinian
+      freedom
+    url: https://www.aaronmate.net/p/hamas-negotiator-on-israels-ceasefire
+    text: 'As Israel violates the ceasefire with relentless attacks on Gaza, The Grayzone’s
+      Aaron Maté sits down with senior Hamas negotiator Basem Naim  in Doha, Qatar.
+      Naim survived the Israeli military’s attack on a gathering of Hamas officials
+      in September. He discusses the UN-endorsed demand that Hamas disarm without a
+      path to Palestinian self-determination; faltering efforts to unify Palestinian
+      political factions; the bid to free political prisoners including Marwan Barghouti;
+      the new Syrian government’s interdiction of weapons shipments to Hezbollah, and
+      more. Guest : Dr. Basem Naim. Doha-based Hamas negotiator and former head of Gaza’s
+      Health Ministry. Watch the video at The Grayzone’s YouTube channel or below. Aaron
+      Mate is a reader-supported publication. To receive new posts and support my work,
+      consider becoming a free or paid subscriber.'
+    one_sentence_summary: In an interview with Aaron Maté, Hamas negotiator Basem Naim
+      discusses the ongoing Israeli attacks on Gaza, the UN's demand for Hamas disarmament
+      without ensuring Palestinian self-determination, and various political dynamics
+      affecting Palestinian unity and prisoner releases.
+    paragraph_summary: In a recent interview with The Grayzone's Aaron Maté, senior
+      Hamas negotiator Basem Naim discusses the ongoing Israeli attacks on Gaza despite
+      a ceasefire, reflecting on the UN's demand for Hamas to disarm without ensuring
+      Palestinian self-determination. Naim, who survived an Israeli military strike
+      on Hamas officials, addresses the challenges of unifying Palestinian political
+      factions, efforts to release political prisoners like Marwan Barghouti, and the
+      new Syrian government's role in preventing weapons shipments to Hezbollah. The
+      conversation highlights the complexities and ongoing struggles within Palestinian
+      politics and the broader regional dynamics.
+    published: '2025-12-13T14:13:24+00:00'
+  - title: Zelensky resists ceding Donbas, after abandoning it years ago
+    url: https://www.aaronmate.net/p/zelensky-resists-ceding-donbas-after
+    text: 'Photo by STR/NurPhoto via Getty Images) Since the Trump administration began
+      pressuring him to reach a peace deal with Russia last month, Ukrainian president
+      Volodymyr Zelensky has refused to cede any territory to Moscow. On Thursday, after
+      a new round of salvos from President Trump, Zelensky appeared to leave some wiggle
+      room. “The Russians want the whole of Donbas — we don’t accept that,” Zelensky
+      told reporters. However, for the first time, he floated the idea of putting the
+      issue to a national vote: “I believe that the Ukrainian people will answer this
+      question. Whether in the form of elections or a referendum, the Ukrainian people
+      must have a say.” Any Ukrainian-administered referendum on the fate of the Donbas
+      would exclude most of its population, who now live under Russian rule. While Zelensky
+      insists that he will not reward what he sees as an illegal Russian land grab,
+      the Ukrainian leader has squandered several opportunities to keep his borders
+      intact. The February 2015 Minsk accords would have left the Donbas within Ukraine
+      by granting it limited autonomy and abandoning Kyiv’s chances of joining NATO.
+      Under the threat of ultra-nationalist violence, successive Ukrainian governments
+      instead opted to retake Donbas by force and demonize the ethnic Russians who live
+      there. Read more'
+    one_sentence_summary: Ukrainian President Volodymyr Zelensky has firmly rejected
+      ceding territory to Russia but has suggested the possibility of a national vote
+      on the fate of the Donbas region, despite the fact that most of its population
+      currently lives under Russian control.
+    paragraph_summary: Ukrainian President Volodymyr Zelensky has firmly rejected any
+      territorial concessions to Russia amid pressure from the Trump administration
+      to negotiate a peace deal. While maintaining that Ukraine will not accept Russia's
+      claim over the entire Donbas region, Zelensky has introduced the possibility of
+      a national vote to determine the area's fate, suggesting that the Ukrainian people
+      should have a say through elections or a referendum. However, any such vote would
+      exclude the majority of the Donbas population currently under Russian control.
+      Despite his stance against rewarding what he views as illegal land grabs, Zelensky
+      has missed opportunities to secure Ukraine's borders, such as the 2015 Minsk accords,
+      which would have granted limited autonomy to Donbas while compromising Ukraine's
+      NATO aspirations.
+    published: '2025-12-12T16:41:36+00:00'
+  - title: Zelensky resists ceding Donbas, after abandoning it years ago
+    url: https://www.aaronmate.net/p/zelensky-resists-ceding-donbas-after
+    text: 'Photo by STR/NurPhoto via Getty Images) Since the Trump administration began
+      pressuring him to reach a peace deal with Russia last month, Ukrainian president
+      Volodymyr Zelensky has refused to cede any territory to Moscow. On Thursday, after
+      a new round of salvos from President Trump, Zelensky appeared to leave some wiggle
+      room. “The Russians want the whole of Donbas — we don’t accept that,” Zelensky
+      told reporters. However, for the first time, he floated the idea of putting the
+      issue to a national vote: “I believe that the Ukrainian people will answer this
+      question. Whether in the form of elections or a referendum, the Ukrainian people
+      must have a say.” Any Ukrainian-administered referendum on the fate of the Donbas
+      would exclude most of its population, who now live under Russian rule. While Zelensky
+      insists that he will not reward what he sees as an illegal Russian land grab,
+      the Ukrainian leader has squandered several opportunities to keep his borders
+      intact. The February 2015 Minsk accords would have left the Donbas within Ukraine
+      by granting it limited autonomy and abandoning Kyiv’s chances of joining NATO.
+      Under the threat of ultra-nationalist violence, successive Ukrainian governments
+      instead opted to retake Donbas by force and demonize the ethnic Russians who live
+      there. Read more'
+    one_sentence_summary: Ukrainian President Volodymyr Zelensky has firmly rejected
+      ceding territory to Russia but has suggested the possibility of a national vote
+      on the fate of the Donbas region, despite the fact that most of its population
+      currently lives under Russian control.
+    paragraph_summary: Ukrainian President Volodymyr Zelensky has firmly rejected any
+      territorial concessions to Russia amid pressure from the Trump administration
+      to negotiate a peace deal. While maintaining that Ukraine will not accept Russia's
+      claim over the entire Donbas region, Zelensky has introduced the possibility of
+      a national vote to determine the area's fate, suggesting that the Ukrainian people
+      should have a say through elections or a referendum. However, any such vote would
+      exclude the majority of the Donbas population currently under Russian control.
+      Despite his stance against rewarding what he views as illegal land grabs, Zelensky
+      has missed opportunities to secure Ukraine's borders, such as the 2015 Minsk accords,
+      which would have granted limited autonomy to Donbas while compromising Ukraine's
+      NATO aspirations.
+    published: '2025-12-12T16:41:36+00:00'
   - title: Trump’s Ukraine peace plan faces a familiar foe in Washington
     url: https://www.aaronmate.net/p/trumps-ukraine-peace-plan-faces-a
     text: (Photo by Fabrice COFFRINI / AFP via Getty Images) Since taking office in

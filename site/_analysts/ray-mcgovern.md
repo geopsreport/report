@@ -7,14 +7,636 @@ description: "27-year CIA analyst turned independent; co-founder of Veteran Inte
 websites:
   - https://consortiumnews.com
 summary: |
-  The ongoing erosion of journalistic integrity and the shifting landscape of global power remain central themes in recent analysis. On the anniversary of Gary Webb’s downfall, **Robert Parry**—as cited by Ray McGovern—reflects on December 9, 2004, as a watershed moment marking the U.S. press’s transition from a watchdog to a defender of entrenched interests. This context is crucial for understanding current media coverage of international affairs, where skepticism toward official narratives is increasingly warranted.
+  As global crises intensify, the latest developments highlight escalating tensions in the Asia-Pacific, ongoing civil rights concerns in the US, and shifting legal approaches to press freedom in the UK.
   
-  Turning to transatlantic relations, **Alastair Crooke** critiques the latest U.S. National Security Strategy, which now openly concedes the failure of Washington’s quest for global primacy. European governments, according to Crooke, are in “panic” over the implications of a U.S. pivot toward stability with Russia, fearing diminished influence and strategic uncertainty. This signals a likely period of recalibration within NATO and the EU, as allies reassess their security postures and diplomatic priorities.
+  Amid rising US-China rivalry, the AUKUS alliance is drawing Australia deeper into Washington’s strategic orbit. **Julia Norman** notes that recent US-Australia talks have focused on expanding nuclear-powered submarine capabilities and securing critical minerals, moves widely interpreted as preparations for potential conflict with China. This deepening military and economic integration underscores the region’s volatility. I assess with high confidence that these steps will further strain US-China relations and increase the likelihood of military posturing in the Indo-Pacific.
   
-  Meanwhile, the humanitarian impact of sanctions remains acute. A recent study highlighted by speakers from Cuba, Nicaragua, Palestine, and Venezuela—referenced in McGovern’s reporting—underscores the deadly toll of economic blockades, particularly on children under five. The Lancet’s findings are fueling renewed calls for international scrutiny and policy change, though immediate relief appears unlikely.
+  Domestically, the US faces renewed scrutiny over its prison system. According to **Ray McGovern**, a year into President Trump’s second term, hopes for reform have faded, with persistent reports of inmate abuse and neglect. This signals a continued erosion of civil rights, a trend that is likely to persist absent significant political change. There is a high chance that human rights organizations will intensify their advocacy, but meaningful policy shifts remain unlikely in the near term.
   
-  Looking ahead, the majority view among analysts is that the credibility crisis in Western media will persist, most definitely shaping public perception and policy debates. There is a high chance that Europe’s anxiety over U.S.-Russia dynamics will translate into more assertive EU foreign policy initiatives. On sanctions, the evidence of humanitarian harm is mounting, but with entrenched political interests, significant policy shifts remain only quite likely in the medium term.
+  In the UK, the Crown Prosecution Service has dropped its terrorism case against journalist Richard Medhurst, who had faced charges for reporting on Gaza. This decision, confirmed by **Ray McGovern**, is seen as a rare victory for press freedom amid broader concerns about the suppression of dissenting voices in Western democracies. While this outcome may embolden some journalists, the overall climate remains challenging for independent reporting on sensitive international issues.
+  
+  Overall, the prevailing trends point toward increased geopolitical polarization, persistent domestic rights challenges in the US, and a fragile environment for press freedom in the West. Most analysts agree that, barring unforeseen developments, these dynamics will continue to define the global landscape into early 2026.
 articles:
+  - title: 'JOHN KIRIAKOU: US Prison Horror Show Plays On'
+    url: https://consortiumnews.com/2025/12/16/john-kiriakou-us-prison-horror-show-plays-on/
+    text: A year into  President Trump’s second term in office, hopes for inmates across
+      the country have dimmed. Deadly abuses have continued in full swing. By John Kiriakou
+      Special to Consortium News CN at 30 Hopes for a major restructuring of the… Read
+      more →
+    one_sentence_summary: A year into President Trump's second term, hopes for reforming
+      the treatment of inmates have diminished as reports of ongoing abuses persist.
+    paragraph_summary: A year into President Trump's second term, expectations for reform
+      in the U.S. prison system have diminished, as reports of severe abuses within
+      correctional facilities persist. John Kiriakou, writing for Consortium News, highlights
+      the ongoing issues faced by inmates, indicating that the anticipated changes to
+      improve their conditions have not materialized, leaving many to suffer from continued
+      mistreatment and neglect.
+    published: '2025-12-16T18:30:16+00:00'
+  - title: 'JOHN KIRIAKOU: US Prison Horror Show Plays On'
+    url: https://consortiumnews.com/2025/12/16/john-kiriakou-us-prison-horror-show-plays-on/
+    text: A year into  President Trump’s second term in office, hopes for inmates across
+      the country have dimmed. Deadly abuses have continued in full swing. By John Kiriakou
+      Special to Consortium News CN at 30 Hopes for a major restructuring of the… Read
+      more →
+    one_sentence_summary: A year into President Trump's second term, hopes for reforming
+      the treatment of inmates have diminished as reports of ongoing abuses persist.
+    paragraph_summary: A year into President Trump's second term, expectations for reform
+      in the U.S. prison system have diminished, as reports of severe abuses within
+      correctional facilities persist. John Kiriakou, writing for Consortium News, highlights
+      the ongoing issues faced by inmates, indicating that the anticipated changes to
+      improve their conditions have not materialized, leaving many to suffer from continued
+      mistreatment and neglect.
+    published: '2025-12-16T18:30:16+00:00'
+  - title: War With China Lurks Beneath US-Australia Talks
+    url: https://consortiumnews.com/2025/12/16/war-with-china-lurks-beneath-us-australia-talks/
+    text: Nuclear-powered submarines and critical-mineral investments under AUKUS tie
+      Australia ever closer to U.S. conflict with China, writes Julia Norman. By Julia
+      Norman Common Dreams When U.S. officials gathered in Washington last week for
+      the 40th annual Australia-United States Ministerial Consultations… Read more →
+    one_sentence_summary: The AUKUS alliance, which includes nuclear-powered submarines
+      and investments in critical minerals, is deepening Australia's ties to the U.S.
+      amid escalating tensions with China, according to Julia Norman.
+    paragraph_summary: In her article, Julia Norman discusses how the AUKUS alliance,
+      which includes nuclear-powered submarines and investments in critical minerals,
+      is deepening Australia's ties to the United States amid rising tensions with China.
+      During the recent Australia-United States Ministerial Consultations, U.S. officials
+      emphasized the strategic importance of this partnership, highlighting concerns
+      over China's influence in the Indo-Pacific region. Norman suggests that these
+      developments could entangle Australia more closely in potential U.S. conflicts
+      with China, raising questions about the implications for regional stability and
+      Australia's foreign policy.
+    published: '2025-12-16T16:30:17+00:00'
+  - title: War With China Lurks Beneath US-Australia Talks
+    url: https://consortiumnews.com/2025/12/16/war-with-china-lurks-beneath-us-australia-talks/
+    text: Nuclear-powered submarines and critical-mineral investments under AUKUS tie
+      Australia ever closer to U.S. conflict with China, writes Julia Norman. By Julia
+      Norman Common Dreams When U.S. officials gathered in Washington last week for
+      the 40th annual Australia-United States Ministerial Consultations… Read more →
+    one_sentence_summary: The AUKUS alliance, which includes nuclear-powered submarines
+      and investments in critical minerals, is deepening Australia's ties to the U.S.
+      amid escalating tensions with China, according to Julia Norman.
+    paragraph_summary: In her article, Julia Norman discusses how the AUKUS alliance,
+      which includes nuclear-powered submarines and investments in critical minerals,
+      is deepening Australia's ties to the United States amid rising tensions with China.
+      During the recent Australia-United States Ministerial Consultations, U.S. officials
+      emphasized the strategic importance of this partnership, highlighting concerns
+      over China's influence in the Indo-Pacific region. Norman suggests that these
+      developments could entangle Australia more closely in potential U.S. conflicts
+      with China, raising questions about the implications for regional stability and
+      Australia's foreign policy.
+    published: '2025-12-16T16:30:17+00:00'
+  - title: UK Drops ‘Terror’ Case vs Journalist on Gaza
+    url: https://consortiumnews.com/2025/12/16/uk-drops-terror-case-vs-journalist-on-gaza/
+    text: British authorities are no longer pursuing British journalist Richard Medhurst
+      under the Terrorism Act for his reporting on Gaza, writes Joe Lauria. By Joe Lauria
+      Special to Consortium News CN at 30 The British Crown Prosecution Service has
+      dropped its terrorism… Read more →
+    one_sentence_summary: British authorities have ceased pursuing journalist Richard
+      Medhurst under the Terrorism Act for his reporting on Gaza, as confirmed by the
+      Crown Prosecution Service.
+    paragraph_summary: British authorities have decided to cease pursuing journalist
+      Richard Medhurst under the Terrorism Act for his reporting on Gaza, as reported
+      by Joe Lauria. The Crown Prosecution Service in the UK has dropped the case, signaling
+      a significant development in the legal scrutiny faced by Medhurst for his journalistic
+      work.
+    published: '2025-12-16T10:00:01+00:00'
+  - title: UK Drops ‘Terror’ Case vs Journalist on Gaza
+    url: https://consortiumnews.com/2025/12/16/uk-drops-terror-case-vs-journalist-on-gaza/
+    text: British authorities are no longer pursuing British journalist Richard Medhurst
+      under the Terrorism Act for his reporting on Gaza, writes Joe Lauria. By Joe Lauria
+      Special to Consortium News CN at 30 The British Crown Prosecution Service has
+      dropped its terrorism… Read more →
+    one_sentence_summary: British authorities have ceased pursuing journalist Richard
+      Medhurst under the Terrorism Act for his reporting on Gaza, as confirmed by the
+      Crown Prosecution Service.
+    paragraph_summary: British authorities have decided to cease pursuing journalist
+      Richard Medhurst under the Terrorism Act for his reporting on Gaza, as reported
+      by Joe Lauria. The Crown Prosecution Service in the UK has dropped the case, signaling
+      a significant development in the legal scrutiny faced by Medhurst for his journalistic
+      work.
+    published: '2025-12-16T10:00:01+00:00'
+  - title: Exploiting a Massacre to Cover Up a Genocide
+    url: https://consortiumnews.com/2025/12/15/exploiting-a-massacre-to-cover-up-a-genocide/
+    text: Zionists have wasted little time blaming anti-genocide activists for the horrendous
+      attack on innocent people in Sydney, Australia on Sunday, in order to obscure
+      Israel’s ongoing crimes in Gaza, writes Joe Lauria. By Joe Lauria Special to Consortium
+      News CN at… Read more →
+    one_sentence_summary: Joe Lauria argues that Zionists are quickly attributing blame
+      to anti-genocide activists for a recent attack in Sydney to distract from Israel's
+      actions in Gaza.
+    paragraph_summary: In his article, Joe Lauria criticizes Zionists for quickly attributing
+      blame to anti-genocide activists for a violent incident in Sydney, Australia,
+      which he argues serves to distract from Israel's ongoing actions in Gaza. He suggests
+      that this tactic is part of a broader strategy to deflect attention from the humanitarian
+      crisis and violence occurring in the region, thereby undermining the efforts of
+      those advocating against such injustices.
+    published: '2025-12-15T21:00:47+00:00'
+  - title: Exploiting a Massacre to Cover Up a Genocide
+    url: https://consortiumnews.com/2025/12/15/exploiting-a-massacre-to-cover-up-a-genocide/
+    text: Zionists have wasted little time blaming anti-genocide activists for the horrendous
+      attack on innocent people in Sydney, Australia on Sunday, in order to obscure
+      Israel’s ongoing crimes in Gaza, writes Joe Lauria. By Joe Lauria Special to Consortium
+      News CN at… Read more →
+    one_sentence_summary: Joe Lauria argues that Zionists are quickly attributing blame
+      to anti-genocide activists for a recent attack in Sydney to distract from Israel's
+      actions in Gaza.
+    paragraph_summary: In his article, Joe Lauria criticizes Zionists for quickly attributing
+      blame to anti-genocide activists for a violent incident in Sydney, Australia,
+      which he argues serves to distract from Israel's ongoing actions in Gaza. He suggests
+      that this tactic is part of a broader strategy to deflect attention from the humanitarian
+      crisis and violence occurring in the region, thereby undermining the efforts of
+      those advocating against such injustices.
+    published: '2025-12-15T21:00:47+00:00'
+  - title: How Corporate Democrats Made Trump Possible
+    url: https://consortiumnews.com/2025/12/15/how-corporate-democrats-made-trump-possible/
+    text: Saving the country from autocracy requires recognizing — and then overcoming
+      — the chokehold that Democratic leaders have on the party. By Norman Solomon Common
+      Dreams Ten years after Donald Trump first ran for president, he stands at the
+      helm of… Read more →
+    one_sentence_summary: The article argues that to protect democracy, it is essential
+      to acknowledge and challenge the dominant influence of Democratic leaders within
+      the party.
+    paragraph_summary: In his article, Norman Solomon argues that to protect the country
+      from autocracy, it is essential to acknowledge and challenge the strong influence
+      that Democratic leaders exert over the party. He emphasizes that this internal
+      dynamic must be addressed to effectively counter the threats posed by figures
+      like Donald Trump, who continues to wield significant power in American politics
+      a decade after his initial presidential campaign. Solomon advocates for a more
+      progressive approach within the Democratic Party to foster genuine democratic
+      values and resist authoritarian tendencies.
+    published: '2025-12-15T18:00:17+00:00'
+  - title: How Corporate Democrats Made Trump Possible
+    url: https://consortiumnews.com/2025/12/15/how-corporate-democrats-made-trump-possible/
+    text: Saving the country from autocracy requires recognizing — and then overcoming
+      — the chokehold that Democratic leaders have on the party. By Norman Solomon Common
+      Dreams Ten years after Donald Trump first ran for president, he stands at the
+      helm of… Read more →
+    one_sentence_summary: The article argues that to protect democracy, it is essential
+      to acknowledge and challenge the dominant influence of Democratic leaders within
+      the party.
+    paragraph_summary: In his article, Norman Solomon argues that to protect the country
+      from autocracy, it is essential to acknowledge and challenge the strong influence
+      that Democratic leaders exert over the party. He emphasizes that this internal
+      dynamic must be addressed to effectively counter the threats posed by figures
+      like Donald Trump, who continues to wield significant power in American politics
+      a decade after his initial presidential campaign. Solomon advocates for a more
+      progressive approach within the Democratic Party to foster genuine democratic
+      values and resist authoritarian tendencies.
+    published: '2025-12-15T18:00:17+00:00'
+  - title: 'Maidan: A Coup or a Revolution?'
+    url: https://consortiumnews.com/2025/12/14/maidan-a-coup-or-a-revolution/
+    text: 'A revealing conversation with Grok, X’s AI, about the events in Ukraine in
+      2014. JOE LAURIA: Revolutions are only against undemocratic governments, monarchies,
+      dictatorships and the like. With a democratically-elected government there are
+      constitutional means to change a government or… Read more →'
+    one_sentence_summary: The article features a discussion with Grok, X's AI, exploring
+      the nature of revolutions in relation to democratic governance, particularly in
+      the context of Ukraine's events in 2014.
+    paragraph_summary: In a conversation with Grok, X’s AI, journalist Joe Lauria discusses
+      the nature of revolutions, emphasizing that they typically arise in response to
+      undemocratic regimes such as dictatorships or monarchies. He argues that in the
+      case of democratically-elected governments, there are constitutional avenues available
+      for change, suggesting that the dynamics of political upheaval differ significantly
+      depending on the type of government in power. The dialogue reflects on the events
+      in Ukraine in 2014, highlighting the complexities of revolutionary movements in
+      the context of democratic legitimacy.
+    published: '2025-12-14T07:27:49+00:00'
+  - title: 'Maidan: A Coup or a Revolution?'
+    url: https://consortiumnews.com/2025/12/14/maidan-a-coup-or-a-revolution/
+    text: 'A revealing conversation with Grok, X’s AI, about the events in Ukraine in
+      2014. JOE LAURIA: Revolutions are only against undemocratic governments, monarchies,
+      dictatorships and the like. With a democratically-elected government there are
+      constitutional means to change a government or… Read more →'
+    one_sentence_summary: The article features a discussion with Grok, X's AI, exploring
+      the nature of revolutions in relation to democratic governance, particularly in
+      the context of Ukraine's events in 2014.
+    paragraph_summary: In a conversation with Grok, X’s AI, journalist Joe Lauria discusses
+      the nature of revolutions, emphasizing that they typically arise in response to
+      undemocratic regimes such as dictatorships or monarchies. He argues that in the
+      case of democratically-elected governments, there are constitutional avenues available
+      for change, suggesting that the dynamics of political upheaval differ significantly
+      depending on the type of government in power. The dialogue reflects on the events
+      in Ukraine in 2014, highlighting the complexities of revolutionary movements in
+      the context of democratic legitimacy.
+    published: '2025-12-14T07:27:49+00:00'
+  - title: A Tax Deductible Donation in a Time of Crisis
+    url: https://consortiumnews.com/2025/12/13/a-tax-deductible-donation-in-a-time-of-crisis/
+    text: 'The world is in deep crisis: genocides in Gaza and Sudan; nuclear war lurking
+      over Ukraine; civil rights eviscerated across the West and a disinforming media
+      obscuring it all to shield the responsible. CN is here to help. CN at 30… Read
+      more →'
+    one_sentence_summary: The article highlights a global crisis marked by genocides
+      in Gaza and Sudan, the threat of nuclear war in Ukraine, the erosion of civil
+      rights in the West, and a misleading media landscape, while introducing CN's mission
+      to address these issues as it celebrates its 30th anniversary.
+    paragraph_summary: The article highlights a global crisis characterized by ongoing
+      genocides in Gaza and Sudan, the looming threat of nuclear conflict in Ukraine,
+      and the erosion of civil rights in Western nations, all compounded by a media
+      landscape that often distorts the truth to protect those in power. In response
+      to these challenges, the organization CN, celebrating its 30th anniversary, aims
+      to provide assistance and clarity amidst the turmoil.
+    published: '2025-12-14T00:28:22+00:00'
+  - title: A Tax Deductible Donation in a Time of Crisis
+    url: https://consortiumnews.com/2025/12/13/a-tax-deductible-donation-in-a-time-of-crisis/
+    text: 'The world is in deep crisis: genocides in Gaza and Sudan; nuclear war lurking
+      over Ukraine; civil rights eviscerated across the West and a disinforming media
+      obscuring it all to shield the responsible. CN is here to help. CN at 30… Read
+      more →'
+    one_sentence_summary: The article highlights a global crisis marked by genocides
+      in Gaza and Sudan, the threat of nuclear war in Ukraine, the erosion of civil
+      rights in the West, and a misleading media landscape, while introducing CN's mission
+      to address these issues as it celebrates its 30th anniversary.
+    paragraph_summary: The article highlights a global crisis characterized by ongoing
+      genocides in Gaza and Sudan, the looming threat of nuclear conflict in Ukraine,
+      and the erosion of civil rights in Western nations, all compounded by a media
+      landscape that often distorts the truth to protect those in power. In response
+      to these challenges, the organization CN, celebrating its 30th anniversary, aims
+      to provide assistance and clarity amidst the turmoil.
+    published: '2025-12-14T00:28:22+00:00'
+  - title: 'Jeffrey Sachs: Trump’s Thuggish Empire'
+    url: https://consortiumnews.com/2025/12/13/jeffrey-sachs-trumps-thuggish-empire/
+    text: The Venezuelan tanker seizure and Denmark’s anxiety about Greenland both show
+      the White House’s bullying 2025 National Security Strategy in brazen action. 
+      By Jeffrey D. Sachs Common Dreams CN at 30 The 2025 National Security Strategy
+      (NSS) recently released by President Donald… Read more →
+    one_sentence_summary: The article argues that the recent seizure of a Venezuelan
+      tanker and Denmark's concerns over Greenland exemplify the aggressive tactics
+      of the White House's 2025 National Security Strategy.
+    paragraph_summary: The article by Jeffrey D. Sachs discusses how recent events,
+      including the seizure of a Venezuelan tanker and Denmark's concerns regarding
+      Greenland, exemplify the aggressive tactics outlined in the White House's 2025
+      National Security Strategy. Sachs argues that these actions reflect a broader
+      pattern of U.S. bullying in international relations, highlighting the implications
+      for global diplomacy and security.
+    published: '2025-12-13T08:40:16+00:00'
+  - title: 'Jeffrey Sachs: Trump’s Thuggish Empire'
+    url: https://consortiumnews.com/2025/12/13/jeffrey-sachs-trumps-thuggish-empire/
+    text: The Venezuelan tanker seizure and Denmark’s anxiety about Greenland both show
+      the White House’s bullying 2025 National Security Strategy in brazen action. 
+      By Jeffrey D. Sachs Common Dreams CN at 30 The 2025 National Security Strategy
+      (NSS) recently released by President Donald… Read more →
+    one_sentence_summary: The article argues that the recent seizure of a Venezuelan
+      tanker and Denmark's concerns over Greenland exemplify the aggressive tactics
+      of the White House's 2025 National Security Strategy.
+    paragraph_summary: The article by Jeffrey D. Sachs discusses how recent events,
+      including the seizure of a Venezuelan tanker and Denmark's concerns regarding
+      Greenland, exemplify the aggressive tactics outlined in the White House's 2025
+      National Security Strategy. Sachs argues that these actions reflect a broader
+      pattern of U.S. bullying in international relations, highlighting the implications
+      for global diplomacy and security.
+    published: '2025-12-13T08:40:16+00:00'
+  - title: 'Hedges Report: The Encampments'
+    url: https://consortiumnews.com/2025/12/12/hedges-report-the-encampments/
+    text: Mahmoud Khalil and Michael T. Workman discuss the new film documenting the
+      student encampments at Columbia University and the brutal crackdown that eradicated
+      them.  By Chris Hedges The Chris Hedges Report CN at 30 The ongoing genocide in
+      Gaza has become a… Read more →
+    one_sentence_summary: Mahmoud Khalil and Michael T. Workman explore a new film that
+      highlights the student protests at Columbia University and the violent response
+      that dismantled them, as discussed by Chris Hedges.
+    paragraph_summary: In an article by Chris Hedges, Mahmoud Khalil and Michael T.
+      Workman explore a new film that chronicles the student protests at Columbia University
+      and the violent suppression that led to their dismantling. The discussion highlights
+      the broader implications of such events in the context of ongoing global issues,
+      including the genocide in Gaza, emphasizing the importance of documenting and
+      understanding historical struggles for justice and the consequences of state repression.
+    published: '2025-12-12T21:40:38+00:00'
+  - title: 'Hedges Report: The Encampments'
+    url: https://consortiumnews.com/2025/12/12/hedges-report-the-encampments/
+    text: Mahmoud Khalil and Michael T. Workman discuss the new film documenting the
+      student encampments at Columbia University and the brutal crackdown that eradicated
+      them.  By Chris Hedges The Chris Hedges Report CN at 30 The ongoing genocide in
+      Gaza has become a… Read more →
+    one_sentence_summary: Mahmoud Khalil and Michael T. Workman explore a new film that
+      highlights the student protests at Columbia University and the violent response
+      that dismantled them, as discussed by Chris Hedges.
+    paragraph_summary: In an article by Chris Hedges, Mahmoud Khalil and Michael T.
+      Workman explore a new film that chronicles the student protests at Columbia University
+      and the violent suppression that led to their dismantling. The discussion highlights
+      the broader implications of such events in the context of ongoing global issues,
+      including the genocide in Gaza, emphasizing the importance of documenting and
+      understanding historical struggles for justice and the consequences of state repression.
+    published: '2025-12-12T21:40:38+00:00'
+  - title: 'Jonathan Cook: Israel’s Biggest Con'
+    url: https://consortiumnews.com/2025/12/12/jonathan-cook-israels-biggest-con/
+    text: Israel has created a false death toll debate that relates only to those who
+      were killed directly by its bombs and gunfire — not the genocide it is waging
+      by other means. By Jonathan Cook Jonathan-Cook.net The biggest con trick… Read
+      more →
+    one_sentence_summary: The article argues that Israel's focus on the direct death
+      toll from its military actions obscures the broader humanitarian crisis and genocide
+      occurring through other means.
+    paragraph_summary: In the article by Jonathan Cook, he argues that Israel is misleadingly
+      framing the discussion around its death toll in the ongoing conflict by focusing
+      solely on those killed directly by military actions, while ignoring the broader
+      implications of its policies that contribute to a humanitarian crisis. Cook suggests
+      that this narrow focus distracts from the systemic violence and suffering inflicted
+      on the Palestinian population through various means, which he characterizes as
+      a form of genocide. He critiques this approach as a deceptive tactic that obscures
+      the full impact of Israel's actions on Palestinian lives.
+    published: '2025-12-12T21:00:40+00:00'
+  - title: 'Jonathan Cook: Israel’s Biggest Con'
+    url: https://consortiumnews.com/2025/12/12/jonathan-cook-israels-biggest-con/
+    text: Israel has created a false death toll debate that relates only to those who
+      were killed directly by its bombs and gunfire — not the genocide it is waging
+      by other means. By Jonathan Cook Jonathan-Cook.net The biggest con trick… Read
+      more →
+    one_sentence_summary: The article argues that Israel's focus on the direct death
+      toll from its military actions obscures the broader humanitarian crisis and genocide
+      occurring through other means.
+    paragraph_summary: In the article by Jonathan Cook, he argues that Israel is misleadingly
+      framing the discussion around its death toll in the ongoing conflict by focusing
+      solely on those killed directly by military actions, while ignoring the broader
+      implications of its policies that contribute to a humanitarian crisis. Cook suggests
+      that this narrow focus distracts from the systemic violence and suffering inflicted
+      on the Palestinian population through various means, which he characterizes as
+      a form of genocide. He critiques this approach as a deceptive tactic that obscures
+      the full impact of Israel's actions on Palestinian lives.
+    published: '2025-12-12T21:00:40+00:00'
+  - title: ‘Release Gaza Footage,’ British Victim Demands
+    url: https://consortiumnews.com/2025/12/12/release-gaza-footage-british-victim-demands/
+    text: In a spy flight documentary released Thursday by Declassified UK, the father
+      of a former Royal Marine killed in Gaza says footage captured by an opaque U.K.
+      surveillance program could clarify what happened to his son. By Alex Morris  and…
+      Read more →
+    one_sentence_summary: In a recent documentary by Declassified UK, the father of
+      a former Royal Marine killed in Gaza claims that footage from a secret U.K. surveillance
+      program could provide clarity on the circumstances surrounding his son's death.
+    paragraph_summary: In a recent documentary by Declassified UK, the father of a former
+      Royal Marine who was killed in Gaza expresses hope that footage from a secretive
+      U.K. surveillance program may provide clarity regarding his son's death. The documentary
+      highlights the potential significance of this footage in understanding the circumstances
+      surrounding the incident.
+    published: '2025-12-12T17:00:14+00:00'
+  - title: ‘Release Gaza Footage,’ British Victim Demands
+    url: https://consortiumnews.com/2025/12/12/release-gaza-footage-british-victim-demands/
+    text: In a spy flight documentary released Thursday by Declassified UK, the father
+      of a former Royal Marine killed in Gaza says footage captured by an opaque U.K.
+      surveillance program could clarify what happened to his son. By Alex Morris  and…
+      Read more →
+    one_sentence_summary: In a recent documentary by Declassified UK, the father of
+      a former Royal Marine killed in Gaza claims that footage from a secret U.K. surveillance
+      program could provide clarity on the circumstances surrounding his son's death.
+    paragraph_summary: In a recent documentary by Declassified UK, the father of a former
+      Royal Marine who was killed in Gaza expresses hope that footage from a secretive
+      U.K. surveillance program may provide clarity regarding his son's death. The documentary
+      highlights the potential significance of this footage in understanding the circumstances
+      surrounding the incident.
+    published: '2025-12-12T17:00:14+00:00'
+  - title: Journalist Files Defense in Anti-Semitism Test Case
+    url: https://consortiumnews.com/2025/12/11/journalist-files-defense-in-anti-semitism-test-case/
+    text: Mary Kostakidis, a national TV news presenter in Australia for two decades,
+      has asked a federal judge to throw out the Zionist Federation’s charge against
+      her of racially vilifying Jews, reports Joe Lauria. By Joe Lauria Special to Consortium
+      News… Read more →
+    one_sentence_summary: Mary Kostakidis, a former Australian TV news presenter, is
+      seeking to have a federal judge dismiss allegations of racial vilification against
+      her by the Zionist Federation.
+    paragraph_summary: Mary Kostakidis, a former national TV news presenter in Australia,
+      is seeking to have a federal judge dismiss allegations of racial vilification
+      brought against her by the Zionist Federation, as reported by Joe Lauria for Consortium
+      News. The charges stem from her comments regarding the Jewish community, which
+      she contends do not constitute hate speech.
+    published: '2025-12-11T23:22:22+00:00'
+  - title: Journalist Files Defense in Anti-Semitism Test Case
+    url: https://consortiumnews.com/2025/12/11/journalist-files-defense-in-anti-semitism-test-case/
+    text: Mary Kostakidis, a national TV news presenter in Australia for two decades,
+      has asked a federal judge to throw out the Zionist Federation’s charge against
+      her of racially vilifying Jews, reports Joe Lauria. By Joe Lauria Special to Consortium
+      News… Read more →
+    one_sentence_summary: Mary Kostakidis, a former Australian TV news presenter, is
+      seeking to have a federal judge dismiss allegations of racial vilification against
+      her by the Zionist Federation.
+    paragraph_summary: Mary Kostakidis, a former national TV news presenter in Australia,
+      is seeking to have a federal judge dismiss allegations of racial vilification
+      brought against her by the Zionist Federation, as reported by Joe Lauria for Consortium
+      News. The charges stem from her comments regarding the Jewish community, which
+      she contends do not constitute hate speech.
+    published: '2025-12-11T23:22:22+00:00'
+  - title: Kill Them All
+    url: https://consortiumnews.com/2025/12/11/kill-them-all/
+    text: Trump is undermining the Constitution and the value of laws in the U.S. with
+      his illegal strikes on boats off the coast of Venezuela, writes Andrew P. Napolitano.  
+      By Andrew P. Napolitano “Does anyone know where the love of God goes… Read more
+      →
+    one_sentence_summary: Andrew P. Napolitano argues that Trump's illegal actions against
+      boats off the coast of Venezuela are eroding the Constitution and the rule of
+      law in the United States.
+    paragraph_summary: In his article, Andrew P. Napolitano argues that former President
+      Trump is compromising the Constitution and the rule of law in the United States
+      through his unauthorized military actions against boats off the coast of Venezuela.
+      Napolitano emphasizes that such actions not only violate legal norms but also
+      threaten the foundational principles of governance and accountability in the country.
+    published: '2025-12-11T21:00:11+00:00'
+  - title: Kill Them All
+    url: https://consortiumnews.com/2025/12/11/kill-them-all/
+    text: Trump is undermining the Constitution and the value of laws in the U.S. with
+      his illegal strikes on boats off the coast of Venezuela, writes Andrew P. Napolitano.  
+      By Andrew P. Napolitano “Does anyone know where the love of God goes… Read more
+      →
+    one_sentence_summary: Andrew P. Napolitano argues that Trump's illegal actions against
+      boats off the coast of Venezuela are eroding the Constitution and the rule of
+      law in the United States.
+    paragraph_summary: In his article, Andrew P. Napolitano argues that former President
+      Trump is compromising the Constitution and the rule of law in the United States
+      through his unauthorized military actions against boats off the coast of Venezuela.
+      Napolitano emphasizes that such actions not only violate legal norms but also
+      threaten the foundational principles of governance and accountability in the country.
+    published: '2025-12-11T21:00:11+00:00'
+  - title: Hillary Clinton Rebuked as Genocide Denier
+    url: https://consortiumnews.com/2025/12/11/hillary-clinton-rebuked-as-genocide-denier/
+    text: The Lemkin Institute this week denounced the former secretary of state  for
+      trivializing young Americans’ opposition to Israel’s U.S.-backed genocide in Gaza.
+      By Brett Wilkins Common Dreams The world’s leading genocide prevention group this
+      week accused former U.S. Secretary of State… Read more →
+    one_sentence_summary: The Lemkin Institute criticized a former U.S. Secretary of
+      State for downplaying the opposition of young Americans to Israel's actions in
+      Gaza, which they describe as genocide supported by the U.S.
+    paragraph_summary: The Lemkin Institute has criticized former U.S. Secretary of
+      State for downplaying the strong opposition among young Americans to Israel's
+      actions in Gaza, which they describe as a U.S.-backed genocide. The institute,
+      recognized as a leading organization in genocide prevention, expressed concern
+      over the trivialization of these young people's views on the humanitarian crisis.
+    published: '2025-12-11T17:00:24+00:00'
+  - title: Hillary Clinton Rebuked as Genocide Denier
+    url: https://consortiumnews.com/2025/12/11/hillary-clinton-rebuked-as-genocide-denier/
+    text: The Lemkin Institute this week denounced the former secretary of state  for
+      trivializing young Americans’ opposition to Israel’s U.S.-backed genocide in Gaza.
+      By Brett Wilkins Common Dreams The world’s leading genocide prevention group this
+      week accused former U.S. Secretary of State… Read more →
+    one_sentence_summary: The Lemkin Institute criticized a former U.S. Secretary of
+      State for downplaying the opposition of young Americans to Israel's actions in
+      Gaza, which they describe as genocide supported by the U.S.
+    paragraph_summary: The Lemkin Institute has criticized former U.S. Secretary of
+      State for downplaying the strong opposition among young Americans to Israel's
+      actions in Gaza, which they describe as a U.S.-backed genocide. The institute,
+      recognized as a leading organization in genocide prevention, expressed concern
+      over the trivialization of these young people's views on the humanitarian crisis.
+    published: '2025-12-11T17:00:24+00:00'
+  - title: Support CN For Coverage of the  Crisis of Free Speech
+    url: https://consortiumnews.com/2025/12/11/support-cn-for-coverage-of-the-crisis-of-free-speech/
+    text: Consortium News’ reporting has stood out since the 2012 arbitrary detention
+      and later imprisonment of Julian Assange; the U.S. using social media firms to
+      curb speech after 2016; and the vast crackdown against criticism of Israel in
+      Gaza. By Joe… Read more →
+    one_sentence_summary: Consortium News has gained recognition for its coverage of
+      significant issues such as Julian Assange's detention, U.S. efforts to control
+      speech on social media post-2016, and the suppression of criticism regarding Israel's
+      actions in Gaza.
+    paragraph_summary: Consortium News has gained recognition for its investigative
+      reporting on significant issues, including the arbitrary detention and imprisonment
+      of Julian Assange since 2012, the U.S. government's use of social media companies
+      to suppress speech following the 2016 elections, and the extensive crackdown on
+      criticism of Israel in Gaza.
+    published: '2025-12-11T10:42:02+00:00'
+  - title: Support CN For Coverage of the  Crisis of Free Speech
+    url: https://consortiumnews.com/2025/12/11/support-cn-for-coverage-of-the-crisis-of-free-speech/
+    text: Consortium News’ reporting has stood out since the 2012 arbitrary detention
+      and later imprisonment of Julian Assange; the U.S. using social media firms to
+      curb speech after 2016; and the vast crackdown against criticism of Israel in
+      Gaza. By Joe… Read more →
+    one_sentence_summary: Consortium News has gained recognition for its coverage of
+      significant issues such as Julian Assange's detention, U.S. efforts to control
+      speech on social media post-2016, and the suppression of criticism regarding Israel's
+      actions in Gaza.
+    paragraph_summary: Consortium News has gained recognition for its investigative
+      reporting on significant issues, including the arbitrary detention and imprisonment
+      of Julian Assange since 2012, the U.S. government's use of social media companies
+      to suppress speech following the 2016 elections, and the extensive crackdown on
+      criticism of Israel in Gaza.
+    published: '2025-12-11T10:42:02+00:00'
+  - title: 'Craig Murray: The Troubled Case Against Palestine Action'
+    url: https://consortiumnews.com/2025/12/10/craig-murray-the-troubled-case-against-palestine-action/
+    text: Here are some key extracts to give you an idea of what has been going on in
+      the U.K. trial of six peace activists accused of the attack inside Elbit Systems’
+      Filton factory on Aug. 6, 2024. By Craig Murray… Read more →
+    one_sentence_summary: The article discusses key developments in the U.K. trial of
+      six peace activists charged with attacking Elbit Systems' Filton factory on August
+      6, 2024.
+    paragraph_summary: The article discusses the ongoing trial in the U.K. involving
+      six peace activists charged with attacking the Elbit Systems factory in Filton
+      on August 6, 2024. Key extracts highlight the activists' motivations and the context
+      of their actions, which are framed as a protest against the production of military
+      equipment. The trial has garnered attention due to its implications for civil
+      disobedience and the right to protest, as well as the broader issues of military
+      manufacturing and ethical considerations surrounding such activities.
+    published: '2025-12-11T01:23:28+00:00'
+  - title: 'Craig Murray: The Troubled Case Against Palestine Action'
+    url: https://consortiumnews.com/2025/12/10/craig-murray-the-troubled-case-against-palestine-action/
+    text: Here are some key extracts to give you an idea of what has been going on in
+      the U.K. trial of six peace activists accused of the attack inside Elbit Systems’
+      Filton factory on Aug. 6, 2024. By Craig Murray… Read more →
+    one_sentence_summary: The article discusses key developments in the U.K. trial of
+      six peace activists charged with attacking Elbit Systems' Filton factory on August
+      6, 2024.
+    paragraph_summary: The article discusses the ongoing trial in the U.K. involving
+      six peace activists charged with attacking the Elbit Systems factory in Filton
+      on August 6, 2024. Key extracts highlight the activists' motivations and the context
+      of their actions, which are framed as a protest against the production of military
+      equipment. The trial has garnered attention due to its implications for civil
+      disobedience and the right to protest, as well as the broader issues of military
+      manufacturing and ethical considerations surrounding such activities.
+    published: '2025-12-11T01:23:28+00:00'
+  - title: 'Jonathan Cook: The Filton Show Trial of Palestine Action'
+    url: https://consortiumnews.com/2025/12/10/jonathan-cook-the-filton-show-trial-of-palestine-action/
+    text: With this prosecution, the British government hopes to legitimize its proscription
+      of Palestine Action and deflect attention from its own sustained support for Israel’s
+      genocide. By Jonathan Cook Jonathan-Cook.net The current trial in London of six
+      peace activists is proving… Read more →
+    one_sentence_summary: The British government's prosecution of six peace activists
+      aims to legitimize its ban on Palestine Action while diverting attention from
+      its ongoing support for Israel's actions in Palestine.
+    paragraph_summary: The British government's prosecution of six peace activists from
+      Palestine Action aims to legitimize its ban on the group while diverting attention
+      from its ongoing support for Israel, which critics describe as genocidal. Jonathan
+      Cook argues that this trial reflects a broader strategy to suppress dissent and
+      silence voices advocating for Palestinian rights, highlighting the government's
+      efforts to frame the activists as criminals rather than addressing the humanitarian
+      issues at stake.
+    published: '2025-12-10T19:00:44+00:00'
+  - title: 'Jonathan Cook: The Filton Show Trial of Palestine Action'
+    url: https://consortiumnews.com/2025/12/10/jonathan-cook-the-filton-show-trial-of-palestine-action/
+    text: With this prosecution, the British government hopes to legitimize its proscription
+      of Palestine Action and deflect attention from its own sustained support for Israel’s
+      genocide. By Jonathan Cook Jonathan-Cook.net The current trial in London of six
+      peace activists is proving… Read more →
+    one_sentence_summary: The British government's prosecution of six peace activists
+      aims to legitimize its ban on Palestine Action while diverting attention from
+      its ongoing support for Israel's actions in Palestine.
+    paragraph_summary: The British government's prosecution of six peace activists from
+      Palestine Action aims to legitimize its ban on the group while diverting attention
+      from its ongoing support for Israel, which critics describe as genocidal. Jonathan
+      Cook argues that this trial reflects a broader strategy to suppress dissent and
+      silence voices advocating for Palestinian rights, highlighting the government's
+      efforts to frame the activists as criminals rather than addressing the humanitarian
+      issues at stake.
+    published: '2025-12-10T19:00:44+00:00'
+  - title: Marco Rubio, Forever-War Maker
+    url: https://consortiumnews.com/2025/12/10/marco-rubio-forever-war-maker/
+    text: The U.S. secretary of state has consistently undercut Trump’s professed goals
+      of diplomacy, negotiated settlements and “America First” priorities, write Medea
+      Benjamin and Nicolas J. S. Davies. By Medea Benjamin and Nicolas J. S. Davies
+      Z Network Donald Trump campaigned on ending… Read more →
+    one_sentence_summary: Medea Benjamin and Nicolas J. S. Davies argue that the U.S.
+      Secretary of State has repeatedly undermined Trump's stated objectives of diplomacy
+      and "America First" policies.
+    paragraph_summary: In their article, Medea Benjamin and Nicolas J. S. Davies argue
+      that the U.S. Secretary of State has repeatedly undermined President Trump's stated
+      objectives of diplomacy and negotiated settlements, as well as his "America First"
+      agenda. They highlight a disconnect between Trump's campaign promises to prioritize
+      peace and reduce military engagements and the actions taken by his administration,
+      suggesting that the Secretary of State's approach has been contrary to these goals.
+    published: '2025-12-10T17:00:05+00:00'
+  - title: Marco Rubio, Forever-War Maker
+    url: https://consortiumnews.com/2025/12/10/marco-rubio-forever-war-maker/
+    text: The U.S. secretary of state has consistently undercut Trump’s professed goals
+      of diplomacy, negotiated settlements and “America First” priorities, write Medea
+      Benjamin and Nicolas J. S. Davies. By Medea Benjamin and Nicolas J. S. Davies
+      Z Network Donald Trump campaigned on ending… Read more →
+    one_sentence_summary: Medea Benjamin and Nicolas J. S. Davies argue that the U.S.
+      Secretary of State has repeatedly undermined Trump's stated objectives of diplomacy
+      and "America First" policies.
+    paragraph_summary: In their article, Medea Benjamin and Nicolas J. S. Davies argue
+      that the U.S. Secretary of State has repeatedly undermined President Trump's stated
+      objectives of diplomacy and negotiated settlements, as well as his "America First"
+      agenda. They highlight a disconnect between Trump's campaign promises to prioritize
+      peace and reduce military engagements and the actions taken by his administration,
+      suggesting that the Secretary of State's approach has been contrary to these goals.
+    published: '2025-12-10T17:00:05+00:00'
+  - title: Venezuela & U.S. Imperialism in Latin America
+    url: https://consortiumnews.com/2025/12/10/venezuela-u-s-imperialism-in-latin-america/
+    text: Eric Ross on Washington’s longstanding project to shape the hemisphere in
+      ways that would entrench U.S. power further and protect the profits of Western
+      multinationals. By Eric Ross TomDispatch.com In recent months, the Trump administration
+      has escalated a decades-long campaign… Read more →
+    one_sentence_summary: Eric Ross discusses the Trump administration's intensified
+      efforts to reinforce U.S. dominance and safeguard Western multinational profits
+      in the Americas, reflecting a longstanding strategy to shape the region's political
+      landscape.
+    paragraph_summary: In his article, Eric Ross discusses the Trump administration's
+      intensification of a long-standing U.S. strategy aimed at consolidating American
+      influence in the Western Hemisphere while safeguarding the interests of Western
+      multinational corporations. He highlights how this approach seeks to reshape regional
+      dynamics to reinforce U.S. power and protect corporate profits, reflecting a broader
+      historical trend of interventionist policies in the region.
+    published: '2025-12-10T10:53:22+00:00'
+  - title: Venezuela & U.S. Imperialism in Latin America
+    url: https://consortiumnews.com/2025/12/10/venezuela-u-s-imperialism-in-latin-america/
+    text: Eric Ross on Washington’s longstanding project to shape the hemisphere in
+      ways that would entrench U.S. power further and protect the profits of Western
+      multinationals. By Eric Ross TomDispatch.com In recent months, the Trump administration
+      has escalated a decades-long campaign… Read more →
+    one_sentence_summary: Eric Ross discusses the Trump administration's intensified
+      efforts to reinforce U.S. dominance and safeguard Western multinational profits
+      in the Americas, reflecting a longstanding strategy to shape the region's political
+      landscape.
+    paragraph_summary: In his article, Eric Ross discusses the Trump administration's
+      intensification of a long-standing U.S. strategy aimed at consolidating American
+      influence in the Western Hemisphere while safeguarding the interests of Western
+      multinational corporations. He highlights how this approach seeks to reshape regional
+      dynamics to reinforce U.S. power and protect corporate profits, reflecting a broader
+      historical trend of interventionist policies in the region.
+    published: '2025-12-10T10:53:22+00:00'
   - title: 'Dec. 9: A Day When Journalism Died'
     url: https://consortiumnews.com/2025/12/09/dec-9-a-day-when-journalism-died/
     text: 'Robert Parry wrote: Dec. 9 has a grim meaning for the U.S. Republic, the

@@ -7,14 +7,904 @@ description: "Veteran Middle East war correspondent; provides first-hand analysi
 websites:
   - https://ejmagnier.com
 summary: |
-  As the conflict in Gaza enters a new phase, the strategic landscape has shifted markedly, with the United States now asserting greater control over the direction and tempo of events. According to **Elijah J. Magnier**, Washington has moved away from seeking outright military victories and is instead imposing a "sequencing" strategy that prioritizes economic and political frameworks. This approach effectively freezes conflicts rather than resolving them, a significant departure from Israel's traditional reliance on military initiative.
+  Tensions in the Middle East and Eastern Europe continue to shape the geopolitical landscape as 2025 draws to a close. The latest analyses highlight persistent instability in Lebanon, shifting momentum in Ukraine, and the evolving U.S. approach to the Gaza conflict.
   
-  Recent developments underscore Israel's growing constraints. Despite international pressure and U.S. directives, Israel continues to violate ceasefire agreements by restricting humanitarian aid access to Gaza, deepening the ongoing humanitarian crisis. **Magnier** notes that Israel's actions are increasingly at odds with Washington's objectives, signaling a loss of strategic initiative for Tel Aviv and a recalibration of U.S. policy in the region.
+  In Lebanon, internal divisions have deepened, undermining the country’s ability to present a unified defense against Israeli actions. **Elijah J. Magnier** notes that Israel stands to benefit from a fractured Lebanese political scene, as it weakens national deterrence and complicates any coherent response to Israeli military operations. However, despite these advantages, Israel lacks both the military capacity and political will to reoccupy Lebanon, making a full-scale intervention highly unlikely. The diplomatic process has largely failed, with concessions flowing one way and further entrenching Lebanon’s vulnerabilities. Magnier assesses with high confidence that this status quo will persist, stating, “Israel has an interest in a divided Lebanon, as it undermines national unity and defense capabilities against Israeli actions, but lacks the military and political means to reoccupy the country despite its attempts.”
   
-  This U.S.-led sequencing strategy is not limited to Gaza. There are indications, as previously reported, that Washington is testing similar approaches in other conflict zones, notably in Ukraine, where pragmatic ceasefires based on military realities are being explored.
+  On the Eastern European front, the fall of Seversk to Russian forces marks a significant shift in the Ukraine conflict. According to **Elijah J. Magnier**, this development not only provides Moscow with a symbolic victory but also exacerbates Kyiv’s political and military challenges amid dwindling resources and Western support. The capture of Seversk is seen as a turning point, with the momentum now favoring Russia. Magnier’s analysis suggests a high chance that Ukraine’s difficulties will intensify in the coming months, as the strategic and psychological impact of recent losses weighs heavily on both the government and the military.
   
-  Looking ahead, the prevailing trend is clear: the U.S. is consolidating its role as the principal arbiter in regional conflicts, leveraging political and economic tools over direct military engagement. I guarantee that, barring unforeseen escalations, this approach will continue to define U.S. strategy in the Middle East and beyond, with Israel's operational freedom likely to remain curtailed and the humanitarian situation in Gaza subject to the pace and priorities set by Washington.
+  In Gaza, the U.S. has recalibrated its strategy, moving away from seeking decisive military outcomes and instead prioritizing economic and political frameworks to manage the conflict. This shift has resulted in Israel’s non-compliance with ceasefire agreements and continued restrictions on humanitarian aid, worsening the crisis for civilians. The majority view among analysts, as reflected by Magnier, is that Washington’s approach is likely to freeze the conflict rather than resolve it, with little immediate prospect for meaningful change on the ground.
+  
+  In summary, the prevailing trends point to continued instability in Lebanon, a deteriorating situation for Ukraine, and a protracted, unresolved crisis in Gaza. The majority of independent analysts, including Magnier, most definitely predict that these dynamics will persist into early 2026, with little likelihood of major breakthroughs in diplomacy or conflict resolution in the near term.
 articles:
+  - title: 'Het jaar van Libanese concessies: hoe diplomatie faalde en eenrichtingsverkeer
+      werd'
+    url: https://ejmagnier.com/2025/12/16/het-jaar-van-libanese-concessies-hoe-diplomatie-faalde-en-eenrichtingsverkeer-werd/
+    text: Geschreven door Elijah J. Magnier – Vertaald door Francis J. Het is in het
+      strategische belang van Israël om Libanon intern verdeeld te zien, vooral nu duidelijk
+      is geworden dat Hezbollah niet alleen door middel van een militaire luchtcampagne
+      kan worden ontwapend en dat de Libanese diplomatie heeft gefaald in haar verantwoordelijkheid
+      om de soevereiniteit van Libanon te verdedigen of een einde te maken aan de dagelijkse
+      bombardementen door Israël. De versnippering binnen Libanon verzwakt elke eensgezinde
+      politieke houding, ondermijnt de nationale afschrikking en stelt Israël in staat
+      te opereren in een omgeving waarin de staat niet in staat is een coherent defensiebeleid
+      te formuleren of af te dwingen. Israël is echter niet in staat Libanon opnieuw
+      te bezetten. Het ontbreekt zowel aan de militaire capaciteit als aan de politieke
+      tolerantie voor het soort langdurige grondcampagne dat een dergelijke operatie
+      zou vereisen. De poging in 2024 heeft dit duidelijk aangetoond. Toen de Israëlische
+      grondtroepen Zuid-Libanon binnenvielen, werden ze geconfronteerd met georganiseerd
+      en ideologisch gemotiveerd verzet dat standhield tegen tienduizenden aanvallende
+      troepen. Het Libanese nationale leger, dat nooit voor deze rol was uitgerust,
+      was niet in staat om een dergelijke verantwoordelijkheid op zich te nemen, terwijl
+      de Libanese diplomatie grotendeels machteloos bleek om de uitkomst te beïnvloeden.
+      Het was niet zozeer de staat, maar de defensieve prestaties van Hezbollah die
+      een diepere en langdurigere bezetting hebben voorkomen. Het verzet blijft Libanon
+      beschermen tegen het verlies van grote gebieden en behoudt het vermogen om een
+      veel sterkere vijand te bestrijden, ook al is het niet zijn gelijke. Opvallend
+      is dat Israël er pas na het staakt-het-vuren in slaagde vijf hooggelegen heuvels
+      te bezetten, en niet tijdens de oorlog, toen zijn troepen uit angst voor nachtelijke
+      hinderlagen geen enkele nacht op bezet Libanees grondgebied doorbrachten. In deze
+      context wordt het in stand houden van de politieke verlamming van Libanon een
+      indirect instrument voor Israël. Als de staat niet in staat is zijn gezag te consolideren,
+      vanuit een sterke positie te onderhandelen of de nationale defensie te coördineren,
+      blijft Hezbollah de enige effectieve afschrikkende factor – iets wat Israël in
+      het openbaar veroordeelt, maar in de praktijk juist uitbuit. Een verdeeld Libanon
+      is gemakkelijker onder druk te zetten en te destabiliseren, en veel gemakkelijker
+      te besturen dan een samenhangende staat die in staat is duidelijke grenzen te
+      stellen en te handhaven. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly
+    one_sentence_summary: Israël heeft er belang bij dat Libanon intern verdeeld blijft,
+      omdat dit de nationale afschrikking verzwakt en Israël in staat stelt om te opereren
+      zonder een coherente defensie van Libanon, terwijl het zelf niet in staat is om
+      het land opnieuw te bezetten vanwege een gebrek aan militaire capaciteit en politieke
+      steun.
+    paragraph_summary: Elijah J. Magnier's article discusses the strategic interests
+      of Israel in maintaining internal division within Lebanon, particularly in light
+      of Hezbollah's resilience against military campaigns. The failure of Lebanese
+      diplomacy to defend the nation's sovereignty and counter daily Israeli bombardments
+      has weakened Lebanon's political unity and national deterrence, allowing Israel
+      to operate with relative impunity. Despite this, Israel lacks the military capacity
+      and political will for a prolonged ground occupation, as evidenced by its 2024
+      incursion into southern Lebanon, where it faced organized resistance from Hezbollah.
+      The Lebanese army was ill-equipped to take on such a role, and Hezbollah's defensive
+      capabilities have effectively prevented a deeper Israeli occupation. Ultimately,
+      Israel's limited territorial gains post-ceasefire highlight the challenges it
+      faces in overcoming Hezbollah's resistance.
+    published: '2025-12-16T03:50:26+00:00'
+  - title: 'Het jaar van Libanese concessies: hoe diplomatie faalde en eenrichtingsverkeer
+      werd'
+    url: https://ejmagnier.com/2025/12/16/het-jaar-van-libanese-concessies-hoe-diplomatie-faalde-en-eenrichtingsverkeer-werd/
+    text: Geschreven door Elijah J. Magnier – Vertaald door Francis J. Het is in het
+      strategische belang van Israël om Libanon intern verdeeld te zien, vooral nu duidelijk
+      is geworden dat Hezbollah niet alleen door middel van een militaire luchtcampagne
+      kan worden ontwapend en dat de Libanese diplomatie heeft gefaald in haar verantwoordelijkheid
+      om de soevereiniteit van Libanon te verdedigen of een einde te maken aan de dagelijkse
+      bombardementen door Israël. De versnippering binnen Libanon verzwakt elke eensgezinde
+      politieke houding, ondermijnt de nationale afschrikking en stelt Israël in staat
+      te opereren in een omgeving waarin de staat niet in staat is een coherent defensiebeleid
+      te formuleren of af te dwingen. Israël is echter niet in staat Libanon opnieuw
+      te bezetten. Het ontbreekt zowel aan de militaire capaciteit als aan de politieke
+      tolerantie voor het soort langdurige grondcampagne dat een dergelijke operatie
+      zou vereisen. De poging in 2024 heeft dit duidelijk aangetoond. Toen de Israëlische
+      grondtroepen Zuid-Libanon binnenvielen, werden ze geconfronteerd met georganiseerd
+      en ideologisch gemotiveerd verzet dat standhield tegen tienduizenden aanvallende
+      troepen. Het Libanese nationale leger, dat nooit voor deze rol was uitgerust,
+      was niet in staat om een dergelijke verantwoordelijkheid op zich te nemen, terwijl
+      de Libanese diplomatie grotendeels machteloos bleek om de uitkomst te beïnvloeden.
+      Het was niet zozeer de staat, maar de defensieve prestaties van Hezbollah die
+      een diepere en langdurigere bezetting hebben voorkomen. Het verzet blijft Libanon
+      beschermen tegen het verlies van grote gebieden en behoudt het vermogen om een
+      veel sterkere vijand te bestrijden, ook al is het niet zijn gelijke. Opvallend
+      is dat Israël er pas na het staakt-het-vuren in slaagde vijf hooggelegen heuvels
+      te bezetten, en niet tijdens de oorlog, toen zijn troepen uit angst voor nachtelijke
+      hinderlagen geen enkele nacht op bezet Libanees grondgebied doorbrachten. In deze
+      context wordt het in stand houden van de politieke verlamming van Libanon een
+      indirect instrument voor Israël. Als de staat niet in staat is zijn gezag te consolideren,
+      vanuit een sterke positie te onderhandelen of de nationale defensie te coördineren,
+      blijft Hezbollah de enige effectieve afschrikkende factor – iets wat Israël in
+      het openbaar veroordeelt, maar in de praktijk juist uitbuit. Een verdeeld Libanon
+      is gemakkelijker onder druk te zetten en te destabiliseren, en veel gemakkelijker
+      te besturen dan een samenhangende staat die in staat is duidelijke grenzen te
+      stellen en te handhaven. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly
+    one_sentence_summary: Israël heeft er belang bij dat Libanon intern verdeeld blijft,
+      omdat dit de nationale afschrikking verzwakt en Israël in staat stelt om te opereren
+      zonder een coherente defensie van Libanon, terwijl het zelf niet in staat is om
+      het land opnieuw te bezetten vanwege een gebrek aan militaire capaciteit en politieke
+      steun.
+    paragraph_summary: Elijah J. Magnier's article discusses the strategic interests
+      of Israel in maintaining internal division within Lebanon, particularly in light
+      of Hezbollah's resilience against military campaigns. The failure of Lebanese
+      diplomacy to defend the nation's sovereignty and counter daily Israeli bombardments
+      has weakened Lebanon's political unity and national deterrence, allowing Israel
+      to operate with relative impunity. Despite this, Israel lacks the military capacity
+      and political will for a prolonged ground occupation, as evidenced by its 2024
+      incursion into southern Lebanon, where it faced organized resistance from Hezbollah.
+      The Lebanese army was ill-equipped to take on such a role, and Hezbollah's defensive
+      capabilities have effectively prevented a deeper Israeli occupation. Ultimately,
+      Israel's limited territorial gains post-ceasefire highlight the challenges it
+      faces in overcoming Hezbollah's resistance.
+    published: '2025-12-16T03:50:26+00:00'
+  - title: 'Lebanon’s Year of Concessions: How Diplomacy Failed and Became a One-Way
+      Street'
+    url: https://ejmagnier.com/2025/12/15/lebanons-year-of-concessions-how-diplomacy-failed-and-became-a-one-way-street/
+    text: By Elijah J. Magnier – It is in Israel’s strategic interest to see Lebanon
+      internally divided, especially as it has become clear that Hezbollah cannot be
+      disarmed through a military air campaign alone and that Lebanese diplomacy has
+      failed to assume its responsibility to defend Lebanon’s sovereignty or halt Israel’s
+      daily bombing. Fragmentation inside Lebanon weakens any unified political stance,
+      erodes national deterrence, and allows Israel to operate in an environment where
+      the state is unable to articulate or enforce a coherent defence policy. Israel,
+      however, is not in a position to reoccupy Lebanon. It lacks both the military
+      capacity and the political tolerance for the kind of sustained ground campaign
+      such an operation would require. Its 2024 attempt demonstrated this clearly. Once
+      Israeli ground forces pushed into southern Lebanon, they faced organised and ideologically
+      committed resistance that held firm against tens of thousands of attacking troops.
+      The Lebanese national army, never equipped for this role, was unable to assume
+      such responsibility, while Lebanese diplomacy proved largely powerless to shape
+      the outcome. Hezbollah’s defensive performance, rather than state institutions,
+      prevented a deeper and longer occupation. The resistance continues to protect
+      Lebanon from the loss of large territories and retains the capacity to engage
+      a vastly superior enemy, even if it is not its equal. Notably, Israel managed
+      to occupy five high-ground hills only after the ceasefire, not during the war,
+      when its forces avoided spending a single night on occupied Lebanese territory
+      for fear of night ambushes. In this context, maintaining Lebanon’s political paralysis
+      becomes an indirect tool for Israel. If the state cannot consolidate authority,
+      negotiate from a position of strength, or coordinate national defence, Hezbollah
+      remains the sole effective deterrent actor—something Israel denounces publicly
+      while exploiting it in practice. A divided Lebanon is easier to pressure and destabilise,
+      and far easier to manage than a cohesive state capable of defining and enforcing
+      clear red lines. Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly
+    one_sentence_summary: Israel benefits from a divided Lebanon, as it undermines national
+      unity and defense capabilities against Israeli actions, but lacks the military
+      and political means to reoccupy the country despite its attempts.
+    paragraph_summary: In the article by Elijah J. Magnier, it is argued that Israel
+      benefits from a fragmented Lebanon, as this internal division undermines the country's
+      ability to present a unified defense against Israeli aggression and hampers its
+      diplomatic efforts to assert sovereignty. The article highlights that Israel's
+      military strategy has proven ineffective in disarming Hezbollah, which has demonstrated
+      significant resilience against Israeli forces, particularly during a recent ground
+      incursion in 2024. Despite Israel's attempts to occupy territory, Hezbollah's
+      organized resistance has prevented a deeper occupation, revealing the limitations
+      of both the Lebanese national army and its diplomatic efforts. Consequently, Israel's
+      strategy appears to involve maintaining Lebanon's political paralysis, allowing
+      Hezbollah to remain the primary deterrent against Israeli actions, which Israel
+      publicly criticizes while simultaneously benefiting from the situation.
+    published: '2025-12-15T17:14:46+00:00'
+  - title: 'Lebanon’s Year of Concessions: How Diplomacy Failed and Became a One-Way
+      Street'
+    url: https://ejmagnier.com/2025/12/15/lebanons-year-of-concessions-how-diplomacy-failed-and-became-a-one-way-street/
+    text: By Elijah J. Magnier – It is in Israel’s strategic interest to see Lebanon
+      internally divided, especially as it has become clear that Hezbollah cannot be
+      disarmed through a military air campaign alone and that Lebanese diplomacy has
+      failed to assume its responsibility to defend Lebanon’s sovereignty or halt Israel’s
+      daily bombing. Fragmentation inside Lebanon weakens any unified political stance,
+      erodes national deterrence, and allows Israel to operate in an environment where
+      the state is unable to articulate or enforce a coherent defence policy. Israel,
+      however, is not in a position to reoccupy Lebanon. It lacks both the military
+      capacity and the political tolerance for the kind of sustained ground campaign
+      such an operation would require. Its 2024 attempt demonstrated this clearly. Once
+      Israeli ground forces pushed into southern Lebanon, they faced organised and ideologically
+      committed resistance that held firm against tens of thousands of attacking troops.
+      The Lebanese national army, never equipped for this role, was unable to assume
+      such responsibility, while Lebanese diplomacy proved largely powerless to shape
+      the outcome. Hezbollah’s defensive performance, rather than state institutions,
+      prevented a deeper and longer occupation. The resistance continues to protect
+      Lebanon from the loss of large territories and retains the capacity to engage
+      a vastly superior enemy, even if it is not its equal. Notably, Israel managed
+      to occupy five high-ground hills only after the ceasefire, not during the war,
+      when its forces avoided spending a single night on occupied Lebanese territory
+      for fear of night ambushes. In this context, maintaining Lebanon’s political paralysis
+      becomes an indirect tool for Israel. If the state cannot consolidate authority,
+      negotiate from a position of strength, or coordinate national defence, Hezbollah
+      remains the sole effective deterrent actor—something Israel denounces publicly
+      while exploiting it in practice. A divided Lebanon is easier to pressure and destabilise,
+      and far easier to manage than a cohesive state capable of defining and enforcing
+      clear red lines. Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly
+    one_sentence_summary: Israel benefits from a divided Lebanon, as it undermines national
+      unity and defense capabilities against Israeli actions, but lacks the military
+      and political means to reoccupy the country despite its attempts.
+    paragraph_summary: In the article by Elijah J. Magnier, it is argued that Israel
+      benefits from a fragmented Lebanon, as this internal division undermines the country's
+      ability to present a unified defense against Israeli aggression and hampers its
+      diplomatic efforts to assert sovereignty. The article highlights that Israel's
+      military strategy has proven ineffective in disarming Hezbollah, which has demonstrated
+      significant resilience against Israeli forces, particularly during a recent ground
+      incursion in 2024. Despite Israel's attempts to occupy territory, Hezbollah's
+      organized resistance has prevented a deeper occupation, revealing the limitations
+      of both the Lebanese national army and its diplomatic efforts. Consequently, Israel's
+      strategy appears to involve maintaining Lebanon's political paralysis, allowing
+      Hezbollah to remain the primary deterrent against Israeli actions, which Israel
+      publicly criticizes while simultaneously benefiting from the situation.
+    published: '2025-12-15T17:14:46+00:00'
+  - title: 'L’année des concessions du Liban : comment la diplomatie a échoué et s’est
+      transformée en voie à sens unique'
+    url: https://ejmagnier.com/2025/12/15/lannee-des-concessions-du-liban-comment-la-diplomatie-a-echoue-et-sest-transformee-en-voie-a-sens-unique/
+    text: Par Elijah J. Magnier – Il est dans l’intérêt stratégique d’Israël de voir
+      le Liban divisé de l’intérieur, d’autant plus qu’il est désormais clair que le
+      Hezbollah ne peut être désarmé par une seule campagne aérienne et que la diplomatie
+      libanaise n’a pas assumé sa responsabilité de défendre la souveraineté du pays
+      ni de mettre fin aux bombardements israéliens quotidiens. La fragmentation interne
+      du Liban affaiblit toute position politique unifiée, érode la dissuasion nationale
+      et permet à Israël d’opérer dans un environnement où l’État est incapable d’articuler
+      ou de faire appliquer une politique de défense cohérente. Israël, toutefois, n’est
+      pas en mesure de réoccuper le Liban. Il lui manque à la fois la capacité militaire
+      et la tolérance politique nécessaires à une campagne terrestre prolongée qu’une
+      telle opération exigerait. Sa tentative de 2024 l’a démontré clairement. Lorsque
+      les forces terrestres israéliennes ont pénétré dans le sud du Liban, elles se
+      sont heurtées à une résistance organisée et idéologiquement déterminée, capable
+      de tenir face à des dizaines de milliers de soldats attaquants. L’armée libanaise,
+      jamais équipée pour assumer un tel rôle, n’a pas été en mesure de le faire, tandis
+      que la diplomatie libanaise s’est révélée largement impuissante à influencer l’issue
+      des événements. Ce sont les performances défensives du Hezbollah, et non les institutions
+      étatiques, qui ont empêché une occupation plus profonde et plus durable. La résistance
+      continue de protéger le Liban contre la perte de vastes territoires et conserve
+      la capacité d’affronter un ennemi très largement supérieur, même si elle n’est
+      pas son égale. Fait notable, Israël n’a réussi à occuper cinq collines stratégiques
+      qu’après le cessez-le-feu, et non pendant la guerre, lorsque ses forces évitaient
+      de passer ne serait-ce qu’une nuit sur un territoire libanais occupé par crainte
+      d’embuscades nocturnes. Dans ce contexte, le maintien de la paralysie politique
+      du Liban devient un outil indirect au service d’Israël. Si l’État ne peut consolider
+      son autorité, négocier à partir d’une position de force ou coordonner la défense
+      nationale, le Hezbollah demeure le seul acteur dissuasif effectif – une réalité
+      qu’Israël dénonce publiquement tout en l’exploitant dans les faits. Un Liban divisé
+      est plus facile à mettre sous pression, plus facile à déstabiliser et bien plus
+      simple à gérer qu’un État cohérent capable de définir et de faire respecter des
+      lignes rouges claires. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly
+    one_sentence_summary: Israël a intérêt à voir le Liban divisé, car cela affaiblit
+      la capacité du pays à défendre sa souveraineté face aux bombardements israéliens,
+      tout en rendant difficile une réponse unifiée contre le Hezbollah, bien qu'Israël
+      ne puisse pas réoccuper militairement le Liban en raison de limitations militaires
+      et politiques.
+    paragraph_summary: L'article d'Elijah J. Magnier souligne que la division interne
+      du Liban sert les intérêts stratégiques d'Israël, qui ne peut pas désarmer le
+      Hezbollah par des frappes aériennes seules, tandis que la diplomatie libanaise
+      échoue à défendre la souveraineté nationale face aux bombardements israéliens.
+      Cette fragmentation affaiblit la position politique du Liban et sa capacité à
+      formuler une défense cohérente, permettant à Israël d'agir sans opposition efficace.
+      Malgré cela, Israël n'a pas la capacité de réoccuper le Liban, comme l'a montré
+      sa tentative en 2024, où il a rencontré une résistance déterminée du Hezbollah.
+      Ce dernier, plutôt que l'armée libanaise ou les institutions étatiques, a été
+      crucial pour empêcher une occupation prolongée, démontrant ainsi que la résistance
+      est essentielle pour protéger le pays contre des pertes territoriales face à un
+      ennemi supérieur.
+    published: '2025-12-15T17:13:31+00:00'
+  - title: 'L’année des concessions du Liban : comment la diplomatie a échoué et s’est
+      transformée en voie à sens unique'
+    url: https://ejmagnier.com/2025/12/15/lannee-des-concessions-du-liban-comment-la-diplomatie-a-echoue-et-sest-transformee-en-voie-a-sens-unique/
+    text: Par Elijah J. Magnier – Il est dans l’intérêt stratégique d’Israël de voir
+      le Liban divisé de l’intérieur, d’autant plus qu’il est désormais clair que le
+      Hezbollah ne peut être désarmé par une seule campagne aérienne et que la diplomatie
+      libanaise n’a pas assumé sa responsabilité de défendre la souveraineté du pays
+      ni de mettre fin aux bombardements israéliens quotidiens. La fragmentation interne
+      du Liban affaiblit toute position politique unifiée, érode la dissuasion nationale
+      et permet à Israël d’opérer dans un environnement où l’État est incapable d’articuler
+      ou de faire appliquer une politique de défense cohérente. Israël, toutefois, n’est
+      pas en mesure de réoccuper le Liban. Il lui manque à la fois la capacité militaire
+      et la tolérance politique nécessaires à une campagne terrestre prolongée qu’une
+      telle opération exigerait. Sa tentative de 2024 l’a démontré clairement. Lorsque
+      les forces terrestres israéliennes ont pénétré dans le sud du Liban, elles se
+      sont heurtées à une résistance organisée et idéologiquement déterminée, capable
+      de tenir face à des dizaines de milliers de soldats attaquants. L’armée libanaise,
+      jamais équipée pour assumer un tel rôle, n’a pas été en mesure de le faire, tandis
+      que la diplomatie libanaise s’est révélée largement impuissante à influencer l’issue
+      des événements. Ce sont les performances défensives du Hezbollah, et non les institutions
+      étatiques, qui ont empêché une occupation plus profonde et plus durable. La résistance
+      continue de protéger le Liban contre la perte de vastes territoires et conserve
+      la capacité d’affronter un ennemi très largement supérieur, même si elle n’est
+      pas son égale. Fait notable, Israël n’a réussi à occuper cinq collines stratégiques
+      qu’après le cessez-le-feu, et non pendant la guerre, lorsque ses forces évitaient
+      de passer ne serait-ce qu’une nuit sur un territoire libanais occupé par crainte
+      d’embuscades nocturnes. Dans ce contexte, le maintien de la paralysie politique
+      du Liban devient un outil indirect au service d’Israël. Si l’État ne peut consolider
+      son autorité, négocier à partir d’une position de force ou coordonner la défense
+      nationale, le Hezbollah demeure le seul acteur dissuasif effectif – une réalité
+      qu’Israël dénonce publiquement tout en l’exploitant dans les faits. Un Liban divisé
+      est plus facile à mettre sous pression, plus facile à déstabiliser et bien plus
+      simple à gérer qu’un État cohérent capable de définir et de faire respecter des
+      lignes rouges claires. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly
+    one_sentence_summary: Israël a intérêt à voir le Liban divisé, car cela affaiblit
+      la capacité du pays à défendre sa souveraineté face aux bombardements israéliens,
+      tout en rendant difficile une réponse unifiée contre le Hezbollah, bien qu'Israël
+      ne puisse pas réoccuper militairement le Liban en raison de limitations militaires
+      et politiques.
+    paragraph_summary: L'article d'Elijah J. Magnier souligne que la division interne
+      du Liban sert les intérêts stratégiques d'Israël, qui ne peut pas désarmer le
+      Hezbollah par des frappes aériennes seules, tandis que la diplomatie libanaise
+      échoue à défendre la souveraineté nationale face aux bombardements israéliens.
+      Cette fragmentation affaiblit la position politique du Liban et sa capacité à
+      formuler une défense cohérente, permettant à Israël d'agir sans opposition efficace.
+      Malgré cela, Israël n'a pas la capacité de réoccuper le Liban, comme l'a montré
+      sa tentative en 2024, où il a rencontré une résistance déterminée du Hezbollah.
+      Ce dernier, plutôt que l'armée libanaise ou les institutions étatiques, a été
+      crucial pour empêcher une occupation prolongée, démontrant ainsi que la résistance
+      est essentielle pour protéger le pays contre des pertes territoriales face à un
+      ennemi supérieur.
+    published: '2025-12-15T17:13:31+00:00'
+  - title: 'Ukraine’s Losses and Europe’s Gamble: The Risky Collision Over Russian Assets'
+    url: https://ejmagnier.com/2025/12/13/ukraines-losses-and-europes-gamble-the-risky-collision-over-russian-assets/
+    text: 'By Elijah J. Magnier – The fall of Seversk in eastern Ukraine, coming after
+      a slow but continuous Russian advance throughout 2024 and into 2025, has reshaped
+      the psychological and strategic landscape of the war. Although tactically limited,
+      the capture of a town of Seversk’s size carries symbolic and diplomatic weight
+      vastly disproportionate to its geography. It provides Moscow with a tangible proof-point
+      that the conflict’s momentum is drifting in Russia’s favour and that battlefield
+      realities, not diplomatic abstractions, will determine the eventual settlement.
+      For Kyiv, the loss of Seversk is part of a wider trend that is becoming harder
+      to contain politically. Ukrainian forces have been fighting with diminishing stocks
+      of ammunition, overstretched manpower and increasingly irregular Western resupply.
+      Each incremental loss erodes defensive depth and raises the operational cost of
+      future counter-offensives. But the more important consequence lies inside Ukraine’s
+      political system, where territorial losses compound internal tensions — between
+      civilian leadership and the military command, between parliament and the executive,
+      and between factions debating whether to continue maximalist war aims or begin
+      contemplating negotiations. It is within this context that President Volodymyr
+      Zelensky’s decision to discuss a referendum on a potential ceasefire must be understood.
+      It was not simply a procedural idea or a democratic gesture. It was a political
+      manoeuvre designed to redistribute responsibility for an eventual strategic compromise.
+      A referendum would allow Zelensky to shift the moral burden of an inevitable decision
+      — whether to freeze the conflict or concede temporarily — onto the electorate.
+      In doing so, he avoids a scenario in which he alone becomes the national scapegoat
+      for a ceasefire that many Ukrainians still struggle to accept but that growing
+      numbers quietly consider unavoidable. This manoeuvre also responds to an increasingly
+      acute diplomatic pressure. Western capitals, especially in Europe, face domestic
+      fatigue as the cost of long-term military support rises and political turnovers
+      generate unpredictable constraints. With the United States entering a new electoral
+      cycle and Europe grappling with internal fractures, Ukraine’s allies are less
+      able to provide the blanket guarantees of 2022–2023. The loss of Seversk intensifies
+      this atmosphere: Ukraine is losing ground, Western backing is wavering, and the
+      political price of insisting on total territorial restoration grows heavier by
+      the month. Russia, for its part, has turned the Seversk victory into a negotiating
+      asset. By demonstrating momentum, Moscow strengthens the argument it has made
+      since early in the war: that the future map of Ukraine will be determined by realities
+      on the ground rather than Western diplomatic frameworks. Territorial gains, once
+      consolidated into defensive belts and logistics hubs, become effectively non-negotiable.
+      Like Crimea, like parts of Donetsk and Luhansk, Seversk now joins the list of
+      positions that Russia will not surrender without extracting major concessions
+      elsewhere. This battlefield shift does not occur in a vacuum. It feeds directly
+      into a larger confrontation unfolding between Russia and the European Union over
+      frozen Russian assets held inside EU jurisdictions. If Ukraine’s territorial losses
+      shape the psychological calculus of the conflict, Europe’s decision to use or
+      confiscate Russian sovereign assets shapes the economic and geopolitical terrain
+      on which the next phase of confrontation will take place.For almost two years,
+      the EU limited itself to freezing approximately €200–300 billion in Russian central
+      bank and state-linked assets. The more controversial step — full confiscation
+      — was long Subscribe Subscribe to get access Read more of this content when you
+      subscribe today. Subscribe Submitting form Log in Make a one-time donation Your
+      contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: The capture of Seversk by Russian forces has significant symbolic
+      and strategic implications for the war in Ukraine, highlighting a shift in momentum
+      towards Russia and exacerbating Ukraine's political and military challenges amid
+      dwindling resources and support.
+    paragraph_summary: The fall of Seversk in eastern Ukraine marks a significant shift
+      in the war's psychological and strategic dynamics, as it symbolizes a potential
+      momentum shift in favor of Russia despite its tactical limitations. This capture
+      serves as a tangible indicator for Moscow that battlefield realities may dictate
+      the conflict's resolution, while for Kyiv, it exacerbates existing challenges,
+      including dwindling ammunition supplies, overstretched forces, and irregular Western
+      support. The loss of territory intensifies internal political tensions in Ukraine,
+      complicating the relationship between civilian and military leadership and sparking
+      debates over war strategies. President Volodymyr Zelensky's proposal for a referendum
+      on a potential ceasefire emerges as a strategic move to distribute the responsibility
+      for any necessary compromises onto the electorate, thereby shielding himself from
+      becoming the sole target of public discontent regarding a ceasefire that many
+      Ukrainians find difficult to accept but increasingly view as inevitable.
+    published: '2025-12-13T17:00:42+00:00'
+  - title: 'Ukraine’s Losses and Europe’s Gamble: The Risky Collision Over Russian Assets'
+    url: https://ejmagnier.com/2025/12/13/ukraines-losses-and-europes-gamble-the-risky-collision-over-russian-assets/
+    text: 'By Elijah J. Magnier – The fall of Seversk in eastern Ukraine, coming after
+      a slow but continuous Russian advance throughout 2024 and into 2025, has reshaped
+      the psychological and strategic landscape of the war. Although tactically limited,
+      the capture of a town of Seversk’s size carries symbolic and diplomatic weight
+      vastly disproportionate to its geography. It provides Moscow with a tangible proof-point
+      that the conflict’s momentum is drifting in Russia’s favour and that battlefield
+      realities, not diplomatic abstractions, will determine the eventual settlement.
+      For Kyiv, the loss of Seversk is part of a wider trend that is becoming harder
+      to contain politically. Ukrainian forces have been fighting with diminishing stocks
+      of ammunition, overstretched manpower and increasingly irregular Western resupply.
+      Each incremental loss erodes defensive depth and raises the operational cost of
+      future counter-offensives. But the more important consequence lies inside Ukraine’s
+      political system, where territorial losses compound internal tensions — between
+      civilian leadership and the military command, between parliament and the executive,
+      and between factions debating whether to continue maximalist war aims or begin
+      contemplating negotiations. It is within this context that President Volodymyr
+      Zelensky’s decision to discuss a referendum on a potential ceasefire must be understood.
+      It was not simply a procedural idea or a democratic gesture. It was a political
+      manoeuvre designed to redistribute responsibility for an eventual strategic compromise.
+      A referendum would allow Zelensky to shift the moral burden of an inevitable decision
+      — whether to freeze the conflict or concede temporarily — onto the electorate.
+      In doing so, he avoids a scenario in which he alone becomes the national scapegoat
+      for a ceasefire that many Ukrainians still struggle to accept but that growing
+      numbers quietly consider unavoidable. This manoeuvre also responds to an increasingly
+      acute diplomatic pressure. Western capitals, especially in Europe, face domestic
+      fatigue as the cost of long-term military support rises and political turnovers
+      generate unpredictable constraints. With the United States entering a new electoral
+      cycle and Europe grappling with internal fractures, Ukraine’s allies are less
+      able to provide the blanket guarantees of 2022–2023. The loss of Seversk intensifies
+      this atmosphere: Ukraine is losing ground, Western backing is wavering, and the
+      political price of insisting on total territorial restoration grows heavier by
+      the month. Russia, for its part, has turned the Seversk victory into a negotiating
+      asset. By demonstrating momentum, Moscow strengthens the argument it has made
+      since early in the war: that the future map of Ukraine will be determined by realities
+      on the ground rather than Western diplomatic frameworks. Territorial gains, once
+      consolidated into defensive belts and logistics hubs, become effectively non-negotiable.
+      Like Crimea, like parts of Donetsk and Luhansk, Seversk now joins the list of
+      positions that Russia will not surrender without extracting major concessions
+      elsewhere. This battlefield shift does not occur in a vacuum. It feeds directly
+      into a larger confrontation unfolding between Russia and the European Union over
+      frozen Russian assets held inside EU jurisdictions. If Ukraine’s territorial losses
+      shape the psychological calculus of the conflict, Europe’s decision to use or
+      confiscate Russian sovereign assets shapes the economic and geopolitical terrain
+      on which the next phase of confrontation will take place.For almost two years,
+      the EU limited itself to freezing approximately €200–300 billion in Russian central
+      bank and state-linked assets. The more controversial step — full confiscation
+      — was long Subscribe Subscribe to get access Read more of this content when you
+      subscribe today. Subscribe Submitting form Log in Make a one-time donation Your
+      contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: The capture of Seversk by Russian forces has significant symbolic
+      and strategic implications for the war in Ukraine, highlighting a shift in momentum
+      towards Russia and exacerbating Ukraine's political and military challenges amid
+      dwindling resources and support.
+    paragraph_summary: The fall of Seversk in eastern Ukraine marks a significant shift
+      in the war's psychological and strategic dynamics, as it symbolizes a potential
+      momentum shift in favor of Russia despite its tactical limitations. This capture
+      serves as a tangible indicator for Moscow that battlefield realities may dictate
+      the conflict's resolution, while for Kyiv, it exacerbates existing challenges,
+      including dwindling ammunition supplies, overstretched forces, and irregular Western
+      support. The loss of territory intensifies internal political tensions in Ukraine,
+      complicating the relationship between civilian and military leadership and sparking
+      debates over war strategies. President Volodymyr Zelensky's proposal for a referendum
+      on a potential ceasefire emerges as a strategic move to distribute the responsibility
+      for any necessary compromises onto the electorate, thereby shielding himself from
+      becoming the sole target of public discontent regarding a ceasefire that many
+      Ukrainians find difficult to accept but increasingly view as inevitable.
+    published: '2025-12-13T17:00:42+00:00'
+  - title: 'Les pertes de l’Ukraine et le pari européen : la collision risquée autour
+      des avoirs russes'
+    url: https://ejmagnier.com/2025/12/13/les-pertes-de-lukraine-et-le-pari-europeen-la-collision-risquee-autour-des-avoirs-russes/
+    text: 'Par Elijah J. Magnier – La chute de Seversk, dans l’est de l’Ukraine, après
+      une avancée russe lente mais continue tout au long de 2024 et au début de 2025,
+      a remodelé le paysage psychologique et stratégique de la guerre. Bien que tactiquement
+      limitée, la prise d’une ville de la taille de Seversk revêt un poids symbolique
+      et diplomatique largement disproportionné à sa géographie. Elle offre à Moscou
+      une preuve tangible que le rapport de force évolue en sa faveur et que les réalités
+      du champ de bataille, plutôt que les abstractions diplomatiques, détermineront
+      le règlement final. Pour Kyiv, la perte de Seversk s’inscrit dans une dynamique
+      plus large, de plus en plus difficile à contenir politiquement. Les forces ukrainiennes
+      combattent avec des stocks de munitions en diminution, un personnel surmené et
+      un réapprovisionnement occidental devenu irrégulier. Chaque perte supplémentaire
+      réduit la profondeur défensive et augmente le coût opérationnel de futures contre-offensives.
+      Mais la conséquence la plus importante se trouve à l’intérieur du système politique
+      ukrainien, où les pertes territoriales aggravent les tensions internes : entre
+      leadership civil et commandement militaire, entre parlement et exécutif, et entre
+      factions débattant de la poursuite d’objectifs maximalistes ou de l’ouverture
+      de discussions. C’est dans ce contexte que la décision du président Volodymyr
+      Zelensky d’évoquer un référendum sur un éventuel cessez-le-feu doit être comprise.
+      Il ne s’agissait ni d’une simple idée procédurale ni d’un geste démocratique.
+      C’était une manœuvre politique visant à redistribuer la responsabilité d’un compromis
+      stratégique devenu inévitable. Un référendum permettrait à Zelensky de transférer
+      la charge morale d’une décision difficile — geler le conflit ou concéder temporairement
+      — sur l’électorat. Ce faisant, il évite de devenir seul le bouc émissaire national
+      pour un cessez-le-feu que beaucoup d’Ukrainiens peinent à accepter, mais que nombre
+      d’entre eux considèrent désormais en silence comme inexorable. Cette manœuvre
+      répond également à une pression diplomatique de plus en plus aiguë. Les capitales
+      occidentales, en particulier en Europe, font face à une fatigue domestique croissante
+      à mesure que le coût d’un soutien militaire de long terme augmente et que les
+      alternances politiques introduisent de nouvelles incertitudes. Avec l’entrée des
+      États-Unis dans un nouveau cycle électoral et l’Europe confrontée à ses propres
+      fractures internes, les alliés de l’Ukraine sont moins en mesure d’offrir les
+      garanties étendues de 2022–2023. La perte de Seversk accentue cette atmosphère
+      : l’Ukraine recule, le soutien occidental vacille et le prix politique d’une exigence
+      de restauration totale du territoire devient chaque mois plus lourd. La Russie,
+      de son côté, a transformé la victoire de Seversk en un atout de négociation. En
+      démontrant un certain momentum, Moscou renforce l’argument avancé depuis le début
+      de la guerre : la future carte de l’Ukraine sera déterminée par les réalités du
+      terrain plutôt que par les cadres diplomatiques occidentaux. Les gains territoriaux,
+      une fois consolidés en ceintures défensives et en plateformes logistiques, deviennent
+      de facto non négociables. Comme la Crimée, comme certaines parties de Donetsk
+      et Louhansk, Seversk rejoint désormais la liste des positions que la Russie ne
+      cédera pas sans contrepartie majeure. Cette évolution sur le terrain ne se produit
+      pas en vase clos. Elle s’intègre directement dans une confrontation plus large
+      entre la Russie et l’Union européenne autour des avoirs russes gelés dans les
+      juridictions européennes. Si les pertes territoriales de l’Ukraine modifient la
+      dynamique psychologique du conflit, la décision européenne d’utiliser ou de confisquer
+      les avoirs souverains russes façonne quant à elle le terrain économique et géopolitique
+      de la prochaine phase d’affrontement. Subscribe Subscribe to get access Read more
+      of this content when you subscribe today. Subscribe Submitting form Log in Make
+      a one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly'
+    one_sentence_summary: La prise de Seversk par les forces russes a des implications
+      symboliques et stratégiques majeures pour la guerre en Ukraine, renforçant la
+      position de Moscou tout en exacerbant les défis politiques et militaires pour
+      Kyiv.
+    paragraph_summary: La prise de Seversk par les forces russes a eu lieu après une
+      avancée lente mais continue, modifiant le paysage stratégique et psychologique
+      de la guerre en Ukraine. Bien que la ville soit tactiquement limitée, sa capture
+      représente un symbole fort pour Moscou, illustrant un changement de rapport de
+      force sur le terrain. Pour Kyiv, cette perte s'inscrit dans un contexte de tensions
+      internes croissantes, exacerbées par des ressources militaires en diminution et
+      des désaccords entre les différentes factions politiques sur la poursuite des
+      objectifs de guerre. Dans ce cadre, la proposition du président Volodymyr Zelensky
+      d'organiser un référendum sur un éventuel cessez-le-feu est perçue comme une manœuvre
+      politique pour partager la responsabilité d'une décision difficile, permettant
+      ainsi de transférer la charge morale de cette concession sur l'électorat, tout
+      en évitant de devenir le bouc émissaire d'un compromis impopulaire.
+    published: '2025-12-13T16:59:56+00:00'
+  - title: 'Les pertes de l’Ukraine et le pari européen : la collision risquée autour
+      des avoirs russes'
+    url: https://ejmagnier.com/2025/12/13/les-pertes-de-lukraine-et-le-pari-europeen-la-collision-risquee-autour-des-avoirs-russes/
+    text: 'Par Elijah J. Magnier – La chute de Seversk, dans l’est de l’Ukraine, après
+      une avancée russe lente mais continue tout au long de 2024 et au début de 2025,
+      a remodelé le paysage psychologique et stratégique de la guerre. Bien que tactiquement
+      limitée, la prise d’une ville de la taille de Seversk revêt un poids symbolique
+      et diplomatique largement disproportionné à sa géographie. Elle offre à Moscou
+      une preuve tangible que le rapport de force évolue en sa faveur et que les réalités
+      du champ de bataille, plutôt que les abstractions diplomatiques, détermineront
+      le règlement final. Pour Kyiv, la perte de Seversk s’inscrit dans une dynamique
+      plus large, de plus en plus difficile à contenir politiquement. Les forces ukrainiennes
+      combattent avec des stocks de munitions en diminution, un personnel surmené et
+      un réapprovisionnement occidental devenu irrégulier. Chaque perte supplémentaire
+      réduit la profondeur défensive et augmente le coût opérationnel de futures contre-offensives.
+      Mais la conséquence la plus importante se trouve à l’intérieur du système politique
+      ukrainien, où les pertes territoriales aggravent les tensions internes : entre
+      leadership civil et commandement militaire, entre parlement et exécutif, et entre
+      factions débattant de la poursuite d’objectifs maximalistes ou de l’ouverture
+      de discussions. C’est dans ce contexte que la décision du président Volodymyr
+      Zelensky d’évoquer un référendum sur un éventuel cessez-le-feu doit être comprise.
+      Il ne s’agissait ni d’une simple idée procédurale ni d’un geste démocratique.
+      C’était une manœuvre politique visant à redistribuer la responsabilité d’un compromis
+      stratégique devenu inévitable. Un référendum permettrait à Zelensky de transférer
+      la charge morale d’une décision difficile — geler le conflit ou concéder temporairement
+      — sur l’électorat. Ce faisant, il évite de devenir seul le bouc émissaire national
+      pour un cessez-le-feu que beaucoup d’Ukrainiens peinent à accepter, mais que nombre
+      d’entre eux considèrent désormais en silence comme inexorable. Cette manœuvre
+      répond également à une pression diplomatique de plus en plus aiguë. Les capitales
+      occidentales, en particulier en Europe, font face à une fatigue domestique croissante
+      à mesure que le coût d’un soutien militaire de long terme augmente et que les
+      alternances politiques introduisent de nouvelles incertitudes. Avec l’entrée des
+      États-Unis dans un nouveau cycle électoral et l’Europe confrontée à ses propres
+      fractures internes, les alliés de l’Ukraine sont moins en mesure d’offrir les
+      garanties étendues de 2022–2023. La perte de Seversk accentue cette atmosphère
+      : l’Ukraine recule, le soutien occidental vacille et le prix politique d’une exigence
+      de restauration totale du territoire devient chaque mois plus lourd. La Russie,
+      de son côté, a transformé la victoire de Seversk en un atout de négociation. En
+      démontrant un certain momentum, Moscou renforce l’argument avancé depuis le début
+      de la guerre : la future carte de l’Ukraine sera déterminée par les réalités du
+      terrain plutôt que par les cadres diplomatiques occidentaux. Les gains territoriaux,
+      une fois consolidés en ceintures défensives et en plateformes logistiques, deviennent
+      de facto non négociables. Comme la Crimée, comme certaines parties de Donetsk
+      et Louhansk, Seversk rejoint désormais la liste des positions que la Russie ne
+      cédera pas sans contrepartie majeure. Cette évolution sur le terrain ne se produit
+      pas en vase clos. Elle s’intègre directement dans une confrontation plus large
+      entre la Russie et l’Union européenne autour des avoirs russes gelés dans les
+      juridictions européennes. Si les pertes territoriales de l’Ukraine modifient la
+      dynamique psychologique du conflit, la décision européenne d’utiliser ou de confisquer
+      les avoirs souverains russes façonne quant à elle le terrain économique et géopolitique
+      de la prochaine phase d’affrontement. Subscribe Subscribe to get access Read more
+      of this content when you subscribe today. Subscribe Submitting form Log in Make
+      a one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly'
+    one_sentence_summary: La prise de Seversk par les forces russes a des implications
+      symboliques et stratégiques majeures pour la guerre en Ukraine, renforçant la
+      position de Moscou tout en exacerbant les défis politiques et militaires pour
+      Kyiv.
+    paragraph_summary: La prise de Seversk par les forces russes a eu lieu après une
+      avancée lente mais continue, modifiant le paysage stratégique et psychologique
+      de la guerre en Ukraine. Bien que la ville soit tactiquement limitée, sa capture
+      représente un symbole fort pour Moscou, illustrant un changement de rapport de
+      force sur le terrain. Pour Kyiv, cette perte s'inscrit dans un contexte de tensions
+      internes croissantes, exacerbées par des ressources militaires en diminution et
+      des désaccords entre les différentes factions politiques sur la poursuite des
+      objectifs de guerre. Dans ce cadre, la proposition du président Volodymyr Zelensky
+      d'organiser un référendum sur un éventuel cessez-le-feu est perçue comme une manœuvre
+      politique pour partager la responsabilité d'une décision difficile, permettant
+      ainsi de transférer la charge morale de cette concession sur l'électorat, tout
+      en évitant de devenir le bouc émissaire d'un compromis impopulaire.
+    published: '2025-12-13T16:59:56+00:00'
+  - title: 'Die Verluste der Ukraine und Europas Glücksspiel: Die riskante Auseinandersetzung
+      um russische Vermögenswerte'
+    url: https://ejmagnier.com/2025/12/13/die-verluste-der-ukraine-und-europas-glucksspiel-die-riskante-auseinandersetzung-um-russische-vermogenswerte/
+    text: 'Von Elijah J. Magnier – Der Fall von Sewersk im Osten der Ukraine, der nach
+      einem langsamen, aber kontinuierlichen Vormarsch Russlands im Laufe des Jahres
+      2024 und bis ins Jahr 2025 hinein erfolgte, hat die psychologische und strategische
+      Landschaft des Krieges neu geprägt. Obwohl taktisch begrenzt, hat die Eroberung
+      einer Stadt von der Größe Seversks eine symbolische und diplomatische Bedeutung,
+      die in keinem Verhältnis zu ihrer geografischen Lage steht. Sie liefert Moskau
+      einen konkreten Beweis dafür, dass sich das Momentum des Konflikts zugunsten Russlands
+      verschiebt und dass nicht diplomatische Abstraktionen, sondern die Realitäten
+      auf dem Schlachtfeld über die endgültige Lösung entscheiden werden. Für Kiew ist
+      der Verlust von Seversk Teil eines größeren Trends, der politisch immer schwerer
+      einzudämmen ist. Die ukrainischen Streitkräfte kämpfen mit schwindenden Munitionsvorräten,
+      überlasteten personellen Ressourcen und zunehmend unregelmäßigen Nachschublieferungen
+      aus dem Westen. Jeder weitere Verlust schwächt die Verteidigungsfähigkeit und
+      erhöht die Kosten künftiger Gegenoffensiven. Die wichtigere Konsequenz liegt jedoch
+      im politischen System der Ukraine, wo territoriale Verluste die internen Spannungen
+      verschärfen – zwischen der zivilen Führung und dem Militärkommando, zwischen Parlament
+      und Exekutive sowie zwischen den Fraktionen, die darüber debattieren, ob die maximalistischen
+      Kriegsziele weiterverfolgt oder Verhandlungen in Betracht gezogen werden sollen.
+      Vor diesem Hintergrund muss die Entscheidung von Präsident Wolodymyr Selenskyj,
+      ein Referendum über einen möglichen Waffenstillstand zu diskutieren, verstanden
+      werden. Es handelte sich dabei nicht einfach um eine verfahrenstechnische Idee
+      oder eine demokratische Geste. Es war ein politisches Manöver, das darauf abzielte,
+      die Verantwortung für einen möglichen strategischen Kompromiss neu zu verteilen.
+      Ein Referendum würde es Selenskyj ermöglichen, die moralische Last einer unvermeidlichen
+      Entscheidung – ob den Konflikt einzufrieren oder vorübergehend nachzugeben – auf
+      die Wählerschaft zu verlagern. Auf diese Weise vermeidet er ein Szenario, in dem
+      er allein zum nationalen Sündenbock für einen Waffenstillstand wird, den viele
+      Ukrainer noch immer nur schwer akzeptieren können, den aber immer mehr Menschen
+      stillschweigend als unvermeidlich betrachten. Dieses Manöver ist auch eine Reaktion
+      auf den zunehmend akuten diplomatischen Druck. Die westlichen Hauptstädte, insbesondere
+      in Europa, sehen sich mit einer zunehmenden Ermüdung der Bevölkerung konfrontiert,
+      da die Kosten für die langfristige militärische Unterstützung steigen und politische
+      Umbrüche unvorhersehbare Einschränkungen mit sich bringen. Da die Vereinigten
+      Staaten in einen neuen Wahlzyklus eintreten und Europa mit internen Spaltungen
+      zu kämpfen hat, sind die Verbündeten der Ukraine weniger in der Lage, die umfassenden
+      Garantien von 2022–2023 zu geben. Der Verlust von Sewersk verstärkt diese Atmosphäre:
+      Die Ukraine verliert an Boden, die Unterstützung des Westens schwankt, und der
+      politische Preis für das Beharren auf einer vollständigen Wiederherstellung des
+      Territoriums wird von Monat zu Monat höher. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Die Eroberung von Sewersk durch Russland im Jahr 2024 hat
+      die strategische und psychologische Dynamik des Ukraine-Kriegs verändert, indem
+      sie Moskau einen symbolischen Sieg verschafft und Kiews Herausforderungen in Bezug
+      auf Ressourcen und Unterstützung aus dem Westen verstärkt.
+    paragraph_summary: Der Fall von Sewersk im Osten der Ukraine, der durch einen langsamen,
+      aber stetigen Vorstoß Russlands zwischen 2024 und 2025 geprägt ist, hat die psychologische
+      und strategische Dynamik des Krieges erheblich verändert. Die Eroberung dieser
+      Stadt hat eine symbolische und diplomatische Bedeutung, die über ihre geografische
+      Lage hinausgeht, und zeigt, dass sich das Momentum des Konflikts zugunsten Russlands
+      verschiebt. Für die Ukraine stellt der Verlust von Sewersk einen Teil eines besorgniserregenden
+      Trends dar, der die militärischen Ressourcen und die interne politische Stabilität
+      des Landes belastet. Die ukrainischen Streitkräfte kämpfen mit sinkenden Munitionsvorräten
+      und unregelmäßigen Nachschublieferungen, was die Verteidigungsfähigkeit schwächt
+      und die Kosten für zukünftige Gegenoffensiven erhöht. Politisch verstärken territoriale
+      Verluste die Spannungen zwischen zivilen und militärischen Führungen sowie innerhalb
+      der Regierung, was die Diskussion um ein mögliches Referendum über einen Waffenstillstand
+      unter Präsident Selenskyj als strategisches Manöver erscheinen lässt, um die Verantwortung
+      für eine möglicherweise notwendige Kompromisslösung zu teilen.
+    published: '2025-12-13T16:58:53+00:00'
+  - title: 'Die Verluste der Ukraine und Europas Glücksspiel: Die riskante Auseinandersetzung
+      um russische Vermögenswerte'
+    url: https://ejmagnier.com/2025/12/13/die-verluste-der-ukraine-und-europas-glucksspiel-die-riskante-auseinandersetzung-um-russische-vermogenswerte/
+    text: 'Von Elijah J. Magnier – Der Fall von Sewersk im Osten der Ukraine, der nach
+      einem langsamen, aber kontinuierlichen Vormarsch Russlands im Laufe des Jahres
+      2024 und bis ins Jahr 2025 hinein erfolgte, hat die psychologische und strategische
+      Landschaft des Krieges neu geprägt. Obwohl taktisch begrenzt, hat die Eroberung
+      einer Stadt von der Größe Seversks eine symbolische und diplomatische Bedeutung,
+      die in keinem Verhältnis zu ihrer geografischen Lage steht. Sie liefert Moskau
+      einen konkreten Beweis dafür, dass sich das Momentum des Konflikts zugunsten Russlands
+      verschiebt und dass nicht diplomatische Abstraktionen, sondern die Realitäten
+      auf dem Schlachtfeld über die endgültige Lösung entscheiden werden. Für Kiew ist
+      der Verlust von Seversk Teil eines größeren Trends, der politisch immer schwerer
+      einzudämmen ist. Die ukrainischen Streitkräfte kämpfen mit schwindenden Munitionsvorräten,
+      überlasteten personellen Ressourcen und zunehmend unregelmäßigen Nachschublieferungen
+      aus dem Westen. Jeder weitere Verlust schwächt die Verteidigungsfähigkeit und
+      erhöht die Kosten künftiger Gegenoffensiven. Die wichtigere Konsequenz liegt jedoch
+      im politischen System der Ukraine, wo territoriale Verluste die internen Spannungen
+      verschärfen – zwischen der zivilen Führung und dem Militärkommando, zwischen Parlament
+      und Exekutive sowie zwischen den Fraktionen, die darüber debattieren, ob die maximalistischen
+      Kriegsziele weiterverfolgt oder Verhandlungen in Betracht gezogen werden sollen.
+      Vor diesem Hintergrund muss die Entscheidung von Präsident Wolodymyr Selenskyj,
+      ein Referendum über einen möglichen Waffenstillstand zu diskutieren, verstanden
+      werden. Es handelte sich dabei nicht einfach um eine verfahrenstechnische Idee
+      oder eine demokratische Geste. Es war ein politisches Manöver, das darauf abzielte,
+      die Verantwortung für einen möglichen strategischen Kompromiss neu zu verteilen.
+      Ein Referendum würde es Selenskyj ermöglichen, die moralische Last einer unvermeidlichen
+      Entscheidung – ob den Konflikt einzufrieren oder vorübergehend nachzugeben – auf
+      die Wählerschaft zu verlagern. Auf diese Weise vermeidet er ein Szenario, in dem
+      er allein zum nationalen Sündenbock für einen Waffenstillstand wird, den viele
+      Ukrainer noch immer nur schwer akzeptieren können, den aber immer mehr Menschen
+      stillschweigend als unvermeidlich betrachten. Dieses Manöver ist auch eine Reaktion
+      auf den zunehmend akuten diplomatischen Druck. Die westlichen Hauptstädte, insbesondere
+      in Europa, sehen sich mit einer zunehmenden Ermüdung der Bevölkerung konfrontiert,
+      da die Kosten für die langfristige militärische Unterstützung steigen und politische
+      Umbrüche unvorhersehbare Einschränkungen mit sich bringen. Da die Vereinigten
+      Staaten in einen neuen Wahlzyklus eintreten und Europa mit internen Spaltungen
+      zu kämpfen hat, sind die Verbündeten der Ukraine weniger in der Lage, die umfassenden
+      Garantien von 2022–2023 zu geben. Der Verlust von Sewersk verstärkt diese Atmosphäre:
+      Die Ukraine verliert an Boden, die Unterstützung des Westens schwankt, und der
+      politische Preis für das Beharren auf einer vollständigen Wiederherstellung des
+      Territoriums wird von Monat zu Monat höher. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Die Eroberung von Sewersk durch Russland im Jahr 2024 hat
+      die strategische und psychologische Dynamik des Ukraine-Kriegs verändert, indem
+      sie Moskau einen symbolischen Sieg verschafft und Kiews Herausforderungen in Bezug
+      auf Ressourcen und Unterstützung aus dem Westen verstärkt.
+    paragraph_summary: Der Fall von Sewersk im Osten der Ukraine, der durch einen langsamen,
+      aber stetigen Vorstoß Russlands zwischen 2024 und 2025 geprägt ist, hat die psychologische
+      und strategische Dynamik des Krieges erheblich verändert. Die Eroberung dieser
+      Stadt hat eine symbolische und diplomatische Bedeutung, die über ihre geografische
+      Lage hinausgeht, und zeigt, dass sich das Momentum des Konflikts zugunsten Russlands
+      verschiebt. Für die Ukraine stellt der Verlust von Sewersk einen Teil eines besorgniserregenden
+      Trends dar, der die militärischen Ressourcen und die interne politische Stabilität
+      des Landes belastet. Die ukrainischen Streitkräfte kämpfen mit sinkenden Munitionsvorräten
+      und unregelmäßigen Nachschublieferungen, was die Verteidigungsfähigkeit schwächt
+      und die Kosten für zukünftige Gegenoffensiven erhöht. Politisch verstärken territoriale
+      Verluste die Spannungen zwischen zivilen und militärischen Führungen sowie innerhalb
+      der Regierung, was die Diskussion um ein mögliches Referendum über einen Waffenstillstand
+      unter Präsident Selenskyj als strategisches Manöver erscheinen lässt, um die Verantwortung
+      für eine möglicherweise notwendige Kompromisslösung zu teilen.
+    published: '2025-12-13T16:58:53+00:00'
+  - title: 'De verliezen van Oekraïne en de gok van Europa: de riskante strijd om Russische
+      activa'
+    url: https://ejmagnier.com/2025/12/13/de-verliezen-van-oekraine-en-de-gok-van-europa-de-riskante-strijd-om-russische-activa/
+    text: 'Geschreven door Elijah J. Magnier – Vertaald door Francis J. De val van Seversk
+      in Oost-Oekraïne, na een langzame maar gestage Russische opmars in 2024 en 2025,
+      heeft het psychologische en strategische landschap van de oorlog veranderd. Hoewel
+      tactisch beperkt, heeft de verovering van een stad van de omvang van Seversk een
+      symbolisch en diplomatiek gewicht dat in geen verhouding staat tot de geografische
+      ligging. Het levert Moskou een tastbaar bewijs dat het momentum van het conflict
+      in het voordeel van Rusland verschuift en dat de realiteit op het slagveld, en
+      niet diplomatieke abstracties, bepalend zal zijn voor de uiteindelijke oplossing.
+      Voor Kiev maakt het verlies van Seversk deel uit van een bredere trend die politiek
+      steeds moeilijker te beheersen is. De Oekraïense strijdkrachten vechten met slinkende
+      voorraden munitie, overbelaste mankracht en een steeds onregelmatiger wordende
+      bevoorrading vanuit het Westen. Elk extra verlies tast de verdedigingsdiepte aan
+      en verhoogt de operationele kosten van toekomstige tegenaanvallen. Maar de belangrijkste
+      gevolgen liggen binnen het politieke systeem van Oekraïne, waar territoriale verliezen
+      de interne spanningen versterken – tussen het civiele leiderschap en het militaire
+      commando, tussen het parlement en de uitvoerende macht, en tussen facties die
+      debatteren over de vraag of ze de maximalistische oorlogsdoelen moeten voortzetten
+      of moeten beginnen na te denken over onderhandelingen. Het is in deze context
+      dat het besluit van president Volodymyr Zelensky om een referendum over een mogelijk
+      staakt-het-vuren te bespreken, moet worden begrepen. Het was niet alleen een procedureel
+      idee of een democratisch gebaar. Het was een politieke manoeuvre om de verantwoordelijkheid
+      voor een uiteindelijk strategisch compromis te herverdelen. Een referendum zou
+      Zelensky in staat stellen om de morele last van een onvermijdelijke beslissing
+      – het conflict bevriezen of tijdelijk toegeven – op de kiezers af te wentelen.
+      Op die manier vermijdt hij een scenario waarin hij alleen de nationale zondebok
+      wordt voor een staakt-het-vuren dat veel Oekraïners nog steeds moeilijk kunnen
+      accepteren, maar dat steeds meer mensen stilletjes als onvermijdelijk beschouwen.
+      Deze manoeuvre is ook een reactie op de steeds grotere diplomatieke druk. Westerse
+      hoofdsteden, vooral in Europa, hebben te maken met binnenlandse vermoeidheid naarmate
+      de kosten van langdurige militaire steun stijgen en politieke omwentelingen onvoorspelbare
+      beperkingen met zich meebrengen. Nu de Verenigde Staten een nieuwe verkiezingscyclus
+      ingaan en Europa worstelt met interne verdeeldheid, zijn de bondgenoten van Oekraïne
+      minder goed in staat om de algemene garanties van 2022-2023 te bieden. Het verlies
+      van Seversk versterkt deze sfeer: Oekraïne verliest terrein, de westerse steun
+      wankelt en de politieke prijs van het aandringen op volledig herstel van het grondgebied
+      wordt met de maand zwaarder. Rusland heeft op zijn beurt de overwinning in Seversk
+      omgezet in een onderhandelingsmiddel. Door momentum te tonen, versterkt Moskou
+      het argument dat het sinds het begin van de oorlog heeft aangevoerd: dat de toekomstige
+      kaart van Oekraïne zal worden bepaald door de realiteit ter plaatse en niet door
+      westerse diplomatieke kaders. Territoriale winst, eenmaal geconsolideerd in verdedigingsgordels
+      en logistieke knooppunten, wordt in feite onbespreekbaar. Net als de Krim en delen
+      van Donetsk en Loehansk komt Seversk nu op de lijst van posities die Rusland niet
+      zal opgeven zonder elders grote concessies te verkrijgen. Deze verschuiving op
+      het slagveld vindt niet in een vacuüm plaats. Ze speelt rechtstreeks in op een
+      grotere confrontatie tussen Rusland en de Europese Unie over bevroren Russische
+      activa die binnen de jurisdictie van de EU worden aangehouden. Als de territoriale
+      verliezen van Oekraïne de psychologische afwegingen in het conflict bepalen, dan
+      bepaalt het besluit van Europa om Russische soevereine activa te gebruiken of
+      in beslag te nemen het economische en geopolitieke terrein waarop de volgende
+      fase van de confrontatie zal plaatsvinden. Subscribe Subscribe to get access Read
+      more of this content when you subscribe today. Subscribe Submitting form Log in
+      Make a one-time donation Your contribution is appreciated. Donate Make a monthly
+      donation Your contribution is appreciated. Donate monthly Make a yearly donation
+      Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: De val van Seversk in Oost-Oekraïne heeft het strategische
+      en psychologische landschap van de oorlog veranderd, waarbij de Russische opmars
+      het momentum in hun voordeel lijkt te verschuiven, terwijl Oekraïne te maken heeft
+      met groeiende uitdagingen in de verdediging en bevoorrading.
+    paragraph_summary: De val van Seversk in Oost-Oekraïne, na een langzame Russische
+      opmars in 2024 en 2025, heeft de dynamiek van de oorlog veranderd, met belangrijke
+      psychologische en strategische implicaties. De verovering van deze stad, hoewel
+      tactisch beperkt, biedt Rusland een symbolisch bewijs van een verschuiving in
+      het conflict ten gunste van Moskou, wat de Oekraïense situatie verder bemoeilijkt.
+      Oekraïne kampt met afnemende munitievoorraden, overbelaste troepen en onbetrouwbare
+      westerse steun, wat de interne politieke spanningen vergroot. President Zelensky's
+      overweging om een referendum over een staakt-het-vuren te houden, moet worden
+      gezien als een poging om de verantwoordelijkheid voor een strategisch compromis
+      te delen met de kiezers, waardoor hij de morele last van een moeilijke beslissing
+      kan afschuiven.
+    published: '2025-12-13T16:57:45+00:00'
+  - title: 'De verliezen van Oekraïne en de gok van Europa: de riskante strijd om Russische
+      activa'
+    url: https://ejmagnier.com/2025/12/13/de-verliezen-van-oekraine-en-de-gok-van-europa-de-riskante-strijd-om-russische-activa/
+    text: 'Geschreven door Elijah J. Magnier – Vertaald door Francis J. De val van Seversk
+      in Oost-Oekraïne, na een langzame maar gestage Russische opmars in 2024 en 2025,
+      heeft het psychologische en strategische landschap van de oorlog veranderd. Hoewel
+      tactisch beperkt, heeft de verovering van een stad van de omvang van Seversk een
+      symbolisch en diplomatiek gewicht dat in geen verhouding staat tot de geografische
+      ligging. Het levert Moskou een tastbaar bewijs dat het momentum van het conflict
+      in het voordeel van Rusland verschuift en dat de realiteit op het slagveld, en
+      niet diplomatieke abstracties, bepalend zal zijn voor de uiteindelijke oplossing.
+      Voor Kiev maakt het verlies van Seversk deel uit van een bredere trend die politiek
+      steeds moeilijker te beheersen is. De Oekraïense strijdkrachten vechten met slinkende
+      voorraden munitie, overbelaste mankracht en een steeds onregelmatiger wordende
+      bevoorrading vanuit het Westen. Elk extra verlies tast de verdedigingsdiepte aan
+      en verhoogt de operationele kosten van toekomstige tegenaanvallen. Maar de belangrijkste
+      gevolgen liggen binnen het politieke systeem van Oekraïne, waar territoriale verliezen
+      de interne spanningen versterken – tussen het civiele leiderschap en het militaire
+      commando, tussen het parlement en de uitvoerende macht, en tussen facties die
+      debatteren over de vraag of ze de maximalistische oorlogsdoelen moeten voortzetten
+      of moeten beginnen na te denken over onderhandelingen. Het is in deze context
+      dat het besluit van president Volodymyr Zelensky om een referendum over een mogelijk
+      staakt-het-vuren te bespreken, moet worden begrepen. Het was niet alleen een procedureel
+      idee of een democratisch gebaar. Het was een politieke manoeuvre om de verantwoordelijkheid
+      voor een uiteindelijk strategisch compromis te herverdelen. Een referendum zou
+      Zelensky in staat stellen om de morele last van een onvermijdelijke beslissing
+      – het conflict bevriezen of tijdelijk toegeven – op de kiezers af te wentelen.
+      Op die manier vermijdt hij een scenario waarin hij alleen de nationale zondebok
+      wordt voor een staakt-het-vuren dat veel Oekraïners nog steeds moeilijk kunnen
+      accepteren, maar dat steeds meer mensen stilletjes als onvermijdelijk beschouwen.
+      Deze manoeuvre is ook een reactie op de steeds grotere diplomatieke druk. Westerse
+      hoofdsteden, vooral in Europa, hebben te maken met binnenlandse vermoeidheid naarmate
+      de kosten van langdurige militaire steun stijgen en politieke omwentelingen onvoorspelbare
+      beperkingen met zich meebrengen. Nu de Verenigde Staten een nieuwe verkiezingscyclus
+      ingaan en Europa worstelt met interne verdeeldheid, zijn de bondgenoten van Oekraïne
+      minder goed in staat om de algemene garanties van 2022-2023 te bieden. Het verlies
+      van Seversk versterkt deze sfeer: Oekraïne verliest terrein, de westerse steun
+      wankelt en de politieke prijs van het aandringen op volledig herstel van het grondgebied
+      wordt met de maand zwaarder. Rusland heeft op zijn beurt de overwinning in Seversk
+      omgezet in een onderhandelingsmiddel. Door momentum te tonen, versterkt Moskou
+      het argument dat het sinds het begin van de oorlog heeft aangevoerd: dat de toekomstige
+      kaart van Oekraïne zal worden bepaald door de realiteit ter plaatse en niet door
+      westerse diplomatieke kaders. Territoriale winst, eenmaal geconsolideerd in verdedigingsgordels
+      en logistieke knooppunten, wordt in feite onbespreekbaar. Net als de Krim en delen
+      van Donetsk en Loehansk komt Seversk nu op de lijst van posities die Rusland niet
+      zal opgeven zonder elders grote concessies te verkrijgen. Deze verschuiving op
+      het slagveld vindt niet in een vacuüm plaats. Ze speelt rechtstreeks in op een
+      grotere confrontatie tussen Rusland en de Europese Unie over bevroren Russische
+      activa die binnen de jurisdictie van de EU worden aangehouden. Als de territoriale
+      verliezen van Oekraïne de psychologische afwegingen in het conflict bepalen, dan
+      bepaalt het besluit van Europa om Russische soevereine activa te gebruiken of
+      in beslag te nemen het economische en geopolitieke terrein waarop de volgende
+      fase van de confrontatie zal plaatsvinden. Subscribe Subscribe to get access Read
+      more of this content when you subscribe today. Subscribe Submitting form Log in
+      Make a one-time donation Your contribution is appreciated. Donate Make a monthly
+      donation Your contribution is appreciated. Donate monthly Make a yearly donation
+      Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: De val van Seversk in Oost-Oekraïne heeft het strategische
+      en psychologische landschap van de oorlog veranderd, waarbij de Russische opmars
+      het momentum in hun voordeel lijkt te verschuiven, terwijl Oekraïne te maken heeft
+      met groeiende uitdagingen in de verdediging en bevoorrading.
+    paragraph_summary: De val van Seversk in Oost-Oekraïne, na een langzame Russische
+      opmars in 2024 en 2025, heeft de dynamiek van de oorlog veranderd, met belangrijke
+      psychologische en strategische implicaties. De verovering van deze stad, hoewel
+      tactisch beperkt, biedt Rusland een symbolisch bewijs van een verschuiving in
+      het conflict ten gunste van Moskou, wat de Oekraïense situatie verder bemoeilijkt.
+      Oekraïne kampt met afnemende munitievoorraden, overbelaste troepen en onbetrouwbare
+      westerse steun, wat de interne politieke spanningen vergroot. President Zelensky's
+      overweging om een referendum over een staakt-het-vuren te houden, moet worden
+      gezien als een poging om de verantwoordelijkheid voor een strategisch compromis
+      te delen met de kiezers, waardoor hij de morele last van een moeilijke beslissing
+      kan afschuiven.
+    published: '2025-12-13T16:57:45+00:00'
   - title: 'Gaza and the Moment Israel Lost Strategic Initiative: Washington Takes Control
       of the Second Phase'
     url: https://ejmagnier.com/2025/12/09/gaza-and-the-moment-israel-lost-strategic-initiative-washington-takes-control-of-the-second-phase/

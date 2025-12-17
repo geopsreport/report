@@ -7,20 +7,101 @@ description: "Swedish peace researcher and co–founder of Transnational Foundat
 websites:
   - https://transnational.live/
 summary: |
-  As of December 10, 2025, the global geopolitical landscape remains marked by deepening institutional crises and skepticism toward prevailing peace initiatives. The most recent analyses by **Jan Oberg** emphasize the United Nations’ acute financial distress, the limitations of current peace processes in Ukraine, and the erosion of credible conflict resolution mechanisms in major hotspots.
+  As the year draws to a close, the global geopolitical landscape remains marked by deepening polarization, institutional crises, and skepticism over the authenticity of major peace initiatives. Recent independent analysis continues to highlight the disconnect between official rhetoric and substantive conflict resolution.
   
-  The UN’s Funding Crisis  
-  **Jan Oberg** highlights that the United Nations is facing a “severe financial crisis” as member states increasingly prioritize military budgets over multilateral commitments. Notably, delayed contributions from major powers such as China exacerbate the organization’s budget shortfall, threatening its ability to fulfill core mandates. Oberg warns that “resources are increasingly diverted to military expenditures,” undermining the UN’s capacity for peacekeeping, humanitarian aid, and conflict mediation. The trend is symptomatic of a broader shift away from cooperative security frameworks.
+  The most recent focus is on NATO’s evolving posture, with **Jan Oberg** critiquing Secretary General Rutte’s Berlin speech as emblematic of what he calls “psycho-political theater.” Oberg argues that NATO’s persistent framing of Russia and China as existential threats is less about strategic necessity and more about ritualized distraction from rational policy debate. He warns that this approach undermines the possibility of genuine dialogue and risks entrenching a cycle of escalation. According to Oberg, “the end of rational politics” is not merely rhetorical but reflects a broader trend in Western security thinking.
   
-  Ukraine: Stalemate and Distrust  
-  On Ukraine, Oberg’s recent commentary remains skeptical about the authenticity and effectiveness of ongoing US-Russian diplomatic efforts. He asserts that “true peace in Ukraine cannot be achieved through existing peace plans or military actions,” instead advocating for initiatives that build trust and foster prosperity. The prevailing expert consensus is that current negotiations are unlikely to yield a sustainable settlement without a fundamental change in approach. Oberg predicts with high confidence that, absent such a shift, the conflict will persist in a state of unresolved tension.
+  Parallel to this, the United Nations faces a severe financial crisis, with **Jan Oberg** noting that “resources are increasingly diverted to military expenditures,” leaving the UN underfunded and unable to fulfill its mandate. The delay in China’s contributions, in particular, is cited as a significant factor exacerbating the organization’s budget shortfall. This development raises alarms about the viability of multilateral diplomacy at a time when global cooperation is most needed.
   
-  Gaza: Questionable Peace Initiatives  
-  The adoption of the Trump-backed “peace” plan for Gaza by the UN Security Council is described by Oberg as a “cruel joke,” reflecting a broader lack of genuine conflict resolution literacy among global leaders. This move, he argues, represents a departure from authentic peace efforts and signals the Security Council’s growing alignment with unilateral approaches over inclusive, negotiated solutions.
+  On the peace process front, skepticism persists regarding both Ukraine and Gaza. Oberg’s recent commentary casts doubt on the authenticity of US-Russian diplomatic efforts in Ukraine, suggesting that the proposals on the table may not be genuine attempts at peace. Meanwhile, the adoption of Trump’s “peace” plan for Gaza by the UN Security Council is described as a “cruel joke,” reflecting a broader disillusionment with the quality and intent of international mediation.
   
-  Trends and Outlook  
-  The overarching trend is a decline in effective multilateralism, with international institutions underfunded and sidelined, and peace processes increasingly shaped by the interests of major powers rather than local needs or long-term stability. Oberg’s analysis suggests there is a high chance that, unless there is a significant redirection of priorities—toward trust-building, prosperity, and genuine dialogue—both the institutional crisis at the UN and the deadlocks in Ukraine and Gaza will continue. He concludes that the prospects for transformative peace remain dim under current trajectories, with only modest hope for improvement unless new, more inclusive strategies are adopted.
+  **Trends and Predictions:**  
+  The prevailing trend, as identified by Oberg and corroborated by other independent voices, is a drift away from rational, constructive engagement toward performative politics and militarization. The financial weakening of the UN and the ritualization of threat narratives in NATO are likely to further erode the prospects for meaningful diplomacy. There is a high chance that, absent a major shift in priorities, these patterns will persist into 2026. As Oberg concludes, “there is a high chance the current trajectory will lead to more instability and less trust in international institutions.”
 articles:
+  - title: 'NATO Rutte’s Berlin Speech: Not About Russia, But About the End of Rational
+      Politics'
+    url: https://transnational.live/2025/12/12/nato-ruttes-berlin-speech-and-the-end-of-rational-politics/
+    text: 'Inside NATO’s cathedral of fear, weapons become sacraments and projection
+      becomes liturgy. From the stained-glass altar, thunderous light strikes Russia
+      and China — not as analysis, but as ritual. This is not about Putin. It is about
+      the West’s collapse into psycho-political theatre. And how it made me think of
+      Hitler Jan Oberg December 12, […] The post NATO Rutte’s Berlin Speech: Not About
+      Russia, But About the End of Rational Politics appeared first on The Transnational
+      .'
+    one_sentence_summary: The article critiques NATO's rhetoric and actions as a form
+      of psycho-political theater that distracts from rational political discourse,
+      framing its focus on Russia and China as a ritualistic response rather than a
+      strategic analysis.
+    paragraph_summary: The article critiques NATO's approach to international relations,
+      suggesting that its rhetoric and actions have devolved into a form of "psycho-political
+      theatre" rather than rational political discourse. It argues that the focus on
+      military might and the portrayal of threats from Russia and China serve more as
+      ritualistic performances than genuine analysis, reflecting a broader decline in
+      rationality within Western politics. The author draws parallels between contemporary
+      NATO dynamics and historical figures like Hitler, emphasizing the need to recognize
+      this shift away from reasoned dialogue.
+    published: '2025-12-12T14:29:17+00:00'
+  - title: 'NATO Rutte’s Berlin Speech: Not About Russia, But About the End of Rational
+      Politics'
+    url: https://transnational.live/2025/12/12/nato-ruttes-berlin-speech-and-the-end-of-rational-politics/
+    text: 'Inside NATO’s cathedral of fear, weapons become sacraments and projection
+      becomes liturgy. From the stained-glass altar, thunderous light strikes Russia
+      and China — not as analysis, but as ritual. This is not about Putin. It is about
+      the West’s collapse into psycho-political theatre. And how it made me think of
+      Hitler Jan Oberg December 12, […] The post NATO Rutte’s Berlin Speech: Not About
+      Russia, But About the End of Rational Politics appeared first on The Transnational
+      .'
+    one_sentence_summary: The article critiques NATO's rhetoric and actions as a form
+      of psycho-political theater that distracts from rational political discourse,
+      framing its focus on Russia and China as a ritualistic response rather than a
+      strategic analysis.
+    paragraph_summary: The article critiques NATO's approach to international relations,
+      suggesting that its rhetoric and actions have devolved into a form of "psycho-political
+      theatre" rather than rational political discourse. It argues that the focus on
+      military might and the portrayal of threats from Russia and China serve more as
+      ritualistic performances than genuine analysis, reflecting a broader decline in
+      rationality within Western politics. The author draws parallels between contemporary
+      NATO dynamics and historical figures like Hitler, emphasizing the need to recognize
+      this shift away from reasoned dialogue.
+    published: '2025-12-12T14:29:17+00:00'
+  - title: ✅ TFF Share Blog, News & Notes from 2021 till today
+    url: https://transnational.live/2025/12/10/%f0%9f%94%97-tff-in-the-news-notes-2021/
+    text: Below are TFF-related media mentions, comments, videos and social media posts
+      published elsewhere but not on this homepage. We happen to catch and list only
+      a fraction. Regarding video comments and debates, we recommend that you go to
+      the TFF Video Channel on Substack where many of them are reproduced. Jan Oberg
+      is a contributor […] The post ✅ TFF Share Blog, News & Notes from 2021 till today
+      appeared first on The Transnational .
+    one_sentence_summary: The article provides a collection of media mentions, comments,
+      videos, and social media posts related to TFF, highlighting that only a portion
+      is listed and encouraging readers to visit the TFF Video Channel on Substack for
+      more content.
+    paragraph_summary: The article provides a collection of media mentions, comments,
+      videos, and social media posts related to TFF (Transnational Foundation for Peace
+      and Future Research) that are not featured on their main homepage. It notes that
+      the listed content represents only a small portion of what is available and encourages
+      readers to visit the TFF Video Channel on Substack for a broader range of video
+      comments and discussions. Jan Oberg is mentioned as a contributor to this content.
+    published: '2025-12-10T15:20:00+00:00'
+  - title: ✅ TFF Share Blog, News & Notes from 2021 till today
+    url: https://transnational.live/2025/12/10/%f0%9f%94%97-tff-in-the-news-notes-2021/
+    text: Below are TFF-related media mentions, comments, videos and social media posts
+      published elsewhere but not on this homepage. We happen to catch and list only
+      a fraction. Regarding video comments and debates, we recommend that you go to
+      the TFF Video Channel on Substack where many of them are reproduced. Jan Oberg
+      is a contributor […] The post ✅ TFF Share Blog, News & Notes from 2021 till today
+      appeared first on The Transnational .
+    one_sentence_summary: The article provides a collection of media mentions, comments,
+      videos, and social media posts related to TFF, highlighting that only a portion
+      is listed and encouraging readers to visit the TFF Video Channel on Substack for
+      more content.
+    paragraph_summary: The article provides a collection of media mentions, comments,
+      videos, and social media posts related to TFF (Transnational Foundation for Peace
+      and Future Research) that are not featured on their main homepage. It notes that
+      the listed content represents only a small portion of what is available and encourages
+      readers to visit the TFF Video Channel on Substack for a broader range of video
+      comments and discussions. Jan Oberg is mentioned as a contributor to this content.
+    published: '2025-12-10T15:20:00+00:00'
   - title: 'The UN’s Financing Crisis: Who Pays, Who Doesn’t, and Why China’s Delays
       Matter'
     url: https://transnational.live/2025/12/02/the-uns-financing-crisis-who-pays-who-doesnt-and-why-chinas-delays-matter/

@@ -7,14 +7,61 @@ description: "Retired Indian ambassador with deep Eurasia/Middle East experience
 websites:
   - https://indianpunchline.com
 summary: |
-  The global geopolitical landscape continues to shift as major powers recalibrate their alliances and trade strategies. The most significant recent development is the historic meeting between Russia and India, which, as **M. K. Bhadrakumar** and Prof. Glen Diesen emphasize, marks a turning point in global trade dynamics. This meeting signals a deliberate move by both countries to diversify away from Western-dominated financial systems and to deepen their bilateral economic ties. The consensus among analysts is that this partnership will have far-reaching implications for the global balance of power, particularly as both nations seek to establish alternative payment mechanisms and reduce reliance on the US dollar.
+  The global order continues to shift as the United States, Russia, and China recalibrate their strategic alignments, echoing the dynamics of the Cold War era but within a distinctly multipolar context. The latest analyses indicate that the evolving relationships among these powers are shaping not only their own policies but also the contours of global trade and regional security.
   
-  Meanwhile, the anticipated US-Russia summit in Budapest is back on track following the G7 foreign ministers’ meeting in Niagara, Canada. This development suggests a potential thaw in US-Russia relations, with renewed dialogue between Presidents Trump and Putin on the horizon. **M. K. Bhadrakumar** notes that the resumption of talks is a pivotal moment, reflecting broader uncertainty but also a willingness among major powers to re-engage diplomatically.
+  **M. K. Bhadrakumar** underscores that the United States is now openly adjusting to multipolarity, with President Trump’s administration seeking to balance relations with both Russia and China. This approach is reminiscent of the delicate maneuvering seen during the Sino-Soviet split, but with new complexities arising from economic interdependence and shifting alliances. The recent revival of the US-Russia summit in Budapest, following the G7 foreign ministers’ meeting in Niagara, signals a renewed willingness for dialogue between Trump and Putin. According to Bhadrakumar, this development is “pivotal” and suggests that both sides recognize the necessity of engagement, even amid ongoing tensions.
   
-  In the Middle East, Syria’s gradual reintegration into regional diplomacy is gaining momentum. The country’s strategic importance is once again in focus, with its role in both conflict and peace processes being reassessed by regional and global actors. This shift is likely to influence the broader security architecture of the region, especially as external powers recalibrate their approaches.
+  Meanwhile, the economic axis between Russia and India is gaining prominence. The historic meeting between the two countries, as discussed by **Prof. Glen Diesen** and Bhadrakumar, is seen as a watershed moment in global trade. The partnership is expected to reshape supply chains and reduce dependence on Western-dominated financial systems. There is a high chance that this will accelerate the trend toward de-dollarization in Eurasian trade, as both Moscow and New Delhi seek alternatives to SWIFT and the US dollar.
   
-  Looking ahead, the trend toward multipolarity is strengthening. The Russia-India partnership is most definitely set to accelerate the creation of alternative economic frameworks, challenging the existing order. The US-Russia dialogue, if sustained, could reduce tensions in Europe, though the outcome remains uncertain. In the Middle East, Syria’s normalization is quite likely to continue, potentially opening new avenues for regional stability. Overall, the coming weeks will be critical in determining whether these diplomatic overtures translate into lasting structural changes in the international system.
+  On the Middle Eastern front, Syria’s gradual reintegration into regional diplomacy is noteworthy. Bhadrakumar highlights Syria’s enduring strategic importance, recalling Henry Kissinger’s observation that “you can’t make war in the Middle East without Egypt and you can’t make peace without Syria.” The current thaw in Damascus’ international isolation is likely to have ripple effects across the region, particularly as new diplomatic initiatives emerge in the wake of shifting US priorities.
+  
+  **Trends and Predictions:**  
+  The consensus among analysts is that multipolarity is now the defining feature of international relations. The US is adapting, but not without friction, and its approach to Russia and China will remain a central axis of global politics. The Russia-India partnership is set to deepen, with a high chance of further trade and financial integration outside Western frameworks. In the Middle East, Syria’s return to diplomacy is quite likely to open new avenues for conflict resolution, though the process will be gradual.
+  
+  In summary, the coming months will most definitely see intensified maneuvering among major powers, with new alignments and economic partnerships challenging the old order. The trajectory toward a multipolar world is now irreversible.
 articles:
+  - title: What’s on Trump’s mind as US adjusts to multipolarity
+    url: https://www.indianpunchline.com/whats-on-trumps-mind-as-us-adjusts-to-multipolarity/
+    text: The world order’s transformation to multipolarity is a work in progress with
+      the variables at work, but its outcome will be largely determined by the alignment
+      of the three big powers — the United States, Russia and China. Historically, the
+      ‘triangle’ appeared as the lid came off the Sino-Soviet schism in the 1960s and
+      a … Continue reading "What’s on Trump’s mind as US adjusts to multipolarity" The
+      post What’s on Trump’s mind as US adjusts to multipolarity appeared first on Indian
+      Punchline .
+    one_sentence_summary: The shift towards a multipolar world order hinges on the strategic
+      alignments of the United States, Russia, and China, reminiscent of historical
+      dynamics during the Sino-Soviet schism.
+    paragraph_summary: The article discusses the ongoing transformation of the global
+      order towards multipolarity, emphasizing that the dynamics among the three major
+      powers— the United States, Russia, and China—will significantly influence this
+      shift. It reflects on historical contexts, particularly the Sino-Soviet split
+      in the 1960s, to illustrate how these relationships have evolved. The piece also
+      hints at former President Trump's perspective on the United States' adjustment
+      to this multipolar landscape, suggesting that his views may play a role in shaping
+      future U.S. foreign policy.
+    published: '2025-12-12T14:46:44+00:00'
+  - title: What’s on Trump’s mind as US adjusts to multipolarity
+    url: https://www.indianpunchline.com/whats-on-trumps-mind-as-us-adjusts-to-multipolarity/
+    text: The world order’s transformation to multipolarity is a work in progress with
+      the variables at work, but its outcome will be largely determined by the alignment
+      of the three big powers — the United States, Russia and China. Historically, the
+      ‘triangle’ appeared as the lid came off the Sino-Soviet schism in the 1960s and
+      a … Continue reading "What’s on Trump’s mind as US adjusts to multipolarity" The
+      post What’s on Trump’s mind as US adjusts to multipolarity appeared first on Indian
+      Punchline .
+    one_sentence_summary: The shift towards a multipolar world order hinges on the strategic
+      alignments of the United States, Russia, and China, reminiscent of historical
+      dynamics during the Sino-Soviet schism.
+    paragraph_summary: The article discusses the ongoing transformation of the global
+      order towards multipolarity, emphasizing that the dynamics among the three major
+      powers— the United States, Russia, and China—will significantly influence this
+      shift. It reflects on historical contexts, particularly the Sino-Soviet split
+      in the 1960s, to illustrate how these relationships have evolved. The piece also
+      hints at former President Trump's perspective on the United States' adjustment
+      to this multipolar landscape, suggesting that his views may play a role in shaping
+      future U.S. foreign policy.
+    published: '2025-12-12T14:46:44+00:00'
   - title: Russia & India Rewrite Global Trade
     url: https://www.indianpunchline.com/russia-india-rewrite-global-trade/
     text: M. K. Bhadrakumar was an Indian ambassador and diplomat for decades. Ambassador

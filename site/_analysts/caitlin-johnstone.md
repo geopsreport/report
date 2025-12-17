@@ -7,16 +7,1030 @@ description: "Australian satirical anti–war journalist; reader–funded Substa
 websites:
   - https://www.caitlinjohnst.one/
 summary: |
-  As the world enters December 2025, the sense of global instability and moral disquiet continues to deepen, with recent independent analyses highlighting both overt geopolitical crises and the psychological toll of witnessing widespread suffering.
+  The global geopolitical climate remains tense, with narratives around violence, intervention, and media framing dominating recent developments. In the wake of the Bondi Beach shooting, pro-Israel commentators are now uniformly characterizing the attack as evidence of a "globalized intifada." According to **Caitlin Johnstone**, this coordinated messaging across media outlets marks a significant escalation in efforts to link isolated acts of violence abroad to broader geopolitical conflicts, particularly those involving Israel and Palestine.
   
-  The most recent development, as discussed by **Caitlin Johnstone**, centers on the challenge of personal healing amid escalating global turmoil. In her December 9th piece, she relays Chloe’s struggle to find comfort and safety while remaining acutely aware of ongoing violence and injustice worldwide. This reflects a broader societal anxiety, where the relentless stream of distressing news—ranging from environmental collapse to war crimes—complicates individual and collective efforts to foster resilience and hope.
+  This narrative shift comes just days after the Bondi Beach attack, where two shooters targeted a Jewish Hanukkah celebration, resulting in fifteen deaths. Notably, a Muslim bystander intervened to disarm one of the attackers, a detail that has complicated attempts to use the incident to stoke Islamophobia. **Johnstone** observes that the rapid framing of the event as part of a global anti-Jewish movement is being leveraged to attack anti-genocide activists and to justify increased securitization and surveillance, both in Australia and internationally.
   
-  Environmental degradation remains a critical concern. **Tim Foley**, in his evocative account, describes the eerie silence of blue whales, a direct consequence of vanishing krill populations and warming oceans. This environmental decay is set against a backdrop of urban desolation and human suffering, underscoring the interconnectedness of ecological and societal crises. The majority of analysts agree that without urgent systemic change, both environmental and human well-being will continue to deteriorate. There is high confidence that the climate crisis will remain a destabilizing force in global politics through 2026.
+  Meanwhile, the disparity in media attention between Western victims and those in Gaza remains stark. **Johnstone** highlights the near-total absence of public memory or coverage regarding the deaths of 15 Palestinians in Gaza earlier this year, underscoring a persistent double standard in how violence is reported and mourned. This selective attention, she argues, perpetuates a hierarchy of victimhood that shapes public perception and policy.
   
-  On the geopolitical front, the United States’ foreign policy continues to draw scrutiny. The recent renaming of the US Institute of Peace to the Donald J Trump Institute of Peace, as reported by **Caitlin Johnstone**, has been widely criticized as an attempt to rebrand a presidency marked by extensive military interventions. Despite official rhetoric, independent observers emphasize the contradiction between the administration’s self-styled image as peacemakers and its record of escalating conflicts, particularly in Latin America and the Caribbean.
+  Looking ahead, the trend of weaponizing isolated violent incidents to advance geopolitical narratives is most definitely set to intensify. The uniformity of messaging among pro-Israel commentators suggests a high level of coordination, which is likely to further polarize public discourse and justify repressive measures. At the same time, the ongoing marginalization of non-Western victims in media coverage is quite likely to persist, reinforcing existing power structures and impeding efforts toward genuine accountability or peace.
   
-  Looking ahead, the prevailing trend is one of deepening cynicism toward official narratives and a growing recognition of the need for grassroots solidarity and resistance. As Johnstone notes, “awareness of global suffering complicates the pursuit of comfort and security,” yet it also fuels calls for systemic change. There is high confidence that, barring significant policy shifts, both environmental and geopolitical crises will intensify, further challenging individuals and societies to find meaning and agency in a world on fire.
+  In summary, the latest developments point to an escalating information war, where narratives are as strategically deployed as military assets. Expect further entrenchment of these patterns, with high confidence that media framing will continue to serve as a key battleground in shaping global perceptions and policy responses.
 articles:
+  - title: Israel Propagandists Are Uniformly Spouting The Exact Same Line About The
+      Bondi Shooting
+    url: https://www.caitlinjohnst.one/p/israel-propagandists-are-uniformly
+    text: 'Reading by Tim Foley : Subscribe now Looks like some kind of memo went out
+      or something, because pro-Israel outlets and individuals are all loudly amplifying
+      one specific talking point about the Bondi Beach shooting. Here are some examples:
+      “ Bondi Beach Is What ‘Globalize the Intifada’ Looks Like ” ~ Bret Stephens, New
+      York Times “ The Intifada Comes to Bondi Beach ” ~ David Frum, The Atlantic “
+      The Intifada Comes to Australia ” ~ Walter Russell Mead, Wall Street Journal “
+      Shooting at Bondi Beach is what a globalized intifada looks like ” ~ Herb Keinon,
+      Jerusalem Post “ The Intifada Comes to Australia ” ~ Ayaan Hirsi Ali, The Free
+      Press “ Welcome to the global intifada ” ~ David Harsanyi, Washington Examiner
+      “ Palestinian propaganda has globalized the intifada ” ~ Zachary Faria, Washington
+      Examiner “ Bondi Beach massacre is what globalizing the intifada looks like ”
+      ~ Vivian Bercovici, National Post “ Chanting ‘globalise the intifada’ leads to
+      Bondi Beach ” ~ Danny Cohen, The Telegraph “I have a simple question for leftists
+      after the antisemitic shooting in Australia. What do you think ‘globalize the
+      intifada’ means?” ~ US Senator Ted Cruz “That attack in Sydney is exactly what
+      it means to ‘globalize intifada.’ We saw the actual application of the globalization
+      of intifada in Sydney.” ~ New York City Mayor Eric Adams https://x.com/AshAgony/status/2000345692699820243
+      “These are the results of the anti-Semitic rampage in the streets of Australia
+      over the past two years, with the anti-Semitic and inciting calls of ‘Globalise
+      the Intifada’ that were realized today.” ~ Gideon Sa’ar, Foreign Minister of Israel
+      “When you refuse to condemn and only ‘discourage’ use of the term ‘Globalize the
+      Intifada,’ you help facilitate (not cause) the thinking that leads to Bondi Beach.”
+      ~ Former US antisemitism envoy Deborah Lipstadt (addressing New York City Mayor
+      Elect Zohran Mamdani) “What on earth do you think globalise the intifada means?
+      And can’t people see the link between that kind of rhetoric and attacks on Jewish
+      people as Jewish people? Because that’s what really struck at the heart of Jewish
+      people in our country today — an attack on Jewish people organising around Hannukah,
+      coming together as Jewish people.” ~ UK Health Secretary Wes Streeting “Why is
+      it still allowed? What is the meaning of globalise the intifada? I’ll tell you
+      the meaning… it’s what happened on Bondi Beach yesterday.” ~ Ephraim Mirvis, Chief
+      Rabbi of the United Kingdom “Calls to ‘globalise the intifada’ and chants of ‘from
+      the river to the sea’ are not abstract or rhetorical slogans. They are explicit
+      calls for violence, and they carry deadly consequences. What we are witnessing
+      is the inevitable outcome of sustained radicalisation that has been allowed to
+      fester under the guise of protest.” ~ Israeli embassy in the UK “This is what
+      happens when you ‘globalize the intifada.’” ~ Newsweek editors “This was not an
+      isolated act of violence — it was the culmination of ‘globalise the intifada’
+      rhetoric that has been building around the world since October 7.” ~ Yoni Bashan,
+      The Times “For those who’ve been marching these past few years demanding to ‘globalise
+      the intifada’ this is a barbarous anti-Semitic consequence of their pro-Islamist
+      stupidity.” ~ Former BBC anchor Andrew Neil “When people call to ‘globalise the
+      intifada’, this is what they are calling for: dead Jews, terrorism and families
+      shattered forever.” ~ Campaign Against Antisemitism spokesperson “Taking a stand
+      against antisemitism after Bondi Beach should begin with an unequivocal recognition
+      that ‘intifada’ rhetoric is hate speech.” ~ The Bulwark’s Cathy Young “It would
+      be great if those who have been shouting ‘Global Intifada’ would revisit that
+      phrase right now. It is not a ‘harmless left wing slogan.’ It is a call to blame — and
+      kill — Jews who have nothing, absolutely nothing to do with the actions of the
+      Israeli government.” ~ Spiritual guru and former US presidential candidate Marianne
+      Williamson https://x.com/NickRiemer1/status/2000869047244874088 Of course, these
+      outlets and individuals do not actually care about the phrase “globalize the intifada”.
+      If pro-Palestine activists had never chanted that slogan, pro-Israel spinmeisters
+      would be focusing on a different line today. They are not trying to stop chants
+      which they perceive as dangerous, they are trying to stomp out criticism of Israel’s
+      genocidal atrocities. As The Intercept’s Natasha Lennard wrote regarding the aforementioned
+      Bret Stephens piece, “It’s all done in the name of fighting antisemitism by conflating
+      the worst kinds of violent anti-Jewish bigotry, like what we saw in Bondi Beach,
+      with any criticisms of Israel and its actions. To so much as say Palestinians
+      ought to have basic human rights, in this view, becomes a deadly attack on Jewish
+      safety.” The term “intifada” means to “shake off” and “rise up” , and as Middle
+      East Eye’s Craig Birckhead-Morton and Yasmin Zainab Bergemann explained last year
+      , intifadas have historically included nonviolent resistance. Saying “globalize
+      the intifada” isn’t calling for people to massacre Jewish civilians around the
+      world, it’s advocating resistance to the power structure which incinerated Gaza
+      and continues to inflict abuse upon Palestinians and any other population which
+      doesn’t bow to the interests of the empire. And the people scaremongering about
+      this phrase know this. They’re fully aware that they’re using a tragic mass shooting
+      as a political cudgel against people who believe Palestinians are human beings.
+      This is just one more cynical manipulation aimed at protecting Israel from criticism
+      so that it can inflict more violence and suffering upon the world. As Em Hilton
+      wrote for the Israeli outlet +972 , “It is obscene how quickly the right has seized
+      on this horror to advance an Islamophobic, anti-Palestinian agenda. And it is
+      disgusting to see Israel’s politicians almost gleeful at the opportunity to distract
+      from their genocidal onslaught in Gaza by using our pain and grief as a political
+      weapon.” _________________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      My work is entirely reader-supported , so if you enjoyed this piece here are some
+      options where you can toss some money into my tip jar if you want to. The best
+      way to make sure you see everything I write is to get on my free mailing list
+      . Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: Pro-Israel commentators are uniformly framing the Bondi Beach
+      shooting as a manifestation of a "globalized intifada," highlighting a coordinated
+      narrative across various media outlets.
+    paragraph_summary: The article discusses a coordinated response from pro-Israel
+      commentators and outlets following a shooting incident at Bondi Beach, Australia,
+      where they are framing the attack as a manifestation of a "globalized intifada."
+      Various prominent figures, including journalists and politicians, have echoed
+      this sentiment, linking the violence to rising anti-Semitic rhetoric and protests
+      that have included calls to "globalize the intifada." They argue that such language
+      and sentiments have contributed to the normalization of violence against Jews,
+      urging a recognition of the implications behind these phrases. The article highlights
+      the urgency of addressing the connections between rhetoric and real-world violence,
+      as articulated by various commentators and political leaders.
+    published: '2025-12-17T01:35:40+00:00'
+  - title: Israel Propagandists Are Uniformly Spouting The Exact Same Line About The
+      Bondi Shooting
+    url: https://www.caitlinjohnst.one/p/israel-propagandists-are-uniformly
+    text: 'Reading by Tim Foley : Subscribe now Looks like some kind of memo went out
+      or something, because pro-Israel outlets and individuals are all loudly amplifying
+      one specific talking point about the Bondi Beach shooting. Here are some examples:
+      “ Bondi Beach Is What ‘Globalize the Intifada’ Looks Like ” ~ Bret Stephens, New
+      York Times “ The Intifada Comes to Bondi Beach ” ~ David Frum, The Atlantic “
+      The Intifada Comes to Australia ” ~ Walter Russell Mead, Wall Street Journal “
+      Shooting at Bondi Beach is what a globalized intifada looks like ” ~ Herb Keinon,
+      Jerusalem Post “ The Intifada Comes to Australia ” ~ Ayaan Hirsi Ali, The Free
+      Press “ Welcome to the global intifada ” ~ David Harsanyi, Washington Examiner
+      “ Palestinian propaganda has globalized the intifada ” ~ Zachary Faria, Washington
+      Examiner “ Bondi Beach massacre is what globalizing the intifada looks like ”
+      ~ Vivian Bercovici, National Post “ Chanting ‘globalise the intifada’ leads to
+      Bondi Beach ” ~ Danny Cohen, The Telegraph “I have a simple question for leftists
+      after the antisemitic shooting in Australia. What do you think ‘globalize the
+      intifada’ means?” ~ US Senator Ted Cruz “That attack in Sydney is exactly what
+      it means to ‘globalize intifada.’ We saw the actual application of the globalization
+      of intifada in Sydney.” ~ New York City Mayor Eric Adams https://x.com/AshAgony/status/2000345692699820243
+      “These are the results of the anti-Semitic rampage in the streets of Australia
+      over the past two years, with the anti-Semitic and inciting calls of ‘Globalise
+      the Intifada’ that were realized today.” ~ Gideon Sa’ar, Foreign Minister of Israel
+      “When you refuse to condemn and only ‘discourage’ use of the term ‘Globalize the
+      Intifada,’ you help facilitate (not cause) the thinking that leads to Bondi Beach.”
+      ~ Former US antisemitism envoy Deborah Lipstadt (addressing New York City Mayor
+      Elect Zohran Mamdani) “What on earth do you think globalise the intifada means?
+      And can’t people see the link between that kind of rhetoric and attacks on Jewish
+      people as Jewish people? Because that’s what really struck at the heart of Jewish
+      people in our country today — an attack on Jewish people organising around Hannukah,
+      coming together as Jewish people.” ~ UK Health Secretary Wes Streeting “Why is
+      it still allowed? What is the meaning of globalise the intifada? I’ll tell you
+      the meaning… it’s what happened on Bondi Beach yesterday.” ~ Ephraim Mirvis, Chief
+      Rabbi of the United Kingdom “Calls to ‘globalise the intifada’ and chants of ‘from
+      the river to the sea’ are not abstract or rhetorical slogans. They are explicit
+      calls for violence, and they carry deadly consequences. What we are witnessing
+      is the inevitable outcome of sustained radicalisation that has been allowed to
+      fester under the guise of protest.” ~ Israeli embassy in the UK “This is what
+      happens when you ‘globalize the intifada.’” ~ Newsweek editors “This was not an
+      isolated act of violence — it was the culmination of ‘globalise the intifada’
+      rhetoric that has been building around the world since October 7.” ~ Yoni Bashan,
+      The Times “For those who’ve been marching these past few years demanding to ‘globalise
+      the intifada’ this is a barbarous anti-Semitic consequence of their pro-Islamist
+      stupidity.” ~ Former BBC anchor Andrew Neil “When people call to ‘globalise the
+      intifada’, this is what they are calling for: dead Jews, terrorism and families
+      shattered forever.” ~ Campaign Against Antisemitism spokesperson “Taking a stand
+      against antisemitism after Bondi Beach should begin with an unequivocal recognition
+      that ‘intifada’ rhetoric is hate speech.” ~ The Bulwark’s Cathy Young “It would
+      be great if those who have been shouting ‘Global Intifada’ would revisit that
+      phrase right now. It is not a ‘harmless left wing slogan.’ It is a call to blame — and
+      kill — Jews who have nothing, absolutely nothing to do with the actions of the
+      Israeli government.” ~ Spiritual guru and former US presidential candidate Marianne
+      Williamson https://x.com/NickRiemer1/status/2000869047244874088 Of course, these
+      outlets and individuals do not actually care about the phrase “globalize the intifada”.
+      If pro-Palestine activists had never chanted that slogan, pro-Israel spinmeisters
+      would be focusing on a different line today. They are not trying to stop chants
+      which they perceive as dangerous, they are trying to stomp out criticism of Israel’s
+      genocidal atrocities. As The Intercept’s Natasha Lennard wrote regarding the aforementioned
+      Bret Stephens piece, “It’s all done in the name of fighting antisemitism by conflating
+      the worst kinds of violent anti-Jewish bigotry, like what we saw in Bondi Beach,
+      with any criticisms of Israel and its actions. To so much as say Palestinians
+      ought to have basic human rights, in this view, becomes a deadly attack on Jewish
+      safety.” The term “intifada” means to “shake off” and “rise up” , and as Middle
+      East Eye’s Craig Birckhead-Morton and Yasmin Zainab Bergemann explained last year
+      , intifadas have historically included nonviolent resistance. Saying “globalize
+      the intifada” isn’t calling for people to massacre Jewish civilians around the
+      world, it’s advocating resistance to the power structure which incinerated Gaza
+      and continues to inflict abuse upon Palestinians and any other population which
+      doesn’t bow to the interests of the empire. And the people scaremongering about
+      this phrase know this. They’re fully aware that they’re using a tragic mass shooting
+      as a political cudgel against people who believe Palestinians are human beings.
+      This is just one more cynical manipulation aimed at protecting Israel from criticism
+      so that it can inflict more violence and suffering upon the world. As Em Hilton
+      wrote for the Israeli outlet +972 , “It is obscene how quickly the right has seized
+      on this horror to advance an Islamophobic, anti-Palestinian agenda. And it is
+      disgusting to see Israel’s politicians almost gleeful at the opportunity to distract
+      from their genocidal onslaught in Gaza by using our pain and grief as a political
+      weapon.” _________________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      My work is entirely reader-supported , so if you enjoyed this piece here are some
+      options where you can toss some money into my tip jar if you want to. The best
+      way to make sure you see everything I write is to get on my free mailing list
+      . Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: Pro-Israel commentators are uniformly framing the Bondi Beach
+      shooting as a manifestation of a "globalized intifada," highlighting a coordinated
+      narrative across various media outlets.
+    paragraph_summary: The article discusses a coordinated response from pro-Israel
+      commentators and outlets following a shooting incident at Bondi Beach, Australia,
+      where they are framing the attack as a manifestation of a "globalized intifada."
+      Various prominent figures, including journalists and politicians, have echoed
+      this sentiment, linking the violence to rising anti-Semitic rhetoric and protests
+      that have included calls to "globalize the intifada." They argue that such language
+      and sentiments have contributed to the normalization of violence against Jews,
+      urging a recognition of the implications behind these phrases. The article highlights
+      the urgency of addressing the connections between rhetoric and real-world violence,
+      as articulated by various commentators and political leaders.
+    published: '2025-12-17T01:35:40+00:00'
+  - title: Australians Being Massacred Shouldn't Bother Us More Than Palestinians Being
+      Massacred
+    url: https://www.caitlinjohnst.one/p/australians-being-massacred-shouldnt
+    text: 'Reading by Tim Foley : Subscribe now On March 16 of this year, Reuters published
+      an article titled “ Israeli strikes kill 15 people in Gaza over past day, Palestinian
+      medics say ”. Does anyone remember the 15 Palestinians who died on March 16, 2025?
+      Does that day stand out in anyone’s memory as particularly significant in terms
+      of mass murder? No? Same here. I honestly can’t remember it at all. This would
+      have been during the tail end of the first fake “ceasefire”, a couple of days
+      before Trump signed off on Israel resuming its large-scale bombing operations
+      in Gaza, so this wasn’t one of those days with huge massacres and staggering death
+      tolls. It doesn’t exactly stand out in the memory. I have no idea who those people
+      were. I don’t know their names. I never saw their pictures flashing across my
+      news feed. I never saw any western officials denouncing their deaths, or media
+      institutions giving wall-to-wall coverage to the news of their killing. So I don’t
+      remember them. https://x.com/aaronjmate/status/2000433189601382691 I saw a tweet
+      from Aaron Maté yesterday: “15 civilians were killed in the massacre targeting
+      Sydney’s Jewish community. A day in which Israel massacres 15 Palestinian civilians
+      in Gaza would be at the low end of the average in 2+ years of genocide. “Israel’s
+      atrocities and the impunity they receive are undoubtedly the number one driver
+      of anti-Semitism worldwide. And to show how little Israel and its apologists care
+      about anti-Semitism, many are exploiting the Sydney massacre to justify Israel’s
+      rejection of a Palestinian state; baselessly blame Iran; and demand more censorship
+      of anti-genocide protests.” Indeed, the worst people on earth are using the Bondi
+      Beach shooting to argue for crackdowns on free speech and freedom of assembly
+      to silence Israel’s critics online and on the streets, in Australia and throughout
+      the western world. And when 15 Palestinians were killed by Israel on March 16,
+      the west barely noticed. I don’t remember the 15 Palestinians who died during
+      that 24-hour period in mid-March, but I will always remember the Bondi Beach shooting.
+      Someone could mention it to me thirty years from now and I’ll know exactly what
+      they’re talking about. My society made an infinitely bigger deal about the deaths
+      of 15 westerners in Sydney, Australia than the deaths of 15 Palestinians in Gaza,
+      so it will always stick in my memory. Hell, I can’t blame it all on society; if
+      I’m honest I made a much bigger deal about it myself. I’ve felt sick thinking
+      about the shooting ever since it happened, partly because I know it’s going to
+      be used to roll out authoritarian measures and stomp out free speech in my country,
+      but also partly because I’ve felt so bad for those who died and their loved ones.
+      Even after spending two years denouncing the way western society normalizes the
+      murder of Arabs and places more importance on western lives than Palestinian lives,
+      I’m still basically doing the same thing myself. I’m a damn hypocrite. I wasn’t
+      born this way. This was learned behavior. If I had my slate cleaned and could
+      see the world through fresh eyes it would never occur to me that I and my society
+      would ever see 15 people being murdered in Australia as more significant than
+      15 people being murdered in Palestine. I would expect them to be viewed as exactly
+      as terrible. And they should be. Palestinians don’t love their families any less
+      than Australians do. Australian lives aren’t any more significant or valuable
+      than Palestinian lives. There is no valid reason for the world to have focused
+      any less on the 15 people who were killed in Gaza on March 16 than on the 15 people
+      who were murdered on Bondi Beach. But it did. https://x.com/_ZachFoster/status/2000575519666864368
+      Sunday was an awful, dark day. Hundreds of lives have been directly devastated
+      by this tragedy, thousands more indirectly, and in some ways the nation as a whole
+      has been changed. The trauma will reverberate in the victim’s families for generations.
+      The sorrow is palpable and ubiquitous. It’s everywhere; in the streets, at the
+      supermarket. There is catastrophe in the air, and people around the world are
+      feeling it. And this is appropriate. This is what 15 deaths ought to feel like.
+      This is what it feels like when you see mass murder inflicted upon a population
+      whose murder hasn’t become normalized for you. That’s all I’ve got to offer right
+      now. Just the humble suggestion that every massacre of Palestinians should shake
+      the earth just as much as the Bondi massacre has. Every death toll out of Gaza
+      should hit us just as hard as the death toll out of Sydney did. Feel how hard
+      this hits, and then translate it to the people of Gaza. This is happening there
+      every single day. In trying to get people to care about warmongering and imperialism
+      what we’re really trying to do is get people to widen their circle of compassion
+      to the furthest extent possible. To extend their care for the people around them
+      to include caring about violence and abuse against people even on the other side
+      of the world, who might not look and speak and live as they do. Maybe even extending
+      it so far as caring about the non-human organisms who share our planet with us.
+      As Einstein wrote in a condolence letter toward the end of his life, “A human
+      being is a part of the whole, called by us ‘Universe,’ a part limited in time
+      and space. He experiences himself, his thoughts and feelings as something separated
+      from the rest — a kind of optical delusion of his consciousness. This delusion
+      is a kind of prison for us, restricting us to our personal desires and to affection
+      for a few persons nearest to us. Our task must be to free ourselves from this
+      prison by widening our circle of compassion to embrace all living creatures and
+      the whole nature in its beauty. Nobody is able to achieve this completely, but
+      the striving for such achievement is in itself a part of the liberation and a
+      foundation for inner security.” Humanity won’t survive into the distant future
+      unless we grow into a conscious species, and part of that growth will necessarily
+      include widening our circles of compassion to include our fellow beings around
+      the world. If we can’t do that, we’re not going to make it. We’re too destructive.
+      We hurt each other and our environment too much. We destroy everything around
+      us trying to shore up wealth and resources for ourselves, and it simply is not
+      sustainable. It’ll get us all killed eventually. We’ve got to become better. We’ve
+      got to become more caring. More emotionally intelligent. Less susceptible to the
+      manipulations of propaganda. A society driven by truth and compassion rather than
+      lies and the pursuit of profit. That’s the only way we’re making it out of this
+      awkward adolescent transition stage with these large, capable brains still wound
+      up in vestigial evolutionary fear-based conditioning. That’s the only way we achieve
+      our true potential and build a healthy world together. __________________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. The best way to make sure you see everything I
+      write is to get on my free mailing list . Click here for links for my social media,
+      books, merch, and audio/video versions of each article . All my work is free to
+      bootleg and use in any way, shape or form; republish it, translate it, use it
+      on merchandise; whatever you want. All works co-authored with my husband Tim Foley.
+      Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article reflects on the lack of public memory and media
+      coverage regarding the deaths of 15 Palestinians in Gaza on March 16, 2025, highlighting
+      how such events often go unnoticed and unacknowledged in the broader narrative
+      of conflict.
+    paragraph_summary: In a recent article, Tim Foley reflects on the lack of attention
+      given to the deaths of 15 Palestinians killed by Israeli strikes in Gaza on March
+      16, 2025, contrasting it with the heightened media coverage and public outrage
+      following a massacre targeting Sydney's Jewish community. He emphasizes that the
+      deaths of these Palestinians went largely unnoticed, with no significant media
+      coverage or condemnation from Western officials, highlighting a broader issue
+      of indifference towards Palestinian casualties. Foley critiques how some individuals
+      exploit tragedies, like the Sydney shooting, to justify Israel's actions and suppress
+      criticism of its policies, while simultaneously ignoring the ongoing violence
+      against Palestinians, which he argues contributes to rising anti-Semitism.
+    published: '2025-12-15T23:11:12+00:00'
+  - title: Australians Being Massacred Shouldn't Bother Us More Than Palestinians Being
+      Massacred
+    url: https://www.caitlinjohnst.one/p/australians-being-massacred-shouldnt
+    text: 'Reading by Tim Foley : Subscribe now On March 16 of this year, Reuters published
+      an article titled “ Israeli strikes kill 15 people in Gaza over past day, Palestinian
+      medics say ”. Does anyone remember the 15 Palestinians who died on March 16, 2025?
+      Does that day stand out in anyone’s memory as particularly significant in terms
+      of mass murder? No? Same here. I honestly can’t remember it at all. This would
+      have been during the tail end of the first fake “ceasefire”, a couple of days
+      before Trump signed off on Israel resuming its large-scale bombing operations
+      in Gaza, so this wasn’t one of those days with huge massacres and staggering death
+      tolls. It doesn’t exactly stand out in the memory. I have no idea who those people
+      were. I don’t know their names. I never saw their pictures flashing across my
+      news feed. I never saw any western officials denouncing their deaths, or media
+      institutions giving wall-to-wall coverage to the news of their killing. So I don’t
+      remember them. https://x.com/aaronjmate/status/2000433189601382691 I saw a tweet
+      from Aaron Maté yesterday: “15 civilians were killed in the massacre targeting
+      Sydney’s Jewish community. A day in which Israel massacres 15 Palestinian civilians
+      in Gaza would be at the low end of the average in 2+ years of genocide. “Israel’s
+      atrocities and the impunity they receive are undoubtedly the number one driver
+      of anti-Semitism worldwide. And to show how little Israel and its apologists care
+      about anti-Semitism, many are exploiting the Sydney massacre to justify Israel’s
+      rejection of a Palestinian state; baselessly blame Iran; and demand more censorship
+      of anti-genocide protests.” Indeed, the worst people on earth are using the Bondi
+      Beach shooting to argue for crackdowns on free speech and freedom of assembly
+      to silence Israel’s critics online and on the streets, in Australia and throughout
+      the western world. And when 15 Palestinians were killed by Israel on March 16,
+      the west barely noticed. I don’t remember the 15 Palestinians who died during
+      that 24-hour period in mid-March, but I will always remember the Bondi Beach shooting.
+      Someone could mention it to me thirty years from now and I’ll know exactly what
+      they’re talking about. My society made an infinitely bigger deal about the deaths
+      of 15 westerners in Sydney, Australia than the deaths of 15 Palestinians in Gaza,
+      so it will always stick in my memory. Hell, I can’t blame it all on society; if
+      I’m honest I made a much bigger deal about it myself. I’ve felt sick thinking
+      about the shooting ever since it happened, partly because I know it’s going to
+      be used to roll out authoritarian measures and stomp out free speech in my country,
+      but also partly because I’ve felt so bad for those who died and their loved ones.
+      Even after spending two years denouncing the way western society normalizes the
+      murder of Arabs and places more importance on western lives than Palestinian lives,
+      I’m still basically doing the same thing myself. I’m a damn hypocrite. I wasn’t
+      born this way. This was learned behavior. If I had my slate cleaned and could
+      see the world through fresh eyes it would never occur to me that I and my society
+      would ever see 15 people being murdered in Australia as more significant than
+      15 people being murdered in Palestine. I would expect them to be viewed as exactly
+      as terrible. And they should be. Palestinians don’t love their families any less
+      than Australians do. Australian lives aren’t any more significant or valuable
+      than Palestinian lives. There is no valid reason for the world to have focused
+      any less on the 15 people who were killed in Gaza on March 16 than on the 15 people
+      who were murdered on Bondi Beach. But it did. https://x.com/_ZachFoster/status/2000575519666864368
+      Sunday was an awful, dark day. Hundreds of lives have been directly devastated
+      by this tragedy, thousands more indirectly, and in some ways the nation as a whole
+      has been changed. The trauma will reverberate in the victim’s families for generations.
+      The sorrow is palpable and ubiquitous. It’s everywhere; in the streets, at the
+      supermarket. There is catastrophe in the air, and people around the world are
+      feeling it. And this is appropriate. This is what 15 deaths ought to feel like.
+      This is what it feels like when you see mass murder inflicted upon a population
+      whose murder hasn’t become normalized for you. That’s all I’ve got to offer right
+      now. Just the humble suggestion that every massacre of Palestinians should shake
+      the earth just as much as the Bondi massacre has. Every death toll out of Gaza
+      should hit us just as hard as the death toll out of Sydney did. Feel how hard
+      this hits, and then translate it to the people of Gaza. This is happening there
+      every single day. In trying to get people to care about warmongering and imperialism
+      what we’re really trying to do is get people to widen their circle of compassion
+      to the furthest extent possible. To extend their care for the people around them
+      to include caring about violence and abuse against people even on the other side
+      of the world, who might not look and speak and live as they do. Maybe even extending
+      it so far as caring about the non-human organisms who share our planet with us.
+      As Einstein wrote in a condolence letter toward the end of his life, “A human
+      being is a part of the whole, called by us ‘Universe,’ a part limited in time
+      and space. He experiences himself, his thoughts and feelings as something separated
+      from the rest — a kind of optical delusion of his consciousness. This delusion
+      is a kind of prison for us, restricting us to our personal desires and to affection
+      for a few persons nearest to us. Our task must be to free ourselves from this
+      prison by widening our circle of compassion to embrace all living creatures and
+      the whole nature in its beauty. Nobody is able to achieve this completely, but
+      the striving for such achievement is in itself a part of the liberation and a
+      foundation for inner security.” Humanity won’t survive into the distant future
+      unless we grow into a conscious species, and part of that growth will necessarily
+      include widening our circles of compassion to include our fellow beings around
+      the world. If we can’t do that, we’re not going to make it. We’re too destructive.
+      We hurt each other and our environment too much. We destroy everything around
+      us trying to shore up wealth and resources for ourselves, and it simply is not
+      sustainable. It’ll get us all killed eventually. We’ve got to become better. We’ve
+      got to become more caring. More emotionally intelligent. Less susceptible to the
+      manipulations of propaganda. A society driven by truth and compassion rather than
+      lies and the pursuit of profit. That’s the only way we’re making it out of this
+      awkward adolescent transition stage with these large, capable brains still wound
+      up in vestigial evolutionary fear-based conditioning. That’s the only way we achieve
+      our true potential and build a healthy world together. __________________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. The best way to make sure you see everything I
+      write is to get on my free mailing list . Click here for links for my social media,
+      books, merch, and audio/video versions of each article . All my work is free to
+      bootleg and use in any way, shape or form; republish it, translate it, use it
+      on merchandise; whatever you want. All works co-authored with my husband Tim Foley.
+      Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article reflects on the lack of public memory and media
+      coverage regarding the deaths of 15 Palestinians in Gaza on March 16, 2025, highlighting
+      how such events often go unnoticed and unacknowledged in the broader narrative
+      of conflict.
+    paragraph_summary: In a recent article, Tim Foley reflects on the lack of attention
+      given to the deaths of 15 Palestinians killed by Israeli strikes in Gaza on March
+      16, 2025, contrasting it with the heightened media coverage and public outrage
+      following a massacre targeting Sydney's Jewish community. He emphasizes that the
+      deaths of these Palestinians went largely unnoticed, with no significant media
+      coverage or condemnation from Western officials, highlighting a broader issue
+      of indifference towards Palestinian casualties. Foley critiques how some individuals
+      exploit tragedies, like the Sydney shooting, to justify Israel's actions and suppress
+      criticism of its policies, while simultaneously ignoring the ongoing violence
+      against Palestinians, which he argues contributes to rising anti-Semitism.
+    published: '2025-12-15T23:11:12+00:00'
+  - title: Israel Apologists Hasten To Use Bondi Shooting To Attack Anti-Genocide Activists
+    url: https://www.caitlinjohnst.one/p/israel-apologists-hasten-to-use-bondi
+    text: 'Reading by Tim Foley : Subscribe now Two shooters attacked a Jewish Hanukkah
+      celebration at Bondi Beach on Sunday, killing fifteen people and injuring dozens
+      of others. Police report that the shooters were a father and his son; the father
+      was killed by police, and the son was captured. The shooters appear to have been
+      Muslim, but, much to the inconvenience of those who would like to use this incident
+      to fan the flames of western Islamophobic hysteria, the man who selflessly risked
+      his life to disarm one of them was also a Muslim father of two named Ahmed al-Ahmed.
+      As usual we’re seeing a lot of speculation about false flags and psyops regarding
+      this incident, but I prefer to hang back from such commentary until I’ve seen
+      some solid evidence. I do have some thoughts about the public discourse we are
+      seeing about the shooting right now, though. https://x.com/mamoun_linda/status/2000304692157722798
+      Point 1: Obviously it is evil to massacre civilians for being Jewish. Point 2:
+      Obviously Israel’s massacring of civilians must continue to be opposed, and will
+      continue to be opposed. Today the worst people in the world are trying to pretend
+      Point 1 and Point 2 are contradictory. It’s so gross watching the tail-wagging
+      excitement of Israel supporters in response to this shooting. They’re so happy
+      they have another rhetorical weapon with which to bludgeon pro-Palestine voices
+      into silence. They can barely contain their glee. https://x.com/AliAbunimah/status/2000224873033986478
+      Benjamin Netanyahu immediately scrambled to hold a press conference proclaiming
+      that the attack was the result of Australia taking some steps toward the recognition
+      of a Palestinian state. New York Times warmonger Bret Stephens penned an article
+      titled “ Bondi Beach Is What ‘Globalize the Intifada’ Looks Like ,” arguing that
+      the shooters “were taking to heart slogans like ‘resistance is justified,’ and
+      ‘by any means necessary,’ which have become ubiquitous at anti-Israel rallies
+      the world over.” Iraq-raping war propagandist David Frum wrote a similar article
+      for The Atlantic titled “ The Intifada Comes to Bondi Beach ,” saying the beach
+      “has been repeatedly targeted by pro-Palestinian demonstrators” and denouncing
+      the fact that “Many in the western world have interpreted post-October 7 anti-Israel
+      actions within the framework of free speech.” The virulently Islamophobic Australian
+      senator Pauline Hanson swiftly slapped together a statement claiming that “the
+      weekly anti-semitic protests across our nation” and “our obnoxious universities”
+      were “warning signs” that such an attack was coming. Sky News hastened to give
+      a platform to Israeli Deputy Minister of Foreign Affairs Sharren Haskel in an
+      interview where she declared that “this is what it means” to allow protesters
+      to chant “globalize the intifada”, saying that “if you let that continue and run
+      in your streets” you are inviting further terrorist attacks. Haskel has previously
+      called pro-Palestine protesters in Australia “useful idiots” for Hamas . https://x.com/hasanthehun/status/2000315948084179229?s=20
+      Political dynasty princeling Chris Cuomo took to Twitter to assert that people
+      who’ve been accusing Israel of genocide helped “fuel the hatred on bondi beach.”
+      The Jewish Chronicle’s Stephen Pollard tweeted a video of pro-Palestine protesters
+      in Birmingham with the caption “It you deny the connection between this and what
+      happened at Bondi Beach you are part of the problem.” A viral tweet from Australian
+      right wing social media personality Kobie Thatcher features a video of a pro-Palestine
+      protest with the caption “This was Sydney, Australia just 6 months ago. These
+      scenes should have been an urgent warning.” Opposition Leader Sussan Ley has used
+      the attack to demand that Prime Minister Albanese shove through the authoritarian
+      speech suppression plan put forward by Australia’s “antisemitism envoy” Jillian
+      Segal earlier this year, arguing that “We have seen public landmarks turned into
+      symbols of antisemitic hate. We have seen campuses occupied and Jewish students
+      made to feel afraid.” From the earliest moments after this attack Israel apologists
+      have taken it as a given that it was an act of terrorism in response to Israel’s
+      genocidal atrocities in Gaza, but then framing the people peacefully protesting
+      those atrocities as the problem. They’re openly acknowledging that the genocide
+      is violently radicalizing people, but instead of coming to the obvious conclusion
+      that Israel should therefore not commit genocide, they’re citing it as evidence
+      that people should stop protesting the genocide. https://x.com/caitoz/status/2000286538438222137
+      They could blame the shooting on the actual shooters. They could blame the people
+      committing genocide for radicalizing the shooters. But instead they’re blaming
+      the violence on the most peaceful people in the equation: the ones holding signs
+      and saying violent massacres should NOT happen. It’s about the craziest, most
+      evil manipulation you could possibly come up with. After the Manchester synagogue
+      attack this past October, I made the observation that “Whenever western Jews get
+      hurt these days you always see the Israel supporters having a big parade where
+      they go ‘Okay that’s it, wrap it up, nobody gets to criticize Israel’s behavior
+      anymore because you’re causing terrorism!’ And then everyone ignores them and
+      goes back to protesting the genocide, because that’s ridiculous.” We’re seeing
+      that same parade again today, and it’s just as ridiculous now as it was then.
+      https://x.com/caitoz/status/1973849726786392329 Massacring civilians is wrong.
+      It’s wrong in Bondi Beach, and it’s wrong in Gaza. Today the worst people in the
+      world are trying to claim that because the former happened, everyone needs to
+      stop protesting the latter. This is pure, cynical manipulation designed to protect
+      a genocidal apartheid state from criticism. It deserves nothing but a scoff and
+      a dismissal. My heart is heavy for everyone who woke up today to their first day
+      on the planet without their loved one. No doubt every breath taken today will
+      feel like an impossible challenge. Each of these deaths will flatten their family,
+      their friendship groups, their workplaces, their various communities, and their
+      religious community like a nuke, and the trauma will take years to get over. That’s
+      done; that’s baked in. This is as true in Bondi as it is in Gaza. My heart breaks
+      for everyone who found themselves suddenly standing at the foot of this seemingly-unscalable
+      mountain of grief today. There’s still a lot of information on this incident yet
+      to emerge, but it’s safe to assume it will be used as an excuse to target pro-Palestine
+      activists and further outlaw criticism of Israel in Australia, as has been happening
+      to a greater and greater extent in this country for the last two years. Zionism
+      is the single greatest threat to free expression in the entire western world.
+      ______________ Caitlin’s Newsletter is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber. My
+      work is entirely reader-supported , so if you enjoyed this piece here are some
+      options where you can toss some money into my tip jar if you want to. The best
+      way to make sure you see everything I write is to get on my free mailing list
+      . Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: Two shooters, a father and son, attacked a Jewish Hanukkah
+      celebration in Bondi Beach, resulting in fifteen deaths and numerous injuries,
+      while a Muslim bystander heroically intervened to disarm one of the attackers,
+      prompting discussions about the implications of the incident on public discourse
+      and Islamophobia.
+    paragraph_summary: On Sunday, a tragic shooting at a Jewish Hanukkah celebration
+      in Bondi Beach resulted in the deaths of fifteen people and injuries to many others,
+      with the attackers identified as a father and son duo, both reportedly Muslim.
+      The father was killed by police, while the son was apprehended. Notably, a Muslim
+      bystander, Ahmed al-Ahmed, heroically intervened to disarm one of the shooters.
+      The incident has sparked intense speculation and debate, with some commentators
+      suggesting it could be a false flag operation. The article highlights the troubling
+      discourse surrounding the shooting, particularly the opportunistic responses from
+      supporters of Israel, who are using the tragedy to silence pro-Palestinian voices,
+      while also emphasizing the importance of opposing both the massacre of civilians
+      and the ongoing violence in the Israeli-Palestinian conflict.
+    published: '2025-12-15T02:14:33+00:00'
+  - title: Israel Apologists Hasten To Use Bondi Shooting To Attack Anti-Genocide Activists
+    url: https://www.caitlinjohnst.one/p/israel-apologists-hasten-to-use-bondi
+    text: 'Reading by Tim Foley : Subscribe now Two shooters attacked a Jewish Hanukkah
+      celebration at Bondi Beach on Sunday, killing fifteen people and injuring dozens
+      of others. Police report that the shooters were a father and his son; the father
+      was killed by police, and the son was captured. The shooters appear to have been
+      Muslim, but, much to the inconvenience of those who would like to use this incident
+      to fan the flames of western Islamophobic hysteria, the man who selflessly risked
+      his life to disarm one of them was also a Muslim father of two named Ahmed al-Ahmed.
+      As usual we’re seeing a lot of speculation about false flags and psyops regarding
+      this incident, but I prefer to hang back from such commentary until I’ve seen
+      some solid evidence. I do have some thoughts about the public discourse we are
+      seeing about the shooting right now, though. https://x.com/mamoun_linda/status/2000304692157722798
+      Point 1: Obviously it is evil to massacre civilians for being Jewish. Point 2:
+      Obviously Israel’s massacring of civilians must continue to be opposed, and will
+      continue to be opposed. Today the worst people in the world are trying to pretend
+      Point 1 and Point 2 are contradictory. It’s so gross watching the tail-wagging
+      excitement of Israel supporters in response to this shooting. They’re so happy
+      they have another rhetorical weapon with which to bludgeon pro-Palestine voices
+      into silence. They can barely contain their glee. https://x.com/AliAbunimah/status/2000224873033986478
+      Benjamin Netanyahu immediately scrambled to hold a press conference proclaiming
+      that the attack was the result of Australia taking some steps toward the recognition
+      of a Palestinian state. New York Times warmonger Bret Stephens penned an article
+      titled “ Bondi Beach Is What ‘Globalize the Intifada’ Looks Like ,” arguing that
+      the shooters “were taking to heart slogans like ‘resistance is justified,’ and
+      ‘by any means necessary,’ which have become ubiquitous at anti-Israel rallies
+      the world over.” Iraq-raping war propagandist David Frum wrote a similar article
+      for The Atlantic titled “ The Intifada Comes to Bondi Beach ,” saying the beach
+      “has been repeatedly targeted by pro-Palestinian demonstrators” and denouncing
+      the fact that “Many in the western world have interpreted post-October 7 anti-Israel
+      actions within the framework of free speech.” The virulently Islamophobic Australian
+      senator Pauline Hanson swiftly slapped together a statement claiming that “the
+      weekly anti-semitic protests across our nation” and “our obnoxious universities”
+      were “warning signs” that such an attack was coming. Sky News hastened to give
+      a platform to Israeli Deputy Minister of Foreign Affairs Sharren Haskel in an
+      interview where she declared that “this is what it means” to allow protesters
+      to chant “globalize the intifada”, saying that “if you let that continue and run
+      in your streets” you are inviting further terrorist attacks. Haskel has previously
+      called pro-Palestine protesters in Australia “useful idiots” for Hamas . https://x.com/hasanthehun/status/2000315948084179229?s=20
+      Political dynasty princeling Chris Cuomo took to Twitter to assert that people
+      who’ve been accusing Israel of genocide helped “fuel the hatred on bondi beach.”
+      The Jewish Chronicle’s Stephen Pollard tweeted a video of pro-Palestine protesters
+      in Birmingham with the caption “It you deny the connection between this and what
+      happened at Bondi Beach you are part of the problem.” A viral tweet from Australian
+      right wing social media personality Kobie Thatcher features a video of a pro-Palestine
+      protest with the caption “This was Sydney, Australia just 6 months ago. These
+      scenes should have been an urgent warning.” Opposition Leader Sussan Ley has used
+      the attack to demand that Prime Minister Albanese shove through the authoritarian
+      speech suppression plan put forward by Australia’s “antisemitism envoy” Jillian
+      Segal earlier this year, arguing that “We have seen public landmarks turned into
+      symbols of antisemitic hate. We have seen campuses occupied and Jewish students
+      made to feel afraid.” From the earliest moments after this attack Israel apologists
+      have taken it as a given that it was an act of terrorism in response to Israel’s
+      genocidal atrocities in Gaza, but then framing the people peacefully protesting
+      those atrocities as the problem. They’re openly acknowledging that the genocide
+      is violently radicalizing people, but instead of coming to the obvious conclusion
+      that Israel should therefore not commit genocide, they’re citing it as evidence
+      that people should stop protesting the genocide. https://x.com/caitoz/status/2000286538438222137
+      They could blame the shooting on the actual shooters. They could blame the people
+      committing genocide for radicalizing the shooters. But instead they’re blaming
+      the violence on the most peaceful people in the equation: the ones holding signs
+      and saying violent massacres should NOT happen. It’s about the craziest, most
+      evil manipulation you could possibly come up with. After the Manchester synagogue
+      attack this past October, I made the observation that “Whenever western Jews get
+      hurt these days you always see the Israel supporters having a big parade where
+      they go ‘Okay that’s it, wrap it up, nobody gets to criticize Israel’s behavior
+      anymore because you’re causing terrorism!’ And then everyone ignores them and
+      goes back to protesting the genocide, because that’s ridiculous.” We’re seeing
+      that same parade again today, and it’s just as ridiculous now as it was then.
+      https://x.com/caitoz/status/1973849726786392329 Massacring civilians is wrong.
+      It’s wrong in Bondi Beach, and it’s wrong in Gaza. Today the worst people in the
+      world are trying to claim that because the former happened, everyone needs to
+      stop protesting the latter. This is pure, cynical manipulation designed to protect
+      a genocidal apartheid state from criticism. It deserves nothing but a scoff and
+      a dismissal. My heart is heavy for everyone who woke up today to their first day
+      on the planet without their loved one. No doubt every breath taken today will
+      feel like an impossible challenge. Each of these deaths will flatten their family,
+      their friendship groups, their workplaces, their various communities, and their
+      religious community like a nuke, and the trauma will take years to get over. That’s
+      done; that’s baked in. This is as true in Bondi as it is in Gaza. My heart breaks
+      for everyone who found themselves suddenly standing at the foot of this seemingly-unscalable
+      mountain of grief today. There’s still a lot of information on this incident yet
+      to emerge, but it’s safe to assume it will be used as an excuse to target pro-Palestine
+      activists and further outlaw criticism of Israel in Australia, as has been happening
+      to a greater and greater extent in this country for the last two years. Zionism
+      is the single greatest threat to free expression in the entire western world.
+      ______________ Caitlin’s Newsletter is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber. My
+      work is entirely reader-supported , so if you enjoyed this piece here are some
+      options where you can toss some money into my tip jar if you want to. The best
+      way to make sure you see everything I write is to get on my free mailing list
+      . Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: Two shooters, a father and son, attacked a Jewish Hanukkah
+      celebration in Bondi Beach, resulting in fifteen deaths and numerous injuries,
+      while a Muslim bystander heroically intervened to disarm one of the attackers,
+      prompting discussions about the implications of the incident on public discourse
+      and Islamophobia.
+    paragraph_summary: On Sunday, a tragic shooting at a Jewish Hanukkah celebration
+      in Bondi Beach resulted in the deaths of fifteen people and injuries to many others,
+      with the attackers identified as a father and son duo, both reportedly Muslim.
+      The father was killed by police, while the son was apprehended. Notably, a Muslim
+      bystander, Ahmed al-Ahmed, heroically intervened to disarm one of the shooters.
+      The incident has sparked intense speculation and debate, with some commentators
+      suggesting it could be a false flag operation. The article highlights the troubling
+      discourse surrounding the shooting, particularly the opportunistic responses from
+      supporters of Israel, who are using the tragedy to silence pro-Palestinian voices,
+      while also emphasizing the importance of opposing both the massacre of civilians
+      and the ongoing violence in the Israeli-Palestinian conflict.
+    published: '2025-12-15T02:14:33+00:00'
+  - title: The Empire Is Scrambling To Fully Dominate Latin America, And Other Notes
+    url: https://www.caitlinjohnst.one/p/the-empire-is-scrambling-to-fully
+    text: 'Reading by Tim Foley : Subscribe now US forces have seized an oil tanker
+      carrying some 1.8 million barrels of oil from Venezuela to Cuba as part of its
+      ongoing series of warmongering escalations against the Maduro government. When
+      asked what would be done with the oil, President Trump told the press, “We keep
+      it, I guess.” Meanwhile Chuck Schumer is refusing to oppose Trump’s regime change
+      interventionism against Venezuela, and CNN just had former US intelligence official
+      Beth Sanner on to proclaim that the Trump administration’s act of piracy “is absolutely
+      normal.” So Trump’s ostensible opposition in the political-media class are putting
+      absolutely no inertia on this. The US pirating a Cuba-bound oil tanker from Venezuela
+      illustrates how the empire is hurrying to shore up control over Latin America
+      in the same way the US and Israel are quickly shoring up control over the middle
+      east. There’s a window of opportunity to shove through a bunch of pre-existing
+      military agendas in both regions, and they’re aggressively seizing it before their
+      attention has to turn to bigger geopolitical fish. You often hear US imperialists
+      saying that obtaining regime change in Venezuela will help achieve it in Cuba
+      as well; Senator Rick Scott recently told 60 Minutes that if Maduro is successfully
+      ousted “it’ll be the end of Cuba,” and that “America is gonna take care of the
+      southern hemisphere and make sure there’s freedom and democracy.” Stealing the
+      oil hurts both Cuba and Venezuela, who are the two primary enemies of the US empire
+      in the Americas because of their strongly socialist governments. They got a right
+      wing government into Bolivia this year, and now they’re hurrying to push regime
+      change in Caracas and Havana while they’ve got a right wing tyrant in office with
+      a gusano secretary of state . The hope is to force the entirety of Latin America
+      into full alignment with the empire before Trump leaves office. I have no idea
+      if they’ll succeed. ❖ The US House and Senate have agreed to make registration
+      for the draft “automatic”, which will simplify the drafting process if the empire
+      decides to throw the youth of America into a horrific new military conflict. The
+      US is making its biggest draft policy change in 45 years so it’s easier to force
+      Americans to fight and die in a massive war, just as the New York Times editorial
+      board launches a series explaining why the US must prepare for war with China.
+      The latest edition of the New York Times’ arguments for the need for more US militarism
+      is titled “ This Is The 21st Century Arms Race. Can America Keep Up? ”, which
+      argues that “Congress needs to expand funding for research and development into
+      technologies with military applications.” “To counter the growing threat, America
+      must simultaneously win the race to build autonomous weapons and lead the world
+      in controlling them,” the editorial board writes. Fun times. https://x.com/caitoz/status/1998894015325114651
+      ❖ The BBC is reportedly training its staff that it is antisemitic for anyone to
+      oppose Zionism, because most Jews identify as Zionists. You see this argument
+      a lot, and it a textbook example of an ad populum fallacy , which is when someone
+      claims that something is true or right just because a majority of people believe
+      it. Just as the Atlantic slave trade would have been wrong even if every white
+      person in the world supported it, a genocidal apartheid state which cannot exist
+      without nonstop violence, theft and abuse would still be wrong even if every Jewish
+      person on earth supported it. The claim that a majority of Jews support the existence
+      of the modern state of Israel has no bearing whatsoever on the question of whether
+      such a state should exist, and does not invalidate any arguments that it should
+      not. Israel supporters rely on lies, manipulations and fallacious arguments because
+      their position is not based on truth or morality. If their position was right
+      they would simply be making normal arguments like normal adults. They can’t do
+      this because they are wrong. ❖ Whenever I catch myself wondering if I’ve been
+      too hard on the Democrats I re-watch last year’s video of DNC attendees covering
+      their ears and mocking activists reading the names of children who’d been murdered
+      in Gaza. When they’re not in power it’s easy to forget how evil these people are.
+      ❖ The Daily Mirror has a gross new propaganda piece out claiming that “Hamas plotters
+      are spreading their tentacles of terror into Europe, with secret arms dumps and
+      operatives planning attacks even as far as in the United Kingdom.” As you might
+      expect, The Mirror provides no evidence whatsoever for this claim, citing only
+      “an intelligence report” of unspecified origin. This is one of the dumbest narratives
+      we’ve ever been asked to believe about Hamas, amid some very stiff competition.
+      I don’t know about you, but am so sick of having my intelligence insulted like
+      this. ________________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      My work is entirely reader-supported , so if you enjoyed this piece here are some
+      options where you can toss some money into my tip jar if you want to. The best
+      way to make sure you see everything I write is to get on my free mailing list
+      . Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The U.S. has seized a Venezuelan oil tanker bound for Cuba,
+      reflecting a broader strategy of interventionism in Latin America, with minimal
+      opposition from political leaders and media figures.
+    paragraph_summary: US forces have seized an oil tanker carrying 1.8 million barrels
+      of oil from Venezuela to Cuba, reflecting escalating US interventionism against
+      the Maduro government. President Trump indicated the US would keep the oil, while
+      political figures like Chuck Schumer and former intelligence officials downplayed
+      the act as normal. This seizure is part of a broader strategy to exert control
+      over Latin America, paralleling efforts in the Middle East, with the aim of facilitating
+      regime change in both Venezuela and Cuba, which are viewed as adversaries due
+      to their socialist governments. The US is pushing to align Latin America with
+      its interests before the end of Trump's presidency, amidst a backdrop of shifting
+      political dynamics in the region.
+    published: '2025-12-11T22:15:07+00:00'
+  - title: The Empire Is Scrambling To Fully Dominate Latin America, And Other Notes
+    url: https://www.caitlinjohnst.one/p/the-empire-is-scrambling-to-fully
+    text: 'Reading by Tim Foley : Subscribe now US forces have seized an oil tanker
+      carrying some 1.8 million barrels of oil from Venezuela to Cuba as part of its
+      ongoing series of warmongering escalations against the Maduro government. When
+      asked what would be done with the oil, President Trump told the press, “We keep
+      it, I guess.” Meanwhile Chuck Schumer is refusing to oppose Trump’s regime change
+      interventionism against Venezuela, and CNN just had former US intelligence official
+      Beth Sanner on to proclaim that the Trump administration’s act of piracy “is absolutely
+      normal.” So Trump’s ostensible opposition in the political-media class are putting
+      absolutely no inertia on this. The US pirating a Cuba-bound oil tanker from Venezuela
+      illustrates how the empire is hurrying to shore up control over Latin America
+      in the same way the US and Israel are quickly shoring up control over the middle
+      east. There’s a window of opportunity to shove through a bunch of pre-existing
+      military agendas in both regions, and they’re aggressively seizing it before their
+      attention has to turn to bigger geopolitical fish. You often hear US imperialists
+      saying that obtaining regime change in Venezuela will help achieve it in Cuba
+      as well; Senator Rick Scott recently told 60 Minutes that if Maduro is successfully
+      ousted “it’ll be the end of Cuba,” and that “America is gonna take care of the
+      southern hemisphere and make sure there’s freedom and democracy.” Stealing the
+      oil hurts both Cuba and Venezuela, who are the two primary enemies of the US empire
+      in the Americas because of their strongly socialist governments. They got a right
+      wing government into Bolivia this year, and now they’re hurrying to push regime
+      change in Caracas and Havana while they’ve got a right wing tyrant in office with
+      a gusano secretary of state . The hope is to force the entirety of Latin America
+      into full alignment with the empire before Trump leaves office. I have no idea
+      if they’ll succeed. ❖ The US House and Senate have agreed to make registration
+      for the draft “automatic”, which will simplify the drafting process if the empire
+      decides to throw the youth of America into a horrific new military conflict. The
+      US is making its biggest draft policy change in 45 years so it’s easier to force
+      Americans to fight and die in a massive war, just as the New York Times editorial
+      board launches a series explaining why the US must prepare for war with China.
+      The latest edition of the New York Times’ arguments for the need for more US militarism
+      is titled “ This Is The 21st Century Arms Race. Can America Keep Up? ”, which
+      argues that “Congress needs to expand funding for research and development into
+      technologies with military applications.” “To counter the growing threat, America
+      must simultaneously win the race to build autonomous weapons and lead the world
+      in controlling them,” the editorial board writes. Fun times. https://x.com/caitoz/status/1998894015325114651
+      ❖ The BBC is reportedly training its staff that it is antisemitic for anyone to
+      oppose Zionism, because most Jews identify as Zionists. You see this argument
+      a lot, and it a textbook example of an ad populum fallacy , which is when someone
+      claims that something is true or right just because a majority of people believe
+      it. Just as the Atlantic slave trade would have been wrong even if every white
+      person in the world supported it, a genocidal apartheid state which cannot exist
+      without nonstop violence, theft and abuse would still be wrong even if every Jewish
+      person on earth supported it. The claim that a majority of Jews support the existence
+      of the modern state of Israel has no bearing whatsoever on the question of whether
+      such a state should exist, and does not invalidate any arguments that it should
+      not. Israel supporters rely on lies, manipulations and fallacious arguments because
+      their position is not based on truth or morality. If their position was right
+      they would simply be making normal arguments like normal adults. They can’t do
+      this because they are wrong. ❖ Whenever I catch myself wondering if I’ve been
+      too hard on the Democrats I re-watch last year’s video of DNC attendees covering
+      their ears and mocking activists reading the names of children who’d been murdered
+      in Gaza. When they’re not in power it’s easy to forget how evil these people are.
+      ❖ The Daily Mirror has a gross new propaganda piece out claiming that “Hamas plotters
+      are spreading their tentacles of terror into Europe, with secret arms dumps and
+      operatives planning attacks even as far as in the United Kingdom.” As you might
+      expect, The Mirror provides no evidence whatsoever for this claim, citing only
+      “an intelligence report” of unspecified origin. This is one of the dumbest narratives
+      we’ve ever been asked to believe about Hamas, amid some very stiff competition.
+      I don’t know about you, but am so sick of having my intelligence insulted like
+      this. ________________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      My work is entirely reader-supported , so if you enjoyed this piece here are some
+      options where you can toss some money into my tip jar if you want to. The best
+      way to make sure you see everything I write is to get on my free mailing list
+      . Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The U.S. has seized a Venezuelan oil tanker bound for Cuba,
+      reflecting a broader strategy of interventionism in Latin America, with minimal
+      opposition from political leaders and media figures.
+    paragraph_summary: US forces have seized an oil tanker carrying 1.8 million barrels
+      of oil from Venezuela to Cuba, reflecting escalating US interventionism against
+      the Maduro government. President Trump indicated the US would keep the oil, while
+      political figures like Chuck Schumer and former intelligence officials downplayed
+      the act as normal. This seizure is part of a broader strategy to exert control
+      over Latin America, paralleling efforts in the Middle East, with the aim of facilitating
+      regime change in both Venezuela and Cuba, which are viewed as adversaries due
+      to their socialist governments. The US is pushing to align Latin America with
+      its interests before the end of Trump's presidency, amidst a backdrop of shifting
+      political dynamics in the region.
+    published: '2025-12-11T22:15:07+00:00'
+  - title: New York Times Wants The US Military Built Up For War With China
+    url: https://www.caitlinjohnst.one/p/new-york-times-wants-the-us-military
+    text: 'Reading by Tim Foley : Subscribe now Just as the United States hits its first
+      official trillion-dollar annual military budget , the New York Times editorial
+      board has published an article which argues that the US is going to need to increase
+      military funding to prepare for a major war with China. The article is titled
+      “ Overmatched: Why the U.S. Military Must Reinvent Itself ,” and to be clear it
+      is an editorial, not an op-ed, meaning it represents the position of the newspaper
+      itself rather than solely that of the authors. This will come as no surprise to
+      anyone who knows that The New York Times has supported every American war throughout
+      its entire history, because The New York Times is a war propaganda firm disguised
+      as a news outlet. But it is surprising how brazen they are about it in this particular
+      case. The article opens with graphics I saw one commenter describe as “Mussolini-core”
+      because of their conspicuously fascistic aesthetic, accompanied by three lines
+      of text in all-caps which reads as follows: “AMERICA’S MILITARY HAS DEFENDED THE
+      FREE WORLD FOR 80 YEARS. OUR DOMINANCE IS FADING. RIVALS KNOW THIS AND ARE BUILDING
+      TO DEFEAT US.” https://x.com/lukeisamazing/status/1998394387861246038 The narrative
+      that the US war machine has “defended the free world” during its period of post-world
+      war global dominance is itself insane empire propaganda. Washington has abused,
+      tyrannized and starved the world at levels unrivaled by any other power during
+      that period while spearheading the theft of hundreds of trillions of dollars from
+      the global south via imperialist extraction. The US empire has not been defending
+      any “free world”, it has been actively obstructing its emergence. The actual text
+      of the article opens with another whopper, with the first sentence reading, “President
+      Xi Jinping of China has ordered his armed forces to be ready to seize Taiwan by
+      2027.” This is straight-up state propaganda. The New York Times editorial board
+      is here uncritically parroting a completely unsubstantiated claim the US intelligence
+      cartel has been making for years , which Xi Jinping explicitly denies . While
+      it is Beijing’s official position that Taiwan will eventually be reunited with
+      the mainland, not one shred of evidence has ever been presented to the public
+      for the 2027 timeline. It’s a US government assertion being reported as verified
+      fact by the nation’s “paper of record”. And it doesn’t get any better from there.
+      The Times cites a Pentagon assessment that the US would lose a hot war with China
+      over Taiwan as evidence of “a decades-long decline in America’s ability to win
+      a long war with a major power,” arguing that this is a major problem because “a
+      strong America has been crucial to a world in which freedom and prosperity are
+      far more common than at nearly any other point in human history.” “This is the
+      first of a series of editorials examining what’s gone wrong with the U.S. military — technologically,
+      bureaucratically, culturally, politically and strategically — and how we can create
+      a relevant and effective force that can deter wars whenever possible and win them
+      wherever necessary,” The New York Times tells us. https://x.com/adamjohnsonCHI/status/1998114653654720900
+      The Times argues that the US needs to reshape its military to defeat China in
+      a war, or to win a war with Russia if they attack a NATO member, saying “Evidence
+      suggests that Moscow may already be testing ways to do this, including by cutting
+      the undersea cables on which NATO forces depend.” The “evidence” the Times cites
+      for this claim is a hyperlink to a January article titled “ Norway Seizes Russian-Crewed
+      Ship Suspected of Cutting an Undersea Cable ,” completely ignoring the fact that
+      Norway released that ship shortly thereafter when it was unable to find any evidence
+      linking it to the event, and completely ignoring reports that US and European
+      intelligence had concluded that the undersea cable damage was the result of an
+      accident rather than sabotage. And then, of course, comes the call for more military
+      funding. “In the short term, the transformation of the American military may require
+      additional spending, primarily to rebuild our industrial base. As a share of the
+      economy, defense spending today — about 3.4 percent of G.D.P. — remains near its
+      lowest level in more than 80 years, even after Mr. Trump’s recent increases,”
+      the Times writes, adding that US allies should also be pressured to ramp up spending
+      on the war machine. “A more secure world will almost certainly require more military
+      commitment from allies like Canada, Japan and Europe, which have long relied on
+      American taxpayers to bankroll their protection,” the authors write, saying “China’s
+      industrial capacity can only be met by pooling the resources of allies and partners
+      around the world to balance and contain Beijing’s increasing influence.” Of course
+      the idea that perhaps the United States should avoid fighting a hot war with China
+      right off the coast of its own mainland never enters the discussion. The suggestion
+      that it’s insane to support waging full-scale wars with nuclear-armed great powers
+      to secure US planetary domination never comes up. It’s just taken as a given that
+      pouring wealth and resources into preparations for a nuclear-age world war is
+      the only normal option on the table. But that’s the New York Times for you. It’s
+      been run by the same family since the late 1800s and it’s been advancing the information
+      interests of rich and powerful imperialists ever since. It’s a militarist smut
+      rag that somehow found its way into unearned respectability, and it deserves to
+      be treated as such. The sooner it ceases to exist, the better. __________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. The best way to make sure
+      you see everything I write is to get on my free mailing list . Click here for
+      links for my social media, books, merch, and audio/video versions of each article
+      . All my work is free to bootleg and use in any way, shape or form; republish
+      it, translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The New York Times editorial board argues for increased military
+      funding to prepare for a potential major conflict with China, reflecting the newspaper's
+      longstanding support for U.S. military actions, despite its controversial presentation.
+    paragraph_summary: 'The New York Times editorial board has published a piece titled
+      “Overmatched: Why the U.S. Military Must Reinvent Itself,” advocating for an increase
+      in military funding to prepare for potential conflict with China, coinciding with
+      the U.S. reaching a trillion-dollar annual military budget. The article represents
+      the newspaper''s official stance, reflecting its historical support for American
+      military actions. Critics argue that the editorial employs a propagandistic narrative,
+      framing U.S. military efforts as a defense of the "free world" while ignoring
+      the imperialist actions and consequences of U.S. foreign policy. The article begins
+      with alarming claims about China''s military ambitions regarding Taiwan, which
+      some view as uncritical acceptance of state propaganda.'
+    published: '2025-12-10T11:08:02+00:00'
+  - title: New York Times Wants The US Military Built Up For War With China
+    url: https://www.caitlinjohnst.one/p/new-york-times-wants-the-us-military
+    text: 'Reading by Tim Foley : Subscribe now Just as the United States hits its first
+      official trillion-dollar annual military budget , the New York Times editorial
+      board has published an article which argues that the US is going to need to increase
+      military funding to prepare for a major war with China. The article is titled
+      “ Overmatched: Why the U.S. Military Must Reinvent Itself ,” and to be clear it
+      is an editorial, not an op-ed, meaning it represents the position of the newspaper
+      itself rather than solely that of the authors. This will come as no surprise to
+      anyone who knows that The New York Times has supported every American war throughout
+      its entire history, because The New York Times is a war propaganda firm disguised
+      as a news outlet. But it is surprising how brazen they are about it in this particular
+      case. The article opens with graphics I saw one commenter describe as “Mussolini-core”
+      because of their conspicuously fascistic aesthetic, accompanied by three lines
+      of text in all-caps which reads as follows: “AMERICA’S MILITARY HAS DEFENDED THE
+      FREE WORLD FOR 80 YEARS. OUR DOMINANCE IS FADING. RIVALS KNOW THIS AND ARE BUILDING
+      TO DEFEAT US.” https://x.com/lukeisamazing/status/1998394387861246038 The narrative
+      that the US war machine has “defended the free world” during its period of post-world
+      war global dominance is itself insane empire propaganda. Washington has abused,
+      tyrannized and starved the world at levels unrivaled by any other power during
+      that period while spearheading the theft of hundreds of trillions of dollars from
+      the global south via imperialist extraction. The US empire has not been defending
+      any “free world”, it has been actively obstructing its emergence. The actual text
+      of the article opens with another whopper, with the first sentence reading, “President
+      Xi Jinping of China has ordered his armed forces to be ready to seize Taiwan by
+      2027.” This is straight-up state propaganda. The New York Times editorial board
+      is here uncritically parroting a completely unsubstantiated claim the US intelligence
+      cartel has been making for years , which Xi Jinping explicitly denies . While
+      it is Beijing’s official position that Taiwan will eventually be reunited with
+      the mainland, not one shred of evidence has ever been presented to the public
+      for the 2027 timeline. It’s a US government assertion being reported as verified
+      fact by the nation’s “paper of record”. And it doesn’t get any better from there.
+      The Times cites a Pentagon assessment that the US would lose a hot war with China
+      over Taiwan as evidence of “a decades-long decline in America’s ability to win
+      a long war with a major power,” arguing that this is a major problem because “a
+      strong America has been crucial to a world in which freedom and prosperity are
+      far more common than at nearly any other point in human history.” “This is the
+      first of a series of editorials examining what’s gone wrong with the U.S. military — technologically,
+      bureaucratically, culturally, politically and strategically — and how we can create
+      a relevant and effective force that can deter wars whenever possible and win them
+      wherever necessary,” The New York Times tells us. https://x.com/adamjohnsonCHI/status/1998114653654720900
+      The Times argues that the US needs to reshape its military to defeat China in
+      a war, or to win a war with Russia if they attack a NATO member, saying “Evidence
+      suggests that Moscow may already be testing ways to do this, including by cutting
+      the undersea cables on which NATO forces depend.” The “evidence” the Times cites
+      for this claim is a hyperlink to a January article titled “ Norway Seizes Russian-Crewed
+      Ship Suspected of Cutting an Undersea Cable ,” completely ignoring the fact that
+      Norway released that ship shortly thereafter when it was unable to find any evidence
+      linking it to the event, and completely ignoring reports that US and European
+      intelligence had concluded that the undersea cable damage was the result of an
+      accident rather than sabotage. And then, of course, comes the call for more military
+      funding. “In the short term, the transformation of the American military may require
+      additional spending, primarily to rebuild our industrial base. As a share of the
+      economy, defense spending today — about 3.4 percent of G.D.P. — remains near its
+      lowest level in more than 80 years, even after Mr. Trump’s recent increases,”
+      the Times writes, adding that US allies should also be pressured to ramp up spending
+      on the war machine. “A more secure world will almost certainly require more military
+      commitment from allies like Canada, Japan and Europe, which have long relied on
+      American taxpayers to bankroll their protection,” the authors write, saying “China’s
+      industrial capacity can only be met by pooling the resources of allies and partners
+      around the world to balance and contain Beijing’s increasing influence.” Of course
+      the idea that perhaps the United States should avoid fighting a hot war with China
+      right off the coast of its own mainland never enters the discussion. The suggestion
+      that it’s insane to support waging full-scale wars with nuclear-armed great powers
+      to secure US planetary domination never comes up. It’s just taken as a given that
+      pouring wealth and resources into preparations for a nuclear-age world war is
+      the only normal option on the table. But that’s the New York Times for you. It’s
+      been run by the same family since the late 1800s and it’s been advancing the information
+      interests of rich and powerful imperialists ever since. It’s a militarist smut
+      rag that somehow found its way into unearned respectability, and it deserves to
+      be treated as such. The sooner it ceases to exist, the better. __________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. The best way to make sure
+      you see everything I write is to get on my free mailing list . Click here for
+      links for my social media, books, merch, and audio/video versions of each article
+      . All my work is free to bootleg and use in any way, shape or form; republish
+      it, translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The New York Times editorial board argues for increased military
+      funding to prepare for a potential major conflict with China, reflecting the newspaper's
+      longstanding support for U.S. military actions, despite its controversial presentation.
+    paragraph_summary: 'The New York Times editorial board has published a piece titled
+      “Overmatched: Why the U.S. Military Must Reinvent Itself,” advocating for an increase
+      in military funding to prepare for potential conflict with China, coinciding with
+      the U.S. reaching a trillion-dollar annual military budget. The article represents
+      the newspaper''s official stance, reflecting its historical support for American
+      military actions. Critics argue that the editorial employs a propagandistic narrative,
+      framing U.S. military efforts as a defense of the "free world" while ignoring
+      the imperialist actions and consequences of U.S. foreign policy. The article begins
+      with alarming claims about China''s military ambitions regarding Taiwan, which
+      some view as uncritical acceptance of state propaganda.'
+    published: '2025-12-10T11:08:02+00:00'
   - title: How To Heal When The World Is On Fire
     url: https://www.caitlinjohnst.one/p/how-to-heal-when-the-world-is-on
     text: 'Reading by Tim Foley : Subscribe now Chloe writes the following via email

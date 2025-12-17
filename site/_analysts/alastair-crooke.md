@@ -7,21 +7,300 @@ description: "Ex-MI6 diplomat and founder of Conflicts Forum (Beirut); publishes
 websites:
   - https://www.eurasiareview.com/author/alastair-crooke/
 summary: |
-  Amidst ongoing geopolitical turbulence, the latest developments center on the faltering U.S.-Russia dialogue over Ukraine, deepening Western political disarray, and the persistent recalibration of global alliances.
+  The geopolitical landscape continues to be shaped by the Trump administration’s recalibration of U.S. foreign policy, as reflected in the latest National Security Strategy (NSS). The new NSS signals a decisive move away from global interventionism toward a doctrine of “America First,” prioritizing regional dominance and pressing allies—especially in Europe—to shoulder greater defense and economic burdens. **Alastair Crooke** notes that this shift is accompanied by open criticism of Europe’s management of the Ukraine conflict, with Washington making clear that NATO is “not forever,” and that U.S. support is now conditional and transactional.
   
-  The most recent and significant event is the Moscow meeting between Steve Witkoff, Jared Kushner, and President Putin. As **Alastair Crooke** reports, this engagement underscored a fundamental disconnect: while U.S. envoys sought to advance talking points aligned with Trump's desire for a quick diplomatic "success" in Ukraine, Putin insisted on a legally binding treaty addressing the conflict's root causes. Crooke notes that the U.S. approach appears more performative than substantive, with Washington prioritizing optics over the structural issues at stake. This signals that, despite high-level contacts, there is no real progress toward a durable settlement—Putin remains unmoved by proposals that do not guarantee Russia’s core security interests.
+  In Moscow, recent high-level discussions between U.S. envoys and President Putin have underscored the deep disconnect between American and Russian positions on Ukraine. While the Trump administration seeks a quick diplomatic “win” to bolster its domestic narrative, Russia insists on a legally binding settlement that addresses what it sees as the root causes of the conflict. **Crooke** highlights that “Putin is not interested in temporary deals or PR stunts,” and that the U.S. approach risks further entrenching the stalemate rather than moving toward resolution.
   
-  Meanwhile, domestic political instability in the U.S. continues to shape its foreign policy posture. Recent Democratic victories and California's re-districting, according to **Crooke**, reveal a growing populist backlash against both parties. This internal discontent is feeding into a broader crisis of legitimacy, which could undermine Trump’s ability to project coherent policy abroad. The resulting unpredictability is likely to further complicate U.S. engagement with both allies and adversaries.
+  Meanwhile, the broader Western political environment remains volatile. The recent U.S. elections and California’s re-districting have exposed a surge in populist discontent, with both major parties facing internal fractures. **Crooke** observes that this structural crisis could undermine Trump’s ability to maintain a coherent foreign policy, as domestic instability threatens to spill over into international relations.
   
-  On the global stage, the West’s declining influence is increasingly apparent. The earlier pivot of Japan towards China, as highlighted by Crooke, has unsettled U.S. economic dominance in Asia, while the Shanghai Cooperation Organization’s assertiveness signals a shift towards multipolarity. The U.S. establishment remains anxious about the erosion of dollar supremacy and the rise of alternative financial systems led by China.
-  
-  **Trends and Predictions:**  
-  - There is a high chance that U.S.-Russia negotiations over Ukraine will remain deadlocked, as Moscow demands legally binding guarantees that Washington is unwilling or unable to provide.
-  - The U.S. domestic political crisis is quite likely to intensify, further constraining Trump’s foreign policy maneuverability.
-  - The global shift towards multipolarity and the weakening of Western economic and diplomatic leverage will most definitely continue, with Asian powers consolidating their positions.
-  
-  In sum, the current trajectory points to sustained geopolitical fragmentation, with Western attempts at diplomatic resets proving largely ineffective against the backdrop of structural shifts in global power.
+  Looking ahead, it is quite likely that the U.S. will continue to pressure its allies to take on more responsibility, particularly in Europe and the Middle East. The prospects for a substantive U.S.-Russia agreement on Ukraine remain dim unless Washington is willing to address Moscow’s core demands—a scenario that, at present, appears unlikely. The trend toward regionalization of U.S. power and the erosion of traditional alliances is set to continue, with high confidence that this will produce further geopolitical volatility and uncertainty in the months ahead.
 articles:
+  - title: 'NATO Declared To Be ‘Not Forever’: A Critical Reading Of The New US National
+      Security Strategy – OpEd'
+    url: https://www.eurasiareview.com/12122025-nato-declared-to-be-not-forever-a-critical-reading-of-the-new-us-national-security-strategy-oped/
+    text: 'By Alastair Crooke
+
+
+      A National Security Strategy (NSS) is produced periodically by U.S. Administrations
+      (Trump authored one during his first term). Mostly these documents lay out an
+      idealised version of an Administration’s foreign and security policy, and do not
+      have great practical import – because of what is left out – i.e. entrenched U.S.
+      political and economic interests; the deep foreign policy consensus overseen by
+      the curator class of the deep security state; and the policies espoused by the
+      mega donor collective.
+
+
+      Nonetheless, this recently-released NSS reads rather differently by putting a
+      distinctive ‘America First’ gloss to U.S. foreign policy, eschewing global hegemony;
+      ‘domination’ and ideological crusades in favour of pragmatic, transactional realism
+      focused on protecting core national interests – homeland security, economic prosperity,
+      and regional dominance in the Western Hemisphere. The U.S. thus will “no longer
+      prop up the entire world order like ‘Atlas’ and expects Europe to shoulder more
+      of its own defence burdens”.
+
+
+      It critiques the U.S.’ earlier pursuit of global primacy as ‘a failure’ that ended
+      up weakening America – and situates Trump’s policy as a ‘necessary correction’
+      to the earlier stance. It therefore accepts the tilt towards a multipolar world.
+
+
+      Two key foreign policy aims are nuanced rather than radically recast:
+
+
+      First, China is downgraded from ‘primary threat’; ‘pacing threat’ to economic
+      competitor (Taiwan is treated as an instrument of deterrence).
+
+
+      And in respect to Russia, it says,
+
+
+      “It is a core interest of the United States to negotiate an expeditious cessation
+      of hostilities in Ukraine, in order to stabilize European economies, prevent unintended
+      escalation or expansion of the war, and reestablish strategic stability with Russia,
+      as well as to enable the post-hostilities reconstruction of Ukraine to enable
+      its survival as a viable state”.
+
+
+      The document does not mention ‘strategic peace’ with Russia, but only a ‘cessation
+      of hostilities’, i.e. a ceasefire. The careful choice of language used may signal
+      that Trump does not intend a full settlement with Russia on its security concerns,
+      but only a truce, a “cessation of hostilities”.
+
+
+      It terms European relations with Russia as “deeply attenuated”:
+
+
+      “The Trump Administration finds itself at odds with European officials who hold
+      unrealistic expectations for the war perched in unstable minority governments,
+      many of which trample on basic principles of democracy to suppress opposition.
+      A large European majority wants peace, yet that desire is not translated into
+      policy, in large measure because of those governments’ subversion of democratic
+      processes. This is strategically important to the United States precisely because
+      European states cannot reform themselves if they are trapped in political crisis”.
+
+
+      Essentially, Ukraine is pushed on the Europeans as their responsibility from now
+      on. More generally, Allies are expected to foot the bills – as the U.S. builds
+      at home.
+
+
+      One of the biggest NSS shifts is that America is defined now as a fortified hemisphere
+      power in place of a global hegemon:
+
+
+      “We want a Hemisphere that remains free of hostile foreign incursion or ownership
+      of key assets, and that supports critical supply chains; and we want to ensure
+      our continued access to key strategic locations. In other words, we will assert
+      and enforce a “Trump Corollary” to the Monroe Doctrine”.
+
+
+      In terms of military presence, the Strategy states that this entails “a readjustment
+      of our global military presence to address urgent threats in our Hemisphere”.
+
+
+      Perhaps the most meaningful aspect in terms on practical impact is the reference
+      to “ending NATO as an ever-expanding alliance” – and to Europe, which is critiqued
+      in the most astringent terms:
+
+
+      The NSS is highly critical of Europe’s economic stagnation, its demographic decline,
+      the loss of sovereignty to EU institutions and its “civilizational erasure”:
+
+
+      “We want Europe to remain European, to regain its civilizational self-confidence,
+      and to abandon its failed focus on regulatory suffocation”.
+
+
+      The document declares the liberal/technocratic elites of the EU and many Member
+      States to be a threat to Europe’s future, regional stability – and to American
+      interests. It makes it clear that supporting the Patriotic Right in Europe, and
+      “cultivating resistance” to Europe’s current trajectory are in the American interest.
+
+
+      It calls out population replacement (immigration) as the gravest long-term threat
+      to Europe and American interests, openly questioning whether some European nations
+      will remain reliable allies given their current trajectory.
+
+
+      The transatlantic relationship therefore remains in place but is no longer the
+      centrepiece of U.S. foreign policy.
+
+
+      The European elite’s panic:
+
+
+      European leaders, including former Swedish PM Carl Bildt, called the NSS reference
+      to Europe as being “to the Right of the extreme Right”. In the U.S., Democrats,
+      such as Rep. Jason Crow, deemed it “catastrophic”. for alliances, i.e. for NATO.
+
+
+      To understand fully the panicked outcry issuing forth from Europe, a little context
+      is required:
+
+
+      Liberal-woke identity politics allowed no ‘otherness’, not difference of opinion.
+
+
+      Washington Post columnist and MSNBC contributor Jennifer Rubin (long cited by
+      the Washington Post as their ‘Republican columnist’ for ‘balance’), writing in
+      September 2022, rejected the very notion of an argument having ‘sides’ since any
+      contrary argument imputed a rationality to conservatives:
+
+
+      “We have to collectively, in essence, burn down the Republican Party. We have
+      to level them – because if there are survivors, if there are people who weather
+      this storm, they will do it again … The Kabuki dance in which Trump, his defenders
+      and his supporters are treated as rational (clever even!) comes from a media establishment
+      that refuses to discard … this false equivalence”.
+
+
+      And then-President Biden, in a speech that same month, said pretty much the same
+      as Rubin: In a set-up bathed eerily in red and black light, at the historic Independence
+      Hall, Biden unequivocally extended the threats from abroad to warn against the
+      threat of a different terror, closer to home – from “Donald Trump and the MAGA
+      Republicans”, who he said, “represent an extremism that threatens the very foundations
+      of our republic”.
+
+
+      The core precept to this apocalyptic message duly crept across the Atlantic to
+      capture and convert the Brussels’ leadership class. This should not be surprising:
+      The EU’s regulation-based internal market was precisely intended to replace all
+      political ‘contention’ with Tech-Managerialism. The Euro-élites were in desperate
+      need of a Values System to fill the EU identity lacuna. The solution, however,
+      was at hand:
+
+
+      “Appetites of the autocrat cannot be appeased. They must be opposed. Autocrats
+      only understand one word: “No.” “No.” “No.” (Applause.). “No, you will not take
+      my country.” “No, you will not take my freedom.” “No, you will not take my future
+      … A dictator bent on rebuilding an empire will never be able to ease [erase] the
+      people’s love of liberty. Brutality will never grind down the will of the free.
+      And Ukraine — Ukraine will never be a victory for Russia. Never”. (Applause)”.
+
+
+      “Stand with us. We will stand with you. Let us move forward … with an abiding
+      commitment to be allies not of darkness, but of light. Not of oppression, but
+      of liberation. Not of captivity, but, yes, of freedom”.
+
+
+      Biden’s later speech (above) in Warsaw – complete with lighting effects and a
+      dramatic backdrop reminiscent of his Liberty Hall speech – sought to portray the
+      domestic MAGA opposition as a grave security threat to America and lent on radical
+      Manicheanism to depict – this time – Russia (Russia being the external counterpoint
+      to the related U.S. MAGA threat). This was his framing to the epic battle between
+      the forces of light and of darkness that needed to be fought endlessly and won
+      crushingly.
+
+
+      Once again, Biden was trying to cement America’s deep-seated missionary ethos
+      as the ‘City on the Hill’ a beacon to the world – to a ‘forever’ cosmic war against
+      Russian ‘evil’. He hoped to tie the American ruling class to the metaphysical
+      struggle for the ‘light’.
+
+
+      David Brooks, author of Bobos in Paradise, (himself a liberal New York Times columnist),
+      admits that initially he was taken by this liberal ideology, but later admitted
+      this was a big mistake: “Whatever you want to call them [the liberals] have coalesced
+      into an insular, intermarrying Brahmin élite that dominates culture, media, education,
+      and tech”.
+
+
+      He acknowledges: “I didn’t anticipate how aggressively … we would seek to impose
+      élite values through speech and thought codes. I underestimated the way the creative
+      class would successfully raise barriers around itself to protect its economic
+      privilege … And I underestimated our intolerance of ideological diversity”.
+
+
+      Put plainly, this thought-code precisely gave the Euro-élites their shiny new
+      cult of absolute purity and stainless virtue – filling the for the EU its all
+      too evident identity-gap lacuna. It resulted in the summoning of a vanguard whose
+      proselytizing fury is to be focused on ‘the Other’.
+
+
+      Von der Leyen, in giving her ‘State of the Union’ address to the European Parliament
+      in 2022 echoed Biden almost exactly:
+
+
+      “We should not lose sight of the way foreign autocrats are targeting our own countries.
+      Foreign entities are funding institutes that undermine our values. Their disinformation
+      is spreading from the internet to the halls of our universities … These lies are
+      toxic for our democracies. Think about this: We introduced legislation to screen
+      foreign direct investment for security concerns. If we do that for our economy,
+      shouldn’t we do the same for ‘our values’? We need to better shield ourselves
+      from malign interference … We will not allow any autocracy’s Trojan horses to
+      attack ‘our democracies’ from within”.
+
+
+      Despite the cleaving together of the American ‘Bobos’ with the EU liberal warriors,
+      many around the world nonetheless were astonished at the sheer alacrity by which
+      the leadership in Brussels embraced the Biden ‘line’ advocating for a long war
+      against Russia – a compliance that appeared so clearly to run contrary to European
+      economic interests and social stability.
+
+
+      Simply put, it was a war of choice that seemed to be rooted ultimately in radical
+      Manicheanism.
+
+
+      The initial formation of NATO in 1949 was generally opposed by the European Left
+      due to its explicit anti-communist stance. However, with NATO’s bombing of Belgrade
+      in 1999, the military alliance metamorphosed for some on the broader Left (including
+      social democrats and liberals) as an instrument for liberal transmission and consolidation
+      of ‘our democracy’ (this was Biden’s language at the time).
+
+
+      The fusion of the EU leadership to NATO and with the Biden project was complete.
+      Germany’s Foreign Minister at the time Annalena Baerbock – every bit as intent
+      on “ruining Russia”as Biden – in an address in New York in August 2022, sketched
+      out a vision of a world dominated by the U.S. and Germany. In 1989, President
+      George Bush famously offered Germany a “partnership in leadership”, Baerbock claimed.
+      But at the time, Germany had been too busy with reunification to accept the offer.
+      Today, she said, things had changed fundamentally: “Now the moment has come when
+      we have to create it: A joint partnership in leadership”.
+
+
+      Harking on the ‘leadership partnership’ being understood in military terms, she
+      said:
+
+
+      “In Germany, we have abandoned the long-held German belief in ‘change through
+      trade’ … our goal is to further strengthen the European pillar of NATO… and the
+      EU must become a Union capable of dealing with the United States on an equal footing:
+      in a leadership partnership”.
+
+
+      Thus, the European élite’s outcry at the NSS’ devastating critique of Europe is
+      not just that of America very obviously turning its back on an European ruling
+      class who had dropped all to fawn on America. The NSS castigates their subversion
+      of democracy – and even questions whether they will be suitable as allies for
+      the future.
+
+
+      NATO is now declared to be “not forever”.
+
+
+      The European ruling strata now stand isolated, widely unpopular and bereft.'
+    one_sentence_summary: The recently released National Security Strategy (NSS) under
+      Trump emphasizes an "America First" approach, shifting U.S. foreign policy from
+      global hegemony to a focus on national interests and regional dominance, while
+      critiquing Europe's handling of the Ukraine conflict and calling for allies to
+      take on more responsibility, particularly regarding defense and economic stability.
+    paragraph_summary: In his analysis of the recently released National Security Strategy
+      (NSS), Alastair Crooke highlights a significant shift in U.S. foreign policy under
+      the Trump administration, moving away from global hegemony towards a more pragmatic,
+      America First approach that prioritizes national interests and regional dominance
+      in the Western Hemisphere. The NSS critiques past U.S. efforts for global primacy
+      as failures and redefines threats, notably downgrading China from a primary threat
+      to an economic competitor, while emphasizing the need for a ceasefire in Ukraine
+      rather than a comprehensive settlement with Russia. The document positions Europe
+      as responsible for its own defense and critiques its political and economic stagnation,
+      suggesting that the U.S. will no longer shoulder the burden of global security.
+      This shift has provoked alarm among European leaders, who perceive it as a rejection
+      of their alignment with U.S. values and interests, raising concerns about the
+      future of NATO and transatlantic relations. Overall, the NSS reflects a strategic
+      pivot that challenges the existing European elite's approach and questions their
+      reliability as allies.
+    published: '2025-12-12T02:45:58+00:00'
   - title: 'Bait And Switch Stage Two: Shooting The Breeze In Moscow – OpEd'
     url: https://www.eurasiareview.com/09122025-bait-and-switch-stage-two-shooting-the-breeze-in-moscow-oped/
     text: 'By Alastair Crooke

@@ -7,16 +7,1758 @@ description: "Former CIA analyst & State Dept counterterrorism official; runs So
 websites:
   - https://sonar21.com
 summary: |
-  The geopolitical landscape remains volatile as covert operations, shifting U.S. policy, and contested narratives continue to shape events in Eastern Europe and the Middle East. The latest reports provide new details on Western intelligence involvement in Ukraine’s military efforts, the evolving U.S. stance on Iran, and the broader implications for global alliances.
+  The past 24 hours have seen renewed scrutiny of Western diplomatic efforts and internal European Union dynamics, particularly in relation to the ongoing crises in Ukraine and Gaza. The latest developments highlight persistent challenges in multilateral diplomacy and growing fractures within the EU over its approach to information control and sanctions.
   
-  A major revelation centers on Ukraine’s Operation Spiderweb, an 18-month covert campaign reportedly supported by Western intelligence agencies. According to **Larry C. Johnson**, the operation culminated in a June 2025 attack on Russia but ultimately failed to disrupt Russian military operations, despite being publicly framed as a success. Johnson notes, “The Western media’s portrayal of Spiderweb as a turning point is misleading; the operation did not achieve its strategic objectives and Russia’s military momentum remains largely unaffected.” This assessment challenges the prevailing narrative and underscores the limits of clandestine actions in altering the course of the conflict.
+  Most recently, **Larry C. Johnson** critiques the outcome of the Trump administration’s Sharm el-Sheikh Peace Summit, noting that despite the involvement of numerous countries and the partial release of hostages, the summit failed to generate meaningful progress toward resolving the Gaza conflict. Johnson argues that the absence of direct, substantive dialogue between key parties undermined the summit’s effectiveness, stating, “If you’re talking to yourself, it ain’t a conversation.” This underscores the limitations of high-profile diplomatic gatherings that lack genuine engagement from all stakeholders.
   
-  On the diplomatic front, the recently released 2025 U.S. National Security Strategy signals a rhetorical shift towards non-interventionism, particularly regarding Iran. However, **Larry C. Johnson** argues that this change is largely superficial: “While the document acknowledges past interventionist failures, there is little evidence of substantive change in U.S. diplomatic posture towards Iran.” The strategy’s emphasis on “America First” and pragmatic realism appears to be more about optics than a genuine policy overhaul, with the U.S. maintaining its cautious stance in the region.
+  Meanwhile, tensions within the European Union have escalated following the bloc’s decision to impose sanctions on individuals accused of disseminating pro-Russian narratives about Ukraine. Johnson points to the case of Colonel Jacques Baud, arguing that the EU’s actions reflect a “disconnect from reality and an abuse of power.” This move is seen as symptomatic of a broader trend in which the EU is increasingly resorting to censorship and punitive measures to maintain its narrative cohesion, raising questions about the bloc’s internal stability and legitimacy.
   
-  Looking at the broader trends, the majority of analysts agree that Russia’s operational effectiveness in Ukraine remains robust, and Western efforts—both overt and covert—have yet to significantly alter the battlefield dynamics. The U.S. is recalibrating its public messaging but not its underlying strategic commitments. As for predictions, **Larry C. Johnson** expresses high confidence that “Russia will continue to consolidate its gains in Ukraine, and the U.S. will maintain a cautious, largely rhetorical shift in its Middle East policy without major changes on the ground.”
+  Looking at broader geopolitical trends, Johnson’s recent analysis suggests that the EU’s current trajectory—marked by aggressive sanctions and information control—may further alienate member states and citizens, potentially fueling calls for structural reform or even dissolution. He maintains that, “there is a high chance” these internal divisions will deepen if the EU continues on its present course.
   
-  In summary, while new covert operations and policy documents attract headlines, the underlying power dynamics and strategic trajectories remain largely unchanged. The coming weeks are likely to see continued Russian advances in Ukraine and a steady, if superficial, evolution in U.S. foreign policy rhetoric.
+  In summary, the latest reports indicate that Western diplomatic initiatives are struggling to produce tangible results in conflict zones, while internal discord within the EU is intensifying over its approach to dissent and information management. The prevailing trend points toward increased polarization both within and between Western institutions. If these patterns persist, it is quite likely that the effectiveness of Western-led diplomatic and political frameworks will continue to erode in the coming months.
 articles:
+  - title: If You’re Talking to Yourself, It Ain’t a Conversation… Trump’s Failed Diplomacy
+      in Ukraine
+    url: https://sonar21.com/if-youre-talking-to-yourself-it-aint-a-conversation-trumps-failed-diplomacy-in-ukraine/
+    text: 'Witkoff, Kushner Meet Zelensky and the Europeans When it comes to using diplomacy
+      and negotiations to end a war, it is essential that both parties to the conflict
+      communicate directly… Using intermediaries is usually a recipe for failure. Remember
+      Trump’s Sharm el-Shiekh Peace Summit? The Sharm el-Sheikh spectacle (also called
+      the Gaza Peace Summit or International Peace Summit) was co-chaired by President
+      Donald Trump and Egyptian President Abdel Fattah el-Sisi. It gathered representatives
+      from around 30 countries to endorse and celebrate what the media and Trump described
+      as a US-brokered ceasefire agreement ending the Gaza war. However, neither Israeli
+      nor Palestinian officials attended and, instead of bringing an end to the murder
+      of Palestinians, the agreement just slowed down the pace of killing. The deal
+      did result in the release of hostages held by Hamas and Israel, but it did not
+      secure a viable path forward for a Palestinian state. Now Trump is trying to perform
+      this legerdemain on the Russians and the Ukrainians. But instead of getting the
+      two foes together in the same room to hammer out a deal, the Trump team are engaged
+      in a bizarre form of shuttle diplomacy. Yves Smith, founder of Naked Capitalism
+      , astutely and accurately describes Trump’s effort to get a deal with Russia and
+      Ukraine, by sending his envoys to meet with Ukraine’s Zelensky and his European
+      backers with no Russians present, as delusional, self-referential exercises that
+      ignore Russia’s battlefield dominance and maximalist positions. In the latest
+      round of feckless activity, German Chancellor Friedrich Merz hosted a negotiating
+      session in Berlin, which started on 14 December, that involved Ukrainian President
+      Volodymyr Zelenskyy, US envoys Steve Witkoff (Trump’s special envoy) and Jared
+      Kushner, and European leaders from the UK, France, Italy, and others, plus NATO
+      and EU representatives. In theory, the meetings were supposed to flesh out the
+      details of  a US-backed peace proposal to end Russia’s war in Ukraine. The meetings
+      continued through the evening of 15 December and reportedly involved intensive
+      US-Ukraine negotiations over a revised peace plan. Ukraine reportedly offered
+      to drop NATO membership aspirations in exchange for robust security guarantees.
+      Although US officials reported “significant progress” (resolving ~90% of issues),
+      including “Article 5-like” protections without US troops on the ground, Zelensky
+      made it clear in subsequent public comments that Ukraine would not yield one inch
+      of Ukrainian territory to Russia. Prospects for a viable proposal that might be
+      acceptable to Russia vanished on the evening of 15 December when belligerent European
+      leaders  endorsed a “multinational force” (European-led peacekeeping), legally
+      binding commitments to defend Ukraine against future attacks, intelligence/logistical
+      support, and economic recovery aid (potentially using frozen Russian assets).
+      These are deal-killers as far as Russia is concerned. Although Zelensky described
+      talks as “productive,” with documents on security, ceasefire monitoring, and reconstruction
+      nearing finalization — potentially ready for presentation to Russia within days
+      — this Berlin affair was just another case of the US, Ukraine and Europe talking
+      to themselves. If it is ever presented to the Russians, the proposal crafted by
+      Zelensky and his European enablers is dead-on-arrival . Russia’s terms are firm
+      and unyielding: All Ukrainian troops must withdraw from Kherson, Zaporizhzhia,
+      Donetsk and Luhansk; No NATO for Ukraine; and new elections in Ukraine. If Russia
+      wants a genuine peace agreement with the West — especially with the US — it should
+      insist on a treaty that is ratified by the US Senate… Otherwise, the deal will
+      carry no weight with the US politicians who remain convinced that Russia is an
+      implacable enemy. I interviewed Danny Davis last week for my Counter Currents
+      channel… I think you’ll find it quite enlightening: I also spoke today with my
+      friends, Hakan Bergman of Sweden, and Marcello, the Brazilian living in Italy:
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article discusses the importance of direct communication
+      in diplomacy, using the example of Trump's Sharm el-Sheikh Peace Summit, which
+      failed to effectively address the Gaza conflict despite involving numerous countries
+      and resulting in some hostages' release.
+    paragraph_summary: the ongoing conflict between Russia and Ukraine. However, the
+      absence of direct communication with Russian officials raises concerns about the
+      effectiveness of these negotiations, echoing past failures such as the Sharm el-Sheikh
+      Peace Summit. Critics, including Yves Smith, argue that the approach taken by
+      Trump’s envoys, which involves shuttle diplomacy without engaging the opposing
+      party, is misguided and overlooks the realities of the conflict, particularly
+      Russia's strong position on the battlefield. The recent meeting in Berlin, which
+      included key European leaders and Ukrainian President Volodymyr Zelenskyy, aimed
+      to develop a US-backed peace proposal but risks being another ineffective attempt
+      at diplomacy if it does not include direct talks with Russia.
+    published: '2025-12-17T03:47:05+00:00'
+  - title: If You’re Talking to Yourself, It Ain’t a Conversation… Trump’s Failed Diplomacy
+      in Ukraine
+    url: https://sonar21.com/if-youre-talking-to-yourself-it-aint-a-conversation-trumps-failed-diplomacy-in-ukraine/
+    text: 'Witkoff, Kushner Meet Zelensky and the Europeans When it comes to using diplomacy
+      and negotiations to end a war, it is essential that both parties to the conflict
+      communicate directly… Using intermediaries is usually a recipe for failure. Remember
+      Trump’s Sharm el-Shiekh Peace Summit? The Sharm el-Sheikh spectacle (also called
+      the Gaza Peace Summit or International Peace Summit) was co-chaired by President
+      Donald Trump and Egyptian President Abdel Fattah el-Sisi. It gathered representatives
+      from around 30 countries to endorse and celebrate what the media and Trump described
+      as a US-brokered ceasefire agreement ending the Gaza war. However, neither Israeli
+      nor Palestinian officials attended and, instead of bringing an end to the murder
+      of Palestinians, the agreement just slowed down the pace of killing. The deal
+      did result in the release of hostages held by Hamas and Israel, but it did not
+      secure a viable path forward for a Palestinian state. Now Trump is trying to perform
+      this legerdemain on the Russians and the Ukrainians. But instead of getting the
+      two foes together in the same room to hammer out a deal, the Trump team are engaged
+      in a bizarre form of shuttle diplomacy. Yves Smith, founder of Naked Capitalism
+      , astutely and accurately describes Trump’s effort to get a deal with Russia and
+      Ukraine, by sending his envoys to meet with Ukraine’s Zelensky and his European
+      backers with no Russians present, as delusional, self-referential exercises that
+      ignore Russia’s battlefield dominance and maximalist positions. In the latest
+      round of feckless activity, German Chancellor Friedrich Merz hosted a negotiating
+      session in Berlin, which started on 14 December, that involved Ukrainian President
+      Volodymyr Zelenskyy, US envoys Steve Witkoff (Trump’s special envoy) and Jared
+      Kushner, and European leaders from the UK, France, Italy, and others, plus NATO
+      and EU representatives. In theory, the meetings were supposed to flesh out the
+      details of  a US-backed peace proposal to end Russia’s war in Ukraine. The meetings
+      continued through the evening of 15 December and reportedly involved intensive
+      US-Ukraine negotiations over a revised peace plan. Ukraine reportedly offered
+      to drop NATO membership aspirations in exchange for robust security guarantees.
+      Although US officials reported “significant progress” (resolving ~90% of issues),
+      including “Article 5-like” protections without US troops on the ground, Zelensky
+      made it clear in subsequent public comments that Ukraine would not yield one inch
+      of Ukrainian territory to Russia. Prospects for a viable proposal that might be
+      acceptable to Russia vanished on the evening of 15 December when belligerent European
+      leaders  endorsed a “multinational force” (European-led peacekeeping), legally
+      binding commitments to defend Ukraine against future attacks, intelligence/logistical
+      support, and economic recovery aid (potentially using frozen Russian assets).
+      These are deal-killers as far as Russia is concerned. Although Zelensky described
+      talks as “productive,” with documents on security, ceasefire monitoring, and reconstruction
+      nearing finalization — potentially ready for presentation to Russia within days
+      — this Berlin affair was just another case of the US, Ukraine and Europe talking
+      to themselves. If it is ever presented to the Russians, the proposal crafted by
+      Zelensky and his European enablers is dead-on-arrival . Russia’s terms are firm
+      and unyielding: All Ukrainian troops must withdraw from Kherson, Zaporizhzhia,
+      Donetsk and Luhansk; No NATO for Ukraine; and new elections in Ukraine. If Russia
+      wants a genuine peace agreement with the West — especially with the US — it should
+      insist on a treaty that is ratified by the US Senate… Otherwise, the deal will
+      carry no weight with the US politicians who remain convinced that Russia is an
+      implacable enemy. I interviewed Danny Davis last week for my Counter Currents
+      channel… I think you’ll find it quite enlightening: I also spoke today with my
+      friends, Hakan Bergman of Sweden, and Marcello, the Brazilian living in Italy:
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article discusses the importance of direct communication
+      in diplomacy, using the example of Trump's Sharm el-Sheikh Peace Summit, which
+      failed to effectively address the Gaza conflict despite involving numerous countries
+      and resulting in some hostages' release.
+    paragraph_summary: the ongoing conflict between Russia and Ukraine. However, the
+      absence of direct communication with Russian officials raises concerns about the
+      effectiveness of these negotiations, echoing past failures such as the Sharm el-Sheikh
+      Peace Summit. Critics, including Yves Smith, argue that the approach taken by
+      Trump’s envoys, which involves shuttle diplomacy without engaging the opposing
+      party, is misguided and overlooks the realities of the conflict, particularly
+      Russia's strong position on the battlefield. The recent meeting in Berlin, which
+      included key European leaders and Ukrainian President Volodymyr Zelenskyy, aimed
+      to develop a US-backed peace proposal but risks being another ineffective attempt
+      at diplomacy if it does not include direct talks with Russia.
+    published: '2025-12-17T03:47:05+00:00'
+  - title: It is Time to Dissolve the European Union!
+    url: https://sonar21.com/it-is-time-to-dissolve-the-european-union/
+    text: 'eurofascism The European Union is out of control and out of touch with reality.
+      They announced a new round of sanctions on individuals and groups who refuse to
+      drink the EU kool-aid on Ukriane. I was particularly shocked and angered by their
+      decision to punish Colonel Jacques Baud: Jacques Baud, a former Swiss army colonel
+      and strategic analyst, is a regular guest on pro-Russian television and radio
+      programmes. He acts as a mouthpiece for pro-Russian propaganda and makes conspiracy
+      theories, for example accusing Ukraine of orchestrating its own invasion in order
+      to join NATO. Therefore, Jacques Baud is responsible for, implementing or supporting
+      actions or policies attributable to the Government of the Russian Federation which
+      undermine or threaten stability or security in a third country (Ukraine) by engaging
+      in the use of information manipulation and interference.” You know it is a serious
+      matter of egregious abuse of power when Dr. Gilbert Doctorow and I are in firm
+      agreement… Here is part of a message Gil sent to Judge Nap and several of us who
+      regularly appear on the Judge’s podcast: An hour ago one of my subscribers sent
+      me notification that the EU has just put Jacques Baud on its sanction list along
+      with traders in Russian oil!  Baud is nailed for ‘disseminating false information’
+      about the Kiev regime.  Below I have a quote from Radio Free Europe’s website
+      today. The sanctions mean that Baud, who is Swiss, may not receive a visa to enter
+      the EU.  And more. The sanctions now imposed on Baud can with the same justification
+      be applied to any and all persons hosting and/or appearing on Judging Freedom
+      as well as on most Alternative Media. This has to be brought to the attention
+      of J.D. Vance and Elon Musk – it is grist for the mills of those who rightly say
+      that the European Union should br dissolved since it has become a War Project
+      and is practicing vicious censorship inside and outside its borders. I share Gil’s
+      outrage. Colonel Baud is a scholar and a gentleman. Telling the truth about the
+      neo-Nazis who infest the Government of Ukraine is not a crime… It is the duty
+      of every person committed to truth. The lilliputian cretins that serve in leadership
+      positions in the EU are nothing more than neo-fascist authoritarians who project
+      onto Russia their own malevolent intent. It is up to the people of the countries
+      that are members of the European Union to remove these clowns and reaffirm the
+      right of free expression. Speaking of cretins, Donald Trump disgraced himself
+      and the Office of the Presidency with his Truth Social post reacting to the murder
+      of Rob Reiner and his wife. What a pathetic narcissist: “Passed away . . . reportedly
+      due to the anger he cause others?” Good Lord in Heaven! Rob and his wife, Michele,
+      were murdered allegedly by their own son. They were slashed and stabbed with a
+      knife wielded by their drug addicted son. For me, this is just one more piece
+      of evidence of Trump’s mental impairment. If Trump and his team had just a sliver
+      of political sense his Truth Social post should have used this awful tragedy to
+      highlight the scourge of illegal drugs in America and the terrible cost that those
+      narcotics inflict on the lives of Americans. Instead, he made it all about him
+      and his butt-hurt over Reiner’s past criticisms of him. With this Truth Social
+      post, Trump solidified his reputation as a thin-skinned, heartless bully. I fully
+      regret voting for him. I had a busy Monday with interviews… I started the day,
+      as usual, with Nima; followed by Judge Napolitano; and closing out with Rasheed
+      Muhammad: I thank you for your invaluable support by taking time to read or comment.
+      I do not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article criticizes the European Union's decision to impose
+      sanctions on individuals like Colonel Jacques Baud for promoting pro-Russian propaganda
+      regarding Ukraine, arguing that this reflects the EU's disconnect from reality
+      and an abuse of power.
+    paragraph_summary: The article criticizes the European Union for imposing sanctions
+      on individuals, particularly Colonel Jacques Baud, for allegedly spreading pro-Russian
+      propaganda regarding Ukraine. Baud, a former Swiss army colonel, has been accused
+      of disseminating false information that undermines the stability of Ukraine, leading
+      to his inclusion on the EU's sanctions list, which restricts his ability to enter
+      EU countries. The author expresses outrage at this decision, viewing it as an
+      abuse of power and a form of censorship that could extend to others in alternative
+      media. The piece calls for attention to this issue, suggesting that it exemplifies
+      the EU's overreach and alignment with war efforts, fueling arguments for its dissolution.
+    published: '2025-12-16T03:20:13+00:00'
+  - title: It is Time to Dissolve the European Union!
+    url: https://sonar21.com/it-is-time-to-dissolve-the-european-union/
+    text: 'eurofascism The European Union is out of control and out of touch with reality.
+      They announced a new round of sanctions on individuals and groups who refuse to
+      drink the EU kool-aid on Ukriane. I was particularly shocked and angered by their
+      decision to punish Colonel Jacques Baud: Jacques Baud, a former Swiss army colonel
+      and strategic analyst, is a regular guest on pro-Russian television and radio
+      programmes. He acts as a mouthpiece for pro-Russian propaganda and makes conspiracy
+      theories, for example accusing Ukraine of orchestrating its own invasion in order
+      to join NATO. Therefore, Jacques Baud is responsible for, implementing or supporting
+      actions or policies attributable to the Government of the Russian Federation which
+      undermine or threaten stability or security in a third country (Ukraine) by engaging
+      in the use of information manipulation and interference.” You know it is a serious
+      matter of egregious abuse of power when Dr. Gilbert Doctorow and I are in firm
+      agreement… Here is part of a message Gil sent to Judge Nap and several of us who
+      regularly appear on the Judge’s podcast: An hour ago one of my subscribers sent
+      me notification that the EU has just put Jacques Baud on its sanction list along
+      with traders in Russian oil!  Baud is nailed for ‘disseminating false information’
+      about the Kiev regime.  Below I have a quote from Radio Free Europe’s website
+      today. The sanctions mean that Baud, who is Swiss, may not receive a visa to enter
+      the EU.  And more. The sanctions now imposed on Baud can with the same justification
+      be applied to any and all persons hosting and/or appearing on Judging Freedom
+      as well as on most Alternative Media. This has to be brought to the attention
+      of J.D. Vance and Elon Musk – it is grist for the mills of those who rightly say
+      that the European Union should br dissolved since it has become a War Project
+      and is practicing vicious censorship inside and outside its borders. I share Gil’s
+      outrage. Colonel Baud is a scholar and a gentleman. Telling the truth about the
+      neo-Nazis who infest the Government of Ukraine is not a crime… It is the duty
+      of every person committed to truth. The lilliputian cretins that serve in leadership
+      positions in the EU are nothing more than neo-fascist authoritarians who project
+      onto Russia their own malevolent intent. It is up to the people of the countries
+      that are members of the European Union to remove these clowns and reaffirm the
+      right of free expression. Speaking of cretins, Donald Trump disgraced himself
+      and the Office of the Presidency with his Truth Social post reacting to the murder
+      of Rob Reiner and his wife. What a pathetic narcissist: “Passed away . . . reportedly
+      due to the anger he cause others?” Good Lord in Heaven! Rob and his wife, Michele,
+      were murdered allegedly by their own son. They were slashed and stabbed with a
+      knife wielded by their drug addicted son. For me, this is just one more piece
+      of evidence of Trump’s mental impairment. If Trump and his team had just a sliver
+      of political sense his Truth Social post should have used this awful tragedy to
+      highlight the scourge of illegal drugs in America and the terrible cost that those
+      narcotics inflict on the lives of Americans. Instead, he made it all about him
+      and his butt-hurt over Reiner’s past criticisms of him. With this Truth Social
+      post, Trump solidified his reputation as a thin-skinned, heartless bully. I fully
+      regret voting for him. I had a busy Monday with interviews… I started the day,
+      as usual, with Nima; followed by Judge Napolitano; and closing out with Rasheed
+      Muhammad: I thank you for your invaluable support by taking time to read or comment.
+      I do not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article criticizes the European Union's decision to impose
+      sanctions on individuals like Colonel Jacques Baud for promoting pro-Russian propaganda
+      regarding Ukraine, arguing that this reflects the EU's disconnect from reality
+      and an abuse of power.
+    paragraph_summary: The article criticizes the European Union for imposing sanctions
+      on individuals, particularly Colonel Jacques Baud, for allegedly spreading pro-Russian
+      propaganda regarding Ukraine. Baud, a former Swiss army colonel, has been accused
+      of disseminating false information that undermines the stability of Ukraine, leading
+      to his inclusion on the EU's sanctions list, which restricts his ability to enter
+      EU countries. The author expresses outrage at this decision, viewing it as an
+      abuse of power and a form of censorship that could extend to others in alternative
+      media. The piece calls for attention to this issue, suggesting that it exemplifies
+      the EU's overreach and alignment with war efforts, fueling arguments for its dissolution.
+    published: '2025-12-16T03:20:13+00:00'
+  - title: How Resilient is BRICS in the Storm of Geopolitics? – Part 4
+    url: https://sonar21.com/how-resilient-is-brics-in-the-storm-of-geopolitics-part-4/
+    text: 'BRICS is a formidable power factor whose members, partners, and candidates
+      are currently undergoing a severe test. In today’s final installment, we look
+      to the future and draw our conclusions. By Peter Hanseler and René Zittlau via
+      ForumGeopolitica Introduction In the first part of this series, we looked at the
+      facts about BRICS and the major economic trends that can currently be observed.
+      The second part dealt with the environment in which BRICS must develop as the
+      most important organization of the Global South. We assessed the warlike circumstances
+      in general, the great danger that would arise from a nuclear war, and the unpredictability
+      of the geopolitical situation, which leads us to describe the current situation
+      as a “storm.” The third part looked at the aggressive attitude of the US toward
+      its friends and pointed to the economic situation in the US, obvious, deliberately
+      provoked misdevelopments (AI), and we began to describe the influence of the US
+      in the individual catchment areas. In today’s fourth part, we will conclude this
+      description of influence and briefly discuss the White House’s “new” National
+      Security Strategy, which is not new at all. Catchment Area China The challenges
+      in China’s immediate environment are geographically different from those facing
+      Russia. China is separated from US threats by water—there are no land bridges
+      between US allies and China. Nevertheless, the threatening gestures toward China
+      posed by military bases in Japan, South Korea, the Philippines, and, not least,
+      Guam are considerable. Despite this enormous effort to maintain its military bases,
+      the US would not be able to wage war against China in accordance with its military
+      doctrine—the distances to the mainland are far too great, making it impossible
+      to guarantee sustainable logistics. US military doctrine calls for the enemy to
+      be largely destroyed from the air and only then to engage in small-scale battles
+      on land, if at all. In anticipation of possible military conflicts with the West
+      in the broadest sense, China felt compelled to build up an intimidating military
+      power. From a military perspective, China is now a fully-fledged land power, with
+      the second-largest naval forces in terms of numbers, a superior arsenal of all
+      types of state-of-the-art missiles, and, not to be forgotten, a respectable and
+      growing nuclear arsenal. From an American perspective, these are not favorable
+      conditions for a possible military conflict with the Middle Kingdom. In addition,
+      the countries that host major US military bases (Japan, South Korea, and the Philippines)
+      have no interest whatsoever in being drawn into a conflict with China by the US,
+      as economic ties with China are of existential importance to these three countries.
+      As the following graph clearly shows, it is not only in Asia that virtually nothing
+      works economically without China. China’s economic supremacy has now reached global
+      proportions and is having a disciplining effect. Economic success is not just
+      on paper; it is visible and tangible to anyone visiting China. In addition, countries
+      such as Malaysia and Singapore are strongly influenced by Chinese culture. There
+      are also significant Chinese minorities in other Asian countries. The significantly
+      greater interest in Asian countries as a whole in a peaceful, expandable, mutually
+      beneficial relationship with China than in military adventures is therefore, among
+      other things, a matter of common sense. Nevertheless, the US is trying by all
+      means to exert pressure on China, its environment and thus on BRICS. However,
+      the mentalities of Asian countries stand in the way of the US’s efforts. While
+      the US has succeeded over time in bringing an elite loyal to its own interests
+      to power in Europe, things work differently in Asia. There are only two countries
+      in China’s immediate vicinity that have entered into military alliances with the
+      US – Japan and South Korea, and the Chinese province of Taiwan. The first two
+      are official alliances. Taiwan, on the other hand, is being armed by the US as
+      a battering ram that can be used against China at will. As is so often the case,
+      the US is breaking its international commitments in order to gain unilateral advantages
+      for itself. The US is still bound by international law to the One China policy,
+      which states that Taiwan is an integral part of China. This is also reflected
+      in the fact that there is only one seat for China and Taiwan in the UN. And that
+      seat was transferred from Taiwan to China in the early 1970s precisely because
+      of the US’s recognition of the One China policy. Consequently, the US does not
+      have an embassy in Taiwan. The US is finding it increasingly difficult to rally
+      countries in Asia against China. As in the case of Russia, the US is keen to send
+      others into the fray and position itself in a dignified manner as an arms supplier,
+      whip-cracker and, if necessary, later ‘peacemaker’. The growing recognition of
+      China as the real economic giant and the enormous economic importance of Southeast
+      Asia as a whole is reflected in the Asian member and candidate list of the BRICS.
+      Among the members, we see four Asian countries, or five if we include the UAE
+      in West Asia. Economically, they represent the core of the BRICS’ power. Among
+      the candidates, there are another five countries, some of which are very powerful
+      economically. We would like to briefly discuss a few of them here, in line with
+      our itinerary around Eurasia. Indonesia/Malaysia BRICS member Indonesia is one
+      of the largest economies in Southeast Asia and ranks 16th in the world. By far
+      its most important economic partner is China. The country’s geographical location
+      on the southern side of the world’s most important strait, the Strait of Malacca,
+      also gives it strategic importance. Incidentally, Malaysia, a candidate for BRICS
+      membership, lies on the northern side. Southeast Asia is a good example of the
+      changes that have taken place in the world over the decades. Malaysia only gained
+      independence in 1963. It was formed from parts of the British colonial empire.
+      Indonesia, the world’s largest island nation in terms of area, belonged to the
+      Dutch colonial empire until 1949. Today, both countries are rapidly growing economies
+      and, in their own way, examples of the world’s diversification toward a multipolar
+      structure, which seems more suitable for solving the world’s problems in a more
+      balanced way. Together with Malaysia, which recently became a partner of BRICS
+      and will likely soon become a member, Indonesia controls the Strait of Malacca.
+      This strait connects the Indian Ocean with the Pacific. 30% of all global trade
+      goods pass through this waterway. This means that BRICS indirectly controls the
+      world’s largest trade route. I don’t know how long we will have to wait before
+      the US stirs up unrest in these countries in order to destabilize them. The first
+      step will probably be to activate NGOs.Indien India Without India, BRICS would
+      not be BRICS. Many people underestimate this former jewel in the crown of the
+      British Empire . India, with all its problems, is in its own way a country of
+      superlatives. Located on a subcontinent, it now has the largest population, with
+      approximately 1.5 billion people, ahead of China. India proudly calls itself the
+      world’s largest democracy. It is also likely to be the country with the greatest
+      ethnic diversity, which makes the creation of functioning democratic structures
+      all the more impressive in view of the developments that are emerging and observable
+      in Europe, for example. Politically, it is going its own way, as demonstrated
+      in recent months by the fact that, despite all its enticements, the US has not
+      succeeded in undermining India’s ties to the BRICS group. The recent visit of
+      Russian President Vladimir Putin to Delhi was celebrated by India in a manner
+      that went well beyond the fulfillment of protocol obligations. This was a clear
+      signal to the world that India is a close friend of Russia and thus also a reliable
+      partner of BRICS. China and Russia are closely intertwined, as they are also neighbors
+      with a shared border that is too long to guard. Despite huge differences in mentality,
+      both parties strive for ever closer cooperation between their two peoples. Russia
+      also has excellent relations with India, as demonstrated by the warm interaction
+      between Putin and Modi during Putin’s visit. The Russians greatly appreciate the
+      fact that the Indians have stood up to pressure from Washington and Brussels with
+      a smile. Secondary sanctions imposed by the US and the EU on the Indian oil industry
+      are officially observed in part, but are cleverly and efficiently circumvented
+      by shadow structures, rendering them ineffective. Loyalty is practiced and has
+      a much higher value in Russia than in the degenerate West. There are still considerable
+      differences between India and China, which are being kept alive by the US – and
+      with good reason, because due to the stupid foreign policy of the Collective West,
+      the West has already lost Russia, which wanted to move closer to Western Europe,
+      to China. If Russia mediates wisely between China and India and the two giants
+      allow this and work closely together in the medium term, a power center would
+      emerge in Asia that the West would be unable to counter. The Americans will try
+      everything to prevent this. This raises the question of what the US can still
+      offer India that is more valuable than the Chinese’s gigantic production machinery
+      and the Russians’ raw materials and loyalty. In the medium term, India will play
+      an increasingly important role in the geopolitical game. Iran The great unknown
+      among the well-known BRICS countries is certainly Iran for Western readers. The
+      country’s democratic development began with the election of Mohammad Mossadegh
+      in 1951 and was put to an end by the US and Great Britain in 1953. The country’s
+      wealth of oil and gas and its geostrategic location proved to be its undoing.
+      In 1979, the country got rid of the Shah and thus of British and, above all, American
+      rule. The Islamic Revolution may seem strange to European eyes, but it can only
+      be understood in the context of the country’s history. The same applies to the
+      subsequent and ongoing attempts (e.g., the Iran-Iraq War orchestrated by the US
+      in the 1980s) by the West as a whole, but above all by the US and Great Britain,
+      to strangle the country economically, militarily, and thus politically in order
+      to gain control of its natural resources. The extreme sanctions imposed on Iran
+      forced it to build up an industry with an enormous vertical range of manufacture,
+      which was very expensive but without alternative. It was the only way to supply
+      the country with essential goods, independent of Western goodwill. The creation
+      of the BRICS, the consequences of the war in Ukraine, and the global political
+      changes that began with and were linked to both events became a way out of isolation
+      for Iran. The West imposed massive sanctions on buyers of Iranian goods, only
+      to find that this served to strengthen the ties within the BRICS and thus Iran’s
+      position in the group of states. The attack by Israel and the US on Iran in June
+      2025, which we reported on in “ Findings on an Illegal War that the West Enthusiastically
+      Waged and Lost ,” led to a similar result. Whereas Iran had previously been keen
+      to act largely independently in military terms, the war, which violated every
+      rule of international law, led to a whole new level of military cooperation between
+      Iran and China and Russia. Today, Iran speaks openly of a strategic partnership
+      with Russia on a previously unknown level. Due to Iran’s considerable military
+      strength, which is based, among other things, on missile technology that far exceeds
+      that of the US and Israel, Israel and the US have refrained from further attacks
+      against Iran since this summer. Another reason for this is probably that no one
+      knows what weapons systems Russia and China have supplied to Iran since the summer,
+      making an attack an incalculable risk. Venezuela What was difficult to imagine
+      just a few years ago is now reality: in the backyard of the US, there are countries
+      that not only oppose the hegemon behind closed doors, but are also visibly seeking
+      their own independent path for the whole world to see. In addition to Brazil,
+      a founding member of BRICS, Venezuela is particularly noteworthy here, as it is
+      positioning itself as a candidate country for BRICS. This country, with the richest
+      proven oil reserves in the world, has long been on the US’s menu. With the current
+      threats of some kind of military strike against the country, combined with the
+      sinking of its civilian boats, the demonstrative murder of their crews, and the
+      capture of oil tankers off the coast of Venezuela , the Trump-2 administration
+      is merely continuing the policies of Trump-1. And this, too, was merely a continuation
+      of the extremely hostile US policy that has been in place since Hugo Chavez was
+      elected president in 1998. Democratically elected, the Chavez government dared
+      to do the same thing that Mohammad Mossadegh did in Iran from 1951 to 1953: nationalize
+      the country’s oil wealth in accordance with the law. In 2002, the US attempted
+      for the first time to turn back the clock, as it had done in Iran in 1953 with
+      a pro-American coup. It failed, prompting the US to resort to sanctions. Hugo
+      Chavez was later succeeded by Nicolas Maduro. The policy did not change, despite
+      all the sanctions. The economy was repeatedly on the brink of collapse, yet the
+      country stuck to its policy. Then, in 2019, during Trump’s first term, there was
+      an international showdown between Venezuela and the West as a whole, starting
+      with the presidential elections. The West backed Juan Gaido, but the Venezuelan
+      authorities declared Nicolas Maduro the winner. The West blocked the country’s
+      gold reserves in London – similarities in the behavior of the EU and the UK regarding
+      Russian gold and foreign exchange reserves in Western Europe are not purely coincidental
+      – and made them accessible to Guaido. Maduro remained. This was followed by a
+      diplomatic blockade of the country by the West. Without success. The penultimate
+      act so far was the organization of the awarding of the “Nobel Peace Prize” to
+      Venezuelan writer Maria Corina Machado, who – newly crowned – declared that her
+      first act as president would be to move the country’s embassy in Israel from Tel
+      Aviv to Jerusalem. Israel celebrated her for this. Netanyahu repeatedly expressed
+      his support for her Gaza policy, i.e., genocide. Later, she also declared her
+      support for US President Trump in the event of a bombing of her own country with
+      the aim of overthrowing President Maduro. The fact that China and Russia support
+      Venezuela in its quest for an autonomous, independent policy makes the situation
+      all the more difficult for the US. China has already invested $62 billion in the
+      country – primarily in the oil sector – more than in any other country in the
+      region. Russia, for its part, supports Caracas in the military sphere. The world
+      is now waiting to see what US President Trump decides. Open military intervention
+      in Venezuela, a large country that is geographically difficult to control, in
+      order to divert attention from problems elsewhere and gain violent access to resources,
+      is likely to end for the US in a similar way to Vietnam, Afghanistan, or Iraq.
+      Backing down after weeks of sabre-rattling would not go down well, especially
+      with Trump’s sponsors. As elsewhere, the US has unnecessarily maneuvered itself
+      into a difficult political situation. In this context, American journalist Max
+      Blumenthal spoke of a “predictable disaster” in a highly recommended interview
+      . This concludes our short trip around the core countries of the BRICS, which
+      is essentially a short trip around the “Heartland.” BRICS is the “Heartland” of
+      Mackinder As is well known, over 100 years ago, British geologist and politician
+      Halford Mackinder described the “heartland” as the region of the earth whose control
+      enables domination of global developments as a whole. He postulated that the “heartland”
+      was the core region of the Eurasian landmass. The power politics of the British
+      Empire and later of the West as a bloc were based on this politician’s strategic
+      ideas. We refer to our article “ Anglo-Saxon geopolitical strategy – unchanged
+      for 120 years .” Graphically, this theory can be represented as follows: Looking
+      at the geographical spread of BRICS in what Mackinder considered to be the most
+      politically decisive region of the world, the following picture emerges: De facto,
+      all countries in the heartland region have decided to join forces within the framework
+      of BRICS. The two large white spots on the map do not change this. One spot shows
+      Kazakhstan, a BRICS candidate country and close ally of both Russia and China;
+      the other large spot between Russia and China is Mongolia. Mongolia is one of
+      the few countries in the world that strictly aligns its policies with the principles
+      of neutrality, in accordance with its own views, sovereign rights, and national
+      interests. These are principles that the two BRICS giants, Russia and China, cannot
+      live with. These principles are part of the policies practiced within the framework
+      of BRICS. Applying Halford Mackinder’s Heartland Theory to the modern world, one
+      could say, in simple terms, that the world belongs to multipolarity, the guiding
+      political principle of BRICS. National Security Strategy – Old Wine in New Bottles
+      Since the publication of Part 3 of our BRICS series, the White House has released
+      a new document: the National Security Strategy (NSS). We will not go into detail
+      here, but refer instead to Scott Ritter’s article “ The US Declares War on Europe
+      ” and to Andras Mylaeus’ upcoming article “NSS 2025 – Verbal Cosmetics Instead
+      of Paradigm Shift,” which will be published in the next few days. Every US military
+      strategy has a direct impact on the other key players in world politics. BRICS
+      – without being mentioned by name – must therefore necessarily be the main target
+      of any US military, economic, and political strategy, given the economic indicators
+      and political orientation of the confederation of states. When the Americans mention
+      China or Russia, the strategies to weaken these countries affect BRICS directly
+      and not indirectly. Already in the first two sentences of the introduction to
+      the new National Security Strategy, the US lets the world know that nothing has
+      changed at the core of its thinking: „To ensure that America remains the world’s
+      strongest, richest, most powerful, and most successful country for decades to
+      come, our country needs a coherent, focused strategy for how we interact with
+      the world. And to get that right, all Americans need to know what, exactly, it
+      is we are trying to do and why. “ The goal of the US is and remains global dominance,
+      not cooperation in the sense of a win-win policy. The new strategy is merely an
+      adaptation of the old goal and the previous approach to the changed political
+      and military circumstances in the world. Some commentators see this as a departure
+      from the Wolfowitz Doctrine of 1992. We disagree: The aim is to maintain hegemonic
+      status under all circumstances. These few words from the document alone will cause
+      strategists in the individual BRICS countries to consider each step very carefully
+      and coordinate with each other. They will analyze and evaluate every step taken
+      by the US and the West with equal precision. They will not announce everything,
+      but will purposefully continue to advance the BRICS. As far as the information
+      available on BRICS is concerned, the current developments make what we wrote in
+      the first part all the more relevant: „At present, however, it appears that this
+      information is being deliberately kept even more vague than before, as the official
+      BRICS website is even more reticent with information than in the past.“ An understandable
+      approach given the situation. Conclusion The geopolitical realities naturally
+      have an impact on the Western way of seeing the world. The worldview characterized
+      by “full spectrum dominance” and the recurring pattern of political action derived
+      from it will only change under the pressure of reality. The world is changing—and
+      that’s a good thing Western imperialism, which has dominated the world for the
+      last 500 years, will not voluntarily retreat to its new role in line with reality
+      as a result of suddenly newly acquired humanitarian views. The West, which has
+      been cornered politically, economically, and, to the surprise of many, even militarily
+      by the rapid developments of recent years, is only adapting to a limited extent.
+      It is looking for ways to weaken states it defines as opponents in every conceivable
+      way, to influence them in its own interests, and to break them away from BRICS.
+      This is because the hegemon is forced to maintain its status. The functioning
+      of its system depends on it. It is therefore important to maintain balance in
+      international politics so that only manageable political swings can occur. This
+      requires great patience on the part of the BRICS countries and the consistent
+      expansion of their own structures—economically, monetarily, politically, and in
+      terms of security policy—without provoking open antagonism toward their Western
+      counterparts. The aim is to identify common ground for as long as possible in
+      order to formulate a possible way out for all of humanity. A way out that prevents
+      the worst from happening. So much for the strategy of the multipolar Global South.
+      It is doubtful that the Collective West, led by the US, will act reasonably. How
+      do we arrive at such a conclusion? Quite simply. For two years, the United States
+      has been supporting open and obvious genocide in Palestine and has allowed itself
+      to be drawn into murder and piracy in Venezuela. In both cases, the aim is to
+      influence regional conflicts. If the United States resorts to such practices in
+      non-priority conflicts, how will it behave when it really matters?'
+    one_sentence_summary: The article discusses the challenges and future prospects
+      of BRICS as a significant global power amid geopolitical tensions, economic trends,
+      and the aggressive stance of the US towards its allies.
+    paragraph_summary: The article discusses the current challenges and future prospects
+      of BRICS, a coalition of emerging economies, amidst a tumultuous geopolitical
+      landscape. It highlights the significant tests faced by BRICS members and partners,
+      particularly in the context of rising tensions with the US, which is perceived
+      as adopting an aggressive stance toward its allies and adversaries alike. The
+      authors analyze the distinct geopolitical environments of BRICS nations, especially
+      China and Russia, noting that while China faces threats from US military bases
+      in the region, logistical challenges hinder the US's ability to engage in direct
+      conflict with China. The article concludes by reflecting on the implications of
+      the US's "new" National Security Strategy and the broader economic trends affecting
+      BRICS as it seeks to assert its influence in the Global South amidst a "storm"
+      of geopolitical uncertainty.
+    published: '2025-12-15T06:32:37+00:00'
+  - title: How Resilient is BRICS in the Storm of Geopolitics? – Part 4
+    url: https://sonar21.com/how-resilient-is-brics-in-the-storm-of-geopolitics-part-4/
+    text: 'BRICS is a formidable power factor whose members, partners, and candidates
+      are currently undergoing a severe test. In today’s final installment, we look
+      to the future and draw our conclusions. By Peter Hanseler and René Zittlau via
+      ForumGeopolitica Introduction In the first part of this series, we looked at the
+      facts about BRICS and the major economic trends that can currently be observed.
+      The second part dealt with the environment in which BRICS must develop as the
+      most important organization of the Global South. We assessed the warlike circumstances
+      in general, the great danger that would arise from a nuclear war, and the unpredictability
+      of the geopolitical situation, which leads us to describe the current situation
+      as a “storm.” The third part looked at the aggressive attitude of the US toward
+      its friends and pointed to the economic situation in the US, obvious, deliberately
+      provoked misdevelopments (AI), and we began to describe the influence of the US
+      in the individual catchment areas. In today’s fourth part, we will conclude this
+      description of influence and briefly discuss the White House’s “new” National
+      Security Strategy, which is not new at all. Catchment Area China The challenges
+      in China’s immediate environment are geographically different from those facing
+      Russia. China is separated from US threats by water—there are no land bridges
+      between US allies and China. Nevertheless, the threatening gestures toward China
+      posed by military bases in Japan, South Korea, the Philippines, and, not least,
+      Guam are considerable. Despite this enormous effort to maintain its military bases,
+      the US would not be able to wage war against China in accordance with its military
+      doctrine—the distances to the mainland are far too great, making it impossible
+      to guarantee sustainable logistics. US military doctrine calls for the enemy to
+      be largely destroyed from the air and only then to engage in small-scale battles
+      on land, if at all. In anticipation of possible military conflicts with the West
+      in the broadest sense, China felt compelled to build up an intimidating military
+      power. From a military perspective, China is now a fully-fledged land power, with
+      the second-largest naval forces in terms of numbers, a superior arsenal of all
+      types of state-of-the-art missiles, and, not to be forgotten, a respectable and
+      growing nuclear arsenal. From an American perspective, these are not favorable
+      conditions for a possible military conflict with the Middle Kingdom. In addition,
+      the countries that host major US military bases (Japan, South Korea, and the Philippines)
+      have no interest whatsoever in being drawn into a conflict with China by the US,
+      as economic ties with China are of existential importance to these three countries.
+      As the following graph clearly shows, it is not only in Asia that virtually nothing
+      works economically without China. China’s economic supremacy has now reached global
+      proportions and is having a disciplining effect. Economic success is not just
+      on paper; it is visible and tangible to anyone visiting China. In addition, countries
+      such as Malaysia and Singapore are strongly influenced by Chinese culture. There
+      are also significant Chinese minorities in other Asian countries. The significantly
+      greater interest in Asian countries as a whole in a peaceful, expandable, mutually
+      beneficial relationship with China than in military adventures is therefore, among
+      other things, a matter of common sense. Nevertheless, the US is trying by all
+      means to exert pressure on China, its environment and thus on BRICS. However,
+      the mentalities of Asian countries stand in the way of the US’s efforts. While
+      the US has succeeded over time in bringing an elite loyal to its own interests
+      to power in Europe, things work differently in Asia. There are only two countries
+      in China’s immediate vicinity that have entered into military alliances with the
+      US – Japan and South Korea, and the Chinese province of Taiwan. The first two
+      are official alliances. Taiwan, on the other hand, is being armed by the US as
+      a battering ram that can be used against China at will. As is so often the case,
+      the US is breaking its international commitments in order to gain unilateral advantages
+      for itself. The US is still bound by international law to the One China policy,
+      which states that Taiwan is an integral part of China. This is also reflected
+      in the fact that there is only one seat for China and Taiwan in the UN. And that
+      seat was transferred from Taiwan to China in the early 1970s precisely because
+      of the US’s recognition of the One China policy. Consequently, the US does not
+      have an embassy in Taiwan. The US is finding it increasingly difficult to rally
+      countries in Asia against China. As in the case of Russia, the US is keen to send
+      others into the fray and position itself in a dignified manner as an arms supplier,
+      whip-cracker and, if necessary, later ‘peacemaker’. The growing recognition of
+      China as the real economic giant and the enormous economic importance of Southeast
+      Asia as a whole is reflected in the Asian member and candidate list of the BRICS.
+      Among the members, we see four Asian countries, or five if we include the UAE
+      in West Asia. Economically, they represent the core of the BRICS’ power. Among
+      the candidates, there are another five countries, some of which are very powerful
+      economically. We would like to briefly discuss a few of them here, in line with
+      our itinerary around Eurasia. Indonesia/Malaysia BRICS member Indonesia is one
+      of the largest economies in Southeast Asia and ranks 16th in the world. By far
+      its most important economic partner is China. The country’s geographical location
+      on the southern side of the world’s most important strait, the Strait of Malacca,
+      also gives it strategic importance. Incidentally, Malaysia, a candidate for BRICS
+      membership, lies on the northern side. Southeast Asia is a good example of the
+      changes that have taken place in the world over the decades. Malaysia only gained
+      independence in 1963. It was formed from parts of the British colonial empire.
+      Indonesia, the world’s largest island nation in terms of area, belonged to the
+      Dutch colonial empire until 1949. Today, both countries are rapidly growing economies
+      and, in their own way, examples of the world’s diversification toward a multipolar
+      structure, which seems more suitable for solving the world’s problems in a more
+      balanced way. Together with Malaysia, which recently became a partner of BRICS
+      and will likely soon become a member, Indonesia controls the Strait of Malacca.
+      This strait connects the Indian Ocean with the Pacific. 30% of all global trade
+      goods pass through this waterway. This means that BRICS indirectly controls the
+      world’s largest trade route. I don’t know how long we will have to wait before
+      the US stirs up unrest in these countries in order to destabilize them. The first
+      step will probably be to activate NGOs.Indien India Without India, BRICS would
+      not be BRICS. Many people underestimate this former jewel in the crown of the
+      British Empire . India, with all its problems, is in its own way a country of
+      superlatives. Located on a subcontinent, it now has the largest population, with
+      approximately 1.5 billion people, ahead of China. India proudly calls itself the
+      world’s largest democracy. It is also likely to be the country with the greatest
+      ethnic diversity, which makes the creation of functioning democratic structures
+      all the more impressive in view of the developments that are emerging and observable
+      in Europe, for example. Politically, it is going its own way, as demonstrated
+      in recent months by the fact that, despite all its enticements, the US has not
+      succeeded in undermining India’s ties to the BRICS group. The recent visit of
+      Russian President Vladimir Putin to Delhi was celebrated by India in a manner
+      that went well beyond the fulfillment of protocol obligations. This was a clear
+      signal to the world that India is a close friend of Russia and thus also a reliable
+      partner of BRICS. China and Russia are closely intertwined, as they are also neighbors
+      with a shared border that is too long to guard. Despite huge differences in mentality,
+      both parties strive for ever closer cooperation between their two peoples. Russia
+      also has excellent relations with India, as demonstrated by the warm interaction
+      between Putin and Modi during Putin’s visit. The Russians greatly appreciate the
+      fact that the Indians have stood up to pressure from Washington and Brussels with
+      a smile. Secondary sanctions imposed by the US and the EU on the Indian oil industry
+      are officially observed in part, but are cleverly and efficiently circumvented
+      by shadow structures, rendering them ineffective. Loyalty is practiced and has
+      a much higher value in Russia than in the degenerate West. There are still considerable
+      differences between India and China, which are being kept alive by the US – and
+      with good reason, because due to the stupid foreign policy of the Collective West,
+      the West has already lost Russia, which wanted to move closer to Western Europe,
+      to China. If Russia mediates wisely between China and India and the two giants
+      allow this and work closely together in the medium term, a power center would
+      emerge in Asia that the West would be unable to counter. The Americans will try
+      everything to prevent this. This raises the question of what the US can still
+      offer India that is more valuable than the Chinese’s gigantic production machinery
+      and the Russians’ raw materials and loyalty. In the medium term, India will play
+      an increasingly important role in the geopolitical game. Iran The great unknown
+      among the well-known BRICS countries is certainly Iran for Western readers. The
+      country’s democratic development began with the election of Mohammad Mossadegh
+      in 1951 and was put to an end by the US and Great Britain in 1953. The country’s
+      wealth of oil and gas and its geostrategic location proved to be its undoing.
+      In 1979, the country got rid of the Shah and thus of British and, above all, American
+      rule. The Islamic Revolution may seem strange to European eyes, but it can only
+      be understood in the context of the country’s history. The same applies to the
+      subsequent and ongoing attempts (e.g., the Iran-Iraq War orchestrated by the US
+      in the 1980s) by the West as a whole, but above all by the US and Great Britain,
+      to strangle the country economically, militarily, and thus politically in order
+      to gain control of its natural resources. The extreme sanctions imposed on Iran
+      forced it to build up an industry with an enormous vertical range of manufacture,
+      which was very expensive but without alternative. It was the only way to supply
+      the country with essential goods, independent of Western goodwill. The creation
+      of the BRICS, the consequences of the war in Ukraine, and the global political
+      changes that began with and were linked to both events became a way out of isolation
+      for Iran. The West imposed massive sanctions on buyers of Iranian goods, only
+      to find that this served to strengthen the ties within the BRICS and thus Iran’s
+      position in the group of states. The attack by Israel and the US on Iran in June
+      2025, which we reported on in “ Findings on an Illegal War that the West Enthusiastically
+      Waged and Lost ,” led to a similar result. Whereas Iran had previously been keen
+      to act largely independently in military terms, the war, which violated every
+      rule of international law, led to a whole new level of military cooperation between
+      Iran and China and Russia. Today, Iran speaks openly of a strategic partnership
+      with Russia on a previously unknown level. Due to Iran’s considerable military
+      strength, which is based, among other things, on missile technology that far exceeds
+      that of the US and Israel, Israel and the US have refrained from further attacks
+      against Iran since this summer. Another reason for this is probably that no one
+      knows what weapons systems Russia and China have supplied to Iran since the summer,
+      making an attack an incalculable risk. Venezuela What was difficult to imagine
+      just a few years ago is now reality: in the backyard of the US, there are countries
+      that not only oppose the hegemon behind closed doors, but are also visibly seeking
+      their own independent path for the whole world to see. In addition to Brazil,
+      a founding member of BRICS, Venezuela is particularly noteworthy here, as it is
+      positioning itself as a candidate country for BRICS. This country, with the richest
+      proven oil reserves in the world, has long been on the US’s menu. With the current
+      threats of some kind of military strike against the country, combined with the
+      sinking of its civilian boats, the demonstrative murder of their crews, and the
+      capture of oil tankers off the coast of Venezuela , the Trump-2 administration
+      is merely continuing the policies of Trump-1. And this, too, was merely a continuation
+      of the extremely hostile US policy that has been in place since Hugo Chavez was
+      elected president in 1998. Democratically elected, the Chavez government dared
+      to do the same thing that Mohammad Mossadegh did in Iran from 1951 to 1953: nationalize
+      the country’s oil wealth in accordance with the law. In 2002, the US attempted
+      for the first time to turn back the clock, as it had done in Iran in 1953 with
+      a pro-American coup. It failed, prompting the US to resort to sanctions. Hugo
+      Chavez was later succeeded by Nicolas Maduro. The policy did not change, despite
+      all the sanctions. The economy was repeatedly on the brink of collapse, yet the
+      country stuck to its policy. Then, in 2019, during Trump’s first term, there was
+      an international showdown between Venezuela and the West as a whole, starting
+      with the presidential elections. The West backed Juan Gaido, but the Venezuelan
+      authorities declared Nicolas Maduro the winner. The West blocked the country’s
+      gold reserves in London – similarities in the behavior of the EU and the UK regarding
+      Russian gold and foreign exchange reserves in Western Europe are not purely coincidental
+      – and made them accessible to Guaido. Maduro remained. This was followed by a
+      diplomatic blockade of the country by the West. Without success. The penultimate
+      act so far was the organization of the awarding of the “Nobel Peace Prize” to
+      Venezuelan writer Maria Corina Machado, who – newly crowned – declared that her
+      first act as president would be to move the country’s embassy in Israel from Tel
+      Aviv to Jerusalem. Israel celebrated her for this. Netanyahu repeatedly expressed
+      his support for her Gaza policy, i.e., genocide. Later, she also declared her
+      support for US President Trump in the event of a bombing of her own country with
+      the aim of overthrowing President Maduro. The fact that China and Russia support
+      Venezuela in its quest for an autonomous, independent policy makes the situation
+      all the more difficult for the US. China has already invested $62 billion in the
+      country – primarily in the oil sector – more than in any other country in the
+      region. Russia, for its part, supports Caracas in the military sphere. The world
+      is now waiting to see what US President Trump decides. Open military intervention
+      in Venezuela, a large country that is geographically difficult to control, in
+      order to divert attention from problems elsewhere and gain violent access to resources,
+      is likely to end for the US in a similar way to Vietnam, Afghanistan, or Iraq.
+      Backing down after weeks of sabre-rattling would not go down well, especially
+      with Trump’s sponsors. As elsewhere, the US has unnecessarily maneuvered itself
+      into a difficult political situation. In this context, American journalist Max
+      Blumenthal spoke of a “predictable disaster” in a highly recommended interview
+      . This concludes our short trip around the core countries of the BRICS, which
+      is essentially a short trip around the “Heartland.” BRICS is the “Heartland” of
+      Mackinder As is well known, over 100 years ago, British geologist and politician
+      Halford Mackinder described the “heartland” as the region of the earth whose control
+      enables domination of global developments as a whole. He postulated that the “heartland”
+      was the core region of the Eurasian landmass. The power politics of the British
+      Empire and later of the West as a bloc were based on this politician’s strategic
+      ideas. We refer to our article “ Anglo-Saxon geopolitical strategy – unchanged
+      for 120 years .” Graphically, this theory can be represented as follows: Looking
+      at the geographical spread of BRICS in what Mackinder considered to be the most
+      politically decisive region of the world, the following picture emerges: De facto,
+      all countries in the heartland region have decided to join forces within the framework
+      of BRICS. The two large white spots on the map do not change this. One spot shows
+      Kazakhstan, a BRICS candidate country and close ally of both Russia and China;
+      the other large spot between Russia and China is Mongolia. Mongolia is one of
+      the few countries in the world that strictly aligns its policies with the principles
+      of neutrality, in accordance with its own views, sovereign rights, and national
+      interests. These are principles that the two BRICS giants, Russia and China, cannot
+      live with. These principles are part of the policies practiced within the framework
+      of BRICS. Applying Halford Mackinder’s Heartland Theory to the modern world, one
+      could say, in simple terms, that the world belongs to multipolarity, the guiding
+      political principle of BRICS. National Security Strategy – Old Wine in New Bottles
+      Since the publication of Part 3 of our BRICS series, the White House has released
+      a new document: the National Security Strategy (NSS). We will not go into detail
+      here, but refer instead to Scott Ritter’s article “ The US Declares War on Europe
+      ” and to Andras Mylaeus’ upcoming article “NSS 2025 – Verbal Cosmetics Instead
+      of Paradigm Shift,” which will be published in the next few days. Every US military
+      strategy has a direct impact on the other key players in world politics. BRICS
+      – without being mentioned by name – must therefore necessarily be the main target
+      of any US military, economic, and political strategy, given the economic indicators
+      and political orientation of the confederation of states. When the Americans mention
+      China or Russia, the strategies to weaken these countries affect BRICS directly
+      and not indirectly. Already in the first two sentences of the introduction to
+      the new National Security Strategy, the US lets the world know that nothing has
+      changed at the core of its thinking: „To ensure that America remains the world’s
+      strongest, richest, most powerful, and most successful country for decades to
+      come, our country needs a coherent, focused strategy for how we interact with
+      the world. And to get that right, all Americans need to know what, exactly, it
+      is we are trying to do and why. “ The goal of the US is and remains global dominance,
+      not cooperation in the sense of a win-win policy. The new strategy is merely an
+      adaptation of the old goal and the previous approach to the changed political
+      and military circumstances in the world. Some commentators see this as a departure
+      from the Wolfowitz Doctrine of 1992. We disagree: The aim is to maintain hegemonic
+      status under all circumstances. These few words from the document alone will cause
+      strategists in the individual BRICS countries to consider each step very carefully
+      and coordinate with each other. They will analyze and evaluate every step taken
+      by the US and the West with equal precision. They will not announce everything,
+      but will purposefully continue to advance the BRICS. As far as the information
+      available on BRICS is concerned, the current developments make what we wrote in
+      the first part all the more relevant: „At present, however, it appears that this
+      information is being deliberately kept even more vague than before, as the official
+      BRICS website is even more reticent with information than in the past.“ An understandable
+      approach given the situation. Conclusion The geopolitical realities naturally
+      have an impact on the Western way of seeing the world. The worldview characterized
+      by “full spectrum dominance” and the recurring pattern of political action derived
+      from it will only change under the pressure of reality. The world is changing—and
+      that’s a good thing Western imperialism, which has dominated the world for the
+      last 500 years, will not voluntarily retreat to its new role in line with reality
+      as a result of suddenly newly acquired humanitarian views. The West, which has
+      been cornered politically, economically, and, to the surprise of many, even militarily
+      by the rapid developments of recent years, is only adapting to a limited extent.
+      It is looking for ways to weaken states it defines as opponents in every conceivable
+      way, to influence them in its own interests, and to break them away from BRICS.
+      This is because the hegemon is forced to maintain its status. The functioning
+      of its system depends on it. It is therefore important to maintain balance in
+      international politics so that only manageable political swings can occur. This
+      requires great patience on the part of the BRICS countries and the consistent
+      expansion of their own structures—economically, monetarily, politically, and in
+      terms of security policy—without provoking open antagonism toward their Western
+      counterparts. The aim is to identify common ground for as long as possible in
+      order to formulate a possible way out for all of humanity. A way out that prevents
+      the worst from happening. So much for the strategy of the multipolar Global South.
+      It is doubtful that the Collective West, led by the US, will act reasonably. How
+      do we arrive at such a conclusion? Quite simply. For two years, the United States
+      has been supporting open and obvious genocide in Palestine and has allowed itself
+      to be drawn into murder and piracy in Venezuela. In both cases, the aim is to
+      influence regional conflicts. If the United States resorts to such practices in
+      non-priority conflicts, how will it behave when it really matters?'
+    one_sentence_summary: The article discusses the challenges and future prospects
+      of BRICS as a significant global power amid geopolitical tensions, economic trends,
+      and the aggressive stance of the US towards its allies.
+    paragraph_summary: The article discusses the current challenges and future prospects
+      of BRICS, a coalition of emerging economies, amidst a tumultuous geopolitical
+      landscape. It highlights the significant tests faced by BRICS members and partners,
+      particularly in the context of rising tensions with the US, which is perceived
+      as adopting an aggressive stance toward its allies and adversaries alike. The
+      authors analyze the distinct geopolitical environments of BRICS nations, especially
+      China and Russia, noting that while China faces threats from US military bases
+      in the region, logistical challenges hinder the US's ability to engage in direct
+      conflict with China. The article concludes by reflecting on the implications of
+      the US's "new" National Security Strategy and the broader economic trends affecting
+      BRICS as it seeks to assert its influence in the Global South amidst a "storm"
+      of geopolitical uncertainty.
+    published: '2025-12-15T06:32:37+00:00'
+  - title: Karaganov’s Vision for Russia’s Future is Becoming Reality
+    url: https://sonar21.com/karaganovs-vision-for-russias-future-is-becoming-reality/
+    text: 'Vladimir Putin and Sergei Karaganov During my latest visit to Moscow, I had
+      the privilege of spending time with Sergei Karaganov and getting to know him.
+      Mr. Karaganov is a leading Russian foreign policy thinker and dean at the Higher
+      School of Economics , and is the key architect of the “ Greater Eurasia ” concept,
+      which he introduced in the mid-2010s, framing it as Russia’s strategic reorientation
+      away from a declining West toward a multipolar Eurasian heartland. In response
+      to the 2014 Ukraine crisis and Western sanctions, Karaganov formulated a vision
+      that built on Vladimir Putin’s 2013 Valdai Club speech, and evolved into a comprehensive
+      geopolitical vision by 2018. Karaganov described Greater Eurasia as a “pan-Eurasian
+      space of development, cooperation, peace, and security,” positioning Russia as
+      the “center and north” of a vast continent-spanning community that integrates
+      Europe, Asia, and the Middle East. His 2025 article — Eastern Turn 2.0 — called
+      for a civilizational shift from Russia’s 300-year “detour through Europe” to one
+      that embraced its Eurasian identity, emphasizing self-reliance, traditional values,
+      and alliances with rising non-Western powers like China and India. Sergei Karaganov’s
+      advocacy for Russia’s strategic pivot toward the East (particularly Asia and Eurasia)
+      is a reaction to Western hostility, moral decay, and economic decline. He views
+      the Greater Eurasia focus as essential for Russia’s survival and resurgence. In
+      his 2025 article “ Eastern Turn 2.0 ,” he argued that Russia must reject Western
+      liberalism—characterized by individualism, consumerism, and “moral degradation”
+      like LGBT rights and multiculturalism gone awry—and instead embrace a “civilizational
+      turn” toward Eurasian alliances, emphasizing state devotion, traditional values,
+      and partnerships with rising powers like China and India. Karaganov’s view is
+      not just an academic exercise… It is a concrete vision to galvanize the Russian
+      belief in cooperation and collaboration, rather than exalt individual achievements
+      or pursue imperialist objectives, to create a viable foreign and economic policy
+      that produces tangible benefits and security for Russia and its partners. My conversation
+      with hockey legend Vyacheslav Fetisov helped me understand the Russian mentality
+      that I believe shaped Karaganov’s thinking. Fetisov (aka Slava ) is a Deputy of
+      the State Duma of the Federal Assembly of the Russian Federation and First Deputy
+      Chairman of the State Duma Committee on Physical Culture, Sports, Tourism, and
+      Youth Affairs, but made his mark in Russia as the Michael Jordan of hockey. Fetisov
+      spoke at length to me about what he learned about himself when he came to the
+      United States in 1989 to play for the New Jersey Devils. He was shocked at the
+      emphasis on individual performance and the disregard for playing as a team. Although
+      he was celebrated in Russia as an elite player, he viewed his accomplishments
+      as the result of playing in a Soviet system that emphasized collaboration. In
+      interviews tied to the 2014 documentary Red Army (directed by Gabe Polsky), Fetisov
+      highlighted how Soviet hockey was built on a “creative, play-for-each-other style”
+      that prioritized collective thinking and intricate teamwork over individualism.
+      He described the intense, year-round training under coaches like Anatoly Tarasov
+      as forging “ultimate teamwork,” influenced by Russian chess strategy and Bolshoi
+      ballet precision—resulting in fluid passing, puck possession, and unit play that
+      baffled North American opponents. Fetisov noted: “In Soviet teams it was like
+      that [collective effort]… any sport that needs collective thinking, we were No.
+      1,” crediting this ethos for the team’s unparalleled success (e.g., Olympic golds,
+      World Championships). This mentality, I believe, is at the heart of Karaganov’s
+      vision described in Eastern Turn 2.0 . Karaganov, who believed that the West’s
+      habit of waging a “hybrid war” through sanctions and cultural imposition would
+      be the spark that ignited Russia’s reorientation away from Europe’s “periphery”
+      toward Siberia’s untapped potential as a new economic and spiritual center, has
+      been vindicated by the events that followed the start of Russia’s Special Military
+      Operation in Ukraine in February 2022. Instead of relying on US companies to supply
+      commercial jetliners, Russia is now producing two different models that are built
+      entirely with Russian parts and engines. Russian factories producing military
+      equipment and weapons are outproducing those of the collective West. I believe
+      that the vast majority of Russians — politicians and citizens — now understand
+      they do not need the West to survive and prosper. More importantly, Russia and
+      its BRICS partners have created a new financial and trade system that insulates
+      them against coercion by the West. Karaganov sees the East as a dynamic, non-ideological
+      partner offering mutual growth through organizations like BRICS and the SCO, free
+      from Western “universalism” that he deems imperialistic. His warnings against
+      over-reliance on the West, even under potential Trump deals, and promotion of
+      “ Greater Eurasia ” as a multipolar alternative where Russia can lead in security
+      and energy while benefiting from Asia’s rise, is taking shape. This shift is fostering
+      Russia’s internal development, multiculturalism, and long-term sovereignty… turning
+      Western sanctions into an opportunity for self-reliance. Based on Putin’s actions
+      over the last 47 months, it is clear that he has embraced Karaganov’s vision,
+      which frames the East as Russia’s ally in a post-Western world. There was a time,
+      especially during the Cold War, that many Russians envied the West and readily
+      adopted Western cultural norms. That was then. Now the West –both the US and Europe
+      — represents a fading, antagonistic force that has nothing of substance or significance
+      to offer Russia. Russia remains open to having a cordial relationship with the
+      United States, but it must be a relationship centered on mutual respect. Russia
+      is not going to be bullied or coerced. Instead, it is turning to China, India
+      and other nations that comprise the Global South to build economic, political
+      and military relations on a foundation of collaboration rather than imperial dominance.
+      Sergei Karaganov is a rare type of academic… Instead of focusing on esoteric concepts
+      that have no relevance to the lives of regular people, he has presented a practical
+      vision for the future of Russia and the world that is transforming Russia and
+      its partners in the East. Well done, my friend. I did two interesting podcasts
+      in the last two days. The first was with a news outlet in Croatia. The second
+      was with Pluralia Dialogos : I thank you for your invaluable support by taking
+      time to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: During a recent visit to Moscow, I met with Sergei Karaganov,
+      a prominent Russian foreign policy thinker and architect of the "Greater Eurasia"
+      concept, which envisions Russia as the central hub of a cooperative and secure
+      pan-Eurasian community in response to Western decline and geopolitical shifts.
+    paragraph_summary: During a recent visit to Moscow, the author met with Sergei Karaganov,
+      a prominent Russian foreign policy thinker and dean at the Higher School of Economics,
+      who is the architect of the "Greater Eurasia" concept. This strategic vision emerged
+      in response to the 2014 Ukraine crisis and Western sanctions, advocating for Russia's
+      reorientation from a declining West toward a multipolar Eurasian heartland. Karaganov
+      envisions Greater Eurasia as a cooperative space that integrates Europe, Asia,
+      and the Middle East, positioning Russia as a central player. His 2025 article,
+      "Eastern Turn 2.0," calls for a civilizational shift away from Western liberalism
+      towards embracing traditional values and alliances with non-Western powers like
+      China and India. Karaganov argues that this pivot is essential for Russia's survival
+      and resurgence, emphasizing self-reliance and a rejection of perceived moral decay
+      in the West. His ideas aim to inspire a renewed belief in cooperation and collaboration
+      among Eurasian nations.
+    published: '2025-12-15T04:21:34+00:00'
+  - title: Karaganov’s Vision for Russia’s Future is Becoming Reality
+    url: https://sonar21.com/karaganovs-vision-for-russias-future-is-becoming-reality/
+    text: 'Vladimir Putin and Sergei Karaganov During my latest visit to Moscow, I had
+      the privilege of spending time with Sergei Karaganov and getting to know him.
+      Mr. Karaganov is a leading Russian foreign policy thinker and dean at the Higher
+      School of Economics , and is the key architect of the “ Greater Eurasia ” concept,
+      which he introduced in the mid-2010s, framing it as Russia’s strategic reorientation
+      away from a declining West toward a multipolar Eurasian heartland. In response
+      to the 2014 Ukraine crisis and Western sanctions, Karaganov formulated a vision
+      that built on Vladimir Putin’s 2013 Valdai Club speech, and evolved into a comprehensive
+      geopolitical vision by 2018. Karaganov described Greater Eurasia as a “pan-Eurasian
+      space of development, cooperation, peace, and security,” positioning Russia as
+      the “center and north” of a vast continent-spanning community that integrates
+      Europe, Asia, and the Middle East. His 2025 article — Eastern Turn 2.0 — called
+      for a civilizational shift from Russia’s 300-year “detour through Europe” to one
+      that embraced its Eurasian identity, emphasizing self-reliance, traditional values,
+      and alliances with rising non-Western powers like China and India. Sergei Karaganov’s
+      advocacy for Russia’s strategic pivot toward the East (particularly Asia and Eurasia)
+      is a reaction to Western hostility, moral decay, and economic decline. He views
+      the Greater Eurasia focus as essential for Russia’s survival and resurgence. In
+      his 2025 article “ Eastern Turn 2.0 ,” he argued that Russia must reject Western
+      liberalism—characterized by individualism, consumerism, and “moral degradation”
+      like LGBT rights and multiculturalism gone awry—and instead embrace a “civilizational
+      turn” toward Eurasian alliances, emphasizing state devotion, traditional values,
+      and partnerships with rising powers like China and India. Karaganov’s view is
+      not just an academic exercise… It is a concrete vision to galvanize the Russian
+      belief in cooperation and collaboration, rather than exalt individual achievements
+      or pursue imperialist objectives, to create a viable foreign and economic policy
+      that produces tangible benefits and security for Russia and its partners. My conversation
+      with hockey legend Vyacheslav Fetisov helped me understand the Russian mentality
+      that I believe shaped Karaganov’s thinking. Fetisov (aka Slava ) is a Deputy of
+      the State Duma of the Federal Assembly of the Russian Federation and First Deputy
+      Chairman of the State Duma Committee on Physical Culture, Sports, Tourism, and
+      Youth Affairs, but made his mark in Russia as the Michael Jordan of hockey. Fetisov
+      spoke at length to me about what he learned about himself when he came to the
+      United States in 1989 to play for the New Jersey Devils. He was shocked at the
+      emphasis on individual performance and the disregard for playing as a team. Although
+      he was celebrated in Russia as an elite player, he viewed his accomplishments
+      as the result of playing in a Soviet system that emphasized collaboration. In
+      interviews tied to the 2014 documentary Red Army (directed by Gabe Polsky), Fetisov
+      highlighted how Soviet hockey was built on a “creative, play-for-each-other style”
+      that prioritized collective thinking and intricate teamwork over individualism.
+      He described the intense, year-round training under coaches like Anatoly Tarasov
+      as forging “ultimate teamwork,” influenced by Russian chess strategy and Bolshoi
+      ballet precision—resulting in fluid passing, puck possession, and unit play that
+      baffled North American opponents. Fetisov noted: “In Soviet teams it was like
+      that [collective effort]… any sport that needs collective thinking, we were No.
+      1,” crediting this ethos for the team’s unparalleled success (e.g., Olympic golds,
+      World Championships). This mentality, I believe, is at the heart of Karaganov’s
+      vision described in Eastern Turn 2.0 . Karaganov, who believed that the West’s
+      habit of waging a “hybrid war” through sanctions and cultural imposition would
+      be the spark that ignited Russia’s reorientation away from Europe’s “periphery”
+      toward Siberia’s untapped potential as a new economic and spiritual center, has
+      been vindicated by the events that followed the start of Russia’s Special Military
+      Operation in Ukraine in February 2022. Instead of relying on US companies to supply
+      commercial jetliners, Russia is now producing two different models that are built
+      entirely with Russian parts and engines. Russian factories producing military
+      equipment and weapons are outproducing those of the collective West. I believe
+      that the vast majority of Russians — politicians and citizens — now understand
+      they do not need the West to survive and prosper. More importantly, Russia and
+      its BRICS partners have created a new financial and trade system that insulates
+      them against coercion by the West. Karaganov sees the East as a dynamic, non-ideological
+      partner offering mutual growth through organizations like BRICS and the SCO, free
+      from Western “universalism” that he deems imperialistic. His warnings against
+      over-reliance on the West, even under potential Trump deals, and promotion of
+      “ Greater Eurasia ” as a multipolar alternative where Russia can lead in security
+      and energy while benefiting from Asia’s rise, is taking shape. This shift is fostering
+      Russia’s internal development, multiculturalism, and long-term sovereignty… turning
+      Western sanctions into an opportunity for self-reliance. Based on Putin’s actions
+      over the last 47 months, it is clear that he has embraced Karaganov’s vision,
+      which frames the East as Russia’s ally in a post-Western world. There was a time,
+      especially during the Cold War, that many Russians envied the West and readily
+      adopted Western cultural norms. That was then. Now the West –both the US and Europe
+      — represents a fading, antagonistic force that has nothing of substance or significance
+      to offer Russia. Russia remains open to having a cordial relationship with the
+      United States, but it must be a relationship centered on mutual respect. Russia
+      is not going to be bullied or coerced. Instead, it is turning to China, India
+      and other nations that comprise the Global South to build economic, political
+      and military relations on a foundation of collaboration rather than imperial dominance.
+      Sergei Karaganov is a rare type of academic… Instead of focusing on esoteric concepts
+      that have no relevance to the lives of regular people, he has presented a practical
+      vision for the future of Russia and the world that is transforming Russia and
+      its partners in the East. Well done, my friend. I did two interesting podcasts
+      in the last two days. The first was with a news outlet in Croatia. The second
+      was with Pluralia Dialogos : I thank you for your invaluable support by taking
+      time to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: During a recent visit to Moscow, I met with Sergei Karaganov,
+      a prominent Russian foreign policy thinker and architect of the "Greater Eurasia"
+      concept, which envisions Russia as the central hub of a cooperative and secure
+      pan-Eurasian community in response to Western decline and geopolitical shifts.
+    paragraph_summary: During a recent visit to Moscow, the author met with Sergei Karaganov,
+      a prominent Russian foreign policy thinker and dean at the Higher School of Economics,
+      who is the architect of the "Greater Eurasia" concept. This strategic vision emerged
+      in response to the 2014 Ukraine crisis and Western sanctions, advocating for Russia's
+      reorientation from a declining West toward a multipolar Eurasian heartland. Karaganov
+      envisions Greater Eurasia as a cooperative space that integrates Europe, Asia,
+      and the Middle East, positioning Russia as a central player. His 2025 article,
+      "Eastern Turn 2.0," calls for a civilizational shift away from Western liberalism
+      towards embracing traditional values and alliances with non-Western powers like
+      China and India. Karaganov argues that this pivot is essential for Russia's survival
+      and resurgence, emphasizing self-reliance and a rejection of perceived moral decay
+      in the West. His ideas aim to inspire a renewed belief in cooperation and collaboration
+      among Eurasian nations.
+    published: '2025-12-15T04:21:34+00:00'
+  - title: The Nonsense of Christian Zionism
+    url: https://sonar21.com/the-nonsense-of-christian-zionism/
+    text: 'I am sure this going to anger some people, but so be it. Christian Zionism
+      is a theological and political movement primarily among evangelical Protestants
+      (especially in the United States) that expresses strong support for the modern
+      State of Israel and the Jewish people’s right to the land. Its beliefs are rooted
+      in a particular interpretation of the Bible—known as dispensational premillennialism
+      —which views biblical prophecies as literal and still applicable today. Christian
+      Zionists (aka CZs) take God’s covenants with Abraham and his descendants (the
+      Jewish people) as eternal and unconditional. The CZs rely to two snippets from
+      the Old Testament / Pentateuch to justify exalting the modern state of Israel:
+      Genesis 12:3: “I will bless those who bless you, and whoever curses you I will
+      curse.” Genesis 17:8: God promises the land of Canaan “to you and your descendants
+      after you… as an everlasting possession.” Christian Zionists support Israel because
+      they believe the Bible literally promises the Jewish people an eternal covenant
+      with the land, that modern Israel fulfills ancient prophecy, and that backing
+      Israel aligns believers with God’s end-times plan and brings divine blessing.
+      This theological conviction drives both spiritual solidarity and strong political
+      advocacy. But there are several problems with this. Let’s start with the polygamous
+      activities of Abraham. The initial promises to Abraham in Genesis (e.g., Genesis
+      12:1–3, 15:18) are broad, speaking of blessing Abraham’s “offspring” or “seed”
+      (zera in Hebrew) without naming a specific child. Abraham had eight sons total:
+      Ishmael (with Hagar), Isaac (with Sarah), and six others (Zimran, Jokshan, Medan,
+      Midian, Ishbak, Shuah) with Keturah (Genesis 25:1–6). Abraham, if he were alive
+      today,   would fit in well in some Florida retirement villages that are notorious
+      for rampant sexual activity among the senior citizens. So why do the CZs assume
+      that God’s promise to Abraham only applies to Isaac and not the other seven offspring?
+      I maintain that is a consequence of author bias. The traditional Jewish (and much
+      Christian) view attributes the entire Torah—including the first five books (Genesis
+      through Deuteronomy)—to Moses himself, around the 13th–15th century BCE, as divine
+      revelation received at Sinai and written down by Moses. The is ZERO archeological
+      evidence to support that claim. Modern biblical scholarship (the consensus among
+      non-traditionalist academics) rejects full Mosaic authorship. Instead, the Documentary
+      Hypothesis (or variations) proposes the Pentateuch was composed from multiple
+      sources over centuries: J (Yahwist) and E (Elohist) : Pre-exilic, 10th–8th centuries
+      BCE. D (Deuteronomist): Core of Deuteronomy, often dated to the 7th century BCE
+      (reign of Josiah, ~622 BCE “discovery” of the law book). P (Priestly): Exilic
+      or post-exilic, 6th–5th centuries BCE. The final redaction/compilation into its
+      current form is generally placed in the Persian period (5th–4th centuries BCE),
+      during or after the Babylonian Exile (586–539 BCE), when returning Jewish leaders
+      (e.g., Ezra) shaped the text to unify the community. The men who compiled the
+      the oral traditions into what came to be known as the Pentateuch represented a
+      narrow branch of Abraham’s descendants through Isaac. To understand the men who
+      produced the first five books of the Old Testament, we need a bit of history.
+      The Babylonians (under Nebuchadnezzar II) conquered and deported people from the
+      Kingdom of Judah (the southern kingdom) in a series of campaigns between 597 BCE
+      and 582 BCE. This is known as the Babylonian Captivity or Exile. The Northern
+      Kingdom of Israel (comprising the other ten tribes : Reuben, Simeon, Dan, Naphtali,
+      Gad, Asher, Issachar, Zebulun, Ephraim, and Manasseh) had been conquered and deported
+      much earlier by the Assyrians in 722 BCE. Those are often called the “ Ten Lost
+      Tribes .” The Babylonians did not deport the northern ten tribes—they were already
+      scattered centuries before. Some individuals from northern tribes had migrated
+      south to Judah after the Assyrian conquest (e.g., as mentioned in 2 Chronicles),
+      so a small remnant of those tribes may have been among the Babylonian exiles.
+      However, the captivity specifically targeted the people of Judah (meaning the
+      southern kingdom’s population, dominated by the tribes of Judah, Benjamin, and
+      Levi). Just to be clear… 75% of the descendants of Isaac through Jacob disappeared
+      into the mists of history. So scholars representing only three of the 12 tribes
+      of Israel were sitting around in Babylon with nothing better to do than compile
+      the stories and oral traditions, along with whatever texts had survived the march
+      into Babylon, that made them the center of the story of what we now know as Judaism.
+      That’s what I mean by author bias. The descendants of Ishmael, who are believed
+      to be what we now call Arabs, did not get a chance to weigh in until about one
+      thousand years later when the Qur’an was written. Now here’s the kicker… Palestinians
+      share more genetic markers with the original inhabitants of what is now known
+      as the state of Israel than the European Jews (aka Ashkenazi). Ashkenazi Jews
+      and Palestinians share a substantial genetic heritage rooted in the ancient Levant
+      (modern-day Israel/Palestine region), reflecting common Bronze and Iron Age ancestry
+      from Canaanite, Philistine, and early Israelite populations. Autosomal DNA studies
+      show both groups clustering closely with ancient Levantine samples, with Y-chromosome
+      haplotypes indicating ~70% similarity between Jewish males (including Ashkenazi)
+      and Palestinian Muslims, suggesting shared patrilineal origins. Palestinians often
+      exhibit higher genetic continuity with Iron Age Levantines (e.g., ~60-80% match),
+      while Ashkenazi Jews display ~50% Levantine ancestry, reflecting a common regional
+      foundation disrupted by historical migrations and admixture. About 30% of the
+      current Jewish inhabitants of Israel identify as Ashkenazi. Ashkenazi Jews have
+      ~35-50% Southern/Western European admixture (from medieval conversions and intermarriages
+      in Italy, Germany, and Eastern Europe) and ~10-20% Eastern European contributions,
+      diluting their Levantine signal compared to Palestinians, who show more Arab/Bedouin
+      input (~20-30%) from post-7th century Islamic expansions but retain stronger ties
+      to local ancient populations. Mitochondrial DNA (maternal lines) in Ashkenazi
+      Jews leans more European (~80%), while Palestinians’ is predominantly Levantine/Arab.
+      Overall, both groups are genetically closer to each other than to most other populations,
+      underscoring shared ancient roots despite centuries of separation. The key point
+      is that the Palestinians have a stronger biological connection to Palestine and
+      Israel than do the Ashkenzai, such as Benjamin Netanyahu. Then there are the Mizrahi.
+      Mizrahi Jews (from Middle Eastern and North African communities, such as Iraq,
+      Yemen, Iran, and Syria) and Palestinians exhibit even closer genetic affinities
+      than Ashkenazi Jews and Palestinians, reflecting their shared origins in the ancient
+      Levant without the significant European diaspora admixture seen in Ashkenazi populations.
+      Autosomal DNA studies (e.g., from the 2023 Agranat-Tamir et al. in Cell and 2024
+      updates in Nature Communications) show both groups deriving ~70–90% of their ancestry
+      from Bronze and Iron Age Levantine peoples (Canaanites, Phoenicians, early Israelites),
+      with Palestinians often displaying the highest continuity (~80–95% match to ancient
+      samples from sites like Megiddo). Mizrahi Jews cluster tightly with Palestinians
+      on principal component analyses, sharing ~75–85% Levantine components, bolstered
+      by minimal external admixture (e.g., ~5–15% from Arabian Peninsula or Persian
+      sources), making them genetically indistinguishable from pre-exilic Jewish populations
+      in many markers. The truth of the matter is that Palestinians and Arabs are genetically
+      Semitic in the sense of deriving substantial ancestry from ancient Levantine Semitic-speaking
+      populations (e.g., Canaanites), with close relatedness to other Semitic groups
+      like Jews. What we are witnessing with the genocide in Gaza is a blood feud among
+      cousins. What makes the CZ claim about Israel as the fulfillment of prophecy is
+      that only 23% of the Jewish inhabitants of Israel actually are classified as religious,
+      which means they accept the traditional view that Moses wrote the Pentateuch.
+      The other 77% are secular — i.e., they do not accept the Old Testament as the
+      divine word of God. In other words, they don’t believe that there was a God who
+      promised Abraham that they, and they alone, would inhabit Judea and Samaria. These
+      facts expose the gross ignorance of the CZs, and the politicians who support them,
+      with respect to the term, anti-Semitic. If you hate Arabs or Palestinians you
+      are an anti-Semite. Anti-Semitism, despite the furious efforts of Jewish ethno-supremacists,
+      to claim it as an exclusive label for Jew hatred, is not about being anti-Jewish.
+      It also applies to those who hate Palestinians and Arabs. Alright… Let the debate
+      begin. I am sure there will be a few comments on this topic. I am posting the
+      conversation I had on Wednesday evening with Pascal Lottaz of Neutrality Studies
+      . I also am linking to Jimmy Dore’s recent conversation with Candace Owens: I
+      thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: Christian Zionism is a movement among evangelical Protestants
+      that strongly supports the modern State of Israel based on a literal interpretation
+      of biblical prophecies and covenants, particularly those found in Genesis, which
+      they believe affirm the Jewish people's right to the land.
+    paragraph_summary: Christian Zionism is a movement among evangelical Protestants,
+      particularly in the U.S., that strongly supports Israel and the Jewish people's
+      claim to the land, based on a literal interpretation of the Bible, specifically
+      dispensational premillennialism. This belief system hinges on God's eternal covenants
+      with Abraham and his descendants, as outlined in Genesis, which Christian Zionists
+      interpret as a divine promise of land ownership to the Jewish people. They argue
+      that supporting Israel is not only a fulfillment of biblical prophecy but also
+      aligns believers with God's end-times plan, ensuring divine blessings. However,
+      the article raises questions about the selective interpretation of these biblical
+      promises, particularly regarding Abraham's multiple offspring, suggesting that
+      the focus on Isaac alone may overlook the broader implications of God's covenant
+      with all of Abraham's descendants.
+    published: '2025-12-14T03:16:06+00:00'
+  - title: The Nonsense of Christian Zionism
+    url: https://sonar21.com/the-nonsense-of-christian-zionism/
+    text: 'I am sure this going to anger some people, but so be it. Christian Zionism
+      is a theological and political movement primarily among evangelical Protestants
+      (especially in the United States) that expresses strong support for the modern
+      State of Israel and the Jewish people’s right to the land. Its beliefs are rooted
+      in a particular interpretation of the Bible—known as dispensational premillennialism
+      —which views biblical prophecies as literal and still applicable today. Christian
+      Zionists (aka CZs) take God’s covenants with Abraham and his descendants (the
+      Jewish people) as eternal and unconditional. The CZs rely to two snippets from
+      the Old Testament / Pentateuch to justify exalting the modern state of Israel:
+      Genesis 12:3: “I will bless those who bless you, and whoever curses you I will
+      curse.” Genesis 17:8: God promises the land of Canaan “to you and your descendants
+      after you… as an everlasting possession.” Christian Zionists support Israel because
+      they believe the Bible literally promises the Jewish people an eternal covenant
+      with the land, that modern Israel fulfills ancient prophecy, and that backing
+      Israel aligns believers with God’s end-times plan and brings divine blessing.
+      This theological conviction drives both spiritual solidarity and strong political
+      advocacy. But there are several problems with this. Let’s start with the polygamous
+      activities of Abraham. The initial promises to Abraham in Genesis (e.g., Genesis
+      12:1–3, 15:18) are broad, speaking of blessing Abraham’s “offspring” or “seed”
+      (zera in Hebrew) without naming a specific child. Abraham had eight sons total:
+      Ishmael (with Hagar), Isaac (with Sarah), and six others (Zimran, Jokshan, Medan,
+      Midian, Ishbak, Shuah) with Keturah (Genesis 25:1–6). Abraham, if he were alive
+      today,   would fit in well in some Florida retirement villages that are notorious
+      for rampant sexual activity among the senior citizens. So why do the CZs assume
+      that God’s promise to Abraham only applies to Isaac and not the other seven offspring?
+      I maintain that is a consequence of author bias. The traditional Jewish (and much
+      Christian) view attributes the entire Torah—including the first five books (Genesis
+      through Deuteronomy)—to Moses himself, around the 13th–15th century BCE, as divine
+      revelation received at Sinai and written down by Moses. The is ZERO archeological
+      evidence to support that claim. Modern biblical scholarship (the consensus among
+      non-traditionalist academics) rejects full Mosaic authorship. Instead, the Documentary
+      Hypothesis (or variations) proposes the Pentateuch was composed from multiple
+      sources over centuries: J (Yahwist) and E (Elohist) : Pre-exilic, 10th–8th centuries
+      BCE. D (Deuteronomist): Core of Deuteronomy, often dated to the 7th century BCE
+      (reign of Josiah, ~622 BCE “discovery” of the law book). P (Priestly): Exilic
+      or post-exilic, 6th–5th centuries BCE. The final redaction/compilation into its
+      current form is generally placed in the Persian period (5th–4th centuries BCE),
+      during or after the Babylonian Exile (586–539 BCE), when returning Jewish leaders
+      (e.g., Ezra) shaped the text to unify the community. The men who compiled the
+      the oral traditions into what came to be known as the Pentateuch represented a
+      narrow branch of Abraham’s descendants through Isaac. To understand the men who
+      produced the first five books of the Old Testament, we need a bit of history.
+      The Babylonians (under Nebuchadnezzar II) conquered and deported people from the
+      Kingdom of Judah (the southern kingdom) in a series of campaigns between 597 BCE
+      and 582 BCE. This is known as the Babylonian Captivity or Exile. The Northern
+      Kingdom of Israel (comprising the other ten tribes : Reuben, Simeon, Dan, Naphtali,
+      Gad, Asher, Issachar, Zebulun, Ephraim, and Manasseh) had been conquered and deported
+      much earlier by the Assyrians in 722 BCE. Those are often called the “ Ten Lost
+      Tribes .” The Babylonians did not deport the northern ten tribes—they were already
+      scattered centuries before. Some individuals from northern tribes had migrated
+      south to Judah after the Assyrian conquest (e.g., as mentioned in 2 Chronicles),
+      so a small remnant of those tribes may have been among the Babylonian exiles.
+      However, the captivity specifically targeted the people of Judah (meaning the
+      southern kingdom’s population, dominated by the tribes of Judah, Benjamin, and
+      Levi). Just to be clear… 75% of the descendants of Isaac through Jacob disappeared
+      into the mists of history. So scholars representing only three of the 12 tribes
+      of Israel were sitting around in Babylon with nothing better to do than compile
+      the stories and oral traditions, along with whatever texts had survived the march
+      into Babylon, that made them the center of the story of what we now know as Judaism.
+      That’s what I mean by author bias. The descendants of Ishmael, who are believed
+      to be what we now call Arabs, did not get a chance to weigh in until about one
+      thousand years later when the Qur’an was written. Now here’s the kicker… Palestinians
+      share more genetic markers with the original inhabitants of what is now known
+      as the state of Israel than the European Jews (aka Ashkenazi). Ashkenazi Jews
+      and Palestinians share a substantial genetic heritage rooted in the ancient Levant
+      (modern-day Israel/Palestine region), reflecting common Bronze and Iron Age ancestry
+      from Canaanite, Philistine, and early Israelite populations. Autosomal DNA studies
+      show both groups clustering closely with ancient Levantine samples, with Y-chromosome
+      haplotypes indicating ~70% similarity between Jewish males (including Ashkenazi)
+      and Palestinian Muslims, suggesting shared patrilineal origins. Palestinians often
+      exhibit higher genetic continuity with Iron Age Levantines (e.g., ~60-80% match),
+      while Ashkenazi Jews display ~50% Levantine ancestry, reflecting a common regional
+      foundation disrupted by historical migrations and admixture. About 30% of the
+      current Jewish inhabitants of Israel identify as Ashkenazi. Ashkenazi Jews have
+      ~35-50% Southern/Western European admixture (from medieval conversions and intermarriages
+      in Italy, Germany, and Eastern Europe) and ~10-20% Eastern European contributions,
+      diluting their Levantine signal compared to Palestinians, who show more Arab/Bedouin
+      input (~20-30%) from post-7th century Islamic expansions but retain stronger ties
+      to local ancient populations. Mitochondrial DNA (maternal lines) in Ashkenazi
+      Jews leans more European (~80%), while Palestinians’ is predominantly Levantine/Arab.
+      Overall, both groups are genetically closer to each other than to most other populations,
+      underscoring shared ancient roots despite centuries of separation. The key point
+      is that the Palestinians have a stronger biological connection to Palestine and
+      Israel than do the Ashkenzai, such as Benjamin Netanyahu. Then there are the Mizrahi.
+      Mizrahi Jews (from Middle Eastern and North African communities, such as Iraq,
+      Yemen, Iran, and Syria) and Palestinians exhibit even closer genetic affinities
+      than Ashkenazi Jews and Palestinians, reflecting their shared origins in the ancient
+      Levant without the significant European diaspora admixture seen in Ashkenazi populations.
+      Autosomal DNA studies (e.g., from the 2023 Agranat-Tamir et al. in Cell and 2024
+      updates in Nature Communications) show both groups deriving ~70–90% of their ancestry
+      from Bronze and Iron Age Levantine peoples (Canaanites, Phoenicians, early Israelites),
+      with Palestinians often displaying the highest continuity (~80–95% match to ancient
+      samples from sites like Megiddo). Mizrahi Jews cluster tightly with Palestinians
+      on principal component analyses, sharing ~75–85% Levantine components, bolstered
+      by minimal external admixture (e.g., ~5–15% from Arabian Peninsula or Persian
+      sources), making them genetically indistinguishable from pre-exilic Jewish populations
+      in many markers. The truth of the matter is that Palestinians and Arabs are genetically
+      Semitic in the sense of deriving substantial ancestry from ancient Levantine Semitic-speaking
+      populations (e.g., Canaanites), with close relatedness to other Semitic groups
+      like Jews. What we are witnessing with the genocide in Gaza is a blood feud among
+      cousins. What makes the CZ claim about Israel as the fulfillment of prophecy is
+      that only 23% of the Jewish inhabitants of Israel actually are classified as religious,
+      which means they accept the traditional view that Moses wrote the Pentateuch.
+      The other 77% are secular — i.e., they do not accept the Old Testament as the
+      divine word of God. In other words, they don’t believe that there was a God who
+      promised Abraham that they, and they alone, would inhabit Judea and Samaria. These
+      facts expose the gross ignorance of the CZs, and the politicians who support them,
+      with respect to the term, anti-Semitic. If you hate Arabs or Palestinians you
+      are an anti-Semite. Anti-Semitism, despite the furious efforts of Jewish ethno-supremacists,
+      to claim it as an exclusive label for Jew hatred, is not about being anti-Jewish.
+      It also applies to those who hate Palestinians and Arabs. Alright… Let the debate
+      begin. I am sure there will be a few comments on this topic. I am posting the
+      conversation I had on Wednesday evening with Pascal Lottaz of Neutrality Studies
+      . I also am linking to Jimmy Dore’s recent conversation with Candace Owens: I
+      thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: Christian Zionism is a movement among evangelical Protestants
+      that strongly supports the modern State of Israel based on a literal interpretation
+      of biblical prophecies and covenants, particularly those found in Genesis, which
+      they believe affirm the Jewish people's right to the land.
+    paragraph_summary: Christian Zionism is a movement among evangelical Protestants,
+      particularly in the U.S., that strongly supports Israel and the Jewish people's
+      claim to the land, based on a literal interpretation of the Bible, specifically
+      dispensational premillennialism. This belief system hinges on God's eternal covenants
+      with Abraham and his descendants, as outlined in Genesis, which Christian Zionists
+      interpret as a divine promise of land ownership to the Jewish people. They argue
+      that supporting Israel is not only a fulfillment of biblical prophecy but also
+      aligns believers with God's end-times plan, ensuring divine blessings. However,
+      the article raises questions about the selective interpretation of these biblical
+      promises, particularly regarding Abraham's multiple offspring, suggesting that
+      the focus on Isaac alone may overlook the broader implications of God's covenant
+      with all of Abraham's descendants.
+    published: '2025-12-14T03:16:06+00:00'
+  - title: Podcast Friday… I’m on the Road
+    url: https://sonar21.com/podcast-friday-im-on-the-road/
+    text: 'Photo by William Brumfield
+
+
+      I made a day trip to Washington, DC to attend a reception honoring Tulane Professor
+      William Brumfield. William Craft Brumfield is an American historian of Russian
+      architecture, architectural photographer, and professor of Slavic studies best
+      known for his decades‑long documentation of Russia’s architectural heritage.
+
+
+      Beginning with Gold in Azure: One Thousand Years of Russian Architecture (1983),
+      Brumfield has authored and photographed a series of major studies, including The
+      Origins of Modernism in Russian Architecture, A History of Russian Architecture,
+      Lost Russia: Photographing the Ruins of Russian Architecture, and multi‑volume
+      regional albums on Vologda and the Russian North. He has spent around fifteen
+      years living and researching in Russia, extensively traveling from the Russian
+      North and Arctic to Siberia and the Far East to document churches, wooden architecture,
+      and vernacular buildings.
+
+
+      Here are the podcasts I’ve done in the last two days. The interview with Mario
+      Nawfal was particularly interesting:'
+    one_sentence_summary: The article highlights a day trip to Washington, DC to honor
+      Tulane Professor William Brumfield, a prominent historian and photographer of
+      Russian architecture, known for his extensive documentation and studies of Russia's
+      architectural heritage over several decades.
+    paragraph_summary: 'The article discusses a day trip to Washington, DC, to attend
+      a reception honoring Tulane Professor William Brumfield, a prominent historian
+      of Russian architecture and architectural photographer. Brumfield is recognized
+      for his extensive documentation of Russia''s architectural heritage, having authored
+      significant works such as "Gold in Azure: One Thousand Years of Russian Architecture"
+      and "Lost Russia: Photographing the Ruins of Russian Architecture." With around
+      fifteen years spent living and researching in Russia, he has traveled extensively
+      across the country to document various architectural forms, including churches
+      and vernacular buildings. Additionally, the author mentions recent podcast interviews,
+      highlighting one with Mario Nawfal as particularly interesting.'
+    published: '2025-12-13T05:25:31+00:00'
+  - title: Why Did the FBI Insert Itself  in the Charlie Kirk Murder Investigation…
+      Seth Rich Deja Vu?
+    url: https://sonar21.com/why-did-the-fbi-insert-itself-in-the-charlie-kirk-murder-investigation-seth-rich-deja-vu/
+    text: 'Let me explain the meaning of my headline for those of you unfamiliar with
+      the authority of the FBI  to investigate Federal crimes while State and local
+      authorities… The FBI does not have the authority to investigate Charlie Kirk’s
+      murder unless there was foreign involvement or a clear violation of a Federal
+      statute. The FBI is a federal agency with nationwide jurisdiction, but it can
+      only investigate crimes that violate federal statutes (codified mostly in Title
+      18 of the U.S. Code) or that have a clear federal nexus . Typical FBI crimes include:
+      Crimes that cross state lines (interstate kidnapping, fugitive flight, human trafficking,
+      large-scale drug trafficking) Crimes against federal property, employees, or programs
+      (bank robbery, federal corruption involving federal funds, mail/wire fraud) Specifically
+      enumerated federal offenses (terrorism, civil-rights violations under color of
+      law, RICO for interstate organized crime, major cybercrimes affecting interstate
+      commerce, child exploitation material crossing state lines, etc.) Major crimes
+      on federal land, Indian reservations, aircraft, or maritime jurisdiction The FBI
+      does not have general police powers. It cannot, on its own authority, investigate
+      ordinary murder, rape, robbery, burglary, assault, theft, or street-level drug
+      dealing unless one of the federal elements above is present. State and local authorities
+      handle almost all “traditional” street crime and routine law enforcement. The
+      FBI steps in only when Congress has specifically made the conduct a federal offense
+      or when a clear interstate/federal interest exists. Based on the indictment of
+      the alleged shooter of Charlie Kirk — i.e., a Utah resident allegedly committed
+      murder in Utah — the FBI has no role or jurisdiction in the matter. Yet, for some
+      reason, the FBI is involved in the case. Why? This brings me back to the case
+      of Seth Rich. Seth Rich was a 27‑year‑old staffer at the Democratic National Committee
+      who was shot and killed in Washington, D.C., in the early morning of July 10,
+      2016. Police found him with two gunshot wounds to the back near his home in the
+      Bloomingdale neighborhood; he was taken to a hospital and died about an hour and
+      a half later. Metropolitan Police treated the case as a likely attempted street
+      robbery gone wrong, noting a pattern of robberies in the area, though his wallet
+      and other valuables were not taken. No suspects have been arrested, and the case
+      remains officially unsolved. Just another murder in DC… Right? Wrong. The FBI
+      was heavily involved in the case. The following is from a blog post I wrote five
+      years ago: The FBI finally admitted to Judicial Watch in January 2020 that they
+      had emails between the Washington Field Office and FBI Headquarters. These are
+      dynamite because they show that the FBI’s Washington Field Office (which is not
+      located at FBI Headquarters on 9th and Pennsylvania Avenue, NW in Washington,
+      DC) was communicating with the FBI’s Peter Strzok and the Counter Intelligence
+      Division. Why in the world would the FBI be involved in investigating what was
+      supposedly a mere robbery of an unfortunate white victim (i.e., Seth Rich) and
+      communicating on this investigation with the Counter Intelligence Division (CID)
+      of the FBI? The CID only works international spy cases. Here are the emails (I
+      transcribed them and put them in chronological order to facilitate your ability
+      to read them and understand what is being communicated). 10:32 am — Message sent
+      from FBI’s Washington Field Office Public Affairs officer to at least three other
+      Washington Field Office FBI Agents. In addition, there are three other blacked
+      out areas in the addressee field, which appear to be the names of persons who
+      do not work at the Washington Field Office. I hope you are well. I heard from
+      the front office that you are covering for BLANK this week. Various news outlets
+      are reporting today that Julian Assange suggested during an overseas interview
+      that DNC Staffer, Seth Rich, was a Wikileaks source and may have been killed because
+      he leaked the DNC e-mails to his organization, and that Wikileaks is offering
+      $20,000 for information regarding the death of Seth Rich last month. Based on
+      this news, we anticipate additional press coverage on this matter. I hear that
+      you are in a class today; however, when you have a moment can you give me a call
+      to discuss what involvement the FBI has in the investigation. 12:53 pm — Message
+      replying to the 10:32 am message, sent from FBI Washington Field Office with at
+      least four other Washington Field Office FBI Agents addressed on the message.
+      There also are two other blacked out addresses, which may indicate personnel not
+      in the Washington Field Office. Adding BLANK (a name to the addressee list). I
+      am aware of this reporting from earlier this week, but not any involvement in
+      any related case. BLANKED OUT. 12:54 pm — Message sent from FBI Washington Field
+      Office with at least four other Washington Field Office FBI Agents addressed on
+      the message. There also are two other blacked out addresses, which may indicate
+      personnel not in the Washington Field Office. Adding BLANK for real. Stupid Samsung.
+      (Apparently the author of this message failed in the preceding message.) 1:00
+      pm — Message replying to the 12:54 pm message, sent from FBI Washington Field
+      Office with five other Washington Field Office FBI Agents addressed on the message.
+      Hi. (THE REST OF THE MESSAGE IS BLANKED OUT.) 1:25 pm — Message replying to the
+      1:00 pm message, sent from FBI Washington Field Office with five other Washington
+      Field Office FBI Agents addressed on the message. Plus, two other BLANKED out
+      addressees not identified. Thanks BLANK will do. 7:09 pm — Message from FBI Washington
+      Field Office to Jonathan Moffat and Peter Strzok of the FBI’s Criminal Division
+      and two other BLANKED out addressees. FYSA (For Your Situational Awareness). I
+      squashed this with BLANK 7:49 pm Text message from Peter Strzok to Lisa Page forwarding
+      her this email chain. Let me emphasize that this was anything but routine. It
+      extraordinary and unprecedented for the FBI’s CID to be involved in a simple urban
+      robbery. Something else was afoot. The assassination of Charlie Kirk, if the indictment
+      of Tyler Robinson is true, was not a Federal crime. Yet the FBI, Homeland Security
+      and DOJ all responded initially as if it was a Federal crime. Now, the matter
+      is being handled as a state crime with no federal jurisdiction. Based on the video
+      evidence and public information regarding the destructive power of a .30-06 round,
+      I do not believe that Tyler Robinson was the shooter. In fact, I think there is
+      ample circumstantial evidence that would warrant the FBI taking a leading role
+      in the investigation because of possible foreign involvement in Kirk’s murder.
+      But that apparently is not happening… The Trump administration is doing a poor
+      imitation of Frank Drebin in the Naked Gun : I had the privilege of being interviewed
+      on Wednesday by my friend, George Galloway: I thank you for your invaluable support
+      by taking time to read or comment. I do not charge a subscription fee nor do I
+      accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: The FBI can only investigate crimes like Charlie Kirk's murder
+      if there is foreign involvement or a violation of federal law, as its jurisdiction
+      is limited to federal statutes and offenses with a federal nexus.
+    paragraph_summary: The article explains the limitations of the FBI's jurisdiction
+      in investigating crimes, emphasizing that the agency can only pursue federal offenses
+      or crimes with a federal nexus, such as those involving interstate elements or
+      specific federal statutes. It clarifies that the FBI does not have general police
+      powers and typically does not investigate ordinary crimes like murder or robbery
+      unless they meet certain federal criteria. The author questions the FBI's involvement
+      in the murder case of Charlie Kirk, which appears to fall under state jurisdiction,
+      and draws a parallel to the controversial investigation of Seth Rich's murder,
+      suggesting that the FBI's engagement in such cases may be unwarranted.
+    published: '2025-12-12T04:45:06+00:00'
+  - title: Why Did the FBI Insert Itself  in the Charlie Kirk Murder Investigation…
+      Seth Rich Deja Vu?
+    url: https://sonar21.com/why-did-the-fbi-insert-itself-in-the-charlie-kirk-murder-investigation-seth-rich-deja-vu/
+    text: 'Let me explain the meaning of my headline for those of you unfamiliar with
+      the authority of the FBI  to investigate Federal crimes while State and local
+      authorities… The FBI does not have the authority to investigate Charlie Kirk’s
+      murder unless there was foreign involvement or a clear violation of a Federal
+      statute. The FBI is a federal agency with nationwide jurisdiction, but it can
+      only investigate crimes that violate federal statutes (codified mostly in Title
+      18 of the U.S. Code) or that have a clear federal nexus . Typical FBI crimes include:
+      Crimes that cross state lines (interstate kidnapping, fugitive flight, human trafficking,
+      large-scale drug trafficking) Crimes against federal property, employees, or programs
+      (bank robbery, federal corruption involving federal funds, mail/wire fraud) Specifically
+      enumerated federal offenses (terrorism, civil-rights violations under color of
+      law, RICO for interstate organized crime, major cybercrimes affecting interstate
+      commerce, child exploitation material crossing state lines, etc.) Major crimes
+      on federal land, Indian reservations, aircraft, or maritime jurisdiction The FBI
+      does not have general police powers. It cannot, on its own authority, investigate
+      ordinary murder, rape, robbery, burglary, assault, theft, or street-level drug
+      dealing unless one of the federal elements above is present. State and local authorities
+      handle almost all “traditional” street crime and routine law enforcement. The
+      FBI steps in only when Congress has specifically made the conduct a federal offense
+      or when a clear interstate/federal interest exists. Based on the indictment of
+      the alleged shooter of Charlie Kirk — i.e., a Utah resident allegedly committed
+      murder in Utah — the FBI has no role or jurisdiction in the matter. Yet, for some
+      reason, the FBI is involved in the case. Why? This brings me back to the case
+      of Seth Rich. Seth Rich was a 27‑year‑old staffer at the Democratic National Committee
+      who was shot and killed in Washington, D.C., in the early morning of July 10,
+      2016. Police found him with two gunshot wounds to the back near his home in the
+      Bloomingdale neighborhood; he was taken to a hospital and died about an hour and
+      a half later. Metropolitan Police treated the case as a likely attempted street
+      robbery gone wrong, noting a pattern of robberies in the area, though his wallet
+      and other valuables were not taken. No suspects have been arrested, and the case
+      remains officially unsolved. Just another murder in DC… Right? Wrong. The FBI
+      was heavily involved in the case. The following is from a blog post I wrote five
+      years ago: The FBI finally admitted to Judicial Watch in January 2020 that they
+      had emails between the Washington Field Office and FBI Headquarters. These are
+      dynamite because they show that the FBI’s Washington Field Office (which is not
+      located at FBI Headquarters on 9th and Pennsylvania Avenue, NW in Washington,
+      DC) was communicating with the FBI’s Peter Strzok and the Counter Intelligence
+      Division. Why in the world would the FBI be involved in investigating what was
+      supposedly a mere robbery of an unfortunate white victim (i.e., Seth Rich) and
+      communicating on this investigation with the Counter Intelligence Division (CID)
+      of the FBI? The CID only works international spy cases. Here are the emails (I
+      transcribed them and put them in chronological order to facilitate your ability
+      to read them and understand what is being communicated). 10:32 am — Message sent
+      from FBI’s Washington Field Office Public Affairs officer to at least three other
+      Washington Field Office FBI Agents. In addition, there are three other blacked
+      out areas in the addressee field, which appear to be the names of persons who
+      do not work at the Washington Field Office. I hope you are well. I heard from
+      the front office that you are covering for BLANK this week. Various news outlets
+      are reporting today that Julian Assange suggested during an overseas interview
+      that DNC Staffer, Seth Rich, was a Wikileaks source and may have been killed because
+      he leaked the DNC e-mails to his organization, and that Wikileaks is offering
+      $20,000 for information regarding the death of Seth Rich last month. Based on
+      this news, we anticipate additional press coverage on this matter. I hear that
+      you are in a class today; however, when you have a moment can you give me a call
+      to discuss what involvement the FBI has in the investigation. 12:53 pm — Message
+      replying to the 10:32 am message, sent from FBI Washington Field Office with at
+      least four other Washington Field Office FBI Agents addressed on the message.
+      There also are two other blacked out addresses, which may indicate personnel not
+      in the Washington Field Office. Adding BLANK (a name to the addressee list). I
+      am aware of this reporting from earlier this week, but not any involvement in
+      any related case. BLANKED OUT. 12:54 pm — Message sent from FBI Washington Field
+      Office with at least four other Washington Field Office FBI Agents addressed on
+      the message. There also are two other blacked out addresses, which may indicate
+      personnel not in the Washington Field Office. Adding BLANK for real. Stupid Samsung.
+      (Apparently the author of this message failed in the preceding message.) 1:00
+      pm — Message replying to the 12:54 pm message, sent from FBI Washington Field
+      Office with five other Washington Field Office FBI Agents addressed on the message.
+      Hi. (THE REST OF THE MESSAGE IS BLANKED OUT.) 1:25 pm — Message replying to the
+      1:00 pm message, sent from FBI Washington Field Office with five other Washington
+      Field Office FBI Agents addressed on the message. Plus, two other BLANKED out
+      addressees not identified. Thanks BLANK will do. 7:09 pm — Message from FBI Washington
+      Field Office to Jonathan Moffat and Peter Strzok of the FBI’s Criminal Division
+      and two other BLANKED out addressees. FYSA (For Your Situational Awareness). I
+      squashed this with BLANK 7:49 pm Text message from Peter Strzok to Lisa Page forwarding
+      her this email chain. Let me emphasize that this was anything but routine. It
+      extraordinary and unprecedented for the FBI’s CID to be involved in a simple urban
+      robbery. Something else was afoot. The assassination of Charlie Kirk, if the indictment
+      of Tyler Robinson is true, was not a Federal crime. Yet the FBI, Homeland Security
+      and DOJ all responded initially as if it was a Federal crime. Now, the matter
+      is being handled as a state crime with no federal jurisdiction. Based on the video
+      evidence and public information regarding the destructive power of a .30-06 round,
+      I do not believe that Tyler Robinson was the shooter. In fact, I think there is
+      ample circumstantial evidence that would warrant the FBI taking a leading role
+      in the investigation because of possible foreign involvement in Kirk’s murder.
+      But that apparently is not happening… The Trump administration is doing a poor
+      imitation of Frank Drebin in the Naked Gun : I had the privilege of being interviewed
+      on Wednesday by my friend, George Galloway: I thank you for your invaluable support
+      by taking time to read or comment. I do not charge a subscription fee nor do I
+      accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: The FBI can only investigate crimes like Charlie Kirk's murder
+      if there is foreign involvement or a violation of federal law, as its jurisdiction
+      is limited to federal statutes and offenses with a federal nexus.
+    paragraph_summary: The article explains the limitations of the FBI's jurisdiction
+      in investigating crimes, emphasizing that the agency can only pursue federal offenses
+      or crimes with a federal nexus, such as those involving interstate elements or
+      specific federal statutes. It clarifies that the FBI does not have general police
+      powers and typically does not investigate ordinary crimes like murder or robbery
+      unless they meet certain federal criteria. The author questions the FBI's involvement
+      in the murder case of Charlie Kirk, which appears to fall under state jurisdiction,
+      and draws a parallel to the controversial investigation of Seth Rich's murder,
+      suggesting that the FBI's engagement in such cases may be unwarranted.
+    published: '2025-12-12T04:45:06+00:00'
+  - title: Belgium is Caught Between the Euro Dog and the Russian Fireplug
+    url: https://sonar21.com/belgium-is-caught-between-the-euro-dog-and-the-russian-fireplug/
+    text: 'If you are caught between a dog with a full bladder and a fireplug, you are
+      going to get a golden shower . If the EU’s Ursula von der Leyen gets her way,
+      Belgium faces an unpleasant hosing down. Some European members of NATO, eager
+      to save a Ukraine that is beyond salvation, are desperately trying to figure out
+      a way to steal Russian assets held by Euroclear without admitting that they are
+      guilty of theft. The European Commission is the most vocal advocate for using
+      the cash and windfall profits generated by frozen Russian sovereign assets held
+      at Euroclear (and similar EU institutions) in a deceitful scheme to back large
+      loans for Ukraine’s budget, defence, and reconstruction. It presents this as an
+      unprecedented but legally “safer” reparations‑loan mechanism that leaves Russia’s
+      ownership claim over the underlying assets formally intact while redirecting the
+      income and cash balances they generate. But anyway you paint it, it is still theft
+      and Belgium is squirming at the prospect. To understand what is going on you need
+      a brief tutorial on Euroclear . Euroclear is a Brussels-based global securities
+      depository that holds approximately €200–300 billion in frozen Russian central
+      bank assets (as of December 2025) as a consequence EU sanctions post-Russia’s
+      2022 invasion of Ukraine. The EU’s plan, advanced in early December 2025, aims
+      to seize or leverage these for a €50 billion loan to Ukraine, but Belgium— Euroclear’s
+      host nation—has rejected it, citing unacceptable risks. Belgian officials argue
+      the move would expose the country to “massive liability” as the legal situs of
+      the assets, potentially paralyzing the scheme. Below are the primary risks, based
+      on Belgian government statements, Euroclear’s concerns, and expert analyses. The
+      biggest problem for Belgium is that Russia has threatened Investor-State Dispute
+      Settlement (ISDS) proceedings against Belgium under bilateral investment treaties
+      (e.g., the 1989 Russia-Belgium-Luxembourg agreement), claiming the seizure as
+      “theft” and seeking billions in compensation. These treaties, predating the war,
+      could result in arbitration at bodies like the Permanent Court of Arbitration
+      in The Hague, with penalties up to €33–50 billion (matching Russia’s estimated
+      losses). Belgium, with good cause, believes it would come out on the losing side
+      of this arbitration. Belgium views the EU plan as “illegal under international
+      law,” potentially violating property rights and exposing the state to direct lawsuits,
+      unlike other EU members without similar treaties. The EU’s guarantees (e.g., shared
+      liability) are deemed insufficient by Brussels. As Euroclear’s regulator and host,
+      Belgium would face indemnification claims from clients or Russia, straining its
+      €500 billion sovereign wealth fund or requiring taxpayer bailouts. Euroclear has
+      already warned of “catastrophic” operational disruptions, including client withdrawals
+      that could cost Belgium €10–20 billion in lost financial activity annually. Russia,
+      for its part, has warned that seizure will trigger retaliatory Russian asset freezes
+      on Belgian holdings abroad (~€33 billion already confiscated by Moscow), which
+      will escalate economic warfare. Euroclear’s neutrality as a “safe harbor” for
+      global securities (handling €37 trillion) would be undermined, deterring investors
+      and eroding Belgium’s status as a financial hub (e.g., Brussels as EU capital).
+      The firm has expressed “serious concerns” over being politicized, potentially
+      leading to a 10–15% drop in custody volumes. Belgium’s stance has stalled the
+      EU plan, prompting calls to redistribute assets (e.g., €25 billion outside Euroclear)
+      to mitigate these risks. Critics argue it’s overly cautious, but Belgian PM Alexander
+      De Croo has prioritized “legal certainty” to avoid “unintended consequences.”
+      The Europeans need to listen to a Beatle’s classic… Money can’t buy you love (sex,
+      but not love) and it can’t buy Ukraine a victory over Russia. Notwithstanding
+      the rhetoric spilling out of their gaping yaps, the Europeans are not willing
+      to give Ukraine all that they got to give if it means the Europeans have to use
+      their own funds. Tis better to go on a weapons shopping spree with another nation’s
+      credit card. I have another movie clip for you that captures what Europe may have
+      done already with the Russian assets… Think of Europe as the character played
+      by Jim Carrey, but not as smart: Danny Davis and I had an excellent chat today:
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The EU, led by Ursula von der Leyen, is pushing for a controversial
+      plan to use frozen Russian assets held in Belgium to finance Ukraine, which Belgium
+      views as a troubling and potentially illegal act of theft.
+    paragraph_summary: The article discusses the European Union's controversial plan
+      to utilize frozen Russian assets held by Euroclear, a Brussels-based securities
+      depository, to fund a €50 billion loan for Ukraine amidst its ongoing conflict
+      with Russia. The EU, led by Ursula von der Leyen, advocates for this approach
+      as a legally "safer" reparations-loan mechanism, which would technically maintain
+      Russia's ownership claims while redirecting the income from these assets. However,
+      Belgium, as the host nation of Euroclear, has expressed significant concerns about
+      the legal and financial risks involved, fearing potential liabilities and threats
+      of legal action from Russia under existing bilateral investment treaties. Consequently,
+      Belgium is hesitant to support the scheme, which could jeopardize its legal standing
+      and expose it to massive liabilities.
+    published: '2025-12-11T04:39:03+00:00'
+  - title: Belgium is Caught Between the Euro Dog and the Russian Fireplug
+    url: https://sonar21.com/belgium-is-caught-between-the-euro-dog-and-the-russian-fireplug/
+    text: 'If you are caught between a dog with a full bladder and a fireplug, you are
+      going to get a golden shower . If the EU’s Ursula von der Leyen gets her way,
+      Belgium faces an unpleasant hosing down. Some European members of NATO, eager
+      to save a Ukraine that is beyond salvation, are desperately trying to figure out
+      a way to steal Russian assets held by Euroclear without admitting that they are
+      guilty of theft. The European Commission is the most vocal advocate for using
+      the cash and windfall profits generated by frozen Russian sovereign assets held
+      at Euroclear (and similar EU institutions) in a deceitful scheme to back large
+      loans for Ukraine’s budget, defence, and reconstruction. It presents this as an
+      unprecedented but legally “safer” reparations‑loan mechanism that leaves Russia’s
+      ownership claim over the underlying assets formally intact while redirecting the
+      income and cash balances they generate. But anyway you paint it, it is still theft
+      and Belgium is squirming at the prospect. To understand what is going on you need
+      a brief tutorial on Euroclear . Euroclear is a Brussels-based global securities
+      depository that holds approximately €200–300 billion in frozen Russian central
+      bank assets (as of December 2025) as a consequence EU sanctions post-Russia’s
+      2022 invasion of Ukraine. The EU’s plan, advanced in early December 2025, aims
+      to seize or leverage these for a €50 billion loan to Ukraine, but Belgium— Euroclear’s
+      host nation—has rejected it, citing unacceptable risks. Belgian officials argue
+      the move would expose the country to “massive liability” as the legal situs of
+      the assets, potentially paralyzing the scheme. Below are the primary risks, based
+      on Belgian government statements, Euroclear’s concerns, and expert analyses. The
+      biggest problem for Belgium is that Russia has threatened Investor-State Dispute
+      Settlement (ISDS) proceedings against Belgium under bilateral investment treaties
+      (e.g., the 1989 Russia-Belgium-Luxembourg agreement), claiming the seizure as
+      “theft” and seeking billions in compensation. These treaties, predating the war,
+      could result in arbitration at bodies like the Permanent Court of Arbitration
+      in The Hague, with penalties up to €33–50 billion (matching Russia’s estimated
+      losses). Belgium, with good cause, believes it would come out on the losing side
+      of this arbitration. Belgium views the EU plan as “illegal under international
+      law,” potentially violating property rights and exposing the state to direct lawsuits,
+      unlike other EU members without similar treaties. The EU’s guarantees (e.g., shared
+      liability) are deemed insufficient by Brussels. As Euroclear’s regulator and host,
+      Belgium would face indemnification claims from clients or Russia, straining its
+      €500 billion sovereign wealth fund or requiring taxpayer bailouts. Euroclear has
+      already warned of “catastrophic” operational disruptions, including client withdrawals
+      that could cost Belgium €10–20 billion in lost financial activity annually. Russia,
+      for its part, has warned that seizure will trigger retaliatory Russian asset freezes
+      on Belgian holdings abroad (~€33 billion already confiscated by Moscow), which
+      will escalate economic warfare. Euroclear’s neutrality as a “safe harbor” for
+      global securities (handling €37 trillion) would be undermined, deterring investors
+      and eroding Belgium’s status as a financial hub (e.g., Brussels as EU capital).
+      The firm has expressed “serious concerns” over being politicized, potentially
+      leading to a 10–15% drop in custody volumes. Belgium’s stance has stalled the
+      EU plan, prompting calls to redistribute assets (e.g., €25 billion outside Euroclear)
+      to mitigate these risks. Critics argue it’s overly cautious, but Belgian PM Alexander
+      De Croo has prioritized “legal certainty” to avoid “unintended consequences.”
+      The Europeans need to listen to a Beatle’s classic… Money can’t buy you love (sex,
+      but not love) and it can’t buy Ukraine a victory over Russia. Notwithstanding
+      the rhetoric spilling out of their gaping yaps, the Europeans are not willing
+      to give Ukraine all that they got to give if it means the Europeans have to use
+      their own funds. Tis better to go on a weapons shopping spree with another nation’s
+      credit card. I have another movie clip for you that captures what Europe may have
+      done already with the Russian assets… Think of Europe as the character played
+      by Jim Carrey, but not as smart: Danny Davis and I had an excellent chat today:
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The EU, led by Ursula von der Leyen, is pushing for a controversial
+      plan to use frozen Russian assets held in Belgium to finance Ukraine, which Belgium
+      views as a troubling and potentially illegal act of theft.
+    paragraph_summary: The article discusses the European Union's controversial plan
+      to utilize frozen Russian assets held by Euroclear, a Brussels-based securities
+      depository, to fund a €50 billion loan for Ukraine amidst its ongoing conflict
+      with Russia. The EU, led by Ursula von der Leyen, advocates for this approach
+      as a legally "safer" reparations-loan mechanism, which would technically maintain
+      Russia's ownership claims while redirecting the income from these assets. However,
+      Belgium, as the host nation of Euroclear, has expressed significant concerns about
+      the legal and financial risks involved, fearing potential liabilities and threats
+      of legal action from Russia under existing bilateral investment treaties. Consequently,
+      Belgium is hesitant to support the scheme, which could jeopardize its legal standing
+      and expose it to massive liabilities.
+    published: '2025-12-11T04:39:03+00:00'
   - title: Do You Believe in Coincidence… Was the CIA Involved in Operation Spiderweb
       and Israel’s June 12 Attack on Iran?
     url: https://sonar21.com/do-you-believe-in-coincidence-was-the-cia-involved-in-operation-spiderweb-and-israels-june-12-attack-on-iran/
