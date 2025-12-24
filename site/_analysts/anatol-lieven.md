@@ -8,16 +8,477 @@ websites:
   - https://responsiblestatecraft.org/author/alieven/
   - https://quincyinst.org/author/anatol-lieven/
 summary: |
-  As the Ukraine conflict enters a critical phase, recent developments signal a potential turning point in diplomatic efforts, with significant implications for European security and transatlantic relations.
+  As the year draws to a close, the geopolitical landscape remains defined by the ongoing search for a durable peace in Ukraine, shifting strategies among Western powers, and persistent instability within Europe itself. The Trump administration’s 2025 National Security Strategy (NSS), released last week, marks a notable recalibration of U.S. foreign policy, emphasizing restraint and diplomacy, but also exposing partisan divides and controversial positions on military intervention and European affairs.
   
-  A draft framework agreement between the U.S. and Russia, as reported by **Anatol Lieven**, marks a substantial advance in the Ukraine peace process. The framework reportedly addresses core issues necessary for a resolution, but skepticism persists in Kyiv, and there is a growing consensus that Washington will need to exert considerable pressure on Ukraine to secure its acceptance. The plan’s provisions—particularly those concerning Ukraine’s sovereignty and military capabilities—have sparked concern among Ukrainian officials and some European partners, who fear the deal may entail painful concessions to Moscow.
+  The most consequential development is the reported draft framework agreement between the U.S. and Russia on Ukraine. According to **Anatol Lieven**, this framework represents “a significant step in the Ukraine peace process by addressing critical issues for resolution,” though it faces skepticism from Kyiv and will likely require “substantial pressure from the U.S. to gain acceptance.” The plan’s controversial elements—including potential concessions to Russia regarding Crimea and Donbas—have provoked debate over the implications for Ukrainian sovereignty and the future of European security guarantees. While the Trump administration frames this as pragmatic realism, European allies remain divided, and Ukraine’s leadership is under intense domestic pressure not to yield on core territorial demands.
   
-  This diplomatic push comes amid ongoing instability within Western Europe. France, for example, continues to grapple with a severe political and economic crisis, characterized by a stagnant economy, high public debt, and a fragmented parliament. According to **Anatol Lieven**, these internal challenges, coupled with rising radical parties, are undermining France’s ability to contribute meaningfully to European security initiatives, including military support for Ukraine. The broader European context is similarly troubled, with Britain’s new National Security Strategy criticized as “a disorganized collection of conflicting goals and unrealistic assumptions,” further highlighting the continent’s struggle to align ambitions with available resources.
+  Meanwhile, the new U.S. NSS signals a broader shift toward diplomatic engagement and away from open-ended military commitments. **Anatol Lieven** notes that the document “advocates for diplomacy and restraint,” but also warns that its partisan tone and ambiguous stance on intervention risk undermining allied confidence, particularly as Europe faces its own crises. France, for instance, continues to grapple with political and economic turmoil, raising doubts about its capacity to contribute meaningfully to collective security initiatives or a potential “reassurance force” for Ukraine.
   
-  Meanwhile, Georgia’s aspirations for EU membership remain complicated by both internal politics and the shadow of the Ukraine war. President Kavelashvili’s government emphasizes strengthening national identity and resilience, but the path to accession is fraught with divergent expectations between Tbilisi and Brussels, as well as the persistent influence of Russia in the region.
-  
-  Looking ahead, the majority of analysts, including **Anatol Lieven**, suggest that the U.S.-Russia framework agreement represents the most realistic path toward ending the Ukraine war, though its implementation will be contentious and require robust diplomatic engagement. There is a high chance that, barring unforeseen escalation, the U.S. will continue to prioritize a negotiated settlement over indefinite military support. However, the internal crises facing key European states are likely to limit their capacity to shape outcomes, reinforcing Washington’s central role. I guarantee that, unless there is a dramatic shift in the political climate, the coming weeks will see intensified U.S. efforts to broker a peace deal, with European partners playing a largely secondary role.
+  Looking ahead, the prevailing trend is a cautious but determined push for a negotiated settlement in Ukraine, with the U.S. playing a central role as mediator. There is a high chance that Washington will intensify pressure on both Kyiv and Moscow to finalize a peace deal in the coming months, though the outcome remains uncertain given entrenched positions and domestic constraints on all sides. As **Anatol Lieven** concludes, “the Trump administration’s approach most definitely signals a new phase in U.S. foreign policy—one that prioritizes realism and restraint, but whose success will depend on its ability to balance competing interests at home and abroad.”
 articles:
+  - title: 'The 2025 NSS and Restraint: Experts React'
+    url: https://quincyinst.org/research/the-2025-nss-and-restraint-experts-react/
+    text: 'Overview On Dec. 4, 2025, the Trump administration published the 2025 National
+      Security Strategy, or NSS. Mandated by the Goldwater–Nichols Department of Defense
+      Reorganization Act of 1986, the NSS is used to communicate the executive branch’s
+      national security vision to the legislative branch. Below, Quincy Institute experts
+      offer their individual assessments of this latest version.
+
+
+      Discussion
+
+
+      Grand Strategy, George Beebe
+
+
+      Viewed through the prism of Restraint, the new National Security Strategy appears
+      to be exactly what its opening section claims: “pragmatic without being ‘pragmatist,’
+      realistic without being ‘realist,’ principled without being ‘idealistic,’ muscular
+      without being ‘hawkish,’ and restrained without being ‘dovish.’”
+
+
+      Those who have long called for an end to endless wars should welcome the NSS’s
+      explicit endorsement of peacemaking to end conflicts. Similarly, those who have
+      long bemoaned Washington’s quick resort to military force should be gratified
+      by its emphasis on diplomacy and economic means as America’s primary tools for
+      advancing its interests in the world. Many of the strategy’s core principles,
+      including its “Predisposition to Non-Interventionism,” are things that Restrainers
+      have advocated for years.
+
+
+      Most of all, the strategy corrects two of the biggest erroneous assumptions that
+      have driven American foreign policy into the ditch for the past three decades:
+      first, that the United States has near limitless resources and capabilities, and
+      therefore need not concern itself with limiting and prioritizing its objectives
+      in the world; second, that America can only be secure when all or most of the
+      world adopts liberal democracy. This unbridled universalism lay at the root of
+      most of the U.S. foreign policy fiascos of the post–Cold War era. Restraint in
+      American foreign policy is impossible unless those assumptions are corrected.
+
+
+      Still, Restrainers will certainly find some aspects of the strategy unappealing,
+      including its call to use the American military in roles that have traditionally
+      been the domains of the Coast Guard and law enforcement. Many will object to the
+      NSS’s position that the United States has a stake in internal European political
+      and societal issues and should support parties and policies in line with the Trump
+      administration’s views on migration and cultural matters. The strategy’s casual
+      attitudes toward international law and international organizations — two factors
+      that tend to restrict American foreign adventurism — put it at odds with many
+      Restrainers. And some will object that the strategy’s explicit revival of the
+      Monroe Doctrine and its allusion to a Trumpian variation of the Roosevelt Corollary
+      portend a new age of militaristic interventionism and unwelcome hegemony in Latin
+      America.
+
+
+      On some of these matters, it might be useful to recall that John Quincy Adams
+      — the namesake of the Restraint–focused Quincy Institute for Responsible Statecraft
+      — was the intellectual father of the Monroe Doctrine and believed strongly that
+      the United States must oppose the presence of foreign powers and what he regarded
+      as alien ideologies in our immediate neighborhood. In 1823, Adams delivered a
+      note verbale to Russia’s representative in the United States warning that Washington
+      would not tolerate any attempt to transplant authoritarian rule to North or South
+      America.
+
+
+      By today’s standards, Adams’ stance on these matters was not very Restraint–friendly,
+      but one might be justified in calling it “restrained without being dovish.”
+
+
+      The NSS and Pentagon Spending, William D. Hartung
+
+
+      The Trump administration’s new National Security Strategy reads like two separate
+      documents. The first is partisan, self-promoting, and divisive, overstating the
+      administration’s achievements while denigrating all that has come before.
+
+
+      But there is a more sober strand of argument in the document that speaks about
+      the importance of focusing on core interests, avoiding the temptation to commit
+      to “laundry lists” of foreign commitments, expressing a predisposition against
+      foreign military intervention, and pledging to “prevent military confrontation”
+      with China. If this rhetoric is transformed into policy, it could set the stage
+      for significant reductions in Pentagon spending.
+
+
+      Unfortunately, the current policies and plans of the Trump administration are
+      not consistent with either a more restrained policy or a lower Pentagon budget.
+
+
+      Take, for example, the administration’s decision to double down on a militarized
+      version of the Monroe Doctrine, which is setting the stage for a war with Venezuela.
+      Not only could such an intervention impose huge costs in blood and treasure on
+      all parties to the conflict, but it squarely contradicts the notion of focusing
+      on “core interests.”
+
+
+      Drug trafficking causes great damage to Americans, but Venezuela is not the primary
+      source of drugs entering the United States. Even if Venezuela were a major supplier,
+      reducing the ravages of drug abuse in America is not a military mission. It will
+      require change on the demand side, in the United States.
+
+
+      On the flip side of the buildup in the Western Hemisphere, the administration
+      is contemplating reductions of U.S. troops in Europe, which, in theory, could
+      open the way to reductions in the Pentagon budget. But a pullback from Europe
+      could also just free up funds for other projects, like the enormously expensive
+      Golden Dome initiative, which is pursuing the impossible dream of a leakproof
+      defense against missiles of all sorts. Todd Harrison of the conservative American
+      Enterprise Institute estimates that the cost of an expansive version of Golden
+      Dome could reach $3.6 trillion.
+
+
+      In the Middle East, the administration’s all-in support for Israel’s Netanyahu
+      government and firm embrace of the Gulf monarchies do not bode well for substantially
+      reduced military commitments.
+
+
+      The strategy document’s suggestion of a less combative approach to China could
+      also, in theory, lead to lower Pentagon spending. But it could also be combined
+      with a military-focused notion of deterrence that supports a continued U.S. military
+      buildup in the Pacific.
+
+
+      If there is to be a reduction in Pentagon spending in line with a more restrained
+      strategy, the first job will be to press the administration to turn its rhetoric
+      on restraint into reality. That will require a robust national debate on the U.S.
+      role in the world. That discussion should include a careful assessment of how
+      military power fits into a security posture that better promotes the safety and
+      security of America and the world. If the new NSS provokes such a debate, that
+      could be its most useful outcome.
+
+
+      Europe, Anatol Lieven
+
+
+      “Managing European relations with Russia will require significant U.S. diplomatic
+      engagement, both to reestablish conditions of strategic stability across the Eurasian
+      landmass, and to mitigate the risk of conflict between Russia and European states.
+      It is a core interest of the United States to negotiate an expeditious cessation
+      of hostilities in Ukraine, in order to stabilize European economies, prevent unintended
+      escalation or expansion of the war, and reestablish strategic stability with Russia,
+      as well as to enable the post-hostilities reconstruction of Ukraine to enable
+      its survival as a viable state.”
+
+
+      This is right; and, had it not been for the Trump administration’s determined
+      intervention, there would be no Ukraine peace process, and the war would continue
+      indefinitely, with growing risks of direct clashes between NATO and Russia. Ukraine,
+      the European Union, and leading European countries have only joined in peace talks
+      because President Donald Trump compelled them to.
+
+
+      The NSS is also correct to call for an end to the further expansion of NATO. European
+      governments are trying to draw the United States into giving security guarantees
+      to countries that the Europeans themselves cannot and will not defend and that
+      have never been vital to U.S. interests. All this brings is added danger, not
+      least to the countries themselves. This reckless, irresponsible, and hypocritical
+      process needed to be stopped, and the Trump administration is right to stop it.
+
+
+      But other elements of the discussion of Europe are more ideologically radical.
+      The NSS identifies migration and domestic decay, rather than Russia, as the greatest
+      threats to Europe. Those concerns flow from similar fears regarding the United
+      States. On page 11, the NSS notes that “the era of mass migration must end. Border
+      security is the primary element of national security.”
+
+
+      It applies those principles to Europe, stating later in the document that: “Should
+      present trends continue, [Europe] will be unrecognizable in 20 years or less.
+      As such, it is far from obvious whether certain European countries will have economies
+      and militaries strong enough to remain reliable allies. Many of these nations
+      are currently doubling down on their present path. We want Europe to remain European,
+      to regain its civilizational self-confidence, and to abandon its failed focus
+      on regulatory suffocation.”
+
+
+      The NSS therefore openly sides with right-wing populist parties, stating the need
+      for the United States to “cultivate resistance to Europe’s current trajectory
+      within European nations.” The United States taking sides in European domestic
+      politics is not new. It did so against Communist parties in the late 1940s and
+      1950s. It is, however, unprecedented for a U.S. administration to undermine European
+      establishments that trumpet their loyalty to NATO and to so explicitly tie common
+      security to changes in economic rules to favor U.S. corporations.
+
+
+      This does not mean that the NSS is “hostile to Europe” or threatens withdrawal
+      from NATO. On the contrary, it states that Europe remains strategically and culturally
+      vital to the United States, and that is why Europe’s internal condition is important
+      to America. The NSS does, however, suggest that, unless future elections in Europe
+      and the United States lead to ideologically compatible right-wing populist governments
+      on both continents, the future of transatlantic relations will be a deeply troubled
+      one.
+
+
+      The Middle East, Trita Parsi
+
+
+      The 2025 National Security Strategy for the Middle East is contradictory: It proposes
+      a strategic pivot away from regional entanglement but practically risks maintaining
+      — or even increasing — America’s overextension.
+
+
+      The NSS’s explicit rhetorical pivot away from the Middle East is strongly welcomed.
+      The strategy’s text and organization explicitly de-emphasize the region as the
+      singular focus of U.S. security planning, noting that “America’s historic reason
+      for focusing on the Middle East will recede.”
+
+
+      It contains the strongest rejection of global American hegemony ever seen in an
+      official U.S. strategic document, stating that “the days of the United States
+      propping up the entire world order like Atlas are over.” Instead, the focus shifts
+      to preventing other states from achieving global or regional domination, a goal
+      significantly different from establishing and maintaining American hegemony.
+
+
+      It welcomes — albeit prematurely — a new normal in which the security affairs
+      of the region are primarily handled by regional states themselves. “[T]he days
+      in which the Middle East dominated American foreign policy in both long-term planning
+      and day-to-day execution are thankfully over.”
+
+
+      The NSS’s commendable noninterventionist emphasis and stricter standard for military
+      force in the Middle East are appropriate, given the region’s diminished strategic
+      importance to the United States. Moreover, the predisposition for noninterventionism
+      helps shift U.S. policy toward encouraging reform rather than seeking to impose
+      it from without. Crucially, the NSS rightly and explicitly disavows imposing “democratic
+      or other social change” on foreign nations.
+
+
+      While these principles are strongly welcomed, the 2025 NSS also contains language
+      on the Middle East that risks directly undermining their implementation and turning
+      rhetorical retrenchment into episodic, high-risk interventions rather than steady,
+      principled restraint.
+
+
+      For instance, the NSS’s continued framing of Iran as the singular or primary source
+      of regional instability is highly problematic. Not only because it is false and
+      that this puts the United States at odds with Arab partners who increasingly view
+      Israel’s conduct as the primary threat in the region, but because “Iran–first”
+      conceptions of Middle East disorder obscure the region’s far more complex drivers
+      of conflict while further incentivizing U.S. military involvement. By casting
+      Iran as the central threat, the strategy justifies forward deployments, extended
+      deterrence commitments, and a readiness to use force that directly contradicts
+      the stated goal of drawdown.
+
+
+      Meanwhile, elevating the Abraham Accords as a core pillar of regional strategy,
+      particularly without resolving the core drivers of the Israel–Palestine conflict,
+      signals continuity rather than a break with past, disastrous U.S. strategies in
+      the region. Rather than enabling disengagement, this framework deepens U.S. responsibility
+      for managing regional rivalries, reinforcing the very security dependencies that
+      have kept Washington militarily embedded in the Middle East for decades.
+
+
+      In short, the 2025 NSS is an opportunity partially seized and partially squandered.
+      The rhetorical reorientation away from unending Middle East prioritization is
+      welcome; the failure is in the recommitment to ideas and policies that birthed
+      America’s overextension in the Middle East in the first place.
+
+
+      As such, the NSS risks preserving the very cycle of intervention and unnecessary
+      entanglements it purports to leave behind.
+
+
+      The Global South, Sarang Shidore
+
+
+      What does the new National Security Strategy imply for the arc of states stretching
+      from Mexico City to Manila, also known as the Global South? While correcting serious
+      interventionist errors of past strategies, the NSS opens the door to new blunders.
+      Despite its contradictions, the document does hint at the sort of world order
+      the United States would like to see. But, on balance, that order is not one that
+      will help build mutually productive ties with Global South states, particularly
+      in Latin America.
+
+
+      The NSS properly rejects the moralistic impulses of past administrations through
+      its criticism of “fruitless ‘nation-building’ wars,” rejection of the “ill-fated
+      concept of global domination,” and advocacy for “a high bar for what constitutes
+      a justified intervention.” Over the decades, Washington’s crusaders of the neoconservative
+      and liberal internationalist varieties have badly hurt U.S. interests with their
+      disastrous projects of remaking sovereign states ostensibly in defense of “democracy
+      promotion” and “human rights.” The damage caused by their bombs and bombast will
+      take a long time to clean up. Global South states have their own journeys and
+      ought to be able to undertake them based on their own histories and contexts (barring
+      truly extreme cases).
+
+
+      The document’s jettisoning of the current foreign aid paradigm is also largely
+      welcome. U.S. aid is crucial for the national interest (and ought to be restored)
+      in a few areas, such as global health and disaster relief and resilience. But,
+      for decades, top-down projects for longer-term development only created dependencies
+      and enriched Western consultants while providing little long-term benefit to recipient
+      countries. Developmental objectives in U.S. foreign policy are best pursued through
+      commercially grounded agencies such as a reformed U.S. International Development
+      Finance Corporation, or DFC.
+
+
+      But the document then stumbles badly. The NSS’s major innovation is a long-overdue
+      pivot to the Western Hemisphere (i.e., Latin America). The United States lives
+      in the Americas but has often treated the region as a strategic footnote.
+
+
+      But the real question is: what sort of prioritization? The NSS portrays the region
+      in terms of fighting crime and stopping mass migration. These are (debatably)
+      framed as among the greatest threats to national security. However, each state
+      in Latin America has its own interests. A Restraint–oriented prioritization, while
+      placing U.S. interests first, would also consider others’ interests and approaches
+      to find win-win solutions. Unfortunately, the NSS makes little room for cooperative
+      regionalism, and promotes a spheres-of-influence-type corollary to the Monroe
+      Doctrine that can easily lead to militarization and associated blowback, as the
+      current crisis over Venezuela is beginning to demonstrate.
+
+
+      Indeed, a spheres-of-influence vision runs implicitly throughout the NSS. The
+      strategy accommodates Russia and China to a degree (with a welcome peace push
+      on Ukraine and less hawkish security sections on China), leaving the Global South
+      as an arena for a great power carve-up and coercive extraction. But spheres of
+      influence are neither workable nor desirable in our time. They militate against
+      Restraint and will open the door to new U.S. interventions and endless wars in
+      weaker states, especially in Latin America.
+
+
+      Economic Policy, Marcus Stanley
+
+
+      The Trump administration’s National Security Strategy leads with a strong conceptual
+      commitment to a much needed reorientation of U.S. foreign policy. The document
+      repeatedly and correctly calls for a pivot away from the pursuit of global dominance
+      to a more modest, realistic, and focused foreign policy approach that prioritizes
+      key American national interests and avoids unnecessary interventionism.
+
+
+      But a deeper dive into the details of the NSS’s various sections shows that old
+      habits are hard to break. In several cases the strategy implies vague, overly
+      ambitious, and frankly interventionist approaches while failing to address difficult
+      choices on how to best define and pursue national interests.
+
+
+      One example is the connection between foreign policy and economic prosperity.
+      The pursuit of broadly based economic prosperity for American workers is announced
+      as a core principle of the Trump foreign policy approach, and reindustrialization,
+      balanced trade, and secure supply chains are listed as key specific goals. Elements
+      here reflect a bipartisan consensus that is perhaps not far off from the Biden
+      administration’s claim to pursue a “foreign policy for the middle class” and its
+      policies aimed at reviving American manufacturing.
+
+
+      It is in the NSS’s details that potential contradictions appear. The strategy
+      calls for “consolidating our alliance system into an economic group” (i.e., creating
+      a trading system that excludes American rivals like China) as well as demanding
+      “strategic alignment” and alignment with our export controls from allies. These
+      demands for geoeconomic alignment with U.S. priorities will come at a time when,
+      the strategy also informs us, the United States is also demanding costly “burden-sharing”
+      in the military space.
+
+
+      Logically, the United States will have to offer economic benefits to foreign countries
+      to adopt these potentially costly strategies. This could fly in the face of President
+      Donald Trump’s aggressive pursuit of hardball trade deals with even American allies,
+      and it may not assist the American middle class. The Trans–Pacific Partnership,
+      the massively unpopular draft trade agreement that Trump opposed in 2016, was
+      just the kind of attempt to consolidate our Asian alliance system into an economic
+      group that this document calls for. There is no effort to address this potential
+      contradiction.
+
+
+      Indeed, you will look in vain for any analysis or even acknowledgement of the
+      potential contradictions between long-term economic prosperity and measures that
+      seem to contemplate splitting the global economy into competing economic blocs.
+      The frequently repeated emphasis on creating supply chains exclusive to the United
+      States and close allies begs the question of whether such efforts can become excessively
+      costly as compared to more open-ended systems of mutually beneficial trade. There
+      is also no effort to grapple with the question of whether Trump’s seeming obsession
+      with eliminating bilateral trade deficits through tariffs will actually lead to
+      positive results for the middle class.
+
+
+      Some similar questions arose in the Biden administration’s efforts to craft anti–China
+      economic alliances and pursue technological conflict. In economics as elsewhere,
+      here, engrained ambitions for American dominance struggle with the nascent emergence
+      of a new foreign policy paradigm.
+
+
+      China, Jake Werner
+
+
+      The National Security Strategy is a blueprint for spiraling U.S.–China conflict.
+      But President Donald Trump demonstrably does not share its animating principles.
+      The question is whether Trump will impose his will on his advisers or whether
+      they will manipulate him into confrontation.
+
+
+      The idea of an aggressive NSS may come as a surprise when media depict it as a
+      capitulation. True enough, in contrast to the 2017 and 2022 strategies — both
+      of which specified zero-sum military and economic competition with China as central
+      national security imperatives — the name of the country does not even appear in
+      this year’s list of “core, vital national interests.” The NSS even drops the ideological
+      fig leaf, in which the United States stood for freedom and its rivals for tyranny,
+      that previously justified U.S. geopolitical supremacy.
+
+
+      Is the United States, then, abandoning efforts to contain Chinese power? Simply
+      reading past the document’s top lines shows otherwise.
+
+
+      The central feature of this NSS is its promise to reassert U.S. domination over
+      the Western Hemisphere. Far from stepping away from conflict with China, however,
+      the “Trump Corollary” to the Monroe Doctrine fixates on extinguishing Chinese
+      influence in the region: “We will deny non–Hemispheric competitors the ability
+      to position forces or other threatening capabilities, or to own or control strategically
+      vital assets.” The NSS tactfully avoids mentioning China, but no one will doubt
+      which “adversarial outside influence” is targeted for a highly destabilizing form
+      of exclusion.
+
+
+      But perhaps the NSS is articulating a spheres-of-influence approach to great power
+      relations? The United States would dominate the Americas but give free rein to
+      China in Asia. Leaving aside the doubtful viability of such an arrangement, and
+      the likelihood China would rebuff it, the NSS squarely rejects the idea.
+
+
+      Instead, it defines Asia as one of the “next century’s key economic and geopolitical
+      battlegrounds” and lays out an agenda of economic and security confrontation with
+      China. The United States plans to consolidate an economic bloc in order to “safeguard
+      our prime position in the world economy,” bringing other countries into aligned
+      trade policies to force a new political economy on China.
+
+
+      Even more dangerous than coordinated economic coercion is the NSS’s discussion
+      of Taiwan. The United States will build up its own military and induce its allies
+      to join its planning, establishing the power “to deny any attempt to seize Taiwan.”
+      Alongside its characterization of Taiwan as a strategic location — indicating
+      the United States would not tolerate Taiwan’s unification with the mainland under
+      any circumstances — the NSS threatens an even faster increase of military tensions
+      than during the presidency of Joe Biden.
+
+
+      Trump’s own approach to China, however, points in a different direction. Trump
+      reluctantly recognized that China, after years of copying U.S. techniques of weaponizing
+      economic relations, now enjoys both the capacity and will to impose the kind of
+      pain on the United States that Washington was heretofore free to impose on Beijing.
+      The NSS shows Trump’s advisors intend to barrel forward, heedless of such costs.
+      The future of the U.S.–China relationship and indeed the entire global system
+      turns on how these tensions play out in 2026.'
+    one_sentence_summary: The Trump administration's 2025 National Security Strategy
+      emphasizes a pragmatic approach to foreign policy, advocating for diplomacy and
+      restraint while also revealing partisan biases and controversial stances on military
+      intervention and European domestic politics.
+    paragraph_summary: On December 4, 2025, the Trump administration released its National
+      Security Strategy (NSS), which aims to articulate a pragmatic and restrained approach
+      to U.S. foreign policy. Experts from the Quincy Institute provided mixed assessments,
+      noting that while the NSS advocates for diplomacy and economic means over military
+      intervention, it also contains elements that may lead to increased militarization,
+      particularly in Latin America and Europe. The strategy emphasizes a shift away
+      from global dominance towards prioritizing core U.S. interests, yet it risks perpetuating
+      interventionist tendencies, especially regarding Iran and the Middle East. Critics
+      highlight contradictions within the NSS, such as its framing of migration and
+      crime as primary threats to national security, which could lead to coercive policies
+      in the Global South. Overall, while the NSS reflects a call for a more restrained
+      foreign policy, its implementation may still lean towards militarization and interventionism,
+      raising concerns about its long-term effectiveness and alignment with the principles
+      of restraint.
+    published: '2025-12-17T14:04:12+00:00'
   - title: Trump's '28-point plan' for Ukraine War provokes political earthquake
     url: https://responsiblestatecraft.org/trump-plan-ukraine-war/
     text: 'When it comes to the reported draft framework agreement between the U.S.

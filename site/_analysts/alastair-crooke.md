@@ -7,14 +7,309 @@ description: "Ex-MI6 diplomat and founder of Conflicts Forum (Beirut); publishes
 websites:
   - https://www.eurasiareview.com/author/alastair-crooke/
 summary: |
-  The geopolitical landscape continues to be shaped by the Trump administration’s recalibration of U.S. foreign policy, as reflected in the latest National Security Strategy (NSS). The new NSS signals a decisive move away from global interventionism toward a doctrine of “America First,” prioritizing regional dominance and pressing allies—especially in Europe—to shoulder greater defense and economic burdens. **Alastair Crooke** notes that this shift is accompanied by open criticism of Europe’s management of the Ukraine conflict, with Washington making clear that NATO is “not forever,” and that U.S. support is now conditional and transactional.
+  The global geopolitical landscape remains in flux as the Trump administration’s recalibration of U.S. foreign policy continues to reverberate across key theaters. The latest analyses highlight a decisive shift away from traditional imperial models, with Washington now prioritizing economic interests and transactional diplomacy over military dominance. This realignment is having profound effects on alliances, conflict resolution efforts, and the broader balance of power.
   
-  In Moscow, recent high-level discussions between U.S. envoys and President Putin have underscored the deep disconnect between American and Russian positions on Ukraine. While the Trump administration seeks a quick diplomatic “win” to bolster its domestic narrative, Russia insists on a legally binding settlement that addresses what it sees as the root causes of the conflict. **Crooke** highlights that “Putin is not interested in temporary deals or PR stunts,” and that the U.S. approach risks further entrenching the stalemate rather than moving toward resolution.
+  Most recently, **Alastair Crooke** underscores that President Trump’s National Security Strategy marks a clear pivot: “peace through commerce” is now the guiding principle, with the U.S. seeking to reduce the unsustainable costs of global military commitments. The administration’s skepticism toward sanctions—particularly against China and Russia—reflects a recognition of their limited efficacy and the need for pragmatic engagement. Crooke notes, “Trump’s approach is less about enforcing submission and more about leveraging economic relationships to secure U.S. interests.”
   
-  Meanwhile, the broader Western political environment remains volatile. The recent U.S. elections and California’s re-districting have exposed a surge in populist discontent, with both major parties facing internal fractures. **Crooke** observes that this structural crisis could undermine Trump’s ability to maintain a coherent foreign policy, as domestic instability threatens to spill over into international relations.
+  In Europe, this shift is causing unease. The U.S. is calling on NATO allies to shoulder more responsibility, especially regarding defense and economic stability. Crooke points out that the new strategy critiques Europe’s handling of the Ukraine conflict and signals that NATO is “not forever”—a message that has prompted both anxiety and recalibration among European capitals.
   
-  Looking ahead, it is quite likely that the U.S. will continue to pressure its allies to take on more responsibility, particularly in Europe and the Middle East. The prospects for a substantive U.S.-Russia agreement on Ukraine remain dim unless Washington is willing to address Moscow’s core demands—a scenario that, at present, appears unlikely. The trend toward regionalization of U.S. power and the erosion of traditional alliances is set to continue, with high confidence that this will produce further geopolitical volatility and uncertainty in the months ahead.
+  Meanwhile, diplomatic efforts on Ukraine remain stalled. Recent talks in Moscow, involving U.S. envoys and President Putin, revealed a persistent disconnect: while Washington seeks a narrative of diplomatic progress, Moscow insists on a legally binding settlement rather than temporary deals. Crooke observes that “the U.S. desire for a quick diplomatic win is at odds with Russia’s insistence on addressing root causes,” making a breakthrough unlikely in the near term.
+  
+  Looking ahead, the trends are clear. The U.S. is most definitely moving toward a less interventionist, more economically driven foreign policy, with high confidence that transactional relationships will define its approach to both allies and adversaries. The likelihood of a durable peace in Ukraine remains low, as the fundamental positions of Washington and Moscow remain irreconcilable. Europe faces increased pressure to adapt to a diminished American security umbrella, while Russia and China are expected to further consolidate their positions in a shifting multipolar order.
 articles:
+  - title: 'Trump’s Geo-Politics: Correcting The Imperial Model And Shaping The Incoming
+      Economic Architecture – OpEd'
+    url: https://www.eurasiareview.com/17122025-trumps-geo-politics-correcting-the-imperial-model-and-shaping-the-incoming-economic-architecture-oped/
+    text: 'By Alastair Crooke
+
+
+      In his speech in Riyadh in May, President Trump set out his rationale to his transactional
+      mode of policy formulation – making peace through commerce, rather than war.
+
+
+      The language in the 4 December US National Security Strategy (NSS) takes this
+      several steps further: It is couched in the terms of ‘regions of influence’, rather
+      than hegemony, and of managing stakeholder financial interests. It abandons the
+      phraseology of a rules-based order and eschews appeals to democracy and Western
+      values.
+
+
+      But what does this ‘peace through commerce’ really mean?
+
+
+      The core to the Trump geo-politics is revealed in the NSS as the risk of imperial
+      collapse looming in the future. It talks about Atlas holding the globe aloft –
+      and emphasises that the United States can no longer continue to shoulder the burden
+      of empire.
+
+
+      The NSS, therefore, is ultimately centred around resolving the economic contradictions
+      that has brought the US to this pass – burgeoning debt and an out-of-control fiscal
+      matrix which, absent a solution, ordains that Empire will fold.
+
+
+      The core issue therefore becomes how to finance ‘Empire’ against a badly skewed
+      and distorted economic reality. Clearly, the start point was to acknowledge that
+      sanctions have failed. The attempt to lock China (and by extension Russia) out
+      of the economic loop has failed, because they adapted – and strengthened their
+      internal economies; and in China’s case enhanced their relevance to international
+      supply chains.
+
+
+      So, we are seeing a marked shift to a different imperial ‘model’. The NSS indirectly
+      suggests that without the dominance which allows Big Money and infrastructure
+      investment being coerced into the US economy, and without continued dollar hegemony,
+      the US is in big trouble.
+
+
+      The NSS therefore is not a pivot from Empire; it does, nonetheless, conclude that
+      the means to (albeit) attenuated American domination does require a ‘Trump corollary
+      to the Monroe Doctrine’.
+
+
+      In its introductory remarks, the NSS states that:
+
+
+      “American foreign policy elites, convinced that permanent American domination
+      of the entire world was in the best interests of our country … [had] overestimated
+      America’s ability to fund, simultaneously, a massive welfare regulatory-administrative
+      state alongside a massive military, diplomatic, intelligence, and foreign aid
+      complex”.
+
+
+      Here, the NSS put the issue of funding US foreign policy front and foremost.
+
+
+      Significantly, in context of the funding shortfall, the strategy document takes
+      a swipe at the free trade system:
+
+
+      “They placed hugely misguided and destructive bets on globalism and so-called
+      ‘free trade’, that hollowed out the very middle class and industrial base on which
+      American economic and military pre-eminence depend”.
+
+
+      This aspect perhaps constitutes the most radical change of course envisioned by
+      the NSS. It concerns two alternative architectures of economics: On the one hand,
+      the British system of ‘free trade’ as espoused by Adam Smith, versus the ‘American
+      System’ as advocated by Alexander Hamilton. The NSS document includes an explicit
+      rejection of the ‘free trade’ system and even mentions the name of Alexander Hamilton
+      – giving a clear indication of the direction in which Trump is travelling (at
+      least aspirationally).
+
+
+      The ‘American system’ did not originate in the United States; it was first explicitly
+      elaborated by the German economist Friedrich List in the 19th century. But the
+      system earned the label ‘American’ because it was practiced in the US for some
+      150 years. During this time, the US used tariffs, state subsidies and other barriers
+      to trade to nurture domestic industries and to protect high-paying jobs. But in
+      the post-war period, the US reoriented its economic policy, progressively leaning
+      in favour of the British system of free trade. Indeed, Trump has, from time to
+      time, referred to Hamiliton’s resort to tariffs.
+
+
+      But just to be clear, a shift to a closed economic model – as China (and to an
+      extent Russia) have done to protect themselves from US financial war – takes decades,
+      and Trump does not have time. He is in a rush.
+
+
+      The most obvious contradiction to Trump’s move towards a transactional mode of
+      operating is simply how to sell the US debt instruments needed to fund the budget
+      when demand for dollars in international trade is decreasing. And this, at a time,
+      when Trump simultaneously insists to lower debt service payments that threaten
+      the solvency of his prestige ‘magnificent seven’ AI mega expenditures? Interest
+      charges now account for 25 cents on every dollar raised in the US through taxation.
+      Such a problematic contradiction requires gaslighting people into buying US debt
+      — despite its declining returns.
+
+
+      His answer is to use tariffs as the instrument behind ‘shakedowns’ both of Allies
+      and adversaries alike – to coerce pledges of billions of dollars in foreign investment.
+      The US Treasury Secretary separately has ordered global investors to buy US debt.
+      The contradiction here is that tariffs ultimately are paid by US consumers, and
+      are inflationary — further adding to American economic woes.
+
+
+      How does this new business approach work geo-politically? In Ukraine, the ‘business
+      approach’ presumes that the solution to the protracted conflict requires a system
+      where the opportunity for financial benefit continues. i.e. that the strategic
+      problem is about dividing the ‘Ukraine economic cake’ between ‘stakeholders’.
+
+
+      “Written in polite diplomatic terms, the continued payments are identified as
+      “the prosperity agenda which aims to support Ukraine’s post-war reconstruction;
+      the mooted joint US-Ukraine economic initiatives and the Ukraine recovery projects.”
+      (This is code speak for the US Senate and EU retaining a financial mechanism to
+      exploit for personal benefit”. (i.e. how to continue the usual boondoggle laundering
+      of pay-offs).
+
+
+      “From the language, it appears that Witkoff and Kushner are confident they can
+      construct a financial reward system for western banks, investors, politicians
+      and Ukraine officials that will retain the benefits of war without the ancillary
+      ingredient of bloodshed”.
+
+
+      “If the U.S. delegation can pull this off, then Russia can gain the territory
+      they want, corrupt Ukraine officials can keep skimming investment money, the EU
+      can retain the power it wants to extract financial payments, American politicians
+      can use the “long-term recovery projects” for money laundering and quasi-public/private
+      investment banks can benefit from the exploitation of Ukraine resources”.
+
+
+      This obviously is derived from experience in putting together a New York real
+      estate deal.
+
+
+      Whilst it is true that financial interests are present in the Ukraine conflict,
+      they are not the only interests at stake: Russia has an existential interest in
+      creating a solid, water-tight security environment and in defeating NATO and its
+      European adherents in a lasting fashion. And the Euro-élites have an equal and
+      opposing desperation to land a crushing defeat on Russia.
+
+
+      The NSS says stability in Europe is an US primary interest – but another powerful
+      faction in the US undermines stability in Europe by insisting that the Europeans
+      rearm and be ready for war with Russia by 2027. The Euro-élites comply, because
+      they cannot stand the prospect of Russia ‘winning’ and then becoming a significant
+      actor within Europe. (Sour motives of vengeance are at play too, in certain important
+      quarters of Brussels).
+
+
+      So, we can espy a further evolution of this Trump business model — as Alexander
+      Christoforou outlines —
+
+
+      “Instead of trying to do everything yourself, you focus on core competencies as
+      a business – right? And then you’re going to outsource everything else to partners.
+      So, Europe will be outsourced to the Europeans. Asia will be outsourced to proxies
+      in Asia … It’s like a franchise … we’re [the US is] going to focus on our neighbourhood
+      [the western hemisphere] and then we’re going to have our three, four franchises
+      out there and they’re going to pay us their 7% in franchise fees, but they’re
+      going to take care of their region”.
+
+
+      Just to make matters clear, the NSS states:
+
+
+      “The terms of our agreements, especially with those countries that depend on us
+      most and therefore over which we have the most leverage, must be sole-source contracts
+      for our [US] companies. At the same time, we should make every effort to push
+      out foreign companies that build infrastructure in the region”.
+
+
+      In the context of the US asserting ‘regions of influence’, a main takeaway from
+      the NSS is the focus on the Western Hemisphere and the Americas. It even says
+      the US will “assert and enforce a ‘Trump Corollary’ to the Monroe Doctrine there”.
+
+
+      It is here that we can observe a deeper zeitgeist underpinning the NSS –
+
+
+      A return to the Hamiltonian economic architecture is very unlikely in today’s
+      circumstances. Instead, what we see from US actions in Venezuela is presently
+      cold, but potentially hot ‘competition’ over who shapes the next global system.
+      Locking China out of Latin America is clearly on the table.
+
+
+      Alex Kainer reports that:
+
+
+      “The Venezuelan government this summer offered Washington the most generous terms
+      any adversary has extended to the US in decades. Venezuela proposed opening all
+      existing oil and gold projects to American companies – granting preferential contracts
+      to US businesses – thus potentially reversing the flow of Venezuelan oil exports
+      from China back to the United States”
+
+
+      “This wasn’t just a ‘deal’. Essentially, it was an unconditional surrender of
+      resource sovereignty to American corporate interests”.
+
+
+      “The response from the Trump Administration: A hard ‘no’. Instead, [naval and]
+      military assets continue to accumulate off Venezuela’s coast.
+
+
+      “Here is where it gets really interesting. Whilst Washington rejected Maduro’s
+      offer, Beijing doubled down. China unveiled a zero-tariff trade agreement at the
+      Shanghai Expo in November – and a bilateral investment treaty. Private Chinese
+      companies, CCRC, are now investing over a billion dollars in Venezuelan oil fields
+      under 20-year production contracts.
+
+
+      “So why would the US turn down exactly what it claims to want [Venezuela’s huge
+      oil reserves], without firing a shot? The answer reveals something far more significant
+      about how global power is likely to work in the future
+
+
+      “[Global power] will be about gaining control over the global economic architecture
+      itself. And [the contest will revolve around] which system – Washington’s rules-based
+      order or Beijing’s emerging alternative – will dominate in the Western Hemisphere
+      and beyond. Venezuela has become the chessboard where two incompatible visions
+      of world order are colliding.
+
+
+      “What China has constructed in Venezuela is not just a trading relationship. It
+      is an integrated supply chain of loans ports and commodity corridors – a network
+      that’s increasingly resistant to external pressure. And that’s exactly [what irks]
+      from Washington’s perspective. Because when we talk about the emerging global
+      order; we are discussing the competition between an American-led system and that
+      which China espouses.
+
+
+      “The American approach … relies on the dollar. It depends on financial institutions
+      like the IMF and World Bank that operate according to rules written largely in
+      Washington. It requires countries to integrate into a trading system where the
+      US and its allies maintain the ability to impose costs through sanctions primarily
+      on actors who violate established rules”.
+
+
+      But China requires none of that: It builds on fundamentally different principles.
+      It doesn’t require reform of political systems, nor adopting the dollar-based
+      system. Nor does it insist on alignment with Washington’s foreign policy.
+
+
+      Why then did America reject the Maduro offer? Because the real issue is not oil.
+      Oil is fungible. The key issue is as stated in the NSS: In Washington’s regional
+      fortress, Trump’s Monroe Corollary asserts “that the US will make every effort
+      to push out foreign companies that build infrastructure in the region”.
+
+
+      Trump is saying – by his naval blockade of Venezuela — that Chinese supply chains,
+      loans, alternative payment systems and commodity corridors — will be “pushed out”
+      from America’s fortress Western Hemisphere. Hence the naval blockade of Venezuela
+      and Cuba.
+
+
+      This marks the first round in the war for who gets to shape the incoming economic
+      architecture and system in Latin America — and of course beyond.
+
+
+      It is hugely symbolic — and dangerous. By what means — economic or militarily
+      — will the Trump Corollary be enforced? Let’s see.'
+    one_sentence_summary: In his analysis of the U.S. National Security Strategy, Alastair
+      Crooke argues that President Trump's approach to foreign policy prioritizes "peace
+      through commerce" and a shift away from traditional imperial dominance towards
+      a transactional model focused on economic interests, while recognizing the need
+      to address the unsustainable financial burdens of empire and the failures of sanctions
+      against countries like China and Russia.
+    paragraph_summary: In his analysis, Alastair Crooke discusses President Trump's
+      transactional foreign policy approach, as articulated in the December 4 National
+      Security Strategy (NSS), which emphasizes "peace through commerce" rather than
+      traditional imperialism. The NSS reflects a shift away from a rules-based order
+      and democratic values, focusing instead on managing regional influences and financial
+      interests. It acknowledges the unsustainable nature of America's imperial ambitions
+      due to economic contradictions, particularly rising debt and the failure of sanctions
+      against China and Russia. Crooke highlights a proposed pivot towards an "American
+      System" of economic policy, reminiscent of Alexander Hamilton's protectionist
+      strategies, contrasting it with the British free trade model. He argues that this
+      shift is driven by the need to finance U.S. interests while maintaining dollar
+      hegemony. The NSS also suggests a "Trump Corollary" to the Monroe Doctrine, asserting
+      U.S. dominance in the Western Hemisphere and pushing back against Chinese influence,
+      particularly in Venezuela. Crooke warns that this approach could lead to increased
+      geopolitical tensions as the U.S. seeks to reshape global economic architecture
+      amidst rising competition from China.
+    published: '2025-12-17T16:52:47+00:00'
   - title: 'NATO Declared To Be ‘Not Forever’: A Critical Reading Of The New US National
       Security Strategy – OpEd'
     url: https://www.eurasiareview.com/12122025-nato-declared-to-be-not-forever-a-critical-reading-of-the-new-us-national-security-strategy-oped/

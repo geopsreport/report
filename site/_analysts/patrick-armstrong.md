@@ -7,25 +7,15 @@ description: "Former Canadian diplomat in Moscow; independent analyst of Russia�
 websites:
   - https://patrickarmstrong.ca/
 summary: |
-  As of December 17, 2025, the geopolitical landscape remains shaped by persistent tensions between Russia and the West, ongoing instability in the Middle East, and questions about NATO’s cohesion and effectiveness. Recent independent analysis continues to challenge mainstream narratives, emphasizing the importance of critical thinking and historical context in understanding current developments.
+  As of December 24, 2025, the geopolitical landscape remains defined by persistent tensions between Russia and the West, ongoing instability in the Middle East, and growing skepticism about the effectiveness of Western military alliances. Recent analyses underscore the importance of critical thinking and historical context in interpreting these developments.
   
-  **Evolving Narratives on Russia and the West**
+  The Israel-Iran conflict has entered a new phase, with both sides engaging in what **Patrick Armstrong** describes as "theatrical displays," particularly following Donald Trump's mediation of a temporary halt to hostilities. Armstrong notes that Iran has demonstrated unexpected military capabilities, especially through the deployment of drones and hypersonic missiles, challenging long-held assumptions about Western and Israeli military superiority. He warns that "the damage in Israel will be more significant than reported," and questions the reliability of Israeli intelligence and the cohesion of NATO in the face of these emerging threats.
   
-  A recurring theme in recent analysis is the enduring nature of anti-Russian sentiment in Western policy and media. **Patrick Armstrong** highlights how perceptions of Russia as a perpetual adversary have deep historical roots, with contemporary discourse often echoing 19th-century rhetoric. This persistent framing, Armstrong argues, validates Russian claims of longstanding Western hostility and complicates diplomatic efforts. The majority view among independent analysts is that Western narratives remain largely unchanged, regardless of shifts in Russian governance or policy.
+  On the NATO front, recent statements by the alliance's Secretary General have drawn criticism for invoking historical analogies that, according to Armstrong, "evoke unfavorable historical parallels" with the decline of empires such as Rome and Napoleonic France. This rhetoric, combined with ongoing debates about funding and military readiness, has fueled doubts about NATO's strategic direction and its ability to adapt to the realities of modern industrial warfare.
   
-  **Middle East: Israel-Iran Tensions and Western Assumptions**
+  The broader narrative surrounding Russia continues to be shaped by deep-seated biases and a lack of logical consistency in Western discourse. Armstrong highlights the enduring phenomenon of "Putin Derangement Syndrome," noting a "growing disconnection from rational analysis" and a tendency to recycle historical anti-Russian sentiment under new guises. This persistent framing, he argues, "may indeed validate Russian claims of enduring Western hostility."
   
-  The Israel-Iran conflict has entered a new phase, marked by what **Patrick Armstrong** describes as "theatrical displays" and a temporary halt to hostilities brokered by Donald Trump. Analysts express skepticism regarding the effectiveness of recent military actions, noting that Iran’s demonstrated capabilities—particularly in drones and hypersonic missiles—have exceeded Western expectations. Armstrong predicts, with high confidence, that the damage to Israel is more significant than officially reported and that the West’s traditional confidence in its military superiority is increasingly being challenged.
-  
-  **NATO’s Strategic Dilemmas and Historical Parallels**
-  
-  Recent statements by NATO leadership have drawn criticism for their reliance on questionable historical analogies and for downplaying the alliance’s current vulnerabilities. Armstrong notes that references to the Roman Empire and Napoleon serve more to highlight potential pitfalls than to inspire confidence. There is a growing consensus among independent analysts that NATO’s focus on financial contributions and rhetorical posturing does little to address its underlying logistical and industrial shortcomings, particularly in the context of the Ukraine conflict.
-  
-  **Trends and Predictions**
-  
-  The prevailing trend is a widening gap between official Western narratives and on-the-ground realities, especially regarding Russia’s resilience and the shifting balance of military power in the Middle East. Analysts expect continued deterioration in NATO’s perceived credibility unless there is a substantive shift in strategy and leadership. Looking ahead, Armstrong asserts with high confidence that the West’s overconfidence and reliance on outdated narratives will likely result in further strategic miscalculations, both in Eastern Europe and the Middle East.
-  
-  In summary, independent analysis suggests that critical reassessment of long-held assumptions is urgently needed. Without such reflection, the risk of repeating historical mistakes remains high, with significant implications for global stability in the months ahead.
+  Looking ahead, the majority of independent analysts cited by Armstrong predict with high confidence that Western overconfidence—particularly regarding military and industrial capabilities—will continue to be challenged by events on the ground. There is a strong likelihood that the West's reliance on outdated narratives and insufficient logistical planning will lead to further strategic setbacks, especially if current trends in the Ukraine conflict and Middle Eastern instability persist. The consensus is clear: without a fundamental reassessment of assumptions and a renewed focus on critical analysis, Western policymakers risk repeating the mistakes of the past.
 articles:
   - title: TRUMP RUSSIA
     url: https://patrickarmstrong.ca/2025/07/23/trump-russia/

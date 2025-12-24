@@ -7,19 +7,110 @@ description: "Investigative journalist and filmmaker; founder of The Grayzone; c
 websites:
   - https://thegrayzone.com
 summary: |
-  The past week has seen a series of revelations highlighting the covert influence of Western powers in political upheavals and information control across several regions. These developments underscore an intensifying global contest for influence, especially between the US, its allies, and competing powers such as China and India.
+  As 2025 draws to a close, the geopolitical landscape remains shaped by covert interventions, legal controversies, and the ongoing influence of intelligence agencies on global affairs. Recent revelations and legal challenges continue to expose the mechanisms of power behind major international events.
   
-  The most recent and significant disclosure comes from Nepal, where, according to **Max Blumenthal**, leaked documents reveal that the US government covertly funded Nepalese youth groups to orchestrate a coup. The operation aimed to reduce Chinese and Indian sway in Kathmandu, culminating in the installation of a leader chosen via a social media poll. This marks a novel approach to regime change, leveraging youth activism and digital platforms to reshape the political landscape. The majority of analysts cited in these leaks agree that this represents a new phase in US efforts to counter rival influence in South Asia, with **Blumenthal** noting, “The US is now experimenting with youth-driven, tech-enabled regime change as a tool to reassert its strategic interests.”
+  The most recent development centers on the Nobel Peace Prize awarded to Venezuelan opposition figure María Corina Machado. **Julian Assange** has filed a legal document arguing that Sweden violated its own laws and the foundational principles of the Nobel Committee by granting the prize to Machado, a figure closely aligned with former US President Trump. Assange’s claim, as reported by **Max Blumenthal**, highlights the growing scrutiny over the politicization of international awards and the role of Western institutions in legitimizing controversial opposition leaders. This legal challenge is likely to intensify debates over the Nobel Committee’s independence and could prompt further investigations into its selection processes. There is a high chance that this controversy will fuel broader criticism of Western intervention in Latin American politics.
   
-  Meanwhile, scrutiny of Western information control mechanisms has deepened. Files obtained by The Grayzone and reported by **Blumenthal** expose the UK’s secretive D-Notice censorship regime, which British military and intelligence agencies use to suppress reporting on national security matters. The system boasts a high success rate in shaping the public narrative and silencing dissenting or controversial stories. This revelation has reignited debates about press freedom and the extent of government intervention in the media.
+  In parallel, earlier leaks revealed that the US government covertly financed Nepalese youth groups to orchestrate a coup, aiming to curb Chinese and Indian influence in Kathmandu. The operation resulted in the installation of a leader chosen via a social media poll, underscoring the increasing use of unconventional tactics in regime change efforts. **Max Blumenthal**’s reporting suggests that such interventions are becoming more sophisticated and digitally driven, with a high chance that similar strategies will be replicated in other regions where US interests are perceived to be under threat.
   
-  In the US, concerns over cybersecurity and foreign influence have been amplified by the Pentagon’s reliance on Axonius, a firm founded by former Israeli military intelligence officers, for safeguarding government data. As **Blumenthal** reports, this partnership reflects the growing entanglement between US security infrastructure and foreign expertise, raising questions about sovereignty and the potential risks of outsourcing critical digital defenses.
+  Meanwhile, the entanglement of intelligence agencies in domestic and international affairs remains a persistent theme. The Pentagon’s reliance on cybersecurity services provided by Axonius—a firm founded by former Israeli military intelligence operatives—raises questions about foreign influence over critical US infrastructure. This development, as detailed by **Blumenthal**, points to a trend of deepening collaboration between US agencies and foreign intelligence-linked firms. There is a high chance that scrutiny over these partnerships will increase, especially as concerns about data security and sovereignty grow.
   
-  **Trends and Predictions:**  
-  The convergence of these events suggests a broader trend of Western powers intensifying covert operations and information control to maintain geopolitical dominance. The use of youth-led, digitally coordinated regime change efforts is likely to expand, especially in regions where traditional influence is waning. Simultaneously, the reliance on foreign expertise for cybersecurity and the use of censorship regimes point to a tightening of control over both physical and informational domains.
-  
-  Based on the current trajectory and the weight of evidence, I guarantee that we will see further revelations of covert influence operations and expanded efforts to control narratives in contested regions. There is a high chance that similar youth-driven, tech-enabled interventions will be attempted elsewhere, particularly where US or allied interests are perceived to be at risk.
+  In summary, the latest disclosures and legal actions reinforce patterns of covert intervention, politicization of international institutions, and the blurred boundaries between state and private intelligence operations. The prevailing trend is toward greater exposure of these practices, with a high chance that public and legal challenges will intensify in 2026, potentially reshaping the norms governing international relations and institutional accountability.
 articles:
+  - title: 'Julian Assange: Suecia violó sus propias leyes al darle el Nobel de la Paz
+      a María Corina Machado'
+    url: https://thegrayzone.com/2025/12/21/assange-suecia-violo-leyes-nobel-machado/
+    text: 'Al premiar con su premio de la paz a la figura favorita de Trump de la oposición
+      venezolana, la conspiradora golpista y proguerra María Corina Machado, el Comité
+      Nobel desobedeció los principios entronizados en sus documentos fundacionales,
+      así como la ley sueca, alega Julian Assange en un escrito legal explosivo revisado
+      por The Grayzone. El gobierno sueco violó sus propias leyes al concederle el Premio
+      Nobel de la Paz a María Corina Machado, según un escrito legal explosivo introducido
+      por […] The post Julian Assange: Suecia violó sus propias leyes al darle el Nobel
+      de la Paz a María Corina Machado first appeared on The Grayzone . The post Julian
+      Assange: Suecia violó sus propias leyes al darle el Nobel de la Paz a María Corina
+      Machado appeared first on The Grayzone .'
+    one_sentence_summary: Julian Assange argues in a legal document that Sweden violated
+      its own laws and the foundational principles of the Nobel Committee by awarding
+      the Peace Prize to María Corina Machado, a controversial figure favored by Trump
+      in the Venezuelan opposition.
+    paragraph_summary: Julian Assange ha argumentado en un escrito legal que el Comité
+      Nobel violó sus principios fundacionales y la ley sueca al otorgar el Premio Nobel
+      de la Paz a María Corina Machado, una figura opositora a favor de la intervención
+      militar en Venezuela y cercana a Donald Trump. Assange sostiene que esta decisión
+      del gobierno sueco contraviene sus propias normativas, lo que plantea serias dudas
+      sobre la legitimidad del galardón en este contexto.
+    published: '2025-12-21T14:37:50+00:00'
+  - title: 'Julian Assange: Suecia violó sus propias leyes al darle el Nobel de la Paz
+      a María Corina Machado'
+    url: https://thegrayzone.com/2025/12/21/assange-suecia-violo-leyes-nobel-machado/
+    text: 'Al premiar con su premio de la paz a la figura favorita de Trump de la oposición
+      venezolana, la conspiradora golpista y proguerra María Corina Machado, el Comité
+      Nobel desobedeció los principios entronizados en sus documentos fundacionales,
+      así como la ley sueca, alega Julian Assange en un escrito legal explosivo revisado
+      por The Grayzone. El gobierno sueco violó sus propias leyes al concederle el Premio
+      Nobel de la Paz a María Corina Machado, según un escrito legal explosivo introducido
+      por […] The post Julian Assange: Suecia violó sus propias leyes al darle el Nobel
+      de la Paz a María Corina Machado first appeared on The Grayzone . The post Julian
+      Assange: Suecia violó sus propias leyes al darle el Nobel de la Paz a María Corina
+      Machado appeared first on The Grayzone .'
+    one_sentence_summary: Julian Assange argues in a legal document that Sweden violated
+      its own laws and the foundational principles of the Nobel Committee by awarding
+      the Peace Prize to María Corina Machado, a controversial figure favored by Trump
+      in the Venezuelan opposition.
+    paragraph_summary: Julian Assange ha argumentado en un escrito legal que el Comité
+      Nobel violó sus principios fundacionales y la ley sueca al otorgar el Premio Nobel
+      de la Paz a María Corina Machado, una figura opositora a favor de la intervención
+      militar en Venezuela y cercana a Donald Trump. Assange sostiene que esta decisión
+      del gobierno sueco contraviene sus propias normativas, lo que plantea serias dudas
+      sobre la legitimidad del galardón en este contexto.
+    published: '2025-12-21T14:37:50+00:00'
+  - title: 'Julian Assange: Sweden broke own laws with Nobel Prize to Venezuela’s Machado'
+    url: https://thegrayzone.com/2025/12/17/julian-assange-sweden-nobel-venezuelas-machado/
+    text: 'By awarding its peace prize to Trump’s favorite Venezuelan opposition figure,
+      pro-war coup plotter Maria Corina Machado, the Nobel Committee contravened the
+      principles enshrined in its founding documents, as well as Swedish law, Julian
+      Assange alleged in an explosive brief reviewed by The Grayzone. The Swedish government
+      violated its own laws by awarding the Nobel Peace Prize to Venezuelan opposition
+      figure Maria Corina Machado, according to an explosive legal brief filed by Julian
+      Assange, the Wikileaks co-founder and former political […] The post Julian Assange:
+      Sweden broke own laws with Nobel Prize to Venezuela’s Machado first appeared on
+      The Grayzone . The post Julian Assange: Sweden broke own laws with Nobel Prize
+      to Venezuela’s Machado appeared first on The Grayzone .'
+    one_sentence_summary: Julian Assange claims that the Nobel Committee's decision
+      to award the Peace Prize to Venezuelan opposition figure Maria Corina Machado
+      violates both its founding principles and Swedish law.
+    paragraph_summary: Julian Assange has claimed that the Swedish government violated
+      its own laws and the principles of the Nobel Committee by awarding the Nobel Peace
+      Prize to Maria Corina Machado, a Venezuelan opposition figure favored by Donald
+      Trump and known for her pro-war stance. In a legal brief reviewed by The Grayzone,
+      Assange argues that this decision contravenes the foundational principles of the
+      Nobel Prize, suggesting that it undermines the integrity of the award and reflects
+      a political bias rather than a commitment to genuine peace efforts.
+    published: '2025-12-17T13:24:11+00:00'
+  - title: 'Julian Assange: Sweden broke own laws with Nobel Prize to Venezuela’s Machado'
+    url: https://thegrayzone.com/2025/12/17/julian-assange-sweden-nobel-venezuelas-machado/
+    text: 'By awarding its peace prize to Trump’s favorite Venezuelan opposition figure,
+      pro-war coup plotter Maria Corina Machado, the Nobel Committee contravened the
+      principles enshrined in its founding documents, as well as Swedish law, Julian
+      Assange alleged in an explosive brief reviewed by The Grayzone. The Swedish government
+      violated its own laws by awarding the Nobel Peace Prize to Venezuelan opposition
+      figure Maria Corina Machado, according to an explosive legal brief filed by Julian
+      Assange, the Wikileaks co-founder and former political […] The post Julian Assange:
+      Sweden broke own laws with Nobel Prize to Venezuela’s Machado first appeared on
+      The Grayzone . The post Julian Assange: Sweden broke own laws with Nobel Prize
+      to Venezuela’s Machado appeared first on The Grayzone .'
+    one_sentence_summary: Julian Assange claims that the Nobel Committee's decision
+      to award the Peace Prize to Venezuelan opposition figure Maria Corina Machado
+      violates both its founding principles and Swedish law.
+    paragraph_summary: Julian Assange has claimed that the Swedish government violated
+      its own laws and the principles of the Nobel Committee by awarding the Nobel Peace
+      Prize to Maria Corina Machado, a Venezuelan opposition figure favored by Donald
+      Trump and known for her pro-war stance. In a legal brief reviewed by The Grayzone,
+      Assange argues that this decision contravenes the foundational principles of the
+      Nobel Prize, suggesting that it undermines the integrity of the award and reflects
+      a political bias rather than a commitment to genuine peace efforts.
+    published: '2025-12-17T13:24:11+00:00'
   - title: US regime change front funded Nepalese youth revolutionaries, leaks reveal
     url: https://thegrayzone.com/2025/12/10/cia-front-funded-nepal-revolutionaries/
     text: Leaked files reviewed by The Grayzone show the US gov’t covertly funded Nepalese

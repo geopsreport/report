@@ -7,16 +7,639 @@ description: "Cambridge–educated researcher at RMIT; writes widely on imperial
 websites:
   - https://counterpunch.org/author/jete6/
 summary: |
-  As 2025 draws to a close, global geopolitics remains marked by shifting alliances, contested narratives, and mounting skepticism over the legitimacy of international institutions and agreements. Recent developments highlight the growing entanglement of politics, security, and public perception, with several key stories dominating the landscape.
+  As 2025 draws to a close, the international landscape remains fraught with legal, political, and institutional tensions. The latest developments highlight ongoing disputes over the legitimacy of global institutions and the narratives shaping international security.
   
-  The most recent and controversial event is the awarding of FIFA’s inaugural “Peace Prize” to U.S. President Donald Trump. The ceremony, as **Binoy Kampmark** notes, was met with widespread criticism for its “perceived hypocrisy and lack of neutrality,” especially given FIFA’s own history of political entanglements and Trump’s divisive policies. The move is seen by many as an attempt to rehabilitate reputations rather than a genuine recognition of peace efforts, further blurring the lines between sport, politics, and global image-making.
+  The most recent and notable event centers on **Julian Assange**'s criminal complaint against the Nobel Foundation. Assange contends that awarding the Peace Prize to Venezuelan opposition leader María Corina Machado violates Alfred Nobel's will, given her advocacy for military intervention—actions he argues are antithetical to the prize's core mission of promoting peace. As **Binoy Kampmark** notes, this legal move exposes the persistent friction between the original intent of international awards and their politicized contemporary application. The case is likely to intensify debates over the credibility and neutrality of major global honors, with a high chance of further legal and public scrutiny in the coming months.
   
-  Meanwhile, Australia’s deepening commitment to the AUKUS security pact with the United States and United Kingdom continues to raise alarms about sovereignty and strategic autonomy. **Kampmark** argues that Australia has become “a subordinate state that is financially supporting US submarine production without guaranteed benefits,” with the risk of being drawn into future conflicts not of its own making. The majority view among analysts is that Canberra’s defense policy is increasingly dictated by Washington, with little regard for independent threat assessments or long-term national interests.
+  Meanwhile, NATO's internal coherence continues to be tested. Recent remarks by Secretary-General Mark Rutte, warning of an imminent Russian threat to Europe, have been met with skepticism. **Kampmark** highlights the contradictions within U.S. foreign policy under President Trump, which simultaneously demands greater European military spending while undermining the continent's security architecture. This confusion is deepening doubts about NATO's future direction and the reliability of U.S. commitments. There is a high chance that European states will accelerate efforts to develop more autonomous defense strategies, though divisions within the alliance are likely to persist.
   
-  On the security front, the U.S. Secretary of Defense, Pete Hegseth, faces mounting scrutiny over alleged war crimes linked to lethal strikes on vessels suspected of drug trafficking. The Trump administration’s defense of these actions as “necessary measures” against threats is unlikely to quell international criticism or legal challenges. The episode underscores the ongoing tension between national security imperatives and adherence to international law—a theme that has become increasingly pronounced under the current U.S. administration.
+  The United Nations, marking its 80th anniversary, faces a severe financial crisis as major contributors, especially the U.S., continue to withhold funding. This shortfall has already forced cuts to humanitarian and human rights programs, casting doubt on the UN's ability to fulfill its mandate. According to **Kampmark**, the organization's future effectiveness is at stake, and unless member states address the funding gap, there is a high chance of further erosion of the UN's authority and operational capacity.
   
-  Looking ahead, the trends point to further erosion of trust in international institutions, as well as a growing willingness among major powers to bypass established norms in pursuit of perceived national interests. The politicization of awards and alliances, coupled with a disregard for legal and ethical constraints, is likely to intensify. There is a high chance, as **Kampmark** suggests, that Australia’s entanglement in U.S.-led security initiatives will deepen, while efforts to hold powerful actors accountable for controversial actions will face significant obstacles. I guarantee that skepticism toward the legitimacy of global institutions and the motives behind high-profile gestures—such as the FIFA Peace Prize—will only grow in the coming months.
+  In summary, the latest developments reveal a trend of growing skepticism toward international institutions and their leadership, with legal challenges and funding crises threatening to undermine their legitimacy. Looking ahead, it is quite likely that disputes over the politicization of global awards and the weakening of multilateral organizations will intensify, fueling calls for reform and greater accountability.
 articles:
+  - title: 'The Problem with Machado: Assange Sues the Nobel Foundation'
+    url: https://www.counterpunch.org/2025/12/23/the-problem-with-machado-assange-sues-the-nobel-foundation/
+    text: 'The Swedish police have promised it will go nowhere, but the attempt by WikiLeaks
+      founder Julian Assange to draw attention to the inappropriateness of María Corina
+      Machado as a Nobel Peace Prize recipient raises a few salient matters. On December
+      17, Assange submitted a criminal complaint to the Swedish Economic Crime Authority
+      and Swedish Crimes Unit. The legal complaint is directed against the Nobel Foundation,
+      arguing that the pending transfer of 11 million SEK ($US 1.18 million) and the
+      award of the prize medal to Machado violates the terms of Alfred Nobel’s will
+      of November 27, 1895.
+
+
+      The will, binding under the terms of Swedish law, stipulates that the award of
+      the prize and monies be given to a person who, during the preceding year, “conferred
+      the greatest benefit to humankind” in pursuing “the most or the best work for
+      fraternity between nations, for the abolition or reduction of standing armies
+      and for the holding and promotion of peace congresses.”
+
+
+      Given that the peace prize laureates are selected by the Norwegian Nobel Committee,
+      seeking to hold them accountable for their poor choice of awardee might have been
+      a better starting point. But the complaint is alert to this, noting that the Swedish
+      funds administrators have a fiduciary duty when it comes to disbursing the funds.
+      “The Norwegian committee’s selection does not grant them criminal immunity.” Indeed,
+      it was up to the administrators to consider such a decision made “in flagrant
+      conflict with the explicit purpose of the will, or where there is evidence that
+      the awardee will use or is using the prize to promote or facilitate the crime
+      of aggression, crimes against humanity, or war crimes”.
+
+
+      Whatever the administrative minutiae, Assange’s effort is worth noting. Machado
+      has become the unsavoury alternative to the Venezuelan incumbent, Nicolás Maduro,
+      a figure who refused to accept the electoral returns for his opposing number,
+      Edmundo González, in July 2024. González was essentially a pick by Machado, who
+      has emerged as the empurpled, plumed candidate seeking Maduro’s overthrow. That
+      she was the 2025 choice of prize recipient was galling enough for 21 Norwegian
+      peace organisations to boycott the ceremony and prompt Nobel Peace Prize laureate
+      Adolfo Pérez Esquivel to remark that, “Giving the prize to someone who calls for
+      foreign invasion is a mockery of Alfred Nobel’s will.”
+
+
+      Machado has made no secret of her approval of the buildup of US military personnel
+      (around 15,000) off the coast of Venezuela since August, including a nuclear-powered
+      attack submarine and the world’s largest aircraft carrier, the USS Gerald R. Ford.
+      She has “incited and defended the Trump administration’s use of lethal military
+      force and preparation for war.” The US military has already committed, charges
+      Assange, “undeniable war crimes, including the lethal targeting of civilian boats
+      and survivors at sea, which has killed at least 95 people.” (President Donald
+      Trump has liberally designated such individuals narco-terrorists.) The Central
+      Intelligence Agency has been authorised to conduct covert actions in Venezuela.
+      Parts of the Venezuelan military have been classified by the Trump administration
+      as a Foreign Terrorist Organisation (FTO).
+
+
+      Since Assange submitted his complaint, Trump has ordered a complete blockade of
+      sanctioned oil tankers entering or exiting Venezuela. The US has thus far seized
+      two tankers, though the authorities have failed to distinguish which tankers are
+      sanctioned or otherwise. The Panama-flagged Centuries, for instance, was not officially
+      sanctioned by the US, showing that this administration is not one to be, as US
+      Secretary of War Pete Hegseth put it, legally tepid.
+
+
+      A list of incitements to war by Machado are enumerated. They include the dedication
+      of the award to President Trump for having “Venezuela in where it should be, in
+      terms of a priority for United States national security”; a heartfelt endorsement
+      of US military escalation as maybe being “the only way” in dealing with Maduro;
+      warm appreciation for Israeli Prime Minister Benjamin Netanyahu’s “decisions and
+      resolute actions in the course of the [Gaza] war” and the endorsement of extrajudicial
+      killing of civilian boats in the Caribbean Sea as “visionary”. Hardly the résumé
+      for a peacemaker.
+
+
+      Assange argues that the failure of the funds administrators to stop pertinent
+      disbursements to Machado, in light of the material submitted in the complaint,
+      “indicates ongoing criminal intent”. Such funds aided “a conspiracy to murder
+      civilians”, violated national sovereignty through using military force and advanced
+      resource theft (Machado’s promised reward to US firms of oil and gas resources
+      amounting to US$1.7 trillion). In doing so, Nobel’s will and charitable purpose
+      had been violated through “gross misappropriation, aiding international crimes
+      […] and conspiracy.” They also breached Sweden’s obligations under the Rome Statute.
+      By way of remedy, the “immediate freezing of all remaining funds and a full criminal
+      investigation lest the Nobel Peace Prize be permanently converted from an instrument
+      of peace into an instrument of war” was sought.
+
+
+      In an email to AFP, Swedish detective inspector Rikard Ekman showed little interest
+      in taking the matter up. “As I have decided not to initiate a preliminary investigation,
+      no investigation will be conducted on the basis of the complaint.”
+
+
+      While this complaint remains a purist’s attempt to return the peace prize to a
+      more conventional reading (Assange thinks the UN Secretary General António Guterres
+      and UN human rights chief Volker Turk eminently more suitable candidates), the
+      practice of awarding this inflated award to figures of ill-repute and sullied
+      reputation will be hard to shake. The ghost of former US security advisor and
+      Secretary of State Henry Kissinger, a man lauded for bringing peace to Indochina
+      when he covertly indulged illegal bombing campaigns, not to mention war crimes,
+      torture and an assortment of other blood sports, continues to loom large. It might
+      well be time to abolish the Nobel Peace Prize altogether, and the committee responsible
+      for it. It was never a strong indicator of merit, even if it offers the chance
+      for some very dark humour for the reptiles to revel in.'
+    one_sentence_summary: Julian Assange has filed a criminal complaint against the
+      Nobel Foundation, arguing that awarding the Peace Prize to María Corina Machado
+      violates Alfred Nobel's will, as her support for military intervention and actions
+      that could be seen as inciting war contradicts the prize's purpose of promoting
+      peace.
+    paragraph_summary: Julian Assange has filed a criminal complaint with Swedish authorities
+      against the Nobel Foundation, challenging the appropriateness of María Corina
+      Machado as a Nobel Peace Prize recipient. Assange argues that awarding the prize
+      and funds to Machado violates Alfred Nobel's will, which stipulates that the prize
+      should honor those who have significantly contributed to peace and fraternity
+      among nations. He contends that Machado's support for U.S. military actions and
+      her endorsement of aggressive policies undermine the prize's intended purpose,
+      potentially facilitating war crimes and violating international law. Despite Assange's
+      claims and the concerns raised by various peace organizations, Swedish police
+      have shown little interest in pursuing the complaint, leaving the integrity of
+      the Nobel Peace Prize in question as it continues to be awarded to controversial
+      figures.
+    published: '2025-12-23T06:51:25+00:00'
+  - title: 'Confusion at NATO: Rutte, Russia and Delusions about Trump'
+    url: https://www.counterpunch.org/2025/12/22/confusion-at-nato-rutte-russia-and-delusions-about-trump/
+    text: 'It was a speech unhinged in millenarian zeal. It was unapologetically hysterical
+      in urging war while claiming to protect peace. It was also delivered with a note
+      of profound self-denial: the US administration’s 2025 National Security Strategy
+      had belittled Europe’s efforts in terms of ensuring its own security, not least
+      of all its claims to civilisational supremacy. President Donald Trump has tirelessly
+      insisted that the continent bloat the military industrial complex and confront
+      its demographic problems.
+
+
+      From the opening, NATO Secretary-General Mark Rutte reflects on a piece of the
+      Berlin Wall kept in NATO headquarters. “It was a barrier to keep people in, and
+      ideas out. Now it is a monument to the force of freedom, a reminder of the power
+      of unity, and a lesson that we must stay strong, confident and steadfast.” He
+      might have gone further to explain how the collapse of the Berlin Wall was also
+      a chance to stabilise Europe and temper the tensions with the then ailing Soviet
+      Union. Assurances by NATO members and respective US administrations that eastward
+      expansion toward Russia would be eschewed, were never honoured. NATO became Washington’s
+      spear of hubris, a post-Cold War entity of triumphalism. It would only grow, making
+      Moscow ever more anxious.
+
+
+      The message is one of foaming agitation. Russia and “the dark forces of oppression”
+      again coming to the fore. The mission of the alliance reinvigorated. Claiming
+      that NATO was “to stop a war before it starts”, he proceeded to fan the flames.
+      “We are Russia’s next target, and we are already in harm’s way.” Russia, a country
+      bleeding in war, burdened by sanctions, with an economy hovering in size between
+      Canada and Italy, would seemingly wish to plunge a continent into an infernal
+      maelstrom.
+
+
+      Rutte is wilfully blind to this point, purposely elevating the threat posed by
+      Russia despite its loss of over 1.1 million casualties since the war’s outbreak
+      in February 2022, with a daily average loss of 1,200 troops a day in 2025. “Think
+      about that, more than a million casualties so far, and 1,200 a day, killed or
+      wounded, this year alone.” Think about that, and it makes remarks that Europe
+      had to prepare “for the scale of war our grandparents or great-parents endured”
+      grotesque and misplaced.
+
+
+      In the Rutter strategy, it becomes axiomatic to link Ukraine’s decidedly gloomy
+      fate to that of NATO, a false link one has come to expect in that dubious, often
+      mendacious discipline called international relations. Russia’s ambitions on Ukrainian
+      territory become synonymous with the Kremlin’s feverish designs on Western and
+      Central European capitals. “Allied defence spending and production must rise rapidly,
+      our armed forces must have what they need to keep us safe, and Ukraine must have
+      what it needs to defend itself – now.” He proudly mentions NATO allies agreeing
+      to push defence expenditure to levels of 5% of GDP by 2035, an insular, wasteful
+      measure. “But this is not the time for self-congratulation, I fear that too many
+      are quietly complacent, and too many don’t feel the urgency, too many believe
+      that time is on our side.”
+
+
+      Whether by design or ignorance, Rutte’s smug civilisational rhetoric ignores the
+      threatening shadow of Trump’s National Security Strategy, which takes aim at alleged
+      anti-democratic practices of European states. (The phrasing here, as with much
+      of the document, is conceptually confused and a travesty of language.) “The Trump
+      Administration finds itself at odds with European officials who hold unrealistic
+      expectations for the war perched in unstable minority governments, many of which
+      trample on basic principles of democracy to suppress opposition.” Peace was demanded
+      by the European majority, “yet that desire is not translated into policy, in large
+      measure because of those governments’ subversion of democratic processes.”
+
+
+      The NSS comes close to dismissing Europe as an ailing patient on the verge of
+      expiring, abominating the European Union and those “transnational bodies that
+      undermine political liberty and sovereignty, migration policies that are transforming
+      the continent and creating strife, censorship of free speech and suppression of
+      political opposition, cratering birthrates, and loss of national identities and
+      self-confidence.”
+
+
+      This can hardly sit well with Rutte and NATO’s European component, seeing as the
+      Trump administration envisages an unrecognisable continent in the next two decades,
+      doubting that “certain European countries will have economies strong enough to
+      remain reliable allies.” Rarely has such an explicit statement on abandonment
+      been made.
+
+
+      The howling subtext here is Ukraine’s increasing irrelevance to US foreign policy,
+      evident in the parallel lines of European-Ukrainian negotiations on the war, and
+      US-Russian discussions that sup from a different cup. Washington would support
+      European allies in preserving “freedom and security” and restore “Europe’s civilizational
+      self-confidence and Western identity” but would have its main eyes trained on
+      asserting and enforcing “a ‘Trump Corollary’ to the Monroe Doctrine.” Latin America
+      promises to suffer most, given this brash assertion of hemispheric domination.
+
+
+      Rutte, bless him, is putting on a brave face. In an interview with the BBC following
+      his Berlin address, he remained industriously oblivious. Trump was “good news
+      for collective defence, for NATO and for Ukraine”. Under the US President’s stewardship,
+      NATO was “stronger than it ever was”. Time for a dose of that stiff medication
+      called “reality”.'
+    one_sentence_summary: The article critiques NATO Secretary-General Mark Rutte's
+      alarmist speech regarding Russia's threat to Europe, highlighting the contradictions
+      in U.S. foreign policy under Trump, which undermines European security efforts
+      while promoting increased military spending and a dismissive view of European
+      stability and democracy.
+    paragraph_summary: The article critiques NATO Secretary-General Mark Rutte's recent
+      speech, which is characterized as alarmist and dismissive of Europe's security
+      efforts, particularly in light of the U.S. administration's 2025 National Security
+      Strategy. Rutte's rhetoric emphasizes a heightened threat from Russia, despite
+      its significant military losses, and calls for increased defense spending among
+      NATO allies. The speech is framed as a reflection of a broader, misguided belief
+      in a civilizational struggle, while ignoring the complexities of European politics
+      and the U.S.'s shifting focus away from Ukraine. The author argues that Rutte's
+      optimistic portrayal of NATO's strength under Trump contrasts sharply with the
+      reality of a potentially weakened Europe, as the U.S. prioritizes its own geopolitical
+      interests, particularly in the Americas, over European stability.
+    published: '2025-12-22T06:53:30+00:00'
+  - title: 'Using the Slain: Israel Exploits the Bondi Beach Shootings'
+    url: https://www.counterpunch.org/2025/12/19/using-the-slain-israel-exploits-the-bondi-beach-shootings/
+    text: 'Israeli Prime Minister Benjamin Netanyahu rarely passes an opportunity to
+      comment upon the way Jews in other countries are treated. While the manic hatred
+      directed against Jews remains one of history’s grotesque legacies, opportunism
+      in the Netanyahu government is a ready instinct. With a customary sense of perversion,
+      Netanyahu has managed to mangle Israeli policy, his own political destiny and
+      the interests of Jews in a terrible, terrifying mix. The broad stroke charge of
+      antisemitism is the front name of this venture, and it conveniently presents itself
+      whenever Israeli policy requires an alibi when pursuing particularly unsavoury
+      policies: massacre, starvation and dispossession of Gazans; the continued destruction
+      and intended eradication of a functional Palestinian entity; efforts to prevent
+      criticism of its settler policies in other countries.
+
+
+      The slaughter of 15 people enjoying the festivities of Hanukkah on Sydney’s famed
+      Bondi Beach by the father-son duo of Sajid and Naveed Akram, presented a political
+      opportunity. Having already accused Australian Prime Minister Anthony Albanese
+      of being a “weak politician who betrayed Israel and abandoned Australia’s Jews”
+      earlier in the year, Netanyahu readied another verbal lashing. In prickly remarks
+      made at a government meeting in Dimona, the Israeli PM accused his Australian
+      counterpart of being a leader who had “replaced weakness and appeasement with
+      more appeasement.” His “call for a Palestinian state pours fuel on the antisemitic
+      fire.” It had rewarded “Hamas terrorists” and emboldened “those who menace Australian
+      Jews and encourages the Jew hatred now stalking your streets.”
+
+
+      Other Israeli politicians also decided that an unmeasured though monstrous antisemitism
+      stalked the island continent, spawning the Bondi killings. “We felt and experienced
+      the intense antisemitism directed against the Jewish community in Australia,”
+      claimed Aliyah and Integration Minister Ofir Sofer. Diaspora Affairs Minister
+      Amichai Chikli thought it appropriate to send “a delegation of experts in emergency
+      response” to Australia, promising to “stand with the Jewish community in this
+      difficult time and to ensure that we, as the State of Israel, are giving them
+      everything within our ability.”
+
+
+      Israeli Foreign Minister Gideon Sa’ar had a list of lecturing points for his Australian
+      counterpart, Penny Wong. There had to be, he stated with a teacherly certitude,
+      “a real change in the public atmosphere.” This required culling phrases and expressions
+      that had been expressed on behalf of the Palestinian cause in public debate and
+      protest. “Call such as ‘Globalize the Intifada,’ ‘From the River to the Sea Palestine
+      Will be Free,’ and ‘Death to the IDF’ are not legitimate, are not part of the
+      freedom of speech, inevitably lead to what we witnessed today.”
+
+
+      In Australia, the acceptance of such positions, and the watering down of the Palestinian
+      cause, was rapidly normalised. A procession line of commentators proceeded to
+      state begrudgingly that Israeli government policy could be criticised only to
+      demonstrate how slim such latitude was. This firm, excruciating delineation was
+      offered by Jeremy Leibler of the Zionist Federation of Australia: “Australians
+      can criticise Israeli government policy, Israelis do it loudly and fiercely themselves.
+      But delegitimising Israel’s right to exist, or slipping into a moral equivalence
+      between a liberal democracy defending its citizens and a terrorist organisation
+      that targets civilians, is something else entirely.”
+
+
+      Leibler’s semantic technique is important here, forcibly linking those who claim
+      Israel has no right to exist to critics of Israel’s policy of self-defence after
+      October 7, 2023 that has left 68,000 Palestinians dead, Gaza pulverised and an
+      enclave on life support. At the instigation of South Africa, it is a policy that
+      is being scrutinised by the International Court of Justice as being potentially
+      genocidal. It is a policy that has been deemed genocidal by the UN Independent
+      International Commission of Inquiry on the Occupied Palestinian Territory along
+      with a clutch of notable human rights organisations, including the Israeli outfit
+      B’Tselem. Arrest warrants have also been issued by the International Criminal
+      Court for Netanyahu and his former Defence Minister Yoav Gallant, citing alleged
+      war crimes and crimes against humanity.
+
+
+      Establishment voices from a long moribund press class are also of the view that
+      not enough has been done by the Albanese government to combat a supposedly mad
+      blight of antisemitism, seemingly unique from the other jostling hatreds. (Islamophobia,
+      anyone?) The massacre, according to the unevidenced observation of veteran journalist
+      Michelle Grattan, was “the horrific culmination of the antisemitism epidemic that
+      has spread like wildfire in Australia.”
+
+
+      She noted, with grave disapproval, the failure to “formally” respond to the combative
+      strategy proposed by the antisemitism envoy Jillian Segal, one that openly accepts
+      the International Holocaust Remembrance Alliance’s stifling definition of antisemitism.
+      Any official embrace of that definition – a point made by that definition’s originator,
+      Kenneth Stern – would be a fashioned spear against free speech, censoring genuine
+      criticism of Israeli policies. The Jerusalem Declaration, by way of contrast,
+      notes that hostility to the Israeli state “could be an expression of an antisemitic
+      animus, or it could be a reaction to a human rights violation, or it could be
+      the emotion that a Palestinian feels on account of their experience at the hands
+      of the state.”
+
+
+      Like most journalists wedded to the holy writ press brief and arid political interview,
+      Grattan shows no sign of having been to a single protest condemning the murderous
+      death toll in Gaza, or any gathering advancing the validity of Palestinian self-determination.
+      Woolly-headed, she freely speculates. “Most of us did not recognise this fact,
+      but this anti-Jewish sentiment must have been embedded in sections of the Australian
+      community – the Hamas attack on Israel in October 2023 was the spark that lit
+      the conflagration.” Her travesty of an effort to understand the attacks in Bondi
+      becomes evident in cod assessments of various protest marches and demonstrations
+      across Australian university campuses. Without even a suggestion of evidence,
+      she claims that “university encampments” proved “intimidating for Jewish students
+      and staff.” Those Jewish students and staff more than willing to engage in those
+      encampments mysteriously warrant no mention. Efforts on the part of cloddish university
+      managers to harass, suspend and censor students expressing pro-Palestinian causes
+      don’t seem to interest Grattan either.
+
+
+      With laziness, she snacks on the propagandistic samples provided by Israel’s publicity
+      relations buffet, referring to unspecified “others” who believed that the Albanese
+      government’s recognition of a Palestinian state stoked local antisemitism. Foreign
+      Minister Wong’s failure to “visit the sites of the 2023 atrocities when she went
+      to Israel early last year was much criticised in the Jewish community.”
+
+
+      Thus far, Israeli propagandists have shamelessly badgered their opponents down
+      under into accepting a streaky narrative that would fail to survive judicial,
+      let alone historical scrutiny. The agenda is clear enough: the inoculation of
+      Israel against international opprobrium. Much will now depend on Albanese’s fortitude,
+      if he, and his ministers, can find it.'
+    one_sentence_summary: Israeli Prime Minister Benjamin Netanyahu has exploited the
+      recent antisemitic violence in Australia to deflect criticism of his government's
+      controversial policies towards Palestinians, framing them as necessary for Jewish
+      safety while simultaneously manipulating narratives around antisemitism to bolster
+      his political agenda.
+    paragraph_summary: Israeli Prime Minister Benjamin Netanyahu has seized upon recent
+      antisemitic violence in Australia, particularly the tragic killings at Bondi Beach,
+      to further his political agenda and deflect criticism of Israeli policies towards
+      Palestinians. In a series of remarks, Netanyahu accused Australian Prime Minister
+      Anthony Albanese of appeasing antisemitism and criticized his support for a Palestinian
+      state, claiming it fuels hatred against Jews. Other Israeli officials echoed these
+      sentiments, suggesting that rising antisemitism in Australia is linked to criticisms
+      of Israeli actions. The article highlights the Israeli government's attempts to
+      conflate legitimate criticism of its policies with antisemitism, while also noting
+      the scrutiny of Israel's actions by international bodies for potential war crimes.
+      Critics argue that this narrative serves to shield Israel from accountability
+      and stifle free speech regarding Palestinian rights, as evidenced by the reactions
+      of Australian commentators and the media. The piece concludes by questioning whether
+      the Albanese government will resist this pressure and uphold a more balanced discourse
+      on the Israeli-Palestinian conflict.
+    published: '2025-12-19T06:50:16+00:00'
+  - title: 'Culinary Muddles at UNESCO: Italian Cuisine as Intangible Cultural Heritage'
+    url: https://www.counterpunch.org/2025/12/18/culinary-muddles-at-unesco-italian-cuisine-as-intangible-cultural-heritage/
+    text: 'Does Italian cuisine exist? Not according to Alberto Grandi, daring food
+      historian and professor of economic history at the University of Parma. With much
+      dedication, he has focused on myth demolition in the business, spraying traditional
+      culinary targets with such works as Denominazione di Origine Inventata (Invented
+      Designation of Origin: The Lies of Marketing on Typical Italian Products) and
+      his DOI podcast begun at the insistence of his friend Daniele Soffiati.
+
+
+      A running theme in his work is a familiar one to anyone in the business of finding
+      the purported lineage of a dish. Look more closely, and you find a dish of more
+      recent invention, not ancient, ceremonial derivation. Grandi does take a leaf
+      out of the work of Marxist historian Eric Hobsbawm, who was most alert to the
+      point that seemingly ancient traditions were matters of more recent provenance
+      inscribed and instituted by circumstance. (On this score, the edited collection
+      by Hobsbawm and Terence Ranger, covering such topics as the pageantry of British
+      Monarchy, Colonial Africa and the mass production of tradition in Europe between
+      1870-1914 is saliently impressive.)
+
+
+      In 2019, Grandi was taken to task by the Italian ambassador to Turkey for mocking
+      Italy’s 800 protected designations linking food products to geographical areas.
+      In 2023, he touched a nerve in telling the Financial Times that pasta alla carbonara
+      was a World War Two invention aided by US Army provisions. Necessity is maternally
+      inventive: poverty, desperation and availability are great spurs of fecund nature.
+      Begone aesthetics and plate presentation: people have to eat and will make do
+      with what they have.
+
+
+      Much in food is political. This is particularly so in Italy, when a politician
+      such as agriculture minister Francesco Lollabrigida can abominate the “unacceptable”
+      sale of bogus food products in the European Parliament supermarket or demand the
+      establishment of a task force to police the quality standards of Italian restaurants
+      served internationally. A corollary of this is seeing food as a racket, staffed
+      by hagiographers rather than honest experts, paid to sustain myths rather than
+      challenge them. The racket extends to international bodies such as the United
+      Nations Educational, Scientific and Cultural Organisation (UNESCO), whose designations
+      should never go without a challenge. What is clear is that the officials of the
+      body’s Intergovernmental Committee did not have Grandi’s prodding claims in mind
+      when they added Italian cuisine to the UNESCO Representative List of the Intangible
+      Cultural Heritage of Humanity. Given that even individual dishes can be questioned
+      regarding their sacred origins, this was bold if terribly misplaced.
+
+
+      The campaign for including Italian cuisine on the list began in earnest on March
+      23, 2023, when the Italian Ministry of Agriculture, Food Sovereignty and Forestry
+      and the Ministry of Culture committed to the mission in an almost military manner.
+      Three groups added their voices to the chorus of promotion, leaving the impression
+      of a coordinated assault: the Italian Academy of Cuisine, the Casa Artusi Foundation,
+      dedicated to the promotion of “Italia home cooking” and La Cucina Italiana, billed
+      as the world’s oldest food magazine still available on newsstands.
+
+
+      With such enthusiastic foot soldiers marching in unison, Grandi was bound to earn
+      the ire of those behind the campaign. Italy’s largest farmers’ association, Coldiretti,
+      regarded the historian’s Financial Times interview as “a surreal attack” against
+      Italian food “precisely at the occasion of its candidacy for intangible heritage.”
+      With rage, the organisation went on to tremble at his claims that carbonara had
+      been an American invention while panettone and tiramisu were of more recent commercial
+      origin. “Above all, [the interview] goes so far as to hypothesise about parmesan
+      and the one produced in Wisconsin in the US – the homeland of fake ‘made in Italy’
+      cheeses.” The sheer horror of it.
+
+
+      The UNESCO inscription, entitled Italian cooking, between sustainability and biocultural
+      diversity, reads like a summary of a gastro-nationalism. It also recalls an observation
+      by the semiotician Roland Barthes, who wrote in the 1960s that “food permits a
+      person … to partake each day of the national past”.
+
+
+      The inscription stresses the “cultural and social blend of culinary traditions”
+      which are associated with using “raw materials and artisanal food preparation
+      techniques.” The communal dimension is emphasised: intimacy, a “respect for ingredients”,
+      the “shared moments around the table.” Family is linked to community; people spanning
+      all ages and genders engage in exchanging “recipes, suggestions and stories, with
+      grandparents often passing down traditional dishes to their grandchildren.” There
+      are other sources of transmission beyond the informal setting of family as well:
+      places of learning such as school and universities.
+
+
+      All the propaganda signifiers of a kitschy populism are there: care, love, cultural
+      roots, and social inclusion. The inscription even goes so far as to say that Italian
+      cuisine “helps safeguard specific cultural expressions, such as language and gestures.”
+      One imagines such culinary patriots as Matteo Salvani having penned these starchy
+      sentiments.
+
+
+      The problem with such designations is that they could equally apply to any number
+      of cultural traditions. Furthermore, how these traditions of culinary transmission
+      and engagement survive in a post-industrial age is skirted over. But food, Barthes
+      writes, is a medium through which one “experiences a certain national continuity”.
+      Never mind that such a continuity is a heavily worked fable.'
+    one_sentence_summary: Alberto Grandi, a food historian, challenges the authenticity
+      of Italian cuisine by arguing that many traditional dishes are modern inventions
+      rather than ancient traditions, a perspective that has sparked controversy, especially
+      in light of Italy's recent UNESCO designation of its cuisine as an intangible
+      cultural heritage.
+    paragraph_summary: Alberto Grandi, a food historian and professor at the University
+      of Parma, challenges the notion of a singular Italian cuisine, arguing that many
+      traditional dishes are of more recent origin than commonly believed. His work,
+      including the book "Denominazione di Origine Inventata," critiques the marketing
+      myths surrounding Italian food and highlights how necessity and circumstance have
+      shaped culinary practices, such as the claim that pasta alla carbonara originated
+      during World War II. Grandi's controversial views have drawn backlash, particularly
+      from Italian agricultural organizations, especially as Italy campaigned for UNESCO
+      recognition of its cuisine as an intangible cultural heritage. This UNESCO designation
+      emphasizes the communal and cultural aspects of Italian cooking but has been criticized
+      for its vague applicability to various culinary traditions and for glossing over
+      the complexities of food heritage in a modern context. Grandi's arguments suggest
+      that the romanticized narratives of Italian cuisine may be more constructed than
+      authentic, raising questions about the political and cultural implications of
+      food identity in Italy.
+    published: '2025-12-18T06:52:33+00:00'
+  - title: 'Schemes of Bankruptcy: The United Nations, Funding Dues and Human Rights'
+    url: https://www.counterpunch.org/2025/12/15/schemes-of-bankruptcy-the-united-nations-funding-dues-and-human-rights/
+    text: 'The United Nations, in turning 80, has been berated, dismissed and libelled.
+      In September, US President Donald Trump took a hearty swipe at the body’s alleged
+      impotence. “What is the purpose of the United Nations?” he posed to gathered world
+      leaders. All it seemed to do was “write a really strongly worded letter and then
+      never follow that letter up. It’s empty words and empty words don’t solve war.”
+      Never once did he consider that many of the wars he has allegedly ended have not
+      so much reached their pacific terminus as having gone into simmering storage.
+
+
+      While harsh geopolitics has become violently fashionable and sneery of international
+      law, an organisation whose existence depends on solidarity, support and cooperation
+      from its often uncooperative Member States, is seeing itself slide into what has
+      been described as a “worsening liquidity crisis.” The crisis was given much stimulus
+      by the organisation’s US$135 million deficit as it entered 2025. By September’s
+      end, it had collected a mockingly inadequate 66.2 per cent of the year’s assessments.
+
+
+      In October, the UN Secretary-General António Guterres, in speaking to the Fifth
+      Committee of the General Assembly responsible for the entity’s budget, warned
+      that the organisation was facing a “race to bankruptcy” unless Member States forked
+      out their dues. Last year, arrears totalled US$760 million. With the need to return
+      credits worth US$300 million to Member States at the start of 2026, some 10 per
+      cent of the budget would be emptied. “Any delays in collections early in the year
+      [2026] will force us to reduce spending even more … and then potentially face
+      the prospect of returning US$600 million in 2027, or about 20 per cent of the
+      budget.”
+
+
+      While discussing finances can induce a coma, some preliminary discussion about
+      the structure of contributions to the UN is necessary. Assessed or mandatory contributions
+      for 2025, measured by the “capacity to pay” formula, comprised the regular budget
+      of the organisation covering administrative and operational costs (approximately
+      $US3.7 billion); funding for international tribunals ($US43 million); the Capital
+      Master Plan covering the renovation of the UN headquarters in New York; and peacekeeping
+      operations (US$5.4 billion). Voluntary contributions are self-explanatory enough,
+      comprising optional donations from Member States and various other entities for
+      humanitarian and development agencies, in addition to sustaining the broader UN
+      system.
+
+
+      States discharging their obligations in making contributions to the regular budget
+      receive proud mention in the Honour Roll of the UN. Those not doing so risk losing
+      their vote in the organisation if their financial lethargy continues for two years
+      or more after the due date of contributions – not that this injunction has been
+      well observed. The United States remains famously tardy, and under Trump, boisterously
+      so. As the body’s primary contributor to the regular budget – assessed as 22 per
+      cent in 2025 – and 26 per cent to the peacekeeping budget, this is particularly
+      galling.
+
+
+      Since January, the current administration has savaged funding to various UN bodies.
+      On his first day of office, the President signed an executive order withdrawing
+      his country from the World Health Organization due to its “mishandling of the
+      COVID-19 pandemic that arose out of Wuhan, China, and other global health crises,
+      its failure to adopt urgently needed reforms, and its inability to demonstrate
+      independence from the inappropriate political influence of WHO member states.”
+
+
+      The UN Human Rights Council was the next fashioned target, with February’s withdrawal
+      from the body justified on the basis that it had “protected human rights abusers
+      by allowing them to use the organization to shield themselves from scrutiny”.
+      In sympathy for Israel, funding was also frozen to the UN Relief and Works Agency
+      for Palestine Refugees in the Near East (UNRWA), citing the allegation that employees
+      had been “involved in the October 7, 2023, Hamas attacks on Israel.”
+
+
+      Revealing its crass, impulsive philistinism, the Trump administration proceeded
+      to withdraw from the United Nations Educational, Scientific and Cultural Organization
+      (UNESCO) in July. “UNESCO,” declared State Department spokesperson Tammy Bruce,
+      “works to advance divisive social and cultural causes and maintains an outsized
+      focus on the UN’s Sustainable Development Goals, a globalist, ideological agenda
+      for international development at odds with our America First foreign policy.”
+      Amidst all of this, the parochial agenda was made clear: UNESCO, in admitting
+      Palestine as a Member State was “highly problematic, contrary to US policy, and
+      contributed to the proliferation of anti-Israel rhetoric within the organization.”
+
+
+      Washington has been singular in this regard only in terms of scale. China and
+      Russia are also conspicuous in being late with their contributions while other
+      Member States have simply pared back their UN contributions for reasons of defence
+      and domestic expenditure. War mongering is proving catching, while peacemaking,
+      despite the boasts of the US President, is falling out of vogue. A most conspicuous
+      area to suffer has been human rights.
+
+
+      In October 2025, the International Service for Human Rights identified an ongoing
+      campaign to defund the UN human rights agenda being waged in the General Assembly’s
+      Fifth Committee. In a report using material gathered from 37 diplomats, UN officials
+      and experts, along with data analysis of UN documents and the organisation’s budget
+      from 2019 to 2024, the ISHR identified a campaign of “coordinated obstruction”
+      by Member States steered by China and Russia. Coupled with Washington and Beijing’s
+      “failure to pay their assessments in full and on time (respectively)”, the UN’s
+      means of funding and implementing its human rights programs has been stymied.
+
+
+      Most to suffer has been the Office of the High Commissioner for Human Rights (OHCHR),
+      which finds itself $90 million short of what it needs for 2025. Some 300 jobs
+      have already been shed by the organisation. “Our resources have been slashed,
+      along with funding for human rights organisations, including at the grassroots
+      level, around the world,” warns UN High Commissioner for Human Rights, Volker
+      Turk. “We are in survival mode.”
+
+
+      The UN Office for the Coordination of Humanitarian Affairs (OCHA), responsible
+      for humanitarian aid and crisis, has had to resort to the beggar bowl. Facing
+      its own budgetary razor, the body is seeking US$23 billion as a matter of immediacy,
+      with the hope that it will save 87 million lives. “Ultimately, in 2026,” the body
+      announced on December 8, “the aim is to raise a total of US$33 billion to support
+      135 million people through 23 country operations and six plans for refugees and
+      migrants.”
+
+
+      While wobbly, scarred by imperfections and marked by contentiousness, an organisation
+      built from the ashes of murderous global conflict in 1945 risks becoming the very
+      model of impotence Trump claims and no doubt wishes it to be. In this, he can
+      count on a number of countries, friendly or adversarial to the US. Increasingly
+      shrivelled and shrunken, the UN’s far from negligible role in seeking to conserve
+      peace, flawed as it can be, or distributing aid and protecting human rights, risks
+      vanishing into history.'
+    one_sentence_summary: As the United Nations marks its 80th anniversary, it faces
+      a severe financial crisis exacerbated by member states' failure to meet their
+      contributions, particularly from the U.S., leading to significant cuts in humanitarian
+      and human rights programs and raising concerns about its future effectiveness
+      in promoting peace and cooperation.
+    paragraph_summary: As the United Nations marks its 80th anniversary, it faces significant
+      criticism and financial challenges, particularly highlighted by U.S. President
+      Donald Trump's remarks questioning its effectiveness and accusing it of inaction.
+      The organization is grappling with a substantial budget deficit of $135 million
+      and a collection rate of only 66.2% of its assessments for the year, leading Secretary-General
+      António Guterres to warn of a looming "race to bankruptcy." The U.S., as the largest
+      contributor, has been notably tardy in its payments, alongside other major nations
+      like China and Russia, exacerbating the UN's financial woes. This funding crisis
+      has severely impacted human rights initiatives, with the Office of the High Commissioner
+      for Human Rights facing a $90 million shortfall and significant job cuts. As geopolitical
+      tensions rise and member states withdraw support, the UN risks becoming increasingly
+      ineffective in its mission to promote peace and human rights, potentially fulfilling
+      Trump's dire predictions about its relevance.
+    published: '2025-12-15T06:53:14+00:00'
   - title: 'Perfectly Appropriate: Trump, Infantino and the FIFA Peace Prize'
     url: https://www.counterpunch.org/2025/12/12/perfectly-appropriate-trump-infantino-and-the-fifa-peace-prize/
     text: 'He craves it, and, to some extent, his desire was satisfied. President Donald

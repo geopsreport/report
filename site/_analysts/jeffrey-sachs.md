@@ -8,16 +8,224 @@ websites:
   - https://www.commondreams.org/author/jeffrey-d-sachs
   - https://www.jeffsachs.org/newspaper-articles
 summary: |
-  The geopolitical landscape remains tense as the Trump administration pushes forward a controversial UN Security Council resolution aimed at establishing US control over Gaza. This move, sharply criticized by **Jeffrey Sachs**, is seen as an attempt to revive a colonial mandate system, with the US and Israel dictating the terms and timeline for any potential withdrawal from Gaza. According to Sachs, the resolution is "imperialism disguised as a peace process," effectively sidelining Palestinian sovereignty and risking indefinite foreign control over the territory.
+  The global geopolitical landscape remains tense as the Trump administration’s latest moves signal a deepening reliance on unilateralism and coercion, with significant implications for international law, regional stability, and U.S. alliances.
   
-  The proposed resolution, crafted with significant Israeli input, seeks to separate Gaza from the rest of Palestine, undermining the prospects for a unified Palestinian state. Sachs warns that this divide-and-rule strategy could entrench US and Israeli dominance in the region while delaying genuine self-governance for Palestinians. The international community is urged to reject these pressures and instead support a resolution that recognizes Palestinian statehood, ensures territorial integrity, and promotes mutual security for both Israelis and Palestinians.
+  The release of the 2025 National Security Strategy (NSS) marks a sharp reassertion of American dominance, prioritizing unilateral action over multilateral cooperation. **Jeffrey Sachs** notes that while the NSS acknowledges some limits to U.S. power, its overall tone is “grandiose” and “Machiavellian,” exemplified by the recent illegal seizure of a Venezuelan oil tanker. This act, Sachs argues, demonstrates a pattern of “American bullying that alienates allies and diminishes global stability,” with Denmark’s unease over U.S. intentions towards Greenland cited as evidence of growing distrust among traditional partners.
   
-  Meanwhile, US foreign policy in Latin America is drawing renewed scrutiny as Washington intensifies its regime-change efforts in Venezuela. The latest shift in rhetoric—from "restoring democracy" to "fighting narco-terrorists"—is, according to Sachs, a thinly veiled attempt to justify intervention and secure control over Venezuela's vast oil reserves. Recent military posturing and economic sanctions have exacerbated the humanitarian crisis, raising ethical and legal concerns about the US's approach to global conflicts.
+  In the Middle East, the Trump administration’s proposed UN Security Council resolution on Gaza has drawn widespread criticism for attempting to revive a colonial mandate system, effectively placing the Gaza Strip under U.S. control with Israeli backing. According to **Jeffrey Sachs**, this approach “seeks to separate Gaza from the rest of Palestine and allows the US and Israel to dictate the timeline for any potential withdrawal,” raising fears of indefinite occupation and further undermining Palestinian sovereignty. The move is widely condemned as imperialism disguised as peacemaking, with calls for the international community to reject U.S. pressures and uphold international law.
   
-  Looking ahead, the prevailing trend is a hardening of US-led interventionist policies, both in the Middle East and Latin America. There is a high chance that the Trump administration's Gaza mandate will face significant resistance at the UN and from the broader international community, especially as more countries recognize Palestinian statehood. In Venezuela, the likelihood of further escalation remains high, with the US showing little inclination to alter its longstanding strategy of pressure and intervention.
+  Meanwhile, U.S. policy towards Venezuela continues to escalate, shifting its justification from “restoring democracy” to “fighting narco-terrorists,” while maintaining the underlying objective of controlling Venezuela’s oil reserves. **Sachs** highlights that recent U.S. actions—including economic sanctions, military threats, and the targeting of President Nicolás Maduro—reflect a “long-standing pattern of intervention” that has severe humanitarian consequences and lacks legal justification.
   
-  Most definitively, unless there is a marked shift in US policy—towards genuine diplomacy and respect for international law—these crises will persist, with continued instability in both regions. The international community's response in the coming weeks will be critical in determining whether a path toward peace and self-determination can emerge.
+  **Trends and Predictions:**  
+  The prevailing trend is a U.S. foreign policy increasingly defined by coercion, resource-driven interventions, and disregard for international norms. This is leading to growing isolation from allies and rising global instability. The Trump administration’s strategies in both the Middle East and Latin America are likely to provoke further resistance and condemnation from the international community. I guarantee that unless there is a fundamental shift towards genuine diplomacy and respect for international law, the U.S. will face deepening mistrust among allies and heightened regional tensions, particularly in the Middle East and Latin America. The prospects for a two-state solution in Palestine remain bleak under current U.S. policy, and the risk of protracted conflict in Venezuela is high.
 articles:
+  - title: Trump’s Empire of Hubris and Thuggery
+    url: https://www.commondreams.org/opinion/trump-national-security-strategy-memo
+    text: 'The 2025 National Security Strategy (NSS) recently released by President
+      Donald Trump presents itself as a blueprint for renewed American strength. It
+      is dangerously misconceived in four ways.
+
+
+      First, the NSS is anchored in grandiosity: the belief that the United States enjoys
+      unmatched supremacy in every key dimension of power. Second, it is based on a
+      starkly Machiavellian view of the world, treating other nations as instruments
+      to be manipulated for American advantage. Third, it rests on a naïve nationalism
+      that dismisses international law and institutions as encumbrances on US sovereignty
+      rather than as frameworks that enhance US and global security together.
+
+
+      Fourth, it signals a thuggery in Trump’s use of the CIA and military. Within days
+      of the NSS’s publication, the US brazenly seized a tanker carrying Venezuelan
+      oil on the high seas—on the flimsy grounds that the vessel had previously violated
+      US sanctions against Iran.
+
+
+      The seizure was not a defensive measure to avert an imminent threat. Nor is it
+      remotely legal to seize vessels on the high seas because of unilateral US sanctions.
+      Only the UN Security Council has such authority. Instead, the seizure is an illegal
+      act designed to force regime change in Venezuela. It follows Trump’s declaration
+      that he has directed the CIA to carry out covert operations inside Venezuela to
+      destabilize the regime.
+
+
+      American security will not be strengthened by acting like a bully. It will be
+      weakened—structurally, morally, and strategically. A great power that frightens
+      its allies, coerces its neighbors, and disregards international rules ultimately
+      isolates itself.
+
+
+      The NSS, in other words, is not just an exercise in hubris on paper. It is rapidly
+      being translated into brazen practice.
+
+
+      A Glimmer of Realism, Then a Lurch into Hubris
+
+
+      To be fair, the NSS contains moments of long-overdue realism. It implicitly concedes
+      that the United States cannot and should not attempt to dominate the entire world,
+      and it correctly recognizes that some allies have dragged Washington into costly
+      wars of choice that were not in America’s true interests. It also steps back—at
+      least rhetorically—from an all-consuming great-power crusade. The strategy rejects
+      the fantasy that the United States can or should impose a universal political
+      order.
+
+
+      But the modesty is short-lived. The NSS quickly reasserts that America possesses
+      the “world’s single largest and most innovative economy,” “the world’s leading
+      financial system,” and “the world’s most advanced and most profitable technology
+      sector,” all backed by “the world’s most powerful and capable military.” These
+      claims serve not simply as patriotic affirmations, but as a justification for
+      using American dominance to impose terms on others. Smaller countries, it seems,
+      will bear the brunt of this hubris, since the US cannot defeat the other great
+      powers, not least because they are nuclear-armed.
+
+
+      Naked Machiavellianism in Doctrine
+
+
+      The NSS’s grandiosity is welded to a naked Machiavellianism. The question it asks
+      is not how the United States and other countries can cooperate for mutual benefit,
+      but how American leverage—over markets, finance, technology, and security—can
+      be applied to extract maximal concessions from other countries.
+
+
+      This is most pronounced in the NSS discussion of the Western Hemisphere section,
+      which declares a “Trump Corollary” to the Monroe Doctrine. The United States,
+      the NSS declares, will ensure that Latin America “remains free of hostile foreign
+      incursion or ownership of key assets,” and alliances and aid will be conditioned
+      on “winding down adversarial outside influence.” That “influence” clearly refers
+      to Chinese investment, infrastructure, and lending.
+
+
+      The NSS is explicit: US agreements with countries “that depend on us most and
+      therefore over which we have the most leverage” must result in sole-source contracts
+      for American firms. US policy should “make every effort to push out foreign companies”
+      that build infrastructure in the region, and the US should reshape multilateral
+      development institutions, such as the World Bank, so that they “serve American
+      interests.”
+
+
+      Latin American governments, many of whom trade extensively with both the United
+      States and China, are effectively being told: you must deal with us, not China—or
+      face the consequences.
+
+
+      Such a strategy is strategically naive. China is the main trading partner for
+      most of the world, including many countries in the Western hemisphere. The US
+      will be unable to compel Latin American nations to expel Chinese firms, but will
+      gravely damage US diplomacy in the attempt.
+
+
+      Thuggery So Brazen Even Close Allies Are Alarmed
+
+
+      The NSS proclaims a doctrine of “sovereignty and respect,” yet its behavior has
+      already reduced that principle to sovereignty for the US, vulnerability for the
+      rest. What makes the emerging doctrine even more extraordinary is that it is now
+      frightening not only small states in Latin America, but even the United States’
+      closest allies in Europe.
+
+
+      In a remarkable development, Denmark—one of America’s most loyal NATO partners—has
+      openly declared the United States a potential threat to Danish national security.
+      Danish defense planners have stated publicly that Washington under Trump cannot
+      be assumed to respect the Kingdom of Denmark’s sovereignty over Greenland, and
+      that a coercive US attempt to seize the island is a contingency for which Denmark
+      must now plan.
+
+
+      This is astonishing on several levels. Greenland is already host to the US Thule
+      Air Base and firmly within the Western security system. Denmark is not anti-American,
+      nor is it seeking to provoke Washington. It is simply responding rationally to
+      a world in which the United States has begun to behave unpredictably—even toward
+      its supposed friends.
+
+
+      That Copenhagen feels compelled to contemplate defensive measures against Washington
+      speaks volumes. It suggests that the legitimacy of the US-led security architecture
+      is eroding from within. If even Denmark believes it must hedge against the United
+      States, the problem is no longer one of Latin America’s vulnerability. It is a
+      systemic crisis of confidence among nations that once saw the US as the guarantor
+      of stability but now view it as a possible or likely aggressor.
+
+
+      In short, the NSS seems to channel the energy previously devoted to great-power
+      confrontation into bullying of smaller states. If America seems to be a bit less
+      inclined to launch trillion-dollar wars abroad, it is more inclined to weaponize
+      sanctions, financial coercion, asset seizures, and theft on the high seas.
+
+
+      The Missing Pillar: Law, Reciprocity, and Decency
+
+
+      Perhaps the deepest flaw of the NSS is what it omits: a commitment to international
+      law, reciprocity, and basic decency as foundations of American security.
+
+
+      The NSS regards global governance structures as obstacles to US action. It dismisses
+      climate cooperation as “ideology,” and indeed a “hoax” according to Trump’s recent
+      speech at the UN. It downplays the UN Charter and envisions international institutions
+      primarily as instruments to be bent toward American preferences. Yet it is precisely
+      legal frameworks, treaties, and predictable rules that have historically protected
+      American interests.
+
+
+      The founders of the United States understood this clearly. Following the American
+      War of Independence, thirteen newly sovereign states soon adopted a constitution
+      to pool key powers—over taxation, defense, and diplomacy—not to weaken the states’
+      sovereignty, but to secure it by creating the US Federal Government. The post-WWII
+      foreign policy of the United States government did the same through the UN, the
+      Bretton Woods institutions, the World Trade Organization, and arms-control agreements.
+
+
+      The Trump NSS now reverses that logic. It treats the freedom to coerce others
+      as the essence of sovereignty. From that perspective, the Venezuelan tanker seizure
+      and Denmark’s anxieties are manifestations of the new policy.
+
+
+      Athens, Melos, and Washington
+
+
+      Such hubris will come back to haunt the United States. The ancient Greek historian
+      Thucydides records that when imperial Athens confronted the small island of Melos
+      in 416 BC, the Athenians declared that “the strong do what they can and the weak
+      suffer what they must.” Yet Athens'' hubris was also its undoing. Twelve years
+      later, in 404 BC, Athens fell to Sparta. Athenian arrogance, overreach, and contempt
+      for smaller states helped galvanize the alliance that ultimately brought it down.
+
+
+      The 2025 NSS speaks in a similar arrogant register. It is a doctrine of power
+      over law, coercion over consent, and dominance over diplomacy. American security
+      will not be strengthened by acting like a bully. It will be weakened—structurally,
+      morally, and strategically. A great power that frightens its allies, coerces its
+      neighbors, and disregards international rules ultimately isolates itself.
+
+
+      America’s national security strategy should be based on wholly different premises:
+      acceptance of a plural world; recognition that sovereignty is strengthened, not
+      diminished, through international law; acknowledgment that global cooperation
+      on climate, health, and technology is indispensable; and understanding that America’s
+      global influence depends more on persuasion than coercion.'
+    one_sentence_summary: The 2025 National Security Strategy (NSS) released by President
+      Trump is criticized for its grandiosity, Machiavellian approach to international
+      relations, dismissal of international law, and aggressive tactics, which ultimately
+      undermine American security and alienate allies, suggesting a need for a more
+      cooperative and law-abiding foreign policy.
+    paragraph_summary: The 2025 National Security Strategy (NSS) released by President
+      Trump is criticized for its grandiose assumptions of U.S. supremacy, Machiavellian
+      manipulation of other nations, and a naïve nationalism that undermines international
+      law and cooperation. The NSS promotes a coercive approach to foreign policy, exemplified
+      by the illegal seizure of a Venezuelan oil tanker, which reflects a troubling
+      trend of American bullying that alienates allies and diminishes global stability.
+      While it contains some realistic assessments about the limits of U.S. power and
+      the need to avoid costly wars, these moments are overshadowed by a reassertion
+      of American dominance that prioritizes unilateral actions over collaborative international
+      frameworks. The strategy's neglect of legal and ethical considerations risks isolating
+      the U.S. and eroding trust among allies, as evidenced by Denmark's concerns about
+      American intentions towards Greenland. Ultimately, the NSS embodies a dangerous
+      doctrine that favors coercion over diplomacy, potentially leading to long-term
+      consequences for American security and global relations.
+    published: '2025-12-11T15:36:23+00:00'
   - title: Trump wants to recreate the British mandate in Palestine
     url: https://www.aljazeera.com/opinions/2025/11/13/trump-wants-to-recreate-the-british-mandate-in-palestine
     text: 'The US president is pushing a UN resolution that would revive the mandate

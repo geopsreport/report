@@ -7,14 +7,1098 @@ description: "Gilbert Doctorow is a Brussels-based independent political analyst
 websites:
   - https://gilbertdoctorow.com/
 summary: |
-  As diplomatic maneuvering intensifies in Europe, the latest developments center on a high-level meeting in Berlin, where EU Member States and American representatives presented terms for a Russia-Ukraine ceasefire. According to **Gilbert Doctorow**, these proposals closely mirror Ukrainian President Zelensky’s long-standing demands for Russian capitulation, suggesting little movement toward compromise. This approach, Doctorow notes, is unlikely to produce a breakthrough, as it fails to address core Russian concerns and may instead prolong the stalemate.
+  The geopolitical landscape remains tense as Europe grapples with security anxieties, internal dissent over freedom of expression, and the ongoing fallout from the Russia-Ukraine conflict. The latest developments highlight growing divisions within Western institutions and persistent risks on the ground in Eastern Europe.
   
-  Meanwhile, Ukraine’s recent escalation of drone attacks on Russian territory has drawn attention. Doctorow characterizes these strikes as a “public relations strategy” aimed at securing continued Western support, rather than achieving decisive military gains. The majority of analysts agree that while these attacks generate headlines, they have not shifted the balance on the battlefield.
+  In a recent NewsX World interview, **Gilbert Doctorow** criticized NATO Secretary General Marc Rutte's statements regarding the US nuclear umbrella, describing them as "misleading" and suggesting that European security is far less assured than official rhetoric implies. This skepticism is echoed by concerns over nuclear safety in Ukraine, with a Ukrainian expert warning of potential Russian threats to the Chernobyl sarcophagus. While Doctorow notes that such claims may be exaggerated for political effect, the underlying anxiety about escalation and infrastructure vulnerability is palpable.
   
-  In the broader context, Doctorow continues to highlight the growing rift within the EU regarding the handling of frozen Russian assets. The resistance led by Belgian Prime Minister Bart De Wever and Euroclear’s CEO Valerie Urbain against asset confiscation is seen as a significant obstacle to Brussels’ plans, with potential ramifications for global financial markets and intra-EU cohesion.
+  Meanwhile, the European Union's decision to sanction retired Swiss intelligence officer Jacques Baud has sparked alarm across alternative media circles. As **Doctorow** reports, the sanctions—imposed without transparent legal proceedings—have left Baud financially stranded and dependent on friends. This episode has intensified debate about freedom of speech and the rule of law within the EU, with many viewing the move as a troubling precedent for silencing dissenting voices.
   
-  Looking ahead, Doctorow assesses with high confidence that the current Western approach—demanding Russian capitulation and leveraging economic pressure—will not yield a negotiated settlement in the near term. He predicts that internal EU divisions, particularly over financial measures, will become increasingly prominent and could shape the trajectory of both the war and Europe’s political landscape.
+  These developments come on the heels of the recent assassination of Russian Lieutenant General Sarvarov in Moscow, a stark reminder of the ongoing volatility surrounding the Russia-Ukraine conflict. Criticism is mounting over President Putin's restraint in targeting Ukrainian leadership, with some arguing that a more aggressive approach could alter the course of the war.
+  
+  Looking ahead, the prevailing trend is one of deepening mistrust—both within Western alliances and between Russia and the West. The majority of analysts, including **Doctorow**, see little chance of a negotiated settlement in the near term. The likelihood of continued conflict into 2026 remains high, with persistent risks of escalation, especially around critical infrastructure. Confidence in European unity is wavering, and the erosion of civil liberties within the EU is likely to fuel further dissent. I guarantee that unless there is a significant policy shift, these tensions will persist and possibly intensify in the coming months.
 articles:
+  - title: Latest interview in NewsX World (India) hourly bulletin at 16.30 CET
+    url: https://gilbertdoctorow.com/2025/12/23/latest-interview-in-newsx-world-india-hourly-bulletin-at-16-30-cet/
+    text: https://www.youtube.com/watch?v=0YMu_yaDFXg My appearance comes at minute
+      4.  This interview had two segments. The first dealt with the utterly irresponsible
+      assertion by NATO Secretary General Marc Rutte that Europe enjoys full security
+      from the US nuclear umbrella.  The second dealt with the propagandistic assertion
+      by a Ukrainian nuclear expert that the Russians have been targeting the sarcophagus
+      of the Chernobyl nuclear plant which may collapse, releasing radioactive substances
+      into the region
+    one_sentence_summary: The interview discusses NATO Secretary General Marc Rutte's
+      misleading claim about Europe's security under the US nuclear umbrella and a Ukrainian
+      expert's alarming assertion regarding Russian threats to the Chernobyl nuclear
+      plant's sarcophagus.
+    paragraph_summary: In the interview, which features a segment with the speaker at
+      minute 4, the discussion is divided into two main topics. The first segment critiques
+      NATO Secretary General Marc Rutte's claim that Europe is fully secure under the
+      US nuclear umbrella, labeling it as irresponsible. The second segment addresses
+      a statement from a Ukrainian nuclear expert who alleges that Russian forces are
+      targeting the Chernobyl nuclear plant's sarcophagus, raising concerns about a
+      potential collapse that could release radioactive materials into the surrounding
+      area.
+    published: '2025-12-23T18:55:11+00:00'
+  - title: Latest interview in NewsX World (India) hourly bulletin at 16.30 CET
+    url: https://gilbertdoctorow.com/2025/12/23/latest-interview-in-newsx-world-india-hourly-bulletin-at-16-30-cet/
+    text: https://www.youtube.com/watch?v=0YMu_yaDFXg My appearance comes at minute
+      4.  This interview had two segments. The first dealt with the utterly irresponsible
+      assertion by NATO Secretary General Marc Rutte that Europe enjoys full security
+      from the US nuclear umbrella.  The second dealt with the propagandistic assertion
+      by a Ukrainian nuclear expert that the Russians have been targeting the sarcophagus
+      of the Chernobyl nuclear plant which may collapse, releasing radioactive substances
+      into the region
+    one_sentence_summary: The interview discusses NATO Secretary General Marc Rutte's
+      misleading claim about Europe's security under the US nuclear umbrella and a Ukrainian
+      expert's alarming assertion regarding Russian threats to the Chernobyl nuclear
+      plant's sarcophagus.
+    paragraph_summary: In the interview, which features a segment with the speaker at
+      minute 4, the discussion is divided into two main topics. The first segment critiques
+      NATO Secretary General Marc Rutte's claim that Europe is fully secure under the
+      US nuclear umbrella, labeling it as irresponsible. The second segment addresses
+      a statement from a Ukrainian nuclear expert who alleges that Russian forces are
+      targeting the Chernobyl nuclear plant's sarcophagus, raising concerns about a
+      potential collapse that could release radioactive materials into the surrounding
+      area.
+    published: '2025-12-23T18:55:11+00:00'
+  - title: Either rule of law applies to everyone or it applies to no one
+    url: https://gilbertdoctorow.com/2025/12/23/either-rule-of-law-applies-to-everyone-or-it-applies-to-no-one/
+    text: The addition of retired Swiss intelligence officer Jacques Baud to the list
+      of persons sanctioned by the European Council a little more than a week ago has
+      shocked the community of Alternative Media, precisely because it indicates that
+      the European Institutions have gone rogue, are trampling on the concept of freedom
+      of expression with impunity and operating in completely opaque fashion so as to
+      frustrate any possibility of recourse to justice by any of our dissidents. Baud
+      has now appeared on ‘Deep Dive’ and other widely watched podcasts to explain his
+      situation. He has received moral support from serious people including state officials
+      from a number of European countries. Though his bank accounts have been frozen
+      and he is under a travel ban, friendly and decent people are giving him some assistance.
+      Working through the proper channels, he may even get some humanitarian allowance
+      access to his own funds. But I do not see that he is getting legal aid. The issue
+      raised by his case compels us all to put on our thinking caps and also to look
+      in the mirror to see if we all have not in some way allowed government arbitrariness
+      and disregard for due process, trampling on the sanctity of private property to
+      go unchecked for too long, so that the latest acts of tyranny happening around
+      us today are merely a continuation of preexisting trends. I will not beat around
+      the bush:  what we are now witnessing is shocking because it is happening to us. 
+      Four years ago, at the start of the Special Military Operation, when it happened
+      to Russians, we all had a good laugh.  Just think, this or that jurisdiction just
+      seized the yacht of some Russian oligarch.  It was ‘rob the robbers!’ nothing
+      more. I ask myself why I did not get hot under the collar when Peter Aven’s bank
+      accounts in the UK were frozen so that he sat penniless in his London mansion
+      and could not pay his butler.  Aven was the co-founder and co-owner of one of
+      Russia’s most successful commercial and retail banks, Alpha Bank, that he has
+      since sold off to be free of the associations that were used to put him on the
+      sanctions list. Why was the seizure of his assets not troubling?  Perhaps because
+      Aven was/is quite obnoxious as a personality. But being obnoxious is hardly a
+      criminal offense. Nor was he given a proper day in court when his assets were
+      frozen. That came only years later. Many of the wealthy Russians who were put
+      on the personal sanctions lists of the EU, of the UK and other jurisdictions were
+      accused of nothing more than ‘being a friend of Putin,’ or supporting the Putin
+      regime and not denouncing the war.  As in the case of Baud today, these supposedly
+      incriminating charges are vague and unenforceable in a court of law.  The sanctions
+      were a political act of the given government of the day, not a judicial act, exactly
+      as is the case of Baud today. If we are troubled by the implications of the arbitrariness
+      and extrajudicial nature of Baud’s being sanctioned, then we must go back to the
+      very beginning of the confiscatory behavior of countries well outside the EU and
+      including, by the way, the USA. **** On thinking through the Baud case, I have
+      been looking for some special reason why this man who made every effort to be
+      objective in his written and spoken comments about the Ukraine war has nonetheless
+      landed on the still rather short list of victims of EU tyranny. My first conjecture
+      was that maybe he had some personal enemies who decided to use the opaque procedures
+      of denunciation to bring him down.  However, on second thought I see a more likely
+      explanation in Baud’s very professionalism and respectability.  By career line,
+      he had been one of theirs , not some shambolic peacenik. But then in his retirement
+      he has spoken his mind, which does not match the mainstream narratives. What I
+      see in Baud’s punishment without a crime is the same as happened to a Canadian
+      former diplomat, Patrick Armstrong, who had done service in Canada’s Moscow embassy
+      in mid-career, if my memory serves me right. In the run-up to and first year of
+      the Special Military Operation he was retired and occupied his mind by writing
+      very good blogs on his own internet platform, all in the dissident vein.  Then
+      one fine day in 2023 he received a visit from the Canadian thought police who
+      told him that either he shut down his blog and instead looked after his garden
+      OR his bank accounts would be frozen and his pension payments would stop.  Patrick
+      made the right decision and we have hardly heard from him since.  This was just
+      an example of the awful human rights watch of Justin Trudeau as Canadian prime
+      minister, panderer to the neo-Nazi Ukrainian community in Canada. The situation
+      is not hopeless. On 19 th December here in Brussels there was an historic turning
+      point when respect for international law won out over unprincipled theft and lawlessness
+      at the level of the European Institutions.  Belgian Prime Minister Bart De Wever
+      successfully stopped in their tracks Ursula von der Leyen and Friedrich Merz by
+      refusing their demands that Belgium confiscate Russian sovereign assets on deposit
+      in Euroclear to support a loan to Ukraine.  A sovereign state finally brought
+      down the EU’s tyrants and the Belgian solution of a mutualized EU loan to Ukraine
+      was decided upon. That should give us courage to take the European Council to
+      court for violation of freedom of speech and other human rights.  This may not
+      be pursued in EU courts but there are international courts that surely will hear
+      the case if it properly presented, and that is also doable if authoritative expert
+      lawyers come forward on a pro bono basis to help out. ©Gilbert Doctorow, 2025
+    one_sentence_summary: The recent sanctioning of retired Swiss intelligence officer
+      Jacques Baud by the European Council has alarmed the Alternative Media community,
+      highlighting concerns over freedom of expression and the opaque actions of European
+      institutions, while Baud seeks support and navigates financial and legal challenges.
+    paragraph_summary: The recent sanctioning of retired Swiss intelligence officer
+      Jacques Baud by the European Council has alarmed the Alternative Media community,
+      highlighting concerns over freedom of expression and government overreach. Baud,
+      who has faced a travel ban and frozen bank accounts, has garnered support from
+      various European officials and has shared his experiences on popular podcasts.
+      His situation raises critical questions about the erosion of due process and the
+      sanctity of private property, prompting reflection on how society has allowed
+      such government actions to go unchecked. The article draws parallels between Baud's
+      plight and earlier instances of similar government actions against Russians, urging
+      a collective reconsideration of the implications of these trends in governance
+      and justice.
+    published: '2025-12-23T16:45:38+00:00'
+  - title: Either rule of law applies to everyone or it applies to no one
+    url: https://gilbertdoctorow.com/2025/12/23/either-rule-of-law-applies-to-everyone-or-it-applies-to-no-one/
+    text: The addition of retired Swiss intelligence officer Jacques Baud to the list
+      of persons sanctioned by the European Council a little more than a week ago has
+      shocked the community of Alternative Media, precisely because it indicates that
+      the European Institutions have gone rogue, are trampling on the concept of freedom
+      of expression with impunity and operating in completely opaque fashion so as to
+      frustrate any possibility of recourse to justice by any of our dissidents. Baud
+      has now appeared on ‘Deep Dive’ and other widely watched podcasts to explain his
+      situation. He has received moral support from serious people including state officials
+      from a number of European countries. Though his bank accounts have been frozen
+      and he is under a travel ban, friendly and decent people are giving him some assistance.
+      Working through the proper channels, he may even get some humanitarian allowance
+      access to his own funds. But I do not see that he is getting legal aid. The issue
+      raised by his case compels us all to put on our thinking caps and also to look
+      in the mirror to see if we all have not in some way allowed government arbitrariness
+      and disregard for due process, trampling on the sanctity of private property to
+      go unchecked for too long, so that the latest acts of tyranny happening around
+      us today are merely a continuation of preexisting trends. I will not beat around
+      the bush:  what we are now witnessing is shocking because it is happening to us. 
+      Four years ago, at the start of the Special Military Operation, when it happened
+      to Russians, we all had a good laugh.  Just think, this or that jurisdiction just
+      seized the yacht of some Russian oligarch.  It was ‘rob the robbers!’ nothing
+      more. I ask myself why I did not get hot under the collar when Peter Aven’s bank
+      accounts in the UK were frozen so that he sat penniless in his London mansion
+      and could not pay his butler.  Aven was the co-founder and co-owner of one of
+      Russia’s most successful commercial and retail banks, Alpha Bank, that he has
+      since sold off to be free of the associations that were used to put him on the
+      sanctions list. Why was the seizure of his assets not troubling?  Perhaps because
+      Aven was/is quite obnoxious as a personality. But being obnoxious is hardly a
+      criminal offense. Nor was he given a proper day in court when his assets were
+      frozen. That came only years later. Many of the wealthy Russians who were put
+      on the personal sanctions lists of the EU, of the UK and other jurisdictions were
+      accused of nothing more than ‘being a friend of Putin,’ or supporting the Putin
+      regime and not denouncing the war.  As in the case of Baud today, these supposedly
+      incriminating charges are vague and unenforceable in a court of law.  The sanctions
+      were a political act of the given government of the day, not a judicial act, exactly
+      as is the case of Baud today. If we are troubled by the implications of the arbitrariness
+      and extrajudicial nature of Baud’s being sanctioned, then we must go back to the
+      very beginning of the confiscatory behavior of countries well outside the EU and
+      including, by the way, the USA. **** On thinking through the Baud case, I have
+      been looking for some special reason why this man who made every effort to be
+      objective in his written and spoken comments about the Ukraine war has nonetheless
+      landed on the still rather short list of victims of EU tyranny. My first conjecture
+      was that maybe he had some personal enemies who decided to use the opaque procedures
+      of denunciation to bring him down.  However, on second thought I see a more likely
+      explanation in Baud’s very professionalism and respectability.  By career line,
+      he had been one of theirs , not some shambolic peacenik. But then in his retirement
+      he has spoken his mind, which does not match the mainstream narratives. What I
+      see in Baud’s punishment without a crime is the same as happened to a Canadian
+      former diplomat, Patrick Armstrong, who had done service in Canada’s Moscow embassy
+      in mid-career, if my memory serves me right. In the run-up to and first year of
+      the Special Military Operation he was retired and occupied his mind by writing
+      very good blogs on his own internet platform, all in the dissident vein.  Then
+      one fine day in 2023 he received a visit from the Canadian thought police who
+      told him that either he shut down his blog and instead looked after his garden
+      OR his bank accounts would be frozen and his pension payments would stop.  Patrick
+      made the right decision and we have hardly heard from him since.  This was just
+      an example of the awful human rights watch of Justin Trudeau as Canadian prime
+      minister, panderer to the neo-Nazi Ukrainian community in Canada. The situation
+      is not hopeless. On 19 th December here in Brussels there was an historic turning
+      point when respect for international law won out over unprincipled theft and lawlessness
+      at the level of the European Institutions.  Belgian Prime Minister Bart De Wever
+      successfully stopped in their tracks Ursula von der Leyen and Friedrich Merz by
+      refusing their demands that Belgium confiscate Russian sovereign assets on deposit
+      in Euroclear to support a loan to Ukraine.  A sovereign state finally brought
+      down the EU’s tyrants and the Belgian solution of a mutualized EU loan to Ukraine
+      was decided upon. That should give us courage to take the European Council to
+      court for violation of freedom of speech and other human rights.  This may not
+      be pursued in EU courts but there are international courts that surely will hear
+      the case if it properly presented, and that is also doable if authoritative expert
+      lawyers come forward on a pro bono basis to help out. ©Gilbert Doctorow, 2025
+    one_sentence_summary: The recent sanctioning of retired Swiss intelligence officer
+      Jacques Baud by the European Council has alarmed the Alternative Media community,
+      highlighting concerns over freedom of expression and the opaque actions of European
+      institutions, while Baud seeks support and navigates financial and legal challenges.
+    paragraph_summary: The recent sanctioning of retired Swiss intelligence officer
+      Jacques Baud by the European Council has alarmed the Alternative Media community,
+      highlighting concerns over freedom of expression and government overreach. Baud,
+      who has faced a travel ban and frozen bank accounts, has garnered support from
+      various European officials and has shared his experiences on popular podcasts.
+      His situation raises critical questions about the erosion of due process and the
+      sanctity of private property, prompting reflection on how society has allowed
+      such government actions to go unchecked. The article draws parallels between Baud's
+      plight and earlier instances of similar government actions against Russians, urging
+      a collective reconsideration of the implications of these trends in governance
+      and justice.
+    published: '2025-12-23T16:45:38+00:00'
+  - title: 'The European sanctions against Jacques Baud: what does this mean for freedom
+      of speech in the EU?'
+    url: https://gilbertdoctorow.com/2025/12/23/the-european-sanctions-against-jacques-baud-what-does-this-mean-for-freedom-of-speech-in-the-eu/
+    text: 'I assume that the Community is well aware of the savage act of censorship
+      and intended financial ruin directed by EU authorities a week ago against the
+      Swiss intelligence veteran and widely read author on the Russian Way of War, Jacques
+      Baud. I refer you to his Wikipedia entry for details on his career in his homeland,
+      in United Nations operations and on his most recent writings. Baud’s bank accounts
+      and other assets in the EU have been frozen. This is all the more painful in that
+      he in fact lives in Brussels. He is under a travel ban which in principle excludes
+      the possibility of his going to Switzerland to pick up some cash and then returning
+      to his Brussels residence. He is now dependent on the generosity of friends and
+      supporters to put bread on the table, and those who assist him are themselves
+      risking being sanctioned for that very act. Worst of all, the sanctions have not
+      been handed down by a court. The rule of law does not apply, because the sanctions
+      are an act of political fiat within the EU’s executive body, the Council, against
+      which it seems there is no appeal to European instances of justice. So much for
+      checks and balances, which the architects of the EU in the 1990s, all highly educated
+      intellectuals in the Leftist camp seem to have overlooked due to their unfounded
+      optimism about the goodness of human nature, especially among the well-educated
+      social strata like themselves. This situation is one further argument why the
+      structure of the EU must be reinvented if democracy and civil liberties are to
+      have any future here. The problem is not just the very low intellectual and educational
+      level of the present national leaders and bosses within the EU Institutions; it
+      is rooted in the EU’s founding documents. Those of you who have sampled Baud’s
+      writings or heard his occasional interviews on leading podcasts know that the
+      man is as far removed from being a propagandist in general and an asset for the
+      Kremlin, in particular, with which he is charged, as is humanly possible.  I found
+      his book on the structure of the Russian armed forces to be impenetrable beyond
+      the first chapter, suitable for experts not for the layman.  Moreover, he has
+      shunned invitations to appear on RT, he has avoided using Russian sources in his
+      research. He has minded his tongue on the few video appearances he gave to Alternative
+      Media.  In short, he has tried consciously to avoid any suspicion of being biased
+      on the war.  All to no avail! Indeed, the case is so strange that I suspect he
+      has been put under sanctions at the urging of some personal enemies, not by disinterested
+      examiners of his case within the EU.  But that is just my guess. Now, to cut to
+      the quick: what does the Baud case mean for the panelists, for the hosts of programs
+      like ‘Judging Freedom’ or Glenn Diesen’s channel, to mention just two of the most
+      prominent podcasts?  Most every participant and host daily violates the political
+      correctness of Euro-speak and could be accused of promoting Russia’s views of
+      the war. In yesterday’s ‘Judging Freedom,’ Scott Ritter stated flatly that he
+      will no longer travel to Europe, because he fears detention and other serious
+      unpleasantness over his political statements and participation in Russian media.
+      This issue is one that I must take with the utmost seriousness, given that I do
+      not just travel through Europe but actually live there – for 45 years and counting.
+      I will take precautions, to the extent possible, not to be caught out as has Jacques
+      Baud.  However, I believe that it is highly unlikely that the European Council
+      will sanction Americans under present conditions of ideological warfare with the
+      Trump administration. I point to the speech of Vice President J.D. Vance at the
+      Munich Security Conference in February and now, a couple of weeks ago to the newly
+      issued National Security Strategy document which denounces the European Union
+      for violation of civil liberties, for depriving citizens of freedom of speech. 
+      Any EU sanctions against individual American citizens for expressing their opinions
+      on the war would go directly against the frantic efforts of the Commission to
+      keep Trump on side over the Ukraine war and ensure provision by the U.S. of essential
+      participation in any post war security guaranties to Kiev. ***** All of the foregoing
+      brings me back to the core issue that I am publicizing in my latest critical comments
+      on the Russian ‘gently, gently’ conduct of the war. Indeed, I am saying before
+      any microphone offered to me that Putin should move to end the war here and now
+      by a decapitating strike on both civilian and military decision-making centers
+      in Ukraine. I say this not for the sake of sparing further loss of life among
+      Russian or Ukrainian soldiers and civilians, important as that may be. I say it
+      out of concern for the milieu in which I live. Wars do not bring out the best
+      in society, unless you enjoy watching ceremonies recounting heroism on the field
+      of battle. All too often, the medals are given out posthumously to the widows.
+      No, wars mostly bring out the worst instincts of society to suppress liberties
+      and enforce the rule of authoritarians.  Two or more years of war in Ukraine,
+      which is what the Putin and EU strategies are envisioning, will further poison
+      the political life of Europe, will keep in power the monsters and fools who rule
+      us presently.  This is patently not in the interests of everyone living on this
+      Continent and it is also not in Russia’s interests because it will lead straight
+      to a Russia-NATO kinetic war two or three years hence. ©Gilbert Doctorow, 2025'
+    one_sentence_summary: EU authorities have imposed severe sanctions on Swiss intelligence
+      veteran Jacques Baud, freezing his assets and imposing a travel ban, effectively
+      leaving him financially dependent on friends while bypassing legal due process.
+    paragraph_summary: The article discusses the recent sanctions imposed by EU authorities
+      on Jacques Baud, a Swiss intelligence veteran and author known for his insights
+      on the Russian Way of War. Baud's bank accounts and assets in the EU have been
+      frozen, and he is under a travel ban, preventing him from accessing funds in Switzerland,
+      which has left him reliant on the support of friends who risk sanctions themselves.
+      The author criticizes the lack of legal recourse against these sanctions, which
+      were enacted without a court ruling, highlighting a failure of checks and balances
+      within the EU's governance structure. The piece argues for a reevaluation of the
+      EU's framework to ensure the protection of democracy and civil liberties, pointing
+      out that the current leadership lacks the intellectual rigor of the EU's founders.
+      Baud is portrayed as a victim of unjust political actions rather than a Kremlin
+      propagandist, contrary to the accusations against him.
+    published: '2025-12-23T09:20:44+00:00'
+  - title: 'The European sanctions against Jacques Baud: what does this mean for freedom
+      of speech in the EU?'
+    url: https://gilbertdoctorow.com/2025/12/23/the-european-sanctions-against-jacques-baud-what-does-this-mean-for-freedom-of-speech-in-the-eu/
+    text: 'I assume that the Community is well aware of the savage act of censorship
+      and intended financial ruin directed by EU authorities a week ago against the
+      Swiss intelligence veteran and widely read author on the Russian Way of War, Jacques
+      Baud. I refer you to his Wikipedia entry for details on his career in his homeland,
+      in United Nations operations and on his most recent writings. Baud’s bank accounts
+      and other assets in the EU have been frozen. This is all the more painful in that
+      he in fact lives in Brussels. He is under a travel ban which in principle excludes
+      the possibility of his going to Switzerland to pick up some cash and then returning
+      to his Brussels residence. He is now dependent on the generosity of friends and
+      supporters to put bread on the table, and those who assist him are themselves
+      risking being sanctioned for that very act. Worst of all, the sanctions have not
+      been handed down by a court. The rule of law does not apply, because the sanctions
+      are an act of political fiat within the EU’s executive body, the Council, against
+      which it seems there is no appeal to European instances of justice. So much for
+      checks and balances, which the architects of the EU in the 1990s, all highly educated
+      intellectuals in the Leftist camp seem to have overlooked due to their unfounded
+      optimism about the goodness of human nature, especially among the well-educated
+      social strata like themselves. This situation is one further argument why the
+      structure of the EU must be reinvented if democracy and civil liberties are to
+      have any future here. The problem is not just the very low intellectual and educational
+      level of the present national leaders and bosses within the EU Institutions; it
+      is rooted in the EU’s founding documents. Those of you who have sampled Baud’s
+      writings or heard his occasional interviews on leading podcasts know that the
+      man is as far removed from being a propagandist in general and an asset for the
+      Kremlin, in particular, with which he is charged, as is humanly possible.  I found
+      his book on the structure of the Russian armed forces to be impenetrable beyond
+      the first chapter, suitable for experts not for the layman.  Moreover, he has
+      shunned invitations to appear on RT, he has avoided using Russian sources in his
+      research. He has minded his tongue on the few video appearances he gave to Alternative
+      Media.  In short, he has tried consciously to avoid any suspicion of being biased
+      on the war.  All to no avail! Indeed, the case is so strange that I suspect he
+      has been put under sanctions at the urging of some personal enemies, not by disinterested
+      examiners of his case within the EU.  But that is just my guess. Now, to cut to
+      the quick: what does the Baud case mean for the panelists, for the hosts of programs
+      like ‘Judging Freedom’ or Glenn Diesen’s channel, to mention just two of the most
+      prominent podcasts?  Most every participant and host daily violates the political
+      correctness of Euro-speak and could be accused of promoting Russia’s views of
+      the war. In yesterday’s ‘Judging Freedom,’ Scott Ritter stated flatly that he
+      will no longer travel to Europe, because he fears detention and other serious
+      unpleasantness over his political statements and participation in Russian media.
+      This issue is one that I must take with the utmost seriousness, given that I do
+      not just travel through Europe but actually live there – for 45 years and counting.
+      I will take precautions, to the extent possible, not to be caught out as has Jacques
+      Baud.  However, I believe that it is highly unlikely that the European Council
+      will sanction Americans under present conditions of ideological warfare with the
+      Trump administration. I point to the speech of Vice President J.D. Vance at the
+      Munich Security Conference in February and now, a couple of weeks ago to the newly
+      issued National Security Strategy document which denounces the European Union
+      for violation of civil liberties, for depriving citizens of freedom of speech. 
+      Any EU sanctions against individual American citizens for expressing their opinions
+      on the war would go directly against the frantic efforts of the Commission to
+      keep Trump on side over the Ukraine war and ensure provision by the U.S. of essential
+      participation in any post war security guaranties to Kiev. ***** All of the foregoing
+      brings me back to the core issue that I am publicizing in my latest critical comments
+      on the Russian ‘gently, gently’ conduct of the war. Indeed, I am saying before
+      any microphone offered to me that Putin should move to end the war here and now
+      by a decapitating strike on both civilian and military decision-making centers
+      in Ukraine. I say this not for the sake of sparing further loss of life among
+      Russian or Ukrainian soldiers and civilians, important as that may be. I say it
+      out of concern for the milieu in which I live. Wars do not bring out the best
+      in society, unless you enjoy watching ceremonies recounting heroism on the field
+      of battle. All too often, the medals are given out posthumously to the widows.
+      No, wars mostly bring out the worst instincts of society to suppress liberties
+      and enforce the rule of authoritarians.  Two or more years of war in Ukraine,
+      which is what the Putin and EU strategies are envisioning, will further poison
+      the political life of Europe, will keep in power the monsters and fools who rule
+      us presently.  This is patently not in the interests of everyone living on this
+      Continent and it is also not in Russia’s interests because it will lead straight
+      to a Russia-NATO kinetic war two or three years hence. ©Gilbert Doctorow, 2025'
+    one_sentence_summary: EU authorities have imposed severe sanctions on Swiss intelligence
+      veteran Jacques Baud, freezing his assets and imposing a travel ban, effectively
+      leaving him financially dependent on friends while bypassing legal due process.
+    paragraph_summary: The article discusses the recent sanctions imposed by EU authorities
+      on Jacques Baud, a Swiss intelligence veteran and author known for his insights
+      on the Russian Way of War. Baud's bank accounts and assets in the EU have been
+      frozen, and he is under a travel ban, preventing him from accessing funds in Switzerland,
+      which has left him reliant on the support of friends who risk sanctions themselves.
+      The author criticizes the lack of legal recourse against these sanctions, which
+      were enacted without a court ruling, highlighting a failure of checks and balances
+      within the EU's governance structure. The piece argues for a reevaluation of the
+      EU's framework to ensure the protection of democracy and civil liberties, pointing
+      out that the current leadership lacks the intellectual rigor of the EU's founders.
+      Baud is portrayed as a victim of unjust political actions rather than a Kremlin
+      propagandist, contrary to the accusations against him.
+    published: '2025-12-23T09:20:44+00:00'
+  - title: 'Russia-Ukraine War: Moscow Car Bomb Kills Lieutenant General Sarvarov |
+      NewsX World'
+    url: https://gilbertdoctorow.com/2025/12/22/russia-ukraine-war-moscow-car-bomb-kills-lieutenant-general-sarvarov-newsx-world/
+    text: 'Russia-Ukraine War: Moscow Car Bomb Kills Lieutenant General Sarvarov | NewsX
+      World This interview from midday today comes in the middle of their hourly news
+      bulletin. My participation comes in two segments.  The first is at minute 13 and
+      following. It deals with the latest announcements from Denmark that Greenland
+      is their business alone and no one else, meaning the United States, should interfere
+      with purchase offers and the like.  The second comes at minute 22 and deals with
+      the assassination of a senior Russian general in Moscow. This segment corresponds
+      to my essay earlier today on my Substack account (Armageddon Newsletter) on how
+      President Putin’s failure to knock out the decision makers in Kiev responsible
+      for such atrocities, though Russia has the ability to do just that, is inexplicable
+      and does no credit to his war leadership.'
+    one_sentence_summary: The article discusses the assassination of Lieutenant General
+      Sarvarov in Moscow amid the ongoing Russia-Ukraine war and highlights criticism
+      of President Putin's failure to eliminate key decision-makers in Kiev responsible
+      for the conflict.
+    paragraph_summary: The article discusses the assassination of Lieutenant General
+      Sarvarov in Moscow due to a car bomb, highlighting the ongoing tensions in the
+      Russia-Ukraine War. It features an interview that touches on Denmark's assertion
+      of sovereignty over Greenland, emphasizing that external interference, particularly
+      from the United States, is unwelcome. Additionally, the commentary reflects on
+      President Putin's failure to eliminate key decision-makers in Kiev, which the
+      author argues undermines his leadership in the conflict, despite Russia's capability
+      to do so.
+    published: '2025-12-22T14:50:01+00:00'
+  - title: 'Russia-Ukraine War: Moscow Car Bomb Kills Lieutenant General Sarvarov |
+      NewsX World'
+    url: https://gilbertdoctorow.com/2025/12/22/russia-ukraine-war-moscow-car-bomb-kills-lieutenant-general-sarvarov-newsx-world/
+    text: 'Russia-Ukraine War: Moscow Car Bomb Kills Lieutenant General Sarvarov | NewsX
+      World This interview from midday today comes in the middle of their hourly news
+      bulletin. My participation comes in two segments.  The first is at minute 13 and
+      following. It deals with the latest announcements from Denmark that Greenland
+      is their business alone and no one else, meaning the United States, should interfere
+      with purchase offers and the like.  The second comes at minute 22 and deals with
+      the assassination of a senior Russian general in Moscow. This segment corresponds
+      to my essay earlier today on my Substack account (Armageddon Newsletter) on how
+      President Putin’s failure to knock out the decision makers in Kiev responsible
+      for such atrocities, though Russia has the ability to do just that, is inexplicable
+      and does no credit to his war leadership.'
+    one_sentence_summary: The article discusses the assassination of Lieutenant General
+      Sarvarov in Moscow amid the ongoing Russia-Ukraine war and highlights criticism
+      of President Putin's failure to eliminate key decision-makers in Kiev responsible
+      for the conflict.
+    paragraph_summary: The article discusses the assassination of Lieutenant General
+      Sarvarov in Moscow due to a car bomb, highlighting the ongoing tensions in the
+      Russia-Ukraine War. It features an interview that touches on Denmark's assertion
+      of sovereignty over Greenland, emphasizing that external interference, particularly
+      from the United States, is unwelcome. Additionally, the commentary reflects on
+      President Putin's failure to eliminate key decision-makers in Kiev, which the
+      author argues undermines his leadership in the conflict, despite Russia's capability
+      to do so.
+    published: '2025-12-22T14:50:01+00:00'
+  - title: 'Press TV (Iran) interview today: why the Trump peace talks are mission impossible'
+    url: https://gilbertdoctorow.com/2025/12/21/press-tv-iran-interview-today-why-the-trump-peace-talks-are-mission-impossible/
+    text: Press TV (Iran) interview today:  why the Trump peace talks are mission impossible
+      Brief and to the point, I state here why the positions of the Russian and Ukrainian
+      sides are today irreconcilable, so that Mr. Trump’s peace efforts have no chance
+      of succeeding. https://www.urmedium.net/c/presstv/135459
+    one_sentence_summary: The article argues that the conflicting positions of Russia
+      and Ukraine make Donald Trump's peace talks unlikely to succeed.
+    paragraph_summary: In a recent interview with Press TV, the speaker argues that
+      the peace talks initiated by former President Trump between Russia and Ukraine
+      are doomed to fail due to the currently irreconcilable positions of both sides.
+      The speaker outlines the deep-rooted differences and entrenched stances of Russia
+      and Ukraine, suggesting that these fundamental disagreements make any diplomatic
+      resolution highly unlikely.
+    published: '2025-12-21T15:14:33+00:00'
+  - title: 'Press TV (Iran) interview today: why the Trump peace talks are mission impossible'
+    url: https://gilbertdoctorow.com/2025/12/21/press-tv-iran-interview-today-why-the-trump-peace-talks-are-mission-impossible/
+    text: Press TV (Iran) interview today:  why the Trump peace talks are mission impossible
+      Brief and to the point, I state here why the positions of the Russian and Ukrainian
+      sides are today irreconcilable, so that Mr. Trump’s peace efforts have no chance
+      of succeeding. https://www.urmedium.net/c/presstv/135459
+    one_sentence_summary: The article argues that the conflicting positions of Russia
+      and Ukraine make Donald Trump's peace talks unlikely to succeed.
+    paragraph_summary: In a recent interview with Press TV, the speaker argues that
+      the peace talks initiated by former President Trump between Russia and Ukraine
+      are doomed to fail due to the currently irreconcilable positions of both sides.
+      The speaker outlines the deep-rooted differences and entrenched stances of Russia
+      and Ukraine, suggesting that these fundamental disagreements make any diplomatic
+      resolution highly unlikely.
+    published: '2025-12-21T15:14:33+00:00'
+  - title: Another NewsX World interview worthy of your attention
+    url: https://gilbertdoctorow.com/2025/12/21/another-newsx-world-interview-worthy-of-your-attention/
+    text: 'This 10-minute-long interview which begins at minute 4 in the podcast was
+      another great opportunity to look behind the news to causes that mainstream does
+      not touch. The questions included the following: Will the Ukraine war continue
+      into 2026 and if so, why? What is Donald Trump doing to raise his popularity ratings
+      and win support in the American political establishment for his Russia-friendly
+      proposals to end the war? How will the Turks react to the reportedly Russian-built
+      reconnaissance drones that were downed within Turkish air space?  How close are
+      Russia and Turkey as allies? You will note that in the course of this interview
+       I restate my conclusions both with respect to the pointless negotiations led
+      by Trump to end the war and with respect to Putin’s latest public appearance on
+      his Direct Line Q&A with the nation: that it is high time for Vladimir Vladimirovich
+      to take his well-earned retirement and pass the torch to a younger generation
+      that is less risk-averse and can do what is needed to end the war now, rather
+      than let it drag on for years, which is where Putin is steering the ship of state.'
+    one_sentence_summary: The interview discusses the potential continuation of the
+      Ukraine war into 2026, Donald Trump's efforts to boost his popularity with Russia-friendly
+      proposals, Turkey's response to downed Russian drones, and the evolving relationship
+      between Russia and Turkey, while also suggesting that Vladimir Putin should retire
+      in favor of a younger leadership.
+    paragraph_summary: In a recent podcast interview, key questions were raised regarding
+      the ongoing Ukraine war, including its potential continuation into 2026 and the
+      implications of Donald Trump's efforts to bolster his popularity with Russia-friendly
+      proposals for peace. The discussion also touched on Turkey's response to downed
+      Russian-built drones in its airspace and the evolving relationship between Russia
+      and Turkey as allies. The interviewer reiterated concerns about the ineffectiveness
+      of Trump's negotiations and suggested that Vladimir Putin should consider stepping
+      down in favor of a younger leadership that could more effectively address the
+      conflict and prevent its prolongation.
+    published: '2025-12-21T07:06:34+00:00'
+  - title: Another NewsX World interview worthy of your attention
+    url: https://gilbertdoctorow.com/2025/12/21/another-newsx-world-interview-worthy-of-your-attention/
+    text: 'This 10-minute-long interview which begins at minute 4 in the podcast was
+      another great opportunity to look behind the news to causes that mainstream does
+      not touch. The questions included the following: Will the Ukraine war continue
+      into 2026 and if so, why? What is Donald Trump doing to raise his popularity ratings
+      and win support in the American political establishment for his Russia-friendly
+      proposals to end the war? How will the Turks react to the reportedly Russian-built
+      reconnaissance drones that were downed within Turkish air space?  How close are
+      Russia and Turkey as allies? You will note that in the course of this interview
+       I restate my conclusions both with respect to the pointless negotiations led
+      by Trump to end the war and with respect to Putin’s latest public appearance on
+      his Direct Line Q&A with the nation: that it is high time for Vladimir Vladimirovich
+      to take his well-earned retirement and pass the torch to a younger generation
+      that is less risk-averse and can do what is needed to end the war now, rather
+      than let it drag on for years, which is where Putin is steering the ship of state.'
+    one_sentence_summary: The interview discusses the potential continuation of the
+      Ukraine war into 2026, Donald Trump's efforts to boost his popularity with Russia-friendly
+      proposals, Turkey's response to downed Russian drones, and the evolving relationship
+      between Russia and Turkey, while also suggesting that Vladimir Putin should retire
+      in favor of a younger leadership.
+    paragraph_summary: In a recent podcast interview, key questions were raised regarding
+      the ongoing Ukraine war, including its potential continuation into 2026 and the
+      implications of Donald Trump's efforts to bolster his popularity with Russia-friendly
+      proposals for peace. The discussion also touched on Turkey's response to downed
+      Russian-built drones in its airspace and the evolving relationship between Russia
+      and Turkey as allies. The interviewer reiterated concerns about the ineffectiveness
+      of Trump's negotiations and suggested that Vladimir Putin should consider stepping
+      down in favor of a younger leadership that could more effectively address the
+      conflict and prevent its prolongation.
+    published: '2025-12-21T07:06:34+00:00'
+  - title: 'NewsX World hourly news bulletin: an interview that will surprise'
+    url: https://gilbertdoctorow.com/2025/12/19/newsx-world-hourly-news-bulletin-an-interview-that-will-surprise/
+    text: I remain most appreciative of this Indian broadcaster for allowing me to offer
+      its global audience what they will not hear on WION or CNN18, to name just two
+      of their major Indian competitors who stay close to the Western mainstream narratives
+      in their reporting and interview guests. In today’s interview which begins at
+      minute 4 in the podcast shown below, we took up two very important developments.
+      First, we discuss  the victory in the ongoing European Council meeting of Belgium’s
+      prime minister Bart De Wever over Commission President Ursula von der Leyen and
+      over German Chancellor Friedrich Merz with respect to collateral for a massive
+      loan to Ukraine. This was a victory of rule of law and common economic sense,
+      sparing us a  global financial meltdown that an attack on Russian sovereign assets
+      in Euroclear (Belgium) would have precipitated. Second, I recounted  my impressions
+      of Vladimir Putin’s performance in his annual Q&A with the Russian nation this
+      morning.  In a word, it was a disappointing performance.
+    one_sentence_summary: The article highlights an interview discussing Belgium's Prime
+      Minister Bart De Wever's victory in securing collateral for a loan to Ukraine,
+      which prevents a potential global financial crisis, and provides insights on Vladimir
+      Putin's recent annual Q&A session with the Russian public.
+    paragraph_summary: 'The author expresses gratitude to an Indian broadcaster for
+      providing a platform to discuss topics often overlooked by major competitors like
+      WION and CNN18, which adhere to Western narratives. In a recent podcast interview,
+      the author highlights two significant developments: the victory of Belgium''s
+      Prime Minister Bart De Wever at the European Council meeting, where he successfully
+      advocated for collateral arrangements for a substantial loan to Ukraine, thus
+      averting a potential global financial crisis linked to Russian assets; and a critique
+      of Vladimir Putin''s recent annual Q&A session with the Russian public, which
+      the author found to be underwhelming.'
+    published: '2025-12-19T14:41:13+00:00'
+  - title: 'NewsX World hourly news bulletin: an interview that will surprise'
+    url: https://gilbertdoctorow.com/2025/12/19/newsx-world-hourly-news-bulletin-an-interview-that-will-surprise/
+    text: I remain most appreciative of this Indian broadcaster for allowing me to offer
+      its global audience what they will not hear on WION or CNN18, to name just two
+      of their major Indian competitors who stay close to the Western mainstream narratives
+      in their reporting and interview guests. In today’s interview which begins at
+      minute 4 in the podcast shown below, we took up two very important developments.
+      First, we discuss  the victory in the ongoing European Council meeting of Belgium’s
+      prime minister Bart De Wever over Commission President Ursula von der Leyen and
+      over German Chancellor Friedrich Merz with respect to collateral for a massive
+      loan to Ukraine. This was a victory of rule of law and common economic sense,
+      sparing us a  global financial meltdown that an attack on Russian sovereign assets
+      in Euroclear (Belgium) would have precipitated. Second, I recounted  my impressions
+      of Vladimir Putin’s performance in his annual Q&A with the Russian nation this
+      morning.  In a word, it was a disappointing performance.
+    one_sentence_summary: The article highlights an interview discussing Belgium's Prime
+      Minister Bart De Wever's victory in securing collateral for a loan to Ukraine,
+      which prevents a potential global financial crisis, and provides insights on Vladimir
+      Putin's recent annual Q&A session with the Russian public.
+    paragraph_summary: 'The author expresses gratitude to an Indian broadcaster for
+      providing a platform to discuss topics often overlooked by major competitors like
+      WION and CNN18, which adhere to Western narratives. In a recent podcast interview,
+      the author highlights two significant developments: the victory of Belgium''s
+      Prime Minister Bart De Wever at the European Council meeting, where he successfully
+      advocated for collateral arrangements for a substantial loan to Ukraine, thus
+      averting a potential global financial crisis linked to Russian assets; and a critique
+      of Vladimir Putin''s recent annual Q&A session with the Russian public, which
+      the author found to be underwhelming.'
+    published: '2025-12-19T14:41:13+00:00'
+  - title: 'RT International: panel discussion this evening on the likelihood the EU
+      will approve confiscation of Russian state assets'
+    url: https://gilbertdoctorow.com/2025/12/18/rt-international-panel-discussion-this-evening-on-the-likelihood-the-eu-will-approve-confiscation-of-russian-state-assets/
+    text: 'It is now 20.30 Central European time and according to the latest online
+      update from the Financial Times, the European leaders who have assembled in Brussels
+      to find a solution to funding Ukraine for 2026-2027 remain locked in.  The situation
+      might be likened to the lock-in of the cardinals pending the white or black smoke
+      rising from above their meeting place to signal that a decision on the next pope
+      has been reached or not. Indeed, that image is not misplaced: I find it hard to
+      believe that von der Leyen will remain in power if she fails to beat down the
+      European leaders today or, latest, tomorrow, and present the package of funding
+      to Zelensky. The stakes are very big, as noted in this interview on RT International.
+      What I can confirm is that Bart De Wever has held firm, continues to resist any
+      threats or blandishments sent his way today by von der Leyen or by Zelensky, with
+      whom he also met during the day.  Perhaps Zelensky no longer has a spare $500
+      million in his suitcases to offer Bart the way he tried that kind of argument
+      with the Slovak leader Fico some months ago for backing on NATO entry.  Money
+      seems to be in short supply in Kiev these days. Belgians can stand tall today. 
+      And, grudgingly, I must admit that Italians also can stand tall, because it appears
+      that Meloni for once is not giving us baloney, but is right at De Wever’s side.
+      Italy as the 3 rd largest economy in the EU still carries a lot of weight.'
+    one_sentence_summary: European leaders in Brussels are currently deadlocked over
+      funding for Ukraine for 2026-2027, with significant pressure on Ursula von der
+      Leyen to secure an agreement, as resistance from key figures like Bart De Wever
+      complicates the negotiations.
+    paragraph_summary: As of 20:30 Central European time, European leaders in Brussels
+      are struggling to reach an agreement on funding for Ukraine for 2026-2027, with
+      the situation reminiscent of the conclave for electing a pope. The pressure is
+      mounting on European Commission President Ursula von der Leyen to secure a funding
+      package for Ukrainian President Zelensky, as her position may be jeopardized if
+      she fails to do so. Bart De Wever, a key figure in the negotiations, remains steadfast
+      against any persuasion from von der Leyen or Zelensky, who appears to be facing
+      financial constraints in Ukraine. Notably, Italian Prime Minister Giorgia Meloni
+      is supporting De Wever, highlighting Italy's significant influence as the EU's
+      third-largest economy.
+    published: '2025-12-18T19:44:18+00:00'
+  - title: 'RT International: panel discussion this evening on the likelihood the EU
+      will approve confiscation of Russian state assets'
+    url: https://gilbertdoctorow.com/2025/12/18/rt-international-panel-discussion-this-evening-on-the-likelihood-the-eu-will-approve-confiscation-of-russian-state-assets/
+    text: 'It is now 20.30 Central European time and according to the latest online
+      update from the Financial Times, the European leaders who have assembled in Brussels
+      to find a solution to funding Ukraine for 2026-2027 remain locked in.  The situation
+      might be likened to the lock-in of the cardinals pending the white or black smoke
+      rising from above their meeting place to signal that a decision on the next pope
+      has been reached or not. Indeed, that image is not misplaced: I find it hard to
+      believe that von der Leyen will remain in power if she fails to beat down the
+      European leaders today or, latest, tomorrow, and present the package of funding
+      to Zelensky. The stakes are very big, as noted in this interview on RT International.
+      What I can confirm is that Bart De Wever has held firm, continues to resist any
+      threats or blandishments sent his way today by von der Leyen or by Zelensky, with
+      whom he also met during the day.  Perhaps Zelensky no longer has a spare $500
+      million in his suitcases to offer Bart the way he tried that kind of argument
+      with the Slovak leader Fico some months ago for backing on NATO entry.  Money
+      seems to be in short supply in Kiev these days. Belgians can stand tall today. 
+      And, grudgingly, I must admit that Italians also can stand tall, because it appears
+      that Meloni for once is not giving us baloney, but is right at De Wever’s side.
+      Italy as the 3 rd largest economy in the EU still carries a lot of weight.'
+    one_sentence_summary: European leaders in Brussels are currently deadlocked over
+      funding for Ukraine for 2026-2027, with significant pressure on Ursula von der
+      Leyen to secure an agreement, as resistance from key figures like Bart De Wever
+      complicates the negotiations.
+    paragraph_summary: As of 20:30 Central European time, European leaders in Brussels
+      are struggling to reach an agreement on funding for Ukraine for 2026-2027, with
+      the situation reminiscent of the conclave for electing a pope. The pressure is
+      mounting on European Commission President Ursula von der Leyen to secure a funding
+      package for Ukrainian President Zelensky, as her position may be jeopardized if
+      she fails to do so. Bart De Wever, a key figure in the negotiations, remains steadfast
+      against any persuasion from von der Leyen or Zelensky, who appears to be facing
+      financial constraints in Ukraine. Notably, Italian Prime Minister Giorgia Meloni
+      is supporting De Wever, highlighting Italy's significant influence as the EU's
+      third-largest economy.
+    published: '2025-12-18T19:44:18+00:00'
+  - title: Prime Minister Bart De Wever’s address to the Belgian parliament this morning
+    url: https://gilbertdoctorow.com/2025/12/18/prime-minister-bart-de-wevers-address-to-the-belgian-parliament-this-morning/
+    text: 'Prime Minister Bart De Wever’s address to the Belgian parliament this morning
+      As I noted yesterday on the basis of news in the Belgian daily ‘Le Soir,’ early
+      this morning Prime Minister Bart De Wever convened a session of the Belgian parliament
+      (Chamber of Representatives) to deliver a speech about his planned actions later
+      in the day at the European Council meeting of heads of government and state of
+      the 27 EU Member States when they discuss the proposal of European Commission
+      President Ursula von der Leyen to free the 185 billion euros in frozen Russian
+      assets held in Euroclear (Belgium) to be used as collateral for a massive ‘reparations
+      loan’ to Ukraine. Here below is the link to this session. Regrettably there is
+      not yet a version available on the internet with English translation.  As you
+      will find, De Wever opens with a few words in French and then switches to Flemish
+      (Dutch) for the remainder of his speech.  Nonetheless, in the Q&A with deputies
+      which follows some of the questions are from French-speaking deputies and De Wever
+      answers each one in French. I refer you to minute 21 and minute 33 and following,
+      for example.  He also weaves into his speech and into his answers English turns
+      of speech. I call attention to his statements in French which I could pick up
+      and which are highly relevant to anyone who wants to understand how and why he
+      dares to go up against the majority of EU Members and still more courageously
+      against the authoritarian and vengeful Frau von der Leyen as he is doing.  De
+      Wever says that he has backers for his opposition to the notion of seizing the
+      Russian assets among other European leaders, in particular Italy, Malta and Bulgaria,
+      as well as several others which are still unnamed, and on this basis he assures
+      the deputies that Belgium does not stand alone, that it is not isolated. These
+      countries agree that the proposed ‘reparations loan’ is, as he says here in English:
+      ‘sailing in uncharted waters.”   The countries siding with Belgium have told him
+      that if the Russian assets were being held in their countries as they are now
+      in Euroclear (Belgium) they would act precisely as De Wever is doing. De Wever
+      insists that the Member States consider instead issuing an EU guarantee for any
+      loans to be extended to Ukraine directly, not using Russian assets, per what von
+      der Leyen called ‘Plan B’ a couple of weeks ago.  This would be less expensive
+      and less risky, he says. Clever words! Of course, he knows perfectly well that
+      Germany, The Netherlands and several Nordic countries are stingy and will resist
+      strongly any attempt to draw them into mutualizing a loan to Ukraine.'
+    one_sentence_summary: Prime Minister Bart De Wever addressed the Belgian parliament
+      to outline his planned actions regarding the European Council's discussion on
+      using 185 billion euros in frozen Russian assets as collateral for a reparations
+      loan to Ukraine.
+    paragraph_summary: In his address to the Belgian parliament, Prime Minister Bart
+      De Wever outlined his stance on the European Council's upcoming discussion regarding
+      the proposal by European Commission President Ursula von der Leyen to utilize
+      185 billion euros in frozen Russian assets as collateral for a reparations loan
+      to Ukraine. De Wever emphasized Belgium's position against this proposal, asserting
+      that it is supported by other European nations, including Italy, Malta, and Bulgaria,
+      which he claims share concerns about the implications of such actions. He described
+      the proposal as "sailing in uncharted waters," indicating a cautious approach
+      to the potential consequences of seizing Russian assets. The speech was delivered
+      primarily in Flemish, with some responses in French and English during the Q&A
+      session, reflecting the multilingual nature of Belgium's political landscape.
+    published: '2025-12-18T12:19:44+00:00'
+  - title: Prime Minister Bart De Wever’s address to the Belgian parliament this morning
+    url: https://gilbertdoctorow.com/2025/12/18/prime-minister-bart-de-wevers-address-to-the-belgian-parliament-this-morning/
+    text: 'Prime Minister Bart De Wever’s address to the Belgian parliament this morning
+      As I noted yesterday on the basis of news in the Belgian daily ‘Le Soir,’ early
+      this morning Prime Minister Bart De Wever convened a session of the Belgian parliament
+      (Chamber of Representatives) to deliver a speech about his planned actions later
+      in the day at the European Council meeting of heads of government and state of
+      the 27 EU Member States when they discuss the proposal of European Commission
+      President Ursula von der Leyen to free the 185 billion euros in frozen Russian
+      assets held in Euroclear (Belgium) to be used as collateral for a massive ‘reparations
+      loan’ to Ukraine. Here below is the link to this session. Regrettably there is
+      not yet a version available on the internet with English translation.  As you
+      will find, De Wever opens with a few words in French and then switches to Flemish
+      (Dutch) for the remainder of his speech.  Nonetheless, in the Q&A with deputies
+      which follows some of the questions are from French-speaking deputies and De Wever
+      answers each one in French. I refer you to minute 21 and minute 33 and following,
+      for example.  He also weaves into his speech and into his answers English turns
+      of speech. I call attention to his statements in French which I could pick up
+      and which are highly relevant to anyone who wants to understand how and why he
+      dares to go up against the majority of EU Members and still more courageously
+      against the authoritarian and vengeful Frau von der Leyen as he is doing.  De
+      Wever says that he has backers for his opposition to the notion of seizing the
+      Russian assets among other European leaders, in particular Italy, Malta and Bulgaria,
+      as well as several others which are still unnamed, and on this basis he assures
+      the deputies that Belgium does not stand alone, that it is not isolated. These
+      countries agree that the proposed ‘reparations loan’ is, as he says here in English:
+      ‘sailing in uncharted waters.”   The countries siding with Belgium have told him
+      that if the Russian assets were being held in their countries as they are now
+      in Euroclear (Belgium) they would act precisely as De Wever is doing. De Wever
+      insists that the Member States consider instead issuing an EU guarantee for any
+      loans to be extended to Ukraine directly, not using Russian assets, per what von
+      der Leyen called ‘Plan B’ a couple of weeks ago.  This would be less expensive
+      and less risky, he says. Clever words! Of course, he knows perfectly well that
+      Germany, The Netherlands and several Nordic countries are stingy and will resist
+      strongly any attempt to draw them into mutualizing a loan to Ukraine.'
+    one_sentence_summary: Prime Minister Bart De Wever addressed the Belgian parliament
+      to outline his planned actions regarding the European Council's discussion on
+      using 185 billion euros in frozen Russian assets as collateral for a reparations
+      loan to Ukraine.
+    paragraph_summary: In his address to the Belgian parliament, Prime Minister Bart
+      De Wever outlined his stance on the European Council's upcoming discussion regarding
+      the proposal by European Commission President Ursula von der Leyen to utilize
+      185 billion euros in frozen Russian assets as collateral for a reparations loan
+      to Ukraine. De Wever emphasized Belgium's position against this proposal, asserting
+      that it is supported by other European nations, including Italy, Malta, and Bulgaria,
+      which he claims share concerns about the implications of such actions. He described
+      the proposal as "sailing in uncharted waters," indicating a cautious approach
+      to the potential consequences of seizing Russian assets. The speech was delivered
+      primarily in Flemish, with some responses in French and English during the Q&A
+      session, reflecting the multilingual nature of Belgium's political landscape.
+    published: '2025-12-18T12:19:44+00:00'
+  - title: Link to yesterday afternoon’s conversation with Glenn Diesen
+    url: https://gilbertdoctorow.com/2025/12/18/link-to-yesterday-afternoons-conversation-with-glenn-diesen/
+    text: 'Published by gilbertdoctorow
+
+
+      Gilbert Doctorow''s latest book, "War Diaries. The Russia-Ukraine War, 2022-2023"
+      is a unique contribution to literature on the war thanks to the author''s reports
+      on the Russian home front written during his periodic visits to St Petersburg
+      at a time when Russia no longer issued visas and nearly all Western journalists
+      had left the country. Doctorow''s two-volume "Memoirs of a Russianist" published
+      in 2020 also constitutes a category of its own, consisting largely of diary entries
+      rather than reminiscences written decades later.. Volume 2 focuses on the community
+      of 50,000 expatriate managers working and living in Moscow during the 1990s, about
+      which none of his peers has yet to write. Gilbert Doctorow is a professional Russia
+      watcher and actor in Russian affairs going back to 1965. He is a magna cum laude
+      graduate of Harvard College (1967), a past Fulbright scholar, and holder of a
+      Ph.D. with honors in history from Columbia University (1975). After completing
+      his studies, Mr. Doctorow pursued a business career focused on the USSR and Eastern
+      Europe. For twenty-five years he worked for US and European multinationals in
+      marketing and general management with regional responsibility. From 1998-2002,
+      Doctorow served as the Chairman of the Russian Booker Literary Prize in Moscow.
+      During the 2010-2011 academic year, he was a Visiting scholar of the Harriman
+      Institute, Columbia University. Mr. Doctorow is a long-time resident of Brussels.
+      View all posts by gilbertdoctorow'
+    one_sentence_summary: Gilbert Doctorow's book "War Diaries. The Russia-Ukraine War,
+      2022-2023" offers a distinctive perspective on the conflict through his firsthand
+      accounts from Russia during a time when Western journalists were largely absent,
+      complementing his previous work on the Russian expatriate community in the 1990s.
+    paragraph_summary: Gilbert Doctorow's latest book, "War Diaries. The Russia-Ukraine
+      War, 2022-2023," offers a distinctive perspective on the conflict through his
+      firsthand accounts from the Russian home front during a time when Western journalists
+      were largely absent due to visa restrictions. This work builds on his previous
+      two-volume memoir, "Memoirs of a Russianist," which features diary entries detailing
+      his experiences in Russia, particularly focusing on the expatriate community in
+      Moscow during the 1990s. With a background as a professional observer of Russian
+      affairs since 1965, Doctorow holds degrees from Harvard and Columbia, has a rich
+      career in business related to the USSR and Eastern Europe, and has served in notable
+      literary and academic roles. He currently resides in Brussels.
+    published: '2025-12-18T07:16:50+00:00'
+  - title: '‘Judging Freedom’ edition of 17 December: Will the EU Steal Russian Bank
+      Deposits?'
+    url: https://gilbertdoctorow.com/2025/12/17/judging-freedom-edition-of-17-december-will-the-eu-steal-russian-bank-deposits/
+    text: 'The has been a torrent of news these past several days bearing on the title
+      given to today’s discussion with Judge Andrew Napolitano. From the results of
+      the paper voting of EU Member States last Friday in which von der Leyen invoked
+      emergency powers to override any possible vetoes, she succeeded in ending the
+      six-monthly renewals of the freeze on Russian state assets held in Euroclear (Belgium)
+      and making the freeze unlimited in time. For this she surely benefited from the
+      argument that this would provide the EU with leverage against the United States
+      and reserve for them a seat at the peace negotiations table which they otherwise
+      would not enjoy. Then on Monday, at a meeting of the Coalition of the Willing
+      hosted by German Chancellor Friedrich Merz, and attended by Trump’s emissaries
+      Witkoff and Kushner, as well as by Volodymyr Zelensky, the decision was taken
+      to approve a peace proposal that incorporated all conditions that the Ukrainians
+      have sought from the beginning of the conflict: a ‘security guaranty’ would be
+      include NATO member states providing ‘boots on the ground’ in Ukraine, the armed
+      force would be trained by European advisers and would number 800,000, the U.S.
+      would participate in defending Ukrainian sovereignty by clauses similar to Article
+      5 of the NATO treaties, no territorial concessions to Russia would be made, the
+      Russians would be obliged to pay reparations to Ukraine and the Russian leadership
+      would be brought to justice. Incredibly, Trump’s emissaries sat through these
+      discussions and said at the conclusion that peace was now closer than ever before,
+      an idea which Donald Trump himself repeated publicly later in the day. In a speech
+      to Dutch legislators in The Hague on Tuesday, Zelensky boasted about these terms
+      and said that the Russian aggression would be punished, thereby reinforcing international
+      law. This utter collapse of the Trump position on the peace which favored realism
+      and acknowledgement of the Russian military victory did not promise anything good
+      for the meetings in Brussels tomorrow and Friday to decide on confiscation of
+      the frozen Russian state assets. However, this morning’s edition of ‘Le Soir,’
+      the main French-speaking daily newspaper in Belgium has two full pages devoted
+      to the issue of the disposition of the Russian assets and the domestic politics
+      here relating to the coming Council meeting.  Per Le Soir, De Wever now has the
+      support of ALL political parties in Belgium, north and south, left and right for
+      his veto on von der Leyen’s plans unless she can produce written binding guaranties
+      of all Member States to share the financial risks of the loan operation in case
+      the loan is called by the lending banks.  This could happen under two different
+      scenarios: that the Russians win a law suit against Euroclear for damages over
+      what is effectively the confiscation of their assets OR if the Russians defeat
+      the Ukrainians on the field of battle and force a capitulation, meaning that the
+      peace term do not foresee any Russian reparations to Ukraine. My present guess
+      is that von der Leyen simply cannot provide such written guaranties to Belgium
+      because there are many naysayers among the Member States to risk sharing, including
+      such heavyweights as France and Italy. This means that the only fallback position
+      of the Ukraine cheerleaders in the EU will be to raise an EU loan from their own
+      pockets, meaning going to their parliaments to get budgetary approval, and most
+      Member States are loathe to do that. Accordingly, if the loan scheme fails this
+      Friday in the European Council, then it is highly likely that Ukraine will be
+      bankrupt in Q1 2026 and the war will end at the negotiating table in capitulation
+      of Kiev. As we also discuss in this Judging Freedom episode, the shocking flip-flop
+      of Trump on the peace terms that we have seen these past two days is setting off
+      a fierce fight within the highest decision-making levels of the Kremlin.  Putin’s
+      bet on Trump is shown up to have been a strategic mistake. Hardliners including
+      the Deputy Minister of Foreign Affairs Ryabkov who said that diplomacy had exhausted
+      its utility several weeks ago are now the winners in the debates around Putin.  
+      The president’s ‘gently, gently’ approach to managing the war is shown to be wrong.  
+      We may therefore expect a big change in Putin’s next moves towards escalation. 
+      It would be best if he followed the advice of many in the elites who want him
+      to blow up Kiev and end the war with a decapitation strike. ©Gilbert Doctorow,
+      2025'
+    one_sentence_summary: Recent developments include the EU's decision to indefinitely
+      freeze Russian state assets, facilitated by von der Leyen's emergency powers,
+      and a peace proposal approved by a coalition meeting that aligns with Ukraine's
+      longstanding demands in the conflict.
+    paragraph_summary: In recent days, significant developments have emerged regarding
+      the EU's stance on Russian state assets and the ongoing conflict in Ukraine. EU
+      Commission President Ursula von der Leyen successfully invoked emergency powers
+      to make the freeze on Russian assets held in Euroclear indefinite, aiming to strengthen
+      the EU's negotiating position in peace talks. Concurrently, a meeting hosted by
+      German Chancellor Friedrich Merz, attended by Trump’s representatives and Ukrainian
+      President Volodymyr Zelensky, resulted in a peace proposal that aligns with Ukraine's
+      long-standing demands, including NATO security guarantees, military support, and
+      reparations from Russia. Zelensky expressed optimism about these terms, asserting
+      that they would uphold international law, while Trump's representatives noted
+      that peace seemed closer than ever, marking a notable shift from Trump's previous
+      more conciliatory approach towards Russia.
+    published: '2025-12-17T14:19:19+00:00'
+  - title: '‘Judging Freedom’ edition of 17 December: Will the EU Steal Russian Bank
+      Deposits?'
+    url: https://gilbertdoctorow.com/2025/12/17/judging-freedom-edition-of-17-december-will-the-eu-steal-russian-bank-deposits/
+    text: 'The has been a torrent of news these past several days bearing on the title
+      given to today’s discussion with Judge Andrew Napolitano. From the results of
+      the paper voting of EU Member States last Friday in which von der Leyen invoked
+      emergency powers to override any possible vetoes, she succeeded in ending the
+      six-monthly renewals of the freeze on Russian state assets held in Euroclear (Belgium)
+      and making the freeze unlimited in time. For this she surely benefited from the
+      argument that this would provide the EU with leverage against the United States
+      and reserve for them a seat at the peace negotiations table which they otherwise
+      would not enjoy. Then on Monday, at a meeting of the Coalition of the Willing
+      hosted by German Chancellor Friedrich Merz, and attended by Trump’s emissaries
+      Witkoff and Kushner, as well as by Volodymyr Zelensky, the decision was taken
+      to approve a peace proposal that incorporated all conditions that the Ukrainians
+      have sought from the beginning of the conflict: a ‘security guaranty’ would be
+      include NATO member states providing ‘boots on the ground’ in Ukraine, the armed
+      force would be trained by European advisers and would number 800,000, the U.S.
+      would participate in defending Ukrainian sovereignty by clauses similar to Article
+      5 of the NATO treaties, no territorial concessions to Russia would be made, the
+      Russians would be obliged to pay reparations to Ukraine and the Russian leadership
+      would be brought to justice. Incredibly, Trump’s emissaries sat through these
+      discussions and said at the conclusion that peace was now closer than ever before,
+      an idea which Donald Trump himself repeated publicly later in the day. In a speech
+      to Dutch legislators in The Hague on Tuesday, Zelensky boasted about these terms
+      and said that the Russian aggression would be punished, thereby reinforcing international
+      law. This utter collapse of the Trump position on the peace which favored realism
+      and acknowledgement of the Russian military victory did not promise anything good
+      for the meetings in Brussels tomorrow and Friday to decide on confiscation of
+      the frozen Russian state assets. However, this morning’s edition of ‘Le Soir,’
+      the main French-speaking daily newspaper in Belgium has two full pages devoted
+      to the issue of the disposition of the Russian assets and the domestic politics
+      here relating to the coming Council meeting.  Per Le Soir, De Wever now has the
+      support of ALL political parties in Belgium, north and south, left and right for
+      his veto on von der Leyen’s plans unless she can produce written binding guaranties
+      of all Member States to share the financial risks of the loan operation in case
+      the loan is called by the lending banks.  This could happen under two different
+      scenarios: that the Russians win a law suit against Euroclear for damages over
+      what is effectively the confiscation of their assets OR if the Russians defeat
+      the Ukrainians on the field of battle and force a capitulation, meaning that the
+      peace term do not foresee any Russian reparations to Ukraine. My present guess
+      is that von der Leyen simply cannot provide such written guaranties to Belgium
+      because there are many naysayers among the Member States to risk sharing, including
+      such heavyweights as France and Italy. This means that the only fallback position
+      of the Ukraine cheerleaders in the EU will be to raise an EU loan from their own
+      pockets, meaning going to their parliaments to get budgetary approval, and most
+      Member States are loathe to do that. Accordingly, if the loan scheme fails this
+      Friday in the European Council, then it is highly likely that Ukraine will be
+      bankrupt in Q1 2026 and the war will end at the negotiating table in capitulation
+      of Kiev. As we also discuss in this Judging Freedom episode, the shocking flip-flop
+      of Trump on the peace terms that we have seen these past two days is setting off
+      a fierce fight within the highest decision-making levels of the Kremlin.  Putin’s
+      bet on Trump is shown up to have been a strategic mistake. Hardliners including
+      the Deputy Minister of Foreign Affairs Ryabkov who said that diplomacy had exhausted
+      its utility several weeks ago are now the winners in the debates around Putin.  
+      The president’s ‘gently, gently’ approach to managing the war is shown to be wrong.  
+      We may therefore expect a big change in Putin’s next moves towards escalation. 
+      It would be best if he followed the advice of many in the elites who want him
+      to blow up Kiev and end the war with a decapitation strike. ©Gilbert Doctorow,
+      2025'
+    one_sentence_summary: Recent developments include the EU's decision to indefinitely
+      freeze Russian state assets, facilitated by von der Leyen's emergency powers,
+      and a peace proposal approved by a coalition meeting that aligns with Ukraine's
+      longstanding demands in the conflict.
+    paragraph_summary: In recent days, significant developments have emerged regarding
+      the EU's stance on Russian state assets and the ongoing conflict in Ukraine. EU
+      Commission President Ursula von der Leyen successfully invoked emergency powers
+      to make the freeze on Russian assets held in Euroclear indefinite, aiming to strengthen
+      the EU's negotiating position in peace talks. Concurrently, a meeting hosted by
+      German Chancellor Friedrich Merz, attended by Trump’s representatives and Ukrainian
+      President Volodymyr Zelensky, resulted in a peace proposal that aligns with Ukraine's
+      long-standing demands, including NATO security guarantees, military support, and
+      reparations from Russia. Zelensky expressed optimism about these terms, asserting
+      that they would uphold international law, while Trump's representatives noted
+      that peace seemed closer than ever, marking a notable shift from Trump's previous
+      more conciliatory approach towards Russia.
+    published: '2025-12-17T14:19:19+00:00'
+  - title: 'NewsX World: Zelensky’s Speech yesterday at The Hague'
+    url: https://gilbertdoctorow.com/2025/12/17/newsx-world-zelenskys-speech-yesterday-at-the-hague/
+    text: In this hourly news bulletin, I come on at minute 3.45 Fresh from the highly
+      supportive meeting with European leaders in Berlin a day earlier, Zelensky sets
+      out before Dutch legislators his demand that the peace agreements also foresee
+      condemnation of Russia’s aggression and thereby uphold the principles of international
+      law. As I characterize his speech, “[Zelensky] is satisfied that his view of the
+      war is now being upheld by the Europeans, namely that Russia has lost the war,
+      it should capitulate, it should pay reparations, it should punish its leaders,
+      and so forth. This is the most remarkable propaganda that one could ever hear.
+      The loser is declaring that the winner is…the losing side and must capitulate.”
+      The truly shocking feature of the speech is that it would appear that the Americans
+      in Berlin on Monday, Jared Kushner and Steve Witkoff, did not object. Were there
+      consistency in US policy, they should have risen from their seats and walked out. 
+      Instead, we are told at the start of this news bulletin, that the USA will participate
+      in the plans to ensure Ukraine’s security which includes European boots on the
+      ground. And that will never be accepted by the Russian side, as Trump knows very
+      well. I await further news from Washington on what Team Trump has actually agreed
+      to. But the situation at this moment does not look good for anyone awaiting peace
+      in the foreseeable future.
+    one_sentence_summary: In a recent speech to Dutch legislators, Ukrainian President
+      Zelensky emphasized the need for peace agreements to condemn Russia's aggression
+      and uphold international law, expressing satisfaction that European leaders now
+      share his view that Russia has lost the war and should face consequences, a stance
+      that drew criticism for its perceived propaganda and lack of objection from American
+      officials present.
+    paragraph_summary: In a recent address to Dutch legislators, Ukrainian President
+      Zelensky emphasized the need for peace agreements to condemn Russia's aggression
+      and uphold international law, expressing satisfaction that European leaders now
+      share his view that Russia has lost the war and should face consequences. The
+      article critiques Zelensky's rhetoric as remarkable propaganda, highlighting the
+      paradox of a losing side demanding capitulation from the victor. Notably, American
+      representatives Jared Kushner and Steve Witkoff did not object to Zelensky's assertions,
+      raising questions about the consistency of US policy. The bulletin concludes with
+      concerns regarding the US's involvement in Ukraine's security plans, which may
+      not be accepted by Russia, suggesting a bleak outlook for peace in the near future.
+    published: '2025-12-17T08:37:17+00:00'
+  - title: 'NewsX World: Zelensky’s Speech yesterday at The Hague'
+    url: https://gilbertdoctorow.com/2025/12/17/newsx-world-zelenskys-speech-yesterday-at-the-hague/
+    text: In this hourly news bulletin, I come on at minute 3.45 Fresh from the highly
+      supportive meeting with European leaders in Berlin a day earlier, Zelensky sets
+      out before Dutch legislators his demand that the peace agreements also foresee
+      condemnation of Russia’s aggression and thereby uphold the principles of international
+      law. As I characterize his speech, “[Zelensky] is satisfied that his view of the
+      war is now being upheld by the Europeans, namely that Russia has lost the war,
+      it should capitulate, it should pay reparations, it should punish its leaders,
+      and so forth. This is the most remarkable propaganda that one could ever hear.
+      The loser is declaring that the winner is…the losing side and must capitulate.”
+      The truly shocking feature of the speech is that it would appear that the Americans
+      in Berlin on Monday, Jared Kushner and Steve Witkoff, did not object. Were there
+      consistency in US policy, they should have risen from their seats and walked out. 
+      Instead, we are told at the start of this news bulletin, that the USA will participate
+      in the plans to ensure Ukraine’s security which includes European boots on the
+      ground. And that will never be accepted by the Russian side, as Trump knows very
+      well. I await further news from Washington on what Team Trump has actually agreed
+      to. But the situation at this moment does not look good for anyone awaiting peace
+      in the foreseeable future.
+    one_sentence_summary: In a recent speech to Dutch legislators, Ukrainian President
+      Zelensky emphasized the need for peace agreements to condemn Russia's aggression
+      and uphold international law, expressing satisfaction that European leaders now
+      share his view that Russia has lost the war and should face consequences, a stance
+      that drew criticism for its perceived propaganda and lack of objection from American
+      officials present.
+    paragraph_summary: In a recent address to Dutch legislators, Ukrainian President
+      Zelensky emphasized the need for peace agreements to condemn Russia's aggression
+      and uphold international law, expressing satisfaction that European leaders now
+      share his view that Russia has lost the war and should face consequences. The
+      article critiques Zelensky's rhetoric as remarkable propaganda, highlighting the
+      paradox of a losing side demanding capitulation from the victor. Notably, American
+      representatives Jared Kushner and Steve Witkoff did not object to Zelensky's assertions,
+      raising questions about the consistency of US policy. The bulletin concludes with
+      concerns regarding the US's involvement in Ukraine's security plans, which may
+      not be accepted by Russia, suggesting a bleak outlook for peace in the near future.
+    published: '2025-12-17T08:37:17+00:00'
+  - title: Links to this morning’s RT International interview
+    url: https://gilbertdoctorow.com/2025/12/16/links-to-this-mornings-rt-international-interview/
+    text: 'Published by gilbertdoctorow
+
+
+      Gilbert Doctorow''s latest book, "War Diaries. The Russia-Ukraine War, 2022-2023"
+      is a unique contribution to literature on the war thanks to the author''s reports
+      on the Russian home front written during his periodic visits to St Petersburg
+      at a time when Russia no longer issued visas and nearly all Western journalists
+      had left the country. Doctorow''s two-volume "Memoirs of a Russianist" published
+      in 2020 also constitutes a category of its own, consisting largely of diary entries
+      rather than reminiscences written decades later.. Volume 2 focuses on the community
+      of 50,000 expatriate managers working and living in Moscow during the 1990s, about
+      which none of his peers has yet to write. Gilbert Doctorow is a professional Russia
+      watcher and actor in Russian affairs going back to 1965. He is a magna cum laude
+      graduate of Harvard College (1967), a past Fulbright scholar, and holder of a
+      Ph.D. with honors in history from Columbia University (1975). After completing
+      his studies, Mr. Doctorow pursued a business career focused on the USSR and Eastern
+      Europe. For twenty-five years he worked for US and European multinationals in
+      marketing and general management with regional responsibility. From 1998-2002,
+      Doctorow served as the Chairman of the Russian Booker Literary Prize in Moscow.
+      During the 2010-2011 academic year, he was a Visiting scholar of the Harriman
+      Institute, Columbia University. Mr. Doctorow is a long-time resident of Brussels.
+      View all posts by gilbertdoctorow'
+    one_sentence_summary: Gilbert Doctorow's "War Diaries. The Russia-Ukraine War, 2022-2023"
+      offers a distinctive perspective on the conflict through his firsthand accounts
+      from Russia during a time when Western journalists were largely absent, complementing
+      his earlier work on the expatriate community in Moscow during the 1990s.
+    paragraph_summary: Gilbert Doctorow's book, "War Diaries. The Russia-Ukraine War,
+      2022-2023," offers a distinctive perspective on the ongoing conflict through his
+      firsthand accounts from Russia during a time when Western journalists were largely
+      absent due to visa restrictions. This work complements his earlier two-volume
+      memoir, "Memoirs of a Russianist," which features diary entries reflecting on
+      his experiences in Russia, particularly focusing on the expatriate community in
+      Moscow during the 1990s. With a background as a professional observer of Russian
+      affairs since 1965, Doctorow brings a wealth of knowledge and experience, including
+      a Harvard education, a Ph.D. from Columbia, and a notable career in business and
+      literary circles, including his role as Chairman of the Russian Booker Literary
+      Prize. Now residing in Brussels, Doctorow continues to contribute to the discourse
+      on Russia and its historical context.
+    published: '2025-12-16T13:24:38+00:00'
   - title: Required reading
     url: https://gilbertdoctorow.com/2025/12/16/required-reading/
     text: 'One of the benefits of being in multiple ‘press pools’ is that you get drawn

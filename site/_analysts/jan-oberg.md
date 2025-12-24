@@ -7,17 +7,58 @@ description: "Swedish peace researcher and co–founder of Transnational Foundat
 websites:
   - https://transnational.live/
 summary: |
-  As the year draws to a close, the global geopolitical landscape remains marked by deepening polarization, institutional crises, and skepticism over the authenticity of major peace initiatives. Recent independent analysis continues to highlight the disconnect between official rhetoric and substantive conflict resolution.
+  As 2025 draws to a close, the geopolitical landscape remains defined by mounting institutional crises and deepening skepticism toward prevailing Western security narratives. Recent analysis by **Jan Oberg** highlights a series of new developments underscoring these trends.
   
-  The most recent focus is on NATO’s evolving posture, with **Jan Oberg** critiquing Secretary General Rutte’s Berlin speech as emblematic of what he calls “psycho-political theater.” Oberg argues that NATO’s persistent framing of Russia and China as existential threats is less about strategic necessity and more about ritualized distraction from rational policy debate. He warns that this approach undermines the possibility of genuine dialogue and risks entrenching a cycle of escalation. According to Oberg, “the end of rational politics” is not merely rhetorical but reflects a broader trend in Western security thinking.
+  The most immediate concern is the European Union’s decision to sanction Jacques Baud, a Swiss former NATO and UN official, despite a lack of concrete evidence linking him to Russian collaboration. **Oberg** warns that this move signals a troubling expansion of the EU/NATO censorship architecture, raising “serious questions about freedom of expression and the boundaries of legitimate dissent in Europe.” The case is seen as emblematic of a broader clampdown on alternative voices, with implications for democratic discourse across the continent.
   
-  Parallel to this, the United Nations faces a severe financial crisis, with **Jan Oberg** noting that “resources are increasingly diverted to military expenditures,” leaving the UN underfunded and unable to fulfill its mandate. The delay in China’s contributions, in particular, is cited as a significant factor exacerbating the organization’s budget shortfall. This development raises alarms about the viability of multilateral diplomacy at a time when global cooperation is most needed.
+  Meanwhile, the United Nations faces a severe financial crisis, as detailed by **Oberg** in his December 2 analysis. Funding shortfalls are attributed to a global shift in priorities, with resources increasingly diverted to military expenditures at the expense of multilateral institutions. This trend, he argues, “threatens the UN’s capacity to fulfill its core mandates,” and reflects a wider erosion of support for cooperative security frameworks.
   
-  On the peace process front, skepticism persists regarding both Ukraine and Gaza. Oberg’s recent commentary casts doubt on the authenticity of US-Russian diplomatic efforts in Ukraine, suggesting that the proposals on the table may not be genuine attempts at peace. Meanwhile, the adoption of Trump’s “peace” plan for Gaza by the UN Security Council is described as a “cruel joke,” reflecting a broader disillusionment with the quality and intent of international mediation.
+  On the security front, skepticism persists regarding the authenticity of diplomatic efforts to resolve the Ukraine conflict. **Oberg** maintains that “true peace in Ukraine cannot be achieved through existing peace plans or military actions,” instead calling for trust-building and prosperity-focused initiatives. He remains doubtful about the sincerity of current US-Russian negotiations, suggesting that what is being presented publicly may not reflect genuine intentions.
   
-  **Trends and Predictions:**  
-  The prevailing trend, as identified by Oberg and corroborated by other independent voices, is a drift away from rational, constructive engagement toward performative politics and militarization. The financial weakening of the UN and the ritualization of threat narratives in NATO are likely to further erode the prospects for meaningful diplomacy. There is a high chance that, absent a major shift in priorities, these patterns will persist into 2026. As Oberg concludes, “there is a high chance the current trajectory will lead to more instability and less trust in international institutions.”
+  Looking ahead, the majority of independent analysis predicts with high confidence that the EU and NATO will continue to prioritize information control and military spending over dialogue and reform. The UN’s financial woes are expected to deepen, further limiting its global influence. As for Ukraine, there is a high chance that the conflict will remain unresolved absent a fundamental shift toward constructive, trust-based diplomacy.
+  
+  In summary, the prevailing trends point to a continued hardening of Western institutional stances, a weakening of multilateralism, and persistent barriers to genuine conflict resolution—developments that, according to **Oberg**, most definitely warrant concern for the prospects of peace and democratic accountability in 2026.
 articles:
+  - title: Jacques Baud and the EU/NATO Censorship Architecture ⛔
+    url: https://transnational.live/2025/12/18/jacques-baud-and-the-eu-nato-censorship-architecture/
+    text: If Baud, then we are all potential targets now! ⛔ Jan Oberg December 18, 2025
+      Jacques Baud’s case is mind-boggling. A Swiss citizen, former NATO-, OSCE and
+      UN-related and author who relies mainly on Western sources, has been sanctioned
+      by the European Union. There is no evidence that he worked with or for Russia.
+      His “crime” […] The post Jacques Baud and the EU/NATO Censorship Architecture
+      ⛔ appeared first on The Transnational .
+    one_sentence_summary: Jacques Baud, a Swiss citizen and former NATO and UN official,
+      has been sanctioned by the EU despite no evidence of collaboration with Russia,
+      raising concerns about censorship and the implications for freedom of expression.
+    paragraph_summary: In the article, Jan Oberg discusses the perplexing case of Jacques
+      Baud, a Swiss citizen and former NATO, OSCE, and UN official, who has been sanctioned
+      by the European Union despite having no evidence linking him to Russia. Baud,
+      who primarily draws on Western sources for his work, faces censorship that raises
+      concerns about the broader implications for freedom of expression and the potential
+      for anyone to become a target under similar circumstances. The piece highlights
+      the troubling nature of the EU/NATO censorship architecture and its impact on
+      discourse.
+    published: '2025-12-18T14:59:01+00:00'
+  - title: Jacques Baud and the EU/NATO Censorship Architecture ⛔
+    url: https://transnational.live/2025/12/18/jacques-baud-and-the-eu-nato-censorship-architecture/
+    text: If Baud, then we are all potential targets now! ⛔ Jan Oberg December 18, 2025
+      Jacques Baud’s case is mind-boggling. A Swiss citizen, former NATO-, OSCE and
+      UN-related and author who relies mainly on Western sources, has been sanctioned
+      by the European Union. There is no evidence that he worked with or for Russia.
+      His “crime” […] The post Jacques Baud and the EU/NATO Censorship Architecture
+      ⛔ appeared first on The Transnational .
+    one_sentence_summary: Jacques Baud, a Swiss citizen and former NATO and UN official,
+      has been sanctioned by the EU despite no evidence of collaboration with Russia,
+      raising concerns about censorship and the implications for freedom of expression.
+    paragraph_summary: In the article, Jan Oberg discusses the perplexing case of Jacques
+      Baud, a Swiss citizen and former NATO, OSCE, and UN official, who has been sanctioned
+      by the European Union despite having no evidence linking him to Russia. Baud,
+      who primarily draws on Western sources for his work, faces censorship that raises
+      concerns about the broader implications for freedom of expression and the potential
+      for anyone to become a target under similar circumstances. The piece highlights
+      the troubling nature of the EU/NATO censorship architecture and its impact on
+      discourse.
+    published: '2025-12-18T14:59:01+00:00'
   - title: 'NATO Rutte’s Berlin Speech: Not About Russia, But About the End of Rational
       Politics'
     url: https://transnational.live/2025/12/12/nato-ruttes-berlin-speech-and-the-end-of-rational-politics/

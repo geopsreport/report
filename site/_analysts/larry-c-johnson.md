@@ -7,16 +7,1969 @@ description: "Former CIA analyst & State Dept counterterrorism official; runs So
 websites:
   - https://sonar21.com
 summary: |
-  The past 24 hours have seen renewed scrutiny of Western diplomatic efforts and internal European Union dynamics, particularly in relation to the ongoing crises in Ukraine and Gaza. The latest developments highlight persistent challenges in multilateral diplomacy and growing fractures within the EU over its approach to information control and sanctions.
+  As the Ukraine conflict grinds on into late December 2025, Western sanctions and diplomatic maneuvering continue to shape the geopolitical landscape. The latest analyses emphasize the enduring impact of financial measures against Russia and the persistent disconnect between Western expectations and on-the-ground realities.
   
-  Most recently, **Larry C. Johnson** critiques the outcome of the Trump administration’s Sharm el-Sheikh Peace Summit, noting that despite the involvement of numerous countries and the partial release of hostages, the summit failed to generate meaningful progress toward resolving the Gaza conflict. Johnson argues that the absence of direct, substantive dialogue between key parties undermined the summit’s effectiveness, stating, “If you’re talking to yourself, it ain’t a conversation.” This underscores the limitations of high-profile diplomatic gatherings that lack genuine engagement from all stakeholders.
+  A key development highlighted by **Larry C. Johnson** is the ongoing freeze of approximately $300 billion in Russian state assets globally. While this is often cited as a major lever against Moscow, Johnson notes that Russia may soon retaliate against these actions, though the precise form such retaliation might take remains speculative. The majority view among analysts is that, despite these unprecedented sanctions, Russia’s economy has demonstrated unexpected resilience, with Central Bank head Elvira Nabiullina insisting that the country is “managing well.” This challenges the widespread Western belief that economic pressure will force Russia to negotiate on Ukraine.
   
-  Meanwhile, tensions within the European Union have escalated following the bloc’s decision to impose sanctions on individuals accused of disseminating pro-Russian narratives about Ukraine. Johnson points to the case of Colonel Jacques Baud, arguing that the EU’s actions reflect a “disconnect from reality and an abuse of power.” This move is seen as symptomatic of a broader trend in which the EU is increasingly resorting to censorship and punitive measures to maintain its narrative cohesion, raising questions about the bloc’s internal stability and legitimacy.
+  On the diplomatic front, Johnson points out a critical legal and political obstacle: any binding agreement with Russia over Ukraine would require ratification by the US Senate. This undermines recent optimism in Western media and political circles about the prospects for a near-term negotiated settlement. Johnson stresses, “no agreement is enforceable without Senate approval,” a reality often overlooked in public discourse.
   
-  Looking at broader geopolitical trends, Johnson’s recent analysis suggests that the EU’s current trajectory—marked by aggressive sanctions and information control—may further alienate member states and citizens, potentially fueling calls for structural reform or even dissolution. He maintains that, “there is a high chance” these internal divisions will deepen if the EU continues on its present course.
+  Additionally, internal Russian dynamics have come under scrutiny. Reports of Dmitri Kozak, a senior aide to President Putin, resisting early orders to demand Ukraine’s surrender, suggest some level of dissent or at least confusion within the Kremlin’s inner circle. However, the majority assessment remains that Putin’s position is secure and that his administration is committed to continuing the conflict until Russia’s core conditions are met.
   
-  In summary, the latest reports indicate that Western diplomatic initiatives are struggling to produce tangible results in conflict zones, while internal discord within the EU is intensifying over its approach to dissent and information management. The prevailing trend points toward increased polarization both within and between Western institutions. If these patterns persist, it is quite likely that the effectiveness of Western-led diplomatic and political frameworks will continue to erode in the coming months.
+  **Trends and Predictions:**  
+  The majority of independent analysts, including Johnson, maintain that the war in Ukraine is set to continue into 2026, with little likelihood of a breakthrough in negotiations. There is high confidence that Western sanctions will persist, but their ability to force a Russian policy change is “quite limited.” Johnson predicts with high confidence that “Russia will not capitulate under current economic or diplomatic pressure.” Retaliatory moves by Moscow in response to asset freezes are “quite likely” in the coming months, though the specifics remain uncertain.
+  
+  In summary, the geopolitical situation remains deadlocked: Western sanctions are biting but not decisive, diplomatic solutions are hampered by legal and political barriers, and Russia shows no sign of altering its strategic objectives. The outlook is for continued stalemate, with the potential for new forms of Russian retaliation on the horizon.
 articles:
+  - title: What Russia Could Do
+    url: https://sonar21.com/what-russia-could-do/
+    text: 'For years, Russia, Russians, and people with ties to Russia have been victims
+      of an unprecedented raid by the West. What if Russia turned the tables? – A thought
+      game. By Peter Hanseler via ForumGeopolitica.com The bear can certainly defend
+      itself against hyenas. It Doesn’t Get Any More Criminal Than This The Numbers
+      According to various institutions, including the European Commission, around $300
+      billion (€257 billion) in Russian state assets have been frozen worldwide. This
+      figure does not include frozen assets belonging to Russian oligarchs. Of this,
+      €210 billion is in Europe, and €185 billion of that is with Euroclear. Approximately
+      €176 billion of Russian assets held by Euroclear have now been converted into
+      cash, and the remaining securities, worth €9 billion, will mature in 2026 and
+      2027. A Major Setback for Merz and von der Leyen Reparations or “ Reparations
+      Credit” Model of the EU Commission By December 18, the EU Commission intended
+      to use the Russian Central Bank’s assets frozen in the EU for a special loan instrument
+      (“reparation loan”): According to this plan, these funds would supposedly remain
+      formally Russian property, but would be used to grant Ukraine long-term loans,
+      which Ukraine would use to wage war against Russia and finance its government
+      spending. Russia would only get these loans back once it had made reparations
+      payments to Ukraine after the end of the war. In this way, the EU is attempting
+      to avoid direct expropriation and circumvent legal disputes. Merz threw his entire
+      ( feather- )weight behind the plan, thinking that, in typical German arrogant
+      and haughty fashion, he could force his European colleagues to embark on the biggest
+      heist in recent geopolitical history. Among other things, he made the following
+      statement, which bordered on cocky, hubris, and delusion: “To be very clear and
+      very explicit here: we are not doing this to prolong the war. On the contrary,
+      we are doing this to end this war as quickly as possible, ladies and gentlemen.
+      Because this sends a clear signal to Moscow that continuing this war is pointless
+      for Moscow .” Friedrich Merz, December 15, 2025 One recalls with horror Adolf
+      Hitler’s speech on November 2, 1942, in Munich’s Löwenbräukeller, where he invoked
+      the impending victory in Stalingrad. Twenty days later, the 6th Army was completely
+      surrounded and lost in the course of Operation Uranus . And that’s exactly what
+      happened to Merz: he put all his eggs in one basket—and lost dismally. This is
+      now being reported by German newspapers—practically in unison. His X-message after
+      losing the battle, in which he described the complete defeat as a victory, “ Financial
+      package is in place—as I demanded ,” is unbeatable in its pitifulness. Das Finanzpaket
+      für die Ukraine steht: ein zinsloser Kredit über 90 Milliarden Euro, wie von mir
+      gefordert. Ein klares Signal an Putin aus Europa. Der Krieg wird sich nicht lohnen. Wir
+      lassen die russischen Vermögenswerte eingefroren, bis Russland die Ukraine entschädigt
+      hat. — Bundeskanzler Friedrich Merz (@bundeskanzler) December 19, 2025 “The financial
+      package for Ukraine is ready: an interest-free loan of €90 billion, as I requested.
+      A clear signal to Putin from Europe. The war will not be worth it. We will keep
+      Russian assets frozen until Russia has compensated Ukraine.” Friedrich Merz, December
+      19, 2025 History buffs will immediately recall Joseph Goebbels’ speech at the
+      Sportpalast on February 18, 1943, when he screamed after the Germans’ biggest
+      defeat in World War II up to that point: “Do you want total war?” Joseph Goebbels,
+      February 18, 1943 15,000 spectators filled Berlin’s Sportpalast to capacity when
+      Propaganda Minister Joseph Goebbels addressed them on February 18, 1943 – Photo:
+      Das Bundesarchiv / Ernst Schwahn We can look forward to the next bon mot from
+      the new war chancellor, because this defeat not only weakens him in Germany, but
+      has also significantly reduced his influence in Europe. Concluded Agreement is
+      also Illegal On the night of December 19, a compromise was reached that only appears
+      non-criminal at first glance: Russian state assets were used indirectly, but still:
+      specifically, the Commission will raise €90 billion on the capital market and
+      pass it on to Ukraine as an interest-free loan. According to the agreement, Ukraine
+      must repay the loan as soon as it has received reparations from Russia for the
+      damage caused by the war of aggression. If Russia does not pay—which I believe
+      is certain, because it is the losers and not the winners of a war who pay reparations—the
+      EU reserves “the right” to use the frozen funds to repay the loan. This act of
+      desperation was preceded by two criminal acts: the permanent freezing of Russian
+      assets and the theft of the interest that had already accrued on them. Less than
+      Half Goes to Ukraine – Brussels Helps Itself First The G7 countries (the US, Canada,
+      Japan, UK, Germany, France, Italy) agreed at the G7 summit in Apulia in June 2024
+      to provide Ukraine with a joint loan of up to USD 50 billion. These loans were
+      to be serviced and repaid over time with income from the “ extraordinary earnings
+      ” of the frozen Russian state assets – in other words, with the profits from the
+      “withheld” Russian central bank reserves. Now it seems that these ladies and gentlemen
+      are helping themselves first in order to recoup this loan. Of the 90 billion,
+      50 billion will not go to Ukraine at all. Of the remaining 40 billion, a large
+      part will probably flow into the German and American arms industries, and the
+      remainder will then probably be divided among Zelensky and his cronies. Permanent
+      Freezing Already a Crime On December 12, Russian assets were permanently frozen
+      by the EU. There was never any legal basis for freezing the Russian central bank’s
+      foreign assets on February 26, 2026. This has never happened before in economic
+      history—and for good reason. Our current system is based on the various central
+      banks holding different foreign currencies in order to be able to settle the costs
+      of an economy incurred in different currencies. The ladies and gentlemen in Brussels
+      seem too stupid to be able to assess the consequences of their actions, or who
+      would deposit money with a thief? Apart from this principle that central bank
+      funds are sacrosanct, Brussels is also violating its own EU law with the permanent
+      freeze. The indefinite freeze, which is tantamount to confiscation, would not
+      have been enforceable under current EU rules, as Hungary, Italy, Malta, Belgium,
+      Czechia, Slovakia, and Bulgaria would have refused to approve this theft. The
+      gnomes in Brussels therefore conjured up an “emergency law” out of thin air for
+      this purpose, invoking Article 122 of the Treaty on the Functioning of the European
+      Union . It reads as follows: 1. Without prejudice to any other procedures provided
+      for in the Treaties, the Council, on a proposal from the Commission, may decide,
+      in a spirit of solidarity between Member States, upon the measures appropriate
+      to the economic situation, in particular if severe difficulties arise in the supply
+      of certain products, notably in the area of energy. 2. Where a Member State is
+      in difficulties or is seriously threatened with severe difficulties caused by
+      natural disasters or exceptional occurrences beyond its control, the Council,
+      on a proposal from the Commission, may grant, under certain conditions, Union
+      financial assistance to the Member State concerned. The President of the Council
+      shall inform the European Parliament of the decision taken. Source: Eurolex Paragraph
+      1 of Article 122 gives the Council, on a proposal from the Commission, the right
+      to come to the aid of a member state in the event of supply shortages, with the
+      law expressly mentioning the energy sector. Paragraph 2 of the emergency clause
+      122 refers to natural disasters and exceptional occurrences in a member state,
+      where the Council, on a proposal from the Commission, may grant financial assistance
+      to a member state. The upcoming robbery cannot in any way be subsumed under Article
+      122 invoked by Brussels, i.e., the facts do not fit the provisions of the law.
+      It fails simply because this emergency law was legislated for the assistance of
+      member states—and exclusively so. Ukraine is not a member of the EU. Therefore,
+      invoking Article 122 is complete legal nonsense. The ladies and gentlemen in Brussels,
+      Berlin, Paris—and probably also in London—who are seeking to legalize this raid
+      are thus not only violating international legal principles, the violation of which
+      makes the functioning of the international banking system impossible, but are
+      also trampling on the very law that forms the basis of the entire EU and its member
+      states. One cannot help but feel that a few criminals— nota bene , unelected ones—are
+      abusing the EU institution to carry out raids against sovereign states, simply
+      brushing aside the opinions of those members who want to abide by the law. From
+      a legal perspective, we find ourselves back in the dark 1930s in Germany, when
+      Dr. Hans Frank made the following remark at the German Lawyers’ Congress in 1933:
+      “ Law is that which is useful to the German people.” Hans Frank, 1933 Incidentally,
+      Hans Frank , who served as Governor-General of Poland during World War II, was
+      executed in Nuremberg on October 16, 1946. Apart from the fact that this behavior
+      on the part of an institution of a confederation of states or some of its members
+      is appalling from a legal and ethical point of view, these people are jeopardizing
+      the very existence of the EU itself and those member states that implement such
+      actions as principal and accessory parties, promote them as accomplices, or tacitly
+      accept them as a silent group. I refer here to an essay by our author Tony Deden
+      , who wrote an article for us in July about the reasons for the rise and fall
+      of nations (“ Why Do Nations Rise and Fall: An Overview ”). Among other things,
+      he considers the rule of law and the unconditional protection of property to be
+      essential for a nation to flourish. If these – and other – essentials are not
+      present in a society, nations perish. The Crime has Already Been Completed We
+      have thus heard so far that the freeze of February 26, 2022, was already illegal,
+      and that the indefinite freeze of December 12, 2025, amounts to confiscation,
+      whereby the type of decision—the invocation of Article 122—is also illegal within
+      the EU. Many people are unaware that the transfer of billions in proceeds from
+      frozen Russian assets , which has been going on since September 2024, has already
+      completed the theft. A simple example: if you deposit 1 million euros in your
+      account and at the end of the year you are credited with 50,000 euros in interest,
+      and your banker helps himself and transfers this to his account, this is outright
+      theft (in the case of the banker, who has contractual access to the funds, it
+      is embezzlement). This is probably the case in every legal system. The nitwits
+      in Brussels don’t even understand the concept of property and the principle that
+      the fruits of property belong to the owner. What Russia Could Do BRICS-Pol – as
+      a Counterpart to Interpol – Criminal Charges Against Responsible Politicians Interpol,
+      with its 196 member countries, is supposed to improve international cooperation
+      between national police organizations. However, like so many other organizations
+      in the Collective West, it has degenerated into a political body. This became
+      abundantly clear in 2018. Bill Browder was arrested in Spain in May 2018 on the
+      basis of an Interpol arrest warrant issued by Russia, but was quickly released
+      because Interpol classified the arrest warrant as politically motivated. In our
+      article “ Bill Browder: The so-called ‘human rights activist’ – who himself became
+      rich through shady deals ,” we proved that Browder is nothing more than a criminal
+      tax evader who was sentenced to nine years in prison in Russia for his crimes.
+      Interpol has thus become a worthless tool for Russia—and probably for the entire
+      Global South—unsuitable for internationally searching for criminals and handing
+      them over to the competent national authorities. The members, partners, and candidates
+      of BRICS and SCO, the two main organizations of the Global South, should establish
+      a parallel organization to Interpol based on criminal law rather than politics,
+      so that cooperation between national police organizations in the Global South
+      can function more effectively. Interpol’s systems would work if politicians did
+      not replace criminal law with politics. Criminals like Bill Browder feel safe
+      today because he is effectively not being prosecuted for his crimes as he is protected
+      for political reasons – it is not a desirable situation for a society when criminals
+      are not prosecuted. In any case, the Russian state should, without wasting any
+      time, instruct its competent public prosecutors to initiate criminal proceedings
+      against all those European politicians who are involved in the heist because,
+      as we have seen above, this is no longer a matter of different interpretations
+      of the law; these people are criminals and should be treated as such. Furthermore,
+      one should consider that the current efforts of Merz & Co. are the final step
+      in stealing all of the capital. Billions (interest on the capital) have already
+      been stolen. Parts of the crime have therefore already been completed. I assume
+      that BRICS-Pol, in which countries of the Global South will participate, is already
+      being discussed behind closed doors. If this is implemented—and I have no doubt
+      that it will be—these ladies and gentlemen will only be able to move around within
+      the moribund EU area. Outside this declining zone of the world, they will run
+      the risk of being arrested and extradited to Russia. Civil Actions Against All
+      Who Collaborated The Russian Central Bank has already filed a lawsuit against
+      Euroclear in the Arbitration Court in Moscow for an amount of 230 billion US dollars.
+      A preliminary court date has been set for January 16, 2026. This will only be
+      the beginning, because all institutions—the EU, every EU member—as well as every
+      person involved in the matter should be sued, and then these judgments should
+      be enforced wherever the corresponding assets are located. One could even take
+      this a step further if the same standards for expropriation were applied as the
+      West has done with Russia. It was enough for a wealthy Russian to be seen in a
+      photo with President Putin. Simply because of a photo with President Putin, these
+      people had everything taken away from them; they were stripped of their rights
+      and expropriated (specific cases here , here , and here ). If the same standards
+      are applied as the West did, this will be a feast for the Russians. Step 1: Together
+      in a photo, for example with the criminal chancellor, documenting their “closeness.”
+      The VCI Presidium with the Federal Chancellor. Front row, from left: VCI Chief
+      Executive Wolfgang Große Entrup; VCI Vice President Christian Hartel, Wacker Chemie;
+      Sabine Herold, Delo Industrie Klebstoffe; VCI President Markus Steilemann, Covestro;
+      Federal Chancellor Friedrich Merz; VCI Vice President Carsten Knobel, Henkel;
+      Julia S. Schlenz, Dow Europe. Back row, from left: Daniel Steiners, Roche Pharma;
+      Matthias Zachert, Lanxess; VCI Vice President Markus Kamieth , BASF; Bill Anderson,
+      Bayer; Reinhold von Eben-Worlée, Worlée-Chemie; Hubertus von Baumbach, C.H. Boehringer
+      Sohn; VCI Treasurer Henrik Follmann, Follmann Chemie; Martin Babilas, Altana.
+      (Other members of the Executive Committee not pictured are: Belén Garijo, Merck;
+      Christian Kullmann, Evonik) Let’s pick Mr. Markus Kamieth , Chairman of the Board
+      of Executive Directors at BASF, as an example from this group. Step 2: This sufficiently
+      proves the criminal energy of Mr. Kamieth and thus also of his employer, BASF,
+      and therefore all private assets of Mr. Kamieth and all assets of BASF are fair
+      game, i.e., ready for looting. Many readers will now argue that this is unfair
+      and unworkable, but in this thought experiment, we are merely applying the same
+      standards that the EU, Switzerland, and the US have applied to Russia. We are
+      confident that all individuals and companies affected would have no objection
+      to a course of action that they themselves have employed. Admittedly, in this
+      scenario, it is preferable to be the one taking action rather than the one on
+      the receiving end. Step 3: Jetzt sucht Russland in Russland selbst und in jenen
+      Ländern, welche die Entscheide vollstrecken werden, nach Vermögenswerten, in unserem
+      Beispiel von BASF. Eine Perle liegt in China, wo BASF 10 Milliarden Euro investiert
+      hat. The Verbund plant in Zhanjiang is set to become BASF’s third-largest site
+      worldwide – Source: Die Welt If Russia were to proceed in the same manner as the
+      West has been doing for years, the Russian bear would be able to gorge itself
+      for years to come, as it would be able to choose its own honey pots. Conclusion
+      The Europeans are turning out to be foolish, arrogant, and short-sighted criminals—led
+      by Friedrich Merz and Frau von der Leyan, who nevertheless tried to sell his complete
+      defeat last week as a victory. “The last one turns off the lights.” With their
+      actions, the EU and the member states that support such raids are losing any remaining
+      credibility as reasonable discussion partners. The individuals involved run the
+      risk of being arrested throughout the Global South and extradited to Russia—as
+      thieves of billions of euros. In our thought experiment, the Russians are applying
+      the same standards that the West has been applying for years; this time, however,
+      it is not the Russians but the Europeans who are affected. The result: the last
+      one turns off the lights. Peter Hanseler is a geopolitical analyst who reports
+      from Moscow. Peter was born in Zurich, Switzerland. He holds a J.D. (lic. iur.)
+      and Ph.D. (Dr. iur.) from Zurich University Law School and Master in International
+      Commercial Law (LL.M.) from Georgetown University Law School, Washington, D.C.
+      He has lived in the US, Spain, Switzerland, Thailand and Russia. Peter is independent,
+      his work is not supported by government or private entities. Peter’s website Forumgeopolitica.com
+      publishes its content in English, Russian, German and French.'
+    one_sentence_summary: The article discusses the significant financial impact of
+      Western sanctions on Russia, highlighting that around $300 billion in Russian
+      state assets have been frozen globally, and speculates on the potential for Russia
+      to retaliate against these actions.
+    paragraph_summary: The article by Peter Hanseler discusses the significant financial
+      impact of Western sanctions on Russia, highlighting that approximately $300 billion
+      in Russian state assets have been frozen globally, with a substantial portion
+      held in Europe. It outlines a controversial plan by the EU Commission to utilize
+      these frozen assets for a "reparation loan" to Ukraine, which would allow Ukraine
+      to finance its war efforts against Russia while technically keeping the funds
+      as Russian property until reparations are made post-conflict. The article criticizes
+      this approach, particularly the remarks of German politician Merz, suggesting
+      that it reflects a misguided arrogance and could be seen as one of the largest
+      acts of geopolitical theft in history, raising questions about the legality and
+      morality of such actions.
+    published: '2025-12-23T08:32:16+00:00'
+  - title: What Russia Could Do
+    url: https://sonar21.com/what-russia-could-do/
+    text: 'For years, Russia, Russians, and people with ties to Russia have been victims
+      of an unprecedented raid by the West. What if Russia turned the tables? – A thought
+      game. By Peter Hanseler via ForumGeopolitica.com The bear can certainly defend
+      itself against hyenas. It Doesn’t Get Any More Criminal Than This The Numbers
+      According to various institutions, including the European Commission, around $300
+      billion (€257 billion) in Russian state assets have been frozen worldwide. This
+      figure does not include frozen assets belonging to Russian oligarchs. Of this,
+      €210 billion is in Europe, and €185 billion of that is with Euroclear. Approximately
+      €176 billion of Russian assets held by Euroclear have now been converted into
+      cash, and the remaining securities, worth €9 billion, will mature in 2026 and
+      2027. A Major Setback for Merz and von der Leyen Reparations or “ Reparations
+      Credit” Model of the EU Commission By December 18, the EU Commission intended
+      to use the Russian Central Bank’s assets frozen in the EU for a special loan instrument
+      (“reparation loan”): According to this plan, these funds would supposedly remain
+      formally Russian property, but would be used to grant Ukraine long-term loans,
+      which Ukraine would use to wage war against Russia and finance its government
+      spending. Russia would only get these loans back once it had made reparations
+      payments to Ukraine after the end of the war. In this way, the EU is attempting
+      to avoid direct expropriation and circumvent legal disputes. Merz threw his entire
+      ( feather- )weight behind the plan, thinking that, in typical German arrogant
+      and haughty fashion, he could force his European colleagues to embark on the biggest
+      heist in recent geopolitical history. Among other things, he made the following
+      statement, which bordered on cocky, hubris, and delusion: “To be very clear and
+      very explicit here: we are not doing this to prolong the war. On the contrary,
+      we are doing this to end this war as quickly as possible, ladies and gentlemen.
+      Because this sends a clear signal to Moscow that continuing this war is pointless
+      for Moscow .” Friedrich Merz, December 15, 2025 One recalls with horror Adolf
+      Hitler’s speech on November 2, 1942, in Munich’s Löwenbräukeller, where he invoked
+      the impending victory in Stalingrad. Twenty days later, the 6th Army was completely
+      surrounded and lost in the course of Operation Uranus . And that’s exactly what
+      happened to Merz: he put all his eggs in one basket—and lost dismally. This is
+      now being reported by German newspapers—practically in unison. His X-message after
+      losing the battle, in which he described the complete defeat as a victory, “ Financial
+      package is in place—as I demanded ,” is unbeatable in its pitifulness. Das Finanzpaket
+      für die Ukraine steht: ein zinsloser Kredit über 90 Milliarden Euro, wie von mir
+      gefordert. Ein klares Signal an Putin aus Europa. Der Krieg wird sich nicht lohnen. Wir
+      lassen die russischen Vermögenswerte eingefroren, bis Russland die Ukraine entschädigt
+      hat. — Bundeskanzler Friedrich Merz (@bundeskanzler) December 19, 2025 “The financial
+      package for Ukraine is ready: an interest-free loan of €90 billion, as I requested.
+      A clear signal to Putin from Europe. The war will not be worth it. We will keep
+      Russian assets frozen until Russia has compensated Ukraine.” Friedrich Merz, December
+      19, 2025 History buffs will immediately recall Joseph Goebbels’ speech at the
+      Sportpalast on February 18, 1943, when he screamed after the Germans’ biggest
+      defeat in World War II up to that point: “Do you want total war?” Joseph Goebbels,
+      February 18, 1943 15,000 spectators filled Berlin’s Sportpalast to capacity when
+      Propaganda Minister Joseph Goebbels addressed them on February 18, 1943 – Photo:
+      Das Bundesarchiv / Ernst Schwahn We can look forward to the next bon mot from
+      the new war chancellor, because this defeat not only weakens him in Germany, but
+      has also significantly reduced his influence in Europe. Concluded Agreement is
+      also Illegal On the night of December 19, a compromise was reached that only appears
+      non-criminal at first glance: Russian state assets were used indirectly, but still:
+      specifically, the Commission will raise €90 billion on the capital market and
+      pass it on to Ukraine as an interest-free loan. According to the agreement, Ukraine
+      must repay the loan as soon as it has received reparations from Russia for the
+      damage caused by the war of aggression. If Russia does not pay—which I believe
+      is certain, because it is the losers and not the winners of a war who pay reparations—the
+      EU reserves “the right” to use the frozen funds to repay the loan. This act of
+      desperation was preceded by two criminal acts: the permanent freezing of Russian
+      assets and the theft of the interest that had already accrued on them. Less than
+      Half Goes to Ukraine – Brussels Helps Itself First The G7 countries (the US, Canada,
+      Japan, UK, Germany, France, Italy) agreed at the G7 summit in Apulia in June 2024
+      to provide Ukraine with a joint loan of up to USD 50 billion. These loans were
+      to be serviced and repaid over time with income from the “ extraordinary earnings
+      ” of the frozen Russian state assets – in other words, with the profits from the
+      “withheld” Russian central bank reserves. Now it seems that these ladies and gentlemen
+      are helping themselves first in order to recoup this loan. Of the 90 billion,
+      50 billion will not go to Ukraine at all. Of the remaining 40 billion, a large
+      part will probably flow into the German and American arms industries, and the
+      remainder will then probably be divided among Zelensky and his cronies. Permanent
+      Freezing Already a Crime On December 12, Russian assets were permanently frozen
+      by the EU. There was never any legal basis for freezing the Russian central bank’s
+      foreign assets on February 26, 2026. This has never happened before in economic
+      history—and for good reason. Our current system is based on the various central
+      banks holding different foreign currencies in order to be able to settle the costs
+      of an economy incurred in different currencies. The ladies and gentlemen in Brussels
+      seem too stupid to be able to assess the consequences of their actions, or who
+      would deposit money with a thief? Apart from this principle that central bank
+      funds are sacrosanct, Brussels is also violating its own EU law with the permanent
+      freeze. The indefinite freeze, which is tantamount to confiscation, would not
+      have been enforceable under current EU rules, as Hungary, Italy, Malta, Belgium,
+      Czechia, Slovakia, and Bulgaria would have refused to approve this theft. The
+      gnomes in Brussels therefore conjured up an “emergency law” out of thin air for
+      this purpose, invoking Article 122 of the Treaty on the Functioning of the European
+      Union . It reads as follows: 1. Without prejudice to any other procedures provided
+      for in the Treaties, the Council, on a proposal from the Commission, may decide,
+      in a spirit of solidarity between Member States, upon the measures appropriate
+      to the economic situation, in particular if severe difficulties arise in the supply
+      of certain products, notably in the area of energy. 2. Where a Member State is
+      in difficulties or is seriously threatened with severe difficulties caused by
+      natural disasters or exceptional occurrences beyond its control, the Council,
+      on a proposal from the Commission, may grant, under certain conditions, Union
+      financial assistance to the Member State concerned. The President of the Council
+      shall inform the European Parliament of the decision taken. Source: Eurolex Paragraph
+      1 of Article 122 gives the Council, on a proposal from the Commission, the right
+      to come to the aid of a member state in the event of supply shortages, with the
+      law expressly mentioning the energy sector. Paragraph 2 of the emergency clause
+      122 refers to natural disasters and exceptional occurrences in a member state,
+      where the Council, on a proposal from the Commission, may grant financial assistance
+      to a member state. The upcoming robbery cannot in any way be subsumed under Article
+      122 invoked by Brussels, i.e., the facts do not fit the provisions of the law.
+      It fails simply because this emergency law was legislated for the assistance of
+      member states—and exclusively so. Ukraine is not a member of the EU. Therefore,
+      invoking Article 122 is complete legal nonsense. The ladies and gentlemen in Brussels,
+      Berlin, Paris—and probably also in London—who are seeking to legalize this raid
+      are thus not only violating international legal principles, the violation of which
+      makes the functioning of the international banking system impossible, but are
+      also trampling on the very law that forms the basis of the entire EU and its member
+      states. One cannot help but feel that a few criminals— nota bene , unelected ones—are
+      abusing the EU institution to carry out raids against sovereign states, simply
+      brushing aside the opinions of those members who want to abide by the law. From
+      a legal perspective, we find ourselves back in the dark 1930s in Germany, when
+      Dr. Hans Frank made the following remark at the German Lawyers’ Congress in 1933:
+      “ Law is that which is useful to the German people.” Hans Frank, 1933 Incidentally,
+      Hans Frank , who served as Governor-General of Poland during World War II, was
+      executed in Nuremberg on October 16, 1946. Apart from the fact that this behavior
+      on the part of an institution of a confederation of states or some of its members
+      is appalling from a legal and ethical point of view, these people are jeopardizing
+      the very existence of the EU itself and those member states that implement such
+      actions as principal and accessory parties, promote them as accomplices, or tacitly
+      accept them as a silent group. I refer here to an essay by our author Tony Deden
+      , who wrote an article for us in July about the reasons for the rise and fall
+      of nations (“ Why Do Nations Rise and Fall: An Overview ”). Among other things,
+      he considers the rule of law and the unconditional protection of property to be
+      essential for a nation to flourish. If these – and other – essentials are not
+      present in a society, nations perish. The Crime has Already Been Completed We
+      have thus heard so far that the freeze of February 26, 2022, was already illegal,
+      and that the indefinite freeze of December 12, 2025, amounts to confiscation,
+      whereby the type of decision—the invocation of Article 122—is also illegal within
+      the EU. Many people are unaware that the transfer of billions in proceeds from
+      frozen Russian assets , which has been going on since September 2024, has already
+      completed the theft. A simple example: if you deposit 1 million euros in your
+      account and at the end of the year you are credited with 50,000 euros in interest,
+      and your banker helps himself and transfers this to his account, this is outright
+      theft (in the case of the banker, who has contractual access to the funds, it
+      is embezzlement). This is probably the case in every legal system. The nitwits
+      in Brussels don’t even understand the concept of property and the principle that
+      the fruits of property belong to the owner. What Russia Could Do BRICS-Pol – as
+      a Counterpart to Interpol – Criminal Charges Against Responsible Politicians Interpol,
+      with its 196 member countries, is supposed to improve international cooperation
+      between national police organizations. However, like so many other organizations
+      in the Collective West, it has degenerated into a political body. This became
+      abundantly clear in 2018. Bill Browder was arrested in Spain in May 2018 on the
+      basis of an Interpol arrest warrant issued by Russia, but was quickly released
+      because Interpol classified the arrest warrant as politically motivated. In our
+      article “ Bill Browder: The so-called ‘human rights activist’ – who himself became
+      rich through shady deals ,” we proved that Browder is nothing more than a criminal
+      tax evader who was sentenced to nine years in prison in Russia for his crimes.
+      Interpol has thus become a worthless tool for Russia—and probably for the entire
+      Global South—unsuitable for internationally searching for criminals and handing
+      them over to the competent national authorities. The members, partners, and candidates
+      of BRICS and SCO, the two main organizations of the Global South, should establish
+      a parallel organization to Interpol based on criminal law rather than politics,
+      so that cooperation between national police organizations in the Global South
+      can function more effectively. Interpol’s systems would work if politicians did
+      not replace criminal law with politics. Criminals like Bill Browder feel safe
+      today because he is effectively not being prosecuted for his crimes as he is protected
+      for political reasons – it is not a desirable situation for a society when criminals
+      are not prosecuted. In any case, the Russian state should, without wasting any
+      time, instruct its competent public prosecutors to initiate criminal proceedings
+      against all those European politicians who are involved in the heist because,
+      as we have seen above, this is no longer a matter of different interpretations
+      of the law; these people are criminals and should be treated as such. Furthermore,
+      one should consider that the current efforts of Merz & Co. are the final step
+      in stealing all of the capital. Billions (interest on the capital) have already
+      been stolen. Parts of the crime have therefore already been completed. I assume
+      that BRICS-Pol, in which countries of the Global South will participate, is already
+      being discussed behind closed doors. If this is implemented—and I have no doubt
+      that it will be—these ladies and gentlemen will only be able to move around within
+      the moribund EU area. Outside this declining zone of the world, they will run
+      the risk of being arrested and extradited to Russia. Civil Actions Against All
+      Who Collaborated The Russian Central Bank has already filed a lawsuit against
+      Euroclear in the Arbitration Court in Moscow for an amount of 230 billion US dollars.
+      A preliminary court date has been set for January 16, 2026. This will only be
+      the beginning, because all institutions—the EU, every EU member—as well as every
+      person involved in the matter should be sued, and then these judgments should
+      be enforced wherever the corresponding assets are located. One could even take
+      this a step further if the same standards for expropriation were applied as the
+      West has done with Russia. It was enough for a wealthy Russian to be seen in a
+      photo with President Putin. Simply because of a photo with President Putin, these
+      people had everything taken away from them; they were stripped of their rights
+      and expropriated (specific cases here , here , and here ). If the same standards
+      are applied as the West did, this will be a feast for the Russians. Step 1: Together
+      in a photo, for example with the criminal chancellor, documenting their “closeness.”
+      The VCI Presidium with the Federal Chancellor. Front row, from left: VCI Chief
+      Executive Wolfgang Große Entrup; VCI Vice President Christian Hartel, Wacker Chemie;
+      Sabine Herold, Delo Industrie Klebstoffe; VCI President Markus Steilemann, Covestro;
+      Federal Chancellor Friedrich Merz; VCI Vice President Carsten Knobel, Henkel;
+      Julia S. Schlenz, Dow Europe. Back row, from left: Daniel Steiners, Roche Pharma;
+      Matthias Zachert, Lanxess; VCI Vice President Markus Kamieth , BASF; Bill Anderson,
+      Bayer; Reinhold von Eben-Worlée, Worlée-Chemie; Hubertus von Baumbach, C.H. Boehringer
+      Sohn; VCI Treasurer Henrik Follmann, Follmann Chemie; Martin Babilas, Altana.
+      (Other members of the Executive Committee not pictured are: Belén Garijo, Merck;
+      Christian Kullmann, Evonik) Let’s pick Mr. Markus Kamieth , Chairman of the Board
+      of Executive Directors at BASF, as an example from this group. Step 2: This sufficiently
+      proves the criminal energy of Mr. Kamieth and thus also of his employer, BASF,
+      and therefore all private assets of Mr. Kamieth and all assets of BASF are fair
+      game, i.e., ready for looting. Many readers will now argue that this is unfair
+      and unworkable, but in this thought experiment, we are merely applying the same
+      standards that the EU, Switzerland, and the US have applied to Russia. We are
+      confident that all individuals and companies affected would have no objection
+      to a course of action that they themselves have employed. Admittedly, in this
+      scenario, it is preferable to be the one taking action rather than the one on
+      the receiving end. Step 3: Jetzt sucht Russland in Russland selbst und in jenen
+      Ländern, welche die Entscheide vollstrecken werden, nach Vermögenswerten, in unserem
+      Beispiel von BASF. Eine Perle liegt in China, wo BASF 10 Milliarden Euro investiert
+      hat. The Verbund plant in Zhanjiang is set to become BASF’s third-largest site
+      worldwide – Source: Die Welt If Russia were to proceed in the same manner as the
+      West has been doing for years, the Russian bear would be able to gorge itself
+      for years to come, as it would be able to choose its own honey pots. Conclusion
+      The Europeans are turning out to be foolish, arrogant, and short-sighted criminals—led
+      by Friedrich Merz and Frau von der Leyan, who nevertheless tried to sell his complete
+      defeat last week as a victory. “The last one turns off the lights.” With their
+      actions, the EU and the member states that support such raids are losing any remaining
+      credibility as reasonable discussion partners. The individuals involved run the
+      risk of being arrested throughout the Global South and extradited to Russia—as
+      thieves of billions of euros. In our thought experiment, the Russians are applying
+      the same standards that the West has been applying for years; this time, however,
+      it is not the Russians but the Europeans who are affected. The result: the last
+      one turns off the lights. Peter Hanseler is a geopolitical analyst who reports
+      from Moscow. Peter was born in Zurich, Switzerland. He holds a J.D. (lic. iur.)
+      and Ph.D. (Dr. iur.) from Zurich University Law School and Master in International
+      Commercial Law (LL.M.) from Georgetown University Law School, Washington, D.C.
+      He has lived in the US, Spain, Switzerland, Thailand and Russia. Peter is independent,
+      his work is not supported by government or private entities. Peter’s website Forumgeopolitica.com
+      publishes its content in English, Russian, German and French.'
+    one_sentence_summary: The article discusses the significant financial impact of
+      Western sanctions on Russia, highlighting that around $300 billion in Russian
+      state assets have been frozen globally, and speculates on the potential for Russia
+      to retaliate against these actions.
+    paragraph_summary: The article by Peter Hanseler discusses the significant financial
+      impact of Western sanctions on Russia, highlighting that approximately $300 billion
+      in Russian state assets have been frozen globally, with a substantial portion
+      held in Europe. It outlines a controversial plan by the EU Commission to utilize
+      these frozen assets for a "reparation loan" to Ukraine, which would allow Ukraine
+      to finance its war efforts against Russia while technically keeping the funds
+      as Russian property until reparations are made post-conflict. The article criticizes
+      this approach, particularly the remarks of German politician Merz, suggesting
+      that it reflects a misguided arrogance and could be seen as one of the largest
+      acts of geopolitical theft in history, raising questions about the legality and
+      morality of such actions.
+    published: '2025-12-23T08:32:16+00:00'
+  - title: No Treaty, No Deal (With Apologies to Bob Marley)
+    url: https://sonar21.com/no-treaty-no-deal-with-apologies-to-bob-marley/
+    text: 'When I started writing this piece I was hearing Bob Marley, in my head, singing
+      No Woman, No Cry … Hence the title. Many in the West, especially among US politicians
+      and the US-mainstream media, harbor the fantasy that there will be a negotiated
+      settlement to the war in Ukraine that conforms with the 28-point plan that was
+      leaked to the press more than a month ago. Let’s assume for the sake of argument
+      that Donald Trump is serious about reaching a deal with Russia that meets the
+      demands that President Putin outlined last Friday during his end of the year press
+      conference (see here, Vladimir Putin Leaves No Doubt About Russia’s Demands to
+      End the War in Ukraine… Do Donald Trump and Steve Witkoff Understand? ). I believe
+      there is one demand that Putin did not mention and, to my knowledge, has not stated
+      in public… The deal with the US must be a treaty that is ratified by the US Senate.
+      Unless the agreement is concluded as a treaty, any promise by Donald Trump comes
+      with an expiration date and will be ignored or rejected by US politicians and
+      the Deep State. Why do I say that? Let’s review what Senator Lindsey Graham said
+      on Sunday on NBC’s Meet the Press where he discussed ongoing efforts to negotiate
+      a peace agreement between Russia and Ukraine. He expressed support for a deal
+      but emphasized strong conditions and consequences if Russia rejects it. Graham
+      said that he wants a peace deal “that would prevent a third invasion” of Ukraine
+      by Russia (referring to the 2014 annexation of Crimea and the 2022 full-scale
+      invasion). He even conceded that not all Russian-occupied territory would be returned:
+      “We’re not going to evict every Russian out of Ukraine, I understand that.” But
+      he called for robust security guarantees for Ukraine, including potential European
+      troops on the ground and US commitments. That is a deal breaker for the Russians.
+      Graham warned that Russian President Vladimir Putin is rebuffing negotiation efforts
+      and may continue seizing territory (e.g., Donbas) unless pressure increases. He
+      said the US risks “overestimating” Putin’s desire for peace. Graham was sending
+      a not so subtle warning to his golfing buddy, Donald Trump. Graham then said that
+      if Putin refuses the current proposal, President Trump must “dramatically change
+      the game” by escalating support for Ukraine, including providing Tomahawk cruise
+      missiles to strike Russian drone and missile factories inside Russia. He stated
+      he would “go all in” in that scenario. Graham is assuming that the viable proposal
+      is the 28-point plan, or some modification of it, but based on what President
+      Putin said on Friday that plan is dead-on-arrival. Retired four-star General Jack
+      Keane, a Fox News senior strategic analyst, appeared on Sunday Morning Futures
+      with Maria Bartiromo , and echoed what Graham said on NBC. Keane emphasized that
+      it remains unclear where Russian President Vladimir Putin stands on the negotiations.
+      He expressed caution about Putin’s willingness to make meaningful concessions
+      or commit to a lasting peace deal. Graham and Keane’s emphasis on robust security
+      guarantees is nothing more than a euphemism for buying Ukraine more time to rearm
+      and continue the war with Russia. Their view of security guarantees entails six
+      elements: NATO Article 5-like Mutual Defense Pledge : A core proposal in recent
+      U.S.-led talks: Commitments modeled on NATO’s Article 5, where an attack on Ukraine
+      is treated as an attack on guarantors, triggering a military response. U.S. officials
+      have described this as “Article 5-like” with explicit US involvement, making Russia
+      doubt impunity for renewed invasion. This could be ratified by Congress for durability.
+      Deployment of Multinational (Primarily European) Troops in Ukraine : A European-led
+      “multinational force” (e.g., Coalition of the Willing) operating inside Ukraine
+      post-ceasefire, including peacekeeping, monitoring borders, and deterring aggression.
+      Supported by US intelligence/logistics but without permanent US ground troops
+      (which leaves open the possibility of temporary deployments). Sen. Lindsey Graham
+      has explicitly called for “European troops on the ground” to prevent a “third
+      invasion.” Long-Term Military Aid and Rebuilding Ukraine’s Forces : Sustained
+      weapons supplies, training, and a strengthened Ukrainian military (e.g., peacetime
+      force of ~800,000). Includes rebuilding defense industries and providing advanced
+      systems like air/missile defenses to protect against Russian strikes. Enhanced
+      Intelligence Sharing and Air Defense Support : Increased US intelligence access
+      and robust allied air defenses (ground- or air-based) inside Ukraine. Proposals
+      include rotating allied aircraft patrols (similar to NATO’s Baltic Air Policing)
+      to secure skies and deter violations. Legally Binding Multilateral or Bilateral
+      Treaties : Treaties specifying automatic responses (military assistance, sanctions
+      reinstatement) to aggression. Unlike vague memoranda, these are ratified and enforceable,
+      potentially involving oversight/deconfliction mechanisms. Economic and Sanctions
+      Deterrents : Automatic reimposition of global sanctions, withdrawal of any territorial
+      recognitions, or other benefits if Russia breaches the deal. Tied to monitoring
+      mechanisms for ceasefire compliance. Russia would welcome point five, but only
+      on the terms outlined by President Putin last Friday. The rest of the security
+      guarantees the political leaders in the West want will be, or have been, completely
+      rejected by Russia. My point is simple… If Trump reaches a deal with Putin that
+      concedes to Russia’s demands first presented by Putin on 14 June 2024, it will
+      be met with staunch opposition in the US and in Europe. Regardless of what Trump
+      promises to Putin, the agreement will carry no weight unless ratified by the US
+      Senate as a treaty. At this point I do not believe that there two-thirds of the
+      US Senators present would vote in favor of such a treaty. I continue to believe
+      that while Putin will continue to try to normalize relations with the US — at
+      least as long as Trump is in office — he also understands that Russia’s only security
+      guarantee is the military defeat of Ukraine and, by extension, Ukraine’s NATO
+      masters. In addition to my regular Monday chats with Nima, who was accompanied
+      by a sartorially splendid Professor Marandi, and with Judge Napolitano, I posted
+      an interview I did last Thursday with my friend, Alastair Crooke: I thank you
+      for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: The article discusses the unrealistic expectations among some
+      Western politicians and media regarding a negotiated settlement to the Ukraine
+      war, emphasizing that any agreement with Russia must be ratified by the US Senate
+      to be binding.
+    paragraph_summary: The article discusses the unrealistic expectations among some
+      Western politicians and media regarding a negotiated settlement to the war in
+      Ukraine, particularly in light of a leaked 28-point plan. It suggests that for
+      any agreement to be meaningful, it must be ratified as a treaty by the US Senate,
+      as any non-treaty promise from figures like Donald Trump would lack long-term
+      validity. The author references Senator Lindsey Graham's comments on the need
+      for strong conditions in any peace deal, including security guarantees for Ukraine
+      and the presence of European troops, which are likely to be unacceptable to Russia.
+      Ultimately, the article conveys skepticism about the feasibility of a negotiated
+      resolution given the current political dynamics and Russia's ongoing territorial
+      ambitions.
+    published: '2025-12-23T04:35:42+00:00'
+  - title: No Treaty, No Deal (With Apologies to Bob Marley)
+    url: https://sonar21.com/no-treaty-no-deal-with-apologies-to-bob-marley/
+    text: 'When I started writing this piece I was hearing Bob Marley, in my head, singing
+      No Woman, No Cry … Hence the title. Many in the West, especially among US politicians
+      and the US-mainstream media, harbor the fantasy that there will be a negotiated
+      settlement to the war in Ukraine that conforms with the 28-point plan that was
+      leaked to the press more than a month ago. Let’s assume for the sake of argument
+      that Donald Trump is serious about reaching a deal with Russia that meets the
+      demands that President Putin outlined last Friday during his end of the year press
+      conference (see here, Vladimir Putin Leaves No Doubt About Russia’s Demands to
+      End the War in Ukraine… Do Donald Trump and Steve Witkoff Understand? ). I believe
+      there is one demand that Putin did not mention and, to my knowledge, has not stated
+      in public… The deal with the US must be a treaty that is ratified by the US Senate.
+      Unless the agreement is concluded as a treaty, any promise by Donald Trump comes
+      with an expiration date and will be ignored or rejected by US politicians and
+      the Deep State. Why do I say that? Let’s review what Senator Lindsey Graham said
+      on Sunday on NBC’s Meet the Press where he discussed ongoing efforts to negotiate
+      a peace agreement between Russia and Ukraine. He expressed support for a deal
+      but emphasized strong conditions and consequences if Russia rejects it. Graham
+      said that he wants a peace deal “that would prevent a third invasion” of Ukraine
+      by Russia (referring to the 2014 annexation of Crimea and the 2022 full-scale
+      invasion). He even conceded that not all Russian-occupied territory would be returned:
+      “We’re not going to evict every Russian out of Ukraine, I understand that.” But
+      he called for robust security guarantees for Ukraine, including potential European
+      troops on the ground and US commitments. That is a deal breaker for the Russians.
+      Graham warned that Russian President Vladimir Putin is rebuffing negotiation efforts
+      and may continue seizing territory (e.g., Donbas) unless pressure increases. He
+      said the US risks “overestimating” Putin’s desire for peace. Graham was sending
+      a not so subtle warning to his golfing buddy, Donald Trump. Graham then said that
+      if Putin refuses the current proposal, President Trump must “dramatically change
+      the game” by escalating support for Ukraine, including providing Tomahawk cruise
+      missiles to strike Russian drone and missile factories inside Russia. He stated
+      he would “go all in” in that scenario. Graham is assuming that the viable proposal
+      is the 28-point plan, or some modification of it, but based on what President
+      Putin said on Friday that plan is dead-on-arrival. Retired four-star General Jack
+      Keane, a Fox News senior strategic analyst, appeared on Sunday Morning Futures
+      with Maria Bartiromo , and echoed what Graham said on NBC. Keane emphasized that
+      it remains unclear where Russian President Vladimir Putin stands on the negotiations.
+      He expressed caution about Putin’s willingness to make meaningful concessions
+      or commit to a lasting peace deal. Graham and Keane’s emphasis on robust security
+      guarantees is nothing more than a euphemism for buying Ukraine more time to rearm
+      and continue the war with Russia. Their view of security guarantees entails six
+      elements: NATO Article 5-like Mutual Defense Pledge : A core proposal in recent
+      U.S.-led talks: Commitments modeled on NATO’s Article 5, where an attack on Ukraine
+      is treated as an attack on guarantors, triggering a military response. U.S. officials
+      have described this as “Article 5-like” with explicit US involvement, making Russia
+      doubt impunity for renewed invasion. This could be ratified by Congress for durability.
+      Deployment of Multinational (Primarily European) Troops in Ukraine : A European-led
+      “multinational force” (e.g., Coalition of the Willing) operating inside Ukraine
+      post-ceasefire, including peacekeeping, monitoring borders, and deterring aggression.
+      Supported by US intelligence/logistics but without permanent US ground troops
+      (which leaves open the possibility of temporary deployments). Sen. Lindsey Graham
+      has explicitly called for “European troops on the ground” to prevent a “third
+      invasion.” Long-Term Military Aid and Rebuilding Ukraine’s Forces : Sustained
+      weapons supplies, training, and a strengthened Ukrainian military (e.g., peacetime
+      force of ~800,000). Includes rebuilding defense industries and providing advanced
+      systems like air/missile defenses to protect against Russian strikes. Enhanced
+      Intelligence Sharing and Air Defense Support : Increased US intelligence access
+      and robust allied air defenses (ground- or air-based) inside Ukraine. Proposals
+      include rotating allied aircraft patrols (similar to NATO’s Baltic Air Policing)
+      to secure skies and deter violations. Legally Binding Multilateral or Bilateral
+      Treaties : Treaties specifying automatic responses (military assistance, sanctions
+      reinstatement) to aggression. Unlike vague memoranda, these are ratified and enforceable,
+      potentially involving oversight/deconfliction mechanisms. Economic and Sanctions
+      Deterrents : Automatic reimposition of global sanctions, withdrawal of any territorial
+      recognitions, or other benefits if Russia breaches the deal. Tied to monitoring
+      mechanisms for ceasefire compliance. Russia would welcome point five, but only
+      on the terms outlined by President Putin last Friday. The rest of the security
+      guarantees the political leaders in the West want will be, or have been, completely
+      rejected by Russia. My point is simple… If Trump reaches a deal with Putin that
+      concedes to Russia’s demands first presented by Putin on 14 June 2024, it will
+      be met with staunch opposition in the US and in Europe. Regardless of what Trump
+      promises to Putin, the agreement will carry no weight unless ratified by the US
+      Senate as a treaty. At this point I do not believe that there two-thirds of the
+      US Senators present would vote in favor of such a treaty. I continue to believe
+      that while Putin will continue to try to normalize relations with the US — at
+      least as long as Trump is in office — he also understands that Russia’s only security
+      guarantee is the military defeat of Ukraine and, by extension, Ukraine’s NATO
+      masters. In addition to my regular Monday chats with Nima, who was accompanied
+      by a sartorially splendid Professor Marandi, and with Judge Napolitano, I posted
+      an interview I did last Thursday with my friend, Alastair Crooke: I thank you
+      for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: The article discusses the unrealistic expectations among some
+      Western politicians and media regarding a negotiated settlement to the Ukraine
+      war, emphasizing that any agreement with Russia must be ratified by the US Senate
+      to be binding.
+    paragraph_summary: The article discusses the unrealistic expectations among some
+      Western politicians and media regarding a negotiated settlement to the war in
+      Ukraine, particularly in light of a leaked 28-point plan. It suggests that for
+      any agreement to be meaningful, it must be ratified as a treaty by the US Senate,
+      as any non-treaty promise from figures like Donald Trump would lack long-term
+      validity. The author references Senator Lindsey Graham's comments on the need
+      for strong conditions in any peace deal, including security guarantees for Ukraine
+      and the presence of European troops, which are likely to be unacceptable to Russia.
+      Ultimately, the article conveys skepticism about the feasibility of a negotiated
+      resolution given the current political dynamics and Russia's ongoing territorial
+      ambitions.
+    published: '2025-12-23T04:35:42+00:00'
+  - title: NY Times Weirdly Publishing a Bizarre Propaganda Piece About Putin
+    url: https://sonar21.com/ny-times-weirdly-publishing-a-bizarre-propaganda-piece-about-putin/
+    text: 'Dmitri Kozak When I saw this NY Times headline late Sunday evening — i.e.,
+      The Putin Confidant Who Pushed Back Against the War — it caught my attention because
+      this is something I have neither seen nor heard in my seven trips to Russia since
+      December 2023. Then I read the story and the male-bovine-excrement alarm started
+      sounding (or should I say, stinking ). Here are the salient portions of this odoriferous
+      article: On the second day of Russia’s invasion of Ukraine, one of President Vladimir
+      V. Putin’s closest aides refused to follow his orders. Mr. Putin had told the
+      aide, Dmitri N. Kozak, to demand Ukraine’s surrender, according to three people
+      close to Mr. Kozak. Mr. Kozak declined, insisting that he did not know what the
+      Russian leader was trying to accomplish with his invasion. As the call grew heated,
+      Mr. Kozak told Mr. Putin that he was ready to be arrested or shot for his refusal.
+      Only later did Mr. Kozak learn that Mr. Putin had put that call in 2022 on speakerphone,
+      the people said, turning the senior officials in the president’s office into witnesses
+      to a rare moment of insubordination. Mr. Kozak was a lone voice of dissent in
+      Mr. Putin’s inner circle, a small crack in his iron grip on power. With so few
+      people willing to challenge him, Mr. Putin has exerted near-total control over
+      Russia’s prosecution of the war. Oh my God… Insurrection!!! I read on with trepidation,
+      expecting to read how Mr. Kozak was arrested and imprisoned… or worse yet, tossed
+      from one of the onion-shaped towers of St. Basil’s Cathedral in Red Square (aka
+      Cathedral of the Intercession of the Most Holy Theotokos on the Moat). How could
+      it be otherwise? Vladimir Putin is a vicious tyrant who tolerates no dissent,
+      or so we are told regularly in the West. Nope. Guess what happened to Mr. Kozak,
+      who reportedly refused to carry out a Putin order? Mr. Kozak, 67, resigned as
+      a deputy chief of staff to Mr. Putin this September, a month after The New York
+      Times reported on his private criticism of the war . In interviews since then,
+      six Russians close to Mr. Kozak described the transformation of a 30-year Putin
+      confidant into a locus of antiwar sentiment in the Russian elite. Let me get this
+      straight… 44 months after Kozak allegedly refuses a direct order from Putin, one
+      that is witnessed by several senior Russian officials, Kozak is not fired immediately,
+      he is not arrested, he is not sent to Siberia, and he is not subjected to torture.
+      He keeps his job as deputy chief of staff and quietly retires in September 2025
+      at the age of 67, which is not an uncommon age for retirement in Russia. What
+      is wrong with this picture? I don’t know if the NY Times former Moscow bureau
+      chief, Anton Troianovski , intended to obliterate the meme that Putin is a psychopathic
+      killer who tolerates no dissent, but that is exactly what she did. Since he is
+      identified as former , was this article just a desperate attempt to pander to
+      the West in hopes of securing a new sinecure? Perhaps, but that does not explain
+      why the editors sitting in NY City thought it a dandy idea to publish a story
+      that is so contradictory. I think the following paragraph from the piece reveals
+      the reason it was published: In making his disagreements with the president known
+      within the ruling elite, Mr. Kozak is giving voice to quiet dissatisfaction felt
+      by many in Moscow’s business and cultural class, and even by other government
+      officials, the six confidants say. This year, that dismay has been exacerbated
+      by Mr. Putin’s refusal to end the war even on the favorable terms being offered
+      by President Trump. This is dishonest reporting of the worst kind. It is intended
+      to persuade the Western audience that still thinks the NY Time s is worth a subscription
+      to believe that Russian support for the war in Ukraine is fading and we need only
+      to keep the war going because, one of these days, Putin will fail and Russia will
+      surrender to the West. During October and November of this year I interviewed
+      more than 40 prominent Russians, which included representatives of different political
+      parties, prominent academics and journalists, military officers and soldiers,
+      and senior members of the Duma… I never heard anything of the dissent claimed
+      by Mr. Troianovski and attributed to Mr. Kozak. To the contrary, several expressed
+      frustration that Putin was not hitting Ukraine hard enough. What do you think?
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: Dmitri Kozak, a close aide to President Putin, reportedly
+      resisted orders to demand Ukraine's surrender during the early days of the invasion,
+      expressing confusion over Putin's intentions and stating he was willing to face
+      severe consequences for his defiance.
+    paragraph_summary: The New York Times article highlights a rare moment of dissent
+      from Dmitri Kozak, a close aide to President Vladimir Putin, who reportedly refused
+      to demand Ukraine's surrender during the early days of Russia's invasion in 2022.
+      Despite the heated exchange where Kozak expressed his willingness to face severe
+      consequences for his insubordination, he ultimately faced no repercussions and
+      continued to serve in his role until his resignation in September 2023. This incident,
+      while portrayed as a significant challenge to Putin's authority, raises skepticism
+      about the extent of dissent within his inner circle, as Kozak's eventual departure
+      did not lead to any dramatic fallout, contradicting the narrative of Putin's absolute
+      control over the war effort.
+    published: '2025-12-22T07:14:13+00:00'
+  - title: NY Times Weirdly Publishing a Bizarre Propaganda Piece About Putin
+    url: https://sonar21.com/ny-times-weirdly-publishing-a-bizarre-propaganda-piece-about-putin/
+    text: 'Dmitri Kozak When I saw this NY Times headline late Sunday evening — i.e.,
+      The Putin Confidant Who Pushed Back Against the War — it caught my attention because
+      this is something I have neither seen nor heard in my seven trips to Russia since
+      December 2023. Then I read the story and the male-bovine-excrement alarm started
+      sounding (or should I say, stinking ). Here are the salient portions of this odoriferous
+      article: On the second day of Russia’s invasion of Ukraine, one of President Vladimir
+      V. Putin’s closest aides refused to follow his orders. Mr. Putin had told the
+      aide, Dmitri N. Kozak, to demand Ukraine’s surrender, according to three people
+      close to Mr. Kozak. Mr. Kozak declined, insisting that he did not know what the
+      Russian leader was trying to accomplish with his invasion. As the call grew heated,
+      Mr. Kozak told Mr. Putin that he was ready to be arrested or shot for his refusal.
+      Only later did Mr. Kozak learn that Mr. Putin had put that call in 2022 on speakerphone,
+      the people said, turning the senior officials in the president’s office into witnesses
+      to a rare moment of insubordination. Mr. Kozak was a lone voice of dissent in
+      Mr. Putin’s inner circle, a small crack in his iron grip on power. With so few
+      people willing to challenge him, Mr. Putin has exerted near-total control over
+      Russia’s prosecution of the war. Oh my God… Insurrection!!! I read on with trepidation,
+      expecting to read how Mr. Kozak was arrested and imprisoned… or worse yet, tossed
+      from one of the onion-shaped towers of St. Basil’s Cathedral in Red Square (aka
+      Cathedral of the Intercession of the Most Holy Theotokos on the Moat). How could
+      it be otherwise? Vladimir Putin is a vicious tyrant who tolerates no dissent,
+      or so we are told regularly in the West. Nope. Guess what happened to Mr. Kozak,
+      who reportedly refused to carry out a Putin order? Mr. Kozak, 67, resigned as
+      a deputy chief of staff to Mr. Putin this September, a month after The New York
+      Times reported on his private criticism of the war . In interviews since then,
+      six Russians close to Mr. Kozak described the transformation of a 30-year Putin
+      confidant into a locus of antiwar sentiment in the Russian elite. Let me get this
+      straight… 44 months after Kozak allegedly refuses a direct order from Putin, one
+      that is witnessed by several senior Russian officials, Kozak is not fired immediately,
+      he is not arrested, he is not sent to Siberia, and he is not subjected to torture.
+      He keeps his job as deputy chief of staff and quietly retires in September 2025
+      at the age of 67, which is not an uncommon age for retirement in Russia. What
+      is wrong with this picture? I don’t know if the NY Times former Moscow bureau
+      chief, Anton Troianovski , intended to obliterate the meme that Putin is a psychopathic
+      killer who tolerates no dissent, but that is exactly what she did. Since he is
+      identified as former , was this article just a desperate attempt to pander to
+      the West in hopes of securing a new sinecure? Perhaps, but that does not explain
+      why the editors sitting in NY City thought it a dandy idea to publish a story
+      that is so contradictory. I think the following paragraph from the piece reveals
+      the reason it was published: In making his disagreements with the president known
+      within the ruling elite, Mr. Kozak is giving voice to quiet dissatisfaction felt
+      by many in Moscow’s business and cultural class, and even by other government
+      officials, the six confidants say. This year, that dismay has been exacerbated
+      by Mr. Putin’s refusal to end the war even on the favorable terms being offered
+      by President Trump. This is dishonest reporting of the worst kind. It is intended
+      to persuade the Western audience that still thinks the NY Time s is worth a subscription
+      to believe that Russian support for the war in Ukraine is fading and we need only
+      to keep the war going because, one of these days, Putin will fail and Russia will
+      surrender to the West. During October and November of this year I interviewed
+      more than 40 prominent Russians, which included representatives of different political
+      parties, prominent academics and journalists, military officers and soldiers,
+      and senior members of the Duma… I never heard anything of the dissent claimed
+      by Mr. Troianovski and attributed to Mr. Kozak. To the contrary, several expressed
+      frustration that Putin was not hitting Ukraine hard enough. What do you think?
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: Dmitri Kozak, a close aide to President Putin, reportedly
+      resisted orders to demand Ukraine's surrender during the early days of the invasion,
+      expressing confusion over Putin's intentions and stating he was willing to face
+      severe consequences for his defiance.
+    paragraph_summary: The New York Times article highlights a rare moment of dissent
+      from Dmitri Kozak, a close aide to President Vladimir Putin, who reportedly refused
+      to demand Ukraine's surrender during the early days of Russia's invasion in 2022.
+      Despite the heated exchange where Kozak expressed his willingness to face severe
+      consequences for his insubordination, he ultimately faced no repercussions and
+      continued to serve in his role until his resignation in September 2023. This incident,
+      while portrayed as a significant challenge to Putin's authority, raises skepticism
+      about the extent of dissent within his inner circle, as Kozak's eventual departure
+      did not lead to any dramatic fallout, contradicting the narrative of Putin's absolute
+      control over the war effort.
+    published: '2025-12-22T07:14:13+00:00'
+  - title: Despite Dire US Predictions About a Collapsing Russian Economy, Russia is
+      Doing Just Fine… But the US Ain’t
+    url: https://sonar21.com/despite-dire-us-predictions-about-a-collapsing-russian-economy-russia-is-doing-just-fine-but-the-us-aint/
+    text: 'Jenga Tower Hope springs eternal in the West, especially in the halls of
+      Washington, DC, that Russia’s economy is like a teetering Jenga tower… All that
+      is needed is one more tiny push and the system will collapse. That strategy is
+      guaranteed to fail. Russia’s head of the Central Bank, Elvira Nabiullina, delivered
+      some very bad news for the West yesterday … Russia is doing just fine. Throughout
+      2025, Western politicians have portrayed Russia’s economy as increasingly strained
+      by sanctions, high military spending (~7-8% of GDP), falling oil revenues, inflation
+      (~7-9%), and structural imbalances, with growth slowing from 4%+ in 2024 to ~0.6-1.5%
+      projected for 2025–2026. While acknowledging short-term resilience (e.g., via
+      China/India trade rerouting), most view it as unsustainable and vulnerable to
+      further pressure, and believe that inflicting economic pain on Russia will force
+      Putin to negotiate on Ukraine. Trump officials have been particularly blunt about
+      using Russia’s economic woes as leverage for peace talks: Treasury Secretary Scott
+      Bessent (multiple 2025 statements, e.g., September NBC interview) described Russia’s
+      economy as “in full collapse” if US-EU impose secondary sanctions/tariffs on oil
+      buyers (China, India). Bessent claimed that tougher measures could “bring Putin
+      to the table” quickly, noting a “race” between Ukraine’s military endurance and
+      Russia’s economic limits. President Donald Trump (August 2025 remarks) called
+      Russia’s economy “stinks” and “collapsing,” predicting low oil prices ($10/barrel
+      drop) would force Putin to stop the war, as energy funds the conflict. If Trump
+      is counting on lower oil prices to hurt Russia, he is working against himself
+      with his attacks on Venezuela… The price of oil has increased following Trump’s
+      repeated threats that he will attack Venezuela. EU leaders also share the vain
+      hope that cumulative sanctions will force Russia to surrender… They are on their
+      19th package of sanctions: European Commission President Ursula von der Leyen
+      (multiple packages, e.g., October 19th announcement): Stated EU sanctions are
+      “an effective tool of economic pressure” targeting Russia’s war machine (energy,
+      finance, shadow fleet), with the 19th package (October 2025) designed to “keep
+      turning off the tap” on revenues until Russia negotiates. High Representative
+      Kaja Kallas (July 18th package): “Each sanction weakens Russia’s ability to wage
+      war… Europe will not back down,” highlighting measures against banks, crypto,
+      and third-country enablers. German Chancellor Friedrich Merz & others (December
+      talks): Noted Russia’s “overheating” reversal but warned of “permanent scarring,”
+      with some (e.g., Swedish PM Ulf Kristersson) pushing for faster asset seizures/loans
+      to Ukraine, saying “sanctions are biting but pressure must increase.” Elvira Nabiullina
+      apparently has not got the Western memo. In her follow-up remarks after the Board
+      of Directors’ of the Russian Central Bank cut interest rates on 19 December 2025,
+      Governor Nabiullina delivered a very upbeat speech that described Russia’s economy
+      as transitioning from overheating to a balanced growth path, with inflation cooling
+      faster than anticipated. The Bank of Russia is essentially saying that the anti-inflationary
+      measures implemented in October 2024 to cool the war‑driven boom in the Russian
+      economy have succeeded, because inflation has eased, and that the Bank can continue
+      very carefully lowering interest rates while still keeping prices under control.
+      She noted that In late 2025, consumer prices stopped rising as fast as before,
+      and some core measures of inflation dropped toward the Bank’s 4% target, helped
+      by a stronger ruble and previously very high interest rates. In addition, Russian
+      wages outpaced inflation, rising an average of 20% in 2025. At the same time,
+      the Bank warns that early 2026 will bring a fresh bump in inflation because VAT
+      is going up and many regulated tariffs (like housing and utilities) are being
+      raised, and that people’s and businesses’ inflation expectations have already
+      moved higher in anticipation. On the real‑economy side, the Bank describes activity
+      as robust, but less overheated than before. Output and consumer spending are growing,
+      with people bringing forward purchases of things like cars ahead of higher fees,
+      while investment—after several years of record levels—has stopped accelerating
+      and now looks more mixed across sectors. The labor market is slowly loosening:
+      labor shortages are less acute, wage growth is expected to moderate, and part‑time
+      work is rising in some industries, which all point to less pressure from an over‑tight
+      jobs market. Financial conditions have shifted from extremely tight to just tight.
+      Loan rates have fallen enough that companies, households with mortgages, and car
+      buyers are borrowing more, but deposit rates remain high enough that saving in
+      rubles is still attractive, and more households are also moving money into securities.
+      Externally, export prices are weaker than hoped and sanctions still bite, but
+      the ruble has stayed relatively strong thanks to the fiscal rule, high rates keeping
+      imports down, and import‑substitution policies, all of which help restrain inflation,
+      even if that effect is fading. Because of this mix, Nabiullina sees more upside
+      than downside risk to inflation over the next year: a still‑tight labor market,
+      higher expectations due to VAT and tariff hikes, uncertain oil prices and geopolitics,
+      and the possibility that credit and money growth flare up again. While endorsing
+      the cut in the key rate to 16%, she stressed that further cuts will be cautious
+      and not automatic, hinging on whether the recent slowdown in inflation proves
+      durable and expectations remain anchored—arguing that only stably low inflation
+      will allow genuinely moderate interest rates and a predictable environment for
+      investment and long‑term growth. The West continues to believe that it enjoys
+      an advantage over Russia when it comes to defense spending. While it is true that
+      the United States spends vastly more than Russia — the US spends $693,077 per
+      soldier ($901B / 1.3M) compared to Russia, which spends $130,303 per soldier ($172B
+      / 1.32M) — the Russians enjoy a staggering advantage on the battlefield.  Russia
+      maintains decisive advantages in certain military domains, particularly in the
+      operational deployment of hypersonic missiles and scaled production of conventional
+      munitions and platforms amid its war economy. With respect to hypersonic missiles:
+      Russia has fielded an operational class of hypersonic weapons since 2017–2022,
+      including the air-launched Kinzhal (Mach 10), ship/sub-launched Zircon (Mach 9),
+      and the new Oreshnik (Mach 11 IRBM, entering combat service by end-2025), which
+      gives it a strategic edge in deployment quantity and nuclear-capable variants.
+      The US does not have any fully operational hypersonic missiles in service, although
+      programs like the Army’s LRHW (Dark Eagle) reportedly achieved first battery equipping
+      in December 2025 (tests throughout the year) and the Air Force’s HACM completing
+      key trials, aiming for 2026–2027 fielding. Russia also has significantly outpaced
+      the US in artillery shells, with ~3 million 152mm/155mm equivalents annually (sustained
+      high output in 2025), compared to US/NATO’s goal of ~2 million by end-2025 (current
+      ~1–1.2 million). For artillery barrels, Russia produces ~50–60/year while the
+      US claims it emphasizes quality over quantity (e.g., advanced M777/155mm systems,
+      ~100–200 barrels/year capacity but focused on precision munitions)… This is just
+      a bullshit excuse that US policymakers trot out to cover up the fact that they
+      cannot keep pace with Russia. On drones, Russia ramped-up to 5,500/month of Russian
+      models by November 2025 (90% domestic parts), surpassing US production (2,000–3,000/month
+      for military UAS, including Switchblade/Reaper variants). For tanks, Russia produces
+      ~1,500–2,000/year (T-72/90 upgrades + new T-14s), far exceeding US output (~200–300
+      M1 Abrams equivalents annually). In summary, Russia has been able to boost production
+      across the board without having to adopt a war time mobilization. Russia enjoys   quantitative
+      edges in the areas outlined above, which enables Russian sustained operations
+      in Ukraine despite sanctions. Russia has been able to shift its industrial focus
+      to serving defense priorities without forcing deprivations on Russian consumers,
+      while the US brags about its supremacy but cannot actually boost production in
+      key areas, such as artillery shells, in order to supply Ukraine without stripping
+      its own units of capability. This is just one reason that President Putin is under
+      no pressure to make concessions to Donald Trump or NATO. I thank you for your
+      invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: Despite Western perceptions of Russia's economy as fragile
+      and on the brink of collapse due to sanctions and military spending, Central Bank
+      head Elvira Nabiullina asserts that the economy is resilient and managing well,
+      challenging the belief that further pressure will lead to negotiations over Ukraine.
+    paragraph_summary: The article discusses the misconceptions held by Western politicians
+      regarding the state of Russia's economy, which they believe is on the verge of
+      collapse due to sanctions, high military spending, and declining oil revenues.
+      Despite these claims, Elvira Nabiullina, the head of Russia's Central Bank, asserts
+      that the economy is resilient, benefiting from trade rerouting with countries
+      like China and India. While Western leaders, including Trump officials, have expressed
+      optimism that increased sanctions could pressure Putin into negotiations over
+      Ukraine, the article argues that such strategies are misguided. It highlights
+      the contradiction in Trump's approach, as his threats against Venezuela have inadvertently
+      contributed to rising oil prices, countering his narrative that low oil prices
+      will weaken Russia. Overall, the article suggests that the West's hopes for Russia's
+      economic downfall are unfounded and that the situation is more complex than it
+      appears.
+    published: '2025-12-21T03:27:30+00:00'
+  - title: Despite Dire US Predictions About a Collapsing Russian Economy, Russia is
+      Doing Just Fine… But the US Ain’t
+    url: https://sonar21.com/despite-dire-us-predictions-about-a-collapsing-russian-economy-russia-is-doing-just-fine-but-the-us-aint/
+    text: 'Jenga Tower Hope springs eternal in the West, especially in the halls of
+      Washington, DC, that Russia’s economy is like a teetering Jenga tower… All that
+      is needed is one more tiny push and the system will collapse. That strategy is
+      guaranteed to fail. Russia’s head of the Central Bank, Elvira Nabiullina, delivered
+      some very bad news for the West yesterday … Russia is doing just fine. Throughout
+      2025, Western politicians have portrayed Russia’s economy as increasingly strained
+      by sanctions, high military spending (~7-8% of GDP), falling oil revenues, inflation
+      (~7-9%), and structural imbalances, with growth slowing from 4%+ in 2024 to ~0.6-1.5%
+      projected for 2025–2026. While acknowledging short-term resilience (e.g., via
+      China/India trade rerouting), most view it as unsustainable and vulnerable to
+      further pressure, and believe that inflicting economic pain on Russia will force
+      Putin to negotiate on Ukraine. Trump officials have been particularly blunt about
+      using Russia’s economic woes as leverage for peace talks: Treasury Secretary Scott
+      Bessent (multiple 2025 statements, e.g., September NBC interview) described Russia’s
+      economy as “in full collapse” if US-EU impose secondary sanctions/tariffs on oil
+      buyers (China, India). Bessent claimed that tougher measures could “bring Putin
+      to the table” quickly, noting a “race” between Ukraine’s military endurance and
+      Russia’s economic limits. President Donald Trump (August 2025 remarks) called
+      Russia’s economy “stinks” and “collapsing,” predicting low oil prices ($10/barrel
+      drop) would force Putin to stop the war, as energy funds the conflict. If Trump
+      is counting on lower oil prices to hurt Russia, he is working against himself
+      with his attacks on Venezuela… The price of oil has increased following Trump’s
+      repeated threats that he will attack Venezuela. EU leaders also share the vain
+      hope that cumulative sanctions will force Russia to surrender… They are on their
+      19th package of sanctions: European Commission President Ursula von der Leyen
+      (multiple packages, e.g., October 19th announcement): Stated EU sanctions are
+      “an effective tool of economic pressure” targeting Russia’s war machine (energy,
+      finance, shadow fleet), with the 19th package (October 2025) designed to “keep
+      turning off the tap” on revenues until Russia negotiates. High Representative
+      Kaja Kallas (July 18th package): “Each sanction weakens Russia’s ability to wage
+      war… Europe will not back down,” highlighting measures against banks, crypto,
+      and third-country enablers. German Chancellor Friedrich Merz & others (December
+      talks): Noted Russia’s “overheating” reversal but warned of “permanent scarring,”
+      with some (e.g., Swedish PM Ulf Kristersson) pushing for faster asset seizures/loans
+      to Ukraine, saying “sanctions are biting but pressure must increase.” Elvira Nabiullina
+      apparently has not got the Western memo. In her follow-up remarks after the Board
+      of Directors’ of the Russian Central Bank cut interest rates on 19 December 2025,
+      Governor Nabiullina delivered a very upbeat speech that described Russia’s economy
+      as transitioning from overheating to a balanced growth path, with inflation cooling
+      faster than anticipated. The Bank of Russia is essentially saying that the anti-inflationary
+      measures implemented in October 2024 to cool the war‑driven boom in the Russian
+      economy have succeeded, because inflation has eased, and that the Bank can continue
+      very carefully lowering interest rates while still keeping prices under control.
+      She noted that In late 2025, consumer prices stopped rising as fast as before,
+      and some core measures of inflation dropped toward the Bank’s 4% target, helped
+      by a stronger ruble and previously very high interest rates. In addition, Russian
+      wages outpaced inflation, rising an average of 20% in 2025. At the same time,
+      the Bank warns that early 2026 will bring a fresh bump in inflation because VAT
+      is going up and many regulated tariffs (like housing and utilities) are being
+      raised, and that people’s and businesses’ inflation expectations have already
+      moved higher in anticipation. On the real‑economy side, the Bank describes activity
+      as robust, but less overheated than before. Output and consumer spending are growing,
+      with people bringing forward purchases of things like cars ahead of higher fees,
+      while investment—after several years of record levels—has stopped accelerating
+      and now looks more mixed across sectors. The labor market is slowly loosening:
+      labor shortages are less acute, wage growth is expected to moderate, and part‑time
+      work is rising in some industries, which all point to less pressure from an over‑tight
+      jobs market. Financial conditions have shifted from extremely tight to just tight.
+      Loan rates have fallen enough that companies, households with mortgages, and car
+      buyers are borrowing more, but deposit rates remain high enough that saving in
+      rubles is still attractive, and more households are also moving money into securities.
+      Externally, export prices are weaker than hoped and sanctions still bite, but
+      the ruble has stayed relatively strong thanks to the fiscal rule, high rates keeping
+      imports down, and import‑substitution policies, all of which help restrain inflation,
+      even if that effect is fading. Because of this mix, Nabiullina sees more upside
+      than downside risk to inflation over the next year: a still‑tight labor market,
+      higher expectations due to VAT and tariff hikes, uncertain oil prices and geopolitics,
+      and the possibility that credit and money growth flare up again. While endorsing
+      the cut in the key rate to 16%, she stressed that further cuts will be cautious
+      and not automatic, hinging on whether the recent slowdown in inflation proves
+      durable and expectations remain anchored—arguing that only stably low inflation
+      will allow genuinely moderate interest rates and a predictable environment for
+      investment and long‑term growth. The West continues to believe that it enjoys
+      an advantage over Russia when it comes to defense spending. While it is true that
+      the United States spends vastly more than Russia — the US spends $693,077 per
+      soldier ($901B / 1.3M) compared to Russia, which spends $130,303 per soldier ($172B
+      / 1.32M) — the Russians enjoy a staggering advantage on the battlefield.  Russia
+      maintains decisive advantages in certain military domains, particularly in the
+      operational deployment of hypersonic missiles and scaled production of conventional
+      munitions and platforms amid its war economy. With respect to hypersonic missiles:
+      Russia has fielded an operational class of hypersonic weapons since 2017–2022,
+      including the air-launched Kinzhal (Mach 10), ship/sub-launched Zircon (Mach 9),
+      and the new Oreshnik (Mach 11 IRBM, entering combat service by end-2025), which
+      gives it a strategic edge in deployment quantity and nuclear-capable variants.
+      The US does not have any fully operational hypersonic missiles in service, although
+      programs like the Army’s LRHW (Dark Eagle) reportedly achieved first battery equipping
+      in December 2025 (tests throughout the year) and the Air Force’s HACM completing
+      key trials, aiming for 2026–2027 fielding. Russia also has significantly outpaced
+      the US in artillery shells, with ~3 million 152mm/155mm equivalents annually (sustained
+      high output in 2025), compared to US/NATO’s goal of ~2 million by end-2025 (current
+      ~1–1.2 million). For artillery barrels, Russia produces ~50–60/year while the
+      US claims it emphasizes quality over quantity (e.g., advanced M777/155mm systems,
+      ~100–200 barrels/year capacity but focused on precision munitions)… This is just
+      a bullshit excuse that US policymakers trot out to cover up the fact that they
+      cannot keep pace with Russia. On drones, Russia ramped-up to 5,500/month of Russian
+      models by November 2025 (90% domestic parts), surpassing US production (2,000–3,000/month
+      for military UAS, including Switchblade/Reaper variants). For tanks, Russia produces
+      ~1,500–2,000/year (T-72/90 upgrades + new T-14s), far exceeding US output (~200–300
+      M1 Abrams equivalents annually). In summary, Russia has been able to boost production
+      across the board without having to adopt a war time mobilization. Russia enjoys   quantitative
+      edges in the areas outlined above, which enables Russian sustained operations
+      in Ukraine despite sanctions. Russia has been able to shift its industrial focus
+      to serving defense priorities without forcing deprivations on Russian consumers,
+      while the US brags about its supremacy but cannot actually boost production in
+      key areas, such as artillery shells, in order to supply Ukraine without stripping
+      its own units of capability. This is just one reason that President Putin is under
+      no pressure to make concessions to Donald Trump or NATO. I thank you for your
+      invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: Despite Western perceptions of Russia's economy as fragile
+      and on the brink of collapse due to sanctions and military spending, Central Bank
+      head Elvira Nabiullina asserts that the economy is resilient and managing well,
+      challenging the belief that further pressure will lead to negotiations over Ukraine.
+    paragraph_summary: The article discusses the misconceptions held by Western politicians
+      regarding the state of Russia's economy, which they believe is on the verge of
+      collapse due to sanctions, high military spending, and declining oil revenues.
+      Despite these claims, Elvira Nabiullina, the head of Russia's Central Bank, asserts
+      that the economy is resilient, benefiting from trade rerouting with countries
+      like China and India. While Western leaders, including Trump officials, have expressed
+      optimism that increased sanctions could pressure Putin into negotiations over
+      Ukraine, the article argues that such strategies are misguided. It highlights
+      the contradiction in Trump's approach, as his threats against Venezuela have inadvertently
+      contributed to rising oil prices, countering his narrative that low oil prices
+      will weaken Russia. Overall, the article suggests that the West's hopes for Russia's
+      economic downfall are unfounded and that the situation is more complex than it
+      appears.
+    published: '2025-12-21T03:27:30+00:00'
+  - title: Vladimir Putin Leaves No Doubt About Russia’s Demands to End the War in Ukraine…
+      Do Donald Trump and Steve Witkoff Understand?
+    url: https://sonar21.com/vladimir-putin-leaves-no-doubt-about-russias-demands-to-end-the-war-in-ukraine-do-donald-trump-and-steve-witkoff-understand/
+    text: 'Russian President Vladimir Putin held his annual combined “Direct Line” call-in
+      and year-end press conference on December 19, 2025, in Moscow, lasting over 4
+      hours. Ukraine and peace negotiations dominated early questions, with Putin projecting
+      confidence in Russia’s military position while expressing conditional openness
+      to diplomacy, but he insisted that Russia will not soften its core conditions,
+      and that the war will continue until those terms are met. I have summarized the
+      key points that Putin addressed: With respect to the military situation in Ukraine,
+      Putin said that Russian forces are “advancing on all fronts” and have seized the
+      strategic initiative, predicting further successes before year-end. He highlighted
+      specific gains (e.g., near Kupyansk and Pokrovsk) and said Russia’s goals will
+      be achieved “one way or another”—preferably peacefully, but by force if necessary.
+      There were several questions regarding the negotiations with the United States.
+      Putin reiterated that Russia is “ready and willing to end the conflict peacefully”
+      and resolve “root causes” (Kremlin’s term for demands like Ukrainian neutrality,
+      demilitarization, “denazification,” and recognition of annexed territories: Crimea,
+      Donbas, and parts of southern Ukraine). He referenced his June 2024 proposals
+      again as the basis, ruling out no new concessions. Let’s recall that on June 14,
+      2024, Russian President Vladimir Putin delivered a speech at the Russian Foreign
+      Ministry where he outlined what he described as a “realistic” and “concrete” set
+      of proposals for ending the war in Ukraine and achieving a “final resolution”
+      (not a freeze). The speech was timed just before a Swiss-hosted peace summit that
+      excluded Russia. Putin’s conditions were presented as non-negotiable prerequisites
+      for immediate ceasefire and negotiations: Full Withdrawal of Ukrainian Forces
+      : Ukraine must completely withdraw troops from the entire administrative territories
+      of Donetsk, Luhansk, Kherson, and Zaporizhzhia oblasts (the four regions Russia
+      partially occupies and annexed in 2022)—including areas not under Russian control
+      at the time. Ukrainian Neutrality : Kyiv must officially abandon aspirations to
+      join NATO and commit to permanent neutral status, with no foreign military bases
+      or alliances. Demilitarization and “Denazification” : Significant limits on Ukraine’s
+      armed forces size and armament; removal of “neo-Nazi” influences. Recognition
+      of Russian Control : International acknowledgment of Crimea as Russian (annexed
+      2014) and the four regions as part of Russia. Lifting of Sanctions : The West
+      must remove all sanctions on Russia. Other Issues : Protection of Russian-speaking
+      populations’ rights; Ukraine to remain non-nuclear. Putin portrayed Russia as
+      negotiating from “a position of strength” and said that there is “no need” for
+      Moscow to make new compromises beyond those he claims to have already entertained
+      in earlier talks around US-backed peace ideas. Putin said the “ball is entirely
+      in the court of Ukraine, its leadership, and Western (especially European) sponsors.”
+      He noted “certain signals” from Kyiv indicating dialogue willingness, but saw
+      no genuine readiness for compromise, blaming Zelensky for refusing territorial
+      discussions. Putin remained inflexible on relinquishing any of the territories
+      that Russia has incorporated (described as “integral parts of Russia”). His answer
+      to a question about the Ukrainian territories Russia incorporated in September
+      2022 was identical to what he told the expanded meeting of the Russian Defence
+      Ministry Board (often described in English as the annual meeting of the Russian
+      Defence Ministry or Defence Ministry Board) on Wednesday… He firmly rejected any
+      NATO or European troop presence in Ukraine. He suggested that Russia could pause
+      deep strikes if Ukraine holds elections (martial law currently bans them), but
+      framed this as hypothetical. At the same time, Putin praised President Trump’s
+      peace initiatives in general and said a draft US–Ukraine framework “could be the
+      basis” for a deal, but only if it is adjusted to reflect Russia’s demands and
+      removes what he called the “root causes” of the conflict. Putin was uncompromising
+      regarding Europe, accusing European leaders of “war hysteria” and “robbing” Russia
+      via frozen assets (calling EU plans “daylight robbery”). He dismissed the European
+      narratives as lies while welcoming US efforts under Trump. Overall, Putin’s tone
+      was defiant and optimistic about Russia’s position, balancing diplomatic openness
+      (on Moscow’s terms) with threats of continued military pressure. He avoided direct
+      criticism of Trump, implying the U.S. approach is more pragmatic than Europe’s.
+      The speech signaled that there are no immediate breakthroughs in ongoing talks
+      (e.g., post-Berlin proposals) unless Ukraine/West align with Russian demands.
+      I hope that Steve Witkoff and US intelligence analysts take the time to read what
+      Putin said during Friday’s marathon annual question-and-answer session with the
+      Russian people. As Ray McGovern frequently observes, “if you want to know what
+      the Russians are going to do, listen to what they say.” Vladimir Putin was unambiguous
+      about the Russian position for ending the war in Ukraine… Is Donald Trump listening?
+      In addition to my regular Friday chats with Nima and the Intelligence Roundtable
+      with Judge Napolitano and Ray Mcgovern, I am posting my chats with Christian White
+      and with The Forum and Friends , which was hosted by John Laughland, Peter Lavelle
+      and Jerm Warfare (I’m not making that name up): I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: During his annual press conference on December 19, 2025, Russian
+      President Vladimir Putin asserted Russia's military advancements in Ukraine and
+      maintained a firm stance on diplomatic negotiations, emphasizing that the war
+      would continue until Russia's core conditions are met.
+    paragraph_summary: During his annual "Direct Line" call-in and year-end press conference
+      on December 19, 2025, Russian President Vladimir Putin addressed the ongoing conflict
+      in Ukraine, asserting that Russian military forces are making advances and have
+      seized the strategic initiative. He expressed a conditional openness to peace
+      negotiations but maintained that Russia's core demands, including Ukrainian neutrality
+      and recognition of annexed territories, remain non-negotiable. Putin reiterated
+      his willingness to end the conflict peacefully, referencing his June 2024 proposals
+      as the basis for negotiations, while emphasizing that Russia's goals will ultimately
+      be achieved, either through diplomacy or by force if necessary.
+    published: '2025-12-20T03:47:16+00:00'
+  - title: Vladimir Putin Leaves No Doubt About Russia’s Demands to End the War in Ukraine…
+      Do Donald Trump and Steve Witkoff Understand?
+    url: https://sonar21.com/vladimir-putin-leaves-no-doubt-about-russias-demands-to-end-the-war-in-ukraine-do-donald-trump-and-steve-witkoff-understand/
+    text: 'Russian President Vladimir Putin held his annual combined “Direct Line” call-in
+      and year-end press conference on December 19, 2025, in Moscow, lasting over 4
+      hours. Ukraine and peace negotiations dominated early questions, with Putin projecting
+      confidence in Russia’s military position while expressing conditional openness
+      to diplomacy, but he insisted that Russia will not soften its core conditions,
+      and that the war will continue until those terms are met. I have summarized the
+      key points that Putin addressed: With respect to the military situation in Ukraine,
+      Putin said that Russian forces are “advancing on all fronts” and have seized the
+      strategic initiative, predicting further successes before year-end. He highlighted
+      specific gains (e.g., near Kupyansk and Pokrovsk) and said Russia’s goals will
+      be achieved “one way or another”—preferably peacefully, but by force if necessary.
+      There were several questions regarding the negotiations with the United States.
+      Putin reiterated that Russia is “ready and willing to end the conflict peacefully”
+      and resolve “root causes” (Kremlin’s term for demands like Ukrainian neutrality,
+      demilitarization, “denazification,” and recognition of annexed territories: Crimea,
+      Donbas, and parts of southern Ukraine). He referenced his June 2024 proposals
+      again as the basis, ruling out no new concessions. Let’s recall that on June 14,
+      2024, Russian President Vladimir Putin delivered a speech at the Russian Foreign
+      Ministry where he outlined what he described as a “realistic” and “concrete” set
+      of proposals for ending the war in Ukraine and achieving a “final resolution”
+      (not a freeze). The speech was timed just before a Swiss-hosted peace summit that
+      excluded Russia. Putin’s conditions were presented as non-negotiable prerequisites
+      for immediate ceasefire and negotiations: Full Withdrawal of Ukrainian Forces
+      : Ukraine must completely withdraw troops from the entire administrative territories
+      of Donetsk, Luhansk, Kherson, and Zaporizhzhia oblasts (the four regions Russia
+      partially occupies and annexed in 2022)—including areas not under Russian control
+      at the time. Ukrainian Neutrality : Kyiv must officially abandon aspirations to
+      join NATO and commit to permanent neutral status, with no foreign military bases
+      or alliances. Demilitarization and “Denazification” : Significant limits on Ukraine’s
+      armed forces size and armament; removal of “neo-Nazi” influences. Recognition
+      of Russian Control : International acknowledgment of Crimea as Russian (annexed
+      2014) and the four regions as part of Russia. Lifting of Sanctions : The West
+      must remove all sanctions on Russia. Other Issues : Protection of Russian-speaking
+      populations’ rights; Ukraine to remain non-nuclear. Putin portrayed Russia as
+      negotiating from “a position of strength” and said that there is “no need” for
+      Moscow to make new compromises beyond those he claims to have already entertained
+      in earlier talks around US-backed peace ideas. Putin said the “ball is entirely
+      in the court of Ukraine, its leadership, and Western (especially European) sponsors.”
+      He noted “certain signals” from Kyiv indicating dialogue willingness, but saw
+      no genuine readiness for compromise, blaming Zelensky for refusing territorial
+      discussions. Putin remained inflexible on relinquishing any of the territories
+      that Russia has incorporated (described as “integral parts of Russia”). His answer
+      to a question about the Ukrainian territories Russia incorporated in September
+      2022 was identical to what he told the expanded meeting of the Russian Defence
+      Ministry Board (often described in English as the annual meeting of the Russian
+      Defence Ministry or Defence Ministry Board) on Wednesday… He firmly rejected any
+      NATO or European troop presence in Ukraine. He suggested that Russia could pause
+      deep strikes if Ukraine holds elections (martial law currently bans them), but
+      framed this as hypothetical. At the same time, Putin praised President Trump’s
+      peace initiatives in general and said a draft US–Ukraine framework “could be the
+      basis” for a deal, but only if it is adjusted to reflect Russia’s demands and
+      removes what he called the “root causes” of the conflict. Putin was uncompromising
+      regarding Europe, accusing European leaders of “war hysteria” and “robbing” Russia
+      via frozen assets (calling EU plans “daylight robbery”). He dismissed the European
+      narratives as lies while welcoming US efforts under Trump. Overall, Putin’s tone
+      was defiant and optimistic about Russia’s position, balancing diplomatic openness
+      (on Moscow’s terms) with threats of continued military pressure. He avoided direct
+      criticism of Trump, implying the U.S. approach is more pragmatic than Europe’s.
+      The speech signaled that there are no immediate breakthroughs in ongoing talks
+      (e.g., post-Berlin proposals) unless Ukraine/West align with Russian demands.
+      I hope that Steve Witkoff and US intelligence analysts take the time to read what
+      Putin said during Friday’s marathon annual question-and-answer session with the
+      Russian people. As Ray McGovern frequently observes, “if you want to know what
+      the Russians are going to do, listen to what they say.” Vladimir Putin was unambiguous
+      about the Russian position for ending the war in Ukraine… Is Donald Trump listening?
+      In addition to my regular Friday chats with Nima and the Intelligence Roundtable
+      with Judge Napolitano and Ray Mcgovern, I am posting my chats with Christian White
+      and with The Forum and Friends , which was hosted by John Laughland, Peter Lavelle
+      and Jerm Warfare (I’m not making that name up): I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: During his annual press conference on December 19, 2025, Russian
+      President Vladimir Putin asserted Russia's military advancements in Ukraine and
+      maintained a firm stance on diplomatic negotiations, emphasizing that the war
+      would continue until Russia's core conditions are met.
+    paragraph_summary: During his annual "Direct Line" call-in and year-end press conference
+      on December 19, 2025, Russian President Vladimir Putin addressed the ongoing conflict
+      in Ukraine, asserting that Russian military forces are making advances and have
+      seized the strategic initiative. He expressed a conditional openness to peace
+      negotiations but maintained that Russia's core demands, including Ukrainian neutrality
+      and recognition of annexed territories, remain non-negotiable. Putin reiterated
+      his willingness to end the conflict peacefully, referencing his June 2024 proposals
+      as the basis for negotiations, while emphasizing that Russia's goals will ultimately
+      be achieved, either through diplomacy or by force if necessary.
+    published: '2025-12-20T03:47:16+00:00'
+  - title: CIA is Broken… Can it Be Fixed?
+    url: https://sonar21.com/cia-is-broken-can-it-be-fixed/
+    text: 'Sy Hersh’s latest Substack article on the prospects a successful outcome
+      of the US attempt to broker a peace deal between Russia and Ukraine is important
+      because it reveals the pathetic incompetence of the CIA. It appears that Sy reported
+      what senior Trump officials told him about the on going negotiations with the
+      Russians and Ukrainians, and that those officials were sharing their understanding
+      of the capabilities of Russia and Ukraine based on intelligence reports and intelligence
+      analysis provided principally by CIA analysts. Here are some of the more egregious
+      claims by these officials: Both nations are on the verge of economic and military
+      collapse… Putin is facing economic, political, military, and public pressure…
+      Putin is facing increasing political, economic, and military opposition in Moscow—mortgage
+      rates are soaring and the Russian military is in serious disarray—has realized
+      that he must end the war… Ongoing warfare is not going to change the balance of
+      forces. Putin is under pressure to end the war from his military and from a public
+      staggered by its continuing cost, and inflation is at 8.4 percent… Some of the
+      most senior Russian generals, while still loyal to Putin, urgently want the depleted
+      Russian Army to get out. Putin is staying afloat by borrowing money from Russian
+      banks that are not permitted to lend to the population. Rather than debunk each
+      of these claims, I will focus on the last two. Regarding the claim that Russian
+      banks “are not permitted to lend to the population.” Wrong! Russian banks are
+      fully allowed—and actively do—make loans to Russian citizens . According to Russia’s
+      Central Bank and news reports from Reuters , Bloomberg , and The Moscow Times
+      , there are no prohibitions on domestic lending to Russian individuals under current
+      regulations (as of December 2025). Consumer lending (unsecured loans, mortgages,
+      car loans, credit cards) is a major part of the Russian banking sector, with retail
+      loan portfolios growing steadily because Russian wages have increased more than
+      the rate of inflation — 20% — and are greater than the  high interest rates. How
+      could the Trump intelligence community get such an easy fact to verify so wrong?
+      Then there is the assertion that the Russian army is “depleted.” Russia’s active-duty
+      military personnel strength as of December 2025 is approximately 1.32 million.
+      This figure comes from the 2025 Global Firepower Index (reviewed January 2025)
+      and cross-verified sources like Statista , which cite ~1.32 million active troops
+      (part of a total force of ~3.57 million including reserves and paramilitary).
+      My sources in Russia put the number at greater than 1.5 million. In February 2022,
+      according to IISS Military Balance 2022 and Global Firepower , Russia’s active-duty
+      military forces were 900,000. In terms of Russia’s ground forces, they have grown
+      from 300,000 in February 2022 to 623,000 in just the Ukrainian theater, according
+      to Ukraine’s General Syrsky. Total Russian ground forces now exceed 1 million
+      men. Does that sound like depletion to you? So why does the CIA persist in peddling
+      provably false information. I blame former CIA Director John Brennan. John Brennan,
+      as CIA Director (2013–2017), initiated a major reorganization in March 2015 that
+      integrated analysts (from the Directorate of Analysis) and operations officers
+      (from the Directorate of Operations) into hybrid mission centers. This “modernization
+      plan” aimed to break down traditional silos — i.e., previously analysts and operations
+      officers worked in separate units — by creating 10 new mission centers (focused
+      on regions/threats like counterterrorism and cyber), where analysts, operators,
+      digital experts, and support staff would work side-by-side under unified leadership.
+      Brennan announced the overhaul on March 6, 2015 , with implementation beginning
+      shortly after (e.g., assistant directors named April 30, 2015). The ostensible
+      goal was better integration for modern threats like cyber warfare, modeled partly
+      on the existing Counterterrorism Center, but the actual effect subordinated independent
+      analysis to the covert programs directed and managed by the operations officers.
+      When I started working as an analyst in the fall of 1986, the Directorate of Intelligence
+      occupied the north wing of the CIA headquarters and the Directorate of Operations
+      occupied the south wing… We were in our respective silos. I was the Honduras analyst
+      when the war in Central America was a top priority for the Reagan administration.
+      Funding the Contras and fighting the Sandinista was a major covert action program
+      of the Director of Operations… The Central American Task Force (CATF) to be precise.
+      The case officers in the CATF had every incentive to make the program look like
+      it was being successful. I vividly recall a briefing that I, along with the Nicaragua
+      branch military analyst, gave to members of Congress on March 12, 1988 about a
+      developing situation on the border of Honduras and Nicaragua. We were accompanied
+      by the Chief of military operations for the CATF. We had intelligence that the
+      Sandinistas were prepared to launch military operations against Contra forces
+      in the Las Vegas salient of southern Honduras. During the course of that briefing
+      we received news from headquarters that the Sandinistas had allegedly overrun
+      a Contra base and were killing the CIA-backed Contras. What a disaster! As we
+      filed out of that briefing got into the van to take us back to headquarters, the
+      CATF military chief began berating me and the military analyst for the Nicaraguan
+      branch as having contributed to this alleged disaster for the Contras because
+      our analysis did not enthusiastically support the CATF covert program. When I
+      arrived back at headquarters and had a chance to look at the actual intelligence,
+      I discovered that we had been told a lie. Instead of the Sandinistas swarming
+      a Contra camp like Mexican troops attacking the Alamo, the intel report simply
+      stated that a Contra patrol had skirmished with a Sandinista patrol 15 km south
+      of the Contra base. The point of telling this anecdote is to illustrate the kind
+      of pressure that we as analysts faced from the operations side of the house to
+      spin a narrative that portrayed the Contra’s in the best possible light while
+      downplaying the competence of the Sandinista forces. I think a similar phenomena
+      has been at play since the start of Russia’s Special Military Operation in February
+      2022. I believe that the analysts responsible for reporting on the Ukrainians
+      and Russians are fully embedded in a Missison Center , something akin to the CATF,  and
+      that analysts face daily pressures from  operations officers to paint the Ukrainians
+      as victors and the Russians as losers who are on the verge of economic and political
+      collapse. It is simple human nature… If you want to get promoted, don’t tell the
+      truth, just go along with the program. I also have learned that the primary source
+      material the analysts are using is generated by the Ukrainians, who are working
+      in concert with CIA officers deployed in Ukraine. I believe that the combination
+      of peer pressure from operations officers to support a covert mission and a steady
+      supply of tainted information from biased Ukrainian sources explains why the US
+      officials who spoke to Sy Hersh are painting such a false  and distorted picture
+      of the war in Ukraine and are describing the Russians as incompetent, depleted
+      and on the verge of crumbling. Garbage in, garbage out . If the CIA has any hope
+      of being able to provide something approaching objective, truthful analysis, the
+      Mission Centers created by Brennan must be dismantled. There was a press report
+      last February that current CIA director Ratcliffe was reviewing whether to reverse
+      Brennan’s changes due to perceived negative impacts on human intelligence (HUMINT)
+      and core missions. Let me assure you that the negative impacts are real, not perceived.
+      So far, Ratcliffe has not acted to reverse Brennan. Maybe the defeat of Ukraine
+      by Russia will finally convince Ratcliffe to take action to rescue analysts from
+      the clutches of the operations officers. Here’s the Wednesday podcast hosted by
+      Danny Haiphong that featured me and Patrick Henningsen: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: Sy Hersh's latest Substack article critiques the CIA's incompetence
+      in assessing the ongoing Russia-Ukraine negotiations, revealing that senior Trump
+      officials believe both nations are nearing economic and military collapse, with
+      Putin under significant pressure to end the war.
+    paragraph_summary: Sy Hersh's recent Substack article critiques the CIA's intelligence
+      assessments regarding the ongoing peace negotiations between Russia and Ukraine,
+      highlighting the incompetence of U.S. intelligence. Drawing on insights from senior
+      Trump officials, Hersh discusses claims that both nations are on the brink of
+      economic and military collapse, with Putin allegedly facing significant internal
+      pressures to end the war. However, he challenges specific assertions, particularly
+      the notion that Russian banks are prohibited from lending to citizens, pointing
+      out that, contrary to these claims, Russian banks actively provide loans to individuals,
+      indicating a more stable economic situation than suggested.
+    published: '2025-12-19T05:25:58+00:00'
+  - title: CIA is Broken… Can it Be Fixed?
+    url: https://sonar21.com/cia-is-broken-can-it-be-fixed/
+    text: 'Sy Hersh’s latest Substack article on the prospects a successful outcome
+      of the US attempt to broker a peace deal between Russia and Ukraine is important
+      because it reveals the pathetic incompetence of the CIA. It appears that Sy reported
+      what senior Trump officials told him about the on going negotiations with the
+      Russians and Ukrainians, and that those officials were sharing their understanding
+      of the capabilities of Russia and Ukraine based on intelligence reports and intelligence
+      analysis provided principally by CIA analysts. Here are some of the more egregious
+      claims by these officials: Both nations are on the verge of economic and military
+      collapse… Putin is facing economic, political, military, and public pressure…
+      Putin is facing increasing political, economic, and military opposition in Moscow—mortgage
+      rates are soaring and the Russian military is in serious disarray—has realized
+      that he must end the war… Ongoing warfare is not going to change the balance of
+      forces. Putin is under pressure to end the war from his military and from a public
+      staggered by its continuing cost, and inflation is at 8.4 percent… Some of the
+      most senior Russian generals, while still loyal to Putin, urgently want the depleted
+      Russian Army to get out. Putin is staying afloat by borrowing money from Russian
+      banks that are not permitted to lend to the population. Rather than debunk each
+      of these claims, I will focus on the last two. Regarding the claim that Russian
+      banks “are not permitted to lend to the population.” Wrong! Russian banks are
+      fully allowed—and actively do—make loans to Russian citizens . According to Russia’s
+      Central Bank and news reports from Reuters , Bloomberg , and The Moscow Times
+      , there are no prohibitions on domestic lending to Russian individuals under current
+      regulations (as of December 2025). Consumer lending (unsecured loans, mortgages,
+      car loans, credit cards) is a major part of the Russian banking sector, with retail
+      loan portfolios growing steadily because Russian wages have increased more than
+      the rate of inflation — 20% — and are greater than the  high interest rates. How
+      could the Trump intelligence community get such an easy fact to verify so wrong?
+      Then there is the assertion that the Russian army is “depleted.” Russia’s active-duty
+      military personnel strength as of December 2025 is approximately 1.32 million.
+      This figure comes from the 2025 Global Firepower Index (reviewed January 2025)
+      and cross-verified sources like Statista , which cite ~1.32 million active troops
+      (part of a total force of ~3.57 million including reserves and paramilitary).
+      My sources in Russia put the number at greater than 1.5 million. In February 2022,
+      according to IISS Military Balance 2022 and Global Firepower , Russia’s active-duty
+      military forces were 900,000. In terms of Russia’s ground forces, they have grown
+      from 300,000 in February 2022 to 623,000 in just the Ukrainian theater, according
+      to Ukraine’s General Syrsky. Total Russian ground forces now exceed 1 million
+      men. Does that sound like depletion to you? So why does the CIA persist in peddling
+      provably false information. I blame former CIA Director John Brennan. John Brennan,
+      as CIA Director (2013–2017), initiated a major reorganization in March 2015 that
+      integrated analysts (from the Directorate of Analysis) and operations officers
+      (from the Directorate of Operations) into hybrid mission centers. This “modernization
+      plan” aimed to break down traditional silos — i.e., previously analysts and operations
+      officers worked in separate units — by creating 10 new mission centers (focused
+      on regions/threats like counterterrorism and cyber), where analysts, operators,
+      digital experts, and support staff would work side-by-side under unified leadership.
+      Brennan announced the overhaul on March 6, 2015 , with implementation beginning
+      shortly after (e.g., assistant directors named April 30, 2015). The ostensible
+      goal was better integration for modern threats like cyber warfare, modeled partly
+      on the existing Counterterrorism Center, but the actual effect subordinated independent
+      analysis to the covert programs directed and managed by the operations officers.
+      When I started working as an analyst in the fall of 1986, the Directorate of Intelligence
+      occupied the north wing of the CIA headquarters and the Directorate of Operations
+      occupied the south wing… We were in our respective silos. I was the Honduras analyst
+      when the war in Central America was a top priority for the Reagan administration.
+      Funding the Contras and fighting the Sandinista was a major covert action program
+      of the Director of Operations… The Central American Task Force (CATF) to be precise.
+      The case officers in the CATF had every incentive to make the program look like
+      it was being successful. I vividly recall a briefing that I, along with the Nicaragua
+      branch military analyst, gave to members of Congress on March 12, 1988 about a
+      developing situation on the border of Honduras and Nicaragua. We were accompanied
+      by the Chief of military operations for the CATF. We had intelligence that the
+      Sandinistas were prepared to launch military operations against Contra forces
+      in the Las Vegas salient of southern Honduras. During the course of that briefing
+      we received news from headquarters that the Sandinistas had allegedly overrun
+      a Contra base and were killing the CIA-backed Contras. What a disaster! As we
+      filed out of that briefing got into the van to take us back to headquarters, the
+      CATF military chief began berating me and the military analyst for the Nicaraguan
+      branch as having contributed to this alleged disaster for the Contras because
+      our analysis did not enthusiastically support the CATF covert program. When I
+      arrived back at headquarters and had a chance to look at the actual intelligence,
+      I discovered that we had been told a lie. Instead of the Sandinistas swarming
+      a Contra camp like Mexican troops attacking the Alamo, the intel report simply
+      stated that a Contra patrol had skirmished with a Sandinista patrol 15 km south
+      of the Contra base. The point of telling this anecdote is to illustrate the kind
+      of pressure that we as analysts faced from the operations side of the house to
+      spin a narrative that portrayed the Contra’s in the best possible light while
+      downplaying the competence of the Sandinista forces. I think a similar phenomena
+      has been at play since the start of Russia’s Special Military Operation in February
+      2022. I believe that the analysts responsible for reporting on the Ukrainians
+      and Russians are fully embedded in a Missison Center , something akin to the CATF,  and
+      that analysts face daily pressures from  operations officers to paint the Ukrainians
+      as victors and the Russians as losers who are on the verge of economic and political
+      collapse. It is simple human nature… If you want to get promoted, don’t tell the
+      truth, just go along with the program. I also have learned that the primary source
+      material the analysts are using is generated by the Ukrainians, who are working
+      in concert with CIA officers deployed in Ukraine. I believe that the combination
+      of peer pressure from operations officers to support a covert mission and a steady
+      supply of tainted information from biased Ukrainian sources explains why the US
+      officials who spoke to Sy Hersh are painting such a false  and distorted picture
+      of the war in Ukraine and are describing the Russians as incompetent, depleted
+      and on the verge of crumbling. Garbage in, garbage out . If the CIA has any hope
+      of being able to provide something approaching objective, truthful analysis, the
+      Mission Centers created by Brennan must be dismantled. There was a press report
+      last February that current CIA director Ratcliffe was reviewing whether to reverse
+      Brennan’s changes due to perceived negative impacts on human intelligence (HUMINT)
+      and core missions. Let me assure you that the negative impacts are real, not perceived.
+      So far, Ratcliffe has not acted to reverse Brennan. Maybe the defeat of Ukraine
+      by Russia will finally convince Ratcliffe to take action to rescue analysts from
+      the clutches of the operations officers. Here’s the Wednesday podcast hosted by
+      Danny Haiphong that featured me and Patrick Henningsen: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: Sy Hersh's latest Substack article critiques the CIA's incompetence
+      in assessing the ongoing Russia-Ukraine negotiations, revealing that senior Trump
+      officials believe both nations are nearing economic and military collapse, with
+      Putin under significant pressure to end the war.
+    paragraph_summary: Sy Hersh's recent Substack article critiques the CIA's intelligence
+      assessments regarding the ongoing peace negotiations between Russia and Ukraine,
+      highlighting the incompetence of U.S. intelligence. Drawing on insights from senior
+      Trump officials, Hersh discusses claims that both nations are on the brink of
+      economic and military collapse, with Putin allegedly facing significant internal
+      pressures to end the war. However, he challenges specific assertions, particularly
+      the notion that Russian banks are prohibited from lending to citizens, pointing
+      out that, contrary to these claims, Russian banks actively provide loans to individuals,
+      indicating a more stable economic situation than suggested.
+    published: '2025-12-19T05:25:58+00:00'
+  - title: Jacques Baud is being Sanctioned—and Switzerland is Fast Asleep
+    url: https://sonar21.com/jacques-baud-is-being-sanctioned-and-switzerland-is-fast-asleep/
+    text: 'When German journalists Röper and Lipp were sanctioned, no one in Switzerland
+      reacted—now one of the world’s most respected military analysts is being sanctioned—a
+      Swiss citizen. Weltwoche is waking up, Switzerland is fast asleep. By Peter Hanseler
+      via ForumGeopolitica.com Jaques Baud – Source: Jacques Baud Introduction Terrorizing
+      journalists with sanctions in order to suppress the truth is nothing new for the
+      EU. On May 20, 2025, the EU sanctioned two German journalists for the first time—Alina
+      Lipp and Thomas Röper. At the time, we reported in detail on this case, “ EU sanctions
+      German journalists ,” and also analyzed the case from a legal perspective. The
+      result was clear: punishment without crime or trial, disenfranchisement and expropriation
+      without a hearing. The EU is dangerously close to the Nazi regime of 1936, when
+      Thomas Mann was expatriated. Following the same pattern, action is now being taken
+      against a Swiss citizen for the first time. Jacques Baud – You Can’t Be More Objective
+      Than He Is Jacques Baud is one of the most objective and respected military analysts
+      around. He is highly regarded and respected not only throughout Europe, but also
+      in the US. His work is not limited to analysis on the most prestigious YouTube
+      platforms; he has also written numerous excellent books. His style is unique in
+      that he does not concern himself with politics, but only with the analysis of
+      warfare, in a calm and dispassionate manner. His analyses have never been anti-Ukrainian
+      or pro-Russian, but objective. He has long seen a NATO defeat on the horizon,
+      not based on his wishes, but on the facts on the long front and the war strategy
+      and tactics of the various parties. This did not fit in at all with the Russophobic
+      war cries of the EU, which still dreams of ultimate victory today, just like Adolf
+      Hitler did in the spring of 1945. The latest example comes from Friedrich Merz,
+      whose lucidity must now seriously be called into question. To justify the theft
+      of Russian assets, he said the following before the German Bundestag on December
+      15, 2025: “To be very clear and very explicit here: we are not doing this to prolong
+      the war. On the contrary, we are doing this to end this war as quickly as possible,
+      ladies and gentlemen. Because this sends a clear signal to Moscow that continuing
+      this war is pointless for Moscow.” Friedrich Merz, December 15, 2025 Jacques Baud’s
+      crime was therefore that his analyses were correct—no more and no less. Die Weltwoche
+      Stands up— Finally When Alina Lipp and Thomas Röper were sanctioned, Weltwoche
+      contented itself with an indifferent, lukewarm article and did not stand up for
+      its colleagues – we were shocked. It seems that the opportunistic Mr. Köppel has
+      felt the heat from Ms. Kaja Kallas a little too closely for his liking: Köppel
+      is finally standing up, because he could be next, and, as Martin Niemöller said,
+      when it’s your turn, you’re wide awake. “First they came for the Communists And
+      I did not speak out Because I was not a Communist Then they came for the Socialists
+      And I did not speak out Because I was not a Socialist Then they came for the trade
+      unionists And I did not speak out Because I was not a trade unionist Then they
+      came for the Jews And I did not speak out Because I was not a Jew Then they came
+      for me And there was no one left To speak out for me Holocaust Memorial Day Trust
+      Now Weltwoche is also reflecting on the lack of a fair hearing and politically
+      motivated persecution, not in as much detail as in our article of May 25, 2025
+      , but still. “Opportunism is costing a 70-year-old military analyst his quality
+      of life” Weltwoche has published half a dozen articles on Jacque Baud, and Köppel
+      is playing the Joan of Arc of journalists, styling himself in his own way as the
+      Winkelried of his guild. It’s rather late in the day. Had Köppel reacted with
+      the same force in May, the men and women in Brussels would probably have thought
+      twice about sanctioning a Swiss citizen. Opportunism is costing a 70-year-old
+      military analyst his quality of life. Official Switzerland Remains Silent It is
+      nothing new that my home country no longer has any backbone when it comes to Brussels.
+      Weltwoche writes: “In Bern, they would prefer to have nothing to do with it and
+      are passing the buck like a hot potato.” Weltwoche, December 18, 2025 This is
+      obviously worrying, but the Swiss government is behaving in exactly the same way
+      as Köppel did in May this year when German colleagues were sanctioned. They wanted
+      nothing to do with the whole affair. The Next Litmus Test for Switzerland Is Coming
+      Soon The EU’s plundering of the Russian Federation’s frozen funds will soon be
+      complete. Incidentally, this has nothing to do with war, but rather with the sheer
+      financial and political survival of the EU and its criminal leaders, because without
+      the stolen money, the EU is bankrupt. Despite the clarity that the EU is a criminal
+      organization, Switzerland is negotiating a comprehensive package of new agreements
+      with the EU, including the integration of dynamic legal adoption processes. This
+      means that Switzerland is actually discussing automatically adopting the laws
+      of a criminal organization. Patrick Baab Interviewed Jacques Baud We would like
+      to draw your attention to the interview recorded on December 16 by our author
+      Patrik Baab with Jaques Baud.'
+    one_sentence_summary: The article discusses the EU's sanctions against journalists,
+      highlighting the case of Swiss citizen Jacques Baud, and criticizes the lack of
+      response from Switzerland, comparing the situation to historical injustices.
+    paragraph_summary: The article discusses the recent sanctions imposed by the EU
+      on Jacques Baud, a respected Swiss military analyst, drawing parallels to previous
+      sanctions against German journalists Alina Lipp and Thomas Röper. It criticizes
+      the EU's actions as a form of censorship aimed at suppressing objective analysis
+      and truth, likening the current situation to the oppressive tactics of the Nazi
+      regime. Baud, known for his impartial and fact-based assessments of warfare, has
+      faced backlash for his views, which contradict the prevailing Russophobic narrative
+      within the EU. The author expresses concern over the implications of these sanctions
+      for freedom of expression and the chilling effect on journalists and analysts
+      who provide critical perspectives on the ongoing conflict.
+    published: '2025-12-18T12:06:23+00:00'
+  - title: Jacques Baud is being Sanctioned—and Switzerland is Fast Asleep
+    url: https://sonar21.com/jacques-baud-is-being-sanctioned-and-switzerland-is-fast-asleep/
+    text: 'When German journalists Röper and Lipp were sanctioned, no one in Switzerland
+      reacted—now one of the world’s most respected military analysts is being sanctioned—a
+      Swiss citizen. Weltwoche is waking up, Switzerland is fast asleep. By Peter Hanseler
+      via ForumGeopolitica.com Jaques Baud – Source: Jacques Baud Introduction Terrorizing
+      journalists with sanctions in order to suppress the truth is nothing new for the
+      EU. On May 20, 2025, the EU sanctioned two German journalists for the first time—Alina
+      Lipp and Thomas Röper. At the time, we reported in detail on this case, “ EU sanctions
+      German journalists ,” and also analyzed the case from a legal perspective. The
+      result was clear: punishment without crime or trial, disenfranchisement and expropriation
+      without a hearing. The EU is dangerously close to the Nazi regime of 1936, when
+      Thomas Mann was expatriated. Following the same pattern, action is now being taken
+      against a Swiss citizen for the first time. Jacques Baud – You Can’t Be More Objective
+      Than He Is Jacques Baud is one of the most objective and respected military analysts
+      around. He is highly regarded and respected not only throughout Europe, but also
+      in the US. His work is not limited to analysis on the most prestigious YouTube
+      platforms; he has also written numerous excellent books. His style is unique in
+      that he does not concern himself with politics, but only with the analysis of
+      warfare, in a calm and dispassionate manner. His analyses have never been anti-Ukrainian
+      or pro-Russian, but objective. He has long seen a NATO defeat on the horizon,
+      not based on his wishes, but on the facts on the long front and the war strategy
+      and tactics of the various parties. This did not fit in at all with the Russophobic
+      war cries of the EU, which still dreams of ultimate victory today, just like Adolf
+      Hitler did in the spring of 1945. The latest example comes from Friedrich Merz,
+      whose lucidity must now seriously be called into question. To justify the theft
+      of Russian assets, he said the following before the German Bundestag on December
+      15, 2025: “To be very clear and very explicit here: we are not doing this to prolong
+      the war. On the contrary, we are doing this to end this war as quickly as possible,
+      ladies and gentlemen. Because this sends a clear signal to Moscow that continuing
+      this war is pointless for Moscow.” Friedrich Merz, December 15, 2025 Jacques Baud’s
+      crime was therefore that his analyses were correct—no more and no less. Die Weltwoche
+      Stands up— Finally When Alina Lipp and Thomas Röper were sanctioned, Weltwoche
+      contented itself with an indifferent, lukewarm article and did not stand up for
+      its colleagues – we were shocked. It seems that the opportunistic Mr. Köppel has
+      felt the heat from Ms. Kaja Kallas a little too closely for his liking: Köppel
+      is finally standing up, because he could be next, and, as Martin Niemöller said,
+      when it’s your turn, you’re wide awake. “First they came for the Communists And
+      I did not speak out Because I was not a Communist Then they came for the Socialists
+      And I did not speak out Because I was not a Socialist Then they came for the trade
+      unionists And I did not speak out Because I was not a trade unionist Then they
+      came for the Jews And I did not speak out Because I was not a Jew Then they came
+      for me And there was no one left To speak out for me Holocaust Memorial Day Trust
+      Now Weltwoche is also reflecting on the lack of a fair hearing and politically
+      motivated persecution, not in as much detail as in our article of May 25, 2025
+      , but still. “Opportunism is costing a 70-year-old military analyst his quality
+      of life” Weltwoche has published half a dozen articles on Jacque Baud, and Köppel
+      is playing the Joan of Arc of journalists, styling himself in his own way as the
+      Winkelried of his guild. It’s rather late in the day. Had Köppel reacted with
+      the same force in May, the men and women in Brussels would probably have thought
+      twice about sanctioning a Swiss citizen. Opportunism is costing a 70-year-old
+      military analyst his quality of life. Official Switzerland Remains Silent It is
+      nothing new that my home country no longer has any backbone when it comes to Brussels.
+      Weltwoche writes: “In Bern, they would prefer to have nothing to do with it and
+      are passing the buck like a hot potato.” Weltwoche, December 18, 2025 This is
+      obviously worrying, but the Swiss government is behaving in exactly the same way
+      as Köppel did in May this year when German colleagues were sanctioned. They wanted
+      nothing to do with the whole affair. The Next Litmus Test for Switzerland Is Coming
+      Soon The EU’s plundering of the Russian Federation’s frozen funds will soon be
+      complete. Incidentally, this has nothing to do with war, but rather with the sheer
+      financial and political survival of the EU and its criminal leaders, because without
+      the stolen money, the EU is bankrupt. Despite the clarity that the EU is a criminal
+      organization, Switzerland is negotiating a comprehensive package of new agreements
+      with the EU, including the integration of dynamic legal adoption processes. This
+      means that Switzerland is actually discussing automatically adopting the laws
+      of a criminal organization. Patrick Baab Interviewed Jacques Baud We would like
+      to draw your attention to the interview recorded on December 16 by our author
+      Patrik Baab with Jaques Baud.'
+    one_sentence_summary: The article discusses the EU's sanctions against journalists,
+      highlighting the case of Swiss citizen Jacques Baud, and criticizes the lack of
+      response from Switzerland, comparing the situation to historical injustices.
+    paragraph_summary: The article discusses the recent sanctions imposed by the EU
+      on Jacques Baud, a respected Swiss military analyst, drawing parallels to previous
+      sanctions against German journalists Alina Lipp and Thomas Röper. It criticizes
+      the EU's actions as a form of censorship aimed at suppressing objective analysis
+      and truth, likening the current situation to the oppressive tactics of the Nazi
+      regime. Baud, known for his impartial and fact-based assessments of warfare, has
+      faced backlash for his views, which contradict the prevailing Russophobic narrative
+      within the EU. The author expresses concern over the implications of these sanctions
+      for freedom of expression and the chilling effect on journalists and analysts
+      who provide critical perspectives on the ongoing conflict.
+    published: '2025-12-18T12:06:23+00:00'
+  - title: US Officials, Including Witkoff and Kushner, Are Getting Russia Wrong
+    url: https://sonar21.com/us-officials-including-witkoff-and-kushner-are-getting-russia-wrong/
+    text: 'My old friend, Sy Hersh, is out with a new piece on Substack that reveals
+      a staggering ignorance and delusional thinking on the part of Steven Witkoff,
+      Jared Kushner and other advisors in the Trump administration. Sy is a reporter…
+      He records what his sources tell him; he does not opine. Here is what his well-placed
+      sources in the Trump administration told him about Russia: In the view of US officials
+      involved in the negotiations, Putin is facing increasing political, economic,
+      and military opposition in Moscow—mortgage rates are soaring and the Russian military
+      is in serious disarray—has realized that he must end the war. One US official
+      involved in the talks told me that since the end of the summer Putin has been
+      aware that he can “no longer act alone. . . . He needs money and has got to consolidate
+      what he’s already achieved” in Ukraine. “He is not a superman.”. . . The US official
+      told me that Putin is aware that there is little to be gained by continuing his
+      offensive in Ukraine, where territory has been gained at the cost of heavy losses
+      of men and materiel. Ongoing warfare is not going to change the balance of forces.
+      Putin is under pressure to end the war from his military and from a public staggered
+      by its continuing cost, and inflation is at 8.4 percent. Some of the most senior
+      Russian generals, while still loyal to Putin, urgently want the depleted Russian
+      Army to get out. I have been told that there are six essential elements of the
+      tentative settlement to which “Russia has essentially agreed” and they are “not
+      likely to be significantly modified.” According to a draft agreement that has
+      yet to be signed, they include: Ukraine will be allowed to build and maintain
+      a standing army of 800,000, which is much greater than Russia initially proposed.
+      The previous proposal called for a standing Ukrainian army of 600,000. Russian
+      compliance with the agreement will be monitored by Europeans on the ground, buttressed
+      by American satellite intelligence. Russia will not deploy its troops within 150
+      miles of the border with Ukraine. Russia agreed that by 2027, if Zelensky has
+      an opponent, Ukraine could have an election for the presidency. Russia is also
+      insisting that the entire territory of Donbas, the easternmost region of Ukraine,
+      most of which is under Russian control, will be in effect ceded to Russia. One
+      solution now on the table would involve the notion of suzerainty: a relationship
+      where a powerful state has dominance over a weaker state and steers its foreign
+      policy and defense, while allowing it internal self-governance. The agreement
+      allows Ukraine to join the European Union as soon as January 2027, a long sought
+      economic goal of Zelensky’s. Russia still publicly objects to it, but a commitment
+      by Washington and the European Union not to admit Ukraine into NATO will make
+      EU membership for Ukraine acceptable to Putin. I have no doubt that Sy is accurately
+      reporting what he was told by his sources. It is alarming that the US officials
+      involved in the negotiations with Russia — and this directly implicates Witkoff
+      and Kushner — are so out of touch with reality. The “official” or “officials”
+      that spoke to Sy are clearly regurgitating Ukrainian propaganda about the supposedly
+      dire state of the Russian military and the allegedly weak economy. I excuse Sy’s
+      sloppy reporting because of his age… He’s pushing towards 90 years of age. He
+      failed to push back on the claim that Russia’s 8.4% inflation is a problem. Wages
+      in Russia during the past year grew by 20%… So yes, prices have gone up but wages
+      have exceeded the rise in prices. Just one example of misinformation or ignorance
+      on the part of the US official who fed this line of crap to Sy. Let’s take a close
+      look at each of the six points. First up: Ukraine will be allowed to build and
+      maintain a standing army of 800,000, which is much greater than Russia initially
+      proposed. The previous proposal called for a standing Ukrainian army of 600,000.
+      As I have discussed in a previous post, Russia and Ukraine reached a tentative
+      agreement in March 2022 to limit Ukraine’s army to 85,000. Russia’s stated goal
+      is the demilitarization of Ukraine. There is absolutely no way that Russia will
+      agree to let Ukraine have a larger army today than it had in February 2022. Next
+      up, point two: Russian compliance with the agreement will be monitored by Europeans
+      on the ground, buttressed by American satellite intelligence. I defer to Deputy
+      Foreign Minister Ryabkov, who addressed this very point in a recent interview
+      with ABC News: Ryabkov ruled out any NATO troop presence in Ukraine “ under any
+      circumstances ,” extending this to non-NATO European forces as well. He welcomed
+      U.S. efforts under Trump but emphasized Russia is guided solely by national interests.
+      Point three also is complete nonsense: Russia will not deploy its troops within
+      150 miles of the border with Ukraine. If Russia accepted this point, it would
+      have to withdraw its troops from Pokrovsk and Myrnograd… That ain’t happening.
+      Point four also is non-starter: Russia agreed that by 2027, if Zelensky has an
+      opponent, Ukraine could have an election for the presidency. Putin and his national
+      security team have been emphatic that new elections in Ukraine are a pro-condition
+      for negotiations to begin. This is simply more delusional thinking on the part
+      of the West. Then there is point five… The US negotiators continue to ignore what
+      Putin and his team have been saying, repeatedly, since June 14, 2024. Sergei Ryabkov
+      made this quite clear in his interview with ABC: Russia will not compromise on
+      control of Donbas, Novorossiya (parts of southern Ukraine), and especially Crimea,
+      which he called “integral parts of Russia” enshrined in the constitution. He described
+      these as five “subjects” (likely referring to the annexed regions: Crimea, Donetsk,
+      Luhansk, Kherson, Zaporizhzhia) where concessions would revise “a very fundamental
+      element of our statehood.” Point number six is the only one that Russia will likely
+      accept: The agreement allows Ukraine to join the European Union as soon as January
+      2027, a long sought economic goal of Zelensky’s. Russia still publicly objects
+      to it, but a commitment by Washington and the European Union not to admit Ukraine
+      into NATO will make EU membership for Ukraine acceptable to Putin. Ukraine’s economy
+      is a complete basket case. I think this is a form of macabre Russian humor… Put
+      the economically and demographically crippled in the EU and let them carry the
+      cost of a deadbeat country. As Ray McGovern says, if you want to know what the
+      Russians are thinking then just listen to what they say. Russian President Vladimir
+      Putin delivered a major address at the expanded meeting of the Defense Ministry
+      Board in Moscow today (i.e., December 17, 2025) . The speech focused on military
+      achievements, Russia’s strategic position, and the ongoing “special military operation”
+      in Ukraine, with direct comments on negotiations. On the topic of negotiations,
+      Putin stated that Russia would prefer to achieve its goals in Ukraine through
+      diplomatic means and eliminate the “root causes of the conflict.” However, if
+      Ukraine and its “foreign patrons” (implying the West) refuse substantive talks,
+      Russia will achieve the liberation of its “historical lands” by military means.
+      He emphasized that the operation’s objectives will be met “unconditionally.” He
+      accused European leaders of “war hysteria” and called them “little pigs” (or “shoats”)
+      for exaggerating a Russian threat to Europe, labeling it “pure nonsense.” Putin
+      dismissed Western claims of preparing for war with Russia as lies, while noting
+      Europe’s military buildup. With respect to the Ukrainian territories that Russia
+      annexed in 2014 (i.e., Crimea) and 2022 (i.e., Donetsk, Luhansk, Kherson, Zaporizhzhia),
+      Putin reiterated the point made by Mr. Ryabkov…No compromise on annexed regions
+      (Crimea, Donbas, and other “Novorossiya” areas), which Putin described as integral
+      to Russia. He tied progress to international recognition of Russia’s gains. While
+      welcoming U.S. efforts under Trump, Putin framed Russia’s position as strengthened
+      by battlefield successes (e.g., liberating over 300 settlements in 2025). He implied
+      ongoing proposals (referencing Berlin talks) must align with Russia’s demands,
+      or military advancement will continue. I wonder if Sy’s source was General Frosted
+      Flakes, errr, I  mean General Kellogg? If Sy’s reporting reflects what Wittkoff
+      and Kushner have told President Trump, and Trump is expecting a peace agreement
+      by Christmas, then Donald is going to get a big lump of black coal in his stocking.
+      Not a happy Christmas. Here are my recent podcasts… The first is with Dmitry Zolotarev,
+      the second with Michael Farris and the last with Danny Davis: I thank you for
+      your invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: Sy Hersh's latest Substack article highlights the misguided
+      perceptions of Trump administration advisors regarding Russia, revealing that
+      U.S. officials believe Putin is recognizing the need to end the war in Ukraine
+      due to mounting internal challenges.
+    paragraph_summary: In a recent Substack article, journalist Sy Hersh highlights
+      the misguided perceptions of Steven Witkoff, Jared Kushner, and other Trump administration
+      advisors regarding Russia's situation amid the ongoing Ukraine conflict. According
+      to sources within the administration, U.S. officials believe that Vladimir Putin
+      is increasingly pressured by political, economic, and military challenges, including
+      soaring mortgage rates and a disorganized military, leading him to recognize the
+      need to end the war. The officials assert that Putin understands the futility
+      of continuing the offensive in Ukraine, where heavy losses have been incurred,
+      and that he is under pressure from both military leaders and the public to seek
+      a resolution. A tentative settlement has reportedly been agreed upon, allowing
+      Ukraine to maintain a larger standing army than previously proposed, with compliance
+      monitored by European observers and supported by U.S. intelligence.
+    published: '2025-12-18T04:35:45+00:00'
+  - title: US Officials, Including Witkoff and Kushner, Are Getting Russia Wrong
+    url: https://sonar21.com/us-officials-including-witkoff-and-kushner-are-getting-russia-wrong/
+    text: 'My old friend, Sy Hersh, is out with a new piece on Substack that reveals
+      a staggering ignorance and delusional thinking on the part of Steven Witkoff,
+      Jared Kushner and other advisors in the Trump administration. Sy is a reporter…
+      He records what his sources tell him; he does not opine. Here is what his well-placed
+      sources in the Trump administration told him about Russia: In the view of US officials
+      involved in the negotiations, Putin is facing increasing political, economic,
+      and military opposition in Moscow—mortgage rates are soaring and the Russian military
+      is in serious disarray—has realized that he must end the war. One US official
+      involved in the talks told me that since the end of the summer Putin has been
+      aware that he can “no longer act alone. . . . He needs money and has got to consolidate
+      what he’s already achieved” in Ukraine. “He is not a superman.”. . . The US official
+      told me that Putin is aware that there is little to be gained by continuing his
+      offensive in Ukraine, where territory has been gained at the cost of heavy losses
+      of men and materiel. Ongoing warfare is not going to change the balance of forces.
+      Putin is under pressure to end the war from his military and from a public staggered
+      by its continuing cost, and inflation is at 8.4 percent. Some of the most senior
+      Russian generals, while still loyal to Putin, urgently want the depleted Russian
+      Army to get out. I have been told that there are six essential elements of the
+      tentative settlement to which “Russia has essentially agreed” and they are “not
+      likely to be significantly modified.” According to a draft agreement that has
+      yet to be signed, they include: Ukraine will be allowed to build and maintain
+      a standing army of 800,000, which is much greater than Russia initially proposed.
+      The previous proposal called for a standing Ukrainian army of 600,000. Russian
+      compliance with the agreement will be monitored by Europeans on the ground, buttressed
+      by American satellite intelligence. Russia will not deploy its troops within 150
+      miles of the border with Ukraine. Russia agreed that by 2027, if Zelensky has
+      an opponent, Ukraine could have an election for the presidency. Russia is also
+      insisting that the entire territory of Donbas, the easternmost region of Ukraine,
+      most of which is under Russian control, will be in effect ceded to Russia. One
+      solution now on the table would involve the notion of suzerainty: a relationship
+      where a powerful state has dominance over a weaker state and steers its foreign
+      policy and defense, while allowing it internal self-governance. The agreement
+      allows Ukraine to join the European Union as soon as January 2027, a long sought
+      economic goal of Zelensky’s. Russia still publicly objects to it, but a commitment
+      by Washington and the European Union not to admit Ukraine into NATO will make
+      EU membership for Ukraine acceptable to Putin. I have no doubt that Sy is accurately
+      reporting what he was told by his sources. It is alarming that the US officials
+      involved in the negotiations with Russia — and this directly implicates Witkoff
+      and Kushner — are so out of touch with reality. The “official” or “officials”
+      that spoke to Sy are clearly regurgitating Ukrainian propaganda about the supposedly
+      dire state of the Russian military and the allegedly weak economy. I excuse Sy’s
+      sloppy reporting because of his age… He’s pushing towards 90 years of age. He
+      failed to push back on the claim that Russia’s 8.4% inflation is a problem. Wages
+      in Russia during the past year grew by 20%… So yes, prices have gone up but wages
+      have exceeded the rise in prices. Just one example of misinformation or ignorance
+      on the part of the US official who fed this line of crap to Sy. Let’s take a close
+      look at each of the six points. First up: Ukraine will be allowed to build and
+      maintain a standing army of 800,000, which is much greater than Russia initially
+      proposed. The previous proposal called for a standing Ukrainian army of 600,000.
+      As I have discussed in a previous post, Russia and Ukraine reached a tentative
+      agreement in March 2022 to limit Ukraine’s army to 85,000. Russia’s stated goal
+      is the demilitarization of Ukraine. There is absolutely no way that Russia will
+      agree to let Ukraine have a larger army today than it had in February 2022. Next
+      up, point two: Russian compliance with the agreement will be monitored by Europeans
+      on the ground, buttressed by American satellite intelligence. I defer to Deputy
+      Foreign Minister Ryabkov, who addressed this very point in a recent interview
+      with ABC News: Ryabkov ruled out any NATO troop presence in Ukraine “ under any
+      circumstances ,” extending this to non-NATO European forces as well. He welcomed
+      U.S. efforts under Trump but emphasized Russia is guided solely by national interests.
+      Point three also is complete nonsense: Russia will not deploy its troops within
+      150 miles of the border with Ukraine. If Russia accepted this point, it would
+      have to withdraw its troops from Pokrovsk and Myrnograd… That ain’t happening.
+      Point four also is non-starter: Russia agreed that by 2027, if Zelensky has an
+      opponent, Ukraine could have an election for the presidency. Putin and his national
+      security team have been emphatic that new elections in Ukraine are a pro-condition
+      for negotiations to begin. This is simply more delusional thinking on the part
+      of the West. Then there is point five… The US negotiators continue to ignore what
+      Putin and his team have been saying, repeatedly, since June 14, 2024. Sergei Ryabkov
+      made this quite clear in his interview with ABC: Russia will not compromise on
+      control of Donbas, Novorossiya (parts of southern Ukraine), and especially Crimea,
+      which he called “integral parts of Russia” enshrined in the constitution. He described
+      these as five “subjects” (likely referring to the annexed regions: Crimea, Donetsk,
+      Luhansk, Kherson, Zaporizhzhia) where concessions would revise “a very fundamental
+      element of our statehood.” Point number six is the only one that Russia will likely
+      accept: The agreement allows Ukraine to join the European Union as soon as January
+      2027, a long sought economic goal of Zelensky’s. Russia still publicly objects
+      to it, but a commitment by Washington and the European Union not to admit Ukraine
+      into NATO will make EU membership for Ukraine acceptable to Putin. Ukraine’s economy
+      is a complete basket case. I think this is a form of macabre Russian humor… Put
+      the economically and demographically crippled in the EU and let them carry the
+      cost of a deadbeat country. As Ray McGovern says, if you want to know what the
+      Russians are thinking then just listen to what they say. Russian President Vladimir
+      Putin delivered a major address at the expanded meeting of the Defense Ministry
+      Board in Moscow today (i.e., December 17, 2025) . The speech focused on military
+      achievements, Russia’s strategic position, and the ongoing “special military operation”
+      in Ukraine, with direct comments on negotiations. On the topic of negotiations,
+      Putin stated that Russia would prefer to achieve its goals in Ukraine through
+      diplomatic means and eliminate the “root causes of the conflict.” However, if
+      Ukraine and its “foreign patrons” (implying the West) refuse substantive talks,
+      Russia will achieve the liberation of its “historical lands” by military means.
+      He emphasized that the operation’s objectives will be met “unconditionally.” He
+      accused European leaders of “war hysteria” and called them “little pigs” (or “shoats”)
+      for exaggerating a Russian threat to Europe, labeling it “pure nonsense.” Putin
+      dismissed Western claims of preparing for war with Russia as lies, while noting
+      Europe’s military buildup. With respect to the Ukrainian territories that Russia
+      annexed in 2014 (i.e., Crimea) and 2022 (i.e., Donetsk, Luhansk, Kherson, Zaporizhzhia),
+      Putin reiterated the point made by Mr. Ryabkov…No compromise on annexed regions
+      (Crimea, Donbas, and other “Novorossiya” areas), which Putin described as integral
+      to Russia. He tied progress to international recognition of Russia’s gains. While
+      welcoming U.S. efforts under Trump, Putin framed Russia’s position as strengthened
+      by battlefield successes (e.g., liberating over 300 settlements in 2025). He implied
+      ongoing proposals (referencing Berlin talks) must align with Russia’s demands,
+      or military advancement will continue. I wonder if Sy’s source was General Frosted
+      Flakes, errr, I  mean General Kellogg? If Sy’s reporting reflects what Wittkoff
+      and Kushner have told President Trump, and Trump is expecting a peace agreement
+      by Christmas, then Donald is going to get a big lump of black coal in his stocking.
+      Not a happy Christmas. Here are my recent podcasts… The first is with Dmitry Zolotarev,
+      the second with Michael Farris and the last with Danny Davis: I thank you for
+      your invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: Sy Hersh's latest Substack article highlights the misguided
+      perceptions of Trump administration advisors regarding Russia, revealing that
+      U.S. officials believe Putin is recognizing the need to end the war in Ukraine
+      due to mounting internal challenges.
+    paragraph_summary: In a recent Substack article, journalist Sy Hersh highlights
+      the misguided perceptions of Steven Witkoff, Jared Kushner, and other Trump administration
+      advisors regarding Russia's situation amid the ongoing Ukraine conflict. According
+      to sources within the administration, U.S. officials believe that Vladimir Putin
+      is increasingly pressured by political, economic, and military challenges, including
+      soaring mortgage rates and a disorganized military, leading him to recognize the
+      need to end the war. The officials assert that Putin understands the futility
+      of continuing the offensive in Ukraine, where heavy losses have been incurred,
+      and that he is under pressure from both military leaders and the public to seek
+      a resolution. A tentative settlement has reportedly been agreed upon, allowing
+      Ukraine to maintain a larger standing army than previously proposed, with compliance
+      monitored by European observers and supported by U.S. intelligence.
+    published: '2025-12-18T04:35:45+00:00'
   - title: If You’re Talking to Yourself, It Ain’t a Conversation… Trump’s Failed Diplomacy
       in Ukraine
     url: https://sonar21.com/if-youre-talking-to-yourself-it-aint-a-conversation-trumps-failed-diplomacy-in-ukraine/

@@ -7,16 +7,704 @@ description: "27-year CIA analyst turned independent; co-founder of Veteran Inte
 websites:
   - https://consortiumnews.com
 summary: |
-  As global crises intensify, the latest developments highlight escalating tensions in the Asia-Pacific, ongoing civil rights concerns in the US, and shifting legal approaches to press freedom in the UK.
+  The past 24 hours have seen significant developments in the Middle East and the Global South, with independent analysts highlighting the deepening consequences of Western policy choices and the ongoing suppression of dissent.
   
-  Amid rising US-China rivalry, the AUKUS alliance is drawing Australia deeper into Washington’s strategic orbit. **Julia Norman** notes that recent US-Australia talks have focused on expanding nuclear-powered submarine capabilities and securing critical minerals, moves widely interpreted as preparations for potential conflict with China. This deepening military and economic integration underscores the region’s volatility. I assess with high confidence that these steps will further strain US-China relations and increase the likelihood of military posturing in the Indo-Pacific.
+  A major point of concern is the Israeli cabinet’s approval of 19 new settlements in the occupied West Bank, a move that **Ray McGovern** describes as an escalation of “illegal settlement expansion.” This policy has contributed to a sharp rise in violence, with over 1,039 Palestinians killed in the past two years, including at least 225 children, according to McGovern. The expansion is widely condemned by independent observers, who argue it entrenches apartheid conditions and further undermines prospects for a negotiated peace.
   
-  Domestically, the US faces renewed scrutiny over its prison system. According to **Ray McGovern**, a year into President Trump’s second term, hopes for reform have faded, with persistent reports of inmate abuse and neglect. This signals a continued erosion of civil rights, a trend that is likely to persist absent significant political change. There is a high chance that human rights organizations will intensify their advocacy, but meaningful policy shifts remain unlikely in the near term.
+  On the international stage, **Aastha Uprety** warns that leading Western politicians, such as former U.S. Secretary of State Hillary Clinton, risk remaining “uninformed” if they rely solely on mainstream media narratives, particularly regarding U.S. support for Israel. Uprety’s analysis underscores a growing disconnect between official Western discourse and the realities on the ground, especially as allegations of genocide in Gaza continue to mount.
   
-  In the UK, the Crown Prosecution Service has dropped its terrorism case against journalist Richard Medhurst, who had faced charges for reporting on Gaza. This decision, confirmed by **Ray McGovern**, is seen as a rare victory for press freedom amid broader concerns about the suppression of dissenting voices in Western democracies. While this outcome may embolden some journalists, the overall climate remains challenging for independent reporting on sensitive international issues.
+  Meanwhile, in the Global South, **Vijay Prashad** draws attention to the persistent challenges facing countries striving for industrialization. Prashad notes that despite aspirations for economic development, these nations remain “trapped in dependency and underdevelopment” due to debt-driven austerity, corporate dominance, and ongoing geopolitical conflicts. This dynamic, he argues, perpetuates global inequality and limits the agency of the Global South in international affairs.
   
-  Overall, the prevailing trends point toward increased geopolitical polarization, persistent domestic rights challenges in the US, and a fragile environment for press freedom in the West. Most analysts agree that, barring unforeseen developments, these dynamics will continue to define the global landscape into early 2026.
+  Looking ahead, the majority of independent analysts cited in these reports predict with high confidence that Israeli settlement expansion will continue, likely fueling further violence and international condemnation. There is also a strong consensus that Western governments will maintain their current policy course, despite mounting criticism and evidence of humanitarian crises. In the Global South, the prospects for industrialization remain constrained by structural factors, making significant progress unlikely in the short term unless there is a major shift in global economic governance.
+  
+  In summary, the latest developments point to deepening polarization, persistent conflict, and limited prospects for transformative change without substantial shifts in policy and media narratives.
 articles:
+  - title: 'Hillary Clinton Is Wrong: The Genocide Isn’t ‘Fake News’'
+    url: https://consortiumnews.com/2025/12/23/hillary-clinton-is-wrong-the-genocide-isnt-fake-news/
+    text: If the former U.S. secretary of state and her peers are only consuming legacy
+      news sources then they’d be the ones who are uninformed, writes Aastha Uprety.
+      By Aastha Uprety Common Dreams CN at 30 As unconditional support for Israel… Read
+      more →
+    one_sentence_summary: Aastha Uprety argues that former U.S. Secretary of State and
+      her colleagues may remain uninformed if they rely solely on traditional news sources,
+      particularly regarding the complexities of unconditional support for Israel.
+    paragraph_summary: In her article, Aastha Uprety argues that former U.S. Secretary
+      of State and others who rely solely on traditional news outlets may be misinformed,
+      particularly regarding the complexities of the Israel-Palestine conflict. She
+      emphasizes the importance of diversifying information sources to gain a more nuanced
+      understanding of global issues, suggesting that a narrow focus on legacy media
+      can lead to a skewed perspective on international affairs.
+    published: '2025-12-23T19:01:54+00:00'
+  - title: 'Hillary Clinton Is Wrong: The Genocide Isn’t ‘Fake News’'
+    url: https://consortiumnews.com/2025/12/23/hillary-clinton-is-wrong-the-genocide-isnt-fake-news/
+    text: If the former U.S. secretary of state and her peers are only consuming legacy
+      news sources then they’d be the ones who are uninformed, writes Aastha Uprety.
+      By Aastha Uprety Common Dreams CN at 30 As unconditional support for Israel… Read
+      more →
+    one_sentence_summary: Aastha Uprety argues that former U.S. Secretary of State and
+      her colleagues may remain uninformed if they rely solely on traditional news sources,
+      particularly regarding the complexities of unconditional support for Israel.
+    paragraph_summary: In her article, Aastha Uprety argues that former U.S. Secretary
+      of State and others who rely solely on traditional news outlets may be misinformed,
+      particularly regarding the complexities of the Israel-Palestine conflict. She
+      emphasizes the importance of diversifying information sources to gain a more nuanced
+      understanding of global issues, suggesting that a narrow focus on legacy media
+      can lead to a skewed perspective on international affairs.
+    published: '2025-12-23T19:01:54+00:00'
+  - title: 'Vijay Prashad: End the Wars & Restart the Factories'
+    url: https://consortiumnews.com/2025/12/23/vijay-prashad-end-the-wars-restart-the-factories/
+    text: 'While industrialisation remains a top priority for Global South countries,
+      debt-driven austerity, corporate dominance, wars and sanctions keep many poorer
+      nations locked into dependency and underdevelopment. By Vijay Prashad Tricontinental:
+      Institute for Social Research  CN at 30 In mid-November 2025, at a… Read more
+      →'
+    one_sentence_summary: The article by Vijay Prashad highlights how industrialization
+      is a key focus for Global South countries, yet they remain trapped in dependency
+      and underdevelopment due to factors like debt-driven austerity, corporate dominance,
+      and geopolitical conflicts.
+    paragraph_summary: The article by Vijay Prashad highlights the challenges faced
+      by Global South countries in their pursuit of industrialization, emphasizing that
+      debt-driven austerity measures, corporate dominance, and geopolitical conflicts
+      hinder their development. Despite industrialization being a priority, these nations
+      remain trapped in cycles of dependency and underdevelopment due to external pressures
+      such as wars and sanctions. The piece underscores the need for a reevaluation
+      of economic strategies to foster genuine progress and autonomy for poorer nations.
+    published: '2025-12-23T17:00:56+00:00'
+  - title: 'Vijay Prashad: End the Wars & Restart the Factories'
+    url: https://consortiumnews.com/2025/12/23/vijay-prashad-end-the-wars-restart-the-factories/
+    text: 'While industrialisation remains a top priority for Global South countries,
+      debt-driven austerity, corporate dominance, wars and sanctions keep many poorer
+      nations locked into dependency and underdevelopment. By Vijay Prashad Tricontinental:
+      Institute for Social Research  CN at 30 In mid-November 2025, at a… Read more
+      →'
+    one_sentence_summary: The article by Vijay Prashad highlights how industrialization
+      is a key focus for Global South countries, yet they remain trapped in dependency
+      and underdevelopment due to factors like debt-driven austerity, corporate dominance,
+      and geopolitical conflicts.
+    paragraph_summary: The article by Vijay Prashad highlights the challenges faced
+      by Global South countries in their pursuit of industrialization, emphasizing that
+      debt-driven austerity measures, corporate dominance, and geopolitical conflicts
+      hinder their development. Despite industrialization being a priority, these nations
+      remain trapped in cycles of dependency and underdevelopment due to external pressures
+      such as wars and sanctions. The piece underscores the need for a reevaluation
+      of economic strategies to foster genuine progress and autonomy for poorer nations.
+    published: '2025-12-23T17:00:56+00:00'
+  - title: Israeli Cabinet Approves 19 New Apartheid Colonies in Occupied West Bank
+    url: https://consortiumnews.com/2025/12/22/israeli-cabinet-approves-19-new-apartheid-colonies-in-occupied-west-bank/
+    text: The move boosts the illegal expansion drive in the occupied West Bank, where
+      Israeli soldiers and settlers have killed at least 1,039 Palestinians — at least
+      225 of them children — over the past two years. By Brett Wilkins Common… Read
+      more →
+    one_sentence_summary: The article highlights the escalation of illegal settlement
+      expansion in the occupied West Bank, which has resulted in the deaths of over
+      1,039 Palestinians, including at least 225 children, by Israeli soldiers and settlers
+      in the past two years.
+    paragraph_summary: The article discusses the escalation of illegal settlement expansion
+      in the occupied West Bank, highlighting the violence associated with it, including
+      the deaths of at least 1,039 Palestinians, among them 225 children, over the past
+      two years due to actions by Israeli soldiers and settlers.
+    published: '2025-12-23T00:44:05+00:00'
+  - title: Israeli Cabinet Approves 19 New Apartheid Colonies in Occupied West Bank
+    url: https://consortiumnews.com/2025/12/22/israeli-cabinet-approves-19-new-apartheid-colonies-in-occupied-west-bank/
+    text: The move boosts the illegal expansion drive in the occupied West Bank, where
+      Israeli soldiers and settlers have killed at least 1,039 Palestinians — at least
+      225 of them children — over the past two years. By Brett Wilkins Common… Read
+      more →
+    one_sentence_summary: The article highlights the escalation of illegal settlement
+      expansion in the occupied West Bank, which has resulted in the deaths of over
+      1,039 Palestinians, including at least 225 children, by Israeli soldiers and settlers
+      in the past two years.
+    paragraph_summary: The article discusses the escalation of illegal settlement expansion
+      in the occupied West Bank, highlighting the violence associated with it, including
+      the deaths of at least 1,039 Palestinians, among them 225 children, over the past
+      two years due to actions by Israeli soldiers and settlers.
+    published: '2025-12-23T00:44:05+00:00'
+  - title: Become a Member & Get 4 Bob Parry Books!
+    url: https://consortiumnews.com/2025/12/22/become-a-member-get-4-bob-parry-books/
+    text: Consortium News is asking readers to become members of the first U.S. independent
+      news site on the Web, founded by legendary investigative journalist Bob Parry
+      30 years ago in 1995. To show your support for Consortium News and help it… Read
+      more →
+    one_sentence_summary: Consortium News is seeking reader membership to support its
+      operations as the first independent U.S. news site established by investigative
+      journalist Bob Parry in 1995.
+    paragraph_summary: Consortium News, the first independent news site in the U.S.
+      established by renowned investigative journalist Bob Parry in 1995, is seeking
+      readers to become members to support its mission. The organization aims to continue
+      providing independent journalism and invites contributions to help sustain its
+      operations.
+    published: '2025-12-22T21:26:50+00:00'
+  - title: Become a Member & Get 4 Bob Parry Books!
+    url: https://consortiumnews.com/2025/12/22/become-a-member-get-4-bob-parry-books/
+    text: Consortium News is asking readers to become members of the first U.S. independent
+      news site on the Web, founded by legendary investigative journalist Bob Parry
+      30 years ago in 1995. To show your support for Consortium News and help it… Read
+      more →
+    one_sentence_summary: Consortium News is seeking reader membership to support its
+      operations as the first independent U.S. news site established by investigative
+      journalist Bob Parry in 1995.
+    paragraph_summary: Consortium News, the first independent news site in the U.S.
+      established by renowned investigative journalist Bob Parry in 1995, is seeking
+      readers to become members to support its mission. The organization aims to continue
+      providing independent journalism and invites contributions to help sustain its
+      operations.
+    published: '2025-12-22T21:26:50+00:00'
+  - title: 'Jonathan Cook: Britain Has Officially Criminalized Journalism'
+    url: https://consortiumnews.com/2025/12/22/jonathan-cook-britain-has-officially-criminalized-journalism/
+    text: Reporting facts in Keir Starmer’s Britain can now land you in jail for 14
+      years as a terrorist. This is what authoritarian governments do. By Jonathan Cook
+      Jonathan-Cook.net CN at 30 The moment the British government began proscribing
+      political movements… Read more →
+    one_sentence_summary: The article by Jonathan Cook argues that the British government's
+      criminalization of reporting certain political facts equates to authoritarianism,
+      potentially leading to severe penalties, including 14 years in prison for terrorism-related
+      charges.
+    paragraph_summary: In his article, Jonathan Cook argues that the British government's
+      recent measures to criminalize the reporting of certain political movements effectively
+      equate journalistic activities with terrorism, potentially resulting in severe
+      penalties, including up to 14 years in prison. He characterizes these actions
+      as indicative of an authoritarian regime, highlighting the dangers posed to free
+      speech and the press in Keir Starmer's Britain. Cook warns that such policies
+      undermine democratic values and threaten the ability of journalists to report
+      facts without fear of retribution.
+    published: '2025-12-22T20:17:59+00:00'
+  - title: 'Jonathan Cook: Britain Has Officially Criminalized Journalism'
+    url: https://consortiumnews.com/2025/12/22/jonathan-cook-britain-has-officially-criminalized-journalism/
+    text: Reporting facts in Keir Starmer’s Britain can now land you in jail for 14
+      years as a terrorist. This is what authoritarian governments do. By Jonathan Cook
+      Jonathan-Cook.net CN at 30 The moment the British government began proscribing
+      political movements… Read more →
+    one_sentence_summary: The article by Jonathan Cook argues that the British government's
+      criminalization of reporting certain political facts equates to authoritarianism,
+      potentially leading to severe penalties, including 14 years in prison for terrorism-related
+      charges.
+    paragraph_summary: In his article, Jonathan Cook argues that the British government's
+      recent measures to criminalize the reporting of certain political movements effectively
+      equate journalistic activities with terrorism, potentially resulting in severe
+      penalties, including up to 14 years in prison. He characterizes these actions
+      as indicative of an authoritarian regime, highlighting the dangers posed to free
+      speech and the press in Keir Starmer's Britain. Cook warns that such policies
+      undermine democratic values and threaten the ability of journalists to report
+      facts without fear of retribution.
+    published: '2025-12-22T20:17:59+00:00'
+  - title: Anthony Aguilar Wins Sam Adams Award for Integrity
+    url: https://consortiumnews.com/2025/12/22/anthony-aguilar-wins-sam-adams-award-for-integrity/
+    text: 'After the retired U.S. veteran blew the whistle on the Gaza Humanitarian
+      Foundation’s “death-trap” aid centers, he’s continued to condemn the U.S.-backed
+      genocide in Gaza. A notice from the Sam Adams Associates for Integrity in Intelligence:
+      We are honored to… Read more →'
+    one_sentence_summary: A retired U.S. veteran who exposed the Gaza Humanitarian Foundation's
+      dangerous aid centers has been vocal in condemning the U.S.-supported actions
+      in Gaza, as recognized by the Sam Adams Associates for Integrity in Intelligence.
+    paragraph_summary: A retired U.S. veteran has raised concerns about the Gaza Humanitarian
+      Foundation, labeling its aid centers as "death-traps" and criticizing the U.S.
+      for its support of what he describes as genocide in Gaza. His whistleblowing has
+      drawn attention to the humanitarian crisis in the region, and he continues to
+      speak out against the actions of the U.S. government. The Sam Adams Associates
+      for Integrity in Intelligence has acknowledged his efforts and commitment to transparency
+      and accountability in intelligence matters.
+    published: '2025-12-22T20:10:40+00:00'
+  - title: Anthony Aguilar Wins Sam Adams Award for Integrity
+    url: https://consortiumnews.com/2025/12/22/anthony-aguilar-wins-sam-adams-award-for-integrity/
+    text: 'After the retired U.S. veteran blew the whistle on the Gaza Humanitarian
+      Foundation’s “death-trap” aid centers, he’s continued to condemn the U.S.-backed
+      genocide in Gaza. A notice from the Sam Adams Associates for Integrity in Intelligence:
+      We are honored to… Read more →'
+    one_sentence_summary: A retired U.S. veteran who exposed the Gaza Humanitarian Foundation's
+      dangerous aid centers has been vocal in condemning the U.S.-supported actions
+      in Gaza, as recognized by the Sam Adams Associates for Integrity in Intelligence.
+    paragraph_summary: A retired U.S. veteran has raised concerns about the Gaza Humanitarian
+      Foundation, labeling its aid centers as "death-traps" and criticizing the U.S.
+      for its support of what he describes as genocide in Gaza. His whistleblowing has
+      drawn attention to the humanitarian crisis in the region, and he continues to
+      speak out against the actions of the U.S. government. The Sam Adams Associates
+      for Integrity in Intelligence has acknowledged his efforts and commitment to transparency
+      and accountability in intelligence matters.
+    published: '2025-12-22T20:10:40+00:00'
+  - title: Support CN’s Middle East Coverage
+    url: https://consortiumnews.com/2025/12/20/support-cns-middle-east-coverage-2/
+    text: Seven-year old Consortium News in 2002 was one of the first outlets to reject
+      the politicized intelligence for the disastrous Iraq invasion, and has run circles
+      around corporate media on Syria and Gaza. But only with your help. Consortium
+      News… Read more →
+    one_sentence_summary: Consortium News, established in 2002, was a pioneer in rejecting
+      politicized intelligence regarding the Iraq invasion and has outperformed corporate
+      media in covering Syria and Gaza, but relies on public support to continue its
+      work.
+    paragraph_summary: Consortium News, established in 2002, was among the first media
+      outlets to challenge the politicized intelligence that led to the Iraq invasion,
+      and it has consistently outperformed corporate media in its coverage of conflicts
+      in Syria and Gaza. The outlet emphasizes the importance of reader support in continuing
+      its mission to provide independent and critical journalism.
+    published: '2025-12-20T16:13:15+00:00'
+  - title: Support CN’s Middle East Coverage
+    url: https://consortiumnews.com/2025/12/20/support-cns-middle-east-coverage-2/
+    text: Seven-year old Consortium News in 2002 was one of the first outlets to reject
+      the politicized intelligence for the disastrous Iraq invasion, and has run circles
+      around corporate media on Syria and Gaza. But only with your help. Consortium
+      News… Read more →
+    one_sentence_summary: Consortium News, established in 2002, was a pioneer in rejecting
+      politicized intelligence regarding the Iraq invasion and has outperformed corporate
+      media in covering Syria and Gaza, but relies on public support to continue its
+      work.
+    paragraph_summary: Consortium News, established in 2002, was among the first media
+      outlets to challenge the politicized intelligence that led to the Iraq invasion,
+      and it has consistently outperformed corporate media in its coverage of conflicts
+      in Syria and Gaza. The outlet emphasizes the importance of reader support in continuing
+      its mission to provide independent and critical journalism.
+    published: '2025-12-20T16:13:15+00:00'
+  - title: 'Craig Murray: Hunger Strikes & Court Cases'
+    url: https://consortiumnews.com/2025/12/19/craig-murray-hunger-strikes-court-cases/
+    text: Prisoners are now in serious danger and thousands of entirely peaceful protesters
+      in the U.K. face life-changing terrorism charges simply for speech in favor of
+      Palestine Action. By Craig Murray CraigMurray.org.uk CN at 30 Fighting the proscription
+      of Palestine Action has… Read more →
+    one_sentence_summary: The article discusses the serious risks faced by prisoners
+      and the severe terrorism charges against peaceful protesters in the U.K. advocating
+      for Palestine Action, highlighting concerns over freedom of speech and government
+      actions.
+    paragraph_summary: The article by Craig Murray highlights the alarming situation
+      in the U.K., where prisoners are at significant risk and numerous peaceful protesters
+      advocating for Palestine Action are facing severe terrorism charges merely for
+      expressing their views. This crackdown on free speech raises concerns about civil
+      liberties and the implications of labeling peaceful activism as terrorism. The
+      piece emphasizes the urgent need to challenge the proscription of Palestine Action
+      and protect the rights of those advocating for Palestinian rights.
+    published: '2025-12-19T23:00:38+00:00'
+  - title: 'Craig Murray: Hunger Strikes & Court Cases'
+    url: https://consortiumnews.com/2025/12/19/craig-murray-hunger-strikes-court-cases/
+    text: Prisoners are now in serious danger and thousands of entirely peaceful protesters
+      in the U.K. face life-changing terrorism charges simply for speech in favor of
+      Palestine Action. By Craig Murray CraigMurray.org.uk CN at 30 Fighting the proscription
+      of Palestine Action has… Read more →
+    one_sentence_summary: The article discusses the serious risks faced by prisoners
+      and the severe terrorism charges against peaceful protesters in the U.K. advocating
+      for Palestine Action, highlighting concerns over freedom of speech and government
+      actions.
+    paragraph_summary: The article by Craig Murray highlights the alarming situation
+      in the U.K., where prisoners are at significant risk and numerous peaceful protesters
+      advocating for Palestine Action are facing severe terrorism charges merely for
+      expressing their views. This crackdown on free speech raises concerns about civil
+      liberties and the implications of labeling peaceful activism as terrorism. The
+      piece emphasizes the urgent need to challenge the proscription of Palestine Action
+      and protect the rights of those advocating for Palestinian rights.
+    published: '2025-12-19T23:00:38+00:00'
+  - title: 'Bondi Massacre: Curtailing Dissent'
+    url: https://consortiumnews.com/2025/12/19/bondi-massacre-curtailing-dissent/
+    text: We cannot allow this tragedy to be hijacked by cynical politicians and the
+      divisive Zionist lobby, writes Stefan Moore.   By Stefan Moore Pearls and Irritations
+      CN at 30 My wife and I were at home preparing dinner in Bondi when we heard… Read
+      more →
+    one_sentence_summary: Stefan Moore argues that the tragedy should not be exploited
+      by opportunistic politicians and the divisive Zionist lobby.
+    paragraph_summary: In his article, Stefan Moore expresses concern that a recent
+      tragedy should not be exploited by opportunistic politicians and the divisive
+      Zionist lobby. He emphasizes the importance of maintaining focus on the human
+      impact of the event rather than allowing it to become a pawn in political agendas.
+      Moore's reflections are rooted in his personal experience, as he recounts being
+      at home with his wife in Bondi when they first learned of the incident, highlighting
+      the need for unity and compassion in the face of adversity.
+    published: '2025-12-19T21:39:57+00:00'
+  - title: 'Bondi Massacre: Curtailing Dissent'
+    url: https://consortiumnews.com/2025/12/19/bondi-massacre-curtailing-dissent/
+    text: We cannot allow this tragedy to be hijacked by cynical politicians and the
+      divisive Zionist lobby, writes Stefan Moore.   By Stefan Moore Pearls and Irritations
+      CN at 30 My wife and I were at home preparing dinner in Bondi when we heard… Read
+      more →
+    one_sentence_summary: Stefan Moore argues that the tragedy should not be exploited
+      by opportunistic politicians and the divisive Zionist lobby.
+    paragraph_summary: In his article, Stefan Moore expresses concern that a recent
+      tragedy should not be exploited by opportunistic politicians and the divisive
+      Zionist lobby. He emphasizes the importance of maintaining focus on the human
+      impact of the event rather than allowing it to become a pawn in political agendas.
+      Moore's reflections are rooted in his personal experience, as he recounts being
+      at home with his wife in Bondi when they first learned of the incident, highlighting
+      the need for unity and compassion in the face of adversity.
+    published: '2025-12-19T21:39:57+00:00'
+  - title: 'PATRICK LAWRENCE: After the First 70,669 Deaths'
+    url: https://consortiumnews.com/2025/12/19/patrick-lawrence-after-the-first-70669-deaths/
+    text: I take the 15 victims at Bondi Beach and divide them by the 71,000 deaths
+      in Gaza as of this writing. I get a fraction of 0.0002143. By Patrick Lawrence
+      Special to Consortium News CN at 30 I read in a… Read more →
+    one_sentence_summary: The article discusses the stark contrast in media coverage
+      and public perception of the 15 victims at Bondi Beach compared to the 71,000
+      deaths in Gaza, highlighting the disparity in attention given to different tragedies.
+    paragraph_summary: The article by Patrick Lawrence reflects on the stark contrast
+      between the 15 victims at Bondi Beach and the 71,000 deaths in Gaza, calculating
+      a fraction of 0.0002143 to illustrate the disparity in attention and response
+      to these tragedies. Lawrence uses this comparison to highlight the differing perceptions
+      of loss and suffering in various contexts, suggesting a need for a more equitable
+      acknowledgment of human lives affected by conflict and violence.
+    published: '2025-12-19T19:36:19+00:00'
+  - title: 'PATRICK LAWRENCE: After the First 70,669 Deaths'
+    url: https://consortiumnews.com/2025/12/19/patrick-lawrence-after-the-first-70669-deaths/
+    text: I take the 15 victims at Bondi Beach and divide them by the 71,000 deaths
+      in Gaza as of this writing. I get a fraction of 0.0002143. By Patrick Lawrence
+      Special to Consortium News CN at 30 I read in a… Read more →
+    one_sentence_summary: The article discusses the stark contrast in media coverage
+      and public perception of the 15 victims at Bondi Beach compared to the 71,000
+      deaths in Gaza, highlighting the disparity in attention given to different tragedies.
+    paragraph_summary: The article by Patrick Lawrence reflects on the stark contrast
+      between the 15 victims at Bondi Beach and the 71,000 deaths in Gaza, calculating
+      a fraction of 0.0002143 to illustrate the disparity in attention and response
+      to these tragedies. Lawrence uses this comparison to highlight the differing perceptions
+      of loss and suffering in various contexts, suggesting a need for a more equitable
+      acknowledgment of human lives affected by conflict and violence.
+    published: '2025-12-19T19:36:19+00:00'
+  - title: Among the Unalienable Rights
+    url: https://consortiumnews.com/2025/12/19/among-the-unalienable-rights/
+    text: Nothing will chill Tucker Carlson’s exercise of the freedom of speech, writes
+      Andrew P. Napolitano. But that does not absolve Chuck Schumer and the U.S. Senate.
+      By Andrew P. Napolitano CN at 30 Last week, Sen. Charles Schumer, the leader of…
+      Read more →
+    one_sentence_summary: Andrew P. Napolitano argues that while Tucker Carlson's freedom
+      of speech remains intact, it does not excuse the actions of Chuck Schumer and
+      the U.S. Senate.
+    paragraph_summary: Andrew P. Napolitano argues that while Tucker Carlson's freedom
+      of speech remains intact, this does not excuse the actions of Chuck Schumer and
+      the U.S. Senate. He emphasizes that political figures should not interfere with
+      or undermine the principles of free expression, highlighting the importance of
+      protecting individual rights in the face of political pressures.
+    published: '2025-12-19T17:00:50+00:00'
+  - title: Among the Unalienable Rights
+    url: https://consortiumnews.com/2025/12/19/among-the-unalienable-rights/
+    text: Nothing will chill Tucker Carlson’s exercise of the freedom of speech, writes
+      Andrew P. Napolitano. But that does not absolve Chuck Schumer and the U.S. Senate.
+      By Andrew P. Napolitano CN at 30 Last week, Sen. Charles Schumer, the leader of…
+      Read more →
+    one_sentence_summary: Andrew P. Napolitano argues that while Tucker Carlson's freedom
+      of speech remains intact, it does not excuse the actions of Chuck Schumer and
+      the U.S. Senate.
+    paragraph_summary: Andrew P. Napolitano argues that while Tucker Carlson's freedom
+      of speech remains intact, this does not excuse the actions of Chuck Schumer and
+      the U.S. Senate. He emphasizes that political figures should not interfere with
+      or undermine the principles of free expression, highlighting the importance of
+      protecting individual rights in the face of political pressures.
+    published: '2025-12-19T17:00:50+00:00'
+  - title: 'Jeffrey Sachs: European Security Includes Russia'
+    url: https://consortiumnews.com/2025/12/19/jeffrey-sachs-european-security-includes-russia/
+    text: In an open letter in Berliner Zeitung, the author tells the German chancellor
+      that peace in Ukraine cannot be achieved by pretending that Russia’s security
+      concerns do not exist. By Jeffrey D. Sachs Berliner Zeitung CN at 30 Chancellor
+      Merz, You… Read more →
+    one_sentence_summary: In an open letter to the German chancellor, Jeffrey D. Sachs
+      argues that achieving peace in Ukraine requires acknowledging and addressing Russia's
+      security concerns rather than ignoring them.
+    paragraph_summary: In an open letter published in Berliner Zeitung, Jeffrey D. Sachs
+      addresses the German chancellor, emphasizing that lasting peace in Ukraine cannot
+      be attained by ignoring Russia's security concerns. He argues that a realistic
+      approach to the conflict must acknowledge these concerns rather than dismiss them,
+      suggesting that understanding and addressing the underlying issues is crucial
+      for achieving a sustainable resolution.
+    published: '2025-12-19T08:12:57+00:00'
+  - title: 'Jeffrey Sachs: European Security Includes Russia'
+    url: https://consortiumnews.com/2025/12/19/jeffrey-sachs-european-security-includes-russia/
+    text: In an open letter in Berliner Zeitung, the author tells the German chancellor
+      that peace in Ukraine cannot be achieved by pretending that Russia’s security
+      concerns do not exist. By Jeffrey D. Sachs Berliner Zeitung CN at 30 Chancellor
+      Merz, You… Read more →
+    one_sentence_summary: In an open letter to the German chancellor, Jeffrey D. Sachs
+      argues that achieving peace in Ukraine requires acknowledging and addressing Russia's
+      security concerns rather than ignoring them.
+    paragraph_summary: In an open letter published in Berliner Zeitung, Jeffrey D. Sachs
+      addresses the German chancellor, emphasizing that lasting peace in Ukraine cannot
+      be attained by ignoring Russia's security concerns. He argues that a realistic
+      approach to the conflict must acknowledge these concerns rather than dismiss them,
+      suggesting that understanding and addressing the underlying issues is crucial
+      for achieving a sustainable resolution.
+    published: '2025-12-19T08:12:57+00:00'
+  - title: Become a Member & Get Bob Parry Reader!
+    url: https://consortiumnews.com/2025/12/18/become-a-member-get-bob-parry-reader-2/
+    text: 'Get a paperback copy of American Dispatches: A Robert Parry Reader as a thank
+      you for becoming a Consortium News‘ member on our 30th Anniversary. American Dispatches:
+      A Robert Parry Reader is a compilation of the writings of the late… Read more
+      →'
+    one_sentence_summary: 'As a thank you for joining Consortium News on its 30th Anniversary,
+      new members will receive a paperback copy of "American Dispatches: A Robert Parry
+      Reader," a collection of the late Robert Parry''s writings.'
+    paragraph_summary: 'As a thank-you for joining Consortium News in celebration of
+      its 30th Anniversary, new members can receive a paperback copy of "American Dispatches:
+      A Robert Parry Reader." This book is a collection of writings by the late journalist
+      Robert Parry, showcasing his significant contributions to investigative journalism.'
+    published: '2025-12-18T21:33:24+00:00'
+  - title: Become a Member & Get Bob Parry Reader!
+    url: https://consortiumnews.com/2025/12/18/become-a-member-get-bob-parry-reader-2/
+    text: 'Get a paperback copy of American Dispatches: A Robert Parry Reader as a thank
+      you for becoming a Consortium News‘ member on our 30th Anniversary. American Dispatches:
+      A Robert Parry Reader is a compilation of the writings of the late… Read more
+      →'
+    one_sentence_summary: 'As a thank you for joining Consortium News on its 30th Anniversary,
+      new members will receive a paperback copy of "American Dispatches: A Robert Parry
+      Reader," a collection of the late Robert Parry''s writings.'
+    paragraph_summary: 'As a thank-you for joining Consortium News in celebration of
+      its 30th Anniversary, new members can receive a paperback copy of "American Dispatches:
+      A Robert Parry Reader." This book is a collection of writings by the late journalist
+      Robert Parry, showcasing his significant contributions to investigative journalism.'
+    published: '2025-12-18T21:33:24+00:00'
+  - title: 'WATCH: CN Live! —  Fallout From the Bondi Massacre'
+    url: https://consortiumnews.com/2025/12/18/watch-cn-live-fallout-from-the-bondi-massacre/
+    text: Examining the Bondi massacre, Michele Berkon, Jewish activist for Palestine,
+      and Stefan Moore, filmmaker and Bondi resident, join CN Live! Watch the replay. 
+      CN at 30 The fallout from the Bondi Beach massacre in Sydney has unfortunately
+      been predictable. As in… Read more →
+    one_sentence_summary: Michele Berkon and Stefan Moore discuss the aftermath of the
+      Bondi Beach massacre in Sydney, highlighting its predictable consequences during
+      a CN Live! event.
+    paragraph_summary: In a recent episode of CN Live!, Michele Berkon, a Jewish activist
+      for Palestine, and Stefan Moore, a filmmaker and Bondi resident, discussed the
+      aftermath of the Bondi Beach massacre in Sydney. They highlighted the predictable
+      consequences of the tragedy, reflecting on the broader implications for the community
+      and the ongoing conflict in Palestine. The conversation aimed to shed light on
+      the complexities surrounding the incident and its impact on local and global perceptions
+      of the situation.
+    published: '2025-12-18T20:02:56+00:00'
+  - title: 'WATCH: CN Live! —  Fallout From the Bondi Massacre'
+    url: https://consortiumnews.com/2025/12/18/watch-cn-live-fallout-from-the-bondi-massacre/
+    text: Examining the Bondi massacre, Michele Berkon, Jewish activist for Palestine,
+      and Stefan Moore, filmmaker and Bondi resident, join CN Live! Watch the replay. 
+      CN at 30 The fallout from the Bondi Beach massacre in Sydney has unfortunately
+      been predictable. As in… Read more →
+    one_sentence_summary: Michele Berkon and Stefan Moore discuss the aftermath of the
+      Bondi Beach massacre in Sydney, highlighting its predictable consequences during
+      a CN Live! event.
+    paragraph_summary: In a recent episode of CN Live!, Michele Berkon, a Jewish activist
+      for Palestine, and Stefan Moore, a filmmaker and Bondi resident, discussed the
+      aftermath of the Bondi Beach massacre in Sydney. They highlighted the predictable
+      consequences of the tragedy, reflecting on the broader implications for the community
+      and the ongoing conflict in Palestine. The conversation aimed to shed light on
+      the complexities surrounding the incident and its impact on local and global perceptions
+      of the situation.
+    published: '2025-12-18T20:02:56+00:00'
+  - title: 'Chris Hedges: Rebranding Genocide'
+    url: https://consortiumnews.com/2025/12/18/chris-hedges-rebranding-genocide/
+    text: Israel’s extensive and blatant flouting of international agreements and law
+      presage a world where the law is whatever the most militarily advanced countries
+      say it is. By Chris Hedges ScheerPost CN at 30 First, it was Israel’s right to
+      defend… Read more →
+    one_sentence_summary: The article by Chris Hedges argues that Israel's disregard
+      for international law signals a troubling trend where military power dictates
+      legal standards globally.
+    paragraph_summary: In his article, Chris Hedges critiques Israel's disregard for
+      international agreements and laws, suggesting that this behavior signals a troubling
+      trend where military power dictates legal standards. He argues that Israel's actions,
+      framed as self-defense, undermine global legal norms and set a precedent for other
+      militarily advanced nations to similarly ignore international law. Hedges warns
+      that this could lead to a world where the rule of law is determined solely by
+      the might of powerful countries, rather than by established legal frameworks.
+    published: '2025-12-18T19:00:58+00:00'
+  - title: 'Chris Hedges: Rebranding Genocide'
+    url: https://consortiumnews.com/2025/12/18/chris-hedges-rebranding-genocide/
+    text: Israel’s extensive and blatant flouting of international agreements and law
+      presage a world where the law is whatever the most militarily advanced countries
+      say it is. By Chris Hedges ScheerPost CN at 30 First, it was Israel’s right to
+      defend… Read more →
+    one_sentence_summary: The article by Chris Hedges argues that Israel's disregard
+      for international law signals a troubling trend where military power dictates
+      legal standards globally.
+    paragraph_summary: In his article, Chris Hedges critiques Israel's disregard for
+      international agreements and laws, suggesting that this behavior signals a troubling
+      trend where military power dictates legal standards. He argues that Israel's actions,
+      framed as self-defense, undermine global legal norms and set a precedent for other
+      militarily advanced nations to similarly ignore international law. Hedges warns
+      that this could lead to a world where the rule of law is determined solely by
+      the might of powerful countries, rather than by established legal frameworks.
+    published: '2025-12-18T19:00:58+00:00'
+  - title: 'Jonathan Cook: Milking the Bondi Beach Massacre'
+    url: https://consortiumnews.com/2025/12/18/jonathan-cook-milking-the-bondi-beach-massacre/
+    text: Years of dedicated work by the Israel lobby has ensured the mass murder of
+      Palestinians is viewed by governments, the media and parts of the Jewish community
+      as entirely legitimate. By Jonathan Cook Jonathan-Cook.net CN at 30 I, for one,
+      am… Read more →
+    one_sentence_summary: The article argues that the Israel lobby has successfully
+      framed the mass killing of Palestinians as acceptable in the eyes of governments,
+      media, and segments of the Jewish community.
+    paragraph_summary: The article by Jonathan Cook critiques the influence of the Israel
+      lobby, arguing that it has shaped perceptions of the Israeli-Palestinian conflict
+      in a way that legitimizes violence against Palestinians. Cook contends that this
+      lobbying effort has led to widespread acceptance of the mass murder of Palestinians
+      by various governments, media outlets, and segments of the Jewish community, framing
+      it as a justified response rather than a humanitarian crisis.
+    published: '2025-12-18T16:00:17+00:00'
+  - title: 'Jonathan Cook: Milking the Bondi Beach Massacre'
+    url: https://consortiumnews.com/2025/12/18/jonathan-cook-milking-the-bondi-beach-massacre/
+    text: Years of dedicated work by the Israel lobby has ensured the mass murder of
+      Palestinians is viewed by governments, the media and parts of the Jewish community
+      as entirely legitimate. By Jonathan Cook Jonathan-Cook.net CN at 30 I, for one,
+      am… Read more →
+    one_sentence_summary: The article argues that the Israel lobby has successfully
+      framed the mass killing of Palestinians as acceptable in the eyes of governments,
+      media, and segments of the Jewish community.
+    paragraph_summary: The article by Jonathan Cook critiques the influence of the Israel
+      lobby, arguing that it has shaped perceptions of the Israeli-Palestinian conflict
+      in a way that legitimizes violence against Palestinians. Cook contends that this
+      lobbying effort has led to widespread acceptance of the mass murder of Palestinians
+      by various governments, media outlets, and segments of the Jewish community, framing
+      it as a justified response rather than a humanitarian crisis.
+    published: '2025-12-18T16:00:17+00:00'
+  - title: Assange Files Complaint to Block Machado From Nobel
+    url: https://consortiumnews.com/2025/12/18/assange-files-complaint-to-block-machado-from-nobel/
+    text: The WikiLeaks founder filed a criminal complaint arguing the awarding of the
+      Nobel Peace Prize to pro-war Maria Corina Machado of Venezuela violates Swedish
+      law, reports Joe Lauria. By Joe Lauria Special to Consortium News CN at 30 Julian
+      Assange has… Read more →
+    one_sentence_summary: Julian Assange has filed a criminal complaint claiming that
+      awarding the Nobel Peace Prize to pro-war Venezuelan Maria Corina Machado violates
+      Swedish law.
+    paragraph_summary: Julian Assange, the founder of WikiLeaks, has filed a criminal
+      complaint claiming that the decision to award the Nobel Peace Prize to Venezuelan
+      politician Maria Corina Machado, who is perceived as pro-war, contravenes Swedish
+      law. This complaint highlights Assange's ongoing legal battles and his stance
+      on issues related to peace and war, as reported by Joe Lauria for Consortium News.
+    published: '2025-12-18T10:43:41+00:00'
+  - title: Assange Files Complaint to Block Machado From Nobel
+    url: https://consortiumnews.com/2025/12/18/assange-files-complaint-to-block-machado-from-nobel/
+    text: The WikiLeaks founder filed a criminal complaint arguing the awarding of the
+      Nobel Peace Prize to pro-war Maria Corina Machado of Venezuela violates Swedish
+      law, reports Joe Lauria. By Joe Lauria Special to Consortium News CN at 30 Julian
+      Assange has… Read more →
+    one_sentence_summary: Julian Assange has filed a criminal complaint claiming that
+      awarding the Nobel Peace Prize to pro-war Venezuelan Maria Corina Machado violates
+      Swedish law.
+    paragraph_summary: Julian Assange, the founder of WikiLeaks, has filed a criminal
+      complaint claiming that the decision to award the Nobel Peace Prize to Venezuelan
+      politician Maria Corina Machado, who is perceived as pro-war, contravenes Swedish
+      law. This complaint highlights Assange's ongoing legal battles and his stance
+      on issues related to peace and war, as reported by Joe Lauria for Consortium News.
+    published: '2025-12-18T10:43:41+00:00'
+  - title: 'Caitlin Johnstone: Spouting the Same Line on Bondi Attack'
+    url: https://consortiumnews.com/2025/12/17/caitlin-johnstone-spouting-the-same-line-on-bondi-attack/
+    text: Narrative spin for Israel is in full swing following the Bondi Beach attack,
+      conflating pro-Palestinian activism with anti-Jewish violence.  By Caitlin Johnstone
+      Caitlin’s Newsletter Listen to Tim Foley reading this article CN at 30 Looks like
+      some kind of memo went… Read more →
+    one_sentence_summary: The article discusses how the narrative surrounding the Bondi
+      Beach attack is being manipulated to link pro-Palestinian activism with anti-Jewish
+      violence.
+    paragraph_summary: In the wake of the Bondi Beach attack, there is a noticeable
+      shift in the narrative surrounding Israel, with efforts to link pro-Palestinian
+      activism to anti-Jewish violence. Caitlin Johnstone critiques this narrative spin,
+      suggesting it serves to conflate legitimate activism with acts of aggression against
+      Jewish individuals, thereby distorting the public's understanding of the situation.
+      The article highlights concerns about how such narratives can influence perceptions
+      and responses to the ongoing Israeli-Palestinian conflict.
+    published: '2025-12-18T01:01:42+00:00'
+  - title: 'Caitlin Johnstone: Spouting the Same Line on Bondi Attack'
+    url: https://consortiumnews.com/2025/12/17/caitlin-johnstone-spouting-the-same-line-on-bondi-attack/
+    text: Narrative spin for Israel is in full swing following the Bondi Beach attack,
+      conflating pro-Palestinian activism with anti-Jewish violence.  By Caitlin Johnstone
+      Caitlin’s Newsletter Listen to Tim Foley reading this article CN at 30 Looks like
+      some kind of memo went… Read more →
+    one_sentence_summary: The article discusses how the narrative surrounding the Bondi
+      Beach attack is being manipulated to link pro-Palestinian activism with anti-Jewish
+      violence.
+    paragraph_summary: In the wake of the Bondi Beach attack, there is a noticeable
+      shift in the narrative surrounding Israel, with efforts to link pro-Palestinian
+      activism to anti-Jewish violence. Caitlin Johnstone critiques this narrative spin,
+      suggesting it serves to conflate legitimate activism with acts of aggression against
+      Jewish individuals, thereby distorting the public's understanding of the situation.
+      The article highlights concerns about how such narratives can influence perceptions
+      and responses to the ongoing Israeli-Palestinian conflict.
+    published: '2025-12-18T01:01:42+00:00'
+  - title: Mob Murder & Islamophobia in India
+    url: https://consortiumnews.com/2025/12/17/mob-murder-islamophobia-in-india/
+    text: A state government’s interference in a high-profile crime case offers another
+      indication of religious polarization in Narendra Modi’s India, writes Betwa Sharma.
+      By Betwa Sharma in Delhi, India CN at 30 Special to Consortium News Ten years
+      after Mohammad Akhlaq, a… Read more →
+    one_sentence_summary: Betwa Sharma highlights how a state government's involvement
+      in a high-profile crime case reflects the growing religious polarization in Narendra
+      Modi's India, drawing parallels to past incidents like the 2015 lynching of Mohammad
+      Akhlaq.
+    paragraph_summary: In her article, Betwa Sharma discusses the implications of state
+      government interference in a high-profile crime case in India, highlighting it
+      as a reflection of the growing religious polarization under Narendra Modi's administration.
+      She draws parallels to the 2015 lynching of Mohammad Akhlaq, suggesting that such
+      incidents illustrate the increasing tensions between religious communities in
+      the country. Sharma argues that this trend poses significant challenges to social
+      harmony and raises concerns about the rule of law in India.
+    published: '2025-12-17T19:00:47+00:00'
+  - title: Mob Murder & Islamophobia in India
+    url: https://consortiumnews.com/2025/12/17/mob-murder-islamophobia-in-india/
+    text: A state government’s interference in a high-profile crime case offers another
+      indication of religious polarization in Narendra Modi’s India, writes Betwa Sharma.
+      By Betwa Sharma in Delhi, India CN at 30 Special to Consortium News Ten years
+      after Mohammad Akhlaq, a… Read more →
+    one_sentence_summary: Betwa Sharma highlights how a state government's involvement
+      in a high-profile crime case reflects the growing religious polarization in Narendra
+      Modi's India, drawing parallels to past incidents like the 2015 lynching of Mohammad
+      Akhlaq.
+    paragraph_summary: In her article, Betwa Sharma discusses the implications of state
+      government interference in a high-profile crime case in India, highlighting it
+      as a reflection of the growing religious polarization under Narendra Modi's administration.
+      She draws parallels to the 2015 lynching of Mohammad Akhlaq, suggesting that such
+      incidents illustrate the increasing tensions between religious communities in
+      the country. Sharma argues that this trend poses significant challenges to social
+      harmony and raises concerns about the rule of law in India.
+    published: '2025-12-17T19:00:47+00:00'
+  - title: 'Vijay Prashad: Kerala Has Abolished Extreme Poverty'
+    url: https://consortiumnews.com/2025/12/17/vijay-prashad-kerala-has-abolished-extreme-poverty/
+    text: 'Instead of a one-size-fits-all development agenda, the south-western Indian
+      state used clear public policy, decentralised planning and the leadership of its
+      cooperative movement. By Vijay Prashad Tricontinental: Institute for Social Research
+      CN at 30 On Nov. 1, the south-western Indian state of… Read more →'
+    one_sentence_summary: The south-western Indian state successfully implemented a
+      tailored development approach through clear public policy, decentralized planning,
+      and strong leadership from its cooperative movement.
+    paragraph_summary: The article discusses how the south-western Indian state has
+      successfully implemented a tailored development agenda through clear public policy,
+      decentralized planning, and strong leadership from its cooperative movement. This
+      approach contrasts with a generic one-size-fits-all strategy, emphasizing the
+      importance of localized solutions and community involvement in fostering sustainable
+      development.
+    published: '2025-12-17T17:00:55+00:00'
+  - title: 'Vijay Prashad: Kerala Has Abolished Extreme Poverty'
+    url: https://consortiumnews.com/2025/12/17/vijay-prashad-kerala-has-abolished-extreme-poverty/
+    text: 'Instead of a one-size-fits-all development agenda, the south-western Indian
+      state used clear public policy, decentralised planning and the leadership of its
+      cooperative movement. By Vijay Prashad Tricontinental: Institute for Social Research
+      CN at 30 On Nov. 1, the south-western Indian state of… Read more →'
+    one_sentence_summary: The south-western Indian state successfully implemented a
+      tailored development approach through clear public policy, decentralized planning,
+      and strong leadership from its cooperative movement.
+    paragraph_summary: The article discusses how the south-western Indian state has
+      successfully implemented a tailored development agenda through clear public policy,
+      decentralized planning, and strong leadership from its cooperative movement. This
+      approach contrasts with a generic one-size-fits-all strategy, emphasizing the
+      importance of localized solutions and community involvement in fostering sustainable
+      development.
+    published: '2025-12-17T17:00:55+00:00'
+  - title: 'Patrick Lawrence: Trump’s ‘End of History’ Moment'
+    url: https://consortiumnews.com/2025/12/17/patrick-lawrence-trumps-end-of-history-moment/
+    text: Recent executive orders and presidential memorandums go beyond even the Patriot
+      Act in facilitating  nebulous and overreaching state surveillance.  By Patrick
+      Lawrence  ScheerPost  CN at 30 The Trumpster is not yet finished his first year
+      back in the White House, and… Read more →
+    one_sentence_summary: Recent executive orders and presidential memorandums have
+      expanded state surveillance capabilities beyond those established by the Patriot
+      Act, raising concerns about their vague and excessive nature.
+    paragraph_summary: The article discusses how recent executive orders and presidential
+      memorandums have expanded state surveillance capabilities beyond the already broad
+      provisions of the Patriot Act. The author, Patrick Lawrence, argues that these
+      measures enable vague and excessive monitoring of citizens, raising concerns about
+      privacy and civil liberties. The piece reflects on the implications of such surveillance
+      practices, particularly in the context of the Trump administration's policies.
+    published: '2025-12-17T05:30:25+00:00'
+  - title: 'Patrick Lawrence: Trump’s ‘End of History’ Moment'
+    url: https://consortiumnews.com/2025/12/17/patrick-lawrence-trumps-end-of-history-moment/
+    text: Recent executive orders and presidential memorandums go beyond even the Patriot
+      Act in facilitating  nebulous and overreaching state surveillance.  By Patrick
+      Lawrence  ScheerPost  CN at 30 The Trumpster is not yet finished his first year
+      back in the White House, and… Read more →
+    one_sentence_summary: Recent executive orders and presidential memorandums have
+      expanded state surveillance capabilities beyond those established by the Patriot
+      Act, raising concerns about their vague and excessive nature.
+    paragraph_summary: The article discusses how recent executive orders and presidential
+      memorandums have expanded state surveillance capabilities beyond the already broad
+      provisions of the Patriot Act. The author, Patrick Lawrence, argues that these
+      measures enable vague and excessive monitoring of citizens, raising concerns about
+      privacy and civil liberties. The piece reflects on the implications of such surveillance
+      practices, particularly in the context of the Trump administration's policies.
+    published: '2025-12-17T05:30:25+00:00'
   - title: 'JOHN KIRIAKOU: US Prison Horror Show Plays On'
     url: https://consortiumnews.com/2025/12/16/john-kiriakou-us-prison-horror-show-plays-on/
     text: A year into  President Trump’s second term in office, hopes for inmates across
