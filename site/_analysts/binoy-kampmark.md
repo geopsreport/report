@@ -7,16 +7,273 @@ description: "Cambridge–educated researcher at RMIT; writes widely on imperial
 websites:
   - https://counterpunch.org/author/jete6/
 summary: |
-  As 2025 draws to a close, the international landscape remains fraught with legal, political, and institutional tensions. The latest developments highlight ongoing disputes over the legitimacy of global institutions and the narratives shaping international security.
+  As 2025 draws to a close, global tensions and domestic anxieties continue to shape the geopolitical landscape, with Australia, the United States, and the Middle East at the forefront of recent developments.
   
-  The most recent and notable event centers on **Julian Assange**'s criminal complaint against the Nobel Foundation. Assange contends that awarding the Peace Prize to Venezuelan opposition leader María Corina Machado violates Alfred Nobel's will, given her advocacy for military intervention—actions he argues are antithetical to the prize's core mission of promoting peace. As **Binoy Kampmark** notes, this legal move exposes the persistent friction between the original intent of international awards and their politicized contemporary application. The case is likely to intensify debates over the credibility and neutrality of major global honors, with a high chance of further legal and public scrutiny in the coming months.
+  In Australia, the aftermath of the Bondi killings has prompted a wave of legislative crackdowns on pro-Palestinian protests. **Binoy Kampmark** notes that NSW Premier Chris Minns' government has enacted repressive measures that "unjustly restrict free speech and protests," arguing these laws scapegoat marginalized groups rather than addressing the deeper historical and cultural complexities behind the violence. The majority view among analysts is that this approach risks undermining societal harmony and may fuel further polarization.
   
-  Meanwhile, NATO's internal coherence continues to be tested. Recent remarks by Secretary-General Mark Rutte, warning of an imminent Russian threat to Europe, have been met with skepticism. **Kampmark** highlights the contradictions within U.S. foreign policy under President Trump, which simultaneously demands greater European military spending while undermining the continent's security architecture. This confusion is deepening doubts about NATO's future direction and the reliability of U.S. commitments. There is a high chance that European states will accelerate efforts to develop more autonomous defense strategies, though divisions within the alliance are likely to persist.
+  Simultaneously, Australia’s relationship with international human rights bodies remains fraught. According to **Binoy Kampmark**, Canberra’s ongoing obstruction of UN human rights delegates—especially regarding oversight of its criminal justice system—reflects "bureaucratic secrecy" and a lack of accountability. The consensus is that without significant reform, Australia’s international reputation on human rights will continue to deteriorate, with a high chance of increased scrutiny from global watchdogs in 2026.
   
-  The United Nations, marking its 80th anniversary, faces a severe financial crisis as major contributors, especially the U.S., continue to withhold funding. This shortfall has already forced cuts to humanitarian and human rights programs, casting doubt on the UN's ability to fulfill its mandate. According to **Kampmark**, the organization's future effectiveness is at stake, and unless member states address the funding gap, there is a high chance of further erosion of the UN's authority and operational capacity.
+  On the international stage, the awarding of the Nobel Peace Prize to María Corina Machado has sparked controversy. **Binoy Kampmark** reports that Julian Assange has filed a criminal complaint against the Nobel Foundation, arguing Machado’s support for military intervention contradicts Alfred Nobel’s intent for the prize. This dispute highlights ongoing debates about the politicization of peace awards and the blurred lines between advocacy and incitement.
   
-  In summary, the latest developments reveal a trend of growing skepticism toward international institutions and their leadership, with legal challenges and funding crises threatening to undermine their legitimacy. Looking ahead, it is quite likely that disputes over the politicization of global awards and the weakening of multilateral organizations will intensify, fueling calls for reform and greater accountability.
+  Looking ahead, the trend across these issues is one of heightened securitization and diminishing space for dissent, both domestically and internationally. There is a high chance that Australia’s current trajectory will lead to further legal challenges and public backlash, especially as marginalized communities and civil society groups push back against restrictive measures. On the global front, controversies over the legitimacy of peace awards and international oversight are likely to intensify, with most analysts predicting that 2026 will see increased polarization and contestation over the meaning of peace, justice, and accountability.
 articles:
+  - title: 'Indiscriminate Suppression: Attacking pro-Palestinian Protests After the
+      Bondi Killings'
+    url: https://www.counterpunch.org/2025/12/25/indiscriminate-suppression-attacking-pro-palestinian-protests-after-the-bondi-killings/
+    text: 'It has become a wallowing cringe. The extolling of multi-culti values, the
+      incessant self-praise of diversity, variety and cosmopolitanism, only to then
+      impose, in the name of such values, a restrictive regime of speech, language and
+      conduct seemed suitable to – who else? – the jerky authorities. In diversity we
+      must oppress; in variety we must police. The Bondi Beach killings by two alleged
+      ISIS supporters during a Hanukkah event have seen Australian lawmakers succumb
+      to the panic of immediate results and shoddy gains.
+
+
+      It matters not how poor the legislation is, how ill-thought its words are: something
+      must be seen to be done. Historical and cultural context, inconveniences for expedient
+      legislators and magistrates, is also absent: ISIS has never bothered itself with
+      the cause of Palestinian sovereignty, aspiring, instead, to the creation of a
+      murderous caliphate.
+
+
+      The need to be seen to be doing something has manifested in a range of measures
+      from tighter gun controls to the outlawing of protests and the intended prohibition
+      of various words. Farmers are furious that they were not consulted regarding the
+      first matter, reminding lawmakers that food security also requires vigilance against
+      agricultural vermin. Activists, civil libertarian advocates and human rights groups
+      are worried about the last two.
+
+
+      The NSW Premier Chris Minns has decided on a blanketing approach, seeing all protests
+      associated with pro-Palestinian marches as part of a common, insidious condition.
+      On December 17, he told gathered members of the press “that protest right now
+      in Sydney would be incredibly terrible for our community. In fact, they would
+      rip apart our community, particularly protests about international events”.
+
+
+      This shoddy reasoning was expanded in remarks made on December 23, showing a tenuous
+      grasp, not only of international events but the currents of history. “How,” he
+      wondered, “can it be that a protest can take place in the state and there’s a
+      swastika tattooed on the Star of David on a poster in the middle of the city?
+      Or photos of the Ayatollah, the leader of Iran … Shirts saying, ‘Death to the
+      IDF’. A sign that says: ‘All Zionists are neo-Nazis’”.
+
+
+      If he dared consult the history books on such nasty practices as ethnic cleansing
+      and genocide, both applied with frightening effectiveness by the homicidal machinery
+      of Nazi Germany, this might supply a clue to some of that symbolism. A sad state
+      for humanity’s standing is that eliminating and displacing races, tribes and national
+      groups is common fare for empires and civilisations. It is normally axiomatic
+      that settlement implies conquest and subjugation and elimination. But Minns is
+      simple, bemoaning that protests with such “signs” must have a “bearing on either
+      the culture, the temperature or even extreme actions within our community”. By
+      taking to the streets with chants, placards and the décor of demonstrations, “the
+      organisers of these protests are unleashing forces they can’t control.”
+
+
+      Minns, it would seem, is on a mission against the language and conduct of undesirable
+      protest. He has already shown this in implementing anti-protest laws with a drunk’s
+      enlivened enthusiasm. Under respective Coalition and Labor governments, the state
+      has become known for laws that have targeted climate change activism and, increasingly
+      since 2023, those associated with the Palestinian cause. He now seeks to give
+      the NSW police commissioner powers to refuse applications for protests where a
+      terrorism designation has been made under the Terrorism (Police Powers) Act 2002
+      (NSW).
+
+
+      The Terrorism and Other Legislation Amendment Bill 2025 (NSW) grants police powers
+      to impose public assembly restrictions via a “public assembly restriction declaration”
+      within 14 days of a terrorist incident, prohibiting protests for up to three months.
+      It also criminalises the display of “prohibited terrorist organisation symbols”
+      without reasonable excuse.
+
+
+      Inevitably, the changes will imperil the welfare of the very people it seeks to
+      protect while demonising those who genuinely seek change in policies through peaceful
+      assembly. It also undermines the very thing Minns and his colleagues fetishise:
+      societal harmony. Timothy Roberts, president of the NSW Council for Liberties,
+      makes the self-evident point that, “Connecting the horrific events of the Bondi
+      attack in any way with recent protests continues the harmful trend of conflating
+      criticism of the actions of the government of Israel with antisemitism.” In so
+      doing, the Premier was undermining “the community harmony […] he is worried about.”
+
+
+      The legislative actions also mark Jews out as either objects of exceptional charity,
+      or useful alibis for policymakers seeking an ever more repressive state. “It places
+      us Jews in the crosshairs,” reasons Michelle Berkon from Jews Against the Occupation.
+      “These laws are not about protecting Jews … they’re not even about protecting
+      Israel.” The notion of “Jewish safety” had been used to scapegoat “the millions
+      of anti-racist Australians protesting genocide” while “using Jewish people as
+      your human shields.”
+
+
+      The changes were passed by the Upper House in the early morning of Christmas Eve
+      and are set to be approved by the Lower House without fuss. The fuss will come
+      in the form of a constitutional challenge from the Palestine Action Group, Jews
+      Against the Occupation and the First Nations-led Blak Caucus in the new year.
+      The addition of the last group shows that cumbrous indiscriminate laws can have
+      telling results. Representative Lizzie Jarrett summed up the sentiment: “It would
+      really be a kick in the face to this conversation that the government keeps having
+      with us about reconciliation, closing the gap, and putting the realities of First
+      Nations people on the table.” Minns would do well to learn a thing or two about
+      that particular history of settlement, one replete with ethnic cleansing, dispossession
+      and genocide.'
+    one_sentence_summary: The article criticizes Australian lawmakers, particularly
+      NSW Premier Chris Minns, for implementing repressive legislation in response to
+      recent violence, arguing that such measures unjustly restrict free speech and
+      protests while failing to address the complexities of historical and cultural
+      contexts, ultimately undermining societal harmony and scapegoating marginalized
+      groups.
+    paragraph_summary: The article critiques the Australian government's response to
+      the Bondi Beach killings by two alleged ISIS supporters, arguing that lawmakers,
+      driven by panic and a desire for immediate action, have enacted poorly thought-out
+      legislation that restricts free speech and protests, particularly those related
+      to pro-Palestinian sentiments. NSW Premier Chris Minns is portrayed as adopting
+      a blanket approach to protests, equating them with community discord and failing
+      to grasp the historical context of the issues at hand. The new laws, which grant
+      police powers to restrict public assemblies following terrorist incidents and
+      criminalize the display of certain symbols, are seen as detrimental to societal
+      harmony and as scapegoating Jewish communities while undermining genuine calls
+      for change. Critics, including civil libertarians and activist groups, argue that
+      these measures will harm the very communities they aim to protect and are set
+      to face constitutional challenges in the new year.
+    published: '2025-12-25T06:51:07+00:00'
+  - title: 'Ignoring International Obligations: Blocking UN Human Rights Delegates in
+      Australia'
+    url: https://www.counterpunch.org/2025/12/24/ignoring-international-obligations-blocking-un-human-rights-delegates-in-australia/
+    text: 'Bureaucracy, in a formulation by the great German sociologist Max Weber,
+      fanatically defends secrecy, and is bound to confect any explanation in doing
+      so. When it comes to swatting away scrutiny by United Nations human rights delegates,
+      local officials can be relied upon to obfuscate, blur and lie about a Member State’s
+      observance of conventions and fundamental norms. In October 2022, and again in
+      December 2025, UN bodies have been trying to piece together various troubling
+      pieces of the Australian criminal justice system. In a country lacking a bill
+      of rights, administrators and officials have often shown themselves indifferent
+      to their obligations in international law.
+
+
+      In 2022, the United Nations Subcommittee on Prevention of Torture (SPT) was blocked
+      from accessing Queensland and New South Wales prisons. Till that point, the Subcommittee
+      had made over 80 visits to more than 60 countries. Only on one other occasion
+      was a visit terminated. A press release from the Office of the UN High Commissioner
+      from Human Rights (OCHR) noted that the SPT had “experienced difficulties in carrying
+      out a full visit at other locations, and was not given all the relevant information
+      and documentation it had requested.”
+
+
+      The head of the four-member delegation, Aisha Shujune Muhammad, said at the time
+      that Australia had clearly breached its obligations under the Optional Protocol
+      to the Convention Against Torture (OPCAT). The termination of the visit scheduled
+      for October 16 to 27 was “deeply regrettable” but showed a profound ignorance
+      on the part of prison and government officials about the SPT’s mandate. “The SPT
+      is neither an oversight body, nor does it carry out investigations or inspections,”
+      explained Muhammad. Its purpose was to furnish State Parties with confidential
+      recommendations on how best to establish “effective safeguards against the risk
+      of torture and ill-treatment in places of deprivation of liberty.”
+
+
+      The SPT Report on the matter went on to note “persistent negative media coverage”
+      of its members, “including pernicious remarks from government officials in certain
+      regions, amounting to what the Subcommittee would qualify as a smear campaign.”
+      These “no doubt contributed in some cases to the hostility faced by the Subcommittee,
+      as evidenced by the repetition of disparaging quotes from government officials
+      by the administrators of some of the places of deprivation of liberty that it
+      visited.”
+
+
+      Such coarse ignorance towards the functions of another UN body, this time the
+      United Nations Working Group on Arbitrary Detention, was again in evidence when
+      the Northern Territory blocked it from visiting watch houses, mental health facilities,
+      and prisons for adults and children. The Working Group, during its visit from
+      December 1 to 12, faced a souped up response from the NT Corrections Minister
+      Gerard Maley that the visit could not be accommodated given concerns about “operational
+      capacity, safety and workforce resourcing priorities”. This rationale did not
+      seem to apply to a visit conducted that same week by a delegation from the United
+      Arab Emirates, presumably less likely to ruffle feathers in visiting the Holtze
+      Youth Detention Centre and Darwin Correctional Centre.
+
+
+      The gloomy November report by the territory’s Ombudsman, which was cognisant that
+      “watch house cells were very crowded with no opportunity for prisoners to leave
+      the cell”, suggested the authorities had much to hide. Adding to this the use
+      of exposed toilets made such a “combination of conditions […] undignified and
+      inhumane, particularly where prisoners were subjected to these conditions for
+      extended periods of time.”
+
+
+      The same fate of bureaucratic apologetics befell the Working Group in attempting
+      to visit youth detention centres in Western Australia. Both the Banksia Hill Youth
+      Detention Centre and the youth wing of the high-security adult prison south of
+      Perth called “Youth 18” were deemed off limits till the state’s Justice Department
+      had deemed it “appropriate and safe to do so”. The WA Corrective Services Minister
+      Paul Papalia confirmed that visits were being made by the delegates to certain
+      detention facilities only “where safe and appropriate”.
+
+
+      The memory of the 2022 SPT visit must have lingered in its sting, given the Subcommittee’s
+      findings that the Banksia Hill Detention Centre lacked running water, working
+      showers, or televisions, with cells having mattresses on floors. Children were
+      also left alone – effectively “de facto solitary confinement” – for up to 23 hours
+      a day, with cell lighting externally controlled. One wonders how tardy the WA
+      government has been in addressing the matter.
+
+
+      The Working Group statement was not as harsh as that of the SPT. But its bite
+      was toothy. In its December 12 statement, the members noted that, while having
+      enjoyed both unimpeded access to Commonwealth places of detention and freedom
+      of inquiry inspecting detention facilities in the Australian Capital Territory
+      and New South Wales, the same could not be said about Western Australia and the
+      Northern Territory. Such a “complete lack of cooperation by authorities” had undermined
+      “the Working Group’s ability to implement its mandate and deprives detainees of
+      access to independent international protection.”
+
+
+      The delegates also identified the continued “gross overrepresentation of First
+      Nations people in the prison population, the shocking detention of children as
+      young as 10, and the punitive approach to migrants”. The “extremely young ages
+      from which children may be detained in Australia” violated “fundamental human
+      rights norms.” Punitive migration detention proved particularly persistent, with
+      detainees facing “extremely lengthy periods”, sometimes exceeding 15 years. The
+      detention of non-citizens and their transfer to Nauru pursuant to a Third Country
+      Resettlement Arrangement further “dismayed” the Working Group.
+
+
+      Many Australian politicians, always happy to execrate foreign states for their
+      human rights blemishes, make it their due not to comment on violations taking
+      place closer to home. But the Australian Greens sensed something has gone off
+      in the process, noting how little the Commonwealth has done regarding its human
+      rights obligations in this field. Justice Spokesperson for the Greens, Senator
+      David Shoebridge, underlines the stark point that the territory’s budget is funded
+      to the tune of 80%, a figure that inevitably covers incarceration facilities.
+      “If they’re funding it, they should demand to open it. If they won’t, they should
+      cut off funding to these torture factories.”
+
+
+      Australia is regarded as a liberal democracy, with a smattering of human rights
+      legislation its various governments observe with resignation, when convenient.
+      Along with most states, its attitude to the UN and its various emissaries remains
+      guarded. Every so often, a feral sort of sovereignty asserts itself, beating back
+      those human right scrutineers who do much in trying to fracture the cruelties
+      bureaucracy seeks to mask.'
+    one_sentence_summary: The article critiques Australia's bureaucratic secrecy and
+      obstruction towards UN human rights bodies, highlighting significant issues within
+      its criminal justice system, including the treatment of detainees and a lack of
+      cooperation with international oversight, while emphasizing the need for accountability
+      and reform in light of these human rights violations.
+    paragraph_summary: The article discusses the challenges faced by United Nations
+      human rights bodies in accessing and evaluating the Australian criminal justice
+      system, particularly in Queensland, New South Wales, and the Northern Territory.
+      It highlights instances where the UN Subcommittee on Prevention of Torture (SPT)
+      and the Working Group on Arbitrary Detention were denied access to prisons and
+      detention facilities, raising concerns about Australia's compliance with international
+      human rights obligations. The SPT's findings revealed severe conditions in facilities,
+      including overcrowding and inadequate resources, particularly for youth detainees.
+      The article criticizes Australian officials for their lack of transparency and
+      cooperation with UN bodies, while also noting the overrepresentation of First
+      Nations people in the prison population and the inhumane treatment of detainees.
+      It concludes by emphasizing the need for accountability and reform in Australia's
+      approach to human rights, particularly given its self-image as a liberal democracy.
+    published: '2025-12-24T06:52:54+00:00'
   - title: 'The Problem with Machado: Assange Sues the Nobel Foundation'
     url: https://www.counterpunch.org/2025/12/23/the-problem-with-machado-assange-sues-the-nobel-foundation/
     text: 'The Swedish police have promised it will go nowhere, but the attempt by WikiLeaks

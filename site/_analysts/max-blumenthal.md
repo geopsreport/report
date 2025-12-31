@@ -7,16 +7,124 @@ description: "Investigative journalist and filmmaker; founder of The Grayzone; c
 websites:
   - https://thegrayzone.com
 summary: |
-  As 2025 draws to a close, the geopolitical landscape remains shaped by covert interventions, legal controversies, and the ongoing influence of intelligence agencies on global affairs. Recent revelations and legal challenges continue to expose the mechanisms of power behind major international events.
+  As 2025 draws to a close, the geopolitical landscape remains shaped by covert operations, intelligence-driven lawfare, and the persistent influence of Western actors in global affairs. The latest revelations, as detailed by **Max Blumenthal**, highlight a pattern of clandestine interventions and legal manipulations targeting both adversaries and regulatory bodies.
   
-  The most recent development centers on the Nobel Peace Prize awarded to Venezuelan opposition figure María Corina Machado. **Julian Assange** has filed a legal document arguing that Sweden violated its own laws and the foundational principles of the Nobel Committee by granting the prize to Machado, a figure closely aligned with former US President Trump. Assange’s claim, as reported by **Max Blumenthal**, highlights the growing scrutiny over the politicization of international awards and the role of Western institutions in legitimizing controversial opposition leaders. This legal challenge is likely to intensify debates over the Nobel Committee’s independence and could prompt further investigations into its selection processes. There is a high chance that this controversy will fuel broader criticism of Western intervention in Latin American politics.
+  The most significant recent development involves the exposure of the Commission for International Justice and Accountability (CIJA), a Western government-funded entity. According to leaked documents obtained by The Grayzone, CIJA orchestrated an illegal sting operation aimed at infiltrating and intimidating European Union financial regulators after facing corruption allegations. Notably, the leaks also implicate CIJA in direct collaboration with al-Qaeda factions during the Syrian conflict, raising serious questions about the ethical boundaries of Western-backed "justice" initiatives. **Blumenthal** underscores that this operation was not an isolated incident but part of a broader lawfare campaign designed to shield Western interests and suppress scrutiny.
   
-  In parallel, earlier leaks revealed that the US government covertly financed Nepalese youth groups to orchestrate a coup, aiming to curb Chinese and Indian influence in Kathmandu. The operation resulted in the installation of a leader chosen via a social media poll, underscoring the increasing use of unconventional tactics in regime change efforts. **Max Blumenthal**’s reporting suggests that such interventions are becoming more sophisticated and digitally driven, with a high chance that similar strategies will be replicated in other regions where US interests are perceived to be under threat.
+  Meanwhile, in Latin America, the ongoing fallout from US regime change strategies continues to reverberate. Former US ambassador to Venezuela, Jimmy Story, has pivoted to monetizing his experience in coup-plotting by partnering with ex-CIA officials in consulting ventures. **Blumenthal** reports that Story is leveraging his media presence to advocate for further regime change in Venezuela, while simultaneously seeking private sector clients—a move that blurs the line between official policy and personal profit.
   
-  Meanwhile, the entanglement of intelligence agencies in domestic and international affairs remains a persistent theme. The Pentagon’s reliance on cybersecurity services provided by Axonius—a firm founded by former Israeli military intelligence operatives—raises questions about foreign influence over critical US infrastructure. This development, as detailed by **Blumenthal**, points to a trend of deepening collaboration between US agencies and foreign intelligence-linked firms. There is a high chance that scrutiny over these partnerships will increase, especially as concerns about data security and sovereignty grow.
+  These episodes reflect a broader trend of intelligence agencies and affiliated actors using both legal and extralegal means to influence political outcomes and regulatory processes across multiple regions. The majority of sources agree that such operations are likely to persist, as Western governments and their proxies continue to prioritize strategic interests over transparency or adherence to international norms.
   
-  In summary, the latest disclosures and legal actions reinforce patterns of covert intervention, politicization of international institutions, and the blurred boundaries between state and private intelligence operations. The prevailing trend is toward greater exposure of these practices, with a high chance that public and legal challenges will intensify in 2026, potentially reshaping the norms governing international relations and institutional accountability.
+  Looking ahead, it is quite likely that further leaks and investigations will expose additional instances of lawfare and covert interference, particularly as independent journalists and whistleblowers intensify their scrutiny of Western-backed organizations. The confidence level is high that these revelations will fuel growing skepticism toward official narratives and could prompt calls for greater oversight of intelligence-linked NGOs and consulting firms. Most definitely, the intersection of intelligence operations, legal manipulation, and private profit will remain a defining feature of the geopolitical environment into 2026.
 articles:
+  - title: Western intelligence lawfare op plotted illegal sting on EU fraud office,
+      leaks reveal
+    url: https://thegrayzone.com/2025/12/28/cia-mi6-op-sting-eu-fraud-office/
+    text: After The Grayzone exposed CIJA – the Western gov’t-funded regime change outfit
+      – for collaborating with al-Qaeda and its allies in Syria, files show the group
+      sought to penetrate and “intimidate” European financial regulators who charged
+      them with corruption. Leaked documents reviewed by The Grayzone reveal the intelligence-linked
+      Commission for International Justice and Accountability (CIJA) launched a malicious
+      effort to infiltrate and subvert the European Commission and EU anti-fraud office
+      after it accused them of corruption. In order to carry […] The post Western intelligence
+      lawfare op plotted illegal sting on EU fraud office, leaks reveal first appeared
+      on The Grayzone . The post Western intelligence lawfare op plotted illegal sting
+      on EU fraud office, leaks reveal appeared first on The Grayzone .
+    one_sentence_summary: The Grayzone reports that leaked documents reveal the Commission
+      for International Justice and Accountability (CIJA), a Western government-funded
+      organization, attempted to infiltrate and intimidate European financial regulators
+      after being accused of corruption, while also being exposed for collaborating
+      with al-Qaeda in Syria.
+    paragraph_summary: The Grayzone has revealed that the Commission for International
+      Justice and Accountability (CIJA), a regime change organization funded by Western
+      governments, has been collaborating with al-Qaeda and its affiliates in Syria.
+      Leaked documents indicate that CIJA attempted to infiltrate and intimidate European
+      financial regulators after being accused of corruption, launching a malicious
+      campaign to undermine the European Commission and the EU anti-fraud office. This
+      operation highlights the group's connections to intelligence agencies and their
+      efforts to evade accountability for alleged misconduct.
+    published: '2025-12-28T20:02:27+00:00'
+  - title: Western intelligence lawfare op plotted illegal sting on EU fraud office,
+      leaks reveal
+    url: https://thegrayzone.com/2025/12/28/cia-mi6-op-sting-eu-fraud-office/
+    text: After The Grayzone exposed CIJA – the Western gov’t-funded regime change outfit
+      – for collaborating with al-Qaeda and its allies in Syria, files show the group
+      sought to penetrate and “intimidate” European financial regulators who charged
+      them with corruption. Leaked documents reviewed by The Grayzone reveal the intelligence-linked
+      Commission for International Justice and Accountability (CIJA) launched a malicious
+      effort to infiltrate and subvert the European Commission and EU anti-fraud office
+      after it accused them of corruption. In order to carry […] The post Western intelligence
+      lawfare op plotted illegal sting on EU fraud office, leaks reveal first appeared
+      on The Grayzone . The post Western intelligence lawfare op plotted illegal sting
+      on EU fraud office, leaks reveal appeared first on The Grayzone .
+    one_sentence_summary: The Grayzone reports that leaked documents reveal the Commission
+      for International Justice and Accountability (CIJA), a Western government-funded
+      organization, attempted to infiltrate and intimidate European financial regulators
+      after being accused of corruption, while also being exposed for collaborating
+      with al-Qaeda in Syria.
+    paragraph_summary: The Grayzone has revealed that the Commission for International
+      Justice and Accountability (CIJA), a regime change organization funded by Western
+      governments, has been collaborating with al-Qaeda and its affiliates in Syria.
+      Leaked documents indicate that CIJA attempted to infiltrate and intimidate European
+      financial regulators after being accused of corruption, launching a malicious
+      campaign to undermine the European Commission and the EU anti-fraud office. This
+      operation highlights the group's connections to intelligence agencies and their
+      efforts to evade accountability for alleged misconduct.
+    published: '2025-12-28T20:02:27+00:00'
+  - title: 'Spook Story: Ex-US amb. to Venezuela monetizes coup-plotting alongside former
+      CIA officials'
+    url: https://thegrayzone.com/2025/12/27/story-venezuela-coup-cia-officials/
+    text: 'While pushing for war on Venezuela in legacy media, former US ambassador
+      Jimmy Story is soliciting clients for consulting firms run by notorious ex-CIA
+      officials. Editor’s note: Former US ambassador to Venezuela James “Jimmy” Story
+      has gone from de facto manager of the putschist, Washington-backed opposition
+      in Venezuela to one of the most prominent voices promoting the Trump-Rubio regime
+      change policy inside legacy media. On December 7, CNN’s Fareed Zakaria featured
+      his calls for toppling Venezuela’s government during a panel […] The post Spook
+      Story: Ex-US amb. to Venezuela monetizes coup-plotting alongside former CIA officials
+      first appeared on The Grayzone . The post Spook Story: Ex-US amb. to Venezuela
+      monetizes coup-plotting alongside former CIA officials appeared first on The Grayzone
+      .'
+    one_sentence_summary: Former US ambassador to Venezuela, Jimmy Story, is leveraging
+      his media presence to advocate for regime change in Venezuela while simultaneously
+      seeking clients for consulting firms associated with former CIA officials.
+    paragraph_summary: Former US ambassador to Venezuela, James "Jimmy" Story, has transitioned
+      from managing the Washington-backed opposition in Venezuela to actively promoting
+      regime change in the country through legacy media outlets, including a recent
+      appearance on CNN. While advocating for military intervention, he is also seeking
+      clients for consulting firms run by former CIA officials, raising concerns about
+      the intertwining of his political agenda and financial interests. This situation
+      highlights the ongoing influence of ex-government officials in shaping foreign
+      policy narratives while potentially profiting from their involvement in coup-related
+      activities.
+    published: '2025-12-27T17:10:00+00:00'
+  - title: 'Spook Story: Ex-US amb. to Venezuela monetizes coup-plotting alongside former
+      CIA officials'
+    url: https://thegrayzone.com/2025/12/27/story-venezuela-coup-cia-officials/
+    text: 'While pushing for war on Venezuela in legacy media, former US ambassador
+      Jimmy Story is soliciting clients for consulting firms run by notorious ex-CIA
+      officials. Editor’s note: Former US ambassador to Venezuela James “Jimmy” Story
+      has gone from de facto manager of the putschist, Washington-backed opposition
+      in Venezuela to one of the most prominent voices promoting the Trump-Rubio regime
+      change policy inside legacy media. On December 7, CNN’s Fareed Zakaria featured
+      his calls for toppling Venezuela’s government during a panel […] The post Spook
+      Story: Ex-US amb. to Venezuela monetizes coup-plotting alongside former CIA officials
+      first appeared on The Grayzone . The post Spook Story: Ex-US amb. to Venezuela
+      monetizes coup-plotting alongside former CIA officials appeared first on The Grayzone
+      .'
+    one_sentence_summary: Former US ambassador to Venezuela, Jimmy Story, is leveraging
+      his media presence to advocate for regime change in Venezuela while simultaneously
+      seeking clients for consulting firms associated with former CIA officials.
+    paragraph_summary: Former US ambassador to Venezuela, James "Jimmy" Story, has transitioned
+      from managing the Washington-backed opposition in Venezuela to actively promoting
+      regime change in the country through legacy media outlets, including a recent
+      appearance on CNN. While advocating for military intervention, he is also seeking
+      clients for consulting firms run by former CIA officials, raising concerns about
+      the intertwining of his political agenda and financial interests. This situation
+      highlights the ongoing influence of ex-government officials in shaping foreign
+      policy narratives while potentially profiting from their involvement in coup-related
+      activities.
+    published: '2025-12-27T17:10:00+00:00'
   - title: 'Julian Assange: Suecia violó sus propias leyes al darle el Nobel de la Paz
       a María Corina Machado'
     url: https://thegrayzone.com/2025/12/21/assange-suecia-violo-leyes-nobel-machado/

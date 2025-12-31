@@ -7,18 +7,224 @@ description: "Richard Falk is an international law and international relations s
 websites:
   - https://richardfalk.org/
 summary: |
-  As the year draws to a close, the geopolitical landscape remains deeply shaped by the ongoing crisis in Gaza and the broader implications for the post-1945 world order. The persistent violence and international responses—or lack thereof—continue to expose the limitations of global governance structures and the struggle for justice and accountability.
+  The ongoing crisis in Israel-Palestine continues to dominate geopolitical analysis, with the situation evolving in both rhetoric and on-the-ground realities. In recent days, Israeli leadership has articulated a more explicit vision for the future of the territories, while international mechanisms for justice remain under scrutiny for their perceived ineffectiveness.
   
-  The most recent reflections, as articulated by **Richard Falk**, emphasize a growing sense of uncertainty and a search for hope amid darkness. In his latest piece, Falk uses poetry to capture the emotional and moral exhaustion felt by those witnessing the protracted suffering in Gaza, while also expressing a yearning for clarity about the future. This literary turn underscores a broader trend: as diplomatic and legal mechanisms falter, civil society and cultural responses are stepping in to fill the void, offering solace and a call for renewed engagement.
+  Most notably, **Richard Falk** highlights the position of Israel's Minister of Defense, Israel Katz, who now openly advocates for a 'Greater Israel'—encompassing the de facto annexation of the West Bank and a permanent Israeli presence in Gaza. This development signals a pragmatic, if controversial, acknowledgment of the difficulty in formalizing such territorial claims but underscores a hardening of Israeli policy lines. According to Falk, Katz’s statements reflect not only personal ambition but a broader shift within the Israeli government, suggesting that formal negotiations for a two-state solution are increasingly sidelined in favor of unilateral actions.
   
-  Earlier analyses from Falk have sharply criticized the United Nations and the international community for their failure to halt what he and other observers describe as a genocide in Gaza. The Istanbul Gaza Tribunal’s final statement, issued in November, condemned the ongoing violence and called for the inclusion of Palestinian rights as central to any peace process. Despite a ceasefire, the Tribunal’s findings suggest that the underlying issues—occupation, displacement, and lack of accountability—remain unresolved.
+  Meanwhile, the international community’s response remains fractured. The United Nations and other global institutions have been criticized for their inability to enforce legal commitments or deliver substantive justice in the face of ongoing violence, particularly in Gaza. As Falk notes, the post-1945 world order appears to be unraveling under the weight of these contradictions, with power politics consistently overriding legal and humanitarian concerns.
   
-  Diplomatic efforts, including high-profile initiatives and negotiations, have been repeatedly undermined by unilateral actions, such as Israel’s missile strike on a Hamas negotiating team in Doha. This act, as Falk notes, not only violated Qatari sovereignty but also jeopardized fragile ceasefire talks, further eroding trust in the international legal order.
+  Civil society efforts, such as the Gaza Tribunal, have attempted to fill this accountability gap. The Istanbul Final Statement, issued after the Tribunal’s sessions, condemned what it describes as ongoing genocide in Palestine and called for the inclusion of Palestinian rights in any future peace process. However, these initiatives, while morally significant, have yet to translate into concrete policy changes or shifts in the balance of power.
   
-  Looking ahead, the majority view across these sources is one of guarded pessimism. There is a high chance that, absent significant shifts in international political will—especially from the United States and Israel—the path to Palestinian self-determination will remain obstructed. Civil society initiatives and independent tribunals are likely to play an increasingly prominent role in documenting abuses and advocating for justice, but their impact on state behavior is expected to be limited in the near term.
-  
-  In summary, the prevailing trend is a deepening crisis of legitimacy for the post-1945 world order, with Gaza serving as a stark illustration of its failures. As Falk’s recent writings suggest, the search for hope and justice continues, but the prospects for meaningful change remain uncertain. There is a high chance that the current impasse will persist into 2026 unless there is a dramatic realignment of international priorities and commitments.
+  Looking ahead, the prevailing trend is a continued entrenchment of Israeli positions and a corresponding erosion of prospects for a negotiated settlement. There is a high chance, as inferred from the majority of sources, that the status quo—marked by de facto annexation and international inaction—will persist in the near term. The likelihood of meaningful intervention by global institutions remains low, and the prospects for Palestinian self-determination are, at present, quite bleak. I guarantee that unless there is a dramatic shift in either regional or international dynamics, the current trajectory will continue, with further marginalization of diplomatic solutions and increased reliance on unilateral measures.
 articles:
+  - title: Does Israel Katz Speak for Israel? Will Trump Diplomacy Accept ‘Greater Israel’?
+    url: https://richardfalk.org/2025/12/27/does-israel-katz-speak-for-israel-will-trump-diplomacy-accept-greater-israel/
+    text: '[ Prefatory Note: The short assessment of Israel’s strategic objectives that
+      are not addressed in the Trump Twenty-Point Plan was initially written in response
+      to a question put to by a Brazilian journalist with a special interest in the
+      Middle East.] Reading Israel Katz’s comments on Annexation of WB, permanent presence
+      in Gaza, and Policies of Disproportionate Reprisal Israel Katz, Israel’s Minister
+      of Defense, used blunt language to express his version of ‘Greater Israel’ that
+      is alone an acceptable outcome of this long struggle culminating in the Gaza Genocide.
+      What Katz proposes is at minimum the de facto annexation of the West Bank and
+      Israel’s permanent presence in the 53% of Gaza that Israel now occupies, made
+      irreversible by the establishment of Jewish settlements in Northern Gaza. Katz
+      can be read as implicitly recognizing Israel’s inability to reach these goals
+      de jure, which can be understood as an expression of Zionist realism as to the
+      limits of Israel’s influence at any given time. Such remarks may have been unscripted,
+      and not indicative of how Netanyahu proposes to handle this interaction between
+      the Trump Plan and the Zionist Endgame. This controversial language of Katz should
+      be interpreted both as trouble ahead for the Trump diplomacy, an exhibition of
+      Israel’s growing awareness that the contradictions between the further implementation
+      of remaining fundamental tenets of the Zionist vision and the Trump diplomacy
+      may collide in the future. In the past this gap between what geopolitical managers
+      were willing to grant Israel and what Israel insists upon as the price of peace
+      meant a frozen diplomacy. Before Katz spoke this acceptance of a de facto version
+      of realizing Israeli goals had rarely openly acknowledged by a public official
+      in relation to these expansionist and hegemonic ambitions. This official silence
+      in relation to Israel’s unattained strategic objectives may have been intended
+      as a temporary expression of deference to the international consensus on an endgame
+      for the struggle between Jews and Palestinians, which has been the case since
+      the General Assembly 1947 Partition Resolution of 181, continues to support a
+      ‘two-state solution.’ Such solution is not favored by a wide spectrum of opinion
+      among the political elites and citizenry of Israel that currently affirm a commitment
+      to a single Israeli state, often known as ‘Greater Israel’, but seemingly excluded
+      from the Trump Plan. This helps explain why Netanyahu and other prominent Israelis
+      have in recent months made their determined opposition to Palestinian statehood
+      in any form. Also relevant is that criticism directed at Israel’s tactics of starvation
+      and civilian targeting has been made by the governments most complicit with the
+      genocide (except the US), including France, the UK, and Canada, that pointedly
+      and stubbornly support the establishment of a Palestinian state. [See French-backed
+      New York Declaration: United Nations High-Level International Conference – New
+      York Declaration on the Peaceful Settlement of the Question of Palestine and the
+      Implementation of the Two-State solution (29 July 2025)] A previous signal of
+      Israeli one-statism was the refusal to declare existing territorial borders as
+      final. Katz has made other disturbing comments in his official response to a deadly
+      stabbing attack in the West Bank  a few days ago. Katz declared that he has “ordered
+      a military action against the home village” of the Palestinian attacker, a measure
+      of reprisal contrary to international law in two respects: openly attacking a
+      civilian village and inflicting collective punishment on an innocent community.
+      Israel newspapers reports more measured Israeli responses to the incident of course
+      labeled as ‘terrorism’ that may suggest that Katz’s provocative words should be
+      partially discounted given his reputation as a stand-alone ‘hothead.’ All along
+      Israel has opted for disproportionate and indiscriminate responses to any signs
+      of armed Palestinian resistance. Israel formulated the so-called Dahiya Doctrine,
+      first enunciated in 2006 as an articulation of Israel’s response to Hezbollah
+      operating out of Lebanon in solidarity with the Palestinian struggle. As Dahiya
+      was long understood it was nothing new. It made explicit what Israel had been
+      doing all along in the name of national security. What may be noteworthy with
+      respect to these utterances by Katz is their relevance to territorial sovereignty
+      ambitions and the future of Gaza. It has long been agreed upon by expert observers
+      of Israel that the current leadership of Israel to varying degrees adhered to
+      Zionist ideology that included the prospect of West Bank annexation and further
+      Judaification by way of the settlement movement as well as the partial annexation
+      of Gaza reinforced by Jewish settlements situated in northern Gaza. That Zionist
+      ambitions along these lines existed in Tel Aviv should not have come as a surprise
+      in informed circles, although its open acknowledgement at this time is unexpected,
+      especially as it rubs against the grain of US efforts to build wide international
+      support for the Trump 20 Point Plan, which is strongly weighted in favor of Israel
+      and dismissive of Palestinian grievances. The timing of Katz’s utterances may
+      reflect Israeli concern about the nature of Trump’s regional approach that seemed
+      to preclude such territorial expansion. This might slow down Israel’s timetable,
+      but would not likely inhibit the Israeli leadership, that Israel will move forward
+      with its ‘day after’ diplomacy while paying lip service to the Trump Plan. Trump’s
+      diplomacy has major benefits for Israel. It masks accountability issues, thereby
+      ensuring impunity for Israel’s engagement with the criminality of genocide and
+      apartheid, and possibly ecocide, exhibited daily in the past two plus years to
+      the entire world. The Miami meeting scheduled for Monday, December 29 between
+      Netanyahu and Trump may cast light on whether Katz’s comments touched on points
+      of tension between Washington and Tel Aviv or were just a way of reminding the
+      world of a major tenet of Zionist ideology at a critical moment when the non-Israelis
+      were formulating the future of what has become known as Occupied Palestinian Territories. 
+      Time will tell us more about the relative leverage of Israel and the United States
+      in crafting a post-genocide future for the two peoples. In this sense, it is most
+      unfortunate that no modality of Palestinian participation could be agreed upon
+      during this period of Trump diplomacy. As such thoughts linger, the people of
+      Gaza have not been treated with dignity but mostly left homeless amid the rubble
+      to cope with fierce Winter without heat, adequate food, and a conscientious Israel
+      effort to abide by the ceasefire that it has consistently violated in ways that
+      overcome any uncertainty. There is little reason to doubt that Israel’s annexationist
+      and expansionist goals retain their position at the top of Israel’s policy agenda.'
+    one_sentence_summary: Israel's Minister of Defense, Israel Katz, advocates for a
+      vision of 'Greater Israel' that includes the de facto annexation of the West Bank
+      and a permanent Israeli presence in Gaza, reflecting a pragmatic acknowledgment
+      of the challenges in achieving these objectives formally.
+    paragraph_summary: Israel's Minister of Defense, Israel Katz, has openly articulated
+      a vision of 'Greater Israel' that includes the de facto annexation of the West
+      Bank and a permanent Israeli presence in Gaza, particularly through the establishment
+      of Jewish settlements in Northern Gaza. His comments reflect a pragmatic acknowledgment
+      of Israel's current limitations in achieving these goals through formal means,
+      highlighting a potential clash between Israel's expansionist ambitions and the
+      diplomatic framework proposed by the Trump administration. Katz's remarks suggest
+      a growing recognition within Israel of the contradictions between its strategic
+      objectives and the realities of international diplomacy, indicating that past
+      silences on these issues may no longer be tenable as Israel seeks to assert its
+      interests in the region.
+    published: '2025-12-27T18:06:49+00:00'
+  - title: Does Israel Katz Speak for Israel? Will Trump Diplomacy Accept ‘Greater Israel’?
+    url: https://richardfalk.org/2025/12/27/does-israel-katz-speak-for-israel-will-trump-diplomacy-accept-greater-israel/
+    text: '[ Prefatory Note: The short assessment of Israel’s strategic objectives that
+      are not addressed in the Trump Twenty-Point Plan was initially written in response
+      to a question put to by a Brazilian journalist with a special interest in the
+      Middle East.] Reading Israel Katz’s comments on Annexation of WB, permanent presence
+      in Gaza, and Policies of Disproportionate Reprisal Israel Katz, Israel’s Minister
+      of Defense, used blunt language to express his version of ‘Greater Israel’ that
+      is alone an acceptable outcome of this long struggle culminating in the Gaza Genocide.
+      What Katz proposes is at minimum the de facto annexation of the West Bank and
+      Israel’s permanent presence in the 53% of Gaza that Israel now occupies, made
+      irreversible by the establishment of Jewish settlements in Northern Gaza. Katz
+      can be read as implicitly recognizing Israel’s inability to reach these goals
+      de jure, which can be understood as an expression of Zionist realism as to the
+      limits of Israel’s influence at any given time. Such remarks may have been unscripted,
+      and not indicative of how Netanyahu proposes to handle this interaction between
+      the Trump Plan and the Zionist Endgame. This controversial language of Katz should
+      be interpreted both as trouble ahead for the Trump diplomacy, an exhibition of
+      Israel’s growing awareness that the contradictions between the further implementation
+      of remaining fundamental tenets of the Zionist vision and the Trump diplomacy
+      may collide in the future. In the past this gap between what geopolitical managers
+      were willing to grant Israel and what Israel insists upon as the price of peace
+      meant a frozen diplomacy. Before Katz spoke this acceptance of a de facto version
+      of realizing Israeli goals had rarely openly acknowledged by a public official
+      in relation to these expansionist and hegemonic ambitions. This official silence
+      in relation to Israel’s unattained strategic objectives may have been intended
+      as a temporary expression of deference to the international consensus on an endgame
+      for the struggle between Jews and Palestinians, which has been the case since
+      the General Assembly 1947 Partition Resolution of 181, continues to support a
+      ‘two-state solution.’ Such solution is not favored by a wide spectrum of opinion
+      among the political elites and citizenry of Israel that currently affirm a commitment
+      to a single Israeli state, often known as ‘Greater Israel’, but seemingly excluded
+      from the Trump Plan. This helps explain why Netanyahu and other prominent Israelis
+      have in recent months made their determined opposition to Palestinian statehood
+      in any form. Also relevant is that criticism directed at Israel’s tactics of starvation
+      and civilian targeting has been made by the governments most complicit with the
+      genocide (except the US), including France, the UK, and Canada, that pointedly
+      and stubbornly support the establishment of a Palestinian state. [See French-backed
+      New York Declaration: United Nations High-Level International Conference – New
+      York Declaration on the Peaceful Settlement of the Question of Palestine and the
+      Implementation of the Two-State solution (29 July 2025)] A previous signal of
+      Israeli one-statism was the refusal to declare existing territorial borders as
+      final. Katz has made other disturbing comments in his official response to a deadly
+      stabbing attack in the West Bank  a few days ago. Katz declared that he has “ordered
+      a military action against the home village” of the Palestinian attacker, a measure
+      of reprisal contrary to international law in two respects: openly attacking a
+      civilian village and inflicting collective punishment on an innocent community.
+      Israel newspapers reports more measured Israeli responses to the incident of course
+      labeled as ‘terrorism’ that may suggest that Katz’s provocative words should be
+      partially discounted given his reputation as a stand-alone ‘hothead.’ All along
+      Israel has opted for disproportionate and indiscriminate responses to any signs
+      of armed Palestinian resistance. Israel formulated the so-called Dahiya Doctrine,
+      first enunciated in 2006 as an articulation of Israel’s response to Hezbollah
+      operating out of Lebanon in solidarity with the Palestinian struggle. As Dahiya
+      was long understood it was nothing new. It made explicit what Israel had been
+      doing all along in the name of national security. What may be noteworthy with
+      respect to these utterances by Katz is their relevance to territorial sovereignty
+      ambitions and the future of Gaza. It has long been agreed upon by expert observers
+      of Israel that the current leadership of Israel to varying degrees adhered to
+      Zionist ideology that included the prospect of West Bank annexation and further
+      Judaification by way of the settlement movement as well as the partial annexation
+      of Gaza reinforced by Jewish settlements situated in northern Gaza. That Zionist
+      ambitions along these lines existed in Tel Aviv should not have come as a surprise
+      in informed circles, although its open acknowledgement at this time is unexpected,
+      especially as it rubs against the grain of US efforts to build wide international
+      support for the Trump 20 Point Plan, which is strongly weighted in favor of Israel
+      and dismissive of Palestinian grievances. The timing of Katz’s utterances may
+      reflect Israeli concern about the nature of Trump’s regional approach that seemed
+      to preclude such territorial expansion. This might slow down Israel’s timetable,
+      but would not likely inhibit the Israeli leadership, that Israel will move forward
+      with its ‘day after’ diplomacy while paying lip service to the Trump Plan. Trump’s
+      diplomacy has major benefits for Israel. It masks accountability issues, thereby
+      ensuring impunity for Israel’s engagement with the criminality of genocide and
+      apartheid, and possibly ecocide, exhibited daily in the past two plus years to
+      the entire world. The Miami meeting scheduled for Monday, December 29 between
+      Netanyahu and Trump may cast light on whether Katz’s comments touched on points
+      of tension between Washington and Tel Aviv or were just a way of reminding the
+      world of a major tenet of Zionist ideology at a critical moment when the non-Israelis
+      were formulating the future of what has become known as Occupied Palestinian Territories. 
+      Time will tell us more about the relative leverage of Israel and the United States
+      in crafting a post-genocide future for the two peoples. In this sense, it is most
+      unfortunate that no modality of Palestinian participation could be agreed upon
+      during this period of Trump diplomacy. As such thoughts linger, the people of
+      Gaza have not been treated with dignity but mostly left homeless amid the rubble
+      to cope with fierce Winter without heat, adequate food, and a conscientious Israel
+      effort to abide by the ceasefire that it has consistently violated in ways that
+      overcome any uncertainty. There is little reason to doubt that Israel’s annexationist
+      and expansionist goals retain their position at the top of Israel’s policy agenda.'
+    one_sentence_summary: Israel's Minister of Defense, Israel Katz, advocates for a
+      vision of 'Greater Israel' that includes the de facto annexation of the West Bank
+      and a permanent Israeli presence in Gaza, reflecting a pragmatic acknowledgment
+      of the challenges in achieving these objectives formally.
+    paragraph_summary: Israel's Minister of Defense, Israel Katz, has openly articulated
+      a vision of 'Greater Israel' that includes the de facto annexation of the West
+      Bank and a permanent Israeli presence in Gaza, particularly through the establishment
+      of Jewish settlements in Northern Gaza. His comments reflect a pragmatic acknowledgment
+      of Israel's current limitations in achieving these goals through formal means,
+      highlighting a potential clash between Israel's expansionist ambitions and the
+      diplomatic framework proposed by the Trump administration. Katz's remarks suggest
+      a growing recognition within Israel of the contradictions between its strategic
+      objectives and the realities of international diplomacy, indicating that past
+      silences on these issues may no longer be tenable as Israel seeks to assert its
+      interests in the region.
+    published: '2025-12-27T18:06:49+00:00'
   - title: Three Poems of Struggle Against ‘The Dying of the Light’
     url: https://richardfalk.org/2025/12/15/three-poems-of-struggle-against-the-dying-of-the-light/
     text: '[ Prefat ory Note : These three recent poems of mine are published here as

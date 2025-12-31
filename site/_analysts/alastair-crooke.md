@@ -7,16 +7,424 @@ description: "Ex-MI6 diplomat and founder of Conflicts Forum (Beirut); publishes
 websites:
   - https://www.eurasiareview.com/author/alastair-crooke/
 summary: |
-  The global geopolitical landscape remains in flux as the Trump administration’s recalibration of U.S. foreign policy continues to reverberate across key theaters. The latest analyses highlight a decisive shift away from traditional imperial models, with Washington now prioritizing economic interests and transactional diplomacy over military dominance. This realignment is having profound effects on alliances, conflict resolution efforts, and the broader balance of power.
+  As 2025 draws to a close, the global geopolitical landscape remains fraught with volatility, shaped by the Trump Administration’s assertive foreign policy, deepening rifts among traditional allies, and the evolving strategies of key regional actors. Recent developments highlight escalating tensions in the Middle East, a recalibration of U.S. alliances, and the persistent challenge of managing great power competition.
   
-  Most recently, **Alastair Crooke** underscores that President Trump’s National Security Strategy marks a clear pivot: “peace through commerce” is now the guiding principle, with the U.S. seeking to reduce the unsustainable costs of global military commitments. The administration’s skepticism toward sanctions—particularly against China and Russia—reflects a recognition of their limited efficacy and the need for pragmatic engagement. Crooke notes, “Trump’s approach is less about enforcing submission and more about leveraging economic relationships to secure U.S. interests.”
+  The most notable new development is the Trump Administration’s aggressive posture towards Iran, as detailed by **Alastair Crooke** in his December 26 analysis. The U.S. has intensified pressure through actions such as the seizure of tankers linked to Venezuela and support for Ukrainian drone strikes on Russian assets. Crooke argues these moves are part of a complex interplay involving U.S. internal divisions and Israel’s strategic interests, particularly Prime Minister Netanyahu’s efforts to draw the U.S. into a direct confrontation with Iran. This approach, however, is complicated by growing Israeli doubts about Trump’s reliability as an ally, especially after his Gaza plan failed to align with Israeli security priorities.
   
-  In Europe, this shift is causing unease. The U.S. is calling on NATO allies to shoulder more responsibility, especially regarding defense and economic stability. Crooke points out that the new strategy critiques Europe’s handling of the Ukraine conflict and signals that NATO is “not forever”—a message that has prompted both anxiety and recalibration among European capitals.
+  Simultaneously, the U.S. National Security Strategy under Trump continues to pivot away from global hegemony toward a transactional, “America First” model. As Crooke notes, this shift places greater emphasis on economic interests and regional dominance, while pressing European allies to shoulder more responsibility for their own defense and economic stability. This recalibration has led to friction within NATO, with the alliance’s future increasingly uncertain.
   
-  Meanwhile, diplomatic efforts on Ukraine remain stalled. Recent talks in Moscow, involving U.S. envoys and President Putin, revealed a persistent disconnect: while Washington seeks a narrative of diplomatic progress, Moscow insists on a legally binding settlement rather than temporary deals. Crooke observes that “the U.S. desire for a quick diplomatic win is at odds with Russia’s insistence on addressing root causes,” making a breakthrough unlikely in the near term.
+  On the Russia front, recent diplomatic engagements—such as the Moscow visit by Steve Witkoff and Jared Kushner—have exposed the limits of U.S. efforts to secure a quick resolution to the Ukraine conflict. Putin’s insistence on a legally binding treaty, rather than a temporary fix, underscores the deep disconnect between Washington and Moscow. Crooke observes that these U.S. initiatives are often more about shaping a narrative of success for domestic audiences than addressing the root causes of conflict.
   
-  Looking ahead, the trends are clear. The U.S. is most definitely moving toward a less interventionist, more economically driven foreign policy, with high confidence that transactional relationships will define its approach to both allies and adversaries. The likelihood of a durable peace in Ukraine remains low, as the fundamental positions of Washington and Moscow remain irreconcilable. Europe faces increased pressure to adapt to a diminished American security umbrella, while Russia and China are expected to further consolidate their positions in a shifting multipolar order.
+  Looking ahead, the prevailing trend is one of escalating risk and strategic uncertainty. The Trump Administration’s assertiveness is likely to provoke further pushback from both adversaries and uneasy allies. As Crooke concludes, “there is a high chance” that the U.S. will face mounting difficulties in maintaining its influence, with the potential for new flashpoints in the Middle East and Eastern Europe. The confidence in a stable, U.S.-led order is waning, and the coming months will most definitely see intensified maneuvering by both established and emerging powers.
 articles:
+  - title: Netanyahu’s New Slant To Lure Trump Into War With Iran – OpEd
+    url: https://www.eurasiareview.com/26122025-netanyahus-new-slant-to-lure-trump-into-war-with-iran-oped/
+    text: 'By Alastair Crooke
+
+
+      In these last days, the Trump Administration has boarded or seized three tankers
+      either loaded with Venezuelan oil or destined for Venezuela (such as the Bella1).
+      The most egregious seizure – in terms of illegality – being a Chinese-owned, Panama-flagged
+      vessel reportedly destined for China – and on no one’s sanctions list.
+
+
+      In a different zone of conflict, the Security Service of Ukraine (SBU) last Friday
+      claimed that it had struck a Russian so-called ‘shadow fleet’ tanker, the Qendil,
+      with aerial drones in waters of the Mediterranean Sea off Morocco. The SBU did
+      not give further details of the attack, including how the SBU deployed a drone
+      in the Mediterranean (2,000 Km from Ukraine), or the site from which it was launched.
+      The SBU source said the cargo ship was empty at the time of the attack.
+
+
+      President Putin, in midst of his annual question and answer marathon, vowed that
+      Russia would retaliate.
+
+
+      ‘Blockades’, seizures and attacks, very plainly, are acts of war (despite the
+      U.S. claim that America owns all oil produced by Venezuela – until all historical
+      U.S. legal claims against Venezuela are satisfied). This tanker-episode is yet
+      another ratchet to the drift to lawlessness in U.S. foreign policy.
+
+
+      These acts pre-eminently are aimed at China (which has large equities in the Venezuelan
+      oil industry) and Russia, which has longstanding ties to both Venezuela and Cuba
+      (now under Trump ‘blockade’ too). Add to that the $11bn in weapons being sent
+      to Taiwan — with a significant amount of medium to long-range missile systems
+      being part of the planned transfer, including 82 HIMARS launchers with Army ATACMS
+      missiles, allowing Taipei forces to hit targets across the Taiwan Strait.
+
+
+      This latter transfer has infuriated China.
+
+
+      What this suggests is that the National Strategy Statement (NSS) in respect to
+      China (it states that Washington views China as no longer constituting a ‘prime
+      threat’, but only as an economic competitor) is meaningless rhetoric. China is
+      being treated as an adversarial threat and will respond as such.
+
+
+      China and Russia will ‘read’ the Trump Administration by its actions, rather than
+      its NSS rhetoric. And the signals speak plainly to escalatory steps.
+
+
+      Put all this into the context of ‘leaks’ by senior Trump officials which Director
+      of National Intelligence Tulsi Gabbard says are “lies and propaganda”. She says
+      the claims that “the ‘U.S. intelligence community’ agrees to, and supports the
+      EU/NATO viewpoint, that Russia’s aim is to invade/conquer Europe (in order to
+      ‘gin up support’ for their pro-war policies)” — that these are lies being pushed
+      by what she terms“Deep State warmongers and their Propaganda Media … to undermine
+      Trump’s efforts to bring peace to Ukraine”.
+
+
+      “The truth”, Gabbard writes on Twitter, is the opposite:
+
+
+      “[That] the U.S. intelligence community has briefed policymakers, including the
+      Democrat HPSCI member quoted by Reuters, that U.S. Intelligence assesses that
+      Russia seeks to avoid a larger war with NATO. It also assesses that, as the last
+      few years have shown, Russia … does not have the capability to invade and occupy
+      Europe” — and that “U.S. Intelligence assesses that Russia seeks to avoid a larger
+      war with NATO”.
+
+
+      So, what Gabbard is telling us is that there is open intra-warfare at the top
+      of the Trump Administration. On one side, there is the CIA, the hawks and their
+      European collaborators, and on the other, Gabbard’s Intelligence analysts and
+      a larger U.S. constituency.
+
+
+      Where is Trump in this brew? Why is he positioning himself at the cusp of another
+      round of conflict with China? Why would he do that when U.S. economic structures
+      are so fragile, and when China has shown that it has economic leverage with which
+      to fight? Is the explanation the simplistic response that it is a diversion from
+      the release of further Epstein images?
+
+
+      Why too did Trump despatch Messrs Witkoff and Kushner to Berlin when the intent
+      of Europeans to wreck the negotiating process with Russia was quite evident aforehand?
+      The two American ‘Envoys’ did not sign the Euro-proposal. They sat silently; yet
+      neither did they enter a dissent, not even when (NATO-like) Article 5 security
+      guarantees were mooted?
+
+
+      Also who was it who provided the targeting data by which Ukraine (apparently)
+      was able to attack the Qendil off the North African coast 2,000 kms from Ukraine?
+      What conclusion was intended for Putin to draw from the two incidents? Certainly,
+      Russians will have made their own surmise.
+
+
+      And why draw-in Iran too, by seizing the Iranian Bella 1, ostensibly flagged to
+      Guyana heading toward Venezuela? Does this represent the start to another round
+      to the Iranian tanker war originally pursued by Israel? Does it suit Netanyahu’s
+      and certain constituencies in Israel’s purposes to heat up the situation in respect
+      to Iran?
+
+
+      It is worth asking because Netanyahu is scheduled to leave for Palm Beach, Miami,
+      on the 28 December with a view to have one or perhaps two meetings with Trump
+      at Mar-a-Lago during the following days (though the meetings with Trump have yet
+      to be confirmed at time of writing).
+
+
+      It seems that it is neither Hamas, nor Gaza Phase Two, that lies predominantly
+      behind Netanyahu’s summit intent – but rather Iran.
+
+
+      The Gaza and Hamas issues therefore are likely to play second fiddle to the ‘new’
+      narrative being framed by the Israeli PM’s office: Iran will not be presented
+      to Trump as rushing toward ‘a nuclear breakthrough’ as per the old cliché.
+
+
+      That is the ‘old narrative’. The new one is, as leading Israeli commentator Anna
+      Barsky writes in (Hebrew) in Ma’ariv:
+
+
+      “The more immediate threat here: [more] than the nuclear itself … [is] the systematic
+      [Iranian] reconstruction of the middle layer: the ballistic missile industry,
+      its production lines and the ability to restore the functionality to damaged air
+      defence systems”.
+
+
+      “Not because the nuclear issue has fallen off the agenda … but because missiles
+      are the key that allows Iran to protect everything else – and also to attack.
+      Without missile and air defence shields, nuclear facilities are a vulnerable target.
+      With a shield [by contrast] they become a much more complex strategic problem
+      … And here is a point that often escapes public discourse: Iran is not ‘rehabilitating’
+      just to return to what it was, but to return differently”.
+
+
+      “In other words: “missile restoration” and “nuclear restoration” are not two separate
+      axes, but one system – and it is of great concern to Israel. The missile builds
+      a shell, the shell enables a nuclear power, and the nuclear power – even if rejected
+      – remains the ultimate [Iranian] goal”.
+
+
+      The message that Netanyahu will take to Mar-a-Lago is that “Israel will not allow
+      Iran to rebuild a missile and defence umbrella that will close the skies over
+      sensitive sites”.
+
+
+      Trump may be more preoccupied with creating a new regional order without being
+      dragged into a war with no clear end. Netanyahu likely will claim nonetheless
+      (as he has been doing for over 25 years) that the ‘window’ in which Iran can rebuild
+      its defence umbrella is fast closing, and will likely gently remind the President
+      that Trump was placed in power, not just to promote Israel’s image, but for the
+      Realpolitik purpose of expanding Israel’s real-world power in the region and control
+      over territory.
+
+
+      Happy Christmas, Donald!'
+    one_sentence_summary: The article discusses recent aggressive actions by the Trump
+      Administration, including the seizure of tankers related to Venezuela and a Ukrainian
+      drone strike on a Russian tanker, highlighting the escalating tensions with China
+      and Russia, and suggesting a complex interplay of U.S. foreign policy, internal
+      conflicts within the Trump Administration, and Israel's strategic interests regarding
+      Iran.
+    paragraph_summary: In recent actions, the Trump Administration has seized or boarded
+      three tankers related to Venezuelan oil, including a Chinese-owned vessel not
+      on any sanctions list, raising concerns about the legality of these actions as
+      acts of war. Concurrently, Ukraine's Security Service claimed to have attacked
+      a Russian tanker in the Mediterranean, prompting President Putin to vow retaliation.
+      The article highlights the escalating tensions between the U.S., China, and Russia,
+      suggesting that the Trump Administration's actions contradict its National Strategy
+      Statement regarding China, which downplays its threat level. Additionally, there
+      are indications of internal conflict within the Trump Administration regarding
+      U.S. intelligence assessments of Russia's intentions. The piece also touches on
+      Israel's concerns about Iran's missile capabilities and the implications for U.S.-Israel
+      relations, particularly in light of upcoming meetings between Netanyahu and Trump.
+      Overall, the article portrays a complex geopolitical landscape marked by potential
+      conflicts and strategic maneuvering.
+    published: '2025-12-26T17:36:19+00:00'
+  - title: Trump Morphs From Asset To Liability For Israel – OpEd
+    url: https://www.eurasiareview.com/22122025-trump-morphs-from-asset-to-liability-for-israel-oped/
+    text: 'By Alastair Crooke
+
+
+      Leading Israeli commentator, Anna Barsky, in Ma’ariv (in Hebrew) writes: “Let
+      [Trump’s] plan in Gaza – fail”.
+
+
+      “An Israeli ‘waiting ploy’ is being formulated: not to hurl out a frontal rejection
+      … [but rather] to bet that reality in the region will take its course”. “[Yet],
+      the fault line [over] Trump’s Gaza Plan is real … Israel demands a clear order:
+      First, the disarmament of Hamas, i.e., first its actual removal from power, and
+      only after that – reconstruction, international power and Israeli withdrawal”.
+
+
+      And here’s the ‘rub’: “The Prime Minister’s Office understands that Trump, apparently,
+      does not intend to accept the Israeli ‘precondition’ formula”. “And here is the
+      heart of the problem … which is that Hamas does not intend to disarm or leave
+      the territory”.
+
+
+      Thus …“The Gulf states, Egypt, and also significant parts of the American establishment,
+      propose a different order: First, reconstruction and an international mechanism
+      are created, then a stabilisation force and a technocratic government are introduced,
+      and then ‘in the process’, the issue of Hamas – is [only] gradually addressed”.
+
+
+      Thus, the Israeli leadership is both disillusioned and frustrated.
+
+
+      But this is just the tip of the spear. It goes deeper – as Alon Mizrahi points
+      out:
+
+
+      “Israeli leaders are noting that Arab states have not agreed to normalise with
+      Israel. The Jewish nationalists may have their man in the White House, but all
+      he seems to care about is making Arab money. No [West Bank] annexation; no Iran
+      [regime change] and now an ‘insulting’ demand for a ‘Phase 2’ in Gaza, where Israel
+      is supposed to not only tolerate a foreign military presence, but also allow reconstruction
+      to take place”.
+
+
+      The problem is the increasingly strategic divergence of interests between Netanyahu
+      and Trump: They diverge not only on Trump’s Gaza plan, but on Syria (where U.S.
+      Envoy Tom Barrack is seen to side with Turkey’s stance) and on Lebanon where Washington
+      is seen to side with Beirut.
+
+
+      “Trump needs an achievement. He needs to sign something”. Whereas Israel’s goals
+      are to maintain the freedom of military action that it currently enjoys in Syria
+      and Lebanon, but which disturbs and disrupts U.S. efforts to orchestrate headline-catching
+      agreements between Israel and regional powers.
+
+
+      Trump wants a Nobel prize and judging by his recent statements, feels that Netanyahu
+      is not ‘providing the goods’ — a feeling of disillusion that is reciprocated in
+      the Israeli Prime Minister’s office.
+
+
+      Ben Caspit relates that Trump’s inconsistent decision-making remains a major source
+      of frustration for Netanyahu:
+
+
+      “The President can be on your side today, an associate suggests … but tomorrow
+      he can easily flip without batting an eyelid, With Trump, every day is a new fight,
+      depending on whom he spoke to the night before or what economic interests are
+      at play. It’s a difficult and, above all, an endless struggle …”. “Working with
+      the Qataris and Saudis”, in the Israeli perspective, one commentator suggests,
+      “represents for Trump the mesmerizing promise of mammoth investments, which bolster
+      his image as effective and successful; but also, even more importantly, have opened
+      a personal gateway to making billions in real estate deals across the Middle East”.
+
+
+      This Trump shift to his transactional business-first approach is in fact enshrined
+      in the recent U.S. National Strategic Statement (NSS), which takes the U.S. focus
+      away from Israeli security concerns to “partnership, friendship, and investment”.
+      Bin Salman’s November visit to Washington vividly demonstrated this shift, shaped
+      as it was by high-level meetings, an investment forum and a long list of agreements
+      on expanding cooperation in these areas.
+
+
+      World Liberty Financial launched in 2024 by Trump’s sons Donald Jr. and Eric,
+      alongside associates like Zach and Alex Witkoff (sons of Trump’s Envoy, Steve
+      Witkoff), underscore the Trump family’s Gulf business priorities – projects that
+      are adding billions of dollars to the family wealth.
+
+
+      Furthermore, Trump’s excessive partiality for Israel – such as acknowledging to
+      Mark Levine at the White House Hanuka party that indeed, he is the first Jewish
+      President of the U.S.: “True. That’s true”, Trump said gratuitously rubbing salt
+      into the ‘America Firster’ open sores. This obsequiousness has translated into
+      strategic damage for Zionism – even among American Conservatives in Congress:
+      “They hate Israel”,Trump said at the same gathering.
+
+
+      “By now”, Alon Mizrahi argues, “Israel and its legions of supporters in the American
+      political system have to be asking themselves whether they have made a critical
+      mistake by betting ‘all’ on Trump”. They stood behind Trump for strategic purpose,
+      and not merely for his commitment to defending Israel’s image and in making ‘anti-semitism’
+      laws bite.
+
+
+      Mizrahi explains:
+
+
+      “Nice and potentially important, PR-related objectives are not what [the Israeli
+      eschatological Right] is really about: The expansion of real-world power and control
+      over people and territory is its defining, guiding vision and aspiration. Trump
+      was chosen to help with that: for Israel to formally own parts of Syria; to terminate
+      Hezbollah in Lebanon; to annex and ethnically cleanse the West Bank … to break
+      Iran, and to curtail the rise of any rival power in the Middle East, including
+      one as accommodating of Zionism as the Arab Gulf states”,
+
+
+      “They know they have limited time before the general distaste for Zionism in the
+      world, including the U.S., gives way to new leaders, norms, and standards. So,
+      they need to act with urgency. And this is what they’re doing: not damage control,
+      but preparation for impact. They are not playing defence; they are playing offense”.
+
+
+      Ben Caspit writes that, whereas the second phase of Trump’s Gaza plan likely will
+      be the most pressing issue at the Netanyahu-Trump year-end summit, it is Iran
+      that poses the greater strategic threat to Israel. And it is in this context that
+      Israeli strategic commentator Shemuel Meir raises another Israeli-perceived Trump
+      lapse:
+
+
+      Were Iran’s uranium enrichment sites truly ‘obliterated’ on 13 June? And what
+      happened to the 440 kg of 60% enriched uranium that Iran still has?
+
+
+      In the current state of wide scepticism as to the results of Trump’s attack on
+      Iran, “an extraordinary nuclear story emerged in Israeli discourse this week,
+      with more to it, than meets the eye: Netanyahu unexpectedly announced the appointment
+      of his military secretary, Major General Roman Goffman, as the next head of the
+      Mossad”.
+
+
+      Goffman, with no known Intelligence experience, is more known for having written
+      on the nuclear issue a few years ago, proposing a radical change to Israel’s strategic
+      deterrence doctrine.
+
+
+      As head of the Mossad, Goffman reports directly and exclusively to Netanyahu.
+      In Israel, the PM is also the Head of the Atomic Energy Commission. “It seems
+      that more than thinking outside the box, Goffman thinks in Netanyahu’s terms”,
+      Meir writes.
+
+
+      Through the ‘Nixon-Golda Understandings’ initiated by Henry Kissinger fifty years
+      ago Israel was granted a unique American exemption from the obligation to join
+      the NPT treaty. The U.S., for its part, set conditions for this unique nuclear
+      status: Israel would not declare that it had nuclear weapons and would not conduct
+      a nuclear test. This is Israel’s policy of nuclear ambiguity.
+
+
+      A possible reason for Netanyahu contemplating moving away from official ‘ambiguity’
+      is what Shemuel Meir calls the ‘Trump effect’:
+
+
+      “On the one hand, there is a U.S. president who gave Israel the green light to
+      attack the nuclear sites when his national intelligence assessed that Iran was
+      not building nuclear weapons. Yet, on the other hand, there stands a volatile
+      and unpredictable man”. “A President who declared that all nuclear sites had been
+      ‘obliterated’ offers no certainty that he will give Netanyahu the option for a
+      second round of preventive war, in contrast to Netanyahu’s assertion of Israeli
+      freedom of action whenever signs, (real or not), of the renewal of the Iranian
+      nuclear program are discovered”.
+
+
+      Well, Mossad just has declared that “Iran is just waiting for the chance to build
+      a nuclear bomb. They want to wipe Israel off the map. We’ll find their agents.
+      We’ll deal with them. Justice will be done” — said David Barnea, the out-going
+      Mossad Chief.
+
+
+      The change of leadership at Mossad may intentionally signal that the nuclear issue
+      in respect to Iran will be on the table at the end-of-year summit.
+
+
+      On this vital issue, Netanyahu may also determine whether Trump, once an ‘asset’,
+      has now become a liability.
+
+
+      “If he stays in office and remains adamant on pursuing financial gains while enjoying
+      a pro-Zionist aura and delivering nothing substantial for Israel, I just can’t
+      see how they’re going to let him continue”, Mizrahi speculates. “They’d much rather
+      he just disappeared”.
+
+
+      Yet, Vice-President JD Vance now is tainted too. “Systematic delegitimization
+      of Jews” came today from the U.S. Vice-President, writes Anna Barsky in Ma’ariv:
+
+
+      “There is a difference between dislike for Israel and anti-Semitism” – this is
+      what the Vice-President of the U.S., J. D. Vance, wrote on social media”, Barsky
+      wrote.
+
+
+      “From the perspective of Israel, there is nothing more disturbing than this short,
+      almost casual text. Not because it is surprising, not because it is blatant, but
+      because of what it symbolizes — an open adoption, on the part of senior U.S. administration
+      officials, of an ideological narrative that seeks to separate attitudes towards
+      Israel from attitudes towards Jews and to legitimize deep hostility towards the
+      Jewish state, while maintaining a clean moral façade”.
+
+
+      Perhaps – paraphrasing Anna Barsky – Israel is now realising that ‘realities in
+      the region’ have changed.'
+    one_sentence_summary: The article discusses the growing disillusionment of Israeli
+      leaders with Trump's Gaza plan, highlighting a strategic divergence between Netanyahu
+      and Trump, as well as concerns over U.S. policy shifts that prioritize economic
+      partnerships over Israeli security, leading to fears that Trump may no longer
+      be a reliable ally for Israel.
+    paragraph_summary: In a recent analysis by Alastair Crooke, Israeli commentator
+      Anna Barsky expresses skepticism about Trump's Gaza plan, emphasizing that Israel's
+      demands for the disarmament of Hamas before any reconstruction are unlikely to
+      be met by the U.S. administration. The article highlights a growing disillusionment
+      among Israeli leaders regarding Trump's transactional approach, which prioritizes
+      economic partnerships over Israeli security concerns, and suggests a strategic
+      divergence between Netanyahu and Trump on issues like Gaza, Syria, and Iran. As
+      Trump seeks a significant diplomatic achievement, Israeli officials are frustrated
+      by his inconsistent decision-making and the perceived lack of support for their
+      broader territorial ambitions. The appointment of a new head of Mossad, Major
+      General Roman Goffman, indicates a potential shift in Israel's nuclear strategy
+      amid concerns over Iran's nuclear capabilities. Overall, the article suggests
+      that Israel may be reevaluating its reliance on Trump, as changing regional dynamics
+      and U.S. political attitudes towards Israel raise new challenges for its leadership.
+    published: '2025-12-22T17:49:36+00:00'
   - title: 'Trump’s Geo-Politics: Correcting The Imperial Model And Shaping The Incoming
       Economic Architecture – OpEd'
     url: https://www.eurasiareview.com/17122025-trumps-geo-politics-correcting-the-imperial-model-and-shaping-the-incoming-economic-architecture-oped/

@@ -7,16 +7,606 @@ description: "Gilbert Doctorow is a Brussels-based independent political analyst
 websites:
   - https://gilbertdoctorow.com/
 summary: |
-  The geopolitical landscape remains tense as Europe grapples with security anxieties, internal dissent over freedom of expression, and the ongoing fallout from the Russia-Ukraine conflict. The latest developments highlight growing divisions within Western institutions and persistent risks on the ground in Eastern Europe.
+  As the Russia-Ukraine conflict grinds on into the final days of 2025, the diplomatic and military landscape remains tense, with little sign of substantive progress toward a negotiated settlement. The latest developments center on the fallout from an alleged Ukrainian drone attack targeting President Putin’s residence, which has drawn sharp criticism from India, Pakistan, and other Global South states. According to **Gilbert Doctorow**, this incident has also sparked skepticism in U.S. media regarding the veracity of Moscow’s claims, with some commentators referencing Ukraine’s history of alleged false flag operations.
   
-  In a recent NewsX World interview, **Gilbert Doctorow** criticized NATO Secretary General Marc Rutte's statements regarding the US nuclear umbrella, describing them as "misleading" and suggesting that European security is far less assured than official rhetoric implies. This skepticism is echoed by concerns over nuclear safety in Ukraine, with a Ukrainian expert warning of potential Russian threats to the Chernobyl sarcophagus. While Doctorow notes that such claims may be exaggerated for political effect, the underlying anxiety about escalation and infrastructure vulnerability is palpable.
+  Meanwhile, despite public statements from both Donald Trump and Volodymyr Zelensky suggesting that a peace agreement is “ninety-five percent” complete, **Doctorow** asserts that neither Putin nor Zelensky is willing to compromise on the core issues. He draws a parallel to the symbolic Doomsday Clock, noting that the persistent risk of escalation—including nuclear—remains unchanged. The lack of meaningful movement in negotiations is further compounded by Trump’s limited support within the U.S. political establishment, which continues to hinder any breakthrough in diplomacy.
   
-  Meanwhile, the European Union's decision to sanction retired Swiss intelligence officer Jacques Baud has sparked alarm across alternative media circles. As **Doctorow** reports, the sanctions—imposed without transparent legal proceedings—have left Baud financially stranded and dependent on friends. This episode has intensified debate about freedom of speech and the rule of law within the EU, with many viewing the move as a troubling precedent for silencing dissenting voices.
+  On the international stage, the response from the Global South to the drone incident underscores a growing divide between Western and non-Western narratives about the conflict. **Doctorow** highlights that skepticism toward Ukraine’s claims is widespread outside the Euro-Atlantic sphere, reflecting broader doubts about Western information dominance and the legitimacy of certain narratives.
   
-  These developments come on the heels of the recent assassination of Russian Lieutenant General Sarvarov in Moscow, a stark reminder of the ongoing volatility surrounding the Russia-Ukraine conflict. Criticism is mounting over President Putin's restraint in targeting Ukrainian leadership, with some arguing that a more aggressive approach could alter the course of the war.
-  
-  Looking ahead, the prevailing trend is one of deepening mistrust—both within Western alliances and between Russia and the West. The majority of analysts, including **Doctorow**, see little chance of a negotiated settlement in the near term. The likelihood of continued conflict into 2026 remains high, with persistent risks of escalation, especially around critical infrastructure. Confidence in European unity is wavering, and the erosion of civil liberties within the EU is likely to fuel further dissent. I guarantee that unless there is a significant policy shift, these tensions will persist and possibly intensify in the coming months.
+  Looking ahead, the majority view among analysts is that the war is set to become a protracted, frozen conflict, with Russia retaining control over key strategic and ethnically Russian territories. As **Doctorow** has previously predicted with high confidence, “I guarantee” that Ukraine will emerge devastated, and the conflict will not be resolved through a comprehensive peace deal in the near term. The prevailing trend points toward continued instability, with the risk of further escalation and enduring geopolitical divisions.
 articles:
+  - title: 'Russia-Ukraine War Update: Russia dismisses evidence calls over alleged
+      drone attack| NewsX World'
+    url: https://gilbertdoctorow.com/2025/12/30/russia-ukraine-war-update-russia-dismisses-evidence-calls-over-alleged-drone-attack-newsx-world/
+    text: The Ukrainian drone attack on President Putin’s countryside residence near
+      the town of Valdai, midway between Moscow and Petersburg, has been sharply criticized
+      by India, Pakistan and several other Global South countries notwithstanding Zelensky’s
+      claim that no attack took place. In the USA, there is active discussion of the
+      incident, with many media outlets casting doubt on the Moscow allegations, in
+      line with Zelensky. Given the long trail of false flag incidents staged by Kiev
+      with the help of the British going back to the first months of the war (the slaughter
+      of civilians in the Ukrainian town of Bucha by retreating Russian soldiers) and
+      the repeated absurd suggestion by Kiev that Russians were attacking nuclear power
+      plants that they themselves were operating or that they smashed dams to drown
+      their own population and deprive them of hydropower electricity, it would be very
+      strange to take seriously the vile propaganda now coming out of Kiev that is being
+      disseminated in the West by the usual suspects. This was the central issue of
+      this morning’s interview on NewsX World beginning in minute 4.
+    one_sentence_summary: The Ukrainian drone attack on President Putin's residence
+      has faced criticism from India, Pakistan, and other Global South countries, while
+      discussions in the U.S. media question the validity of Moscow's claims, reflecting
+      skepticism towards Ukraine's narrative amid a history of alleged false flag incidents.
+    paragraph_summary: The recent Ukrainian drone attack on President Putin's residence
+      near Valdai has drawn sharp criticism from India, Pakistan, and other Global South
+      nations, despite Ukrainian President Zelensky's denial of the incident. In the
+      U.S., media discussions are questioning the validity of Moscow's claims, aligning
+      with Zelensky's narrative. The article highlights a history of alleged false flag
+      operations by Ukraine, including the Bucha incident and claims of Russian attacks
+      on their own infrastructure, suggesting skepticism towards the current Ukrainian
+      propaganda being circulated in the West. This topic was a focal point in a recent
+      interview on NewsX World.
+    published: '2025-12-30T21:42:28+00:00'
+  - title: 'Russia-Ukraine War Update: Russia dismisses evidence calls over alleged
+      drone attack| NewsX World'
+    url: https://gilbertdoctorow.com/2025/12/30/russia-ukraine-war-update-russia-dismisses-evidence-calls-over-alleged-drone-attack-newsx-world/
+    text: The Ukrainian drone attack on President Putin’s countryside residence near
+      the town of Valdai, midway between Moscow and Petersburg, has been sharply criticized
+      by India, Pakistan and several other Global South countries notwithstanding Zelensky’s
+      claim that no attack took place. In the USA, there is active discussion of the
+      incident, with many media outlets casting doubt on the Moscow allegations, in
+      line with Zelensky. Given the long trail of false flag incidents staged by Kiev
+      with the help of the British going back to the first months of the war (the slaughter
+      of civilians in the Ukrainian town of Bucha by retreating Russian soldiers) and
+      the repeated absurd suggestion by Kiev that Russians were attacking nuclear power
+      plants that they themselves were operating or that they smashed dams to drown
+      their own population and deprive them of hydropower electricity, it would be very
+      strange to take seriously the vile propaganda now coming out of Kiev that is being
+      disseminated in the West by the usual suspects. This was the central issue of
+      this morning’s interview on NewsX World beginning in minute 4.
+    one_sentence_summary: The Ukrainian drone attack on President Putin's residence
+      has faced criticism from India, Pakistan, and other Global South countries, while
+      discussions in the U.S. media question the validity of Moscow's claims, reflecting
+      skepticism towards Ukraine's narrative amid a history of alleged false flag incidents.
+    paragraph_summary: The recent Ukrainian drone attack on President Putin's residence
+      near Valdai has drawn sharp criticism from India, Pakistan, and other Global South
+      nations, despite Ukrainian President Zelensky's denial of the incident. In the
+      U.S., media discussions are questioning the validity of Moscow's claims, aligning
+      with Zelensky's narrative. The article highlights a history of alleged false flag
+      operations by Ukraine, including the Bucha incident and claims of Russian attacks
+      on their own infrastructure, suggesting skepticism towards the current Ukrainian
+      propaganda being circulated in the West. This topic was a focal point in a recent
+      interview on NewsX World.
+    published: '2025-12-30T21:42:28+00:00'
+  - title: The relevance of the ‘Two Minutes to Midnight’ Doomsday Clock to the “Ninety
+      five percent agreed” settlement of the Russia-Ukraine War
+    url: https://gilbertdoctorow.com/2025/12/29/the-relevance-of-the-two-minutes-to-midnight-doomsday-clock-to-the-ninety-five-percent-agreed-settlement-of-the-russia-ukraine-war/
+    text: The media are seeking expert commentary on the statements by Trump and Zelensky
+      in Mar-a-Lago that the terms for a peace treaty are 95% complete. They are overlooking
+      the folk wisdom of ‘missed by an inch, missed by a mile’, meaning that being close
+      to agreement is never good enough. Either you have a deal or you don’t.   I believe
+      that there is no deal and cannot be a deal when neither Putin nor Zelensky has
+      reason to give ground and seek compromises on the fundamental issues of territory,
+      neutrality status and similar. The Doomsday Clock of nuclear physicists has been
+      stuck at ‘two minutes to midnight’ since 1953.  The deal on Ukraine may well be
+      stuck at 95% for just as long.
+    one_sentence_summary: The article argues that despite claims from Trump and Zelensky
+      that a peace treaty is nearly complete, the lack of willingness from both Putin
+      and Zelensky to compromise on key issues suggests that no actual deal will be
+      reached, similar to the enduring threat of nuclear conflict reflected in the unchanged
+      Doomsday Clock.
+    paragraph_summary: The media is focusing on the claims made by Trump and Zelensky
+      regarding a peace treaty being 95% complete, but this perspective overlooks the
+      reality that being close to an agreement does not equate to having one. The article
+      argues that a true deal is unlikely because neither Putin nor Zelensky has the
+      incentive to compromise on critical issues such as territory and neutrality. It
+      suggests that, similar to the Doomsday Clock, which has remained at 'two minutes
+      to midnight' since 1953, the potential agreement on Ukraine may remain perpetually
+      unresolved at 95%.
+    published: '2025-12-29T20:42:10+00:00'
+  - title: The relevance of the ‘Two Minutes to Midnight’ Doomsday Clock to the “Ninety
+      five percent agreed” settlement of the Russia-Ukraine War
+    url: https://gilbertdoctorow.com/2025/12/29/the-relevance-of-the-two-minutes-to-midnight-doomsday-clock-to-the-ninety-five-percent-agreed-settlement-of-the-russia-ukraine-war/
+    text: The media are seeking expert commentary on the statements by Trump and Zelensky
+      in Mar-a-Lago that the terms for a peace treaty are 95% complete. They are overlooking
+      the folk wisdom of ‘missed by an inch, missed by a mile’, meaning that being close
+      to agreement is never good enough. Either you have a deal or you don’t.   I believe
+      that there is no deal and cannot be a deal when neither Putin nor Zelensky has
+      reason to give ground and seek compromises on the fundamental issues of territory,
+      neutrality status and similar. The Doomsday Clock of nuclear physicists has been
+      stuck at ‘two minutes to midnight’ since 1953.  The deal on Ukraine may well be
+      stuck at 95% for just as long.
+    one_sentence_summary: The article argues that despite claims from Trump and Zelensky
+      that a peace treaty is nearly complete, the lack of willingness from both Putin
+      and Zelensky to compromise on key issues suggests that no actual deal will be
+      reached, similar to the enduring threat of nuclear conflict reflected in the unchanged
+      Doomsday Clock.
+    paragraph_summary: The media is focusing on the claims made by Trump and Zelensky
+      regarding a peace treaty being 95% complete, but this perspective overlooks the
+      reality that being close to an agreement does not equate to having one. The article
+      argues that a true deal is unlikely because neither Putin nor Zelensky has the
+      incentive to compromise on critical issues such as territory and neutrality. It
+      suggests that, similar to the Doomsday Clock, which has remained at 'two minutes
+      to midnight' since 1953, the potential agreement on Ukraine may remain perpetually
+      unresolved at 95%.
+    published: '2025-12-29T20:42:10+00:00'
+  - title: 'Trump Calls Putin Ahead of Key Meeting: Realistic or Pro-Russia? | WION'
+    url: https://gilbertdoctorow.com/2025/12/29/trump-calls-putin-ahead-of-key-meeting-realistic-or-pro-russia-wion/
+    text: 'In this “Counterpoint” program from India’s largest global English language
+      broadcaster in which I participated this morning, I was pleased to find precisely
+      the debating partner who is so elusive in the podcast world: worldly wise, civilized
+      and holding views on the subject at hand that may be 180 degrees at variance with
+      my own. The fellow panelist was Joachim Bitterlich. He is described by the WION
+      presenter as a former German ambassador to NATO, but I think it is more relevant
+      to the discussion that he served as European, Diplomatic and Security Advisor
+      to Helmut Kohl in the critically important period of 1988 and later. See his more
+      detailed profile at https://www.bruegel.org/people/joachim-bitterlich Too bad
+      that the conversation was just getting underway when it ended. It cried for a
+      continuation in some quiet club room, ensconced in leather armchairs and with
+      a whiskey in hand.  There would be no name-calling, no questions like the infamous
+      one I took from Former Chair of the EU Parliament’s Foreign Relations Committee
+      Elmar Brok (German – CDU): “How much did Putin pay you to say that?”'
+    one_sentence_summary: In a recent "Counterpoint" program, the author appreciated
+      engaging in a civil debate with Joachim Bitterlich, a former German ambassador
+      to NATO, highlighting the need for more such thoughtful discussions.
+    paragraph_summary: In a recent "Counterpoint" program on India's largest global
+      English language broadcaster, the author engaged in a stimulating debate with
+      Joachim Bitterlich, a former German ambassador to NATO and advisor to Helmut Kohl,
+      whose views starkly contrasted with their own. The discussion was marked by civility
+      and depth, highlighting the rarity of such constructive dialogue in today's polarized
+      environment. The author expressed a desire for the conversation to continue in
+      a more intimate setting, free from the hostility often found in public discourse,
+      and reminisced about the absence of accusatory questions that detract from meaningful
+      exchange.
+    published: '2025-12-29T16:57:29+00:00'
+  - title: 'Trump Calls Putin Ahead of Key Meeting: Realistic or Pro-Russia? | WION'
+    url: https://gilbertdoctorow.com/2025/12/29/trump-calls-putin-ahead-of-key-meeting-realistic-or-pro-russia-wion/
+    text: 'In this “Counterpoint” program from India’s largest global English language
+      broadcaster in which I participated this morning, I was pleased to find precisely
+      the debating partner who is so elusive in the podcast world: worldly wise, civilized
+      and holding views on the subject at hand that may be 180 degrees at variance with
+      my own. The fellow panelist was Joachim Bitterlich. He is described by the WION
+      presenter as a former German ambassador to NATO, but I think it is more relevant
+      to the discussion that he served as European, Diplomatic and Security Advisor
+      to Helmut Kohl in the critically important period of 1988 and later. See his more
+      detailed profile at https://www.bruegel.org/people/joachim-bitterlich Too bad
+      that the conversation was just getting underway when it ended. It cried for a
+      continuation in some quiet club room, ensconced in leather armchairs and with
+      a whiskey in hand.  There would be no name-calling, no questions like the infamous
+      one I took from Former Chair of the EU Parliament’s Foreign Relations Committee
+      Elmar Brok (German – CDU): “How much did Putin pay you to say that?”'
+    one_sentence_summary: In a recent "Counterpoint" program, the author appreciated
+      engaging in a civil debate with Joachim Bitterlich, a former German ambassador
+      to NATO, highlighting the need for more such thoughtful discussions.
+    paragraph_summary: In a recent "Counterpoint" program on India's largest global
+      English language broadcaster, the author engaged in a stimulating debate with
+      Joachim Bitterlich, a former German ambassador to NATO and advisor to Helmut Kohl,
+      whose views starkly contrasted with their own. The discussion was marked by civility
+      and depth, highlighting the rarity of such constructive dialogue in today's polarized
+      environment. The author expressed a desire for the conversation to continue in
+      a more intimate setting, free from the hostility often found in public discourse,
+      and reminisced about the absence of accusatory questions that detract from meaningful
+      exchange.
+    published: '2025-12-29T16:57:29+00:00'
+  - title: Zelenskyy – Trump Meet | World Report | NewsX World
+    url: https://gilbertdoctorow.com/2025/12/29/zelenskyy-trump-meet-world-report-newsx-world/
+    text: In this hourly news bulletin on the Indian broadcaster NewsX World yesterday
+      evening, I appear as from minute 4 and set out my latest projection of how the
+      Ukraine war will end in a frozen conflict after Russia has taken control of all
+      the strategic and ethnically Russian parts of the country that it wishes to hold,
+      leaving behind a wrecked rump state.
+    one_sentence_summary: In a NewsX World bulletin, I discussed my prediction that
+      the Ukraine war will conclude in a frozen conflict, with Russia controlling key
+      strategic and ethnically Russian areas, resulting in a devastated Ukraine.
+    paragraph_summary: In a recent appearance on NewsX World, I discussed my latest
+      projection regarding the outcome of the Ukraine war, suggesting it will culminate
+      in a frozen conflict. I believe Russia will secure control over all strategically
+      significant and ethnically Russian regions of Ukraine that it intends to occupy,
+      ultimately resulting in a devastated, diminished Ukrainian state. My analysis
+      begins at the four-minute mark of the broadcast.
+    published: '2025-12-29T07:09:33+00:00'
+  - title: Zelenskyy – Trump Meet | World Report | NewsX World
+    url: https://gilbertdoctorow.com/2025/12/29/zelenskyy-trump-meet-world-report-newsx-world/
+    text: In this hourly news bulletin on the Indian broadcaster NewsX World yesterday
+      evening, I appear as from minute 4 and set out my latest projection of how the
+      Ukraine war will end in a frozen conflict after Russia has taken control of all
+      the strategic and ethnically Russian parts of the country that it wishes to hold,
+      leaving behind a wrecked rump state.
+    one_sentence_summary: In a NewsX World bulletin, I discussed my prediction that
+      the Ukraine war will conclude in a frozen conflict, with Russia controlling key
+      strategic and ethnically Russian areas, resulting in a devastated Ukraine.
+    paragraph_summary: In a recent appearance on NewsX World, I discussed my latest
+      projection regarding the outcome of the Ukraine war, suggesting it will culminate
+      in a frozen conflict. I believe Russia will secure control over all strategically
+      significant and ethnically Russian regions of Ukraine that it intends to occupy,
+      ultimately resulting in a devastated, diminished Ukrainian state. My analysis
+      begins at the four-minute mark of the broadcast.
+    published: '2025-12-29T07:09:33+00:00'
+  - title: 'WorldX News interviews: a skillful bearer of information for their global
+      audience'
+    url: https://gilbertdoctorow.com/2025/12/28/worldx-news-interviews-a-skillful-bearer-of-information-for-their-global-audience/
+    text: 'Lavrov Warns Europe: Russia accuses European Union of escalating Ukraine
+      conflict| NewsX World This brief interview was meant to be in anticipation of
+      Zelensky’s visit to Miami today for talks with Donald Trump. The full hourly news
+      bulletin from which this interview has been extracted above, may be seen here:
+      I use this opportunity to note that my virtually daily conversations with the
+      Indian global broadcaster NewsX World are not the only expert opinion of the Russia-Ukraine
+      war that this broadcaster puts on air. Youtube this morning sent me the link to
+      a NewsX World interview with another commentator on the war, this time an Indian
+      professor based in Delhi, who delivered an analysis that is 180 degrees at variance
+      with what I say and was wholly backing the Ukrainians as the peace-seekers versus
+      the warlike Russians who only know how to bomb, bomb and bomb. In previous months,
+      at the start of my ‘collaboration’ with NewsX World, they tried to arrange panel
+      discussions but when views of the panelists are so very contradictory, the debate
+      easily turns ugly, as indeed happened.   Hence the separate interviews which do
+      serve their audience well, I believe. ©Gilbert Doctorow, 2025'
+    one_sentence_summary: Russian Foreign Minister Lavrov has accused the European Union
+      of escalating the conflict in Ukraine, coinciding with Ukrainian President Zelensky's
+      visit to Miami for talks with Donald Trump.
+    paragraph_summary: In a recent interview, Russian Foreign Minister Sergey Lavrov
+      accused the European Union of escalating the conflict in Ukraine, coinciding with
+      Ukrainian President Volodymyr Zelensky's visit to Miami for talks with Donald
+      Trump. The discussion highlighted differing perspectives on the war, as Lavrov's
+      views contrasted sharply with those of an Indian professor who supports Ukraine's
+      position as peace-seekers against aggressive Russian actions. The broadcaster
+      NewsX World has opted for separate interviews rather than panel discussions to
+      avoid conflicts arising from the starkly opposing opinions on the Russia-Ukraine
+      war, reflecting the complexity and divisiveness of the issue.
+    published: '2025-12-28T09:29:37+00:00'
+  - title: 'WorldX News interviews: a skillful bearer of information for their global
+      audience'
+    url: https://gilbertdoctorow.com/2025/12/28/worldx-news-interviews-a-skillful-bearer-of-information-for-their-global-audience/
+    text: 'Lavrov Warns Europe: Russia accuses European Union of escalating Ukraine
+      conflict| NewsX World This brief interview was meant to be in anticipation of
+      Zelensky’s visit to Miami today for talks with Donald Trump. The full hourly news
+      bulletin from which this interview has been extracted above, may be seen here:
+      I use this opportunity to note that my virtually daily conversations with the
+      Indian global broadcaster NewsX World are not the only expert opinion of the Russia-Ukraine
+      war that this broadcaster puts on air. Youtube this morning sent me the link to
+      a NewsX World interview with another commentator on the war, this time an Indian
+      professor based in Delhi, who delivered an analysis that is 180 degrees at variance
+      with what I say and was wholly backing the Ukrainians as the peace-seekers versus
+      the warlike Russians who only know how to bomb, bomb and bomb. In previous months,
+      at the start of my ‘collaboration’ with NewsX World, they tried to arrange panel
+      discussions but when views of the panelists are so very contradictory, the debate
+      easily turns ugly, as indeed happened.   Hence the separate interviews which do
+      serve their audience well, I believe. ©Gilbert Doctorow, 2025'
+    one_sentence_summary: Russian Foreign Minister Lavrov has accused the European Union
+      of escalating the conflict in Ukraine, coinciding with Ukrainian President Zelensky's
+      visit to Miami for talks with Donald Trump.
+    paragraph_summary: In a recent interview, Russian Foreign Minister Sergey Lavrov
+      accused the European Union of escalating the conflict in Ukraine, coinciding with
+      Ukrainian President Volodymyr Zelensky's visit to Miami for talks with Donald
+      Trump. The discussion highlighted differing perspectives on the war, as Lavrov's
+      views contrasted sharply with those of an Indian professor who supports Ukraine's
+      position as peace-seekers against aggressive Russian actions. The broadcaster
+      NewsX World has opted for separate interviews rather than panel discussions to
+      avoid conflicts arising from the starkly opposing opinions on the Russia-Ukraine
+      war, reflecting the complexity and divisiveness of the issue.
+    published: '2025-12-28T09:29:37+00:00'
+  - title: Russia – Ukraine War  – Ukraine Corruption | World Report | NewsX World
+    url: https://gilbertdoctorow.com/2025/12/27/russia-ukraine-war-ukraine-corruption-world-report-newsx-world/
+    text: This afternoon’s interview with NewsX World dealt with two topics. First (starting
+      at minute 3.40) was the upcoming visit of Zelensky to Miami for a meeting with
+      Donald Trump and how on the way  Zelensky has stopped off in Canada for talks
+      with Prime Minister Mark Carney. While in Canada, he will hold a virtual conference
+      with his key supporters in Europe to ‘align’ their position on the peace plan
+      that Zelensky is bringing to the States.  The second segment (starting at minute
+      9.45) dealt with the latest corruption scandals in Kiev, where investigators of
+      the National Anti-Corruption Bureau (NABU, in Ukrainian) today descended on the
+      parliament (Verkhovna Rada) to make arrests, said to include two close associates
+      of Zelensky.  News of NABU’s planned visit to the Rada resulted in all but 30
+      deputies staying away. There also were scuffles outside the Rada building between
+      NABU personnel and security people.  As I say in this interview, NABU, with encouragement
+      from the Trump administration is now circling Zelensky, picking off his associates
+      as a preliminary to ‘nailing’ the President himself. Regrettably there were technical
+      problems with our communications in the first part of the interview which are
+      not apparent in the video, but they cleared away for the second part.
+    one_sentence_summary: The interview with NewsX World covered Ukrainian President
+      Zelensky's upcoming visit to Miami for talks with Donald Trump after meetings
+      in Canada, as well as ongoing corruption investigations in Kiev that led to arrests
+      and significant absenteeism among parliament members.
+    paragraph_summary: 'In an interview with NewsX World, the discussion focused on
+      two main topics: Ukrainian President Volodymyr Zelensky''s upcoming visit to Miami
+      for a meeting with Donald Trump, which includes a stop in Canada for talks with
+      Prime Minister Mark Carney and a virtual conference with European supporters to
+      align on a peace plan, and the recent corruption scandals in Kiev. The National
+      Anti-Corruption Bureau (NABU) launched an operation at the Ukrainian parliament,
+      resulting in arrests of Zelensky''s close associates, prompting most deputies
+      to avoid the session and leading to confrontations between NABU agents and security
+      personnel outside the parliament. The interview suggested that NABU, with support
+      from the Trump administration, is intensifying its scrutiny of Zelensky and his
+      administration.'
+    published: '2025-12-27T18:41:40+00:00'
+  - title: Russia – Ukraine War  – Ukraine Corruption | World Report | NewsX World
+    url: https://gilbertdoctorow.com/2025/12/27/russia-ukraine-war-ukraine-corruption-world-report-newsx-world/
+    text: This afternoon’s interview with NewsX World dealt with two topics. First (starting
+      at minute 3.40) was the upcoming visit of Zelensky to Miami for a meeting with
+      Donald Trump and how on the way  Zelensky has stopped off in Canada for talks
+      with Prime Minister Mark Carney. While in Canada, he will hold a virtual conference
+      with his key supporters in Europe to ‘align’ their position on the peace plan
+      that Zelensky is bringing to the States.  The second segment (starting at minute
+      9.45) dealt with the latest corruption scandals in Kiev, where investigators of
+      the National Anti-Corruption Bureau (NABU, in Ukrainian) today descended on the
+      parliament (Verkhovna Rada) to make arrests, said to include two close associates
+      of Zelensky.  News of NABU’s planned visit to the Rada resulted in all but 30
+      deputies staying away. There also were scuffles outside the Rada building between
+      NABU personnel and security people.  As I say in this interview, NABU, with encouragement
+      from the Trump administration is now circling Zelensky, picking off his associates
+      as a preliminary to ‘nailing’ the President himself. Regrettably there were technical
+      problems with our communications in the first part of the interview which are
+      not apparent in the video, but they cleared away for the second part.
+    one_sentence_summary: The interview with NewsX World covered Ukrainian President
+      Zelensky's upcoming visit to Miami for talks with Donald Trump after meetings
+      in Canada, as well as ongoing corruption investigations in Kiev that led to arrests
+      and significant absenteeism among parliament members.
+    paragraph_summary: 'In an interview with NewsX World, the discussion focused on
+      two main topics: Ukrainian President Volodymyr Zelensky''s upcoming visit to Miami
+      for a meeting with Donald Trump, which includes a stop in Canada for talks with
+      Prime Minister Mark Carney and a virtual conference with European supporters to
+      align on a peace plan, and the recent corruption scandals in Kiev. The National
+      Anti-Corruption Bureau (NABU) launched an operation at the Ukrainian parliament,
+      resulting in arrests of Zelensky''s close associates, prompting most deputies
+      to avoid the session and leading to confrontations between NABU agents and security
+      personnel outside the parliament. The interview suggested that NABU, with support
+      from the Trump administration, is intensifying its scrutiny of Zelensky and his
+      administration.'
+    published: '2025-12-27T18:41:40+00:00'
+  - title: Kremlin Reviews Ukraine Peace Documents As Putin Sends Trump Christmas Greetings
+      | NewsX World
+    url: https://gilbertdoctorow.com/2025/12/25/kremlin-reviews-ukraine-peace-documents-as-putin-sends-trump-christmas-greetings-newsx-world/
+    text: Short and bitter-sweet, my commentary to India’s NewsX World late in the afternoon
+      today on the present state of peace negotiations and on President Putin’s Christmas
+      greetings to his American counterpart complement the points I raised earlier in
+      discussion with Iran’s Press TV:  these talks are going nowhere because Trump
+      does not enjoy backing in the American political establishment for his present
+      diplomatic efforts with respect to the Russia-Ukraine war.  I come on in minute
+      3.40 and finish three minutes later. Nonetheless, viewers may find the Indian
+      broadcaster’s overall hourly news bulletin, of which my interview is a part to
+      be interesting on its own.
+    one_sentence_summary: The article discusses the author's commentary on the stalled
+      peace negotiations regarding the Russia-Ukraine war, highlighting that President
+      Trump's lack of support from the American political establishment is hindering
+      diplomatic efforts, while also noting the broader interest of the Indian news
+      bulletin featuring the interview.
+    paragraph_summary: In a recent commentary for India’s NewsX World, the speaker discussed
+      the stagnation of peace negotiations regarding the Russia-Ukraine war, emphasizing
+      that President Trump's diplomatic efforts lack support from the American political
+      establishment. This sentiment was echoed in a prior discussion with Iran’s Press
+      TV. The speaker's segment, which lasts about six minutes, highlights the challenges
+      facing current negotiations and includes insights on President Putin's Christmas
+      greetings to President Trump. Viewers are encouraged to watch the broader news
+      bulletin for additional context and information.
+    published: '2025-12-25T19:58:31+00:00'
+  - title: Kremlin Reviews Ukraine Peace Documents As Putin Sends Trump Christmas Greetings
+      | NewsX World
+    url: https://gilbertdoctorow.com/2025/12/25/kremlin-reviews-ukraine-peace-documents-as-putin-sends-trump-christmas-greetings-newsx-world/
+    text: Short and bitter-sweet, my commentary to India’s NewsX World late in the afternoon
+      today on the present state of peace negotiations and on President Putin’s Christmas
+      greetings to his American counterpart complement the points I raised earlier in
+      discussion with Iran’s Press TV:  these talks are going nowhere because Trump
+      does not enjoy backing in the American political establishment for his present
+      diplomatic efforts with respect to the Russia-Ukraine war.  I come on in minute
+      3.40 and finish three minutes later. Nonetheless, viewers may find the Indian
+      broadcaster’s overall hourly news bulletin, of which my interview is a part to
+      be interesting on its own.
+    one_sentence_summary: The article discusses the author's commentary on the stalled
+      peace negotiations regarding the Russia-Ukraine war, highlighting that President
+      Trump's lack of support from the American political establishment is hindering
+      diplomatic efforts, while also noting the broader interest of the Indian news
+      bulletin featuring the interview.
+    paragraph_summary: In a recent commentary for India’s NewsX World, the speaker discussed
+      the stagnation of peace negotiations regarding the Russia-Ukraine war, emphasizing
+      that President Trump's diplomatic efforts lack support from the American political
+      establishment. This sentiment was echoed in a prior discussion with Iran’s Press
+      TV. The speaker's segment, which lasts about six minutes, highlights the challenges
+      facing current negotiations and includes insights on President Putin's Christmas
+      greetings to President Trump. Viewers are encouraged to watch the broader news
+      bulletin for additional context and information.
+    published: '2025-12-25T19:58:31+00:00'
+  - title: 'Press TV (Iran): Ukraine signals readiness to scale back Eastern forces'
+    url: https://gilbertdoctorow.com/2025/12/25/press-tv-iran-ukraine-signals-readiness-to-scale-back-eastern-forces/
+    text: In this interview recorded in the morning, we discussed Volodymyr Zelensky’s
+      latest proposal that both sides create buffer zones on their sides of the present
+      battle lines, meaning ‘demilitarization’ of the part of Donetsk still in Ukrainian
+      hands and a similar ‘demilitarization’ of as many kilometers to the east of the
+      battle lines by Russia. As I remark, this is purely a propaganda initiative by
+      Kiev. They know perfectly well that the proposal is completely unacceptable to
+      the Russians for several reasons that are easy to see.  First, this buffer zone
+      on the Ukrainian side would remain under Ukrainian administration, meaning that
+      the Russian speaking population would remain subject to the brutal repression
+      which touched off their resistance to the newly installed ultra-nationalist government
+      in Kiev in February 2014 and continued for eight years, prompting the Russians
+      to launch their Special Military Operation. Zelensky’s ‘demilitarization’ would
+      mean removal of heavy military equipment.  That sounds good, but in fact the war
+      has evolved into a drone war and it is easy to envision that the Ukrainians would
+      continue to launch drones against Russian positions to the East, while Russian
+      responses would be condemned as violation of the peace justifying the entry of
+      European “peacekeepers.” If we look further afield, the Zelensky proposal does
+      not address the root causes of the war that the Russians insist must be resolved
+      if there is to be a durable peace. This means the neutrality of Ukraine, the ensured
+      absence of any foreign troops or military installations. Though the Russians are
+      not saying this aloud, they seek regime change in Kiev as part of any settlement.
+      The extreme nationalists who have controlled the Kiev government since 2014 must
+      be removed. For all of the above reasons, the latest Zelensky proposal is dead
+      on arrival in Moscow, even if the Kremlin is saying now politely that they will
+      study it closely. https://www.urmedium.net/c/presstv/135508 ©Gilbert Doctorow,
+      2025
+    one_sentence_summary: In an interview, it was discussed that Volodymyr Zelensky's
+      proposal for creating buffer zones along the battle lines is viewed as a propaganda
+      tactic by Ukraine, as it is unlikely to be accepted by Russia due to concerns
+      over the treatment of the Russian-speaking population in Ukraine and the implications
+      of demilitarization.
+    paragraph_summary: In a recent interview, the discussion centered around Ukrainian
+      President Volodymyr Zelensky's proposal for creating buffer zones along the current
+      battle lines in the ongoing conflict, which would involve demilitarizing parts
+      of Donetsk still held by Ukraine and areas to the east controlled by Russia. The
+      proposal is viewed as a propaganda tactic by Ukraine, as it is deemed unacceptable
+      to Russia for several reasons, including the potential continued repression of
+      the Russian-speaking population in Ukraine and the likelihood that Ukraine would
+      maintain drone attacks against Russian positions, undermining the peace efforts.
+      Furthermore, the proposal fails to address the fundamental issues of the war,
+      such as Ukraine's neutrality and the removal of foreign military presence, which
+      Russia insists must be resolved for a lasting peace. Consequently, the proposal
+      is considered unlikely to gain traction in Moscow, despite the Kremlin's polite
+      acknowledgment of it.
+    published: '2025-12-25T19:39:45+00:00'
+  - title: 'Press TV (Iran): Ukraine signals readiness to scale back Eastern forces'
+    url: https://gilbertdoctorow.com/2025/12/25/press-tv-iran-ukraine-signals-readiness-to-scale-back-eastern-forces/
+    text: In this interview recorded in the morning, we discussed Volodymyr Zelensky’s
+      latest proposal that both sides create buffer zones on their sides of the present
+      battle lines, meaning ‘demilitarization’ of the part of Donetsk still in Ukrainian
+      hands and a similar ‘demilitarization’ of as many kilometers to the east of the
+      battle lines by Russia. As I remark, this is purely a propaganda initiative by
+      Kiev. They know perfectly well that the proposal is completely unacceptable to
+      the Russians for several reasons that are easy to see.  First, this buffer zone
+      on the Ukrainian side would remain under Ukrainian administration, meaning that
+      the Russian speaking population would remain subject to the brutal repression
+      which touched off their resistance to the newly installed ultra-nationalist government
+      in Kiev in February 2014 and continued for eight years, prompting the Russians
+      to launch their Special Military Operation. Zelensky’s ‘demilitarization’ would
+      mean removal of heavy military equipment.  That sounds good, but in fact the war
+      has evolved into a drone war and it is easy to envision that the Ukrainians would
+      continue to launch drones against Russian positions to the East, while Russian
+      responses would be condemned as violation of the peace justifying the entry of
+      European “peacekeepers.” If we look further afield, the Zelensky proposal does
+      not address the root causes of the war that the Russians insist must be resolved
+      if there is to be a durable peace. This means the neutrality of Ukraine, the ensured
+      absence of any foreign troops or military installations. Though the Russians are
+      not saying this aloud, they seek regime change in Kiev as part of any settlement.
+      The extreme nationalists who have controlled the Kiev government since 2014 must
+      be removed. For all of the above reasons, the latest Zelensky proposal is dead
+      on arrival in Moscow, even if the Kremlin is saying now politely that they will
+      study it closely. https://www.urmedium.net/c/presstv/135508 ©Gilbert Doctorow,
+      2025
+    one_sentence_summary: In an interview, it was discussed that Volodymyr Zelensky's
+      proposal for creating buffer zones along the battle lines is viewed as a propaganda
+      tactic by Ukraine, as it is unlikely to be accepted by Russia due to concerns
+      over the treatment of the Russian-speaking population in Ukraine and the implications
+      of demilitarization.
+    paragraph_summary: In a recent interview, the discussion centered around Ukrainian
+      President Volodymyr Zelensky's proposal for creating buffer zones along the current
+      battle lines in the ongoing conflict, which would involve demilitarizing parts
+      of Donetsk still held by Ukraine and areas to the east controlled by Russia. The
+      proposal is viewed as a propaganda tactic by Ukraine, as it is deemed unacceptable
+      to Russia for several reasons, including the potential continued repression of
+      the Russian-speaking population in Ukraine and the likelihood that Ukraine would
+      maintain drone attacks against Russian positions, undermining the peace efforts.
+      Furthermore, the proposal fails to address the fundamental issues of the war,
+      such as Ukraine's neutrality and the removal of foreign military presence, which
+      Russia insists must be resolved for a lasting peace. Consequently, the proposal
+      is considered unlikely to gain traction in Moscow, despite the Kremlin's polite
+      acknowledgment of it.
+    published: '2025-12-25T19:39:45+00:00'
+  - title: '‘Judging Freedom’ edition of 24 December: The Totalitarian EU'
+    url: https://gilbertdoctorow.com/2025/12/24/judging-freedom-edition-of-24-december-the-totalitarian-eu/
+    text: '‘Judging Freedom’ edition of 24 December:  The Totalitarian EU In today’s
+      conversation with Judge Andrew Napolitano, we discuss the terrible sanctions recently
+      imposed by the European Council on retired Swiss military intelligence expert
+      Jacques Baud for what is said to be his pro-Russian disinformation (an outrageous
+      defamation) and the precedents for such extrajudicial violations of citizens’
+      rights to free speech, to property rights and more. As I say here this goes straight
+      back to the seizure of assets of Russian oligarchs early in 2024 after the start
+      of the Special Military Operations on charges of their ‘being friends of Putin’
+      and other nonsense that would never be accepted in a court of law. The problem
+      may be said to go still further back to the breach of international law when the
+      U.S. seized embassy and consular properties of the Russian Federation during the
+      Obama administration in December 2016 to hand a poisoned chalice to the incoming
+      Team Trump. My point is that rule of law works for all of us only when it is defended
+      against each and every violator.  Failure to bring legal action and/or high-level
+      lobbying against violators can only lead to escalation and spread of abuses over
+      time. That is how we have reached a situation where none of us in the Alternative
+      Media today can feel safe in the European Union, although as I say here, it is
+      highly unlikely that any American will be put on EU sanctions lists for fear of
+      enraging Trump and putting in jeopardy America’s nuclear umbrella and NATO support
+      for Europe. But if you are a Swiss or some other third country national: watch
+      out! We also delve into the deeper problem that makes cases like Baud’s so intractable:
+      the absence of any system of checks and balances, of division of powers whereby
+      an independent judiciary could review cases of abuse like this and compel the
+      offending executive to back down.  This fundamental problem must be put at the
+      door of the Left-leaning highly intellectual caviar socialists who played a very
+      important role in writing the foundation documents of the EU, and who assumed
+      that their successors would be equally well-intentioned and tolerant of others’
+      views.   Well read, they may have been but they did not pay due attention to the
+      19 th century political scientists who reasoned that men can be overbearing, oppressive
+      and must be held in check by limitations on the power written into the constitution.
+      In this regard, it should come as no surprise that the EU institutions today lend
+      themselves to totalitarianism. Elon Musk is right: the EU must be deconstructed
+      and rebuilt in a way that better protects democracy and specifically protects
+      all human rights of its citizens, starting with freedom of expression, which is
+      now being trampled upon.'
+    one_sentence_summary: In a conversation with Judge Andrew Napolitano, the article
+      critiques the European Council's sanctions against Jacques Baud for alleged pro-Russian
+      disinformation, arguing that such actions represent a troubling precedent for
+      violations of free speech and property rights, linking them to broader issues
+      of extrajudicial actions and breaches of international law.
+    paragraph_summary: In the December 24 edition of 'Judging Freedom,' Judge Andrew
+      Napolitano discusses the European Council's sanctions against Jacques Baud, a
+      retired Swiss military intelligence expert, for alleged pro-Russian disinformation,
+      which he argues is a violation of free speech and property rights. The conversation
+      highlights a troubling trend of extrajudicial actions by the EU, tracing back
+      to the 2024 asset seizures of Russian oligarchs and the U.S. seizure of Russian
+      diplomatic properties in 2016. Napolitano emphasizes the importance of defending
+      the rule of law against such violations, warning that failure to do so could lead
+      to further abuses, particularly affecting individuals from third countries like
+      Switzerland. He also points out the lack of checks and balances in the EU, which
+      prevents independent judicial review of such cases, ultimately contributing to
+      a climate of fear within the Alternative Media in Europe.
+    published: '2025-12-24T14:49:52+00:00'
+  - title: '‘Judging Freedom’ edition of 24 December: The Totalitarian EU'
+    url: https://gilbertdoctorow.com/2025/12/24/judging-freedom-edition-of-24-december-the-totalitarian-eu/
+    text: '‘Judging Freedom’ edition of 24 December:  The Totalitarian EU In today’s
+      conversation with Judge Andrew Napolitano, we discuss the terrible sanctions recently
+      imposed by the European Council on retired Swiss military intelligence expert
+      Jacques Baud for what is said to be his pro-Russian disinformation (an outrageous
+      defamation) and the precedents for such extrajudicial violations of citizens’
+      rights to free speech, to property rights and more. As I say here this goes straight
+      back to the seizure of assets of Russian oligarchs early in 2024 after the start
+      of the Special Military Operations on charges of their ‘being friends of Putin’
+      and other nonsense that would never be accepted in a court of law. The problem
+      may be said to go still further back to the breach of international law when the
+      U.S. seized embassy and consular properties of the Russian Federation during the
+      Obama administration in December 2016 to hand a poisoned chalice to the incoming
+      Team Trump. My point is that rule of law works for all of us only when it is defended
+      against each and every violator.  Failure to bring legal action and/or high-level
+      lobbying against violators can only lead to escalation and spread of abuses over
+      time. That is how we have reached a situation where none of us in the Alternative
+      Media today can feel safe in the European Union, although as I say here, it is
+      highly unlikely that any American will be put on EU sanctions lists for fear of
+      enraging Trump and putting in jeopardy America’s nuclear umbrella and NATO support
+      for Europe. But if you are a Swiss or some other third country national: watch
+      out! We also delve into the deeper problem that makes cases like Baud’s so intractable:
+      the absence of any system of checks and balances, of division of powers whereby
+      an independent judiciary could review cases of abuse like this and compel the
+      offending executive to back down.  This fundamental problem must be put at the
+      door of the Left-leaning highly intellectual caviar socialists who played a very
+      important role in writing the foundation documents of the EU, and who assumed
+      that their successors would be equally well-intentioned and tolerant of others’
+      views.   Well read, they may have been but they did not pay due attention to the
+      19 th century political scientists who reasoned that men can be overbearing, oppressive
+      and must be held in check by limitations on the power written into the constitution.
+      In this regard, it should come as no surprise that the EU institutions today lend
+      themselves to totalitarianism. Elon Musk is right: the EU must be deconstructed
+      and rebuilt in a way that better protects democracy and specifically protects
+      all human rights of its citizens, starting with freedom of expression, which is
+      now being trampled upon.'
+    one_sentence_summary: In a conversation with Judge Andrew Napolitano, the article
+      critiques the European Council's sanctions against Jacques Baud for alleged pro-Russian
+      disinformation, arguing that such actions represent a troubling precedent for
+      violations of free speech and property rights, linking them to broader issues
+      of extrajudicial actions and breaches of international law.
+    paragraph_summary: In the December 24 edition of 'Judging Freedom,' Judge Andrew
+      Napolitano discusses the European Council's sanctions against Jacques Baud, a
+      retired Swiss military intelligence expert, for alleged pro-Russian disinformation,
+      which he argues is a violation of free speech and property rights. The conversation
+      highlights a troubling trend of extrajudicial actions by the EU, tracing back
+      to the 2024 asset seizures of Russian oligarchs and the U.S. seizure of Russian
+      diplomatic properties in 2016. Napolitano emphasizes the importance of defending
+      the rule of law against such violations, warning that failure to do so could lead
+      to further abuses, particularly affecting individuals from third countries like
+      Switzerland. He also points out the lack of checks and balances in the EU, which
+      prevents independent judicial review of such cases, ultimately contributing to
+      a climate of fear within the Alternative Media in Europe.
+    published: '2025-12-24T14:49:52+00:00'
   - title: Latest interview in NewsX World (India) hourly bulletin at 16.30 CET
     url: https://gilbertdoctorow.com/2025/12/23/latest-interview-in-newsx-world-india-hourly-bulletin-at-16-30-cet/
     text: https://www.youtube.com/watch?v=0YMu_yaDFXg My appearance comes at minute

@@ -8,17 +8,2102 @@ websites:
   - https://michael-hudson.com/
   - https://geopoliticaleconomy.com/author/michael-hudson/
 summary: |
-  Europe’s economic and geopolitical trajectory remains under intense scrutiny as the fallout from its alignment with U.S. foreign policy deepens. The most recent discussions, as analyzed by **Michael Hudson**, underscore a growing consensus among independent analysts that the continent faces mounting internal and external pressures, with fragmentation and economic stagnation now looming as real risks.
+  As 2025 draws to a close, global geopolitics remains defined by intensifying U.S.-China rivalry, economic instability in Europe, and shifting political dynamics within the United States. The most recent analyses highlight several key developments.
   
-  The December 4 roundtable, featuring **Nima Alkhorchid**, **Richard Wolf**, and **Michael Hudson**, highlighted that Europe’s continued adherence to U.S.-led sanctions—particularly the freezing of Russian assets—has triggered tangible economic blowback. According to **Hudson**, “Europe’s economy is being sacrificed for U.S. strategic aims,” with energy costs, industrial competitiveness, and political cohesion all deteriorating. The analysts argue that unless Europe fundamentally rethinks its geopolitical strategy, further fragmentation within the EU is “quite likely.”
+  The United States’ newly formalized national security strategy, which now explicitly identifies China as its primary adversary, is raising alarms about the broader risks this posture creates for global stability. **Michael Hudson** notes that Washington’s approach is increasingly predicated on “controlling other nations for its own security,” a stance that, according to the majority of analysts, is likely to provoke further international resistance and fragmentation. This strategy, discussed in a December 11 podcast with **Nima Alkhorshid** and **Richard Wolff**, marks a significant escalation in the U.S. effort to maintain global dominance, particularly through economic and technological containment.
   
-  Meanwhile, the ongoing reduction of the U.S.-proposed Ukraine ceasefire plan—from 28 to 22 points—signals a lack of unified vision among Western stakeholders. **Hudson** notes that the plan’s dilution, following high-level meetings involving Marco Rubio and European representatives, reflects “growing divergence between U.S. and European priorities.” This divergence is expected to complicate negotiations and prolong uncertainty in Eastern Europe.
+  Domestically, the recent New York mayoral election has sent shockwaves through the U.S. political establishment. The victory of Zohran Mamdani, a Muslim socialist immigrant, over heavily funded opposition is being interpreted as a major blow to traditional party machines. **Michael Hudson** argues that this outcome “highlights the declining power of donor-driven politics” and signals a potential realignment within the Democratic Party. The consensus among analysts is that such grassroots victories could inspire similar movements in other major cities, with a high chance of increased polarization and internal party struggles in the coming year.
   
-  In the broader global context, the repercussions of Western asset seizures continue to reverberate. As **Hudson** previously observed, the EU’s move to freeze Russian assets has undermined global confidence in the Western financial system. This has prompted a marked shift by non-Western states toward gold and alternative reserves, a trend that is “most definitely accelerating” and could reshape the future of global finance.
+  Meanwhile, Europe continues to grapple with the fallout from its alignment with U.S. foreign policy, particularly regarding the freezing of Russian assets and participation in the tech war against China. **Michael Hudson** warns that these policies are contributing to Europe’s economic decline and increasing its vulnerability to supply chain disruptions, especially in critical sectors like automotive semiconductors. There is a high chance, according to Hudson, that unless Europe rethinks its geopolitical strategy, it will face further economic fragmentation and diminished global influence.
   
-  **Trends and Predictions:**  
-  There is a high chance that Europe’s economic and political challenges will intensify if current policies persist. The fragmentation of the EU, while not guaranteed, is now a credible scenario. The weakening of Western financial credibility is most definitely underway, with alternative reserve strategies gaining momentum among non-aligned states. In the near term, expect further policy debates within Europe and continued uncertainty over the Ukraine ceasefire process, with no immediate resolution in sight.
+  In summary, the dominant trends point to a world order in flux: the U.S.-China confrontation is set to deepen, European economies remain at risk due to external pressures, and American domestic politics are entering a period of heightened volatility. I guarantee that these dynamics will continue to shape global affairs into 2026, with a high likelihood of new alliances and further realignment across both the Atlantic and Pacific spheres.
 articles:
+  - title: How U.S. Security Became a Global Risk
+    url: https://michael-hudson.com/2025/12/how-u-s-security-became-a-global-risk/
+    text: '⁣NIMA ALKHORSHID: Hi, everybody. Today is Thursday, December 11th, 2025,
+      and our dear friends, Richard Wolff and Michael Hudson, are here with us. Welcome
+      back, Richard and Michael. ⁣MICHAEL HUDSON: Good to be back. ⁣RICHARD WOLFF: Good
+      to be here. ⁣NIMA ALKHORSHID: Please subscribe and hit the like button and follow
+      Richard and Michael. You see their names on the picture, you see democracyatwork.info.
+      You can go to the website or to the YouTube channel. Michael Hudson is at michael-hudson.com.
+      You can go there and find the transcripts of these interviews that we’re doing
+      here on this podcast and a lot of other articles that Michael usually publishes
+      on his website. Let me start, Michael, with you and with the new national security
+      strategy of the United States. The new doctrine indicates or targets China as
+      the main enemy of the United States. Here is the question. If the United States’
+      security depends on controlling other nations’ environments, can the U.S. ever
+      feel secure in a world where rising powers insist on sovereignty, Michael? ⁣MICHAEL
+      HUDSON: Well, that’s exactly the problem, Nima. For the United States, security
+      means the ability to control the whole rest of the world, the environment, other
+      countries. And to the extent that they have sovereignty of their own to act independently,
+      the United States foreign policy feels insecure. The problem is that when it solves
+      this insecurity by surrounding Asia and the whole rest of the world with 800 military
+      bases throughout the world, well, this threatens other countries’ security. So
+      there’s a basic asymmetry built into the whole concept of U.S. security to begin
+      with.. That’s the point that Vladimir Putin has spent almost a year now trying
+      to explain to Donald Trump’s team. He says security should be for all countries
+      mutually, and that NATO’s expansion into Ukraine or any of the other regions surrounding
+      Russia are a threat to its security. And the idea is, you can’t make America’s
+      insecurity mean the actual military insecurity of other countries. The single
+      factor causing all of this economic and military insecurity is China. Ever since
+      the Bandung Conference of non-aligned countries in 1955, they sought to break
+      free from the legacy of colonialism and financial imperialism and their trade
+      deficits and control of their development policy by the World Bank and the International
+      Monetary Fund, which were serving U.S. interests. Well, the same situation existed
+      in the 1970s with an attempt to create a new international economic order. The
+      problem is that these countries could complain, but they didn’t really have an
+      alternative to their dependency on U.S. trade, U.S. investment, and the whole
+      financial system of the world that was controlled by the United States in its
+      own self-interest, the Treasury Bill standard, the way in which foreign central
+      banks held their reserves. The last few decades have seen China make for the first
+      time such great progress toward its own self-sufficiency through its policy of
+      industrial socialism with Chinese characteristics and its increasing trade and
+      investment linkages with the rest of Asia – headed by trade with Russia and Central
+      Asia as part of the Belt and Road Initiative – that for the first time, the rest
+      of the world has an ability to be mutually interdependent among themselves and
+      not really dependent on the U.S. market to the extent that they’re able to break
+      away, to de-dollarize their economies, to shift their reliance on China and Russia
+      for manufactures, raw materials, to replace the United States. That’s why, as
+      you pointed out before, the United States calls China and Russia competitors,
+      not enemies, but they’re really not competing because it’s not part of the same
+      economic system. While China has been following really the same logic i.e. reinventing
+      the wheel that Great Britain, Germany, and the United States followed in the 19th
+      century, having a mixed economy with government providing subsidized basic infrastructure
+      for transportation and communication and health care and education, the United
+      States itself has deindustrialized and relied on foreign countries with cheap
+      labor in order to bring down the price of American labor. And the financialization
+      that’s taken place is basically at odds with industrial capitalism. Finance capitalism,
+      U.S. style, has used corporate profits not to invest in more, building more factories
+      and employing more labor, research and development to grow, but for stock buybacks
+      and dividend payouts to increase the price of their stock to make money financially,
+      money from money, not industrially. You really have, as we’ve talked about before,
+      these two different systems of how the world’s developing. Industrial socialism
+      (which is very similar to industrial capitalism in the late 19th century), and
+      finance capitalism in the United States that’s been undercutting the U.S. economy.
+      So the national security strategy is, how is America going to resist its decline
+      and increasing loss of economic power, military power, monetary power to China?
+      Well, countries in the world are beginning to de-dollarize, and that means to
+      trade with each other’s currencies instead of with the U.S. dollar. And China
+      has created an alternative electronic payment system so that no longer are countries
+      forced to go through the European SWIFT system of bank clearing that the United
+      States has weaponized by partially cutting Russia and obviously threatening to
+      cut China itself off of the SWIFT system so that it can somehow interfere with
+      and block their own ability to finance their own foreign trade and foreign investment.
+      China’s already said, well, you know, we don’t have to depend on the United States.
+      It doesn’t have to be this way. That threat by China saying it doesn’t have to
+      be this way, is what the United States looks at is the great threat to its national
+      security. And even more threatening is the fact that the other countries, by de-dollarizing,
+      are withdrawing from what I’ve called the treasury bond standard of international
+      finance that occurred when the United States went off gold in 1971. Before that,
+      General de Gaulle, the Germans, other countries were receiving all of these dollars
+      that the U.S. was flooding the world with as a result of its military spending
+      in Southeast Asia and the whole rest of the world. These dollars ended up in the
+      central banks of largely Europe and they were cashing them in for gold and the
+      U.S. gold supply was going down and down and that was the basic measure of power.
+      As I described in Superimperialism , once other countries were pressured not to
+      invest in gold, they had only one alternative. That was U.S. Treasury securities.
+      Thus they financed not only America’s budget deficit that was largely military
+      in character, but America’s balance of payments deficit that was entirely equal
+      to all of the U.S. military spending abroad. So other countries’ savings and monetary
+      arrangements took the form of financing the U.S. military surrounding them with
+      the world. That was the basically self-destructive character of this. It peaked
+      in 1974 with the OPEC countries creating the Euro dollar. They saved all of their
+      oil surpluses in the form of investments in U.S. securities, recycling the money.
+      And that’s because of this. The U.S. military spending abroad did not reduce the
+      dollar’s exchange rate and the associated rise in interest prices. All of that
+      is now coming to an end because other countries have a choice. China has been
+      willing to hold its dollar holdings just about constant over the last 10 years.
+      All of its growth in economic reserves has taken the form either of accumulation
+      of gold, which has helped raise the price, or each the currencies of its trading
+      partners. And this has left the dollar to have a declining role in the international
+      reserves, not only of China, but other countries. The leading country holding
+      dollars is still Japan, which is willing to keep it, basically subsidizing the
+      United States. But there’s one source that’s even larger than Japan, and that’s
+      the cryptocurrency coin, the stable coin. In yesterday’s Financial Times, Martin
+      Wolf had a whole article on this saying that stable coins are expected to increase
+      from a few hundred billion today to $2 trillion over the next few years. That
+      means that countries are not going to hold Treasury bills, but they’ll hold cryptocurrency,
+      which is going to be invested in U.S. Treasury securities. And of course, this
+      vastly increases the risk of other countries holding their money in cryptocurrencies,
+      which go up and down radically. But cryptocurrencies are not regulated. And they’re
+      a vehicle, basically, for criminals and kleptocrats and heads of state, such as
+      Zelensky and his gang, to keep their money invisible, ostensibly, to the regulatory
+      authorities and the criminal authorities of the countries. So all of this development
+      of self-sufficiency abroad has gone hand in hand with the lack of America’s own
+      industrial sovereignty. The growth of foreign sovereignty and independence means
+      they’re not dependent on the United States. And it was the ability to exploit
+      other countries by their trade dependency, their financial dependency. The dollar
+      standard was giving them the free ride. The only group that they can really exploit
+      today to a similar extent is, of course, NATO. The European Union is the only
+      country that has just become a surrender monkey to all of the demands that Donald
+      Trump has made because Europe has made an agreement to depend totally on the U.S.
+      market for its exports and to give up hope of trading with the Russian market,
+      the Chinese market, and the Eurasian market generally. The United States wants
+      to at least lock in Europe. And the question is whether it can lock in other countries.
+      I have other comments to say on this later about how the U.S. strategy is based
+      on oil, agriculture, and other things. But that’s the big picture of what is national
+      strategy for the U.S. and for other countries, and what’s the asymmetry there.
+      ⁣RICHARD WOLFF: As I mentioned to you before we went on the air, the document
+      released by the United States government last Thursday on the 4th of December
+      on national security is an extraordinary document of historic importance. And
+      I would begin by telling anyone who has the time, go get it. I’m sure it’s available
+      in a dozen different places on the internet. Read it. It isn’t that long, 20 pages
+      or so. But it does put into one general document a good part of the kinds of new
+      directions that we have been talking about on this program for at least the last
+      year or two. I’m not going to repeat the things that Michael said. I want to go
+      to a different direction. I have learned a lot, I continue to learn a lot, from
+      a professor of political science from the University of Chicago named John Mearsheimer.
+      He has been doing a lot of work on global big power conflict. He was early on
+      to identify the impossibility for Ukraine to win that war, et cetera, et cetera.
+      And he analyzes everything from the standpoint of great power activity, one against
+      the other. He usually explains it by saying it is in the nature of big powers
+      to feel insecure about their situation and then everything they do, including
+      war with one another, are products of attempting to cope with that insecurity.
+      I’ve always wondered: why would you start your argument there? Why wouldn’t you
+      ask the question, why are people fearful about their security? Conventional human
+      nature? Are we supposed to think like that, the way people have been thinking
+      that way for centuries? And I believe the answer is no, and I think it’s relevant
+      right now. Here’s the model to keep in mind. It’s the conventional model of capitalist
+      competition. You have three companies making the same thing. Let’s say it’s shoes
+      or software programs. It doesn’t matter. Each company is aware that there are
+      other companies. And each company is aware that the customer can go to another
+      company if they don’t like your company. So they try to improve their product
+      by giving it new capabilities, by painting it a different color, by advertising
+      it in a new and better way. But everything they do to enhance their own security
+      thereby threatens the security of the competitors. Because if you succeed by improving
+      the quality of your goods, you shift your buyer from that other commodity by the
+      other company to yours. That’s what you hope for. That’s what success represents.
+      So the success of each is the endangerment of the success of every other. That’s
+      the nature of capitalist competition. When you teach it to students in economics
+      departments, you do a very odd thing. You tell them how competition gets you good
+      results, such as improvement, new technology, and so forth. And that’s true. Competition
+      provokes improvements of all kinds. But as anyone with even 10 seconds of Hegel
+      in their brain would know, now you have to ask the question, what are the negative
+      consequences of competition, which turn out to be every bit as horrible and destructive
+      as you could imagine? Competition is why one company looks for a shortcut, uses
+      cheaper materials, uses inferior products, falsely advertises, and a hundred other
+      things that come out of competition. The notion that competition is some universal
+      good thing is stupid. It is a sign of inability to think in a sophisticated way.
+      It’s when ideological need completely trumps intellectual honesty. As I said,
+      I have enormous respect for Mr Mearsheimer. He has taught me enormously and is
+      a very valuable thinker. But it’s out of capitalist competition that big powers
+      are insecure and then take steps on their own security that threaten everybody
+      else. Perfect analogy with capitalist competition. Which raises the question,
+      if we’re going to be honest, whether we are ever going to solve the problem of
+      great power hostility if we don’t get rid of the capitalism out of which all of
+      this grows and upon which it is modeled. If we go from the collection of competitors
+      now to whatever rearrangement of competitors we will have 20 years from now, just
+      like today’s are different from what they were 20 years ago, the document on December
+      the 4th explains to us just how far Europe has fallen. The Europeans now are going
+      to have to ask themselves the following question, which they never dared do, and
+      which the current crop of leaders are probably incapable of formulating even as
+      an idea. Here’s the question. The mistake we may have made in Europe – and by
+      we I mean Macron, Von der Leyen, Starmer, Merz, Meloni also, throw her in for
+      good measure (she’s a little different, but not enough), they are now in a new
+      competition they haven’t understood – Between Europe on the one hand and the United
+      States on the other, which of them is going to cut a deal with Russia and China
+      first and screw the other one by doing so? That’s not just a hand that the US
+      can play. That is a hand that the Europeans can also play. They are coming late
+      to that game. They have stumbled over their own inability to see what the December
+      4th paper now shows them. But there will be the forces in Europe that will figure
+      this out. First among them will be the large capitalist corporations who are going
+      to look at this new situation and say to themselves, we now have to make a strategic
+      choice. And we’re sure as hell not going to move any more production out of Europe
+      to the United States unless and until that choice is clear. And that means the
+      United States will not reshore significantly anything. And that’s not good news
+      for Mr. Trump. So that’s the first thing. Second, I do believe that we’re watching
+      the shift by the fact that in that document of December 4th, neither Russia nor
+      China are referred to as an enemy. The focus on China is the focus on a competition.
+      I hope I’m wrong in this, but I believe the United States in that document has
+      accepted that it can no longer dominate the world. It just can’t. It can’t confront
+      Russia and win. It can’t confront China and win. If it wants to win, it has to
+      limit its confrontations to little boats in the Caribbean or countries like Venezuela.
+      And even that may be beyond its capability. We need a moment of reflection. If
+      what I have just said is more or less on target, as I think it is, then we really
+      are witnessing the end of the whole Cold War exceptional situation of the United
+      States. It should have been understood from the beginning. It could not last.
+      We have had 70 years of literally one line every year going in one direction,
+      showing us that the rest of the world is catching up and will surpass what we
+      have done in this country for all the obvious reasons. And I think it’s understood
+      almost everywhere in the world, so that the real attitude toward the United States,
+      which cannot be spoken because the United States is still strong enough, but the
+      real attitude is this is a dying empire. This is a dying system. It may not just
+      be the U.S. that can’t control the world. It may not even be U.S. capitalism.
+      It may be capitalism per se, that the ironic dream of socialists for two centuries
+      is finally arriving in a way that is becoming tangible. You can’t keep doing it
+      this way. You tried multinationalism after World War I because you recognized
+      that capitalist competition among empires gave you the worst war in human history,
+      World War I. You realized that the League of Nations set up afterwards to try
+      to go in a different direction was destroyed by the attempt to undo the reorganization
+      of capitalism achieved out of World War I. Mussolini was going to re-raise the
+      Italian Empire and Germany, the Deutsche Reich, and all the rest of it. And then
+      we tried the United Nations and the Cold War made a mockery out of that. But those
+      efforts are the efforts of a collective way of dealing with your problems. We’re
+      going to discover – and it may come out of economics, but of course that’s a prejudice
+      of mine and of Michael’s given the work we do – as people understand that individual
+      enterprises competing with one another is not some gift of God to the human race
+      any more than slavery was or feudalism was. It’s a temporary phase we learned
+      to do better than. And that’s where we are now. ⁣NIMA ALKHORSHID: Michael, let
+      me ask you a question before going to your comments. You know, when they try to
+      treat China as the main enemy in this document, NSS National Security Strategy,
+      in my opinion, is somehow accelerating the very multipolar world that the United
+      States is trying to prevent. And the other outcome of that would be de-dollarization.
+      If de-dollarization succeeds, can the United States national security built on
+      treasury finance military spending survive without its global free lunch? ⁣MICHAEL
+      HUDSON: Well, that’s really what the national security plan is all about. The
+      question is, they acknowledge their de-dollarization. They acknowledge that the
+      U.S. can’t control the whole world, and there’s really going to be a sphere of
+      influence group. Russia, China, Japan are not going to be in there. What the U.S.
+      can secure is a captive Europe, although it points out, as Richard said, that
+      Europe is pretty much falling apart, and Latin America. The U.S. wants to lock
+      in Latin America and at least its supply of raw materials and oil. And even with
+      the division of the world into these different blocs, the U.S. still has a way
+      of starting a new strategy for the Cold War. You can look at the National Security
+      Report as one for Cold War II. The U.S. strategy essentially has been, since 1945
+      and really ever since World War I, to control the world’s energy supply, oil and
+      gas. Britain and the United States, along with Holland together, have tried to
+      do this because if you can control the world’s oil and gas, that enables you to
+      turn off their electricity, turn off their heating, stop supplying their factories
+      with what they need to power them and add to GDP. The United States is still trying
+      to isolate Russia and China, [stop others] from depending on Russian oil. This
+      is what the war in Venezuela is all about. The U.S. assertion of the new Monroe
+      doctrine here is part of this new strategy, reviving it. Last week you saw the
+      policy of blowing up tankers that are carrying Russian oil and gas. There was
+      another attempt on a Russian oil tanker yesterday. Also yesterday, U.S. armed
+      forces seized a tanker leaving Venezuela with Venezuelan oil. They haven’t yet
+      announced where this oil was going, but Trump says he doesn’t call Venezuela an
+      oil-producing country. He calls it a narco-terrorist country. That’s like calling
+      somebody in high school a poo-poo pants. For the United States anyone we don’t
+      like is now a narco-terrorist. Everybody’s a narcoterrorist, except the United
+      States, which is the center of the CIA-sponsored narco-terrorism trade, and U.S.
+      supporters like the former Honduran president, whom Donald Trump just freed from
+      being imprisoned for being one of the largest narco-terrorists in Latin America.
+      So the United States grabbed Venezuelan oil. Last night, at least on Channel 7
+      news broadcast at 6:30, he was asked, what are you going to do with the oil? And
+      Trump said, well, I guess we’re going to keep it. So not only are they grabbing
+      the oil that Venezuela tries to sell to other countries to get the money to survive
+      in the face of the sanctions that the United States is imposing on it, but Trump
+      says we’re days away from a land invasion of Venezuela. We’re going to grab the
+      oil. We’re going to give it back to the U.S. oil companies as our basis. That
+      is going to help buttress the dollar, the balance of payments, and our ability
+      to continue to spend money all over the rest of the world. Even though the national
+      security strategy talks about spheres of influence, it doesn’t say that the United
+      States now can reduce its military bases abroad. It calls for all other countries,
+      especially the QUAD, Japan, the Philippines, Taiwan, all to buy more U.S. arms
+      and to create a threat, constant threat against China and turn basically Taiwan
+      and Japan into the new Ukraine. Are they willing to die to the last Japanese?
+      Is Taiwan willing to die to the last Taiwanese? I don’t think so. Philippines,
+      perhaps, if the dictator is given enough money by the U.S. This attempt to control
+      oil seems to be independent of this division of the world into spheres of influence.
+      And I didn’t mention dependence on U.S. agriculture like soybeans, but you’ve
+      seen exactly that next to oil, getting other countries dependent on your food
+      imports while using the World Bank and the IMF to block other countries from investing
+      in their own land reform or regulating their economies to grow food crops for
+      themselves instead of export crops. This is the second position that has led to
+      one war after another against Latin America, starting with Guatemala back in 1953,
+      1954, when there was an attempt at land reform there. There was the whole U.S.
+      attempt to fight against the Catholic Church’s liberation theology that was all
+      about land reform, feeding themselves. The national security strategy is not going
+      to come right out and say, America has one thing to offer other countries, if
+      not industry and money: the ability to not to hurt them, to agree that we’re not
+      going to kill you, we’re not going to bomb you, we’re not going to do to you what
+      we did to Chile with Pinochet and what we plan to do and are threatening to do
+      with Maduro in Venezuela i.e. grab its gold like the Bank of England did and give
+      it to the opponents of the Venezuelan government, or simply invade you and take
+      over in our attempt to refight the Vietnam War, this time in Latin America, and
+      maybe we’ll have better success in the forests and jungles of Venezuela than we
+      did in Vietnam and Southeast Asia. That’s basically it. Well, what can China and
+      Russia do to oppose this? For one thing, they’ve already tried to help Venezuela
+      protect itself by providing it with arms. We don’t know what power it’s given
+      Venezuela either to shoot down American aircraft and missiles or even to bomb
+      the U.S. carriers and the U.S. ships that are mounting the invasion of Venezuela.
+      Iran also is part of this triumvirate. China, Russia, and Iran. You’ll notice
+      that Iran was not recognized as having its own sphere of influence over the Near
+      East. That’s because it’s such a nightmare for the United States that Iran, rather
+      than Israel and U.S. puppets, Saudi Arabia will control the Near East, that it
+      couldn’t even mention it. But Iran has a very great response to all of this. If
+      America’s going to prevent Russian oil exports by blowing up its tanker ships,
+      if it’s going to block Venezuela’s exports by blowing up its ships and invading
+      the country and seizing its oil fields, then Iran can simply sink a ship in the
+      Persian Gulf. That will block OPEC’s ability to export its oil by sea. And of
+      course, that is going to send oil prices soaring. Iran’s logic can be: if we can’t
+      trade, if the United States blocks us from trade with the sanctions it’s done,
+      if it blocks us from selling our oil, then no other countries in the Middle East
+      can sell their oil either. We’ll blow up a ship, and we’re not going to permit
+      any Near Eastern oil trade unless you give us our sovereign right to export oil
+      to whoever we want and to take payment in whatever currency we want. This is the
+      Iranian situation, the Near Eastern situation, even the situation in Israel to
+      act as America’s proxy to conquer Iraqi oil, Syrian oil, and to threaten the other
+      Arab oil producing countries with simple military takeover if they don’t continue
+      the oil to use their oil earnings to invest and finance the United States economy.
+      This is all part of the whole national security strategy. I think that we’re probably
+      doing a better job of spelling out the strategy on your show than the document,
+      the December 4th document does itself, although of course it’s important just
+      for the nakedness in which it tries to express U.S. ambitions for Cold War II
+      without really describing what we were watching its strategy unfolding as. ⁣RICHARD
+      WOLFF: What I thought emblematic was von der Leyen’s deal with Trump. It’s two
+      or three months old now, but it was that final step in which Mr. Trump lowered
+      the tariffs on European countries in general to around 15, 16 percent. In exchange
+      for that service – an example of Michael’s notion: we will reduce the damage we’re
+      doing to you – von der Leyen agreed to two things. Number one, there would be
+      a purchase in the neighborhood of $700 billion worth of liquefied natural gas
+      as the energy source for Europe at a price which I believe is roughly three times
+      what the equivalent energy cost would be if they bought Russian oil and gas through
+      a pipeline or by sea. The second thing von der Leyen agreed to do was to establish
+      a fund again of around $700, $750 billion over the next five to ten years of European
+      money that would be invested in the United States. Now, there’s a word in the
+      English language for what von der Leyen agreed to. The word is called tribute.
+      This is the tribute that a subordinate member of an empire pays to whoever is
+      running the empire. It’s like what Rome got from the people around it or the Ottoman
+      Empire at the time of its dominance and so on. Before the document of December
+      4th, all of this was rationalized by the politicians in Europe as a necessary
+      part of winning the war in Ukraine and sustaining the NATO alliance. Well, the
+      war in Ukraine is over in terms of the question of who’s winning, and the NATO
+      alliance is on its final voyage by virtue of the December 4th document. That will
+      actually, and that’s my point, free these lousy European leaderships to take a
+      different direction because the direction they were going in would mean that the
+      left-wing opposition, strong in places like Spain and France, and the right-wing
+      opposition, strong in places like Germany and Poland, would now have less of an
+      opportunity to overthrow these leaders because they would no longer be in the
+      position of being able to make fun of them for having paid the tribute. Every
+      European country would know that its economic development is severely hobbled
+      by what von der Leyen agreed to do. That should never have happened, and now they
+      too have a choice. They too. You know, there’s a rumor, I do not know if it’s
+      true, but there was a rumor two years ago that Macron asked BRICS if the French
+      could join BRICS, and he was turned down. I think we’re going to see the resuscitation
+      of these ideas now in a way that we would not have without that document and what
+      it puts in plain English right out there for everybody to see. ⁣NIMA ALKHORSHID:
+      Michael, if countries stop holding US Treasuries, it seems to me the United States
+      not only loses the global dominance, but also the financial engine that funds
+      its own military. I don’t know if that is considered, this mindset was considered
+      in the document. ⁣MICHAEL HUDSON: You’d think that’s logical enough, but Donald
+      Trump says there’s a silver lining. He said, if the dollar goes down… which he
+      does want the dollar to go down. That’s one of the reasons he wants the Federal
+      Reserve to lower the interest rates so that Americans will sell their treasury
+      securities and buy foreign government bonds that yield more. Donald Trump says,
+      well, if the dollar goes down, that’ll make our exports and industry more competitive.
+      The problem is there isn’t any more industry to be competitive with. He’s living
+      in a fantasy. And much of the Trump strategy and the national security strategy
+      is all about this. It’s all fantasy. Today’s Wall Street Journal says that the
+      U.S. has come out with a new strategy to try to get Europe to indeed grab the
+      200 billion to 240 billion dollars that Russia has on deposit in Belgium with
+      the Euro Clear. And the Wall Street Journal says, well, there is a whole plan
+      for this. The U.S. a few months ago hired BlackRock, the investment company, intending
+      to give BlackRock a contract to survey all the ways in which U.S. companies and
+      their European satellites can make money by investing in Ukraine for rare earths
+      and things like that. The head of Germany, the most vicious anti-Russian European
+      leader, is Merz, who had been working for BlackRock. So he has a personal advantage
+      in being able to leave the government and go back to work for BlackRock. He’s
+      helping to invest and make enormous profits and capital gains from this U.S. and
+      European investment in Ukraine, of which probably 30 to 40% will be pure overcharged
+      profits, as usually is the case with real estate development and essentially all
+      of the payoffs and little white envelopes filled with money, as they say, that
+      go to all these. That really is the plan. And I think the plan is that all this
+      money is going to be seized and used as a fund to invest in Ukraine. One of the
+      crazy things that the Wall Street Journal said is they’re going to have the Zaporizhzhia,
+      if that’s how you pronounce it, the nuclear power plant. The nuclear power plant
+      is going to be used to fuel a whole information processing center because information,
+      automatic intelligence requires enormous amounts of electricity. This electricity
+      is not available in the United States. It obviously isn’t available in Europe
+      because you need gas or solar energy, atomic energy or solar energy for that.
+      I did not add before that one of the ways of blocking foreign energy self-sufficiency
+      instead of relying on U.S. oil is solar and wind energy. U.S. electricity production
+      has been absolutely flat for the last decade. The Wall Street Journal has a great
+      chart on that. China’s electricity production has gone way up. And one of the
+      main sources of this is its solar panels that are creating energy and its wind
+      energy. The United Nations in the climate conferences have tried to push de-dollarization.
+      The United States has blocked the United Nations and other countries from decarbonizing
+      their economies and moving to solar and wind energy because China is the producer
+      of solar panels at the most competitive prices and the most efficient panels,
+      and also the main producer of the metal blades for the windmills that produce
+      the wind energy. I should have added that. That’s the hope, that Ukraine can somehow
+      use the nuclear power of Zaporizhzhia. There’s no way that this can happen because
+      the power plant is part of Luhansk, Donetsk, that is already part of Russia. It’s
+      not part of Ukraine. And Russia is not going to provide the power to Ukraine.
+      In fact Yves Smith has a very good article in today’s Naked Capitalism about what
+      the problem is. How is Ukraine – by Ukraine, I mean what’s left of the shell that
+      will be called Ukraine after the Russian speakers join Russia – going to get energy?
+      In retaliation for Ukraine bombing Russian oil refineries and energy sources,
+      Russia has bombed Ukrainian energy sources. That’s one of the big ways in which
+      it’s trying to speed up the end of the war in Ukraine: it offered a mutual refusal
+      to bomb each other’s energy. And the Americans told the Ukrainians, say, no, no,
+      we want to hurt Russia’s energy. Even if it’s only a pinprick, it’s worth having
+      you all freeze in the dark for your whole country that Russia’s bombing just to
+      give a pinprick to Russia. That’s the standard. The question is: how is Ukraine
+      going to get energy, now that it’s Western Ukraine, no longer having the generators
+      and the transformers for energy? It has the production facilities, but without
+      the transformers, how do you transform either nuclear power or oil or gas power
+      into electricity? Well, you need transformers and electrical equipment that was
+      all following the Soviet standards for many decades and still follows the Soviet
+      standards, just like Russia energy and electrical companies follow the Soviet
+      standards. Western companies are not going to say, okay, we’re going to, of course,
+      rebuild your equipment in the West. That’ll give us an export, but the market
+      for post-Soviet electrical equipment is not large enough to justify investment
+      in all of this. So only Russia can produce the equipment to turn the lights and
+      the factories and the electricity and the heating and the furnaces back on in
+      Western Ukraine. And it’s not going to do this for free because it’s expecting
+      Western Ukraine to pay reparations for the attack on Russian speakers that it’s
+      mounted. This whole fantasy that Europe has signed on to, led by Von der Leyen
+      and Kaja Kallas, is still going strong despite the national security report saying
+      that Europe no longer has viability because its leaders have been utterly rejected
+      by all the opinion polls. I think 12% popularity for Macron, 20% maybe for Mertz.
+      And Starmer is completely out of British politics. The European political system
+      is falling apart. That’s, I think, why Richard said that the military and Cold
+      War system and NATO is falling apart as a result of all of this. ⁣RICHARD WOLFF:
+      I also think that there’s symbolism and there’s reality. I understand that the
+      symbolism is what’s driving this business of seizing the Russian assets. It allows
+      Merz and Macron and Starmer to keep funding that war, which is what they believe
+      keeps them in office. It is they who are holding back the horrible Russian bear
+      from invading all of Europe. They could not admit that moving the NATO boundary
+      right up against Russia was a provocative act against Russia. That word can’t
+      be spoken because that’s Putin’s propaganda. Therefore, you have to come up with
+      something else. What you came up with is, Putin is an imperial crazy person who
+      wants to take over all of Europe. And, when you’re dealing in that kind of gross
+      symbolism, you get the remarks of Kaja Kallas of a couple of weeks ago when she
+      gives a speech explaining how Russia has invaded Europe 19 times and Europe has
+      never invaded Russia. That’s an ability that goes far beyond the limited capabilities
+      of our president in the sheer ignorance of modern history. You know, there’s no
+      Napoleon, there’s no World War I, there’s no Hitler. In her universe, it’s all
+      Mr. Putin. I mean, it tells you how crazy they are. Here’s the importance: $200
+      billion is just not enough for any of this. It is good symbolism. It allows those
+      European leaders not to have to face their parliaments and ask for money to save
+      their political careers because they’ve run out of that option. That’s not there
+      for them. So they need an alternative basket. They’re doing something, which,
+      in fact, I believe the United States opposes. Whatever it says in that article…
+      I could be wrong, but my understanding was that the United States supported the
+      Belgian position that this is way more dangerous for the long-term viability of
+      Europe as a place to keep your money, of the dollar as a place to keep your money,
+      for the whole world’s rich people and governments, [just] to salvage the career
+      of a politician who knows, as everybody does, that the war they’re supporting
+      is going to be lost. I mean, maybe if that flies, it’ll tell you that Europe is
+      an even more desperate position than I think it’s in. I think this is lots of
+      headlines, lots of dancing around, lots of glimmers of hope. But, you know, the
+      IMF doesn’t like it. The World Bank didn’t like it. The Belgian government didn’t
+      like it. The clearance agency there in Belgium that handles it didn’t like it.
+      The United States is very noticeably not pushing it officially. So my guess is
+      this is part of the desperation of a dying empire engaged in a losing war. You
+      get these suggestions. ⁣MICHAEL HUDSON: It’s this desperation that led to what
+      the Wall Street Journal was reporting: there are groups in the United States,
+      certainly within the State Department, that are pressing for exactly this. So
+      obviously, the U.S. speaks with a forked tongue. You accused the Estonian lady
+      Kallas of being ignorant. Well, when I grew up in the 1950s, there was a radio
+      show that I used to listen to. It was called, It Pays to Be Ignorant. It was half
+      a comedy question show. And it does pay to be ignorant. I’m sure it’s paid Kallas
+      very well. There’s some question about whether there’s been quite a bit of embezzlement
+      under her regime. And the question is: what’s going to be stronger? Will the narrative
+      be stronger or will reality be stronger? Well, we’ve seen the narrative of industrial
+      capitalism and libertarianism and free markets and cryptocurrency being stronger
+      than the reality of all of these for the last many decades. Just because something’s
+      not realistic doesn’t mean that it won’t dominate public opinion. Obviously, this
+      has not worked for Starmer, Merz, and Macron, but the United States always has
+      hope springing eternal that ignorance and narrative can win out over reality and
+      material self-interest. ⁣RICHARD WOLFF: I would like to make one point. If the
+      United States, as the December 4th paper suggests, is reviving or (maybe a better
+      word) reaffirming the Monroe Doctrine, and so retreating from an effort to control
+      the whole world to an effort to control Latin America, if that is real in the
+      sense of a strategic shift, and if Venezuela is a sign of what that means in terms
+      of what the United States is willing to do, then I think you’re going to also
+      see, in addition to everything else we’ve talked about, a fantastic struggle emerging
+      now and in the years ahead between the United States on the one hand and major
+      forces in Latin America on the other. You cannot do this again. You’ve done it
+      from 1830 when the Monroe Doctrine begins to the present. Okay. But you cannot
+      keep doing what might have worked at a time past century now. As an example, once
+      upon a time, settler colonialism was doable. The British could settle people in
+      Australia, in New Zealand, in South Africa, in the United States, in Canada, and
+      so on. And you could kill large numbers of people to clear the land so that you
+      could settle your people. But you can’t do that now. Or to say the same thing,
+      to try to do it now is to be in the situation of Israel and Palestine. And look
+      what that produced. And you might be able to pull that off in a country that has
+      8 million Israelis and 8 million Palestinians, roughly. You cannot do that with
+      the United States and Brazil or Chile or Mexico. This would be a recipe for unspeakable
+      violence, bitterness, and organization. The Organization of American States is
+      a fractured institution. Its silence about what’s going on in Venezuela or relative
+      silence is very loud in its implications. But I don’t think that’s a viable institution.
+      I think there will be efforts by Latin Americans to fight back. They are better
+      organized to do that now than they ever have been. And they will have friends
+      in Russia and China and all the rest of it. This is not going to be a secure arrangement
+      for the United States because the rest of the world will not observe it. The Monroe
+      Doctrine, just to remind people, was a deal. And it was a deal made between the
+      United States and Britain because the British had tried to prevent the independence
+      of the United States, a runaway colony. But to everyone’s surprise, it had been
+      defeated in the War of Independence in 1776, and it was defeated again in the
+      War of 1812. After being defeated twice, it understood what it couldn’t do. So
+      it made a deal. You get Latin America, we get everything else, which is how the
+      rest of that century worked out. But you can’t do that now. Anti-colonialism is
+      now the dominant ideological construct in the world, embraced by the vast majority
+      of its people. Only a country that imagines the alternative to what I’ve just
+      described being even worse would undertake the strategic initiative articulated
+      in the December 4 paper. Transcription and Diarization: https://scripthub.dev
+      Editing: ton yeh Review: ced Image by jackie young from Pixabay The post How U.S.
+      Security Became a Global Risk first appeared on Michael Hudson .'
+    one_sentence_summary: In a podcast discussion on December 11, 2025, Nima Alkhorshid,
+      Richard Wolff, and Michael Hudson explore the implications of the United States'
+      new national security strategy, which identifies China as its primary adversary
+      and raises questions about the U.S.'s reliance on controlling other nations for
+      its security.
+    paragraph_summary: In a podcast discussion on December 11, 2025, hosts Nima Alkhorchid,
+      Richard Wolff, and Michael Hudson delve into the implications of the United States'
+      new national security strategy, which identifies China as its primary adversary.
+      Hudson argues that the U.S. conception of security is fundamentally flawed, as
+      it relies on controlling other nations and their environments, leading to a sense
+      of insecurity when other countries assert their sovereignty. He highlights the
+      paradox of U.S. military presence, with 800 bases worldwide, which threatens the
+      security of other nations and creates a global asymmetry. Hudson references Vladimir
+      Putin's perspective that security should be mutual among all countries, criticizing
+      NATO's expansion as a direct threat to Russia's security and emphasizing the need
+      for a more equitable approach to international relations.
+    published: '2025-12-27T21:53:26+00:00'
+  - title: How U.S. Security Became a Global Risk
+    url: https://michael-hudson.com/2025/12/how-u-s-security-became-a-global-risk/
+    text: '⁣NIMA ALKHORSHID: Hi, everybody. Today is Thursday, December 11th, 2025,
+      and our dear friends, Richard Wolff and Michael Hudson, are here with us. Welcome
+      back, Richard and Michael. ⁣MICHAEL HUDSON: Good to be back. ⁣RICHARD WOLFF: Good
+      to be here. ⁣NIMA ALKHORSHID: Please subscribe and hit the like button and follow
+      Richard and Michael. You see their names on the picture, you see democracyatwork.info.
+      You can go to the website or to the YouTube channel. Michael Hudson is at michael-hudson.com.
+      You can go there and find the transcripts of these interviews that we’re doing
+      here on this podcast and a lot of other articles that Michael usually publishes
+      on his website. Let me start, Michael, with you and with the new national security
+      strategy of the United States. The new doctrine indicates or targets China as
+      the main enemy of the United States. Here is the question. If the United States’
+      security depends on controlling other nations’ environments, can the U.S. ever
+      feel secure in a world where rising powers insist on sovereignty, Michael? ⁣MICHAEL
+      HUDSON: Well, that’s exactly the problem, Nima. For the United States, security
+      means the ability to control the whole rest of the world, the environment, other
+      countries. And to the extent that they have sovereignty of their own to act independently,
+      the United States foreign policy feels insecure. The problem is that when it solves
+      this insecurity by surrounding Asia and the whole rest of the world with 800 military
+      bases throughout the world, well, this threatens other countries’ security. So
+      there’s a basic asymmetry built into the whole concept of U.S. security to begin
+      with.. That’s the point that Vladimir Putin has spent almost a year now trying
+      to explain to Donald Trump’s team. He says security should be for all countries
+      mutually, and that NATO’s expansion into Ukraine or any of the other regions surrounding
+      Russia are a threat to its security. And the idea is, you can’t make America’s
+      insecurity mean the actual military insecurity of other countries. The single
+      factor causing all of this economic and military insecurity is China. Ever since
+      the Bandung Conference of non-aligned countries in 1955, they sought to break
+      free from the legacy of colonialism and financial imperialism and their trade
+      deficits and control of their development policy by the World Bank and the International
+      Monetary Fund, which were serving U.S. interests. Well, the same situation existed
+      in the 1970s with an attempt to create a new international economic order. The
+      problem is that these countries could complain, but they didn’t really have an
+      alternative to their dependency on U.S. trade, U.S. investment, and the whole
+      financial system of the world that was controlled by the United States in its
+      own self-interest, the Treasury Bill standard, the way in which foreign central
+      banks held their reserves. The last few decades have seen China make for the first
+      time such great progress toward its own self-sufficiency through its policy of
+      industrial socialism with Chinese characteristics and its increasing trade and
+      investment linkages with the rest of Asia – headed by trade with Russia and Central
+      Asia as part of the Belt and Road Initiative – that for the first time, the rest
+      of the world has an ability to be mutually interdependent among themselves and
+      not really dependent on the U.S. market to the extent that they’re able to break
+      away, to de-dollarize their economies, to shift their reliance on China and Russia
+      for manufactures, raw materials, to replace the United States. That’s why, as
+      you pointed out before, the United States calls China and Russia competitors,
+      not enemies, but they’re really not competing because it’s not part of the same
+      economic system. While China has been following really the same logic i.e. reinventing
+      the wheel that Great Britain, Germany, and the United States followed in the 19th
+      century, having a mixed economy with government providing subsidized basic infrastructure
+      for transportation and communication and health care and education, the United
+      States itself has deindustrialized and relied on foreign countries with cheap
+      labor in order to bring down the price of American labor. And the financialization
+      that’s taken place is basically at odds with industrial capitalism. Finance capitalism,
+      U.S. style, has used corporate profits not to invest in more, building more factories
+      and employing more labor, research and development to grow, but for stock buybacks
+      and dividend payouts to increase the price of their stock to make money financially,
+      money from money, not industrially. You really have, as we’ve talked about before,
+      these two different systems of how the world’s developing. Industrial socialism
+      (which is very similar to industrial capitalism in the late 19th century), and
+      finance capitalism in the United States that’s been undercutting the U.S. economy.
+      So the national security strategy is, how is America going to resist its decline
+      and increasing loss of economic power, military power, monetary power to China?
+      Well, countries in the world are beginning to de-dollarize, and that means to
+      trade with each other’s currencies instead of with the U.S. dollar. And China
+      has created an alternative electronic payment system so that no longer are countries
+      forced to go through the European SWIFT system of bank clearing that the United
+      States has weaponized by partially cutting Russia and obviously threatening to
+      cut China itself off of the SWIFT system so that it can somehow interfere with
+      and block their own ability to finance their own foreign trade and foreign investment.
+      China’s already said, well, you know, we don’t have to depend on the United States.
+      It doesn’t have to be this way. That threat by China saying it doesn’t have to
+      be this way, is what the United States looks at is the great threat to its national
+      security. And even more threatening is the fact that the other countries, by de-dollarizing,
+      are withdrawing from what I’ve called the treasury bond standard of international
+      finance that occurred when the United States went off gold in 1971. Before that,
+      General de Gaulle, the Germans, other countries were receiving all of these dollars
+      that the U.S. was flooding the world with as a result of its military spending
+      in Southeast Asia and the whole rest of the world. These dollars ended up in the
+      central banks of largely Europe and they were cashing them in for gold and the
+      U.S. gold supply was going down and down and that was the basic measure of power.
+      As I described in Superimperialism , once other countries were pressured not to
+      invest in gold, they had only one alternative. That was U.S. Treasury securities.
+      Thus they financed not only America’s budget deficit that was largely military
+      in character, but America’s balance of payments deficit that was entirely equal
+      to all of the U.S. military spending abroad. So other countries’ savings and monetary
+      arrangements took the form of financing the U.S. military surrounding them with
+      the world. That was the basically self-destructive character of this. It peaked
+      in 1974 with the OPEC countries creating the Euro dollar. They saved all of their
+      oil surpluses in the form of investments in U.S. securities, recycling the money.
+      And that’s because of this. The U.S. military spending abroad did not reduce the
+      dollar’s exchange rate and the associated rise in interest prices. All of that
+      is now coming to an end because other countries have a choice. China has been
+      willing to hold its dollar holdings just about constant over the last 10 years.
+      All of its growth in economic reserves has taken the form either of accumulation
+      of gold, which has helped raise the price, or each the currencies of its trading
+      partners. And this has left the dollar to have a declining role in the international
+      reserves, not only of China, but other countries. The leading country holding
+      dollars is still Japan, which is willing to keep it, basically subsidizing the
+      United States. But there’s one source that’s even larger than Japan, and that’s
+      the cryptocurrency coin, the stable coin. In yesterday’s Financial Times, Martin
+      Wolf had a whole article on this saying that stable coins are expected to increase
+      from a few hundred billion today to $2 trillion over the next few years. That
+      means that countries are not going to hold Treasury bills, but they’ll hold cryptocurrency,
+      which is going to be invested in U.S. Treasury securities. And of course, this
+      vastly increases the risk of other countries holding their money in cryptocurrencies,
+      which go up and down radically. But cryptocurrencies are not regulated. And they’re
+      a vehicle, basically, for criminals and kleptocrats and heads of state, such as
+      Zelensky and his gang, to keep their money invisible, ostensibly, to the regulatory
+      authorities and the criminal authorities of the countries. So all of this development
+      of self-sufficiency abroad has gone hand in hand with the lack of America’s own
+      industrial sovereignty. The growth of foreign sovereignty and independence means
+      they’re not dependent on the United States. And it was the ability to exploit
+      other countries by their trade dependency, their financial dependency. The dollar
+      standard was giving them the free ride. The only group that they can really exploit
+      today to a similar extent is, of course, NATO. The European Union is the only
+      country that has just become a surrender monkey to all of the demands that Donald
+      Trump has made because Europe has made an agreement to depend totally on the U.S.
+      market for its exports and to give up hope of trading with the Russian market,
+      the Chinese market, and the Eurasian market generally. The United States wants
+      to at least lock in Europe. And the question is whether it can lock in other countries.
+      I have other comments to say on this later about how the U.S. strategy is based
+      on oil, agriculture, and other things. But that’s the big picture of what is national
+      strategy for the U.S. and for other countries, and what’s the asymmetry there.
+      ⁣RICHARD WOLFF: As I mentioned to you before we went on the air, the document
+      released by the United States government last Thursday on the 4th of December
+      on national security is an extraordinary document of historic importance. And
+      I would begin by telling anyone who has the time, go get it. I’m sure it’s available
+      in a dozen different places on the internet. Read it. It isn’t that long, 20 pages
+      or so. But it does put into one general document a good part of the kinds of new
+      directions that we have been talking about on this program for at least the last
+      year or two. I’m not going to repeat the things that Michael said. I want to go
+      to a different direction. I have learned a lot, I continue to learn a lot, from
+      a professor of political science from the University of Chicago named John Mearsheimer.
+      He has been doing a lot of work on global big power conflict. He was early on
+      to identify the impossibility for Ukraine to win that war, et cetera, et cetera.
+      And he analyzes everything from the standpoint of great power activity, one against
+      the other. He usually explains it by saying it is in the nature of big powers
+      to feel insecure about their situation and then everything they do, including
+      war with one another, are products of attempting to cope with that insecurity.
+      I’ve always wondered: why would you start your argument there? Why wouldn’t you
+      ask the question, why are people fearful about their security? Conventional human
+      nature? Are we supposed to think like that, the way people have been thinking
+      that way for centuries? And I believe the answer is no, and I think it’s relevant
+      right now. Here’s the model to keep in mind. It’s the conventional model of capitalist
+      competition. You have three companies making the same thing. Let’s say it’s shoes
+      or software programs. It doesn’t matter. Each company is aware that there are
+      other companies. And each company is aware that the customer can go to another
+      company if they don’t like your company. So they try to improve their product
+      by giving it new capabilities, by painting it a different color, by advertising
+      it in a new and better way. But everything they do to enhance their own security
+      thereby threatens the security of the competitors. Because if you succeed by improving
+      the quality of your goods, you shift your buyer from that other commodity by the
+      other company to yours. That’s what you hope for. That’s what success represents.
+      So the success of each is the endangerment of the success of every other. That’s
+      the nature of capitalist competition. When you teach it to students in economics
+      departments, you do a very odd thing. You tell them how competition gets you good
+      results, such as improvement, new technology, and so forth. And that’s true. Competition
+      provokes improvements of all kinds. But as anyone with even 10 seconds of Hegel
+      in their brain would know, now you have to ask the question, what are the negative
+      consequences of competition, which turn out to be every bit as horrible and destructive
+      as you could imagine? Competition is why one company looks for a shortcut, uses
+      cheaper materials, uses inferior products, falsely advertises, and a hundred other
+      things that come out of competition. The notion that competition is some universal
+      good thing is stupid. It is a sign of inability to think in a sophisticated way.
+      It’s when ideological need completely trumps intellectual honesty. As I said,
+      I have enormous respect for Mr Mearsheimer. He has taught me enormously and is
+      a very valuable thinker. But it’s out of capitalist competition that big powers
+      are insecure and then take steps on their own security that threaten everybody
+      else. Perfect analogy with capitalist competition. Which raises the question,
+      if we’re going to be honest, whether we are ever going to solve the problem of
+      great power hostility if we don’t get rid of the capitalism out of which all of
+      this grows and upon which it is modeled. If we go from the collection of competitors
+      now to whatever rearrangement of competitors we will have 20 years from now, just
+      like today’s are different from what they were 20 years ago, the document on December
+      the 4th explains to us just how far Europe has fallen. The Europeans now are going
+      to have to ask themselves the following question, which they never dared do, and
+      which the current crop of leaders are probably incapable of formulating even as
+      an idea. Here’s the question. The mistake we may have made in Europe – and by
+      we I mean Macron, Von der Leyen, Starmer, Merz, Meloni also, throw her in for
+      good measure (she’s a little different, but not enough), they are now in a new
+      competition they haven’t understood – Between Europe on the one hand and the United
+      States on the other, which of them is going to cut a deal with Russia and China
+      first and screw the other one by doing so? That’s not just a hand that the US
+      can play. That is a hand that the Europeans can also play. They are coming late
+      to that game. They have stumbled over their own inability to see what the December
+      4th paper now shows them. But there will be the forces in Europe that will figure
+      this out. First among them will be the large capitalist corporations who are going
+      to look at this new situation and say to themselves, we now have to make a strategic
+      choice. And we’re sure as hell not going to move any more production out of Europe
+      to the United States unless and until that choice is clear. And that means the
+      United States will not reshore significantly anything. And that’s not good news
+      for Mr. Trump. So that’s the first thing. Second, I do believe that we’re watching
+      the shift by the fact that in that document of December 4th, neither Russia nor
+      China are referred to as an enemy. The focus on China is the focus on a competition.
+      I hope I’m wrong in this, but I believe the United States in that document has
+      accepted that it can no longer dominate the world. It just can’t. It can’t confront
+      Russia and win. It can’t confront China and win. If it wants to win, it has to
+      limit its confrontations to little boats in the Caribbean or countries like Venezuela.
+      And even that may be beyond its capability. We need a moment of reflection. If
+      what I have just said is more or less on target, as I think it is, then we really
+      are witnessing the end of the whole Cold War exceptional situation of the United
+      States. It should have been understood from the beginning. It could not last.
+      We have had 70 years of literally one line every year going in one direction,
+      showing us that the rest of the world is catching up and will surpass what we
+      have done in this country for all the obvious reasons. And I think it’s understood
+      almost everywhere in the world, so that the real attitude toward the United States,
+      which cannot be spoken because the United States is still strong enough, but the
+      real attitude is this is a dying empire. This is a dying system. It may not just
+      be the U.S. that can’t control the world. It may not even be U.S. capitalism.
+      It may be capitalism per se, that the ironic dream of socialists for two centuries
+      is finally arriving in a way that is becoming tangible. You can’t keep doing it
+      this way. You tried multinationalism after World War I because you recognized
+      that capitalist competition among empires gave you the worst war in human history,
+      World War I. You realized that the League of Nations set up afterwards to try
+      to go in a different direction was destroyed by the attempt to undo the reorganization
+      of capitalism achieved out of World War I. Mussolini was going to re-raise the
+      Italian Empire and Germany, the Deutsche Reich, and all the rest of it. And then
+      we tried the United Nations and the Cold War made a mockery out of that. But those
+      efforts are the efforts of a collective way of dealing with your problems. We’re
+      going to discover – and it may come out of economics, but of course that’s a prejudice
+      of mine and of Michael’s given the work we do – as people understand that individual
+      enterprises competing with one another is not some gift of God to the human race
+      any more than slavery was or feudalism was. It’s a temporary phase we learned
+      to do better than. And that’s where we are now. ⁣NIMA ALKHORSHID: Michael, let
+      me ask you a question before going to your comments. You know, when they try to
+      treat China as the main enemy in this document, NSS National Security Strategy,
+      in my opinion, is somehow accelerating the very multipolar world that the United
+      States is trying to prevent. And the other outcome of that would be de-dollarization.
+      If de-dollarization succeeds, can the United States national security built on
+      treasury finance military spending survive without its global free lunch? ⁣MICHAEL
+      HUDSON: Well, that’s really what the national security plan is all about. The
+      question is, they acknowledge their de-dollarization. They acknowledge that the
+      U.S. can’t control the whole world, and there’s really going to be a sphere of
+      influence group. Russia, China, Japan are not going to be in there. What the U.S.
+      can secure is a captive Europe, although it points out, as Richard said, that
+      Europe is pretty much falling apart, and Latin America. The U.S. wants to lock
+      in Latin America and at least its supply of raw materials and oil. And even with
+      the division of the world into these different blocs, the U.S. still has a way
+      of starting a new strategy for the Cold War. You can look at the National Security
+      Report as one for Cold War II. The U.S. strategy essentially has been, since 1945
+      and really ever since World War I, to control the world’s energy supply, oil and
+      gas. Britain and the United States, along with Holland together, have tried to
+      do this because if you can control the world’s oil and gas, that enables you to
+      turn off their electricity, turn off their heating, stop supplying their factories
+      with what they need to power them and add to GDP. The United States is still trying
+      to isolate Russia and China, [stop others] from depending on Russian oil. This
+      is what the war in Venezuela is all about. The U.S. assertion of the new Monroe
+      doctrine here is part of this new strategy, reviving it. Last week you saw the
+      policy of blowing up tankers that are carrying Russian oil and gas. There was
+      another attempt on a Russian oil tanker yesterday. Also yesterday, U.S. armed
+      forces seized a tanker leaving Venezuela with Venezuelan oil. They haven’t yet
+      announced where this oil was going, but Trump says he doesn’t call Venezuela an
+      oil-producing country. He calls it a narco-terrorist country. That’s like calling
+      somebody in high school a poo-poo pants. For the United States anyone we don’t
+      like is now a narco-terrorist. Everybody’s a narcoterrorist, except the United
+      States, which is the center of the CIA-sponsored narco-terrorism trade, and U.S.
+      supporters like the former Honduran president, whom Donald Trump just freed from
+      being imprisoned for being one of the largest narco-terrorists in Latin America.
+      So the United States grabbed Venezuelan oil. Last night, at least on Channel 7
+      news broadcast at 6:30, he was asked, what are you going to do with the oil? And
+      Trump said, well, I guess we’re going to keep it. So not only are they grabbing
+      the oil that Venezuela tries to sell to other countries to get the money to survive
+      in the face of the sanctions that the United States is imposing on it, but Trump
+      says we’re days away from a land invasion of Venezuela. We’re going to grab the
+      oil. We’re going to give it back to the U.S. oil companies as our basis. That
+      is going to help buttress the dollar, the balance of payments, and our ability
+      to continue to spend money all over the rest of the world. Even though the national
+      security strategy talks about spheres of influence, it doesn’t say that the United
+      States now can reduce its military bases abroad. It calls for all other countries,
+      especially the QUAD, Japan, the Philippines, Taiwan, all to buy more U.S. arms
+      and to create a threat, constant threat against China and turn basically Taiwan
+      and Japan into the new Ukraine. Are they willing to die to the last Japanese?
+      Is Taiwan willing to die to the last Taiwanese? I don’t think so. Philippines,
+      perhaps, if the dictator is given enough money by the U.S. This attempt to control
+      oil seems to be independent of this division of the world into spheres of influence.
+      And I didn’t mention dependence on U.S. agriculture like soybeans, but you’ve
+      seen exactly that next to oil, getting other countries dependent on your food
+      imports while using the World Bank and the IMF to block other countries from investing
+      in their own land reform or regulating their economies to grow food crops for
+      themselves instead of export crops. This is the second position that has led to
+      one war after another against Latin America, starting with Guatemala back in 1953,
+      1954, when there was an attempt at land reform there. There was the whole U.S.
+      attempt to fight against the Catholic Church’s liberation theology that was all
+      about land reform, feeding themselves. The national security strategy is not going
+      to come right out and say, America has one thing to offer other countries, if
+      not industry and money: the ability to not to hurt them, to agree that we’re not
+      going to kill you, we’re not going to bomb you, we’re not going to do to you what
+      we did to Chile with Pinochet and what we plan to do and are threatening to do
+      with Maduro in Venezuela i.e. grab its gold like the Bank of England did and give
+      it to the opponents of the Venezuelan government, or simply invade you and take
+      over in our attempt to refight the Vietnam War, this time in Latin America, and
+      maybe we’ll have better success in the forests and jungles of Venezuela than we
+      did in Vietnam and Southeast Asia. That’s basically it. Well, what can China and
+      Russia do to oppose this? For one thing, they’ve already tried to help Venezuela
+      protect itself by providing it with arms. We don’t know what power it’s given
+      Venezuela either to shoot down American aircraft and missiles or even to bomb
+      the U.S. carriers and the U.S. ships that are mounting the invasion of Venezuela.
+      Iran also is part of this triumvirate. China, Russia, and Iran. You’ll notice
+      that Iran was not recognized as having its own sphere of influence over the Near
+      East. That’s because it’s such a nightmare for the United States that Iran, rather
+      than Israel and U.S. puppets, Saudi Arabia will control the Near East, that it
+      couldn’t even mention it. But Iran has a very great response to all of this. If
+      America’s going to prevent Russian oil exports by blowing up its tanker ships,
+      if it’s going to block Venezuela’s exports by blowing up its ships and invading
+      the country and seizing its oil fields, then Iran can simply sink a ship in the
+      Persian Gulf. That will block OPEC’s ability to export its oil by sea. And of
+      course, that is going to send oil prices soaring. Iran’s logic can be: if we can’t
+      trade, if the United States blocks us from trade with the sanctions it’s done,
+      if it blocks us from selling our oil, then no other countries in the Middle East
+      can sell their oil either. We’ll blow up a ship, and we’re not going to permit
+      any Near Eastern oil trade unless you give us our sovereign right to export oil
+      to whoever we want and to take payment in whatever currency we want. This is the
+      Iranian situation, the Near Eastern situation, even the situation in Israel to
+      act as America’s proxy to conquer Iraqi oil, Syrian oil, and to threaten the other
+      Arab oil producing countries with simple military takeover if they don’t continue
+      the oil to use their oil earnings to invest and finance the United States economy.
+      This is all part of the whole national security strategy. I think that we’re probably
+      doing a better job of spelling out the strategy on your show than the document,
+      the December 4th document does itself, although of course it’s important just
+      for the nakedness in which it tries to express U.S. ambitions for Cold War II
+      without really describing what we were watching its strategy unfolding as. ⁣RICHARD
+      WOLFF: What I thought emblematic was von der Leyen’s deal with Trump. It’s two
+      or three months old now, but it was that final step in which Mr. Trump lowered
+      the tariffs on European countries in general to around 15, 16 percent. In exchange
+      for that service – an example of Michael’s notion: we will reduce the damage we’re
+      doing to you – von der Leyen agreed to two things. Number one, there would be
+      a purchase in the neighborhood of $700 billion worth of liquefied natural gas
+      as the energy source for Europe at a price which I believe is roughly three times
+      what the equivalent energy cost would be if they bought Russian oil and gas through
+      a pipeline or by sea. The second thing von der Leyen agreed to do was to establish
+      a fund again of around $700, $750 billion over the next five to ten years of European
+      money that would be invested in the United States. Now, there’s a word in the
+      English language for what von der Leyen agreed to. The word is called tribute.
+      This is the tribute that a subordinate member of an empire pays to whoever is
+      running the empire. It’s like what Rome got from the people around it or the Ottoman
+      Empire at the time of its dominance and so on. Before the document of December
+      4th, all of this was rationalized by the politicians in Europe as a necessary
+      part of winning the war in Ukraine and sustaining the NATO alliance. Well, the
+      war in Ukraine is over in terms of the question of who’s winning, and the NATO
+      alliance is on its final voyage by virtue of the December 4th document. That will
+      actually, and that’s my point, free these lousy European leaderships to take a
+      different direction because the direction they were going in would mean that the
+      left-wing opposition, strong in places like Spain and France, and the right-wing
+      opposition, strong in places like Germany and Poland, would now have less of an
+      opportunity to overthrow these leaders because they would no longer be in the
+      position of being able to make fun of them for having paid the tribute. Every
+      European country would know that its economic development is severely hobbled
+      by what von der Leyen agreed to do. That should never have happened, and now they
+      too have a choice. They too. You know, there’s a rumor, I do not know if it’s
+      true, but there was a rumor two years ago that Macron asked BRICS if the French
+      could join BRICS, and he was turned down. I think we’re going to see the resuscitation
+      of these ideas now in a way that we would not have without that document and what
+      it puts in plain English right out there for everybody to see. ⁣NIMA ALKHORSHID:
+      Michael, if countries stop holding US Treasuries, it seems to me the United States
+      not only loses the global dominance, but also the financial engine that funds
+      its own military. I don’t know if that is considered, this mindset was considered
+      in the document. ⁣MICHAEL HUDSON: You’d think that’s logical enough, but Donald
+      Trump says there’s a silver lining. He said, if the dollar goes down… which he
+      does want the dollar to go down. That’s one of the reasons he wants the Federal
+      Reserve to lower the interest rates so that Americans will sell their treasury
+      securities and buy foreign government bonds that yield more. Donald Trump says,
+      well, if the dollar goes down, that’ll make our exports and industry more competitive.
+      The problem is there isn’t any more industry to be competitive with. He’s living
+      in a fantasy. And much of the Trump strategy and the national security strategy
+      is all about this. It’s all fantasy. Today’s Wall Street Journal says that the
+      U.S. has come out with a new strategy to try to get Europe to indeed grab the
+      200 billion to 240 billion dollars that Russia has on deposit in Belgium with
+      the Euro Clear. And the Wall Street Journal says, well, there is a whole plan
+      for this. The U.S. a few months ago hired BlackRock, the investment company, intending
+      to give BlackRock a contract to survey all the ways in which U.S. companies and
+      their European satellites can make money by investing in Ukraine for rare earths
+      and things like that. The head of Germany, the most vicious anti-Russian European
+      leader, is Merz, who had been working for BlackRock. So he has a personal advantage
+      in being able to leave the government and go back to work for BlackRock. He’s
+      helping to invest and make enormous profits and capital gains from this U.S. and
+      European investment in Ukraine, of which probably 30 to 40% will be pure overcharged
+      profits, as usually is the case with real estate development and essentially all
+      of the payoffs and little white envelopes filled with money, as they say, that
+      go to all these. That really is the plan. And I think the plan is that all this
+      money is going to be seized and used as a fund to invest in Ukraine. One of the
+      crazy things that the Wall Street Journal said is they’re going to have the Zaporizhzhia,
+      if that’s how you pronounce it, the nuclear power plant. The nuclear power plant
+      is going to be used to fuel a whole information processing center because information,
+      automatic intelligence requires enormous amounts of electricity. This electricity
+      is not available in the United States. It obviously isn’t available in Europe
+      because you need gas or solar energy, atomic energy or solar energy for that.
+      I did not add before that one of the ways of blocking foreign energy self-sufficiency
+      instead of relying on U.S. oil is solar and wind energy. U.S. electricity production
+      has been absolutely flat for the last decade. The Wall Street Journal has a great
+      chart on that. China’s electricity production has gone way up. And one of the
+      main sources of this is its solar panels that are creating energy and its wind
+      energy. The United Nations in the climate conferences have tried to push de-dollarization.
+      The United States has blocked the United Nations and other countries from decarbonizing
+      their economies and moving to solar and wind energy because China is the producer
+      of solar panels at the most competitive prices and the most efficient panels,
+      and also the main producer of the metal blades for the windmills that produce
+      the wind energy. I should have added that. That’s the hope, that Ukraine can somehow
+      use the nuclear power of Zaporizhzhia. There’s no way that this can happen because
+      the power plant is part of Luhansk, Donetsk, that is already part of Russia. It’s
+      not part of Ukraine. And Russia is not going to provide the power to Ukraine.
+      In fact Yves Smith has a very good article in today’s Naked Capitalism about what
+      the problem is. How is Ukraine – by Ukraine, I mean what’s left of the shell that
+      will be called Ukraine after the Russian speakers join Russia – going to get energy?
+      In retaliation for Ukraine bombing Russian oil refineries and energy sources,
+      Russia has bombed Ukrainian energy sources. That’s one of the big ways in which
+      it’s trying to speed up the end of the war in Ukraine: it offered a mutual refusal
+      to bomb each other’s energy. And the Americans told the Ukrainians, say, no, no,
+      we want to hurt Russia’s energy. Even if it’s only a pinprick, it’s worth having
+      you all freeze in the dark for your whole country that Russia’s bombing just to
+      give a pinprick to Russia. That’s the standard. The question is: how is Ukraine
+      going to get energy, now that it’s Western Ukraine, no longer having the generators
+      and the transformers for energy? It has the production facilities, but without
+      the transformers, how do you transform either nuclear power or oil or gas power
+      into electricity? Well, you need transformers and electrical equipment that was
+      all following the Soviet standards for many decades and still follows the Soviet
+      standards, just like Russia energy and electrical companies follow the Soviet
+      standards. Western companies are not going to say, okay, we’re going to, of course,
+      rebuild your equipment in the West. That’ll give us an export, but the market
+      for post-Soviet electrical equipment is not large enough to justify investment
+      in all of this. So only Russia can produce the equipment to turn the lights and
+      the factories and the electricity and the heating and the furnaces back on in
+      Western Ukraine. And it’s not going to do this for free because it’s expecting
+      Western Ukraine to pay reparations for the attack on Russian speakers that it’s
+      mounted. This whole fantasy that Europe has signed on to, led by Von der Leyen
+      and Kaja Kallas, is still going strong despite the national security report saying
+      that Europe no longer has viability because its leaders have been utterly rejected
+      by all the opinion polls. I think 12% popularity for Macron, 20% maybe for Mertz.
+      And Starmer is completely out of British politics. The European political system
+      is falling apart. That’s, I think, why Richard said that the military and Cold
+      War system and NATO is falling apart as a result of all of this. ⁣RICHARD WOLFF:
+      I also think that there’s symbolism and there’s reality. I understand that the
+      symbolism is what’s driving this business of seizing the Russian assets. It allows
+      Merz and Macron and Starmer to keep funding that war, which is what they believe
+      keeps them in office. It is they who are holding back the horrible Russian bear
+      from invading all of Europe. They could not admit that moving the NATO boundary
+      right up against Russia was a provocative act against Russia. That word can’t
+      be spoken because that’s Putin’s propaganda. Therefore, you have to come up with
+      something else. What you came up with is, Putin is an imperial crazy person who
+      wants to take over all of Europe. And, when you’re dealing in that kind of gross
+      symbolism, you get the remarks of Kaja Kallas of a couple of weeks ago when she
+      gives a speech explaining how Russia has invaded Europe 19 times and Europe has
+      never invaded Russia. That’s an ability that goes far beyond the limited capabilities
+      of our president in the sheer ignorance of modern history. You know, there’s no
+      Napoleon, there’s no World War I, there’s no Hitler. In her universe, it’s all
+      Mr. Putin. I mean, it tells you how crazy they are. Here’s the importance: $200
+      billion is just not enough for any of this. It is good symbolism. It allows those
+      European leaders not to have to face their parliaments and ask for money to save
+      their political careers because they’ve run out of that option. That’s not there
+      for them. So they need an alternative basket. They’re doing something, which,
+      in fact, I believe the United States opposes. Whatever it says in that article…
+      I could be wrong, but my understanding was that the United States supported the
+      Belgian position that this is way more dangerous for the long-term viability of
+      Europe as a place to keep your money, of the dollar as a place to keep your money,
+      for the whole world’s rich people and governments, [just] to salvage the career
+      of a politician who knows, as everybody does, that the war they’re supporting
+      is going to be lost. I mean, maybe if that flies, it’ll tell you that Europe is
+      an even more desperate position than I think it’s in. I think this is lots of
+      headlines, lots of dancing around, lots of glimmers of hope. But, you know, the
+      IMF doesn’t like it. The World Bank didn’t like it. The Belgian government didn’t
+      like it. The clearance agency there in Belgium that handles it didn’t like it.
+      The United States is very noticeably not pushing it officially. So my guess is
+      this is part of the desperation of a dying empire engaged in a losing war. You
+      get these suggestions. ⁣MICHAEL HUDSON: It’s this desperation that led to what
+      the Wall Street Journal was reporting: there are groups in the United States,
+      certainly within the State Department, that are pressing for exactly this. So
+      obviously, the U.S. speaks with a forked tongue. You accused the Estonian lady
+      Kallas of being ignorant. Well, when I grew up in the 1950s, there was a radio
+      show that I used to listen to. It was called, It Pays to Be Ignorant. It was half
+      a comedy question show. And it does pay to be ignorant. I’m sure it’s paid Kallas
+      very well. There’s some question about whether there’s been quite a bit of embezzlement
+      under her regime. And the question is: what’s going to be stronger? Will the narrative
+      be stronger or will reality be stronger? Well, we’ve seen the narrative of industrial
+      capitalism and libertarianism and free markets and cryptocurrency being stronger
+      than the reality of all of these for the last many decades. Just because something’s
+      not realistic doesn’t mean that it won’t dominate public opinion. Obviously, this
+      has not worked for Starmer, Merz, and Macron, but the United States always has
+      hope springing eternal that ignorance and narrative can win out over reality and
+      material self-interest. ⁣RICHARD WOLFF: I would like to make one point. If the
+      United States, as the December 4th paper suggests, is reviving or (maybe a better
+      word) reaffirming the Monroe Doctrine, and so retreating from an effort to control
+      the whole world to an effort to control Latin America, if that is real in the
+      sense of a strategic shift, and if Venezuela is a sign of what that means in terms
+      of what the United States is willing to do, then I think you’re going to also
+      see, in addition to everything else we’ve talked about, a fantastic struggle emerging
+      now and in the years ahead between the United States on the one hand and major
+      forces in Latin America on the other. You cannot do this again. You’ve done it
+      from 1830 when the Monroe Doctrine begins to the present. Okay. But you cannot
+      keep doing what might have worked at a time past century now. As an example, once
+      upon a time, settler colonialism was doable. The British could settle people in
+      Australia, in New Zealand, in South Africa, in the United States, in Canada, and
+      so on. And you could kill large numbers of people to clear the land so that you
+      could settle your people. But you can’t do that now. Or to say the same thing,
+      to try to do it now is to be in the situation of Israel and Palestine. And look
+      what that produced. And you might be able to pull that off in a country that has
+      8 million Israelis and 8 million Palestinians, roughly. You cannot do that with
+      the United States and Brazil or Chile or Mexico. This would be a recipe for unspeakable
+      violence, bitterness, and organization. The Organization of American States is
+      a fractured institution. Its silence about what’s going on in Venezuela or relative
+      silence is very loud in its implications. But I don’t think that’s a viable institution.
+      I think there will be efforts by Latin Americans to fight back. They are better
+      organized to do that now than they ever have been. And they will have friends
+      in Russia and China and all the rest of it. This is not going to be a secure arrangement
+      for the United States because the rest of the world will not observe it. The Monroe
+      Doctrine, just to remind people, was a deal. And it was a deal made between the
+      United States and Britain because the British had tried to prevent the independence
+      of the United States, a runaway colony. But to everyone’s surprise, it had been
+      defeated in the War of Independence in 1776, and it was defeated again in the
+      War of 1812. After being defeated twice, it understood what it couldn’t do. So
+      it made a deal. You get Latin America, we get everything else, which is how the
+      rest of that century worked out. But you can’t do that now. Anti-colonialism is
+      now the dominant ideological construct in the world, embraced by the vast majority
+      of its people. Only a country that imagines the alternative to what I’ve just
+      described being even worse would undertake the strategic initiative articulated
+      in the December 4 paper. Transcription and Diarization: https://scripthub.dev
+      Editing: ton yeh Review: ced Image by jackie young from Pixabay The post How U.S.
+      Security Became a Global Risk first appeared on Michael Hudson .'
+    one_sentence_summary: In a podcast discussion on December 11, 2025, Nima Alkhorshid,
+      Richard Wolff, and Michael Hudson explore the implications of the United States'
+      new national security strategy, which identifies China as its primary adversary
+      and raises questions about the U.S.'s reliance on controlling other nations for
+      its security.
+    paragraph_summary: In a podcast discussion on December 11, 2025, hosts Nima Alkhorchid,
+      Richard Wolff, and Michael Hudson delve into the implications of the United States'
+      new national security strategy, which identifies China as its primary adversary.
+      Hudson argues that the U.S. conception of security is fundamentally flawed, as
+      it relies on controlling other nations and their environments, leading to a sense
+      of insecurity when other countries assert their sovereignty. He highlights the
+      paradox of U.S. military presence, with 800 bases worldwide, which threatens the
+      security of other nations and creates a global asymmetry. Hudson references Vladimir
+      Putin's perspective that security should be mutual among all countries, criticizing
+      NATO's expansion as a direct threat to Russia's security and emphasizing the need
+      for a more equitable approach to international relations.
+    published: '2025-12-27T21:53:26+00:00'
+  - title: The Party Machines Lose
+    url: https://michael-hudson.com/2025/12/the-party-machines-lose/
+    text: '⁣NIMA ALKHORSHID: Hi, everybody. Today is Thursday, November 6, 2025, and
+      our dear friends, Richard Wolff and Michael Hudson, are here with us. Welcome
+      back, Richard and Michael. ⁣RICHARD WOLFF & MICHAEL HUDSON: Glad to be here. ⁣NIMA
+      ALKHORSHID: Let me start with what has happened in New York. And the mayoral election,
+      the outcome was someone — you look at him, all red lines are on him: he’s a Muslim,
+      socialist, immigrant — it’s amazing to see, you know, because the billionaires
+      invested, they paid more than, if I’m not mistaken, $40 million against him in
+      this campaign. And after all, [Zohran] Mamdani was successful in his way of getting
+      to the position. Michael, looking at what has happened in New York, what is your
+      understanding of what has happened, and what does it mean for the future of the
+      Democratic Party? ⁣MICHAEL HUDSON: Well, both parties are trying to spin the election.
+      The Democrats are trying to say, well, you see, we won. It’s all a rejection of
+      Trump. And the Republicans are trying to make it appear it’s all about socialism
+      — and look at the right-wing Democrats who won in Virginia and New Jersey. But
+      the fact is that both the Republicans and the Democratic parties lost, as a result
+      of New York City. All of the attention, as you’ve just pointed out, is on New
+      York City. Even though that was the most local election, it had a national scope
+      because it’s the future of not only the Democratic Party, but what the next year’s
+      midterm elections are going to be all about. The Republicans lost the elections
+      in New Jersey to the governor, who wanted to lower the electric bills that have
+      been raised against the population; and Virginia elected a CIA Democrat, who obviously
+      is part of the right-wing part of the Democratic Party. So, the Democrats are
+      claiming a victory. But all of this was overshadowed by Mamdani’s victory in New
+      York City, and his win is what made the Democrats the loser, despite the fact
+      that the election was local. He was really running against the Democratic National
+      Committee; and its leaders have announced their outright hatred, not only for
+      him, but, for the last year, for Bernie Sanders, for AOC [Alexandria Ocasio-Cortez].
+      The Democratic National Committee is saying: We have to prevent the party from
+      turning left. We have to support Israel. We have to support Wall Street. We have
+      to oppose progressive taxation — and essentially [keep] doing what we’ve been
+      doing all along, being soft-core Republicans. And now all of that has been repudiated.
+      And so Mamdani was running not only against the disgraced former governor of New
+      York, Andrew Cuomo, not only against the Republicans, but really against all of
+      the money — the $40 million that you mentioned — that was all mobilized against
+      him. And in that sense, he was defined not simply by his program of providing
+      free bus rides and child care, but he was defined by his enemies, who were attacking
+      him by making all sorts of claims that he was a Marxist, a socialist — It’s as
+      if the newspapers are too embarrassed to say that there have been public opinion
+      polls (that Richard and I have mentioned before on your show), that the voters
+      prefer the word “socialism” to “capitalism.” “Socialism” isn’t a bad word. So,
+      by calling him “socialism” for wanting to improve transportation; “socialism”
+      for protecting tenants’ rights against landlords; “socialism” for improving the
+      lot of New Yorkers and progressively taxing wealth — he not only takes away the
+      Democratic base, but the Republican base for this. And the reason that the $40
+      million came from wealthy Zionists wasn’t because of his socialism. It was because
+      they’re trying to defeat him. [W]hat made people so passionate over this election
+      was the whole issue of Zionism — brought up by his opponents, such as the Democratic
+      Senate leader, Chuck Schumer, who refused to support Mamdani, saying that Mamdani
+      was defending the Palestinians against the Israeli bombing and he could not support
+      that. Well, what better support could you want from a New York population? And
+      the fact that over 70% of New York’s Jewish population voted for Mamdani shows
+      the attempt to slander him, how off-[putting] it is. And if you look at the only
+      districts that Mamdani lost, [they] were in the fundamentalist Orthodox Jewish
+      Brooklyn area, and Queens (near Long Island) — who, of course, saw that the election
+      was all about Zionism. A Wall Street Journal editorial today really, I think,
+      spells out the story best of all. It said, “If [New York Governor Kathy] Hochul
+      turns left [in next year’s election for the governor], she may defeat [her Lieutenant
+      Governor] Antonio Delgado, who will run from the Mamdani left. [But] [i]f Ms.
+      Hochul turns left, she may defeat Mr. Delgado but leave herself open to a likely
+      GOP [Republican] challenge from Rep. Elise Stefanik.” Well, Stefanik was the hectoring
+      lady in Congress who attacked the presidents of Columbia [University] and Harvard
+      [University] for permitting protests against the Israeli attack on the Palestinians.
+      And she attacked these universities for not expelling students who opposed genocide,
+      students who said: The Palestinians are human beings, they’re civilians. This
+      is against the laws of war. It’s against all international law. She said: They
+      must be expelled, and any professor who gives voice to a Palestinian point of
+      view must be expelled from your university. Harvard and Columbia duly expelled
+      the professors and expelled the students from the university. And if that is what
+      the election for New York Senate is going to be all about next year, you can be
+      sure that this is going to be splitting the whole U.S. electoral campaign, just
+      as the split over Charlie Kirk has been splitting his right-wing Republican following
+      over the issue of Zionism. And that’s what the newspapers are hesitating from
+      [writing]. The Republicans are afraid to acknowledge that that is what the election
+      was about. They’re pretending that it was about Marxism. And it’s not about Marxism
+      at all. There’s nothing Marxist about providing subsidized education, so that
+      workers can afford to earn a lower salary from their employers and make their
+      employers more competitive. I mean, that’s basic 19th-century classical-industrial-capitalist
+      strategy to become more competitive. It’s all really about the Zionist issue.
+      And in the Wall Street Journal (same issue), you have, on the next editorial page,
+      a Jewish writer [worrying] — “[i]f socialists become the Democratic Party’s face”
+      [as Karl Rove wrote in the same issue] — he’s going to be afraid to wear his kippah
+      (his yarmulke) in public; he bought a newsboy’s hat because he thinks that somehow
+      the Jewish population will be threatened. This is hysteria. And the hysteria is
+      part of what has really motivated, I think, Mamdani’s voters to say: We don’t
+      want any part of this. We’re not going to go along with this demagogy — at all.
+      Trump has already said that if New York voted for Mamdani, he’s going to pull
+      all public federal support for New York out. And the Republicans and Democrats
+      want to treat New York City like the United States and Europe treated Soviet Russia
+      after its revolution: try to do everything you can to oppose it, to drain it,
+      to isolate it, to make it harder to govern — and, then, say, socialism doesn’t
+      work — when they have to spend all their time defending themselves. This is what
+      it’s going to be about. In fact, I just got (yesterday) this month’s The Nation
+      magazine, the left-wing magazine from the last century. And there’s an article
+      about how the black caucus in the United States (the representatives in Congress)
+      has been dominated by AIPAC [American Israel Public Affairs Committee], saying
+      that if they do not follow the AIPAC pro-Zionist line, they will be opposed; and
+      AIPAC will fund their opponents in order to, essentially, mobilize election money
+      for Zionism. So, somehow, this issue has overwhelmed the whole electoral process
+      here. ⁣NIMA ALKHORSHID: Richard, looking at who voted for Mamdani, the young people
+      under the age of 30, more than 75% voted for Mamdani. And here is what Donald
+      Trump [posted] before the election happened: “Any Jewish person that votes for
+      Zohran Mamdani, a proven and self-professed JEW HATER, is a stupid person!!!”
+      And we know that Bernie Sanders, since the Democrats didn’t want to support Mamdani,
+      but Bernie Sanders went after him. And we know what has happened to Bernie Sanders
+      during the presidential election. This time, he came and supported Mamdani. In
+      those days, [Sanders] had nobody to support him against Hillary Clinton. But what’s
+      your understanding of what has happened? ⁣RICHARD WOLFF: Well, I’m coming at it
+      from a little bit of a different perspective from Michael, but I think they’re
+      complementary [perspectives], or they can go together. I want to talk about the
+      history here, because I think this is a historic shift. It began with Bernie —
+      no question. It was given an extra boost by Alexandria Ocasio-Cortez and the group
+      of young women who came into prominence with her. And now it has taken a quantitative
+      new additional leap with the election of Mamdani. But I want to talk about the
+      hysteria in historical perspective. It ranges from the pathetic to the ridiculous.
+      I mean, we are watching — whether it’s the Wall Street Journal , or Elise Stefanik,
+      or anything like that — spewing their hysterical reaction that makes no sense.
+      It’s a revelation of their ignorance. They ought to be embarrassed, and they will,
+      one day. What do I mean? Mamdani is a Democratic Socialist. He emphasizes the
+      phrase “Democratic Socialist,” which he has every right to do. It is a kind of
+      socialism that he advocates. It’s very close to what used to be called “municipal
+      socialism.” Why? Because it is the kind of limited, moderate policy changes that
+      mayors have tried to do in American and in foreign cities — for the last two centuries!
+      It is not revolutionary. It doesn’t usher in anything like the hysterical remarks
+      being made by Americans. You know what this response shows? It shows that for
+      75 years, since the end of the Second World War, the United States has buried
+      its head in the sand and pretended that socialism, communism, Marxism, are all
+      something evil and horrible — over there. They haven’t understood how it developed.
+      They don’t understand the different points of view within socialism. None of it.
+      They don’t know or care. And so they see a socialist, they don’t understand how
+      to understand it, other than in their underdeveloped, 75-year, out-of-date backwardness.
+      Let me get at this a second way. Someone once counted up: seventy-five American
+      cities in the history of this country have had mayors who were socialists, and
+      said so. I know from my research — I did a lot of work once on the mayoralty in
+      Bridgeport, Connecticut. I did that because I ran for mayor of the city of New
+      Haven, Connecticut, which, like Bridgeport, is one of the three sizable cities
+      in the state of Connecticut. Bridgeport had a socialist mayor for many years.
+      Nothing of the sort of the hallucinations of the right wing happened in Bridgeport
+      during the time of their mayor. Ditto, Milwaukee. Ditto, all the 75 [cities].
+      Number one. Number two. Right now in Europe, there are socialist mayors. A number
+      of the major cities of Europe — by the way, places like Paris, London, Milan,
+      and so on, are governed by socialists, or have been at various moments in their
+      history — nothing of the fantasy-horrors that are being spun out in the American
+      media ever happened there. Socialist parties are regular participants in every
+      country in Europe, and beyond. But I want to talk about Europe, otherwise, I’ll
+      take too much time. So, what you’re seeing in the response of the right wing in
+      this country is a sign of its utter ignorance and bad education — and being, as
+      I say, 75 years out of date: talking like they talked back in the days of the
+      House Un-American Activities Committee. Think of the very name — ridiculous, you
+      know, as if they have the sole authority to decide what is, and isn’t, American.
+      It’s a joke. That’s the first thing. The second thing. It’s important to understand
+      that this is a sign of real serious trouble. This is something Michael and I have
+      tried very hard to get across. My language: it’s a decline of our empire. It is
+      a series of problems, many of which Michael has very, very creatively shown us:
+      how they’ve accumulated; what their history is; how the people in charge have
+      not solved these problems have basically kicked them down the road, during which
+      time they have accumulated and gotten worse. If you don’t solve your medical problems,
+      they get worse; you don’t solve your psychological issues, they get worse. Well,
+      it’s in economics, as well. And this is a sign that the people of New York, who
+      aren’t that different from people anywhere else, made a decision. And here’s what
+      I think the election showed. Mr. [Curtis] Sliwa (the Republican) and Mr. Cuomo
+      (the Democrat) represent, in their totality, the same old, same old, same old.
+      Literally — Sliwa has been a candidate for as long as I can remember here in New
+      York. And as we all know, Cuomo was a governor, he worked with the Clintons, and
+      blah — it’s all the same. And nothing either of them said gave anyone any reason
+      to believe that they would be, in the future, any different from the nothing that
+      they were in the past. Therefore, Mr. Mamdani had an unbelievable opportunity.
+      All he had to do — and by the way, I don’t take away anything. He ran a brilliant
+      campaign. He’s very successful. He deserves everybody’s amazement and congratulations.
+      So, I don’t want any confusion in what I’m about to say — but he cashed in, as
+      successful politicians always do, on something much bigger, and different, from
+      himself. He was the obvious, different, new change. He embodied it: a Muslim in
+      New York, a socialist in this country. Wow. Who would have thought it? Things
+      are changing. Of course, young people come (75%). They want change. They know
+      that the “American Dream” promised to them is not available anymore. No one has
+      to persuade them. They’re already there. They want change. And looking at Sliwa
+      and Cuomo and Mamdani? That’s easy, where your best chance for change is! Now,
+      the last point. Yes, he’s a socialist. And I don’t know exactly what that means
+      to him, since I’m very aware that socialism means very different things to different
+      people. The Soviet Union was one kind of socialism. Norman Thomas, who was the
+      great leader of the American socialists for many years, was a deadly opponent
+      of the Soviet Union, and all that it stood for. So that shows you that people
+      who wanted the name “socialist” could mean very different things. There’s a Trotskyite
+      tradition, which goes in yet another direction. The current people who lead China
+      refer to their country as “socialism with Chinese characteristics.” Okay, where
+      in all of that does Mamdani fit? Well, America is too backward in this area to
+      be even able to ask the question. So, everyone’s fantasy of what it might mean
+      just blurts out — and I mean the pages of the New York Times and the Wall Street
+      Journal — it’s embarrassing that you know so little that you don’t even understand
+      this “socialism” of Mamdani, who calls it “democratic,” and who tells you, quite
+      clearly, what he plans to do! This is a remarkable statement, but it carries enormous
+      implications, also for the emerging new left in the United States; because he,
+      like Ocasio-Cortez, and like Bernie, [they] are going to be the standard-bearers.
+      By virtue of what has happened, they are going to be “socialism.” But I guarantee
+      you what I’m about to say is true. (I don’t believe in prediction — I can’t predict
+      anything, and nobody else can — but I’m going to do it anyway.) The other kinds
+      of socialism are waiting in the wings. They will emerge now. Why do I say that?
+      Because they have everywhere else on this planet; so they’re going to do that
+      here, too. So, a word to the wise, if they’re smart enough to listen. Mr. Bloomberg
+      (who gave the most money); or the owner of Airbnb (who gave a lot of money); or
+      Home Depot’s Mr. [Ken] Langone (who gave a lot of money); let me give you a piece
+      of advice: You better be glad that Mamdani won, because the other socialists coming
+      down the road are going to be a lot worse for you than he will be. That’s the
+      reality. But that’s also a challenge to Mr. Mamdani. He also has to face the scale
+      of his solutions, which, I suspect, he knows, is inadequate to the scale of the
+      problems he faces: You are not going to solve the problems of the United States
+      (that we have been spending months on this program, trying to clarify and explain).
+      You’re not going to solve them — not with free buses; and not with public grocery
+      stores in food deserts; and not with a 2% tax on wealth above $100 million; or
+      whatever it is that is his [program] — it’s perfectly good as a program. I’m glad
+      he’s putting it forward. But here’s the problem — and he should learn from Mr.
+      Trump. This was a resounding defeat for Mr. Trump. And you know why? Not because
+      of how he speaks, or the extreme stuff he does. (I wish it were a defeat for those
+      reasons — but it wasn’t.) It was a defeat because what he’s doing, Mr. Trump cannot,
+      will not, and did not solve the problems he inherited. His Big Beautiful (tax)
+      Bill makes those problems worse. His tariff program, whether or not the Supreme
+      Court allows it, doesn’t solve these problems. It can’t. That, Mr. Mamdani, you
+      have to understand, too. You, too, will be confronted, like Trump, with asking
+      the difficult question: What has to be done to deal with the actual problems we
+      have? You can do it, but you have to admit that that’s the case. Otherwise, you
+      will discover — like Mr. Trump is discovering — that promising people quick-and-easy
+      solutions — as if they were available, and as if you could deliver them — doesn’t
+      work. And it will turn those people away from you. And that’s what happened to
+      him. And it’s going to happen to him more, and more, and more. And as it does,
+      the people around him will abandon him. It’s already happening, and it will happen
+      more. But the cautionary tale is, that problem confronts the left as well. ⁣MICHAEL
+      HUDSON: Thank you, Richard, for reminding us about municipal socialism in America.
+      That has always been one of the forces behind socialism. In the 1950s when I grew
+      up, it was Robert La Follette [Jr.] of Milwaukee who led this whole reform, and
+      it made all of Wisconsin progressive. And the city where I grew up (Minneapolis)
+      was, I think, the only Trotskyist city in the entire world that led to the Minneapolis
+      general strikes of the 1930s. And even the governor of Minnesota, Floyd B. Olson,
+      said he hoped capitalism went right to hell. That got him re-elected! You could
+      say that socialism in America demonstrated the way in which it worked from the
+      only place where it had a chance of doing that — and that was at the local level.
+      I want to get back to the national level in this case, because the national level
+      is where the money comes in for campaigning for the local level. And what terrifies
+      both the Democrats and the Republican Party leadership is that most of the midterm
+      elections are going to be, as I said, over Zionism and the Israeli violence in
+      Gaza and the West Bank. That was the issue that was largely responsible for the
+      Democrats’ loss in the November presidential election. As Jill Stein and I forecast
+      in our interviews with you, Nima, the Islamic voters in Pennsylvania, Michigan,
+      and Minnesota, refused to vote for the Democrat Kamala Harris because of her reliance
+      on Zionist donors and her steadfast support of Israel First. And that is one of
+      the reasons why yesterday’s Democratic victories in New Jersey and Virginia were
+      much stronger margins for the Democrats than the presidential vote for Harris.
+      She was unpopular because she continued Biden’s pro-war policy, the policy that
+      Trump has escalated in making the wars in Ukraine, Israel — now Venezuela and
+      Nigeria — his war. So, there’s a movement to oppose any candidate that’s receiving
+      election financing, basically, from AIPAC. And that’s threatened to become a litmus
+      test for candidates. The Democrats’ opposition to the National Committee is going
+      to be: Will you refuse to vote for any politician who receives money from AIPAC?
+      Well, AIPAC already realized this, and said: We’ve got to create a Zionist pro-Israel
+      campaign system that’s not AIPAC, that’s funded by the wealthy billionaires from
+      Silicon Valley, and other billionaires who are defending Israel. The fight against
+      Mamdani is, in that sense, going to be a fight by politicians to keep receiving
+      campaign contributions for themselves — above all from AIPAC, but also from other
+      donors with special interests. And that’s what the entire American political election
+      system has turned into. The election system has been privatized in this country,
+      and sold to the donor class. That is the consequence of the Supreme Court’s ruling
+      in Citizens United, that any corporation and any donor can give as much money
+      as they want to politicians. There is no limit at all. Well, Mamdani came in with
+      much less funding than anyone else, and won. So he’s challenged this whole system,
+      but he’s raised the issue for what’s going to be the statewide elections and for
+      next year’s national elections in the United States: How is American politics
+      going to survive this privatization and financialization of elections? If it doesn’t
+      solve this, then the United States is going to be a failed state politically,
+      because the right-wing demand for “originalism” in the Supreme Court is to say,
+      well, what would the slave owners who wrote the Constitution rule today? Well,
+      they would back all of the right-wingers. And you had the same fight occur in
+      Athens in the 4th century BC. What was the original Constitution of Solon? What
+      did Solon really do? Well, there were rival views of what the Constitution was
+      all about. One of the upshots of this New York election and municipal socialism
+      is going to be the whole issue of, basically, oligarchy and campaigns. And that’s
+      why Mamdani has again and again used the word “oligarchy.” And that’s where he’s
+      distinguishing himself from others. And the issue? Really, it’s not Marxism; it’s
+      not socialism as such because there are so many different kinds of socialism,
+      as Richard has pointed out. It’s oligarchy versus real democracy, which means
+      policies that are enacted to protect the population at large — of tenants, of
+      wage earners, of the bottom 90% of the population — not just the top 10%, as we’ve
+      been talking about. So, this is exactly what the 2026 Senate elections are going
+      to be about. And if AOC runs against Chuck Schumer, trying to unseat him — same
+      thing with the House of Representatives — you’re going to have the Democrats,
+      particularly, running against Bernie Sanders, AOC, [against] any attempt to have
+      public health care because that threatens to cut off their own flow of election
+      contributions from the special interests. So, all of this goes beyond political
+      ideology itself. It has to do with the whole structuring of the political system.
+      And that’s why both the Republicans and the Democrats were so shocked by Mamdani’s
+      win, and why his win is so historical — if it will actually change things. People
+      have been saying: Well, look at how Bernie and AOC ended up surrendering to [Nancy]
+      Pelosi and Schumer, and just going along with the Democratic majority. They were
+      co-opted. Well, Mamdani is free of the pressure that was brought against both
+      Bernie Sanders and AOC because there’s no party above him as Mayor of New York.
+      There’s no one who can tell him what to do, or say: If you don’t support this
+      policy, we won’t put you on a powerful committee, a such-and-such committee; or
+      we won’t give you any voice. He now has the voice to do what he wants. Today he
+      appointed Lina Khan, Biden’s excellent anti-monopoly lawyer, as one of his co-chairs
+      for his mayoral [transition] campaign. He’s bringing all the progressives on this
+      [transition] team with him. And what he’s going to be doing is not simply a personal
+      fight for New York — he’s a very gifted politician, he’s a natural as a politician,
+      for any of you who’ve listened to his victory speech the other night. It’s really
+      a whole — his team will say: There is an alternative, and there’s no other alternative
+      on the schedule; and we’re going to start with this alternative on a New York
+      scale, if we can. And if we’re opposed by Trump and by the federal government,
+      trying to starve us for transportation funds and all the federal funds that come
+      in; if Trump sends in the National Guard to begin arresting citizens — one of
+      Trump’s supporters yesterday said he wants ICE (the Immigration authority), to
+      look at Mamdani’s citizenship application, and said: Was there anything wrong?
+      Was there a typographical error? If so, let’s deport him back to Africa. You already
+      have seen that breaking out yesterday. That’s the stakes that we’re seeing in
+      what is going to be the policies he has for mayor. ⁣NIMA ALKHORSHID: Richard,
+      I think the main point, what Michael just said, is so important: Who’s going to
+      be on his team and what would be the policies that he’s going to adopt? After
+      all, we know that the status quo doesn’t work in the United States. That’s why
+      people are voting for Mamdani and people like him. And it’s not just about the
+      Democratic Party. Within the Republican Party, the same thing is happening. And
+      here is just a short clip of what Tucker Carlson said. LINDSEY GRAHAM (CLIP):
+      […] the Republican Party. We’re killing all the right people and we’re cutting
+      your taxes. ⁣TUCKER CARLSON (CLIP): Cutting your taxes and killing all the right
+      people. That really is the crispest way to describe the marriage of libertarian
+      economics and neocon foreign policy: cuttin’ taxes and killin’. And if you think
+      about it, who’d want to be associated with that? Cutting taxes itself is hardly
+      a virtue. It’s a contextual matter. Sometimes it is, sometimes it is. It totally
+      depends. But in Lindsey Graham’s simplistic-but-heartfelt formulation, cutting
+      taxes is just a positive good, always. And so is killing people. Killing the right
+      people. No, they got to be the right people, but killing people. Killing people
+      is just a good thing. Like, it’s one of the things you don’t need to describe
+      […] ⁣NIMA ALKHORSHID: Yeah. ⁣RICHARD WOLFF: You know, the problem with Tucker
+      Carlson is he doesn’t understand how far that reaches, so he can only come up
+      with the examples that he comes up with. But let me take it another step, because
+      it’s all about what Mamdani is going to have to do. When Mr. Trump comes into
+      office, he has a problem. The American national debt has ballooned faster than
+      anything else. What is it now? $35 trillion, or more than that. In a very short
+      time, it went from a few hundred billion to $35 trillion — out of control national
+      debt. So bad that we lose our AAA credit rating. So bad that we get statements
+      by lenders that they don’t want to lend to the United States anymore because they’re
+      not confident in the ability to pay — which is why you don’t have a AAA rating.
+      So, he comes in, and he’s got a problem. He’s going to do something. He promises
+      he’s going to do something about this national debt, about the ability of the
+      United States to borrow. And for those who don’t understand, a reminder: Every
+      major war, starting in Vietnam, that we have fought in recent times has been paid
+      for by borrowing; and the reason is you cannot fight these wars if you were to
+      make the American people pay the tax to pay for it, because they’d oppose it right
+      from the beginning. Now it takes a year to get into these wars before the American
+      people begin to realize the hopeless[ness] and pointlessness of it — for them.
+      So, you’ve got to be able to borrow. You cannot run your foreign policy. You can’t
+      even run your government. Why is that? Very simple. We have a politics in which
+      corporations and the rich demand of the government all kinds of services — but
+      they don’t want to pay taxes. And by donating — or not — they can force the politicians
+      not to tax them. Okay? What about the mass of people? They want the government
+      to give them all kinds of benefits: schooling, hospitals, roads, policing, fire
+      department, you name it. And they don’t want to pay taxes — but they’ve been forced
+      to. The burden of taxation, as anyone knows who studies it, has been shifted,
+      over the last century, from corporations and the rich to the average person, the
+      middle class. That’s what’s happened. So, Mr. Trump comes into office after this;
+      but he’s got a problem. He can’t just borrow some more. He did that in his first
+      presidential run, and everybody pointed out, you didn’t solve the government’s
+      debt, you made it worse — which, of course, was true because he inherited the
+      structure that was doing that before him, did it during him, and did it after
+      him under Biden. So, what is he going to do? The only thing he knows: try to do
+      what Republicans do — more so. What does that mean? Don’t tax corporations and
+      the rich. Once again, the first act of his new presidency, the current second
+      term, Big Beautiful (tax) Bill — extend the tax cuts of the first regime, and
+      add a few more — which is what he did. So, what’s left? There’s no way to reduce
+      the government debt if you’re not going to tax the corporations and the rich.
+      You dare not tax the mass of people because that’s your political base. So, what
+      do you do? There’s only one thing left. You have to cut expenditures. The first
+      phase he does with Elon Musk, and he raises the banner, Efficiency: I’m going
+      to cut the government, by efficiency. And when that runs out of gas, and runs
+      into every difficulty imaginable, he has to drop it. He kicks Mr. Musk to the
+      curb, throws him under the bus, and comes up with a new way to save money called
+      the government shutdown that we’re living through. That’s as fanciful nonsense
+      as the efficiency bullshit was before. All he’s doing — and of course, this is
+      not enough — he’s trying to save money so he can do something about the national
+      debt, which he’s inherited. But he can’t do it on the scale that will make a difference.
+      So, he’s stuck. And you know how he knows he’s stuck? Because of the elections
+      two days ago. That’s his sign: You’re stuck, Jack. The collection of things you’re
+      doing adds up to people finding reasons not to vote for you, or for the people
+      you endorse. Everyone he endorsed lost. Everyone he opposed won. Not just Mamdani.
+      And I understand what Michael said about the other Democrats. They’re nothing
+      to write home about, but those were the people that Trump was able to defeat before
+      — can’t do it anymore. That is a problem. Michael is right: Mamdani is going to
+      face every conceivable kind of obstacle, opposition. If he begins to do the things
+      he’s going to have to do, that opposition will get worse. But if he doesn’t do
+      it, he’s going to find the same sad story. The people who voted for him are giving
+      him a chance. But if he doesn’t produce, they will vote against him next time.
+      They really will. And they’ll have a lot of help doing that. New York City is
+      the home to more billionaires in this country than any place else — so, he’s got
+      ‘em. England has a whole bevy of laws, in case he needs them, that require anyone
+      who leaves Britain to pay for all the benefits they got while they were in Britain,
+      as a condition of leaving. Oh, oh. Here, billionaires threaten to leave, and nobody
+      dares say anything. Will Mr. Mamdani have the courage and the foresight to know
+      he cannot give the same answer? He has to go — not just because that will pay
+      for his programs, which it will. His programs are modest. If you look at the cost
+      of grocery stores and free bus rides, it’s not expensive, relative to the budget
+      of the City of New York, anyway. But he has to do it. He has to do it for political
+      reasons. And he has to have advisors who are able and willing to see, and to help
+      him navigate that situation. ⁣MICHAEL HUDSON: I think you’re right about the fact
+      that many of the reforms that he can do don’t cost more money. For instance, one
+      of the things he can do to support tenants’ rights is you end the building department
+      corruption that was inherited from [the] Mayor [Ed] Koch regime and from [Rudolph]
+      Giuliani, where the building departments run by the developers have enabled developers,
+      like Trump, to simply tear down landmark buildings without really being fined
+      more than a token cost of doing business. The developers have run the city; the
+      landlords have run the city courts against the tenants. And by providing public
+      lawyers for the tenants, you can defend against the landlord interests in these
+      tenant courts. And the fact that Mamdani has said that New York is unlivable —
+      with an average rent of over $4,500 a month in New York, who can afford to actually
+      live here if you don’t inherit enough money, [or] get a [high-paying] job? He
+      can tax Wall Street, as you said. That’s really the key. Are these billionaires,
+      concentrated in New York City as the nation’s financial center, really going to
+      move out? Well, hard to move to Florida these days, with all of the hurricanes
+      threatening the property there. There’s really nowhere for them to move out. So,
+      of course, he can raise the rents. He’s going to have to drag the city council
+      and other agencies along. It would be nice if he can drag the current center-right
+      Governor Hochul around to imposing the (originally higher) charges for driving
+      your automobile into the city that is still paralyzing traffic here. And the subways
+      have spent all of the money to help developers on the upper east side from the
+      Second Avenue extension, so that they have not fixed the subways going outside
+      of Manhattan — to Queens, to Brooklyn, and to the Bronx. (Last night, my wife’s
+      45-minute trip took her an hour and a half, including sitting in the dark for
+      over half an hour when the electricity was turned off on the line to where we
+      live in Forest Hills, Queens.) The subways are falling apart — which is where
+      most of the wage earners live, who have to earn a living in Manhattan, and can’t
+      afford to live there anymore because of the rents. So, all of these things can
+      be done without much money. The money squeeze, I think, is not going to be from
+      what Mamdani does, but from the withdrawal of state and federal support that has
+      been subsidizing New York — as long as it was pro-landlord, pro-Wall Street, pro-oligarchy
+      — all along. That’s going to be a fight. And again, that fight is going to be
+      more than just a municipal fight. It’s going to be a national fight, against municipal
+      socialism and the obvious things that Mamdani has promised, which is why he got
+      so many good followers from the beginning. ⁣NIMA ALKHORSHID: Richard, I think
+      this is a huge opportunity for a socialist working in New York City. How helpful
+      could Bernie Sanders be for this sort of movement in New York City? And how is
+      [Mamdani] going to use the experience of Bernie Sanders? What do we know about
+      the relationship between the two? ⁣RICHARD WOLFF: Well, at this point, the first
+      answer is he could use help from Bernie Sanders, all the time. I mean, he needs
+      Bernie to be out there helping him carry the message, if you like, nationwide.
+      Bernie is at the top of many polls. People should know this. There are people
+      who go around asking the question: In your judgment, as an American citizen, who’s
+      the most popular politician you can think of? And Bernie wins that contest, over
+      and over, because even though he didn’t win the election, he, therefore, has none
+      of the negativity. He hasn’t had to face promises made that he couldn’t deliver
+      on — because people didn’t give him the job. So, he’s able to say: I told you
+      so. This needs to be done. You didn’t do it. And so we have a problem. And that’s
+      a very much better position to be in, when an empire is declining, because you’re
+      going to be facing losses, one after the other. I mean, let me remind people —
+      because Americans don’t want to face it — that, for example, the CEO of NVIDIA,
+      Mr. [Jensen] Huang, gave a speech yesterday, in which he basically said that we
+      should understand that the artificial intelligence revolution has now been won,
+      and the winner is the People’s Republic of China. This is true across the board
+      — militarily, politically, economically. The BRICS alliance is exploding in the
+      world. It has lots of problems, of course. It encompasses very different political
+      and economic — I don’t want to make it simple — and it’s not all pro-Chinese,
+      or anything like that — but it’s a viable alternative. The power of Mr. Trump
+      — the last cudgel he could use on the rest of the world to beat them into shape
+      — is: I won’t let you come and trade here. I won’t let you buy here. I won’t let
+      you sell here. You’re going to have to give me a lot of money, if you want to
+      sell your goods here. I’ll only hit you with a low tariff, if you make big [investments]
+      — He’s demanding tribute from the whole world. But it’s too late. It would have
+      had to have been done 20 years ago. It might have worked then. But it wasn’t necessary.
+      Now that it’s necessary — too late. That happens often in history. The BRICS are
+      the alternative. China is turning to them, and they to China. The United States
+      is, in a busy way, isolating itself. That’s the reality. And that is going to
+      implode on the United States in many ways. Mr. Mamdani, whether he wishes it or
+      not, is going to be finding himself in the following situation: What can a socialist
+      do (about what I’ve just said) to distinguish a better socialist response to a
+      declining empire, than a capitalist one? And that’s where Bernie and Ocasio-Cortez,
+      that’s where they come, because they are the national and, therefore, the appropriate
+      international. Let me be daring and say something that people may remember: There
+      are two ways for the United States to deal with the People’s Republic of China.
+      One is aggressive, hostile maneuver[ing]: that’s what we got. Here’s an alternative:
+      Sit down, divide the world up in such a way that both of you can find opportunities
+      to grow and to develop. What might it mean if socialists became advocates of that
+      second approach, as part of a transformation of the United States? Wow. Might
+      that bring to them a level of support, if only from all of the Americans who already
+      worry that the relation with China is on its way to nuclear war? Wow. A socialist
+      movement worthy of the name has to think like that, has to have the large — as
+      well as the public grocery store in the food desert. And I wish there were enough
+      socialists to divide the labor, but there isn’t. So, Mr. Mamdani, who’s going
+      to be the face of socialism for a while, it’s up to him. He can mobilize Bernie
+      and Ocasio-Cortez — probably — if he understands the situation he’s actually in.
+      ⁣NIMA ALKHORSHID: Michael? ⁣MICHAEL HUDSON: Richard made the point. You’re right.
+      The socialists have always been against war because most wars are against socialism.
+      ⁣NIMA ALKHORSHID: Yeah. Thank you so much, Richard and Michael. Great pleasure,
+      as always. ⁣RICHARD WOLFF: Yeah, this was an important conversation, made possible
+      by an important election. And I think we will be talking about the implications
+      and ramifications many times in the future of these conversations. ⁣NIMA ALKHORSHID:
+      Exactly. Yeah. Thank you so much. See you soon. See you next week. Bye-bye. Transcription
+      and Diarization: https://scripthub.dev Editing: Kimberly Mims Review: ced Photo
+      by Dan Calderwood on Unsplash The post The Party Machines Lose first appeared
+      on Michael Hudson .'
+    one_sentence_summary: In a discussion about the recent New York mayoral election,
+      Nima Alkhorchid, Richard Wolff, and Michael Hudson analyze the surprising victory
+      of Muslim socialist immigrant Zohran Mamdani despite significant opposition funding,
+      highlighting its implications for the future of the Democratic Party.
+    paragraph_summary: In a discussion on November 6, 2025, Nima Alkhorchid, Richard
+      Wolff, and Michael Hudson analyzed the recent New York mayoral election, highlighting
+      the surprising victory of Zohran Mamdani, a Muslim, socialist immigrant, despite
+      significant opposition funding exceeding $40 million from billionaires. Hudson
+      noted that both major political parties are attempting to spin the election results
+      to their advantage, with Democrats framing it as a rejection of Trump and Republicans
+      focusing on fears of socialism. However, he argued that the election's outcome
+      signifies a loss for both parties, as Mamdani's win has broader implications for
+      the Democratic Party's future and the upcoming midterm elections, overshadowing
+      the local nature of the election with national significance.
+    published: '2025-12-27T21:19:59+00:00'
+  - title: The Party Machines Lose
+    url: https://michael-hudson.com/2025/12/the-party-machines-lose/
+    text: '⁣NIMA ALKHORSHID: Hi, everybody. Today is Thursday, November 6, 2025, and
+      our dear friends, Richard Wolff and Michael Hudson, are here with us. Welcome
+      back, Richard and Michael. ⁣RICHARD WOLFF & MICHAEL HUDSON: Glad to be here. ⁣NIMA
+      ALKHORSHID: Let me start with what has happened in New York. And the mayoral election,
+      the outcome was someone — you look at him, all red lines are on him: he’s a Muslim,
+      socialist, immigrant — it’s amazing to see, you know, because the billionaires
+      invested, they paid more than, if I’m not mistaken, $40 million against him in
+      this campaign. And after all, [Zohran] Mamdani was successful in his way of getting
+      to the position. Michael, looking at what has happened in New York, what is your
+      understanding of what has happened, and what does it mean for the future of the
+      Democratic Party? ⁣MICHAEL HUDSON: Well, both parties are trying to spin the election.
+      The Democrats are trying to say, well, you see, we won. It’s all a rejection of
+      Trump. And the Republicans are trying to make it appear it’s all about socialism
+      — and look at the right-wing Democrats who won in Virginia and New Jersey. But
+      the fact is that both the Republicans and the Democratic parties lost, as a result
+      of New York City. All of the attention, as you’ve just pointed out, is on New
+      York City. Even though that was the most local election, it had a national scope
+      because it’s the future of not only the Democratic Party, but what the next year’s
+      midterm elections are going to be all about. The Republicans lost the elections
+      in New Jersey to the governor, who wanted to lower the electric bills that have
+      been raised against the population; and Virginia elected a CIA Democrat, who obviously
+      is part of the right-wing part of the Democratic Party. So, the Democrats are
+      claiming a victory. But all of this was overshadowed by Mamdani’s victory in New
+      York City, and his win is what made the Democrats the loser, despite the fact
+      that the election was local. He was really running against the Democratic National
+      Committee; and its leaders have announced their outright hatred, not only for
+      him, but, for the last year, for Bernie Sanders, for AOC [Alexandria Ocasio-Cortez].
+      The Democratic National Committee is saying: We have to prevent the party from
+      turning left. We have to support Israel. We have to support Wall Street. We have
+      to oppose progressive taxation — and essentially [keep] doing what we’ve been
+      doing all along, being soft-core Republicans. And now all of that has been repudiated.
+      And so Mamdani was running not only against the disgraced former governor of New
+      York, Andrew Cuomo, not only against the Republicans, but really against all of
+      the money — the $40 million that you mentioned — that was all mobilized against
+      him. And in that sense, he was defined not simply by his program of providing
+      free bus rides and child care, but he was defined by his enemies, who were attacking
+      him by making all sorts of claims that he was a Marxist, a socialist — It’s as
+      if the newspapers are too embarrassed to say that there have been public opinion
+      polls (that Richard and I have mentioned before on your show), that the voters
+      prefer the word “socialism” to “capitalism.” “Socialism” isn’t a bad word. So,
+      by calling him “socialism” for wanting to improve transportation; “socialism”
+      for protecting tenants’ rights against landlords; “socialism” for improving the
+      lot of New Yorkers and progressively taxing wealth — he not only takes away the
+      Democratic base, but the Republican base for this. And the reason that the $40
+      million came from wealthy Zionists wasn’t because of his socialism. It was because
+      they’re trying to defeat him. [W]hat made people so passionate over this election
+      was the whole issue of Zionism — brought up by his opponents, such as the Democratic
+      Senate leader, Chuck Schumer, who refused to support Mamdani, saying that Mamdani
+      was defending the Palestinians against the Israeli bombing and he could not support
+      that. Well, what better support could you want from a New York population? And
+      the fact that over 70% of New York’s Jewish population voted for Mamdani shows
+      the attempt to slander him, how off-[putting] it is. And if you look at the only
+      districts that Mamdani lost, [they] were in the fundamentalist Orthodox Jewish
+      Brooklyn area, and Queens (near Long Island) — who, of course, saw that the election
+      was all about Zionism. A Wall Street Journal editorial today really, I think,
+      spells out the story best of all. It said, “If [New York Governor Kathy] Hochul
+      turns left [in next year’s election for the governor], she may defeat [her Lieutenant
+      Governor] Antonio Delgado, who will run from the Mamdani left. [But] [i]f Ms.
+      Hochul turns left, she may defeat Mr. Delgado but leave herself open to a likely
+      GOP [Republican] challenge from Rep. Elise Stefanik.” Well, Stefanik was the hectoring
+      lady in Congress who attacked the presidents of Columbia [University] and Harvard
+      [University] for permitting protests against the Israeli attack on the Palestinians.
+      And she attacked these universities for not expelling students who opposed genocide,
+      students who said: The Palestinians are human beings, they’re civilians. This
+      is against the laws of war. It’s against all international law. She said: They
+      must be expelled, and any professor who gives voice to a Palestinian point of
+      view must be expelled from your university. Harvard and Columbia duly expelled
+      the professors and expelled the students from the university. And if that is what
+      the election for New York Senate is going to be all about next year, you can be
+      sure that this is going to be splitting the whole U.S. electoral campaign, just
+      as the split over Charlie Kirk has been splitting his right-wing Republican following
+      over the issue of Zionism. And that’s what the newspapers are hesitating from
+      [writing]. The Republicans are afraid to acknowledge that that is what the election
+      was about. They’re pretending that it was about Marxism. And it’s not about Marxism
+      at all. There’s nothing Marxist about providing subsidized education, so that
+      workers can afford to earn a lower salary from their employers and make their
+      employers more competitive. I mean, that’s basic 19th-century classical-industrial-capitalist
+      strategy to become more competitive. It’s all really about the Zionist issue.
+      And in the Wall Street Journal (same issue), you have, on the next editorial page,
+      a Jewish writer [worrying] — “[i]f socialists become the Democratic Party’s face”
+      [as Karl Rove wrote in the same issue] — he’s going to be afraid to wear his kippah
+      (his yarmulke) in public; he bought a newsboy’s hat because he thinks that somehow
+      the Jewish population will be threatened. This is hysteria. And the hysteria is
+      part of what has really motivated, I think, Mamdani’s voters to say: We don’t
+      want any part of this. We’re not going to go along with this demagogy — at all.
+      Trump has already said that if New York voted for Mamdani, he’s going to pull
+      all public federal support for New York out. And the Republicans and Democrats
+      want to treat New York City like the United States and Europe treated Soviet Russia
+      after its revolution: try to do everything you can to oppose it, to drain it,
+      to isolate it, to make it harder to govern — and, then, say, socialism doesn’t
+      work — when they have to spend all their time defending themselves. This is what
+      it’s going to be about. In fact, I just got (yesterday) this month’s The Nation
+      magazine, the left-wing magazine from the last century. And there’s an article
+      about how the black caucus in the United States (the representatives in Congress)
+      has been dominated by AIPAC [American Israel Public Affairs Committee], saying
+      that if they do not follow the AIPAC pro-Zionist line, they will be opposed; and
+      AIPAC will fund their opponents in order to, essentially, mobilize election money
+      for Zionism. So, somehow, this issue has overwhelmed the whole electoral process
+      here. ⁣NIMA ALKHORSHID: Richard, looking at who voted for Mamdani, the young people
+      under the age of 30, more than 75% voted for Mamdani. And here is what Donald
+      Trump [posted] before the election happened: “Any Jewish person that votes for
+      Zohran Mamdani, a proven and self-professed JEW HATER, is a stupid person!!!”
+      And we know that Bernie Sanders, since the Democrats didn’t want to support Mamdani,
+      but Bernie Sanders went after him. And we know what has happened to Bernie Sanders
+      during the presidential election. This time, he came and supported Mamdani. In
+      those days, [Sanders] had nobody to support him against Hillary Clinton. But what’s
+      your understanding of what has happened? ⁣RICHARD WOLFF: Well, I’m coming at it
+      from a little bit of a different perspective from Michael, but I think they’re
+      complementary [perspectives], or they can go together. I want to talk about the
+      history here, because I think this is a historic shift. It began with Bernie —
+      no question. It was given an extra boost by Alexandria Ocasio-Cortez and the group
+      of young women who came into prominence with her. And now it has taken a quantitative
+      new additional leap with the election of Mamdani. But I want to talk about the
+      hysteria in historical perspective. It ranges from the pathetic to the ridiculous.
+      I mean, we are watching — whether it’s the Wall Street Journal , or Elise Stefanik,
+      or anything like that — spewing their hysterical reaction that makes no sense.
+      It’s a revelation of their ignorance. They ought to be embarrassed, and they will,
+      one day. What do I mean? Mamdani is a Democratic Socialist. He emphasizes the
+      phrase “Democratic Socialist,” which he has every right to do. It is a kind of
+      socialism that he advocates. It’s very close to what used to be called “municipal
+      socialism.” Why? Because it is the kind of limited, moderate policy changes that
+      mayors have tried to do in American and in foreign cities — for the last two centuries!
+      It is not revolutionary. It doesn’t usher in anything like the hysterical remarks
+      being made by Americans. You know what this response shows? It shows that for
+      75 years, since the end of the Second World War, the United States has buried
+      its head in the sand and pretended that socialism, communism, Marxism, are all
+      something evil and horrible — over there. They haven’t understood how it developed.
+      They don’t understand the different points of view within socialism. None of it.
+      They don’t know or care. And so they see a socialist, they don’t understand how
+      to understand it, other than in their underdeveloped, 75-year, out-of-date backwardness.
+      Let me get at this a second way. Someone once counted up: seventy-five American
+      cities in the history of this country have had mayors who were socialists, and
+      said so. I know from my research — I did a lot of work once on the mayoralty in
+      Bridgeport, Connecticut. I did that because I ran for mayor of the city of New
+      Haven, Connecticut, which, like Bridgeport, is one of the three sizable cities
+      in the state of Connecticut. Bridgeport had a socialist mayor for many years.
+      Nothing of the sort of the hallucinations of the right wing happened in Bridgeport
+      during the time of their mayor. Ditto, Milwaukee. Ditto, all the 75 [cities].
+      Number one. Number two. Right now in Europe, there are socialist mayors. A number
+      of the major cities of Europe — by the way, places like Paris, London, Milan,
+      and so on, are governed by socialists, or have been at various moments in their
+      history — nothing of the fantasy-horrors that are being spun out in the American
+      media ever happened there. Socialist parties are regular participants in every
+      country in Europe, and beyond. But I want to talk about Europe, otherwise, I’ll
+      take too much time. So, what you’re seeing in the response of the right wing in
+      this country is a sign of its utter ignorance and bad education — and being, as
+      I say, 75 years out of date: talking like they talked back in the days of the
+      House Un-American Activities Committee. Think of the very name — ridiculous, you
+      know, as if they have the sole authority to decide what is, and isn’t, American.
+      It’s a joke. That’s the first thing. The second thing. It’s important to understand
+      that this is a sign of real serious trouble. This is something Michael and I have
+      tried very hard to get across. My language: it’s a decline of our empire. It is
+      a series of problems, many of which Michael has very, very creatively shown us:
+      how they’ve accumulated; what their history is; how the people in charge have
+      not solved these problems have basically kicked them down the road, during which
+      time they have accumulated and gotten worse. If you don’t solve your medical problems,
+      they get worse; you don’t solve your psychological issues, they get worse. Well,
+      it’s in economics, as well. And this is a sign that the people of New York, who
+      aren’t that different from people anywhere else, made a decision. And here’s what
+      I think the election showed. Mr. [Curtis] Sliwa (the Republican) and Mr. Cuomo
+      (the Democrat) represent, in their totality, the same old, same old, same old.
+      Literally — Sliwa has been a candidate for as long as I can remember here in New
+      York. And as we all know, Cuomo was a governor, he worked with the Clintons, and
+      blah — it’s all the same. And nothing either of them said gave anyone any reason
+      to believe that they would be, in the future, any different from the nothing that
+      they were in the past. Therefore, Mr. Mamdani had an unbelievable opportunity.
+      All he had to do — and by the way, I don’t take away anything. He ran a brilliant
+      campaign. He’s very successful. He deserves everybody’s amazement and congratulations.
+      So, I don’t want any confusion in what I’m about to say — but he cashed in, as
+      successful politicians always do, on something much bigger, and different, from
+      himself. He was the obvious, different, new change. He embodied it: a Muslim in
+      New York, a socialist in this country. Wow. Who would have thought it? Things
+      are changing. Of course, young people come (75%). They want change. They know
+      that the “American Dream” promised to them is not available anymore. No one has
+      to persuade them. They’re already there. They want change. And looking at Sliwa
+      and Cuomo and Mamdani? That’s easy, where your best chance for change is! Now,
+      the last point. Yes, he’s a socialist. And I don’t know exactly what that means
+      to him, since I’m very aware that socialism means very different things to different
+      people. The Soviet Union was one kind of socialism. Norman Thomas, who was the
+      great leader of the American socialists for many years, was a deadly opponent
+      of the Soviet Union, and all that it stood for. So that shows you that people
+      who wanted the name “socialist” could mean very different things. There’s a Trotskyite
+      tradition, which goes in yet another direction. The current people who lead China
+      refer to their country as “socialism with Chinese characteristics.” Okay, where
+      in all of that does Mamdani fit? Well, America is too backward in this area to
+      be even able to ask the question. So, everyone’s fantasy of what it might mean
+      just blurts out — and I mean the pages of the New York Times and the Wall Street
+      Journal — it’s embarrassing that you know so little that you don’t even understand
+      this “socialism” of Mamdani, who calls it “democratic,” and who tells you, quite
+      clearly, what he plans to do! This is a remarkable statement, but it carries enormous
+      implications, also for the emerging new left in the United States; because he,
+      like Ocasio-Cortez, and like Bernie, [they] are going to be the standard-bearers.
+      By virtue of what has happened, they are going to be “socialism.” But I guarantee
+      you what I’m about to say is true. (I don’t believe in prediction — I can’t predict
+      anything, and nobody else can — but I’m going to do it anyway.) The other kinds
+      of socialism are waiting in the wings. They will emerge now. Why do I say that?
+      Because they have everywhere else on this planet; so they’re going to do that
+      here, too. So, a word to the wise, if they’re smart enough to listen. Mr. Bloomberg
+      (who gave the most money); or the owner of Airbnb (who gave a lot of money); or
+      Home Depot’s Mr. [Ken] Langone (who gave a lot of money); let me give you a piece
+      of advice: You better be glad that Mamdani won, because the other socialists coming
+      down the road are going to be a lot worse for you than he will be. That’s the
+      reality. But that’s also a challenge to Mr. Mamdani. He also has to face the scale
+      of his solutions, which, I suspect, he knows, is inadequate to the scale of the
+      problems he faces: You are not going to solve the problems of the United States
+      (that we have been spending months on this program, trying to clarify and explain).
+      You’re not going to solve them — not with free buses; and not with public grocery
+      stores in food deserts; and not with a 2% tax on wealth above $100 million; or
+      whatever it is that is his [program] — it’s perfectly good as a program. I’m glad
+      he’s putting it forward. But here’s the problem — and he should learn from Mr.
+      Trump. This was a resounding defeat for Mr. Trump. And you know why? Not because
+      of how he speaks, or the extreme stuff he does. (I wish it were a defeat for those
+      reasons — but it wasn’t.) It was a defeat because what he’s doing, Mr. Trump cannot,
+      will not, and did not solve the problems he inherited. His Big Beautiful (tax)
+      Bill makes those problems worse. His tariff program, whether or not the Supreme
+      Court allows it, doesn’t solve these problems. It can’t. That, Mr. Mamdani, you
+      have to understand, too. You, too, will be confronted, like Trump, with asking
+      the difficult question: What has to be done to deal with the actual problems we
+      have? You can do it, but you have to admit that that’s the case. Otherwise, you
+      will discover — like Mr. Trump is discovering — that promising people quick-and-easy
+      solutions — as if they were available, and as if you could deliver them — doesn’t
+      work. And it will turn those people away from you. And that’s what happened to
+      him. And it’s going to happen to him more, and more, and more. And as it does,
+      the people around him will abandon him. It’s already happening, and it will happen
+      more. But the cautionary tale is, that problem confronts the left as well. ⁣MICHAEL
+      HUDSON: Thank you, Richard, for reminding us about municipal socialism in America.
+      That has always been one of the forces behind socialism. In the 1950s when I grew
+      up, it was Robert La Follette [Jr.] of Milwaukee who led this whole reform, and
+      it made all of Wisconsin progressive. And the city where I grew up (Minneapolis)
+      was, I think, the only Trotskyist city in the entire world that led to the Minneapolis
+      general strikes of the 1930s. And even the governor of Minnesota, Floyd B. Olson,
+      said he hoped capitalism went right to hell. That got him re-elected! You could
+      say that socialism in America demonstrated the way in which it worked from the
+      only place where it had a chance of doing that — and that was at the local level.
+      I want to get back to the national level in this case, because the national level
+      is where the money comes in for campaigning for the local level. And what terrifies
+      both the Democrats and the Republican Party leadership is that most of the midterm
+      elections are going to be, as I said, over Zionism and the Israeli violence in
+      Gaza and the West Bank. That was the issue that was largely responsible for the
+      Democrats’ loss in the November presidential election. As Jill Stein and I forecast
+      in our interviews with you, Nima, the Islamic voters in Pennsylvania, Michigan,
+      and Minnesota, refused to vote for the Democrat Kamala Harris because of her reliance
+      on Zionist donors and her steadfast support of Israel First. And that is one of
+      the reasons why yesterday’s Democratic victories in New Jersey and Virginia were
+      much stronger margins for the Democrats than the presidential vote for Harris.
+      She was unpopular because she continued Biden’s pro-war policy, the policy that
+      Trump has escalated in making the wars in Ukraine, Israel — now Venezuela and
+      Nigeria — his war. So, there’s a movement to oppose any candidate that’s receiving
+      election financing, basically, from AIPAC. And that’s threatened to become a litmus
+      test for candidates. The Democrats’ opposition to the National Committee is going
+      to be: Will you refuse to vote for any politician who receives money from AIPAC?
+      Well, AIPAC already realized this, and said: We’ve got to create a Zionist pro-Israel
+      campaign system that’s not AIPAC, that’s funded by the wealthy billionaires from
+      Silicon Valley, and other billionaires who are defending Israel. The fight against
+      Mamdani is, in that sense, going to be a fight by politicians to keep receiving
+      campaign contributions for themselves — above all from AIPAC, but also from other
+      donors with special interests. And that’s what the entire American political election
+      system has turned into. The election system has been privatized in this country,
+      and sold to the donor class. That is the consequence of the Supreme Court’s ruling
+      in Citizens United, that any corporation and any donor can give as much money
+      as they want to politicians. There is no limit at all. Well, Mamdani came in with
+      much less funding than anyone else, and won. So he’s challenged this whole system,
+      but he’s raised the issue for what’s going to be the statewide elections and for
+      next year’s national elections in the United States: How is American politics
+      going to survive this privatization and financialization of elections? If it doesn’t
+      solve this, then the United States is going to be a failed state politically,
+      because the right-wing demand for “originalism” in the Supreme Court is to say,
+      well, what would the slave owners who wrote the Constitution rule today? Well,
+      they would back all of the right-wingers. And you had the same fight occur in
+      Athens in the 4th century BC. What was the original Constitution of Solon? What
+      did Solon really do? Well, there were rival views of what the Constitution was
+      all about. One of the upshots of this New York election and municipal socialism
+      is going to be the whole issue of, basically, oligarchy and campaigns. And that’s
+      why Mamdani has again and again used the word “oligarchy.” And that’s where he’s
+      distinguishing himself from others. And the issue? Really, it’s not Marxism; it’s
+      not socialism as such because there are so many different kinds of socialism,
+      as Richard has pointed out. It’s oligarchy versus real democracy, which means
+      policies that are enacted to protect the population at large — of tenants, of
+      wage earners, of the bottom 90% of the population — not just the top 10%, as we’ve
+      been talking about. So, this is exactly what the 2026 Senate elections are going
+      to be about. And if AOC runs against Chuck Schumer, trying to unseat him — same
+      thing with the House of Representatives — you’re going to have the Democrats,
+      particularly, running against Bernie Sanders, AOC, [against] any attempt to have
+      public health care because that threatens to cut off their own flow of election
+      contributions from the special interests. So, all of this goes beyond political
+      ideology itself. It has to do with the whole structuring of the political system.
+      And that’s why both the Republicans and the Democrats were so shocked by Mamdani’s
+      win, and why his win is so historical — if it will actually change things. People
+      have been saying: Well, look at how Bernie and AOC ended up surrendering to [Nancy]
+      Pelosi and Schumer, and just going along with the Democratic majority. They were
+      co-opted. Well, Mamdani is free of the pressure that was brought against both
+      Bernie Sanders and AOC because there’s no party above him as Mayor of New York.
+      There’s no one who can tell him what to do, or say: If you don’t support this
+      policy, we won’t put you on a powerful committee, a such-and-such committee; or
+      we won’t give you any voice. He now has the voice to do what he wants. Today he
+      appointed Lina Khan, Biden’s excellent anti-monopoly lawyer, as one of his co-chairs
+      for his mayoral [transition] campaign. He’s bringing all the progressives on this
+      [transition] team with him. And what he’s going to be doing is not simply a personal
+      fight for New York — he’s a very gifted politician, he’s a natural as a politician,
+      for any of you who’ve listened to his victory speech the other night. It’s really
+      a whole — his team will say: There is an alternative, and there’s no other alternative
+      on the schedule; and we’re going to start with this alternative on a New York
+      scale, if we can. And if we’re opposed by Trump and by the federal government,
+      trying to starve us for transportation funds and all the federal funds that come
+      in; if Trump sends in the National Guard to begin arresting citizens — one of
+      Trump’s supporters yesterday said he wants ICE (the Immigration authority), to
+      look at Mamdani’s citizenship application, and said: Was there anything wrong?
+      Was there a typographical error? If so, let’s deport him back to Africa. You already
+      have seen that breaking out yesterday. That’s the stakes that we’re seeing in
+      what is going to be the policies he has for mayor. ⁣NIMA ALKHORSHID: Richard,
+      I think the main point, what Michael just said, is so important: Who’s going to
+      be on his team and what would be the policies that he’s going to adopt? After
+      all, we know that the status quo doesn’t work in the United States. That’s why
+      people are voting for Mamdani and people like him. And it’s not just about the
+      Democratic Party. Within the Republican Party, the same thing is happening. And
+      here is just a short clip of what Tucker Carlson said. LINDSEY GRAHAM (CLIP):
+      […] the Republican Party. We’re killing all the right people and we’re cutting
+      your taxes. ⁣TUCKER CARLSON (CLIP): Cutting your taxes and killing all the right
+      people. That really is the crispest way to describe the marriage of libertarian
+      economics and neocon foreign policy: cuttin’ taxes and killin’. And if you think
+      about it, who’d want to be associated with that? Cutting taxes itself is hardly
+      a virtue. It’s a contextual matter. Sometimes it is, sometimes it is. It totally
+      depends. But in Lindsey Graham’s simplistic-but-heartfelt formulation, cutting
+      taxes is just a positive good, always. And so is killing people. Killing the right
+      people. No, they got to be the right people, but killing people. Killing people
+      is just a good thing. Like, it’s one of the things you don’t need to describe
+      […] ⁣NIMA ALKHORSHID: Yeah. ⁣RICHARD WOLFF: You know, the problem with Tucker
+      Carlson is he doesn’t understand how far that reaches, so he can only come up
+      with the examples that he comes up with. But let me take it another step, because
+      it’s all about what Mamdani is going to have to do. When Mr. Trump comes into
+      office, he has a problem. The American national debt has ballooned faster than
+      anything else. What is it now? $35 trillion, or more than that. In a very short
+      time, it went from a few hundred billion to $35 trillion — out of control national
+      debt. So bad that we lose our AAA credit rating. So bad that we get statements
+      by lenders that they don’t want to lend to the United States anymore because they’re
+      not confident in the ability to pay — which is why you don’t have a AAA rating.
+      So, he comes in, and he’s got a problem. He’s going to do something. He promises
+      he’s going to do something about this national debt, about the ability of the
+      United States to borrow. And for those who don’t understand, a reminder: Every
+      major war, starting in Vietnam, that we have fought in recent times has been paid
+      for by borrowing; and the reason is you cannot fight these wars if you were to
+      make the American people pay the tax to pay for it, because they’d oppose it right
+      from the beginning. Now it takes a year to get into these wars before the American
+      people begin to realize the hopeless[ness] and pointlessness of it — for them.
+      So, you’ve got to be able to borrow. You cannot run your foreign policy. You can’t
+      even run your government. Why is that? Very simple. We have a politics in which
+      corporations and the rich demand of the government all kinds of services — but
+      they don’t want to pay taxes. And by donating — or not — they can force the politicians
+      not to tax them. Okay? What about the mass of people? They want the government
+      to give them all kinds of benefits: schooling, hospitals, roads, policing, fire
+      department, you name it. And they don’t want to pay taxes — but they’ve been forced
+      to. The burden of taxation, as anyone knows who studies it, has been shifted,
+      over the last century, from corporations and the rich to the average person, the
+      middle class. That’s what’s happened. So, Mr. Trump comes into office after this;
+      but he’s got a problem. He can’t just borrow some more. He did that in his first
+      presidential run, and everybody pointed out, you didn’t solve the government’s
+      debt, you made it worse — which, of course, was true because he inherited the
+      structure that was doing that before him, did it during him, and did it after
+      him under Biden. So, what is he going to do? The only thing he knows: try to do
+      what Republicans do — more so. What does that mean? Don’t tax corporations and
+      the rich. Once again, the first act of his new presidency, the current second
+      term, Big Beautiful (tax) Bill — extend the tax cuts of the first regime, and
+      add a few more — which is what he did. So, what’s left? There’s no way to reduce
+      the government debt if you’re not going to tax the corporations and the rich.
+      You dare not tax the mass of people because that’s your political base. So, what
+      do you do? There’s only one thing left. You have to cut expenditures. The first
+      phase he does with Elon Musk, and he raises the banner, Efficiency: I’m going
+      to cut the government, by efficiency. And when that runs out of gas, and runs
+      into every difficulty imaginable, he has to drop it. He kicks Mr. Musk to the
+      curb, throws him under the bus, and comes up with a new way to save money called
+      the government shutdown that we’re living through. That’s as fanciful nonsense
+      as the efficiency bullshit was before. All he’s doing — and of course, this is
+      not enough — he’s trying to save money so he can do something about the national
+      debt, which he’s inherited. But he can’t do it on the scale that will make a difference.
+      So, he’s stuck. And you know how he knows he’s stuck? Because of the elections
+      two days ago. That’s his sign: You’re stuck, Jack. The collection of things you’re
+      doing adds up to people finding reasons not to vote for you, or for the people
+      you endorse. Everyone he endorsed lost. Everyone he opposed won. Not just Mamdani.
+      And I understand what Michael said about the other Democrats. They’re nothing
+      to write home about, but those were the people that Trump was able to defeat before
+      — can’t do it anymore. That is a problem. Michael is right: Mamdani is going to
+      face every conceivable kind of obstacle, opposition. If he begins to do the things
+      he’s going to have to do, that opposition will get worse. But if he doesn’t do
+      it, he’s going to find the same sad story. The people who voted for him are giving
+      him a chance. But if he doesn’t produce, they will vote against him next time.
+      They really will. And they’ll have a lot of help doing that. New York City is
+      the home to more billionaires in this country than any place else — so, he’s got
+      ‘em. England has a whole bevy of laws, in case he needs them, that require anyone
+      who leaves Britain to pay for all the benefits they got while they were in Britain,
+      as a condition of leaving. Oh, oh. Here, billionaires threaten to leave, and nobody
+      dares say anything. Will Mr. Mamdani have the courage and the foresight to know
+      he cannot give the same answer? He has to go — not just because that will pay
+      for his programs, which it will. His programs are modest. If you look at the cost
+      of grocery stores and free bus rides, it’s not expensive, relative to the budget
+      of the City of New York, anyway. But he has to do it. He has to do it for political
+      reasons. And he has to have advisors who are able and willing to see, and to help
+      him navigate that situation. ⁣MICHAEL HUDSON: I think you’re right about the fact
+      that many of the reforms that he can do don’t cost more money. For instance, one
+      of the things he can do to support tenants’ rights is you end the building department
+      corruption that was inherited from [the] Mayor [Ed] Koch regime and from [Rudolph]
+      Giuliani, where the building departments run by the developers have enabled developers,
+      like Trump, to simply tear down landmark buildings without really being fined
+      more than a token cost of doing business. The developers have run the city; the
+      landlords have run the city courts against the tenants. And by providing public
+      lawyers for the tenants, you can defend against the landlord interests in these
+      tenant courts. And the fact that Mamdani has said that New York is unlivable —
+      with an average rent of over $4,500 a month in New York, who can afford to actually
+      live here if you don’t inherit enough money, [or] get a [high-paying] job? He
+      can tax Wall Street, as you said. That’s really the key. Are these billionaires,
+      concentrated in New York City as the nation’s financial center, really going to
+      move out? Well, hard to move to Florida these days, with all of the hurricanes
+      threatening the property there. There’s really nowhere for them to move out. So,
+      of course, he can raise the rents. He’s going to have to drag the city council
+      and other agencies along. It would be nice if he can drag the current center-right
+      Governor Hochul around to imposing the (originally higher) charges for driving
+      your automobile into the city that is still paralyzing traffic here. And the subways
+      have spent all of the money to help developers on the upper east side from the
+      Second Avenue extension, so that they have not fixed the subways going outside
+      of Manhattan — to Queens, to Brooklyn, and to the Bronx. (Last night, my wife’s
+      45-minute trip took her an hour and a half, including sitting in the dark for
+      over half an hour when the electricity was turned off on the line to where we
+      live in Forest Hills, Queens.) The subways are falling apart — which is where
+      most of the wage earners live, who have to earn a living in Manhattan, and can’t
+      afford to live there anymore because of the rents. So, all of these things can
+      be done without much money. The money squeeze, I think, is not going to be from
+      what Mamdani does, but from the withdrawal of state and federal support that has
+      been subsidizing New York — as long as it was pro-landlord, pro-Wall Street, pro-oligarchy
+      — all along. That’s going to be a fight. And again, that fight is going to be
+      more than just a municipal fight. It’s going to be a national fight, against municipal
+      socialism and the obvious things that Mamdani has promised, which is why he got
+      so many good followers from the beginning. ⁣NIMA ALKHORSHID: Richard, I think
+      this is a huge opportunity for a socialist working in New York City. How helpful
+      could Bernie Sanders be for this sort of movement in New York City? And how is
+      [Mamdani] going to use the experience of Bernie Sanders? What do we know about
+      the relationship between the two? ⁣RICHARD WOLFF: Well, at this point, the first
+      answer is he could use help from Bernie Sanders, all the time. I mean, he needs
+      Bernie to be out there helping him carry the message, if you like, nationwide.
+      Bernie is at the top of many polls. People should know this. There are people
+      who go around asking the question: In your judgment, as an American citizen, who’s
+      the most popular politician you can think of? And Bernie wins that contest, over
+      and over, because even though he didn’t win the election, he, therefore, has none
+      of the negativity. He hasn’t had to face promises made that he couldn’t deliver
+      on — because people didn’t give him the job. So, he’s able to say: I told you
+      so. This needs to be done. You didn’t do it. And so we have a problem. And that’s
+      a very much better position to be in, when an empire is declining, because you’re
+      going to be facing losses, one after the other. I mean, let me remind people —
+      because Americans don’t want to face it — that, for example, the CEO of NVIDIA,
+      Mr. [Jensen] Huang, gave a speech yesterday, in which he basically said that we
+      should understand that the artificial intelligence revolution has now been won,
+      and the winner is the People’s Republic of China. This is true across the board
+      — militarily, politically, economically. The BRICS alliance is exploding in the
+      world. It has lots of problems, of course. It encompasses very different political
+      and economic — I don’t want to make it simple — and it’s not all pro-Chinese,
+      or anything like that — but it’s a viable alternative. The power of Mr. Trump
+      — the last cudgel he could use on the rest of the world to beat them into shape
+      — is: I won’t let you come and trade here. I won’t let you buy here. I won’t let
+      you sell here. You’re going to have to give me a lot of money, if you want to
+      sell your goods here. I’ll only hit you with a low tariff, if you make big [investments]
+      — He’s demanding tribute from the whole world. But it’s too late. It would have
+      had to have been done 20 years ago. It might have worked then. But it wasn’t necessary.
+      Now that it’s necessary — too late. That happens often in history. The BRICS are
+      the alternative. China is turning to them, and they to China. The United States
+      is, in a busy way, isolating itself. That’s the reality. And that is going to
+      implode on the United States in many ways. Mr. Mamdani, whether he wishes it or
+      not, is going to be finding himself in the following situation: What can a socialist
+      do (about what I’ve just said) to distinguish a better socialist response to a
+      declining empire, than a capitalist one? And that’s where Bernie and Ocasio-Cortez,
+      that’s where they come, because they are the national and, therefore, the appropriate
+      international. Let me be daring and say something that people may remember: There
+      are two ways for the United States to deal with the People’s Republic of China.
+      One is aggressive, hostile maneuver[ing]: that’s what we got. Here’s an alternative:
+      Sit down, divide the world up in such a way that both of you can find opportunities
+      to grow and to develop. What might it mean if socialists became advocates of that
+      second approach, as part of a transformation of the United States? Wow. Might
+      that bring to them a level of support, if only from all of the Americans who already
+      worry that the relation with China is on its way to nuclear war? Wow. A socialist
+      movement worthy of the name has to think like that, has to have the large — as
+      well as the public grocery store in the food desert. And I wish there were enough
+      socialists to divide the labor, but there isn’t. So, Mr. Mamdani, who’s going
+      to be the face of socialism for a while, it’s up to him. He can mobilize Bernie
+      and Ocasio-Cortez — probably — if he understands the situation he’s actually in.
+      ⁣NIMA ALKHORSHID: Michael? ⁣MICHAEL HUDSON: Richard made the point. You’re right.
+      The socialists have always been against war because most wars are against socialism.
+      ⁣NIMA ALKHORSHID: Yeah. Thank you so much, Richard and Michael. Great pleasure,
+      as always. ⁣RICHARD WOLFF: Yeah, this was an important conversation, made possible
+      by an important election. And I think we will be talking about the implications
+      and ramifications many times in the future of these conversations. ⁣NIMA ALKHORSHID:
+      Exactly. Yeah. Thank you so much. See you soon. See you next week. Bye-bye. Transcription
+      and Diarization: https://scripthub.dev Editing: Kimberly Mims Review: ced Photo
+      by Dan Calderwood on Unsplash The post The Party Machines Lose first appeared
+      on Michael Hudson .'
+    one_sentence_summary: In a discussion about the recent New York mayoral election,
+      Nima Alkhorchid, Richard Wolff, and Michael Hudson analyze the surprising victory
+      of Muslim socialist immigrant Zohran Mamdani despite significant opposition funding,
+      highlighting its implications for the future of the Democratic Party.
+    paragraph_summary: In a discussion on November 6, 2025, Nima Alkhorchid, Richard
+      Wolff, and Michael Hudson analyzed the recent New York mayoral election, highlighting
+      the surprising victory of Zohran Mamdani, a Muslim, socialist immigrant, despite
+      significant opposition funding exceeding $40 million from billionaires. Hudson
+      noted that both major political parties are attempting to spin the election results
+      to their advantage, with Democrats framing it as a rejection of Trump and Republicans
+      focusing on fears of socialism. However, he argued that the election's outcome
+      signifies a loss for both parties, as Mamdani's win has broader implications for
+      the Democratic Party's future and the upcoming midterm elections, overshadowing
+      the local nature of the election with national significance.
+    published: '2025-12-27T21:19:59+00:00'
   - title: Frozen Russian Assets, Real European Fallout
     url: https://michael-hudson.com/2025/12/frozen-russian-assets-real-european-fallout/
     text: '⁣NIMA ALKHORSHID: Hi everybody. Today is Thursday, December 4, 2025, and

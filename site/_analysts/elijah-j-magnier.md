@@ -7,19 +7,708 @@ description: "Veteran Middle East war correspondent; provides first-hand analysi
 websites:
   - https://ejmagnier.com
 summary: |
-  As 2025 draws to a close, the geopolitical landscape is marked by intensifying conflicts and shifting economic undercurrents, particularly in Europe and the broader defense sector. The latest analyses highlight a transformation in the defense industry and underscore the mounting financial and strategic pressures facing Europe.
+  Amid ongoing instability in the Middle East, the latest developments center on Israeli Prime Minister Benjamin Netanyahu’s recent visit to the United States, where discussions with President Donald Trump have brought the Iranian missile program to the forefront of regional diplomacy. According to **Elijah J. Magnier**, these talks have exposed “significant differences in their strategic visions for resolving regional crises, particularly in Gaza and Lebanon.” While both leaders agree on the urgency of addressing Iran’s growing missile capabilities, their approaches to the unresolved situations in Gaza and Lebanon remain divergent and unresolved.
   
-  A significant new development, as reported by **Elijah J. Magnier**, is the rapid shift in investor sentiment away from traditional defense contractors toward a new class of tech-driven defense firms. Companies such as Kratos and Palantir are now seen as attractive due to their potential for technological innovation and rapid profit growth, in stark contrast to the previously favored, stable but slow-growing legacy arms manufacturers. Magnier notes that "the traditional model of defense contractors as stable, low-growth investments is shifting," with market volatility and the promise of swift returns now drawing investor capital. This trend is directly linked to the ongoing wars in Ukraine, Lebanon, Gaza, and Iran, which have exposed the limitations of conventional military hardware and underscored the value of advanced, adaptable technologies.
+  The focus on Iran’s missile program signals a shift in U.S.-Israeli priorities, with both leaders seemingly relegating the Gaza and Lebanon files to secondary status for the moment. **Magnier** notes that “the situations at Gaza and Lebanon remain in suspense,” suggesting that immediate breakthroughs or escalations in those arenas are unlikely in the short term. This strategic deprioritization, however, leaves both conflicts simmering and susceptible to renewed violence should regional dynamics shift.
   
-  Meanwhile, Europe’s economic situation remains precarious. The continent faces a severe structural crisis, exacerbated by the EU’s recent decision to extend €90 billion in loans to Ukraine for 2026-27. This move, according to Magnier, "highlights the continent's increasing financial liabilities amid its own weakening economic foundations and rising energy costs." The decision underscores Europe’s continued commitment to supporting Ukraine, but also raises questions about the sustainability of such aid given internal economic strains.
+  Meanwhile, the European Union’s stance on the Palestinian issue continues to be characterized by what **Magnier** describes as a “contradictory stance.” Publicly, the EU upholds international law and accountability, but in practice, it manages and delays enforcement through administrative means, revealing a persistent gap between stated principles and political realities. This duality is expected to persist, with little indication of a substantive change in policy or enforcement mechanisms.
   
-  In Lebanon, the ongoing internal divisions continue to play into Israel’s strategic calculus. While Israel benefits from a fragmented Lebanese political landscape—undermining unified defense responses—it lacks the military and political capacity to reoccupy the country. This dynamic is likely to persist, limiting the prospects for either side to achieve decisive gains in the near term.
-  
-  **Trends and Predictions:**  
-  The defense sector’s pivot toward high-tech innovation is expected to accelerate, with traditional arms manufacturers losing ground to agile, tech-oriented firms. European economic fragility will most definitely deepen as financial commitments to Ukraine strain already weakened fiscal structures. In the Levant, the status quo of low-intensity conflict and political fragmentation is quite likely to persist, with no imminent resolution in sight.
-  
-  Based on current trajectories, I guarantee that the defense industry’s transformation and Europe’s economic challenges will remain central to the geopolitical narrative into 2026.
+  Looking ahead, the most likely trend is the continued prioritization of Iran’s missile program in U.S.-Israeli strategic dialogue, while the crises in Gaza and Lebanon remain unresolved. I guarantee that, barring a major external shock, there will be no immediate resolution or escalation in those theaters. The EU’s double standards on Palestine will also most definitely continue, as the bloc balances public legal commitments with private political calculations. The region remains in a holding pattern, with the potential for sudden shifts should diplomatic or military calculations change.
 articles:
+  - title: 'Trump–Netanyahu Talks: Iran’s Missile Programme Takes Precedence as Gaza
+      and Lebanon Linger'
+    url: https://ejmagnier.com/2025/12/30/trump-netanyahu-talks-irans-missile-programme-takes-precedence-as-gaza-and-lebanon-linger/
+    text: 'Trump–Netanyahu Talks: Iran’s Missile Programme Takes Precedence as Gaza
+      and Lebanon Linger Iran Calls on Hezbollah to Fight While Iraq Warns al-Sharaa
+      Against Escalation in Lebanon By Elijah J. Magnier – Israeli Prime Minister Benjamin
+      Netanyahu’s visit to the United States and his meetings with President Donald
+      Trump and senior members of the administration take place against a backdrop of
+      clearly diverging strategic visions. While both sides speak of resolving regional
+      crises, they differ sharply over what “resolution” actually entails and how far
+      it should extend. Under closer scrutiny, the notion of grand bargains quickly
+      collapses. Despite efforts to frame the visit as a comprehensive deal built on
+      trade-offs — Gaza for Iran, Lebanon for Syria — the reality points instead to
+      overlapping pressures. Each theatre operates according to its own constraints,
+      rhythms, and internal dynamics. At the heart of Netanyahu’s visit lies Iran first
+      and foremost, as the central item on the agreed agenda. It is not Iran’s nuclear
+      programme that will be “immediately destroyed,” as President Donald Trump claimed,
+      but rather its missile programme, a focus that signals the proximity of a new
+      round of confrontation. Everything else — Gaza, Lebanon, Syria, even Yemen — remains
+      important, but is treated as secondary, slower-moving, instrumental, or tactical.
+      The real divergence between Netanyahu and Trump is not whether Iran should be
+      confronted, but how far a joint confrontation should go, and at what cost. From
+      Netanyahu’s perspective, the visit is less about coordination than containment.
+      Its primary objective is to dissuade Trump from exerting pressure for substantive
+      concessions that could constrain Israel’s military freedom of action. Netanyahu’s
+      strategy centres on postponement: delaying decisive choices, preserving existing
+      dynamics, and offering target-assassination and selective bombardment when pressure
+      becomes unavoidable. Netanyahu ultimately seeks something different: a permanent
+      state of strategic tension that keeps Iran contained, Gaza unresolved, Lebanon
+      unstable, and Syria fractured — without tipping into a wider war with Iran that
+      Israel cannot fight without the US direct participation. Subscribe Subscribe to
+      get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: During Israeli Prime Minister Benjamin Netanyahu's visit to
+      the U.S., discussions with President Trump focused primarily on Iran's missile
+      program, highlighting significant differences in their strategic visions for resolving
+      regional crises, particularly in Gaza and Lebanon.
+    paragraph_summary: Israeli Prime Minister Benjamin Netanyahu's recent visit to the
+      United States for talks with President Donald Trump highlights significant differences
+      in their strategic approaches to regional issues, particularly regarding Iran.
+      While both leaders aim to address crises in the Middle East, their definitions
+      of "resolution" diverge sharply, complicating the idea of a comprehensive deal
+      that includes trade-offs among various conflicts. The primary focus of their discussions
+      is Iran, specifically its missile program, rather than its nuclear ambitions,
+      indicating a potential escalation in tensions. Netanyahu's objective appears to
+      be to contain Iranian influence without making substantial concessions that could
+      limit Israel's military operations. He aims to delay critical decisions and maintain
+      the status quo, utilizing targeted military actions only when necessary, reflecting
+      a broader strategy of postponement rather than resolution.
+    published: '2025-12-30T18:33:01+00:00'
+  - title: 'Trump–Netanyahu Talks: Iran’s Missile Programme Takes Precedence as Gaza
+      and Lebanon Linger'
+    url: https://ejmagnier.com/2025/12/30/trump-netanyahu-talks-irans-missile-programme-takes-precedence-as-gaza-and-lebanon-linger/
+    text: 'Trump–Netanyahu Talks: Iran’s Missile Programme Takes Precedence as Gaza
+      and Lebanon Linger Iran Calls on Hezbollah to Fight While Iraq Warns al-Sharaa
+      Against Escalation in Lebanon By Elijah J. Magnier – Israeli Prime Minister Benjamin
+      Netanyahu’s visit to the United States and his meetings with President Donald
+      Trump and senior members of the administration take place against a backdrop of
+      clearly diverging strategic visions. While both sides speak of resolving regional
+      crises, they differ sharply over what “resolution” actually entails and how far
+      it should extend. Under closer scrutiny, the notion of grand bargains quickly
+      collapses. Despite efforts to frame the visit as a comprehensive deal built on
+      trade-offs — Gaza for Iran, Lebanon for Syria — the reality points instead to
+      overlapping pressures. Each theatre operates according to its own constraints,
+      rhythms, and internal dynamics. At the heart of Netanyahu’s visit lies Iran first
+      and foremost, as the central item on the agreed agenda. It is not Iran’s nuclear
+      programme that will be “immediately destroyed,” as President Donald Trump claimed,
+      but rather its missile programme, a focus that signals the proximity of a new
+      round of confrontation. Everything else — Gaza, Lebanon, Syria, even Yemen — remains
+      important, but is treated as secondary, slower-moving, instrumental, or tactical.
+      The real divergence between Netanyahu and Trump is not whether Iran should be
+      confronted, but how far a joint confrontation should go, and at what cost. From
+      Netanyahu’s perspective, the visit is less about coordination than containment.
+      Its primary objective is to dissuade Trump from exerting pressure for substantive
+      concessions that could constrain Israel’s military freedom of action. Netanyahu’s
+      strategy centres on postponement: delaying decisive choices, preserving existing
+      dynamics, and offering target-assassination and selective bombardment when pressure
+      becomes unavoidable. Netanyahu ultimately seeks something different: a permanent
+      state of strategic tension that keeps Iran contained, Gaza unresolved, Lebanon
+      unstable, and Syria fractured — without tipping into a wider war with Iran that
+      Israel cannot fight without the US direct participation. Subscribe Subscribe to
+      get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: During Israeli Prime Minister Benjamin Netanyahu's visit to
+      the U.S., discussions with President Trump focused primarily on Iran's missile
+      program, highlighting significant differences in their strategic visions for resolving
+      regional crises, particularly in Gaza and Lebanon.
+    paragraph_summary: Israeli Prime Minister Benjamin Netanyahu's recent visit to the
+      United States for talks with President Donald Trump highlights significant differences
+      in their strategic approaches to regional issues, particularly regarding Iran.
+      While both leaders aim to address crises in the Middle East, their definitions
+      of "resolution" diverge sharply, complicating the idea of a comprehensive deal
+      that includes trade-offs among various conflicts. The primary focus of their discussions
+      is Iran, specifically its missile program, rather than its nuclear ambitions,
+      indicating a potential escalation in tensions. Netanyahu's objective appears to
+      be to contain Iranian influence without making substantial concessions that could
+      limit Israel's military operations. He aims to delay critical decisions and maintain
+      the status quo, utilizing targeted military actions only when necessary, reflecting
+      a broader strategy of postponement rather than resolution.
+    published: '2025-12-30T18:33:01+00:00'
+  - title: 'Entretiens Trump–Netanyahu : le programme balistique iranien prime tandis
+      que Gaza et le Liban restent en suspens'
+    url: https://ejmagnier.com/2025/12/30/entretiens-trump-netanyahu-le-programme-balistique-iranien-prime-tandis-que-gaza-et-le-liban-restent-en-suspens/
+    text: 'Entretiens Trump–Netanyahu : le programme balistique iranien prime tandis
+      que Gaza et le Liban restent en suspens L’Iran appelle le Hezbollah à combattre
+      tandis que l’Irak met en garde al-Sharaa contre toute escalade au Liban Par Elijah
+      J. Magnier – La visite du Premier ministre israélien Benjamin Netanyahu aux États-Unis
+      et ses rencontres avec le président Donald Trump et de hauts responsables de l’administration
+      s’inscrivent dans un contexte de visions stratégiques nettement divergentes. Si
+      les deux parties parlent de résoudre les crises régionales, elles divergent profondément
+      sur ce que signifie réellement une « résolution » et jusqu’où elle doit aller.
+      À y regarder de plus près, la notion de grands accords s’effondre rapidement.
+      Malgré les tentatives de présenter la visite comme un arrangement global fondé
+      sur des concessions croisées – Gaza contre l’Iran, le Liban contre la Syrie –
+      la réalité renvoie plutôt à des pressions qui se superposent. Chaque théâtre obéit
+      à ses propres contraintes, rythmes et dynamiques internes. Au cœur de la visite
+      de Netanyahu figure avant tout l’Iran, principal point à l’ordre du jour convenu.
+      Ce n’est pas le programme nucléaire iranien qui serait « immédiatement détruit
+      », comme l’a affirmé le président Donald Trump, mais bien le programme balistique,
+      un recentrage qui signale la proximité d’un nouveau cycle de confrontation. Tout
+      le reste – Gaza, le Liban, la Syrie, voire le Yémen – demeure important, mais
+      est traité comme secondaire, plus lent, instrumental ou tactique. La véritable
+      divergence entre Netanyahu et Trump ne porte pas sur la nécessité d’affronter
+      l’Iran, mais sur l’ampleur qu’une confrontation conjointe devrait prendre et sur
+      le coût qu’elle impliquerait. Du point de vue de Netanyahu, la visite relève moins
+      de la coordination que du confinement. Son objectif principal est de dissuader
+      Trump d’exercer des pressions en faveur de concessions substantielles susceptibles
+      de restreindre la liberté d’action militaire d’Israël. La stratégie de Netanyahu
+      repose sur le report des décisions : retarder les choix décisifs, préserver les
+      dynamiques existantes et recourir à des assassinats ciblés et à des bombardements
+      sélectifs lorsque la pression devient inévitable. Netanyahu poursuit en réalité
+      un objectif différent : instaurer un état permanent de tension stratégique maintenant
+      l’Iran sous contrainte, Gaza non résolu, le Liban instable et la Syrie fragmentée
+      – sans basculer dans une guerre ouverte contre l’Iran qu’Israël ne pourrait mener
+      sans la participation directe des États-Unis. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Lors de la visite de Benjamin Netanyahu aux États-Unis, les
+      discussions avec Donald Trump ont révélé des divergences stratégiques sur la résolution
+      des crises régionales, notamment concernant le programme balistique iranien, tandis
+      que les situations à Gaza et au Liban restent en suspens.
+    paragraph_summary: La visite du Premier ministre israélien Benjamin Netanyahu aux
+      États-Unis, où il a rencontré le président Donald Trump et des responsables de
+      l'administration, met en lumière des visions stratégiques divergentes concernant
+      la résolution des crises régionales. Bien que les deux parties s'accordent sur
+      la nécessité de traiter des enjeux comme l'Iran, Gaza et le Liban, leurs approches
+      diffèrent considérablement. Le programme balistique iranien est devenu le principal
+      sujet de préoccupation, remplaçant le programme nucléaire, et signale une possible
+      escalade des tensions. Netanyahu cherche à dissuader Trump de faire des concessions
+      qui pourraient limiter les actions militaires d'Israël, tandis que d'autres questions
+      régionales, bien qu'importantes, sont considérées comme secondaires et traitées
+      de manière plus tactique.
+    published: '2025-12-30T18:27:54+00:00'
+  - title: 'Entretiens Trump–Netanyahu : le programme balistique iranien prime tandis
+      que Gaza et le Liban restent en suspens'
+    url: https://ejmagnier.com/2025/12/30/entretiens-trump-netanyahu-le-programme-balistique-iranien-prime-tandis-que-gaza-et-le-liban-restent-en-suspens/
+    text: 'Entretiens Trump–Netanyahu : le programme balistique iranien prime tandis
+      que Gaza et le Liban restent en suspens L’Iran appelle le Hezbollah à combattre
+      tandis que l’Irak met en garde al-Sharaa contre toute escalade au Liban Par Elijah
+      J. Magnier – La visite du Premier ministre israélien Benjamin Netanyahu aux États-Unis
+      et ses rencontres avec le président Donald Trump et de hauts responsables de l’administration
+      s’inscrivent dans un contexte de visions stratégiques nettement divergentes. Si
+      les deux parties parlent de résoudre les crises régionales, elles divergent profondément
+      sur ce que signifie réellement une « résolution » et jusqu’où elle doit aller.
+      À y regarder de plus près, la notion de grands accords s’effondre rapidement.
+      Malgré les tentatives de présenter la visite comme un arrangement global fondé
+      sur des concessions croisées – Gaza contre l’Iran, le Liban contre la Syrie –
+      la réalité renvoie plutôt à des pressions qui se superposent. Chaque théâtre obéit
+      à ses propres contraintes, rythmes et dynamiques internes. Au cœur de la visite
+      de Netanyahu figure avant tout l’Iran, principal point à l’ordre du jour convenu.
+      Ce n’est pas le programme nucléaire iranien qui serait « immédiatement détruit
+      », comme l’a affirmé le président Donald Trump, mais bien le programme balistique,
+      un recentrage qui signale la proximité d’un nouveau cycle de confrontation. Tout
+      le reste – Gaza, le Liban, la Syrie, voire le Yémen – demeure important, mais
+      est traité comme secondaire, plus lent, instrumental ou tactique. La véritable
+      divergence entre Netanyahu et Trump ne porte pas sur la nécessité d’affronter
+      l’Iran, mais sur l’ampleur qu’une confrontation conjointe devrait prendre et sur
+      le coût qu’elle impliquerait. Du point de vue de Netanyahu, la visite relève moins
+      de la coordination que du confinement. Son objectif principal est de dissuader
+      Trump d’exercer des pressions en faveur de concessions substantielles susceptibles
+      de restreindre la liberté d’action militaire d’Israël. La stratégie de Netanyahu
+      repose sur le report des décisions : retarder les choix décisifs, préserver les
+      dynamiques existantes et recourir à des assassinats ciblés et à des bombardements
+      sélectifs lorsque la pression devient inévitable. Netanyahu poursuit en réalité
+      un objectif différent : instaurer un état permanent de tension stratégique maintenant
+      l’Iran sous contrainte, Gaza non résolu, le Liban instable et la Syrie fragmentée
+      – sans basculer dans une guerre ouverte contre l’Iran qu’Israël ne pourrait mener
+      sans la participation directe des États-Unis. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Lors de la visite de Benjamin Netanyahu aux États-Unis, les
+      discussions avec Donald Trump ont révélé des divergences stratégiques sur la résolution
+      des crises régionales, notamment concernant le programme balistique iranien, tandis
+      que les situations à Gaza et au Liban restent en suspens.
+    paragraph_summary: La visite du Premier ministre israélien Benjamin Netanyahu aux
+      États-Unis, où il a rencontré le président Donald Trump et des responsables de
+      l'administration, met en lumière des visions stratégiques divergentes concernant
+      la résolution des crises régionales. Bien que les deux parties s'accordent sur
+      la nécessité de traiter des enjeux comme l'Iran, Gaza et le Liban, leurs approches
+      diffèrent considérablement. Le programme balistique iranien est devenu le principal
+      sujet de préoccupation, remplaçant le programme nucléaire, et signale une possible
+      escalade des tensions. Netanyahu cherche à dissuader Trump de faire des concessions
+      qui pourraient limiter les actions militaires d'Israël, tandis que d'autres questions
+      régionales, bien qu'importantes, sont considérées comme secondaires et traitées
+      de manière plus tactique.
+    published: '2025-12-30T18:27:54+00:00'
+  - title: 'Trump-Netanyahu-gesprekken: Iraans raketprogramma krijgt voorrang terwijl
+      Gaza en Libanon secundair blijven'
+    url: https://ejmagnier.com/2025/12/30/trump-netanyahu-gesprekken-iraans-raketprogramma-krijgt-voorrang-terwijl-gaza-en-libanon-secundair-blijven/
+    text: 'Trump-Netanyahu-gesprekken: Iraans raketprogramma krijgt voorrang terwijl
+      Gaza en Libanon secundair blijven Iran roept Hezbollah op om te vechten, terwijl
+      Irak al-Sharaa waarschuwt voor escalatie in Libanon Geschreven door Elijah J.
+      Magnier – Vertaald door Francis J. Het bezoek van de Israëlische premier Benjamin
+      Netanyahu aan de Verenigde Staten en zijn ontmoetingen met president Donald Trump
+      en hoge functionarissen van de regering vinden plaats tegen een achtergrond van
+      duidelijk uiteenlopende strategische visies. Hoewel beide partijen spreken over
+      het oplossen van regionale crises, verschillen ze sterk van mening over wat “oplossing”
+      eigenlijk inhoudt en hoe ver die oplossing moet gaan. Bij nader inzien stort het
+      idee van grootse compromissen snel in elkaar. Ondanks pogingen om het bezoek te
+      framen als een alomvattende deal gebaseerd op compromissen – Gaza voor Iran, Libanon
+      voor Syrië – wijst de realiteit eerder op overlappende druk. Elk theater opereert
+      volgens zijn eigen beperkingen, ritmes en interne dynamiek. De kern van het bezoek
+      van Netanyahu wordt in de eerste plaats gevormd door Iran, als centraal punt op
+      de overeengekomen agenda. Het is niet het nucleaire programma van Iran dat “onmiddellijk
+      zal worden vernietigd”, zoals president Donald Trump beweerde, maar veeleer het
+      raketprogramma, een focus die wijst op de nabijheid van een nieuwe confrontatieronde.
+      Al het andere – Gaza, Libanon, Syrië, zelfs Jemen – blijft belangrijk, maar wordt
+      behandeld als secundair, trager verlopend, instrumenteel of tactisch. Het echte
+      verschil tussen Netanyahu en Trump is niet of Iran moet worden geconfronteerd,
+      maar hoe ver een gezamenlijke confrontatie moet gaan en tegen welke prijs. Vanuit
+      het perspectief van Netanyahu gaat het bezoek minder om coördinatie dan om beheersing.
+      Het primaire doel is Trump ervan te weerhouden druk uit te oefenen voor substantiële
+      concessies die de militaire vrijheid van handelen van Israël zouden kunnen beperken.
+      De strategie van Netanyahu is gericht op uitstel: het uitstellen van beslissende
+      keuzes, het behouden van de bestaande dynamiek en het aanbieden van gerichte moordaanslagen
+      en selectieve bombardementen wanneer druk onvermijdelijk wordt. Netanyahu streeft
+      uiteindelijk naar iets anders: een permanente staat van strategische spanning
+      die Iran in bedwang houdt, Gaza onopgelost, Libanon onstabiel en Syrië verscheurd
+      – zonder te vervallen in een grotere oorlog met Iran die Israël niet kan voeren
+      zonder de directe deelname van de VS. Trump wil zichzelf presenteren als een dealmaker
+      die in staat is oorlogen te beëindigen, al is het maar gedeeltelijk of tijdelijk.
+      Zijn nadruk ligt op e schijn ophouden, aankondigingen en het beheren van de rust
+      in plaats van op het vinden van een oplossing. Hij wil de schijn van controle
+      zonder de kosten van oorlog te dragen: druk gevolgd door een snelle aanval zonder
+      escalatie, dreigementen zonder gevolgen en crisisbeheer dat uitmondt in deals
+      die als overwinningen worden verkocht. Ondanks zijn agressieve retoriek heeft
+      Trump weinig zin in een volledige confrontatie met Teheran. In plaats daarvan
+      lijkt hij geneigd om beperkte acties te herhalen, zoals aanvallen met B-2 Spirit
+      stealthbommenwerpers, die zijn afgestemd op minimale gevolgen en beperkte vergeldingsmaatregelen.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly'
+    one_sentence_summary: Tijdens het bezoek van de Israëlische premier Netanyahu aan
+      de VS, waar hij met president Trump sprak, werd duidelijk dat de strategische
+      visies van beide partijen over regionale crises sterk uiteenlopen, met de prioriteit
+      van het Iraanse raketprogramma boven de kwesties in Gaza en Libanon.
+    paragraph_summary: Tijdens het bezoek van de Israëlische premier Benjamin Netanyahu
+      aan de Verenigde Staten, waar hij president Donald Trump en hoge ambtenaren ontmoette,
+      werd duidelijk dat er aanzienlijke verschillen zijn in hun strategische visies
+      over regionale crises. Terwijl beide partijen het belang van een oplossing benadrukken,
+      verschilt hun interpretatie van wat dat inhoudt, met Iran als centraal onderwerp
+      op de agenda. In plaats van de focus op het nucleaire programma van Iran, ligt
+      de nadruk op het Iraanse raketprogramma, wat wijst op een mogelijke nieuwe confrontatie.
+      Andere kwesties zoals Gaza, Libanon en Syrië worden als secundair beschouwd. Netanyahu's
+      strategie lijkt gericht op het beheersen van de druk van Trump om substantiële
+      concessies te doen die de militaire vrijheid van Israël zouden kunnen beperken.
+    published: '2025-12-30T18:24:03+00:00'
+  - title: 'Trump-Netanyahu-gesprekken: Iraans raketprogramma krijgt voorrang terwijl
+      Gaza en Libanon secundair blijven'
+    url: https://ejmagnier.com/2025/12/30/trump-netanyahu-gesprekken-iraans-raketprogramma-krijgt-voorrang-terwijl-gaza-en-libanon-secundair-blijven/
+    text: 'Trump-Netanyahu-gesprekken: Iraans raketprogramma krijgt voorrang terwijl
+      Gaza en Libanon secundair blijven Iran roept Hezbollah op om te vechten, terwijl
+      Irak al-Sharaa waarschuwt voor escalatie in Libanon Geschreven door Elijah J.
+      Magnier – Vertaald door Francis J. Het bezoek van de Israëlische premier Benjamin
+      Netanyahu aan de Verenigde Staten en zijn ontmoetingen met president Donald Trump
+      en hoge functionarissen van de regering vinden plaats tegen een achtergrond van
+      duidelijk uiteenlopende strategische visies. Hoewel beide partijen spreken over
+      het oplossen van regionale crises, verschillen ze sterk van mening over wat “oplossing”
+      eigenlijk inhoudt en hoe ver die oplossing moet gaan. Bij nader inzien stort het
+      idee van grootse compromissen snel in elkaar. Ondanks pogingen om het bezoek te
+      framen als een alomvattende deal gebaseerd op compromissen – Gaza voor Iran, Libanon
+      voor Syrië – wijst de realiteit eerder op overlappende druk. Elk theater opereert
+      volgens zijn eigen beperkingen, ritmes en interne dynamiek. De kern van het bezoek
+      van Netanyahu wordt in de eerste plaats gevormd door Iran, als centraal punt op
+      de overeengekomen agenda. Het is niet het nucleaire programma van Iran dat “onmiddellijk
+      zal worden vernietigd”, zoals president Donald Trump beweerde, maar veeleer het
+      raketprogramma, een focus die wijst op de nabijheid van een nieuwe confrontatieronde.
+      Al het andere – Gaza, Libanon, Syrië, zelfs Jemen – blijft belangrijk, maar wordt
+      behandeld als secundair, trager verlopend, instrumenteel of tactisch. Het echte
+      verschil tussen Netanyahu en Trump is niet of Iran moet worden geconfronteerd,
+      maar hoe ver een gezamenlijke confrontatie moet gaan en tegen welke prijs. Vanuit
+      het perspectief van Netanyahu gaat het bezoek minder om coördinatie dan om beheersing.
+      Het primaire doel is Trump ervan te weerhouden druk uit te oefenen voor substantiële
+      concessies die de militaire vrijheid van handelen van Israël zouden kunnen beperken.
+      De strategie van Netanyahu is gericht op uitstel: het uitstellen van beslissende
+      keuzes, het behouden van de bestaande dynamiek en het aanbieden van gerichte moordaanslagen
+      en selectieve bombardementen wanneer druk onvermijdelijk wordt. Netanyahu streeft
+      uiteindelijk naar iets anders: een permanente staat van strategische spanning
+      die Iran in bedwang houdt, Gaza onopgelost, Libanon onstabiel en Syrië verscheurd
+      – zonder te vervallen in een grotere oorlog met Iran die Israël niet kan voeren
+      zonder de directe deelname van de VS. Trump wil zichzelf presenteren als een dealmaker
+      die in staat is oorlogen te beëindigen, al is het maar gedeeltelijk of tijdelijk.
+      Zijn nadruk ligt op e schijn ophouden, aankondigingen en het beheren van de rust
+      in plaats van op het vinden van een oplossing. Hij wil de schijn van controle
+      zonder de kosten van oorlog te dragen: druk gevolgd door een snelle aanval zonder
+      escalatie, dreigementen zonder gevolgen en crisisbeheer dat uitmondt in deals
+      die als overwinningen worden verkocht. Ondanks zijn agressieve retoriek heeft
+      Trump weinig zin in een volledige confrontatie met Teheran. In plaats daarvan
+      lijkt hij geneigd om beperkte acties te herhalen, zoals aanvallen met B-2 Spirit
+      stealthbommenwerpers, die zijn afgestemd op minimale gevolgen en beperkte vergeldingsmaatregelen.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly'
+    one_sentence_summary: Tijdens het bezoek van de Israëlische premier Netanyahu aan
+      de VS, waar hij met president Trump sprak, werd duidelijk dat de strategische
+      visies van beide partijen over regionale crises sterk uiteenlopen, met de prioriteit
+      van het Iraanse raketprogramma boven de kwesties in Gaza en Libanon.
+    paragraph_summary: Tijdens het bezoek van de Israëlische premier Benjamin Netanyahu
+      aan de Verenigde Staten, waar hij president Donald Trump en hoge ambtenaren ontmoette,
+      werd duidelijk dat er aanzienlijke verschillen zijn in hun strategische visies
+      over regionale crises. Terwijl beide partijen het belang van een oplossing benadrukken,
+      verschilt hun interpretatie van wat dat inhoudt, met Iran als centraal onderwerp
+      op de agenda. In plaats van de focus op het nucleaire programma van Iran, ligt
+      de nadruk op het Iraanse raketprogramma, wat wijst op een mogelijke nieuwe confrontatie.
+      Andere kwesties zoals Gaza, Libanon en Syrië worden als secundair beschouwd. Netanyahu's
+      strategie lijkt gericht op het beheersen van de druk van Trump om substantiële
+      concessies te doen die de militaire vrijheid van Israël zouden kunnen beperken.
+    published: '2025-12-30T18:24:03+00:00'
+  - title: 'Europe’s Double Language and Standards: Law in Public, Power in Practice'
+    url: https://ejmagnier.com/2025/12/29/europes-double-language-and-standards-law-in-public-power-in-practice/
+    text: By Elijah J. Magnier – At the heart of European decision-making in Brussels,
+      the European Union has developed a dual posture on Palestine that is increasingly
+      irreconcilable with its own claims to principle. This contradiction is not merely
+      rhetorical; it exposes how power is exercised when law collides with political
+      risk. In public, EU institutions affirm their commitment to international humanitarian
+      law, invoke the authority of the International Court of Justice and the International
+      Criminal Court, and emphasise the imperative of accountability for grave violations.
+      These commitments are expressed through resolutions, formal statements, and carefully
+      calibrated diplomatic language that cast Europe as a guardian of norms in an increasingly
+      fractured international order. Privately, however, within the machinery of policy
+      formation and enforcement, accountability is managed, delayed, or displaced through
+      administrative and financial control rather than enforced through law. This article
+      examines that internal logic. It does not focus on public declarations or moral
+      posturing, but on how European institutions operate in practice when confronted
+      with sustained violence, political pressure, and the risks associated with enforcing
+      legal responsibility. It traces how legal language is used to defer action, how
+      financial and administrative instruments are deployed asymmetrically, and how
+      governance mechanisms replace accountability when the political costs of enforcement
+      rise. The destruction of Gaza did not expose a failure of European policy; it
+      exposed its operational method. Subscribe Subscribe to get access Read more of
+      this content when you subscribe today. Subscribe Submitting form Log in Make a
+      one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly
+    one_sentence_summary: The article by Elijah J. Magnier highlights the European Union's
+      contradictory stance on Palestine, where it publicly upholds international humanitarian
+      law and accountability while privately managing and delaying enforcement through
+      administrative means, revealing a tension between principles and political realities.
+    paragraph_summary: Elijah J. Magnier's article critiques the European Union's contradictory
+      stance on Palestine, highlighting a disconnect between its public commitments
+      to international humanitarian law and its private policy practices. While EU institutions
+      publicly advocate for accountability and adherence to legal norms, they often
+      manage accountability through administrative and financial means rather than legal
+      enforcement, especially when faced with political risks. The article argues that
+      this operational method, which prioritizes political considerations over legal
+      obligations, becomes evident in the context of ongoing violence and the situation
+      in Gaza, revealing a systemic failure to uphold the principles the EU claims to
+      support.
+    published: '2025-12-29T18:05:38+00:00'
+  - title: 'Europe’s Double Language and Standards: Law in Public, Power in Practice'
+    url: https://ejmagnier.com/2025/12/29/europes-double-language-and-standards-law-in-public-power-in-practice/
+    text: By Elijah J. Magnier – At the heart of European decision-making in Brussels,
+      the European Union has developed a dual posture on Palestine that is increasingly
+      irreconcilable with its own claims to principle. This contradiction is not merely
+      rhetorical; it exposes how power is exercised when law collides with political
+      risk. In public, EU institutions affirm their commitment to international humanitarian
+      law, invoke the authority of the International Court of Justice and the International
+      Criminal Court, and emphasise the imperative of accountability for grave violations.
+      These commitments are expressed through resolutions, formal statements, and carefully
+      calibrated diplomatic language that cast Europe as a guardian of norms in an increasingly
+      fractured international order. Privately, however, within the machinery of policy
+      formation and enforcement, accountability is managed, delayed, or displaced through
+      administrative and financial control rather than enforced through law. This article
+      examines that internal logic. It does not focus on public declarations or moral
+      posturing, but on how European institutions operate in practice when confronted
+      with sustained violence, political pressure, and the risks associated with enforcing
+      legal responsibility. It traces how legal language is used to defer action, how
+      financial and administrative instruments are deployed asymmetrically, and how
+      governance mechanisms replace accountability when the political costs of enforcement
+      rise. The destruction of Gaza did not expose a failure of European policy; it
+      exposed its operational method. Subscribe Subscribe to get access Read more of
+      this content when you subscribe today. Subscribe Submitting form Log in Make a
+      one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly
+    one_sentence_summary: The article by Elijah J. Magnier highlights the European Union's
+      contradictory stance on Palestine, where it publicly upholds international humanitarian
+      law and accountability while privately managing and delaying enforcement through
+      administrative means, revealing a tension between principles and political realities.
+    paragraph_summary: Elijah J. Magnier's article critiques the European Union's contradictory
+      stance on Palestine, highlighting a disconnect between its public commitments
+      to international humanitarian law and its private policy practices. While EU institutions
+      publicly advocate for accountability and adherence to legal norms, they often
+      manage accountability through administrative and financial means rather than legal
+      enforcement, especially when faced with political risks. The article argues that
+      this operational method, which prioritizes political considerations over legal
+      obligations, becomes evident in the context of ongoing violence and the situation
+      in Gaza, revealing a systemic failure to uphold the principles the EU claims to
+      support.
+    published: '2025-12-29T18:05:38+00:00'
+  - title: 'Le double langage et les doubles standards de l’Europe : le droit en public,
+      le pouvoir en pratique'
+    url: https://ejmagnier.com/2025/12/29/le-double-langage-et-les-doubles-standards-de-leurope-le-droit-en-public-le-pouvoir-en-pratique/
+    text: Par Elijah J. Magnier – Au cœur de la prise de décision européenne à Bruxelles,
+      l’Union européenne a développé une posture duale sur la Palestine de plus en plus
+      irréconciliable avec ses propres prétentions de principe. Cette contradiction
+      n’est pas seulement rhétorique ; elle révèle la manière dont le pouvoir s’exerce
+      lorsque le droit entre en collision avec le risque politique. En public, les institutions
+      européennes réaffirment leur attachement au droit international humanitaire, invoquent
+      l’autorité de la Cour internationale de Justice et de la Cour pénale internationale,
+      et soulignent l’impératif de responsabilité face aux violations graves. Ces engagements
+      s’expriment à travers des résolutions, des déclarations officielles et un langage
+      diplomatique soigneusement calibré, qui présentent l’Europe comme une gardienne
+      des normes dans un ordre international de plus en plus fragmenté. En privé, toutefois,
+      au sein de la machinerie de l’élaboration et de l’exécution des politiques, la
+      responsabilité est gérée, différée ou déplacée par des mécanismes administratifs
+      et financiers plutôt qu’appliquée par le droit. Cet article examine cette logique
+      interne. Il ne s’attarde pas sur les déclarations publiques ou les postures morales,
+      mais sur la manière dont les institutions européennes fonctionnent concrètement
+      lorsqu’elles sont confrontées à une violence prolongée, à des pressions politiques
+      et aux risques liés à l’application effective de la responsabilité juridique.
+      Il analyse comment le langage juridique est utilisé pour différer l’action, comment
+      les instruments financiers et administratifs sont déployés de manière asymétrique,
+      et comment des mécanismes de gouvernance se substituent à la responsabilité lorsque
+      le coût politique de son application devient trop élevé. La destruction de Gaza
+      n’a pas révélé un échec de la politique européenne ; elle en a révélé la méthode
+      opérationnelle. Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly
+    one_sentence_summary: L'Union européenne adopte une posture duale sur la Palestine,
+      affirmant publiquement son engagement envers le droit international tout en agissant
+      en privé de manière contradictoire, révélant ainsi les tensions entre principes
+      juridiques et réalités politiques.
+    paragraph_summary: L'article d'Elijah J. Magnier met en lumière la contradiction
+      croissante au sein de l'Union européenne concernant sa position sur la Palestine,
+      où les déclarations publiques en faveur du droit international et de la responsabilité
+      face aux violations des droits humains se heurtent à des pratiques internes qui
+      évitent l'application effective de ces principes. Alors que les institutions européennes
+      se présentent comme des gardiennes des normes internationales à travers des résolutions
+      et des déclarations, en réalité, elles gèrent la responsabilité par des mécanismes
+      administratifs et financiers, souvent en décalant ou en minimisant leur application
+      lorsque cela devient politiquement risqué. L'article souligne que la situation
+      à Gaza illustre non pas un échec de la politique européenne, mais plutôt une méthode
+      opérationnelle qui privilégie la gestion des risques politiques sur l'engagement
+      juridique réel.
+    published: '2025-12-29T18:04:23+00:00'
+  - title: 'Le double langage et les doubles standards de l’Europe : le droit en public,
+      le pouvoir en pratique'
+    url: https://ejmagnier.com/2025/12/29/le-double-langage-et-les-doubles-standards-de-leurope-le-droit-en-public-le-pouvoir-en-pratique/
+    text: Par Elijah J. Magnier – Au cœur de la prise de décision européenne à Bruxelles,
+      l’Union européenne a développé une posture duale sur la Palestine de plus en plus
+      irréconciliable avec ses propres prétentions de principe. Cette contradiction
+      n’est pas seulement rhétorique ; elle révèle la manière dont le pouvoir s’exerce
+      lorsque le droit entre en collision avec le risque politique. En public, les institutions
+      européennes réaffirment leur attachement au droit international humanitaire, invoquent
+      l’autorité de la Cour internationale de Justice et de la Cour pénale internationale,
+      et soulignent l’impératif de responsabilité face aux violations graves. Ces engagements
+      s’expriment à travers des résolutions, des déclarations officielles et un langage
+      diplomatique soigneusement calibré, qui présentent l’Europe comme une gardienne
+      des normes dans un ordre international de plus en plus fragmenté. En privé, toutefois,
+      au sein de la machinerie de l’élaboration et de l’exécution des politiques, la
+      responsabilité est gérée, différée ou déplacée par des mécanismes administratifs
+      et financiers plutôt qu’appliquée par le droit. Cet article examine cette logique
+      interne. Il ne s’attarde pas sur les déclarations publiques ou les postures morales,
+      mais sur la manière dont les institutions européennes fonctionnent concrètement
+      lorsqu’elles sont confrontées à une violence prolongée, à des pressions politiques
+      et aux risques liés à l’application effective de la responsabilité juridique.
+      Il analyse comment le langage juridique est utilisé pour différer l’action, comment
+      les instruments financiers et administratifs sont déployés de manière asymétrique,
+      et comment des mécanismes de gouvernance se substituent à la responsabilité lorsque
+      le coût politique de son application devient trop élevé. La destruction de Gaza
+      n’a pas révélé un échec de la politique européenne ; elle en a révélé la méthode
+      opérationnelle. Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly
+    one_sentence_summary: L'Union européenne adopte une posture duale sur la Palestine,
+      affirmant publiquement son engagement envers le droit international tout en agissant
+      en privé de manière contradictoire, révélant ainsi les tensions entre principes
+      juridiques et réalités politiques.
+    paragraph_summary: L'article d'Elijah J. Magnier met en lumière la contradiction
+      croissante au sein de l'Union européenne concernant sa position sur la Palestine,
+      où les déclarations publiques en faveur du droit international et de la responsabilité
+      face aux violations des droits humains se heurtent à des pratiques internes qui
+      évitent l'application effective de ces principes. Alors que les institutions européennes
+      se présentent comme des gardiennes des normes internationales à travers des résolutions
+      et des déclarations, en réalité, elles gèrent la responsabilité par des mécanismes
+      administratifs et financiers, souvent en décalant ou en minimisant leur application
+      lorsque cela devient politiquement risqué. L'article souligne que la situation
+      à Gaza illustre non pas un échec de la politique européenne, mais plutôt une méthode
+      opérationnelle qui privilégie la gestion des risques politiques sur l'engagement
+      juridique réel.
+    published: '2025-12-29T18:04:23+00:00'
+  - title: 'Why the Israel–Greece–Cyprus Summit Matters More Than It Appears: Iran,
+      Turkey and Gaza on the menu'
+    url: https://ejmagnier.com/2025/12/25/why-the-israel-greece-cyprus-summit-matters-more-than-it-appears-iran-turkey-and-gaza-on-the-menu/
+    text: By Elijah J. Magnier – Israel’s prime minister Benjamin Netanyahu met in Jerusalem
+      with Kyriakos Mitsotakis, the prime minister of Greece, and Nikos Christodoulides,
+      the president of Cyprus, for a trilateral summit between Israel, Greece and Cyprus. The
+      meeting comes at a moment when Israel is recalibrating its regional posture ahead
+      of a possible wider confrontation with Iran, amid escalating missile threats,
+      shifting power balances in Syria, and renewed diplomatic pressure over Gaza. For
+      Israel, the summit offers several immediate strategic benefits. It reinforces
+      diplomatic cover through two EU member states, extends Israel’s security and intelligence
+      depth westward into the eastern Mediterranean, strengthens coordination on missile
+      detection and early warning in case of war against Iran, and consolidates a regional
+      alignment that complicates adversaries’ operational planning. The timing is also
+      significant because the Jerusalem summit precedes a planned visit by Netanyahu
+      to Washington to meet U.S. President Donald Trump, a meeting Israeli officials
+      say followed a specific request from the prime minister. Iran is expected to top
+      the agenda, but it will not be the only issue. Turkey has emerged as Israel’s
+      second most serious strategic challenge after Iran, particularly as Turkey expands
+      its influence in post-war Syria. Israeli officials increasingly view Ankara’s
+      role there as an obstacle to Netanyahu’s efforts to impose and enforce Israeli
+      security terms on Syria’s future order. Subscribe Subscribe to get access Read
+      more of this content when you subscribe today. Subscribe Submitting form Log in
+      Make a one-time donation Your contribution is appreciated. Donate Make a monthly
+      donation Your contribution is appreciated. Donate monthly Make a yearly donation
+      Your contribution is appreciated. Donate yearly
+    one_sentence_summary: Israeli Prime Minister Benjamin Netanyahu held a trilateral
+      summit in Jerusalem with Greek Prime Minister Kyriakos Mitsotakis and Cypriot
+      President Nikos Christodoulides to enhance regional security and diplomatic support
+      amid rising tensions with Iran and shifting dynamics in the Middle East.
+    paragraph_summary: Israeli Prime Minister Benjamin Netanyahu held a trilateral summit
+      in Jerusalem with Greek Prime Minister Kyriakos Mitsotakis and Cypriot President
+      Nikos Christodoulides, aimed at strengthening regional cooperation amid rising
+      tensions with Iran and evolving dynamics in Syria. The meeting is strategically
+      significant for Israel, as it enhances diplomatic support from two EU nations,
+      bolsters security and intelligence collaboration in the eastern Mediterranean,
+      and complicates adversaries' military planning. This summit precedes Netanyahu's
+      upcoming visit to Washington to discuss Iran and other regional issues, particularly
+      the growing influence of Turkey in Syria, which Israeli officials see as a major
+      challenge to their security objectives.
+    published: '2025-12-25T18:10:23+00:00'
+  - title: 'Why the Israel–Greece–Cyprus Summit Matters More Than It Appears: Iran,
+      Turkey and Gaza on the menu'
+    url: https://ejmagnier.com/2025/12/25/why-the-israel-greece-cyprus-summit-matters-more-than-it-appears-iran-turkey-and-gaza-on-the-menu/
+    text: By Elijah J. Magnier – Israel’s prime minister Benjamin Netanyahu met in Jerusalem
+      with Kyriakos Mitsotakis, the prime minister of Greece, and Nikos Christodoulides,
+      the president of Cyprus, for a trilateral summit between Israel, Greece and Cyprus. The
+      meeting comes at a moment when Israel is recalibrating its regional posture ahead
+      of a possible wider confrontation with Iran, amid escalating missile threats,
+      shifting power balances in Syria, and renewed diplomatic pressure over Gaza. For
+      Israel, the summit offers several immediate strategic benefits. It reinforces
+      diplomatic cover through two EU member states, extends Israel’s security and intelligence
+      depth westward into the eastern Mediterranean, strengthens coordination on missile
+      detection and early warning in case of war against Iran, and consolidates a regional
+      alignment that complicates adversaries’ operational planning. The timing is also
+      significant because the Jerusalem summit precedes a planned visit by Netanyahu
+      to Washington to meet U.S. President Donald Trump, a meeting Israeli officials
+      say followed a specific request from the prime minister. Iran is expected to top
+      the agenda, but it will not be the only issue. Turkey has emerged as Israel’s
+      second most serious strategic challenge after Iran, particularly as Turkey expands
+      its influence in post-war Syria. Israeli officials increasingly view Ankara’s
+      role there as an obstacle to Netanyahu’s efforts to impose and enforce Israeli
+      security terms on Syria’s future order. Subscribe Subscribe to get access Read
+      more of this content when you subscribe today. Subscribe Submitting form Log in
+      Make a one-time donation Your contribution is appreciated. Donate Make a monthly
+      donation Your contribution is appreciated. Donate monthly Make a yearly donation
+      Your contribution is appreciated. Donate yearly
+    one_sentence_summary: Israeli Prime Minister Benjamin Netanyahu held a trilateral
+      summit in Jerusalem with Greek Prime Minister Kyriakos Mitsotakis and Cypriot
+      President Nikos Christodoulides to enhance regional security and diplomatic support
+      amid rising tensions with Iran and shifting dynamics in the Middle East.
+    paragraph_summary: Israeli Prime Minister Benjamin Netanyahu held a trilateral summit
+      in Jerusalem with Greek Prime Minister Kyriakos Mitsotakis and Cypriot President
+      Nikos Christodoulides, aimed at strengthening regional cooperation amid rising
+      tensions with Iran and evolving dynamics in Syria. The meeting is strategically
+      significant for Israel, as it enhances diplomatic support from two EU nations,
+      bolsters security and intelligence collaboration in the eastern Mediterranean,
+      and complicates adversaries' military planning. This summit precedes Netanyahu's
+      upcoming visit to Washington to discuss Iran and other regional issues, particularly
+      the growing influence of Turkey in Syria, which Israeli officials see as a major
+      challenge to their security objectives.
+    published: '2025-12-25T18:10:23+00:00'
+  - title: 'Pourquoi le sommet Israël–Grèce–Chypre compte plus qu’il n’y paraît : l’Iran,
+      la Turquie et Gaza au menu'
+    url: https://ejmagnier.com/2025/12/25/pourquoi-le-sommet-israel-grece-chypre-compte-plus-quil-ny-parait-liran-la-turquie-et-gaza-au-menu/
+    text: Par Elijah J. Magnier – Le Premier ministre israélien Benjamin Netanyahu a
+      rencontré à Jérusalem Kyriakos Mitsotakis, Premier ministre grec, et Nikos Christodoulides,
+      président de Chypre, dans le cadre d’un sommet trilatéral réunissant Israël, la
+      Grèce et Chypre. Cette rencontre intervient à un moment où Israël redéfinit sa
+      posture régionale en prévision d’un possible affrontement plus large avec l’Iran,
+      dans un contexte de menaces balistiques croissantes, de recomposition des rapports
+      de force en Syrie et de pression diplomatique renouvelée autour de Gaza. Pour
+      Israël, ce sommet offre plusieurs avantages stratégiques immédiats. Il renforce
+      sa couverture diplomatique grâce à deux États membres de l’Union européenne, étend
+      vers l’ouest sa profondeur sécuritaire et de renseignement en Méditerranée orientale,
+      renforce la coordination en matière de détection balistique et d’alerte précoce
+      en cas de guerre contre l’Iran, et consolide un alignement régional qui complique
+      la planification opérationnelle de ses adversaires. Le calendrier est également
+      significatif, dans la mesure où le sommet de Jérusalem précède une visite prévue
+      de Netanyahu à Washington pour rencontrer le président américain Donald Trump,
+      une rencontre que des responsables israéliens disent avoir suivi une demande explicite
+      du Premier ministre. L’Iran devrait être en tête de l’ordre du jour, mais il ne
+      sera pas le seul sujet abordé. La Turquie est devenue le deuxième défi stratégique
+      le plus sérieux pour Israël après l’Iran, en particulier à mesure qu’Ankara étend
+      son influence dans la Syrie de l’après-guerre. Des responsables israéliens considèrent
+      de plus en plus le rôle de la Turquie comme un obstacle aux efforts de Netanyahu
+      visant à imposer et faire respecter des conditions de sécurité israéliennes dans
+      le futur ordre syrien. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly
+    one_sentence_summary: Le Premier ministre israélien Benjamin Netanyahu a rencontré
+      ses homologues grec et chypriote lors d'un sommet trilatéral à Jérusalem, visant
+      à renforcer la coopération stratégique face aux menaces croissantes d'Iran et
+      à redéfinir la posture régionale d'Israël.
+    paragraph_summary: Israeli Prime Minister Benjamin Netanyahu held a trilateral summit
+      in Jerusalem with Greek Prime Minister Kyriakos Mitsotakis and Cypriot President
+      Nikos Christodoulides, aimed at strengthening Israel's regional posture amid rising
+      tensions with Iran and evolving dynamics in Syria. This meeting is strategically
+      significant for Israel as it enhances its diplomatic coverage with EU member states,
+      bolsters security and intelligence cooperation in the Eastern Mediterranean, and
+      improves ballistic detection and early warning systems in anticipation of potential
+      conflict with Iran. The timing of the summit is notable, as it precedes Netanyahu's
+      upcoming visit to Washington for discussions with President Donald Trump, where
+      Iran will be a key topic alongside the growing challenge posed by Turkey, which
+      is increasingly viewed as a significant obstacle to Israel's security objectives
+      in the post-war Syrian landscape.
+    published: '2025-12-25T18:09:39+00:00'
+  - title: 'Pourquoi le sommet Israël–Grèce–Chypre compte plus qu’il n’y paraît : l’Iran,
+      la Turquie et Gaza au menu'
+    url: https://ejmagnier.com/2025/12/25/pourquoi-le-sommet-israel-grece-chypre-compte-plus-quil-ny-parait-liran-la-turquie-et-gaza-au-menu/
+    text: Par Elijah J. Magnier – Le Premier ministre israélien Benjamin Netanyahu a
+      rencontré à Jérusalem Kyriakos Mitsotakis, Premier ministre grec, et Nikos Christodoulides,
+      président de Chypre, dans le cadre d’un sommet trilatéral réunissant Israël, la
+      Grèce et Chypre. Cette rencontre intervient à un moment où Israël redéfinit sa
+      posture régionale en prévision d’un possible affrontement plus large avec l’Iran,
+      dans un contexte de menaces balistiques croissantes, de recomposition des rapports
+      de force en Syrie et de pression diplomatique renouvelée autour de Gaza. Pour
+      Israël, ce sommet offre plusieurs avantages stratégiques immédiats. Il renforce
+      sa couverture diplomatique grâce à deux États membres de l’Union européenne, étend
+      vers l’ouest sa profondeur sécuritaire et de renseignement en Méditerranée orientale,
+      renforce la coordination en matière de détection balistique et d’alerte précoce
+      en cas de guerre contre l’Iran, et consolide un alignement régional qui complique
+      la planification opérationnelle de ses adversaires. Le calendrier est également
+      significatif, dans la mesure où le sommet de Jérusalem précède une visite prévue
+      de Netanyahu à Washington pour rencontrer le président américain Donald Trump,
+      une rencontre que des responsables israéliens disent avoir suivi une demande explicite
+      du Premier ministre. L’Iran devrait être en tête de l’ordre du jour, mais il ne
+      sera pas le seul sujet abordé. La Turquie est devenue le deuxième défi stratégique
+      le plus sérieux pour Israël après l’Iran, en particulier à mesure qu’Ankara étend
+      son influence dans la Syrie de l’après-guerre. Des responsables israéliens considèrent
+      de plus en plus le rôle de la Turquie comme un obstacle aux efforts de Netanyahu
+      visant à imposer et faire respecter des conditions de sécurité israéliennes dans
+      le futur ordre syrien. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly
+    one_sentence_summary: Le Premier ministre israélien Benjamin Netanyahu a rencontré
+      ses homologues grec et chypriote lors d'un sommet trilatéral à Jérusalem, visant
+      à renforcer la coopération stratégique face aux menaces croissantes d'Iran et
+      à redéfinir la posture régionale d'Israël.
+    paragraph_summary: Israeli Prime Minister Benjamin Netanyahu held a trilateral summit
+      in Jerusalem with Greek Prime Minister Kyriakos Mitsotakis and Cypriot President
+      Nikos Christodoulides, aimed at strengthening Israel's regional posture amid rising
+      tensions with Iran and evolving dynamics in Syria. This meeting is strategically
+      significant for Israel as it enhances its diplomatic coverage with EU member states,
+      bolsters security and intelligence cooperation in the Eastern Mediterranean, and
+      improves ballistic detection and early warning systems in anticipation of potential
+      conflict with Iran. The timing of the summit is notable, as it precedes Netanyahu's
+      upcoming visit to Washington for discussions with President Donald Trump, where
+      Iran will be a key topic alongside the growing challenge posed by Turkey, which
+      is increasingly viewed as a significant obstacle to Israel's security objectives
+      in the post-war Syrian landscape.
+    published: '2025-12-25T18:09:39+00:00'
   - title: Was die Kriege in der Ukraine, im Libanon, im Gazastreifen und im Iran über
       die neue Verteidigungswirtschaft verraten
     url: https://ejmagnier.com/2025/12/23/was-die-kriege-in-der-ukraine-im-libanon-im-gazastreifen-und-im-iran-uber-die-neue-verteidigungswirtschaft-verraten/

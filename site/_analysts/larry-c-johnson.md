@@ -7,19 +7,1376 @@ description: "Former CIA analyst & State Dept counterterrorism official; runs So
 websites:
   - https://sonar21.com
 summary: |
-  As the Ukraine conflict grinds on into late December 2025, Western sanctions and diplomatic maneuvering continue to shape the geopolitical landscape. The latest analyses emphasize the enduring impact of financial measures against Russia and the persistent disconnect between Western expectations and on-the-ground realities.
+  As 2025 draws to a close, geopolitical tensions remain high across several key regions. The latest developments center on Iran’s internal unrest, the ongoing repercussions of the recent drone attack in Russia, and shifting narratives in Western media coverage.
   
-  A key development highlighted by **Larry C. Johnson** is the ongoing freeze of approximately $300 billion in Russian state assets globally. While this is often cited as a major lever against Moscow, Johnson notes that Russia may soon retaliate against these actions, though the precise form such retaliation might take remains speculative. The majority view among analysts is that, despite these unprecedented sanctions, Russia’s economy has demonstrated unexpected resilience, with Central Bank head Elvira Nabiullina insisting that the country is “managing well.” This challenges the widespread Western belief that economic pressure will force Russia to negotiate on Ukraine.
+  Nationwide protests have erupted in Iran, triggered by severe economic hardship and a rapidly depreciating currency. While Western media and neoconservative commentators have been quick to frame these demonstrations as a potential existential threat to the Islamic Republic, **Larry C. Johnson** cautions against premature conclusions. He notes that, despite the scale of the protests, the government retains significant control and the security apparatus remains loyal. According to Johnson, “Western hopes for regime change are, at this stage, more wishful thinking than grounded analysis.” He assesses with high confidence that the Iranian regime is unlikely to collapse imminently, though economic pressure will persist as a destabilizing factor.
   
-  On the diplomatic front, Johnson points out a critical legal and political obstacle: any binding agreement with Russia over Ukraine would require ratification by the US Senate. This undermines recent optimism in Western media and political circles about the prospects for a near-term negotiated settlement. Johnson stresses, “no agreement is enforceable without Senate approval,” a reality often overlooked in public discourse.
+  Meanwhile, fallout continues from Russia’s claim that Ukraine launched 91 long-range drones at a presidential residence on December 28-29. All drones were reportedly intercepted, and Russian officials have labeled the incident a terrorist act, promising retaliation. Ukrainian President Zelensky has denied involvement. **Larry C. Johnson** observes that this escalation is fueling hardline rhetoric in Moscow and could justify intensified Russian strikes in Ukraine. He predicts with high confidence that “Moscow will most definitely respond with increased military operations in the coming days,” further complicating prospects for de-escalation.
   
-  Additionally, internal Russian dynamics have come under scrutiny. Reports of Dmitri Kozak, a senior aide to President Putin, resisting early orders to demand Ukraine’s surrender, suggest some level of dissent or at least confusion within the Kremlin’s inner circle. However, the majority assessment remains that Putin’s position is secure and that his administration is committed to continuing the conflict until Russia’s core conditions are met.
+  In the broader context, recent Western media portrayals of Iran and Russia are being scrutinized for their role in shaping public opinion and policy. Johnson argues that the depiction of Iran as openly at war with the West is part of a coordinated information campaign, potentially laying the groundwork for future military action. He warns that such narratives are likely to intensify as political events approach in the US and Europe.
   
-  **Trends and Predictions:**  
-  The majority of independent analysts, including Johnson, maintain that the war in Ukraine is set to continue into 2026, with little likelihood of a breakthrough in negotiations. There is high confidence that Western sanctions will persist, but their ability to force a Russian policy change is “quite limited.” Johnson predicts with high confidence that “Russia will not capitulate under current economic or diplomatic pressure.” Retaliatory moves by Moscow in response to asset freezes are “quite likely” in the coming months, though the specifics remain uncertain.
-  
-  In summary, the geopolitical situation remains deadlocked: Western sanctions are biting but not decisive, diplomatic solutions are hampered by legal and political barriers, and Russia shows no sign of altering its strategic objectives. The outlook is for continued stalemate, with the potential for new forms of Russian retaliation on the horizon.
+  Looking ahead, the majority view among analysts is that both the Iranian and Russian governments will weather current crises in the short term. However, economic and military pressures are expected to drive continued volatility. The likelihood of sudden regime change in Iran remains low, while the risk of further escalation in the Russia-Ukraine conflict is high. As Johnson concludes, “Expect more information warfare and posturing as each side seeks to shape the narrative and the battlefield.”
 articles:
+  - title: Neocons Premature Celebration Over Protests in Iran
+    url: https://sonar21.com/neocons-premature-celebration-over-protests-in-iran/
+    text: 'Iran Protests Western media, especially those outlets firmly aligned with
+      the neoconservative view, are quick to jump on reports of protests in Iran as
+      a sign that the Islamic Republic of Iran is about to implode. Events today in
+      Iran provided another spurt of arousal among neocons longing to bring back the
+      Shah and eliminate the mullahs. Here’s a summary of the various news reports:
+      On December 30, 2025, protests in Iran entered their third day, spreading from
+      initial economic grievances in Tehran’s Grand Bazaar to universities and multiple
+      cities across the country. Triggered by the Iranian rial plunging to record lows
+      (around 1.38–1.42 million to the USD) and inflation hitting 42.2–42.5%, demonstrations
+      began with shopkeepers and merchants striking and closing businesses, evolving
+      into broader anti-government chants. Protests expanded beyond Tehran to cities
+      including Isfahan , Shiraz , Mashhad , Hamadan , Karaj , Qeshm , Malard , Kermanshah
+      , and Yazd . University students joined on Tuesday, chanting slogans like “Death
+      to the dictator” (referring to Supreme Leader Ali Khamenei), calls for freedom,
+      and pro-monarchy references (e.g., “Long live the Shah” or “Rest in peace Reza
+      Shah”). President Masoud Pezeshkian acknowledged “legitimate demands,” instructed
+      the interior ministry to dialogue with protest representatives, and pledged economic
+      reforms. The central bank governor resigned, replaced by Abdolnasser Hemmati.
+      Officials offered talks but warned against escalation or foreign exploitation.
+      Hmmm… What’s really going on? Turns out that Nima Alkorshid, the host of Dialogue
+      Works , is on an extended family vacation in Tehran. It has been 12 years since
+      he was last in Iran. I know one thing for certain… His mom is thrilled to have
+      her son, his wife and her grandchildren in Tehran. Anyway, I called Nima and asked
+      him what he was seeing. According to Nima, there is frustration with the government,
+      i.e., Pezeshkian, over the high inflation and that is one impetus driving the
+      protests. However, it is not directed at the Islamic regime despite Western press
+      reports claiming otherwise. Nima also pointed out that about 25% of the population
+      is quite conservatie (these are the folks who supported Ahmadinejad) and they
+      are angry with Pezeshkian because he is viewed as too accommodating of the West.
+      These folks, while miffed at the government, are staunch supporters of the Ayatollah
+      Khameni. There is video evidence corroborating Nima’s observations. In one clip
+      an Iranian student protester explains the reasoning behind the demonstrations,
+      stating that they are not opposed to the Islamic Republic, but rather to corruption
+      among government officials who are worsening the economic crisis. He says : This
+      is the voice of an Iranian Basiji. I would sacrifice myself for this homeland.
+      I would give my life for the Islamic Republic. Our protest is against people like
+      Ali Ansari and other corrupt officials. Mr. Ejei [Chief of the Judiciary], where
+      are you? I was pleasantly surprised by Pezeshkian’s reaction to the protests…
+      Instead of beating the hell out of the protestors and tossing them into prison,
+      he acknowledged the legitimacy of their complaints and fired the central bank
+      governor while promising economic reforms. Seems like a pretty reasonable response
+      to me. I believe that Russia and China — who have denounced and rejected Europe’s
+      attempt to reimpose economic sanctions on Iran — are working on measures to boost
+      the Iranian economy and get inflation under control. While there is no denying
+      that Iran’s economy has been badly damaged because of Western sanctions — which
+      both Russia and China supported in 2015 as part of the JCPOA — Iran, by virtue
+      of is membership in BRICS and closer economic, political and military ties with
+      Russia and China, is in a stronger position now to revive the economy. Russia’s
+      economic support focuses on strategic partnerships and trade, and is often intertwined
+      with military cooperation. In January 2025, Russia and Iran signed a 20-year comprehensive
+      strategic partnership treaty, including provisions for economic cooperation. Russia
+      also is providing advanced conventional weapons (e.g., fighter aircraft, attack
+      helicopters) in exchange for Iranian drones, missiles, and ammunition, indirectly
+      bolstering Iran’s economy through barter-like military trade. Along with the economic
+      cooperation, there have been five visits by four senior Iranian officials to Moscow
+      since July 1, 2025, based on reported trips. These include political, military,
+      and economic figures, with purposes ranging from nuclear discussions to military
+      cooperation and strategic partnerships: Ali Larijani (Supreme Leader Adviser,
+      political) – July 20, 2025: Discussed nuclear negotiations and bilateral relations
+      with Russian President Vladimir Putin. Brigadier General Aziz Nasir Zadeh (Defense
+      Minister, military) – July 21, 2025: Met with Russian Defense Minister Andrei
+      Belousov to expand military cooperation, likely seeking assistance post-Israel-Iran
+      conflict. Abbas Araghchi (Foreign Minister, political) – August 2025: Sought Russian
+      support in the aftermath of U.S. and Israeli attacks on Iranian infrastructure
+      following the ceasefire announcement. He made a second visit on December 17, 2025,
+      to sign a foreign ministry cooperation plan for 2026-2028 and hail expanding partnerships.
+      Mohammad Reza Aref (First Vice President, political/economic) – November 17-18,
+      2025: Attended the SCO Council of Heads of Government meeting and held bilateral
+      talks with Russian Prime Minister Mikhail Mishustin on economic and political
+      cooperation. But that is not all… there is the North-South Transport Corridor
+      (INSTC). There have been multiple bilateral and multilateral meetings/discussions
+      between Russia and Iran (often including Azerbaijan) since July 1, 2025, focused
+      on advancing the International North-South Transport Corridor (INSTC), a multimodal
+      trade route linking Russia, Iran, India, and beyond. Here are the key meetings
+      in 2025: October 2025 : Trilateral talks in Baku (Russia, Azerbaijan, Iran) on
+      expanding the western route of the INSTC, including infrastructure inspections
+      and agreements on logistics/cross-border efficiency. November 2025 : Railway executives
+      from Russia, Iran, and Azerbaijan signed a memorandum in Baku to enhance the western
+      route’s competitiveness (e.g., fixed pricing, unified rates). December 12, 2025
+      : Presidents Vladimir Putin and Masoud Pezeshkian discussed INSTC progress (including
+      the Rasht-Astara railway) during a meeting in Ashgabat , Turkmenistan. December
+      16, 2025 : High-level talks in Tehran between Iran’s Supreme National Security
+      Council Secretary Ali Larijani and Russia’s Deputy Prime Minister for Transport
+      Vitaly Savelyev , emphasizing fast-tracking the corridor and removing obstacles.
+      And then there is China. China offers more substantial economic lifelines, mainly
+      through oil trade and pledged investments, positioning itself as Iran’s largest
+      trading partner. China purchases 90% (or nearly all) of Iran’s exported oil at
+      discounted prices (as low as $14 per barrel below market), providing crucial revenue—estimated
+      at $67 billion for the Iranian year ending March 2025 (15% of GDP). This accounts
+      for 13.6% of China’s oil imports and funds 45% of Iran’s 2025–2026 government
+      budget. Under the 2021 25-year comprehensive strategic partnership (reaffirmed
+      in September 2025), China pledged $400 billion in investments for sectors like
+      oil/gas, infrastructure, banking, telecom, ports, railways, and tourism. Infrastructure
+      initiatives include a new railway for overland oil shipments (opened May 2025
+      but halted by war) and the first freight train from Xi’an to Iran’s Aprin dry
+      port in May 2025. Discussions on economic corridors via Central Asia (e.g., May
+      2025 railway officials meeting) aim to enhance transit. At least 3 senior Iranian
+      officials (political and military) have visited China since July 1, 2025, based
+      on publicly reported trips. These visits focused on multilateral summits (e.g.,
+      Shanghai Cooperation Organization events), bilateral cooperation, and post-conflict
+      diplomacy following Iran’s tensions with Israel and the US: Abbas Araghchi (Foreign
+      Minister, political) — July 2025: Attended an SCO foreign ministers’ meeting in
+      Tianjin and held bilateral talks with Chinese Foreign Minister Wang Yi on deepening
+      ties and regional issues. Masoud Pezeshkian (President, political) — September
+      1–2, 2025: Visited Beijing for the SCO Summit; met with President Xi Jinping to
+      discuss comprehensive strategic partnership, trade, investment, and global governance.
+      Aziz Nasirzadeh (Defense Minister, military) — Late June 2025 (close to July threshold,
+      often grouped in post-July reporting): Attended SCO defense ministers’ meeting
+      in Qingdao; first reported foreign trip post-Israel conflict. Iran’s efforts to
+      resurrect a sound economy are being carried out under the shadow of renewed attacks
+      by Israel and the United States. According to RT : President Donald Trump warned
+      the US could carry out further military strikes against Iran if it attempts to
+      rebuild its nuclear and ballistic missile programs. He made the remarks to journalists
+      alongside Israeli Prime Minister Benjamin Netanyahu at his Mar-a-Lago estate in
+      Florida on Monday. “If it’s confirmed, they know the consequences, and the consequences
+      will be very powerful, maybe more powerful than the last time,” Trump said on
+      Monday. “We’ll knock them down. We’ll knock the hell out of them. But hopefully
+      that’s not happening.” The US president indicated he would “absolutely” support
+      Israeli military action against Iran’s missile program, saying the US would act
+      “immediately” against any nuclear advances. Rebuild ballistic missile programs
+      ? Looks like Donald Trump has not been informed that Iran’s ballistic missile
+      programs were not destroyed during the 12-day war. Iran is not rebuilding… It
+      is expanding and modernizing its ballistic missile force, which is safely stored
+      below ground out of the reach of Israeli and US weapons. If Israel and Trump are
+      foolish enough to attack Iran again, I think they will find Iran is a far more
+      formidable and dangerous foe than the one they encountered in June 2025. I thank
+      you for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: Protests in Iran, sparked by economic grievances and a plummeting
+      currency, have spread nationwide, drawing attention from Western media and neoconservatives
+      who view the unrest as a potential threat to the Islamic Republic.
+    paragraph_summary: Protests in Iran have intensified, entering their third day on
+      December 30, 2025, as economic grievances sparked demonstrations that spread from
+      Tehran's Grand Bazaar to universities and cities nationwide. Triggered by the
+      Iranian rial's significant devaluation and soaring inflation rates, the protests
+      began with shopkeepers striking and evolved into broader anti-government sentiments,
+      including chants against Supreme Leader Ali Khamenei and calls for a return to
+      monarchy. President Masoud Pezeshkian acknowledged the "legitimate demands" of
+      the protesters and promised economic reforms, while officials urged caution against
+      foreign interference. Amidst this turmoil, Nima Alkorshid, a host visiting Tehran
+      after 12 years, noted widespread frustration with the government over economic
+      issues, highlighting the complex dynamics at play in the protests.
+    published: '2025-12-31T04:32:16+00:00'
+  - title: Neocons Premature Celebration Over Protests in Iran
+    url: https://sonar21.com/neocons-premature-celebration-over-protests-in-iran/
+    text: 'Iran Protests Western media, especially those outlets firmly aligned with
+      the neoconservative view, are quick to jump on reports of protests in Iran as
+      a sign that the Islamic Republic of Iran is about to implode. Events today in
+      Iran provided another spurt of arousal among neocons longing to bring back the
+      Shah and eliminate the mullahs. Here’s a summary of the various news reports:
+      On December 30, 2025, protests in Iran entered their third day, spreading from
+      initial economic grievances in Tehran’s Grand Bazaar to universities and multiple
+      cities across the country. Triggered by the Iranian rial plunging to record lows
+      (around 1.38–1.42 million to the USD) and inflation hitting 42.2–42.5%, demonstrations
+      began with shopkeepers and merchants striking and closing businesses, evolving
+      into broader anti-government chants. Protests expanded beyond Tehran to cities
+      including Isfahan , Shiraz , Mashhad , Hamadan , Karaj , Qeshm , Malard , Kermanshah
+      , and Yazd . University students joined on Tuesday, chanting slogans like “Death
+      to the dictator” (referring to Supreme Leader Ali Khamenei), calls for freedom,
+      and pro-monarchy references (e.g., “Long live the Shah” or “Rest in peace Reza
+      Shah”). President Masoud Pezeshkian acknowledged “legitimate demands,” instructed
+      the interior ministry to dialogue with protest representatives, and pledged economic
+      reforms. The central bank governor resigned, replaced by Abdolnasser Hemmati.
+      Officials offered talks but warned against escalation or foreign exploitation.
+      Hmmm… What’s really going on? Turns out that Nima Alkorshid, the host of Dialogue
+      Works , is on an extended family vacation in Tehran. It has been 12 years since
+      he was last in Iran. I know one thing for certain… His mom is thrilled to have
+      her son, his wife and her grandchildren in Tehran. Anyway, I called Nima and asked
+      him what he was seeing. According to Nima, there is frustration with the government,
+      i.e., Pezeshkian, over the high inflation and that is one impetus driving the
+      protests. However, it is not directed at the Islamic regime despite Western press
+      reports claiming otherwise. Nima also pointed out that about 25% of the population
+      is quite conservatie (these are the folks who supported Ahmadinejad) and they
+      are angry with Pezeshkian because he is viewed as too accommodating of the West.
+      These folks, while miffed at the government, are staunch supporters of the Ayatollah
+      Khameni. There is video evidence corroborating Nima’s observations. In one clip
+      an Iranian student protester explains the reasoning behind the demonstrations,
+      stating that they are not opposed to the Islamic Republic, but rather to corruption
+      among government officials who are worsening the economic crisis. He says : This
+      is the voice of an Iranian Basiji. I would sacrifice myself for this homeland.
+      I would give my life for the Islamic Republic. Our protest is against people like
+      Ali Ansari and other corrupt officials. Mr. Ejei [Chief of the Judiciary], where
+      are you? I was pleasantly surprised by Pezeshkian’s reaction to the protests…
+      Instead of beating the hell out of the protestors and tossing them into prison,
+      he acknowledged the legitimacy of their complaints and fired the central bank
+      governor while promising economic reforms. Seems like a pretty reasonable response
+      to me. I believe that Russia and China — who have denounced and rejected Europe’s
+      attempt to reimpose economic sanctions on Iran — are working on measures to boost
+      the Iranian economy and get inflation under control. While there is no denying
+      that Iran’s economy has been badly damaged because of Western sanctions — which
+      both Russia and China supported in 2015 as part of the JCPOA — Iran, by virtue
+      of is membership in BRICS and closer economic, political and military ties with
+      Russia and China, is in a stronger position now to revive the economy. Russia’s
+      economic support focuses on strategic partnerships and trade, and is often intertwined
+      with military cooperation. In January 2025, Russia and Iran signed a 20-year comprehensive
+      strategic partnership treaty, including provisions for economic cooperation. Russia
+      also is providing advanced conventional weapons (e.g., fighter aircraft, attack
+      helicopters) in exchange for Iranian drones, missiles, and ammunition, indirectly
+      bolstering Iran’s economy through barter-like military trade. Along with the economic
+      cooperation, there have been five visits by four senior Iranian officials to Moscow
+      since July 1, 2025, based on reported trips. These include political, military,
+      and economic figures, with purposes ranging from nuclear discussions to military
+      cooperation and strategic partnerships: Ali Larijani (Supreme Leader Adviser,
+      political) – July 20, 2025: Discussed nuclear negotiations and bilateral relations
+      with Russian President Vladimir Putin. Brigadier General Aziz Nasir Zadeh (Defense
+      Minister, military) – July 21, 2025: Met with Russian Defense Minister Andrei
+      Belousov to expand military cooperation, likely seeking assistance post-Israel-Iran
+      conflict. Abbas Araghchi (Foreign Minister, political) – August 2025: Sought Russian
+      support in the aftermath of U.S. and Israeli attacks on Iranian infrastructure
+      following the ceasefire announcement. He made a second visit on December 17, 2025,
+      to sign a foreign ministry cooperation plan for 2026-2028 and hail expanding partnerships.
+      Mohammad Reza Aref (First Vice President, political/economic) – November 17-18,
+      2025: Attended the SCO Council of Heads of Government meeting and held bilateral
+      talks with Russian Prime Minister Mikhail Mishustin on economic and political
+      cooperation. But that is not all… there is the North-South Transport Corridor
+      (INSTC). There have been multiple bilateral and multilateral meetings/discussions
+      between Russia and Iran (often including Azerbaijan) since July 1, 2025, focused
+      on advancing the International North-South Transport Corridor (INSTC), a multimodal
+      trade route linking Russia, Iran, India, and beyond. Here are the key meetings
+      in 2025: October 2025 : Trilateral talks in Baku (Russia, Azerbaijan, Iran) on
+      expanding the western route of the INSTC, including infrastructure inspections
+      and agreements on logistics/cross-border efficiency. November 2025 : Railway executives
+      from Russia, Iran, and Azerbaijan signed a memorandum in Baku to enhance the western
+      route’s competitiveness (e.g., fixed pricing, unified rates). December 12, 2025
+      : Presidents Vladimir Putin and Masoud Pezeshkian discussed INSTC progress (including
+      the Rasht-Astara railway) during a meeting in Ashgabat , Turkmenistan. December
+      16, 2025 : High-level talks in Tehran between Iran’s Supreme National Security
+      Council Secretary Ali Larijani and Russia’s Deputy Prime Minister for Transport
+      Vitaly Savelyev , emphasizing fast-tracking the corridor and removing obstacles.
+      And then there is China. China offers more substantial economic lifelines, mainly
+      through oil trade and pledged investments, positioning itself as Iran’s largest
+      trading partner. China purchases 90% (or nearly all) of Iran’s exported oil at
+      discounted prices (as low as $14 per barrel below market), providing crucial revenue—estimated
+      at $67 billion for the Iranian year ending March 2025 (15% of GDP). This accounts
+      for 13.6% of China’s oil imports and funds 45% of Iran’s 2025–2026 government
+      budget. Under the 2021 25-year comprehensive strategic partnership (reaffirmed
+      in September 2025), China pledged $400 billion in investments for sectors like
+      oil/gas, infrastructure, banking, telecom, ports, railways, and tourism. Infrastructure
+      initiatives include a new railway for overland oil shipments (opened May 2025
+      but halted by war) and the first freight train from Xi’an to Iran’s Aprin dry
+      port in May 2025. Discussions on economic corridors via Central Asia (e.g., May
+      2025 railway officials meeting) aim to enhance transit. At least 3 senior Iranian
+      officials (political and military) have visited China since July 1, 2025, based
+      on publicly reported trips. These visits focused on multilateral summits (e.g.,
+      Shanghai Cooperation Organization events), bilateral cooperation, and post-conflict
+      diplomacy following Iran’s tensions with Israel and the US: Abbas Araghchi (Foreign
+      Minister, political) — July 2025: Attended an SCO foreign ministers’ meeting in
+      Tianjin and held bilateral talks with Chinese Foreign Minister Wang Yi on deepening
+      ties and regional issues. Masoud Pezeshkian (President, political) — September
+      1–2, 2025: Visited Beijing for the SCO Summit; met with President Xi Jinping to
+      discuss comprehensive strategic partnership, trade, investment, and global governance.
+      Aziz Nasirzadeh (Defense Minister, military) — Late June 2025 (close to July threshold,
+      often grouped in post-July reporting): Attended SCO defense ministers’ meeting
+      in Qingdao; first reported foreign trip post-Israel conflict. Iran’s efforts to
+      resurrect a sound economy are being carried out under the shadow of renewed attacks
+      by Israel and the United States. According to RT : President Donald Trump warned
+      the US could carry out further military strikes against Iran if it attempts to
+      rebuild its nuclear and ballistic missile programs. He made the remarks to journalists
+      alongside Israeli Prime Minister Benjamin Netanyahu at his Mar-a-Lago estate in
+      Florida on Monday. “If it’s confirmed, they know the consequences, and the consequences
+      will be very powerful, maybe more powerful than the last time,” Trump said on
+      Monday. “We’ll knock them down. We’ll knock the hell out of them. But hopefully
+      that’s not happening.” The US president indicated he would “absolutely” support
+      Israeli military action against Iran’s missile program, saying the US would act
+      “immediately” against any nuclear advances. Rebuild ballistic missile programs
+      ? Looks like Donald Trump has not been informed that Iran’s ballistic missile
+      programs were not destroyed during the 12-day war. Iran is not rebuilding… It
+      is expanding and modernizing its ballistic missile force, which is safely stored
+      below ground out of the reach of Israeli and US weapons. If Israel and Trump are
+      foolish enough to attack Iran again, I think they will find Iran is a far more
+      formidable and dangerous foe than the one they encountered in June 2025. I thank
+      you for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: Protests in Iran, sparked by economic grievances and a plummeting
+      currency, have spread nationwide, drawing attention from Western media and neoconservatives
+      who view the unrest as a potential threat to the Islamic Republic.
+    paragraph_summary: Protests in Iran have intensified, entering their third day on
+      December 30, 2025, as economic grievances sparked demonstrations that spread from
+      Tehran's Grand Bazaar to universities and cities nationwide. Triggered by the
+      Iranian rial's significant devaluation and soaring inflation rates, the protests
+      began with shopkeepers striking and evolved into broader anti-government sentiments,
+      including chants against Supreme Leader Ali Khamenei and calls for a return to
+      monarchy. President Masoud Pezeshkian acknowledged the "legitimate demands" of
+      the protesters and promised economic reforms, while officials urged caution against
+      foreign interference. Amidst this turmoil, Nima Alkorshid, a host visiting Tehran
+      after 12 years, noted widespread frustration with the government over economic
+      issues, highlighting the complex dynamics at play in the protests.
+    published: '2025-12-31T04:32:16+00:00'
+  - title: Did Ukraine Try to Kill Putin?
+    url: https://sonar21.com/did-ukraine-try-to-kill-putin/
+    text: 'On the night of 28–29 December 2025, Russia’s Defense Ministry and Foreign
+      Minister Sergey Lavrov claimed that Ukraine launched 91 long‑range drones at a
+      presidential state residence in Novgorod region, northwest of Moscow. The Defense
+      Ministry and Foreign Minister Lavrov describe the attack as occurring “on the
+      night of December 28–29” and in the “early hours of December 29”, without specifying
+      an exact clock time when the first UAVs appeared. A more detailed Russian‑language
+      summary states that 18 drones aimed at the residence were intercepted before 07:00
+      Moscow time and another 23 between 07:00 and 09:00, which means that 50 drones
+      had already been dispatched by the Russian air defense system. Russian officials
+      said all 91 drones were shot down by air defenses, with no casualties or damage,
+      and vowed unspecified retaliatory strikes; the attack was presented as a terrorist
+      act that would affect Moscow’s stance in ongoing peace negotiations. President
+      Volodymyr Zelensky rejected the Novgorod claim as “typical Russian lies,” accusing
+      Moscow of using a fabricated or exaggerated incident to justify new strikes on
+      Ukrainian government targets and to harden its negotiating position. International
+      coverage has so far treated the Novgorod episode cautiously, noting that it is
+      difficult to independently verify either Russia’s claim of a massive attempted
+      strike on Putin’s residence or Ukraine’s assertion that the story is manufactured.
+      So what happened? Although we do not know the precise time that the first drones
+      entered Russian airspace, if the attempted attack started around 2200 hours Moscow
+      time then that is 1400 hours in West Palm, Florida where Volodymyr Zelensky was
+      starting his meeting with Donald Trump. The meeting of the US and Ukrainian delegations
+      lasted until 1700 hours Florida time, followed by a 30 minute press conference.
+      1700 hours in Florida is 0100 hours in Moscow. That means the attack on Putin’s
+      residence was underway while Zelensky was supposed to be talking about peace.
+      The Ukrainian claim that Russia did this in order to “ harden its negotiating
+      position ” does not pass the smell test because Russia’s position is already hardened
+      . Moscow was not looking for an excuse to hit Ukraine harder… They already are
+      doing so. Did Zelensky approve the attack? I doubt it. I think this was ordered
+      and executed by Ukrainian intelligence, with assistance from at least the British
+      services, in order to sabotage the talks and damage Zelensky. This was not an
+      actual attack to kill Putin because he has been living in the Kremlin for the
+      last four years in order to reduce his vulnerability to an attack like this. The
+      Ukrainian officials who ordered this were more intent on embarrassing Zelensky
+      than on killing Putin. I believe this is one more indicator that Zelensky’s days
+      are numbered as his opponents in Ukraine, with encouragement from Western intelligence
+      operatives, appear to be maneuvering to replace him and keep the war going. News
+      broke over the weekend that General Zaluzhny, who has been in London for more
+      than a year as the ostensible Ukrainian ambassador to the UK, is heading back
+      to Kiev at the end of this week. The chess pieces in this iteration of Game of
+      Thrones are moving. Nima and I discussed the Trump/Zelensky confab before news
+      of the failed attack on the Putin residence in Novgorod. However, Mario Nawfal
+      contacted me later in the day when the news broke and we discussed the implications
+      on his YouTube channel: I thank you for your invaluable support by taking time
+      to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: On December 28-29, 2025, Russia's Defense Ministry claimed
+      that Ukraine launched 91 long-range drones at a presidential residence, all of
+      which were intercepted, leading to Russian officials labeling the incident a terrorist
+      act and vowing retaliatory strikes, while Ukraine's President Zelensky denied
+      involvement.
+    paragraph_summary: On the night of December 28-29, 2025, Russia's Defense Ministry
+      and Foreign Minister Sergey Lavrov accused Ukraine of launching 91 long-range
+      drones targeting a presidential residence in the Novgorod region, claiming all
+      were intercepted without casualties or damage. The Russian officials labeled the
+      incident a terrorist act, suggesting it would influence Moscow's position in ongoing
+      peace negotiations. Ukrainian President Volodymyr Zelensky dismissed the claims
+      as "typical Russian lies," alleging that Russia exaggerated the incident to justify
+      further attacks on Ukraine and strengthen its negotiating stance. International
+      media has approached the situation cautiously, highlighting the difficulty in
+      verifying either side's claims. Notably, the timing of the alleged drone attack
+      coincided with Zelensky's meeting with Donald Trump in Florida, raising questions
+      about the authenticity of Russia's narrative.
+    published: '2025-12-30T04:22:52+00:00'
+  - title: Did Ukraine Try to Kill Putin?
+    url: https://sonar21.com/did-ukraine-try-to-kill-putin/
+    text: 'On the night of 28–29 December 2025, Russia’s Defense Ministry and Foreign
+      Minister Sergey Lavrov claimed that Ukraine launched 91 long‑range drones at a
+      presidential state residence in Novgorod region, northwest of Moscow. The Defense
+      Ministry and Foreign Minister Lavrov describe the attack as occurring “on the
+      night of December 28–29” and in the “early hours of December 29”, without specifying
+      an exact clock time when the first UAVs appeared. A more detailed Russian‑language
+      summary states that 18 drones aimed at the residence were intercepted before 07:00
+      Moscow time and another 23 between 07:00 and 09:00, which means that 50 drones
+      had already been dispatched by the Russian air defense system. Russian officials
+      said all 91 drones were shot down by air defenses, with no casualties or damage,
+      and vowed unspecified retaliatory strikes; the attack was presented as a terrorist
+      act that would affect Moscow’s stance in ongoing peace negotiations. President
+      Volodymyr Zelensky rejected the Novgorod claim as “typical Russian lies,” accusing
+      Moscow of using a fabricated or exaggerated incident to justify new strikes on
+      Ukrainian government targets and to harden its negotiating position. International
+      coverage has so far treated the Novgorod episode cautiously, noting that it is
+      difficult to independently verify either Russia’s claim of a massive attempted
+      strike on Putin’s residence or Ukraine’s assertion that the story is manufactured.
+      So what happened? Although we do not know the precise time that the first drones
+      entered Russian airspace, if the attempted attack started around 2200 hours Moscow
+      time then that is 1400 hours in West Palm, Florida where Volodymyr Zelensky was
+      starting his meeting with Donald Trump. The meeting of the US and Ukrainian delegations
+      lasted until 1700 hours Florida time, followed by a 30 minute press conference.
+      1700 hours in Florida is 0100 hours in Moscow. That means the attack on Putin’s
+      residence was underway while Zelensky was supposed to be talking about peace.
+      The Ukrainian claim that Russia did this in order to “ harden its negotiating
+      position ” does not pass the smell test because Russia’s position is already hardened
+      . Moscow was not looking for an excuse to hit Ukraine harder… They already are
+      doing so. Did Zelensky approve the attack? I doubt it. I think this was ordered
+      and executed by Ukrainian intelligence, with assistance from at least the British
+      services, in order to sabotage the talks and damage Zelensky. This was not an
+      actual attack to kill Putin because he has been living in the Kremlin for the
+      last four years in order to reduce his vulnerability to an attack like this. The
+      Ukrainian officials who ordered this were more intent on embarrassing Zelensky
+      than on killing Putin. I believe this is one more indicator that Zelensky’s days
+      are numbered as his opponents in Ukraine, with encouragement from Western intelligence
+      operatives, appear to be maneuvering to replace him and keep the war going. News
+      broke over the weekend that General Zaluzhny, who has been in London for more
+      than a year as the ostensible Ukrainian ambassador to the UK, is heading back
+      to Kiev at the end of this week. The chess pieces in this iteration of Game of
+      Thrones are moving. Nima and I discussed the Trump/Zelensky confab before news
+      of the failed attack on the Putin residence in Novgorod. However, Mario Nawfal
+      contacted me later in the day when the news broke and we discussed the implications
+      on his YouTube channel: I thank you for your invaluable support by taking time
+      to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: On December 28-29, 2025, Russia's Defense Ministry claimed
+      that Ukraine launched 91 long-range drones at a presidential residence, all of
+      which were intercepted, leading to Russian officials labeling the incident a terrorist
+      act and vowing retaliatory strikes, while Ukraine's President Zelensky denied
+      involvement.
+    paragraph_summary: On the night of December 28-29, 2025, Russia's Defense Ministry
+      and Foreign Minister Sergey Lavrov accused Ukraine of launching 91 long-range
+      drones targeting a presidential residence in the Novgorod region, claiming all
+      were intercepted without casualties or damage. The Russian officials labeled the
+      incident a terrorist act, suggesting it would influence Moscow's position in ongoing
+      peace negotiations. Ukrainian President Volodymyr Zelensky dismissed the claims
+      as "typical Russian lies," alleging that Russia exaggerated the incident to justify
+      further attacks on Ukraine and strengthen its negotiating stance. International
+      media has approached the situation cautiously, highlighting the difficulty in
+      verifying either side's claims. Notably, the timing of the alleged drone attack
+      coincided with Zelensky's meeting with Donald Trump in Florida, raising questions
+      about the authenticity of Russia's narrative.
+    published: '2025-12-30T04:22:52+00:00'
+  - title: Why is Susan Miller Doing Media?
+    url: https://sonar21.com/why-is-susan-miller-doing-media/
+    text: 'Susan Miller Who is Susan Miller? She is a recently retired CIA officer who
+      entered on duty in September 1985, began her career in the Directorate of Intelligence
+      and then, sometime after 1989, changed her career path and moved to the Directorate
+      of Operations, where she spent most of career, including a stint as the Chief
+      of Station in Israel . How do I know this? Well, not only am I relying on press
+      reports… Susan and I were in the same Career Trainee (CT) class. I will let Perplexity
+      tell you about the CT program : The CIA Career Trainee (CT) Program was the Agency’s
+      long‑standing entry‑level pipeline for young professional officers, designed to
+      select, train, and place people with high potential into substantive intelligence
+      careers (operations, analysis, support, etc.). Historically, it has been an intensive,
+      multi‑stage program combining classroom instruction, tradecraft and leadership
+      training, and early on‑the‑job assignments before trainees move into permanent
+      roles. By way of background, there are two other members of my CT class who have
+      become public figures — Valerie Plame and Steven Hall. Anyone who has seen the
+      movie, Fair Game , knows who Valerie is and how she was betrayed by the George
+      W Bush administration. Steve Hall, apart from spending 30 years with the CIA as
+      a case officer, was one of the 51 former intelligence officials who signed the
+      now infamous October 19, 2020 open letter suggesting the Hunter Biden laptop story
+      had “ all the classic earmarks of a Russian information operation .” That letter
+      is now widely acknowledged to have been wrong on the core point that the laptop
+      was likely part of a Russian influence operation, as subsequent reporting and
+      forensic analysis have shown that the laptop was genuine. I am curious why Susan
+      is now making the media rounds as a pundit. I know how I got started on that path…    Ten
+      months after leaving the US State Department’s Office of Counter Terrorism, the
+      press rep for the office recommended me to his brother, who was a booker at CNN,
+      to offer commentary on the capture of Carlos the Jackal in August 1994. Since
+      retiring in the late spring or early summer of 2025, Susan has made quite a splash.
+      I first saw her on Afshin Rattansi’s RT program, Going Underground , where she
+      made some news. During the interview with Afshin she said that the CIA has cooperated
+      with, and at times “relied on,” Al Qaeda–linked and ISIS‑linked elements in West
+      Asia as tools against Iran and the Assad government, rather than treating them
+      solely as enemies. Here is one of the quotes from that program: Afshin : ‘Don’t
+      you think ordinary New Yorkers would have a problem with that [working with Syria’s
+      former Al Qaeda leader Al-Sharaa/Al-Jolani]? Former CIA Tel Aviv Station Chief:
+      ‘If we worked with them, we would know what they were doing better, that’s for
+      sure. And understand it. If the plan is for us to work with them, to work on a
+      security agreement, which we have done with enemies before.’ She also said that
+      “ CIA and Al‑Qaeda worked closely in Iraq and Syria ” in the context of the anti‑Assad
+      effort, indicating deliberate cooperation with Al Qaeda‑linked factions as part
+      of the broader campaign to topple Bashar al‑Assad. And she admitted that the U.S.
+      and Israeli services have “cooperated with ISIS and Al‑Qaeda” in West Asia, particularly
+      when these groups were useful as counterweights to Iran and its allies. Wow! She’s
+      not passing on information that she heard from a third-party… She is speaking
+      from experience. What has eally caught my eye was my belated discovery of her
+      appearance on CNN in July, where she threw some shade at Director of National
+      Intelligence Tulsi Gabbard: Retired CIA official Susan Miller, an author of the
+      agency’s 2017 intelligence report on Russian election meddling, is vowing to fight
+      any potential criminal charges brought by the Trump administration . . . . “My
+      team and I, just yesterday, had a few drinks and talked about that, and talked
+      about what lawyers we’d be looking for, if that happens,” Miller told CNN’s Kaitlan
+      Collins on “The Source” on Friday. Pushing back against Gabbard’s accusations,
+      Miller said that no one – including then-President Barack Obama or then-CIA Director
+      John Brennan – had told her team what conclusion to reach in their report. “Absolutely
+      not,” she said. She added that she and her team would have quit if they had faced
+      such pressure. Miller said the intelligence that helped them reach their conclusion
+      “was extremely sound and it was verified.” Miller also said her team briefed Trump
+      at the time. Pretty sad and despicable. I knew Susan when she was young and relatively
+      innocent. Now she appears to be a proud member of the Deep State by virtue of
+      participating in the lie that Russia interfered in the 2016 US Presidential election
+      with the express purpose to undermine the US-led liberal democratic order . No!
+      She got that wrong… It was the CIA and other members of the US intelligence community
+      that did that, starting in the summer of 2015. The CIA, the FBI and NSA, as well
+      as a host of foreign intelligence outfits, conspired to paint Donald Trump as
+      an agent of Russia. It was a lie. The fact that Susan was apparently selected
+      by then CIA Director Brennan to lead the team that wrote that piece of propaganda
+      — i.e., Assessing Russian Intentions and Activities in Recent US Elections — tells
+      you everything you need to know. I thank you for your invaluable support by taking
+      time to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: Susan Miller is a recently retired CIA officer who had a distinguished
+      career primarily in the Directorate of Operations, including serving as Chief
+      of Station in Israel, and was part of the CIA's Career Trainee program that trains
+      young professionals for intelligence roles.
+    paragraph_summary: Susan Miller is a recently retired CIA officer who began her
+      career in the Directorate of Intelligence in 1985 and later transitioned to the
+      Directorate of Operations, where she served in various roles, including Chief
+      of Station in Israel. The article discusses her background, noting that she was
+      part of the same CIA Career Trainee class as notable figures like Valerie Plame
+      and Steven Hall. It highlights the rigorous training involved in the CIA's Career
+      Trainee program, which prepares individuals for substantive intelligence careers.
+      The author expresses curiosity about Miller's recent media presence as a pundit,
+      drawing parallels to their own journey into public commentary after leaving a
+      government position.
+    published: '2025-12-29T03:05:05+00:00'
+  - title: Why is Susan Miller Doing Media?
+    url: https://sonar21.com/why-is-susan-miller-doing-media/
+    text: 'Susan Miller Who is Susan Miller? She is a recently retired CIA officer who
+      entered on duty in September 1985, began her career in the Directorate of Intelligence
+      and then, sometime after 1989, changed her career path and moved to the Directorate
+      of Operations, where she spent most of career, including a stint as the Chief
+      of Station in Israel . How do I know this? Well, not only am I relying on press
+      reports… Susan and I were in the same Career Trainee (CT) class. I will let Perplexity
+      tell you about the CT program : The CIA Career Trainee (CT) Program was the Agency’s
+      long‑standing entry‑level pipeline for young professional officers, designed to
+      select, train, and place people with high potential into substantive intelligence
+      careers (operations, analysis, support, etc.). Historically, it has been an intensive,
+      multi‑stage program combining classroom instruction, tradecraft and leadership
+      training, and early on‑the‑job assignments before trainees move into permanent
+      roles. By way of background, there are two other members of my CT class who have
+      become public figures — Valerie Plame and Steven Hall. Anyone who has seen the
+      movie, Fair Game , knows who Valerie is and how she was betrayed by the George
+      W Bush administration. Steve Hall, apart from spending 30 years with the CIA as
+      a case officer, was one of the 51 former intelligence officials who signed the
+      now infamous October 19, 2020 open letter suggesting the Hunter Biden laptop story
+      had “ all the classic earmarks of a Russian information operation .” That letter
+      is now widely acknowledged to have been wrong on the core point that the laptop
+      was likely part of a Russian influence operation, as subsequent reporting and
+      forensic analysis have shown that the laptop was genuine. I am curious why Susan
+      is now making the media rounds as a pundit. I know how I got started on that path…    Ten
+      months after leaving the US State Department’s Office of Counter Terrorism, the
+      press rep for the office recommended me to his brother, who was a booker at CNN,
+      to offer commentary on the capture of Carlos the Jackal in August 1994. Since
+      retiring in the late spring or early summer of 2025, Susan has made quite a splash.
+      I first saw her on Afshin Rattansi’s RT program, Going Underground , where she
+      made some news. During the interview with Afshin she said that the CIA has cooperated
+      with, and at times “relied on,” Al Qaeda–linked and ISIS‑linked elements in West
+      Asia as tools against Iran and the Assad government, rather than treating them
+      solely as enemies. Here is one of the quotes from that program: Afshin : ‘Don’t
+      you think ordinary New Yorkers would have a problem with that [working with Syria’s
+      former Al Qaeda leader Al-Sharaa/Al-Jolani]? Former CIA Tel Aviv Station Chief:
+      ‘If we worked with them, we would know what they were doing better, that’s for
+      sure. And understand it. If the plan is for us to work with them, to work on a
+      security agreement, which we have done with enemies before.’ She also said that
+      “ CIA and Al‑Qaeda worked closely in Iraq and Syria ” in the context of the anti‑Assad
+      effort, indicating deliberate cooperation with Al Qaeda‑linked factions as part
+      of the broader campaign to topple Bashar al‑Assad. And she admitted that the U.S.
+      and Israeli services have “cooperated with ISIS and Al‑Qaeda” in West Asia, particularly
+      when these groups were useful as counterweights to Iran and its allies. Wow! She’s
+      not passing on information that she heard from a third-party… She is speaking
+      from experience. What has eally caught my eye was my belated discovery of her
+      appearance on CNN in July, where she threw some shade at Director of National
+      Intelligence Tulsi Gabbard: Retired CIA official Susan Miller, an author of the
+      agency’s 2017 intelligence report on Russian election meddling, is vowing to fight
+      any potential criminal charges brought by the Trump administration . . . . “My
+      team and I, just yesterday, had a few drinks and talked about that, and talked
+      about what lawyers we’d be looking for, if that happens,” Miller told CNN’s Kaitlan
+      Collins on “The Source” on Friday. Pushing back against Gabbard’s accusations,
+      Miller said that no one – including then-President Barack Obama or then-CIA Director
+      John Brennan – had told her team what conclusion to reach in their report. “Absolutely
+      not,” she said. She added that she and her team would have quit if they had faced
+      such pressure. Miller said the intelligence that helped them reach their conclusion
+      “was extremely sound and it was verified.” Miller also said her team briefed Trump
+      at the time. Pretty sad and despicable. I knew Susan when she was young and relatively
+      innocent. Now she appears to be a proud member of the Deep State by virtue of
+      participating in the lie that Russia interfered in the 2016 US Presidential election
+      with the express purpose to undermine the US-led liberal democratic order . No!
+      She got that wrong… It was the CIA and other members of the US intelligence community
+      that did that, starting in the summer of 2015. The CIA, the FBI and NSA, as well
+      as a host of foreign intelligence outfits, conspired to paint Donald Trump as
+      an agent of Russia. It was a lie. The fact that Susan was apparently selected
+      by then CIA Director Brennan to lead the team that wrote that piece of propaganda
+      — i.e., Assessing Russian Intentions and Activities in Recent US Elections — tells
+      you everything you need to know. I thank you for your invaluable support by taking
+      time to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: Susan Miller is a recently retired CIA officer who had a distinguished
+      career primarily in the Directorate of Operations, including serving as Chief
+      of Station in Israel, and was part of the CIA's Career Trainee program that trains
+      young professionals for intelligence roles.
+    paragraph_summary: Susan Miller is a recently retired CIA officer who began her
+      career in the Directorate of Intelligence in 1985 and later transitioned to the
+      Directorate of Operations, where she served in various roles, including Chief
+      of Station in Israel. The article discusses her background, noting that she was
+      part of the same CIA Career Trainee class as notable figures like Valerie Plame
+      and Steven Hall. It highlights the rigorous training involved in the CIA's Career
+      Trainee program, which prepares individuals for substantive intelligence careers.
+      The author expresses curiosity about Miller's recent media presence as a pundit,
+      drawing parallels to their own journey into public commentary after leaving a
+      government position.
+    published: '2025-12-29T03:05:05+00:00'
+  - title: Iran Acknowledges It is at War With the West… Putin Puts the West on Notice
+    url: https://sonar21.com/iran-acknowledges-it-is-at-war-with-the-west-putin-puts-the-west-on-notice/
+    text: 'The breaking news story in the Saturday edition regarding Iran strikes me
+      as part of an information operation to create a new justification for Israel and
+      the US to attack Iran. The article, Iran declares ‘total war’ against US, Israel
+      and Europe as Islamic Republic seeks to expand nuclear capabilities , is deliberately
+      misleading. Here is what Iranian President Pezeshkian actually said: In my opinion,
+      we are at total war with the United States, Israel and Europe. They want to bring
+      our country to its knees. This war is worse than the one launched against us by
+      Iraq. On closer inspection, it is far more complex and difficult. Iran did not
+      declare war on the West… Pezeshkian, like any sane man, simply acknowledged the
+      reality that the US, Israel and Europe have committed acts of war against Iran
+      — militarily, economically and politically. And what is the NY Post doing publishing
+      this on the eve of Bibi Netanyahu’s visit to Mar-a-Lago on Monday? Stoking the
+      fires for renewed attacks on Iran with a completely dishonest headline. Given
+      the fact that the Post is notorious for carrying water for the Zionists, I believe
+      that the impetus for pulishing the story with that outlandish headline came from
+      those Israelis still eager to destroy Iran who want to put pressure on Donald
+      Trump to take another swipe at Iran. Meanwhile, back in Moscow, Vladimir Putin
+      is sending his own message to Donald Trump, Ukraine and Europe…  he showed up
+      on Saturday in one of the command posts of the United Group of Forces wearing
+      his uniform and chairing a meeting on the situation in the zone of the special
+      military operation. He listened attentively to a briefing from the Chief of the
+      General Staff of the Armed Forces, Valery Gerasimov. The commanders of the “Center”
+      and “East” troop groups, as well as the commanders of the units, reported on the
+      progress of the combat tasks, in particular on the liberation of the cities of
+      Dimitrov in the Donetsk People’s Republic and Gulyaypole in the Zaporizhia region.
+      But the blockbuster from the meeting was Putin’s firm rejection of the Western
+      proposal that Russia should cede some territory to Ukraine. Putin said: Given
+      the pace of the advance, Russia’s interest in (voluntary) withdrawal the Armed
+      Forces of Ukraine from the occupied territories is reduced to zero. Putin’s declaration
+      was in response to Zelensky’s earlier statement… Zelensky stated that Kiev has
+      “red lines” on a number of issues, such as territories and the Zaporozhye Nuclear
+      Power Plant, and Ukraine will not legally recognize anything in the framework
+      of a settlement under “any conditions”. Instead of Santa placing a peace deal
+      in Donald Trump’s Christmas stocking, he left a steaming lump of congealed excrement.
+      Andrei Martyanov and I shared the stage on Friday on Randy Credico’s drive-time
+      radio show in New York City: I thank you for your invaluable support by taking
+      time to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article argues that the portrayal of Iran's statements
+      as a declaration of war against the US, Israel, and Europe is misleading and part
+      of a broader information operation to justify potential military action against
+      Iran, particularly in light of upcoming political events.
+    paragraph_summary: The article critiques a recent New York Post headline claiming
+      that Iran has declared "total war" against the US, Israel, and Europe, arguing
+      that it misrepresents Iranian President Pezeshkian's statements. The author contends
+      that Pezeshkian was merely acknowledging the ongoing hostilities and pressures
+      from the West, rather than declaring an outright war. The timing of the article,
+      coinciding with Israeli Prime Minister Bibi Netanyahu's upcoming visit to Mar-a-Lago,
+      is seen as an attempt to incite further military action against Iran, possibly
+      influenced by pro-Zionist sentiments. Additionally, the piece contrasts this narrative
+      with Vladimir Putin's activities in Russia, where he is actively overseeing military
+      operations in Ukraine, suggesting a broader geopolitical context at play.
+    published: '2025-12-28T04:22:18+00:00'
+  - title: Iran Acknowledges It is at War With the West… Putin Puts the West on Notice
+    url: https://sonar21.com/iran-acknowledges-it-is-at-war-with-the-west-putin-puts-the-west-on-notice/
+    text: 'The breaking news story in the Saturday edition regarding Iran strikes me
+      as part of an information operation to create a new justification for Israel and
+      the US to attack Iran. The article, Iran declares ‘total war’ against US, Israel
+      and Europe as Islamic Republic seeks to expand nuclear capabilities , is deliberately
+      misleading. Here is what Iranian President Pezeshkian actually said: In my opinion,
+      we are at total war with the United States, Israel and Europe. They want to bring
+      our country to its knees. This war is worse than the one launched against us by
+      Iraq. On closer inspection, it is far more complex and difficult. Iran did not
+      declare war on the West… Pezeshkian, like any sane man, simply acknowledged the
+      reality that the US, Israel and Europe have committed acts of war against Iran
+      — militarily, economically and politically. And what is the NY Post doing publishing
+      this on the eve of Bibi Netanyahu’s visit to Mar-a-Lago on Monday? Stoking the
+      fires for renewed attacks on Iran with a completely dishonest headline. Given
+      the fact that the Post is notorious for carrying water for the Zionists, I believe
+      that the impetus for pulishing the story with that outlandish headline came from
+      those Israelis still eager to destroy Iran who want to put pressure on Donald
+      Trump to take another swipe at Iran. Meanwhile, back in Moscow, Vladimir Putin
+      is sending his own message to Donald Trump, Ukraine and Europe…  he showed up
+      on Saturday in one of the command posts of the United Group of Forces wearing
+      his uniform and chairing a meeting on the situation in the zone of the special
+      military operation. He listened attentively to a briefing from the Chief of the
+      General Staff of the Armed Forces, Valery Gerasimov. The commanders of the “Center”
+      and “East” troop groups, as well as the commanders of the units, reported on the
+      progress of the combat tasks, in particular on the liberation of the cities of
+      Dimitrov in the Donetsk People’s Republic and Gulyaypole in the Zaporizhia region.
+      But the blockbuster from the meeting was Putin’s firm rejection of the Western
+      proposal that Russia should cede some territory to Ukraine. Putin said: Given
+      the pace of the advance, Russia’s interest in (voluntary) withdrawal the Armed
+      Forces of Ukraine from the occupied territories is reduced to zero. Putin’s declaration
+      was in response to Zelensky’s earlier statement… Zelensky stated that Kiev has
+      “red lines” on a number of issues, such as territories and the Zaporozhye Nuclear
+      Power Plant, and Ukraine will not legally recognize anything in the framework
+      of a settlement under “any conditions”. Instead of Santa placing a peace deal
+      in Donald Trump’s Christmas stocking, he left a steaming lump of congealed excrement.
+      Andrei Martyanov and I shared the stage on Friday on Randy Credico’s drive-time
+      radio show in New York City: I thank you for your invaluable support by taking
+      time to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article argues that the portrayal of Iran's statements
+      as a declaration of war against the US, Israel, and Europe is misleading and part
+      of a broader information operation to justify potential military action against
+      Iran, particularly in light of upcoming political events.
+    paragraph_summary: The article critiques a recent New York Post headline claiming
+      that Iran has declared "total war" against the US, Israel, and Europe, arguing
+      that it misrepresents Iranian President Pezeshkian's statements. The author contends
+      that Pezeshkian was merely acknowledging the ongoing hostilities and pressures
+      from the West, rather than declaring an outright war. The timing of the article,
+      coinciding with Israeli Prime Minister Bibi Netanyahu's upcoming visit to Mar-a-Lago,
+      is seen as an attempt to incite further military action against Iran, possibly
+      influenced by pro-Zionist sentiments. Additionally, the piece contrasts this narrative
+      with Vladimir Putin's activities in Russia, where he is actively overseeing military
+      operations in Ukraine, suggesting a broader geopolitical context at play.
+    published: '2025-12-28T04:22:18+00:00'
+  - title: Why Does the West Hate Russia?
+    url: https://sonar21.com/why-does-the-west-hate-russia-2/
+    text: 'If you don’t do anything else this weekend while recovering from your Christmas
+      hangover, please find the time to read, Jeffery Sachs: Two Centuries of Russophobia
+      & Rejection of Peace , which is posted at Consortium News . Professor Sachs provides
+      a compelling exegesis of the history of Russia vs. Europe that shows that the
+      roots of Western hatred of Russia have little to do with Russian misdeeds or provocations.
+      Here is a snippet from a key section of the article explaining this idea: That
+      shift is captured with extraordinary clarity in a document highlighted by Orlando
+      Figes in The Crimean War: A History (2010) as being written at the hinge point
+      between diplomacy and war: Mikhail Pogodin’s memorandum to Tsar Nicholas I in
+      1853. Pogodin lists episodes of Western coercion and imperial violence — far-flung
+      conquests and wars of choice — and contrasts them with Europe’s outrage at Russian
+      actions in adjacent regions: “France takes Algeria from Turkey, and almost every
+      year England annexes another Indian principality: none of this disturbs the balance
+      of power; but when Russia occupies Moldavia and Wallachia, albeit only temporarily,
+      that disturbs the balance of power. France occupies Rome and stays there several
+      years during peacetime: that is nothing; but Russia only thinks of occupying Constantinople,
+      and the peace of Europe is threatened. The English declare war on the Chinese,
+      who have, it seems, offended them: no one has the right to intervene; but Russia
+      is obliged to ask Europe for permission if it quarrels with its neighbour. England
+      threatens Greece to support the false claims of a miserable Jew and burns its
+      fleet: that is a lawful action; but Russia demands a treaty to protect millions
+      of Christians, and that is deemed to strengthen its position in the East at the
+      expense of the balance of power.” Pogodin concludes: “We can expect nothing from
+      the West but blind hatred and malice,” to which Nicholas famously wrote in the
+      margin: “This is the whole point.” Professor Sachs expands on Pogodin’s analysis
+      with this penetrating summary: Western Russophobia should not be understood primarily
+      as emotional hostility toward Russians or Russian culture. Instead, it operates
+      as a structural prejudice embedded in European security thinking: the assumption
+      that Russia is the exception to normal diplomatic rules. While other great powers
+      are presumed to have legitimate security interests that must be balanced and accommodated,
+      Russia’s interests are presumed illegitimate unless proven otherwise. This assumption
+      survives changes in regime, ideology, and leadership. It transforms policy disagreements
+      into moral absolutes and renders compromise as suspect. As a result, Russophobia
+      functions less as a sentiment than as a systemic distortion — one that repeatedly
+      undermines Europe’s own security. Now let me show you how that hostility is translated
+      into policy by looking at the top eight largest US embassy compounds worldwide
+      by land area (in acres), based on the most recent available data as of late 2025.
+      Rankings prioritize facility size, with notes on personnel where reported. But
+      I’m adding one more data point…  The 2025 population estimates for each host country.
+      First, peruse the list and then I’ll explain why I think the size of embassy compounds
+      is something worth examining: US Embassy in Baghdad, Iraq Facility size: 104 acres.
+      Personnel: Downsized significantly; around 300–500 core staff (peak was 16,000+
+      in 2012). Host country population: ~47 million. US Embassy in Beirut, Lebanon
+      Facility size: 43 acres (new compound completed/expanded in recent years). Personnel:
+      Not publicly detailed in recent figures. Host country population: ~5.8 million.
+      US Embassy in Islamabad, Pakistan Facility size: ~37 acres. Personnel: One of
+      the largest staffs, historically ~2,500 (including security). Host country population:
+      ~255 million. US Embassy in Ottawa, Canada Facility size: ~30 acres. Personnel:
+      Not specified in recent reports. Host country population: ~40 million. US Embassy
+      in New Delhi, India Facility size: ~28 acres. Personnel: Not specified in recent
+      reports. Host country population: ~1.46 billion. US Embassy in Riyadh, Saudi Arabia
+      Facility size: ~26 acres. Personnel: Not specified in recent reports. Host country
+      population: ~37 million. US Embassy in Brasília, Brazil Facility size: ~23–25
+      acres (estimates vary slightly). Personnel: Not specified in recent reports. Host
+      country population: ~217 million. US Embassy in Yerevan, Armenia Facility size:
+      ~22 acres. Personnel: ~400 (American and local staff combined). Host country population:
+      ~3 million. These sizes reflect the full diplomatic compounds (including grounds,
+      housing, and support facilities), often built for security and self-sufficiency
+      in challenging environments. Note that rankings can shift slightly with renovations
+      or new constructions, and personnel numbers fluctuate based on mission needs.
+      Smaller compounds (e.g., Beijing at ~10 acres) are excluded here as they fall
+      outside the top eight. This is not just about acreage… It is also about the number
+      of buildings on US-compound. Take a gander at the US Embassy compound in Yerevan.
+      Notice anything unusual? How about the huge USAID building? Why in the hell is
+      the US Embassy Beirut and US Embassy Yerevan on this list? They are two of the
+      smallest countries in the world in terms of population, but have larger embassy
+      compounds than 160 other US embassies in the world. I think the old adage about
+      real estate applies… Location, location, location. And by that I mean US national
+      security priorities. Let me emphasize at the outset that I am not drawing on any
+      previous information about military and intelligence personnel assigned to embassies
+      in doing this analysis. Obviously Beirut is in a strategic location because of
+      its proximity to Syria and Israel, but what about Yerevan, Armenia? What catches
+      my eye is that Armenia is strategically located between Georgia on the northern
+      border of Armenia, Iran on its southern border and Turkey to the west. Let’s look
+      at USAID allocations to get some sense of whether or not Armenia is receiving
+      a disproportionate share of USAID money. In terms of bulk numbers, Armenia’s rank
+      is in the mid-tier range (around 55th–65th) among recipients, well below major
+      recipients, but above smaller ones (e.g., those receiving under $20 million).
+      However, when assessed on a per capita basis, the FY 2025 request of ~$52 million
+      translates to approximately $17 per capita, which places Armenia in the top 20–30
+      among recipient countries globally—significantly higher than larger nations, but
+      below small states or territories with intense strategic/humanitarian focus (e.g.,
+      Jordan, Lebanon, West Bank/Gaza, or Pacific islands). I don’t think this is a
+      coincidence. Let’s examine how western think tanks and the US government perceive
+      Armenia. Think tanks like the RAND Corporation and US government sources (e.g.,
+      State Department reports) frequently highlight Armenia’s strategic location in
+      the South Caucasus as a critical factor in regional geopolitics, emphasizing its
+      role as a potential bridge or buffer between major powers like Russia, Iran, Turkey,
+      and the West. Situated at the crossroads of Europe, Asia, and the Middle East—bordering
+      Georgia to the north, Azerbaijan to the east, Iran to the south, and Turkey to
+      the west—Armenia is seen as vulnerable yet pivotal for countering Russian influence,
+      promoting energy diversification, ensuring border stability, and advancing Western
+      integration amid ongoing conflicts like Nagorno-Karabakh. RAND often frames Armenia’s
+      location as precarious, wedged between authoritarian regional powers (Russia,
+      Azerbaijan, Iran) and democratic aspirations, making it a focal point for US strategy
+      in countering Russian dominance in the post-Soviet space. Key themes include :
+      Vulnerability and Russian Orbit : Armenia’s trajectory toward Western alignment
+      is described as “extremely perilous,” with Yerevan remaining economically and
+      militarily tied to Russia (e.g., through the Collective Security Treaty Organization
+      and Eurasian Economic Union) despite deteriorating relations. RAND’s narrative
+      emphasizes the belief that Armenia’s location exposes it to Russian coercion,
+      especially post-2022 Ukraine invasion, where Moscow’s distractions have allowed
+      Azerbaijani advances. RAND notes Armenia’s borders with Iran also heighten risks
+      of illicit activities and hybrid threats. Security Challenges with Azerbaijan
+      : Faced with a hostile, militarily superior Azerbaijan (which seized Nagorno-Karabakh
+      in 2020 and 2023), Armenia’s location amplifies threats of escalation and displacement.
+      RAND argues the US cannot fully guarantee Armenia’s security due to escalation
+      risks, but can support “porcupine” deterrence strategies (e.g., air defenses,
+      counter-drone tech) to bolster resilience. This aligns with broader US interests
+      in upholding border inviolability and preventing regional destabilization that
+      could affect NATO allies’ energy flows. Opportunities for Western Engagement :
+      In rethinking the post-Soviet order, RAND sees Armenia (alongside Georgia) as
+      a “democratic bright spot” for US influence, advocating multi-alignment (hedging
+      between Russia, Iran, and the West) rather than full pivots. This includes exploiting
+      Russia’s vulnerabilities to extend U.S. advantages, such as through economic reboots
+      post-Iran sanctions relief. Analysts recommend careful U.S. strategy focusing
+      on comparative strengths like institutional building and diplomacy to deepen ties
+      without overcommitting. Overall, both RAND and US government sources stress Armenia’s
+      location as a double-edged sword: offering leverage for Western influence but
+      requiring cautious support to avoid escalation. I am belaboring this point to
+      illustrate that neither RAND nor the US government acknowledges the reality that
+      such actions by the US are viewed in Moscow as a threat to Russia. If the tables
+      were turned and Russia was engaged in similar programs in Central America or Mexico,
+      the US government would view it as a direct threat to America. This confirm’s
+      the prescience of Mikhail Pogodin’s analysis 173 years ago. Danny at CapitalCosm
+      interviewed Alex Krainer and me on Wednesday and I did my regular chat with Nima,
+      only this time Nima is in Iran visiting family over the holidays: I thank you
+      for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: In his article "Two Centuries of Russophobia & Rejection of
+      Peace," Jeffery Sachs argues that the longstanding Western animosity towards Russia
+      is rooted more in historical patterns of Western imperialism and coercion than
+      in Russian provocations or misdeeds.
+    paragraph_summary: In his article "Two Centuries of Russophobia & Rejection of Peace,"
+      Jeffery Sachs explores the historical roots of Western animosity towards Russia,
+      arguing that this hostility is largely unconnected to Russian actions or provocations.
+      He highlights a pivotal moment from Mikhail Pogodin’s 1853 memorandum to Tsar
+      Nicholas I, which contrasts Western imperial conquests with the disproportionate
+      outrage directed at Russia for its regional actions. Pogodin illustrates a double
+      standard in international relations, where Western aggression is overlooked while
+      Russian attempts to assert influence are met with alarm. He concludes that the
+      West's response to Russia is driven by "blind hatred and malice," a sentiment
+      that Nicholas I acknowledged in his marginal note, encapsulating the enduring
+      nature of this conflict.
+    published: '2025-12-27T03:51:56+00:00'
+  - title: Why Does the West Hate Russia?
+    url: https://sonar21.com/why-does-the-west-hate-russia-2/
+    text: 'If you don’t do anything else this weekend while recovering from your Christmas
+      hangover, please find the time to read, Jeffery Sachs: Two Centuries of Russophobia
+      & Rejection of Peace , which is posted at Consortium News . Professor Sachs provides
+      a compelling exegesis of the history of Russia vs. Europe that shows that the
+      roots of Western hatred of Russia have little to do with Russian misdeeds or provocations.
+      Here is a snippet from a key section of the article explaining this idea: That
+      shift is captured with extraordinary clarity in a document highlighted by Orlando
+      Figes in The Crimean War: A History (2010) as being written at the hinge point
+      between diplomacy and war: Mikhail Pogodin’s memorandum to Tsar Nicholas I in
+      1853. Pogodin lists episodes of Western coercion and imperial violence — far-flung
+      conquests and wars of choice — and contrasts them with Europe’s outrage at Russian
+      actions in adjacent regions: “France takes Algeria from Turkey, and almost every
+      year England annexes another Indian principality: none of this disturbs the balance
+      of power; but when Russia occupies Moldavia and Wallachia, albeit only temporarily,
+      that disturbs the balance of power. France occupies Rome and stays there several
+      years during peacetime: that is nothing; but Russia only thinks of occupying Constantinople,
+      and the peace of Europe is threatened. The English declare war on the Chinese,
+      who have, it seems, offended them: no one has the right to intervene; but Russia
+      is obliged to ask Europe for permission if it quarrels with its neighbour. England
+      threatens Greece to support the false claims of a miserable Jew and burns its
+      fleet: that is a lawful action; but Russia demands a treaty to protect millions
+      of Christians, and that is deemed to strengthen its position in the East at the
+      expense of the balance of power.” Pogodin concludes: “We can expect nothing from
+      the West but blind hatred and malice,” to which Nicholas famously wrote in the
+      margin: “This is the whole point.” Professor Sachs expands on Pogodin’s analysis
+      with this penetrating summary: Western Russophobia should not be understood primarily
+      as emotional hostility toward Russians or Russian culture. Instead, it operates
+      as a structural prejudice embedded in European security thinking: the assumption
+      that Russia is the exception to normal diplomatic rules. While other great powers
+      are presumed to have legitimate security interests that must be balanced and accommodated,
+      Russia’s interests are presumed illegitimate unless proven otherwise. This assumption
+      survives changes in regime, ideology, and leadership. It transforms policy disagreements
+      into moral absolutes and renders compromise as suspect. As a result, Russophobia
+      functions less as a sentiment than as a systemic distortion — one that repeatedly
+      undermines Europe’s own security. Now let me show you how that hostility is translated
+      into policy by looking at the top eight largest US embassy compounds worldwide
+      by land area (in acres), based on the most recent available data as of late 2025.
+      Rankings prioritize facility size, with notes on personnel where reported. But
+      I’m adding one more data point…  The 2025 population estimates for each host country.
+      First, peruse the list and then I’ll explain why I think the size of embassy compounds
+      is something worth examining: US Embassy in Baghdad, Iraq Facility size: 104 acres.
+      Personnel: Downsized significantly; around 300–500 core staff (peak was 16,000+
+      in 2012). Host country population: ~47 million. US Embassy in Beirut, Lebanon
+      Facility size: 43 acres (new compound completed/expanded in recent years). Personnel:
+      Not publicly detailed in recent figures. Host country population: ~5.8 million.
+      US Embassy in Islamabad, Pakistan Facility size: ~37 acres. Personnel: One of
+      the largest staffs, historically ~2,500 (including security). Host country population:
+      ~255 million. US Embassy in Ottawa, Canada Facility size: ~30 acres. Personnel:
+      Not specified in recent reports. Host country population: ~40 million. US Embassy
+      in New Delhi, India Facility size: ~28 acres. Personnel: Not specified in recent
+      reports. Host country population: ~1.46 billion. US Embassy in Riyadh, Saudi Arabia
+      Facility size: ~26 acres. Personnel: Not specified in recent reports. Host country
+      population: ~37 million. US Embassy in Brasília, Brazil Facility size: ~23–25
+      acres (estimates vary slightly). Personnel: Not specified in recent reports. Host
+      country population: ~217 million. US Embassy in Yerevan, Armenia Facility size:
+      ~22 acres. Personnel: ~400 (American and local staff combined). Host country population:
+      ~3 million. These sizes reflect the full diplomatic compounds (including grounds,
+      housing, and support facilities), often built for security and self-sufficiency
+      in challenging environments. Note that rankings can shift slightly with renovations
+      or new constructions, and personnel numbers fluctuate based on mission needs.
+      Smaller compounds (e.g., Beijing at ~10 acres) are excluded here as they fall
+      outside the top eight. This is not just about acreage… It is also about the number
+      of buildings on US-compound. Take a gander at the US Embassy compound in Yerevan.
+      Notice anything unusual? How about the huge USAID building? Why in the hell is
+      the US Embassy Beirut and US Embassy Yerevan on this list? They are two of the
+      smallest countries in the world in terms of population, but have larger embassy
+      compounds than 160 other US embassies in the world. I think the old adage about
+      real estate applies… Location, location, location. And by that I mean US national
+      security priorities. Let me emphasize at the outset that I am not drawing on any
+      previous information about military and intelligence personnel assigned to embassies
+      in doing this analysis. Obviously Beirut is in a strategic location because of
+      its proximity to Syria and Israel, but what about Yerevan, Armenia? What catches
+      my eye is that Armenia is strategically located between Georgia on the northern
+      border of Armenia, Iran on its southern border and Turkey to the west. Let’s look
+      at USAID allocations to get some sense of whether or not Armenia is receiving
+      a disproportionate share of USAID money. In terms of bulk numbers, Armenia’s rank
+      is in the mid-tier range (around 55th–65th) among recipients, well below major
+      recipients, but above smaller ones (e.g., those receiving under $20 million).
+      However, when assessed on a per capita basis, the FY 2025 request of ~$52 million
+      translates to approximately $17 per capita, which places Armenia in the top 20–30
+      among recipient countries globally—significantly higher than larger nations, but
+      below small states or territories with intense strategic/humanitarian focus (e.g.,
+      Jordan, Lebanon, West Bank/Gaza, or Pacific islands). I don’t think this is a
+      coincidence. Let’s examine how western think tanks and the US government perceive
+      Armenia. Think tanks like the RAND Corporation and US government sources (e.g.,
+      State Department reports) frequently highlight Armenia’s strategic location in
+      the South Caucasus as a critical factor in regional geopolitics, emphasizing its
+      role as a potential bridge or buffer between major powers like Russia, Iran, Turkey,
+      and the West. Situated at the crossroads of Europe, Asia, and the Middle East—bordering
+      Georgia to the north, Azerbaijan to the east, Iran to the south, and Turkey to
+      the west—Armenia is seen as vulnerable yet pivotal for countering Russian influence,
+      promoting energy diversification, ensuring border stability, and advancing Western
+      integration amid ongoing conflicts like Nagorno-Karabakh. RAND often frames Armenia’s
+      location as precarious, wedged between authoritarian regional powers (Russia,
+      Azerbaijan, Iran) and democratic aspirations, making it a focal point for US strategy
+      in countering Russian dominance in the post-Soviet space. Key themes include :
+      Vulnerability and Russian Orbit : Armenia’s trajectory toward Western alignment
+      is described as “extremely perilous,” with Yerevan remaining economically and
+      militarily tied to Russia (e.g., through the Collective Security Treaty Organization
+      and Eurasian Economic Union) despite deteriorating relations. RAND’s narrative
+      emphasizes the belief that Armenia’s location exposes it to Russian coercion,
+      especially post-2022 Ukraine invasion, where Moscow’s distractions have allowed
+      Azerbaijani advances. RAND notes Armenia’s borders with Iran also heighten risks
+      of illicit activities and hybrid threats. Security Challenges with Azerbaijan
+      : Faced with a hostile, militarily superior Azerbaijan (which seized Nagorno-Karabakh
+      in 2020 and 2023), Armenia’s location amplifies threats of escalation and displacement.
+      RAND argues the US cannot fully guarantee Armenia’s security due to escalation
+      risks, but can support “porcupine” deterrence strategies (e.g., air defenses,
+      counter-drone tech) to bolster resilience. This aligns with broader US interests
+      in upholding border inviolability and preventing regional destabilization that
+      could affect NATO allies’ energy flows. Opportunities for Western Engagement :
+      In rethinking the post-Soviet order, RAND sees Armenia (alongside Georgia) as
+      a “democratic bright spot” for US influence, advocating multi-alignment (hedging
+      between Russia, Iran, and the West) rather than full pivots. This includes exploiting
+      Russia’s vulnerabilities to extend U.S. advantages, such as through economic reboots
+      post-Iran sanctions relief. Analysts recommend careful U.S. strategy focusing
+      on comparative strengths like institutional building and diplomacy to deepen ties
+      without overcommitting. Overall, both RAND and US government sources stress Armenia’s
+      location as a double-edged sword: offering leverage for Western influence but
+      requiring cautious support to avoid escalation. I am belaboring this point to
+      illustrate that neither RAND nor the US government acknowledges the reality that
+      such actions by the US are viewed in Moscow as a threat to Russia. If the tables
+      were turned and Russia was engaged in similar programs in Central America or Mexico,
+      the US government would view it as a direct threat to America. This confirm’s
+      the prescience of Mikhail Pogodin’s analysis 173 years ago. Danny at CapitalCosm
+      interviewed Alex Krainer and me on Wednesday and I did my regular chat with Nima,
+      only this time Nima is in Iran visiting family over the holidays: I thank you
+      for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: In his article "Two Centuries of Russophobia & Rejection of
+      Peace," Jeffery Sachs argues that the longstanding Western animosity towards Russia
+      is rooted more in historical patterns of Western imperialism and coercion than
+      in Russian provocations or misdeeds.
+    paragraph_summary: In his article "Two Centuries of Russophobia & Rejection of Peace,"
+      Jeffery Sachs explores the historical roots of Western animosity towards Russia,
+      arguing that this hostility is largely unconnected to Russian actions or provocations.
+      He highlights a pivotal moment from Mikhail Pogodin’s 1853 memorandum to Tsar
+      Nicholas I, which contrasts Western imperial conquests with the disproportionate
+      outrage directed at Russia for its regional actions. Pogodin illustrates a double
+      standard in international relations, where Western aggression is overlooked while
+      Russian attempts to assert influence are met with alarm. He concludes that the
+      West's response to Russia is driven by "blind hatred and malice," a sentiment
+      that Nicholas I acknowledged in his marginal note, encapsulating the enduring
+      nature of this conflict.
+    published: '2025-12-27T03:51:56+00:00'
+  - title: Islam versus Judaism… How is Jesus Viewed?
+    url: https://sonar21.com/islam-versus-judaism-how-is-jesus-viewed/
+    text: 'Iran’s Armenian Christians Celebrate Christmas I found the photo above as
+      an interesting place to start a discussion about the birth of Jesus and how he
+      is viewed in Islam and in Judaism. Anti-Muslim propaganda in the West, especially
+      in the United States, paints a picture of Muslims as intolerant fanatics who threaten
+      Christians with death if they don’t convert. But then there is the photo above…
+      The fact is that in Muslim Iran, Christians are able to celebrate Christmas openly
+      and without interference. I also note that Tehran is still home to one of the
+      oldest Jewish communities in the world. The supposedly intolerant Islamists ain’t
+      killing them either. The situation for Palestinian Christians in Israel, Gaza
+      and the West Bank, is quite different from that of their Armenian cousins in Iran.
+      For example, according to the Times of Israel, Israeli Police harassed and arrested
+      Palestinian Christians who were celebrating Christmas in Haifa on Sunday, December
+      21, 2025. The Israeli police raided a Christmas celebration in Wadi Nisnas (a
+      predominantly Palestinian Arab neighborhood in Haifa), dispersing the event, confiscating
+      equipment, beating participants, and arresting at least three people—including
+      a man dressed as Santa Claus. There also are reports of isolated incidents today
+      in the West Bank: Earlier today , Israeli settlers set fire to a Christmas tree
+      in the West Bank, and IDF soldiers beat up an elderly man in Bethlehem who carried
+      a cross pendant around his neck. The good news is that the Palestinian Christian
+      community, accompanied by a few foreigners, gathered in Bethlehem without incident
+      to commemorate the birth of Jesus. While Christian Zionists enthusiastically embrace
+      the term, Judeo-Christian values, I believe a case can be made that Islam is far
+      more tolerant of Christians than are the Jewish Zionists. Consider the following:
+      With respect to the identity of Jesus, Islam views Jesus (aka Isa) is a major
+      prophet and messenger of God. Jesus is venerated as one of the five greatest prophets
+      (alongside Noah, Abraham, Moses, and Muhammad). He is the Messiah (al-Masih) but
+      in a non-divine sense, sent to confirm the Torah and guide the Israelites. Within
+      Judaism, Jesus is not recognized as a prophet, Messiah, or divine figure. He is
+      viewed as an ordinary Jewish man, possibly a teacher or false messiah claimant
+      who did not fulfill biblical prophecies (e.g., world peace, ingathering of exiles).
+      Then there is the debate surrounding the Talmud. The Talmud (primarily the Babylonian
+      Talmud, compiled around 300–500 CE) contains a small number of scattered passages
+      that many scholars identify as references to Jesus of Nazareth (referred to as
+      “Yeshu” or “Yeshu ha-Notzri”). These are highly polemical and negative, portraying
+      him as a sorcerer, heretic, and false teacher who was justly executed. Scholarly
+      consensus, as articulated by Peter Schäfer in his seminal book Jesus in the Talmud
+      (2007), views these as deliberate counter-narratives to Christian claims, likely
+      composed in Babylonia (3rd–4th centuries CE) in response to the growing dominance
+      of Christianity. They parody New Testament stories to assert Judaism’s superiority.
+      However, some scholars (e.g., Johann Maier, Jacob Neusner) argue many or most
+      references are not to the historical Jesus but to other figures with similar names
+      (Yeshu/Yeshua was common), or are legendary/late additions. Due to medieval Christian
+      censorship, some passages were altered, erased, or omitted in printed editions,
+      making reconstruction reliant on manuscripts. Whether you side with Peter Schäfer’s
+      view or believe that Johann Maier has the right interpretation, there is no dispute
+      that Islam holds a view of Jesus that is more in harmony with the beliefs of Christians.
+      While both Islam and Judaism reject the claim that Jesus is the Divine Son of
+      God , Islam accepts the Christian claims regarding the Vigin birth and the miracles.
+      performed by Jesus, Judaism strongly rejects those claims. And then there is the
+      diametrically oppsed beliefs separating Islam from Judaism with respect Mary,
+      the mother of Jesus. Islam highly exalts Mary as one of the four greatest women
+      in history (alongside Asiya, Khadija, and Fatima). She is sinless, pious, and
+      devoted; the Quran dedicates Surah 19 (Maryam) to her, detailing her life and
+      virginity. She is a model of faith but not divine or an intercessor. Judaism,
+      on the other hand, does not mentioned in Jewish scriptures (Torah or Talmud) and
+      holds no religious significance. She is viewed simply as a Jewish woman and mother
+      in Christian stories, which Judaism does not accept. As is the case with Jesus,
+      there are passages in the Talmud (primarily the Babylonian Talmud) that scholars
+      interpret as containing lurid or sensational references to Mary (referred to as
+      Miriam), the mother of Jesus. These are polemical in nature, often implying adultery,
+      infidelity, or promiscuity to counter Christian narratives of the virgin birth,
+      portraying Jesus as illegitimate rather than divinely conceived. Such references
+      are found in scattered discussions on sorcery, heresy, and execution, and they
+      have been historically controversial, leading to censorship in medieval printed
+      editions due to Christian accusations of blasphemy. However, interpretations vary:
+      Some scholars argue these refer to different historical or legendary figures (not
+      the biblical Mary), while others see them as deliberate anti-Christian parodies
+      from the 3rd–4th centuries CE, with no historical reliability. Without delving
+      into a deep theological discussion, I simply say that I celebrate the birth of
+      Jesus as a divine event with the ultimate purpose of uniting all humans — regardless
+      of their sex, race or ethnicity — with their  Creator. In other words, you don’t
+      have to be a member of a particular tribe or speak a particular language or have
+      a particular skin color, to be embraced as a genuine offspring of God. In that
+      vein, I wish all who are reading this a Merry Christmas… That does not mean you
+      have to accept Jesus, just understand that I am wishing for you the best things
+      that life can offer to you and your family. Thanks for reading. I had a great
+      discussion with Danny Davis today. We discussed Russian cannibals: I thank you
+      for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: In Iran, Armenian Christians can celebrate Christmas freely,
+      contrasting sharply with the treatment of Palestinian Christians in Israel, where
+      they face harassment and arrests during their celebrations.
+    paragraph_summary: The article discusses the contrasting experiences of Christians
+      in Iran and those in Israel and the Palestinian territories during Christmas celebrations.
+      It highlights that Armenian Christians in Iran can celebrate Christmas openly
+      and without interference, showcasing a more tolerant environment for Christians
+      in a predominantly Muslim country. In contrast, Palestinian Christians face harassment
+      and violence from Israeli authorities, as evidenced by recent incidents in Haifa
+      and the West Bank where police disrupted celebrations and attacked participants.
+      The article argues that, contrary to Western anti-Muslim narratives, Islam may
+      be more tolerant of Christians than the actions of some Jewish Zionists suggest,
+      noting that Islam regards Jesus as a significant prophet.
+    published: '2025-12-25T06:14:02+00:00'
+  - title: Islam versus Judaism… How is Jesus Viewed?
+    url: https://sonar21.com/islam-versus-judaism-how-is-jesus-viewed/
+    text: 'Iran’s Armenian Christians Celebrate Christmas I found the photo above as
+      an interesting place to start a discussion about the birth of Jesus and how he
+      is viewed in Islam and in Judaism. Anti-Muslim propaganda in the West, especially
+      in the United States, paints a picture of Muslims as intolerant fanatics who threaten
+      Christians with death if they don’t convert. But then there is the photo above…
+      The fact is that in Muslim Iran, Christians are able to celebrate Christmas openly
+      and without interference. I also note that Tehran is still home to one of the
+      oldest Jewish communities in the world. The supposedly intolerant Islamists ain’t
+      killing them either. The situation for Palestinian Christians in Israel, Gaza
+      and the West Bank, is quite different from that of their Armenian cousins in Iran.
+      For example, according to the Times of Israel, Israeli Police harassed and arrested
+      Palestinian Christians who were celebrating Christmas in Haifa on Sunday, December
+      21, 2025. The Israeli police raided a Christmas celebration in Wadi Nisnas (a
+      predominantly Palestinian Arab neighborhood in Haifa), dispersing the event, confiscating
+      equipment, beating participants, and arresting at least three people—including
+      a man dressed as Santa Claus. There also are reports of isolated incidents today
+      in the West Bank: Earlier today , Israeli settlers set fire to a Christmas tree
+      in the West Bank, and IDF soldiers beat up an elderly man in Bethlehem who carried
+      a cross pendant around his neck. The good news is that the Palestinian Christian
+      community, accompanied by a few foreigners, gathered in Bethlehem without incident
+      to commemorate the birth of Jesus. While Christian Zionists enthusiastically embrace
+      the term, Judeo-Christian values, I believe a case can be made that Islam is far
+      more tolerant of Christians than are the Jewish Zionists. Consider the following:
+      With respect to the identity of Jesus, Islam views Jesus (aka Isa) is a major
+      prophet and messenger of God. Jesus is venerated as one of the five greatest prophets
+      (alongside Noah, Abraham, Moses, and Muhammad). He is the Messiah (al-Masih) but
+      in a non-divine sense, sent to confirm the Torah and guide the Israelites. Within
+      Judaism, Jesus is not recognized as a prophet, Messiah, or divine figure. He is
+      viewed as an ordinary Jewish man, possibly a teacher or false messiah claimant
+      who did not fulfill biblical prophecies (e.g., world peace, ingathering of exiles).
+      Then there is the debate surrounding the Talmud. The Talmud (primarily the Babylonian
+      Talmud, compiled around 300–500 CE) contains a small number of scattered passages
+      that many scholars identify as references to Jesus of Nazareth (referred to as
+      “Yeshu” or “Yeshu ha-Notzri”). These are highly polemical and negative, portraying
+      him as a sorcerer, heretic, and false teacher who was justly executed. Scholarly
+      consensus, as articulated by Peter Schäfer in his seminal book Jesus in the Talmud
+      (2007), views these as deliberate counter-narratives to Christian claims, likely
+      composed in Babylonia (3rd–4th centuries CE) in response to the growing dominance
+      of Christianity. They parody New Testament stories to assert Judaism’s superiority.
+      However, some scholars (e.g., Johann Maier, Jacob Neusner) argue many or most
+      references are not to the historical Jesus but to other figures with similar names
+      (Yeshu/Yeshua was common), or are legendary/late additions. Due to medieval Christian
+      censorship, some passages were altered, erased, or omitted in printed editions,
+      making reconstruction reliant on manuscripts. Whether you side with Peter Schäfer’s
+      view or believe that Johann Maier has the right interpretation, there is no dispute
+      that Islam holds a view of Jesus that is more in harmony with the beliefs of Christians.
+      While both Islam and Judaism reject the claim that Jesus is the Divine Son of
+      God , Islam accepts the Christian claims regarding the Vigin birth and the miracles.
+      performed by Jesus, Judaism strongly rejects those claims. And then there is the
+      diametrically oppsed beliefs separating Islam from Judaism with respect Mary,
+      the mother of Jesus. Islam highly exalts Mary as one of the four greatest women
+      in history (alongside Asiya, Khadija, and Fatima). She is sinless, pious, and
+      devoted; the Quran dedicates Surah 19 (Maryam) to her, detailing her life and
+      virginity. She is a model of faith but not divine or an intercessor. Judaism,
+      on the other hand, does not mentioned in Jewish scriptures (Torah or Talmud) and
+      holds no religious significance. She is viewed simply as a Jewish woman and mother
+      in Christian stories, which Judaism does not accept. As is the case with Jesus,
+      there are passages in the Talmud (primarily the Babylonian Talmud) that scholars
+      interpret as containing lurid or sensational references to Mary (referred to as
+      Miriam), the mother of Jesus. These are polemical in nature, often implying adultery,
+      infidelity, or promiscuity to counter Christian narratives of the virgin birth,
+      portraying Jesus as illegitimate rather than divinely conceived. Such references
+      are found in scattered discussions on sorcery, heresy, and execution, and they
+      have been historically controversial, leading to censorship in medieval printed
+      editions due to Christian accusations of blasphemy. However, interpretations vary:
+      Some scholars argue these refer to different historical or legendary figures (not
+      the biblical Mary), while others see them as deliberate anti-Christian parodies
+      from the 3rd–4th centuries CE, with no historical reliability. Without delving
+      into a deep theological discussion, I simply say that I celebrate the birth of
+      Jesus as a divine event with the ultimate purpose of uniting all humans — regardless
+      of their sex, race or ethnicity — with their  Creator. In other words, you don’t
+      have to be a member of a particular tribe or speak a particular language or have
+      a particular skin color, to be embraced as a genuine offspring of God. In that
+      vein, I wish all who are reading this a Merry Christmas… That does not mean you
+      have to accept Jesus, just understand that I am wishing for you the best things
+      that life can offer to you and your family. Thanks for reading. I had a great
+      discussion with Danny Davis today. We discussed Russian cannibals: I thank you
+      for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: In Iran, Armenian Christians can celebrate Christmas freely,
+      contrasting sharply with the treatment of Palestinian Christians in Israel, where
+      they face harassment and arrests during their celebrations.
+    paragraph_summary: The article discusses the contrasting experiences of Christians
+      in Iran and those in Israel and the Palestinian territories during Christmas celebrations.
+      It highlights that Armenian Christians in Iran can celebrate Christmas openly
+      and without interference, showcasing a more tolerant environment for Christians
+      in a predominantly Muslim country. In contrast, Palestinian Christians face harassment
+      and violence from Israeli authorities, as evidenced by recent incidents in Haifa
+      and the West Bank where police disrupted celebrations and attacked participants.
+      The article argues that, contrary to Western anti-Muslim narratives, Islam may
+      be more tolerant of Christians than the actions of some Jewish Zionists suggest,
+      noting that Islam regards Jesus as a significant prophet.
+    published: '2025-12-25T06:14:02+00:00'
+  - title: Vovan and Lexus Strike Again
+    url: https://sonar21.com/vovan-and-lexus-strike-again/
+    text: 'Vovan and Lexus The boys did it again. My new friends, Russian comedians
+      Vladimir Kuznetsov (Vovan) and Alexei Stolyarov (Lexus) pulled off another of
+      their incredible video pranks. In their latest work of genius they impersonated
+      Ukrainian presidential aide Igor Zhovkva and had a candid chat with two former
+      Biden National Security Council (NSC) officials: Amanda Sloat (Senior Director
+      for Europe, architect of Biden’s Ukraine policy) and Eric Green (Senior Director
+      for Russia and Central Asia, with 30+ years in diplomacy). Their prank produced
+      some damning and candid admissions about US policy on Ukraine-Russia negotiations
+      in Istanbul in March 2022, NATO expansion, and the war’s preventability going
+      forward. They released the videos on December 10 and 11. The first part was with
+      Amanda Sloat and focused on NATO/neutrality);  the second part featured Sloat
+      and Eric Green (via Sloat’s “referral”). Amanda Sloat reflected on Biden-era decisions,
+      admitting regrets in hindsight. Here is a summary of her main points: Preventability
+      of War : She conceded that if Ukraine had declared neutrality and abandoned NATO
+      aspirations in Jan 2022 (pre-invasion) or during Istanbul talks, it “may well
+      have prevented/stopped the war” and “certainly would have prevented the destruction
+      and the loss of life.” She said that there were discussions with Biden on pushing
+      Ukraine this way, but she was “uncomfortable” with this option because it would
+      implicitly give Russia “sphere of influence or veto power” over Ukraine. The 2023
+      Offensive : Sloat said that the White House hoped that Ukraine’s offensive in
+      the summer of 2023 was launched with the intent to reclaim territory militarily
+      and then be able to negotiate better terms with Russia, but  she lamented that
+      “everything went differently than hoped.” With the benefit of hindsight she questioned
+      if neutrality pre-war would have been better choice for Ukraine. NATO : Sloat
+      conceded that NATO membership was unrealistic, but prioritized principle over
+      prevention. You can watch the full interview with Sloat here: Ms. Sloat then brought
+      her former colleague, Eric Green, into the conversation. Green was more cynical
+      and strategic in his comments about the current state of affairs. He said: Istanbul
+      was Not a Missed Opportunity : Green emphasized that he has “no regrets” about
+      Biden’s policy on Ukraine, stating: “assume the worst and have no regrets.” He
+      said that Istanbul wasn’t an opportunity lost… Instead the fighting on the battlefields
+      were the real negotiations. He expressed regret that Russia regrouped, leading
+      to what he characterizes as a stalemate. He admitted that if Russia felt it was
+      losing, it would be willing to make concessions. Minsk Success : Now for the truly
+      cynical portion of the conversation. Green, echoing Angela Merkel, praised Minsk
+      agreements for buying time — i.e., it allowed Ukraine to acquire more arms and
+      expanded ties with, Western intelligence agencies, which means the CIA and MI-6.
+      He advised what he thought was Igor Zhovka, that Ukraine should repeat this ploy
+      — i.e., conclude the same fake peace agreement and make it “vague” so that Russia
+      thinks it won (e.g., territorial ambiguity), but Ukraine retains flexibility.
+      Future War Prep : In Green’s view, ceasefire means “ another war, because the
+      way to prevent war is to prepare for it .” Ukraine needs new arms, allies, security
+      guarantees for long-term deterrence, which includes deploying NATO forces in Ukraine
+      without calling them NATO forces. Here is the video with Sloat and Green together:
+      Although these two are not part of the Trump administration, I believe that their
+      thoughts on how Ukraine should deal with Russia are shared by several members
+      of the Trump administration. It is sickening, though not shocking, that Sloat
+      and Green have such a callous disregard for the death and destruction visited
+      on Ukraine, and to a lesser extent on Russia, just because they wanted to thwart
+      Russia from exerting any influence over Ukraine. From their perspective Ukraine
+      is the lackey of the US. Here are new conversations I’ve had over the last couple
+      of days. The first is with Stas Krapivnik; the second with Glenn Diesen; and my
+      chat today with Garland Nixon. Garland and I have not been able to do this during
+      the past two months because of travel schedules: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: Russian comedians Vovan and Lexus successfully pranked former
+      Biden National Security Council officials by impersonating a Ukrainian aide, leading
+      to revealing discussions about US policy on Ukraine-Russia negotiations and NATO,
+      which they released in videos on December 10 and 11.
+    paragraph_summary: Russian comedians Vladimir Kuznetsov (Vovan) and Alexei Stolyarov
+      (Lexus) executed another elaborate prank by impersonating Ukrainian presidential
+      aide Igor Zhovkva and engaging in candid discussions with former Biden National
+      Security Council officials Amanda Sloat and Eric Green. Their conversations, released
+      on December 10 and 11, revealed significant insights into U.S. policy regarding
+      Ukraine-Russia negotiations, particularly the preventability of the war and NATO
+      expansion. Sloat admitted that if Ukraine had declared neutrality before the Russian
+      invasion in January 2022 or during the Istanbul talks, it might have prevented
+      the war and its associated destruction. She also expressed regret over Biden-era
+      decisions and acknowledged that the anticipated outcomes of Ukraine's 2023 military
+      offensive did not materialize as hoped, raising questions about the feasibility
+      of NATO membership for Ukraine.
+    published: '2025-12-24T05:51:49+00:00'
+  - title: Vovan and Lexus Strike Again
+    url: https://sonar21.com/vovan-and-lexus-strike-again/
+    text: 'Vovan and Lexus The boys did it again. My new friends, Russian comedians
+      Vladimir Kuznetsov (Vovan) and Alexei Stolyarov (Lexus) pulled off another of
+      their incredible video pranks. In their latest work of genius they impersonated
+      Ukrainian presidential aide Igor Zhovkva and had a candid chat with two former
+      Biden National Security Council (NSC) officials: Amanda Sloat (Senior Director
+      for Europe, architect of Biden’s Ukraine policy) and Eric Green (Senior Director
+      for Russia and Central Asia, with 30+ years in diplomacy). Their prank produced
+      some damning and candid admissions about US policy on Ukraine-Russia negotiations
+      in Istanbul in March 2022, NATO expansion, and the war’s preventability going
+      forward. They released the videos on December 10 and 11. The first part was with
+      Amanda Sloat and focused on NATO/neutrality);  the second part featured Sloat
+      and Eric Green (via Sloat’s “referral”). Amanda Sloat reflected on Biden-era decisions,
+      admitting regrets in hindsight. Here is a summary of her main points: Preventability
+      of War : She conceded that if Ukraine had declared neutrality and abandoned NATO
+      aspirations in Jan 2022 (pre-invasion) or during Istanbul talks, it “may well
+      have prevented/stopped the war” and “certainly would have prevented the destruction
+      and the loss of life.” She said that there were discussions with Biden on pushing
+      Ukraine this way, but she was “uncomfortable” with this option because it would
+      implicitly give Russia “sphere of influence or veto power” over Ukraine. The 2023
+      Offensive : Sloat said that the White House hoped that Ukraine’s offensive in
+      the summer of 2023 was launched with the intent to reclaim territory militarily
+      and then be able to negotiate better terms with Russia, but  she lamented that
+      “everything went differently than hoped.” With the benefit of hindsight she questioned
+      if neutrality pre-war would have been better choice for Ukraine. NATO : Sloat
+      conceded that NATO membership was unrealistic, but prioritized principle over
+      prevention. You can watch the full interview with Sloat here: Ms. Sloat then brought
+      her former colleague, Eric Green, into the conversation. Green was more cynical
+      and strategic in his comments about the current state of affairs. He said: Istanbul
+      was Not a Missed Opportunity : Green emphasized that he has “no regrets” about
+      Biden’s policy on Ukraine, stating: “assume the worst and have no regrets.” He
+      said that Istanbul wasn’t an opportunity lost… Instead the fighting on the battlefields
+      were the real negotiations. He expressed regret that Russia regrouped, leading
+      to what he characterizes as a stalemate. He admitted that if Russia felt it was
+      losing, it would be willing to make concessions. Minsk Success : Now for the truly
+      cynical portion of the conversation. Green, echoing Angela Merkel, praised Minsk
+      agreements for buying time — i.e., it allowed Ukraine to acquire more arms and
+      expanded ties with, Western intelligence agencies, which means the CIA and MI-6.
+      He advised what he thought was Igor Zhovka, that Ukraine should repeat this ploy
+      — i.e., conclude the same fake peace agreement and make it “vague” so that Russia
+      thinks it won (e.g., territorial ambiguity), but Ukraine retains flexibility.
+      Future War Prep : In Green’s view, ceasefire means “ another war, because the
+      way to prevent war is to prepare for it .” Ukraine needs new arms, allies, security
+      guarantees for long-term deterrence, which includes deploying NATO forces in Ukraine
+      without calling them NATO forces. Here is the video with Sloat and Green together:
+      Although these two are not part of the Trump administration, I believe that their
+      thoughts on how Ukraine should deal with Russia are shared by several members
+      of the Trump administration. It is sickening, though not shocking, that Sloat
+      and Green have such a callous disregard for the death and destruction visited
+      on Ukraine, and to a lesser extent on Russia, just because they wanted to thwart
+      Russia from exerting any influence over Ukraine. From their perspective Ukraine
+      is the lackey of the US. Here are new conversations I’ve had over the last couple
+      of days. The first is with Stas Krapivnik; the second with Glenn Diesen; and my
+      chat today with Garland Nixon. Garland and I have not been able to do this during
+      the past two months because of travel schedules: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: Russian comedians Vovan and Lexus successfully pranked former
+      Biden National Security Council officials by impersonating a Ukrainian aide, leading
+      to revealing discussions about US policy on Ukraine-Russia negotiations and NATO,
+      which they released in videos on December 10 and 11.
+    paragraph_summary: Russian comedians Vladimir Kuznetsov (Vovan) and Alexei Stolyarov
+      (Lexus) executed another elaborate prank by impersonating Ukrainian presidential
+      aide Igor Zhovkva and engaging in candid discussions with former Biden National
+      Security Council officials Amanda Sloat and Eric Green. Their conversations, released
+      on December 10 and 11, revealed significant insights into U.S. policy regarding
+      Ukraine-Russia negotiations, particularly the preventability of the war and NATO
+      expansion. Sloat admitted that if Ukraine had declared neutrality before the Russian
+      invasion in January 2022 or during the Istanbul talks, it might have prevented
+      the war and its associated destruction. She also expressed regret over Biden-era
+      decisions and acknowledged that the anticipated outcomes of Ukraine's 2023 military
+      offensive did not materialize as hoped, raising questions about the feasibility
+      of NATO membership for Ukraine.
+    published: '2025-12-24T05:51:49+00:00'
   - title: What Russia Could Do
     url: https://sonar21.com/what-russia-could-do/
     text: 'For years, Russia, Russians, and people with ties to Russia have been victims

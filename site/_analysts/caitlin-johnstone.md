@@ -7,16 +7,752 @@ description: "Australian satirical anti–war journalist; reader–funded Substa
 websites:
   - https://www.caitlinjohnst.one/
 summary: |
-  The ongoing debate over criticism of Israel and the boundaries of free speech continues to dominate political discourse in Australia and beyond. In the wake of the Bondi Beach shooting, where a Jewish Hanukkah celebration was attacked, public discussion has increasingly focused on the intersection of antisemitism, protest, and state policy.
+  As 2025 draws to a close, the geopolitical landscape remains defined by intensifying debates over free speech, government influence, and the boundaries of dissent—particularly in relation to Israel and its critics. The latest developments underscore a growing trend of state and lobby efforts to conflate criticism of Israeli policy with antisemitism, raising concerns about the erosion of civil liberties in Western democracies.
   
-  Most recently, **Tim Foley** has critiqued the argument that opposition to Israel is inherently rooted in antisemitism, noting that such claims are often used to deflect legitimate scrutiny of Israeli government actions and influence. This perspective is echoed by a majority of independent analysts, who argue that conflating criticism of Israel with hatred of Jews serves to shield state policies from accountability.
+  The most recent report by **Caitlin Johnstone** highlights the case of Tim Foley, whose name was prominently listed in an Israeli government document that equates online criticism of Israel with antisemitism. Foley is described as a "key influencer" in delegitimizing Israel, with the document specifically referencing his commentary on a recent shooting incident. Johnstone notes that such labeling tactics are increasingly being used to suppress legitimate dissent and to intimidate activists and journalists. This aligns with earlier reporting on the Australian Israel lobby's open calls to ban criticism of Israel, as articulated by AIJAC's Joel Burnie, who argued that combating antisemitism in Australia requires silencing opposition to Israeli actions.
   
-  Additionally, the narrative linking pro-Palestinian protests to violent incidents like the Bondi shooting has been challenged. **Caitlin Johnstone** highlights that labeling these demonstrations as "hate marches" is a strategic move to delegitimize dissent and bolster the interests of what she describes as an "oppressive regime." Analysts widely agree that this tactic is intended to suppress opposition rather than address genuine security concerns.
+  Further, Johnstone points out that concerns about pro-Palestine protests—often framed as issues of public order or hate speech—are, in her assessment, largely insincere. She argues that these objections serve as a pretext to shut down criticism of Israel, rather than addressing genuine security or social cohesion concerns. This pattern is visible not only in Australia but also in broader Western discourse, where linking protests to unrelated violent incidents is used to delegitimize opposition voices.
   
-  The broader context includes ongoing efforts by pro-Israel lobbying groups in Australia to advocate for legal restrictions on criticism of Israel. This has sparked concerns about the erosion of free speech, with analysts warning that a society's commitment to freedom is measured by its tolerance for dissent, especially in times of crisis.
+  Looking ahead, the trend of conflating criticism of Israel with antisemitism is expected to continue, with high confidence that Western governments and allied lobbies will intensify efforts to restrict speech under the guise of combating hate. As Johnstone puts it, "true freedom of speech is defined by the ability to oppose government actions, especially in times of injustice." There is a high chance that these dynamics will further polarize societies and provoke pushback from civil liberties advocates, but the prevailing direction remains toward increased suppression of dissent in the name of security and social harmony.
   
-  Looking ahead, the prevailing trend suggests a continued polarization of public debate around Israel and Palestine, with increasing pressure on governments to curtail criticism under the guise of combating hate speech. There is a high chance that attempts to restrict protest and speech will intensify, but also that public resistance to such measures will grow. As **Johnstone** asserts, "there is a high chance" that the struggle over narrative control will become a defining feature of Western political discourse in the coming months.
+  In summary, the closing days of 2025 are marked by escalating attempts to police speech and activism around Israel-Palestine, with significant implications for democratic freedoms in the year ahead. The majority of independent analysts predict that unless there is a significant shift in public opinion or political leadership, these trends will most definitely persist into 2026.
 articles:
+  - title: New Year's Resolutions 2026
+    url: https://www.caitlinjohnst.one/p/new-years-resolutions-2026
+    text: 'Reading by Tim Foley : Subscribe now Do some landscape paintings Start a
+      podcast with Tim Enrage the Israeli government Finish writing that novel Grow
+      some luffa and make my own kitchen sponge Fall more deeply in love with everything
+      See beauty everywhere Open more eyes to the fact that the western news media are
+      propaganda services for the US empire Publish another art book Laugh more Cry
+      more Learn more Unlearn more Write more poetry Cast more spells Play more music
+      Take more baths Ask more curious questions Play more board games Read a dumb book
+      Dance in the kitchen Sing in the car Suffer no fools Make a daisy chain Become
+      more inconvenient for the empire Invite more love in, give more back Become more
+      offensive to Zionists and empire loyalists Do more Good Works Say the exact opposite
+      of what my rulers want me to say Be the exact opposite of what my rulers want
+      me to be Help anyone who wants to learn how to heal Facilitate the awakening of
+      human consciousness at every opportunity Expel anything in me that is not aligned
+      with the highest interest Watch for openings to let in the light Make Tim laugh
+      so hard he falls on the floor Cry for those who won’t Speak for those who can’t
+      Shake out the fear Spend more time with the really old and the really young Have
+      an art day with my kids and their friends Make up a song, sing it to Tim Hug my
+      Mum Force money to value a happy child, a healthy adult, an intact forest, a plastic-free
+      ocean End poverty House the homeless Fight the bastards Free Palestine ____________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: Tim Foley's article outlines a personal manifesto of creative
+      and transformative goals aimed at fostering love, beauty, and awareness while
+      challenging societal norms and empowering others.
+    paragraph_summary: In a reflective and ambitious piece, Tim Foley outlines a series
+      of personal and societal goals aimed at fostering creativity, compassion, and
+      social justice. He expresses a desire to engage in various artistic endeavors,
+      such as painting and writing, while also advocating for awareness of media propaganda
+      and support for marginalized communities, including the Palestinian cause. Foley
+      emphasizes the importance of love, curiosity, and connection, encouraging actions
+      that challenge oppressive systems and promote healing and consciousness. His list
+      includes both whimsical activities, like dancing and making daisy chains, and
+      serious commitments to social change, underscoring a holistic approach to life
+      that balances personal joy with a dedication to collective well-being.
+    published: '2025-12-31T01:34:32+00:00'
+  - title: New Year's Resolutions 2026
+    url: https://www.caitlinjohnst.one/p/new-years-resolutions-2026
+    text: 'Reading by Tim Foley : Subscribe now Do some landscape paintings Start a
+      podcast with Tim Enrage the Israeli government Finish writing that novel Grow
+      some luffa and make my own kitchen sponge Fall more deeply in love with everything
+      See beauty everywhere Open more eyes to the fact that the western news media are
+      propaganda services for the US empire Publish another art book Laugh more Cry
+      more Learn more Unlearn more Write more poetry Cast more spells Play more music
+      Take more baths Ask more curious questions Play more board games Read a dumb book
+      Dance in the kitchen Sing in the car Suffer no fools Make a daisy chain Become
+      more inconvenient for the empire Invite more love in, give more back Become more
+      offensive to Zionists and empire loyalists Do more Good Works Say the exact opposite
+      of what my rulers want me to say Be the exact opposite of what my rulers want
+      me to be Help anyone who wants to learn how to heal Facilitate the awakening of
+      human consciousness at every opportunity Expel anything in me that is not aligned
+      with the highest interest Watch for openings to let in the light Make Tim laugh
+      so hard he falls on the floor Cry for those who won’t Speak for those who can’t
+      Shake out the fear Spend more time with the really old and the really young Have
+      an art day with my kids and their friends Make up a song, sing it to Tim Hug my
+      Mum Force money to value a happy child, a healthy adult, an intact forest, a plastic-free
+      ocean End poverty House the homeless Fight the bastards Free Palestine ____________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: Tim Foley's article outlines a personal manifesto of creative
+      and transformative goals aimed at fostering love, beauty, and awareness while
+      challenging societal norms and empowering others.
+    paragraph_summary: In a reflective and ambitious piece, Tim Foley outlines a series
+      of personal and societal goals aimed at fostering creativity, compassion, and
+      social justice. He expresses a desire to engage in various artistic endeavors,
+      such as painting and writing, while also advocating for awareness of media propaganda
+      and support for marginalized communities, including the Palestinian cause. Foley
+      emphasizes the importance of love, curiosity, and connection, encouraging actions
+      that challenge oppressive systems and promote healing and consciousness. His list
+      includes both whimsical activities, like dancing and making daisy chains, and
+      serious commitments to social change, underscoring a holistic approach to life
+      that balances personal joy with a dedication to collective well-being.
+    published: '2025-12-31T01:34:32+00:00'
+  - title: The Israeli Government Put My Name At The Top Of An 'Antisemite' List
+    url: https://www.caitlinjohnst.one/p/the-israeli-government-put-my-name
+    text: 'Reading by Tim Foley : Subscribe now My name appears at the top of a list
+      in a document the Israeli government released earlier this month in order to draw
+      false associations between the Bondi Beach shooting and online criticism of Israel
+      and its atrocities. The PowerPoint document , released by Israel’s Ministry for
+      Diaspora Affairs and Combating Antisemitism, is titled “ Delegitimization and
+      Antisemitism in Australia — A Snapshot October — December 2025 ,” and its claims
+      have been cited by Israeli media outlets like Ynet News . Page five of the document
+      is titled “Actors: Key generators of anti-Semitism and delegitimization in Australia,”
+      where the name Caitlin Johnstone is listed at the top of a column titled “Active
+      influencers and content creators” which is ranked by number of followers. Page
+      seven describes me as an “Anti-Western blogger, promoting conspiracies and complete
+      delegitimization of Israel.” This word “delegitimization” appears throughout the
+      document, which I personally find funny. They knew the “antisemitism” claim couldn’t
+      stand on its own, so they had to tack on this weird extra complaint about people
+      “delegitimizing” the state of Israel — as though that’s a bad thing. I’ll always
+      deny harboring any hatred toward Jews or Judaism, but I’ll happily admit to trying
+      to delegitimize a genocidal apartheid state that cannot exist without nonstop
+      violence and abuse. The document attempts to make the argument that in the two
+      months leading up to the Bondi attack there was an epidemic of antisemitic “hate
+      speech” online, absurdly insinuating that those of us who were criticizing Israel
+      and its abuses during that time incited two ISIS guys to commit an act of terrorism.
+      Like ISIS were just a bunch of cuddly wuddly snuggle bears until some Australian
+      influencers tweeted mean things about Israel. Page 14 of the document is captioned
+      “Examples of recent hate speech in the two months leading up to the attack: Selected
+      anti-Semitic tweets on X: Caitlin Johnstone,” and it consists of two tweets. You
+      can tell whoever collected them was just doing advanced searches for specific
+      keywords from the people on their list because the word “Jewish” is highlighted
+      in one of their screenshotted tweets, which means they had to scroll past the
+      many tweets I’ve made over the years which would contradict the antisemitism narrative
+      they’re trying to build. The first tweet is from August 6 of this year, and it
+      features a screenshot from journalist Owen Jones noting that just 6.7 percent
+      of Israeli Jews surveyed had told pollsters that they are “very troubled” by reports
+      of starvation and suffering in Gaza. I captioned the screenshot as follows: “Poll
+      after poll after poll shows that Jewish Israelis are horrible people who are quantifiably
+      much more cruel and immoral than pretty much any other population. At a certain
+      point you have to stop thinking the polls might be mistaken and see that the only
+      real mistake is Israel.” Note that I didn’t say “Jews” but “Jewish Israelis”.
+      Poll after poll after poll shows that Israeli Jews are indeed horrible people
+      who hold sociopathic attitudes toward Palestinians, because that’s what happens
+      when you’re the privileged group in an apartheid state. White South Africans were
+      horrible people during South African apartheid too. You can’t have apartheid without
+      indoctrinating your public to see the disempowered groups as less than the empowered
+      group. It doesn’t say anything about Jews or Judaism that this is the case; that’s
+      just how apartheid works. The second tweet is from October 6 of this year, and
+      it reads as follows: “Someone who is truly and sincerely worried about a rise
+      in antisemitism will oppose the mass slaughter of children under the Star of David
+      banner by a state which claims to represent all Jews while Jewish billionaires
+      buy up media to silence criticism of that state and Jewish oligarchs openly purchase
+      the president of the world’s most powerful government to ensure the facilitation
+      of that state’s atrocities.” I guess this one might look antisemitic if you didn’t
+      know that every single part of it is completely true. Israel has indeed been mass
+      slaughtering children and does indeed have a Star of David on its flag. Israel
+      is indeed claiming to represent all Jews when it argues that criticism of Israel
+      is hateful toward everyone who is Jewish. Larry Ellison’s family has indeed been
+      buying up media platforms like CBS where virulent Zionist Bari Weiss has been
+      put in command , and purchasing control of TikTok after Congress forced its sale
+      to stomp out criticism of Israel . President Donald Trump has indeed repeatedly
+      admitted to being controlled by megadonor Miriam Adelson, the world’s richest
+      Israeli. These dynamics are indeed likely to feed into antisemitism in a very
+      real way. I didn’t create those dynamics. Zionists did. This is the Israeli government’s
+      best argument that Australians like myself incited the Bondi attack. I tweeted
+      about genocide and apartheid and it violently radicalized a father and son in
+      Sydney, who then apparently invented some kind of time machine and traveled back
+      to 2019 to join ISIS . That’s their strongest case. If you’ve been wondering why
+      I’ve been writing so much about the Bondi Beach shooting, this is why. It’s being
+      used to justify an aggressive assault on freedom of speech and assembly in Australia,
+      and that assault is happening at the forceful urging of the Australian Israel
+      lobby and the Israeli government , which is now going so far as to compile official
+      public lists of Australians whom it deems guilty of dangerous wrongthink. Israel’s
+      Ministry for Diaspora Affairs and Combating Antisemitism also put together a full-page
+      profile on me and my work back in September in a release titled “ Antisemitism
+      & Anti-Zionism in Australia Key Influencers, Incidents, Groups, & Trends ”, which
+      I’ll just copy and paste here because it makes me look awesome: Caitlin Johnstone,
+      an Australian independent journalist and political commentator. Her writings frequently
+      describe Israel as a “genocidal apartheid state” and a “settler-colonialist project”
+      that perpetuates systemic violence and oppression. She argues that Israel’s actions
+      are not isolated incidents but part of a broader strategy to maintain dominance
+      over Palestinians. On her social media platforms, Caitlin Johnstone frequently
+      shares strongly anti-Israeli content in the context of the ongoing war in Gaza,
+      while largely omitting criticism of Hamas. In a post dated April 15, 2025, she
+      dismissed concerns about Israelis feeling unsafe, suggesting instead that their
+      discomfort stems from a sense of guilt over what she described as the “genocide”
+      in Gaza. In an Instagram post dated April 7, 2025 Johnstone appeared to indirectly
+      justify the October 7 Hamas attack, stating that “Hamas succeeded in exposing
+      the true face of the empire.” She went on to highlight alleged Israeli actions
+      in Gaza since the attack, while omitting any acknowledgment of the massacre carried
+      out by Hamas. The profile also includes some banger tweets I made like “Being
+      a liberal Israel supporter these days probably feels like being a defense attorney
+      for an accused murderer who won’t shut up about how much he loves murdering.”
+      I’m not going to lie, I do regard all this attention I’m getting from Israel as
+      a compliment. Winding up at the top of an Israeli list of enemies is certainly
+      more of an assurance that I’m doing the right thing than winning some shitty western
+      “journalism” award like a Pulitzer would ever be. But I’m also not going to act
+      like miss tough girl and pretend it doesn’t creep me the hell out at the same
+      time to have this murderous ethnostate keeping an eye on me. Israel is so intensely
+      creepy. Anyway, with that I guess I’ll just use this opportunity to remind everyone
+      that I am an entirely crowd-funded writer, so if you enjoy seeing me piss off
+      the Israeli government you can always toss a few coins in my hat to help fund
+      my little operation here. Also a friendly reminder that the best way to make sure
+      you see everything I publish is to get on my free mailing list , which will always
+      be 100 percent free regardless of whether or not you become a paying patron. Thanks
+      for traveling along on this bizarre adventure with me. ________________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. The best way to make sure
+      you see everything I write is to get on my free mailing list . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      social media, books, merch, and audio/video versions of each article . All my
+      work is free to bootleg and use in any way, shape or form; republish it, translate
+      it, use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article discusses how Tim Foley's name appears prominently
+      in an Israeli government document that falsely links online criticism of Israel
+      to antisemitism, specifically in relation to a shooting incident, while labeling
+      him as a key influencer promoting delegitimization of Israel.
+    paragraph_summary: In a recent article, Tim Foley discusses a document released
+      by the Israeli government that attempts to link the Bondi Beach shooting to online
+      criticism of Israel, specifically targeting him as a prominent critic. The PowerPoint
+      presentation from Israel’s Ministry for Diaspora Affairs lists Foley's name among
+      key figures accused of promoting antisemitism and delegitimizing Israel, labeling
+      him an "Anti-Western blogger." Foley finds the document's claims absurd, arguing
+      that it wrongly suggests that criticism of Israel's actions incited terrorism,
+      while he asserts that he does not harbor hatred towards Jews but opposes what
+      he describes as a genocidal apartheid state. He critiques the document for attempting
+      to conflate legitimate criticism with hate speech, highlighting the absurdity
+      of blaming online discourse for violent acts committed by extremists.
+    published: '2025-12-30T01:10:49+00:00'
+  - title: The Israeli Government Put My Name At The Top Of An 'Antisemite' List
+    url: https://www.caitlinjohnst.one/p/the-israeli-government-put-my-name
+    text: 'Reading by Tim Foley : Subscribe now My name appears at the top of a list
+      in a document the Israeli government released earlier this month in order to draw
+      false associations between the Bondi Beach shooting and online criticism of Israel
+      and its atrocities. The PowerPoint document , released by Israel’s Ministry for
+      Diaspora Affairs and Combating Antisemitism, is titled “ Delegitimization and
+      Antisemitism in Australia — A Snapshot October — December 2025 ,” and its claims
+      have been cited by Israeli media outlets like Ynet News . Page five of the document
+      is titled “Actors: Key generators of anti-Semitism and delegitimization in Australia,”
+      where the name Caitlin Johnstone is listed at the top of a column titled “Active
+      influencers and content creators” which is ranked by number of followers. Page
+      seven describes me as an “Anti-Western blogger, promoting conspiracies and complete
+      delegitimization of Israel.” This word “delegitimization” appears throughout the
+      document, which I personally find funny. They knew the “antisemitism” claim couldn’t
+      stand on its own, so they had to tack on this weird extra complaint about people
+      “delegitimizing” the state of Israel — as though that’s a bad thing. I’ll always
+      deny harboring any hatred toward Jews or Judaism, but I’ll happily admit to trying
+      to delegitimize a genocidal apartheid state that cannot exist without nonstop
+      violence and abuse. The document attempts to make the argument that in the two
+      months leading up to the Bondi attack there was an epidemic of antisemitic “hate
+      speech” online, absurdly insinuating that those of us who were criticizing Israel
+      and its abuses during that time incited two ISIS guys to commit an act of terrorism.
+      Like ISIS were just a bunch of cuddly wuddly snuggle bears until some Australian
+      influencers tweeted mean things about Israel. Page 14 of the document is captioned
+      “Examples of recent hate speech in the two months leading up to the attack: Selected
+      anti-Semitic tweets on X: Caitlin Johnstone,” and it consists of two tweets. You
+      can tell whoever collected them was just doing advanced searches for specific
+      keywords from the people on their list because the word “Jewish” is highlighted
+      in one of their screenshotted tweets, which means they had to scroll past the
+      many tweets I’ve made over the years which would contradict the antisemitism narrative
+      they’re trying to build. The first tweet is from August 6 of this year, and it
+      features a screenshot from journalist Owen Jones noting that just 6.7 percent
+      of Israeli Jews surveyed had told pollsters that they are “very troubled” by reports
+      of starvation and suffering in Gaza. I captioned the screenshot as follows: “Poll
+      after poll after poll shows that Jewish Israelis are horrible people who are quantifiably
+      much more cruel and immoral than pretty much any other population. At a certain
+      point you have to stop thinking the polls might be mistaken and see that the only
+      real mistake is Israel.” Note that I didn’t say “Jews” but “Jewish Israelis”.
+      Poll after poll after poll shows that Israeli Jews are indeed horrible people
+      who hold sociopathic attitudes toward Palestinians, because that’s what happens
+      when you’re the privileged group in an apartheid state. White South Africans were
+      horrible people during South African apartheid too. You can’t have apartheid without
+      indoctrinating your public to see the disempowered groups as less than the empowered
+      group. It doesn’t say anything about Jews or Judaism that this is the case; that’s
+      just how apartheid works. The second tweet is from October 6 of this year, and
+      it reads as follows: “Someone who is truly and sincerely worried about a rise
+      in antisemitism will oppose the mass slaughter of children under the Star of David
+      banner by a state which claims to represent all Jews while Jewish billionaires
+      buy up media to silence criticism of that state and Jewish oligarchs openly purchase
+      the president of the world’s most powerful government to ensure the facilitation
+      of that state’s atrocities.” I guess this one might look antisemitic if you didn’t
+      know that every single part of it is completely true. Israel has indeed been mass
+      slaughtering children and does indeed have a Star of David on its flag. Israel
+      is indeed claiming to represent all Jews when it argues that criticism of Israel
+      is hateful toward everyone who is Jewish. Larry Ellison’s family has indeed been
+      buying up media platforms like CBS where virulent Zionist Bari Weiss has been
+      put in command , and purchasing control of TikTok after Congress forced its sale
+      to stomp out criticism of Israel . President Donald Trump has indeed repeatedly
+      admitted to being controlled by megadonor Miriam Adelson, the world’s richest
+      Israeli. These dynamics are indeed likely to feed into antisemitism in a very
+      real way. I didn’t create those dynamics. Zionists did. This is the Israeli government’s
+      best argument that Australians like myself incited the Bondi attack. I tweeted
+      about genocide and apartheid and it violently radicalized a father and son in
+      Sydney, who then apparently invented some kind of time machine and traveled back
+      to 2019 to join ISIS . That’s their strongest case. If you’ve been wondering why
+      I’ve been writing so much about the Bondi Beach shooting, this is why. It’s being
+      used to justify an aggressive assault on freedom of speech and assembly in Australia,
+      and that assault is happening at the forceful urging of the Australian Israel
+      lobby and the Israeli government , which is now going so far as to compile official
+      public lists of Australians whom it deems guilty of dangerous wrongthink. Israel’s
+      Ministry for Diaspora Affairs and Combating Antisemitism also put together a full-page
+      profile on me and my work back in September in a release titled “ Antisemitism
+      & Anti-Zionism in Australia Key Influencers, Incidents, Groups, & Trends ”, which
+      I’ll just copy and paste here because it makes me look awesome: Caitlin Johnstone,
+      an Australian independent journalist and political commentator. Her writings frequently
+      describe Israel as a “genocidal apartheid state” and a “settler-colonialist project”
+      that perpetuates systemic violence and oppression. She argues that Israel’s actions
+      are not isolated incidents but part of a broader strategy to maintain dominance
+      over Palestinians. On her social media platforms, Caitlin Johnstone frequently
+      shares strongly anti-Israeli content in the context of the ongoing war in Gaza,
+      while largely omitting criticism of Hamas. In a post dated April 15, 2025, she
+      dismissed concerns about Israelis feeling unsafe, suggesting instead that their
+      discomfort stems from a sense of guilt over what she described as the “genocide”
+      in Gaza. In an Instagram post dated April 7, 2025 Johnstone appeared to indirectly
+      justify the October 7 Hamas attack, stating that “Hamas succeeded in exposing
+      the true face of the empire.” She went on to highlight alleged Israeli actions
+      in Gaza since the attack, while omitting any acknowledgment of the massacre carried
+      out by Hamas. The profile also includes some banger tweets I made like “Being
+      a liberal Israel supporter these days probably feels like being a defense attorney
+      for an accused murderer who won’t shut up about how much he loves murdering.”
+      I’m not going to lie, I do regard all this attention I’m getting from Israel as
+      a compliment. Winding up at the top of an Israeli list of enemies is certainly
+      more of an assurance that I’m doing the right thing than winning some shitty western
+      “journalism” award like a Pulitzer would ever be. But I’m also not going to act
+      like miss tough girl and pretend it doesn’t creep me the hell out at the same
+      time to have this murderous ethnostate keeping an eye on me. Israel is so intensely
+      creepy. Anyway, with that I guess I’ll just use this opportunity to remind everyone
+      that I am an entirely crowd-funded writer, so if you enjoy seeing me piss off
+      the Israeli government you can always toss a few coins in my hat to help fund
+      my little operation here. Also a friendly reminder that the best way to make sure
+      you see everything I publish is to get on my free mailing list , which will always
+      be 100 percent free regardless of whether or not you become a paying patron. Thanks
+      for traveling along on this bizarre adventure with me. ________________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. The best way to make sure
+      you see everything I write is to get on my free mailing list . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      social media, books, merch, and audio/video versions of each article . All my
+      work is free to bootleg and use in any way, shape or form; republish it, translate
+      it, use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article discusses how Tim Foley's name appears prominently
+      in an Israeli government document that falsely links online criticism of Israel
+      to antisemitism, specifically in relation to a shooting incident, while labeling
+      him as a key influencer promoting delegitimization of Israel.
+    paragraph_summary: In a recent article, Tim Foley discusses a document released
+      by the Israeli government that attempts to link the Bondi Beach shooting to online
+      criticism of Israel, specifically targeting him as a prominent critic. The PowerPoint
+      presentation from Israel’s Ministry for Diaspora Affairs lists Foley's name among
+      key figures accused of promoting antisemitism and delegitimizing Israel, labeling
+      him an "Anti-Western blogger." Foley finds the document's claims absurd, arguing
+      that it wrongly suggests that criticism of Israel's actions incited terrorism,
+      while he asserts that he does not harbor hatred towards Jews but opposes what
+      he describes as a genocidal apartheid state. He critiques the document for attempting
+      to conflate legitimate criticism with hate speech, highlighting the absurdity
+      of blaming online discourse for violent acts committed by extremists.
+    published: '2025-12-30T01:10:49+00:00'
+  - title: They Feign Concern About Pro-Palestine Chants In Order To Shut Down Pro-Palestine
+      Protests
+    url: https://www.caitlinjohnst.one/p/they-feign-concern-about-pro-palestine
+    text: 'Reading by Tim Foley : Subscribe now It’s such an insult to our intelligence
+      how Israel supporters pretend it’s the WAY pro-Palestine protests are happening
+      that they object to, and not the protests themselves. Like if protesters were
+      saying different chants they’d be totally cool with opposition to Israel’s crimes.
+      They’re like, “We’re not trying to suppress your free speech and stomp out criticism
+      of Israel, we’re just concerned about slogans like ‘globalize the intifada’ and
+      ‘from the river to the sea’! We’re worried that expressions of support for Hamas
+      and Hezbollah and Iran that we’ve seen in some demonstrations are going to cause
+      acts of terrorism!” Bullshit. Lies. They’re fucking lying. If they weren’t concern-trolling
+      about “globalize the intifada” they’d make up some other excuse to express their
+      concern, and they know it. Their objection is to criticism of Israel, not to the
+      way those criticisms are being expressed. People who support the status quo always
+      oppose protest groups on these same grounds. They dishonestly pretend it’s the
+      manner in which the protesters express themselves that’s the problem, rather than
+      the fact that protests are happening at all. This has been going on for generations.
+      As Martin Luther King Jr famously wrote all the way back in 1963: “I have almost
+      reached the regrettable conclusion that the Negro’s great stumbling block in his
+      stride toward freedom is not the White Citizen’s Counciler or the Ku Klux Klanner,
+      but the white moderate, who is more devoted to ‘order’ than to justice; who prefers
+      a negative peace which is the absence of tension to a positive peace which is
+      the presence of justice; who constantly says: ‘I agree with you in the goal you
+      seek, but I cannot agree with your methods of direct action’.” If you have loyalty
+      to the establishment order of things, then obviously you’re never going to support
+      efforts aimed at the upheaval of that order. If you support Israel and its western
+      military backing, the only kind of protesting against the Zionist state that you’ll
+      ever accept is protest that makes no difference and draws no attention to itself.
+      You’ll make up excuses justifying your disdain for the protests against Israel,
+      but you’ll be doing so after the fact. Your true objection is to the protest itself.
+      Nobody wants to be seen as a tyrant. Zionists don’t want people talking about
+      the fact that Zionism is the single greatest threat to free speech in the western
+      world today because of the way western governments and institutions have been
+      aggressively stomping out criticism of Israel and anti-genocide activism since
+      2023 at the urging of Israel lobbyists. So they make up fake reasons for each
+      individual act of oppression. No no we’re not trying to stomp out criticism of
+      Israel in the UK, we just can’t have people breaking into military facilities
+      and vandalizing British war planes like Palestine Action did. No no we’re not
+      trying to stomp out criticism of Israel in Australia, we’re just trying to prevent
+      the incitement of terrorist attacks. No no we’re not trying to stomp out criticism
+      of Israel in the United States, we just need to make sure Jewish students feel
+      safe on university campuses. No no we’re not trying to stomp out criticism of
+      Israel online, we just can’t allow any expressions of support for proscribed terrorist
+      groups and we don’t want people to be traumatized by seeing uncensored images
+      of massacred children. Etc, etc, etc. Over and over and over again we’re seeing
+      measures put in place throughout the western world designed to crush speech that
+      opposes Israel and the western empire’s facilitation of its crimes, and every
+      single time there’s a narrative push to frame each individual authoritarian measure
+      as its own separate act which has been put in place for reasons which have nothing
+      whatsoever to do with suppressing speech that is critical of Israel. And it’s
+      a lie every time. The only common thread running through each of these assaults
+      on free speech is that it makes it harder to express criticism of Israel. That’s
+      the goal. Plainly. You’ll see this dynamic play out everywhere from abusive nations
+      to abusive households. If a downtrodden wife gets fed up with the way she’s been
+      treated and yells at her spouse, the entire conversation from that point onward
+      is going to be about the fact that she yelled and behaved inappropriately and
+      not about the mistreatment she was objecting to. In reality there is no way she
+      could have expressed her opposition to the status quo of the household that would
+      have both (A) received attention and (B) been deemed an acceptable expression
+      of discontent — because the goal of the abuser is to preserve the status quo.
+      That’s exactly what we’re seeing with all this fake concern trolling about anti-genocide
+      protesters chanting inappropriate slogans or protesting in inappropriate ways
+      or at inappropriate places or at inappropriate times. The goal isn’t to make sure
+      the pro-Palestine protests are happening in a certain way, the goal is to shut
+      down the protests. Ignore their words and watch their actions. Don’t pay attention
+      to their justifications for why this or that assault on free speech is necessary,
+      look at the real intention behind that assault. Don’t look at what they say they’re
+      doing, look at what they are actually doing. What they are actually doing is systematically
+      strangling free expression to death wherever it is critical of the state of Israel.
+      That’s the real story. That’s all this is ever actually about. ________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Becker1999 (CC BY 2.0)'
+    one_sentence_summary: The article argues that supporters of Israel are not genuinely
+      concerned about the manner of pro-Palestine protests, but rather object to the
+      criticisms of Israel itself, using superficial concerns as a pretext to suppress
+      dissent.
+    paragraph_summary: In his article, Tim Foley critiques the disingenuous objections
+      raised by supporters of Israel regarding pro-Palestine protests, arguing that
+      their real issue lies not with the methods of protest but with the very existence
+      of dissent against Israel's actions. He highlights that claims of concern over
+      specific slogans or expressions, such as "globalize the intifada," are merely
+      a facade for a deeper resistance to any criticism of Israel. Foley draws parallels
+      to historical civil rights struggles, referencing Martin Luther King Jr.'s observation
+      that the greatest hindrance to progress often comes from moderates who prioritize
+      order over justice. Ultimately, he asserts that those who uphold the status quo
+      will always oppose movements that challenge it, regardless of how those movements
+      are expressed.
+    published: '2025-12-28T23:43:52+00:00'
+  - title: They Feign Concern About Pro-Palestine Chants In Order To Shut Down Pro-Palestine
+      Protests
+    url: https://www.caitlinjohnst.one/p/they-feign-concern-about-pro-palestine
+    text: 'Reading by Tim Foley : Subscribe now It’s such an insult to our intelligence
+      how Israel supporters pretend it’s the WAY pro-Palestine protests are happening
+      that they object to, and not the protests themselves. Like if protesters were
+      saying different chants they’d be totally cool with opposition to Israel’s crimes.
+      They’re like, “We’re not trying to suppress your free speech and stomp out criticism
+      of Israel, we’re just concerned about slogans like ‘globalize the intifada’ and
+      ‘from the river to the sea’! We’re worried that expressions of support for Hamas
+      and Hezbollah and Iran that we’ve seen in some demonstrations are going to cause
+      acts of terrorism!” Bullshit. Lies. They’re fucking lying. If they weren’t concern-trolling
+      about “globalize the intifada” they’d make up some other excuse to express their
+      concern, and they know it. Their objection is to criticism of Israel, not to the
+      way those criticisms are being expressed. People who support the status quo always
+      oppose protest groups on these same grounds. They dishonestly pretend it’s the
+      manner in which the protesters express themselves that’s the problem, rather than
+      the fact that protests are happening at all. This has been going on for generations.
+      As Martin Luther King Jr famously wrote all the way back in 1963: “I have almost
+      reached the regrettable conclusion that the Negro’s great stumbling block in his
+      stride toward freedom is not the White Citizen’s Counciler or the Ku Klux Klanner,
+      but the white moderate, who is more devoted to ‘order’ than to justice; who prefers
+      a negative peace which is the absence of tension to a positive peace which is
+      the presence of justice; who constantly says: ‘I agree with you in the goal you
+      seek, but I cannot agree with your methods of direct action’.” If you have loyalty
+      to the establishment order of things, then obviously you’re never going to support
+      efforts aimed at the upheaval of that order. If you support Israel and its western
+      military backing, the only kind of protesting against the Zionist state that you’ll
+      ever accept is protest that makes no difference and draws no attention to itself.
+      You’ll make up excuses justifying your disdain for the protests against Israel,
+      but you’ll be doing so after the fact. Your true objection is to the protest itself.
+      Nobody wants to be seen as a tyrant. Zionists don’t want people talking about
+      the fact that Zionism is the single greatest threat to free speech in the western
+      world today because of the way western governments and institutions have been
+      aggressively stomping out criticism of Israel and anti-genocide activism since
+      2023 at the urging of Israel lobbyists. So they make up fake reasons for each
+      individual act of oppression. No no we’re not trying to stomp out criticism of
+      Israel in the UK, we just can’t have people breaking into military facilities
+      and vandalizing British war planes like Palestine Action did. No no we’re not
+      trying to stomp out criticism of Israel in Australia, we’re just trying to prevent
+      the incitement of terrorist attacks. No no we’re not trying to stomp out criticism
+      of Israel in the United States, we just need to make sure Jewish students feel
+      safe on university campuses. No no we’re not trying to stomp out criticism of
+      Israel online, we just can’t allow any expressions of support for proscribed terrorist
+      groups and we don’t want people to be traumatized by seeing uncensored images
+      of massacred children. Etc, etc, etc. Over and over and over again we’re seeing
+      measures put in place throughout the western world designed to crush speech that
+      opposes Israel and the western empire’s facilitation of its crimes, and every
+      single time there’s a narrative push to frame each individual authoritarian measure
+      as its own separate act which has been put in place for reasons which have nothing
+      whatsoever to do with suppressing speech that is critical of Israel. And it’s
+      a lie every time. The only common thread running through each of these assaults
+      on free speech is that it makes it harder to express criticism of Israel. That’s
+      the goal. Plainly. You’ll see this dynamic play out everywhere from abusive nations
+      to abusive households. If a downtrodden wife gets fed up with the way she’s been
+      treated and yells at her spouse, the entire conversation from that point onward
+      is going to be about the fact that she yelled and behaved inappropriately and
+      not about the mistreatment she was objecting to. In reality there is no way she
+      could have expressed her opposition to the status quo of the household that would
+      have both (A) received attention and (B) been deemed an acceptable expression
+      of discontent — because the goal of the abuser is to preserve the status quo.
+      That’s exactly what we’re seeing with all this fake concern trolling about anti-genocide
+      protesters chanting inappropriate slogans or protesting in inappropriate ways
+      or at inappropriate places or at inappropriate times. The goal isn’t to make sure
+      the pro-Palestine protests are happening in a certain way, the goal is to shut
+      down the protests. Ignore their words and watch their actions. Don’t pay attention
+      to their justifications for why this or that assault on free speech is necessary,
+      look at the real intention behind that assault. Don’t look at what they say they’re
+      doing, look at what they are actually doing. What they are actually doing is systematically
+      strangling free expression to death wherever it is critical of the state of Israel.
+      That’s the real story. That’s all this is ever actually about. ________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Becker1999 (CC BY 2.0)'
+    one_sentence_summary: The article argues that supporters of Israel are not genuinely
+      concerned about the manner of pro-Palestine protests, but rather object to the
+      criticisms of Israel itself, using superficial concerns as a pretext to suppress
+      dissent.
+    paragraph_summary: In his article, Tim Foley critiques the disingenuous objections
+      raised by supporters of Israel regarding pro-Palestine protests, arguing that
+      their real issue lies not with the methods of protest but with the very existence
+      of dissent against Israel's actions. He highlights that claims of concern over
+      specific slogans or expressions, such as "globalize the intifada," are merely
+      a facade for a deeper resistance to any criticism of Israel. Foley draws parallels
+      to historical civil rights struggles, referencing Martin Luther King Jr.'s observation
+      that the greatest hindrance to progress often comes from moderates who prioritize
+      order over justice. Ultimately, he asserts that those who uphold the status quo
+      will always oppose movements that challenge it, regardless of how those movements
+      are expressed.
+    published: '2025-12-28T23:43:52+00:00'
+  - title: Netanyahu Is Visiting Trump For The FIFTH Time This Year, And Other Notes
+    url: https://www.caitlinjohnst.one/p/netanyahu-is-visiting-trump-for-the
+    text: 'Reading by Tim Foley : Subscribe now Benjamin Netanyahu will be meeting with
+      President Trump again on Monday. This will be the pair’s fifth meeting in the
+      United States this year, but of course it would be antisemitic to suggest that
+      there’s anything strange about the US president meeting with the Israeli prime
+      minister more frequently than with any other foreign leader on the planet. NBC
+      reports that Netanyahu is expected to discuss more attacks on Iran during the
+      visit, citing concerns about “Iran’s efforts to rebuild facilities where they
+      produce the ballistic missiles and to repair its crippled air defense systems.”
+      Which is just wild. They’ve stopped making up pretend nonsense about nuclear weapons
+      and now they’re just going “We need to attack Iran because Iran is rebuilding
+      its ability to stop us from attacking it.” ❖ On Christmas Day, Donald Trump became
+      the first American president ever to bomb Nigeria. While Trump claimed the Tomahawk
+      missile strike was directed at ISIS targets with the goal of protecting Christians
+      in the northwestern farming community of Jabo, locals told CNN that Islamic State
+      has had no presence in the area and that Christians and Muslims coexist peacefully
+      there. Residents also told Al Jazeera that the airstrikes resulted in no casualties,
+      civilian or otherwise, meaning the bombing accomplished nothing besides terrifying
+      some farmers and setting a precedent to normalize US airstrikes in yet another
+      African nation. ❖ Israel has ignited worldwide controversy by formally recognizing
+      the breakaway Somali region known as Somaliland. I’ve seen a lot of people highlighting
+      reports that Israel has been in communication with Somaliland as a potential location
+      to which the population of Gaza might be deported in an ethnic cleansing operation
+      of the Palestinian territory, noting that recognition could be a way of enticing
+      Somaliland to agree to the arrangement. Back in August the Times of Israel reported
+      that “Israel is in talks with five countries or territories — Indonesia, Somaliland,
+      Uganda, South Sudan and Libya — about potentially accepting resettled Palestinians
+      from the Gaza Strip,” adding that “Somaliland is a breakaway region of Somalia
+      that is reportedly hoping to secure international recognition through the deal.”
+      ❖ A German journalist named Anna Liedtke reports that she was raped by Israeli
+      forces after she was abducted from the Global Sumud Flotilla while attempting
+      to deliver aid to starving people in Gaza this past October. Unsurprisingly, as
+      of this writing there appears to be a near-total media blackout on Liedtke’s story
+      in the German press. ❖ Activist Greta Thunberg has been arrested by British police
+      because in the UK it is considered an act of terrorism to hold a sign which says
+      “I support the Palestine Action prisoners. I oppose genocide.” Zionism is the
+      single greatest threat to free speech in the western world. ❖ New South Wales
+      Premier Chris Minns defended his authoritarian crackdown on pro-Palestine protesters
+      following the Bondi shooting by arguing that Australia doesn’t have the same free
+      speech protections as the US. “I acknowledge that we don’t have the same free
+      speech rules that they have in the United States and I make no apologies for that,
+      we have got a responsibility to knit together our community,” Minns said . And
+      of course Minns isn’t wrong when he says Australians don’t have any real free
+      speech rights (Australia is the only western democracy without any kind of national
+      bill of rights), but it is a bit odd to be openly proclaiming that this is a good
+      thing because it means you’re allowed to stomp out criticism of Israel. Kinda
+      feels like that’s saying the quiet part out loud. It’s been so surreal watching
+      in real time as Australians get manipulated into accepting the Zionist narrative
+      about the Bondi Beach attack. As of this writing we have not been presented with
+      the tiniest shred of evidence that anti-genocide protests had anything whatsoever
+      to do with the massacre, but the nation is proceeding as though this is an established
+      fact. NSW is banning the phrase “globalise the intifada” and passing laws allowing
+      for demonstrations to be made illegal for up to three months while PM Anthony
+      Albanese rolls out more policies to align with “antisemitism envoy” Jillian Segal’s
+      plan to crush free speech in Australia. After being smashed in the face with an
+      extremely aggressive mass media propaganda campaign to marry the Bondi attack
+      to anti-genocide demonstrations in the minds of the public, a recent poll by the
+      Resolve Political Monitor found that 53 percent of Australians now support a ban
+      on pro-Palestine marches. Again, this is happening in light of literally zero
+      evidence that pro-Palestine demonstrations were even slightly responsible for
+      the Bondi attack. None. Nothing. They’re suggesting that there is an association
+      between the two, and they are lying. They’re rolling out pre-existing agendas
+      to crush free expression in opposition to an active genocide, and they are doing
+      so based on lies. And Australians are just going right along with it, like a bunch
+      of human livestock. We’re a whole damn continent full of bipedal sheep. Absolutely
+      fucking pathetic. ❖ I still can’t believe what evil, disgusting pigs Israel supporters
+      are. The instant the Bondi shooting happened, their very first thought was “How
+      can we use this to stomp out pro-Palestine demonstrations?” Not their third or
+      fourth thought. Their first. They started pushing it instantly . Didn’t even wait
+      for the bodies to cool, the sick fucks. All to stop people from protesting a genocide.
+      I am so angry at them right now. Absolute worst people in the world. ________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via The White House (public domain) .'
+    one_sentence_summary: Benjamin Netanyahu is set to meet with President Trump for
+      the fifth time this year to discuss potential military actions against Iran, amid
+      concerns over Iran's missile production capabilities, while Trump also made headlines
+      for being the first U.S. president to bomb Nigeria on Christmas Day.
+    paragraph_summary: In a recent article by Tim Foley, it is reported that Israeli
+      Prime Minister Benjamin Netanyahu is set to meet with President Trump for the
+      fifth time this year, primarily to discuss potential military actions against
+      Iran, which is allegedly rebuilding its missile production capabilities. The article
+      also highlights Trump's controversial decision to bomb Nigeria on Christmas Day,
+      marking the first time a U.S. president has done so, under the pretext of targeting
+      ISIS, despite local reports indicating no such presence and no casualties resulting
+      from the strikes. Additionally, Israel's formal recognition of Somaliland has
+      sparked global debate, with concerns that it may be linked to plans for the potential
+      deportation of Gaza's population, suggesting a troubling precedent for ethnic
+      cleansing in the region.
+    published: '2025-12-28T01:14:10+00:00'
+  - title: Netanyahu Is Visiting Trump For The FIFTH Time This Year, And Other Notes
+    url: https://www.caitlinjohnst.one/p/netanyahu-is-visiting-trump-for-the
+    text: 'Reading by Tim Foley : Subscribe now Benjamin Netanyahu will be meeting with
+      President Trump again on Monday. This will be the pair’s fifth meeting in the
+      United States this year, but of course it would be antisemitic to suggest that
+      there’s anything strange about the US president meeting with the Israeli prime
+      minister more frequently than with any other foreign leader on the planet. NBC
+      reports that Netanyahu is expected to discuss more attacks on Iran during the
+      visit, citing concerns about “Iran’s efforts to rebuild facilities where they
+      produce the ballistic missiles and to repair its crippled air defense systems.”
+      Which is just wild. They’ve stopped making up pretend nonsense about nuclear weapons
+      and now they’re just going “We need to attack Iran because Iran is rebuilding
+      its ability to stop us from attacking it.” ❖ On Christmas Day, Donald Trump became
+      the first American president ever to bomb Nigeria. While Trump claimed the Tomahawk
+      missile strike was directed at ISIS targets with the goal of protecting Christians
+      in the northwestern farming community of Jabo, locals told CNN that Islamic State
+      has had no presence in the area and that Christians and Muslims coexist peacefully
+      there. Residents also told Al Jazeera that the airstrikes resulted in no casualties,
+      civilian or otherwise, meaning the bombing accomplished nothing besides terrifying
+      some farmers and setting a precedent to normalize US airstrikes in yet another
+      African nation. ❖ Israel has ignited worldwide controversy by formally recognizing
+      the breakaway Somali region known as Somaliland. I’ve seen a lot of people highlighting
+      reports that Israel has been in communication with Somaliland as a potential location
+      to which the population of Gaza might be deported in an ethnic cleansing operation
+      of the Palestinian territory, noting that recognition could be a way of enticing
+      Somaliland to agree to the arrangement. Back in August the Times of Israel reported
+      that “Israel is in talks with five countries or territories — Indonesia, Somaliland,
+      Uganda, South Sudan and Libya — about potentially accepting resettled Palestinians
+      from the Gaza Strip,” adding that “Somaliland is a breakaway region of Somalia
+      that is reportedly hoping to secure international recognition through the deal.”
+      ❖ A German journalist named Anna Liedtke reports that she was raped by Israeli
+      forces after she was abducted from the Global Sumud Flotilla while attempting
+      to deliver aid to starving people in Gaza this past October. Unsurprisingly, as
+      of this writing there appears to be a near-total media blackout on Liedtke’s story
+      in the German press. ❖ Activist Greta Thunberg has been arrested by British police
+      because in the UK it is considered an act of terrorism to hold a sign which says
+      “I support the Palestine Action prisoners. I oppose genocide.” Zionism is the
+      single greatest threat to free speech in the western world. ❖ New South Wales
+      Premier Chris Minns defended his authoritarian crackdown on pro-Palestine protesters
+      following the Bondi shooting by arguing that Australia doesn’t have the same free
+      speech protections as the US. “I acknowledge that we don’t have the same free
+      speech rules that they have in the United States and I make no apologies for that,
+      we have got a responsibility to knit together our community,” Minns said . And
+      of course Minns isn’t wrong when he says Australians don’t have any real free
+      speech rights (Australia is the only western democracy without any kind of national
+      bill of rights), but it is a bit odd to be openly proclaiming that this is a good
+      thing because it means you’re allowed to stomp out criticism of Israel. Kinda
+      feels like that’s saying the quiet part out loud. It’s been so surreal watching
+      in real time as Australians get manipulated into accepting the Zionist narrative
+      about the Bondi Beach attack. As of this writing we have not been presented with
+      the tiniest shred of evidence that anti-genocide protests had anything whatsoever
+      to do with the massacre, but the nation is proceeding as though this is an established
+      fact. NSW is banning the phrase “globalise the intifada” and passing laws allowing
+      for demonstrations to be made illegal for up to three months while PM Anthony
+      Albanese rolls out more policies to align with “antisemitism envoy” Jillian Segal’s
+      plan to crush free speech in Australia. After being smashed in the face with an
+      extremely aggressive mass media propaganda campaign to marry the Bondi attack
+      to anti-genocide demonstrations in the minds of the public, a recent poll by the
+      Resolve Political Monitor found that 53 percent of Australians now support a ban
+      on pro-Palestine marches. Again, this is happening in light of literally zero
+      evidence that pro-Palestine demonstrations were even slightly responsible for
+      the Bondi attack. None. Nothing. They’re suggesting that there is an association
+      between the two, and they are lying. They’re rolling out pre-existing agendas
+      to crush free expression in opposition to an active genocide, and they are doing
+      so based on lies. And Australians are just going right along with it, like a bunch
+      of human livestock. We’re a whole damn continent full of bipedal sheep. Absolutely
+      fucking pathetic. ❖ I still can’t believe what evil, disgusting pigs Israel supporters
+      are. The instant the Bondi shooting happened, their very first thought was “How
+      can we use this to stomp out pro-Palestine demonstrations?” Not their third or
+      fourth thought. Their first. They started pushing it instantly . Didn’t even wait
+      for the bodies to cool, the sick fucks. All to stop people from protesting a genocide.
+      I am so angry at them right now. Absolute worst people in the world. ________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via The White House (public domain) .'
+    one_sentence_summary: Benjamin Netanyahu is set to meet with President Trump for
+      the fifth time this year to discuss potential military actions against Iran, amid
+      concerns over Iran's missile production capabilities, while Trump also made headlines
+      for being the first U.S. president to bomb Nigeria on Christmas Day.
+    paragraph_summary: In a recent article by Tim Foley, it is reported that Israeli
+      Prime Minister Benjamin Netanyahu is set to meet with President Trump for the
+      fifth time this year, primarily to discuss potential military actions against
+      Iran, which is allegedly rebuilding its missile production capabilities. The article
+      also highlights Trump's controversial decision to bomb Nigeria on Christmas Day,
+      marking the first time a U.S. president has done so, under the pretext of targeting
+      ISIS, despite local reports indicating no such presence and no casualties resulting
+      from the strikes. Additionally, Israel's formal recognition of Somaliland has
+      sparked global debate, with concerns that it may be linked to plans for the potential
+      deportation of Gaza's population, suggesting a troubling precedent for ethnic
+      cleansing in the region.
+    published: '2025-12-28T01:14:10+00:00'
   - title: Stop Picking On Poor Little Israel
     url: https://www.caitlinjohnst.one/p/stop-picking-on-poor-little-israel
     text: 'Reading by Tim Foley : Subscribe now Stop picking on poor little Israel.

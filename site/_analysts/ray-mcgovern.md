@@ -7,18 +7,474 @@ description: "27-year CIA analyst turned independent; co-founder of Veteran Inte
 websites:
   - https://consortiumnews.com
 summary: |
-  The past 24 hours have seen significant developments in the Middle East and the Global South, with independent analysts highlighting the deepening consequences of Western policy choices and the ongoing suppression of dissent.
+  As 2025 draws to a close, the global geopolitical landscape remains defined by persistent conflict, the erosion of civil liberties, and the legacy of critical independent journalism. The most recent analyses highlight three key developments: the ongoing uncertainty in Gaza, intensifying restrictions on free speech in Europe, and reflections on the decline of Western power.
   
-  A major point of concern is the Israeli cabinet’s approval of 19 new settlements in the occupied West Bank, a move that **Ray McGovern** describes as an escalation of “illegal settlement expansion.” This policy has contributed to a sharp rise in violence, with over 1,039 Palestinians killed in the past two years, including at least 225 children, according to McGovern. The expansion is widely condemned by independent observers, who argue it entrenches apartheid conditions and further undermines prospects for a negotiated peace.
+  The situation in Gaza continues to be marked by instability and displacement. According to **Shaimaa Eid**, Palestinians living near the newly established borders are left in limbo, unsure if they will ever be allowed to return home after the war. The creation of these borders underscores the enduring volatility in the region, with no clear resolution in sight. The majority of independent analysts agree that the humanitarian crisis is likely to persist, with a high chance that displaced populations will face long-term obstacles to resettlement.
   
-  On the international stage, **Aastha Uprety** warns that leading Western politicians, such as former U.S. Secretary of State Hillary Clinton, risk remaining “uninformed” if they rely solely on mainstream media narratives, particularly regarding U.S. support for Israel. Uprety’s analysis underscores a growing disconnect between official Western discourse and the realities on the ground, especially as allegations of genocide in Gaza continue to mount.
+  Meanwhile, the issue of free speech in Europe is coming under increased scrutiny. **Patrick Lawrence** reports that so-called "centrist" governments are now enforcing severe restrictions on freedom of expression, a trend that has largely gone unchallenged by American mainstream media. This tightening of controls is seen as part of a broader authoritarian drift across the continent, raising concerns about the future of democratic norms. There is a high chance, according to the consensus of independent voices, that these restrictions will deepen unless there is significant public pushback.
   
-  Meanwhile, in the Global South, **Vijay Prashad** draws attention to the persistent challenges facing countries striving for industrialization. Prashad notes that despite aspirations for economic development, these nations remain “trapped in dependency and underdevelopment” due to debt-driven austerity, corporate dominance, and ongoing geopolitical conflicts. This dynamic, he argues, perpetuates global inequality and limits the agency of the Global South in international affairs.
+  Finally, the decline of Western influence remains a central theme. Drawing parallels between the fall of the British Empire and the current trajectory of the United States, **Chris Hedges** warns that the U.S. is exhibiting classic signs of imperial decay, including overreach and internal fragmentation. The majority view among analysts is that the U.S. will most definitely continue to face challenges to its global dominance in the coming year, with a high confidence that multipolarity will further erode traditional Western power structures.
   
-  Looking ahead, the majority of independent analysts cited in these reports predict with high confidence that Israeli settlement expansion will continue, likely fueling further violence and international condemnation. There is also a strong consensus that Western governments will maintain their current policy course, despite mounting criticism and evidence of humanitarian crises. In the Global South, the prospects for industrialization remain constrained by structural factors, making significant progress unlikely in the short term unless there is a major shift in global economic governance.
-  
-  In summary, the latest developments point to deepening polarization, persistent conflict, and limited prospects for transformative change without substantial shifts in policy and media narratives.
+  In summary, the latest developments point to a world where conflict and authoritarianism are on the rise, while the influence of Western powers continues to wane. These trends are expected to persist into 2026, with few signs of immediate reversal.
 articles:
+  - title: 'Holiday Offer: Become Member, Get 4 Bob Parry Books!'
+    url: https://consortiumnews.com/2025/12/30/become-a-member-get-4-bob-parry-books/
+    text: Happy Holidays from Consortium News.  Become a member of the first U.S. independent
+      news site on the Web, founded by legendary investigative journalist Bob Parry
+      30 years ago in 1995. To show your support for Consortium News and help it… Read
+      more →
+    one_sentence_summary: Consortium News wishes readers happy holidays and encourages
+      them to become members of the independent news site founded by Bob Parry in 1995
+      to support its mission.
+    paragraph_summary: Consortium News wishes its readers happy holidays and encourages
+      them to become members of the first independent news site in the U.S., established
+      by renowned investigative journalist Bob Parry in 1995. The message highlights
+      the importance of supporting independent journalism and invites readers to contribute
+      to the organization's mission.
+    published: '2025-12-30T22:00:50+00:00'
+  - title: 'Holiday Offer: Become Member, Get 4 Bob Parry Books!'
+    url: https://consortiumnews.com/2025/12/30/become-a-member-get-4-bob-parry-books/
+    text: Happy Holidays from Consortium News.  Become a member of the first U.S. independent
+      news site on the Web, founded by legendary investigative journalist Bob Parry
+      30 years ago in 1995. To show your support for Consortium News and help it… Read
+      more →
+    one_sentence_summary: Consortium News wishes readers happy holidays and encourages
+      them to become members of the independent news site founded by Bob Parry in 1995
+      to support its mission.
+    paragraph_summary: Consortium News wishes its readers happy holidays and encourages
+      them to become members of the first independent news site in the U.S., established
+      by renowned investigative journalist Bob Parry in 1995. The message highlights
+      the importance of supporting independent journalism and invites readers to contribute
+      to the organization's mission.
+    published: '2025-12-30T22:00:50+00:00'
+  - title: 'Patrick Lawrence: Free Speech & Its Enemies'
+    url: https://consortiumnews.com/2025/12/30/patrick-lawrence-free-speech-its-enemies/
+    text: Europe is convulsing as its “centrist” authoritarians impose an unprecedented
+      regime of suppression of speech, but the mainstream media in America is silent
+      about it. By Patrick Lawrence The Floutist This is the first of two essays The
+      Floutist publishes, one glancing back… Read more →
+    one_sentence_summary: The article discusses how European "centrist" authoritarians
+      are enforcing severe restrictions on free speech, while American mainstream media
+      remains largely silent on the issue.
+    paragraph_summary: The article by Patrick Lawrence in The Floutist discusses the
+      rise of "centrist" authoritarianism in Europe, highlighting a significant crackdown
+      on free speech that has gone largely unreported by mainstream American media.
+      Lawrence argues that this suppression of expression represents an alarming trend,
+      suggesting that the implications of such authoritarian measures warrant greater
+      attention and scrutiny from journalists and the public alike. The piece serves
+      as the first of two essays exploring these themes.
+    published: '2025-12-30T19:00:11+00:00'
+  - title: 'Patrick Lawrence: Free Speech & Its Enemies'
+    url: https://consortiumnews.com/2025/12/30/patrick-lawrence-free-speech-its-enemies/
+    text: Europe is convulsing as its “centrist” authoritarians impose an unprecedented
+      regime of suppression of speech, but the mainstream media in America is silent
+      about it. By Patrick Lawrence The Floutist This is the first of two essays The
+      Floutist publishes, one glancing back… Read more →
+    one_sentence_summary: The article discusses how European "centrist" authoritarians
+      are enforcing severe restrictions on free speech, while American mainstream media
+      remains largely silent on the issue.
+    paragraph_summary: The article by Patrick Lawrence in The Floutist discusses the
+      rise of "centrist" authoritarianism in Europe, highlighting a significant crackdown
+      on free speech that has gone largely unreported by mainstream American media.
+      Lawrence argues that this suppression of expression represents an alarming trend,
+      suggesting that the implications of such authoritarian measures warrant greater
+      attention and scrutiny from journalists and the public alike. The piece serves
+      as the first of two essays exploring these themes.
+    published: '2025-12-30T19:00:11+00:00'
+  - title: 'WATCH: Pilger & Palestine'
+    url: https://consortiumnews.com/2025/12/30/watch-pilger-palestine/
+    text: To mark the second anniversary of the passing of John Pilger, CN presents
+      his 2002 documentary Palestine Is Still the Issue followed by CN’s 2021 discussion
+      with Pilger and historian Ilan Pappé. John Pilger, who was among the most important…
+      Read more →
+    one_sentence_summary: To commemorate the second anniversary of John Pilger's passing,
+      CN is showcasing his 2002 documentary "Palestine Is Still the Issue" alongside
+      a 2021 discussion featuring Pilger and historian Ilan Pappé.
+    paragraph_summary: To commemorate the second anniversary of John Pilger's passing,
+      CN is showcasing his 2002 documentary "Palestine Is Still the Issue," along with
+      a 2021 discussion featuring Pilger and historian Ilan Pappé. Pilger, recognized
+      as a significant figure in journalism, focused on critical global issues, particularly
+      the Palestinian struggle, and his work continues to resonate in contemporary discussions
+      about these topics.
+    published: '2025-12-30T14:14:56+00:00'
+  - title: 'WATCH: Pilger & Palestine'
+    url: https://consortiumnews.com/2025/12/30/watch-pilger-palestine/
+    text: To mark the second anniversary of the passing of John Pilger, CN presents
+      his 2002 documentary Palestine Is Still the Issue followed by CN’s 2021 discussion
+      with Pilger and historian Ilan Pappé. John Pilger, who was among the most important…
+      Read more →
+    one_sentence_summary: To commemorate the second anniversary of John Pilger's passing,
+      CN is showcasing his 2002 documentary "Palestine Is Still the Issue" alongside
+      a 2021 discussion featuring Pilger and historian Ilan Pappé.
+    paragraph_summary: To commemorate the second anniversary of John Pilger's passing,
+      CN is showcasing his 2002 documentary "Palestine Is Still the Issue," along with
+      a 2021 discussion featuring Pilger and historian Ilan Pappé. Pilger, recognized
+      as a significant figure in journalism, focused on critical global issues, particularly
+      the Palestinian struggle, and his work continues to resonate in contemporary discussions
+      about these topics.
+    published: '2025-12-30T14:14:56+00:00'
+  - title: 'WATCH: John Pilger — War, Peace & Propaganda'
+    url: https://consortiumnews.com/2025/12/30/watch-john-pilger-war-peace-propaganda/
+    text: John Pilger died two years ago today. Here are some of the things he was saying
+      almost a decade ago about Australia, America and Palestine at an appearance at
+      Politics in the Pub in Sydney in 2016.   Filmed by… Read more →
+    one_sentence_summary: John Pilger, who passed away two years ago, shared his views
+      on Australia, America, and Palestine during a 2016 event at Politics in the Pub
+      in Sydney.
+    paragraph_summary: John Pilger, who passed away two years ago, shared his insights
+      on critical global issues during a 2016 appearance at Politics in the Pub in Sydney.
+      He discussed topics related to Australia, America, and Palestine, highlighting
+      his perspectives on political and social injustices. His remarks from nearly a
+      decade ago continue to resonate, reflecting his commitment to exposing the realities
+      of power dynamics and advocating for marginalized voices.
+    published: '2025-12-30T13:42:41+00:00'
+  - title: 'WATCH: John Pilger — War, Peace & Propaganda'
+    url: https://consortiumnews.com/2025/12/30/watch-john-pilger-war-peace-propaganda/
+    text: John Pilger died two years ago today. Here are some of the things he was saying
+      almost a decade ago about Australia, America and Palestine at an appearance at
+      Politics in the Pub in Sydney in 2016.   Filmed by… Read more →
+    one_sentence_summary: John Pilger, who passed away two years ago, shared his views
+      on Australia, America, and Palestine during a 2016 event at Politics in the Pub
+      in Sydney.
+    paragraph_summary: John Pilger, who passed away two years ago, shared his insights
+      on critical global issues during a 2016 appearance at Politics in the Pub in Sydney.
+      He discussed topics related to Australia, America, and Palestine, highlighting
+      his perspectives on political and social injustices. His remarks from nearly a
+      decade ago continue to resonate, reflecting his commitment to exposing the realities
+      of power dynamics and advocating for marginalized voices.
+    published: '2025-12-30T13:42:41+00:00'
+  - title: 'John Pilger: Afflictor of the Powerful'
+    url: https://consortiumnews.com/2025/12/30/john-pilger-afflictor-of-the-powerful-2/
+    text: 'UPDATED: John Pilger died two years ago today on Dec. 30, 2023. Better than
+      just about anyone else, he used his prodigious talents to simply do his job as
+      a reporter, writes Joe Lauria. By Joe Lauria Special to Consortium… Read more
+      →'
+    one_sentence_summary: Joe Lauria reflects on the legacy of journalist John Pilger,
+      who passed away two years ago, highlighting his exceptional skills and dedication
+      to reporting.
+    paragraph_summary: John Pilger, who passed away two years ago on December 30, 2023,
+      was renowned for his exceptional skills as a journalist, as highlighted by Joe
+      Lauria in a tribute. Lauria emphasizes Pilger's commitment to his craft, showcasing
+      how he effectively utilized his talents to fulfill his role as a reporter, making
+      significant contributions to the field of journalism throughout his career.
+    published: '2025-12-30T07:24:54+00:00'
+  - title: 'John Pilger: Afflictor of the Powerful'
+    url: https://consortiumnews.com/2025/12/30/john-pilger-afflictor-of-the-powerful-2/
+    text: 'UPDATED: John Pilger died two years ago today on Dec. 30, 2023. Better than
+      just about anyone else, he used his prodigious talents to simply do his job as
+      a reporter, writes Joe Lauria. By Joe Lauria Special to Consortium… Read more
+      →'
+    one_sentence_summary: Joe Lauria reflects on the legacy of journalist John Pilger,
+      who passed away two years ago, highlighting his exceptional skills and dedication
+      to reporting.
+    paragraph_summary: John Pilger, who passed away two years ago on December 30, 2023,
+      was renowned for his exceptional skills as a journalist, as highlighted by Joe
+      Lauria in a tribute. Lauria emphasizes Pilger's commitment to his craft, showcasing
+      how he effectively utilized his talents to fulfill his role as a reporter, making
+      significant contributions to the field of journalism throughout his career.
+    published: '2025-12-30T07:24:54+00:00'
+  - title: 30 Reasons to Donate to Consortium News
+    url: https://consortiumnews.com/2025/12/29/30-reasons-to-donate-to-consortium-news/
+    text: As we celebrate our 30th Anniversary of continuous publication, please consider
+      making a $30 donation to help ensure that Consortium News persists. A dollar for
+      every year of publication, from 1995 to today. We thank you if you have already…
+      Read more →
+    one_sentence_summary: Consortium News is celebrating its 30th anniversary and is
+      encouraging readers to make a $30 donation to support its continued publication.
+    paragraph_summary: In celebration of its 30th Anniversary, Consortium News is encouraging
+      readers to contribute a $30 donation—equivalent to one dollar for each year of
+      its publication since 1995—to support its ongoing operations. The organization
+      expresses gratitude to those who have already contributed.
+    published: '2025-12-30T00:31:57+00:00'
+  - title: 30 Reasons to Donate to Consortium News
+    url: https://consortiumnews.com/2025/12/29/30-reasons-to-donate-to-consortium-news/
+    text: As we celebrate our 30th Anniversary of continuous publication, please consider
+      making a $30 donation to help ensure that Consortium News persists. A dollar for
+      every year of publication, from 1995 to today. We thank you if you have already…
+      Read more →
+    one_sentence_summary: Consortium News is celebrating its 30th anniversary and is
+      encouraging readers to make a $30 donation to support its continued publication.
+    paragraph_summary: In celebration of its 30th Anniversary, Consortium News is encouraging
+      readers to contribute a $30 donation—equivalent to one dollar for each year of
+      its publication since 1995—to support its ongoing operations. The organization
+      expresses gratitude to those who have already contributed.
+    published: '2025-12-30T00:31:57+00:00'
+  - title: 'Chris Hedges: Decline and Fall'
+    url: https://consortiumnews.com/2025/12/29/chris-hedges-decline-and-fall/
+    text: The British Empire, in steep decline on the eve of World War I, is a cautionary
+      tale for a decayed U.S. Empire a century later. By Chris Hedges ScheerPost   At
+      the start of the 20th century, the British Empire was, like our… Read more →
+    one_sentence_summary: The article compares the decline of the British Empire before
+      World War I to the current state of the U.S. Empire, suggesting that both serve
+      as cautionary tales of imperial decay.
+    paragraph_summary: In his article, Chris Hedges draws parallels between the decline
+      of the British Empire at the onset of World War I and the current state of the
+      United States as it faces its own imperial decay. He argues that just as the British
+      Empire was experiencing significant challenges and a loss of global influence
+      a century ago, the U.S. Empire is now grappling with similar issues, serving as
+      a cautionary tale about the consequences of imperial overreach and internal decay.
+    published: '2025-12-29T19:00:46+00:00'
+  - title: 'Chris Hedges: Decline and Fall'
+    url: https://consortiumnews.com/2025/12/29/chris-hedges-decline-and-fall/
+    text: The British Empire, in steep decline on the eve of World War I, is a cautionary
+      tale for a decayed U.S. Empire a century later. By Chris Hedges ScheerPost   At
+      the start of the 20th century, the British Empire was, like our… Read more →
+    one_sentence_summary: The article compares the decline of the British Empire before
+      World War I to the current state of the U.S. Empire, suggesting that both serve
+      as cautionary tales of imperial decay.
+    paragraph_summary: In his article, Chris Hedges draws parallels between the decline
+      of the British Empire at the onset of World War I and the current state of the
+      United States as it faces its own imperial decay. He argues that just as the British
+      Empire was experiencing significant challenges and a loss of global influence
+      a century ago, the U.S. Empire is now grappling with similar issues, serving as
+      a cautionary tale about the consequences of imperial overreach and internal decay.
+    published: '2025-12-29T19:00:46+00:00'
+  - title: 'Gaza’s Yellow Line: Where Israel’s War Rages On'
+    url: https://consortiumnews.com/2025/12/29/gazas-yellow-line-where-israels-war-rages-on/
+    text: Palestinians stranded by newly drawn boundary question when they can return
+      home, writes Shaimaa Eid. By Shaimaa Eid in Gaza Declassified UK CN at 30 Despite
+      the declared end of the war on the Gaza Strip under the agreement signed… Read
+      more →
+    one_sentence_summary: Palestinians affected by newly established borders are uncertain
+      about their ability to return home following the conclusion of the war in the
+      Gaza Strip, as reported by Shaimaa Eid.
+    paragraph_summary: In her article, Shaimaa Eid discusses the plight of Palestinians
+      who are stranded due to newly established boundaries following the recent conflict
+      in the Gaza Strip. Despite a ceasefire agreement, many individuals are left questioning
+      when they will be able to return to their homes, highlighting the ongoing uncertainty
+      and challenges faced by those affected by the war. The situation remains precarious
+      as the implications of the new borders continue to unfold, leaving many in a state
+      of limbo regarding their future.
+    published: '2025-12-29T16:25:49+00:00'
+  - title: 'Gaza’s Yellow Line: Where Israel’s War Rages On'
+    url: https://consortiumnews.com/2025/12/29/gazas-yellow-line-where-israels-war-rages-on/
+    text: Palestinians stranded by newly drawn boundary question when they can return
+      home, writes Shaimaa Eid. By Shaimaa Eid in Gaza Declassified UK CN at 30 Despite
+      the declared end of the war on the Gaza Strip under the agreement signed… Read
+      more →
+    one_sentence_summary: Palestinians affected by newly established borders are uncertain
+      about their ability to return home following the conclusion of the war in the
+      Gaza Strip, as reported by Shaimaa Eid.
+    paragraph_summary: In her article, Shaimaa Eid discusses the plight of Palestinians
+      who are stranded due to newly established boundaries following the recent conflict
+      in the Gaza Strip. Despite a ceasefire agreement, many individuals are left questioning
+      when they will be able to return to their homes, highlighting the ongoing uncertainty
+      and challenges faced by those affected by the war. The situation remains precarious
+      as the implications of the new borders continue to unfold, leaving many in a state
+      of limbo regarding their future.
+    published: '2025-12-29T16:25:49+00:00'
+  - title: 'Stop Paying MSM: 3 Days Left for 2025 Donation'
+    url: https://consortiumnews.com/2025/12/29/stop-paying-msm-3-days-left-for-2025-donation/
+    text: You have until midnight Wednesday to show your support for Consortium News‘
+      unique brand of independent journalism with a 2025 tax deductible donation. Stop
+      paying for mainstream news. There are plenty of ways you are still paying for
+      big media… Read more →
+    one_sentence_summary: You have until midnight Wednesday to make a tax-deductible
+      donation to Consortium News to support independent journalism and move away from
+      mainstream media.
+    paragraph_summary: Consortium News is urging readers to support its independent
+      journalism by making a tax-deductible donation by midnight Wednesday, 2025. The
+      article emphasizes the importance of choosing alternative news sources over mainstream
+      media, highlighting the various hidden costs associated with big media.
+    published: '2025-12-29T14:12:23+00:00'
+  - title: 'Stop Paying MSM: 3 Days Left for 2025 Donation'
+    url: https://consortiumnews.com/2025/12/29/stop-paying-msm-3-days-left-for-2025-donation/
+    text: You have until midnight Wednesday to show your support for Consortium News‘
+      unique brand of independent journalism with a 2025 tax deductible donation. Stop
+      paying for mainstream news. There are plenty of ways you are still paying for
+      big media… Read more →
+    one_sentence_summary: You have until midnight Wednesday to make a tax-deductible
+      donation to Consortium News to support independent journalism and move away from
+      mainstream media.
+    paragraph_summary: Consortium News is urging readers to support its independent
+      journalism by making a tax-deductible donation by midnight Wednesday, 2025. The
+      article emphasizes the importance of choosing alternative news sources over mainstream
+      media, highlighting the various hidden costs associated with big media.
+    published: '2025-12-29T14:12:23+00:00'
+  - title: 'Support CN at 30: The Meaning of Independent Media'
+    url: https://consortiumnews.com/2025/12/27/support-cn-at-30-the-meaning-of-independent-media/
+    text: During Consortium News‘ 30th Anniversary, Editor-in-Chief Joe Lauria explains
+      what independent media and ethics mean to CN.  CN Editor Joe Lauria made the following
+      brief remarks at the Mut Zum Ethiks conference in Switzerland in August. The 
+      min. audio recording… Read more →
+    one_sentence_summary: At Consortium News' 30th Anniversary, Editor-in-Chief Joe
+      Lauria emphasized the importance of independent media and ethics in his remarks
+      at the Mut Zum Ethiks conference in Switzerland.
+    paragraph_summary: During the 30th Anniversary of Consortium News, Editor-in-Chief
+      Joe Lauria emphasized the significance of independent media and ethical journalism
+      in his remarks at the Mut Zum Ethiks conference in Switzerland. He highlighted
+      the core values that guide Consortium News, reflecting on the importance of maintaining
+      integrity and independence in reporting to foster informed public discourse.
+    published: '2025-12-28T00:52:48+00:00'
+  - title: 'Support CN at 30: The Meaning of Independent Media'
+    url: https://consortiumnews.com/2025/12/27/support-cn-at-30-the-meaning-of-independent-media/
+    text: During Consortium News‘ 30th Anniversary, Editor-in-Chief Joe Lauria explains
+      what independent media and ethics mean to CN.  CN Editor Joe Lauria made the following
+      brief remarks at the Mut Zum Ethiks conference in Switzerland in August. The 
+      min. audio recording… Read more →
+    one_sentence_summary: At Consortium News' 30th Anniversary, Editor-in-Chief Joe
+      Lauria emphasized the importance of independent media and ethics in his remarks
+      at the Mut Zum Ethiks conference in Switzerland.
+    paragraph_summary: During the 30th Anniversary of Consortium News, Editor-in-Chief
+      Joe Lauria emphasized the significance of independent media and ethical journalism
+      in his remarks at the Mut Zum Ethiks conference in Switzerland. He highlighted
+      the core values that guide Consortium News, reflecting on the importance of maintaining
+      integrity and independence in reporting to foster informed public discourse.
+    published: '2025-12-28T00:52:48+00:00'
+  - title: 'Holiday Offer: Become Member, Get 4 Bob Parry Books!'
+    url: https://consortiumnews.com/2025/12/26/become-a-member-get-4-bob-parry-books/
+    text: Happy Holidays from Consortium News.  Become a member of the first U.S. independent
+      news site on the Web, founded by legendary investigative journalist Bob Parry
+      30 years ago in 1995. To show your support for Consortium News and help it… Read
+      more →
+    one_sentence_summary: Consortium News wishes readers happy holidays and encourages
+      them to become members of the independent news site founded by Bob Parry in 1995
+      to support its mission.
+    paragraph_summary: Consortium News wishes its readers happy holidays and encourages
+      them to become members of the first independent news site in the U.S., established
+      by renowned investigative journalist Bob Parry in 1995. The organization seeks
+      support to continue its mission of providing independent journalism.
+    published: '2025-12-26T18:00:50+00:00'
+  - title: 'Holiday Offer: Become Member, Get 4 Bob Parry Books!'
+    url: https://consortiumnews.com/2025/12/26/become-a-member-get-4-bob-parry-books/
+    text: Happy Holidays from Consortium News.  Become a member of the first U.S. independent
+      news site on the Web, founded by legendary investigative journalist Bob Parry
+      30 years ago in 1995. To show your support for Consortium News and help it… Read
+      more →
+    one_sentence_summary: Consortium News wishes readers happy holidays and encourages
+      them to become members of the independent news site founded by Bob Parry in 1995
+      to support its mission.
+    paragraph_summary: Consortium News wishes its readers happy holidays and encourages
+      them to become members of the first independent news site in the U.S., established
+      by renowned investigative journalist Bob Parry in 1995. The organization seeks
+      support to continue its mission of providing independent journalism.
+    published: '2025-12-26T18:00:50+00:00'
+  - title: Mutual Aid or Mutual Assured Destruction
+    url: https://consortiumnews.com/2025/12/26/mutual-aid-or-mutual-assured-destruction/
+    text: Cooperation is more important than competition in human survival, argued Peter
+      Kropotkin. After competition brought two world wars, mutual aid twice sought to
+      rescue humanity. Will there be a third chance? asks Joe Lauria. The following
+      is the full text… Read more →
+    one_sentence_summary: Peter Kropotkin argued that cooperation is essential for human
+      survival, suggesting that mutual aid has historically countered the destructive
+      consequences of competition, as highlighted by Joe Lauria's inquiry into whether
+      humanity will have another opportunity to embrace this approach.
+    paragraph_summary: In the article, Joe Lauria reflects on Peter Kropotkin's assertion
+      that cooperation is essential for human survival, especially in light of the destructive
+      outcomes of competition, such as the two world wars. Lauria explores the concept
+      of mutual aid as a means of rescuing humanity from conflict and questions whether
+      society will have a third opportunity to prioritize cooperation over competition
+      in the future.
+    published: '2025-12-26T11:28:23+00:00'
+  - title: Mutual Aid or Mutual Assured Destruction
+    url: https://consortiumnews.com/2025/12/26/mutual-aid-or-mutual-assured-destruction/
+    text: Cooperation is more important than competition in human survival, argued Peter
+      Kropotkin. After competition brought two world wars, mutual aid twice sought to
+      rescue humanity. Will there be a third chance? asks Joe Lauria. The following
+      is the full text… Read more →
+    one_sentence_summary: Peter Kropotkin argued that cooperation is essential for human
+      survival, suggesting that mutual aid has historically countered the destructive
+      consequences of competition, as highlighted by Joe Lauria's inquiry into whether
+      humanity will have another opportunity to embrace this approach.
+    paragraph_summary: In the article, Joe Lauria reflects on Peter Kropotkin's assertion
+      that cooperation is essential for human survival, especially in light of the destructive
+      outcomes of competition, such as the two world wars. Lauria explores the concept
+      of mutual aid as a means of rescuing humanity from conflict and questions whether
+      society will have a third opportunity to prioritize cooperation over competition
+      in the future.
+    published: '2025-12-26T11:28:23+00:00'
+  - title: 'Jeffery Sachs:  Two Centuries of Russophobia & Rejection of Peace'
+    url: https://consortiumnews.com/2025/12/24/jeffery-sachs-two-centuries-of-russophobia-rejection-of-peace/
+    text: While other powers are presumed to have legitimate security interests that
+      must be balanced and accommodated, Russia’s interests are presumed illegitimate.
+      Russophobia functions less as a sentiment than as a systemic distortion — one
+      that repeatedly undermines Europe’s own security.… Read more →
+    one_sentence_summary: The article argues that while other nations' security interests
+      are often viewed as legitimate, Russia's are unjustly deemed illegitimate, suggesting
+      that this "Russophobia" distorts perceptions and undermines European security.
+    paragraph_summary: The article argues that while other nations' security interests
+      are often recognized as legitimate and worthy of consideration, Russia's interests
+      are typically viewed as illegitimate, a perspective that contributes to a broader
+      phenomenon of Russophobia. This systemic bias not only distorts perceptions of
+      Russia but also undermines Europe's overall security by failing to acknowledge
+      the complexities of geopolitical dynamics and the necessity of balancing various
+      national interests.
+    published: '2025-12-24T11:32:44+00:00'
+  - title: 'Jeffery Sachs:  Two Centuries of Russophobia & Rejection of Peace'
+    url: https://consortiumnews.com/2025/12/24/jeffery-sachs-two-centuries-of-russophobia-rejection-of-peace/
+    text: While other powers are presumed to have legitimate security interests that
+      must be balanced and accommodated, Russia’s interests are presumed illegitimate.
+      Russophobia functions less as a sentiment than as a systemic distortion — one
+      that repeatedly undermines Europe’s own security.… Read more →
+    one_sentence_summary: The article argues that while other nations' security interests
+      are often viewed as legitimate, Russia's are unjustly deemed illegitimate, suggesting
+      that this "Russophobia" distorts perceptions and undermines European security.
+    paragraph_summary: The article argues that while other nations' security interests
+      are often recognized as legitimate and worthy of consideration, Russia's interests
+      are typically viewed as illegitimate, a perspective that contributes to a broader
+      phenomenon of Russophobia. This systemic bias not only distorts perceptions of
+      Russia but also undermines Europe's overall security by failing to acknowledge
+      the complexities of geopolitical dynamics and the necessity of balancing various
+      national interests.
+    published: '2025-12-24T11:32:44+00:00'
+  - title: Pentagon Fails 8th Consecutive Audit
+    url: https://consortiumnews.com/2025/12/24/pentagon-fails-8th-consecutive-audit/
+    text: With this predictable result, the Pentagon remains the only U.S. federal agency
+      yet to pass an independent, department-wide audit, as required by law, Jake Johnson
+      reports.  By Jake Johnson Common Dreams CN at 30 Two days after the U.S. Senate…
+      Read more →
+    one_sentence_summary: The Pentagon is the only U.S. federal agency that has not
+      successfully completed a mandated independent audit, as reported by Jake Johnson.
+    paragraph_summary: The Pentagon continues to be the only U.S. federal agency that
+      has not successfully completed an independent, department-wide audit, a requirement
+      mandated by law. This ongoing failure highlights persistent issues within the
+      Department of Defense's financial management and accountability, as reported by
+      Jake Johnson.
+    published: '2025-12-24T11:09:58+00:00'
+  - title: Pentagon Fails 8th Consecutive Audit
+    url: https://consortiumnews.com/2025/12/24/pentagon-fails-8th-consecutive-audit/
+    text: With this predictable result, the Pentagon remains the only U.S. federal agency
+      yet to pass an independent, department-wide audit, as required by law, Jake Johnson
+      reports.  By Jake Johnson Common Dreams CN at 30 Two days after the U.S. Senate…
+      Read more →
+    one_sentence_summary: The Pentagon is the only U.S. federal agency that has not
+      successfully completed a mandated independent audit, as reported by Jake Johnson.
+    paragraph_summary: The Pentagon continues to be the only U.S. federal agency that
+      has not successfully completed an independent, department-wide audit, a requirement
+      mandated by law. This ongoing failure highlights persistent issues within the
+      Department of Defense's financial management and accountability, as reported by
+      Jake Johnson.
+    published: '2025-12-24T11:09:58+00:00'
+  - title: 'Holiday Offer: Become Member, Get 4 Bob Parry Books! Only 4 Sets Left!'
+    url: https://consortiumnews.com/2025/12/24/become-a-member-get-4-bob-parry-books/
+    text: Happy Holidays from Consortium News.  Become a member of the first U.S. independent
+      news site on the Web, founded by legendary investigative journalist Bob Parry
+      30 years ago in 1995. To show your support for Consortium News and help it… Read
+      more →
+    one_sentence_summary: Consortium News wishes readers happy holidays and encourages
+      them to support the independent news site, founded by Bob Parry in 1995, by becoming
+      members.
+    paragraph_summary: Consortium News wishes its readers happy holidays and encourages
+      them to support the site by becoming members. Founded in 1995 by renowned investigative
+      journalist Bob Parry, Consortium News is recognized as the first independent news
+      site in the U.S. The message emphasizes the importance of supporting independent
+      journalism.
+    published: '2025-12-24T09:00:50+00:00'
+  - title: 'Holiday Offer: Become Member, Get 4 Bob Parry Books! Only 4 Sets Left!'
+    url: https://consortiumnews.com/2025/12/24/become-a-member-get-4-bob-parry-books/
+    text: Happy Holidays from Consortium News.  Become a member of the first U.S. independent
+      news site on the Web, founded by legendary investigative journalist Bob Parry
+      30 years ago in 1995. To show your support for Consortium News and help it… Read
+      more →
+    one_sentence_summary: Consortium News wishes readers happy holidays and encourages
+      them to support the independent news site, founded by Bob Parry in 1995, by becoming
+      members.
+    paragraph_summary: Consortium News wishes its readers happy holidays and encourages
+      them to support the site by becoming members. Founded in 1995 by renowned investigative
+      journalist Bob Parry, Consortium News is recognized as the first independent news
+      site in the U.S. The message emphasizes the importance of supporting independent
+      journalism.
+    published: '2025-12-24T09:00:50+00:00'
   - title: 'Hillary Clinton Is Wrong: The Genocide Isn’t ‘Fake News’'
     url: https://consortiumnews.com/2025/12/23/hillary-clinton-is-wrong-the-genocide-isnt-fake-news/
     text: If the former U.S. secretary of state and her peers are only consuming legacy
