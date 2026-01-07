@@ -8,14 +8,290 @@ websites:
   - https://www.commondreams.org/author/jeffrey-d-sachs
   - https://www.jeffsachs.org/newspaper-articles
 summary: |
-  The current geopolitical landscape remains shaped by entrenched patterns of mistrust and interventionism, particularly in Europe’s relations with Russia and the United States’ approach to global security. The latest analysis by **Jeffrey Sachs** underscores how Europe’s persistent “Russophobia”—a structural dismissal of Russian security concerns—continues to undermine prospects for peace. Sachs traces this pattern back two centuries, noting that “Europe has historically failed to recognize Russia as a legitimate security actor,” a dynamic that has repeatedly escalated conflicts rather than resolving them. This context is crucial as tensions remain high in Eastern Europe, with little sign of a diplomatic breakthrough.
+  As of January 7, 2026, the global geopolitical landscape continues to be shaped by assertive U.S. foreign policy under President Trump, persistent instability in the Middle East, and Europe’s ongoing struggle to redefine its security posture. Recent developments highlight escalating tensions and the risks of entrenched strategic doctrines.
   
-  In parallel, the release of the 2025 U.S. National Security Strategy under President Trump signals a renewed emphasis on unilateralism and coercion. **Sachs** criticizes the document for its “grandiose assumptions of U.S. supremacy” and its willingness to bypass international law, as seen in the recent seizure of a Venezuelan oil tanker. This approach, Sachs warns, risks “isolating the U.S. and eroding trust among allies,” with even close partners like Denmark expressing concern about American intentions. The strategy’s preference for dominance over diplomacy is likely to deepen rifts within the Western alliance and complicate efforts to address global crises collaboratively.
+  The most significant new development is the release of President Trump’s 2025 National Security Strategy (NSS), which, according to **Jeffrey Sachs**, “embodies a dangerous blend of hubris, Machiavellianism, and disregard for international law.” The NSS frames U.S. sovereignty as the freedom to coerce, rather than cooperate with, other nations. Sachs points to the illegal seizure of a Venezuelan oil tanker as a concrete example of the administration’s willingness to use aggressive tactics, warning that such actions are alienating both smaller states and traditional allies like Denmark. The document’s emphasis on unilateralism and coercion over diplomacy, Sachs argues, is likely to weaken U.S. security and increase isolation: “This strategy not only alienates smaller nations but also alarms traditional allies like Denmark, which now perceives the US as a potential threat.”
   
-  Meanwhile, the situation in the Middle East remains volatile. The Trump administration’s push for a new UN Security Council resolution on Gaza, crafted with significant Israeli input, is widely viewed as an attempt to entrench U.S. and Israeli control while sidelining Palestinian sovereignty. Sachs argues this move “seeks to separate Gaza from the rest of Palestine and allows the US and Israel to dictate the timeline for any potential withdrawal,” effectively reviving a colonial mandate structure. Such actions, he contends, threaten to prolong instability and undermine any genuine peace process.
+  In Europe, the debate over security continues to be dominated by what Sachs terms “structural Russophobia.” His analysis traces a two-century pattern in which European powers have repeatedly dismissed Russia’s security concerns, leading to cycles of conflict and instability. Sachs contends that Europe’s refusal to negotiate with Russia—seen most recently in the context of the Ukraine war—has exacerbated tensions and undermined prospects for peace. He concludes that “achieving lasting peace requires Europe to acknowledge and incorporate Russian security interests into its diplomatic framework, rather than perpetuating a cycle of hostility and mistrust.”
   
-  Looking ahead, the prevailing trends suggest continued geopolitical instability driven by Western reluctance to engage with adversaries’ security concerns and a U.S. foreign policy increasingly reliant on coercion. Based on the historical patterns and current policy trajectories, **I guarantee** that without a fundamental shift towards inclusive diplomacy—particularly in Europe’s approach to Russia and the U.S. stance in the Middle East—prospects for lasting peace will remain dim. The majority of independent analysis points to the urgent need for a reassessment of Western strategies, with high confidence that failure to do so will perpetuate cycles of conflict and global mistrust.
+  Meanwhile, the Middle East remains volatile, with U.S. and Israeli policies toward Palestine and Iran drawing sharp criticism. The Trump administration’s recent moves at the UN, including efforts to establish U.S. control over Gaza, are seen by Sachs as a revival of colonial-era mandates that undermine Palestinian sovereignty and risk indefinite occupation. These strategies, he warns, threaten regional stability and run counter to international law.
+  
+  **Trends and Predictions:**  
+  The prevailing trend is a hardening of U.S. and allied positions, with a marked shift away from multilateralism and respect for international norms. Sachs predicts with high confidence that the current U.S. strategy will “most definitely” lead to further isolation and diminished global influence. In Europe, unless there is a fundamental reassessment of security policy to include Russian interests, there is a high chance that the continent will remain mired in conflict and economic stagnation. In the Middle East, the continued sidelining of Palestinian rights and the pursuit of regime change in Iran are “quite likely” to perpetuate instability and humanitarian crises.
+  
+  In summary, the latest reports underscore a growing divide between the rhetoric of peace and the reality of coercive, unilateral policies—trends that, if left unchecked, will most definitely deepen global insecurity and erode prospects for diplomatic solutions.
 articles:
+  - title: Trump’s Empire of Hubris and Thuggery
+    url: https://us19.campaign-archive.com/?u=50ec04f7fdd8f247aecfa0ddf&id=c5abdaf22c
+    text: 'Trump’s Empire of Hubris and Thuggery
+
+
+      Jeffrey D. Sachs | December 11, 2025 | Common Dreams
+
+
+
+
+      The president’s latest National Security Strategy memorandum treats the freedom
+      to coerce others as the essence of US sovereignty. It is an ominous document that
+      will—if allowed to stand—come back to haunt the United States.
+
+
+
+
+      The 2025 National Security Strategy (NSS) recently released by President Donald
+      Trump presents itself as a blueprint for renewed American strength. It is dangerously
+      misconceived in four ways.
+
+
+      First, the NSS is anchored in grandiosity: the belief that the United States enjoys
+      unmatched supremacy in every key dimension of power. Second, it is based on a
+      starkly Machiavellian view of the world, treating other nations as instruments
+      to be manipulated for American advantage. Third, it rests on a naïve nationalism
+      that dismisses international law and institutions as encumbrances on US sovereignty
+      rather than as frameworks that enhance US and global security together.
+
+
+
+
+      Fourth, it signals a thuggery in Trump’s use of the CIA and military. Within days
+      of the NSS’s publication, the US brazenly seized a tanker carrying Venezuelan
+      oil on the high seas—on the flimsy grounds that the vessel had previously violated
+      US sanctions against Iran.
+
+
+
+
+      The seizure was not a defensive measure to avert an imminent threat. Nor is it
+      remotely legal to seize vessels on the high seas because of unilateral US sanctions.
+      Only the UN Security Council has such authority. Instead, the seizure is an illegal
+      act designed to force regime change in Venezuela. It follows Trump’s declaration
+      that he has directed the CIA to carry out covert operations inside Venezuela to
+      destabilize the regime.
+
+
+      American security will not be strengthened by acting like a bully. It will be
+      weakened—structurally, morally, and strategically. A great power that frightens
+      its allies, coerces its neighbors, and disregards international rules ultimately
+      isolates itself.
+
+
+
+
+      The NSS, in other words, is not just an exercise in hubris on paper. It is rapidly
+      being translated into brazen practice.
+
+
+
+
+      A Glimmer of Realism, Then a Lurch into Hubris
+
+
+
+
+      To be fair, the NSS contains moments of long-overdue realism. It implicitly concedes
+      that the United States cannot and should not attempt to dominate the entire world,
+      and it correctly recognizes that some allies have dragged Washington into costly
+      wars of choice that were not in America’s true interests. It also steps back—at
+      least rhetorically—from an all-consuming great-power crusade. The strategy rejects
+      the fantasy that the United States can or should impose a universal political
+      order.
+
+
+
+
+      But the modesty is short-lived. The NSS quickly reasserts that America possesses
+      the “world’s single largest and most innovative economy,” “the world’s leading
+      financial system,” and “the world’s most advanced and most profitable technology
+      sector,” all backed by “the world’s most powerful and capable military.” These
+      claims serve not simply as patriotic affirmations, but as a justification for
+      using American dominance to impose terms on others. Smaller countries, it seems,
+      will bear the brunt of this hubris, since the US cannot defeat the other great
+      powers, not least because they are nuclear-armed.
+
+
+
+
+      Naked Machiavellianism in Doctrine
+
+
+
+
+      The NSS’s grandiosity is welded to a naked Machiavellianism. The question it asks
+      is not how the United States and other countries can cooperate for mutual benefit,
+      but how American leverage—over markets, finance, technology, and security—can
+      be applied to extract maximal concessions from other countries.
+
+
+      This is most pronounced in the NSS discussion of the Western Hemisphere section,
+      which declares a “Trump Corollary” to the Monroe Doctrine. The United States,
+      the NSS declares, will ensure that Latin America “remains free of hostile foreign
+      incursion or ownership of key assets,” and alliances and aid will be conditioned
+      on “winding down adversarial outside influence.” That “influence” clearly refers
+      to Chinese investment, infrastructure, and lending.
+
+
+      The NSS is explicit: US agreements with countries “that depend on us most and
+      therefore over which we have the most leverage” must result in sole-source contracts
+      for American firms. US policy should “make every effort to push out foreign companies”
+      that build infrastructure in the region, and the US should reshape multilateral
+      development institutions, such as the World Bank, so that they “serve American
+      interests.”
+
+
+      Latin American governments, many of whom trade extensively with both the United
+      States and China, are effectively being told: you must deal with us, not China—or
+      face the consequences.
+
+
+
+
+      Such a strategy is naive. China is the main trading partner for most of the world,
+      including many countries in the Western hemisphere. The US will be unable to compel
+      Latin American nations to expel Chinese firms, but will gravely damage US diplomacy
+      in the attempt.
+
+
+
+
+      Thuggery So Brazen Even Close Allies Are Alarmed
+
+
+
+
+      The NSS proclaims a doctrine of “sovereignty and respect,” yet its behavior has
+      already reduced that principle to sovereignty for the US, vulnerability for the
+      rest. What makes the emerging doctrine even more extraordinary is that it is now
+      frightening not only small states in Latin America, but even the United States’
+      closest allies in Europe.
+
+
+
+
+      In a remarkable development, Denmark—one of America’s most loyal NATO partners—has
+      openly declared the United States a potential threat to Danish national security.
+      Danish defense planners have stated publicly that Washington under Trump cannot
+      be assumed to respect the Kingdom of Denmark’s sovereignty over Greenland, and
+      that a coercive US attempt to seize the island is a contingency for which Denmark
+      must now plan.
+
+
+
+
+      This is astonishing on several levels. Greenland is already host to the US Thule
+      Air Base and firmly within the Western security system. Denmark is not anti-American,
+      nor is it seeking to provoke Washington. It is simply responding rationally to
+      a world in which the United States has begun to behave unpredictably—even toward
+      its supposed friends.
+
+
+      That Copenhagen feels compelled to contemplate defensive measures against Washington
+      speaks volumes. It suggests that the legitimacy of the US-led security architecture
+      is eroding from within. If even Denmark believes it must hedge against the United
+      States, the problem is no longer one of Latin America’s vulnerability. It is a
+      systemic crisis of confidence among nations that once saw the US as the guarantor
+      of stability but now view it as a possible or likely aggressor.
+
+
+
+
+      In short, the NSS seems to channel the energy previously devoted to great-power
+      confrontation into bullying of smaller states. If America seems to be a bit less
+      inclined to launch trillion-dollar wars abroad, it is more inclined to weaponize
+      sanctions, financial coercion, asset seizures, and theft on the high seas.
+
+
+
+
+      The Missing Pillar: Law, Reciprocity, and Decency
+
+
+
+
+      Perhaps the deepest flaw of the NSS is what it omits: a commitment to international
+      law, reciprocity, and basic decency as foundations of American security.
+
+
+
+
+      The NSS regards global governance structures as obstacles to US action. It dismisses
+      climate cooperation as “ideology,” and indeed a “hoax” according to Trump’s recent
+      speech at the UN. It downplays the UN Charter and envisions international institutions
+      primarily as instruments to be bent toward American preferences. Yet it is precisely
+      legal frameworks, treaties, and predictable rules that have historically protected
+      American interests.
+
+
+
+
+      The founders of the United States understood this clearly. Following the American
+      War of Independence, thirteen newly sovereign states soon adopted a constitution
+      to pool key powers—over taxation, defense, and diplomacy—not to weaken the states’
+      sovereignty, but to secure it by creating the US Federal Government. The post-WWII
+      foreign policy of the United States government did the same through the UN, the
+      Bretton Woods institutions, the World Trade Organization, and arms-control agreements.
+
+
+
+
+      The Trump NSS now reverses that logic. It treats the freedom to coerce others
+      as the essence of sovereignty. From that perspective, the Venezuelan tanker seizure
+      and Denmark’s anxieties are manifestations of the new policy.
+
+
+
+
+      Athens, Melos, and Washington
+
+
+
+
+      Such hubris will come back to haunt the United States. The ancient Greek historian
+      Thucydides records that when imperial Athens confronted the small island of Melos
+      in 416 BC, the Athenians declared that “the strong do what they can and the weak
+      suffer what they must.” Yet Athens’ hubris was also its undoing. Twelve years
+      later, in 404 BC, Athens fell to Sparta. Athenian arrogance, overreach, and contempt
+      for smaller states helped galvanize the alliance that ultimately brought it down.
+
+
+
+
+      The 2025 NSS speaks in a similar arrogant register. It is a doctrine of power
+      over law, coercion over consent, and dominance over diplomacy. American security
+      will not be strengthened by acting like a bully. It will be weakened—structurally,
+      morally, and strategically. A great power that frightens its allies, coerces its
+      neighbors, and disregards international rules ultimately isolates itself.
+
+
+
+
+      America’s national security strategy should be based on wholly different premises:
+      acceptance of a plural world; recognition that sovereignty is strengthened, not
+      diminished, through international law; acknowledgment that global cooperation
+      on climate, health, and technology is indispensable; and understanding that America’s
+      global influence depends more on persuasion than coercion.
+
+
+
+
+      https://www.commondreams.org/opinion/trump-national-security-strategy-memo'
+    one_sentence_summary: The 2025 National Security Strategy under President Trump
+      promotes a dangerous and hubristic view of U.S. supremacy and coercion, undermining
+      international law and alienating allies, which could ultimately weaken American
+      security and global standing.
+    paragraph_summary: 'In his critique of President Trump''s 2025 National Security
+      Strategy (NSS), Jeffrey D. Sachs argues that the document embodies a dangerous
+      blend of hubris, Machiavellianism, and disregard for international law, framing
+      US sovereignty as the freedom to coerce other nations. Sachs identifies four main
+      flaws: an inflated belief in American supremacy, a manipulative approach to foreign
+      relations, a naïve nationalism that undermines international cooperation, and
+      a troubling reliance on aggressive tactics, exemplified by the illegal seizure
+      of a Venezuelan oil tanker. He warns that this strategy not only alienates smaller
+      nations but also alarms traditional allies like Denmark, which now perceives the
+      US as a potential threat. Ultimately, Sachs contends that the NSS''s focus on
+      coercion over diplomacy will weaken American security and isolate the nation,
+      advocating instead for a foreign policy grounded in cooperation, respect for international
+      law, and mutual benefit.'
+    published: '2026-01-05T06:02:12.462540+00:00'
   - title: 'European Russophobia and Europe’s Rejection of Peace: A Two-Century Failure'
     url: https://www.cirsd.org/en/news/european-russophobia-and-europes-rejection-of-peace-a-two-century-failure
     text: 'European Russophobia and Europe’s Rejection of Peace: A Two-Century Failure

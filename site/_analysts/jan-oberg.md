@@ -7,16 +7,96 @@ description: "Swedish peace researcher and co–founder of Transnational Foundat
 websites:
   - https://transnational.live/
 summary: |
-  As 2025 draws to a close, the geopolitical landscape continues to be shaped by deepening divides over freedom of expression, institutional legitimacy, and the future of peace efforts. Recent developments highlight mounting concerns about Western approaches to dissent, the financial sustainability of global governance, and the effectiveness of current peace initiatives.
+  As 2026 begins, the international landscape remains marked by heightened tensions, institutional challenges, and a persistent struggle for genuine peace. The past weeks have seen renewed scrutiny of Western security policies, the state of global peace research, and the financial viability of international organizations.
   
-  The most recent and notable event is the European Union’s sanctioning of Jacques Baud, a Swiss former NATO and UN official, despite a lack of evidence linking him to Russian collaboration. **Jan Oberg** underscores that this move signals a worrying escalation in what he describes as the “EU/NATO censorship architecture,” raising fundamental questions about the erosion of freedom of expression within the West. Oberg warns that such actions set a precedent for targeting independent analysts and could chill rational debate on security and foreign policy.
+  A significant recent development is the European Union’s sanctioning of Jacques Baud, a Swiss former NATO and UN official, despite no evidence of collaboration with Russia. **Jan Oberg** highlights this as emblematic of a growing “censorship architecture” within EU and NATO structures, raising serious concerns about freedom of expression and the narrowing of acceptable discourse in security matters. Oberg warns, “the implications for freedom of expression are profound,” pointing to a trend where dissenting or critical voices are increasingly marginalized in the name of security.
   
-  Meanwhile, the United Nations faces a severe financial crisis, with **Jan Oberg** noting that “resources are increasingly diverted to military expenditures,” leaving the UN underfunded and unable to fulfill its mandate. The delays in contributions from major powers, particularly China, exacerbate the situation and threaten the organization’s operational viability. Oberg suggests that this trend reflects a broader shift in priorities among member states, with military spending taking precedence over multilateral cooperation.
+  Meanwhile, the United Nations faces a deepening financial crisis, with resources being redirected from multilateral institutions toward military spending. **Oberg** notes that “resources are increasingly diverted to military expenditures,” which undermines the UN’s capacity to fulfill its mandate. The delays in contributions from major states, particularly China, exacerbate this situation, threatening the organization’s operational effectiveness.
   
-  On the peace process front, skepticism persists regarding the authenticity and effectiveness of diplomatic efforts, especially in Ukraine and Gaza. Oberg’s recent analysis argues that “true peace in Ukraine cannot be achieved through existing peace plans or military actions,” instead advocating for trust-building and prosperity-focused initiatives. Similarly, the adoption of Trump’s “peace” plan for Gaza by the UN Security Council is characterized as a “cruel joke,” reflecting a lack of genuine commitment to conflict resolution.
+  On the peace research front, the Transnational Foundation for Peace and Future Research (TFF) marks its 40th anniversary by reaffirming its commitment to constructive peace initiatives, even as the field faces institutional closures and political headwinds. **Oberg** reflects on the closure of peace research at Lund University in 1989 as a turning point, yet emphasizes TFF’s “record of predictive analyses that have been validated over time.” This legacy, he argues, is crucial for navigating today’s complex conflicts, where official peace plans often lack substance or fail to address root causes.
   
-  Looking ahead, the prevailing trends point to a continued contraction of civic space in Western democracies, ongoing financial instability for the UN, and stalled progress in major conflict zones. With high confidence, **Jan Oberg** predicts that unless there is a fundamental shift in priorities—away from militarization and towards inclusive dialogue and constructive peacebuilding—these challenges will most definitely persist into 2026.
+  Looking ahead, the prevailing trends suggest a continued contraction of space for independent analysis and peace advocacy within Western security frameworks. The financial instability of the UN is likely to persist, with a high chance that military spending will further eclipse diplomatic and developmental priorities. **Oberg** predicts with high confidence that “true peace cannot be achieved through existing plans or military actions alone,” underscoring the need for renewed investment in trust-building and prosperity-driven approaches.
+  
+  In sum, the geopolitical outlook for early 2026 is defined by institutional fragility, the erosion of open debate, and the urgent need for innovative peace strategies—challenges that independent analysts like Oberg argue must be addressed if genuine progress is to be made.
 articles:
+  - title: 'TFF at 40 # 4 – Manifesto for True Peace Ahead'
+    url: https://transnational.live/2026/01/01/tff-at-40-4-manifesto-for-true-peace-ahead/
+    text: 'TFF founders & Board January 1, 2026 On January 1, 2026, TFF – The Transnational
+      Foundation for Peace and Future Research – turns forty. In a West where peace
+      has been cancelled in politics, research, and media, we might just as well have
+      used the anniversary to close down. But we shall move on — because peace by peaceful
+      […] The post TFF at 40 # 4 – Manifesto for True Peace Ahead appeared first on
+      The Transnational .'
+    one_sentence_summary: On its 40th anniversary, TFF emphasizes its commitment to
+      promoting peace despite the prevailing challenges in politics, research, and media.
+    paragraph_summary: On January 1, 2026, TFF (The Transnational Foundation for Peace
+      and Future Research) will celebrate its 40th anniversary, a milestone that comes
+      at a time when peace seems to be increasingly absent from political, research,
+      and media discourse in the West. Rather than closing down, TFF intends to continue
+      its mission, emphasizing the importance of pursuing peace through peaceful means.
+      The anniversary serves as a platform for TFF to reaffirm its commitment to advocating
+      for true peace and to outline its vision for the future.
+    published: '2026-01-01T15:47:52+00:00'
+  - title: 'TFF at 40 # 4 – Manifesto for True Peace Ahead'
+    url: https://transnational.live/2026/01/01/tff-at-40-4-manifesto-for-true-peace-ahead/
+    text: 'TFF founders & Board January 1, 2026 On January 1, 2026, TFF – The Transnational
+      Foundation for Peace and Future Research – turns forty. In a West where peace
+      has been cancelled in politics, research, and media, we might just as well have
+      used the anniversary to close down. But we shall move on — because peace by peaceful
+      […] The post TFF at 40 # 4 – Manifesto for True Peace Ahead appeared first on
+      The Transnational .'
+    one_sentence_summary: On its 40th anniversary, TFF emphasizes its commitment to
+      promoting peace despite the prevailing challenges in politics, research, and media.
+    paragraph_summary: On January 1, 2026, TFF (The Transnational Foundation for Peace
+      and Future Research) will celebrate its 40th anniversary, a milestone that comes
+      at a time when peace seems to be increasingly absent from political, research,
+      and media discourse in the West. Rather than closing down, TFF intends to continue
+      its mission, emphasizing the importance of pursuing peace through peaceful means.
+      The anniversary serves as a platform for TFF to reaffirm its commitment to advocating
+      for true peace and to outline its vision for the future.
+    published: '2026-01-01T15:47:52+00:00'
+  - title: 'TFF at 40 # 3 – A Record of Predictive Analyses That Time Confirmed'
+    url: https://transnational.live/2025/12/31/tff-at-40-3-a-record-of-predictive-analyses-that-time-confirmed/
+    text: 'To celebrate TFF’s 40th Anniversary, we have re-published – on TFF Substack
+      – two earlier articles that were published here on The Transnational. They are:
+      TFF at 40 #1 – Peace research at Lund University closed down in 1989: Why and
+      how?And why I lived happily ever after. This is a piece of Nordic academic […]
+      The post TFF at 40 # 3 – A Record of Predictive Analyses That Time Confirmed appeared
+      first on The Transnational .'
+    one_sentence_summary: To commemorate its 40th Anniversary, TFF has re-published
+      two earlier articles on its Substack, reflecting on the closure of peace research
+      at Lund University in 1989 and showcasing a record of predictive analyses that
+      have been validated over time.
+    paragraph_summary: In celebration of its 40th anniversary, TFF has re-published
+      two significant articles on TFF Substack, reflecting on its history and contributions
+      to peace research. The first article discusses the closure of peace research at
+      Lund University in 1989, exploring the reasons behind this decision and the author's
+      personal reflections on the experience. The second article, titled "A Record of
+      Predictive Analyses That Time Confirmed," highlights TFF's track record in providing
+      insightful analyses that have proven accurate over time. These pieces underscore
+      TFF's ongoing commitment to the field of peace research and its academic legacy.
+    published: '2025-12-31T11:30:40+00:00'
+  - title: 'TFF at 40 # 3 – A Record of Predictive Analyses That Time Confirmed'
+    url: https://transnational.live/2025/12/31/tff-at-40-3-a-record-of-predictive-analyses-that-time-confirmed/
+    text: 'To celebrate TFF’s 40th Anniversary, we have re-published – on TFF Substack
+      – two earlier articles that were published here on The Transnational. They are:
+      TFF at 40 #1 – Peace research at Lund University closed down in 1989: Why and
+      how?And why I lived happily ever after. This is a piece of Nordic academic […]
+      The post TFF at 40 # 3 – A Record of Predictive Analyses That Time Confirmed appeared
+      first on The Transnational .'
+    one_sentence_summary: To commemorate its 40th Anniversary, TFF has re-published
+      two earlier articles on its Substack, reflecting on the closure of peace research
+      at Lund University in 1989 and showcasing a record of predictive analyses that
+      have been validated over time.
+    paragraph_summary: In celebration of its 40th anniversary, TFF has re-published
+      two significant articles on TFF Substack, reflecting on its history and contributions
+      to peace research. The first article discusses the closure of peace research at
+      Lund University in 1989, exploring the reasons behind this decision and the author's
+      personal reflections on the experience. The second article, titled "A Record of
+      Predictive Analyses That Time Confirmed," highlights TFF's track record in providing
+      insightful analyses that have proven accurate over time. These pieces underscore
+      TFF's ongoing commitment to the field of peace research and its academic legacy.
+    published: '2025-12-31T11:30:40+00:00'
   - title: Jacques Baud and the EU/NATO Censorship Architecture ⛔
     url: https://transnational.live/2025/12/18/jacques-baud-and-the-eu-nato-censorship-architecture/
     text: If Baud, then we are all potential targets now! ⛔ Jan Oberg December 18, 2025

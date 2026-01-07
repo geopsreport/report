@@ -7,16 +7,1542 @@ description: "Former CIA analyst & State Dept counterterrorism official; runs So
 websites:
   - https://sonar21.com
 summary: |
-  As 2025 draws to a close, geopolitical tensions remain high across several key regions. The latest developments center on Iran’s internal unrest, the ongoing repercussions of the recent drone attack in Russia, and shifting narratives in Western media coverage.
+  The first week of January 2026 has seen a marked escalation in geopolitical tensions, particularly involving Russia, the United States, and Venezuela. These developments come against a backdrop of ongoing instability in Ukraine and persistent unrest in Iran.
   
-  Nationwide protests have erupted in Iran, triggered by severe economic hardship and a rapidly depreciating currency. While Western media and neoconservative commentators have been quick to frame these demonstrations as a potential existential threat to the Islamic Republic, **Larry C. Johnson** cautions against premature conclusions. He notes that, despite the scale of the protests, the government retains significant control and the security apparatus remains loyal. According to Johnson, “Western hopes for regime change are, at this stage, more wishful thinking than grounded analysis.” He assesses with high confidence that the Iranian regime is unlikely to collapse imminently, though economic pressure will persist as a destabilizing factor.
+  The most significant new development is Russia’s January 6 missile strikes on US-owned facilities in Ukraine. According to **Larry C. Johnson**, the attacks severely damaged the Oleina oil extraction plant in Dnipro and the Flex manufacturing site in Mukachevo. These strikes are interpreted as a direct message to Washington, signaling Moscow’s willingness to target American economic interests in Ukraine amid the ongoing conflict. The timing, coinciding with heightened US political activity around Ukraine, suggests a calculated escalation by Russia.
   
-  Meanwhile, fallout continues from Russia’s claim that Ukraine launched 91 long-range drones at a presidential residence on December 28-29. All drones were reportedly intercepted, and Russian officials have labeled the incident a terrorist act, promising retaliation. Ukrainian President Zelensky has denied involvement. **Larry C. Johnson** observes that this escalation is fueling hardline rhetoric in Moscow and could justify intensified Russian strikes in Ukraine. He predicts with high confidence that “Moscow will most definitely respond with increased military operations in the coming days,” further complicating prospects for de-escalation.
+  Meanwhile, the fallout from the US-led abduction of Venezuelan President Nicolas Maduro continues to reverberate. **Larry C. Johnson** reports that a member of Maduro’s inner circle facilitated the operation by betraying him, a detail that sheds new light on the operation’s success. The incident has also strained Venezuela’s relations with China, as Venezuelan intelligence recently arrested a Chinese executive in Caracas, raising questions about shifting alliances and internal instability within the Maduro regime.
   
-  In the broader context, recent Western media portrayals of Iran and Russia are being scrutinized for their role in shaping public opinion and policy. Johnson argues that the depiction of Iran as openly at war with the West is part of a coordinated information campaign, potentially laying the groundwork for future military action. He warns that such narratives are likely to intensify as political events approach in the US and Europe.
+  Looking at broader trends, these events point to a pattern of increasingly direct confrontation between major powers, with economic assets and political leaders now openly targeted. The US action in Venezuela, widely seen as motivated by oil interests rather than anti-narcotics efforts, has set a precedent for extraterritorial operations that other states may seek to emulate or counter.
   
-  Looking ahead, the majority view among analysts is that both the Iranian and Russian governments will weather current crises in the short term. However, economic and military pressures are expected to drive continued volatility. The likelihood of sudden regime change in Iran remains low, while the risk of further escalation in the Russia-Ukraine conflict is high. As Johnson concludes, “Expect more information warfare and posturing as each side seeks to shape the narrative and the battlefield.”
+  Based on the current trajectory, there is a high chance of further Russian strikes on Western assets in Ukraine if diplomatic efforts stall. The situation in Venezuela is likely to remain volatile, with a high probability of further purges and realignments within the ruling elite. As **Larry C. Johnson** notes, these developments reflect a broader disregard for legal norms in international affairs—a trend that is “most definitely” expected to continue in the near term.
 articles:
+  - title: Did Russia Just Send a Message to Donald Trump? Who Ratted out Maduro?
+    url: https://sonar21.com/did-russia-just-send-a-message-to-donald-trump/
+    text: 'Olimpex Terminal On January 6, Russia launched three major missile strikes
+      against US-owned facilities in Ukraine. In the Dnipropetrovsk region, Russian
+      ballistic missiles decimated  the Oleina oil extraction plant, which is owned
+      by the American Bunge company from  Saint Louis. Its official name is the Dnipropetrovsk
+      Oil Extraction Plant , located in Dnipro (formerly Dnipropetrovsk), central Ukraine.
+      It is a major sunflower seed processing facility specializing in crushing, refining,
+      and bottling sunflower oil. Furthermore, in western Ukraine, in the Transcarpathian
+      region, Russian kamikaze  drones, together with ballistic missiles, caused critical
+      damage to the Flex plant,  which also belonged to American investors. Flex Ltd.
+      (formerly Flextronics), a Singaporean-American company headquartered in Austin,
+      Texas, operates a major manufacturing site in Mukachevo (Zakarpattia Oblast, western
+      Ukraine), which opened in 2012. This facility specializes in civilian electronics
+      production (e.g., household appliances like coffee machines, printer components,
+      and injection-molded plastics). It employs thousands and was significantly damaged
+      in a previous Russian missile strike on August 21, 2025, injuring workers and
+      sparking international commentary as an attack on US-owned infrastructure. Russia
+      also launched a  massive missile attack on the American-owned marine terminal
+      Olimpex, which is considered the  largest in the Odessa region. This is the second
+      time this year that Russia hit the terminal ( I wrote about it in July ). This
+      terminal is one of the largest grain export facilities in the country, with an
+      annual throughput capacity of up to 5 million tons. However, Ukraine was moving
+      more than grain through Olimpex. According to witnesses, even though this facility
+      was  protected by Patriot air defense systems, the Russian missiles hit the terminal
+      unimpeded. The subsequent explosions turned out to be so powerful that a supermassive 
+      mushroom cloud arose over Odessa, which indicates that this marine terminal contained 
+      numerous warehouses filled with NATO weapons. I don’t know if this fulfills Russia’s
+      promise to retaliate for the US-backed December 28 failed drone attack on Putin’s
+      official residence in Novgorod, but I don’t think it a coincidence that three
+      US-owned facilities that appear to produce or warehouse weapons for the Ukrainian
+      war effort were attacked on the same day. Shifting gears to Venezuela, I think
+      the two most likely candidates for the betrayal of Nicholas Maduro are: Director
+      of SEBIN: Major General Alexis Rodríguez Cabello Appointed in October 2024, he
+      remains in position as of early January 2026. He is a cousin of Interior Minister
+      Diosdado Cabello and has been sanctioned by the U.S. for alleged human rights
+      abuses. The acronym SEBIN stands for Servicio Bolivariano de Inteligencia Nacional
+      in Spanish. This translates to Bolivarian National Intelligence Service in English.
+      It is Venezuela’s primary civilian intelligence and secret police agency, established
+      in 2010 as a restructured successor to the former DISIP (Dirección de los Servicios
+      de Inteligencia y Prevención). The agency reports to the executive branch (historically
+      the Vice President) and has been widely criticized by human rights organizations
+      for political repression, arbitrary detentions, and alleged torture. Director
+      of DGCIM (and Commander of the Presidential Honor Guard): Major General Gustavo
+      González López Appointed by Delcy Rodríguez on January 6, 2026, replacing the
+      previous director. González López is a longtime Chavista hardliner who previously
+      served as SEBIN director (2019–2024) and Minister of Interior and Justice. The
+      acronym DGCIM stands for Dirección General de Contrainteligencia Militar in Spanish.
+      This translates to General Directorate of Military Counterintelligence in English.
+      It is Venezuela’s military intelligence agency, responsible for countering espionage,
+      monitoring potential threats within the armed forces, investigating alleged plots
+      against the government, and handling internal security matters related to the
+      military. The DGCIM has been widely accused by human rights organizations (including
+      the United Nations) of systematic torture, arbitrary detentions, and extrajudicial
+      actions as part of state repression. Given Gustavo González López’s close ties
+      with Delcy Rodríguez, I am inclined to believe that he was the one who made sure
+      that Venezuela’s air defense systems were inactive during the US abduction of
+      Nicholas Maduro. Stay tuned. I did three fascinating podcasts today. For the second
+      consecutive year I did the first live podcast with the boys of the Duran. I have
+      not had the pleasure of meeting Alex and Alexander in person yet, but we have
+      developed a genuine friendship during the course of the war in Ukraine. My second
+      adventure was with Danny Davis. I was late in arriving for the interview because
+      I had written down the wrong start time. Still, we had a fascinating chat. Last,
+      but not least, Mario Nawfal invited me back to discuss Venezuela. Mario accompanied
+      the Judge and me when we did our interview last March with Sergei Lavrov:'
+    one_sentence_summary: On January 6, Russia conducted missile strikes on US-owned
+      facilities in Ukraine, severely damaging the Oleina oil extraction plant in Dnipro
+      and the Flex manufacturing site in Mukachevo.
+    paragraph_summary: On January 6, Russia conducted significant missile strikes against
+      US-owned facilities in Ukraine, targeting the Oleina oil extraction plant in Dnipro,
+      the Flex manufacturing site in Mukachevo, and the Olimpex marine terminal in Odessa.
+      The Oleina plant, operated by Bunge, is a key sunflower seed processing facility,
+      while the Flex plant, owned by Flex Ltd., produces civilian electronics and has
+      previously suffered damage from Russian attacks. The Olimpex terminal, the largest
+      grain export facility in the Odessa region, was also struck, despite being protected
+      by Patriot air defense systems, resulting in massive explosions and a large mushroom
+      cloud over the area. These attacks mark a continued pattern of targeting US investments
+      in Ukraine amidst the ongoing conflict.
+    published: '2026-01-07T05:22:45+00:00'
+  - title: Did Russia Just Send a Message to Donald Trump? Who Ratted out Maduro?
+    url: https://sonar21.com/did-russia-just-send-a-message-to-donald-trump/
+    text: 'Olimpex Terminal On January 6, Russia launched three major missile strikes
+      against US-owned facilities in Ukraine. In the Dnipropetrovsk region, Russian
+      ballistic missiles decimated  the Oleina oil extraction plant, which is owned
+      by the American Bunge company from  Saint Louis. Its official name is the Dnipropetrovsk
+      Oil Extraction Plant , located in Dnipro (formerly Dnipropetrovsk), central Ukraine.
+      It is a major sunflower seed processing facility specializing in crushing, refining,
+      and bottling sunflower oil. Furthermore, in western Ukraine, in the Transcarpathian
+      region, Russian kamikaze  drones, together with ballistic missiles, caused critical
+      damage to the Flex plant,  which also belonged to American investors. Flex Ltd.
+      (formerly Flextronics), a Singaporean-American company headquartered in Austin,
+      Texas, operates a major manufacturing site in Mukachevo (Zakarpattia Oblast, western
+      Ukraine), which opened in 2012. This facility specializes in civilian electronics
+      production (e.g., household appliances like coffee machines, printer components,
+      and injection-molded plastics). It employs thousands and was significantly damaged
+      in a previous Russian missile strike on August 21, 2025, injuring workers and
+      sparking international commentary as an attack on US-owned infrastructure. Russia
+      also launched a  massive missile attack on the American-owned marine terminal
+      Olimpex, which is considered the  largest in the Odessa region. This is the second
+      time this year that Russia hit the terminal ( I wrote about it in July ). This
+      terminal is one of the largest grain export facilities in the country, with an
+      annual throughput capacity of up to 5 million tons. However, Ukraine was moving
+      more than grain through Olimpex. According to witnesses, even though this facility
+      was  protected by Patriot air defense systems, the Russian missiles hit the terminal
+      unimpeded. The subsequent explosions turned out to be so powerful that a supermassive 
+      mushroom cloud arose over Odessa, which indicates that this marine terminal contained 
+      numerous warehouses filled with NATO weapons. I don’t know if this fulfills Russia’s
+      promise to retaliate for the US-backed December 28 failed drone attack on Putin’s
+      official residence in Novgorod, but I don’t think it a coincidence that three
+      US-owned facilities that appear to produce or warehouse weapons for the Ukrainian
+      war effort were attacked on the same day. Shifting gears to Venezuela, I think
+      the two most likely candidates for the betrayal of Nicholas Maduro are: Director
+      of SEBIN: Major General Alexis Rodríguez Cabello Appointed in October 2024, he
+      remains in position as of early January 2026. He is a cousin of Interior Minister
+      Diosdado Cabello and has been sanctioned by the U.S. for alleged human rights
+      abuses. The acronym SEBIN stands for Servicio Bolivariano de Inteligencia Nacional
+      in Spanish. This translates to Bolivarian National Intelligence Service in English.
+      It is Venezuela’s primary civilian intelligence and secret police agency, established
+      in 2010 as a restructured successor to the former DISIP (Dirección de los Servicios
+      de Inteligencia y Prevención). The agency reports to the executive branch (historically
+      the Vice President) and has been widely criticized by human rights organizations
+      for political repression, arbitrary detentions, and alleged torture. Director
+      of DGCIM (and Commander of the Presidential Honor Guard): Major General Gustavo
+      González López Appointed by Delcy Rodríguez on January 6, 2026, replacing the
+      previous director. González López is a longtime Chavista hardliner who previously
+      served as SEBIN director (2019–2024) and Minister of Interior and Justice. The
+      acronym DGCIM stands for Dirección General de Contrainteligencia Militar in Spanish.
+      This translates to General Directorate of Military Counterintelligence in English.
+      It is Venezuela’s military intelligence agency, responsible for countering espionage,
+      monitoring potential threats within the armed forces, investigating alleged plots
+      against the government, and handling internal security matters related to the
+      military. The DGCIM has been widely accused by human rights organizations (including
+      the United Nations) of systematic torture, arbitrary detentions, and extrajudicial
+      actions as part of state repression. Given Gustavo González López’s close ties
+      with Delcy Rodríguez, I am inclined to believe that he was the one who made sure
+      that Venezuela’s air defense systems were inactive during the US abduction of
+      Nicholas Maduro. Stay tuned. I did three fascinating podcasts today. For the second
+      consecutive year I did the first live podcast with the boys of the Duran. I have
+      not had the pleasure of meeting Alex and Alexander in person yet, but we have
+      developed a genuine friendship during the course of the war in Ukraine. My second
+      adventure was with Danny Davis. I was late in arriving for the interview because
+      I had written down the wrong start time. Still, we had a fascinating chat. Last,
+      but not least, Mario Nawfal invited me back to discuss Venezuela. Mario accompanied
+      the Judge and me when we did our interview last March with Sergei Lavrov:'
+    one_sentence_summary: On January 6, Russia conducted missile strikes on US-owned
+      facilities in Ukraine, severely damaging the Oleina oil extraction plant in Dnipro
+      and the Flex manufacturing site in Mukachevo.
+    paragraph_summary: On January 6, Russia conducted significant missile strikes against
+      US-owned facilities in Ukraine, targeting the Oleina oil extraction plant in Dnipro,
+      the Flex manufacturing site in Mukachevo, and the Olimpex marine terminal in Odessa.
+      The Oleina plant, operated by Bunge, is a key sunflower seed processing facility,
+      while the Flex plant, owned by Flex Ltd., produces civilian electronics and has
+      previously suffered damage from Russian attacks. The Olimpex terminal, the largest
+      grain export facility in the Odessa region, was also struck, despite being protected
+      by Patriot air defense systems, resulting in massive explosions and a large mushroom
+      cloud over the area. These attacks mark a continued pattern of targeting US investments
+      in Ukraine amidst the ongoing conflict.
+    published: '2026-01-07T05:22:45+00:00'
+  - title: If True, This Sheds Additional Light on the Backstory Behind the Maduro Kidnapping
+    url: https://sonar21.com/if-true-this-sheds-additional-light-on-the-backstory-behind-the-maduro-kidnapping/
+    text: 'I learned today from a reliable source that a member of Maduro’s inner circle
+      betrayed him and facilitated the US military operation that led to the abduction
+      of Nicholas Maduro and his wife… It was not Delcy Rodriguez. Subsequent to receiving
+      that information from my source, one of my readers recommended I watch a video
+      allegedly published by a Mr. Scott Lucas. The following transcript of that video
+      made my ears perk up: On January 2nd, 2026, Dr. Lee Wei, a senior executive from
+      China National Petroleum Corporation, was forcibly removed from his hotel in downtown
+      Caracas. The Venezuelan government claimed he was involved in illegal financial
+      activities. The Chinese government called it kidnapping. The arrest wasn’t clean.
+      It wasn’t diplomatic. According to eyewitness accounts, Venezuelan intelligence
+      agents stormed the Marriott Hotel at 3:47 a.m. using electronic jammers to cut
+      off all communications in a six block radius. Lee Wei’s security detail, three
+      former Chinese military officers, were tasered and detained. His encrypted laptop
+      was seized along with documents that reportedly contained financial codes for
+      accessing 15 billion dollars in emergency Chinese credit lines. The operation
+      had all the hallmarks of American intelligence planning. Venezuelan forces used
+      equipment that hadn’t been seen in South America before… Israeli made cell phone
+      jammers, German manufactured restraint systems, and most tellingly, tactical communication
+      devices that operated on NATO frequencies. I do not know Mr. Lucas and cannot
+      vouch for the accuracy of his claim. I have seen no public source confirming that
+      such an arrest/detention took place. After further checking, this Lucas video
+      appears to be an AI fake, which begs the question: Who made it? What we do know
+      is that later on the 2nd of January, President Maduro met with Qiu Xiaoqi, a Chinese
+      diplomat who is China’s Special Envoy/Special Representative for Latin American
+      and Caribbean Affairs under President Xi Jinping. The meeting occurred at the
+      Miraflores Presidential Palace, hours before the U.S. military operation that
+      captured Maduro on January 3, 2026. The purpose of the meeting was described as
+      reaffirming strategic ties between China and Venezuela, with other officials present
+      including China’s ambassador to Venezuela, Lan Hu. If the content of the “Lucas”
+      video is true, then whoever made it was sending a message, i.e., that the Venezuelan
+      intelligence unit was working with US intelligence — and possibly Israeli assets
+      as well — and that the arrest of Lee Wei was timed in anticipation of the US military
+      action that took place less than 24 hours following his detention. If this happened
+      then it is clear that neither Maduro nor the Chinese delegation that met the Venezuelan
+      leader at the Presiential Palace were unaware of the action by the Venezuelan
+      intelligence unit. Maybe this AI-video is just a clever prank intended to stir
+      controversy on the internet. However, I cannot rule out the possibility that a
+      foreign intelligence service wanted to get this information public without compromising
+      their organization, and that they decided to use the voice and image of Mr. Lucas
+      to send a message. Here is the Lucas video… Tell me what you think: The following
+      video is a clip from Randy Credico’s Friday radio show that features Roger Waters
+      asking Ambassador Polyanskiy why Russia did not use its veto in the security council
+      to block the lopsided Trump-brokered ceasefire in Gaza: Finally, I did my regular
+      Monday chats with Nima and with Judge Napolitano: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: A member of Maduro's inner circle reportedly betrayed him,
+      facilitating a US military operation that led to his and his wife's abduction,
+      while a separate incident involved the controversial arrest of a Chinese executive
+      in Caracas by Venezuelan intelligence agents.
+    paragraph_summary: An anonymous source has revealed that a member of Venezuelan
+      President Nicolás Maduro's inner circle betrayed him, facilitating a U.S. military
+      operation that resulted in his and his wife's abduction. In a related development,
+      a video by Scott Lucas claims that on January 2, 2026, Dr. Lee Wei, a senior executive
+      from China National Petroleum Corporation, was forcibly taken from a hotel in
+      Caracas by Venezuelan intelligence, who accused him of illegal activities, while
+      the Chinese government labeled it a kidnapping. Eyewitness accounts describe a
+      chaotic scene involving advanced equipment not typically seen in South America,
+      suggesting American intelligence involvement. However, further investigation indicates
+      that the video may be an AI fabrication, raising questions about its origin. Later
+      that same day, Maduro met with a Chinese diplomat, hinting at ongoing diplomatic
+      tensions and complexities in Venezuela's international relations.
+    published: '2026-01-06T06:06:35+00:00'
+  - title: If True, This Sheds Additional Light on the Backstory Behind the Maduro Kidnapping
+    url: https://sonar21.com/if-true-this-sheds-additional-light-on-the-backstory-behind-the-maduro-kidnapping/
+    text: 'I learned today from a reliable source that a member of Maduro’s inner circle
+      betrayed him and facilitated the US military operation that led to the abduction
+      of Nicholas Maduro and his wife… It was not Delcy Rodriguez. Subsequent to receiving
+      that information from my source, one of my readers recommended I watch a video
+      allegedly published by a Mr. Scott Lucas. The following transcript of that video
+      made my ears perk up: On January 2nd, 2026, Dr. Lee Wei, a senior executive from
+      China National Petroleum Corporation, was forcibly removed from his hotel in downtown
+      Caracas. The Venezuelan government claimed he was involved in illegal financial
+      activities. The Chinese government called it kidnapping. The arrest wasn’t clean.
+      It wasn’t diplomatic. According to eyewitness accounts, Venezuelan intelligence
+      agents stormed the Marriott Hotel at 3:47 a.m. using electronic jammers to cut
+      off all communications in a six block radius. Lee Wei’s security detail, three
+      former Chinese military officers, were tasered and detained. His encrypted laptop
+      was seized along with documents that reportedly contained financial codes for
+      accessing 15 billion dollars in emergency Chinese credit lines. The operation
+      had all the hallmarks of American intelligence planning. Venezuelan forces used
+      equipment that hadn’t been seen in South America before… Israeli made cell phone
+      jammers, German manufactured restraint systems, and most tellingly, tactical communication
+      devices that operated on NATO frequencies. I do not know Mr. Lucas and cannot
+      vouch for the accuracy of his claim. I have seen no public source confirming that
+      such an arrest/detention took place. After further checking, this Lucas video
+      appears to be an AI fake, which begs the question: Who made it? What we do know
+      is that later on the 2nd of January, President Maduro met with Qiu Xiaoqi, a Chinese
+      diplomat who is China’s Special Envoy/Special Representative for Latin American
+      and Caribbean Affairs under President Xi Jinping. The meeting occurred at the
+      Miraflores Presidential Palace, hours before the U.S. military operation that
+      captured Maduro on January 3, 2026. The purpose of the meeting was described as
+      reaffirming strategic ties between China and Venezuela, with other officials present
+      including China’s ambassador to Venezuela, Lan Hu. If the content of the “Lucas”
+      video is true, then whoever made it was sending a message, i.e., that the Venezuelan
+      intelligence unit was working with US intelligence — and possibly Israeli assets
+      as well — and that the arrest of Lee Wei was timed in anticipation of the US military
+      action that took place less than 24 hours following his detention. If this happened
+      then it is clear that neither Maduro nor the Chinese delegation that met the Venezuelan
+      leader at the Presiential Palace were unaware of the action by the Venezuelan
+      intelligence unit. Maybe this AI-video is just a clever prank intended to stir
+      controversy on the internet. However, I cannot rule out the possibility that a
+      foreign intelligence service wanted to get this information public without compromising
+      their organization, and that they decided to use the voice and image of Mr. Lucas
+      to send a message. Here is the Lucas video… Tell me what you think: The following
+      video is a clip from Randy Credico’s Friday radio show that features Roger Waters
+      asking Ambassador Polyanskiy why Russia did not use its veto in the security council
+      to block the lopsided Trump-brokered ceasefire in Gaza: Finally, I did my regular
+      Monday chats with Nima and with Judge Napolitano: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: A member of Maduro's inner circle reportedly betrayed him,
+      facilitating a US military operation that led to his and his wife's abduction,
+      while a separate incident involved the controversial arrest of a Chinese executive
+      in Caracas by Venezuelan intelligence agents.
+    paragraph_summary: An anonymous source has revealed that a member of Venezuelan
+      President Nicolás Maduro's inner circle betrayed him, facilitating a U.S. military
+      operation that resulted in his and his wife's abduction. In a related development,
+      a video by Scott Lucas claims that on January 2, 2026, Dr. Lee Wei, a senior executive
+      from China National Petroleum Corporation, was forcibly taken from a hotel in
+      Caracas by Venezuelan intelligence, who accused him of illegal activities, while
+      the Chinese government labeled it a kidnapping. Eyewitness accounts describe a
+      chaotic scene involving advanced equipment not typically seen in South America,
+      suggesting American intelligence involvement. However, further investigation indicates
+      that the video may be an AI fabrication, raising questions about its origin. Later
+      that same day, Maduro met with a Chinese diplomat, hinting at ongoing diplomatic
+      tensions and complexities in Venezuela's international relations.
+    published: '2026-01-06T06:06:35+00:00'
+  - title: Donald Trump, and Most Americans, Do Not Understand the Monroe Doctrine
+    url: https://sonar21.com/donald-trump-and-most-americans-do-not-understand-the-monroe-doctrine/
+    text: 'I want to make you a wager… I bet that 99% of Americans have never read the
+      speech that President James Monroe made to the US Congress on December 2, 1823.
+      As part of that speech — which was the seventh annual address to the US Congress
+      — President Monroe outlined a policy that is now commonly referred to as the Monroe
+      Doctrine . Understanding what President Monroe actually said has taken on more
+      importance because Donald Trump referenced the Monroe Doctrine to justify his
+      kidnapping of Venezuelan President Maduro. I am going to show you that President
+      Monroe said nothing that would excuse or support Trump’s action. To the contrary,
+      Trump is behaving like one of the old European colonial tyrants. Trump is not
+      the first to misunderstand the Monroe Doctrine, which is now widely interpreted
+      in America as giving the US control of the Western Hemisphere and giving the US
+      the right to take action against ANY foreign government that has relations with
+      the countries of Central and South America, Mexico and Canada. The essence of
+      the Monroe Doctrine originally was a firm declaration to oppose European colonization
+      of the Americas. Read carefully what Monroe said : In the discussions to which
+      this interest has given rise and in the arrangements by which they may terminate
+      the occasion has been judged proper for asserting, as a principle in which the
+      rights and interests of the United States are involved, that the American continents,
+      by the free and independent condition which they have assumed and maintain, are
+      henceforth not to be considered as subjects for future colonization by any European
+      powers All US presidents in the 20th Century — including Trump — believe that
+      the Monroe Doctrine gives the US a veto over political or economic relations that
+      any country outside the Western Hemisphere can have with Canada, Mexico, and the
+      countries of Central and South America. But Monroe’s focus was on European colonial
+      imperialism. President Monroe did not declare that the US would be the final arbiter
+      in deciding whether a country in Central or South America can voluntarily form
+      a political or economic alliance with another country, such as China or Russia.
+      Monroe’s specific concern was to keep the US out of the wars that were ravaging
+      Europe in the 19th Century. He said: In the wars of the European powers in matters
+      relating to themselves we have never taken any part, nor does it comport with
+      our policy to do so. It is only when our rights are invaded or seriously menaced
+      that we resent injuries or make preparation for our defense. With the movements
+      in this hemisphere we are of necessity more immediately connected, and by causes
+      which must be obvious to all enlightened and impartial observers. . . . We owe
+      it, therefore, to candor and to the amicable relations existing between the United
+      States and those powers to declare that we should consider any attempt on their
+      part to extend their system to any portion of this hemisphere as dangerous to
+      our peace and safety. With the existing colonies or dependencies of any European
+      power we have not interfered and shall not interfere. But with the Governments
+      who have declared their independence and maintain it, and whose independence we
+      have, on great consideration and on just principles, acknowledged, we could not
+      view any interposition for the purpose of oppressing them, or controlling in any
+      other manner their destiny, by any European power in any other light than as the
+      manifestation of an unfriendly disposition toward the United States. In the war
+      between those new Governments and Spain we declared our neutrality at the time
+      of their recognition, and to this we have adhered, and shall continue to adhere,
+      provided no change shall occur which, in the judgement of the competent authorities
+      of this Government, shall make a corresponding change on the part of the United
+      States indispensable to their security. Monroe made two critical points in the
+      preceding two paragraphs… First, the US will act only if it is attacked or threatened
+      by European powers. Again, his concern was to keep America free of the wars among
+      the various European powers as they sought to secure and consolidate their respective
+      colonial ambitions. Second, Monroe insisted that the US will not interfere with
+      existing colonies or dependencies . However, if people in Mexico, Central America
+      or South America decided to declare independence — as did the 13 British colonies
+      on July 4, 1776 — then any European military action against those former colonies
+      would be viewed as an attack on the United States. In other words, the US policy
+      proposed by Monroe gave priority to those American countries that declared independence
+      a tacit promise that the US would support them. However, this did not grant the
+      US the right to unilaterally insert itself into the political affairs of countries
+      in Central and South America, nor did it empower the US to carry out regime changes
+      in those countries simply because we did not like the new rulers or the structure
+      of the new government. Monroe then makes a policy statement that every US president
+      in the 20th and 21st Century has ignored… No interference in the internal affairs
+      of other countries: Our policy in regard to Europe, which was adopted at an early
+      stage of the wars which have so long agitated that quarter of the globe, nevertheless
+      remains the same, which is, not to interfere in the internal concerns of any of
+      its powers; to consider the government de facto as the legitimate government for
+      us; to cultivate friendly relations with it, and to preserve those relations by
+      a frank, firm, and manly policy, meeting in all instances the just claims of every
+      power, submitting to injuries from none. Monroe concluded his outline of the Monroe
+      Doctrine by emphasizing that would be his policy to prevent foreign governments
+      from forcibly imposing their political systems on countries in the Western Hemisphere:
+      It is impossible that the allied powers should extend their political system to
+      any portion of either continent without endangering our peace and happiness; nor
+      can anyone believe that our southern brethren, if left to themselves, would adopt
+      it of their own accord. It is equally impossible, therefore, that we should behold
+      such interposition in any form with indifference. Sadly, the Monroe Doctrine has
+      been desecrated and ignored by a bevy of Presidents, starting with President Polk
+      in 1848. Instead of defending Mexico and our Central and South American neighbors
+      from foreign interference, we have repeatedly behaved as an authoritarian dictator.  Mexico
+      declared independence from Spain on 16 September 1810. Thirty-six years later,
+      the US provoked a war with Mexico by annexing Texas and manufacturing a border
+      crisis in service of a broader expansionist project. Maybe we should christen
+      this kind of behavior as the Polk Doctrine, i.e., only we, the US, have the right
+      to decide what kind of government the people and nations in the Western hemisphere
+      can have. The Monroe Doctrine was intended to combat foreign interference by imperial
+      powers… The US has bastardized that doctrine and now uses it as an excuse to feed
+      our own imperial ambitions. Venezuela is just the latest casualty. If you’re up
+      for something less depressing, Randy Credico hosted a radio farewell party for
+      Russia’s Deputy UN Ambassador, Dimitry Polyanskiy, who is headed off to Vienna
+      as Russia’s Ambassador to the OSCE. I appeared along with Pink Floyd’s Roger Waters,
+      Ray McGovern, Scott Ritter and Andrei Martyanov: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: The article argues that President Monroe's 1823 speech, which
+      established the Monroe Doctrine, does not support Donald Trump's actions regarding
+      Venezuela, highlighting a common misinterpretation of the doctrine as granting
+      the U.S. control over the Western Hemisphere.
+    paragraph_summary: In a recent article, the author argues that most Americans are
+      unaware of President James Monroe's speech to Congress on December 2, 1823, which
+      introduced the Monroe Doctrine, a policy primarily aimed at opposing European
+      colonization in the Americas. The article highlights the importance of understanding
+      Monroe's original intent, especially in light of Donald Trump's invocation of
+      the doctrine to justify his actions against Venezuelan President Maduro. The author
+      contends that Trump's interpretation misrepresents Monroe's message, which was
+      not about granting the U.S. control over the Western Hemisphere or justifying
+      intervention against foreign governments, but rather about protecting the Americas
+      from European imperialism. The piece emphasizes that the Monroe Doctrine has been
+      widely misinterpreted over time, leading to a belief that it gives the U.S. authority
+      over the political and economic relations of neighboring countries.
+    published: '2026-01-05T04:34:49+00:00'
+  - title: Donald Trump, and Most Americans, Do Not Understand the Monroe Doctrine
+    url: https://sonar21.com/donald-trump-and-most-americans-do-not-understand-the-monroe-doctrine/
+    text: 'I want to make you a wager… I bet that 99% of Americans have never read the
+      speech that President James Monroe made to the US Congress on December 2, 1823.
+      As part of that speech — which was the seventh annual address to the US Congress
+      — President Monroe outlined a policy that is now commonly referred to as the Monroe
+      Doctrine . Understanding what President Monroe actually said has taken on more
+      importance because Donald Trump referenced the Monroe Doctrine to justify his
+      kidnapping of Venezuelan President Maduro. I am going to show you that President
+      Monroe said nothing that would excuse or support Trump’s action. To the contrary,
+      Trump is behaving like one of the old European colonial tyrants. Trump is not
+      the first to misunderstand the Monroe Doctrine, which is now widely interpreted
+      in America as giving the US control of the Western Hemisphere and giving the US
+      the right to take action against ANY foreign government that has relations with
+      the countries of Central and South America, Mexico and Canada. The essence of
+      the Monroe Doctrine originally was a firm declaration to oppose European colonization
+      of the Americas. Read carefully what Monroe said : In the discussions to which
+      this interest has given rise and in the arrangements by which they may terminate
+      the occasion has been judged proper for asserting, as a principle in which the
+      rights and interests of the United States are involved, that the American continents,
+      by the free and independent condition which they have assumed and maintain, are
+      henceforth not to be considered as subjects for future colonization by any European
+      powers All US presidents in the 20th Century — including Trump — believe that
+      the Monroe Doctrine gives the US a veto over political or economic relations that
+      any country outside the Western Hemisphere can have with Canada, Mexico, and the
+      countries of Central and South America. But Monroe’s focus was on European colonial
+      imperialism. President Monroe did not declare that the US would be the final arbiter
+      in deciding whether a country in Central or South America can voluntarily form
+      a political or economic alliance with another country, such as China or Russia.
+      Monroe’s specific concern was to keep the US out of the wars that were ravaging
+      Europe in the 19th Century. He said: In the wars of the European powers in matters
+      relating to themselves we have never taken any part, nor does it comport with
+      our policy to do so. It is only when our rights are invaded or seriously menaced
+      that we resent injuries or make preparation for our defense. With the movements
+      in this hemisphere we are of necessity more immediately connected, and by causes
+      which must be obvious to all enlightened and impartial observers. . . . We owe
+      it, therefore, to candor and to the amicable relations existing between the United
+      States and those powers to declare that we should consider any attempt on their
+      part to extend their system to any portion of this hemisphere as dangerous to
+      our peace and safety. With the existing colonies or dependencies of any European
+      power we have not interfered and shall not interfere. But with the Governments
+      who have declared their independence and maintain it, and whose independence we
+      have, on great consideration and on just principles, acknowledged, we could not
+      view any interposition for the purpose of oppressing them, or controlling in any
+      other manner their destiny, by any European power in any other light than as the
+      manifestation of an unfriendly disposition toward the United States. In the war
+      between those new Governments and Spain we declared our neutrality at the time
+      of their recognition, and to this we have adhered, and shall continue to adhere,
+      provided no change shall occur which, in the judgement of the competent authorities
+      of this Government, shall make a corresponding change on the part of the United
+      States indispensable to their security. Monroe made two critical points in the
+      preceding two paragraphs… First, the US will act only if it is attacked or threatened
+      by European powers. Again, his concern was to keep America free of the wars among
+      the various European powers as they sought to secure and consolidate their respective
+      colonial ambitions. Second, Monroe insisted that the US will not interfere with
+      existing colonies or dependencies . However, if people in Mexico, Central America
+      or South America decided to declare independence — as did the 13 British colonies
+      on July 4, 1776 — then any European military action against those former colonies
+      would be viewed as an attack on the United States. In other words, the US policy
+      proposed by Monroe gave priority to those American countries that declared independence
+      a tacit promise that the US would support them. However, this did not grant the
+      US the right to unilaterally insert itself into the political affairs of countries
+      in Central and South America, nor did it empower the US to carry out regime changes
+      in those countries simply because we did not like the new rulers or the structure
+      of the new government. Monroe then makes a policy statement that every US president
+      in the 20th and 21st Century has ignored… No interference in the internal affairs
+      of other countries: Our policy in regard to Europe, which was adopted at an early
+      stage of the wars which have so long agitated that quarter of the globe, nevertheless
+      remains the same, which is, not to interfere in the internal concerns of any of
+      its powers; to consider the government de facto as the legitimate government for
+      us; to cultivate friendly relations with it, and to preserve those relations by
+      a frank, firm, and manly policy, meeting in all instances the just claims of every
+      power, submitting to injuries from none. Monroe concluded his outline of the Monroe
+      Doctrine by emphasizing that would be his policy to prevent foreign governments
+      from forcibly imposing their political systems on countries in the Western Hemisphere:
+      It is impossible that the allied powers should extend their political system to
+      any portion of either continent without endangering our peace and happiness; nor
+      can anyone believe that our southern brethren, if left to themselves, would adopt
+      it of their own accord. It is equally impossible, therefore, that we should behold
+      such interposition in any form with indifference. Sadly, the Monroe Doctrine has
+      been desecrated and ignored by a bevy of Presidents, starting with President Polk
+      in 1848. Instead of defending Mexico and our Central and South American neighbors
+      from foreign interference, we have repeatedly behaved as an authoritarian dictator.  Mexico
+      declared independence from Spain on 16 September 1810. Thirty-six years later,
+      the US provoked a war with Mexico by annexing Texas and manufacturing a border
+      crisis in service of a broader expansionist project. Maybe we should christen
+      this kind of behavior as the Polk Doctrine, i.e., only we, the US, have the right
+      to decide what kind of government the people and nations in the Western hemisphere
+      can have. The Monroe Doctrine was intended to combat foreign interference by imperial
+      powers… The US has bastardized that doctrine and now uses it as an excuse to feed
+      our own imperial ambitions. Venezuela is just the latest casualty. If you’re up
+      for something less depressing, Randy Credico hosted a radio farewell party for
+      Russia’s Deputy UN Ambassador, Dimitry Polyanskiy, who is headed off to Vienna
+      as Russia’s Ambassador to the OSCE. I appeared along with Pink Floyd’s Roger Waters,
+      Ray McGovern, Scott Ritter and Andrei Martyanov: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: The article argues that President Monroe's 1823 speech, which
+      established the Monroe Doctrine, does not support Donald Trump's actions regarding
+      Venezuela, highlighting a common misinterpretation of the doctrine as granting
+      the U.S. control over the Western Hemisphere.
+    paragraph_summary: In a recent article, the author argues that most Americans are
+      unaware of President James Monroe's speech to Congress on December 2, 1823, which
+      introduced the Monroe Doctrine, a policy primarily aimed at opposing European
+      colonization in the Americas. The article highlights the importance of understanding
+      Monroe's original intent, especially in light of Donald Trump's invocation of
+      the doctrine to justify his actions against Venezuelan President Maduro. The author
+      contends that Trump's interpretation misrepresents Monroe's message, which was
+      not about granting the U.S. control over the Western Hemisphere or justifying
+      intervention against foreign governments, but rather about protecting the Americas
+      from European imperialism. The piece emphasizes that the Monroe Doctrine has been
+      widely misinterpreted over time, leading to a belief that it gives the U.S. authority
+      over the political and economic relations of neighboring countries.
+    published: '2026-01-05T04:34:49+00:00'
+  - title: Trump the Robber Baron
+    url: https://sonar21.com/trump-the-robber-baron/
+    text: The US is not only morally, but also financially bankrupt—the real reason
+      for Maduro’s kidnapping is to refinance the American public finances. By Peter
+      Hanseler via ForumGeopolitica.com “We want peace, liberty and justice” – Donald
+      Trump, January 3, 2026 Listening to Donald Trump’s press conference following
+      the attack and kidnapping of President Maduro and his wife, it quickly becomes
+      clear that this is not about Maduro as a drug dealer, but about oil and therefore
+      money. We will not even attempt to legally assess the attack of the US on Venezuela
+      at this point, because Trump is not only breaking international law with this
+      act of robbery, but also American law. When asked by a journalist whether this
+      military strike had been approved by Congress, Trump replied laconically that
+      discussions had been held. Even Friedrich Merz, who has experience as a criminal,
+      see “ What Russia could do ,” calls the classification of the US action “complex”;
+      in other words, he will welcome it sooner or later. The Western media do not condemn
+      the robbery in any way, but sell the action as the liberation of the Venezuelan
+      people. “We want peace, liberty and justice” Donald Trump, January 3, 2026 The
+      world is selling US bonds and America is running out of money – it’s as simple
+      as that. With the oil that the Americans want to steal, they will once again have
+      assets with which to refinance ailing America. Trump was therefore forced to carry
+      out this raid, because otherwise the empty coffers in Washington would blow up
+      in his face. Being a businessman, he even found a way to make his friends in the
+      oil business rich at the same time. He was also able to rely on the corrupt military
+      and business leaders in Venezuela – even Maduro’s bodyguards abandoned him. The
+      military, probably in consultation with the CIA, shut down its own air defenses
+      to guarantee safe passage for the robber barons. The parallels with Syria are
+      obvious, with the difference that Assad smelled a rat and had himself flown out
+      by the Russians. Consequences It is questionable whether the Americans will manage
+      to bring the entire country under control. Vice President Delcy Rodriguez is putting
+      on a combative front. Trump seems to want to install his protégé Rubio as vice
+      president in order to take over the country. The Chinese and Russians will not
+      intervene militarily under any circumstances. Rather, it is to be expected that
+      the Chinese will take revenge by destroying COMEX; we will know more in the next
+      few days. The gold and silver prices should be watched closely. The higher the
+      prices of these precious metals, the worse the situation is for the US dollar
+      and the American public finances. We must hope that Venezuela will defend itself
+      – by any means necessary. What is certain is that the western world has turned
+      its back on the rule of law. Trump is introducing the law of the jungle. How would
+      Trump react if countries began to take all American citizens residing in those
+      countries hostage?
+    one_sentence_summary: The article argues that the U.S. government's kidnapping of
+      Venezuelan President Maduro is primarily motivated by financial interests related
+      to oil, rather than concerns over drug trafficking, highlighting the illegality
+      of the action both internationally and domestically.
+    paragraph_summary: The article by Peter Hanseler argues that the recent kidnapping
+      of Venezuelan President Maduro by the US is driven not by concerns over drug trafficking,
+      but by financial motives linked to America's desperate need for oil to stabilize
+      its economy. It suggests that President Trump’s actions, which violate both international
+      and American law, are a calculated move to seize Venezuelan oil assets to refinance
+      the US's dwindling public finances. The piece criticizes the Western media for
+      framing the operation as a liberation effort, while highlighting the complicity
+      of corrupt Venezuelan military and business leaders in facilitating the attack.
+      Ultimately, it portrays the incident as a reflection of America's moral and financial
+      bankruptcy, drawing parallels to previous interventions in Syria.
+    published: '2026-01-04T14:11:30+00:00'
+  - title: Trump the Robber Baron
+    url: https://sonar21.com/trump-the-robber-baron/
+    text: The US is not only morally, but also financially bankrupt—the real reason
+      for Maduro’s kidnapping is to refinance the American public finances. By Peter
+      Hanseler via ForumGeopolitica.com “We want peace, liberty and justice” – Donald
+      Trump, January 3, 2026 Listening to Donald Trump’s press conference following
+      the attack and kidnapping of President Maduro and his wife, it quickly becomes
+      clear that this is not about Maduro as a drug dealer, but about oil and therefore
+      money. We will not even attempt to legally assess the attack of the US on Venezuela
+      at this point, because Trump is not only breaking international law with this
+      act of robbery, but also American law. When asked by a journalist whether this
+      military strike had been approved by Congress, Trump replied laconically that
+      discussions had been held. Even Friedrich Merz, who has experience as a criminal,
+      see “ What Russia could do ,” calls the classification of the US action “complex”;
+      in other words, he will welcome it sooner or later. The Western media do not condemn
+      the robbery in any way, but sell the action as the liberation of the Venezuelan
+      people. “We want peace, liberty and justice” Donald Trump, January 3, 2026 The
+      world is selling US bonds and America is running out of money – it’s as simple
+      as that. With the oil that the Americans want to steal, they will once again have
+      assets with which to refinance ailing America. Trump was therefore forced to carry
+      out this raid, because otherwise the empty coffers in Washington would blow up
+      in his face. Being a businessman, he even found a way to make his friends in the
+      oil business rich at the same time. He was also able to rely on the corrupt military
+      and business leaders in Venezuela – even Maduro’s bodyguards abandoned him. The
+      military, probably in consultation with the CIA, shut down its own air defenses
+      to guarantee safe passage for the robber barons. The parallels with Syria are
+      obvious, with the difference that Assad smelled a rat and had himself flown out
+      by the Russians. Consequences It is questionable whether the Americans will manage
+      to bring the entire country under control. Vice President Delcy Rodriguez is putting
+      on a combative front. Trump seems to want to install his protégé Rubio as vice
+      president in order to take over the country. The Chinese and Russians will not
+      intervene militarily under any circumstances. Rather, it is to be expected that
+      the Chinese will take revenge by destroying COMEX; we will know more in the next
+      few days. The gold and silver prices should be watched closely. The higher the
+      prices of these precious metals, the worse the situation is for the US dollar
+      and the American public finances. We must hope that Venezuela will defend itself
+      – by any means necessary. What is certain is that the western world has turned
+      its back on the rule of law. Trump is introducing the law of the jungle. How would
+      Trump react if countries began to take all American citizens residing in those
+      countries hostage?
+    one_sentence_summary: The article argues that the U.S. government's kidnapping of
+      Venezuelan President Maduro is primarily motivated by financial interests related
+      to oil, rather than concerns over drug trafficking, highlighting the illegality
+      of the action both internationally and domestically.
+    paragraph_summary: The article by Peter Hanseler argues that the recent kidnapping
+      of Venezuelan President Maduro by the US is driven not by concerns over drug trafficking,
+      but by financial motives linked to America's desperate need for oil to stabilize
+      its economy. It suggests that President Trump’s actions, which violate both international
+      and American law, are a calculated move to seize Venezuelan oil assets to refinance
+      the US's dwindling public finances. The piece criticizes the Western media for
+      framing the operation as a liberation effort, while highlighting the complicity
+      of corrupt Venezuelan military and business leaders in facilitating the attack.
+      Ultimately, it portrays the incident as a reflection of America's moral and financial
+      bankruptcy, drawing parallels to previous interventions in Syria.
+    published: '2026-01-04T14:11:30+00:00'
+  - title: IS THE MADURO KIDNAPPING A PRELUDE TO ATTACKING IRAN?
+    url: https://sonar21.com/is-the-maduro-kidnapping-a-prelude-to-attacking-iran/
+    text: 'There was a time when the patriots in America believed in staying at home,
+      minding their own business and expecting the same of other countries. The time
+      no longer exists… At least as a majority of opinion. The citizens of the US who
+      are cheering the kidnapping of Nicolas Maduro and his wife for the alleged crime
+      of narco-terrorism is an appalling reminder that the majority of Americans endorse
+      a policy in which the government, regardless who is President, can do any damn
+      thing they want without regard to the law or the Constitution. Trump is not the
+      one setting a dangerous precedent… He is simply continuing a tradition of unlawful,
+      illegal conduct of being able to use the US military as a cudgel against anyone
+      that the President and his team decide are bad. George W. Bush authorized torture
+      and confined dozens of innocent men to Guantanamo in the name of fighting terrorism
+      Ditto Barack Obama, who decided it was a swell idea to order the murder of a US
+      citizen — Anwar al-Awlaki — because he was a suspected terrorist. Terrorism is
+      the excuse that tyrants use to deprive people around the world of their fundamental
+      human rights. In the United States, accusations of being a terrorist or supporting
+      a terrorist becomes a justification to deny US citizens of their Constitutional
+      rights. Despite the fact that the US judicial system is founded on the principle
+      that the accused is presumed innocent until proven guilty beyond a reasonable
+      doubt, the Trump administration, with the full and enthusiastic support of the
+      media, is treating Maduro and his wife as criminals already convicted of crimes
+      they allegedly committed. I am hoping there are some competent criminal defense
+      lawyers with the courage to step up and defend the Maduros. The indictment of
+      Maduro — you can read it here — is a political diatribe rather than a litany of
+      actual crimes. There are a number of assertions that are not backed up by evidence
+      — i.e., date, time, amounts of cocaine, etc. — in the indictment. Here is but
+      one example: At various times since in or about 1999, Venezuelan officials, including
+      NICOLAS MADURO MOROS, DIOSDADO CABELLO RONDON, and RAMON RODRIGUEZ CHACIN, the
+      defendants, have partnered with narco-terrorists from the Fuerzas Armadas Revolucionarias
+      de Colombia (“F ARC”), Ejercito de Liberaci6n Nacional (“ELN”), the Sinaloa Cartel,
+      the Zetas, and Tren de Aragua (“TdA”), including TdA’ s leader, HECTOR RUSTHENFORD
+      GUERRERO FLORES, a/k/a “Nifio Guerrero,” the defendant. In sum, MADURO MOROS and
+      his co-conspirators have, for decades, partnered with some of the most violent
+      and prolific drug traffickers and narco-terrorists in the world, and relied on
+      corrupt officials throughout the region, to distribute tons of cocaine to the
+      United States. The indictment makes the laughable claim that the FARC is one of
+      the major cocaine producers in Colombia. Maduro succeeded Chavez in 2013… The
+      Revolutionary Armed Forces of Colombia (FARC), formally known as FARC-EP, disbanded
+      as an armed guerrilla group in 2017 following the implementation of the 2016 peace
+      agreement with the Colombian government. How has a group that disbanded 10 years
+      ago continued to be a major producer of cocaine? I am suggesting that the US government
+      case against Maduro may not be as strong as it appears at first glance based on
+      the indictment. The drug charges against Maduro is just a pretext for regime change.
+      Those who were counting on Nobel prize winner, Maria Corina Machado, to take over
+      from Maduro may be disappointed based on Trump’s latest remarks: President Donald
+      Trump has dismissed Venezuelan opposition figure Maria Corina Machado as a potential
+      national leader, despite the Nobel laureate’s vocal support of the US military
+      operation against her own country. During a press conference, Trump was asked
+      whether he was in contact with Machado or viewed her as a viable leader following
+      Maduro’s capture. “I think it’d be very tough for her to be the leader. She doesn’t
+      have the support or the respect within the country. She’s a very nice woman but
+      she doesn’t have the respect,” Trump said. For the time being, according to Trump,
+      the US is going to govern Venezuela, with Marco Rubio and Pete Hegseth given that
+      mission. This should be interesting. I believe the true objective of the kidnapping
+      operation to remove Maduro is to secure US control of Venezuelan oil in anticipation
+      of a disruption of the flow of oil from the Persian Gulf when Israel, with US-backing,
+      launches a new attack on Iran. I suppose you could say that Trump’s Monday meeting
+      with Netanyahu, which coincided with the eruption of protests in Iran that were
+      likely incited by the MEK — a terrorist group with direct ties to the CIA and
+      Mossad — followed by the kidnapping of Maduro and his wife is just a happy series
+      of coincidences… I don’t believe in coincidence. I discussed the kidnapping today
+      and its implications with Judge Napolitano, Garland Nixon and Glenn Diesen in
+      separate chats: I thank you for your invaluable support by taking time to read
+      or comment. I do not charge a subscription fee nor do I accept advertising. I
+      want the content to be accessible to everyone interested in the issues I am discussing.
+      However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article critiques the shift in American public opinion
+      towards endorsing government actions that disregard the law and Constitution,
+      exemplified by support for the kidnapping of Venezuelan leader Nicolas Maduro,
+      and argues that this trend of unlawful conduct has been perpetuated by successive
+      presidents.
+    paragraph_summary: The article critiques the shift in American attitudes towards
+      foreign intervention and the use of military power, highlighting a troubling trend
+      where citizens support actions like the kidnapping of Venezuelan leader Nicolas
+      Maduro and his wife, accused of narco-terrorism. It argues that this reflects
+      a broader acceptance of unlawful government conduct, regardless of the presidential
+      administration, citing past actions by George W. Bush and Barack Obama that similarly
+      bypassed legal and constitutional norms in the name of combating terrorism. The
+      author expresses concern over the erosion of civil liberties, as accusations of
+      terrorism can lead to the denial of rights for both foreign leaders and American
+      citizens. The indictment against Maduro is portrayed as politically motivated
+      and lacking substantial evidence, calling for competent legal representation for
+      the accused.
+    published: '2026-01-04T04:30:36+00:00'
+  - title: IS THE MADURO KIDNAPPING A PRELUDE TO ATTACKING IRAN?
+    url: https://sonar21.com/is-the-maduro-kidnapping-a-prelude-to-attacking-iran/
+    text: 'There was a time when the patriots in America believed in staying at home,
+      minding their own business and expecting the same of other countries. The time
+      no longer exists… At least as a majority of opinion. The citizens of the US who
+      are cheering the kidnapping of Nicolas Maduro and his wife for the alleged crime
+      of narco-terrorism is an appalling reminder that the majority of Americans endorse
+      a policy in which the government, regardless who is President, can do any damn
+      thing they want without regard to the law or the Constitution. Trump is not the
+      one setting a dangerous precedent… He is simply continuing a tradition of unlawful,
+      illegal conduct of being able to use the US military as a cudgel against anyone
+      that the President and his team decide are bad. George W. Bush authorized torture
+      and confined dozens of innocent men to Guantanamo in the name of fighting terrorism
+      Ditto Barack Obama, who decided it was a swell idea to order the murder of a US
+      citizen — Anwar al-Awlaki — because he was a suspected terrorist. Terrorism is
+      the excuse that tyrants use to deprive people around the world of their fundamental
+      human rights. In the United States, accusations of being a terrorist or supporting
+      a terrorist becomes a justification to deny US citizens of their Constitutional
+      rights. Despite the fact that the US judicial system is founded on the principle
+      that the accused is presumed innocent until proven guilty beyond a reasonable
+      doubt, the Trump administration, with the full and enthusiastic support of the
+      media, is treating Maduro and his wife as criminals already convicted of crimes
+      they allegedly committed. I am hoping there are some competent criminal defense
+      lawyers with the courage to step up and defend the Maduros. The indictment of
+      Maduro — you can read it here — is a political diatribe rather than a litany of
+      actual crimes. There are a number of assertions that are not backed up by evidence
+      — i.e., date, time, amounts of cocaine, etc. — in the indictment. Here is but
+      one example: At various times since in or about 1999, Venezuelan officials, including
+      NICOLAS MADURO MOROS, DIOSDADO CABELLO RONDON, and RAMON RODRIGUEZ CHACIN, the
+      defendants, have partnered with narco-terrorists from the Fuerzas Armadas Revolucionarias
+      de Colombia (“F ARC”), Ejercito de Liberaci6n Nacional (“ELN”), the Sinaloa Cartel,
+      the Zetas, and Tren de Aragua (“TdA”), including TdA’ s leader, HECTOR RUSTHENFORD
+      GUERRERO FLORES, a/k/a “Nifio Guerrero,” the defendant. In sum, MADURO MOROS and
+      his co-conspirators have, for decades, partnered with some of the most violent
+      and prolific drug traffickers and narco-terrorists in the world, and relied on
+      corrupt officials throughout the region, to distribute tons of cocaine to the
+      United States. The indictment makes the laughable claim that the FARC is one of
+      the major cocaine producers in Colombia. Maduro succeeded Chavez in 2013… The
+      Revolutionary Armed Forces of Colombia (FARC), formally known as FARC-EP, disbanded
+      as an armed guerrilla group in 2017 following the implementation of the 2016 peace
+      agreement with the Colombian government. How has a group that disbanded 10 years
+      ago continued to be a major producer of cocaine? I am suggesting that the US government
+      case against Maduro may not be as strong as it appears at first glance based on
+      the indictment. The drug charges against Maduro is just a pretext for regime change.
+      Those who were counting on Nobel prize winner, Maria Corina Machado, to take over
+      from Maduro may be disappointed based on Trump’s latest remarks: President Donald
+      Trump has dismissed Venezuelan opposition figure Maria Corina Machado as a potential
+      national leader, despite the Nobel laureate’s vocal support of the US military
+      operation against her own country. During a press conference, Trump was asked
+      whether he was in contact with Machado or viewed her as a viable leader following
+      Maduro’s capture. “I think it’d be very tough for her to be the leader. She doesn’t
+      have the support or the respect within the country. She’s a very nice woman but
+      she doesn’t have the respect,” Trump said. For the time being, according to Trump,
+      the US is going to govern Venezuela, with Marco Rubio and Pete Hegseth given that
+      mission. This should be interesting. I believe the true objective of the kidnapping
+      operation to remove Maduro is to secure US control of Venezuelan oil in anticipation
+      of a disruption of the flow of oil from the Persian Gulf when Israel, with US-backing,
+      launches a new attack on Iran. I suppose you could say that Trump’s Monday meeting
+      with Netanyahu, which coincided with the eruption of protests in Iran that were
+      likely incited by the MEK — a terrorist group with direct ties to the CIA and
+      Mossad — followed by the kidnapping of Maduro and his wife is just a happy series
+      of coincidences… I don’t believe in coincidence. I discussed the kidnapping today
+      and its implications with Judge Napolitano, Garland Nixon and Glenn Diesen in
+      separate chats: I thank you for your invaluable support by taking time to read
+      or comment. I do not charge a subscription fee nor do I accept advertising. I
+      want the content to be accessible to everyone interested in the issues I am discussing.
+      However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article critiques the shift in American public opinion
+      towards endorsing government actions that disregard the law and Constitution,
+      exemplified by support for the kidnapping of Venezuelan leader Nicolas Maduro,
+      and argues that this trend of unlawful conduct has been perpetuated by successive
+      presidents.
+    paragraph_summary: The article critiques the shift in American attitudes towards
+      foreign intervention and the use of military power, highlighting a troubling trend
+      where citizens support actions like the kidnapping of Venezuelan leader Nicolas
+      Maduro and his wife, accused of narco-terrorism. It argues that this reflects
+      a broader acceptance of unlawful government conduct, regardless of the presidential
+      administration, citing past actions by George W. Bush and Barack Obama that similarly
+      bypassed legal and constitutional norms in the name of combating terrorism. The
+      author expresses concern over the erosion of civil liberties, as accusations of
+      terrorism can lead to the denial of rights for both foreign leaders and American
+      citizens. The indictment against Maduro is portrayed as politically motivated
+      and lacking substantial evidence, calling for competent legal representation for
+      the accused.
+    published: '2026-01-04T04:30:36+00:00'
+  - title: US and Israel Prepping for a New Attack on Iran by Creating a Narrative of
+      Government Chaos
+    url: https://sonar21.com/us-and-israel-prepping-for-a-new-attack-on-iran-by-creating-a-narrative-of-government-chaos/
+    text: 'Was it just a coincidence that as Donald Trump met last Monday with Israel’s
+      Bibi Netanyahu to discuss a future attack against Iran that protests, some accompanied
+      by violence, broke out in several cities in Iran? I am not a believer in coincidence.
+      Following that meeting, the US news media — both print and electronic — was flooded
+      with stories painting the protests as a mighty uprising of the Iranian people.
+      A new revolution has begun… or so the Western public is being told. One of the
+      major purveyors of this narrative is the National Council of Resistance of Iran
+      (NCRI) , which is an Iranian exile-based political opposition coalition founded
+      in 1981 in Tehran (later relocated to Paris, France, with activities in Albania).
+      It positions itself as a parliament-in-exile and the primary democratic alternative
+      to the Islamic Republic regime. The NCRI advocates for overthrowing the current
+      government and establishing a secular, democratic, pluralistic, and non-nuclear
+      republic in Iran, emphasizing separation of religion and state, gender equality,
+      human rights, and minority rights. And guess what? The NCRI is the creature of
+      a group the US once labeled as a terrorist organization. The NCRI as a tightly
+      controlled front for the PMOI/MEK , with limited broad support inside Iran. The
+      PMOI was formerly designated a terrorist organization by the US (delisted in 2012)
+      and EU, partly due to past armed actions. The group has been accused of cult-like
+      practices and authoritarian internal structure, though supporters reject these
+      claims and emphasize its democratic platform. The People’s Mojahedin Organization
+      of Iran (PMOI) , also known as Mujahedin-e Khalq (MEK) or Mojahedin-e Khalq Organization
+      (MKO) , is an Iranian opposition group founded in 1965 with a long history of
+      terrorism in Iran. It is the principal component of the National Council of Resistance
+      of Iran (NCRI), which it describes as its political wing.  The People’s Mujahedin
+      Organization of Iran (PMOI/MEK) has a documented history of violent activities,
+      primarily from the 1970s to the early 2000s, which led to its designation as a
+      terrorist organization by the United States (1997–2012), the European Union (until
+      2009), and others. Here is a summary of its terrorist activities since the 1970s:
+      Pre-1979 Revolution (Against the Shah’s Regime) 1970s attacks on U.S. personnel
+      and interests : The MEK killed several American military officers and civilian
+      contractors in Iran (e.g., Lt. Col. Louis Lee Hawkins in 1973). It also bombed
+      US-linked sites, including Pan-American Airlines, Shell Oil, and hotels. Other
+      bombings: Targeted police stations, banks, and multinational corporations (e.g.,
+      1973–1975 bombings in Tehran and Isfahan). These actions were the foundation of
+      its initial designations by the US Government as a terrorist organization.. Post-1979
+      (Against the Islamic Republic) 1981 bombings : A massive bomb at the Islamic Republic
+      Party headquarters (June 28) killed ~73 officials, including Chief Justice Ayatollah
+      Mohammad Beheshti. A second bomb (August 30) killed President Mohammad-Ali Rajaei
+      and Prime Minister Mohammad-Javad Bahonar. Ongoing assassinations: Targeted clerics,
+      officials, and judges (e.g., Ayatollah Abdol Hossein Dastgheib in 1981 via suicide
+      attack). 1990s operations : Coordinated attacks on Iranian embassies in 13 countries
+      (April 1992), including Iran’s UN mission in New York. Assassinated officials
+      like the deputy chief of Iran’s Armed Forces General Staff (1999). 2000–2001 attacks
+      : Mortar raids, hit-and-run operations on military/law enforcement targets near
+      the Iran-Iraq border during “Operation Great Bahman.” Alliance with Iraq (1980s–1990s)
+      Supported Saddam Hussein during the Iran-Iraq War, launching cross-border attacks
+      from Iraq. Allegedly assisted in suppressing Shia and Kurdish uprisings in Iraq
+      (1991). Bet you can’t guess what happened next? Following the March 2003 US-invasion
+      of Iraq, the US government’s relationship with the People’s Mujahedin Organization
+      of Iran (PMOI/MEK) shifted dramatically. Why? Because the US decided to use the
+      PMOI/MEK to attack Iran. Just one more example to the US adopting a terrorist
+      group when it serves its own nefarious purposes. The US initially confined members
+      of MEK to Camp Ashraf, and held them until July 2004 when the US granted all 3,400
+      Camp Ashraf residents “protected persons” status under the Fourth Geneva Convention
+      in June–July 2004 (often attributed to Secretary of Defense Donald Rumsfeld).
+      US troops guarded the camp, preventing attacks and handling defectors (nearly
+      600 during U.S. control). In turn, MEK sources provided information on Iranian
+      activities and threats in Iraq, described by U.S. military officials (e.g., Lt.
+      Col. Julie Norman in 2006) as “helpful” in exposing Iranian interventions and
+      saving soldier lives. One of the strongest advocates for the MEK is John Bolton,
+      Trump’s disgraced former National Security Advisor and ardent Zionist. Bolton
+      attended MEK events as early as 2008 and continued contacts once the MEK was delisted
+      as a terrorist organization (2012). His support aligned with his long-standing
+      hawkish stance on Iran, including calls for bombing and regime change. Speaking
+      at the 2017 Free Iran rally in Paris (widely cited as his most famous MEK speech),
+      Bolton said: The outcome of the president’s policy review should be to determine
+      that the Ayatollah Khomeini’s 1979 revolution will not last until its 40th birthday…
+      And before 2019, we here will celebrate in Tehran! . . . . The declared policy
+      of the United States should be the overthrow of the mullahs’ regime in Tehran…
+      The behavior and the objectives of the regime are not going to change, and therefore
+      the only solution is to change the regime itself.” During the 2022 Free Iran Summit
+      , Bolton proclaimed: There is a viable alternative, the alternative that the MEK
+      and the NCRI are working inside Iran to create. Got the picture? Here is what
+      the NCRI put out today (and it is circulating wildly among the Zionist crowd as
+      proof that their dream of eliminating the Ayatollah is about to be realized):
+      The nationwide uprising in Iran entered a critical new phase on January 1, 2026.
+      What began on December 28, 2025, as a protest by merchants against a catastrophic
+      currency collapse has, by its fifth consecutive day, metamorphosed into a full-scale
+      political insurrection. As of Thursday, January 1, the distinct line between economic
+      grievance and revolutionary demand has dissolved. From the seizure of government
+      buildings in western provinces to the unprecedented chants against the clergy
+      in their traditional stronghold of Qom, the events of the last 24 hours indicate
+      that the wall of fear protecting the theocracy is rapidly crumbling. . . . In
+      the capital, Tehran, the economic unrest that sparked the uprising has hardened
+      into political defiance. At the Central Fruit and Vegetable Market (Meidan Tarebar),
+      a vital hub for the city’s food distribution, merchants and protesters stood firm
+      for the second day. Security forces attempted to break the strike using tear gas,
+      but the market remained paralyzed. The slogans here have shifted decisively away
+      from price complaints to fundamental political demands, with crowds chanting “Death
+      to Khamenei” and “No Gaza, No Lebanon, I Sacrifice my Life for Iran.” The fact
+      of the matter is that the PMOI/MEK/NCRI has been a tool of US and Israeli intelligence
+      services since 2004. MEK has played an important role, especially for Israel,
+      in identifying and assassinating Iran nuclear scientists over the past two decades.
+      MEK’s role at present is to help manufacture protests in Iran and provide a convincing
+      narrative that the Iranian government and the mullahs are in political trouble
+      and will soon be toppled if only the West will intervene. The claim that the rule
+      of the Ayatollah Khameni is on life support or that the government of President
+      Pesezhkian is tottering is nothing more than clever propaganda funded and spread
+      by Western intelligence channels. Yes, there are real protests in Iran and genuine
+      dissatisfaction with an economy ravaged by inflation that is a direct result of
+      Western sanctions. However, based on my recent conversations with Nima — who is
+      visiting Iran for the first time in twelve years — and Professor Marandi, the
+      Western stories painting a dire picture of Iran is nothing more than a twisted
+      Western fantasy. Underlying the NCRI propaganda is a renewed effort by Israel,
+      with the support of the US, to launch a new wave of attacks against Iran’s stockpiles
+      of ballistic missiles. Prior to this week I held out hopes that Israel’s June
+      shellacking by Iran would dissuade it from doing it again… I was wrong. Trump’s
+      meeting with Netanyahu was a prelude — and marked the start of a propaganda campaign
+      to justify a new attack — to the next steps that will culminate in a new assault
+      on the Iranian people, which could possibly entail the use of a nuclear weapon
+      by Israel. Colonel Lawrence Wilkerson and I discussed this issue today with Nima
+      and with Danny Haiphong: I thank you for your invaluable support by taking time
+      to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article questions the timing of protests in Iran coinciding
+      with a meeting between Donald Trump and Bibi Netanyahu about a potential attack
+      on Iran, suggesting that the media's portrayal of these protests as a significant
+      uprising is influenced by the National Council of Resistance of Iran, an opposition
+      group advocating for regime change.
+    paragraph_summary: The article discusses the timing of protests in Iran coinciding
+      with a meeting between Donald Trump and Israeli Prime Minister Bibi Netanyahu,
+      where they allegedly discussed a potential attack on Iran. It questions the narrative
+      presented by Western media, which portrays the protests as a significant uprising
+      against the Iranian regime, largely influenced by the National Council of Resistance
+      of Iran (NCRI). This group, an Iranian exile coalition advocating for a democratic
+      alternative to the Islamic Republic, has a controversial history, having been
+      previously labeled a terrorist organization by the US and EU due to its violent
+      past. The NCRI is closely linked to the People’s Mojahedin Organization of Iran
+      (PMOI/MEK), which has faced accusations of cult-like practices and authoritarianism,
+      despite its claims of promoting democracy and human rights. The article suggests
+      skepticism about the portrayal of the protests and the motivations behind the
+      narratives being pushed by these groups.
+    published: '2026-01-03T05:54:48+00:00'
+  - title: US and Israel Prepping for a New Attack on Iran by Creating a Narrative of
+      Government Chaos
+    url: https://sonar21.com/us-and-israel-prepping-for-a-new-attack-on-iran-by-creating-a-narrative-of-government-chaos/
+    text: 'Was it just a coincidence that as Donald Trump met last Monday with Israel’s
+      Bibi Netanyahu to discuss a future attack against Iran that protests, some accompanied
+      by violence, broke out in several cities in Iran? I am not a believer in coincidence.
+      Following that meeting, the US news media — both print and electronic — was flooded
+      with stories painting the protests as a mighty uprising of the Iranian people.
+      A new revolution has begun… or so the Western public is being told. One of the
+      major purveyors of this narrative is the National Council of Resistance of Iran
+      (NCRI) , which is an Iranian exile-based political opposition coalition founded
+      in 1981 in Tehran (later relocated to Paris, France, with activities in Albania).
+      It positions itself as a parliament-in-exile and the primary democratic alternative
+      to the Islamic Republic regime. The NCRI advocates for overthrowing the current
+      government and establishing a secular, democratic, pluralistic, and non-nuclear
+      republic in Iran, emphasizing separation of religion and state, gender equality,
+      human rights, and minority rights. And guess what? The NCRI is the creature of
+      a group the US once labeled as a terrorist organization. The NCRI as a tightly
+      controlled front for the PMOI/MEK , with limited broad support inside Iran. The
+      PMOI was formerly designated a terrorist organization by the US (delisted in 2012)
+      and EU, partly due to past armed actions. The group has been accused of cult-like
+      practices and authoritarian internal structure, though supporters reject these
+      claims and emphasize its democratic platform. The People’s Mojahedin Organization
+      of Iran (PMOI) , also known as Mujahedin-e Khalq (MEK) or Mojahedin-e Khalq Organization
+      (MKO) , is an Iranian opposition group founded in 1965 with a long history of
+      terrorism in Iran. It is the principal component of the National Council of Resistance
+      of Iran (NCRI), which it describes as its political wing.  The People’s Mujahedin
+      Organization of Iran (PMOI/MEK) has a documented history of violent activities,
+      primarily from the 1970s to the early 2000s, which led to its designation as a
+      terrorist organization by the United States (1997–2012), the European Union (until
+      2009), and others. Here is a summary of its terrorist activities since the 1970s:
+      Pre-1979 Revolution (Against the Shah’s Regime) 1970s attacks on U.S. personnel
+      and interests : The MEK killed several American military officers and civilian
+      contractors in Iran (e.g., Lt. Col. Louis Lee Hawkins in 1973). It also bombed
+      US-linked sites, including Pan-American Airlines, Shell Oil, and hotels. Other
+      bombings: Targeted police stations, banks, and multinational corporations (e.g.,
+      1973–1975 bombings in Tehran and Isfahan). These actions were the foundation of
+      its initial designations by the US Government as a terrorist organization.. Post-1979
+      (Against the Islamic Republic) 1981 bombings : A massive bomb at the Islamic Republic
+      Party headquarters (June 28) killed ~73 officials, including Chief Justice Ayatollah
+      Mohammad Beheshti. A second bomb (August 30) killed President Mohammad-Ali Rajaei
+      and Prime Minister Mohammad-Javad Bahonar. Ongoing assassinations: Targeted clerics,
+      officials, and judges (e.g., Ayatollah Abdol Hossein Dastgheib in 1981 via suicide
+      attack). 1990s operations : Coordinated attacks on Iranian embassies in 13 countries
+      (April 1992), including Iran’s UN mission in New York. Assassinated officials
+      like the deputy chief of Iran’s Armed Forces General Staff (1999). 2000–2001 attacks
+      : Mortar raids, hit-and-run operations on military/law enforcement targets near
+      the Iran-Iraq border during “Operation Great Bahman.” Alliance with Iraq (1980s–1990s)
+      Supported Saddam Hussein during the Iran-Iraq War, launching cross-border attacks
+      from Iraq. Allegedly assisted in suppressing Shia and Kurdish uprisings in Iraq
+      (1991). Bet you can’t guess what happened next? Following the March 2003 US-invasion
+      of Iraq, the US government’s relationship with the People’s Mujahedin Organization
+      of Iran (PMOI/MEK) shifted dramatically. Why? Because the US decided to use the
+      PMOI/MEK to attack Iran. Just one more example to the US adopting a terrorist
+      group when it serves its own nefarious purposes. The US initially confined members
+      of MEK to Camp Ashraf, and held them until July 2004 when the US granted all 3,400
+      Camp Ashraf residents “protected persons” status under the Fourth Geneva Convention
+      in June–July 2004 (often attributed to Secretary of Defense Donald Rumsfeld).
+      US troops guarded the camp, preventing attacks and handling defectors (nearly
+      600 during U.S. control). In turn, MEK sources provided information on Iranian
+      activities and threats in Iraq, described by U.S. military officials (e.g., Lt.
+      Col. Julie Norman in 2006) as “helpful” in exposing Iranian interventions and
+      saving soldier lives. One of the strongest advocates for the MEK is John Bolton,
+      Trump’s disgraced former National Security Advisor and ardent Zionist. Bolton
+      attended MEK events as early as 2008 and continued contacts once the MEK was delisted
+      as a terrorist organization (2012). His support aligned with his long-standing
+      hawkish stance on Iran, including calls for bombing and regime change. Speaking
+      at the 2017 Free Iran rally in Paris (widely cited as his most famous MEK speech),
+      Bolton said: The outcome of the president’s policy review should be to determine
+      that the Ayatollah Khomeini’s 1979 revolution will not last until its 40th birthday…
+      And before 2019, we here will celebrate in Tehran! . . . . The declared policy
+      of the United States should be the overthrow of the mullahs’ regime in Tehran…
+      The behavior and the objectives of the regime are not going to change, and therefore
+      the only solution is to change the regime itself.” During the 2022 Free Iran Summit
+      , Bolton proclaimed: There is a viable alternative, the alternative that the MEK
+      and the NCRI are working inside Iran to create. Got the picture? Here is what
+      the NCRI put out today (and it is circulating wildly among the Zionist crowd as
+      proof that their dream of eliminating the Ayatollah is about to be realized):
+      The nationwide uprising in Iran entered a critical new phase on January 1, 2026.
+      What began on December 28, 2025, as a protest by merchants against a catastrophic
+      currency collapse has, by its fifth consecutive day, metamorphosed into a full-scale
+      political insurrection. As of Thursday, January 1, the distinct line between economic
+      grievance and revolutionary demand has dissolved. From the seizure of government
+      buildings in western provinces to the unprecedented chants against the clergy
+      in their traditional stronghold of Qom, the events of the last 24 hours indicate
+      that the wall of fear protecting the theocracy is rapidly crumbling. . . . In
+      the capital, Tehran, the economic unrest that sparked the uprising has hardened
+      into political defiance. At the Central Fruit and Vegetable Market (Meidan Tarebar),
+      a vital hub for the city’s food distribution, merchants and protesters stood firm
+      for the second day. Security forces attempted to break the strike using tear gas,
+      but the market remained paralyzed. The slogans here have shifted decisively away
+      from price complaints to fundamental political demands, with crowds chanting “Death
+      to Khamenei” and “No Gaza, No Lebanon, I Sacrifice my Life for Iran.” The fact
+      of the matter is that the PMOI/MEK/NCRI has been a tool of US and Israeli intelligence
+      services since 2004. MEK has played an important role, especially for Israel,
+      in identifying and assassinating Iran nuclear scientists over the past two decades.
+      MEK’s role at present is to help manufacture protests in Iran and provide a convincing
+      narrative that the Iranian government and the mullahs are in political trouble
+      and will soon be toppled if only the West will intervene. The claim that the rule
+      of the Ayatollah Khameni is on life support or that the government of President
+      Pesezhkian is tottering is nothing more than clever propaganda funded and spread
+      by Western intelligence channels. Yes, there are real protests in Iran and genuine
+      dissatisfaction with an economy ravaged by inflation that is a direct result of
+      Western sanctions. However, based on my recent conversations with Nima — who is
+      visiting Iran for the first time in twelve years — and Professor Marandi, the
+      Western stories painting a dire picture of Iran is nothing more than a twisted
+      Western fantasy. Underlying the NCRI propaganda is a renewed effort by Israel,
+      with the support of the US, to launch a new wave of attacks against Iran’s stockpiles
+      of ballistic missiles. Prior to this week I held out hopes that Israel’s June
+      shellacking by Iran would dissuade it from doing it again… I was wrong. Trump’s
+      meeting with Netanyahu was a prelude — and marked the start of a propaganda campaign
+      to justify a new attack — to the next steps that will culminate in a new assault
+      on the Iranian people, which could possibly entail the use of a nuclear weapon
+      by Israel. Colonel Lawrence Wilkerson and I discussed this issue today with Nima
+      and with Danny Haiphong: I thank you for your invaluable support by taking time
+      to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article questions the timing of protests in Iran coinciding
+      with a meeting between Donald Trump and Bibi Netanyahu about a potential attack
+      on Iran, suggesting that the media's portrayal of these protests as a significant
+      uprising is influenced by the National Council of Resistance of Iran, an opposition
+      group advocating for regime change.
+    paragraph_summary: The article discusses the timing of protests in Iran coinciding
+      with a meeting between Donald Trump and Israeli Prime Minister Bibi Netanyahu,
+      where they allegedly discussed a potential attack on Iran. It questions the narrative
+      presented by Western media, which portrays the protests as a significant uprising
+      against the Iranian regime, largely influenced by the National Council of Resistance
+      of Iran (NCRI). This group, an Iranian exile coalition advocating for a democratic
+      alternative to the Islamic Republic, has a controversial history, having been
+      previously labeled a terrorist organization by the US and EU due to its violent
+      past. The NCRI is closely linked to the People’s Mojahedin Organization of Iran
+      (PMOI/MEK), which has faced accusations of cult-like practices and authoritarianism,
+      despite its claims of promoting democracy and human rights. The article suggests
+      skepticism about the portrayal of the protests and the motivations behind the
+      narratives being pushed by these groups.
+    published: '2026-01-03T05:54:48+00:00'
+  - title: Yes, the CIA is Lying About the Drone Attack on Putin
+    url: https://sonar21.com/yes-the-cia-is-lying-about-the-drone-attack-on-putin/
+    text: 'Didn’t take the CIA too long to try to debunk Russia’s claim that Ukraine,
+      with the assistance of NATO intelligence, launched 91 drones at the official residence
+      of Vladimir Putin in Novgorod… A CIA report was leaked to the media. The headlines
+      last night — 31 December — in the NY Times and the Wall Street Journal insisted
+      that the Russians were lying. The NY Times proclaimed: Ukraine Did Not Target
+      Putin’s Home, C.I.A. Finds . The WSJ followed suit: U.S. Finds Ukraine Didn’t
+      Target Putin in Drone Strike . Here is a condensed summary of the WSJ article:
+      U.S. national security officials, including assessments from the CIA, concluded
+      that Ukraine did not target Russian President Vladimir Putin or his Valdai country
+      residence in northwestern Russia’s Novgorod region during a recent drone operation.
+      This directly contradicts Moscow’s claims that Kyiv launched 91 drones in an assassination
+      attempt on Putin over the weekend of December 28-29, 2025. According to a U.S.
+      official cited in the article, Ukrainian forces aimed at a military target in
+      the same general region—one they had previously struck—but the site was not near
+      Putin’s residence. No attack occurred on the residence itself. The Russian accusation
+      surfaced shortly after positive U.S.-brokered peace talks between President Donald
+      Trump and Ukrainian President Volodymyr Zelenskyy, with Ukraine denying the claims
+      as an attempt to derail negotiations. President Trump initially expressed anger
+      after Putin raised the issue in a phone call but later appeared to downplay it
+      by sharing a New York Post editorial criticizing Russia’s “bluster” as obstructing
+      peace. Russia provided some details, including drone wreckage and flight path
+      maps, but U.S. intelligence found no evidence supporting an intent to target Putin
+      personally. The findings align with Ukraine’s denials and highlight tensions amid
+      ongoing efforts to end the war. Did you catch the Male Bovine Excrement (MBE)
+      in the so called CIA debunking? Ukrainian forces aimed at a military target in
+      the same general region—one they had previously struck—but the site was not near
+      Putin’s residence. No attack occurred on the residence itself. How does the CIA
+      know that the Ukrainians were aiming at a military target near the Putin residence
+      since all of the drones were shot down? Did the Ukrainians tell their CIA handlers
+      or was it something more sinister. Let’s start with the fact that the CIA tacitly
+      admitted that, as the Russians claimed, 91 drones were shot down. If no drones
+      had been launched — which the Russians already had debunked by showing the flight
+      paths of each — then the CIA should have simply said, “ No drones were launched
+      .” I think it is something potentially more sinister… Did the CIA know about the
+      intended target because CIA personnel provided Ukraine with the targeting data?
+      This may be the reason that the Russians are so furious about a drone attack that
+      didn’t kill anyone. Before introducing my appearances on two recent podcasts I
+      want you to watch a short video that shows how much territory Russia has captured
+      in 2025… Despite Western claims that Russia is creeping forward with great difficulty,
+      the video tells a different story. I closed out 2025 with Scott Horton, author
+      of Provoked , and my brother from another mother, Garland Nixon:'
+    one_sentence_summary: The CIA has leaked a report debunking Russia's claims that
+      Ukraine attempted to assassinate President Putin by launching 91 drones at his
+      residence, asserting that Ukraine did not target him during the operation.
+    paragraph_summary: A recent CIA report has refuted Russia's claims that Ukraine,
+      with NATO intelligence support, attempted to assassinate President Vladimir Putin
+      by launching 91 drones at his residence in Novgorod over the weekend of December
+      28-29, 2025. Major U.S. media outlets, including the New York Times and the Wall
+      Street Journal, reported that U.S. national security officials concluded Ukraine
+      did not target Putin's home, but rather aimed at a military site in the vicinity
+      that had been previously struck. This assertion came shortly after U.S.-brokered
+      peace talks between President Donald Trump and Ukrainian President Volodymyr Zelenskyy,
+      with Ukraine arguing that Russia's accusations were an attempt to disrupt negotiations.
+      While Russia provided some evidence, U.S. intelligence found no proof of an intention
+      to target Putin, aligning with Ukraine's denials and underscoring the ongoing
+      tensions in the conflict.
+    published: '2026-01-02T04:21:50+00:00'
+  - title: Yes, the CIA is Lying About the Drone Attack on Putin
+    url: https://sonar21.com/yes-the-cia-is-lying-about-the-drone-attack-on-putin/
+    text: 'Didn’t take the CIA too long to try to debunk Russia’s claim that Ukraine,
+      with the assistance of NATO intelligence, launched 91 drones at the official residence
+      of Vladimir Putin in Novgorod… A CIA report was leaked to the media. The headlines
+      last night — 31 December — in the NY Times and the Wall Street Journal insisted
+      that the Russians were lying. The NY Times proclaimed: Ukraine Did Not Target
+      Putin’s Home, C.I.A. Finds . The WSJ followed suit: U.S. Finds Ukraine Didn’t
+      Target Putin in Drone Strike . Here is a condensed summary of the WSJ article:
+      U.S. national security officials, including assessments from the CIA, concluded
+      that Ukraine did not target Russian President Vladimir Putin or his Valdai country
+      residence in northwestern Russia’s Novgorod region during a recent drone operation.
+      This directly contradicts Moscow’s claims that Kyiv launched 91 drones in an assassination
+      attempt on Putin over the weekend of December 28-29, 2025. According to a U.S.
+      official cited in the article, Ukrainian forces aimed at a military target in
+      the same general region—one they had previously struck—but the site was not near
+      Putin’s residence. No attack occurred on the residence itself. The Russian accusation
+      surfaced shortly after positive U.S.-brokered peace talks between President Donald
+      Trump and Ukrainian President Volodymyr Zelenskyy, with Ukraine denying the claims
+      as an attempt to derail negotiations. President Trump initially expressed anger
+      after Putin raised the issue in a phone call but later appeared to downplay it
+      by sharing a New York Post editorial criticizing Russia’s “bluster” as obstructing
+      peace. Russia provided some details, including drone wreckage and flight path
+      maps, but U.S. intelligence found no evidence supporting an intent to target Putin
+      personally. The findings align with Ukraine’s denials and highlight tensions amid
+      ongoing efforts to end the war. Did you catch the Male Bovine Excrement (MBE)
+      in the so called CIA debunking? Ukrainian forces aimed at a military target in
+      the same general region—one they had previously struck—but the site was not near
+      Putin’s residence. No attack occurred on the residence itself. How does the CIA
+      know that the Ukrainians were aiming at a military target near the Putin residence
+      since all of the drones were shot down? Did the Ukrainians tell their CIA handlers
+      or was it something more sinister. Let’s start with the fact that the CIA tacitly
+      admitted that, as the Russians claimed, 91 drones were shot down. If no drones
+      had been launched — which the Russians already had debunked by showing the flight
+      paths of each — then the CIA should have simply said, “ No drones were launched
+      .” I think it is something potentially more sinister… Did the CIA know about the
+      intended target because CIA personnel provided Ukraine with the targeting data?
+      This may be the reason that the Russians are so furious about a drone attack that
+      didn’t kill anyone. Before introducing my appearances on two recent podcasts I
+      want you to watch a short video that shows how much territory Russia has captured
+      in 2025… Despite Western claims that Russia is creeping forward with great difficulty,
+      the video tells a different story. I closed out 2025 with Scott Horton, author
+      of Provoked , and my brother from another mother, Garland Nixon:'
+    one_sentence_summary: The CIA has leaked a report debunking Russia's claims that
+      Ukraine attempted to assassinate President Putin by launching 91 drones at his
+      residence, asserting that Ukraine did not target him during the operation.
+    paragraph_summary: A recent CIA report has refuted Russia's claims that Ukraine,
+      with NATO intelligence support, attempted to assassinate President Vladimir Putin
+      by launching 91 drones at his residence in Novgorod over the weekend of December
+      28-29, 2025. Major U.S. media outlets, including the New York Times and the Wall
+      Street Journal, reported that U.S. national security officials concluded Ukraine
+      did not target Putin's home, but rather aimed at a military site in the vicinity
+      that had been previously struck. This assertion came shortly after U.S.-brokered
+      peace talks between President Donald Trump and Ukrainian President Volodymyr Zelenskyy,
+      with Ukraine arguing that Russia's accusations were an attempt to disrupt negotiations.
+      While Russia provided some evidence, U.S. intelligence found no proof of an intention
+      to target Putin, aligning with Ukraine's denials and underscoring the ongoing
+      tensions in the conflict.
+    published: '2026-01-02T04:21:50+00:00'
+  - title: Russia is Treating the Latest Drone Attack on the Putin Residence as Something
+      More Sinister Than Just Another Terrorist Attack
+    url: https://sonar21.com/russia-is-treating-the-latest-drone-attack-on-the-putin-residence-as-something-more-sinister-than-just-another-terrorist-attack/
+    text: 'The furious reaction of Russian officials, the Russian media and the Russian
+      people to the news that Ukraine launched 91 drones at the official residence of
+      Vladimir Putin in Novgorod is remarkable and ominous. While Ukraine continues
+      to deny it carried out such an attack, the West has provided no evidence that
+      rebuts Russia’s claim while the Russian Ministry of Defense has provided video
+      evidence of destroyed drones. Ukrainian officials, along with many supporters
+      in the West, insist that this is a Russian false flag that Moscow is trying to
+      use as an excuse to expand attacks against Ukraine or to justify ending negotiations
+      to conclude the Special Military Operation. That is utterly ridiculous… Russia
+      does not need a new terrorist attack to motivate it to intensify attacks on Ukraine
+      or to terminate the Kabuki theater of finding a viable peace plan. You need only
+      consider the previous Ukrainian-sponsored terrorist attacks that caused far more
+      death and destruction then the latest failed drone attack targeting the official
+      residence of President Putin. Moreover, this is not the first time that Ukraine
+      tried to hit Putin with a drone attack… Remember the May 2023 attack on the Kremlin?
+      Here is the list of the most prominent Ukrainian-sponsored terrorist attacks since
+      2022: Assassination of Darya Dugina (August 20, 2022) A car bomb in Moscow killed
+      journalist and activist Darya Dugina (daughter of ultranationalist Alexander Dugin).
+      Russia’s FSB accused Ukraine’s special services of orchestrating it, claiming
+      a Ukrainian woman carried it out. Although Ukraine denied involvement US intelligence
+      later assessed that elements within the Ukrainian government authorized it. Crimean
+      Bridge Explosion (October 8, 2022) A truck bomb damaged the Kerch Bridge linking
+      Russia to occupied Crimea, killing several civilians. Putin called it a “terrorist
+      act” by Ukrainian services. Ukraine initially denied but later acknowledged responsibility
+      for the attack, claiming the bridge as a legitimate military target. Nord Stream
+      Pipelines Sabotage (September 26, 2022) Underwater explosions damaged the Nord
+      Stream 1 and 2 gas pipelines in the Baltic Sea. Russia accused Ukraine (or Western
+      proxies) of terrorism to disrupt energy supplies. Investigations pointed to sabotage,
+      with later reports (including German warrants) suspecting a Ukrainian team; Ukraine
+      denied state involvement. Assassination Attempts on Pro-Russian Figures and Journalists
+      Russia has labeled multiple killings or attempts (e.g., Vladlen Tatarsky in April
+      2023 café bombing; other bloggers/war correspondents) as Ukrainian terrorism.
+      Drone and Sabotage Attacks on Infrastructure Russia routinely calls Ukrainian
+      drone strikes on oil depots, refineries, airbases, and Moscow buildings “terrorist
+      acts” (hundreds since 2022). Notable: May 2023 Kremlin drone incident (Russia
+      claimed attempt on Putin). Border Incursions/Raids (e.g., Belgorod/Bryansk, 2023–2024)
+      Cross-border raids by anti-Putin Russian partisans (e.g., Russian Volunteer Corps,
+      operating from Ukraine) were branded terrorism by Russia, with claims of Ukrainian
+      backing. Crocus City Hall Concert Attack (March 22, 2024) Gunmen killed 145+ in
+      Moscow suburb. ISIS-K claimed full responsibility (verified by U.S./Western intelligence).
+      Lieutenant General Igor Kirillov (December 17, 2024) : Head of Russia’s Nuclear,
+      Biological, and Chemical Protection Troops. Killed with his assistant by a bomb
+      hidden in an electric scooter outside his Moscow apartment. Ukraine’s SBU claimed
+      responsibility, calling him a “legitimate target” for alleged chemical weapons
+      use. Russia classified it as terrorism. Lieutenant General Yaroslav Moskalik (April
+      25, 2025) : Deputy head of the General Staff’s main operational department. Killed
+      by a car bomb near Moscow. Russia blamed Ukrainian services. In Bryansk Oblast
+      (May 31, 2025) (near Vygonichi) : A highway/road bridge exploded and collapsed
+      onto railway tracks just as a passenger train (Klimovo–Moscow route, carrying
+      ~388 passengers) was passing underneath. The debris crushed parts of the train,
+      killing at least 7 people (including the driver) and injuring 66–113 others (reports
+      vary, including children). Lieutenant General Fanil Sarvarov (December 22, 2025)
+      : Head of the General Staff’s army operational training directorate. Killed by
+      a bomb under his car in southern Moscow. R So why has this latest attack by Ukraine
+      sparked such fury on the part of the Russians? This is something more than orchestrated
+      outrage. I think it is a combination of factors, starting with the fact that the
+      attack began while Ukraine’s Zelensky was meeting with Donald Trump for the ostensible
+      purpose of trying to craft a peace proposal for Russia. Whether Zelensky was witting
+      of the plan is not relevant. This was an attack planned and executed with the
+      assistance of Western intelligence, possibly including the CIA, and the timing
+      and the intended target removed any doubt on the part of the Russians that the
+      West could be trusted to negotiate an honest deal. We still do not know if President
+      Putin was at the residence… If he was, then it is not out of the question for
+      the Russians to conclude that this was a deliberate attempt to kill Putin using
+      the peace talks as a ruse. We will soon find out how pissed off the Russians are
+      when they carry out their promise to retaliate. I believe Russia is planning something
+      more dramatic than launching a 1,000 missiles and drones at power plants and military
+      targets in Ukraine… They have been doing that for more than two years. Both Sergei
+      Lavrov and Dmitry Peskov have publicly accused Western/NATO systems of enabling
+      the Ukrainian strikes. At a minimum I think that makes any Western or NATO advisors
+      now inside Ukraine likely targets of a Russian response. I think we will know
+      the Russian response by Monday. Meanwhile, I was honored with an invitation to
+      appear yesterday (Tuesday) on the podcast hosted by Vive Frei and Robert Barnes.
+      I also was interviewed by Glenn Diesen. And i closed out 2025 with my friend,
+      Daniel Davis: I thank you for your invaluable support by taking time to read or
+      comment. I do not charge a subscription fee nor do I accept advertising. I want
+      the content to be accessible to everyone interested in the issues I am discussing.
+      However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The strong backlash from Russian officials and media regarding
+      Ukraine's alleged drone attack on Putin's residence highlights escalating tensions,
+      with Ukraine denying involvement and suggesting a Russian false flag operation,
+      while Russia presents video evidence of the drones' destruction.
+    paragraph_summary: The recent claim by Russia that Ukraine launched 91 drones at
+      Vladimir Putin's residence has sparked intense reactions from Russian officials,
+      media, and the public, despite Ukraine's denial of involvement. The Russian Ministry
+      of Defense has presented video evidence of destroyed drones, while the West has
+      not provided counter-evidence to disprove Russia's assertions. Ukrainian officials
+      and some Western supporters argue that this could be a Russian false flag operation
+      aimed at justifying escalated attacks on Ukraine or halting peace negotiations.
+      However, the article contends that Russia does not require such provocations to
+      intensify its military actions, citing previous Ukrainian attacks that have caused
+      significant destruction. It also references past incidents, including the assassination
+      of journalist Darya Dugina and the Crimean Bridge explosion, to illustrate Ukraine's
+      history of aggressive actions against Russia.
+    published: '2026-01-01T05:28:35+00:00'
+  - title: Russia is Treating the Latest Drone Attack on the Putin Residence as Something
+      More Sinister Than Just Another Terrorist Attack
+    url: https://sonar21.com/russia-is-treating-the-latest-drone-attack-on-the-putin-residence-as-something-more-sinister-than-just-another-terrorist-attack/
+    text: 'The furious reaction of Russian officials, the Russian media and the Russian
+      people to the news that Ukraine launched 91 drones at the official residence of
+      Vladimir Putin in Novgorod is remarkable and ominous. While Ukraine continues
+      to deny it carried out such an attack, the West has provided no evidence that
+      rebuts Russia’s claim while the Russian Ministry of Defense has provided video
+      evidence of destroyed drones. Ukrainian officials, along with many supporters
+      in the West, insist that this is a Russian false flag that Moscow is trying to
+      use as an excuse to expand attacks against Ukraine or to justify ending negotiations
+      to conclude the Special Military Operation. That is utterly ridiculous… Russia
+      does not need a new terrorist attack to motivate it to intensify attacks on Ukraine
+      or to terminate the Kabuki theater of finding a viable peace plan. You need only
+      consider the previous Ukrainian-sponsored terrorist attacks that caused far more
+      death and destruction then the latest failed drone attack targeting the official
+      residence of President Putin. Moreover, this is not the first time that Ukraine
+      tried to hit Putin with a drone attack… Remember the May 2023 attack on the Kremlin?
+      Here is the list of the most prominent Ukrainian-sponsored terrorist attacks since
+      2022: Assassination of Darya Dugina (August 20, 2022) A car bomb in Moscow killed
+      journalist and activist Darya Dugina (daughter of ultranationalist Alexander Dugin).
+      Russia’s FSB accused Ukraine’s special services of orchestrating it, claiming
+      a Ukrainian woman carried it out. Although Ukraine denied involvement US intelligence
+      later assessed that elements within the Ukrainian government authorized it. Crimean
+      Bridge Explosion (October 8, 2022) A truck bomb damaged the Kerch Bridge linking
+      Russia to occupied Crimea, killing several civilians. Putin called it a “terrorist
+      act” by Ukrainian services. Ukraine initially denied but later acknowledged responsibility
+      for the attack, claiming the bridge as a legitimate military target. Nord Stream
+      Pipelines Sabotage (September 26, 2022) Underwater explosions damaged the Nord
+      Stream 1 and 2 gas pipelines in the Baltic Sea. Russia accused Ukraine (or Western
+      proxies) of terrorism to disrupt energy supplies. Investigations pointed to sabotage,
+      with later reports (including German warrants) suspecting a Ukrainian team; Ukraine
+      denied state involvement. Assassination Attempts on Pro-Russian Figures and Journalists
+      Russia has labeled multiple killings or attempts (e.g., Vladlen Tatarsky in April
+      2023 café bombing; other bloggers/war correspondents) as Ukrainian terrorism.
+      Drone and Sabotage Attacks on Infrastructure Russia routinely calls Ukrainian
+      drone strikes on oil depots, refineries, airbases, and Moscow buildings “terrorist
+      acts” (hundreds since 2022). Notable: May 2023 Kremlin drone incident (Russia
+      claimed attempt on Putin). Border Incursions/Raids (e.g., Belgorod/Bryansk, 2023–2024)
+      Cross-border raids by anti-Putin Russian partisans (e.g., Russian Volunteer Corps,
+      operating from Ukraine) were branded terrorism by Russia, with claims of Ukrainian
+      backing. Crocus City Hall Concert Attack (March 22, 2024) Gunmen killed 145+ in
+      Moscow suburb. ISIS-K claimed full responsibility (verified by U.S./Western intelligence).
+      Lieutenant General Igor Kirillov (December 17, 2024) : Head of Russia’s Nuclear,
+      Biological, and Chemical Protection Troops. Killed with his assistant by a bomb
+      hidden in an electric scooter outside his Moscow apartment. Ukraine’s SBU claimed
+      responsibility, calling him a “legitimate target” for alleged chemical weapons
+      use. Russia classified it as terrorism. Lieutenant General Yaroslav Moskalik (April
+      25, 2025) : Deputy head of the General Staff’s main operational department. Killed
+      by a car bomb near Moscow. Russia blamed Ukrainian services. In Bryansk Oblast
+      (May 31, 2025) (near Vygonichi) : A highway/road bridge exploded and collapsed
+      onto railway tracks just as a passenger train (Klimovo–Moscow route, carrying
+      ~388 passengers) was passing underneath. The debris crushed parts of the train,
+      killing at least 7 people (including the driver) and injuring 66–113 others (reports
+      vary, including children). Lieutenant General Fanil Sarvarov (December 22, 2025)
+      : Head of the General Staff’s army operational training directorate. Killed by
+      a bomb under his car in southern Moscow. R So why has this latest attack by Ukraine
+      sparked such fury on the part of the Russians? This is something more than orchestrated
+      outrage. I think it is a combination of factors, starting with the fact that the
+      attack began while Ukraine’s Zelensky was meeting with Donald Trump for the ostensible
+      purpose of trying to craft a peace proposal for Russia. Whether Zelensky was witting
+      of the plan is not relevant. This was an attack planned and executed with the
+      assistance of Western intelligence, possibly including the CIA, and the timing
+      and the intended target removed any doubt on the part of the Russians that the
+      West could be trusted to negotiate an honest deal. We still do not know if President
+      Putin was at the residence… If he was, then it is not out of the question for
+      the Russians to conclude that this was a deliberate attempt to kill Putin using
+      the peace talks as a ruse. We will soon find out how pissed off the Russians are
+      when they carry out their promise to retaliate. I believe Russia is planning something
+      more dramatic than launching a 1,000 missiles and drones at power plants and military
+      targets in Ukraine… They have been doing that for more than two years. Both Sergei
+      Lavrov and Dmitry Peskov have publicly accused Western/NATO systems of enabling
+      the Ukrainian strikes. At a minimum I think that makes any Western or NATO advisors
+      now inside Ukraine likely targets of a Russian response. I think we will know
+      the Russian response by Monday. Meanwhile, I was honored with an invitation to
+      appear yesterday (Tuesday) on the podcast hosted by Vive Frei and Robert Barnes.
+      I also was interviewed by Glenn Diesen. And i closed out 2025 with my friend,
+      Daniel Davis: I thank you for your invaluable support by taking time to read or
+      comment. I do not charge a subscription fee nor do I accept advertising. I want
+      the content to be accessible to everyone interested in the issues I am discussing.
+      However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The strong backlash from Russian officials and media regarding
+      Ukraine's alleged drone attack on Putin's residence highlights escalating tensions,
+      with Ukraine denying involvement and suggesting a Russian false flag operation,
+      while Russia presents video evidence of the drones' destruction.
+    paragraph_summary: The recent claim by Russia that Ukraine launched 91 drones at
+      Vladimir Putin's residence has sparked intense reactions from Russian officials,
+      media, and the public, despite Ukraine's denial of involvement. The Russian Ministry
+      of Defense has presented video evidence of destroyed drones, while the West has
+      not provided counter-evidence to disprove Russia's assertions. Ukrainian officials
+      and some Western supporters argue that this could be a Russian false flag operation
+      aimed at justifying escalated attacks on Ukraine or halting peace negotiations.
+      However, the article contends that Russia does not require such provocations to
+      intensify its military actions, citing previous Ukrainian attacks that have caused
+      significant destruction. It also references past incidents, including the assassination
+      of journalist Darya Dugina and the Crimean Bridge explosion, to illustrate Ukraine's
+      history of aggressive actions against Russia.
+    published: '2026-01-01T05:28:35+00:00'
+  - title: Reflections on the New Year – and on Jacques Baud
+    url: https://sonar21.com/reflections-on-the-new-year-and-on-jacques-baud/
+    text: '2025 was a year that flew by faster than almost any other before it. A lot
+      has changed—unfortunately for the worse. By Peter Hanseler via ForumGeopolitica.com
+      Jacques Baud – shamefully abandoned by his own country. Understanding the world
+      is becoming increasingly challenging, and just when you think you understand it,
+      everything changes again the next day and you have to start all over again. Most
+      politicians, the players who drive this game, often think about their own fortunes
+      and interests and forget the task entrusted to them by their voters, if they were
+      elected at all, which is becoming less and less the case. As exciting as life
+      is for a geopolitical observer, it is devastating for millions of people who find
+      themselves caught in the web of many conflicting interests and have to watch as
+      their lives and those of their loved ones, their children, mothers, fathers, and
+      neighbors are destroyed. The latest example, which has a name and is well known,
+      is Jacques Baud, who, as the most objective military analyst, was ultimately sanctioned
+      by the EU for committing two crimes: firstly, his analyses were correct, and secondly,
+      they did not correspond to the grotesque wishful thinking of the unelected ladies
+      and gentlemen in Brussels. Jacques Baud – shamefully abandoned by his own country.
+      We recently described the EU as a criminal organization in connection with the
+      theft of Russian assets. Now, as a proud Swiss citizen—but for how much longer?—I
+      have to admit that our government has not only disqualified itself by following
+      Brussels’ lead, but has also allowed a Swiss citizen to be thrown to the wolves,
+      failed to fulfill its duty to protect, and thus demonstrated that even the most
+      objective expert opinions no longer deserve protection from the Swiss government.
+      How do I justify this incredible accusation? – First, the Swiss ambassador in
+      Brussels not only failed to contact Jacques Baud immediately when she learned
+      (December 12) that Jacques Baud would be sanctioned on December 15, but also refused
+      to talk to him when he proactively contacted his country’s embassy. The Swiss
+      Federal Council did not deem it necessary to put the Baud case on the agenda of
+      the Federal Council meeting when it learned that this Swiss patriot, who had served
+      the Swiss Confederation all his life, was to be sanctioned. To me, this borders
+      on treason, and I believe that every single member of the Federal Council, the
+      FDFA, and all employees involved in the Swiss representation in Brussels are liable
+      to criminal and civil prosecution. Federal Councilor Jans made his position clear
+      in response to a question from a journalist from Weltwoche : with a smile, he
+      expressed his obvious delight that the Baud case had not been discussed in the
+      Federal Council. One can also look at the matter positively: Jans and his cohorts
+      cannot sink any lower – we dream of the cultural and social reconstruction of
+      Switzerland. Copyright: Peter Hanseler & Adriano Ackermann Back to our New Year’s
+      wishes. We have already used our New Year’s card once before – in 2022, when the
+      war in Ukraine was still new and an unstable peace still reigned in Gaza before
+      the genocide broke out – nota bene supported and promoted by practically all the
+      media in Switzerland. We put this image away for three years and are now bringing
+      it out again to defiantly present it to humanity once more, in the belief that
+      good will prevail in the end: anything is possible! Part of our team got together
+      with friends for a Christmas celebration on December 19—it was wonderful, but
+      we were all pensive and our thoughts were with Jacques Baud. Delighted to be together,
+      yet thoughtful—Jacques Baud is with us. From left: Ralph Bosshard, Stefano di
+      Lorenzo, Peter Hanseler, Maria Avilova, Auguste Maxime, René Zittlau On behalf
+      of all our authors and staff, I wish you and your loved ones a wonderful holiday
+      season and a peaceful New Year!'
+    one_sentence_summary: The article discusses the rapid and troubling changes of 2025,
+      highlighting the challenges of understanding global dynamics and the neglect of
+      politicians toward their constituents, exemplified by the case of Jacques Baud,
+      who has been abandoned by his own country amidst these conflicts.
+    paragraph_summary: The article discusses the tumultuous year of 2025, highlighting
+      the challenges of understanding global politics as situations rapidly evolve.
+      It criticizes politicians for prioritizing personal interests over their responsibilities
+      to voters, leading to widespread suffering among people caught in conflicting
+      geopolitical interests. A focal point of the article is Jacques Baud, a military
+      analyst who faced EU sanctions for providing accurate analyses that contradicted
+      the EU's narrative. The author expresses disappointment in the Swiss government
+      for failing to protect Baud, suggesting that it has compromised its integrity
+      by aligning with Brussels and neglecting its duty to safeguard its citizens. The
+      piece underscores a growing disillusionment with political leadership and the
+      consequences of their decisions on ordinary lives.
+    published: '2025-12-31T07:36:36+00:00'
+  - title: Reflections on the New Year – and on Jacques Baud
+    url: https://sonar21.com/reflections-on-the-new-year-and-on-jacques-baud/
+    text: '2025 was a year that flew by faster than almost any other before it. A lot
+      has changed—unfortunately for the worse. By Peter Hanseler via ForumGeopolitica.com
+      Jacques Baud – shamefully abandoned by his own country. Understanding the world
+      is becoming increasingly challenging, and just when you think you understand it,
+      everything changes again the next day and you have to start all over again. Most
+      politicians, the players who drive this game, often think about their own fortunes
+      and interests and forget the task entrusted to them by their voters, if they were
+      elected at all, which is becoming less and less the case. As exciting as life
+      is for a geopolitical observer, it is devastating for millions of people who find
+      themselves caught in the web of many conflicting interests and have to watch as
+      their lives and those of their loved ones, their children, mothers, fathers, and
+      neighbors are destroyed. The latest example, which has a name and is well known,
+      is Jacques Baud, who, as the most objective military analyst, was ultimately sanctioned
+      by the EU for committing two crimes: firstly, his analyses were correct, and secondly,
+      they did not correspond to the grotesque wishful thinking of the unelected ladies
+      and gentlemen in Brussels. Jacques Baud – shamefully abandoned by his own country.
+      We recently described the EU as a criminal organization in connection with the
+      theft of Russian assets. Now, as a proud Swiss citizen—but for how much longer?—I
+      have to admit that our government has not only disqualified itself by following
+      Brussels’ lead, but has also allowed a Swiss citizen to be thrown to the wolves,
+      failed to fulfill its duty to protect, and thus demonstrated that even the most
+      objective expert opinions no longer deserve protection from the Swiss government.
+      How do I justify this incredible accusation? – First, the Swiss ambassador in
+      Brussels not only failed to contact Jacques Baud immediately when she learned
+      (December 12) that Jacques Baud would be sanctioned on December 15, but also refused
+      to talk to him when he proactively contacted his country’s embassy. The Swiss
+      Federal Council did not deem it necessary to put the Baud case on the agenda of
+      the Federal Council meeting when it learned that this Swiss patriot, who had served
+      the Swiss Confederation all his life, was to be sanctioned. To me, this borders
+      on treason, and I believe that every single member of the Federal Council, the
+      FDFA, and all employees involved in the Swiss representation in Brussels are liable
+      to criminal and civil prosecution. Federal Councilor Jans made his position clear
+      in response to a question from a journalist from Weltwoche : with a smile, he
+      expressed his obvious delight that the Baud case had not been discussed in the
+      Federal Council. One can also look at the matter positively: Jans and his cohorts
+      cannot sink any lower – we dream of the cultural and social reconstruction of
+      Switzerland. Copyright: Peter Hanseler & Adriano Ackermann Back to our New Year’s
+      wishes. We have already used our New Year’s card once before – in 2022, when the
+      war in Ukraine was still new and an unstable peace still reigned in Gaza before
+      the genocide broke out – nota bene supported and promoted by practically all the
+      media in Switzerland. We put this image away for three years and are now bringing
+      it out again to defiantly present it to humanity once more, in the belief that
+      good will prevail in the end: anything is possible! Part of our team got together
+      with friends for a Christmas celebration on December 19—it was wonderful, but
+      we were all pensive and our thoughts were with Jacques Baud. Delighted to be together,
+      yet thoughtful—Jacques Baud is with us. From left: Ralph Bosshard, Stefano di
+      Lorenzo, Peter Hanseler, Maria Avilova, Auguste Maxime, René Zittlau On behalf
+      of all our authors and staff, I wish you and your loved ones a wonderful holiday
+      season and a peaceful New Year!'
+    one_sentence_summary: The article discusses the rapid and troubling changes of 2025,
+      highlighting the challenges of understanding global dynamics and the neglect of
+      politicians toward their constituents, exemplified by the case of Jacques Baud,
+      who has been abandoned by his own country amidst these conflicts.
+    paragraph_summary: The article discusses the tumultuous year of 2025, highlighting
+      the challenges of understanding global politics as situations rapidly evolve.
+      It criticizes politicians for prioritizing personal interests over their responsibilities
+      to voters, leading to widespread suffering among people caught in conflicting
+      geopolitical interests. A focal point of the article is Jacques Baud, a military
+      analyst who faced EU sanctions for providing accurate analyses that contradicted
+      the EU's narrative. The author expresses disappointment in the Swiss government
+      for failing to protect Baud, suggesting that it has compromised its integrity
+      by aligning with Brussels and neglecting its duty to safeguard its citizens. The
+      piece underscores a growing disillusionment with political leadership and the
+      consequences of their decisions on ordinary lives.
+    published: '2025-12-31T07:36:36+00:00'
   - title: Neocons Premature Celebration Over Protests in Iran
     url: https://sonar21.com/neocons-premature-celebration-over-protests-in-iran/
     text: 'Iran Protests Western media, especially those outlets firmly aligned with

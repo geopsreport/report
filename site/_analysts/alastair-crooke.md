@@ -7,16 +7,169 @@ description: "Ex-MI6 diplomat and founder of Conflicts Forum (Beirut); publishes
 websites:
   - https://www.eurasiareview.com/author/alastair-crooke/
 summary: |
-  As 2025 draws to a close, the global geopolitical landscape remains fraught with volatility, shaped by the Trump Administration’s assertive foreign policy, deepening rifts among traditional allies, and the evolving strategies of key regional actors. Recent developments highlight escalating tensions in the Middle East, a recalibration of U.S. alliances, and the persistent challenge of managing great power competition.
+  As the world enters 2026, the geopolitical landscape is marked by intensifying maneuvering around Iran, shifting U.S.-Israel relations, and a recalibration of American global strategy under President Trump. The latest analyses point to a convergence of political interests and escalating rhetoric that could have far-reaching consequences.
   
-  The most notable new development is the Trump Administration’s aggressive posture towards Iran, as detailed by **Alastair Crooke** in his December 26 analysis. The U.S. has intensified pressure through actions such as the seizure of tankers linked to Venezuela and support for Ukrainian drone strikes on Russian assets. Crooke argues these moves are part of a complex interplay involving U.S. internal divisions and Israel’s strategic interests, particularly Prime Minister Netanyahu’s efforts to draw the U.S. into a direct confrontation with Iran. This approach, however, is complicated by growing Israeli doubts about Trump’s reliability as an ally, especially after his Gaza plan failed to align with Israeli security priorities.
+  Recent developments underscore the alignment between President Trump and Israeli Prime Minister Netanyahu, both facing significant domestic pressures. **Alastair Crooke** notes that Netanyahu’s aggressive posture towards Iran is driven by a need to distract from his legal challenges, while Trump seeks to consolidate his base amid intra-party divisions over continued U.S. support for Israel. This mutual interest has led to heightened talk of a potential military strike on Iran, with Crooke warning that “the precursors for war are in place.” The political calculus in both Washington and Jerusalem appears to be prioritizing short-term domestic gains over long-term regional stability.
   
-  Simultaneously, the U.S. National Security Strategy under Trump continues to pivot away from global hegemony toward a transactional, “America First” model. As Crooke notes, this shift places greater emphasis on economic interests and regional dominance, while pressing European allies to shoulder more responsibility for their own defense and economic stability. This recalibration has led to friction within NATO, with the alliance’s future increasingly uncertain.
+  At the same time, the Trump administration’s broader foreign policy is shifting away from traditional alliances and towards a transactional, “America First” approach. The recently released National Security Strategy, as analyzed by Crooke, emphasizes regional dominance and economic interests over global hegemony. This has manifested in a call for European allies to shoulder more responsibility, particularly regarding defense and the Ukraine conflict, and a willingness to challenge established norms. The U.S. is also recalibrating its stance towards China and Russia, with recent actions—including the seizure of tankers and mixed signals on Ukraine—reflecting a complex interplay of confrontation and negotiation.
   
-  On the Russia front, recent diplomatic engagements—such as the Moscow visit by Steve Witkoff and Jared Kushner—have exposed the limits of U.S. efforts to secure a quick resolution to the Ukraine conflict. Putin’s insistence on a legally binding treaty, rather than a temporary fix, underscores the deep disconnect between Washington and Moscow. Crooke observes that these U.S. initiatives are often more about shaping a narrative of success for domestic audiences than addressing the root causes of conflict.
+  Within Israel, there is growing unease about Trump’s reliability as an ally. Crooke highlights a strategic divergence over Gaza and concerns that U.S. policy is shifting towards economic partnerships at the expense of Israeli security. This has led to fears among Israeli leaders that Trump may no longer be a dependable partner, exacerbating the sense of uncertainty in the region.
   
-  Looking ahead, the prevailing trend is one of escalating risk and strategic uncertainty. The Trump Administration’s assertiveness is likely to provoke further pushback from both adversaries and uneasy allies. As Crooke concludes, “there is a high chance” that the U.S. will face mounting difficulties in maintaining its influence, with the potential for new flashpoints in the Middle East and Eastern Europe. The confidence in a stable, U.S.-led order is waning, and the coming months will most definitely see intensified maneuvering by both established and emerging powers.
+  Looking ahead, the majority of analysts agree that the risk of escalation with Iran is high, given the political incentives for both Trump and Netanyahu. The transactional nature of U.S. foreign policy is likely to persist, with a continued emphasis on economic interests and burden-shifting to allies. There is a high chance that these trends will further destabilize traditional alliances and increase the likelihood of regional conflict, particularly if domestic pressures in the U.S. and Israel intensify. As Crooke concludes, “the stage is set for a period of heightened volatility, with the potential for miscalculation ever-present.”
 articles:
+  - title: 'The Precursors For War Are In Place: Iran Is The Peg To Intense Political
+      Jockeying To Define The Post-Trump Future – OpEd'
+    url: https://www.eurasiareview.com/05012026-the-precursors-for-war-are-in-place-iran-is-the-peg-to-intense-political-jockeying-to-define-the-post-trump-future-oped/
+    text: 'By Alastair Crooke
+
+
+      At the 30 December meeting with Netanyahu and his team, President Trump publicly
+      committed to attacking Iran: If they continue with their ballistic missile program,
+      ‘Yes’. And for their nuclear: ‘Immediate’. “We’ll knock the hell out of them“,
+      Trump said.
+
+
+      By contrast to this belligerency, the Trump language at the Mar-a-Lago meeting
+      reflected only warmth and fulsome praise for Netanyahu and Israel. Publicly, Netanyahu
+      had received Trump’s public backing on an attack on Iran and for Gaza Phase Two,
+      but behind the scenes many of the specifics remained undefined and disputed.
+
+
+      The escalatory language towards Iran was no surprise to Tehran. It had been expected.
+      All the pointers toward coming hostilities are in plain sight: The escalating
+      narrative – “hundreds of al-Qaida sleeper cells ready to unleash carnage; Al-Qaida
+      found safe harbour in Iran for 25 years … [allowing Iran] to supercharge the spread
+      of Islamic fundamentalism”, an ‘infiltrator for MI5 and MI6’ claims. On cue, the
+      Iranian currency falls precipitously – and Iranians take to the streets.
+
+
+      What lies behind this outbreak of U.S.-Israeli militarism? Trump’s bluster about
+      ‘the gates of Hell’ opening to ‘whomsoever’ is familiar to us all now. Nonetheless
+      the signs are that Trump and Netanyahu are aligned for another round of war.
+
+
+      But why should Netanyahu be opting for kinetic action when Israel was so badly
+      scarred by the incoming sophisticated Iranian missiles during the so-called June
+      12-day war – and when Israeli air-defences proved deficient? Iran has been re-arming
+      and preparing for a further round ever since.
+
+
+      Some context is required to explain this otherwise seemingly irrational path being
+      pursued by Israel – given the evident dangers attendant on war with Iran.
+
+
+      The first point to note is that Netanyahu is in trouble. His political downfall
+      has been foretold many times before, yet somehow ‘Houdini’ manages to escape the
+      bonds and cuffs of malign Fate. This time it is more serious. The legal consensus
+      is that Netanyahu is likely to be convicted should his corruption cases reach
+      their conclusion.
+
+
+      But that is only one aspect. The tip of the spear, however, are the ‘Qatargate’
+      allegations – the substance of which is that three members of the PM’s immediate
+      staff have been in the pay of Qatar for the past years, including during the Gaza
+      war (this claim is not disputed). The key issues are: Did Netanyahu know; if not,
+      why not? And what was the benefit being sought by Qatar in exchange for payments?
+      The latter aspect – the return sought by Qatar – is not clear. It is possible
+      that for Qatar it was sufficient to have the PM’s people on the payroll (against
+      a later ‘rainy day’ need).
+
+
+      In Israel, however, the allegations have become explosive. The label “treason”
+      is being bandied about widely, including by former Prime Minister Nafthali Bennett
+      and former Defence Minister Bogie Yalom. Those Israelis of a more cynical bent
+      suggest that the primordial point to the Netanyahu family’s visit to Palm Beach
+      was not so much to discuss Gaza, but rather to progress Trump’s lobbying for a
+      pardon or trial termination – to be urged upon a prevaricating President Hertzog.
+
+
+      In short, Netanyahu is in need of a ‘balloon’ to lift him out of the morass of
+      his legal entanglements and his unfinished wars, and to be wafted aloft through
+      a popular cause by which to win the 2026 general elections. The defeat of Iran,
+      just to be clear, would be applauded – not just by Israelis – but by an enthusiastic
+      U.S. Congress; by donors; and both wings of the Uniparty controlling structures.
+
+
+      For Trump, the calculus would be somewhat different. The principle of avoiding
+      public disputes with Netanyahu was established by former President Biden – not
+      without hiccoughs: “Bibi deliberately sought friction with Biden. With President
+      Trump, he avoids it”, one U.S. official hasnoted. Trump also is personally loath
+      to alienate some of his most loyal donors, such as Miriam Adelson, and commentators
+      such as Mark Levin.
+
+
+      This Trump trajectory can be understood against the backdrop of the divisions
+      over U.S. support for Israel that has been fracturing his MAGA base (and alienating
+      younger Democrats, too). The images coming out of Gaza of dead women and children
+      galvanised the key constituency, Turning Point USA. A big part of the MAGA win
+      in 2024 was due to this youth movement with thousands of chapters, Christian values
+      and high energy. Turning Point USA potentially offers a formidable ‘Get Out the
+      Vote’ operation.
+
+
+      A small group of top GOP party officials, in combination with powerful established
+      politicians and major donors, seeks to block MAGA extending their reach to take
+      control of the Republican Party – thereby threatening the Party leaders’ primacy.
+      This (now) leaderless, yet organically flourishing ‘silent majority’ is silent
+      no more. The Party Control Officers want it tamed and back under control.
+
+
+      Inserting the wedge issue into MAGA – ‘if you do not support the policies of Netanyahu,
+      you are an antisemite, a hater of Israel’ — was done intentionally, with paid
+      influencers fanning the intra-party fracture, aimed at weakening the Movement.
+      The traditional GOP leaders want to regain full control.
+
+
+      From Trump’s perspective, it is entirely possible to support the State of Israel
+      and still be critical of the politics of the current Netanyahu administration.
+      This represents his hoped for compromise that might keep MAGA whole, going into
+      the mid-term elections. Beneath Trump’s Mar-a-Lago Netanyahu strategy lies intense
+      jockeying to control not just the mid-term outcomes, but the shaping of the 2028
+      Presidential election.
+
+
+      The pro-Israel donor faction asserts that Trump (and Vance’s) stance of supporting
+      Israel, whilst questioning its policies, is a false dichotomy: To criticise Israel
+      is ipso facto anti-semitic, Netanyahu insists. This effort to split the MAGA base
+      – using Israel — may or may not work. The problem for these high-level party managers
+      is that their playbook of wedge-driving is now too well understood by Gen Z.
+
+
+      So an U.S.-Israeli war on Iran effectively plays out at different levels other
+      than day-day rationality. It is, of course, centred on Iran; but for the Trump
+      circle, it is also a complicated game of chess about who will end in control of
+      MAGA – and by extension the post-Trump era.
+
+
+      And in Israel, the prospect of war becomes too, a board on which to observe the
+      business of which factions (and their donors) will prevail through the cauldron
+      of the coming war to control the system and define what ‘Israel’ will be. Or rather,
+      what remains of it will be.
+
+
+      Against this, the doubts and concerns of the professional military echelon in
+      Israel, or in the U.S., may be muted out of concern for not being sufficiently
+      ‘on team’ amidst the fervour for war.'
+    one_sentence_summary: The article discusses the alignment between President Trump
+      and Israeli Prime Minister Netanyahu regarding a potential military strike on
+      Iran, highlighting the political motivations behind their aggressive rhetoric
+      and actions, particularly Netanyahu's need to divert attention from his legal
+      troubles and Trump's desire to maintain support among his base while navigating
+      intra-party divisions over U.S. support for Israel.
+    paragraph_summary: In a recent article, Alastair Crooke discusses the escalating
+      tensions between the U.S. and Iran, particularly in light of President Trump's
+      aggressive rhetoric towards Iran during a meeting with Israeli Prime Minister
+      Netanyahu. While Trump expressed strong support for military action against Iran,
+      the dynamics behind this potential conflict are complex, involving Netanyahu's
+      precarious political situation due to corruption allegations and the need for
+      a unifying national cause ahead of the 2026 elections. Crooke suggests that both
+      Trump and Netanyahu are leveraging the prospect of war to solidify their political
+      standings, with Trump navigating internal Republican divisions over support for
+      Israel. The article highlights how the impending conflict with Iran serves as
+      a backdrop for broader political maneuvering within both U.S. and Israeli contexts,
+      where the stakes extend beyond immediate military concerns to the control of political
+      narratives and party dynamics.
+    published: '2026-01-05T16:32:51+00:00'
   - title: Netanyahu’s New Slant To Lure Trump Into War With Iran – OpEd
     url: https://www.eurasiareview.com/26122025-netanyahus-new-slant-to-lure-trump-into-war-with-iran-oped/
     text: 'By Alastair Crooke

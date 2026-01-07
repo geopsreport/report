@@ -7,16 +7,984 @@ description: "Australian satirical anti–war journalist; reader–funded Substa
 websites:
   - https://www.caitlinjohnst.one/
 summary: |
-  As 2025 draws to a close, the geopolitical landscape remains defined by intensifying debates over free speech, government influence, and the boundaries of dissent—particularly in relation to Israel and its critics. The latest developments underscore a growing trend of state and lobby efforts to conflate criticism of Israeli policy with antisemitism, raising concerns about the erosion of civil liberties in Western democracies.
+  The first week of 2026 has seen the consolidation of US imperial policy under President Trump, renewed scrutiny of US interventionism in Venezuela, and ongoing controversy over Israel’s actions in Gaza and its international image.
   
-  The most recent report by **Caitlin Johnstone** highlights the case of Tim Foley, whose name was prominently listed in an Israeli government document that equates online criticism of Israel with antisemitism. Foley is described as a "key influencer" in delegitimizing Israel, with the document specifically referencing his commentary on a recent shooting incident. Johnstone notes that such labeling tactics are increasingly being used to suppress legitimate dissent and to intimidate activists and journalists. This aligns with earlier reporting on the Australian Israel lobby's open calls to ban criticism of Israel, as articulated by AIJAC's Joel Burnie, who argued that combating antisemitism in Australia requires silencing opposition to Israeli actions.
+  Recent developments highlight a shift in the US establishment’s attitude toward Trump’s leadership. As **Caitlin Johnstone** notes, “the US establishment is more accepting of Trump’s presidency this term because he has demonstrated his willingness to pursue imperial agendas,” a marked contrast to their earlier skepticism. This signals a high-confidence prediction that US foreign policy will continue to prioritize traditional imperial interests, regardless of presidential rhetoric or personality.
   
-  Further, Johnstone points out that concerns about pro-Palestine protests—often framed as issues of public order or hate speech—are, in her assessment, largely insincere. She argues that these objections serve as a pretext to shut down criticism of Israel, rather than addressing genuine security or social cohesion concerns. This pattern is visible not only in Australia but also in broader Western discourse, where linking protests to unrelated violent incidents is used to delegitimize opposition voices.
+  In Latin America, the fallout from the US-led operation to abduct Venezuelan President Nicolás Maduro continues to reverberate. **Johnstone** argues the operation was “primarily motivated by the desire to seize Venezuela’s oil resources,” contradicting official narratives about democracy promotion. The majority of independent analysis agrees that US actions in Venezuela are less about ideology and more about resource control, with the Monroe Doctrine invoked as a pretext rather than a genuine guiding principle. This trend is expected to persist, with a high chance of ongoing US interference in the region.
   
-  Looking ahead, the trend of conflating criticism of Israel with antisemitism is expected to continue, with high confidence that Western governments and allied lobbies will intensify efforts to restrict speech under the guise of combating hate. As Johnstone puts it, "true freedom of speech is defined by the ability to oppose government actions, especially in times of injustice." There is a high chance that these dynamics will further polarize societies and provoke pushback from civil liberties advocates, but the prevailing direction remains toward increased suppression of dissent in the name of security and social harmony.
+  Meanwhile, Israel’s ban on 37 international aid organizations—including Doctors Without Borders and Oxfam—from the Palestinian territories has drawn sharp criticism. According to **Johnstone**, these bans are “ostensibly to eliminate aid and suppress witnesses to its actions in Gaza,” amid a broader crackdown on international media and local journalists. The consensus among analysts is that Israel’s efforts to control the narrative and restrict outside scrutiny will intensify, with a high likelihood of further restrictions on both humanitarian and journalistic access.
   
-  In summary, the closing days of 2025 are marked by escalating attempts to police speech and activism around Israel-Palestine, with significant implications for democratic freedoms in the year ahead. The majority of independent analysts predict that unless there is a significant shift in public opinion or political leadership, these trends will most definitely persist into 2026.
+  Looking ahead, the prevailing trends point to a continued hardening of US and Israeli policies on the international stage. The US is most definitely set to maintain its interventionist posture, particularly in Latin America, while Israel is quite likely to escalate measures aimed at controlling information and limiting external oversight in Gaza. The confidence in these predictions is high, given the consistency of recent actions and the alignment of establishment interests.
 articles:
+  - title: The US Empire Needs Men Like Trump
+    url: https://www.caitlinjohnst.one/p/the-us-empire-needs-men-like-trump
+    text: 'Reading by Tim Foley : Subscribe now If you were wondering why the US establishment
+      was so much more chill about Trump becoming president this term than they were
+      the first time around, you’re watching the reason now. The powers that be were
+      assured that he’d carry out longstanding imperial agendas like kidnapping Maduro,
+      bombing Iran and overseeing a final solution to the Palestinian problem, and they
+      trusted him to carry out those plans. The MAGA narrative that the establishment
+      hates Trump because he’s fighting the Deep State has never been true; there were
+      certain factions within the US imperial power structure which disliked Trump,
+      but that was only because he was not a proven commodity like Hillary Clinton and
+      they didn’t trust him to be a reliable steward of the empire. Trump proved that
+      he could be trusted with his advancement of longtime swamp monster agendas throughout
+      his first term, and he plainly did enough during his time out of office to assure
+      his fellow empire managers that he would do even more if re-elected. The empire
+      needs its skillful orators and apologists like Obama, but it also needs its iron-fisted
+      overt tyrants like Trump. It needs good cop presidents to manufacture global consensus
+      and expand US soft power, and it also needs bad cop presidents to inflict the
+      hard power abuses the good cops can’t get away with. Both are essential components
+      to the operation of the imperial machine. Cuba for example has been a socialist
+      island nation off the coast of the United States for generations, because the
+      US hasn’t been able topple its government by its usual means. All the standard
+      CIA assassination ops, proxy warfare and economic blockades were unsuccessful,
+      and there’s been no national or international support for sending US boots on
+      the ground to regime change a small country that poses no military threat. But
+      a last-term bad cop president like Trump has options at his disposal that would
+      be off the table for good cop presidents. US empire managers are discussing this
+      openly. “If I lived in Havana and I was in the government, I’d be concerned, at
+      least a little bit,” said Secretary of State Marco Rubio after Maduro’s capture.
+      “Cuba is ready to fall,” Trump told the press on Sunday next to a delighted Lindsey
+      Graham. “Cuba looks like it’s ready to fall. I don’t know if they’re going to
+      hold out. But Cuba now has no income. They got all of their income from their
+      Venezuela, from the Venezuelan oil. They’re not getting any of it. And Cuba is
+      literally ready to fall.” “You just wait for Cuba,” Graham added. “Cuba is a Communist
+      dictatorship that’s killed priests and nuns, they preyed on their own people.
+      Their days are numbered. We’re gonna wake up one day, I hope in ’26, in our backyard
+      we’re gonna have allies in these countries doing business with America, not narcoterrorist
+      dictators killing Americans.” “Donald Trump will have done something that’s eluded
+      America since the fifties: deal with the Communist dictatorship 90 miles off the
+      coast of Florida,” Graham said on Fox News. “I can’t wait till that day comes.
+      To our Cuban friends in Florida and throughout America, the liberation of your
+      homeland is close.” The Beltway swamp was saying this well before Trump’s Venezuela
+      assault. In October, Senator Rick Scott told 60 Minutes that if Maduro is removed
+      “it’ll be the end of Cuba,” saying “America is gonna take care of the southern
+      hemisphere and make sure there’s freedom and democracy.” Trump’s blatant smash-and-grab
+      violation of international law in Venezuela wouldn’t have worked for a president
+      who’s trying to put a nice guy face on the US empire, but for a wealthy reality
+      TV star who’s comfortable playing the WWE heel, it’s opened up potential power
+      grabs that have been eluding the imperialists for decades. When the news broke
+      that Trump had attacked Caracas I was working on an article about his warmongering
+      with Iran which I had to abandon to focus on the new development. The president
+      had announced on Truth Social that if any of the people protesting in Iran are
+      killed, “the United States of America will come to their rescue,” adding, “We
+      are locked and loaded and ready to go.” Prior to that Trump had confirmed to the
+      press that the US would attack Iran if it tried to rebuild its missile program,
+      saying in a joint news conference with Benjamin Netanyahu that “I hope they’re
+      not trying to build up again because if they are, we’re going have no choice but
+      very quickly to eradicate that buildup.” To be clear, the president is not talking
+      about attacking Iran if it tries to rebuild its nuclear facilities or construct
+      a nuclear weapon. He’s talking about Iran’s conventional ballistic missile program.
+      The United States is saying that Iran simply is not allowed to defend itself in
+      any way, shape or form, and that if it tries to rebuild its ability to do so it
+      will be attacked again. So they’re clearly just making up excuses to bomb Iran
+      and waiting for something to stick. Senator Graham recently tweeted a photo of
+      himself grinning with the president, who was holding a hat which said “MAKE IRAN
+      GREAT AGAIN”. You can pretty much determine how warlike the US empire is from
+      day to day by looking at the expression on Lindsey Graham’s face, and lately he’s
+      been looking positively ecstatic. Trump used to slam warmongers like Graham ,
+      building a huge part of his presidential 2016 campaign around contrasting himself
+      with their disastrous foreign policy platforms. Now that he doesn’t have a re-election
+      to posture for they’re best friends, with Graham proclaiming that “Trump is my
+      favorite president” because “we’re killing all the right people and lowering your
+      taxes”. January 2029 is still a long way off, and we’re seeing every indication
+      that Trump is going to be making Lindsey Graham smile for years to come. __________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Lindsey Graham (public domain) .'
+    one_sentence_summary: The article argues that the US establishment is more accepting
+      of Trump's presidency this term because he has demonstrated his willingness to
+      pursue imperial agendas, contrasting with their initial distrust due to his unpredictability
+      compared to established figures like Hillary Clinton.
+    paragraph_summary: In his article, Tim Foley explores the contrasting reactions
+      of the US establishment to Donald Trump's presidency during his first and second
+      terms, suggesting that the establishment is more accepting of him now because
+      they believe he will execute longstanding imperial agendas, such as military interventions
+      and aggressive foreign policies. He argues that the narrative of Trump as an outsider
+      fighting the Deep State is misleading; while some factions within the power structure
+      were wary of him initially, they have come to trust him due to his actions during
+      his first term and his assurances of further compliance with imperial goals. Foley
+      posits that the US empire requires both "good cop" presidents, who promote soft
+      power and consensus, and "bad cop" presidents like Trump, who can carry out more
+      aggressive and controversial actions that others cannot. He uses Cuba as an example
+      of a nation that has resisted US intervention, highlighting the unique role that
+      a president like Trump could play in pursuing aggressive strategies that are deemed
+      necessary for maintaining US dominance.
+    published: '2026-01-06T02:56:25+00:00'
+  - title: The US Empire Needs Men Like Trump
+    url: https://www.caitlinjohnst.one/p/the-us-empire-needs-men-like-trump
+    text: 'Reading by Tim Foley : Subscribe now If you were wondering why the US establishment
+      was so much more chill about Trump becoming president this term than they were
+      the first time around, you’re watching the reason now. The powers that be were
+      assured that he’d carry out longstanding imperial agendas like kidnapping Maduro,
+      bombing Iran and overseeing a final solution to the Palestinian problem, and they
+      trusted him to carry out those plans. The MAGA narrative that the establishment
+      hates Trump because he’s fighting the Deep State has never been true; there were
+      certain factions within the US imperial power structure which disliked Trump,
+      but that was only because he was not a proven commodity like Hillary Clinton and
+      they didn’t trust him to be a reliable steward of the empire. Trump proved that
+      he could be trusted with his advancement of longtime swamp monster agendas throughout
+      his first term, and he plainly did enough during his time out of office to assure
+      his fellow empire managers that he would do even more if re-elected. The empire
+      needs its skillful orators and apologists like Obama, but it also needs its iron-fisted
+      overt tyrants like Trump. It needs good cop presidents to manufacture global consensus
+      and expand US soft power, and it also needs bad cop presidents to inflict the
+      hard power abuses the good cops can’t get away with. Both are essential components
+      to the operation of the imperial machine. Cuba for example has been a socialist
+      island nation off the coast of the United States for generations, because the
+      US hasn’t been able topple its government by its usual means. All the standard
+      CIA assassination ops, proxy warfare and economic blockades were unsuccessful,
+      and there’s been no national or international support for sending US boots on
+      the ground to regime change a small country that poses no military threat. But
+      a last-term bad cop president like Trump has options at his disposal that would
+      be off the table for good cop presidents. US empire managers are discussing this
+      openly. “If I lived in Havana and I was in the government, I’d be concerned, at
+      least a little bit,” said Secretary of State Marco Rubio after Maduro’s capture.
+      “Cuba is ready to fall,” Trump told the press on Sunday next to a delighted Lindsey
+      Graham. “Cuba looks like it’s ready to fall. I don’t know if they’re going to
+      hold out. But Cuba now has no income. They got all of their income from their
+      Venezuela, from the Venezuelan oil. They’re not getting any of it. And Cuba is
+      literally ready to fall.” “You just wait for Cuba,” Graham added. “Cuba is a Communist
+      dictatorship that’s killed priests and nuns, they preyed on their own people.
+      Their days are numbered. We’re gonna wake up one day, I hope in ’26, in our backyard
+      we’re gonna have allies in these countries doing business with America, not narcoterrorist
+      dictators killing Americans.” “Donald Trump will have done something that’s eluded
+      America since the fifties: deal with the Communist dictatorship 90 miles off the
+      coast of Florida,” Graham said on Fox News. “I can’t wait till that day comes.
+      To our Cuban friends in Florida and throughout America, the liberation of your
+      homeland is close.” The Beltway swamp was saying this well before Trump’s Venezuela
+      assault. In October, Senator Rick Scott told 60 Minutes that if Maduro is removed
+      “it’ll be the end of Cuba,” saying “America is gonna take care of the southern
+      hemisphere and make sure there’s freedom and democracy.” Trump’s blatant smash-and-grab
+      violation of international law in Venezuela wouldn’t have worked for a president
+      who’s trying to put a nice guy face on the US empire, but for a wealthy reality
+      TV star who’s comfortable playing the WWE heel, it’s opened up potential power
+      grabs that have been eluding the imperialists for decades. When the news broke
+      that Trump had attacked Caracas I was working on an article about his warmongering
+      with Iran which I had to abandon to focus on the new development. The president
+      had announced on Truth Social that if any of the people protesting in Iran are
+      killed, “the United States of America will come to their rescue,” adding, “We
+      are locked and loaded and ready to go.” Prior to that Trump had confirmed to the
+      press that the US would attack Iran if it tried to rebuild its missile program,
+      saying in a joint news conference with Benjamin Netanyahu that “I hope they’re
+      not trying to build up again because if they are, we’re going have no choice but
+      very quickly to eradicate that buildup.” To be clear, the president is not talking
+      about attacking Iran if it tries to rebuild its nuclear facilities or construct
+      a nuclear weapon. He’s talking about Iran’s conventional ballistic missile program.
+      The United States is saying that Iran simply is not allowed to defend itself in
+      any way, shape or form, and that if it tries to rebuild its ability to do so it
+      will be attacked again. So they’re clearly just making up excuses to bomb Iran
+      and waiting for something to stick. Senator Graham recently tweeted a photo of
+      himself grinning with the president, who was holding a hat which said “MAKE IRAN
+      GREAT AGAIN”. You can pretty much determine how warlike the US empire is from
+      day to day by looking at the expression on Lindsey Graham’s face, and lately he’s
+      been looking positively ecstatic. Trump used to slam warmongers like Graham ,
+      building a huge part of his presidential 2016 campaign around contrasting himself
+      with their disastrous foreign policy platforms. Now that he doesn’t have a re-election
+      to posture for they’re best friends, with Graham proclaiming that “Trump is my
+      favorite president” because “we’re killing all the right people and lowering your
+      taxes”. January 2029 is still a long way off, and we’re seeing every indication
+      that Trump is going to be making Lindsey Graham smile for years to come. __________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Lindsey Graham (public domain) .'
+    one_sentence_summary: The article argues that the US establishment is more accepting
+      of Trump's presidency this term because he has demonstrated his willingness to
+      pursue imperial agendas, contrasting with their initial distrust due to his unpredictability
+      compared to established figures like Hillary Clinton.
+    paragraph_summary: In his article, Tim Foley explores the contrasting reactions
+      of the US establishment to Donald Trump's presidency during his first and second
+      terms, suggesting that the establishment is more accepting of him now because
+      they believe he will execute longstanding imperial agendas, such as military interventions
+      and aggressive foreign policies. He argues that the narrative of Trump as an outsider
+      fighting the Deep State is misleading; while some factions within the power structure
+      were wary of him initially, they have come to trust him due to his actions during
+      his first term and his assurances of further compliance with imperial goals. Foley
+      posits that the US empire requires both "good cop" presidents, who promote soft
+      power and consensus, and "bad cop" presidents like Trump, who can carry out more
+      aggressive and controversial actions that others cannot. He uses Cuba as an example
+      of a nation that has resisted US intervention, highlighting the unique role that
+      a president like Trump could play in pursuing aggressive strategies that are deemed
+      necessary for maintaining US dominance.
+    published: '2026-01-06T02:56:25+00:00'
+  - title: 'New Issue Of JOHNSTONE: The Empire Stole Venezuela'
+    url: https://www.caitlinjohnst.one/p/new-issue-of-johnstone-the-empire
+    text: 'Subscribe now The new edition of JOHNSTONE is now available to order in print
+      or download as a pay-what-you-want e-book version . As with all my work, everything
+      contained in this magazine is free to reuse, reproduce or republish in any way.
+      It’s not just that they stole Venezuela’s president in order to steal its oil,
+      it’s that they’re working to steal the whole damn country. To steal its sovereignty.
+      Its right to conduct its own affairs on its own terms as an independent nation.
+      Dopey right wingers who learned the phrase “Monroe Doctrine” like ten seconds
+      ago have been mindlessly parroting those words all day to defend Trump’s Venezuela
+      assault, and what’s grating about it is they actually think they’re talking about
+      a real thing. They’re like, “No no it was totally legit, see there’s this thing
+      called the Monroe Doctrine which says we get to control everything that happens
+      in the western hemisphere and treat half the planet like it’s our own personal
+      property.” Really the Monroe Doctrine was just racist US imperialists telling
+      racist European imperialists 200 years ago that the everyone and everything in
+      Latin America belongs to Washington. They were saying “See these brown people
+      over here? These are our brown people. They belong to us. You’re welcome to use
+      and exploit the brown people in Asia and Africa all you want, but these brown
+      people are ours. Only we get to use them.” The briefest moment of critical thought
+      would immediately tell anyone that the Monroe Doctrine has always been made-up
+      nonsense, but these bleating human livestock can’t even be bothered with that.
+      They’re just yelling “Monroe Doctrine! Monroe Doctrine!” like a bunch of trained
+      parrots without the slightest thought as to what it is they’re actually saying.
+      It’s exactly the same as me writing on a piece of paper “Everyone on my street
+      has to do what I say; I control everyone and everything on this street and I get
+      to decide what happens in all these houses and who lives where,” and then calling
+      it The Johnstone Doctrine and treating it like it’s a valid legal document. It’s
+      just some bullshit made up by dead assholes two centuries ago. The fact that they
+      called it a “doctrine” doesn’t make it any more legitimate than if some schmuck
+      wrote it on Twitter today and called it The Monroe Tweet, or said it on TikTok
+      and called it The Monroe TikTok Video. Nothing about it constitutes a valid argument
+      for why it’s fine to invade a sovereign nation and kidnap its leader to steal
+      the country’s oil. It’s the same as just saying “Yeah we stole Venezuela because
+      we wanted to.” Pathetic NPCs. Unthinking empire automatons. It’s so gross when
+      someone opens their mouth to speak and nothing comes out but bullshit they were
+      trained to say by the most powerful people in the world. You can get a paperback
+      copy of this issue by clicking here , or a pay-what-you-feel digital copy by clicking
+      here . Other paperback editions of JOHNSTONE can be purchased by clicking here
+      . Other digital editions can be downloaded by clicking here . You can also get
+      a subscription to the digital versions which will be sent to your inbox every
+      month by clicking here . CONTENTS : They Kidnapped Maduro Because The World Is
+      Ruled By Unaccountable Tyrants … 3 The Blue Whales Have Stopped Singing … 5 How
+      To Heal When The World Is On Fire … 6 New York Times Wants The US Military Built
+      Up For War With China … 8 Trump’s Henchmen Keep Calling Their War Slut President
+      A Peacemaker … 10 The Empire Is Scrambling To Fully Dominate Latin America, And
+      Other Notes … 11 Israel Apologists Hasten To Use Bondi Shooting To Attack Anti-Genocide
+      Activists … 13 Australians Being Massacred Shouldn’t Bother Us More Than Palestinians
+      Being Massacred … 16 Israel Propagandists Are Uniformly Spouting The Exact Same
+      Line About The Bondi Shooting … 19 Trump Moves Closer To War With Venezuela, And
+      Other Notes … 22 The Australian Israel Lobby Is Flat-Out Saying They Want A Ban
+      On Criticism Of Israel … 25 If Israel Gets To Undermine Our Rights, Then We Get
+      To Undermine Israel … 27 If You’re Not Free To Oppose A Genocide, Your Society
+      Is Not Free … 29 Netanyahu Is Visiting Trump For The FIFTH Time This Year, And
+      Other Notes … 30 They Feign Concern About Pro-Palestine Chants In Order To Shut
+      Down Pro-Palestine Protests … 33 The Israeli Government Put My Name At The Top
+      Of An ‘Antisemite’ List … 35 New Year’s Resolutions 2026 … 38 Israel Bans Aid
+      Groups For The Same Reason It Bans Journalists, And Other Notes … 39 Israel And
+      Its Supporters Deliberately Foment Hate And Division In Our Society … 41 Again,
+      you can get a paperback copy of this issue by clicking here , or click here for
+      a digital pay-what-you-feel copy. _________________ Caitlin’s Newsletter is a
+      reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The new edition of JOHNSTONE critiques the U.S. intervention
+      in Venezuela, arguing that it aims to undermine the country's sovereignty and
+      control its resources, while mocking right-wing supporters who misinterpret the
+      Monroe Doctrine as justification for such actions.
+    paragraph_summary: The latest edition of JOHNSTONE is now available for purchase
+      in print or as a pay-what-you-want e-book, with all content free to reuse. The
+      article critiques the U.S. intervention in Venezuela, arguing that it goes beyond
+      merely ousting its president to an attempt to usurp the country's sovereignty
+      and resources. It highlights the misguided support from right-wing individuals
+      who invoke the Monroe Doctrine to justify American dominance in Latin America,
+      portraying it as a historical claim to control the region. The author dismisses
+      the Monroe Doctrine as a relic of racist imperialism, criticizing those who uncritically
+      repeat its tenets without understanding their implications, likening it to a nonsensical
+      assertion of control over a neighborhood.
+    published: '2026-01-05T00:53:41+00:00'
+  - title: 'New Issue Of JOHNSTONE: The Empire Stole Venezuela'
+    url: https://www.caitlinjohnst.one/p/new-issue-of-johnstone-the-empire
+    text: 'Subscribe now The new edition of JOHNSTONE is now available to order in print
+      or download as a pay-what-you-want e-book version . As with all my work, everything
+      contained in this magazine is free to reuse, reproduce or republish in any way.
+      It’s not just that they stole Venezuela’s president in order to steal its oil,
+      it’s that they’re working to steal the whole damn country. To steal its sovereignty.
+      Its right to conduct its own affairs on its own terms as an independent nation.
+      Dopey right wingers who learned the phrase “Monroe Doctrine” like ten seconds
+      ago have been mindlessly parroting those words all day to defend Trump’s Venezuela
+      assault, and what’s grating about it is they actually think they’re talking about
+      a real thing. They’re like, “No no it was totally legit, see there’s this thing
+      called the Monroe Doctrine which says we get to control everything that happens
+      in the western hemisphere and treat half the planet like it’s our own personal
+      property.” Really the Monroe Doctrine was just racist US imperialists telling
+      racist European imperialists 200 years ago that the everyone and everything in
+      Latin America belongs to Washington. They were saying “See these brown people
+      over here? These are our brown people. They belong to us. You’re welcome to use
+      and exploit the brown people in Asia and Africa all you want, but these brown
+      people are ours. Only we get to use them.” The briefest moment of critical thought
+      would immediately tell anyone that the Monroe Doctrine has always been made-up
+      nonsense, but these bleating human livestock can’t even be bothered with that.
+      They’re just yelling “Monroe Doctrine! Monroe Doctrine!” like a bunch of trained
+      parrots without the slightest thought as to what it is they’re actually saying.
+      It’s exactly the same as me writing on a piece of paper “Everyone on my street
+      has to do what I say; I control everyone and everything on this street and I get
+      to decide what happens in all these houses and who lives where,” and then calling
+      it The Johnstone Doctrine and treating it like it’s a valid legal document. It’s
+      just some bullshit made up by dead assholes two centuries ago. The fact that they
+      called it a “doctrine” doesn’t make it any more legitimate than if some schmuck
+      wrote it on Twitter today and called it The Monroe Tweet, or said it on TikTok
+      and called it The Monroe TikTok Video. Nothing about it constitutes a valid argument
+      for why it’s fine to invade a sovereign nation and kidnap its leader to steal
+      the country’s oil. It’s the same as just saying “Yeah we stole Venezuela because
+      we wanted to.” Pathetic NPCs. Unthinking empire automatons. It’s so gross when
+      someone opens their mouth to speak and nothing comes out but bullshit they were
+      trained to say by the most powerful people in the world. You can get a paperback
+      copy of this issue by clicking here , or a pay-what-you-feel digital copy by clicking
+      here . Other paperback editions of JOHNSTONE can be purchased by clicking here
+      . Other digital editions can be downloaded by clicking here . You can also get
+      a subscription to the digital versions which will be sent to your inbox every
+      month by clicking here . CONTENTS : They Kidnapped Maduro Because The World Is
+      Ruled By Unaccountable Tyrants … 3 The Blue Whales Have Stopped Singing … 5 How
+      To Heal When The World Is On Fire … 6 New York Times Wants The US Military Built
+      Up For War With China … 8 Trump’s Henchmen Keep Calling Their War Slut President
+      A Peacemaker … 10 The Empire Is Scrambling To Fully Dominate Latin America, And
+      Other Notes … 11 Israel Apologists Hasten To Use Bondi Shooting To Attack Anti-Genocide
+      Activists … 13 Australians Being Massacred Shouldn’t Bother Us More Than Palestinians
+      Being Massacred … 16 Israel Propagandists Are Uniformly Spouting The Exact Same
+      Line About The Bondi Shooting … 19 Trump Moves Closer To War With Venezuela, And
+      Other Notes … 22 The Australian Israel Lobby Is Flat-Out Saying They Want A Ban
+      On Criticism Of Israel … 25 If Israel Gets To Undermine Our Rights, Then We Get
+      To Undermine Israel … 27 If You’re Not Free To Oppose A Genocide, Your Society
+      Is Not Free … 29 Netanyahu Is Visiting Trump For The FIFTH Time This Year, And
+      Other Notes … 30 They Feign Concern About Pro-Palestine Chants In Order To Shut
+      Down Pro-Palestine Protests … 33 The Israeli Government Put My Name At The Top
+      Of An ‘Antisemite’ List … 35 New Year’s Resolutions 2026 … 38 Israel Bans Aid
+      Groups For The Same Reason It Bans Journalists, And Other Notes … 39 Israel And
+      Its Supporters Deliberately Foment Hate And Division In Our Society … 41 Again,
+      you can get a paperback copy of this issue by clicking here , or click here for
+      a digital pay-what-you-feel copy. _________________ Caitlin’s Newsletter is a
+      reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The new edition of JOHNSTONE critiques the U.S. intervention
+      in Venezuela, arguing that it aims to undermine the country's sovereignty and
+      control its resources, while mocking right-wing supporters who misinterpret the
+      Monroe Doctrine as justification for such actions.
+    paragraph_summary: The latest edition of JOHNSTONE is now available for purchase
+      in print or as a pay-what-you-want e-book, with all content free to reuse. The
+      article critiques the U.S. intervention in Venezuela, arguing that it goes beyond
+      merely ousting its president to an attempt to usurp the country's sovereignty
+      and resources. It highlights the misguided support from right-wing individuals
+      who invoke the Monroe Doctrine to justify American dominance in Latin America,
+      portraying it as a historical claim to control the region. The author dismisses
+      the Monroe Doctrine as a relic of racist imperialism, criticizing those who uncritically
+      repeat its tenets without understanding their implications, likening it to a nonsensical
+      assertion of control over a neighborhood.
+    published: '2026-01-05T00:53:41+00:00'
+  - title: 'New Painting Video: The Monroe Doctrine Is Bullshit'
+    url: https://www.caitlinjohnst.one/p/new-painting-video-the-monroe-doctrine
+    text: 'Subscribe now In which I paint a portrait of Nicolas Maduro and rant about
+      the “Monroe Doctrine”: Reading by Caitlin Johnstone. ________________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. The best way to make sure
+      you see everything I write is to get on my free mailing list . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      social media, books, merch, and audio/video versions of each article . All my
+      work is free to bootleg and use in any way, shape or form; republish it, translate
+      it, use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: Caitlin Johnstone's article critiques Nicolas Maduro and the
+      Monroe Doctrine while promoting her reader-supported newsletter and encouraging
+      financial support for her work.
+    paragraph_summary: In her article, Caitlin Johnstone offers a critical examination
+      of Nicolas Maduro's leadership in Venezuela while also expressing her disdain
+      for the historical implications of the Monroe Doctrine. She emphasizes the need
+      for a nuanced understanding of Maduro's political context and the impact of U.S.
+      foreign policy in Latin America. Johnstone encourages readers to support her work
+      through subscriptions and donations, highlighting her commitment to providing
+      free and accessible content. She also invites readers to engage with her various
+      platforms and supports the idea of sharing her work freely.
+    published: '2026-01-04T12:28:35+00:00'
+  - title: 'New Painting Video: The Monroe Doctrine Is Bullshit'
+    url: https://www.caitlinjohnst.one/p/new-painting-video-the-monroe-doctrine
+    text: 'Subscribe now In which I paint a portrait of Nicolas Maduro and rant about
+      the “Monroe Doctrine”: Reading by Caitlin Johnstone. ________________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. The best way to make sure
+      you see everything I write is to get on my free mailing list . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      social media, books, merch, and audio/video versions of each article . All my
+      work is free to bootleg and use in any way, shape or form; republish it, translate
+      it, use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: Caitlin Johnstone's article critiques Nicolas Maduro and the
+      Monroe Doctrine while promoting her reader-supported newsletter and encouraging
+      financial support for her work.
+    paragraph_summary: In her article, Caitlin Johnstone offers a critical examination
+      of Nicolas Maduro's leadership in Venezuela while also expressing her disdain
+      for the historical implications of the Monroe Doctrine. She emphasizes the need
+      for a nuanced understanding of Maduro's political context and the impact of U.S.
+      foreign policy in Latin America. Johnstone encourages readers to support her work
+      through subscriptions and donations, highlighting her commitment to providing
+      free and accessible content. She also invites readers to engage with her various
+      platforms and supports the idea of sharing her work freely.
+    published: '2026-01-04T12:28:35+00:00'
+  - title: They Kidnapped Maduro Because The World Is Ruled By Unaccountable Tyrants
+    url: https://www.caitlinjohnst.one/p/they-kidnapped-maduro-because-the
+    text: 'Reading by Tim Foley : Subscribe now Well, Trump finally did it. US special
+      forces attacked Venezuela and abducted President Maduro from Caracas, reportedly
+      killing at least 40 people in the process. And now that it’s all over, the White
+      House is getting a lot more honest about the real motives behind its actions.
+      After all those months of babbling about fentanyl and “narcoterrorism” and freedom
+      and democracy, the Trump administration has come right out and admitted that its
+      regime change interventionism in Venezuela has always been a good old-fashioned
+      oil grab. “We’re gonna take back the oil that frankly we should have taken back
+      a long time ago,” Trump told the press following Maduro’s abduction, saying “We’re
+      going to be taking out a tremendous amount of wealth out of the ground, and that
+      wealth is going to the people of Venezuela, and people from outside of Venezuela
+      that used to be in Venezuela, and it goes also to the United States of America
+      in the form of reimbursement for the damages caused us by that country.” “We’re
+      going to have our very large United States oil companies, the biggest anywhere
+      in the world, go in, spend billions of dollars, fix the badly broken infrastructure,
+      the oil infrastructure, and start making money for the country, and we are ready
+      to stage a second and much larger attack if we need to do so,” Trump said. “We
+      have tremendous energy in that country. It’s very important that we protect it.
+      We need that for ourselves, we need that for the world,” the president added .
+      Trump made it explicitly clear that this is going to be some sort of long-term
+      US occupation project, contradicting early claims of his supporters who had defended
+      the president’s actions in Venezuela as a brief in-and-out, one-and-done special
+      ops intervention. “We’re going to run the country until such time as we can do
+      a safe, proper and judicious transition,” Trump said . “So we don’t want to be
+      involved with having somebody else get in. And we have the same situation that
+      we had for the last long period of years. So we are going to run the country until
+      such time as we can do a safe, proper and judicious transition.” “We’re not afraid
+      of boots on the ground,” the president said. “And we have to have, we had boots
+      on the ground last night at a very high level. Actually, we’re not afraid of it,
+      we’re we don’t mind saying it, but we’re going to make sure that that country
+      is run properly. We’re not doing this in vain.” You would think after all these
+      incredibly honest admissions that this was a regime change operation aimed at
+      controlling the resources of the nation with the largest proven oil reserves on
+      the planet, people would get real and accept that they were lied to about the
+      Trump administration’s real reasons for targeting Venezuela. But I am still getting
+      Trump supporters prattling on about drugs and terrorism and democracy in my social
+      media replies defending my criticisms of his monstrous act of war. I had one Trump
+      supporter try to tell me the president’s admissions that it was all about the
+      oil don’t necessarily prove it wasn’t also about fighting drug trafficking, arguing
+      that it could possibly have been motivated by both. Which to me kinda sounds like
+      a grandmother acknowledging that yes, she had been victimized by an email scam,
+      but that doesn’t necessarily mean the nice man who scammed her wasn’t also a Nigerian
+      prince. Trump supporters would make excuses for literally anything he did. Literally
+      anything. I am not using hyperbole for effect. There is literally nothing he could
+      do that they wouldn’t twist themselves into cognitive pretzels trying to justify.
+      Trump is spelling out the truth of what he is and what the US empire is, and anyone
+      with open eyes can see it plain as day. For those whose eyes are open or are beginning
+      to open, I hope you continue learning the same lessons with Venezuela that you
+      learned with Gaza. The US empire always lies, the mass media always facilitate
+      its lies, and the global south continues to be ransacked by the murderous abusers
+      who run things. While I was decrying Trump’s Venezuela assault some empire simp
+      mockingly told me, “It must be sad for you to lose a tyrant.” I told him no, it’s
+      sad for me that we live in a lawless world that is ruled by tyrants. It’s sad
+      for me that we are ruled by chaotic despots who can invade a sovereign nation
+      and abduct its leader and suffer no consequences. It’s sad for me that the people
+      with their hands on the steering wheel of the fate of our species are a bunch
+      of sociopathic thugs who can smash and rob any country they please with total
+      impunity. It’s sad for me that our planet’s population is subject to the whims
+      of a globe-spanning empire which topples governments, wages wars, sponsors genocides,
+      targets civilians with starvation sanctions, backs proxy conflicts, drops bombs,
+      brainwashes entire nations with propaganda, uses its military and economic might
+      to bully and cajole states into bowing to its dictates, and sows suffering, destruction
+      and death around the world every moment of every day. It’s sad for me that these
+      are the people who are making the decisions which will determine humanity’s path
+      into the future. The future of our society. The future of our planet’s resources.
+      The future of our technological innovation. The future of our ecosystem. The future
+      of our militaries. The future of our nuclear weapons. That is what is sad for
+      me. I have no special emotional attachment to Maduro as an individual, but I do
+      have a strong emotional attachment to the possibility of a healthy world emerging
+      in the future. And as things stand right now it’s looking pretty dark. I find
+      that sad. ________________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image is a screen grab from The White House (Fair Use) .'
+    one_sentence_summary: The Trump administration confirmed that the recent U.S. special
+      forces operation to abduct Venezuelan President Maduro was primarily motivated
+      by the desire to seize Venezuela's oil resources, despite earlier claims of combating
+      narcoterrorism and promoting democracy.
+    paragraph_summary: In a dramatic escalation, U.S. special forces have reportedly
+      abducted Venezuelan President Nicolás Maduro, resulting in the deaths of at least
+      40 people, as part of a regime change initiative that President Trump has openly
+      admitted is primarily motivated by the desire to seize Venezuela's oil resources.
+      After months of framing the intervention in terms of combating narcoterrorism
+      and promoting democracy, Trump stated that the U.S. intends to reclaim oil wealth
+      for both Venezuela and the U.S., promising significant investments from American
+      oil companies to restore the country's infrastructure. He emphasized that this
+      intervention would not be a short-term operation, but rather a long-term U.S.
+      occupation aimed at ensuring a controlled transition of power in Venezuela.
+    published: '2026-01-04T00:42:06+00:00'
+  - title: They Kidnapped Maduro Because The World Is Ruled By Unaccountable Tyrants
+    url: https://www.caitlinjohnst.one/p/they-kidnapped-maduro-because-the
+    text: 'Reading by Tim Foley : Subscribe now Well, Trump finally did it. US special
+      forces attacked Venezuela and abducted President Maduro from Caracas, reportedly
+      killing at least 40 people in the process. And now that it’s all over, the White
+      House is getting a lot more honest about the real motives behind its actions.
+      After all those months of babbling about fentanyl and “narcoterrorism” and freedom
+      and democracy, the Trump administration has come right out and admitted that its
+      regime change interventionism in Venezuela has always been a good old-fashioned
+      oil grab. “We’re gonna take back the oil that frankly we should have taken back
+      a long time ago,” Trump told the press following Maduro’s abduction, saying “We’re
+      going to be taking out a tremendous amount of wealth out of the ground, and that
+      wealth is going to the people of Venezuela, and people from outside of Venezuela
+      that used to be in Venezuela, and it goes also to the United States of America
+      in the form of reimbursement for the damages caused us by that country.” “We’re
+      going to have our very large United States oil companies, the biggest anywhere
+      in the world, go in, spend billions of dollars, fix the badly broken infrastructure,
+      the oil infrastructure, and start making money for the country, and we are ready
+      to stage a second and much larger attack if we need to do so,” Trump said. “We
+      have tremendous energy in that country. It’s very important that we protect it.
+      We need that for ourselves, we need that for the world,” the president added .
+      Trump made it explicitly clear that this is going to be some sort of long-term
+      US occupation project, contradicting early claims of his supporters who had defended
+      the president’s actions in Venezuela as a brief in-and-out, one-and-done special
+      ops intervention. “We’re going to run the country until such time as we can do
+      a safe, proper and judicious transition,” Trump said . “So we don’t want to be
+      involved with having somebody else get in. And we have the same situation that
+      we had for the last long period of years. So we are going to run the country until
+      such time as we can do a safe, proper and judicious transition.” “We’re not afraid
+      of boots on the ground,” the president said. “And we have to have, we had boots
+      on the ground last night at a very high level. Actually, we’re not afraid of it,
+      we’re we don’t mind saying it, but we’re going to make sure that that country
+      is run properly. We’re not doing this in vain.” You would think after all these
+      incredibly honest admissions that this was a regime change operation aimed at
+      controlling the resources of the nation with the largest proven oil reserves on
+      the planet, people would get real and accept that they were lied to about the
+      Trump administration’s real reasons for targeting Venezuela. But I am still getting
+      Trump supporters prattling on about drugs and terrorism and democracy in my social
+      media replies defending my criticisms of his monstrous act of war. I had one Trump
+      supporter try to tell me the president’s admissions that it was all about the
+      oil don’t necessarily prove it wasn’t also about fighting drug trafficking, arguing
+      that it could possibly have been motivated by both. Which to me kinda sounds like
+      a grandmother acknowledging that yes, she had been victimized by an email scam,
+      but that doesn’t necessarily mean the nice man who scammed her wasn’t also a Nigerian
+      prince. Trump supporters would make excuses for literally anything he did. Literally
+      anything. I am not using hyperbole for effect. There is literally nothing he could
+      do that they wouldn’t twist themselves into cognitive pretzels trying to justify.
+      Trump is spelling out the truth of what he is and what the US empire is, and anyone
+      with open eyes can see it plain as day. For those whose eyes are open or are beginning
+      to open, I hope you continue learning the same lessons with Venezuela that you
+      learned with Gaza. The US empire always lies, the mass media always facilitate
+      its lies, and the global south continues to be ransacked by the murderous abusers
+      who run things. While I was decrying Trump’s Venezuela assault some empire simp
+      mockingly told me, “It must be sad for you to lose a tyrant.” I told him no, it’s
+      sad for me that we live in a lawless world that is ruled by tyrants. It’s sad
+      for me that we are ruled by chaotic despots who can invade a sovereign nation
+      and abduct its leader and suffer no consequences. It’s sad for me that the people
+      with their hands on the steering wheel of the fate of our species are a bunch
+      of sociopathic thugs who can smash and rob any country they please with total
+      impunity. It’s sad for me that our planet’s population is subject to the whims
+      of a globe-spanning empire which topples governments, wages wars, sponsors genocides,
+      targets civilians with starvation sanctions, backs proxy conflicts, drops bombs,
+      brainwashes entire nations with propaganda, uses its military and economic might
+      to bully and cajole states into bowing to its dictates, and sows suffering, destruction
+      and death around the world every moment of every day. It’s sad for me that these
+      are the people who are making the decisions which will determine humanity’s path
+      into the future. The future of our society. The future of our planet’s resources.
+      The future of our technological innovation. The future of our ecosystem. The future
+      of our militaries. The future of our nuclear weapons. That is what is sad for
+      me. I have no special emotional attachment to Maduro as an individual, but I do
+      have a strong emotional attachment to the possibility of a healthy world emerging
+      in the future. And as things stand right now it’s looking pretty dark. I find
+      that sad. ________________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image is a screen grab from The White House (Fair Use) .'
+    one_sentence_summary: The Trump administration confirmed that the recent U.S. special
+      forces operation to abduct Venezuelan President Maduro was primarily motivated
+      by the desire to seize Venezuela's oil resources, despite earlier claims of combating
+      narcoterrorism and promoting democracy.
+    paragraph_summary: In a dramatic escalation, U.S. special forces have reportedly
+      abducted Venezuelan President Nicolás Maduro, resulting in the deaths of at least
+      40 people, as part of a regime change initiative that President Trump has openly
+      admitted is primarily motivated by the desire to seize Venezuela's oil resources.
+      After months of framing the intervention in terms of combating narcoterrorism
+      and promoting democracy, Trump stated that the U.S. intends to reclaim oil wealth
+      for both Venezuela and the U.S., promising significant investments from American
+      oil companies to restore the country's infrastructure. He emphasized that this
+      intervention would not be a short-term operation, but rather a long-term U.S.
+      occupation aimed at ensuring a controlled transition of power in Venezuela.
+    published: '2026-01-04T00:42:06+00:00'
+  - title: Israel And Its Supporters Deliberately Foment Hate And Division In Our Society
+    url: https://www.caitlinjohnst.one/p/israel-and-its-supporters-deliberately
+    text: 'Reading by Tim Foley : Subscribe now I’ve noticed a lot of angry comments
+      underneath my posts these past few days which bizarrely mention the words “Islam”
+      and “Muslims” completely out of the blue. “Why don’t you turn your attention sometimes
+      to the genocidal intent of the radical Muslims, or does that suit your racist
+      narrative?” reads one tweet . “What can you say about Islamic Jihadists Muslims
+      murdering thousands of Christians in Sudan and other parts of Africa?” reads another
+      . “The muslims must be irradicated,” reads another . There are too many examples
+      to quote here, but here’s what’s so funny about all this: I haven’t been saying
+      anything about Islam or Muslims on Twitter — I’ve been tweeting about Israel.
+      Hasbarists just babble about Islam when they can’t defend Israel’s actions. It
+      is not a coincidence that they’ve been doing this. In September of last year Drop
+      Site News published a leaked polling report that had been commissioned by the
+      Israeli government which found that while Israel’s reputation is crumbling throughout
+      the western world, one way to salvage it would be to foment panic about Muslims.
+      Drop Site reports the following: “Israel’s best tactic to combat this, according
+      to the study, is to foment fear of ‘Radical Islam’ and ‘Jihadism,’ which remain
+      high, the research finds. By highlighting Israeli support for women’s rights and
+      gay rights while elevating concerns that Hamas wants to ‘destroy all Jews and
+      spread Jihadism,’ Israeli support rebounded by an average of over 20 points in
+      each country. ‘Especially once the situation in Gaza is resolved, the room for
+      growth in all countries is very significant,’ the report concludes.” So if you
+      speak critically about Israel online and suddenly find your replies inundated
+      with Zionists shrieking about Islam and Muslims, that’s why. Their research has
+      concluded that convincing westerners to hate Muslims is easier than convincing
+      them to love Israel. In addition to committing genocide and starting wars and
+      working to stomp out free speech throughout the western world, Israel is also
+      doing everything it can to make our society more racist and hateful. A foreign
+      state is actively fomenting division and discord in western countries, in exactly
+      the way western empire apologists claimed Putin was doing at the height of Russia
+      hysteria. But because it’s a western “ally”, nothing is being done to stop it.
+      In addition to being evil and disgusting, this tactic is also just sloppy argumentation.
+      Deflection is the lowest form of argument. Even if Islam really was as dangerous
+      as they pretend it is and even if Muslims really did present a threat to our society,
+      pointing this out would not address a single criticism of Israel. Yelling “Muslims
+      bad!” does not magically erase Israel’s abuses or address the grievances of its
+      critics; it just diverts attention to another target and says “Stop looking at
+      Israel’s actions and hate THOSE people instead!” Mention Israel and you’ll get
+      hasbarists babbling about Islam, but Islam and Israel are not opposites, and the
+      mention of one has no bearing on the other. One is a worldwide religion with nearly
+      two billion adherents, while the other is a genocidal apartheid state. Framing
+      the issue as a conflict between two diametrically opposed parties is a false dichotomy
+      created by propagandists and manipulators. And that’s exactly the false dichotomy
+      Netanyahu is trying to feed into when he tells Americans that Israel is in an
+      alliance with Christianity against “radical Shiite Islam” and “radical Sunni Islam,”
+      calling it “our common Judeo-Christian civilization’s battle.” He’s working to
+      foment fear of Islam among Americans to boost support for Israel. All this to
+      manufacture consent for human butchery and apartheid. Israel could improve its
+      support among westerners by simply ending its genocidal atrocities in Gaza and
+      ceasing to try to start a war between the US and Iran, but instead it’s working
+      around the clock to foment racism and division while demanding increased censorship
+      and authoritarianism to stomp out pro-Palestine sentiment throughout western society.
+      Israel is doing this because it cannot exist in its present iteration as a state
+      without nonstop violence and abuse. Under the political ideology known as Zionism,
+      peace, justice, truth and freedom are simply not an option. __________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: Tim Foley highlights the bizarre and unrelated angry comments
+      he received on his posts about Israel, which inexplicably referenced Islam and
+      Muslims, suggesting that such reactions stem from a defensive tactic used by supporters
+      of Israel when confronted with criticism.
+    paragraph_summary: In a recent article, Tim Foley addresses the surge of angry comments
+      he has received on social media that inexplicably link his discussions about Israel
+      to Islam and Muslims. He points out that these comments often come from individuals
+      defending Israel's actions, suggesting that when they cannot justify Israel's
+      policies, they divert the conversation to Islamophobia. Foley references a leaked
+      Israeli government report which revealed a strategy to improve Israel's reputation
+      by instilling fear of "Radical Islam" and "Jihadism," indicating that promoting
+      anti-Muslim sentiment is seen as an effective way to bolster support for Israel
+      amid declining public opinion. He argues that this tactic reflects a broader strategy
+      to distract from Israel's controversial actions by shifting the focus onto Muslims.
+    published: '2026-01-03T00:24:15+00:00'
+  - title: Israel And Its Supporters Deliberately Foment Hate And Division In Our Society
+    url: https://www.caitlinjohnst.one/p/israel-and-its-supporters-deliberately
+    text: 'Reading by Tim Foley : Subscribe now I’ve noticed a lot of angry comments
+      underneath my posts these past few days which bizarrely mention the words “Islam”
+      and “Muslims” completely out of the blue. “Why don’t you turn your attention sometimes
+      to the genocidal intent of the radical Muslims, or does that suit your racist
+      narrative?” reads one tweet . “What can you say about Islamic Jihadists Muslims
+      murdering thousands of Christians in Sudan and other parts of Africa?” reads another
+      . “The muslims must be irradicated,” reads another . There are too many examples
+      to quote here, but here’s what’s so funny about all this: I haven’t been saying
+      anything about Islam or Muslims on Twitter — I’ve been tweeting about Israel.
+      Hasbarists just babble about Islam when they can’t defend Israel’s actions. It
+      is not a coincidence that they’ve been doing this. In September of last year Drop
+      Site News published a leaked polling report that had been commissioned by the
+      Israeli government which found that while Israel’s reputation is crumbling throughout
+      the western world, one way to salvage it would be to foment panic about Muslims.
+      Drop Site reports the following: “Israel’s best tactic to combat this, according
+      to the study, is to foment fear of ‘Radical Islam’ and ‘Jihadism,’ which remain
+      high, the research finds. By highlighting Israeli support for women’s rights and
+      gay rights while elevating concerns that Hamas wants to ‘destroy all Jews and
+      spread Jihadism,’ Israeli support rebounded by an average of over 20 points in
+      each country. ‘Especially once the situation in Gaza is resolved, the room for
+      growth in all countries is very significant,’ the report concludes.” So if you
+      speak critically about Israel online and suddenly find your replies inundated
+      with Zionists shrieking about Islam and Muslims, that’s why. Their research has
+      concluded that convincing westerners to hate Muslims is easier than convincing
+      them to love Israel. In addition to committing genocide and starting wars and
+      working to stomp out free speech throughout the western world, Israel is also
+      doing everything it can to make our society more racist and hateful. A foreign
+      state is actively fomenting division and discord in western countries, in exactly
+      the way western empire apologists claimed Putin was doing at the height of Russia
+      hysteria. But because it’s a western “ally”, nothing is being done to stop it.
+      In addition to being evil and disgusting, this tactic is also just sloppy argumentation.
+      Deflection is the lowest form of argument. Even if Islam really was as dangerous
+      as they pretend it is and even if Muslims really did present a threat to our society,
+      pointing this out would not address a single criticism of Israel. Yelling “Muslims
+      bad!” does not magically erase Israel’s abuses or address the grievances of its
+      critics; it just diverts attention to another target and says “Stop looking at
+      Israel’s actions and hate THOSE people instead!” Mention Israel and you’ll get
+      hasbarists babbling about Islam, but Islam and Israel are not opposites, and the
+      mention of one has no bearing on the other. One is a worldwide religion with nearly
+      two billion adherents, while the other is a genocidal apartheid state. Framing
+      the issue as a conflict between two diametrically opposed parties is a false dichotomy
+      created by propagandists and manipulators. And that’s exactly the false dichotomy
+      Netanyahu is trying to feed into when he tells Americans that Israel is in an
+      alliance with Christianity against “radical Shiite Islam” and “radical Sunni Islam,”
+      calling it “our common Judeo-Christian civilization’s battle.” He’s working to
+      foment fear of Islam among Americans to boost support for Israel. All this to
+      manufacture consent for human butchery and apartheid. Israel could improve its
+      support among westerners by simply ending its genocidal atrocities in Gaza and
+      ceasing to try to start a war between the US and Iran, but instead it’s working
+      around the clock to foment racism and division while demanding increased censorship
+      and authoritarianism to stomp out pro-Palestine sentiment throughout western society.
+      Israel is doing this because it cannot exist in its present iteration as a state
+      without nonstop violence and abuse. Under the political ideology known as Zionism,
+      peace, justice, truth and freedom are simply not an option. __________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: Tim Foley highlights the bizarre and unrelated angry comments
+      he received on his posts about Israel, which inexplicably referenced Islam and
+      Muslims, suggesting that such reactions stem from a defensive tactic used by supporters
+      of Israel when confronted with criticism.
+    paragraph_summary: In a recent article, Tim Foley addresses the surge of angry comments
+      he has received on social media that inexplicably link his discussions about Israel
+      to Islam and Muslims. He points out that these comments often come from individuals
+      defending Israel's actions, suggesting that when they cannot justify Israel's
+      policies, they divert the conversation to Islamophobia. Foley references a leaked
+      Israeli government report which revealed a strategy to improve Israel's reputation
+      by instilling fear of "Radical Islam" and "Jihadism," indicating that promoting
+      anti-Muslim sentiment is seen as an effective way to bolster support for Israel
+      amid declining public opinion. He argues that this tactic reflects a broader strategy
+      to distract from Israel's controversial actions by shifting the focus onto Muslims.
+    published: '2026-01-03T00:24:15+00:00'
+  - title: Israel Bans Aid Groups For The Same Reason It Bans Journalists, And Other
+      Notes
+    url: https://www.caitlinjohnst.one/p/israel-bans-aid-groups-for-the-same
+    text: 'Reading by Tim Foley : Subscribe now Israel has banned 37 aid groups from
+      working in the Palestinian territories, citing plainly spurious reasons . Among
+      the aid groups banned are Doctors Without Borders (MSF) and Oxfam. Israel banned
+      the aid groups from Gaza for the same reason it continues to ban journalists .
+      Of course it’s about eliminating aid itself, but it’s also about eliminating witnesses.
+      Doctors and aid workers largely became the de facto journalists on the ground
+      in Gaza when Israel banned international news media and began systematically assassinating
+      Gaza-based Palestinian journalists. So Israel wants to get rid of those de facto
+      reporters to hide its crimes. Doctors Without Borders was one of the top humanitarian
+      groups publicly accusing Israel of committing genocide in Gaza in 2025. A lot
+      of what we learned about the Israeli massacres of starving civilians at “Gaza
+      Humanitarian Fund” sites came from MSF doctors describing the gunshot wounds they’d
+      been seeing at medical facilities. MSF were the first to report the horrifying
+      story of IDF soldiers entering hospitals they’d attacked in Gaza and destroying
+      individual pieces of medical equipment to make them unusable, providing unassailable
+      proof that Israel was actually targeting Gaza’s healthcare system itself rather
+      than “Hamas bases in hospitals” as Israel falsely claimed. Doctors Without Borders
+      were constantly putting out reports condemning Israel’s attacks on medical facilities
+      where it had staff, and its doctors often spoke to the western press about the
+      horrors they’d seen in Gaza. And now they’ve been taken out, one of dozens of
+      aid groups who Israel will no longer allow to operate in the occupied Palestinian
+      territories. They took them out for the same reason they took out the journalists,
+      and for the same reason Israel and its supporters try to stomp out speech that
+      is critical of the Gaza holocaust throughout the western world, and for the same
+      reason witnesses who try to tell law enforcement about the crimes of the Mafia
+      tend to go missing. They want to keep their crimes in the dark. ❖ Antiwar’s Dave
+      DeCamp has a new article out titled “ US Bombed Seven Countries in 2025 as Trump
+      Dramatically Expanded Airstrikes ”. Is there anything more embarrassing or self-debasing
+      than continuing to be a Trump supporter in 2026? It’s just degrading and cucky
+      at this point. Trotting alongside Netanyahu and promising to help him bomb Iran
+      while lying and claiming Israel has been “100 percent” abiding by the ceasefire
+      in Gaza. Bombing Venezuela, Nigeria, Somalia, Yemen, Iraq, Iran, Syria, and all
+      those boats off Latin America in a single year after campaigning as the “anti-war”
+      candidate. Stomping out free speech that’s critical of Israel and shoveling money
+      into the Israeli war machine after campaigning on a free speech and America First
+      platform while repeatedly publicly admitting to being bought and owned by Miriam
+      Adelson. Releasing Epstein files so full of redactions the pages look like black
+      slate tiles. If you supported Trump’s campaign platform in 2024, you should hate
+      Donald Trump after 2025. If you don’t you’re just letting him defecate on your
+      face and then saying “Thank you Daddy may I have another?” ❖ I’ve had a number
+      of people demand to know why I haven’t had anything to say about the protests
+      in Iran these past few days. I dunno man, I personally find protests in a country
+      that has nothing to do with me far less interesting than the fact that Israel
+      and its lobby are aggressively pushing my government to stomp out protesting rights
+      here in my own country. ❖ Zionism is the single greatest threat to free speech
+      in the western world. Israel and its supporters. They’re coming for our rights.
+      They’re not even hiding it. Even my saying this will probably get my name on another
+      list in the Israeli government and/or the Australian government, but just the
+      fact that this is something I have to worry about now proves that what I am saying
+      is correct. There is absolutely nothing on earth that poses a more immediate threat
+      to our right to free expression than Israel and its supporters. Israel lobbyists
+      are making no secret that it is their intention to crush our right to speak critically
+      of Israel and the west’s facilitation of its abuses. Just the other day the Executive
+      Manager of the Australia/Israel & Jewish Affairs Council proclaimed that it is
+      criticism of Israel itself that he wants to shut down, saying “I for one as a
+      Jewish leader will no long talk about antisemitism in isolation from Israel, because
+      it’s the rhetoric and language on Israel that motivates the people to come and
+      kill us.” He demanded “no more protests” against Israel in Australia and argued
+      that “language on Israel invading all of our social spaces in Australia have made
+      this country a very unsafe space and place for Jews.” I mean, what else can you
+      call this? How else can you describe it besides as an undisguised agenda to stomp
+      out our right to oppose the abuses of a genocidal apartheid state? This is happening
+      throughout all of western civilization. Nothing else comes anywhere remotely close
+      to presenting such a direct threat to freedom of speech in western liberal democracies.
+      It is necessary to point this out. I didn’t force this issue. They did. ______________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: Israel has banned 37 aid organizations, including Doctors
+      Without Borders and Oxfam, from operating in the Palestinian territories, ostensibly
+      to eliminate aid and suppress witnesses to its actions in Gaza, where it has restricted
+      international media and targeted local journalists.
+    paragraph_summary: Israel has banned 37 aid groups, including prominent organizations
+      like Doctors Without Borders (MSF) and Oxfam, from operating in the Palestinian
+      territories, citing dubious reasons. This move is seen as part of a broader strategy
+      to eliminate both humanitarian aid and independent witnesses to its actions in
+      Gaza, particularly after banning international journalists and targeting Palestinian
+      reporters. MSF has been vocal in condemning Israel's actions, including accusations
+      of genocide and systematic attacks on healthcare facilities, providing critical
+      reports on the humanitarian crisis in Gaza. By removing these aid organizations,
+      Israel aims to suppress evidence of its military actions and maintain control
+      over the narrative surrounding the conflict.
+    published: '2026-01-01T01:22:29+00:00'
+  - title: Israel Bans Aid Groups For The Same Reason It Bans Journalists, And Other
+      Notes
+    url: https://www.caitlinjohnst.one/p/israel-bans-aid-groups-for-the-same
+    text: 'Reading by Tim Foley : Subscribe now Israel has banned 37 aid groups from
+      working in the Palestinian territories, citing plainly spurious reasons . Among
+      the aid groups banned are Doctors Without Borders (MSF) and Oxfam. Israel banned
+      the aid groups from Gaza for the same reason it continues to ban journalists .
+      Of course it’s about eliminating aid itself, but it’s also about eliminating witnesses.
+      Doctors and aid workers largely became the de facto journalists on the ground
+      in Gaza when Israel banned international news media and began systematically assassinating
+      Gaza-based Palestinian journalists. So Israel wants to get rid of those de facto
+      reporters to hide its crimes. Doctors Without Borders was one of the top humanitarian
+      groups publicly accusing Israel of committing genocide in Gaza in 2025. A lot
+      of what we learned about the Israeli massacres of starving civilians at “Gaza
+      Humanitarian Fund” sites came from MSF doctors describing the gunshot wounds they’d
+      been seeing at medical facilities. MSF were the first to report the horrifying
+      story of IDF soldiers entering hospitals they’d attacked in Gaza and destroying
+      individual pieces of medical equipment to make them unusable, providing unassailable
+      proof that Israel was actually targeting Gaza’s healthcare system itself rather
+      than “Hamas bases in hospitals” as Israel falsely claimed. Doctors Without Borders
+      were constantly putting out reports condemning Israel’s attacks on medical facilities
+      where it had staff, and its doctors often spoke to the western press about the
+      horrors they’d seen in Gaza. And now they’ve been taken out, one of dozens of
+      aid groups who Israel will no longer allow to operate in the occupied Palestinian
+      territories. They took them out for the same reason they took out the journalists,
+      and for the same reason Israel and its supporters try to stomp out speech that
+      is critical of the Gaza holocaust throughout the western world, and for the same
+      reason witnesses who try to tell law enforcement about the crimes of the Mafia
+      tend to go missing. They want to keep their crimes in the dark. ❖ Antiwar’s Dave
+      DeCamp has a new article out titled “ US Bombed Seven Countries in 2025 as Trump
+      Dramatically Expanded Airstrikes ”. Is there anything more embarrassing or self-debasing
+      than continuing to be a Trump supporter in 2026? It’s just degrading and cucky
+      at this point. Trotting alongside Netanyahu and promising to help him bomb Iran
+      while lying and claiming Israel has been “100 percent” abiding by the ceasefire
+      in Gaza. Bombing Venezuela, Nigeria, Somalia, Yemen, Iraq, Iran, Syria, and all
+      those boats off Latin America in a single year after campaigning as the “anti-war”
+      candidate. Stomping out free speech that’s critical of Israel and shoveling money
+      into the Israeli war machine after campaigning on a free speech and America First
+      platform while repeatedly publicly admitting to being bought and owned by Miriam
+      Adelson. Releasing Epstein files so full of redactions the pages look like black
+      slate tiles. If you supported Trump’s campaign platform in 2024, you should hate
+      Donald Trump after 2025. If you don’t you’re just letting him defecate on your
+      face and then saying “Thank you Daddy may I have another?” ❖ I’ve had a number
+      of people demand to know why I haven’t had anything to say about the protests
+      in Iran these past few days. I dunno man, I personally find protests in a country
+      that has nothing to do with me far less interesting than the fact that Israel
+      and its lobby are aggressively pushing my government to stomp out protesting rights
+      here in my own country. ❖ Zionism is the single greatest threat to free speech
+      in the western world. Israel and its supporters. They’re coming for our rights.
+      They’re not even hiding it. Even my saying this will probably get my name on another
+      list in the Israeli government and/or the Australian government, but just the
+      fact that this is something I have to worry about now proves that what I am saying
+      is correct. There is absolutely nothing on earth that poses a more immediate threat
+      to our right to free expression than Israel and its supporters. Israel lobbyists
+      are making no secret that it is their intention to crush our right to speak critically
+      of Israel and the west’s facilitation of its abuses. Just the other day the Executive
+      Manager of the Australia/Israel & Jewish Affairs Council proclaimed that it is
+      criticism of Israel itself that he wants to shut down, saying “I for one as a
+      Jewish leader will no long talk about antisemitism in isolation from Israel, because
+      it’s the rhetoric and language on Israel that motivates the people to come and
+      kill us.” He demanded “no more protests” against Israel in Australia and argued
+      that “language on Israel invading all of our social spaces in Australia have made
+      this country a very unsafe space and place for Jews.” I mean, what else can you
+      call this? How else can you describe it besides as an undisguised agenda to stomp
+      out our right to oppose the abuses of a genocidal apartheid state? This is happening
+      throughout all of western civilization. Nothing else comes anywhere remotely close
+      to presenting such a direct threat to freedom of speech in western liberal democracies.
+      It is necessary to point this out. I didn’t force this issue. They did. ______________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: Israel has banned 37 aid organizations, including Doctors
+      Without Borders and Oxfam, from operating in the Palestinian territories, ostensibly
+      to eliminate aid and suppress witnesses to its actions in Gaza, where it has restricted
+      international media and targeted local journalists.
+    paragraph_summary: Israel has banned 37 aid groups, including prominent organizations
+      like Doctors Without Borders (MSF) and Oxfam, from operating in the Palestinian
+      territories, citing dubious reasons. This move is seen as part of a broader strategy
+      to eliminate both humanitarian aid and independent witnesses to its actions in
+      Gaza, particularly after banning international journalists and targeting Palestinian
+      reporters. MSF has been vocal in condemning Israel's actions, including accusations
+      of genocide and systematic attacks on healthcare facilities, providing critical
+      reports on the humanitarian crisis in Gaza. By removing these aid organizations,
+      Israel aims to suppress evidence of its military actions and maintain control
+      over the narrative surrounding the conflict.
+    published: '2026-01-01T01:22:29+00:00'
   - title: New Year's Resolutions 2026
     url: https://www.caitlinjohnst.one/p/new-years-resolutions-2026
     text: 'Reading by Tim Foley : Subscribe now Do some landscape paintings Start a

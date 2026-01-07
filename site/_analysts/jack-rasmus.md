@@ -7,16 +7,508 @@ description: "Jack Rasmus is an American economist, author, and radio show host 
 websites:
   - https://jackrasmus.com/
 summary: |
-  As 2025 draws to a close, global economic and geopolitical instability continues to intensify, with Western financial markets, US domestic policy, and the Ukraine conflict all at critical junctures. The most recent analysis by **Jack Rasmus** highlights several urgent developments.
+  The geopolitical landscape entering January 2026 is marked by intensifying instability within the United States and its global posture, as highlighted by recent analyses. The Trump administration’s domestic and foreign policies are increasingly characterized by what **Jack Rasmus** describes as a “decline into lawlessness,” with the government resorting to paramilitary and special operations tactics both at home and abroad. This shift is compounded by escalating political conflict, as both major parties weaponize the legal system for partisan advantage, further eroding institutional norms.
   
-  A key new development is Europe’s controversial proposal to seize frozen Russian assets to fund Ukraine’s war effort. **Jack Rasmus** notes that this move, currently under heated debate, signals a shift in Western strategy—escalating economic warfare against Russia as direct military support becomes politically and financially strained. He warns that such a precedent could further destabilize international financial systems, especially if Russia or other states retaliate against Western holdings. The majority view among analysts is that this asset seizure, if implemented, will most definitely provoke countermeasures from Moscow, with high risk of contagion in global markets.
+  On the economic front, the US continues to grapple with the aftershocks of aggressive tax cuts, tariffs, and monetary interventions. According to **Jack Rasmus**, these measures have failed to deliver substantive growth in the real economy, instead fueling asset bubbles and exacerbating fiscal imbalances. The national debt is projected to hit $38 trillion by the end of 2025, and there is a “high chance” that recessionary pressures will intensify in the coming months, given ongoing manufacturing contraction and stagnant housing markets.
   
-  Meanwhile, the US real economy shows persistent weakness beneath the surface. Despite headlines touting AI-driven profits, **Rasmus** points out the limitations of AI as a sustainable growth engine. Consumer spending remains hampered by inflation, manufacturing continues to contract, and new housing starts are stagnant. These indicators, combined with ongoing volatility in financial asset bubbles—spanning stocks, cryptocurrencies, and gold—suggest that the US is teetering on the edge of recession. There is a high chance, according to Rasmus, that the US will enter a recession in early 2026.
+  Internationally, the Trump administration’s approach remains unpredictable. The recent use of force against Iran, following misleading diplomatic overtures, signals a willingness to initiate new conflicts despite campaign promises to end “forever wars.” This pattern, alongside the administration’s push to leverage frozen Russian assets and reduce US involvement in Ukraine, points to a broader strategy of transactional engagement and unilateral action.
   
-  On the geopolitical front, the US and Europe’s Ukraine strategies are increasingly shaped by domestic economic constraints and shifting public opinion. The European asset seizure proposal and the US’s evolving stance—reflected in President Trump’s recent negotiation overtures and the revised Ukraine Minerals Deal—point to a gradual but unmistakable retreat from maximalist goals in Ukraine. Rasmus hints at upcoming discussions on US strategic downsizing and Germany’s military rearmament, suggesting a broader rebalancing of NATO priorities.
-  
-  In summary, the trends point toward escalating financial and geopolitical volatility. The majority of independent analysts, including **Jack Rasmus**, most definitely predict further instability in asset markets and a high likelihood of retaliatory moves by Russia if European asset seizures proceed. The US economy is quite likely to enter recession, and Western policy on Ukraine is set to become more cautious and transactional as fiscal and political pressures mount.
+  Looking ahead, **Jack Rasmus** predicts with high confidence that the US will face mounting economic and political turbulence through 2026. The erosion of legal norms, combined with fiscal instability and volatile foreign policy, suggests that both domestic unrest and international uncertainty will persist. The majority view among analysts is that these trends are unlikely to reverse in the near term, and may, in fact, accelerate as the administration seeks to navigate multiple crises simultaneously.
 articles:
+  - title: Venezuela vs. the Empire
+    url: https://jackrasmus.com/2026/01/06/venezuela-vs-the-empire/
+    text: 'My analysis of latest events in light of the reaction of US neocons and political
+      elite to the declining US Empire: The USA is descending into a state of general
+      lawlessness, at home and abroad. From using domestic special ops paramilitary
+      units (ICE) to kidnap people off the streets of America and send them abroad,
+      the US government is now deploying secret special ops military units (Delta Force)
+      to snatch foreign heads of governments from their homes and sending them to jail
+      in the US. Political human trafficking has become the rule of law in America under
+      the current Trump administration! Before 2025, the two political parties engaged
+      in a crescendo of lawfare actions against each other, employing the FBI, the courts
+      and even the CIA behind the scene to destroy each other. Both parties engaged
+      in abuse of the rule of law, pardoning family, rich friends, and business partners
+      to protect themselves and their personal relations, rendering a travesty of the
+      fiction that in America no one is above the law. Senior politicians of both enriched
+      themselves, becoming multi-millionaires after leaving office after arranging special
+      deals while in. The recent US invasion of Venezuela a gross violation of international
+      law. A hypocritical disrespect for sovereign boundaries that US neocon ideologues
+      and their echo chamber captured US media have leveled at Russia in Ukraine the
+      past four years. Trump himself has publicly admitted the invasion of Venezuela
+      was intended to secure US economic control of Venezuela’s natural resources, especially
+      its oil reserves. In other words, good old fashion naked US imperialism, intended
+      to grab another country’s natural resources. The excuse was the nonsense charges
+      of narco drug trafficking—i.e. the US neocons’ substitute excuse for WMD’s, weapons
+      of mass destruction, used before in Iraq, Syria, Libya to justify US military
+      intervention. WMDs couldn’t be levied at Venezuela. Wouldn’t work. Nor would past
+      excuses for US imperial intervention like ‘Remember the Maine’. ‘Tonkin Gulf’.
+      Or ‘Killing Incubator Babies’. The neocons needed a new fake excuse for US imperial
+      military intervention in Venezuela. So they looked into their magic bag of false
+      flags, fake excuses, and CIA lies and pulled out  ‘Narco drug trafficking’. That
+      works better for Latin America imperial interventions—as former president of Panama,
+      Noriega, found out in 1989. Watch out Colombia president Gustavo Petro who defended
+      Venezuela sovereignty and criticized Trump’s Venezuela action. And heed the warning
+      Mexico president, Sheinbaum! You’re the next Trump targets. Ditto Cuba. Does Greenland
+      have a president Trump can threaten? Wonder what that excuse will be. Maybe the
+      US must invade because ‘Chinese ships are melting the ice cap’. And make no mistake.
+      Trump’s not only engaged in naked military imperialism in Venezuela to enact regime
+      change. His big mouth ‘spilled the beans’ that the US plans to install a new colonialism
+      as well. Within 24 hrs. he declared publicly the US intends to ‘rule’ Venezuela
+      directly until such time as a proper puppet regime can be put in place. Direct
+      rule constitutes a colonial form of imperialism. As the saying goes, the truth
+      is often spoken from the mouth of a drunkard. And Trump is a big mouth bragger,
+      drunk with power. And he’s saying directly what the US neocon imperialist elite
+      behind him (Rubio, Walz, Graham, CIA spooks, etc.) are really thinking and planning.
+      In an attempt to cover up Trump’s careless blurting out the blunt truth, Trump
+      neocon cronies like Rubio quickly rushed to the US media echo chamber to try to
+      put lipstick on the ‘US will rule’ pig, saying the US has no such plans. Another
+      Trump neocon, Walz, former NSA to Trump and now ambassador to the UN, in his emergency
+      speech to the UN argued the kidnapping of Venezuela president, Maduro, was not
+      about creating colonial rule; it wasn’t even a military operation—according to
+      Walz. It was just a police operation. Some police operation, accompanied by a
+      fleet of 17 US warships, aircraft carriers, submarines, and 10,000 marines stationed
+      in nearby Trinidad island! Rubio added the US only wants to bring Maduro to New
+      York to stand trial, as he conveniently avoided any mention that the US navy is
+      continuing to blockade all shipping from Venezuela. The US has no further military
+      plans! Really? Anyone wanna buy a bridge from the man? This is crass, US gunboat
+      imperialism reminiscent of the early 20 th century when the US invaded Latin American
+      countries by the dozens. It is also a harbinger of US plans to impose some new
+      form of colonialism on Venezuela, and who knows what other Latin American countries
+      who dare to try to walk an independent path from the US Empire. Trump and his
+      crony neocons will try to cover up their plans for some new kind of colonialism
+      if they can with CIA managed new elections this spring, the outcome of which is
+      already pre-determined. The US designated next president, Machado, is already
+      packing her bags and on her way to Caracas, no doubt with an escort of US agents
+      of course who’ll accompany her throughout the forthcoming phony election campaign.
+      US imperialism has never given up on regime change in Venezuela for the past quarter
+      century. Just like it has never with Iran for nearly half a century. Nor Cuba
+      for the past 65 years. The Bush administration in 2002 thought it had achieved
+      regime change deposing then Venezuelan president, former General Chavez. He nationalized
+      US oil interests in the country. The most unholy of capitalist sins! But the deposing
+      of Chavaz was short lived as he was rescued and re-installed as president by the
+      people and Armed forces of Venezuela quickly. Under Obama the CIA continued deep
+      financial and other aid to opposition movements to overturn Venezuelan elections,
+      to little avail. Venezuelan public support was too great despite the US launching
+      a classic economic war on Venezuela, wrecking its currency, stoking inflation,
+      preventing its sale of oil exports and receipt of necessary medical and food imports.
+      Their candidates kept losing national elections nonetheless. Under Trump in 2018-19
+      the CIA efforts intensified, seizing Venezuelan gold in western banks and Venezuela’s
+      CITGO oil distribution company in the US and giving the money from its sale to
+      Venezuelan opposition movements. Still no success in regime change via electoral
+      intervention. US CIA and regime change ops were temporarily put on hold with the
+      arrival of the Covid recession in the US in 2020, followed by US chaotic exit
+      from Afghanistan in 2021, and implementation in 2022 of bigger US plans to engineer
+      a proxy war in Ukraine against Russia. Once Trump returned to office in January
+      2025, however, Venezuelan regime change was placed on the US foreign policy front
+      burner once again. This time the Empire planned to do it right—which meant not
+      relying solely on CIA electoral interference in Venezuela, as in the past, but
+      taking the gloves off and doing regime change by means of US special ops intervention
+      and direct US military action! The Emperor removed his clothes and waded in waist
+      deep. Perhaps over his head, as time will only tell! One should not lose sight
+      of the bigger picture behind the Venezuelan invasion. It is not a standalone,
+      one off operation. I’m sure the governments of Colombia, Mexico and Cuba will
+      agree. The Venezuela operation is part of US neocon forces and imperialists refocusing
+      on the Empire’s western hemisphere base that it had partly neglected while preoccupied
+      in the middle east and eastern Europe (Ukraine and Caucasus). The Empire had let
+      the western hemisphere go unattended. In the interim, when it was preoccupied
+      on the other side of the world, and while planning long term to engage China in
+      Taiwan, other challengers to Empire intervened quietly in Latin America. China
+      in particular. In the past decade, China invested heavily as part of its global
+      ‘Belt and Road’ infrastructure building program in Latin America. It bought up
+      ports in Panama and started other projects there. It struck deals in Mexico to
+      build the largest EV auto plant in north America that might then export under
+      free trade to the US auto market. It started building ports in Ecuador and Peru.
+      It had plans to build a railroad link from that latter country through the Amazon
+      to Brazil. And it loaned Venezuela more than $100 billion for infrastructure projects
+      and oil infrastructure modernization. Most important, it also started buying large
+      quantities of Venezuela oil. The US imperialists want that oil. The US pumps 13m
+      barrels a day, the most in the world, and is sucking its own fracking wells dry
+      in the next decade. Moreover, it needs more oil to sell to its European allies
+      since the US chased the Russians out of Europe. Where to get it? Next door Venezuela
+      of course. The Trump administration, and US neocon imperialists’, have turned
+      back to the western hemisphere to try to restore US economic hegemony over the
+      region. That meant driving China and its investments out of Latin America, and
+      especially Venezuela to secure its future oil supplies. In the first year of Trump’s
+      term in office, the US threatened Mexico with US drones and special ops; in response
+      Mexico canceled its EV deal with China. It threatened Panama with a repeat of
+      the US 1989 invasion; Panama canceled its projects with China and US private equity
+      took over its ports. It threatened Ecuador and Peru. Propped up its client in
+      Argentina with a new $40 billion loan, supported recent right wing government
+      shifts in Chile and Boliva, threatened Brazil if it prosecuted Trump’s buddy,
+      Bolsonaro for his attempting a coup, and threatened Venezuela continually, amassing
+      military forces offshore, blowing up more than 80 fishing boats in the region,
+      and sending in more CIA forces on the ground into that country. The US delta force
+      special ops snatching of Maduro and his wife is just the latest tactic. Stand
+      by. There’s more to come! Lawless operations by Trump in the hemisphere are only
+      beginning. I predict he will ‘seize’ Greenland one way or another, and soon. The
+      objective there is the same as throughout Latin America. In the case of Greenland
+      it’s about preventing China (and Russia) arctic shipping access down Greenland’s
+      western coast on the way to the Atlantic ports and trade. Panama was quickly cut
+      off for the Chinese. Now the Arctic passage will be as well. All the Trump intimidation
+      and insulting of Canada is also about the US shoring up its Arctic strategy which
+      has lagged badly in competition with Russia. The latter’s arctic strategy development
+      and implementation is well ahead of the US’s. Russia has a fleet of more than
+      40 advanced icebreakers. The US has two. Trump’s ridiculing of Canada has been
+      about forcing that country to develop an arctic military presence and strategy—along
+      with the US in Greenland and Alaska. Trump wants Canada to pay part of the US
+      cost. Canada’s new prime minister, in his first visit to the White House earlier
+      in 2025, pledged to do so. The Trump ridicule and intimidation immediately stopped.
+      Trump’s and the US empire’s plans to refocus more to the western Hemisphere is
+      not this writer’s conjecture. It’s been obvious as Trump’s 2024 election campaign.
+      The strategic shift was recently spelled out clearly in the Trump administration’s
+      recently publication, ‘National Security Strategy of the United States of America,
+      November 2025. It’s on the White House website. Read it. Especially discussion
+      about the western hemisphere. Trump says it’s all about Making America Great Again.
+      What he really means it’s about Making American the Great Bully Again. That other
+      American imperialist president, Teddy Roosevelt, bragged about ‘speak softly and
+      carry a big stick’? Trump is a perverted facsimile of Roosevelt. His motto is
+      ‘brag boldly and carry a stick’ so long as it’s against someone smaller than you.
+      The US Empire is restructuring and refocusing its resources—immediately on the
+      western hemisphere and longer term on the western Pacific where it’s now rearming
+      and shoring up its allies to contain and confront China. That’s a longer term
+      objective. Western hemisphere comes first. Japan has been encouraged and has begun
+      to remilitarize. The US is pumping military arms at an accelerating rate into
+      the key countries—Taiwan, Philippines, Australia, New Zealand, and South Korea.
+      Four years ago, these countries purchased less than $1 billion a year each in
+      US military equipment. In 2024, all were buying more than $4 billion a year, and
+      in 2025 no doubt the data will show that’s accelerated further, especially for
+      Taiwan. US imperial plans are longer term in that region. The western Hemisphere
+      is shorter term. Why the Trump administration wants to reduce its presence in
+      Europe and NATO and extricate from its former commitment in Ukraine should be
+      viewed in the context of this more fundamental shift to the hemisphere and the
+      western Pacific. That’s also spelled out in the ‘National Security Strategy’ document.
+      So what’s the deeper reason for the Empire’s strategic shift now accelerating
+      under Trump? The answer to that most fundamental question is to be found in the
+      accelerating costs of maintaining the US global empire as previously structured.
+      It can no longer afford it, simply put. According to its own budget data, the
+      US now spends more than $1 trillion a year on the Pentagon alone. But that’s not
+      all its ‘defense’ spending. At least as much ‘defense’ spending is squirreled
+      away in other parts of the budget. When adding other defense cost like Veterans
+      affairs, Homeland Security, nuclear weapons development, CIA and intelligence
+      ops, foreign military aid, foreign military base expenses, rising pay for its1.4m
+      military forces and top heavy, bloated senior officer corps, plus the defense
+      share of interest payments on the US national debt, the total actual US defense
+      spending in 2025 was more than $2.1 trillion! With US annual budget deficits of
+      $1.5 trillion a year, a national debt of $38 trillion, and interest payments on
+      the latter already $1.1 trillion a year and rising—the US empire can no longer
+      continue its costs as previously structured. So it’s consolidating—back to the
+      western Hemisphere and the Pacific basin. That’s the bigger picture and context
+      for the current events in Venezuela and what’s yet to come there—and throughout
+      the western hemisphere—as the US resorts to direct military action to re-establish
+      direct control and unchallenged hegemony in its back yard once again. Dr. Jack
+      Rasmus January 6, 2026'
+    one_sentence_summary: The article argues that the United States is experiencing
+      a decline into lawlessness, characterized by the government's use of paramilitary
+      and special operations units for unlawful actions both domestically and internationally,
+      particularly under the Trump administration, where political parties engage in
+      lawfare and abuse the legal system for personal gain.
+    paragraph_summary: The article critiques the current state of the United States
+      under the Trump administration, arguing that it is descending into lawlessness
+      both domestically and internationally. It highlights the use of paramilitary units
+      for domestic kidnappings and the deployment of special ops to capture foreign
+      leaders, framing these actions as a form of political human trafficking. The piece
+      accuses both major political parties of engaging in lawfare, abusing the legal
+      system for personal gain, and undermining the principle that no one is above the
+      law. It also condemns the recent U.S. invasion of Venezuela as a violation of
+      international law, motivated by a desire to control the country's natural resources,
+      particularly oil, while criticizing the hypocrisy of U.S. neoconservatives who
+      have previously condemned similar actions by Russia in Ukraine. The article suggests
+      that the justifications for U.S. military interventions have become increasingly
+      flimsy, likening the current situation to past justifications for wars in Iraq,
+      Syria, and Libya.
+    published: '2026-01-06T20:41:26+00:00'
+  - title: Venezuela vs. the Empire
+    url: https://jackrasmus.com/2026/01/06/venezuela-vs-the-empire/
+    text: 'My analysis of latest events in light of the reaction of US neocons and political
+      elite to the declining US Empire: The USA is descending into a state of general
+      lawlessness, at home and abroad. From using domestic special ops paramilitary
+      units (ICE) to kidnap people off the streets of America and send them abroad,
+      the US government is now deploying secret special ops military units (Delta Force)
+      to snatch foreign heads of governments from their homes and sending them to jail
+      in the US. Political human trafficking has become the rule of law in America under
+      the current Trump administration! Before 2025, the two political parties engaged
+      in a crescendo of lawfare actions against each other, employing the FBI, the courts
+      and even the CIA behind the scene to destroy each other. Both parties engaged
+      in abuse of the rule of law, pardoning family, rich friends, and business partners
+      to protect themselves and their personal relations, rendering a travesty of the
+      fiction that in America no one is above the law. Senior politicians of both enriched
+      themselves, becoming multi-millionaires after leaving office after arranging special
+      deals while in. The recent US invasion of Venezuela a gross violation of international
+      law. A hypocritical disrespect for sovereign boundaries that US neocon ideologues
+      and their echo chamber captured US media have leveled at Russia in Ukraine the
+      past four years. Trump himself has publicly admitted the invasion of Venezuela
+      was intended to secure US economic control of Venezuela’s natural resources, especially
+      its oil reserves. In other words, good old fashion naked US imperialism, intended
+      to grab another country’s natural resources. The excuse was the nonsense charges
+      of narco drug trafficking—i.e. the US neocons’ substitute excuse for WMD’s, weapons
+      of mass destruction, used before in Iraq, Syria, Libya to justify US military
+      intervention. WMDs couldn’t be levied at Venezuela. Wouldn’t work. Nor would past
+      excuses for US imperial intervention like ‘Remember the Maine’. ‘Tonkin Gulf’.
+      Or ‘Killing Incubator Babies’. The neocons needed a new fake excuse for US imperial
+      military intervention in Venezuela. So they looked into their magic bag of false
+      flags, fake excuses, and CIA lies and pulled out  ‘Narco drug trafficking’. That
+      works better for Latin America imperial interventions—as former president of Panama,
+      Noriega, found out in 1989. Watch out Colombia president Gustavo Petro who defended
+      Venezuela sovereignty and criticized Trump’s Venezuela action. And heed the warning
+      Mexico president, Sheinbaum! You’re the next Trump targets. Ditto Cuba. Does Greenland
+      have a president Trump can threaten? Wonder what that excuse will be. Maybe the
+      US must invade because ‘Chinese ships are melting the ice cap’. And make no mistake.
+      Trump’s not only engaged in naked military imperialism in Venezuela to enact regime
+      change. His big mouth ‘spilled the beans’ that the US plans to install a new colonialism
+      as well. Within 24 hrs. he declared publicly the US intends to ‘rule’ Venezuela
+      directly until such time as a proper puppet regime can be put in place. Direct
+      rule constitutes a colonial form of imperialism. As the saying goes, the truth
+      is often spoken from the mouth of a drunkard. And Trump is a big mouth bragger,
+      drunk with power. And he’s saying directly what the US neocon imperialist elite
+      behind him (Rubio, Walz, Graham, CIA spooks, etc.) are really thinking and planning.
+      In an attempt to cover up Trump’s careless blurting out the blunt truth, Trump
+      neocon cronies like Rubio quickly rushed to the US media echo chamber to try to
+      put lipstick on the ‘US will rule’ pig, saying the US has no such plans. Another
+      Trump neocon, Walz, former NSA to Trump and now ambassador to the UN, in his emergency
+      speech to the UN argued the kidnapping of Venezuela president, Maduro, was not
+      about creating colonial rule; it wasn’t even a military operation—according to
+      Walz. It was just a police operation. Some police operation, accompanied by a
+      fleet of 17 US warships, aircraft carriers, submarines, and 10,000 marines stationed
+      in nearby Trinidad island! Rubio added the US only wants to bring Maduro to New
+      York to stand trial, as he conveniently avoided any mention that the US navy is
+      continuing to blockade all shipping from Venezuela. The US has no further military
+      plans! Really? Anyone wanna buy a bridge from the man? This is crass, US gunboat
+      imperialism reminiscent of the early 20 th century when the US invaded Latin American
+      countries by the dozens. It is also a harbinger of US plans to impose some new
+      form of colonialism on Venezuela, and who knows what other Latin American countries
+      who dare to try to walk an independent path from the US Empire. Trump and his
+      crony neocons will try to cover up their plans for some new kind of colonialism
+      if they can with CIA managed new elections this spring, the outcome of which is
+      already pre-determined. The US designated next president, Machado, is already
+      packing her bags and on her way to Caracas, no doubt with an escort of US agents
+      of course who’ll accompany her throughout the forthcoming phony election campaign.
+      US imperialism has never given up on regime change in Venezuela for the past quarter
+      century. Just like it has never with Iran for nearly half a century. Nor Cuba
+      for the past 65 years. The Bush administration in 2002 thought it had achieved
+      regime change deposing then Venezuelan president, former General Chavez. He nationalized
+      US oil interests in the country. The most unholy of capitalist sins! But the deposing
+      of Chavaz was short lived as he was rescued and re-installed as president by the
+      people and Armed forces of Venezuela quickly. Under Obama the CIA continued deep
+      financial and other aid to opposition movements to overturn Venezuelan elections,
+      to little avail. Venezuelan public support was too great despite the US launching
+      a classic economic war on Venezuela, wrecking its currency, stoking inflation,
+      preventing its sale of oil exports and receipt of necessary medical and food imports.
+      Their candidates kept losing national elections nonetheless. Under Trump in 2018-19
+      the CIA efforts intensified, seizing Venezuelan gold in western banks and Venezuela’s
+      CITGO oil distribution company in the US and giving the money from its sale to
+      Venezuelan opposition movements. Still no success in regime change via electoral
+      intervention. US CIA and regime change ops were temporarily put on hold with the
+      arrival of the Covid recession in the US in 2020, followed by US chaotic exit
+      from Afghanistan in 2021, and implementation in 2022 of bigger US plans to engineer
+      a proxy war in Ukraine against Russia. Once Trump returned to office in January
+      2025, however, Venezuelan regime change was placed on the US foreign policy front
+      burner once again. This time the Empire planned to do it right—which meant not
+      relying solely on CIA electoral interference in Venezuela, as in the past, but
+      taking the gloves off and doing regime change by means of US special ops intervention
+      and direct US military action! The Emperor removed his clothes and waded in waist
+      deep. Perhaps over his head, as time will only tell! One should not lose sight
+      of the bigger picture behind the Venezuelan invasion. It is not a standalone,
+      one off operation. I’m sure the governments of Colombia, Mexico and Cuba will
+      agree. The Venezuela operation is part of US neocon forces and imperialists refocusing
+      on the Empire’s western hemisphere base that it had partly neglected while preoccupied
+      in the middle east and eastern Europe (Ukraine and Caucasus). The Empire had let
+      the western hemisphere go unattended. In the interim, when it was preoccupied
+      on the other side of the world, and while planning long term to engage China in
+      Taiwan, other challengers to Empire intervened quietly in Latin America. China
+      in particular. In the past decade, China invested heavily as part of its global
+      ‘Belt and Road’ infrastructure building program in Latin America. It bought up
+      ports in Panama and started other projects there. It struck deals in Mexico to
+      build the largest EV auto plant in north America that might then export under
+      free trade to the US auto market. It started building ports in Ecuador and Peru.
+      It had plans to build a railroad link from that latter country through the Amazon
+      to Brazil. And it loaned Venezuela more than $100 billion for infrastructure projects
+      and oil infrastructure modernization. Most important, it also started buying large
+      quantities of Venezuela oil. The US imperialists want that oil. The US pumps 13m
+      barrels a day, the most in the world, and is sucking its own fracking wells dry
+      in the next decade. Moreover, it needs more oil to sell to its European allies
+      since the US chased the Russians out of Europe. Where to get it? Next door Venezuela
+      of course. The Trump administration, and US neocon imperialists’, have turned
+      back to the western hemisphere to try to restore US economic hegemony over the
+      region. That meant driving China and its investments out of Latin America, and
+      especially Venezuela to secure its future oil supplies. In the first year of Trump’s
+      term in office, the US threatened Mexico with US drones and special ops; in response
+      Mexico canceled its EV deal with China. It threatened Panama with a repeat of
+      the US 1989 invasion; Panama canceled its projects with China and US private equity
+      took over its ports. It threatened Ecuador and Peru. Propped up its client in
+      Argentina with a new $40 billion loan, supported recent right wing government
+      shifts in Chile and Boliva, threatened Brazil if it prosecuted Trump’s buddy,
+      Bolsonaro for his attempting a coup, and threatened Venezuela continually, amassing
+      military forces offshore, blowing up more than 80 fishing boats in the region,
+      and sending in more CIA forces on the ground into that country. The US delta force
+      special ops snatching of Maduro and his wife is just the latest tactic. Stand
+      by. There’s more to come! Lawless operations by Trump in the hemisphere are only
+      beginning. I predict he will ‘seize’ Greenland one way or another, and soon. The
+      objective there is the same as throughout Latin America. In the case of Greenland
+      it’s about preventing China (and Russia) arctic shipping access down Greenland’s
+      western coast on the way to the Atlantic ports and trade. Panama was quickly cut
+      off for the Chinese. Now the Arctic passage will be as well. All the Trump intimidation
+      and insulting of Canada is also about the US shoring up its Arctic strategy which
+      has lagged badly in competition with Russia. The latter’s arctic strategy development
+      and implementation is well ahead of the US’s. Russia has a fleet of more than
+      40 advanced icebreakers. The US has two. Trump’s ridiculing of Canada has been
+      about forcing that country to develop an arctic military presence and strategy—along
+      with the US in Greenland and Alaska. Trump wants Canada to pay part of the US
+      cost. Canada’s new prime minister, in his first visit to the White House earlier
+      in 2025, pledged to do so. The Trump ridicule and intimidation immediately stopped.
+      Trump’s and the US empire’s plans to refocus more to the western Hemisphere is
+      not this writer’s conjecture. It’s been obvious as Trump’s 2024 election campaign.
+      The strategic shift was recently spelled out clearly in the Trump administration’s
+      recently publication, ‘National Security Strategy of the United States of America,
+      November 2025. It’s on the White House website. Read it. Especially discussion
+      about the western hemisphere. Trump says it’s all about Making America Great Again.
+      What he really means it’s about Making American the Great Bully Again. That other
+      American imperialist president, Teddy Roosevelt, bragged about ‘speak softly and
+      carry a big stick’? Trump is a perverted facsimile of Roosevelt. His motto is
+      ‘brag boldly and carry a stick’ so long as it’s against someone smaller than you.
+      The US Empire is restructuring and refocusing its resources—immediately on the
+      western hemisphere and longer term on the western Pacific where it’s now rearming
+      and shoring up its allies to contain and confront China. That’s a longer term
+      objective. Western hemisphere comes first. Japan has been encouraged and has begun
+      to remilitarize. The US is pumping military arms at an accelerating rate into
+      the key countries—Taiwan, Philippines, Australia, New Zealand, and South Korea.
+      Four years ago, these countries purchased less than $1 billion a year each in
+      US military equipment. In 2024, all were buying more than $4 billion a year, and
+      in 2025 no doubt the data will show that’s accelerated further, especially for
+      Taiwan. US imperial plans are longer term in that region. The western Hemisphere
+      is shorter term. Why the Trump administration wants to reduce its presence in
+      Europe and NATO and extricate from its former commitment in Ukraine should be
+      viewed in the context of this more fundamental shift to the hemisphere and the
+      western Pacific. That’s also spelled out in the ‘National Security Strategy’ document.
+      So what’s the deeper reason for the Empire’s strategic shift now accelerating
+      under Trump? The answer to that most fundamental question is to be found in the
+      accelerating costs of maintaining the US global empire as previously structured.
+      It can no longer afford it, simply put. According to its own budget data, the
+      US now spends more than $1 trillion a year on the Pentagon alone. But that’s not
+      all its ‘defense’ spending. At least as much ‘defense’ spending is squirreled
+      away in other parts of the budget. When adding other defense cost like Veterans
+      affairs, Homeland Security, nuclear weapons development, CIA and intelligence
+      ops, foreign military aid, foreign military base expenses, rising pay for its1.4m
+      military forces and top heavy, bloated senior officer corps, plus the defense
+      share of interest payments on the US national debt, the total actual US defense
+      spending in 2025 was more than $2.1 trillion! With US annual budget deficits of
+      $1.5 trillion a year, a national debt of $38 trillion, and interest payments on
+      the latter already $1.1 trillion a year and rising—the US empire can no longer
+      continue its costs as previously structured. So it’s consolidating—back to the
+      western Hemisphere and the Pacific basin. That’s the bigger picture and context
+      for the current events in Venezuela and what’s yet to come there—and throughout
+      the western hemisphere—as the US resorts to direct military action to re-establish
+      direct control and unchallenged hegemony in its back yard once again. Dr. Jack
+      Rasmus January 6, 2026'
+    one_sentence_summary: The article argues that the United States is experiencing
+      a decline into lawlessness, characterized by the government's use of paramilitary
+      and special operations units for unlawful actions both domestically and internationally,
+      particularly under the Trump administration, where political parties engage in
+      lawfare and abuse the legal system for personal gain.
+    paragraph_summary: The article critiques the current state of the United States
+      under the Trump administration, arguing that it is descending into lawlessness
+      both domestically and internationally. It highlights the use of paramilitary units
+      for domestic kidnappings and the deployment of special ops to capture foreign
+      leaders, framing these actions as a form of political human trafficking. The piece
+      accuses both major political parties of engaging in lawfare, abusing the legal
+      system for personal gain, and undermining the principle that no one is above the
+      law. It also condemns the recent U.S. invasion of Venezuela as a violation of
+      international law, motivated by a desire to control the country's natural resources,
+      particularly oil, while criticizing the hypocrisy of U.S. neoconservatives who
+      have previously condemned similar actions by Russia in Ukraine. The article suggests
+      that the justifications for U.S. military interventions have become increasingly
+      flimsy, likening the current situation to past justifications for wars in Iraq,
+      Syria, and Libya.
+    published: '2026-01-06T20:41:26+00:00'
+  - title: Trump’s Real Economy 2025 & Predictions 2026
+    url: https://jackrasmus.com/2026/01/03/2-shows-on-us-economy-2025-26/
+    text: 'Listen to my last two Alternative Visions shows of December 19, 2025 (Year
+      End Review of the US Economy 2025) and January 2, 2026  (Predictions for US Economy
+      2026) on the condition of the US economy during the first year of the Trump regime–and
+      my predictions where it’s headed in 2026 and beyond. REVIEW OF THE US ECONOMY
+      2025 Today’s show reviews the performance of the US economy the past year. Topics
+      covered include actual inflation, jobs and likely GDP numbers. Special focus on
+      Trump’s 2 main economic initiatives: the $5 trillion tax cut package and Trump
+      tariffs offensive. What have been the actual impact of both thus far? Likely impact
+      in 2026 and beyond? Trump monetary policy browbeating the Federal Reserve to lower
+      interest rates. Why neither corporate cost reduction via tax cuts and interest
+      rate cuts will have much effect on the real economy. Contradictions in 21 st century
+      US capitalism that negate stimulative effects of fiscal and monetary policies.
+      Trump record on war spending and social program spending. US Deficits, National
+      Debt, and interest payments 2025. State of AI investing and financial bubbles
+      (tech stocks, gold-silver, cryptos). What’s the Trump record on the trade deficit,
+      FDI financial flows, and US dollar. https://alternativevisions.podbean.com/e/alternative-visions-2025-us-economy-review/
+      PREDICTIONS FOR THE US ECONOMY 2026 As a follow up to last show’s ‘Review of US
+      Economy 2025’, this week the show makes predictions where it’s headed in 2026.
+      Topics include US GDP for next year, jobs & unemployment, Inflation (CPI & PCE),
+      Fed interest rates (short & long term), continued devaluation of the US dollar
+      and its consequences, direction of financial asset bubbles (gold, silver, crypto,
+      stocks), AI investment & real business spending, government spending (defense
+      vs social programs), budget deficits and national debt, US trade deficit. Impact
+      of global trends (BRICS, sanctions, dollar demand, demand for US Treasuries by
+      China, BRICS, etc. also discussed). https://alternativevisions.podbean.com/e/alternative-visions-1-2-26/'
+    one_sentence_summary: The article discusses the performance of the US economy in
+      2025 under the Trump administration, analyzing the impacts of his tax cuts and
+      tariffs, the influence of his monetary policies on the Federal Reserve, and the
+      limitations of these strategies in stimulating the real economy, while also providing
+      predictions for 2026 and beyond.
+    paragraph_summary: The article discusses two episodes of the "Alternative Visions"
+      show that review the state of the US economy in 2025 and make predictions for
+      2026 under the Trump administration. The first episode analyzes the economic performance
+      over the past year, focusing on inflation, job growth, GDP, and the impacts of
+      Trump's significant tax cuts and tariffs, as well as his influence on Federal
+      Reserve interest rates. It argues that these fiscal and monetary policies have
+      limited effects on the real economy due to inherent contradictions in modern US
+      capitalism, while also addressing issues like national debt, AI investments, and
+      financial bubbles. The second episode forecasts economic trends for 2026, including
+      GDP growth, unemployment, inflation rates, the devaluation of the US dollar, and
+      the implications of global economic shifts, particularly regarding trade deficits
+      and foreign investment.
+    published: '2026-01-03T21:22:36+00:00'
+  - title: Trump’s Real Economy 2025 & Predictions 2026
+    url: https://jackrasmus.com/2026/01/03/2-shows-on-us-economy-2025-26/
+    text: 'Listen to my last two Alternative Visions shows of December 19, 2025 (Year
+      End Review of the US Economy 2025) and January 2, 2026  (Predictions for US Economy
+      2026) on the condition of the US economy during the first year of the Trump regime–and
+      my predictions where it’s headed in 2026 and beyond. REVIEW OF THE US ECONOMY
+      2025 Today’s show reviews the performance of the US economy the past year. Topics
+      covered include actual inflation, jobs and likely GDP numbers. Special focus on
+      Trump’s 2 main economic initiatives: the $5 trillion tax cut package and Trump
+      tariffs offensive. What have been the actual impact of both thus far? Likely impact
+      in 2026 and beyond? Trump monetary policy browbeating the Federal Reserve to lower
+      interest rates. Why neither corporate cost reduction via tax cuts and interest
+      rate cuts will have much effect on the real economy. Contradictions in 21 st century
+      US capitalism that negate stimulative effects of fiscal and monetary policies.
+      Trump record on war spending and social program spending. US Deficits, National
+      Debt, and interest payments 2025. State of AI investing and financial bubbles
+      (tech stocks, gold-silver, cryptos). What’s the Trump record on the trade deficit,
+      FDI financial flows, and US dollar. https://alternativevisions.podbean.com/e/alternative-visions-2025-us-economy-review/
+      PREDICTIONS FOR THE US ECONOMY 2026 As a follow up to last show’s ‘Review of US
+      Economy 2025’, this week the show makes predictions where it’s headed in 2026.
+      Topics include US GDP for next year, jobs & unemployment, Inflation (CPI & PCE),
+      Fed interest rates (short & long term), continued devaluation of the US dollar
+      and its consequences, direction of financial asset bubbles (gold, silver, crypto,
+      stocks), AI investment & real business spending, government spending (defense
+      vs social programs), budget deficits and national debt, US trade deficit. Impact
+      of global trends (BRICS, sanctions, dollar demand, demand for US Treasuries by
+      China, BRICS, etc. also discussed). https://alternativevisions.podbean.com/e/alternative-visions-1-2-26/'
+    one_sentence_summary: The article discusses the performance of the US economy in
+      2025 under the Trump administration, analyzing the impacts of his tax cuts and
+      tariffs, the influence of his monetary policies on the Federal Reserve, and the
+      limitations of these strategies in stimulating the real economy, while also providing
+      predictions for 2026 and beyond.
+    paragraph_summary: The article discusses two episodes of the "Alternative Visions"
+      show that review the state of the US economy in 2025 and make predictions for
+      2026 under the Trump administration. The first episode analyzes the economic performance
+      over the past year, focusing on inflation, job growth, GDP, and the impacts of
+      Trump's significant tax cuts and tariffs, as well as his influence on Federal
+      Reserve interest rates. It argues that these fiscal and monetary policies have
+      limited effects on the real economy due to inherent contradictions in modern US
+      capitalism, while also addressing issues like national debt, AI investments, and
+      financial bubbles. The second episode forecasts economic trends for 2026, including
+      GDP growth, unemployment, inflation rates, the devaluation of the US dollar, and
+      the implications of global economic shifts, particularly regarding trade deficits
+      and foreign investment.
+    published: '2026-01-03T21:22:36+00:00'
   - title: Financial Bubbles, US Real Economy & Europe’s latest scheme to grab Russian
       Assets
     url: https://jackrasmus.com/2025/12/08/financial-bubbles-us-real-economy-europes-latest-scheme-to-grab-russian-assets/

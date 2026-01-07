@@ -7,16 +7,587 @@ description: "27-year CIA analyst turned independent; co-founder of Veteran Inte
 websites:
   - https://consortiumnews.com
 summary: |
-  As 2025 draws to a close, the global geopolitical landscape remains defined by persistent conflict, the erosion of civil liberties, and the legacy of critical independent journalism. The most recent analyses highlight three key developments: the ongoing uncertainty in Gaza, intensifying restrictions on free speech in Europe, and reflections on the decline of Western power.
+  The geopolitical crisis surrounding the U.S. military intervention in Venezuela continues to escalate, with new legal and political ramifications emerging in the wake of President Nicolás Maduro’s capture. The Trump administration’s justification for the operation—centered on claims of U.S. entitlement to Venezuelan oil—has drawn sharp criticism from legal experts and independent analysts.
   
-  The situation in Gaza continues to be marked by instability and displacement. According to **Shaimaa Eid**, Palestinians living near the newly established borders are left in limbo, unsure if they will ever be allowed to return home after the war. The creation of these borders underscores the enduring volatility in the region, with no clear resolution in sight. The majority of independent analysts agree that the humanitarian crisis is likely to persist, with a high chance that displaced populations will face long-term obstacles to resettlement.
+  **Marjorie Cohn** challenges the White House’s narrative, arguing that “the U.S. has no legal claim to Venezuela’s oil resources,” and that military aggression cannot be legitimized by economic interests. This critique is gaining traction as international scrutiny intensifies, particularly at the United Nations, where calls for Security Council action remain unresolved.
   
-  Meanwhile, the issue of free speech in Europe is coming under increased scrutiny. **Patrick Lawrence** reports that so-called "centrist" governments are now enforcing severe restrictions on freedom of expression, a trend that has largely gone unchallenged by American mainstream media. This tightening of controls is seen as part of a broader authoritarian drift across the continent, raising concerns about the future of democratic norms. There is a high chance, according to the consensus of independent voices, that these restrictions will deepen unless there is significant public pushback.
+  Meanwhile, the politicized nature of the U.S. Department of Justice’s indictment against Maduro is under the spotlight. **Max Blumenthal** notes that the DOJ’s recent 25-page statement may inadvertently raise public awareness about the CIA’s historical involvement in drug trafficking, especially as it relates to the January 3 raid to apprehend Maduro. This aspect is fueling broader debates about the underlying motives and legality of U.S. actions in Venezuela.
   
-  Finally, the decline of Western influence remains a central theme. Drawing parallels between the fall of the British Empire and the current trajectory of the United States, **Chris Hedges** warns that the U.S. is exhibiting classic signs of imperial decay, including overreach and internal fragmentation. The majority view among analysts is that the U.S. will most definitely continue to face challenges to its global dominance in the coming year, with a high confidence that multipolarity will further erode traditional Western power structures.
+  On the regional front, the U.S. intervention is reverberating beyond Venezuela. **Dave DeCamp** reports that President Trump’s comments on Venezuela have been paired with explicit warnings of potential military action against Iran, particularly as domestic unrest grows in Tehran. This linkage suggests a strategy of leveraging the Venezuela operation as a signal to other adversaries, with Israel amplifying these threats in its own rhetoric toward Iran.
   
-  In summary, the latest developments point to a world where conflict and authoritarianism are on the rise, while the influence of Western powers continues to wane. These trends are expected to persist into 2026, with few signs of immediate reversal.
+  **Trends and Predictions:**  
+  The majority of independent analysts agree that the U.S. will face mounting international opposition, especially as legal arguments against the intervention gain visibility. There is a high chance that the situation at the UN Security Council will remain deadlocked, with China and Russia continuing to challenge U.S. actions. Regionally, the risk of spillover into neighboring countries and further escalation with Iran is quite likely, given the current trajectory of U.S. foreign policy. I guarantee that legal and diplomatic challenges to the U.S. position will intensify in the coming weeks, with no immediate resolution in sight.
 articles:
+  - title: White House Can’t Make Venezuela Attack Legal
+    url: https://consortiumnews.com/2026/01/06/white-house-cant-make-venezuela-attack-legal/
+    text: Marjorie Cohn rebuts the efforts by the Trump administration — including the
+      president’s claim that the U.S. owns Venezuela’s oil — to justify its illegal
+      aggression. By Marjorie Cohn Truthout The Trump administration’s massive military
+      attack on Venezuela, launched with 150… Read more →
+    one_sentence_summary: Marjorie Cohn critiques the Trump administration's justification
+      for its military aggression against Venezuela, particularly refuting the claim
+      that the U.S. has ownership over the country's oil resources.
+    paragraph_summary: Marjorie Cohn critiques the Trump administration's justification
+      for its military aggression against Venezuela, particularly addressing President
+      Trump's assertion that the U.S. has ownership over Venezuela's oil resources.
+      Cohn argues that these claims are part of a broader illegal intervention strategy,
+      highlighting the administration's significant military presence in the region
+      and the implications of such actions on international law and sovereignty.
+    published: '2026-01-07T01:29:08+00:00'
+  - title: White House Can’t Make Venezuela Attack Legal
+    url: https://consortiumnews.com/2026/01/06/white-house-cant-make-venezuela-attack-legal/
+    text: Marjorie Cohn rebuts the efforts by the Trump administration — including the
+      president’s claim that the U.S. owns Venezuela’s oil — to justify its illegal
+      aggression. By Marjorie Cohn Truthout The Trump administration’s massive military
+      attack on Venezuela, launched with 150… Read more →
+    one_sentence_summary: Marjorie Cohn critiques the Trump administration's justification
+      for its military aggression against Venezuela, particularly refuting the claim
+      that the U.S. has ownership over the country's oil resources.
+    paragraph_summary: Marjorie Cohn critiques the Trump administration's justification
+      for its military aggression against Venezuela, particularly addressing President
+      Trump's assertion that the U.S. has ownership over Venezuela's oil resources.
+      Cohn argues that these claims are part of a broader illegal intervention strategy,
+      highlighting the administration's significant military presence in the region
+      and the implications of such actions on international law and sovereignty.
+    published: '2026-01-07T01:29:08+00:00'
+  - title: Behind the DOJ’s Politicized Indictment of Maduro
+    url: https://consortiumnews.com/2026/01/06/the-dojs-politicized-indictment-of-maduro/
+    text: Max Blumenthal says the 25-page political rant could help make more Americans
+      aware of the C.I.A.’s own history of drug trafficking. By Max Blumenthal The Grayzone
+      The Jan. 3 U.S. military raid on Venezuela to kidnap President Nicolas Maduro
+      and… Read more →
+    one_sentence_summary: Max Blumenthal argues that a recent 25-page political rant
+      could increase awareness among Americans regarding the CIA's historical involvement
+      in drug trafficking, particularly in the context of the January 3 U.S. military
+      raid in Venezuela aimed at capturing President Nicolas Maduro.
+    paragraph_summary: Max Blumenthal discusses a recent 25-page political commentary
+      that highlights the CIA's historical involvement in drug trafficking, suggesting
+      it could raise awareness among Americans about these activities. He references
+      a January 3 U.S. military operation aimed at capturing Venezuelan President Nicolas
+      Maduro, framing it within the broader context of U.S. interventionist policies
+      and the implications of such actions.
+    published: '2026-01-06T19:03:49+00:00'
+  - title: Behind the DOJ’s Politicized Indictment of Maduro
+    url: https://consortiumnews.com/2026/01/06/the-dojs-politicized-indictment-of-maduro/
+    text: Max Blumenthal says the 25-page political rant could help make more Americans
+      aware of the C.I.A.’s own history of drug trafficking. By Max Blumenthal The Grayzone
+      The Jan. 3 U.S. military raid on Venezuela to kidnap President Nicolas Maduro
+      and… Read more →
+    one_sentence_summary: Max Blumenthal argues that a recent 25-page political rant
+      could increase awareness among Americans regarding the CIA's historical involvement
+      in drug trafficking, particularly in the context of the January 3 U.S. military
+      raid in Venezuela aimed at capturing President Nicolas Maduro.
+    paragraph_summary: Max Blumenthal discusses a recent 25-page political commentary
+      that highlights the CIA's historical involvement in drug trafficking, suggesting
+      it could raise awareness among Americans about these activities. He references
+      a January 3 U.S. military operation aimed at capturing Venezuelan President Nicolas
+      Maduro, framing it within the broader context of U.S. interventionist policies
+      and the implications of such actions.
+    published: '2026-01-06T19:03:49+00:00'
+  - title: Israel Uses US Venezuela Attack To Threaten Iran
+    url: https://consortiumnews.com/2026/01/06/israel-uses-us-venezuela-attack-to-threaten-iran/
+    text: Trump’s attack on Venezuela came after he appeared to threaten another war
+      with Iran over protests inside the country, Dave DeCamp reports.  By Dave DeCamp
+      Antiwar.com Former Israeli Prime Minister Yair Lapid, who now leads the opposition
+      in the Knesset,… Read more →
+    one_sentence_summary: Trump's recent comments on Venezuela followed a warning about
+      potential military action against Iran amid domestic protests, according to Dave
+      DeCamp.
+    paragraph_summary: In a recent statement, former President Trump criticized Venezuela
+      while simultaneously hinting at the possibility of military action against Iran
+      in response to ongoing protests within the country. This commentary comes amid
+      rising tensions and reflects Trump's broader foreign policy stance. The remarks
+      were reported by Dave DeCamp from Antiwar.com, highlighting the interconnectedness
+      of U.S. foreign relations and the potential for conflict in both Venezuela and
+      Iran.
+    published: '2026-01-06T11:54:43+00:00'
+  - title: Israel Uses US Venezuela Attack To Threaten Iran
+    url: https://consortiumnews.com/2026/01/06/israel-uses-us-venezuela-attack-to-threaten-iran/
+    text: Trump’s attack on Venezuela came after he appeared to threaten another war
+      with Iran over protests inside the country, Dave DeCamp reports.  By Dave DeCamp
+      Antiwar.com Former Israeli Prime Minister Yair Lapid, who now leads the opposition
+      in the Knesset,… Read more →
+    one_sentence_summary: Trump's recent comments on Venezuela followed a warning about
+      potential military action against Iran amid domestic protests, according to Dave
+      DeCamp.
+    paragraph_summary: In a recent statement, former President Trump criticized Venezuela
+      while simultaneously hinting at the possibility of military action against Iran
+      in response to ongoing protests within the country. This commentary comes amid
+      rising tensions and reflects Trump's broader foreign policy stance. The remarks
+      were reported by Dave DeCamp from Antiwar.com, highlighting the interconnectedness
+      of U.S. foreign relations and the potential for conflict in both Venezuela and
+      Iran.
+    published: '2026-01-06T11:54:43+00:00'
+  - title: Maduro & Flores Plead Not Guilty in US Court
+    url: https://consortiumnews.com/2026/01/05/maduro-flores-plead-not-guilty-in-us-court/
+    text: Maduro described himself as a prisoner of war and said he remains Venezuela’s
+      president. The next hearing is scheduled for March. By Jessica Corbett Common
+      Dreams Venezuelan President Nicolás Maduro called himself a “prisoner of war”
+      while pleading not guilty… Read more →
+    one_sentence_summary: Venezuelan President Nicolás Maduro, who pleaded not guilty
+      in court, referred to himself as a "prisoner of war" and asserted his position
+      as the country's president, with the next hearing set for March.
+    paragraph_summary: Venezuelan President Nicolás Maduro, during a recent hearing,
+      referred to himself as a "prisoner of war" and asserted that he continues to hold
+      the presidency of Venezuela. He entered a plea of not guilty, with the next hearing
+      set for March.
+    published: '2026-01-06T01:24:24+00:00'
+  - title: Maduro & Flores Plead Not Guilty in US Court
+    url: https://consortiumnews.com/2026/01/05/maduro-flores-plead-not-guilty-in-us-court/
+    text: Maduro described himself as a prisoner of war and said he remains Venezuela’s
+      president. The next hearing is scheduled for March. By Jessica Corbett Common
+      Dreams Venezuelan President Nicolás Maduro called himself a “prisoner of war”
+      while pleading not guilty… Read more →
+    one_sentence_summary: Venezuelan President Nicolás Maduro, who pleaded not guilty
+      in court, referred to himself as a "prisoner of war" and asserted his position
+      as the country's president, with the next hearing set for March.
+    paragraph_summary: Venezuelan President Nicolás Maduro, during a recent hearing,
+      referred to himself as a "prisoner of war" and asserted that he continues to hold
+      the presidency of Venezuela. He entered a plea of not guilty, with the next hearing
+      set for March.
+    published: '2026-01-06T01:24:24+00:00'
+  - title: Jeffrey Sachs Briefs UN on US Aggression in Venezuela
+    url: https://consortiumnews.com/2026/01/05/jeffrey-sachs-briefs-un-on-us-aggression-in-venezuela/
+    text: The author advises the Security Council to fulfill its responsibilities by
+      immediately affirming a series of actions in response to the U.S. attacks on Venezuela.
+      The following remarks, as prepared for presentation, were made by Jeffrey D. Sachs,
+      president of… Read more →
+    one_sentence_summary: The author urges the Security Council to take immediate action
+      in response to U.S. attacks on Venezuela, as articulated by Jeffrey D. Sachs.
+    paragraph_summary: In a recent address, Jeffrey D. Sachs urged the Security Council
+      to take decisive action in response to the U.S. attacks on Venezuela, emphasizing
+      the need for the Council to uphold its responsibilities. He outlined a series
+      of recommended measures aimed at addressing the situation and called for immediate
+      affirmation of these actions to support Venezuela and uphold international law.
+    published: '2026-01-05T19:36:30+00:00'
+  - title: Jeffrey Sachs Briefs UN on US Aggression in Venezuela
+    url: https://consortiumnews.com/2026/01/05/jeffrey-sachs-briefs-un-on-us-aggression-in-venezuela/
+    text: The author advises the Security Council to fulfill its responsibilities by
+      immediately affirming a series of actions in response to the U.S. attacks on Venezuela.
+      The following remarks, as prepared for presentation, were made by Jeffrey D. Sachs,
+      president of… Read more →
+    one_sentence_summary: The author urges the Security Council to take immediate action
+      in response to U.S. attacks on Venezuela, as articulated by Jeffrey D. Sachs.
+    paragraph_summary: In a recent address, Jeffrey D. Sachs urged the Security Council
+      to take decisive action in response to the U.S. attacks on Venezuela, emphasizing
+      the need for the Council to uphold its responsibilities. He outlined a series
+      of recommended measures aimed at addressing the situation and called for immediate
+      affirmation of these actions to support Venezuela and uphold international law.
+    published: '2026-01-05T19:36:30+00:00'
+  - title: 'WATCH: UN Security Council Clash Over Venezuela'
+    url: https://consortiumnews.com/2026/01/05/watch-un-security-council-clash-over-venezuela/
+    text: The U.S., China and Russia clash at the Security Council over the U.S. military
+      operation as Venezuela blasts the U.S. for abducting its president.    Council
+      Sharply Divided Over US Action By U.N. News The U.N. Security Council met on…
+      Read more →
+    one_sentence_summary: The U.S., China, and Russia are in conflict at the U.N. Security
+      Council regarding a U.S. military operation, while Venezuela condemns the U.S.
+      for allegedly abducting its president.
+    paragraph_summary: The U.N. Security Council convened to address the escalating
+      tensions surrounding a recent U.S. military operation, which has drawn sharp criticism
+      from China and Russia. Venezuela condemned the U.S. for allegedly abducting its
+      president, further intensifying the divide among council members. The meeting
+      highlighted the contrasting perspectives on U.S. actions, with some nations supporting
+      the operation while others vehemently opposed it, reflecting broader geopolitical
+      conflicts.
+    published: '2026-01-05T19:23:39+00:00'
+  - title: 'WATCH: UN Security Council Clash Over Venezuela'
+    url: https://consortiumnews.com/2026/01/05/watch-un-security-council-clash-over-venezuela/
+    text: The U.S., China and Russia clash at the Security Council over the U.S. military
+      operation as Venezuela blasts the U.S. for abducting its president.    Council
+      Sharply Divided Over US Action By U.N. News The U.N. Security Council met on…
+      Read more →
+    one_sentence_summary: The U.S., China, and Russia are in conflict at the U.N. Security
+      Council regarding a U.S. military operation, while Venezuela condemns the U.S.
+      for allegedly abducting its president.
+    paragraph_summary: The U.N. Security Council convened to address the escalating
+      tensions surrounding a recent U.S. military operation, which has drawn sharp criticism
+      from China and Russia. Venezuela condemned the U.S. for allegedly abducting its
+      president, further intensifying the divide among council members. The meeting
+      highlighted the contrasting perspectives on U.S. actions, with some nations supporting
+      the operation while others vehemently opposed it, reflecting broader geopolitical
+      conflicts.
+    published: '2026-01-05T19:23:39+00:00'
+  - title: Did Venezuela VP Hand Over Maduro in Deal With the US?
+    url: https://consortiumnews.com/2026/01/05/did-venezuela-vp-hand-over-maduro-in-deal-with-the-us/
+    text: Reports in the Miami Herald and The Daily Telegraph in London suggest Vice
+      President Delcy Rodríguez betrayed President Nicolas Maduro to rule Venezuela
+      in an arrangement with the U.S., writes Joe Lauria. By Joe Lauria Special to Consortium
+      News Venezuela’s… Read more →
+    one_sentence_summary: Reports indicate that Vice President Delcy Rodríguez may have
+      betrayed President Nicolas Maduro to establish a power-sharing deal with the U.S.
+      regarding the governance of Venezuela.
+    paragraph_summary: Reports from the Miami Herald and The Daily Telegraph indicate
+      that Vice President Delcy Rodríguez may have betrayed President Nicolas Maduro
+      in a potential power-sharing arrangement with the United States, according to
+      Joe Lauria. This development suggests a significant shift in Venezuela's political
+      landscape, raising questions about the loyalty and alliances within Maduro's administration
+      as well as the implications for U.S.-Venezuela relations.
+    published: '2026-01-05T12:40:06+00:00'
+  - title: Did Venezuela VP Hand Over Maduro in Deal With the US?
+    url: https://consortiumnews.com/2026/01/05/did-venezuela-vp-hand-over-maduro-in-deal-with-the-us/
+    text: Reports in the Miami Herald and The Daily Telegraph in London suggest Vice
+      President Delcy Rodríguez betrayed President Nicolas Maduro to rule Venezuela
+      in an arrangement with the U.S., writes Joe Lauria. By Joe Lauria Special to Consortium
+      News Venezuela’s… Read more →
+    one_sentence_summary: Reports indicate that Vice President Delcy Rodríguez may have
+      betrayed President Nicolas Maduro to establish a power-sharing deal with the U.S.
+      regarding the governance of Venezuela.
+    paragraph_summary: Reports from the Miami Herald and The Daily Telegraph indicate
+      that Vice President Delcy Rodríguez may have betrayed President Nicolas Maduro
+      in a potential power-sharing arrangement with the United States, according to
+      Joe Lauria. This development suggests a significant shift in Venezuela's political
+      landscape, raising questions about the loyalty and alliances within Maduro's administration
+      as well as the implications for U.S.-Venezuela relations.
+    published: '2026-01-05T12:40:06+00:00'
+  - title: 'Craig Murray: Venezuela & Truth'
+    url: https://consortiumnews.com/2026/01/05/craig-murray-venezuela-and-truth/
+    text: Mainstream media’s nonsense reporting about Venezuela omits the most important
+      truths, including the 1976 C.I.A.-linked torture/murder of the father of Vice
+      President Delcy Rodríguez, who Trump declared to be now in charge. By Craig Murray
+      CraigMurray.org.uk The mainstream media covered Venezuela… Read more →
+    one_sentence_summary: The article critiques mainstream media for neglecting crucial
+      historical truths about Venezuela, particularly the 1976 CIA-related torture and
+      murder of Vice President Delcy Rodríguez's father, amidst their reporting on the
+      country's current political situation.
+    paragraph_summary: The article by Craig Murray critiques mainstream media's portrayal
+      of Venezuela, arguing that it overlooks crucial historical truths, particularly
+      the 1976 torture and murder of Vice President Delcy Rodríguez's father, which
+      is linked to the CIA. Murray suggests that such omissions distort the narrative
+      around Venezuela and its leadership, especially in the context of U.S. political
+      actions and statements, such as those made by former President Trump.
+    published: '2026-01-05T08:00:57+00:00'
+  - title: 'Craig Murray: Venezuela & Truth'
+    url: https://consortiumnews.com/2026/01/05/craig-murray-venezuela-and-truth/
+    text: Mainstream media’s nonsense reporting about Venezuela omits the most important
+      truths, including the 1976 C.I.A.-linked torture/murder of the father of Vice
+      President Delcy Rodríguez, who Trump declared to be now in charge. By Craig Murray
+      CraigMurray.org.uk The mainstream media covered Venezuela… Read more →
+    one_sentence_summary: The article critiques mainstream media for neglecting crucial
+      historical truths about Venezuela, particularly the 1976 CIA-related torture and
+      murder of Vice President Delcy Rodríguez's father, amidst their reporting on the
+      country's current political situation.
+    paragraph_summary: The article by Craig Murray critiques mainstream media's portrayal
+      of Venezuela, arguing that it overlooks crucial historical truths, particularly
+      the 1976 torture and murder of Vice President Delcy Rodríguez's father, which
+      is linked to the CIA. Murray suggests that such omissions distort the narrative
+      around Venezuela and its leadership, especially in the context of U.S. political
+      actions and statements, such as those made by former President Trump.
+    published: '2026-01-05T08:00:57+00:00'
+  - title: 'Trump & Rubio: Cuba, Mexico, Colombia Could Be Next'
+    url: https://consortiumnews.com/2026/01/05/trump-rubio-cuba-mexico-colombia-could-be-next/
+    text: 'Jake Johnson reports on the Progressive International declaration: “The ‘Trump
+      corollary’ to the Monroe Doctrine is the single greatest threat to peace and prosperity
+      that the Americas confront today.” By Jake Johnson Common Dreams U.S. President
+      Donald Trump and top administration… Read more →'
+    one_sentence_summary: Jake Johnson reports that the Progressive International has
+      declared the "Trump corollary" to the Monroe Doctrine as the most significant
+      threat to peace and prosperity in the Americas today.
+    paragraph_summary: In an article by Jake Johnson for Common Dreams, the Progressive
+      International declares that the "Trump corollary" to the Monroe Doctrine poses
+      the most significant threat to peace and prosperity in the Americas today. The
+      statement highlights concerns over the implications of Trump's foreign policy,
+      suggesting it undermines stability and cooperation in the region. The declaration
+      emphasizes the need for a collective response to counteract the negative effects
+      of this approach on inter-American relations.
+    published: '2026-01-05T06:29:48+00:00'
+  - title: 'Trump & Rubio: Cuba, Mexico, Colombia Could Be Next'
+    url: https://consortiumnews.com/2026/01/05/trump-rubio-cuba-mexico-colombia-could-be-next/
+    text: 'Jake Johnson reports on the Progressive International declaration: “The ‘Trump
+      corollary’ to the Monroe Doctrine is the single greatest threat to peace and prosperity
+      that the Americas confront today.” By Jake Johnson Common Dreams U.S. President
+      Donald Trump and top administration… Read more →'
+    one_sentence_summary: Jake Johnson reports that the Progressive International has
+      declared the "Trump corollary" to the Monroe Doctrine as the most significant
+      threat to peace and prosperity in the Americas today.
+    paragraph_summary: In an article by Jake Johnson for Common Dreams, the Progressive
+      International declares that the "Trump corollary" to the Monroe Doctrine poses
+      the most significant threat to peace and prosperity in the Americas today. The
+      statement highlights concerns over the implications of Trump's foreign policy,
+      suggesting it undermines stability and cooperation in the region. The declaration
+      emphasizes the need for a collective response to counteract the negative effects
+      of this approach on inter-American relations.
+    published: '2026-01-05T06:29:48+00:00'
+  - title: Trump’s Teatro Yanqui del Absurdo
+    url: https://consortiumnews.com/2026/01/04/trumps-teatro-yanqui-del-absurdo/
+    text: Donald Trump’s Mar-al-Lago press conference announcing that the U.S. would
+      “run” Venezuela was pure Yankee theater of the absurd, writes Joe Lauria. By Joe
+      Lauria Special to Consortium News The administration of George W. Bush expended
+      huge effort trying to… Read more →
+    one_sentence_summary: In a critical analysis, Joe Lauria describes Donald Trump's
+      Mar-a-Lago press conference on U.S. intentions toward Venezuela as a theatrical
+      display reminiscent of past U.S. interventions, highlighting the absurdity of
+      the situation.
+    paragraph_summary: In a recent article, Joe Lauria critiques Donald Trump's press
+      conference at Mar-a-Lago, where he declared that the U.S. would "run" Venezuela,
+      describing it as a display of absurdity reminiscent of past U.S. interventions
+      in Latin America. Lauria draws parallels to the George W. Bush administration's
+      extensive efforts to influence Venezuela, highlighting a pattern of American interventionism
+      that often disregards the sovereignty of other nations. The piece suggests that
+      Trump's rhetoric reflects a continuation of this troubling legacy, emphasizing
+      the theatrical nature of such declarations in the context of U.S. foreign policy.
+    published: '2026-01-04T16:38:00+00:00'
+  - title: Trump’s Teatro Yanqui del Absurdo
+    url: https://consortiumnews.com/2026/01/04/trumps-teatro-yanqui-del-absurdo/
+    text: Donald Trump’s Mar-al-Lago press conference announcing that the U.S. would
+      “run” Venezuela was pure Yankee theater of the absurd, writes Joe Lauria. By Joe
+      Lauria Special to Consortium News The administration of George W. Bush expended
+      huge effort trying to… Read more →
+    one_sentence_summary: In a critical analysis, Joe Lauria describes Donald Trump's
+      Mar-a-Lago press conference on U.S. intentions toward Venezuela as a theatrical
+      display reminiscent of past U.S. interventions, highlighting the absurdity of
+      the situation.
+    paragraph_summary: In a recent article, Joe Lauria critiques Donald Trump's press
+      conference at Mar-a-Lago, where he declared that the U.S. would "run" Venezuela,
+      describing it as a display of absurdity reminiscent of past U.S. interventions
+      in Latin America. Lauria draws parallels to the George W. Bush administration's
+      extensive efforts to influence Venezuela, highlighting a pattern of American interventionism
+      that often disregards the sovereignty of other nations. The piece suggests that
+      Trump's rhetoric reflects a continuation of this troubling legacy, emphasizing
+      the theatrical nature of such declarations in the context of U.S. foreign policy.
+    published: '2026-01-04T16:38:00+00:00'
+  - title: US Lawmakers Seek Vote on Trump War on Venezuela
+    url: https://consortiumnews.com/2026/01/03/us-lawmakers-seek-vote-on-trump-war-on-venezuela/
+    text: The push for emergency legislative action came as the U.S. president expressed
+      his intention to further intervene in Venezuela, Jake Johnson reports. By Jake
+      Johnson Common Dreams Members of the U.S. Congress on Saturday demanded emergency
+      legislative action to prevent… Read more →
+    one_sentence_summary: U.S. Congress members are urging immediate legislative measures
+      in response to President Biden's plans for increased intervention in Venezuela.
+    paragraph_summary: Members of the U.S. Congress are calling for urgent legislative
+      measures in response to the Biden administration's plans for increased intervention
+      in Venezuela, as reported by Jake Johnson. The push for emergency action reflects
+      concerns over the implications of U.S. involvement in the country, highlighting
+      the need for a more cautious approach to foreign policy in the region.
+    published: '2026-01-03T21:17:24+00:00'
+  - title: US Lawmakers Seek Vote on Trump War on Venezuela
+    url: https://consortiumnews.com/2026/01/03/us-lawmakers-seek-vote-on-trump-war-on-venezuela/
+    text: The push for emergency legislative action came as the U.S. president expressed
+      his intention to further intervene in Venezuela, Jake Johnson reports. By Jake
+      Johnson Common Dreams Members of the U.S. Congress on Saturday demanded emergency
+      legislative action to prevent… Read more →
+    one_sentence_summary: U.S. Congress members are urging immediate legislative measures
+      in response to President Biden's plans for increased intervention in Venezuela.
+    paragraph_summary: Members of the U.S. Congress are calling for urgent legislative
+      measures in response to the Biden administration's plans for increased intervention
+      in Venezuela, as reported by Jake Johnson. The push for emergency action reflects
+      concerns over the implications of U.S. involvement in the country, highlighting
+      the need for a more cautious approach to foreign policy in the region.
+    published: '2026-01-03T21:17:24+00:00'
+  - title: Trump’s Act of War
+    url: https://consortiumnews.com/2026/01/03/trumps-act-of-war/
+    text: This is from the same playbook that destroyed Iraq, Libya, Afghanistan and
+      perpetrated coups across Asia, Africa and Latin America, write Medea Benjamin
+      and Michelle Ellner. By Medea Benjamin and Michelle Ellner Common Dreams Overnight,
+      the United States government bombed… Read more →
+    one_sentence_summary: Medea Benjamin and Michelle Ellner argue that the recent U.S.
+      military actions reflect a troubling pattern of interventionism reminiscent of
+      past conflicts in Iraq, Libya, and Afghanistan, as well as various coups in other
+      regions.
+    paragraph_summary: Medea Benjamin and Michelle Ellner argue that the recent actions
+      of the United States government, including bombings, reflect a troubling pattern
+      reminiscent of past military interventions that have destabilized countries like
+      Iraq, Libya, and Afghanistan, as well as orchestrated coups in various regions.
+      They suggest that these aggressive tactics are part of a broader strategy that
+      prioritizes U.S. interests over the stability and well-being of affected nations,
+      raising concerns about the consequences of such foreign policy decisions.
+    published: '2026-01-03T19:24:00+00:00'
+  - title: Trump’s Act of War
+    url: https://consortiumnews.com/2026/01/03/trumps-act-of-war/
+    text: This is from the same playbook that destroyed Iraq, Libya, Afghanistan and
+      perpetrated coups across Asia, Africa and Latin America, write Medea Benjamin
+      and Michelle Ellner. By Medea Benjamin and Michelle Ellner Common Dreams Overnight,
+      the United States government bombed… Read more →
+    one_sentence_summary: Medea Benjamin and Michelle Ellner argue that the recent U.S.
+      military actions reflect a troubling pattern of interventionism reminiscent of
+      past conflicts in Iraq, Libya, and Afghanistan, as well as various coups in other
+      regions.
+    paragraph_summary: Medea Benjamin and Michelle Ellner argue that the recent actions
+      of the United States government, including bombings, reflect a troubling pattern
+      reminiscent of past military interventions that have destabilized countries like
+      Iraq, Libya, and Afghanistan, as well as orchestrated coups in various regions.
+      They suggest that these aggressive tactics are part of a broader strategy that
+      prioritizes U.S. interests over the stability and well-being of affected nations,
+      raising concerns about the consequences of such foreign policy decisions.
+    published: '2026-01-03T19:24:00+00:00'
+  - title: 'JOHN KIRIAKOU: Contraband'
+    url: https://consortiumnews.com/2026/01/02/john-kiriakou-contraband/
+    text: The truth is this is exactly how drugs get into American prisons. By John
+      Kiriakou Special to Consortium News I have a cousin (actually, the son of a cousin)
+      who was employed as a prison guard in rural Ohio. I’ll… Read more →
+    one_sentence_summary: The article by John Kiriakou discusses how drugs are smuggled
+      into American prisons, drawing on personal insights from his cousin who worked
+      as a prison guard in Ohio.
+    paragraph_summary: In his article for Consortium News, John Kiriakou discusses the
+      alarming issue of drug smuggling into American prisons, drawing from his personal
+      connection to a prison guard in rural Ohio. He highlights the various methods
+      used to transport drugs into these facilities, emphasizing the systemic failures
+      and vulnerabilities that allow such activities to persist. Kiriakou's insights
+      shed light on the broader implications of drug access in prisons and the challenges
+      faced by correctional institutions in maintaining safety and security.
+    published: '2026-01-02T11:07:05+00:00'
+  - title: 'JOHN KIRIAKOU: Contraband'
+    url: https://consortiumnews.com/2026/01/02/john-kiriakou-contraband/
+    text: The truth is this is exactly how drugs get into American prisons. By John
+      Kiriakou Special to Consortium News I have a cousin (actually, the son of a cousin)
+      who was employed as a prison guard in rural Ohio. I’ll… Read more →
+    one_sentence_summary: The article by John Kiriakou discusses how drugs are smuggled
+      into American prisons, drawing on personal insights from his cousin who worked
+      as a prison guard in Ohio.
+    paragraph_summary: In his article for Consortium News, John Kiriakou discusses the
+      alarming issue of drug smuggling into American prisons, drawing from his personal
+      connection to a prison guard in rural Ohio. He highlights the various methods
+      used to transport drugs into these facilities, emphasizing the systemic failures
+      and vulnerabilities that allow such activities to persist. Kiriakou's insights
+      shed light on the broader implications of drug access in prisons and the challenges
+      faced by correctional institutions in maintaining safety and security.
+    published: '2026-01-02T11:07:05+00:00'
+  - title: Choose Top 10 CN 2025 Photos
+    url: https://consortiumnews.com/2026/01/02/choose-top-10-cn-2025-photos/
+    text: Choose your favorites from among 20 nominated photos. These are the 20 original
+      Consortium News photos of 2025 nominated for the top ten of the year. The photos
+      are listed in chronological order Please vote in the comments section by… Read
+      more →
+    one_sentence_summary: The article invites readers to vote for their favorite among
+      20 nominated photos from Consortium News for the top ten of the year, presented
+      in chronological order.
+    paragraph_summary: The article invites readers to select their favorite photos from
+      a collection of 20 nominated images by Consortium News for the top ten of the
+      year. The photos are presented in chronological order, and readers are encouraged
+      to cast their votes in the comments section.
+    published: '2026-01-02T11:06:19+00:00'
+  - title: Choose Top 10 CN 2025 Photos
+    url: https://consortiumnews.com/2026/01/02/choose-top-10-cn-2025-photos/
+    text: Choose your favorites from among 20 nominated photos. These are the 20 original
+      Consortium News photos of 2025 nominated for the top ten of the year. The photos
+      are listed in chronological order Please vote in the comments section by… Read
+      more →
+    one_sentence_summary: The article invites readers to vote for their favorite among
+      20 nominated photos from Consortium News for the top ten of the year, presented
+      in chronological order.
+    paragraph_summary: The article invites readers to select their favorite photos from
+      a collection of 20 nominated images by Consortium News for the top ten of the
+      year. The photos are presented in chronological order, and readers are encouraged
+      to cast their votes in the comments section.
+    published: '2026-01-02T11:06:19+00:00'
+  - title: 2024 Photo Contest Winners
+    url: https://consortiumnews.com/2026/01/02/2024-photo-contest-winners/
+    text: As Consortium News launches its Top 10 Photos of the Year Contest for 2025,
+      we reveal 2024’s winners. Here are winners of the top 10 Photos of 2024 as selected
+      by our readers, from 20 nominees.  First Place Second Place … Read more →
+    one_sentence_summary: Consortium News announces the winners of its Top 10 Photos
+      of 2024 contest, selected by readers from a pool of 20 nominees, as it prepares
+      to launch the contest for 2025.
+    paragraph_summary: Consortium News has announced the launch of its Top 10 Photos
+      of the Year Contest for 2025 while revealing the winners for 2024, chosen by readers
+      from a selection of 20 nominees. The article highlights the top 10 photos, showcasing
+      the creativity and talent of the photographers recognized in this annual contest.
+    published: '2026-01-02T11:05:39+00:00'
+  - title: 2024 Photo Contest Winners
+    url: https://consortiumnews.com/2026/01/02/2024-photo-contest-winners/
+    text: As Consortium News launches its Top 10 Photos of the Year Contest for 2025,
+      we reveal 2024’s winners. Here are winners of the top 10 Photos of 2024 as selected
+      by our readers, from 20 nominees.  First Place Second Place … Read more →
+    one_sentence_summary: Consortium News announces the winners of its Top 10 Photos
+      of 2024 contest, selected by readers from a pool of 20 nominees, as it prepares
+      to launch the contest for 2025.
+    paragraph_summary: Consortium News has announced the launch of its Top 10 Photos
+      of the Year Contest for 2025 while revealing the winners for 2024, chosen by readers
+      from a selection of 20 nominees. The article highlights the top 10 photos, showcasing
+      the creativity and talent of the photographers recognized in this annual contest.
+    published: '2026-01-02T11:05:39+00:00'
+  - title: 'PATRICK LAWRENCE: New Year’s Notes on Purported Leaders'
+    url: https://consortiumnews.com/2025/12/31/patrick-lawrence-new-years-notes-on-purported-leaders/
+    text: It is no use hoping for any alteration in the collective West’s course so
+      long as today’s “purported leaders” remain in office.  By Patrick Lawrence Special
+      to Consortium News “Heaven is high and the emperor is far away.” So did Chinese…
+      Read more →
+    one_sentence_summary: The article argues that any change in the collective West's
+      direction is unlikely as long as the current leaders remain in power.
+    paragraph_summary: In his article for Consortium News, Patrick Lawrence argues that
+      there is little hope for a change in the direction of the collective West as long
+      as current leaders remain in power. He references a Chinese proverb to emphasize
+      the disconnect between those in authority and the realities faced by the populace,
+      suggesting that the existing leadership is unlikely to alter their course or approach.
+      Lawrence's commentary reflects a broader skepticism about the effectiveness of
+      contemporary political leadership in addressing pressing global issues.
+    published: '2025-12-31T19:00:05+00:00'
+  - title: 'PATRICK LAWRENCE: New Year’s Notes on Purported Leaders'
+    url: https://consortiumnews.com/2025/12/31/patrick-lawrence-new-years-notes-on-purported-leaders/
+    text: It is no use hoping for any alteration in the collective West’s course so
+      long as today’s “purported leaders” remain in office.  By Patrick Lawrence Special
+      to Consortium News “Heaven is high and the emperor is far away.” So did Chinese…
+      Read more →
+    one_sentence_summary: The article argues that any change in the collective West's
+      direction is unlikely as long as the current leaders remain in power.
+    paragraph_summary: In his article for Consortium News, Patrick Lawrence argues that
+      there is little hope for a change in the direction of the collective West as long
+      as current leaders remain in power. He references a Chinese proverb to emphasize
+      the disconnect between those in authority and the realities faced by the populace,
+      suggesting that the existing leadership is unlikely to alter their course or approach.
+      Lawrence's commentary reflects a broader skepticism about the effectiveness of
+      contemporary political leadership in addressing pressing global issues.
+    published: '2025-12-31T19:00:05+00:00'
+  - title: Consortium News’ Suit Against NewsGuard & the USG
+    url: https://consortiumnews.com/2025/12/31/consortium-news-suit-against-newsguard-the-usg/
+    text: A U.S. federal judge dismissed Consortium News’ action, calling CN “contrarian”
+      and saying it resorted to a “Hail Mary pass.” CN then settled legal fees with
+      NewsGuard. U.S. District Judge Katherine Polk Failla in the Southern District
+      of New York… Read more →
+    one_sentence_summary: A U.S. federal judge dismissed Consortium News' lawsuit, labeling
+      it as "contrarian" and a "Hail Mary pass," after which CN settled its legal fees
+      with NewsGuard.
+    paragraph_summary: A U.S. federal judge dismissed Consortium News' lawsuit, labeling
+      the organization as "contrarian" and suggesting its legal strategy was a desperate
+      attempt. Following this dismissal, Consortium News reached a settlement regarding
+      legal fees with NewsGuard. The ruling was made by U.S. District Judge Katherine
+      Polk Failla in the Southern District of New York.
+    published: '2025-12-31T10:57:22+00:00'
+  - title: Consortium News’ Suit Against NewsGuard & the USG
+    url: https://consortiumnews.com/2025/12/31/consortium-news-suit-against-newsguard-the-usg/
+    text: A U.S. federal judge dismissed Consortium News’ action, calling CN “contrarian”
+      and saying it resorted to a “Hail Mary pass.” CN then settled legal fees with
+      NewsGuard. U.S. District Judge Katherine Polk Failla in the Southern District
+      of New York… Read more →
+    one_sentence_summary: A U.S. federal judge dismissed Consortium News' lawsuit, labeling
+      it as "contrarian" and a "Hail Mary pass," after which CN settled its legal fees
+      with NewsGuard.
+    paragraph_summary: A U.S. federal judge dismissed Consortium News' lawsuit, labeling
+      the organization as "contrarian" and suggesting its legal strategy was a desperate
+      attempt. Following this dismissal, Consortium News reached a settlement regarding
+      legal fees with NewsGuard. The ruling was made by U.S. District Judge Katherine
+      Polk Failla in the Southern District of New York.
+    published: '2025-12-31T10:57:22+00:00'
+  - title: 365 Days Left for Tax-Deductible 2026 Donation
+    url: https://consortiumnews.com/2025/12/31/stop-paying-msm-3-days-left-for-2025-donation/
+    text: You have until midnight Dec. 31, 2026 to show your support for Consortium
+      News‘ unique brand of independent journalism with a 2026 tax deductible donation.
+      There are plenty of ways you are still paying for big media that serves the… Read
+      more →
+    one_sentence_summary: You can support Consortium News' independent journalism with
+      a tax-deductible donation by December 31, 2026, as an alternative to funding mainstream
+      media.
+    paragraph_summary: Consortium News is encouraging readers to support its independent
+      journalism by making tax-deductible donations before the deadline of December
+      31, 2026. The article highlights the importance of alternative media in contrast
+      to mainstream outlets, emphasizing that financial contributions can help sustain
+      their unique reporting and analysis.
+    published: '2025-12-31T05:01:23+00:00'
+  - title: 365 Days Left for Tax-Deductible 2026 Donation
+    url: https://consortiumnews.com/2025/12/31/stop-paying-msm-3-days-left-for-2025-donation/
+    text: You have until midnight Dec. 31, 2026 to show your support for Consortium
+      News‘ unique brand of independent journalism with a 2026 tax deductible donation.
+      There are plenty of ways you are still paying for big media that serves the… Read
+      more →
+    one_sentence_summary: You can support Consortium News' independent journalism with
+      a tax-deductible donation by December 31, 2026, as an alternative to funding mainstream
+      media.
+    paragraph_summary: Consortium News is encouraging readers to support its independent
+      journalism by making tax-deductible donations before the deadline of December
+      31, 2026. The article highlights the importance of alternative media in contrast
+      to mainstream outlets, emphasizing that financial contributions can help sustain
+      their unique reporting and analysis.
+    published: '2025-12-31T05:01:23+00:00'
   - title: 'Holiday Offer: Become Member, Get 4 Bob Parry Books!'
     url: https://consortiumnews.com/2025/12/30/become-a-member-get-4-bob-parry-books/
     text: Happy Holidays from Consortium News.  Become a member of the first U.S. independent

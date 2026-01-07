@@ -7,16 +7,517 @@ description: "Cambridge–educated researcher at RMIT; writes widely on imperial
 websites:
   - https://counterpunch.org/author/jete6/
 summary: |
-  As 2025 draws to a close, global tensions and domestic anxieties continue to shape the geopolitical landscape, with Australia, the United States, and the Middle East at the forefront of recent developments.
+  The start of 2026 finds global politics marked by intensifying interventionism, contested narratives around free speech, and the continued erosion of international norms. Recent developments underscore a pattern of aggressive foreign policy, particularly from the United States under President Trump, as well as mounting concerns over the manipulation of legal and humanitarian frameworks for political ends.
   
-  In Australia, the aftermath of the Bondi killings has prompted a wave of legislative crackdowns on pro-Palestinian protests. **Binoy Kampmark** notes that NSW Premier Chris Minns' government has enacted repressive measures that "unjustly restrict free speech and protests," arguing these laws scapegoat marginalized groups rather than addressing the deeper historical and cultural complexities behind the violence. The majority view among analysts is that this approach risks undermining societal harmony and may fuel further polarization.
+  The most significant new development is the U.S. military intervention in Venezuela, which **Binoy Kampmark** describes as a "gangster" revival of the Monroe Doctrine. The operation against Nicolás Maduro is widely viewed as a stark departure from international law, with justifications that many analysts find unconvincing and reminiscent of past imperial overreach. This move has drawn sharp criticism for its disregard of sovereignty and its potential to destabilize the region further. According to **Kampmark**, the intervention is “absurd in its rationale,” and signals a broader trend of U.S. willingness to bypass multilateral norms in pursuit of strategic interests.
   
-  Simultaneously, Australia’s relationship with international human rights bodies remains fraught. According to **Binoy Kampmark**, Canberra’s ongoing obstruction of UN human rights delegates—especially regarding oversight of its criminal justice system—reflects "bureaucratic secrecy" and a lack of accountability. The consensus is that without significant reform, Australia’s international reputation on human rights will continue to deteriorate, with a high chance of increased scrutiny from global watchdogs in 2026.
+  In parallel, the U.S. and European Union continue to face scrutiny for their approach to free speech and sanctions. Recent measures targeting dissenting voices—especially those critical of the Ukraine War—are seen by many as hypocritical and counterproductive. **Kampmark** notes that these actions “undermine true freedom of expression,” as Western powers increasingly resort to sanctions and legal restrictions to police narratives, raising questions about the future of open debate in democratic societies.
   
-  On the international stage, the awarding of the Nobel Peace Prize to María Corina Machado has sparked controversy. **Binoy Kampmark** reports that Julian Assange has filed a criminal complaint against the Nobel Foundation, arguing Machado’s support for military intervention contradicts Alfred Nobel’s intent for the prize. This dispute highlights ongoing debates about the politicization of peace awards and the blurred lines between advocacy and incitement.
+  On the international legal front, Australia’s resistance to UN human rights oversight has drawn renewed attention. The government’s bureaucratic obstructionism and lack of transparency regarding criminal justice practices have prompted calls for accountability and reform. This is compounded by recent repressive legislation in response to violence, which critics argue scapegoats marginalized groups and suppresses legitimate protest.
   
-  Looking ahead, the trend across these issues is one of heightened securitization and diminishing space for dissent, both domestically and internationally. There is a high chance that Australia’s current trajectory will lead to further legal challenges and public backlash, especially as marginalized communities and civil society groups push back against restrictive measures. On the global front, controversies over the legitimacy of peace awards and international oversight are likely to intensify, with most analysts predicting that 2026 will see increased polarization and contestation over the meaning of peace, justice, and accountability.
+  Looking ahead, the prevailing trends point to a high likelihood of continued U.S. assertiveness abroad, with little regard for established international norms—a development that **Kampmark** and other analysts see as most definitely leading to further instability in affected regions. The clampdown on dissent in Western democracies is also quite likely to persist, potentially fueling domestic polarization and undermining claims of moral leadership. Meanwhile, the erosion of accountability mechanisms, both domestically and internationally, suggests that rights abuses and bureaucratic secrecy will remain entrenched challenges in the near term.
 articles:
+  - title: 'The Don-roe Doctrine in Action: Trump’s Gangster Intervention in Venezuela'
+    url: https://www.counterpunch.org/2026/01/03/the-don-roe-doctrine-in-action-trumps-gangster-intervention-in-venezuela/
+    text: 'It has been an accusation long levelled at certain US politicians that their
+      brains might have been softened by a lengthy diet of television, Westerns, and
+      the heroic triumphalism of the prattling cowboy. There was never going to be a
+      break with this tradition regarding President Donald Trump, except the fact that
+      he claimed to be more restrained on the draw. Of late, that restraint has vanished.
+      A buildup of US army personnel in the Caribbean; the bombing, on fatuous grounds,
+      of vessels in the Caribbean Sea carrying fictional narco-cargo destined for the
+      United States and, just to top things, delirious notions about attacking the Islamic
+      Republic of Iran in the early hours of the morning in the event protestors are
+      shot.
+
+
+      It was clear after the release of the 2025 National Security Strategy that this
+      administration was going to shred the inhibitions imposed by international law
+      and opt for the more liberating costumery of gangsterism. In the Western Hemisphere,
+      the United States would assert its muscle and dictate terms, as it has done previously,
+      to countries in Latin America. Washington desired “a Hemisphere whose governments
+      cooperate with us against narco-terrorists, cartels, and other transnational criminal
+      organizations”, one “that remains free of hostile foreign incursion or ownership
+      of key assets, and that supports critical supply chains” and ensured “continued
+      access to key strategic locations. In other words, we will assert and enforce
+      a ‘Trump Corollary’ to the Monroe Doctrine.”
+
+
+      Venezuela has become the first target of this corollary. On January 3, a little
+      after 2 am local time, Caracas, and other sites in the country, were attacked
+      by US forces as part of Operation Absolute Resolve. By 4:21 am, Trump announced
+      that the Venezuelan President Nicolás Maduro and his wife Cilia Flores had been
+      captured. The Joint Chiefs Chairman Gen. Dan Caine, at a press conference held
+      at the President’s Florida compound, spoke of, “An extraction so precise it involved
+      more than 150 aircraft launching across the Western Hemisphere in close coordination,
+      all coming together in time and place to layer effects for a single purpose, to
+      get an interdiction force into downtown Caracas while maintaining the element
+      of tactical surprise.”
+
+
+      Caine also revealed that US intelligence teams had been eyeing Maduro and his
+      wife for months. With a thuggish flourish, the general explained that those teams
+      had monitored the leader to “understand how he moved, where he lived, where he
+      travelled, what he ate, what he wore, and what were his pets.”
+
+
+      Trump, in explaining the rationale behind the Venezuelan action, spoke ever immodestly
+      about the “Don-roe Doctrine.” The Maduro regime had hosted “foreign adversaries
+      in our region and acquiring menacing offensive weapons that could threaten US
+      interests and lives”. This was “in gross violation of the core principles of American
+      foreign policy, dating back more than two centuries”. The Monroe Doctrine had
+      been “a big deal, but we’ve superseded it by a lot, a real lot. They now call
+      it the ‘Don-roe Doctrine.’”
+
+
+      US Attorney General Pam Bondi swiftly announced that Maduro had been indicted
+      in the Southern District of New York on a fruit salad array of implausible charges:
+      “Narco-Terrorism Conspiracy, Cocaine Importation Conspiracy, Possession of Machineguns
+      and Destructive Devices against the United States.” As with previous, implausibly
+      elastic categories of combatant hatched by the US Justice Department and White
+      House – that of “unlawful combatant” or “unprivileged belligerent” conceived by
+      the administration of George W. Bush comes to mind – a category has been invented
+      to inspire a false resolution.
+
+
+      The invented category of narco-terrorism has revealed the limits of legal literacy
+      of the Trump administration. Such a term, imputing links between government officials,
+      organised crime and terrorism, supposedly vests war making powers in the executive
+      along with, it transpires in the case of Maduro, abduction powers regarding the
+      foreign leader of a state. The US Congress has again been roguishly sidestepped.
+
+
+      The dress rehearsal for this commenced on September 2 last year when Trump stated
+      in a War Powers Resolution notification to Congress that military strikes on alleged
+      narco-vessels operating in the Caribbean and Pacific Ocean were “self-defense”
+      measures motivated by “the inability or unwillingness of some states in the region
+      to address the continuing threat to United States persons and interests emanating
+      from their territories”.
+
+
+      In October, a presidential notice was issued turning those killed in alleged drug
+      smuggling as “unlawful combatants”, thereby twinning this administration’s lexical
+      imagination with that of George W. Bush. For Bush, that imagination extended to
+      fictional weapons of mass destruction (WMDs) held by Saddam Hussein’s Iraq that
+      might be used against Americans and their allies at any given moment. Furthermore,
+      they might fall into the hands of non-state actors.
+
+
+      In Trump’s case, fantasies about Maduro as a wily drugs chieftain hosting rebel
+      groups pullulate. Much of this is sheer nonsense given that the country has little
+      to nothing to do with the flow of cocaine into the US. But there is oil to be
+      seized and managed by US companies and the Don-roe doctrine to maintain.
+
+
+      In responding to this act of breezy criminality, countries programmed to emphasise
+      the “rules-based” international order find themselves in a bind. The European
+      Union, instead of spluttering and raging, proved meek, mocking Maduro’s status
+      as Venezuela’s leader yet finding it hard to condemn Trump’s flouting of convention
+      and the UN Charter. The EU high representative for foreign affairs, Kaja Kallas,
+      was most indicative: “The EU has repeatedly stated that Mr Maduro lacks legitimacy
+      and has defended a peaceful transition. Under all circumstances, the principles
+      of international law and the UN Charter must be respected. We call for restraint.”
+
+
+      In Britain, Trump fanboy and leader of Reform UK Nigel Farage expressed that ecstatic
+      confusion that comes with admiring an untutored, unrestrained bully in international
+      relations. “The American actions in Venezuela overnight are unorthodox and contrary
+      to international law – but if they make China and Russia think twice, it may be
+      a good thing.”
+
+
+      The response from Roderich Kiesewetter, MP from Germany’s conservative Christian
+      Democratic Union, was more tutored. “The coup in Venezuela marks a return to the
+      old US doctrine from before 1940: a mindset of thinking in terms of spheres of
+      influence, where the law of force rules, not international law.” The reaction
+      from the Cuban government was much in the same vein, though more colourful: “This
+      is a blatant imperialist and fascist aggression with objectives of domination,
+      aimed at reviving US hegemonic ambitions over Our America, rooted in the Monroe
+      Doctrine, and at achieving unrestricted access to and control over the natural
+      wealth of Venezuela and the region.”
+
+
+      The kidnapping of leaders by bullying powers in the post-1945 world is not new.
+      Hungary’s deceived Imre Nagy, seen as the figurehead of the Hungarian uprising
+      of 1956, was seized by the Soviet Union for disciplinary action that culminated
+      in his trial and execution. Czechoslovakia’s Alexander Dubček, leader of the crushed
+      Prague Spring of 1968, was spared execution but faced similar ideological chastisement
+      by the Soviet leadership for implementing reforms. Within their sphere of influence,
+      the Soviets were keen to dissuade unruly contrarians that their leaders might,
+      at any moment, be kidnapped, executed or reprogrammed at will. Trump has, without
+      knowing it, joined a most dubious club.'
+    one_sentence_summary: The article critiques President Donald Trump's aggressive
+      foreign policy approach, particularly the military operation against Venezuela's
+      Nicolás Maduro, framing it as a departure from international law and a revival
+      of imperialistic tactics reminiscent of the Monroe Doctrine, while highlighting
+      the absurdity of the justifications used for such actions.
+    paragraph_summary: The article critiques President Donald Trump's aggressive foreign
+      policy, particularly his administration's actions in Venezuela, which are framed
+      as a revival of the Monroe Doctrine under a new guise dubbed the "Don-roe Doctrine."
+      It details a military operation that led to the capture of Venezuelan President
+      Nicolás Maduro, justified by claims of narco-terrorism and threats to U.S. interests.
+      The piece argues that this approach reflects a broader trend of U.S. gangsterism
+      in international relations, undermining legal norms and sidestepping Congress.
+      The article also highlights the mixed international reactions to Trump's actions,
+      with some European leaders expressing concern over the violation of international
+      law, while others, like British politician Nigel Farage, view the actions as potentially
+      beneficial in countering adversaries like China and Russia. Ultimately, the article
+      positions Trump's tactics within a historical context of powerful nations employing
+      coercive measures against weaker states, suggesting a troubling return to imperialistic
+      practices.
+    published: '2026-01-03T14:50:11+00:00'
+  - title: 'A Thesis Confirmed: Epstein, Dershowitz and the Israel Lobby'
+    url: https://www.counterpunch.org/2026/01/01/a-thesis-confirmed-epstein-dershowitz-and-the-israel-lobby/
+    text: 'Conman, convict, paedophile and a life terminated in circumstances of purported
+      suicide. The list for Jeffrey E. Epstein, figure of cosmic social and political
+      influence in the United States, is long. Trafficking in female flesh for his extensive
+      client list, lubricated by his lover Ghislaine Maxwell, tends to be the crowning
+      feature of most discussions about his sordid legacy. Another shrouded aspect has
+      been neglected.
+
+
+      The fuss about releasing the Epstein files – the slowness with which the US Justice
+      Department is undertaking that task, the erratic nature of its redactions, and
+      what gold nuggets might be found – gives us a chance to examine the Israeli dimension
+      in US politics. In November, Ryan Grim and Murtaza Hussain of Drop Site News showed
+      the seedier side of that dimension in exposing Epstein’s role in what can be loosely
+      termed the Israeli lobby. This involved a dedicated effort to discredit the work
+      of two scholars, John Mearsheimer and Stephen Walt, who had done much to sketch
+      the outlines of the very thing his own conduct affirmed.
+
+
+      Originally commissioned in late 2002 by The Atlantic, the article, written as
+      a working paper, was simply entitled “The Israeli Lobby”. The subject, however,
+      had become heated and worrying to the editors. When the article was ready for
+      publication, the United States was involved in a futile, bloody conflict in Iraq
+      that Mearsheimer and Walt argued was “motivated in good part by a desire to make
+      Israel more secure.” The authors were offered a “kill fee” of $10,000 for their
+      consent to pull the piece. “That’s the fastest $10,000 we ever made,” quipped
+      Mearsheimer in an interview with Tucker Carlson.
+
+
+      The article eventually found a home at the London Review of Books, to be followed
+      in book form, having an immediate, incendiary effect. It notes the Israeli Lobby
+      as an extensive, fanning presence in the American political landscape, comprising
+      think tanks, the muscular American Israel Public Affairs Committee, neoconservatives,
+      Christian Zionists, and journalists with clout. Its aims are clear: “Maintaining
+      US support for Israel’s policies against the Palestinians is essential in so far
+      as the Lobby is concerned, but its ambitions do not stop there. It also wants
+      America to help Israel remain the dominant regional power.” Hand in hand, Israel
+      and pro-Israel groups in the US had “worked together to shape the administration’s
+      policy toward Iraq, Syria and Iran, as well as its grand scheme for reordering
+      the Middle East.”
+
+
+      Epstein proceeded to play a role in the campaign against Walt and Mearsheimer.
+      His pro-Israel credentials were impeccable. He had a close relationship with former
+      Israeli Prime Minister Ehud Barak. He aided the brokering of various deals for
+      Israeli intelligence and security interests. These included oiling a security
+      agreement between Israel and Mongolia; aiding the creation of a backchannel between
+      Israel and Russia during the Syrian Civil War and facilitating a security agreement
+      between Israel and the West African state of Côte d’Ivoire. He hosted an Israeli
+      intelligence officer, Yoni Koren, on at least three occasions in Manhattan. “He
+      was a dealmaker and a fixer at a very, very elite level,” says Hussain.
+
+
+      One need not bother about the accusation that Epstein might have been in the specific
+      pay of the Israeli intelligence service to show where his allegiances lay. He
+      was a dedicated spear carrier for Israeli interests. In the apoplexy that broke
+      out among members of the lobby to the Walt and Mearsheimer paper, he featured
+      prominently, as emails from his Yahoo! account reveal. Epstein’s specific role
+      in targeting the two scholars came from correspondence obtained by the non-profit
+      whistleblower entity Distributed Denial of Secrets and made available to Drop
+      Site News.
+
+
+      Of interest here is the correspondence between Epstein and Harvard law professor
+      Alan M. Dershowitz, himself a devoted apologist for Israeli causes. During the
+      first week of April 2006 Dershowitz, who also acted for Epstein in criminal matters,
+      passed on several drafts of his article “Debunking the Newest – and Oldest – Jewish
+      Conspiracy” to the financier. That tatty, travesty of a piece accused Walt and
+      Mearsheimer of putting together “little more than a compilation of old, false,
+      and authoritatively discredited charges dressed up in academic garb”, incarnating
+      in modern form the conspiratorial tract The Protocols of the Elders of Zion.
+
+
+      After Epstein’s warm congratulations for the libellous effort, the question of
+      how best to distribute the piece comes to the fore. To a query from Dershowitz’s
+      email address sent by an assistant regarding progress on the matter, Epstein replies:
+      “yes I’ve started.” Here, the vital entrails of the Lobby become clear: Epstein’s
+      relationship with Harvard (donor of sums over $9 million between 1998 and 2008);
+      Epstein as trustee and president of the family financial office of retail mogul
+      and philanthropist Leslie Wexner, himself a donor of almost $20 million to the
+      Kennedy School between 2000 and 2006 via a foundation bearing his name and responsible
+      for a scholar program for visiting Israeli government officials to study a one-year
+      Master’s degree.
+
+
+      The effect of such strategizing was to curb the reach of Walt and Mearsheimer.
+      Scheduled talks were cancelled or readjusted to include a pro-Israeli voice. Mearsheimer,
+      in reacting to the emails, proved characteristically unflappable. “I’m not surprised
+      to see these emails, because Dershowitz and Epstein were close and both have a
+      passionate attachment to Israel.” It will be a frigid comfort for both he and
+      Walt that their thesis on the bewitching influence of the Israeli lobby’s workings
+      has been so profoundly vindicated.'
+    one_sentence_summary: The article discusses Jeffrey Epstein's significant yet underexplored
+      role in supporting the Israeli lobby in the U.S., particularly through his efforts
+      to discredit scholars John Mearsheimer and Stephen Walt, whose work critiqued
+      the influence of this lobby on American foreign policy.
+    paragraph_summary: 'The article discusses the complex legacy of Jeffrey E. Epstein,
+      a notorious figure known for his criminal activities, including sex trafficking,
+      and his connections to powerful political and social circles in the U.S. It highlights
+      a lesser-known aspect of his influence: his involvement in discrediting the work
+      of scholars John Mearsheimer and Stephen Walt, who argued that the Israeli lobby
+      significantly shapes U.S. foreign policy in favor of Israel. Epstein''s strong
+      pro-Israel stance and connections, including his relationship with former Israeli
+      Prime Minister Ehud Barak, positioned him as a key player in efforts to undermine
+      Mearsheimer and Walt''s thesis, which posited that the lobby''s influence extends
+      to various aspects of American politics and military engagements in the Middle
+      East. The article reveals Epstein''s role in orchestrating campaigns against the
+      scholars, including collaborating with prominent figures like Harvard law professor
+      Alan Dershowitz, ultimately showcasing the intricate ties between Epstein''s dealings
+      and the broader dynamics of U.S.-Israel relations.'
+    published: '2026-01-01T06:52:27+00:00'
+  - title: 'The Charge of the Padded Brigade: England in Australia'
+    url: https://www.counterpunch.org/2025/12/30/the-charge-of-the-padded-brigade-england-in-australia/
+    text: 'It’s been one of the strangest cricket series on record. Hurried, frenetic,
+      foolish, haphazard and, at points, unbecomingly immature. The cricket between
+      England and Australia in this, the 2025-6 Ashes series, was a recreational coke
+      line, a narcotics fix, a dopamine thrill. But was it even cricket? One thinks
+      of those deathless lines from the French general Pierre Bosquet responding to
+      the British light cavalry attack on Russian artillery during the Crimean War in
+      October 1854: “C’est magnifique, mais ce n’est pas la guerre: c’est de la folie”
+      (It is magnificent, but it is not war: it is madness). Position this same Frenchman
+      in Gallic severity at the Melbourne Cricket Ground during the Boxing Day Test
+      match between the oldest rivals of the game and we might well have something similarly
+      stated: “Magnificent, but was it cricket? It was certainly mad.”
+
+
+      This series has seen some of the earliest conclusions of Test matches in recent
+      memory. (Two matches were extinguished in two days.) Much attention has been paid
+      to that gaudy, streakily packaged confection called Bazball, the creation of the
+      English coach and former New Zealand cricketer Brendon McCullum. It might have
+      simply been called cricket of the entertaining, playful variety: rapid, giddy
+      scoring, above all entertaining; scintillating, sharp bowling and smaller totals
+      to chase. But it was far more than that. It suggested a relaxed disposition to
+      the dusty protocols of tradition: fewer training sessions; fewer warmup matches;
+      and more golf and activities unrelated to the essentials of the game.
+
+
+      We live in an age of increasingly shorter attention spans conditioned by the flashing
+      image and addiction to the screen. This fact is mirrored by shorter forms of cricket.
+      Twenty20 cricket, involving 20 overs a side (120 legal deliveries) has sliced
+      into the patience and attention of the modern cricket audience. That said, the
+      number of spectators during this Ashes Test series were some of the healthiest
+      ever seen, thwarted by the fact that all the games bar one made it into the fifth
+      day. They were, however, treated to what was described by the collective of cricket
+      scribblers and critics as of the “fast forward” variety.
+
+
+      Aggressive cricket played with a hard boiled attitude is one thing; illogical
+      acts of seppuku when the team needs to accumulate a winning total is another.
+      All too often, in this series, suicide was made a habit, proving to be far from
+      painless. The English so happened to do it far more than the Australians. This
+      realised an observation made by Barney Ronay in February: that Bazball is not
+      so much a cult as a “death cult”. Hence England’s losses in the first three Tests,
+      ending their attempt to win their first Ashes trophy on Australian soil since
+      2010-1. It took till the Melbourne Cricket Ground’s victory inside two days to
+      end a 5,468-day drought of victories.
+
+
+      In this series, which is yet to start its fifth match, momentary, spectacular
+      displays of talent and rumblings of impressive achievement have been had. One
+      of England’s finest batsmen, Joe Root, finally scored his long-awaited century
+      in Australia. The lionhearted English captain, Ben Stokes, had his moments of
+      fortune with ball and bat. But by far, the dominant share of good cricket favoured
+      Australia, deservedly triumphant and, fundamentally, disciplined in single minded
+      toughness. Travis Head, that coarse figure of a man, steered his side to victory
+      in the opening Perth test with 123 runs off a mere 69 deliveries, shaming all
+      others before him. In Brisbane, the home side proved crushing, winning by 8 wickets.
+      In Adelaide, Head again impressed with 170 in his second innings, adding to the
+      century by the Australian wicketkeeper Alex Carey in the first. Throughout, Australia’s
+      bowlers proved remorselessly accurate and metronomically consistent. England proved
+      to be feeble.
+
+
+      Then came a dramatic victory for the tourists in the Boxing Day Test, a moment
+      of almost sacramental reverence in the Australian sporting calendar, reduced to
+      two days of thrilling, brief insanity. The players seemed utterly bewitched by
+      invisible demons carousing under the surface of the pitch. The wicket was described
+      as “furry”, suggesting a Yeti creating magical mayhem on the grass. One of the
+      most seasoned commentators in the outfit, England’s own Jonathan Agnew, suggested
+      many “readings” on the nature of the pitch. In the end, it’s the players that
+      make the pitch what it is, stifling the potency of those demons. They can be superstitious
+      and terrified, nervous and weak at the knees.
+
+
+      Some of the commentators were furious at this riotous display. Dean Bilton, writing
+      for the ABC, lost his nerve and tapped a streak of false nostalgia. “Almost none
+      of it was befitting the occasion or the historical significance of the Ashes.”
+      Piffle. “When record books remind us that the Boxing Day crowd was the greatest
+      ever in Australian cricket history, it will sting to think back upon what those
+      94,000 sat through.” Ask them, then.
+
+
+      True, many things and feats of skill are always lost when a five-day game is slashed
+      by three. There was no spell of slow bowling. No steady crafting and construction
+      of innings. Weather conditions, in addition to those of the pitch itself, were
+      not allowed their full, kaleidoscopic influence. As a scalp was being sought by
+      commentators, attention turned to the pitch itself. The grounds keeper had decided
+      to leave more grass on the wicket, hoping it would hold leading into the fourth
+      and fifth day. Conditions initially conducive to the bowlers would even out to
+      favour the bat. But the cricket world has been dazed by an obsession with brutal
+      batting and any rules that handicap bowlers. Anything seen as remotely favourable
+      to the bowler is abominated.
+
+
+      The English critic and writer Neville Cardus noted that, more than any other game,
+      cricket was inclined towards sentimentalism and cant. There is certainly no reason
+      to be sentimental about this series. All too often, the foolish reigned; at stages,
+      the brilliant asserted themselves sufficiently to push through to victory. But
+      the ones to really feel the pinch will be the treasurers of the Australian Cricket
+      Board, having lost millions on games that did not make the five days.'
+    one_sentence_summary: The 2025-6 Ashes series between England and Australia has
+      been characterized by chaotic and frenetic play, marked by record-breaking early
+      finishes and a departure from traditional cricketing norms, ultimately leading
+      to England's struggles and Australia's dominance amidst a backdrop of both thrilling
+      moments and questionable tactics.
+    paragraph_summary: The 2025-6 Ashes series between England and Australia has been
+      characterized as chaotic and frenetic, with matches concluding in record time,
+      including two that ended in just two days. This series, heavily influenced by
+      England's aggressive "Bazball" approach, has sparked debates about the essence
+      of cricket, as it often resembled a reckless spectacle rather than a traditional
+      contest. While Australia showcased disciplined and effective play, leading to
+      significant victories, England struggled, particularly in the first three Tests,
+      which some critics likened to a "death cult" due to their reckless batting. Despite
+      the thrilling nature of the matches and record attendance, the series has drawn
+      mixed reactions, with some lamenting the loss of traditional cricketing nuances
+      and others celebrating the excitement it brought. Ultimately, the series has raised
+      questions about the future of Test cricket and its appeal in an era of shorter
+      attention spans.
+    published: '2025-12-30T06:50:00+00:00'
+  - title: 'Sanctioning Fever: The United States, European Union and Free Speech'
+    url: https://www.counterpunch.org/2025/12/29/sanctioning-fever-the-united-states-european-union-and-free-speech/
+    text: 'At present, there is a pot-calling-the-kettle-black approach being taken
+      by the European Union and the United States regarding the imposition of sanctions
+      upon individuals deemed hostile to free speech. On December 23, the US State Department
+      announced that it would bar five European citizens accused of spearheading efforts
+      to pressure US tech giants to censor or suppress American opinions. This came
+      after the European Union’s own tilt to sanctioning individuals accused of spreading
+      Russian misinformation or disinformation, particularly about the Ukraine War.
+
+
+      Those caught in the State Department vice are former EU Commissioner for the internal
+      market Thierry Breton, a key figure behind the Digital Services Act (DSA), Josephine
+      Ballon and Anna-Lena von Hodenberg of the German legal aid organisation HateAid,
+      British head of the US-based Center for Countering Digital Hate (CCDH) Imran Ahmed,
+      and Clare Melford, co-founder of the Global Disinformation Index (GDI).
+
+
+      Von Hodenberg and Ballon assisted Jewish college students sue the social network
+      platform X over the dissemination of antisemitic content while Ahmed, in particular,
+      has been praised for his work by the Jewish Federations of North America (JFNA)
+      and Jewish Council for Public Affairs (JCPA) on advancing social media hygiene.
+      “He is a valuable partner in providing accurate and detailed information on how
+      the social media algorithms have created a bent toward antisemitism and anti-Zionism,
+      and he will remain a valuable partner,” insisted the JFNA’s head of government
+      relations, Dennis Bernard. Given that many a policy decision by the Trump administration
+      to withdraw from international institutions – the UN Human Rights Council comes
+      to mind – has been based on thinly justified accusations of antisemitism, this
+      was side splittingly comic.
+
+
+      US Secretary of State Marco Rubio was suitably bolshie in making the announcement,
+      calling the barred individuals “leading figures of the global censorship-industrial
+      complex”. “For too long, ideologues in Europe have led organized efforts to coerce
+      American platforms to punish American viewpoints they oppose. The Trump Administration
+      will no longer tolerate these egregious acts of extraterritorial censorship.”
+
+
+      Sarah Rogers, the US Undersecretary of State for Public Diplomacy, had her share
+      of stones to cast, lashing Breton for “ominously” reminding “[Elon] Musk of X’s
+      legal obligations and ongoing ‘formal proceedings’ for alleged noncompliance with
+      ‘illegal content’ and ‘disinformation’ requirements under the DSA.” Ahmed’s organisation
+      was taken to task for its 2022 “Disinformation Dozen” report lacerating anti-vaccination
+      advocates, among them the current US Secretary of Health, Robert F. Kennedy Jr.
+
+
+      A spokesperson for GDI called the sanctions an “authoritarian attack on free speech
+      and an egregious act of government censorship.” The Trump administration had yet
+      again used “the full weight of the federal government to intimidate, censor, and
+      silence voices they disagree with.” The actions were “immoral, unlawful and un-American.”
+      French President Emmanuel Macron saw matters in terms of autonomy, calling the
+      decision intimidatory and coercive “aimed at undermining European digital sovereignty”.
+
+
+      The European Union can hardly claim to be saintly on the subject of protecting
+      free speech either. When it comes to discussing Russian policies, tolerance for
+      its exercise shrinks. (Consider, for instance, the imposition of EU sanctions
+      on experts associated with the Russia-based international forum, the Valdai Club.)
+      The recent, most troubling case of Jacques Baud, a retired Swiss colonel living
+      in Brussels who finds himself the target of an executive sanctions listing, stands
+      out. The listing was made as part of the Russia hybrid-threats framework adopted
+      in October 2024 (Decision 2024/2643 and Regulation 2024/2642) covering such non-military
+      actions as the dissemination of disinformation and propaganda, cyberattacks and
+      interference in elections. Member States are directed to take measures against
+      “natural persons” who are involved, for instance, in “planning, directing, engaging
+      in, directly or indirectly, supporting or otherwise facilitating the use of coordinated
+      information manipulation and interference” in favour of Russia.
+
+
+      Baud, according to the EU sanctions tracker, is described as “a former Swiss army
+      colonel and strategic analyst [and] a regular guest on pro-Russian television
+      and radio programmes. He acts as a mouthpiece for pro-Russian propaganda and makes
+      conspiracy theories, for example, accusing Ukraine of orchestrating its own invasion
+      in order to join NATO.” An odd curriculum vitae to warrant an executive listing
+      that is punitive and lacking curial assessment.
+
+
+      For holding and promoting such views, an asset freeze has been placed upon him
+      within the EU jurisdiction, along with an entry and transit ban across the EU.
+      Stranger in this whole affair is the fact that Switzerland does not subscribe
+      to this monochrome sanctions regime. A situation of the absurd has been created:
+      a Swiss national residing in Brussels who is effectively incapable of returning
+      to Switzerland for expressing views no good European should have.
+
+
+      Attacking a viewpoint deemed unsavoury and out of step with accepted, if not dictated
+      opinion, is the very essence of censorship. The mood of the moment is that of
+      a bouncy militarism in Europe, a reverie of warmongering committing Member States
+      to ever increasing defence budgets against imaginary jackboots awaiting to make
+      their way to Paris and Brussels. Those wishing to question the Ukraine narrative
+      in terms of history and origin, or the need for the prolongation of war, have
+      become targets.
+
+
+      These formulas deny debate, endorse a police version of history, and affirm fundamentalist
+      scripts. Stick to the script, or else. It becomes chilling to then see various
+      countries and political entities punish those with undesirable, even unsavoury
+      opinions. This might be a good time for the EU to drop all pretence on the subject
+      and admit that opinions are there to be policed by the stuffy mandarins of the
+      day. And while there is much to be said that is problematic about such restrictive,
+      babying instruments as the UK’s Online Safety Act and the EU’s DSA, preventing
+      activists and researchers from travelling to a country where free speech is protected
+      seems similarly perverse.'
+    one_sentence_summary: The article critiques the hypocrisy of the European Union
+      and the United States in imposing sanctions on individuals for perceived threats
+      to free speech, highlighting recent actions by both entities that restrict dissenting
+      opinions, particularly regarding the Ukraine War and misinformation, while arguing
+      that such measures undermine true freedom of expression.
+    paragraph_summary: The article critiques the hypocrisy of the European Union (EU)
+      and the United States regarding their respective sanctions on individuals accused
+      of undermining free speech. The U.S. recently barred five European citizens, including
+      notable figures involved in combating online hate speech and misinformation, for
+      allegedly pressuring American tech companies to censor opinions. This move follows
+      the EU's own sanctions against individuals spreading Russian disinformation, highlighting
+      a pattern of both entities imposing restrictions on free speech under the guise
+      of protecting it. The article points out the absurdity of such actions, particularly
+      in the case of Jacques Baud, a Swiss national sanctioned by the EU for promoting
+      pro-Russian views, despite Switzerland not participating in the EU's sanctions
+      regime. The author argues that these measures stifle debate and enforce a narrow
+      narrative, ultimately undermining the principles of free speech that both the
+      EU and U.S. claim to uphold.
+    published: '2025-12-29T06:52:55+00:00'
   - title: 'Indiscriminate Suppression: Attacking pro-Palestinian Protests After the
       Bondi Killings'
     url: https://www.counterpunch.org/2025/12/25/indiscriminate-suppression-attacking-pro-palestinian-protests-after-the-bondi-killings/

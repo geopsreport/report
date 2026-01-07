@@ -7,14 +7,909 @@ description: "Gilbert Doctorow is a Brussels-based independent political analyst
 websites:
   - https://gilbertdoctorow.com/
 summary: |
-  As the Russia-Ukraine conflict grinds on into the final days of 2025, the diplomatic and military landscape remains tense, with little sign of substantive progress toward a negotiated settlement. The latest developments center on the fallout from an alleged Ukrainian drone attack targeting President Putin’s residence, which has drawn sharp criticism from India, Pakistan, and other Global South states. According to **Gilbert Doctorow**, this incident has also sparked skepticism in U.S. media regarding the veracity of Moscow’s claims, with some commentators referencing Ukraine’s history of alleged false flag operations.
+  As the first week of January 2026 unfolds, geopolitical tensions remain high across multiple theaters, with the Russia-Ukraine conflict, Middle East flashpoints, and U.S. foreign policy dominating the agenda. Recent independent analyses, particularly from **Gilbert Doctorow**, provide critical insights into the latest developments and the broader strategic landscape.
   
-  Meanwhile, despite public statements from both Donald Trump and Volodymyr Zelensky suggesting that a peace agreement is “ninety-five percent” complete, **Doctorow** asserts that neither Putin nor Zelensky is willing to compromise on the core issues. He draws a parallel to the symbolic Doomsday Clock, noting that the persistent risk of escalation—including nuclear—remains unchanged. The lack of meaningful movement in negotiations is further compounded by Trump’s limited support within the U.S. political establishment, which continues to hinder any breakthrough in diplomacy.
+  The most recent focus has been the "Coalition of the Willing" summit in Paris, convened to address the ongoing war in Ukraine. According to **Doctorow**, the summit was largely ineffective, with participants demonstrating little appetite for a genuine resolution. He notes, "The summit failed to produce any substantive steps toward ending the conflict, reflecting a broader reluctance among Western powers to engage in meaningful negotiations." This aligns with earlier skepticism about the prospects for peace, as both Russian and Ukrainian leadership remain entrenched in their positions.
   
-  On the international stage, the response from the Global South to the drone incident underscores a growing divide between Western and non-Western narratives about the conflict. **Doctorow** highlights that skepticism toward Ukraine’s claims is widespread outside the Euro-Atlantic sphere, reflecting broader doubts about Western information dominance and the legitimacy of certain narratives.
+  Meanwhile, the Middle East remains volatile. **Doctorow** highlights recent Israeli military actions in Lebanon, which risk further destabilizing the region. He also draws attention to escalating U.S. political rhetoric on Venezuela, suggesting a hardening stance that could have broader implications for Latin American stability.
   
-  Looking ahead, the majority view among analysts is that the war is set to become a protracted, frozen conflict, with Russia retaining control over key strategic and ethnically Russian territories. As **Doctorow** has previously predicted with high confidence, “I guarantee” that Ukraine will emerge devastated, and the conflict will not be resolved through a comprehensive peace deal in the near term. The prevailing trend points toward continued instability, with the risk of further escalation and enduring geopolitical divisions.
+  On the global stage, the prospect of a new strategic alliance is gaining traction. In a recent Press TV interview, **Doctorow** argues that the United States is increasingly perceived as a "rogue state," prompting calls for a mutual defense pact among Russia, China, and Iran to counterbalance U.S. influence. "A formal alliance between these powers is now not only possible but, in my view, quite likely," he asserts, indicating a high chance of further polarization in international relations.
+  
+  **Trends and Predictions:**  
+  - The Ukraine war is set to continue with little progress toward peace, as Western diplomatic efforts remain fragmented and ineffective.  
+  - Tensions in the Middle East, particularly involving Israel and Lebanon, are likely to escalate, with potential spillover effects.  
+  - The emergence of a Russia-China-Iran alliance is "quite likely" in the near term, signaling a shift toward a more multipolar and confrontational global order.
+  
+  Given the current trajectory, **Doctorow** maintains that the risk of broader conflict is increasing, and without significant policy shifts, the world is "most definitely" heading toward a period of heightened instability.
 articles:
+  - title: NewsX World multi-segment interview today
+    url: https://gilbertdoctorow.com/2026/01/06/newsx-world-multi-segment-interview-today/
+    text: This interview opens with a discussion of the Coalition of the Willing summit
+      in Paris, which has gathered 35 countries. Host Emmanuel Macron appears to be
+      very satisfied, though surely the value of the exercise is nil. This gathering
+      of losers is negotiating among themselves and have reached consensus on what is
+      essentially a demand for Russian capitulation. Their insistence on a foreign peacekeeping
+      force numbering perhaps 100,000 is an absolute nonstarter with the Russians. But
+      then none of the participants wants the war to end. Another segment dealt briefly
+      with the latest Israeli violations of the ceasefire in Lebanon that have caused
+      the deaths of hundreds. We spoke briefly about House Speaker Johnson’s saying
+      that the Trump intervention in Venezuela is NOT an act of regime change, just
+      a measure to correct the behavior of the Venezuelan leadership. This play on words
+      will fool no one and it only shows that American hubris is back with us. The,
+      shall we say, naïve belief that the Venezuelans will accept American overlordship
+      without any resistance will be shattered before long and then all hell will break
+      loose, as it did in Iraq after the capture of Saddam Hussein. The best segment,
+      in my view, came last when we discussed the treatment of Maduro when he came to
+      the courthouse hearing in chains and was paraded before reporters. As I pointed
+      out, the US has plenty of experience with this particular kind of political theater. 
+      I trust the Community will enjoy my comparing Maduro’s court appearance to the
+      way France’s leading candidate for the 2012 French presidential elections. Dominique
+      Strauss-Kahn was dramatically taken off a flight departing NYC for Paris and taken
+      in handcuffs to a Manhattan court, shown off to the reporters on the way, to ensure
+      that his political fortunes were destroyed, all over a phony allegation of sexually
+      abusing a hotel maid. The CIA and FBI staff have lively imaginations for mischief.
+      The removal of Strauss-Kahn resulted in the election of the nitwit Francois Hollande
+      and five wasted years for France.
+    one_sentence_summary: The article critiques the Coalition of the Willing summit
+      in Paris, highlighting its ineffectiveness in addressing the war in Ukraine and
+      the participants' reluctance for resolution, while also touching on recent Israeli
+      actions in Lebanon and U.S. political rhetoric regarding Venezuela.
+    paragraph_summary: The article discusses a recent summit in Paris involving the
+      Coalition of the Willing, which includes 35 countries, where participants, led
+      by Emmanuel Macron, seem to be negotiating terms for Russian capitulation in the
+      ongoing conflict, despite the improbability of such demands being accepted by
+      Russia. The summit is characterized as ineffective, as none of the countries appear
+      eager for the war to end. The article also touches on recent Israeli actions in
+      Lebanon that have resulted in casualties and critiques House Speaker Johnson's
+      framing of U.S. intervention in Venezuela as a corrective measure rather than
+      regime change, suggesting that such a perspective underestimates potential resistance
+      from Venezuelans. The author draws parallels between the treatment of Venezuelan
+      leader Maduro during his court appearance and the politically charged arrest of
+      Dominique Strauss-Kahn in 2011, implying that both instances reflect a pattern
+      of political theater orchestrated by U.S. agencies.
+    published: '2026-01-06T18:28:32+00:00'
+  - title: NewsX World multi-segment interview today
+    url: https://gilbertdoctorow.com/2026/01/06/newsx-world-multi-segment-interview-today/
+    text: This interview opens with a discussion of the Coalition of the Willing summit
+      in Paris, which has gathered 35 countries. Host Emmanuel Macron appears to be
+      very satisfied, though surely the value of the exercise is nil. This gathering
+      of losers is negotiating among themselves and have reached consensus on what is
+      essentially a demand for Russian capitulation. Their insistence on a foreign peacekeeping
+      force numbering perhaps 100,000 is an absolute nonstarter with the Russians. But
+      then none of the participants wants the war to end. Another segment dealt briefly
+      with the latest Israeli violations of the ceasefire in Lebanon that have caused
+      the deaths of hundreds. We spoke briefly about House Speaker Johnson’s saying
+      that the Trump intervention in Venezuela is NOT an act of regime change, just
+      a measure to correct the behavior of the Venezuelan leadership. This play on words
+      will fool no one and it only shows that American hubris is back with us. The,
+      shall we say, naïve belief that the Venezuelans will accept American overlordship
+      without any resistance will be shattered before long and then all hell will break
+      loose, as it did in Iraq after the capture of Saddam Hussein. The best segment,
+      in my view, came last when we discussed the treatment of Maduro when he came to
+      the courthouse hearing in chains and was paraded before reporters. As I pointed
+      out, the US has plenty of experience with this particular kind of political theater. 
+      I trust the Community will enjoy my comparing Maduro’s court appearance to the
+      way France’s leading candidate for the 2012 French presidential elections. Dominique
+      Strauss-Kahn was dramatically taken off a flight departing NYC for Paris and taken
+      in handcuffs to a Manhattan court, shown off to the reporters on the way, to ensure
+      that his political fortunes were destroyed, all over a phony allegation of sexually
+      abusing a hotel maid. The CIA and FBI staff have lively imaginations for mischief.
+      The removal of Strauss-Kahn resulted in the election of the nitwit Francois Hollande
+      and five wasted years for France.
+    one_sentence_summary: The article critiques the Coalition of the Willing summit
+      in Paris, highlighting its ineffectiveness in addressing the war in Ukraine and
+      the participants' reluctance for resolution, while also touching on recent Israeli
+      actions in Lebanon and U.S. political rhetoric regarding Venezuela.
+    paragraph_summary: The article discusses a recent summit in Paris involving the
+      Coalition of the Willing, which includes 35 countries, where participants, led
+      by Emmanuel Macron, seem to be negotiating terms for Russian capitulation in the
+      ongoing conflict, despite the improbability of such demands being accepted by
+      Russia. The summit is characterized as ineffective, as none of the countries appear
+      eager for the war to end. The article also touches on recent Israeli actions in
+      Lebanon that have resulted in casualties and critiques House Speaker Johnson's
+      framing of U.S. intervention in Venezuela as a corrective measure rather than
+      regime change, suggesting that such a perspective underestimates potential resistance
+      from Venezuelans. The author draws parallels between the treatment of Venezuelan
+      leader Maduro during his court appearance and the politically charged arrest of
+      Dominique Strauss-Kahn in 2011, implying that both instances reflect a pattern
+      of political theater orchestrated by U.S. agencies.
+    published: '2026-01-06T18:28:32+00:00'
+  - title: 'My yesterday interview on Press TV (Iran): WWIII is coming whether we like
+      it or not'
+    url: https://gilbertdoctorow.com/2026/01/06/my-yesterday-interview-on-press-tv-iran-wwiii-is-coming-whether-we-like-it-or-not/
+    text: https://www.urmedium.net/c/presstv/135647 The questioning opened with Donald
+      Trump’s latest threats to Bolivia, but with the gracious acquiescence of the moderator
+      we moved on to the bigger issue of the United States as a rogue state threatening
+      the sovereignty of one and all. This rogue state can be stopped not by street
+      demonstrators chanting ‘free Maduro’ but by creation of a Russia-China-Iran mutual
+      defense alliance prepared to resist Washington’s aggression by force of arms.
+    one_sentence_summary: The article discusses the United States' role as a "rogue
+      state" threatening global sovereignty, suggesting that a mutual defense alliance
+      among Russia, China, and Iran is necessary to counteract U.S. aggression.
+    paragraph_summary: The article discusses the recent threats made by Donald Trump
+      towards Bolivia, highlighting the broader concern of the United States being perceived
+      as a rogue state that undermines the sovereignty of other nations. It argues that
+      mere protests, such as those supporting Venezuelan leader Maduro, are insufficient
+      to counter U.S. aggression. Instead, the piece advocates for the establishment
+      of a mutual defense alliance among Russia, China, and Iran as a more effective
+      means to resist U.S. actions through military preparedness.
+    published: '2026-01-06T06:12:30+00:00'
+  - title: 'My yesterday interview on Press TV (Iran): WWIII is coming whether we like
+      it or not'
+    url: https://gilbertdoctorow.com/2026/01/06/my-yesterday-interview-on-press-tv-iran-wwiii-is-coming-whether-we-like-it-or-not/
+    text: https://www.urmedium.net/c/presstv/135647 The questioning opened with Donald
+      Trump’s latest threats to Bolivia, but with the gracious acquiescence of the moderator
+      we moved on to the bigger issue of the United States as a rogue state threatening
+      the sovereignty of one and all. This rogue state can be stopped not by street
+      demonstrators chanting ‘free Maduro’ but by creation of a Russia-China-Iran mutual
+      defense alliance prepared to resist Washington’s aggression by force of arms.
+    one_sentence_summary: The article discusses the United States' role as a "rogue
+      state" threatening global sovereignty, suggesting that a mutual defense alliance
+      among Russia, China, and Iran is necessary to counteract U.S. aggression.
+    paragraph_summary: The article discusses the recent threats made by Donald Trump
+      towards Bolivia, highlighting the broader concern of the United States being perceived
+      as a rogue state that undermines the sovereignty of other nations. It argues that
+      mere protests, such as those supporting Venezuelan leader Maduro, are insufficient
+      to counter U.S. aggression. Instead, the piece advocates for the establishment
+      of a mutual defense alliance among Russia, China, and Iran as a more effective
+      means to resist U.S. actions through military preparedness.
+    published: '2026-01-06T06:12:30+00:00'
+  - title: Who is Hitler and who is Chamberlain today?
+    url: https://gilbertdoctorow.com/2026/01/05/who-is-hitler-and-who-is-chamberlain-today/
+    text: 'Who is Hitler and who is Chamberlain today? For the last 50 years at least,
+      American hawks have time and again brought up a lesson from the past to justify
+      their foreign and military policy predilections that amounted to war-mongering.
+      Every attempt to find accommodation, détente with America’s ideological adversaries
+      was systematically denounced as “appeasement” in the tradition of Chamberlain
+      seeking ‘peace in our time’ when dealing with the German Fuehrer, whose ambition
+      was absolute political, economic, military domination in Europe. Donald Trump’s
+      absolutely shocking act of aggression this past weekend compels us to face a new
+      reality: that the President of the United States is today the incarnation of Hitler
+      with ambition on a world-wide scale. I am not repeating here the cheap and empty
+      political posturing of the Trump haters in America who have called him a fascist
+      because he opposes their Green agenda, opposes their LGBTQ+ Rainbow parades and
+      support for sex change operations among adolescents, and opposes other extreme
+      Liberal values that amount to the destruction of the foundations of society in
+      pursuit of I, Me, Me, I. No, those complainers about Trump are abusing the notion
+      of fascism to serve their own selfish hunger for political power at any price.
+      I am speaking about the notion of fascism writ large, as a program to destroy
+      all those nations which do or could stand in the way of American global hegemony.
+      Trump has trampled on the sovereignty of Venezuela and makes no secret of plans
+      to ‘run’ the country and extract enormous wealth for American corporations by
+      setting them free to exploit Venezuelan oil.  He has just renewed his claims to
+      take possession of Greenland.  He has threatened Iran with military intervention
+      over the suppression of political disturbances that are a direct result of the
+      country’s economic hardships under crippling U.S. sanctions that go back twenty
+      years or more. Surely Cuba is also in his sights. The operation in Caracas this
+      past weekend is the template for what is to come.  No big invasions, just a very
+      carefully researched and executed decapitation strike that removes to American
+      prisons the leaders of the countries on the Trump check-list. And why bother adding
+      to the prison detainees? In the past week the CIA targeted Vladimir Putin’s countryside
+      residence with intent to murder.  Minister of War Pete Hegseth in the past few
+      days has threatened Putin with “we’re coming for you”. ***** Given all of the
+      foregoing, I am shocked that some colleagues continue to praise the moderation
+      shown thus far by Russia and China in response to what Trump has done and said
+      this past weekend. We are told that they appreciate the volatility, the narcissism,
+      the oncoming dementia of the man in the Oval Office and are making their highest
+      priority avoidance of a nuclear war by handling The Donald with kid gloves. Dear
+      friends, you are arguing the case for Chamberlain!  And was not Hitler in 1938-39
+      understood to be mentally unbalanced, a madman if I may cut to the quick? The
+      only argument that one might have made in defense of Chamberlain’s appeasement
+      was the lack of preparedness for war of his country and its allies on the Continent.
+      But that is manifestly not the case today, when we all understand that Russia’s
+      conventional forces are more than a match for NATO in its shambolic present conditions,
+      and that Russia’s nuclear triad, its strategic arsenal is years ahead of the USA
+      at this moment.  That will likely not be true 5 years from now, but it is true
+      today.  Accordingly, there is no logic to Russian pusillanimity, to its not threatening
+      the USA with total destruction here and now if Washington does not pull in its
+      horns and behave in accordance with the UN Charter. Going back 5 years, I argued
+      in an essay that Khrushchev was right to bang his shoe on the desk in the UN General
+      Assembly. He was right to issue his famous threat to the capitalist world: “we
+      will bury you.” Khrushchev may have been boorish, but he was brave and he was
+      ready to fight to the death if the U.S. side did not come to its senses.  The
+      Cuban Missile Crisis of 1962 was a test of courage on both sides the like of which
+      I do not see today. The annihilation of tens of millions of people was a possibility,
+      to be sure, but it was offset by readiness to enter into serious and decisive
+      negotiations going to the root causes of the confrontation.  After all, in the
+      end, not only did the Russians pull their nuclear tipped missiles out of Cuba
+      but the USA pulled into missiles out of Turkey and Italy. ***** ‘Progressive humanity’
+      is today reporting on the demonstrations being held in capitals around the world
+      to protest against the imprisonment of Maduro and U.S. aggression. Regrettably,
+      the net result of these demos will be nil. The only powers on earth that can stop
+      the insane Hitler-like course of the Trump administration today are China and
+      Russia. If they twiddle their thumbs now then you can be sure that the possible
+      war today will be replaced by a certain civilization ending war in five years’
+      time. ©Gilbert Doctorow, 2026'
+    one_sentence_summary: The article argues that American hawks have historically used
+      the concept of "appeasement" to justify aggressive foreign policies, and it controversially
+      likens Donald Trump's recent actions to those of Hitler, suggesting he embodies
+      a global ambition reminiscent of the Nazi leader.
+    paragraph_summary: The article draws a parallel between historical figures and contemporary
+      political dynamics, suggesting that American hawks have long used the concept
+      of "appeasement" to justify aggressive foreign policies, likening Donald Trump
+      to Adolf Hitler due to his expansive ambitions for U.S. global dominance. It criticizes
+      those who label Trump a fascist for opposing liberal values, arguing that true
+      fascism manifests in the U.S. government's willingness to undermine the sovereignty
+      of nations like Venezuela, Iran, and Cuba for economic gain. The author contends
+      that Trump's actions reflect a broader agenda to assert American hegemony at the
+      expense of other nations, positioning him as a modern embodiment of authoritarian
+      ambition.
+    published: '2026-01-05T22:37:30+00:00'
+  - title: Who is Hitler and who is Chamberlain today?
+    url: https://gilbertdoctorow.com/2026/01/05/who-is-hitler-and-who-is-chamberlain-today/
+    text: 'Who is Hitler and who is Chamberlain today? For the last 50 years at least,
+      American hawks have time and again brought up a lesson from the past to justify
+      their foreign and military policy predilections that amounted to war-mongering.
+      Every attempt to find accommodation, détente with America’s ideological adversaries
+      was systematically denounced as “appeasement” in the tradition of Chamberlain
+      seeking ‘peace in our time’ when dealing with the German Fuehrer, whose ambition
+      was absolute political, economic, military domination in Europe. Donald Trump’s
+      absolutely shocking act of aggression this past weekend compels us to face a new
+      reality: that the President of the United States is today the incarnation of Hitler
+      with ambition on a world-wide scale. I am not repeating here the cheap and empty
+      political posturing of the Trump haters in America who have called him a fascist
+      because he opposes their Green agenda, opposes their LGBTQ+ Rainbow parades and
+      support for sex change operations among adolescents, and opposes other extreme
+      Liberal values that amount to the destruction of the foundations of society in
+      pursuit of I, Me, Me, I. No, those complainers about Trump are abusing the notion
+      of fascism to serve their own selfish hunger for political power at any price.
+      I am speaking about the notion of fascism writ large, as a program to destroy
+      all those nations which do or could stand in the way of American global hegemony.
+      Trump has trampled on the sovereignty of Venezuela and makes no secret of plans
+      to ‘run’ the country and extract enormous wealth for American corporations by
+      setting them free to exploit Venezuelan oil.  He has just renewed his claims to
+      take possession of Greenland.  He has threatened Iran with military intervention
+      over the suppression of political disturbances that are a direct result of the
+      country’s economic hardships under crippling U.S. sanctions that go back twenty
+      years or more. Surely Cuba is also in his sights. The operation in Caracas this
+      past weekend is the template for what is to come.  No big invasions, just a very
+      carefully researched and executed decapitation strike that removes to American
+      prisons the leaders of the countries on the Trump check-list. And why bother adding
+      to the prison detainees? In the past week the CIA targeted Vladimir Putin’s countryside
+      residence with intent to murder.  Minister of War Pete Hegseth in the past few
+      days has threatened Putin with “we’re coming for you”. ***** Given all of the
+      foregoing, I am shocked that some colleagues continue to praise the moderation
+      shown thus far by Russia and China in response to what Trump has done and said
+      this past weekend. We are told that they appreciate the volatility, the narcissism,
+      the oncoming dementia of the man in the Oval Office and are making their highest
+      priority avoidance of a nuclear war by handling The Donald with kid gloves. Dear
+      friends, you are arguing the case for Chamberlain!  And was not Hitler in 1938-39
+      understood to be mentally unbalanced, a madman if I may cut to the quick? The
+      only argument that one might have made in defense of Chamberlain’s appeasement
+      was the lack of preparedness for war of his country and its allies on the Continent.
+      But that is manifestly not the case today, when we all understand that Russia’s
+      conventional forces are more than a match for NATO in its shambolic present conditions,
+      and that Russia’s nuclear triad, its strategic arsenal is years ahead of the USA
+      at this moment.  That will likely not be true 5 years from now, but it is true
+      today.  Accordingly, there is no logic to Russian pusillanimity, to its not threatening
+      the USA with total destruction here and now if Washington does not pull in its
+      horns and behave in accordance with the UN Charter. Going back 5 years, I argued
+      in an essay that Khrushchev was right to bang his shoe on the desk in the UN General
+      Assembly. He was right to issue his famous threat to the capitalist world: “we
+      will bury you.” Khrushchev may have been boorish, but he was brave and he was
+      ready to fight to the death if the U.S. side did not come to its senses.  The
+      Cuban Missile Crisis of 1962 was a test of courage on both sides the like of which
+      I do not see today. The annihilation of tens of millions of people was a possibility,
+      to be sure, but it was offset by readiness to enter into serious and decisive
+      negotiations going to the root causes of the confrontation.  After all, in the
+      end, not only did the Russians pull their nuclear tipped missiles out of Cuba
+      but the USA pulled into missiles out of Turkey and Italy. ***** ‘Progressive humanity’
+      is today reporting on the demonstrations being held in capitals around the world
+      to protest against the imprisonment of Maduro and U.S. aggression. Regrettably,
+      the net result of these demos will be nil. The only powers on earth that can stop
+      the insane Hitler-like course of the Trump administration today are China and
+      Russia. If they twiddle their thumbs now then you can be sure that the possible
+      war today will be replaced by a certain civilization ending war in five years’
+      time. ©Gilbert Doctorow, 2026'
+    one_sentence_summary: The article argues that American hawks have historically used
+      the concept of "appeasement" to justify aggressive foreign policies, and it controversially
+      likens Donald Trump's recent actions to those of Hitler, suggesting he embodies
+      a global ambition reminiscent of the Nazi leader.
+    paragraph_summary: The article draws a parallel between historical figures and contemporary
+      political dynamics, suggesting that American hawks have long used the concept
+      of "appeasement" to justify aggressive foreign policies, likening Donald Trump
+      to Adolf Hitler due to his expansive ambitions for U.S. global dominance. It criticizes
+      those who label Trump a fascist for opposing liberal values, arguing that true
+      fascism manifests in the U.S. government's willingness to undermine the sovereignty
+      of nations like Venezuela, Iran, and Cuba for economic gain. The author contends
+      that Trump's actions reflect a broader agenda to assert American hegemony at the
+      expense of other nations, positioning him as a modern embodiment of authoritarian
+      ambition.
+    published: '2026-01-05T22:37:30+00:00'
+  - title: Hourly news bulletin on NewsX World:  Trump’s denial that an attack on the
+      Putin countryside residence ever happened
+    url: https://gilbertdoctorow.com/2026/01/05/hourly-news-bulletin-on-newsx-world-trumps-denial-that-an-attack-on-the-putin-countryside-residence-ever-happened/
+    text: I appear in minutes 21 to 24 on this news bulletin.  My main point was that
+      the attack was likely programmed by the CIA and Britain’s MI6.  I direct viewers
+      to the longer interview that precedes me with an Indian commentator whose remarks
+      on the scandalous kidnapping of Maduro are worth your time.
+    one_sentence_summary: In a news bulletin segment from minutes 21 to 24, the speaker
+      suggests that the attack was likely orchestrated by the CIA and MI6, while also
+      recommending viewers watch a preceding interview with an Indian commentator discussing
+      Maduro's controversial kidnapping.
+    paragraph_summary: In a news bulletin segment from minutes 21 to 24, the speaker
+      suggests that a recent attack was likely orchestrated by the CIA and Britain's
+      MI6. They also recommend watching a preceding interview with an Indian commentator,
+      who provides valuable insights on the controversial kidnapping of Maduro.
+    published: '2026-01-05T18:22:58+00:00'
+  - title: Hourly news bulletin on NewsX World:  Trump’s denial that an attack on the
+      Putin countryside residence ever happened
+    url: https://gilbertdoctorow.com/2026/01/05/hourly-news-bulletin-on-newsx-world-trumps-denial-that-an-attack-on-the-putin-countryside-residence-ever-happened/
+    text: I appear in minutes 21 to 24 on this news bulletin.  My main point was that
+      the attack was likely programmed by the CIA and Britain’s MI6.  I direct viewers
+      to the longer interview that precedes me with an Indian commentator whose remarks
+      on the scandalous kidnapping of Maduro are worth your time.
+    one_sentence_summary: In a news bulletin segment from minutes 21 to 24, the speaker
+      suggests that the attack was likely orchestrated by the CIA and MI6, while also
+      recommending viewers watch a preceding interview with an Indian commentator discussing
+      Maduro's controversial kidnapping.
+    paragraph_summary: In a news bulletin segment from minutes 21 to 24, the speaker
+      suggests that a recent attack was likely orchestrated by the CIA and Britain's
+      MI6. They also recommend watching a preceding interview with an Indian commentator,
+      who provides valuable insights on the controversial kidnapping of Maduro.
+    published: '2026-01-05T18:22:58+00:00'
+  - title: Time to impeach Trump
+    url: https://gilbertdoctorow.com/2026/01/03/time-to-impeach-trump-2/
+    text: 'The attack on Venezuela and snatching of President Maduro puts an end to
+      my flirtation with Trump.  He has just trampled on the National Security Strategy
+      that he rolled out 3 weeks ago. He has proven that the Neocons control the government
+      and he is nothing more than a figurehead. I call for his impeachment so as to
+      install JD Vance and give him two-three years to do what has to be done, namely
+      to purge the Pentagon, the CIA, State of the Neocons who constitute the decision
+      makers and implementers in the ‘power ministries’.  This accomplished, Vance could
+      then hope to carry out the NSS and position the USA as a major world power among
+      peers, rather than a hegemon and Cold Warrior. For those in the Community who
+      may be puzzled by my turning against Trump, I recommend that they read the first
+      chapter in my 2019 collection of essays entitled A Belgian Perspective on International
+      Affairs : “Time to Impeach Trump,” dated 21 September 2017, pp. 1-4. You may have
+      overlooked this book because its title was explained only in the Foreword, p.
+      xiii:  the ‘Belgian’ in question was not a collective part of this small nation
+      that one could disregard until its Prime Minister Bart De Wever stood up to Ursula
+      von der Leyen and Chancellor Friedrich Merz a couple of weeks ago and saved the
+      global financial markets from the catastrophe that would have followed confiscation
+      of Russian state assets held in Belgium. The word ‘Belgian’ in the title stood
+      for one person, me, who had become a naturalized Belgian.  My call for impeachment
+      was precipitated by Trump’s barbaric declarations before the UN General Assembly
+      threatening to annihilate North Korea, a nation of 22 million people. My coddling
+      of Trump’s vile activities in some global hotspots since taking office again,
+      in January 2025,  in particular his enabling the Israeli genocide in Gaza, was
+      based on the reasonable assumption that that was the price to pay for him to enjoy
+      the political capital in the heavily pro-Zionist Congress and in the foreign policy
+      establishment in Washington necessary to pass his domestic and foreign policy
+      programs.  The same logic persuaded me to remain silent about his attack on the
+      Iranian nuclear facilities and his enabling Israeli strikes on Teheran and other
+      purely civilian targets in their 12-day war. But the recent months of Trump’s
+      superintending so-called peace negotiations to end the war in Ukraine have shown
+      that at best his efforts are incompetent and so are condemned to failure. Holding
+      separate talks with each of the warring parties and agreeing with each side to
+      their entirely contradictory peace plans shows that he is posturing and that nothing
+      of use can come out of these talks. Moreover, no peace agreement that met the
+      Russian demands of resolving the underlying reasons for the war, namely turning
+      back NATO expansion to Russia’s borders and getting Washington to consider revising
+      the security architecture in Europe, will get approval in Congress now that everyone
+      has read about Trump’s hopes to overturn 76 years of American foreign policy priorities
+      by the language of his NSS document. Accordingly, I view without prejudice and
+      on their merits Trump’s attack on Venezuela and the kidnapping of President Maduro
+      and his wife to face trumped up charges of drug trafficking in the USA. And on
+      their merits Trump has egregiously violated international law. Sad to say, he
+      has not set a precedent, but is following a pattern of ‘rogue state’ behavior
+      established by President George H.W. Bush when he invaded Panama in December 1989
+      and seized president Manuel Noriega. Noriega then spent years in U.S. detention
+      and died there. Let us remember that ‘rogue state behavior’ was precisely what
+      one of the chief popularizers of Neocon ideology, Robert Kagan, husband of the
+      notorious Victoria Nuland, urged upon the United States in books and speeches.
+      That is to say, scorn for all legal constraints on how foreign policy is conducted
+      for the sake of maintaining U.S. global domination. The difference between what
+      H.W. Bush did in 1989 and what Trump has just down now in Venezuela must be called
+      out. Bush was just ‘kicking ass,’ as they say in the States.  Trump is implementing
+      a farther- reaching geopolitical objective of driving all foreign powers out of
+      the Western Hemisphere, which he seeks to maintain as Washington’s exclusive hunting
+      preserve. To be more specific, Trump has attacked not just Venezuela. He has attacked
+      China which is a main export market for Venezuela; conversely, China is highly
+      dependent on Venezuelan oil and an American take-over would surely cause economic
+      harm to Beijing. In this regard, the warm-up exercise to yesterday’s snatch operation
+      was the U.S. capture of two Venezuelan oil tankers, one of which was carrying
+      oil destined for and already paid for by China. Going back still further, this
+      American attack on Venezuela is a continuation of the attack on China’s commercial
+      activities in Latin America that we saw still earlier in 2025 when Trump brought
+      pressure on Panama to remove the Chinese from their control over the Canal. *****
+      What lessons can the world’s two other superpowers draw from Trump’s outrageous
+      attack on Venezuela? As for Russia, the message should be crystal clear to President
+      Vladimir Putin that he does not and cannot have a partner in Donald Trump. Russia
+      must proceed on its own path to resolve the Ukraine war, and as I have been saying
+      in recent months, the sooner the war is ended, whether by a decapitation strike
+      on Kiev and other decision-making centers, or by storming Kiev with ground forces,
+      the better. Russia now has a window of opportunity that it should exploit without
+      hesitation.  If President Putin is unable to act decisively in this sense, then
+      he should resign and pass the torch to someone in a younger generation who is
+      level-headed, has proven experience at high levels of the government and is decisive,
+      not wishy-washy. As for China, this attack on Venezuela is de facto an attack
+      on China. Generally, Chairman Xi is more decisive and has more resources to threaten
+      the USA than does Putin and Russia.  If ever there were a moment for China to
+      resolve the Taiwan issue it is here and now.  The Americans have just stolen Chinese
+      oil and are attacking a major supplier to China.  Xi will not straighten out relations
+      with Washington now by remaining silent and failing to respond appropriately.
+      Such reticence will only encourage further provocations and give Washington time
+      to better prepare for armed conflict. ©Gilbert Doctorow, 2026'
+    one_sentence_summary: The author expresses disillusionment with Trump following
+      his actions against Venezuela, calling for his impeachment to install JD Vance,
+      who they believe could reform U.S. foreign policy and reduce Neocon influence
+      in government.
+    paragraph_summary: The author expresses disillusionment with President Trump following
+      his recent actions regarding Venezuela, arguing that he has abandoned the National
+      Security Strategy he proposed just weeks prior and has become a mere figurehead
+      under the influence of Neoconservatives. The author calls for Trump's impeachment
+      to replace him with JD Vance, who could then reform the Pentagon, CIA, and State
+      Department to align with a more cooperative international stance rather than a
+      hegemonic one. The author references their previous critiques of Trump, emphasizing
+      that their support was contingent on the belief that such actions were necessary
+      for political capital in a pro-Zionist Congress, but now feels that Trump's aggressive
+      rhetoric and policies, particularly towards North Korea and Gaza, warrant a reevaluation
+      of support.
+    published: '2026-01-03T18:08:50+00:00'
+  - title: Time to impeach Trump
+    url: https://gilbertdoctorow.com/2026/01/03/time-to-impeach-trump-2/
+    text: 'The attack on Venezuela and snatching of President Maduro puts an end to
+      my flirtation with Trump.  He has just trampled on the National Security Strategy
+      that he rolled out 3 weeks ago. He has proven that the Neocons control the government
+      and he is nothing more than a figurehead. I call for his impeachment so as to
+      install JD Vance and give him two-three years to do what has to be done, namely
+      to purge the Pentagon, the CIA, State of the Neocons who constitute the decision
+      makers and implementers in the ‘power ministries’.  This accomplished, Vance could
+      then hope to carry out the NSS and position the USA as a major world power among
+      peers, rather than a hegemon and Cold Warrior. For those in the Community who
+      may be puzzled by my turning against Trump, I recommend that they read the first
+      chapter in my 2019 collection of essays entitled A Belgian Perspective on International
+      Affairs : “Time to Impeach Trump,” dated 21 September 2017, pp. 1-4. You may have
+      overlooked this book because its title was explained only in the Foreword, p.
+      xiii:  the ‘Belgian’ in question was not a collective part of this small nation
+      that one could disregard until its Prime Minister Bart De Wever stood up to Ursula
+      von der Leyen and Chancellor Friedrich Merz a couple of weeks ago and saved the
+      global financial markets from the catastrophe that would have followed confiscation
+      of Russian state assets held in Belgium. The word ‘Belgian’ in the title stood
+      for one person, me, who had become a naturalized Belgian.  My call for impeachment
+      was precipitated by Trump’s barbaric declarations before the UN General Assembly
+      threatening to annihilate North Korea, a nation of 22 million people. My coddling
+      of Trump’s vile activities in some global hotspots since taking office again,
+      in January 2025,  in particular his enabling the Israeli genocide in Gaza, was
+      based on the reasonable assumption that that was the price to pay for him to enjoy
+      the political capital in the heavily pro-Zionist Congress and in the foreign policy
+      establishment in Washington necessary to pass his domestic and foreign policy
+      programs.  The same logic persuaded me to remain silent about his attack on the
+      Iranian nuclear facilities and his enabling Israeli strikes on Teheran and other
+      purely civilian targets in their 12-day war. But the recent months of Trump’s
+      superintending so-called peace negotiations to end the war in Ukraine have shown
+      that at best his efforts are incompetent and so are condemned to failure. Holding
+      separate talks with each of the warring parties and agreeing with each side to
+      their entirely contradictory peace plans shows that he is posturing and that nothing
+      of use can come out of these talks. Moreover, no peace agreement that met the
+      Russian demands of resolving the underlying reasons for the war, namely turning
+      back NATO expansion to Russia’s borders and getting Washington to consider revising
+      the security architecture in Europe, will get approval in Congress now that everyone
+      has read about Trump’s hopes to overturn 76 years of American foreign policy priorities
+      by the language of his NSS document. Accordingly, I view without prejudice and
+      on their merits Trump’s attack on Venezuela and the kidnapping of President Maduro
+      and his wife to face trumped up charges of drug trafficking in the USA. And on
+      their merits Trump has egregiously violated international law. Sad to say, he
+      has not set a precedent, but is following a pattern of ‘rogue state’ behavior
+      established by President George H.W. Bush when he invaded Panama in December 1989
+      and seized president Manuel Noriega. Noriega then spent years in U.S. detention
+      and died there. Let us remember that ‘rogue state behavior’ was precisely what
+      one of the chief popularizers of Neocon ideology, Robert Kagan, husband of the
+      notorious Victoria Nuland, urged upon the United States in books and speeches.
+      That is to say, scorn for all legal constraints on how foreign policy is conducted
+      for the sake of maintaining U.S. global domination. The difference between what
+      H.W. Bush did in 1989 and what Trump has just down now in Venezuela must be called
+      out. Bush was just ‘kicking ass,’ as they say in the States.  Trump is implementing
+      a farther- reaching geopolitical objective of driving all foreign powers out of
+      the Western Hemisphere, which he seeks to maintain as Washington’s exclusive hunting
+      preserve. To be more specific, Trump has attacked not just Venezuela. He has attacked
+      China which is a main export market for Venezuela; conversely, China is highly
+      dependent on Venezuelan oil and an American take-over would surely cause economic
+      harm to Beijing. In this regard, the warm-up exercise to yesterday’s snatch operation
+      was the U.S. capture of two Venezuelan oil tankers, one of which was carrying
+      oil destined for and already paid for by China. Going back still further, this
+      American attack on Venezuela is a continuation of the attack on China’s commercial
+      activities in Latin America that we saw still earlier in 2025 when Trump brought
+      pressure on Panama to remove the Chinese from their control over the Canal. *****
+      What lessons can the world’s two other superpowers draw from Trump’s outrageous
+      attack on Venezuela? As for Russia, the message should be crystal clear to President
+      Vladimir Putin that he does not and cannot have a partner in Donald Trump. Russia
+      must proceed on its own path to resolve the Ukraine war, and as I have been saying
+      in recent months, the sooner the war is ended, whether by a decapitation strike
+      on Kiev and other decision-making centers, or by storming Kiev with ground forces,
+      the better. Russia now has a window of opportunity that it should exploit without
+      hesitation.  If President Putin is unable to act decisively in this sense, then
+      he should resign and pass the torch to someone in a younger generation who is
+      level-headed, has proven experience at high levels of the government and is decisive,
+      not wishy-washy. As for China, this attack on Venezuela is de facto an attack
+      on China. Generally, Chairman Xi is more decisive and has more resources to threaten
+      the USA than does Putin and Russia.  If ever there were a moment for China to
+      resolve the Taiwan issue it is here and now.  The Americans have just stolen Chinese
+      oil and are attacking a major supplier to China.  Xi will not straighten out relations
+      with Washington now by remaining silent and failing to respond appropriately.
+      Such reticence will only encourage further provocations and give Washington time
+      to better prepare for armed conflict. ©Gilbert Doctorow, 2026'
+    one_sentence_summary: The author expresses disillusionment with Trump following
+      his actions against Venezuela, calling for his impeachment to install JD Vance,
+      who they believe could reform U.S. foreign policy and reduce Neocon influence
+      in government.
+    paragraph_summary: The author expresses disillusionment with President Trump following
+      his recent actions regarding Venezuela, arguing that he has abandoned the National
+      Security Strategy he proposed just weeks prior and has become a mere figurehead
+      under the influence of Neoconservatives. The author calls for Trump's impeachment
+      to replace him with JD Vance, who could then reform the Pentagon, CIA, and State
+      Department to align with a more cooperative international stance rather than a
+      hegemonic one. The author references their previous critiques of Trump, emphasizing
+      that their support was contingent on the belief that such actions were necessary
+      for political capital in a pro-Zionist Congress, but now feels that Trump's aggressive
+      rhetoric and policies, particularly towards North Korea and Gaza, warrant a reevaluation
+      of support.
+    published: '2026-01-03T18:08:50+00:00'
+  - title: A gift to Russian speakers
+    url: https://gilbertdoctorow.com/2026/01/03/a-gift-to-russian-speakers/
+    text: 'Published by gilbertdoctorow
+
+
+      Gilbert Doctorow''s latest book, "War Diaries. The Russia-Ukraine War, 2022-2023"
+      is a unique contribution to literature on the war thanks to the author''s reports
+      on the Russian home front written during his periodic visits to St Petersburg
+      at a time when Russia no longer issued visas and nearly all Western journalists
+      had left the country. Doctorow''s two-volume "Memoirs of a Russianist" published
+      in 2020 also constitutes a category of its own, consisting largely of diary entries
+      rather than reminiscences written decades later.. Volume 2 focuses on the community
+      of 50,000 expatriate managers working and living in Moscow during the 1990s, about
+      which none of his peers has yet to write. Gilbert Doctorow is a professional Russia
+      watcher and actor in Russian affairs going back to 1965. He is a magna cum laude
+      graduate of Harvard College (1967), a past Fulbright scholar, and holder of a
+      Ph.D. with honors in history from Columbia University (1975). After completing
+      his studies, Mr. Doctorow pursued a business career focused on the USSR and Eastern
+      Europe. For twenty-five years he worked for US and European multinationals in
+      marketing and general management with regional responsibility. From 1998-2002,
+      Doctorow served as the Chairman of the Russian Booker Literary Prize in Moscow.
+      During the 2010-2011 academic year, he was a Visiting scholar of the Harriman
+      Institute, Columbia University. Mr. Doctorow is a long-time resident of Brussels.
+      View all posts by gilbertdoctorow'
+    one_sentence_summary: Gilbert Doctorow's book "War Diaries. The Russia-Ukraine War,
+      2022-2023" offers a distinctive perspective on the conflict through his firsthand
+      accounts from Russia during a time when Western journalists were largely absent,
+      complementing his previous work on the expatriate community in Moscow during the
+      1990s.
+    paragraph_summary: Gilbert Doctorow's book, "War Diaries. The Russia-Ukraine War,
+      2022-2023," offers a distinctive perspective on the ongoing conflict by documenting
+      his experiences and observations from the Russian home front during a time when
+      Western journalists were largely absent due to visa restrictions. This work follows
+      his earlier two-volume memoir, "Memoirs of a Russianist," which features diary
+      entries reflecting on his experiences in Russia, particularly focusing on the
+      expatriate community in Moscow during the 1990s. With a background as a professional
+      observer of Russian affairs since 1965, Doctorow has an extensive academic and
+      professional history, including a magna cum laude degree from Harvard, a Ph.D.
+      from Columbia, and significant roles in business and literature, such as serving
+      as Chairman of the Russian Booker Literary Prize. Currently residing in Brussels,
+      Doctorow continues to contribute to the discourse on Russia and Eastern Europe.
+    published: '2026-01-03T10:44:22+00:00'
+  - title: Today’s Press TV (Iran) interview
+    url: https://gilbertdoctorow.com/2026/01/02/todays-press-tv-iran-interview/
+    text: Are the Russian allegations about a Ukrainian drone attack on Putin’s residence
+      credible? How will this attack affect the peace negotiations? This six-minute
+      interview taken this morning is focused on the issue of the drone attack on Putin’s
+      countryside residence. Some of you may not be able to access the Iranian website
+      for reasons of local censorship by your mind police.  Curiously, here in Brussels
+      I can watch this video easily on my i-phone but not on my computer. https://urmedium.net/c/presstv/135594
+    one_sentence_summary: The article discusses the credibility of Russian claims regarding
+      a Ukrainian drone attack on Putin's residence and its potential impact on peace
+      negotiations, highlighting accessibility issues with the video interview.
+    paragraph_summary: The article discusses the credibility of Russian claims regarding
+      a Ukrainian drone attack on President Putin's countryside residence and its potential
+      implications for peace negotiations. A brief interview highlights the ongoing
+      tensions and the challenges of accessing information due to censorship, particularly
+      in relation to an Iranian website. The author notes the contrasting accessibility
+      of the video on different devices, reflecting broader issues of information control.
+      Overall, the situation raises questions about the impact of such attacks on diplomatic
+      efforts between Russia and Ukraine.
+    published: '2026-01-02T16:27:23+00:00'
+  - title: Today’s Press TV (Iran) interview
+    url: https://gilbertdoctorow.com/2026/01/02/todays-press-tv-iran-interview/
+    text: Are the Russian allegations about a Ukrainian drone attack on Putin’s residence
+      credible? How will this attack affect the peace negotiations? This six-minute
+      interview taken this morning is focused on the issue of the drone attack on Putin’s
+      countryside residence. Some of you may not be able to access the Iranian website
+      for reasons of local censorship by your mind police.  Curiously, here in Brussels
+      I can watch this video easily on my i-phone but not on my computer. https://urmedium.net/c/presstv/135594
+    one_sentence_summary: The article discusses the credibility of Russian claims regarding
+      a Ukrainian drone attack on Putin's residence and its potential impact on peace
+      negotiations, highlighting accessibility issues with the video interview.
+    paragraph_summary: The article discusses the credibility of Russian claims regarding
+      a Ukrainian drone attack on President Putin's countryside residence and its potential
+      implications for peace negotiations. A brief interview highlights the ongoing
+      tensions and the challenges of accessing information due to censorship, particularly
+      in relation to an Iranian website. The author notes the contrasting accessibility
+      of the video on different devices, reflecting broader issues of information control.
+      Overall, the situation raises questions about the impact of such attacks on diplomatic
+      efforts between Russia and Ukraine.
+    published: '2026-01-02T16:27:23+00:00'
+  - title: NewsX World morning news wrap-up, 1 January 2026
+    url: https://gilbertdoctorow.com/2026/01/01/newsx-world-morning-news-wrap-up-1-january-2026/
+    text: My segment in this news wrap-up begins at minute 3.30   Another day has passed
+      and there were more Ukrainian drone attacks which the Russians claim to have shot
+      down.  More questions from the broadcaster on where the war is heading.  Is this
+      going to be a long-term situation of no conclusive victory by either side?  What
+      prevents Europe from recognizing Ukraine’s defeat?
+    one_sentence_summary: The article discusses ongoing Ukrainian drone attacks, Russian
+      claims of intercepting them, and raises questions about the war's future, including
+      the possibility of a prolonged stalemate and Europe's reluctance to acknowledge
+      Ukraine's potential defeat.
+    paragraph_summary: In a recent news segment, discussions centered around ongoing
+      Ukrainian drone attacks, which Russia claims to have intercepted. The broadcaster
+      raised questions about the future of the conflict, pondering whether it will evolve
+      into a prolonged stalemate with no clear victor. Additionally, the segment explored
+      the reasons behind Europe's reluctance to acknowledge a potential defeat for Ukraine
+      in the war.
+    published: '2026-01-01T12:12:30+00:00'
+  - title: NewsX World morning news wrap-up, 1 January 2026
+    url: https://gilbertdoctorow.com/2026/01/01/newsx-world-morning-news-wrap-up-1-january-2026/
+    text: My segment in this news wrap-up begins at minute 3.30   Another day has passed
+      and there were more Ukrainian drone attacks which the Russians claim to have shot
+      down.  More questions from the broadcaster on where the war is heading.  Is this
+      going to be a long-term situation of no conclusive victory by either side?  What
+      prevents Europe from recognizing Ukraine’s defeat?
+    one_sentence_summary: The article discusses ongoing Ukrainian drone attacks, Russian
+      claims of intercepting them, and raises questions about the war's future, including
+      the possibility of a prolonged stalemate and Europe's reluctance to acknowledge
+      Ukraine's potential defeat.
+    paragraph_summary: In a recent news segment, discussions centered around ongoing
+      Ukrainian drone attacks, which Russia claims to have intercepted. The broadcaster
+      raised questions about the future of the conflict, pondering whether it will evolve
+      into a prolonged stalemate with no clear victor. Additionally, the segment explored
+      the reasons behind Europe's reluctance to acknowledge a potential defeat for Ukraine
+      in the war.
+    published: '2026-01-01T12:12:30+00:00'
+  - title: 'All in the family. A new book for your consideration: ‘Nadine’s Story’'
+    url: https://gilbertdoctorow.com/2026/01/01/all-in-the-family-a-new-book-for-your-consideration-nadines-story/
+    text: 'Years ago, Luigi, one of my colleagues at work in the European headquarters
+      of ITT, the world’s biggest ‘conglomerate’ at the time, shared some family wisdom
+      over lunch in his home as we enjoyed the spaghetti that he jokingly claimed was
+      the end result of a thousand years of Italian culinary development. Based on his
+      own marital experience of a failed first marriage, he warned that two artists
+      in a family are one too many. To that I would add today, that one artist in the
+      family is just right for purposes of putting bread on the table and having thought
+      provoking conversation between the partners in a marriage. In our family, we are
+      both historians.  As you probably know, I received a doctorate in history for
+      which I produced a book that was published as separate articles in scholarly journals
+      at the time. That is to say, I have an academic approach to history and employ
+      the related investigative techniques in my essays, including parsing texts, on
+      global politics today. My wife, Larisa Vladimirovna Zalesova, is also interested
+      in and writes about the historical past, both recent history and history going
+      back to the start of the 20 th century. But she practices a different craft as
+      a novelist. Therein she is the ‘artist’ in our family. Historical novels are especially
+      attractive to the broad public because they are entertaining. The author enters
+      the minds of the protagonists in a way that academic historians most often cannot
+      do for lack of substantiating documentation, written and otherwise. The limitations
+      of an academic historian in this regard became clear to me in my doctoral research
+      when I entered the archival funds of the Russian legislators and statesmen responsible
+      for the creation of Russia’s first parliament in 1905– and came up with dry dust,
+      not living and breathing persons. Historical novels like the one I am recommending
+      here, the just published Nadine’s Story. Scenes from Life, draw on the author’s
+      life experience with living and breathing people of today. There is no need to
+      document every sentence with references, which can weigh down the writing of academic
+      historians. And, as a bonus, the novelist can depict ‘scenes from life’ that your
+      academic writer dares not touch such as the erotic and sexually explicit. Nadine’s
+      Story is a sophisticated piece of adult literature and I will say no more here
+      on that issue. Two weeks ago, Nadine’s Story was released as a paperback by Amazon
+      into its worldwide distribution network of country websites, amazon.com, amazon.co.uk,
+      amazon.fr, amazon.com.au, amazon.co.jp etc. It is now available through this same
+      global network in ebook format at just under 10 dollars U.S. and the equivalent
+      in local currencies outside the U.S. Some of these websites already have a ‘look
+      inside’ feature on the book’s web page that allows you to read the first 5 pages
+      online to get a ‘feel’ for the writing style.  Regrettably this ‘look inside’
+      omits the Foreword which I think is especially useful for potential readers to
+      appreciate the work they are about to acquire.  Accordingly, I reproduce that
+      Foreword here below. ***** Foreword The novel Nadine’s Story was written over
+      thirty years ago and is set in the time period of fifty years ago. In the meantime,
+      almost all of our assumptions about life, about the “free world” and about the
+      USSR have changed dramatically. This necessarily poses several questions which
+      require an answer before the reader undertakes a journey into that world by opening
+      the pages of this novel. In the Soviet era, it was commonplace for authors to
+      hold their manuscripts in a desk drawer for years before their eventual publication.
+      The reason can be summed up in one word:  censorship. Many widely recognized novels
+      and works of documentary literature from the whole opus of 20 th century publications
+      had that fate. Individual works saw print during periods of “thaw,” as for example
+      under the stewardship of Nikita Khrushchev. Many more saw the light of day when
+      the Soviet system of thought control began to crumble under Mikhail Gorbachev
+      and his policy of “Glasnost” in the 1980s.  With the new freedoms which Russians
+      enjoyed when the country closed the door on Communism in the 1990s, still more
+      manuscripts were withdrawn from drawers and found publishers.  One such work,
+      Other People’s Letters by the author Alexander Morozov even won the Russian Booker
+      Prize in 1998, though it stirred up much debate over the practice of publishing
+      works decades after they were written. In the case of Nadine’s Story , its long
+      resting period till now was due to another kind of ‘censorship’ as practiced in
+      the West: the stranglehold on publishing enjoyed till recently by the established
+      network of publishing houses with their own agendas or ‘programs’ as they call
+      it, interlinked with an established network of literary agents. The match between
+      art and commerce was always fragile. The system had and has limited ability to
+      promote more than a tiny fraction of works of merit outside their own stable of
+      authors. When Nadine fell victim to the exclusionary policies of publishers in
+      the 1990s, the author moved on to other literary challenges, eventually finding
+      a publisher in 2010 for her second novel, Live as Before (in Russian Живи как
+      прежде ) within the St Petersburg literary journal Zvezda , which had long published
+      her articles on cultural affairs in Western Europe.  In 2019, another well-established
+      publisher in the same city, Liki Rossii, produced the Russian-language edition
+      of the author’s next novel, Мозаика моей жизни. Meanwhile, for the English language
+      edition, The Mosaic of My Life, the author turned to the American specialist company
+      in self-publishing and print-on-demand, Author House. This last favorable experience,
+      which was reconfirmed with the publication soon afterwards of Zalesova’s first
+      venture into travel literature, Dacha Tales: Life in the Russian Hinterland ,
+      persuaded her to dust off and publish Nadine . As they say, what goes around,
+      comes around. There is a new timeliness to this thirty-year-old manuscript which
+      comes from immigration having become headline news in Western Europe and the USA
+      these past few years. Indeed, the author’s last published novel, The Mosaic of
+      My Life (2020), though covering the broad sweep of Russian history from before
+      the Revolution to the 1970s, in passing had as an issue the question that tormented
+      so many Russians over three generations: whether to remain in their homeland or
+      to leave for better shores at the earliest opportunity come what may. In Nadine
+      , this question is foremost in the mind of the heroine from start to finish. In
+      the course of the 20 th century, Russia lost millions of its citizens not only
+      to political repression and the cruelty of wartime. It also saw repeated exoduses,
+      both officially sanctioned and by stealth.  In the relative stable times under
+      Leonid Brezhnev and his immediate successors, there were several high-profile
+      defections that caught the imagination of the Western world, all the more so as
+      those who fled were among the world’s most gifted artists who changed the perception
+      of ballet the world over for several decades: Rudolf Nureyev, Alexander Baryshnikov,
+      Natalya Makarova. Their daring escapes were explained by one motive only:  “I
+      chose freedom.”  What was largely overlooked was that these stars also chose full-blooded
+      careers and artistic development that was denied to them not just because of the
+      constraints of a command economy and authoritarian regime but by the excess of
+      talent around them.  Russia simply had too many of the world’s best talent on
+      hand for the good of its star performers and their time on stage was much less
+      ample than their ambition rightly demanded. With their departure, Russian performing
+      arts obviously lost some of its best calling cards abroad, but did not implode.
+      In a broader sense, the emigration of countless talented people from Russia to
+      Silicon Valley and to other employment niches in the West did not strip the country
+      of its brains.  The phoenix-like recovery of Russian industry, agriculture and
+      culture in the new millennium attests to the sufficient supply in Russia of world
+      quality masters in a great variety of domains. The novel Nadine explores the question
+      of staying or leaving from a variety of angles, mostly personal and imbedded in
+      the family life of the heroine. I am confident this story will find its place
+      in the ongoing exploration of emigration worldwide.'
+    one_sentence_summary: The author reflects on a colleague's advice about the challenges
+      of having two artists in a family, sharing his own experience as a historian with
+      a published doctorate and emphasizing the value of having one artist for financial
+      stability and stimulating conversation in a marriage.
+    paragraph_summary: In a reflective piece, the author shares insights from a colleague,
+      Luigi, who humorously suggested that having two artists in a family can lead to
+      complications, advocating instead for a balance that includes one artist for stability
+      and stimulating conversation. The author, a historian with a doctorate and published
+      works, contrasts his academic approach to history with that of his wife, Larisa
+      Vladimirovna Zalesova, a novelist who brings historical narratives to life through
+      her storytelling. He highlights the appeal of historical novels, which can engage
+      readers by exploring the inner lives of characters in ways that academic historians
+      often cannot due to the limitations of available documentation. The author recommends
+      Zalesova's newly published novel, "Nadine’s Story. Scenes from Life," as an example
+      of how personal experiences can enrich historical fiction.
+    published: '2026-01-01T09:10:59+00:00'
+  - title: 'All in the family. A new book for your consideration: ‘Nadine’s Story’'
+    url: https://gilbertdoctorow.com/2026/01/01/all-in-the-family-a-new-book-for-your-consideration-nadines-story/
+    text: 'Years ago, Luigi, one of my colleagues at work in the European headquarters
+      of ITT, the world’s biggest ‘conglomerate’ at the time, shared some family wisdom
+      over lunch in his home as we enjoyed the spaghetti that he jokingly claimed was
+      the end result of a thousand years of Italian culinary development. Based on his
+      own marital experience of a failed first marriage, he warned that two artists
+      in a family are one too many. To that I would add today, that one artist in the
+      family is just right for purposes of putting bread on the table and having thought
+      provoking conversation between the partners in a marriage. In our family, we are
+      both historians.  As you probably know, I received a doctorate in history for
+      which I produced a book that was published as separate articles in scholarly journals
+      at the time. That is to say, I have an academic approach to history and employ
+      the related investigative techniques in my essays, including parsing texts, on
+      global politics today. My wife, Larisa Vladimirovna Zalesova, is also interested
+      in and writes about the historical past, both recent history and history going
+      back to the start of the 20 th century. But she practices a different craft as
+      a novelist. Therein she is the ‘artist’ in our family. Historical novels are especially
+      attractive to the broad public because they are entertaining. The author enters
+      the minds of the protagonists in a way that academic historians most often cannot
+      do for lack of substantiating documentation, written and otherwise. The limitations
+      of an academic historian in this regard became clear to me in my doctoral research
+      when I entered the archival funds of the Russian legislators and statesmen responsible
+      for the creation of Russia’s first parliament in 1905– and came up with dry dust,
+      not living and breathing persons. Historical novels like the one I am recommending
+      here, the just published Nadine’s Story. Scenes from Life, draw on the author’s
+      life experience with living and breathing people of today. There is no need to
+      document every sentence with references, which can weigh down the writing of academic
+      historians. And, as a bonus, the novelist can depict ‘scenes from life’ that your
+      academic writer dares not touch such as the erotic and sexually explicit. Nadine’s
+      Story is a sophisticated piece of adult literature and I will say no more here
+      on that issue. Two weeks ago, Nadine’s Story was released as a paperback by Amazon
+      into its worldwide distribution network of country websites, amazon.com, amazon.co.uk,
+      amazon.fr, amazon.com.au, amazon.co.jp etc. It is now available through this same
+      global network in ebook format at just under 10 dollars U.S. and the equivalent
+      in local currencies outside the U.S. Some of these websites already have a ‘look
+      inside’ feature on the book’s web page that allows you to read the first 5 pages
+      online to get a ‘feel’ for the writing style.  Regrettably this ‘look inside’
+      omits the Foreword which I think is especially useful for potential readers to
+      appreciate the work they are about to acquire.  Accordingly, I reproduce that
+      Foreword here below. ***** Foreword The novel Nadine’s Story was written over
+      thirty years ago and is set in the time period of fifty years ago. In the meantime,
+      almost all of our assumptions about life, about the “free world” and about the
+      USSR have changed dramatically. This necessarily poses several questions which
+      require an answer before the reader undertakes a journey into that world by opening
+      the pages of this novel. In the Soviet era, it was commonplace for authors to
+      hold their manuscripts in a desk drawer for years before their eventual publication.
+      The reason can be summed up in one word:  censorship. Many widely recognized novels
+      and works of documentary literature from the whole opus of 20 th century publications
+      had that fate. Individual works saw print during periods of “thaw,” as for example
+      under the stewardship of Nikita Khrushchev. Many more saw the light of day when
+      the Soviet system of thought control began to crumble under Mikhail Gorbachev
+      and his policy of “Glasnost” in the 1980s.  With the new freedoms which Russians
+      enjoyed when the country closed the door on Communism in the 1990s, still more
+      manuscripts were withdrawn from drawers and found publishers.  One such work,
+      Other People’s Letters by the author Alexander Morozov even won the Russian Booker
+      Prize in 1998, though it stirred up much debate over the practice of publishing
+      works decades after they were written. In the case of Nadine’s Story , its long
+      resting period till now was due to another kind of ‘censorship’ as practiced in
+      the West: the stranglehold on publishing enjoyed till recently by the established
+      network of publishing houses with their own agendas or ‘programs’ as they call
+      it, interlinked with an established network of literary agents. The match between
+      art and commerce was always fragile. The system had and has limited ability to
+      promote more than a tiny fraction of works of merit outside their own stable of
+      authors. When Nadine fell victim to the exclusionary policies of publishers in
+      the 1990s, the author moved on to other literary challenges, eventually finding
+      a publisher in 2010 for her second novel, Live as Before (in Russian Живи как
+      прежде ) within the St Petersburg literary journal Zvezda , which had long published
+      her articles on cultural affairs in Western Europe.  In 2019, another well-established
+      publisher in the same city, Liki Rossii, produced the Russian-language edition
+      of the author’s next novel, Мозаика моей жизни. Meanwhile, for the English language
+      edition, The Mosaic of My Life, the author turned to the American specialist company
+      in self-publishing and print-on-demand, Author House. This last favorable experience,
+      which was reconfirmed with the publication soon afterwards of Zalesova’s first
+      venture into travel literature, Dacha Tales: Life in the Russian Hinterland ,
+      persuaded her to dust off and publish Nadine . As they say, what goes around,
+      comes around. There is a new timeliness to this thirty-year-old manuscript which
+      comes from immigration having become headline news in Western Europe and the USA
+      these past few years. Indeed, the author’s last published novel, The Mosaic of
+      My Life (2020), though covering the broad sweep of Russian history from before
+      the Revolution to the 1970s, in passing had as an issue the question that tormented
+      so many Russians over three generations: whether to remain in their homeland or
+      to leave for better shores at the earliest opportunity come what may. In Nadine
+      , this question is foremost in the mind of the heroine from start to finish. In
+      the course of the 20 th century, Russia lost millions of its citizens not only
+      to political repression and the cruelty of wartime. It also saw repeated exoduses,
+      both officially sanctioned and by stealth.  In the relative stable times under
+      Leonid Brezhnev and his immediate successors, there were several high-profile
+      defections that caught the imagination of the Western world, all the more so as
+      those who fled were among the world’s most gifted artists who changed the perception
+      of ballet the world over for several decades: Rudolf Nureyev, Alexander Baryshnikov,
+      Natalya Makarova. Their daring escapes were explained by one motive only:  “I
+      chose freedom.”  What was largely overlooked was that these stars also chose full-blooded
+      careers and artistic development that was denied to them not just because of the
+      constraints of a command economy and authoritarian regime but by the excess of
+      talent around them.  Russia simply had too many of the world’s best talent on
+      hand for the good of its star performers and their time on stage was much less
+      ample than their ambition rightly demanded. With their departure, Russian performing
+      arts obviously lost some of its best calling cards abroad, but did not implode.
+      In a broader sense, the emigration of countless talented people from Russia to
+      Silicon Valley and to other employment niches in the West did not strip the country
+      of its brains.  The phoenix-like recovery of Russian industry, agriculture and
+      culture in the new millennium attests to the sufficient supply in Russia of world
+      quality masters in a great variety of domains. The novel Nadine explores the question
+      of staying or leaving from a variety of angles, mostly personal and imbedded in
+      the family life of the heroine. I am confident this story will find its place
+      in the ongoing exploration of emigration worldwide.'
+    one_sentence_summary: The author reflects on a colleague's advice about the challenges
+      of having two artists in a family, sharing his own experience as a historian with
+      a published doctorate and emphasizing the value of having one artist for financial
+      stability and stimulating conversation in a marriage.
+    paragraph_summary: In a reflective piece, the author shares insights from a colleague,
+      Luigi, who humorously suggested that having two artists in a family can lead to
+      complications, advocating instead for a balance that includes one artist for stability
+      and stimulating conversation. The author, a historian with a doctorate and published
+      works, contrasts his academic approach to history with that of his wife, Larisa
+      Vladimirovna Zalesova, a novelist who brings historical narratives to life through
+      her storytelling. He highlights the appeal of historical novels, which can engage
+      readers by exploring the inner lives of characters in ways that academic historians
+      often cannot due to the limitations of available documentation. The author recommends
+      Zalesova's newly published novel, "Nadine’s Story. Scenes from Life," as an example
+      of how personal experiences can enrich historical fiction.
+    published: '2026-01-01T09:10:59+00:00'
   - title: 'Russia-Ukraine War Update: Russia dismisses evidence calls over alleged
       drone attack| NewsX World'
     url: https://gilbertdoctorow.com/2025/12/30/russia-ukraine-war-update-russia-dismisses-evidence-calls-over-alleged-drone-attack-newsx-world/

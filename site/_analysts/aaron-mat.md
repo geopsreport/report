@@ -7,14 +7,72 @@ description: "Journalist and producer; covers US foreign policy, Russiagate, and
 websites:
   - https://www.aaronmate.net/
 summary: |
-  The geopolitical landscape remains dominated by unresolved crises in Gaza and Ukraine, with recent developments highlighting persistent barriers to peace and self-determination. Despite international mediation efforts, the underlying causes of these conflicts remain unaddressed, fueling continued instability.
+  The start of 2026 finds the global order in flux, with US foreign policy under President Trump driving major upheavals across Latin America, Eastern Europe, and the Middle East. The most recent developments center on Washington’s dramatic intervention in Venezuela, ongoing deadlock over Ukraine, and persistent instability in Gaza.
   
-  In Gaza, the ceasefire brokered by President Trump has failed to halt Israeli military operations or ease humanitarian conditions. In a new interview with **Aaron Maté**, Hamas negotiator Basem Naim accused Israel of "ongoing attacks" and violating the ceasefire terms, while criticizing the UN's demand for Hamas disarmament without any guarantees for Palestinian self-determination or meaningful political concessions. Naim emphasized that "the international community is asking for Palestinian surrender, not peace," underscoring the lack of trust in current diplomatic initiatives. The majority of analysts agree that the ceasefire is fragile and unlikely to lead to a sustainable resolution unless core issues—such as occupation and the blockade—are addressed.
+  The most significant new development is the US military operation in Venezuela, culminating in the kidnapping of President Nicolás Maduro. **Aaron Maté** reports that Trump invoked the Monroe Doctrine to justify the action, explicitly framing it as an assertion of US dominance over Venezuela’s oil resources. Maté characterizes Trump’s approach as “akin to a Mafia Don seeking material wealth through violence and intimidation.” This marks a sharp escalation from previous regime change efforts, signaling a willingness to use direct military force to secure economic interests in the hemisphere. The regional response remains uncertain, but the move is likely to provoke widespread condemnation and could destabilize neighboring countries.
   
-  Turning to Ukraine, President Zelensky has publicly rejected the idea of ceding the Donbas region to Russia, despite most of its population now living under Russian control. **Aaron Maté** notes that Zelensky has floated the possibility of a national referendum on Donbas, but this move is widely seen as symbolic given the realities on the ground. The Ukrainian leadership's stance reflects both domestic political pressures and the lack of viable military options to reclaim lost territory. Analysts suggest there is a high chance that the conflict will remain frozen, with neither side able to achieve a decisive breakthrough.
+  Meanwhile, the Ukraine conflict remains at an impasse. President Zelensky has publicly rejected ceding the Donbas region to Russia, but, as **Aaron Maté** notes, he has floated the idea of a national referendum on the territory’s fate. This comes despite the fact that most of Donbas is already under Russian control, highlighting the limited options available to Kyiv. Trump’s earlier rejection of Zelensky’s request for long-range Tomahawk missiles, and his push for a diplomatic settlement, have not shifted the entrenched positions in Washington or among NATO allies, who continue to resist any deal seen as a concession to Moscow.
   
-  Looking ahead, the trends point toward continued deadlock in both Gaza and Ukraine. The prevailing view among independent analysts is that, absent significant shifts in international policy—particularly from the US and its allies—these conflicts will persist. I guarantee that without addressing the root causes, such as occupation and external interference, there will be no durable peace in either arena. The prospects for meaningful negotiations remain dim, and the risk of renewed violence is ever-present.
+  In Gaza, the ceasefire brokered by Trump remains fragile. Israeli attacks and restrictions on aid persist, and the underlying issues of occupation and Palestinian self-determination remain unresolved. **Basem Naim**, a Hamas negotiator interviewed by Maté, underscores that international demands for Hamas disarmament have not been matched by guarantees of Palestinian rights or unity, further complicating prospects for a durable peace.
+  
+  Looking ahead, the trends point to continued volatility. The US intervention in Venezuela is most likely to trigger regional backlash and further instability—I guarantee that this will become a major flashpoint in hemispheric relations. In Ukraine, there is a high chance that the conflict will remain frozen, with neither side able to achieve a decisive breakthrough. In Gaza, absent a shift in international pressure or Israeli policy, the ceasefire is quite likely to unravel, perpetuating the cycle of violence and humanitarian crisis.
+  
+  Overall, the new year opens with heightened risks of escalation and little sign of meaningful progress on the world’s most urgent conflicts.
 articles:
+  - title: Trump kidnaps Venezuela’s president to steal the country's oil
+    url: https://www.aaronmate.net/p/trump-kidnaps-venezuelas-president
+    text: '(Photo by Jim WATSON / AFP via Getty Images) In announcing the US military’s
+      attack on Venezuela and kidnapping of president Nicolás Maduro, an operation that
+      reportedly killed at least 40 people, President Trump laid bare his real motive.
+      Invoking the 1823 Monroe Doctrine, which has underpinned decades of US aggression
+      against Latin American governments, Trump bragged that “they now call it the Donroe
+      Doctrine... American dominance in the Western Hemisphere won’t be questioned again.”
+      The main target of that dominance is Venezuela’s oil reserves, the world’s largest.
+      With US oil companies leading the way, Trump vowed, “we’re going to get back our
+      oil... the money coming out of the ground is substantial.” While Trump intends
+      it as a riff on his first name, his signature doctrine is additionally fitting
+      for mirroring the behavior of a Mafia Don: using violence, threats, and sabotage
+      to obtain material wealth. Read more'
+    one_sentence_summary: President Trump justified the US military's attack on Venezuela
+      and the kidnapping of President Nicolás Maduro by invoking the Monroe Doctrine
+      to assert American dominance over the country's vast oil reserves, likening his
+      approach to that of a Mafia Don seeking material wealth through violence and intimidation.
+    paragraph_summary: In a controversial announcement, President Trump revealed the
+      US military's attack on Venezuela, which resulted in the death of at least 40
+      individuals and the kidnapping of President Nicolás Maduro. Citing the Monroe
+      Doctrine, Trump emphasized American dominance in the Western Hemisphere, declaring
+      that it would not be challenged again, with a particular focus on Venezuela's
+      vast oil reserves. He expressed intentions to reclaim oil resources, framing his
+      approach as a reflection of his name while also likening it to the tactics of
+      a Mafia Don, utilizing violence and intimidation to secure economic gain.
+    published: '2026-01-04T01:22:07+00:00'
+  - title: Trump kidnaps Venezuela’s president to steal the country's oil
+    url: https://www.aaronmate.net/p/trump-kidnaps-venezuelas-president
+    text: '(Photo by Jim WATSON / AFP via Getty Images) In announcing the US military’s
+      attack on Venezuela and kidnapping of president Nicolás Maduro, an operation that
+      reportedly killed at least 40 people, President Trump laid bare his real motive.
+      Invoking the 1823 Monroe Doctrine, which has underpinned decades of US aggression
+      against Latin American governments, Trump bragged that “they now call it the Donroe
+      Doctrine... American dominance in the Western Hemisphere won’t be questioned again.”
+      The main target of that dominance is Venezuela’s oil reserves, the world’s largest.
+      With US oil companies leading the way, Trump vowed, “we’re going to get back our
+      oil... the money coming out of the ground is substantial.” While Trump intends
+      it as a riff on his first name, his signature doctrine is additionally fitting
+      for mirroring the behavior of a Mafia Don: using violence, threats, and sabotage
+      to obtain material wealth. Read more'
+    one_sentence_summary: President Trump justified the US military's attack on Venezuela
+      and the kidnapping of President Nicolás Maduro by invoking the Monroe Doctrine
+      to assert American dominance over the country's vast oil reserves, likening his
+      approach to that of a Mafia Don seeking material wealth through violence and intimidation.
+    paragraph_summary: In a controversial announcement, President Trump revealed the
+      US military's attack on Venezuela, which resulted in the death of at least 40
+      individuals and the kidnapping of President Nicolás Maduro. Citing the Monroe
+      Doctrine, Trump emphasized American dominance in the Western Hemisphere, declaring
+      that it would not be challenged again, with a particular focus on Venezuela's
+      vast oil reserves. He expressed intentions to reclaim oil resources, framing his
+      approach as a reflection of his name while also likening it to the tactics of
+      a Mafia Don, utilizing violence and intimidation to secure economic gain.
+    published: '2026-01-04T01:22:07+00:00'
   - title: Hamas negotiator on Israel's ceasefire violations and new barriers to Palestinian
       freedom
     url: https://www.aaronmate.net/p/hamas-negotiator-on-israels-ceasefire
@@ -816,6 +874,27 @@ articles:
       portrays Trump's proposals as a means to reinforce Israeli dominance rather than
       a genuine peace initiative.
     published: '2025-10-07T15:42:00+00:00'
+  - title: 'Narrated version: By Russiagate standards, the Comey case is a slam-dunk'
+    url: https://www.aaronmate.net/p/narrated-version-by-russiagate-standards
+    text: The indictment of former FBI Director James Comey over alleged false statements
+      to Congress has been widely dismissed as yet another radical overreach of Donald
+      Trump’s executive power. But to view the first ever indictment of an FBI chief
+      solely through the lens of Trump retribution only tells half the story. By the
+      derelict standards of the 2016 Trump-Russia collusion probe that Comey presided
+      over and promoted long after leaving his position, his 2025 prosecution is perfectly
+      legitimate.
+    one_sentence_summary: The indictment of former FBI Director James Comey for alleged
+      false statements to Congress is seen by many as an overreach of Trump's power,
+      yet it is also viewed as a legitimate response to Comey's handling of the 2016
+      Trump-Russia investigation.
+    paragraph_summary: The indictment of former FBI Director James Comey for allegedly
+      making false statements to Congress has been largely interpreted as an example
+      of Donald Trump's misuse of executive power. However, this perspective overlooks
+      the context of Comey's role in the 2016 Trump-Russia collusion investigation,
+      which he continued to advocate for even after leaving office. Given the standards
+      set during that probe, the 2025 prosecution of Comey can be seen as a legitimate
+      legal action rather than merely a retaliatory move by Trump.
+    published: '2025-09-29T17:34:21+00:00'
   - title: By Russiagate standards, the Comey case is a slam-dunk
     url: https://www.aaronmate.net/p/by-russiagate-standards-the-comey
     text: (Photo by Alex Wong/Getty Images) The indictment of former FBI Director James
