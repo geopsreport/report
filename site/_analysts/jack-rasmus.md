@@ -7,14 +7,170 @@ description: "Jack Rasmus is an American economist, author, and radio show host 
 websites:
   - https://jackrasmus.com/
 summary: |
-  The geopolitical landscape entering January 2026 is marked by intensifying instability within the United States and its global posture, as highlighted by recent analyses. The Trump administration’s domestic and foreign policies are increasingly characterized by what **Jack Rasmus** describes as a “decline into lawlessness,” with the government resorting to paramilitary and special operations tactics both at home and abroad. This shift is compounded by escalating political conflict, as both major parties weaponize the legal system for partisan advantage, further eroding institutional norms.
+  The geopolitical landscape at the start of 2026 is marked by a decisive shift in U.S. foreign and domestic policy under the Trump administration. Recent reports indicate a clear pivot away from Europe and Ukraine, with renewed focus on the Western Hemisphere and the western Pacific. This reorientation is driven by both economic imperatives and the administration’s desire to counter perceived threats closer to home.
   
-  On the economic front, the US continues to grapple with the aftershocks of aggressive tax cuts, tariffs, and monetary interventions. According to **Jack Rasmus**, these measures have failed to deliver substantive growth in the real economy, instead fueling asset bubbles and exacerbating fiscal imbalances. The national debt is projected to hit $38 trillion by the end of 2025, and there is a “high chance” that recessionary pressures will intensify in the coming months, given ongoing manufacturing contraction and stagnant housing markets.
+  **Jack Rasmus** highlights that the U.S. government’s latest actions in Latin America and the Pacific are part of a broader strategy to assert dominance and secure economic interests. The administration is deprioritizing European theaters, particularly Ukraine, in favor of more direct interventions in its own hemisphere. This is seen as a response to both global economic pressures and the need to maintain U.S. influence in the face of rising regional competitors.
   
-  Internationally, the Trump administration’s approach remains unpredictable. The recent use of force against Iran, following misleading diplomatic overtures, signals a willingness to initiate new conflicts despite campaign promises to end “forever wars.” This pattern, alongside the administration’s push to leverage frozen Russian assets and reduce US involvement in Ukraine, points to a broader strategy of transactional engagement and unilateral action.
+  Domestically, the situation is becoming increasingly fraught. On January 12, President Trump announced that he would personally dictate all U.S. war and policy decisions based on his own moral judgment, effectively sidelining constitutional checks and balances. **Jack Rasmus** warns that this development “signifies a shift towards tyranny in the country,” with the administration disregarding established legal norms and concentrating power at the executive level.
   
-  Looking ahead, **Jack Rasmus** predicts with high confidence that the US will face mounting economic and political turbulence through 2026. The erosion of legal norms, combined with fiscal instability and volatile foreign policy, suggests that both domestic unrest and international uncertainty will persist. The majority view among analysts is that these trends are unlikely to reverse in the near term, and may, in fact, accelerate as the administration seeks to navigate multiple crises simultaneously.
+  These moves are occurring against a backdrop of economic uncertainty. The U.S. economy, while buoyed by asset bubbles and aggressive monetary policy, faces significant structural challenges. The administration’s tax cuts and tariffs have provided only limited stimulus, and there are growing concerns about the sustainability of current growth patterns.
+  
+  Looking ahead, the majority of analysts, including **Jack Rasmus**, predict with high confidence that the U.S. will continue to escalate its involvement in Latin America and the Pacific throughout 2026. There is also a high chance that domestic governance will become more autocratic, as the administration consolidates power and bypasses traditional institutional constraints. The trend towards lawlessness and the use of paramilitary tactics, both at home and abroad, is expected to intensify, raising the risk of further instability in the coming months.
 articles:
+  - title: Economic Forces Behind Trump’s Western Hemisphere Imperial Escalation
+    url: https://jackrasmus.com/2026/01/13/economic-forces-behind-trumps-western-hemisphere-imperial-escalation/
+    text: 'What are the common denominators behind Trump’s regime change operation in
+      Venezuela? Plans to grab Greenland? Threats against Canada, Mexico, Colombia and
+      Cuba? Driving China out of investments in Panama, Ecuador and Peru? Propping up
+      regimes in Argentina and aiding right wing government shifts in Chile and Bolivia?
+      Why is the US empire refocusing on the western hemisphere now (and western Pacific
+      military preparation), and trying to reduce exposure to Europe and Ukraine? Watch
+      my January 7, 2026 interview and discussion with Garland Nixon:'
+    one_sentence_summary: The article explores the motivations and strategies behind
+      the U.S. government's recent foreign policy actions in Latin America and the western
+      Pacific, highlighting a shift in focus from Europe and Ukraine to assert influence
+      and counter threats in the region.
+    paragraph_summary: The article explores the underlying motivations and strategies
+      behind various U.S. foreign policy actions during Trump's presidency, particularly
+      in Latin America and the western hemisphere. It examines the regime change efforts
+      in Venezuela, ambitions regarding Greenland, aggressive postures towards Canada,
+      Mexico, Colombia, and Cuba, as well as initiatives to diminish Chinese influence
+      in countries like Panama, Ecuador, and Peru. Additionally, it discusses U.S. support
+      for right-wing governments in Argentina, Chile, and Bolivia. The piece suggests
+      a strategic pivot by the U.S. to focus more on its immediate region and military
+      preparations in the western Pacific, while reducing its commitments in Europe
+      and Ukraine. The insights are drawn from an interview with Garland Nixon conducted
+      on January 7, 2026.
+    published: '2026-01-14T00:18:47+00:00'
+  - title: Economic Forces Behind Trump’s Western Hemisphere Imperial Escalation
+    url: https://jackrasmus.com/2026/01/13/economic-forces-behind-trumps-western-hemisphere-imperial-escalation/
+    text: 'What are the common denominators behind Trump’s regime change operation in
+      Venezuela? Plans to grab Greenland? Threats against Canada, Mexico, Colombia and
+      Cuba? Driving China out of investments in Panama, Ecuador and Peru? Propping up
+      regimes in Argentina and aiding right wing government shifts in Chile and Bolivia?
+      Why is the US empire refocusing on the western hemisphere now (and western Pacific
+      military preparation), and trying to reduce exposure to Europe and Ukraine? Watch
+      my January 7, 2026 interview and discussion with Garland Nixon:'
+    one_sentence_summary: The article explores the motivations and strategies behind
+      the U.S. government's recent foreign policy actions in Latin America and the western
+      Pacific, highlighting a shift in focus from Europe and Ukraine to assert influence
+      and counter threats in the region.
+    paragraph_summary: The article explores the underlying motivations and strategies
+      behind various U.S. foreign policy actions during Trump's presidency, particularly
+      in Latin America and the western hemisphere. It examines the regime change efforts
+      in Venezuela, ambitions regarding Greenland, aggressive postures towards Canada,
+      Mexico, Colombia, and Cuba, as well as initiatives to diminish Chinese influence
+      in countries like Panama, Ecuador, and Peru. Additionally, it discusses U.S. support
+      for right-wing governments in Argentina, Chile, and Bolivia. The piece suggests
+      a strategic pivot by the U.S. to focus more on its immediate region and military
+      preparations in the western Pacific, while reducing its commitments in Europe
+      and Ukraine. The insights are drawn from an interview with Garland Nixon conducted
+      on January 7, 2026.
+    published: '2026-01-14T00:18:47+00:00'
+  - title: Tyranny in America
+    url: https://jackrasmus.com/2026/01/12/tyranny-in-america/
+    text: 'Trump today, January 12, 2026, publicly declared all decisions on US war
+      and policy will be made by him personally, based on his own sense of ‘morality’
+      and his own ‘mind’. In other words, the limits imposed by the US Constitution,
+      domestic laws, and International Law and treaties are no longer of consideration.
+      Acting above the law, by an individual or group, arbitrarily and disregarding
+      of individual rights, is the classic definition of ‘Tyranny’. Not only has the
+      USA now moved beyond a Constitutional Republic, but it has entered a period of
+      Tyranny conduction by Trump and his regime of sycophants in Congress and the Deep
+      State federal bureaucracy. Listen to my January 10, 2026 Alternative Visions radio
+      show where I describe how the USA has become a republic of Tyranny at home and
+      abroad, which Trump himself has just publicly confirmed three days later declaring
+      the USA will henceforth be governed by his personal views of what’s right (morality)
+      and his own mind (twisted though it may be). To Listen GO to: https://alternativevisions.podbean.com/e/alternative-visions-with-jack-rasmus-1-9-26/'
+    one_sentence_summary: On January 12, 2026, Trump announced that he would personally
+      dictate all U.S. war and policy decisions based on his own moral judgment, effectively
+      disregarding the Constitution and laws, which critics argue signifies a shift
+      towards tyranny in the country.
+    paragraph_summary: On January 12, 2026, Trump announced that he would personally
+      make all decisions regarding U.S. war and policy, disregarding the constraints
+      of the Constitution, domestic laws, and international treaties. This declaration
+      signifies a shift away from the principles of a Constitutional Republic towards
+      what the article describes as a period of tyranny, characterized by Trump's unilateral
+      approach and the complicity of Congress and federal bureaucrats. The author argues
+      that this move represents a fundamental erosion of individual rights and governance,
+      which Trump has openly confirmed, suggesting that the U.S. is now governed by
+      his subjective sense of morality and judgment.
+    published: '2026-01-13T01:46:43+00:00'
+  - title: Tyranny in America
+    url: https://jackrasmus.com/2026/01/12/tyranny-in-america/
+    text: 'Trump today, January 12, 2026, publicly declared all decisions on US war
+      and policy will be made by him personally, based on his own sense of ‘morality’
+      and his own ‘mind’. In other words, the limits imposed by the US Constitution,
+      domestic laws, and International Law and treaties are no longer of consideration.
+      Acting above the law, by an individual or group, arbitrarily and disregarding
+      of individual rights, is the classic definition of ‘Tyranny’. Not only has the
+      USA now moved beyond a Constitutional Republic, but it has entered a period of
+      Tyranny conduction by Trump and his regime of sycophants in Congress and the Deep
+      State federal bureaucracy. Listen to my January 10, 2026 Alternative Visions radio
+      show where I describe how the USA has become a republic of Tyranny at home and
+      abroad, which Trump himself has just publicly confirmed three days later declaring
+      the USA will henceforth be governed by his personal views of what’s right (morality)
+      and his own mind (twisted though it may be). To Listen GO to: https://alternativevisions.podbean.com/e/alternative-visions-with-jack-rasmus-1-9-26/'
+    one_sentence_summary: On January 12, 2026, Trump announced that he would personally
+      dictate all U.S. war and policy decisions based on his own moral judgment, effectively
+      disregarding the Constitution and laws, which critics argue signifies a shift
+      towards tyranny in the country.
+    paragraph_summary: On January 12, 2026, Trump announced that he would personally
+      make all decisions regarding U.S. war and policy, disregarding the constraints
+      of the Constitution, domestic laws, and international treaties. This declaration
+      signifies a shift away from the principles of a Constitutional Republic towards
+      what the article describes as a period of tyranny, characterized by Trump's unilateral
+      approach and the complicity of Congress and federal bureaucrats. The author argues
+      that this move represents a fundamental erosion of individual rights and governance,
+      which Trump has openly confirmed, suggesting that the U.S. is now governed by
+      his subjective sense of morality and judgment.
+    published: '2026-01-13T01:46:43+00:00'
+  - title: Trump’s Economy-Year One
+    url: https://jackrasmus.com/2026/01/10/trumps-economy-year-one/
+    text: Watch my January 4, 2026 video interview presentation on the US and global
+      economies, and extensive Q&A following, with the ICSS Marxist Library in Oakland,
+      Calif. Both US real economy (GDP, jobs, inflation, dollar devaluation, etc. and
+      financial asset bubbles (AI, gold, silver, cryptos), are discussed. Trends in
+      the global economy (sanctions effects, tariffs, BRICS challenge, and events in
+      Venezuela and US vs. China are addressed. The 45 minute presentation is followed
+      by an hour of Q&A from the audience.
+    one_sentence_summary: The article highlights a video interview presentation discussing
+      the US and global economies, covering topics such as GDP, inflation, financial
+      asset bubbles, and international trends, followed by an extensive audience Q&A
+      session.
+    paragraph_summary: In a video interview presentation on January 4, 2026, hosted
+      by the ICSS Marxist Library in Oakland, California, the speaker discusses the
+      current state of the US and global economies, covering key topics such as GDP,
+      employment, inflation, and the devaluation of the dollar, alongside financial
+      asset bubbles in areas like AI, gold, silver, and cryptocurrencies. The presentation
+      also examines global economic trends, including the impacts of sanctions, tariffs,
+      the challenges posed by BRICS nations, and geopolitical issues involving Venezuela
+      and the US-China relationship. Following the 45-minute presentation, there is
+      an extensive hour-long Q&A session with the audience.
+    published: '2026-01-10T19:53:56+00:00'
+  - title: Trump’s Economy-Year One
+    url: https://jackrasmus.com/2026/01/10/trumps-economy-year-one/
+    text: Watch my January 4, 2026 video interview presentation on the US and global
+      economies, and extensive Q&A following, with the ICSS Marxist Library in Oakland,
+      Calif. Both US real economy (GDP, jobs, inflation, dollar devaluation, etc. and
+      financial asset bubbles (AI, gold, silver, cryptos), are discussed. Trends in
+      the global economy (sanctions effects, tariffs, BRICS challenge, and events in
+      Venezuela and US vs. China are addressed. The 45 minute presentation is followed
+      by an hour of Q&A from the audience.
+    one_sentence_summary: The article highlights a video interview presentation discussing
+      the US and global economies, covering topics such as GDP, inflation, financial
+      asset bubbles, and international trends, followed by an extensive audience Q&A
+      session.
+    paragraph_summary: In a video interview presentation on January 4, 2026, hosted
+      by the ICSS Marxist Library in Oakland, California, the speaker discusses the
+      current state of the US and global economies, covering key topics such as GDP,
+      employment, inflation, and the devaluation of the dollar, alongside financial
+      asset bubbles in areas like AI, gold, silver, and cryptocurrencies. The presentation
+      also examines global economic trends, including the impacts of sanctions, tariffs,
+      the challenges posed by BRICS nations, and geopolitical issues involving Venezuela
+      and the US-China relationship. Following the 45-minute presentation, there is
+      an extensive hour-long Q&A session with the audience.
+    published: '2026-01-10T19:53:56+00:00'
   - title: Venezuela vs. the Empire
     url: https://jackrasmus.com/2026/01/06/venezuela-vs-the-empire/
     text: 'My analysis of latest events in light of the reaction of US neocons and political

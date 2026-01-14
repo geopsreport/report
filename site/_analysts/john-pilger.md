@@ -7,16 +7,50 @@ description: "Veteran Australian journalist and filmmaker; writes long-form crit
 websites:
   - https://consortiumnews.com
 summary: |
-  The international response to the ongoing crisis in Palestine continues to intensify, with new developments highlighting both grassroots activism and shifting media narratives. The situation remains defined by mounting calls for accountability and a growing willingness among Western institutions to confront previously avoided realities.
+  As global attention remains fixed on the ongoing crises in the Middle East and the United States, recent independent analysis highlights new developments in both regions, underscoring persistent challenges in justice, accountability, and international intervention.
   
-  A significant recent development is the legal challenge mounted by the activist group Palestine Action in London. As reported by **Craig Murray**, the group is contesting its classification as a terrorist organization by the UK government. This move has sparked debate over the boundaries of non-violent protest and state repression, with the court case drawing attention to the broader implications for civil liberties and anti-genocide activism in Britain.
+  In the United States, the fatal shooting of Renee Good by ICE agent Jonathan Ross in Minneapolis has reignited debate over police violence and systemic racism. **Marjorie Cohn** examines the legal ramifications of the January 7 incident, noting its proximity to the site of George Floyd’s death and the broader context of law enforcement accountability. The case, she argues, exemplifies the enduring struggle for justice within the American legal system, particularly in cases involving state agents and marginalized communities. The majority of analysts agree that, given the current climate and public scrutiny, there is a high chance that local authorities will face mounting pressure to pursue charges and ensure transparency in the investigation.
   
-  Meanwhile, the media landscape is undergoing a notable transformation. **Tim Foley** observes that major outlets, including the New York Times, are now openly acknowledging the term "genocide" in relation to Israel's actions in Gaza—a term they previously avoided. This shift reflects a broader change in public discourse and signals increased pressure on policymakers to address the humanitarian crisis more directly.
+  Internationally, the crisis in Gaza continues to draw condemnation and calls for action. **Nicolas J. S. Davies** criticizes President Trump’s “20-point Gaza plan,” asserting that it exacerbates the humanitarian situation and fails to address the root causes of violence and occupation. Davies emphasizes the collective authority of global governments to intervene, suggesting that meaningful change is unlikely without robust international accountability mechanisms. This view is echoed by other analysts, who point to the U.S. government’s efforts to dissuade support for multilateral initiatives aimed at confronting Israel’s actions, as highlighted by **Mick Hall** in his coverage of the Bogota joint action plan.
   
-  On the diplomatic front, the U.S. continues to resist collective international action. **Mick Hall** highlights Washington's efforts to dissuade support for a joint plan by 12 nations in Bogota aimed at confronting Israel over its conduct in Gaza. This underscores the geopolitical complexities, with the U.S. prioritizing its alliance with Israel even as global consensus grows for intervention.
+  Meanwhile, in the UK, the legal battle over the classification of Palestine Action as a terrorist organization continues to unfold. The group’s recent court appearance in London, reported by **Craig Murray**, has intensified debate over the boundaries of non-violent activism and state repression. The outcome of this case is expected to set a precedent for how similar movements are treated across Europe.
   
-  Looking ahead, the convergence of legal activism, evolving media narratives, and international diplomatic efforts suggests a high likelihood of increased scrutiny on Israel’s actions and Western complicity. There is a high chance that further legal and political challenges will emerge in Europe, while U.S. resistance to multilateral action is expected to persist in the short term. Most definitely, the growing acceptance of the "genocide" framing in mainstream discourse will drive further demands for accountability and could reshape the parameters of international engagement with the crisis.
+  Trends indicate a growing international consensus on the need for accountability in both domestic and foreign policy arenas. There is high confidence that public pressure will continue to drive legal and political responses to incidents of state violence, both in the U.S. and abroad. However, without coordinated international action, especially regarding the situation in Gaza, meaningful change remains uncertain. Most analysts predict that, barring a significant shift in U.S. policy or broader international intervention, the status quo is likely to persist in the near term.
 articles:
+  - title: Minnesota Should Charge ICE Agent With Murder
+    url: https://consortiumnews.com/2026/01/13/minnesota-should-charge-ice-agent-with-murder/
+    text: Marjorie Cohn sizes up the legal considerations surrounding Jonathan Ross’
+      fatal shooting of Renee Good in Minneapolis. By Marjorie Cohn Special to Consortium
+      News On Jan. 7, less than a mile from where George Floyd was murdered nearly six
+      years ago,… Read more →
+    one_sentence_summary: Marjorie Cohn analyzes the legal implications of Jonathan
+      Ross' fatal shooting of Renee Good in Minneapolis, reflecting on the incident's
+      proximity to the site of George Floyd's death.
+    paragraph_summary: In her article, Marjorie Cohn examines the legal implications
+      of Jonathan Ross' fatal shooting of Renee Good in Minneapolis, which occurred
+      on January 7, not far from the site of George Floyd's death. Cohn delves into
+      the circumstances of the shooting, the potential legal defenses available to Ross,
+      and the broader societal and legal context surrounding police violence and accountability
+      in the wake of high-profile cases. The article highlights the ongoing challenges
+      in addressing issues of justice and systemic racism within the legal system.
+    published: '2026-01-13T05:01:59+00:00'
+  - title: Minnesota Should Charge ICE Agent With Murder
+    url: https://consortiumnews.com/2026/01/13/minnesota-should-charge-ice-agent-with-murder/
+    text: Marjorie Cohn sizes up the legal considerations surrounding Jonathan Ross’
+      fatal shooting of Renee Good in Minneapolis. By Marjorie Cohn Special to Consortium
+      News On Jan. 7, less than a mile from where George Floyd was murdered nearly six
+      years ago,… Read more →
+    one_sentence_summary: Marjorie Cohn analyzes the legal implications of Jonathan
+      Ross' fatal shooting of Renee Good in Minneapolis, reflecting on the incident's
+      proximity to the site of George Floyd's death.
+    paragraph_summary: In her article, Marjorie Cohn examines the legal implications
+      of Jonathan Ross' fatal shooting of Renee Good in Minneapolis, which occurred
+      on January 7, not far from the site of George Floyd's death. Cohn delves into
+      the circumstances of the shooting, the potential legal defenses available to Ross,
+      and the broader societal and legal context surrounding police violence and accountability
+      in the wake of high-profile cases. The article highlights the ongoing challenges
+      in addressing issues of justice and systemic racism within the legal system.
+    published: '2026-01-13T05:01:59+00:00'
   - title: Beware Trump’s Ceasefire Without UN Action
     url: https://consortiumnews.com/2025/10/11/beware-trumps-ceasefire-without-un-action/
     text: Governments of the world have the collective power to end this genocide and

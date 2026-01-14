@@ -7,21 +7,699 @@ description: "Gilbert Doctorow is a Brussels-based independent political analyst
 websites:
   - https://gilbertdoctorow.com/
 summary: |
-  As the first week of January 2026 unfolds, geopolitical tensions remain high across multiple theaters, with the Russia-Ukraine conflict, Middle East flashpoints, and U.S. foreign policy dominating the agenda. Recent independent analyses, particularly from **Gilbert Doctorow**, provide critical insights into the latest developments and the broader strategic landscape.
+  As the Ukraine conflict grinds into its third year, the past 24 hours have seen notable escalations and new flashpoints across Europe. The Russian military has intensified its campaign against Ukrainian infrastructure, with the latest strikes targeting Kharkov’s energy grid. According to **Gilbert Doctorow**, these attacks are designed to displace Ukrainian civilians, undermine the country’s economic viability, and exert indirect pressure on European governments by threatening another refugee wave. This tactic, Doctorow notes, is “most definitely” part of a broader Russian strategy to force concessions from both Kyiv and its Western backers.
   
-  The most recent focus has been the "Coalition of the Willing" summit in Paris, convened to address the ongoing war in Ukraine. According to **Doctorow**, the summit was largely ineffective, with participants demonstrating little appetite for a genuine resolution. He notes, "The summit failed to produce any substantive steps toward ending the conflict, reflecting a broader reluctance among Western powers to engage in meaningful negotiations." This aligns with earlier skepticism about the prospects for peace, as both Russian and Ukrainian leadership remain entrenched in their positions.
+  Meanwhile, domestic unrest is mounting within Europe itself. French farmers staged significant protests in Paris, rallying against the Mercosur trade deal. The demonstrations reflect growing discontent over EU trade policies, which many in the French agricultural sector see as threatening their livelihoods. Doctorow highlights that such protests could further complicate the EU’s internal cohesion at a time when unity is already under strain from external crises.
   
-  Meanwhile, the Middle East remains volatile. **Doctorow** highlights recent Israeli military actions in Lebanon, which risk further destabilizing the region. He also draws attention to escalating U.S. political rhetoric on Venezuela, suggesting a hardening stance that could have broader implications for Latin American stability.
-  
-  On the global stage, the prospect of a new strategic alliance is gaining traction. In a recent Press TV interview, **Doctorow** argues that the United States is increasingly perceived as a "rogue state," prompting calls for a mutual defense pact among Russia, China, and Iran to counterbalance U.S. influence. "A formal alliance between these powers is now not only possible but, in my view, quite likely," he asserts, indicating a high chance of further polarization in international relations.
+  On the international stage, the U.S. position on global norms continues to shift. In recent days, former President Donald Trump publicly dismissed the relevance of international law, particularly in the context of Russia’s actions in Ukraine. This rhetorical move, as previously analyzed by Doctorow, signals a weakening of the traditional Western-led order and emboldens actors willing to challenge established rules.
   
   **Trends and Predictions:**  
-  - The Ukraine war is set to continue with little progress toward peace, as Western diplomatic efforts remain fragmented and ineffective.  
-  - Tensions in the Middle East, particularly involving Israel and Lebanon, are likely to escalate, with potential spillover effects.  
-  - The emergence of a Russia-China-Iran alliance is "quite likely" in the near term, signaling a shift toward a more multipolar and confrontational global order.
-  
-  Given the current trajectory, **Doctorow** maintains that the risk of broader conflict is increasing, and without significant policy shifts, the world is "most definitely" heading toward a period of heightened instability.
+  The consensus among analysts is that Russia will continue its infrastructure-focused campaign in Ukraine, with further attacks on critical assets “most definitely” expected in the coming weeks. European political instability, fueled by economic grievances and unpopular trade policies, is “quite likely” to intensify, potentially weakening the EU’s collective response to external threats. Finally, the erosion of respect for international law by major powers is “most definitely” accelerating the fragmentation of the post-Cold War order, raising the risk of further escalation in multiple theaters.
 articles:
+  - title: NewsX World hourly morning news wrap-up, 13 January
+    url: https://gilbertdoctorow.com/2026/01/13/newsx-world-hourly-morning-news-wrap-up-13-january/
+    text: 'NewsX World hourly morning news wrap-up, 13 January In this morning’s news
+      bulletin, I come on for two segments beginning at minute 14.  These deal firstly
+      with the latest Russian attack on the Ukrainian city of Kharkov, where further
+      destruction to the energy infrastructure has been inflicted. As I say here, repeating
+      what the Russians themselves are saying about these attacks: the destruction of
+      energy production and distribution is taking a page from the American playbook
+      of their 1999 bombing campaign against Belgrade, though here the Russians have
+      an ulterior objective of driving the population to flee to Europe, thereby reducing
+      Ukraine’s economy while overwhelming social services in Germany and elsewhere
+      by the refugee influx so that Europe sues for peace. Secondly, we spoke about
+      the massive demonstration of French farmers in Paris protesting the terms of the
+      Mercosur trade deal that has been concluded with the EU over objections from European
+      farmers who claim there will be unfair trading that undercuts their markets. The
+      problem is not unfair trading but the much greater efficiency and production costs
+      in a very large market like Brazil versus France. I expect the treaty will be
+      ratified and come into effect nonetheless, though with added provisions for review
+      and modification of certain terms relating to agriculture after a year or two
+      to avoid doing excessive harm to European farmers. For those who may think that
+      the almost daily commentary that this broadcaster requests of me puts them in
+      the Alternative News category, I urge that you listen to the interview just prior
+      to my appearance, where you will hear an account of the brutal repression of demonstrators
+      by the Iranian authorities that could just as easily be shown on the BBC or Euronews. 
+      For the truth about Iran, you would do well to go to Glenn Diesen’s interview
+      yesterday with Iranian professor Seyed Marandi – https://www.youtube.com/watch?v=dFRO4bXzEQw&t=696s'
+    one_sentence_summary: In the January 13 news wrap-up, the focus is on Russia's latest
+      attacks on Kharkov's energy infrastructure, aimed at displacing Ukrainians to
+      weaken the economy and pressure Europe, alongside significant protests by French
+      farmers in Paris against the Mercosur trade deal.
+    paragraph_summary: 'In the January 13 morning news wrap-up from NewsX, the focus
+      is on two significant issues: the recent Russian attacks on Kharkov, Ukraine,
+      which have targeted energy infrastructure in a strategy reminiscent of the U.S.
+      bombing campaign in Belgrade, aimed at driving Ukrainian citizens to flee to Europe
+      and destabilizing the region; and a large protest by French farmers in Paris against
+      the Mercosur trade deal with the EU, which they argue will unfairly undercut their
+      markets due to Brazil''s production efficiency. Despite these objections, the
+      treaty is expected to be ratified, potentially with future provisions for agricultural
+      review. The segment also highlights a prior interview discussing the repression
+      of demonstrators in Iran, suggesting that the broadcaster''s commentary should
+      not be dismissed as alternative news.'
+    published: '2026-01-13T12:54:29+00:00'
+  - title: NewsX World hourly morning news wrap-up, 13 January
+    url: https://gilbertdoctorow.com/2026/01/13/newsx-world-hourly-morning-news-wrap-up-13-january/
+    text: 'NewsX World hourly morning news wrap-up, 13 January In this morning’s news
+      bulletin, I come on for two segments beginning at minute 14.  These deal firstly
+      with the latest Russian attack on the Ukrainian city of Kharkov, where further
+      destruction to the energy infrastructure has been inflicted. As I say here, repeating
+      what the Russians themselves are saying about these attacks: the destruction of
+      energy production and distribution is taking a page from the American playbook
+      of their 1999 bombing campaign against Belgrade, though here the Russians have
+      an ulterior objective of driving the population to flee to Europe, thereby reducing
+      Ukraine’s economy while overwhelming social services in Germany and elsewhere
+      by the refugee influx so that Europe sues for peace. Secondly, we spoke about
+      the massive demonstration of French farmers in Paris protesting the terms of the
+      Mercosur trade deal that has been concluded with the EU over objections from European
+      farmers who claim there will be unfair trading that undercuts their markets. The
+      problem is not unfair trading but the much greater efficiency and production costs
+      in a very large market like Brazil versus France. I expect the treaty will be
+      ratified and come into effect nonetheless, though with added provisions for review
+      and modification of certain terms relating to agriculture after a year or two
+      to avoid doing excessive harm to European farmers. For those who may think that
+      the almost daily commentary that this broadcaster requests of me puts them in
+      the Alternative News category, I urge that you listen to the interview just prior
+      to my appearance, where you will hear an account of the brutal repression of demonstrators
+      by the Iranian authorities that could just as easily be shown on the BBC or Euronews. 
+      For the truth about Iran, you would do well to go to Glenn Diesen’s interview
+      yesterday with Iranian professor Seyed Marandi – https://www.youtube.com/watch?v=dFRO4bXzEQw&t=696s'
+    one_sentence_summary: In the January 13 news wrap-up, the focus is on Russia's latest
+      attacks on Kharkov's energy infrastructure, aimed at displacing Ukrainians to
+      weaken the economy and pressure Europe, alongside significant protests by French
+      farmers in Paris against the Mercosur trade deal.
+    paragraph_summary: 'In the January 13 morning news wrap-up from NewsX, the focus
+      is on two significant issues: the recent Russian attacks on Kharkov, Ukraine,
+      which have targeted energy infrastructure in a strategy reminiscent of the U.S.
+      bombing campaign in Belgrade, aimed at driving Ukrainian citizens to flee to Europe
+      and destabilizing the region; and a large protest by French farmers in Paris against
+      the Mercosur trade deal with the EU, which they argue will unfairly undercut their
+      markets due to Brazil''s production efficiency. Despite these objections, the
+      treaty is expected to be ratified, potentially with future provisions for agricultural
+      review. The segment also highlights a prior interview discussing the repression
+      of demonstrators in Iran, suggesting that the broadcaster''s commentary should
+      not be dismissed as alternative news.'
+    published: '2026-01-13T12:54:29+00:00'
+  - title: 'This morning’s NewsX World hourly round-up: Trump cancels ‘international
+      law’'
+    url: https://gilbertdoctorow.com/2026/01/10/this-mornings-newsx-world-hourly-round-up-trump-cancels-international-law/
+    text: 'This morning’s NewsX World hourly round-up:  Trump cancels ‘international
+      law’ I appear in this multi-segment broadcast at minute 19.26 The issue that I
+      highlight in the title above is one of two or three highly topical issues which
+      are widely discussed in media today but as I insist here are devoid of substance. 
+      The relevance of international law to allegations of Russian aggression in initiating
+      its invasion of Ukraine is nil. The notion of double standards in applying international
+      law to the case of Russia’s supposed aggression in Ukraine when it is not applied
+      to the American invasion of Venezuela is also empty now that Donald Trump publicly
+      canceling international law as a restraint in an interview with The New York Times
+      a couple of days ago. Another empty bit of ‘breaking news’ that we discussed is
+      the invitation extended by U.S. Secretary of the Treasury Bessent to India and
+      Australia to attend the upcoming G7 meeting for talk about finding new sources
+      of rare earth metals outside of China.  This is a PR exercise and nothing more,
+      because any increase in mining and processing of these metals will come years
+      from now and the crisis is here and now, when China has full leverage over the
+      rest of the world in the growing confrontation with the West. Similarly one does
+      not have to spend more a minute considering how the U.S. seizure of a Russian
+      tanker will affect the peace negotiations over Ukraine. The answer is very simple:
+      there will be no peace negotiations or if they take place the guarantied outcome
+      will be zero, and the war will continue until Russia gets what it wants, leaving
+      Ukraine as a failed state. I do not mean to suggest that there is no news worth
+      reading or watching today.  Such news, of course, exists, but it is not being
+      covered by Mainstream while they fill their on air minutes and their news columns
+      with the irrelevancies cited above.'
+    one_sentence_summary: The article discusses the irrelevance of international law
+      in the context of Russia's invasion of Ukraine and highlights Donald Trump's recent
+      dismissal of international law as a constraint, while also mentioning the invitation
+      to India and Australia for discussions on rare earth metals at the upcoming G7
+      meeting.
+    paragraph_summary: In a recent NewsX World broadcast, the speaker critiques the
+      media's focus on certain topical issues, particularly the relevance of international
+      law in the context of Russia's invasion of Ukraine and the U.S. response to it.
+      They argue that allegations of double standards regarding international law are
+      unfounded, especially following Donald Trump's recent dismissal of international
+      law as a constraint. The discussion also touches on U.S. Treasury Secretary Bessent's
+      invitation to India and Australia for G7 talks on rare earth metals, labeling
+      it as a public relations move that won't yield immediate results amid the ongoing
+      crisis with China. The speaker concludes that significant news exists but is overshadowed
+      by mainstream media's coverage of these less substantive topics, suggesting that
+      the war in Ukraine will persist without meaningful negotiations.
+    published: '2026-01-10T14:18:56+00:00'
+  - title: 'This morning’s NewsX World hourly round-up: Trump cancels ‘international
+      law’'
+    url: https://gilbertdoctorow.com/2026/01/10/this-mornings-newsx-world-hourly-round-up-trump-cancels-international-law/
+    text: 'This morning’s NewsX World hourly round-up:  Trump cancels ‘international
+      law’ I appear in this multi-segment broadcast at minute 19.26 The issue that I
+      highlight in the title above is one of two or three highly topical issues which
+      are widely discussed in media today but as I insist here are devoid of substance. 
+      The relevance of international law to allegations of Russian aggression in initiating
+      its invasion of Ukraine is nil. The notion of double standards in applying international
+      law to the case of Russia’s supposed aggression in Ukraine when it is not applied
+      to the American invasion of Venezuela is also empty now that Donald Trump publicly
+      canceling international law as a restraint in an interview with The New York Times
+      a couple of days ago. Another empty bit of ‘breaking news’ that we discussed is
+      the invitation extended by U.S. Secretary of the Treasury Bessent to India and
+      Australia to attend the upcoming G7 meeting for talk about finding new sources
+      of rare earth metals outside of China.  This is a PR exercise and nothing more,
+      because any increase in mining and processing of these metals will come years
+      from now and the crisis is here and now, when China has full leverage over the
+      rest of the world in the growing confrontation with the West. Similarly one does
+      not have to spend more a minute considering how the U.S. seizure of a Russian
+      tanker will affect the peace negotiations over Ukraine. The answer is very simple:
+      there will be no peace negotiations or if they take place the guarantied outcome
+      will be zero, and the war will continue until Russia gets what it wants, leaving
+      Ukraine as a failed state. I do not mean to suggest that there is no news worth
+      reading or watching today.  Such news, of course, exists, but it is not being
+      covered by Mainstream while they fill their on air minutes and their news columns
+      with the irrelevancies cited above.'
+    one_sentence_summary: The article discusses the irrelevance of international law
+      in the context of Russia's invasion of Ukraine and highlights Donald Trump's recent
+      dismissal of international law as a constraint, while also mentioning the invitation
+      to India and Australia for discussions on rare earth metals at the upcoming G7
+      meeting.
+    paragraph_summary: In a recent NewsX World broadcast, the speaker critiques the
+      media's focus on certain topical issues, particularly the relevance of international
+      law in the context of Russia's invasion of Ukraine and the U.S. response to it.
+      They argue that allegations of double standards regarding international law are
+      unfounded, especially following Donald Trump's recent dismissal of international
+      law as a constraint. The discussion also touches on U.S. Treasury Secretary Bessent's
+      invitation to India and Australia for G7 talks on rare earth metals, labeling
+      it as a public relations move that won't yield immediate results amid the ongoing
+      crisis with China. The speaker concludes that significant news exists but is overshadowed
+      by mainstream media's coverage of these less substantive topics, suggesting that
+      the war in Ukraine will persist without meaningful negotiations.
+    published: '2026-01-10T14:18:56+00:00'
+  - title: 'Conversation with Professor Glenn Diesen, 9 January 2026: Russia’s Oreshnik
+      Strike in Warning to NATO'
+    url: https://gilbertdoctorow.com/2026/01/09/conversation-with-professor-glenn-diesen-9-january-2026-russias-oreshnik-strike-in-warning-to-nato/
+    text: This afternoon’s chat with Professor Diesen presented our best efforts to
+      make sense of the torrent of breaking news this past seven days. Much of this
+      news was generated by Donald Trump and related to his attack on Venezuela, his
+      threats to take Greenland by force and American piracy on the high seas involving
+      the capture of a Russian-flagged oil tanker traveling just south of Iceland. But
+      in the last 24 hours, Vladimir Putin stole Trump’s thunder by a dramatic strike
+      on critical energy infrastructure of Ukraine, reportedly the country’s largest
+      gas storage facility, using its Oreshnik hypersonic missile. Not only did Russia
+      destroy a facility representing half of Ukraine’s natural gas storage but this
+      was done in the neighborhood of Lvov, in the very West of the country, just 70
+      km from the Polish border, thereby sending an unmistakable message to NATO countries
+      about their vulnerability to this unstoppable Russian armament. The conversation
+      moved from this essentially new development to the long-standing issues o where
+      the war is headed, what kind of outcome may we expect and in what time period,
+      whether there will be any further Trump brokered peace talks and much more. Throughout
+      I insisted on Trump’s inscrutability and use of prevarication to keep us all confounded.
+      And I took note of Putin’s long-awaited decisive action to put the fear of God
+      into Europeans by demonstrating that Russia has not only the wherewithal but also
+      the will to defend its interests.
+    one_sentence_summary: In a discussion led by Professor Diesen, the recent surge
+      of breaking news, primarily driven by Donald Trump's controversial actions regarding
+      Venezuela and Greenland, was overshadowed by Vladimir Putin's significant missile
+      strike on Ukraine's largest gas storage facility, highlighting Russia's military
+      capabilities and sending a warning to NATO countries about their vulnerability.
+    paragraph_summary: In a discussion with Professor Diesen, the recent surge of breaking
+      news was analyzed, particularly focusing on Donald Trump's provocative actions
+      regarding Venezuela, Greenland, and American piracy, which were overshadowed by
+      Vladimir Putin's significant military strike on Ukraine's largest gas storage
+      facility using a hypersonic missile. This attack, located near the Polish border,
+      not only devastated half of Ukraine's natural gas reserves but also served as
+      a stark warning to NATO about Russia's military capabilities and resolve. The
+      conversation explored the implications of this development for the ongoing war,
+      potential outcomes, and the role of Trump in any future peace negotiations, while
+      highlighting his enigmatic nature and tendency to confuse the public.
+    published: '2026-01-09T20:56:51+00:00'
+  - title: 'Conversation with Professor Glenn Diesen, 9 January 2026: Russia’s Oreshnik
+      Strike in Warning to NATO'
+    url: https://gilbertdoctorow.com/2026/01/09/conversation-with-professor-glenn-diesen-9-january-2026-russias-oreshnik-strike-in-warning-to-nato/
+    text: This afternoon’s chat with Professor Diesen presented our best efforts to
+      make sense of the torrent of breaking news this past seven days. Much of this
+      news was generated by Donald Trump and related to his attack on Venezuela, his
+      threats to take Greenland by force and American piracy on the high seas involving
+      the capture of a Russian-flagged oil tanker traveling just south of Iceland. But
+      in the last 24 hours, Vladimir Putin stole Trump’s thunder by a dramatic strike
+      on critical energy infrastructure of Ukraine, reportedly the country’s largest
+      gas storage facility, using its Oreshnik hypersonic missile. Not only did Russia
+      destroy a facility representing half of Ukraine’s natural gas storage but this
+      was done in the neighborhood of Lvov, in the very West of the country, just 70
+      km from the Polish border, thereby sending an unmistakable message to NATO countries
+      about their vulnerability to this unstoppable Russian armament. The conversation
+      moved from this essentially new development to the long-standing issues o where
+      the war is headed, what kind of outcome may we expect and in what time period,
+      whether there will be any further Trump brokered peace talks and much more. Throughout
+      I insisted on Trump’s inscrutability and use of prevarication to keep us all confounded.
+      And I took note of Putin’s long-awaited decisive action to put the fear of God
+      into Europeans by demonstrating that Russia has not only the wherewithal but also
+      the will to defend its interests.
+    one_sentence_summary: In a discussion led by Professor Diesen, the recent surge
+      of breaking news, primarily driven by Donald Trump's controversial actions regarding
+      Venezuela and Greenland, was overshadowed by Vladimir Putin's significant missile
+      strike on Ukraine's largest gas storage facility, highlighting Russia's military
+      capabilities and sending a warning to NATO countries about their vulnerability.
+    paragraph_summary: In a discussion with Professor Diesen, the recent surge of breaking
+      news was analyzed, particularly focusing on Donald Trump's provocative actions
+      regarding Venezuela, Greenland, and American piracy, which were overshadowed by
+      Vladimir Putin's significant military strike on Ukraine's largest gas storage
+      facility using a hypersonic missile. This attack, located near the Polish border,
+      not only devastated half of Ukraine's natural gas reserves but also served as
+      a stark warning to NATO about Russia's military capabilities and resolve. The
+      conversation explored the implications of this development for the ongoing war,
+      potential outcomes, and the role of Trump in any future peace negotiations, while
+      highlighting his enigmatic nature and tendency to confuse the public.
+    published: '2026-01-09T20:56:51+00:00'
+  - title: A very Indian panel discussion for your perusal on News X
+    url: https://gilbertdoctorow.com/2026/01/09/a-very-indian-panel-discussion-for-your-perusal-on-news-x/
+    text: 'Trump Greenlights ‘Russia Sanctions Bill’ | More Tariff Trouble For India?
+      I was honored yesterday evening to participate in a very Indian panel discussion
+      which opens with Indian advertising that you will certainly not find on BBC, CNN
+      or other global broadcasters. As for the discussion itself, note that I appear
+      to be the only non-Indian expert. The topic was one of great concern to the Indian
+      government and business community, namely the bill presently before the U.S. Senate
+      granting the President the powers to impose secondary tariffs of up to 500% on
+      countries which continue to buy Russian oil. This bill enjoys bipartisan support
+      and is sponsored by the viciously anti-Russian Republican Senator Lindsey Graham
+      of South Carolina and his Democratic peer and fellow Russia-hater Senator Richard
+      Blumenthal from Connecticut.  I add parenthetically that I take special interest
+      in these sponsors because Blumenthal just happens to be a classmate of mine from
+      Harvard College, 1967. We each had just a few minutes to make present our evaluations
+      of the likely fall-out from the 500% tariffs when the bill comes into law, as
+      it inevitably will given that 82 of the Senators have previously expressed their
+      support, making it veto-proof. The subject became news when President Trump came
+      out yesterday saying he will sign the bill, which is a concession to the realities
+      of politics on The Hill. You will see that all the Indian experts were figuring
+      the angles for India and for the USA coming out of the new tariffs: how this would
+      add greatly to inflation for American consumers on the one hand and how it would
+      harm Indian exports in areas until now not affected by Trump’s tariffs like pharmaceuticals.
+      Regrettably, I limited my remarks to how the new tariffs would founder on the
+      rocks of Chinese opposition. After all, Trump’s early attempts to impose 150%
+      tariffs on China months ago fell through when the Chinese struck back and said
+      they would freeze all sales of rare earth metals to the USA, in effect bringing
+      US industrial production, especially in electronics and military hardware to an
+      abrupt halt. Trump backed down and the imposition of high tariffs on China so
+      far is in a suspended state, which is where it will likely remain to the end of
+      Trump’s term in office. Regrettably, what I did not broach is the question of
+      how such tariffs would affect Russia and change dramatically how the war in Ukraine
+      is being conducted. If indeed, Washington succeeds in forcing Russia’s major export
+      markets to stop buying Russian oil and does great harm to Russia’s economy, we
+      will not have to wait to see this damage impair the war effort.  On the contrary,
+      we may anticipate that Russia will proceed to do in Ukraine what some argue it
+      should have done a couple of years ago, namely to smash Kiev and Lvov to bits,
+      putting a dramatic end to the statehood of Ukraine and ending the war here and
+      now.  I can add based on today’s latest news, which I discussed with News X World
+      this morning, that the message of such an escalatory path has just been given
+      by Moscow to Kiev, London, Paris, Berlin and Washington by the use of an Oreshnik
+      hypersonic missile in a midnight attack on Kiev. I await further news on this
+      very important development to see what destruction actually resulted from the
+      Oreshnik attack, which is only the second use of this missile in the Ukrainian
+      campaign after an initial experimental strike on a hardened underground military
+      production site in Dnipro in 2024.'
+    one_sentence_summary: The article discusses a panel discussion on a bipartisan U.S.
+      Senate bill that would allow the President to impose significant tariffs on countries
+      purchasing Russian oil, highlighting its implications for India and featuring
+      insights from a non-Indian expert.
+    paragraph_summary: The article discusses a recent panel discussion focused on a
+      U.S. Senate bill that would empower the President to impose secondary tariffs
+      of up to 500% on countries purchasing Russian oil, a measure that has garnered
+      bipartisan support, particularly from Senators Lindsey Graham and Richard Blumenthal.
+      The bill is expected to pass, with President Trump indicating he will sign it,
+      which raises concerns for the Indian government and business community regarding
+      potential inflation in the U.S. and negative impacts on Indian exports, particularly
+      in pharmaceuticals. The author, the only non-Indian expert on the panel, emphasizes
+      that the tariffs could face challenges due to China's potential retaliation, recalling
+      Trump's previous failed attempts to impose high tariffs on China.
+    published: '2026-01-09T07:18:06+00:00'
+  - title: A very Indian panel discussion for your perusal on News X
+    url: https://gilbertdoctorow.com/2026/01/09/a-very-indian-panel-discussion-for-your-perusal-on-news-x/
+    text: 'Trump Greenlights ‘Russia Sanctions Bill’ | More Tariff Trouble For India?
+      I was honored yesterday evening to participate in a very Indian panel discussion
+      which opens with Indian advertising that you will certainly not find on BBC, CNN
+      or other global broadcasters. As for the discussion itself, note that I appear
+      to be the only non-Indian expert. The topic was one of great concern to the Indian
+      government and business community, namely the bill presently before the U.S. Senate
+      granting the President the powers to impose secondary tariffs of up to 500% on
+      countries which continue to buy Russian oil. This bill enjoys bipartisan support
+      and is sponsored by the viciously anti-Russian Republican Senator Lindsey Graham
+      of South Carolina and his Democratic peer and fellow Russia-hater Senator Richard
+      Blumenthal from Connecticut.  I add parenthetically that I take special interest
+      in these sponsors because Blumenthal just happens to be a classmate of mine from
+      Harvard College, 1967. We each had just a few minutes to make present our evaluations
+      of the likely fall-out from the 500% tariffs when the bill comes into law, as
+      it inevitably will given that 82 of the Senators have previously expressed their
+      support, making it veto-proof. The subject became news when President Trump came
+      out yesterday saying he will sign the bill, which is a concession to the realities
+      of politics on The Hill. You will see that all the Indian experts were figuring
+      the angles for India and for the USA coming out of the new tariffs: how this would
+      add greatly to inflation for American consumers on the one hand and how it would
+      harm Indian exports in areas until now not affected by Trump’s tariffs like pharmaceuticals.
+      Regrettably, I limited my remarks to how the new tariffs would founder on the
+      rocks of Chinese opposition. After all, Trump’s early attempts to impose 150%
+      tariffs on China months ago fell through when the Chinese struck back and said
+      they would freeze all sales of rare earth metals to the USA, in effect bringing
+      US industrial production, especially in electronics and military hardware to an
+      abrupt halt. Trump backed down and the imposition of high tariffs on China so
+      far is in a suspended state, which is where it will likely remain to the end of
+      Trump’s term in office. Regrettably, what I did not broach is the question of
+      how such tariffs would affect Russia and change dramatically how the war in Ukraine
+      is being conducted. If indeed, Washington succeeds in forcing Russia’s major export
+      markets to stop buying Russian oil and does great harm to Russia’s economy, we
+      will not have to wait to see this damage impair the war effort.  On the contrary,
+      we may anticipate that Russia will proceed to do in Ukraine what some argue it
+      should have done a couple of years ago, namely to smash Kiev and Lvov to bits,
+      putting a dramatic end to the statehood of Ukraine and ending the war here and
+      now.  I can add based on today’s latest news, which I discussed with News X World
+      this morning, that the message of such an escalatory path has just been given
+      by Moscow to Kiev, London, Paris, Berlin and Washington by the use of an Oreshnik
+      hypersonic missile in a midnight attack on Kiev. I await further news on this
+      very important development to see what destruction actually resulted from the
+      Oreshnik attack, which is only the second use of this missile in the Ukrainian
+      campaign after an initial experimental strike on a hardened underground military
+      production site in Dnipro in 2024.'
+    one_sentence_summary: The article discusses a panel discussion on a bipartisan U.S.
+      Senate bill that would allow the President to impose significant tariffs on countries
+      purchasing Russian oil, highlighting its implications for India and featuring
+      insights from a non-Indian expert.
+    paragraph_summary: The article discusses a recent panel discussion focused on a
+      U.S. Senate bill that would empower the President to impose secondary tariffs
+      of up to 500% on countries purchasing Russian oil, a measure that has garnered
+      bipartisan support, particularly from Senators Lindsey Graham and Richard Blumenthal.
+      The bill is expected to pass, with President Trump indicating he will sign it,
+      which raises concerns for the Indian government and business community regarding
+      potential inflation in the U.S. and negative impacts on Indian exports, particularly
+      in pharmaceuticals. The author, the only non-Indian expert on the panel, emphasizes
+      that the tariffs could face challenges due to China's potential retaliation, recalling
+      Trump's previous failed attempts to impose high tariffs on China.
+    published: '2026-01-09T07:18:06+00:00'
+  - title: 'Transcript of Press TV (Iran) interview of 5 January 2026: WWII is coming
+      whether we like it or not'
+    url: https://gilbertdoctorow.com/2026/01/07/transcript-of-press-tv-iran-interview-of-5-january-2026-wwii-is-coming-whether-we-like-it-or-not/
+    text: 'https://www.urmedium.net/c/presstv/135647 Transcript submitted by reader
+      Th Hottingen PressTV: Joining us from Brussels for more analysis on this story
+      is Mr. Gilbert Doctorow, independent international affairs journalist. Thank you
+      very much Mister Doctorow as always for joining us during this hour top headlines.
+      Let’s go to start off with the situation with Colombia directly. Donald Trump
+      even called the Colombian President a sick man along with his threat. What do
+      you think according what we have seen so far, do you believe Donald Trump will
+      make a move towards Colombia and how prepared do you believe [President] Petro
+      is? Gilbert Doctorow: Oh, I think it’s entirely possible. But let’s keep in mind
+      that what has happened this past weekend has changed international politics, has
+      changed the outlook for peace in the world. We are now in the antechamber of World
+      War III. What Mister Trump has done is exactly what Hitler did after he signed
+      with Chamberlain a ‘peace-in-our-time’ appeasement agreement. Mr. Trump is behaving
+      like a world dictator. And this is a message that is of great importance not just
+      to viewers who are interested in following the latest small of developments in
+      Latin America, but to others in Moscow, in Beijing, and also in Teheran. The United
+      States is a rogue state, and not by my accusation but by pride in that term. This
+      was the term that one of the major thinkers of the NeoCon ideology, Robert Kagan,
+      the husband of Victoria Nuland, put into his books and lectures, going back to
+      2008 when he was  adviser to Mister John McCain. This is warmongering, this is
+      taking pride in destroying the sovereignty of a country. So the message that came
+      out of this weekend is a major one for those who value the sovereignty. Bolivia
+      is a small case. Moscow, Beijing and Iran are big potential cases. PressTV: And
+      Dr. Doctorow, I would have to ask you also about the protests we have seen in
+      Venezuela; we have also seen leaders around the world who have been calling for
+      President Maduro, for his wife to be released immediately, and the protesters
+      on the ground in Caracas in other cities across Venezuela have promised that they
+      will be getting their legitimate president back. What do you see as the fate of
+      President Maduro at the moment? Gilbert Doctorow: I think his fate is miserable.
+      His chance of being released is not much bigger than that of the President of
+      Panama, Noriega, who was captured in a similar manner by George H. Bush, the father
+      of the Bush [George W. or Bush 2] who invaded Iraq, in 1989. These demonstrations
+      can  give heart and encourage well many people who are dismayed by what has happened.
+      They will have no impact, whatsoever. The only thing that America understands
+      is brutal force. PressTV: And Mr. Doctorow my last question is to the United States
+      itself. You called it a rogue state. You talked about Donald Trump. When it comes
+      to everything, specifically what you said over the weekend, over the last few
+      years, I mean, just since specifically Donald Trump has taken his second term.
+      There is no international law, we know this, nothing applies to the US. Is there
+      any thing basically in the world that can stand up to this hegemony, this impunity
+      being carried out by the US. And let’s not forget their Western allies. Gilbert
+      Doctorow: Yes, there is of course. And that’s forces come together. The Chinese
+      have been very reluctant to enter into a military allience with Russia. I hope
+      they will reconsider that and understand that without a unified position – not
+      just at the United Nations but off the shores of the United States – without a
+      unified military positon each of them is subject to the same fate as Venezuela.
+      Let’s remember, one week ago there was a drone attack on the country-side residence
+      of Vladimir Putin where his wife and three sons live, by the way. And Mr. Trump
+      immediately said, ‘oh, terrible, terrible’. Yesterday Mr. Trump said: ‘It never
+      happened’. And I think I know why. Because the CIA was part of the plot to kill
+      Putin. Let’s talk about that openly. I think you and Iran has faced this issue
+      squarely. You know what I’m talking about. And it stands today as valid as it
+      was two years ago when you lost your primeminister. The United States is a rogue
+      state. And the rest of the world will save itself not by demonstrations in the
+      street but by showing military muscle and preparedness to use that muscle at the
+      risk of entering World War III. Because World War III is coming whether we like
+      it or not. PressTV: One more as always I like to thank you very much. Dr. Gilbert
+      Doctorow, independent international affairs journalist joining us from Bussels.'
+    one_sentence_summary: Gilbert Doctorow suggests that Donald Trump's recent comments
+      about Colombia indicate a potential shift towards conflict, likening the situation
+      to historical appeasement tactics, while emphasizing that recent global events
+      have escalated tensions towards the brink of World War III.
+    paragraph_summary: In a recent interview, international affairs journalist Gilbert
+      Doctorow discussed the escalating tensions surrounding U.S. foreign policy, particularly
+      regarding Colombia and Venezuela. He expressed concern that Donald Trump's aggressive
+      rhetoric and actions could lead to significant geopolitical shifts, likening Trump's
+      behavior to that of historical dictators and suggesting that the world is on the
+      brink of a major conflict, potentially World War III. Doctorow criticized the
+      U.S. as a "rogue state," emphasizing the implications of U.S. actions on global
+      sovereignty and stability, and highlighted the importance of these developments
+      for countries like Russia, China, and Iran. He also touched on the ongoing protests
+      in Venezuela, indicating a broader context of unrest in the region.
+    published: '2026-01-07T15:29:15+00:00'
+  - title: 'Transcript of Press TV (Iran) interview of 5 January 2026: WWII is coming
+      whether we like it or not'
+    url: https://gilbertdoctorow.com/2026/01/07/transcript-of-press-tv-iran-interview-of-5-january-2026-wwii-is-coming-whether-we-like-it-or-not/
+    text: 'https://www.urmedium.net/c/presstv/135647 Transcript submitted by reader
+      Th Hottingen PressTV: Joining us from Brussels for more analysis on this story
+      is Mr. Gilbert Doctorow, independent international affairs journalist. Thank you
+      very much Mister Doctorow as always for joining us during this hour top headlines.
+      Let’s go to start off with the situation with Colombia directly. Donald Trump
+      even called the Colombian President a sick man along with his threat. What do
+      you think according what we have seen so far, do you believe Donald Trump will
+      make a move towards Colombia and how prepared do you believe [President] Petro
+      is? Gilbert Doctorow: Oh, I think it’s entirely possible. But let’s keep in mind
+      that what has happened this past weekend has changed international politics, has
+      changed the outlook for peace in the world. We are now in the antechamber of World
+      War III. What Mister Trump has done is exactly what Hitler did after he signed
+      with Chamberlain a ‘peace-in-our-time’ appeasement agreement. Mr. Trump is behaving
+      like a world dictator. And this is a message that is of great importance not just
+      to viewers who are interested in following the latest small of developments in
+      Latin America, but to others in Moscow, in Beijing, and also in Teheran. The United
+      States is a rogue state, and not by my accusation but by pride in that term. This
+      was the term that one of the major thinkers of the NeoCon ideology, Robert Kagan,
+      the husband of Victoria Nuland, put into his books and lectures, going back to
+      2008 when he was  adviser to Mister John McCain. This is warmongering, this is
+      taking pride in destroying the sovereignty of a country. So the message that came
+      out of this weekend is a major one for those who value the sovereignty. Bolivia
+      is a small case. Moscow, Beijing and Iran are big potential cases. PressTV: And
+      Dr. Doctorow, I would have to ask you also about the protests we have seen in
+      Venezuela; we have also seen leaders around the world who have been calling for
+      President Maduro, for his wife to be released immediately, and the protesters
+      on the ground in Caracas in other cities across Venezuela have promised that they
+      will be getting their legitimate president back. What do you see as the fate of
+      President Maduro at the moment? Gilbert Doctorow: I think his fate is miserable.
+      His chance of being released is not much bigger than that of the President of
+      Panama, Noriega, who was captured in a similar manner by George H. Bush, the father
+      of the Bush [George W. or Bush 2] who invaded Iraq, in 1989. These demonstrations
+      can  give heart and encourage well many people who are dismayed by what has happened.
+      They will have no impact, whatsoever. The only thing that America understands
+      is brutal force. PressTV: And Mr. Doctorow my last question is to the United States
+      itself. You called it a rogue state. You talked about Donald Trump. When it comes
+      to everything, specifically what you said over the weekend, over the last few
+      years, I mean, just since specifically Donald Trump has taken his second term.
+      There is no international law, we know this, nothing applies to the US. Is there
+      any thing basically in the world that can stand up to this hegemony, this impunity
+      being carried out by the US. And let’s not forget their Western allies. Gilbert
+      Doctorow: Yes, there is of course. And that’s forces come together. The Chinese
+      have been very reluctant to enter into a military allience with Russia. I hope
+      they will reconsider that and understand that without a unified position – not
+      just at the United Nations but off the shores of the United States – without a
+      unified military positon each of them is subject to the same fate as Venezuela.
+      Let’s remember, one week ago there was a drone attack on the country-side residence
+      of Vladimir Putin where his wife and three sons live, by the way. And Mr. Trump
+      immediately said, ‘oh, terrible, terrible’. Yesterday Mr. Trump said: ‘It never
+      happened’. And I think I know why. Because the CIA was part of the plot to kill
+      Putin. Let’s talk about that openly. I think you and Iran has faced this issue
+      squarely. You know what I’m talking about. And it stands today as valid as it
+      was two years ago when you lost your primeminister. The United States is a rogue
+      state. And the rest of the world will save itself not by demonstrations in the
+      street but by showing military muscle and preparedness to use that muscle at the
+      risk of entering World War III. Because World War III is coming whether we like
+      it or not. PressTV: One more as always I like to thank you very much. Dr. Gilbert
+      Doctorow, independent international affairs journalist joining us from Bussels.'
+    one_sentence_summary: Gilbert Doctorow suggests that Donald Trump's recent comments
+      about Colombia indicate a potential shift towards conflict, likening the situation
+      to historical appeasement tactics, while emphasizing that recent global events
+      have escalated tensions towards the brink of World War III.
+    paragraph_summary: In a recent interview, international affairs journalist Gilbert
+      Doctorow discussed the escalating tensions surrounding U.S. foreign policy, particularly
+      regarding Colombia and Venezuela. He expressed concern that Donald Trump's aggressive
+      rhetoric and actions could lead to significant geopolitical shifts, likening Trump's
+      behavior to that of historical dictators and suggesting that the world is on the
+      brink of a major conflict, potentially World War III. Doctorow criticized the
+      U.S. as a "rogue state," emphasizing the implications of U.S. actions on global
+      sovereignty and stability, and highlighted the importance of these developments
+      for countries like Russia, China, and Iran. He also touched on the ongoing protests
+      in Venezuela, indicating a broader context of unrest in the region.
+    published: '2026-01-07T15:29:15+00:00'
+  - title: '‘Judging Freedom’ edition of 7 January 2026: Trump’s Maduro “Kidnapping”
+      Is an Impeachable Crime'
+    url: https://gilbertdoctorow.com/2026/01/07/judging-freedom-edition-of-7-january-2026-trumps-maduro-kidnapping-is-an-impeachable-crime/
+    text: '‘Judging Freedom’ edition of 7 January 2026: Trump’s Maduro “Kidnapping”
+      Is an Impeachable Crime This session with Judge Andrew Napolitano was a sad start
+      to the New Year, as he stated at both the beginning and end of our conversation. 
+      We are in a new world order created by what I call here Trump’s latest deal with
+      the devil to raise his sagging popularity ratings at this critical time when the
+      USA enters the season of midterm elections. Whereas at the very start of his new
+      term a year ago Trump made some very promising, even daring appointments, as for
+      example Tulsi Gabbard to Director of National Intelligence, and whereas there
+      were some wonderful actions to curb the Deep State, as for example, the virtual
+      shut-down of US AID, the agency which had directed illicit funds to local NGOs
+      and other actors engaging in regime change abroad, it appears that Trump has reversed
+      course and has agreed to work with the power ministries for the sake of pumping
+      up his political capital.  Nota bene, that this political capital was surely depleted
+      not just by Trump’s failure to achieve a genuine peace in Gaza, not to mention
+      still less success in ending the Russia-Ukraine War, but most recently depleted
+      when he issued the new National Security Strategy document that upended all of
+      US foreign policy priorities since 1949 and must have raised a hullaballoo on
+      Capitol Hill and within the Republican Party establishment. The net result is
+      that the CIA, State Department and War Department are now once again running the
+      show, setting the targets for foreign and military policy and executing that policy
+      in ways that are simply astonishing and take your breath away, as happened this
+      past weekend in the U.S. attack on Caracas and kidnapping of President Maduro.
+      What we see again is the hubristic behavior of American officials that we have
+      seen without end since Bush Jr. invaded Iraq in 2003. These people, like Pete
+      Hegseth and Marco Rubio, are overconfident in U.S. capability to ‘run Venezuela’
+      not to mention run the world. The only thing that can stop this juggernaut is
+      the other two world superpowers, Russia and China.  So far both are silent, which
+      does not inspire confidence in where the world is headed.'
+    one_sentence_summary: In the "Judging Freedom" edition of January 7, 2026, Judge
+      Andrew Napolitano argues that Trump's recent actions, including a controversial
+      deal with Maduro, constitute an impeachable crime and reflect a troubling shift
+      in his political strategy as he seeks to boost his popularity ahead of the midterm
+      elections.
+    paragraph_summary: In the January 7, 2026, edition of "Judging Freedom," Judge Andrew
+      Napolitano expresses concern over former President Trump's recent actions, particularly
+      his involvement in the kidnapping of Venezuelan President Maduro, which he argues
+      constitutes an impeachable crime. Napolitano reflects on how Trump, initially
+      promising in his first year with bold appointments and efforts to limit the Deep
+      State, has shifted towards collaborating with powerful government ministries to
+      bolster his waning popularity ahead of midterm elections. He critiques Trump's
+      failure to achieve peace in Gaza and the ongoing Russia-Ukraine conflict, as well
+      as a new National Security Strategy that disrupts longstanding U.S. foreign policy.
+      The article highlights a resurgence of CIA and military influence in U.S. foreign
+      affairs, reminiscent of past interventions, and warns of the overconfidence displayed
+      by American officials in managing foreign crises.
+    published: '2026-01-07T13:50:02+00:00'
+  - title: '‘Judging Freedom’ edition of 7 January 2026: Trump’s Maduro “Kidnapping”
+      Is an Impeachable Crime'
+    url: https://gilbertdoctorow.com/2026/01/07/judging-freedom-edition-of-7-january-2026-trumps-maduro-kidnapping-is-an-impeachable-crime/
+    text: '‘Judging Freedom’ edition of 7 January 2026: Trump’s Maduro “Kidnapping”
+      Is an Impeachable Crime This session with Judge Andrew Napolitano was a sad start
+      to the New Year, as he stated at both the beginning and end of our conversation. 
+      We are in a new world order created by what I call here Trump’s latest deal with
+      the devil to raise his sagging popularity ratings at this critical time when the
+      USA enters the season of midterm elections. Whereas at the very start of his new
+      term a year ago Trump made some very promising, even daring appointments, as for
+      example Tulsi Gabbard to Director of National Intelligence, and whereas there
+      were some wonderful actions to curb the Deep State, as for example, the virtual
+      shut-down of US AID, the agency which had directed illicit funds to local NGOs
+      and other actors engaging in regime change abroad, it appears that Trump has reversed
+      course and has agreed to work with the power ministries for the sake of pumping
+      up his political capital.  Nota bene, that this political capital was surely depleted
+      not just by Trump’s failure to achieve a genuine peace in Gaza, not to mention
+      still less success in ending the Russia-Ukraine War, but most recently depleted
+      when he issued the new National Security Strategy document that upended all of
+      US foreign policy priorities since 1949 and must have raised a hullaballoo on
+      Capitol Hill and within the Republican Party establishment. The net result is
+      that the CIA, State Department and War Department are now once again running the
+      show, setting the targets for foreign and military policy and executing that policy
+      in ways that are simply astonishing and take your breath away, as happened this
+      past weekend in the U.S. attack on Caracas and kidnapping of President Maduro.
+      What we see again is the hubristic behavior of American officials that we have
+      seen without end since Bush Jr. invaded Iraq in 2003. These people, like Pete
+      Hegseth and Marco Rubio, are overconfident in U.S. capability to ‘run Venezuela’
+      not to mention run the world. The only thing that can stop this juggernaut is
+      the other two world superpowers, Russia and China.  So far both are silent, which
+      does not inspire confidence in where the world is headed.'
+    one_sentence_summary: In the "Judging Freedom" edition of January 7, 2026, Judge
+      Andrew Napolitano argues that Trump's recent actions, including a controversial
+      deal with Maduro, constitute an impeachable crime and reflect a troubling shift
+      in his political strategy as he seeks to boost his popularity ahead of the midterm
+      elections.
+    paragraph_summary: In the January 7, 2026, edition of "Judging Freedom," Judge Andrew
+      Napolitano expresses concern over former President Trump's recent actions, particularly
+      his involvement in the kidnapping of Venezuelan President Maduro, which he argues
+      constitutes an impeachable crime. Napolitano reflects on how Trump, initially
+      promising in his first year with bold appointments and efforts to limit the Deep
+      State, has shifted towards collaborating with powerful government ministries to
+      bolster his waning popularity ahead of midterm elections. He critiques Trump's
+      failure to achieve peace in Gaza and the ongoing Russia-Ukraine conflict, as well
+      as a new National Security Strategy that disrupts longstanding U.S. foreign policy.
+      The article highlights a resurgence of CIA and military influence in U.S. foreign
+      affairs, reminiscent of past interventions, and warns of the overconfidence displayed
+      by American officials in managing foreign crises.
+    published: '2026-01-07T13:50:02+00:00'
+  - title: Interview on this morning’s hourly news bulletin of NewsX World (India)
+    url: https://gilbertdoctorow.com/2026/01/07/interview-on-this-mornings-hourly-news-bulletin-of-newsx-world-india/
+    text: Interview on this morning’s hourly news bulletin of NewsX World (India) My
+      appearance on this hourly bulletin begins at minute 2.55 and ends at minute 11.50
+      NewsX World is generally very good at keeping abreast of breaking news and quite
+      often they are briefing me before we go on air about developments not yet reported
+      by the Russians, by Western mainstream, not to mention Alternative Media.  Today,
+      however, they were misled by Macron, by Zalensky and by Mainstream into thinking
+      that Washington has agreed to participate in the ‘peacekeeping mission’ being
+      proposed by the Coalition of the Willing that met in Paris yesterday.  Accordingly,
+      I jumped in to point out that Politico this morning says that Witkoff and Kushner
+      did not sign the Declaration of the Coalition yesterday; they were merely present
+      as observers.  This same point was made in the latest issue of Russia’s leading
+      newspaper Gazeta.ru which may be considered as a Kremlin mouthpiece. Also of interest
+      in this interview was our discussion of Russian efforts to provide security to
+      an oil tanker at sea that has re-flagged itself as Russian and is being pursued
+      by American naval vessels. Here I see in the U.S. attack under way a prime example
+      of the utterly irresponsible policies being implemented by the ‘power ministries’
+      in Washington now that Donald Trump has made his deal with these devils.
+    one_sentence_summary: In an interview on NewsX World, I corrected the misconception
+      that Washington had agreed to join a proposed peacekeeping mission, clarifying
+      that key figures were only present as observers and highlighting the misinformation
+      spread by Macron, Zelensky, and mainstream media.
+    paragraph_summary: In an interview on NewsX World, I discussed the misleading information
+      surrounding Washington's involvement in a proposed peacekeeping mission by the
+      Coalition of the Willing, which was inaccurately reported by French President
+      Macron and Ukrainian President Zelensky. I clarified that key figures Witkoff
+      and Kushner did not sign the Coalition's Declaration but were merely present as
+      observers, a point echoed by Russia's Gazeta.ru. Additionally, we addressed Russian
+      efforts to secure a re-flagged oil tanker being pursued by American naval forces,
+      highlighting the reckless policies of the U.S. administration under Trump's influence.
+    published: '2026-01-07T12:08:49+00:00'
+  - title: Interview on this morning’s hourly news bulletin of NewsX World (India)
+    url: https://gilbertdoctorow.com/2026/01/07/interview-on-this-mornings-hourly-news-bulletin-of-newsx-world-india/
+    text: Interview on this morning’s hourly news bulletin of NewsX World (India) My
+      appearance on this hourly bulletin begins at minute 2.55 and ends at minute 11.50
+      NewsX World is generally very good at keeping abreast of breaking news and quite
+      often they are briefing me before we go on air about developments not yet reported
+      by the Russians, by Western mainstream, not to mention Alternative Media.  Today,
+      however, they were misled by Macron, by Zalensky and by Mainstream into thinking
+      that Washington has agreed to participate in the ‘peacekeeping mission’ being
+      proposed by the Coalition of the Willing that met in Paris yesterday.  Accordingly,
+      I jumped in to point out that Politico this morning says that Witkoff and Kushner
+      did not sign the Declaration of the Coalition yesterday; they were merely present
+      as observers.  This same point was made in the latest issue of Russia’s leading
+      newspaper Gazeta.ru which may be considered as a Kremlin mouthpiece. Also of interest
+      in this interview was our discussion of Russian efforts to provide security to
+      an oil tanker at sea that has re-flagged itself as Russian and is being pursued
+      by American naval vessels. Here I see in the U.S. attack under way a prime example
+      of the utterly irresponsible policies being implemented by the ‘power ministries’
+      in Washington now that Donald Trump has made his deal with these devils.
+    one_sentence_summary: In an interview on NewsX World, I corrected the misconception
+      that Washington had agreed to join a proposed peacekeeping mission, clarifying
+      that key figures were only present as observers and highlighting the misinformation
+      spread by Macron, Zelensky, and mainstream media.
+    paragraph_summary: In an interview on NewsX World, I discussed the misleading information
+      surrounding Washington's involvement in a proposed peacekeeping mission by the
+      Coalition of the Willing, which was inaccurately reported by French President
+      Macron and Ukrainian President Zelensky. I clarified that key figures Witkoff
+      and Kushner did not sign the Coalition's Declaration but were merely present as
+      observers, a point echoed by Russia's Gazeta.ru. Additionally, we addressed Russian
+      efforts to secure a re-flagged oil tanker being pursued by American naval forces,
+      highlighting the reckless policies of the U.S. administration under Trump's influence.
+    published: '2026-01-07T12:08:49+00:00'
   - title: NewsX World multi-segment interview today
     url: https://gilbertdoctorow.com/2026/01/06/newsx-world-multi-segment-interview-today/
     text: This interview opens with a discussion of the Coalition of the Willing summit

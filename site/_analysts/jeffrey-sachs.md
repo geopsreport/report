@@ -8,19 +8,166 @@ websites:
   - https://www.commondreams.org/author/jeffrey-d-sachs
   - https://www.jeffsachs.org/newspaper-articles
 summary: |
-  As of January 7, 2026, the global geopolitical landscape continues to be shaped by assertive U.S. foreign policy under President Trump, persistent instability in the Middle East, and Europe’s ongoing struggle to redefine its security posture. Recent developments highlight escalating tensions and the risks of entrenched strategic doctrines.
+  As of January 14, 2026, the geopolitical landscape remains defined by escalating U.S. interventionism, deepening crises in the Middle East, and persistent tensions between Europe and Russia. Recent developments underscore the growing risks of unilateral actions undermining international law and global stability.
   
-  The most significant new development is the release of President Trump’s 2025 National Security Strategy (NSS), which, according to **Jeffrey Sachs**, “embodies a dangerous blend of hubris, Machiavellianism, and disregard for international law.” The NSS frames U.S. sovereignty as the freedom to coerce, rather than cooperate with, other nations. Sachs points to the illegal seizure of a Venezuelan oil tanker as a concrete example of the administration’s willingness to use aggressive tactics, warning that such actions are alienating both smaller states and traditional allies like Denmark. The document’s emphasis on unilateralism and coercion over diplomacy, Sachs argues, is likely to weaken U.S. security and increase isolation: “This strategy not only alienates smaller nations but also alarms traditional allies like Denmark, which now perceives the US as a potential threat.”
+  The most significant new information comes from **Jeffrey Sachs**’ January 8 address to the UN Security Council, where he sharply condemned ongoing U.S. military actions and regime-change efforts in Venezuela. Sachs argued these interventions violate the UN Charter’s prohibition on the use of force to determine a nation’s political future. He detailed a historical pattern of U.S. destabilization tactics—ranging from economic sanctions to military threats—dating back to 1947, and warned that the Security Council’s failure to uphold international law could have catastrophic consequences in the nuclear age. Sachs called for an immediate end to U.S. military actions in Venezuela and urged the appointment of a Special Envoy to facilitate dialogue, stating, “The Security Council’s role is to uphold international law, not to judge the legitimacy of specific governments.”
   
-  In Europe, the debate over security continues to be dominated by what Sachs terms “structural Russophobia.” His analysis traces a two-century pattern in which European powers have repeatedly dismissed Russia’s security concerns, leading to cycles of conflict and instability. Sachs contends that Europe’s refusal to negotiate with Russia—seen most recently in the context of the Ukraine war—has exacerbated tensions and undermined prospects for peace. He concludes that “achieving lasting peace requires Europe to acknowledge and incorporate Russian security interests into its diplomatic framework, rather than perpetuating a cycle of hostility and mistrust.”
+  In parallel, the U.S. National Security Strategy (NSS) released under President Trump continues to draw criticism for its aggressive posture. Sachs, in his January 5 analysis, described the NSS as embodying “a dangerous blend of hubris, Machiavellianism, and disregard for international law,” with a focus on coercion over diplomacy. He highlighted that even traditional allies, such as Denmark, now view the U.S. as a potential threat, signaling a shift in global perceptions of American power.
   
-  Meanwhile, the Middle East remains volatile, with U.S. and Israeli policies toward Palestine and Iran drawing sharp criticism. The Trump administration’s recent moves at the UN, including efforts to establish U.S. control over Gaza, are seen by Sachs as a revival of colonial-era mandates that undermine Palestinian sovereignty and risk indefinite occupation. These strategies, he warns, threaten regional stability and run counter to international law.
+  Meanwhile, Europe’s persistent failure to engage Russia as a legitimate security actor remains a source of instability. Sachs’ December 25 article traces this pattern back two centuries, arguing that “Europe’s refusal to negotiate with Russia has exacerbated conflicts and led to significant geopolitical instability.” The majority view among analysts is that lasting peace requires Europe to recognize and incorporate Russian security interests, rather than perpetuating a cycle of mistrust.
   
   **Trends and Predictions:**  
-  The prevailing trend is a hardening of U.S. and allied positions, with a marked shift away from multilateralism and respect for international norms. Sachs predicts with high confidence that the current U.S. strategy will “most definitely” lead to further isolation and diminished global influence. In Europe, unless there is a fundamental reassessment of security policy to include Russian interests, there is a high chance that the continent will remain mired in conflict and economic stagnation. In the Middle East, the continued sidelining of Palestinian rights and the pursuit of regime change in Iran are “quite likely” to perpetuate instability and humanitarian crises.
+  The dominant trend is a continued erosion of multilateralism, with the U.S. increasingly sidelining international norms in favor of unilateral action. This is likely to further isolate Washington and diminish its global influence. In Latin America, there is a high chance that U.S. pressure on Venezuela will persist, but without broad international support, these efforts are unlikely to yield a stable outcome. In Europe, unless there is a strategic shift to include Russian interests in security dialogues, tensions will remain high, with a high chance of ongoing instability.
   
-  In summary, the latest reports underscore a growing divide between the rhetoric of peace and the reality of coercive, unilateral policies—trends that, if left unchecked, will most definitely deepen global insecurity and erode prospects for diplomatic solutions.
+  I guarantee that unless the U.S. reorients its foreign policy towards genuine multilateralism and respect for international law, both its global standing and prospects for peace in key regions will continue to deteriorate.
 articles:
+  - title: Time for US to stop violating UN charter
+    url: https://www.chinadaily.com.cn/a/202601/08/WS695ee652a310d6866eb328d9.html
+    text: 'An American flag flies outside of the US Capitol dome in Washington, US,
+      Jan 15, 2020. [Photo/Agencies]
+
+
+      Editor''s note: Jeffrey D. Sachs, a professor at Columbia University, delivered
+      a statement to the United Nations Security Council on Jan 5, 2026, regarding the
+      situation in Venezuela. The US strikes on Venezuela and illegal "capture" of Venezuelan
+      President Nicolás Maduro and his wife are endangering UN charter and world order.
+      The original statement has been slightly edited for publication in China Daily.
+      Excerpt from the statement follows:
+
+
+      The issue today is not the character of the government of Venezuela. The issue
+      is whether any member state — by force, coercion, or economic strangulation —
+      has the right to determine Venezuela''s political future or to exercise control
+      over its affairs.
+
+
+      This question goes directly to Article 2 (4) of the United Nations Charter, which
+      prohibits the threat or use of force against the territorial integrity or political
+      independence of any state. The Security Council must decide whether that prohibition
+      is to be upheld or abandoned. Abandoning it would carry consequences of the gravest
+      kind.
+
+
+      Since 1947, the United States foreign policy has repeatedly employed force, covert
+      action and political manipulation to bring about regime changes in other countries.
+      In her book Covert Regime Change (2018), political scientist Lindsey O''Rourke
+      documents 70 regime-change operations attempted by the US between 1947 and 1989
+      alone.
+
+
+      These practices did not end with the Cold War. Since 1989, major US regime-change
+      operations undertaken without authorization by the Security Council have included
+      Iraq in 2003,Libya in 2011, Syria from 2011, Honduras in 2009, Ukraine in 2014
+      and Venezuela from 2002 onward.
+
+
+      The methods employed include open warfare, covert intelligence operations, instigation
+      of unrest, support for armed groups, manipulation of mass and social media, bribery
+      of military and civilian officials, targeted assassinations, false-flag operations
+      and economic warfare aimed at collapsing civilian life. These measures are illegal
+      under the UN Charter, and they typically result in violence, lethal conflict,
+      political instability and deep suffering of the civilian population.
+
+
+      The US efforts for regime change in Venezuela span two decades. In April 2002,
+      the US approved an attempted coup against the Venezuelan government. In the 2010s,
+      the US funded civil society groups engaged in anti-government protests. When the
+      government cracked down, the US imposed sanctions. In 2015, US president Barack
+      Obama declared Venezuela to be "an unusual and extraordinary threat to the national
+      security and foreign policy of the US".
+
+
+      In 2017, on the margins of the UN General Assembly, US President Donald Trump
+      openly discussed the option of invading Venezuela to overthrow the government.
+      From 2017 to 2020, the US imposed sweeping sanctions on Venezuela''s state oil
+      company. Between 2016 and 2020, oil production fell by 75 percent, and real GDP
+      per capita (PPP) declined by 62 percent.
+
+
+      The UN General Assembly has repeatedly voted overwhelmingly against such unilateral
+      coercive measures. Under international law, only the Security Council has the
+      authority to impose such sanctions.
+
+
+      On Jan 23, 2019, the US unilaterally recognized Juan Guaidó as "interim president"
+      of Venezuela. Five days later, on Jan 28, 2019, it froze approximately $7 billion
+      of Venezuelan sovereign assets held abroad and gave Guaidó authority over certain
+      assets.
+
+
+      In the past year, the US has carried out bombing operations in seven countries,
+      none of which were authorized by the Security Council or undertaken in lawful
+      self-defense under the Charter. The targeted countries include Iran, Iraq, Nigeria,
+      Somalia, Syria, Yemen and now Venezuela. In the past month, Trump has issued direct
+      threats against at least six UN member states, including Colombia, Denmark, Iran,
+      Mexico, Nigeria and, of course, Venezuela.
+
+
+      Members of the Security Council are not called upon to judge Nicolás Maduro or
+      assess whether the recent US attack and ongoing naval quarantine of Venezuela
+      result in freedom or in subjugation. They are called upon to defend international
+      law, and specifically the UN Charter.
+
+
+      The realist school of international relations accurately describes the condition
+      of international anarchy as "the tragedy of great power politics". Its conclusion
+      is that international anarchy leads to tragedy. In the aftermath of World War
+      I, the League of Nations was created to end the tragedy through the application
+      of international law. Yet the world''s leading nations failed to defend international
+      law in the 1930s, leading to another global war.
+
+
+      The UN emerged from that catastrophe as humanity''s second great effort to place
+      international law above anarchy. In the words of the Charter, the UN was created
+      "to save succeeding generations from the scourge of war, which twice in our lifetime
+      has brought untold sorrow to mankind."
+
+
+      Given that we are in the nuclear age, failure cannot be repeated. Humanity would
+      perish. There would be no third chance.
+
+
+      To fulfill its responsibilities under the Charter, the Security Council should
+      immediately affirm that the US shall immediately cease and desist from all explicit
+      and implicit threats or use of force against Venezuela. It shall terminate its
+      naval quarantine and all related coercive military measures undertaken without
+      authorization by the Security Council. The US shall immediately withdraw its military
+      forces from within and along the perimeter of Venezuela. The UN Secretary-General
+      shall immediately appoint a Special Envoy, mandated to engage relevant Venezuelan
+      and international stakeholders and to report back to the Security Council within
+      14 days with recommendations consistent with the UN Charter. All member states
+      shall refrain from unilateral threats, coercive measures or armed actions undertaken
+      outside the authority of the Security Council, in strict conformity with the Charter.
+
+
+      Peace and the survival of humanity depend on whether the UN Charter remains a
+      living instrument of international law or is allowed to wither into irrelevance.
+      That is the choice before the world today.
+
+
+      The views don''t necessarily represent those of China Daily.
+
+
+      If you have a specific expertise, or would like to share your thought about our
+      stories, then send us your writings at opinion@chinadaily.com.cn, and comment@chinadaily.com.cn.'
+    one_sentence_summary: In a statement to the UN Security Council, Jeffrey D. Sachs
+      condemned U.S. military actions and regime change efforts in Venezuela as violations
+      of international law that threaten global order and called for the cessation of
+      such measures to uphold the UN Charter.
+    paragraph_summary: In a statement to the UN Security Council on January 5, 2026,
+      Jeffrey D. Sachs, a Columbia University professor, condemned the United States'
+      military actions and regime-change efforts in Venezuela, arguing they violate
+      the UN Charter's prohibition against using force to influence a nation's political
+      future. Sachs highlighted the historical context of U.S. interventions since 1947,
+      detailing various methods employed to destabilize governments, including economic
+      sanctions and military threats. He emphasized that the Security Council's role
+      is to uphold international law rather than judge the legitimacy of specific governments,
+      warning that failing to do so could lead to catastrophic consequences in the nuclear
+      age. Sachs called for the cessation of U.S. military actions against Venezuela
+      and urged the appointment of a Special Envoy to facilitate dialogue, stressing
+      the importance of maintaining the UN Charter as a vital instrument for global
+      peace and order.
+    published: '2026-01-08T00:00:00'
   - title: Trump’s Empire of Hubris and Thuggery
     url: https://us19.campaign-archive.com/?u=50ec04f7fdd8f247aecfa0ddf&id=c5abdaf22c
     text: 'Trump’s Empire of Hubris and Thuggery

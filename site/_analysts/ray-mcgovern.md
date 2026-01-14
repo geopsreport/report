@@ -7,17 +7,596 @@ description: "27-year CIA analyst turned independent; co-founder of Veteran Inte
 websites:
   - https://consortiumnews.com
 summary: |
-  The geopolitical crisis surrounding the U.S. military intervention in Venezuela continues to escalate, with new legal and political ramifications emerging in the wake of President Nicolás Maduro’s capture. The Trump administration’s justification for the operation—centered on claims of U.S. entitlement to Venezuelan oil—has drawn sharp criticism from legal experts and independent analysts.
+  The past 24 hours have seen intensifying scrutiny of U.S. immigration enforcement and growing alarm over civil liberties, as well as renewed focus on the humanitarian crisis surrounding Palestine activism in the UK.
   
-  **Marjorie Cohn** challenges the White House’s narrative, arguing that “the U.S. has no legal claim to Venezuela’s oil resources,” and that military aggression cannot be legitimized by economic interests. This critique is gaining traction as international scrutiny intensifies, particularly at the United Nations, where calls for Security Council action remain unresolved.
+  In the United States, the actions of Immigration and Customs Enforcement (ICE) have come under legal and public fire. Illinois and Minnesota have filed federal lawsuits against Trump administration officials, alleging that ICE agents have acted "more like occupiers than law enforcement officers." This legal escalation follows a series of high-profile incidents, including the killing of Renee Nicole Good by an ICE agent in Minneapolis, which **Patrick Lawrence** previously described as emblematic of the violent tactics underpinning American power. **Chris Hedges** now warns that the rise of ICE signals a "troubling authoritarian force" reminiscent of historical oppression, urging collective resistance. These developments reflect a broader pattern of what analysts describe as the normalization of state violence and the erosion of democratic norms.
   
-  Meanwhile, the politicized nature of the U.S. Department of Justice’s indictment against Maduro is under the spotlight. **Max Blumenthal** notes that the DOJ’s recent 25-page statement may inadvertently raise public awareness about the CIA’s historical involvement in drug trafficking, especially as it relates to the January 3 raid to apprehend Maduro. This aspect is fueling broader debates about the underlying motives and legality of U.S. actions in Venezuela.
+  Meanwhile, in London, the plight of Palestinian hunger striker Kamran Ahmed has drawn international attention. Reporting from **Ray McGovern** highlights Ahmed’s deteriorating health—marked by uncontrollable twitching and fears of heart failure—amidst his protest against UK policy on Palestine. Ahmed’s case underscores the ongoing humanitarian crisis and the perceived indifference of Western governments to Palestinian suffering.
   
-  On the regional front, the U.S. intervention is reverberating beyond Venezuela. **Dave DeCamp** reports that President Trump’s comments on Venezuela have been paired with explicit warnings of potential military action against Iran, particularly as domestic unrest grows in Tehran. This linkage suggests a strategy of leveraging the Venezuela operation as a signal to other adversaries, with Israel amplifying these threats in its own rhetoric toward Iran.
-  
-  **Trends and Predictions:**  
-  The majority of independent analysts agree that the U.S. will face mounting international opposition, especially as legal arguments against the intervention gain visibility. There is a high chance that the situation at the UN Security Council will remain deadlocked, with China and Russia continuing to challenge U.S. actions. Regionally, the risk of spillover into neighboring countries and further escalation with Iran is quite likely, given the current trajectory of U.S. foreign policy. I guarantee that legal and diplomatic challenges to the U.S. position will intensify in the coming weeks, with no immediate resolution in sight.
+  Looking ahead, the convergence of legal challenges against ICE and the intensification of protest actions both in the U.S. and abroad suggest a period of heightened civil unrest and government pushback. Based on the prevailing analysis, I guarantee that legal and political confrontations over immigration enforcement will escalate in the coming weeks, with a high chance that public demonstrations and international advocacy around Palestine will intensify, further straining U.S. and UK domestic stability.
 articles:
+  - title: 'Chris Hedges: The Machinery of Terror'
+    url: https://consortiumnews.com/2026/01/13/chris-hedges-the-machinery-of-terror/
+    text: The iron doors have not yet shut but ICE, the Americanized Gestapo, is being
+      birthed. Resistance must be collective. By Chris Hedges ScheerPost I have seen
+      the masked goons who terrorize our streets before. I saw them during the “Dirty…
+      Read more →
+    one_sentence_summary: Chris Hedges argues that the rise of ICE represents a troubling
+      authoritarian force in America, reminiscent of historical oppression, and emphasizes
+      the need for collective resistance against such developments.
+    paragraph_summary: In his article for ScheerPost, Chris Hedges draws a parallel
+      between the actions of ICE (Immigration and Customs Enforcement) and oppressive
+      regimes, likening the agency to a modern-day Gestapo. He emphasizes the need for
+      collective resistance against such authoritarian forces, reflecting on his past
+      experiences with oppressive tactics during social unrest. Hedges warns that while
+      the full extent of ICE's power has not yet been realized, the potential for widespread
+      repression is imminent, urging individuals to unite in opposition to these developments.
+    published: '2026-01-13T19:00:37+00:00'
+  - title: 'Chris Hedges: The Machinery of Terror'
+    url: https://consortiumnews.com/2026/01/13/chris-hedges-the-machinery-of-terror/
+    text: The iron doors have not yet shut but ICE, the Americanized Gestapo, is being
+      birthed. Resistance must be collective. By Chris Hedges ScheerPost I have seen
+      the masked goons who terrorize our streets before. I saw them during the “Dirty…
+      Read more →
+    one_sentence_summary: Chris Hedges argues that the rise of ICE represents a troubling
+      authoritarian force in America, reminiscent of historical oppression, and emphasizes
+      the need for collective resistance against such developments.
+    paragraph_summary: In his article for ScheerPost, Chris Hedges draws a parallel
+      between the actions of ICE (Immigration and Customs Enforcement) and oppressive
+      regimes, likening the agency to a modern-day Gestapo. He emphasizes the need for
+      collective resistance against such authoritarian forces, reflecting on his past
+      experiences with oppressive tactics during social unrest. Hedges warns that while
+      the full extent of ICE's power has not yet been realized, the potential for widespread
+      repression is imminent, urging individuals to unite in opposition to these developments.
+    published: '2026-01-13T19:00:37+00:00'
+  - title: Minnesota, Illinois Sue Trump Officials Over ICE
+    url: https://consortiumnews.com/2026/01/13/illinois-minnesota-sue-over-trump-immigration-agents/
+    text: The two states are filing federal suits against operations in which, the Illinois
+      attorney general says, immigration agents “have acted as occupiers rather than
+      officers of the law.” By Jessica Corbett Common Dreams Illinois and Minnesota,
+      along with targeted cities… Read more →
+    one_sentence_summary: Illinois and Minnesota are filing federal lawsuits against
+      immigration agents, alleging that they have behaved more like occupiers than law
+      enforcement officers.
+    paragraph_summary: Illinois and Minnesota are filing federal lawsuits against immigration
+      operations, with Illinois' attorney general accusing agents of behaving like "occupiers"
+      rather than law enforcement officials. The lawsuits aim to address concerns over
+      the conduct of immigration agents in these states and seek to protect the rights
+      of residents affected by these operations.
+    published: '2026-01-13T18:30:03+00:00'
+  - title: Minnesota, Illinois Sue Trump Officials Over ICE
+    url: https://consortiumnews.com/2026/01/13/illinois-minnesota-sue-over-trump-immigration-agents/
+    text: The two states are filing federal suits against operations in which, the Illinois
+      attorney general says, immigration agents “have acted as occupiers rather than
+      officers of the law.” By Jessica Corbett Common Dreams Illinois and Minnesota,
+      along with targeted cities… Read more →
+    one_sentence_summary: Illinois and Minnesota are filing federal lawsuits against
+      immigration agents, alleging that they have behaved more like occupiers than law
+      enforcement officers.
+    paragraph_summary: Illinois and Minnesota are filing federal lawsuits against immigration
+      operations, with Illinois' attorney general accusing agents of behaving like "occupiers"
+      rather than law enforcement officials. The lawsuits aim to address concerns over
+      the conduct of immigration agents in these states and seek to protect the rights
+      of residents affected by these operations.
+    published: '2026-01-13T18:30:03+00:00'
+  - title: ‘UK Waiting for Us to Die’
+    url: https://consortiumnews.com/2026/01/13/uk-waiting-for-us-to-die/
+    text: Palestine hunger striker Kamran Ahmed told Declassified UK that his body was
+      “twitching” uncontrollably and he fears heart failure, Phil Miller and Alex Morris
+      report. By Phil Miller and Alex Morris Declassified UK A pro-Palestine activist
+      on hunger strike in a London… Read more →
+    one_sentence_summary: Palestine hunger striker Kamran Ahmed expressed concerns about
+      his deteriorating health, including uncontrollable twitching and fears of heart
+      failure, during his protest in London.
+    paragraph_summary: Kamran Ahmed, a pro-Palestine activist on hunger strike in London,
+      expressed his deteriorating health in an interview with Declassified UK, revealing
+      that his body is experiencing uncontrollable twitching and he is concerned about
+      the risk of heart failure.
+    published: '2026-01-13T17:00:53+00:00'
+  - title: ‘UK Waiting for Us to Die’
+    url: https://consortiumnews.com/2026/01/13/uk-waiting-for-us-to-die/
+    text: Palestine hunger striker Kamran Ahmed told Declassified UK that his body was
+      “twitching” uncontrollably and he fears heart failure, Phil Miller and Alex Morris
+      report. By Phil Miller and Alex Morris Declassified UK A pro-Palestine activist
+      on hunger strike in a London… Read more →
+    one_sentence_summary: Palestine hunger striker Kamran Ahmed expressed concerns about
+      his deteriorating health, including uncontrollable twitching and fears of heart
+      failure, during his protest in London.
+    paragraph_summary: Kamran Ahmed, a pro-Palestine activist on hunger strike in London,
+      expressed his deteriorating health in an interview with Declassified UK, revealing
+      that his body is experiencing uncontrollable twitching and he is concerned about
+      the risk of heart failure.
+    published: '2026-01-13T17:00:53+00:00'
+  - title: US-Russia Nuclear Arms Pact Perilously Nears Expiration
+    url: https://consortiumnews.com/2026/01/12/us-russia-nuclear-arms-pact-perilously-nears-expiration/
+    text: Beginning Feb. 6, Russian and American leaders will no longer face barriers
+      to expand their nuclear arsenals, says Michael T. Klare. By Michael T. Klare 
+      TomDispatch.com For most of us, Friday, Feb. 6, 2026, is likely to feel no different…
+      Read more →
+    one_sentence_summary: Starting February 6, 2026, Russian and American leaders will
+      have the opportunity to expand their nuclear arsenals without restrictions, according
+      to Michael T. Klare.
+    paragraph_summary: Beginning February 6, 2026, Russian and American leaders will
+      have the opportunity to expand their nuclear arsenals without any restrictions,
+      according to Michael T. Klare. This shift marks a significant change in nuclear
+      arms control, potentially leading to increased tensions and an arms race between
+      the two nations. The article emphasizes the implications of this development for
+      global security and the need for renewed dialogue and agreements to prevent escalation.
+    published: '2026-01-12T19:00:11+00:00'
+  - title: US-Russia Nuclear Arms Pact Perilously Nears Expiration
+    url: https://consortiumnews.com/2026/01/12/us-russia-nuclear-arms-pact-perilously-nears-expiration/
+    text: Beginning Feb. 6, Russian and American leaders will no longer face barriers
+      to expand their nuclear arsenals, says Michael T. Klare. By Michael T. Klare 
+      TomDispatch.com For most of us, Friday, Feb. 6, 2026, is likely to feel no different…
+      Read more →
+    one_sentence_summary: Starting February 6, 2026, Russian and American leaders will
+      have the opportunity to expand their nuclear arsenals without restrictions, according
+      to Michael T. Klare.
+    paragraph_summary: Beginning February 6, 2026, Russian and American leaders will
+      have the opportunity to expand their nuclear arsenals without any restrictions,
+      according to Michael T. Klare. This shift marks a significant change in nuclear
+      arms control, potentially leading to increased tensions and an arms race between
+      the two nations. The article emphasizes the implications of this development for
+      global security and the need for renewed dialogue and agreements to prevent escalation.
+    published: '2026-01-12T19:00:11+00:00'
+  - title: 'PATRICK LAWRENCE: Imperial Boomerang'
+    url: https://consortiumnews.com/2026/01/12/patrick-lawrence-imperial-boomerang/
+    text: In the videos of a jumped-up ICE agent murdering Renee Nicole Good in Minneapolis
+      we see the violence of the American empire coming home to preserve itself. By Patrick
+      Lawrence in Torrington, Connecticut Special to Consortium News The murder-in-broad-daylight
+      of Renee… Read more →
+    one_sentence_summary: The article discusses the murder of Renee Nicole Good by an
+      ICE agent in Minneapolis as a reflection of the violent tactics used by the American
+      empire to maintain its power.
+    paragraph_summary: In a recent article by Patrick Lawrence, the violent killing
+      of Renee Nicole Good by an ICE agent in Minneapolis is portrayed as a stark reflection
+      of the broader violence inherent in the American empire. The incident, captured
+      on video, highlights the brutal measures taken to maintain power and control within
+      the U.S., raising critical questions about systemic issues related to law enforcement
+      and immigration policies. Lawrence's commentary emphasizes the troubling implications
+      of such acts of violence, suggesting they are indicative of a deeper societal
+      malaise.
+    published: '2026-01-12T17:00:36+00:00'
+  - title: 'PATRICK LAWRENCE: Imperial Boomerang'
+    url: https://consortiumnews.com/2026/01/12/patrick-lawrence-imperial-boomerang/
+    text: In the videos of a jumped-up ICE agent murdering Renee Nicole Good in Minneapolis
+      we see the violence of the American empire coming home to preserve itself. By Patrick
+      Lawrence in Torrington, Connecticut Special to Consortium News The murder-in-broad-daylight
+      of Renee… Read more →
+    one_sentence_summary: The article discusses the murder of Renee Nicole Good by an
+      ICE agent in Minneapolis as a reflection of the violent tactics used by the American
+      empire to maintain its power.
+    paragraph_summary: In a recent article by Patrick Lawrence, the violent killing
+      of Renee Nicole Good by an ICE agent in Minneapolis is portrayed as a stark reflection
+      of the broader violence inherent in the American empire. The incident, captured
+      on video, highlights the brutal measures taken to maintain power and control within
+      the U.S., raising critical questions about systemic issues related to law enforcement
+      and immigration policies. Lawrence's commentary emphasizes the troubling implications
+      of such acts of violence, suggesting they are indicative of a deeper societal
+      malaise.
+    published: '2026-01-12T17:00:36+00:00'
+  - title: 'Chris Hedges: Grand Illusion'
+    url: https://consortiumnews.com/2026/01/12/chris-hedges-grand-illusion/
+    text: In the end, with weary citizens yearning for extinction, empires light their
+      own funeral pyre. By Chris Hedges ScheerPost “We live in a world in which you
+      can talk all you want about international niceties and everything else, but we…
+      Read more →
+    one_sentence_summary: In his article, Chris Hedges argues that as citizens grow
+      disillusioned and desire an end to suffering, empires ultimately contribute to
+      their own downfall.
+    paragraph_summary: In his article, Chris Hedges reflects on the despair and disillusionment
+      of citizens living under failing empires, suggesting that their yearning for change
+      often leads to self-destructive outcomes. He argues that despite discussions of
+      diplomacy and international relations, the underlying issues of power and suffering
+      remain unaddressed, ultimately pushing societies toward their own demise. Hedges
+      emphasizes the need for a critical examination of the systems in place and warns
+      that without significant transformation, the cycle of decline will continue.
+    published: '2026-01-12T12:00:58+00:00'
+  - title: 'Chris Hedges: Grand Illusion'
+    url: https://consortiumnews.com/2026/01/12/chris-hedges-grand-illusion/
+    text: In the end, with weary citizens yearning for extinction, empires light their
+      own funeral pyre. By Chris Hedges ScheerPost “We live in a world in which you
+      can talk all you want about international niceties and everything else, but we…
+      Read more →
+    one_sentence_summary: In his article, Chris Hedges argues that as citizens grow
+      disillusioned and desire an end to suffering, empires ultimately contribute to
+      their own downfall.
+    paragraph_summary: In his article, Chris Hedges reflects on the despair and disillusionment
+      of citizens living under failing empires, suggesting that their yearning for change
+      often leads to self-destructive outcomes. He argues that despite discussions of
+      diplomacy and international relations, the underlying issues of power and suffering
+      remain unaddressed, ultimately pushing societies toward their own demise. Hedges
+      emphasizes the need for a critical examination of the systems in place and warns
+      that without significant transformation, the cycle of decline will continue.
+    published: '2026-01-12T12:00:58+00:00'
+  - title: 'WATCH: Anthony Aguilar Receives Sam Adams Award'
+    url: https://consortiumnews.com/2026/01/11/watch-anthony-aguilar-receives-sam-adams-award/
+    text: Anthony Aguilar is presented with this year’s Sam Adams Associates for Integrity
+      Award for notifying the world of the deliberate killing of starving Gazans as
+      they arrived for supposed U.S.-Israel food aid. The ceremony took place in Raleigh,
+      North Carolina… Read more →
+    one_sentence_summary: Anthony Aguilar received the Sam Adams Associates for Integrity
+      Award in Raleigh, North Carolina, for exposing the intentional killing of starving
+      Gazans during a supposed U.S.-Israel food aid distribution.
+    paragraph_summary: Anthony Aguilar received the Sam Adams Associates for Integrity
+      Award for his courageous act of exposing the intentional killing of starving Gazans
+      who were approaching for U.S.-Israel food aid. The award ceremony was held in
+      Raleigh, North Carolina, recognizing Aguilar's commitment to revealing this critical
+      humanitarian issue.
+    published: '2026-01-11T17:44:10+00:00'
+  - title: 'WATCH: Anthony Aguilar Receives Sam Adams Award'
+    url: https://consortiumnews.com/2026/01/11/watch-anthony-aguilar-receives-sam-adams-award/
+    text: Anthony Aguilar is presented with this year’s Sam Adams Associates for Integrity
+      Award for notifying the world of the deliberate killing of starving Gazans as
+      they arrived for supposed U.S.-Israel food aid. The ceremony took place in Raleigh,
+      North Carolina… Read more →
+    one_sentence_summary: Anthony Aguilar received the Sam Adams Associates for Integrity
+      Award in Raleigh, North Carolina, for exposing the intentional killing of starving
+      Gazans during a supposed U.S.-Israel food aid distribution.
+    paragraph_summary: Anthony Aguilar received the Sam Adams Associates for Integrity
+      Award for his courageous act of exposing the intentional killing of starving Gazans
+      who were approaching for U.S.-Israel food aid. The award ceremony was held in
+      Raleigh, North Carolina, recognizing Aguilar's commitment to revealing this critical
+      humanitarian issue.
+    published: '2026-01-11T17:44:10+00:00'
+  - title: Vance Blasted After Saying ICE Slayer Has Immunity
+    url: https://consortiumnews.com/2026/01/10/vance-blasted-after-saying-ice-slayer-has-immunity/
+    text: The vice president said Minnesota prosecutors should instead investigate people
+      who “are using their vehicles and other means” to interfere with ICE’s operations.
+      By Julia Conley Common Dreams When Vice President J.D. Vance told reporters at
+      a press briefing Thursday that Jonathan… Read more →
+    one_sentence_summary: Vice President J.D. Vance urged Minnesota prosecutors to focus
+      on individuals obstructing ICE operations rather than pursuing other cases.
+    paragraph_summary: Vice President J.D. Vance urged Minnesota prosecutors to focus
+      on investigating individuals who disrupt Immigration and Customs Enforcement (ICE)
+      operations by using their vehicles and other methods, rather than pursuing other
+      avenues. His comments were made during a press briefing, highlighting his stance
+      on the enforcement of immigration laws and the actions taken by those opposing
+      ICE activities.
+    published: '2026-01-10T10:00:07+00:00'
+  - title: Vance Blasted After Saying ICE Slayer Has Immunity
+    url: https://consortiumnews.com/2026/01/10/vance-blasted-after-saying-ice-slayer-has-immunity/
+    text: The vice president said Minnesota prosecutors should instead investigate people
+      who “are using their vehicles and other means” to interfere with ICE’s operations.
+      By Julia Conley Common Dreams When Vice President J.D. Vance told reporters at
+      a press briefing Thursday that Jonathan… Read more →
+    one_sentence_summary: Vice President J.D. Vance urged Minnesota prosecutors to focus
+      on individuals obstructing ICE operations rather than pursuing other cases.
+    paragraph_summary: Vice President J.D. Vance urged Minnesota prosecutors to focus
+      on investigating individuals who disrupt Immigration and Customs Enforcement (ICE)
+      operations by using their vehicles and other methods, rather than pursuing other
+      avenues. His comments were made during a press briefing, highlighting his stance
+      on the enforcement of immigration laws and the actions taken by those opposing
+      ICE activities.
+    published: '2026-01-10T10:00:07+00:00'
+  - title: 'Patrick Lawrence: An Abyss of Lawlessness'
+    url: https://consortiumnews.com/2026/01/10/patrick-lawrence-an-abyss-of-lawlessness/
+    text: Post–Gaza, post–Venezuela, ours is a world ruled by power alone. By Patrick
+      Lawrence The Floutist  It is a long time now since the paying-attention among
+      us began speaking of the fundamental lawlessness of our time. It was the Israelis
+      who… Read more →
+    one_sentence_summary: In a world increasingly dominated by power dynamics, the article
+      by Patrick Lawrence reflects on the prevailing lawlessness evident in global conflicts,
+      particularly highlighting the situations in Gaza and Venezuela.
+    paragraph_summary: In his article, Patrick Lawrence discusses the current global
+      landscape characterized by a dominance of power over legal and moral considerations,
+      particularly in the context of recent conflicts such as those in Gaza and Venezuela.
+      He reflects on how these events highlight a broader trend of lawlessness in international
+      relations, where might often supersedes right, and emphasizes the need for a critical
+      examination of the forces shaping our world today.
+    published: '2026-01-10T06:31:39+00:00'
+  - title: 'Patrick Lawrence: An Abyss of Lawlessness'
+    url: https://consortiumnews.com/2026/01/10/patrick-lawrence-an-abyss-of-lawlessness/
+    text: Post–Gaza, post–Venezuela, ours is a world ruled by power alone. By Patrick
+      Lawrence The Floutist  It is a long time now since the paying-attention among
+      us began speaking of the fundamental lawlessness of our time. It was the Israelis
+      who… Read more →
+    one_sentence_summary: In a world increasingly dominated by power dynamics, the article
+      by Patrick Lawrence reflects on the prevailing lawlessness evident in global conflicts,
+      particularly highlighting the situations in Gaza and Venezuela.
+    paragraph_summary: In his article, Patrick Lawrence discusses the current global
+      landscape characterized by a dominance of power over legal and moral considerations,
+      particularly in the context of recent conflicts such as those in Gaza and Venezuela.
+      He reflects on how these events highlight a broader trend of lawlessness in international
+      relations, where might often supersedes right, and emphasizes the need for a critical
+      examination of the forces shaping our world today.
+    published: '2026-01-10T06:31:39+00:00'
+  - title: 'Hedges Report: Narco-Trafficking Elite Set to Run Venezuela'
+    url: https://consortiumnews.com/2026/01/09/hedges-report-narco-trafficking-elite-set-to-run-venezuela/
+    text: Marco Rubio’s [peripheral] personal ties to drug trafficking underscore a
+      deep irony in the Trump administration’s attempts to use the drug war as a means
+      of achieving their imperialist goals in Latin America. By Chris Hedges The Chris
+      Hedges Report History,… Read more →
+    one_sentence_summary: Marco Rubio's connections to drug trafficking highlight the
+      irony of the Trump administration's use of the drug war to further its imperialist
+      ambitions in Latin America.
+    paragraph_summary: In his article, Chris Hedges highlights the irony of Marco Rubio's
+      personal connections to drug trafficking amidst the Trump administration's efforts
+      to leverage the drug war for imperialistic ambitions in Latin America. Hedges
+      critiques how these ties contradict the administration's anti-drug rhetoric and
+      policies, suggesting that the complexities of personal relationships and political
+      agendas reveal deeper issues within U.S. foreign policy in the region.
+    published: '2026-01-09T19:00:35+00:00'
+  - title: 'Hedges Report: Narco-Trafficking Elite Set to Run Venezuela'
+    url: https://consortiumnews.com/2026/01/09/hedges-report-narco-trafficking-elite-set-to-run-venezuela/
+    text: Marco Rubio’s [peripheral] personal ties to drug trafficking underscore a
+      deep irony in the Trump administration’s attempts to use the drug war as a means
+      of achieving their imperialist goals in Latin America. By Chris Hedges The Chris
+      Hedges Report History,… Read more →
+    one_sentence_summary: Marco Rubio's connections to drug trafficking highlight the
+      irony of the Trump administration's use of the drug war to further its imperialist
+      ambitions in Latin America.
+    paragraph_summary: In his article, Chris Hedges highlights the irony of Marco Rubio's
+      personal connections to drug trafficking amidst the Trump administration's efforts
+      to leverage the drug war for imperialistic ambitions in Latin America. Hedges
+      critiques how these ties contradict the administration's anti-drug rhetoric and
+      policies, suggesting that the complexities of personal relationships and political
+      agendas reveal deeper issues within U.S. foreign policy in the region.
+    published: '2026-01-09T19:00:35+00:00'
+  - title: 'Vijay Prashad: Smashing International Laws'
+    url: https://consortiumnews.com/2026/01/09/vijay-prashad-smashing-international-laws/
+    text: 'The absence of U.N. and O.A.S. condemnations of Washington’s attacks on Venezuela
+      indicates the absolute mafia-type power the U.S. wields in the world. By Vijay
+      Prashad Tricontinental: Institute for Social Research In the early hours of Jan.
+      3, the United States… Read more →'
+    one_sentence_summary: The lack of condemnations from the U.N. and O.A.S. regarding
+      U.S. attacks on Venezuela highlights the overwhelming and mafia-like influence
+      the U.S. holds globally.
+    paragraph_summary: The article by Vijay Prashad argues that the lack of condemnations
+      from the United Nations and the Organization of American States regarding U.S.
+      military actions against Venezuela highlights the overwhelming and mafia-like
+      influence the U.S. holds globally. It suggests that this absence of international
+      response reflects a broader pattern of U.S. dominance in world affairs, particularly
+      in its dealings with Latin America.
+    published: '2026-01-09T17:05:31+00:00'
+  - title: 'Vijay Prashad: Smashing International Laws'
+    url: https://consortiumnews.com/2026/01/09/vijay-prashad-smashing-international-laws/
+    text: 'The absence of U.N. and O.A.S. condemnations of Washington’s attacks on Venezuela
+      indicates the absolute mafia-type power the U.S. wields in the world. By Vijay
+      Prashad Tricontinental: Institute for Social Research In the early hours of Jan.
+      3, the United States… Read more →'
+    one_sentence_summary: The lack of condemnations from the U.N. and O.A.S. regarding
+      U.S. attacks on Venezuela highlights the overwhelming and mafia-like influence
+      the U.S. holds globally.
+    paragraph_summary: The article by Vijay Prashad argues that the lack of condemnations
+      from the United Nations and the Organization of American States regarding U.S.
+      military actions against Venezuela highlights the overwhelming and mafia-like
+      influence the U.S. holds globally. It suggests that this absence of international
+      response reflects a broader pattern of U.S. dominance in world affairs, particularly
+      in its dealings with Latin America.
+    published: '2026-01-09T17:05:31+00:00'
+  - title: The Vulture Capitalist Poised for a Venezuelan Payday
+    url: https://consortiumnews.com/2026/01/09/the-vulture-capitalist-poised-for-a-venezuelan-payday/
+    text: Shortly before Trump’s aggression on Caracas, Paul Singer’s investment firm
+      bought Citgo at deep discount in a U.S.-based auction overseen by an AIPAC board
+      member.     By Stephen Prager Common Dreams One of President Donald Trump’s top
+      billionaire donors,… Read more →
+    one_sentence_summary: Paul Singer's investment firm acquired Citgo at a significant
+      discount in a U.S. auction just before Trump's aggressive actions towards Caracas,
+      with the auction overseen by an AIPAC board member.
+    paragraph_summary: The article discusses how shortly before President Trump's aggressive
+      stance towards Caracas, Paul Singer's investment firm acquired Citgo at a significantly
+      reduced price during a U.S.-based auction that was overseen by a member of the
+      AIPAC board. This acquisition is highlighted in the context of Trump's financial
+      backers and raises questions about the motivations and implications of such investments
+      amid geopolitical tensions.
+    published: '2026-01-09T12:07:13+00:00'
+  - title: The Vulture Capitalist Poised for a Venezuelan Payday
+    url: https://consortiumnews.com/2026/01/09/the-vulture-capitalist-poised-for-a-venezuelan-payday/
+    text: Shortly before Trump’s aggression on Caracas, Paul Singer’s investment firm
+      bought Citgo at deep discount in a U.S.-based auction overseen by an AIPAC board
+      member.     By Stephen Prager Common Dreams One of President Donald Trump’s top
+      billionaire donors,… Read more →
+    one_sentence_summary: Paul Singer's investment firm acquired Citgo at a significant
+      discount in a U.S. auction just before Trump's aggressive actions towards Caracas,
+      with the auction overseen by an AIPAC board member.
+    paragraph_summary: The article discusses how shortly before President Trump's aggressive
+      stance towards Caracas, Paul Singer's investment firm acquired Citgo at a significantly
+      reduced price during a U.S.-based auction that was overseen by a member of the
+      AIPAC board. This acquisition is highlighted in the context of Trump's financial
+      backers and raises questions about the motivations and implications of such investments
+      amid geopolitical tensions.
+    published: '2026-01-09T12:07:13+00:00'
+  - title: A Lawless Presidency
+    url: https://consortiumnews.com/2026/01/08/a-lawless-presidency/
+    text: The catastrophe we all witnessed in Caracas — the result of expanding presidential
+      power — is a body blow to the U.S. Constitution, writes Andrew P. Napolitano. 
+      By Andrew P. Napolitano The United States invasion of Venezuela and kidnapping
+      of… Read more →
+    one_sentence_summary: Andrew P. Napolitano argues that the recent events in Caracas,
+      stemming from the expansion of presidential power, represent a significant threat
+      to the U.S. Constitution.
+    paragraph_summary: In his article, Andrew P. Napolitano argues that the recent turmoil
+      in Caracas, stemming from the expansion of presidential power, poses a significant
+      threat to the principles enshrined in the U.S. Constitution. He critiques the
+      U.S. invasion of Venezuela and the associated actions, suggesting that these developments
+      undermine constitutional governance and reflect a troubling trend in the exercise
+      of executive authority.
+    published: '2026-01-08T19:00:52+00:00'
+  - title: A Lawless Presidency
+    url: https://consortiumnews.com/2026/01/08/a-lawless-presidency/
+    text: The catastrophe we all witnessed in Caracas — the result of expanding presidential
+      power — is a body blow to the U.S. Constitution, writes Andrew P. Napolitano. 
+      By Andrew P. Napolitano The United States invasion of Venezuela and kidnapping
+      of… Read more →
+    one_sentence_summary: Andrew P. Napolitano argues that the recent events in Caracas,
+      stemming from the expansion of presidential power, represent a significant threat
+      to the U.S. Constitution.
+    paragraph_summary: In his article, Andrew P. Napolitano argues that the recent turmoil
+      in Caracas, stemming from the expansion of presidential power, poses a significant
+      threat to the principles enshrined in the U.S. Constitution. He critiques the
+      U.S. invasion of Venezuela and the associated actions, suggesting that these developments
+      undermine constitutional governance and reflect a troubling trend in the exercise
+      of executive authority.
+    published: '2026-01-08T19:00:52+00:00'
+  - title: Kathmandu & Dhaka Roared; Delhi Just Coughed
+    url: https://consortiumnews.com/2026/01/08/kathmandu-delhi-just-coughed/
+    text: In 2025, protests in Nepal and Bangladesh led to new governments. Meanwhile
+      in the Indian capital, pollution took over, writes Betwa Sharma. By Betwa Sharma
+      in Delhi, India Special to Consortium News If you were paying attention to South
+      Asia… Read more →
+    one_sentence_summary: In 2025, significant protests in Nepal and Bangladesh resulted
+      in new governments, while Delhi faced severe pollution issues, as reported by
+      Betwa Sharma.
+    paragraph_summary: In 2025, significant protests in Nepal and Bangladesh resulted
+      in the establishment of new governments, highlighting a wave of political change
+      in the region. Concurrently, Delhi, the capital of India, faced a severe pollution
+      crisis, drawing attention to the environmental challenges plaguing urban areas
+      in South Asia. Betwa Sharma reports on these interconnected developments, emphasizing
+      the contrasting political dynamics and environmental issues affecting the region.
+    published: '2026-01-08T17:00:05+00:00'
+  - title: Kathmandu & Dhaka Roared; Delhi Just Coughed
+    url: https://consortiumnews.com/2026/01/08/kathmandu-delhi-just-coughed/
+    text: In 2025, protests in Nepal and Bangladesh led to new governments. Meanwhile
+      in the Indian capital, pollution took over, writes Betwa Sharma. By Betwa Sharma
+      in Delhi, India Special to Consortium News If you were paying attention to South
+      Asia… Read more →
+    one_sentence_summary: In 2025, significant protests in Nepal and Bangladesh resulted
+      in new governments, while Delhi faced severe pollution issues, as reported by
+      Betwa Sharma.
+    paragraph_summary: In 2025, significant protests in Nepal and Bangladesh resulted
+      in the establishment of new governments, highlighting a wave of political change
+      in the region. Concurrently, Delhi, the capital of India, faced a severe pollution
+      crisis, drawing attention to the environmental challenges plaguing urban areas
+      in South Asia. Betwa Sharma reports on these interconnected developments, emphasizing
+      the contrasting political dynamics and environmental issues affecting the region.
+    published: '2026-01-08T17:00:05+00:00'
+  - title: MSM Bias on Russian Tanker & US Sanctions
+    url: https://consortiumnews.com/2026/01/08/msm-bias-on-russian-tanker-us-sanctions/
+    text: In a conversation with CN, X’s AI Grok ultimately admits why it gets geopolitical
+      stories so wrong. Can AI like Grok really be trained to be more accurate through
+      exchanges with the public even when it admits it errs? Grok… Read more →
+    one_sentence_summary: In a discussion with CN, X's AI Grok acknowledges its inaccuracies
+      in geopolitical reporting and questions whether public interactions can improve
+      its training and accuracy despite its admissions of error.
+    paragraph_summary: In a discussion with CN, X's AI Grok acknowledges its frequent
+      inaccuracies in reporting geopolitical stories, raising questions about the potential
+      for AI to improve its accuracy through public interactions. Despite Grok's admission
+      of errors, the conversation explores whether such exchanges can effectively enhance
+      the AI's understanding and reliability in delivering news.
+    published: '2026-01-08T08:06:10+00:00'
+  - title: MSM Bias on Russian Tanker & US Sanctions
+    url: https://consortiumnews.com/2026/01/08/msm-bias-on-russian-tanker-us-sanctions/
+    text: In a conversation with CN, X’s AI Grok ultimately admits why it gets geopolitical
+      stories so wrong. Can AI like Grok really be trained to be more accurate through
+      exchanges with the public even when it admits it errs? Grok… Read more →
+    one_sentence_summary: In a discussion with CN, X's AI Grok acknowledges its inaccuracies
+      in geopolitical reporting and questions whether public interactions can improve
+      its training and accuracy despite its admissions of error.
+    paragraph_summary: In a discussion with CN, X's AI Grok acknowledges its frequent
+      inaccuracies in reporting geopolitical stories, raising questions about the potential
+      for AI to improve its accuracy through public interactions. Despite Grok's admission
+      of errors, the conversation explores whether such exchanges can effectively enhance
+      the AI's understanding and reliability in delivering news.
+    published: '2026-01-08T08:06:10+00:00'
+  - title: 'Jonathan Cook: 4 Observations on Maduro Kidnap'
+    url: https://consortiumnews.com/2026/01/07/jonathan-cook-4-observations-on-maduro-kidnap/
+    text: A unipolar world leaves all of us prey to Trump’s destabilizing gangsterism
+      and a rapacious, destructive, U.S. corporate capitalism. By Jonathan Cook Jonathan-Cook.net
+      Four observations on the Trump administration’s flagrant lawbreaking in abducting
+      Venezuela’s president, Nicolas Maduro, from Caracas and… Read more →
+    one_sentence_summary: The article critiques the unipolar world under U.S. influence,
+      highlighting how Trump's aggressive actions, including the illegal attempt to
+      abduct Venezuelan President Nicolas Maduro, exemplify a destabilizing and exploitative
+      corporate capitalism.
+    paragraph_summary: In his article, Jonathan Cook critiques the implications of a
+      unipolar world dominated by the United States, arguing that it exposes nations
+      to the destabilizing actions of figures like Donald Trump and the aggressive nature
+      of U.S. corporate capitalism. He specifically highlights the Trump administration's
+      unlawful attempts to abduct Venezuelan President Nicolas Maduro, illustrating
+      how such actions exemplify a broader pattern of U.S. interventionism that undermines
+      global stability and sovereignty. Cook's observations underscore the dangers of
+      a single superpower's unchecked influence on international relations and the potential
+      consequences for countries like Venezuela.
+    published: '2026-01-08T04:10:04+00:00'
+  - title: 'Jonathan Cook: 4 Observations on Maduro Kidnap'
+    url: https://consortiumnews.com/2026/01/07/jonathan-cook-4-observations-on-maduro-kidnap/
+    text: A unipolar world leaves all of us prey to Trump’s destabilizing gangsterism
+      and a rapacious, destructive, U.S. corporate capitalism. By Jonathan Cook Jonathan-Cook.net
+      Four observations on the Trump administration’s flagrant lawbreaking in abducting
+      Venezuela’s president, Nicolas Maduro, from Caracas and… Read more →
+    one_sentence_summary: The article critiques the unipolar world under U.S. influence,
+      highlighting how Trump's aggressive actions, including the illegal attempt to
+      abduct Venezuelan President Nicolas Maduro, exemplify a destabilizing and exploitative
+      corporate capitalism.
+    paragraph_summary: In his article, Jonathan Cook critiques the implications of a
+      unipolar world dominated by the United States, arguing that it exposes nations
+      to the destabilizing actions of figures like Donald Trump and the aggressive nature
+      of U.S. corporate capitalism. He specifically highlights the Trump administration's
+      unlawful attempts to abduct Venezuelan President Nicolas Maduro, illustrating
+      how such actions exemplify a broader pattern of U.S. interventionism that undermines
+      global stability and sovereignty. Cook's observations underscore the dangers of
+      a single superpower's unchecked influence on international relations and the potential
+      consequences for countries like Venezuela.
+    published: '2026-01-08T04:10:04+00:00'
+  - title: How Britain Helped Trump Destabilize Venezuela
+    url: https://consortiumnews.com/2026/01/07/how-britain-helped-trump-destabilize-venezuela/
+    text: Keir Starmer says the U.K. was “not involved” in the kidnapping of Nicolás
+      Maduro. But Britain has been supporting regime change in Venezuela for years,
+      John McEvoy reports.  By John McEvoy  Declassified UK During the early hours of
+      Saturday morning, U.S.… Read more →
+    one_sentence_summary: Keir Starmer denied U.K. involvement in Nicolás Maduro's kidnapping,
+      despite the country's long-standing support for regime change in Venezuela, according
+      to John McEvoy.
+    paragraph_summary: Keir Starmer has stated that the U.K. was "not involved" in the
+      kidnapping of Venezuelan leader Nicolás Maduro, despite evidence suggesting that
+      Britain has been backing efforts for regime change in Venezuela for years. John
+      McEvoy's report for Declassified UK highlights the complexities of the U.K.'s
+      foreign policy in relation to Venezuela, indicating a long-standing support for
+      actions aimed at destabilizing Maduro's government.
+    published: '2026-01-07T19:00:35+00:00'
+  - title: How Britain Helped Trump Destabilize Venezuela
+    url: https://consortiumnews.com/2026/01/07/how-britain-helped-trump-destabilize-venezuela/
+    text: Keir Starmer says the U.K. was “not involved” in the kidnapping of Nicolás
+      Maduro. But Britain has been supporting regime change in Venezuela for years,
+      John McEvoy reports.  By John McEvoy  Declassified UK During the early hours of
+      Saturday morning, U.S.… Read more →
+    one_sentence_summary: Keir Starmer denied U.K. involvement in Nicolás Maduro's kidnapping,
+      despite the country's long-standing support for regime change in Venezuela, according
+      to John McEvoy.
+    paragraph_summary: Keir Starmer has stated that the U.K. was "not involved" in the
+      kidnapping of Venezuelan leader Nicolás Maduro, despite evidence suggesting that
+      Britain has been backing efforts for regime change in Venezuela for years. John
+      McEvoy's report for Declassified UK highlights the complexities of the U.K.'s
+      foreign policy in relation to Venezuela, indicating a long-standing support for
+      actions aimed at destabilizing Maduro's government.
+    published: '2026-01-07T19:00:35+00:00'
+  - title: 'Hedges Report: America the Rogue State'
+    url: https://consortiumnews.com/2026/01/07/hedges-report-america-the-rogue-state/
+    text: Iraqis, a million of whom were killed during the U.S. war and occupation,
+      know what comes next for Venezuela. The reigning gangsters will use the threat
+      of death and destruction to procure subservience. By Chris Hedges ScheerPost The
+      ruling class of… Read more →
+    one_sentence_summary: The article by Chris Hedges argues that Iraqis, having experienced
+      the devastating consequences of U.S. intervention, recognize that Venezuela's
+      ruling elite will resort to violence and intimidation to maintain control and
+      suppress dissent.
+    paragraph_summary: In an article by Chris Hedges for ScheerPost, he draws parallels
+      between the experiences of Iraqis, who suffered greatly during the U.S. war and
+      occupation, and the current situation in Venezuela. He argues that the ruling
+      class in Venezuela, similar to those in Iraq, will resort to intimidation and
+      violence to maintain control and ensure obedience among the populace. Hedges emphasizes
+      the cyclical nature of power dynamics and the impact of external interventions
+      on nations facing internal strife.
+    published: '2026-01-07T13:06:15+00:00'
+  - title: 'Hedges Report: America the Rogue State'
+    url: https://consortiumnews.com/2026/01/07/hedges-report-america-the-rogue-state/
+    text: Iraqis, a million of whom were killed during the U.S. war and occupation,
+      know what comes next for Venezuela. The reigning gangsters will use the threat
+      of death and destruction to procure subservience. By Chris Hedges ScheerPost The
+      ruling class of… Read more →
+    one_sentence_summary: The article by Chris Hedges argues that Iraqis, having experienced
+      the devastating consequences of U.S. intervention, recognize that Venezuela's
+      ruling elite will resort to violence and intimidation to maintain control and
+      suppress dissent.
+    paragraph_summary: In an article by Chris Hedges for ScheerPost, he draws parallels
+      between the experiences of Iraqis, who suffered greatly during the U.S. war and
+      occupation, and the current situation in Venezuela. He argues that the ruling
+      class in Venezuela, similar to those in Iraq, will resort to intimidation and
+      violence to maintain control and ensure obedience among the populace. Hedges emphasizes
+      the cyclical nature of power dynamics and the impact of external interventions
+      on nations facing internal strife.
+    published: '2026-01-07T13:06:15+00:00'
   - title: White House Can’t Make Venezuela Attack Legal
     url: https://consortiumnews.com/2026/01/06/white-house-cant-make-venezuela-attack-legal/
     text: Marjorie Cohn rebuts the efforts by the Trump administration — including the

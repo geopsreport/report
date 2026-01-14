@@ -8,16 +8,1658 @@ websites:
   - https://michael-hudson.com/
   - https://geopoliticaleconomy.com/author/michael-hudson/
 summary: |
-  As the first week of January 2026 unfolds, the global geopolitical landscape remains shaped by the United States’ assertive security doctrine, persistent economic fragmentation in Europe, and notable political shifts in major Western cities.
+  Recent developments in U.S. foreign and economic policy continue to underscore a broader shift away from the post-World War II order, with energy and financial instruments increasingly deployed as tools of geopolitical leverage. The latest analyses by **Michael Hudson** highlight several key areas where these trends are most pronounced.
   
-  A central development is the United States’ updated national security strategy, which now explicitly identifies China as its primary adversary. According to **Michael Hudson**, this marks a deepening of Washington’s reliance on controlling other nations’ environments to ensure its own security. The consensus among analysts is that this approach is not only escalating tensions with China but also increasing risks for global stability. **Hudson** notes, “The U.S. is defining its security in terms of its ability to control the policies and economies of other countries,” a stance that is likely to provoke further pushback from both China and non-aligned states.
+  The most recent reports focus on Washington’s ongoing strategy of weaponizing energy markets. According to **Hudson**, the U.S. has systematically targeted countries such as Iran, Iraq, Libya, Russia, Syria, and Venezuela, aiming to prevent them from leveraging their oil resources for independent development. This approach, he argues, is not merely episodic but a consistent feature of U.S. policy designed to uphold its unipolar dominance. The use of sanctions and market manipulation has, in Hudson’s view, become a central pillar of American diplomacy, with significant repercussions for global energy security and the autonomy of resource-rich states.
   
-  Meanwhile, Europe continues to face significant economic headwinds, much of which stem from its alignment with U.S. foreign policy objectives. The freezing of Russian assets and ongoing sanctions have led to what **Hudson** describes as “real European fallout,” with mounting pressure on European leaders to reconsider their strategic orientation. There is a growing recognition that, without a fundamental rethinking of its geopolitical strategy, Europe risks deeper economic fragmentation and diminished global influence. The majority view is that unless Europe pivots towards a more independent policy stance, its economic woes will intensify—there is a high chance this trend will persist through 2026.
+  Parallel to this, the rapid transformation of U.S. national security strategy is accelerating the disintegration of the old economic order. In a recent discussion with **Glenn Diesen**, Hudson emphasizes that these changes are structural, not simply the result of individual leaders or administrations. The shift is characterized by a move toward coercive economic measures and a retreat from traditional industrial policy, contributing to what Hudson describes as “deindustrialisation meets coercion.” This trend is evident in both the U.S. and its European allies, who face mounting challenges as they align with Washington’s confrontational stance.
   
-  On the domestic front in the United States, the recent New York mayoral election has sent shockwaves through the Democratic Party establishment. The victory of Zohran Mamdani, a Muslim socialist immigrant, despite substantial opposition funding, is seen by **Hudson** as a sign of “the party machines losing their grip.” This outcome suggests a possible realignment within the Democratic Party, with grassroots movements gaining momentum against traditional donor-driven politics. While it is too early to predict a nationwide shift, there is a high chance that similar insurgent campaigns will emerge in other major cities.
+  Looking ahead, the majority of analysts cited by Hudson agree that these strategies are likely to persist. There is a high chance—if not a guarantee—that the U.S. will continue to use energy and financial leverage to pursue its geopolitical objectives, especially as competition with China intensifies. The confidence in this prediction is reinforced by the structural nature of the policy shifts, which are seen as responses to deeper systemic pressures rather than temporary political choices.
   
-  In summary, the prevailing trends point to a world where U.S. security ambitions are generating new global risks, Europe faces the prospect of further economic decline unless it rethinks its alliances, and Western political systems are experiencing grassroots-driven realignments. Most analysts agree that these dynamics are set to continue, with a high likelihood of increased geopolitical polarization and domestic political upheaval in the months ahead.
+  In summary, the current trajectory points toward a more fragmented global order, with energy and economic coercion at the forefront of U.S. strategy. The expectation is that these trends will not only continue but intensify, leading to further instability and realignment in international relations.
 articles:
+  - title: How Washington Uses Energy as a Weapon
+    url: https://michael-hudson.com/2026/01/how-washington-uses-energy-as-a-weapon/
+    text: 'Weaponizing the World’s Oil Trade is the Bedrock of the U.S. Rules-Based
+      Order Iran (1953), Iraq (2003), Libya (2011), Russia (2022), Syria (2024), and
+      now Venezuela (2026). The common denominator underlying the U.S. attacks and economic
+      sanctions against all these countries is America’s weaponization of the world’s
+      oil trade. Control over oil is one of its key methods for achieving unipolar control
+      over the world’s broad trade and dollarized financial arrangements. The prospect
+      of the above-mentioned countries using their oil for their own benefit and diplomacy
+      poses the most serious threat to America’s overall ability to use the oil trade
+      to enforce the aims of its diplomacy. All modern economies need oil to power their
+      factories, heat and light their homes, produce fertilizers (from gas) and plastics
+      (from oil), and fuel their transportation. Oil under U.S. control or that of its
+      allies (British Petroleum, Holland’s Shell and today OPEC) has long been a potential
+      choke point that U.S. officials can use as leverage against countries whose policies
+      they consider adverse to U.S. designs: the United States can plunge the economies
+      of such countries into chaos by cutting off their access to oil. The overriding
+      aim of today’s U.S. diplomacy in what its strategists call a civilizational war
+      against China, Russia and their prospective BRICS allies is to block the withdrawal
+      of countries from the U.S.-controlled world economy and frustrate the emergence
+      of a Eurasian-centered economic grouping. But in contrast to America’s position
+      at the end of World War II when it was the world’s dominant economic and monetary
+      power, today it has few positive inducements to attract foreign countries to a
+      U.S.-centered world economy in which, as President Trump has said, the United
+      States must be the gainer in any foreign trade and investment arrangement, and
+      other countries must be the losers. It was to isolate Russia, and behind it China
+      and Iran, that President Trump used his Liberation Day tariffs of April 2, 2025
+      to pressure German and EU leaders to voluntarily refrain from importing further
+      energy from Russia, despite the fact that parts of the Nord Stream 2 pipeline
+      were still operative. Germany’s and the EU’s earlier acceptance of the destruction
+      of the Nord Stream pipelines in February 2022 is testimony to the ability of U.S.
+      diplomats to force countries to join – to their own detriment – America’s Cold
+      War military alliances and follow the policies that it lays down. Germany’s deindustrialization
+      and loss of competitiveness since its oil and gas trade with Russia was blocked
+      was the sacrifice demanded of it (and the EU) by the United States in its drive
+      to isolate and hurt the Russian and Chinese economies (and also to generate additional
+      LNG export revenues for itself, to be sure). An overarching fefature of U.S. national
+      security policy is its power to block other countries from protecting and acting
+      in their own security and economic interests. This asymmetry has been built into
+      the world economy since the end of World War II, when the United States had enormous
+      economic support to offer Europe’s war-torn economies. But today’s American power
+      to coerce is backed mainly by its threats to cause injury and chaos by creating
+      and exploiting choke points or, as a last resort, bombing weaker countries to
+      force their compliance. This destructive leverage is the only policy tool left
+      to a U.S. economy that has deindustrialized and fallen into foreign debt of a
+      magnitude that now threatens to end the dollar’s dominant and lucrative monetary
+      role. Money at the end of World War II was the Western economies’ major choke
+      point. The U.S. Treasury was on its way to increasing its gold holdings to 80%
+      of the world’s monetary gold – on which foreign financial expansion was dependent
+      under the Dollar/Gold standard for international payments that lasted until 1971.
+      With most countries lacking monetary gold and needing to borrow to finance their
+      foreign trade and balance-of-payments deficits, U.S. diplomats used the International
+      Monetary Fund and World Bank to lend on conditions that imposed pro-U.S. privatization
+      policies, regressive taxation and an opening of foreign economies to U.S. investors.
+      All this has become part of the dollarized system of international trade and the
+      monetary policy that finances it. In addition to money, oil has become a major
+      international need – and hence a potential choke point. It also has long been
+      a mainstay of the U.S. trade balance (along with grain exports), and has been
+      the major support for the dollar’s dominant role in finance since 1974, when OPEC
+      countries quadrupled their oil prices and reached an arrangement with U.S. officials
+      to invest their export earnings by purchasing U.S. Treasury and corporate securities
+      and bank deposits – being told that not doing so would be considered an act of
+      war against the United States. The result was creation of the petrodollar market
+      that became a pillar of the U.S. balance of payments and hence of the dollar’s
+      strength. Ever since 1974, U.S. officials have sought not only to keep the world’s
+      trade in oil and other raw materials priced in dollars, but for oil and other
+      export surpluses to be lent to (or invested in) the United States. This is the
+      kind of “giveback” that Donald Trump has spent the past year negotiating with
+      foreign countries as a condition for permitting them to maintain access to the
+      U.S. market for their products. The most recent example of this insistence was
+      the Energy Department’s announcement on January 6 that the Trump administration
+      would permit Venezuela to export 30 to 50 million barrels of oil, worth up to
+      $2 billion, and for this to “continue indefinitely” on a selective basis, subject
+      to a key provision: “Proceeds will settle in U.S. controlled accounts at ‘globally
+      recognized banks’ and then be disbursed to the U.S. and Venezuelan populations
+      at the discretion’ of the Trump administration.” U.S. demands for priority privileges
+      for itself in world trade in vital raw materials In September 1973, the year before
+      OPEC’s price revolution, the United States overthrew Chile’s elected president
+      Salvador Allende. The problem was not the “Chileanization” of its copper industry.
+      That plan actually had been proposed by America’s Anaconda and Kennecott copper
+      companies. They saw the negotiated buyout of U.S. companies as working to raise
+      the world price of copper. That created a price umbrella for the companies to
+      increase profits on their own U.S. mining and refining. This was the same principle
+      that led oil companies to accept the 1974 OPEC nationalizations and price rise.
+      The key condition attached to the Chilean copper arrangement was that its copper
+      would be sold to U.S. companies as first in line, at whatever the Chilean price
+      was set. The U.S. copper companies needed this guarantee to assure their customers
+      for electric wiring, arms and other major applications of continuous supply. This
+      right of first refusal was a concession that did not involve an economic sacrifice
+      by Chile. But Allende insisted that this concession violated Chilean sovereignty.
+      That was a needless demand as far as Chile’s national self-interest was concerned,
+      but Allende stood firm – and was overthrown. In the case of Venezuela, what upsets
+      U.S. national security managers the most is that it has been supplying 5% of China’s
+      oil needs. It also was supplying Iran and Cuba, although Russia has increasingly
+      replaced it as supplier to these two countries since 2023. This Russian and Venezuelan
+      freedom to export oil by has weakened the ability of U.S. officials to use oil
+      as a weapon to squeeze other economies by threatening them with the same withdrawal
+      of energy that has wrecked German industry and price levels. This supply of oil
+      not under U.S. control thus was held to be an infringement of the U.S. rules-based
+      order. To make matters worse, Venezuela announced in 2017 that it was going to
+      start pricing its oil exports in non-dollar currencies, threatening the petrodollar
+      market practice. And as China became an investor in Venezuela’s oil industry,
+      there was talk of President Maduro starting to list the price of its oil exports
+      in Chinese yuan (much as Zambia has just done with its copper exports). Maduro
+      made clear the challenging gauntlet that he was laying down. Already in 2017 he
+      had announced that his aim was to end “the U.S. imperialist system.” The unwritten
+      U.S. rules-based order governs today’s world economy, not the UN Charter U.S.
+      diplomacy does not feel secure unless it can make other countries insecure, and
+      views its freedom of action threatened if other countries are permitted freedom
+      to decide with whom they will trade and what they choose to do with their savings.
+      The U.S. foreign policy of creating choke points to keep other countries dependent
+      on oil under U.S. control, not oil supplied by Russia, Iran or Venezuela, is one
+      of America’s key means of making other countries insecure. But this policy has
+      not hitherto been written down in public documents. Until the past week’s blunt
+      statements by Trump and his advisors, U.S. diplomats seem to have been embarrassed
+      to come right out and explicitly state this and kindred foundational principles
+      of America’s rules-based order. The reason for this reluctance was that these
+      principles are antithetical to international law (and also to the free-market
+      principles, to which the United States has hitherto subscribed, at least in its
+      rhetoric). America’s military attack on Venezuela and abduction of President Maduro
+      is the most recent example of this. While America’s leadership consider its aggression
+      a permissible exercise of its rules-based order principles, it is a flagrant violation
+      – indeed repudiation – of international law, most notably Article 2(4) of the
+      United Nations Charter that states, in effect, that “a nation may not use force
+      on the sovereign territory of another country without its consent, a self-defense
+      rationale, or the authorization of the U.N. Security Council.” Amazing as it might
+      seem, the United States frequently justifies its military aggression and threats
+      on the grounds of self-defense. The Financial Times columnist Gideon Rachman,
+      for example, reports that “the US believes that its own national security would
+      be imperiled if the Taiwanese semiconductor industry falls into the hands of China
+      – or if Beijing controls the shipping that passes through the South China Sea.”
+      America seems to be the most threatened and vulnerable country in the world, far
+      fallen from its former power. Trump himself seems to live in fear, even citing
+      Greenland’s geographic location as threatening U.S. national security: “We need
+      Greenland from the standpoint of national security,” he told reporters on Air
+      Force One on January 4. “Greenland is covered with Russian and Chinese ships all
+      over the place. He has promised to deal with Greenland in the next two months.
+      And EU heads are backing Trump as the ultimate protector of Europe against such
+      threats. The president of Latvia has helpfully suggested that the “legitimate
+      security needs of the U.S.” have to be addressed in a “direct dialogue” between
+      the U.S. and Denmark. Greenland should be part of the United States,” said Stephen
+      Miller, Trump’s Deputy Chief of Staff for Policy and Homeland Security. “The president
+      has been very clear about that, that is the formal position of the US government.”
+      Dismissing the idea that the takeover of Greenland would involve a military operation,
+      he warned that “nobody’s going to fight the United States militarily over the
+      future of Greenland.” Least of all the Danes, apparently. The most sinister aspect
+      of Trump’s threats to annex Greenland to the United States in early 2026 was the
+      U.S. intention —  supported by NATO – to block access to the Arctic from the North
+      Atlantic “on both sides of the by Greenland-Iceland-United Kingdom gap through
+      which Russia – of Chinese – vessels must pass to enter the North Atlantic.” A
+      NATO spokesperson referred to comments made by secretary-general Mark Rutte on
+      [January 6] in which he said ‘NATO collectively … has to make sure that the Arctic
+      stays safe.” Rutte himself told CNN that “We [NATO members] all agree that the
+      Russians and Chinese are more and more active in that area” left no doubt that
+      keeping the Arctic Ocean “safe” means “free” of the Chinese and Russian shipping
+      that both countries have been working to develop so as to shorten shipping routes
+      and times. A Wall Street Journal editorial backs the claim that America needs
+      to defend itself against countries that remain independent of U.S. control. Pointing
+      out that “[t]he U.S. also claimed self-defense as grounds to arrest Panamanian
+      dictator Manuel Noriega,” the newspaper argues that military overthrow is “the
+      only defense against global rogues.” More to the point, it warns that it would
+      be an idealistic but anachronistic illusion to imagine that international law
+      actually governs the actions of nations. “As if Moscow and Beijing don’t already
+      trample international law when it gets in their way,” it snorts, dismissing the
+      relevance of international law as having become “a tyrant’s best friend.” The
+      actual law of nations always has of course ultimately been subject to the use
+      of force and the principle of Might Makes Right. Trump’s advisor Stephen Miller
+      spelled out his philosophy in a CNN interview: “We live in a world, in the real
+      world … that is governed by strength, that is governed by force, that is governed
+      by power. These are the iron laws of the world since the beginning of time.” American
+      diplomats may simply shrug and ask how many troops the United Nations has. It
+      has none, and Security Council resolutions in any case are subject to U.S. veto.
+      And the United States simply ignores the provisions of the UN Charter, as the
+      world has just seen with the kidnapping of Venezuela’s head of state. It is the
+      U.S. rules that serve as the operative law to which other countries are subject,
+      at least those in the U.S. trade, financial and military orbit. Trump has no embarrassment
+      in acknowledging the operative principle applying to his latest international
+      diplomacy: “We want Venezuela’s oil.” He already had confiscated oil in transit
+      from tankers leaving Venezuela in the past month. And he has announced that if
+      Venezuela’s interim president Delcy Rodriguez does not voluntarily agree to surrender
+      control of its oil, the U.S. military will turn its oil reserves over to U.S.
+      companies and bring in a new client kleptocrat or dictator to rule the country
+      on behalf of U.S. interests. When the U.S. State Department pressed OPEC countries
+      to recycle their oil-export earnings into U.S. dollar securities in 1974, OPEC
+      leaders were willing to do this, because the United States was by far the world’s
+      leading financial economy at that time. It still dominates the dollar-based financial
+      system, but no longer has its former industrial power, and has just cut back its
+      foreign aid and membership in the World Health Organization and other UN aid agencies.
+      Instead of supporting growth in other economies, its diplomatic strength is now
+      based on its ability to disrupt their trade and economic growth. And its declining
+      industrial power is what has made U.S. action against Venezuela so urgent, with
+      its military aggression and ongoing threats against that country being part of
+      its attempt to deter countries from breaking away from the unwritten rules of
+      U.S. unipolar control of international trade and payments by dedollarizing their
+      trade and monetary relations. There is also a resource grab. Stephen Miller, Trump’s
+      major advisor noted above, stated bluntly that “sovereign countries don’t get
+      sovereignty if the US wants their resources.” His remarks followed a similarly
+      blunt statement at a UN Security Council emergency meeting by U.S. Ambassador
+      Michael Waltz: “You cannot continue to have the largest energy reserves in the
+      world under the control of adversaries of the United States.” The U.S. legal principle
+      is that “possession is nine-tenths of the law.” And the law at work in the present
+      case is that of the United States, not of Venezuela or the United Nations. A number
+      of other principles are at work, headed by the above-mentioned right of self-defense
+      under America’s “Stand your ground” permission to defend oneself. The cover story
+      for Trump’s attack on Venezuela (media-tested by Fox News and polling surveys)
+      is that Venezuela threatens the United States with cocaine and other drugs. Or
+      at least with drugs that are not coordinated by the CIA and American military
+      as has been documented from Vietnam to Afghanistan and Colombia. The court indictment
+      against Maduro however made no reference to Trump’s claims of a “Cartel of the
+      Suns” that he was alleged to head, but cited mainly unrelated charges about his
+      carrying a machine gun and similar charges inapplicable to a foreign head of state.
+      There was no indictment of Maduro for his real offences in the eyes of the United
+      States: threatening America’s ability to control his country’s oil and its marketing,
+      and his intent to price Venezuela’s oil in yuan and other non-dollar currencies
+      and use its oil-export proceeds to pay China for its investments in his country.
+      The appropriate analogy for the trumped-up drug charges against Maduro is the
+      bogus claim – used to justify America’s 2003 invasion of Iraq – that Saddam Hussain
+      was working to obtain weapons of mass destruction. That was enough to derail respect
+      for Secretary of State Colin Powell after his February 5, 2003 speech before the
+      United Nations. But under America’s “stand your ground” principle, the United
+      States had reason to be threatened by Venezuela’s attempt to take control of its
+      oil trade – and indeed, to trade with America’s designated adversaries China,
+      Russia and Iran. America’s aggression in response to that threat was supported
+      by the related U.S. principle that permits home owners or policemen to kill whomever
+      they think might be a threat, as subjective or an after-the-fact excuse as this
+      might be. While justified by these principles of America’s rules-based-order,
+      Trump’s latest weaponization of the oil trade has, as discussed above, involved
+      the United States repudiating fundamental principles of international law, including
+      the law of the sea. Before his military attack on Caracas and abduction of President
+      Maduro, his embargo against Venezuelan oil exports (to any buyer except U.S. oil
+      companies) and seizure of tankers carrying the country’s oil were especially egregious,
+      not to mention his bombing of unidentified fishing boats and other vessels off
+      the coast of Venezuela, murdering their crews without warning. Another casualty
+      of the U.S. emphasis on weaponizing the world’s oil and energy trade is the environment.
+      As part of its quest to make the rest of the world dependent on oil and gas under
+      the firm control of itself and its allies, the United States is fighting to prevent
+      other countries from de-carbonizing their economies in their attempt to avert
+      a climate crisis and its extreme weather. The U.S. thus opposes the Paris Climate
+      Agreement supporting “green” policy to replace carbon fuels with wind and solar
+      energy. The problem for America is that wind and solar power provide an alternative
+      to oil, which the United States seeks to control. Phasing out oil would remove
+      not only a buttress of the U.S. trade balance, but deprive its strategists of
+      the ability to turn off the lights and heat of countries whose policies it opposes.
+      And to make matters worse, China has taken the lead in renewable energy technology,
+      including the production of solar energy panels and windmill blades. This is seen
+      as a major threat as it increases the risk of other economies becoming independent
+      of reliance on oil. Meanwhile, U.S. opposition to fuels other than oil under its
+      control has caused blowback damage to the U.S. economy itself, by blocking its
+      own investment in solar and wind energy. The Trump administration has been particularly
+      aggressive in not only blocking foreign moves to reduce carbon fuels but U.S.
+      alternatives as well. “On the first day of his second presidential term, Mr. Trump
+      issued an executive order halting all leasing of federal lands and waters for
+      new wind farms. His administration has since gone after wind farms that had received
+      permits from the Biden administration and were either under construction or about
+      to start operation, using shifting explanations.” It “has suspended leases on
+      all offshore wind projects in a fresh attack on the sector,” citing national security
+      concerns. What make this move against alternative energy sources all the more
+      striking is America’s projected electricity shortage anticipated to be caused
+      by soaring demand by AI computer centers, in circumstances where America has great
+      hopes for artificial intelligence (AI). Next to its oil resource rents, U.S. strategists
+      hope to increase America’s monopoly rents at the expense of other countries through
+      its information technology, internet platform companies and (they hope) dominance
+      in AI. The problem is that AI requires enormous energy to operate its computers.
+      But the U.S. trend in energy production has been flat for the past decade, and
+      investment in new power facilities is a time-consuming and bureaucratic process
+      (hence the above-noted projected energy shortage). This is in sharp contrast to
+      China’s enormous rise in electricity production, largely as a result of the intensive
+      production of solar panels and windmills in which it has established a wide technological
+      lead – while U.S. practice has avoided this energy source as “not invented here”
+      and, more fundamentally, for having the potential to undermine its attempt to
+      make the world dependent on oil it controls. Summary: The key demands of the U.S.
+      rules-based order relating to oil are: Control of the world’s oil trade is to
+      remain a U.S. privilege The United States is to control the world’s oil trade.
+      It must be able to decide what countries are permitted to supply its allies with
+      oil and to which countries its allied oil exporters are permitted to sell their
+      oil. This means banning allies from importing oil from countries such as Russia,
+      Iran and Venezuela. It also entails interference with its adversaries’ oil exports
+      (as has just occurred with the blockading and seizure of Venezuelan oil exports,
+      and has been occurring against Russia’s oil fleet) and military aggression to
+      take the oil of its adversaries. Iraq’s and Syria’s oil was simply stolen by U.S.
+      occupiers and is being provided to Israel. Libya’s oil too was seized in 2011
+      and has remained disrupted. The Oil Trade must be priced and paid for in U.S.
+      dollars Oil and other exports are to be priced in dollars and marketed through
+      Western commodity exchanges, with payments being made through Western banks using
+      the SWIFT system, all of which are under effective U.S. diplomatic control. The
+      Petrodollar Rule Furthermore, international oil-export earnings are to be lent
+      to, or invested in, the United States, preferably in the form of U.S. Treasury
+      securities, corporate bonds and bank deposits. “Green” energy alternatives to
+      oil are to be discouraged, and the phenomenon of global warming and extreme weather
+      denied . To promote continued U.S. control of energy markets, non-carbon alternatives
+      to oil and gas – and green environmental protection policies supporting such alternatives
+      –are to be discouraged, because alternative energy sources reduce the leverage
+      that U.S. diplomacy possesses to impose the foregoing rules. No laws apply to
+      or limit U.S. rules or policies Finally, the United States and its leading allies
+      are to be immune from foreign attempts to block its policies, including attempts
+      through the United Nations and international courts. It must maintain its ability
+      to veto UN Security Council resolutions and will simply ignore UN General Assembly
+      resolutions and international court orders that it opposes. This principle leads
+      the United States to oppose the creation of any alternative courts or bodies of
+      law, and above all to prevent such authorities from having the military power
+      to enforce their decisions. *This article was first published by The Democracy
+      Collaborative at democracycollaborative.org. Photo by Jorge Brito on Unsplash
+      The post How Washington Uses Energy as a Weapon first appeared on Michael Hudson
+      .'
+    one_sentence_summary: The article argues that the U.S. has consistently weaponized
+      the global oil trade to maintain its unipolar dominance and enforce its diplomatic
+      objectives, targeting countries like Iran, Iraq, Libya, Russia, Syria, and Venezuela
+      to prevent them from using their oil resources for their own benefit.
+    paragraph_summary: The article discusses the United States' strategic use of oil
+      trade as a tool for exerting global dominance and enforcing its foreign policy
+      objectives, particularly against countries like Iran, Iraq, Libya, Russia, Syria,
+      and Venezuela. It argues that U.S. control over oil resources is crucial for maintaining
+      its unipolar influence in the world economy, as oil is essential for modern industrial
+      activities and daily life. By leveraging oil access, the U.S. can destabilize
+      nations that oppose its interests, thereby preventing them from using their oil
+      resources for independent diplomatic strategies. The article highlights the challenges
+      the U.S. faces today, as it struggles to maintain its economic hegemony in a changing
+      geopolitical landscape, particularly against rising powers like China and Russia,
+      and emphasizes the diminishing appeal of a U.S.-centric economic model in a multipolar
+      world.
+    published: '2026-01-13T01:23:21+00:00'
+  - title: How Washington Uses Energy as a Weapon
+    url: https://michael-hudson.com/2026/01/how-washington-uses-energy-as-a-weapon/
+    text: 'Weaponizing the World’s Oil Trade is the Bedrock of the U.S. Rules-Based
+      Order Iran (1953), Iraq (2003), Libya (2011), Russia (2022), Syria (2024), and
+      now Venezuela (2026). The common denominator underlying the U.S. attacks and economic
+      sanctions against all these countries is America’s weaponization of the world’s
+      oil trade. Control over oil is one of its key methods for achieving unipolar control
+      over the world’s broad trade and dollarized financial arrangements. The prospect
+      of the above-mentioned countries using their oil for their own benefit and diplomacy
+      poses the most serious threat to America’s overall ability to use the oil trade
+      to enforce the aims of its diplomacy. All modern economies need oil to power their
+      factories, heat and light their homes, produce fertilizers (from gas) and plastics
+      (from oil), and fuel their transportation. Oil under U.S. control or that of its
+      allies (British Petroleum, Holland’s Shell and today OPEC) has long been a potential
+      choke point that U.S. officials can use as leverage against countries whose policies
+      they consider adverse to U.S. designs: the United States can plunge the economies
+      of such countries into chaos by cutting off their access to oil. The overriding
+      aim of today’s U.S. diplomacy in what its strategists call a civilizational war
+      against China, Russia and their prospective BRICS allies is to block the withdrawal
+      of countries from the U.S.-controlled world economy and frustrate the emergence
+      of a Eurasian-centered economic grouping. But in contrast to America’s position
+      at the end of World War II when it was the world’s dominant economic and monetary
+      power, today it has few positive inducements to attract foreign countries to a
+      U.S.-centered world economy in which, as President Trump has said, the United
+      States must be the gainer in any foreign trade and investment arrangement, and
+      other countries must be the losers. It was to isolate Russia, and behind it China
+      and Iran, that President Trump used his Liberation Day tariffs of April 2, 2025
+      to pressure German and EU leaders to voluntarily refrain from importing further
+      energy from Russia, despite the fact that parts of the Nord Stream 2 pipeline
+      were still operative. Germany’s and the EU’s earlier acceptance of the destruction
+      of the Nord Stream pipelines in February 2022 is testimony to the ability of U.S.
+      diplomats to force countries to join – to their own detriment – America’s Cold
+      War military alliances and follow the policies that it lays down. Germany’s deindustrialization
+      and loss of competitiveness since its oil and gas trade with Russia was blocked
+      was the sacrifice demanded of it (and the EU) by the United States in its drive
+      to isolate and hurt the Russian and Chinese economies (and also to generate additional
+      LNG export revenues for itself, to be sure). An overarching fefature of U.S. national
+      security policy is its power to block other countries from protecting and acting
+      in their own security and economic interests. This asymmetry has been built into
+      the world economy since the end of World War II, when the United States had enormous
+      economic support to offer Europe’s war-torn economies. But today’s American power
+      to coerce is backed mainly by its threats to cause injury and chaos by creating
+      and exploiting choke points or, as a last resort, bombing weaker countries to
+      force their compliance. This destructive leverage is the only policy tool left
+      to a U.S. economy that has deindustrialized and fallen into foreign debt of a
+      magnitude that now threatens to end the dollar’s dominant and lucrative monetary
+      role. Money at the end of World War II was the Western economies’ major choke
+      point. The U.S. Treasury was on its way to increasing its gold holdings to 80%
+      of the world’s monetary gold – on which foreign financial expansion was dependent
+      under the Dollar/Gold standard for international payments that lasted until 1971.
+      With most countries lacking monetary gold and needing to borrow to finance their
+      foreign trade and balance-of-payments deficits, U.S. diplomats used the International
+      Monetary Fund and World Bank to lend on conditions that imposed pro-U.S. privatization
+      policies, regressive taxation and an opening of foreign economies to U.S. investors.
+      All this has become part of the dollarized system of international trade and the
+      monetary policy that finances it. In addition to money, oil has become a major
+      international need – and hence a potential choke point. It also has long been
+      a mainstay of the U.S. trade balance (along with grain exports), and has been
+      the major support for the dollar’s dominant role in finance since 1974, when OPEC
+      countries quadrupled their oil prices and reached an arrangement with U.S. officials
+      to invest their export earnings by purchasing U.S. Treasury and corporate securities
+      and bank deposits – being told that not doing so would be considered an act of
+      war against the United States. The result was creation of the petrodollar market
+      that became a pillar of the U.S. balance of payments and hence of the dollar’s
+      strength. Ever since 1974, U.S. officials have sought not only to keep the world’s
+      trade in oil and other raw materials priced in dollars, but for oil and other
+      export surpluses to be lent to (or invested in) the United States. This is the
+      kind of “giveback” that Donald Trump has spent the past year negotiating with
+      foreign countries as a condition for permitting them to maintain access to the
+      U.S. market for their products. The most recent example of this insistence was
+      the Energy Department’s announcement on January 6 that the Trump administration
+      would permit Venezuela to export 30 to 50 million barrels of oil, worth up to
+      $2 billion, and for this to “continue indefinitely” on a selective basis, subject
+      to a key provision: “Proceeds will settle in U.S. controlled accounts at ‘globally
+      recognized banks’ and then be disbursed to the U.S. and Venezuelan populations
+      at the discretion’ of the Trump administration.” U.S. demands for priority privileges
+      for itself in world trade in vital raw materials In September 1973, the year before
+      OPEC’s price revolution, the United States overthrew Chile’s elected president
+      Salvador Allende. The problem was not the “Chileanization” of its copper industry.
+      That plan actually had been proposed by America’s Anaconda and Kennecott copper
+      companies. They saw the negotiated buyout of U.S. companies as working to raise
+      the world price of copper. That created a price umbrella for the companies to
+      increase profits on their own U.S. mining and refining. This was the same principle
+      that led oil companies to accept the 1974 OPEC nationalizations and price rise.
+      The key condition attached to the Chilean copper arrangement was that its copper
+      would be sold to U.S. companies as first in line, at whatever the Chilean price
+      was set. The U.S. copper companies needed this guarantee to assure their customers
+      for electric wiring, arms and other major applications of continuous supply. This
+      right of first refusal was a concession that did not involve an economic sacrifice
+      by Chile. But Allende insisted that this concession violated Chilean sovereignty.
+      That was a needless demand as far as Chile’s national self-interest was concerned,
+      but Allende stood firm – and was overthrown. In the case of Venezuela, what upsets
+      U.S. national security managers the most is that it has been supplying 5% of China’s
+      oil needs. It also was supplying Iran and Cuba, although Russia has increasingly
+      replaced it as supplier to these two countries since 2023. This Russian and Venezuelan
+      freedom to export oil by has weakened the ability of U.S. officials to use oil
+      as a weapon to squeeze other economies by threatening them with the same withdrawal
+      of energy that has wrecked German industry and price levels. This supply of oil
+      not under U.S. control thus was held to be an infringement of the U.S. rules-based
+      order. To make matters worse, Venezuela announced in 2017 that it was going to
+      start pricing its oil exports in non-dollar currencies, threatening the petrodollar
+      market practice. And as China became an investor in Venezuela’s oil industry,
+      there was talk of President Maduro starting to list the price of its oil exports
+      in Chinese yuan (much as Zambia has just done with its copper exports). Maduro
+      made clear the challenging gauntlet that he was laying down. Already in 2017 he
+      had announced that his aim was to end “the U.S. imperialist system.” The unwritten
+      U.S. rules-based order governs today’s world economy, not the UN Charter U.S.
+      diplomacy does not feel secure unless it can make other countries insecure, and
+      views its freedom of action threatened if other countries are permitted freedom
+      to decide with whom they will trade and what they choose to do with their savings.
+      The U.S. foreign policy of creating choke points to keep other countries dependent
+      on oil under U.S. control, not oil supplied by Russia, Iran or Venezuela, is one
+      of America’s key means of making other countries insecure. But this policy has
+      not hitherto been written down in public documents. Until the past week’s blunt
+      statements by Trump and his advisors, U.S. diplomats seem to have been embarrassed
+      to come right out and explicitly state this and kindred foundational principles
+      of America’s rules-based order. The reason for this reluctance was that these
+      principles are antithetical to international law (and also to the free-market
+      principles, to which the United States has hitherto subscribed, at least in its
+      rhetoric). America’s military attack on Venezuela and abduction of President Maduro
+      is the most recent example of this. While America’s leadership consider its aggression
+      a permissible exercise of its rules-based order principles, it is a flagrant violation
+      – indeed repudiation – of international law, most notably Article 2(4) of the
+      United Nations Charter that states, in effect, that “a nation may not use force
+      on the sovereign territory of another country without its consent, a self-defense
+      rationale, or the authorization of the U.N. Security Council.” Amazing as it might
+      seem, the United States frequently justifies its military aggression and threats
+      on the grounds of self-defense. The Financial Times columnist Gideon Rachman,
+      for example, reports that “the US believes that its own national security would
+      be imperiled if the Taiwanese semiconductor industry falls into the hands of China
+      – or if Beijing controls the shipping that passes through the South China Sea.”
+      America seems to be the most threatened and vulnerable country in the world, far
+      fallen from its former power. Trump himself seems to live in fear, even citing
+      Greenland’s geographic location as threatening U.S. national security: “We need
+      Greenland from the standpoint of national security,” he told reporters on Air
+      Force One on January 4. “Greenland is covered with Russian and Chinese ships all
+      over the place. He has promised to deal with Greenland in the next two months.
+      And EU heads are backing Trump as the ultimate protector of Europe against such
+      threats. The president of Latvia has helpfully suggested that the “legitimate
+      security needs of the U.S.” have to be addressed in a “direct dialogue” between
+      the U.S. and Denmark. Greenland should be part of the United States,” said Stephen
+      Miller, Trump’s Deputy Chief of Staff for Policy and Homeland Security. “The president
+      has been very clear about that, that is the formal position of the US government.”
+      Dismissing the idea that the takeover of Greenland would involve a military operation,
+      he warned that “nobody’s going to fight the United States militarily over the
+      future of Greenland.” Least of all the Danes, apparently. The most sinister aspect
+      of Trump’s threats to annex Greenland to the United States in early 2026 was the
+      U.S. intention —  supported by NATO – to block access to the Arctic from the North
+      Atlantic “on both sides of the by Greenland-Iceland-United Kingdom gap through
+      which Russia – of Chinese – vessels must pass to enter the North Atlantic.” A
+      NATO spokesperson referred to comments made by secretary-general Mark Rutte on
+      [January 6] in which he said ‘NATO collectively … has to make sure that the Arctic
+      stays safe.” Rutte himself told CNN that “We [NATO members] all agree that the
+      Russians and Chinese are more and more active in that area” left no doubt that
+      keeping the Arctic Ocean “safe” means “free” of the Chinese and Russian shipping
+      that both countries have been working to develop so as to shorten shipping routes
+      and times. A Wall Street Journal editorial backs the claim that America needs
+      to defend itself against countries that remain independent of U.S. control. Pointing
+      out that “[t]he U.S. also claimed self-defense as grounds to arrest Panamanian
+      dictator Manuel Noriega,” the newspaper argues that military overthrow is “the
+      only defense against global rogues.” More to the point, it warns that it would
+      be an idealistic but anachronistic illusion to imagine that international law
+      actually governs the actions of nations. “As if Moscow and Beijing don’t already
+      trample international law when it gets in their way,” it snorts, dismissing the
+      relevance of international law as having become “a tyrant’s best friend.” The
+      actual law of nations always has of course ultimately been subject to the use
+      of force and the principle of Might Makes Right. Trump’s advisor Stephen Miller
+      spelled out his philosophy in a CNN interview: “We live in a world, in the real
+      world … that is governed by strength, that is governed by force, that is governed
+      by power. These are the iron laws of the world since the beginning of time.” American
+      diplomats may simply shrug and ask how many troops the United Nations has. It
+      has none, and Security Council resolutions in any case are subject to U.S. veto.
+      And the United States simply ignores the provisions of the UN Charter, as the
+      world has just seen with the kidnapping of Venezuela’s head of state. It is the
+      U.S. rules that serve as the operative law to which other countries are subject,
+      at least those in the U.S. trade, financial and military orbit. Trump has no embarrassment
+      in acknowledging the operative principle applying to his latest international
+      diplomacy: “We want Venezuela’s oil.” He already had confiscated oil in transit
+      from tankers leaving Venezuela in the past month. And he has announced that if
+      Venezuela’s interim president Delcy Rodriguez does not voluntarily agree to surrender
+      control of its oil, the U.S. military will turn its oil reserves over to U.S.
+      companies and bring in a new client kleptocrat or dictator to rule the country
+      on behalf of U.S. interests. When the U.S. State Department pressed OPEC countries
+      to recycle their oil-export earnings into U.S. dollar securities in 1974, OPEC
+      leaders were willing to do this, because the United States was by far the world’s
+      leading financial economy at that time. It still dominates the dollar-based financial
+      system, but no longer has its former industrial power, and has just cut back its
+      foreign aid and membership in the World Health Organization and other UN aid agencies.
+      Instead of supporting growth in other economies, its diplomatic strength is now
+      based on its ability to disrupt their trade and economic growth. And its declining
+      industrial power is what has made U.S. action against Venezuela so urgent, with
+      its military aggression and ongoing threats against that country being part of
+      its attempt to deter countries from breaking away from the unwritten rules of
+      U.S. unipolar control of international trade and payments by dedollarizing their
+      trade and monetary relations. There is also a resource grab. Stephen Miller, Trump’s
+      major advisor noted above, stated bluntly that “sovereign countries don’t get
+      sovereignty if the US wants their resources.” His remarks followed a similarly
+      blunt statement at a UN Security Council emergency meeting by U.S. Ambassador
+      Michael Waltz: “You cannot continue to have the largest energy reserves in the
+      world under the control of adversaries of the United States.” The U.S. legal principle
+      is that “possession is nine-tenths of the law.” And the law at work in the present
+      case is that of the United States, not of Venezuela or the United Nations. A number
+      of other principles are at work, headed by the above-mentioned right of self-defense
+      under America’s “Stand your ground” permission to defend oneself. The cover story
+      for Trump’s attack on Venezuela (media-tested by Fox News and polling surveys)
+      is that Venezuela threatens the United States with cocaine and other drugs. Or
+      at least with drugs that are not coordinated by the CIA and American military
+      as has been documented from Vietnam to Afghanistan and Colombia. The court indictment
+      against Maduro however made no reference to Trump’s claims of a “Cartel of the
+      Suns” that he was alleged to head, but cited mainly unrelated charges about his
+      carrying a machine gun and similar charges inapplicable to a foreign head of state.
+      There was no indictment of Maduro for his real offences in the eyes of the United
+      States: threatening America’s ability to control his country’s oil and its marketing,
+      and his intent to price Venezuela’s oil in yuan and other non-dollar currencies
+      and use its oil-export proceeds to pay China for its investments in his country.
+      The appropriate analogy for the trumped-up drug charges against Maduro is the
+      bogus claim – used to justify America’s 2003 invasion of Iraq – that Saddam Hussain
+      was working to obtain weapons of mass destruction. That was enough to derail respect
+      for Secretary of State Colin Powell after his February 5, 2003 speech before the
+      United Nations. But under America’s “stand your ground” principle, the United
+      States had reason to be threatened by Venezuela’s attempt to take control of its
+      oil trade – and indeed, to trade with America’s designated adversaries China,
+      Russia and Iran. America’s aggression in response to that threat was supported
+      by the related U.S. principle that permits home owners or policemen to kill whomever
+      they think might be a threat, as subjective or an after-the-fact excuse as this
+      might be. While justified by these principles of America’s rules-based-order,
+      Trump’s latest weaponization of the oil trade has, as discussed above, involved
+      the United States repudiating fundamental principles of international law, including
+      the law of the sea. Before his military attack on Caracas and abduction of President
+      Maduro, his embargo against Venezuelan oil exports (to any buyer except U.S. oil
+      companies) and seizure of tankers carrying the country’s oil were especially egregious,
+      not to mention his bombing of unidentified fishing boats and other vessels off
+      the coast of Venezuela, murdering their crews without warning. Another casualty
+      of the U.S. emphasis on weaponizing the world’s oil and energy trade is the environment.
+      As part of its quest to make the rest of the world dependent on oil and gas under
+      the firm control of itself and its allies, the United States is fighting to prevent
+      other countries from de-carbonizing their economies in their attempt to avert
+      a climate crisis and its extreme weather. The U.S. thus opposes the Paris Climate
+      Agreement supporting “green” policy to replace carbon fuels with wind and solar
+      energy. The problem for America is that wind and solar power provide an alternative
+      to oil, which the United States seeks to control. Phasing out oil would remove
+      not only a buttress of the U.S. trade balance, but deprive its strategists of
+      the ability to turn off the lights and heat of countries whose policies it opposes.
+      And to make matters worse, China has taken the lead in renewable energy technology,
+      including the production of solar energy panels and windmill blades. This is seen
+      as a major threat as it increases the risk of other economies becoming independent
+      of reliance on oil. Meanwhile, U.S. opposition to fuels other than oil under its
+      control has caused blowback damage to the U.S. economy itself, by blocking its
+      own investment in solar and wind energy. The Trump administration has been particularly
+      aggressive in not only blocking foreign moves to reduce carbon fuels but U.S.
+      alternatives as well. “On the first day of his second presidential term, Mr. Trump
+      issued an executive order halting all leasing of federal lands and waters for
+      new wind farms. His administration has since gone after wind farms that had received
+      permits from the Biden administration and were either under construction or about
+      to start operation, using shifting explanations.” It “has suspended leases on
+      all offshore wind projects in a fresh attack on the sector,” citing national security
+      concerns. What make this move against alternative energy sources all the more
+      striking is America’s projected electricity shortage anticipated to be caused
+      by soaring demand by AI computer centers, in circumstances where America has great
+      hopes for artificial intelligence (AI). Next to its oil resource rents, U.S. strategists
+      hope to increase America’s monopoly rents at the expense of other countries through
+      its information technology, internet platform companies and (they hope) dominance
+      in AI. The problem is that AI requires enormous energy to operate its computers.
+      But the U.S. trend in energy production has been flat for the past decade, and
+      investment in new power facilities is a time-consuming and bureaucratic process
+      (hence the above-noted projected energy shortage). This is in sharp contrast to
+      China’s enormous rise in electricity production, largely as a result of the intensive
+      production of solar panels and windmills in which it has established a wide technological
+      lead – while U.S. practice has avoided this energy source as “not invented here”
+      and, more fundamentally, for having the potential to undermine its attempt to
+      make the world dependent on oil it controls. Summary: The key demands of the U.S.
+      rules-based order relating to oil are: Control of the world’s oil trade is to
+      remain a U.S. privilege The United States is to control the world’s oil trade.
+      It must be able to decide what countries are permitted to supply its allies with
+      oil and to which countries its allied oil exporters are permitted to sell their
+      oil. This means banning allies from importing oil from countries such as Russia,
+      Iran and Venezuela. It also entails interference with its adversaries’ oil exports
+      (as has just occurred with the blockading and seizure of Venezuelan oil exports,
+      and has been occurring against Russia’s oil fleet) and military aggression to
+      take the oil of its adversaries. Iraq’s and Syria’s oil was simply stolen by U.S.
+      occupiers and is being provided to Israel. Libya’s oil too was seized in 2011
+      and has remained disrupted. The Oil Trade must be priced and paid for in U.S.
+      dollars Oil and other exports are to be priced in dollars and marketed through
+      Western commodity exchanges, with payments being made through Western banks using
+      the SWIFT system, all of which are under effective U.S. diplomatic control. The
+      Petrodollar Rule Furthermore, international oil-export earnings are to be lent
+      to, or invested in, the United States, preferably in the form of U.S. Treasury
+      securities, corporate bonds and bank deposits. “Green” energy alternatives to
+      oil are to be discouraged, and the phenomenon of global warming and extreme weather
+      denied . To promote continued U.S. control of energy markets, non-carbon alternatives
+      to oil and gas – and green environmental protection policies supporting such alternatives
+      –are to be discouraged, because alternative energy sources reduce the leverage
+      that U.S. diplomacy possesses to impose the foregoing rules. No laws apply to
+      or limit U.S. rules or policies Finally, the United States and its leading allies
+      are to be immune from foreign attempts to block its policies, including attempts
+      through the United Nations and international courts. It must maintain its ability
+      to veto UN Security Council resolutions and will simply ignore UN General Assembly
+      resolutions and international court orders that it opposes. This principle leads
+      the United States to oppose the creation of any alternative courts or bodies of
+      law, and above all to prevent such authorities from having the military power
+      to enforce their decisions. *This article was first published by The Democracy
+      Collaborative at democracycollaborative.org. Photo by Jorge Brito on Unsplash
+      The post How Washington Uses Energy as a Weapon first appeared on Michael Hudson
+      .'
+    one_sentence_summary: The article argues that the U.S. has consistently weaponized
+      the global oil trade to maintain its unipolar dominance and enforce its diplomatic
+      objectives, targeting countries like Iran, Iraq, Libya, Russia, Syria, and Venezuela
+      to prevent them from using their oil resources for their own benefit.
+    paragraph_summary: The article discusses the United States' strategic use of oil
+      trade as a tool for exerting global dominance and enforcing its foreign policy
+      objectives, particularly against countries like Iran, Iraq, Libya, Russia, Syria,
+      and Venezuela. It argues that U.S. control over oil resources is crucial for maintaining
+      its unipolar influence in the world economy, as oil is essential for modern industrial
+      activities and daily life. By leveraging oil access, the U.S. can destabilize
+      nations that oppose its interests, thereby preventing them from using their oil
+      resources for independent diplomatic strategies. The article highlights the challenges
+      the U.S. faces today, as it struggles to maintain its economic hegemony in a changing
+      geopolitical landscape, particularly against rising powers like China and Russia,
+      and emphasizes the diminishing appeal of a U.S.-centric economic model in a multipolar
+      world.
+    published: '2026-01-13T01:23:21+00:00'
+  - title: Deindustrialisation Meets Coercion
+    url: https://michael-hudson.com/2026/01/deindustrialisation-meets-coercion/
+    text: '⁣GLENN DIESEN: Welcome back to the show. We are joined today by Professor
+      Michael Hudson to discuss the U.S. national security strategy and the unraveling
+      of the post-World War II economic order. So thank you very much for coming on
+      the program. ⁣MICHAEL HUDSON: Thanks for having me back in this ongoing unfolding
+      dialogue. Things are happening so quickly each week. ⁣GLENN DIESEN: Yeah, it’s
+      hard to keep up with things. I always make the point that in academia you spend
+      very little time to follow current events, but these days a lot of time goes to
+      look at these massive changes happening now on a week-to-week basis. We often
+      see that the political discourse tends to often focus, I think, excessively on
+      individuals. So when you look at the unraveling of the political West, the economic
+      structures of the hegemonic order as well, its often attributed to Trump’s personality.
+      However, there’s a much larger phenomenon at play here, which people like you
+      have been talking about for quite some time. That is the building blocks of this
+      economic order are being undermined. But I thought a good place we could start
+      is to get your views on how you interpret this new national security strategy,
+      from, I guess, a somewhat economic perspective. ⁣MICHAEL HUDSON: Well, it really
+      doesn’t explain the strategy as such. The American diplomats are not going to
+      come right out and say, here’s our strategy, to force you to make sacrifices to
+      your economy to promote America first. And your countries, Germany, European countries,
+      Japan, South Korea, are also supposed to put America first, not your countries
+      first. This reverses almost the whole last 80 years of the economic order that
+      the American diplomats themselves put in place in 1945. And that was a time when
+      the United States was the dominant industrial power in the wake of World War II.
+      It was a dominant monetary power on its way to holding 80% of the world’s monetary
+      gold by 1950. And the rest of the world actually needed American support. And
+      American interests were served by breaking up and absorbing the British Empire
+      and the French Empire. And there was a long discussion that I quote and describe
+      in my book, Super-Imperialism, in the British House of Lords in the Parliament
+      saying: we know that the American plans for free trade and free investment means
+      no more Sterling area with blocked sterling of India and other Sterling area countries
+      that have to be spent on British manufactures and British goods. In reality, we
+      know that our economy is pretty devastated, and this free trade and investment
+      means America is going to pick up all of these savings that, what we now call
+      the global south countries, have accumulated during World War II. So this order,
+      sort of free trade and investment, was an almost evangelistic ideology. And it
+      seemed that all of Western history was moving towards free trade, free investment,
+      and the myth was that all of this would automatically stabilize and enable all
+      the debts to be paid, and all countries were going to gain together. Well, this
+      idea was a fantasy. And in fact, there was no anticipation at that time that America
+      was going to end up in the position it is today. It’s industrially dependent on
+      foreign countries to provide industrial products that it used to produce at home.
+      And it’s financially dependent. Its military spending abroad was so large that
+      it accounted for the entire U.S. balance of payments deficit from the time the
+      Korean War began in 1950. In those years, the U.S. balance of payments began its
+      long, secular, constant move into a balance of payments deficit, flooding the
+      world with dollars. Well, other countries for the next few decades used these
+      dollars to accumulate. They turned them into the treasury and redeemed them in
+      gold. And General de Gaulle, but also Germany, was turning its trade surpluses
+      into dollars because all the money being spent in Southeast Asia ended up in French
+      banks, and money in other countries ended up buying imports from Germany. So we
+      used to sit at the Chase Manhattan Bank, where I worked in the 1960s as their
+      balance of payments economist. Every Friday we’d look at the Federal Reserve Statement
+      for the gold cover. How much gold are we losing and how much gold is legally required
+      to back the paper currency here? Well, it was obvious that the United States was
+      going to be forced off gold already by 1966 and 1967. And we could see where that
+      is. Well, the United States did go off gold. And when it went off gold, it put
+      in a system where, if foreign central banks can’t cash in their dollars for gold,
+      what are they going to do with them? Well, there was very little that they could
+      do except agree to the pressures from U.S. diplomats to buy U.S. Treasury securities.
+      So in effect, they were recycling all the dollars that Americans spent on military
+      operations and military bases and wars throughout the world. All this was recycled
+      to the United States to finance its trade deficit and its balance of payments
+      deficit, and it enabled the government to keep spending & spending abroad at other
+      countries’ expense. Well, finally, this enabled the United States to deindustrialize,
+      to not, as economists say, live within its means. And the result is that the National
+      Security Report recognizes that the kind of free trade, free investment, and equal
+      sovereignty among nations, the whole principles of the United Nations that was
+      drafted in 1945, no longer serves American interests. So, what they’ve done is
+      reverse this whole philosophy that still is held to be Western values, and they
+      use various forms of coercion. The most obvious forms long before Trump were:
+      well, you control the world’s oil trade. So, if you can control oil, then you’re
+      able to turn off the energy to countries that don’t follow your policies. America’s
+      policy has been not to create a peaceful world order, this was assumed 80 years
+      ago, but to prepare for a war with Russia and China, or at least a conflict with
+      Russia and China. The National Security study is not going to come right out and
+      say, well, we want to control the oil, to turn off your power and make you suffer
+      like Germany if you don’t follow the “America First” rules that we are laying
+      down. America also wants to monopolize information technology, the whole computer
+      revolution of computer chips, media, and social media; it wants to have monopolies
+      over all of this. And that means it doesn’t want Europe to impose taxes on the
+      American companies that are operating in Europe. It wants special privileges that
+      no other countries have. And so the Americans say, well, if we can no longer support
+      ourselves industrially or financially, then other countries have to support us.
+      How are we going to get other countries to support us? That’s the real problem.
+      And what is not acknowledged is the most problematic assumption that underlies
+      all of this national security report. The idea is that if somehow America can
+      put in place so coercive a trade, investment and monetary system on other countries,
+      that somehow they will relocate their industry from Germany, from France, from
+      Korea and Japan into the United States, and other countries will somehow be willing
+      to reindustrialize the United States. None of this looks at why the United States
+      is deindustrialized to begin with. What are these dynamics that have made industrial
+      investment so much less remunerative than financialization and making money simply
+      from money? Well, that’s the problem that I think Europe and Asia are facing now.
+      And if you look at today’s Financial Times, from the front page to the last page,
+      it’s all about European worries that the whole U.S. financial economy has become
+      a bubble, especially the artificial intelligence bubble and the heavy debt leveraging.
+      And Donald Trump is following the same path that Margaret Thatcher and Ronald
+      Reagan followed after 1980: deregulate the economy, take away all of the rules
+      that protect investors, protect consumers, and just make a free-for-all. Well,
+      I think most of the money managers that I know and CEOs that I talk to all say:
+      there’s going to be a huge crash in the making. How are you going to prepare for
+      it? Well, the National Security Report says: we probably have only three years
+      to lock in place what is going to be, we hope, a coercive “America first” order,
+      “make America great again,” at other countries’ expense. And they point out that
+      America’s strongest backers in Europe: Macron in France, Starmer in England, and
+      Friedrich Merz in Germany, are at the nadir of their popularity. The voters disagree
+      with them. And not only are their economies being sacrificed by following the
+      policies that these three leaders and the EU leadership under Von der Leyen and
+      Kaja Kallas are promoting, but the political parties that are in power are also
+      threatened. But there’s not going to be an election for the next three years.
+      And so that gives the United States three years to have its major supporters try
+      to put in place this new economic order that is going to take the place of a multilateral
+      economic order. And the main victims of this are going to be America’s closest
+      allies, as usual: Western European countries, the NATO countries, Japan, South
+      Korea, and the English-speaking Australia and New Zealand. It’s much harder to
+      convince China and Africa and the rest of the global south countries or China’s
+      Asian and Eurasian partners to go along with this. And so the report acknowledges
+      that the world is going to break up into spheres of influence. And we can’t really
+      prevent that, but at least we can lock in America’s control over Latin America.
+      And that’s why you’re seeing Donald Trump saying, despite the investment by China
+      and Venezuela and Brazil, Latin America is our territory. These are our kleptocrats,
+      our client oligarchies in power, our military dictatorships, and we’re not going
+      to let you in. But ostensibly, they say, okay, you have your sphere: China has
+      its sphere of influence along with Russia and Eurasia. And it’s trying to shoehorn
+      Japan into this group of five. The United States, its Western European satellite,
+      Russia, and China. That’s four, but the U.S. wants a majority, so it has Japan
+      that always votes with the United States. It’s another satellite. And this is
+      pretty fictitious because China and Russia immediately say, well, wait a minute.
+      You want us to stay out of Latin America despite our investment there, despite
+      the fact that China is buying Brazilian soybeans so that it doesn’t have to depend
+      on U.S. soybean exports and the ability of the United States to weaponize its
+      foreign trade to say: we can turn off our soybean trade and make you go hungry
+      if you do policies that we disagree with. But the United States is not staying
+      out of Eurasia. It’s not staying out of Europe. It turned NATO Europe into a satellite.
+      It’s not staying out of Asia. It’s trying to surround China with the Philippines
+      and pressing Taiwan and Japan. It’s trying to make the Quad arrangements along
+      with Australia to sort of ring China. And so for Trump, the Monroe Doctrine means
+      you stay out of South America, but we’re not going to stay out of your territory.
+      So it really means the United States can somehow maintain its unique status as
+      the unipolar power dominating the whole world. Well, this is a fantasy, and the
+      National Security Report isn’t going to say that it’s a fantasy. They simply concentrate
+      on the fact that Europe has a fantasy that somehow it can be an independent actor
+      in all of this and it can make an independent decision to spend all of its economic
+      surplus and planning a war with Russia. It is inconceivable that Russia, or any
+      other country, can invade Europe or a neighbor in today’s world, where wars are
+      fought by bombs and drones and without infantry. And without infantry, you’re
+      never going to occupy a country and take it over. You can only do it surreptitiously
+      by backing the campaigns of politicians loyal to you. That’s how the United States
+      has controlled Europe, by its meddling in European elections ever since 1945,
+      especially in Italy, when there was a threat of the Communist Party there, especially
+      in the rest of NATO Europe. You’re seeing what happened today that it has created
+      a kind of Frankenstein monster out of its control. And here, the puppets that
+      it’s put in power are elected, but the puppets are on automatic pilot: war with
+      Russia, war with Russia – we have to cut back social spending in order to create
+      our own military-industrial complex to finally provide industrial employment that
+      we’re not able to do in the marketplace anymore because of our cutting off of
+      trade with Russia. Well, this is a quandary, and the National Security Report
+      acknowledges the fact. And essentially, you could say that it’s meant very largely
+      for Europe because the other countries of the world, the other regions, are all
+      pretty much fixed in the direction that they’re going with. These regions have
+      the same choice that Europe has: what is going to be their economic future? And
+      Trump’s national security policy that isn’t quite spelled out this clearly in
+      the National Security Report is to confront other countries with a choice. Either
+      you can live for the short term, and we will lower the tariffs that Trump has
+      imposed and give you access to the American market for your exports, but you have
+      to do a giveback. You have to follow American policy. In order for us to give
+      you access to the American market, you have to join our sanctions against Russia,
+      China, Iran, and any other country that we designate as not following American
+      policy and therefore our enemy. And you have to agree to invest and move your
+      major industrial companies out of your country into the United States. Well, if
+      you don’t do this, then you’re going to suffer unemployment and deindustrialization
+      and layoffs, and many of your factories are going to close down, and the small
+      companies, the Mittelstand companies of Germany, are going to go bankrupt. So
+      the question for Europe is: is it worth avoiding this short-term disruption of
+      their foreign trade in order to live for the long-term fact that, well, China,
+      Russia, and its Belt and Road Eurasian neighbors are the most rapidly growing
+      economies in the world. If Europe, which is really the centerpiece of this, ties
+      its fortunes to the United States by having to relocate its industry here, to
+      invest its savings in the United States, then it will have to forgo economic trade
+      and investment relations with China, Russia, and the global majority. That’s the
+      long-term gain. So, what is it going to choose? Well, politicians live for the
+      short term, and Europe’s politicians have two or three years before the next elections,
+      and that’s their time frame. And so, they’re willing to sacrifice Europe’s long-term
+      growth by agreeing to surrender to the trade policies, the givebacks, and the
+      promise of investment in the United States that von der Leyen agreed to a few
+      months ago with Donald Trump, and which the current leaders of Europe continue
+      to support. Well, just as that makes them so unpopular with the voters, it leads
+      the National Security authors to recognize the voters are right. Europe can’t
+      possibly survive this way, but we can use this interim to lock in a kind of “America
+      first” international economic order on pretty much the same kind of pressure that
+      we used in 1945 to serve America’s ends. It’s just instead of a multilateral order,
+      it’s a one country take all. Our gain is your loss. Putting America first means
+      that we win at your expense, and that’s going to be Europe’s expense if it wants
+      to defend itself against Russia to rebuild its military-industrial complex. That’s
+      its problem. America’s washing its hands of it. And the hope of the National Security
+      Report is that somehow it can promise Russia to drop the sanctions against it,
+      to make a kind of U.S. investment in Russia. I mean, the ideal is to do to Russia,
+      once again, what Americans did to Russia in the 1990s under Boris Yeltsin. The
+      dream of American foreign policy and the reason it failed, was the assumption
+      that the war with Russia would lead to the population rebelling against Putin,
+      saying; We don’t want our soldiers to die; we don’t want military spending; we
+      want spending on consumer goods; we want to trade with Europol. None of that happens.
+      When you bomb a country, they don’t oppose the leader, they rally around the leader.
+      So there’s a kind of fantasy underlying not only this report, but Trump’s policy.
+      And the fantasy is that other countries don’t have an alternative but to surrender
+      to Trump. And of course, there is an alternative, but the alternative of long-term
+      open trade with Eurasia means the short-term loss of the American market. So this
+      is the tension that’s confronting Europe and also Japan, Korea, and America’s
+      closest allies. ⁣GLENN DIESEN: It’s interesting. I was wondering, what do you
+      see happening to Europe after this? I know you covered this to a large extent
+      now, but the whole relationship between the Americans and the Europeans after
+      World War II had a very different premise. That is, after World War II, the Americans
+      were quite generous with a lot of the trade deals which were established. Some
+      of it, of course, was just geostrategic. That is, you wanted West Germany to be
+      more prosperous than East Germany. You wanted Taiwan to be more prosperous than
+      the other China. You wanted South Korea to be more prosperous than North Korea.
+      So it was always this strategic incentive to have generous trade agreements for
+      the frontline states, in addition, of course, providing for their security. But
+      also, due to the economic status of the U.S., there was an interest, of course,
+      [in building] trust in U.S. banks, the dollar, and dependence on its tech and
+      industry. And again, U.S. big business really grew a lot in the World War II period.
+      The U.S. became this industrial powerhouse, the leading technologies. And in all
+      of this possibility for dominance, of course, there was a concern for protectionism
+      in Europe, which often happens after war. So there was a need to open up these
+      markets. And as you said, there was strategic interest in dismantling the European
+      empires and absorbing them, of course, for the U.S. and containing the Soviet
+      Union. So there were all these interests, which were strategic, but all of this
+      translated into a very privileged position for the Europeans in an open economic
+      system. And all of this in Europe, instead of looking at the strategic reasons
+      why all this happened, we form kind of like this ideology of liberal democracies
+      sticking together, transcending the international anarchy, which is kind of the
+      language now the political leadership speaks in. So, they don’t think alliances
+      are a temporary construct, it’s permanent friendships based on values. This is
+      the kind of language and assumptions they often run with. But when you look at
+      the specific references now to Europe in this National Security Strategy, it envisions
+      a decoupling. And the Europeans are portrayed, or European leaders at least, are
+      portrayed as authoritarian and increasingly undemocratic. I would agree with this,
+      by the way. The economic decline makes this hard to disagree with as well. And
+      also being very irrational on Ukraine. Indeed, you see this also in the language
+      now. It appears that our leaders in Europe are cosplaying World War II. The assumption
+      that if we can defeat Russia, it’s just like defeating Nazi Germany and this will
+      usher in a new golden era for Europe or something along those lines. And you may
+      see the German leader now comparing Putin to Hitler. He argues, you know, Russia
+      won’t stop. We have to stop him. This is the main goal. This [frames] offensive
+      actions against Russia as something defensive. The rules are gone, it seems. Now,
+      I’m assuming that the European powers, several of them, are at least assisting
+      Ukraine in the attacks on civilian Russian ships. Of course, the seizure of Russian
+      funds, which are illegal on their own, but even the rules within the EU are now
+      turned on its heads. There’s no more voting every six months to renew it. The
+      EU leadership decided to ban this. From now on, these will be permanent seizures
+      of Russia’s funds, as all 27 member states now have to unanimously agree to release
+      them, which I can’t see happening. But again, this open talk about fighting a
+      war which they can’t win, they don’t have the troops, they don’t have political
+      support, and public support. What of this do you see as just the EU being systemically
+      lost or strategically lost? Is it a strategic vacuum? Is it that it doesn’t have
+      a new place, an economic role in the new world, or is it just good old-fashioned
+      Russophobia? How do you make sense of this? Because all the things which identify
+      the EU over the past few years: being an economic powerhouse, good governance,
+      choosing diplomacy over war, and most important of all, rules-based, all of this
+      is now out the window. How do you make sense of this? And what does this mean
+      for Europe’s relationship with the United States, even after Trump is gone? ⁣MICHAEL
+      HUDSON: Well, you’re right to bring up World War II remaining the key. The United
+      States is steering the world to re-fight World War II. The United States says:
+      World War II didn’t end; we’re now going to finish World War II. But instead of
+      America and Western Europe allied with Russia, we’re now allying with Nazi Germany.
+      That’s why we have people like von der Leyen and Kallas and officials with family
+      backgrounds in the Nazi movement. Basically, the United States is saying this:
+      that the Nazis were right in wanting to go to war against Europe; that Japan was
+      right to invade China with the Nanking massacre; that the Nazis were right to
+      hate Russian speakers and Slavic peoples as genetically subhuman; and that the
+      Japanese were right to treat the Chinese as racially subhuman and to attack them.
+      That’s why we are supporting in Ukraine the neo-Nazi government that we continued
+      to support right after World War II and maintain influence with their racist Nazi
+      philosophy. That’s why, in Japan, MacArthur found the way to oppose the nascent
+      or incipient socialist movement in Japan by working with the criminal gangs to
+      basically fight against the socialists and to put puppet right-wing leaders there.
+      So, right now, you have this violently passionate female leader in Japan preparing
+      for a war with China. The United States is trying to promote Taiwan to fight to
+      the last Taiwanese against China, as Japan fights to the last Japanese by threatening
+      to fight over islands in the China Sea by putting American arms and missiles on
+      these islands, which will lead China to protect itself with a takeover. So, the
+      United States basically is in the position of Nazi Germany in creating a new Nazi
+      alliance. Western Europe, Ukraine, Japan, and elements in Taiwan and other countries
+      in the same way that it used Argentina and other right-wing military dictatorships
+      in Latin America. And the rest of the world seems blind to the fact that World
+      War III is not going to be fought in the same way that World War II was. It’s
+      not going to be armies of different countries attacking each other. As I mentioned,
+      it’ll be by missiles. And President Putin said in the last few weeks of the whole
+      fiction of Trump’s hope in making a ceasefire and an arrangement between Ukraine
+      and Russia: Our fight isn’t with Ukraine, it’s with Western Europe. Ukraine is
+      only the arena, the battlefield for the fight of the right-wing European parties,
+      the British Labour Party under Starmer, Orwellian doublespeak name for it, the
+      Merz’s Christian Democrats, and Macron’s party, which he began as a socialist
+      and then created his own party in 2016. These are the leaders who are sort of
+      joining in this new war if it’s really these three countries that are supplying
+      arms to Ukraine by steering and organizing its attacks on Russian shadow shipping
+      for its oil, and orchestrating, along with the Americans and with the American
+      satellites, the missiles that are being sent from Ukraine into Russia to attack
+      its oil refineries to try to disrupt its oil. Putin has said we realize that even
+      though these missiles are coming from Ukraine, it’s really not Ukraine that’s
+      doing it. Ukraine is a puppet government installed by the United States in Maidan
+      in 2014, and now it’s supplied with arms largely by Europe. We will retaliate
+      against the countries that send these missiles to us and that are attacking us.
+      And so the fight in Ukraine is essentially the opening phases of something like
+      World War II. And Putin has said we’re going to start by bombing the factories
+      that produce these missiles. We’ll bomb the electric facility companies that provide
+      the electricity for these. And we’ll let Western Europe fight to the last European
+      because it’ll be a very short war. And after the first few days, there really
+      won’t be any European leaders to negotiate with anymore because there won’t be
+      a viable Europe. Europe has agreed to it, saying, we think it’s a bluff. Well,
+      that’s the question. The assumption is that Russia has been militarily weakened
+      by the war and that it’s losing to Ukraine. That’s what all of the Council of
+      Foreign Relations is saying here. That’s what all of the pro-U.S. media are saying.
+      And as you know from the guests that you’ve had on your show, Glenn, that it’s
+      all a fiction, that that’s not what’s happening at all. So what’s being challenged
+      here is, you could say, the materialist approach to foreign policy, and in fact,
+      to history for that matter. The assumption of the materialist approach is that
+      countries are going to act in their economic self-interest. Well, that’s not happening.
+      Europe is not really acting in its economic self-interest or even its instinct
+      for survival. It’s acting in what Trump calls the “America first” interest, but
+      this interest isn’t really that of the United States, except it means that what
+      is left of the remnants of German industry and technology and that of France and
+      other countries, that are going to be, so Trump and his team hope, moved to the
+      United States. Europe is going to be emptied out. Western Europe is going to look
+      like the Baltics losing one third of their population, emigrating for work, essentially
+      just depopulating. And as the Latvians say: will the last emigrant in 2035 please
+      turn off the lights at the airport when you leave. That seems to be the dynamic
+      of depopulation, deindustrialization, unemployment, and breakup of Western Europe.
+      Well, the fact is that, before this really happens, the European Union itself
+      is going to probably break up. That’s what’s seen, and that’s why the United States,
+      in the last couple of weeks, has said: we think that Italy, Hungary, the Czech
+      Republic, and Slovakia, for starters, should withdraw from the European Union.
+      Well, you’re seeing that already. What are they going to do? You mentioned the
+      whole fight that occurred over the Euroclear confiscation of the $250 billion
+      equivalent of the Russian national savings that it put in Euroclear. Europe wants
+      to give this to Ukraine. Well, not really to Ukraine. Europe wants to give it
+      to its own military-industrial complex to build factories. It doesn’t intend any
+      actual money at all to go to Ukraine, because it would all be stolen, as you’ve
+      also seen in the last few weeks of all of the exposés of the money that’s been
+      siphoned off. Maybe one third of all the money that’s been spent in Ukraine ends
+      up in the pockets of the kleptocrats that have taken power and made Ukraine for
+      the last 15 years, according to the World Bank, the most corrupt country in the
+      Northern Hemisphere. Well, do they really want to give any money to this obviously
+      corrupt country? Well, they don’t. Except that a lot of this money that they give
+      to Ukraine has all been recycled back to the European leaders, who’ve been approving
+      the money to Ukraine. It’s a circular flow. The European leaders get a back flush
+      into their own campaigns and personal accounts for all of this. It’s not really
+      spent on Ukrainian defense at all. That’s why Ukraine’s losing so much. That’s
+      why there are so many desertions from the army, with the soldiers saying: wait
+      a minute, we were supposed to have barriers built up here. We were supposed to
+      have all this military support. None of this support was ever made. It seems that
+      the generals in charge of the money have just put it all in their pockets. Well,
+      that’s the situation we have. This is not a stable situation. That’s why it’s
+      unfolding week by week. And I think every week that you have your guests on, there’s
+      a new story, a new revelation, a new shift in this balance that is very rapidly
+      unfolding in a way that it’s very hard to forecast whether there’s going to be
+      a risk of an accident happening. That seems to be the case. ⁣GLENN DIESEN: I think
+      the model many envision in their head is to almost emulate the British and U.S.
+      offshore balancer strategy. That is, have first your proxies fight, much like
+      in World War II, have them exhaust each other. That is using Ukraine to exhaust
+      Russia. And once this war comes to an end, the assumption would be that if Russia
+      hasn’t lost, then at least it would be so exhausted that towards the end, some
+      powerful Western country would step in and then be able to dictate the outcome
+      of the war. But, of course, this is very different. Russia slowballed this to
+      a large extent in order to also make sure that it could make preparations for
+      a wider war. Because as you said, they know who’s pulling the strings behind.
+      So from what I’m hearing, they now have the Oreshniks on mass production. They
+      are also clearly signaling that if the Europeans plan to enter this war and attack
+      Russia, then they will not be fighting brotherly Ukrainian people. They will be
+      fighting Western Europeans, in which the gloves would come off in terms of the
+      weaponry that they would deploy. So I think we’re walking down a very dangerous
+      path. And also now that the Americans are trying to hand this whole thing over
+      to the Europeans and the Ukrainians are falling apart on the front line, the Europeans
+      will have this incentive to step up much harder on the Russians with more direct
+      attacks, while the Russians will now see that they have more freedom to act. That
+      is, if you have British or French planes or drones flying across along the Black
+      Sea to pick targets which should be struck, why would the Russians let them do
+      this? I think you’re going to see a much heavier hand by the Russians. They will
+      start to shoot these things down, and just at a time when the EU is also stepping
+      up its aggressive posture. So I think the illusion of escalation dominance in
+      Europe is going to lead to a disaster, probably sooner than later. But do you
+      have any final thoughts on where we are moving beyond the economy? ⁣MICHAEL HUDSON:
+      Well, America was not exhausted by World War II. America emerged from World War
+      II much stronger industrially and financially than it was before World War II.
+      Same thing with even Germany: it had increased its industry during World War II.
+      Russia, obviously, has become much more rapidly growing during the Ukraine war
+      than NATO Europe. So it’s just a fantasy that Russia is somehow the economy is
+      falling apart. That’s exactly the opposite of what is happening. And that’s what
+      the American military and State Department and American diplomats can’t acknowledge.
+      And here’s the problem. It’s a bureaucratic problem with America’s national security
+      reports. There’s a feeling that you have many researchers in the CIA and other
+      agencies that are reading the Russian speeches and the Russian newspapers, and
+      they say, well, the reality that we’re getting from the battlefield and from the
+      speeches is just the way that you’ve described, Glenn. Russia’s getting stronger.
+      And the force to come with a single uniform report is that, well, if you think
+      that Russia’s getting stronger and that Russia is winning the war in Ukraine,
+      then you’re Putin’s puppet. You must be sympathetic with Russia. You’re saying
+      that because you want to believe that Russia is getting stronger, and that is
+      not a patriotic thought. And people who are reality-based observers decide that,
+      with advancement closed off in the CIA and with having no receptiveness for the
+      reality that they’re describing, they’ll leave. Ray McGovern, who used to work
+      for the CIA, has been very explicit in describing this: either agree with this
+      or leave, our way or the highway. And so the CIA, the State Department, and the
+      Pentagon have a bureaucracy of “yes men” who are not going to disagree or point
+      to the flaws in this strategy. And this is what’s so crazy. There’s no real open
+      dialogue or checks and balances. And it’s as if everybody believes what’s reported
+      in the New York Times and Washington Post, the pro-war anti-Russian neocon, neoliberal
+      press. So there’s a lack of understanding either of the enemy or oneself. And
+      as Sun Tzu said in the Art of War : if you don’t understand yourself and you don’t
+      understand your enemy, you’re sure to lose. So that is the sort of a built-in
+      bureaucratic structuring of the mentality at work that guarantees a walk into
+      disaster. ⁣GLENN DIESEN: Yeah, the whole thing is very frustrating to watch from
+      Europe, I would say, because there’s all the things which we should have done.
+      We’re doing exactly the opposite. That is, if you see the U.S. in decline, relative
+      decline, deprivatizing Europe, you know, you would then end the dividing lines
+      in Europe, you would seek to make peace with the Russians. Everything would be
+      in place really for this, though. The whole reason why we had to split from the
+      Russians and redivide Europe was to give NATO a stronger role or a dominant role
+      in the post-Cold War era. But now we could really fix everything by restoring
+      relations with Russia, and improving relations with China. Instead, we’re throwing
+      away all the other relationships in the hope that the U.S. might stay after all.
+      It is incredibly frustrating to watch. And whenever they are called on it and
+      asked: why aren’t we taking a different approach, why not just settle relations
+      with Russia? They get some crazy answers: well, we can’t betray Ukraine. But this
+      confrontation with Russia is what destroys Ukraine. Or you get some fantasies
+      about Putin being Hitler. They want to conquer Europe. All of this nonsense. And
+      again, as you suggested, there’s no real discussion when the main logic is that
+      the USSR is the Russian Empire and just wants to conquer all of Europe, and anyone
+      who disagrees is a Putinist. It’s a great way of making sure that there is no
+      debate because it’s either agreeing with the nonsense or being a traitor effectively.
+      So it’s very extremely frustrating to watch, and it’s also one of the consequences,
+      I think, now of Europe essentially betraying all the core values it argued that
+      it was standing for. ⁣MICHAEL HUDSON: Well, the National Security Report wants
+      to blame European leaders, Macron, Starmer, and Merz, for this, but what’s really
+      stirring them all really is the United States. The National Security Report in
+      criticizing Europe doesn’t say it’s the United States that has installed these
+      leaders who specifically support the U.S. policy, certainly prior to Trump under
+      Biden. And I think Trump still holds this same policy of confrontation with Russia,
+      confrontation with China. There’s sort of a good cop, bad cop in negotiations
+      between the American bloc and Russia, China, and the global majority. The U.S.
+      and Trump are trying to say, I’m the good cop, and Europe is the bad cop, but
+      actually, they’re both bad cops. Trump has sought to make it appear as if he wants
+      the peace prize, but he doesn’t want the peace prize. He wants to conceal the
+      fact that he’s the most warlike leader that America has had. But he’s trying to
+      conceal it by saying, well, I’m for peace. Peace is my business, not war. When
+      actually he’s fully in-line, along with Rubio as his Secretary of State and of
+      the Senate leadership, Mitch McConnell. They’re all neocons, they’re all neoliberals
+      in the same boat, but if they can get the Europeans to blame their own leaders
+      and somehow elect people, another sort of European Zelensky who says he wants
+      peace and then immediately turns around and follows whoever’s giving him the paycheck
+      to make war, that’s the American dream. I think there’s beginning to be an anti-Americanism
+      in Europe. And you see that in the Financial Times, saying Europe has to realize
+      it has to go its own way. It has to be independent. And it has to talk about where
+      is our real economic interest and our real military interest in all of this, and
+      how does it diverge from what President Trump is trying to impose, which is “America
+      first” and make America great gain, with your own foreign resources, as if somehow
+      foreign resources can reindustrialize America without America having to change
+      the whole way in which its own economy is structured. The fact is that Europe
+      and the United States have a malstructured, financialized economy. This is the
+      real problem. And it’s also lost its democratic context for the economy. Everything
+      has changed, and all that the United States and Europe has to promote this worldview
+      is a fictitious narrative. And the fictitious narrative is broadcast through politicians’
+      statements and the public media. And whom are you going to believe, your eyes
+      or the public media? That’s the question. The European voters obviously reject
+      the policy of their leaders, and they don’t realize that their leaders themselves
+      are sort of American puppets. Whereas the proponents of the alternative are not
+      Putin’s puppets. They’re the realists. And they realize there’s no need for war.
+      It’s fictitious. It’s not that they’re pacifists, but there’s just no need for
+      war, and there’s no war that Europe can win against Russia now that it doesn’t
+      have any more arms. It has used them all up in Ukraine and sent them to Israel.
+      So it’s disarmed. It has no money. Its industry is unable to operate without the
+      inexpensive oil and gas that powered it before. There’s been no accounting for
+      what are the costs and benefits of the future. It’s so obvious once you sit down
+      and do it, but that’s not what the national Security Report comes right out and
+      acknowledges. And that’s the real problem. It’s as if the American establishment
+      doesn’t know what is in its own self-interest. It’s so pulled into this neoliberal,
+      neocon, “war with Russia” mentality that’s been in place for the last 40 years.
+      ⁣GLENN DIESEN: Well, Professor Hudson, thank you so much for your time. And these
+      are, yeah, interesting times, so thank you. ⁣MICHAEL HUDSON: Thanks for having
+      me, Glenn. Transcription and Diarization: https://scripthub.dev Editing: Harrison
+      Betts Review: ced Photo by Ian Hutchinson on Unsplash The post Deindustrialisation
+      Meets Coercion first appeared on Michael Hudson .'
+    one_sentence_summary: In a discussion between Glenn Diesen and Professor Michael
+      Hudson, they explore the rapid changes in U.S. national security strategy and
+      the disintegration of the post-World War II economic order, emphasizing that these
+      shifts are part of a larger phenomenon rather than merely the result of individual
+      political figures like Trump.
+    paragraph_summary: In a recent discussion, Professor Michael Hudson and Glenn Diesen
+      explored the evolving U.S. national security strategy and the disintegration of
+      the post-World War II economic order. Hudson emphasized that the current political
+      discourse often focuses too much on individual personalities, such as Trump, while
+      overlooking broader systemic issues that are undermining the foundations of the
+      existing economic structure. He critiqued the new national security strategy for
+      promoting an "America first" agenda that requires other nations, including Germany,
+      Japan, and South Korea, to prioritize U.S. interests over their own, marking a
+      significant departure from the cooperative economic framework established in 1945
+      when the U.S. was the dominant global power.
+    published: '2026-01-08T02:20:18+00:00'
+  - title: Deindustrialisation Meets Coercion
+    url: https://michael-hudson.com/2026/01/deindustrialisation-meets-coercion/
+    text: '⁣GLENN DIESEN: Welcome back to the show. We are joined today by Professor
+      Michael Hudson to discuss the U.S. national security strategy and the unraveling
+      of the post-World War II economic order. So thank you very much for coming on
+      the program. ⁣MICHAEL HUDSON: Thanks for having me back in this ongoing unfolding
+      dialogue. Things are happening so quickly each week. ⁣GLENN DIESEN: Yeah, it’s
+      hard to keep up with things. I always make the point that in academia you spend
+      very little time to follow current events, but these days a lot of time goes to
+      look at these massive changes happening now on a week-to-week basis. We often
+      see that the political discourse tends to often focus, I think, excessively on
+      individuals. So when you look at the unraveling of the political West, the economic
+      structures of the hegemonic order as well, its often attributed to Trump’s personality.
+      However, there’s a much larger phenomenon at play here, which people like you
+      have been talking about for quite some time. That is the building blocks of this
+      economic order are being undermined. But I thought a good place we could start
+      is to get your views on how you interpret this new national security strategy,
+      from, I guess, a somewhat economic perspective. ⁣MICHAEL HUDSON: Well, it really
+      doesn’t explain the strategy as such. The American diplomats are not going to
+      come right out and say, here’s our strategy, to force you to make sacrifices to
+      your economy to promote America first. And your countries, Germany, European countries,
+      Japan, South Korea, are also supposed to put America first, not your countries
+      first. This reverses almost the whole last 80 years of the economic order that
+      the American diplomats themselves put in place in 1945. And that was a time when
+      the United States was the dominant industrial power in the wake of World War II.
+      It was a dominant monetary power on its way to holding 80% of the world’s monetary
+      gold by 1950. And the rest of the world actually needed American support. And
+      American interests were served by breaking up and absorbing the British Empire
+      and the French Empire. And there was a long discussion that I quote and describe
+      in my book, Super-Imperialism, in the British House of Lords in the Parliament
+      saying: we know that the American plans for free trade and free investment means
+      no more Sterling area with blocked sterling of India and other Sterling area countries
+      that have to be spent on British manufactures and British goods. In reality, we
+      know that our economy is pretty devastated, and this free trade and investment
+      means America is going to pick up all of these savings that, what we now call
+      the global south countries, have accumulated during World War II. So this order,
+      sort of free trade and investment, was an almost evangelistic ideology. And it
+      seemed that all of Western history was moving towards free trade, free investment,
+      and the myth was that all of this would automatically stabilize and enable all
+      the debts to be paid, and all countries were going to gain together. Well, this
+      idea was a fantasy. And in fact, there was no anticipation at that time that America
+      was going to end up in the position it is today. It’s industrially dependent on
+      foreign countries to provide industrial products that it used to produce at home.
+      And it’s financially dependent. Its military spending abroad was so large that
+      it accounted for the entire U.S. balance of payments deficit from the time the
+      Korean War began in 1950. In those years, the U.S. balance of payments began its
+      long, secular, constant move into a balance of payments deficit, flooding the
+      world with dollars. Well, other countries for the next few decades used these
+      dollars to accumulate. They turned them into the treasury and redeemed them in
+      gold. And General de Gaulle, but also Germany, was turning its trade surpluses
+      into dollars because all the money being spent in Southeast Asia ended up in French
+      banks, and money in other countries ended up buying imports from Germany. So we
+      used to sit at the Chase Manhattan Bank, where I worked in the 1960s as their
+      balance of payments economist. Every Friday we’d look at the Federal Reserve Statement
+      for the gold cover. How much gold are we losing and how much gold is legally required
+      to back the paper currency here? Well, it was obvious that the United States was
+      going to be forced off gold already by 1966 and 1967. And we could see where that
+      is. Well, the United States did go off gold. And when it went off gold, it put
+      in a system where, if foreign central banks can’t cash in their dollars for gold,
+      what are they going to do with them? Well, there was very little that they could
+      do except agree to the pressures from U.S. diplomats to buy U.S. Treasury securities.
+      So in effect, they were recycling all the dollars that Americans spent on military
+      operations and military bases and wars throughout the world. All this was recycled
+      to the United States to finance its trade deficit and its balance of payments
+      deficit, and it enabled the government to keep spending & spending abroad at other
+      countries’ expense. Well, finally, this enabled the United States to deindustrialize,
+      to not, as economists say, live within its means. And the result is that the National
+      Security Report recognizes that the kind of free trade, free investment, and equal
+      sovereignty among nations, the whole principles of the United Nations that was
+      drafted in 1945, no longer serves American interests. So, what they’ve done is
+      reverse this whole philosophy that still is held to be Western values, and they
+      use various forms of coercion. The most obvious forms long before Trump were:
+      well, you control the world’s oil trade. So, if you can control oil, then you’re
+      able to turn off the energy to countries that don’t follow your policies. America’s
+      policy has been not to create a peaceful world order, this was assumed 80 years
+      ago, but to prepare for a war with Russia and China, or at least a conflict with
+      Russia and China. The National Security study is not going to come right out and
+      say, well, we want to control the oil, to turn off your power and make you suffer
+      like Germany if you don’t follow the “America First” rules that we are laying
+      down. America also wants to monopolize information technology, the whole computer
+      revolution of computer chips, media, and social media; it wants to have monopolies
+      over all of this. And that means it doesn’t want Europe to impose taxes on the
+      American companies that are operating in Europe. It wants special privileges that
+      no other countries have. And so the Americans say, well, if we can no longer support
+      ourselves industrially or financially, then other countries have to support us.
+      How are we going to get other countries to support us? That’s the real problem.
+      And what is not acknowledged is the most problematic assumption that underlies
+      all of this national security report. The idea is that if somehow America can
+      put in place so coercive a trade, investment and monetary system on other countries,
+      that somehow they will relocate their industry from Germany, from France, from
+      Korea and Japan into the United States, and other countries will somehow be willing
+      to reindustrialize the United States. None of this looks at why the United States
+      is deindustrialized to begin with. What are these dynamics that have made industrial
+      investment so much less remunerative than financialization and making money simply
+      from money? Well, that’s the problem that I think Europe and Asia are facing now.
+      And if you look at today’s Financial Times, from the front page to the last page,
+      it’s all about European worries that the whole U.S. financial economy has become
+      a bubble, especially the artificial intelligence bubble and the heavy debt leveraging.
+      And Donald Trump is following the same path that Margaret Thatcher and Ronald
+      Reagan followed after 1980: deregulate the economy, take away all of the rules
+      that protect investors, protect consumers, and just make a free-for-all. Well,
+      I think most of the money managers that I know and CEOs that I talk to all say:
+      there’s going to be a huge crash in the making. How are you going to prepare for
+      it? Well, the National Security Report says: we probably have only three years
+      to lock in place what is going to be, we hope, a coercive “America first” order,
+      “make America great again,” at other countries’ expense. And they point out that
+      America’s strongest backers in Europe: Macron in France, Starmer in England, and
+      Friedrich Merz in Germany, are at the nadir of their popularity. The voters disagree
+      with them. And not only are their economies being sacrificed by following the
+      policies that these three leaders and the EU leadership under Von der Leyen and
+      Kaja Kallas are promoting, but the political parties that are in power are also
+      threatened. But there’s not going to be an election for the next three years.
+      And so that gives the United States three years to have its major supporters try
+      to put in place this new economic order that is going to take the place of a multilateral
+      economic order. And the main victims of this are going to be America’s closest
+      allies, as usual: Western European countries, the NATO countries, Japan, South
+      Korea, and the English-speaking Australia and New Zealand. It’s much harder to
+      convince China and Africa and the rest of the global south countries or China’s
+      Asian and Eurasian partners to go along with this. And so the report acknowledges
+      that the world is going to break up into spheres of influence. And we can’t really
+      prevent that, but at least we can lock in America’s control over Latin America.
+      And that’s why you’re seeing Donald Trump saying, despite the investment by China
+      and Venezuela and Brazil, Latin America is our territory. These are our kleptocrats,
+      our client oligarchies in power, our military dictatorships, and we’re not going
+      to let you in. But ostensibly, they say, okay, you have your sphere: China has
+      its sphere of influence along with Russia and Eurasia. And it’s trying to shoehorn
+      Japan into this group of five. The United States, its Western European satellite,
+      Russia, and China. That’s four, but the U.S. wants a majority, so it has Japan
+      that always votes with the United States. It’s another satellite. And this is
+      pretty fictitious because China and Russia immediately say, well, wait a minute.
+      You want us to stay out of Latin America despite our investment there, despite
+      the fact that China is buying Brazilian soybeans so that it doesn’t have to depend
+      on U.S. soybean exports and the ability of the United States to weaponize its
+      foreign trade to say: we can turn off our soybean trade and make you go hungry
+      if you do policies that we disagree with. But the United States is not staying
+      out of Eurasia. It’s not staying out of Europe. It turned NATO Europe into a satellite.
+      It’s not staying out of Asia. It’s trying to surround China with the Philippines
+      and pressing Taiwan and Japan. It’s trying to make the Quad arrangements along
+      with Australia to sort of ring China. And so for Trump, the Monroe Doctrine means
+      you stay out of South America, but we’re not going to stay out of your territory.
+      So it really means the United States can somehow maintain its unique status as
+      the unipolar power dominating the whole world. Well, this is a fantasy, and the
+      National Security Report isn’t going to say that it’s a fantasy. They simply concentrate
+      on the fact that Europe has a fantasy that somehow it can be an independent actor
+      in all of this and it can make an independent decision to spend all of its economic
+      surplus and planning a war with Russia. It is inconceivable that Russia, or any
+      other country, can invade Europe or a neighbor in today’s world, where wars are
+      fought by bombs and drones and without infantry. And without infantry, you’re
+      never going to occupy a country and take it over. You can only do it surreptitiously
+      by backing the campaigns of politicians loyal to you. That’s how the United States
+      has controlled Europe, by its meddling in European elections ever since 1945,
+      especially in Italy, when there was a threat of the Communist Party there, especially
+      in the rest of NATO Europe. You’re seeing what happened today that it has created
+      a kind of Frankenstein monster out of its control. And here, the puppets that
+      it’s put in power are elected, but the puppets are on automatic pilot: war with
+      Russia, war with Russia – we have to cut back social spending in order to create
+      our own military-industrial complex to finally provide industrial employment that
+      we’re not able to do in the marketplace anymore because of our cutting off of
+      trade with Russia. Well, this is a quandary, and the National Security Report
+      acknowledges the fact. And essentially, you could say that it’s meant very largely
+      for Europe because the other countries of the world, the other regions, are all
+      pretty much fixed in the direction that they’re going with. These regions have
+      the same choice that Europe has: what is going to be their economic future? And
+      Trump’s national security policy that isn’t quite spelled out this clearly in
+      the National Security Report is to confront other countries with a choice. Either
+      you can live for the short term, and we will lower the tariffs that Trump has
+      imposed and give you access to the American market for your exports, but you have
+      to do a giveback. You have to follow American policy. In order for us to give
+      you access to the American market, you have to join our sanctions against Russia,
+      China, Iran, and any other country that we designate as not following American
+      policy and therefore our enemy. And you have to agree to invest and move your
+      major industrial companies out of your country into the United States. Well, if
+      you don’t do this, then you’re going to suffer unemployment and deindustrialization
+      and layoffs, and many of your factories are going to close down, and the small
+      companies, the Mittelstand companies of Germany, are going to go bankrupt. So
+      the question for Europe is: is it worth avoiding this short-term disruption of
+      their foreign trade in order to live for the long-term fact that, well, China,
+      Russia, and its Belt and Road Eurasian neighbors are the most rapidly growing
+      economies in the world. If Europe, which is really the centerpiece of this, ties
+      its fortunes to the United States by having to relocate its industry here, to
+      invest its savings in the United States, then it will have to forgo economic trade
+      and investment relations with China, Russia, and the global majority. That’s the
+      long-term gain. So, what is it going to choose? Well, politicians live for the
+      short term, and Europe’s politicians have two or three years before the next elections,
+      and that’s their time frame. And so, they’re willing to sacrifice Europe’s long-term
+      growth by agreeing to surrender to the trade policies, the givebacks, and the
+      promise of investment in the United States that von der Leyen agreed to a few
+      months ago with Donald Trump, and which the current leaders of Europe continue
+      to support. Well, just as that makes them so unpopular with the voters, it leads
+      the National Security authors to recognize the voters are right. Europe can’t
+      possibly survive this way, but we can use this interim to lock in a kind of “America
+      first” international economic order on pretty much the same kind of pressure that
+      we used in 1945 to serve America’s ends. It’s just instead of a multilateral order,
+      it’s a one country take all. Our gain is your loss. Putting America first means
+      that we win at your expense, and that’s going to be Europe’s expense if it wants
+      to defend itself against Russia to rebuild its military-industrial complex. That’s
+      its problem. America’s washing its hands of it. And the hope of the National Security
+      Report is that somehow it can promise Russia to drop the sanctions against it,
+      to make a kind of U.S. investment in Russia. I mean, the ideal is to do to Russia,
+      once again, what Americans did to Russia in the 1990s under Boris Yeltsin. The
+      dream of American foreign policy and the reason it failed, was the assumption
+      that the war with Russia would lead to the population rebelling against Putin,
+      saying; We don’t want our soldiers to die; we don’t want military spending; we
+      want spending on consumer goods; we want to trade with Europol. None of that happens.
+      When you bomb a country, they don’t oppose the leader, they rally around the leader.
+      So there’s a kind of fantasy underlying not only this report, but Trump’s policy.
+      And the fantasy is that other countries don’t have an alternative but to surrender
+      to Trump. And of course, there is an alternative, but the alternative of long-term
+      open trade with Eurasia means the short-term loss of the American market. So this
+      is the tension that’s confronting Europe and also Japan, Korea, and America’s
+      closest allies. ⁣GLENN DIESEN: It’s interesting. I was wondering, what do you
+      see happening to Europe after this? I know you covered this to a large extent
+      now, but the whole relationship between the Americans and the Europeans after
+      World War II had a very different premise. That is, after World War II, the Americans
+      were quite generous with a lot of the trade deals which were established. Some
+      of it, of course, was just geostrategic. That is, you wanted West Germany to be
+      more prosperous than East Germany. You wanted Taiwan to be more prosperous than
+      the other China. You wanted South Korea to be more prosperous than North Korea.
+      So it was always this strategic incentive to have generous trade agreements for
+      the frontline states, in addition, of course, providing for their security. But
+      also, due to the economic status of the U.S., there was an interest, of course,
+      [in building] trust in U.S. banks, the dollar, and dependence on its tech and
+      industry. And again, U.S. big business really grew a lot in the World War II period.
+      The U.S. became this industrial powerhouse, the leading technologies. And in all
+      of this possibility for dominance, of course, there was a concern for protectionism
+      in Europe, which often happens after war. So there was a need to open up these
+      markets. And as you said, there was strategic interest in dismantling the European
+      empires and absorbing them, of course, for the U.S. and containing the Soviet
+      Union. So there were all these interests, which were strategic, but all of this
+      translated into a very privileged position for the Europeans in an open economic
+      system. And all of this in Europe, instead of looking at the strategic reasons
+      why all this happened, we form kind of like this ideology of liberal democracies
+      sticking together, transcending the international anarchy, which is kind of the
+      language now the political leadership speaks in. So, they don’t think alliances
+      are a temporary construct, it’s permanent friendships based on values. This is
+      the kind of language and assumptions they often run with. But when you look at
+      the specific references now to Europe in this National Security Strategy, it envisions
+      a decoupling. And the Europeans are portrayed, or European leaders at least, are
+      portrayed as authoritarian and increasingly undemocratic. I would agree with this,
+      by the way. The economic decline makes this hard to disagree with as well. And
+      also being very irrational on Ukraine. Indeed, you see this also in the language
+      now. It appears that our leaders in Europe are cosplaying World War II. The assumption
+      that if we can defeat Russia, it’s just like defeating Nazi Germany and this will
+      usher in a new golden era for Europe or something along those lines. And you may
+      see the German leader now comparing Putin to Hitler. He argues, you know, Russia
+      won’t stop. We have to stop him. This is the main goal. This [frames] offensive
+      actions against Russia as something defensive. The rules are gone, it seems. Now,
+      I’m assuming that the European powers, several of them, are at least assisting
+      Ukraine in the attacks on civilian Russian ships. Of course, the seizure of Russian
+      funds, which are illegal on their own, but even the rules within the EU are now
+      turned on its heads. There’s no more voting every six months to renew it. The
+      EU leadership decided to ban this. From now on, these will be permanent seizures
+      of Russia’s funds, as all 27 member states now have to unanimously agree to release
+      them, which I can’t see happening. But again, this open talk about fighting a
+      war which they can’t win, they don’t have the troops, they don’t have political
+      support, and public support. What of this do you see as just the EU being systemically
+      lost or strategically lost? Is it a strategic vacuum? Is it that it doesn’t have
+      a new place, an economic role in the new world, or is it just good old-fashioned
+      Russophobia? How do you make sense of this? Because all the things which identify
+      the EU over the past few years: being an economic powerhouse, good governance,
+      choosing diplomacy over war, and most important of all, rules-based, all of this
+      is now out the window. How do you make sense of this? And what does this mean
+      for Europe’s relationship with the United States, even after Trump is gone? ⁣MICHAEL
+      HUDSON: Well, you’re right to bring up World War II remaining the key. The United
+      States is steering the world to re-fight World War II. The United States says:
+      World War II didn’t end; we’re now going to finish World War II. But instead of
+      America and Western Europe allied with Russia, we’re now allying with Nazi Germany.
+      That’s why we have people like von der Leyen and Kallas and officials with family
+      backgrounds in the Nazi movement. Basically, the United States is saying this:
+      that the Nazis were right in wanting to go to war against Europe; that Japan was
+      right to invade China with the Nanking massacre; that the Nazis were right to
+      hate Russian speakers and Slavic peoples as genetically subhuman; and that the
+      Japanese were right to treat the Chinese as racially subhuman and to attack them.
+      That’s why we are supporting in Ukraine the neo-Nazi government that we continued
+      to support right after World War II and maintain influence with their racist Nazi
+      philosophy. That’s why, in Japan, MacArthur found the way to oppose the nascent
+      or incipient socialist movement in Japan by working with the criminal gangs to
+      basically fight against the socialists and to put puppet right-wing leaders there.
+      So, right now, you have this violently passionate female leader in Japan preparing
+      for a war with China. The United States is trying to promote Taiwan to fight to
+      the last Taiwanese against China, as Japan fights to the last Japanese by threatening
+      to fight over islands in the China Sea by putting American arms and missiles on
+      these islands, which will lead China to protect itself with a takeover. So, the
+      United States basically is in the position of Nazi Germany in creating a new Nazi
+      alliance. Western Europe, Ukraine, Japan, and elements in Taiwan and other countries
+      in the same way that it used Argentina and other right-wing military dictatorships
+      in Latin America. And the rest of the world seems blind to the fact that World
+      War III is not going to be fought in the same way that World War II was. It’s
+      not going to be armies of different countries attacking each other. As I mentioned,
+      it’ll be by missiles. And President Putin said in the last few weeks of the whole
+      fiction of Trump’s hope in making a ceasefire and an arrangement between Ukraine
+      and Russia: Our fight isn’t with Ukraine, it’s with Western Europe. Ukraine is
+      only the arena, the battlefield for the fight of the right-wing European parties,
+      the British Labour Party under Starmer, Orwellian doublespeak name for it, the
+      Merz’s Christian Democrats, and Macron’s party, which he began as a socialist
+      and then created his own party in 2016. These are the leaders who are sort of
+      joining in this new war if it’s really these three countries that are supplying
+      arms to Ukraine by steering and organizing its attacks on Russian shadow shipping
+      for its oil, and orchestrating, along with the Americans and with the American
+      satellites, the missiles that are being sent from Ukraine into Russia to attack
+      its oil refineries to try to disrupt its oil. Putin has said we realize that even
+      though these missiles are coming from Ukraine, it’s really not Ukraine that’s
+      doing it. Ukraine is a puppet government installed by the United States in Maidan
+      in 2014, and now it’s supplied with arms largely by Europe. We will retaliate
+      against the countries that send these missiles to us and that are attacking us.
+      And so the fight in Ukraine is essentially the opening phases of something like
+      World War II. And Putin has said we’re going to start by bombing the factories
+      that produce these missiles. We’ll bomb the electric facility companies that provide
+      the electricity for these. And we’ll let Western Europe fight to the last European
+      because it’ll be a very short war. And after the first few days, there really
+      won’t be any European leaders to negotiate with anymore because there won’t be
+      a viable Europe. Europe has agreed to it, saying, we think it’s a bluff. Well,
+      that’s the question. The assumption is that Russia has been militarily weakened
+      by the war and that it’s losing to Ukraine. That’s what all of the Council of
+      Foreign Relations is saying here. That’s what all of the pro-U.S. media are saying.
+      And as you know from the guests that you’ve had on your show, Glenn, that it’s
+      all a fiction, that that’s not what’s happening at all. So what’s being challenged
+      here is, you could say, the materialist approach to foreign policy, and in fact,
+      to history for that matter. The assumption of the materialist approach is that
+      countries are going to act in their economic self-interest. Well, that’s not happening.
+      Europe is not really acting in its economic self-interest or even its instinct
+      for survival. It’s acting in what Trump calls the “America first” interest, but
+      this interest isn’t really that of the United States, except it means that what
+      is left of the remnants of German industry and technology and that of France and
+      other countries, that are going to be, so Trump and his team hope, moved to the
+      United States. Europe is going to be emptied out. Western Europe is going to look
+      like the Baltics losing one third of their population, emigrating for work, essentially
+      just depopulating. And as the Latvians say: will the last emigrant in 2035 please
+      turn off the lights at the airport when you leave. That seems to be the dynamic
+      of depopulation, deindustrialization, unemployment, and breakup of Western Europe.
+      Well, the fact is that, before this really happens, the European Union itself
+      is going to probably break up. That’s what’s seen, and that’s why the United States,
+      in the last couple of weeks, has said: we think that Italy, Hungary, the Czech
+      Republic, and Slovakia, for starters, should withdraw from the European Union.
+      Well, you’re seeing that already. What are they going to do? You mentioned the
+      whole fight that occurred over the Euroclear confiscation of the $250 billion
+      equivalent of the Russian national savings that it put in Euroclear. Europe wants
+      to give this to Ukraine. Well, not really to Ukraine. Europe wants to give it
+      to its own military-industrial complex to build factories. It doesn’t intend any
+      actual money at all to go to Ukraine, because it would all be stolen, as you’ve
+      also seen in the last few weeks of all of the exposés of the money that’s been
+      siphoned off. Maybe one third of all the money that’s been spent in Ukraine ends
+      up in the pockets of the kleptocrats that have taken power and made Ukraine for
+      the last 15 years, according to the World Bank, the most corrupt country in the
+      Northern Hemisphere. Well, do they really want to give any money to this obviously
+      corrupt country? Well, they don’t. Except that a lot of this money that they give
+      to Ukraine has all been recycled back to the European leaders, who’ve been approving
+      the money to Ukraine. It’s a circular flow. The European leaders get a back flush
+      into their own campaigns and personal accounts for all of this. It’s not really
+      spent on Ukrainian defense at all. That’s why Ukraine’s losing so much. That’s
+      why there are so many desertions from the army, with the soldiers saying: wait
+      a minute, we were supposed to have barriers built up here. We were supposed to
+      have all this military support. None of this support was ever made. It seems that
+      the generals in charge of the money have just put it all in their pockets. Well,
+      that’s the situation we have. This is not a stable situation. That’s why it’s
+      unfolding week by week. And I think every week that you have your guests on, there’s
+      a new story, a new revelation, a new shift in this balance that is very rapidly
+      unfolding in a way that it’s very hard to forecast whether there’s going to be
+      a risk of an accident happening. That seems to be the case. ⁣GLENN DIESEN: I think
+      the model many envision in their head is to almost emulate the British and U.S.
+      offshore balancer strategy. That is, have first your proxies fight, much like
+      in World War II, have them exhaust each other. That is using Ukraine to exhaust
+      Russia. And once this war comes to an end, the assumption would be that if Russia
+      hasn’t lost, then at least it would be so exhausted that towards the end, some
+      powerful Western country would step in and then be able to dictate the outcome
+      of the war. But, of course, this is very different. Russia slowballed this to
+      a large extent in order to also make sure that it could make preparations for
+      a wider war. Because as you said, they know who’s pulling the strings behind.
+      So from what I’m hearing, they now have the Oreshniks on mass production. They
+      are also clearly signaling that if the Europeans plan to enter this war and attack
+      Russia, then they will not be fighting brotherly Ukrainian people. They will be
+      fighting Western Europeans, in which the gloves would come off in terms of the
+      weaponry that they would deploy. So I think we’re walking down a very dangerous
+      path. And also now that the Americans are trying to hand this whole thing over
+      to the Europeans and the Ukrainians are falling apart on the front line, the Europeans
+      will have this incentive to step up much harder on the Russians with more direct
+      attacks, while the Russians will now see that they have more freedom to act. That
+      is, if you have British or French planes or drones flying across along the Black
+      Sea to pick targets which should be struck, why would the Russians let them do
+      this? I think you’re going to see a much heavier hand by the Russians. They will
+      start to shoot these things down, and just at a time when the EU is also stepping
+      up its aggressive posture. So I think the illusion of escalation dominance in
+      Europe is going to lead to a disaster, probably sooner than later. But do you
+      have any final thoughts on where we are moving beyond the economy? ⁣MICHAEL HUDSON:
+      Well, America was not exhausted by World War II. America emerged from World War
+      II much stronger industrially and financially than it was before World War II.
+      Same thing with even Germany: it had increased its industry during World War II.
+      Russia, obviously, has become much more rapidly growing during the Ukraine war
+      than NATO Europe. So it’s just a fantasy that Russia is somehow the economy is
+      falling apart. That’s exactly the opposite of what is happening. And that’s what
+      the American military and State Department and American diplomats can’t acknowledge.
+      And here’s the problem. It’s a bureaucratic problem with America’s national security
+      reports. There’s a feeling that you have many researchers in the CIA and other
+      agencies that are reading the Russian speeches and the Russian newspapers, and
+      they say, well, the reality that we’re getting from the battlefield and from the
+      speeches is just the way that you’ve described, Glenn. Russia’s getting stronger.
+      And the force to come with a single uniform report is that, well, if you think
+      that Russia’s getting stronger and that Russia is winning the war in Ukraine,
+      then you’re Putin’s puppet. You must be sympathetic with Russia. You’re saying
+      that because you want to believe that Russia is getting stronger, and that is
+      not a patriotic thought. And people who are reality-based observers decide that,
+      with advancement closed off in the CIA and with having no receptiveness for the
+      reality that they’re describing, they’ll leave. Ray McGovern, who used to work
+      for the CIA, has been very explicit in describing this: either agree with this
+      or leave, our way or the highway. And so the CIA, the State Department, and the
+      Pentagon have a bureaucracy of “yes men” who are not going to disagree or point
+      to the flaws in this strategy. And this is what’s so crazy. There’s no real open
+      dialogue or checks and balances. And it’s as if everybody believes what’s reported
+      in the New York Times and Washington Post, the pro-war anti-Russian neocon, neoliberal
+      press. So there’s a lack of understanding either of the enemy or oneself. And
+      as Sun Tzu said in the Art of War : if you don’t understand yourself and you don’t
+      understand your enemy, you’re sure to lose. So that is the sort of a built-in
+      bureaucratic structuring of the mentality at work that guarantees a walk into
+      disaster. ⁣GLENN DIESEN: Yeah, the whole thing is very frustrating to watch from
+      Europe, I would say, because there’s all the things which we should have done.
+      We’re doing exactly the opposite. That is, if you see the U.S. in decline, relative
+      decline, deprivatizing Europe, you know, you would then end the dividing lines
+      in Europe, you would seek to make peace with the Russians. Everything would be
+      in place really for this, though. The whole reason why we had to split from the
+      Russians and redivide Europe was to give NATO a stronger role or a dominant role
+      in the post-Cold War era. But now we could really fix everything by restoring
+      relations with Russia, and improving relations with China. Instead, we’re throwing
+      away all the other relationships in the hope that the U.S. might stay after all.
+      It is incredibly frustrating to watch. And whenever they are called on it and
+      asked: why aren’t we taking a different approach, why not just settle relations
+      with Russia? They get some crazy answers: well, we can’t betray Ukraine. But this
+      confrontation with Russia is what destroys Ukraine. Or you get some fantasies
+      about Putin being Hitler. They want to conquer Europe. All of this nonsense. And
+      again, as you suggested, there’s no real discussion when the main logic is that
+      the USSR is the Russian Empire and just wants to conquer all of Europe, and anyone
+      who disagrees is a Putinist. It’s a great way of making sure that there is no
+      debate because it’s either agreeing with the nonsense or being a traitor effectively.
+      So it’s very extremely frustrating to watch, and it’s also one of the consequences,
+      I think, now of Europe essentially betraying all the core values it argued that
+      it was standing for. ⁣MICHAEL HUDSON: Well, the National Security Report wants
+      to blame European leaders, Macron, Starmer, and Merz, for this, but what’s really
+      stirring them all really is the United States. The National Security Report in
+      criticizing Europe doesn’t say it’s the United States that has installed these
+      leaders who specifically support the U.S. policy, certainly prior to Trump under
+      Biden. And I think Trump still holds this same policy of confrontation with Russia,
+      confrontation with China. There’s sort of a good cop, bad cop in negotiations
+      between the American bloc and Russia, China, and the global majority. The U.S.
+      and Trump are trying to say, I’m the good cop, and Europe is the bad cop, but
+      actually, they’re both bad cops. Trump has sought to make it appear as if he wants
+      the peace prize, but he doesn’t want the peace prize. He wants to conceal the
+      fact that he’s the most warlike leader that America has had. But he’s trying to
+      conceal it by saying, well, I’m for peace. Peace is my business, not war. When
+      actually he’s fully in-line, along with Rubio as his Secretary of State and of
+      the Senate leadership, Mitch McConnell. They’re all neocons, they’re all neoliberals
+      in the same boat, but if they can get the Europeans to blame their own leaders
+      and somehow elect people, another sort of European Zelensky who says he wants
+      peace and then immediately turns around and follows whoever’s giving him the paycheck
+      to make war, that’s the American dream. I think there’s beginning to be an anti-Americanism
+      in Europe. And you see that in the Financial Times, saying Europe has to realize
+      it has to go its own way. It has to be independent. And it has to talk about where
+      is our real economic interest and our real military interest in all of this, and
+      how does it diverge from what President Trump is trying to impose, which is “America
+      first” and make America great gain, with your own foreign resources, as if somehow
+      foreign resources can reindustrialize America without America having to change
+      the whole way in which its own economy is structured. The fact is that Europe
+      and the United States have a malstructured, financialized economy. This is the
+      real problem. And it’s also lost its democratic context for the economy. Everything
+      has changed, and all that the United States and Europe has to promote this worldview
+      is a fictitious narrative. And the fictitious narrative is broadcast through politicians’
+      statements and the public media. And whom are you going to believe, your eyes
+      or the public media? That’s the question. The European voters obviously reject
+      the policy of their leaders, and they don’t realize that their leaders themselves
+      are sort of American puppets. Whereas the proponents of the alternative are not
+      Putin’s puppets. They’re the realists. And they realize there’s no need for war.
+      It’s fictitious. It’s not that they’re pacifists, but there’s just no need for
+      war, and there’s no war that Europe can win against Russia now that it doesn’t
+      have any more arms. It has used them all up in Ukraine and sent them to Israel.
+      So it’s disarmed. It has no money. Its industry is unable to operate without the
+      inexpensive oil and gas that powered it before. There’s been no accounting for
+      what are the costs and benefits of the future. It’s so obvious once you sit down
+      and do it, but that’s not what the national Security Report comes right out and
+      acknowledges. And that’s the real problem. It’s as if the American establishment
+      doesn’t know what is in its own self-interest. It’s so pulled into this neoliberal,
+      neocon, “war with Russia” mentality that’s been in place for the last 40 years.
+      ⁣GLENN DIESEN: Well, Professor Hudson, thank you so much for your time. And these
+      are, yeah, interesting times, so thank you. ⁣MICHAEL HUDSON: Thanks for having
+      me, Glenn. Transcription and Diarization: https://scripthub.dev Editing: Harrison
+      Betts Review: ced Photo by Ian Hutchinson on Unsplash The post Deindustrialisation
+      Meets Coercion first appeared on Michael Hudson .'
+    one_sentence_summary: In a discussion between Glenn Diesen and Professor Michael
+      Hudson, they explore the rapid changes in U.S. national security strategy and
+      the disintegration of the post-World War II economic order, emphasizing that these
+      shifts are part of a larger phenomenon rather than merely the result of individual
+      political figures like Trump.
+    paragraph_summary: In a recent discussion, Professor Michael Hudson and Glenn Diesen
+      explored the evolving U.S. national security strategy and the disintegration of
+      the post-World War II economic order. Hudson emphasized that the current political
+      discourse often focuses too much on individual personalities, such as Trump, while
+      overlooking broader systemic issues that are undermining the foundations of the
+      existing economic structure. He critiqued the new national security strategy for
+      promoting an "America first" agenda that requires other nations, including Germany,
+      Japan, and South Korea, to prioritize U.S. interests over their own, marking a
+      significant departure from the cooperative economic framework established in 1945
+      when the U.S. was the dominant global power.
+    published: '2026-01-08T02:20:18+00:00'
   - title: How U.S. Security Became a Global Risk
     url: https://michael-hudson.com/2025/12/how-u-s-security-became-a-global-risk/
     text: '⁣NIMA ALKHORSHID: Hi, everybody. Today is Thursday, December 11th, 2025,
@@ -6314,6 +7956,1010 @@ articles:
       conflict, framing the U.S. proposal as a means to influence public opinion rather
       than a sincere attempt at resolution.
     published: '2025-11-30T00:49:38+00:00'
+  - title: Militarizing Decline
+    url: https://michael-hudson.com/2025/11/militarizing-decline/
+    text: '⁣NIMA ALKHORSHID: Hi, everybody. Today is Thursday, November 20th, 2025,
+      and our dear friends, Richard Wolff and Michael Hudson, are here with us. Welcome
+      back, Richard and Mike. ⁣RICHARD WOLFF: Glad to be here. ⁣NIMA ALKHORSHID: Please
+      subscribe and hit the like button. You can follow Michael Hudson by going to his
+      website, michael-hudson.com — MICHAEL HUDSON: [michael] hyphen [hudson] — ⁣NIMA
+      ALKHORSHID: — Richard Wolff, democracyatwork.info. You can follow Richard on his
+      YouTube channel, on his website, Democracy at Work (d@w). A lot of stuff, a lot
+      of discussions about everything that is going on considering the economy of the
+      United States, the economy of China, Russia, the Middle East, all of that. You
+      can find a lot of stuff there. Let me start, Michael, with you. The situation
+      with Europe is getting, somehow, desperate. And I think it’s important for us
+      to ask ourselves, maybe ask you: Is Europe using Trump’s tariffs as a scapegoat
+      to hide the consequences of its own decisions to cut off cheap Russian energy?
+      ⁣MICHAEL HUDSON: I don’t think the European leaders, [Friedrich] Merz and [Ursula]
+      von der Leyen, are trying to use the U.S. as a scapegoat because it was von der
+      Leyen herself that capitulated to everything that Trump was asking — for the tariff
+      rip-off that he did, the protection racket with Europe — Europe simply surrendered
+      because von der Leyen does not represent the EU voters as a whole. She (along
+      with Kaja Kallas and the EU’s foreign ministers) represents NATO, and NATO represents
+      the U.S. neocons; so they’re not going to blame the giveaway [on] America. They’re
+      blaming Russia. They’re saying: We’re having to, essentially, slow European growth
+      because we’ve had to prevent Russia from dominating us, by selling us inexpensive
+      oil and gas to power our industry. We’ve got to cut ourselves off with Russia.
+      We’ve got to cut ourselves off with China, by not letting any company in Europe
+      with a majority-Chinese influence [operate] here. So, Europe has declared war
+      on Russia, and China. Essentially, Europe has said: The reason that we’re in a
+      squeeze is we’re preparing for war with Russia in 2027. Maybe 2026. Maybe 2028.
+      So, the attempt is to blame Russia. To blame the U.S. is to blame themselves for
+      completely following the United States, basically. And the solution — by blaming
+      Russia — is that now they can restructure, using this crisis to restructure the
+      whole industrial economy of the European Union, away from what had been the former
+      industrial strength of Germany, France, and other countries, in making automobiles,
+      consumer goods, washing machines, refrigerators — all the things that have enabled
+      Germany to become such an industrial export power. They’re now changing all this.
+      And they’re saying: We are now shifting from a consumer economy to a military
+      economy, in preparation for the war. Although the EU says, well, our economy is
+      shrinking — they don’t say now that we can’t use Russian oil and gas anymore to
+      power our steel mills and our industrial products — we do have, essentially, one
+      sector that’s growing — and the European stock market actually is growing, despite
+      the fact that the GDP forecasts are down. And one part of the stock market has
+      been soaring in Europe, and that’s the military industrial stocks. Military industrial
+      stocks for the European stock market is what the Silicon Valley “Magnificent Seven”
+      stocks (NVIDIA, artificial intelligence, and social media) are for the United
+      States. They’re the leaders because the energy that Europe is able to get, increasingly
+      now imported from the United States, is being diverted to the arms makers. Who’s
+      going to pay for all this? Well, in the past, the whole European industrial export-oriented
+      economy was based on making profits by exporting, earning the foreign exchange,
+      which has been, essentially, supporting the Euro’s exchange rate against the dollar.
+      Well, how is Europe going to do this? There’s not really a source of foreign demand
+      anymore because there’s no European supply of industrial goods, given the fact
+      that the auto companies are closing down, industrial companies are closing down,
+      glassmakers in Germany are closing down, farm-equipment makers are laying off
+      workers. So, where are they going to get all of the money [for] all of this? Well,
+      they have found a source of foreign exchange, and that’s the Russian deposits
+      with Euroclear that are almost $200 billion (U.S.), somewhat less, for all that.
+      And the idea is to essentially confiscate this money. They say: We need this money
+      to defend Ukraine, as the war goes on for the next two years. Well, as all of
+      your other guests unanimously have forecast, the war in Ukraine is not likely
+      to go on for another two years. It may be over by next April — that’s the deadline
+      that von der Leyen has set for — well, we’ve got to make a decision over what
+      to do with the Euroclear money by April. They’re pretending that somehow this
+      money has to be given to Ukraine. But of course, you’ve all seen the scandals
+      about the embezzlement and the corruption of Ukraine as the most corrupt country
+      in Europe, and probably in the whole Northern Hemisphere. It’s kleptocrats, all
+      the way down. So, obviously, Europe is not gullible enough to just send these
+      Euros that they’ve seized from Russia to Ukraine. They’re going to put it in an
+      escrow fund, and the Escrow fund is going to be spent on European arms production.
+      So the money they’re giving to Ukraine is given to German, French, and other EU
+      companies to make arms, ostensibly, to send to Ukraine; and if not, to fight this
+      war that von der Leyen says we must fight in two or three years against Russia.
+      Well, this doesn’t really make any sense [in] itself. If there is a war with Russia
+      in three years, it’s not going to use tanks. It’s not going to use airplanes.
+      It’s not going to be a big, heavy armaments war. It’ll probably last only an hour;
+      and it’ll be fought by missiles; and there’ll be no more European arms after that
+      occurs. I’m not sure what will happen in Russia with its defense, but, at least,
+      if Europe is crazy enough to follow the American advice, and say: We fought to
+      the last Ukrainian. Now, let’s fight to the last German, French, and the last
+      European — well, if they want to go down that route, that’s the route they’re
+      going down. That’s the fantasy. That’s the disconnect that we have, between fantasy
+      and reality, that’s going on now. And it’s all about the narrative: How can they
+      make a narrative to justify this huge giveaway to the military-industrial complex,
+      that seems to be the most powerful lobbyist in Europe, backed by their neocon
+      counterparts in the United States? So, this is Europe’s military and economic
+      suicide drive. ⁣NIMA ALKHORSHID: Richard, here is what the [Chief of the Defense
+      Staff General Fabien Mandon] of France said, just today: he said that the French
+      must be prepared to lose their own children. What Michael has said, it’s all about
+      the militarization of Europe. And whoever out there who loves Europe, who wants
+      Europe to be a powerhouse, the last thing they want to do would be militarization
+      of Europe; because the history says that to us. If they go in that direction,
+      after all, eventually they’re going to fight each other, instead of fighting Russia,
+      in my opinion. When it comes to Europe and the growth of their economy, how much
+      of Europe’s sub-1% growth is truly caused by Washington? And how much is its structural
+      decline made in Brussels? ⁣RICHARD WOLFF: Well, let me comment on this whole conversation.
+      You know, the simple answer is, it’s always a mixture. It’s always a mixture of
+      what the Europeans do, in and of and for themselves, and how they cope with the
+      larger world, of which they are a part — and they are a part not because of anybody
+      else but them. It’s Europe that, during its colonialist phase (several centuries
+      old), brought the world together. Marx repeatedly explains to us that part of
+      the historic function of capitalism has been to create a world market. And when
+      he says that, he means European capitalism, which was the chief agency for doing
+      that. So, European development has always been dependent on its global expansion.
+      If I can remind you of the old Hegel discussion, when he talks about the relationship
+      between the master and the slave? You might think it’s only the slave who depends
+      on the master; but when you have a slave who does everything for you, you become
+      a slave of your slave — which is the brilliance of Hegel explaining the dialectic:
+      Europe, therefore, has always been a slave of the rest of the world, which it
+      made into slaves. It’s not either-or — it is this entwinement, and they can’t
+      get away from it. In the post-World War II period (the last 75 years), the Europeans
+      became utterly dependent on the United States; because they destroyed each other
+      in the idea that by winning World War II — whatever that might mean — they would
+      escape their slavery. They didn’t. The slaves slaughtered each other, and then
+      they all bowed down before the United States. Mostly, the people that we’re seeing
+      now (and this is very important) — von der Leyen, [Mark] Rutte, all of them —
+      are people whose entire lifetimes, their growing-up as children, their university
+      years, their power positions as they rose to the bureaucracy, have been steeped
+      in one overwhelming reality: and that is a slavish dependence on the United States.
+      So, they cannot, even when it is handed to them on a platter, they cannot turn
+      against what they have been busily working for all their lives. And I bet you
+      (I don’t know these people, but I bet you), if you gave them a few drinks and
+      you had a conversation, they would tell you all the ways in which the United States
+      helped them, lifted them up, boosted them through their careers — all the rest
+      of it. So, here comes Mr. Trump, who smacks them in the face, who declares war
+      on them with his tariffs and his trade wars, who announces that he doesn’t care
+      about them, that they have been — it’s like parents who disown their children.
+      Instead of the Europeans being our allies? They have cheated us! They have exploited
+      us! They are horrible, these Europeans! So here’s the slave being denounced by
+      the master; and being hit by tariffs. When Michael mentions how von der Leyen
+      gave away everything, let me remind everyone what she did. She committed the Europeans
+      — for the next ten years, I believe — to be dependent on liquefied natural gas
+      purchased from the United States at a price which, the last time I looked, was
+      two to three times the cost for energy from what they had gotten from Russia.
+      In addition, she committed the Europeans to invest $750 billion in the United
+      States. Let’s be very clear. She committed European politicians, like herself,
+      to the task of persuading the voters in Europe that they should support using
+      the $750 billion, not to create jobs for them, not to build their economy, not
+      to solve their problems, not to fund their social-safety net; but to do that for
+      the United States. That is a spectacular procedure, in which a slavish Europe
+      falls on its own sword, after being denounced, and attacked by the tariffs. And
+      remember: All of those things that von der Leyen agreed to, she agreed to in exchange
+      for lowering the tariffs, from the high level initially announced by Trump, to
+      a lower level, I believe around 15%. Well, I mean, it is beyond words. And it
+      is so grotesque that it immediately gives you a psychological insight: The demonization
+      of Russia is the displacement of the rage and anger against the United States.
+      That is the problem. The real danger, the real threat, the real burden, and the
+      real oppression of Europe is now being carried out — by Mr. Trump. But because
+      of the relationship, they can’t say so. They can’t bring it to their own brain.
+      They act, even on television, in front of their own people, they act out the slavery.
+      That’s how desperate they are. And the other side of that coin is the absolute
+      demonization of Russia. You have to heap onto Russia all of the hostility, all
+      of the rage you feel from Trump, but can’t discuss. You know, it’s very classic
+      in psychology. It’s called “projection” (it has other words), where you carry
+      through an emotion you cannot control, but you target another person. It’s the
+      idea behind scapegoating — it’s here in the United States: we have all these problems,
+      but we get very angry at immigrants. It’s ridiculous because it is a projection;
+      and it’s not the solution to the problem, it’s the evasion. Having said all of
+      that, I don’t see in Europe yet any break in the political elite from, basically,
+      continuing this policy. The danger in Europe comes from below. On the right, it
+      is the horror of what this is doing to the nationality of Europe. Well, we shouldn’t
+      be surprised. Nationalism has been the ideology in Europe — for, at least, the
+      last two centuries — the dominant one. So, the right-wing goes into its nationalist
+      history. You can see that in the United States, too. We deal with the problems
+      of a declining empire by reinventing nationalism. We have economic nationalism
+      and political nationalism, whereas each act of the nation is celebrated in enough
+      of the country to keep Mr. Trump, alive, and in power. And in Europe, we see the
+      same thing. Their nationalism, expressed as anti-Russian, and as a celebration
+      of the nature, is how the right wing, below, breaks with the old politicians —
+      you, are not saving the nation — right? Even when they are critical of the anti-Russian,
+      it’s because that’s subordinate. It’s not that they’re against that; that’s subordinate
+      to their story, which is the nationalism. On the left, they understand all of
+      this as being a threat to the welfare state, to the social democracy that was
+      created across the 20th century as the absolutely outstanding dimension of Europe:
+      its standard of living, its relative prosperity, and all of that. So the left
+      wing becomes “don’t do what the leaders do because it threatens the welfare state”
+      — and that’s a very powerful political argument — and, on the right, it’s the
+      nation. But the truth of it all is what Michael said: there is no solution here
+      for Europe. The idea that instead of being the center of global colonialism and
+      a powerhouse of capitalist industry, they’re going to be an armaments producer?
+      That is ridiculous. They will never catch up to the armaments industry of the
+      United States, or of Russia and China. Those are decades ahead of them. They don’t
+      have enough money to do that. They don’t have enough industrial base to do that.
+      And they’re technologically behind to a level that’s hysterically funny. So, this
+      is a decision that panders, in the short run, to keeping industry going — to boosting
+      the stock market, just as Michael said. But as a solution, a way for Europe to
+      regain what it once was, it is so inadequate, you know that these are political
+      people on their way out because that is ridiculous policy, pretending it’s something
+      else. ⁣MICHAEL HUDSON: Well, Richard, you begin, quite rightly, in explaining
+      what is the psychology of the European officials that are making these unrealistic
+      and self-destructive plans. I have met them, and it is psychological, but there’s
+      also a logic behind it. British and European officials, and bankers, and investors,
+      have told me, repeatedly: We don’t have a choice — and when they say that, they
+      mean we don’t have a choice because we’ve relied, ever since World War II, on
+      the United States as our export market, and as the investor in our industry, and
+      the provider of liquidity to us by the balance-of-payments surplus that we’re
+      running, that enables our governments to support the Euro’s exchange rate. Well,
+      that dependency on the U.S. is just what Trump was threatening to shut down. As
+      we’ve said before, the one asset that the United States has is not industrial
+      production, not productivity, not even good arms-making power. It’s the ability
+      to cause chaos in the existing trade and investment patterns on which the last
+      75 years have been based. Europe is simply too frightened to say: Well, it looks
+      like we’re losing the United States as a dependable export market. I guess we
+      have to turn east, toward Russia and China, even Iran, and the BRICS — that would
+      be what other countries, what Brazil has done, even Argentina, it’s what the BRICS
+      countries have done in response to Trump’s shakedown, threatening to close the
+      U.S. market. But the Europeans didn’t do that. They just can’t. You refer to European
+      nationalism. It’s also an Indo-European-speaking racism, I think. And yet this
+      nationalism, as if there’s a European nationalism, it’s still not pan-European,
+      because — look at how this fight over how to spend the money on investing in arms
+      to fight Russia is splitting up the EU. Hungary, and the Czech Republic, and even
+      Serbia (until the recent government changeover), have said: We’re going to veto
+      it — and the EU response is (von der Leyen said), well, either we’re going to
+      change the EU rules so they no longer have to be unanimous; or, if you veto it,
+      we’re going to have another way of working around it: we’ll have all the other
+      countries together make an agreement. Well, Hungary, Czechoslovakia said: You’ve
+      got to realize, you can cut yourself off from Russian gas and oil and buy from
+      the United States, but we can’t. We don’t have the ports. We don’t have the ability
+      to do that. We’re still getting oil from Kazakhstan, and from other Eastern suppliers.
+      We can’t afford to have our economy shut down. So this is splitting the European
+      nations against each other. And even Belgium is protected, and Belgium said: Wait
+      a minute, if you seize that money that Russia has under the authority of Euroclear,
+      we’re going to be responsible because we are the administrators (the Belgian government)
+      of Euroclear; and Russia will then have a legal case against us. And I want to
+      say something about this legal case because it hasn’t been discussed in the Western
+      press; but the speeches of Russia’s Foreign Minister [Sergey] Lavrov and President
+      [Vladimir] Putin have been very clear in just what the legal issues are, quite
+      apart from the political issues. There was a 1989 Belgian bilateral agreement
+      with Russia giving it the legal right to demand reimbursement of the central bank’s
+      assets, plus penalties and damages. Now, we know that these court cases take a
+      long time, that it could take up to ten years — that’s what the legal profession
+      does: it stalls, and stalls, to prevent justice being done in a timely way. It’s
+      like Charles Dickens’ novel [ Bleak House ], the whole novel about a court case
+      that goes on, and on, and on, and on, and on. Well, that’s still the fact. So,
+      von der Leyen didn’t make any reference at all to what these legal rules are,
+      because it’s very embarrassing. She simply promises that Belgium won’t have to
+      pay a loan. Well, that indicates the fact that she realizes that, yes, Russia
+      does have a chance, and we are going to have to pay. Anything we give on behalf
+      of Ukraine, Europe is going to have to pay; and that means somebody will have
+      to be taxed because, unlike the United States, Europe doesn’t create its own money
+      by its own central bank. It has this balanced-budget constraint that has been
+      tying it in knots. So, it means that, somehow, the European governments are going
+      to have to raise taxes even further. And in preparation for this, you have the
+      speeches of Chancellor Merz, for the last few weeks, in Germany, saying: You’ve
+      got to realize that we can’t defend Europe against the imminent Russian invasion,
+      and the mass of Russian troops that are going to be occupying Germany, and fighting
+      it all out with our brave infantry (that we will have to suddenly recruit and
+      send it to war — maybe with shovels because we don’t have any arms or ammunition
+      left). In order to prepare for all of this, we’ve got to cut back social spending.
+      So, Merz and the European Union have said: We really can no longer afford to pay
+      European households the support for the higher electricity and gas costs that
+      they need, to heat their houses and cook in the kitchens. We’re going to have
+      to stop that support. We’re not going to be able to do what we planned — German
+      industry may be very fine, but its public infrastructure is awful. As anyone knows
+      who’s had the misfortune of taking a German railway, the trains leave on time,
+      they don’t arrive on time. And you’d think that, like in the United States, taking
+      a train is cheaper and faster than an airline, but the trains are much, much more
+      expensive than air transport in Europe. Well, Europe was going to spend money
+      rebuilding its infrastructure. All of this has now been canceled and saying, instead
+      of having infrastructure that actually creates the economy’s ability to produce,
+      and to live, and to function, we’re going to have to spend it on arms — because
+      that’s the key to our stock market — and our economy is just like the United States.
+      It’s not about consumers, it’s not about the people; it’s about the stock market
+      — it’s about the 10% or the 1%. And so you’re seeing all of this laid bare. All
+      of a sudden, Europe has said: No more industrial capitalism. We’re now in a finance
+      capitalist environment, and it’s the financial sector that we’re living for. The
+      financial sector’s great source of short-term growth is war with Russia, war with
+      China; and by isolating ourselves, just like Trump has urged us to do — the settlement,
+      the “give,” in exchange for [the U.S.] not hurting Europe all the more — we’re
+      going to have to begin producing much more ourselves, and that will be a stock-market
+      bonanza for our bankers. So, all of a sudden, what people thought — the EU is
+      a trade agreement and industrial unification — has been a breaking-apart, a breaking-apart
+      of the EU; and a reconstruction by a cosmopolitan financial industry, and banking,
+      that seems to be running the EU, in conjunction with NATO and the military-industrial
+      complex. So, we have the military-banking complex in NATO, leaving out the civilian
+      economy and its industry. ⁣NIMA ALKHORSHID: Richard, two important players in
+      Europe. One of them is Germany, and Germany’s economic model — as I understand
+      it, is industry powered by cheap energy — is essentially dead right now, as we
+      talk. And France is sinking into political and fiscal chaos. Considering these
+      two important countries in Europe, which are literally the foundation of the economy
+      of Europe, what would happen to Europe? ⁣RICHARD WOLFF: Well, if you add Britain,
+      which is, arguably, in even worse shape than Germany and France, and if those
+      are the three powerhouse economies — you know, I don’t mean to be disrespectful,
+      but Spain and Italy really are another kind of European economy; but if Britain,
+      France, and Germany are in the kind of difficulty we are describing, well, then
+      Europe is in a fantastic difficulty — unless, and this goes back to Michael’s
+      point, unless what all of this means is that we’re going to have sequential withdrawals
+      from Europe. In other words, Hungary, the Czech Republic, others may follow, may
+      discover that they cannot, and will not, absorb the risks that these dependent-on-America
+      leaders are imposing and accepting for Europe and its future. And, even though
+      I know, it doesn’t look like it at the moment, but the sudden changes in Scandinavia
+      that brought them into NATO can reverse themselves, without too much of a change,
+      and go exactly in the opposite direction. And they would have the basis for cutting
+      deals, now, with Russia and China, that have never existed before. Let me drive
+      that point home. Russia and China, or more broadly, the BRICS alliance, is now
+      a much bigger, much richer economic totality than are the G7 — the U.S. and its
+      major allies, which include Britain, France, and Germany, and even include Japan
+      — and so you’re going to have very strong temptations inside Europe to make deals
+      with Russia, China, and the BRICS — all kinds of deals. Look, it goes a little
+      bit the other way. Let me give you two examples. Over the last week, the head
+      of Saudi Arabia [Mohammed bin Salman], who is in the BRICS, makes a major deal
+      with the United States. Okay, [Saudi Arabia] did that. At the same time, the new
+      leader of Japan [Sanae Takaichi] attacks China in a way that Japanese leaders
+      don’t do. What in the world is she doing? Okay, well, she’s part of that European-type
+      dependence on the United States and, in her enthusiasm, which she didn’t think
+      through, she pokes at China in a way that makes no sense; and the Chinese bear
+      (or the Russian bear) smacks her within (literally within) hours of her making
+      those comments on Taiwan. The Chinese are already letting her know: this is going
+      to cost you, sweetie pie. This doesn’t work. And they say the same thing, the
+      Europeans. They’re told the same thing by [Viktor] Orbán in Hungary: This is not
+      going to work, sweetie pie, he says to the European leaders. I’m not going to
+      sacrifice what we have here, a good intermediate position between Russia and the
+      rest of Europe. I’m not going to sacrifice that, either way. If the Russians ask
+      me, I won’t do it. If you ask me, I won’t do it — and for the moment, he can get
+      away with that. But that moment also has to figure into the Europeans’ [calculations],
+      and yet you see no sign of it. She [Ursula van der Leyen] says: I’m going to work
+      my way around the EU limits when Orbán threatens to veto. Yes; but Mr. Orban can
+      also work his way around. So can everybody else. This is empty rhetoric of people
+      in a desperate situation. I expect big changes in Europe politically, from below
+      (at the ballot box), and, as it sinks into them, that if you’re trying to build
+      up your military without the foundation of a big industrial sector, your very
+      militarization will require enormous imports. And those imports are going to cost
+      you. And where are you going to pay for them? You can’t sell your military equipment.
+      The Russians, the Chinese, and the Americans, and the Israelis, are ahead of you.
+      I don’t think these problems have been thought through, at all. I don’t see any
+      indication of a strategic way this is going to work. And having the German government
+      give big orders to [the] German armaments [industry] is the first step. How that
+      plays out is what you have to analyze; and they don’t seem to want to do that,
+      I suspect, because they don’t like where that leads them. They’re going to have
+      to — as technology changes, quickly, and as that technology will be coming from
+      the United States, which still has enough of an industrial base, and from Russia
+      and China, which for sure have an industrial base — they’re going to develop their
+      military technology based on what they’re able to do — which is what the Europeans
+      will not be able to do because they don’t have an industrial base, and no prospect
+      of getting one. So how are they going to even define a middle way with armaments?
+      They’re going to be a peripheral player. You know, the Czechs sell a lot of arms
+      around the world, and the Israelis sell a lot of arms. But they’re not powerhouses
+      akin to the United States, Russia, China, and they’re not going to be. They’re
+      bit players. That’s what the Germans will end up being: a bit player in a global
+      arms industry. But that’s not what Europe was. That’s not what they are implicitly
+      promising, or explicitly; so I see huge failures coming down the road for them,
+      given what they’ve said. And so I expect them to become more, not less, desperate.
+      And if I can see the last six months, I think there’s a lot of evidence that the
+      desperation is arriving. ⁣MICHAEL HUDSON: Well, Richard, your comments bring us
+      back to what’s been the big issue that we’ve been discussing for the last half
+      year. How do we explain, or forecast, what is going to happen in Europe’s future?
+      Our approach has always been: well, what’s its material self-interest? Are they
+      going to follow what is going to increase their material wealth, and the well-being,
+      and the living standards, and their productivity? Or is it going to be an abject
+      dependency on the U.S., fighting a war on behalf of the U.S. — if not to the last
+      European, then to the last element of the European economy, as it shrinks and
+      impoverishes the population? How is any of this consonant with democracy, quite
+      apart from economic material self-interest? Well, I think the only way of bridging
+      it — that the unrealistic military neocon group there — is to try to create a
+      false narrative — a fake narrative by the public media, by the newspapers controlled
+      by, essentially, the military people, the radio stations, the TV stations — that
+      essentially shapes how people think about Europe’s future. And the trick that
+      they’re trying to do is [to ask]: How do you think that the future isn’t about
+      your prosperity? It isn’t about the means of production. It isn’t about what you’ve
+      just been describing, Richard. These are the key. How do you make them think about
+      something else? One of the things that have been discussed in the last week, especially,
+      have been rulings over artificial intelligence, and the fact that all of the fight
+      of what seems to be the world economy’s growth sector is the artificial intelligence,
+      and the computing, and the making of computer chips to run the mass computers
+      that are needed to create an artificial-intelligence system for civilian and for
+      military uses. Well, all of these systems need electricity. That’s one of the
+      problems in the United States. How on earth can all of these “Magnificent Seven”
+      — [stocks in] artificial intelligence, and social-media platforms, and NVIDIA
+      — be able to build up these huge computer projects, if there’s no electricity
+      to run them? Or, if they’re going to be run on electricity, what is going to happen
+      to the electricity rates that consumers have to pay to heat their apartments and
+      cook with? Well, that’s the same problem that Europe is facing now in terms of
+      consumers. The electricity is a problem, and there again, we’re back to the consequences
+      of Europe cutting off its oil and gas trade with Europe. Europe doesn’t have that.
+      The United States itself doesn’t have that. China has that, largely because they’ve
+      made an enormous investment in solar energy, and the solar energy gives them a
+      surplus of electricity for all of their artificial-intelligence-computer industry.
+      The Americans are now noticing that, indeed, that’s going to be one of the key
+      things. But Donald Trump says there’s one sacred oath that he has taken, to God.
+      That is, the U.S. economy is based [on] and run by the oil industry. Oil is the
+      key to the Americans maintaining the dollarization standard. We have to control
+      the world’s oil by isolating our allies, not only from Russia, but from Venezuela,
+      from Iran, and anyone else who’s not part of our group. And so, because we’re
+      an oil economy, the United States has to fight against the global-warming agreements
+      that [the] U.S. vetoed and nullified in Paris this last week, fighting against
+      it; and essentially have cut America off from solar energy, off from the ability
+      of homes and localities to fund themselves if they’re in a sunny climate by solar
+      energy — especially because it’s China that makes the solar energy panels. I just
+      wanted to introduce that as an element in all of this self-interest. The world
+      economy is a single economic system. And you and I have continually talked about
+      this as the core of all of our discussions with Nima on this site. And that is
+      exactly what is left out of account because once you have the vested military
+      interests, neocon interests, oil-industry interests, and American-nationalist
+      interests, with its European satellites, all of a sudden, you can’t talk about
+      these things, because you realize the unreality of U.S. policy, and the European
+      policy that it’s dragged along with it. ⁣NIMA ALKHORSHID: Richard, it seems to
+      me that Europe is about to enter a new era of joint debt, another COVID-style
+      borrowing spree, this time in the name of Ukraine. ⁣RICHARD WOLFF: Yeah, well,
+      Mr. Schmerz in Germany has a very ambitious program of borrowing immense amounts
+      of money. Von der Leyen talks about borrowing in the name of Europe, and that
+      becomes then a burden on all the member countries, in one way or another. Dealing
+      with those Russian assets — You know, I wanted to make a comment about what Michael
+      said. It ought to have been a lesson learned, that after World War I, when you
+      imposed an enormous reparations debt on Germany, that, as that played itself out,
+      you produced more difficulties for Europe than you solved, and that you did much
+      to bring in World War II, by the very consequences of destroying Germany, and
+      then loading it up with an unpayable debt. And so you had that fantastic inflation
+      in 1923, wiped out the savings of the entire German working class, made them crazy
+      — I mean, they had lost World War I, then they were wiped out in the inflation
+      four or five years later, and then four or five years after that, the Great Depression
+      of 1929 descends. It’s not surprising that a working class that goes through three
+      traumatic events in ten or twelve years finds a reason to back up a little mustached-fellow
+      from Austria who was gonna make Germany “great again.” We are looking at very,
+      very serious commitments. A strategy, that we are saying we can’t see how it would
+      work, being financed by a level of borrowing they have never undertaken before
+      — and I want to remind you, this is at a time when the United States is more deeply
+      in debt — public debt, commercial debt, household debt — than it has ever had
+      before? You’re building an entire economy on a very slender foundation of massive
+      debt, which means that when you have a downturn, even if the downturn, otherwise,
+      were merely your garden-variety-business-cycle downturn, the ramification of the
+      downturn, when everybody is linked to everybody else by networks of debt, with
+      their derivative debts, and all the rest of it? Wow, we are not factoring in the
+      risk, that this kind of a downturn can be spectacular. And I find that remarkable
+      because, here at the United States, I am impressed with — despite the narrative
+      of the wonderful breakthrough-for-profit that artificial intelligence represents
+      — there really is serious worry that there’s an economic, you know, a stock-market
+      bubble being derived on top of it, which could blow the whole thing out of the
+      water — in the way that the dot-com bubble, at the end of the 1990s, exploded
+      in the year 2000, and led the way to record-low interest rates, negative interest
+      rates, all kinds of odd phenomena that shook the world economy. So the glib notion
+      that we can make these plans in a topsy-turvy capitalism, I find this an extraordinarily
+      dangerous way of not facing where we actually are. ⁣MICHAEL HUDSON: Richard, Europe
+      can’t borrow because that’s against the rules that Europe has imposed upon itself
+      — limiting government deficits to 5% of the GDP. So, what does it do if it can’t
+      borrow? It has to tax labor and industry, and that reduces profits, reduces living
+      standards. That’s why the EU structure itself is so self-destructive. I think
+      the crisis we’re seeing today isn’t simply a military crisis of Ukraine; it’s
+      a crisis in the fact that the EU has become malstructured; most of all, of letting
+      the EU be run by von der Leyen and Kallas, on behalf of NATO. Is the EU really
+      just an extension of the U.S. military, the War Department, and the State Department,
+      or is it the original steel-and-coal community evolving into the European community?
+      That’s the question. You also mentioned, quite rightly, the problem for the United
+      States, and the fact that there’s going to be a crash. Almost all of the Wall
+      Street Journal articles, the Financial Times articles, are all saying, the smart
+      money is all expecting a crash. Look at what happened two days ago, when the market
+      turned down. The Dow Jones and the S&P 500 were plunging. And yet, when they were
+      plunging, there wasn’t a movement into gold or into Bitcoin. Gold and Bitcoin
+      were sold off also. And the reason is that so many big institutional investors
+      made so many bad debts — by not listening to our show — that they had to cover
+      their losses by selling the one asset they had that didn’t go down: their gold,
+      and their bitcoins. And, of course, that pushed gold and bitcoins down, and bitcoins
+      are now down below 97. So, if there’s a bear market, bear markets normally fall
+      by 50% from the peak. Well, that means from 48,000 Dow Jones to 24,000. That means
+      that pension funds invested in the stock market are going to be losing half of
+      their capital. So we’re talking about all of these strains that have been created
+      artificially, by the whole fight over Russia, to the last Ukrainian, the last
+      European industrialist, and apparently, maybe, the last American financier also,
+      is now, as, I think, Malcolm X said, “the chickens are coming home to roost.”
+      ⁣RICHARD WOLFF: I want to remind people of several hundred years of European history,
+      when the Europeans — regularly, in small ways and then in cataclysmic ways — militarily
+      destroyed each other. The logical thing, if you’re a military person, and if the
+      conflict is between the United States, on the one hand, and Russia-China, on the
+      other, is, precisely, to work out your military conflict between the two of you
+      — and that would be Europe. And to make the Europeans do exactly what Michael
+      says, to be the Ukraine of the future — and they won’t be able to stop it. And
+      it will be much better for the United States and China-Russia to fight it out
+      in Europe than to confront one another. I find that a terrifying prospect — for
+      Europe! You know, two days ago — I don’t mean to close this [discussion] out this
+      way, but two days ago, a rocket barrage left Ukraine and headed for the city of
+      Voronezh in Russia, which, I don’t believe, had been a target of missile attacks
+      before. That’s deep into the interior of Russia. The missiles that were sent were
+      the American ATACMS missiles, which everybody tells me cannot be delivered by
+      the Ukrainians — unless American engineers and American intelligence-gathering
+      are combined to make that happen. The Ukrainians cannot do it on their own. Alright?
+      That means that even as all the maneuvering is going on, the United States sends
+      missiles deep into Russia. This is — I don’t know how to say it more strongly
+      — this is enormously provocative. Whatever else you think about the Ukraine war,
+      and rights and wrongs in it, the decision of one of the real combatants — that
+      is, the United States, on one hand, and Russia-China, on the other — for one of
+      them to send missiles into the interior of the other, at this point, when that
+      war is actually already winding down? What does that tell you about the strategic
+      attitude towards these things? The gap between the conversations we are having
+      and what is going on, at least, in the minds of those who make the policies in
+      Washington? ⁣MICHAEL HUDSON: Richard, that’s the really big picture. You’re right.
+      And I guess that’s going to be what our future shows are going to be about. ⁣NIMA
+      ALKHORSHID: Thank you so much, Richard and Michael. As always, great pleasure.
+      ⁣RICHARD WOLFF: Thank you. A very important conversation, to be continued. ⁣NIMA
+      ALKHORSHID: Yeah, exactly. Exactly. See you soon. Bye-bye. Transcription and Diarization:
+      https://scripthub.dev Editing: Kimberly Mims Review: ced Photo by Gayatri Malhotra
+      on Unsplash The post Militarizing Decline first appeared on Michael Hudson .'
+    one_sentence_summary: In a discussion featuring Richard Wolff and Michael Hudson,
+      Nima Alkhorchid explores whether Europe is using Trump's tariffs as a scapegoat
+      for its own economic challenges.
+    paragraph_summary: In a discussion on November 20, 2025, Nima Alkhorshid welcomed
+      economists Richard Wolff and Michael Hudson to analyze the current economic situation
+      in Europe, particularly in relation to U.S. tariffs and energy policies. Hudson
+      argued that European leaders, including Ursula von der Leyen, are not using Trump's
+      tariffs as a scapegoat for their economic struggles; instead, they are making
+      decisions that limit access to affordable Russian energy and restrict Chinese
+      influence, which he believes is detrimental to European growth. He criticized
+      the leaders for prioritizing NATO and U.S. interests over the needs of European
+      voters, suggesting that their actions are leading to economic hardship in Europe.
+    published: '2025-11-26T01:50:39+00:00'
+  - title: Militarizing Decline
+    url: https://michael-hudson.com/2025/11/militarizing-decline/
+    text: '⁣NIMA ALKHORSHID: Hi, everybody. Today is Thursday, November 20th, 2025,
+      and our dear friends, Richard Wolff and Michael Hudson, are here with us. Welcome
+      back, Richard and Mike. ⁣RICHARD WOLFF: Glad to be here. ⁣NIMA ALKHORSHID: Please
+      subscribe and hit the like button. You can follow Michael Hudson by going to his
+      website, michael-hudson.com — MICHAEL HUDSON: [michael] hyphen [hudson] — ⁣NIMA
+      ALKHORSHID: — Richard Wolff, democracyatwork.info. You can follow Richard on his
+      YouTube channel, on his website, Democracy at Work (d@w). A lot of stuff, a lot
+      of discussions about everything that is going on considering the economy of the
+      United States, the economy of China, Russia, the Middle East, all of that. You
+      can find a lot of stuff there. Let me start, Michael, with you. The situation
+      with Europe is getting, somehow, desperate. And I think it’s important for us
+      to ask ourselves, maybe ask you: Is Europe using Trump’s tariffs as a scapegoat
+      to hide the consequences of its own decisions to cut off cheap Russian energy?
+      ⁣MICHAEL HUDSON: I don’t think the European leaders, [Friedrich] Merz and [Ursula]
+      von der Leyen, are trying to use the U.S. as a scapegoat because it was von der
+      Leyen herself that capitulated to everything that Trump was asking — for the tariff
+      rip-off that he did, the protection racket with Europe — Europe simply surrendered
+      because von der Leyen does not represent the EU voters as a whole. She (along
+      with Kaja Kallas and the EU’s foreign ministers) represents NATO, and NATO represents
+      the U.S. neocons; so they’re not going to blame the giveaway [on] America. They’re
+      blaming Russia. They’re saying: We’re having to, essentially, slow European growth
+      because we’ve had to prevent Russia from dominating us, by selling us inexpensive
+      oil and gas to power our industry. We’ve got to cut ourselves off with Russia.
+      We’ve got to cut ourselves off with China, by not letting any company in Europe
+      with a majority-Chinese influence [operate] here. So, Europe has declared war
+      on Russia, and China. Essentially, Europe has said: The reason that we’re in a
+      squeeze is we’re preparing for war with Russia in 2027. Maybe 2026. Maybe 2028.
+      So, the attempt is to blame Russia. To blame the U.S. is to blame themselves for
+      completely following the United States, basically. And the solution — by blaming
+      Russia — is that now they can restructure, using this crisis to restructure the
+      whole industrial economy of the European Union, away from what had been the former
+      industrial strength of Germany, France, and other countries, in making automobiles,
+      consumer goods, washing machines, refrigerators — all the things that have enabled
+      Germany to become such an industrial export power. They’re now changing all this.
+      And they’re saying: We are now shifting from a consumer economy to a military
+      economy, in preparation for the war. Although the EU says, well, our economy is
+      shrinking — they don’t say now that we can’t use Russian oil and gas anymore to
+      power our steel mills and our industrial products — we do have, essentially, one
+      sector that’s growing — and the European stock market actually is growing, despite
+      the fact that the GDP forecasts are down. And one part of the stock market has
+      been soaring in Europe, and that’s the military industrial stocks. Military industrial
+      stocks for the European stock market is what the Silicon Valley “Magnificent Seven”
+      stocks (NVIDIA, artificial intelligence, and social media) are for the United
+      States. They’re the leaders because the energy that Europe is able to get, increasingly
+      now imported from the United States, is being diverted to the arms makers. Who’s
+      going to pay for all this? Well, in the past, the whole European industrial export-oriented
+      economy was based on making profits by exporting, earning the foreign exchange,
+      which has been, essentially, supporting the Euro’s exchange rate against the dollar.
+      Well, how is Europe going to do this? There’s not really a source of foreign demand
+      anymore because there’s no European supply of industrial goods, given the fact
+      that the auto companies are closing down, industrial companies are closing down,
+      glassmakers in Germany are closing down, farm-equipment makers are laying off
+      workers. So, where are they going to get all of the money [for] all of this? Well,
+      they have found a source of foreign exchange, and that’s the Russian deposits
+      with Euroclear that are almost $200 billion (U.S.), somewhat less, for all that.
+      And the idea is to essentially confiscate this money. They say: We need this money
+      to defend Ukraine, as the war goes on for the next two years. Well, as all of
+      your other guests unanimously have forecast, the war in Ukraine is not likely
+      to go on for another two years. It may be over by next April — that’s the deadline
+      that von der Leyen has set for — well, we’ve got to make a decision over what
+      to do with the Euroclear money by April. They’re pretending that somehow this
+      money has to be given to Ukraine. But of course, you’ve all seen the scandals
+      about the embezzlement and the corruption of Ukraine as the most corrupt country
+      in Europe, and probably in the whole Northern Hemisphere. It’s kleptocrats, all
+      the way down. So, obviously, Europe is not gullible enough to just send these
+      Euros that they’ve seized from Russia to Ukraine. They’re going to put it in an
+      escrow fund, and the Escrow fund is going to be spent on European arms production.
+      So the money they’re giving to Ukraine is given to German, French, and other EU
+      companies to make arms, ostensibly, to send to Ukraine; and if not, to fight this
+      war that von der Leyen says we must fight in two or three years against Russia.
+      Well, this doesn’t really make any sense [in] itself. If there is a war with Russia
+      in three years, it’s not going to use tanks. It’s not going to use airplanes.
+      It’s not going to be a big, heavy armaments war. It’ll probably last only an hour;
+      and it’ll be fought by missiles; and there’ll be no more European arms after that
+      occurs. I’m not sure what will happen in Russia with its defense, but, at least,
+      if Europe is crazy enough to follow the American advice, and say: We fought to
+      the last Ukrainian. Now, let’s fight to the last German, French, and the last
+      European — well, if they want to go down that route, that’s the route they’re
+      going down. That’s the fantasy. That’s the disconnect that we have, between fantasy
+      and reality, that’s going on now. And it’s all about the narrative: How can they
+      make a narrative to justify this huge giveaway to the military-industrial complex,
+      that seems to be the most powerful lobbyist in Europe, backed by their neocon
+      counterparts in the United States? So, this is Europe’s military and economic
+      suicide drive. ⁣NIMA ALKHORSHID: Richard, here is what the [Chief of the Defense
+      Staff General Fabien Mandon] of France said, just today: he said that the French
+      must be prepared to lose their own children. What Michael has said, it’s all about
+      the militarization of Europe. And whoever out there who loves Europe, who wants
+      Europe to be a powerhouse, the last thing they want to do would be militarization
+      of Europe; because the history says that to us. If they go in that direction,
+      after all, eventually they’re going to fight each other, instead of fighting Russia,
+      in my opinion. When it comes to Europe and the growth of their economy, how much
+      of Europe’s sub-1% growth is truly caused by Washington? And how much is its structural
+      decline made in Brussels? ⁣RICHARD WOLFF: Well, let me comment on this whole conversation.
+      You know, the simple answer is, it’s always a mixture. It’s always a mixture of
+      what the Europeans do, in and of and for themselves, and how they cope with the
+      larger world, of which they are a part — and they are a part not because of anybody
+      else but them. It’s Europe that, during its colonialist phase (several centuries
+      old), brought the world together. Marx repeatedly explains to us that part of
+      the historic function of capitalism has been to create a world market. And when
+      he says that, he means European capitalism, which was the chief agency for doing
+      that. So, European development has always been dependent on its global expansion.
+      If I can remind you of the old Hegel discussion, when he talks about the relationship
+      between the master and the slave? You might think it’s only the slave who depends
+      on the master; but when you have a slave who does everything for you, you become
+      a slave of your slave — which is the brilliance of Hegel explaining the dialectic:
+      Europe, therefore, has always been a slave of the rest of the world, which it
+      made into slaves. It’s not either-or — it is this entwinement, and they can’t
+      get away from it. In the post-World War II period (the last 75 years), the Europeans
+      became utterly dependent on the United States; because they destroyed each other
+      in the idea that by winning World War II — whatever that might mean — they would
+      escape their slavery. They didn’t. The slaves slaughtered each other, and then
+      they all bowed down before the United States. Mostly, the people that we’re seeing
+      now (and this is very important) — von der Leyen, [Mark] Rutte, all of them —
+      are people whose entire lifetimes, their growing-up as children, their university
+      years, their power positions as they rose to the bureaucracy, have been steeped
+      in one overwhelming reality: and that is a slavish dependence on the United States.
+      So, they cannot, even when it is handed to them on a platter, they cannot turn
+      against what they have been busily working for all their lives. And I bet you
+      (I don’t know these people, but I bet you), if you gave them a few drinks and
+      you had a conversation, they would tell you all the ways in which the United States
+      helped them, lifted them up, boosted them through their careers — all the rest
+      of it. So, here comes Mr. Trump, who smacks them in the face, who declares war
+      on them with his tariffs and his trade wars, who announces that he doesn’t care
+      about them, that they have been — it’s like parents who disown their children.
+      Instead of the Europeans being our allies? They have cheated us! They have exploited
+      us! They are horrible, these Europeans! So here’s the slave being denounced by
+      the master; and being hit by tariffs. When Michael mentions how von der Leyen
+      gave away everything, let me remind everyone what she did. She committed the Europeans
+      — for the next ten years, I believe — to be dependent on liquefied natural gas
+      purchased from the United States at a price which, the last time I looked, was
+      two to three times the cost for energy from what they had gotten from Russia.
+      In addition, she committed the Europeans to invest $750 billion in the United
+      States. Let’s be very clear. She committed European politicians, like herself,
+      to the task of persuading the voters in Europe that they should support using
+      the $750 billion, not to create jobs for them, not to build their economy, not
+      to solve their problems, not to fund their social-safety net; but to do that for
+      the United States. That is a spectacular procedure, in which a slavish Europe
+      falls on its own sword, after being denounced, and attacked by the tariffs. And
+      remember: All of those things that von der Leyen agreed to, she agreed to in exchange
+      for lowering the tariffs, from the high level initially announced by Trump, to
+      a lower level, I believe around 15%. Well, I mean, it is beyond words. And it
+      is so grotesque that it immediately gives you a psychological insight: The demonization
+      of Russia is the displacement of the rage and anger against the United States.
+      That is the problem. The real danger, the real threat, the real burden, and the
+      real oppression of Europe is now being carried out — by Mr. Trump. But because
+      of the relationship, they can’t say so. They can’t bring it to their own brain.
+      They act, even on television, in front of their own people, they act out the slavery.
+      That’s how desperate they are. And the other side of that coin is the absolute
+      demonization of Russia. You have to heap onto Russia all of the hostility, all
+      of the rage you feel from Trump, but can’t discuss. You know, it’s very classic
+      in psychology. It’s called “projection” (it has other words), where you carry
+      through an emotion you cannot control, but you target another person. It’s the
+      idea behind scapegoating — it’s here in the United States: we have all these problems,
+      but we get very angry at immigrants. It’s ridiculous because it is a projection;
+      and it’s not the solution to the problem, it’s the evasion. Having said all of
+      that, I don’t see in Europe yet any break in the political elite from, basically,
+      continuing this policy. The danger in Europe comes from below. On the right, it
+      is the horror of what this is doing to the nationality of Europe. Well, we shouldn’t
+      be surprised. Nationalism has been the ideology in Europe — for, at least, the
+      last two centuries — the dominant one. So, the right-wing goes into its nationalist
+      history. You can see that in the United States, too. We deal with the problems
+      of a declining empire by reinventing nationalism. We have economic nationalism
+      and political nationalism, whereas each act of the nation is celebrated in enough
+      of the country to keep Mr. Trump, alive, and in power. And in Europe, we see the
+      same thing. Their nationalism, expressed as anti-Russian, and as a celebration
+      of the nature, is how the right wing, below, breaks with the old politicians —
+      you, are not saving the nation — right? Even when they are critical of the anti-Russian,
+      it’s because that’s subordinate. It’s not that they’re against that; that’s subordinate
+      to their story, which is the nationalism. On the left, they understand all of
+      this as being a threat to the welfare state, to the social democracy that was
+      created across the 20th century as the absolutely outstanding dimension of Europe:
+      its standard of living, its relative prosperity, and all of that. So the left
+      wing becomes “don’t do what the leaders do because it threatens the welfare state”
+      — and that’s a very powerful political argument — and, on the right, it’s the
+      nation. But the truth of it all is what Michael said: there is no solution here
+      for Europe. The idea that instead of being the center of global colonialism and
+      a powerhouse of capitalist industry, they’re going to be an armaments producer?
+      That is ridiculous. They will never catch up to the armaments industry of the
+      United States, or of Russia and China. Those are decades ahead of them. They don’t
+      have enough money to do that. They don’t have enough industrial base to do that.
+      And they’re technologically behind to a level that’s hysterically funny. So, this
+      is a decision that panders, in the short run, to keeping industry going — to boosting
+      the stock market, just as Michael said. But as a solution, a way for Europe to
+      regain what it once was, it is so inadequate, you know that these are political
+      people on their way out because that is ridiculous policy, pretending it’s something
+      else. ⁣MICHAEL HUDSON: Well, Richard, you begin, quite rightly, in explaining
+      what is the psychology of the European officials that are making these unrealistic
+      and self-destructive plans. I have met them, and it is psychological, but there’s
+      also a logic behind it. British and European officials, and bankers, and investors,
+      have told me, repeatedly: We don’t have a choice — and when they say that, they
+      mean we don’t have a choice because we’ve relied, ever since World War II, on
+      the United States as our export market, and as the investor in our industry, and
+      the provider of liquidity to us by the balance-of-payments surplus that we’re
+      running, that enables our governments to support the Euro’s exchange rate. Well,
+      that dependency on the U.S. is just what Trump was threatening to shut down. As
+      we’ve said before, the one asset that the United States has is not industrial
+      production, not productivity, not even good arms-making power. It’s the ability
+      to cause chaos in the existing trade and investment patterns on which the last
+      75 years have been based. Europe is simply too frightened to say: Well, it looks
+      like we’re losing the United States as a dependable export market. I guess we
+      have to turn east, toward Russia and China, even Iran, and the BRICS — that would
+      be what other countries, what Brazil has done, even Argentina, it’s what the BRICS
+      countries have done in response to Trump’s shakedown, threatening to close the
+      U.S. market. But the Europeans didn’t do that. They just can’t. You refer to European
+      nationalism. It’s also an Indo-European-speaking racism, I think. And yet this
+      nationalism, as if there’s a European nationalism, it’s still not pan-European,
+      because — look at how this fight over how to spend the money on investing in arms
+      to fight Russia is splitting up the EU. Hungary, and the Czech Republic, and even
+      Serbia (until the recent government changeover), have said: We’re going to veto
+      it — and the EU response is (von der Leyen said), well, either we’re going to
+      change the EU rules so they no longer have to be unanimous; or, if you veto it,
+      we’re going to have another way of working around it: we’ll have all the other
+      countries together make an agreement. Well, Hungary, Czechoslovakia said: You’ve
+      got to realize, you can cut yourself off from Russian gas and oil and buy from
+      the United States, but we can’t. We don’t have the ports. We don’t have the ability
+      to do that. We’re still getting oil from Kazakhstan, and from other Eastern suppliers.
+      We can’t afford to have our economy shut down. So this is splitting the European
+      nations against each other. And even Belgium is protected, and Belgium said: Wait
+      a minute, if you seize that money that Russia has under the authority of Euroclear,
+      we’re going to be responsible because we are the administrators (the Belgian government)
+      of Euroclear; and Russia will then have a legal case against us. And I want to
+      say something about this legal case because it hasn’t been discussed in the Western
+      press; but the speeches of Russia’s Foreign Minister [Sergey] Lavrov and President
+      [Vladimir] Putin have been very clear in just what the legal issues are, quite
+      apart from the political issues. There was a 1989 Belgian bilateral agreement
+      with Russia giving it the legal right to demand reimbursement of the central bank’s
+      assets, plus penalties and damages. Now, we know that these court cases take a
+      long time, that it could take up to ten years — that’s what the legal profession
+      does: it stalls, and stalls, to prevent justice being done in a timely way. It’s
+      like Charles Dickens’ novel [ Bleak House ], the whole novel about a court case
+      that goes on, and on, and on, and on, and on. Well, that’s still the fact. So,
+      von der Leyen didn’t make any reference at all to what these legal rules are,
+      because it’s very embarrassing. She simply promises that Belgium won’t have to
+      pay a loan. Well, that indicates the fact that she realizes that, yes, Russia
+      does have a chance, and we are going to have to pay. Anything we give on behalf
+      of Ukraine, Europe is going to have to pay; and that means somebody will have
+      to be taxed because, unlike the United States, Europe doesn’t create its own money
+      by its own central bank. It has this balanced-budget constraint that has been
+      tying it in knots. So, it means that, somehow, the European governments are going
+      to have to raise taxes even further. And in preparation for this, you have the
+      speeches of Chancellor Merz, for the last few weeks, in Germany, saying: You’ve
+      got to realize that we can’t defend Europe against the imminent Russian invasion,
+      and the mass of Russian troops that are going to be occupying Germany, and fighting
+      it all out with our brave infantry (that we will have to suddenly recruit and
+      send it to war — maybe with shovels because we don’t have any arms or ammunition
+      left). In order to prepare for all of this, we’ve got to cut back social spending.
+      So, Merz and the European Union have said: We really can no longer afford to pay
+      European households the support for the higher electricity and gas costs that
+      they need, to heat their houses and cook in the kitchens. We’re going to have
+      to stop that support. We’re not going to be able to do what we planned — German
+      industry may be very fine, but its public infrastructure is awful. As anyone knows
+      who’s had the misfortune of taking a German railway, the trains leave on time,
+      they don’t arrive on time. And you’d think that, like in the United States, taking
+      a train is cheaper and faster than an airline, but the trains are much, much more
+      expensive than air transport in Europe. Well, Europe was going to spend money
+      rebuilding its infrastructure. All of this has now been canceled and saying, instead
+      of having infrastructure that actually creates the economy’s ability to produce,
+      and to live, and to function, we’re going to have to spend it on arms — because
+      that’s the key to our stock market — and our economy is just like the United States.
+      It’s not about consumers, it’s not about the people; it’s about the stock market
+      — it’s about the 10% or the 1%. And so you’re seeing all of this laid bare. All
+      of a sudden, Europe has said: No more industrial capitalism. We’re now in a finance
+      capitalist environment, and it’s the financial sector that we’re living for. The
+      financial sector’s great source of short-term growth is war with Russia, war with
+      China; and by isolating ourselves, just like Trump has urged us to do — the settlement,
+      the “give,” in exchange for [the U.S.] not hurting Europe all the more — we’re
+      going to have to begin producing much more ourselves, and that will be a stock-market
+      bonanza for our bankers. So, all of a sudden, what people thought — the EU is
+      a trade agreement and industrial unification — has been a breaking-apart, a breaking-apart
+      of the EU; and a reconstruction by a cosmopolitan financial industry, and banking,
+      that seems to be running the EU, in conjunction with NATO and the military-industrial
+      complex. So, we have the military-banking complex in NATO, leaving out the civilian
+      economy and its industry. ⁣NIMA ALKHORSHID: Richard, two important players in
+      Europe. One of them is Germany, and Germany’s economic model — as I understand
+      it, is industry powered by cheap energy — is essentially dead right now, as we
+      talk. And France is sinking into political and fiscal chaos. Considering these
+      two important countries in Europe, which are literally the foundation of the economy
+      of Europe, what would happen to Europe? ⁣RICHARD WOLFF: Well, if you add Britain,
+      which is, arguably, in even worse shape than Germany and France, and if those
+      are the three powerhouse economies — you know, I don’t mean to be disrespectful,
+      but Spain and Italy really are another kind of European economy; but if Britain,
+      France, and Germany are in the kind of difficulty we are describing, well, then
+      Europe is in a fantastic difficulty — unless, and this goes back to Michael’s
+      point, unless what all of this means is that we’re going to have sequential withdrawals
+      from Europe. In other words, Hungary, the Czech Republic, others may follow, may
+      discover that they cannot, and will not, absorb the risks that these dependent-on-America
+      leaders are imposing and accepting for Europe and its future. And, even though
+      I know, it doesn’t look like it at the moment, but the sudden changes in Scandinavia
+      that brought them into NATO can reverse themselves, without too much of a change,
+      and go exactly in the opposite direction. And they would have the basis for cutting
+      deals, now, with Russia and China, that have never existed before. Let me drive
+      that point home. Russia and China, or more broadly, the BRICS alliance, is now
+      a much bigger, much richer economic totality than are the G7 — the U.S. and its
+      major allies, which include Britain, France, and Germany, and even include Japan
+      — and so you’re going to have very strong temptations inside Europe to make deals
+      with Russia, China, and the BRICS — all kinds of deals. Look, it goes a little
+      bit the other way. Let me give you two examples. Over the last week, the head
+      of Saudi Arabia [Mohammed bin Salman], who is in the BRICS, makes a major deal
+      with the United States. Okay, [Saudi Arabia] did that. At the same time, the new
+      leader of Japan [Sanae Takaichi] attacks China in a way that Japanese leaders
+      don’t do. What in the world is she doing? Okay, well, she’s part of that European-type
+      dependence on the United States and, in her enthusiasm, which she didn’t think
+      through, she pokes at China in a way that makes no sense; and the Chinese bear
+      (or the Russian bear) smacks her within (literally within) hours of her making
+      those comments on Taiwan. The Chinese are already letting her know: this is going
+      to cost you, sweetie pie. This doesn’t work. And they say the same thing, the
+      Europeans. They’re told the same thing by [Viktor] Orbán in Hungary: This is not
+      going to work, sweetie pie, he says to the European leaders. I’m not going to
+      sacrifice what we have here, a good intermediate position between Russia and the
+      rest of Europe. I’m not going to sacrifice that, either way. If the Russians ask
+      me, I won’t do it. If you ask me, I won’t do it — and for the moment, he can get
+      away with that. But that moment also has to figure into the Europeans’ [calculations],
+      and yet you see no sign of it. She [Ursula van der Leyen] says: I’m going to work
+      my way around the EU limits when Orbán threatens to veto. Yes; but Mr. Orban can
+      also work his way around. So can everybody else. This is empty rhetoric of people
+      in a desperate situation. I expect big changes in Europe politically, from below
+      (at the ballot box), and, as it sinks into them, that if you’re trying to build
+      up your military without the foundation of a big industrial sector, your very
+      militarization will require enormous imports. And those imports are going to cost
+      you. And where are you going to pay for them? You can’t sell your military equipment.
+      The Russians, the Chinese, and the Americans, and the Israelis, are ahead of you.
+      I don’t think these problems have been thought through, at all. I don’t see any
+      indication of a strategic way this is going to work. And having the German government
+      give big orders to [the] German armaments [industry] is the first step. How that
+      plays out is what you have to analyze; and they don’t seem to want to do that,
+      I suspect, because they don’t like where that leads them. They’re going to have
+      to — as technology changes, quickly, and as that technology will be coming from
+      the United States, which still has enough of an industrial base, and from Russia
+      and China, which for sure have an industrial base — they’re going to develop their
+      military technology based on what they’re able to do — which is what the Europeans
+      will not be able to do because they don’t have an industrial base, and no prospect
+      of getting one. So how are they going to even define a middle way with armaments?
+      They’re going to be a peripheral player. You know, the Czechs sell a lot of arms
+      around the world, and the Israelis sell a lot of arms. But they’re not powerhouses
+      akin to the United States, Russia, China, and they’re not going to be. They’re
+      bit players. That’s what the Germans will end up being: a bit player in a global
+      arms industry. But that’s not what Europe was. That’s not what they are implicitly
+      promising, or explicitly; so I see huge failures coming down the road for them,
+      given what they’ve said. And so I expect them to become more, not less, desperate.
+      And if I can see the last six months, I think there’s a lot of evidence that the
+      desperation is arriving. ⁣MICHAEL HUDSON: Well, Richard, your comments bring us
+      back to what’s been the big issue that we’ve been discussing for the last half
+      year. How do we explain, or forecast, what is going to happen in Europe’s future?
+      Our approach has always been: well, what’s its material self-interest? Are they
+      going to follow what is going to increase their material wealth, and the well-being,
+      and the living standards, and their productivity? Or is it going to be an abject
+      dependency on the U.S., fighting a war on behalf of the U.S. — if not to the last
+      European, then to the last element of the European economy, as it shrinks and
+      impoverishes the population? How is any of this consonant with democracy, quite
+      apart from economic material self-interest? Well, I think the only way of bridging
+      it — that the unrealistic military neocon group there — is to try to create a
+      false narrative — a fake narrative by the public media, by the newspapers controlled
+      by, essentially, the military people, the radio stations, the TV stations — that
+      essentially shapes how people think about Europe’s future. And the trick that
+      they’re trying to do is [to ask]: How do you think that the future isn’t about
+      your prosperity? It isn’t about the means of production. It isn’t about what you’ve
+      just been describing, Richard. These are the key. How do you make them think about
+      something else? One of the things that have been discussed in the last week, especially,
+      have been rulings over artificial intelligence, and the fact that all of the fight
+      of what seems to be the world economy’s growth sector is the artificial intelligence,
+      and the computing, and the making of computer chips to run the mass computers
+      that are needed to create an artificial-intelligence system for civilian and for
+      military uses. Well, all of these systems need electricity. That’s one of the
+      problems in the United States. How on earth can all of these “Magnificent Seven”
+      — [stocks in] artificial intelligence, and social-media platforms, and NVIDIA
+      — be able to build up these huge computer projects, if there’s no electricity
+      to run them? Or, if they’re going to be run on electricity, what is going to happen
+      to the electricity rates that consumers have to pay to heat their apartments and
+      cook with? Well, that’s the same problem that Europe is facing now in terms of
+      consumers. The electricity is a problem, and there again, we’re back to the consequences
+      of Europe cutting off its oil and gas trade with Europe. Europe doesn’t have that.
+      The United States itself doesn’t have that. China has that, largely because they’ve
+      made an enormous investment in solar energy, and the solar energy gives them a
+      surplus of electricity for all of their artificial-intelligence-computer industry.
+      The Americans are now noticing that, indeed, that’s going to be one of the key
+      things. But Donald Trump says there’s one sacred oath that he has taken, to God.
+      That is, the U.S. economy is based [on] and run by the oil industry. Oil is the
+      key to the Americans maintaining the dollarization standard. We have to control
+      the world’s oil by isolating our allies, not only from Russia, but from Venezuela,
+      from Iran, and anyone else who’s not part of our group. And so, because we’re
+      an oil economy, the United States has to fight against the global-warming agreements
+      that [the] U.S. vetoed and nullified in Paris this last week, fighting against
+      it; and essentially have cut America off from solar energy, off from the ability
+      of homes and localities to fund themselves if they’re in a sunny climate by solar
+      energy — especially because it’s China that makes the solar energy panels. I just
+      wanted to introduce that as an element in all of this self-interest. The world
+      economy is a single economic system. And you and I have continually talked about
+      this as the core of all of our discussions with Nima on this site. And that is
+      exactly what is left out of account because once you have the vested military
+      interests, neocon interests, oil-industry interests, and American-nationalist
+      interests, with its European satellites, all of a sudden, you can’t talk about
+      these things, because you realize the unreality of U.S. policy, and the European
+      policy that it’s dragged along with it. ⁣NIMA ALKHORSHID: Richard, it seems to
+      me that Europe is about to enter a new era of joint debt, another COVID-style
+      borrowing spree, this time in the name of Ukraine. ⁣RICHARD WOLFF: Yeah, well,
+      Mr. Schmerz in Germany has a very ambitious program of borrowing immense amounts
+      of money. Von der Leyen talks about borrowing in the name of Europe, and that
+      becomes then a burden on all the member countries, in one way or another. Dealing
+      with those Russian assets — You know, I wanted to make a comment about what Michael
+      said. It ought to have been a lesson learned, that after World War I, when you
+      imposed an enormous reparations debt on Germany, that, as that played itself out,
+      you produced more difficulties for Europe than you solved, and that you did much
+      to bring in World War II, by the very consequences of destroying Germany, and
+      then loading it up with an unpayable debt. And so you had that fantastic inflation
+      in 1923, wiped out the savings of the entire German working class, made them crazy
+      — I mean, they had lost World War I, then they were wiped out in the inflation
+      four or five years later, and then four or five years after that, the Great Depression
+      of 1929 descends. It’s not surprising that a working class that goes through three
+      traumatic events in ten or twelve years finds a reason to back up a little mustached-fellow
+      from Austria who was gonna make Germany “great again.” We are looking at very,
+      very serious commitments. A strategy, that we are saying we can’t see how it would
+      work, being financed by a level of borrowing they have never undertaken before
+      — and I want to remind you, this is at a time when the United States is more deeply
+      in debt — public debt, commercial debt, household debt — than it has ever had
+      before? You’re building an entire economy on a very slender foundation of massive
+      debt, which means that when you have a downturn, even if the downturn, otherwise,
+      were merely your garden-variety-business-cycle downturn, the ramification of the
+      downturn, when everybody is linked to everybody else by networks of debt, with
+      their derivative debts, and all the rest of it? Wow, we are not factoring in the
+      risk, that this kind of a downturn can be spectacular. And I find that remarkable
+      because, here at the United States, I am impressed with — despite the narrative
+      of the wonderful breakthrough-for-profit that artificial intelligence represents
+      — there really is serious worry that there’s an economic, you know, a stock-market
+      bubble being derived on top of it, which could blow the whole thing out of the
+      water — in the way that the dot-com bubble, at the end of the 1990s, exploded
+      in the year 2000, and led the way to record-low interest rates, negative interest
+      rates, all kinds of odd phenomena that shook the world economy. So the glib notion
+      that we can make these plans in a topsy-turvy capitalism, I find this an extraordinarily
+      dangerous way of not facing where we actually are. ⁣MICHAEL HUDSON: Richard, Europe
+      can’t borrow because that’s against the rules that Europe has imposed upon itself
+      — limiting government deficits to 5% of the GDP. So, what does it do if it can’t
+      borrow? It has to tax labor and industry, and that reduces profits, reduces living
+      standards. That’s why the EU structure itself is so self-destructive. I think
+      the crisis we’re seeing today isn’t simply a military crisis of Ukraine; it’s
+      a crisis in the fact that the EU has become malstructured; most of all, of letting
+      the EU be run by von der Leyen and Kallas, on behalf of NATO. Is the EU really
+      just an extension of the U.S. military, the War Department, and the State Department,
+      or is it the original steel-and-coal community evolving into the European community?
+      That’s the question. You also mentioned, quite rightly, the problem for the United
+      States, and the fact that there’s going to be a crash. Almost all of the Wall
+      Street Journal articles, the Financial Times articles, are all saying, the smart
+      money is all expecting a crash. Look at what happened two days ago, when the market
+      turned down. The Dow Jones and the S&P 500 were plunging. And yet, when they were
+      plunging, there wasn’t a movement into gold or into Bitcoin. Gold and Bitcoin
+      were sold off also. And the reason is that so many big institutional investors
+      made so many bad debts — by not listening to our show — that they had to cover
+      their losses by selling the one asset they had that didn’t go down: their gold,
+      and their bitcoins. And, of course, that pushed gold and bitcoins down, and bitcoins
+      are now down below 97. So, if there’s a bear market, bear markets normally fall
+      by 50% from the peak. Well, that means from 48,000 Dow Jones to 24,000. That means
+      that pension funds invested in the stock market are going to be losing half of
+      their capital. So we’re talking about all of these strains that have been created
+      artificially, by the whole fight over Russia, to the last Ukrainian, the last
+      European industrialist, and apparently, maybe, the last American financier also,
+      is now, as, I think, Malcolm X said, “the chickens are coming home to roost.”
+      ⁣RICHARD WOLFF: I want to remind people of several hundred years of European history,
+      when the Europeans — regularly, in small ways and then in cataclysmic ways — militarily
+      destroyed each other. The logical thing, if you’re a military person, and if the
+      conflict is between the United States, on the one hand, and Russia-China, on the
+      other, is, precisely, to work out your military conflict between the two of you
+      — and that would be Europe. And to make the Europeans do exactly what Michael
+      says, to be the Ukraine of the future — and they won’t be able to stop it. And
+      it will be much better for the United States and China-Russia to fight it out
+      in Europe than to confront one another. I find that a terrifying prospect — for
+      Europe! You know, two days ago — I don’t mean to close this [discussion] out this
+      way, but two days ago, a rocket barrage left Ukraine and headed for the city of
+      Voronezh in Russia, which, I don’t believe, had been a target of missile attacks
+      before. That’s deep into the interior of Russia. The missiles that were sent were
+      the American ATACMS missiles, which everybody tells me cannot be delivered by
+      the Ukrainians — unless American engineers and American intelligence-gathering
+      are combined to make that happen. The Ukrainians cannot do it on their own. Alright?
+      That means that even as all the maneuvering is going on, the United States sends
+      missiles deep into Russia. This is — I don’t know how to say it more strongly
+      — this is enormously provocative. Whatever else you think about the Ukraine war,
+      and rights and wrongs in it, the decision of one of the real combatants — that
+      is, the United States, on one hand, and Russia-China, on the other — for one of
+      them to send missiles into the interior of the other, at this point, when that
+      war is actually already winding down? What does that tell you about the strategic
+      attitude towards these things? The gap between the conversations we are having
+      and what is going on, at least, in the minds of those who make the policies in
+      Washington? ⁣MICHAEL HUDSON: Richard, that’s the really big picture. You’re right.
+      And I guess that’s going to be what our future shows are going to be about. ⁣NIMA
+      ALKHORSHID: Thank you so much, Richard and Michael. As always, great pleasure.
+      ⁣RICHARD WOLFF: Thank you. A very important conversation, to be continued. ⁣NIMA
+      ALKHORSHID: Yeah, exactly. Exactly. See you soon. Bye-bye. Transcription and Diarization:
+      https://scripthub.dev Editing: Kimberly Mims Review: ced Photo by Gayatri Malhotra
+      on Unsplash The post Militarizing Decline first appeared on Michael Hudson .'
+    one_sentence_summary: In a discussion featuring Richard Wolff and Michael Hudson,
+      Nima Alkhorchid explores whether Europe is using Trump's tariffs as a scapegoat
+      for its own economic challenges.
+    paragraph_summary: In a discussion on November 20, 2025, Nima Alkhorshid welcomed
+      economists Richard Wolff and Michael Hudson to analyze the current economic situation
+      in Europe, particularly in relation to U.S. tariffs and energy policies. Hudson
+      argued that European leaders, including Ursula von der Leyen, are not using Trump's
+      tariffs as a scapegoat for their economic struggles; instead, they are making
+      decisions that limit access to affordable Russian energy and restrict Chinese
+      influence, which he believes is detrimental to European growth. He criticized
+      the leaders for prioritizing NATO and U.S. interests over the needs of European
+      voters, suggesting that their actions are leading to economic hardship in Europe.
+    published: '2025-11-26T01:50:39+00:00'
   - title: Cowboy Capitalism in Central Asia
     url: https://michael-hudson.com/2025/11/cowboy-capitalism-in-central-asia/
     text: '⁣NIMA ALKHORSHID: Hi everybody. Today is Thursday, November 13, 2025, and

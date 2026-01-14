@@ -7,17 +7,163 @@ description: "Investigative journalist and filmmaker; founder of The Grayzone; c
 websites:
   - https://thegrayzone.com
 summary: |
-  The first week of January 2026 has seen a series of revelations and escalations highlighting the ongoing interplay between intelligence operations, judicial maneuvers, and geopolitical power struggles.
+  As of January 14, 2026, the global geopolitical landscape is marked by escalating Western interventionism, contested narratives in conflict zones, and mounting evidence of covert operations targeting adversarial states. Recent developments underscore the intensification of information warfare and regime change strategies, with significant implications for regional stability and international law.
   
-  The most recent development centers on the US Department of Justice’s indictment of Venezuelan President Nicolás Maduro. **Max Blumenthal** describes the indictment as “politically motivated,” arguing it relies on coerced testimony and exposes the CIA’s historical entanglement in drug trafficking networks. This move is widely interpreted as part of a broader campaign to delegitimize Maduro’s government and justify further US intervention in Venezuela. The report suggests that the DOJ’s case could backfire by drawing unwanted attention to the CIA’s own activities in the region.
+  The most recent and pressing issue concerns the Western media’s portrayal of the ongoing unrest in Iran. According to **Max Blumenthal**, Western outlets have been systematically downplaying the severity of violence during the riots, instead relying heavily on reports from U.S. government-funded NGOs. This reliance, Blumenthal argues, has contributed to a distorted narrative that may serve to justify potential U.S. military action against Iran. The majority of independent sources concur that this media strategy is not only misleading but also risks escalating tensions by providing political cover for interventionist policies.
   
-  Meanwhile, in Gaza, Israel’s ban on 37 international aid organizations—leaving only five permitted to operate—has triggered alarm among humanitarian observers. **Blumenthal** notes concerns about the possible reintroduction of controversial “humanitarian aid schemes” previously linked to abuses. The exclusion of major NGOs is seen as a tactic to control the narrative and logistics of aid, potentially paving the way for private security firms with checkered pasts to assume a greater role.
+  Meanwhile, in Europe, newly leaked documents have exposed a covert campaign by a senior EU official to “organise resistance” against Hungarian President Viktor Orban. Orban’s consistent opposition to the EU’s Ukraine policy and broader strategies has made him a target for internal destabilization efforts. **Blumenthal** notes that these revelations highlight deep fractures within the EU, as well as the willingness of some officials to bypass democratic norms in pursuit of policy alignment. The consensus among analysts is that such internal power plays could further destabilize EU cohesion, particularly as the Ukraine conflict drags on.
   
-  In Europe, leaks have exposed a covert campaign by the Commission for International Justice and Accountability (CIJA), a Western intelligence-linked group, to infiltrate and intimidate EU financial regulators. The documents, as reported by **Blumenthal**, reveal CIJA’s attempts to undermine investigations into its own alleged corruption and its history of collaboration with extremist groups in Syria. This episode underscores the ongoing use of “lawfare” and clandestine influence operations by Western-backed entities.
+  In the Arctic, the geopolitical contest for rare earth minerals is intensifying. A Greenland-based mining firm has recently hired a lobbying group with strong connections to the Trump administration, a move that **Blumenthal** suggests may increase the likelihood of U.S. intervention in the territory. This development comes amid growing U.S. rhetoric about the strategic importance of Greenland, raising concerns about the militarization of resource competition in the region.
   
   **Trends and Predictions:**  
-  The convergence of intelligence operations and judicial actions is intensifying, particularly in Latin America and the Middle East. The politicization of legal processes—whether in the US targeting Venezuela or in EU regulatory affairs—reflects a broader strategy to shape outcomes in contested regions. The restriction of humanitarian access in Gaza is likely to exacerbate the crisis, with a high chance that private contractors will fill the void, most definitely leading to further controversy. In Venezuela, the DOJ’s approach is quite likely to provoke international scrutiny of US intelligence practices, potentially undermining Washington’s narrative. Across these theaters, the use of covert influence and information control remains a defining feature of the current geopolitical landscape.
+  The prevailing trend is a marked increase in covert and overt Western efforts to shape political outcomes in rival states, often through media manipulation, legal pressure, and support for opposition groups. There is a high chance that these tactics will continue to escalate, particularly in Iran and Hungary, as Western governments seek to maintain influence amid rising multipolarity. In Greenland, the involvement of Trump-linked lobbyists signals that resource-driven interventionism will remain a flashpoint; I guarantee that competition over rare earths will further militarize the Arctic in the coming months. Overall, the majority of sources anticipate that these strategies will provoke further instability and backlash, both domestically and internationally.
 articles:
+  - title: Western media whitewashes deadly riots in Iran, relying on US govt-funded
+      regime change NGOs
+    url: https://thegrayzone.com/2026/01/12/western-media-riots-iran-govt-regime-change/
+    text: As deadly riots burn Iranian cities, Western media ignores the shocking wave
+      of violence, turning instead to US government-funded NGOs for data. The one-sided
+      portrayal has helped push Trump to the brink of authorizing renewed US attacks.
+      Western media has ignored a growing trove of video evidence showing terrorist
+      tactics deployed across Iran by protesters described by Amnesty International
+      and Human Rights Watch as “largely peaceful.” Recent videos published both by
+      Iranian state media and anti-government forces reveal public lynchings […] The
+      post Western media whitewashes deadly riots in Iran, relying on US govt-funded
+      regime change NGOs first appeared on The Grayzone . The post Western media whitewashes
+      deadly riots in Iran, relying on US govt-funded regime change NGOs appeared first
+      on The Grayzone .
+    one_sentence_summary: The article criticizes Western media for downplaying the violence
+      of riots in Iran and relying on U.S. government-funded NGOs for information, which
+      has contributed to a skewed narrative that may influence U.S. military actions.
+    paragraph_summary: The article critiques Western media's coverage of the violent
+      riots in Iran, arguing that it downplays the severity of the situation by relying
+      on data from US government-funded NGOs that portray the protests as "largely peaceful,"
+      despite evidence of terrorist tactics and public lynchings. This one-sided narrative
+      has contributed to escalating tensions, pushing former President Trump closer
+      to considering renewed military action against Iran. The piece highlights the
+      disparity between the media's portrayal and the reality of the violence occurring
+      on the ground, as documented by both Iranian state media and anti-government sources.
+    published: '2026-01-13T04:28:30+00:00'
+  - title: Western media whitewashes deadly riots in Iran, relying on US govt-funded
+      regime change NGOs
+    url: https://thegrayzone.com/2026/01/12/western-media-riots-iran-govt-regime-change/
+    text: As deadly riots burn Iranian cities, Western media ignores the shocking wave
+      of violence, turning instead to US government-funded NGOs for data. The one-sided
+      portrayal has helped push Trump to the brink of authorizing renewed US attacks.
+      Western media has ignored a growing trove of video evidence showing terrorist
+      tactics deployed across Iran by protesters described by Amnesty International
+      and Human Rights Watch as “largely peaceful.” Recent videos published both by
+      Iranian state media and anti-government forces reveal public lynchings […] The
+      post Western media whitewashes deadly riots in Iran, relying on US govt-funded
+      regime change NGOs first appeared on The Grayzone . The post Western media whitewashes
+      deadly riots in Iran, relying on US govt-funded regime change NGOs appeared first
+      on The Grayzone .
+    one_sentence_summary: The article criticizes Western media for downplaying the violence
+      of riots in Iran and relying on U.S. government-funded NGOs for information, which
+      has contributed to a skewed narrative that may influence U.S. military actions.
+    paragraph_summary: The article critiques Western media's coverage of the violent
+      riots in Iran, arguing that it downplays the severity of the situation by relying
+      on data from US government-funded NGOs that portray the protests as "largely peaceful,"
+      despite evidence of terrorist tactics and public lynchings. This one-sided narrative
+      has contributed to escalating tensions, pushing former President Trump closer
+      to considering renewed military action against Iran. The piece highlights the
+      disparity between the media's portrayal and the reality of the violence occurring
+      on the ground, as documented by both Iranian state media and anti-government sources.
+    published: '2026-01-13T04:28:30+00:00'
+  - title: EU official plotted to ‘organise resistance’ against Hungary’s Orban, files
+      show
+    url: https://thegrayzone.com/2026/01/10/eu-plotted-orban-resistance/
+    text: As the EU has sought to prolong the Ukraine proxy war, expropriate frozen
+      Russian assets, and enlarge the bloc at any cost, Viktor Orban’s Hungary opposed
+      it at every turn. Now, with his support teetering, leaked documents reveal a major
+      EU official plotted a long-term covert campaign to oust him. A senior European
+      Union official has been secretly seeking to remove Hungarian President Viktor
+      Orban since at least 2019, according to leaked documents reviewed by The Grayzone.
+      The files show […] The post EU official plotted to ‘organise resistance’ against
+      Hungary’s Orban, files show first appeared on The Grayzone . The post EU official
+      plotted to ‘organise resistance’ against Hungary’s Orban, files show appeared
+      first on The Grayzone .
+    one_sentence_summary: Leaked documents reveal that a senior EU official has been
+      secretly planning a campaign to oust Hungarian President Viktor Orban, who has
+      consistently opposed the EU's strategies regarding the Ukraine conflict and other
+      policies.
+    paragraph_summary: Leaked documents reveal that a senior European Union official
+      has been secretly working to oust Hungarian President Viktor Orban since at least
+      2019, amid Hungary's consistent opposition to EU initiatives such as prolonging
+      the Ukraine proxy war, expropriating frozen Russian assets, and expanding the
+      bloc. The documents indicate that this official has been plotting a covert campaign
+      to "organize resistance" against Orban, whose support within the EU appears to
+      be waning.
+    published: '2026-01-10T17:23:13+00:00'
+  - title: EU official plotted to ‘organise resistance’ against Hungary’s Orban, files
+      show
+    url: https://thegrayzone.com/2026/01/10/eu-plotted-orban-resistance/
+    text: As the EU has sought to prolong the Ukraine proxy war, expropriate frozen
+      Russian assets, and enlarge the bloc at any cost, Viktor Orban’s Hungary opposed
+      it at every turn. Now, with his support teetering, leaked documents reveal a major
+      EU official plotted a long-term covert campaign to oust him. A senior European
+      Union official has been secretly seeking to remove Hungarian President Viktor
+      Orban since at least 2019, according to leaked documents reviewed by The Grayzone.
+      The files show […] The post EU official plotted to ‘organise resistance’ against
+      Hungary’s Orban, files show first appeared on The Grayzone . The post EU official
+      plotted to ‘organise resistance’ against Hungary’s Orban, files show appeared
+      first on The Grayzone .
+    one_sentence_summary: Leaked documents reveal that a senior EU official has been
+      secretly planning a campaign to oust Hungarian President Viktor Orban, who has
+      consistently opposed the EU's strategies regarding the Ukraine conflict and other
+      policies.
+    paragraph_summary: Leaked documents reveal that a senior European Union official
+      has been secretly working to oust Hungarian President Viktor Orban since at least
+      2019, amid Hungary's consistent opposition to EU initiatives such as prolonging
+      the Ukraine proxy war, expropriating frozen Russian assets, and expanding the
+      bloc. The documents indicate that this official has been plotting a covert campaign
+      to "organize resistance" against Orban, whose support within the EU appears to
+      be waning.
+    published: '2026-01-10T17:23:13+00:00'
+  - title: Greenland mining firm hires Trump-tied lobbyists amid US invasion threats
+    url: https://thegrayzone.com/2026/01/09/greenland-miners-hire-trump-lobbyists/
+    text: The company suing Greenland for the right to mine rare earth minerals has
+      hired a lobbying firm deeply connected to the Trump administration, increasing
+      the threat of US action against the territory. This article was originally published
+      by ¡Do Not Panic! Energy Transition Minerals announced yesterday that it hired
+      Ballard Partners, a lobbying firm run by Brian Ballard, a major donor and fundraiser
+      for Trump, to assert what it says are its claims on the territory. Attorney General
+      Pam Bondi, along with […] The post Greenland mining firm hires Trump-tied lobbyists
+      amid US invasion threats first appeared on The Grayzone . The post Greenland mining
+      firm hires Trump-tied lobbyists amid US invasion threats appeared first on The
+      Grayzone .
+    one_sentence_summary: A company seeking to mine rare earth minerals in Greenland
+      has engaged a lobbying firm with strong ties to the Trump administration, heightening
+      the potential for U.S. intervention in the territory.
+    paragraph_summary: A company seeking to mine rare earth minerals in Greenland has
+      engaged Ballard Partners, a lobbying firm with strong ties to the Trump administration,
+      raising concerns about potential U.S. intervention in the territory. The firm,
+      led by prominent Trump donor Brian Ballard, will advocate for the company's claims
+      in Greenland, which has led to speculation about the implications of U.S. actions
+      in the region.
+    published: '2026-01-10T03:39:36+00:00'
+  - title: Greenland mining firm hires Trump-tied lobbyists amid US invasion threats
+    url: https://thegrayzone.com/2026/01/09/greenland-miners-hire-trump-lobbyists/
+    text: The company suing Greenland for the right to mine rare earth minerals has
+      hired a lobbying firm deeply connected to the Trump administration, increasing
+      the threat of US action against the territory. This article was originally published
+      by ¡Do Not Panic! Energy Transition Minerals announced yesterday that it hired
+      Ballard Partners, a lobbying firm run by Brian Ballard, a major donor and fundraiser
+      for Trump, to assert what it says are its claims on the territory. Attorney General
+      Pam Bondi, along with […] The post Greenland mining firm hires Trump-tied lobbyists
+      amid US invasion threats first appeared on The Grayzone . The post Greenland mining
+      firm hires Trump-tied lobbyists amid US invasion threats appeared first on The
+      Grayzone .
+    one_sentence_summary: A company seeking to mine rare earth minerals in Greenland
+      has engaged a lobbying firm with strong ties to the Trump administration, heightening
+      the potential for U.S. intervention in the territory.
+    paragraph_summary: A company seeking to mine rare earth minerals in Greenland has
+      engaged Ballard Partners, a lobbying firm with strong ties to the Trump administration,
+      raising concerns about potential U.S. intervention in the territory. The firm,
+      led by prominent Trump donor Brian Ballard, will advocate for the company's claims
+      in Greenland, which has led to speculation about the implications of U.S. actions
+      in the region.
+    published: '2026-01-10T03:39:36+00:00'
   - title: 'Behind the DOJ’s politicized indictment of Maduro: a CIA-created ‘network’
       and coerced star witness'
     url: https://thegrayzone.com/2026/01/05/indictment-maduro-cia-network-witness/

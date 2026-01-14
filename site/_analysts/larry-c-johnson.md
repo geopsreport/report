@@ -7,16 +7,2095 @@ description: "Former CIA analyst & State Dept counterterrorism official; runs So
 websites:
   - https://sonar21.com
 summary: |
-  The first week of January 2026 has seen a marked escalation in geopolitical tensions, particularly involving Russia, the United States, and Venezuela. These developments come against a backdrop of ongoing instability in Ukraine and persistent unrest in Iran.
+  Tensions in the Middle East remain high as the United States continues to bolster its military presence in the Persian Gulf, while diplomatic and covert efforts to destabilize Iran have failed to yield the intended results. Meanwhile, Switzerland’s protest against EU sanctions signals growing friction within Europe over freedom of expression and legal process.
   
-  The most significant new development is Russia’s January 6 missile strikes on US-owned facilities in Ukraine. According to **Larry C. Johnson**, the attacks severely damaged the Oleina oil extraction plant in Dnipro and the Flex manufacturing site in Mukachevo. These strikes are interpreted as a direct message to Washington, signaling Moscow’s willingness to target American economic interests in Ukraine amid the ongoing conflict. The timing, coinciding with heightened US political activity around Ukraine, suggests a calculated escalation by Russia.
+  The most recent development centers on the sharp uptick in US military transport flights to Al Udeid Air Base in Qatar since December. **Larry C. Johnson** notes that “there was a notable increase in US military transport aircraft, particularly heavy lifters,” suggesting a significant logistical buildup. This activity is widely interpreted as preparation for potential escalation, with the US reinforcing its strategic posture in the region. The timing coincides with the aftermath of failed Western-backed attempts to spark a color revolution in Iran.
   
-  Meanwhile, the fallout from the US-led abduction of Venezuelan President Nicolas Maduro continues to reverberate. **Larry C. Johnson** reports that a member of Maduro’s inner circle facilitated the operation by betraying him, a detail that sheds new light on the operation’s success. The incident has also strained Venezuela’s relations with China, as Venezuelan intelligence recently arrested a Chinese executive in Caracas, raising questions about shifting alliances and internal instability within the Maduro regime.
+  On the Iranian front, the crackdown on protests has intensified, with Iranian authorities announcing public executions for protest leaders. According to **Larry C. Johnson**, “the CIA/Mossad plan to incite a color revolution in Iran has largely failed as Iranian security forces have intensified their crackdown on protests.” The US response has been mostly rhetorical, with no concrete support materializing for the demonstrators. This failure underscores the resilience of the Iranian regime and the limits of external influence.
   
-  Looking at broader trends, these events point to a pattern of increasingly direct confrontation between major powers, with economic assets and political leaders now openly targeted. The US action in Venezuela, widely seen as motivated by oil interests rather than anti-narcotics efforts, has set a precedent for extraterritorial operations that other states may seek to emulate or counter.
+  In Europe, Switzerland has formally protested EU sanctions against Swiss citizen Jacques Baud, arguing that the measures lack due process and infringe on freedom of expression. **Larry C. Johnson** reports that this marks a “delayed but significant response” from Bern, reflecting broader concerns about the EU’s approach to dissent and legal norms.
   
-  Based on the current trajectory, there is a high chance of further Russian strikes on Western assets in Ukraine if diplomatic efforts stall. The situation in Venezuela is likely to remain volatile, with a high probability of further purges and realignments within the ruling elite. As **Larry C. Johnson** notes, these developments reflect a broader disregard for legal norms in international affairs—a trend that is “most definitely” expected to continue in the near term.
+  **Trends and Predictions:**  
+  The US military buildup in the Gulf is likely to continue, with a high chance of further escalation if tensions with Iran persist. The failure of the color revolution attempt in Iran suggests that the regime will remain stable in the short term; “there is high chance” the crackdown will deter further large-scale unrest. In Europe, Switzerland’s protest may prompt a re-examination of EU sanctions policy, but “it is quite likely” that Brussels will maintain its current stance in the near future.
+  
+  Overall, the geopolitical landscape remains volatile, with the Middle East as the primary flashpoint and intra-European disputes over legal norms simmering in the background.
 articles:
+  - title: Iran Does Not Hate Americans… But it Has Legitimate Reasons to Do So
+    url: https://sonar21.com/iran-does-not-hate-americans-but-it-has-legitimate-reasons-to-do-so/
+    text: 'During a Zoom meeting today I listened to a retired US General make the case
+      for going to war against Iran…  He was not advocating that Trump do so, but he
+      provided a fascinating summary of how he, and most Americans, view Iran as a threat
+      that must be destroyed. His basic charge is that Iran has killed thousands of
+      Americans, especially US military personnel, and is an irredeemable terrorist
+      state. Stay tuned… I’m going to show you how wrong that gentleman is. When he
+      finished talking, I asked for the floor and stated that Iran’s attacks on US personnel
+      over the last 45 years were largely in response to US actions. What follows is
+      a full explanation of my disagreement with his premise. I gave him the Reader’s
+      Digest version… Here is the Full Monty . Iran’s anger with the US begins in 1953,
+      when the democratically elected President, Mohammad Mossadegh, was ousted from
+      office in a CIA- and MI6-backed coup on 19 August 1953. The event is commonly
+      referred to in Iran as the “28 Mordad” coup, after the corresponding date in the
+      Iranian calendar. Jump ahead to 1979, when the Iranian Revolution toppled the
+      US-backed Shah Mohammad Reza Pahlavi, usheried in the Islamic Republic under Ayatollah
+      Ruhollah Khomeini. The revolution stemmed from deep-seated grievances against
+      Shah Mohammad Reza Pahlavi, who had ruled since 1941 as an autocratic monarch
+      closely aligned with the West, particularly the United States and Britain. The
+      Islamic Revolution was fueled by a variety of factors: Repression and autocracy
+      — The Shah’s regime used secret police (SAVAK) to suppress dissent, political
+      parties, and opposition figures. Rapid Westernization — His White Revolution (launched
+      in 1963) promoted land reform, women’s rights, and modernization, but alienated
+      traditional landowners, the clergy (ulama), and conservative segments of society
+      who saw it as eroding Islamic values and cultural identity. Economic inequality
+      and inflation — Oil wealth boomed in the 1970s, but benefits were unevenly distributed,
+      leading to corruption, urban migration, and economic hardship for many. Foreign
+      influence — Resentment lingered from the 1953 CIA-backed coup that restored the
+      Shah after ousting Prime Minister Mohammad Mossadegh, who had nationalized oil.
+      Religious revival — Shi’a Islam provided a unifying force against perceived secularism
+      and imperialism. This seismic shift severed diplomatic ties, with the US imposing
+      sanctions and viewing the new regime as a threat to regional stability and American
+      interests in the Middle East. Tensions peaked with the Iran Hostage Crisis (November
+      1979–January 1981), when students seized the US Embassy in Tehran, holding 52
+      Americans for 444 days — a direct response to US support for the Shah. The hostage
+      crisis at the US Embassy in Tehran, lasted 444 days, deepened the enmity, setting
+      the stage for decades of confrontation. As tensions simmered, the Iraqi leader
+      Saddam Hussein, sensing weakness in post-revolutionary Iran and with the encouragment
+      of the US, launched a full-scale invasion of Iran. Though the US did not directly
+      orchestrate the assault, Washington quickly tilted toward Baghdad, providing critical
+      military and intelligence support to prevent an Iranian victory, fearing that
+      it could destabilize the Gulf. Billions in economic aid, satellite intelligence,
+      and dual-use technology flowed to Iraq, bolstering its war machine. By 1983, as
+      the conflict dragged into a brutal stalemate, Iraq escalated with chemical weapons,
+      deploying mustard gas and nerve agents like tabun against Iranian troops and civilians.
+      The US government facilitated Iran’s chemical weapons program. Iraq began producing
+      small quantities of mustard blister agent as early as 1981 (about 10 metric tons
+      initially), with production ramping up significantly by the mid-1980s. The most
+      documented US-linked precursor exports involved thiodiglycol (TDG), a key ingredient
+      for producing mustard gas (sulfur mustard). American companies, with US Department
+      of Commerce export licenses, supplied hundreds of tons of TDG and related dual-use
+      chemicals to Iraq starting in the mid-1980s. Exports of these precursors by US
+      firms (notably Alcolac International of Maryland, among others) occurred primarily
+      from 1985 through 1989, though some shipments dated back to 1987–1988 for specific
+      large consignments routed through intermediaries (e.g., via Jordan or Europe to
+      disguise the final destination). By 1987, Iraq’s mustard agent production had
+      increased dramatically (90-fold from 1981 levels), aided in part by these late-war
+      supplies of TDG from two American companies, totaling hundreds of tons. The US
+      was fully aware of the carnage being inflicted on the Iranians, and continued
+      its backing, sharing battle plans , providing intelligence (my deceased friend,
+      retired Army Colonel W. Patrick Lang, personally carried US intelligence to the
+      Iraqi General Staff in 1988 and 1989) and supplying precursor chemical compounds
+      that were weaponized—despite international bans later imposed. US actions prolonged
+      the war, which claimed at least 500,000 Iranian lives, leaving scars of poison
+      and fire across Iran’s battlefields. And the American public still wonders why
+      Iran chants Death to America . Meanwhile, across the Mediterranean, another chapter
+      of US-Iranian friction was ignited in Lebanon amid its civil war when the Israeli
+      army invaded Lebanon on 6 June 1982, which catalyzed the formation of Hezbollah
+      as an armed resistance movement. Hezbollah, a Shi’a movement, was backed and trained
+      by Iran’s Islamic Revolutionary Guard Corps in the Bekaa Valley. Two months later
+      — in August– the US joined a multinational peacekeeping force in Lebanon, deploying
+      Marines to Beirut to ostensibly to stabilize the fractured nation and support
+      the pro-Western government. But American forces soon shed their neutral facade.
+      Naval bombardments from US warships, including the USS New Jersey, targeted Druze
+      and Shiite militias aligned with Syrian and Iranian interests, killing civilians
+      and escalating the conflict. The US actions were correctly perceived as partisan
+      intervention and provoked fierce retaliation from Lebanese-based groups, which
+      included the newly-formed Hezbollah and AMAL, a Shi’a militia established in 1974
+      by the charismatic Iranian-born Shi’a cleric, Imam Musa al-Sadr ,and politician,
+      Hussein el-Husseini.. On October 23, 1983, a suicide truck bomber struck the US
+      Marine barracks, killing 241 American service members in one of the deadliest
+      attacks on US forces since World War II. The bombing, linked to Iranian directives
+      and carrried out by AMAL, forced a US withdrawal in 1984, marking a humiliating
+      retreat and hardening anti-Iranian resolve in Washington. Decades later, the saga
+      evolved into covert shadows. The Mujahedin-e Khalq (MEK), an Iranian opposition
+      group with a Marxist-Islamist ideology, had long waged guerrilla warfare against
+      the Islamic Republic, including assassinations and bombings that killed thousands.
+      Designated a terrorist organization by the US.in 1997 for attacks that included
+      killing Americans in the 1970s, the MEK found unlikely patrons in Washington after
+      the 2003 Iraq invasion. (Please see my 3 January article, US and Israel Prepping
+      for a New Attack on Iran by Creating a Narrative of Government Chaos , for more
+      details on MEK). US forces disarmed but protected MEK camps in Iraq, and allegations
+      surfaced that the CIA and the Joint Special Operations Command (JSOC) trained
+      MEK operatives for cross-border sabotage and intelligence operations inside Iran.
+      By the 2010s, amid nuclear tensions, the MEK—delisted as terrorists in 2012 after
+      aggressive lobbying—allegedly conducted assassinations of Iranian scientists and
+      terrorist attacks, with tacit US support to undermine Tehran’s regime. According
+      to open sources between 2007 and 2012 there were five Iranian scientists assassinated
+      that were clearly linked to Iran’s nuclear or related military programs inside
+      Iran. This shadowy alliance exemplified the enduring US strategy: containment
+      through proxies, even if it meant embracing terrorists. I want to deal with the
+      actual numbers of Americans killed by Iranian terrorism . In defining terrorism,
+      I use Bibi Netanyahu’s definition that he gave to William F Buckley in a 1987
+      interview… Terrorism is the use of violence against CIVILIANS for political purposes
+      . The number of Americans killed directly by Iran (meaning actions carried out
+      by Iranian state forces, such as the Islamic Revolutionary Guard Corps (IRGC),
+      without intermediaries like Hezbollah, Iraqi militias, Hamas, Houthis, or other
+      proxies) since the 1979 Islamic Revolution is very low , and credible historical
+      sources point to zero confirmed fatalities from purely direct Iranian military
+      or terrorist operations targeting Americans in that timeframe. What about Iranian
+      proxy attacks on civilians? Core confirmed civilian deaths from major proxies
+      (primarily Hezbollah’s early attacks and Hamas operations) is estimated at  50–100+,
+      depending on inclusion of dual citizens and less-documented cases, during the
+      past 46 years. Now let’s examine the number of US military deaths attributed to
+      Iranian proxies — Note, these are not acts of terrorism, these are attacks on
+      legitimate military targets. The number of US military deaths attributed to Iranian
+      proxies (groups funded, trained, armed, or directed by Iran’s Islamic Revolutionary
+      Guard Corps (IRGC), such as Hezbollah, various Iraqi Shia militias like Kata’ib
+      Hezbollah and Asa’ib Ahl al-Haq, and others) since 1979 is estimated in the hundreds
+      to over 1,000, depending on the source and scope of attribution. There is no single,
+      universally agreed-upon official cumulative figure from the US government that
+      encompasses all incidents, but reliable estimates from Pentagon reports, declassified
+      documents, think tanks (e.g., Foundation for Defense of Democracies/FDD), and
+      court rulings provide the following breakdown: 1983 Beirut Marine Barracks Bombing
+      (Lebanon): Carried out by Islamic Jihad (an early Hezbollah precursor, backed
+      and directed by Iran). This suicide truck bombing killed 241 US service members
+      (primarily Marines, plus Navy and Army personnel). US courts and intelligence
+      have held Iran responsible for directing the attack through its proxy. Iraq War
+      (2003–2011): Iranian-backed Shia militias, supplied with weapons like explosively
+      formed penetrators (EFPs), training, and funding by the IRGC-Quds Force, are attributed
+      with killing at least 603 US troops (per revised 2019 Pentagon estimates; earlier
+      figures cited ~500). This accounts for roughly 17% of all US combat deaths in
+      Iraq during that period. Some sources (e.g., older analyses) suggest the toll
+      could exceed 1,000 when including indirect or harder-to-attribute cases. January
+      2024 drone attack by Kata’ib Hezbollah (Iran-backed Iraqi militia) on Tower 22
+      base in Jordan: Killed 3 U.S. service members and wounded dozens. Now let’s look
+      at the civilian death tolls inflicted by the US in Iraq and Afghanistan in the
+      21st Century. The most reliable source for directly attributed deaths is the Iraq
+      Body Count (IBC) project, which compiles cross-verified media reports, official
+      records, and other sources. According to the IBC documented violent civilian deaths
+      (2003–present) are an estimated 150,000–210,000 (with totals reaching ~187,000–211,000
+      by recent updates, including post-2016). Estimating Afghan civilian deaths attributed
+      to the US-led coalition forces (primarily the United States and NATO/ISAF partners)
+      from the 2001 invasion through the 2021 withdrawal is difficult because there
+      is no comprehensive, publicly available database equivalent to Iraq Body Count
+      (IBC) for Afghanistan. Instead, Afghanistan relied heavily on United Nations Assistance
+      Mission in Afghanistan (UNAMA) reports starting in 2009, which provide documented
+      (not exhaustive) figures, often with breakdowns by perpetrator. Total documented
+      civilian deaths (all causes, 2001–2021) are an estimated 46,000 (per Costs of
+      War Project and Wikipedia summaries drawing from UNAMA and other sources). This
+      is the number for direct violent deaths… If we included indirect deaths from disease,
+      malnutrition, and displacement, experts believe the numbers could be closer to
+      100,000. Returning to Bibi Netanyahu’s definition of terrorism, there is only
+      one country operating in West Asia that has killed at least 250,000 civilians…
+      It is not Iran, it is the United States. For the last 46 years, the American public
+      have been gaslit about an Iranian terrorism threat that pales in comparison to
+      what America has done. If we add in the number of Iranians killed because of a
+      US-funded proxy, than the toll of lives lost approaches one million. If there
+      is a God who passes judgment on nations for the evil they do, the one country
+      that should fear divine judgment is the US, not Iran. Here are my latest podcast
+      interviews: https://open.substack.com/pub/eastcalling/p/larry-johnson-and-eastcalling-january?utm_campaign=post-expanded-share&utm_medium=web
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: In a recent Zoom meeting, a retired US General argued for
+      the necessity of war against Iran due to its history of violence against Americans,
+      but the author countered that Iran's hostility is largely a reaction to US interventions,
+      particularly the 1953 coup that overthrew its democratically elected leader.
+    paragraph_summary: In a recent Zoom meeting, a retired US General argued for military
+      action against Iran, labeling it an irredeemable terrorist state responsible for
+      the deaths of thousands of Americans, particularly military personnel. In response,
+      the author challenged this perspective, asserting that Iran's hostility towards
+      the US is largely a reaction to historical grievances, notably the 1953 CIA-backed
+      coup that overthrew democratically elected Prime Minister Mohammad Mossadegh and
+      the subsequent support for the autocratic Shah, which led to the 1979 Iranian
+      Revolution. This revolution was driven by widespread discontent with the Shah's
+      oppressive regime, rapid Westernization, and economic disparities, which collectively
+      fostered deep-seated resentment towards the United States. The author aims to
+      provide a comprehensive analysis of these historical events to counter the General's
+      claims.
+    published: '2026-01-14T05:04:25+00:00'
+  - title: Iran Does Not Hate Americans… But it Has Legitimate Reasons to Do So
+    url: https://sonar21.com/iran-does-not-hate-americans-but-it-has-legitimate-reasons-to-do-so/
+    text: 'During a Zoom meeting today I listened to a retired US General make the case
+      for going to war against Iran…  He was not advocating that Trump do so, but he
+      provided a fascinating summary of how he, and most Americans, view Iran as a threat
+      that must be destroyed. His basic charge is that Iran has killed thousands of
+      Americans, especially US military personnel, and is an irredeemable terrorist
+      state. Stay tuned… I’m going to show you how wrong that gentleman is. When he
+      finished talking, I asked for the floor and stated that Iran’s attacks on US personnel
+      over the last 45 years were largely in response to US actions. What follows is
+      a full explanation of my disagreement with his premise. I gave him the Reader’s
+      Digest version… Here is the Full Monty . Iran’s anger with the US begins in 1953,
+      when the democratically elected President, Mohammad Mossadegh, was ousted from
+      office in a CIA- and MI6-backed coup on 19 August 1953. The event is commonly
+      referred to in Iran as the “28 Mordad” coup, after the corresponding date in the
+      Iranian calendar. Jump ahead to 1979, when the Iranian Revolution toppled the
+      US-backed Shah Mohammad Reza Pahlavi, usheried in the Islamic Republic under Ayatollah
+      Ruhollah Khomeini. The revolution stemmed from deep-seated grievances against
+      Shah Mohammad Reza Pahlavi, who had ruled since 1941 as an autocratic monarch
+      closely aligned with the West, particularly the United States and Britain. The
+      Islamic Revolution was fueled by a variety of factors: Repression and autocracy
+      — The Shah’s regime used secret police (SAVAK) to suppress dissent, political
+      parties, and opposition figures. Rapid Westernization — His White Revolution (launched
+      in 1963) promoted land reform, women’s rights, and modernization, but alienated
+      traditional landowners, the clergy (ulama), and conservative segments of society
+      who saw it as eroding Islamic values and cultural identity. Economic inequality
+      and inflation — Oil wealth boomed in the 1970s, but benefits were unevenly distributed,
+      leading to corruption, urban migration, and economic hardship for many. Foreign
+      influence — Resentment lingered from the 1953 CIA-backed coup that restored the
+      Shah after ousting Prime Minister Mohammad Mossadegh, who had nationalized oil.
+      Religious revival — Shi’a Islam provided a unifying force against perceived secularism
+      and imperialism. This seismic shift severed diplomatic ties, with the US imposing
+      sanctions and viewing the new regime as a threat to regional stability and American
+      interests in the Middle East. Tensions peaked with the Iran Hostage Crisis (November
+      1979–January 1981), when students seized the US Embassy in Tehran, holding 52
+      Americans for 444 days — a direct response to US support for the Shah. The hostage
+      crisis at the US Embassy in Tehran, lasted 444 days, deepened the enmity, setting
+      the stage for decades of confrontation. As tensions simmered, the Iraqi leader
+      Saddam Hussein, sensing weakness in post-revolutionary Iran and with the encouragment
+      of the US, launched a full-scale invasion of Iran. Though the US did not directly
+      orchestrate the assault, Washington quickly tilted toward Baghdad, providing critical
+      military and intelligence support to prevent an Iranian victory, fearing that
+      it could destabilize the Gulf. Billions in economic aid, satellite intelligence,
+      and dual-use technology flowed to Iraq, bolstering its war machine. By 1983, as
+      the conflict dragged into a brutal stalemate, Iraq escalated with chemical weapons,
+      deploying mustard gas and nerve agents like tabun against Iranian troops and civilians.
+      The US government facilitated Iran’s chemical weapons program. Iraq began producing
+      small quantities of mustard blister agent as early as 1981 (about 10 metric tons
+      initially), with production ramping up significantly by the mid-1980s. The most
+      documented US-linked precursor exports involved thiodiglycol (TDG), a key ingredient
+      for producing mustard gas (sulfur mustard). American companies, with US Department
+      of Commerce export licenses, supplied hundreds of tons of TDG and related dual-use
+      chemicals to Iraq starting in the mid-1980s. Exports of these precursors by US
+      firms (notably Alcolac International of Maryland, among others) occurred primarily
+      from 1985 through 1989, though some shipments dated back to 1987–1988 for specific
+      large consignments routed through intermediaries (e.g., via Jordan or Europe to
+      disguise the final destination). By 1987, Iraq’s mustard agent production had
+      increased dramatically (90-fold from 1981 levels), aided in part by these late-war
+      supplies of TDG from two American companies, totaling hundreds of tons. The US
+      was fully aware of the carnage being inflicted on the Iranians, and continued
+      its backing, sharing battle plans , providing intelligence (my deceased friend,
+      retired Army Colonel W. Patrick Lang, personally carried US intelligence to the
+      Iraqi General Staff in 1988 and 1989) and supplying precursor chemical compounds
+      that were weaponized—despite international bans later imposed. US actions prolonged
+      the war, which claimed at least 500,000 Iranian lives, leaving scars of poison
+      and fire across Iran’s battlefields. And the American public still wonders why
+      Iran chants Death to America . Meanwhile, across the Mediterranean, another chapter
+      of US-Iranian friction was ignited in Lebanon amid its civil war when the Israeli
+      army invaded Lebanon on 6 June 1982, which catalyzed the formation of Hezbollah
+      as an armed resistance movement. Hezbollah, a Shi’a movement, was backed and trained
+      by Iran’s Islamic Revolutionary Guard Corps in the Bekaa Valley. Two months later
+      — in August– the US joined a multinational peacekeeping force in Lebanon, deploying
+      Marines to Beirut to ostensibly to stabilize the fractured nation and support
+      the pro-Western government. But American forces soon shed their neutral facade.
+      Naval bombardments from US warships, including the USS New Jersey, targeted Druze
+      and Shiite militias aligned with Syrian and Iranian interests, killing civilians
+      and escalating the conflict. The US actions were correctly perceived as partisan
+      intervention and provoked fierce retaliation from Lebanese-based groups, which
+      included the newly-formed Hezbollah and AMAL, a Shi’a militia established in 1974
+      by the charismatic Iranian-born Shi’a cleric, Imam Musa al-Sadr ,and politician,
+      Hussein el-Husseini.. On October 23, 1983, a suicide truck bomber struck the US
+      Marine barracks, killing 241 American service members in one of the deadliest
+      attacks on US forces since World War II. The bombing, linked to Iranian directives
+      and carrried out by AMAL, forced a US withdrawal in 1984, marking a humiliating
+      retreat and hardening anti-Iranian resolve in Washington. Decades later, the saga
+      evolved into covert shadows. The Mujahedin-e Khalq (MEK), an Iranian opposition
+      group with a Marxist-Islamist ideology, had long waged guerrilla warfare against
+      the Islamic Republic, including assassinations and bombings that killed thousands.
+      Designated a terrorist organization by the US.in 1997 for attacks that included
+      killing Americans in the 1970s, the MEK found unlikely patrons in Washington after
+      the 2003 Iraq invasion. (Please see my 3 January article, US and Israel Prepping
+      for a New Attack on Iran by Creating a Narrative of Government Chaos , for more
+      details on MEK). US forces disarmed but protected MEK camps in Iraq, and allegations
+      surfaced that the CIA and the Joint Special Operations Command (JSOC) trained
+      MEK operatives for cross-border sabotage and intelligence operations inside Iran.
+      By the 2010s, amid nuclear tensions, the MEK—delisted as terrorists in 2012 after
+      aggressive lobbying—allegedly conducted assassinations of Iranian scientists and
+      terrorist attacks, with tacit US support to undermine Tehran’s regime. According
+      to open sources between 2007 and 2012 there were five Iranian scientists assassinated
+      that were clearly linked to Iran’s nuclear or related military programs inside
+      Iran. This shadowy alliance exemplified the enduring US strategy: containment
+      through proxies, even if it meant embracing terrorists. I want to deal with the
+      actual numbers of Americans killed by Iranian terrorism . In defining terrorism,
+      I use Bibi Netanyahu’s definition that he gave to William F Buckley in a 1987
+      interview… Terrorism is the use of violence against CIVILIANS for political purposes
+      . The number of Americans killed directly by Iran (meaning actions carried out
+      by Iranian state forces, such as the Islamic Revolutionary Guard Corps (IRGC),
+      without intermediaries like Hezbollah, Iraqi militias, Hamas, Houthis, or other
+      proxies) since the 1979 Islamic Revolution is very low , and credible historical
+      sources point to zero confirmed fatalities from purely direct Iranian military
+      or terrorist operations targeting Americans in that timeframe. What about Iranian
+      proxy attacks on civilians? Core confirmed civilian deaths from major proxies
+      (primarily Hezbollah’s early attacks and Hamas operations) is estimated at  50–100+,
+      depending on inclusion of dual citizens and less-documented cases, during the
+      past 46 years. Now let’s examine the number of US military deaths attributed to
+      Iranian proxies — Note, these are not acts of terrorism, these are attacks on
+      legitimate military targets. The number of US military deaths attributed to Iranian
+      proxies (groups funded, trained, armed, or directed by Iran’s Islamic Revolutionary
+      Guard Corps (IRGC), such as Hezbollah, various Iraqi Shia militias like Kata’ib
+      Hezbollah and Asa’ib Ahl al-Haq, and others) since 1979 is estimated in the hundreds
+      to over 1,000, depending on the source and scope of attribution. There is no single,
+      universally agreed-upon official cumulative figure from the US government that
+      encompasses all incidents, but reliable estimates from Pentagon reports, declassified
+      documents, think tanks (e.g., Foundation for Defense of Democracies/FDD), and
+      court rulings provide the following breakdown: 1983 Beirut Marine Barracks Bombing
+      (Lebanon): Carried out by Islamic Jihad (an early Hezbollah precursor, backed
+      and directed by Iran). This suicide truck bombing killed 241 US service members
+      (primarily Marines, plus Navy and Army personnel). US courts and intelligence
+      have held Iran responsible for directing the attack through its proxy. Iraq War
+      (2003–2011): Iranian-backed Shia militias, supplied with weapons like explosively
+      formed penetrators (EFPs), training, and funding by the IRGC-Quds Force, are attributed
+      with killing at least 603 US troops (per revised 2019 Pentagon estimates; earlier
+      figures cited ~500). This accounts for roughly 17% of all US combat deaths in
+      Iraq during that period. Some sources (e.g., older analyses) suggest the toll
+      could exceed 1,000 when including indirect or harder-to-attribute cases. January
+      2024 drone attack by Kata’ib Hezbollah (Iran-backed Iraqi militia) on Tower 22
+      base in Jordan: Killed 3 U.S. service members and wounded dozens. Now let’s look
+      at the civilian death tolls inflicted by the US in Iraq and Afghanistan in the
+      21st Century. The most reliable source for directly attributed deaths is the Iraq
+      Body Count (IBC) project, which compiles cross-verified media reports, official
+      records, and other sources. According to the IBC documented violent civilian deaths
+      (2003–present) are an estimated 150,000–210,000 (with totals reaching ~187,000–211,000
+      by recent updates, including post-2016). Estimating Afghan civilian deaths attributed
+      to the US-led coalition forces (primarily the United States and NATO/ISAF partners)
+      from the 2001 invasion through the 2021 withdrawal is difficult because there
+      is no comprehensive, publicly available database equivalent to Iraq Body Count
+      (IBC) for Afghanistan. Instead, Afghanistan relied heavily on United Nations Assistance
+      Mission in Afghanistan (UNAMA) reports starting in 2009, which provide documented
+      (not exhaustive) figures, often with breakdowns by perpetrator. Total documented
+      civilian deaths (all causes, 2001–2021) are an estimated 46,000 (per Costs of
+      War Project and Wikipedia summaries drawing from UNAMA and other sources). This
+      is the number for direct violent deaths… If we included indirect deaths from disease,
+      malnutrition, and displacement, experts believe the numbers could be closer to
+      100,000. Returning to Bibi Netanyahu’s definition of terrorism, there is only
+      one country operating in West Asia that has killed at least 250,000 civilians…
+      It is not Iran, it is the United States. For the last 46 years, the American public
+      have been gaslit about an Iranian terrorism threat that pales in comparison to
+      what America has done. If we add in the number of Iranians killed because of a
+      US-funded proxy, than the toll of lives lost approaches one million. If there
+      is a God who passes judgment on nations for the evil they do, the one country
+      that should fear divine judgment is the US, not Iran. Here are my latest podcast
+      interviews: https://open.substack.com/pub/eastcalling/p/larry-johnson-and-eastcalling-january?utm_campaign=post-expanded-share&utm_medium=web
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: In a recent Zoom meeting, a retired US General argued for
+      the necessity of war against Iran due to its history of violence against Americans,
+      but the author countered that Iran's hostility is largely a reaction to US interventions,
+      particularly the 1953 coup that overthrew its democratically elected leader.
+    paragraph_summary: In a recent Zoom meeting, a retired US General argued for military
+      action against Iran, labeling it an irredeemable terrorist state responsible for
+      the deaths of thousands of Americans, particularly military personnel. In response,
+      the author challenged this perspective, asserting that Iran's hostility towards
+      the US is largely a reaction to historical grievances, notably the 1953 CIA-backed
+      coup that overthrew democratically elected Prime Minister Mohammad Mossadegh and
+      the subsequent support for the autocratic Shah, which led to the 1979 Iranian
+      Revolution. This revolution was driven by widespread discontent with the Shah's
+      oppressive regime, rapid Westernization, and economic disparities, which collectively
+      fostered deep-seated resentment towards the United States. The author aims to
+      provide a comprehensive analysis of these historical events to counter the General's
+      claims.
+    published: '2026-01-14T05:04:25+00:00'
+  - title: US Cargo Planes Have Flooded the Persian Gulf Since the First of December
+    url: https://sonar21.com/us-cargo-planes-have-flooded-the-persian-gulf-since-the-first-of-december/
+    text: 'In December 2025 and January 2026 (through early/mid-January), open-source
+      intelligence (OSINT) and flight-tracking data indicate a significant surge in
+      US military transport aircraft (primarily heavy lifters like C-17 Globemaster
+      III and C-5M Galaxy) flying to or toward US bases in the Persian Gulf, such as
+      Al Udeid Air Base in Qatar, with reports consistently describing “dozens” of such
+      movements. Al Udeid Air Base (also known as Abu Nakhlah Airport) is the largest
+      U.S. military installation in the Middle East, located in the desert approximately
+      20–35 km (12–22 miles) southwest of Doha, Qatar. It serves as a critical strategic
+      hub for U.S. and allied operations in the region. Al Udeid is the headquarters
+      for the forward element of US Central Command (CENTCOM), US Air Forces Central
+      Command (AFCENT), and the Combined Air Operations Center (CAOC) — which commands
+      and controls airpower across a 21-nation area from Northeast Africa to Central
+      Asia. It also hosts elements of the US Special Operations Command Central and
+      allies like the Royal Air Force (RAF)’s No. 83 Expeditionary Air Group. Al Udeid
+      is just the tip of the iceberg as far as the US presence in the Persian Gulf is
+      concerned. Here are the other bases: Naval Support Activity Bahrain (Bahrain,
+      in Manama): Headquarters for the US Navy’s Fifth Fleet (NAVCENT), responsible
+      for maritime operations in the Persian Gulf, Red Sea, Arabian Sea, and parts of
+      the Indian Ocean. Hosts ~9,000 personnel (military and civilians). Key for naval
+      presence, including ships, patrol craft, and support for regional security. Camp
+      Arifjan (Kuwait, near Kuwait City) Forward headquarters for US Army Central (ARCENT).
+      Major logistics, supply, and command hub for ground forces and prepositioned equipment.
+      Ali Al Salem Air Base (Kuwait, ~40 km from the Iraqi border) Known as “The Rock”;
+      supports airlift, refueling, transport, and expeditionary air operations (home
+      to the 386th Air Expeditionary Wing). Camp Buehring (Kuwait, near the Iraq border)
+      Staging post for Army units deploying to Iraq/Syria and training/operations support.
+      Al Dhafra Air Base (United Arab Emirates, south of Abu Dhabi) Shared with UAE
+      Air Force; critical US Air Force hub for reconnaissance, intelligence, fighter
+      operations (e.g., F-22 Raptors), and missions against threats like ISIS. Prince
+      Sultan Air Base (Saudi Arabia) — Hosts US fighter jets and air defense; reactivated
+      for regional deterrence. Multiple reports from OSINT sources, flight trackers
+      (e.g., FlightRadar24), and media outlets (including Israeli, European, and international
+      sources) describe dozens of heavy transport aircraft (C-17s and C-5s) departing
+      from US bases, the UK (e.g., RAF Mildenhall), and Germany, heading eastward to
+      Persian Gulf hubs. This activity ramped up notably in early January 2026, with
+      ongoing reports of C-17s, C-5s, and related support aircraft (including tankers
+      like KC-135 and KC-46) en route. The movements are most likely preparations for
+      an attack on  Iran (e.g., protests, air defense boosts), and analysts note similarities
+      to prior buildups. No exact daily or total count is publicly confirmed by the
+      Pentagon, but the scale is described as a “ major redeployment ” or “ heavy airlift
+      ,” often in the range of dozens (20–50+ individual aircraft movements, though
+      some may be round-trips or rotations). In my last piece I listed the deployment
+      of a US carrier task force as a possible indicator of an impending US military
+      attack on Iran. I may be wrong. The surge of US military cargo planes over the
+      last 40 days suggests that the US may opt for an air campaign and is deploying
+      air defense systems to all of the bases listed above in preparation for such an
+      attack. I believe that US planners believe they can knock out Iranian missile
+      sites and, with a bevy of Patriot and THAAD air defense systems, defeat any Iranian
+      retaliation. All of the information I’ve present above comes from open source
+      intelligence (OSINT). If I can read it so can the Iranians, the Russians and the
+      Chinese. Would you be shocked to learn that the Russians and the Chinese have
+      satellite systems that are collecting intelligence on these bases as well and
+      passing that information to Iran? Iran will know the location of the US air defense
+      systems. Based on the Iranian response to the surprise attack on June 13, I expect
+      Iran will initially flood the US bases with drones and older missiles that will
+      drain the US anti-missile defense systems… The US does not have an unlimited supply
+      of Patriot missiles. If Iran has swallowed it pride and has accepted a robust
+      supply of Russian and Chinese air defense units, then it has a better chance of
+      surviving a US attack intended to neutralize Iran’s ability to launch ballistic
+      missiles, which are stored in a number of underground bunkers scattered around
+      Iran. I still think that the first move by the US will be a cyber attack on Iran’s
+      military command and control system. However, Iran has a robust cyber capability
+      as well and would likely respond in kind to any such attack. Trump will receive
+      a full briefing from Pete Hegseth’s War Department today (Tuesday) and a decision
+      on the US courses of action is likely to follow. I discussed these issues today
+      with Judge Napolitano and Danny Davis. We also analyzed the war in Ukraine. I
+      thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: In late December 2025 and early January 2026, there was a
+      notable increase in US military transport aircraft, particularly heavy lifters,
+      flying to Al Udeid Air Base in Qatar, a key strategic hub for US operations in
+      the Middle East.
+    paragraph_summary: In late December 2025 and early January 2026, there was a notable
+      increase in the activity of US military transport aircraft, particularly heavy
+      lifters like the C-17 Globemaster III and C-5M Galaxy, flying to US bases in the
+      Persian Gulf, especially Al Udeid Air Base in Qatar. This base, the largest US
+      military installation in the Middle East, serves as a vital strategic hub for
+      US Central Command and allied operations, hosting various military elements, including
+      the US Air Forces Central Command and the Royal Air Force. Additionally, the US
+      maintains a significant presence in the region with other bases such as Naval
+      Support Activity Bahrain, Camp Arifjan in Kuwait, and Ali Al Salem Air Base, which
+      support various military operations and logistics across the Persian Gulf and
+      beyond.
+    published: '2026-01-13T06:00:55+00:00'
+  - title: US Cargo Planes Have Flooded the Persian Gulf Since the First of December
+    url: https://sonar21.com/us-cargo-planes-have-flooded-the-persian-gulf-since-the-first-of-december/
+    text: 'In December 2025 and January 2026 (through early/mid-January), open-source
+      intelligence (OSINT) and flight-tracking data indicate a significant surge in
+      US military transport aircraft (primarily heavy lifters like C-17 Globemaster
+      III and C-5M Galaxy) flying to or toward US bases in the Persian Gulf, such as
+      Al Udeid Air Base in Qatar, with reports consistently describing “dozens” of such
+      movements. Al Udeid Air Base (also known as Abu Nakhlah Airport) is the largest
+      U.S. military installation in the Middle East, located in the desert approximately
+      20–35 km (12–22 miles) southwest of Doha, Qatar. It serves as a critical strategic
+      hub for U.S. and allied operations in the region. Al Udeid is the headquarters
+      for the forward element of US Central Command (CENTCOM), US Air Forces Central
+      Command (AFCENT), and the Combined Air Operations Center (CAOC) — which commands
+      and controls airpower across a 21-nation area from Northeast Africa to Central
+      Asia. It also hosts elements of the US Special Operations Command Central and
+      allies like the Royal Air Force (RAF)’s No. 83 Expeditionary Air Group. Al Udeid
+      is just the tip of the iceberg as far as the US presence in the Persian Gulf is
+      concerned. Here are the other bases: Naval Support Activity Bahrain (Bahrain,
+      in Manama): Headquarters for the US Navy’s Fifth Fleet (NAVCENT), responsible
+      for maritime operations in the Persian Gulf, Red Sea, Arabian Sea, and parts of
+      the Indian Ocean. Hosts ~9,000 personnel (military and civilians). Key for naval
+      presence, including ships, patrol craft, and support for regional security. Camp
+      Arifjan (Kuwait, near Kuwait City) Forward headquarters for US Army Central (ARCENT).
+      Major logistics, supply, and command hub for ground forces and prepositioned equipment.
+      Ali Al Salem Air Base (Kuwait, ~40 km from the Iraqi border) Known as “The Rock”;
+      supports airlift, refueling, transport, and expeditionary air operations (home
+      to the 386th Air Expeditionary Wing). Camp Buehring (Kuwait, near the Iraq border)
+      Staging post for Army units deploying to Iraq/Syria and training/operations support.
+      Al Dhafra Air Base (United Arab Emirates, south of Abu Dhabi) Shared with UAE
+      Air Force; critical US Air Force hub for reconnaissance, intelligence, fighter
+      operations (e.g., F-22 Raptors), and missions against threats like ISIS. Prince
+      Sultan Air Base (Saudi Arabia) — Hosts US fighter jets and air defense; reactivated
+      for regional deterrence. Multiple reports from OSINT sources, flight trackers
+      (e.g., FlightRadar24), and media outlets (including Israeli, European, and international
+      sources) describe dozens of heavy transport aircraft (C-17s and C-5s) departing
+      from US bases, the UK (e.g., RAF Mildenhall), and Germany, heading eastward to
+      Persian Gulf hubs. This activity ramped up notably in early January 2026, with
+      ongoing reports of C-17s, C-5s, and related support aircraft (including tankers
+      like KC-135 and KC-46) en route. The movements are most likely preparations for
+      an attack on  Iran (e.g., protests, air defense boosts), and analysts note similarities
+      to prior buildups. No exact daily or total count is publicly confirmed by the
+      Pentagon, but the scale is described as a “ major redeployment ” or “ heavy airlift
+      ,” often in the range of dozens (20–50+ individual aircraft movements, though
+      some may be round-trips or rotations). In my last piece I listed the deployment
+      of a US carrier task force as a possible indicator of an impending US military
+      attack on Iran. I may be wrong. The surge of US military cargo planes over the
+      last 40 days suggests that the US may opt for an air campaign and is deploying
+      air defense systems to all of the bases listed above in preparation for such an
+      attack. I believe that US planners believe they can knock out Iranian missile
+      sites and, with a bevy of Patriot and THAAD air defense systems, defeat any Iranian
+      retaliation. All of the information I’ve present above comes from open source
+      intelligence (OSINT). If I can read it so can the Iranians, the Russians and the
+      Chinese. Would you be shocked to learn that the Russians and the Chinese have
+      satellite systems that are collecting intelligence on these bases as well and
+      passing that information to Iran? Iran will know the location of the US air defense
+      systems. Based on the Iranian response to the surprise attack on June 13, I expect
+      Iran will initially flood the US bases with drones and older missiles that will
+      drain the US anti-missile defense systems… The US does not have an unlimited supply
+      of Patriot missiles. If Iran has swallowed it pride and has accepted a robust
+      supply of Russian and Chinese air defense units, then it has a better chance of
+      surviving a US attack intended to neutralize Iran’s ability to launch ballistic
+      missiles, which are stored in a number of underground bunkers scattered around
+      Iran. I still think that the first move by the US will be a cyber attack on Iran’s
+      military command and control system. However, Iran has a robust cyber capability
+      as well and would likely respond in kind to any such attack. Trump will receive
+      a full briefing from Pete Hegseth’s War Department today (Tuesday) and a decision
+      on the US courses of action is likely to follow. I discussed these issues today
+      with Judge Napolitano and Danny Davis. We also analyzed the war in Ukraine. I
+      thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: In late December 2025 and early January 2026, there was a
+      notable increase in US military transport aircraft, particularly heavy lifters,
+      flying to Al Udeid Air Base in Qatar, a key strategic hub for US operations in
+      the Middle East.
+    paragraph_summary: In late December 2025 and early January 2026, there was a notable
+      increase in the activity of US military transport aircraft, particularly heavy
+      lifters like the C-17 Globemaster III and C-5M Galaxy, flying to US bases in the
+      Persian Gulf, especially Al Udeid Air Base in Qatar. This base, the largest US
+      military installation in the Middle East, serves as a vital strategic hub for
+      US Central Command and allied operations, hosting various military elements, including
+      the US Air Forces Central Command and the Royal Air Force. Additionally, the US
+      maintains a significant presence in the region with other bases such as Naval
+      Support Activity Bahrain, Camp Arifjan in Kuwait, and Ali Al Salem Air Base, which
+      support various military operations and logistics across the Persian Gulf and
+      beyond.
+    published: '2026-01-13T06:00:55+00:00'
+  - title: The CIA/Mossad Operation to Spark a Color Revolution in Iran has Failed
+    url: https://sonar21.com/the-cia-mossad-operation-to-spark-a-color-revolution-in-iran-has-failed/
+    text: 'The CIA/Mossad plan to spark a color revolution in Iran, which has attracted
+      global attention and a tsunami of propaganda pieces portraying the Iranian protests
+      as a massive, unstoppable popular movement, has failed. Yes, protests continue
+      in some parts of the country, but Iranian security forces have taken off the gloves
+      and are fighting back. Casualty estimates are all over the board… Ranging from
+      hundreds to thousands dead. Iranian officials have announced that the alleged
+      ring leaders of the violent protests will be publicly executed starting Wednesday.
+      While Trump is now promising to try to come to the aid of the protestors, his
+      promise appears to be more rhetorical than substantive. According to a report
+      by the Jerusalem Post : US President Donald Trump is expected to assist Iranians
+      who are protesting nationwide against the Islamic Republic regime, several sources
+      familiar with the details of the discussions held in recent days told The Jerusalem
+      Post on Sunday. “ Trump has essentially decided to help the protesters in Iran.
+      What he has not yet decided is the ‘how’ and the ‘when,’” they said. . . . “The
+      spectrum ranges from a military option , namely strikes against regime targets,
+      to cyber support against the regime, to providing Starlink systems to help protesters,”
+      one source told the Post . “While the Trump administration does not believe that
+      the Iranian regime is collapsing, it definitely sees problems and cracks that
+      did not exist a week ago,” the source added. However, the British newspaper, The
+      Telegraph , dampens expectations that immediate military action is on the agenda:
+      US media reported that officials would on Tuesday give Mr Trump options for a
+      number of non-lethal measures, including amplifying anti-government criticism
+      online and deploying secretive cyber weapons against Iranian military and civilian
+      sites. Marco Rubio, the secretary of state, Pete Hegseth, the US defence secretary,
+      and General Dan Caine, the chairman of the joint chiefs of staff, are expected
+      to attend the briefing. Commanders in the region have told officials that they
+      need to “consolidate US military positions and prepare defences” before carrying
+      out any military strikes against security services responsible for the bloody
+      crackdown on demonstrations . A report in the Washington Post corroborates The
+      Telegraph report that the Trump administration is just starting to weigh courses
+      of action: Options under review, the Journal reported, could include deploying
+      cyberweapons against Iranian military and civilian sites, imposing additional
+      economic sanctions on the Iranian government and launching military strikes. While
+      CIA front groups continue to supply the Western media with reports of large protests
+      in cities such as Mashdad, the reality on the ground is otherwise. Here’s a video
+      from Mashdad recorded earlier today (nighttime in Iran) of pro-regime elements
+      filling the square: The CIA and Mossad seem to have forgotten that in order to
+      effect a successful regime change they must have the military and the security
+      services under control. Let’s assume that there were a total of one million protestors
+      scattered among the cities of Iran. That’s still only a little more than 1% of
+      the total population of Iran. While many Iranians are angry or disillusioned with
+      the government of President Pezeshkian’s mishandling of the Iranian economy, that
+      does not mean the majority of Iranians are ready to blame the Ayatollah Khameni.
+      What are the indicators that the US will strike Iran? The US should have at least
+      one carrier task force in the region, at least a couple of squadrons of fighter/bombers,
+      and the hardening or evacuation of US military bases in the region. So far there
+      is no sign of such activity. Here is my recent interview with Kim Iverson: I thank
+      you for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: The CIA/Mossad plan to incite a color revolution in Iran has
+      largely failed as Iranian security forces have intensified their crackdown on
+      protests, resulting in significant casualties and the announcement of public executions
+      for protest leaders, while Trump's promised support for the demonstrators appears
+      largely rhetorical.
+    paragraph_summary: The CIA and Mossad's efforts to incite a color revolution in
+      Iran have largely failed, as protests continue but are met with increasing resistance
+      from Iranian security forces, resulting in significant casualties. Iranian officials
+      have announced plans to execute the alleged leaders of the protests, while former
+      President Trump has expressed intentions to support the demonstrators, though
+      specifics on how this support will manifest remain unclear. Reports suggest a
+      range of potential U.S. actions, from military strikes to cyber support, but the
+      British media indicates that immediate military intervention is unlikely. Instead,
+      the Trump administration is considering non-lethal measures to bolster anti-government
+      sentiments and disrupt Iranian military operations.
+    published: '2026-01-12T04:06:42+00:00'
+  - title: The CIA/Mossad Operation to Spark a Color Revolution in Iran has Failed
+    url: https://sonar21.com/the-cia-mossad-operation-to-spark-a-color-revolution-in-iran-has-failed/
+    text: 'The CIA/Mossad plan to spark a color revolution in Iran, which has attracted
+      global attention and a tsunami of propaganda pieces portraying the Iranian protests
+      as a massive, unstoppable popular movement, has failed. Yes, protests continue
+      in some parts of the country, but Iranian security forces have taken off the gloves
+      and are fighting back. Casualty estimates are all over the board… Ranging from
+      hundreds to thousands dead. Iranian officials have announced that the alleged
+      ring leaders of the violent protests will be publicly executed starting Wednesday.
+      While Trump is now promising to try to come to the aid of the protestors, his
+      promise appears to be more rhetorical than substantive. According to a report
+      by the Jerusalem Post : US President Donald Trump is expected to assist Iranians
+      who are protesting nationwide against the Islamic Republic regime, several sources
+      familiar with the details of the discussions held in recent days told The Jerusalem
+      Post on Sunday. “ Trump has essentially decided to help the protesters in Iran.
+      What he has not yet decided is the ‘how’ and the ‘when,’” they said. . . . “The
+      spectrum ranges from a military option , namely strikes against regime targets,
+      to cyber support against the regime, to providing Starlink systems to help protesters,”
+      one source told the Post . “While the Trump administration does not believe that
+      the Iranian regime is collapsing, it definitely sees problems and cracks that
+      did not exist a week ago,” the source added. However, the British newspaper, The
+      Telegraph , dampens expectations that immediate military action is on the agenda:
+      US media reported that officials would on Tuesday give Mr Trump options for a
+      number of non-lethal measures, including amplifying anti-government criticism
+      online and deploying secretive cyber weapons against Iranian military and civilian
+      sites. Marco Rubio, the secretary of state, Pete Hegseth, the US defence secretary,
+      and General Dan Caine, the chairman of the joint chiefs of staff, are expected
+      to attend the briefing. Commanders in the region have told officials that they
+      need to “consolidate US military positions and prepare defences” before carrying
+      out any military strikes against security services responsible for the bloody
+      crackdown on demonstrations . A report in the Washington Post corroborates The
+      Telegraph report that the Trump administration is just starting to weigh courses
+      of action: Options under review, the Journal reported, could include deploying
+      cyberweapons against Iranian military and civilian sites, imposing additional
+      economic sanctions on the Iranian government and launching military strikes. While
+      CIA front groups continue to supply the Western media with reports of large protests
+      in cities such as Mashdad, the reality on the ground is otherwise. Here’s a video
+      from Mashdad recorded earlier today (nighttime in Iran) of pro-regime elements
+      filling the square: The CIA and Mossad seem to have forgotten that in order to
+      effect a successful regime change they must have the military and the security
+      services under control. Let’s assume that there were a total of one million protestors
+      scattered among the cities of Iran. That’s still only a little more than 1% of
+      the total population of Iran. While many Iranians are angry or disillusioned with
+      the government of President Pezeshkian’s mishandling of the Iranian economy, that
+      does not mean the majority of Iranians are ready to blame the Ayatollah Khameni.
+      What are the indicators that the US will strike Iran? The US should have at least
+      one carrier task force in the region, at least a couple of squadrons of fighter/bombers,
+      and the hardening or evacuation of US military bases in the region. So far there
+      is no sign of such activity. Here is my recent interview with Kim Iverson: I thank
+      you for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: The CIA/Mossad plan to incite a color revolution in Iran has
+      largely failed as Iranian security forces have intensified their crackdown on
+      protests, resulting in significant casualties and the announcement of public executions
+      for protest leaders, while Trump's promised support for the demonstrators appears
+      largely rhetorical.
+    paragraph_summary: The CIA and Mossad's efforts to incite a color revolution in
+      Iran have largely failed, as protests continue but are met with increasing resistance
+      from Iranian security forces, resulting in significant casualties. Iranian officials
+      have announced plans to execute the alleged leaders of the protests, while former
+      President Trump has expressed intentions to support the demonstrators, though
+      specifics on how this support will manifest remain unclear. Reports suggest a
+      range of potential U.S. actions, from military strikes to cyber support, but the
+      British media indicates that immediate military intervention is unlikely. Instead,
+      the Trump administration is considering non-lethal measures to bolster anti-government
+      sentiments and disrupt Iranian military operations.
+    published: '2026-01-12T04:06:42+00:00'
+  - title: The Jacques Baud Case – Bern Lodges a Protest with the EU!
+    url: https://sonar21.com/the-jacques-baud-case-bern-lodges-a-protest-with-the-eu/
+    text: 'After a long wait—and probably under pressure from many upright individuals—official
+      Switzerland is protesting in Brussels. A first ray of hope, but only the end of
+      the beginning. By Peter Hanseler via ForumGeopolitica.com Protest Yesterday evening,
+      we received news that the Federal Department of Foreign Affairs (FDFA) had lodged
+      an official protest in Brussels 26 days after Jacques Baud was sanctioned by the
+      EU, arguing that the sanctions imposed on Jacques Baud had not been preceded by
+      due process and that freedom of expression had not been respected. Bern’s reaction
+      to this unlawful action against a Swiss citizen comes rather late. We remember
+      the stupid grin of Federal Councilor Jans , the defamatory statements made by
+      Jans’ colleague Schinzel on X , and the outright smear campaign against Baud by
+      Lieutenant Colonel Kohler, who – when confronted with our legal analysis and proof
+      of defamation – described his pamphlet as “ case study in cognitive warfare ”
+      and dismissed “ personal accusations ” as unfounded. Our contribution to this:
+      “ Pascal Kohler – the Herald of Kaja Kallas .” No due process The department,
+      which under the leadership of Federal Councilor Ignazio Cassis advocates the automatic
+      adoption of EU law and EU decisions, now seems to be realizing that “ due process
+      ” is a thing of the past in the EU. Contrary to Article 11 of its own charter
+      , the EU has moved to punish, disenfranchise, and expropriate citizens of all
+      countries without any offense having been committed, as was last seen in Nazi
+      Germany (see our analysis: “ EU sanctions German journalists ” from May 2025).
+      The dozens of people affected were never given the right to defend themselves
+      or be heard. This elimination of dissenters is not being ordered by a court, but
+      by the “Council of the European Union,” the political arm of the EU. The Council,
+      in which non-democratically elected apparatchiks enjoy a good life, is headed
+      by the non-democratically elected Kaja Kallas. We are back in the Middle Ages.
+      Pressure from Many Yields First Result The initial inaction of the ladies and
+      gentlemen in Bern suggests that the current positive change of course was not
+      the result of their own deliberations, but rather the result of international
+      pressure that has built up in recent days. We strongly criticized this posture
+      in our article “ Jacques Baud is being Sanctioned—and Switzerland is Fast Asleep
+      ” on December 18, and we were not alone. The pressure did not come from Switzerland
+      alone. Countless alternative media outlets around the world stood up for Jacques
+      Baud. In Germany, I would like to mention, among many others, the Nachdenkseiten
+      , whose Florian Warweg questioned the German government’s actions as early as
+      December 19 at a federal press conference . The press spokesman’s succinct response
+      was that this happens when you spread disinformation and that it will continue
+      to happen in the future – so much for the German government’s stance. “This Far
+      and no FURTHER” Patrik Baab , who also writes for us, has shown great courage.
+      He started the petition “This far and no further,” which we were among the first
+      to sign and which is still ongoing: My appeal: Please sign – link here! Patrik
+      Baab, who still lives in Germany, is risking political persecution and even arrest
+      in his own country for Jacques Baud – hats off to him! In Switzerland, too, alternative
+      media outlets in particular have engaged in unprecedented exchanges and mutual
+      support. An initiative by Vital Burger, who has been campaigning for freedom for
+      decades, is also getting underway. Vital has produced a button – “Nous sommes
+      Jacques” – which can now be ordered at button@noussommesjacques.ch for CHF 5.-.
+      The collaboration is excellent and should remain so—it’s not about the egos of
+      individual publicists, but only about Jacques Baud. Weltwoche, which at the beginning
+      of the campaign gave the impression of going along with it and whose editor Rafael
+      Lutz wrote a great article about Pascal Kohler entitled “A ‘surf instructor’ becomes
+      an agitator,” made a U-turn last week. Roger Köppel refused to publish our article
+      “ Pascal Kohler – the Herald of Kaja Kallas ” online and to make Rafael’s article
+      available to us. His reasoning: “Weltwoche is an independent media company, and
+      this independence is important. That’s what it’s all about. There is no human
+      right to reprint Weltwoche articles.” Roger Köppel, January 8, 2026 Roger Köppel
+      is helping Jacques Baud, but only if you buy his newspaper. It is to be hoped
+      that Roger Köppel will change his attitude in this battle—it is solely and exclusively
+      about Jacques Baud and, for once, not about business. Personally, I was most pleased
+      by the willingness of American colleagues to give Jacques Baud their full support.
+      Jacques Baud also found tremendous support in the US. Among many others, I would
+      like to mention Judge Napolitano and Scott Ritter. Judge Napolitano, whom I know
+      very well personally and consider a true friend, interviewed Jacques Baud on his
+      excellent channel “ Judging Freedom” . To use Judge Napolitano’s words: “Bravissimo!”
+      Scott Ritter, a close friend of mine and one of our authors, went all out for
+      Jacques Baud—as befits a Marine. Not only did he publish a scathing article with
+      us, “ Punish me, you bitch! ,” a very special declaration of love to Kaja Kallas,
+      but he also brought up Jacques Baud in countless interviews and defended him,
+      including on Judge Napolitano’s show. Perhaps the End of the Beginning Jacques
+      Baud is not yet saved—we are still a long way from that. Although official Switzerland
+      has awakened from its deep sleep, Jacques Baud is still stuck in his apartment
+      in Brussels, without money, without rights, and dependent on food aid from his
+      neighbors, who are literally saving him from starvation – we are not talking about
+      Sachsenhausen in 1943, but Brussels in 2026! Winston Churchill’s bon mot after
+      the British first military success against the Wehrmacht in Africa in 1942 should
+      remind all supporters that we have not yet come very far: “Now this is not the
+      end. It is not even the beginning of the end. But it is, perhaps, the end of the
+      beginning.” Winston Churchill, 1942'
+    one_sentence_summary: Switzerland has officially protested in Brussels against the
+      EU's sanctions on Jacques Baud, claiming a lack of due process and violation of
+      freedom of expression, marking a delayed but significant response to what it views
+      as an unlawful action against a Swiss citizen.
+    paragraph_summary: Switzerland has officially protested in Brussels against the
+      EU's sanctions imposed on Swiss citizen Jacques Baud, arguing that these sanctions
+      lacked due process and violated freedom of expression. This response from the
+      Federal Department of Foreign Affairs (FDFA) comes 26 days after the sanctions
+      were enacted, and many view it as a delayed reaction to an unjust action. The
+      article criticizes the EU's handling of sanctions, suggesting that it mirrors
+      historical injustices, and highlights the lack of legal recourse for those affected.
+      The situation raises concerns about the erosion of due process and the power dynamics
+      within the EU, particularly criticizing the non-democratic nature of its decision-making
+      bodies.
+    published: '2026-01-11T10:54:58+00:00'
+  - title: The Jacques Baud Case – Bern Lodges a Protest with the EU!
+    url: https://sonar21.com/the-jacques-baud-case-bern-lodges-a-protest-with-the-eu/
+    text: 'After a long wait—and probably under pressure from many upright individuals—official
+      Switzerland is protesting in Brussels. A first ray of hope, but only the end of
+      the beginning. By Peter Hanseler via ForumGeopolitica.com Protest Yesterday evening,
+      we received news that the Federal Department of Foreign Affairs (FDFA) had lodged
+      an official protest in Brussels 26 days after Jacques Baud was sanctioned by the
+      EU, arguing that the sanctions imposed on Jacques Baud had not been preceded by
+      due process and that freedom of expression had not been respected. Bern’s reaction
+      to this unlawful action against a Swiss citizen comes rather late. We remember
+      the stupid grin of Federal Councilor Jans , the defamatory statements made by
+      Jans’ colleague Schinzel on X , and the outright smear campaign against Baud by
+      Lieutenant Colonel Kohler, who – when confronted with our legal analysis and proof
+      of defamation – described his pamphlet as “ case study in cognitive warfare ”
+      and dismissed “ personal accusations ” as unfounded. Our contribution to this:
+      “ Pascal Kohler – the Herald of Kaja Kallas .” No due process The department,
+      which under the leadership of Federal Councilor Ignazio Cassis advocates the automatic
+      adoption of EU law and EU decisions, now seems to be realizing that “ due process
+      ” is a thing of the past in the EU. Contrary to Article 11 of its own charter
+      , the EU has moved to punish, disenfranchise, and expropriate citizens of all
+      countries without any offense having been committed, as was last seen in Nazi
+      Germany (see our analysis: “ EU sanctions German journalists ” from May 2025).
+      The dozens of people affected were never given the right to defend themselves
+      or be heard. This elimination of dissenters is not being ordered by a court, but
+      by the “Council of the European Union,” the political arm of the EU. The Council,
+      in which non-democratically elected apparatchiks enjoy a good life, is headed
+      by the non-democratically elected Kaja Kallas. We are back in the Middle Ages.
+      Pressure from Many Yields First Result The initial inaction of the ladies and
+      gentlemen in Bern suggests that the current positive change of course was not
+      the result of their own deliberations, but rather the result of international
+      pressure that has built up in recent days. We strongly criticized this posture
+      in our article “ Jacques Baud is being Sanctioned—and Switzerland is Fast Asleep
+      ” on December 18, and we were not alone. The pressure did not come from Switzerland
+      alone. Countless alternative media outlets around the world stood up for Jacques
+      Baud. In Germany, I would like to mention, among many others, the Nachdenkseiten
+      , whose Florian Warweg questioned the German government’s actions as early as
+      December 19 at a federal press conference . The press spokesman’s succinct response
+      was that this happens when you spread disinformation and that it will continue
+      to happen in the future – so much for the German government’s stance. “This Far
+      and no FURTHER” Patrik Baab , who also writes for us, has shown great courage.
+      He started the petition “This far and no further,” which we were among the first
+      to sign and which is still ongoing: My appeal: Please sign – link here! Patrik
+      Baab, who still lives in Germany, is risking political persecution and even arrest
+      in his own country for Jacques Baud – hats off to him! In Switzerland, too, alternative
+      media outlets in particular have engaged in unprecedented exchanges and mutual
+      support. An initiative by Vital Burger, who has been campaigning for freedom for
+      decades, is also getting underway. Vital has produced a button – “Nous sommes
+      Jacques” – which can now be ordered at button@noussommesjacques.ch for CHF 5.-.
+      The collaboration is excellent and should remain so—it’s not about the egos of
+      individual publicists, but only about Jacques Baud. Weltwoche, which at the beginning
+      of the campaign gave the impression of going along with it and whose editor Rafael
+      Lutz wrote a great article about Pascal Kohler entitled “A ‘surf instructor’ becomes
+      an agitator,” made a U-turn last week. Roger Köppel refused to publish our article
+      “ Pascal Kohler – the Herald of Kaja Kallas ” online and to make Rafael’s article
+      available to us. His reasoning: “Weltwoche is an independent media company, and
+      this independence is important. That’s what it’s all about. There is no human
+      right to reprint Weltwoche articles.” Roger Köppel, January 8, 2026 Roger Köppel
+      is helping Jacques Baud, but only if you buy his newspaper. It is to be hoped
+      that Roger Köppel will change his attitude in this battle—it is solely and exclusively
+      about Jacques Baud and, for once, not about business. Personally, I was most pleased
+      by the willingness of American colleagues to give Jacques Baud their full support.
+      Jacques Baud also found tremendous support in the US. Among many others, I would
+      like to mention Judge Napolitano and Scott Ritter. Judge Napolitano, whom I know
+      very well personally and consider a true friend, interviewed Jacques Baud on his
+      excellent channel “ Judging Freedom” . To use Judge Napolitano’s words: “Bravissimo!”
+      Scott Ritter, a close friend of mine and one of our authors, went all out for
+      Jacques Baud—as befits a Marine. Not only did he publish a scathing article with
+      us, “ Punish me, you bitch! ,” a very special declaration of love to Kaja Kallas,
+      but he also brought up Jacques Baud in countless interviews and defended him,
+      including on Judge Napolitano’s show. Perhaps the End of the Beginning Jacques
+      Baud is not yet saved—we are still a long way from that. Although official Switzerland
+      has awakened from its deep sleep, Jacques Baud is still stuck in his apartment
+      in Brussels, without money, without rights, and dependent on food aid from his
+      neighbors, who are literally saving him from starvation – we are not talking about
+      Sachsenhausen in 1943, but Brussels in 2026! Winston Churchill’s bon mot after
+      the British first military success against the Wehrmacht in Africa in 1942 should
+      remind all supporters that we have not yet come very far: “Now this is not the
+      end. It is not even the beginning of the end. But it is, perhaps, the end of the
+      beginning.” Winston Churchill, 1942'
+    one_sentence_summary: Switzerland has officially protested in Brussels against the
+      EU's sanctions on Jacques Baud, claiming a lack of due process and violation of
+      freedom of expression, marking a delayed but significant response to what it views
+      as an unlawful action against a Swiss citizen.
+    paragraph_summary: Switzerland has officially protested in Brussels against the
+      EU's sanctions imposed on Swiss citizen Jacques Baud, arguing that these sanctions
+      lacked due process and violated freedom of expression. This response from the
+      Federal Department of Foreign Affairs (FDFA) comes 26 days after the sanctions
+      were enacted, and many view it as a delayed reaction to an unjust action. The
+      article criticizes the EU's handling of sanctions, suggesting that it mirrors
+      historical injustices, and highlights the lack of legal recourse for those affected.
+      The situation raises concerns about the erosion of due process and the power dynamics
+      within the EU, particularly criticizing the non-democratic nature of its decision-making
+      bodies.
+    published: '2026-01-11T10:54:58+00:00'
+  - title: Iran Has Killed Protestors, Now What?
+    url: https://sonar21.com/iran-has-killed-protestors-now-what/
+    text: 'Reza Pahlavi Keen on Ruling Iran The title of this piece is my reaction to
+      tonight’s (Saturday) report in the NY Times that contains this blurb: The president
+      has said he will be “hitting them very hard” if Iranian leaders kill protesters
+      amid widespread demonstrations calling for wholesale changes in the country. Ok,
+      Donald Trump, the ball is in your court. According to a number of press reports,
+      Iranian security forces have killed some of the Iranians who the West describes
+      as protestors, conveniently ignoring the fact that there are Western-backed radicals
+      with firearms killing Iranian police and torching government buildings in several
+      cities in Iran. As I have written previously, I believe that Trump’s meeting with
+      Netanyahu on Monday, December 29, 2025, included a discussion of plans for a new
+      series of military attacks on Iran. It is no coincidence that the protests erupted
+      across Iran just prior to Trump’s meeting with Bibi. While a majority of Iranians
+      are unhappy over Pezeshkian’s mismanagement of the Iranian economy, this does
+      not mean they are ready to put an end to the Islamic Republic. It is important
+      to understand that many of the protestors include Kurds and Baluchis — ethnic
+      groups with longstanding ties to the CIA and Mossad — and it is highly likely
+      that they are the foot soldiers tasked with executing an intelligence operation
+      designed to portray the Islamic Republic as a weak, unpopular authoritarian regime
+      that can be easily toppled… The ultimate goal is to create a pretext to launch
+      a new wave of military strikes on Iran. Let me remind you of what Haaretz reported
+      in October 2025… The Israeli newspaper published an investigative article titled
+      “ The Israeli Influence Operation Aiming to Install Reza Pahlavi as Shah of Iran
+      ,” which details a joint investigation with TheMarker and references findings
+      from Citizen Lab at the University of Toronto. The report describes a Persian-language
+      online campaign involving dozens of fake accounts (often referred to as “avatars”),
+      AI-generated content, deepfake videos, and coordinated activity on platforms like
+      X (formerly Twitter) and Instagram. These efforts promoted Reza Pahlavi (Iran’s
+      exiled crown prince) and advocated for restoring the monarchy, with indirect funding
+      linked to Israeli sources (via a private contractor receiving state support).
+      Do you recall what Haaretz reported in October 2025? The Israeli newspaper published
+      an investigative article titled “The Israeli Influence Operation Aiming to Install
+      Reza Pahlavi as Shah of Iran,” which details a joint investigation with TheMarker
+      and references findings from Citizen Lab at the University of Toronto. The report
+      describes a Persian-language online campaign involving dozens of fake accounts
+      (often referred to as “avatars”), AI-generated content, deepfake videos, and coordinated
+      activity on platforms like X (formerly Twitter) and Instagram. These efforts promoted
+      Reza Pahlavi (Iran’s exiled crown prince) and advocated for restoring the monarchy,
+      with indirect funding linked to Israeli sources (via a private contractor receiving
+      state support). What we have been seeing in Iran over the past 13 days is the
+      continuation of the Israeli/US covert operation to create a pretext to attack
+      Iran and force a change in the government of Iran. Which brings me back to the
+      NY Times report I mentioned at the beginning of this article: President Trump
+      has been briefed in recent days on new options for military strikes in Iran as
+      he considers following through on his threat to attack the country for cracking
+      down on protesters, according to multiple U.S. officials familiar with the matter.
+      Mr. Trump has not made a final decision, but the officials said he was seriously
+      considering authorizing a strike in response to the Iranian regime’s efforts to
+      suppress demonstrations set off by widespread economic grievances. The president
+      has been presented with a range of options, including strikes on nonmilitary sites
+      in Tehran, the people said, speaking on the condition of anonymity to discuss
+      confidential conversations. Iran ain’t Venezuela. Trump is still celebrating the
+      kidnapping of Maduro as a great American military victory, and may have convinced
+      himself that he can achieve a new success in Iran just by flexing US military
+      muscle. Unlike the surprise attack on Iran in June, when Israel tried and failed
+      to decapitate the Iranian political and military leadership, Iran has spent the
+      last six months preparing for a rematch by upping production of its array of ballistic
+      missiles and solidifying military and intelligence cooperation with Russia and
+      China. Immediately prior to the Israeli attack on June 13, Iran was lulled into
+      a false sense of security by Trump pretending to be negotiating in good faith.
+      Israel and the US cannot use that ploy again… The bellicose threats emanating
+      from Tel Aviv and Washington, coupled with the Color Revolution gambit since December
+      29, has put Iran on notice that war, not peace, is on the horizon. I believe that
+      any attack — whether by Israel or the US — will provoke immediate, comprehensive
+      retaliation by Iran, which will include strikes on key military and government
+      sites in Israel, missile strikes on US bases in Qatar and Bahrain and a likely
+      closure of the Strait of Hormuz. In sharp contrast to the 12-day war, neither
+      Russia nor China will be passive observers. The US assistance to Ukraine in trying
+      to assassinate Putin,  the US kidnapping of Maduro shortly after the Venezuelan
+      leader’s meeting with a senior Chinese diplomat, the acts of US piracy on Russian
+      ships and the open declarations of several members of Trump’s senior officials
+      dismissing international law as invalid have convinced both Putin and Xi that
+      a diplomatic path forward with Trump is a dead end. I had an interesting discussion
+      on Friday with Glenn Diesen about Russia’s latest use of the Oreshnik missile:
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article discusses the escalating protests in Iran, the
+      violent response from Iranian security forces, and speculates on potential military
+      actions by the U.S. following discussions between Donald Trump and Israeli Prime
+      Minister Netanyahu.
+    paragraph_summary: The article discusses the current unrest in Iran, highlighting
+      the violent crackdown by Iranian security forces on protesters amidst widespread
+      demonstrations for change. It suggests that these protests may be influenced by
+      Western-backed radicals and are strategically timed with U.S. political maneuvers,
+      particularly a meeting between Donald Trump and Israeli Prime Minister Netanyahu.
+      The author expresses skepticism about the protesters' intentions, noting that
+      many belong to ethnic groups with historical ties to Western intelligence agencies,
+      implying that their actions could be part of a larger plan to destabilize the
+      Iranian regime. Additionally, it references an investigative report from Haaretz
+      about an Israeli influence operation aimed at reinstating Reza Pahlavi as the
+      Shah of Iran, suggesting that the unrest may serve as a pretext for military action
+      against Iran.
+    published: '2026-01-11T05:00:44+00:00'
+  - title: Iran Has Killed Protestors, Now What?
+    url: https://sonar21.com/iran-has-killed-protestors-now-what/
+    text: 'Reza Pahlavi Keen on Ruling Iran The title of this piece is my reaction to
+      tonight’s (Saturday) report in the NY Times that contains this blurb: The president
+      has said he will be “hitting them very hard” if Iranian leaders kill protesters
+      amid widespread demonstrations calling for wholesale changes in the country. Ok,
+      Donald Trump, the ball is in your court. According to a number of press reports,
+      Iranian security forces have killed some of the Iranians who the West describes
+      as protestors, conveniently ignoring the fact that there are Western-backed radicals
+      with firearms killing Iranian police and torching government buildings in several
+      cities in Iran. As I have written previously, I believe that Trump’s meeting with
+      Netanyahu on Monday, December 29, 2025, included a discussion of plans for a new
+      series of military attacks on Iran. It is no coincidence that the protests erupted
+      across Iran just prior to Trump’s meeting with Bibi. While a majority of Iranians
+      are unhappy over Pezeshkian’s mismanagement of the Iranian economy, this does
+      not mean they are ready to put an end to the Islamic Republic. It is important
+      to understand that many of the protestors include Kurds and Baluchis — ethnic
+      groups with longstanding ties to the CIA and Mossad — and it is highly likely
+      that they are the foot soldiers tasked with executing an intelligence operation
+      designed to portray the Islamic Republic as a weak, unpopular authoritarian regime
+      that can be easily toppled… The ultimate goal is to create a pretext to launch
+      a new wave of military strikes on Iran. Let me remind you of what Haaretz reported
+      in October 2025… The Israeli newspaper published an investigative article titled
+      “ The Israeli Influence Operation Aiming to Install Reza Pahlavi as Shah of Iran
+      ,” which details a joint investigation with TheMarker and references findings
+      from Citizen Lab at the University of Toronto. The report describes a Persian-language
+      online campaign involving dozens of fake accounts (often referred to as “avatars”),
+      AI-generated content, deepfake videos, and coordinated activity on platforms like
+      X (formerly Twitter) and Instagram. These efforts promoted Reza Pahlavi (Iran’s
+      exiled crown prince) and advocated for restoring the monarchy, with indirect funding
+      linked to Israeli sources (via a private contractor receiving state support).
+      Do you recall what Haaretz reported in October 2025? The Israeli newspaper published
+      an investigative article titled “The Israeli Influence Operation Aiming to Install
+      Reza Pahlavi as Shah of Iran,” which details a joint investigation with TheMarker
+      and references findings from Citizen Lab at the University of Toronto. The report
+      describes a Persian-language online campaign involving dozens of fake accounts
+      (often referred to as “avatars”), AI-generated content, deepfake videos, and coordinated
+      activity on platforms like X (formerly Twitter) and Instagram. These efforts promoted
+      Reza Pahlavi (Iran’s exiled crown prince) and advocated for restoring the monarchy,
+      with indirect funding linked to Israeli sources (via a private contractor receiving
+      state support). What we have been seeing in Iran over the past 13 days is the
+      continuation of the Israeli/US covert operation to create a pretext to attack
+      Iran and force a change in the government of Iran. Which brings me back to the
+      NY Times report I mentioned at the beginning of this article: President Trump
+      has been briefed in recent days on new options for military strikes in Iran as
+      he considers following through on his threat to attack the country for cracking
+      down on protesters, according to multiple U.S. officials familiar with the matter.
+      Mr. Trump has not made a final decision, but the officials said he was seriously
+      considering authorizing a strike in response to the Iranian regime’s efforts to
+      suppress demonstrations set off by widespread economic grievances. The president
+      has been presented with a range of options, including strikes on nonmilitary sites
+      in Tehran, the people said, speaking on the condition of anonymity to discuss
+      confidential conversations. Iran ain’t Venezuela. Trump is still celebrating the
+      kidnapping of Maduro as a great American military victory, and may have convinced
+      himself that he can achieve a new success in Iran just by flexing US military
+      muscle. Unlike the surprise attack on Iran in June, when Israel tried and failed
+      to decapitate the Iranian political and military leadership, Iran has spent the
+      last six months preparing for a rematch by upping production of its array of ballistic
+      missiles and solidifying military and intelligence cooperation with Russia and
+      China. Immediately prior to the Israeli attack on June 13, Iran was lulled into
+      a false sense of security by Trump pretending to be negotiating in good faith.
+      Israel and the US cannot use that ploy again… The bellicose threats emanating
+      from Tel Aviv and Washington, coupled with the Color Revolution gambit since December
+      29, has put Iran on notice that war, not peace, is on the horizon. I believe that
+      any attack — whether by Israel or the US — will provoke immediate, comprehensive
+      retaliation by Iran, which will include strikes on key military and government
+      sites in Israel, missile strikes on US bases in Qatar and Bahrain and a likely
+      closure of the Strait of Hormuz. In sharp contrast to the 12-day war, neither
+      Russia nor China will be passive observers. The US assistance to Ukraine in trying
+      to assassinate Putin,  the US kidnapping of Maduro shortly after the Venezuelan
+      leader’s meeting with a senior Chinese diplomat, the acts of US piracy on Russian
+      ships and the open declarations of several members of Trump’s senior officials
+      dismissing international law as invalid have convinced both Putin and Xi that
+      a diplomatic path forward with Trump is a dead end. I had an interesting discussion
+      on Friday with Glenn Diesen about Russia’s latest use of the Oreshnik missile:
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article discusses the escalating protests in Iran, the
+      violent response from Iranian security forces, and speculates on potential military
+      actions by the U.S. following discussions between Donald Trump and Israeli Prime
+      Minister Netanyahu.
+    paragraph_summary: The article discusses the current unrest in Iran, highlighting
+      the violent crackdown by Iranian security forces on protesters amidst widespread
+      demonstrations for change. It suggests that these protests may be influenced by
+      Western-backed radicals and are strategically timed with U.S. political maneuvers,
+      particularly a meeting between Donald Trump and Israeli Prime Minister Netanyahu.
+      The author expresses skepticism about the protesters' intentions, noting that
+      many belong to ethnic groups with historical ties to Western intelligence agencies,
+      implying that their actions could be part of a larger plan to destabilize the
+      Iranian regime. Additionally, it references an investigative report from Haaretz
+      about an Israeli influence operation aimed at reinstating Reza Pahlavi as the
+      Shah of Iran, suggesting that the unrest may serve as a pretext for military action
+      against Iran.
+    published: '2026-01-11T05:00:44+00:00'
+  - title: When it Comes to Venezuelan Oil, Trump is Drilling a Dry Hole
+    url: https://sonar21.com/when-it-comes-to-venezuelan-oil-trump-is-drilling-a-dry-hole/
+    text: 'I was wrong. I believed that controlling Venezuelan oil was the primary objective
+      behind Donald Trump’s decision to order the kidnapping of Venezuelan President
+      Nicholas Maduro. After reviewing the actual numbers it is clear that the belief
+      that Venezuelan oil would provide a buffer if the Persian Gulf is closed as a
+      consequence of an Israeli/US attack on Iran is sheer nonsense. My apologies for
+      entertaining that hypothesis before looking at the actual numbers. The following
+      graphic illustrates the reality: If Iran closes the Strait of Hormuz that would
+      be devastating for the world oil market… 72% of OPEC members production comes
+      from the Persian Gulf. Venezuela, who is an OPEC member, only produces 700,000
+      barrels of oil per day, which represents only 2% of OPEC’s total production per
+      day. Now let’s examine Trump’s nonsensical claim that the US, by seizing Venezuelan
+      oil, will reap a bonanza and reduce the price of oil. In a Truth Social post (reported
+      January 7, 2026), Trump announced: “Interim Authorities in Venezuela will be turning
+      over between 30 and 50 MILLION Barrels of High Quality, Sanctioned Oil, to the
+      United States of America.” He added that the oil would be sold at market price,
+      with proceeds controlled by him “to ensure it is used to benefit the people of
+      Venezuela and the United States.” During a White House meeting with oil executives
+      on January 9, 2026, Trump reiterated that the U.S. would “immediately begin refining
+      and selling up to 50 million barrels of Venezuelan crude oil, which will continue
+      indefinitely.” He described this as part of a broader plan where U.S. companies
+      would invest at least $100 billion to rebuild Venezuela’s energy infrastructure,
+      potentially boosting long-term production and lowering U.S. energy prices (e.g.,
+      aiming for $50 per barrel). Here are the facts: At Venezuela’s current production
+      rate of approximately 700,000 to 1 million barrels per day (bpd), delivering 50
+      million barrels of oil to the U.S. would take 71.4 days if assuming all daily
+      production were dedicated to this delivery. Now let’s calculate the total production
+      of barrels of oil per day by all of OPEC and non-OPEX countries during that same
+      71.4 days… the world would produce about 7.17 billion barrels of crude oil, of
+      which Venezuela would contribute roughly 49.7 million barrels, or 0.693% of the
+      global total. Talk about delusional! Does Trump and his advisers really believe
+      that a country that produces a little more that one-half of one percent of global
+      oil production is going to move the price? Ain’t going to happen. What about Trump’s
+      promise to invest $100 million to rebuild Venezuela’s oil infrastructure. Here’s
+      an analysis of that scenario by the firm, Goehring and Rozencwajg : When Hugo
+      Chávez came to prominence in the early 2000s, Venezuela moved to nationalize its
+      oil assets, prompting most Western producers to withdraw. The national oil company,
+      PDVSA, then experienced a debilitating strike in 2002–2003, which sharply curtailed
+      production. After the strike ended, output staged a temporary recovery, reaching
+      approximately 3.3 million barrels per day by 2006. That year marked another turning
+      point: contracts were rewritten or voided, capital spending collapsed, and skilled
+      labor began to leave the country. By 2015, production had slipped to 2.8 million
+      barrels per day, before entering a far steeper decline. According to the most
+      recent IEA data, Venezuelan production now stands near 800,000 barrels per day—nearly
+      an eighty percent drop from levels seen in 2000. In light of recent events, many
+      investors have begun to ask how quickly Venezuelan production might rebound once
+      more. We regard this line of thinking as premature. Much of the infrastructure
+      installed during the late 1990s and early 2000s has since been dismantled or stripped
+      for scrap as the country descended into severe poverty. During the PDVSA strike
+      two decades ago, the disruption was brief and occurred while the broader economic
+      fabric remained somewhat intact. As a result, infrastructure survived largely
+      untouched, allowing production to recover. Today’s circumstances bear little resemblance
+      to that earlier episode. Restarting Venezuelan heavy-oil production would require
+      capital investment on an extraordinary scale. As one illustrative example, an
+      older industry document indicates that supermajors spent approximately $23 billion
+      in 2010 to bring 600,000 barrels per day of heavy-oil capacity online—roughly
+      $40,000 per flowing barrel. More recent rules of thumb for Canadian heavy oil
+      suggest figures closer to $100,000 per flowing barrel, implying that adding one
+      million barrels per day could require on the order of $100 billion once the cost
+      of an upgrader—an essential component of heavy-oil production—is included. For
+      a guy who has built his reputation on being a shrewd businessman, Donald Trump
+      is demonstrating he is ignorant when it comes to oil and the oil market. Here
+      is today’s Intelligence Roundtable with Judge Nap, Ray Mcgovern and me. This is
+      followed by a chat late last week with my friend, the Polish professor, Mike Krupa:
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The author acknowledges their previous belief that controlling
+      Venezuelan oil was a key motive behind Trump's actions against Maduro, but after
+      reviewing production statistics, they conclude that this notion is unfounded,
+      as Venezuela's oil output is minimal compared to OPEC's total production.
+    paragraph_summary: The article critiques the belief that controlling Venezuelan
+      oil was a primary motive behind Donald Trump's decision to order the kidnapping
+      of Venezuelan President Nicolás Maduro, arguing that this notion is unfounded
+      when considering the actual oil production numbers. It highlights that Venezuela's
+      oil production, at approximately 700,000 barrels per day, constitutes only 2%
+      of OPEC's total output, making it an insufficient buffer for potential disruptions
+      in the Persian Gulf. Trump's claims about seizing Venezuelan oil to reduce prices
+      and benefit both the U.S. and Venezuela are scrutinized, particularly his assertion
+      that the U.S. could quickly refine and sell up to 50 million barrels of Venezuelan
+      crude. The article concludes that, given Venezuela's production rate, it would
+      take over 71 days to deliver that amount of oil, undermining the feasibility of
+      Trump's plans.
+    published: '2026-01-10T04:14:48+00:00'
+  - title: When it Comes to Venezuelan Oil, Trump is Drilling a Dry Hole
+    url: https://sonar21.com/when-it-comes-to-venezuelan-oil-trump-is-drilling-a-dry-hole/
+    text: 'I was wrong. I believed that controlling Venezuelan oil was the primary objective
+      behind Donald Trump’s decision to order the kidnapping of Venezuelan President
+      Nicholas Maduro. After reviewing the actual numbers it is clear that the belief
+      that Venezuelan oil would provide a buffer if the Persian Gulf is closed as a
+      consequence of an Israeli/US attack on Iran is sheer nonsense. My apologies for
+      entertaining that hypothesis before looking at the actual numbers. The following
+      graphic illustrates the reality: If Iran closes the Strait of Hormuz that would
+      be devastating for the world oil market… 72% of OPEC members production comes
+      from the Persian Gulf. Venezuela, who is an OPEC member, only produces 700,000
+      barrels of oil per day, which represents only 2% of OPEC’s total production per
+      day. Now let’s examine Trump’s nonsensical claim that the US, by seizing Venezuelan
+      oil, will reap a bonanza and reduce the price of oil. In a Truth Social post (reported
+      January 7, 2026), Trump announced: “Interim Authorities in Venezuela will be turning
+      over between 30 and 50 MILLION Barrels of High Quality, Sanctioned Oil, to the
+      United States of America.” He added that the oil would be sold at market price,
+      with proceeds controlled by him “to ensure it is used to benefit the people of
+      Venezuela and the United States.” During a White House meeting with oil executives
+      on January 9, 2026, Trump reiterated that the U.S. would “immediately begin refining
+      and selling up to 50 million barrels of Venezuelan crude oil, which will continue
+      indefinitely.” He described this as part of a broader plan where U.S. companies
+      would invest at least $100 billion to rebuild Venezuela’s energy infrastructure,
+      potentially boosting long-term production and lowering U.S. energy prices (e.g.,
+      aiming for $50 per barrel). Here are the facts: At Venezuela’s current production
+      rate of approximately 700,000 to 1 million barrels per day (bpd), delivering 50
+      million barrels of oil to the U.S. would take 71.4 days if assuming all daily
+      production were dedicated to this delivery. Now let’s calculate the total production
+      of barrels of oil per day by all of OPEC and non-OPEX countries during that same
+      71.4 days… the world would produce about 7.17 billion barrels of crude oil, of
+      which Venezuela would contribute roughly 49.7 million barrels, or 0.693% of the
+      global total. Talk about delusional! Does Trump and his advisers really believe
+      that a country that produces a little more that one-half of one percent of global
+      oil production is going to move the price? Ain’t going to happen. What about Trump’s
+      promise to invest $100 million to rebuild Venezuela’s oil infrastructure. Here’s
+      an analysis of that scenario by the firm, Goehring and Rozencwajg : When Hugo
+      Chávez came to prominence in the early 2000s, Venezuela moved to nationalize its
+      oil assets, prompting most Western producers to withdraw. The national oil company,
+      PDVSA, then experienced a debilitating strike in 2002–2003, which sharply curtailed
+      production. After the strike ended, output staged a temporary recovery, reaching
+      approximately 3.3 million barrels per day by 2006. That year marked another turning
+      point: contracts were rewritten or voided, capital spending collapsed, and skilled
+      labor began to leave the country. By 2015, production had slipped to 2.8 million
+      barrels per day, before entering a far steeper decline. According to the most
+      recent IEA data, Venezuelan production now stands near 800,000 barrels per day—nearly
+      an eighty percent drop from levels seen in 2000. In light of recent events, many
+      investors have begun to ask how quickly Venezuelan production might rebound once
+      more. We regard this line of thinking as premature. Much of the infrastructure
+      installed during the late 1990s and early 2000s has since been dismantled or stripped
+      for scrap as the country descended into severe poverty. During the PDVSA strike
+      two decades ago, the disruption was brief and occurred while the broader economic
+      fabric remained somewhat intact. As a result, infrastructure survived largely
+      untouched, allowing production to recover. Today’s circumstances bear little resemblance
+      to that earlier episode. Restarting Venezuelan heavy-oil production would require
+      capital investment on an extraordinary scale. As one illustrative example, an
+      older industry document indicates that supermajors spent approximately $23 billion
+      in 2010 to bring 600,000 barrels per day of heavy-oil capacity online—roughly
+      $40,000 per flowing barrel. More recent rules of thumb for Canadian heavy oil
+      suggest figures closer to $100,000 per flowing barrel, implying that adding one
+      million barrels per day could require on the order of $100 billion once the cost
+      of an upgrader—an essential component of heavy-oil production—is included. For
+      a guy who has built his reputation on being a shrewd businessman, Donald Trump
+      is demonstrating he is ignorant when it comes to oil and the oil market. Here
+      is today’s Intelligence Roundtable with Judge Nap, Ray Mcgovern and me. This is
+      followed by a chat late last week with my friend, the Polish professor, Mike Krupa:
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The author acknowledges their previous belief that controlling
+      Venezuelan oil was a key motive behind Trump's actions against Maduro, but after
+      reviewing production statistics, they conclude that this notion is unfounded,
+      as Venezuela's oil output is minimal compared to OPEC's total production.
+    paragraph_summary: The article critiques the belief that controlling Venezuelan
+      oil was a primary motive behind Donald Trump's decision to order the kidnapping
+      of Venezuelan President Nicolás Maduro, arguing that this notion is unfounded
+      when considering the actual oil production numbers. It highlights that Venezuela's
+      oil production, at approximately 700,000 barrels per day, constitutes only 2%
+      of OPEC's total output, making it an insufficient buffer for potential disruptions
+      in the Persian Gulf. Trump's claims about seizing Venezuelan oil to reduce prices
+      and benefit both the U.S. and Venezuela are scrutinized, particularly his assertion
+      that the U.S. could quickly refine and sell up to 50 million barrels of Venezuelan
+      crude. The article concludes that, given Venezuela's production rate, it would
+      take over 71 days to deliver that amount of oil, undermining the feasibility of
+      Trump's plans.
+    published: '2026-01-10T04:14:48+00:00'
+  - title: Russia Goes Oreshnik Again
+    url: https://sonar21.com/russia-goes-oreshnik-again/
+    text: 'I don’t know if this is Russia’s promised retaliation for the failed 91-drone
+      attack on December 28, 2025, but the Oreshnik was unleashed for the first time
+      since its debut in 2024, and with devastating effect. Preliminary reports state
+      that the Oreshnik hit the Bilche-Volitsko-Uhersky underground gas storage facility,
+      which has a storage capacity of 17.05 billion cubic meters, which is more than
+      50% of the total capacity of all storage facilities in Ukraine. Lvov deputy Igor
+      Zinkevich reported that in the Lvov region, the stoves in the kitchen are barely
+      burning, the boilers have gone out and won’t light up – there’s no gas pressure.
+      Here is just one video showing the unique lightning bolt strike first seen in
+      2024 when Russia hit the  Pivdenmash/Yuzhmash missile plant (also known historically
+      as Plant 586) in the Ukrainian city of Dnipro in November 2024: Power substations
+      in Dnipropetrovsk and Zaporizhia also were hit on the night of the 8th. Both cities
+      are now completely disconnected from the power supply. And let’s not forget Kiev:
+      Large-scale missile-drone strikes on the energy infrastructure in Kiev have taken
+      place, resulting in damage to 3 x Power Plants: TPP-4, TPP-5, and TPP-6. Acc to
+      local monitoring channels, up to 12 Ballistic Missiles, 25 x Caliber Cruise Missilies
+      and around 200 x Drones took part in the attacks After a wave of missile attacks,
+      Kyiv is experiencing serious problems with electricity, water supply, and heating.
+      There are communication outages. Problems on the railway have also begun, but
+      they were already observed yesterday, they have just worsened now. Back in Moscow,
+      earlier in the day, the Russian Foreign Ministry issued a scorching statement
+      about the US assault on the Russian-flaged ship, Marinera . It is comprehensive
+      and minces no words in decrying what constitutes an act of war against Russia
+      : The Russian Foreign Ministry expresses serious concern over the illegal military
+      action carried out by the US armed forces against the oil tanker Mariner on January
+      7. The ship “Marinera”, which received a temporary permit to sail under the Russian
+      flag in accordance with international law and Russian legislation on December
+      24, was making a peaceful passage in the international waters of the North Atlantic,
+      heading towards one of the Russian ports. The American authorities have repeatedly
+      received reliable information about the Russian ownership of the ship and its
+      civilian, peaceful status, including at the official level through the Russian
+      Ministry of Foreign Affairs. There could be no doubt about this, and there was
+      no reason to speculate about the tanker’s alleged “flagless” or “false flag” sailing.
+      International maritime law clearly provides for the exclusive jurisdiction of
+      the flag state over vessels on the high seas. The stoppage and inspection of a
+      vessel on the high seas is only possible under a closed list of grounds, such
+      as piracy or the slave trade, which are clearly not applicable to the Mariner. In
+      all other cases, such actions are only permitted with the consent of the flag
+      state, in this case, Russia. Meanwhile, Russia not only did not give such consent,
+      but, on the contrary, expressed an official protest to the American authorities
+      regarding the pursuit of the Mariner by the U.S. Coast Guard over the previous
+      few weeks, demanding an immediate end to the pursuit and the withdrawal of the
+      unlawful demands made to the captain of the Russian vessel. Under these circumstances,
+      the landing of American troops on a civilian ship on the high seas and its actual
+      seizure, as well as the capture of the crew, cannot be interpreted as anything
+      other than a gross violation of the fundamental principles and norms of international
+      maritime law, as well as the freedom of navigation. This constitutes a significant
+      infringement of the shipowner’s legitimate rights and interests. The lives and
+      health of the crew members of the Mariner, who are citizens of several countries,
+      are now at risk. We categorically reject the threats of legal prosecution issued
+      by the American authorities under absurd pretexts. By carrying out an unsafe pursuit
+      and then an armed seizure of an oil tanker in difficult weather conditions, the
+      U.S. military apparently disregarded the risk of causing significant damage to
+      the environmental safety of the North Atlantic. We consider the American side’s
+      references to its national “sanctions legislation” to be invalid. The unilateral
+      restrictive measures imposed by the United States, as well as by other Western
+      countries, are illegitimate and cannot serve as a justification for attempts to
+      establish jurisdiction or, even more so, to seize ships on the high seas. It is
+      particularly cynical for some U.S. officials to suggest that the seizure of the
+      Mariner is part of a broader strategy to establish Washington’s unrestricted control
+      over Venezuela’s natural resources. We strongly reject such neo-colonial tendencies.
+      Along with the U.S. administration’s disregard for the generally accepted “rules
+      of the game” in the field of international maritime navigation, Washington’s willingness
+      to generate acute international crises, including in relation to the already heavily
+      strained Russian-American relations of recent years, is a cause for concern and
+      regret. The incident involving the Mariner may only lead to further escalation
+      of military and political tensions in the Euro-Atlantic region, as well as a significant
+      decrease in the “threshold for the use of force” against peaceful navigation. Inspired
+      by Washington’s dangerous and irresponsible example, some other countries and
+      organizations may also consider it appropriate to use similar methods. The authorities
+      of the United Kingdom, which has a long history of maritime piracy, are particularly
+      predatory in their intentions. London has already reported its participation in
+      the US military action in the North Atlantic. We call on Washington to return
+      to compliance with the fundamental norms and principles of international maritime
+      navigation and immediately stop its illegal actions against the Marinera and other
+      vessels carrying out legitimate activities on the high seas. We reiterate our
+      demand that the American side ensure humane and dignified treatment of the Russian
+      citizens on board the tanker, strictly respect their rights and interests, and
+      not impede their return to their homeland as soon as possible. By the way, the
+      crew of the Marinera consists of two Russians, eight Georgians and 20 Ukrainians.
+      US Attorney General Pam Bondi added fuel to this potential conflagration when
+      she announced on Thursday that the crew members were “under full investigation”
+      for failing to obey U.S. Coast Guard orders and that “criminal charges will be
+      pursued against all culpable actors.” I don’t know who told Trump that seizing
+      a Russian-flagged ship was a good idea, but the action is not just pointless and
+      stupid… It is dangerous. If you’re sitting in Moscow and reflecting on the actions
+      of the United States since December 28 — i.e., the failed drone attack on Putin’s
+      residence, the illegal abduction of Venezuelan President Maduro, Trump’s threats
+      to attack Colombia and Greenland, and yesterday’s piracy of a Russian ship — you
+      are likely to conclude that Trump is not serious about normalizing relations with
+      Russia and that he is looking for a confrontation. It is foolish to poke a cranky
+      bear because you are only going to further provoke the animal and incite him to
+      eat you. Garland Nixon and I discussed the latest developments in Venezuela and
+      Ukraine: I thank you for your invaluable support by taking time to read or comment.
+      I do not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: Russia has reportedly deployed the Oreshnik weapon for the
+      first time, targeting the Bilche-Volitsko-Uhersky underground gas storage facility
+      in Ukraine, leading to significant gas shortages in the Lvov region and power
+      outages in Dnipropetrovsk and Zaporizhia.
+    paragraph_summary: On December 8, 2025, Russia launched a significant retaliatory
+      strike using the Oreshnik drone, targeting the Bilche-Volitsko-Uhersky underground
+      gas storage facility, which holds over 50% of Ukraine's gas storage capacity.
+      Reports indicate that this attack has severely impacted gas supply in the Lvov
+      region, leaving residents without heating. Additionally, missile and drone strikes
+      hit power substations in Dnipropetrovsk and Zaporizhia, cutting off electricity
+      in both cities, while Kyiv faced extensive damage to its energy infrastructure,
+      affecting multiple power plants and leading to widespread outages in electricity,
+      water supply, and heating. Concurrently, the Russian Foreign Ministry condemned
+      a US military action against a Russian-flagged ship, labeling it an act of war.
+    published: '2026-01-09T04:38:18+00:00'
+  - title: Russia Goes Oreshnik Again
+    url: https://sonar21.com/russia-goes-oreshnik-again/
+    text: 'I don’t know if this is Russia’s promised retaliation for the failed 91-drone
+      attack on December 28, 2025, but the Oreshnik was unleashed for the first time
+      since its debut in 2024, and with devastating effect. Preliminary reports state
+      that the Oreshnik hit the Bilche-Volitsko-Uhersky underground gas storage facility,
+      which has a storage capacity of 17.05 billion cubic meters, which is more than
+      50% of the total capacity of all storage facilities in Ukraine. Lvov deputy Igor
+      Zinkevich reported that in the Lvov region, the stoves in the kitchen are barely
+      burning, the boilers have gone out and won’t light up – there’s no gas pressure.
+      Here is just one video showing the unique lightning bolt strike first seen in
+      2024 when Russia hit the  Pivdenmash/Yuzhmash missile plant (also known historically
+      as Plant 586) in the Ukrainian city of Dnipro in November 2024: Power substations
+      in Dnipropetrovsk and Zaporizhia also were hit on the night of the 8th. Both cities
+      are now completely disconnected from the power supply. And let’s not forget Kiev:
+      Large-scale missile-drone strikes on the energy infrastructure in Kiev have taken
+      place, resulting in damage to 3 x Power Plants: TPP-4, TPP-5, and TPP-6. Acc to
+      local monitoring channels, up to 12 Ballistic Missiles, 25 x Caliber Cruise Missilies
+      and around 200 x Drones took part in the attacks After a wave of missile attacks,
+      Kyiv is experiencing serious problems with electricity, water supply, and heating.
+      There are communication outages. Problems on the railway have also begun, but
+      they were already observed yesterday, they have just worsened now. Back in Moscow,
+      earlier in the day, the Russian Foreign Ministry issued a scorching statement
+      about the US assault on the Russian-flaged ship, Marinera . It is comprehensive
+      and minces no words in decrying what constitutes an act of war against Russia
+      : The Russian Foreign Ministry expresses serious concern over the illegal military
+      action carried out by the US armed forces against the oil tanker Mariner on January
+      7. The ship “Marinera”, which received a temporary permit to sail under the Russian
+      flag in accordance with international law and Russian legislation on December
+      24, was making a peaceful passage in the international waters of the North Atlantic,
+      heading towards one of the Russian ports. The American authorities have repeatedly
+      received reliable information about the Russian ownership of the ship and its
+      civilian, peaceful status, including at the official level through the Russian
+      Ministry of Foreign Affairs. There could be no doubt about this, and there was
+      no reason to speculate about the tanker’s alleged “flagless” or “false flag” sailing.
+      International maritime law clearly provides for the exclusive jurisdiction of
+      the flag state over vessels on the high seas. The stoppage and inspection of a
+      vessel on the high seas is only possible under a closed list of grounds, such
+      as piracy or the slave trade, which are clearly not applicable to the Mariner. In
+      all other cases, such actions are only permitted with the consent of the flag
+      state, in this case, Russia. Meanwhile, Russia not only did not give such consent,
+      but, on the contrary, expressed an official protest to the American authorities
+      regarding the pursuit of the Mariner by the U.S. Coast Guard over the previous
+      few weeks, demanding an immediate end to the pursuit and the withdrawal of the
+      unlawful demands made to the captain of the Russian vessel. Under these circumstances,
+      the landing of American troops on a civilian ship on the high seas and its actual
+      seizure, as well as the capture of the crew, cannot be interpreted as anything
+      other than a gross violation of the fundamental principles and norms of international
+      maritime law, as well as the freedom of navigation. This constitutes a significant
+      infringement of the shipowner’s legitimate rights and interests. The lives and
+      health of the crew members of the Mariner, who are citizens of several countries,
+      are now at risk. We categorically reject the threats of legal prosecution issued
+      by the American authorities under absurd pretexts. By carrying out an unsafe pursuit
+      and then an armed seizure of an oil tanker in difficult weather conditions, the
+      U.S. military apparently disregarded the risk of causing significant damage to
+      the environmental safety of the North Atlantic. We consider the American side’s
+      references to its national “sanctions legislation” to be invalid. The unilateral
+      restrictive measures imposed by the United States, as well as by other Western
+      countries, are illegitimate and cannot serve as a justification for attempts to
+      establish jurisdiction or, even more so, to seize ships on the high seas. It is
+      particularly cynical for some U.S. officials to suggest that the seizure of the
+      Mariner is part of a broader strategy to establish Washington’s unrestricted control
+      over Venezuela’s natural resources. We strongly reject such neo-colonial tendencies.
+      Along with the U.S. administration’s disregard for the generally accepted “rules
+      of the game” in the field of international maritime navigation, Washington’s willingness
+      to generate acute international crises, including in relation to the already heavily
+      strained Russian-American relations of recent years, is a cause for concern and
+      regret. The incident involving the Mariner may only lead to further escalation
+      of military and political tensions in the Euro-Atlantic region, as well as a significant
+      decrease in the “threshold for the use of force” against peaceful navigation. Inspired
+      by Washington’s dangerous and irresponsible example, some other countries and
+      organizations may also consider it appropriate to use similar methods. The authorities
+      of the United Kingdom, which has a long history of maritime piracy, are particularly
+      predatory in their intentions. London has already reported its participation in
+      the US military action in the North Atlantic. We call on Washington to return
+      to compliance with the fundamental norms and principles of international maritime
+      navigation and immediately stop its illegal actions against the Marinera and other
+      vessels carrying out legitimate activities on the high seas. We reiterate our
+      demand that the American side ensure humane and dignified treatment of the Russian
+      citizens on board the tanker, strictly respect their rights and interests, and
+      not impede their return to their homeland as soon as possible. By the way, the
+      crew of the Marinera consists of two Russians, eight Georgians and 20 Ukrainians.
+      US Attorney General Pam Bondi added fuel to this potential conflagration when
+      she announced on Thursday that the crew members were “under full investigation”
+      for failing to obey U.S. Coast Guard orders and that “criminal charges will be
+      pursued against all culpable actors.” I don’t know who told Trump that seizing
+      a Russian-flagged ship was a good idea, but the action is not just pointless and
+      stupid… It is dangerous. If you’re sitting in Moscow and reflecting on the actions
+      of the United States since December 28 — i.e., the failed drone attack on Putin’s
+      residence, the illegal abduction of Venezuelan President Maduro, Trump’s threats
+      to attack Colombia and Greenland, and yesterday’s piracy of a Russian ship — you
+      are likely to conclude that Trump is not serious about normalizing relations with
+      Russia and that he is looking for a confrontation. It is foolish to poke a cranky
+      bear because you are only going to further provoke the animal and incite him to
+      eat you. Garland Nixon and I discussed the latest developments in Venezuela and
+      Ukraine: I thank you for your invaluable support by taking time to read or comment.
+      I do not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: Russia has reportedly deployed the Oreshnik weapon for the
+      first time, targeting the Bilche-Volitsko-Uhersky underground gas storage facility
+      in Ukraine, leading to significant gas shortages in the Lvov region and power
+      outages in Dnipropetrovsk and Zaporizhia.
+    paragraph_summary: On December 8, 2025, Russia launched a significant retaliatory
+      strike using the Oreshnik drone, targeting the Bilche-Volitsko-Uhersky underground
+      gas storage facility, which holds over 50% of Ukraine's gas storage capacity.
+      Reports indicate that this attack has severely impacted gas supply in the Lvov
+      region, leaving residents without heating. Additionally, missile and drone strikes
+      hit power substations in Dnipropetrovsk and Zaporizhia, cutting off electricity
+      in both cities, while Kyiv faced extensive damage to its energy infrastructure,
+      affecting multiple power plants and leading to widespread outages in electricity,
+      water supply, and heating. Concurrently, the Russian Foreign Ministry condemned
+      a US military action against a Russian-flagged ship, labeling it an act of war.
+    published: '2026-01-09T04:38:18+00:00'
+  - title: Pascal Kohler – the herald of Kaja Kallas
+    url: https://sonar21.com/pascal-koller-the-herald-of-kaja-kallas/
+    text: 'In an article published in the Swiss Military Journal, Swiss officer Pascal
+      Koller slanders Jacques Baud in the most despicable manner. We prove that he is
+      lying and show that criminal charges are the only way to put this petty criminal
+      in his place. Is he being protected by the Swiss army leadership or is he acting
+      alone? By Peter Hanseler via ForumGeopolitica.com When a first lieutenant slanders
+      a colonel because he believes the latter cannot defend himself – Pascal Kohler
+      on the left – Jacques Baud on the right Kohler’s article in the Allgemeine Schweizerische
+      Militär Zeitschrift (ASMZ) On 30 December 2025, the ASMZ published an article
+      by Kohler entitled « Kognitive Zermürbung: Die Logik hinter dem Fall Baud » (‘
+      Cognitive attrition: The logic behind the Baud case’). This article is a vicious,
+      defamatory attack on the most objective military analyst in the Western hemisphere,
+      Jacques Baud. In the lead-in to the article, Kohler does not describe the sanctions
+      as ‘ a blow to the freedom of expression of an individual ’. He describes them
+      as ‘ rather a precise intervention in the logistics of modern hybrid warfare ’,
+      deliberately omitting what he believes ‘hybrid’ warfare to mean. Kohler thus insinuates
+      that the EU is waging war – nota bene against a fellow Swiss officer – and that
+      this justifies the suppression of freedom of expression. Kohler not only supports
+      the EU’s sanctioning of Baud, but also assures the EU of the Swiss army’s support
+      in this fight. It can be assumed that the Swiss army leadership is behind this
+      strategy, otherwise a subordinate would not have written such an inflammatory
+      article on the ASMZ website. However, I was unable to find any confirmation of
+      this. Kohler does not work carefully; rather, it seems that he did not even formulate
+      his specific accusations against Baud himself, but simply copied them from Wikipedia,
+      without citing the source, of course. This is plagiarism from a source that no
+      serious geopolitician would touch. On the ASMZ website, he describes his work
+      as follows: ‘He is currently Head of International Cooperation & Training in the
+      Operations Command, responsible for coordinating and implementing international
+      training and engagements.’ Pascal Kohler, ASZM Whatever this verbiage may mean,
+      Kohler is head of training, and as head of training, he must set an example. A
+      role model does not copy information from Wikipedia without citing the source
+      and sell it as his own. In addition, Kohler deliberately neglects the real sources
+      completely; those sources that contain Baud’s statements – the books by Jacques
+      Baud himself. The work of Jacques Baud Jacques Baud’s real statements on many
+      geopolitical issues are exhaustively covered in his books, which are pure analyses
+      and in which Baud relies exclusively on Western and Ukrainian sources. In none
+      of his publications has Baud ever taken sides in any of the conflicts he has analysed.
+      Jacques Baud’s statements in his books are exhaustive, as he does not use social
+      media channels. We therefore compare the statements made by Kohler with the statements
+      actually made by Jacques Baud. Preliminary remarks on the defamatory statements
+      I have carefully read all the passages on all the topics raised by Kohler in his
+      pamphlet in Jacques Baud’s books. Baud’s analyses are very accurate, detailed
+      and clearly referenced with footnotes and sources, as befits a scientific work.
+      In order to make this article manageable for readers in terms of length, I will
+      analyse Kohler’s slander regarding Butscha in detail by quoting longer passages
+      from Baud’s books. For the other topics – Skripal, Navalny, etc. – I will limit
+      myself to quoting short passages from Baud’s work, which does not mean, however,
+      that Baud has not written detailed analyses with references for all topics. Bucha
+      – 2022 Regarding Bucha, Kohler writes the following: ‘In the case of Bucha, he
+      interprets the documented massacre as having been planned by the British and carried
+      out by the Ukrainians – a thesis that contradicts German intelligence recordings
+      of Russian soldiers’ conversations about killings and satellite images of corpses
+      during the Russian occupation.’ Kohler, 30 December 2025 Jacques Baud wrote the
+      following in his book ‘Operation Z’ in 7.3.2: “[…] What exactly happened there?
+      No one knows. But some civilians were executed, while others appear to have been
+      collateral victims of the fighting. As for responsibility, Ukraine accuses the
+      Russian army, while Russia claims it was a fabrication.” Baud describes the sequence
+      of events as follows: Date Incident/Facts March 29 The Russian command decides
+      to withdraw troops west of Kyiv toward Donbas to launch phase 2 of the operation.
+      March 30 The Russians are leaving. March 31 Anatoliy Fedoruk, mayor of Bucha,
+      announces the withdrawal of Russian forces on Telegram [i] with satisfaction.
+      He makes no mention of corpses or massacres: “March 31 will be remembered in the
+      history of our community of Bucha as a day of liberation. Liberation by our Ukrainian
+      armed forces from the Russian ‘orcs’, the Russian occupiers. That is why I am
+      declaring today a day of joy. A joyful day and a great victory for the Kyiv region!
+      And we will certainly wait for there to be a great victory throughout Ukraine.”
+      [ii] March 31 April 1 The Ukrainian media company Unian confirms the withdrawal
+      of Russian forces and reports on statements made by the mayor of Bucha, without
+      mentioning the bodies or massacres in the city [iii] . Ukrainian forces are combing
+      the area in search of saboteurs and Russian collaborators (a Ukrainian video shows
+      Ukrainian paramilitaries asking to be allowed to shoot those who are not wearing
+      blue armbands). April 1 A video shows corpses on the street that have not been
+      there for three weeks, but whose positions resemble those in the satellite images
+      from March 11. Some are wearing white armbands, others have their wrists bound
+      with white cloth, others have Russian aid packages with them, and others were
+      executed in a basement. April 2 Ukrainian blogger Dimitry Komarov roams the city
+      and shows the damage left behind after the Russian troops withdrew. He makes no
+      mention of corpses or massacres [iv] . On the same day, the Ukrainian news site
+      Unian reports that special forces have “liberated the city from saboteurs and
+      collaborators with Russian troops” [v] . The SAFARI unit of the Ukrainian police
+      enters the city to carry out mine clearance and demining work in case the Russians
+      have mined the city. The video [vi] shot by the unit does not show a massacre,
+      but access to it via YouTube is restricted. April 3 Ukraine accuses Russian forces
+      of committing a massacre on the streets of Bucha. Reports of a mass grave actually
+      refer to the exhumation of a previously registered burial site in the church cemetery
+      on March 13. On April 4, the New York Times publishes a satellite photo of the
+      scene from March 11, 2022, almost three weeks before the “discovery” of the bodies
+      [i] (the date of which is later changed to March 19 for no reason). Two facts
+      are surprising: that the Russians allegedly left the bodies lying on the street
+      for three weeks, even though they had carefully buried other victims in the area
+      during that period, and that the bodies remained in exactly the same position
+      during that entire time. It is also known that the New York Times image was provided
+      by Maxar, a company that works for the US government. We also know which satellites
+      Maxar uses, their trajectory, their position at a given time, and their overflight
+      times. Using this information and measuring the shadows, we can determine exactly
+      on which day the photo was taken. A group of independent Russian analysts was
+      able to determine that the photo was taken on April 1 at 11:57 GMT (2:57 p.m.
+      local time) [ii] . This is confirmed by traces of a violent thunderstorm that
+      hit the city on the night of March 31 to April 1. Strangely, Maxar does not provide
+      images of this area for March 21 and 23, even though they are listed in the catalog.
+      Furthermore, other facts give cause for caution: • On April 4, the Pentagon announces
+      that it is unable to confirm Russia’s responsibility in the Bucha affair. • Ukrainian
+      Socialist MP Ilya Kiva [iv] reveals on Telegram that the Bucha tragedy was planned
+      by the British intelligence service MI6 and carried out by the SBU[v]. • In June
+      2022, Italian television station TG24 investigates the killings and crimes against
+      civilians who allegedly collaborated with Russian forces and concludes that this
+      was the case in Bucha. • Other images from Maxar taken in the same area at a different
+      time “weigh” 100 MB, while the image of the “massacre” is barely 50 MB, suggesting
+      that it has been manipulated to conceal manipulation. None of this proves anything
+      in itself, but it shows that what is presented to us as indisputable is anything
+      but clear. As Ignazio Cassis, Swiss Foreign Minister, explains: “These are not
+      war crimes unless a court has determined that they are.” Ingazio Cassis, April
+      7, 2022 Slander 1: Baud never wrote or said what Kohler claims Baud never claimed
+      that Bucha was planned by British intelligence. He clearly stated that no one
+      knows what happened there. In his remarks, Baud merely quotes a post on X by Ukrainian
+      MP Ilya Kiva, who was murdered in Moscow on December 6, 2023. On December 6, 2023,
+      the BBC reported that Kyva had been murdered by the Ukrainian secret service SBU.
+      Against his better judgment, Kohler is passing off the statement made by the murdered
+      Kiva as a statement made by Baud. Baud agreed with Federal Councilor Ignazio Cassis,
+      who stated on Swiss television on April 7, 2022: “These are not war crimes as
+      long as no court has determined that they are. ” Ingazio Cassis, April 7, 2022
+      Skripal – 2018 Regarding Skripal, Kohler writes the following: “In the case of
+      the attack on Skripal in 2018, he interprets the proven nerve agent as something
+      else.” Kohler, December 30, 2025 Jacques Baud wrote the following in section 8.6.5
+      of his book “Fake News”: We will limit ourselves here to two quotes from Baud’s
+      book; the entire analysis can be found in the book. “Furthermore, the initial
+      report compiled after the victims were admitted to hospital mentioned fentanyl
+      poisoning, as Radio Free Europe/Radio Liberty reported in September 2018, without
+      mentioning ‘Novichok’ [i]. The Salisbury Journal of March 5 also mentions possible
+      fentanyl poisoning [ii] “The silence of the British and Western authorities on
+      this issue suggests that the analysis was unable to confirm Russia’s guilt. But
+      in fact, we know nothing about it. “ Slander 2: Baud never wrote or said what
+      Kohler claims Baud does not interpret anything; he analyzes the official findings
+      and statements with precise references and concludes that the analyses cannot
+      confirm Russia’s guilt – nothing more. Navalny – 2020 Regarding Navalny, Kohler
+      writes the following: “In the Navalny case in 2020, he claimed it was a mafia
+      act, even though the use of Novichok was verified by independent OPCW certification
+      laboratories and the involvement of FSB agents was proven.” Kohler, December 30,
+      2025 In his book “The Navalny Case,” Jacques Baud wrote the following in section
+      7.1: “Analysis of the Navalny case shows that at every stage of the proceedings,
+      the explanations that were systematically selected from the range of possible
+      explanations were those that fit the narrative of poisoning with Novichok and
+      thus must have been ordered by Vladimir Putin. The fact that Skripal and Navalny’s
+      symptoms were completely different, that neither of them showed symptoms of nerve
+      agent poisoning, that neither of them showed the long-term effects associated
+      with Novichok poisoning, or that Novichok was also produced by Western countries,
+      did not cause the media or politicians to exercise caution. On the contrary, foreign
+      policy is being shaped and measures with uncertain consequences are being taken
+      based solely on the telephone “confession” of an agent whose identity and status
+      no one could verify, and on secret military reports.” “Since the reports from
+      the German, French, and Swedish laboratories and the OPCW are classified as secret,
+      we do not know their content. However, it can be assumed that if their conclusions
+      had clearly confirmed the presence of Novichok, they would have been published
+      in more detail.” Slander 3: Baud never wrote or said what Kohler claims Baud never
+      used the term “ mafia-like ” as claimed by Kohler. In his detailed analysis, Baud
+      merely concludes that the German, French, and Swedish laboratories were unable
+      to verify the “desired” result. Kohler’s claims that Novichok and the involvement
+      of the FSB have been proven are false. Osama bin Laden – 2001 Regarding Osama
+      bin Laden, Kohler writes the following: “On historical events: Baud claimed that
+      Osama bin Laden had nothing to do with September 11.” Kohler, December 30, 2025
+      Jacques Baud wrote the following in his book Gouverner par les Fake News (Governing
+      by Fake News) – Section 5.4: In June 2006, Rex Tomb, head of public affairs for
+      the FBI, confirmed: “ The reason “9/11” is not mentioned on the Osama bin Laden
+      wanted poster is that the FBI has no evidence linking Bin Laden to “9/11” [iii]
+      . “ Slander 4: Baud never wrote or said what Kohler claims Nowhere in his books
+      did Jacques Baud ever claim that Osama bin Laden had nothing to do with September
+      11; he merely analyzed Western sources and concluded that not much was known about
+      the origins of 9/11. Cause-and-effect relationship Ukraine conflict – 2021 Regarding
+      the Ukraine conflict in 2021, Kohler writes the following: “He reverses the cause-and-effect
+      relationship with regard to the invasion of Ukraine. He claims that Ukraine provoked
+      Russia by attempting to recapture Donbass in 2022. To support his claims, he quotes
+      a statement made by Zelensky’s advisor Arestovich in 2019, which, however, was
+      an analytical warning of a possible Russian invasion, i.e., a security policy
+      forecast that later tragically came true.” Kohler, December 30, 2025 Jacques Baud
+      wrote the following in his book Ukraine Between War and Peace – Section 3.1: “Ukraine’s
+      accession to NATO is therefore only possible if Russia is unable to threaten it.
+      Russia must therefore suffer a crushing defeat that destroys its economy, triggers
+      a revolution and regime change, or even leads to the division of Russia into smaller
+      entities. This is exactly what Arestovych explains: “Our price for joining NATO
+      is a war against Russia and its defeat.” He even mentions the expected date of
+      this war: “2021 or 2022” [iv] !” Slander 5: What Kohler claims, Baud never wrote
+      or said Jacques Baud never reversed the cause-and-effect relationship regarding
+      the invasion of Ukraine. He merely quotes from an interview with Olekseï Arestovych
+      and explains his thoughts. Conclusion It is somewhat astonishing that a career
+      officer in the Swiss army, who is also responsible for training, would write such
+      an easily refutable pamphlet or hate speech against a former colleague, thereby
+      stabbing a colleague who has been weakened by sanctions in the back. The question
+      of whether he did so on behalf of a superior remains unanswered. This pamphlet
+      is characterized not only by malice, but also by an almost incomprehensible amateurishness.
+      One can only hope that Jacques Baud will not let this primitive and actionable
+      attack go unchallenged, but will hold this person, who does not deserve to wear
+      an officer’s uniform, accountable. It remains to be seen how long this person’s
+      superiors will stand by him. A training officer convicted of defamation would
+      be a first for the Swiss Army. [i] Ron Synovitz, „Name Your Poison: Exotic Toxins
+      Fell Kremlin Foes”, Radio Free Europe/Radio Liberty , September 18, 2018 [ii]
+      “Man found seriously ill in Maltings, Salisbury, is former Russian spy Sergei
+      Skripal,” www.salisburyjournal.co.uk , March 5, 2018. [iii] http://www.historycommons.org/entity.jsp?entity=rex_tomb_1
+      [iv] „Predicted Russian – Ukrainian war in 2019 – Alexey Arestovich”, YouTube,
+      March 18, 2022 (https://youtu.be/1xNHmHpERH8) [i] . Carole Landry, „The Horror
+      in Bucha“, The New York Times, April 4, 2022 (https://www.nytimes.com/2022/04/04/briefing/russia-ukraine-war-briefing-bucha-warcrimes.html)
+      [ii] . https://t.me/rybar/30599 [iii] . „Pentagon can’t independently confirm
+      atrocities in Ukraine’s Bucha, official says”, Reuters, April 4, 2022 (https://www.reuters.com/world/pentagon-cant-independently-confirm-atrocities-ukraines-bucha-official-says-2022-04-04/?taid=624b43bd3225ef0001288ec4)
+      [iv] . https://en.wikipedia.org/wiki/Illia_Kyva [v] . https://t.me/intelslava/24353
+      [vi] . Jacopo Arbarello, „Guerra in Ucraina, la questione dei collaborazionisti
+      filorussi” (War in Ukraine, the issue of pro-Russian collaborators), Sky TG24,
+      June 7, 2022 (https://tg24.sky.it/mondo/2022/06/06/guerra-russia-ucraina-filorussi)
+      [i] . https://t.me/vityzeva/52988. [ii] . „Bucha liberated from Russian invaders
+      – mayor”, ukrinform.net, April 1, 2022 (https://www.ukrinform.net/rubric-ato/3445989-bucha-liberated-from-russian-invaders-mayor.html).
+      [iii] . Violetta Orlova, „Мер Бучі підтвердив звільнення міста від російських
+      військ”, Unian, April 1, 2022 (https://www.unian.ua/war/bucha-novini-mer-buchi-zayavlyaye-pro-zvilnennya-mista-vid-okupantiv-novini-vtorgnennya-rosiji-v-ukrajinu-11769010.html).
+      [iv] „Буча после ухода русских военныхQ”, Kedrov Talks/YouTube, April 2, 2022
+      (https://youtu.be/72TZbAeKPSE). [v] . Violetta Orlova, „У звільненій Бучі розпочали
+      зачистку території від диверсантів та російських пособників”, Unian, April 2,
+      2022 (https://www.unian.ua/war/bucha-u-zvilnenomu-misti-rozpochali-zachistku-teritoriji-vid-diversantiv-ta-rosiyskih-posobnikiv-novini-kiyeva-11770498.html).
+      [vi] . https://youtu.be/Z7yIyNBMpQY. Peter Hanseler is a geopolitical analyst
+      who reports from Moscow. Peter was born in Zurich, Switzerland. He holds a J.D.
+      (lic. iur.) and Ph.D. (Dr. iur.) from Zurich University Law School and Master
+      in International Commercial Law (LL.M.) from Georgetown University Law School,
+      Washington, D.C. He has lived in the US, Spain, Switzerland, Thailand and Russia.
+      Peter is independent, his work is not supported by government or private entities.
+      Peter’s website Forumgeopolitica.com publishes its content in English, Russian,
+      German and French.'
+    one_sentence_summary: Swiss officer Pascal Koller has been accused of slandering
+      military analyst Jacques Baud in a defamatory article, prompting calls for criminal
+      charges against Koller and raising questions about potential protection from Swiss
+      army leadership.
+    paragraph_summary: 'In a recent article in the Swiss Military Journal, Swiss officer
+      Pascal Koller launched a defamatory attack on Jacques Baud, a respected military
+      analyst, accusing him of undermining freedom of expression while supporting EU
+      sanctions against him. Koller’s article, titled "Cognitive attrition: The logic
+      behind the Baud case," is criticized for its lack of originality and reliance
+      on unverified claims, suggesting he plagiarized content from Wikipedia without
+      proper attribution. The author of the response, Peter Hanseler, questions whether
+      Koller is acting independently or if he has the backing of Swiss army leadership,
+      calling for criminal charges against Koller for his slanderous remarks and asserting
+      that such behavior undermines the integrity of military discourse.'
+    published: '2026-01-08T06:55:29+00:00'
+  - title: Pascal Kohler – the herald of Kaja Kallas
+    url: https://sonar21.com/pascal-koller-the-herald-of-kaja-kallas/
+    text: 'In an article published in the Swiss Military Journal, Swiss officer Pascal
+      Koller slanders Jacques Baud in the most despicable manner. We prove that he is
+      lying and show that criminal charges are the only way to put this petty criminal
+      in his place. Is he being protected by the Swiss army leadership or is he acting
+      alone? By Peter Hanseler via ForumGeopolitica.com When a first lieutenant slanders
+      a colonel because he believes the latter cannot defend himself – Pascal Kohler
+      on the left – Jacques Baud on the right Kohler’s article in the Allgemeine Schweizerische
+      Militär Zeitschrift (ASMZ) On 30 December 2025, the ASMZ published an article
+      by Kohler entitled « Kognitive Zermürbung: Die Logik hinter dem Fall Baud » (‘
+      Cognitive attrition: The logic behind the Baud case’). This article is a vicious,
+      defamatory attack on the most objective military analyst in the Western hemisphere,
+      Jacques Baud. In the lead-in to the article, Kohler does not describe the sanctions
+      as ‘ a blow to the freedom of expression of an individual ’. He describes them
+      as ‘ rather a precise intervention in the logistics of modern hybrid warfare ’,
+      deliberately omitting what he believes ‘hybrid’ warfare to mean. Kohler thus insinuates
+      that the EU is waging war – nota bene against a fellow Swiss officer – and that
+      this justifies the suppression of freedom of expression. Kohler not only supports
+      the EU’s sanctioning of Baud, but also assures the EU of the Swiss army’s support
+      in this fight. It can be assumed that the Swiss army leadership is behind this
+      strategy, otherwise a subordinate would not have written such an inflammatory
+      article on the ASMZ website. However, I was unable to find any confirmation of
+      this. Kohler does not work carefully; rather, it seems that he did not even formulate
+      his specific accusations against Baud himself, but simply copied them from Wikipedia,
+      without citing the source, of course. This is plagiarism from a source that no
+      serious geopolitician would touch. On the ASMZ website, he describes his work
+      as follows: ‘He is currently Head of International Cooperation & Training in the
+      Operations Command, responsible for coordinating and implementing international
+      training and engagements.’ Pascal Kohler, ASZM Whatever this verbiage may mean,
+      Kohler is head of training, and as head of training, he must set an example. A
+      role model does not copy information from Wikipedia without citing the source
+      and sell it as his own. In addition, Kohler deliberately neglects the real sources
+      completely; those sources that contain Baud’s statements – the books by Jacques
+      Baud himself. The work of Jacques Baud Jacques Baud’s real statements on many
+      geopolitical issues are exhaustively covered in his books, which are pure analyses
+      and in which Baud relies exclusively on Western and Ukrainian sources. In none
+      of his publications has Baud ever taken sides in any of the conflicts he has analysed.
+      Jacques Baud’s statements in his books are exhaustive, as he does not use social
+      media channels. We therefore compare the statements made by Kohler with the statements
+      actually made by Jacques Baud. Preliminary remarks on the defamatory statements
+      I have carefully read all the passages on all the topics raised by Kohler in his
+      pamphlet in Jacques Baud’s books. Baud’s analyses are very accurate, detailed
+      and clearly referenced with footnotes and sources, as befits a scientific work.
+      In order to make this article manageable for readers in terms of length, I will
+      analyse Kohler’s slander regarding Butscha in detail by quoting longer passages
+      from Baud’s books. For the other topics – Skripal, Navalny, etc. – I will limit
+      myself to quoting short passages from Baud’s work, which does not mean, however,
+      that Baud has not written detailed analyses with references for all topics. Bucha
+      – 2022 Regarding Bucha, Kohler writes the following: ‘In the case of Bucha, he
+      interprets the documented massacre as having been planned by the British and carried
+      out by the Ukrainians – a thesis that contradicts German intelligence recordings
+      of Russian soldiers’ conversations about killings and satellite images of corpses
+      during the Russian occupation.’ Kohler, 30 December 2025 Jacques Baud wrote the
+      following in his book ‘Operation Z’ in 7.3.2: “[…] What exactly happened there?
+      No one knows. But some civilians were executed, while others appear to have been
+      collateral victims of the fighting. As for responsibility, Ukraine accuses the
+      Russian army, while Russia claims it was a fabrication.” Baud describes the sequence
+      of events as follows: Date Incident/Facts March 29 The Russian command decides
+      to withdraw troops west of Kyiv toward Donbas to launch phase 2 of the operation.
+      March 30 The Russians are leaving. March 31 Anatoliy Fedoruk, mayor of Bucha,
+      announces the withdrawal of Russian forces on Telegram [i] with satisfaction.
+      He makes no mention of corpses or massacres: “March 31 will be remembered in the
+      history of our community of Bucha as a day of liberation. Liberation by our Ukrainian
+      armed forces from the Russian ‘orcs’, the Russian occupiers. That is why I am
+      declaring today a day of joy. A joyful day and a great victory for the Kyiv region!
+      And we will certainly wait for there to be a great victory throughout Ukraine.”
+      [ii] March 31 April 1 The Ukrainian media company Unian confirms the withdrawal
+      of Russian forces and reports on statements made by the mayor of Bucha, without
+      mentioning the bodies or massacres in the city [iii] . Ukrainian forces are combing
+      the area in search of saboteurs and Russian collaborators (a Ukrainian video shows
+      Ukrainian paramilitaries asking to be allowed to shoot those who are not wearing
+      blue armbands). April 1 A video shows corpses on the street that have not been
+      there for three weeks, but whose positions resemble those in the satellite images
+      from March 11. Some are wearing white armbands, others have their wrists bound
+      with white cloth, others have Russian aid packages with them, and others were
+      executed in a basement. April 2 Ukrainian blogger Dimitry Komarov roams the city
+      and shows the damage left behind after the Russian troops withdrew. He makes no
+      mention of corpses or massacres [iv] . On the same day, the Ukrainian news site
+      Unian reports that special forces have “liberated the city from saboteurs and
+      collaborators with Russian troops” [v] . The SAFARI unit of the Ukrainian police
+      enters the city to carry out mine clearance and demining work in case the Russians
+      have mined the city. The video [vi] shot by the unit does not show a massacre,
+      but access to it via YouTube is restricted. April 3 Ukraine accuses Russian forces
+      of committing a massacre on the streets of Bucha. Reports of a mass grave actually
+      refer to the exhumation of a previously registered burial site in the church cemetery
+      on March 13. On April 4, the New York Times publishes a satellite photo of the
+      scene from March 11, 2022, almost three weeks before the “discovery” of the bodies
+      [i] (the date of which is later changed to March 19 for no reason). Two facts
+      are surprising: that the Russians allegedly left the bodies lying on the street
+      for three weeks, even though they had carefully buried other victims in the area
+      during that period, and that the bodies remained in exactly the same position
+      during that entire time. It is also known that the New York Times image was provided
+      by Maxar, a company that works for the US government. We also know which satellites
+      Maxar uses, their trajectory, their position at a given time, and their overflight
+      times. Using this information and measuring the shadows, we can determine exactly
+      on which day the photo was taken. A group of independent Russian analysts was
+      able to determine that the photo was taken on April 1 at 11:57 GMT (2:57 p.m.
+      local time) [ii] . This is confirmed by traces of a violent thunderstorm that
+      hit the city on the night of March 31 to April 1. Strangely, Maxar does not provide
+      images of this area for March 21 and 23, even though they are listed in the catalog.
+      Furthermore, other facts give cause for caution: • On April 4, the Pentagon announces
+      that it is unable to confirm Russia’s responsibility in the Bucha affair. • Ukrainian
+      Socialist MP Ilya Kiva [iv] reveals on Telegram that the Bucha tragedy was planned
+      by the British intelligence service MI6 and carried out by the SBU[v]. • In June
+      2022, Italian television station TG24 investigates the killings and crimes against
+      civilians who allegedly collaborated with Russian forces and concludes that this
+      was the case in Bucha. • Other images from Maxar taken in the same area at a different
+      time “weigh” 100 MB, while the image of the “massacre” is barely 50 MB, suggesting
+      that it has been manipulated to conceal manipulation. None of this proves anything
+      in itself, but it shows that what is presented to us as indisputable is anything
+      but clear. As Ignazio Cassis, Swiss Foreign Minister, explains: “These are not
+      war crimes unless a court has determined that they are.” Ingazio Cassis, April
+      7, 2022 Slander 1: Baud never wrote or said what Kohler claims Baud never claimed
+      that Bucha was planned by British intelligence. He clearly stated that no one
+      knows what happened there. In his remarks, Baud merely quotes a post on X by Ukrainian
+      MP Ilya Kiva, who was murdered in Moscow on December 6, 2023. On December 6, 2023,
+      the BBC reported that Kyva had been murdered by the Ukrainian secret service SBU.
+      Against his better judgment, Kohler is passing off the statement made by the murdered
+      Kiva as a statement made by Baud. Baud agreed with Federal Councilor Ignazio Cassis,
+      who stated on Swiss television on April 7, 2022: “These are not war crimes as
+      long as no court has determined that they are. ” Ingazio Cassis, April 7, 2022
+      Skripal – 2018 Regarding Skripal, Kohler writes the following: “In the case of
+      the attack on Skripal in 2018, he interprets the proven nerve agent as something
+      else.” Kohler, December 30, 2025 Jacques Baud wrote the following in section 8.6.5
+      of his book “Fake News”: We will limit ourselves here to two quotes from Baud’s
+      book; the entire analysis can be found in the book. “Furthermore, the initial
+      report compiled after the victims were admitted to hospital mentioned fentanyl
+      poisoning, as Radio Free Europe/Radio Liberty reported in September 2018, without
+      mentioning ‘Novichok’ [i]. The Salisbury Journal of March 5 also mentions possible
+      fentanyl poisoning [ii] “The silence of the British and Western authorities on
+      this issue suggests that the analysis was unable to confirm Russia’s guilt. But
+      in fact, we know nothing about it. “ Slander 2: Baud never wrote or said what
+      Kohler claims Baud does not interpret anything; he analyzes the official findings
+      and statements with precise references and concludes that the analyses cannot
+      confirm Russia’s guilt – nothing more. Navalny – 2020 Regarding Navalny, Kohler
+      writes the following: “In the Navalny case in 2020, he claimed it was a mafia
+      act, even though the use of Novichok was verified by independent OPCW certification
+      laboratories and the involvement of FSB agents was proven.” Kohler, December 30,
+      2025 In his book “The Navalny Case,” Jacques Baud wrote the following in section
+      7.1: “Analysis of the Navalny case shows that at every stage of the proceedings,
+      the explanations that were systematically selected from the range of possible
+      explanations were those that fit the narrative of poisoning with Novichok and
+      thus must have been ordered by Vladimir Putin. The fact that Skripal and Navalny’s
+      symptoms were completely different, that neither of them showed symptoms of nerve
+      agent poisoning, that neither of them showed the long-term effects associated
+      with Novichok poisoning, or that Novichok was also produced by Western countries,
+      did not cause the media or politicians to exercise caution. On the contrary, foreign
+      policy is being shaped and measures with uncertain consequences are being taken
+      based solely on the telephone “confession” of an agent whose identity and status
+      no one could verify, and on secret military reports.” “Since the reports from
+      the German, French, and Swedish laboratories and the OPCW are classified as secret,
+      we do not know their content. However, it can be assumed that if their conclusions
+      had clearly confirmed the presence of Novichok, they would have been published
+      in more detail.” Slander 3: Baud never wrote or said what Kohler claims Baud never
+      used the term “ mafia-like ” as claimed by Kohler. In his detailed analysis, Baud
+      merely concludes that the German, French, and Swedish laboratories were unable
+      to verify the “desired” result. Kohler’s claims that Novichok and the involvement
+      of the FSB have been proven are false. Osama bin Laden – 2001 Regarding Osama
+      bin Laden, Kohler writes the following: “On historical events: Baud claimed that
+      Osama bin Laden had nothing to do with September 11.” Kohler, December 30, 2025
+      Jacques Baud wrote the following in his book Gouverner par les Fake News (Governing
+      by Fake News) – Section 5.4: In June 2006, Rex Tomb, head of public affairs for
+      the FBI, confirmed: “ The reason “9/11” is not mentioned on the Osama bin Laden
+      wanted poster is that the FBI has no evidence linking Bin Laden to “9/11” [iii]
+      . “ Slander 4: Baud never wrote or said what Kohler claims Nowhere in his books
+      did Jacques Baud ever claim that Osama bin Laden had nothing to do with September
+      11; he merely analyzed Western sources and concluded that not much was known about
+      the origins of 9/11. Cause-and-effect relationship Ukraine conflict – 2021 Regarding
+      the Ukraine conflict in 2021, Kohler writes the following: “He reverses the cause-and-effect
+      relationship with regard to the invasion of Ukraine. He claims that Ukraine provoked
+      Russia by attempting to recapture Donbass in 2022. To support his claims, he quotes
+      a statement made by Zelensky’s advisor Arestovich in 2019, which, however, was
+      an analytical warning of a possible Russian invasion, i.e., a security policy
+      forecast that later tragically came true.” Kohler, December 30, 2025 Jacques Baud
+      wrote the following in his book Ukraine Between War and Peace – Section 3.1: “Ukraine’s
+      accession to NATO is therefore only possible if Russia is unable to threaten it.
+      Russia must therefore suffer a crushing defeat that destroys its economy, triggers
+      a revolution and regime change, or even leads to the division of Russia into smaller
+      entities. This is exactly what Arestovych explains: “Our price for joining NATO
+      is a war against Russia and its defeat.” He even mentions the expected date of
+      this war: “2021 or 2022” [iv] !” Slander 5: What Kohler claims, Baud never wrote
+      or said Jacques Baud never reversed the cause-and-effect relationship regarding
+      the invasion of Ukraine. He merely quotes from an interview with Olekseï Arestovych
+      and explains his thoughts. Conclusion It is somewhat astonishing that a career
+      officer in the Swiss army, who is also responsible for training, would write such
+      an easily refutable pamphlet or hate speech against a former colleague, thereby
+      stabbing a colleague who has been weakened by sanctions in the back. The question
+      of whether he did so on behalf of a superior remains unanswered. This pamphlet
+      is characterized not only by malice, but also by an almost incomprehensible amateurishness.
+      One can only hope that Jacques Baud will not let this primitive and actionable
+      attack go unchallenged, but will hold this person, who does not deserve to wear
+      an officer’s uniform, accountable. It remains to be seen how long this person’s
+      superiors will stand by him. A training officer convicted of defamation would
+      be a first for the Swiss Army. [i] Ron Synovitz, „Name Your Poison: Exotic Toxins
+      Fell Kremlin Foes”, Radio Free Europe/Radio Liberty , September 18, 2018 [ii]
+      “Man found seriously ill in Maltings, Salisbury, is former Russian spy Sergei
+      Skripal,” www.salisburyjournal.co.uk , March 5, 2018. [iii] http://www.historycommons.org/entity.jsp?entity=rex_tomb_1
+      [iv] „Predicted Russian – Ukrainian war in 2019 – Alexey Arestovich”, YouTube,
+      March 18, 2022 (https://youtu.be/1xNHmHpERH8) [i] . Carole Landry, „The Horror
+      in Bucha“, The New York Times, April 4, 2022 (https://www.nytimes.com/2022/04/04/briefing/russia-ukraine-war-briefing-bucha-warcrimes.html)
+      [ii] . https://t.me/rybar/30599 [iii] . „Pentagon can’t independently confirm
+      atrocities in Ukraine’s Bucha, official says”, Reuters, April 4, 2022 (https://www.reuters.com/world/pentagon-cant-independently-confirm-atrocities-ukraines-bucha-official-says-2022-04-04/?taid=624b43bd3225ef0001288ec4)
+      [iv] . https://en.wikipedia.org/wiki/Illia_Kyva [v] . https://t.me/intelslava/24353
+      [vi] . Jacopo Arbarello, „Guerra in Ucraina, la questione dei collaborazionisti
+      filorussi” (War in Ukraine, the issue of pro-Russian collaborators), Sky TG24,
+      June 7, 2022 (https://tg24.sky.it/mondo/2022/06/06/guerra-russia-ucraina-filorussi)
+      [i] . https://t.me/vityzeva/52988. [ii] . „Bucha liberated from Russian invaders
+      – mayor”, ukrinform.net, April 1, 2022 (https://www.ukrinform.net/rubric-ato/3445989-bucha-liberated-from-russian-invaders-mayor.html).
+      [iii] . Violetta Orlova, „Мер Бучі підтвердив звільнення міста від російських
+      військ”, Unian, April 1, 2022 (https://www.unian.ua/war/bucha-novini-mer-buchi-zayavlyaye-pro-zvilnennya-mista-vid-okupantiv-novini-vtorgnennya-rosiji-v-ukrajinu-11769010.html).
+      [iv] „Буча после ухода русских военныхQ”, Kedrov Talks/YouTube, April 2, 2022
+      (https://youtu.be/72TZbAeKPSE). [v] . Violetta Orlova, „У звільненій Бучі розпочали
+      зачистку території від диверсантів та російських пособників”, Unian, April 2,
+      2022 (https://www.unian.ua/war/bucha-u-zvilnenomu-misti-rozpochali-zachistku-teritoriji-vid-diversantiv-ta-rosiyskih-posobnikiv-novini-kiyeva-11770498.html).
+      [vi] . https://youtu.be/Z7yIyNBMpQY. Peter Hanseler is a geopolitical analyst
+      who reports from Moscow. Peter was born in Zurich, Switzerland. He holds a J.D.
+      (lic. iur.) and Ph.D. (Dr. iur.) from Zurich University Law School and Master
+      in International Commercial Law (LL.M.) from Georgetown University Law School,
+      Washington, D.C. He has lived in the US, Spain, Switzerland, Thailand and Russia.
+      Peter is independent, his work is not supported by government or private entities.
+      Peter’s website Forumgeopolitica.com publishes its content in English, Russian,
+      German and French.'
+    one_sentence_summary: Swiss officer Pascal Koller has been accused of slandering
+      military analyst Jacques Baud in a defamatory article, prompting calls for criminal
+      charges against Koller and raising questions about potential protection from Swiss
+      army leadership.
+    paragraph_summary: 'In a recent article in the Swiss Military Journal, Swiss officer
+      Pascal Koller launched a defamatory attack on Jacques Baud, a respected military
+      analyst, accusing him of undermining freedom of expression while supporting EU
+      sanctions against him. Koller’s article, titled "Cognitive attrition: The logic
+      behind the Baud case," is criticized for its lack of originality and reliance
+      on unverified claims, suggesting he plagiarized content from Wikipedia without
+      proper attribution. The author of the response, Peter Hanseler, questions whether
+      Koller is acting independently or if he has the backing of Swiss army leadership,
+      calling for criminal charges against Koller for his slanderous remarks and asserting
+      that such behavior undermines the integrity of military discourse.'
+    published: '2026-01-08T06:55:29+00:00'
+  - title: Was There Another Incentive to Kidnap Maduro?
+    url: https://sonar21.com/was-there-another-incentive-to-kidnap-maduro/
+    text: 'Paul Singer There are a lot of theories circulating on the internet trying
+      to explain why Trump ordered the capture and abduction of Nicholas Maduro last
+      Saturday, e.g., grab control of oil, loot Venezuelan silver, or boot Russia, China
+      and Iran from Venezuela. But there may be another reason, which does not exclude
+      some of the other theories, that involves billions of dollars and a donor to Donald
+      Trump… Meet Paul Singer. Paul Singer, the billionaire founder and co-CEO of Elliott
+      Investment Management (a hedge fund known for activist investing and distressed
+      debt strategies, often labeled a “vulture fund”), has significant economic interests
+      in Venezuela tied to the country’s long-standing sovereign debt defaults and oil
+      assets. Singer, a major Republican donor (including millions to Trump-related
+      causes), has been linked by critics to influencing US policy toward Venezuela,
+      though his interests are primarily financial through distressed sovereign debt
+      and assets. In November 2025, an affiliate of Elliott (Amber Energy) won a US
+      court-mandated auction and purchased Citgo Petroleum—the US-based refining and
+      marketing subsidiary of Venezuela’s state-owned oil company PDVSA—for approximately
+      $5.9 billion. The Citgo sale stemmed from a long-running Delaware court case initiated
+      by creditors (starting with Crystallex in 2017) seeking recovery for Venezuela’s
+      defaults on bonds and expropriations. PDVSA’s “alter ego” liability made Citgo’s
+      parent company (PDV Holding) seizable. Singer’s strategy mirrors past successes,
+      such as his 15-year litigation against Argentina’s debt default, which yielded
+      billions for Elliott. Citgo includes three major Gulf Coast refineries, 43 terminals,
+      and a network of over 4,000 gas stations. Court advisors valued the assets at
+      $11–13 billion, while Venezuelan estimates reached $18 billion, meaning Elliott
+      acquired it at a substantial discount due to sanctions and operational constraints.
+      Citgo’s refineries are optimized for processing Venezuela’s heavy “sour” crude
+      oil. US sanctions had forced it to source more expensive alternatives (e.g., from
+      Canada or Colombia), reducing profitability. With the January 2026 U.S. operation
+      that captured Nicolás Maduro and shifted control, Elliott stands to benefit from
+      potential resumed access to cheaper Venezuelan oil, significantly boosting Citgo’s
+      value and operations. There is some real irony here because of Singer’s previous
+      efforts to prevent Donald Trump from winning the Republican nomination in 2016.
+      The Washington Free Beacon, a conservative news website largely funded by Singer
+      (a vocal “Never Trump” Republican during the 2016 primaries who supported Marco
+      Rubio), hired the opposition research firm Fusion GPS in late 2015 to conduct
+      general negative research on multiple Republican presidential candidates, including
+      Donald Trump. Fusion GPS was subsequently hired (starting April 2016) by the law
+      firm Perkins Coie, representing the Hillary Clinton campaign and the Democratic
+      National Committee. Fusion GPS then engaged former British intelligence officer
+      Christopher Steele in June 2016 to compile the memos that became known as the
+      Steele Dossier (alleging ties between Trump and Russia). The Free Beacon , Singer,
+      and associates explicitly stated they had no knowledge of, contact with, or funding
+      for Christopher Steele or the dossier. I bet Mr. Singer is now quite pleased that
+      Donald Trump is in the White House. I will wait till tomorrow to write about US
+      piracy of Russian-flagged tankers. This is a very dangerous action by Trump and
+      is likely to sink any further chance of peace negotiations. My latest podcasts
+      were with Marcello and with Danny Haiphong and Patrick Henningsen: I thank you
+      for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: Paul Singer, a billionaire hedge fund manager and major Republican
+      donor, may have influenced Trump's decision to capture Nicolás Maduro due to his
+      significant financial interests in Venezuela's sovereign debt and oil assets,
+      amidst various theories about the motivations behind the action.
+    paragraph_summary: The article discusses theories surrounding former President Trump's
+      order for the capture of Venezuelan leader Nicolás Maduro, suggesting that financial
+      interests, particularly those of billionaire Paul Singer, may play a significant
+      role. Singer, the founder of Elliott Investment Management, has substantial economic
+      stakes in Venezuela, particularly related to the country's sovereign debt defaults
+      and oil assets. As a major Republican donor, he has been accused of influencing
+      U.S. policy towards Venezuela to benefit his financial interests. Notably, in
+      November 2025, an affiliate of Elliott acquired Citgo Petroleum, a key asset of
+      Venezuela's state-owned oil company, for about $5.9 billion through a court-mandated
+      auction, which critics argue reflects Singer's strategy of capitalizing on distressed
+      assets, similar to his previous successes with Argentina's debt. The article highlights
+      the potential motivations behind U.S. actions in Venezuela, linking them to the
+      financial ambitions of influential figures like Singer.
+    published: '2026-01-08T04:31:23+00:00'
+  - title: Was There Another Incentive to Kidnap Maduro?
+    url: https://sonar21.com/was-there-another-incentive-to-kidnap-maduro/
+    text: 'Paul Singer There are a lot of theories circulating on the internet trying
+      to explain why Trump ordered the capture and abduction of Nicholas Maduro last
+      Saturday, e.g., grab control of oil, loot Venezuelan silver, or boot Russia, China
+      and Iran from Venezuela. But there may be another reason, which does not exclude
+      some of the other theories, that involves billions of dollars and a donor to Donald
+      Trump… Meet Paul Singer. Paul Singer, the billionaire founder and co-CEO of Elliott
+      Investment Management (a hedge fund known for activist investing and distressed
+      debt strategies, often labeled a “vulture fund”), has significant economic interests
+      in Venezuela tied to the country’s long-standing sovereign debt defaults and oil
+      assets. Singer, a major Republican donor (including millions to Trump-related
+      causes), has been linked by critics to influencing US policy toward Venezuela,
+      though his interests are primarily financial through distressed sovereign debt
+      and assets. In November 2025, an affiliate of Elliott (Amber Energy) won a US
+      court-mandated auction and purchased Citgo Petroleum—the US-based refining and
+      marketing subsidiary of Venezuela’s state-owned oil company PDVSA—for approximately
+      $5.9 billion. The Citgo sale stemmed from a long-running Delaware court case initiated
+      by creditors (starting with Crystallex in 2017) seeking recovery for Venezuela’s
+      defaults on bonds and expropriations. PDVSA’s “alter ego” liability made Citgo’s
+      parent company (PDV Holding) seizable. Singer’s strategy mirrors past successes,
+      such as his 15-year litigation against Argentina’s debt default, which yielded
+      billions for Elliott. Citgo includes three major Gulf Coast refineries, 43 terminals,
+      and a network of over 4,000 gas stations. Court advisors valued the assets at
+      $11–13 billion, while Venezuelan estimates reached $18 billion, meaning Elliott
+      acquired it at a substantial discount due to sanctions and operational constraints.
+      Citgo’s refineries are optimized for processing Venezuela’s heavy “sour” crude
+      oil. US sanctions had forced it to source more expensive alternatives (e.g., from
+      Canada or Colombia), reducing profitability. With the January 2026 U.S. operation
+      that captured Nicolás Maduro and shifted control, Elliott stands to benefit from
+      potential resumed access to cheaper Venezuelan oil, significantly boosting Citgo’s
+      value and operations. There is some real irony here because of Singer’s previous
+      efforts to prevent Donald Trump from winning the Republican nomination in 2016.
+      The Washington Free Beacon, a conservative news website largely funded by Singer
+      (a vocal “Never Trump” Republican during the 2016 primaries who supported Marco
+      Rubio), hired the opposition research firm Fusion GPS in late 2015 to conduct
+      general negative research on multiple Republican presidential candidates, including
+      Donald Trump. Fusion GPS was subsequently hired (starting April 2016) by the law
+      firm Perkins Coie, representing the Hillary Clinton campaign and the Democratic
+      National Committee. Fusion GPS then engaged former British intelligence officer
+      Christopher Steele in June 2016 to compile the memos that became known as the
+      Steele Dossier (alleging ties between Trump and Russia). The Free Beacon , Singer,
+      and associates explicitly stated they had no knowledge of, contact with, or funding
+      for Christopher Steele or the dossier. I bet Mr. Singer is now quite pleased that
+      Donald Trump is in the White House. I will wait till tomorrow to write about US
+      piracy of Russian-flagged tankers. This is a very dangerous action by Trump and
+      is likely to sink any further chance of peace negotiations. My latest podcasts
+      were with Marcello and with Danny Haiphong and Patrick Henningsen: I thank you
+      for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: Paul Singer, a billionaire hedge fund manager and major Republican
+      donor, may have influenced Trump's decision to capture Nicolás Maduro due to his
+      significant financial interests in Venezuela's sovereign debt and oil assets,
+      amidst various theories about the motivations behind the action.
+    paragraph_summary: The article discusses theories surrounding former President Trump's
+      order for the capture of Venezuelan leader Nicolás Maduro, suggesting that financial
+      interests, particularly those of billionaire Paul Singer, may play a significant
+      role. Singer, the founder of Elliott Investment Management, has substantial economic
+      stakes in Venezuela, particularly related to the country's sovereign debt defaults
+      and oil assets. As a major Republican donor, he has been accused of influencing
+      U.S. policy towards Venezuela to benefit his financial interests. Notably, in
+      November 2025, an affiliate of Elliott acquired Citgo Petroleum, a key asset of
+      Venezuela's state-owned oil company, for about $5.9 billion through a court-mandated
+      auction, which critics argue reflects Singer's strategy of capitalizing on distressed
+      assets, similar to his previous successes with Argentina's debt. The article highlights
+      the potential motivations behind U.S. actions in Venezuela, linking them to the
+      financial ambitions of influential figures like Singer.
+    published: '2026-01-08T04:31:23+00:00'
   - title: Did Russia Just Send a Message to Donald Trump? Who Ratted out Maduro?
     url: https://sonar21.com/did-russia-just-send-a-message-to-donald-trump/
     text: 'Olimpex Terminal On January 6, Russia launched three major missile strikes

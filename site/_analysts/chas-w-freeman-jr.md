@@ -7,19 +7,52 @@ description: "Retired US diplomat and China/Middle East expert; realist voice on
 websites:
   - https://chasfreeman.net
 summary: |
-  As the global order continues to shift in early 2026, the interplay between rising and established powers is reshaping international relations, with China’s resurgence, the ongoing conflict in Ukraine, and the evolving U.S.-Israel relationship at the forefront of geopolitical analysis.
+  The global order continues to experience profound shifts, with recent events intensifying existing geopolitical tensions. The most urgent development is the escalating crisis in Venezuela following a major attack, which, according to **Chas W. Freeman, Jr.**, carries "far-reaching consequences" and demands immediate international attention. Freeman highlights warnings from German President Frank-Walter Steinmeier, underscoring the risk of further deterioration and the critical need for proactive, cooperative measures to prevent a broader regional tragedy. The consensus among analysts is that without coordinated diplomatic intervention, the situation in Venezuela could destabilize not only Latin America but also global energy and migration dynamics.
   
-  Recent commentary by **Chas W. Freeman, Jr.** underscores the significance of China’s return to global prominence. Speaking at Brown University, Freeman emphasized that “the dynamics of change often reveal the ambitions of those who stand to gain from it,” highlighting China’s successful restoration of its wealth and influence. He cautioned that how the U.S. and its partners respond to this shift will determine the future stability of international relations. Freeman’s assessment reflects a broader consensus that the U.S. must carefully recalibrate its approach to China, moving beyond containment and towards a more nuanced engagement strategy.
+  Meanwhile, the broader context is defined by the ongoing transformation of the international system. As **Freeman** notes in his analysis of Sino-American relations, the resurgence of China as a global power is reshaping alliances and economic structures. He emphasizes that the U.S. response to China's rise—marked by protectionism, militarization, and a lack of diplomatic engagement—has often been counterproductive, strengthening China's partnerships and eroding American influence. This dynamic is further complicated by what Freeman describes as "pervasive ideological bias" in U.S. perceptions of China, which impedes meaningful dialogue and increases the risk of miscalculation.
   
-  On the European front, the war in Ukraine remains a critical concern. Freeman, in his analysis of the conflict, argues that Western strategies have failed to weaken Russia or achieve their stated objectives, instead resulting in the devastation of Ukraine and a hardened Russian stance. He warns that without a realistic peace framework—one that acknowledges Russia’s security concerns—Ukraine risks further territorial losses and continued suffering. The majority view among analysts is that only a diplomatic solution, inclusive of Russia, can bring lasting peace to Europe. As Freeman notes, “the exclusion of major powers like Russia from European security discussions has led to the current war in Ukraine,” and the prospects for a stable order remain bleak unless mutual fears are addressed.
+  In Europe, the unresolved conflict in Ukraine remains a focal point of instability. **Freeman** critiques Western strategies that have failed to weaken Russia or achieve lasting peace, instead resulting in the devastation of Ukraine and the entrenchment of Russian demands for a new security framework. He warns that without a realistic reassessment of Western objectives and an inclusive approach to European security, the prospects for peace remain bleak.
   
-  Meanwhile, the U.S.-Israel relationship is under renewed scrutiny. Freeman questions whether American foreign policy is prioritizing Israeli interests at the expense of broader U.S. objectives, advocating for a more balanced approach that incorporates the perspectives of Arab nations. He suggests that a recalibration of U.S. policy could enhance regional stability and restore American credibility as a mediator.
-  
-  **Trends and Predictions:**  
-  The prevailing trend is a move towards a more fragmented, “multi-nodal” world order, with the West’s dominance increasingly challenged by regional powers, especially China. Freeman predicts with high confidence that unless the U.S. shifts from militarization and ideological posturing to pragmatic diplomacy, it will continue to lose influence both in Asia and Europe. Regarding Ukraine, there is a high chance that the conflict will persist in the absence of a comprehensive peace settlement, with the risk of further fragmentation of the Ukrainian state. In the Middle East, a more balanced U.S. policy is quite likely to yield greater diplomatic dividends, but only if Washington is willing to reconsider its traditional alliances and strategies.
-  
-  In summary, the current geopolitical landscape demands strategic foresight, diplomatic professionalism, and a willingness to adapt to new realities—qualities that, according to Freeman, will determine whether the U.S. and its allies can navigate the challenges of a rapidly evolving world order.
+  Looking ahead, the prevailing trend is toward a more fragmented, "multi-nodal" world order, with regional powers asserting greater autonomy and the West facing challenges to its traditional dominance. **Freeman** predicts with high confidence that unless the U.S. and its allies recalibrate their strategies—prioritizing diplomacy, empathy, and realistic assessments of power dynamics—global instability will persist and the West may find itself increasingly marginalized. The urgent need for professionalized diplomacy and international cooperation is clear, as the risks of escalation and systemic breakdown grow more acute.
 articles:
+  - title: The Strategic Implications of the Attack on Venezuela
+    url: https://chasfreeman.net/the-strategic-implications-of-the-attack-on-venezuela/
+    text: Remarks to an Emergency Roundtable  on The Strategic Implications of the Attack
+      on Venezuela Ambassador Chas W. Freeman, Jr. (USFS, Ret.) By Video, 12 January
+      2026 We are here to avert a tragedy – the apparently inexorable unfolding of foreseeably
+      terrible events. As German President Frank-Walter Steinmeier has just warned …
+    one_sentence_summary: Ambassador Chas W. Freeman, Jr. emphasized the urgent need
+      to address the strategic implications of the attack on Venezuela to prevent a
+      looming tragedy, as highlighted by German President Frank-Walter Steinmeier's
+      recent warnings.
+    paragraph_summary: In his remarks to an emergency roundtable on the strategic implications
+      of the attack on Venezuela, Ambassador Chas W. Freeman, Jr. emphasized the urgent
+      need to address the escalating crisis, which he views as a potential tragedy with
+      far-reaching consequences. He referenced a warning from German President Frank-Walter
+      Steinmeier about the dire situation, underscoring the importance of proactive
+      measures to prevent further deterioration and to mitigate the risks associated
+      with the conflict in Venezuela. The discussion highlighted the geopolitical ramifications
+      and the necessity for international cooperation to navigate the unfolding events.
+    published: '2026-01-12T15:56:55+00:00'
+  - title: The Strategic Implications of the Attack on Venezuela
+    url: https://chasfreeman.net/the-strategic-implications-of-the-attack-on-venezuela/
+    text: Remarks to an Emergency Roundtable  on The Strategic Implications of the Attack
+      on Venezuela Ambassador Chas W. Freeman, Jr. (USFS, Ret.) By Video, 12 January
+      2026 We are here to avert a tragedy – the apparently inexorable unfolding of foreseeably
+      terrible events. As German President Frank-Walter Steinmeier has just warned …
+    one_sentence_summary: Ambassador Chas W. Freeman, Jr. emphasized the urgent need
+      to address the strategic implications of the attack on Venezuela to prevent a
+      looming tragedy, as highlighted by German President Frank-Walter Steinmeier's
+      recent warnings.
+    paragraph_summary: In his remarks to an emergency roundtable on the strategic implications
+      of the attack on Venezuela, Ambassador Chas W. Freeman, Jr. emphasized the urgent
+      need to address the escalating crisis, which he views as a potential tragedy with
+      far-reaching consequences. He referenced a warning from German President Frank-Walter
+      Steinmeier about the dire situation, underscoring the importance of proactive
+      measures to prevent further deterioration and to mitigate the risks associated
+      with the conflict in Venezuela. The discussion highlighted the geopolitical ramifications
+      and the necessity for international cooperation to navigate the unfolding events.
+    published: '2026-01-12T15:56:55+00:00'
   - title: Ceding the Future to China
     url: https://chasfreeman.net/ceding-the-future-to-china/
     text: Ceding the Future to China Remarks to Brown University’s Watson School’s “China

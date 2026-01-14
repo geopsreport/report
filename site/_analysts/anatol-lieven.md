@@ -8,16 +8,190 @@ websites:
   - https://responsiblestatecraft.org/author/alieven/
   - https://quincyinst.org/author/anatol-lieven/
 summary: |
-  The start of 2026 finds Europe and the wider transatlantic community navigating a period of strategic uncertainty, shaped by the Trump administration’s recalibrated approach to security and the ongoing search for a durable peace in Ukraine. The latest developments underscore a pragmatic, if contentious, U.S. posture, persistent European instability, and the enduring complexities of the Ukraine conflict.
+  As the Ukraine conflict continues to dominate the geopolitical landscape, recent developments signal a cautious shift toward diplomatic engagement, though significant obstacles remain. The Trump administration’s evolving approach—marked by the reported draft framework agreement with Russia—has provoked both hope and skepticism among stakeholders. **Anatol Lieven** notes that while this framework addresses critical issues for resolution, “it faces skepticism from Ukraine and may require substantial pressure from the U.S. to gain acceptance,” underscoring the delicate balance between peace efforts and Ukrainian sovereignty.
   
-  The release of the 2025 U.S. National Security Strategy marks a notable shift. As **Anatol Lieven** observes, the document “emphasizes a pragmatic approach to foreign policy, advocating for diplomacy and restraint,” while also exposing partisan divides and controversial positions on military intervention. This signals a deliberate move away from open-ended commitments, particularly in Europe, and a preference for negotiated settlements over escalation. The strategy’s stress on restraint is widely interpreted as a response to both domestic pressures and the protracted nature of the Ukraine war.
+  Meanwhile, the broader Western response remains fragmented. The Trump administration’s 2025 National Security Strategy, as analyzed by **Lieven**, emphasizes “a pragmatic approach to foreign policy, advocating for diplomacy and restraint,” yet it is also criticized for partisan biases and controversial stances, particularly regarding military intervention and European domestic politics. This ambiguity is mirrored in Europe, where internal crises—especially in France and Britain—continue to undermine coherent policy. France’s ongoing political and economic turmoil, coupled with Britain’s “disorganized collection of conflicting goals and unrealistic assumptions” in its own security strategy, weakens the continent’s ability to respond effectively to both the Ukraine war and broader security challenges.
   
-  On Ukraine, the Trump administration’s “28-point plan” for peace has triggered political tremors across the region. According to **Anatol Lieven**, the draft framework “represents a significant step in the Ukraine peace process by addressing critical issues for resolution,” though it faces deep skepticism in Kyiv and among some European allies. The plan’s provisions—reportedly including recognition of Russian control over Crimea and Donbas—are seen as painful but potentially necessary concessions. Lieven notes that “substantial pressure from the U.S.” may be required to secure Ukrainian acceptance, raising questions about sovereignty and future security guarantees.
+  In the Caucasus, Georgia’s aspirations for EU accession remain complicated by internal politics and the shadow of the Ukraine conflict. President Kavelashvili’s government seeks to leverage EU membership to strengthen national resilience, but, as **Lieven** observes, “contrasting expectations between Georgia and the European Union” and the influence of Russian aggression complicate the path forward.
   
-  Meanwhile, Europe’s internal cohesion remains fragile. France, in particular, is grappling with a severe political and economic crisis, marked by “a stagnant economy, high public debt, unpopular leadership, and rising radical parties,” as detailed by **Anatol Lieven**. This instability, mirrored to varying degrees across Western Europe, undermines the continent’s ability to contribute meaningfully to collective security efforts and complicates transatlantic coordination.
+  Looking ahead, the majority of analysts agree that the U.S. will continue to play a pivotal role in shaping outcomes in Ukraine, with the Trump administration likely to exert increasing pressure on Kyiv to accept a negotiated settlement. There is a high chance that European divisions and domestic instability will persist, limiting the continent’s ability to act as a unified force. As for Georgia, its EU ambitions will remain entangled with regional security dynamics and the broader East-West confrontation.
   
-  Looking ahead, the prevailing trend is toward a negotiated settlement in Ukraine, with the U.S. playing a central, if sometimes divisive, role. There is high confidence that Washington will continue to push for a diplomatic resolution, even if it means pressuring allies and Ukraine to accept difficult compromises. European instability is likely to persist, limiting the continent’s strategic autonomy and reinforcing U.S. influence. As Lieven concludes, “the need for diplomacy and restraint is greater than ever,” and the coming months will test the resilience of both the transatlantic alliance and the Ukrainian state.
+  In summary, while there are tentative steps toward diplomatic resolution in Ukraine, the process is fraught with political risks and uncertainties. The prevailing trend points to continued U.S. leadership, European fragmentation, and the enduring impact of the Ukraine war on neighboring regions. There is a high chance that the coming months will see intensified diplomatic maneuvering, but a comprehensive settlement remains elusive.
 articles:
+  - title: Trump's sphere of influence quest is sloppy, self-sabotage
+    url: https://responsiblestatecraft.org/trump-spheres-of-influence/
+    text: 'Spheres of influence stem from the very nature of states and international
+      relations. States will always seek to secure their interests by exerting influence
+      over their neighbors, and the more powerful the state, the greater the influence
+      that it will seek.
+
+
+      That said, sphere of influence strategies vary greatly, on spectrums between relative
+      moderation and excess, humanity and cruelty, discreet pressure and open intimidation,
+      and intelligence and stupidity; and the present policies of the Trump administration
+      in the Western Hemisphere show disturbing signs of inclining towards the latter.
+
+
+      The Monroe Doctrine too has varied greatly in the two centuries since it was first
+      announced as core to U.S. foreign and security policy. Originally, it was no more
+      than the stated determination to prevent Spain from re-establishing its imperial
+      rule over its former colonies, or Britain and France taking them over.
+
+
+      During the Cold War, the previous determination to exclude foreign empires morphed
+      into a determination to prevent states in the Western Hemisphere from joining
+      hostile military and political alliances; or if Washington was forced to concede
+      this (as in the case of Cuba), to cripple the states concerned through economic
+      sanctions and subversion.
+
+
+      This longstanding U.S. strategy renders absurd the NATO and European line concerning
+      Ukraine that “every country has the right to choose its international alliances,”
+      and that no other country has a veto over this. And of course, this rule extends
+      far beyond the U.S. and Latin America, or Russia and Ukraine. Whatever its legal
+      or moral “right,” Vietnam would be very ill-advised to join a military alliance
+      with the U.S. against China, as would Bangladesh if it joined a Chinese alliance
+      against India. Or as one Kazakh official once told me when the U.S. was seeking
+      a security relationship with his country, “Every sensible Kazakh has a map in
+      his head; and what that map shows is that Russia is there, and China is there,
+      and Kazakhstan is in the middle. And the U.S. is not on that map.”
+
+
+      The implacable U.S. goal of preventing a hostile military presence in the Americas
+      has been pursued by both Republican and Democratic administrations; and though
+      the result for populations in the region was often monstrous oppression and suffering,
+      this strategy did succeed in excluding potential military adversaries from America’s
+      neighborhood. No Latin American government today is dreaming of inviting the Chinese
+      or Russians to establish bases on their territories. Nor would Beijing and Moscow
+      accept such an invitation. For they all know very well how ferocious and overwhelming
+      would be the U.S. response.
+
+
+      That has not prevented actors in the U.S. from repeatedly using an alleged Soviet/Russian/Chinese
+      threat to argue U.S. policies that they have in fact sought for quite different
+      reasons. The single most dreadful example of this was the role of the United Fruit
+      Company and its allies in the Eisenhower administration in creating the 1954 coup
+      in Guatemala in order to block a moderate land reform, leading to a civil war
+      in which tens of thousands of indigenous Maya people were slaughtered by the U.S.-backed
+      military regime in what would today undoubtedly be called a “genocide.” The parallel
+      with Trump’s desire that U.S. corporations should develop Venezuela’s oil is all
+      too obvious.
+
+
+      Today, a non-existent “alliance” between the Venezuelan regime and China is being
+      used as an excuse for the overthrow of that regime; and the feral hostility of
+      the Cuba emigre lobby and its representatives in the U.S. administration to the
+      existing Cuban state has nothing to do with any real security threat from Cuba,
+      and everything with their own inherited hatreds and ambitions.
+
+
+      How much further will the Trump administration go? The “ Donroe Doctrine ” explicitly
+      returns to the “ Roosevelt Corollary ” of 1904 that expanded the Monroe Doctrine
+      to assert the U.S. right to exercise “international police power” to intervene
+      in the internal affairs of Latin American states if they show “chronic wrongdoing,
+      or an impotence which results in a general loosening of the ties of civilized
+      society.”
+
+
+      So far however, while Trump has declared that the U.S. will “ run Venezuela ,”
+      he has stopped short of previous U.S. administrations of the first half of the
+      20th century in that he has not sought to invade and occupy Venezuela. Instead,
+      the kidnapping of President Maduro seems intended to frighten the existing Venezuelan
+      regime into submitting to Trump’s will, especially when it comes to U.S. control
+      of Venezuela’s oil; not just for profit, but for leverage against Russia and China.
+      By cutting off much of Cuba’s oil imports, it might also enable the U.S. to starve
+      Cuba into surrender, allowing Secretary of State Marco Rubio’s relatives to return
+      “home” and regain the property that they lost in the Cuban Revolution.
+
+
+      The problem about trying to run client regimes in this way is: What do you do
+      if they threaten to collapse? This is the dilemma that the U.S. faced in Vietnam,
+      in Iran in 1979, and in Afghanistan by 2020, and the Soviet Union faced in Hungary,
+      Czechoslovakia and Afghanistan, and Russia faced in Ukraine in 2014. Double down
+      or quit? That is to say, allow your clients to collapse, with the resulting damage
+      to your interests and your “credibility,” or send in your own troops to try to
+      ensure their survival?
+
+
+      In the great majority of cases where the U.S. has chosen the latter course, the
+      results have been disastrous.
+
+
+      In one critical instance, the official statements of the Trump administration
+      go much further than the Roosevelt Corollary, which begins with “It is not true
+      that the United States feels any land hunger…as regards the other nations of the
+      Western Hemisphere” (though this would have come as a surprise to the Spanish
+      and Panamanians). Trump and senior Trump officials by contrast have repeatedly
+      emphasised their desire to annex Greenland and (less seriously) Canada . And Canada
+      and Denmark are neither enemies nor dysfunctional dictatorships, but successful
+      democracies and the closest of U.S. allies.
+
+
+      Trump and his team should take note of the Danish prime minister’s warning that
+      a seizure of Greenland would “end NATO.” They should also look at how the Russian
+      annexation of Crimea in 2014 destroyed any chance of continued Russian influence
+      over Ukraine; and how China’s demand for the whole of the South China Sea frightened
+      all of its neighbors, including ones previously well-disposed towards China.
+
+
+      China drove its neighbors into Washington’s arms. Trump risks driving America’s
+      neighbors into the arms of China. The Trump administration also needs to remember
+      that U.S. economic influence in Latin America is vastly reduced . Throughout the
+      20th century, the U.S. was by far the greatest trading partner and investor in
+      South America. Now it is China, which has also greatly increased its role in Central
+      America. This gives countries significant opportunities to resist U.S. economic
+      pressure; and if the U.S. tries to destroy their increasingly vital economic ties
+      with China, it will create a backlash that will undermine or even destroy its
+      sphere of influence.
+
+
+      Finally, there is an issue of diplomatic tone. It has often been said, and rightly,
+      that Russia weakened its influence over its neighbors by the bullying tone in
+      which its officials often stated Russian demands. Even Russian officials at their
+      worst however would be hard put to match the coarse, smirking arrogance of Stephen
+      Miller on the subject of the U.S. demand for Greenland. Miller clearly sees himself
+      as an old-style imperialist. He should read a real old imperialist, Rudyard Kipling:
+
+
+      “If, drunk with sight of power, we loose
+
+
+      Wild tongues that have not Thee in awe,
+
+
+      Such boastings as the Gentiles use,
+
+
+      Or lesser breeds without the Law—
+
+
+      Lord God of Hosts, be with us yet,
+
+
+      Lest we forget—lest we forget!”
+
+
+      (Kipling, Recessional)'
+    one_sentence_summary: The article critiques the Trump administration's approach
+      to foreign policy in the Western Hemisphere, arguing that its aggressive sphere
+      of influence strategies echo historical U.S. interventions while risking alienation
+      of neighboring countries and exacerbating tensions with global powers like China
+      and Russia.
+    paragraph_summary: The article discusses the concept of spheres of influence in
+      international relations, particularly focusing on U.S. foreign policy in the Western
+      Hemisphere under the Trump administration. It highlights the historical evolution
+      of the Monroe Doctrine, which initially aimed to prevent European powers from
+      colonizing the Americas but has since morphed into a strategy of excluding hostile
+      military alliances and exerting control over Latin American nations. The author
+      critiques the Trump administration's aggressive tactics, including economic sanctions
+      and threats against countries like Venezuela and Cuba, suggesting that these actions
+      are driven more by corporate interests than genuine security concerns. The article
+      warns that such heavy-handed approaches risk alienating U.S. allies and pushing
+      them closer to adversaries like China, while also noting the diminishing economic
+      influence of the U.S. in Latin America. The author concludes by emphasizing the
+      importance of diplomatic tone and the potential consequences of imperialistic
+      attitudes in shaping international relations.
+    published: '2026-01-08T05:05:03+00:00'
   - title: 'The 2025 NSS and Restraint: Experts React'
     url: https://quincyinst.org/research/the-2025-nss-and-restraint-experts-react/
     text: 'Overview On Dec. 4, 2025, the Trump administration published the 2025 National

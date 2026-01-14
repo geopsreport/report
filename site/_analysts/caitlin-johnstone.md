@@ -7,16 +7,1096 @@ description: "Australian satirical anti–war journalist; reader–funded Substa
 websites:
   - https://www.caitlinjohnst.one/
 summary: |
-  The first week of 2026 has seen the consolidation of US imperial policy under President Trump, renewed scrutiny of US interventionism in Venezuela, and ongoing controversy over Israel’s actions in Gaza and its international image.
+  The past days have seen a marked intensification of U.S. imperial activity, with new threats and interventions emerging across multiple regions. This escalation continues a trend that began in late 2023, as the U.S. under President Trump has adopted an increasingly aggressive posture, particularly in Latin America and the Middle East.
   
-  Recent developments highlight a shift in the US establishment’s attitude toward Trump’s leadership. As **Caitlin Johnstone** notes, “the US establishment is more accepting of Trump’s presidency this term because he has demonstrated his willingness to pursue imperial agendas,” a marked contrast to their earlier skepticism. This signals a high-confidence prediction that US foreign policy will continue to prioritize traditional imperial interests, regardless of presidential rhetoric or personality.
+  Most recently, **Caitlin Johnstone** highlights a disturbing pattern in Western media and policy circles: the tendency to portray populations in targeted nations as monolithic in their opposition to their governments. This narrative, she argues, serves to dehumanize diverse societies and justify interventionist policies. The reality, as Johnstone notes, is far more complex, with a wide spectrum of political beliefs existing within these countries.
   
-  In Latin America, the fallout from the US-led operation to abduct Venezuelan President Nicolás Maduro continues to reverberate. **Johnstone** argues the operation was “primarily motivated by the desire to seize Venezuela’s oil resources,” contradicting official narratives about democracy promotion. The majority of independent analysis agrees that US actions in Venezuela are less about ideology and more about resource control, with the Monroe Doctrine invoked as a pretext rather than a genuine guiding principle. This trend is expected to persist, with a high chance of ongoing US interference in the region.
+  Meanwhile, the U.S. has shifted its focus to Cuba, with Trump issuing public threats on social media and pressuring Havana to negotiate, leveraging claims that Venezuela’s oil supply will be cut off due to U.S. military support. This move is seen as part of a broader campaign to assert U.S. dominance in the region, following similar interventions in Venezuela and ongoing saber-rattling toward Iran. **Tim Foley** expresses growing anxiety over the “hyperactivity” of U.S. military interventions, noting the increased frequency and unpredictability of such actions compared to previous years.
   
-  Meanwhile, Israel’s ban on 37 international aid organizations—including Doctors Without Borders and Oxfam—from the Palestinian territories has drawn sharp criticism. According to **Johnstone**, these bans are “ostensibly to eliminate aid and suppress witnesses to its actions in Gaza,” amid a broader crackdown on international media and local journalists. The consensus among analysts is that Israel’s efforts to control the narrative and restrict outside scrutiny will intensify, with a high likelihood of further restrictions on both humanitarian and journalistic access.
+  The internal logic of U.S. imperialism is also under scrutiny. Johnstone argues that the establishment’s acceptance of Trump’s presidency in this term is rooted in his demonstrated willingness to pursue imperial agendas, a shift from earlier skepticism about his unpredictability. This suggests a convergence between Trump’s approach and longstanding U.S. foreign policy objectives, particularly regarding regime change and resource control.
   
-  Looking ahead, the prevailing trends point to a continued hardening of US and Israeli policies on the international stage. The US is most definitely set to maintain its interventionist posture, particularly in Latin America, while Israel is quite likely to escalate measures aimed at controlling information and limiting external oversight in Gaza. The confidence in these predictions is high, given the consistency of recent actions and the alignment of establishment interests.
+  Looking ahead, the majority view among analysts is that U.S. interventionism will continue to escalate, especially in Latin America and the Middle East. There is high confidence that the narrative of uniform opposition within targeted nations will persist in Western discourse, further entrenching support for aggressive policies. Unless there is significant public pushback, it is quite likely that militarization and authoritarian measures will intensify both abroad and at home. As Johnstone concludes, “these abuses will continue until people force them to stop.”
 articles:
+  - title: We're Always Told That Everyone In The Empire-Targeted Nation Hates Their
+      Government
+    url: https://www.caitlinjohnst.one/p/were-always-told-that-everyone-in
+    text: 'Reading by Tim Foley : Subscribe now The regime change supporter’s favorite
+      trick is to pretend the people in the targeted country are an ideological monolith.
+      All Iranians hate their government, all Venezuelans wanted freedom from Maduro,
+      etc. They do this constantly. Thing is, it requires them to dehumanize the very
+      population they’re claiming to care about. They need to pretend the people in
+      the empire-targeted nation are these weird creatures with some kind of Pluribus-style
+      alien brain virus that makes them all think the same as each other, unlike any
+      other human population they themselves have ever encountered. You have never been
+      to a country where everyone has the same attitude toward their government. Neither
+      have I. That would be freakish and abnormal. That’s not how humans are. But whenever
+      the warmongers are trying to make the case for US regime change interventionism
+      in a given nation, suddenly “the people” of that nation all have the exact same
+      political opinion, and they know what that opinion is, and they presume to speak
+      for all of them. Of course there are people in Iran who want their government
+      gone. There are also people in Iran who want their government to stay. That’s
+      normal. That’s how humans work. But whenever there’s a regime change intervention
+      to manufacture consent for we’re asked to believe the people have stopped acting
+      like humans and are now operating more like robots, or ants in an ant colony.
+      That’s what they’re saying when they tell you “Talk to Iranians”, you know. They’re
+      actually telling you to speak to a very specific faction of Iranians, and are
+      generally referring to the English-speaking diaspora whose family left the country
+      for a reason, who stand nothing to lose from American bombs landing on Tehran.
+      They frame it like it’s the unanimous consensus of all Iranians, but in actuality
+      they’re only talking about one specific political faction in one specific demographic.
+      Unlike the regime change fanatics, I personally do not presume to speak for all
+      Iranians. I see it as none of my business what they do in their own country with
+      regard to their own government, and trust them to sort out their own affairs.
+      I absolutely do see it as my business when my fellow westerners start clapping
+      along with the war drums and regurgitating justifications for western bombs to
+      land on a foreign country, however. That is who I am addressing in these posts.
+      That is where my criticisms are directed. ❖ CNN’s Van Jones is on Twitter claiming
+      that a “free, democratic Iran” would almost certainly “normalize ties with Israel”.
+      This is the same empire propagandist who recently came under fire for cracking
+      jokes about dead babies in Gaza. It’s so crazy to see imperial spinmeisters going
+      with this narrative. They’re trying to argue that Israel is actually quite popular
+      among the Iranian people, so when democracy comes to Iran they’d use their votes
+      to elect a government that wants to be Israel’s friend. I don’t think anyone honestly
+      believes that’s going to happen. I think we all know that all this talk about
+      freedom and democracy is just a ruse, and the actual plan is for the US and Israel
+      to back the overthrow of the Iranian government and then install a puppet regime
+      which subverts the will of the people, just like we’ve seen happen in all those
+      other monarchies and dictatorships in the region. They can’t allow democracy to
+      flourish in the middle east because the genocidal apartheid state of Israel is
+      very unpopular among the people who live there. All this talk about bringing freedom
+      and democracy to the Iranian people is a performance to manufacture consent for
+      more aggressive regime change interventionism, with no intention to actually allow
+      such a thing to emerge. It’s such an insult to our intelligence. But that really
+      is the claim underlying their entire argument. ❖ Whenever I oppose US/Israeli
+      regime change interventionism in Iran I get sleazy warmongers accusing me of telling
+      Iranians they should not protest. They need to lie and manipulate like this because
+      their position is not based on truth and morality. It’s none of my business what
+      Iranians do in their own country. It’s none of my business whether they oppose
+      their government or support it. When I say it’s wrong to cheerlead regime change
+      in Iran I am obviously addressing westerners and western states; if I was addressing
+      Iranians my posts would be in Persian. In our current situation it is impossible
+      for westerners to advocate regime change in Iran without feeding into the extremely
+      aggressive war propaganda campaign manufacturing support for US interventionism
+      in that country. You might claim you’re just “expressing solidarity” with Iranian
+      protesters or whatever phrasing makes you feel good about yourself, but what you
+      are actually doing is greasing the wheels of a propaganda campaign for military
+      action of potentially catastrophic consequence. There is no getting around this.
+      Them’s the facts, cupcake. You don’t get to uncouple your actions from their inevitable
+      results just because you don’t personally identify as a neoconservative warmonger.
+      You don’t get to separate your personal pro-regime change sentiments from the
+      regime change interventionism of your own government and its allies just because
+      it makes you feel like you’re a nice person. You’re a westerner, so your job is
+      to oppose the western interventionism that you know for a fact is in the works
+      in Iran. That is what truth and morality call us to do at this point in history.
+      _____________ Caitlin’s Newsletter is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber. The
+      best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article critiques the tendency of regime change advocates
+      to portray entire populations of targeted countries as having uniform political
+      beliefs, thereby dehumanizing them and ignoring the complex, diverse opinions
+      that exist within those societies.
+    paragraph_summary: In his article, Tim Foley critiques the tendency of regime change
+      advocates to portray the populations of targeted countries, such as Iran and Venezuela,
+      as having a uniform ideological stance against their governments. He argues that
+      this oversimplification dehumanizes these populations, reducing them to a monolithic
+      entity with a single political opinion, which is not reflective of the diverse
+      views present in any society. Foley emphasizes that while some individuals in
+      these countries may desire regime change, many others support their governments,
+      highlighting the complexity of human opinions and the dangers of assuming a consensus
+      where none exists. He points out that the voices often amplified by proponents
+      of intervention are typically from specific demographics, such as the English-speaking
+      diaspora, rather than representing the broader population's sentiments.
+    published: '2026-01-13T01:02:30+00:00'
+  - title: We're Always Told That Everyone In The Empire-Targeted Nation Hates Their
+      Government
+    url: https://www.caitlinjohnst.one/p/were-always-told-that-everyone-in
+    text: 'Reading by Tim Foley : Subscribe now The regime change supporter’s favorite
+      trick is to pretend the people in the targeted country are an ideological monolith.
+      All Iranians hate their government, all Venezuelans wanted freedom from Maduro,
+      etc. They do this constantly. Thing is, it requires them to dehumanize the very
+      population they’re claiming to care about. They need to pretend the people in
+      the empire-targeted nation are these weird creatures with some kind of Pluribus-style
+      alien brain virus that makes them all think the same as each other, unlike any
+      other human population they themselves have ever encountered. You have never been
+      to a country where everyone has the same attitude toward their government. Neither
+      have I. That would be freakish and abnormal. That’s not how humans are. But whenever
+      the warmongers are trying to make the case for US regime change interventionism
+      in a given nation, suddenly “the people” of that nation all have the exact same
+      political opinion, and they know what that opinion is, and they presume to speak
+      for all of them. Of course there are people in Iran who want their government
+      gone. There are also people in Iran who want their government to stay. That’s
+      normal. That’s how humans work. But whenever there’s a regime change intervention
+      to manufacture consent for we’re asked to believe the people have stopped acting
+      like humans and are now operating more like robots, or ants in an ant colony.
+      That’s what they’re saying when they tell you “Talk to Iranians”, you know. They’re
+      actually telling you to speak to a very specific faction of Iranians, and are
+      generally referring to the English-speaking diaspora whose family left the country
+      for a reason, who stand nothing to lose from American bombs landing on Tehran.
+      They frame it like it’s the unanimous consensus of all Iranians, but in actuality
+      they’re only talking about one specific political faction in one specific demographic.
+      Unlike the regime change fanatics, I personally do not presume to speak for all
+      Iranians. I see it as none of my business what they do in their own country with
+      regard to their own government, and trust them to sort out their own affairs.
+      I absolutely do see it as my business when my fellow westerners start clapping
+      along with the war drums and regurgitating justifications for western bombs to
+      land on a foreign country, however. That is who I am addressing in these posts.
+      That is where my criticisms are directed. ❖ CNN’s Van Jones is on Twitter claiming
+      that a “free, democratic Iran” would almost certainly “normalize ties with Israel”.
+      This is the same empire propagandist who recently came under fire for cracking
+      jokes about dead babies in Gaza. It’s so crazy to see imperial spinmeisters going
+      with this narrative. They’re trying to argue that Israel is actually quite popular
+      among the Iranian people, so when democracy comes to Iran they’d use their votes
+      to elect a government that wants to be Israel’s friend. I don’t think anyone honestly
+      believes that’s going to happen. I think we all know that all this talk about
+      freedom and democracy is just a ruse, and the actual plan is for the US and Israel
+      to back the overthrow of the Iranian government and then install a puppet regime
+      which subverts the will of the people, just like we’ve seen happen in all those
+      other monarchies and dictatorships in the region. They can’t allow democracy to
+      flourish in the middle east because the genocidal apartheid state of Israel is
+      very unpopular among the people who live there. All this talk about bringing freedom
+      and democracy to the Iranian people is a performance to manufacture consent for
+      more aggressive regime change interventionism, with no intention to actually allow
+      such a thing to emerge. It’s such an insult to our intelligence. But that really
+      is the claim underlying their entire argument. ❖ Whenever I oppose US/Israeli
+      regime change interventionism in Iran I get sleazy warmongers accusing me of telling
+      Iranians they should not protest. They need to lie and manipulate like this because
+      their position is not based on truth and morality. It’s none of my business what
+      Iranians do in their own country. It’s none of my business whether they oppose
+      their government or support it. When I say it’s wrong to cheerlead regime change
+      in Iran I am obviously addressing westerners and western states; if I was addressing
+      Iranians my posts would be in Persian. In our current situation it is impossible
+      for westerners to advocate regime change in Iran without feeding into the extremely
+      aggressive war propaganda campaign manufacturing support for US interventionism
+      in that country. You might claim you’re just “expressing solidarity” with Iranian
+      protesters or whatever phrasing makes you feel good about yourself, but what you
+      are actually doing is greasing the wheels of a propaganda campaign for military
+      action of potentially catastrophic consequence. There is no getting around this.
+      Them’s the facts, cupcake. You don’t get to uncouple your actions from their inevitable
+      results just because you don’t personally identify as a neoconservative warmonger.
+      You don’t get to separate your personal pro-regime change sentiments from the
+      regime change interventionism of your own government and its allies just because
+      it makes you feel like you’re a nice person. You’re a westerner, so your job is
+      to oppose the western interventionism that you know for a fact is in the works
+      in Iran. That is what truth and morality call us to do at this point in history.
+      _____________ Caitlin’s Newsletter is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber. The
+      best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article critiques the tendency of regime change advocates
+      to portray entire populations of targeted countries as having uniform political
+      beliefs, thereby dehumanizing them and ignoring the complex, diverse opinions
+      that exist within those societies.
+    paragraph_summary: In his article, Tim Foley critiques the tendency of regime change
+      advocates to portray the populations of targeted countries, such as Iran and Venezuela,
+      as having a uniform ideological stance against their governments. He argues that
+      this oversimplification dehumanizes these populations, reducing them to a monolithic
+      entity with a single political opinion, which is not reflective of the diverse
+      views present in any society. Foley emphasizes that while some individuals in
+      these countries may desire regime change, many others support their governments,
+      highlighting the complexity of human opinions and the dangers of assuming a consensus
+      where none exists. He points out that the voices often amplified by proponents
+      of intervention are typically from specific demographics, such as the English-speaking
+      diaspora, rather than representing the broader population's sentiments.
+    published: '2026-01-13T01:02:30+00:00'
+  - title: The Imperial Murder Machine Is In A State Of Hyperactivity
+    url: https://www.caitlinjohnst.one/p/the-imperial-murder-machine-is-in
+    text: 'Reading by Tim Foley : Subscribe now I hate this. I hate waiting for the
+      next imperial act of war. I hate having to be aware of sunrise time in Iran so
+      I can relax knowing they made it through another night without US airstrikes.
+      I hate having to wonder which empire-targeted population is going to get hit next.
+      The imperial murder machine has been so frenetically active these last few years.
+      When I first started writing about the US empire it was the beginning of Trump’s
+      first term, at a state of relative calm. There were mounting cold war tensions
+      with Russia and the US-backed Saudi atrocities in Yemen, a faltering dirty war
+      in Syria and a half-assed coup attempt in Venezuela, but these frenzied nonstop
+      regime change ops and brazen power grabs weren’t so much a thing back then. There
+      were days on end when there just wasn’t much to write about in terms of US warmongering.
+      I try to write something every day, so a lot of the time I’d wind up putting out
+      poems or articles about philosophy and spirituality, or just some observations
+      about US politics, because things simply were not as tense as they are now. That
+      went on for years. Then in 2022 all the brinkmanship with Russia erupted in the
+      Ukraine proxy war, and suddenly my audience started exploding, and I’ve been busy
+      ever since. In 2023 the Gaza holocaust began, and the US and Israel succeeded
+      in turning the enclave into a gravel parking lot with the still-developing goal
+      of ethnically cleansing the entire population. The decapitation of Hezbollah,
+      the rapidly accelerated assault on the West Bank, the fall of Assad, and the attacks
+      on Yemen and Iran advanced middle east agendas that the US and Israel had been
+      pursuing for years. Then they started moving the war machinery to Latin America
+      and eventually kidnapped Maduro, and then immediately shifted the imperial crosshairs
+      to Cuba. And now they’re doing everything they can to foment civil war in Iran,
+      with airstrikes from the Trump administration reported possible at any time. It’s
+      just been a nonstop onslaught. As soon as they knock out one disobedient government
+      or population, they’re on the to next. In the circles I move in you often hear
+      people talk about how the US empire is on its way out and getting weaker and weaker,
+      but I dunno man. It sure has racked up a lot of wins lately. Maybe they’re just
+      grabbing up as much global power as quickly as they can before things heat up
+      with China, but whatever the reason, they’re certainly not acting like they’ve
+      lost the ability to dominate world affairs right now. Whether they have or not,
+      the work remains the same: wake the public up to the unacceptable nature of the
+      empire, and to the truth that a better world is possible. We can use the power
+      of our numbers to stop these bastards and force the emergence of a healthy humanity,
+      and the first step is snapping our fellow citizens out of their propaganda-induced
+      coma so that they open their minds to the possibility of resistance. When all
+      is said and done, the empire managers only have as much power as we collectively
+      agree to let them have. ____________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: Tim Foley expresses his frustration with the relentless and
+      escalating nature of U.S. military interventions and imperialism, highlighting
+      the anxiety it causes him as he awaits the next act of war and reflects on the
+      increased frequency of such actions compared to previous years.
+    paragraph_summary: In his article, Tim Foley expresses his deep frustration and
+      anxiety over the escalating military actions and imperialism of the United States,
+      particularly in the Middle East and Latin America. He reflects on how the political
+      climate has shifted dramatically since the beginning of Trump's presidency, moving
+      from a relatively calm period to one characterized by relentless regime change
+      operations and military interventions. Foley highlights the intensification of
+      conflicts, such as the Ukraine war and the humanitarian crisis in Gaza, while
+      also noting the U.S.'s aggressive posturing towards countries like Iran and Venezuela.
+      He conveys a sense of dread about the future, as the U.S. continues to target
+      various populations and escalate its military presence globally, leaving him to
+      grapple with the implications of these actions on a daily basis.
+    published: '2026-01-12T11:21:40+00:00'
+  - title: The Imperial Murder Machine Is In A State Of Hyperactivity
+    url: https://www.caitlinjohnst.one/p/the-imperial-murder-machine-is-in
+    text: 'Reading by Tim Foley : Subscribe now I hate this. I hate waiting for the
+      next imperial act of war. I hate having to be aware of sunrise time in Iran so
+      I can relax knowing they made it through another night without US airstrikes.
+      I hate having to wonder which empire-targeted population is going to get hit next.
+      The imperial murder machine has been so frenetically active these last few years.
+      When I first started writing about the US empire it was the beginning of Trump’s
+      first term, at a state of relative calm. There were mounting cold war tensions
+      with Russia and the US-backed Saudi atrocities in Yemen, a faltering dirty war
+      in Syria and a half-assed coup attempt in Venezuela, but these frenzied nonstop
+      regime change ops and brazen power grabs weren’t so much a thing back then. There
+      were days on end when there just wasn’t much to write about in terms of US warmongering.
+      I try to write something every day, so a lot of the time I’d wind up putting out
+      poems or articles about philosophy and spirituality, or just some observations
+      about US politics, because things simply were not as tense as they are now. That
+      went on for years. Then in 2022 all the brinkmanship with Russia erupted in the
+      Ukraine proxy war, and suddenly my audience started exploding, and I’ve been busy
+      ever since. In 2023 the Gaza holocaust began, and the US and Israel succeeded
+      in turning the enclave into a gravel parking lot with the still-developing goal
+      of ethnically cleansing the entire population. The decapitation of Hezbollah,
+      the rapidly accelerated assault on the West Bank, the fall of Assad, and the attacks
+      on Yemen and Iran advanced middle east agendas that the US and Israel had been
+      pursuing for years. Then they started moving the war machinery to Latin America
+      and eventually kidnapped Maduro, and then immediately shifted the imperial crosshairs
+      to Cuba. And now they’re doing everything they can to foment civil war in Iran,
+      with airstrikes from the Trump administration reported possible at any time. It’s
+      just been a nonstop onslaught. As soon as they knock out one disobedient government
+      or population, they’re on the to next. In the circles I move in you often hear
+      people talk about how the US empire is on its way out and getting weaker and weaker,
+      but I dunno man. It sure has racked up a lot of wins lately. Maybe they’re just
+      grabbing up as much global power as quickly as they can before things heat up
+      with China, but whatever the reason, they’re certainly not acting like they’ve
+      lost the ability to dominate world affairs right now. Whether they have or not,
+      the work remains the same: wake the public up to the unacceptable nature of the
+      empire, and to the truth that a better world is possible. We can use the power
+      of our numbers to stop these bastards and force the emergence of a healthy humanity,
+      and the first step is snapping our fellow citizens out of their propaganda-induced
+      coma so that they open their minds to the possibility of resistance. When all
+      is said and done, the empire managers only have as much power as we collectively
+      agree to let them have. ____________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: Tim Foley expresses his frustration with the relentless and
+      escalating nature of U.S. military interventions and imperialism, highlighting
+      the anxiety it causes him as he awaits the next act of war and reflects on the
+      increased frequency of such actions compared to previous years.
+    paragraph_summary: In his article, Tim Foley expresses his deep frustration and
+      anxiety over the escalating military actions and imperialism of the United States,
+      particularly in the Middle East and Latin America. He reflects on how the political
+      climate has shifted dramatically since the beginning of Trump's presidency, moving
+      from a relatively calm period to one characterized by relentless regime change
+      operations and military interventions. Foley highlights the intensification of
+      conflicts, such as the Ukraine war and the humanitarian crisis in Gaza, while
+      also noting the U.S.'s aggressive posturing towards countries like Iran and Venezuela.
+      He conveys a sense of dread about the future, as the U.S. continues to target
+      various populations and escalate its military presence globally, leaving him to
+      grapple with the implications of these actions on a daily basis.
+    published: '2026-01-12T11:21:40+00:00'
+  - title: The Imperial Crosshairs Move To Cuba, And Other Notes
+    url: https://www.caitlinjohnst.one/p/the-imperial-crosshairs-move-to-cuba
+    text: 'Reading by Tim Foley : Subscribe now Trump is posting threats to Cuba on
+      his social media platforms, saying that Havana had better start negotiating with
+      Washington now that the US is in control of Venezuela, because their oil supply
+      is going to be cut off. The president said on Truth Social that “Venezuela now
+      has the United States of America, the most powerful military in the World (by
+      far!), to protect them, and protect them we will. THERE WILL BE NO MORE OIL OR
+      MONEY GOING TO CUBA — ZERO! I strongly suggest they make a deal, BEFORE IT IS
+      TOO LATE.” It’s incredible how rapidly the empire has been shoving through longstanding
+      regional domination agendas in the middle east and Latin America since late 2023.
+      Incinerating Gaza. Decapitating Hezbollah. Regime change in Syria. Bombings and
+      regime change ops in Iran. Kidnapping Maduro. Now moving on Cuba. It’s just been
+      grab, grab, grab for the last two plus years. ❖ Trumpers were sold the story that
+      their guy would fight the deep state globalists to benefit ordinary Americans.
+      Now he’s advancing every CIA/neocon agenda known to man in the middle east and
+      Latin America with the goal of global domination as life in the US gets worse
+      and worse. ❖ Don’t worry Americans, in 2028 you can elect a Democrat who will
+      spend their entire administration creating the desperate conditions and strife
+      which cause people to vote for tyrannical Republicans. ❖ Antiwar has an article
+      out titled “ Israeli Forces Kill 15 Palestinians, Including Five Children, in
+      Attacks Across Gaza ” about a spate of IDF attacks on Thursday. That death toll
+      is noteworthy because that’s the same number of people who were killed in the
+      Bondi Beach shooting last month, but, because they are Palestinian, you haven’t
+      seen any news stories about it. Fifteen people get killed in Sydney during a Hanukkah
+      celebration and it monopolizes the news cycle for days. Fifteen people get killed
+      in Gaza during a so-called “ceasefire” and it barely makes the news. ❖ Fuck Israel,
+      free Palestine. Say it loud and say it often, because you won’t have the right
+      to say it much longer. The more aggressively the Zionists try to stomp out criticism
+      of Israel the more necessary it is to aggressively criticize Israel. Now we’re
+      not just opposing genocidal atrocities, we’re also opposing a direct assault on
+      our own civil rights. ❖ I see some lefty types going “I oppose the US empire AND
+      the Iranian regime!” No, you support the US empire. If you desire the downfall
+      of the Iranian government in today’s present geopolitical reality, then you desire
+      the expansion of US imperial power. It doesn’t matter how much lip service you
+      pay to opposing the US murder machine if in practice you are promoting the agendas
+      of the worst warmongers in the DC swamp. There is at this time no way Tehran can
+      be toppled without the US-centralized empire inserting its rapey fingers into
+      whatever power structure would emerge from the wreckage. When you overthrow a
+      government you leave a power vacuum, and somebody’s going to step into it. There
+      is no clear movement, faction, or successor in Iran that is strong enough to secure
+      power against whichever group the empire throws its support behind, besides the
+      government that presently exists. This means the US empire would necessarily have
+      a very prominent seat at the table in whatever system of government might replace
+      the current one. If you are a western imperialist then this is no problem for
+      you; if you believe the US and its allies should rule the world then there is
+      no contradiction in your desiring regime change in Iran. If you identify as a
+      leftist, an anarchist, or an anti-imperialist however, there is no way to reconcile
+      your worldview with a desire to fulfill the wildest regime change fantasies of
+      every sociopathic intelligence agency and warmongering think tank in the western
+      world. The only way for such a character to avoid the cognitive dissonance of
+      these contradictions would be to pretend they live in an imaginary fantasy land
+      where the Iranian government could be overthrown without benefitting the US empire.
+      The Iranian people just oust their government all on their own, and then set up
+      a free liberal democracy that is entirely sovereign and independent from any external
+      power structure. That’s a fantasy. We do not live in that kind of world. We live
+      in the world that actually exists. It’s not okay to avoid addressing reality like
+      that. You can’t just close your eyes and put your fingers in your ears and pretend
+      the reality of our situation is different from what it actually is while helping
+      to advance immensely consequential agendas driven by the most powerful people
+      in the world. Being an authentic person means being real about reality and having
+      a truth-based relationship with the world as it actually is. I am not suggesting
+      that Iranians do not have legitimate and organic grievances against their government,
+      nor am I suggesting that they should not desire a different system of government
+      for themselves, nor am I suggesting that they should refrain from doing whatever
+      they think is best in their own country. What I am saying is that the westerners
+      who are cheerleading for regime change in Iran are cheerleading for the advancement
+      of the power structure under which they live, which also happens to be the most
+      powerful empire that has ever existed, which also happens to be the most murderous
+      and destructive power structure on earth. Enough with the phony neutrality. As
+      Desmond Tutu said, “If you are neutral in situations of injustice, you have chosen
+      the side of the oppressor. If an elephant has its foot on the tail of a mouse,
+      and you say that you are neutral, the mouse will not appreciate your neutrality.”
+      ______________ Caitlin’s Newsletter is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber. The
+      best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: Trump is threatening Cuba on social media, urging them to
+      negotiate with the U.S. as he claims Venezuela's oil supply will be cut off due
+      to U.S. military support, amidst a broader pattern of aggressive U.S. foreign
+      policy in Latin America and the Middle East since late 2023.
+    paragraph_summary: In a recent social media post, former President Donald Trump
+      threatened Cuba, urging the country to negotiate with the U.S. as American control
+      over Venezuela could lead to a cutoff of oil supplies to Cuba. He emphasized the
+      military strength of the U.S. and warned that there would be "ZERO" oil or money
+      going to Cuba unless a deal is reached soon. The article critiques the rapid advancement
+      of U.S. imperial agendas in the Middle East and Latin America since late 2023,
+      highlighting actions such as military interventions and regime changes. It also
+      reflects on the disillusionment of Trump's supporters, who were promised a fight
+      against globalist agendas, only to see him align with them. Additionally, it draws
+      attention to the disparity in media coverage of violence, noting that while the
+      deaths of Palestinians in Gaza receive little attention, similar incidents in
+      other contexts dominate headlines.
+    published: '2026-01-12T00:02:40+00:00'
+  - title: The Imperial Crosshairs Move To Cuba, And Other Notes
+    url: https://www.caitlinjohnst.one/p/the-imperial-crosshairs-move-to-cuba
+    text: 'Reading by Tim Foley : Subscribe now Trump is posting threats to Cuba on
+      his social media platforms, saying that Havana had better start negotiating with
+      Washington now that the US is in control of Venezuela, because their oil supply
+      is going to be cut off. The president said on Truth Social that “Venezuela now
+      has the United States of America, the most powerful military in the World (by
+      far!), to protect them, and protect them we will. THERE WILL BE NO MORE OIL OR
+      MONEY GOING TO CUBA — ZERO! I strongly suggest they make a deal, BEFORE IT IS
+      TOO LATE.” It’s incredible how rapidly the empire has been shoving through longstanding
+      regional domination agendas in the middle east and Latin America since late 2023.
+      Incinerating Gaza. Decapitating Hezbollah. Regime change in Syria. Bombings and
+      regime change ops in Iran. Kidnapping Maduro. Now moving on Cuba. It’s just been
+      grab, grab, grab for the last two plus years. ❖ Trumpers were sold the story that
+      their guy would fight the deep state globalists to benefit ordinary Americans.
+      Now he’s advancing every CIA/neocon agenda known to man in the middle east and
+      Latin America with the goal of global domination as life in the US gets worse
+      and worse. ❖ Don’t worry Americans, in 2028 you can elect a Democrat who will
+      spend their entire administration creating the desperate conditions and strife
+      which cause people to vote for tyrannical Republicans. ❖ Antiwar has an article
+      out titled “ Israeli Forces Kill 15 Palestinians, Including Five Children, in
+      Attacks Across Gaza ” about a spate of IDF attacks on Thursday. That death toll
+      is noteworthy because that’s the same number of people who were killed in the
+      Bondi Beach shooting last month, but, because they are Palestinian, you haven’t
+      seen any news stories about it. Fifteen people get killed in Sydney during a Hanukkah
+      celebration and it monopolizes the news cycle for days. Fifteen people get killed
+      in Gaza during a so-called “ceasefire” and it barely makes the news. ❖ Fuck Israel,
+      free Palestine. Say it loud and say it often, because you won’t have the right
+      to say it much longer. The more aggressively the Zionists try to stomp out criticism
+      of Israel the more necessary it is to aggressively criticize Israel. Now we’re
+      not just opposing genocidal atrocities, we’re also opposing a direct assault on
+      our own civil rights. ❖ I see some lefty types going “I oppose the US empire AND
+      the Iranian regime!” No, you support the US empire. If you desire the downfall
+      of the Iranian government in today’s present geopolitical reality, then you desire
+      the expansion of US imperial power. It doesn’t matter how much lip service you
+      pay to opposing the US murder machine if in practice you are promoting the agendas
+      of the worst warmongers in the DC swamp. There is at this time no way Tehran can
+      be toppled without the US-centralized empire inserting its rapey fingers into
+      whatever power structure would emerge from the wreckage. When you overthrow a
+      government you leave a power vacuum, and somebody’s going to step into it. There
+      is no clear movement, faction, or successor in Iran that is strong enough to secure
+      power against whichever group the empire throws its support behind, besides the
+      government that presently exists. This means the US empire would necessarily have
+      a very prominent seat at the table in whatever system of government might replace
+      the current one. If you are a western imperialist then this is no problem for
+      you; if you believe the US and its allies should rule the world then there is
+      no contradiction in your desiring regime change in Iran. If you identify as a
+      leftist, an anarchist, or an anti-imperialist however, there is no way to reconcile
+      your worldview with a desire to fulfill the wildest regime change fantasies of
+      every sociopathic intelligence agency and warmongering think tank in the western
+      world. The only way for such a character to avoid the cognitive dissonance of
+      these contradictions would be to pretend they live in an imaginary fantasy land
+      where the Iranian government could be overthrown without benefitting the US empire.
+      The Iranian people just oust their government all on their own, and then set up
+      a free liberal democracy that is entirely sovereign and independent from any external
+      power structure. That’s a fantasy. We do not live in that kind of world. We live
+      in the world that actually exists. It’s not okay to avoid addressing reality like
+      that. You can’t just close your eyes and put your fingers in your ears and pretend
+      the reality of our situation is different from what it actually is while helping
+      to advance immensely consequential agendas driven by the most powerful people
+      in the world. Being an authentic person means being real about reality and having
+      a truth-based relationship with the world as it actually is. I am not suggesting
+      that Iranians do not have legitimate and organic grievances against their government,
+      nor am I suggesting that they should not desire a different system of government
+      for themselves, nor am I suggesting that they should refrain from doing whatever
+      they think is best in their own country. What I am saying is that the westerners
+      who are cheerleading for regime change in Iran are cheerleading for the advancement
+      of the power structure under which they live, which also happens to be the most
+      powerful empire that has ever existed, which also happens to be the most murderous
+      and destructive power structure on earth. Enough with the phony neutrality. As
+      Desmond Tutu said, “If you are neutral in situations of injustice, you have chosen
+      the side of the oppressor. If an elephant has its foot on the tail of a mouse,
+      and you say that you are neutral, the mouse will not appreciate your neutrality.”
+      ______________ Caitlin’s Newsletter is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber. The
+      best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: Trump is threatening Cuba on social media, urging them to
+      negotiate with the U.S. as he claims Venezuela's oil supply will be cut off due
+      to U.S. military support, amidst a broader pattern of aggressive U.S. foreign
+      policy in Latin America and the Middle East since late 2023.
+    paragraph_summary: In a recent social media post, former President Donald Trump
+      threatened Cuba, urging the country to negotiate with the U.S. as American control
+      over Venezuela could lead to a cutoff of oil supplies to Cuba. He emphasized the
+      military strength of the U.S. and warned that there would be "ZERO" oil or money
+      going to Cuba unless a deal is reached soon. The article critiques the rapid advancement
+      of U.S. imperial agendas in the Middle East and Latin America since late 2023,
+      highlighting actions such as military interventions and regime changes. It also
+      reflects on the disillusionment of Trump's supporters, who were promised a fight
+      against globalist agendas, only to see him align with them. Additionally, it draws
+      attention to the disparity in media coverage of violence, noting that while the
+      deaths of Palestinians in Gaza receive little attention, similar incidents in
+      other contexts dominate headlines.
+    published: '2026-01-12T00:02:40+00:00'
+  - title: You Can't Cheer For Regime Change In Iran Without Also Cheering For The US
+      Empire
+    url: https://www.caitlinjohnst.one/p/you-cant-cheer-for-regime-change
+    text: 'Reading by Tim Foley : Subscribe now The western press are reporting that
+      Trump is considering another attack on Iran as protests heat up amid a government
+      crackdown and internet blackout . The president had previously announced that
+      he will intervene militarily if the Iranian government starts killing protesters.
+      At this point it’s probably worth recalling that earlier this month Mike Pompeo
+      tweeted that Mossad agents were intimately involved in the unrest, saying, “Happy
+      New Year to every Iranian in the streets. Also to every Mossad agent walking beside
+      them.” Pompeo was secretary of state during Trump’s first term, and was Trump’s
+      CIA director prior to that. The claim that Mossad agents are active among the
+      protesters has also been circulated by the Israeli press . As secretary of state,
+      Pompeo said during a 2020 interview that the goal of the crushing sanctions the
+      US had imposed on Iran was not to pressure the Iranian government to change, but
+      to pressure the Iranian people to change the government. He told former acting
+      CIA director Mike Morrell that while he didn’t expect the sanctions to change
+      Tehran’s behavior, he believed that “what can change is the people can change
+      the government.” Pompeo was confessing that Washington’s starvation sanctions
+      were directed not at the Iranian government, but at the people of Iran. The goal
+      has been to make them so miserable and impoverished that they turn to civil war
+      against their government out of desperation. Economic strife is widely cited as
+      a driving motivator for the protests. Deliberately immiserating a population in
+      order to cause a civil war is a profoundly evil thing to do. And it becomes all
+      the more evil when you understand that it is only being done for power and geostrategic
+      domination. If you think of yourself as a leftist or an opponent of the US murder
+      machine, there is no valid excuse for you to support regime change in Iran. It’s
+      not okay to be a grown adult and pretend this is all happening in a vacuum like
+      it’s somehow separate from all these foreign abuses that have been calculatingly
+      engineered to give rise to the unrest we are seeing in Iran today, and act like
+      this wouldn’t directly benefit the most murderous and tyrannical regime on this
+      planet. I find it so offensive when I see anarkiddies and NATO progressives supporting
+      the regime change agendas of the CIA and the Pentagon like it somehow makes the
+      world less tyrannical when yet another nation gets absorbed into the folds of
+      the imperial blob. If they do get their wish and Tehran is toppled, all that will
+      happen is that the US-centralized empire will gain that much more power and the
+      worst people on earth will get big smiles on their faces. It gives the most powerful
+      and destructive power structure on earth even more control over the fate of our
+      species, and these infantile human livestock are clapping along with it and pretending
+      they’re sticking it to the man. It’s a completely nonsensical position to support
+      the downfall of any government before the fall of the western empire, because
+      that is the most deadly and abusive power structure in existence, and because
+      it directly benefits whenever it succeeds in absorbing a noncompliant state into
+      its power umbrella. If you actually oppose tyranny and support freedom, it’s absurd
+      to desire the fall of the empire’s enemies while the empire itself remains standing,
+      because every win for the empire makes the world less free. I don’t know what’s
+      going to happen in Iran, but I hope the empire fails its regime change operation.
+      I hope the western empire gets weaker, not stronger, because it is only getting
+      more and more despotic and deadly as the years go on, and the last thing we need
+      is for it to shore up even more control over our planet. Humanity won’t have a
+      shot at real freedom until that power structure has been thoroughly dismantled.
+      __________________ Caitlin’s Newsletter is a reader-supported publication. To
+      receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article discusses reports that Trump is contemplating
+      military action against Iran amid escalating protests and government crackdowns,
+      while referencing Mike Pompeo's claims about Mossad's involvement in the unrest.
+    paragraph_summary: The article discusses the potential for renewed U.S. military
+      intervention in Iran as protests against the government escalate amid a crackdown
+      and internet blackout. Former Secretary of State Mike Pompeo's comments about
+      Mossad agents being involved in the protests and the U.S. sanctions aimed at pressuring
+      the Iranian populace to instigate regime change are highlighted. The author critiques
+      the moral implications of using economic strife to incite civil unrest, arguing
+      that such tactics are profoundly unethical and driven by a desire for power and
+      geostrategic dominance. The piece calls for a reevaluation of support for regime
+      change in Iran, particularly among those who oppose U.S. military aggression.
+    published: '2026-01-11T12:18:33+00:00'
+  - title: You Can't Cheer For Regime Change In Iran Without Also Cheering For The US
+      Empire
+    url: https://www.caitlinjohnst.one/p/you-cant-cheer-for-regime-change
+    text: 'Reading by Tim Foley : Subscribe now The western press are reporting that
+      Trump is considering another attack on Iran as protests heat up amid a government
+      crackdown and internet blackout . The president had previously announced that
+      he will intervene militarily if the Iranian government starts killing protesters.
+      At this point it’s probably worth recalling that earlier this month Mike Pompeo
+      tweeted that Mossad agents were intimately involved in the unrest, saying, “Happy
+      New Year to every Iranian in the streets. Also to every Mossad agent walking beside
+      them.” Pompeo was secretary of state during Trump’s first term, and was Trump’s
+      CIA director prior to that. The claim that Mossad agents are active among the
+      protesters has also been circulated by the Israeli press . As secretary of state,
+      Pompeo said during a 2020 interview that the goal of the crushing sanctions the
+      US had imposed on Iran was not to pressure the Iranian government to change, but
+      to pressure the Iranian people to change the government. He told former acting
+      CIA director Mike Morrell that while he didn’t expect the sanctions to change
+      Tehran’s behavior, he believed that “what can change is the people can change
+      the government.” Pompeo was confessing that Washington’s starvation sanctions
+      were directed not at the Iranian government, but at the people of Iran. The goal
+      has been to make them so miserable and impoverished that they turn to civil war
+      against their government out of desperation. Economic strife is widely cited as
+      a driving motivator for the protests. Deliberately immiserating a population in
+      order to cause a civil war is a profoundly evil thing to do. And it becomes all
+      the more evil when you understand that it is only being done for power and geostrategic
+      domination. If you think of yourself as a leftist or an opponent of the US murder
+      machine, there is no valid excuse for you to support regime change in Iran. It’s
+      not okay to be a grown adult and pretend this is all happening in a vacuum like
+      it’s somehow separate from all these foreign abuses that have been calculatingly
+      engineered to give rise to the unrest we are seeing in Iran today, and act like
+      this wouldn’t directly benefit the most murderous and tyrannical regime on this
+      planet. I find it so offensive when I see anarkiddies and NATO progressives supporting
+      the regime change agendas of the CIA and the Pentagon like it somehow makes the
+      world less tyrannical when yet another nation gets absorbed into the folds of
+      the imperial blob. If they do get their wish and Tehran is toppled, all that will
+      happen is that the US-centralized empire will gain that much more power and the
+      worst people on earth will get big smiles on their faces. It gives the most powerful
+      and destructive power structure on earth even more control over the fate of our
+      species, and these infantile human livestock are clapping along with it and pretending
+      they’re sticking it to the man. It’s a completely nonsensical position to support
+      the downfall of any government before the fall of the western empire, because
+      that is the most deadly and abusive power structure in existence, and because
+      it directly benefits whenever it succeeds in absorbing a noncompliant state into
+      its power umbrella. If you actually oppose tyranny and support freedom, it’s absurd
+      to desire the fall of the empire’s enemies while the empire itself remains standing,
+      because every win for the empire makes the world less free. I don’t know what’s
+      going to happen in Iran, but I hope the empire fails its regime change operation.
+      I hope the western empire gets weaker, not stronger, because it is only getting
+      more and more despotic and deadly as the years go on, and the last thing we need
+      is for it to shore up even more control over our planet. Humanity won’t have a
+      shot at real freedom until that power structure has been thoroughly dismantled.
+      __________________ Caitlin’s Newsletter is a reader-supported publication. To
+      receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article discusses reports that Trump is contemplating
+      military action against Iran amid escalating protests and government crackdowns,
+      while referencing Mike Pompeo's claims about Mossad's involvement in the unrest.
+    paragraph_summary: The article discusses the potential for renewed U.S. military
+      intervention in Iran as protests against the government escalate amid a crackdown
+      and internet blackout. Former Secretary of State Mike Pompeo's comments about
+      Mossad agents being involved in the protests and the U.S. sanctions aimed at pressuring
+      the Iranian populace to instigate regime change are highlighted. The author critiques
+      the moral implications of using economic strife to incite civil unrest, arguing
+      that such tactics are profoundly unethical and driven by a desire for power and
+      geostrategic dominance. The piece calls for a reevaluation of support for regime
+      change in Iran, particularly among those who oppose U.S. military aggression.
+    published: '2026-01-11T12:18:33+00:00'
+  - title: These Abuses Will Continue Until People Force Them To Stop
+    url: https://www.caitlinjohnst.one/p/these-abuses-will-continue-until
+    text: 'Reading by Tim Foley : Subscribe now All these abuses are going to continue
+      until the people rise up and force them to stop. Western governments are going
+      to get more and more authoritarian. Police forces are going to get more and more
+      militarized and murderous. Freedom of speech is going to be crushed with more
+      and more aggression. Military budgets are going to get more and more bloated.
+      The imperial war machine is going to get more and more belligerent, genocidal
+      and expansionist. The gap between the rich and the poor is going to keep growing
+      and growing. People are going to get more and more miserable and mentally unhealthy.
+      The systems we use to gather information about our world are going to get more
+      and more tightly controlled by the powerful. The extraction of resources and labor
+      from the global south will get more and more abusive and overt. The biosphere
+      we depend on for survival is going to get closer and closer to death. How do we
+      know this will happen? Because that’s all that’s been happening. This is all the
+      US-led capitalist world order has ever been doing. This is all they have to offer
+      us. More and more murder and abuse is the only item on the menu we’ve been handed.
+      We can’t vote our way out of this dilemma. How do we know? Because we’ve been
+      trying to vote our way out of it for generations. One party does evil things,
+      then people vote in the other party to get away from the evil and the new party
+      does evil things, then they try the other evil party again, etc, etc, etc. The
+      whole system is locked down. The abuses have been baked into the cake. Everything
+      about our civilization has been rigged to ensure the wealthy and powerful get
+      more and more wealth and power while everyone else gets more and more poverty,
+      exhaustion, ignorance, and insanity. The only unlocked door out of this dystopian
+      nightmare is the people using the power of their numbers to force real change.
+      There are a whole lot more of us than there are of the tyrants who are inflicting
+      these abuses upon our world, and they know it, and they fear us. They know they
+      can’t murder and imprison us all. They know they’re out of here as soon as we
+      decide revolution is preferable to tolerating their abuse. We can take the steering
+      wheel out of their hands whenever we want. We don’t have to ask. We can just take
+      it. There are too many of us, and too few of them. I’m just going to keep pointing
+      this out until I see it move into the forefront of our society’s awareness. __________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article by Tim Foley argues that without a significant
+      uprising from the populace, Western governments will increasingly adopt authoritarian
+      measures, leading to heightened militarization, suppression of free speech, growing
+      inequality, and environmental degradation.
+    paragraph_summary: In his article, Tim Foley argues that systemic abuses and authoritarianism
+      in Western governments will persist unless the populace rises up to demand change.
+      He highlights the increasing militarization of police, the erosion of free speech,
+      escalating military budgets, and the widening gap between the rich and poor, all
+      of which contribute to societal misery and mental health decline. Foley asserts
+      that traditional voting has failed to address these issues, as both major political
+      parties perpetuate cycles of harm and exploitation. He emphasizes that true change
+      can only come from collective action by the people, who outnumber the elites perpetuating
+      this oppressive system.
+    published: '2026-01-09T00:55:18+00:00'
+  - title: These Abuses Will Continue Until People Force Them To Stop
+    url: https://www.caitlinjohnst.one/p/these-abuses-will-continue-until
+    text: 'Reading by Tim Foley : Subscribe now All these abuses are going to continue
+      until the people rise up and force them to stop. Western governments are going
+      to get more and more authoritarian. Police forces are going to get more and more
+      militarized and murderous. Freedom of speech is going to be crushed with more
+      and more aggression. Military budgets are going to get more and more bloated.
+      The imperial war machine is going to get more and more belligerent, genocidal
+      and expansionist. The gap between the rich and the poor is going to keep growing
+      and growing. People are going to get more and more miserable and mentally unhealthy.
+      The systems we use to gather information about our world are going to get more
+      and more tightly controlled by the powerful. The extraction of resources and labor
+      from the global south will get more and more abusive and overt. The biosphere
+      we depend on for survival is going to get closer and closer to death. How do we
+      know this will happen? Because that’s all that’s been happening. This is all the
+      US-led capitalist world order has ever been doing. This is all they have to offer
+      us. More and more murder and abuse is the only item on the menu we’ve been handed.
+      We can’t vote our way out of this dilemma. How do we know? Because we’ve been
+      trying to vote our way out of it for generations. One party does evil things,
+      then people vote in the other party to get away from the evil and the new party
+      does evil things, then they try the other evil party again, etc, etc, etc. The
+      whole system is locked down. The abuses have been baked into the cake. Everything
+      about our civilization has been rigged to ensure the wealthy and powerful get
+      more and more wealth and power while everyone else gets more and more poverty,
+      exhaustion, ignorance, and insanity. The only unlocked door out of this dystopian
+      nightmare is the people using the power of their numbers to force real change.
+      There are a whole lot more of us than there are of the tyrants who are inflicting
+      these abuses upon our world, and they know it, and they fear us. They know they
+      can’t murder and imprison us all. They know they’re out of here as soon as we
+      decide revolution is preferable to tolerating their abuse. We can take the steering
+      wheel out of their hands whenever we want. We don’t have to ask. We can just take
+      it. There are too many of us, and too few of them. I’m just going to keep pointing
+      this out until I see it move into the forefront of our society’s awareness. __________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article by Tim Foley argues that without a significant
+      uprising from the populace, Western governments will increasingly adopt authoritarian
+      measures, leading to heightened militarization, suppression of free speech, growing
+      inequality, and environmental degradation.
+    paragraph_summary: In his article, Tim Foley argues that systemic abuses and authoritarianism
+      in Western governments will persist unless the populace rises up to demand change.
+      He highlights the increasing militarization of police, the erosion of free speech,
+      escalating military budgets, and the widening gap between the rich and poor, all
+      of which contribute to societal misery and mental health decline. Foley asserts
+      that traditional voting has failed to address these issues, as both major political
+      parties perpetuate cycles of harm and exploitation. He emphasizes that true change
+      can only come from collective action by the people, who outnumber the elites perpetuating
+      this oppressive system.
+    published: '2026-01-09T00:55:18+00:00'
+  - title: The Real Tyrannical Regime
+    url: https://www.caitlinjohnst.one/p/the-real-tyrannical-regime
+    text: 'Reading by Tim Foley : Subscribe now Right wingers are like “Listen to Venezuelans!
+      No, not the Venezuelans in the streets demanding Maduro’s return . No, not the
+      polls saying most people in Venezuela oppose US regime change. Those are the wrong
+      Venezuelans. I meant listen to the Venezuelan talking to Fox News from his mansion
+      in Miami.” They’re like, “Trump needed to invade Venezuela and abduct its president
+      because otherwise that poor country would be victimized by the whims of a despotic
+      tyrant!” Actually fellas I’m pretty sure the real tyrannical regime is the one
+      who’s claiming the entire western hemisphere is their personal property and they
+      get to control what happens in every country on half the planet. Pretty sure what’s
+      tyrannical is invading a country, murdering scores of people, and abducting its
+      leader in order to steal control of its resources. I kinda think the real tyrant
+      on the scene is whoever’s trying to rule the world and aggressively targeting
+      any country anywhere on the planet that resists that agenda. Like maybe a really
+      good example of tyranny would be constantly toppling governments and starting
+      wars of aggression and targeting civilian populations with starvation sanctions
+      and waging proxy conflicts and dropping bombs and interfering in elections and
+      circling the planet with hundreds of military bases and working to kill, subvert
+      and subjugate any population anywhere on earth if they disobey your commands.
+      Pretty sure the tyrant we actually need to worry about is whoever’s doing that.
+      ❖ Gotta wash my hair, if it gets any more oily I’ll have Delta Force breaking
+      down my door to steal it. ❖ Democrats spent more than a decade saying Trump is
+      an evil fascist and then when he invades a sovereign country and abducts its leader
+      all they’ve got to say is oh gosh I wish he’d been more polite about it, he shoulda
+      asked Congress first. They’re just Trump with a rainbow flag. ❖ So let’s recap:
+      Russia invades Ukraine claiming there’s a NATO proxy force directly on its border
+      = Crazy. Evil. Worse than Hitler. US invades Venezuela claiming China is making
+      energy deals there thousands of miles from the US border = Fine. Normal. Monroe
+      Doctrine. Just wish he’d asked Congress. ❖ This macho “FUCK YEAH! AMERICA! TAKE
+      THEIR OIL!” jingoism from right wing pundits like Nick Fuentes , Matt Walsh and
+      Tim Pool feels planned. It’s too perfectly aligned with the rebranding of the
+      Department of Defense as the Department of War and all Hegseth’s sloganeering
+      about having a mega badass military with FAFO lethality. It appears to be a deliberately
+      crafted PR campaign to get the MAGA crowd fully on board with the US military
+      interventionism which Trump had previously campaigned against. This is happening
+      for a reason. The empire has agendas planned. The warmongers are already openly
+      salivating for regime change in Iran and Cuba. With the anti-interventionist streak
+      in Trump’s base brought on board with easy in-and-out attacks like bombing Iranian
+      energy infrastructure and kidnapping the Venezuelan president, they can now be
+      expected to be much more supportive of more high-cost interventions going forward.
+      This is exactly how Kuwait was used, by the way. After the Gulf War the elder
+      President Bush famously proclaimed “It’s a proud day for America, and by God we’ve
+      kicked the Vietnam syndrome once and for all.” Vietnam syndrome referred to the
+      general war-weariness of the American public after the nightmare of the Vietnam
+      War. Bush was saying that the Gulf War had shown Americans that wars can actually
+      be easy, straightforward victories rather than costly, horrific quagmires, so
+      they’d be more willing to support going to war in the future. We all know what
+      happened after that. The first war with Iraq went so great that the entire nation
+      signed off on doing it again, pushing on to regime change this time. That was
+      of course a complete disaster, and we seem to be ramping up for something like
+      that again. ❖ I’ve seen a lot of people comparing the ICE shooting in Minneapolis
+      to the abuses we see from the IDF, and I totally get why they are doing this,
+      but it’s important to be aware that while this kind of thing is very Israeli,
+      it’s also very, VERY American. _______________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: The article critiques right-wing narratives that support U.S.
+      intervention in Venezuela, arguing that true tyranny lies in the imperialistic
+      actions of those advocating for regime change rather than in the Venezuelan government
+      itself.
+    paragraph_summary: In his article, Tim Foley critiques right-wing narratives surrounding
+      U.S. intervention in Venezuela, arguing that they selectively amplify the voices
+      of Venezuelans who support regime change while ignoring the majority who oppose
+      it. He contends that the true tyranny lies not in Venezuela under Maduro, but
+      in the U.S. government's aggressive foreign policy, which includes invading countries,
+      toppling governments, and imposing sanctions that harm civilian populations. Foley
+      also highlights the hypocrisy of Democrats who criticize Trump for his actions
+      in Venezuela, suggesting that their objections are merely about the manner of
+      intervention rather than the intervention itself. He concludes by drawing a parallel
+      to Russia's invasion of Ukraine, emphasizing the dangers of imperialistic behavior
+      in global politics.
+    published: '2026-01-08T12:54:39+00:00'
+  - title: The Real Tyrannical Regime
+    url: https://www.caitlinjohnst.one/p/the-real-tyrannical-regime
+    text: 'Reading by Tim Foley : Subscribe now Right wingers are like “Listen to Venezuelans!
+      No, not the Venezuelans in the streets demanding Maduro’s return . No, not the
+      polls saying most people in Venezuela oppose US regime change. Those are the wrong
+      Venezuelans. I meant listen to the Venezuelan talking to Fox News from his mansion
+      in Miami.” They’re like, “Trump needed to invade Venezuela and abduct its president
+      because otherwise that poor country would be victimized by the whims of a despotic
+      tyrant!” Actually fellas I’m pretty sure the real tyrannical regime is the one
+      who’s claiming the entire western hemisphere is their personal property and they
+      get to control what happens in every country on half the planet. Pretty sure what’s
+      tyrannical is invading a country, murdering scores of people, and abducting its
+      leader in order to steal control of its resources. I kinda think the real tyrant
+      on the scene is whoever’s trying to rule the world and aggressively targeting
+      any country anywhere on the planet that resists that agenda. Like maybe a really
+      good example of tyranny would be constantly toppling governments and starting
+      wars of aggression and targeting civilian populations with starvation sanctions
+      and waging proxy conflicts and dropping bombs and interfering in elections and
+      circling the planet with hundreds of military bases and working to kill, subvert
+      and subjugate any population anywhere on earth if they disobey your commands.
+      Pretty sure the tyrant we actually need to worry about is whoever’s doing that.
+      ❖ Gotta wash my hair, if it gets any more oily I’ll have Delta Force breaking
+      down my door to steal it. ❖ Democrats spent more than a decade saying Trump is
+      an evil fascist and then when he invades a sovereign country and abducts its leader
+      all they’ve got to say is oh gosh I wish he’d been more polite about it, he shoulda
+      asked Congress first. They’re just Trump with a rainbow flag. ❖ So let’s recap:
+      Russia invades Ukraine claiming there’s a NATO proxy force directly on its border
+      = Crazy. Evil. Worse than Hitler. US invades Venezuela claiming China is making
+      energy deals there thousands of miles from the US border = Fine. Normal. Monroe
+      Doctrine. Just wish he’d asked Congress. ❖ This macho “FUCK YEAH! AMERICA! TAKE
+      THEIR OIL!” jingoism from right wing pundits like Nick Fuentes , Matt Walsh and
+      Tim Pool feels planned. It’s too perfectly aligned with the rebranding of the
+      Department of Defense as the Department of War and all Hegseth’s sloganeering
+      about having a mega badass military with FAFO lethality. It appears to be a deliberately
+      crafted PR campaign to get the MAGA crowd fully on board with the US military
+      interventionism which Trump had previously campaigned against. This is happening
+      for a reason. The empire has agendas planned. The warmongers are already openly
+      salivating for regime change in Iran and Cuba. With the anti-interventionist streak
+      in Trump’s base brought on board with easy in-and-out attacks like bombing Iranian
+      energy infrastructure and kidnapping the Venezuelan president, they can now be
+      expected to be much more supportive of more high-cost interventions going forward.
+      This is exactly how Kuwait was used, by the way. After the Gulf War the elder
+      President Bush famously proclaimed “It’s a proud day for America, and by God we’ve
+      kicked the Vietnam syndrome once and for all.” Vietnam syndrome referred to the
+      general war-weariness of the American public after the nightmare of the Vietnam
+      War. Bush was saying that the Gulf War had shown Americans that wars can actually
+      be easy, straightforward victories rather than costly, horrific quagmires, so
+      they’d be more willing to support going to war in the future. We all know what
+      happened after that. The first war with Iraq went so great that the entire nation
+      signed off on doing it again, pushing on to regime change this time. That was
+      of course a complete disaster, and we seem to be ramping up for something like
+      that again. ❖ I’ve seen a lot of people comparing the ICE shooting in Minneapolis
+      to the abuses we see from the IDF, and I totally get why they are doing this,
+      but it’s important to be aware that while this kind of thing is very Israeli,
+      it’s also very, VERY American. _______________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: The article critiques right-wing narratives that support U.S.
+      intervention in Venezuela, arguing that true tyranny lies in the imperialistic
+      actions of those advocating for regime change rather than in the Venezuelan government
+      itself.
+    paragraph_summary: In his article, Tim Foley critiques right-wing narratives surrounding
+      U.S. intervention in Venezuela, arguing that they selectively amplify the voices
+      of Venezuelans who support regime change while ignoring the majority who oppose
+      it. He contends that the true tyranny lies not in Venezuela under Maduro, but
+      in the U.S. government's aggressive foreign policy, which includes invading countries,
+      toppling governments, and imposing sanctions that harm civilian populations. Foley
+      also highlights the hypocrisy of Democrats who criticize Trump for his actions
+      in Venezuela, suggesting that their objections are merely about the manner of
+      intervention rather than the intervention itself. He concludes by drawing a parallel
+      to Russia's invasion of Ukraine, emphasizing the dangers of imperialistic behavior
+      in global politics.
+    published: '2026-01-08T12:54:39+00:00'
+  - title: American Conservatives Are Disgusting Frauds
+    url: https://www.caitlinjohnst.one/p/american-conservatives-are-disgusting
+    text: 'Reading by Tim Foley : Subscribe now After spending days enthusiastically
+      applauding Trump’s freakish act of imperialist aggression to oust the president
+      of Venezuela on the grounds that he is a murderous tyrant, Republicans in the
+      United States are falling all over themselves to justify the cold-blooded murder
+      of a mother of three by an ICE officer in Minneapolis. The shooting was caught
+      on video from multiple angles , and from every angle it looks completely unjustifiable
+      by the standards of any normal human being. The officer will probably get off
+      using the usual “feared for his life” defense claiming that he believed the woman
+      was going to run him over with her car. But when you’re repeatedly firing your
+      pistol into the side window of the vehicle , you know you’re not in any danger
+      of being run over. He tracked her head with his gun well after he was out of harm’s
+      way and pulled the trigger anyway, firing at the side of her head from the side
+      of the vehicle. As one libertarian commentator noted , it was “Less a ‘she did
+      X so I have to shoot her,’ and more of ‘she did X so I get to shoot her.’” And
+      yet this killing is being treated as a partisan issue, with leftists and Democrats
+      denouncing the actions of the shooter and rightists ferociously defending them.
+      The president himself took the time to weigh in on this one, falsely claiming
+      on Truth Social that the woman “ran over the ICE Officer” and that “it is hard
+      to believe he is alive, but is now recovering in the hospital.” Anyone watching
+      the videos can see this is a lie. As Brad Reed notes for Common Dreams , “Eyewitness
+      videos taken at the scene of the incident, however, do not show the officer getting
+      run over at all. In fact, the officer can be seen walking around after discharging
+      his weapon, with no signs of any injury. In fact, the video Trump posted on his
+      Truth Social that he claims shows the officer being run over does not at all show
+      the officer being run over, but rather stepping safely out of the way as the car
+      starts moving forward.” American conservatives are such gross frauds. They pretend
+      to oppose tyranny but start frantically licking boots whenever there’s a police
+      shooting. They pretend to oppose war and applaud Trump’s warmongering. They pretend
+      to be Christian and ignore most of the New Testament. They pretend to support
+      freedom of speech and then support Trump stomping out speech that is critical
+      of Israel. They pretend to support the rule of law and then applaud when Trump
+      openly kidnaps the president of a sovereign nation to steal its oil. They pretend
+      to oppose big government and then applaud trillion-dollar military budgets and
+      the expansion of government departments to flood the streets with armed thugs.
+      It’s not that they’re hypocrites. It’s that they’re liars. They’re groveling,
+      power-worshipping bootlickers, and then they make up a bunch of fake stories about
+      themselves to make them feel like they’re actually decent people. They are not
+      decent people. They are genocidal warmongers with their tongues firmly inserted
+      into the anuses of the most powerful people on the planet. They are everything
+      they pretend to hate. They are everything that is wrong with this world. _______________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article criticizes the hypocrisy of Republicans who support
+      aggressive foreign interventions while justifying the unjustifiable shooting of
+      a mother by an ICE officer, highlighting the disturbing nature of the incident
+      as captured on video.
+    paragraph_summary: 'The article by Tim Foley critiques the contrasting responses
+      of Republicans to two violent incidents: the U.S. intervention in Venezuela and
+      the shooting of a mother of three by an ICE officer in Minneapolis. While Republicans
+      have supported Trump''s aggressive foreign policy against what they label a tyrant,
+      they are now defending the officer''s actions, despite video evidence suggesting
+      the shooting was unjustifiable. The officer''s defense hinges on claiming he feared
+      for his life, but the article argues that his actions—firing multiple shots into
+      the vehicle after being out of harm''s way—indicate otherwise. The piece highlights
+      the partisan divide in reactions, with Democrats condemning the shooting while
+      Republicans defend it, including false claims by Trump about the incident. Overall,
+      the article underscores the hypocrisy and inconsistency in the political discourse
+      surrounding state violence.'
+    published: '2026-01-08T01:35:01+00:00'
+  - title: American Conservatives Are Disgusting Frauds
+    url: https://www.caitlinjohnst.one/p/american-conservatives-are-disgusting
+    text: 'Reading by Tim Foley : Subscribe now After spending days enthusiastically
+      applauding Trump’s freakish act of imperialist aggression to oust the president
+      of Venezuela on the grounds that he is a murderous tyrant, Republicans in the
+      United States are falling all over themselves to justify the cold-blooded murder
+      of a mother of three by an ICE officer in Minneapolis. The shooting was caught
+      on video from multiple angles , and from every angle it looks completely unjustifiable
+      by the standards of any normal human being. The officer will probably get off
+      using the usual “feared for his life” defense claiming that he believed the woman
+      was going to run him over with her car. But when you’re repeatedly firing your
+      pistol into the side window of the vehicle , you know you’re not in any danger
+      of being run over. He tracked her head with his gun well after he was out of harm’s
+      way and pulled the trigger anyway, firing at the side of her head from the side
+      of the vehicle. As one libertarian commentator noted , it was “Less a ‘she did
+      X so I have to shoot her,’ and more of ‘she did X so I get to shoot her.’” And
+      yet this killing is being treated as a partisan issue, with leftists and Democrats
+      denouncing the actions of the shooter and rightists ferociously defending them.
+      The president himself took the time to weigh in on this one, falsely claiming
+      on Truth Social that the woman “ran over the ICE Officer” and that “it is hard
+      to believe he is alive, but is now recovering in the hospital.” Anyone watching
+      the videos can see this is a lie. As Brad Reed notes for Common Dreams , “Eyewitness
+      videos taken at the scene of the incident, however, do not show the officer getting
+      run over at all. In fact, the officer can be seen walking around after discharging
+      his weapon, with no signs of any injury. In fact, the video Trump posted on his
+      Truth Social that he claims shows the officer being run over does not at all show
+      the officer being run over, but rather stepping safely out of the way as the car
+      starts moving forward.” American conservatives are such gross frauds. They pretend
+      to oppose tyranny but start frantically licking boots whenever there’s a police
+      shooting. They pretend to oppose war and applaud Trump’s warmongering. They pretend
+      to be Christian and ignore most of the New Testament. They pretend to support
+      freedom of speech and then support Trump stomping out speech that is critical
+      of Israel. They pretend to support the rule of law and then applaud when Trump
+      openly kidnaps the president of a sovereign nation to steal its oil. They pretend
+      to oppose big government and then applaud trillion-dollar military budgets and
+      the expansion of government departments to flood the streets with armed thugs.
+      It’s not that they’re hypocrites. It’s that they’re liars. They’re groveling,
+      power-worshipping bootlickers, and then they make up a bunch of fake stories about
+      themselves to make them feel like they’re actually decent people. They are not
+      decent people. They are genocidal warmongers with their tongues firmly inserted
+      into the anuses of the most powerful people on the planet. They are everything
+      they pretend to hate. They are everything that is wrong with this world. _______________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article criticizes the hypocrisy of Republicans who support
+      aggressive foreign interventions while justifying the unjustifiable shooting of
+      a mother by an ICE officer, highlighting the disturbing nature of the incident
+      as captured on video.
+    paragraph_summary: 'The article by Tim Foley critiques the contrasting responses
+      of Republicans to two violent incidents: the U.S. intervention in Venezuela and
+      the shooting of a mother of three by an ICE officer in Minneapolis. While Republicans
+      have supported Trump''s aggressive foreign policy against what they label a tyrant,
+      they are now defending the officer''s actions, despite video evidence suggesting
+      the shooting was unjustifiable. The officer''s defense hinges on claiming he feared
+      for his life, but the article argues that his actions—firing multiple shots into
+      the vehicle after being out of harm''s way—indicate otherwise. The piece highlights
+      the partisan divide in reactions, with Democrats condemning the shooting while
+      Republicans defend it, including false claims by Trump about the incident. Overall,
+      the article underscores the hypocrisy and inconsistency in the political discourse
+      surrounding state violence.'
+    published: '2026-01-08T01:35:01+00:00'
   - title: The US Empire Needs Men Like Trump
     url: https://www.caitlinjohnst.one/p/the-us-empire-needs-men-like-trump
     text: 'Reading by Tim Foley : Subscribe now If you were wondering why the US establishment

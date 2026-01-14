@@ -7,14 +7,1236 @@ description: "Richard Falk is an international law and international relations s
 websites:
   - https://richardfalk.org/
 summary: |
-  The Israeli-Palestinian conflict continues to dominate the geopolitical landscape, with recent statements and policy directions from Israeli officials signaling a hardening stance. **Richard Falk** highlights that Israel’s Minister of Defense, Israel Katz, is openly advocating for a ‘Greater Israel’—a vision that entails de facto annexation of the West Bank and a permanent Israeli presence in Gaza. This approach, while acknowledging the practical difficulties of formal annexation, underscores a pragmatic yet uncompromising Israeli posture.
+  The international system continues to be tested by a series of crises that expose deep fractures in the post-1945 world order. Recent developments highlight the erosion of legal norms and the growing impunity of powerful states, with significant implications for global governance and human rights.
   
-  Meanwhile, the international response remains fragmented. The United Nations and broader international system have been criticized for their inability to address the ongoing violence and humanitarian crisis in Gaza. **Richard Falk** notes the “failure to deliver justice and effectively respond to the catastrophic violence in Gaza,” pointing to a world order that prioritizes power over legal commitments.
+  The most recent and pressing issue, as analyzed by **Richard Falk** (January 13, 2026), is the United States’ aggressive intervention in Venezuela, culminating in the kidnapping of its president. This act, justified by the US through legal rhetoric, is seen as part of a broader pattern of geopolitical maneuvering that disregards international law and undermines human rights. **Falk** argues that the United Nations, rather than acting as a check on such behavior, has instead become complicit, effectively legitimizing these actions and further eroding its own credibility.
   
-  Civil society initiatives, such as the Gaza Tribunal in Istanbul, have sought to fill the accountability vacuum left by state actors. The Tribunal’s final statement, as reported by **Richard Falk**, condemns what it terms the ongoing genocide in Palestine and emphasizes the necessity of including Palestinian rights in any future peace process. Despite a ceasefire, the Tribunal asserts that the underlying issues remain unresolved and that justice for Palestinians is still elusive.
+  In parallel, the situation in Israel-Palestine remains unresolved, with Israeli leadership, particularly Defense Minister Israel Katz, openly advocating for the de facto annexation of the West Bank and a permanent Israeli presence in Gaza. This vision of a ‘Greater Israel’ is, according to **Falk** (December 27, 2025), a pragmatic acknowledgment of the challenges in achieving formal annexation, but signals a continued entrenchment of occupation and a lack of genuine movement toward Palestinian self-determination.
   
-  Looking ahead, the prevailing trend is one of deepening entrenchment. Israeli policy is moving toward permanent control over contested territories, while international mechanisms for accountability and conflict resolution appear increasingly ineffective. Based on the majority of recent analyses, there is a high chance that the status quo will persist, with little progress toward a negotiated settlement or meaningful change in the humanitarian situation. As **Richard Falk** summarizes, “the contradictions of a world order that prioritizes power management over legal commitments” are likely to continue shaping outcomes in the region for the foreseeable future.
+  The broader trend, as consistently highlighted across **Falk’s** recent writings, is the prioritization of power politics over legal and ethical commitments. The failures of the UN to address catastrophic violence in Gaza, and its inability to hold powerful states accountable, underscore the contradictions of the current international order.
+  
+  Looking ahead, it is quite likely that these patterns will persist. The normalization of extra-legal interventions by major powers and the UN’s inability to enforce its own principles suggest a high chance of further erosion of international norms. As **Falk** warns, unless there is a fundamental shift in the approach of both global institutions and leading states, the prospects for justice and the rule of law in international affairs remain bleak.
 articles:
+  - title: 'Shame on The UN: Ratifying Genocide, Legitimating the Trump Plan'
+    url: https://richardfalk.org/2026/01/12/shame-on-the-un-ratifying-genocide-legitimating-the-trump-plan-2/
+    text: '[ Prefatory Note ; This essay in modified form was published on December
+      29, 2025 in CounterPunch. The January 3 acts of US aggression against Venezuela
+      and kidnapping of its elected President followed by an indictment in US Federal
+      Court on charges of narco-terrorism. Rationalized as a ‘law enforcement’ undertaking
+      by apologists rather than viewed as ‘aggression’ by critics. It is a geopolitical
+      expression of extra-legal prerogatives shielded from UN censure and sanctions
+      by the veto power of the P5, and in that sense reflects the same mentality underlying
+      the complicity with Gaza genocide. What the UN did by unanimously endorsing the
+      Trump Plan is to lend an aura of legitimacy to the US earlier role that was alarmingly
+      veto-free and a tacit acknowledgement that ‘peacemaking’ is also within the domain
+      of geopolitical discretion, regardless of values at stake, including basic human
+      rights. In the Venezuela context the UN is more responsive to the international
+      law dimension because states regard their national economic interests and sovereignty
+      endangered by US imperial disregard for borders, political independence, and sovereignty
+      over natural resources. Israel in contrast is subconsciously perceived as falling
+      within a non-spatially defined sphere of interests geopolitics, and less threatening
+      as systemic challenge to the statist character of world order. ] After October
+      7 Attack: Genocide as Retaliation Throughout this period of challenging the adequacy
+      of the UN in the face of genocide, there were reasons to redeem its reputation,
+      including an awareness that the refusal of Israel and the liberal West to respect
+      judgments of the leading international tribunals (International Court of Justice
+      and International Criminal Court), which have exposed core deficiencies in the
+      architecture of world order created in 1945. It needs to be better understood
+      that when the UN was established 80 years ago the Charter design gave the last
+      word on the management of global securit y to the five winning states in World
+      War, and not to international law or the UN guardian of peace and justice as believed
+      by the most ardent champions of a meta-state rule governed world order . In my
+      judgment their disappointment was misdirected. Nor rule governed sense that Antony
+      Blinken kept lecture his Chinese counterparts about during his time as Biden’s
+      Secretary of State. By clear intention despite the priority accorded war prevention
+      in the Preamble to the Charter, the capabilities of the UN to act coercively against
+      aggression, apartheid, and genocide were withheld from the Organization. Instead,
+      the winners (that is, the five permanent members of the Security Council or P5)
+      of the recently concluded war against fascism were also the recipient of a right
+      of veto that amounted to a limitless entitlement of any one of the five in the
+      only UN political organ with the authority to make binding decisions to block
+      action. This provision meant not only an opting out of decisions contrary to their
+      will but of preventing Security Council from acting even when the other 14 members
+      were united in voting for a decision. In practice, the UN treated prospects for
+      peace and security in major conflict situations as subject to the non-revoewable
+      geopolitical calculations and alignments of these five most powerful and dangerous
+      members of the new world organization supposedly entrusted with ultimate responsibility
+      for peace, justice, human rights, and ecological stabbility, but not really. During
+      the Cold War, which prevailed globally between 1945-1991 the paralysis of the
+      UN in relation to the management of global security was mainly due to the discretion
+      given to the opposed alliances of the US-led NATO forces on the Western side of
+      the ideological divide and strategic rivalry. On the other side was the Soviet-led
+      Warsaw Pact forces. The UN contented itself with being a spectator with respect
+      to geopolitical disregard of the UN Charter. It became at most the site of opposing
+      propaganda denunciations during the years of the Vietnam War and Western covert
+      actions, Moscow’s interventions in Eastern Europe, and other settings of violent
+      conflict involving the strategic interests of the P5. This was partly due to the
+      constitutional framework of the UN, but it also reflected the unwillingness of
+      many leading countries to dilute sovereignty when it came to their national security
+      agendas. This refusal was most dramatically illustrated by the governmental rejections
+      of nuclear disarmament proposals and the preferred reliance on discretionary doctrines
+      deterrence, exhibiting the militarist orientations of foreign policy elites in
+      leading governments, including all of the P5 states with the partial exception
+      of China, a Great Power consensus augmented by others. This blends a militarized
+      hard power version of global security and world history with P5 strategic ambitions
+      focused on a reinvention of Western domination in a period of collapsing European
+      colonialism. It is also reflected priorities attached to internal issues of policy
+      urgency connected with development and national security. In effect, unless civil
+      society becomes mobilized around the world, at least as prominently as in relation
+      to European colonialism and South African racism, internationalism lacked the
+      political will and clout by way of material capabilities to act effectively in
+      relation to local (non-systemic) war prevention and even in response to the most
+      severe encroachments on human rights, as illustrated by the tepid responses to
+      the Gaza Genocide. Against this background, the role of the UN while disappointing
+      was not surprising to informed observers given the strong civilizational ties
+      between the white West and Israel in this inter-civilizational encounter with
+      a Muslim majority Palestine in the strategically important Middle East, considering
+      the geopolitical regional priorities of the West and its allies. This lent the
+      Israel/Palestine struggle an inter-civilizational dimension while also posing
+      a potential challenge to Western hegemony in relation to energy reserves, arms
+      sales, and more generally, trade and investment. Additionally it exhibited ‘a
+      clash of civilizations’ in the sense meant by Samuel Huntington in the 1990s following
+      the end of the Cold War. This line of interpretation was accenratuated by the
+      anti-Western religiously oriented Hamas, a non-state entity that was (mis)characterized
+      in Western media and state propaganda as nothing other than a terrorist organization.
+      Such a posture ignored the 2006 political victory in Gaza of Hamas in an internationally
+      monitored election, its role as the center of legally grounded Palestinian resistance
+      to an Israeli occupation that consistently violated international humanitarian
+      legal standards as set forth in the 4 th Geneva Convention of 1949 governing ‘belligerent
+      occupation,’ while Israel showed no signs of withdrawing as expected to its 1967
+      borders, which were themselves far in excess of the partition arrangement proposed
+      in 1947 by the UN in GA Resolution 181.  Several UN members complicit with Israel
+      overtly supported the genocide in Gaza for two years, finally stepping back publicly
+      from support in reaction to the rise of civil society protest activity in their
+      countries as it became evident that Israel was defiantly exceeding all constraints
+      of law and morality by persisting with its extremist genocidal campaign. As well,
+      many other states, including among Muslim majority countries while opposing Israel’s
+      conduct in Gaza rhetorically , continued quietly to maintain and even pursue mutually
+      favorable economic relationships vital for sustaining Israel’s genocidal campaign.
+      It needs to be appreciated that the ICJ by a near unanimous vote on July 19, 2024
+      declared continuing Israeli occupation of Gaza and the West Bank (and even East
+      Jerusalem) to be unlawful, decreeing its timely withdrawal, an outcome that the
+      General Assembly formally supported while Israel and its support group ignored
+      or dismissed. It is important to appreciate that the ICJ, the judicial arm of
+      the UN, performed professionally, upholding international law, although failing
+      to secure Israeli compliance or the material and diplomatic backing of its support
+      group of enabler countries.Such a pattern underscored an interpretation of the
+      failure of the UN as not attributable to international law as such, but to the
+      design of an Organization that vested enforcement authority in the Security Council,
+      and residually in the General Assembly. In that regard the SC was paralyzed by
+      the veto, and the GA by the weakness of its political will , and by its primary
+      regard for a pragmatic pursuit of national interests This political agenda explains
+      the six ceasefire initiatives that were vetoed in the Security Council combined
+      with the failure of complicit states, above all, the United States, to use its
+      soft power leverage to induce Israel to stop its assault on Gaza and satisfy the
+      legitimate grievances of the Palestinian people. Such an exercise of responsible
+      statecraft is inhibited by adhering to the political realism of the pre-nuclear
+      age and the special interests of the arms industries and a long militarized governmental
+      bureaucracy. There was a further distinctive feature of the Israeli reality that
+      drew upon the lingering guilt of the liberal West as a consequence of its feeble
+      response to Nazi antisemitism and the Holocaust. In effect, Israel enjoyed a positive
+      status by being situated within a unique Western sphere of influenced, reinforced
+      further by the global network of Zionist influence dedicated to ensuring a pro-Israel
+      U.S. foreign policy (well analyzed by John J. Mersheimer & Stephen M. Walt in
+      their book on the Israel lobby in the United States, The Israel Lobby and U.S.
+      Foreign Policy (2007).] The Disgraceful UN Response to the Trump Plan Against
+      this background, the 15 members of the Security Council, disgracefully voted unanimously
+      in favor of the US draft resolution, adopted as SC Resolution 2803 on November
+      17, 2025, endorsing the Trump Plan for the stabilization of Gaza. The plan emerged
+      with the approval and substantive inputs of Israel, significantly unveiled during
+      a Netanyahu visit to the White House at a joint press conference. The core feature
+      of the plan was to reward the perpetrator and chief enabler of prolonged genocide.
+      This was further aggravated and preceded in occupied Palestine by apartheid and
+      by combat tactics designed to make a total wasteland of Gaza. Shockingly, there
+      are no references in the resolution to Israel’s defiance of rulings of the International
+      Court of Justice, resolutions of the General Assembly, or the incriminating assessments
+      of independent genocide scholars and international law experts. Neither Israel
+      nor the United States, nor the other complicit states were obliged, or even encouraged,
+      to pay reparations for the unlawful devastation caused in Gaza. Instead, the payment
+      of the immense costs of reconstruction were left to be sorted out by the combined
+      forces of vulture capitalism operating freely as if Gaza reconstruction should
+      be treated as a juicy real estate profit-and-loss venture with the monetary contributions,
+      more accurately viewed as business opportunities, expected to be made available
+      by wealthy Arab governments. In this process, not only was an alien diplomatic
+      framework imposed on the Palestinians, but the US was outrageously accepted, without
+      even a whimper of protest, as the legitimate ‘peacemaker’ although overtly collaborating
+      with Israel throughout the genocide and in drafting the plan that pointedly excluding
+      Palestinian participation, thereby suppressing the bedrock Palestinian right of
+      self-determination. Indeed, the US Government went so far as to deny visas to
+      any Palestinian Authority delegate who sought to attend the 2025 General Assembly
+      meeting of the UN or to otherwise take part in UN and other proceedings shaping
+      Palestine as a political entity. What makes the resolution a step backward if
+      the objective had been what it should have been, arrangements for a peaceful and
+      just future crafted with the participation of Palestinian representation as determined
+      by an open and internationally monitored referendum with a presumed goal of dedication
+      to a just and durable peace as agreed upon by legitimate representative of the
+      two peoples and moderated by a neutral intermediary. Instead, SC Resolution 2803
+      if considered as a whole, indirectly exonerates the culprits for their past behavior
+      carrying impunity to an extreme, perverse UN validation. Beyond this 2803 openly
+      acknowledges and gives its approval to US total control of recent diplomatic efforts
+      to replace unrestrained Israeli violence with a ceasefire that Israel freely ignores
+      and is comforted by steadfast US indulgence. The bloody result has been hundreds
+      of lethal violations of the ceasefire killing up to now of hundreds of Palestinians
+      by estimates of the Gaza Health Ministry, without Israel even being reprimanded
+      by Washington for so abusing a ceasefire deal. Why Hamas accepts this Israeli
+      practice of accepting ceasefire arrangements while Israel simultaneously persists
+      in carrying out its genocide campaign, although at a decelerated intensity, This
+      latest phase of ‘ceasefire genocide’ is causing widespread severe suffering among
+      the entire Gazan population of an estimated two million Palestinian survivors
+      previously traumatized and homeless after two plus years of genocidal assault.
+      As to the future, 2803 endorses a colonialist transitional arrangement given operational
+      reality by a Board of Peace, to be chaired by none other than Donald Trump and
+      given stability in Gaza by the formation of an International Stabilization Force
+      to be formed UN members endorsing the plan and making military personnel available.
+      The US has brazenly acknowledged its own transactional goals by pledging $112
+      billion to rebuild Gaza with the goal of establishing a global hub for trade,
+      investment, and tourism. Governance in Gaza is left in part to Israel that seems
+      to be claiming a permanent, unilaterally enlarged security presence in northern
+      Gaza above and beyond the original yellow line. Given this highly dubious manner
+      of recovering from the Gaza catastrophe at this late stage, how can we explain
+      this show of widespread international support along with the disappearance of
+      opposition in the Security Council? The five SC members from the Global South
+      (Algeria, Somalia, Guyana, Sierra Leone, and Panama), made some critical comments
+      about 2803 during the formal discussion that preceded the vote, centering on its
+      vagueness as to crucial details and dared even to mentions the one-sidedness of
+      the Trump Plan, yet all ended up voting in its favor. Did such a vote reflect
+      genuine agreement, or more likely, was it a vote that willingly deferred to geopolitical
+      primacy when it came to the management of global security? And why would Indonesia
+      and Pakistan, Muslim majority countries, even if not members of SC, go out of
+      their way to express approval of the 2803 path to the future? More predictably,
+      yet nevertheless disappointing, was the approval expressed by the European Union.
+      Such a diplomatic display served as a cynical reminder that Israel’s treatment
+      of Palestinians is best understood as a part of Judeo-Christian civilizational
+      long game of sustaining Middle Eastern hegemony. As troubling was the gratuitous
+      endorsement of 2803 given by the UN Secretary General, Antonio Guterres, who not
+      only welcomed the resolution but expressed the hope that its momentum would be
+      converted into “concrete action.”Thankfully, UN Special Rapporteur on Human Rights
+      in the Occupied Palestinian Territories, Francesca Albanese, expressed “serious
+      concern with the Security Council’s adoption of resolution 2803, warning that
+      it runs counter to the Palestinian right to self-determination, consolidates Israël’s
+      unlawful presence in the occupied Palestinian territory, including ongoing unlawful
+      policies and practices, and therefore risks legitimating ongoing mass violence.”
+       Revealingly, Albanese spoke these words of truth to power, after herself enduring
+      punitive sanctions imposed on July 9 in reaction to her courageous willingness
+      to bear official witness to what was becoming all too clear to the eyes and ears
+      of the peoples of the world. It is ironic that the UN’s response to 2803 was somewhat
+      rescued from taints of complicity by an unpaid appointee not subject to UN discipline.
+      Her words are congruent with those of Craig Mokhiber who resigned from a senior
+      position at the UN because of its failure to deal responsibly with Palestinian
+      grievances. Mokhiber in the last couple of years has emerged as the most informed
+      and lucid critic of the UN approach, reinforcing Albanese’s forthrightness on
+      behalf of law and justice with respect to Palestinian grievances and rights, but
+      the Organization’s own transactional approach privileged geopolitical imperatives
+      over compliance with the UN Charter. It additionally seems strange and cynical
+      that Russia and China, although voicing some criticisms during the discussion
+      prior to the vote on the resolutiona, did not use their right of veto to block
+      passage of 2803, especially given the frequent use of the veto on Israel’s behalf
+      by the US and considering the principles at stake. It is likely that these two
+      geopolitical rivals of the US were impressed by Hamas’ acceptance of the overall
+      approach and did not want to be seen as spoilers held responsible for a breakdown
+      of the Trump Plan that would have undoubtedly have produced produce a total breakdown
+      of the already tarnished ceasefire. Additionally, China and Russia both seem to
+      believe that global stability is best preserved by extending a degree of geopolitical
+      reciprocity to their trilateral relations. In this limited sense, Trump seems
+      more in accord with how cooperative relations with these two countries would bring
+      stability and transactional gains than did the Biden approach of fighting Russia
+      by way of Ukraine to preserve US post-Cold War global dominance, a path that irresponsibly
+      increased the risk of a third world war fought with nuclear weapons, and leading
+      to a lengthening of the Ukraine War with heave casualties on both sides. Trump’s
+      approach, although itself fragile because of his mercurial style, stressed geopolitical
+      stability, including an acceptance of spheres of influence as compromising the
+      sovereignty and wellbeing of smaller states and even, as here, at the cost of
+      overlooking genocide. For these reasons the rejection of 2803’s endorsement of
+      the Trump Plan by Hamas was no surprise. It does not entirely explain why Hamas
+      ever accepted the Trump diplomacy at its outset except for its ceasefire and IDF
+      withdrawal prospects. Hamas’ acceptance extended to the whole of the Trump plan,
+      but with this stand against 2803 and its announced refusal to disarm it may now
+      be either the basis of a better compromise or at least a stalemate as to further
+      implementation. Hamas, and Iran, the other vocal critic of the SC resolution,
+      also undoubtedly are reacting to the absence on Israel’s part of any willingness
+      to show signs of embracing a politics of reconciliation, even to the extent of
+      conscientiously upholding the early ceasefire, partial withdrawal, and an end
+      to the rigid constraints on humanitarian aid. For Israel to have show no mercy
+      to a population living without heat, secure shelter, and adequate food and medical
+      supplies is to send the chilling message that Israel has not even considered abandoning
+      its expansionist ambitions that include further ethnic cleansing in Gaza and a
+      surge of settlement growth on the West Bank leading to de facto annexation probably
+      serving as a prelude to formal annexation and incorporation of the West Bank into
+      sovereign Israel in the course of fulfilling  the Greater Israel endgame. From
+      its inception more than a century ago, the Zionist Movement has employed ‘salami
+      tactics’ to obtain what was politically possible at a given moment, and waiting
+      to satisfy other goals until the political climate made it feasible. The US representative
+      in the SC, Amb. Mike Waltz, insisted that “[a] vote against this resolution is
+      a vote to return to war” was part of the ‘take it or leave it’ Trump approach.
+      Nor is it surprising that Netanyahu hailed the endorsement of 2803 by declaring
+      “that President Trump’s plan will lead to peace and prosperity because it insists
+      upon full demilitarization, disarmament, and the deradicalization of Gaza.” [
+      15 ] Or that France and the UK sugarcoated their endorsements of the Trump Plan
+      by verbal statements of conditional support for eventual Palestinian statehood
+      as affirmed in its sponsorship of the New York Declaration, envisioning future
+      Palestinian representation under the authority of a reconstituted Palestinian
+      Authority (PA), itself a creature of US/Israel dominated diplomacy that has circumvented
+      Palestinian self-determination. Under present conditioned the PA is being repurposed
+      to implement the Trump Plan. The PA announced its support for 2803 in a move calculated
+      to convince Israel and the US that it can be counted upon to go along with their
+      stabilization scenario despite its rejection of Palestinian grievances and denial
+      of Palestine’s right of self-determination. Such a PA position, undoubtedly motivated
+      by cynical opportunism, should be treated as discrediting the PA from representing
+      the interests of the Palestinian people, but one wonders. Offering such ‘breadcrumb’
+      rewards to the PA, while disqualifying Hamas from any role in representing the
+      Palestinian people is emblematic of the next phase of the Zionist end game intent
+      on achieving a political surrender of Palestine and the elimination of Hamas and
+      Palestinian resistance, limiting ambitions for ‘playing nice’ to nominal statehood
+      masking an Israeli/US protectorate. Concluding Remarks The maneuvers of states,
+      following their interests rather than supposedly shared values associated with
+      the UN Charter and the international rule of law, is to be expected given the
+      history of international relations and the political realist orientation of most
+      foreign policy elites. Nevertheless, it is regrettable, given the gross disregard
+      of justice and rights, which pervades the Trump Plan and the diplomatic and hard
+      power muscle at the disposal of the US. It does not augur well for meeting other
+      world order challenges including climate change, migratory flows, ecological stability,
+      less inequitable distributions of wealth and income to individuals, states, and
+      regions, as well as a more robust commitment to peaceful modes of conflict resolution.
+      This saga of 2803 is particularly unfortunate because it shows that the geopolitical
+      management of global security extends beyond the veto power of the P5. For the
+      sake of stability, the UN venue implicitly swallows the Israeli genocide to an
+      unseemly extent of unanimously endorsing a neo-colonialist future for Gaza and
+      impunity plus for Israel and its complicit supporters. Symbolic of this unseemly
+      submission by the UN and its membership is the endorsement of 2803 by the UN leader,
+      Antonio Guterres, an individual declared persona non grata by Israel more than
+      a year ago. Israel’s insulting dismissal of the UN as ‘a cesspool of antisemitism’
+      and the like should have at least led the Organization’s Secretary General to
+      respond with stony silence to 2803 rather than cynically kneel in submission.
+      sending a shameful message to the world that from the perspective of the UN that
+      genocide does not disqualify a state from receiving diplomatic and territorial
+      rewards as long as the geopolitical actors or P5 remain on board or at least silent.
+      In effect, the dynamics of power politics is still making history, despite the
+      disastrous consequences. One takeaway from this 2803 experience is a realization
+      that the Global South is not sufficiently ready to seek geopolitical symmetry
+      in what is often interpreted as the hopeful interpretation of the emergence of
+      a multipolar world order. By geopolitical symmetry is meant an historic embrace
+      of polycentric balance that increasingly challenges the P5 asymmetry that has
+      dominated the UN for the past 80 years.'
+    one_sentence_summary: The article critiques the US's aggressive actions against
+      Venezuela, including the kidnapping of its president and subsequent legal justifications,
+      arguing that these actions reflect a broader pattern of geopolitical maneuvering
+      that undermines international law and human rights, while also highlighting the
+      complicity of the UN in legitimizing such aggression.
+    paragraph_summary: The article discusses the U.S. aggression against Venezuela,
+      marked by the kidnapping of its elected president and subsequent legal actions
+      framed as law enforcement rather than aggression. It critiques the UN's complicity
+      in legitimizing U.S. actions, particularly through the endorsement of the Trump
+      Plan, which reflects a broader geopolitical disregard for national sovereignty
+      and human rights. The author contrasts the UN's response to Venezuela's situation
+      with its handling of Israel's actions, suggesting that the latter is perceived
+      as less of a threat to global order. The piece argues for a reevaluation of the
+      UN's role and effectiveness in addressing issues of genocide and international
+      law, highlighting the need for reform in the post-World War II global governance
+      structure.
+    published: '2026-01-13T02:42:06+00:00'
+  - title: 'Shame on The UN: Ratifying Genocide, Legitimating the Trump Plan'
+    url: https://richardfalk.org/2026/01/12/shame-on-the-un-ratifying-genocide-legitimating-the-trump-plan-2/
+    text: '[ Prefatory Note ; This essay in modified form was published on December
+      29, 2025 in CounterPunch. The January 3 acts of US aggression against Venezuela
+      and kidnapping of its elected President followed by an indictment in US Federal
+      Court on charges of narco-terrorism. Rationalized as a ‘law enforcement’ undertaking
+      by apologists rather than viewed as ‘aggression’ by critics. It is a geopolitical
+      expression of extra-legal prerogatives shielded from UN censure and sanctions
+      by the veto power of the P5, and in that sense reflects the same mentality underlying
+      the complicity with Gaza genocide. What the UN did by unanimously endorsing the
+      Trump Plan is to lend an aura of legitimacy to the US earlier role that was alarmingly
+      veto-free and a tacit acknowledgement that ‘peacemaking’ is also within the domain
+      of geopolitical discretion, regardless of values at stake, including basic human
+      rights. In the Venezuela context the UN is more responsive to the international
+      law dimension because states regard their national economic interests and sovereignty
+      endangered by US imperial disregard for borders, political independence, and sovereignty
+      over natural resources. Israel in contrast is subconsciously perceived as falling
+      within a non-spatially defined sphere of interests geopolitics, and less threatening
+      as systemic challenge to the statist character of world order. ] After October
+      7 Attack: Genocide as Retaliation Throughout this period of challenging the adequacy
+      of the UN in the face of genocide, there were reasons to redeem its reputation,
+      including an awareness that the refusal of Israel and the liberal West to respect
+      judgments of the leading international tribunals (International Court of Justice
+      and International Criminal Court), which have exposed core deficiencies in the
+      architecture of world order created in 1945. It needs to be better understood
+      that when the UN was established 80 years ago the Charter design gave the last
+      word on the management of global securit y to the five winning states in World
+      War, and not to international law or the UN guardian of peace and justice as believed
+      by the most ardent champions of a meta-state rule governed world order . In my
+      judgment their disappointment was misdirected. Nor rule governed sense that Antony
+      Blinken kept lecture his Chinese counterparts about during his time as Biden’s
+      Secretary of State. By clear intention despite the priority accorded war prevention
+      in the Preamble to the Charter, the capabilities of the UN to act coercively against
+      aggression, apartheid, and genocide were withheld from the Organization. Instead,
+      the winners (that is, the five permanent members of the Security Council or P5)
+      of the recently concluded war against fascism were also the recipient of a right
+      of veto that amounted to a limitless entitlement of any one of the five in the
+      only UN political organ with the authority to make binding decisions to block
+      action. This provision meant not only an opting out of decisions contrary to their
+      will but of preventing Security Council from acting even when the other 14 members
+      were united in voting for a decision. In practice, the UN treated prospects for
+      peace and security in major conflict situations as subject to the non-revoewable
+      geopolitical calculations and alignments of these five most powerful and dangerous
+      members of the new world organization supposedly entrusted with ultimate responsibility
+      for peace, justice, human rights, and ecological stabbility, but not really. During
+      the Cold War, which prevailed globally between 1945-1991 the paralysis of the
+      UN in relation to the management of global security was mainly due to the discretion
+      given to the opposed alliances of the US-led NATO forces on the Western side of
+      the ideological divide and strategic rivalry. On the other side was the Soviet-led
+      Warsaw Pact forces. The UN contented itself with being a spectator with respect
+      to geopolitical disregard of the UN Charter. It became at most the site of opposing
+      propaganda denunciations during the years of the Vietnam War and Western covert
+      actions, Moscow’s interventions in Eastern Europe, and other settings of violent
+      conflict involving the strategic interests of the P5. This was partly due to the
+      constitutional framework of the UN, but it also reflected the unwillingness of
+      many leading countries to dilute sovereignty when it came to their national security
+      agendas. This refusal was most dramatically illustrated by the governmental rejections
+      of nuclear disarmament proposals and the preferred reliance on discretionary doctrines
+      deterrence, exhibiting the militarist orientations of foreign policy elites in
+      leading governments, including all of the P5 states with the partial exception
+      of China, a Great Power consensus augmented by others. This blends a militarized
+      hard power version of global security and world history with P5 strategic ambitions
+      focused on a reinvention of Western domination in a period of collapsing European
+      colonialism. It is also reflected priorities attached to internal issues of policy
+      urgency connected with development and national security. In effect, unless civil
+      society becomes mobilized around the world, at least as prominently as in relation
+      to European colonialism and South African racism, internationalism lacked the
+      political will and clout by way of material capabilities to act effectively in
+      relation to local (non-systemic) war prevention and even in response to the most
+      severe encroachments on human rights, as illustrated by the tepid responses to
+      the Gaza Genocide. Against this background, the role of the UN while disappointing
+      was not surprising to informed observers given the strong civilizational ties
+      between the white West and Israel in this inter-civilizational encounter with
+      a Muslim majority Palestine in the strategically important Middle East, considering
+      the geopolitical regional priorities of the West and its allies. This lent the
+      Israel/Palestine struggle an inter-civilizational dimension while also posing
+      a potential challenge to Western hegemony in relation to energy reserves, arms
+      sales, and more generally, trade and investment. Additionally it exhibited ‘a
+      clash of civilizations’ in the sense meant by Samuel Huntington in the 1990s following
+      the end of the Cold War. This line of interpretation was accenratuated by the
+      anti-Western religiously oriented Hamas, a non-state entity that was (mis)characterized
+      in Western media and state propaganda as nothing other than a terrorist organization.
+      Such a posture ignored the 2006 political victory in Gaza of Hamas in an internationally
+      monitored election, its role as the center of legally grounded Palestinian resistance
+      to an Israeli occupation that consistently violated international humanitarian
+      legal standards as set forth in the 4 th Geneva Convention of 1949 governing ‘belligerent
+      occupation,’ while Israel showed no signs of withdrawing as expected to its 1967
+      borders, which were themselves far in excess of the partition arrangement proposed
+      in 1947 by the UN in GA Resolution 181.  Several UN members complicit with Israel
+      overtly supported the genocide in Gaza for two years, finally stepping back publicly
+      from support in reaction to the rise of civil society protest activity in their
+      countries as it became evident that Israel was defiantly exceeding all constraints
+      of law and morality by persisting with its extremist genocidal campaign. As well,
+      many other states, including among Muslim majority countries while opposing Israel’s
+      conduct in Gaza rhetorically , continued quietly to maintain and even pursue mutually
+      favorable economic relationships vital for sustaining Israel’s genocidal campaign.
+      It needs to be appreciated that the ICJ by a near unanimous vote on July 19, 2024
+      declared continuing Israeli occupation of Gaza and the West Bank (and even East
+      Jerusalem) to be unlawful, decreeing its timely withdrawal, an outcome that the
+      General Assembly formally supported while Israel and its support group ignored
+      or dismissed. It is important to appreciate that the ICJ, the judicial arm of
+      the UN, performed professionally, upholding international law, although failing
+      to secure Israeli compliance or the material and diplomatic backing of its support
+      group of enabler countries.Such a pattern underscored an interpretation of the
+      failure of the UN as not attributable to international law as such, but to the
+      design of an Organization that vested enforcement authority in the Security Council,
+      and residually in the General Assembly. In that regard the SC was paralyzed by
+      the veto, and the GA by the weakness of its political will , and by its primary
+      regard for a pragmatic pursuit of national interests This political agenda explains
+      the six ceasefire initiatives that were vetoed in the Security Council combined
+      with the failure of complicit states, above all, the United States, to use its
+      soft power leverage to induce Israel to stop its assault on Gaza and satisfy the
+      legitimate grievances of the Palestinian people. Such an exercise of responsible
+      statecraft is inhibited by adhering to the political realism of the pre-nuclear
+      age and the special interests of the arms industries and a long militarized governmental
+      bureaucracy. There was a further distinctive feature of the Israeli reality that
+      drew upon the lingering guilt of the liberal West as a consequence of its feeble
+      response to Nazi antisemitism and the Holocaust. In effect, Israel enjoyed a positive
+      status by being situated within a unique Western sphere of influenced, reinforced
+      further by the global network of Zionist influence dedicated to ensuring a pro-Israel
+      U.S. foreign policy (well analyzed by John J. Mersheimer & Stephen M. Walt in
+      their book on the Israel lobby in the United States, The Israel Lobby and U.S.
+      Foreign Policy (2007).] The Disgraceful UN Response to the Trump Plan Against
+      this background, the 15 members of the Security Council, disgracefully voted unanimously
+      in favor of the US draft resolution, adopted as SC Resolution 2803 on November
+      17, 2025, endorsing the Trump Plan for the stabilization of Gaza. The plan emerged
+      with the approval and substantive inputs of Israel, significantly unveiled during
+      a Netanyahu visit to the White House at a joint press conference. The core feature
+      of the plan was to reward the perpetrator and chief enabler of prolonged genocide.
+      This was further aggravated and preceded in occupied Palestine by apartheid and
+      by combat tactics designed to make a total wasteland of Gaza. Shockingly, there
+      are no references in the resolution to Israel’s defiance of rulings of the International
+      Court of Justice, resolutions of the General Assembly, or the incriminating assessments
+      of independent genocide scholars and international law experts. Neither Israel
+      nor the United States, nor the other complicit states were obliged, or even encouraged,
+      to pay reparations for the unlawful devastation caused in Gaza. Instead, the payment
+      of the immense costs of reconstruction were left to be sorted out by the combined
+      forces of vulture capitalism operating freely as if Gaza reconstruction should
+      be treated as a juicy real estate profit-and-loss venture with the monetary contributions,
+      more accurately viewed as business opportunities, expected to be made available
+      by wealthy Arab governments. In this process, not only was an alien diplomatic
+      framework imposed on the Palestinians, but the US was outrageously accepted, without
+      even a whimper of protest, as the legitimate ‘peacemaker’ although overtly collaborating
+      with Israel throughout the genocide and in drafting the plan that pointedly excluding
+      Palestinian participation, thereby suppressing the bedrock Palestinian right of
+      self-determination. Indeed, the US Government went so far as to deny visas to
+      any Palestinian Authority delegate who sought to attend the 2025 General Assembly
+      meeting of the UN or to otherwise take part in UN and other proceedings shaping
+      Palestine as a political entity. What makes the resolution a step backward if
+      the objective had been what it should have been, arrangements for a peaceful and
+      just future crafted with the participation of Palestinian representation as determined
+      by an open and internationally monitored referendum with a presumed goal of dedication
+      to a just and durable peace as agreed upon by legitimate representative of the
+      two peoples and moderated by a neutral intermediary. Instead, SC Resolution 2803
+      if considered as a whole, indirectly exonerates the culprits for their past behavior
+      carrying impunity to an extreme, perverse UN validation. Beyond this 2803 openly
+      acknowledges and gives its approval to US total control of recent diplomatic efforts
+      to replace unrestrained Israeli violence with a ceasefire that Israel freely ignores
+      and is comforted by steadfast US indulgence. The bloody result has been hundreds
+      of lethal violations of the ceasefire killing up to now of hundreds of Palestinians
+      by estimates of the Gaza Health Ministry, without Israel even being reprimanded
+      by Washington for so abusing a ceasefire deal. Why Hamas accepts this Israeli
+      practice of accepting ceasefire arrangements while Israel simultaneously persists
+      in carrying out its genocide campaign, although at a decelerated intensity, This
+      latest phase of ‘ceasefire genocide’ is causing widespread severe suffering among
+      the entire Gazan population of an estimated two million Palestinian survivors
+      previously traumatized and homeless after two plus years of genocidal assault.
+      As to the future, 2803 endorses a colonialist transitional arrangement given operational
+      reality by a Board of Peace, to be chaired by none other than Donald Trump and
+      given stability in Gaza by the formation of an International Stabilization Force
+      to be formed UN members endorsing the plan and making military personnel available.
+      The US has brazenly acknowledged its own transactional goals by pledging $112
+      billion to rebuild Gaza with the goal of establishing a global hub for trade,
+      investment, and tourism. Governance in Gaza is left in part to Israel that seems
+      to be claiming a permanent, unilaterally enlarged security presence in northern
+      Gaza above and beyond the original yellow line. Given this highly dubious manner
+      of recovering from the Gaza catastrophe at this late stage, how can we explain
+      this show of widespread international support along with the disappearance of
+      opposition in the Security Council? The five SC members from the Global South
+      (Algeria, Somalia, Guyana, Sierra Leone, and Panama), made some critical comments
+      about 2803 during the formal discussion that preceded the vote, centering on its
+      vagueness as to crucial details and dared even to mentions the one-sidedness of
+      the Trump Plan, yet all ended up voting in its favor. Did such a vote reflect
+      genuine agreement, or more likely, was it a vote that willingly deferred to geopolitical
+      primacy when it came to the management of global security? And why would Indonesia
+      and Pakistan, Muslim majority countries, even if not members of SC, go out of
+      their way to express approval of the 2803 path to the future? More predictably,
+      yet nevertheless disappointing, was the approval expressed by the European Union.
+      Such a diplomatic display served as a cynical reminder that Israel’s treatment
+      of Palestinians is best understood as a part of Judeo-Christian civilizational
+      long game of sustaining Middle Eastern hegemony. As troubling was the gratuitous
+      endorsement of 2803 given by the UN Secretary General, Antonio Guterres, who not
+      only welcomed the resolution but expressed the hope that its momentum would be
+      converted into “concrete action.”Thankfully, UN Special Rapporteur on Human Rights
+      in the Occupied Palestinian Territories, Francesca Albanese, expressed “serious
+      concern with the Security Council’s adoption of resolution 2803, warning that
+      it runs counter to the Palestinian right to self-determination, consolidates Israël’s
+      unlawful presence in the occupied Palestinian territory, including ongoing unlawful
+      policies and practices, and therefore risks legitimating ongoing mass violence.”
+       Revealingly, Albanese spoke these words of truth to power, after herself enduring
+      punitive sanctions imposed on July 9 in reaction to her courageous willingness
+      to bear official witness to what was becoming all too clear to the eyes and ears
+      of the peoples of the world. It is ironic that the UN’s response to 2803 was somewhat
+      rescued from taints of complicity by an unpaid appointee not subject to UN discipline.
+      Her words are congruent with those of Craig Mokhiber who resigned from a senior
+      position at the UN because of its failure to deal responsibly with Palestinian
+      grievances. Mokhiber in the last couple of years has emerged as the most informed
+      and lucid critic of the UN approach, reinforcing Albanese’s forthrightness on
+      behalf of law and justice with respect to Palestinian grievances and rights, but
+      the Organization’s own transactional approach privileged geopolitical imperatives
+      over compliance with the UN Charter. It additionally seems strange and cynical
+      that Russia and China, although voicing some criticisms during the discussion
+      prior to the vote on the resolutiona, did not use their right of veto to block
+      passage of 2803, especially given the frequent use of the veto on Israel’s behalf
+      by the US and considering the principles at stake. It is likely that these two
+      geopolitical rivals of the US were impressed by Hamas’ acceptance of the overall
+      approach and did not want to be seen as spoilers held responsible for a breakdown
+      of the Trump Plan that would have undoubtedly have produced produce a total breakdown
+      of the already tarnished ceasefire. Additionally, China and Russia both seem to
+      believe that global stability is best preserved by extending a degree of geopolitical
+      reciprocity to their trilateral relations. In this limited sense, Trump seems
+      more in accord with how cooperative relations with these two countries would bring
+      stability and transactional gains than did the Biden approach of fighting Russia
+      by way of Ukraine to preserve US post-Cold War global dominance, a path that irresponsibly
+      increased the risk of a third world war fought with nuclear weapons, and leading
+      to a lengthening of the Ukraine War with heave casualties on both sides. Trump’s
+      approach, although itself fragile because of his mercurial style, stressed geopolitical
+      stability, including an acceptance of spheres of influence as compromising the
+      sovereignty and wellbeing of smaller states and even, as here, at the cost of
+      overlooking genocide. For these reasons the rejection of 2803’s endorsement of
+      the Trump Plan by Hamas was no surprise. It does not entirely explain why Hamas
+      ever accepted the Trump diplomacy at its outset except for its ceasefire and IDF
+      withdrawal prospects. Hamas’ acceptance extended to the whole of the Trump plan,
+      but with this stand against 2803 and its announced refusal to disarm it may now
+      be either the basis of a better compromise or at least a stalemate as to further
+      implementation. Hamas, and Iran, the other vocal critic of the SC resolution,
+      also undoubtedly are reacting to the absence on Israel’s part of any willingness
+      to show signs of embracing a politics of reconciliation, even to the extent of
+      conscientiously upholding the early ceasefire, partial withdrawal, and an end
+      to the rigid constraints on humanitarian aid. For Israel to have show no mercy
+      to a population living without heat, secure shelter, and adequate food and medical
+      supplies is to send the chilling message that Israel has not even considered abandoning
+      its expansionist ambitions that include further ethnic cleansing in Gaza and a
+      surge of settlement growth on the West Bank leading to de facto annexation probably
+      serving as a prelude to formal annexation and incorporation of the West Bank into
+      sovereign Israel in the course of fulfilling  the Greater Israel endgame. From
+      its inception more than a century ago, the Zionist Movement has employed ‘salami
+      tactics’ to obtain what was politically possible at a given moment, and waiting
+      to satisfy other goals until the political climate made it feasible. The US representative
+      in the SC, Amb. Mike Waltz, insisted that “[a] vote against this resolution is
+      a vote to return to war” was part of the ‘take it or leave it’ Trump approach.
+      Nor is it surprising that Netanyahu hailed the endorsement of 2803 by declaring
+      “that President Trump’s plan will lead to peace and prosperity because it insists
+      upon full demilitarization, disarmament, and the deradicalization of Gaza.” [
+      15 ] Or that France and the UK sugarcoated their endorsements of the Trump Plan
+      by verbal statements of conditional support for eventual Palestinian statehood
+      as affirmed in its sponsorship of the New York Declaration, envisioning future
+      Palestinian representation under the authority of a reconstituted Palestinian
+      Authority (PA), itself a creature of US/Israel dominated diplomacy that has circumvented
+      Palestinian self-determination. Under present conditioned the PA is being repurposed
+      to implement the Trump Plan. The PA announced its support for 2803 in a move calculated
+      to convince Israel and the US that it can be counted upon to go along with their
+      stabilization scenario despite its rejection of Palestinian grievances and denial
+      of Palestine’s right of self-determination. Such a PA position, undoubtedly motivated
+      by cynical opportunism, should be treated as discrediting the PA from representing
+      the interests of the Palestinian people, but one wonders. Offering such ‘breadcrumb’
+      rewards to the PA, while disqualifying Hamas from any role in representing the
+      Palestinian people is emblematic of the next phase of the Zionist end game intent
+      on achieving a political surrender of Palestine and the elimination of Hamas and
+      Palestinian resistance, limiting ambitions for ‘playing nice’ to nominal statehood
+      masking an Israeli/US protectorate. Concluding Remarks The maneuvers of states,
+      following their interests rather than supposedly shared values associated with
+      the UN Charter and the international rule of law, is to be expected given the
+      history of international relations and the political realist orientation of most
+      foreign policy elites. Nevertheless, it is regrettable, given the gross disregard
+      of justice and rights, which pervades the Trump Plan and the diplomatic and hard
+      power muscle at the disposal of the US. It does not augur well for meeting other
+      world order challenges including climate change, migratory flows, ecological stability,
+      less inequitable distributions of wealth and income to individuals, states, and
+      regions, as well as a more robust commitment to peaceful modes of conflict resolution.
+      This saga of 2803 is particularly unfortunate because it shows that the geopolitical
+      management of global security extends beyond the veto power of the P5. For the
+      sake of stability, the UN venue implicitly swallows the Israeli genocide to an
+      unseemly extent of unanimously endorsing a neo-colonialist future for Gaza and
+      impunity plus for Israel and its complicit supporters. Symbolic of this unseemly
+      submission by the UN and its membership is the endorsement of 2803 by the UN leader,
+      Antonio Guterres, an individual declared persona non grata by Israel more than
+      a year ago. Israel’s insulting dismissal of the UN as ‘a cesspool of antisemitism’
+      and the like should have at least led the Organization’s Secretary General to
+      respond with stony silence to 2803 rather than cynically kneel in submission.
+      sending a shameful message to the world that from the perspective of the UN that
+      genocide does not disqualify a state from receiving diplomatic and territorial
+      rewards as long as the geopolitical actors or P5 remain on board or at least silent.
+      In effect, the dynamics of power politics is still making history, despite the
+      disastrous consequences. One takeaway from this 2803 experience is a realization
+      that the Global South is not sufficiently ready to seek geopolitical symmetry
+      in what is often interpreted as the hopeful interpretation of the emergence of
+      a multipolar world order. By geopolitical symmetry is meant an historic embrace
+      of polycentric balance that increasingly challenges the P5 asymmetry that has
+      dominated the UN for the past 80 years.'
+    one_sentence_summary: The article critiques the US's aggressive actions against
+      Venezuela, including the kidnapping of its president and subsequent legal justifications,
+      arguing that these actions reflect a broader pattern of geopolitical maneuvering
+      that undermines international law and human rights, while also highlighting the
+      complicity of the UN in legitimizing such aggression.
+    paragraph_summary: The article discusses the U.S. aggression against Venezuela,
+      marked by the kidnapping of its elected president and subsequent legal actions
+      framed as law enforcement rather than aggression. It critiques the UN's complicity
+      in legitimizing U.S. actions, particularly through the endorsement of the Trump
+      Plan, which reflects a broader geopolitical disregard for national sovereignty
+      and human rights. The author contrasts the UN's response to Venezuela's situation
+      with its handling of Israel's actions, suggesting that the latter is perceived
+      as less of a threat to global order. The piece argues for a reevaluation of the
+      UN's role and effectiveness in addressing issues of genocide and international
+      law, highlighting the need for reform in the post-World War II global governance
+      structure.
+    published: '2026-01-13T02:42:06+00:00'
+  - title: 'Shame on The UN: Ratifying Genocide, Legitimating the Trump Plan'
+    url: https://richardfalk.org/2026/01/07/shame-on-the-un-ratifying-genocide-legitimating-the-trump-plan/
+    text: '[ Prefatory Note ; This essay in modified form was published on December
+      29, 2025 in CounterPunch. The January 3 acts of US aggression against Venezuela
+      and kidnapping of its elected President followed by an indictment in US Federal
+      Court on charges of narco-terrorism. Rationalized as a ‘law enforcement’ undertaking
+      by apologists rather than viewed as ‘aggression’ by critics. It is a geopolitical
+      expression of extra-legal prerogatives shielded from UN censure and sanctions
+      by the veto power of the P5, and in that sense reflects the same mentality underlying
+      the complicity with Gaza genocide. What the UN did by unanimously endorsing the
+      Trump Plan is to lend an aura of legitimacy to the US earlier role that was alarmingly
+      veto-free and a tacit acknowledgement that ‘peacemaking’ is also within the domain
+      of geopolitical discretion, regardless of values at stake, including basic human
+      rights. In the Venezuela context the UN is more responsive to the international
+      law dimension because states regard their national economic interests and sovereignty
+      endangered by US imperial disregard for borders, political independence, and sovereignty
+      over natural resources. Israel in contrast is subconsciously perceived as falling
+      within a non-spatially defined sphere of interests geopolitics, and less threatening
+      as systemic challenge to the statist character of world order. ] After October
+      7 Attack: Genocide as Retaliation Throughout this period challenging the adequacy
+      of the UN in the face of genocide, there were reasons to redeem its reputation,
+      including an awareness that its refusal to respect judgments of the leading international
+      tribunals (International Court of Justice and International Criminal Court). It
+      needs to be better understood that when the UN was established 80 years ago the
+      Charter design gave the last word on the management of global security to the
+      five winning states in World War, and not to international law or the UN as believed
+      by the most ardent champions of a meta-state rule governed world order . By clear
+      intention despite the priority accorded war prevention in the Preamble to the
+      Charter, the capabilities of the UN to act coercively against aggression, apartheid,
+      and genocide were withheld from the Organization. Instead, the winners (that is,
+      the five permanent members of the Security Council of P5) of the recently concluded
+      war against fascism were also given a right of veto that amounted to a limitless
+      entitlement of any one of the five in the only UN political organ with the authority
+      to make binding decisions to block action. Tahis provision meant not only an opting
+      out of decisions contrary to their will but of preventing Security Council from
+      acting even when the other 14 members were united in voting for a decision. In
+      practice this meant that prospects for peace and security in major conflict situations
+      were left to the geopolitical calculations and alignments of these most powerful
+      and dangerous members of the new organization. During the Cold War, which prevailed
+      globally between 1945-1991 the paralysis of the UN in relation to the management
+      of global security was mainly due to the discretion at the disposal of the opposed
+      alliances of the US-led NATO forces on the Western side of the ideological divide
+      and strategic rivalry. On the other side was the Soviet-led Warsaw Pact forces.
+      The UN contented itself with being a spectator, or site of opposing propaganda
+      denunciations as regarding the Vietnam War, Moscow’s interventions in Eastern
+      Europe, and other settings of violent conflict involving the strategic interests
+      of the P5. This was partly due to the constitutional framework of the UN, but
+      it also reflected the unwillingness of many leading countries to dilute sovereignty
+      when it came to their national security agendas. This refusal was most dramatically
+      illustrated by the rejection of nuclear disarmament and a preferred reliance on
+      deterrence, exhibiting the militarist orientations of foreign policy elites in
+      leading governments, including all of the P5 states augmented by others. This
+      blends a militarized hard power version of global security with P5 strategic ambitions
+      to reinvent Western domination in a period of collapsing European colonialism.
+      It is also reflected priorities attached to internal issues of policy urgency
+      connected with development and national security. In effect, unless civil society
+      was mobilized around the world, as most prominently in relation to European colonialism
+      and South African racism, internationalism lacked the political will and material
+      capabilities to act effectively in relation to local (non-systemic) war prevention
+      and even the most severe encroachments on human rights. Against this background,
+      the role of the UN while disappointing was not surprising given the strong ties
+      between the white West and Israel in this encounter with a Muslim majority Palestine
+      in the strategically important Middle East with respect to the geopolitical priorities
+      of the West and its allies. This lent the Israel/Palestine struggle an inter-civilizational
+      dimension while also posing a challenge to Western hegemony in relation to energy
+      reserves, arms sales, and more generally, trade and investment. This line of interpretation
+      was accentuated by the anti-Western religiously oriented Hamas, a non-state entity
+      that was characterized in Western media and state propaganda as nothing other
+      than a terrorist organization. Such a posture ignored the 2006 political victory
+      in Gaza of Hamas in an internationally monitored election and its role as the
+      center of legally grounded Palestinian resistance to an Israeli occupation that
+      consistently violated international humanitarian legal standards as set forth
+      in the 4 th Geneva Convention of 1949 governing ‘belligerent occupation,’ while
+      Israel showed no signs of withdrawing as expected to its 1967 borders, which were
+      themselves far in excess of the partition arrangement proposed in 1947 by the
+      UN in GA Resolution 181.  Several UN members complicit with Israel overtly supported
+      the genocide in Gaza for two years, stepping back from support mainly because
+      of the rise of public protest activity in their countries as it became evident
+      that Israel was exceeding all constraints of law and morality in persisting with
+      its genocidal campaign. As well, many other states, including many in Muslim majority
+      countries while opposing Israel’s conduct in Gaza rhetorically , continued covertly
+      to maintain mutually favorable economic relationships vital for sustaining Israel’s
+      genocidal campaign. It should be appreciated that the ICJ by a near unanimous
+      vote on July 19, 2024 declared continuing Israeli occupation of Gaza and the West
+      Bank (and even East Jerusalem) to be unlawful, decreeing its withdrawal, an outcome
+      that the General Assembly formally supported while Israel and its support group
+      ignored or dismissed. It is important to appreciate that the ICJ, the judicial
+      arm of the UN, performed professionally, upholding international law, although
+      failing to secure Israeli compliance or the material and diplomatic support of
+      its group of enabler countries, underscoring that the failure of the UN was not
+      related to international law as such, but to the design of the Organization that
+      vested enforcement authority in the Security Council, and residually in the General
+      Assembly. In that regard the SC was paralyzed by the veto, and the GA by the weakness
+      of political will. This political agenda explains the six ceasefire initiatives
+      that were vetoed in the Security Council combined with the failure of complicit
+      states, above all, the United States, to use its soft power leverage to induce
+      Israel to stop its assault on Gaza and satisfy the legitimate grievances of the
+      Palestinian people. Such a willingness is inhibited by adhering political realism
+      of the pre-nuclear age and the special interests of the arms industries and a
+      long militarized governmental bureaucracy. There was a further distinctive feature
+      of the Israeli reality that drew upon the lingering guilt of the liberal West
+      toward its feeble response to Nazi antisemitism and the Holocaust. In effect,
+      Israel enjoyed a positive status by being situated within a unique Western sphere
+      of influenced, reinforced further by the global network of Zionist influence dedicated
+      to ensuring a pro-Israel foreign policy (as well analyzed by John J. Mersheimer
+      & Stephen M. Walt in their book on the Israel lobby in the United States, The
+      Israel Lobby and U.S. Foreign Policy (2007).] The Disgraceful UN Response to the
+      Trump Plan Against this background, the 15 members of the Security Council, disgracefully
+      voted unanimously in favor of the US draft resolution, adopted as SC Resolution
+      2803 on November 17, 2025, endorsing the Trump Plan for the stabilization of Gaza.
+      The plan emerged with the approval and substantive inputs of Israel, significantly
+      unveiled during a Netanyahu visit to the White House at a joint press conference.
+      The core feature of the plan was to reward the perpetrators of prolonged genocide,
+      further aggravated and preceded by apartheid and resulting in making a wasteland
+      of Gaza. Shockingly, there no references in the resolution to Israel’s defiance
+      of rulings of the International Court of Justice, resolutions of the General Assembly,
+      or the assessments of independent scholars and genocide. Neither Israel nor the
+      United States, nor the other complicit states were obliged, or even encouraged,
+      to pay reparations for the unlawful devastation caused in Gaza. Instead, this
+      was left to be sorted out by the combined forces of vulture capitalism operating
+      freely as if Gaza reconstruction should be treated as a juicy real estate venture
+      with the monetary contributions expected to be contributed by wealthy Arab governments.
+      In this process, not only was the diplomatic framework imposed on the Palestinians,
+      but the US was outrageously accepted, without even a whimper of protest, as the
+      legitimate ‘peacemaker’ although it was overtly collaborating with Israel in drafting
+      the plan that pointedly excluding Palestinian participation, thereby suppressing
+      their right of self-determination. Indeed, the US Government went so far as to
+      deny visas to any Palestinian Authority delegate who sought to attend the 2025
+      General Assembly meeting of the UN or to otherwise take part in UN and other proceedings
+      shaping Palestine as a political entity. What makes the resolution a step backward
+      if the objective had been what it should have been, arrangements for a peaceful
+      and just future crafted with the participation of Palestinian representation as
+      determined by an open and internationally monitored referendum with a presumed
+      goal of dedication to a just and durable peace. Instead, SC Resolution 2803 if
+      considered as a whole, indirectly exonerates the culprits for their past behavior
+      carrying impunity to an extreme, perverse UN validation. Beyond this 2803 openly
+      acknowledges and gives its approval to US total control of recentdiplomatic efforts
+      to replace unrestrained Israeli violence with a ceasefire that Israel ignores
+      at its pleasure and US indulgence. The bloody result has been hundreds of lethal
+      violations of the ceasefire killing up to now of hundreds of Palestinians by estimates
+      of the Gaza Health Ministry, without Israel even being reprimanded by Washington
+      for so abusing a ceasefire deal. Why Hamas accepts this Israeli practice of accepting
+      the ceasefire while simultaneously continuing with genocide at a decelerated rate,
+      and persisting with cruel policies causing widespread severe suffering among the
+      entire Gazan population of an estimated two million Palestinian survivors traumatized
+      and homeless after two plus years of genocidal assault. As to the future, 2803
+      endorses a colonialist transitional arrangement given operational reality by a
+      Board of Peace, of course to be chaired by none other than Donald Trump and given
+      stability in Gaza by the formation of an International Stabilization Force to
+      be formed by the contributions of troops by UN members endorsing the plan. The
+      US has brazenly acknowledged its own transactional goals by pledging $112 billion
+      to rebuild Gaza as a global hub for trade, investment, and tourism. Governance
+      in Gaza is left in part to Israel that seems to be claiming a permanent, unilaterally
+      enlarged security presence in northern Gaza above and beyond the original yellow
+      line. Given the highly dubious manner of recovering from the Gaza catastrophe
+      at this late stage, how can we explain its widespread international support, and
+      the disappearance of opposition in the Security Council? The five SC members from
+      the Global South (Algeria, Somalia, Guyana, Sierra Leone, and Panama), made some
+      critical comments about 2803 during the formal discussion that preceded the vote,
+      centering on its vagueness as to crucial details and even to its one-sidedness,
+      yet all ended up voting in favor. Did such a vote reflect genuine agreement, or
+      more likely, was it a vote that willingly submitted to geopolitical primacy when
+      it came to the management of global security? And why would Indonesia and Pakistan,
+      Muslim majority countries, even if not members of SC, go out of their way to express
+      approval of the 2803 path to the future? More predictable, yet nevertheless disappointing,
+      was the approval expressed by the European Union. Such a diplomatic display served
+      as a cynical reminder that Israel’s treatment of Palestinians is part of Judeo-Christian
+      civilizational long game of sustaining Middle Eastern hegemony. As troubling was
+      the gratuitous endorsement of 2803 given by the UN Secretary General, Antonio
+      Guterres, who not only welcomed the resolution but expressed the hope that its
+      momentum would be converted into “concrete action.” Thankfully, UN Special Rapporteur
+      on Human Rights in the Occupied Palestinian Territories, Francesca Albanese, expressed
+      “serious concern with the Security Council’s adoption of resolution 2803, warning
+      that it runs counter to the Palestinian right to self-determination, consolidates
+      Israël’s unlawful presence in the occupied Palestinian territory, including ongoing
+      unlawful policies and practices, and therefore risks legitimating ongoing mass
+      violence.” Revealingly, Albanese spoke these words of truth to power, after herself
+      enduring punitive sanctions imposed in July for her courageous willingness to
+      bear official witness to what was becoming all too clear to the eyes and ears
+      of the peoples of the world. It is ironic that the UN’s response to 2803 was somewhat
+      rescued from taints of complicity by an unpaid appointee not subject to UN discipline.
+      Her words are congruent with those of Craig Mokhiber who resigned from a senior
+      position at the UN because of its failure to deal responsibly with respect to
+      Palestinian grievances, and in the last couple of years emerged as the most informed
+      and incisive critic of the UN approach, reinforcing Albanese’s forthrightness
+      on behalf of law and justice with respect to Palestinian grievances and rights,
+      but the Organization’s own transactional approach privileged geopolitical imperatives
+      over compliance with the UN Charter. It additionally seems strange and cynical
+      that Russia and China, although voicing some criticisms during the discussion,
+      did not use their right of veto to block passage of 2803, especially given the
+      frequent use of the veto on Israel’s behalf by the US and considering the principles
+      at stake. It is likely that these two geopolitical rivals of the US were impressed
+      by Hamas’ acceptance of the overall approach and did not want to be seen as spoilers
+      held responsible for a breakdown of the Trump Plan that would have undoubtedly
+      have produced produce a total breakdown of the already tarnished ceasefire. Additionally,
+      China and Russia both seem to believe that global stability is best preserved
+      by extending a degree of geopolitical reciprocity to their trilateral relations.
+      In this limited sense, Trump seems more in accord with how cooperative relations
+      with these two countries would bring stability and transactional gains than did
+      the Biden approach of fighting Russia by way of Ukraine to preserve US post-Cold
+      War dominance, a path that increased the risk of a third world war fought with
+      nuclear war leading to a lengthening of the Ukraine War with heave casualties
+      on both sides. Trump’s approach, although fragile because of his mercurial style,
+      stressing geopolitical stability, including an acceptance of spheres of influence
+      as compromising the sovereignty and wellbeing of smaller states and even, as here,
+      of overlooking genocide. The rejection of 2803’s endorsement of the Trump plan
+      by Hamas was not entirely a surprise. It does not explain why Hamas ever accepted
+      the Trump diplomacy at its outset except for its ceasefire and IDF withdrawal
+      prospects. Hamas’ acceptance extended to the whole of the Trump plan, but with
+      this stand against 2803 and its announced refusal to disarm it may now be either
+      the basis of a better compromise or at least a stalemate as to further progress.
+      Hamas, and Iran, the other vocal critic of the SC resolution, also undoubtedly
+      are reacting to the absence on Israel’s part of any willingness to show signs
+      of embracing a politics of reconciliation, even to the extent of conscientiously
+      upholding the early ceasefire, partial withdrawal, and an end to the rigid constraints
+      on humanitarian aid. For Israel to have shown no mercy to a population living
+      without heat, secure shelter, and adequate food and medical supplies is to send
+      the chilling message that Israel has not even considered abandoning its expansionist
+      ambitions that include further ethnic cleansing in Gaza and a surge of settlement
+      growth on the West Bank leading to de facto annexation as a prelude to formal
+      annexation and inclusion in the realization of the Greater Israel endgame. From
+      its inception more than a century ago, the Zionist Movement has employed ‘salami
+      tactics’ to obtain what was politically possible at a given moment, and waiting
+      to satisfy other goals until the political climate made it feasible. The US representative
+      in the SC, Amb. Mike Waltz, insisted that “[a] vote against this resolution is
+      a vote to return to war” was part of the ‘take it or leave it’ Trump approach.
+      Nor is it surprising that Netanyahu hailed the endorsement of 2803 by declaring
+      “that President Trump’s plan will lead to peace and prosperity because it insists
+      upon full demilitarization, disarmament, and the deradicalization of Gaza.” [
+      15 ] Or that France and the UK sugarcoated their endorsements of the Trump Plan
+      by verbal statements of conditional support for eventual Palestinian statehood
+      as affirmed in its sponsorship of the New York Declaration, envisioning future
+      Palestinian representation under the authority of a reconstituted Palestinian
+      Authority (PA), itself a creature of US/Israel dominated diplomacy that has circumvented
+      Palestinian self-determination. Under present conditioned the PA is being repurposed
+      to implement the Trump Plan. The PA announced its support for 2803 in a move calculated
+      to convince Israel and the US that it can be counted upon to go along with their
+      stabilization scenario despite its rejection of Palestinian grievances and denial
+      of Palestine’s right of self-determination. Such a PA position, undoubtedly motivated
+      by cynical opportunism, should be treated as discrediting the PA from representing
+      the interests of the Palestinian people, but one wonders. Offering such ‘breadcrumb’
+      rewards to the PA, while disqualifying Hamas from any role in representing the
+      Palestinian people is emblematic of the next phase of the Zionist end game intent
+      on achieving a political surrender of Palestine and the elimination of Hamas and
+      Palestinian resistance, limiting ambitions for ‘playing nice’ to nominal statehood
+      masking an Israeli/US protectorate. Concluding Remarks The maneuvers of states,
+      following their interests rather than supposedly shared values associated with
+      the UN Charter and the international rule of law, is to be expected given the
+      history of international relations and the political realist orientation of most
+      foreign policy elites. Nevertheless, it is regrettable, given the gross disregard
+      of justice and rights, which pervades the Trump Plan and the diplomatic and hard
+      power muscle at the disposal of the US. It does not augur well for meeting other
+      world order challenges including climate change, migratory flows, ecological stability,
+      less inequitable distributions of wealth and income to individuals, states, and
+      regions, as well as a more robust commitment to peaceful modes of conflict resolution.
+      This saga of 2803 is particularly unfortunate because it shows that the geopolitical
+      management of global security extends beyond the veto power of the P5. For the
+      sake of stability, the UN venue implicitly swallows the Israeli genocide to an
+      unseemly extent of unanimously endorsing a neo-colonialist future for Gaza and
+      impunity plus for Israel and its complicit supporters. Symbolic of this unseemly
+      submission by the UN and its membership is the endorsement of 2803 by the UN leader,
+      Antonio Guterres, an individual declared persona non grata by Israel more than
+      a year ago. Israel’s insulting dismissal of the UN as ‘a cesspool of antisemitism’
+      and the like should have at least led the Organization’s Secretary General to
+      respond with stony silence to 2803 rather than cynically kneel in submission.
+      sending a shameful message to the world that from the perspective of the UN that
+      genocide does not disqualify a state from receiving diplomatic and territorial
+      rewards as long as the geopolitical actors or P5 remain on board or at least silent.
+      In effect, the dynamics of power politics is still making history, despite the
+      disastrous consequences. One takeaway from this 2803 experience is a realization
+      that the Global South is not sufficiently ready to seek geopolitical symmetry
+      in what is often interpreted as the hopeful interpretation of the emergence of
+      a multipolar world order. By geopolitical symmetry is meant an historic embrace
+      of polycentric balance that increasingly challenges the P5 asymmetry that has
+      dominated the UN for the past 80 years.'
+    one_sentence_summary: The article critiques the U.S. actions against Venezuela,
+      framing them as aggressive and extra-legal, while highlighting the UN's complicity
+      in legitimizing such geopolitical maneuvers, which undermine human rights and
+      international law.
+    paragraph_summary: The article discusses the U.S. aggression against Venezuela,
+      characterized by the kidnapping of its elected president and subsequent legal
+      actions framed as a law enforcement operation, which critics view as a violation
+      of sovereignty. This incident is seen as part of a broader pattern of geopolitical
+      maneuvering that reflects the United States' disregard for international law and
+      the UN's complicity, particularly in the context of its endorsement of the Trump
+      Plan regarding Israel and Gaza. The author argues that the UN's structure, which
+      grants significant power to the five permanent members of the Security Council,
+      undermines its ability to uphold international law and human rights, leading to
+      a perception that the organization is ineffective in addressing issues of genocide
+      and aggression. The piece calls for a reevaluation of the UN's role and its responsiveness
+      to global security challenges, particularly in light of the implications for national
+      sovereignty and economic interests.
+    published: '2026-01-07T20:05:18+00:00'
+  - title: 'Shame on The UN: Ratifying Genocide, Legitimating the Trump Plan'
+    url: https://richardfalk.org/2026/01/07/shame-on-the-un-ratifying-genocide-legitimating-the-trump-plan/
+    text: '[ Prefatory Note ; This essay in modified form was published on December
+      29, 2025 in CounterPunch. The January 3 acts of US aggression against Venezuela
+      and kidnapping of its elected President followed by an indictment in US Federal
+      Court on charges of narco-terrorism. Rationalized as a ‘law enforcement’ undertaking
+      by apologists rather than viewed as ‘aggression’ by critics. It is a geopolitical
+      expression of extra-legal prerogatives shielded from UN censure and sanctions
+      by the veto power of the P5, and in that sense reflects the same mentality underlying
+      the complicity with Gaza genocide. What the UN did by unanimously endorsing the
+      Trump Plan is to lend an aura of legitimacy to the US earlier role that was alarmingly
+      veto-free and a tacit acknowledgement that ‘peacemaking’ is also within the domain
+      of geopolitical discretion, regardless of values at stake, including basic human
+      rights. In the Venezuela context the UN is more responsive to the international
+      law dimension because states regard their national economic interests and sovereignty
+      endangered by US imperial disregard for borders, political independence, and sovereignty
+      over natural resources. Israel in contrast is subconsciously perceived as falling
+      within a non-spatially defined sphere of interests geopolitics, and less threatening
+      as systemic challenge to the statist character of world order. ] After October
+      7 Attack: Genocide as Retaliation Throughout this period challenging the adequacy
+      of the UN in the face of genocide, there were reasons to redeem its reputation,
+      including an awareness that its refusal to respect judgments of the leading international
+      tribunals (International Court of Justice and International Criminal Court). It
+      needs to be better understood that when the UN was established 80 years ago the
+      Charter design gave the last word on the management of global security to the
+      five winning states in World War, and not to international law or the UN as believed
+      by the most ardent champions of a meta-state rule governed world order . By clear
+      intention despite the priority accorded war prevention in the Preamble to the
+      Charter, the capabilities of the UN to act coercively against aggression, apartheid,
+      and genocide were withheld from the Organization. Instead, the winners (that is,
+      the five permanent members of the Security Council of P5) of the recently concluded
+      war against fascism were also given a right of veto that amounted to a limitless
+      entitlement of any one of the five in the only UN political organ with the authority
+      to make binding decisions to block action. Tahis provision meant not only an opting
+      out of decisions contrary to their will but of preventing Security Council from
+      acting even when the other 14 members were united in voting for a decision. In
+      practice this meant that prospects for peace and security in major conflict situations
+      were left to the geopolitical calculations and alignments of these most powerful
+      and dangerous members of the new organization. During the Cold War, which prevailed
+      globally between 1945-1991 the paralysis of the UN in relation to the management
+      of global security was mainly due to the discretion at the disposal of the opposed
+      alliances of the US-led NATO forces on the Western side of the ideological divide
+      and strategic rivalry. On the other side was the Soviet-led Warsaw Pact forces.
+      The UN contented itself with being a spectator, or site of opposing propaganda
+      denunciations as regarding the Vietnam War, Moscow’s interventions in Eastern
+      Europe, and other settings of violent conflict involving the strategic interests
+      of the P5. This was partly due to the constitutional framework of the UN, but
+      it also reflected the unwillingness of many leading countries to dilute sovereignty
+      when it came to their national security agendas. This refusal was most dramatically
+      illustrated by the rejection of nuclear disarmament and a preferred reliance on
+      deterrence, exhibiting the militarist orientations of foreign policy elites in
+      leading governments, including all of the P5 states augmented by others. This
+      blends a militarized hard power version of global security with P5 strategic ambitions
+      to reinvent Western domination in a period of collapsing European colonialism.
+      It is also reflected priorities attached to internal issues of policy urgency
+      connected with development and national security. In effect, unless civil society
+      was mobilized around the world, as most prominently in relation to European colonialism
+      and South African racism, internationalism lacked the political will and material
+      capabilities to act effectively in relation to local (non-systemic) war prevention
+      and even the most severe encroachments on human rights. Against this background,
+      the role of the UN while disappointing was not surprising given the strong ties
+      between the white West and Israel in this encounter with a Muslim majority Palestine
+      in the strategically important Middle East with respect to the geopolitical priorities
+      of the West and its allies. This lent the Israel/Palestine struggle an inter-civilizational
+      dimension while also posing a challenge to Western hegemony in relation to energy
+      reserves, arms sales, and more generally, trade and investment. This line of interpretation
+      was accentuated by the anti-Western religiously oriented Hamas, a non-state entity
+      that was characterized in Western media and state propaganda as nothing other
+      than a terrorist organization. Such a posture ignored the 2006 political victory
+      in Gaza of Hamas in an internationally monitored election and its role as the
+      center of legally grounded Palestinian resistance to an Israeli occupation that
+      consistently violated international humanitarian legal standards as set forth
+      in the 4 th Geneva Convention of 1949 governing ‘belligerent occupation,’ while
+      Israel showed no signs of withdrawing as expected to its 1967 borders, which were
+      themselves far in excess of the partition arrangement proposed in 1947 by the
+      UN in GA Resolution 181.  Several UN members complicit with Israel overtly supported
+      the genocide in Gaza for two years, stepping back from support mainly because
+      of the rise of public protest activity in their countries as it became evident
+      that Israel was exceeding all constraints of law and morality in persisting with
+      its genocidal campaign. As well, many other states, including many in Muslim majority
+      countries while opposing Israel’s conduct in Gaza rhetorically , continued covertly
+      to maintain mutually favorable economic relationships vital for sustaining Israel’s
+      genocidal campaign. It should be appreciated that the ICJ by a near unanimous
+      vote on July 19, 2024 declared continuing Israeli occupation of Gaza and the West
+      Bank (and even East Jerusalem) to be unlawful, decreeing its withdrawal, an outcome
+      that the General Assembly formally supported while Israel and its support group
+      ignored or dismissed. It is important to appreciate that the ICJ, the judicial
+      arm of the UN, performed professionally, upholding international law, although
+      failing to secure Israeli compliance or the material and diplomatic support of
+      its group of enabler countries, underscoring that the failure of the UN was not
+      related to international law as such, but to the design of the Organization that
+      vested enforcement authority in the Security Council, and residually in the General
+      Assembly. In that regard the SC was paralyzed by the veto, and the GA by the weakness
+      of political will. This political agenda explains the six ceasefire initiatives
+      that were vetoed in the Security Council combined with the failure of complicit
+      states, above all, the United States, to use its soft power leverage to induce
+      Israel to stop its assault on Gaza and satisfy the legitimate grievances of the
+      Palestinian people. Such a willingness is inhibited by adhering political realism
+      of the pre-nuclear age and the special interests of the arms industries and a
+      long militarized governmental bureaucracy. There was a further distinctive feature
+      of the Israeli reality that drew upon the lingering guilt of the liberal West
+      toward its feeble response to Nazi antisemitism and the Holocaust. In effect,
+      Israel enjoyed a positive status by being situated within a unique Western sphere
+      of influenced, reinforced further by the global network of Zionist influence dedicated
+      to ensuring a pro-Israel foreign policy (as well analyzed by John J. Mersheimer
+      & Stephen M. Walt in their book on the Israel lobby in the United States, The
+      Israel Lobby and U.S. Foreign Policy (2007).] The Disgraceful UN Response to the
+      Trump Plan Against this background, the 15 members of the Security Council, disgracefully
+      voted unanimously in favor of the US draft resolution, adopted as SC Resolution
+      2803 on November 17, 2025, endorsing the Trump Plan for the stabilization of Gaza.
+      The plan emerged with the approval and substantive inputs of Israel, significantly
+      unveiled during a Netanyahu visit to the White House at a joint press conference.
+      The core feature of the plan was to reward the perpetrators of prolonged genocide,
+      further aggravated and preceded by apartheid and resulting in making a wasteland
+      of Gaza. Shockingly, there no references in the resolution to Israel’s defiance
+      of rulings of the International Court of Justice, resolutions of the General Assembly,
+      or the assessments of independent scholars and genocide. Neither Israel nor the
+      United States, nor the other complicit states were obliged, or even encouraged,
+      to pay reparations for the unlawful devastation caused in Gaza. Instead, this
+      was left to be sorted out by the combined forces of vulture capitalism operating
+      freely as if Gaza reconstruction should be treated as a juicy real estate venture
+      with the monetary contributions expected to be contributed by wealthy Arab governments.
+      In this process, not only was the diplomatic framework imposed on the Palestinians,
+      but the US was outrageously accepted, without even a whimper of protest, as the
+      legitimate ‘peacemaker’ although it was overtly collaborating with Israel in drafting
+      the plan that pointedly excluding Palestinian participation, thereby suppressing
+      their right of self-determination. Indeed, the US Government went so far as to
+      deny visas to any Palestinian Authority delegate who sought to attend the 2025
+      General Assembly meeting of the UN or to otherwise take part in UN and other proceedings
+      shaping Palestine as a political entity. What makes the resolution a step backward
+      if the objective had been what it should have been, arrangements for a peaceful
+      and just future crafted with the participation of Palestinian representation as
+      determined by an open and internationally monitored referendum with a presumed
+      goal of dedication to a just and durable peace. Instead, SC Resolution 2803 if
+      considered as a whole, indirectly exonerates the culprits for their past behavior
+      carrying impunity to an extreme, perverse UN validation. Beyond this 2803 openly
+      acknowledges and gives its approval to US total control of recentdiplomatic efforts
+      to replace unrestrained Israeli violence with a ceasefire that Israel ignores
+      at its pleasure and US indulgence. The bloody result has been hundreds of lethal
+      violations of the ceasefire killing up to now of hundreds of Palestinians by estimates
+      of the Gaza Health Ministry, without Israel even being reprimanded by Washington
+      for so abusing a ceasefire deal. Why Hamas accepts this Israeli practice of accepting
+      the ceasefire while simultaneously continuing with genocide at a decelerated rate,
+      and persisting with cruel policies causing widespread severe suffering among the
+      entire Gazan population of an estimated two million Palestinian survivors traumatized
+      and homeless after two plus years of genocidal assault. As to the future, 2803
+      endorses a colonialist transitional arrangement given operational reality by a
+      Board of Peace, of course to be chaired by none other than Donald Trump and given
+      stability in Gaza by the formation of an International Stabilization Force to
+      be formed by the contributions of troops by UN members endorsing the plan. The
+      US has brazenly acknowledged its own transactional goals by pledging $112 billion
+      to rebuild Gaza as a global hub for trade, investment, and tourism. Governance
+      in Gaza is left in part to Israel that seems to be claiming a permanent, unilaterally
+      enlarged security presence in northern Gaza above and beyond the original yellow
+      line. Given the highly dubious manner of recovering from the Gaza catastrophe
+      at this late stage, how can we explain its widespread international support, and
+      the disappearance of opposition in the Security Council? The five SC members from
+      the Global South (Algeria, Somalia, Guyana, Sierra Leone, and Panama), made some
+      critical comments about 2803 during the formal discussion that preceded the vote,
+      centering on its vagueness as to crucial details and even to its one-sidedness,
+      yet all ended up voting in favor. Did such a vote reflect genuine agreement, or
+      more likely, was it a vote that willingly submitted to geopolitical primacy when
+      it came to the management of global security? And why would Indonesia and Pakistan,
+      Muslim majority countries, even if not members of SC, go out of their way to express
+      approval of the 2803 path to the future? More predictable, yet nevertheless disappointing,
+      was the approval expressed by the European Union. Such a diplomatic display served
+      as a cynical reminder that Israel’s treatment of Palestinians is part of Judeo-Christian
+      civilizational long game of sustaining Middle Eastern hegemony. As troubling was
+      the gratuitous endorsement of 2803 given by the UN Secretary General, Antonio
+      Guterres, who not only welcomed the resolution but expressed the hope that its
+      momentum would be converted into “concrete action.” Thankfully, UN Special Rapporteur
+      on Human Rights in the Occupied Palestinian Territories, Francesca Albanese, expressed
+      “serious concern with the Security Council’s adoption of resolution 2803, warning
+      that it runs counter to the Palestinian right to self-determination, consolidates
+      Israël’s unlawful presence in the occupied Palestinian territory, including ongoing
+      unlawful policies and practices, and therefore risks legitimating ongoing mass
+      violence.” Revealingly, Albanese spoke these words of truth to power, after herself
+      enduring punitive sanctions imposed in July for her courageous willingness to
+      bear official witness to what was becoming all too clear to the eyes and ears
+      of the peoples of the world. It is ironic that the UN’s response to 2803 was somewhat
+      rescued from taints of complicity by an unpaid appointee not subject to UN discipline.
+      Her words are congruent with those of Craig Mokhiber who resigned from a senior
+      position at the UN because of its failure to deal responsibly with respect to
+      Palestinian grievances, and in the last couple of years emerged as the most informed
+      and incisive critic of the UN approach, reinforcing Albanese’s forthrightness
+      on behalf of law and justice with respect to Palestinian grievances and rights,
+      but the Organization’s own transactional approach privileged geopolitical imperatives
+      over compliance with the UN Charter. It additionally seems strange and cynical
+      that Russia and China, although voicing some criticisms during the discussion,
+      did not use their right of veto to block passage of 2803, especially given the
+      frequent use of the veto on Israel’s behalf by the US and considering the principles
+      at stake. It is likely that these two geopolitical rivals of the US were impressed
+      by Hamas’ acceptance of the overall approach and did not want to be seen as spoilers
+      held responsible for a breakdown of the Trump Plan that would have undoubtedly
+      have produced produce a total breakdown of the already tarnished ceasefire. Additionally,
+      China and Russia both seem to believe that global stability is best preserved
+      by extending a degree of geopolitical reciprocity to their trilateral relations.
+      In this limited sense, Trump seems more in accord with how cooperative relations
+      with these two countries would bring stability and transactional gains than did
+      the Biden approach of fighting Russia by way of Ukraine to preserve US post-Cold
+      War dominance, a path that increased the risk of a third world war fought with
+      nuclear war leading to a lengthening of the Ukraine War with heave casualties
+      on both sides. Trump’s approach, although fragile because of his mercurial style,
+      stressing geopolitical stability, including an acceptance of spheres of influence
+      as compromising the sovereignty and wellbeing of smaller states and even, as here,
+      of overlooking genocide. The rejection of 2803’s endorsement of the Trump plan
+      by Hamas was not entirely a surprise. It does not explain why Hamas ever accepted
+      the Trump diplomacy at its outset except for its ceasefire and IDF withdrawal
+      prospects. Hamas’ acceptance extended to the whole of the Trump plan, but with
+      this stand against 2803 and its announced refusal to disarm it may now be either
+      the basis of a better compromise or at least a stalemate as to further progress.
+      Hamas, and Iran, the other vocal critic of the SC resolution, also undoubtedly
+      are reacting to the absence on Israel’s part of any willingness to show signs
+      of embracing a politics of reconciliation, even to the extent of conscientiously
+      upholding the early ceasefire, partial withdrawal, and an end to the rigid constraints
+      on humanitarian aid. For Israel to have shown no mercy to a population living
+      without heat, secure shelter, and adequate food and medical supplies is to send
+      the chilling message that Israel has not even considered abandoning its expansionist
+      ambitions that include further ethnic cleansing in Gaza and a surge of settlement
+      growth on the West Bank leading to de facto annexation as a prelude to formal
+      annexation and inclusion in the realization of the Greater Israel endgame. From
+      its inception more than a century ago, the Zionist Movement has employed ‘salami
+      tactics’ to obtain what was politically possible at a given moment, and waiting
+      to satisfy other goals until the political climate made it feasible. The US representative
+      in the SC, Amb. Mike Waltz, insisted that “[a] vote against this resolution is
+      a vote to return to war” was part of the ‘take it or leave it’ Trump approach.
+      Nor is it surprising that Netanyahu hailed the endorsement of 2803 by declaring
+      “that President Trump’s plan will lead to peace and prosperity because it insists
+      upon full demilitarization, disarmament, and the deradicalization of Gaza.” [
+      15 ] Or that France and the UK sugarcoated their endorsements of the Trump Plan
+      by verbal statements of conditional support for eventual Palestinian statehood
+      as affirmed in its sponsorship of the New York Declaration, envisioning future
+      Palestinian representation under the authority of a reconstituted Palestinian
+      Authority (PA), itself a creature of US/Israel dominated diplomacy that has circumvented
+      Palestinian self-determination. Under present conditioned the PA is being repurposed
+      to implement the Trump Plan. The PA announced its support for 2803 in a move calculated
+      to convince Israel and the US that it can be counted upon to go along with their
+      stabilization scenario despite its rejection of Palestinian grievances and denial
+      of Palestine’s right of self-determination. Such a PA position, undoubtedly motivated
+      by cynical opportunism, should be treated as discrediting the PA from representing
+      the interests of the Palestinian people, but one wonders. Offering such ‘breadcrumb’
+      rewards to the PA, while disqualifying Hamas from any role in representing the
+      Palestinian people is emblematic of the next phase of the Zionist end game intent
+      on achieving a political surrender of Palestine and the elimination of Hamas and
+      Palestinian resistance, limiting ambitions for ‘playing nice’ to nominal statehood
+      masking an Israeli/US protectorate. Concluding Remarks The maneuvers of states,
+      following their interests rather than supposedly shared values associated with
+      the UN Charter and the international rule of law, is to be expected given the
+      history of international relations and the political realist orientation of most
+      foreign policy elites. Nevertheless, it is regrettable, given the gross disregard
+      of justice and rights, which pervades the Trump Plan and the diplomatic and hard
+      power muscle at the disposal of the US. It does not augur well for meeting other
+      world order challenges including climate change, migratory flows, ecological stability,
+      less inequitable distributions of wealth and income to individuals, states, and
+      regions, as well as a more robust commitment to peaceful modes of conflict resolution.
+      This saga of 2803 is particularly unfortunate because it shows that the geopolitical
+      management of global security extends beyond the veto power of the P5. For the
+      sake of stability, the UN venue implicitly swallows the Israeli genocide to an
+      unseemly extent of unanimously endorsing a neo-colonialist future for Gaza and
+      impunity plus for Israel and its complicit supporters. Symbolic of this unseemly
+      submission by the UN and its membership is the endorsement of 2803 by the UN leader,
+      Antonio Guterres, an individual declared persona non grata by Israel more than
+      a year ago. Israel’s insulting dismissal of the UN as ‘a cesspool of antisemitism’
+      and the like should have at least led the Organization’s Secretary General to
+      respond with stony silence to 2803 rather than cynically kneel in submission.
+      sending a shameful message to the world that from the perspective of the UN that
+      genocide does not disqualify a state from receiving diplomatic and territorial
+      rewards as long as the geopolitical actors or P5 remain on board or at least silent.
+      In effect, the dynamics of power politics is still making history, despite the
+      disastrous consequences. One takeaway from this 2803 experience is a realization
+      that the Global South is not sufficiently ready to seek geopolitical symmetry
+      in what is often interpreted as the hopeful interpretation of the emergence of
+      a multipolar world order. By geopolitical symmetry is meant an historic embrace
+      of polycentric balance that increasingly challenges the P5 asymmetry that has
+      dominated the UN for the past 80 years.'
+    one_sentence_summary: The article critiques the U.S. actions against Venezuela,
+      framing them as aggressive and extra-legal, while highlighting the UN's complicity
+      in legitimizing such geopolitical maneuvers, which undermine human rights and
+      international law.
+    paragraph_summary: The article discusses the U.S. aggression against Venezuela,
+      characterized by the kidnapping of its elected president and subsequent legal
+      actions framed as a law enforcement operation, which critics view as a violation
+      of sovereignty. This incident is seen as part of a broader pattern of geopolitical
+      maneuvering that reflects the United States' disregard for international law and
+      the UN's complicity, particularly in the context of its endorsement of the Trump
+      Plan regarding Israel and Gaza. The author argues that the UN's structure, which
+      grants significant power to the five permanent members of the Security Council,
+      undermines its ability to uphold international law and human rights, leading to
+      a perception that the organization is ineffective in addressing issues of genocide
+      and aggression. The piece calls for a reevaluation of the UN's role and its responsiveness
+      to global security challenges, particularly in light of the implications for national
+      sovereignty and economic interests.
+    published: '2026-01-07T20:05:18+00:00'
   - title: Does Israel Katz Speak for Israel? Will Trump Diplomacy Accept ‘Greater Israel’?
     url: https://richardfalk.org/2025/12/27/does-israel-katz-speak-for-israel-will-trump-diplomacy-accept-greater-israel/
     text: '[ Prefatory Note: The short assessment of Israel’s strategic objectives that
