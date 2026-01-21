@@ -7,15 +7,406 @@ description: "Gilbert Doctorow is a Brussels-based independent political analyst
 websites:
   - https://gilbertdoctorow.com/
 summary: |
-  As the Ukraine conflict grinds into its third year, the past 24 hours have seen notable escalations and new flashpoints across Europe. The Russian military has intensified its campaign against Ukrainian infrastructure, with the latest strikes targeting Kharkov’s energy grid. According to **Gilbert Doctorow**, these attacks are designed to displace Ukrainian civilians, undermine the country’s economic viability, and exert indirect pressure on European governments by threatening another refugee wave. This tactic, Doctorow notes, is “most definitely” part of a broader Russian strategy to force concessions from both Kyiv and its Western backers.
+  The geopolitical landscape remains dominated by the fallout from Donald Trump’s renewed ambitions regarding Greenland and the broader implications for transatlantic relations and European security. The past 24 hours have seen further clarification of these issues, as highlighted in **Gilbert Doctorow**’s latest interviews and televised debates.
   
-  Meanwhile, domestic unrest is mounting within Europe itself. French farmers staged significant protests in Paris, rallying against the Mercosur trade deal. The demonstrations reflect growing discontent over EU trade policies, which many in the French agricultural sector see as threatening their livelihoods. Doctorow highlights that such protests could further complicate the EU’s internal cohesion at a time when unity is already under strain from external crises.
+  A focal point has been Trump’s revived push for U.S. control over Greenland, discussed in depth during **Doctorow**’s afternoon segment with NewsX World (India). While technical issues marred the morning broadcast, the later discussion provided a clearer analysis of the strategic motivations behind Trump’s proposal. **Doctorow** emphasized that this move is not merely symbolic, but rather part of a broader U.S. strategy to secure critical resources and project power in the Arctic. The debate on Belarusian television further underscored the seriousness with which regional actors are now treating the Greenland issue, with **Doctorow** noting the “professional broadcasting quality” and the gravity of the statements made.
   
-  On the international stage, the U.S. position on global norms continues to shift. In recent days, former President Donald Trump publicly dismissed the relevance of international law, particularly in the context of Russia’s actions in Ukraine. This rhetorical move, as previously analyzed by Doctorow, signals a weakening of the traditional Western-led order and emboldens actors willing to challenge established rules.
+  In parallel, the question of Europe’s capacity to respond independently to U.S. policy shifts has resurfaced. **Doctorow** reiterated his skepticism about Europe’s ability to strengthen its own defenses should NATO unravel, a scenario that appears increasingly plausible given the current U.S. administration’s unpredictability. The majority view across recent panels is that European leaders lack both the political will and the military infrastructure to fill any security vacuum left by a U.S. withdrawal.
   
-  **Trends and Predictions:**  
-  The consensus among analysts is that Russia will continue its infrastructure-focused campaign in Ukraine, with further attacks on critical assets “most definitely” expected in the coming weeks. European political instability, fueled by economic grievances and unpopular trade policies, is “quite likely” to intensify, potentially weakening the EU’s collective response to external threats. Finally, the erosion of respect for international law by major powers is “most definitely” accelerating the fragmentation of the post-Cold War order, raising the risk of further escalation in multiple theaters.
+  Looking ahead, the trend is clear: Trump’s assertive posture on Greenland is likely to exacerbate divisions within NATO and between the U.S. and Europe. **Doctorow** concludes with high confidence that “Europe will not be able to mount a credible independent defense in the near term,” and that the Greenland issue will remain a flashpoint for U.S.-European tensions. The broader trajectory points toward a period of heightened uncertainty and strategic recalibration on both sides of the Atlantic.
 articles:
+  - title: Interviews with NewsX World (India) today
+    url: https://gilbertdoctorow.com/2026/01/20/interviews-with-newsx-world-india-today/
+    text: In my last item posted here, I mentioned the delay that sometimes comes in
+      my receiving links to my interviews with News X World.  Happily, I have just received
+      and can now share the links to my appearances this morning and again this afternoon.
+      The first two links below are from the morning. Regrettably there appears to have
+      been some technical problem and there are cuts in what I say at several points,
+      though I think the videos are worthwhile nonetheless. The third link is from this
+      afternoon’s discussion of the Trump’s Greenland adventure, and this one is perfectly
+      intelligible. Trump Criticises UK Over Diego Garcia Ukraine Foreign Minister Urges
+      Support at Davos Greenland/Danish FinMin   /News X World
+    one_sentence_summary: The author shares links to their recent interviews on News
+      X World, noting some technical issues with the morning segments but a clear discussion
+      in the afternoon segment about Trump's Greenland plans.
+    paragraph_summary: The author shares links to their recent interviews with News
+      X World, noting a delay in receiving them. The first two links are from a morning
+      appearance, though they contain some technical issues resulting in cuts to the
+      dialogue. Despite this, the author believes the videos are still valuable. The
+      third link features an afternoon discussion focused on Trump's controversial interest
+      in Greenland, which is presented clearly and without issues.
+    published: '2026-01-20T17:00:35+00:00'
+  - title: Interviews with NewsX World (India) today
+    url: https://gilbertdoctorow.com/2026/01/20/interviews-with-newsx-world-india-today/
+    text: In my last item posted here, I mentioned the delay that sometimes comes in
+      my receiving links to my interviews with News X World.  Happily, I have just received
+      and can now share the links to my appearances this morning and again this afternoon.
+      The first two links below are from the morning. Regrettably there appears to have
+      been some technical problem and there are cuts in what I say at several points,
+      though I think the videos are worthwhile nonetheless. The third link is from this
+      afternoon’s discussion of the Trump’s Greenland adventure, and this one is perfectly
+      intelligible. Trump Criticises UK Over Diego Garcia Ukraine Foreign Minister Urges
+      Support at Davos Greenland/Danish FinMin   /News X World
+    one_sentence_summary: The author shares links to their recent interviews on News
+      X World, noting some technical issues with the morning segments but a clear discussion
+      in the afternoon segment about Trump's Greenland plans.
+    paragraph_summary: The author shares links to their recent interviews with News
+      X World, noting a delay in receiving them. The first two links are from a morning
+      appearance, though they contain some technical issues resulting in cuts to the
+      dialogue. Despite this, the author believes the videos are still valuable. The
+      third link features an afternoon discussion focused on Trump's controversial interest
+      in Greenland, which is presented clearly and without issues.
+    published: '2026-01-20T17:00:35+00:00'
+  - title: 'The Belarus TV debate on Trump’s Greenland ambitions: Talk Show Мнение,
+      18 January 2026'
+    url: https://gilbertdoctorow.com/2026/01/19/the-belarus-tv-debate-on-trumps-greenland-ambitions-talk-show-%d0%bc%d0%bd%d0%b5%d0%bd%d0%b8%d0%b5-18-january-2026/
+    text: 'The talk show on Belarus television about which I alerted the Community last
+      week as a coming attraction was duly broadcast last night and the links are now
+      available. Complete hour-long show posted on youtube: Separate text of my key
+      statement on the show:  in Russian but easily translatable if you copy and paste
+      onto Google https://ctv.by/news/politika/moi-kollegi-govoryat-chto-on-sumasshedshij-gilbert-doktorov-o-trampe
+      In this genre, I am sure you will agree that Belarus is highly professional, by
+      no means provincial.'
+    one_sentence_summary: The anticipated Belarus television talk show aired last night,
+      featuring a key statement from the author, and is now available on YouTube, showcasing
+      the country's professional broadcasting quality.
+    paragraph_summary: A recent talk show aired on Belarusian television, which was
+      previously highlighted as an upcoming event, has now been made available online,
+      with a complete hour-long episode posted on YouTube. The show features a key statement
+      from the speaker, presented in Russian but easily translatable using Google. The
+      speaker emphasizes the professionalism of Belarusian media, asserting that it
+      is far from provincial in its execution.
+    published: '2026-01-19T06:21:02+00:00'
+  - title: 'The Belarus TV debate on Trump’s Greenland ambitions: Talk Show Мнение,
+      18 January 2026'
+    url: https://gilbertdoctorow.com/2026/01/19/the-belarus-tv-debate-on-trumps-greenland-ambitions-talk-show-%d0%bc%d0%bd%d0%b5%d0%bd%d0%b8%d0%b5-18-january-2026/
+    text: 'The talk show on Belarus television about which I alerted the Community last
+      week as a coming attraction was duly broadcast last night and the links are now
+      available. Complete hour-long show posted on youtube: Separate text of my key
+      statement on the show:  in Russian but easily translatable if you copy and paste
+      onto Google https://ctv.by/news/politika/moi-kollegi-govoryat-chto-on-sumasshedshij-gilbert-doktorov-o-trampe
+      In this genre, I am sure you will agree that Belarus is highly professional, by
+      no means provincial.'
+    one_sentence_summary: The anticipated Belarus television talk show aired last night,
+      featuring a key statement from the author, and is now available on YouTube, showcasing
+      the country's professional broadcasting quality.
+    paragraph_summary: A recent talk show aired on Belarusian television, which was
+      previously highlighted as an upcoming event, has now been made available online,
+      with a complete hour-long episode posted on YouTube. The show features a key statement
+      from the speaker, presented in Russian but easily translatable using Google. The
+      speaker emphasizes the professionalism of Belarusian media, asserting that it
+      is far from provincial in its execution.
+    published: '2026-01-19T06:21:02+00:00'
+  - title: 'Trump Vs Europe: Greenland To Troop Mobilisation | Till What Extent Will
+      This Escalate? | NewsX'
+    url: https://gilbertdoctorow.com/2026/01/18/trump-vs-europe-greenland-to-troop-mobilisation-till-what-extent-will-this-escalate-newsx/
+    text: 'Today’s “Big Debate” on Indian global broadcaster News X was a pleasure for
+      me as one of four panelists and I am hopeful that the Community will find it worth
+      a listen. Our task was primarily to make sense of Trump’s conflict with Europe
+      over his planned takeover of Greenland. My fellow panelists were a mixed group
+      in terms of political perspectives, indicating that the producers knew very well
+      what they were doing in bringing us together. The view of the U.S. Deep State
+      was well represented by an American professor of political science at Macalaster
+      College, Andrew Latham, though I do wonder what benefit his students will gain
+      from  expertise in international security and strategic studies coming from a
+      prof who says, as Latham does in his response to my remarks on the coming implosion
+      of NATO, that Europe will do just fine as it puts together its own defenses. 
+      He seems to overlook the small detail of how much time it will take Europe to
+      regroup and arm itself. De facto, if NATO implodes now, in 2026, then Europe will
+      be utterly defenseless against the Russian bear it has been taunting and provoking
+      for the past several years while feeling secure in hiding behind Daddy Sam. Heaven
+      forbid, they might feel compelled to find that new ‘balance’ of interests with
+      the Big Neighbor to the East that Chancellor Merz said is on the agenda. By the
+      way, the good Chancellor has just recalled his 13 officers and soldiers from Greenland,
+      probably in a late effort to have his country removed from Trump’s latest tariffs.
+      Indian panelist Keith Vaz was a conventional as can be in his own way. Vas is
+      a respected representative of the Indian contingent in the Labour Party of Britain.
+      He has clearly been well integrated into the power hierarchy of the U.K.  Wikipedia
+      tells us this about him: “Nigel Keith Anthony Standish Vaz is a British politician
+      who served as the Labour Party Member of Parliament for Leicester East for 32
+      years, from 1987 to 2019. He is the UK Parliament’s longest-serving British Asian
+      MP. Vaz served as the Minister for Europe between October 1999 and June 2001.”
+      As one could imagine, he thinks Keir Starmer is a swell guy who has been very
+      diplomatic in dealing with Trump. And then there is a rather unconventional Indian
+      panelist Sumit Peer. His LinkedIn entry says this about him: “…a renowned Geo-Political
+      Commentator , visionary Columnist, Business Advisor, and a concerned citizen with
+      a mission of contributing towards nation building.” I am appreciative that the
+      host allowed me to take my disruptive discourse to its logical conclusion as I
+      explained that Trump’s main objective in his Greenland adventure is to so rough
+      up the Europeans by his violation of sovereignty and national borders that they
+      vote to leave NATO. This would enable Trump to proceed with his normalization
+      of relations with Russia over the semiconscious and prone body of Rump Ukraine.
+      ©Gilbert Doctorow, 2026'
+    one_sentence_summary: The author reflects on their participation in a debate on
+      News X regarding Trump's proposed takeover of Greenland, highlighting the diverse
+      political perspectives of the panelists and expressing skepticism about the feasibility
+      of Europe independently strengthening its defenses in the event of NATO's collapse.
+    paragraph_summary: In a recent "Big Debate" on Indian global broadcaster News X,
+      panelists discussed President Trump's controversial proposal to take over Greenland,
+      highlighting differing political perspectives. Among the panelists was Andrew
+      Latham, a political science professor who expressed confidence in Europe's ability
+      to defend itself independently, despite concerns about NATO's potential collapse
+      and the time required for Europe to adequately prepare against threats like Russia.
+      Indian politician Keith Vaz, a long-serving Labour Party MP, contributed to the
+      discussion, reflecting his established position within the UK political landscape.
+      The debate underscored the complexities of international relations and the implications
+      of shifting defense responsibilities in Europe.
+    published: '2026-01-18T20:09:06+00:00'
+  - title: 'Trump Vs Europe: Greenland To Troop Mobilisation | Till What Extent Will
+      This Escalate? | NewsX'
+    url: https://gilbertdoctorow.com/2026/01/18/trump-vs-europe-greenland-to-troop-mobilisation-till-what-extent-will-this-escalate-newsx/
+    text: 'Today’s “Big Debate” on Indian global broadcaster News X was a pleasure for
+      me as one of four panelists and I am hopeful that the Community will find it worth
+      a listen. Our task was primarily to make sense of Trump’s conflict with Europe
+      over his planned takeover of Greenland. My fellow panelists were a mixed group
+      in terms of political perspectives, indicating that the producers knew very well
+      what they were doing in bringing us together. The view of the U.S. Deep State
+      was well represented by an American professor of political science at Macalaster
+      College, Andrew Latham, though I do wonder what benefit his students will gain
+      from  expertise in international security and strategic studies coming from a
+      prof who says, as Latham does in his response to my remarks on the coming implosion
+      of NATO, that Europe will do just fine as it puts together its own defenses. 
+      He seems to overlook the small detail of how much time it will take Europe to
+      regroup and arm itself. De facto, if NATO implodes now, in 2026, then Europe will
+      be utterly defenseless against the Russian bear it has been taunting and provoking
+      for the past several years while feeling secure in hiding behind Daddy Sam. Heaven
+      forbid, they might feel compelled to find that new ‘balance’ of interests with
+      the Big Neighbor to the East that Chancellor Merz said is on the agenda. By the
+      way, the good Chancellor has just recalled his 13 officers and soldiers from Greenland,
+      probably in a late effort to have his country removed from Trump’s latest tariffs.
+      Indian panelist Keith Vaz was a conventional as can be in his own way. Vas is
+      a respected representative of the Indian contingent in the Labour Party of Britain.
+      He has clearly been well integrated into the power hierarchy of the U.K.  Wikipedia
+      tells us this about him: “Nigel Keith Anthony Standish Vaz is a British politician
+      who served as the Labour Party Member of Parliament for Leicester East for 32
+      years, from 1987 to 2019. He is the UK Parliament’s longest-serving British Asian
+      MP. Vaz served as the Minister for Europe between October 1999 and June 2001.”
+      As one could imagine, he thinks Keir Starmer is a swell guy who has been very
+      diplomatic in dealing with Trump. And then there is a rather unconventional Indian
+      panelist Sumit Peer. His LinkedIn entry says this about him: “…a renowned Geo-Political
+      Commentator , visionary Columnist, Business Advisor, and a concerned citizen with
+      a mission of contributing towards nation building.” I am appreciative that the
+      host allowed me to take my disruptive discourse to its logical conclusion as I
+      explained that Trump’s main objective in his Greenland adventure is to so rough
+      up the Europeans by his violation of sovereignty and national borders that they
+      vote to leave NATO. This would enable Trump to proceed with his normalization
+      of relations with Russia over the semiconscious and prone body of Rump Ukraine.
+      ©Gilbert Doctorow, 2026'
+    one_sentence_summary: The author reflects on their participation in a debate on
+      News X regarding Trump's proposed takeover of Greenland, highlighting the diverse
+      political perspectives of the panelists and expressing skepticism about the feasibility
+      of Europe independently strengthening its defenses in the event of NATO's collapse.
+    paragraph_summary: In a recent "Big Debate" on Indian global broadcaster News X,
+      panelists discussed President Trump's controversial proposal to take over Greenland,
+      highlighting differing political perspectives. Among the panelists was Andrew
+      Latham, a political science professor who expressed confidence in Europe's ability
+      to defend itself independently, despite concerns about NATO's potential collapse
+      and the time required for Europe to adequately prepare against threats like Russia.
+      Indian politician Keith Vaz, a long-serving Labour Party MP, contributed to the
+      discussion, reflecting his established position within the UK political landscape.
+      The debate underscored the complexities of international relations and the implications
+      of shifting defense responsibilities in Europe.
+    published: '2026-01-18T20:09:06+00:00'
+  - title: News X World midday wrap-up:  Merz acknowledges that Russia is in Europe!
+    url: https://gilbertdoctorow.com/2026/01/16/news-x-world-midday-wrap-up-merz-acknowledges-that-russia-is-in-europe/
+    text: 'Today’s interview with the Indian global broadcaster NewsX World was in two
+      parts. I appear in minute 3.17 The first segment dealt with the Kremlin’s positive
+      evaluation of latest statements by several European leaders that it is time to
+      initiate direct talks with Putin. The second part dealt with Viktor Orban’s decision
+      to distribute a ‘petition’ among Hungarian voters calling for refusal to participate
+      in any further EU funding for Ukraine. As I point out, in the past few days French
+      President Macron, Italian Prime Minister Meloni and German Chancellor Merz have
+      all said that direct contact should be made with Vladimir Putin.  In the case
+      of Macron, who is ever playing the chameleon and changing his political stance
+      on Russia from warm to cold and back again, these latest statements are meaningless. 
+      Meloni is also not a particularly serious person at the international level. But
+      Merz’s decision to reach out to Putin is entirely another matter and worthy of
+      attention. A day ago, the Chancellor remarked that Russia is part of Europe and
+      relations with Russia should be recalibrated. So, apparently, he has finally consulted
+      a map! What these statements suggest is that Trump has finally broken the solidarity
+      in Europe behind foolish and self-destructive policies vis-à-vis Russia. Probably
+      the biggest factor is their realization that NATO may well collapse if Trump proceeds
+      to annex Greenland by force, which is entirely possible and could happen at any
+      moment.  If NATO collapses, then Europe will be entirely defenseless against the
+      Russian bear whom they have been poking and provoking ceaselessly for three years
+      and more. Under those circumstances, it is prudent to establish lines of communication
+      here and now beforehand.  It is also no longer clear in Berlin, Rome and Paris
+      who is the more fearsome big bad wolf: Washington or Moscow. The decision by Viktor
+      Orban to solicit the opinion of Hungarian voters on whether to continue or to
+      stop funding to the Kiev regime is a rare instance when real, meaning ‘direct’
+      democracy is put into practice by an EU Member State. In general, all that we
+      have is ‘representative democracy,’ which, as we know, exists in the particular
+      context of electoral laws that reserve seats in parliament for parties or movements
+      backed by tiny minorities of the population and so deprive the most popular parties
+      of a majority in parliament. All of that progressive electoral engineering results
+      in most European countries having power-sharing coalition governments that are
+      answerable to no one. Virtually the only country in Europe that regularly practices
+      direct democracy is Switzerland.  And so, I salute Orban for asking Hungarian
+      citizens to sign a petition on this key question of war or peace.  If only other
+      Member States would do the same, funding for the Zelensky regime would stop forthwith
+      and this damned war would be over. That being said, I note that there may be some
+      quirks when they tally the ‘petitions’ in Budapest.  This afternoon I had a chat
+      with one of the receptionists at my sports club who happens to be a dual national
+      – Belgian and Hungarian.  I asked if he knew about Orban’s referendum and he sure
+      did:  he told me that Budapest is distributing the petitions by email and he already
+      received three. He sent all three of these ballots back with his signature!  As
+      they say in the USA: vote early and vote often. ©Gilbert Doctorow, 2026'
+    one_sentence_summary: In an interview with NewsX World, the discussion focused on
+      the Kremlin's approval of European leaders advocating for direct talks with Putin,
+      while also highlighting Viktor Orban's petition against EU funding for Ukraine,
+      with particular emphasis on the varying credibility of leaders like Macron, Meloni,
+      and Merz in this context.
+    paragraph_summary: 'In a recent interview with NewsX World, the discussion focused
+      on two key topics: the Kremlin''s positive reception of European leaders advocating
+      for direct talks with Putin, and Viktor Orban''s initiative to gauge Hungarian
+      public opinion on EU funding for Ukraine. Leaders like French President Macron,
+      Italian Prime Minister Meloni, and German Chancellor Merz have expressed the need
+      for dialogue with Russia, although the author dismisses Macron and Meloni''s positions
+      as insincere. In contrast, Merz''s acknowledgment of Russia''s place in Europe
+      is seen as significant. The commentary suggests that Trump''s potential actions
+      could threaten NATO''s unity, prompting European leaders to reconsider their strategies
+      towards Russia. Orban''s petition reflects a growing sentiment in Hungary regarding
+      the continuation of support for Ukraine, highlighting the shifting dynamics in
+      European politics concerning Russia and the implications for regional security.'
+    published: '2026-01-16T18:05:11+00:00'
+  - title: News X World midday wrap-up:  Merz acknowledges that Russia is in Europe!
+    url: https://gilbertdoctorow.com/2026/01/16/news-x-world-midday-wrap-up-merz-acknowledges-that-russia-is-in-europe/
+    text: 'Today’s interview with the Indian global broadcaster NewsX World was in two
+      parts. I appear in minute 3.17 The first segment dealt with the Kremlin’s positive
+      evaluation of latest statements by several European leaders that it is time to
+      initiate direct talks with Putin. The second part dealt with Viktor Orban’s decision
+      to distribute a ‘petition’ among Hungarian voters calling for refusal to participate
+      in any further EU funding for Ukraine. As I point out, in the past few days French
+      President Macron, Italian Prime Minister Meloni and German Chancellor Merz have
+      all said that direct contact should be made with Vladimir Putin.  In the case
+      of Macron, who is ever playing the chameleon and changing his political stance
+      on Russia from warm to cold and back again, these latest statements are meaningless. 
+      Meloni is also not a particularly serious person at the international level. But
+      Merz’s decision to reach out to Putin is entirely another matter and worthy of
+      attention. A day ago, the Chancellor remarked that Russia is part of Europe and
+      relations with Russia should be recalibrated. So, apparently, he has finally consulted
+      a map! What these statements suggest is that Trump has finally broken the solidarity
+      in Europe behind foolish and self-destructive policies vis-à-vis Russia. Probably
+      the biggest factor is their realization that NATO may well collapse if Trump proceeds
+      to annex Greenland by force, which is entirely possible and could happen at any
+      moment.  If NATO collapses, then Europe will be entirely defenseless against the
+      Russian bear whom they have been poking and provoking ceaselessly for three years
+      and more. Under those circumstances, it is prudent to establish lines of communication
+      here and now beforehand.  It is also no longer clear in Berlin, Rome and Paris
+      who is the more fearsome big bad wolf: Washington or Moscow. The decision by Viktor
+      Orban to solicit the opinion of Hungarian voters on whether to continue or to
+      stop funding to the Kiev regime is a rare instance when real, meaning ‘direct’
+      democracy is put into practice by an EU Member State. In general, all that we
+      have is ‘representative democracy,’ which, as we know, exists in the particular
+      context of electoral laws that reserve seats in parliament for parties or movements
+      backed by tiny minorities of the population and so deprive the most popular parties
+      of a majority in parliament. All of that progressive electoral engineering results
+      in most European countries having power-sharing coalition governments that are
+      answerable to no one. Virtually the only country in Europe that regularly practices
+      direct democracy is Switzerland.  And so, I salute Orban for asking Hungarian
+      citizens to sign a petition on this key question of war or peace.  If only other
+      Member States would do the same, funding for the Zelensky regime would stop forthwith
+      and this damned war would be over. That being said, I note that there may be some
+      quirks when they tally the ‘petitions’ in Budapest.  This afternoon I had a chat
+      with one of the receptionists at my sports club who happens to be a dual national
+      – Belgian and Hungarian.  I asked if he knew about Orban’s referendum and he sure
+      did:  he told me that Budapest is distributing the petitions by email and he already
+      received three. He sent all three of these ballots back with his signature!  As
+      they say in the USA: vote early and vote often. ©Gilbert Doctorow, 2026'
+    one_sentence_summary: In an interview with NewsX World, the discussion focused on
+      the Kremlin's approval of European leaders advocating for direct talks with Putin,
+      while also highlighting Viktor Orban's petition against EU funding for Ukraine,
+      with particular emphasis on the varying credibility of leaders like Macron, Meloni,
+      and Merz in this context.
+    paragraph_summary: 'In a recent interview with NewsX World, the discussion focused
+      on two key topics: the Kremlin''s positive reception of European leaders advocating
+      for direct talks with Putin, and Viktor Orban''s initiative to gauge Hungarian
+      public opinion on EU funding for Ukraine. Leaders like French President Macron,
+      Italian Prime Minister Meloni, and German Chancellor Merz have expressed the need
+      for dialogue with Russia, although the author dismisses Macron and Meloni''s positions
+      as insincere. In contrast, Merz''s acknowledgment of Russia''s place in Europe
+      is seen as significant. The commentary suggests that Trump''s potential actions
+      could threaten NATO''s unity, prompting European leaders to reconsider their strategies
+      towards Russia. Orban''s petition reflects a growing sentiment in Hungary regarding
+      the continuation of support for Ukraine, highlighting the shifting dynamics in
+      European politics concerning Russia and the implications for regional security.'
+    published: '2026-01-16T18:05:11+00:00'
+  - title: ‘Judging Freedom’ edition of 14 January 2026
+    url: https://gilbertdoctorow.com/2026/01/14/judging-freedom-edition-of-14-january-2026/
+    text: ‘Judging Freedom’ edition of 14 January 2026 This discussion centers on the
+      issues of the method in Trump’s seeming madness on the world stage, which can
+      be found in his first words on taking office:  ‘drill baby drill.’  As I have
+      noted in my most recent essays on Substack, Trump understands that control of
+      global trading in oil and gas is critical for refurbishing and maintaining the
+      dollar as the global reserve currency, which in turn provides the financial strength
+      for America to assume massive debt at little cost to itself and thus afford the
+      world’s biggest military budget. Trump’s strongest asset is his courage and readiness
+      to assume calculated risks to further American national interests.  He looks for
+      ‘low hanging fruit,’ for adding to American territory and control of events without
+      getting bogged down in ‘boots on the ground’ wars.  He will only venture where
+      a quick victory is within reach. The open question is whether the Teheran leaders
+      can respond with sufficient decisiveness and timely risk-taking to fend off the
+      Trump offensive.  Since it is absolutely clear that Trump is preparing to attack
+      Iran’s strategic infrastructure so that paid fighters can overthrow the government
+      without hindrance, Teheran should now make a preemptive strike on Israel and on
+      the US bases in the region if it wishes to survive.  I do not see Chinese or Russian
+      intervention to save Iran. I am uncertain whether Presidents Xi and Putin appreciate
+      that they too should be acting preemptively right now if they wish to share global
+      power with the United States in a kind of Yalta-2 arrangement. ©Gilbert Doctorow,
+      2026
+    one_sentence_summary: The article discusses Trump's strategic approach to global
+      oil and gas control as a means to strengthen the dollar and support America's
+      military budget, highlighting his willingness to take calculated risks for national
+      interests while seeking quick victories without extensive military involvement.
+    paragraph_summary: The article from the 'Judging Freedom' edition discusses Donald
+      Trump's strategic approach to global politics, particularly his focus on controlling
+      oil and gas resources to maintain the dollar's status as the global reserve currency,
+      which underpins America's financial and military strength. Trump's willingness
+      to take calculated risks and seek quick victories without extensive military engagement
+      is highlighted, especially in relation to his potential plans to target Iran's
+      strategic infrastructure to facilitate regime change. The author suggests that
+      Iran must consider a preemptive strike against Israel and U.S. bases to protect
+      itself, while also questioning whether China and Russia will act decisively to
+      counter U.S. influence in a potential new global power arrangement.
+    published: '2026-01-14T13:52:41+00:00'
+  - title: ‘Judging Freedom’ edition of 14 January 2026
+    url: https://gilbertdoctorow.com/2026/01/14/judging-freedom-edition-of-14-january-2026/
+    text: ‘Judging Freedom’ edition of 14 January 2026 This discussion centers on the
+      issues of the method in Trump’s seeming madness on the world stage, which can
+      be found in his first words on taking office:  ‘drill baby drill.’  As I have
+      noted in my most recent essays on Substack, Trump understands that control of
+      global trading in oil and gas is critical for refurbishing and maintaining the
+      dollar as the global reserve currency, which in turn provides the financial strength
+      for America to assume massive debt at little cost to itself and thus afford the
+      world’s biggest military budget. Trump’s strongest asset is his courage and readiness
+      to assume calculated risks to further American national interests.  He looks for
+      ‘low hanging fruit,’ for adding to American territory and control of events without
+      getting bogged down in ‘boots on the ground’ wars.  He will only venture where
+      a quick victory is within reach. The open question is whether the Teheran leaders
+      can respond with sufficient decisiveness and timely risk-taking to fend off the
+      Trump offensive.  Since it is absolutely clear that Trump is preparing to attack
+      Iran’s strategic infrastructure so that paid fighters can overthrow the government
+      without hindrance, Teheran should now make a preemptive strike on Israel and on
+      the US bases in the region if it wishes to survive.  I do not see Chinese or Russian
+      intervention to save Iran. I am uncertain whether Presidents Xi and Putin appreciate
+      that they too should be acting preemptively right now if they wish to share global
+      power with the United States in a kind of Yalta-2 arrangement. ©Gilbert Doctorow,
+      2026
+    one_sentence_summary: The article discusses Trump's strategic approach to global
+      oil and gas control as a means to strengthen the dollar and support America's
+      military budget, highlighting his willingness to take calculated risks for national
+      interests while seeking quick victories without extensive military involvement.
+    paragraph_summary: The article from the 'Judging Freedom' edition discusses Donald
+      Trump's strategic approach to global politics, particularly his focus on controlling
+      oil and gas resources to maintain the dollar's status as the global reserve currency,
+      which underpins America's financial and military strength. Trump's willingness
+      to take calculated risks and seek quick victories without extensive military engagement
+      is highlighted, especially in relation to his potential plans to target Iran's
+      strategic infrastructure to facilitate regime change. The author suggests that
+      Iran must consider a preemptive strike against Israel and U.S. bases to protect
+      itself, while also questioning whether China and Russia will act decisively to
+      counter U.S. influence in a potential new global power arrangement.
+    published: '2026-01-14T13:52:41+00:00'
   - title: NewsX World hourly morning news wrap-up, 13 January
     url: https://gilbertdoctorow.com/2026/01/13/newsx-world-hourly-morning-news-wrap-up-13-january/
     text: 'NewsX World hourly morning news wrap-up, 13 January In this morning’s news

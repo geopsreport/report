@@ -7,16 +7,1286 @@ description: "Australian satirical anti–war journalist; reader–funded Substa
 websites:
   - https://www.caitlinjohnst.one/
 summary: |
-  The past days have seen a marked intensification of U.S. imperial activity, with new threats and interventions emerging across multiple regions. This escalation continues a trend that began in late 2023, as the U.S. under President Trump has adopted an increasingly aggressive posture, particularly in Latin America and the Middle East.
+  The geopolitical landscape remains tense as public sentiment and institutional actions continue to shape the discourse around ongoing conflicts and government accountability. In the wake of Israel’s military campaign in Gaza, **Caitlin Johnstone** observes a marked shift in global attitudes, noting that “societal and governmental denial of the severity of Israel's actions in Gaza has led to widespread animosity towards Israel.” This backlash, she argues, could have been mitigated by a more honest acknowledgment from Western institutions, but instead, the refusal to confront the reality has made the issue deeply personal for many.
   
-  Most recently, **Caitlin Johnstone** highlights a disturbing pattern in Western media and policy circles: the tendency to portray populations in targeted nations as monolithic in their opposition to their governments. This narrative, she argues, serves to dehumanize diverse societies and justify interventionist policies. The reality, as Johnstone notes, is far more complex, with a wide spectrum of political beliefs existing within these countries.
+  Meanwhile, the intersection of militarism and public agency is under scrutiny. **Tim Foley** highlights the paradoxical situation in which citizens are unable to vote against wars, yet are permitted to gamble on their outbreak. He describes this as a “disturbing reality,” reflecting a broader disenfranchisement from meaningful participation in foreign policy decisions, and suggesting that the machinery of war is increasingly insulated from democratic oversight.
   
-  Meanwhile, the U.S. has shifted its focus to Cuba, with Trump issuing public threats on social media and pressuring Havana to negotiate, leveraging claims that Venezuela’s oil supply will be cut off due to U.S. military support. This move is seen as part of a broader campaign to assert U.S. dominance in the region, following similar interventions in Venezuela and ongoing saber-rattling toward Iran. **Tim Foley** expresses growing anxiety over the “hyperactivity” of U.S. military interventions, noting the increased frequency and unpredictability of such actions compared to previous years.
+  On the domestic front, the implications of new hate speech legislation in Australia are drawing concern. A recent incident involving the prosecution of a mentally disabled woman for an accidental phone call has, according to **Caitlin Johnstone**, “raised concerns about the implications of new hate speech legislation that could further escalate such situations.” This case is being cited as emblematic of a broader trend toward overreach and the potential erosion of civil liberties under the guise of combating hate speech.
   
-  The internal logic of U.S. imperialism is also under scrutiny. Johnstone argues that the establishment’s acceptance of Trump’s presidency in this term is rooted in his demonstrated willingness to pursue imperial agendas, a shift from earlier skepticism about his unpredictability. This suggests a convergence between Trump’s approach and longstanding U.S. foreign policy objectives, particularly regarding regime change and resource control.
-  
-  Looking ahead, the majority view among analysts is that U.S. interventionism will continue to escalate, especially in Latin America and the Middle East. There is high confidence that the narrative of uniform opposition within targeted nations will persist in Western discourse, further entrenching support for aggressive policies. Unless there is significant public pushback, it is quite likely that militarization and authoritarian measures will intensify both abroad and at home. As Johnstone concludes, “these abuses will continue until people force them to stop.”
+  Looking ahead, the prevailing trend is one of growing public skepticism toward official narratives and a deepening mistrust of institutions, particularly in the context of war and civil rights. There is a high chance that, unless governments adopt greater transparency and accountability, public backlash and polarization will intensify. Most definitely, the ongoing denial and obfuscation by Western institutions regarding contentious foreign policy issues will continue to fuel animosity and drive demands for systemic change.
 articles:
+  - title: Everyone Hates Israel Now Because Our Own Institutions Made It Personal
+    url: https://www.caitlinjohnst.one/p/everyone-hates-israel-now-because
+    text: 'Reading by Tim Foley : Subscribe now Everyone hates Israel now, and what’s
+      funny is this wouldn’t have happened if our society had been the tiniest bit normal
+      about Gaza. If everyone wasn’t constantly being forcefully told they’re not seeing
+      what they’re seeing, it wouldn’t have become so personal for them. If western
+      governments had just said “this is bad” when news came out about Israel bombing
+      a hospital instead of “THIS ISN’T WHAT IT LOOKS LIKE THERE’S A HAMAS BASE IN EVERY
+      HEALTHCARE FACILITY YOU ARE BEING ANTISEMITIC”. If the news media had just said
+      “this is bad” when Israel systematically exterminated journalists in Gaza instead
+      of reporting “three killed in what IDF describes as strike on terrorist vehicle”
+      over and over again. If we’d just been allowed to say “this is bad” when we saw
+      raw video footage showing children ripped apart by military explosives without
+      getting fired and de-platformed and told we’re evil Nazis who need our free speech
+      rights taken away. That’s all it would’ve taken to keep Israel from being a front-and-center
+      issue for so many people. There would still have been critics of the Gaza holocaust,
+      of course, but opposing Israel wouldn’t have become this massive mainstream cultural
+      phenomenon if our own western leaders and institutions hadn’t exposed themselves
+      as lying, propagandizing, murderous sociopaths. It’s not hard to get westerners
+      to ignore the victims of mass military violence, even when it’s mass military
+      violence their government is directly orchestrating. Westerners, by and large,
+      are indoctrinated human livestock who think whatever they’ve been programmed to
+      think by the imperial propaganda machine. What opened so many eyes to Israel’s
+      criminality wasn’t the slaughter itself, it was our own government, media and
+      social institutions trying to gaslight us about what we knew we were looking at.
+      It’s one thing to see a cruel government doing bad things on the other side of
+      the world. It’s quite another to be shown in vivid detail that your own society
+      is ruled by monsters, and that those monsters have a vested interest in deceiving
+      you and controlling your words and your actions in order to advance the most depraved
+      agendas you could possibly imagine. That’s what made this so personal for so many
+      people. It’s not that Israel exposed itself, it’s that the whole of western civilization
+      did. ________________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Biden White House (public domain) .'
+    one_sentence_summary: The article argues that societal and governmental denial of
+      the severity of Israel's actions in Gaza has led to widespread animosity towards
+      Israel, suggesting that a more straightforward acknowledgment of the situation
+      could have mitigated this backlash.
+    paragraph_summary: In Tim Foley's article, he argues that the widespread criticism
+      of Israel stems from a collective frustration with the way Western governments
+      and media have responded to the violence in Gaza. He suggests that if these institutions
+      had simply acknowledged the gravity of the situation—such as the bombing of a
+      hospital or the killing of journalists—rather than attempting to downplay or justify
+      these actions, public sentiment would not have turned so sharply against Israel.
+      Foley contends that the insistence on gaslighting the public about the reality
+      of the violence has only intensified outrage, transforming the issue into a significant
+      cultural phenomenon. He believes that the real catalyst for increased awareness
+      of Israel's actions was not the violence itself, but the dissonance created by
+      the refusal of leaders and media to confront the truth, leading many to question
+      the narratives they had been fed.
+    published: '2026-01-20T13:02:58+00:00'
+  - title: Everyone Hates Israel Now Because Our Own Institutions Made It Personal
+    url: https://www.caitlinjohnst.one/p/everyone-hates-israel-now-because
+    text: 'Reading by Tim Foley : Subscribe now Everyone hates Israel now, and what’s
+      funny is this wouldn’t have happened if our society had been the tiniest bit normal
+      about Gaza. If everyone wasn’t constantly being forcefully told they’re not seeing
+      what they’re seeing, it wouldn’t have become so personal for them. If western
+      governments had just said “this is bad” when news came out about Israel bombing
+      a hospital instead of “THIS ISN’T WHAT IT LOOKS LIKE THERE’S A HAMAS BASE IN EVERY
+      HEALTHCARE FACILITY YOU ARE BEING ANTISEMITIC”. If the news media had just said
+      “this is bad” when Israel systematically exterminated journalists in Gaza instead
+      of reporting “three killed in what IDF describes as strike on terrorist vehicle”
+      over and over again. If we’d just been allowed to say “this is bad” when we saw
+      raw video footage showing children ripped apart by military explosives without
+      getting fired and de-platformed and told we’re evil Nazis who need our free speech
+      rights taken away. That’s all it would’ve taken to keep Israel from being a front-and-center
+      issue for so many people. There would still have been critics of the Gaza holocaust,
+      of course, but opposing Israel wouldn’t have become this massive mainstream cultural
+      phenomenon if our own western leaders and institutions hadn’t exposed themselves
+      as lying, propagandizing, murderous sociopaths. It’s not hard to get westerners
+      to ignore the victims of mass military violence, even when it’s mass military
+      violence their government is directly orchestrating. Westerners, by and large,
+      are indoctrinated human livestock who think whatever they’ve been programmed to
+      think by the imperial propaganda machine. What opened so many eyes to Israel’s
+      criminality wasn’t the slaughter itself, it was our own government, media and
+      social institutions trying to gaslight us about what we knew we were looking at.
+      It’s one thing to see a cruel government doing bad things on the other side of
+      the world. It’s quite another to be shown in vivid detail that your own society
+      is ruled by monsters, and that those monsters have a vested interest in deceiving
+      you and controlling your words and your actions in order to advance the most depraved
+      agendas you could possibly imagine. That’s what made this so personal for so many
+      people. It’s not that Israel exposed itself, it’s that the whole of western civilization
+      did. ________________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Biden White House (public domain) .'
+    one_sentence_summary: The article argues that societal and governmental denial of
+      the severity of Israel's actions in Gaza has led to widespread animosity towards
+      Israel, suggesting that a more straightforward acknowledgment of the situation
+      could have mitigated this backlash.
+    paragraph_summary: In Tim Foley's article, he argues that the widespread criticism
+      of Israel stems from a collective frustration with the way Western governments
+      and media have responded to the violence in Gaza. He suggests that if these institutions
+      had simply acknowledged the gravity of the situation—such as the bombing of a
+      hospital or the killing of journalists—rather than attempting to downplay or justify
+      these actions, public sentiment would not have turned so sharply against Israel.
+      Foley contends that the insistence on gaslighting the public about the reality
+      of the violence has only intensified outrage, transforming the issue into a significant
+      cultural phenomenon. He believes that the real catalyst for increased awareness
+      of Israel's actions was not the violence itself, but the dissonance created by
+      the refusal of leaders and media to confront the truth, leading many to question
+      the narratives they had been fed.
+    published: '2026-01-20T13:02:58+00:00'
+  - title: In This Dystopia You Can't Vote Against Wars But You Can Gamble On When They'll
+      Start
+    url: https://www.caitlinjohnst.one/p/in-this-dystopia-you-cant-vote-against
+    text: 'Reading by Tim Foley : Subscribe now I can’t get over the fact that people
+      were casting bets on whether the US would bomb Iran the other day. It just says
+      such dark things about the type of civilization we are living in. In this dystopia,
+      Americans are never given the option to vote for a president who won’t bomb foreign
+      countries in wars of aggression. But they do have the option to gamble on when
+      those bombs will be dropped. They’re not allowed to vote against war, militarism
+      and imperialism, but they can go to an app on their smartphone and place bets
+      on how the war, militarism and imperialism will unfold. Preventing your government
+      from raining military explosives onto foreign countries full of civilians who
+      are just trying to live their lives? No. Thumbs down. You don’t get to do that.
+      Pouring money into “prediction market” scams like Kalshi and Polymarket with bets
+      on when those military explosives will end the lives of those foreign civilians?
+      Yes. Thumbs up. You are encouraged to do that. You’re allowed to get rich making
+      an app which lets westerners gamble on military atrocities of immense humanitarian
+      consequence. You’re allowed to get rich starting a company that manufactures missiles,
+      sells those missiles to the US government, and then pays think tanks and lobbyists
+      to convince US decision makers to use those missiles in gratuitous acts of mass
+      military violence. You’re allowed to get rich buying stocks in the arms industry
+      and then funding the political campaigns of politicians who pledge to help start
+      wars. As long as it’s profitable and sits within the extremely broad parameters
+      of acceptable liberal norms, it’s perfectly legal. But when it comes to doing
+      anything that might eat into those profits by making the world a less violent
+      place, there’s not even a viable option at the ballot box. Our world looks the
+      way it looks because our entire civilization is driven by the mindless pursuit
+      of profit. It’s profitable to start wars, so the wars never end. It’s profitable
+      for corporations to destroy the ecosystem and offload the costs of industry onto
+      the environment, so it keeps happening. It’s profitable for capitalists to keep
+      wages down and worker’s rights at a minimum, so wealth inequality gets worse and
+      worse. It’s profitable for plutocrats to manipulate legislation and government
+      policy using campaign funding and corporate lobbying, so the government gets more
+      and more corrupt and oligarchic while society gets more and more unjust and oppressive.
+      As long as we have systems in place which cause mass-scale human behavior to be
+      driven by the pursuit of profit, things are going to keep getting more and more
+      violent, abusive, poisoned, polluted, unjust, unhappy, and dystopian. This will
+      continue until we as a collective decide we’ve had enough and force new systems
+      into place. Until then the object in motion shall remain in motion. ______________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: Tim Foley criticizes the disturbing reality that, in a society
+      where citizens cannot vote against militarism and war, they are instead allowed
+      to gamble on the timing of military actions against foreign nations.
+    paragraph_summary: In a recent article, Tim Foley expresses deep concern over the
+      normalization of betting on military actions, specifically the U.S. potentially
+      bombing Iran, highlighting a troubling aspect of contemporary civilization where
+      citizens can wager on the timing of military aggression rather than having the
+      option to vote for peace-oriented leadership. He critiques the lack of democratic
+      avenues to oppose war and imperialism, contrasting it with the encouragement of
+      financial speculation on the outcomes of such conflicts through prediction markets.
+      Foley argues that this reflects a broader societal issue where profit motives
+      drive the perpetuation of war, as industries thrive on militarism and political
+      systems are influenced by those who benefit from conflict, ultimately leading
+      to a world where violence is a profitable enterprise rather than a moral concern.
+    published: '2026-01-20T01:07:42+00:00'
+  - title: In This Dystopia You Can't Vote Against Wars But You Can Gamble On When They'll
+      Start
+    url: https://www.caitlinjohnst.one/p/in-this-dystopia-you-cant-vote-against
+    text: 'Reading by Tim Foley : Subscribe now I can’t get over the fact that people
+      were casting bets on whether the US would bomb Iran the other day. It just says
+      such dark things about the type of civilization we are living in. In this dystopia,
+      Americans are never given the option to vote for a president who won’t bomb foreign
+      countries in wars of aggression. But they do have the option to gamble on when
+      those bombs will be dropped. They’re not allowed to vote against war, militarism
+      and imperialism, but they can go to an app on their smartphone and place bets
+      on how the war, militarism and imperialism will unfold. Preventing your government
+      from raining military explosives onto foreign countries full of civilians who
+      are just trying to live their lives? No. Thumbs down. You don’t get to do that.
+      Pouring money into “prediction market” scams like Kalshi and Polymarket with bets
+      on when those military explosives will end the lives of those foreign civilians?
+      Yes. Thumbs up. You are encouraged to do that. You’re allowed to get rich making
+      an app which lets westerners gamble on military atrocities of immense humanitarian
+      consequence. You’re allowed to get rich starting a company that manufactures missiles,
+      sells those missiles to the US government, and then pays think tanks and lobbyists
+      to convince US decision makers to use those missiles in gratuitous acts of mass
+      military violence. You’re allowed to get rich buying stocks in the arms industry
+      and then funding the political campaigns of politicians who pledge to help start
+      wars. As long as it’s profitable and sits within the extremely broad parameters
+      of acceptable liberal norms, it’s perfectly legal. But when it comes to doing
+      anything that might eat into those profits by making the world a less violent
+      place, there’s not even a viable option at the ballot box. Our world looks the
+      way it looks because our entire civilization is driven by the mindless pursuit
+      of profit. It’s profitable to start wars, so the wars never end. It’s profitable
+      for corporations to destroy the ecosystem and offload the costs of industry onto
+      the environment, so it keeps happening. It’s profitable for capitalists to keep
+      wages down and worker’s rights at a minimum, so wealth inequality gets worse and
+      worse. It’s profitable for plutocrats to manipulate legislation and government
+      policy using campaign funding and corporate lobbying, so the government gets more
+      and more corrupt and oligarchic while society gets more and more unjust and oppressive.
+      As long as we have systems in place which cause mass-scale human behavior to be
+      driven by the pursuit of profit, things are going to keep getting more and more
+      violent, abusive, poisoned, polluted, unjust, unhappy, and dystopian. This will
+      continue until we as a collective decide we’ve had enough and force new systems
+      into place. Until then the object in motion shall remain in motion. ______________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: Tim Foley criticizes the disturbing reality that, in a society
+      where citizens cannot vote against militarism and war, they are instead allowed
+      to gamble on the timing of military actions against foreign nations.
+    paragraph_summary: In a recent article, Tim Foley expresses deep concern over the
+      normalization of betting on military actions, specifically the U.S. potentially
+      bombing Iran, highlighting a troubling aspect of contemporary civilization where
+      citizens can wager on the timing of military aggression rather than having the
+      option to vote for peace-oriented leadership. He critiques the lack of democratic
+      avenues to oppose war and imperialism, contrasting it with the encouragement of
+      financial speculation on the outcomes of such conflicts through prediction markets.
+      Foley argues that this reflects a broader societal issue where profit motives
+      drive the perpetuation of war, as industries thrive on militarism and political
+      systems are influenced by those who benefit from conflict, ultimately leading
+      to a world where violence is a profitable enterprise rather than a moral concern.
+    published: '2026-01-20T01:07:42+00:00'
+  - title: Zionist Billionaires Openly Acknowledge Manipulating The US Government
+    url: https://www.caitlinjohnst.one/p/zionist-billionaires-openly-acknowledge
+    text: 'Reading by Tim Foley : Subscribe now Speaking together at the Israeli-American
+      Council Summit on Saturday, billionaire Zionist megadonors Miriam Adelson and
+      Haim Saban strongly implied that they are engaged in some extremely shady activities
+      to manipulate the US government in advancement of Israeli interests. There’s a
+      guy I follow on Twitter named Chris Menahan who’s always posting clips from Zionist
+      events which might otherwise go unnoticed, frequently turning up jarring admissions
+      from pro-Israel operatives who tend to loosen their lips a bit when addressing
+      an audience of like-minded individuals. I recently cited a clip he spotted featuring
+      former Obama speechwriter Sarah Hurwitz decrying the way social media has allowed
+      the public to view evidence of Israeli atrocities in Gaza. Menahan has spotlighted
+      some very revealing moments from Adelson and Saban, both of whom are dual US-Israeli
+      citizens, and both of whom have provided funding to the Israeli-American Council
+      (IAC). In 2014, The Nation’s MJ Rosenberg wrote that Saban and Miriam Adelson’s
+      late husband Sheldon were using influence operations like the IAC to become “the
+      Koch brothers on Israel.” Here’s a transcript of a very revealing interaction
+      between Adelson and event host Shawn Evenhaim: Evenhaim: Miri, you and Sheldon
+      created a lot of relationships over the years with politicians, at the state level,
+      and especially at the federal level. I want you to share with everyone why is
+      it so important and how you do it, and again, writing cheques is a part of it,
+      but there is more than writing just cheques so, how do you do it? Adelson: Shawn,
+      can you allow me not to answer? Evenhaim (shrugs): You choose! Adelson: I want
+      to be truthful and there are so many things that I don’t want to talk about. Evenhaim:
+      Yeah, I mean we don’t want specifics but that’s okay. Miriam Adelson is here admitting
+      that in addition to the hundreds of millions of dollars that she and Sheldon are
+      known to have poured into the political campaigns of Donald Trump and other Republican
+      politicians, they have also been manipulating US politics behind the scenes in
+      ways that she would prefer to keep secret from the public. Presumably because
+      it would cause a significant scandal if the public ever found out. Trump, for
+      the record, has repeatedly admitted that he provided political favors to Israel
+      at the urging of the Adelsons during his first term, saying he moved the US embassy
+      in Israel from Tel Aviv to Jerusalem and legitimized the Israeli annexation of
+      the Golan Heights in order to please them. And please them he did. He must have,
+      because Miriam Adelson donated another $100 million to Trump’s 2024 campaign to
+      help him become president again. And now he’s spent the first year of his administration
+      bombing Iran and Yemen , working to take control of Gaza , and aggressively stomping
+      out criticism of Israel in the United States. Back in 2020, before all these blatant
+      admissions, musician Roger Waters was smeared as an antisemite by the Anti-Defamation
+      League and other Zionist groups for saying that Sheldon Adelson was using his
+      wealth to exert influence over US politics. Saban was even more guarded about
+      his political operations than Adelson in his response to the same question from
+      Evenhaim: “I want to be cautious how I’m saying… (Pause) It’s a system that we
+      did not create. It’s a system that’s in place. It’s a legal system and we just
+      play within the system. And that’s it! I mean it’s really quite simple. If you
+      support a politician, you, under normal circumstances, should have access to be
+      able to share opinions and try to help them see your point of view. That’s what
+      access grants you, and the contribution and the financial support grants you the
+      access, sooooo… I mean…. (shrugs) those that give more have more access and those
+      that give less have less access. It’s a simple math. Trust me.” Haim Saban, whose
+      campaign donations focus on the other side of the aisle with Democratic Party
+      funding , has famously said “I’m a one-issue guy, and my issue is Israel.” In
+      2022 AIPAC’s superpac cited Saban’s financial clout to argue that deviating from
+      support for Israel would cost the Democrats critical funding, saying “Our activist
+      donors, who include one of the largest donors to the Democratic Party, are focused
+      on ensuring that we have a U.S. Congress that, like President Biden, supports
+      a vibrant and robust relationship with our democratic ally, Israel.” As with Adelson,
+      we can surmise that Saban said he wanted to be “cautious” how he described his
+      influence operations because it would cause a major scandal if the American people
+      understood what he’s been up to. Some people will look at these clips and claim
+      it’s antisemitic to even share them. Others will look at them and cite them as
+      evidence that the world is ruled by Jews. For me they’re just evidence that the
+      world is ruled by wealthy sociopaths, and that western democracy is an illusion.
+      I mean, you really couldn’t ask for a better illustration of the sham of American
+      democracy than this. Two billionaires from supposedly opposite political parties
+      publicly admitting that they use their obscene wealth to manipulate US politics
+      to advance the military and geopolitical agendas of a foreign state on the other
+      side of the planet. And as Saban said, it’s all legal. Corruption is legal in
+      the United States of America . Plutocrats are allowed to leverage their fortunes
+      to manipulate the US government using campaign funding and lobbying for the advancement
+      of their personal, financial, and ideological agendas. If you have a few million
+      dollars to spare you can use them to make criminal charges go away, to roll back
+      environmental regulations or worker protections which hurt the profit margins
+      of your business, or even to get military explosives shipped to a foreign government
+      for use in an ongoing genocide. And it’s all being done with complete disregard
+      for the will of the electorate. The American people have no control over what
+      their government does under the current political system. They vote for one oligarchic
+      puppet, then they vote for the oligarchic puppet in the other party when that
+      doesn’t work out, going back and forth without realizing that at no point are
+      they changing the actual power structure under which they live. That power structure
+      is called plutocracy. That’s only real political system the United States has.
+      ______________ Caitlin’s Newsletter is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber. The
+      best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: At the Israeli-American Council Summit, billionaire Zionist
+      donors Miriam Adelson and Haim Saban suggested their involvement in questionable
+      activities aimed at influencing U.S. government policy to benefit Israeli interests,
+      as highlighted by clips shared by commentator Chris Menahan.
+    paragraph_summary: At the Israeli-American Council Summit, billionaire Zionist donors
+      Miriam Adelson and Haim Saban suggested they engage in questionable activities
+      to influence U.S. government policy in favor of Israeli interests. Chris Menahan,
+      who highlights revealing moments from pro-Israel events, noted that Adelson's
+      reluctance to discuss the specifics of their political influence hints at deeper,
+      undisclosed strategies. The interaction between Adelson and event host Shawn Evenhaim
+      underscored the importance of their relationships with politicians, implying that
+      their financial contributions are just one aspect of their influence operations,
+      which have drawn comparisons to the political strategies of the Koch brothers.
+    published: '2026-01-19T02:56:07+00:00'
+  - title: Zionist Billionaires Openly Acknowledge Manipulating The US Government
+    url: https://www.caitlinjohnst.one/p/zionist-billionaires-openly-acknowledge
+    text: 'Reading by Tim Foley : Subscribe now Speaking together at the Israeli-American
+      Council Summit on Saturday, billionaire Zionist megadonors Miriam Adelson and
+      Haim Saban strongly implied that they are engaged in some extremely shady activities
+      to manipulate the US government in advancement of Israeli interests. There’s a
+      guy I follow on Twitter named Chris Menahan who’s always posting clips from Zionist
+      events which might otherwise go unnoticed, frequently turning up jarring admissions
+      from pro-Israel operatives who tend to loosen their lips a bit when addressing
+      an audience of like-minded individuals. I recently cited a clip he spotted featuring
+      former Obama speechwriter Sarah Hurwitz decrying the way social media has allowed
+      the public to view evidence of Israeli atrocities in Gaza. Menahan has spotlighted
+      some very revealing moments from Adelson and Saban, both of whom are dual US-Israeli
+      citizens, and both of whom have provided funding to the Israeli-American Council
+      (IAC). In 2014, The Nation’s MJ Rosenberg wrote that Saban and Miriam Adelson’s
+      late husband Sheldon were using influence operations like the IAC to become “the
+      Koch brothers on Israel.” Here’s a transcript of a very revealing interaction
+      between Adelson and event host Shawn Evenhaim: Evenhaim: Miri, you and Sheldon
+      created a lot of relationships over the years with politicians, at the state level,
+      and especially at the federal level. I want you to share with everyone why is
+      it so important and how you do it, and again, writing cheques is a part of it,
+      but there is more than writing just cheques so, how do you do it? Adelson: Shawn,
+      can you allow me not to answer? Evenhaim (shrugs): You choose! Adelson: I want
+      to be truthful and there are so many things that I don’t want to talk about. Evenhaim:
+      Yeah, I mean we don’t want specifics but that’s okay. Miriam Adelson is here admitting
+      that in addition to the hundreds of millions of dollars that she and Sheldon are
+      known to have poured into the political campaigns of Donald Trump and other Republican
+      politicians, they have also been manipulating US politics behind the scenes in
+      ways that she would prefer to keep secret from the public. Presumably because
+      it would cause a significant scandal if the public ever found out. Trump, for
+      the record, has repeatedly admitted that he provided political favors to Israel
+      at the urging of the Adelsons during his first term, saying he moved the US embassy
+      in Israel from Tel Aviv to Jerusalem and legitimized the Israeli annexation of
+      the Golan Heights in order to please them. And please them he did. He must have,
+      because Miriam Adelson donated another $100 million to Trump’s 2024 campaign to
+      help him become president again. And now he’s spent the first year of his administration
+      bombing Iran and Yemen , working to take control of Gaza , and aggressively stomping
+      out criticism of Israel in the United States. Back in 2020, before all these blatant
+      admissions, musician Roger Waters was smeared as an antisemite by the Anti-Defamation
+      League and other Zionist groups for saying that Sheldon Adelson was using his
+      wealth to exert influence over US politics. Saban was even more guarded about
+      his political operations than Adelson in his response to the same question from
+      Evenhaim: “I want to be cautious how I’m saying… (Pause) It’s a system that we
+      did not create. It’s a system that’s in place. It’s a legal system and we just
+      play within the system. And that’s it! I mean it’s really quite simple. If you
+      support a politician, you, under normal circumstances, should have access to be
+      able to share opinions and try to help them see your point of view. That’s what
+      access grants you, and the contribution and the financial support grants you the
+      access, sooooo… I mean…. (shrugs) those that give more have more access and those
+      that give less have less access. It’s a simple math. Trust me.” Haim Saban, whose
+      campaign donations focus on the other side of the aisle with Democratic Party
+      funding , has famously said “I’m a one-issue guy, and my issue is Israel.” In
+      2022 AIPAC’s superpac cited Saban’s financial clout to argue that deviating from
+      support for Israel would cost the Democrats critical funding, saying “Our activist
+      donors, who include one of the largest donors to the Democratic Party, are focused
+      on ensuring that we have a U.S. Congress that, like President Biden, supports
+      a vibrant and robust relationship with our democratic ally, Israel.” As with Adelson,
+      we can surmise that Saban said he wanted to be “cautious” how he described his
+      influence operations because it would cause a major scandal if the American people
+      understood what he’s been up to. Some people will look at these clips and claim
+      it’s antisemitic to even share them. Others will look at them and cite them as
+      evidence that the world is ruled by Jews. For me they’re just evidence that the
+      world is ruled by wealthy sociopaths, and that western democracy is an illusion.
+      I mean, you really couldn’t ask for a better illustration of the sham of American
+      democracy than this. Two billionaires from supposedly opposite political parties
+      publicly admitting that they use their obscene wealth to manipulate US politics
+      to advance the military and geopolitical agendas of a foreign state on the other
+      side of the planet. And as Saban said, it’s all legal. Corruption is legal in
+      the United States of America . Plutocrats are allowed to leverage their fortunes
+      to manipulate the US government using campaign funding and lobbying for the advancement
+      of their personal, financial, and ideological agendas. If you have a few million
+      dollars to spare you can use them to make criminal charges go away, to roll back
+      environmental regulations or worker protections which hurt the profit margins
+      of your business, or even to get military explosives shipped to a foreign government
+      for use in an ongoing genocide. And it’s all being done with complete disregard
+      for the will of the electorate. The American people have no control over what
+      their government does under the current political system. They vote for one oligarchic
+      puppet, then they vote for the oligarchic puppet in the other party when that
+      doesn’t work out, going back and forth without realizing that at no point are
+      they changing the actual power structure under which they live. That power structure
+      is called plutocracy. That’s only real political system the United States has.
+      ______________ Caitlin’s Newsletter is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber. The
+      best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: At the Israeli-American Council Summit, billionaire Zionist
+      donors Miriam Adelson and Haim Saban suggested their involvement in questionable
+      activities aimed at influencing U.S. government policy to benefit Israeli interests,
+      as highlighted by clips shared by commentator Chris Menahan.
+    paragraph_summary: At the Israeli-American Council Summit, billionaire Zionist donors
+      Miriam Adelson and Haim Saban suggested they engage in questionable activities
+      to influence U.S. government policy in favor of Israeli interests. Chris Menahan,
+      who highlights revealing moments from pro-Israel events, noted that Adelson's
+      reluctance to discuss the specifics of their political influence hints at deeper,
+      undisclosed strategies. The interaction between Adelson and event host Shawn Evenhaim
+      underscored the importance of their relationships with politicians, implying that
+      their financial contributions are just one aspect of their influence operations,
+      which have drawn comparisons to the political strategies of the Koch brothers.
+    published: '2026-01-19T02:56:07+00:00'
+  - title: Regime Change The US Empire
+    url: https://www.caitlinjohnst.one/p/regime-change-the-us-empire
+    text: 'Reading by Tim Foley : Subscribe now I support regime change in the United
+      States. The real kind, not the “new face at the front desk every few years” kind.
+      I’m all for overthrowing tyrannical power structures, I just think we should start
+      with the worst one. Why should I support the violent overthrow of the US empire’s
+      enemies while the US empire itself remains standing? Why should I want to help
+      the one power structure that’s terrorizing and destroying nations around the world
+      with the goal of total planetary domination? Why should I facilitate the propaganda
+      campaign of the latest imperial regime change operation by talking about the tyranny
+      and oppressiveness of the Official Bad Guy of the Day when it will do nothing
+      but help the empire expand its global hegemony? In all these years no one has
+      ever been able to give me a satisfactory answer to these questions. And I have
+      asked them many times, in many different ways. If I’m at a crowded pub and there’s
+      one guy going around beating people up and taking their wallets, I’m not going
+      to be focused on the character of his victims, I’m going to be paying attention
+      to the most glaring and urgent abuse dynamic in the room. Nobody else is mass
+      murdering, starving and robbing populations around the world like the US and its
+      allies are doing. No other power structure comes anywhere close. The US power
+      alliance is unquestionably the most destructive and abusive entity in our world,
+      and it also happens to be the power structure under which I live. This gives me
+      a special responsibility to oppose its abuses. The only reason everything I just
+      said isn’t completely obvious to everyone is because we live in a mind-controlled
+      dystopia where people are aggressively propagandized from birth into believing
+      our rulers are more or less the Good Guys and the nations they target are more
+      or less the Bad Guys. That’s the only reason anyone thinks it makes sense to watch
+      my tirades against US warmongering and go “Hmm and yet you have nothing bad to
+      say about Iran and Russia? You must be getting PAID by them!” Over the years I’ve
+      been accused of being a paid propagandist or secret agent for Russia, China, Iran,
+      Qatar, Hamas, Hezbollah, Venezuela, Syria, Cuba, North Korea, and probably some
+      others I’ve forgotten. People who live in the western empire make these assumptions
+      whenever they see me opposing the latest imperial power grab because they’re so
+      propaganda-addled that they cannot conceive of the possibility of someone standing
+      against the empire’s abuses on principle. Their minds flail around searching for
+      reasons for my behavior, and all they can come up with is that I’m some kind of
+      state operative. People act like my focusing my criticisms on the western empire
+      is a sign of something malignant and suspicious, but it isn’t. It’s not strange
+      that I focus my criticisms on the western empire, it’s strange that everyone else
+      does not. If we didn’t live in a civilization where our psyches are continually
+      assaulted by a deluge of empire propaganda from every direction, nothing I’m saying
+      here would even need to be explained. Regime change the United States. Not its
+      fake official elected government: its real government. The oligarchs and government
+      agencies which actually run the thing. Replace its empire managers and empire
+      management institutions with real democracy which gives the American people real
+      authority over the actions of their own government, rather than the fake decoy
+      elections they have now. Regime change the United States, and regime change all
+      its imperial member states. Australia. The UK. Israel. Canada. The EU. The entire
+      imperial core. If you have done this and you still want to talk about how mean
+      and bad the Iranian government is, THEN I might listen to you. THEN I might take
+      some interest in what you have to say. Until then, you’re just one more mindless
+      imperial bootlicker trying to advance the interests of the power structure under
+      which you live. _______________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Central Intelligence Agency/Wikimedia Commons (public domain).'
+    one_sentence_summary: Tim Foley argues for the need to overthrow the U.S. empire
+      itself, rather than supporting regime change in its adversaries, as he believes
+      doing so only aids in the expansion of U.S. global dominance and ignores the oppressive
+      nature of the empire.
+    paragraph_summary: In his article, Tim Foley argues for the need to overthrow the
+      United States' imperial power structure, which he views as the most destructive
+      and abusive entity in the world. He questions the rationale behind supporting
+      regime change in other nations while ignoring the oppressive actions of the U.S.
+      itself, which he believes is responsible for widespread violence and exploitation
+      globally. Foley emphasizes that the focus should be on the U.S. as the primary
+      aggressor, rather than the so-called "tyrants" it targets, and criticizes the
+      pervasive propaganda that distorts public perception, leading many to view U.S.
+      actions as justified. He asserts that acknowledging the U.S. as the root of global
+      oppression is essential for meaningful change.
+    published: '2026-01-18T00:32:04+00:00'
+  - title: Regime Change The US Empire
+    url: https://www.caitlinjohnst.one/p/regime-change-the-us-empire
+    text: 'Reading by Tim Foley : Subscribe now I support regime change in the United
+      States. The real kind, not the “new face at the front desk every few years” kind.
+      I’m all for overthrowing tyrannical power structures, I just think we should start
+      with the worst one. Why should I support the violent overthrow of the US empire’s
+      enemies while the US empire itself remains standing? Why should I want to help
+      the one power structure that’s terrorizing and destroying nations around the world
+      with the goal of total planetary domination? Why should I facilitate the propaganda
+      campaign of the latest imperial regime change operation by talking about the tyranny
+      and oppressiveness of the Official Bad Guy of the Day when it will do nothing
+      but help the empire expand its global hegemony? In all these years no one has
+      ever been able to give me a satisfactory answer to these questions. And I have
+      asked them many times, in many different ways. If I’m at a crowded pub and there’s
+      one guy going around beating people up and taking their wallets, I’m not going
+      to be focused on the character of his victims, I’m going to be paying attention
+      to the most glaring and urgent abuse dynamic in the room. Nobody else is mass
+      murdering, starving and robbing populations around the world like the US and its
+      allies are doing. No other power structure comes anywhere close. The US power
+      alliance is unquestionably the most destructive and abusive entity in our world,
+      and it also happens to be the power structure under which I live. This gives me
+      a special responsibility to oppose its abuses. The only reason everything I just
+      said isn’t completely obvious to everyone is because we live in a mind-controlled
+      dystopia where people are aggressively propagandized from birth into believing
+      our rulers are more or less the Good Guys and the nations they target are more
+      or less the Bad Guys. That’s the only reason anyone thinks it makes sense to watch
+      my tirades against US warmongering and go “Hmm and yet you have nothing bad to
+      say about Iran and Russia? You must be getting PAID by them!” Over the years I’ve
+      been accused of being a paid propagandist or secret agent for Russia, China, Iran,
+      Qatar, Hamas, Hezbollah, Venezuela, Syria, Cuba, North Korea, and probably some
+      others I’ve forgotten. People who live in the western empire make these assumptions
+      whenever they see me opposing the latest imperial power grab because they’re so
+      propaganda-addled that they cannot conceive of the possibility of someone standing
+      against the empire’s abuses on principle. Their minds flail around searching for
+      reasons for my behavior, and all they can come up with is that I’m some kind of
+      state operative. People act like my focusing my criticisms on the western empire
+      is a sign of something malignant and suspicious, but it isn’t. It’s not strange
+      that I focus my criticisms on the western empire, it’s strange that everyone else
+      does not. If we didn’t live in a civilization where our psyches are continually
+      assaulted by a deluge of empire propaganda from every direction, nothing I’m saying
+      here would even need to be explained. Regime change the United States. Not its
+      fake official elected government: its real government. The oligarchs and government
+      agencies which actually run the thing. Replace its empire managers and empire
+      management institutions with real democracy which gives the American people real
+      authority over the actions of their own government, rather than the fake decoy
+      elections they have now. Regime change the United States, and regime change all
+      its imperial member states. Australia. The UK. Israel. Canada. The EU. The entire
+      imperial core. If you have done this and you still want to talk about how mean
+      and bad the Iranian government is, THEN I might listen to you. THEN I might take
+      some interest in what you have to say. Until then, you’re just one more mindless
+      imperial bootlicker trying to advance the interests of the power structure under
+      which you live. _______________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Central Intelligence Agency/Wikimedia Commons (public domain).'
+    one_sentence_summary: Tim Foley argues for the need to overthrow the U.S. empire
+      itself, rather than supporting regime change in its adversaries, as he believes
+      doing so only aids in the expansion of U.S. global dominance and ignores the oppressive
+      nature of the empire.
+    paragraph_summary: In his article, Tim Foley argues for the need to overthrow the
+      United States' imperial power structure, which he views as the most destructive
+      and abusive entity in the world. He questions the rationale behind supporting
+      regime change in other nations while ignoring the oppressive actions of the U.S.
+      itself, which he believes is responsible for widespread violence and exploitation
+      globally. Foley emphasizes that the focus should be on the U.S. as the primary
+      aggressor, rather than the so-called "tyrants" it targets, and criticizes the
+      pervasive propaganda that distorts public perception, leading many to view U.S.
+      actions as justified. He asserts that acknowledging the U.S. as the root of global
+      oppression is essential for meaningful change.
+    published: '2026-01-18T00:32:04+00:00'
+  - title: The War On Free Speech In Australia Is Getting Cartoonishly Absurd
+    url: https://www.caitlinjohnst.one/p/the-war-on-free-speech-in-australia
+    text: 'Reading by Tim Foley : Subscribe now A mentally disabled Australian woman
+      is being prosecuted for antisemitic hate crimes after accidentally pocket-dialing
+      a Jewish nutritionist, resulting in a blank voicemail which caused the nutritionist
+      “immediate fear and nervousness” because she thought some of the background noises
+      in the recording sounded a bit like gunshots. We’re being told we need more of
+      this. There’s “hate speech” legislation presently in the works to make this worse
+      . Australia’s controversial Combatting Antisemitism, Hate and Extremism Bill appears
+      to be explicitly crafted to dramatically increase the scale, frequency and consequences
+      of the exact sort of dynamics we’re seeing in this case, and to eradicate opposition
+      to Israel throughout the nation. This is how overextended Australia’s freakout
+      over “antisemitism” already is. You can literally just be sitting there not saying
+      or doing anything and still find yourself getting arrested and prosecuted for
+      an antisemitic hate crime. They have the authority to do this presently , under
+      the laws that already exist. The argument for this bill is that our present horrifyingly
+      tyrannical and abusive system is insufficiently authoritarian and tyrannical,
+      and that prosecutors need more power to police speech far more forcefully. Australians
+      are being asked to trust a system that would take a woman with an intellectual
+      disability to prosecution in a court of law over an accidental butt-dial to a
+      person of Jewish faith with the authority to send people to prison for years over
+      their political speech. And this is happening after we just spent years watching
+      Australian authorities roll out authoritarian measures to stomp out criticism
+      of Israel and quash protests against an active genocide. This is madness, and
+      it needs to be brought to a screeching halt. Immediately. This entire country
+      has lost its damn mind. The Bondi attack isn’t the reason, it’s the excuse. All
+      these laws being rolled out to stomp out criticism of Israel in Australia were
+      sought for years before the shooting occurred. Immediately after the attack last
+      month I tweeted , “Not a lot of info about the Bondi shooting yet but it’s safe
+      to assume it will be used as an excuse to target pro-Palestine activists and further
+      outlaw criticism of Israel in Australia, as has been happening to a greater and
+      greater extent in this country for the last two years.” They could have proved
+      me wrong, but instead they’ve spent this entire time proving me one hundred percent
+      correct. The frenzied efforts to crush anti-genocide protests and silence speech
+      that is critical of Israel and Zionism in these subsequent weeks has plainly established
+      this. There is no connection between pro-Palestine demonstrations and the Bondi
+      attack. None. It had nothing to do with Palestinians, and it had nothing to do
+      with anti-genocide demonstrations. It’s a completely made-up claim that Israel’s
+      supporters have been circulating in Australian consciousness through sheer repetition.
+      They’re just pretending to believe it’s true in order to promote the information
+      interests of a genocidal apartheid state. Israel’s supporters need to use propaganda,
+      deception, censorship and oppression to promote their agendas, because it’s all
+      they have. They don’t have truth. They don’t have arguments. They don’t have morality.
+      All they have is brute force. They are shoving support for Israel and its atrocities
+      down our throats whether we like it or not, and if we refuse what we’re being
+      force-fed they will punish us. That’s the only tool in their toolbox. This needs
+      to be ferociously opposed. The more Israel and its supporters work to assault
+      our right to oppose their abuses, the more aggressively we need to oppose them.
+      We are no longer fighting against war and genocide in the middle east, we are
+      fighting against an assault on our own civil rights. It’s personal now. They’re
+      coming for us directly. ________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image is a screen grab from 9 News
+      (Fair Use) .'
+    one_sentence_summary: An Australian woman with a mental disability faces prosecution
+      for antisemitic hate crimes after accidentally pocket-dialing a Jewish nutritionist,
+      which has raised concerns about the implications of new hate speech legislation
+      that could further escalate such situations.
+    paragraph_summary: An Australian woman with a mental disability is facing prosecution
+      for antisemitic hate crimes after unintentionally pocket-dialing a Jewish nutritionist,
+      leading to a voicemail that caused the nutritionist distress due to perceived
+      background noises. This incident exemplifies the extreme measures being taken
+      under Australia's proposed Combatting Antisemitism, Hate and Extremism Bill, which
+      aims to enhance the government's power to regulate speech and suppress opposition
+      to Israel. Critics argue that the current legal framework is already overly authoritarian,
+      allowing for the prosecution of individuals for unintentional actions, and express
+      concern that the new legislation will further erode free speech and civil liberties
+      in the country. The situation is seen as indicative of a broader societal panic
+      over antisemitism that is being exploited to justify increasingly repressive laws.
+    published: '2026-01-17T02:05:20+00:00'
+  - title: The War On Free Speech In Australia Is Getting Cartoonishly Absurd
+    url: https://www.caitlinjohnst.one/p/the-war-on-free-speech-in-australia
+    text: 'Reading by Tim Foley : Subscribe now A mentally disabled Australian woman
+      is being prosecuted for antisemitic hate crimes after accidentally pocket-dialing
+      a Jewish nutritionist, resulting in a blank voicemail which caused the nutritionist
+      “immediate fear and nervousness” because she thought some of the background noises
+      in the recording sounded a bit like gunshots. We’re being told we need more of
+      this. There’s “hate speech” legislation presently in the works to make this worse
+      . Australia’s controversial Combatting Antisemitism, Hate and Extremism Bill appears
+      to be explicitly crafted to dramatically increase the scale, frequency and consequences
+      of the exact sort of dynamics we’re seeing in this case, and to eradicate opposition
+      to Israel throughout the nation. This is how overextended Australia’s freakout
+      over “antisemitism” already is. You can literally just be sitting there not saying
+      or doing anything and still find yourself getting arrested and prosecuted for
+      an antisemitic hate crime. They have the authority to do this presently , under
+      the laws that already exist. The argument for this bill is that our present horrifyingly
+      tyrannical and abusive system is insufficiently authoritarian and tyrannical,
+      and that prosecutors need more power to police speech far more forcefully. Australians
+      are being asked to trust a system that would take a woman with an intellectual
+      disability to prosecution in a court of law over an accidental butt-dial to a
+      person of Jewish faith with the authority to send people to prison for years over
+      their political speech. And this is happening after we just spent years watching
+      Australian authorities roll out authoritarian measures to stomp out criticism
+      of Israel and quash protests against an active genocide. This is madness, and
+      it needs to be brought to a screeching halt. Immediately. This entire country
+      has lost its damn mind. The Bondi attack isn’t the reason, it’s the excuse. All
+      these laws being rolled out to stomp out criticism of Israel in Australia were
+      sought for years before the shooting occurred. Immediately after the attack last
+      month I tweeted , “Not a lot of info about the Bondi shooting yet but it’s safe
+      to assume it will be used as an excuse to target pro-Palestine activists and further
+      outlaw criticism of Israel in Australia, as has been happening to a greater and
+      greater extent in this country for the last two years.” They could have proved
+      me wrong, but instead they’ve spent this entire time proving me one hundred percent
+      correct. The frenzied efforts to crush anti-genocide protests and silence speech
+      that is critical of Israel and Zionism in these subsequent weeks has plainly established
+      this. There is no connection between pro-Palestine demonstrations and the Bondi
+      attack. None. It had nothing to do with Palestinians, and it had nothing to do
+      with anti-genocide demonstrations. It’s a completely made-up claim that Israel’s
+      supporters have been circulating in Australian consciousness through sheer repetition.
+      They’re just pretending to believe it’s true in order to promote the information
+      interests of a genocidal apartheid state. Israel’s supporters need to use propaganda,
+      deception, censorship and oppression to promote their agendas, because it’s all
+      they have. They don’t have truth. They don’t have arguments. They don’t have morality.
+      All they have is brute force. They are shoving support for Israel and its atrocities
+      down our throats whether we like it or not, and if we refuse what we’re being
+      force-fed they will punish us. That’s the only tool in their toolbox. This needs
+      to be ferociously opposed. The more Israel and its supporters work to assault
+      our right to oppose their abuses, the more aggressively we need to oppose them.
+      We are no longer fighting against war and genocide in the middle east, we are
+      fighting against an assault on our own civil rights. It’s personal now. They’re
+      coming for us directly. ________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image is a screen grab from 9 News
+      (Fair Use) .'
+    one_sentence_summary: An Australian woman with a mental disability faces prosecution
+      for antisemitic hate crimes after accidentally pocket-dialing a Jewish nutritionist,
+      which has raised concerns about the implications of new hate speech legislation
+      that could further escalate such situations.
+    paragraph_summary: An Australian woman with a mental disability is facing prosecution
+      for antisemitic hate crimes after unintentionally pocket-dialing a Jewish nutritionist,
+      leading to a voicemail that caused the nutritionist distress due to perceived
+      background noises. This incident exemplifies the extreme measures being taken
+      under Australia's proposed Combatting Antisemitism, Hate and Extremism Bill, which
+      aims to enhance the government's power to regulate speech and suppress opposition
+      to Israel. Critics argue that the current legal framework is already overly authoritarian,
+      allowing for the prosecution of individuals for unintentional actions, and express
+      concern that the new legislation will further erode free speech and civil liberties
+      in the country. The situation is seen as indicative of a broader societal panic
+      over antisemitism that is being exploited to justify increasingly repressive laws.
+    published: '2026-01-17T02:05:20+00:00'
+  - title: 'Encouraging News: Lindsey Graham Looks HEARTBROKEN About Iran'
+    url: https://www.caitlinjohnst.one/p/encouraging-news-lindsey-graham-looks
+    text: 'Reading by Tim Foley : Subscribe now You can always tell how murderous the
+      US empire is being from day to day from the expression on warmongering senator
+      Lindsey Graham’s face, and right now he looks like he just found his mother dead
+      in the bathtub. Earlier this month Graham looked positively giddy while posing
+      with President Trump holding a Make Iran Great Again hat and gushing about how
+      Cuba will be the next Latin American socialist government the US takes out after
+      Venezuela, but in a Fox News clip the South Carolina senator shared on Twitter
+      he looks and sounds like he spent all night crying and punishing his internal
+      organs with intoxicants. “President Trump’s resolve is not the question,” Graham
+      glumly told reporters on Thursday regarding the possibility of an attack on Iran.
+      “Question is, when we do an operation like this, should it be bigger or smaller?
+      I’m in the camp of bigger. Time will tell. I’m hopeful and optimistic that the
+      regime days are numbered.” I personally place a lot more hope in Graham’s long
+      face than I do in recent news reports that US airstrikes on Iran now appear unlikely,
+      because the US and Israel have a track record of circulating disinformation about
+      their intentions before attacking. In June Trump falsely announced on social media
+      that he had hope for a diplomatic solution with Iran regarding its nuclear program
+      hours before bombing Iranian nuclear sites, so reports that Israel and Arab states
+      had successfully convinced Trump to hold off on attacking Iran should be considered
+      untrustworthy. But Lindsey Graham’s heartbroken whimper? I personally find that
+      encouraging. Maybe war with Iran really has been put off for the time being. One
+      less nightmare to have to worry about. Sometimes I think it would be helpful to
+      publish a daily Graham-o-Meter which shows Lindsey Graham’s face on a scale from
+      dour to ecstatic to illustrate how evil the US empire is being on a given day.
+      When the US launches airstrikes or orchestrates a regime change operation the
+      Graham-o-Meter features a Delighted Lindsey, and when it looks like the empire
+      has been forced to postpone a given power grab it shows a Depressed Lindsey. People
+      often say Lindsey Graham is gay, but I don’t think that’s true. I don’t know if
+      there’s a word for an orientation where someone is only sexually attracted to
+      mass military violence, but it’s not gay. Here’s hoping we see a lot more Depressed
+      Lindseys going forward. _____________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: Senator Lindsey Graham's contrasting demeanor reflects the
+      fluctuating sentiments surrounding U.S. military actions, as he shifts from enthusiasm
+      for aggressive policies to a somber outlook on potential operations against Iran.
+    paragraph_summary: In a recent commentary, Tim Foley reflects on the fluctuating
+      demeanor of Senator Lindsey Graham as an indicator of U.S. military aggression,
+      particularly regarding Iran. Graham, who previously appeared enthusiastic about
+      U.S. interventions in countries like Cuba and Venezuela, now seems despondent
+      when discussing potential military actions against Iran, suggesting a shift in
+      the political climate. Foley expresses skepticism about reports claiming that
+      U.S. airstrikes on Iran are unlikely, citing a history of misinformation from
+      U.S. and Israeli officials. He finds Graham's current gloomy outlook somewhat
+      reassuring, interpreting it as a sign that war with Iran may be temporarily averted.
+      Foley humorously proposes the idea of a "Graham-o-Meter" to visually represent
+      the senator's mood as a barometer for U.S. imperial actions.
+    published: '2026-01-16T01:19:54+00:00'
+  - title: 'Encouraging News: Lindsey Graham Looks HEARTBROKEN About Iran'
+    url: https://www.caitlinjohnst.one/p/encouraging-news-lindsey-graham-looks
+    text: 'Reading by Tim Foley : Subscribe now You can always tell how murderous the
+      US empire is being from day to day from the expression on warmongering senator
+      Lindsey Graham’s face, and right now he looks like he just found his mother dead
+      in the bathtub. Earlier this month Graham looked positively giddy while posing
+      with President Trump holding a Make Iran Great Again hat and gushing about how
+      Cuba will be the next Latin American socialist government the US takes out after
+      Venezuela, but in a Fox News clip the South Carolina senator shared on Twitter
+      he looks and sounds like he spent all night crying and punishing his internal
+      organs with intoxicants. “President Trump’s resolve is not the question,” Graham
+      glumly told reporters on Thursday regarding the possibility of an attack on Iran.
+      “Question is, when we do an operation like this, should it be bigger or smaller?
+      I’m in the camp of bigger. Time will tell. I’m hopeful and optimistic that the
+      regime days are numbered.” I personally place a lot more hope in Graham’s long
+      face than I do in recent news reports that US airstrikes on Iran now appear unlikely,
+      because the US and Israel have a track record of circulating disinformation about
+      their intentions before attacking. In June Trump falsely announced on social media
+      that he had hope for a diplomatic solution with Iran regarding its nuclear program
+      hours before bombing Iranian nuclear sites, so reports that Israel and Arab states
+      had successfully convinced Trump to hold off on attacking Iran should be considered
+      untrustworthy. But Lindsey Graham’s heartbroken whimper? I personally find that
+      encouraging. Maybe war with Iran really has been put off for the time being. One
+      less nightmare to have to worry about. Sometimes I think it would be helpful to
+      publish a daily Graham-o-Meter which shows Lindsey Graham’s face on a scale from
+      dour to ecstatic to illustrate how evil the US empire is being on a given day.
+      When the US launches airstrikes or orchestrates a regime change operation the
+      Graham-o-Meter features a Delighted Lindsey, and when it looks like the empire
+      has been forced to postpone a given power grab it shows a Depressed Lindsey. People
+      often say Lindsey Graham is gay, but I don’t think that’s true. I don’t know if
+      there’s a word for an orientation where someone is only sexually attracted to
+      mass military violence, but it’s not gay. Here’s hoping we see a lot more Depressed
+      Lindseys going forward. _____________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: Senator Lindsey Graham's contrasting demeanor reflects the
+      fluctuating sentiments surrounding U.S. military actions, as he shifts from enthusiasm
+      for aggressive policies to a somber outlook on potential operations against Iran.
+    paragraph_summary: In a recent commentary, Tim Foley reflects on the fluctuating
+      demeanor of Senator Lindsey Graham as an indicator of U.S. military aggression,
+      particularly regarding Iran. Graham, who previously appeared enthusiastic about
+      U.S. interventions in countries like Cuba and Venezuela, now seems despondent
+      when discussing potential military actions against Iran, suggesting a shift in
+      the political climate. Foley expresses skepticism about reports claiming that
+      U.S. airstrikes on Iran are unlikely, citing a history of misinformation from
+      U.S. and Israeli officials. He finds Graham's current gloomy outlook somewhat
+      reassuring, interpreting it as a sign that war with Iran may be temporarily averted.
+      Foley humorously proposes the idea of a "Graham-o-Meter" to visually represent
+      the senator's mood as a barometer for U.S. imperial actions.
+    published: '2026-01-16T01:19:54+00:00'
+  - title: On "Leftists" And "Anarchists" Who Cheer For Regime Change In Iran
+    url: https://www.caitlinjohnst.one/p/on-leftists-and-anarchists-who-cheer
+    text: 'Reading by Tim Foley : Subscribe now Is there anything more undignified than
+      “leftists” and “anarchists” who cheer on the fall of empire-targeted governments
+      even as the empire moves war machinery into place? Ooh look at me I’m sticking
+      it to the man by supporting the same agendas as the US State Department. I’m being
+      punk rock by regurgitating the same war propaganda talking points as John Bolton.
+      I’m fighting the power by backing the foreign policy objectives of the most powerful
+      empire that has ever existed. Fucking embarrassing, man. If you want to have a
+      serious political outlook it is necessary to have a more layered understanding
+      of the world than “tyranny bad”, because as westerners we ourselves are ruled
+      by the most tyrannical power structure on earth. That power structure ceaselessly
+      targets the few remaining states that have successfully resisted being absorbed
+      into its globe-spanning power umbrella like Iran, Russia, China, North Korea,
+      and Cuba. Those states have successfully resisted being absorbed into the imperial
+      blob exactly because they have strong governments that don’t hesitate to exert
+      control to stomp out all the imperial operations and infiltrations which would
+      otherwise have overthrown them. This doesn’t mean these governments are wonderful
+      and flawless, it just means they possess the qualities that enable a state to
+      resist the empire’s coups, proxy conflicts, color revolutions and foreign influence
+      operations. If your only analysis of state power dynamics is “tyranny bad”, then
+      you will naturally find yourself in opposition to the unabsorbed states and (whether
+      you admit it or not) on the side of the most tyrannical regime on earth — namely
+      the US-centralized western empire. No other power structure has spent the 21st
+      century slaughtering people by the millions in wars of aggression around the world,
+      attacking civilian populations with deadly starvation sanctions, staging coups,
+      instigating proxy conflicts, and circling the planet with hundreds of military
+      bases. Only the US empire is doing that. Dominating the entire planet with murderous
+      brute force is as tyrannical as it gets. If this isn’t true, then nothing is.
+      If you want to have a serious political worldview, you need to get real about
+      this. The premise that the fall of an authoritarian government is always inherently
+      positive has no place in the understanding of a grown adult, especially if that
+      grown adult happens to live in the core of the western empire, and especially
+      if that empire is presently working to orchestrate the overthrow of the government
+      in question. The more power structures are absorbed into the empire, the larger
+      and more powerful the empire becomes. Desiring their absorption is desiring more
+      power for the US empire. And you can lie to yourself and say that you don’t want
+      Iran to be absorbed into the control of the US empire, you just want its people
+      to live in a free and democratic country. But we both know that’s not going to
+      happen. Once the strength of the Iranian government has been collapsed there will
+      be a power vacuum that is filled by whatever faction is able to secure control,
+      and the strongest faction will be whichever one is backed by the US and its allies.
+      There is no organic faction within Iran that is strong enough to stand against
+      the installation of a US puppet regime at this time, besides the one that presently
+      exists. That’s the reality of the situation. It’s not ideal, but it is reality.
+      You can choose to be real about reality, or you can choose to psychologically
+      compartmentalize away from it and tell yourself a bunch of fairly tales about
+      a global people’s revolution which just coincidentally happens to be starting
+      in all the countries the US empire hates most. I personally find the latter undignified,
+      self-debasing, and power-serving. _______________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article criticizes leftists and anarchists who unwittingly
+      support U.S. imperialism by cheering for the downfall of targeted governments,
+      arguing that a deeper understanding of global power dynamics is necessary to avoid
+      aligning with the very tyranny they claim to oppose.
+    paragraph_summary: In Tim Foley's article, he critiques leftists and anarchists
+      who support the downfall of governments targeted by the U.S. empire while inadvertently
+      aligning with its foreign policy objectives. He argues that a simplistic view
+      of politics, which categorizes all authoritarian regimes as "tyranny bad," fails
+      to recognize the complexities of global power dynamics. Foley emphasizes that
+      countries like Iran, Russia, China, North Korea, and Cuba have resisted imperial
+      influence due to their strong governance, which allows them to counteract U.S.
+      interventions. He warns that by only opposing tyranny without understanding the
+      broader context, individuals may inadvertently support the very empire that perpetuates
+      violence and oppression worldwide.
+    published: '2026-01-15T01:31:57+00:00'
+  - title: On "Leftists" And "Anarchists" Who Cheer For Regime Change In Iran
+    url: https://www.caitlinjohnst.one/p/on-leftists-and-anarchists-who-cheer
+    text: 'Reading by Tim Foley : Subscribe now Is there anything more undignified than
+      “leftists” and “anarchists” who cheer on the fall of empire-targeted governments
+      even as the empire moves war machinery into place? Ooh look at me I’m sticking
+      it to the man by supporting the same agendas as the US State Department. I’m being
+      punk rock by regurgitating the same war propaganda talking points as John Bolton.
+      I’m fighting the power by backing the foreign policy objectives of the most powerful
+      empire that has ever existed. Fucking embarrassing, man. If you want to have a
+      serious political outlook it is necessary to have a more layered understanding
+      of the world than “tyranny bad”, because as westerners we ourselves are ruled
+      by the most tyrannical power structure on earth. That power structure ceaselessly
+      targets the few remaining states that have successfully resisted being absorbed
+      into its globe-spanning power umbrella like Iran, Russia, China, North Korea,
+      and Cuba. Those states have successfully resisted being absorbed into the imperial
+      blob exactly because they have strong governments that don’t hesitate to exert
+      control to stomp out all the imperial operations and infiltrations which would
+      otherwise have overthrown them. This doesn’t mean these governments are wonderful
+      and flawless, it just means they possess the qualities that enable a state to
+      resist the empire’s coups, proxy conflicts, color revolutions and foreign influence
+      operations. If your only analysis of state power dynamics is “tyranny bad”, then
+      you will naturally find yourself in opposition to the unabsorbed states and (whether
+      you admit it or not) on the side of the most tyrannical regime on earth — namely
+      the US-centralized western empire. No other power structure has spent the 21st
+      century slaughtering people by the millions in wars of aggression around the world,
+      attacking civilian populations with deadly starvation sanctions, staging coups,
+      instigating proxy conflicts, and circling the planet with hundreds of military
+      bases. Only the US empire is doing that. Dominating the entire planet with murderous
+      brute force is as tyrannical as it gets. If this isn’t true, then nothing is.
+      If you want to have a serious political worldview, you need to get real about
+      this. The premise that the fall of an authoritarian government is always inherently
+      positive has no place in the understanding of a grown adult, especially if that
+      grown adult happens to live in the core of the western empire, and especially
+      if that empire is presently working to orchestrate the overthrow of the government
+      in question. The more power structures are absorbed into the empire, the larger
+      and more powerful the empire becomes. Desiring their absorption is desiring more
+      power for the US empire. And you can lie to yourself and say that you don’t want
+      Iran to be absorbed into the control of the US empire, you just want its people
+      to live in a free and democratic country. But we both know that’s not going to
+      happen. Once the strength of the Iranian government has been collapsed there will
+      be a power vacuum that is filled by whatever faction is able to secure control,
+      and the strongest faction will be whichever one is backed by the US and its allies.
+      There is no organic faction within Iran that is strong enough to stand against
+      the installation of a US puppet regime at this time, besides the one that presently
+      exists. That’s the reality of the situation. It’s not ideal, but it is reality.
+      You can choose to be real about reality, or you can choose to psychologically
+      compartmentalize away from it and tell yourself a bunch of fairly tales about
+      a global people’s revolution which just coincidentally happens to be starting
+      in all the countries the US empire hates most. I personally find the latter undignified,
+      self-debasing, and power-serving. _______________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article criticizes leftists and anarchists who unwittingly
+      support U.S. imperialism by cheering for the downfall of targeted governments,
+      arguing that a deeper understanding of global power dynamics is necessary to avoid
+      aligning with the very tyranny they claim to oppose.
+    paragraph_summary: In Tim Foley's article, he critiques leftists and anarchists
+      who support the downfall of governments targeted by the U.S. empire while inadvertently
+      aligning with its foreign policy objectives. He argues that a simplistic view
+      of politics, which categorizes all authoritarian regimes as "tyranny bad," fails
+      to recognize the complexities of global power dynamics. Foley emphasizes that
+      countries like Iran, Russia, China, North Korea, and Cuba have resisted imperial
+      influence due to their strong governance, which allows them to counteract U.S.
+      interventions. He warns that by only opposing tyranny without understanding the
+      broader context, individuals may inadvertently support the very empire that perpetuates
+      violence and oppression worldwide.
+    published: '2026-01-15T01:31:57+00:00'
+  - title: Everyone Wants Peace Until They Get Hit With The War Propaganda
+    url: https://www.caitlinjohnst.one/p/everyone-wants-peace-until-they-get
+    text: 'Reading by Tim Foley : Subscribe now Everyone’s anti-war until the war propaganda
+      starts. Every normal person will tell you they want peace and abhor mass-scale
+      violence. Then the mass media start doing what they always do and churning out
+      stories about atrocities in an empire-targeted nation, and all of a sudden people
+      find themselves supporting airstrikes on that nation’s capital, and believing
+      they came to that position all on their own. This happens because most people
+      are unaware that the western news media do not exist to report the news. They
+      exist to administer propaganda on behalf of the western empire. Our news outlets.
+      Our search engines. Our social media algorithms. Our most prominent online information
+      resources. Our mainstream podcasts and Youtube pundits. Our AI chatbots. They’re
+      all rigged by the rich and powerful to manipulate our understanding of the world.
+      And most of us have no idea this is even occurring. Propaganda is very effective
+      if you don’t know it’s happening to you. That’s why westerners are far more propagandized
+      than the populations of nations with overtly authoritarian governments. In a nation
+      with strict speech laws and press regulation people know the state media they’re
+      being fed is government propaganda, whereas westerners are so propagandized they
+      don’t even KNOW they’re propagandized. There’s an old joke that goes like this:
+      A Soviet and an American are on an airplane seated next to each other. “Why are
+      you flying to the US?” asks the American. “To study American propaganda,” replies
+      the Soviet. “What American propaganda?” asks the American. “Exactly,” the Soviet
+      replies. The mass-scale psychological manipulation worms its way into western
+      minds without their having any idea that it’s happening. Then all of a sudden
+      you’ve got Trump supporters who just spent ten years proudly proclaiming that
+      their man is going to end all the wars and bring about world peace enthusiastically
+      cheerleading for decapitation strikes in Tehran. They think they came up with
+      the idea all on their own, but in reality they were skillfully manipulated into
+      that position by the most powerful people in the world. You see it over and over
+      again. People’s natural, healthy impulse to support peace and oppose mass murder
+      gets hacked and reversed by the mass-scale psychological manipulation of the most
+      sophisticated propaganda machine that has ever existed. From cradle to grave they
+      are attacking our innate goodness and working to twist us toward evil and abusiveness.
+      We think we live in a free society, but in reality we live in a mind-controlled
+      dystopia where people are systematically psychologically conditioned to support
+      the world’s ugliest agendas driven by the most powerful and depraved individuals
+      on our planet. The more you think about it, the creepier it gets. But, again,
+      propaganda only works if you don’t know it’s happening to you. The more people
+      understand that our view of world events is being aggressively manipulated by
+      our rulers, the less effective these propaganda operations will become. All we
+      have to do is help our fellow citizens and netizens wake up to the fact that that’s
+      what’s going on. Once they lose the ability to manipulate the way we think, speak,
+      act and vote, the possibility of a free and healthy world is just a click away.
+      __________________ Caitlin’s Newsletter is a reader-supported publication. To
+      receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article by Tim Foley argues that mass media serves as
+      a tool for propaganda, manipulating public opinion to support war efforts despite
+      a general desire for peace, often without individuals realizing they are being
+      influenced.
+    paragraph_summary: In his article, Tim Foley discusses how individuals often profess
+      anti-war sentiments until they are influenced by war propaganda disseminated through
+      Western media, which he argues serves the interests of the powerful rather than
+      providing unbiased news. He highlights the effectiveness of this propaganda, noting
+      that many people are unaware of its presence, leading them to support military
+      actions against targeted nations without recognizing the manipulation at play.
+      Foley contrasts this with populations in authoritarian regimes, who are more aware
+      of state-controlled media and its propagandistic nature. He illustrates his point
+      with a joke about an American and a Soviet, emphasizing that the American is oblivious
+      to the propaganda shaping his views. Ultimately, Foley suggests that this psychological
+      manipulation can lead to significant shifts in public opinion, even among those
+      who previously advocated for peace.
+    published: '2026-01-15T00:44:43+00:00'
+  - title: Everyone Wants Peace Until They Get Hit With The War Propaganda
+    url: https://www.caitlinjohnst.one/p/everyone-wants-peace-until-they-get
+    text: 'Reading by Tim Foley : Subscribe now Everyone’s anti-war until the war propaganda
+      starts. Every normal person will tell you they want peace and abhor mass-scale
+      violence. Then the mass media start doing what they always do and churning out
+      stories about atrocities in an empire-targeted nation, and all of a sudden people
+      find themselves supporting airstrikes on that nation’s capital, and believing
+      they came to that position all on their own. This happens because most people
+      are unaware that the western news media do not exist to report the news. They
+      exist to administer propaganda on behalf of the western empire. Our news outlets.
+      Our search engines. Our social media algorithms. Our most prominent online information
+      resources. Our mainstream podcasts and Youtube pundits. Our AI chatbots. They’re
+      all rigged by the rich and powerful to manipulate our understanding of the world.
+      And most of us have no idea this is even occurring. Propaganda is very effective
+      if you don’t know it’s happening to you. That’s why westerners are far more propagandized
+      than the populations of nations with overtly authoritarian governments. In a nation
+      with strict speech laws and press regulation people know the state media they’re
+      being fed is government propaganda, whereas westerners are so propagandized they
+      don’t even KNOW they’re propagandized. There’s an old joke that goes like this:
+      A Soviet and an American are on an airplane seated next to each other. “Why are
+      you flying to the US?” asks the American. “To study American propaganda,” replies
+      the Soviet. “What American propaganda?” asks the American. “Exactly,” the Soviet
+      replies. The mass-scale psychological manipulation worms its way into western
+      minds without their having any idea that it’s happening. Then all of a sudden
+      you’ve got Trump supporters who just spent ten years proudly proclaiming that
+      their man is going to end all the wars and bring about world peace enthusiastically
+      cheerleading for decapitation strikes in Tehran. They think they came up with
+      the idea all on their own, but in reality they were skillfully manipulated into
+      that position by the most powerful people in the world. You see it over and over
+      again. People’s natural, healthy impulse to support peace and oppose mass murder
+      gets hacked and reversed by the mass-scale psychological manipulation of the most
+      sophisticated propaganda machine that has ever existed. From cradle to grave they
+      are attacking our innate goodness and working to twist us toward evil and abusiveness.
+      We think we live in a free society, but in reality we live in a mind-controlled
+      dystopia where people are systematically psychologically conditioned to support
+      the world’s ugliest agendas driven by the most powerful and depraved individuals
+      on our planet. The more you think about it, the creepier it gets. But, again,
+      propaganda only works if you don’t know it’s happening to you. The more people
+      understand that our view of world events is being aggressively manipulated by
+      our rulers, the less effective these propaganda operations will become. All we
+      have to do is help our fellow citizens and netizens wake up to the fact that that’s
+      what’s going on. Once they lose the ability to manipulate the way we think, speak,
+      act and vote, the possibility of a free and healthy world is just a click away.
+      __________________ Caitlin’s Newsletter is a reader-supported publication. To
+      receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article by Tim Foley argues that mass media serves as
+      a tool for propaganda, manipulating public opinion to support war efforts despite
+      a general desire for peace, often without individuals realizing they are being
+      influenced.
+    paragraph_summary: In his article, Tim Foley discusses how individuals often profess
+      anti-war sentiments until they are influenced by war propaganda disseminated through
+      Western media, which he argues serves the interests of the powerful rather than
+      providing unbiased news. He highlights the effectiveness of this propaganda, noting
+      that many people are unaware of its presence, leading them to support military
+      actions against targeted nations without recognizing the manipulation at play.
+      Foley contrasts this with populations in authoritarian regimes, who are more aware
+      of state-controlled media and its propagandistic nature. He illustrates his point
+      with a joke about an American and a Soviet, emphasizing that the American is oblivious
+      to the propaganda shaping his views. Ultimately, Foley suggests that this psychological
+      manipulation can lead to significant shifts in public opinion, even among those
+      who previously advocated for peace.
+    published: '2026-01-15T00:44:43+00:00'
+  - title: You Know They're Lying About Iran
+    url: https://www.caitlinjohnst.one/p/you-know-theyre-lying-about-iran
+    text: 'Reading by Tim Foley : Subscribe now You’ve seen this all before. They run
+      the same script over and over again. You know all the beats. The formula never
+      changes. “Oh no, the people in the targeted nation are being oppressed! They need
+      freedom and democracy!” “Hey, I bet we could use our powerful military to help
+      them get the freedom and democracy! Wouldn’t that be swell?” “Oh gosh, there are
+      some people who don’t think we should use our powerful military to help the people
+      in the targeted nation get freedom and democracy! They must have some sinister,
+      suspicious loyalty to the Evil Regime which rules the targeted nation!” “Look,
+      I get that sometimes in the past we have used our powerful military in ways that
+      were mean and unhelpful, but you need to understand that the Evil Regime is also
+      very, very bad. Two things can be true at the same time, you know!” “Oh no, now
+      the Evil Regime is committing atrocities! You know it’s true because it’s in the
+      news, and the news isn’t allowed to lie! We’ve got to DO something! We can’t just
+      DO NOTHING!” Don’t fall for it. Don’t fall for the propaganda. Don’t fall for
+      the imperial concern trolling about human rights. Don’t fall for the nuance policing
+      and both-sidesing of the empire’s operatives and useful idiots. Don’t let the
+      empire apologists shout you down and shut you up. Stand your ground. This is exactly
+      what it looks like. You are right, and they are wrong. They’re not doing anything
+      new. They’re using the same old script. Hell, they’re even using a lot of the
+      same actors. This is the same bullshit as always. Once you’ve seen enough Hollywood
+      movies, you get familiar with the formula. Boy meets girl, but he’s got some kind
+      of secret or character flaw that will be discovered by the girl about three-quarters
+      of the way through the film, it will seem as though all is lost, but he wins her
+      back in the end. They churn out variations of this movie year after year, following
+      the same formula every time. This is like that. You’ve seen enough of these to
+      know the formula by now. Trust your gut. Have confidence in your own inner vision.
+      You’ve got this. There’s probably going to be a whole lot of narrative distortion
+      dumped into the information ecosystem in the coming days, but they’re not going
+      to make a sucker out of you. You’re seeing things much too clearly now. ________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article by Tim Foley critiques the repetitive narrative
+      used to justify military intervention in foreign nations, highlighting the formulaic
+      approach that frames such actions as necessary for promoting freedom and democracy
+      despite past failures.
+    paragraph_summary: In his article, Tim Foley critiques the repetitive and formulaic
+      nature of military intervention narratives, arguing that they follow a predictable
+      script that emphasizes the need for freedom and democracy in oppressed nations
+      while downplaying the complexities and past failures of such interventions. He
+      warns readers against falling for the propaganda that frames military action as
+      a moral imperative, highlighting the tendency of proponents to label dissenters
+      as complicit with oppressive regimes. Foley encourages skepticism towards these
+      narratives, likening them to a familiar Hollywood plot that recycles the same
+      themes and characters, ultimately urging individuals to recognize and resist the
+      manipulative tactics employed by those advocating for imperialistic actions under
+      the guise of humanitarian concern.
+    published: '2026-01-14T13:16:33+00:00'
+  - title: You Know They're Lying About Iran
+    url: https://www.caitlinjohnst.one/p/you-know-theyre-lying-about-iran
+    text: 'Reading by Tim Foley : Subscribe now You’ve seen this all before. They run
+      the same script over and over again. You know all the beats. The formula never
+      changes. “Oh no, the people in the targeted nation are being oppressed! They need
+      freedom and democracy!” “Hey, I bet we could use our powerful military to help
+      them get the freedom and democracy! Wouldn’t that be swell?” “Oh gosh, there are
+      some people who don’t think we should use our powerful military to help the people
+      in the targeted nation get freedom and democracy! They must have some sinister,
+      suspicious loyalty to the Evil Regime which rules the targeted nation!” “Look,
+      I get that sometimes in the past we have used our powerful military in ways that
+      were mean and unhelpful, but you need to understand that the Evil Regime is also
+      very, very bad. Two things can be true at the same time, you know!” “Oh no, now
+      the Evil Regime is committing atrocities! You know it’s true because it’s in the
+      news, and the news isn’t allowed to lie! We’ve got to DO something! We can’t just
+      DO NOTHING!” Don’t fall for it. Don’t fall for the propaganda. Don’t fall for
+      the imperial concern trolling about human rights. Don’t fall for the nuance policing
+      and both-sidesing of the empire’s operatives and useful idiots. Don’t let the
+      empire apologists shout you down and shut you up. Stand your ground. This is exactly
+      what it looks like. You are right, and they are wrong. They’re not doing anything
+      new. They’re using the same old script. Hell, they’re even using a lot of the
+      same actors. This is the same bullshit as always. Once you’ve seen enough Hollywood
+      movies, you get familiar with the formula. Boy meets girl, but he’s got some kind
+      of secret or character flaw that will be discovered by the girl about three-quarters
+      of the way through the film, it will seem as though all is lost, but he wins her
+      back in the end. They churn out variations of this movie year after year, following
+      the same formula every time. This is like that. You’ve seen enough of these to
+      know the formula by now. Trust your gut. Have confidence in your own inner vision.
+      You’ve got this. There’s probably going to be a whole lot of narrative distortion
+      dumped into the information ecosystem in the coming days, but they’re not going
+      to make a sucker out of you. You’re seeing things much too clearly now. ________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article by Tim Foley critiques the repetitive narrative
+      used to justify military intervention in foreign nations, highlighting the formulaic
+      approach that frames such actions as necessary for promoting freedom and democracy
+      despite past failures.
+    paragraph_summary: In his article, Tim Foley critiques the repetitive and formulaic
+      nature of military intervention narratives, arguing that they follow a predictable
+      script that emphasizes the need for freedom and democracy in oppressed nations
+      while downplaying the complexities and past failures of such interventions. He
+      warns readers against falling for the propaganda that frames military action as
+      a moral imperative, highlighting the tendency of proponents to label dissenters
+      as complicit with oppressive regimes. Foley encourages skepticism towards these
+      narratives, likening them to a familiar Hollywood plot that recycles the same
+      themes and characters, ultimately urging individuals to recognize and resist the
+      manipulative tactics employed by those advocating for imperialistic actions under
+      the guise of humanitarian concern.
+    published: '2026-01-14T13:16:33+00:00'
   - title: We're Always Told That Everyone In The Empire-Targeted Nation Hates Their
       Government
     url: https://www.caitlinjohnst.one/p/were-always-told-that-everyone-in

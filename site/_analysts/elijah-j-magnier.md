@@ -7,16 +7,974 @@ description: "Veteran Middle East war correspondent; provides first-hand analysi
 websites:
   - https://ejmagnier.com
 summary: |
-  The geopolitical landscape remains sharply focused on the aftermath of the U.S. intervention in Venezuela and its broader implications for global energy markets and power dynamics. In recent days, the United States’ assertion of control over Venezuela’s vast oil reserves has emerged as a central development, with potential to reshape not only OPEC’s internal cohesion but also the wider energy market.
+  The Middle East remains at a critical juncture as diplomatic maneuvers and military posturing continue to define the region’s trajectory. In the latest development, former President Donald Trump’s announcement of a “second phase” in his Gaza peace plan has been met with skepticism from both Israeli officials and independent analysts. According to **Elijah J. Magnier**, Israel perceives this move not as a genuine attempt to resolve the conflict, but rather as a calculated effort to manage international criticism and rehabilitate the images of both Israel and Trump. The realities on the ground in Gaza, Magnier notes, remain unchanged, with the announcement serving more as a distraction than a substantive policy shift.
   
-  According to **Elijah J. Magnier**, the U.S. takeover of Venezuelan oil is “most definitely” a game-changer for global energy politics. President Trump’s administration is now tasked with negotiating terms for future American investments in Venezuela, a process that will determine how much leverage Washington can exert over production levels and pricing. Magnier notes that while the U.S. now holds significant influence, the real impact will depend on the outcome of these negotiations—especially in relation to OPEC’s ability to coordinate output and maintain price stability.
+  Meanwhile, the situation between the U.S., Israel, and Iran continues to simmer. Previous near-war scenarios have revealed a precarious balance: Trump’s intensified rhetoric on bombing Iran was ultimately tempered by Iran’s decision to halt executions of protesters, and by indications that Israel was not fully prepared for escalation. As **Elijah J. Magnier** highlights, this episode underscores the ongoing tension and the delicate interplay between deterrence and restraint in the region.
   
-  The situation is further complicated by the unprecedented abduction of President Nicolás Maduro by U.S. forces earlier this month. As **Elijah J. Magnier** previously detailed, this act constitutes a clear violation of international law and has set a new precedent in foreign intervention, driven more by Venezuela’s resistance to U.S. monetary dominance than by the official justifications cited by Washington. This move has heightened tensions with other oil-producing nations, many of whom view the U.S. actions as a direct threat to their own sovereignty and market positions.
-  
-  Looking ahead, the majority of analysts cited by Magnier agree that the U.S. will seek to use its newfound leverage in Venezuela to challenge the dominance of other oil-rich states and potentially dictate terms within OPEC. However, the success of this strategy is not guaranteed; much will hinge on the ability of the Trump administration to secure favorable investment terms and on the reactions of rival producers. There is a high chance that this development will trigger a period of volatility in energy markets and increased geopolitical friction, particularly among states wary of U.S. interventionism.
-  
-  In summary, the U.S. control over Venezuelan oil marks a pivotal moment with far-reaching consequences. I guarantee that the coming weeks will see intense diplomatic maneuvering as Washington seeks to consolidate its position, while OPEC and other stakeholders reassess their strategies in response to this new reality.
+  Looking ahead, the prevailing trend is one of image management and strategic ambiguity, rather than concrete progress toward peace or de-escalation. The majority of sources agree that external pressure on Iran—particularly strategies aimed at regime destabilization—has historically failed to achieve its objectives, often resulting in greater internal cohesion within Iran. It is, therefore, quite likely that the current cycle of diplomatic gestures and military threats will persist without significant breakthroughs. I guarantee that, barring unforeseen events, the underlying dynamics of the Gaza conflict and the U.S.-Iran-Israel triangle will remain largely unchanged in the immediate future.
 articles:
+  - title: 'Gaza Held Hostage: Netanyahu, Washington, and the Battle Over Gaza’s Future'
+    url: https://ejmagnier.com/2026/01/20/gaza-held-hostage-netanyahu-washington-and-the-battle-over-gazas-future/
+    text: By Elijah J. Magnier – Trump’s announcement of a transition to the second
+      phase of his Gaza peace plan was never treated by Israel as a genuine pathway
+      to ending the war. Instead, it was approached as a mechanism to manage, reframe,
+      and politically contain a conflict that had already inflicted deep military, diplomatic,
+      and moral damage after two years of devastating fighting. Israel’s international
+      standing had sunk to historic lows, and the plan offered an opportunity not for
+      resolution, but for image rehabilitation, both for Israel and for Donald Trump
+      himself. Almost immediately after the ceasefire announcement, media attention
+      on Israeli actions in Gaza faded, replaced by a new political narrative centred
+      on the promise of a “peace plan”. This shift bore little resemblance to realities
+      on the ground. The contradiction became explicit when US envoy Steve Witkoff announced
+      the launch of the plan’s second phase even though the first phase had neither
+      been completed nor fully implemented. The sequencing exposed the initiative as
+      declaratory and improvised, functioning more as a political signalling exercise
+      than as evidence of a serious effort to end the war. Subscribe Subscribe to get
+      access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: Trump's announcement of a second phase in his Gaza peace plan
+      was seen by Israel not as a genuine effort to resolve the conflict, but as a strategy
+      to manage and reshape its image amidst significant international criticism, while
+      the realities on the ground remained largely unaddressed.
+    paragraph_summary: Elijah J. Magnier discusses how Donald Trump's announcement of
+      a transition to the second phase of his Gaza peace plan was perceived by Israel
+      not as a genuine effort to resolve the ongoing conflict, but rather as a strategy
+      to manage and politically contain the situation amidst significant military and
+      diplomatic fallout. With Israel's international reputation at a historic low,
+      the plan was seen as a means for image rehabilitation for both Israel and Trump,
+      diverting media focus from the realities of the war in Gaza to a new narrative
+      centered on peace. The announcement of the second phase by US envoy Steve Witkoff,
+      despite the incomplete first phase, highlighted the initiative's lack of seriousness
+      and its function as a political signaling exercise rather than a true commitment
+      to ending hostilities.
+    published: '2026-01-20T05:03:31+00:00'
+  - title: 'Gaza Held Hostage: Netanyahu, Washington, and the Battle Over Gaza’s Future'
+    url: https://ejmagnier.com/2026/01/20/gaza-held-hostage-netanyahu-washington-and-the-battle-over-gazas-future/
+    text: By Elijah J. Magnier – Trump’s announcement of a transition to the second
+      phase of his Gaza peace plan was never treated by Israel as a genuine pathway
+      to ending the war. Instead, it was approached as a mechanism to manage, reframe,
+      and politically contain a conflict that had already inflicted deep military, diplomatic,
+      and moral damage after two years of devastating fighting. Israel’s international
+      standing had sunk to historic lows, and the plan offered an opportunity not for
+      resolution, but for image rehabilitation, both for Israel and for Donald Trump
+      himself. Almost immediately after the ceasefire announcement, media attention
+      on Israeli actions in Gaza faded, replaced by a new political narrative centred
+      on the promise of a “peace plan”. This shift bore little resemblance to realities
+      on the ground. The contradiction became explicit when US envoy Steve Witkoff announced
+      the launch of the plan’s second phase even though the first phase had neither
+      been completed nor fully implemented. The sequencing exposed the initiative as
+      declaratory and improvised, functioning more as a political signalling exercise
+      than as evidence of a serious effort to end the war. Subscribe Subscribe to get
+      access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: Trump's announcement of a second phase in his Gaza peace plan
+      was seen by Israel not as a genuine effort to resolve the conflict, but as a strategy
+      to manage and reshape its image amidst significant international criticism, while
+      the realities on the ground remained largely unaddressed.
+    paragraph_summary: Elijah J. Magnier discusses how Donald Trump's announcement of
+      a transition to the second phase of his Gaza peace plan was perceived by Israel
+      not as a genuine effort to resolve the ongoing conflict, but rather as a strategy
+      to manage and politically contain the situation amidst significant military and
+      diplomatic fallout. With Israel's international reputation at a historic low,
+      the plan was seen as a means for image rehabilitation for both Israel and Trump,
+      diverting media focus from the realities of the war in Gaza to a new narrative
+      centered on peace. The announcement of the second phase by US envoy Steve Witkoff,
+      despite the incomplete first phase, highlighted the initiative's lack of seriousness
+      and its function as a political signaling exercise rather than a true commitment
+      to ending hostilities.
+    published: '2026-01-20T05:03:31+00:00'
+  - title: 'Gaza prise en otage : Netanyahu, Washington et la bataille pour l’avenir
+      de Gaza'
+    url: https://ejmagnier.com/2026/01/20/gaza-prise-en-otage-netanyahu-washington-et-la-bataille-pour-lavenir-de-gaza/
+    text: Par Elijah J. Magnier L’annonce par Donald Trump d’un passage à la deuxième
+      phase de son plan de paix pour Gaza n’a jamais été traitée par Israël comme une
+      véritable voie vers la fin de la guerre. Elle a été envisagée comme un mécanisme
+      destiné à gérer, reformuler et contenir politiquement un conflit qui avait déjà
+      infligé de lourds dommages militaires, diplomatiques et moraux après deux années
+      de combats dévastateurs. La position internationale d’Israël avait atteint des
+      niveaux historiquement bas, et ce plan offrait une opportunité non pas de résolution,
+      mais de réhabilitation d’image, à la fois pour Israël et pour Donald Trump lui
+      même. Presque immédiatement après l’annonce du cessez le feu, l’attention médiatique
+      portée aux actions israéliennes à Gaza s’est estompée, remplacée par un nouveau
+      récit politique centré sur la promesse d’un « plan de paix ». Ce déplacement du
+      discours correspondait peu aux réalités du terrain. La contradiction est devenue
+      explicite lorsque l’envoyé américain Steve Witkoff a annoncé le lancement de la
+      deuxième phase du plan alors même que la première phase n’avait ni été achevée
+      ni pleinement mise en œuvre. Cette séquence a révélé le caractère déclaratoire
+      et improvisé de l’initiative, qui fonctionnait davantage comme un exercice de
+      signal politique que comme la preuve d’un effort sérieux pour mettre fin à la
+      guerre. Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly
+    one_sentence_summary: L'annonce par Donald Trump d'une nouvelle phase de son plan
+      de paix pour Gaza a été perçue par Israël non comme une véritable solution au
+      conflit, mais comme un moyen de gérer et de redorer son image après des années
+      de guerre, tout en détournant l'attention médiatique des actions israéliennes
+      sur le terrain.
+    paragraph_summary: L'annonce par Donald Trump d'une avancée vers la deuxième phase
+      de son plan de paix pour Gaza a été perçue par Israël non comme une véritable
+      tentative de mettre fin au conflit, mais plutôt comme un moyen de gérer et de
+      redéfinir une situation déjà marquée par des pertes militaires et diplomatiques.
+      Alors que la position internationale d'Israël était à un niveau historiquement
+      bas, ce plan semblait davantage destiné à améliorer l'image d'Israël et de Trump
+      qu'à offrir une solution réelle. Après l'annonce d'un cessez-le-feu, l'attention
+      médiatique s'est rapidement détournée des actions israéliennes à Gaza pour se
+      concentrer sur ce nouveau récit politique, malgré le fait que la première phase
+      du plan n'était pas encore pleinement mise en œuvre. Cette situation a mis en
+      lumière le caractère superficiel et improvisé de l'initiative, qui apparaissait
+      davantage comme un exercice de communication politique que comme un véritable
+      effort pour mettre fin aux hostilités.
+    published: '2026-01-20T04:59:47+00:00'
+  - title: 'Gaza prise en otage : Netanyahu, Washington et la bataille pour l’avenir
+      de Gaza'
+    url: https://ejmagnier.com/2026/01/20/gaza-prise-en-otage-netanyahu-washington-et-la-bataille-pour-lavenir-de-gaza/
+    text: Par Elijah J. Magnier L’annonce par Donald Trump d’un passage à la deuxième
+      phase de son plan de paix pour Gaza n’a jamais été traitée par Israël comme une
+      véritable voie vers la fin de la guerre. Elle a été envisagée comme un mécanisme
+      destiné à gérer, reformuler et contenir politiquement un conflit qui avait déjà
+      infligé de lourds dommages militaires, diplomatiques et moraux après deux années
+      de combats dévastateurs. La position internationale d’Israël avait atteint des
+      niveaux historiquement bas, et ce plan offrait une opportunité non pas de résolution,
+      mais de réhabilitation d’image, à la fois pour Israël et pour Donald Trump lui
+      même. Presque immédiatement après l’annonce du cessez le feu, l’attention médiatique
+      portée aux actions israéliennes à Gaza s’est estompée, remplacée par un nouveau
+      récit politique centré sur la promesse d’un « plan de paix ». Ce déplacement du
+      discours correspondait peu aux réalités du terrain. La contradiction est devenue
+      explicite lorsque l’envoyé américain Steve Witkoff a annoncé le lancement de la
+      deuxième phase du plan alors même que la première phase n’avait ni été achevée
+      ni pleinement mise en œuvre. Cette séquence a révélé le caractère déclaratoire
+      et improvisé de l’initiative, qui fonctionnait davantage comme un exercice de
+      signal politique que comme la preuve d’un effort sérieux pour mettre fin à la
+      guerre. Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly
+    one_sentence_summary: L'annonce par Donald Trump d'une nouvelle phase de son plan
+      de paix pour Gaza a été perçue par Israël non comme une véritable solution au
+      conflit, mais comme un moyen de gérer et de redorer son image après des années
+      de guerre, tout en détournant l'attention médiatique des actions israéliennes
+      sur le terrain.
+    paragraph_summary: L'annonce par Donald Trump d'une avancée vers la deuxième phase
+      de son plan de paix pour Gaza a été perçue par Israël non comme une véritable
+      tentative de mettre fin au conflit, mais plutôt comme un moyen de gérer et de
+      redéfinir une situation déjà marquée par des pertes militaires et diplomatiques.
+      Alors que la position internationale d'Israël était à un niveau historiquement
+      bas, ce plan semblait davantage destiné à améliorer l'image d'Israël et de Trump
+      qu'à offrir une solution réelle. Après l'annonce d'un cessez-le-feu, l'attention
+      médiatique s'est rapidement détournée des actions israéliennes à Gaza pour se
+      concentrer sur ce nouveau récit politique, malgré le fait que la première phase
+      du plan n'était pas encore pleinement mise en œuvre. Cette situation a mis en
+      lumière le caractère superficiel et improvisé de l'initiative, qui apparaissait
+      davantage comme un exercice de communication politique que comme un véritable
+      effort pour mettre fin aux hostilités.
+    published: '2026-01-20T04:59:47+00:00'
+  - title: 'Gaza gegijzeld: Netanyahu, Washington en de strijd om de toekomst van Gaza'
+    url: https://ejmagnier.com/2026/01/20/gaza-gegijzeld-netanyahu-washington-en-de-strijd-om-de-toekomst-van-gaza/
+    text: Geschreven door Elijah J. Magnier – Vertaald door Francis J. De aankondiging
+      van Trump dat hij overging naar de tweede fase van zijn vredesplan voor Gaza werd
+      door Israël nooit beschouwd als een echte manier om de oorlog te beëindigen. In
+      plaats daarvan werd het benaderd als een mechanisme om een conflict dat na twee
+      jaar van verwoestende gevechten al diepe militaire, diplomatieke en morele schade
+      had aangericht, te beheersen, te herkaderen en politiek in te dammen. De internationale
+      reputatie van Israël was tot een historisch dieptepunt gedaald en het plan bood
+      geen kans op een oplossing, maar wel op imagoverbetering, zowel voor Israël als
+      voor Donald Trump zelf. Vrijwel onmiddellijk na de aankondiging van het staakt-het-vuren
+      verdween de media-aandacht voor de Israëlische acties in Gaza en maakte plaats
+      voor een nieuw politiek verhaal dat draaide om de belofte van een “vredesplan”.
+      Deze verschuiving had weinig te maken met de realiteit ter plaatse. De tegenstrijdigheid
+      werd duidelijk toen de Amerikaanse gezant Steve Witkoff de start van de tweede
+      fase van het plan aankondigde, terwijl de eerste fase nog niet was afgerond en
+      evenmin volledig was uitgevoerd. De volgorde van de fasen maakte duidelijk dat
+      het initiatief louter declaratief en geïmproviseerd was en meer diende als een
+      politiek signaal dan als bewijs van een serieuze poging om de oorlog te beëindigen.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly
+    one_sentence_summary: Trump's announcement of moving to the second phase of his
+      peace plan for Gaza was seen by Israel not as a genuine effort to end the war,
+      but rather as a way to manage and reframe the ongoing conflict while improving
+      the international image of both Israel and Trump, despite the lack of a real solution
+      and the media's quick shift in focus away from the situation in Gaza.
+    paragraph_summary: In an article by Elijah J. Magnier, translated by Francis J.,
+      it is argued that Donald Trump's announcement of moving to the second phase of
+      his peace plan for Gaza was not seen by Israel as a genuine effort to end the
+      war, but rather as a means to manage and politically contain a conflict that had
+      already caused significant damage. The plan aimed to improve the international
+      image of both Israel and Trump, especially as Israel's reputation had reached
+      a historic low. Following the ceasefire announcement, media attention shifted
+      away from Israel's actions in Gaza to the new narrative surrounding the peace
+      plan, despite the reality on the ground remaining unchanged. The contradiction
+      became evident when U.S. envoy Steve Witkoff announced the start of the second
+      phase of the plan before the first phase was completed, indicating that the initiative
+      was more of a political signal than a serious attempt to resolve the ongoing conflict.
+    published: '2026-01-20T04:56:53+00:00'
+  - title: 'Gaza gegijzeld: Netanyahu, Washington en de strijd om de toekomst van Gaza'
+    url: https://ejmagnier.com/2026/01/20/gaza-gegijzeld-netanyahu-washington-en-de-strijd-om-de-toekomst-van-gaza/
+    text: Geschreven door Elijah J. Magnier – Vertaald door Francis J. De aankondiging
+      van Trump dat hij overging naar de tweede fase van zijn vredesplan voor Gaza werd
+      door Israël nooit beschouwd als een echte manier om de oorlog te beëindigen. In
+      plaats daarvan werd het benaderd als een mechanisme om een conflict dat na twee
+      jaar van verwoestende gevechten al diepe militaire, diplomatieke en morele schade
+      had aangericht, te beheersen, te herkaderen en politiek in te dammen. De internationale
+      reputatie van Israël was tot een historisch dieptepunt gedaald en het plan bood
+      geen kans op een oplossing, maar wel op imagoverbetering, zowel voor Israël als
+      voor Donald Trump zelf. Vrijwel onmiddellijk na de aankondiging van het staakt-het-vuren
+      verdween de media-aandacht voor de Israëlische acties in Gaza en maakte plaats
+      voor een nieuw politiek verhaal dat draaide om de belofte van een “vredesplan”.
+      Deze verschuiving had weinig te maken met de realiteit ter plaatse. De tegenstrijdigheid
+      werd duidelijk toen de Amerikaanse gezant Steve Witkoff de start van de tweede
+      fase van het plan aankondigde, terwijl de eerste fase nog niet was afgerond en
+      evenmin volledig was uitgevoerd. De volgorde van de fasen maakte duidelijk dat
+      het initiatief louter declaratief en geïmproviseerd was en meer diende als een
+      politiek signaal dan als bewijs van een serieuze poging om de oorlog te beëindigen.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly
+    one_sentence_summary: Trump's announcement of moving to the second phase of his
+      peace plan for Gaza was seen by Israel not as a genuine effort to end the war,
+      but rather as a way to manage and reframe the ongoing conflict while improving
+      the international image of both Israel and Trump, despite the lack of a real solution
+      and the media's quick shift in focus away from the situation in Gaza.
+    paragraph_summary: In an article by Elijah J. Magnier, translated by Francis J.,
+      it is argued that Donald Trump's announcement of moving to the second phase of
+      his peace plan for Gaza was not seen by Israel as a genuine effort to end the
+      war, but rather as a means to manage and politically contain a conflict that had
+      already caused significant damage. The plan aimed to improve the international
+      image of both Israel and Trump, especially as Israel's reputation had reached
+      a historic low. Following the ceasefire announcement, media attention shifted
+      away from Israel's actions in Gaza to the new narrative surrounding the peace
+      plan, despite the reality on the ground remaining unchanged. The contradiction
+      became evident when U.S. envoy Steve Witkoff announced the start of the second
+      phase of the plan before the first phase was completed, indicating that the initiative
+      was more of a political signal than a serious attempt to resolve the ongoing conflict.
+    published: '2026-01-20T04:56:53+00:00'
+  - title: What did Iran learn from the latest near-war situation?
+    url: https://ejmagnier.com/2026/01/17/what-did-iran-learn-from-the-latest-near-war-situation/
+    text: 'By Elijah J. Magnier President Donald Trump doubled down on bombing Iran
+      and starting another war in the Middle East. He claimed that Iran had decided
+      to halt the execution of 800 rioters and that this decision alone would have been
+      enough to stop the war campaign before it started. Other American sources offered
+      a different explanation: Israel was not ready, and there was no confidence that
+      its interception missiles were sufficient to stop Iranian strikes had Tehran decided
+      to hit the United States where it would hurt the most, by targeting the less than
+      20,000 square kilometres Israel occupies in Palestine. What matters most, however,
+      is not the competing narratives but the lesson embedded in the tension itself.
+      For nearly two weeks, the Middle East held its breath, suspended between escalation
+      and restraint, waiting for an all-out war that never came. It has become acceptable
+      to openly promote a coup d’état against a government in Iran that the West itself
+      once described as “pragmatic” and that was democratically elected. Actions that
+      would elsewhere be denounced as acts of war are instead framed as support for
+      democracy: the funnelling of commandos through Kurdistan, the transfer of some
+      40,000 Starlink terminals and 60,000 automatic weapons into the country ahead
+      of unrest, and the subsequent portrayal of the resulting violence as the work
+      of “peaceful protesters in need of the world’s support”. This is not a defence
+      of human rights or democratic values, but the normalisation of subversion, armed
+      interference, and collective deception. It reflects a profound disregard for international
+      law, state sovereignty, and the expressed will of a population that chose its
+      leaders through the ballot box. Iran emerged from the latest confrontation with
+      its political system intact, despite sustained pressure from the United States
+      and Israel. Neither external coercion nor internal destabilisation succeeded in
+      dismantling the existing ruling structure. This failure is revealing, not only
+      about Iran’s evolving state capacity, but also about the limits of regime-change
+      strategies when applied to a society that has adapted to decades of pressure,
+      sanctions, covert operations, and military threats. What unfolded was less a crisis
+      than a live exercise in stress management, one from which Tehran appears to have
+      extracted several strategic conclusions. What Iran deducts from the last weeks’s
+      high tension? Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: President Trump intensified his rhetoric on bombing Iran,
+      linking the halt of executions of rioters to the potential for war, while differing
+      American sources suggested Israel's unpreparedness contributed to the lack of
+      conflict, highlighting the precarious balance between escalation and restraint
+      in the Middle East.
+    paragraph_summary: In a recent article, Elijah J. Magnier discusses President Donald
+      Trump's aggressive stance towards Iran, asserting that the U.S. is on the brink
+      of war due to tensions surrounding Iran's decision to halt the execution of 800
+      rioters. While Trump claims this could have prevented conflict, other sources
+      suggest that Israel's military readiness is a concern, as it fears Iranian retaliation.
+      The article highlights the broader implications of the situation, noting that
+      the West is increasingly normalizing subversive actions against Iran, such as
+      supporting coups and arming opposition groups, while framing these actions as
+      support for democracy. This approach undermines international law and state sovereignty,
+      ultimately failing to destabilize Iran's political system, which remains intact
+      despite external and internal pressures.
+    published: '2026-01-17T19:28:46+00:00'
+  - title: What did Iran learn from the latest near-war situation?
+    url: https://ejmagnier.com/2026/01/17/what-did-iran-learn-from-the-latest-near-war-situation/
+    text: 'By Elijah J. Magnier President Donald Trump doubled down on bombing Iran
+      and starting another war in the Middle East. He claimed that Iran had decided
+      to halt the execution of 800 rioters and that this decision alone would have been
+      enough to stop the war campaign before it started. Other American sources offered
+      a different explanation: Israel was not ready, and there was no confidence that
+      its interception missiles were sufficient to stop Iranian strikes had Tehran decided
+      to hit the United States where it would hurt the most, by targeting the less than
+      20,000 square kilometres Israel occupies in Palestine. What matters most, however,
+      is not the competing narratives but the lesson embedded in the tension itself.
+      For nearly two weeks, the Middle East held its breath, suspended between escalation
+      and restraint, waiting for an all-out war that never came. It has become acceptable
+      to openly promote a coup d’état against a government in Iran that the West itself
+      once described as “pragmatic” and that was democratically elected. Actions that
+      would elsewhere be denounced as acts of war are instead framed as support for
+      democracy: the funnelling of commandos through Kurdistan, the transfer of some
+      40,000 Starlink terminals and 60,000 automatic weapons into the country ahead
+      of unrest, and the subsequent portrayal of the resulting violence as the work
+      of “peaceful protesters in need of the world’s support”. This is not a defence
+      of human rights or democratic values, but the normalisation of subversion, armed
+      interference, and collective deception. It reflects a profound disregard for international
+      law, state sovereignty, and the expressed will of a population that chose its
+      leaders through the ballot box. Iran emerged from the latest confrontation with
+      its political system intact, despite sustained pressure from the United States
+      and Israel. Neither external coercion nor internal destabilisation succeeded in
+      dismantling the existing ruling structure. This failure is revealing, not only
+      about Iran’s evolving state capacity, but also about the limits of regime-change
+      strategies when applied to a society that has adapted to decades of pressure,
+      sanctions, covert operations, and military threats. What unfolded was less a crisis
+      than a live exercise in stress management, one from which Tehran appears to have
+      extracted several strategic conclusions. What Iran deducts from the last weeks’s
+      high tension? Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: President Trump intensified his rhetoric on bombing Iran,
+      linking the halt of executions of rioters to the potential for war, while differing
+      American sources suggested Israel's unpreparedness contributed to the lack of
+      conflict, highlighting the precarious balance between escalation and restraint
+      in the Middle East.
+    paragraph_summary: In a recent article, Elijah J. Magnier discusses President Donald
+      Trump's aggressive stance towards Iran, asserting that the U.S. is on the brink
+      of war due to tensions surrounding Iran's decision to halt the execution of 800
+      rioters. While Trump claims this could have prevented conflict, other sources
+      suggest that Israel's military readiness is a concern, as it fears Iranian retaliation.
+      The article highlights the broader implications of the situation, noting that
+      the West is increasingly normalizing subversive actions against Iran, such as
+      supporting coups and arming opposition groups, while framing these actions as
+      support for democracy. This approach undermines international law and state sovereignty,
+      ultimately failing to destabilize Iran's political system, which remains intact
+      despite external and internal pressures.
+    published: '2026-01-17T19:28:46+00:00'
+  - title: Qu’a appris l’Iran de la dernière situation de quasi-guerre ?
+    url: https://ejmagnier.com/2026/01/17/qua-appris-liran-de-la-derniere-situation-de-quasi-guerre/
+    text: 'Par Elijah J. Magnier Le président Donald Trump a redoublé de menaces en
+      évoquant le bombardement de l’Iran et le déclenchement d’une nouvelle guerre au
+      Moyen-Orient. Il a affirmé que l’Iran avait décidé de suspendre l’exécution de
+      800 émeutiers et que cette décision, à elle seule, aurait suffi à arrêter la campagne
+      militaire avant même qu’elle ne commence. D’autres sources américaines ont avancé
+      une explication différente : Israël n’était pas prêt et rien ne garantissait que
+      ses missiles d’interception auraient été capables de stopper des frappes iraniennes
+      si Téhéran avait choisi de frapper les États-Unis là où cela aurait fait le plus
+      mal, en visant les moins de 20 000 kilomètres carrés qu’Israël occupe en Palestine.
+      L’essentiel, toutefois, ne réside pas dans ces récits concurrents, mais dans la
+      leçon contenue dans la tension elle-même. Pendant près de deux semaines, le Moyen-Orient
+      a retenu son souffle, suspendu entre escalade et retenue, dans l’attente d’une
+      guerre totale qui n’a finalement pas eu lieu. Il est devenu acceptable de promouvoir
+      ouvertement un coup d’État contre un gouvernement iranien que l’Occident lui-même
+      qualifiait autrefois de « pragmatique » et qui a été démocratiquement élu. Des
+      actions qui seraient ailleurs dénoncées comme des actes de guerre sont présentées
+      comme un soutien à la démocratie : l’acheminement de commandos via le Kurdistan,
+      le transfert d’environ 40 000 terminaux Starlink et de 60 000 armes automatiques
+      dans le pays avant les troubles, puis la présentation des violences qui ont suivi
+      comme l’œuvre de « manifestants pacifiques ayant besoin du soutien du monde ».
+      Il ne s’agit pas d’une défense des droits humains ou des valeurs démocratiques,
+      mais de la normalisation de la subversion, de l’ingérence armée et de la tromperie
+      collective. Cela traduit un profond mépris pour le droit international, la souveraineté
+      des États et la volonté exprimée par une population ayant choisi ses dirigeants
+      par les urnes. L’Iran est sorti de la dernière confrontation avec son système
+      politique intact, malgré une pression soutenue des États-Unis et d’Israël. Ni
+      la coercition extérieure ni la déstabilisation interne n’ont réussi à démanteler
+      la structure du pouvoir en place. Cet échec est révélateur, non seulement de l’évolution
+      des capacités étatiques iraniennes, mais aussi des limites des stratégies de changement
+      de régime lorsqu’elles sont appliquées à une société qui s’est adaptée à des décennies
+      de pression, de sanctions, d’opérations clandestines et de menaces militaires.
+      Ce qui s’est déroulé relevait moins d’une crise que d’un exercice grandeur nature
+      de gestion du stress, dont Téhéran semble avoir tiré plusieurs conclusions stratégiques.
+      Qu’a déduit l’Iran des fortes tensions des dernières semaines ? Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Le président Donald Trump a intensifié ses menaces de bombardement
+      contre l'Iran, tandis que des sources américaines suggèrent que la préparation
+      d'Israël et la décision de l'Iran de suspendre l'exécution de manifestants ont
+      contribué à éviter une nouvelle guerre au Moyen-Orient, soulignant la tension
+      persistante dans la région.
+    paragraph_summary: L'article d'Elijah J. Magnier aborde les récentes tensions entre
+      les États-Unis et l'Iran, exacerbées par les menaces de Donald Trump de bombardements
+      et de guerre au Moyen-Orient. Trump a affirmé que l'Iran avait suspendu l'exécution
+      de 800 émeutiers, ce qui aurait pu empêcher une campagne militaire, tandis que
+      d'autres sources suggèrent qu'Israël n'était pas préparé à une éventuelle attaque
+      iranienne. Malgré ces tensions, une guerre totale a été évitée, révélant une acceptation
+      croissante de l'idée de renverser un gouvernement iranien démocratiquement élu,
+      autrefois considéré comme pragmatique. L'article critique la normalisation de
+      l'ingérence armée et la subversion, soulignant un mépris pour le droit international
+      et la souveraineté des États, tout en dénonçant la manipulation des événements
+      comme un soutien à la démocratie.
+    published: '2026-01-17T19:25:07+00:00'
+  - title: Qu’a appris l’Iran de la dernière situation de quasi-guerre ?
+    url: https://ejmagnier.com/2026/01/17/qua-appris-liran-de-la-derniere-situation-de-quasi-guerre/
+    text: 'Par Elijah J. Magnier Le président Donald Trump a redoublé de menaces en
+      évoquant le bombardement de l’Iran et le déclenchement d’une nouvelle guerre au
+      Moyen-Orient. Il a affirmé que l’Iran avait décidé de suspendre l’exécution de
+      800 émeutiers et que cette décision, à elle seule, aurait suffi à arrêter la campagne
+      militaire avant même qu’elle ne commence. D’autres sources américaines ont avancé
+      une explication différente : Israël n’était pas prêt et rien ne garantissait que
+      ses missiles d’interception auraient été capables de stopper des frappes iraniennes
+      si Téhéran avait choisi de frapper les États-Unis là où cela aurait fait le plus
+      mal, en visant les moins de 20 000 kilomètres carrés qu’Israël occupe en Palestine.
+      L’essentiel, toutefois, ne réside pas dans ces récits concurrents, mais dans la
+      leçon contenue dans la tension elle-même. Pendant près de deux semaines, le Moyen-Orient
+      a retenu son souffle, suspendu entre escalade et retenue, dans l’attente d’une
+      guerre totale qui n’a finalement pas eu lieu. Il est devenu acceptable de promouvoir
+      ouvertement un coup d’État contre un gouvernement iranien que l’Occident lui-même
+      qualifiait autrefois de « pragmatique » et qui a été démocratiquement élu. Des
+      actions qui seraient ailleurs dénoncées comme des actes de guerre sont présentées
+      comme un soutien à la démocratie : l’acheminement de commandos via le Kurdistan,
+      le transfert d’environ 40 000 terminaux Starlink et de 60 000 armes automatiques
+      dans le pays avant les troubles, puis la présentation des violences qui ont suivi
+      comme l’œuvre de « manifestants pacifiques ayant besoin du soutien du monde ».
+      Il ne s’agit pas d’une défense des droits humains ou des valeurs démocratiques,
+      mais de la normalisation de la subversion, de l’ingérence armée et de la tromperie
+      collective. Cela traduit un profond mépris pour le droit international, la souveraineté
+      des États et la volonté exprimée par une population ayant choisi ses dirigeants
+      par les urnes. L’Iran est sorti de la dernière confrontation avec son système
+      politique intact, malgré une pression soutenue des États-Unis et d’Israël. Ni
+      la coercition extérieure ni la déstabilisation interne n’ont réussi à démanteler
+      la structure du pouvoir en place. Cet échec est révélateur, non seulement de l’évolution
+      des capacités étatiques iraniennes, mais aussi des limites des stratégies de changement
+      de régime lorsqu’elles sont appliquées à une société qui s’est adaptée à des décennies
+      de pression, de sanctions, d’opérations clandestines et de menaces militaires.
+      Ce qui s’est déroulé relevait moins d’une crise que d’un exercice grandeur nature
+      de gestion du stress, dont Téhéran semble avoir tiré plusieurs conclusions stratégiques.
+      Qu’a déduit l’Iran des fortes tensions des dernières semaines ? Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Le président Donald Trump a intensifié ses menaces de bombardement
+      contre l'Iran, tandis que des sources américaines suggèrent que la préparation
+      d'Israël et la décision de l'Iran de suspendre l'exécution de manifestants ont
+      contribué à éviter une nouvelle guerre au Moyen-Orient, soulignant la tension
+      persistante dans la région.
+    paragraph_summary: L'article d'Elijah J. Magnier aborde les récentes tensions entre
+      les États-Unis et l'Iran, exacerbées par les menaces de Donald Trump de bombardements
+      et de guerre au Moyen-Orient. Trump a affirmé que l'Iran avait suspendu l'exécution
+      de 800 émeutiers, ce qui aurait pu empêcher une campagne militaire, tandis que
+      d'autres sources suggèrent qu'Israël n'était pas préparé à une éventuelle attaque
+      iranienne. Malgré ces tensions, une guerre totale a été évitée, révélant une acceptation
+      croissante de l'idée de renverser un gouvernement iranien démocratiquement élu,
+      autrefois considéré comme pragmatique. L'article critique la normalisation de
+      l'ingérence armée et la subversion, soulignant un mépris pour le droit international
+      et la souveraineté des États, tout en dénonçant la manipulation des événements
+      comme un soutien à la démocratie.
+    published: '2026-01-17T19:25:07+00:00'
+  - title: Wat heeft Iran geleerd van de recente bijna-oorlogssituatie?
+    url: https://ejmagnier.com/2026/01/17/wat-heeft-iran-geleerd-van-de-recente-bijna-oorlogssituatie/
+    text: 'Geschreven door Elijah J. Magnier – Vertaald door Francis J. President Donald
+      Trump staakte zijn inspanningen om Iran te bombarderen en een nieuwe oorlog in
+      het Midden-Oosten te beginnen. Hij beweerde dat Iran had besloten om de executie
+      van 800 relschoppers stop te zetten en dat deze beslissing alleen al voldoende
+      zou zijn geweest om de oorlogscampagne te stoppen voordat deze begon. Andere Amerikaanse
+      bronnen gaven een andere verklaring: Israël was er niet klaar voor en er was geen
+      vertrouwen dat zijn onderscheppingsraketten voldoende waren om Iraanse aanvallen
+      te stoppen als Teheran had besloten de Verenigde Staten te treffen waar het het
+      meest pijn zou doen, door zich te richten op de minder dan 20.000 vierkante kilometer
+      die Israël in Palestina bezet. Het belangrijkste zijn echter niet de tegenstrijdige
+      verhalen, maar de les die in de spanning zelf besloten ligt. Bijna twee weken
+      lang hield het Midden-Oosten zijn adem in, zwevend tussen escalatie en terughoudendheid,
+      wachtend op een totale oorlog die nooit kwam. Iran kwam intact uit de laatste
+      confrontatie met zijn politieke systeem, ondanks aanhoudende druk van de Verenigde
+      Staten en Israël. Noch externe dwang, noch interne destabilisatie slaagden erin
+      de bestaande heersende structuur te ontmantelen. Dit falen is veelzeggend, niet
+      alleen over de zich ontwikkelende staatscapaciteit van Iran, maar ook over de
+      beperkingen van strategieën voor regimeverandering wanneer deze worden toegepast
+      op een samenleving die zich heeft aangepast aan decennia van druk, sancties, geheime
+      operaties en militaire dreigingen. Wat zich ontvouwde was minder een crisis dan
+      een live-oefening in stressmanagement, waaruit Teheran verschillende strategische
+      conclusies lijkt te hebben getrokken. Wat concludeert Iran uit de hoge spanning
+      van de afgelopen weken? Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: President Donald Trump stopte zijn plannen om Iran te bombarderen
+      en een nieuwe oorlog in het Midden-Oosten te beginnen, na te hebben beweerd dat
+      Iran de executie van 800 relschoppers had stopgezet, terwijl andere bronnen suggereerden
+      dat Israël niet klaar was voor een conflict en er twijfels bestonden over de effectiviteit
+      van hun verdediging tegen Iraanse aanvallen.
+    paragraph_summary: President Donald Trump heeft zijn plannen om Iran te bombarderen
+      en een nieuwe oorlog in het Midden-Oosten te beginnen stopgezet, na de mededeling
+      dat Iran de executie van 800 relschoppers had opgeschort. Terwijl Trump deze beslissing
+      als reden voor het afblazen van de oorlogscampagne aanvoerde, gaven andere Amerikaanse
+      bronnen aan dat Israël niet klaar was voor een conflict en twijfels had over de
+      effectiviteit van zijn raketsystemen tegen mogelijke Iraanse aanvallen. De afgelopen
+      weken was het Midden-Oosten in spanning, wachtend op een oorlog die niet kwam,
+      en Iran bleef intact ondanks de druk van de VS en Israël. Dit wijst op de veerkracht
+      van het Iraanse politieke systeem en de beperkingen van strategieën voor regimeverandering
+      in een samenleving die gewend is aan decennia van druk en bedreigingen. Iran lijkt
+      strategische lessen te hebben getrokken uit deze periode van hoge spanning, die
+      meer een oefening in stressmanagement was dan een daadwerkelijke crisis.
+    published: '2026-01-17T17:15:46+00:00'
+  - title: Wat heeft Iran geleerd van de recente bijna-oorlogssituatie?
+    url: https://ejmagnier.com/2026/01/17/wat-heeft-iran-geleerd-van-de-recente-bijna-oorlogssituatie/
+    text: 'Geschreven door Elijah J. Magnier – Vertaald door Francis J. President Donald
+      Trump staakte zijn inspanningen om Iran te bombarderen en een nieuwe oorlog in
+      het Midden-Oosten te beginnen. Hij beweerde dat Iran had besloten om de executie
+      van 800 relschoppers stop te zetten en dat deze beslissing alleen al voldoende
+      zou zijn geweest om de oorlogscampagne te stoppen voordat deze begon. Andere Amerikaanse
+      bronnen gaven een andere verklaring: Israël was er niet klaar voor en er was geen
+      vertrouwen dat zijn onderscheppingsraketten voldoende waren om Iraanse aanvallen
+      te stoppen als Teheran had besloten de Verenigde Staten te treffen waar het het
+      meest pijn zou doen, door zich te richten op de minder dan 20.000 vierkante kilometer
+      die Israël in Palestina bezet. Het belangrijkste zijn echter niet de tegenstrijdige
+      verhalen, maar de les die in de spanning zelf besloten ligt. Bijna twee weken
+      lang hield het Midden-Oosten zijn adem in, zwevend tussen escalatie en terughoudendheid,
+      wachtend op een totale oorlog die nooit kwam. Iran kwam intact uit de laatste
+      confrontatie met zijn politieke systeem, ondanks aanhoudende druk van de Verenigde
+      Staten en Israël. Noch externe dwang, noch interne destabilisatie slaagden erin
+      de bestaande heersende structuur te ontmantelen. Dit falen is veelzeggend, niet
+      alleen over de zich ontwikkelende staatscapaciteit van Iran, maar ook over de
+      beperkingen van strategieën voor regimeverandering wanneer deze worden toegepast
+      op een samenleving die zich heeft aangepast aan decennia van druk, sancties, geheime
+      operaties en militaire dreigingen. Wat zich ontvouwde was minder een crisis dan
+      een live-oefening in stressmanagement, waaruit Teheran verschillende strategische
+      conclusies lijkt te hebben getrokken. Wat concludeert Iran uit de hoge spanning
+      van de afgelopen weken? Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: President Donald Trump stopte zijn plannen om Iran te bombarderen
+      en een nieuwe oorlog in het Midden-Oosten te beginnen, na te hebben beweerd dat
+      Iran de executie van 800 relschoppers had stopgezet, terwijl andere bronnen suggereerden
+      dat Israël niet klaar was voor een conflict en er twijfels bestonden over de effectiviteit
+      van hun verdediging tegen Iraanse aanvallen.
+    paragraph_summary: President Donald Trump heeft zijn plannen om Iran te bombarderen
+      en een nieuwe oorlog in het Midden-Oosten te beginnen stopgezet, na de mededeling
+      dat Iran de executie van 800 relschoppers had opgeschort. Terwijl Trump deze beslissing
+      als reden voor het afblazen van de oorlogscampagne aanvoerde, gaven andere Amerikaanse
+      bronnen aan dat Israël niet klaar was voor een conflict en twijfels had over de
+      effectiviteit van zijn raketsystemen tegen mogelijke Iraanse aanvallen. De afgelopen
+      weken was het Midden-Oosten in spanning, wachtend op een oorlog die niet kwam,
+      en Iran bleef intact ondanks de druk van de VS en Israël. Dit wijst op de veerkracht
+      van het Iraanse politieke systeem en de beperkingen van strategieën voor regimeverandering
+      in een samenleving die gewend is aan decennia van druk en bedreigingen. Iran lijkt
+      strategische lessen te hebben getrokken uit deze periode van hoge spanning, die
+      meer een oefening in stressmanagement was dan een daadwerkelijke crisis.
+    published: '2026-01-17T17:15:46+00:00'
+  - title: Der Iran bereitet seine Raketen und Verteidigungssysteme auf einen unerwünschten
+      Krieg vor
+    url: https://ejmagnier.com/2026/01/16/der-iran-bereitet-seine-raketen-und-verteidigungssysteme-auf-einen-unerwunschten-krieg-vor/
+    text: 'Von Elijah J. Magnier – Unter Präsident Donald Trump haben die Vereinigten
+      Staaten und Israel das Ziel, „den Kopf der Schlange abzuschlagen“, wie es mehrere
+      Sonderbeauftragte beschrieben haben, nicht aufgegeben. Nachdem wiederholte Versuche
+      eines Regimewechsels weder zu einem inneren Zusammenbruch noch zu einer tragfähigen
+      alternativen Führung geführt hatten, hat sich der Fokus auf Strategien zur Entmachtung
+      verlagert, sei es politisch, militärisch oder symbolisch, mit dem Ziel, das herrschende
+      System im Iran zu schwächen. Die Annahme, die diesem Ansatz zugrunde liegt, ist,
+      dass die Beseitigung wichtiger Autoritätszentren zu einer systemischen Lähmung
+      führen könnte. Die Erfahrungen der Vergangenheit deuten jedoch auf das Gegenteil
+      hin: Externer Druck dieser Art hat in der Regel eher zu einer Festigung des inneren
+      Zusammenhalts geführt als zu dessen Zerfall. Vor diesem Hintergrund scheinen die
+      kommenden Tage für den Iran und den gesamten Nahen Osten zunehmend kritisch zu
+      werden. Der Iran seinerseits hat die innere Stabilität unter Kontrolle, und alle
+      Unruhen sind beendet. Teheran bereitet sich nun auf einen möglichen Krieg vor,
+      den es nicht anstrebt, aber zunehmend für unvermeidlich hält. Die derzeitige militärische
+      Haltung Teherans ist nicht von ideologischer Prahlerei oder dem Wunsch nach Eskalation
+      getrieben, sondern von einer nüchternen Neubewertung, die durch die jüngsten Konfrontationen
+      geprägt ist. Der kurze, aber intensive Konflikt zwischen den USA und Israel, der
+      sich über weniger als zwei Wochen hinzog, hat mehrere Schwachstellen offenbart.
+      Zu den wichtigsten gehörte die Erkenntnis, dass moderne Hochintensitätskriege
+      nicht mit westlichen Kommunikationssystemen, exponierten Kommandostrukturen oder
+      sichtbaren militärischen Ressourcen geführt werden können. Ebenso wichtig war
+      die Schlussfolgerung, dass Abschreckung, einschließlich nuklearer Signale, sinnlos
+      ist, wenn nicht zuerst die heimische Front gegen systemische Störungen, wirtschaftliche
+      Schocks und anhaltenden Luftdruck gesichert ist. Der Iran ging aus dieser Episode
+      mit der Überzeugung hervor, dass ein künftiger Krieg weder begrenzt noch lokal
+      begrenzt sein würde und mit ziemlicher Sicherheit die Vereinigten Staaten direkt
+      involvieren würde. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: Unter Präsident Donald Trump haben die USA und Israel weiterhin
+      das Ziel, das iranische Regime zu destabilisieren, obwohl frühere Versuche eines
+      Regimewechsels gescheitert sind und externer Druck oft zu einer Stärkung des inneren
+      Zusammenhalts geführt hat, was die Situation im Iran und im Nahen Osten zunehmend
+      kritisch macht.
+    paragraph_summary: Der Artikel von Elijah J. Magnier beschreibt die anhaltenden
+      Bemühungen der USA und Israels unter Präsident Donald Trump, das iranische Regime
+      zu destabilisieren, nachdem frühere Versuche eines Regimewechsels gescheitert
+      sind. Der Fokus hat sich auf Strategien zur Entmachtung des iranischen Systems
+      verschoben, in der Annahme, dass die Eliminierung zentraler Autoritäten zu einem
+      Zusammenbruch führen könnte. Historische Erfahrungen zeigen jedoch, dass externer
+      Druck oft den inneren Zusammenhalt stärkt. Der Iran hat seine innere Stabilität
+      wiederhergestellt und bereitet sich auf einen möglichen Krieg vor, den es als
+      unvermeidlich erachtet, jedoch nicht aktiv anstrebt. Die jüngsten Konflikte zwischen
+      den USA und Israel haben Schwächen in modernen Kriegsführungsmethoden aufgezeigt
+      und verdeutlicht, dass effektive Abschreckung ohne eine stabile innere Front nicht
+      möglich ist.
+    published: '2026-01-16T04:13:24+00:00'
+  - title: Der Iran bereitet seine Raketen und Verteidigungssysteme auf einen unerwünschten
+      Krieg vor
+    url: https://ejmagnier.com/2026/01/16/der-iran-bereitet-seine-raketen-und-verteidigungssysteme-auf-einen-unerwunschten-krieg-vor/
+    text: 'Von Elijah J. Magnier – Unter Präsident Donald Trump haben die Vereinigten
+      Staaten und Israel das Ziel, „den Kopf der Schlange abzuschlagen“, wie es mehrere
+      Sonderbeauftragte beschrieben haben, nicht aufgegeben. Nachdem wiederholte Versuche
+      eines Regimewechsels weder zu einem inneren Zusammenbruch noch zu einer tragfähigen
+      alternativen Führung geführt hatten, hat sich der Fokus auf Strategien zur Entmachtung
+      verlagert, sei es politisch, militärisch oder symbolisch, mit dem Ziel, das herrschende
+      System im Iran zu schwächen. Die Annahme, die diesem Ansatz zugrunde liegt, ist,
+      dass die Beseitigung wichtiger Autoritätszentren zu einer systemischen Lähmung
+      führen könnte. Die Erfahrungen der Vergangenheit deuten jedoch auf das Gegenteil
+      hin: Externer Druck dieser Art hat in der Regel eher zu einer Festigung des inneren
+      Zusammenhalts geführt als zu dessen Zerfall. Vor diesem Hintergrund scheinen die
+      kommenden Tage für den Iran und den gesamten Nahen Osten zunehmend kritisch zu
+      werden. Der Iran seinerseits hat die innere Stabilität unter Kontrolle, und alle
+      Unruhen sind beendet. Teheran bereitet sich nun auf einen möglichen Krieg vor,
+      den es nicht anstrebt, aber zunehmend für unvermeidlich hält. Die derzeitige militärische
+      Haltung Teherans ist nicht von ideologischer Prahlerei oder dem Wunsch nach Eskalation
+      getrieben, sondern von einer nüchternen Neubewertung, die durch die jüngsten Konfrontationen
+      geprägt ist. Der kurze, aber intensive Konflikt zwischen den USA und Israel, der
+      sich über weniger als zwei Wochen hinzog, hat mehrere Schwachstellen offenbart.
+      Zu den wichtigsten gehörte die Erkenntnis, dass moderne Hochintensitätskriege
+      nicht mit westlichen Kommunikationssystemen, exponierten Kommandostrukturen oder
+      sichtbaren militärischen Ressourcen geführt werden können. Ebenso wichtig war
+      die Schlussfolgerung, dass Abschreckung, einschließlich nuklearer Signale, sinnlos
+      ist, wenn nicht zuerst die heimische Front gegen systemische Störungen, wirtschaftliche
+      Schocks und anhaltenden Luftdruck gesichert ist. Der Iran ging aus dieser Episode
+      mit der Überzeugung hervor, dass ein künftiger Krieg weder begrenzt noch lokal
+      begrenzt sein würde und mit ziemlicher Sicherheit die Vereinigten Staaten direkt
+      involvieren würde. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: Unter Präsident Donald Trump haben die USA und Israel weiterhin
+      das Ziel, das iranische Regime zu destabilisieren, obwohl frühere Versuche eines
+      Regimewechsels gescheitert sind und externer Druck oft zu einer Stärkung des inneren
+      Zusammenhalts geführt hat, was die Situation im Iran und im Nahen Osten zunehmend
+      kritisch macht.
+    paragraph_summary: Der Artikel von Elijah J. Magnier beschreibt die anhaltenden
+      Bemühungen der USA und Israels unter Präsident Donald Trump, das iranische Regime
+      zu destabilisieren, nachdem frühere Versuche eines Regimewechsels gescheitert
+      sind. Der Fokus hat sich auf Strategien zur Entmachtung des iranischen Systems
+      verschoben, in der Annahme, dass die Eliminierung zentraler Autoritäten zu einem
+      Zusammenbruch führen könnte. Historische Erfahrungen zeigen jedoch, dass externer
+      Druck oft den inneren Zusammenhalt stärkt. Der Iran hat seine innere Stabilität
+      wiederhergestellt und bereitet sich auf einen möglichen Krieg vor, den es als
+      unvermeidlich erachtet, jedoch nicht aktiv anstrebt. Die jüngsten Konflikte zwischen
+      den USA und Israel haben Schwächen in modernen Kriegsführungsmethoden aufgezeigt
+      und verdeutlicht, dass effektive Abschreckung ohne eine stabile innere Front nicht
+      möglich ist.
+    published: '2026-01-16T04:13:24+00:00'
+  - title: Iran bereidt zijn raketten en verdedigingssystemen voor op een ongewenste
+      oorlog
+    url: https://ejmagnier.com/2026/01/15/iran-bereidt-zijn-raketten-en-verdedigingssystemen-voor-op-een-ongewenste-oorlog/
+    text: 'Geschreven door Elijah J. Magnier – Vertaald door Francis J. Onder president
+      Donald Trump hebben de Verenigde Staten en Israël het doel om “het hoofd van de
+      slang af te hakken”, zoals verschillende speciale gezanten het hebben omschreven,
+      niet opgegeven. Nadat herhaalde pogingen tot regimeverandering niet hebben geleid
+      tot een interne ineenstorting of een levensvatbaar alternatief leiderschap, is
+      de focus verschoven naar onthoofdingstrategieën, zowel politiek, militair als
+      symbolisch, die gericht zijn op het verzwakken van het Iraanse regeringssysteem.
+      De aanname die ten grondslag ligt aan deze aanpak is dat het verwijderen van belangrijke
+      knooppunten van autoriteit tot een systemische verlamming zou kunnen leiden. De
+      ervaring uit het verleden wijst echter op het tegenovergestelde: externe druk
+      van deze aard heeft de interne cohesie eerder versterkt dan verzwakt. Tegen deze
+      achtergrond lijken de komende dagen steeds kritieker te worden voor Iran en het
+      Midden-Oosten in het algemeen. Iran heeft de binnenlandse stabiliteit onder controle
+      en alle rellen zijn beëindigd. Teheran bereidt zich nu voor op een mogelijke oorlog
+      die het niet zoekt, maar waarvan het steeds meer gelooft dat het vroeg of laat
+      gedwongen zal worden om te vechten. De huidige militaire houding van Teheran wordt
+      niet ingegeven door ideologische bravoure of een verlangen naar escalatie, maar
+      door een nuchtere herbeoordeling op basis van de recente confrontatie. De korte
+      maar intense botsing tussen de VS en Israël, die zich in minder dan twee weken
+      ontvouwde, bracht verschillende kwetsbaarheden aan het licht. Een van de belangrijkste
+      was het besef dat moderne oorlogsvoering met hoge intensiteit niet kan worden
+      gevoerd met behulp van westerse communicatiesystemen, blootgestelde commandostructuren
+      of zichtbare militaire middelen. Even belangrijk was de conclusie dat afschrikking,
+      met inbegrip van nucleaire signalen, zinloos is tenzij het binnenlandse front
+      eerst wordt beveiligd tegen systemische verstoringen, economische schokken en
+      aanhoudende druk vanuit de lucht. Iran kwam uit deze episode met de overtuiging
+      dat een toekomstige oorlog niet beperkt of gelokaliseerd zou zijn en vrijwel zeker
+      de directe betrokkenheid van de Verenigde Staten zou vereisen. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Onder president Trump hebben de VS en Israël hun strategie
+      om het Iraanse regime te verzwakken door middel van politieke, militaire en symbolische
+      onthoofding niet opgegeven, ondanks het feit dat eerdere pogingen tot regimeverandering
+      niet succesvol waren en vaak de interne cohesie versterkten.
+    paragraph_summary: Onder president Donald Trump hebben de Verenigde Staten en Israël
+      hun strategie om het Iraanse regime te verzwakken, gericht op het "afhakken van
+      het hoofd van de slang", voortgezet, ondanks eerdere mislukte pogingen tot regimeverandering.
+      De focus is verschoven naar het elimineren van belangrijke autoriteitsfiguren
+      in de hoop dat dit leidt tot een interne instorting van het regime, hoewel eerdere
+      ervaringen suggereren dat externe druk vaak de interne cohesie versterkt. Iran
+      heeft zijn binnenlandse stabiliteit hersteld en bereidt zich voor op een mogelijke
+      oorlog, die het niet zoekt maar steeds waarschijnlijker lijkt. De recente confrontaties
+      tussen de VS en Israël hebben kwetsbaarheden blootgelegd, waaronder de ongeschiktheid
+      van westerse communicatiesystemen voor moderne oorlogsvoering en de noodzaak om
+      het binnenlandse front te beveiligen voordat effectieve afschrikking kan plaatsvinden.
+    published: '2026-01-15T13:18:34+00:00'
+  - title: Iran bereidt zijn raketten en verdedigingssystemen voor op een ongewenste
+      oorlog
+    url: https://ejmagnier.com/2026/01/15/iran-bereidt-zijn-raketten-en-verdedigingssystemen-voor-op-een-ongewenste-oorlog/
+    text: 'Geschreven door Elijah J. Magnier – Vertaald door Francis J. Onder president
+      Donald Trump hebben de Verenigde Staten en Israël het doel om “het hoofd van de
+      slang af te hakken”, zoals verschillende speciale gezanten het hebben omschreven,
+      niet opgegeven. Nadat herhaalde pogingen tot regimeverandering niet hebben geleid
+      tot een interne ineenstorting of een levensvatbaar alternatief leiderschap, is
+      de focus verschoven naar onthoofdingstrategieën, zowel politiek, militair als
+      symbolisch, die gericht zijn op het verzwakken van het Iraanse regeringssysteem.
+      De aanname die ten grondslag ligt aan deze aanpak is dat het verwijderen van belangrijke
+      knooppunten van autoriteit tot een systemische verlamming zou kunnen leiden. De
+      ervaring uit het verleden wijst echter op het tegenovergestelde: externe druk
+      van deze aard heeft de interne cohesie eerder versterkt dan verzwakt. Tegen deze
+      achtergrond lijken de komende dagen steeds kritieker te worden voor Iran en het
+      Midden-Oosten in het algemeen. Iran heeft de binnenlandse stabiliteit onder controle
+      en alle rellen zijn beëindigd. Teheran bereidt zich nu voor op een mogelijke oorlog
+      die het niet zoekt, maar waarvan het steeds meer gelooft dat het vroeg of laat
+      gedwongen zal worden om te vechten. De huidige militaire houding van Teheran wordt
+      niet ingegeven door ideologische bravoure of een verlangen naar escalatie, maar
+      door een nuchtere herbeoordeling op basis van de recente confrontatie. De korte
+      maar intense botsing tussen de VS en Israël, die zich in minder dan twee weken
+      ontvouwde, bracht verschillende kwetsbaarheden aan het licht. Een van de belangrijkste
+      was het besef dat moderne oorlogsvoering met hoge intensiteit niet kan worden
+      gevoerd met behulp van westerse communicatiesystemen, blootgestelde commandostructuren
+      of zichtbare militaire middelen. Even belangrijk was de conclusie dat afschrikking,
+      met inbegrip van nucleaire signalen, zinloos is tenzij het binnenlandse front
+      eerst wordt beveiligd tegen systemische verstoringen, economische schokken en
+      aanhoudende druk vanuit de lucht. Iran kwam uit deze episode met de overtuiging
+      dat een toekomstige oorlog niet beperkt of gelokaliseerd zou zijn en vrijwel zeker
+      de directe betrokkenheid van de Verenigde Staten zou vereisen. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Onder president Trump hebben de VS en Israël hun strategie
+      om het Iraanse regime te verzwakken door middel van politieke, militaire en symbolische
+      onthoofding niet opgegeven, ondanks het feit dat eerdere pogingen tot regimeverandering
+      niet succesvol waren en vaak de interne cohesie versterkten.
+    paragraph_summary: Onder president Donald Trump hebben de Verenigde Staten en Israël
+      hun strategie om het Iraanse regime te verzwakken, gericht op het "afhakken van
+      het hoofd van de slang", voortgezet, ondanks eerdere mislukte pogingen tot regimeverandering.
+      De focus is verschoven naar het elimineren van belangrijke autoriteitsfiguren
+      in de hoop dat dit leidt tot een interne instorting van het regime, hoewel eerdere
+      ervaringen suggereren dat externe druk vaak de interne cohesie versterkt. Iran
+      heeft zijn binnenlandse stabiliteit hersteld en bereidt zich voor op een mogelijke
+      oorlog, die het niet zoekt maar steeds waarschijnlijker lijkt. De recente confrontaties
+      tussen de VS en Israël hebben kwetsbaarheden blootgelegd, waaronder de ongeschiktheid
+      van westerse communicatiesystemen voor moderne oorlogsvoering en de noodzaak om
+      het binnenlandse front te beveiligen voordat effectieve afschrikking kan plaatsvinden.
+    published: '2026-01-15T13:18:34+00:00'
+  - title: L’Iran prépare ses missiles et ses systèmes de défense pour une guerre qu’il
+      ne souhaite pas
+    url: https://ejmagnier.com/2026/01/15/liran-prepare-ses-missiles-et-ses-systemes-de-defense-pour-une-guerre-quil-ne-souhaite-pas/
+    text: 'Par Elijah J. Magnier – Sous la présidence de Donald Trump, les États-Unis
+      et Israël n’ont pas renoncé à l’objectif de « couper la tête du serpent », selon
+      l’expression employée par plusieurs envoyés spéciaux. Après l’échec répété des
+      tentatives de changement de régime à provoquer un effondrement interne ou à faire
+      émerger une direction alternative crédible, l’accent s’est déplacé vers des stratégies
+      de décapitation, qu’elles soient politiques, militaires ou symboliques, visant
+      à affaiblir le système de pouvoir iranien. L’hypothèse sous-jacente est que l’élimination
+      de nœuds clés de l’autorité pourrait entraîner une paralysie systémique. Or, l’expérience
+      passée suggère l’inverse : ce type de pression extérieure tend à renforcer la
+      cohésion interne plutôt qu’à la fracturer. Dans ce contexte, les prochains jours
+      apparaissent de plus en plus critiques pour l’Iran et pour l’ensemble du Moyen-Orient.
+      L’Iran, pour sa part, contrôle la stabilité intérieure et toutes les émeutes ont
+      pris fin. Téhéran se prépare désormais à une guerre potentielle qu’il ne cherche
+      pas, mais qu’il estime de plus en plus probable à court ou moyen terme. La posture
+      militaire actuelle de l’Iran n’est pas dictée par une bravade idéologique ni par
+      une volonté d’escalade, mais par une réévaluation lucide façonnée par l’expérience
+      récente. L’affrontement bref mais intense entre les États-Unis et Israël, qui
+      s’est déroulé sur moins de deux semaines, a mis en lumière plusieurs vulnérabilités.
+      Parmi les plus significatives figure la prise de conscience que la guerre moderne
+      de haute intensité ne peut être menée en s’appuyant sur des systèmes de communication
+      occidentaux, des structures de commandement exposées ou des actifs militaires
+      visibles. Tout aussi déterminante fut la conclusion selon laquelle la dissuasion,
+      y compris les signaux liés au nucléaire, est dépourvue de sens si le front intérieur
+      n’est pas d’abord protégé contre les perturbations systémiques, les chocs économiques
+      et la pression aérienne prolongée. De cet épisode, l’Iran a tiré la conviction
+      que toute guerre future ne serait ni limitée ni localisée et impliquerait presque
+      certainement les États-Unis directement. Subscribe Subscribe to get access Read
+      more of this content when you subscribe today. Subscribe Submitting form Log in
+      Make a one-time donation Your contribution is appreciated. Donate Make a monthly
+      donation Your contribution is appreciated. Donate monthly Make a yearly donation
+      Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Sous la présidence de Donald Trump, les États-Unis et Israël
+      ont intensifié leurs efforts pour affaiblir le régime iranien par des stratégies
+      de décapitation, bien que l'expérience passée indique que de telles pressions
+      extérieures renforcent souvent la cohésion interne plutôt que de provoquer un
+      effondrement.
+    paragraph_summary: L'article d'Elijah J. Magnier examine les stratégies des États-Unis
+      et d'Israël visant à affaiblir le pouvoir iranien sous la présidence de Donald
+      Trump, en se concentrant sur l'élimination de figures clés du régime, une approche
+      qui, selon l'auteur, pourrait paradoxalement renforcer la cohésion interne de
+      l'Iran. Malgré les tentatives de changement de régime infructueuses, l'Iran a
+      réussi à stabiliser sa situation intérieure et se prépare à une guerre potentielle
+      qu'il ne souhaite pas, mais qu'il juge de plus en plus probable. L'article souligne
+      également les vulnérabilités révélées lors d'un récent affrontement entre les
+      États-Unis et Israël, notamment la nécessité de protéger le front intérieur contre
+      les perturbations avant de s'engager dans des conflits modernes, tout en remettant
+      en question l'efficacité de la dissuasion nucléaire sans une base intérieure solide.
+    published: '2026-01-15T06:02:50+00:00'
+  - title: L’Iran prépare ses missiles et ses systèmes de défense pour une guerre qu’il
+      ne souhaite pas
+    url: https://ejmagnier.com/2026/01/15/liran-prepare-ses-missiles-et-ses-systemes-de-defense-pour-une-guerre-quil-ne-souhaite-pas/
+    text: 'Par Elijah J. Magnier – Sous la présidence de Donald Trump, les États-Unis
+      et Israël n’ont pas renoncé à l’objectif de « couper la tête du serpent », selon
+      l’expression employée par plusieurs envoyés spéciaux. Après l’échec répété des
+      tentatives de changement de régime à provoquer un effondrement interne ou à faire
+      émerger une direction alternative crédible, l’accent s’est déplacé vers des stratégies
+      de décapitation, qu’elles soient politiques, militaires ou symboliques, visant
+      à affaiblir le système de pouvoir iranien. L’hypothèse sous-jacente est que l’élimination
+      de nœuds clés de l’autorité pourrait entraîner une paralysie systémique. Or, l’expérience
+      passée suggère l’inverse : ce type de pression extérieure tend à renforcer la
+      cohésion interne plutôt qu’à la fracturer. Dans ce contexte, les prochains jours
+      apparaissent de plus en plus critiques pour l’Iran et pour l’ensemble du Moyen-Orient.
+      L’Iran, pour sa part, contrôle la stabilité intérieure et toutes les émeutes ont
+      pris fin. Téhéran se prépare désormais à une guerre potentielle qu’il ne cherche
+      pas, mais qu’il estime de plus en plus probable à court ou moyen terme. La posture
+      militaire actuelle de l’Iran n’est pas dictée par une bravade idéologique ni par
+      une volonté d’escalade, mais par une réévaluation lucide façonnée par l’expérience
+      récente. L’affrontement bref mais intense entre les États-Unis et Israël, qui
+      s’est déroulé sur moins de deux semaines, a mis en lumière plusieurs vulnérabilités.
+      Parmi les plus significatives figure la prise de conscience que la guerre moderne
+      de haute intensité ne peut être menée en s’appuyant sur des systèmes de communication
+      occidentaux, des structures de commandement exposées ou des actifs militaires
+      visibles. Tout aussi déterminante fut la conclusion selon laquelle la dissuasion,
+      y compris les signaux liés au nucléaire, est dépourvue de sens si le front intérieur
+      n’est pas d’abord protégé contre les perturbations systémiques, les chocs économiques
+      et la pression aérienne prolongée. De cet épisode, l’Iran a tiré la conviction
+      que toute guerre future ne serait ni limitée ni localisée et impliquerait presque
+      certainement les États-Unis directement. Subscribe Subscribe to get access Read
+      more of this content when you subscribe today. Subscribe Submitting form Log in
+      Make a one-time donation Your contribution is appreciated. Donate Make a monthly
+      donation Your contribution is appreciated. Donate monthly Make a yearly donation
+      Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Sous la présidence de Donald Trump, les États-Unis et Israël
+      ont intensifié leurs efforts pour affaiblir le régime iranien par des stratégies
+      de décapitation, bien que l'expérience passée indique que de telles pressions
+      extérieures renforcent souvent la cohésion interne plutôt que de provoquer un
+      effondrement.
+    paragraph_summary: L'article d'Elijah J. Magnier examine les stratégies des États-Unis
+      et d'Israël visant à affaiblir le pouvoir iranien sous la présidence de Donald
+      Trump, en se concentrant sur l'élimination de figures clés du régime, une approche
+      qui, selon l'auteur, pourrait paradoxalement renforcer la cohésion interne de
+      l'Iran. Malgré les tentatives de changement de régime infructueuses, l'Iran a
+      réussi à stabiliser sa situation intérieure et se prépare à une guerre potentielle
+      qu'il ne souhaite pas, mais qu'il juge de plus en plus probable. L'article souligne
+      également les vulnérabilités révélées lors d'un récent affrontement entre les
+      États-Unis et Israël, notamment la nécessité de protéger le front intérieur contre
+      les perturbations avant de s'engager dans des conflits modernes, tout en remettant
+      en question l'efficacité de la dissuasion nucléaire sans une base intérieure solide.
+    published: '2026-01-15T06:02:50+00:00'
+  - title: Iran Is Preparing Its Missiles and Defence Systems for an Unwanted War
+    url: https://ejmagnier.com/2026/01/15/iran-is-preparing-its-missiles-and-defence-systems-for-an-unwanted-war/
+    text: 'By Elijah J. Magnier – Under President Donald Trump, the United States and
+      Israel have not abandoned the objective of “cutting the head of the snake”, as
+      several special envoys have described it. After repeated attempts at regime change
+      failed to produce internal collapse or a viable alternative leadership, the focus
+      has shifted toward decapitation strategies, whether political, military, or symbolic,
+      aimed at weakening Iran’s ruling system. The assumption underpinning this approach
+      is that removing key nodes of authority could induce systemic paralysis. Yet past
+      experience suggests the opposite: external pressure of this kind has tended to
+      consolidate internal cohesion rather than fracture it. Against this backdrop,
+      the coming days appear increasingly critical for Iran and the wider Middle East.
+      Iran, for its part, is in control of the domestic stability and all riots have
+      ended. Tehran is now preparing for a potential war it does not seek but increasingly
+      believes it may be forced to fight sooner or later. Tehran’s current military
+      posture is not driven by ideological bravado or a desire for escalation, but by
+      a sober reassessment shaped by recent confrontation. The brief yet intense US
+      Israeli clash, which unfolded over less than two weeks, exposed several vulnerabilities.
+      Among the most significant was the realisation that modern high intensity warfare
+      cannot be conducted using Western communication systems, exposed command structures,
+      or visible military assets. Equally important was the conclusion that deterrence,
+      including nuclear related signalling, is meaningless unless the domestic front
+      is first secured against systemic disruption, economic shock, and sustained aerial
+      pressure. Iran emerged from this episode convinced that any future war would be
+      neither limited nor localised, and would almost certainly involve the United States
+      directly. Subscribe Subscribe to get access Read more of this content when you
+      subscribe today. Subscribe Submitting form Log in Make a one-time donation Your
+      contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: Under President Trump, the U.S. and Israel have shifted their
+      strategy towards targeting Iran's leadership to weaken its regime, but historical
+      evidence suggests that such external pressures may actually strengthen internal
+      cohesion, leaving Iran poised for potential conflict despite its desire for peace.
+    paragraph_summary: The article by Elijah J. Magnier discusses the U.S. and Israel's
+      ongoing strategy to weaken Iran's regime through targeted decapitation efforts,
+      despite previous failures at regime change. The focus has shifted to undermining
+      key authority figures in Iran, with the belief that this could lead to systemic
+      paralysis; however, historical evidence suggests that such external pressures
+      often strengthen internal cohesion instead. As Iran stabilizes domestically and
+      prepares for potential conflict, it reassesses its military strategies in light
+      of recent confrontations, recognizing vulnerabilities in modern warfare and the
+      importance of securing its domestic front before engaging in any future conflicts,
+      which it anticipates may involve the U.S. directly.
+    published: '2026-01-15T05:29:45+00:00'
+  - title: Iran Is Preparing Its Missiles and Defence Systems for an Unwanted War
+    url: https://ejmagnier.com/2026/01/15/iran-is-preparing-its-missiles-and-defence-systems-for-an-unwanted-war/
+    text: 'By Elijah J. Magnier – Under President Donald Trump, the United States and
+      Israel have not abandoned the objective of “cutting the head of the snake”, as
+      several special envoys have described it. After repeated attempts at regime change
+      failed to produce internal collapse or a viable alternative leadership, the focus
+      has shifted toward decapitation strategies, whether political, military, or symbolic,
+      aimed at weakening Iran’s ruling system. The assumption underpinning this approach
+      is that removing key nodes of authority could induce systemic paralysis. Yet past
+      experience suggests the opposite: external pressure of this kind has tended to
+      consolidate internal cohesion rather than fracture it. Against this backdrop,
+      the coming days appear increasingly critical for Iran and the wider Middle East.
+      Iran, for its part, is in control of the domestic stability and all riots have
+      ended. Tehran is now preparing for a potential war it does not seek but increasingly
+      believes it may be forced to fight sooner or later. Tehran’s current military
+      posture is not driven by ideological bravado or a desire for escalation, but by
+      a sober reassessment shaped by recent confrontation. The brief yet intense US
+      Israeli clash, which unfolded over less than two weeks, exposed several vulnerabilities.
+      Among the most significant was the realisation that modern high intensity warfare
+      cannot be conducted using Western communication systems, exposed command structures,
+      or visible military assets. Equally important was the conclusion that deterrence,
+      including nuclear related signalling, is meaningless unless the domestic front
+      is first secured against systemic disruption, economic shock, and sustained aerial
+      pressure. Iran emerged from this episode convinced that any future war would be
+      neither limited nor localised, and would almost certainly involve the United States
+      directly. Subscribe Subscribe to get access Read more of this content when you
+      subscribe today. Subscribe Submitting form Log in Make a one-time donation Your
+      contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: Under President Trump, the U.S. and Israel have shifted their
+      strategy towards targeting Iran's leadership to weaken its regime, but historical
+      evidence suggests that such external pressures may actually strengthen internal
+      cohesion, leaving Iran poised for potential conflict despite its desire for peace.
+    paragraph_summary: The article by Elijah J. Magnier discusses the U.S. and Israel's
+      ongoing strategy to weaken Iran's regime through targeted decapitation efforts,
+      despite previous failures at regime change. The focus has shifted to undermining
+      key authority figures in Iran, with the belief that this could lead to systemic
+      paralysis; however, historical evidence suggests that such external pressures
+      often strengthen internal cohesion instead. As Iran stabilizes domestically and
+      prepares for potential conflict, it reassesses its military strategies in light
+      of recent confrontations, recognizing vulnerabilities in modern warfare and the
+      importance of securing its domestic front before engaging in any future conflicts,
+      which it anticipates may involve the U.S. directly.
+    published: '2026-01-15T05:29:45+00:00'
   - title: Wenn die Vereinigten Staaten Venezuelas Öl kontrollieren, können sie dann
       die ölreichen Länder übertrumpfen und die Energiemärkte beeinflussen?
     url: https://ejmagnier.com/2026/01/13/wenn-die-vereinigten-staaten-venezuelas-ol-kontrollieren-konnen-sie-dann-die-olreichen-lander-ubertrumpfen-und-die-energiemarkte-beeinflussen/

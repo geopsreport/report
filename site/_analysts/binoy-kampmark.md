@@ -7,17 +7,980 @@ description: "Cambridge–educated researcher at RMIT; writes widely on imperial
 websites:
   - https://counterpunch.org/author/jete6/
 summary: |
-  As 2026 unfolds, the global geopolitical landscape remains fraught with tension and shifting alliances, marked by assertive U.S. interventionism, mounting challenges to international law, and a crisis of legitimacy for multilateral institutions. The most recent developments underscore a pattern of aggressive foreign policy maneuvers, domestic clampdowns on dissent, and growing skepticism about the efficacy of international oversight.
+  As global tensions and domestic anxieties persist, recent developments highlight the intersection of technology, sovereignty, and civil liberties. The push towards a cashless society has emerged as a flashpoint, with **Binoy Kampmark** warning that such a transition risks deepening social inequality, eroding privacy, and fostering dependence on digital infrastructures that remain vulnerable to failure. Despite strong institutional momentum, public resistance is mounting, with significant segments of society continuing to support cash as a safeguard against exclusion and surveillance.
   
-  The Trump administration’s military intervention in Venezuela stands out as a defining episode. **Binoy Kampmark** describes President Trump’s actions as a “gangster intervention,” likening the operation to a revival of the Monroe Doctrine, but with even less regard for international legal norms. The justifications for the intervention, according to Kampmark, border on the “absurd,” signaling a broader trend of U.S. disregard for established diplomatic frameworks in favor of unilateral action. This approach, he argues, not only destabilizes the region but also sets a dangerous precedent for future U.S. foreign policy.
+  Meanwhile, the international community is still grappling with the fallout from the U.S.-led abduction of former Venezuelan President Nicolás Maduro. The precedent set by this extraterritorial action has alarmed global leaders, who fear it may legitimize similar interventions elsewhere and further destabilize international norms. **Kampmark** underscores that allied nations’ tepid responses undermine their professed commitment to sovereignty and the rule of law, raising questions about the future of multilateralism and the credibility of Western democracies.
   
-  Meanwhile, the United States and European Union have intensified their use of sanctions, ostensibly to protect free speech but, as **Binoy Kampmark** notes, often with the effect of stifling dissent and restricting the flow of information—especially in the context of the Ukraine conflict. The hypocrisy of these measures, Kampmark contends, is evident in their selective application and the chilling effect they have on open debate. This trend is mirrored in Australia, where recent legislation targeting pro-Palestinian protests has, in Kampmark’s view, “undermined societal harmony and scapegoated marginalized groups” following the Bondi killings.
+  On the domestic front, Australia faces scrutiny over its handling of free speech and human rights. The recent exclusion of author Randa Abdel-Fattah from a major literary festival, justified on grounds of “cultural sensitivity,” has provoked accusations of censorship and anti-Palestinian bias. This incident, coupled with ongoing restrictions on protests and the blocking of UN human rights delegates, reflects a broader trend of state overreach and selective application of rights, particularly in the context of heightened security concerns.
   
-  On the international stage, the United Nations faces a deepening financial crisis, with major contributors failing to meet their obligations. This has led to significant cutbacks in humanitarian and human rights programs, raising questions about the UN’s future relevance. As Kampmark observes, the organization’s ability to promote peace and cooperation is now “severely compromised,” a situation exacerbated by bureaucratic secrecy and national obstructionism—particularly in Australia’s dealings with UN human rights bodies.
-  
-  **Trends and Predictions:**  
-  The current trajectory suggests a high likelihood of continued U.S. assertiveness abroad, with little regard for multilateral norms. Domestic crackdowns on dissent, justified by security concerns, are quite likely to intensify in Western democracies. The legitimacy and effectiveness of international institutions such as the UN are most definitely at risk, with their influence waning as financial and political support erodes. I guarantee that unless there is a significant shift in policy or leadership, these patterns will persist, further fragmenting the international order and undermining prospects for genuine global cooperation.
+  Looking ahead, it is quite likely that resistance to cashless policies will intensify, especially as digital exclusion becomes more visible. There is a high chance that the international community will remain divided over the legitimacy of U.S. interventions, with further erosion of trust in global institutions. In Australia, the pattern of suppressing dissent and limiting oversight is expected to persist, though public backlash may force incremental reforms. The convergence of these issues signals a period of heightened contestation over the boundaries of state power, civil liberties, and global governance.
 articles:
+  - title: Inequality, Surveillance and the Cashless Society
+    url: https://www.counterpunch.org/2026/01/20/inequality-surveillance-and-the-cashless-society/
+    text: 'Like all new frontiers touted as necessary and worthwhile, the cashless society
+      is advertised as a supremely convenient way to facilitate financial transactions
+      while avoiding such silly inconveniences as carrying cash and scouting for a money
+      dispenser. A cashless society also facilitates inequality, manifests a pattern
+      of conduct easily monitored by both private companies and State agencies, and
+      repudiates the notion of valid tender. It also subordinates its users to a digital
+      ecosystem that can, at any given moment, fail.
+
+
+      The literature on the problems of a cashless cosmos is only growing, though it
+      has done little to stem what has been decided as inevitable by the policy wonks.
+      While it is exceptionally zealous in this regard, Sweden remains a good example
+      of this push, a country which has done much to remove the infrastructure that
+      enables cash payments over the counter. Businesses have the right to waive the
+      use of cash payments under the principle of “freedom of contract”. Those impelled
+      to use cash are condemned to hermetic “cash bubbles”, isolated from much of the
+      economy.
+
+
+      Payment systems operate on a logic different from such financial areas as asset
+      management or investment. The authors of a most useful article in the Social-Economic
+      Review from April 2025 make the point that cash is fundamentally inclusive, as
+      it can be used by all under the same conditions. The infrastructure of the cashless
+      society is distinctly not inclusive, being “typically provided by profit-seeking
+      private players, who pass on the costs to merchants and consumers under varying
+      conditions.” It is also an industry that has seen the replacement of public infrastructure
+      with that of private providers. “Crucially, this substitution has significant
+      consequences for social inequality”, benefiting those on higher incomes who can
+      avail themselves of “easy and frictionless payments and access to short-term credit”,
+      while those with lower incomes find themselves “increasingly dependent on financial
+      services for which they pay disproportionately high fees.” Add to this the problems
+      of digital literacy, poor internet connectivity in rural communities and the continued
+      existence of the unbanked, and the picture gets bleaker.
+
+
+      A cashless society is also, by definition, hostile to privacy and a great handmaiden
+      to the surveillance state. Payments become traceable; transactions leave patterns
+      of data. The far-sighted computing technology pioneer, Paul Armer, was one who
+      was already anticipating the issues of using an electronic funds transfer system
+      (EFTS) in 1975 as a fellow of the Center for Advanced Study in Behavioral Sciences
+      at Stanford University. In testimony given in June that year at hearings held
+      jointly by the Subcommittee on Constitutional Rights of the US Senate Judiciary
+      Committee and the Subcommittee on Science and Technology of the Senate Committee
+      on Commerce, the issue is sharply illuminated. “The dimensions of the final form
+      of EFTS which are of importance to its potential surveillance capability are things
+      such as the percentage of transactions recorded; the degree of centralization
+      of the data; and the speed of information in the system.”
+
+
+      Armer already warned that those wanting privacy but still using cash from the
+      EPT system would be compromised in doing so, making that transaction “stand out
+      like a sore thumb.” He also reminded Congress that a group of “experts in computers,
+      communication, and surveillance” were given the task in 1971 of pretending to
+      advise the chief of the Soviet Union’s KGB secret service on “designing a system
+      for the surveillance of all citizens and visitors within the boundaries of the
+      USSR.” The system was to be neither obtrusive nor obvious. The decision by the
+      group was unequivocal: “build an EFTS system.” Such a surveillance system would
+      operate unobtrusively while handling “all the financial accounting and provide
+      the statistics crucial for a centrally planned economy”.
+
+
+      There are signs of resistance against the cult of the cashless. Laws are being
+      passed in countries making some businesses accept cash as legal tender. Concerns
+      about crippling cyberattacks on digital infrastructure, the problems posed by
+      power outages, and the absence of a cash option, have started to bite. Last year,
+      the Swedish Ministry of Finance’s Cash Inquiry proposed an obligation for certain
+      vendors and businesses to accept cash, notably those proffering essential goods
+      and charging fees under public law. This change of heart from the cashless dogmatism
+      that, till then, had been all conquering, had the support of the Governor of Sweden’s
+      Riksbank, Erik Thedéen. “People should always be able to pay for food, healthcare
+      and medicines both digitally and with cash. The increasingly turbulent global
+      situation, increased cyber attacks and also the major power outages in southern
+      Europe show the importance of being able to make payments even when the internet
+      is down.”
+
+
+      Spending habits using cash in such economies as the United States also remains
+      stable. The Federal Reserve’s 2025 Diary of Consumer Payment Choice found that
+      over 90% of US consumers intend resorting to cash either as a means of payment
+      or store of value for the foreseeable future, while almost 80% held cash in their
+      pockets, purses or wallets for least one day per month for each Diary survey conducted
+      since 2018.
+
+
+      The recent findings from a survey of 5,570 residents across the US by the Siena
+      Research Institute in partnership with the Payment Choice Coalition (PCC) are
+      also instructive. Over 85% of Americans favour laws making it mandatory for businesses
+      to accept cash, while 84% oppose the notion of a fully cashless society. Cash
+      may not be the mighty sovereign it once was but it still holds court with stubborn
+      appeal.'
+    one_sentence_summary: The article critiques the push towards a cashless society,
+      highlighting its potential to exacerbate inequality, invade privacy, and create
+      dependency on unreliable digital systems, while noting a growing resistance and
+      continued public support for cash as a viable payment option.
+    paragraph_summary: The article critiques the push towards a cashless society, highlighting
+      its convenience while exposing significant drawbacks such as increased inequality,
+      privacy concerns, and reliance on potentially unstable digital systems. It emphasizes
+      that cash is inherently inclusive, allowing all individuals to participate in
+      the economy equally, whereas cashless systems often benefit wealthier users and
+      impose higher costs on those with lower incomes. The article references historical
+      warnings about the surveillance capabilities of electronic funds transfer systems
+      and notes a growing resistance against cashlessness, particularly in Sweden, where
+      recent proposals advocate for mandatory cash acceptance in essential services.
+      Despite the trend towards digital payments, surveys indicate that a substantial
+      majority of Americans still prefer cash, suggesting that it retains a vital role
+      in financial transactions.
+    published: '2026-01-20T06:52:17+00:00'
+  - title: 'Spectral Threats: China, Russia and Trump’s Greenland Rationale'
+    url: https://www.counterpunch.org/2026/01/16/spectral-threats-china-russia-and-trumps-greenland-rationale/
+    text: 'The Trump administration’s mania about Greenland, a self-governing territory
+      of Denmark, is something to behold. Its untutored thuggery, its brash assertiveness,
+      and the increasingly strident threats to either use force, bully Denmark into
+      a sale of the island, or simply annex the territory, have officials and commentators
+      scrambling for theories and precedents. The Europeans are terrified that the NATO
+      alliance is under threat from another NATO member. The Greenlanders are anxious
+      and confused. But the ground for further action by Washington is being readied
+      by finding threats barely real and hardly plausible.
+
+
+      The concerns about China and Russia seizing Greenland retells the same nonsense
+      President Donald Trump promoted in kidnapping the Venezuelan President Nicolás
+      Maduro and his wife. Looking past the spurious narcoterrorism claims against the
+      former leader, it fell to the issue of who would control the natural resources
+      of the country. If we don’t get Venezuelan oil now and secure it for American
+      companies, the Chinese or the Russians will. The gangster’s rationale is crudely
+      reductionist, seeing all in a similar vein.
+
+
+      The obsession with Beijing and Moscow runs like a forced thread through a dotty,
+      insular rationale that repels evidence and cavorts with myth: “We need that [territory],”
+      reasons the President, “because if you take a look outside Greenland right now,
+      there are Russian destroyers, there are Chinese destroyers and, bigger, there
+      are Russian submarines all over the place. We are not gonna have Russia or China
+      occupy Greenland, and that’s what they’re going to do if we don’t.” On Denmark’s
+      military capabilities in holding the island against any potential aggressor, Trump
+      could only snort with macho dismissiveness. “You know what their defence is? Two
+      dog sleds.”
+
+
+      This scratchy logic is unsustainable for one obvious point. Were Russia or China
+      to attempt an occupation of Greenland through military means, Article V of the
+      North Atlantic Treaty would come into play, obliging NATO member states, including
+      the United States, to collectively repel the effort. With delicious perversity,
+      any US effort to forcibly acquire the territory through use of force would be
+      an attack on its own security, given its obligations under the Treaty. In such
+      cases, it becomes sound to assume, as the Danish Prime Minister Mette Frederiksen
+      does , that the alliance would cease to exist.
+
+
+      Such matters are utterly missed by the rabidly hawkish Deputy Chief of Staff Stephen
+      Miller, who declared that, “Nobody’s going to fight the United States militarily
+      over the future of Greenland.” It was up to the US “to secure the Arctic region,
+      to protect and defend NATO and NATO interests” in incorporating Greenland. To
+      take territory from a NATO ally was essentially doing it good.
+
+
+      Given that the United States already has a military presence on the island at
+      the Pituffik Space Base, and rights under the 1951 agreement that would permit
+      an increase in the number of bases should circumstances require it, along with
+      the Defence Cooperation Agreement finalised with Copenhagen in June 2025, much
+      of Miller’s airings are not merely farcical but redundant. Yet, Trump has made
+      it clear that signatures and understandings reflected in documents are no substitute
+      for physically taking something, the thrill of possession that, by its act, deprives
+      someone else of it. “I think ownership gives you a thing that you can’t do, whether
+      you’re talking about a lease or a treaty,” he told the New York Times. “Ownership
+      gives you things and elements that you can’t get from just signing a document.”
+
+
+      What, then, of these phantom forces from Moscow and Beijing, supposedly lying
+      in wait to seize the frozen prize? “There are no Russian and Chinese ships all
+      over the place around Greenland,” states the very convinced research director
+      of the Oslo-based Fridtjof Nansen Institute, Andreas Østhagen. “Russia and/or
+      China has no capacity to occupy Greenland or to take control over Greenland.”
+
+
+      Danish Foreign Minister Lars Lokke Rasmussen is similarly inclined. “The image
+      that’s being painted of Russian and Chinese ships right inside the Nuuk fjord
+      and massive Chinese investments being made is not correct.” Senior “Nordic diplomats”
+      quoted in the Financial Times add to that version, even if the paper is not decent
+      enough to mention which Nordic country they come from. “It is simply not true
+      that the Chinese and Russians are there,” said one. “I have seen the intelligence.
+      There are no ships, no submarines.” Vessel tracking data from Marine Traffic and
+      LSEG have so far failed to disclose the presence of Chinese and Russian ships
+      near the island.
+
+
+      Heating engineer Lars Vintner, based in Greenland’s capital, Nuuk, wondered where
+      these swarming, spectral Chinese were based. “The only Chinese I see,” he told
+      Associated Press, “is when I go to the fast food market.” This sparse presence
+      extends to the broader security footprint of China in the Arctic, which remains
+      modest despite a growing collaboration with Russia since the 2022 invasion of
+      Ukraine. These have included Arctic and coast guard operations, while the Chinese
+      military uses satellites and icebreakers equipped with deep-sea mini submarines,
+      potentially for mapping the seabed.
+
+
+      However negligible and piffling the imaginary threat, analysts, ever ready with
+      a larding quote or a research brief, are always on hand to show concern with such
+      projects as Beijing’s Polar Silk Road, announced in 2018, which is intended as
+      the Arctic extension of its transnational Belt and Road initiative. The subtext:
+      Trump should not seize Greenland, but he might have a point. “China has clear
+      ambitions to expand its footprint and influence in the region, which it considers…
+      an emerging arena for geopolitical competition.” Or so says Helena Legarda of
+      the Mercator Institute for China Studies in Berlin.'
+    one_sentence_summary: The Trump administration's aggressive interest in acquiring
+      Greenland, driven by unfounded fears of Chinese and Russian threats, reflects
+      a misguided and simplistic approach to international relations that overlooks
+      NATO obligations and the actual geopolitical landscape.
+    paragraph_summary: The Trump administration's fixation on Greenland, a self-governing
+      territory of Denmark, has raised alarm among European allies and left Greenlanders
+      feeling anxious and confused. The administration's aggressive rhetoric suggests
+      a desire to either purchase or annex the island, fueled by unfounded fears of
+      Chinese and Russian military ambitions in the region. Critics argue that this
+      rationale is based on a flawed understanding of international relations, particularly
+      regarding NATO obligations, which would require collective defense against any
+      aggressor. Despite claims of a looming threat, experts and local voices assert
+      that there is no significant Chinese or Russian military presence near Greenland,
+      undermining the administration's justification for its aggressive stance. The
+      article highlights the absurdity of the situation, noting that the U.S. already
+      has military agreements in place with Denmark and that Trump's desire for ownership
+      reflects a misguided belief in the necessity of territorial control over diplomatic
+      agreements.
+    published: '2026-01-16T06:51:48+00:00'
+  - title: The Cancellation of Randa Abdel-Fattah
+    url: https://www.counterpunch.org/2026/01/15/the-cancellation-of-randa-abdel-fattah/
+    text: 'Boards of directors are a funny bunch. Often lacking expertise, claiming
+      knowledge they do not have and insight that never illuminates, its members can
+      make the cockup the stuff of legend. Instead of minding their own business and
+      leaving the Adelaide Writers’ Week to take place without incident as part of the
+      2026 Adelaide Festival, an act of oafish meddling took place. The meddling centred
+      on removing one invited author from the speaking schedule: the Australian-Palestinian
+      writer and academic Randa Abdel-Fattah, who was to discuss her novel Discipline.
+
+
+      The Festival Board’s statement explaining their decision began with a note of
+      gravity. “As the Board responsible for the Adelaide Festival organisation and
+      the Adelaide Writers’ Week events, staff, volunteers and participants, we have
+      today [January 8] advised scheduled writer Dr Randa Abdel-Fattah that the Board
+      has formed the judgment that we do not wish to proceed with her scheduled appearance
+      at next month’s Writers’ Week.” Then came the note of pure cowardice, framed in
+      the bankrupt language of middle-management. “Whilst we do not suggest in any way
+      that Dr Randa Abdel-Fattah or her writings have any connection with the tragedy
+      at Bondi, given her past statements we have formed the view that it would not
+      be culturally sensitive to continue to program her at this unprecedented time
+      so soon after Bondi.”
+
+
+      Abdel-Fattah’s views on the war in Gaza had evidently proven so salty as to require
+      her deprogramming. These were not specified, though various social media remarks
+      and public statements attacking “this murderous Zionist colony” and claiming that
+      Zionists had “no claim or right to cultural safety” were bound to have featured.
+      Her removal was heartily approved by Norman Schueler of the Jewish Community Council
+      of South Australia and the South Australian Premier Peter Malinauskas.
+
+
+      If this decision was intended to reflect balance, intellectual awareness and understanding
+      about the shootings on December 14, 2025 that took place at a Bondi Beach event
+      celebrating the Jewish festival of Hanukkah, it failed on all counts. It ignored
+      the fact that the two shooters had been allegedly inspired by Islamic State (ISIS
+      or Daesh), an obscurantist group indifferent to Palestinian statehood and hostile
+      to Hamas. (The repeated comparison of Hamas to ISIS by Israeli Prime Minister
+      Benjamin Netanyahu has always been erroneous to the point of mendacity.) It imputed
+      a degree of responsibility to Abdel-Fattah as a Palestinian, a representative
+      of a people systematically butchered, dispossessed and starved by the Israeli
+      campaign. It implied that any discussion about Israel’s conduct in response to
+      the Hamas attack on October 7, 2023, one deemed genocidal by the UN Independent
+      International Commission of Inquiry on the Occupied Palestinian Territory and
+      a number of known human rights organisations, was insensitive. Only the meek of
+      opinion would be permitted, the impotent or inert celebrated.
+
+
+      A glance at some of the Board’s membership reveals corporate blandness and brand
+      merchants versed in the nebulous world of “consultancy” and “communication”. No
+      literary figures of note can be found, let alone historians, sociologists or anyone
+      animated by what might loosely be called the liberal arts. There are – or least
+      were, given several resignations – such figures as the now ex-chair, Tracey Whiting,
+      adept in “strategic marketing, audience development and community engagement”.
+      Leesa Chesser’s description sounds like that of an educated canine “trained in
+      health economics and business”. Brenton Cox is all triumph and skill as managing
+      director of Adelaide Airport. Daniela Ritorto is obviously less a journalist than
+      a consultant about journalism, versed in “strategic communications advice” and,
+      it would seem, “a sought-after master of ceremonies and panel moderator”. As with
+      Australia’s innumerable and atrocious university managers, the country’s cultural
+      and artistic governors cannot be accused of having a shred of aesthetic, let alone
+      cerebral sense for the area of expertise they purport to control. It’s all show,
+      and a rotten one too.
+
+
+      In a pugnacious statement, Abdel-Fattah called the decision to scratch her attendance
+      “a blatant and shameless act of anti-Palestinian racism and censorship and a despicable
+      attempt to associate me with the Bondi massacre.” Her very presence would be construed
+      as “‘culturally insensitive’”, that she, as a Palestinian having nothing to do
+      with the Bondi atrocity was “somehow a trigger for those in mourning”.
+
+
+      The Festival Board seemed to suffer the same maladies that had afflicted the organisers
+      of the Bendigo Writers Festival last August. At the penultimate moment, they thought
+      it wise to make writers and panellists subscribe to a Code of Conduct in what
+      could only be seen as a nasty fit of Zhdanovism. Terms such as “Zionist” or “Zionism”
+      were to be avoided, along with “topics that could be considered inflammatory,
+      divisive, or disrespectful.” Many writers recoiled and withdrew.
+
+
+      Cancellation fever, however, remains very modish in Australia when talking about
+      the destruction of Gaza or Israel’s adversaries who must, by definition, be seen
+      as playdough freaks of demonology. When pianist Jayson Gillham took issue with
+      the brutality of Israel’s Gaza campaign during a 2024 recital, his contract was
+      cancelled by invertebrate officials at the Melbourne Symphony Orchestra. (The
+      matter is before the courts.) The artists Khaled Sabsabi and Michael Dagostino
+      fared somewhat better, being first cancelled by Creative Australia from representing
+      Australia at the Venice Biennale only to be reappointed after much cutting indignation.
+
+
+      For Abdel-Fattah, solidarity among the scribblers abounded. Of the initial 124
+      participants, some 100 have withdrawn. Among them are former New Zealand Prime
+      Minister Jacinda Adern, British author Zadie Smith, former Greek Finance Minister
+      and rabble rouser Yanis Varoufakis, and Australian historian Clare Wright. Wright
+      expressed shock and insult as a Jewish Australian that the Board had exploited
+      “the tragedy of Bondi to weaponise its much loved and respected literary festival.”
+
+
+      Leaving aside the palpable implosion of an event that would have otherwise gone
+      the way of most writers’ events, one lost in fine print and chatter, a supreme
+      irony emerges. Abdel-Fattah, as with many writers, is not immune to the cancellation
+      bug when it comes to those she does not like. In 2024, she added her name to a
+      letter addressed to Adelaide Writers’ Week requesting the removal of Thomas Friedman
+      from the schedule for his remarks in the New York Times analysing the Gaza War
+      through the prism of the animal kingdom (the US, predictably, a lion, if old;
+      Iran, a “parasitoid wasp”; Yemen, Lebanon, Syria and Iraq, caterpillars; Benjamin
+      Netanyahu, a sifaka lemur). Friedman has made a life of grand, insensitive readings
+      of the human condition, fashioning revenue out of such cowpat efforts as The Lexus
+      and the Olive Tree, but that’s hardly a reason to cancel him. People like that
+      need to be paraded as treasures of ridiculous tripe, not kept hidden to wither.
+
+
+      To their credit, the Festival Board then, unlike now, held firm. Even crass stupidity
+      should have a platform. “Asking the Adelaide Festival and Adelaide Writers’ Week
+      to cancel an artist or writer is an extremely serious request,” came the response
+      from Whiting. “We have an international reputation for supporting artistic freedom
+      of expression.” Much like Whiting herself, that reputation has gone.'
+    one_sentence_summary: The Adelaide Festival Board's decision to remove Australian-Palestinian
+      author Randa Abdel-Fattah from the Adelaide Writers' Week schedule, citing cultural
+      sensitivity following a tragic event, has sparked accusations of anti-Palestinian
+      racism and censorship, leading to widespread backlash from other writers and participants.
+    paragraph_summary: The Adelaide Festival Board faced backlash for their decision
+      to remove Australian-Palestinian author Randa Abdel-Fattah from the schedule of
+      the 2026 Adelaide Writers’ Week, citing concerns over cultural sensitivity following
+      a tragic shooting at a Hanukkah event in Bondi. The Board's statement, which attempted
+      to distance Abdel-Fattah from the incident while simultaneously implying her presence
+      would be inappropriate, was criticized as cowardly and indicative of a broader
+      trend of censorship and anti-Palestinian sentiment in Australia. Abdel-Fattah
+      condemned the decision as blatant racism, and her removal sparked widespread solidarity
+      among other writers, leading to the withdrawal of nearly 100 participants from
+      the event. The situation highlighted the Board's lack of literary expertise and
+      raised questions about the balance of free expression in cultural events, contrasting
+      their current actions with past commitments to artistic freedom.
+    published: '2026-01-15T06:52:08+00:00'
+  - title: 'Candid Imperialism: Trump, Racketeering and Venezuelan Oil'
+    url: https://www.counterpunch.org/2026/01/13/candid-imperialism-trump-racketeering-and-venezuelan-oil/
+    text: 'It usually takes archival digging, the golden gaffe, an ill-considered remark
+      and occasional spells of candour by those in power, to admit that the United States
+      has, in common with other imperial powers, brutal ambitions. An example of the
+      latter was General Smedley Butler who, at his death in 1940, had become the most
+      decorated Marine in US history. After retiring from active service, he was frank
+      about what his role had been. Professing to being a “racketeer” and “gangster
+      for capitalism”, he went on to explain how: “I helped make Mexico, especially
+      Tampico, safe for American oil interests in 1914. I helped make Haiti and Cuba
+      a decent place for the National City Boys to collect revenues in. I helped the
+      raping of half a dozen Central American republics for the benefits of Wall Street.”
+      That was just a selection.
+
+
+      With President Donald Trump in power, we do not need a Butler to give the game
+      away or expose any frightful cabal. The empire is out of the closet, bolshie,
+      bright and more thieving than ever. While the Donroe Doctrine is intended to reprise
+      the Monroe Doctrine, it offers nothing more than imperial rapacity, seizure under
+      pretext. The January 9 meeting with two dozen oil executives at the White House
+      to discuss the fate of the Venezuelan oil market showed Trump to be in full flight
+      as cocky pip and proud procurer of corporate thieving under the cover of government
+      protection.
+
+
+      Representatives from such veteran behemoths as ExxonMobil and Chevron were present
+      to listen to calls from the president that they invest handsomely in modernising
+      and tidying up Venezuela’s tattered oil infrastructure. Problems with the oil
+      itself – heavy, hard to refine and packed with sulphur, not to mention the questionable
+      number of proven reserves – did not blight the conversation. “American companies
+      will have the opportunity to rebuild Venezuela’s rotting energy infrastructure
+      and eventually increase oil production to levels never seen before,” he crowed
+      at the start of the meeting. Our giant oil companies will be spending at least
+      $100 billion of their money.” In the course of this merry investment, Venezuela
+      would “be very successful, and the people of the United States are going to be
+      big beneficiaries.”
+
+
+      The choice of companies involved in the venture would, however, not be determined
+      by free market wiles or any invisible hand. “We are going to be making the decision
+      as to which oil companies can go in, which we will allow to go in.” They would
+      mostly be American, naturally. Forget the Venezuelans, he insisted. “You’re dealing
+      with us directly. You’re not dealing with Venezuela at all. We don’t want you
+      to deal with Venezuela.”
+
+
+      Jeffery Hilderbrand of the oil and gas producer Hilcorp Energy and noted Trump
+      donor, was all salivation and gratitude. He was also pleased with the implausible
+      alibi Trump had offered for controlling and pilfering Venezuelan oil for American
+      interests: finding imagined enemies who might do the same thing. “Thank you for
+      your great, tremendous leadership in protecting the interests in the Western Hemisphere,”
+      he sighed with oleaginous gratitude. “The message that you have sent to China
+      and our enemies to stay out of our backyard is absolutely fantastic… Hilcorp is
+      fully committed and ready to go to rebuilding the infrastructure in Venezuela.”
+
+
+      CEO Bill Armstrong, of the Armstrong Oil and Gas company, also smacked his lips
+      at the plunderous prospects. “We are ready to go to Venezuela,” he declared. “In
+      real estate terms, it is prime real estate. And it’s like West Palm about 50 years
+      ago. Very ripe.” Fracking executive and Trump supporter, Harold Hamm, was tickled
+      by the possibility of adventure, seeing Venezuela as little more than a playground
+      to roam and in and profit from. “It excites me as an explorationist.” The country
+      was “exciting” with its abundant reserves, posing “challenges and the industry
+      knows how to handle that.”
+
+
+      Chevron, which already has a presence in the country in partnership with the state-run
+      oil company Petróleos de Venezuela SA accounting for 240,000 barrels per day,
+      expects to bolster its production by 50% over the next 18 to 24 months. Those
+      at Repsol are dreaming of tripling the current daily production of 45,000 barrels
+      over the next few years, provided the conditions are appropriate.
+
+
+      Not all the oil companies expressed the same level of glowing confidence. Naked
+      plunder comes with its challenges and logistical tangles, not least the touchy
+      issue of Venezuelan sovereignty. Exxon CEO Darren Woods was, for instance, concerned
+      that much will have to be done to make Venezuela an appropriate recipient of capital.
+      One way was to ensure that whoever was in control in Caracas would be eternally
+      reliable and amenable to US oil interests. “We have had our assets seized there
+      twice and so you can imagine to re-enter a third time would require some pretty
+      significant changes from what we’ve historically seen and what is currently the
+      state.” As things stood, given “legal and commercial constructs and frameworks
+      in place”, Venezuela was “ininvestable”.
+
+
+      That same day, Trump further confirmed the choking of Venezuela by signing an
+      Executive Order to prevent “the seizure of Venezuelan oil revenue that could undermine
+      critical US efforts to ensure economic stability in Venezuela.” The Order prohibits
+      US courts from seizing revenue collected from Venezuelan oil and relevant holds
+      in US Treasury accounts. The customary, absurd justifications follow: to lose
+      control of such funds would “empower malign actors like Iran and Hezbollah while
+      weakening efforts to bring peace, prosperity, and stability to the Venezuelan
+      people and to the Western Hemisphere as a whole.” Were these funds to be tampered
+      with, US objectives to stem “the influx of illegal aliens and disrupting the flood
+      of illicit narcotics” would be compromised.
+
+
+      As for those befuddled figures of the Venezuela opposition thinking that much
+      of their country’s oil revenue will find its way into the coffers of Caracas,
+      they should best think again. “Putting America first,” as the Order makes clear,
+      means just that. The Venezuelan people don’t count, except as props in tawdry
+      oratory.'
+    one_sentence_summary: The article critiques the United States' imperial ambitions,
+      particularly under President Trump, highlighting a meeting with oil executives
+      where he promoted American corporate interests in Venezuela's oil sector while
+      disregarding Venezuelan sovereignty and welfare.
+    paragraph_summary: The article critiques the imperial ambitions of the United States,
+      particularly under President Donald Trump's administration, highlighting a meeting
+      where Trump encouraged major oil companies to invest in Venezuela's oil infrastructure.
+      General Smedley Butler's historical reflections on U.S. military interventions
+      for corporate interests serve as a backdrop to illustrate the continuity of such
+      exploitative practices. Trump’s approach is characterized as overtly imperialistic,
+      with a focus on American corporate gain rather than the welfare of the Venezuelan
+      people. Executives from companies like ExxonMobil and Chevron expressed eagerness
+      to capitalize on Venezuela's oil reserves, despite concerns about the country's
+      sovereignty and investment risks. Trump's executive order aimed at protecting
+      U.S. interests further underscores the prioritization of American corporate profits
+      over the needs of Venezuelans, revealing a stark reality of modern imperialism
+      masked as economic assistance.
+    published: '2026-01-13T06:52:30+00:00'
+  - title: 'The Politics of Premature Adjudication: The Bondi Royal Commission'
+    url: https://www.counterpunch.org/2026/01/12/the-politics-of-premature-adjudication-the-bondi-royal-commission/
+    text: 'Royal commissions are often held to confirm the obvious and squeak for modest
+      change. They offer no binding remedies, have no compellable powers against the
+      government of the day, and can, despite claiming to be independent, be susceptible
+      to interest groups. They are also expensive, laborious, often lengthy and serve
+      as a pacifying agent, absorbing pressure and enabling the governors of the day
+      to delay action. Scott Prasser, a scholar long versed in the pitfalls of public
+      administration, suggests that such commissions “are most effective when the central
+      problem is a deficit of legitimacy rather than a deficit of information.”
+
+
+      The hankering, bleating insistence on holding a royal commission into the Bondi
+      Beach attack last December, a vicious shooting attack on those celebrating Hanukkah
+      leaving sixteen dead, including one of the shooters, is not free of the usual
+      criticisms.
+
+
+      Australian Prime Minister Anthony Albanese initially resisted it, opting for an
+      Independent Review into Australia’s federal law enforcement and intelligence agencies,
+      to be led by former domestic intelligence director-general Dennis Richardson.
+      The review’s primary focus is on the Australian Security Intelligence Organisation
+      and Australian Federal Police in terms of performance, appropriate powers, systems,
+      processes and procedures, including information sharing protocols.
+
+
+      Albanese’s resistance to a commonwealth royal commission was also in part because
+      the New South Wales government was already running its own version, one that the
+      Albanese government promised it would support with necessary resources and heft.
+      But the PM, not exactly burning with conviction, showed that he was for turning.
+      After much bleating and many open letters by public figures from politics to sports,
+      Albanese announced the creation of Royal Commission on Antisemitism and Social
+      Cohesion to be led by former High Court Justice Virginia Bell.
+
+
+      Even in its infancy, the commission is already facing problems. Certain public
+      figures in the Australian Jewish community were hoping for a sympathetic, possibly
+      even philosemitic voice to steer it. The question was not whether the appointee
+      would be sympathetic to the evidence but sympathetic, even partial, regarding
+      the sentiments of an interest group. In other words, any sense of objective fairness
+      or stern distance from the subject matter would be a secondary consideration.
+
+
+      Showing his specific, parochial understanding of how such a commission would work,
+      NSW Jewish Board of Deputies president David Ossip told The Australian Financial
+      Review that it was “the time to deliver more unity, not less” after “two long
+      years of division in Australia”. This meant finding a consensus on the choice
+      of royal commissioner, a crude way of saying that the most appropriate person
+      would have to get the seal of approval from members of the Australian Jewish community.
+      “The royal commission, which will examine what led to the worst terrorist attack
+      in our nation’s history and the crisis of antisemitism, must have the confidence
+      of the Jewish community.”
+
+
+      It’s hard not to read more into this, suggesting that Ossip confuses consensus
+      with tinkering, slanting and premature adjudication. As long as the lobby agrees,
+      then there will be consensus, followed by the appropriate findings. The president
+      of the Zionist Federation, Jeremy Leibler, is even more direct, bringing a dose
+      of identity politics into play: “Any royal commission must be structured, in terms
+      of reference and the identity of the commissioner, [in such a way that it] has
+      to have the confidence of the community most affected by the attack, which is
+      the Jewish community, as well as the broader community, in order to achieve its
+      purpose.”
+
+
+      Without foundation, the choice of commissioner has come in for some castigation.
+      Albanese, moaned former Coalition treasurer Josh Frydenberg “has been told directly
+      by leaders of the Jewish community that they have serious concerns” regarding
+      Bell. “After more than two years of unprecedented hate, harassment and violence
+      directed towards the Jewish community, culminating in Australia’s deadliest terrorist
+      attack at Bondi Beach it is unthinkable the Prime Minister would choose a commissioner
+      that did not have the total confidence of the Jewish community.” Appoint, appealed
+      Frydenberg, “the right Commissioner whose leadership will provide the answers
+      and solutions our country so urgently needs.”
+
+
+      This begs a troubling question. What would an appropriate commissioner for Frydenberg
+      be? One approved by Israeli Prime Minister Benjamin Netanyahu? A figure who openly
+      embraced the definition of antisemitism arrived at by the International Holocaust
+      Remembrance Alliance? One who had rejected the view, one accepted by the UN Independent
+      International Commission of Inquiry on the Occupied Palestinian Territory along
+      with a bevy of civil society and human rights organisations, including the Israeli-based
+      B’Tselem, that Israeli actions in Gaza have been genocidal?
+
+
+      A report by the ABC, attempting to identify those shadowy concerns regarding Bell’s
+      appointment, cite perceptions that “she was associated with the political left.”
+      They was also a “lack of trust between the community and the Albanese government
+      as a contributing factor in the fear that his eventual royal commissioner pick
+      would not examine elements of the antisemitism issue important to them.”
+
+
+      A bureaucratic, costly bonanza is in the offing. To Richardson’s review will be
+      added the federal royal commission linking arms, presumably, with the NSW royal
+      commission. There will be duplication galore. The premature adjudicators will
+      be hoping for favourable findings to further trim the wilting tree of free speech
+      in Australia while muzzling criticism of Israel’s policies against the Palestinians.'
+    one_sentence_summary: The article critiques the establishment of a royal commission
+      into antisemitism and social cohesion in Australia, arguing that such commissions
+      often serve to placate public pressure without delivering meaningful change, and
+      highlights concerns over the selection of a commissioner who may be perceived
+      as biased towards the interests of the Jewish community amidst ongoing debates
+      about the handling of antisemitism and free speech in the country.
+    paragraph_summary: The article critiques the establishment of royal commissions
+      in Australia, particularly in light of the recent call for one following the Bondi
+      Beach attack, which resulted in significant casualties during a Hanukkah celebration.
+      Prime Minister Anthony Albanese initially opted for an Independent Review of federal
+      law enforcement instead of a royal commission, partly due to an existing New South
+      Wales inquiry. However, after public pressure, he announced a Royal Commission
+      on Antisemitism and Social Cohesion, led by former High Court Justice Virginia
+      Bell. Concerns have arisen regarding the commission's impartiality, with some
+      Jewish community leaders emphasizing the need for a commissioner who aligns with
+      their interests, raising questions about the objectivity of the inquiry. Critics
+      argue that the commission may serve more as a bureaucratic exercise than a genuine
+      effort to address antisemitism, potentially leading to duplicative efforts and
+      limiting free speech in discussions about Israel and Palestine.
+    published: '2026-01-12T06:52:27+00:00'
+  - title: 'Kidnapping Blues: The Maduro Abduction Precedent'
+    url: https://www.counterpunch.org/2026/01/09/kidnapping-blues-the-maduro-abduction-precedent/
+    text: 'Once done, it remains, by nature and fact, irreversible. The precedent of
+      indicting and abducting a serving head of state and his spouse, dropping them
+      into the jurisdiction of another country to face criminal charges of inventive
+      pedigree (narcoterrorism foremost among them), is the stuff of nightmares in international
+      statecraft. With the now former Venezuelan President Nicolás Maduro and his wife
+      Cilia Flores facing such charges in New York, other world leaders are doubtless
+      feeling a prevailing gloom. Is there anything stopping US President Donald Trump
+      from deploying the US military and law enforcement agents from nabbing the next
+      sitting leader in the middle of the night? Even more broadly, is there anything
+      stopping other States from doing the same?
+
+
+      This is something that has excited discussion in various political quarters, notably
+      in East and Southeast Asia. Regarding the sullen, fleshy North Korean despot,
+      Kim Jong-Un, the question is a pressing one. Certain lawmakers certainly think
+      so. South Korean Rep. Lee Jun-seok, leader of the Reform Party, noted the brazen
+      indifference the Trump administration had taken to renaming Maduro as a “leader
+      of a transnational crime ring” instead of accepting him as a legitimate head of
+      state. “The logic applied to President Maduro could also be applied to the North
+      Korean leader,” reasoned Lee on Facebook. The US Justice Department had, after
+      all, indicted North Korean hackers in 2021, using rather hyperbolic language in
+      describing them as the “world’s leading bank robbers”.
+
+
+      The former mayor of Daegu, Hong Joon-pyo, was similarly confident that the North
+      Korean leader “must have been startled by this.” Here, we were witnessing “a return
+      to the logic of power and the era of imperialism”. That said, the tendency of
+      brutish US power to apprehend and dispose of sovereign heads of state, was not
+      spanking, new exercise. “There was the invasion of Panama in 1989, the arrest
+      of [Manuel] Noriega in 1990, and the United States has also played the role of
+      world’s police in events such as the case of Chile [the overthrow of the Allende
+      government in 1973] and the execution of [Saddam] Hussein.” A truly sterling record.
+
+
+      Kim Dong-yub of the University of North Korean Studies also considered the Maduro
+      precedent “deeply concerning” for Pyongyang, offering the following, tormented
+      formulation: “When an adversary believes decapitation can arrive without warning,
+      under the guise of policing or asset recovery, the rational response is to automate
+      retaliation and compress decision time.” Leaving aside the torturous prose, the
+      nervousness at the prospect of such a fate inflicted by so fickle a world leader
+      is bound to be palpable.
+
+
+      The North Korean leader, for his part, responded to the events in Venezuela with
+      military drills involving the firing of two hypersonic missiles into the Sea of
+      Japan. The activity in question was, according to him, “clearly aimed at gradually
+      putting the nuclear water deterrent on a high-developed basis”. This was “necessary”
+      because of “the recent geopolitical crisis and complicated international events”.
+      Kim also expressed pride in the “important achievements” that had been made in
+      preparing the country’s nuclear forces “for an actual war”.
+
+
+      North Korea’s Foreign Ministry was less oblique in a statement on Maduro’s fate.
+      “The incident is another example that clearly confirms once again the rogue and
+      brutal nature of the US, which the international community has so frequently witnessed
+      for a long time”.
+
+
+      In Southeast Asia, the abduction precedent particularly troubled the Malaysian
+      Prime Minister Anwar Ibrahim. “The leader of Venezuela and his wife were seized
+      in a United States military operation of unusual scope and nature,” he brooded
+      in a social media post. “Such actions constitute a clear violation of international
+      law and amount to an unlawful use of force against a sovereign state.” Irrespective
+      of the reasons behind the move, “the forcible removal of a sitting head of government
+      through external action sets a dangerous precedent”, eroding “fundamental restraints
+      on the use of power between states and weakens the legal framework that underpins
+      international order.”
+
+
+      Malaysia’s neighbour, Indonesia, was similarly troubled by the Maduro precedent.
+      A January 5 statement from the Ministry of Foreign Affairs expressed “grave concern
+      over any actions involving the use or threat of force, which risk setting a dangerous
+      precedent in international relations and could undermine regional stability, peace,
+      and the principles of sovereignty and diplomacy.”
+
+
+      In the Philippines, the official response, given the security ties between Manila
+      and Washington, was less testy. It was left to various lawmakers to state a few
+      troubling truths. Rep. Perci Cendaña of the left-wing Akbayan Party-list sawthe
+      actions of the Trump administration as birds of a feather with the “similar aggressive
+      acts of Russia in Ukraine and China in the West Philippine Sea”.
+
+
+      Mamamayang Liberal Party-list Rep. Leila de Lima considered the operation against
+      Venezuela one of disturbing redux, the US having again morphed “into an aggressor
+      state” and sabotaging the rules-based international system. In doing so, its conduct
+      had normalised the actions of Russia in the ongoing Ukraine War, Chinese expansionist
+      aggression in the South and East China Seas, and Israel’s genocidal policy against
+      the Palestinians. It was time, she opined gravely, to consider her country’s reliance
+      on the US “for moral leadership on the world stage and as an ally for regional
+      security and a rules-based international order.”
+
+
+      With the thuggish Donroe Doctrine running with strapping vigour, and the Trump
+      administration hungering for additional scalps in its name, de Lima’s sentiments,
+      along with those of her colleagues, are hard to fault.'
+    one_sentence_summary: The indictment and abduction of former Venezuelan President
+      Nicolás Maduro and his wife by the U.S. raises significant concerns among global
+      leaders about the dangerous precedent it sets for international relations and
+      the potential for similar actions against other sovereign leaders, particularly
+      in the context of rising tensions with North Korea.
+    paragraph_summary: The recent indictment and abduction of former Venezuelan President
+      Nicolás Maduro and his wife by the U.S. has raised significant alarm among global
+      leaders, as it sets a troubling precedent for international relations and state
+      sovereignty. The event has sparked discussions in East and Southeast Asia, particularly
+      regarding North Korean leader Kim Jong-Un, who may now feel vulnerable to similar
+      actions. Lawmakers in South Korea and Malaysia have expressed concerns that such
+      U.S. actions undermine international law and could lead to a dangerous escalation
+      of power dynamics between states. Meanwhile, North Korea has responded with military
+      drills, emphasizing the perceived threat from the U.S. The situation has prompted
+      reflection on the implications of U.S. foreign policy and its impact on global
+      stability, with critics arguing that it normalizes aggressive actions similar
+      to those of other authoritarian regimes.
+    published: '2026-01-09T06:53:11+00:00'
+  - title: 'Venal Reactions: US Allies Validate Maduro’s Abduction'
+    url: https://www.counterpunch.org/2026/01/06/venal-reactions-us-allies-validate-maduros-abduction/
+    text: 'On the surface, abducting a Head of State is a piratical act eschewed by
+      States. A Head of State enjoys absolute immunity from foreign criminal jurisdiction,
+      known as ratione personae, at least till the term of office concludes. The International
+      Court of Justice was clear enough about this principle in the 2002 Arrest Warrant
+      Case, holding that high ranked government officials such as a foreign minister
+      are granted immunity under customary international law to enable the effective
+      performance of their functions “on behalf of their respective States.”
+
+
+      That said, international law has been modified on this score by the jurisdiction
+      of the International Criminal Court, whose founding Rome Statute stipulates that
+      the official standing of a serving Head of State is no exemption from criminal
+      responsibility. The effectiveness of this principle lies in the cooperation of
+      State parties, something distinctly unforthcoming regarding certain serving leaders.
+      (Israeli Prime Minister Benjamin Netanyahu springs to mind.)
+
+
+      US domestic law puts all of this to side with the highwayman logic of the Ker-Frisbie
+      doctrine. Decided in Ker v Illinois in 1886, the decision overlooks the way, lawful
+      or otherwise, a defendant is apprehended, even if outside the jurisdiction. Once
+      American soil is reached, judicial proceedings can commence without challenge.
+      The US Department of Justice has further attempted to puncture ancient notions
+      of diplomatic immunity by recategorizing (how else?) the standing of a leader
+      – in this case Venezuela’s Nicolás Maduro – as nothing more than a narco-terrorist.
+      Maduro was seized, explains US Secretary of State Marco Rubio, as part of a law
+      enforcement operation.
+
+
+      In addition to being a violation of the leadership immunity principle, the January
+      3 kidnapping of Maduro and his wife by US forces was an audacious breach of the
+      sovereignty guarantee under Article 2 of the United Nations Charter. Operation
+      Absolute Resolve involved 150 aircraft, strikes on military infrastructure including
+      surface-to-air missile and communication systems, and various depots. The security
+      fantasists from the White House to the State Department treated Venezuela as not
+      merely a dangerous narco-state but one hosting undesirable foreign elements, but
+      it has never posed a military threat to the US homeland.
+
+
+      In the face of such unalloyed aggression – a crime against peace, if you will
+      – the response from Washington’s allies has been feeble and worse. This is made
+      all the more grotesque for their claims to purity when it comes to defending Western
+      civilisation against the perceived ogres and bogeymen of international relations:
+      Russia and China.
+
+
+      From the United Kingdom, Prime Minister Keir Starmer could not have been clearer
+      about his contempt for the processes of international law. “The UK has long supported
+      a transition of power in Venezuela,” he declared in his January 3 statement. “We
+      regarded Maduro as an illegitimate President and we shed no tears about the end
+      of his regime.” Having given a coating of legitimacy to the banditry of the Trump
+      administration, he could still claim to “support” international law. His government
+      would “discuss the evolving situation with US counterparts in the days ahead as
+      we seek a safe and peaceful transition to a legitimate government that reflects
+      the will of the Venezuelan people.” Certainly, judging from this, the will of
+      President Donald Trump.
+
+
+      An official statement from the European Union released by its high representative,
+      Kaja Kallas, was even more mealy-mouthed: “The EU has repeatedly stated that Nicolás
+      Maduro lacks the legitimacy of a democratically elected president and has advocated
+      for a Venezuelan-led peaceful transition to democracy in the country, respectful
+      of its sovereignty.”
+
+
+      The tactic here involves soiling the subject before paying some false respect
+      for such concepts as democracy and sovereignty. We can do without Maduro, and
+      won’t miss him, but make some modest effort to respect some cardinal virtues when
+      disposing of him. All those involved should show “restraint […] to avoid escalation
+      and to ensure a peaceful resolution of the crisis.”
+
+
+      The arrogance of this position is underlined by the concession to diplomacy’s
+      importance and the role of dialogue, when there has been no dialogue or diplomacy
+      to speak of. “We are in close contact with the United States, as well as regional
+      and international partners to support and facilitate dialogue with all parties
+      involved, leading to a negotiated, democratic, inclusive and peaceful resolution
+      to the crisis, led by Venezuelans.”
+
+
+      From the Canadian Minister for Foreign Affairs, Anita Anand, there was not a whisper
+      of Maduro’s abduction, or the US breach of the UN Charter. The phantom conveniently
+      called the Venezuelan People stood as an alibi for lawbreaking, for they had a
+      “desire to live in a peaceful and democratic society.” And there was the familiar
+      call “on all parties to exercise restraint and uphold international law”, marvellous
+      piffle in the face of illegal abductions.
+
+
+      Australian Prime Minister Anthony Albanese did little to improve upon the weak
+      formula in his shabby statement, similarly skipping over the violations of the
+      UN Charter and Maduro’s abduction. “We urge all parties to support dialogue and
+      diplomacy in order to secure regional stability and prevent escalation.” A bland
+      acknowledgement of “the need to respect democratic principles, human rights and
+      fundamental freedoms” is made, along with the risible reference to supporting
+      “international law and a peaceful, democratic transition in Venezuela that reflects
+      the will of the Venezuelan people.”
+
+
+      Who, then, are these idealised people? Presumably these Venezuelans are the vetted
+      ones, sanitised with the seal of approval, untainted by silly notions of revolution
+      and the poverty reduction measures initially implemented by the government of
+      Hugo Chávez. But if EU officials and other states friendly to Washington thought
+      that a Venezuelan appropriately representative of the People’s Will might be the
+      opposition figure and travesty of a Nobel laureate, María Corina Machado, Trump
+      had other ideas. To date the Maduro loyalist Vice President Delcy Rodríguez, has
+      caught his fickle eye. “I think,” he said with blunt machismo, “it would be very
+      tough for [Machado] to be the leader. She doesn’t have the support within or the
+      respect within the country. She’s a very nice woman, but she doesn’t have the
+      respect”. The Venezuelan people’s choice will be, putting democracy and dialogue
+      to one side, the same as Trump’s.'
+    one_sentence_summary: The article critiques the U.S. government's abduction of Venezuelan
+      President Nicolás Maduro, arguing it violates international law and sovereignty
+      principles, while highlighting the inadequate responses from allied nations that
+      claim to uphold democratic values and international norms.
+    paragraph_summary: The article discusses the complexities surrounding the abduction
+      of Venezuelan President Nicolás Maduro by U.S. forces, highlighting the tension
+      between international law and U.S. domestic law. It notes that while international
+      law grants heads of state immunity from foreign criminal jurisdiction, the International
+      Criminal Court's Rome Statute allows for exceptions, though cooperation from state
+      parties is often lacking. The U.S. has employed the Ker-Frisbie doctrine, which
+      permits judicial proceedings regardless of how a defendant is apprehended, to
+      justify Maduro's capture, branding him a narco-terrorist. The operation is criticized
+      as a violation of Venezuela's sovereignty and a breach of the UN Charter, with
+      international responses from allies like the UK, EU, Canada, and Australia being
+      described as weak and hypocritical, as they call for respect for democracy and
+      sovereignty while tacitly supporting U.S. actions. The article underscores the
+      contradiction in advocating for a peaceful transition in Venezuela while ignoring
+      the illegal means employed to achieve it, suggesting that the notion of the "Venezuelan
+      people" is manipulated to serve political agendas.
+    published: '2026-01-06T06:52:59+00:00'
+  - title: 'Secessionist Pantomime: Israel Recognises Somaliland'
+    url: https://www.counterpunch.org/2026/01/05/secessionist-pantomime-israel-recognises-somaliland/
+    text: 'For a country so upset about recognition being afforded peoples under their
+      thumb and control, the Israelis have decided to get into the state recognition
+      business with festive aplomb. Africa’s Somaliland presented itself as a suitable
+      candidate, an entity that remains part of Somalia but has asserted its own autonomy
+      since 1991.
+
+
+      Israel’s recognition on December 26 of that entity had a vengeful sting to it.
+      With a majority of UN Member States recognising the rubble and rump of a State
+      of Palestine, despite arguments by the Netanyahu government that this was a reward
+      for terrorism, the Israelis have clearly decided to turn the matter on its head.
+
+
+      Israel’s deputy ambassador to the United Nations, Jonathan Miller, captured the
+      moment by saying that the recognition of Somaliland was not a “hostile step toward
+      Somalia” when it evidently was, and did not “preclude future dialogue between
+      the parties”, as well as it might. The salesman in Miller seemed to come through.
+      “Recognition is not an act of defiance. It is an opportunity.”
+
+
+      Israeli Prime Minister Benjamin Netanyahu shamelessly plagiarised the lingo and
+      language kit of those Member States of the UN who dared treat the Palestinians
+      as a national group worthy of acknowledged sovereignty. In a call with Somaliland
+      President Abdirhaman Mohamed Abdullahi on December 26, Netanyahu stressed the
+      importance of Somaliland’s “right to self-determination” in recognising it.
+
+
+      In a paper published in November 2025 by the Israeli-based Institute for National
+      Security Studies, Asher Lubotzky recommended that Israel, along with its sympathisers
+      in Washington, push the United States towards recognition. While falling short
+      of endorsing the recognition gambit, the paper notes the value of the territory
+      in terms of offering “an operational area” for Israeli military operations. Israel
+      required allies in the Red Sea area for various reasons, “among them the possibility
+      of a future campaign against the Houthis.” There were also economic and reputational
+      issues for Israel to advance, “given the minerals located in Somaliland and Israel’s
+      interest in cultivating relationships with Muslim populations in the region.”
+
+
+      The prattle about Somaliland’s sound credentials is evident in the world of think
+      tanking. The Australian Strategic Policy Institute can be found making the point
+      through a Somilander Australian, Abdi Daud, who writes of the territory as having
+      “consistent peaceful democratic government over the past two decades”. While “imperfect”,
+      this made Somaliland “a role model for the global south.” Recognising it would
+      fill the “diplomatic and strategic vacuum” all too ripe for exploitation by Yemen’s
+      Houthis, “terrorist organisations, China and other authoritarian regimes.” Daud
+      evidently fails to appreciate that Somaliland’s recognition can just as well create
+      a situation inspiring secessionist and separatist movements across the African
+      continent.
+
+
+      Opposition to the recognition of Somaliland came in a stern joint statement by
+      21 Arab, Islamic and African nations made on December 27, 2025. The move would
+      have “serious repercussions of such unprecedented measure on peace and security
+      in the Horn of Africa, the Red Sea” and have “serious effects on international
+      peace and security as a whole, which also reflects Israel’s full and blatant disregard
+      for international law.” To recognise “parts of states constitutes a serious precedent
+      and threatens international peace and security, and violates the cardinal principles
+      of international law and the United Nations Charter.”
+
+
+      Looming darkly in the motives behind Israeli foreign policy was the possibility
+      that something far more sinister was afoot. The joint statement finishes with
+      “a full rejection between such measure and any attempts to forcibly expel the
+      Palestinian people out of their land, which is unequivocally rejected in any form
+      as a matter of principle.”
+
+
+      This was certainly the view of the Malaysian Prime Minister Anwar Ibrahim. Speaking
+      at a special press conference held on December 30, 2025, Anwar declared that such
+      actions would “violate international law and humanitarian principles, and would
+      only perpetuate injustice rather than contribute to peace”. Using Somaliland “for
+      the forced transfer of Palestinians is totally and wholly unacceptable.”
+
+
+      This concern is far from unreasonable: a number of news outlets reported in November
+      that Israeli feelers had been put out to Somaliland on the possibility of relocating
+      Palestinians. This chilling arrangement has many of the hallmarks of those debates
+      from the 1930s on where Jews made stateless by Nazi Germany might eventually be
+      sent.
+
+
+      The Somaliland Foreign Ministry is playing dumb on the issue of becoming a dumping
+      ground for Palestinians, effectively turning into a client state for Israeli interests.
+      In a statement, it rejected “the false claims by Somalia’s president about resettling
+      Palestinians or establishing military bases in Somaliland.” The relationship with
+      Israel was of a diplomatic nature and cognisant of international law. “These accusations,”
+      the ministry huffed, “are designed to mislead the international community and
+      undermine Somaliland’s diplomatic progress.” As if giving the game away, the diplomatic
+      arm affirmed its commitment “to regional stability, and peaceful international
+      cooperation.”
+
+
+      Support for Israel’s chess play by member states has been skimpy, though any worthwhile
+      mention was bound to come from Washington. The United States, showing itself to
+      be utterly muddled in its entanglement with its ally, decided to treat recognition
+      as a parlour game show. Tammy Bruce, US deputy ambassador to the United Nations,
+      summed up the cheap mood in her address during an emergency session of the UN
+      Security Council: “Earlier this year, several countries, including members of
+      this Council, made a unilateral decision to recognise a non-existent Palestinian
+      state, and yet no emergency meeting was called to express this Council’s outrage”.
+      The merits of international law, in the current cut and thrust of statecraft,
+      remains increasingly in the jaundiced eyes of the beholder.'
+    one_sentence_summary: Israel's recent recognition of Somaliland, a self-declared
+      autonomous region of Somalia, has sparked controversy and criticism from various
+      nations, as it is seen as a strategic move that undermines international law and
+      may be linked to attempts to displace Palestinians.
+    paragraph_summary: Israel's recent recognition of Somaliland, a self-declared autonomous
+      region of Somalia, has sparked controversy and criticism, particularly in light
+      of the ongoing Palestinian issue. On December 26, 2025, Israeli Prime Minister
+      Benjamin Netanyahu emphasized Somaliland's "right to self-determination," framing
+      the recognition as an opportunity rather than a hostile act towards Somalia. This
+      move appears to be a strategic counter to the international recognition of Palestine,
+      which Israel's government has condemned as a reward for terrorism. Critics, including
+      21 Arab, Islamic, and African nations, argue that this recognition undermines
+      international law and could inspire separatist movements across Africa. Concerns
+      have also been raised about potential Israeli plans to relocate Palestinians to
+      Somaliland, echoing dark historical precedents. Despite Somaliland's Foreign Ministry
+      denying such claims, the situation reflects broader geopolitical tensions and
+      the complexities of international diplomacy, with the U.S. response being notably
+      ambiguous.
+    published: '2026-01-05T06:52:12+00:00'
   - title: 'The Don-roe Doctrine in Action: Trump’s Gangster Intervention in Venezuela'
     url: https://www.counterpunch.org/2026/01/03/the-don-roe-doctrine-in-action-trumps-gangster-intervention-in-venezuela/
     text: 'It has been an accusation long levelled at certain US politicians that their

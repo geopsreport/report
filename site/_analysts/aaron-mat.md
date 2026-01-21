@@ -7,14 +7,58 @@ description: "Journalist and producer; covers US foreign policy, Russiagate, and
 websites:
   - https://www.aaronmate.net/
 summary: |
-  The global geopolitical landscape remains tense as the fallout from recent US interventions and ongoing conflicts continues to shape international relations. The most significant new development is the US military operation in Venezuela, where President Trump has openly justified the kidnapping of President Nicolás Maduro by invoking the Monroe Doctrine. As **Aaron Maté** reports, Trump’s rhetoric frames the intervention as a bid to secure Venezuela’s oil resources, drawing parallels to mafia-style tactics of dominance and material acquisition. This move has further destabilized the region and has been widely condemned by international observers, who see it as a blatant act of imperialism.
+  The global geopolitical landscape remains tense as US foreign policy under President Trump continues to drive instability across multiple regions. The administration’s actions in the Middle East and Latin America, as well as its approach to the Ukraine conflict, have drawn widespread criticism and raised questions about future escalation.
   
-  Meanwhile, the situation in Ukraine remains unresolved. President Zelensky has reiterated his refusal to cede the Donbas region to Russia, despite the fact that most of its population is now under Russian control. However, he has floated the idea of a national referendum on the region’s future, signaling a potential shift in strategy. According to **Aaron Maté**, this reflects the deepening complexities of the conflict and the limited leverage Kyiv retains. Trump’s earlier peace plan for Ukraine continues to face stiff resistance in Washington and among European allies, with bipartisan opposition undermining any progress toward a negotiated settlement.
+  Most recently, President Trump has escalated threats of military action against Iran, despite his earlier campaign promises to avoid new interventions. **Aaron Maté** notes that while Trump’s rhetoric targets the Iranian government, the ongoing US sanctions have inflicted severe hardship on ordinary Iranians, with no sign of relief. The dual approach—threatening force while maintaining economic pressure—has, according to Maté, “offered Iranians far more pain” rather than any meaningful support or pathway to de-escalation.
   
-  In the Middle East, the ceasefire in Gaza brokered by the Trump administration has failed to address the root causes of the conflict. Israeli attacks and restrictions on aid persist, and the UN’s recent demands for Hamas disarmament have not been matched by guarantees of Palestinian self-determination. **Basem Naim**, a Hamas negotiator, highlighted in an interview with Maté that the ceasefire terms amount to little more than a demand for Palestinian surrender, with no meaningful concessions on occupation or political rights.
+  In Latin America, the US military’s intervention in Venezuela and the abduction of President Nicolás Maduro have heightened regional tensions. Trump’s justification, invoking the Monroe Doctrine and emphasizing control over Venezuela’s oil, has been described by **Aaron Maté** as reminiscent of “a Mafia Don seeking material wealth through violence and intimidation.” This move has further isolated the US diplomatically in the region and is likely to fuel anti-American sentiment among Latin American governments.
   
-  Looking ahead, the majority of analysts agree that US actions in Venezuela are likely to provoke further instability in Latin America, with a high chance of increased anti-US sentiment and regional backlash. In Ukraine, the prospect of a national vote on Donbas is quite likely to be used as a political tool, but the conflict’s underlying dynamics remain unchanged. In Gaza, there is a high chance that the ceasefire will remain fragile, with continued violations and no progress toward a lasting resolution. I guarantee that unless there is a fundamental shift in US and Israeli policy, the core issues driving these conflicts will persist.
+  Meanwhile, the Israeli-Palestinian conflict remains unresolved despite a Trump-brokered ceasefire in Gaza. The agreement, while halting some violence, has not addressed core issues such as Israeli occupation and Palestinian self-determination. Reports of ongoing Israeli attacks and restrictions on aid deliveries suggest the ceasefire’s terms are already being violated. According to **Basem Naim**, a Hamas negotiator interviewed by Maté, the international community’s demands for Hamas disarmament, without guarantees for Palestinian rights, have only erected new barriers to peace.
+  
+  Looking ahead, these developments point to a period of sustained instability. There is a high chance that US-Iran tensions will persist, with the risk of military confrontation remaining elevated unless there is a significant policy shift in Washington. In Venezuela, the US intervention is most definitely expected to provoke further resistance and regional backlash. The Israeli-Palestinian situation is likely to remain deadlocked, with little progress toward a durable solution as long as underlying grievances are unaddressed. The prevailing trend is one of hardline US policies exacerbating crises rather than resolving them, a pattern that shows no immediate signs of reversal.
 articles:
+  - title: Trump’s “help” offers Iranians far more pain
+    url: https://www.aaronmate.net/p/trumps-help-offers-iranians-far-more
+    text: '(Photo by Fatemeh Bahrami/Anadolu via Getty Images) After campaigning as
+      a foe of US military interventions and regime change, particularly in the Middle
+      East, President Trump is now threatening to bomb Iran for the second time in less
+      than one year. In public comments this week, President Trump has encouraged Iranian
+      protesters to take over government buildings and assured them that “help is on
+      its way” in the form of “strong action.” Whatever Trump decides—and whatever one
+      thinks of the Iranian government—one certainty remains: he will not offer Iranians
+      the most tangible help he could by ending the crippling sanctions that cause extreme
+      hardship. Read more'
+    one_sentence_summary: Despite campaigning against US military interventions, President
+      Trump is now threatening military action against Iran while simultaneously failing
+      to alleviate the hardships caused by sanctions on the Iranian people.
+    paragraph_summary: Despite campaigning against U.S. military interventions and regime
+      change, President Trump is now threatening to bomb Iran for the second time in
+      under a year, while publicly encouraging Iranian protesters to seize government
+      buildings and promising "strong action" to support them. However, critics argue
+      that the most effective assistance he could provide would be to lift the severe
+      sanctions that are causing significant hardship for the Iranian people.
+    published: '2026-01-14T20:34:55+00:00'
+  - title: Trump’s “help” offers Iranians far more pain
+    url: https://www.aaronmate.net/p/trumps-help-offers-iranians-far-more
+    text: '(Photo by Fatemeh Bahrami/Anadolu via Getty Images) After campaigning as
+      a foe of US military interventions and regime change, particularly in the Middle
+      East, President Trump is now threatening to bomb Iran for the second time in less
+      than one year. In public comments this week, President Trump has encouraged Iranian
+      protesters to take over government buildings and assured them that “help is on
+      its way” in the form of “strong action.” Whatever Trump decides—and whatever one
+      thinks of the Iranian government—one certainty remains: he will not offer Iranians
+      the most tangible help he could by ending the crippling sanctions that cause extreme
+      hardship. Read more'
+    one_sentence_summary: Despite campaigning against US military interventions, President
+      Trump is now threatening military action against Iran while simultaneously failing
+      to alleviate the hardships caused by sanctions on the Iranian people.
+    paragraph_summary: Despite campaigning against U.S. military interventions and regime
+      change, President Trump is now threatening to bomb Iran for the second time in
+      under a year, while publicly encouraging Iranian protesters to seize government
+      buildings and promising "strong action" to support them. However, critics argue
+      that the most effective assistance he could provide would be to lift the severe
+      sanctions that are causing significant hardship for the Iranian people.
+    published: '2026-01-14T20:34:55+00:00'
   - title: Trump kidnaps Venezuela’s president to steal the country's oil
     url: https://www.aaronmate.net/p/trump-kidnaps-venezuelas-president
     text: '(Photo by Jim WATSON / AFP via Getty Images) In announcing the US military’s

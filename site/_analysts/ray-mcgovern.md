@@ -7,14 +7,607 @@ description: "27-year CIA analyst turned independent; co-founder of Veteran Inte
 websites:
   - https://consortiumnews.com
 summary: |
-  The past 24 hours have seen intensifying scrutiny of U.S. immigration enforcement and growing alarm over civil liberties, as well as renewed focus on the humanitarian crisis surrounding Palestine activism in the UK.
+  Tensions in the Middle East and the Americas continue to escalate, with recent developments highlighting the intensification of U.S.-led hybrid warfare and the shifting focus of international attention.
   
-  In the United States, the actions of Immigration and Customs Enforcement (ICE) have come under legal and public fire. Illinois and Minnesota have filed federal lawsuits against Trump administration officials, alleging that ICE agents have acted "more like occupiers than law enforcement officers." This legal escalation follows a series of high-profile incidents, including the killing of Renee Nicole Good by an ICE agent in Minneapolis, which **Patrick Lawrence** previously described as emblematic of the violent tactics underpinning American power. **Chris Hedges** now warns that the rise of ICE signals a "troubling authoritarian force" reminiscent of historical oppression, urging collective resistance. These developments reflect a broader pattern of what analysts describe as the normalization of state violence and the erosion of democratic norms.
+  The most significant new development comes from the analysis of **Jeffrey Sachs** and **Ray McGovern**, who point to a likely imminent attack on Iran by the U.S. and Israel. The fluctuating rhetoric from Donald Trump—alternating between threats and peace overtures—should be understood as part of a broader hybrid war strategy. This approach, according to McGovern, is designed to keep Iran off balance and justify sudden escalation. Given the pattern of recent statements and military posturing, there is a high chance of direct military action in the near future.
   
-  Meanwhile, in London, the plight of Palestinian hunger striker Kamran Ahmed has drawn international attention. Reporting from **Ray McGovern** highlights Ahmed’s deteriorating health—marked by uncontrollable twitching and fears of heart failure—amidst his protest against UK policy on Palestine. Ahmed’s case underscores the ongoing humanitarian crisis and the perceived indifference of Western governments to Palestinian suffering.
+  Meanwhile, the humanitarian crisis in Gaza continues to dominate headlines, but **Ramzy Baroud** notes that this has led to the violence in the West Bank being largely overlooked. The devastation in Gaza has overshadowed ongoing repression and displacement in the West Bank, with little international scrutiny or intervention. This shift in focus could allow for further escalation in the West Bank without significant global response.
   
-  Looking ahead, the convergence of legal challenges against ICE and the intensification of protest actions both in the U.S. and abroad suggest a period of heightened civil unrest and government pushback. Based on the prevailing analysis, I guarantee that legal and political confrontations over immigration enforcement will escalate in the coming weeks, with a high chance that public demonstrations and international advocacy around Palestine will intensify, further straining U.S. and UK domestic stability.
+  In Latin America, the U.S. bombing of Venezuela and the kidnapping of its president, as reported by **Vijay Prashad**, exemplify what he describes as "hyper-imperialism." Despite growing anti-Western sentiment in the Global South, Prashad argues that these countries have yet to form a substantial or coordinated challenge to U.S. hegemony. The current global order, therefore, remains unipolar, with the U.S. able to act with relative impunity.
+  
+  **Trends and Predictions:**  
+  The majority of analysts agree that the risk of a U.S.-Israeli attack on Iran is at its highest point in years, with McGovern stating there is a "high chance" of imminent escalation. The humanitarian situation in the Palestinian territories is likely to worsen, particularly in the West Bank, as international attention remains fixed on Gaza. In Latin America, U.S. interventions are expected to continue, with little effective resistance from the Global South in the short term.
+  
+  In summary, the coming days are likely to see further destabilization in both the Middle East and Latin America, with the potential for major conflict involving Iran now "quite likely" according to the latest independent analyses.
 articles:
+  - title: 'Jeffrey Sachs: The US-Israel Hybrid War Against Iran'
+    url: https://consortiumnews.com/2026/01/20/jeffrey-sachs-the-us-israel-hybrid-war-against-iran/
+    text: Understanding hybrid war tactics helps to explain why Trump’s rhetoric oscillates
+      between threats of war and phony offers of peace. By Jeffrey D. Sachs and Sybil
+      Fares Common Dreams The question is not if the U.S. and Israel will attack Iran,
+      but when.… Read more →
+    one_sentence_summary: The article discusses how understanding hybrid war tactics
+      clarifies the fluctuating rhetoric of Trump regarding threats and peace offers
+      towards Iran, suggesting that an attack by the U.S. and Israel is likely imminent.
+    paragraph_summary: The article by Jeffrey D. Sachs and Sybil Fares discusses the
+      complexities of hybrid warfare tactics, particularly in the context of U.S. and
+      Israeli relations with Iran. It argues that understanding these tactics sheds
+      light on the fluctuating rhetoric of former President Trump, who alternated between
+      aggressive threats of military action and seemingly insincere peace overtures.
+      The authors suggest that the real issue at hand is not whether an attack on Iran
+      will occur, but rather the timing of such an action, indicating a looming conflict
+      influenced by strategic military and political maneuvers.
+    published: '2026-01-21T01:46:51+00:00'
+  - title: 'Jeffrey Sachs: The US-Israel Hybrid War Against Iran'
+    url: https://consortiumnews.com/2026/01/20/jeffrey-sachs-the-us-israel-hybrid-war-against-iran/
+    text: Understanding hybrid war tactics helps to explain why Trump’s rhetoric oscillates
+      between threats of war and phony offers of peace. By Jeffrey D. Sachs and Sybil
+      Fares Common Dreams The question is not if the U.S. and Israel will attack Iran,
+      but when.… Read more →
+    one_sentence_summary: The article discusses how understanding hybrid war tactics
+      clarifies the fluctuating rhetoric of Trump regarding threats and peace offers
+      towards Iran, suggesting that an attack by the U.S. and Israel is likely imminent.
+    paragraph_summary: The article by Jeffrey D. Sachs and Sybil Fares discusses the
+      complexities of hybrid warfare tactics, particularly in the context of U.S. and
+      Israeli relations with Iran. It argues that understanding these tactics sheds
+      light on the fluctuating rhetoric of former President Trump, who alternated between
+      aggressive threats of military action and seemingly insincere peace overtures.
+      The authors suggest that the real issue at hand is not whether an attack on Iran
+      will occur, but rather the timing of such an action, indicating a looming conflict
+      influenced by strategic military and political maneuvers.
+    published: '2026-01-21T01:46:51+00:00'
+  - title: A War Without Headlines
+    url: https://consortiumnews.com/2026/01/20/a-war-without-headlines/
+    text: The annihilation of Gaza has rendered the violence in the West Bank seemingly
+      secondary in the global imagination, writes Ramzy Baroud. By Ramzy Baroud Common
+      Dreams Shock and awe. The phrase is apt in describing what Israel has done in
+      the occupied… Read more →
+    one_sentence_summary: Ramzy Baroud argues that the devastation in Gaza has overshadowed
+      the violence occurring in the West Bank, shifting global attention away from the
+      latter.
+    paragraph_summary: In his article, Ramzy Baroud discusses how the devastating violence
+      in Gaza has overshadowed the ongoing conflicts in the West Bank, shifting global
+      attention away from the latter. He uses the phrase "shock and awe" to characterize
+      the intense military actions taken by Israel in Gaza, which have drawn significant
+      international scrutiny and concern. Baroud argues that this focus on Gaza has
+      marginalized the violence and struggles occurring in the West Bank, highlighting
+      the need for a broader understanding of the situation in Palestine as a whole.
+    published: '2026-01-20T19:00:37+00:00'
+  - title: A War Without Headlines
+    url: https://consortiumnews.com/2026/01/20/a-war-without-headlines/
+    text: The annihilation of Gaza has rendered the violence in the West Bank seemingly
+      secondary in the global imagination, writes Ramzy Baroud. By Ramzy Baroud Common
+      Dreams Shock and awe. The phrase is apt in describing what Israel has done in
+      the occupied… Read more →
+    one_sentence_summary: Ramzy Baroud argues that the devastation in Gaza has overshadowed
+      the violence occurring in the West Bank, shifting global attention away from the
+      latter.
+    paragraph_summary: In his article, Ramzy Baroud discusses how the devastating violence
+      in Gaza has overshadowed the ongoing conflicts in the West Bank, shifting global
+      attention away from the latter. He uses the phrase "shock and awe" to characterize
+      the intense military actions taken by Israel in Gaza, which have drawn significant
+      international scrutiny and concern. Baroud argues that this focus on Gaza has
+      marginalized the violence and struggles occurring in the West Bank, highlighting
+      the need for a broader understanding of the situation in Palestine as a whole.
+    published: '2026-01-20T19:00:37+00:00'
+  - title: 'Vijay Prashad: Hyper-Imperialism on Hyper-Drive'
+    url: https://consortiumnews.com/2026/01/20/vijay-prashad-hyper-imperialism-on-hyper-drive/
+    text: 'The U.S. bombing of Venezuela and kidnapping of its president showcased the
+      hyper-imperialist stage of the world order. A new mood in the Global South isn’t
+      yet a developed challenge to the collective West. By Vijay Prashad Tricontinental:
+      Institute for Social… Read more →'
+    one_sentence_summary: The U.S. bombing of Venezuela and the kidnapping of its president
+      highlight the extreme imperialism in the current global order, while a rising
+      sentiment in the Global South has not yet formed a substantial challenge to Western
+      dominance.
+    paragraph_summary: The article by Vijay Prashad discusses the recent U.S. military
+      actions against Venezuela, including bombings and the kidnapping of its president,
+      as indicative of a heightened phase of imperialism in the global order. It highlights
+      a shifting sentiment in the Global South, which, while not yet fully organized
+      into a cohesive challenge to Western dominance, reflects a growing resistance
+      to imperialist practices. The piece underscores the complexities of international
+      relations and the evolving dynamics between the Global South and the collective
+      West.
+    published: '2026-01-20T17:00:13+00:00'
+  - title: 'Vijay Prashad: Hyper-Imperialism on Hyper-Drive'
+    url: https://consortiumnews.com/2026/01/20/vijay-prashad-hyper-imperialism-on-hyper-drive/
+    text: 'The U.S. bombing of Venezuela and kidnapping of its president showcased the
+      hyper-imperialist stage of the world order. A new mood in the Global South isn’t
+      yet a developed challenge to the collective West. By Vijay Prashad Tricontinental:
+      Institute for Social… Read more →'
+    one_sentence_summary: The U.S. bombing of Venezuela and the kidnapping of its president
+      highlight the extreme imperialism in the current global order, while a rising
+      sentiment in the Global South has not yet formed a substantial challenge to Western
+      dominance.
+    paragraph_summary: The article by Vijay Prashad discusses the recent U.S. military
+      actions against Venezuela, including bombings and the kidnapping of its president,
+      as indicative of a heightened phase of imperialism in the global order. It highlights
+      a shifting sentiment in the Global South, which, while not yet fully organized
+      into a cohesive challenge to Western dominance, reflects a growing resistance
+      to imperialist practices. The piece underscores the complexities of international
+      relations and the evolving dynamics between the Global South and the collective
+      West.
+    published: '2026-01-20T17:00:13+00:00'
+  - title: 'Hedges Report: Trump’s Gaza ‘Peace’ Plan'
+    url: https://consortiumnews.com/2026/01/19/hedges-report-trumps-gaza-peace-plan/
+    text: Norman Finkelstein says U.N. Resolution 2803 (2025) annuls decades of precedent
+      established under international law on Palestine — erasing its entire legal history.
+      This interview is also available on podcast platforms and Rumble. By Chris Hedges
+      The Chris Hedges Report Lawlessness… Read more →
+    one_sentence_summary: Norman Finkelstein argues that U.N. Resolution 2803 (2025)
+      undermines decades of established international law regarding Palestine, effectively
+      erasing its legal history.
+    paragraph_summary: In an interview, Norman Finkelstein argues that U.N. Resolution
+      2803 (2025) fundamentally undermines decades of established international law
+      regarding Palestine, effectively erasing its legal history. Finkelstein's views
+      highlight concerns about the implications of this resolution for the future of
+      Palestinian rights and sovereignty. The discussion, conducted by Chris Hedges,
+      is also accessible on various podcast platforms and Rumble.
+    published: '2026-01-19T19:00:36+00:00'
+  - title: 'Hedges Report: Trump’s Gaza ‘Peace’ Plan'
+    url: https://consortiumnews.com/2026/01/19/hedges-report-trumps-gaza-peace-plan/
+    text: Norman Finkelstein says U.N. Resolution 2803 (2025) annuls decades of precedent
+      established under international law on Palestine — erasing its entire legal history.
+      This interview is also available on podcast platforms and Rumble. By Chris Hedges
+      The Chris Hedges Report Lawlessness… Read more →
+    one_sentence_summary: Norman Finkelstein argues that U.N. Resolution 2803 (2025)
+      undermines decades of established international law regarding Palestine, effectively
+      erasing its legal history.
+    paragraph_summary: In an interview, Norman Finkelstein argues that U.N. Resolution
+      2803 (2025) fundamentally undermines decades of established international law
+      regarding Palestine, effectively erasing its legal history. Finkelstein's views
+      highlight concerns about the implications of this resolution for the future of
+      Palestinian rights and sovereignty. The discussion, conducted by Chris Hedges,
+      is also accessible on various podcast platforms and Rumble.
+    published: '2026-01-19T19:00:36+00:00'
+  - title: 'WATCH: CN Live! — ‘Minnesota Meltdown’'
+    url: https://consortiumnews.com/2026/01/19/watch-cn-live-minnesota-meltdown/
+    text: F.B.I. whistleblower Coleen Rowley and attorney Marjorie Cohn discuss the
+      legal and political fallout of the ongoing ICE crisis in Minnesota and across
+      the U.S. 8 pm EST Monday. The crisis of ICE has exploded in the U.S. state of…
+      Read more →
+    one_sentence_summary: F.B.I. whistleblower Coleen Rowley and attorney Marjorie Cohn
+      will address the legal and political implications of the ongoing ICE crisis in
+      Minnesota and nationwide during a discussion on Monday at 8 pm EST.
+    paragraph_summary: F.B.I. whistleblower Coleen Rowley and attorney Marjorie Cohn
+      will address the legal and political implications of the ongoing ICE crisis in
+      Minnesota and nationwide during a discussion scheduled for 8 pm EST on Monday.
+      The article highlights the significant challenges and controversies surrounding
+      ICE operations, emphasizing the urgent need for dialogue and potential reforms
+      in response to the crisis.
+    published: '2026-01-19T16:00:33+00:00'
+  - title: 'WATCH: CN Live! — ‘Minnesota Meltdown’'
+    url: https://consortiumnews.com/2026/01/19/watch-cn-live-minnesota-meltdown/
+    text: F.B.I. whistleblower Coleen Rowley and attorney Marjorie Cohn discuss the
+      legal and political fallout of the ongoing ICE crisis in Minnesota and across
+      the U.S. 8 pm EST Monday. The crisis of ICE has exploded in the U.S. state of…
+      Read more →
+    one_sentence_summary: F.B.I. whistleblower Coleen Rowley and attorney Marjorie Cohn
+      will address the legal and political implications of the ongoing ICE crisis in
+      Minnesota and nationwide during a discussion on Monday at 8 pm EST.
+    paragraph_summary: F.B.I. whistleblower Coleen Rowley and attorney Marjorie Cohn
+      will address the legal and political implications of the ongoing ICE crisis in
+      Minnesota and nationwide during a discussion scheduled for 8 pm EST on Monday.
+      The article highlights the significant challenges and controversies surrounding
+      ICE operations, emphasizing the urgent need for dialogue and potential reforms
+      in response to the crisis.
+    published: '2026-01-19T16:00:33+00:00'
+  - title: 'Caitlin Johnstone: Regime Change the US'
+    url: https://consortiumnews.com/2026/01/18/caitlin-johnstone-regime-change-the-us/
+    text: 'Not its fake official elected government: its real government. The oligarchs
+      and government agencies which actually run the thing. By Caitlin Johnstone Caitlin’s
+      Newsletter Reading by Tim Foley I support regime change in the United States.
+      The real kind, not… Read more →'
+    one_sentence_summary: Caitlin Johnstone argues for genuine regime change in the
+      United States, emphasizing the need to address the influence of oligarchs and
+      government agencies that truly control the country, rather than just focusing
+      on the official elected government.
+    paragraph_summary: In her article, Caitlin Johnstone argues for a genuine regime
+      change in the United States, emphasizing that the true power lies not with the
+      elected officials but with the oligarchs and government agencies that effectively
+      control the system. She critiques the notion of a "fake official elected government,"
+      advocating for a transformation that addresses the underlying structures of power
+      rather than merely altering the faces in leadership. Johnstone's perspective calls
+      for a deeper examination of who truly governs and the need for systemic change
+      to achieve real democracy.
+    published: '2026-01-18T10:21:35+00:00'
+  - title: 'Caitlin Johnstone: Regime Change the US'
+    url: https://consortiumnews.com/2026/01/18/caitlin-johnstone-regime-change-the-us/
+    text: 'Not its fake official elected government: its real government. The oligarchs
+      and government agencies which actually run the thing. By Caitlin Johnstone Caitlin’s
+      Newsletter Reading by Tim Foley I support regime change in the United States.
+      The real kind, not… Read more →'
+    one_sentence_summary: Caitlin Johnstone argues for genuine regime change in the
+      United States, emphasizing the need to address the influence of oligarchs and
+      government agencies that truly control the country, rather than just focusing
+      on the official elected government.
+    paragraph_summary: In her article, Caitlin Johnstone argues for a genuine regime
+      change in the United States, emphasizing that the true power lies not with the
+      elected officials but with the oligarchs and government agencies that effectively
+      control the system. She critiques the notion of a "fake official elected government,"
+      advocating for a transformation that addresses the underlying structures of power
+      rather than merely altering the faces in leadership. Johnstone's perspective calls
+      for a deeper examination of who truly governs and the need for systemic change
+      to achieve real democracy.
+    published: '2026-01-18T10:21:35+00:00'
+  - title: Israel Fears It Can’t Defend Against Iran
+    url: https://consortiumnews.com/2026/01/17/israel-fears-it-cant-defend-against-iran/
+    text: Benjamin Netanyahu called Donald Trump to urge him to hold off on bombing
+      Iran because, reports say, Israel feels vulnerable to Iran’s counterattack, writes
+      Joe Lauria.  By Joe Lauria Special to Consortium News Israel is fearful that its
+      air defense… Read more →
+    one_sentence_summary: Benjamin Netanyahu urged Donald Trump to delay military action
+      against Iran due to Israel's concerns about potential retaliatory strikes from
+      Iran.
+    paragraph_summary: In a recent report by Joe Lauria for Consortium News, it is revealed
+      that Israeli Prime Minister Benjamin Netanyahu reached out to former President
+      Donald Trump to advise against launching a military strike on Iran. Israel is
+      reportedly concerned about its vulnerability to potential retaliatory attacks
+      from Iran, particularly in light of its air defense capabilities.
+    published: '2026-01-17T14:54:01+00:00'
+  - title: Israel Fears It Can’t Defend Against Iran
+    url: https://consortiumnews.com/2026/01/17/israel-fears-it-cant-defend-against-iran/
+    text: Benjamin Netanyahu called Donald Trump to urge him to hold off on bombing
+      Iran because, reports say, Israel feels vulnerable to Iran’s counterattack, writes
+      Joe Lauria.  By Joe Lauria Special to Consortium News Israel is fearful that its
+      air defense… Read more →
+    one_sentence_summary: Benjamin Netanyahu urged Donald Trump to delay military action
+      against Iran due to Israel's concerns about potential retaliatory strikes from
+      Iran.
+    paragraph_summary: In a recent report by Joe Lauria for Consortium News, it is revealed
+      that Israeli Prime Minister Benjamin Netanyahu reached out to former President
+      Donald Trump to advise against launching a military strike on Iran. Israel is
+      reportedly concerned about its vulnerability to potential retaliatory attacks
+      from Iran, particularly in light of its air defense capabilities.
+    published: '2026-01-17T14:54:01+00:00'
+  - title: 'WATCH: Premiere of ‘The World This Week’'
+    url: https://consortiumnews.com/2026/01/16/watch-premiere-of-the-world-this-week/
+    text: 'CN Live! is launching a new series, The World This Week. First episode: Saturday,
+      8 pm EST with guest Patrick Lawrence on Iran, Venezuela, Ukraine and Greenland.
+      Host: Joe Lauria Guest: Patrick Lawrence Producer: Cathy Vogan Read more →'
+    one_sentence_summary: CN Live! is debuting a new series called The World This Week,
+      hosted by Joe Lauria, featuring guest Patrick Lawrence to discuss topics including
+      Iran, Venezuela, Ukraine, and Greenland, with the first episode airing Saturday
+      at 8 pm EST.
+    paragraph_summary: CN Live! is debuting a new series titled "The World This Week,"
+      which will air its first episode on Saturday at 8 pm EST. The inaugural episode
+      features guest Patrick Lawrence, who will discuss topics including Iran, Venezuela,
+      Ukraine, and Greenland. The show is hosted by Joe Lauria and produced by Cathy
+      Vogan.
+    published: '2026-01-17T00:23:54+00:00'
+  - title: 'WATCH: Premiere of ‘The World This Week’'
+    url: https://consortiumnews.com/2026/01/16/watch-premiere-of-the-world-this-week/
+    text: 'CN Live! is launching a new series, The World This Week. First episode: Saturday,
+      8 pm EST with guest Patrick Lawrence on Iran, Venezuela, Ukraine and Greenland.
+      Host: Joe Lauria Guest: Patrick Lawrence Producer: Cathy Vogan Read more →'
+    one_sentence_summary: CN Live! is debuting a new series called The World This Week,
+      hosted by Joe Lauria, featuring guest Patrick Lawrence to discuss topics including
+      Iran, Venezuela, Ukraine, and Greenland, with the first episode airing Saturday
+      at 8 pm EST.
+    paragraph_summary: CN Live! is debuting a new series titled "The World This Week,"
+      which will air its first episode on Saturday at 8 pm EST. The inaugural episode
+      features guest Patrick Lawrence, who will discuss topics including Iran, Venezuela,
+      Ukraine, and Greenland. The show is hosted by Joe Lauria and produced by Cathy
+      Vogan.
+    published: '2026-01-17T00:23:54+00:00'
+  - title: 'Jonathan Cook:  A UK Jury’s Right to Defy a Judge'
+    url: https://consortiumnews.com/2026/01/16/jonathan-cook-a-uk-jurys-right-to-defy-a-judge/
+    text: Keir Starmer needs convictions to justify Palestine Action’s proscription
+      as a terrorist group. In the Filton trial, the direct-action group’s barrister
+      explained how jurors pose a vital defence against government tyranny. By Jonathan
+      Cook Jonathan-Cook.net My thanks to Craig Murray,… Read more →
+    one_sentence_summary: Keir Starmer must provide strong evidence to support the classification
+      of Palestine Action as a terrorist group, as highlighted in the Filton trial where
+      the group's barrister emphasized the importance of jurors in protecting against
+      government overreach.
+    paragraph_summary: The article discusses the implications of the proscription of
+      Palestine Action as a terrorist group and the necessity for Keir Starmer to provide
+      strong convictions to justify this designation. During the Filton trial, the group's
+      barrister argued that jurors play a crucial role in safeguarding against government
+      overreach and tyranny. The piece, written by Jonathan Cook, emphasizes the importance
+      of legal protections and the role of direct-action groups in challenging state
+      authority.
+    published: '2026-01-16T18:30:41+00:00'
+  - title: 'Jonathan Cook:  A UK Jury’s Right to Defy a Judge'
+    url: https://consortiumnews.com/2026/01/16/jonathan-cook-a-uk-jurys-right-to-defy-a-judge/
+    text: Keir Starmer needs convictions to justify Palestine Action’s proscription
+      as a terrorist group. In the Filton trial, the direct-action group’s barrister
+      explained how jurors pose a vital defence against government tyranny. By Jonathan
+      Cook Jonathan-Cook.net My thanks to Craig Murray,… Read more →
+    one_sentence_summary: Keir Starmer must provide strong evidence to support the classification
+      of Palestine Action as a terrorist group, as highlighted in the Filton trial where
+      the group's barrister emphasized the importance of jurors in protecting against
+      government overreach.
+    paragraph_summary: The article discusses the implications of the proscription of
+      Palestine Action as a terrorist group and the necessity for Keir Starmer to provide
+      strong convictions to justify this designation. During the Filton trial, the group's
+      barrister argued that jurors play a crucial role in safeguarding against government
+      overreach and tyranny. The piece, written by Jonathan Cook, emphasizes the importance
+      of legal protections and the role of direct-action groups in challenging state
+      authority.
+    published: '2026-01-16T18:30:41+00:00'
+  - title: 'JOHN KIRIAKOU: Unabated US Prisoner Abuse'
+    url: https://consortiumnews.com/2026/01/16/john-kiriakou-unabated-us-prisoner-abuse/
+    text: Guards are leaving federal inmates in restraints for hours and even, in dozens
+      of cases, as long as a week. That’s just the latest finding on abuses pervading
+      the system.   By John Kiriakou Special to Consortium News I’m a… Read more →
+    one_sentence_summary: Federal inmates are being left in restraints for extended
+      periods, sometimes up to a week, highlighting ongoing abuses within the correctional
+      system.
+    paragraph_summary: The article by John Kiriakou highlights alarming practices within
+      the federal prison system, where guards are reportedly leaving inmates in restraints
+      for extended periods, sometimes lasting up to a week. This troubling trend is
+      part of a broader pattern of abuse within the correctional system, raising serious
+      concerns about the treatment of inmates and the conditions they endure.
+    published: '2026-01-16T17:00:19+00:00'
+  - title: 'JOHN KIRIAKOU: Unabated US Prisoner Abuse'
+    url: https://consortiumnews.com/2026/01/16/john-kiriakou-unabated-us-prisoner-abuse/
+    text: Guards are leaving federal inmates in restraints for hours and even, in dozens
+      of cases, as long as a week. That’s just the latest finding on abuses pervading
+      the system.   By John Kiriakou Special to Consortium News I’m a… Read more →
+    one_sentence_summary: Federal inmates are being left in restraints for extended
+      periods, sometimes up to a week, highlighting ongoing abuses within the correctional
+      system.
+    paragraph_summary: The article by John Kiriakou highlights alarming practices within
+      the federal prison system, where guards are reportedly leaving inmates in restraints
+      for extended periods, sometimes lasting up to a week. This troubling trend is
+      part of a broader pattern of abuse within the correctional system, raising serious
+      concerns about the treatment of inmates and the conditions they endure.
+    published: '2026-01-16T17:00:19+00:00'
+  - title: 'Caitlin Johnstone: Just Read Lindsey Graham’s Face'
+    url: https://consortiumnews.com/2026/01/16/caitlin-johnstone-just-read-lindsey-grahams-face/
+    text: Lindsey Graham’s long face is encouraging. Maybe war with Iran really has
+      been put off for the time being. By Caitlin Johnstone Caitlin’s Newsletter Reading
+      by Tim Foley You can always tell how murderous the U.S. empire is being from…
+      Read more →
+    one_sentence_summary: Caitlin Johnstone suggests that Lindsey Graham's demeanor
+      indicates a temporary reprieve from potential war with Iran, reflecting on the
+      U.S. empire's violent tendencies.
+    paragraph_summary: In her article, Caitlin Johnstone reflects on the current geopolitical
+      climate, suggesting that the demeanor of Senator Lindsey Graham indicates a temporary
+      reprieve from potential conflict with Iran. She implies that the U.S. empire's
+      aggressive tendencies can often be gauged by the expressions and statements of
+      its political figures, and Graham's seemingly less belligerent stance may signal
+      a pause in warlike intentions towards Iran for now.
+    published: '2026-01-16T11:05:39+00:00'
+  - title: 'Caitlin Johnstone: Just Read Lindsey Graham’s Face'
+    url: https://consortiumnews.com/2026/01/16/caitlin-johnstone-just-read-lindsey-grahams-face/
+    text: Lindsey Graham’s long face is encouraging. Maybe war with Iran really has
+      been put off for the time being. By Caitlin Johnstone Caitlin’s Newsletter Reading
+      by Tim Foley You can always tell how murderous the U.S. empire is being from…
+      Read more →
+    one_sentence_summary: Caitlin Johnstone suggests that Lindsey Graham's demeanor
+      indicates a temporary reprieve from potential war with Iran, reflecting on the
+      U.S. empire's violent tendencies.
+    paragraph_summary: In her article, Caitlin Johnstone reflects on the current geopolitical
+      climate, suggesting that the demeanor of Senator Lindsey Graham indicates a temporary
+      reprieve from potential conflict with Iran. She implies that the U.S. empire's
+      aggressive tendencies can often be gauged by the expressions and statements of
+      its political figures, and Graham's seemingly less belligerent stance may signal
+      a pause in warlike intentions towards Iran for now.
+    published: '2026-01-16T11:05:39+00:00'
+  - title: Russia Blasts US at UN Security Council Over Iran
+    url: https://consortiumnews.com/2026/01/16/russia-blasts-us-at-un-security-council-on-iran/
+    text: 'WATCH: Russia blasted the U.S. for running a “regime change” operation in
+      Iran, while the Iranian envoy said “any act of aggression, direct or indirect,
+      will be met with a decisive, proportionate, and lawful response.” By Joe Lauria
+      Special to… Read more →'
+    one_sentence_summary: Russia condemned the U.S. for allegedly attempting regime
+      change in Iran, while the Iranian envoy warned that any form of aggression would
+      be met with a strong and lawful response.
+    paragraph_summary: In a recent development, Russia criticized the United States
+      for allegedly orchestrating a "regime change" operation in Iran. In response,
+      the Iranian envoy warned that any form of aggression, whether direct or indirect,
+      would be met with a decisive, proportionate, and lawful reaction. This exchange
+      highlights the escalating tensions between the U.S., Russia, and Iran, as geopolitical
+      dynamics continue to evolve in the region.
+    published: '2026-01-16T09:42:28+00:00'
+  - title: Russia Blasts US at UN Security Council Over Iran
+    url: https://consortiumnews.com/2026/01/16/russia-blasts-us-at-un-security-council-on-iran/
+    text: 'WATCH: Russia blasted the U.S. for running a “regime change” operation in
+      Iran, while the Iranian envoy said “any act of aggression, direct or indirect,
+      will be met with a decisive, proportionate, and lawful response.” By Joe Lauria
+      Special to… Read more →'
+    one_sentence_summary: Russia condemned the U.S. for allegedly attempting regime
+      change in Iran, while the Iranian envoy warned that any form of aggression would
+      be met with a strong and lawful response.
+    paragraph_summary: In a recent development, Russia criticized the United States
+      for allegedly orchestrating a "regime change" operation in Iran. In response,
+      the Iranian envoy warned that any form of aggression, whether direct or indirect,
+      would be met with a decisive, proportionate, and lawful reaction. This exchange
+      highlights the escalating tensions between the U.S., Russia, and Iran, as geopolitical
+      dynamics continue to evolve in the region.
+    published: '2026-01-16T09:42:28+00:00'
+  - title: Chopping Down Laws
+    url: https://consortiumnews.com/2026/01/15/chopping-down-laws/
+    text: Trump rejects the obligation to execute his job faithfully, writes Andrew
+      P. Napolitano. His loyalty is to himself, not to the words or the values underlying
+      the U.S. Constitution. By Andrew P. Napolitano In a scene in Robert Bolt’s famous…
+      Read more →
+    one_sentence_summary: Andrew P. Napolitano argues that Trump prioritizes his own
+      interests over his constitutional duties, demonstrating a lack of commitment to
+      faithfully executing his responsibilities as president.
+    paragraph_summary: In his article, Andrew P. Napolitano argues that Donald Trump
+      prioritizes his own interests over his duty to uphold the U.S. Constitution, suggesting
+      that his loyalty lies with himself rather than the principles and values that
+      the Constitution embodies. Napolitano draws parallels to a scene from Robert Bolt's
+      work to illustrate Trump's rejection of the responsibility to faithfully execute
+      his presidential duties.
+    published: '2026-01-15T19:00:43+00:00'
+  - title: Chopping Down Laws
+    url: https://consortiumnews.com/2026/01/15/chopping-down-laws/
+    text: Trump rejects the obligation to execute his job faithfully, writes Andrew
+      P. Napolitano. His loyalty is to himself, not to the words or the values underlying
+      the U.S. Constitution. By Andrew P. Napolitano In a scene in Robert Bolt’s famous…
+      Read more →
+    one_sentence_summary: Andrew P. Napolitano argues that Trump prioritizes his own
+      interests over his constitutional duties, demonstrating a lack of commitment to
+      faithfully executing his responsibilities as president.
+    paragraph_summary: In his article, Andrew P. Napolitano argues that Donald Trump
+      prioritizes his own interests over his duty to uphold the U.S. Constitution, suggesting
+      that his loyalty lies with himself rather than the principles and values that
+      the Constitution embodies. Napolitano draws parallels to a scene from Robert Bolt's
+      work to illustrate Trump's rejection of the responsibility to faithfully execute
+      his presidential duties.
+    published: '2026-01-15T19:00:43+00:00'
+  - title: 'Craig Murray: A Step Towards Sanity'
+    url: https://consortiumnews.com/2026/01/15/craig-murray-a-step-towards-sanity/
+    text: The judge in a preliminary hearing in Edinburgh on permission for a judicial
+      review of the proscription of Palestine Action promised to give a decision this
+      week if possible, or soon. As British police enforce the U.K. Terrorism Act by…
+      Read more →
+    one_sentence_summary: A judge in Edinburgh is expected to rule soon on a judicial
+      review regarding the proscription of Palestine Action under the U.K. Terrorism
+      Act.
+    paragraph_summary: In a preliminary hearing in Edinburgh regarding a judicial review
+      of the proscription of Palestine Action, the judge indicated that a decision would
+      be made within the week, if feasible, or shortly thereafter. This comes as British
+      police are actively enforcing the U.K. Terrorism Act in relation to the group's
+      activities.
+    published: '2026-01-15T17:00:20+00:00'
+  - title: 'Craig Murray: A Step Towards Sanity'
+    url: https://consortiumnews.com/2026/01/15/craig-murray-a-step-towards-sanity/
+    text: The judge in a preliminary hearing in Edinburgh on permission for a judicial
+      review of the proscription of Palestine Action promised to give a decision this
+      week if possible, or soon. As British police enforce the U.K. Terrorism Act by…
+      Read more →
+    one_sentence_summary: A judge in Edinburgh is expected to rule soon on a judicial
+      review regarding the proscription of Palestine Action under the U.K. Terrorism
+      Act.
+    paragraph_summary: In a preliminary hearing in Edinburgh regarding a judicial review
+      of the proscription of Palestine Action, the judge indicated that a decision would
+      be made within the week, if feasible, or shortly thereafter. This comes as British
+      police are actively enforcing the U.K. Terrorism Act in relation to the group's
+      activities.
+    published: '2026-01-15T17:00:20+00:00'
+  - title: Australia’s Hate (Free) Speech Bill
+    url: https://consortiumnews.com/2026/01/15/australias-hate-free-speech-bill/
+    text: The bill calls for one to be imprisoned for causing theoretical discomfort
+      in a theoretical person, writes Christina Maas. It removes proof of harm, rewrites
+      fear as legal standard, and shifts the burden of innocence to the accused. By
+      Christina… Read more →
+    one_sentence_summary: The bill proposed by Christina Maas criminalizes causing theoretical
+      discomfort to individuals, eliminating the need for proof of harm and redefining
+      fear as a legal standard while placing the burden of innocence on the accused.
+    paragraph_summary: The article by Christina Maas critiques a proposed bill that
+      seeks to impose imprisonment for causing theoretical discomfort to an imagined
+      individual, arguing that it eliminates the requirement to prove actual harm, redefines
+      fear as a legal standard, and places the burden of proof on the accused rather
+      than the prosecution.
+    published: '2026-01-15T05:01:13+00:00'
+  - title: Australia’s Hate (Free) Speech Bill
+    url: https://consortiumnews.com/2026/01/15/australias-hate-free-speech-bill/
+    text: The bill calls for one to be imprisoned for causing theoretical discomfort
+      in a theoretical person, writes Christina Maas. It removes proof of harm, rewrites
+      fear as legal standard, and shifts the burden of innocence to the accused. By
+      Christina… Read more →
+    one_sentence_summary: The bill proposed by Christina Maas criminalizes causing theoretical
+      discomfort to individuals, eliminating the need for proof of harm and redefining
+      fear as a legal standard while placing the burden of innocence on the accused.
+    paragraph_summary: The article by Christina Maas critiques a proposed bill that
+      seeks to impose imprisonment for causing theoretical discomfort to an imagined
+      individual, arguing that it eliminates the requirement to prove actual harm, redefines
+      fear as a legal standard, and places the burden of proof on the accused rather
+      than the prosecution.
+    published: '2026-01-15T05:01:13+00:00'
+  - title: 'Jonathan Cook: Genocide Is No Mistake'
+    url: https://consortiumnews.com/2026/01/14/jonathan-cook-genocide-is-no-mistake/
+    text: A new film about Hind Rajab’s murder points to a deeply sick Israeli society,
+      driven into the darkest of places by a racist ideology that says Jewish lives
+      count, Palestinian lives don’t. By Jonathan Cook Jonathan-Cook.net The Voice of
+      Hind… Read more →
+    one_sentence_summary: A new film about Hind Rajab's murder highlights the troubling
+      impact of a racist ideology in Israeli society that devalues Palestinian lives
+      compared to Jewish lives.
+    paragraph_summary: The article discusses a new film that explores the murder of
+      Hind Rajab, highlighting the troubling aspects of Israeli society that are influenced
+      by a pervasive racist ideology. This ideology suggests that Jewish lives are valued
+      more than Palestinian lives, reflecting a broader societal sickness. The film
+      serves as a critique of this mindset, aiming to shed light on the injustices faced
+      by Palestinians and the moral implications of such a belief system within Israel.
+    published: '2026-01-14T19:00:00+00:00'
+  - title: 'Jonathan Cook: Genocide Is No Mistake'
+    url: https://consortiumnews.com/2026/01/14/jonathan-cook-genocide-is-no-mistake/
+    text: A new film about Hind Rajab’s murder points to a deeply sick Israeli society,
+      driven into the darkest of places by a racist ideology that says Jewish lives
+      count, Palestinian lives don’t. By Jonathan Cook Jonathan-Cook.net The Voice of
+      Hind… Read more →
+    one_sentence_summary: A new film about Hind Rajab's murder highlights the troubling
+      impact of a racist ideology in Israeli society that devalues Palestinian lives
+      compared to Jewish lives.
+    paragraph_summary: The article discusses a new film that explores the murder of
+      Hind Rajab, highlighting the troubling aspects of Israeli society that are influenced
+      by a pervasive racist ideology. This ideology suggests that Jewish lives are valued
+      more than Palestinian lives, reflecting a broader societal sickness. The film
+      serves as a critique of this mindset, aiming to shed light on the injustices faced
+      by Palestinians and the moral implications of such a belief system within Israel.
+    published: '2026-01-14T19:00:00+00:00'
+  - title: Mock Strategy
+    url: https://consortiumnews.com/2026/01/14/mock-strategy/
+    text: The Trump administration’s NSS represents the sort of hodgepodge you get when
+      nobody oversees and coordinates the document’s drafting. By Michael Brenner The
+      crazy-quilt National Security Strategy (NSS) released some weeks back is a patchwork
+      of declarations of intent, admonitions thrown… Read more →
+    one_sentence_summary: The National Security Strategy (NSS) released by the Trump
+      administration is criticized as a disorganized and incoherent compilation of intentions
+      and warnings due to a lack of oversight in its drafting process.
+    paragraph_summary: The National Security Strategy (NSS) released by the Trump administration
+      is criticized as a disorganized and incoherent document, resulting from a lack
+      of oversight and coordination during its drafting process. Michael Brenner describes
+      it as a "crazy-quilt" of mixed messages, combining various declarations and admonitions
+      without a clear, cohesive strategy, reflecting the chaotic nature of its creation.
+    published: '2026-01-14T17:00:03+00:00'
+  - title: Mock Strategy
+    url: https://consortiumnews.com/2026/01/14/mock-strategy/
+    text: The Trump administration’s NSS represents the sort of hodgepodge you get when
+      nobody oversees and coordinates the document’s drafting. By Michael Brenner The
+      crazy-quilt National Security Strategy (NSS) released some weeks back is a patchwork
+      of declarations of intent, admonitions thrown… Read more →
+    one_sentence_summary: The National Security Strategy (NSS) released by the Trump
+      administration is criticized as a disorganized and incoherent compilation of intentions
+      and warnings due to a lack of oversight in its drafting process.
+    paragraph_summary: The National Security Strategy (NSS) released by the Trump administration
+      is criticized as a disorganized and incoherent document, resulting from a lack
+      of oversight and coordination during its drafting process. Michael Brenner describes
+      it as a "crazy-quilt" of mixed messages, combining various declarations and admonitions
+      without a clear, cohesive strategy, reflecting the chaotic nature of its creation.
+    published: '2026-01-14T17:00:03+00:00'
+  - title: Western Media Whitewashes Deadly Riots in Iran
+    url: https://consortiumnews.com/2026/01/14/western-media-whitewashes-deadly-riots-in-iran/
+    text: As protesters burn Iranian cities, Western media ignores the shocking wave
+      of violence, relying on U.S.-funded NGOs for data. The one-sided portrayal has
+      helped push Trump to the brink of renewed U.S. attacks. By Max Blumenthal and
+      Wyatt Reed The Grayzone… Read more →
+    one_sentence_summary: The article critiques Western media for neglecting the violent
+      protests in Iran and relying on U.S.-funded NGOs for information, suggesting this
+      biased coverage has influenced Trump's stance towards potential military action.
+    paragraph_summary: The article by Max Blumenthal and Wyatt Reed in The Grayzone
+      critiques Western media for its biased coverage of the violent protests in Iran,
+      suggesting that it often relies on data from U.S.-funded NGOs, which may distort
+      the reality on the ground. This one-sided narrative, they argue, has contributed
+      to escalating tensions and pushed former President Trump closer to considering
+      renewed military action against Iran. The authors emphasize the need for a more
+      nuanced understanding of the situation, highlighting the media's role in shaping
+      public perception and policy decisions.
+    published: '2026-01-14T05:30:23+00:00'
+  - title: Western Media Whitewashes Deadly Riots in Iran
+    url: https://consortiumnews.com/2026/01/14/western-media-whitewashes-deadly-riots-in-iran/
+    text: As protesters burn Iranian cities, Western media ignores the shocking wave
+      of violence, relying on U.S.-funded NGOs for data. The one-sided portrayal has
+      helped push Trump to the brink of renewed U.S. attacks. By Max Blumenthal and
+      Wyatt Reed The Grayzone… Read more →
+    one_sentence_summary: The article critiques Western media for neglecting the violent
+      protests in Iran and relying on U.S.-funded NGOs for information, suggesting this
+      biased coverage has influenced Trump's stance towards potential military action.
+    paragraph_summary: The article by Max Blumenthal and Wyatt Reed in The Grayzone
+      critiques Western media for its biased coverage of the violent protests in Iran,
+      suggesting that it often relies on data from U.S.-funded NGOs, which may distort
+      the reality on the ground. This one-sided narrative, they argue, has contributed
+      to escalating tensions and pushed former President Trump closer to considering
+      renewed military action against Iran. The authors emphasize the need for a more
+      nuanced understanding of the situation, highlighting the media's role in shaping
+      public perception and policy decisions.
+    published: '2026-01-14T05:30:23+00:00'
   - title: 'Chris Hedges: The Machinery of Terror'
     url: https://consortiumnews.com/2026/01/13/chris-hedges-the-machinery-of-terror/
     text: The iron doors have not yet shut but ICE, the Americanized Gestapo, is being

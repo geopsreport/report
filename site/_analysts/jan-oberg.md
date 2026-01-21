@@ -7,16 +7,222 @@ description: "Swedish peace researcher and co–founder of Transnational Foundat
 websites:
   - https://transnational.live/
 summary: |
-  As the international system enters 2026, ongoing crises in peacebuilding, institutional credibility, and freedom of expression continue to shape the geopolitical landscape. The Transnational Foundation for Peace and Future Research (TFF) marks its 40th anniversary amid what **Jan Oberg** describes as “prevailing challenges in politics, research, and media,” highlighting a persistent gap between rhetoric and genuine efforts for peace.
+  The international landscape remains tense as the Trump administration continues to assert its influence globally, prompting renewed calls for nonviolent resistance and alternative strategies. **Jan Oberg** highlights in his latest analysis (January 20, 2026) that the need for a coordinated, global response to U.S. dominance is more urgent than ever, especially with the unveiling of the Trump regime’s new “Idea Portfolios” aimed at countering perceived threats to world stability.
   
-  A notable development concerns the European Union’s recent sanctions against Swiss analyst and former NATO official Jacques Baud. According to **Jan Oberg**, the EU’s move—despite the absence of evidence linking Baud to Russian collaboration—raises “serious concerns about censorship and the implications for freedom of expression.” This incident is emblematic of a broader trend in which security institutions increasingly resort to restrictive measures, often justified by vague or unsubstantiated claims of foreign influence. The majority view among independent analysts is that such actions risk undermining open debate and rational policy discourse, especially as NATO’s public messaging, as seen in recent speeches by its leadership, is criticized for prioritizing ritualistic posturing over substantive analysis.
+  A key development is the push for governments and citizens to actively resist what Oberg describes as “world-threatening designs” of the current U.S. administration. He emphasizes the importance of building credible alternatives to the U.S.-led order, stating that “the time to resist and build is now,” and introducing a series of idea portfolios by TFF (Transnational Foundation for Peace and Future Research) to foster such alternatives.
   
-  Meanwhile, the United Nations faces a deepening financial crisis, with **Oberg** noting that “resources are increasingly diverted to military expenditures.” The delayed contributions from major powers, particularly China, exacerbate the situation, threatening the UN’s operational capacity and its ability to serve as a platform for multilateral conflict resolution. The consensus among observers is that this trend will continue unless there is a significant shift in political priorities among member states.
+  Oberg also draws attention to the Trump administration’s recent “Peace Board” proposal for Gaza, arguing it is less about genuine conflict resolution and more about consolidating U.S. power while undermining the United Nations. He warns that this move is “another brick in [Trump’s] personal Occidental empire,” and calls for urgent international action to prevent further erosion of multilateral institutions.
   
-  Looking ahead, the prospects for genuine peace initiatives remain dim. **Oberg** argues that “true peace in Ukraine cannot be achieved through existing peace plans or military actions,” instead calling for a renewed focus on trust-building and prosperity. Similarly, skepticism persists regarding the authenticity of US-Russian diplomatic efforts, with most analysts doubting the sincerity of current proposals.
+  Looking ahead, Oberg predicts with high confidence that unless there is a significant global mobilization—both at the governmental and grassroots levels—the trend toward unilateralism and exceptionalism will intensify. He asserts, “I guarantee that without coordinated resistance, the Trump regime’s agenda will most definitely continue to reshape the international order in its image.”
   
-  In summary, the prevailing trends point to a further erosion of institutional trust, a tightening of information controls in the name of security, and a continued diversion of resources from peacebuilding to militarization. With high confidence, it is predicted that without a fundamental change in approach—prioritizing dialogue, transparency, and genuine conflict resolution—these challenges will most definitely intensify in the months ahead.
+  In summary, the prevailing trend is a sharpening divide between U.S.-centric policies and a growing movement for alternative, nonviolent global governance. The next phase will likely see increased advocacy and the rollout of new strategies by civil society and independent organizations, with the outcome hinging on the breadth and cohesion of this resistance.
 articles:
+  - title: 'Resist and Build Alternatives to the Trump Regime Now: Part 1'
+    url: https://transnational.live/2026/01/20/resist-and-build-alternatives-to-the-trump-regime-now-part-1/
+    text: 'PART 1 — Media, Culture and Information Sovereignty By Jan ObergTFF co-founder
+      and director January 20, 2026 This is the first of four TFF-created idea portfolios
+      designed to curb the global reach of the United States and, in both the short
+      and long term, help catalyse a worldwide nonviolent resistance to what many observers
+      describe […] The post Resist and Build Alternatives to the Trump Regime Now: Part
+      1 appeared first on The Transnational .'
+    one_sentence_summary: The article discusses the need for a global nonviolent resistance
+      to the influence of the United States, particularly in the context of the Trump
+      regime, and introduces a series of idea portfolios aimed at fostering alternatives
+      to this dominance.
+    paragraph_summary: In the first installment of a four-part series by Jan Oberg,
+      co-founder and director of The Transnational Foundation (TFF), the article discusses
+      strategies to counter the global influence of the United States, particularly
+      in the context of the Trump regime. Oberg emphasizes the importance of media,
+      culture, and information sovereignty as tools for fostering a nonviolent resistance
+      movement worldwide. The piece aims to inspire collective action and the development
+      of alternative systems that challenge existing power structures, advocating for
+      a proactive approach to creating change both in the immediate and long term.
+    published: '2026-01-20T18:44:27+00:00'
+  - title: 'Resist and Build Alternatives to the Trump Regime Now: Part 1'
+    url: https://transnational.live/2026/01/20/resist-and-build-alternatives-to-the-trump-regime-now-part-1/
+    text: 'PART 1 — Media, Culture and Information Sovereignty By Jan ObergTFF co-founder
+      and director January 20, 2026 This is the first of four TFF-created idea portfolios
+      designed to curb the global reach of the United States and, in both the short
+      and long term, help catalyse a worldwide nonviolent resistance to what many observers
+      describe […] The post Resist and Build Alternatives to the Trump Regime Now: Part
+      1 appeared first on The Transnational .'
+    one_sentence_summary: The article discusses the need for a global nonviolent resistance
+      to the influence of the United States, particularly in the context of the Trump
+      regime, and introduces a series of idea portfolios aimed at fostering alternatives
+      to this dominance.
+    paragraph_summary: In the first installment of a four-part series by Jan Oberg,
+      co-founder and director of The Transnational Foundation (TFF), the article discusses
+      strategies to counter the global influence of the United States, particularly
+      in the context of the Trump regime. Oberg emphasizes the importance of media,
+      culture, and information sovereignty as tools for fostering a nonviolent resistance
+      movement worldwide. The piece aims to inspire collective action and the development
+      of alternative systems that challenge existing power structures, advocating for
+      a proactive approach to creating change both in the immediate and long term.
+    published: '2026-01-20T18:44:27+00:00'
+  - title: How Governments and Citizens Can Stop the Trump Regime’s World-Threatening
+      Designs
+    url: https://transnational.live/2026/01/20/how-governments-and-citizens-can-stop-the-trump-regimes-world-threatening-designs/
+    text: AI created illustration after an idea by Jan Oberg – the EU flag in the right
+      background Introduction to TFF’s forthcoming four Idea Portfolios of Diplomatic
+      and Nonviolent Resistance By TFF’s Board & FoundersPascal Lottaz, Biljana Vankovska,
+      Annette Schiffmann, Christina Spannar & Jan Oberg January 19, 2026 “America, you
+      are too arrogant.” — Martin Luther […] The post How Governments and Citizens Can
+      Stop the Trump Regime’s World-Threatening Designs appeared first on The Transnational
+      .
+    one_sentence_summary: The article discusses the upcoming Idea Portfolios by TFF,
+      emphasizing the need for governments and citizens to counter the perceived threats
+      posed by the Trump administration, illustrated by an AI-generated image inspired
+      by Jan Oberg.
+    paragraph_summary: The article discusses the forthcoming four Idea Portfolios of
+      Diplomatic and Nonviolent Resistance by the Transnational Foundation for Peace
+      and Future Research (TFF), emphasizing the need for governments and citizens to
+      counter the perceived threats posed by the Trump regime. It features a quote from
+      Martin Luther King Jr. criticizing American arrogance, suggesting a call for humility
+      and reflection in political leadership. The piece highlights the importance of
+      nonviolent strategies and diplomatic efforts in addressing global challenges and
+      fostering peace.
+    published: '2026-01-20T00:02:02+00:00'
+  - title: How Governments and Citizens Can Stop the Trump Regime’s World-Threatening
+      Designs
+    url: https://transnational.live/2026/01/20/how-governments-and-citizens-can-stop-the-trump-regimes-world-threatening-designs/
+    text: AI created illustration after an idea by Jan Oberg – the EU flag in the right
+      background Introduction to TFF’s forthcoming four Idea Portfolios of Diplomatic
+      and Nonviolent Resistance By TFF’s Board & FoundersPascal Lottaz, Biljana Vankovska,
+      Annette Schiffmann, Christina Spannar & Jan Oberg January 19, 2026 “America, you
+      are too arrogant.” — Martin Luther […] The post How Governments and Citizens Can
+      Stop the Trump Regime’s World-Threatening Designs appeared first on The Transnational
+      .
+    one_sentence_summary: The article discusses the upcoming Idea Portfolios by TFF,
+      emphasizing the need for governments and citizens to counter the perceived threats
+      posed by the Trump administration, illustrated by an AI-generated image inspired
+      by Jan Oberg.
+    paragraph_summary: The article discusses the forthcoming four Idea Portfolios of
+      Diplomatic and Nonviolent Resistance by the Transnational Foundation for Peace
+      and Future Research (TFF), emphasizing the need for governments and citizens to
+      counter the perceived threats posed by the Trump regime. It features a quote from
+      Martin Luther King Jr. criticizing American arrogance, suggesting a call for humility
+      and reflection in political leadership. The piece highlights the importance of
+      nonviolent strategies and diplomatic efforts in addressing global challenges and
+      fostering peace.
+    published: '2026-01-20T00:02:02+00:00'
+  - title: The Trump Regime’s “Peace Board” Is Another Brick in His Personal Occidental
+      Empire
+    url: https://transnational.live/2026/01/18/the-trump-regimes-peace-board-is-another-brick-in-his-personal-occidental-empire/
+    text: His Gaza proposal reveals a far larger and world-threatening project. It’s
+      a bid to replace the UN — and this MAGAlomania must be stopped now. See my warning
+      at the end. Jan Oberg, TFF director January 18, 2026 There are moments in political
+      life when the surface events are so loud, so chaotic, so distracting […] The post
+      The Trump Regime’s “Peace Board” Is Another Brick in His Personal Occidental Empire
+      appeared first on The Transnational .
+    one_sentence_summary: The article argues that Trump's Gaza proposal is part of a
+      broader, dangerous agenda to undermine the UN and establish his own global dominance,
+      which must be urgently addressed.
+    paragraph_summary: The article by Jan Oberg critiques a proposal related to Gaza,
+      suggesting it is part of a broader, dangerous agenda by the Trump administration
+      aimed at undermining the United Nations and establishing a personal empire. Oberg
+      warns that the chaotic political landscape is masking significant threats, and
+      he emphasizes the need to recognize and counteract this "MAGAlomania" before it
+      escalates further. The piece calls for vigilance against these developments, framing
+      them as a pivotal moment in global politics.
+    published: '2026-01-18T17:14:52+00:00'
+  - title: The Trump Regime’s “Peace Board” Is Another Brick in His Personal Occidental
+      Empire
+    url: https://transnational.live/2026/01/18/the-trump-regimes-peace-board-is-another-brick-in-his-personal-occidental-empire/
+    text: His Gaza proposal reveals a far larger and world-threatening project. It’s
+      a bid to replace the UN — and this MAGAlomania must be stopped now. See my warning
+      at the end. Jan Oberg, TFF director January 18, 2026 There are moments in political
+      life when the surface events are so loud, so chaotic, so distracting […] The post
+      The Trump Regime’s “Peace Board” Is Another Brick in His Personal Occidental Empire
+      appeared first on The Transnational .
+    one_sentence_summary: The article argues that Trump's Gaza proposal is part of a
+      broader, dangerous agenda to undermine the UN and establish his own global dominance,
+      which must be urgently addressed.
+    paragraph_summary: The article by Jan Oberg critiques a proposal related to Gaza,
+      suggesting it is part of a broader, dangerous agenda by the Trump administration
+      aimed at undermining the United Nations and establishing a personal empire. Oberg
+      warns that the chaotic political landscape is masking significant threats, and
+      he emphasizes the need to recognize and counteract this "MAGAlomania" before it
+      escalates further. The piece calls for vigilance against these developments, framing
+      them as a pivotal moment in global politics.
+    published: '2026-01-18T17:14:52+00:00'
+  - title: Neither the US and its allies nor any other state has a right to intervene
+      in the domestic affairs of other nations.
+    url: https://transnational.live/2026/01/15/neither-the-us-and-its-allies-nor-any-other-state-has-a-right-to-intervene-in-the-domestic-affairs-of-other-nations/
+    text: With a focus on possible war on Iran, TFF Associates argue that the US must
+      – and can – be stopped. It doesn’t have a God-given exceptionalist status. It
+      has become “too arrogant.” By Pascal Lottaz, Annette Schiffman and Jan Oberg,
+      TFF ◆ Last week it was Venezuela – this week the United States under […] The post
+      Neither the US and its allies nor any other state has a right to intervene in
+      the domestic affairs of other nations. appeared first on The Transnational .
+    one_sentence_summary: The article argues that the U.S. must be prevented from intervening
+      in the affairs of other nations, particularly regarding potential conflict with
+      Iran, as it has become overly arrogant and does not possess an inherent right
+      to exceptionalism.
+    paragraph_summary: The article by TFF Associates, authored by Pascal Lottaz, Annette
+      Schiffman, and Jan Oberg, argues against the United States' perceived exceptionalism
+      and its potential military intervention in Iran, asserting that such actions are
+      rooted in arrogance. The authors contend that no nation, including the US and
+      its allies, has the right to interfere in the internal matters of other countries,
+      emphasizing the need for a collective effort to prevent further aggression and
+      uphold the sovereignty of nations.
+    published: '2026-01-15T17:37:02+00:00'
+  - title: Neither the US and its allies nor any other state has a right to intervene
+      in the domestic affairs of other nations.
+    url: https://transnational.live/2026/01/15/neither-the-us-and-its-allies-nor-any-other-state-has-a-right-to-intervene-in-the-domestic-affairs-of-other-nations/
+    text: With a focus on possible war on Iran, TFF Associates argue that the US must
+      – and can – be stopped. It doesn’t have a God-given exceptionalist status. It
+      has become “too arrogant.” By Pascal Lottaz, Annette Schiffman and Jan Oberg,
+      TFF ◆ Last week it was Venezuela – this week the United States under […] The post
+      Neither the US and its allies nor any other state has a right to intervene in
+      the domestic affairs of other nations. appeared first on The Transnational .
+    one_sentence_summary: The article argues that the U.S. must be prevented from intervening
+      in the affairs of other nations, particularly regarding potential conflict with
+      Iran, as it has become overly arrogant and does not possess an inherent right
+      to exceptionalism.
+    paragraph_summary: The article by TFF Associates, authored by Pascal Lottaz, Annette
+      Schiffman, and Jan Oberg, argues against the United States' perceived exceptionalism
+      and its potential military intervention in Iran, asserting that such actions are
+      rooted in arrogance. The authors contend that no nation, including the US and
+      its allies, has the right to interfere in the internal matters of other countries,
+      emphasizing the need for a collective effort to prevent further aggression and
+      uphold the sovereignty of nations.
+    published: '2026-01-15T17:37:02+00:00'
+  - title: ✅ TFF Share Blog, News & Notes from 2021 till today
+    url: https://transnational.live/2026/01/15/%f0%9f%94%97-tff-in-the-news-notes-2021/
+    text: Below are TFF-related media mentions, comments, videos and social media posts
+      published elsewhere but not on this homepage. We happen to catch and list only
+      a fraction. Regarding video comments and debates, we recommend that you go to
+      the TFF Video Channel on Substack where many of them are reproduced. Jan Oberg
+      is a contributor […] The post ✅ TFF Share Blog, News & Notes from 2021 till today
+      appeared first on The Transnational .
+    one_sentence_summary: The article highlights various media mentions, comments, videos,
+      and social media posts related to TFF, encouraging readers to explore additional
+      discussions on the TFF Video Channel on Substack.
+    paragraph_summary: The article highlights various media mentions, comments, videos,
+      and social media posts related to TFF that are not featured on the homepage, noting
+      that only a small portion is captured. It encourages readers to visit the TFF
+      Video Channel on Substack for a more comprehensive collection of video comments
+      and debates. Additionally, Jan Oberg is acknowledged as a contributor to the content
+      shared.
+    published: '2026-01-15T15:20:00+00:00'
+  - title: ✅ TFF Share Blog, News & Notes from 2021 till today
+    url: https://transnational.live/2026/01/15/%f0%9f%94%97-tff-in-the-news-notes-2021/
+    text: Below are TFF-related media mentions, comments, videos and social media posts
+      published elsewhere but not on this homepage. We happen to catch and list only
+      a fraction. Regarding video comments and debates, we recommend that you go to
+      the TFF Video Channel on Substack where many of them are reproduced. Jan Oberg
+      is a contributor […] The post ✅ TFF Share Blog, News & Notes from 2021 till today
+      appeared first on The Transnational .
+    one_sentence_summary: The article highlights various media mentions, comments, videos,
+      and social media posts related to TFF, encouraging readers to explore additional
+      discussions on the TFF Video Channel on Substack.
+    paragraph_summary: The article highlights various media mentions, comments, videos,
+      and social media posts related to TFF that are not featured on the homepage, noting
+      that only a small portion is captured. It encourages readers to visit the TFF
+      Video Channel on Substack for a more comprehensive collection of video comments
+      and debates. Additionally, Jan Oberg is acknowledged as a contributor to the content
+      shared.
+    published: '2026-01-15T15:20:00+00:00'
   - title: 'TFF at 40 # 4 – Manifesto for True Peace Ahead'
     url: https://transnational.live/2026/01/01/tff-at-40-4-manifesto-for-true-peace-ahead/
     text: 'TFF founders & Board January 1, 2026 On January 1, 2026, TFF – The Transnational

@@ -8,16 +8,285 @@ websites:
   - https://responsiblestatecraft.org/author/alieven/
   - https://quincyinst.org/author/anatol-lieven/
 summary: |
-  As the Ukraine conflict continues to dominate the geopolitical landscape, recent developments signal a cautious shift toward diplomatic engagement, though significant obstacles remain. The Trump administration’s evolving approach—marked by the reported draft framework agreement with Russia—has provoked both hope and skepticism among stakeholders. **Anatol Lieven** notes that while this framework addresses critical issues for resolution, “it faces skepticism from Ukraine and may require substantial pressure from the U.S. to gain acceptance,” underscoring the delicate balance between peace efforts and Ukrainian sovereignty.
+  Amid ongoing global instability, recent developments have further complicated the geopolitical landscape, particularly regarding U.S. foreign policy under President Trump, European security dilemmas, and the Ukraine conflict.
   
-  Meanwhile, the broader Western response remains fragmented. The Trump administration’s 2025 National Security Strategy, as analyzed by **Lieven**, emphasizes “a pragmatic approach to foreign policy, advocating for diplomacy and restraint,” yet it is also criticized for partisan biases and controversial stances, particularly regarding military intervention and European domestic politics. This ambiguity is mirrored in Europe, where internal crises—especially in France and Britain—continue to undermine coherent policy. France’s ongoing political and economic turmoil, coupled with Britain’s “disorganized collection of conflicting goals and unrealistic assumptions” in its own security strategy, weakens the continent’s ability to respond effectively to both the Ukraine war and broader security challenges.
+  The most notable new development is President Trump's provocative rhetoric concerning Greenland. According to **Anatol Lieven**, Trump's recent claims that China and Russia are seeking to control Greenland are "unfounded falsehoods" that risk undermining U.S. credibility and straining relations with both allies and adversaries. Lieven warns that such "gangster" threats cross a diplomatic line, calling for a robust political response to prevent any aggressive U.S. action toward Greenland. This escalation, he argues, not only damages trust but could provoke unnecessary confrontation in the Arctic, a region already fraught with tension due to climate change and militarization.
   
-  In the Caucasus, Georgia’s aspirations for EU accession remain complicated by internal politics and the shadow of the Ukraine conflict. President Kavelashvili’s government seeks to leverage EU membership to strengthen national resilience, but, as **Lieven** observes, “contrasting expectations between Georgia and the European Union” and the influence of Russian aggression complicate the path forward.
+  Meanwhile, the Ukraine peace process remains in a precarious state. While earlier reports highlighted the Trump administration's shift toward a pragmatic, negotiated settlement, skepticism persists in both Kyiv and European capitals. The draft U.S.-Russia framework agreement, as previously analyzed, faces significant hurdles, with Ukraine wary of concessions and the U.S. under pressure to deliver guarantees without overstepping Russia’s red lines. Lieven notes that the lack of genuine interest in peace from both Russia and Ukraine, absent strong U.S. intervention, makes a near-term resolution unlikely.
   
-  Looking ahead, the majority of analysts agree that the U.S. will continue to play a pivotal role in shaping outcomes in Ukraine, with the Trump administration likely to exert increasing pressure on Kyiv to accept a negotiated settlement. There is a high chance that European divisions and domestic instability will persist, limiting the continent’s ability to act as a unified force. As for Georgia, its EU ambitions will remain entangled with regional security dynamics and the broader East-West confrontation.
+  In Europe, the debate over the legality and prudence of seizing Russian cargo ships continues to intensify. **Anatol Lieven** cautions that British and NATO consideration of such actions could "risk conflict, particularly given the potential for retaliation and the legal implications." The majority view among analysts is that these measures, if enacted, would mark a dangerous escalation, potentially drawing NATO into direct confrontation with Russia.
   
-  In summary, while there are tentative steps toward diplomatic resolution in Ukraine, the process is fraught with political risks and uncertainties. The prevailing trend points to continued U.S. leadership, European fragmentation, and the enduring impact of the Ukraine war on neighboring regions. There is a high chance that the coming months will see intensified diplomatic maneuvering, but a comprehensive settlement remains elusive.
+  Looking ahead, the trends point to continued volatility. The Trump administration’s erratic approach—combining aggressive rhetoric with sporadic pragmatism—will likely keep allies uneasy and adversaries alert. In the Arctic, I guarantee that further militarization and diplomatic friction are inevitable if current U.S. posturing continues. In Ukraine, there is a high chance that peace talks will stall unless the U.S. applies sustained pressure on both Kyiv and Moscow to compromise. Finally, European security policy remains reactive and fragmented, with a high chance of further crises if legal and military boundaries are tested in the confrontation with Russia.
 articles:
+  - title: Trump's new 'gangster' threats against Greenland, allies, cross line
+    url: https://responsiblestatecraft.org/trump-greenland-tariffs/
+    text: 'The response to Trump’s latest Truth Social post over Greenland should resemble
+      that of U.S. Secretary of State Cordell Hull to the Japanese diplomatic note after
+      Pearl Harbor:
+
+
+      "In all my 50 years of public service I have never seen a document that was more
+      crowded with infamous falsehoods and distortions — on a scale so huge that I never
+      imagined until today that any government on this planet was capable of uttering
+      them," said Hull.
+
+
+      And while unfortunately we have become quite accustomed to governments on this
+      planet uttering falsehoods, as far as I can see Trump has now gone further in
+      mendacity than any previous U.S. President. According to his latest post:
+
+
+      “China and Russia want Greenland, and there is not a thing that Denmark can do
+      about it…Norway, Sweden, France, Germany, The United Kingdom, The Netherlands,
+      and Finland have journeyed to Greenland, for purposes unknown. This is a very
+      dangerous situation for the Safety, Security, and Survival of our Planet. These
+      Countries, who are playing this very dangerous game, have put a level of risk
+      in play that is not tenable or sustainable. Therefore, it is imperative that,
+      in order to protect Global Peace and Security, strong measures be taken so that
+      this potentially perilous situation end quickly, and without question.”
+
+
+
+
+
+
+
+
+
+
+      There is in fact no evidence at all that China and Russia “want Greenland” – or
+      of course, even if they did want it, that they have any chance at all of getting
+      it.
+
+
+      If Trump truly believed in this Russian and Chinese threat, he would be encouraging
+      other NATO countries to station troops in Greenland. Instead, he accuses their
+      (token) deployment of creating “risks” that are entirely his own creation. Piling
+      lie upon transparent lie, Trump then attempts to justify the attempt to seize
+      Greenland by citing hopes of creating a missile defense system for North America:
+
+
+      “Now, because of The Golden Dome, and Modern Day Weapons Systems, both Offensive
+      and Defensive, the need to ACQUIRE is especially important.”
+
+
+      How can this possibly be true, when by agreement with Denmark and Canada, the
+      U.S. has long had early warning systems in northern Greenland and the Canadian
+      Arctic, and could undoubtedly station missile defense systems there by agreement
+      with these countries without any need to annex the areas concerned? The same is
+      true of Trump’s desire to develop U.S.-controlled rare earth mines, something
+      that can also be easily achieved by agreement.
+
+
+      For many decades, the U.S. foreign policy debate has been cursed with the concept
+      of U.S. “credibility” — invariably deployed as a militarist argument for the U.S.
+      to engage in wars in countries in which it has no real interests, that it knows
+      nothing about, and for whose problems it has no viable solutions. It is time that
+      U.S. politicians and analysts began to think of other meanings of “credibility.”
+
+
+      One of these is saying things that other people can believe — or even pretend
+      to believe. Otherwise, the U.S. will risk the fate of the U.S.S.R. under Leonid
+      Brezhnev , of ending in a situation where official statements have become so manifestly
+      divorced from observable reality that the “credibility” of the state does indeed
+      collapse, in the eyes of the world and its own citizens.
+
+
+      Another meaning of credibility is that other countries can believe that the U.S.
+      will not betray its treaties with them, and menace its closest allies when these
+      allies have done nothing to threaten or harm the U.S. If the Trump administration
+      persists in its threat to Greenland, how will any ally ever be able to trust Washington
+      again?
+
+
+      In pursuit of his completely illegitimate, practically pointless and geopolitically
+      catastrophic goal, Trump has now threatened to impose additional 10% tariffs on
+      Denmark and the other NATO countries that have sent token forces to Greenland,
+      rising to 25% in June unless and until the U.S. has purchased Greenland. This
+      creates an additional and categorical imperative for the U.S. Supreme Court justices
+      to rule against the administration in the case regarding tariffs that is now before
+      them.
+
+
+      The other duty lies with the U.S. Senate, to vote immediately to rule out the
+      use of force to acquire Greenland. Two courageous Republican Senators have joined
+      their Democratic colleagues in traveling to Greenland to make their opposition
+      clear. It is time that many more joined them.'
+    one_sentence_summary: The article criticizes Trump's recent claims about China and
+      Russia wanting Greenland, arguing that they are unfounded falsehoods that undermine
+      U.S. credibility and threaten international relations, and calls for a strong
+      political response to prevent any aggressive actions toward Greenland.
+    paragraph_summary: The article critiques former President Trump's recent claims
+      on Truth Social regarding Greenland, likening the response needed to that of U.S.
+      Secretary of State Cordell Hull's condemnation of Japanese falsehoods after Pearl
+      Harbor. It argues that Trump's assertions about China and Russia wanting Greenland
+      are baseless and reflect a level of dishonesty unprecedented in U.S. presidential
+      history. The author contends that if Trump genuinely believed in such threats,
+      he would advocate for NATO troop deployments in Greenland rather than creating
+      risks through his rhetoric. The piece emphasizes the importance of U.S. credibility
+      in foreign policy, warning that continued threats against Greenland could undermine
+      trust among allies and lead to geopolitical instability. It calls for the U.S.
+      Supreme Court to rule against Trump's tariff threats on Denmark and urges the
+      Senate to prohibit the use of force in acquiring Greenland, highlighting the need
+      for bipartisan opposition to Trump's actions.
+    published: '2026-01-18T14:14:19+00:00'
+  - title: If Europe starts attacking Russian cargo ships, all bets are off
+    url: https://responsiblestatecraft.org/europe-russian-cargo-ships/
+    text: 'Inspired by the U.S. seizure on the high seas of ships carrying Venezuelan
+      oil, Britain and other NATO countries are now considering using their navies to
+      do the same to ships carrying Russian cargoes.
+
+
+      This would be a radical escalation of existing moves against Russia’s so-called
+      “shadow fleet,” which have been restricted to the ports and territorial waters
+      of NATO states. As such, they can be considered to fall under the sovereign jurisdiction
+      of the states concerned. An extension of this strategy, as presently contemplated
+      by some European countries, would be a limited but reasonable and comparatively
+      risk-free way of increasing economic pressure on Russia.
+
+
+      Seizing ships on the high seas is a very different matter. If conducted by non-state
+      actors, this has been considered piracy; if by states, an act of war. The danger
+      is even greater because more and more of these ships are now sailing under the
+      Russian flag .
+
+
+      Both Americans and British might wish to remember that U.S. fury at similar actions
+      by British warships was one of the causes of the War of 1812. Given very credible
+      Russian threats of retaliation , it is extremely unlikely that the British or
+      other European countries would in fact take such action without a U.S. green light
+      and firm U.S. guarantees of military support. The Trump administration must not
+      give such a guarantee. The result could very easily be escalation towards the
+      direct NATO-Russia conflict that both sides so far have been careful to avoid,
+      with a real and horrifying risk of nuclear war.
+
+
+      Russian retaliation could take two forms. The first would be to escort as many
+      ships as possible with Russian warships and submarines. The second would be retaliatory
+      seizures of British ships or cargoes. The Russian navy is admittedly in poor shape
+      to do this. On paper, the active ships of the Russian Northern Fleet (i.e. those
+      not in reserve or under repair) tasked to operate in the Atlantic include eight
+      nuclear attack submarines, seven conventional attack submarines, four destroyers
+      and 10 frigates and corvettes.
+
+
+      It is questionable how many of these can actually be put to sea, but the Northern
+      Fleet can now be reinforced via the Arctic by ships of Russia’s Pacific Fleet.
+
+
+      Then again, the Royal Navy is in even worse shape, with only 13 escort vessels,
+      most of them undergoing refits, and only one attack submarine currently fit for
+      action. That is another reason why the U.K. is very unlikely to initiate the seizure
+      of Russian cargoes without full U.S. backing.
+
+
+      Something that European NATO members could do on their own would be to block the
+      exit from the Baltic between Denmark and Sweden. That would be a clear violation
+      of their treaty obligation to guarantee free international transit, and Russia
+      would almost certainly send warships to face the Danes and Swedes with a choice
+      between backing down and allowing free passage.
+
+
+      If the Russians did this and the Scandinavians decided to fight, then any such
+      Russian force would be destroyed; just as the U.S. and British navies together
+      would be quite enough to make any large-scale Russian convoy system impossible.
+      But that is really not the point. The issue is that the moment a NATO warship
+      sinks a Russian one or vice versa and kills seamen, we are in a completely different
+      world. Whichever side loses a ship would feel virtually compelled to retaliate
+      in kind; and given Russian military weakness, there are severe limits on how far
+      Russia could retaliate without resorting to nuclear weapons, or at least the fully
+      credible threat of their use.
+
+
+      It is vital in this regard for U.S. and NATO planners to understand Russian fears
+      concerning the Russian exclave of Kaliningrad, now cut off from Russia by NATO
+      territory. NATO has become obsessively worried by a supposed Russian threat to
+      the “Suwalki Gap” between Poland and Lithuania on the one hand, and Kaliningrad
+      and Belarus on the other.
+
+
+      As emphasized by President Putin in his annual address to the Russian people last
+      month, the Russian government on the other hand is worried — with far more reason
+      — that if as part of escalation against Russia, Lithuania cuts land access to
+      Kaliningrad (as it threatened to do once before), and NATO blockades the exclave
+      by sea, Kaliningrad would be starved into surrender. That would be a defeat that
+      the Putin regime could hardly survive.
+
+
+      A Russian attempt to break through to Kaliningrad by land would almost certainly
+      be defeated by the powerful Polish army, even without U.S. support. With its forces
+      tied down in Ukraine, Russia simply does not have an additional army capable of
+      fighting Poland and NATO. The result once again (and as members of the Russian
+      establishment have warned me) would be an early Russian recourse to nuclear weapons.
+
+
+      What is the point of running such a risk of escalation when the Russian army has
+      been fought virtually to a standstill, and the chief remaining obstacles to peace
+      are the issue of control over a tiny area of the northwest Donbas, and a European
+      “reassurance force” for Ukraine that the Europeans have no real intention of risking
+      in war?
+
+
+      From a British and European point of view, it is also necessary to point out that
+      to take this kind of action against Russian cargoes would make them totally dependent
+      on U.S. military backing. As a result, they would be completely incapable of resisting
+      — even diplomatically — any moves that the Trump administration made to seize
+      Greenland.
+
+
+      So for the sake of an unnecessary and horribly dangerous escalation of their role
+      in a war that is not in defense of NATO territory (for Ukraine is not and never
+      will be a NATO ally), they would sacrifice an actual NATO ally, Denmark, and open
+      themselves to a humiliation that would shred whatever remains of their international
+      prestige.
+
+
+      Finally — and for whatever international legality may still be worth in today’s
+      world — it is necessary to point out that seizing on the high seas the property
+      of a state with which you are not at war is completely illegal. Not so very long
+      ago, the overwhelming consensus in Britain and Europe was that only the U.N. had
+      the right to impose such measures.
+
+
+      The British government is now trying to construct a legal case that it can seize
+      ships of Russia’s shadow fleet because they are not “legitimately flagged,” but
+      this comes after more than half a century during which Britain has accepted ships
+      sailing under “flags of convenience,” however unclear the ownership and fictitious
+      the jurisdiction involved. In terms of legal validity and international legitimacy,
+      this approach is on a par with the legal case Tony Blair’s government cooked up
+      for invading Iraq, and will be regarded in the same light by most of the world.
+
+
+      And here is the final tragic irony. The British Empire, and the subsequent U.S.
+      empire and its British auxiliaries, have made the security of international maritime
+      trade a key part of their claim to international legitimacy. An alleged (though
+      actually up to now non-existent) Chinese threat to trade in the South China Sea
+      has been used as an argument for America’s right and duty to resist Chinese territorial
+      claims in the region.
+
+
+      Yet it is now the U.S. and U.K. that are threatening to violate the laws and rules
+      of international trade, and set a disastrous precedent for other states to follow.
+      If, God forbid, our governments proceed further down this path then they will
+      have only themselves to blame if more and more countries come to see China as
+      a better representative of international order and legality.'
+    one_sentence_summary: Britain and NATO countries are contemplating seizing Russian
+      cargo ships on the high seas, a move that could escalate tensions with Russia
+      and risk conflict, particularly given the potential for retaliation and the legal
+      implications of such actions.
+    paragraph_summary: The article discusses the potential escalation of military actions
+      by Britain and NATO countries against Russian cargo ships, inspired by recent
+      U.S. actions against Venezuelan oil shipments. While current measures against
+      Russia's "shadow fleet" are confined to ports and territorial waters, seizing
+      ships on the high seas could be viewed as an act of war, raising the risk of direct
+      conflict between NATO and Russia. The article highlights the military weaknesses
+      of both the Russian and British navies, suggesting that any aggressive actions
+      would likely require U.S. support, which could lead to dangerous escalations,
+      including the potential use of nuclear weapons. It also critiques the legality
+      and moral implications of such actions, arguing that they would undermine international
+      maritime law and could damage the credibility of Western powers, potentially pushing
+      other nations to favor China as a representative of international order.
+    published: '2026-01-15T05:05:03+00:00'
   - title: Trump's sphere of influence quest is sloppy, self-sabotage
     url: https://responsiblestatecraft.org/trump-spheres-of-influence/
     text: 'Spheres of influence stem from the very nature of states and international

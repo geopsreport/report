@@ -9,16 +9,846 @@ websites:
   - https://www.counterpunch.org/author/rwolff0998/
   - https://www.laprogressive.com/author/richard-d-wolff
 summary: |
-  As the United States and its allies confront persistent economic and political challenges, recent analysis highlights a deepening crisis of legitimacy for Western capitalism and its global leadership. The ongoing decline in economic growth among G7 nations, contrasted with the continued rise of China and other BRICS countries, is fueling both domestic discontent and geopolitical realignment.
+  As the world continues to grapple with overlapping crises in early 2026, several key geopolitical developments have come to the forefront, reflecting deepening challenges across social, economic, and political spheres.
   
-  **Richard D. Wolff** draws a parallel between the current U.S. trajectory and the earlier decline of British capitalism, noting that both have responded to economic stagnation with nationalist and isolationist policies—Brexit for the UK, and protectionist trade wars under Trump for the U.S. This shift, Wolff argues, is rooted in decades of policy that prioritized globalization and automation, eroding the working class and fostering a backlash that now shapes electoral politics and foreign policy.
+  **Veterans and Social Policy Under Strain**
   
-  On the international stage, U.S. policy toward China remains marked by contradiction. As **Wolff** observes, Washington seeks to contain China’s economic ascent while maintaining lucrative trade and investment ties, reflecting both economic interdependence and internal class divisions. This ambivalence has prevented the formation of a coherent long-term strategy, leaving the U.S. vulnerable to further erosion of its global influence.
+  Recent reports highlight the ongoing struggles faced by U.S. veterans, particularly in the wake of policy decisions under the Trump administration. **Richard D. Wolff** notes that veterans are increasingly vocal in their advocacy for improved healthcare and labor rights, as they confront the consequences of privatization and chronic underfunding of veteran services. This trend is part of a broader pattern of social safety net erosion, with veterans’ organizations warning that unless significant reforms are enacted, the well-being of millions will remain at risk. There is a high chance that pressure will mount on policymakers to address these gaps, especially as the 2026 mid-term elections approach.
   
-  Domestically, the U.S. faces mounting social and political tensions. The rise of nationalist capitalism and the resurgence of right-wing populism have been accompanied by attacks on labor rights, immigration, and progressive reforms. **Wolff** warns that these trends, if unchecked, could accelerate the drift toward authoritarianism and deepen existing inequalities.
+  **Media, Disinformation, and Democratic Erosion**
   
-  Looking ahead, the majority of analysts agree that the U.S. and UK will continue to face economic stagnation and political fragmentation, while China and other emerging economies are poised for further growth. There is a high chance that nationalist and protectionist policies will intensify in the West, leading to greater global polarization. As **Wolff** concludes, “the denial and pretenses within the G7 regarding systemic economic issues” are likely to persist, but the underlying shifts in global power are now unmistakable. I guarantee that unless there is a fundamental change in policy direction, the West’s relative decline will most definitely continue.
+  The media landscape remains fraught with challenges, as authoritarian rhetoric and disinformation continue to shape public discourse. **Richard D. Wolff** draws attention to the complicity of mainstream outlets in amplifying divisive MAGA politics, which threatens to further erode democratic norms. The majority opinion among analysts is that unchecked disinformation and the normalization of cruelty in political language are undermining civic values, with a high chance of escalating polarization in the coming months.
+  
+  **Climate and Food Policy: Corporate Accountability in Focus**
+  
+  On the environmental front, calls for holding corporations accountable for their role in climate change are intensifying. **Richard D. Wolff** advocates for a "polluter pays" principle in the food industry, mirroring successful strategies in the energy sector. As industrial agriculture’s impact on climate and resources becomes harder to ignore, there is a high chance that regulatory momentum will build, especially with mounting public pressure for sustainability and justice in global food systems.
+  
+  **Middle East: Humanitarian Crisis in Gaza**
+  
+  The ongoing conflict in Gaza remains a flashpoint, with humanitarian conditions deteriorating and political maneuvering intensifying. **Richard D. Wolff** underscores the urgency of international action to address the crisis, as civilian suffering mounts and diplomatic solutions remain elusive. The majority view is that, absent a significant shift in international engagement, the situation will most definitely worsen, with regional instability likely to persist.
+  
+  **Trends and Predictions**
+  
+  Across these domains, the prevailing trend is one of mounting pressure on institutions to respond to intersecting crises—be it in social policy, media integrity, environmental regulation, or conflict resolution. I guarantee that unless there are substantial policy interventions, these challenges will deepen, with significant implications for democracy, social equity, and global stability throughout 2026.
 articles:
+  - title: Veterans
+    url: https://www.laprogressive.com/war-and-peace/veterans
+    text: 'Veterans - LA Progressive Skip to main content Topics Animal Rights Climate
+      Change Economic Equality Education Reform Elections and Campaigns Foreign Policy
+      Africa Asia Europe Latin America The Middle East Healthcare Food Policy Pandemic
+      Senior Community Immigration Reform Labor Law and the Justice System LBGTQ+ Progressive
+      Issues Video Racism The Media War and Peace Veterans Events ACLU People Power
+      Subscribe Podcast YouTube Channel GLOSSARY Site Map About Contact Us Authors Privacy
+      Policy Privacy Settings January 18, 2026 Topics Authors Linktr.ee Subscribe Podcast
+      YouTube Channel GLOSSARY Topics Authors Linktr.ee Subscribe Podcast YouTube Channel
+      GLOSSARY Veterans Home War and Peace Veterans Veterans How Vets in Labor Have
+      Joined Fight Against Trump The high social standing of military veterans in many
+      blue-collar communities can be a valuable PR asset when “bargaining for the public
+      good”. By Steve Early and Suzanne Gordon Jan 13, 2026 Federal Legislation That
+      Will Actually Save Veterans’ Lives The bill requires federal agencies to create
+      posters on how to access a mental health crisis line, Veterans Administration
+      health care, educational, legal, housing, and other key services. By David McCall
+      Jan 9, 2026 Bringing Gaza Home to Middle America’s Flyover Country Our hope at
+      trial is that our fellow citizens and neighbors will be as abhorred by what Gazans
+      have suffered as we are and decide it’s time to stand and be counted. By Mike
+      Ferner Jan 8, 2026 Thanking Veterans by Killing Them According to the Death Penalty
+      Information Center, in the modern era of the death penalty (since 1972), at least
+      226 military veterans have been executed in the United States. By Laura Finley
+      Jan 2, 2026 Serving Our Nation and Protecting Our Freedoms In truth, it has been
+      a very long time since the US military was actually used to protect American freedoms.
+      By W. D. Ehrhart Dec 11, 2025 Does Thanking Veterans Kill Them? Each of these
+      veterans has endured the invisible wounds of post-traumatic stress disorder, traumatic
+      brain injuries, Gulf War Illness, or severe mental illness. By Laura Finley Nov
+      13, 2025 Approaching Veterans Day Military moral injury is like the Guinea worm
+      that festers in a person’s body until it begins to burst out, painfully and devastatingly.
+      By Kelly Denton-Borhaug Nov 10, 2025 VA Patients, Families, Groups All Agree:
+      Save the VA VA patients and their families are joined by veterans’ groups that
+      range from progressive to conservative, but all agree on one thing: saving the
+      VA. By Steve Early and Suzanne Gordon Nov 8, 2025 VA Bleeding Doctors and Nurses
+      Despite Vows to Protect Veteran Health Care Impact of understaffing, facility
+      closures and waiting times has been “dire” under Trump’s second term, medical
+      workers say. By Marcus Baram Nov 5, 2025 With Better "Alpha Energy”: Can a Squad
+      of Progressive Vets Storm Capitol Hill in 2026? Fortunately, heading into the
+      2026 mid-term elections, there are some military veterans, from working class
+      backgrounds, trying to challenge big money in politics by ousting some of its
+      most devoted servants. By Steve Early and Suzanne Gordon Oct 26, 2025 Veterans
+      Protest Trump’s Union Busting Impact at VA The massive layoffs currently underway
+      at the VA that will see some 30,000 workers lose their jobs have already affected
+      the department in every area of operations including VHA By Phil Pasquini Oct
+      1, 2025 Antiwar Veterans in the Age of Trump It’s little wonder that many vets
+      keep their feelings about their long years in service within a close circle of
+      friends and other veterans. By William Hartung Sep 30, 2025 Can Vets in California
+      Rely on Private Medical Care? The veterans and VA caregivers protesting weekly
+      outside VA facilities insist that that staff and funding cuts will lead to delays
+      and even the denial of needed care to veterans. By Suzanne Gordon Sep 29, 2025
+      VA Privatization: False Promises Thanks to Congress, accessing health care will
+      now be more difficult for rural veterans By Suzanne Gordon and Steve Early Sep
+      25, 2025 For Trump’s Birthday Military Parade, Veterans Organizations Demand “Military
+      Off Our Streets” Ironically, Trump’s military parade has more security than his
+      inauguration. By Ann Wright Jun 14, 2025 A Labor/Vet Protest:  DC Rally Defends
+      VA Care on D-Day Since the math forces cuts to VHA staff, services, and facilities,
+      one purpose of the D-Day rally was to sound the alarm about Trump’s renewed privatization
+      push. By Steve Early and Suzanne Gordon Jun 12, 2025 Will Trump Demand Military
+      Officers to Sign a "Loyalty Oath" to Himself? By Chris Rodda Jun 8, 2025 VA Defenders
+      in Reno: Nevada Vets Protest Being Sent to a Healthcare Desert According to VA
+      defenders, local private hospitals, clinics, and medical practices will struggle
+      to meet veterans’ needs. By Steve Early and Suzanne Gordon Jun 6, 2025 Veterans''
+      40-Day Fast to Protest Israel’s Starvation of Gaza Begins “Having seen what war
+      does … I simply have to do more than hold a sign at a demonstration,” said one
+      veteran organizer. By Marjorie Cohn May 30, 2025 Why Are Veterans and Allies Fasting
+      for Gaza? Military veterans and allies pledged to fast for 40 days on only 250
+      calories per day, the amount recently reported as what the residents of Gaza are
+      enduring. By Gerry Condon May 28, 2025 On “National Security” Grounds: Nearly
+      All VA Workers Lose Union Bargaining Rights? Workers who voluntarily join and
+      financially support federal unions must switch their dues paying to alternative
+      methods, like AFGE and NNU’s “E-dues”collection systems. By Steve Early and Suzanne
+      Gordon May 6, 2025 How Vietnam and Gaza Wars Shattered Young Illusions About U.S.
+      Leaders Emerging generations learned that moral concerns about their country’s
+      engagement in faraway wars meant little to policymakers in Washington. By Norman
+      Solomon Apr 30, 2025 When Russian and Ukrainian Troops Come Home Russian and Ukrainian
+      soldiers will eventually largely lay down their arms but returning from the frontlines
+      will cause its own ills By John P. Ruehl Apr 11, 2025 Musk''s Cuts Threaten American
+      Veterans The PACT Act dramatically expanded VA care for veterans. But Musk’s cuts
+      threaten this care just as a growing number of veterans attempt to use the service.
+      By David McCall Mar 25, 2025 Loading… See More © 2026 Site Map About Contact Us
+      Authors Privacy Policy Privacy Settings CLOSE CLOSE'
+    one_sentence_summary: The article discusses various issues facing veterans, including
+      their advocacy for better healthcare and labor rights, the impact of political
+      decisions on their well-being, and the ongoing struggles against privatization
+      and underfunding of veteran services, particularly under the Trump administration.
+    paragraph_summary: The article from LA Progressive discusses various issues affecting
+      veterans, highlighting their significant social standing in blue-collar communities
+      and their involvement in labor movements against political figures like Trump.
+      It emphasizes the need for federal legislation to improve access to mental health
+      and other essential services for veterans, while also addressing the dire consequences
+      of understaffing and privatization within the Veterans Administration (VA). The
+      piece touches on the protests by veterans against job cuts and the impact of these
+      changes on healthcare access, as well as their solidarity with global issues,
+      such as the humanitarian crisis in Gaza. Overall, it portrays a complex landscape
+      where veterans are actively advocating for their rights and the preservation of
+      vital services amidst political and systemic challenges.
+    published: '2026-01-18T05:59:57.531242+00:00'
+  - title: The Media
+    url: https://www.laprogressive.com/the-media-in-the-united-states
+    text: 'The Media - LA Progressive Skip to main content Topics Animal Rights Climate
+      Change Economic Equality Education Reform Elections and Campaigns Foreign Policy
+      Africa Asia Europe Latin America The Middle East Healthcare Food Policy Pandemic
+      Senior Community Immigration Reform Labor Law and the Justice System LBGTQ+ Progressive
+      Issues Video Racism The Media War and Peace Veterans Events ACLU People Power
+      Subscribe Podcast YouTube Channel GLOSSARY Site Map About Contact Us Authors Privacy
+      Policy Privacy Settings January 18, 2026 Topics Authors Linktr.ee Subscribe Podcast
+      YouTube Channel GLOSSARY Topics Authors Linktr.ee Subscribe Podcast YouTube Channel
+      GLOSSARY The Media Home The Media Satire The Media Videos Trump Attacking Rob
+      Reiner Shows Cruelty at Core of His Politics This language is not Trump’s alone.
+      It is the language of MAGA politics and everything that enables it. By Henry A.
+      Giroux Dec 18, 2025 Did We Make Trump''s Hall of Shame? I’d bet that those newshounds
+      and news organizations Trump targeted are proud to be Hall of Shamers. I would
+      be. By Berry Craig Dec 11, 2025 Mainstream Media Coup What is happening now would
+      make even a conservative media baron like Murdoch blush with shame and envy, that
+      is, if the purveyor of right-wing media without a conscience knew how to blush.
+      By Dennis Broe Dec 9, 2025 You''re On Your Own, Buddy Politically, morally, culturally,
+      historically, you’re toast, dead, deceased, no more, bereft of life, you’re toast,
+      dead, deceased, no more, bereft of life. By Dan Embree Nov 16, 2025 You Better
+      Keep Dancing Alas, since the organ grinder is dead, sorry to say, you can’t bribe
+      him or threaten him or make him the ambassador to Tahiti. So... By Dan Embree
+      Nov 9, 2025 Playing Soldiers A soldier with a rifle is your imaginary solution
+      to every imaginary problem. Booed by Chicagoans? Send in the Guard. By Dan Embree
+      Nov 2, 2025 Fight the Disinformation Epidemic or Lose Democracy There is a striking
+      interplay between the authoritarian’s language of grievance and anger and the
+      media ecosystem’s gracious willingness to amplify such language. By Mack Green
+      Oct 31, 2025 Dear Bonespurs: Your Gold Thing After that came the toilet seats
+      for the guy with urinary insecurities, the Oval Office gimcracks for the putz
+      from Queens, and the imaginary palace for the wannabe king. By Dan Embree Oct
+      26, 2025 No Kings, Socials and Us It is one thing to hate social media but hold
+      our nose while we cautiously use it for positive ends and still relentlessly critique
+      it in the large. By Michael Albert Oct 13, 2025 The Fourth Branch: How Conscience
+      and Civic Vigilance May Save the Republic Ordinary citizens, lower courts, military
+      officers, advocacy groups, and artists together form a novel “fourth branch,”
+      acting as a moral immune system of the body politic, sustaining its health when
+      power itself has become a vector of disease. By Martina Moneke Oct 13, 2025 Dear
+      Bonespurs: Those Epstein Photos Big Lester Gufstason, on medical leave from ICE
+      due to a back sprain from picking up trash in LA, sighed deeply. “The fun’s gone
+      out of the War on Democrat Cities”. By Dan Embree Oct 12, 2025 Dear Bonespurs:
+      Turning Loose the Dogs of War Your own words explaining how our Democrat-run cities
+      are dangerous and how they are to be “straightened out” By Dan Embree Oct 5, 2025
+      Dear Bonespurs: Imagine a Long, Secure, Peaceful Retirement Big Donny-the-Lip,
+      who thinks he can do whatever he wants (but can’t), is way preferable to Saint
+      Donald the Martyr who will live forever in the dreams of the faithful. By Dan
+      Embree Sep 28, 2025 The Right''s Frankenstein: The Rise of Nick Fuentes Nick Fuentes
+      is the monster the American Right created: an amalgamation of internet radicalism,
+      paleo-conservatism, and MAGA racial populism, built through years of opportunistic
+      rhetoric and ideological recklessness. By Elijah Kahlenberg Sep 25, 2025 Tucker
+      Carlson’s Flawed Feudal Fantasies Carlson’s romantic vision of feudal life bears
+      little resemblance to the historical reality. By Chelsea Follett Sep 22, 2025
+      Dear Bonespurs: What Courage Actually Is Courage wasn’t taught at West Point.
+      I don’t know if it can be taught. We imagined it, read accounts of it, saw living
+      exemplars of it around us, but never heard where it came from, how it was summoned,
+      what it felt like. By Dan Embree Sep 21, 2025 Our Humanity Not Up for Debate:  Fascists
+      Don’t Deserve Space In the wake of Charlie Kirk’s killing, centrist liberals have
+      lionized the white supremacist, paving the way for a greater assault from authoritarian
+      bullies. By Sonali Kolhatkar Sep 20, 2025 First Amendment Math: Donald Trump +
+      Corporate Media Conglomeration = Censorship Suspending Jimmy Kimmel is not Disney’s
+      first action aimed at currying Trump’s favor. By Jeff Cohen Sep 19, 2025 Bobby''s
+      Worm Some people are saying that Junior had the worm implanted to help him weasel
+      out of a sticky divorce settlement. By H. Scott Prosterman Sep 18, 2025 Dear Bonespurs:
+      I''m Packed! I Mean Packing" Roger, dodger. I infiltrated the dead-drop, executed
+      the black bag op, and exfiltrated the humint. By Dan Embree Sep 14, 2025 Follow
+      the Money This is a golden opportunity for a new generation of muckrakers to use
+      the tools corporations have forced on us to start exploring more into corporate
+      corruption and political influence peddling. By Tom Hall Sep 10, 2025 Dear Bonespurs:
+      Thanks for Your Letter It was an AI-generated summary of catch-phrases that you
+      and your White House staff likely assume – in defiance to your plunging approval
+      ratings – will warm the hearts of your faithful followers. By Dan Embree Sep 7,
+      2025 Dear Bonespurs: Better Bring the Ones Who Can Speak Latin I hope my fellow
+      veterans and fellow citizens will avoid making your troops into something they
+      are not – enemies of the people and of the law – and just walk over and talk to
+      them. By Dan Embree Aug 31, 2025 War Crimes Against Those Who Risk Everything
+      to Tell the Truth The murder of journalists is not incidental. It is one of the
+      clearest measures of fascism in its most unmasked form. By Henry A. Giroux Aug
+      25, 2025 Loading… See More © 2026 Site Map About Contact Us Authors Privacy Policy
+      Privacy Settings CLOSE CLOSE'
+    one_sentence_summary: The article discusses the pervasive cruelty and authoritarian
+      language in MAGA politics, exemplified by Donald Trump's attacks on figures like
+      Rob Reiner, and highlights the complicity of mainstream media in amplifying such
+      rhetoric, ultimately warning of the dangers to democracy posed by disinformation
+      and the erosion of civic values.
+    paragraph_summary: The article from LA Progressive discusses various critical perspectives
+      on contemporary media and political dynamics, particularly focusing on the rhetoric
+      and actions of Donald Trump and the MAGA movement. It highlights the cruelty inherent
+      in Trump's political language, the complicity of mainstream media in amplifying
+      authoritarian narratives, and the emergence of figures like Nick Fuentes as products
+      of a radicalized right. The piece also emphasizes the importance of civic engagement
+      and the role of ordinary citizens in countering disinformation and preserving
+      democratic values. Through a series of commentaries, it critiques the current
+      media landscape, the normalization of extremist views, and the challenges faced
+      by democracy in the face of rising authoritarianism.
+    published: '2026-01-18T05:59:51.948981+00:00'
+  - title: Senior Community
+    url: https://www.laprogressive.com/healthcare/senior-community
+    text: 'Senior Community - LA Progressive Skip to main content Topics Animal Rights
+      Climate Change Economic Equality Education Reform Elections and Campaigns Foreign
+      Policy Africa Asia Europe Latin America The Middle East Healthcare Food Policy
+      Pandemic Senior Community Immigration Reform Labor Law and the Justice System
+      LBGTQ+ Progressive Issues Video Racism The Media War and Peace Veterans Events
+      ACLU People Power Subscribe Podcast YouTube Channel GLOSSARY Site Map About Contact
+      Us Authors Privacy Policy Privacy Settings January 18, 2026 Topics Authors Linktr.ee
+      Subscribe Podcast YouTube Channel GLOSSARY Topics Authors Linktr.ee Subscribe
+      Podcast YouTube Channel GLOSSARY Senior Community Home Healthcare Issues Food
+      Policy Pandemic Senior Community Senior Community Why Are the Mentally Ill Placed
+      In Senior Housing? Adults with severe mental illness have received care in nursing
+      homes, become houseless, reside with family or, in some states, reside in assisted
+      living By Lenore Daniels Jun 4, 2024 The California Master Plan on Aging America
+      is aging and California has a master plan that can be a blue print for other states
+      to prepare for the growing demographic changes that will affect us all By Stephanie
+      Williams Dec 9, 2023 Medicare Advantage Scam To ensure you have good coverage
+      for both current and unforeseeable health needs this open enrollment period, you
+      should choose traditional Medicare. By Diane Archer Nov 22, 2023 Whistleblower:
+      Medicare Advantage Defrauds the Public Physicians for a National Health Program
+      (PNHP), concludes that the Medicare Advantage program should be terminated By
+      F. Douglas Stephenson Sep 3, 2023 Social Security 2100 This legislation would
+      expand Social Security’s modest benefits, with no cuts, and keep the system strong
+      for decades to come. By Nancy J. Altman Jul 16, 2023 Dianne Feinstein Must Retire
+      Now Feinstein is 89 years old and is no longer doing her job. I say this with
+      great sadness, as one of her personal friends. By Robert Reich May 10, 2023 Seniors
+      Living with Veterans with PTSD The Enemy on the Other Side of the Wall: War Veterans,
+      Seniors, and Indifference By Lenore Daniels May 9, 2023 From Pandemics to Presidents,
+      How Old is Too Old ? Our culture worships youth, beauty, vitality, and, to put
+      it plainly, “hotness.” But often, what we need most is wisdom and experience.
+      By Roger Ray Mar 1, 2023 Social Security Cuts May Be Coming Kevin McCarthy toadied
+      to extremist Republicans whose demands for radical budget cuts once again put
+      Social Security and Medicare at risk. By Tom Conway Feb 6, 2023 Corporate Dems
+      and GOP Fight Social Security Expansion Bipartisanship is when big-money Republicans
+      and big-money Democrats unite to secretly make decisions By Richard Eskow Jun
+      20, 2022 Trump''s Plan to Destroy Social Security Tom Conway: Some, too frail
+      to work and lacking other resources to pay mounting bills, would lose everything
+      they spent their lifetimes building. By Tom Conway Oct 23, 2020 Can Democrats
+      Expand Social Security Benefits? Nancy Altman: As essential as Social Security
+      is in good economic times, it is even more so during the current pandemic and
+      resulting economic collapse. By Nancy J. Altman Oct 14, 2020 Those Robocallers:
+      Let''s Abolish the "Department of Utility Services" Ralph E. Shaffer: I long ago
+      gave up on the Federal Communication Commission''s "Do Not Call" list. I''ve been
+      listed there for ages and it does no good. By Ralph Shaffer Apr 19, 2019 The Angst
+      of Aging in the Age of Trump Perceiving that the current president is so unfit,
+      so ignorant of the demands of his job as president, and so mentally unbalanced,
+      we feel as if we may yet live to see the end of life in America as we have always
+      known it. By Charles D. Hayes May 1, 2017 More Californians Should Retire Like
+      Vin Scully Joe Mathews: We''d all be better off if older workers said long, extended
+      goodbyes. By Joe Mathews Sep 30, 2016 The Logistics of Retirement Steve Hochstadt:
+      I have found it hard to grasp what it means that I no longer have to accomplish
+      work every day. Behavior that meant laziness and avoidance, like sleeping late
+      or taking a nap, now mean something else, because there is much less pressure
+      to accomplish something. By Steve Hochstadt Jul 20, 2016 What Does Retirement
+      Mean? Steve Hochstadt: Retirement means getting up in the morning without a day
+      full of activities that must be done today. I’ll have much more spontaneous control
+      over what I do. By Steve Hochstadt May 24, 2016 Alzheimer’s as Depicted in the
+      Novel We Are Not Ourselves Walter Moss: Reading We Are Not Ourselves, I experienced
+      some of the same feelings I have when seeing or reading one of Chekhov’s great
+      works, like his plays Uncle Vanya and The Seagull. By Walter G. Moss Feb 6, 2016
+      What? No Movie Nights for Seniors? Michael T. Hertz: One night instead of having
+      the movie night in the apartment, you have it in the lounge. Have you broken any
+      rules? Yes, apparently. By Michael T. Hertz Jan 8, 2016 Uncertain Times Ahead
+      for California’s Aging Pandora Young: Retirement insecurity is a nationwide problem,
+      but the issue is compounded in California due to the high cost of living. By Pandora
+      Young Oct 15, 2015 Is Adult Protective Services Protecting Abusers? Janet Phelan:
+      If President Obama is truly serious about routing out the systemic abusers, one
+      might want to give him this tip:  His Attorney General has been the recipient
+      of hundreds of reports about guardians abusing their wards, as has the FBI. By
+      Janet Phelan May 18, 2015 How My Grandma Could Solve the ‘End of Life’ Debate
+      Joe Mathews: At almost 100 years old, this strong-minded Californian knows that
+      life (and death) isn''t so simple. By Joe Mathews May 8, 2015 California Goes
+      Dark By Janet Phelan Apr 27, 2015 A Rhapsody of Falling Apart Charles Hayes: Because
+      of our aging population, we are facing an economic and human needs train wreck
+      of epic proportions. By Charles D. Hayes Apr 6, 2015 Loading… See More © 2026
+      Site Map About Contact Us Authors Privacy Policy Privacy Settings CLOSE CLOSE'
+    one_sentence_summary: The article discusses various issues affecting the senior
+      community, including healthcare, Social Security, and the challenges faced by
+      older adults, particularly those with mental illness, while highlighting California's
+      Master Plan on Aging as a potential model for other states.
+    paragraph_summary: The article discusses various issues related to the aging population
+      and the challenges faced by seniors, particularly in California. It highlights
+      the placement of mentally ill individuals in senior housing, the need for a comprehensive
+      master plan to address demographic changes, and the importance of traditional
+      Medicare over Medicare Advantage due to concerns about fraud. Additionally, it
+      touches on the potential cuts to Social Security, the impact of aging veterans
+      on senior communities, and the cultural perception of aging in a society that
+      often values youth. The piece emphasizes the necessity for systemic reforms to
+      ensure the well-being and dignity of seniors as they navigate healthcare, financial
+      security, and social support.
+    published: '2026-01-18T05:59:47.127012+00:00'
+  - title: Pandemic
+    url: https://www.laprogressive.com/healthcare/pandemic
+    text: 'Pandemic - LA Progressive Skip to main content Topics Animal Rights Climate
+      Change Economic Equality Education Reform Elections and Campaigns Foreign Policy
+      Africa Asia Europe Latin America The Middle East Healthcare Food Policy Pandemic
+      Senior Community Immigration Reform Labor Law and the Justice System LBGTQ+ Progressive
+      Issues Video Racism The Media War and Peace Veterans Events ACLU People Power
+      Subscribe Podcast YouTube Channel GLOSSARY Site Map About Contact Us Authors Privacy
+      Policy Privacy Settings January 18, 2026 Topics Authors Linktr.ee Subscribe Podcast
+      YouTube Channel GLOSSARY Topics Authors Linktr.ee Subscribe Podcast YouTube Channel
+      GLOSSARY Pandemic Home Healthcare Issues Food Policy Pandemic Senior Community
+      Pandemic 7 Days Paid Sick Leave Essential for Workers, Public Health, Employers
+      To protect essential workers, improve public health, and address the COVID threat
+      and future pandemics, seven days of paid sick leave is an indispensable tool.
+      By Martin Bennett Sep 3, 2023 Long Covid Patients Warning: An End to Pandemic-Era
+      Benefits Means New Hardship for Millions Long COVID advocates decry the end of
+      the national emergency, because doing so says the pandemic is over, no need to
+      be careful. By Larry Buhl Jun 3, 2023 Our Pandemic Grief Has No Expiration Date
+      The extent of grief’s reach among American society has often gone underestimated,
+      despite good-faith efforts to measure it. By Martha Greenwald , Sarah Wagner and
+      Suzanne Brennan Firstenberg May 12, 2023 Workers with Long Covid Struggle to Make
+      a Living Paid sick leave for COVID dwindles, impacting the most vulnerable employees.
+      By Larry Buhl Apr 13, 2023 Untold: COVID’s Impact on California’s Mental Health
+      Raising wages and a recommitment to direct financial aid could alleviate some
+      of the psychological stress that was building before the pandemic exacerbated
+      it. By Mark Kreidler Feb 22, 2023 Delayed Monkey Pox Response: Have We Learned
+      Anything? Our response to the monkeypox outbreak should be informed by what we
+      learned from the COVID pandemic ensuring the fair distribution of vaccines and
+      research. By Minerva Canto Aug 25, 2022 How the GOP Never Gave Ray DeMonia a Chance
+      to Survive Two days short of his 74th birthday Ray died of a heart attack that,
+      in and of itself, had nothing to do with Covid. By Thom Hartmann Aug 13, 2022
+      Why We Are Not ''In This Together Our government has abandoned its responsibility
+      to protect its citizens by blaming its failures on the very individuals it was
+      elected to protect. By Maggie Mills Aug 3, 2022 World Trade Organization Opts
+      for Greed Over Worldwide Vaccinations The health of all people is being sacrificed
+      to Big Pharma profits and rich countries’ saber-rattling sanctions. Meanwhile,
+      other countries are capable of meeting the world’s vaccine needs. By Prabir Purkayastha
+      Jul 26, 2022 Workers and the Company as One Against COVID Tom Conway: Burroughs
+      said some of her coworkers proudly tell friends and loved ones about the role
+      they play in defeating the coronavirus. By Tom Conway Jul 6, 2022 How Will Covid
+      Affect a Generation of Young Californians? The uneven impact of the pandemic has
+      fallen heaviest on the most vulnerable students in the state. By Mark Kreidler
+      Jul 5, 2022 Covid Deaths in the US (over 1 million) and China (about 5000) Had
+      China followed the same course as the US, it would have experienced at least 4
+      million deaths. Had the US followed China’s course it would have had only 1306
+      deaths total! By John V. Walsh Jun 27, 2022 Living Through the Best and (Especially)
+      Worst of Times Here I offer my personal Covid tale, organized in three acts only
+      because my storyteller instinct demands a beginning, middle, and end… when in
+      truth, there is no end, not yet anyway. By Nina Burleigh Jun 14, 2022 COVID''s
+      Staggering Death Toll In these resurgent threats to women''s rights and gender
+      equality, we must redouble our efforts to protect women''s sexual reproductive
+      health & rights. Read more! By Jamala Rogers May 31, 2022 North Korea Puts Missiles
+      Over Human Security North Korea''s missile tests have gotten Pyongyang closer
+      to its goal of developing a credible, survivable nuclear weapons delivery. By
+      Mel Gurtov May 27, 2022 Why Are So Many Latino Covid Victims Misidentified? In
+      a Latino Community near Chicago, too many victims of Covid are identified as white,
+      Black, or other, a misclassification that could be costing Latinos urgently needed
+      public health services. By Ana Arana , Linda Jue and Kyra Senese May 18, 2022
+      Pandemic Anti-Rights Syndrome After two years of obediently masking up to enter
+      airports and planes around the world, I found my first unmasked travel experience
+      jarring indeed, even though I kept mine on. By Nina Burleigh May 12, 2022 Prison
+      and Fines in This Year’s Benefit Package Those that were termed heroes during
+      early covid, individuals like teachers, nurses, and others keeping people fed
+      have now entered a new decidedly non-heroic phase. By Kathleen Wallace Apr 29,
+      2022 Making Sense of a Poor People''s Pandemic Today, the poor live at the crossroads
+      of injustice, hurt first and worst by the interlocking evils of climate change,
+      militarism, and racism, as well as other forms of violence and inequality. By
+      Liz Theoharis Apr 21, 2022 Covid-19 Death Rates in Poorer US Counties The gap
+      was even more significant during the worst phases of the pandemic. To know about
+      Covid-19 death rates in poorer US counties were early Double, read blog here!
+      By Karen Dolan Apr 17, 2022 The GOP Never Gave Ray DeMonia a Chance to Survive
+      During COVID 19, non-COVID related emergencies faced many problems and lost their
+      lives. To know in brief, read Gave Ray DeMonia''s story of survival here! By Thom
+      Hartmann Apr 15, 2022 Covid Continues to Kill As always happens in matters of
+      health care, Black people have been disproportionately impacted by the pandemic.
+      By Margaret Kimberley Mar 26, 2022 As Covid Healthcare Support Ends With Covid
+      funding vanishing, it reveals a health system driven by debt collectors and bankruptcy
+      By Larry Wines Mar 25, 2022 Newsom and Public Health: A Puzzling Indifference
+      Mark Kreidler: This year, Newsom has another budget surplus, another opportunity
+      to help reverse decades of underfunding county public health systems. By Mark
+      Kreidler Mar 6, 2022 Loading… See More © 2026 Site Map About Contact Us Authors
+      Privacy Policy Privacy Settings CLOSE CLOSE'
+    one_sentence_summary: The article emphasizes the critical need for seven days of
+      paid sick leave as an essential measure to protect workers, enhance public health,
+      and address ongoing COVID-19 challenges and future pandemics.
+    paragraph_summary: The article discusses various aspects of the ongoing impact of
+      the COVID-19 pandemic, emphasizing the need for policies like seven days of paid
+      sick leave to protect essential workers and improve public health. It highlights
+      the struggles faced by individuals with Long COVID, the psychological toll of
+      the pandemic, and the disproportionate effects on marginalized communities, including
+      the Latino population. The piece critiques the government's response to the pandemic,
+      noting the abandonment of support for vulnerable populations and the challenges
+      posed by the end of pandemic-era benefits. Overall, it underscores the importance
+      of continued vigilance and support for public health measures as society navigates
+      the aftermath of the pandemic.
+    published: '2026-01-18T05:59:41.252521+00:00'
+  - title: Food Policy
+    url: https://www.laprogressive.com/healthcare/food-policy
+    text: 'Food Policy - LA Progressive Skip to main content Topics Animal Rights Climate
+      Change Economic Equality Education Reform Elections and Campaigns Foreign Policy
+      Africa Asia Europe Latin America The Middle East Healthcare Food Policy Pandemic
+      Senior Community Immigration Reform Labor Law and the Justice System LBGTQ+ Progressive
+      Issues Video Racism The Media War and Peace Veterans Events ACLU People Power
+      Subscribe Podcast YouTube Channel GLOSSARY Site Map About Contact Us Authors Privacy
+      Policy Privacy Settings January 18, 2026 Topics Authors Linktr.ee Subscribe Podcast
+      YouTube Channel GLOSSARY Topics Authors Linktr.ee Subscribe Podcast YouTube Channel
+      GLOSSARY Food Policy Home Healthcare Issues Food Policy Pandemic Senior Community
+      Food Policy Making Big Food Pay Its Ecological Bill: The Next Frontier of Climate
+      Accountability The “polluter pays” principle transformed the energy industry half
+      a century ago. Now, as industrial agriculture drives climate breakdown, deforestation,
+      and water scarcity, experts say it’s time to apply the same rule to our food systems—and
+      make corporations, not consumers, bear the cost of the damage. By Alex Crisp Jan
+      10, 2026 Why Can''t We Feed Our Hungry Neighbors? As Congress slashes SNAP, more
+      states need to step up to fill in the gap. By Sonali Kolhatkar Dec 5, 2025 Getting
+      By, Up Close and Personal, in the World of Donald Trump How long can we live in
+      the strange world of President Donald Trump and his version of what might be thought
+      of as Defeat Gardens before we figure out a better way By Frida Berrigan Dec 4,
+      2025 Finding the Answer to Hunger All Around Us in Fertile California A program
+      in Los Angeles County is recycling unused food to feed hungry residents — and
+      offering a model for other cities. By Mark Kreidler Dec 2, 2025 Beef vs The Planet
+      - Every Meal an Opportunity Why are scientists saying, "Every Meal: An Opportunity"?
+      Is it because cutting meat is the fastest way to reverse global warming By Patricia
+      Hynes Aug 5, 2025 Are Red States About to Go Hungry Thanks to Trump? Trump’s so-called
+      “Big Beautiful Bill” will result in the largest cut to SNAP in history, at $186
+      billion through 2034. By Ta’Kyla Bates Jul 24, 2025 Subverting Corporate Logos
+      to Inform, Inspire and Incite to Action Subvertisements features and interprets
+      the appropriation of commercial advertisements in protest posters. The posters
+      provoke strong responses, anger, agreement, amusement. By Lori A. Zimmerman Jul
+      2, 2025 Hungry Californians Face Losing Their Daily Bread: The Great Food Bank
+      Robbery A new landscape of scarcity is threatening even the state’s food basket
+      regions. By Mark Kreidler May 24, 2025 Trader Joe’s Shoppers Hear About Dirty
+      Birds The captive birds are little more than helpless prisoners of a system that
+      views them solely as a meat commodity and not as living feeling animals. By Phil
+      Pasquini Feb 23, 2025 How About Eating Less Meat? For agriculture as with energy,
+      the real climate solutions are being silenced by the corporate cacophony. By Allie
+      Molinaro Jan 3, 2025 Why Supporting Local Food Economies Is Urgent Our food system
+      is linked to an economic system fundamentally biased against what’s good for people
+      and the planet. By Helena Norberg-Hodge Nov 2, 2024 How Corporate Profiteers Rob
+      America’s Farmers America’s agriculture policies were written by corporate lobbyists
+      who couldn’t run a watermelon stand. By Jim Hightower Sep 25, 2024 Food Industry
+      Concealing Possible Destruction of the Tropics? Millions of tons of palm oil are
+      ‘missing’ from Big Food’s deforestation-free claims. By Emma Rae Lierley Jul 22,
+      2024 How Food Companies Make Their Products Addictive, Leading to Chronic Diseases
+      Foods with unnaturally high levels of sugar and salt keep Americans snacking their
+      way to obesity. By Melissa Kravitz Hoeffner Jun 17, 2024 GOP Stalinesque Plan
+      2025 Would Skew Future U.S. Food and Agriculture to Undercut Farm Protections
+      The conservative think tank Heritage Foundation wants to rid the USDA of sustainability,
+      climate change mitigation, and racial equity. By Elizabeth Henderson Jun 5, 2024
+      Do Weight Loss Drugs Go Hand-in-Hand with Junk Food Industry? Capitalism has built
+      systems of inequality in food, health, and wealth and convinced us that the cause
+      is individual failure, not systemic predation. By Sonali Kolhatkar May 14, 2024
+      Fluoride in Drinking Water—Again? The Birch Society’s best-known conspiratorial
+      flight of fancy was its claim that putting fluoride in water was a Moscow-directed
+      mind-control plot. By Berry Craig Feb 18, 2024 Are GOP Governors Fine with Letting
+      Poor Children Starve? Roughly half of these states are former confederate states
+      with large Black populations, a long record of treating people poorly and a history
+      of not regarding Black people as human beings. By David A. Love Jan 28, 2024 Loving
+      Sheep and Loving Lamb Chops Not Compatible We can build a more peaceful and healthy
+      world right now, so let’s start eating for the future we want today. By Zoe Weil
+      Jan 21, 2024 Carbon Farming: Keeping Soil Healthy While Combating Climate Change
+      How one North Dakota farmer saved his farm and livelihood using carbon-friendly
+      farming methods. By John J. Berger Jan 14, 2024 Farm Bill Delay Gives Chance to
+      Heed UN Recommendations, Address Price Volatility Family farmer advocates are
+      calling for pricing reform because many producers have been negatively impacted
+      by many of the same world events as consumers. By Anthony Pahnke Dec 6, 2023 Spending
+      Cuts Take Priority Over Child Poverty Programs The end of pandemic relief programs
+      is returning millions of children to poverty. By Mark Kreidler Oct 23, 2023 Kids
+      Should Not Have to Pay for School Lunches If education is free at the point of
+      use, why aren’t school meals? By Sonali Kolhatkar Oct 3, 2023 How My Tiny Plot
+      Produced 5,000 Pounds of Food Without Using Manure: Vegan Farming Veganic agriculture
+      is the food revolution for the modern world. By Jimmy Videle Sep 21, 2023 Loading…
+      See More © 2026 Site Map About Contact Us Authors Privacy Policy Privacy Settings
+      CLOSE CLOSE'
+    one_sentence_summary: The article discusses the urgent need to hold corporations
+      accountable for their environmental impact in the food industry, advocating for
+      a "polluter pays" principle similar to that which transformed the energy sector,
+      as industrial agriculture contributes significantly to climate change and resource
+      depletion.
+    paragraph_summary: The article discusses the urgent need for accountability in the
+      food industry, particularly in light of its significant contributions to climate
+      change, deforestation, and water scarcity. Experts advocate for applying the "polluter
+      pays" principle, which successfully transformed the energy sector, to industrial
+      agriculture, thereby shifting the financial burden of environmental damage from
+      consumers to corporations. Additionally, the article highlights various food policy
+      issues, including the impact of SNAP cuts on hunger, innovative programs in California
+      that recycle food to assist those in need, and the broader implications of corporate
+      practices on public health and local economies. Overall, it emphasizes the necessity
+      of reforming food systems to prioritize sustainability and equity.
+    published: '2026-01-18T05:59:36.029255+00:00'
+  - title: The Middle East
+    url: https://www.laprogressive.com/foreign-policy/middle-east
+    text: 'Middle East - LA Progressive Skip to main content Topics Animal Rights Climate
+      Change Economic Equality Education Reform Elections and Campaigns Foreign Policy
+      Africa Asia Europe Latin America The Middle East Healthcare Food Policy Pandemic
+      Senior Community Immigration Reform Labor Law and the Justice System LBGTQ+ Progressive
+      Issues Video Racism The Media War and Peace Veterans Events ACLU People Power
+      Subscribe Podcast YouTube Channel GLOSSARY Site Map About Contact Us Authors Privacy
+      Policy Privacy Settings January 18, 2026 Topics Authors Linktr.ee Subscribe Podcast
+      YouTube Channel GLOSSARY Topics Authors Linktr.ee Subscribe Podcast YouTube Channel
+      GLOSSARY Middle East A Moment of Hope in Gaza By Kathy Kelly Dec 29, 2025 In Courting
+      Saudi Arabia, Is Trump Emulating MBS’s Authoritarianism? By Henry A. Giroux Nov
+      27, 2025 Who Is Ready to Die for Trump’s Gaza Plan? So Far, Nobody By Medea Benjamin
+      and Nicolas Davies Nov 22, 2025 Urgent Next Steps for Palestine at the United
+      Nations By Nicolas Davies Oct 10, 2025 Urgent Next Steps for Palestine at the
+      UN By Nicolas Davies Oct 8, 2025 Children Shouldn’t Be Casualties: Gaza, Israel,
+      and the Cruel Logic of Occupation By David A. Love Sep 28, 2025 Gaza Sky Geeks
+      - The Digital Uprising of Gaza''s Youth By Guest Author Sep 26, 2025 Why the SanctionsKill
+      Campaign Supports BDS By Jill Clark-Gollub Sep 18, 2025 Armed Protective Force
+      Needed to Stop Genocide By Stan Cox Sep 17, 2025 Disaster & Suffering By W. D.
+      Ehrhart Sep 16, 2025 5 title deed traps every Cyprus property buyer must avoid
+      in 2025 (Developer interview insights) By Britta Hedlund Aug 20, 2025 Yves Engler
+      Fights Back: Genocide Politics, Zionist Smears, and the Battle for the Left By
+      Ann Garrison Aug 4, 2025 Making Noise to Stop Starving Gaza By Phil Pasquini Jul
+      27, 2025 All Hands on Deck...For Genocide By Jacob Boas Jul 20, 2025 EcoClean:
+      The Trusted Name for Kitchen Deep Cleaning in Dubai By Sejal Desai Jul 14, 2025
+      Trump’s War with Iran Begins By Mel Gurtov Jun 24, 2025 Somaliland Becoming US
+      Ally in the New Cold War By Ann Garrison Jun 22, 2025 Israel''s Illegal Attack
+      on Iran By Vijay Prashad Jun 15, 2025 A Quick and Easy Way to Starve to Death
+      By Mike Ferner Jun 13, 2025 Dear Bonespurs: Where''s Your Big Beautiful Deal?
+      By Dan Embree May 18, 2025 This House Regrets Western Intervention in the Middle
+      East By Ann Wright May 18, 2025 Donald in Arabia By Mel Gurtov May 16, 2025 Flotilla
+      Coalition Ship to Gaza Attacked at Sea By Medea Benjamin May 2, 2025 Appalled
+      at Genocide Funding, 2,000 US Taxpayers Turn to the UN for Redress By Marjorie
+      Cohn Apr 15, 2025 Loading… See More © 2026 Site Map About Contact Us Authors Privacy
+      Policy Privacy Settings CLOSE CLOSE'
+    one_sentence_summary: The article discusses various perspectives on the ongoing
+      conflict in Gaza, highlighting issues such as humanitarian crises, political maneuvers,
+      and calls for action from different authors and activists.
+    paragraph_summary: The article discusses various perspectives and urgent issues
+      surrounding the ongoing conflict in Gaza and the broader Middle East, highlighting
+      the humanitarian crisis and the impact of political decisions on the region. It
+      features contributions from multiple authors who address topics such as the implications
+      of U.S. foreign policy, the need for urgent action at the United Nations, and
+      the experiences of Gaza's youth in the face of adversity. The piece emphasizes
+      the importance of recognizing the suffering of civilians, particularly children,
+      and calls for solidarity and support for Palestine amidst the ongoing violence
+      and occupation.
+    published: '2026-01-18T05:59:29.663578+00:00'
+  - title: Latin America
+    url: https://www.laprogressive.com/foreign-policy/latin-america
+    text: 'Latin America - LA Progressive Skip to main content Topics Animal Rights
+      Climate Change Economic Equality Education Reform Elections and Campaigns Foreign
+      Policy Africa Asia Europe Latin America The Middle East Healthcare Food Policy
+      Pandemic Senior Community Immigration Reform Labor Law and the Justice System
+      LBGTQ+ Progressive Issues Video Racism The Media War and Peace Veterans Events
+      ACLU People Power Subscribe Podcast YouTube Channel GLOSSARY Site Map About Contact
+      Us Authors Privacy Policy Privacy Settings January 18, 2026 Topics Authors Linktr.ee
+      Subscribe Podcast YouTube Channel GLOSSARY Topics Authors Linktr.ee Subscribe
+      Podcast YouTube Channel GLOSSARY Latin America Home Foreign Policy Africa Asia
+      Europe Latin America The Middle East Latin America Haiti Who’s Really Running
+      Venezuela? Will Delcy Rodriguez govern the country as a compliant and coerced
+      US puppet, or as the leader of an undefeated and independent Venezuela? By Medea
+      Benjamin and Nicolas Davies Jan 11, 2026 Sovereignty for Me but Not for Thee Trump
+      will define international law as he sees fit, and he will find nothing in it it
+      that obliges him to respect the sovereignty of other states. By Chuck Yates Jan
+      11, 2026 The New Banana Wars Trump’s attack on Venezuela is in a long tradition
+      of American war against Central and South America, and against people from those
+      areas. By Chuck Yates Jan 8, 2026 United Left Platform Calls for Mass Resistance
+      to U.S. Imperialist Attack on Venezuela The United Left Platform (U.S.), which
+      the International Marxist-Humanist Organization is part of, has issued this statement
+      in opposition to the Trump Administration’s illegal and unwarranted invasion of
+      Venezuela and in support of those around the world voicing their opposition to
+      it By Guest Author Jan 7, 2026 Venezuela vs. the Empire US imperialism has never
+      given up on regime change in Venezuela for the past quarter century. Just like
+      it has never with Iran for nearly half a century. Nor Cuba for the past 65 years.
+      By Jack Rasmus Jan 7, 2026 Naked Imperialism: White Men Gone Mad... Bolívar called
+      it. The method is always the same: proclaim liberty, deploy force, extract value,
+      leave instability, then blame the locals for “not being ready” for democracy.
+      By Desi Cortez Jan 6, 2026 With Maduro, China in the Crosshairs Beijing relied
+      on Venezuelan crude oil, extended massive loans, and carried out major infrastructure
+      projects there, only to be confronted with the reality that American power remains
+      unshakable By Dimitris Eleas Jan 6, 2026 From Vietnam to Venezuela: How Corporate
+      War Profiteering Guarantees U.S. Defeat Same old, same old - From Eisenhower’s
+      advisors in Vietnam to oil-driven interventions today, U.S. wars follow a predictable
+      pattern: corporate profit, imperial overreach, indigenous resistance, eventual
+      failure. By Tom Hall Jan 5, 2026 Trust Me, Venezuela Won''t Be the End For Donald
+      Trump and the cabal of wealthy patrons, both inside and outside his cabinet, the
+      very idea of accountability feels foreign, a belief that by nearly every measure
+      has been reinforced rather than challenged. By Jared O. Bell Jan 5, 2026 Sovereignty
+      Is a Sham: The Hypocrisy of State Power Playing the Rules It Pretends to Follow
+      From Ukraine to Venezuela, claims of sovereignty often conceal strategic self-interest,
+      exposing how global norms are wielded selectively to justify power rather than
+      enforced consistently. By Martina Moneke Jan 5, 2026 Seizing Venezuela: The March
+      of Folly Goes On Moving to give it back to Exxon, Trump will unify the whole country
+      against him. Virtually every Venezuelan wants to keep the oil on public hands.
+      By John Peeler Jan 4, 2026 US Attack on Venezuela: Marriage of Colonialism and
+      Gangster Capitalism What we are witnessing is fascism unbound, armed with military
+      force and insulated by media silence. By Henry A. Giroux Jan 4, 2026 “We’re Going
+      to Run the Country:” Preparing an Illegal Occupation in Venezuela To hear a U.S.
+      president talk about a country as something to be managed, stabilized, and handed
+      over once it behaves properly, it hurts. It humiliates. And it enrages. By Michelle
+      Ellner Jan 3, 2026 Trump Launches Blatant Illegal Act of War Against Venezuela
+      This war also does not reflect the will of the people. Nearly 70% of Americans
+      oppose another war and reject the endless cycle of military interventions carried
+      out in their name. By Medea Benjamin and Michelle Ellner Jan 3, 2026 Year 2025
+      in Review for Latin America and the Caribbean: The Reactionary Backwash Through
+      a combination of elections, judicial maneuvers, and extra-parliamentary pressure,
+      including direct interference by Washington, countries that were formerly left
+      or left leaning have swung sharply to the right. By Roger D. Harris and John Perry
+      Dec 31, 2025 Venezuela Escalation Ignores a Long History of U.S. Hypocrisy on
+      Drugs For decades, Washington has treated narcotics not as a public health challenge
+      but as a political instrument, inflating them into an existential national security
+      threat when expedient and minimizing them when inconvenient. By Eric Ross Dec
+      30, 2025 US Seized Venezuelan Oil Tanker Relying on Illegal Sanctions US armed
+      forces’ seizure of the oil tanker constituted an unlawful use of force in violation
+      of the UN Charter. By Marjorie Cohn Dec 17, 2025 Sharing the Bounty: Cultural
+      Celebrations in Nicaragua Give Back Although Nicaraguans are increasingly leaving
+      the Catholic Church, they are not necessarily turning away from tradition and
+      belief, as Nicaraguans from all walks of life showed by sharing their bounty in
+      their communities for the Feast of the Immaculate Conception. By Becca Renk Foster
+      Dec 14, 2025 Using Olympics as Weapon Against Cuban People The U.S. government
+      is denying visas to Cuban athletes seeking to compete in the Summer 2028 Olympic
+      Games in Los Angeles. By Mark Friedman Dec 10, 2025 The Trump Corollary In every
+      instance where the U.S. intervened in Latin America, leaving tens of thousands
+      dead and entire societies destabilized, it was never really communism that Washington
+      feared. By Eric Ross Dec 8, 2025 Trump’s Illegal Boat Strikes Echo Duterte’s “Drug
+      War” Mass Killings Former Philippine President Duterte awaits trial in the ICC
+      for using the pretext of a drug war for his murder campaign. By Marjorie Cohn
+      Dec 6, 2025 Trump Commands Venezuela’s Heavens Closed The US attempt to impose
+      a no-fly zone exposes a desperate imperial drive for domination. By Roger D. Harris
+      Dec 1, 2025 The Spirit of Chavismo: Why Trump Must Not Invade Venezuela And so
+      it is written—tragically, predictably—that Venezuelans and Americans will bleed
+      because power prefers spectacle to accountability. By Peter McLaren Nov 29, 2025
+      It''s Not Only about Venezuela: Trump Intends a Wider Domino Effect Trump’s neocon
+      advisers appear to want to seize the moment and embark on hemispheric political
+      change, bringing a Trumpian “Donroe Doctrine” to fulfilment. By John Perry and
+      Roger D. Harris Nov 26, 2025 Loading… See More © 2026 Site Map About Contact Us
+      Authors Privacy Policy Privacy Settings CLOSE CLOSE'
+    one_sentence_summary: The article discusses the ongoing U.S. imperialist interventions
+      in Venezuela, highlighting the historical context, the implications of Trump's
+      administration's actions, and the broader impact on Latin America, emphasizing
+      the struggle for sovereignty and resistance against foreign domination.
+    paragraph_summary: The article discusses the ongoing U.S. intervention in Venezuela,
+      highlighting the historical context of American imperialism in Latin America.
+      It critiques the Trump administration's actions, framing them as part of a long-standing
+      pattern of U.S. attempts to exert control over the region under the guise of promoting
+      democracy and stability. Various authors express concerns about the implications
+      of such interventions, arguing that they often lead to destabilization and suffering
+      for local populations. The piece emphasizes the hypocrisy of U.S. foreign policy,
+      which selectively applies principles of sovereignty and international law to justify
+      military actions while disregarding the will of the people in affected countries.
+      Overall, it calls for resistance against what it describes as illegal and unwarranted
+      aggression towards Venezuela.
+    published: '2026-01-18T05:59:24.589163+00:00'
+  - title: Europe
+    url: https://www.laprogressive.com/foreign-policy/europe
+    text: 'Europe - LA Progressive Skip to main content Topics Animal Rights Climate
+      Change Economic Equality Education Reform Elections and Campaigns Foreign Policy
+      Africa Asia Europe Latin America The Middle East Healthcare Food Policy Pandemic
+      Senior Community Immigration Reform Labor Law and the Justice System LBGTQ+ Progressive
+      Issues Video Racism The Media War and Peace Veterans Events ACLU People Power
+      Subscribe Podcast YouTube Channel GLOSSARY Site Map About Contact Us Authors Privacy
+      Policy Privacy Settings January 18, 2026 Topics Authors Linktr.ee Subscribe Podcast
+      YouTube Channel GLOSSARY Topics Authors Linktr.ee Subscribe Podcast YouTube Channel
+      GLOSSARY Europe Home Foreign Policy Africa Asia Europe Latin America The Middle
+      East Europe Europe on Edge After Latest US National Security Strategy Paper Without
+      naming them directly, the document says the United States should be “cultivating
+      resistance” across Europe by supporting political parties that fight against migration
+      and promote nationalism. By Mel Gurtov Dec 2, 2025 Trump''s Russification of America
+      On being female in a potentially fascist country. By Andrea Mazzarino Nov 30,
+      2025 Zelensky’s Predicament At some point, Trump may tire of the process and decide
+      to abandon Ukraine, risking blowback from many Republicans in Congress. By Mel
+      Gurtov Nov 25, 2025 Trump’s 28-Point Ukraine War Plan Is it a Trump tactic to
+      justify further US withdrawal from involvement in the war, once the Europeans
+      reject it, and to let the Europeans have ‘their war’ with Russia in Ukraine? By
+      Jack Rasmus Nov 24, 2025 France Honors Terrorist Victims on 10th Anniversary The
+      Eiffel Tower was awash in red, white and blue representing the French flag, making
+      for a spectacularly impactful scene of national resistance, solidarity and unity
+      against terrorism. By Phil Pasquini Nov 14, 2025 Left Takes Irish Presidency in
+      a Landslide While Connolly has said that she will represent the entire country,
+      she will be largely the voice of the working-class and the oppressed —not the
+      Irish landlords and bankers. By Vijay Prashad Nov 1, 2025 The 5% Solution: A Realpolitik
+      Path to Peace in Ukraine A modest territorial concession, backed by NATO guarantees
+      and Russian investment, could end the stalemate, secure Ukrainian sovereignty,
+      and lay the groundwork for lasting European stability. By Martina Moneke Oct 2,
+      2025 Two Lusty “Nos” from the French This Week“ The essential coalition that brought
+      down the government then was the left and the far-right, many of whose rural constituents
+      would have been themselves victims of the budget cuts. By Dennis Broe Sep 14,
+      2025 NATO’s 5% Pledge: An Obscene Betrayal of Global Needs This is not defense;
+      it’s extortion on a global scale, pushed by a president who views diplomacy as
+      a shakedown and war as good business. By Medea Benjamin Jun 26, 2025 The Flame
+      Still Breathes: Ukraine, Memory, and the Fight for Democracy Nationalism turned
+      inward becomes blindness when it refuses to recognize the moral and strategic
+      imperatives of solidarity in the face of tyranny. By Peter McLaren Jun 19, 2025
+      Can Europe Stop Putin and Trump? At the moment, unfortunately, it seems more likely
+      that Europe will be the last powerful holdout in a world entering a new political
+      Dark Age. By John Feffer Mar 30, 2025 Trump Gives the World the Middle Finger
+      On one small float in Germany as a part of the celebration of the Easter season,
+      the worldwide effects of Trump and his administration are portrayed with stunning
+      accuracy. By Ann Wright Mar 4, 2025 The Real Trump-Zelensky $500 Billion Minerals
+      Deal Both Trump and Zelensky make token concessions to make it appear as if a
+      deal exists and leave the critical details unclear. By Jack Rasmus Feb 27, 2025
+      Ukraine and Trump: Transaction, Irony, Tragedy Trump’s behavior betrays a literally
+      reactionary desire to return to the world of the nineteenth century, when great
+      powers competed to acquire colonies and clients around the world. By John Peeler
+      Feb 25, 2025 The Lies Have It: Trump-Zelensky Feud Let’s remember this about Ukraine:
+      It’s their country, it is the victim of an aggressive war, and it has fought courageously
+      to preserve its independence. By Mel Gurtov Feb 24, 2025 Appeasement in Europe
+      Statements by Trump, Vice President JD Vance, and Secretary of Defense Pete Hegseth
+      make clear that European security will have to operate on new rules. By Mel Gurtov
+      Feb 19, 2025 Social Democratic Vienna Food in Vienna, consisting of all kinds
+      of seeded-brown breads and vegetarian spreads, is healthier than Paris’ white-flour
+      baguettes and croissants. By Dennis Broe Feb 14, 2025 Bargaining with Fire Can
+      Ukraine navigate the razor’s edge of diplomacy? By Peter McLaren Dec 1, 2024 Ukraine
+      Braces for a Trump Presidency By advocating for reduced U.S. involvement, Trump
+      is signaling a withdrawal from global responsibility at a critical moment in world
+      history. By Peter McLaren Nov 11, 2024 Fighting Corruption in Italy: Impunity
+      = 1, Justice = 0. Magistrates must be irreproachable in the conduct of their criminal
+      investigations. By Eva Joly Oct 20, 2024 Europe at the ‘Hot Gates’! Like the 300
+      Spartans before them at Thermopylae, the West’s distribution to Ukraine of Russia’s
+      $300 billion of assets will not be able to prevent eventual defeat. By Jack Rasmus
+      Jul 18, 2024 A Ukrainian Peace Plan We should not be appeasers, but we should
+      be creative and imaginative in working toward peace. By Walter G. Moss Jul 14,
+      2024 What Happened in France and Why It Matters Unexpected result of French election
+      bars a neofascist victory, constituting a moral as well as a political victory
+      for the Left By Kevin Anderson Jul 11, 2024 French Elections: The Rise of the
+      Left and the Fall of the Center Right and Far Right “Things fall apart; the center
+      cannot hold,” wrote Yeats in “The Second Coming” but he might as well have been
+      covering the just completed French elections. By Dennis Broe Jul 9, 2024 Loading…
+      See More © 2026 Site Map About Contact Us Authors Privacy Policy Privacy Settings
+      CLOSE CLOSE'
+    one_sentence_summary: The article discusses the implications of the latest U.S.
+      National Security Strategy, which suggests the U.S. should support nationalist
+      political parties in Europe to counter migration, reflecting a shift towards cultivating
+      resistance against progressive movements on the continent.
+    paragraph_summary: The article discusses the implications of the latest U.S. National
+      Security Strategy, which suggests that the U.S. should support nationalist and
+      anti-migration political parties across Europe to cultivate resistance against
+      perceived threats. It highlights various political developments in Europe, including
+      the rise of leftist leadership in Ireland, the commemoration of terrorism victims
+      in France, and the precarious situation in Ukraine amidst shifting U.S. foreign
+      policy under Trump. The piece emphasizes the challenges Europe faces, including
+      the potential abandonment of Ukraine by the U.S. and the need for creative diplomacy
+      to navigate ongoing conflicts, while also reflecting on the broader implications
+      of nationalism and political extremism in the region.
+    published: '2026-01-18T05:59:18.678144+00:00'
+  - title: Africa
+    url: https://www.laprogressive.com/foreign-policy/africa
+    text: 'Africa - LA Progressive Skip to main content Topics Animal Rights Climate
+      Change Economic Equality Education Reform Elections and Campaigns Foreign Policy
+      Africa Asia Europe Latin America The Middle East Healthcare Food Policy Pandemic
+      Senior Community Immigration Reform Labor Law and the Justice System LBGTQ+ Progressive
+      Issues Video Racism The Media War and Peace Veterans Events ACLU People Power
+      Subscribe Podcast YouTube Channel GLOSSARY Site Map About Contact Us Authors Privacy
+      Policy Privacy Settings January 18, 2026 Topics Authors Linktr.ee Subscribe Podcast
+      YouTube Channel GLOSSARY Topics Authors Linktr.ee Subscribe Podcast YouTube Channel
+      GLOSSARY Africa Home Foreign Policy Africa Asia Europe Latin America The Middle
+      East Africa Reparative Rebirth: African Children at the Heart of Climate Justice
+      and Sovereignty Millions of African children are born into overlapping crises,
+      and true climate justice must begin with birth equity to uphold human rights,
+      sovereignty, and reparative action. By Esther Afolaranmi Dec 18, 2025 Sudan, the
+      Forgotten Genocide While the Trump administration hasn’t exactly taken sides in
+      Sudan’s civil war, that doesn’t mean there’s no blood on its hands. By Rebecca
+      Gordon Dec 14, 2025 Eritrea Stands with Sudan President Isaias stands for unity
+      of Sudan in danger of a second partition, creating two nations vulnerable to neocolonial
+      domination and resource exploitation. By Ann Garrison Dec 4, 2025 The United Arab
+      Emirates Use a Black Sport to Whitewash a Genocide in Africa National Basketball
+      Association (NBA) players are 70-75% Black, so the game is commonly referred to
+      as “a Black sport.” Now the United Arab Emirates are using it to whitewash a genocide
+      in Africa. By Ann Garrison Nov 29, 2025 To Stop the Bloodshed in Sudan, Cut Off
+      the Weapons Both historically, by dumping arms directly into the country in the
+      70s and 80s, and currently, by arming countries, the U.S. is complicit in the
+      atrocities taking place in Sudan. By Ariel Gold Nov 26, 2025 Rwandan Prisoner
+      of Conscience Victoire Ingabire Ingabire’s story is central to understanding the
+      history of Rwanda and the Democratic Republic of the Congo over the past 35 years.
+      By Ann Garrison Oct 30, 2025 GERD: An Ethiopian Dam by Ethiopian Peoples for Ethiopia''s
+      Future As a project that the entire country helped bring to fruition, the GERD
+      represents practical possibility and Ethiopian national identity and aspiration.
+      By Ann Garrison Sep 18, 2025 The Vital Role Civil Society Plans in Defending Human
+      Rights The world has witnessed numerous atrocity crimes, causing many observers
+      to speak out against the violence, but with no clear end in sight. By Hannah Fields
+      Aug 26, 2025 Rwanda’s Political Prisoner: Victoire Ingabire Jailed Again for Challenging
+      Kagame’s Regime After exposing Rwanda’s authoritarianism and questioning the official
+      genocide narrative, opposition leader Victoire Ingabire faces renewed persecution—and
+      possibly death. By Ann Garrison Jul 27, 2025 Rwanda Advances to Annex DRC''S Kivu
+      Provinces, UN Investigators Report The UN Group of Experts on DRC reports the
+      obvious, that Rwandan President Paul Kagame intends to annex DRC’s Kivu Provinces.
+      By Ann Garrison Jul 13, 2025 ‘Peace’ Agreement Denies that Rwanda/M23 Are Aggressors
+      in DRC The ‘peace’ agreement does not say Rwandan troops must withdraw, acknowledge
+      that they are aggressors, or that there are no Congolese troops in Rwanda. By
+      Ann Garrison Jul 4, 2025 Carbon Bomb Threatens Us All Stop is happening in the
+      DRC. Act to save the Congo and its people. Save the planet from the release of
+      a massive carbon bomb whose harms will not respect borders. By Alexandria Shaner
+      Jul 3, 2025 Somaliland Becoming US Ally in the New Cold War A secessionist state
+      within the internationally recognized borders of Somalia, Somaliland pins its
+      hope of state recognition on the US/EU/NATO in North Africa and the Middle East.
+      By Ann Garrison Jun 22, 2025 Christopher Black’s Lifelong Battle for International
+      Criminal Justice Christopher C. Black fought for justice in politically agendized
+      international courts. By Ann Garrison Jun 11, 2025 Africa Threatened by the Surveillance
+      State - Colonialism and the Harm of Ai Beyond the Surveillance State, the goal
+      openly stated by Tech is to influence, control and direct human behavior on the
+      social level to control mass activity. By Steven Miller Jun 3, 2025 Kagame Is
+      No Traoré A recurring social media trope casts Rwandan President Paul Kagame as
+      a defiant African hero, like Burkina Faso’s Ibrahim Traoré, resisting the West’s
+      dictates, but nothing could be further from the truth. By Ann Garrison May 26,
+      2025 Trump''s South Africa Stance Tough, Disgraceful The Trump administration’s
+      tough stance on South Africa is certainly meant to warn other countries about
+      the consequences of challenging the United States. By Medea Benjamin Mar 25, 2025
+      Stand in Solidarity Stand in solidarity. The Congolese people have the power to
+      shape our own destiny. We can and will bring lasting peace to the Democratic Republic
+      of the Congo. By Ann Garrison Mar 6, 2025 Rwanda Did Not Invade DRC to Save Tutsis
+      The truth is, Rwanda’s and Uganda’s military are mercenaries of multinational
+      companies exploiting Congo’s resources. By Ann Garrison Feb 5, 2025 West Tacitly
+      Blesses Rwanda''s Advance in DRC''s Mineral-rich Kivu Provinces For Democrats
+      or Republicans, Black or white, neocolonization is the name of the game, and the
+      Congolese people continue to suffer. By Ann Garrison Jan 26, 2025 French-Cameroonian
+      Journalist Charles Onana Convicted of Speech Crime A French criminal court has
+      convicted a journalist for writing dissident history about Rwanda and the Democratic
+      Republic of the Congo. By Ann Garrison Dec 15, 2024 Washington Post Tries to Intimidate
+      Eritrean Americans The Washington Post’s latest anti-Eritrea propaganda demonizes
+      Eritrean immigrants defending themselves in the West. By Ann Garrison Nov 29,
+      2024 Donald Trump, Bill Clinton, and the "Dictators Club" Bill Clinton couldn’t
+      be cozier, or more richly rewarded, in what he calls “the dictator’s club.” By
+      Ann Garrison Nov 10, 2024 Closing the Wrong Border Dirty money is a major but
+      little-recognized contributor to our housing affordability crisis. By James K.
+      Boyce and Léonce Ndikumana Nov 4, 2024 Loading… See More © 2026 Site Map About
+      Contact Us Authors Privacy Policy Privacy Settings CLOSE CLOSE'
+    one_sentence_summary: The article discusses the urgent need for climate justice
+      in Africa, emphasizing that addressing birth equity for African children is essential
+      for upholding human rights, sovereignty, and reparative actions amidst overlapping
+      crises.
+    paragraph_summary: The article discusses various pressing issues in Africa, highlighting
+      the interconnected crises faced by the continent, particularly regarding climate
+      justice, human rights, and geopolitical dynamics. It emphasizes the importance
+      of addressing birth equity for African children as a foundational aspect of achieving
+      climate justice and sovereignty. The piece also touches on the ongoing civil war
+      in Sudan, the role of the U.S. in perpetuating violence through arms sales, and
+      the exploitation of African resources by foreign powers. Additionally, it critiques
+      the use of sports, such as basketball, by the United Arab Emirates to obscure
+      human rights abuses and examines the political situation in Rwanda and the Democratic
+      Republic of Congo, where neocolonial influences and authoritarian governance continue
+      to threaten stability and human rights. Overall, the article calls for solidarity
+      and reparative action to empower African nations and their people.
+    published: '2026-01-18T05:59:12.636072+00:00'
   - title: Nationalist Capitalism, What Is It and Why Is Trump Depending on It ?
     url: https://www.laprogressive.com/author/richard-d-wolff/civil-liberties-and-civil-rights/nationalist-capitalism
     text: 'A mid-length answer connects certain similarities in the histories of US

@@ -7,19 +7,1762 @@ description: "Former CIA analyst & State Dept counterterrorism official; runs So
 websites:
   - https://sonar21.com
 summary: |
-  Tensions in the Middle East remain high as the United States continues to bolster its military presence in the Persian Gulf, while diplomatic and covert efforts to destabilize Iran have failed to yield the intended results. Meanwhile, Switzerland’s protest against EU sanctions signals growing friction within Europe over freedom of expression and legal process.
+  The geopolitical landscape remains tense as misinformation, economic threats, and questions of leadership dominate the latest developments. The ongoing crises in Ukraine, the Middle East, and Western political circles continue to shape the global outlook.
   
-  The most recent development centers on the sharp uptick in US military transport flights to Al Udeid Air Base in Qatar since December. **Larry C. Johnson** notes that “there was a notable increase in US military transport aircraft, particularly heavy lifters,” suggesting a significant logistical buildup. This activity is widely interpreted as preparation for potential escalation, with the US reinforcing its strategic posture in the region. The timing coincides with the aftermath of failed Western-backed attempts to spark a color revolution in Iran.
+  The most recent controversy centers on the quality of intelligence and public discourse regarding the Ukraine conflict. **Larry C. Johnson** sharply criticizes the latest Substack article by Sy Hersh, "PUTIN’S LONG WAR," labeling it as "filled with false claims and propaganda." Johnson argues that such misrepresentations not only damage Hersh’s legacy but also reflect poorly on the analytical competence of the US intelligence community. This episode underscores growing skepticism about the reliability of Western narratives on the Russia-Ukraine war, with Johnson suggesting a widening gap between official statements and on-the-ground realities.
   
-  On the Iranian front, the crackdown on protests has intensified, with Iranian authorities announcing public executions for protest leaders. According to **Larry C. Johnson**, “the CIA/Mossad plan to incite a color revolution in Iran has largely failed as Iranian security forces have intensified their crackdown on protests.” The US response has been mostly rhetorical, with no concrete support materializing for the demonstrators. This failure underscores the resilience of the Iranian regime and the limits of external influence.
+  Meanwhile, economic anxieties are mounting in response to US policy proposals. Johnson highlights reports from the Metals and Markets channel about a potential financial crisis triggered by a developing "silver arbitrage trap." This situation is being exacerbated by former President Trump’s threats to impose new tariffs on imports from select EU nations and the UK. The disruption of global silver flows could have far-reaching consequences for financial markets, particularly if retaliatory measures follow. Johnson notes, "There is a high chance that such tariffs could destabilize not just silver markets but broader transatlantic economic relations."
   
-  In Europe, Switzerland has formally protested EU sanctions against Swiss citizen Jacques Baud, arguing that the measures lack due process and infringe on freedom of expression. **Larry C. Johnson** reports that this marks a “delayed but significant response” from Bern, reflecting broader concerns about the EU’s approach to dissent and legal norms.
+  On the domestic front, the debate over Donald Trump’s fitness for office has intensified. Johnson draws a parallel between the need to invoke the 25th Amendment and the difficult decision of taking car keys from an impaired elderly parent, arguing that Trump’s mental and physical state now poses a risk to national security. This call for action reflects a growing consensus among critics that leadership instability in Washington could have significant geopolitical repercussions.
   
-  **Trends and Predictions:**  
-  The US military buildup in the Gulf is likely to continue, with a high chance of further escalation if tensions with Iran persist. The failure of the color revolution attempt in Iran suggests that the regime will remain stable in the short term; “there is high chance” the crackdown will deter further large-scale unrest. In Europe, Switzerland’s protest may prompt a re-examination of EU sanctions policy, but “it is quite likely” that Brussels will maintain its current stance in the near future.
+  Looking ahead, the trends point to continued volatility. The credibility crisis surrounding Western intelligence assessments is likely to deepen, especially as alternative narratives gain traction. Economic risks tied to protectionist policies are "quite likely" to escalate, potentially sparking broader financial instability. Finally, the question of US leadership remains unresolved, with Johnson stating there is a "high chance" of intensified political infighting in the coming weeks.
   
-  Overall, the geopolitical landscape remains volatile, with the Middle East as the primary flashpoint and intra-European disputes over legal norms simmering in the background.
+  In summary, the intersection of contested narratives, economic brinkmanship, and political uncertainty is shaping a precarious global environment. Most definitely, these factors will continue to drive instability and unpredictability in the near term.
 articles:
+  - title: The CIA’s Blatant Lies About Ukraine and Russia… Intentional or Just Trolling
+      Sy Hersh?
+    url: https://sonar21.com/the-cias-blatant-lies-about-ukraine-and-russia-intentional-or-just-trolling-sy-hersh/
+    text: 'The latest Substack from Sy Hersh is a doozy because it is rife with false
+      claims and propaganda. I have known Sy for 45 years and consider him a dear friend.
+      His latest article is an abomination and, in my opinion, represents a stain on
+      his legacy. I feel like I’m watching a basketball legend who is still trying to
+      play the game, but he can no longer run or shoot the basketball. To continue the
+      basketball metaphor, this latest article from Sy is an air ball shot from the
+      free throw line… It does not even hit the rim. The article is titled, PUTIN’S
+      LONG WAR , and it is an unwitting indictment of the US intelligence community’s
+      analytical competence. The opening paragraph sets the tone for the piece: Despair
+      and anger are growing in some parts of the US intelligence community about Vladimir
+      Putin’s refusal to consider ending the war with Ukraine. The Russian president
+      is facing devastating economic problems at home and is ignoring his restless senior
+      military command—in pursuit of what? Despair and anger ? What the hell!!! Why
+      despair ? Is this an admission that the CIA’s plans to defeat Russia are in ruins?
+      Is the CIA, or some other component of the intelligence community, agonizingly
+      frustrated because Vladimir Putin won’t perform as a dancing organ grinder’s monkey?
+      Ditto for the anger bit. But it is the last sentence that is a stunner because
+      the official (or officials) talking to Trump apparently genuinely believe that
+      Russia faces devastating economic problems and that Putin — who has made at least
+      three visits to the front lines in the last two months — is ignoring the Russian
+      General Staff. Nonsense! Here is the next whopper of a lie in this article: Businesses
+      are reeling and shops are closing—in part due to international sanctions—in Moscow
+      and throughout Russia. More Male Bovine Excrement… I’ve been to Moscow twice in
+      the last four months and saw nothing of the sort. Businesses were thriving, not
+      closing up shop. The latest Levada poll (independent, non governmental) just recently
+      released reports Putin’s current approval ratings at a whopping 85%!!! If the
+      economy was collapsing there is no way that he could be so popular! Sy’s next
+      paragraph reveals the lack of critical thinking on the part of his source: One
+      experienced US official, who has been involved in Russian issues for decades,
+      remains both mystified and frustrated by Putin’s refusal last fall to accept an
+      American offer, approved by President Donald Trump but bitterly resented by Ukraine.
+      . . “ As of January, ” he told me, “ Russia’s war with Ukraine will have lasted
+      longer than their war with Germany. In 1945, they were in Berlin. In 2026 they
+      won’t even control Donetsk ,” an eastern Ukrainian province with a large Russian-speaking
+      population that shares a border with Russia. Yeah, Russia’s military really sucks.
+      They are fighting a NATO-proxy army that has the full backing of NATO, which includes
+      advanced weaponry and sophisticated intelligence, and are advancing all along
+      the line of contact… Just not as fast as this clown in Washington, who is gibbering
+      away to Sy, believes that Russia should move. So if Russia’s slow pace is an indictment
+      of its military competence, what does that say about the US military, which spent
+      21 years fighting in Afghanistan against lightly-armed insurgents — who had no
+      foreign backing — and fled the country in August 2021, leaving behind $7.1–7.2
+      billion worth of US-funded military equipment. Trump officials who live in big
+      glass houses should not be throwing rocks at a brick house. Next, Sy regurgitates
+      a demonstrably false claim provided by his source: “Putin knows the ghost in the
+      Kremlin closet,” he said, “is revolution.” The official quoted General Valery
+      Gerasimov, the Russian chief of staff: “I no longer have an army. My tanks and
+      armored vehicles are junk, my artillery barrels worn out. My supplies intermittent.
+      My sergeants and mid-grade officers dead, and my rank and file ex-convicts.” This
+      official is lying. Let’s examine recent public comments from Gerasimov (and they
+      are on video) about the condition of the army that he leads: In late December
+      briefings (e.g., December 29 meeting with Putin and commanders), Gerasimov reported
+      that Russian forces had liberated 334 settlements and over 6,400 square kilometers
+      throughout 2025 overall, framing the army as steadily pushing deeper into Ukrainian
+      defenses with consistent momentum. On December 31, 2025, during an inspection
+      of the Sever (North) Grouping of Forces command post, Gerasimov stated that Russian
+      troops were “confidently advancing deep into enemy defenses” and that December
+      2025 saw the highest rates of offensive operations by the Russian army. He highlighted
+      the liberation of over 700 square kilometers of territory in a month, the expansion
+      of a “security zone” near the Russian border (in Sumy and Kharkiv regions), and
+      the occupation of seven settlements. He described these as record paces and tied
+      them to fulfilling objectives set by President Putin for border security in Belgorod
+      and Kursk regions. On January 15, 2026, while inspecting the Tsentr (Center) Grouping
+      of Forces in the Donetsk direction, Gerasimov praised the group’s advances in
+      liberating parts of the Donetsk People’s Republic (DPR). He claimed Russian forces
+      were advancing “in virtually all directions” on the front, that Ukrainian attempts
+      to halt them were unsuccessful, and that over 300 square kilometers had been seized
+      in the first two weeks of January alone. He also reiterated ongoing successes
+      in areas like Kupyansk (claiming final stages of control) and emphasized high
+      operational tempo. I can understand why this unnamed offical would lie, but I
+      don’t understand why Sy is so gullible. He is allowing himself to be used as a
+      propaganda mouthpiece. The next paragraph belongs in an episode of the Twilight
+      Zone : “The West reached the same stalemate conclusions and seeks to undermine
+      Putin’s internal resolve. Not by military attack but with economic sanctions which
+      affect the elites as well as the population as a whole. It is working—the standard
+      of living is dropping rapidly as taxes, isolation, and casualties grow. Disillusionment
+      and resentment are increasing. Last weekend Russia shut down all cell phone use
+      and mobile internet service nationwide.” Let’s start with the big lie… i.e., Last
+      weekend Russia shut down all cell phone use and mobile internet service nationwide.”
+      I exchanged messages with a number of people in Russia — three of them Americans
+      — over the weekend. They all had functioning cell phones and mobile internet service.
+      I asked one of my friends (he is a retired US Army officer who attended West Point,
+      and now is a permanent resident of Russia) about life in Moscow. Here is what
+      he told me via a cell phone text message that is supposedly not working: There
+      have been some internet access problems. Whatsapp is becoming less usable, but
+      most people switch to Telegram or something else. The internal messenger service,
+      Max, still has some glitches, especially for people with older iPhones like my
+      wife and me. I read someplace that it will only work in iPhone 15 or newer models.
+      If that’s so, it’s definitely a screwup or glitch. However, most people have Chinese
+      made Android smart phones, and our kids’ Androids were easily able to upload Max
+      on them. I just bought two boxes of eggs on Tuesday afternoon. My wife asked me
+      to get a particular brand found at one of the nearby supermarket chains, two of
+      which are within very close walking range (2 blocks!). Eggs are sold here mostly
+      by the metric dozen: 10 eggs. At the time I bought them, the exchange rate was
+      77.78 rubles = $1.00 USD. One metric dozen cost me 54.99 rubles! That’s 10 eggs
+      for 71 cents ($0.71)! That’s 7.1 cents per egg, and is the equivalent of $0.85
+      for 12 eggs! This is one of the most basic high quality and high protein staples,
+      non-GMO! Studies have shown that most salaries have actually gone up! Of course,
+      it also all depends on what business or line of work people are in. Sure, inflation
+      is still present, and taxes have gone up somewhat. But isn’t that happening all
+      over the world? I dare say that these economic effects are a lot better than in
+      many other countries in the West. Electricity, home internet and mobile phone
+      bills are so cheap compared to when we lived in the US that it is laughable! Medical
+      bills are zilch!  as one can pay if one wants to. But my wife and I have both
+      had major (cutting open) and minor surgical procedures, all absolutely free! Kids,
+      too, of course. We had to pay for my son’s braces, but that was also a pittance
+      compared to what they charge in the States. As an official retiree/pensioner,
+      I can have orthopedic dental work now done for free! I need another implant, as
+      I had to have a tooth extracted several months ago. They told me that after 6
+      months, that they can give me a new implant there. If I order a Swiss implant,
+      it would cost me 55 000 rubles ($708 USD). What the heck do I care? I’ll have
+      a Russian made implant for free. Heck, I turn 74 next month. Who needs a fancy
+      Swiss implant? I also have free public transportation now. And because our daughter
+      is handicapped, she and my wife also have free public transportation. (Not long
+      distance trains, but for almost anywhere within both Moscow and the Moscow oblast.)
+      Let me remind you, this is the testimony of a retired US Special Forces officer.
+      If this official who is talking to Sy Hersh is also briefing Donald Trump then
+      we cannot blame Trump for failing to understand the actual situation on the ground
+      in Ukraine… He is being fed monstrous lies. One final point about the alleged
+      economic distress in Russia. The official told Sy: “The army is losing respect,
+      national oil and gas income is down 22 percent and with no ability to borrow from
+      abroad to finance the war with Ukraine. While it is true that oil and gas revenues
+      are down, the official apparently forgot to mention that the oil and gas sector
+      (including production, not just budget taxes) was 9.67% of GDP in 2021, according
+      to the World Bank . Statista/Rosstat data show the oil and gas industry’s share
+      in GDP hovering around 10–15% in recent quarters (through mid-2024; 2025 figures
+      not fully updated but consistent with downward pressure). With respect to finances,
+      Russia’s deficit widened to 2.6% of GDP in 2025 (highest since 2020), partly due
+      to this revenue shortfall. But that is half of the financial challenges confronting
+      the US… For Fiscal Year 2025 (ended September 30, 2025): The deficit was 5.9%
+      of GDP, according to the Congressional Budget Office (CBO) final Monthly Budget
+      Review and Treasury data. This reflects a total deficit of $1.8 trillion (down
+      slightly from $1.84 trillion or 6.3% in FY 2024). When we look at the comparative
+      debt-to-GDP ratios for Russia and the United States, we get a clearer picture
+      of which country is facing financial disaster. Russia has a debt-to GDP ratio
+      of 16–20% while the United States ‘ ratio is a gargantuan 118–125% (gross federal
+      debt), which is more than 6 times Russia’s level. The US ratio is among the highest
+      for advanced economies, driven by persistent large deficits (5.9% of GDP in FY
+      2025), pandemic-era spending, and structural issues like entitlement growth. Russia’s
+      debt burden is far lighter relative to its economy, giving it more fiscal flexibility
+      despite sanctions and defense spending. By contrast, the US faces greater long-term
+      challenges from interest costs and entitlement pressures. I do not know if Sy’s
+      source genuinely believes the pack of lies he fed to Sy, or if he is engaged in
+      some sort of misinformation operation designed to keep the American public in
+      the dark. Either way, Sy got played. Here are my latest podcasts. The first is
+      an abbreviated conversation with Danny Davis. The second is my session, recorded
+      last Friday, with Pascual Lottaz of Neutrality Studies . The last video comes
+      courtesy of Marcello, who is temporarily in Brazil: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: The latest Substack article by Sy Hersh, titled "PUTIN’S LONG
+      WAR," is criticized as filled with false claims and propaganda, tarnishing his
+      legacy and reflecting poorly on the analytical competence of the US intelligence
+      community.
+    paragraph_summary: Sy Hersh's recent Substack article, titled "PUTIN’S LONG WAR,"
+      has drawn sharp criticism for containing numerous false claims and propaganda,
+      leading the author, a longtime friend of Hersh, to describe it as a significant
+      blemish on his legacy. The article suggests that despair and anger are growing
+      within the U.S. intelligence community regarding Vladimir Putin's refusal to end
+      the war in Ukraine, which the critic interprets as an indication of the CIA's
+      failed strategies against Russia. The author challenges the portrayal of Russia's
+      economic struggles and the notion that businesses are closing due to sanctions,
+      asserting that his recent visits to Moscow revealed a thriving economy instead.
+      Overall, the critique emphasizes the article's lack of credibility and its disconnect
+      from reality.
+    published: '2026-01-21T03:52:51+00:00'
+  - title: The CIA’s Blatant Lies About Ukraine and Russia… Intentional or Just Trolling
+      Sy Hersh?
+    url: https://sonar21.com/the-cias-blatant-lies-about-ukraine-and-russia-intentional-or-just-trolling-sy-hersh/
+    text: 'The latest Substack from Sy Hersh is a doozy because it is rife with false
+      claims and propaganda. I have known Sy for 45 years and consider him a dear friend.
+      His latest article is an abomination and, in my opinion, represents a stain on
+      his legacy. I feel like I’m watching a basketball legend who is still trying to
+      play the game, but he can no longer run or shoot the basketball. To continue the
+      basketball metaphor, this latest article from Sy is an air ball shot from the
+      free throw line… It does not even hit the rim. The article is titled, PUTIN’S
+      LONG WAR , and it is an unwitting indictment of the US intelligence community’s
+      analytical competence. The opening paragraph sets the tone for the piece: Despair
+      and anger are growing in some parts of the US intelligence community about Vladimir
+      Putin’s refusal to consider ending the war with Ukraine. The Russian president
+      is facing devastating economic problems at home and is ignoring his restless senior
+      military command—in pursuit of what? Despair and anger ? What the hell!!! Why
+      despair ? Is this an admission that the CIA’s plans to defeat Russia are in ruins?
+      Is the CIA, or some other component of the intelligence community, agonizingly
+      frustrated because Vladimir Putin won’t perform as a dancing organ grinder’s monkey?
+      Ditto for the anger bit. But it is the last sentence that is a stunner because
+      the official (or officials) talking to Trump apparently genuinely believe that
+      Russia faces devastating economic problems and that Putin — who has made at least
+      three visits to the front lines in the last two months — is ignoring the Russian
+      General Staff. Nonsense! Here is the next whopper of a lie in this article: Businesses
+      are reeling and shops are closing—in part due to international sanctions—in Moscow
+      and throughout Russia. More Male Bovine Excrement… I’ve been to Moscow twice in
+      the last four months and saw nothing of the sort. Businesses were thriving, not
+      closing up shop. The latest Levada poll (independent, non governmental) just recently
+      released reports Putin’s current approval ratings at a whopping 85%!!! If the
+      economy was collapsing there is no way that he could be so popular! Sy’s next
+      paragraph reveals the lack of critical thinking on the part of his source: One
+      experienced US official, who has been involved in Russian issues for decades,
+      remains both mystified and frustrated by Putin’s refusal last fall to accept an
+      American offer, approved by President Donald Trump but bitterly resented by Ukraine.
+      . . “ As of January, ” he told me, “ Russia’s war with Ukraine will have lasted
+      longer than their war with Germany. In 1945, they were in Berlin. In 2026 they
+      won’t even control Donetsk ,” an eastern Ukrainian province with a large Russian-speaking
+      population that shares a border with Russia. Yeah, Russia’s military really sucks.
+      They are fighting a NATO-proxy army that has the full backing of NATO, which includes
+      advanced weaponry and sophisticated intelligence, and are advancing all along
+      the line of contact… Just not as fast as this clown in Washington, who is gibbering
+      away to Sy, believes that Russia should move. So if Russia’s slow pace is an indictment
+      of its military competence, what does that say about the US military, which spent
+      21 years fighting in Afghanistan against lightly-armed insurgents — who had no
+      foreign backing — and fled the country in August 2021, leaving behind $7.1–7.2
+      billion worth of US-funded military equipment. Trump officials who live in big
+      glass houses should not be throwing rocks at a brick house. Next, Sy regurgitates
+      a demonstrably false claim provided by his source: “Putin knows the ghost in the
+      Kremlin closet,” he said, “is revolution.” The official quoted General Valery
+      Gerasimov, the Russian chief of staff: “I no longer have an army. My tanks and
+      armored vehicles are junk, my artillery barrels worn out. My supplies intermittent.
+      My sergeants and mid-grade officers dead, and my rank and file ex-convicts.” This
+      official is lying. Let’s examine recent public comments from Gerasimov (and they
+      are on video) about the condition of the army that he leads: In late December
+      briefings (e.g., December 29 meeting with Putin and commanders), Gerasimov reported
+      that Russian forces had liberated 334 settlements and over 6,400 square kilometers
+      throughout 2025 overall, framing the army as steadily pushing deeper into Ukrainian
+      defenses with consistent momentum. On December 31, 2025, during an inspection
+      of the Sever (North) Grouping of Forces command post, Gerasimov stated that Russian
+      troops were “confidently advancing deep into enemy defenses” and that December
+      2025 saw the highest rates of offensive operations by the Russian army. He highlighted
+      the liberation of over 700 square kilometers of territory in a month, the expansion
+      of a “security zone” near the Russian border (in Sumy and Kharkiv regions), and
+      the occupation of seven settlements. He described these as record paces and tied
+      them to fulfilling objectives set by President Putin for border security in Belgorod
+      and Kursk regions. On January 15, 2026, while inspecting the Tsentr (Center) Grouping
+      of Forces in the Donetsk direction, Gerasimov praised the group’s advances in
+      liberating parts of the Donetsk People’s Republic (DPR). He claimed Russian forces
+      were advancing “in virtually all directions” on the front, that Ukrainian attempts
+      to halt them were unsuccessful, and that over 300 square kilometers had been seized
+      in the first two weeks of January alone. He also reiterated ongoing successes
+      in areas like Kupyansk (claiming final stages of control) and emphasized high
+      operational tempo. I can understand why this unnamed offical would lie, but I
+      don’t understand why Sy is so gullible. He is allowing himself to be used as a
+      propaganda mouthpiece. The next paragraph belongs in an episode of the Twilight
+      Zone : “The West reached the same stalemate conclusions and seeks to undermine
+      Putin’s internal resolve. Not by military attack but with economic sanctions which
+      affect the elites as well as the population as a whole. It is working—the standard
+      of living is dropping rapidly as taxes, isolation, and casualties grow. Disillusionment
+      and resentment are increasing. Last weekend Russia shut down all cell phone use
+      and mobile internet service nationwide.” Let’s start with the big lie… i.e., Last
+      weekend Russia shut down all cell phone use and mobile internet service nationwide.”
+      I exchanged messages with a number of people in Russia — three of them Americans
+      — over the weekend. They all had functioning cell phones and mobile internet service.
+      I asked one of my friends (he is a retired US Army officer who attended West Point,
+      and now is a permanent resident of Russia) about life in Moscow. Here is what
+      he told me via a cell phone text message that is supposedly not working: There
+      have been some internet access problems. Whatsapp is becoming less usable, but
+      most people switch to Telegram or something else. The internal messenger service,
+      Max, still has some glitches, especially for people with older iPhones like my
+      wife and me. I read someplace that it will only work in iPhone 15 or newer models.
+      If that’s so, it’s definitely a screwup or glitch. However, most people have Chinese
+      made Android smart phones, and our kids’ Androids were easily able to upload Max
+      on them. I just bought two boxes of eggs on Tuesday afternoon. My wife asked me
+      to get a particular brand found at one of the nearby supermarket chains, two of
+      which are within very close walking range (2 blocks!). Eggs are sold here mostly
+      by the metric dozen: 10 eggs. At the time I bought them, the exchange rate was
+      77.78 rubles = $1.00 USD. One metric dozen cost me 54.99 rubles! That’s 10 eggs
+      for 71 cents ($0.71)! That’s 7.1 cents per egg, and is the equivalent of $0.85
+      for 12 eggs! This is one of the most basic high quality and high protein staples,
+      non-GMO! Studies have shown that most salaries have actually gone up! Of course,
+      it also all depends on what business or line of work people are in. Sure, inflation
+      is still present, and taxes have gone up somewhat. But isn’t that happening all
+      over the world? I dare say that these economic effects are a lot better than in
+      many other countries in the West. Electricity, home internet and mobile phone
+      bills are so cheap compared to when we lived in the US that it is laughable! Medical
+      bills are zilch!  as one can pay if one wants to. But my wife and I have both
+      had major (cutting open) and minor surgical procedures, all absolutely free! Kids,
+      too, of course. We had to pay for my son’s braces, but that was also a pittance
+      compared to what they charge in the States. As an official retiree/pensioner,
+      I can have orthopedic dental work now done for free! I need another implant, as
+      I had to have a tooth extracted several months ago. They told me that after 6
+      months, that they can give me a new implant there. If I order a Swiss implant,
+      it would cost me 55 000 rubles ($708 USD). What the heck do I care? I’ll have
+      a Russian made implant for free. Heck, I turn 74 next month. Who needs a fancy
+      Swiss implant? I also have free public transportation now. And because our daughter
+      is handicapped, she and my wife also have free public transportation. (Not long
+      distance trains, but for almost anywhere within both Moscow and the Moscow oblast.)
+      Let me remind you, this is the testimony of a retired US Special Forces officer.
+      If this official who is talking to Sy Hersh is also briefing Donald Trump then
+      we cannot blame Trump for failing to understand the actual situation on the ground
+      in Ukraine… He is being fed monstrous lies. One final point about the alleged
+      economic distress in Russia. The official told Sy: “The army is losing respect,
+      national oil and gas income is down 22 percent and with no ability to borrow from
+      abroad to finance the war with Ukraine. While it is true that oil and gas revenues
+      are down, the official apparently forgot to mention that the oil and gas sector
+      (including production, not just budget taxes) was 9.67% of GDP in 2021, according
+      to the World Bank . Statista/Rosstat data show the oil and gas industry’s share
+      in GDP hovering around 10–15% in recent quarters (through mid-2024; 2025 figures
+      not fully updated but consistent with downward pressure). With respect to finances,
+      Russia’s deficit widened to 2.6% of GDP in 2025 (highest since 2020), partly due
+      to this revenue shortfall. But that is half of the financial challenges confronting
+      the US… For Fiscal Year 2025 (ended September 30, 2025): The deficit was 5.9%
+      of GDP, according to the Congressional Budget Office (CBO) final Monthly Budget
+      Review and Treasury data. This reflects a total deficit of $1.8 trillion (down
+      slightly from $1.84 trillion or 6.3% in FY 2024). When we look at the comparative
+      debt-to-GDP ratios for Russia and the United States, we get a clearer picture
+      of which country is facing financial disaster. Russia has a debt-to GDP ratio
+      of 16–20% while the United States ‘ ratio is a gargantuan 118–125% (gross federal
+      debt), which is more than 6 times Russia’s level. The US ratio is among the highest
+      for advanced economies, driven by persistent large deficits (5.9% of GDP in FY
+      2025), pandemic-era spending, and structural issues like entitlement growth. Russia’s
+      debt burden is far lighter relative to its economy, giving it more fiscal flexibility
+      despite sanctions and defense spending. By contrast, the US faces greater long-term
+      challenges from interest costs and entitlement pressures. I do not know if Sy’s
+      source genuinely believes the pack of lies he fed to Sy, or if he is engaged in
+      some sort of misinformation operation designed to keep the American public in
+      the dark. Either way, Sy got played. Here are my latest podcasts. The first is
+      an abbreviated conversation with Danny Davis. The second is my session, recorded
+      last Friday, with Pascual Lottaz of Neutrality Studies . The last video comes
+      courtesy of Marcello, who is temporarily in Brazil: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: The latest Substack article by Sy Hersh, titled "PUTIN’S LONG
+      WAR," is criticized as filled with false claims and propaganda, tarnishing his
+      legacy and reflecting poorly on the analytical competence of the US intelligence
+      community.
+    paragraph_summary: Sy Hersh's recent Substack article, titled "PUTIN’S LONG WAR,"
+      has drawn sharp criticism for containing numerous false claims and propaganda,
+      leading the author, a longtime friend of Hersh, to describe it as a significant
+      blemish on his legacy. The article suggests that despair and anger are growing
+      within the U.S. intelligence community regarding Vladimir Putin's refusal to end
+      the war in Ukraine, which the critic interprets as an indication of the CIA's
+      failed strategies against Russia. The author challenges the portrayal of Russia's
+      economic struggles and the notion that businesses are closing due to sanctions,
+      asserting that his recent visits to Moscow revealed a thriving economy instead.
+      Overall, the critique emphasizes the article's lack of credibility and its disconnect
+      from reality.
+    published: '2026-01-21T03:52:51+00:00'
+  - title: Trump’s Confabulations are More Serious than Just a Response to a Bruised
+      Ego
+    url: https://sonar21.com/trumps-peace-delusions-and-fragile-ego/
+    text: 'President Trump and Prime Minister Jonas Gahr Store of Norway during a meeting
+      last year.Credit…Haiyun Jiang for The New York Times Donald Trump is not the only
+      President of the United States that has been described as a narcissist and confabulator
+      , but if Trump was in an Olympic-style competition among Bill Clinton, George
+      W Bush, Barack Obama and Joe Biden, he would be the Gold medalist. Let’s start
+      with Trump’s confabulations about his claim to have settled eight wars. The eight
+      conflicts that  Trump has claimed to have “stopped” or resolved since returning
+      to office in 2025, as part of his self-described role as the “president of peace,”
+      are as follows, based on his public statements and social media posts: Israel
+      and Hamas (Gaza conflict): Trump claims credit for brokering a ceasefire in the
+      two-year war, though Israel has continued to murder Palestinians — albeit at a
+      reduced rate compared to the killing done prior to the ceasefire — and the deal’s
+      durability is questioned. Israel and Iran : He asserts he ended hostilities between
+      these nations, likely referring to a brief 2025 flare-up or broader tensions,
+      but no full-scale war was ongoing, and the situation remains volatile. Moreover,
+      Trump ordered the bombing of Iran… Not exactly an action one associates with peace.
+      Pakistan and India : Trump has boasted about preventing a nuclear escalation between
+      these rivals, claiming millions of lives were saved, though this appears to reference
+      averted border skirmishes rather than an active war. India has explicitly disputed
+      Trump’s claim of brokering a ceasefire in their border conflict (e.g., over Kashmir
+      in May 2025). Indian officials, including Foreign Secretary Vikram Misri and External
+      Affairs Minister S. Jaishankar, stated that the agreement was reached directly
+      between Indian and Pakistani militaries without US mediation or third-party involvement.
+      Rwanda and the Democratic Republic of Congo (DRC): He says he resolved this conflict,
+      but both Rwanda and the DRC have seen their conflict continue despite a US-brokered
+      ceasefire signed in June 2025 (with a formal agreement in December). The DRC has
+      accused Rwanda of violating the deal, and rebel groups (like M23, backed by Rwanda)
+      have advanced further, with fighting persisting even during negotiations. This
+      disputes Trump’s claim of a “ glorious triumph ,” as the peace has not held. Thailand
+      and Cambodia : Trump claims to have halted border clashes, even jokingly calling
+      a supposed flare-up an “extra quarter” war, though this was more of a diplomatic
+      dispute than a full war. Neither Thailand nor Cambodia has confirmed Trump’s claims
+      of multiple ceasefires (e.g., one in late 2025), and border clashes have resumed
+      shortly after announcements like the October 2025 Kuala Lumpur Peace Accord. Officials
+      from both countries have not acknowledged US brokering as the key factor, and
+      renewed airstrikes and fighting directly contradict the “ended” status. Armenia
+      and Azerbaijan : He takes credit for ending hostilities, referring to a ceasefire
+      in the Nagorno-Karabakh region, but tensions and sporadic incidents continue.
+      Armenia and Azerbaijan have not issued denials or contradictions regarding Trump’s
+      mediation. Pashinyan and Aliyev participated in the White House ceremony, and
+      subsequent statements from both sides (e.g., Azerbaijan’s Foreign Ministry and
+      Armenian officials) referenced the US-brokered framework positively while noting
+      ongoing work toward full ratification and implementation. However, The deal is
+      not fully ratified or implemented: It remains a framework/joint declaration requiring
+      parliamentary approval and constitutional changes (e.g., in Armenia, potentially
+      via referendum post-2026 elections). Egypt and Ethiopia : Trump asserts he prevented
+      a war over the Grand Ethiopian Renaissance Dam (GERD) on the Nile, but this was
+      a water-sharing dispute resolved through mediation. Egypt and Ethiopia have no
+      formal peace deal despite Trump’s claims of preventing a war over the Grand Ethiopian
+      Renaissance Dam (GERD). The dispute remains a diplomatic tension over water rights,
+      with no armed conflict to “end” and ongoing mediation without resolution, disputing
+      his role in a conclusive settlement. Serbia and Kosovo : He claims to have stopped
+      a potential war, but no active fighting had occurred since 1999; this likely refers
+      to economic normalization agreements he claims to have facilitated, though underlying
+      issues persist. While Trump remains desperate to be christened, the Peace President
+      , he has ordered bombings in Syria and Nigeria, ordered attacks on boats in the
+      Caribbean allegedly carrying drugs, ordered the kidnapping of Venezuelan President
+      Maduro and is stridently insisting on a forcible takeover of Greenland. The issue
+      of Greenland has prompted some truly bizarre commentary from Donald Trump following
+      a text message from Norway’s prime minister, Jonas Gahr Store, and Finland’s President  over
+      the weekend. Here is the text message from Mr. Store to Mr. Trump on Sunday, Jan.
+      18, at 3:48 p.m.: Dear Mr President, dear Donald – on the contact across the Atlantic
+      – on Greenland, Gaza, Ukraine – and your tariff announcement yesterday. You know
+      our position on these issues. But we believe we all should work to take this down
+      and de-escalate – so much is happening around us where we need to stand together.
+      We are proposing a call with you later today – with both of us or separately –
+      give us a hint of what you prefer! Best – Alex and Jonas Trump, wasting no time,
+      barking back at  Mr. Store on Sunday, Jan. 18, at 4:15 p.m.: Dear Jonas: Considering
+      your Country decided not to give me the Nobel Peace Prize for having stopped 8
+      Wars PLUS, I no longer feel an obligation to think purely of Peace, although it
+      will always be predominant, but can now think about what is good and proper for
+      the United States of America. Denmark cannot protect that land from Russia or
+      China, and why do they have a ‘right of ownership’ anyway? There are no written
+      documents, it’s only that a boat landed there hundreds of years ago, but we had
+      boats landing there, also. I have done more for NATO than any other person since
+      its founding, and now, NATO should do something for the United States. The World
+      is not secure unless we have Complete and Total Control of Greenland. Thank you!
+      President DJT This is pure confabulation and Trump is a confabulator… A confabulator
+      is someone who engages in creating false memories or fabricating stories without
+      intending to deceive. In other words, a confabulator genuinely believes what he
+      is saying is true, even though the claim is not supported by the facts. What makes
+      Trump”s confabulations so alarming is that it occurs primarily due to memory errors
+      often associated with brain damage or certain types of dementia. Someone needs
+      to grab the car keys from Donald Trump. It has been a busy podcast day. Nima is
+      back online from Iran and the Judge is battling winter in New Jersey. I also spoke
+      with Stanislav Krapivnik in Moscow and with Glenn Diesen in Norway. Glenn and
+      I had a great chat about Europe’s chaotic response to Trump’s threat to conquer
+      Greenland: I thank you for your invaluable support by taking time to read or comment.
+      I do not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article critiques Donald Trump's self-proclaimed achievements
+      as a "president of peace," particularly his exaggerated claims of resolving multiple
+      conflicts, including the Gaza conflict, while highlighting ongoing violence and
+      questioning the legitimacy of his assertions.
+    paragraph_summary: In a critique of Donald Trump's claims regarding his role in
+      resolving various international conflicts, the article argues that he exhibits
+      a level of narcissism and confabulation that surpasses previous U.S. presidents.
+      Trump has asserted that he has "stopped" or settled eight wars since returning
+      to office in 2025, including conflicts involving Israel and Hamas, Israel and
+      Iran, and Pakistan and India. However, the article highlights that many of these
+      claims are exaggerated or misleading, as ongoing violence persists, and in some
+      cases, Trump’s actions contradict his assertions of peace. For instance, while
+      he claims to have brokered a ceasefire between Israel and Hamas, violence continues,
+      and Indian officials have disputed his role in mediating the India-Pakistan conflict,
+      stating that agreements were made independently. Overall, the article underscores
+      the dubious nature of Trump's self-proclaimed achievements in foreign policy.
+    published: '2026-01-20T06:01:49+00:00'
+  - title: Trump’s Confabulations are More Serious than Just a Response to a Bruised
+      Ego
+    url: https://sonar21.com/trumps-peace-delusions-and-fragile-ego/
+    text: 'President Trump and Prime Minister Jonas Gahr Store of Norway during a meeting
+      last year.Credit…Haiyun Jiang for The New York Times Donald Trump is not the only
+      President of the United States that has been described as a narcissist and confabulator
+      , but if Trump was in an Olympic-style competition among Bill Clinton, George
+      W Bush, Barack Obama and Joe Biden, he would be the Gold medalist. Let’s start
+      with Trump’s confabulations about his claim to have settled eight wars. The eight
+      conflicts that  Trump has claimed to have “stopped” or resolved since returning
+      to office in 2025, as part of his self-described role as the “president of peace,”
+      are as follows, based on his public statements and social media posts: Israel
+      and Hamas (Gaza conflict): Trump claims credit for brokering a ceasefire in the
+      two-year war, though Israel has continued to murder Palestinians — albeit at a
+      reduced rate compared to the killing done prior to the ceasefire — and the deal’s
+      durability is questioned. Israel and Iran : He asserts he ended hostilities between
+      these nations, likely referring to a brief 2025 flare-up or broader tensions,
+      but no full-scale war was ongoing, and the situation remains volatile. Moreover,
+      Trump ordered the bombing of Iran… Not exactly an action one associates with peace.
+      Pakistan and India : Trump has boasted about preventing a nuclear escalation between
+      these rivals, claiming millions of lives were saved, though this appears to reference
+      averted border skirmishes rather than an active war. India has explicitly disputed
+      Trump’s claim of brokering a ceasefire in their border conflict (e.g., over Kashmir
+      in May 2025). Indian officials, including Foreign Secretary Vikram Misri and External
+      Affairs Minister S. Jaishankar, stated that the agreement was reached directly
+      between Indian and Pakistani militaries without US mediation or third-party involvement.
+      Rwanda and the Democratic Republic of Congo (DRC): He says he resolved this conflict,
+      but both Rwanda and the DRC have seen their conflict continue despite a US-brokered
+      ceasefire signed in June 2025 (with a formal agreement in December). The DRC has
+      accused Rwanda of violating the deal, and rebel groups (like M23, backed by Rwanda)
+      have advanced further, with fighting persisting even during negotiations. This
+      disputes Trump’s claim of a “ glorious triumph ,” as the peace has not held. Thailand
+      and Cambodia : Trump claims to have halted border clashes, even jokingly calling
+      a supposed flare-up an “extra quarter” war, though this was more of a diplomatic
+      dispute than a full war. Neither Thailand nor Cambodia has confirmed Trump’s claims
+      of multiple ceasefires (e.g., one in late 2025), and border clashes have resumed
+      shortly after announcements like the October 2025 Kuala Lumpur Peace Accord. Officials
+      from both countries have not acknowledged US brokering as the key factor, and
+      renewed airstrikes and fighting directly contradict the “ended” status. Armenia
+      and Azerbaijan : He takes credit for ending hostilities, referring to a ceasefire
+      in the Nagorno-Karabakh region, but tensions and sporadic incidents continue.
+      Armenia and Azerbaijan have not issued denials or contradictions regarding Trump’s
+      mediation. Pashinyan and Aliyev participated in the White House ceremony, and
+      subsequent statements from both sides (e.g., Azerbaijan’s Foreign Ministry and
+      Armenian officials) referenced the US-brokered framework positively while noting
+      ongoing work toward full ratification and implementation. However, The deal is
+      not fully ratified or implemented: It remains a framework/joint declaration requiring
+      parliamentary approval and constitutional changes (e.g., in Armenia, potentially
+      via referendum post-2026 elections). Egypt and Ethiopia : Trump asserts he prevented
+      a war over the Grand Ethiopian Renaissance Dam (GERD) on the Nile, but this was
+      a water-sharing dispute resolved through mediation. Egypt and Ethiopia have no
+      formal peace deal despite Trump’s claims of preventing a war over the Grand Ethiopian
+      Renaissance Dam (GERD). The dispute remains a diplomatic tension over water rights,
+      with no armed conflict to “end” and ongoing mediation without resolution, disputing
+      his role in a conclusive settlement. Serbia and Kosovo : He claims to have stopped
+      a potential war, but no active fighting had occurred since 1999; this likely refers
+      to economic normalization agreements he claims to have facilitated, though underlying
+      issues persist. While Trump remains desperate to be christened, the Peace President
+      , he has ordered bombings in Syria and Nigeria, ordered attacks on boats in the
+      Caribbean allegedly carrying drugs, ordered the kidnapping of Venezuelan President
+      Maduro and is stridently insisting on a forcible takeover of Greenland. The issue
+      of Greenland has prompted some truly bizarre commentary from Donald Trump following
+      a text message from Norway’s prime minister, Jonas Gahr Store, and Finland’s President  over
+      the weekend. Here is the text message from Mr. Store to Mr. Trump on Sunday, Jan.
+      18, at 3:48 p.m.: Dear Mr President, dear Donald – on the contact across the Atlantic
+      – on Greenland, Gaza, Ukraine – and your tariff announcement yesterday. You know
+      our position on these issues. But we believe we all should work to take this down
+      and de-escalate – so much is happening around us where we need to stand together.
+      We are proposing a call with you later today – with both of us or separately –
+      give us a hint of what you prefer! Best – Alex and Jonas Trump, wasting no time,
+      barking back at  Mr. Store on Sunday, Jan. 18, at 4:15 p.m.: Dear Jonas: Considering
+      your Country decided not to give me the Nobel Peace Prize for having stopped 8
+      Wars PLUS, I no longer feel an obligation to think purely of Peace, although it
+      will always be predominant, but can now think about what is good and proper for
+      the United States of America. Denmark cannot protect that land from Russia or
+      China, and why do they have a ‘right of ownership’ anyway? There are no written
+      documents, it’s only that a boat landed there hundreds of years ago, but we had
+      boats landing there, also. I have done more for NATO than any other person since
+      its founding, and now, NATO should do something for the United States. The World
+      is not secure unless we have Complete and Total Control of Greenland. Thank you!
+      President DJT This is pure confabulation and Trump is a confabulator… A confabulator
+      is someone who engages in creating false memories or fabricating stories without
+      intending to deceive. In other words, a confabulator genuinely believes what he
+      is saying is true, even though the claim is not supported by the facts. What makes
+      Trump”s confabulations so alarming is that it occurs primarily due to memory errors
+      often associated with brain damage or certain types of dementia. Someone needs
+      to grab the car keys from Donald Trump. It has been a busy podcast day. Nima is
+      back online from Iran and the Judge is battling winter in New Jersey. I also spoke
+      with Stanislav Krapivnik in Moscow and with Glenn Diesen in Norway. Glenn and
+      I had a great chat about Europe’s chaotic response to Trump’s threat to conquer
+      Greenland: I thank you for your invaluable support by taking time to read or comment.
+      I do not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article critiques Donald Trump's self-proclaimed achievements
+      as a "president of peace," particularly his exaggerated claims of resolving multiple
+      conflicts, including the Gaza conflict, while highlighting ongoing violence and
+      questioning the legitimacy of his assertions.
+    paragraph_summary: In a critique of Donald Trump's claims regarding his role in
+      resolving various international conflicts, the article argues that he exhibits
+      a level of narcissism and confabulation that surpasses previous U.S. presidents.
+      Trump has asserted that he has "stopped" or settled eight wars since returning
+      to office in 2025, including conflicts involving Israel and Hamas, Israel and
+      Iran, and Pakistan and India. However, the article highlights that many of these
+      claims are exaggerated or misleading, as ongoing violence persists, and in some
+      cases, Trump’s actions contradict his assertions of peace. For instance, while
+      he claims to have brokered a ceasefire between Israel and Hamas, violence continues,
+      and Indian officials have disputed his role in mediating the India-Pakistan conflict,
+      stating that agreements were made independently. Overall, the article underscores
+      the dubious nature of Trump's self-proclaimed achievements in foreign policy.
+    published: '2026-01-20T06:01:49+00:00'
+  - title: Will Trump’s Threat to Increase Tariffs on Europe Spark a Financial Crisis?
+    url: https://sonar21.com/will-trumps-threat-to-increase-tariffs-on-europe-spark-a-financial-crisis/
+    text: 'I normally would not subject you to a lengthy piece of economic analysis,
+      but I think we’re at a Buffalo Springfield moment, i.e., the opening lyrics of
+      their iconic song, For What Its Worth (see below). There is a YouTube channel
+      with a tiny following, but the news he is reporting is important and could signal
+      that we are in the early stages of a major financial crisis. The channel is called,
+      Metals and Markets . I cannot vouch for the analyst… He may be an AI creation.
+      Regardless, the news he is reporting about a developing silver Arbitrage Trap
+      seems legit and is back up by data. The video centers on Trump’s threat to levy
+      a 10% tariff on imports from eight EU nations plus the UK (including the LBMA
+      hub in London), effective February 1, 2026, escalating to 25% if no Greenland
+      deal is reached by June 1. This is framed as a “black swan” event disrupting global
+      silver flows. He analyzes a geographic arbitrage trap , i.e., locking physical
+      silver in U.S. borders (e.g., COMEX vaults) and starving London’s LBMA of supply,
+      potentially leading to a “two-price world”: a higher trapped U.S. price and a
+      supply-starved London price. In Q1 2025, millions of ounces of physical silver
+      shifted from London to New York vaults (anticipating restrictions), but now this
+      metal is “trapped” as tariffs deter exports. The unnamed analyst describes silver
+      as the “Achilles heel” of the banking system due to its industrial uses (e.g.,
+      solar panels, semiconductors, missiles), where non-price-sensitive demand could
+      worsen shortages. Gold, by contrast, is seen as a central bank monetary anchor.
+      The analyst warns of a physical liquidity trap forcing violent repricing, driven
+      by supply chain realities rather than speculation. Banks may face dilemmas like
+      spiking prices to draw out sellers, cash settlements (eroding trust), or force
+      majeure (admitting delivery failures). I would note that the price of silver increased
+      by $3 an ounce in the nine hours that passed after he recorded this video (posted
+      at the end of this article). Trump’s threatened tariffs represent a structural
+      break in silver markets, acting as a one-way valve that traps US silver, shatters
+      global pricing, and could propel silver above $100/oz due to impossible supply
+      dynamics (limited downside to $85, but unlimited upside). The analyst believes
+      that industrial demand will fuel the spike, with the next 14 days (until February
+      1) critical for Greenland talks and market signals. This isn’t just volatility—it’s
+      a collision of paper promises and physical reality. This is why I am posting the
+      Buffalo Springfield video first… Most of you know the opening lines: There’s something
+      happening here… Here is a partial, but lengthy, transcript of the analysis: Trump’s
+      10% tariff, which  escalates to 25% if no Greenland deal is reached by June 1st,
+      has created what I’m calling a one-way valve in the global silver market. It has
+      effectively trapped millions of ounces of physical silver within United States
+      borders,  leaving the London markets to starve on their existing inventory. And
+      here’s the stake. If the LBMA cannot borrow metal from the Comex vaults in New
+      York to cover their short positions, the global pricing mechanism breaks down
+      completely. We’re not talking about a price squeeze that takes silver from $90
+      to 110. We’re talking about a fundamental fracture in how this metal is valued
+      globally. We’re looking at a scenario where physical silver could legitimately
+      trade above $100 per ounce. Not because of investment demand, but because of a
+      structural impossibility in the supply chain. I’m going to walk you through three
+      things in this video. First, I’m going to explain exactly how this geographic
+      arbitrage trap works and why it matters more than any other factor in the silver
+      market right now. Second, we’re going to run the actual  stress test math on what
+      happens when that 10% becomes 25%. And third, I’m going to share my personal battle
+      plan  for the Monday Open and the next 14 days because I’ve been in this market
+      long enough to know that when the music stops, you want to already be sitting
+      down. . . . As of this afternoon, around 2:30 p.m. Eastern Standard Time, silver
+      was trading at $89.94, down 1.62% from Friday’s close. Gold was at $4,596.87,
+      down 0.28%. Now, if you just looked at those numbers, you’d think the market was
+      reacting rationally. Tariffs typically mean a stronger dollar, and precious metals
+      usually dip on strong dollar news. The algorithm saw tariffs and executed their
+      standard playbook. But here’s what the paper market doesn’t understand yet. The
+      physical reality happening underneath those ticker symbols. While paper prices
+      dipped slightly on Friday, the bid ask spreads started widening. Not dramatically,
+      not in a way that would trigger CNBC alerts, but if you’re watching the actual
+      physical dealers, you saw it. The spread between what someone will pay for an
+      ounce and what someone will sell for started stretching… and the Friday night
+      surprise, the actual tariff announcement that happened after the LBMA had already
+      closed for the weekend. London doesn’t even know they’re in a trap yet. Let me
+      give you some context that makes this  even more insane. In the first quarter
+      of 2025, we watched dozens of millions of ounces of physical silver flee London
+      vaults and land in New York. The bullion banks thought they were being smart.
+      They were front running the section 232 review that everyone knew was coming.
+      The section 232 review is the mechanism the administration uses to determine if
+      imports threaten national security. And silver as a strategic mineral used in
+      everything from solar panels to missiles was obviously on that list. So the banks
+      did what banks do. They moved their metal ahead of potential restrictions. They
+      repositioned their physical inventory from the LBMA into comx warehouses thinking
+      they’d be safe from any supply chain disruptions. And now with one announcement
+      with one weekend tweet the door has been locked from the outside. The metal is
+      trapped in New York and the banks just lost their ability to play whack-a-mole
+      with physical shortages across the Atlantic. How a Geographic Arbitrage Trap Actually
+      Works How a geographic arbitrage trap actually works. Let’s slow down here. I’m
+      going to teach you a concept that most retail investors have never heard of, but
+      that institutional traders live and die by. It’s called a geographic arbitrage
+      trap. Here’s the simple definition. This occurs when the cost to move an asset
+      between two global exchanges becomes higher than the price difference between
+      those exchanges. When that happens, the flow of supply completely paralyzes. Let
+      me give you an analogy that makes this crystal clear. Imagine you have two wallets.
+      Your left pocket, let’s call it London, is completely empty and you’ve got a bill
+      due that you need to pay immediately. Your right pocket, New York, is stuffed
+      full of $100 bills. Normally, you just move some cash from your right pocket to
+      your left pocket and solve the problem. But here’s the catch. Every single time
+      you move a $100 bill from your right pocket to your left, the government intercepts
+      it and takes $25 as a tax. You’re technically rich in one pocket and functionally
+      bankrupt in the other. And you can’t fix the problem without losing 25% of your
+      wealth in the process. That’s a geographic arbitrage trap. Now, let’s apply this
+      to silver markets today. The United Kingdom, specifically the LBMA, is critically
+      short of physical silver. They’ve got obligations. They’ve got contracts. They’ve
+      got delivery demands from funds and industrial users who need actual metal, not
+      paper promises. Under normal circumstances, this wouldn’t even be a problem. And
+      when London gets short, they just arrange a shipment from New York. Metal moves
+      across the Atlantic every single week. It’s part of the global flow that keeps
+      prices synchronized between exchanges. The mechanism works like this. If silver
+      is trading at $90 in New York and $91 in London, arbitrage traders will buy in
+      New York, ship it to London, sell for a $1 profit, and pocket the difference after
+      shipping costs. That constant flow of metal from low price to high price zones
+      is what keeps global markets balanced. But with a 10% tariff and eventually a
+      25% tariff, that metal can never economically return to the United States without
+      the banks taking a massive loss. Think about what that means. If you’re a bullion
+      bank and you ship a million ounces from New York to London to cover a short position,
+      you’ve just made that metal 25% more expensive to ever bring back. The result
+      is that two separate prices for silver are about to emerge. I’m calling them the
+      trapped US price and the starving London price. And when those two prices decouple,
+      when the arbitrage mechanism breaks down completely, we’re going to witness something
+      that hasn’t happened in modern precious metals markets. Let me walk you through
+      the actual math because this is where theory becomes reality. Scenario A, the
+      10% friction. At $90 per ounce, a 10% tariff adds $9 to the cost of every single
+      ounce imported into the United States. What does that mean practically? It means
+      that if silver is trading at $90 in New York and $95 in London, it’s still not
+      profitable to ship metal from London to New York because you’d pay $9 in tariffs
+      and lose $4 on the trade. This immediately creates a floor for US physical metal.
+      Domestic silver cannot fall below the London price minus the tariff cost or arbitrage
+      would kick in and equalize things. But here’s where it gets dangerous. Scenario
+      B, the 25% nuclear option. If no Greenland deal is reached by June 1st, and I
+      personally think the odds of a deal are lower than the media is suggesting, the
+      cost to bring silver back into the United States jumps by $22.50 per ounce at
+      current prices. Let me say that again. $22.50. 50 cents per ounce. Now, the LBMA
+      is rumored to be critically short. I don’t have exact figures because the banks
+      don’t publish their short positions in real time, but based on the inventory draw
+      downs we saw in Q1 of 2025, we’re talking about potential exposure in the range
+      of 50 million ounces or more. If they need 50 million ounces to satisfy delivery
+      obligations, and the United States is the only source of available physical metal,
+      the premium required to move that metal has to exceed the 25% tariff. Here’s the
+      calculation that should terrify anyone short silver right now. Current price $89.94
+      (NOTE: As of 22:38 hours Eastern time, the spot price of silver is $92.81 bid).
+      Add 25%. That’s $11242. That is the mathematical break even point for global silver
+      flow under the 25% tariff scenario. $11242 is not a speculative price target.
+      It’s not a hopeful projection from a gold bug who thinks the dollar is going to
+      collapse. It’s the minimum price required for arbitrage to function under the
+      new tariff structure. Now, look at the Comex inventory charts. I was looking at
+      them a few hours ago, and here’s what you need to understand. The registered silver,
+      the metal that’s available for delivery, isn’t moving. It’s sitting there. Not
+      because there’s no demand, but because the banks can’t afford to let it leave.
+      Every ounce that exits a US vault is an ounce that becomes 25% more expensive
+      to replace. The smart money has already figured this out. They’re not selling.
+      They’re not shipping. They’re sitting on their metal and waiting for London to
+      blink. Now, I know exactly what the skeptics are going to say. I’ve been in this
+      market long enough to predict the counterarguments before they even show up in
+      the comment section. Skeptic argument. Number one, this is just a negotiating
+      tactic for Greenland. Silver is a strategic mineral. It’ll be exempted before
+      February 1st. Here’s my rebuttal. Look at the section 232 review that was completed
+      just days ago. Read the actual language. It purposefully left the door open for
+      broad-based tariffs on all goods from the listed nations. If the administration
+      wanted to exempt strategic minerals, they would have done it in the initial announcement.
+      The fact that they use the phrase all goods is not an accident. It’s a pressure
+      tactic designed to maximize economic pain and force concessions. And here’s the
+      thing about negotiating tactics. They only work if the other side believes you’ll
+      actually follow through. If you announce a 10% tariff with an escalation to 25%
+      and then you immediately grant exemptions, you’ve shown your hand. You’ve revealed
+      that it was a bluff. This administration doesn’t bluff on tariffs. We’ve seen
+      this playbook before. Skeptic argument number two. The UK isn’t even in the European
+      Union anymore. The tariff won’t apply to them. Wrong. The announcement explicitly
+      named the United Kingdom alongside the EU nations. Go back and read the press
+      release. It’s right there in black and white. Eight EU nations plus the UK. Brexit
+      doesn’t protect London from this. If anything, it makes them more vulnerable because
+      they don’t have the collective bargaining power of the EU to negotiate exemptions.
+      Skeptic argument number three. The comics will just change the rules. They’ll
+      allow cash settlement or adjust delivery terms to avoid a squeeze. This one actually
+      has some merit. The exchanges have changed rules before when things got tight.
+      But here’s what the skeptics miss. Changing the rules doesn’t create physical
+      metal. If the LBMA has contracts that demand physical delivery and they can’t
+      source the metal because of the tariff trap, no amount of rule changes in New
+      York solves their problem in London. You can’t settle a physical delivery obligation
+      with a PDF file derivatives, with leasing agreements, with accounting tricks that
+      let them count the same ounce of silver in three different places. But you can’t
+      tariff your way out of physics. Time is not on their side. I don’t think this
+      is propaganda, but I’m interested in what you think. I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: The article discusses a YouTube channel, Metals and Markets,
+      which reports on a potential financial crisis linked to a developing silver arbitrage
+      trap, exacerbated by Trump's proposed tariffs on imports from certain EU nations
+      and the UK, potentially disrupting global silver flows.
+    paragraph_summary: The article discusses a potential financial crisis signaled by
+      a YouTube channel called Metals and Markets, which reports on a developing "silver
+      Arbitrage Trap" linked to former President Trump's proposed tariffs on imports
+      from several EU nations and the UK, effective February 1, 2026. This situation
+      could disrupt global silver flows, leading to a disparity in silver prices between
+      the U.S. and London, as physical silver becomes "trapped" in U.S. vaults due to
+      export deterrents. The analyst warns that silver's critical industrial uses could
+      exacerbate shortages, creating a "two-price world" and forcing banks into difficult
+      positions regarding pricing and delivery. The article notes a significant price
+      increase in silver shortly after the video was released, highlighting the urgency
+      of the situation.
+    published: '2026-01-19T04:19:11+00:00'
+  - title: Will Trump’s Threat to Increase Tariffs on Europe Spark a Financial Crisis?
+    url: https://sonar21.com/will-trumps-threat-to-increase-tariffs-on-europe-spark-a-financial-crisis/
+    text: 'I normally would not subject you to a lengthy piece of economic analysis,
+      but I think we’re at a Buffalo Springfield moment, i.e., the opening lyrics of
+      their iconic song, For What Its Worth (see below). There is a YouTube channel
+      with a tiny following, but the news he is reporting is important and could signal
+      that we are in the early stages of a major financial crisis. The channel is called,
+      Metals and Markets . I cannot vouch for the analyst… He may be an AI creation.
+      Regardless, the news he is reporting about a developing silver Arbitrage Trap
+      seems legit and is back up by data. The video centers on Trump’s threat to levy
+      a 10% tariff on imports from eight EU nations plus the UK (including the LBMA
+      hub in London), effective February 1, 2026, escalating to 25% if no Greenland
+      deal is reached by June 1. This is framed as a “black swan” event disrupting global
+      silver flows. He analyzes a geographic arbitrage trap , i.e., locking physical
+      silver in U.S. borders (e.g., COMEX vaults) and starving London’s LBMA of supply,
+      potentially leading to a “two-price world”: a higher trapped U.S. price and a
+      supply-starved London price. In Q1 2025, millions of ounces of physical silver
+      shifted from London to New York vaults (anticipating restrictions), but now this
+      metal is “trapped” as tariffs deter exports. The unnamed analyst describes silver
+      as the “Achilles heel” of the banking system due to its industrial uses (e.g.,
+      solar panels, semiconductors, missiles), where non-price-sensitive demand could
+      worsen shortages. Gold, by contrast, is seen as a central bank monetary anchor.
+      The analyst warns of a physical liquidity trap forcing violent repricing, driven
+      by supply chain realities rather than speculation. Banks may face dilemmas like
+      spiking prices to draw out sellers, cash settlements (eroding trust), or force
+      majeure (admitting delivery failures). I would note that the price of silver increased
+      by $3 an ounce in the nine hours that passed after he recorded this video (posted
+      at the end of this article). Trump’s threatened tariffs represent a structural
+      break in silver markets, acting as a one-way valve that traps US silver, shatters
+      global pricing, and could propel silver above $100/oz due to impossible supply
+      dynamics (limited downside to $85, but unlimited upside). The analyst believes
+      that industrial demand will fuel the spike, with the next 14 days (until February
+      1) critical for Greenland talks and market signals. This isn’t just volatility—it’s
+      a collision of paper promises and physical reality. This is why I am posting the
+      Buffalo Springfield video first… Most of you know the opening lines: There’s something
+      happening here… Here is a partial, but lengthy, transcript of the analysis: Trump’s
+      10% tariff, which  escalates to 25% if no Greenland deal is reached by June 1st,
+      has created what I’m calling a one-way valve in the global silver market. It has
+      effectively trapped millions of ounces of physical silver within United States
+      borders,  leaving the London markets to starve on their existing inventory. And
+      here’s the stake. If the LBMA cannot borrow metal from the Comex vaults in New
+      York to cover their short positions, the global pricing mechanism breaks down
+      completely. We’re not talking about a price squeeze that takes silver from $90
+      to 110. We’re talking about a fundamental fracture in how this metal is valued
+      globally. We’re looking at a scenario where physical silver could legitimately
+      trade above $100 per ounce. Not because of investment demand, but because of a
+      structural impossibility in the supply chain. I’m going to walk you through three
+      things in this video. First, I’m going to explain exactly how this geographic
+      arbitrage trap works and why it matters more than any other factor in the silver
+      market right now. Second, we’re going to run the actual  stress test math on what
+      happens when that 10% becomes 25%. And third, I’m going to share my personal battle
+      plan  for the Monday Open and the next 14 days because I’ve been in this market
+      long enough to know that when the music stops, you want to already be sitting
+      down. . . . As of this afternoon, around 2:30 p.m. Eastern Standard Time, silver
+      was trading at $89.94, down 1.62% from Friday’s close. Gold was at $4,596.87,
+      down 0.28%. Now, if you just looked at those numbers, you’d think the market was
+      reacting rationally. Tariffs typically mean a stronger dollar, and precious metals
+      usually dip on strong dollar news. The algorithm saw tariffs and executed their
+      standard playbook. But here’s what the paper market doesn’t understand yet. The
+      physical reality happening underneath those ticker symbols. While paper prices
+      dipped slightly on Friday, the bid ask spreads started widening. Not dramatically,
+      not in a way that would trigger CNBC alerts, but if you’re watching the actual
+      physical dealers, you saw it. The spread between what someone will pay for an
+      ounce and what someone will sell for started stretching… and the Friday night
+      surprise, the actual tariff announcement that happened after the LBMA had already
+      closed for the weekend. London doesn’t even know they’re in a trap yet. Let me
+      give you some context that makes this  even more insane. In the first quarter
+      of 2025, we watched dozens of millions of ounces of physical silver flee London
+      vaults and land in New York. The bullion banks thought they were being smart.
+      They were front running the section 232 review that everyone knew was coming.
+      The section 232 review is the mechanism the administration uses to determine if
+      imports threaten national security. And silver as a strategic mineral used in
+      everything from solar panels to missiles was obviously on that list. So the banks
+      did what banks do. They moved their metal ahead of potential restrictions. They
+      repositioned their physical inventory from the LBMA into comx warehouses thinking
+      they’d be safe from any supply chain disruptions. And now with one announcement
+      with one weekend tweet the door has been locked from the outside. The metal is
+      trapped in New York and the banks just lost their ability to play whack-a-mole
+      with physical shortages across the Atlantic. How a Geographic Arbitrage Trap Actually
+      Works How a geographic arbitrage trap actually works. Let’s slow down here. I’m
+      going to teach you a concept that most retail investors have never heard of, but
+      that institutional traders live and die by. It’s called a geographic arbitrage
+      trap. Here’s the simple definition. This occurs when the cost to move an asset
+      between two global exchanges becomes higher than the price difference between
+      those exchanges. When that happens, the flow of supply completely paralyzes. Let
+      me give you an analogy that makes this crystal clear. Imagine you have two wallets.
+      Your left pocket, let’s call it London, is completely empty and you’ve got a bill
+      due that you need to pay immediately. Your right pocket, New York, is stuffed
+      full of $100 bills. Normally, you just move some cash from your right pocket to
+      your left pocket and solve the problem. But here’s the catch. Every single time
+      you move a $100 bill from your right pocket to your left, the government intercepts
+      it and takes $25 as a tax. You’re technically rich in one pocket and functionally
+      bankrupt in the other. And you can’t fix the problem without losing 25% of your
+      wealth in the process. That’s a geographic arbitrage trap. Now, let’s apply this
+      to silver markets today. The United Kingdom, specifically the LBMA, is critically
+      short of physical silver. They’ve got obligations. They’ve got contracts. They’ve
+      got delivery demands from funds and industrial users who need actual metal, not
+      paper promises. Under normal circumstances, this wouldn’t even be a problem. And
+      when London gets short, they just arrange a shipment from New York. Metal moves
+      across the Atlantic every single week. It’s part of the global flow that keeps
+      prices synchronized between exchanges. The mechanism works like this. If silver
+      is trading at $90 in New York and $91 in London, arbitrage traders will buy in
+      New York, ship it to London, sell for a $1 profit, and pocket the difference after
+      shipping costs. That constant flow of metal from low price to high price zones
+      is what keeps global markets balanced. But with a 10% tariff and eventually a
+      25% tariff, that metal can never economically return to the United States without
+      the banks taking a massive loss. Think about what that means. If you’re a bullion
+      bank and you ship a million ounces from New York to London to cover a short position,
+      you’ve just made that metal 25% more expensive to ever bring back. The result
+      is that two separate prices for silver are about to emerge. I’m calling them the
+      trapped US price and the starving London price. And when those two prices decouple,
+      when the arbitrage mechanism breaks down completely, we’re going to witness something
+      that hasn’t happened in modern precious metals markets. Let me walk you through
+      the actual math because this is where theory becomes reality. Scenario A, the
+      10% friction. At $90 per ounce, a 10% tariff adds $9 to the cost of every single
+      ounce imported into the United States. What does that mean practically? It means
+      that if silver is trading at $90 in New York and $95 in London, it’s still not
+      profitable to ship metal from London to New York because you’d pay $9 in tariffs
+      and lose $4 on the trade. This immediately creates a floor for US physical metal.
+      Domestic silver cannot fall below the London price minus the tariff cost or arbitrage
+      would kick in and equalize things. But here’s where it gets dangerous. Scenario
+      B, the 25% nuclear option. If no Greenland deal is reached by June 1st, and I
+      personally think the odds of a deal are lower than the media is suggesting, the
+      cost to bring silver back into the United States jumps by $22.50 per ounce at
+      current prices. Let me say that again. $22.50. 50 cents per ounce. Now, the LBMA
+      is rumored to be critically short. I don’t have exact figures because the banks
+      don’t publish their short positions in real time, but based on the inventory draw
+      downs we saw in Q1 of 2025, we’re talking about potential exposure in the range
+      of 50 million ounces or more. If they need 50 million ounces to satisfy delivery
+      obligations, and the United States is the only source of available physical metal,
+      the premium required to move that metal has to exceed the 25% tariff. Here’s the
+      calculation that should terrify anyone short silver right now. Current price $89.94
+      (NOTE: As of 22:38 hours Eastern time, the spot price of silver is $92.81 bid).
+      Add 25%. That’s $11242. That is the mathematical break even point for global silver
+      flow under the 25% tariff scenario. $11242 is not a speculative price target.
+      It’s not a hopeful projection from a gold bug who thinks the dollar is going to
+      collapse. It’s the minimum price required for arbitrage to function under the
+      new tariff structure. Now, look at the Comex inventory charts. I was looking at
+      them a few hours ago, and here’s what you need to understand. The registered silver,
+      the metal that’s available for delivery, isn’t moving. It’s sitting there. Not
+      because there’s no demand, but because the banks can’t afford to let it leave.
+      Every ounce that exits a US vault is an ounce that becomes 25% more expensive
+      to replace. The smart money has already figured this out. They’re not selling.
+      They’re not shipping. They’re sitting on their metal and waiting for London to
+      blink. Now, I know exactly what the skeptics are going to say. I’ve been in this
+      market long enough to predict the counterarguments before they even show up in
+      the comment section. Skeptic argument. Number one, this is just a negotiating
+      tactic for Greenland. Silver is a strategic mineral. It’ll be exempted before
+      February 1st. Here’s my rebuttal. Look at the section 232 review that was completed
+      just days ago. Read the actual language. It purposefully left the door open for
+      broad-based tariffs on all goods from the listed nations. If the administration
+      wanted to exempt strategic minerals, they would have done it in the initial announcement.
+      The fact that they use the phrase all goods is not an accident. It’s a pressure
+      tactic designed to maximize economic pain and force concessions. And here’s the
+      thing about negotiating tactics. They only work if the other side believes you’ll
+      actually follow through. If you announce a 10% tariff with an escalation to 25%
+      and then you immediately grant exemptions, you’ve shown your hand. You’ve revealed
+      that it was a bluff. This administration doesn’t bluff on tariffs. We’ve seen
+      this playbook before. Skeptic argument number two. The UK isn’t even in the European
+      Union anymore. The tariff won’t apply to them. Wrong. The announcement explicitly
+      named the United Kingdom alongside the EU nations. Go back and read the press
+      release. It’s right there in black and white. Eight EU nations plus the UK. Brexit
+      doesn’t protect London from this. If anything, it makes them more vulnerable because
+      they don’t have the collective bargaining power of the EU to negotiate exemptions.
+      Skeptic argument number three. The comics will just change the rules. They’ll
+      allow cash settlement or adjust delivery terms to avoid a squeeze. This one actually
+      has some merit. The exchanges have changed rules before when things got tight.
+      But here’s what the skeptics miss. Changing the rules doesn’t create physical
+      metal. If the LBMA has contracts that demand physical delivery and they can’t
+      source the metal because of the tariff trap, no amount of rule changes in New
+      York solves their problem in London. You can’t settle a physical delivery obligation
+      with a PDF file derivatives, with leasing agreements, with accounting tricks that
+      let them count the same ounce of silver in three different places. But you can’t
+      tariff your way out of physics. Time is not on their side. I don’t think this
+      is propaganda, but I’m interested in what you think. I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: The article discusses a YouTube channel, Metals and Markets,
+      which reports on a potential financial crisis linked to a developing silver arbitrage
+      trap, exacerbated by Trump's proposed tariffs on imports from certain EU nations
+      and the UK, potentially disrupting global silver flows.
+    paragraph_summary: The article discusses a potential financial crisis signaled by
+      a YouTube channel called Metals and Markets, which reports on a developing "silver
+      Arbitrage Trap" linked to former President Trump's proposed tariffs on imports
+      from several EU nations and the UK, effective February 1, 2026. This situation
+      could disrupt global silver flows, leading to a disparity in silver prices between
+      the U.S. and London, as physical silver becomes "trapped" in U.S. vaults due to
+      export deterrents. The analyst warns that silver's critical industrial uses could
+      exacerbate shortages, creating a "two-price world" and forcing banks into difficult
+      positions regarding pricing and delivery. The article notes a significant price
+      increase in silver shortly after the video was released, highlighting the urgency
+      of the situation.
+    published: '2026-01-19T04:19:11+00:00'
+  - title: The Time Has Come to Take the Car Keys from Donald Trump
+    url: https://sonar21.com/the-time-has-come-to-take-the-car-keys-from-donald-trump/
+    text: 'Anyone who has ever faced the crisis of an elderly parent who has suffered
+      mental and physical decline can probably recall the moment when you had to intervene
+      and take the car keys from your father or mother. Certainly not a happy time,
+      but the given the possibility of the impaired senior citizen causing an accident
+      that could kill others it was the right decision. I think we have come to that
+      moment with Donald Trump. It is time to invoke the 25th amendment to the US Constitution.
+      The 25th Amendment to the United States Constitution sets the rules for presidential
+      and vice‑presidential succession and for dealing with a president who is unable
+      to perform the duties of the office. It was proposed after President John F. Kennedy’s
+      assassination and was ratified in 1967 to clarify gaps in the original constitutional
+      text. Under Section 4, the vice president plus a majority of the principal officers
+      of the executive departments (or another body designated by Congress) can declare
+      that the president is unable to discharge the powers and duties of the office,
+      making the vice president acting president immediately. If the president disputes
+      this, Congress must decide; a two‑thirds vote in both houses is required to keep
+      the vice president as acting president, otherwise the president regains authority.
+      The final straw for me is Trump’s declarations that he is going to seize Greenland
+      and put it under the full control of the US Government. Greenland is an autonomous,
+      self‑governing territory within the Kingdom of Denmark, not an independent state
+      and not part of the United States. It remains under Danish sovereignty while exercising
+      extensive home rule over its internal affairs. Greenland’s Self‑Government Act
+      recognizes the Greenlandic people as a distinct people with a right to self‑determination
+      and provides a legal pathway for independence through a referendum in Greenland
+      followed by negotiations with Denmark. Internationally, other states (including
+      the United States in their defense agreements with Denmark) recognize Danish sovereignty
+      over Greenland, treating it as part of the Danish realm but with autonomous governance.
+      Unlike Denmark’s relationship with Greenland, where a metropolitan power maintains
+      full sovereignty over a large, culturally distinct, self-governing territory with
+      extensive autonomy and an explicit legal pathway to independence, the United States
+      holds several foreign territories — e.g., Puerto Rico, Guam, and the US Virgin
+      Islands — that are unincorporated… Meaning they are under full U.S. sovereignty
+      without constitutional guarantees of statehood or independence, and none match
+      Greenland’s degree of self-determination or resource control. Trump’s declaration
+      that he does not recognize international law — a view emphatically echoed by Stephen
+      Miller, Trump’s Deputy Chief of Staff, and Marco Rubio — is a dangerous and foolish
+      admission. Trump’s claim that might makes right , is an ancient aphorism expressing
+      the idea that power determines justice or morality, rather than any inherent ethical
+      principle. Thucydides (c. 410 BC) most famously articulated the idea in his History
+      of the Peloponnesian War, writing: The strong do what they can and the weak suffer
+      what they must. This Melian Dialogue passage is widely seen as the foundational
+      expression of realist power politics. Plato’s Republic (c. 375 BC) features Thrasymachus
+      declaring that “ justice is nothing else than the interest of the stronger, ”
+      a view that Socrates eviscerated. Trump is trying to justify his aim to seize
+      Greenland by insisting that Russia and China are poised to take that chunk of
+      territory if we don’t. This is ridiculous. Russia already has ample access to
+      the Artic. Three of Russia’s 11 time zones border the Arctic Ocean along its northern
+      coastline and, with a fleet of eight icebreakers, Russia is quite capable of working
+      in the Artic region without resorting to conquering Greenland. I would note that
+      the US only has one functioning icebreaker, so even it it gets control of Greenland
+      it will be several years before the US has enough icebreakers to work meaningfully
+      in the Artic. Trump’s claim that the US must control Greenland in order to buttress
+      US national security is specious. Because of Greenland’s legal status with Denmark,
+      and the fact that Denmark is part of NATO, any attack by Russia or China would
+      constitute a causus belli justifying the invocation of Article 5, which would
+      be an attack on NATO. NATO members have reacted with a mix of alarm, solidarity,
+      and diplomatic pushback to Donald Trump’s renewed declarations in early January
+      2026 that the U.S. needs Greenland for national security reasons, refusing to
+      rule out military force or tariffs to achieve control over the Danish territory.
+      This has escalated tensions within the alliance, with many viewing it as a direct
+      threat to Denmark’s sovereignty and NATO’s cohesion, potentially risking the alliance’s
+      survival. As Greenland’s administering power, Denmark has been at the forefront,
+      with Prime Minister Mette Frederiksen warning that any US military action against
+      the island would spell “ the end of NATO ” and the transatlantic partnership.
+      Denmark has bolstered its military presence on the island and coordinated with
+      allies for joint exercises, framing these as defensive measures to enhance Arctic
+      security without escalating threats. Foreign Minister Lars Løkke Rasmussen met
+      with Vice President JD Vance and Secretary of State Marco Rubio on January 14,
+      but described a “ fundamental disagreement, ” emphasizing dialogue while rejecting
+      annexation. Public opinion in Denmark strongly opposes any sale or takeover, with
+      polls showing nearly half viewing the U.S. as a threat. Several European leaders
+      issued a joint statement on January 6, affirming that “ Greenland belongs to its
+      people ” and that only Denmark and Greenland can decide its future, while standing
+      in “full solidarity” with Copenhagen. Signatories included the UK, France, Germany,
+      Italy, Poland, and Spain, who condemned tariffs as undermining transatlantic relations
+      and risking a “ dangerous downward spiral .” Countries like Sweden, France, and
+      Germany have deployed small military contingents to Greenland for training and
+      exercises, signaling a united front to deter intimidation and bolster NATO’s Arctic
+      presence. The UK is considering similar support, while Italy’s Prime Minister
+      Giorgia Meloni urged a stronger NATO role in the Arctic without ruling out US
+      moves. NATO as an organization has remained publicly silent, prompting criticism
+      from European capitals that it fails to defend member sovereignty, contrasting
+      with the EU’s proactive stance. In the US, bipartisan figures like Republican
+      Senators Thom Tillis and Lisa Murkowski have condemned Trump’s tariffs on allies
+      as “b ad for America ” and divisive for NATO, warning it benefits adversaries
+      like Putin and Xi. Canada, a NATO member with Arctic interests, has urged breaking
+      from US influence in related contexts but not directly addressed Greenland. The
+      NATO countries are acting like a battered spouse. Last night I learned that one
+      of my niece’s was beaten by her husband, leaving her with a broken nose. Instead
+      of calling the police, having her husband charged and securing a restraining order,
+      my niece is doing what so many battered women do… Saying nothing and staying in
+      a dangerous relationship. That is exactly how Europe is behaving. The leaders
+      of Europe should be united in outrage and Trump’s declared intention to trash
+      international law and illegally seize a territory just because he wants it. If
+      Trump proceeds down this path it will likely mark the end of NATO… Maybe that
+      is his real reason for this reckless, perilous proposed action. Trump’s dangerous
+      rhetoric and actions are not confined to Greenland. The Russians believe that
+      the US facilitated the December 28/29 drone attack on Putin’s official resident
+      in Novgorod; Trump’s CIA failed to spark a color revolution in Iran but continues
+      to build up military forces for a future attack; and Trump ordered the kidnapping
+      of Venezuela’s Nicholas Maduro, but has stopped short of executing a full regime
+      change by sending US ground forces into Venezuela. We are only 16 days into the
+      New Year and Trump is taking actions that run a risk of igniting multiple wars.
+      To be fair, Trump is not doing this on his own. He is being enabled by a variety
+      of senior officials, including the CIA chief, John Ratcliffe. While I believe
+      there are sufficient grounds to execute the 25th amendment, the reality is that
+      Trump is surrounded by sycophants who are quite willing to endorse and encourage
+      his lawlessness. I thank you for your invaluable support by taking time to read
+      or comment. I do not charge a subscription fee nor do I accept advertising. I
+      want the content to be accessible to everyone interested in the issues I am discussing.
+      However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article argues that it is time to invoke the 25th Amendment
+      to remove Donald Trump from office due to concerns about his mental and physical
+      fitness, similar to the difficult decision of taking car keys from an impaired
+      elderly parent to prevent potential harm.
+    paragraph_summary: The article draws a parallel between the difficult decision of
+      taking away a car from an elderly parent experiencing decline and the need to
+      invoke the 25th Amendment regarding Donald Trump's fitness for presidency. It
+      argues that, similar to the responsibility of ensuring safety in the case of impaired
+      seniors, it is time to consider whether Trump is capable of fulfilling his presidential
+      duties, particularly in light of his recent controversial statements, such as
+      claiming he would seize Greenland, which is a self-governing territory under Danish
+      sovereignty. The 25th Amendment allows for the vice president and a majority of
+      the cabinet to declare a president unable to perform their duties, with Congress
+      having the final say if the president disputes this decision. The author suggests
+      that Trump's actions warrant such intervention for the sake of national and international
+      stability.
+    published: '2026-01-18T04:10:39+00:00'
+  - title: The Time Has Come to Take the Car Keys from Donald Trump
+    url: https://sonar21.com/the-time-has-come-to-take-the-car-keys-from-donald-trump/
+    text: 'Anyone who has ever faced the crisis of an elderly parent who has suffered
+      mental and physical decline can probably recall the moment when you had to intervene
+      and take the car keys from your father or mother. Certainly not a happy time,
+      but the given the possibility of the impaired senior citizen causing an accident
+      that could kill others it was the right decision. I think we have come to that
+      moment with Donald Trump. It is time to invoke the 25th amendment to the US Constitution.
+      The 25th Amendment to the United States Constitution sets the rules for presidential
+      and vice‑presidential succession and for dealing with a president who is unable
+      to perform the duties of the office. It was proposed after President John F. Kennedy’s
+      assassination and was ratified in 1967 to clarify gaps in the original constitutional
+      text. Under Section 4, the vice president plus a majority of the principal officers
+      of the executive departments (or another body designated by Congress) can declare
+      that the president is unable to discharge the powers and duties of the office,
+      making the vice president acting president immediately. If the president disputes
+      this, Congress must decide; a two‑thirds vote in both houses is required to keep
+      the vice president as acting president, otherwise the president regains authority.
+      The final straw for me is Trump’s declarations that he is going to seize Greenland
+      and put it under the full control of the US Government. Greenland is an autonomous,
+      self‑governing territory within the Kingdom of Denmark, not an independent state
+      and not part of the United States. It remains under Danish sovereignty while exercising
+      extensive home rule over its internal affairs. Greenland’s Self‑Government Act
+      recognizes the Greenlandic people as a distinct people with a right to self‑determination
+      and provides a legal pathway for independence through a referendum in Greenland
+      followed by negotiations with Denmark. Internationally, other states (including
+      the United States in their defense agreements with Denmark) recognize Danish sovereignty
+      over Greenland, treating it as part of the Danish realm but with autonomous governance.
+      Unlike Denmark’s relationship with Greenland, where a metropolitan power maintains
+      full sovereignty over a large, culturally distinct, self-governing territory with
+      extensive autonomy and an explicit legal pathway to independence, the United States
+      holds several foreign territories — e.g., Puerto Rico, Guam, and the US Virgin
+      Islands — that are unincorporated… Meaning they are under full U.S. sovereignty
+      without constitutional guarantees of statehood or independence, and none match
+      Greenland’s degree of self-determination or resource control. Trump’s declaration
+      that he does not recognize international law — a view emphatically echoed by Stephen
+      Miller, Trump’s Deputy Chief of Staff, and Marco Rubio — is a dangerous and foolish
+      admission. Trump’s claim that might makes right , is an ancient aphorism expressing
+      the idea that power determines justice or morality, rather than any inherent ethical
+      principle. Thucydides (c. 410 BC) most famously articulated the idea in his History
+      of the Peloponnesian War, writing: The strong do what they can and the weak suffer
+      what they must. This Melian Dialogue passage is widely seen as the foundational
+      expression of realist power politics. Plato’s Republic (c. 375 BC) features Thrasymachus
+      declaring that “ justice is nothing else than the interest of the stronger, ”
+      a view that Socrates eviscerated. Trump is trying to justify his aim to seize
+      Greenland by insisting that Russia and China are poised to take that chunk of
+      territory if we don’t. This is ridiculous. Russia already has ample access to
+      the Artic. Three of Russia’s 11 time zones border the Arctic Ocean along its northern
+      coastline and, with a fleet of eight icebreakers, Russia is quite capable of working
+      in the Artic region without resorting to conquering Greenland. I would note that
+      the US only has one functioning icebreaker, so even it it gets control of Greenland
+      it will be several years before the US has enough icebreakers to work meaningfully
+      in the Artic. Trump’s claim that the US must control Greenland in order to buttress
+      US national security is specious. Because of Greenland’s legal status with Denmark,
+      and the fact that Denmark is part of NATO, any attack by Russia or China would
+      constitute a causus belli justifying the invocation of Article 5, which would
+      be an attack on NATO. NATO members have reacted with a mix of alarm, solidarity,
+      and diplomatic pushback to Donald Trump’s renewed declarations in early January
+      2026 that the U.S. needs Greenland for national security reasons, refusing to
+      rule out military force or tariffs to achieve control over the Danish territory.
+      This has escalated tensions within the alliance, with many viewing it as a direct
+      threat to Denmark’s sovereignty and NATO’s cohesion, potentially risking the alliance’s
+      survival. As Greenland’s administering power, Denmark has been at the forefront,
+      with Prime Minister Mette Frederiksen warning that any US military action against
+      the island would spell “ the end of NATO ” and the transatlantic partnership.
+      Denmark has bolstered its military presence on the island and coordinated with
+      allies for joint exercises, framing these as defensive measures to enhance Arctic
+      security without escalating threats. Foreign Minister Lars Løkke Rasmussen met
+      with Vice President JD Vance and Secretary of State Marco Rubio on January 14,
+      but described a “ fundamental disagreement, ” emphasizing dialogue while rejecting
+      annexation. Public opinion in Denmark strongly opposes any sale or takeover, with
+      polls showing nearly half viewing the U.S. as a threat. Several European leaders
+      issued a joint statement on January 6, affirming that “ Greenland belongs to its
+      people ” and that only Denmark and Greenland can decide its future, while standing
+      in “full solidarity” with Copenhagen. Signatories included the UK, France, Germany,
+      Italy, Poland, and Spain, who condemned tariffs as undermining transatlantic relations
+      and risking a “ dangerous downward spiral .” Countries like Sweden, France, and
+      Germany have deployed small military contingents to Greenland for training and
+      exercises, signaling a united front to deter intimidation and bolster NATO’s Arctic
+      presence. The UK is considering similar support, while Italy’s Prime Minister
+      Giorgia Meloni urged a stronger NATO role in the Arctic without ruling out US
+      moves. NATO as an organization has remained publicly silent, prompting criticism
+      from European capitals that it fails to defend member sovereignty, contrasting
+      with the EU’s proactive stance. In the US, bipartisan figures like Republican
+      Senators Thom Tillis and Lisa Murkowski have condemned Trump’s tariffs on allies
+      as “b ad for America ” and divisive for NATO, warning it benefits adversaries
+      like Putin and Xi. Canada, a NATO member with Arctic interests, has urged breaking
+      from US influence in related contexts but not directly addressed Greenland. The
+      NATO countries are acting like a battered spouse. Last night I learned that one
+      of my niece’s was beaten by her husband, leaving her with a broken nose. Instead
+      of calling the police, having her husband charged and securing a restraining order,
+      my niece is doing what so many battered women do… Saying nothing and staying in
+      a dangerous relationship. That is exactly how Europe is behaving. The leaders
+      of Europe should be united in outrage and Trump’s declared intention to trash
+      international law and illegally seize a territory just because he wants it. If
+      Trump proceeds down this path it will likely mark the end of NATO… Maybe that
+      is his real reason for this reckless, perilous proposed action. Trump’s dangerous
+      rhetoric and actions are not confined to Greenland. The Russians believe that
+      the US facilitated the December 28/29 drone attack on Putin’s official resident
+      in Novgorod; Trump’s CIA failed to spark a color revolution in Iran but continues
+      to build up military forces for a future attack; and Trump ordered the kidnapping
+      of Venezuela’s Nicholas Maduro, but has stopped short of executing a full regime
+      change by sending US ground forces into Venezuela. We are only 16 days into the
+      New Year and Trump is taking actions that run a risk of igniting multiple wars.
+      To be fair, Trump is not doing this on his own. He is being enabled by a variety
+      of senior officials, including the CIA chief, John Ratcliffe. While I believe
+      there are sufficient grounds to execute the 25th amendment, the reality is that
+      Trump is surrounded by sycophants who are quite willing to endorse and encourage
+      his lawlessness. I thank you for your invaluable support by taking time to read
+      or comment. I do not charge a subscription fee nor do I accept advertising. I
+      want the content to be accessible to everyone interested in the issues I am discussing.
+      However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article argues that it is time to invoke the 25th Amendment
+      to remove Donald Trump from office due to concerns about his mental and physical
+      fitness, similar to the difficult decision of taking car keys from an impaired
+      elderly parent to prevent potential harm.
+    paragraph_summary: The article draws a parallel between the difficult decision of
+      taking away a car from an elderly parent experiencing decline and the need to
+      invoke the 25th Amendment regarding Donald Trump's fitness for presidency. It
+      argues that, similar to the responsibility of ensuring safety in the case of impaired
+      seniors, it is time to consider whether Trump is capable of fulfilling his presidential
+      duties, particularly in light of his recent controversial statements, such as
+      claiming he would seize Greenland, which is a self-governing territory under Danish
+      sovereignty. The 25th Amendment allows for the vice president and a majority of
+      the cabinet to declare a president unable to perform their duties, with Congress
+      having the final say if the president disputes this decision. The author suggests
+      that Trump's actions warrant such intervention for the sake of national and international
+      stability.
+    published: '2026-01-18T04:10:39+00:00'
+  - title: Vladimir Putin Puts Donald Trump and NATO on Notice
+    url: https://sonar21.com/vladimir-putin-puts-donald-trump-and-nato-on-notice/
+    text: 'On January 15, 2026 (Thursday), Russian President Vladimir Putin addressed
+      32 newly appointed foreign ambassadors during a formal credentials presentation
+      ceremony in the Alexander Hall of the Grand Kremlin Palace in Moscow. This was
+      his first major foreign policy speech of the year and it was a direct message
+      to President Trump and the NATO countries, but Putin did so without calling either
+      out by name. Putin put on a master class in diplomacy and made three critical
+      points: Criticized those countries relying on the might-makes-right principle
+      to assert their unilateral narratives , which was a barb directed at Donald Trump.
+      Reiterated the importance of respect for international law and lamented the West
+      ignoring Russia’s legitimate interests and a deliberate policy of creating threats
+      to our security, including the advancement of the NATO bloc towards Russia’s borders –
+      contrary to the public promises made to us. I want to emphasise this: contrary
+      to the public promises made to us. Reaffirmed Russia’s support for Cuba’s sovereignty
+      and independence . Here is the salient parts of Putin’s remarks to the 32 new
+      Ambassadors to Russia: There is a reason why people say that peace does not come
+      by itself. It must be built, day-by-day, and it is a painstaking process. Achieving
+      peace requires effort, a sense of responsibility and the ability to make deliberate
+      choices. This posture is especially relevant today considering the increasingly
+      deteriorating international environment. I think that no one would claim otherwise.
+      Old conflicts are escalating, while new serious hotbeds of tension emerge. At the same
+      time, unilateral and dangerous actions often substitute diplomacy, efforts to come
+      to a compromise or find solutions which would suit everyone. Instead of having
+      states engage in dialogue with one another, there are those relying on the might-makes-right
+      principle to assert their unilateral narratives, those who believe that they can
+      impose their will, lecture others how they must live and issue orders. Dozens
+      of countries across the world have been suffering from the infringement of their
+      sovereign rights, from chaos and lawlessness. They lack the strength and resources
+      to stand up for themselves. Placing a greater emphasis on having all members of the international
+      community respect international law, as well as facilitating the advent of new
+      emerging trends and a fair multipolar world order can be viewed as a reasonable
+      solution. In this world order, all states would have the right to follow their
+      own development models and to define their future independently, without outside
+      interference, while preserving their unique culture and traditions. I would like
+      to note that Russia is sincerely committed to the ideals of a multipolar world.
+      Our country has always pursued and will continue to pursue a balanced, constructive
+      foreign policy course that takes into account both our national interests and the objective
+      trends of global development. We are determined to maintain truly open and mutually
+      advantageous relations with all partners interested in cooperation, deepening
+      ties in politics, the economy and culture, and jointly confronting acute challenges
+      and common threats. Russia advocates for strengthening the key, central role of the United
+      Nations in global affairs, the organisation that celebrated its anniversary last
+      year. Eight decades ago, our fathers, grandfathers, and great-grandfathers, having
+      emerged victorious in the Second World War, were able to unite, find a balance
+      of interests, and agree on the fundamental rules and principles of international
+      communication, enshrining them in their entirety, completeness, and interconnectedness
+      in the UN Charter. The imperatives of this foundational document, such as equality,
+      respect for sovereignty, non-interference in internal affairs, and the resolution
+      of disputes through dialogue, are now more relevant than ever. Most importantly,
+      we must proceed from the understanding that security must be truly comprehensive
+      and, therefore, equal and indivisible, and it cannot be ensured for some at the expense
+      of the security of others. This principle is enshrined in fundamental international
+      legal instruments. Disregarding this basic, vital principle has never led to anything
+      good and never will. This has been clearly demonstrated by the crisis around Ukraine,
+      which became a direct consequence of years of ignoring Russia’s legitimate interests
+      and a deliberate policy of creating threats to our security, including the advancement
+      of the NATO bloc towards Russia’s borders – contrary to the public promises made
+      to us. I want to emphasise this: contrary to the public promises made to us. Let
+      me remind you that Russia has repeatedly put forward initiatives to build a new,
+      reliable, and fair architecture of European and global security. We have proposed
+      options and rational solutions that could satisfy everyone in America, Europe,
+      Asia, and across the world. We believe it would be worthwhile to return to a substantive
+      discussion of these proposals to establish the conditions under which a peaceful
+      settlement of the conflict in Ukraine could be achieved – and the sooner, the better.
+      It is precisely a long-term and sustainable peace, one that reliably ensures the security
+      of all and everyone, that our country strives for. Not everywhere, including in Kiev
+      and the capitals that support it, are they ready for this. But we hope that an awareness
+      of this necessity will come sooner or later. Until then, Russia will continue
+      to consistently pursue its objectives. At the same time, I would like to reiterate
+      and ask you to bear in mind in your activities that Russia is always open to building
+      equal and constructive relations with all international partners for the sake
+      of universal prosperity, well-being, and development. . . . I would like to emphasise
+      that Russia and the Republic of Cuba enjoy genuinely strong and friendly relations.
+      We have consistently provided assistance and support to our Cuban friends. Russia
+      stands in solidarity with Cuba’s firm determination to defend its sovereignty
+      and independence. The Russian-Cuban alliance has withstood the test of time and is
+      rooted in the sincere mutual goodwill of our peoples. Together, we are implementing
+      projects of critical importance to the Cuban economy in areas such as energy,
+      metallurgy, transport infrastructure, and healthcare, while also expanding cultural
+      and humanitarian exchanges. Ray McGovern and I debated the importance of Putin’s
+      address to the ambassadors during today’s Intelligence Roundtable with Judge Napolitano.
+      I agree with Alexander Mercouris’s view that Putin’s remarks represent a significant
+      shift in how Russia will proceed with regards to a diplomatic solution to the
+      war in Ukraine… Although Putin did not explicitly say that pushing NATO back to
+      its 1991 limits, he was emphatic that the expansion of NATO towards Russia’s borders
+      was a betrayal of promise the West had made to Russia. This is the root cause
+      of the current conflict with Ukraine and must be addressed by the NATO countries
+      before there can be peace with Ukraine and, by extension, with NATO. Ray had a
+      different take… We had, as friends sometime do, a polite disagreement. In addition
+      to my conversation with Ray and the Judge, I chatted on Thursday with Clayton
+      and Natalie Morris on their channel, Redacted : I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: In his first major foreign policy speech of 2026, Russian
+      President Vladimir Putin addressed newly appointed foreign ambassadors, subtly
+      criticizing the unilateral actions of NATO countries and emphasizing the importance
+      of international law while lamenting the West's disregard for Russia's security
+      interests.
+    paragraph_summary: On January 15, 2026, Russian President Vladimir Putin delivered
+      a significant foreign policy speech to 32 newly appointed ambassadors in Moscow,
+      subtly addressing President Trump and NATO without naming them. He criticized
+      countries that rely on a "might-makes-right" approach, emphasizing the need for
+      respect for international law and lamenting the West's disregard for Russia's
+      security interests, particularly regarding NATO's expansion. Putin reaffirmed
+      Russia's support for Cuba's sovereignty and highlighted the importance of building
+      peace through effort and dialogue, warning against unilateral actions that undermine
+      diplomatic solutions amid a deteriorating international environment marked by
+      escalating conflicts and emerging tensions.
+    published: '2026-01-17T04:57:59+00:00'
+  - title: Vladimir Putin Puts Donald Trump and NATO on Notice
+    url: https://sonar21.com/vladimir-putin-puts-donald-trump-and-nato-on-notice/
+    text: 'On January 15, 2026 (Thursday), Russian President Vladimir Putin addressed
+      32 newly appointed foreign ambassadors during a formal credentials presentation
+      ceremony in the Alexander Hall of the Grand Kremlin Palace in Moscow. This was
+      his first major foreign policy speech of the year and it was a direct message
+      to President Trump and the NATO countries, but Putin did so without calling either
+      out by name. Putin put on a master class in diplomacy and made three critical
+      points: Criticized those countries relying on the might-makes-right principle
+      to assert their unilateral narratives , which was a barb directed at Donald Trump.
+      Reiterated the importance of respect for international law and lamented the West
+      ignoring Russia’s legitimate interests and a deliberate policy of creating threats
+      to our security, including the advancement of the NATO bloc towards Russia’s borders –
+      contrary to the public promises made to us. I want to emphasise this: contrary
+      to the public promises made to us. Reaffirmed Russia’s support for Cuba’s sovereignty
+      and independence . Here is the salient parts of Putin’s remarks to the 32 new
+      Ambassadors to Russia: There is a reason why people say that peace does not come
+      by itself. It must be built, day-by-day, and it is a painstaking process. Achieving
+      peace requires effort, a sense of responsibility and the ability to make deliberate
+      choices. This posture is especially relevant today considering the increasingly
+      deteriorating international environment. I think that no one would claim otherwise.
+      Old conflicts are escalating, while new serious hotbeds of tension emerge. At the same
+      time, unilateral and dangerous actions often substitute diplomacy, efforts to come
+      to a compromise or find solutions which would suit everyone. Instead of having
+      states engage in dialogue with one another, there are those relying on the might-makes-right
+      principle to assert their unilateral narratives, those who believe that they can
+      impose their will, lecture others how they must live and issue orders. Dozens
+      of countries across the world have been suffering from the infringement of their
+      sovereign rights, from chaos and lawlessness. They lack the strength and resources
+      to stand up for themselves. Placing a greater emphasis on having all members of the international
+      community respect international law, as well as facilitating the advent of new
+      emerging trends and a fair multipolar world order can be viewed as a reasonable
+      solution. In this world order, all states would have the right to follow their
+      own development models and to define their future independently, without outside
+      interference, while preserving their unique culture and traditions. I would like
+      to note that Russia is sincerely committed to the ideals of a multipolar world.
+      Our country has always pursued and will continue to pursue a balanced, constructive
+      foreign policy course that takes into account both our national interests and the objective
+      trends of global development. We are determined to maintain truly open and mutually
+      advantageous relations with all partners interested in cooperation, deepening
+      ties in politics, the economy and culture, and jointly confronting acute challenges
+      and common threats. Russia advocates for strengthening the key, central role of the United
+      Nations in global affairs, the organisation that celebrated its anniversary last
+      year. Eight decades ago, our fathers, grandfathers, and great-grandfathers, having
+      emerged victorious in the Second World War, were able to unite, find a balance
+      of interests, and agree on the fundamental rules and principles of international
+      communication, enshrining them in their entirety, completeness, and interconnectedness
+      in the UN Charter. The imperatives of this foundational document, such as equality,
+      respect for sovereignty, non-interference in internal affairs, and the resolution
+      of disputes through dialogue, are now more relevant than ever. Most importantly,
+      we must proceed from the understanding that security must be truly comprehensive
+      and, therefore, equal and indivisible, and it cannot be ensured for some at the expense
+      of the security of others. This principle is enshrined in fundamental international
+      legal instruments. Disregarding this basic, vital principle has never led to anything
+      good and never will. This has been clearly demonstrated by the crisis around Ukraine,
+      which became a direct consequence of years of ignoring Russia’s legitimate interests
+      and a deliberate policy of creating threats to our security, including the advancement
+      of the NATO bloc towards Russia’s borders – contrary to the public promises made
+      to us. I want to emphasise this: contrary to the public promises made to us. Let
+      me remind you that Russia has repeatedly put forward initiatives to build a new,
+      reliable, and fair architecture of European and global security. We have proposed
+      options and rational solutions that could satisfy everyone in America, Europe,
+      Asia, and across the world. We believe it would be worthwhile to return to a substantive
+      discussion of these proposals to establish the conditions under which a peaceful
+      settlement of the conflict in Ukraine could be achieved – and the sooner, the better.
+      It is precisely a long-term and sustainable peace, one that reliably ensures the security
+      of all and everyone, that our country strives for. Not everywhere, including in Kiev
+      and the capitals that support it, are they ready for this. But we hope that an awareness
+      of this necessity will come sooner or later. Until then, Russia will continue
+      to consistently pursue its objectives. At the same time, I would like to reiterate
+      and ask you to bear in mind in your activities that Russia is always open to building
+      equal and constructive relations with all international partners for the sake
+      of universal prosperity, well-being, and development. . . . I would like to emphasise
+      that Russia and the Republic of Cuba enjoy genuinely strong and friendly relations.
+      We have consistently provided assistance and support to our Cuban friends. Russia
+      stands in solidarity with Cuba’s firm determination to defend its sovereignty
+      and independence. The Russian-Cuban alliance has withstood the test of time and is
+      rooted in the sincere mutual goodwill of our peoples. Together, we are implementing
+      projects of critical importance to the Cuban economy in areas such as energy,
+      metallurgy, transport infrastructure, and healthcare, while also expanding cultural
+      and humanitarian exchanges. Ray McGovern and I debated the importance of Putin’s
+      address to the ambassadors during today’s Intelligence Roundtable with Judge Napolitano.
+      I agree with Alexander Mercouris’s view that Putin’s remarks represent a significant
+      shift in how Russia will proceed with regards to a diplomatic solution to the
+      war in Ukraine… Although Putin did not explicitly say that pushing NATO back to
+      its 1991 limits, he was emphatic that the expansion of NATO towards Russia’s borders
+      was a betrayal of promise the West had made to Russia. This is the root cause
+      of the current conflict with Ukraine and must be addressed by the NATO countries
+      before there can be peace with Ukraine and, by extension, with NATO. Ray had a
+      different take… We had, as friends sometime do, a polite disagreement. In addition
+      to my conversation with Ray and the Judge, I chatted on Thursday with Clayton
+      and Natalie Morris on their channel, Redacted : I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: In his first major foreign policy speech of 2026, Russian
+      President Vladimir Putin addressed newly appointed foreign ambassadors, subtly
+      criticizing the unilateral actions of NATO countries and emphasizing the importance
+      of international law while lamenting the West's disregard for Russia's security
+      interests.
+    paragraph_summary: On January 15, 2026, Russian President Vladimir Putin delivered
+      a significant foreign policy speech to 32 newly appointed ambassadors in Moscow,
+      subtly addressing President Trump and NATO without naming them. He criticized
+      countries that rely on a "might-makes-right" approach, emphasizing the need for
+      respect for international law and lamenting the West's disregard for Russia's
+      security interests, particularly regarding NATO's expansion. Putin reaffirmed
+      Russia's support for Cuba's sovereignty and highlighted the importance of building
+      peace through effort and dialogue, warning against unilateral actions that undermine
+      diplomatic solutions amid a deteriorating international environment marked by
+      escalating conflicts and emerging tensions.
+    published: '2026-01-17T04:57:59+00:00'
+  - title: Trump Balks at Bombing Iran… For Now
+    url: https://sonar21.com/trump-balks-at-bombing-iran-for-now/
+    text: 'A police station is set on fire during protests in Tehran, Iran on January
+      10, 2026. ©  Global Look Press / Keystone Press Agency Despite enormous political
+      pressure in the US, coupled with Donald Trump’s own bombastic rhetoric, the anticipated
+      Wednesday attack on Iran was called off at the last minute. According to media
+      reports, Saudi Arabia, Qatar and Turkey refused to give the US clearance to use
+      their air space to launch the attack on Iran. There also are reports that Russia
+      played a behind the scenes role in securing guarantees that Israel and Iran would
+      not attack each other. But I think there is another reason… The joint-CIA/Mossad
+      operation to destabilize the Iranian government and military, which was launched
+      on December 28, had failed. If the attempted color revolution had succeeded in
+      weakening government control I believe that Trump and Netanyahu had calculated
+      that the planned attack on Wednesday would have been sufficient to force the Ayatollah
+      to flee to Moscow. In fact, the scenario of the Ayatollah giving up was widely
+      touted in the Western press. Here is what I believe happened… This attempt at
+      regime change started with an economic attack. Iran’s currency, the rial, experienced
+      a dramatic plunge on December 28, 2025, hitting a record low of approximately
+      1.42–1.45 million rials per US dollar on the open (parallel) market in Tehran.
+      This sharp depreciation — part of a broader collapse that saw the rial lose nearly
+      half its value over 2025 — triggered immediate economic chaos, shop closures,
+      and the outbreak of nationwide protests that quickly escalated into anti-government
+      demonstrations. This collapse in the rial came one day before Trump met with Bibi
+      Netanyahu in West Palm, Florida. I don’t believe in coincidence. The conventional
+      explanation is that he crash accelerated rapidly in late December due to a combination
+      of policy decisions and panic, which included the following: Change in currency
+      regulations for importers — In December 2025, the government eliminated preferential
+      (subsidized) exchange rates for many essential imports, forcing businesses to
+      buy foreign currency at the much higher open-market rate. This removed a key support
+      mechanism, increased import costs dramatically, and fueled expectations of further
+      devaluation. Panic buying and capital flight — As the rial weakened, ordinary
+      Iranians, merchants, and businesses rushed to convert savings into US dollars,
+      gold, or goods. This created a self-reinforcing spiral: massive selling pressure
+      on the rial, depleted central bank reserves to defend it, and eroded public confidence.
+      Authorities’ initial silence only deepened the panic. Shopkeeper protests as the
+      spark — On December 28, electronics and mobile phone traders in central Tehran
+      (e.g., around Hafez Street, Iran Mobile Center, and Alaeddin Mall) shut their
+      doors in protest against the volatility and rising costs. This bazaar-led action
+      — historically significant in Iranian politics — quickly spread, with iron market
+      traders and others joining, chanting anti-government slogans. But the conventional
+      wisdom ignores the power of outside actors. Consider what one man was able to
+      do to one of the world’s major economies. George Soros, through his hedge fund
+      Quantum Fund, became legendary for large-scale speculative bets on currencies,
+      particularly when he identified overvalued or unsustainable exchange rate regimes.
+      These trades often involved short-selling (betting against) a currency, profiting
+      if it devalued or a peg broke. Soros earned the nickname, the man who broke the
+      Bank of England , when he built a massive short position of about $10 billion
+      against the pound (borrowing and selling pounds, expecting to buy them back cheaper
+      after devaluation). On Black Wednesday, speculative pressure (led by Soros and
+      others) overwhelmed the Bank of England. Despite raising interest rates dramatically
+      (to 15%) and spending billions in reserves, the UK exited the ERM. The pound fell
+      sharply (15–20% against major currencies). If Soros could do this to England,
+      do you think it is impossible for the US, with the help of some allies, to crash
+      Iran’s currency? We got to give some credit to Western intelligence, who correctly
+      calculated that this economic shock would incite protests. The CIA and Mossad
+      had deployed Starlink terminals throughout Iran among dissident groups in order
+      to generate propaganda images and reports that would convince Western populations
+      that Iran was on the brink of collapse, and to coordinate activities. Western
+      intelligence also provided cash and weapons to groups scattered across Iran with
+      express orders to attack Iranian police and security services… Create enough chaos
+      and then, with well placed military strikes, hopefully collapse the Iranian government.
+      The plan was disrupted starting Friday, January 9, when Iran’s various security
+      services launched counter attacks against the violent agitators. Iran’s intelligence
+      service — most likely with assistance from Russia and China — uncovered and destroyed
+      the Starlink network’s effectiveness. Iran’s success in shutting down the internet
+      across the country, coupled with Electronic Warfare assistance from Russia, enabled
+      Iran to identify and arrest (or kill) those individuals cooperating with the CIA
+      and/or Mossad. This failure does not mean that the US and Israel are giving up
+      on their desire to eliminate the Islamic Republic. A US carrier Task Force is
+      still enroute to the Persian Gulf. As long as the US continues to build up military
+      assets in the region, the plan to attack Iran remains viable. I discussed some
+      of this today with my friend, Garland Nixon: I thank you for your invaluable support
+      by taking time to read or comment. I do not charge a subscription fee nor do I
+      accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: Protests in Tehran led to a police station being set on fire
+      on January 10, 2026, while a planned US attack on Iran was called off due to lack
+      of support from regional allies and the failure of a joint CIA/Mossad operation
+      to destabilize the Iranian government.
+    paragraph_summary: On January 10, 2026, protests erupted in Tehran, culminating
+      in a police station being set on fire, amid heightened political tensions in the
+      US and the Middle East. An anticipated military attack on Iran by the US, led
+      by Donald Trump, was abruptly canceled due to Saudi Arabia, Qatar, and Turkey
+      denying airspace access, alongside reported Russian intervention to prevent conflict
+      between Israel and Iran. This decision followed a failed joint CIA/Mossad operation
+      aimed at destabilizing the Iranian government, which had begun with a significant
+      economic attack that saw the Iranian rial plummet to record lows, leading to widespread
+      protests and chaos. The timing of the rial's collapse, coinciding with a meeting
+      between Trump and Israeli Prime Minister Netanyahu, suggests a strategic attempt
+      to weaken the Iranian regime, with hopes that the Ayatollah would flee amid the
+      turmoil.
+    published: '2026-01-16T05:24:08+00:00'
+  - title: Trump Balks at Bombing Iran… For Now
+    url: https://sonar21.com/trump-balks-at-bombing-iran-for-now/
+    text: 'A police station is set on fire during protests in Tehran, Iran on January
+      10, 2026. ©  Global Look Press / Keystone Press Agency Despite enormous political
+      pressure in the US, coupled with Donald Trump’s own bombastic rhetoric, the anticipated
+      Wednesday attack on Iran was called off at the last minute. According to media
+      reports, Saudi Arabia, Qatar and Turkey refused to give the US clearance to use
+      their air space to launch the attack on Iran. There also are reports that Russia
+      played a behind the scenes role in securing guarantees that Israel and Iran would
+      not attack each other. But I think there is another reason… The joint-CIA/Mossad
+      operation to destabilize the Iranian government and military, which was launched
+      on December 28, had failed. If the attempted color revolution had succeeded in
+      weakening government control I believe that Trump and Netanyahu had calculated
+      that the planned attack on Wednesday would have been sufficient to force the Ayatollah
+      to flee to Moscow. In fact, the scenario of the Ayatollah giving up was widely
+      touted in the Western press. Here is what I believe happened… This attempt at
+      regime change started with an economic attack. Iran’s currency, the rial, experienced
+      a dramatic plunge on December 28, 2025, hitting a record low of approximately
+      1.42–1.45 million rials per US dollar on the open (parallel) market in Tehran.
+      This sharp depreciation — part of a broader collapse that saw the rial lose nearly
+      half its value over 2025 — triggered immediate economic chaos, shop closures,
+      and the outbreak of nationwide protests that quickly escalated into anti-government
+      demonstrations. This collapse in the rial came one day before Trump met with Bibi
+      Netanyahu in West Palm, Florida. I don’t believe in coincidence. The conventional
+      explanation is that he crash accelerated rapidly in late December due to a combination
+      of policy decisions and panic, which included the following: Change in currency
+      regulations for importers — In December 2025, the government eliminated preferential
+      (subsidized) exchange rates for many essential imports, forcing businesses to
+      buy foreign currency at the much higher open-market rate. This removed a key support
+      mechanism, increased import costs dramatically, and fueled expectations of further
+      devaluation. Panic buying and capital flight — As the rial weakened, ordinary
+      Iranians, merchants, and businesses rushed to convert savings into US dollars,
+      gold, or goods. This created a self-reinforcing spiral: massive selling pressure
+      on the rial, depleted central bank reserves to defend it, and eroded public confidence.
+      Authorities’ initial silence only deepened the panic. Shopkeeper protests as the
+      spark — On December 28, electronics and mobile phone traders in central Tehran
+      (e.g., around Hafez Street, Iran Mobile Center, and Alaeddin Mall) shut their
+      doors in protest against the volatility and rising costs. This bazaar-led action
+      — historically significant in Iranian politics — quickly spread, with iron market
+      traders and others joining, chanting anti-government slogans. But the conventional
+      wisdom ignores the power of outside actors. Consider what one man was able to
+      do to one of the world’s major economies. George Soros, through his hedge fund
+      Quantum Fund, became legendary for large-scale speculative bets on currencies,
+      particularly when he identified overvalued or unsustainable exchange rate regimes.
+      These trades often involved short-selling (betting against) a currency, profiting
+      if it devalued or a peg broke. Soros earned the nickname, the man who broke the
+      Bank of England , when he built a massive short position of about $10 billion
+      against the pound (borrowing and selling pounds, expecting to buy them back cheaper
+      after devaluation). On Black Wednesday, speculative pressure (led by Soros and
+      others) overwhelmed the Bank of England. Despite raising interest rates dramatically
+      (to 15%) and spending billions in reserves, the UK exited the ERM. The pound fell
+      sharply (15–20% against major currencies). If Soros could do this to England,
+      do you think it is impossible for the US, with the help of some allies, to crash
+      Iran’s currency? We got to give some credit to Western intelligence, who correctly
+      calculated that this economic shock would incite protests. The CIA and Mossad
+      had deployed Starlink terminals throughout Iran among dissident groups in order
+      to generate propaganda images and reports that would convince Western populations
+      that Iran was on the brink of collapse, and to coordinate activities. Western
+      intelligence also provided cash and weapons to groups scattered across Iran with
+      express orders to attack Iranian police and security services… Create enough chaos
+      and then, with well placed military strikes, hopefully collapse the Iranian government.
+      The plan was disrupted starting Friday, January 9, when Iran’s various security
+      services launched counter attacks against the violent agitators. Iran’s intelligence
+      service — most likely with assistance from Russia and China — uncovered and destroyed
+      the Starlink network’s effectiveness. Iran’s success in shutting down the internet
+      across the country, coupled with Electronic Warfare assistance from Russia, enabled
+      Iran to identify and arrest (or kill) those individuals cooperating with the CIA
+      and/or Mossad. This failure does not mean that the US and Israel are giving up
+      on their desire to eliminate the Islamic Republic. A US carrier Task Force is
+      still enroute to the Persian Gulf. As long as the US continues to build up military
+      assets in the region, the plan to attack Iran remains viable. I discussed some
+      of this today with my friend, Garland Nixon: I thank you for your invaluable support
+      by taking time to read or comment. I do not charge a subscription fee nor do I
+      accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: Protests in Tehran led to a police station being set on fire
+      on January 10, 2026, while a planned US attack on Iran was called off due to lack
+      of support from regional allies and the failure of a joint CIA/Mossad operation
+      to destabilize the Iranian government.
+    paragraph_summary: On January 10, 2026, protests erupted in Tehran, culminating
+      in a police station being set on fire, amid heightened political tensions in the
+      US and the Middle East. An anticipated military attack on Iran by the US, led
+      by Donald Trump, was abruptly canceled due to Saudi Arabia, Qatar, and Turkey
+      denying airspace access, alongside reported Russian intervention to prevent conflict
+      between Israel and Iran. This decision followed a failed joint CIA/Mossad operation
+      aimed at destabilizing the Iranian government, which had begun with a significant
+      economic attack that saw the Iranian rial plummet to record lows, leading to widespread
+      protests and chaos. The timing of the rial's collapse, coinciding with a meeting
+      between Trump and Israeli Prime Minister Netanyahu, suggests a strategic attempt
+      to weaken the Iranian regime, with hopes that the Ayatollah would flee amid the
+      turmoil.
+    published: '2026-01-16T05:24:08+00:00'
+  - title: US Ramping Up to Attack Iran… But
+    url: https://sonar21.com/us-ramping-up-to-attack-iran-but/
+    text: 'The chess pieces are moving and the US appears to be making final preparations
+      to attack Iran. But there are reports that Trump wants a guaranteed victory before
+      he gives the order to launch. When I woke up this morning I was greeted with the
+      news that the US is evacuating some personnel from Al Udeid Air Force Base in
+      Qatar. In addition, the aircraft carrier USS Theodore Roosevelt has arrived in
+      the Red Sea , along with three missile destroyers and one missile-carrying submarine
+      of the US Navy that are currently in the region. But wait, there is more. The
+      American Embassy in Kuwait has temporarily suspended the movement of staff at
+      some military bases. Then we have a number of Western countries Urging Citizens
+      to Leave Iran (or Strongly Advising Immediate Departure) United States — The U.S.
+      State Department (via its Virtual Embassy in Tehran) maintains a Level 4: Do Not
+      Travel advisory and explicitly urges U.S. citizens to leave Iran immediately if
+      present. It advises planning departures by land (e.g., to Turkey or Armenia) without
+      relying on U.S. government help, citing risks of detention, violence, and limited
+      assistance. Poland — The Polish Foreign Ministry urges the immediate departure
+      from Iran and advises against all travel there. Italy — Italy’s Foreign Ministry
+      has issued statements urging citizens to leave Iran due to the deteriorating security
+      situation. Spain — Spain’s Foreign Ministry has similarly urged citizens to leave
+      Iran . Germany — Germany urges residents to leave Iran , warning of risks like
+      arbitrary arrests and noting limited embassy assistance. Australia — Australia
+      advises citizens to leave Iran immediately, stating that those who remain do so
+      at their own risk. However, despite Trump’s heated public rhetoric, he may be
+      having second thoughts. NBC news reports: President Trump has privately told his
+      top advisors that he would want any action against Iran to deliver a ‘swift and
+      decisive blow’ to the regime However, a U.S. official confirmed that Trump’s advisors
+      have been unable to guarantee to him that the regime would quickly collapse after
+      an American military strike. There is concern that the U.S. may not have enough
+      assets currenrly present in the region to defend against what administration officials
+      expect would be an ‘aggressive’ Iranian response. Tehran, meanwhile, set social
+      media ablaze late on Wednesday (early Thursday morning in Iran) when it issued
+      a NOTAM (i.e. Notice to Airmen) closing Iranian airspace to all commercial aircraft
+      for a few hours. I do not know if this was because they expected an imminent attack
+      or if Iranian authorities were conducting a military operation to test their alert
+      and air defense systems. I agree with John Mearsheimer that Iran’s best course
+      of action right now is to warn the US and all Gulf nations that any attack on
+      Iran will lead to a closure of the Strait of Hormuz… Such a blockade would prevent
+      45% of the oil produced each day by both OPEC and non-OPEC nations from reaching
+      consumers. Shuttering the Strait would cause a dramatic spike in the price of
+      oil, which would be a windfall for all non-OPEC countries… Especially Russia,
+      who is the largest producer of oil next to Saudi Arabia. I spoke late last week
+      with Danny of CapitalCosm and with Andrey Klintsevich of Moscow Calling : I thank
+      you for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: The U.S. is reportedly preparing for a potential military
+      strike on Iran, with increased military presence in the region and evacuation
+      of personnel, while urging American citizens to leave Iran immediately.
+    paragraph_summary: The U.S. is reportedly preparing for a potential military strike
+      against Iran, with recent developments including the evacuation of personnel from
+      Al Udeid Air Force Base in Qatar and the deployment of the USS Theodore Roosevelt
+      and other naval assets to the region. The U.S. State Department has issued a Level
+      4 "Do Not Travel" advisory for Iran, urging American citizens to leave immediately,
+      a sentiment echoed by several Western countries including Poland, Italy, Spain,
+      Germany, and Australia, all warning of deteriorating security and risks of detention.
+      Despite the escalating tensions and Trump's aggressive rhetoric, he is reportedly
+      seeking a guaranteed victory before proceeding with any military action, indicating
+      a desire for a "swift and decisive blow" to the Iranian regime.
+    published: '2026-01-15T03:43:57+00:00'
+  - title: US Ramping Up to Attack Iran… But
+    url: https://sonar21.com/us-ramping-up-to-attack-iran-but/
+    text: 'The chess pieces are moving and the US appears to be making final preparations
+      to attack Iran. But there are reports that Trump wants a guaranteed victory before
+      he gives the order to launch. When I woke up this morning I was greeted with the
+      news that the US is evacuating some personnel from Al Udeid Air Force Base in
+      Qatar. In addition, the aircraft carrier USS Theodore Roosevelt has arrived in
+      the Red Sea , along with three missile destroyers and one missile-carrying submarine
+      of the US Navy that are currently in the region. But wait, there is more. The
+      American Embassy in Kuwait has temporarily suspended the movement of staff at
+      some military bases. Then we have a number of Western countries Urging Citizens
+      to Leave Iran (or Strongly Advising Immediate Departure) United States — The U.S.
+      State Department (via its Virtual Embassy in Tehran) maintains a Level 4: Do Not
+      Travel advisory and explicitly urges U.S. citizens to leave Iran immediately if
+      present. It advises planning departures by land (e.g., to Turkey or Armenia) without
+      relying on U.S. government help, citing risks of detention, violence, and limited
+      assistance. Poland — The Polish Foreign Ministry urges the immediate departure
+      from Iran and advises against all travel there. Italy — Italy’s Foreign Ministry
+      has issued statements urging citizens to leave Iran due to the deteriorating security
+      situation. Spain — Spain’s Foreign Ministry has similarly urged citizens to leave
+      Iran . Germany — Germany urges residents to leave Iran , warning of risks like
+      arbitrary arrests and noting limited embassy assistance. Australia — Australia
+      advises citizens to leave Iran immediately, stating that those who remain do so
+      at their own risk. However, despite Trump’s heated public rhetoric, he may be
+      having second thoughts. NBC news reports: President Trump has privately told his
+      top advisors that he would want any action against Iran to deliver a ‘swift and
+      decisive blow’ to the regime However, a U.S. official confirmed that Trump’s advisors
+      have been unable to guarantee to him that the regime would quickly collapse after
+      an American military strike. There is concern that the U.S. may not have enough
+      assets currenrly present in the region to defend against what administration officials
+      expect would be an ‘aggressive’ Iranian response. Tehran, meanwhile, set social
+      media ablaze late on Wednesday (early Thursday morning in Iran) when it issued
+      a NOTAM (i.e. Notice to Airmen) closing Iranian airspace to all commercial aircraft
+      for a few hours. I do not know if this was because they expected an imminent attack
+      or if Iranian authorities were conducting a military operation to test their alert
+      and air defense systems. I agree with John Mearsheimer that Iran’s best course
+      of action right now is to warn the US and all Gulf nations that any attack on
+      Iran will lead to a closure of the Strait of Hormuz… Such a blockade would prevent
+      45% of the oil produced each day by both OPEC and non-OPEC nations from reaching
+      consumers. Shuttering the Strait would cause a dramatic spike in the price of
+      oil, which would be a windfall for all non-OPEC countries… Especially Russia,
+      who is the largest producer of oil next to Saudi Arabia. I spoke late last week
+      with Danny of CapitalCosm and with Andrey Klintsevich of Moscow Calling : I thank
+      you for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: The U.S. is reportedly preparing for a potential military
+      strike on Iran, with increased military presence in the region and evacuation
+      of personnel, while urging American citizens to leave Iran immediately.
+    paragraph_summary: The U.S. is reportedly preparing for a potential military strike
+      against Iran, with recent developments including the evacuation of personnel from
+      Al Udeid Air Force Base in Qatar and the deployment of the USS Theodore Roosevelt
+      and other naval assets to the region. The U.S. State Department has issued a Level
+      4 "Do Not Travel" advisory for Iran, urging American citizens to leave immediately,
+      a sentiment echoed by several Western countries including Poland, Italy, Spain,
+      Germany, and Australia, all warning of deteriorating security and risks of detention.
+      Despite the escalating tensions and Trump's aggressive rhetoric, he is reportedly
+      seeking a guaranteed victory before proceeding with any military action, indicating
+      a desire for a "swift and decisive blow" to the Iranian regime.
+    published: '2026-01-15T03:43:57+00:00'
   - title: Iran Does Not Hate Americans… But it Has Legitimate Reasons to Do So
     url: https://sonar21.com/iran-does-not-hate-americans-but-it-has-legitimate-reasons-to-do-so/
     text: 'During a Zoom meeting today I listened to a retired US General make the case
