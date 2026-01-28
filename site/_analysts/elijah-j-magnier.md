@@ -7,12 +7,656 @@ description: "Veteran Middle East war correspondent; provides first-hand analysi
 websites:
   - https://ejmagnier.com
 summary: |
-  The Middle East remains at a critical juncture as diplomatic maneuvers and military posturing continue to define the region’s trajectory. In the latest development, former President Donald Trump’s announcement of a “second phase” in his Gaza peace plan has been met with skepticism from both Israeli officials and independent analysts. According to **Elijah J. Magnier**, Israel perceives this move not as a genuine attempt to resolve the conflict, but rather as a calculated effort to manage international criticism and rehabilitate the images of both Israel and Trump. The realities on the ground in Gaza, Magnier notes, remain unchanged, with the announcement serving more as a distraction than a substantive policy shift.
+  Amidst the ongoing fragmentation of the global order, the 2026 World Economic Forum in Davos has become a focal point for Western leaders to openly acknowledge the deepening crisis within the transatlantic alliance. As **Elijah J. Magnier** reports, figures such as Canadian Prime Minister Mark Carney and French President Emmanuel Macron have for the first time publicly recognized a “historic rupture” in the transatlantic order, citing the failure of the rules-based system and the increasingly coercive posture of the United States toward its traditional allies.
   
-  Meanwhile, the situation between the U.S., Israel, and Iran continues to simmer. Previous near-war scenarios have revealed a precarious balance: Trump’s intensified rhetoric on bombing Iran was ultimately tempered by Iran’s decision to halt executions of protesters, and by indications that Israel was not fully prepared for escalation. As **Elijah J. Magnier** highlights, this episode underscores the ongoing tension and the delicate interplay between deterrence and restraint in the region.
+  This admission marks a significant shift: Western leaders are no longer attempting to mask the dysfunction within the alliance. Instead, they are openly diagnosing the breakdown of the post-Cold War consensus and expressing concern over Washington’s tendency to treat allies as “partners of convenience” rather than equals. According to **Magnier**, this signals the end of the so-called Western hegemonic bargain, with European leaders now questioning the sustainability of the current security and economic architecture.
   
-  Looking ahead, the prevailing trend is one of image management and strategic ambiguity, rather than concrete progress toward peace or de-escalation. The majority of sources agree that external pressure on Iran—particularly strategies aimed at regime destabilization—has historically failed to achieve its objectives, often resulting in greater internal cohesion within Iran. It is, therefore, quite likely that the current cycle of diplomatic gestures and military threats will persist without significant breakthroughs. I guarantee that, barring unforeseen events, the underlying dynamics of the Gaza conflict and the U.S.-Iran-Israel triangle will remain largely unchanged in the immediate future.
+  The roots of this crisis, as previously analyzed, lie in the profound impact of the Ukraine war on Europe’s energy systems, industrial base, and political autonomy. The U.S. strategy, **Magnier** notes, has been less about defending Ukraine and more about reshaping the European order to maintain American primacy—a strategy that has left Europe structurally weakened and more dependent on U.S. leadership, even as trust erodes.
+  
+  Looking ahead, the prevailing trend is a continued unraveling of the transatlantic order. I guarantee that the fragmentation of Western unity will accelerate, with European states seeking greater autonomy in both security and economic policy. There is a high chance that the rules-based order, as previously understood, will not recover its former legitimacy or cohesion. Most definitely, the global system is entering a multipolar phase, with the West’s internal divisions providing opportunities for emerging powers to assert greater influence.
 articles:
+  - title: 'Der Zusammenbruch der transatlantischen Ordnung: Das Ende der westlichen
+      Hegemonie'
+    url: https://ejmagnier.com/2026/01/26/der-zusammenbruch-der-transatlantischen-ordnung-das-ende-der-westlichen-hegemonie/
+    text: 'Von Elijah J. Magnier – Auf dem Weltwirtschaftsforum 2026 in Davos hielten
+      westliche Staats- und Regierungschefs Reden, die zusammengenommen einen historischen
+      Bruch in der transatlantischen Ordnung markieren. Der kanadische Premierminister
+      Mark Carney und der französische Präsident Emmanuel Macron äußerten sich innerhalb
+      weniger Stunden nacheinander und formulierten damit eine implizite Erklärung zur
+      Neupositionierung nach dem Ende der Hegemonie. Ihre Botschaften unterschieden
+      sich zwar in Stil und nationaler Ausrichtung, kamen jedoch zu einer gemeinsamen
+      Diagnose: Die regelbasierte Ordnung funktioniert nicht mehr, die westliche Ordnung
+      ist zusammengebrochen, und die Vereinigten Staaten behandeln nun sogar ihre Verbündeten
+      eher als Objekte der Zwangsausübung denn als Partner der Gegenseitigkeit. Der
+      Westen erkennt endlich, dass er, wenn die Vereinigten Staaten ihn an den Tisch
+      einladen, nicht als Partner, sondern als Menü betrachtet wird. Es mag unrealistisch
+      klingen, aber einige europäische Staats- und Regierungschefs zeigen derzeit ein
+      Maß an strategischer Realitätsferne, das an institutionelle Verleugnung grenzt.
+      Als Reaktion auf Donald Trumps explizite Drohung, Grönland mit Gewalt zu erobern,
+      erklärte Friedrich Merz, Bundeskanzler der Bundesrepublik Deutschland, auf dem
+      Weltwirtschaftsforum 2026 in Davos: „Deutschland wird Grönland um jeden Preis
+      vor der Bedrohung durch Russland verteidigen.“ Hier handelt es sich nicht um einen
+      Versprecher, keinen Transkriptionsfehler, keine Zweideutigkeit. Merz sagte nicht
+      „die Vereinigten Staaten“. Er sagte „Russland“. In dem Moment, in dem der Chef
+      der US-Exekutive offen eine militärische Aktion gegen dänisches Territorium ins
+      Spiel bringt, formuliert der deutsche Bundeskanzler die Bedrohung öffentlich so
+      um, als käme sie aus Moskau. Das ist nicht nur rhetorische Verwirrung. Es ist
+      ein aufschlussreicher Akt kognitiver Dissonanz, der offenbart, wie tief Teile
+      der europäischen politischen Klasse in einer Mentalität des Kalten Krieges verhaftet
+      bleiben, selbst wenn sie mit einer direkten und beispiellosen Herausforderung
+      durch ihren eigenen vermeintlichen Verbündeten konfrontiert sind. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Auf dem Weltwirtschaftsforum 2026 in Davos erkannten westliche
+      Staats- und Regierungschefs, darunter der kanadische Premierminister Mark Carney
+      und der französische Präsident Emmanuel Macron, einen historischen Bruch in der
+      transatlantischen Ordnung und diagnostizierten das Versagen der regelbasierten
+      Ordnung sowie die problematische Behandlung von Verbündeten durch die USA.
+    paragraph_summary: Auf dem Weltwirtschaftsforum 2026 in Davos äußerten westliche
+      Staats- und Regierungschefs, darunter der kanadische Premierminister Mark Carney
+      und der französische Präsident Emmanuel Macron, eine gemeinsame Diagnose über
+      den Zusammenbruch der regelbasierten Ordnung und die Hegemonie der USA, die ihre
+      Verbündeten zunehmend als Objekte der Zwangsausübung behandeln. Diese Aussagen
+      markieren einen historischen Bruch in der transatlantischen Ordnung, wobei einige
+      europäische Führer, wie der deutsche Bundeskanzler Friedrich Merz, in einer bemerkenswerten
+      Umdeutung von Bedrohungen auf die militärischen Drohungen der USA gegenüber Grönland
+      reagieren, indem sie Russland als Hauptbedrohung benennen. Dies zeigt eine kognitive
+      Dissonanz und eine tiefe Verwirrung innerhalb der europäischen politischen Klasse,
+      die an eine Mentalität des Kalten Krieges erinnert.
+    published: '2026-01-26T06:15:01+00:00'
+  - title: 'Der Zusammenbruch der transatlantischen Ordnung: Das Ende der westlichen
+      Hegemonie'
+    url: https://ejmagnier.com/2026/01/26/der-zusammenbruch-der-transatlantischen-ordnung-das-ende-der-westlichen-hegemonie/
+    text: 'Von Elijah J. Magnier – Auf dem Weltwirtschaftsforum 2026 in Davos hielten
+      westliche Staats- und Regierungschefs Reden, die zusammengenommen einen historischen
+      Bruch in der transatlantischen Ordnung markieren. Der kanadische Premierminister
+      Mark Carney und der französische Präsident Emmanuel Macron äußerten sich innerhalb
+      weniger Stunden nacheinander und formulierten damit eine implizite Erklärung zur
+      Neupositionierung nach dem Ende der Hegemonie. Ihre Botschaften unterschieden
+      sich zwar in Stil und nationaler Ausrichtung, kamen jedoch zu einer gemeinsamen
+      Diagnose: Die regelbasierte Ordnung funktioniert nicht mehr, die westliche Ordnung
+      ist zusammengebrochen, und die Vereinigten Staaten behandeln nun sogar ihre Verbündeten
+      eher als Objekte der Zwangsausübung denn als Partner der Gegenseitigkeit. Der
+      Westen erkennt endlich, dass er, wenn die Vereinigten Staaten ihn an den Tisch
+      einladen, nicht als Partner, sondern als Menü betrachtet wird. Es mag unrealistisch
+      klingen, aber einige europäische Staats- und Regierungschefs zeigen derzeit ein
+      Maß an strategischer Realitätsferne, das an institutionelle Verleugnung grenzt.
+      Als Reaktion auf Donald Trumps explizite Drohung, Grönland mit Gewalt zu erobern,
+      erklärte Friedrich Merz, Bundeskanzler der Bundesrepublik Deutschland, auf dem
+      Weltwirtschaftsforum 2026 in Davos: „Deutschland wird Grönland um jeden Preis
+      vor der Bedrohung durch Russland verteidigen.“ Hier handelt es sich nicht um einen
+      Versprecher, keinen Transkriptionsfehler, keine Zweideutigkeit. Merz sagte nicht
+      „die Vereinigten Staaten“. Er sagte „Russland“. In dem Moment, in dem der Chef
+      der US-Exekutive offen eine militärische Aktion gegen dänisches Territorium ins
+      Spiel bringt, formuliert der deutsche Bundeskanzler die Bedrohung öffentlich so
+      um, als käme sie aus Moskau. Das ist nicht nur rhetorische Verwirrung. Es ist
+      ein aufschlussreicher Akt kognitiver Dissonanz, der offenbart, wie tief Teile
+      der europäischen politischen Klasse in einer Mentalität des Kalten Krieges verhaftet
+      bleiben, selbst wenn sie mit einer direkten und beispiellosen Herausforderung
+      durch ihren eigenen vermeintlichen Verbündeten konfrontiert sind. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Auf dem Weltwirtschaftsforum 2026 in Davos erkannten westliche
+      Staats- und Regierungschefs, darunter der kanadische Premierminister Mark Carney
+      und der französische Präsident Emmanuel Macron, einen historischen Bruch in der
+      transatlantischen Ordnung und diagnostizierten das Versagen der regelbasierten
+      Ordnung sowie die problematische Behandlung von Verbündeten durch die USA.
+    paragraph_summary: Auf dem Weltwirtschaftsforum 2026 in Davos äußerten westliche
+      Staats- und Regierungschefs, darunter der kanadische Premierminister Mark Carney
+      und der französische Präsident Emmanuel Macron, eine gemeinsame Diagnose über
+      den Zusammenbruch der regelbasierten Ordnung und die Hegemonie der USA, die ihre
+      Verbündeten zunehmend als Objekte der Zwangsausübung behandeln. Diese Aussagen
+      markieren einen historischen Bruch in der transatlantischen Ordnung, wobei einige
+      europäische Führer, wie der deutsche Bundeskanzler Friedrich Merz, in einer bemerkenswerten
+      Umdeutung von Bedrohungen auf die militärischen Drohungen der USA gegenüber Grönland
+      reagieren, indem sie Russland als Hauptbedrohung benennen. Dies zeigt eine kognitive
+      Dissonanz und eine tiefe Verwirrung innerhalb der europäischen politischen Klasse,
+      die an eine Mentalität des Kalten Krieges erinnert.
+    published: '2026-01-26T06:15:01+00:00'
+  - title: 'The Collapse of the Transatlantic Order: The End of the Western Hegemonic
+      Bargain'
+    url: https://ejmagnier.com/2026/01/24/the-collapse-of-the-transatlantic-order-the-end-of-the-western-hegemonic-bargain/
+    text: 'By Elijah J. Magnier – At the 2026 World Economic Forum in Davos, Western
+      leaders delivered speeches that, taken together, mark a historic rupture in the
+      transatlantic order. Canadian Prime Minister Mark Carney and French President
+      Emmanuel Macron, speaking within hours of each other, articulated what amounts
+      to an implicit declaration of post-hegemonic repositioning. Their messages differed
+      in style and national emphasis, but converged on a single diagnosis: the rules-based
+      order is no longer functional, the Western bargain has collapsed, and the United
+      States now treats even its allies as objects of coercion rather than partners
+      of reciprocity. The West is finally realising that when the United States invites
+      them to the table, they are not partners but the menu. It may sound unreal, but
+      some European leaders are now displaying a level of strategic disconnection that
+      borders on institutional denial. In response to Donald Trump’s explicit threat
+      to seize Greenland by force, Friedrich Merz, the Federal Chancellor of Germany,
+      told the World Economic Forum’s Annual Meeting 2026 in Davos: “At any cost, Germany
+      will defend Greenland from the threat posed by Russia.” There is no slip of the
+      tongue here, no transcription error, no ambiguity. Merz did not say the United
+      States. He said Russia. At the very moment when the head of the US executive branch
+      is openly floating a military move against Danish territory, the German chancellor
+      publicly reframes the threat as coming from Moscow. This is not merely rhetorical
+      confusion. It is a revealing act of cognitive dissonance that exposes how deeply
+      parts of the European political class remain trapped in a Cold War mental map,
+      even when confronted with a direct and unprecedented challenge from their own
+      supposed ally. However, Canada’s Prime Minister Mark Carney spoke in Davos of
+      “a rupture in the world order, the end of a pleasant fiction and the beginning
+      of a harsh reality,” a reality in which geopolitics is no longer constrained by
+      limits or rules. Yet the deeper truth is that there has never been a genuine world
+      order. There has only ever been a Western coalition calling its own preferred
+      mode of domination a “world order.” The “harsh reality” Carney refers to is not
+      the collapse of rules, but the collapse of asymmetry. The West never subjected
+      itself to limits or constraints when its interests or those of its allies were
+      at stake. Subscribe Subscribe to get access Read more of this content when you
+      subscribe today. Subscribe Submitting form Log in'
+    one_sentence_summary: At the 2026 World Economic Forum, Western leaders, including
+      Canadian Prime Minister Mark Carney and French President Emmanuel Macron, signaled
+      a significant shift in the transatlantic order by acknowledging the dysfunctionality
+      of the current rules-based system and the United States' coercive approach towards
+      its allies.
+    paragraph_summary: At the 2026 World Economic Forum in Davos, Canadian Prime Minister
+      Mark Carney and French President Emmanuel Macron highlighted a significant shift
+      in the transatlantic order, signaling a post-hegemonic repositioning where the
+      traditional rules-based order is deemed ineffective and the U.S. is perceived
+      as coercive towards its allies. Their speeches underscored a growing realization
+      among Western leaders that they are no longer equal partners but rather pawns
+      in a geopolitical game. This sentiment was starkly illustrated by German Chancellor
+      Friedrich Merz's comments, which reframed a U.S. threat to seize Greenland as
+      a danger from Russia, revealing a disconnect within the European political class
+      that remains entrenched in Cold War thinking despite facing unprecedented challenges
+      from the U.S. itself. Carney's remarks emphasized the end of a comforting illusion
+      and the onset of a more brutal geopolitical reality.
+    published: '2026-01-24T17:35:27+00:00'
+  - title: 'The Collapse of the Transatlantic Order: The End of the Western Hegemonic
+      Bargain'
+    url: https://ejmagnier.com/2026/01/24/the-collapse-of-the-transatlantic-order-the-end-of-the-western-hegemonic-bargain/
+    text: 'By Elijah J. Magnier – At the 2026 World Economic Forum in Davos, Western
+      leaders delivered speeches that, taken together, mark a historic rupture in the
+      transatlantic order. Canadian Prime Minister Mark Carney and French President
+      Emmanuel Macron, speaking within hours of each other, articulated what amounts
+      to an implicit declaration of post-hegemonic repositioning. Their messages differed
+      in style and national emphasis, but converged on a single diagnosis: the rules-based
+      order is no longer functional, the Western bargain has collapsed, and the United
+      States now treats even its allies as objects of coercion rather than partners
+      of reciprocity. The West is finally realising that when the United States invites
+      them to the table, they are not partners but the menu. It may sound unreal, but
+      some European leaders are now displaying a level of strategic disconnection that
+      borders on institutional denial. In response to Donald Trump’s explicit threat
+      to seize Greenland by force, Friedrich Merz, the Federal Chancellor of Germany,
+      told the World Economic Forum’s Annual Meeting 2026 in Davos: “At any cost, Germany
+      will defend Greenland from the threat posed by Russia.” There is no slip of the
+      tongue here, no transcription error, no ambiguity. Merz did not say the United
+      States. He said Russia. At the very moment when the head of the US executive branch
+      is openly floating a military move against Danish territory, the German chancellor
+      publicly reframes the threat as coming from Moscow. This is not merely rhetorical
+      confusion. It is a revealing act of cognitive dissonance that exposes how deeply
+      parts of the European political class remain trapped in a Cold War mental map,
+      even when confronted with a direct and unprecedented challenge from their own
+      supposed ally. However, Canada’s Prime Minister Mark Carney spoke in Davos of
+      “a rupture in the world order, the end of a pleasant fiction and the beginning
+      of a harsh reality,” a reality in which geopolitics is no longer constrained by
+      limits or rules. Yet the deeper truth is that there has never been a genuine world
+      order. There has only ever been a Western coalition calling its own preferred
+      mode of domination a “world order.” The “harsh reality” Carney refers to is not
+      the collapse of rules, but the collapse of asymmetry. The West never subjected
+      itself to limits or constraints when its interests or those of its allies were
+      at stake. Subscribe Subscribe to get access Read more of this content when you
+      subscribe today. Subscribe Submitting form Log in'
+    one_sentence_summary: At the 2026 World Economic Forum, Western leaders, including
+      Canadian Prime Minister Mark Carney and French President Emmanuel Macron, signaled
+      a significant shift in the transatlantic order by acknowledging the dysfunctionality
+      of the current rules-based system and the United States' coercive approach towards
+      its allies.
+    paragraph_summary: At the 2026 World Economic Forum in Davos, Canadian Prime Minister
+      Mark Carney and French President Emmanuel Macron highlighted a significant shift
+      in the transatlantic order, signaling a post-hegemonic repositioning where the
+      traditional rules-based order is deemed ineffective and the U.S. is perceived
+      as coercive towards its allies. Their speeches underscored a growing realization
+      among Western leaders that they are no longer equal partners but rather pawns
+      in a geopolitical game. This sentiment was starkly illustrated by German Chancellor
+      Friedrich Merz's comments, which reframed a U.S. threat to seize Greenland as
+      a danger from Russia, revealing a disconnect within the European political class
+      that remains entrenched in Cold War thinking despite facing unprecedented challenges
+      from the U.S. itself. Carney's remarks emphasized the end of a comforting illusion
+      and the onset of a more brutal geopolitical reality.
+    published: '2026-01-24T17:35:27+00:00'
+  - title: 'L’effondrement de l’ordre transatlantique : la fin du pacte hégémonique
+      occidental'
+    url: https://ejmagnier.com/2026/01/24/leffondrement-de-lordre-transatlantique-la-fin-du-pacte-hegemonique-occidental/
+    text: 'Par Elijah J. Magnier – Au Forum économique mondial de Davos 2026, les dirigeants
+      occidentaux ont prononcé des discours qui, pris ensemble, marquent une rupture
+      historique dans l’ordre transatlantique. Le Premier ministre canadien Mark Carney
+      et le président français Emmanuel Macron, intervenant à quelques heures d’intervalle,
+      ont formulé ce qui équivaut à une déclaration implicite de repositionnement post-hégémonique.
+      Leurs messages différaient par le style et l’accent national, mais convergeaient
+      vers un même diagnostic : l’ordre fondé sur des règles ne fonctionne plus, le
+      pacte occidental s’est effondré, et les États-Unis traitent désormais même leurs
+      alliés comme des objets de coercition plutôt que comme des partenaires de réciprocité.
+      L’Occident commence enfin à réaliser que lorsque les États-Unis invitent quelqu’un
+      à la table, il ne s’agit pas de partenaires, mais du menu. Cela peut paraître
+      irréel, mais certains dirigeants européens affichent désormais un niveau de déconnexion
+      stratégique qui frôle le déni institutionnel. En réponse à la menace explicite
+      de Donald Trump de s’emparer du Groenland par la force, Friedrich Merz, chancelier
+      fédéral allemand, a déclaré au Forum économique mondial de Davos 2026 : « À tout
+      prix, l’Allemagne défendra le Groenland contre la menace que représente la Russie.
+      » Il n’y a ici ni lapsus, ni erreur de transcription, ni ambiguïté. Merz n’a pas
+      dit les États-Unis. Il a dit la Russie. Au moment même où le chef de l’exécutif
+      américain évoque ouvertement une action militaire contre un territoire danois,
+      le chancelier allemand reformule publiquement la menace comme venant de Moscou.
+      Ce n’est pas une simple confusion rhétorique. C’est un acte révélateur de dissonance
+      cognitive qui expose à quel point une partie de la classe politique européenne
+      reste prisonnière d’une carte mentale de la guerre froide, même face à un défi
+      direct et sans précédent de la part de leur propre prétendu allié. Cependant,
+      le Premier ministre canadien Mark Carney a parlé à Davos d’« une rupture de l’ordre
+      mondial, de la fin d’une fiction agréable et du début d’une dure réalité », une
+      réalité dans laquelle la géopolitique n’est plus contrainte par des limites ni
+      par des règles. Pourtant, la vérité plus profonde est qu’il n’y a jamais eu de
+      véritable ordre mondial. Il n’y a jamais eu qu’une coalition occidentale qualifiant
+      son propre mode de domination préféré d’« ordre mondial ». La « dure réalité »
+      évoquée par Carney n’est pas l’effondrement des règles, mais l’effondrement de
+      l’asymétrie. L’Occident ne s’est jamais soumis à des limites ou à des contraintes
+      lorsque ses intérêts ou ceux de ses alliés étaient en jeu. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Lors du Forum économique mondial de Davos 2026, les discours
+      des dirigeants occidentaux, notamment ceux de Mark Carney et Emmanuel Macron,
+      ont signalé une rupture historique dans l'ordre transatlantique, soulignant l'échec
+      du système basé sur des règles et la transformation des États-Unis en un acteur
+      coercitif vis-à-vis de ses alliés.
+    paragraph_summary: Lors du Forum économique mondial de Davos 2026, les discours
+      des dirigeants occidentaux, notamment ceux du Premier ministre canadien Mark Carney
+      et du président français Emmanuel Macron, ont signalé un tournant historique dans
+      l'ordre transatlantique, soulignant l'échec de l'ordre basé sur des règles et
+      la dégradation des relations entre les États-Unis et leurs alliés. Ils ont mis
+      en lumière une perception croissante que les États-Unis traitent leurs partenaires
+      comme des objets de coercition. En parallèle, le chancelier allemand Friedrich
+      Merz a exprimé une dissonance cognitive en qualifiant la menace de Donald Trump
+      sur le Groenland comme venant de la Russie, révélant ainsi une déconnexion stratégique
+      parmi certains dirigeants européens, qui semblent encore ancrés dans une mentalité
+      de guerre froide face à des défis contemporains.
+    published: '2026-01-24T17:28:14+00:00'
+  - title: 'L’effondrement de l’ordre transatlantique : la fin du pacte hégémonique
+      occidental'
+    url: https://ejmagnier.com/2026/01/24/leffondrement-de-lordre-transatlantique-la-fin-du-pacte-hegemonique-occidental/
+    text: 'Par Elijah J. Magnier – Au Forum économique mondial de Davos 2026, les dirigeants
+      occidentaux ont prononcé des discours qui, pris ensemble, marquent une rupture
+      historique dans l’ordre transatlantique. Le Premier ministre canadien Mark Carney
+      et le président français Emmanuel Macron, intervenant à quelques heures d’intervalle,
+      ont formulé ce qui équivaut à une déclaration implicite de repositionnement post-hégémonique.
+      Leurs messages différaient par le style et l’accent national, mais convergeaient
+      vers un même diagnostic : l’ordre fondé sur des règles ne fonctionne plus, le
+      pacte occidental s’est effondré, et les États-Unis traitent désormais même leurs
+      alliés comme des objets de coercition plutôt que comme des partenaires de réciprocité.
+      L’Occident commence enfin à réaliser que lorsque les États-Unis invitent quelqu’un
+      à la table, il ne s’agit pas de partenaires, mais du menu. Cela peut paraître
+      irréel, mais certains dirigeants européens affichent désormais un niveau de déconnexion
+      stratégique qui frôle le déni institutionnel. En réponse à la menace explicite
+      de Donald Trump de s’emparer du Groenland par la force, Friedrich Merz, chancelier
+      fédéral allemand, a déclaré au Forum économique mondial de Davos 2026 : « À tout
+      prix, l’Allemagne défendra le Groenland contre la menace que représente la Russie.
+      » Il n’y a ici ni lapsus, ni erreur de transcription, ni ambiguïté. Merz n’a pas
+      dit les États-Unis. Il a dit la Russie. Au moment même où le chef de l’exécutif
+      américain évoque ouvertement une action militaire contre un territoire danois,
+      le chancelier allemand reformule publiquement la menace comme venant de Moscou.
+      Ce n’est pas une simple confusion rhétorique. C’est un acte révélateur de dissonance
+      cognitive qui expose à quel point une partie de la classe politique européenne
+      reste prisonnière d’une carte mentale de la guerre froide, même face à un défi
+      direct et sans précédent de la part de leur propre prétendu allié. Cependant,
+      le Premier ministre canadien Mark Carney a parlé à Davos d’« une rupture de l’ordre
+      mondial, de la fin d’une fiction agréable et du début d’une dure réalité », une
+      réalité dans laquelle la géopolitique n’est plus contrainte par des limites ni
+      par des règles. Pourtant, la vérité plus profonde est qu’il n’y a jamais eu de
+      véritable ordre mondial. Il n’y a jamais eu qu’une coalition occidentale qualifiant
+      son propre mode de domination préféré d’« ordre mondial ». La « dure réalité »
+      évoquée par Carney n’est pas l’effondrement des règles, mais l’effondrement de
+      l’asymétrie. L’Occident ne s’est jamais soumis à des limites ou à des contraintes
+      lorsque ses intérêts ou ceux de ses alliés étaient en jeu. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Lors du Forum économique mondial de Davos 2026, les discours
+      des dirigeants occidentaux, notamment ceux de Mark Carney et Emmanuel Macron,
+      ont signalé une rupture historique dans l'ordre transatlantique, soulignant l'échec
+      du système basé sur des règles et la transformation des États-Unis en un acteur
+      coercitif vis-à-vis de ses alliés.
+    paragraph_summary: Lors du Forum économique mondial de Davos 2026, les discours
+      des dirigeants occidentaux, notamment ceux du Premier ministre canadien Mark Carney
+      et du président français Emmanuel Macron, ont signalé un tournant historique dans
+      l'ordre transatlantique, soulignant l'échec de l'ordre basé sur des règles et
+      la dégradation des relations entre les États-Unis et leurs alliés. Ils ont mis
+      en lumière une perception croissante que les États-Unis traitent leurs partenaires
+      comme des objets de coercition. En parallèle, le chancelier allemand Friedrich
+      Merz a exprimé une dissonance cognitive en qualifiant la menace de Donald Trump
+      sur le Groenland comme venant de la Russie, révélant ainsi une déconnexion stratégique
+      parmi certains dirigeants européens, qui semblent encore ancrés dans une mentalité
+      de guerre froide face à des défis contemporains.
+    published: '2026-01-24T17:28:14+00:00'
+  - title: 'Hoe Oekraïne en Groenland de trans-Atlantische orde opnieuw hebben gedefinieerd:
+      Amerika heeft geen bondgenoten, maar alleen gelegenheidspartners'
+    url: https://ejmagnier.com/2026/01/22/hoe-oekraine-en-groenland-de-trans-atlantische-orde-opnieuw-hebben-gedefinieerd-amerika-heeft-geen-bondgenoten-maar-alleen-gelegenheidspartners/
+    text: Geschreven door Elijah J. Magnier – Vertaald door Francis J.A Vanuit historisch
+      oogpunt heeft de oorlog in Oekraïne Europa ingrijpender veranderd dan welke crisis
+      ook sinds het einde van de Koude Oorlog. Wat begon als een regionaal conflict
+      aan de oostflank van het continent, is uitgegroeid tot een structurele schok voor
+      het Europese energiesysteem, de industriële basis, de monetaire stabiliteit en
+      de politieke autonomie van Europa. Achter deze transformatie schuilt een strategische
+      logica die, vanuit het perspectief van Washington, opmerkelijk coherent is geweest.
+      De Amerikaanse strategie was niet in de eerste plaats gericht op de verdediging
+      van Oekraïne. Ze was gericht op het hervormen van de Europese orde. De eerste
+      pijler van die strategie was energie. Dertig jaar lang heeft Europa zijn industriële
+      concurrentievermogen opgebouwd op basis van toegang tot overvloedig en goedkoop
+      Russisch gas. Deze energie was niet alleen een handelswaar. Het was de basis van
+      het exportmodel van Duitsland, van het productie-ecosysteem van Centraal-Europa
+      en van de chemische, staal-, kunstmest- en auto-industrieën die de Europese welvaart
+      verankerden. Door Europa af te snijden van Russische energie, heeft de Verenigde
+      Staten niet alleen Moskou verzwakt. Het heeft een directe slag toegebracht aan
+      de productieve kern van zijn belangrijkste economische partner en potentiële concurrent.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly
+    one_sentence_summary: De oorlog in Oekraïne heeft Europa fundamenteel veranderd
+      door een structurele schok te veroorzaken in het energiesysteem, de industrie,
+      de monetaire stabiliteit en de politieke autonomie, waarbij de Amerikaanse strategie
+      gericht was op het hervormen van de Europese orde in plaats van alleen de verdediging
+      van Oekraïne.
+    paragraph_summary: The article by Elijah J. Magnier, translated by Francis J.A.,
+      discusses the profound impact of the Ukraine war on Europe, marking it as a transformative
+      event since the Cold War. Initially a regional conflict, it has evolved into a
+      significant shock to Europe's energy system, industrial base, monetary stability,
+      and political autonomy. The U.S. strategy, rather than solely defending Ukraine,
+      aims to reshape the European order, with energy being a key focus. For three decades,
+      Europe relied on cheap Russian gas to bolster its industrial competitiveness,
+      which underpinned the economic prosperity of countries like Germany and Central
+      Europe. By severing Europe’s access to Russian energy, the U.S. not only weakened
+      Moscow but also struck at the heart of its main economic partner and potential
+      competitor.
+    published: '2026-01-22T04:27:16+00:00'
+  - title: 'Hoe Oekraïne en Groenland de trans-Atlantische orde opnieuw hebben gedefinieerd:
+      Amerika heeft geen bondgenoten, maar alleen gelegenheidspartners'
+    url: https://ejmagnier.com/2026/01/22/hoe-oekraine-en-groenland-de-trans-atlantische-orde-opnieuw-hebben-gedefinieerd-amerika-heeft-geen-bondgenoten-maar-alleen-gelegenheidspartners/
+    text: Geschreven door Elijah J. Magnier – Vertaald door Francis J.A Vanuit historisch
+      oogpunt heeft de oorlog in Oekraïne Europa ingrijpender veranderd dan welke crisis
+      ook sinds het einde van de Koude Oorlog. Wat begon als een regionaal conflict
+      aan de oostflank van het continent, is uitgegroeid tot een structurele schok voor
+      het Europese energiesysteem, de industriële basis, de monetaire stabiliteit en
+      de politieke autonomie van Europa. Achter deze transformatie schuilt een strategische
+      logica die, vanuit het perspectief van Washington, opmerkelijk coherent is geweest.
+      De Amerikaanse strategie was niet in de eerste plaats gericht op de verdediging
+      van Oekraïne. Ze was gericht op het hervormen van de Europese orde. De eerste
+      pijler van die strategie was energie. Dertig jaar lang heeft Europa zijn industriële
+      concurrentievermogen opgebouwd op basis van toegang tot overvloedig en goedkoop
+      Russisch gas. Deze energie was niet alleen een handelswaar. Het was de basis van
+      het exportmodel van Duitsland, van het productie-ecosysteem van Centraal-Europa
+      en van de chemische, staal-, kunstmest- en auto-industrieën die de Europese welvaart
+      verankerden. Door Europa af te snijden van Russische energie, heeft de Verenigde
+      Staten niet alleen Moskou verzwakt. Het heeft een directe slag toegebracht aan
+      de productieve kern van zijn belangrijkste economische partner en potentiële concurrent.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly
+    one_sentence_summary: De oorlog in Oekraïne heeft Europa fundamenteel veranderd
+      door een structurele schok te veroorzaken in het energiesysteem, de industrie,
+      de monetaire stabiliteit en de politieke autonomie, waarbij de Amerikaanse strategie
+      gericht was op het hervormen van de Europese orde in plaats van alleen de verdediging
+      van Oekraïne.
+    paragraph_summary: The article by Elijah J. Magnier, translated by Francis J.A.,
+      discusses the profound impact of the Ukraine war on Europe, marking it as a transformative
+      event since the Cold War. Initially a regional conflict, it has evolved into a
+      significant shock to Europe's energy system, industrial base, monetary stability,
+      and political autonomy. The U.S. strategy, rather than solely defending Ukraine,
+      aims to reshape the European order, with energy being a key focus. For three decades,
+      Europe relied on cheap Russian gas to bolster its industrial competitiveness,
+      which underpinned the economic prosperity of countries like Germany and Central
+      Europe. By severing Europe’s access to Russian energy, the U.S. not only weakened
+      Moscow but also struck at the heart of its main economic partner and potential
+      competitor.
+    published: '2026-01-22T04:27:16+00:00'
+  - title: 'How Ukraine and Greenland Redefined the Transatlantic Order: America has
+      no allies but partners of convenience'
+    url: https://ejmagnier.com/2026/01/21/how-ukraine-and-greenland-redefined-the-transatlantic-order-america-has-no-allies-but-partners-of-convenience/
+    text: By Elijah J. Magnier – By any historical measure, the war in Ukraine has transformed
+      Europe more profoundly than any crisis since the end of the Cold War. What began
+      as a regional conflict on the eastern flank of the continent has evolved into
+      a structural shock to Europe’s energy system, its industrial base, its monetary
+      stability, and its political autonomy. Behind this transformation lies a strategic
+      logic that, from Washington’s perspective, has been remarkably coherent. The American
+      strategy did not aim primarily at defending Ukraine. It aimed at reshaping the
+      European order. The first pillar of that strategy was energy. For three decades,
+      Europe built its industrial competitiveness on access to abundant and inexpensive
+      Russian gas. This energy was not merely a commodity. It was the foundation of
+      Germany’s export model, of Central Europe’s manufacturing ecosystem, and of the
+      chemical, steel, fertiliser and automotive industries that anchored European prosperity.
+      By cutting Europe off from Russian energy, the United States did not simply weaken
+      Moscow. It struck directly at the productive core of its principal economic partner
+      and potential competitor. Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly
+    one_sentence_summary: The war in Ukraine has significantly reshaped Europe by disrupting
+      its energy system and industrial base, driven by a U.S. strategy aimed at transforming
+      the European order rather than solely defending Ukraine.
+    paragraph_summary: The war in Ukraine has significantly reshaped Europe, marking
+      the most profound transformation since the Cold War by impacting its energy system,
+      industrial base, monetary stability, and political autonomy. Initially a regional
+      conflict, it has become a strategic maneuver by the United States aimed at restructuring
+      the European order rather than solely defending Ukraine. A key aspect of this
+      strategy involved severing Europe's access to Russian gas, which had been crucial
+      for the continent's industrial competitiveness and economic prosperity, particularly
+      for Germany and Central Europe's manufacturing sectors. This move not only weakened
+      Russia but also targeted the economic foundation of its main partner and competitor
+      in Europe.
+    published: '2026-01-21T17:26:11+00:00'
+  - title: 'How Ukraine and Greenland Redefined the Transatlantic Order: America has
+      no allies but partners of convenience'
+    url: https://ejmagnier.com/2026/01/21/how-ukraine-and-greenland-redefined-the-transatlantic-order-america-has-no-allies-but-partners-of-convenience/
+    text: By Elijah J. Magnier – By any historical measure, the war in Ukraine has transformed
+      Europe more profoundly than any crisis since the end of the Cold War. What began
+      as a regional conflict on the eastern flank of the continent has evolved into
+      a structural shock to Europe’s energy system, its industrial base, its monetary
+      stability, and its political autonomy. Behind this transformation lies a strategic
+      logic that, from Washington’s perspective, has been remarkably coherent. The American
+      strategy did not aim primarily at defending Ukraine. It aimed at reshaping the
+      European order. The first pillar of that strategy was energy. For three decades,
+      Europe built its industrial competitiveness on access to abundant and inexpensive
+      Russian gas. This energy was not merely a commodity. It was the foundation of
+      Germany’s export model, of Central Europe’s manufacturing ecosystem, and of the
+      chemical, steel, fertiliser and automotive industries that anchored European prosperity.
+      By cutting Europe off from Russian energy, the United States did not simply weaken
+      Moscow. It struck directly at the productive core of its principal economic partner
+      and potential competitor. Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly
+    one_sentence_summary: The war in Ukraine has significantly reshaped Europe by disrupting
+      its energy system and industrial base, driven by a U.S. strategy aimed at transforming
+      the European order rather than solely defending Ukraine.
+    paragraph_summary: The war in Ukraine has significantly reshaped Europe, marking
+      the most profound transformation since the Cold War by impacting its energy system,
+      industrial base, monetary stability, and political autonomy. Initially a regional
+      conflict, it has become a strategic maneuver by the United States aimed at restructuring
+      the European order rather than solely defending Ukraine. A key aspect of this
+      strategy involved severing Europe's access to Russian gas, which had been crucial
+      for the continent's industrial competitiveness and economic prosperity, particularly
+      for Germany and Central Europe's manufacturing sectors. This move not only weakened
+      Russia but also targeted the economic foundation of its main partner and competitor
+      in Europe.
+    published: '2026-01-21T17:26:11+00:00'
+  - title: 'Comment l’Ukraine et le Groenland ont redéfini l’ordre transatlantique :
+      l’Amérique n’a pas d’alliés, seulement des partenaires de circonstance'
+    url: https://ejmagnier.com/2026/01/21/comment-lukraine-et-le-groenland-ont-redefini-lordre-transatlantique-lamerique-na-pas-dallies-seulement-des-partenaires-de-circonstance/
+    text: Par Elijah J. Magnier – À toute aune historique, la guerre en Ukraine a transformé
+      l’Europe plus profondément que toute autre crise depuis la fin de la guerre froide.
+      Ce qui avait commencé comme un conflit régional sur le flanc oriental du continent
+      s’est mué en un choc structurel pour le système énergétique européen, sa base
+      industrielle, sa stabilité monétaire et son autonomie politique. Derrière cette
+      transformation se cache une logique stratégique qui, du point de vue de Washington,
+      a été remarquablement cohérente. La stratégie américaine ne visait pas principalement
+      à défendre l’Ukraine. Elle visait à remodeler l’ordre européen. Le premier pilier
+      de cette stratégie fut l’énergie. Pendant trois décennies, l’Europe a bâti sa
+      compétitivité industrielle sur l’accès à un gaz russe abondant et bon marché.
+      Cette énergie n’était pas une simple marchandise. Elle constituait le fondement
+      du modèle exportateur allemand, de l’écosystème manufacturier de l’Europe centrale,
+      ainsi que des industries chimique, sidérurgique, des engrais et de l’automobile
+      qui ont ancré la prospérité européenne. En coupant l’Europe de l’énergie russe,
+      les États-Unis n’ont pas seulement affaibli Moscou. Ils ont frappé directement
+      le cœur productif de leur principal partenaire économique et concurrent potentiel.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly
+    one_sentence_summary: L'article d'Elijah J. Magnier souligne que la guerre en Ukraine
+      a profondément transformé l'Europe en provoquant un choc structurel sur son système
+      énergétique, sa base industrielle et sa stabilité politique, tout en révélant
+      une stratégie américaine visant à remodeler l'ordre européen plutôt qu'à défendre
+      l'Ukraine.
+    paragraph_summary: L'article d'Elijah J. Magnier souligne que la guerre en Ukraine
+      a eu un impact profond sur l'Europe, transformant le continent plus que toute
+      autre crise depuis la fin de la guerre froide. Ce conflit, initialement régional,
+      a engendré des changements structurels dans le système énergétique, l'industrie,
+      la stabilité monétaire et l'autonomie politique de l'Europe. La stratégie américaine,
+      selon l'auteur, n'était pas seulement de défendre l'Ukraine, mais de remodeler
+      l'ordre européen, notamment en coupant l'accès de l'Europe à l'énergie russe,
+      qui était essentielle à sa compétitivité industrielle. Cette manœuvre a non seulement
+      affaibli la Russie, mais a également touché le cœur économique de l'Europe, en
+      affectant des secteurs clés comme l'industrie manufacturière et chimique.
+    published: '2026-01-21T17:24:41+00:00'
+  - title: 'Comment l’Ukraine et le Groenland ont redéfini l’ordre transatlantique :
+      l’Amérique n’a pas d’alliés, seulement des partenaires de circonstance'
+    url: https://ejmagnier.com/2026/01/21/comment-lukraine-et-le-groenland-ont-redefini-lordre-transatlantique-lamerique-na-pas-dallies-seulement-des-partenaires-de-circonstance/
+    text: Par Elijah J. Magnier – À toute aune historique, la guerre en Ukraine a transformé
+      l’Europe plus profondément que toute autre crise depuis la fin de la guerre froide.
+      Ce qui avait commencé comme un conflit régional sur le flanc oriental du continent
+      s’est mué en un choc structurel pour le système énergétique européen, sa base
+      industrielle, sa stabilité monétaire et son autonomie politique. Derrière cette
+      transformation se cache une logique stratégique qui, du point de vue de Washington,
+      a été remarquablement cohérente. La stratégie américaine ne visait pas principalement
+      à défendre l’Ukraine. Elle visait à remodeler l’ordre européen. Le premier pilier
+      de cette stratégie fut l’énergie. Pendant trois décennies, l’Europe a bâti sa
+      compétitivité industrielle sur l’accès à un gaz russe abondant et bon marché.
+      Cette énergie n’était pas une simple marchandise. Elle constituait le fondement
+      du modèle exportateur allemand, de l’écosystème manufacturier de l’Europe centrale,
+      ainsi que des industries chimique, sidérurgique, des engrais et de l’automobile
+      qui ont ancré la prospérité européenne. En coupant l’Europe de l’énergie russe,
+      les États-Unis n’ont pas seulement affaibli Moscou. Ils ont frappé directement
+      le cœur productif de leur principal partenaire économique et concurrent potentiel.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly
+    one_sentence_summary: L'article d'Elijah J. Magnier souligne que la guerre en Ukraine
+      a profondément transformé l'Europe en provoquant un choc structurel sur son système
+      énergétique, sa base industrielle et sa stabilité politique, tout en révélant
+      une stratégie américaine visant à remodeler l'ordre européen plutôt qu'à défendre
+      l'Ukraine.
+    paragraph_summary: L'article d'Elijah J. Magnier souligne que la guerre en Ukraine
+      a eu un impact profond sur l'Europe, transformant le continent plus que toute
+      autre crise depuis la fin de la guerre froide. Ce conflit, initialement régional,
+      a engendré des changements structurels dans le système énergétique, l'industrie,
+      la stabilité monétaire et l'autonomie politique de l'Europe. La stratégie américaine,
+      selon l'auteur, n'était pas seulement de défendre l'Ukraine, mais de remodeler
+      l'ordre européen, notamment en coupant l'accès de l'Europe à l'énergie russe,
+      qui était essentielle à sa compétitivité industrielle. Cette manœuvre a non seulement
+      affaibli la Russie, mais a également touché le cœur économique de l'Europe, en
+      affectant des secteurs clés comme l'industrie manufacturière et chimique.
+    published: '2026-01-21T17:24:41+00:00'
+  - title: 'Wie die Ukraine und Grönland die transatlantische Ordnung neu definiert
+      haben: Amerika hat keine Verbündeten, sondern nur Zweckpartner'
+    url: https://ejmagnier.com/2026/01/21/wie-die-ukraine-und-gronland-die-transatlantische-ordnung-neu-definiert-haben-amerika-hat-keine-verbundeten-sondern-nur-zweckpartner/
+    text: Von Elijah J. Magnier – Aus historischer Sicht hat der Krieg in der Ukraine
+      Europa tiefgreifender verändert als jede andere Krise seit dem Ende des Kalten
+      Krieges. Was als regionaler Konflikt an der Ostflanke des Kontinents begann, hat
+      sich zu einem strukturellen Schock für das Energiesystem Europas, seine industrielle
+      Basis, seine Währungsstabilität und seine politische Autonomie entwickelt. Hinter
+      dieser Transformation steht eine strategische Logik, die aus Sicht Washingtons
+      bemerkenswert kohärent ist. Die amerikanische Strategie zielte nicht in erster
+      Linie auf die Verteidigung der Ukraine ab. Sie zielte darauf ab, die europäische
+      Ordnung neu zu gestalten. Die erste Säule dieser Strategie war die Energie. Drei
+      Jahrzehnte lang baute Europa seine industrielle Wettbewerbsfähigkeit auf dem Zugang
+      zu reichlich vorhandenem und kostengünstigem russischem Gas auf. Diese Energie
+      war nicht nur eine Ware. Sie war die Grundlage des deutschen Exportmodells, des
+      Fertigungsökosystems Mitteleuropas und der Chemie-, Stahl-, Düngemittel- und Automobilindustrie,
+      die den Wohlstand Europas sicherten. Indem die Vereinigten Staaten Europa von
+      russischer Energie abschnitten, schwächten sie nicht nur Moskau. Sie trafen direkt
+      den produktiven Kern ihres wichtigsten Wirtschaftspartners und potenziellen Konkurrenten.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly
+    one_sentence_summary: Der Krieg in der Ukraine hat Europa tiefgreifend verändert,
+      indem er nicht nur als regionaler Konflikt begann, sondern auch zu einem strukturellen
+      Schock für das Energiesystem, die industrielle Basis, die Währungsstabilität und
+      die politische Autonomie des Kontinents führte, während die amerikanische Strategie
+      darauf abzielte, die europäische Ordnung neu zu gestalten, insbesondere durch
+      die Kontrolle über Energiequellen.
+    paragraph_summary: Elijah J. Magnier argues that the war in Ukraine has profoundly
+      transformed Europe more than any other crisis since the Cold War, evolving from
+      a regional conflict into a structural shock affecting Europe's energy system,
+      industrial base, currency stability, and political autonomy. This transformation
+      aligns with a coherent strategic logic from Washington, which aimed not just to
+      defend Ukraine but to reshape the European order. Central to this strategy was
+      energy; for three decades, Europe relied on affordable Russian gas to bolster
+      its industrial competitiveness, particularly in key sectors like manufacturing
+      and chemicals. By cutting off Europe from Russian energy, the United States not
+      only weakened Moscow but also directly impacted the productive core of its main
+      economic partner and potential competitor.
+    published: '2026-01-21T17:23:49+00:00'
+  - title: 'Wie die Ukraine und Grönland die transatlantische Ordnung neu definiert
+      haben: Amerika hat keine Verbündeten, sondern nur Zweckpartner'
+    url: https://ejmagnier.com/2026/01/21/wie-die-ukraine-und-gronland-die-transatlantische-ordnung-neu-definiert-haben-amerika-hat-keine-verbundeten-sondern-nur-zweckpartner/
+    text: Von Elijah J. Magnier – Aus historischer Sicht hat der Krieg in der Ukraine
+      Europa tiefgreifender verändert als jede andere Krise seit dem Ende des Kalten
+      Krieges. Was als regionaler Konflikt an der Ostflanke des Kontinents begann, hat
+      sich zu einem strukturellen Schock für das Energiesystem Europas, seine industrielle
+      Basis, seine Währungsstabilität und seine politische Autonomie entwickelt. Hinter
+      dieser Transformation steht eine strategische Logik, die aus Sicht Washingtons
+      bemerkenswert kohärent ist. Die amerikanische Strategie zielte nicht in erster
+      Linie auf die Verteidigung der Ukraine ab. Sie zielte darauf ab, die europäische
+      Ordnung neu zu gestalten. Die erste Säule dieser Strategie war die Energie. Drei
+      Jahrzehnte lang baute Europa seine industrielle Wettbewerbsfähigkeit auf dem Zugang
+      zu reichlich vorhandenem und kostengünstigem russischem Gas auf. Diese Energie
+      war nicht nur eine Ware. Sie war die Grundlage des deutschen Exportmodells, des
+      Fertigungsökosystems Mitteleuropas und der Chemie-, Stahl-, Düngemittel- und Automobilindustrie,
+      die den Wohlstand Europas sicherten. Indem die Vereinigten Staaten Europa von
+      russischer Energie abschnitten, schwächten sie nicht nur Moskau. Sie trafen direkt
+      den produktiven Kern ihres wichtigsten Wirtschaftspartners und potenziellen Konkurrenten.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly
+    one_sentence_summary: Der Krieg in der Ukraine hat Europa tiefgreifend verändert,
+      indem er nicht nur als regionaler Konflikt begann, sondern auch zu einem strukturellen
+      Schock für das Energiesystem, die industrielle Basis, die Währungsstabilität und
+      die politische Autonomie des Kontinents führte, während die amerikanische Strategie
+      darauf abzielte, die europäische Ordnung neu zu gestalten, insbesondere durch
+      die Kontrolle über Energiequellen.
+    paragraph_summary: Elijah J. Magnier argues that the war in Ukraine has profoundly
+      transformed Europe more than any other crisis since the Cold War, evolving from
+      a regional conflict into a structural shock affecting Europe's energy system,
+      industrial base, currency stability, and political autonomy. This transformation
+      aligns with a coherent strategic logic from Washington, which aimed not just to
+      defend Ukraine but to reshape the European order. Central to this strategy was
+      energy; for three decades, Europe relied on affordable Russian gas to bolster
+      its industrial competitiveness, particularly in key sectors like manufacturing
+      and chemicals. By cutting off Europe from Russian energy, the United States not
+      only weakened Moscow but also directly impacted the productive core of its main
+      economic partner and potential competitor.
+    published: '2026-01-21T17:23:49+00:00'
   - title: 'Gaza Held Hostage: Netanyahu, Washington, and the Battle Over Gaza’s Future'
     url: https://ejmagnier.com/2026/01/20/gaza-held-hostage-netanyahu-washington-and-the-battle-over-gazas-future/
     text: By Elijah J. Magnier – Trump’s announcement of a transition to the second

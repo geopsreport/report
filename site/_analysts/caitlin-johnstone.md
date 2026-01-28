@@ -7,14 +7,1126 @@ description: "Australian satirical anti–war journalist; reader–funded Substa
 websites:
   - https://www.caitlinjohnst.one/
 summary: |
-  The geopolitical landscape remains tense as public sentiment and institutional actions continue to shape the discourse around ongoing conflicts and government accountability. In the wake of Israel’s military campaign in Gaza, **Caitlin Johnstone** observes a marked shift in global attitudes, noting that “societal and governmental denial of the severity of Israel's actions in Gaza has led to widespread animosity towards Israel.” This backlash, she argues, could have been mitigated by a more honest acknowledgment from Western institutions, but instead, the refusal to confront the reality has made the issue deeply personal for many.
+  As the global geopolitical landscape continues to be shaped by entrenched power structures and contested narratives, recent independent analysis has focused on the manipulation of public discourse, the suppression of dissent, and the underlying motivations of those in positions of authority.
   
-  Meanwhile, the intersection of militarism and public agency is under scrutiny. **Tim Foley** highlights the paradoxical situation in which citizens are unable to vote against wars, yet are permitted to gamble on their outbreak. He describes this as a “disturbing reality,” reflecting a broader disenfranchisement from meaningful participation in foreign policy decisions, and suggesting that the machinery of war is increasingly insulated from democratic oversight.
+  A key development highlighted in the latest reports is the growing critique of misleading narratives surrounding foreign conflicts, capitalism, and environmental issues. **Caitlin Johnstone** argues that these narratives are not only oversimplified but deliberately constructed to obscure the realities of power and perpetuate the status quo. She notes, "The lies get so tedious," emphasizing the fatigue and skepticism now widespread among the public as official stories increasingly diverge from observable facts.
   
-  On the domestic front, the implications of new hate speech legislation in Australia are drawing concern. A recent incident involving the prosecution of a mentally disabled woman for an accidental phone call has, according to **Caitlin Johnstone**, “raised concerns about the implications of new hate speech legislation that could further escalate such situations.” This case is being cited as emblematic of a broader trend toward overreach and the potential erosion of civil liberties under the guise of combating hate speech.
+  In Australia, the debate over free speech and protest rights has intensified. The lack of constitutional speech protections is being leveraged by political leaders to justify restrictive measures. **Johnstone** specifically criticizes New South Wales Premier Chris Minns for using this legal gap to suppress dissent, particularly protests against alleged genocide. She warns that such actions set a dangerous precedent, stating, "We should be more hostile to speech regulation, not less," reflecting a growing concern that these policies could be weaponized against any form of political opposition.
   
-  Looking ahead, the prevailing trend is one of growing public skepticism toward official narratives and a deepening mistrust of institutions, particularly in the context of war and civil rights. There is a high chance that, unless governments adopt greater transparency and accountability, public backlash and polarization will intensify. Most definitely, the ongoing denial and obfuscation by Western institutions regarding contentious foreign policy issues will continue to fuel animosity and drive demands for systemic change.
+  On a broader level, the analysis delves into the psychology of those who seek power and wealth. **Johnstone** contends that individuals driven to rule or amass vast fortunes are often motivated by unhealthy impulses, rather than genuine public service or wisdom. She contrasts this with the efforts of compassionate actors who work to dismantle oppressive systems, suggesting that the concentration of power remains a central obstacle to meaningful change.
+  
+  Looking forward, the prevailing trend is a deepening mistrust of official narratives and a heightened awareness of the mechanisms used to control public opinion and suppress dissent. It is quite likely—with high confidence—that these tensions will continue to escalate, especially as governments respond to criticism with further regulatory crackdowns. The pushback against speech regulation in Australia is expected to intensify, and skepticism toward elite-driven narratives will most definitely persist, fueling further demands for transparency and accountability in both domestic and international affairs.
 articles:
+  - title: The Lies Get So Tedious
+    url: https://www.caitlinjohnst.one/p/the-lies-get-so-tedious
+    text: 'Reading by Tim Foley : Subscribe now The lies get so tedious. The Iranians
+      want their country to be bombed. Hamas beheaded 40 babies. Pro-Palestine demonstrations
+      caused the Bondi massacre. There’s a terrorist base under every hospital. The
+      news media are reporting objective facts about the world. You live in a democracy
+      where the votes of the people influence the actions of your government. We’re
+      the Good Guys in every foreign conflict. The US makes mistakes from time to time,
+      but they’re acting with good intentions and we’re better off with them in charge
+      of the world. Rich people are rich because they’re smarter and work harder than
+      everyone else. Capitalism is more or less working out fine for everyone. The world
+      works pretty much the way you were taught in school. Profit-driven technological
+      innovation and industry is going to rescue us from the ecological consequences
+      of profit-driven technological innovation and industry. It doesn’t matter that
+      we’re destroying our biosphere because we’re about to set out for the stars and
+      colonize space any minute now. All the problems in your country are the fault
+      of the other mainstream political faction, and you can fix those problems by focusing
+      all your anger on the people in the other faction. Now is not the time for revolutionary
+      politics. You can’t just let people say whatever they want to say about their
+      government and its allies. Success looks like making a lot of money and owning
+      a lot of possessions and earning the respect of the largest and most influential
+      institutions in our society. If you are unable or unwilling to make a lot of money
+      and obtain a lot of possessions, you are bad and you should feel bad about yourself.
+      You should derive your sense of self-worth from how effective you are at turning
+      the gears of industry and giving the system exactly what it wants from you. This
+      is all normal. All this suffering, death, destruction, war, chaos, exploitation,
+      injustice, poverty and abuse is normal. People who want to change things are abnormal,
+      and should be viewed with suspicion. Tedious. It’s just lies, lies, lies, all
+      the way down. We live in a civilization that was built on lies, is made of lies,
+      and is sustained by lies. As soon as the lies stop, the whole thing comes tumbling
+      down. They begin teaching us the lies as soon as we are old enough to learn them,
+      and they never stop educating the lies into our brains until we are dead. It’s
+      no wonder we’re getting more and more miserable, dysfunctional and crazy. Mental
+      sovereignty under the empire of lies means purging all the malignant indoctrination
+      from every level of your cognition and perception until you are able to think
+      freely and perceive the world with clear eyes. It’s a long, difficult process,
+      but it’s necessary if you want to form a truth-based relationship with reality
+      and learn to see things as they actually are. _______________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article critiques various pervasive narratives and beliefs,
+      arguing that they are misleading and oversimplified, particularly regarding foreign
+      conflicts, capitalism, and environmental issues.
+    paragraph_summary: In his article, Tim Foley critiques a series of pervasive societal
+      narratives that he argues are misleading and harmful. He highlights the absurdity
+      of claims such as Iranians desiring bombings, exaggerated atrocities attributed
+      to Hamas, and the notion that capitalism is beneficial for everyone. Foley challenges
+      the idea that the media provides objective truths and that democracy genuinely
+      reflects the people's will, suggesting instead that these beliefs serve to uphold
+      a status quo that prioritizes wealth and power. He contends that societal success
+      is measured by material wealth and conformity to institutional expectations, while
+      dismissing revolutionary politics and promoting a false sense of normalcy regarding
+      suffering and injustice. Ultimately, Foley calls attention to the need for critical
+      examination of these narratives to foster a more just and equitable society.
+    published: '2026-01-27T11:44:10+00:00'
+  - title: The Lies Get So Tedious
+    url: https://www.caitlinjohnst.one/p/the-lies-get-so-tedious
+    text: 'Reading by Tim Foley : Subscribe now The lies get so tedious. The Iranians
+      want their country to be bombed. Hamas beheaded 40 babies. Pro-Palestine demonstrations
+      caused the Bondi massacre. There’s a terrorist base under every hospital. The
+      news media are reporting objective facts about the world. You live in a democracy
+      where the votes of the people influence the actions of your government. We’re
+      the Good Guys in every foreign conflict. The US makes mistakes from time to time,
+      but they’re acting with good intentions and we’re better off with them in charge
+      of the world. Rich people are rich because they’re smarter and work harder than
+      everyone else. Capitalism is more or less working out fine for everyone. The world
+      works pretty much the way you were taught in school. Profit-driven technological
+      innovation and industry is going to rescue us from the ecological consequences
+      of profit-driven technological innovation and industry. It doesn’t matter that
+      we’re destroying our biosphere because we’re about to set out for the stars and
+      colonize space any minute now. All the problems in your country are the fault
+      of the other mainstream political faction, and you can fix those problems by focusing
+      all your anger on the people in the other faction. Now is not the time for revolutionary
+      politics. You can’t just let people say whatever they want to say about their
+      government and its allies. Success looks like making a lot of money and owning
+      a lot of possessions and earning the respect of the largest and most influential
+      institutions in our society. If you are unable or unwilling to make a lot of money
+      and obtain a lot of possessions, you are bad and you should feel bad about yourself.
+      You should derive your sense of self-worth from how effective you are at turning
+      the gears of industry and giving the system exactly what it wants from you. This
+      is all normal. All this suffering, death, destruction, war, chaos, exploitation,
+      injustice, poverty and abuse is normal. People who want to change things are abnormal,
+      and should be viewed with suspicion. Tedious. It’s just lies, lies, lies, all
+      the way down. We live in a civilization that was built on lies, is made of lies,
+      and is sustained by lies. As soon as the lies stop, the whole thing comes tumbling
+      down. They begin teaching us the lies as soon as we are old enough to learn them,
+      and they never stop educating the lies into our brains until we are dead. It’s
+      no wonder we’re getting more and more miserable, dysfunctional and crazy. Mental
+      sovereignty under the empire of lies means purging all the malignant indoctrination
+      from every level of your cognition and perception until you are able to think
+      freely and perceive the world with clear eyes. It’s a long, difficult process,
+      but it’s necessary if you want to form a truth-based relationship with reality
+      and learn to see things as they actually are. _______________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article critiques various pervasive narratives and beliefs,
+      arguing that they are misleading and oversimplified, particularly regarding foreign
+      conflicts, capitalism, and environmental issues.
+    paragraph_summary: In his article, Tim Foley critiques a series of pervasive societal
+      narratives that he argues are misleading and harmful. He highlights the absurdity
+      of claims such as Iranians desiring bombings, exaggerated atrocities attributed
+      to Hamas, and the notion that capitalism is beneficial for everyone. Foley challenges
+      the idea that the media provides objective truths and that democracy genuinely
+      reflects the people's will, suggesting instead that these beliefs serve to uphold
+      a status quo that prioritizes wealth and power. He contends that societal success
+      is measured by material wealth and conformity to institutional expectations, while
+      dismissing revolutionary politics and promoting a false sense of normalcy regarding
+      suffering and injustice. Ultimately, Foley calls attention to the need for critical
+      examination of these narratives to foster a more just and equitable society.
+    published: '2026-01-27T11:44:10+00:00'
+  - title: No Healthy Person Wants To Rule The World Or Become A Billionaire
+    url: https://www.caitlinjohnst.one/p/no-healthy-person-wants-to-rule-the
+    text: 'Reading by Tim Foley : Subscribe now No mentally healthy person wants to
+      rule the world. Nobody with a functioning conscience and a working empathy center
+      in their brain is interested in becoming a billionaire. We are ruled by the most
+      dysfunctional members of our species. The most wounded, neurotic and sociopathic
+      among us. The least wise, caring and insightful. What drives a person to claw
+      their way to the top of a wildly sick society and become a lord of the dystopia?
+      What compels someone to amass obscene amounts of wealth in a world where so many
+      have far too little? What causes someone to ascend to political leadership of
+      a power structure that’s built for the purpose of robbing and oppressing the most
+      underprivileged populations on earth? Nothing wholesome, to be sure. That impulse
+      is never coming from anywhere good. The worst among us are striving to prevail
+      in this dystopia by riding the tides of its ugliest inclinations, while the best
+      among us are striving to dismantle the dystopia and replace it with something
+      kind and equitable. This causes the worst of us to be elevated to the top and
+      the best of us to be smacked down to the bottom. Under our current system the
+      easiest way to set yourself on a trajectory from millionaire to billionaire to
+      trillionaire is to exploit workers, crush your competition, plunder the available
+      resources of the global south, externalize the costs of industry onto society
+      and the ecosystem, bribe the government to advance your corporate interests via
+      lobbying and campaign donations, contract with the most murderous military and
+      intelligence agencies in the world, and psychologically manipulate the public
+      into consuming products and services they don’t need. Who is going to be most
+      successful in this endeavor? The very worst people alive. People whose hearts
+      and minds are so stunted and dysfunctional that they see other human beings as
+      tools for their own personal enrichment, to be used up and discarded like juice
+      boxes or condoms. These are the people who are touching the most lives on this
+      planet. These are the people whose decisions affect the most of us. Michael Parenti
+      has passed away after a luminous life advancing powerful ideas and insights about
+      the abusive dynamics of human civilization and how best to address them. He did
+      not die a wealthy man. The mainstream papers did not report on his departure from
+      our world. Only a relatively small percentage of the population is aware he ever
+      lived. But everyone knows who Elon Musk is. Everyone knows who Jeff Bezos is.
+      Who Bill Gates is. The best of us live and die in relative obscurity, generally
+      being subjected to scorn and derision from the ruling establishment the entire
+      time. The worst of us become plutocratic demigods. It’s an uphill battle. You
+      spend your life swimming against the current of dystopia, and you are not handsomely
+      rewarded for your efforts. You’ll get deplatformed, censored and smeared. You
+      might even get shot by government agents for standing up for the disempowered.
+      And you’ll definitely never be a billionaire. But it’s absolutely worth it, and
+      you should do it. Fighting for truth and justice in a civilization made of injustice
+      and deceit is the only way to live. It’s the only way to feel satisfied with your
+      efforts during this life. The only way to be sure that when you are on your deathbed
+      you can look back and know you spent your time here in a right and admirable way.
+      It costs a lot to fight for a healthy world. But it costs a lot more not to. _______________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Gage Skidmore (CC BY-SA 4.0)'
+    one_sentence_summary: The article argues that those who seek power and wealth in
+      a dysfunctional society are often the most troubled individuals, driven by unhealthy
+      impulses, while the truly compassionate and wise individuals work to dismantle
+      the oppressive systems in place.
+    paragraph_summary: In Tim Foley's article, he argues that the individuals who rise
+      to power and accumulate vast wealth in society are often the most dysfunctional
+      and morally compromised, driven by a lack of empathy and conscience. He questions
+      the motivations behind their success in a system that rewards exploitation and
+      oppression, suggesting that those who seek to dominate are typically the least
+      wise and caring. Foley contrasts these "worst among us" with those striving to
+      create a more equitable and compassionate world, highlighting a societal dynamic
+      where the morally bankrupt ascend while the virtuous are marginalized. He asserts
+      that the current system incentivizes harmful behaviors, leading to a concentration
+      of power and wealth in the hands of those who view others merely as means to their
+      own ends.
+    published: '2026-01-26T01:15:34+00:00'
+  - title: No Healthy Person Wants To Rule The World Or Become A Billionaire
+    url: https://www.caitlinjohnst.one/p/no-healthy-person-wants-to-rule-the
+    text: 'Reading by Tim Foley : Subscribe now No mentally healthy person wants to
+      rule the world. Nobody with a functioning conscience and a working empathy center
+      in their brain is interested in becoming a billionaire. We are ruled by the most
+      dysfunctional members of our species. The most wounded, neurotic and sociopathic
+      among us. The least wise, caring and insightful. What drives a person to claw
+      their way to the top of a wildly sick society and become a lord of the dystopia?
+      What compels someone to amass obscene amounts of wealth in a world where so many
+      have far too little? What causes someone to ascend to political leadership of
+      a power structure that’s built for the purpose of robbing and oppressing the most
+      underprivileged populations on earth? Nothing wholesome, to be sure. That impulse
+      is never coming from anywhere good. The worst among us are striving to prevail
+      in this dystopia by riding the tides of its ugliest inclinations, while the best
+      among us are striving to dismantle the dystopia and replace it with something
+      kind and equitable. This causes the worst of us to be elevated to the top and
+      the best of us to be smacked down to the bottom. Under our current system the
+      easiest way to set yourself on a trajectory from millionaire to billionaire to
+      trillionaire is to exploit workers, crush your competition, plunder the available
+      resources of the global south, externalize the costs of industry onto society
+      and the ecosystem, bribe the government to advance your corporate interests via
+      lobbying and campaign donations, contract with the most murderous military and
+      intelligence agencies in the world, and psychologically manipulate the public
+      into consuming products and services they don’t need. Who is going to be most
+      successful in this endeavor? The very worst people alive. People whose hearts
+      and minds are so stunted and dysfunctional that they see other human beings as
+      tools for their own personal enrichment, to be used up and discarded like juice
+      boxes or condoms. These are the people who are touching the most lives on this
+      planet. These are the people whose decisions affect the most of us. Michael Parenti
+      has passed away after a luminous life advancing powerful ideas and insights about
+      the abusive dynamics of human civilization and how best to address them. He did
+      not die a wealthy man. The mainstream papers did not report on his departure from
+      our world. Only a relatively small percentage of the population is aware he ever
+      lived. But everyone knows who Elon Musk is. Everyone knows who Jeff Bezos is.
+      Who Bill Gates is. The best of us live and die in relative obscurity, generally
+      being subjected to scorn and derision from the ruling establishment the entire
+      time. The worst of us become plutocratic demigods. It’s an uphill battle. You
+      spend your life swimming against the current of dystopia, and you are not handsomely
+      rewarded for your efforts. You’ll get deplatformed, censored and smeared. You
+      might even get shot by government agents for standing up for the disempowered.
+      And you’ll definitely never be a billionaire. But it’s absolutely worth it, and
+      you should do it. Fighting for truth and justice in a civilization made of injustice
+      and deceit is the only way to live. It’s the only way to feel satisfied with your
+      efforts during this life. The only way to be sure that when you are on your deathbed
+      you can look back and know you spent your time here in a right and admirable way.
+      It costs a lot to fight for a healthy world. But it costs a lot more not to. _______________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Gage Skidmore (CC BY-SA 4.0)'
+    one_sentence_summary: The article argues that those who seek power and wealth in
+      a dysfunctional society are often the most troubled individuals, driven by unhealthy
+      impulses, while the truly compassionate and wise individuals work to dismantle
+      the oppressive systems in place.
+    paragraph_summary: In Tim Foley's article, he argues that the individuals who rise
+      to power and accumulate vast wealth in society are often the most dysfunctional
+      and morally compromised, driven by a lack of empathy and conscience. He questions
+      the motivations behind their success in a system that rewards exploitation and
+      oppression, suggesting that those who seek to dominate are typically the least
+      wise and caring. Foley contrasts these "worst among us" with those striving to
+      create a more equitable and compassionate world, highlighting a societal dynamic
+      where the morally bankrupt ascend while the virtuous are marginalized. He asserts
+      that the current system incentivizes harmful behaviors, leading to a concentration
+      of power and wealth in the hands of those who view others merely as means to their
+      own ends.
+    published: '2026-01-26T01:15:34+00:00'
+  - title: Australia's Lack Of Speech Protections Means We Should Be MORE Hostile To
+      Speech Regulation
+    url: https://www.caitlinjohnst.one/p/australias-lack-of-speech-protections
+    text: 'Reading by Tim Foley : Subscribe now A normal, healthy person would look
+      at Australia’s lack of free speech protections and say “Hmm, Australian leaders
+      should be extremely resistant to new laws and policies which restrict speech then,
+      because it would be very easy for those restrictions to become abusive.” Australian
+      leaders look at our lack of free speech protections and say “See? This means we
+      get to take away your right to protest genocide!” Nowhere is this more clearly
+      exemplified than the repeated statements from New South Wales premier Chris Minns
+      saying it’s fine to silence Australians because we don’t have free speech rights.
+      Over and over again Minns has defended his promotion of authoritarian speech crackdowns
+      in his state by claiming it’s okay to stomp out dissident speech of Australians
+      because Australians don’t have the same speech protections as Americans, saying
+      “we don’t have the same free speech rules that they have in the United States
+      and I make no apologies for that” and similar statements in recent weeks. To be
+      clear, Minns is being repulsively tyrannical when he says this, but factually
+      speaking he isn’t wrong. As Joe Lauria wrote for Consortium News following the
+      passage of Australia’s frightening new “hate speech” bill: “Unlike the United
+      States, Australia has no Bill of Rights in its Constitution protecting freedom
+      of speech, assembly and other rights. Much as Israel would want it, a law such
+      as this adopted in Australia would still be difficult to pass in the U.S. on paper,
+      despite the Israel Lobby’s hold over the U.S. Congress.” If Australians had the
+      same speech protections that they have in the United States, we could appeal tyrannical
+      new laws on First Amendment grounds. Because we have no such protections, it is
+      much harder to oppose authoritarian speech restrictions once they are in place.
+      As I often remind readers, Australia is the only so-called democracy in the world
+      which has no national charter or bill of rights of any kind . A tremendous amount
+      of faith has been placed in state and federal legislators to simply do the right
+      thing, which has proved foolish and ineffective. Professor George Williams wrote
+      for the Melbourne University Law Review in 2006: “Australia is now the only democratic
+      nation in the world without a national bill of rights. Some comprehensive form
+      of legal protection for basic rights is otherwise seen as an essential check and
+      balance in democratic governance around the world. Indeed, I can find no example
+      of a democratic nation that has gained a new Constitution or legal system in recent
+      decades that has not included some form of a bill of rights, nor am I aware of
+      any such nation that has done away with a bill of rights once it has been put
+      in place.” It has been clearly and conclusively established that this system does
+      not work. State and federal governments are working frenetically to shred the
+      right of Australians to oppose the actions of the state of Israel, with their
+      assault on our civil rights disguised as an effort to fight “antisemitism” in
+      our country and help Jewish Australians feel more safe. The fact that this happens
+      to advance the information interests of the western power alliance, we are told,
+      is purely coincidental. The evidence is in and the case is closed. The Australian
+      system does not work. We need a national bill of rights, and we need free speech
+      to be enshrined in our constitution. In the meantime, we need to be aggressively
+      opposed to laws and policies which assault our freedom of speech. We need to be
+      more aggressive in our opposition than Americans would be, because we have fewer
+      safeguards against tyrannical abuses. It’s so disgusting how these freaks are
+      telling us right to our faces “Yeah well you guys don’t have any rights, so I’m
+      going to silence you and oppress you and I make no apologies about that.” That
+      kind of arrogant, abusive authoritarianism deserves nothing but ferocious defiance.
+      _______________ Caitlin’s Newsletter is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber. The
+      best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Phil Desveaux ( CC BY-SA 2.0 )'
+    one_sentence_summary: The article critiques Australian leaders, particularly New
+      South Wales Premier Chris Minns, for using the country's lack of free speech protections
+      as justification for suppressing dissenting voices, including protests against
+      genocide.
+    paragraph_summary: The article by Tim Foley critiques Australia's lack of free speech
+      protections, highlighting how this absence enables leaders like New South Wales
+      Premier Chris Minns to justify authoritarian measures against dissenting voices,
+      including the right to protest against genocide. Minns has repeatedly asserted
+      that the absence of free speech rights in Australia allows for the suppression
+      of dissent, contrasting it with the protections available in the United States.
+      Foley emphasizes the dangers of this situation, noting that without a Bill of
+      Rights, Australians face significant challenges in opposing oppressive laws, making
+      Australia unique among democracies for lacking such fundamental protections.
+    published: '2026-01-25T02:12:13+00:00'
+  - title: Australia's Lack Of Speech Protections Means We Should Be MORE Hostile To
+      Speech Regulation
+    url: https://www.caitlinjohnst.one/p/australias-lack-of-speech-protections
+    text: 'Reading by Tim Foley : Subscribe now A normal, healthy person would look
+      at Australia’s lack of free speech protections and say “Hmm, Australian leaders
+      should be extremely resistant to new laws and policies which restrict speech then,
+      because it would be very easy for those restrictions to become abusive.” Australian
+      leaders look at our lack of free speech protections and say “See? This means we
+      get to take away your right to protest genocide!” Nowhere is this more clearly
+      exemplified than the repeated statements from New South Wales premier Chris Minns
+      saying it’s fine to silence Australians because we don’t have free speech rights.
+      Over and over again Minns has defended his promotion of authoritarian speech crackdowns
+      in his state by claiming it’s okay to stomp out dissident speech of Australians
+      because Australians don’t have the same speech protections as Americans, saying
+      “we don’t have the same free speech rules that they have in the United States
+      and I make no apologies for that” and similar statements in recent weeks. To be
+      clear, Minns is being repulsively tyrannical when he says this, but factually
+      speaking he isn’t wrong. As Joe Lauria wrote for Consortium News following the
+      passage of Australia’s frightening new “hate speech” bill: “Unlike the United
+      States, Australia has no Bill of Rights in its Constitution protecting freedom
+      of speech, assembly and other rights. Much as Israel would want it, a law such
+      as this adopted in Australia would still be difficult to pass in the U.S. on paper,
+      despite the Israel Lobby’s hold over the U.S. Congress.” If Australians had the
+      same speech protections that they have in the United States, we could appeal tyrannical
+      new laws on First Amendment grounds. Because we have no such protections, it is
+      much harder to oppose authoritarian speech restrictions once they are in place.
+      As I often remind readers, Australia is the only so-called democracy in the world
+      which has no national charter or bill of rights of any kind . A tremendous amount
+      of faith has been placed in state and federal legislators to simply do the right
+      thing, which has proved foolish and ineffective. Professor George Williams wrote
+      for the Melbourne University Law Review in 2006: “Australia is now the only democratic
+      nation in the world without a national bill of rights. Some comprehensive form
+      of legal protection for basic rights is otherwise seen as an essential check and
+      balance in democratic governance around the world. Indeed, I can find no example
+      of a democratic nation that has gained a new Constitution or legal system in recent
+      decades that has not included some form of a bill of rights, nor am I aware of
+      any such nation that has done away with a bill of rights once it has been put
+      in place.” It has been clearly and conclusively established that this system does
+      not work. State and federal governments are working frenetically to shred the
+      right of Australians to oppose the actions of the state of Israel, with their
+      assault on our civil rights disguised as an effort to fight “antisemitism” in
+      our country and help Jewish Australians feel more safe. The fact that this happens
+      to advance the information interests of the western power alliance, we are told,
+      is purely coincidental. The evidence is in and the case is closed. The Australian
+      system does not work. We need a national bill of rights, and we need free speech
+      to be enshrined in our constitution. In the meantime, we need to be aggressively
+      opposed to laws and policies which assault our freedom of speech. We need to be
+      more aggressive in our opposition than Americans would be, because we have fewer
+      safeguards against tyrannical abuses. It’s so disgusting how these freaks are
+      telling us right to our faces “Yeah well you guys don’t have any rights, so I’m
+      going to silence you and oppress you and I make no apologies about that.” That
+      kind of arrogant, abusive authoritarianism deserves nothing but ferocious defiance.
+      _______________ Caitlin’s Newsletter is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber. The
+      best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Phil Desveaux ( CC BY-SA 2.0 )'
+    one_sentence_summary: The article critiques Australian leaders, particularly New
+      South Wales Premier Chris Minns, for using the country's lack of free speech protections
+      as justification for suppressing dissenting voices, including protests against
+      genocide.
+    paragraph_summary: The article by Tim Foley critiques Australia's lack of free speech
+      protections, highlighting how this absence enables leaders like New South Wales
+      Premier Chris Minns to justify authoritarian measures against dissenting voices,
+      including the right to protest against genocide. Minns has repeatedly asserted
+      that the absence of free speech rights in Australia allows for the suppression
+      of dissent, contrasting it with the protections available in the United States.
+      Foley emphasizes the dangers of this situation, noting that without a Bill of
+      Rights, Australians face significant challenges in opposing oppressive laws, making
+      Australia unique among democracies for lacking such fundamental protections.
+    published: '2026-01-25T02:12:13+00:00'
+  - title: The Magic System Of Zionism
+    url: https://www.caitlinjohnst.one/p/the-magic-system-of-zionism
+    text: 'Reading by Tim Foley : Subscribe now If I spoke critically of something abusive
+      that India was doing in Kashmir, would you expect me to be accused of an anti-Hindu
+      hate crime? If you criticized an Indian military operation, would you have to
+      preface it with “I don’t hate Hindus or their religion and am not the slightest
+      bit Hinduphobic”? If there was worldwide opposition to something that Indian military
+      forces were doing, would you expect western governments to start frantically churning
+      out laws to ban that opposition because it was making members of the Hindu community
+      feel unsafe? Would it ever in your wildest imaginings occur to you that a criticism
+      of the violent actions of the government of India could in any way be interpreted
+      as an attack on the Hindu faith and the membership of that religion? You can probably
+      see where I’m going with this. You don’t expect to see criticisms of the state
+      of India framed as an attack on its majority religion because people in your society
+      haven’t been conditioned to have that expectation. But we have been conditioned
+      to have that expectation about Israel. The association between antisemitism and
+      criticism of the state of Israel isn’t natural. It’s not something that would
+      organically occur to an untrained mind. If a man who’d never heard of Israel or
+      Palestine were shown footage of the genocide in Gaza, he would reflexively recoil
+      in horror and say what he was looking at was a bad thing. If somebody then ran
+      up and explained to him that what he just said was actually a hateful act of religious
+      persecution, he would be very surprised and confused. Because he hadn’t been indoctrinated
+      into making that association, in the same way you haven’t been indoctrinated into
+      associating criticism of the Indian government with an attack on the religion
+      of Hinduism. It’s a completely counterintuitive association. There’s nothing about
+      it that that you could find your way into through your own observation and reasoning.
+      It’s something you’d need to be taught by others. You need it to be explained
+      to you. That’s the literal translation of the Hebrew word “ hasbara ”. It means
+      “explaining”. Israel and its supporters have spent decades “explaining” to the
+      world that criticism of the state of Israel is actually a terrible hate crime
+      against Jews and their religion, because otherwise it would never occur to a normal
+      person that that is the case. It’s actually astonishingly impressive. The political
+      ideology of support for this tiny apartheid state has been so effective at explaining
+      to the world what thoughts they should think about it that those efforts touch
+      all our lives. It’s so effective that you could be at a social gathering all the
+      way across the sea in the United States and, unless you are very familiar with
+      the people around you, if the subject of Israel comes up you’ll immediately understand
+      that you could be in for a very uncomfortable evening. It’s stunning how much
+      influence this ideology has had throughout our society’s culture and institutions.
+      It’s almost magical. There was a segment in last year’s Louis Theroux documentary
+      The Settlers that stuck with me where Israeli settler leader Daniella Weiss refers
+      to Zionism as a “magic system”. “Jewish settlements in Gaza is a very difficult
+      step that demands a lot of work,” Weiss told Theroux . “You have to influence
+      the leftists, the government, the nations of the world, using the magic system:
+      Zionism.” It isn’t surprising to learn that Weiss views her operations as a kind
+      of magic. On paper she and her ilk shouldn’t be able to do what they do. Forcefully
+      dropping a foreign ethnostate on top of a pre-existing civilization and violently
+      hammering it into place against every organic impulse of the region is freakish
+      enough, but then convincing the rest of the world to support this? To the point
+      that it actually affects our interpersonal relationships and interactions on the
+      other side of the planet? It shouldn’t work. But it does. I don’t really know
+      what magic is, but it makes sense that some Zionists would see it that way. Because
+      from the outside looking in all that mass-scale psychosocial manipulation kind
+      of does look like an inexplicable sort of wizardry. Luckily, the magic seems to
+      be wearing off. The old tricks just aren’t working anymore. Calling someone who
+      criticizes Israel an “antisemite” is widely recognized for the fraudulent manipulation
+      that it is. Pro-Palestine politicians are winning elections despite highly coordinated
+      smear campaigns saying their candidacy makes Jews feel unsafe. Everyone knows
+      Israel lies about everything all the time. Trust in the media is at an all-time
+      low, while awareness of the pro-Israel bias of the mainstream press is at an all-time
+      high. People are still showing up for protests and pro-Palestine events. The public
+      is turning against Israel in unprecedented numbers. Nobody’s buying the old song
+      and dance anymore. Maybe the people are finding a little magic of their own. ________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article discusses the expectation that criticism of India's
+      actions, particularly in Kashmir, should not be conflated with anti-Hindu sentiment,
+      highlighting the absurdity of framing legitimate political discourse as religiously
+      motivated attacks.
+    paragraph_summary: In his article, Tim Foley critiques the societal conditioning
+      that leads to the association of antisemitism with criticism of Israel, contrasting
+      it with how criticisms of the Indian government are not similarly framed as attacks
+      on Hinduism. He argues that this expectation of linking political criticism to
+      religious animosity is not a natural or intuitive response, but rather a result
+      of indoctrination. Foley suggests that if someone were to witness the atrocities
+      occurring in Gaza without prior knowledge of the Israel-Palestine conflict, they
+      would instinctively recognize the violence as wrong, rather than interpreting
+      their reaction as a form of religious persecution. He emphasizes that this conditioning
+      creates a double standard in how criticisms of different nations and their actions
+      are perceived in relation to their predominant religions.
+    published: '2026-01-24T01:42:18+00:00'
+  - title: The Magic System Of Zionism
+    url: https://www.caitlinjohnst.one/p/the-magic-system-of-zionism
+    text: 'Reading by Tim Foley : Subscribe now If I spoke critically of something abusive
+      that India was doing in Kashmir, would you expect me to be accused of an anti-Hindu
+      hate crime? If you criticized an Indian military operation, would you have to
+      preface it with “I don’t hate Hindus or their religion and am not the slightest
+      bit Hinduphobic”? If there was worldwide opposition to something that Indian military
+      forces were doing, would you expect western governments to start frantically churning
+      out laws to ban that opposition because it was making members of the Hindu community
+      feel unsafe? Would it ever in your wildest imaginings occur to you that a criticism
+      of the violent actions of the government of India could in any way be interpreted
+      as an attack on the Hindu faith and the membership of that religion? You can probably
+      see where I’m going with this. You don’t expect to see criticisms of the state
+      of India framed as an attack on its majority religion because people in your society
+      haven’t been conditioned to have that expectation. But we have been conditioned
+      to have that expectation about Israel. The association between antisemitism and
+      criticism of the state of Israel isn’t natural. It’s not something that would
+      organically occur to an untrained mind. If a man who’d never heard of Israel or
+      Palestine were shown footage of the genocide in Gaza, he would reflexively recoil
+      in horror and say what he was looking at was a bad thing. If somebody then ran
+      up and explained to him that what he just said was actually a hateful act of religious
+      persecution, he would be very surprised and confused. Because he hadn’t been indoctrinated
+      into making that association, in the same way you haven’t been indoctrinated into
+      associating criticism of the Indian government with an attack on the religion
+      of Hinduism. It’s a completely counterintuitive association. There’s nothing about
+      it that that you could find your way into through your own observation and reasoning.
+      It’s something you’d need to be taught by others. You need it to be explained
+      to you. That’s the literal translation of the Hebrew word “ hasbara ”. It means
+      “explaining”. Israel and its supporters have spent decades “explaining” to the
+      world that criticism of the state of Israel is actually a terrible hate crime
+      against Jews and their religion, because otherwise it would never occur to a normal
+      person that that is the case. It’s actually astonishingly impressive. The political
+      ideology of support for this tiny apartheid state has been so effective at explaining
+      to the world what thoughts they should think about it that those efforts touch
+      all our lives. It’s so effective that you could be at a social gathering all the
+      way across the sea in the United States and, unless you are very familiar with
+      the people around you, if the subject of Israel comes up you’ll immediately understand
+      that you could be in for a very uncomfortable evening. It’s stunning how much
+      influence this ideology has had throughout our society’s culture and institutions.
+      It’s almost magical. There was a segment in last year’s Louis Theroux documentary
+      The Settlers that stuck with me where Israeli settler leader Daniella Weiss refers
+      to Zionism as a “magic system”. “Jewish settlements in Gaza is a very difficult
+      step that demands a lot of work,” Weiss told Theroux . “You have to influence
+      the leftists, the government, the nations of the world, using the magic system:
+      Zionism.” It isn’t surprising to learn that Weiss views her operations as a kind
+      of magic. On paper she and her ilk shouldn’t be able to do what they do. Forcefully
+      dropping a foreign ethnostate on top of a pre-existing civilization and violently
+      hammering it into place against every organic impulse of the region is freakish
+      enough, but then convincing the rest of the world to support this? To the point
+      that it actually affects our interpersonal relationships and interactions on the
+      other side of the planet? It shouldn’t work. But it does. I don’t really know
+      what magic is, but it makes sense that some Zionists would see it that way. Because
+      from the outside looking in all that mass-scale psychosocial manipulation kind
+      of does look like an inexplicable sort of wizardry. Luckily, the magic seems to
+      be wearing off. The old tricks just aren’t working anymore. Calling someone who
+      criticizes Israel an “antisemite” is widely recognized for the fraudulent manipulation
+      that it is. Pro-Palestine politicians are winning elections despite highly coordinated
+      smear campaigns saying their candidacy makes Jews feel unsafe. Everyone knows
+      Israel lies about everything all the time. Trust in the media is at an all-time
+      low, while awareness of the pro-Israel bias of the mainstream press is at an all-time
+      high. People are still showing up for protests and pro-Palestine events. The public
+      is turning against Israel in unprecedented numbers. Nobody’s buying the old song
+      and dance anymore. Maybe the people are finding a little magic of their own. ________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article discusses the expectation that criticism of India's
+      actions, particularly in Kashmir, should not be conflated with anti-Hindu sentiment,
+      highlighting the absurdity of framing legitimate political discourse as religiously
+      motivated attacks.
+    paragraph_summary: In his article, Tim Foley critiques the societal conditioning
+      that leads to the association of antisemitism with criticism of Israel, contrasting
+      it with how criticisms of the Indian government are not similarly framed as attacks
+      on Hinduism. He argues that this expectation of linking political criticism to
+      religious animosity is not a natural or intuitive response, but rather a result
+      of indoctrination. Foley suggests that if someone were to witness the atrocities
+      occurring in Gaza without prior knowledge of the Israel-Palestine conflict, they
+      would instinctively recognize the violence as wrong, rather than interpreting
+      their reaction as a form of religious persecution. He emphasizes that this conditioning
+      creates a double standard in how criticisms of different nations and their actions
+      are perceived in relation to their predominant religions.
+    published: '2026-01-24T01:42:18+00:00'
+  - title: They're Trying To Sneak Israel's President Into Australia Without Anti-Genocide
+      Protests
+    url: https://www.caitlinjohnst.one/p/theyre-trying-to-sneak-israels-president
+    text: 'Reading by Tim Foley : Subscribe now Israeli president Isaac Herzog is expected
+      to visit Australia at the invitation of the Australian government, with anonymous
+      sources telling the Israeli press that he’s scheduled to arrive on February 7,
+      but so far Canberra itself has been very opaque about the time and nature of the
+      visit. We can surmise from this that they’re currently trying to come up with
+      a strategy for how to sneak the president into the country without the spectacle
+      of him getting confronted by throngs of anti-genocide protesters. Again: they’re
+      trying to sneak the president into the country for a visit to protect him from
+      anti-genocide protesters. Really think about what that means, and what it says
+      about Australia as a country. When you are doing things like this, you’re on the
+      wrong side of history. ❖ As soon as the UK listed Palestine Action as a terrorist
+      group it was made clear to the entire western world that there is no limit to
+      how far our governments will go to stomp out speech that is critical of Israel.
+      Literally no limit. Once you’re arresting old ladies in wheelchairs for holding
+      a sign that says “I oppose genocide, I support Palestine Action,” you’re making
+      it clear that there’s nothing you won’t do to bludgeon the populace into line
+      regarding this one particular foreign state. That was a real turning point for
+      western society, in retrospect. Up until then it’d been horrific genocidal depravity
+      in Gaza and some ugly shenanigans with TikTok and university campuses, but actually
+      proclaiming that an activist group is a terrorist organization and arresting anyone
+      who supports it was a wildly unprecedented escalation. From that point on it’s
+      been clear to every decent person throughout the western world that we’re in the
+      imperial crosshairs now. They’re coming for us directly. Our rights are on the
+      chopping block. There’s no limit to how dark and dystopian things can get from
+      here. ❖ ❖ I’m not trying to be antisemitic or anything but I personally think
+      it should be legal to voice criticisms of the military activities of a foreign
+      state. ❖ One of the many reasons I’m so hostile to authoritarian efforts to stomp
+      out pro-Palestine speech in Australia is because there’s something deep inside
+      me that would find it intolerable for us to be worse than the Brits. ❖ There should
+      be a mandatory six-month “cooling off period” between any mass shooting or act
+      of terrorism and any legislation purportedly put out in response to it, because
+      the emotional immediate aftermath is always when lawmakers try to roll out their
+      most authoritarian agendas. I’ve said it before and I will say it again: nobody
+      actually believes the Bondi attack had anything to do with Palestinians or pro-Palestine
+      protests. Anyone who claims they believe that is lying. They’re just pretending
+      there’s a connection in order to stomp out pro-Palestine speech and activism in
+      Australia. ❖ International social media has rediscovered video footage of the
+      Sydney Harbour Bridge protest last year, and it is very impressive to revisit.
+      A massive line of hundreds of thousands of people holding umbrellas and Palestinian
+      flags in opposition to their government’s complicity in the holocaust in Gaza.
+      It must have left a mark, because the Israel lobby has been on the warpath frantically
+      trying to crush our right to protest ever since. People sometimes knock the effectiveness
+      of peaceful demonstrations, but if they didn’t make a difference tyrants wouldn’t
+      hate them so much. ❖ ❖ The reason I’ve been talking about the Australian Israel
+      lobby so much lately is because it has made itself my problem. Kwame Ture said
+      “If a white man wants to lynch me, that’s his problem. If he’s got the power to
+      lynch me, that’s my problem.” I find his logic sound. The Israel lobby in Australia
+      has shown it has the power to successfully pressure governments to advance laws
+      and policies which threaten the speech of people like myself who speak critically
+      of the state of Israel. That makes them my problem. There are more important and
+      urgent things going on in the world than the lobbying efforts of an apartheid
+      state in a peripheral nation of the imperial core, to be sure. I’d rather be writing
+      about those matters. But the Australian Israel lobby has made itself my problem,
+      so I need to mention its abusive behaviors from time to time. I know my name has
+      appeared on lists . I know I’ve been the subject of private discussion among people
+      I’d have preferred not to receive attention from. I know I share a country with
+      people who would openly celebrate if I was imprisoned for the things I have said
+      about Israel and Zionism. So I’ve got a vested interest in calling attention to
+      the forces that are working to assault the civil rights of people like myself,
+      and to my government’s inexcusable advancement of those agendas . And all decent
+      Australians have that same vested interest, to be clear. Every person of conscience
+      who wishes to be able to speak out against their government’s facilitation of
+      mass murder and abuse has a personal stake in this debate. Because we’ve each
+      got a target on our voice box now. We all need to speak out while we still can.
+      _________________ Caitlin’s Newsletter is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber. The
+      best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Wikimedia Commons/Government Press Office of Israel (public
+      domain).'
+    one_sentence_summary: Israeli President Isaac Herzog is expected to visit Australia
+      on February 7, but the Australian government is reportedly trying to manage the
+      visit discreetly to avoid protests against his presence, highlighting concerns
+      about the country's stance on human rights issues.
+    paragraph_summary: Israeli President Isaac Herzog is set to visit Australia on February
+      7, as invited by the Australian government, though details about the visit remain
+      unclear, suggesting efforts to avoid protests from anti-genocide activists. This
+      situation raises concerns about Australia's stance on human rights issues, particularly
+      regarding its approach to dissent against Israel. The article highlights a broader
+      trend in Western countries, particularly following the UK's designation of Palestine
+      Action as a terrorist group, indicating a troubling escalation in suppressing
+      free speech critical of Israel. The author argues that such actions signal a significant
+      threat to civil liberties and foreshadow a darker future for dissenting voices
+      in society.
+    published: '2026-01-23T01:48:36+00:00'
+  - title: They're Trying To Sneak Israel's President Into Australia Without Anti-Genocide
+      Protests
+    url: https://www.caitlinjohnst.one/p/theyre-trying-to-sneak-israels-president
+    text: 'Reading by Tim Foley : Subscribe now Israeli president Isaac Herzog is expected
+      to visit Australia at the invitation of the Australian government, with anonymous
+      sources telling the Israeli press that he’s scheduled to arrive on February 7,
+      but so far Canberra itself has been very opaque about the time and nature of the
+      visit. We can surmise from this that they’re currently trying to come up with
+      a strategy for how to sneak the president into the country without the spectacle
+      of him getting confronted by throngs of anti-genocide protesters. Again: they’re
+      trying to sneak the president into the country for a visit to protect him from
+      anti-genocide protesters. Really think about what that means, and what it says
+      about Australia as a country. When you are doing things like this, you’re on the
+      wrong side of history. ❖ As soon as the UK listed Palestine Action as a terrorist
+      group it was made clear to the entire western world that there is no limit to
+      how far our governments will go to stomp out speech that is critical of Israel.
+      Literally no limit. Once you’re arresting old ladies in wheelchairs for holding
+      a sign that says “I oppose genocide, I support Palestine Action,” you’re making
+      it clear that there’s nothing you won’t do to bludgeon the populace into line
+      regarding this one particular foreign state. That was a real turning point for
+      western society, in retrospect. Up until then it’d been horrific genocidal depravity
+      in Gaza and some ugly shenanigans with TikTok and university campuses, but actually
+      proclaiming that an activist group is a terrorist organization and arresting anyone
+      who supports it was a wildly unprecedented escalation. From that point on it’s
+      been clear to every decent person throughout the western world that we’re in the
+      imperial crosshairs now. They’re coming for us directly. Our rights are on the
+      chopping block. There’s no limit to how dark and dystopian things can get from
+      here. ❖ ❖ I’m not trying to be antisemitic or anything but I personally think
+      it should be legal to voice criticisms of the military activities of a foreign
+      state. ❖ One of the many reasons I’m so hostile to authoritarian efforts to stomp
+      out pro-Palestine speech in Australia is because there’s something deep inside
+      me that would find it intolerable for us to be worse than the Brits. ❖ There should
+      be a mandatory six-month “cooling off period” between any mass shooting or act
+      of terrorism and any legislation purportedly put out in response to it, because
+      the emotional immediate aftermath is always when lawmakers try to roll out their
+      most authoritarian agendas. I’ve said it before and I will say it again: nobody
+      actually believes the Bondi attack had anything to do with Palestinians or pro-Palestine
+      protests. Anyone who claims they believe that is lying. They’re just pretending
+      there’s a connection in order to stomp out pro-Palestine speech and activism in
+      Australia. ❖ International social media has rediscovered video footage of the
+      Sydney Harbour Bridge protest last year, and it is very impressive to revisit.
+      A massive line of hundreds of thousands of people holding umbrellas and Palestinian
+      flags in opposition to their government’s complicity in the holocaust in Gaza.
+      It must have left a mark, because the Israel lobby has been on the warpath frantically
+      trying to crush our right to protest ever since. People sometimes knock the effectiveness
+      of peaceful demonstrations, but if they didn’t make a difference tyrants wouldn’t
+      hate them so much. ❖ ❖ The reason I’ve been talking about the Australian Israel
+      lobby so much lately is because it has made itself my problem. Kwame Ture said
+      “If a white man wants to lynch me, that’s his problem. If he’s got the power to
+      lynch me, that’s my problem.” I find his logic sound. The Israel lobby in Australia
+      has shown it has the power to successfully pressure governments to advance laws
+      and policies which threaten the speech of people like myself who speak critically
+      of the state of Israel. That makes them my problem. There are more important and
+      urgent things going on in the world than the lobbying efforts of an apartheid
+      state in a peripheral nation of the imperial core, to be sure. I’d rather be writing
+      about those matters. But the Australian Israel lobby has made itself my problem,
+      so I need to mention its abusive behaviors from time to time. I know my name has
+      appeared on lists . I know I’ve been the subject of private discussion among people
+      I’d have preferred not to receive attention from. I know I share a country with
+      people who would openly celebrate if I was imprisoned for the things I have said
+      about Israel and Zionism. So I’ve got a vested interest in calling attention to
+      the forces that are working to assault the civil rights of people like myself,
+      and to my government’s inexcusable advancement of those agendas . And all decent
+      Australians have that same vested interest, to be clear. Every person of conscience
+      who wishes to be able to speak out against their government’s facilitation of
+      mass murder and abuse has a personal stake in this debate. Because we’ve each
+      got a target on our voice box now. We all need to speak out while we still can.
+      _________________ Caitlin’s Newsletter is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber. The
+      best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Wikimedia Commons/Government Press Office of Israel (public
+      domain).'
+    one_sentence_summary: Israeli President Isaac Herzog is expected to visit Australia
+      on February 7, but the Australian government is reportedly trying to manage the
+      visit discreetly to avoid protests against his presence, highlighting concerns
+      about the country's stance on human rights issues.
+    paragraph_summary: Israeli President Isaac Herzog is set to visit Australia on February
+      7, as invited by the Australian government, though details about the visit remain
+      unclear, suggesting efforts to avoid protests from anti-genocide activists. This
+      situation raises concerns about Australia's stance on human rights issues, particularly
+      regarding its approach to dissent against Israel. The article highlights a broader
+      trend in Western countries, particularly following the UK's designation of Palestine
+      Action as a terrorist group, indicating a troubling escalation in suppressing
+      free speech critical of Israel. The author argues that such actions signal a significant
+      threat to civil liberties and foreshadow a darker future for dissenting voices
+      in society.
+    published: '2026-01-23T01:48:36+00:00'
+  - title: Oppose Israel's Abuses While You Still Can
+    url: https://www.caitlinjohnst.one/p/oppose-israels-abuses-while-you-still
+    text: 'Reading by Tim Foley : Subscribe now I’ve seen some Australians expressing
+      confusion as to whether or not they can still legally criticize Israel online
+      after new “hate speech” laws were passed on Tuesday under the pretense of combatting
+      “antisemitism”. The answer is yes, and you definitely should keep opposing Israel
+      and its genocidal atrocities. I am worried that these new laws may indirectly
+      have a bit of a chilling effect on pro-Palestine activism due to Australians not
+      understanding these new laws and what people are allowed to do without being jailed.
+      So let’s clear this up thoroughly so we’re all on the same page. To be perfectly
+      clear: it is still legal for Australians to oppose Israel and to associate with
+      pro-Palestine groups — and we should. What’s changed is that now those groups
+      can be classified as “hate groups” and banned, similarly to how Palestine Action
+      has been banned in the UK . But this hasn’t happened yet, and hopefully never
+      will. We need to push for these new laws to be repealed , because they look guaranteed
+      to be abused at some point in the future. Know your rights, Australians: It is
+      still legal to criticize Israel. So we should criticize it as much as possible,
+      because we don’t know how much longer we’ll have that right. It is still legal
+      to associate with pro-Palestine groups. So we should do so at every opportunity,
+      because we don’t know when they’ll start listing them as “hate groups” and imprisoning
+      anyone who continues to associate with them. Unless you are in certain parts of
+      Sydney while the post-Bondi protest ban remains in effect , it is presently fully
+      legal to hold pro-Palestine marches. So attend as many as you are able, because
+      you don’t know when they’ll be shut down altogether. It is still legal to say
+      that Israel is a genocidal apartheid state, and to share information and opinions
+      about its abuses. So we should do so as much as we can, because we don’t know
+      when that right will be taken away. It is still legal to state the fact that Zionism
+      is a racist and murderous political ideology and that everything we’ve seen in
+      Gaza is the result of Zionists getting everything they want. So we should say
+      it frequently, because that right could vanish at any time. It is still legal
+      to say “Fuck Israel, free Palestine.” So we should say it loud and say it often,
+      because we don’t know how much longer we’ll be allowed to do so without getting
+      thrown into prison. The Israel lobby is working frenetically to crush free speech
+      in Australia, and the swamp monsters in Canberra are either actively facilitating
+      this agenda or doing far too little to stop it. The more aggressively they work
+      to take away our right to oppose Israel, the more aggressively we need to oppose
+      both them and Israel. We’re not just fighting for Gaza anymore, we’re fighting
+      for our own civil rights, and for our children, and for our grandchildren. They’re
+      actively assaulting our ability to speak critically of power and make this nation
+      a more tyrannical place. The only appropriate response to this is ferocious defiance.
+      Our future depends on it. ______________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: Despite new Australian laws aimed at combating antisemitism
+      that may create confusion, it remains legal for Australians to criticize Israel
+      and support pro-Palestine activism, although there is a risk that such groups
+      could eventually be classified as "hate groups."
+    paragraph_summary: In light of new "hate speech" laws in Australia aimed at combating
+      antisemitism, there has been confusion among Australians regarding their ability
+      to criticize Israel and support pro-Palestine activism. Tim Foley clarifies that
+      it remains legal to oppose Israel and associate with pro-Palestine groups, despite
+      the potential for these groups to be classified as "hate groups" in the future.
+      He emphasizes the importance of continuing to express dissent against Israel's
+      actions and participating in pro-Palestine activities while advocating for the
+      repeal of the new laws, which could be misused to suppress such expressions. Foley
+      encourages Australians to exercise their rights to criticize Israel and engage
+      in activism, as the future of these rights remains uncertain.
+    published: '2026-01-22T02:38:06+00:00'
+  - title: Oppose Israel's Abuses While You Still Can
+    url: https://www.caitlinjohnst.one/p/oppose-israels-abuses-while-you-still
+    text: 'Reading by Tim Foley : Subscribe now I’ve seen some Australians expressing
+      confusion as to whether or not they can still legally criticize Israel online
+      after new “hate speech” laws were passed on Tuesday under the pretense of combatting
+      “antisemitism”. The answer is yes, and you definitely should keep opposing Israel
+      and its genocidal atrocities. I am worried that these new laws may indirectly
+      have a bit of a chilling effect on pro-Palestine activism due to Australians not
+      understanding these new laws and what people are allowed to do without being jailed.
+      So let’s clear this up thoroughly so we’re all on the same page. To be perfectly
+      clear: it is still legal for Australians to oppose Israel and to associate with
+      pro-Palestine groups — and we should. What’s changed is that now those groups
+      can be classified as “hate groups” and banned, similarly to how Palestine Action
+      has been banned in the UK . But this hasn’t happened yet, and hopefully never
+      will. We need to push for these new laws to be repealed , because they look guaranteed
+      to be abused at some point in the future. Know your rights, Australians: It is
+      still legal to criticize Israel. So we should criticize it as much as possible,
+      because we don’t know how much longer we’ll have that right. It is still legal
+      to associate with pro-Palestine groups. So we should do so at every opportunity,
+      because we don’t know when they’ll start listing them as “hate groups” and imprisoning
+      anyone who continues to associate with them. Unless you are in certain parts of
+      Sydney while the post-Bondi protest ban remains in effect , it is presently fully
+      legal to hold pro-Palestine marches. So attend as many as you are able, because
+      you don’t know when they’ll be shut down altogether. It is still legal to say
+      that Israel is a genocidal apartheid state, and to share information and opinions
+      about its abuses. So we should do so as much as we can, because we don’t know
+      when that right will be taken away. It is still legal to state the fact that Zionism
+      is a racist and murderous political ideology and that everything we’ve seen in
+      Gaza is the result of Zionists getting everything they want. So we should say
+      it frequently, because that right could vanish at any time. It is still legal
+      to say “Fuck Israel, free Palestine.” So we should say it loud and say it often,
+      because we don’t know how much longer we’ll be allowed to do so without getting
+      thrown into prison. The Israel lobby is working frenetically to crush free speech
+      in Australia, and the swamp monsters in Canberra are either actively facilitating
+      this agenda or doing far too little to stop it. The more aggressively they work
+      to take away our right to oppose Israel, the more aggressively we need to oppose
+      both them and Israel. We’re not just fighting for Gaza anymore, we’re fighting
+      for our own civil rights, and for our children, and for our grandchildren. They’re
+      actively assaulting our ability to speak critically of power and make this nation
+      a more tyrannical place. The only appropriate response to this is ferocious defiance.
+      Our future depends on it. ______________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: Despite new Australian laws aimed at combating antisemitism
+      that may create confusion, it remains legal for Australians to criticize Israel
+      and support pro-Palestine activism, although there is a risk that such groups
+      could eventually be classified as "hate groups."
+    paragraph_summary: In light of new "hate speech" laws in Australia aimed at combating
+      antisemitism, there has been confusion among Australians regarding their ability
+      to criticize Israel and support pro-Palestine activism. Tim Foley clarifies that
+      it remains legal to oppose Israel and associate with pro-Palestine groups, despite
+      the potential for these groups to be classified as "hate groups" in the future.
+      He emphasizes the importance of continuing to express dissent against Israel's
+      actions and participating in pro-Palestine activities while advocating for the
+      repeal of the new laws, which could be misused to suppress such expressions. Foley
+      encourages Australians to exercise their rights to criticize Israel and engage
+      in activism, as the future of these rights remains uncertain.
+    published: '2026-01-22T02:38:06+00:00'
+  - title: Australia's Frightening New "Hate Speech" Laws Are Clearly Aimed At Pro-Palestine
+      Groups
+    url: https://www.caitlinjohnst.one/p/australias-frightening-new-hate-speech
+    text: 'Reading by Tim Foley : Subscribe now Australia’s Labor government has successfully
+      passed a “hate speech” bill that’s plainly aimed, at least in part, at suppressing
+      pro-Palestine organizations as “hate groups”. Free speech advocates are sounding
+      the alarm about the new laws, saying their extremely vague wording, lack of procedural
+      fairness and low thresholds for implementation mean groups can now be banned if
+      they make people feel unsafe or upset without ever actually posing any physical
+      harm to anyone. For me the most illuminating insight into what these laws are
+      actually designed to do came up in an ABC interview with Attorney-General Michelle
+      Rowland on Tuesday. Over and over again throughout the interview Rowland was asked
+      by ABC’s David Speers to clarify whether the new laws could see activist groups
+      banned for criticizing Israel and opposing its genocidal atrocities in a way that
+      causes Jewish Australians to feel upset feelings, and she refused to rule out
+      the possibility every single time. “Let’s just go to what it means in practice:
+      would a group be banned if it accuses Israel of genocide or apartheid, and as
+      a result, Jewish Australians do feel intimidated?” Speers asked . Rowland didn’t
+      say no, instead saying “there are a number of other factors that would need to
+      be satisfied there” and saying that agencies like the AFP and ASIO would need
+      to make assessments of the situation. “Okay, just coming back to the practical
+      example though, if a group is suggesting that Israel is guilty of genocide, what
+      other measures or factors would need to be met before they can be banned?” Speers
+      asked. “Under the provisions that are now before the parliament, there would also
+      need to be able to demonstrate that there are for example, some aspects of state
+      laws that deal with racial vilification that have been met as well,” Rowland responded,
+      again leaving the possibility wide open. (It should here be noted that Greens
+      justice spokesperson David Shoebridge has pointed out that “state laws that deal
+      with racial vilification” can include “tests like ‘ridicule’ and ‘contempt’,”
+      meaning people could wind up spending years in prison for associating with groups
+      that were essentially banned for upsetting someone’s feelings.) “Just to be clear,
+      if a group is saying Israel is engaged in genocide, or they’re saying that Israel
+      should no longer exist, that is not enough for that group to be banned?” asked
+      Speers. “Well, again, that would depend on the other evidence that is gathered,
+      David, so I would be reluctant to be naming and ruling in and ruling out specific
+      kinds of conduct that you are describing here,” Rowland replied. All this waffling
+      can safely interpreted as a yes. Rowland is saying yes. Speers pushed this question
+      three different times from three different angles because it’s the most immediate
+      and obvious concern about these new laws, and instead of reassuring the public
+      that they can’t be used to target pro-Palestine groups and aren’t intended for
+      that purpose, the nation’s Attorney General confirmed that it was indeed possible.
+      So that’s it then. Under the new laws we can expect to see the Israel lobby crying
+      about Jewish Australians feeling threatened and unsafe by every pro-Palestine
+      group under the sun, and then from there all it takes is the thumbs-up from ASIO
+      to put the group on the banned list and cage anyone who continues associating
+      with it for up to 15 years. The bill that ended up making it through Parliament
+      is actually a narrowed down version of an even scarier bill that was scrapped
+      by Labor due to lack of support which went after individuals as well as groups.
+      The earlier version contained “racial vilification” components which could have
+      been used to target any individual who voices criticisms of Israel or Zionism — so
+      it doesn’t look like I’ll be doing any prison time for my writing any time soon.
+      The new version moved its crosshairs to groups with the obvious intent to disrupt
+      pro-Palestine organizing in Australia. And we’re already seeing the Israel lobby
+      pushing to resurrect the laws targeting individuals. A new ABC article titled
+      “ Jewish leaders call for vilification offence to be revisited as Coalition splits
+      over watered-down hate laws ” cites Zionist Federation of Australia president
+      Jeremy Leibler and Executive Council of Australian Jewry co-chief executive Peter
+      Wertheim arguing that the new laws don’t go far enough. So we can expect the Australian
+      Israel lobby to both (A) push to get pro-Palestine groups classified as “hate
+      groups” under the new laws and (B) keep pushing to make it illegal for individuals
+      to criticize Israel in the form of new “racial vilification” laws. They’ll keep
+      trying over and over again, from government to government to government, until
+      they get their way. This comes after Australia/Israel & Jewish Affairs Council
+      Executive Manager Joel Burnie publicly stated that he wants to ban pro-Palestine
+      protests and criticism of Israel throughout the nation, and as prosecutors drag
+      an Australian woman to court for an antisemitic hate crime because she accidentally
+      butt-dialed a Jewish nutritionist and left a blank voicemail. So things are already
+      ugly, and they’re getting worse. It’s so creepy knowing I share a country with
+      people who want to destroy my right to normal political speech. It would never
+      occur to me to try to kill Zionists’ right to free speech, but they very openly
+      want to kill mine. They want to permanently silence me and anyone like me. I find
+      that profoundly disturbing. Israel supporters are horrible people. And I hope
+      my saying that hurts their feelings. _______________ Caitlin’s Newsletter is a
+      reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image is a screenshot from ABC News
+      In-depth (fair use) .'
+    one_sentence_summary: Australia's Labor government has passed a controversial "hate
+      speech" bill that critics argue targets pro-Palestine organizations and could
+      lead to the suppression of free speech by allowing groups to be banned for causing
+      emotional distress without any actual harm.
+    paragraph_summary: Australia's Labor government has enacted a controversial "hate
+      speech" bill that critics argue targets pro-Palestine organizations by categorizing
+      them as "hate groups." Free speech advocates express concern over the bill's vague
+      language, which allows for groups to be banned based on subjective feelings of
+      discomfort or safety, rather than actual threats of harm. During an interview,
+      Attorney-General Michelle Rowland was repeatedly asked whether the law could lead
+      to the banning of groups that criticize Israel, particularly in the context of
+      accusations of genocide. Rowland's non-committal responses suggested that such
+      actions could be possible, depending on various assessments by law enforcement
+      agencies, thereby leaving the door open for potential censorship of dissenting
+      voices on the Israel-Palestine issue.
+    published: '2026-01-21T11:11:42+00:00'
+  - title: Australia's Frightening New "Hate Speech" Laws Are Clearly Aimed At Pro-Palestine
+      Groups
+    url: https://www.caitlinjohnst.one/p/australias-frightening-new-hate-speech
+    text: 'Reading by Tim Foley : Subscribe now Australia’s Labor government has successfully
+      passed a “hate speech” bill that’s plainly aimed, at least in part, at suppressing
+      pro-Palestine organizations as “hate groups”. Free speech advocates are sounding
+      the alarm about the new laws, saying their extremely vague wording, lack of procedural
+      fairness and low thresholds for implementation mean groups can now be banned if
+      they make people feel unsafe or upset without ever actually posing any physical
+      harm to anyone. For me the most illuminating insight into what these laws are
+      actually designed to do came up in an ABC interview with Attorney-General Michelle
+      Rowland on Tuesday. Over and over again throughout the interview Rowland was asked
+      by ABC’s David Speers to clarify whether the new laws could see activist groups
+      banned for criticizing Israel and opposing its genocidal atrocities in a way that
+      causes Jewish Australians to feel upset feelings, and she refused to rule out
+      the possibility every single time. “Let’s just go to what it means in practice:
+      would a group be banned if it accuses Israel of genocide or apartheid, and as
+      a result, Jewish Australians do feel intimidated?” Speers asked . Rowland didn’t
+      say no, instead saying “there are a number of other factors that would need to
+      be satisfied there” and saying that agencies like the AFP and ASIO would need
+      to make assessments of the situation. “Okay, just coming back to the practical
+      example though, if a group is suggesting that Israel is guilty of genocide, what
+      other measures or factors would need to be met before they can be banned?” Speers
+      asked. “Under the provisions that are now before the parliament, there would also
+      need to be able to demonstrate that there are for example, some aspects of state
+      laws that deal with racial vilification that have been met as well,” Rowland responded,
+      again leaving the possibility wide open. (It should here be noted that Greens
+      justice spokesperson David Shoebridge has pointed out that “state laws that deal
+      with racial vilification” can include “tests like ‘ridicule’ and ‘contempt’,”
+      meaning people could wind up spending years in prison for associating with groups
+      that were essentially banned for upsetting someone’s feelings.) “Just to be clear,
+      if a group is saying Israel is engaged in genocide, or they’re saying that Israel
+      should no longer exist, that is not enough for that group to be banned?” asked
+      Speers. “Well, again, that would depend on the other evidence that is gathered,
+      David, so I would be reluctant to be naming and ruling in and ruling out specific
+      kinds of conduct that you are describing here,” Rowland replied. All this waffling
+      can safely interpreted as a yes. Rowland is saying yes. Speers pushed this question
+      three different times from three different angles because it’s the most immediate
+      and obvious concern about these new laws, and instead of reassuring the public
+      that they can’t be used to target pro-Palestine groups and aren’t intended for
+      that purpose, the nation’s Attorney General confirmed that it was indeed possible.
+      So that’s it then. Under the new laws we can expect to see the Israel lobby crying
+      about Jewish Australians feeling threatened and unsafe by every pro-Palestine
+      group under the sun, and then from there all it takes is the thumbs-up from ASIO
+      to put the group on the banned list and cage anyone who continues associating
+      with it for up to 15 years. The bill that ended up making it through Parliament
+      is actually a narrowed down version of an even scarier bill that was scrapped
+      by Labor due to lack of support which went after individuals as well as groups.
+      The earlier version contained “racial vilification” components which could have
+      been used to target any individual who voices criticisms of Israel or Zionism — so
+      it doesn’t look like I’ll be doing any prison time for my writing any time soon.
+      The new version moved its crosshairs to groups with the obvious intent to disrupt
+      pro-Palestine organizing in Australia. And we’re already seeing the Israel lobby
+      pushing to resurrect the laws targeting individuals. A new ABC article titled
+      “ Jewish leaders call for vilification offence to be revisited as Coalition splits
+      over watered-down hate laws ” cites Zionist Federation of Australia president
+      Jeremy Leibler and Executive Council of Australian Jewry co-chief executive Peter
+      Wertheim arguing that the new laws don’t go far enough. So we can expect the Australian
+      Israel lobby to both (A) push to get pro-Palestine groups classified as “hate
+      groups” under the new laws and (B) keep pushing to make it illegal for individuals
+      to criticize Israel in the form of new “racial vilification” laws. They’ll keep
+      trying over and over again, from government to government to government, until
+      they get their way. This comes after Australia/Israel & Jewish Affairs Council
+      Executive Manager Joel Burnie publicly stated that he wants to ban pro-Palestine
+      protests and criticism of Israel throughout the nation, and as prosecutors drag
+      an Australian woman to court for an antisemitic hate crime because she accidentally
+      butt-dialed a Jewish nutritionist and left a blank voicemail. So things are already
+      ugly, and they’re getting worse. It’s so creepy knowing I share a country with
+      people who want to destroy my right to normal political speech. It would never
+      occur to me to try to kill Zionists’ right to free speech, but they very openly
+      want to kill mine. They want to permanently silence me and anyone like me. I find
+      that profoundly disturbing. Israel supporters are horrible people. And I hope
+      my saying that hurts their feelings. _______________ Caitlin’s Newsletter is a
+      reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image is a screenshot from ABC News
+      In-depth (fair use) .'
+    one_sentence_summary: Australia's Labor government has passed a controversial "hate
+      speech" bill that critics argue targets pro-Palestine organizations and could
+      lead to the suppression of free speech by allowing groups to be banned for causing
+      emotional distress without any actual harm.
+    paragraph_summary: Australia's Labor government has enacted a controversial "hate
+      speech" bill that critics argue targets pro-Palestine organizations by categorizing
+      them as "hate groups." Free speech advocates express concern over the bill's vague
+      language, which allows for groups to be banned based on subjective feelings of
+      discomfort or safety, rather than actual threats of harm. During an interview,
+      Attorney-General Michelle Rowland was repeatedly asked whether the law could lead
+      to the banning of groups that criticize Israel, particularly in the context of
+      accusations of genocide. Rowland's non-committal responses suggested that such
+      actions could be possible, depending on various assessments by law enforcement
+      agencies, thereby leaving the door open for potential censorship of dissenting
+      voices on the Israel-Palestine issue.
+    published: '2026-01-21T11:11:42+00:00'
   - title: Everyone Hates Israel Now Because Our Own Institutions Made It Personal
     url: https://www.caitlinjohnst.one/p/everyone-hates-israel-now-because
     text: 'Reading by Tim Foley : Subscribe now Everyone hates Israel now, and what’s

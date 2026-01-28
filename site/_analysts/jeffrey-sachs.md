@@ -8,19 +8,315 @@ websites:
   - https://www.commondreams.org/author/jeffrey-d-sachs
   - https://www.jeffsachs.org/newspaper-articles
 summary: |
-  The geopolitical landscape remains tense as U.S. foreign policy under President Trump continues to draw sharp criticism for its aggressive posture and disregard for international law. Recent developments have centered on American actions in Venezuela, ongoing debates over European security policy towards Russia, and the persistent crisis in Gaza.
+  The current geopolitical landscape is shaped by the persistent use of hybrid warfare by the United States, particularly against Iran and Venezuela, as well as ongoing crises in the Middle East and Europe’s troubled relationship with Russia. Over the past weeks, U.S. strategy has increasingly relied on economic sanctions, military interventions, and information campaigns to achieve its objectives without direct large-scale conflict.
   
-  The most recent report by **Jeffrey Sachs** to the UN Security Council (January 8, 2026) strongly condemns U.S. military interventions and regime-change efforts in Venezuela, arguing these actions violate the UN Charter’s prohibition on the use of force to shape another nation’s political future. Sachs details a pattern of U.S. interventions since 1947, including economic sanctions and military threats, and warns that the Security Council’s failure to uphold international law could have catastrophic consequences, especially in the nuclear age. He calls for the immediate cessation of U.S. military actions in Venezuela and the appointment of a Special Envoy to facilitate dialogue, stressing that “the UN Charter is a vital instrument for global peace and order.”
+  The most recent analysis by **Jeffrey Sachs** highlights the intensification of U.S.-Israeli hybrid warfare against Iran. Sachs argues that, in the nuclear age, Washington has become “addicted” to forms of indirect conflict—sanctions, covert operations, and misinformation—rather than pursuing open war. This approach, he notes, has led to widespread chaos and suffering in targeted countries, while serving the interests of the military-industrial complex. Sachs contends that such tactics are not only illegal under international law but also counterproductive, as they drive affected nations to seek alternatives to the U.S.-dominated global financial system.
   
-  Meanwhile, the debate over European security continues to be shaped by what **Sachs** describes as “structural Russophobia.” In his December 25, 2025 analysis, Sachs argues that Europe’s historical refusal to recognize Russia as a legitimate security actor has repeatedly undermined prospects for peace, from the Crimean War to the present. He contends that Europe’s tendency to dismiss Russian security concerns while normalizing its own actions perpetuates instability and mistrust. Sachs asserts that “lasting peace requires Europe to acknowledge and incorporate Russian security interests into its diplomatic framework.”
+  On the economic front, the continued weaponization of the U.S. dollar and financial networks is prompting a global search for alternatives. As Sachs observes, “such actions are illegal, harmful, and increasingly prompting other nations to seek alternatives to the US dollar in international trade.” This trend is accelerating as countries subjected to sanctions—most notably Iran and Venezuela—forge new economic partnerships and experiment with non-dollar transactions, a development that could undermine U.S. financial hegemony in the medium term.
   
-  On the Middle East front, the U.S. and Israel’s approach to Gaza remains under scrutiny. Previous reports have highlighted the Trump administration’s efforts to establish U.S. control over Gaza through a proposed UN Security Council resolution, effectively sidelining Palestinian sovereignty. Sachs and other analysts have consistently criticized these moves as a return to colonial-style governance, warning that they risk indefinite occupation and further violence.
+  Meanwhile, the Trump administration’s foreign policy remains characterized by unilateralism and disregard for international norms. Sachs has criticized the 2025 National Security Strategy for promoting “a dangerous and hubristic view of U.S. supremacy and coercion,” warning that this approach is alienating allies and eroding American influence. In the Middle East, U.S. efforts to reshape the region—particularly through support for Israeli military actions and attempts to impose new governance structures in Palestine—have failed to address the root causes of conflict and have instead perpetuated instability.
   
-  **Trends and Predictions:**  
-  The majority of independent analysts, as reflected in Sachs’ recent writings, see a high likelihood of continued U.S. unilateralism, with Washington favoring coercive tactics over diplomacy in both Latin America and the Middle East. There is a high chance that European security policy will remain hamstrung by its reluctance to engage Russia as an equal partner, perpetuating cycles of mistrust and instability. Regarding Venezuela, Sachs expresses high confidence that unless the U.S. shifts towards genuine dialogue and respect for international law, the crisis will deepen, with significant humanitarian and geopolitical consequences. On the Middle East, the prospects for a genuine two-state solution remain dim unless there is a fundamental change in U.S. and Israeli policy; Sachs warns that failure to do so will “most definitely” prolong conflict and isolation for both nations.
-  
-  In summary, the current trajectory points toward escalating tensions and missed opportunities for peace, unless major powers recommit to international law, diplomacy, and mutual security.
+  Looking ahead, the majority view among independent analysts is that U.S. reliance on hybrid warfare and economic coercion will continue to provoke resistance and drive geopolitical realignment. There is a high chance that more countries will diversify away from the dollar and seek regional solutions to security and economic challenges. As for the Middle East, unless there is a fundamental shift toward genuine diplomacy and respect for sovereignty, the cycle of violence and instability is quite likely to persist. I guarantee that without a change in U.S. strategy, these trends will only deepen, further undermining global security and the international order.
 articles:
+  - title: In Iran, the US-Israeli addiction to hybrid warfare is on full display
+    url: https://www.aljazeera.com/opinions/2026/1/19/in-iran-the-us-israeli-addiction-to-hybrid-warfare-is-on-full-display
+    text: 'In the nuclear age, the United States has to refrain from all-out war since
+      it can easily lead to nuclear escalation. Instead, it wages hybrid wars.
+
+
+      In recent weeks, we have witnessed two such conflicts: in Venezuela and Iran.
+      Both have been waged through a combination of crushing economic sanctions, targeted
+      military strikes, cyberwarfare, stoking unrest and unrelenting misinformation
+      campaigns. Both are long-term CIA projects that have recently escalated. Both
+      will lead to further chaos.
+
+
+      The US has long had two goals vis-a-vis Venezuela: to gain control over its vast
+      oil reserves in the Orinoco Belt and to overthrow its leftist government, which
+      has been in power since 1999. America’s hybrid war against Venezuela dates to
+      2002 when the CIA helped to support a coup attempt against President Hugo Chavez.
+      When that failed, the US ramped up other hybrid measures, including economic sanctions,
+      the confiscation of Venezuela’s dollar reserves and measures to cripple Venezuela’s
+      oil production, which eventually collapsed. Despite the chaos sown by the US,
+      the hybrid war did not bring down the government.
+
+
+      US President Donald Trump has now escalated to bombing Caracas, kidnapping President
+      Nicolas Maduro, stealing Venezuelan oil shipments and imposing a naval blockade,
+      which, of course, is an act of war. It also seems likely that Trump is thereby
+      enriching powerful pro-Zionist campaign funders who have their eyes on seizing
+      Venezuelan oil assets.
+
+
+      Zionist interests also have their eye on toppling the Venezuelan government since
+      it has long supported the Palestinian cause and maintained close relations with
+      Iran. Israeli Prime Minister Benjamin Netanyahu has cheered on the US attack on
+      Venezuela, calling it the “perfect operation”.
+
+
+      Advertisement
+
+
+      The United States along with Israel is also simultaneously escalating its ongoing
+      hybrid war against Iran. We can expect US and Israeli subversion, air strikes
+      and targeted assassinations. The difference with Venezuela is that the hybrid
+      war on Iran can easily escalate into a devastating regional war, even a global
+      one. US allies in the region, especially the Gulf countries, have been engaged
+      in intensive diplomatic efforts to persuade Trump to back down and avoid military
+      action.
+
+
+      The war on Iran has a history even longer than the war on Venezuela. The first
+      US intervention in the country dates back to 1953 when democratically elected
+      Prime Minister Mohammad Mossadegh nationalised Iran’s oil in defiance of the Anglo-Persian
+      Oil Company (today’s BP).
+
+
+      The CIA and MI6 orchestrated Operation Ajax to depose Mossadegh through a mix
+      of propaganda, street violence and political interference. They reinstated Mohammed
+      Reza Pahlavi, who had fled the country, fearing Mossadegh, and helped the shah
+      solidify his grip on power. The CIA also supported the shah by helping create
+      his notorious secret police, SAVAK, which crushed dissent through surveillance,
+      censorship, imprisonment and torture.
+
+
+      Eventually this repression led to a revolution that swept Ayatollah Ruhollah Khomeini
+      to power in 1979. During the revolution, students seized US hostages in Tehran
+      after the US admitted the shah for medical treatment, leading to fear that the
+      US would try to reinstall him in power. The hostage crisis further poisoned the
+      relations between Iran and the US.
+
+
+      From then onwards, the US has plotted to torment Iran and overthrow its government.
+      Among the countless hybrid actions the US has undertaken was funding Iraq in the
+      1980s to wage war on Iran, leading to hundreds of thousands of deaths but failing
+      to topple the government.
+
+
+      The US-Israeli objective vis-a-vis Iran is the opposite of a negotiated settlement
+      that would normalise its position in the international system while constraining
+      its nuclear programme. The real objective is to keep Iran economically broken,
+      diplomatically cornered and internally pressured. Trump has repeatedly undercut
+      negotiations that could have led to peace, starting with his withdrawal from the
+      2016 Joint Comprehensive Plan of Action (JCPOA), an agreement that had seen Iran’s
+      nuclear energy activities monitored and economic sanctions removed.
+
+
+      Understanding the hybrid war tactics helps to explain why Trump’s rhetoric oscillates
+      so abruptly between threats of war and false offers of peace. Hybrid warfare thrives
+      on contradictions, ambiguities and outright deceit.
+
+
+      Advertisement
+
+
+      Last summer, the US was supposed to have negotiations with Iran on June 15 but
+      supported Israel’s bombing of the country two days earlier. For this reason, signs
+      of de-escalation in recent days should not be taken at face value. They can all
+      too readily be followed by a direct military attack.
+
+
+      The examples of Venezuela and Iran demonstrate just how addicted the US and Israel
+      are to hybrid warfare. Acting together, the CIA, Mossad, allied military contractors
+      and security agencies have fomented turmoil across Latin America and the Middle
+      East for decades.
+
+
+      They have upended the lives of hundreds of millions of people, blocked economic
+      development, created terror and generated mass refugee waves. They have nothing
+      to show for spending billions on covert and overt operations beyond the chaos
+      itself.
+
+
+      There is no security, no peace, no stable pro-US or pro-Israel alliance, only
+      suffering. In the process, the US is also going out of its way to undermine the
+      United Nations Charter, which it brought to life in the aftermath of World War
+      II. The UN Charter makes clear that hybrid warfare violates the very basis of
+      international law, which calls on countries to refrain from the use of force against
+      other countries.
+
+
+      There is one beneficiary of hybrid war, and that is the military-tech industrial
+      complex in the US and Israel. US President Dwight Eisenhower warned us in his
+      1961 farewell address of the profound danger of the military-industrial complex
+      to society. His warning has come to pass even more than he imagined as it is now
+      powered by artificial intelligence, mass propaganda and a reckless US foreign
+      policy.
+
+
+      The world’s best hope is that the other 191 countries of the UN besides the US
+      and Israel finally say no to their addiction to hybrid war: no to regime-change
+      operations, no to unilateral sanctions, no to the weaponisation of the dollar
+      and no to the repudiation of the UN Charter.
+
+
+      The American people do not support the lawlessness of their own government, but
+      they have a very hard time making their opposition heard. They and almost all
+      the rest of the world want the US deep state brutality to end before it’s too
+      late.
+
+
+      The views expressed in this article are the authors’ own and do not necessarily
+      reflect Al Jazeera’s editorial stance.'
+    one_sentence_summary: The article argues that the United States, in the nuclear
+      age, resorts to hybrid warfare—such as economic sanctions, military strikes, and
+      misinformation campaigns—against countries like Venezuela and Iran to achieve
+      its geopolitical goals without escalating to all-out war, ultimately causing chaos
+      and suffering while benefiting the military-industrial complex.
+    paragraph_summary: The article discusses the United States' strategy of engaging
+      in hybrid wars, particularly in Venezuela and Iran, as a means to avoid all-out
+      conflict that could escalate to nuclear war. It outlines the U.S. efforts to destabilize
+      Venezuela through economic sanctions, military actions, and misinformation campaigns
+      aimed at overthrowing its leftist government and gaining control of its oil reserves.
+      Similarly, the U.S. has a long history of hybrid warfare against Iran, seeking
+      to undermine its government and prevent it from achieving a stable international
+      standing. The article highlights the detrimental effects of these strategies,
+      which have led to chaos, suffering, and violations of international law, while
+      benefiting the military-industrial complex. It calls for a collective rejection
+      of such warfare by the international community and emphasizes the need for the
+      American public to voice their opposition to their government's actions.
+    published: '2026-01-26T06:00:48.377745+00:00'
+  - title: Economic Statecraft’ Exposed:A Key Pillar of US Hybrid Warfare for All to
+      See
+    url: https://www.commondreams.org/opinion/economic-statecraft
+    text: 'John Maynard Keynes famously wrote in The Economic Consequences of the Peace
+      (1919): “There is no subtler, no surer means of overturning the existing basis
+      of Society than to debauch the currency. The process engages all the hidden forces
+      of economic law on the side of destruction, and does it in a manner which not
+      one man in a million is able to diagnose.”
+
+
+      The United States mastered this art of destruction by weaponizing the dollar and
+      using economic sanctions and financial policies to cause the currencies of targeted
+      countries to collapse. On January 19, we published “The US–Israel Hybrid War Against
+      Iran,” describing how the United States and Israel are waging hybrid wars on Venezuela
+      and Iran through a coordinated strategy of economic sanctions, financial coercion,
+      cyber operations, political subversion, and information warfare. This hybrid war
+      has been designed to break the currencies of Iran and Venezuela in order to provoke
+      internal unrest and ultimately regime change.
+
+
+      On January 20, just one day after our article, US Treasury Secretary Scott Bessent
+      publicly confirmed, without qualification, apology, or ambiguity, that our description
+      is indeed the official US policy.
+
+
+      It is high time that the world’s nations face up to America’s rogue economic behavior...
+      This lawlessness is illegal, reckless, harmful, destabilizing, and ultimately
+      ineffective in achieving America’s own goals, much less global objectives.
+
+
+      In an interview at Davos , Secretary Bessent explained in detail how US Treasury
+      sanctions were deliberately designed to drive Iran’s currency to collapse, cripple
+      its banking system, and drive Iran’s population into the streets. This is the
+      “maximum pressure” campaign to deny Iran access to international finance, trade,
+      and payment systems. Bessent explained:
+
+
+      President Trump ordered Treasury and our OFAC division, Office of Foreign Asset
+      Control, to put maximum pressure on Iran. And it’s worked, because in December,
+      their economy collapsed. We saw a major bank go under; the central bank has started
+      to print money. There is dollar shortage. They are not able to get imports, and
+      this is why the people took to the street.
+
+
+      This is the explicit causal chain whereby US sanctions caused the currency to
+      collapse and the banking system to fail. This monetary instability led to import
+      shortages and economic suffering, causing the unrest. Bessent concluded by characterizing
+      the US’ actions as “economic statecraft,” and Iran’s economic collapse as a “positive”
+      development:
+
+
+      So, this is economic statecraft, no shots fired, and things are moving in a very
+      positive way here.
+
+
+      What Secretary Bessent describes is of course not “economic statecraft” in a traditional
+      sense. It is war conducted by economic means, all designed to produce an economic
+      crisis and social unrest leading to a fall of the government. This is proudly
+      hailed as “economic statecraft.”
+
+
+      The human suffering caused by outright war and crushing economic sanctions is
+      not so different as one might think. Economic collapse produces shortages of food,
+      medicine, and fuel, while also destroying savings, pensions, wages, and public
+      services. Deliberate economic collapse drives people into poverty, malnutrition,
+      and premature death, just as outright war does.
+
+
+      This pattern of suffering as the result of US sanctions is well documented. A
+      landmark study in The Lancet by Francisco Rodríguez and colleagues shows that
+      sanctions are significantly associated with sharp increases in mortality, with
+      the strongest effects found for unilateral, economic, and US sanctions, and an
+      overall death toll comparable to that of armed conflict.
+
+
+      Economic warfare of this kind violates the foundational principles of international
+      law and the UN Charter . Unilateral sanctions imposed outside the authority of
+      the UN Security Council, especially when designed to cause civilian hardship,
+      are illegal. Hybrid warfare does not evade international law by avoiding bombing
+      (though the US and Israel have also illegally bombed Iran, of course.) The illegality
+      of US “economic statecraft” applies not only to Iran and Venezuela, but to dozens
+      more countries being harmed by US sanctions.
+
+
+      While the US sanctions work in the short run to create misery, their incessant
+      use is rapidly encouraging other economies to decouple from the US financial stranglehold.
+
+
+      Europe has perhaps begun to learn that being complicit in America’s economic crimes
+      is no salvation, since Trump’s government is now turning on Europe in the same
+      way, albeit with tariffs rather than sanctions. Trump has threatened Europe with
+      tariffs for not turning over Greenland to the US, though he rescinded that threat
+      at least temporarily. When Trump “invited” France to join Trump’s Board of Peace,
+      he threatened to impose a 200% tariff on French wine if France declined the invitation.
+      And on and on.
+
+
+      The United States can wage this kind of comprehensive economic warfare because
+      the dollar is the key currency in the global financial system. If third countries
+      don’t comply with US sanctions on Iran and Venezuela, the US threatens to impose
+      sanctions on the banks of those third countries, specifically to cut them out
+      of dollar-based settlements (known as the SWIFT system). In this way, the US enforces
+      its sanctions on countries that otherwise would be happy to continue trading with
+      the countries that the US is trying to drive to economic collapse.
+
+
+      While the US sanctions work in the short run to create misery, their incessant
+      use is rapidly encouraging other economies to decouple from the US financial stranglehold.
+      The BRICS nations, and many others, are expanding the conduct of international
+      trade in their own currencies, thereby building alternatives to the use of the
+      US dollar and thus avoiding these sanctions. The US ability to impose its financial
+      and trade sanctions on other countries will decline soon, probably precipitously
+      in the coming years.
+
+
+      It is high time that the world’s nations face up to America’s rogue economic behavior.
+      The US has been waging economic warfare with increasing intensity, all the while
+      calling it “economic statecraft.” This lawlessness is illegal, reckless, harmful,
+      destabilizing, and ultimately ineffective in achieving America’s own goals, much
+      less global objectives. Europe has been looking the other way until now. Perhaps
+      now that Europe too is under threat, it will wake up and join the rest of the
+      world to put a stop to America’s brazen and illegal behavior.'
+    one_sentence_summary: The article critiques the United States' use of economic sanctions
+      and financial policies as a form of "economic warfare" to destabilize countries
+      like Iran and Venezuela, arguing that such actions are illegal, harmful, and increasingly
+      prompting other nations to seek alternatives to the US dollar in international
+      trade.
+    paragraph_summary: The article discusses the United States' use of economic sanctions
+      and financial policies as a form of warfare, particularly against countries like
+      Iran and Venezuela, which has led to significant currency collapse and social
+      unrest. Citing US Treasury Secretary Scott Bessent's comments, it argues that
+      these sanctions are designed to cripple economies and provoke internal dissent,
+      framing this strategy as "economic statecraft." The author highlights the severe
+      humanitarian consequences of such actions, likening the suffering caused by economic
+      collapse to that of armed conflict, and notes that these unilateral sanctions
+      violate international law. Furthermore, the article suggests that the persistent
+      use of US sanctions is prompting other nations to seek alternatives to the dollar,
+      potentially diminishing America's financial influence in the future. It calls
+      for global recognition of the US's "rogue economic behavior" and urges a collective
+      response to halt these practices.
+    published: '2026-01-24T14:05:02+00:00'
   - title: Time for US to stop violating UN charter
     url: https://www.chinadaily.com.cn/a/202601/08/WS695ee652a310d6866eb328d9.html
     text: 'An American flag flies outside of the US Capitol dome in Washington, US,

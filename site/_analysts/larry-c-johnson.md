@@ -7,18 +7,1738 @@ description: "Former CIA analyst & State Dept counterterrorism official; runs So
 websites:
   - https://sonar21.com
 summary: |
-  The geopolitical landscape remains tense as misinformation, economic threats, and questions of leadership dominate the latest developments. The ongoing crises in Ukraine, the Middle East, and Western political circles continue to shape the global outlook.
+  Amid ongoing global economic and political realignments, recent developments highlight accelerating shifts in currency markets, persistent questions over U.S. leadership, and the consequences of American domestic and foreign policy decisions.
   
-  The most recent controversy centers on the quality of intelligence and public discourse regarding the Ukraine conflict. **Larry C. Johnson** sharply criticizes the latest Substack article by Sy Hersh, "PUTIN’S LONG WAR," labeling it as "filled with false claims and propaganda." Johnson argues that such misrepresentations not only damage Hersh’s legacy but also reflect poorly on the analytical competence of the US intelligence community. This episode underscores growing skepticism about the reliability of Western narratives on the Russia-Ukraine war, with Johnson suggesting a widening gap between official statements and on-the-ground realities.
+  The latest analysis by **Larry C. Johnson** underscores a dramatic surge in gold and silver prices, directly linked to the BRICS countries' coordinated move away from the U.S. dollar. Central banks are purchasing record amounts of precious metals, a trend Johnson attributes to the failure of Donald Trump’s tariff-driven policies to revitalize the U.S. industrial base. This, he argues, signals a potential decline in dollar dominance: “Countries are increasingly shifting away from the US dollar towards gold and silver… signaling a potential decline in dollar dominance.” The implication is clear—if this trajectory continues, the global financial system may see a significant rebalancing, with high confidence that dollar supremacy will further erode.
   
-  Meanwhile, economic anxieties are mounting in response to US policy proposals. Johnson highlights reports from the Metals and Markets channel about a potential financial crisis triggered by a developing "silver arbitrage trap." This situation is being exacerbated by former President Trump’s threats to impose new tariffs on imports from select EU nations and the UK. The disruption of global silver flows could have far-reaching consequences for financial markets, particularly if retaliatory measures follow. Johnson notes, "There is a high chance that such tariffs could destabilize not just silver markets but broader transatlantic economic relations."
+  On the political front, Johnson’s recent commentary draws parallels between Trump’s self-perception and historical appeasement strategies, suggesting that while Trump’s ambitions are fraught with risk, his re-election could be seen by some as a lesser evil in preventing global conflict. However, Johnson remains critical of Trump’s leadership style and the effectiveness of his policies, noting, “Donald Trump’s tariff-driven efforts to revitalize the US industrial base are failing.”
   
-  On the domestic front, the debate over Donald Trump’s fitness for office has intensified. Johnson draws a parallel between the need to invoke the 25th Amendment and the difficult decision of taking car keys from an impaired elderly parent, arguing that Trump’s mental and physical state now poses a risk to national security. This call for action reflects a growing consensus among critics that leadership instability in Washington could have significant geopolitical repercussions.
+  Domestically, concerns over the use of force by federal agencies persist. Johnson criticizes the ATF’s recent pre-dawn raid that resulted in the death of Bryan Malinowski, arguing that the situation could have been resolved peacefully. This incident, coupled with previous controversial law enforcement actions, continues to fuel debate over accountability and proportionality in U.S. domestic security operations.
   
-  Looking ahead, the trends point to continued volatility. The credibility crisis surrounding Western intelligence assessments is likely to deepen, especially as alternative narratives gain traction. Economic risks tied to protectionist policies are "quite likely" to escalate, potentially sparking broader financial instability. Finally, the question of US leadership remains unresolved, with Johnson stating there is a "high chance" of intensified political infighting in the coming weeks.
-  
-  In summary, the intersection of contested narratives, economic brinkmanship, and political uncertainty is shaping a precarious global environment. Most definitely, these factors will continue to drive instability and unpredictability in the near term.
+  In summary, the prevailing trends point to a weakening of U.S. dollar hegemony, growing skepticism about American leadership both at home and abroad, and heightened scrutiny of federal law enforcement practices. Looking ahead, Johnson expresses high confidence that the global shift away from the dollar will accelerate, and that domestic tensions over security and governance will remain prominent issues in the U.S. political landscape.
 articles:
+  - title: Are the BRICS Countries a Key Factor in the Massive Surge in the Price of
+      Silver and Gold?
+    url: https://sonar21.com/are-the-brics-countries-a-key-factor-in-the-massive-surge-in-the-price-of-silver-and-gold/
+    text: 'Donald Trump’s attempt to rebuild the US industrial base by using tariffs
+      is failing and is accelerating the development of the BRICS nations into an alternative
+      financial infrastructure that is not dependent on the US dollar as a reserve currency.
+      The price of gold and silver has exploded to historic levels during the past two
+      weeks. But this move did not just start in 2026… Central banks globally bought
+      record amounts of gold in 2025 (~1,000+ tons), with India and China leading the
+      charge as they sell Treasuries. This diversification is explicit: Nations are
+      replacing dollar assets with precious metals to mitigate risks from US debt levels
+      ($38.5 trillion) and potential sanctions/tariffs. Silver, while less central to
+      reserves, has seen increased sovereign interest amid its industrial demand surge
+      (e.g., in solar/EVs). This trend signals concerns over the “end of US dollar dominance”
+      and a pivot to commodities. The surge in gold and silver prices to record nominal
+      highs in January 2026—gold exceeding $5,000 per ounce and silver surpassing $110
+      per ounce—does not literally represent levels unseen in the past 300 years when
+      adjusted for inflation. Historical data shows gold reached inflation-adjusted
+      peaks around $3,000–$4,000 per ounce in the early 1980s (during geopolitical crises
+      and high inflation), and silver hit real highs of over $150 per ounce in 1980.
+      However, the current rally is driven by a confluence of factors making these metals
+      exceptionally attractive: Geopolitical Uncertainty and Safe-Haven Demand: Escalating
+      global tensions (e.g., U.S. tariff threats on allies like Canada/Mexico/China,
+      ongoing wars in Ukraine and the Middle East) have boosted gold as a hedge against
+      instability. Central banks (especially in China, India, and Russia) accumulated
+      record gold reserves in 2025–2026, with purchases exceeding 1,000 tons annually.
+      Silver benefits similarly but also from its industrial role. Industrial and Green
+      Energy Demand: Silver’s use in solar panels, EVs, electronics, and semiconductors
+      has driven consumption to record 680 million ounces in 2025, creating persistent
+      supply deficits (mine output lags demand by 150–200 million ounces annually).
+      Gold demand from ETFs and investors surged amid U.S. shutdown fears and tariffs.
+      Economic Factors: U.S. policy uncertainty (tariffs up to 100% threatened by Trump),
+      global oversupply concerns, and a weakening dollar have fueled the rally. Analysts
+      predict gold could hit $6,000 and silver $125–$300 by end-2026 if trends continue.
+      And then there is the BRICS -effect. .. There is substantial evidence that several
+      nations—particularly emerging economies like China, India, and Brazil—have been
+      selling off portions of their US Treasury bill holdings in recent years (including
+      2025–2026) and reallocating some of those funds into physical gold and silver
+      reserves. This trend is driven by a combination of geopolitical risks (e.g., US
+      tariffs and sanctions), a desire for diversification away from dollar-denominated
+      assets, inflationary pressures, and the appeal of precious metals as safe-haven
+      stores of value amid global uncertainty. While not all nations are doing this
+      uniformly (e.g., some European investors increased Treasury holdings in 2025),
+      the pattern is clear among key BRICS members and central banks, as detailed in
+      recent reports and data. China and India are Leading the Trend : In recent months
+      (through late 2025 and early 2026), China and India have significantly reduced
+      their US Treasury holdings. China, the second-largest foreign holder (after Japan),
+      has sold off billions in Treasuries amid escalating US tariffs (up to 100% threatened
+      by the Trump administration) and a push for de-dollarization. India has followed
+      suit, trimming its holdings while ramping up gold purchases. This is part of a
+      broader “global gold rush” where these nations are dumping Treasuries to hedge
+      against US policy volatility. Brazil has also reduced its Treasury exposure in
+      the past three years, aligning with a coordinated BRICS strategy to lessen reliance
+      on the US dollar. This includes selling Treasuries and increasing gold reserves
+      as a buffer against potential US economic pressures. Other foreign investors also
+      accelerated sales of US debt in 2025, contributing to gold’s surge past $4,800
+      per ounce. For instance, Denmark sold $100 million in Treasuries in a move signaling
+      broader repatriation risks. Japan may follow with capital repatriation, potentially
+      selling more Treasuries amid rising US yields. However, not all are selling—European
+      buyers piled into Treasuries in 2025 (accounting for 80% of foreign inflows from
+      April–November), showing a mixed global picture. It is that last fact that is
+      a head scratcher… Because the US Treasury is having more trouble finding foreign
+      buyers for US debt, you would think that the US would want to avoid antagonizing
+      European buyers. Well, you thought wrong. Trump’s imperial antics regarding Greenland
+      have roiled US relations with Europe and with NATO. Do you think that the previous
+      European buyers of T-bills are now motivated to buy more? Or has Donald Trump’s
+      unpredictable, abrasive threats created incentives for those nations to sell their
+      T-bills and buy gold and silver? We will see. Now for a seemingly unrelated question…
+      Will the volatility in the commodities markets for gold and silver affect Donald
+      Trump’s decision to launch a new attack on Iran? If the US decides to attack Iran
+      I think there is a high probability that Iran will shutdown the Strait of Hormuz,
+      which would disrupt 45% of the world’s daily oil supply. That would trigger an
+      immediate surge in the price of oil and would likely create major economic problems
+      for those nations dependent on oil flowing out of the Persian Gulf. The dampening
+      effect on the economies of major importers of Persian Gulf oil could be mitigated
+      by the amount of strategic reserves that the affected countries have. High-dependency
+      countries (e.g., China, India, Japan, South Korea—importing 50–90%+ of oil from
+      Gulf) could maintain supplies for 30–60 days using existing stockpiles and enacting
+      emergency measures. A prolonged closure (beyond 60 days) would strain just-in-time
+      inventories and cause severe shortages. I did two podcasts today — the first with
+      Marcello (i.e., Press of Mass Destruction ) and Rasheed Mohammad (I.e., TheRedPill
+      Diaries ): I also had a chat with East Calling: https://open.substack.com/pub/eastcalling/p/larry-johnson-and-eastcalling-january-de3?utm_campaign=post&utm_medium=web
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: Donald Trump's tariff-driven efforts to revitalize the US
+      industrial base are failing, prompting countries to increasingly shift away from
+      the US dollar towards gold and silver, as evidenced by record central bank purchases
+      and soaring precious metal prices, signaling a potential decline in dollar dominance.
+    paragraph_summary: Donald Trump's strategy to revitalize the US industrial base
+      through tariffs is faltering, inadvertently fostering the emergence of BRICS nations
+      as a viable alternative financial system that diminishes reliance on the US dollar.
+      This shift is evidenced by a dramatic surge in gold and silver prices, reaching
+      historic highs in January 2026, with gold surpassing $5,000 per ounce and silver
+      exceeding $110 per ounce. The trend began in 2025 when global central banks, particularly
+      in India and China, purchased over 1,000 tons of gold, opting for precious metals
+      over US dollar assets to hedge against rising US debt and potential sanctions.
+      This pivot is further fueled by geopolitical tensions and an increasing industrial
+      demand for silver, particularly in renewable energy sectors. The current rally
+      in precious metals, while not unprecedented when adjusted for inflation, reflects
+      a significant shift in global financial dynamics and concerns over the sustainability
+      of US dollar dominance.
+    published: '2026-01-28T03:22:06+00:00'
+  - title: Are the BRICS Countries a Key Factor in the Massive Surge in the Price of
+      Silver and Gold?
+    url: https://sonar21.com/are-the-brics-countries-a-key-factor-in-the-massive-surge-in-the-price-of-silver-and-gold/
+    text: 'Donald Trump’s attempt to rebuild the US industrial base by using tariffs
+      is failing and is accelerating the development of the BRICS nations into an alternative
+      financial infrastructure that is not dependent on the US dollar as a reserve currency.
+      The price of gold and silver has exploded to historic levels during the past two
+      weeks. But this move did not just start in 2026… Central banks globally bought
+      record amounts of gold in 2025 (~1,000+ tons), with India and China leading the
+      charge as they sell Treasuries. This diversification is explicit: Nations are
+      replacing dollar assets with precious metals to mitigate risks from US debt levels
+      ($38.5 trillion) and potential sanctions/tariffs. Silver, while less central to
+      reserves, has seen increased sovereign interest amid its industrial demand surge
+      (e.g., in solar/EVs). This trend signals concerns over the “end of US dollar dominance”
+      and a pivot to commodities. The surge in gold and silver prices to record nominal
+      highs in January 2026—gold exceeding $5,000 per ounce and silver surpassing $110
+      per ounce—does not literally represent levels unseen in the past 300 years when
+      adjusted for inflation. Historical data shows gold reached inflation-adjusted
+      peaks around $3,000–$4,000 per ounce in the early 1980s (during geopolitical crises
+      and high inflation), and silver hit real highs of over $150 per ounce in 1980.
+      However, the current rally is driven by a confluence of factors making these metals
+      exceptionally attractive: Geopolitical Uncertainty and Safe-Haven Demand: Escalating
+      global tensions (e.g., U.S. tariff threats on allies like Canada/Mexico/China,
+      ongoing wars in Ukraine and the Middle East) have boosted gold as a hedge against
+      instability. Central banks (especially in China, India, and Russia) accumulated
+      record gold reserves in 2025–2026, with purchases exceeding 1,000 tons annually.
+      Silver benefits similarly but also from its industrial role. Industrial and Green
+      Energy Demand: Silver’s use in solar panels, EVs, electronics, and semiconductors
+      has driven consumption to record 680 million ounces in 2025, creating persistent
+      supply deficits (mine output lags demand by 150–200 million ounces annually).
+      Gold demand from ETFs and investors surged amid U.S. shutdown fears and tariffs.
+      Economic Factors: U.S. policy uncertainty (tariffs up to 100% threatened by Trump),
+      global oversupply concerns, and a weakening dollar have fueled the rally. Analysts
+      predict gold could hit $6,000 and silver $125–$300 by end-2026 if trends continue.
+      And then there is the BRICS -effect. .. There is substantial evidence that several
+      nations—particularly emerging economies like China, India, and Brazil—have been
+      selling off portions of their US Treasury bill holdings in recent years (including
+      2025–2026) and reallocating some of those funds into physical gold and silver
+      reserves. This trend is driven by a combination of geopolitical risks (e.g., US
+      tariffs and sanctions), a desire for diversification away from dollar-denominated
+      assets, inflationary pressures, and the appeal of precious metals as safe-haven
+      stores of value amid global uncertainty. While not all nations are doing this
+      uniformly (e.g., some European investors increased Treasury holdings in 2025),
+      the pattern is clear among key BRICS members and central banks, as detailed in
+      recent reports and data. China and India are Leading the Trend : In recent months
+      (through late 2025 and early 2026), China and India have significantly reduced
+      their US Treasury holdings. China, the second-largest foreign holder (after Japan),
+      has sold off billions in Treasuries amid escalating US tariffs (up to 100% threatened
+      by the Trump administration) and a push for de-dollarization. India has followed
+      suit, trimming its holdings while ramping up gold purchases. This is part of a
+      broader “global gold rush” where these nations are dumping Treasuries to hedge
+      against US policy volatility. Brazil has also reduced its Treasury exposure in
+      the past three years, aligning with a coordinated BRICS strategy to lessen reliance
+      on the US dollar. This includes selling Treasuries and increasing gold reserves
+      as a buffer against potential US economic pressures. Other foreign investors also
+      accelerated sales of US debt in 2025, contributing to gold’s surge past $4,800
+      per ounce. For instance, Denmark sold $100 million in Treasuries in a move signaling
+      broader repatriation risks. Japan may follow with capital repatriation, potentially
+      selling more Treasuries amid rising US yields. However, not all are selling—European
+      buyers piled into Treasuries in 2025 (accounting for 80% of foreign inflows from
+      April–November), showing a mixed global picture. It is that last fact that is
+      a head scratcher… Because the US Treasury is having more trouble finding foreign
+      buyers for US debt, you would think that the US would want to avoid antagonizing
+      European buyers. Well, you thought wrong. Trump’s imperial antics regarding Greenland
+      have roiled US relations with Europe and with NATO. Do you think that the previous
+      European buyers of T-bills are now motivated to buy more? Or has Donald Trump’s
+      unpredictable, abrasive threats created incentives for those nations to sell their
+      T-bills and buy gold and silver? We will see. Now for a seemingly unrelated question…
+      Will the volatility in the commodities markets for gold and silver affect Donald
+      Trump’s decision to launch a new attack on Iran? If the US decides to attack Iran
+      I think there is a high probability that Iran will shutdown the Strait of Hormuz,
+      which would disrupt 45% of the world’s daily oil supply. That would trigger an
+      immediate surge in the price of oil and would likely create major economic problems
+      for those nations dependent on oil flowing out of the Persian Gulf. The dampening
+      effect on the economies of major importers of Persian Gulf oil could be mitigated
+      by the amount of strategic reserves that the affected countries have. High-dependency
+      countries (e.g., China, India, Japan, South Korea—importing 50–90%+ of oil from
+      Gulf) could maintain supplies for 30–60 days using existing stockpiles and enacting
+      emergency measures. A prolonged closure (beyond 60 days) would strain just-in-time
+      inventories and cause severe shortages. I did two podcasts today — the first with
+      Marcello (i.e., Press of Mass Destruction ) and Rasheed Mohammad (I.e., TheRedPill
+      Diaries ): I also had a chat with East Calling: https://open.substack.com/pub/eastcalling/p/larry-johnson-and-eastcalling-january-de3?utm_campaign=post&utm_medium=web
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: Donald Trump's tariff-driven efforts to revitalize the US
+      industrial base are failing, prompting countries to increasingly shift away from
+      the US dollar towards gold and silver, as evidenced by record central bank purchases
+      and soaring precious metal prices, signaling a potential decline in dollar dominance.
+    paragraph_summary: Donald Trump's strategy to revitalize the US industrial base
+      through tariffs is faltering, inadvertently fostering the emergence of BRICS nations
+      as a viable alternative financial system that diminishes reliance on the US dollar.
+      This shift is evidenced by a dramatic surge in gold and silver prices, reaching
+      historic highs in January 2026, with gold surpassing $5,000 per ounce and silver
+      exceeding $110 per ounce. The trend began in 2025 when global central banks, particularly
+      in India and China, purchased over 1,000 tons of gold, opting for precious metals
+      over US dollar assets to hedge against rising US debt and potential sanctions.
+      This pivot is further fueled by geopolitical tensions and an increasing industrial
+      demand for silver, particularly in renewable energy sectors. The current rally
+      in precious metals, while not unprecedented when adjusted for inflation, reflects
+      a significant shift in global financial dynamics and concerns over the sustainability
+      of US dollar dominance.
+    published: '2026-01-28T03:22:06+00:00'
+  - title: Delusions of Grandeur and Betrayal
+    url: https://sonar21.com/delusions-of-grandeur-and-betrayal/
+    text: 'Donald Trump sees himself as the greatest—no rules apply to him, and since
+      he didn’t receive the Nobel Peace Prize, he no longer loves peace. He believes
+      he has conquered Venezuela and is turning his attention to Greenland. It reeks
+      of the 1938 Munich Conference. By Peter Hanseler via ForumGeopolitica.com There
+      is a high risk that history will repeat itself. Image: Chamberlain (left) surrendered
+      Czechoslovakia in Munich in 1938 without involving the country in the negotiations;
+      (right) Mark Rutte, as NATO Secretary General, is in the process of selling off
+      part of Greenland to the Americans. Introduction When the question arose in 2024
+      as to whether Biden or Trump should be recommended for election, we believed that
+      Trump was the better choice over Harris, as the former did not belong to the deep
+      state. That was our assessment. We believed this was the only way to prevent World
+      War III. Many of my colleagues felt the same way. President Putin’s statement
+      in September 2024 that he would prefer Harris because she was more predictable
+      could become a prophecy in the future, even though Sergei Lavrov dismissed Putin’s
+      statement as a joke—but every joke has a grain of truth. Today, we know that Donald
+      Trump is completely unpredictable and as dangerous as nitroglycerin. In “ Diplomacy
+      on the Deathbed – From Peace President to Warmonger ,” published in June 2025,
+      I was already extremely concerned when Trump briefly bombed Iran, only to back
+      down after twelve days when he realized that Iran was not only capable of defending
+      itself, but could also reduce Tel Aviv to rubble. At the time, I wrote: “Rational
+      thinking takes you past the deathbed of diplomacy and straight onto the wrong
+      track.” ForumGeopolitica , 15. Juni 2025 Today, I would replace the word “wrong
+      track” with “hell.” Greenland is being Pawned off The Letter In a letter to Norwegian
+      Prime Minister Jonas Gahr Stoere, Trump wrote the following on January 18, 2026:
+      When I saw the letter, I thought it was satire, but then I realized it was real—or
+      real satire? Whether the US wants to gain control over Greenland is irrelevant.
+      Almost 200 years ago, the US wanted to buy Greenland for the first time, and a
+      considerable part of what is now the US was bought by the US and not conquered
+      (Louisiana, Alaska, New Mexico, etc.). Nor can the US and Trump be blamed in principle
+      for seeking to acquire further territories in order to increase their geopolitical
+      reach – but here the means are not trade, but a purchase initiated under military
+      threat, which is not permissible from any legal point of view. Much more interesting
+      is the approach taken by the American president. When he writes that he did not
+      receive the Nobel Peace Prize even though he prevented eight wars, this is – as
+      is so often the case with him – not true. Israel – Hamas: The US was – and is
+      – a party to the war; the killing continues. Israel – Iran: The US was a party
+      to the war, and the reason for the end of the attacks was simply the fact that
+      Iran reduced Israel’s infrastructure and Tel Aviv to rubble; India – Pakistan:
+      Negotiations took place between India and Pakistan, without US involvement; Rwanda
+      and Congo: The ceasefire was concluded in August 2024 and is not holding. What
+      Trump should have done with this “peace” remains his secret; Thailand – Cambodia:
+      On August 7, the warring parties reached an agreement; on July 26, Trump sent
+      out a call: “I am calling the Acting Prime Minister of Thailand, right now, to
+      likewise request a ceasefire and an end to the war, which is currently raging.”
+      That was all. Armenia -Azerbaijan: Trump did indeed mediate here, but first and
+      foremost in the American sense (Sangesur Corridor under American control), but
+      the process is not complete and the two parties are not in agreement. Egypt –
+      Ethiopia: There was no war, but rather a dispute over Ethiopia’s Grand Ethiopian
+      Renaissance Dam; no agreement has been reached so far. Serbia – Kosovo: Apart
+      from the fact that NATO, led by the US, bombed Serbia for 86 days in 1990 without
+      legal justification, there was no war between Serbia and Kosovo; not a single
+      shot was fired. When this was pointed out, the White House backtracked and referred
+      to Trump’s great achievements in 2020. The idea that Trump is a peacemaker does
+      not hold up to even the most superficial scrutiny. As a brief interlude, let’s
+      hear from Jon Stewart, who rightly pokes fun at the fact that Trump can’t even
+      pronounce the names of the countries he has pacified. Like a toddler who has been
+      denied dessert for misbehaving, he threatens that he does not feel obligated to
+      think only about peace. This is almost unbelievable, because one only believes
+      it because it comes from Trump. The Davos Speech On January 21, Trump said that
+      “the world is not safe unless we have complete and total control over Greenland.”
+      In his Davos speech on January 21, he announced that “we [NATO] never wanted anything
+      or never got anything” – all the United States wants is a place called Greenland.
+      He went on to say, “I don’t have to use force. I don’t want to use force. I won’t
+      use force.” President Trump, WEF, Davos, January 21, 2026 Preparing for Dismantling
+      Now there are rumors that a compromise will be found, declaring part of Greenland
+      to be American without, however, questioning Danish sovereignty over the whole
+      of Greenland. Trump’s strategy could work: he threatens war, the Europeans organize
+      a dwarf rebellion, Trump threatens punitive tariffs, announces that he will not
+      use military force, and the dwarfs do what they do best and settle for a compromise
+      – at Greenland’s expense, of course. Trump further announced on True Social :
+      Based upon this understanding, I will not be imposing the tariffs that were scheduled
+      to go into effect on February 1st. Aaja Chemnitz – Greenlandic parliamentarian
+      “NATO has absolutely no mandate to negotiate anything without us.” Aaja Cheminitz,
+      January 22, 2026 It Reeks of Munich 1938 We don’t have to look very far back in
+      the history books to find a precedent for such outrageous actions by third parties
+      who disposed of a country without consulting it: in 1938, the British under Prime
+      Minister Chamberlain and the French under Prime Minister Daladier betrayed the
+      Czechoslovakians and gave Adolf Hitler the Sudetenland in order to prevent war.
+      Hitler did not abide by the agreement and occupied the rest of Czechoslovakia
+      in March 1939 – again, the Allies did not intervene. It was not until September
+      3, 1939 – after the invasion of Poland – that the British and French reacted,
+      but they did not attack the Germans and left the Poles to their fate. From left:
+      Chamberlain, Daladier, Hitler, Mussolini, and Italian Foreign Minister Count Galeazzo
+      Ciano . In the background (between Hitler and Mussolini) Ribbentrop and Weizsäcker
+      , then on the right Saint-John Perse . – Image: Federal Archives, Image 183-R69173
+      / CC-BY-SA 3.0, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=172648767
+      Appetite Comes with Eating I don’t know whether an agreement – or rather betrayal
+      – as outlined will come about, but it would be fitting for spineless Europeans.
+      There is a high chance that history will repeat itself. Consequences Donald Trump
+      would continue to incite this, to “pacify” the next country. In a frenzy, he described
+      the illegal kidnapping of Maduro as a great military achievement by the invincible
+      American armed forces. This statement can only be understood as a threat—against
+      the EU, against NATO and against Greenland, against everyone. The next country
+      would probably be Iran, possibly followed by Cuba and Colombia. In his article
+      “ The Architecture of a Crisis Brought About by Hostile Foreign Powers ,” our
+      Felix Abt showed in detail that the initial peaceful demonstrations in Iran, which
+      were turned into a bloodbath by Western intelligence agencies—Maidan sends its
+      regards—served to provoke regime change in Iran. The attempt failed miserably.
+      With the help of the Chinese and Russians, the communications of the intelligence
+      services in Iran were crippled. These were based on tens of thousands of illegally
+      smuggled Starlink terminals. According to Professor Mohammad Marandi, the nightmare
+      is over. Nevertheless, the danger has not been averted. Since Trump already believes
+      that he is invincible with his armed forces and that a betrayal of Greenland would
+      further strengthen his invincibility, anyone who rules out an attack on the grounds
+      that it would be militarily futile would be naive. Adolf Hitler was on the same
+      trip after the conquest of France in the summer of 1940. France, considered by
+      experts to be the world’s greatest military power, surrendered after only six
+      weeks. Shortly thereafter—officially on July 30, 1940—Barbarossa, the invasion
+      of the Soviet Union, went into preparation. When the Wehrmacht’s logisticians
+      informed him that supplies for the troops could only be maintained for a few weeks,
+      Hitler remained confident: “We just have to kick in the door, and the whole rotten
+      building will come crashing down.” Adolf Hitler, March 1941 This misjudgment led
+      to the downfall of Nazi Germany and the deaths of 30 million Russians. Given the
+      frenzy Trump finds himself in, I believe we should not rule out the possibility
+      that Trump could be carried away into such stupidity. After the Iranians were
+      persuaded to end their attacks on Israel after 12 days of war, a repeat of this
+      adventure by Trump would probably spell the end of Israel and all American oil
+      and military infrastructure in the Middle East. Distraction Manoeuvre Finally,
+      I found one aspect of Trump’s speech in Davos – it’s worth listening to the entire
+      speech – extremely interesting. For the first few minutes, Trump talked about
+      the “great” shape of the American economy: every statement he made was a complete
+      lie. We don’t need to go into the details here – Trump misrepresented the state
+      of the economy and the situation on the financial markets to such an extent that
+      it can’t even be described as whitewashing. I have repeatedly expressed my skepticism
+      about the state of Western financial markets for many months, and one trend is
+      clear: the situation is getting worse every day. One indication of this is the
+      almost explosive rise in precious metal prices in US dollars since January 1:
+      gold: +18%; silver: +54% (as of January 26, 2026). This is an indication of distortions
+      in the COMEX and LBMA paper markets, as well as a loss of investor confidence
+      in the US dollar. Donald Trump may have been trying to use his speech and geopolitical
+      threats against friends and foes alike to distract attention from a problem that
+      is likely to soon become reality: the collapse of the Western financial markets.
+      “If this happens, all cards will be reshuffled and redistributed.” Conclusion
+      Now that Trump has dismantled the “rules-based order” that Americans have been
+      invoking for decades, the Collective West finds itself in a state of agony, i.e.,
+      the parties involved are no longer even attempting to base their actions on any
+      explainable basis, let alone a legally justified one. The fact that Europeans
+      are toying with the idea of betraying Greenland and thus NATO ally Denmark—as
+      the Allies did with Czechoslovakia in Munich in 1938—is merely a logical consequence
+      of this; Rutte and his cronies certainly possess the necessary character traits.
+      Furthermore, I consider it naive to believe that Trump will not attack Iran, even
+      though the realities of such an undertaking will lead to a catastrophic outcome.
+      Finally, we cannot rule out the possibility that Trump’s ranting is a diversionary
+      tactic to distract from the imminent collapse of the financial markets and the
+      US dollar. When – not if – this happens, all the cards will be reshuffled and
+      redistributed. Peter Hanseler is a geopolitical analyst who reports from Moscow.
+      Peter was born in Zurich, Switzerland. He holds a J.D. (lic. iur.) and Ph.D. (Dr.
+      iur.) from Zurich University Law School and Master in International Commercial
+      Law (LL.M.) from Georgetown University Law School, Washington, D.C. He has lived
+      in the US, Spain, Switzerland, Thailand and Russia. Peter is independent, his
+      work is not supported by government or private entities. Peter’s website Forumgeopolitica.com
+      publishes its content in English, Russian, German and French.'
+    one_sentence_summary: The article critiques Donald Trump's self-perception of superiority
+      and his geopolitical ambitions, likening his actions to historical appeasement
+      strategies, while suggesting that his election could be a lesser evil compared
+      to other candidates in preventing global conflict.
+    paragraph_summary: The article discusses Donald Trump's self-perception as an unparalleled
+      leader, expressing disdain for peace after not receiving the Nobel Peace Prize,
+      and his ambitions regarding Venezuela and Greenland, which evoke historical parallels
+      to the 1938 Munich Conference. The author, Peter Hanseler, warns of the potential
+      for history to repeat itself, particularly in the context of Trump's unpredictability
+      and aggressive foreign policy, which he views as a significant risk for global
+      stability. The piece reflects on the political landscape leading up to the 2024
+      election, suggesting that Trump may be a preferable choice to Kamala Harris in
+      order to avoid escalating tensions, despite acknowledging Trump's dangerous unpredictability.
+      The article also references a letter Trump sent to Norway's Prime Minister, which
+      the author initially mistook for satire, highlighting Trump's controversial approach
+      to diplomacy and international relations.
+    published: '2026-01-27T15:21:48+00:00'
+  - title: Delusions of Grandeur and Betrayal
+    url: https://sonar21.com/delusions-of-grandeur-and-betrayal/
+    text: 'Donald Trump sees himself as the greatest—no rules apply to him, and since
+      he didn’t receive the Nobel Peace Prize, he no longer loves peace. He believes
+      he has conquered Venezuela and is turning his attention to Greenland. It reeks
+      of the 1938 Munich Conference. By Peter Hanseler via ForumGeopolitica.com There
+      is a high risk that history will repeat itself. Image: Chamberlain (left) surrendered
+      Czechoslovakia in Munich in 1938 without involving the country in the negotiations;
+      (right) Mark Rutte, as NATO Secretary General, is in the process of selling off
+      part of Greenland to the Americans. Introduction When the question arose in 2024
+      as to whether Biden or Trump should be recommended for election, we believed that
+      Trump was the better choice over Harris, as the former did not belong to the deep
+      state. That was our assessment. We believed this was the only way to prevent World
+      War III. Many of my colleagues felt the same way. President Putin’s statement
+      in September 2024 that he would prefer Harris because she was more predictable
+      could become a prophecy in the future, even though Sergei Lavrov dismissed Putin’s
+      statement as a joke—but every joke has a grain of truth. Today, we know that Donald
+      Trump is completely unpredictable and as dangerous as nitroglycerin. In “ Diplomacy
+      on the Deathbed – From Peace President to Warmonger ,” published in June 2025,
+      I was already extremely concerned when Trump briefly bombed Iran, only to back
+      down after twelve days when he realized that Iran was not only capable of defending
+      itself, but could also reduce Tel Aviv to rubble. At the time, I wrote: “Rational
+      thinking takes you past the deathbed of diplomacy and straight onto the wrong
+      track.” ForumGeopolitica , 15. Juni 2025 Today, I would replace the word “wrong
+      track” with “hell.” Greenland is being Pawned off The Letter In a letter to Norwegian
+      Prime Minister Jonas Gahr Stoere, Trump wrote the following on January 18, 2026:
+      When I saw the letter, I thought it was satire, but then I realized it was real—or
+      real satire? Whether the US wants to gain control over Greenland is irrelevant.
+      Almost 200 years ago, the US wanted to buy Greenland for the first time, and a
+      considerable part of what is now the US was bought by the US and not conquered
+      (Louisiana, Alaska, New Mexico, etc.). Nor can the US and Trump be blamed in principle
+      for seeking to acquire further territories in order to increase their geopolitical
+      reach – but here the means are not trade, but a purchase initiated under military
+      threat, which is not permissible from any legal point of view. Much more interesting
+      is the approach taken by the American president. When he writes that he did not
+      receive the Nobel Peace Prize even though he prevented eight wars, this is – as
+      is so often the case with him – not true. Israel – Hamas: The US was – and is
+      – a party to the war; the killing continues. Israel – Iran: The US was a party
+      to the war, and the reason for the end of the attacks was simply the fact that
+      Iran reduced Israel’s infrastructure and Tel Aviv to rubble; India – Pakistan:
+      Negotiations took place between India and Pakistan, without US involvement; Rwanda
+      and Congo: The ceasefire was concluded in August 2024 and is not holding. What
+      Trump should have done with this “peace” remains his secret; Thailand – Cambodia:
+      On August 7, the warring parties reached an agreement; on July 26, Trump sent
+      out a call: “I am calling the Acting Prime Minister of Thailand, right now, to
+      likewise request a ceasefire and an end to the war, which is currently raging.”
+      That was all. Armenia -Azerbaijan: Trump did indeed mediate here, but first and
+      foremost in the American sense (Sangesur Corridor under American control), but
+      the process is not complete and the two parties are not in agreement. Egypt –
+      Ethiopia: There was no war, but rather a dispute over Ethiopia’s Grand Ethiopian
+      Renaissance Dam; no agreement has been reached so far. Serbia – Kosovo: Apart
+      from the fact that NATO, led by the US, bombed Serbia for 86 days in 1990 without
+      legal justification, there was no war between Serbia and Kosovo; not a single
+      shot was fired. When this was pointed out, the White House backtracked and referred
+      to Trump’s great achievements in 2020. The idea that Trump is a peacemaker does
+      not hold up to even the most superficial scrutiny. As a brief interlude, let’s
+      hear from Jon Stewart, who rightly pokes fun at the fact that Trump can’t even
+      pronounce the names of the countries he has pacified. Like a toddler who has been
+      denied dessert for misbehaving, he threatens that he does not feel obligated to
+      think only about peace. This is almost unbelievable, because one only believes
+      it because it comes from Trump. The Davos Speech On January 21, Trump said that
+      “the world is not safe unless we have complete and total control over Greenland.”
+      In his Davos speech on January 21, he announced that “we [NATO] never wanted anything
+      or never got anything” – all the United States wants is a place called Greenland.
+      He went on to say, “I don’t have to use force. I don’t want to use force. I won’t
+      use force.” President Trump, WEF, Davos, January 21, 2026 Preparing for Dismantling
+      Now there are rumors that a compromise will be found, declaring part of Greenland
+      to be American without, however, questioning Danish sovereignty over the whole
+      of Greenland. Trump’s strategy could work: he threatens war, the Europeans organize
+      a dwarf rebellion, Trump threatens punitive tariffs, announces that he will not
+      use military force, and the dwarfs do what they do best and settle for a compromise
+      – at Greenland’s expense, of course. Trump further announced on True Social :
+      Based upon this understanding, I will not be imposing the tariffs that were scheduled
+      to go into effect on February 1st. Aaja Chemnitz – Greenlandic parliamentarian
+      “NATO has absolutely no mandate to negotiate anything without us.” Aaja Cheminitz,
+      January 22, 2026 It Reeks of Munich 1938 We don’t have to look very far back in
+      the history books to find a precedent for such outrageous actions by third parties
+      who disposed of a country without consulting it: in 1938, the British under Prime
+      Minister Chamberlain and the French under Prime Minister Daladier betrayed the
+      Czechoslovakians and gave Adolf Hitler the Sudetenland in order to prevent war.
+      Hitler did not abide by the agreement and occupied the rest of Czechoslovakia
+      in March 1939 – again, the Allies did not intervene. It was not until September
+      3, 1939 – after the invasion of Poland – that the British and French reacted,
+      but they did not attack the Germans and left the Poles to their fate. From left:
+      Chamberlain, Daladier, Hitler, Mussolini, and Italian Foreign Minister Count Galeazzo
+      Ciano . In the background (between Hitler and Mussolini) Ribbentrop and Weizsäcker
+      , then on the right Saint-John Perse . – Image: Federal Archives, Image 183-R69173
+      / CC-BY-SA 3.0, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=172648767
+      Appetite Comes with Eating I don’t know whether an agreement – or rather betrayal
+      – as outlined will come about, but it would be fitting for spineless Europeans.
+      There is a high chance that history will repeat itself. Consequences Donald Trump
+      would continue to incite this, to “pacify” the next country. In a frenzy, he described
+      the illegal kidnapping of Maduro as a great military achievement by the invincible
+      American armed forces. This statement can only be understood as a threat—against
+      the EU, against NATO and against Greenland, against everyone. The next country
+      would probably be Iran, possibly followed by Cuba and Colombia. In his article
+      “ The Architecture of a Crisis Brought About by Hostile Foreign Powers ,” our
+      Felix Abt showed in detail that the initial peaceful demonstrations in Iran, which
+      were turned into a bloodbath by Western intelligence agencies—Maidan sends its
+      regards—served to provoke regime change in Iran. The attempt failed miserably.
+      With the help of the Chinese and Russians, the communications of the intelligence
+      services in Iran were crippled. These were based on tens of thousands of illegally
+      smuggled Starlink terminals. According to Professor Mohammad Marandi, the nightmare
+      is over. Nevertheless, the danger has not been averted. Since Trump already believes
+      that he is invincible with his armed forces and that a betrayal of Greenland would
+      further strengthen his invincibility, anyone who rules out an attack on the grounds
+      that it would be militarily futile would be naive. Adolf Hitler was on the same
+      trip after the conquest of France in the summer of 1940. France, considered by
+      experts to be the world’s greatest military power, surrendered after only six
+      weeks. Shortly thereafter—officially on July 30, 1940—Barbarossa, the invasion
+      of the Soviet Union, went into preparation. When the Wehrmacht’s logisticians
+      informed him that supplies for the troops could only be maintained for a few weeks,
+      Hitler remained confident: “We just have to kick in the door, and the whole rotten
+      building will come crashing down.” Adolf Hitler, March 1941 This misjudgment led
+      to the downfall of Nazi Germany and the deaths of 30 million Russians. Given the
+      frenzy Trump finds himself in, I believe we should not rule out the possibility
+      that Trump could be carried away into such stupidity. After the Iranians were
+      persuaded to end their attacks on Israel after 12 days of war, a repeat of this
+      adventure by Trump would probably spell the end of Israel and all American oil
+      and military infrastructure in the Middle East. Distraction Manoeuvre Finally,
+      I found one aspect of Trump’s speech in Davos – it’s worth listening to the entire
+      speech – extremely interesting. For the first few minutes, Trump talked about
+      the “great” shape of the American economy: every statement he made was a complete
+      lie. We don’t need to go into the details here – Trump misrepresented the state
+      of the economy and the situation on the financial markets to such an extent that
+      it can’t even be described as whitewashing. I have repeatedly expressed my skepticism
+      about the state of Western financial markets for many months, and one trend is
+      clear: the situation is getting worse every day. One indication of this is the
+      almost explosive rise in precious metal prices in US dollars since January 1:
+      gold: +18%; silver: +54% (as of January 26, 2026). This is an indication of distortions
+      in the COMEX and LBMA paper markets, as well as a loss of investor confidence
+      in the US dollar. Donald Trump may have been trying to use his speech and geopolitical
+      threats against friends and foes alike to distract attention from a problem that
+      is likely to soon become reality: the collapse of the Western financial markets.
+      “If this happens, all cards will be reshuffled and redistributed.” Conclusion
+      Now that Trump has dismantled the “rules-based order” that Americans have been
+      invoking for decades, the Collective West finds itself in a state of agony, i.e.,
+      the parties involved are no longer even attempting to base their actions on any
+      explainable basis, let alone a legally justified one. The fact that Europeans
+      are toying with the idea of betraying Greenland and thus NATO ally Denmark—as
+      the Allies did with Czechoslovakia in Munich in 1938—is merely a logical consequence
+      of this; Rutte and his cronies certainly possess the necessary character traits.
+      Furthermore, I consider it naive to believe that Trump will not attack Iran, even
+      though the realities of such an undertaking will lead to a catastrophic outcome.
+      Finally, we cannot rule out the possibility that Trump’s ranting is a diversionary
+      tactic to distract from the imminent collapse of the financial markets and the
+      US dollar. When – not if – this happens, all the cards will be reshuffled and
+      redistributed. Peter Hanseler is a geopolitical analyst who reports from Moscow.
+      Peter was born in Zurich, Switzerland. He holds a J.D. (lic. iur.) and Ph.D. (Dr.
+      iur.) from Zurich University Law School and Master in International Commercial
+      Law (LL.M.) from Georgetown University Law School, Washington, D.C. He has lived
+      in the US, Spain, Switzerland, Thailand and Russia. Peter is independent, his
+      work is not supported by government or private entities. Peter’s website Forumgeopolitica.com
+      publishes its content in English, Russian, German and French.'
+    one_sentence_summary: The article critiques Donald Trump's self-perception of superiority
+      and his geopolitical ambitions, likening his actions to historical appeasement
+      strategies, while suggesting that his election could be a lesser evil compared
+      to other candidates in preventing global conflict.
+    paragraph_summary: The article discusses Donald Trump's self-perception as an unparalleled
+      leader, expressing disdain for peace after not receiving the Nobel Peace Prize,
+      and his ambitions regarding Venezuela and Greenland, which evoke historical parallels
+      to the 1938 Munich Conference. The author, Peter Hanseler, warns of the potential
+      for history to repeat itself, particularly in the context of Trump's unpredictability
+      and aggressive foreign policy, which he views as a significant risk for global
+      stability. The piece reflects on the political landscape leading up to the 2024
+      election, suggesting that Trump may be a preferable choice to Kamala Harris in
+      order to avoid escalating tensions, despite acknowledging Trump's dangerous unpredictability.
+      The article also references a letter Trump sent to Norway's Prime Minister, which
+      the author initially mistook for satire, highlighting Trump's controversial approach
+      to diplomacy and international relations.
+    published: '2026-01-27T15:21:48+00:00'
+  - title: Final Comment on the Murder of Alex Pretti, and Western Spin on Russia’s
+      Talks with Ukraine and the US
+    url: https://sonar21.com/final-comment-on-the-murder-of-alex-pretti-and-western-spin-on-russias-talks-with-ukraine-and-the-us/
+    text: 'This statement from Homeland Security is a lie. I have ZERO tolerance for
+      hypocrisy. Do you remember the case of Brian Malinowski? Bryan Malinowski was
+      the executive director of Bill and Hillary Clinton National Airport (also known
+      as Adams Field) in Little Rock, Arkansas. On the morning of March 19, 2024, at
+      approximately 6:00 a.m., agents from the Bureau of Alcohol, Tobacco, Firearms
+      and Explosives (ATF) executed a federal search warrant at Malinowski’s home in
+      west Little Rock. The warrant stemmed from an ATF investigation alleging that
+      Malinowski had illegally sold firearms without a federal firearms license (FFL).
+      Instead of arresting Malinowski during daylight hours, the ATF launched a forcible-entry
+      raid on his home. Malinowski, fearing his home was being invaded by criminals,
+      fired at the Federal agents and was shot in the head and killed. There was ZERO
+      justification for conducting a pre-dawn raid. This should have been handled with
+      a phone call and a request for Malinowski to surrender himself to the ATF. Democrats
+      in Congress defended the ATF, noting Malinowski shot first (wounding an agent),
+      that probable cause existed (guns traced to crimes), and that Republicans were
+      politicizing the case to attack gun regulations. Republican congressional reaction
+      to the ATF raid on Bryan Malinowski’s home in Little Rock, Arkansas was strongly
+      critical, framing it as an example of federal overreach, excessive force, and
+      the “weaponization” of government agencies against law-abiding citizens and Second
+      Amendment rights. That was then. Now we have the spectacle of many Republicans
+      insisting that Pretti had no rights under the First, Second and Fourth amendments
+      to the US Constitution, while Democrats are making the same arguments against
+      ICE that they rejected in the Malinowski case. Even if Pretti was being directed
+      by outside forces to protest ICE operations, he did not forfeit his Constitutional
+      rights. He did not strike the ICE/Border Patrol officer. Instead, he stepped between
+      the officer who was assaulting a woman who had done nothing to provoke the attack.
+      At no point was he asked to produce ID. Most importantly, he had a valid concealed
+      carry license. If you’re carrying concealed you don’t have to tell the police
+      a damn thing unless you are detained for a reasonable suspicion that you have
+      committed a crime. You may not like the fact that Pretti was protesting ICE, but
+      as a US citizen he has a Constitutional right to do so and had not broken any
+      laws. At no time did he reach for his pistol… The pistol was violently taken from
+      him by one of the ICE/Border Patrol officers and, according to some reports, that
+      officer caused a negligent discharge. What should scare the living hell out of
+      every American citizen is that the head of the Department of Justice (Bondi) and
+      the Director of the FBI (Patel) have gone on the record insisting he had no First
+      or Second amendment rights… That he deserved what he got. Let’s do a thought experiment.
+      Same exact situation in terms of what Pretti did and what the ICE goons did, only
+      instead of ICE we have ATF agents. Let’s assume that Pretti had shown up at this
+      protest at the encouragement of the NRA and was one of many patriots who gathered
+      to protest the ATF for its actions that killed Brian Malinowski. Do you still
+      believe that Pretti should have been killed just because the officers were frustrated
+      by the citizen protests? The Feds murdered Pretti… It is that simple. Now, with
+      regard to the meeting in Dubai of Russian, Ukrainian and US military/intelligence
+      officials last Friday and Saturday, Western outlets like BBC, The Guardian, Reuters,
+      Al Jazeera, ABC News, The New York Times, and Euronews described the talks as
+      the first trilateral engagement of its kind in nearly four years, noting direct
+      face-to-face interaction between Ukrainian and Russian representatives (rare since
+      early 2022). However, they stressed no deal was reached, with discussions focused
+      on “outstanding elements” of a US-proposed peace framework (often attributed to
+      Trump administration efforts). Many reports quoted US officials calling the talks
+      “productive” or “substantial progress” in some areas, while Ukrainian President
+      Volodymyr Zelenskyy described them as “constructive” but “too early to draw conclusions.”
+      I was struck by the Western media’s  mischaracterization of the Russian reaction…
+      The Western press described the talks as “constructive” and held in a “positive
+      spirit,” with the Kremlin viewing the fact that direct contacts occurred as a
+      step forward. They claim that Peskov stated that the negotiations “can be assessed
+      positively,” but emphasized that serious work remains ahead and no immediate breakthroughs
+      were achieved. So let’s look at what Russian Presidential Spokesman Dmitry Peskov
+      actually said: A friendly atmosphere at the negotiations on the Ukrainian conflict
+      settlement is unlikely , but since such work is underway, it must be carried out
+      effectively. If you are working at an expert level, then at minimum you should
+      behave constructively towards each other. I would not say that there was a friendly
+      atmosphere , as this is unlikely at this stage of the talks. However, if we are
+      aiming to achieve results through negotiations, we need to communicate constructively
+      with each other. Until the US officials start listening and hearing what Russia
+      is actually saying, there is little chance of any substantive progress via negotiations.
+      I did two podcasts today. The first was my regular Monday date with Judge Napolitano.
+      The second is my chat with Natalie and Clayton Morris, who host Redacted, about
+      the murder of Alex Pretti: I thank you for your invaluable support by taking time
+      to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article criticizes the ATF's decision to conduct a pre-dawn
+      raid on Bryan Malinowski's home, resulting in his death, arguing that the situation
+      could have been resolved peacefully without such force.
+    paragraph_summary: The article criticizes the hypocrisy of both Democrats and Republicans
+      regarding the treatment of individuals in law enforcement encounters, using the
+      case of Bryan Malinowski as a focal point. Malinowski, the executive director
+      of an airport, was killed during a pre-dawn raid by the ATF over allegations of
+      illegal firearm sales, which the author argues was an unnecessary use of force
+      that could have been resolved peacefully. While Republicans condemned the ATF's
+      actions as federal overreach, they are now dismissing the constitutional rights
+      of another individual, Pretti, who was involved in protests against ICE operations.
+      The author highlights the inconsistency in both parties' stances on constitutional
+      rights, suggesting that both sides are selectively applying principles based on
+      political convenience rather than a commitment to upholding the law and individual
+      rights.
+    published: '2026-01-27T06:34:35+00:00'
+  - title: Final Comment on the Murder of Alex Pretti, and Western Spin on Russia’s
+      Talks with Ukraine and the US
+    url: https://sonar21.com/final-comment-on-the-murder-of-alex-pretti-and-western-spin-on-russias-talks-with-ukraine-and-the-us/
+    text: 'This statement from Homeland Security is a lie. I have ZERO tolerance for
+      hypocrisy. Do you remember the case of Brian Malinowski? Bryan Malinowski was
+      the executive director of Bill and Hillary Clinton National Airport (also known
+      as Adams Field) in Little Rock, Arkansas. On the morning of March 19, 2024, at
+      approximately 6:00 a.m., agents from the Bureau of Alcohol, Tobacco, Firearms
+      and Explosives (ATF) executed a federal search warrant at Malinowski’s home in
+      west Little Rock. The warrant stemmed from an ATF investigation alleging that
+      Malinowski had illegally sold firearms without a federal firearms license (FFL).
+      Instead of arresting Malinowski during daylight hours, the ATF launched a forcible-entry
+      raid on his home. Malinowski, fearing his home was being invaded by criminals,
+      fired at the Federal agents and was shot in the head and killed. There was ZERO
+      justification for conducting a pre-dawn raid. This should have been handled with
+      a phone call and a request for Malinowski to surrender himself to the ATF. Democrats
+      in Congress defended the ATF, noting Malinowski shot first (wounding an agent),
+      that probable cause existed (guns traced to crimes), and that Republicans were
+      politicizing the case to attack gun regulations. Republican congressional reaction
+      to the ATF raid on Bryan Malinowski’s home in Little Rock, Arkansas was strongly
+      critical, framing it as an example of federal overreach, excessive force, and
+      the “weaponization” of government agencies against law-abiding citizens and Second
+      Amendment rights. That was then. Now we have the spectacle of many Republicans
+      insisting that Pretti had no rights under the First, Second and Fourth amendments
+      to the US Constitution, while Democrats are making the same arguments against
+      ICE that they rejected in the Malinowski case. Even if Pretti was being directed
+      by outside forces to protest ICE operations, he did not forfeit his Constitutional
+      rights. He did not strike the ICE/Border Patrol officer. Instead, he stepped between
+      the officer who was assaulting a woman who had done nothing to provoke the attack.
+      At no point was he asked to produce ID. Most importantly, he had a valid concealed
+      carry license. If you’re carrying concealed you don’t have to tell the police
+      a damn thing unless you are detained for a reasonable suspicion that you have
+      committed a crime. You may not like the fact that Pretti was protesting ICE, but
+      as a US citizen he has a Constitutional right to do so and had not broken any
+      laws. At no time did he reach for his pistol… The pistol was violently taken from
+      him by one of the ICE/Border Patrol officers and, according to some reports, that
+      officer caused a negligent discharge. What should scare the living hell out of
+      every American citizen is that the head of the Department of Justice (Bondi) and
+      the Director of the FBI (Patel) have gone on the record insisting he had no First
+      or Second amendment rights… That he deserved what he got. Let’s do a thought experiment.
+      Same exact situation in terms of what Pretti did and what the ICE goons did, only
+      instead of ICE we have ATF agents. Let’s assume that Pretti had shown up at this
+      protest at the encouragement of the NRA and was one of many patriots who gathered
+      to protest the ATF for its actions that killed Brian Malinowski. Do you still
+      believe that Pretti should have been killed just because the officers were frustrated
+      by the citizen protests? The Feds murdered Pretti… It is that simple. Now, with
+      regard to the meeting in Dubai of Russian, Ukrainian and US military/intelligence
+      officials last Friday and Saturday, Western outlets like BBC, The Guardian, Reuters,
+      Al Jazeera, ABC News, The New York Times, and Euronews described the talks as
+      the first trilateral engagement of its kind in nearly four years, noting direct
+      face-to-face interaction between Ukrainian and Russian representatives (rare since
+      early 2022). However, they stressed no deal was reached, with discussions focused
+      on “outstanding elements” of a US-proposed peace framework (often attributed to
+      Trump administration efforts). Many reports quoted US officials calling the talks
+      “productive” or “substantial progress” in some areas, while Ukrainian President
+      Volodymyr Zelenskyy described them as “constructive” but “too early to draw conclusions.”
+      I was struck by the Western media’s  mischaracterization of the Russian reaction…
+      The Western press described the talks as “constructive” and held in a “positive
+      spirit,” with the Kremlin viewing the fact that direct contacts occurred as a
+      step forward. They claim that Peskov stated that the negotiations “can be assessed
+      positively,” but emphasized that serious work remains ahead and no immediate breakthroughs
+      were achieved. So let’s look at what Russian Presidential Spokesman Dmitry Peskov
+      actually said: A friendly atmosphere at the negotiations on the Ukrainian conflict
+      settlement is unlikely , but since such work is underway, it must be carried out
+      effectively. If you are working at an expert level, then at minimum you should
+      behave constructively towards each other. I would not say that there was a friendly
+      atmosphere , as this is unlikely at this stage of the talks. However, if we are
+      aiming to achieve results through negotiations, we need to communicate constructively
+      with each other. Until the US officials start listening and hearing what Russia
+      is actually saying, there is little chance of any substantive progress via negotiations.
+      I did two podcasts today. The first was my regular Monday date with Judge Napolitano.
+      The second is my chat with Natalie and Clayton Morris, who host Redacted, about
+      the murder of Alex Pretti: I thank you for your invaluable support by taking time
+      to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article criticizes the ATF's decision to conduct a pre-dawn
+      raid on Bryan Malinowski's home, resulting in his death, arguing that the situation
+      could have been resolved peacefully without such force.
+    paragraph_summary: The article criticizes the hypocrisy of both Democrats and Republicans
+      regarding the treatment of individuals in law enforcement encounters, using the
+      case of Bryan Malinowski as a focal point. Malinowski, the executive director
+      of an airport, was killed during a pre-dawn raid by the ATF over allegations of
+      illegal firearm sales, which the author argues was an unnecessary use of force
+      that could have been resolved peacefully. While Republicans condemned the ATF's
+      actions as federal overreach, they are now dismissing the constitutional rights
+      of another individual, Pretti, who was involved in protests against ICE operations.
+      The author highlights the inconsistency in both parties' stances on constitutional
+      rights, suggesting that both sides are selectively applying principles based on
+      political convenience rather than a commitment to upholding the law and individual
+      rights.
+    published: '2026-01-27T06:34:35+00:00'
+  - title: US Border Patrol is Out of Control
+    url: https://sonar21.com/us-border-patrol-is-out-of-control/
+    text: As a certified firearms instructor, I have enough experience to know when
+      law enforcement is out of line and engaging in criminal conduct. Based on the
+      video evidence I have seen, the shooting of Alex Pretti by a group of Homeland
+      Security law enforcement officers was unjustified, and most likely was caused
+      in part by inadequate training. Pretti is not without blame. He carried a concealed
+      weapon, along with two additional full magazines, to the protests. If you’re going
+      to protest, leave your damn gun at home. If Pretti had pulled the gun and tried
+      to fire a shot then the Border Patrol officers would have been fully justified
+      in shooting him. But that is not what happened! As Pretti was wrestled to the
+      ground by five officers — Pretti was resisting, but he did not draw his gun. You
+      can see in the following video that the Sig Sauer, which he was carrying in an
+      inside-the-waistband holster on his backside, was removed by one of the Border
+      Patrol officers. That officer apparently hollered, “Gun,” which then caused at
+      least one of the other officers to draw his semi-automatic pistol and to start
+      firing at Pretti in the mistaken belief that he was suppressing an imminent threat.
+      At no time did Pretti draw the gun and threaten to shoot the officers. This is
+      a total fuck up. While I am personally in favor of removing the hordes of illegal
+      migrants that have flooded into the United States during Biden’s four years in
+      office, I believe it must be done according to the law. At the same time, US citizens
+      have the right to protest the policy of the Trump administration. The situation
+      is likely to escalate in light of other reports that ICE and Border Patrol have
+      been authorized to enter homes without a warrant… This is a flagrant violation
+      of the US Constitution. My ancestors rebelled against the British Crown for this
+      kind of behavior. Even if Pretti had not been shot, the use of force against him
+      also was, in my opinion, excessive and unnecessary. Law enforcement is supposed
+      to be trained in de-escalating confrontations. I can understand the frustration
+      among the law enforcement people who are being confronted by angry crowds, but
+      beating the shit out of someone who is holding a cell phone is not justified.
+      It would be one thing if Alex Pretti had punched and attacked the Feds who surrounded
+      him and were showering him with pepper spray. But that did not happen either.
+      This was a case of mob violence, except the mob was comprised of Federal law enforcement
+      officers. This kind of behavior is indicative of poor training and poor leadership.
+      The officer who fired the first shot should be charged with manslaughter and the
+      officer in charge at the scene should be fired. I doubt that will happen… We’ll
+      see. I thank you for your invaluable support by taking time to read or comment.
+      I do not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .
+    one_sentence_summary: The shooting of Alex Pretti by Homeland Security officers
+      was unjustified and likely a result of inadequate training, although Pretti's
+      decision to carry a concealed weapon to protests contributed to the situation.
+    paragraph_summary: The author, a certified firearms instructor, critiques the shooting
+      of Alex Pretti by Homeland Security officers, deeming it unjustified and indicative
+      of inadequate training. While acknowledging Pretti's decision to carry a concealed
+      weapon to a protest as questionable, the author emphasizes that Pretti did not
+      threaten the officers or draw his gun during the encounter. The situation escalated
+      when an officer mistakenly shouted "Gun," prompting others to fire at Pretti without
+      justification. The author expresses concern over the excessive use of force and
+      the broader implications of law enforcement actions, arguing that protests against
+      government policies should be lawful and protected, and condemning potential violations
+      of constitutional rights by agencies like ICE and Border Patrol.
+    published: '2026-01-26T05:19:31+00:00'
+  - title: US Border Patrol is Out of Control
+    url: https://sonar21.com/us-border-patrol-is-out-of-control/
+    text: As a certified firearms instructor, I have enough experience to know when
+      law enforcement is out of line and engaging in criminal conduct. Based on the
+      video evidence I have seen, the shooting of Alex Pretti by a group of Homeland
+      Security law enforcement officers was unjustified, and most likely was caused
+      in part by inadequate training. Pretti is not without blame. He carried a concealed
+      weapon, along with two additional full magazines, to the protests. If you’re going
+      to protest, leave your damn gun at home. If Pretti had pulled the gun and tried
+      to fire a shot then the Border Patrol officers would have been fully justified
+      in shooting him. But that is not what happened! As Pretti was wrestled to the
+      ground by five officers — Pretti was resisting, but he did not draw his gun. You
+      can see in the following video that the Sig Sauer, which he was carrying in an
+      inside-the-waistband holster on his backside, was removed by one of the Border
+      Patrol officers. That officer apparently hollered, “Gun,” which then caused at
+      least one of the other officers to draw his semi-automatic pistol and to start
+      firing at Pretti in the mistaken belief that he was suppressing an imminent threat.
+      At no time did Pretti draw the gun and threaten to shoot the officers. This is
+      a total fuck up. While I am personally in favor of removing the hordes of illegal
+      migrants that have flooded into the United States during Biden’s four years in
+      office, I believe it must be done according to the law. At the same time, US citizens
+      have the right to protest the policy of the Trump administration. The situation
+      is likely to escalate in light of other reports that ICE and Border Patrol have
+      been authorized to enter homes without a warrant… This is a flagrant violation
+      of the US Constitution. My ancestors rebelled against the British Crown for this
+      kind of behavior. Even if Pretti had not been shot, the use of force against him
+      also was, in my opinion, excessive and unnecessary. Law enforcement is supposed
+      to be trained in de-escalating confrontations. I can understand the frustration
+      among the law enforcement people who are being confronted by angry crowds, but
+      beating the shit out of someone who is holding a cell phone is not justified.
+      It would be one thing if Alex Pretti had punched and attacked the Feds who surrounded
+      him and were showering him with pepper spray. But that did not happen either.
+      This was a case of mob violence, except the mob was comprised of Federal law enforcement
+      officers. This kind of behavior is indicative of poor training and poor leadership.
+      The officer who fired the first shot should be charged with manslaughter and the
+      officer in charge at the scene should be fired. I doubt that will happen… We’ll
+      see. I thank you for your invaluable support by taking time to read or comment.
+      I do not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .
+    one_sentence_summary: The shooting of Alex Pretti by Homeland Security officers
+      was unjustified and likely a result of inadequate training, although Pretti's
+      decision to carry a concealed weapon to protests contributed to the situation.
+    paragraph_summary: The author, a certified firearms instructor, critiques the shooting
+      of Alex Pretti by Homeland Security officers, deeming it unjustified and indicative
+      of inadequate training. While acknowledging Pretti's decision to carry a concealed
+      weapon to a protest as questionable, the author emphasizes that Pretti did not
+      threaten the officers or draw his gun during the encounter. The situation escalated
+      when an officer mistakenly shouted "Gun," prompting others to fire at Pretti without
+      justification. The author expresses concern over the excessive use of force and
+      the broader implications of law enforcement actions, arguing that protests against
+      government policies should be lawful and protected, and condemning potential violations
+      of constitutional rights by agencies like ICE and Border Patrol.
+    published: '2026-01-26T05:19:31+00:00'
+  - title: Losing Dollar Supremacy… The Savage Consequences of Weaponizing the Dollar
+      as a Political Cudgel
+    url: https://sonar21.com/losing-dollar-supremacy-the-savage-consequences-of-weaponizing-the-dollar-as-a-political-cudgel/
+    text: 'It is good to have smart friends. Jeffrey Wernick, the owner of Bitchute
+      , is one of my exceptionally smart friends and he just posted on his X account
+      the following brilliant analysis . The 54-year reign of the US dollar as the world’s
+      preeminent reserve currency is coming to an inglorious end and we, the American
+      people, only have ourselves to blame: The dollar’s reserve status is an exorbitant
+      privilege. It lowers our borrowing costs, expands our fiscal room, and lets us
+      export risk and import goods on uniquely favorable terms. But privileges are not
+      entitlements. They are conditional. And they come with responsibilities. A reserve
+      currency must satisfy three conditions. Liquidity, stability, and neutrality.
+      The United States has always provided the first two. The third was assumed. It
+      is no longer assumed. A reserve currency is not just national money. It is global
+      infrastructure. It functions like a public utility for settlement, collateral,
+      and reserves. The responsibility is not “be nice.” The responsibility is to keep
+      the system credible as neutral plumbing. Predictable rules. Stable access. Property
+      rights that are not contingent on politics. If the world is going to hold your
+      liabilities as its safety buffer, you cannot treat those liabilities as a lever
+      of coercion. Weaponizing the dollar breaks that bargain. It turns the reserve
+      asset into conditional permission. It reclassifies the dollar from risk-free to
+      conditionally risk-free. The market reprices accordingly. This is a policy with
+      concentrated short-term benefits and diffuse long-term costs. The benefits accrue
+      to whoever is in office when the sanctions are imposed. The costs accrue to everyone
+      who holds dollars afterward. Naturally, the benefits are overweighted and the
+      costs are ignored. Credibility is spent to purchase momentary advantage. The chart
+      shows the price. Every central bank learns the same lesson. If access depends
+      on compliance, then holding dollars is not just a financial decision. It is a
+      geopolitical exposure. So reserve managers do what rational actors do when an
+      insurance policy starts behaving like a weapon. They diversify. This is not a
+      policy choice. It is a portfolio adjustment to a change in the risk characteristics
+      of the asset. This is why global trade can keep settling in dollars while dollar
+      reserves fall. Transactions follow network effects and liquidity. Reserves follow
+      trust. Transactions can be coerced in the short run because there is no alternative
+      settlement mechanism with comparable depth and liquidity. Reserves cannot be coerced
+      because the holder chooses them in advance and can substitute. Reserves are held
+      for crisis, and in a crisis you discover whether the asset you hold can be frozen,
+      seized, or sanctioned out of reach. The consequence is visible in the data. According
+      to Bloomberg Intelligence, the dollar’s share of global foreign currency reserves
+      has fallen from roughly 65% to around 40% over twenty-five years, with the decline
+      accelerating sharply since 2022. This is not gradual erosion. It is accelerating
+      diversification. At this pace, it starts to look like exit. And the more the privilege
+      is abused, the less anyone believes it is infrastructure. None of this is new.
+      The economists who built and studied the postwar system saw it coming. Keynes
+      foresaw the conflict of interest. At Bretton Woods he proposed the bancor, a supranational
+      reserve currency controlled by no single nation, designed to eliminate the temptation
+      inherent in a national currency serving as global reserve. The issuing nation
+      would eventually abuse the privilege because the incentives were irresistible.
+      The Americans rejected the bancor. They wanted the privilege. Triffin identified
+      the structural trap. In 1960 he observed that to supply global liquidity, the
+      reserve issuer must run persistent deficits. But persistent deficits accumulate
+      liabilities that eventually undermine confidence. The privilege is self-liquidating.
+      The reserve issuer must choose between starving the world of liquidity or drowning
+      itself in debt. Either way, the system breaks. Triffin predicted the collapse
+      of Bretton Woods. Nixon closed the gold window eleven years later. Rueff saw the
+      moral hazard. He called the dollar system “the monetary sin of the West” and advised
+      de Gaulle to convert French reserves to gold. He understood that a system dependent
+      on one nation’s discipline would fail when that nation lacked discipline. De Gaulle
+      demanded gold. The drain accelerated. Nixon could have defended convertibility
+      through painful discipline. He chose to close the window instead. Rueff was right.
+      The discipline would not hold. Keynes warned about the temptation. Triffin warned
+      about the structure. Rueff warned about the inevitable failure of discipline.
+      Weaponization confirms all three. It accelerates what was already structurally
+      inevitable, proves the conflict of interest Keynes identified, and demonstrates
+      the moral hazard Rueff named. One force is slow. The other is fast. The chart
+      shows both. Gradual decay from 2000 to 2020, then a cliff. There is no obvious
+      floor. Some will argue that Treasury market depth and dollar liquidity impose
+      one. But floors are behavioral, not structural. They hold until confidence breaks.
+      And confidence is precisely what weaponization spends. The decline stops when
+      the behavior stops, or when the diversification is complete. The alternatives
+      are already emerging. Bitcoin, gold, renminbi, bilateral arrangements that bypass
+      the dollar entirely. Bitcoin first because it is the only one that cannot be frozen,
+      seized, or sanctioned by any sovereign. That is not incidental to its appeal.
+      The others are substitutes within the state system. Bitcoin is a substitute outside
+      it. Hayek identified the logic in 1976. In “Denationalisation of Money” he argued
+      that monetary neutrality might require removing money from state control entirely.
+      Private currencies should compete with government money because governments cannot
+      resist the temptation to abuse monetary control. He did not foresee Bitcoin specifically,
+      but he foresaw the principle. Forty years later, Satoshi implemented what Hayek
+      theorized. None of these alternatives is a perfect replacement for dollar liquidity.
+      All are responses to the same lesson. A reserve asset that can be weaponized is
+      not a reserve asset. Settlement is a harder problem. Reserves can be diversified
+      by individual decision. Settlement requires network infrastructure, liquidity,
+      and counterparty adoption. The dollar’s dominance in transactions is stickier
+      than its dominance in reserves. But the market is working on settlement too. Slowly,
+      unevenly, and with no single alternative yet capable of matching dollar scale.
+      The point is that it is trying. The market can take the exorbitant privilege away.
+      Not by decree, but by a thousand individual decisions to reduce exposure to an
+      asset that has revealed itself as a tool of coercion. And when reserve holders
+      diversify, they are not likely to return. Trust is easier lost than earned. The
+      dollar’s privilege was never a right. It was a franchise. Exorbitant privilege
+      bought the United States extraordinary advantages. It also imposed an obligation
+      to behave like a steward, not an owner. The world granted that privilege on trust.
+      We are operating as if we own it. The market is reminding us that we rent it.
+      Weaponization spends it. Here is the audio from Randy Credico’s Friday broadcast,
+      which featured me and Andrey Martyanov. That is followed by me and Colonel Wilkerson
+      chatting with Nima: I thank you for your invaluable support by taking time to
+      read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article argues that the US dollar's long-standing status
+      as the world's reserve currency is at risk of ending due to the failure of the
+      United States to uphold its responsibilities, particularly regarding the dollar's
+      neutrality, which is essential for its continued dominance.
+    paragraph_summary: Jeffrey Wernick, owner of Bitchute, argues that the US dollar's
+      long-standing status as the world's primary reserve currency is nearing its end,
+      primarily due to the United States' own actions. He emphasizes that while the
+      dollar's reserve status has provided significant benefits, such as lower borrowing
+      costs and favorable trade terms, it also comes with responsibilities that the
+      US has failed to uphold. A reserve currency must be liquid, stable, and neutral,
+      but the US has compromised its neutrality by using the dollar as a tool for political
+      leverage, which undermines global trust and credibility. This shift reclassifies
+      the dollar from a risk-free asset to one that is conditionally risk-free, leading
+      to potential long-term costs for all dollar holders as central banks reconsider
+      their reliance on it. Wernick warns that the short-term gains from weaponizing
+      the dollar will ultimately harm its value and the global financial system.
+    published: '2026-01-25T05:48:39+00:00'
+  - title: Losing Dollar Supremacy… The Savage Consequences of Weaponizing the Dollar
+      as a Political Cudgel
+    url: https://sonar21.com/losing-dollar-supremacy-the-savage-consequences-of-weaponizing-the-dollar-as-a-political-cudgel/
+    text: 'It is good to have smart friends. Jeffrey Wernick, the owner of Bitchute
+      , is one of my exceptionally smart friends and he just posted on his X account
+      the following brilliant analysis . The 54-year reign of the US dollar as the world’s
+      preeminent reserve currency is coming to an inglorious end and we, the American
+      people, only have ourselves to blame: The dollar’s reserve status is an exorbitant
+      privilege. It lowers our borrowing costs, expands our fiscal room, and lets us
+      export risk and import goods on uniquely favorable terms. But privileges are not
+      entitlements. They are conditional. And they come with responsibilities. A reserve
+      currency must satisfy three conditions. Liquidity, stability, and neutrality.
+      The United States has always provided the first two. The third was assumed. It
+      is no longer assumed. A reserve currency is not just national money. It is global
+      infrastructure. It functions like a public utility for settlement, collateral,
+      and reserves. The responsibility is not “be nice.” The responsibility is to keep
+      the system credible as neutral plumbing. Predictable rules. Stable access. Property
+      rights that are not contingent on politics. If the world is going to hold your
+      liabilities as its safety buffer, you cannot treat those liabilities as a lever
+      of coercion. Weaponizing the dollar breaks that bargain. It turns the reserve
+      asset into conditional permission. It reclassifies the dollar from risk-free to
+      conditionally risk-free. The market reprices accordingly. This is a policy with
+      concentrated short-term benefits and diffuse long-term costs. The benefits accrue
+      to whoever is in office when the sanctions are imposed. The costs accrue to everyone
+      who holds dollars afterward. Naturally, the benefits are overweighted and the
+      costs are ignored. Credibility is spent to purchase momentary advantage. The chart
+      shows the price. Every central bank learns the same lesson. If access depends
+      on compliance, then holding dollars is not just a financial decision. It is a
+      geopolitical exposure. So reserve managers do what rational actors do when an
+      insurance policy starts behaving like a weapon. They diversify. This is not a
+      policy choice. It is a portfolio adjustment to a change in the risk characteristics
+      of the asset. This is why global trade can keep settling in dollars while dollar
+      reserves fall. Transactions follow network effects and liquidity. Reserves follow
+      trust. Transactions can be coerced in the short run because there is no alternative
+      settlement mechanism with comparable depth and liquidity. Reserves cannot be coerced
+      because the holder chooses them in advance and can substitute. Reserves are held
+      for crisis, and in a crisis you discover whether the asset you hold can be frozen,
+      seized, or sanctioned out of reach. The consequence is visible in the data. According
+      to Bloomberg Intelligence, the dollar’s share of global foreign currency reserves
+      has fallen from roughly 65% to around 40% over twenty-five years, with the decline
+      accelerating sharply since 2022. This is not gradual erosion. It is accelerating
+      diversification. At this pace, it starts to look like exit. And the more the privilege
+      is abused, the less anyone believes it is infrastructure. None of this is new.
+      The economists who built and studied the postwar system saw it coming. Keynes
+      foresaw the conflict of interest. At Bretton Woods he proposed the bancor, a supranational
+      reserve currency controlled by no single nation, designed to eliminate the temptation
+      inherent in a national currency serving as global reserve. The issuing nation
+      would eventually abuse the privilege because the incentives were irresistible.
+      The Americans rejected the bancor. They wanted the privilege. Triffin identified
+      the structural trap. In 1960 he observed that to supply global liquidity, the
+      reserve issuer must run persistent deficits. But persistent deficits accumulate
+      liabilities that eventually undermine confidence. The privilege is self-liquidating.
+      The reserve issuer must choose between starving the world of liquidity or drowning
+      itself in debt. Either way, the system breaks. Triffin predicted the collapse
+      of Bretton Woods. Nixon closed the gold window eleven years later. Rueff saw the
+      moral hazard. He called the dollar system “the monetary sin of the West” and advised
+      de Gaulle to convert French reserves to gold. He understood that a system dependent
+      on one nation’s discipline would fail when that nation lacked discipline. De Gaulle
+      demanded gold. The drain accelerated. Nixon could have defended convertibility
+      through painful discipline. He chose to close the window instead. Rueff was right.
+      The discipline would not hold. Keynes warned about the temptation. Triffin warned
+      about the structure. Rueff warned about the inevitable failure of discipline.
+      Weaponization confirms all three. It accelerates what was already structurally
+      inevitable, proves the conflict of interest Keynes identified, and demonstrates
+      the moral hazard Rueff named. One force is slow. The other is fast. The chart
+      shows both. Gradual decay from 2000 to 2020, then a cliff. There is no obvious
+      floor. Some will argue that Treasury market depth and dollar liquidity impose
+      one. But floors are behavioral, not structural. They hold until confidence breaks.
+      And confidence is precisely what weaponization spends. The decline stops when
+      the behavior stops, or when the diversification is complete. The alternatives
+      are already emerging. Bitcoin, gold, renminbi, bilateral arrangements that bypass
+      the dollar entirely. Bitcoin first because it is the only one that cannot be frozen,
+      seized, or sanctioned by any sovereign. That is not incidental to its appeal.
+      The others are substitutes within the state system. Bitcoin is a substitute outside
+      it. Hayek identified the logic in 1976. In “Denationalisation of Money” he argued
+      that monetary neutrality might require removing money from state control entirely.
+      Private currencies should compete with government money because governments cannot
+      resist the temptation to abuse monetary control. He did not foresee Bitcoin specifically,
+      but he foresaw the principle. Forty years later, Satoshi implemented what Hayek
+      theorized. None of these alternatives is a perfect replacement for dollar liquidity.
+      All are responses to the same lesson. A reserve asset that can be weaponized is
+      not a reserve asset. Settlement is a harder problem. Reserves can be diversified
+      by individual decision. Settlement requires network infrastructure, liquidity,
+      and counterparty adoption. The dollar’s dominance in transactions is stickier
+      than its dominance in reserves. But the market is working on settlement too. Slowly,
+      unevenly, and with no single alternative yet capable of matching dollar scale.
+      The point is that it is trying. The market can take the exorbitant privilege away.
+      Not by decree, but by a thousand individual decisions to reduce exposure to an
+      asset that has revealed itself as a tool of coercion. And when reserve holders
+      diversify, they are not likely to return. Trust is easier lost than earned. The
+      dollar’s privilege was never a right. It was a franchise. Exorbitant privilege
+      bought the United States extraordinary advantages. It also imposed an obligation
+      to behave like a steward, not an owner. The world granted that privilege on trust.
+      We are operating as if we own it. The market is reminding us that we rent it.
+      Weaponization spends it. Here is the audio from Randy Credico’s Friday broadcast,
+      which featured me and Andrey Martyanov. That is followed by me and Colonel Wilkerson
+      chatting with Nima: I thank you for your invaluable support by taking time to
+      read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article argues that the US dollar's long-standing status
+      as the world's reserve currency is at risk of ending due to the failure of the
+      United States to uphold its responsibilities, particularly regarding the dollar's
+      neutrality, which is essential for its continued dominance.
+    paragraph_summary: Jeffrey Wernick, owner of Bitchute, argues that the US dollar's
+      long-standing status as the world's primary reserve currency is nearing its end,
+      primarily due to the United States' own actions. He emphasizes that while the
+      dollar's reserve status has provided significant benefits, such as lower borrowing
+      costs and favorable trade terms, it also comes with responsibilities that the
+      US has failed to uphold. A reserve currency must be liquid, stable, and neutral,
+      but the US has compromised its neutrality by using the dollar as a tool for political
+      leverage, which undermines global trust and credibility. This shift reclassifies
+      the dollar from a risk-free asset to one that is conditionally risk-free, leading
+      to potential long-term costs for all dollar holders as central banks reconsider
+      their reliance on it. Wernick warns that the short-term gains from weaponizing
+      the dollar will ultimately harm its value and the global financial system.
+    published: '2026-01-25T05:48:39+00:00'
+  - title: By the Numbers… Which Nation is the Deadliest Terrorist?
+    url: https://sonar21.com/by-the-numbers-which-nation-is-the-deadliest-terrorist/
+    text: 'I am sure this article is going to upset some folks… Too damn bad! The data
+      that follows is not my opinion nor is it numbers based on my own calculations.
+      I am using Bibi Netanyahu’s definition of terrorism… Benjamin “Bibi” Netanyahu
+      defined terrorism on William F. Buckley Jr.’s TV program “Firing Line” in an episode
+      titled “Terrorism: Viewed from Abroad,” which was recorded on May 30, 1986. In
+      that interview, Netanyahu (then Israel’s ambassador to the UN) defined terrorism
+      as “ the deliberate and systematic targeting of civilians/innocents for political
+      or ideological ends .” Based on comprehensive data from conflict databases, academic
+      estimates, and reports on civilian casualties in foreign wars (excluding domestic
+      conflicts or genocides within a country’s own borders), the United States is responsible
+      for the highest number of civilian deaths in other countries since 1960. This
+      is primarily driven by major US-led or US-involved interventions, with total estimates
+      exceeding 4 million civilian fatalities across multiple conflicts (figures vary
+      due to challenges in attribution and indirect causes like famine or disease exacerbated
+      by war). Now let’s consider the number of civilian deaths caused by proxies since
+      1960 — i.e., US proxies (defined here as non-US groups or state actors materially
+      supported by the US through arms, funding, intelligence, or other aid to advance
+      US interests in foreign conflicts). The following numbers are drawn from Brown
+      University’s Costs of War (post-9/11 focus), Uppsala Conflict Data Program, Wikipedia
+      casualty ratios, and reports from Airwars, Human Rights Watch, and UN estimates.
+      These often include indirect deaths (e.g., 3.6–3.8 million in Iraq/Afghanistan
+      alone post-2001, some proxy-related). Based on data from conflict databases, academic
+      reports, and human rights analyses, a conservative aggregate estimate ranges from
+      approximately 1.5–3 million civilian deaths. This includes both direct violence
+      and indirect effects, with the higher end incorporating broader war-induced mortality.
+      Here are the major US-sponsored proxy wars that killed civilians: Afghan-Soviet
+      War (1979–1989) : US provided ~$3–6 billion in arms and aid to mujahideen fighters
+      as proxies against Soviet forces. Civilian deaths: ~800,000–1.5 million (from
+      bombings, landmines, and proxy guerrilla warfare; total war deaths ~1–2 million,
+      with civilians ~50–75%). Iran-Iraq War (1980–1988) : US supported Iraq as a proxy
+      against Iran via intelligence, loans (~$5 billion), and dual-use chemical precursors
+      (enabling mustard gas and other weapons used in attacks like Halabja, killing
+      ~5,000 civilians in one incident). Civilian deaths: ~100,000–500,000 (total war
+      deaths ~500,000–1 million; civilians ~20–50%, including ~50,000–100,000 from chemical
+      weapons). Angolan Civil War (1975–2002, US involvement 1980s–1990s) : US backed
+      UNITA rebels (~$250 million in aid) as proxies against the Soviet/Cuban-supported
+      government. Civilian deaths: ~300,000–500,000 (from fighting, mines, and famine;
+      total deaths ~500,000–800,000, civilians ~60%). Yemen Civil War (2015–ongoing)
+      : US supported Saudi-led coalition with arms (~$100 billion+ sales), intelligence,
+      and logistics as proxies against Houthi rebels. Civilian deaths: ~150,000–377,000
+      (direct ~85,000, indirect ~292,000 from famine/disease; UN and Costs of War estimates).
+      Syrian Civil War (2011–ongoing, US proxy support 2012–2020) : US armed and trained
+      moderate rebels (~$1 billion+) as proxies against Assad/ISIS. Attributed civilian
+      deaths: ~50,000–200,000 (in broader war; US-backed groups involved in ~10–20%
+      of total ~500,000 civilians killed, per Airwars and Syrian Observatory). Other
+      Notable Proxies (Aggregate ~100,000–300,000) : Includes Indonesian invasion of
+      East Timor (1975–1999, US arms/support: ~100,000–200,000 civilians); Mozambican
+      Civil War (1977–1992, US-backed RENAMO: ~100,000 civilians); and scattered drone/support
+      ops in Somalia/Pakistan (~5,000–10,000 civilians since 2001). The total number
+      of civilians killed by US-direct action or through proxies is at least 7 million.
+      Now let’s apply the same methodology to Iran. Iran has been involved in several
+      direct military actions since 1960, primarily the Iran-Iraq War (1980–1988) and
+      its intervention in the Syrian Civil War (2011–ongoing), with more limited direct
+      roles in conflicts like Yemen (advisory/missile support), Lebanon (1980s IRGC
+      presence), and Iraq (anti-ISIS operations). “Direct military actions” here excludes
+      proxy groups (e.g., Hezbollah, Houthis, or Iraqi militias) unless Iranian forces
+      were explicitly involved, as per the query focus. Reliable estimates of civilian
+      deaths from these actions are challenging due to underreporting, indirect causes
+      (e.g., disease/famine), and attribution issues, but aggregate figures from sources
+      like the UN, SNHR, and academic analyses suggest a total of approximately 100,000–200,000
+      civilian deaths attributable to Iranian military forces from 1960 to 2025. This
+      is a conservative range; higher ends include broader war-induced mortality. The
+      number of civilian deaths caused by Iranian proxies (groups materially supported,
+      trained, armed, or directed by Iran’s Islamic Revolutionary Guard Corps (IRGC)
+      or other state entities, such as Hezbollah, Iraqi Shia militias, Houthis, Hamas,
+      and others) since 1960 (primarily from 1979 onward, as Iran’s proxy network emerged
+      post-Islamic Revolution) is difficult to quantify precisely. Attribution is complex
+      due to shared responsibility in multi-party conflicts, underreporting, indirect
+      deaths (e.g., famine, disease), and varying definitions of “proxy” vs. direct
+      Iranian action. However, based on data from conflict databases (e.g., Uppsala
+      Conflict Data Program, Airwars), human rights reports (e.g., Syrian Network for
+      Human Rights, Human Rights Watch), and think tanks (e.g., Costs of War Project,
+      Wilson Center), a conservative aggregate estimate ranges from approximately 500,000–1.2
+      million civilian deaths attributable to these groups from 1979–2025. This is a
+      broad range; higher figures include indirect war effects, while lower ones focus
+      on direct violence. Let me leave you with one final data point… How many Israeli
+      civilians have been killed by terrorist attacks since 1982 (I start with 1982
+      because that is the year that Hezbollah emerged)? The total number of Israelis
+      killed in terrorist attacks since 1982 (through 2025) is approximately 4,000–4,500,
+      with the vast majority being civilians. This figure primarily covers attacks attributed
+      to Palestinian groups (e.g., Hamas, Palestinian Islamic Jihad, Fatah-linked militants,
+      lone actors) and Hezbollah (especially in the 1980s–2000s and 2023–2025 escalations),
+      as these have been the main sources of terrorism targeting Israelis. Keep these
+      numbers in mind the next time you hear that Iran is a vicious terrorist regime.
+      Iran has not killed — directly or indirectly– 7 million civilians. What you should
+      find particularly shocking is that Israel, despite wild claims of massive casualties
+      inflicted by Iran — has only lost a maximum of 4,500, which includes October 7,
+      from Iranian proxies. The total number of civilian deaths directly attributable
+      to Israeli military actions in other countries (or occupied territories) since
+      1960 (through 2025) is estimated in the range of approximately 150,000–250,000.
+      This is a rough aggregate based on data from UN agencies (e.g., OCHA, UNRWA),
+      human rights organizations (e.g., B’Tselem, Human Rights Watch), conflict databases
+      (e.g., Uppsala Conflict Data Program), and academic/historical sources. The range
+      reflects challenges in attribution (direct vs. indirect deaths), underreporting
+      in war zones, and debates over civilian vs. combatant status. So who is the real
+      terrorist nation? Before launching a new attack on Iran, the US and Israel need
+      to look in the mirror to see who poses the real threat to civilians. Here is today’s
+      Intelligence Roundtable with Judge Napolitano and Ray: Last, but certainly not
+      the least, is my latest interview with two distinguished Russian military and
+      foreign policy analysts: General Evgeny Buzhinsky and Dmitry Suslov. You already
+      know General Buzhinsky from my previous interviews. Dmitry Suslov is a Russian
+      political scientist specializing in international relations, U.S. foreign policy,
+      Russia-U.S. relations, and Eurasian security. He serves as Deputy Director of
+      the Center for Comprehensive European and International Studies (CCEIS) at the
+      Higher School of Economics (HSE University) in Moscow and as Deputy Director for
+      Research Programs at the Council on Foreign and Defense Policy (CFDP), a leading
+      Russian think tank. I thank you for your invaluable support by taking time to
+      read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article argues that, according to Bibi Netanyahu's definition
+      of terrorism, the United States has caused the highest number of civilian deaths
+      in foreign conflicts since 1960, primarily due to its military interventions,
+      with estimates exceeding 4 million casualties.
+    paragraph_summary: The article discusses the definition of terrorism as articulated
+      by Benjamin Netanyahu, which emphasizes the deliberate targeting of civilians
+      for political purposes. It presents data indicating that the United States has
+      been responsible for the highest number of civilian deaths in foreign conflicts
+      since 1960, with estimates exceeding 4 million fatalities due to various US-led
+      interventions. Additionally, it highlights the civilian casualties resulting from
+      US-supported proxies, estimating between 1.5 to 3 million deaths, including both
+      direct violence and indirect consequences such as famine and disease exacerbated
+      by war. The article relies on comprehensive data from various conflict databases
+      and human rights organizations to substantiate these claims.
+    published: '2026-01-24T03:09:15+00:00'
+  - title: By the Numbers… Which Nation is the Deadliest Terrorist?
+    url: https://sonar21.com/by-the-numbers-which-nation-is-the-deadliest-terrorist/
+    text: 'I am sure this article is going to upset some folks… Too damn bad! The data
+      that follows is not my opinion nor is it numbers based on my own calculations.
+      I am using Bibi Netanyahu’s definition of terrorism… Benjamin “Bibi” Netanyahu
+      defined terrorism on William F. Buckley Jr.’s TV program “Firing Line” in an episode
+      titled “Terrorism: Viewed from Abroad,” which was recorded on May 30, 1986. In
+      that interview, Netanyahu (then Israel’s ambassador to the UN) defined terrorism
+      as “ the deliberate and systematic targeting of civilians/innocents for political
+      or ideological ends .” Based on comprehensive data from conflict databases, academic
+      estimates, and reports on civilian casualties in foreign wars (excluding domestic
+      conflicts or genocides within a country’s own borders), the United States is responsible
+      for the highest number of civilian deaths in other countries since 1960. This
+      is primarily driven by major US-led or US-involved interventions, with total estimates
+      exceeding 4 million civilian fatalities across multiple conflicts (figures vary
+      due to challenges in attribution and indirect causes like famine or disease exacerbated
+      by war). Now let’s consider the number of civilian deaths caused by proxies since
+      1960 — i.e., US proxies (defined here as non-US groups or state actors materially
+      supported by the US through arms, funding, intelligence, or other aid to advance
+      US interests in foreign conflicts). The following numbers are drawn from Brown
+      University’s Costs of War (post-9/11 focus), Uppsala Conflict Data Program, Wikipedia
+      casualty ratios, and reports from Airwars, Human Rights Watch, and UN estimates.
+      These often include indirect deaths (e.g., 3.6–3.8 million in Iraq/Afghanistan
+      alone post-2001, some proxy-related). Based on data from conflict databases, academic
+      reports, and human rights analyses, a conservative aggregate estimate ranges from
+      approximately 1.5–3 million civilian deaths. This includes both direct violence
+      and indirect effects, with the higher end incorporating broader war-induced mortality.
+      Here are the major US-sponsored proxy wars that killed civilians: Afghan-Soviet
+      War (1979–1989) : US provided ~$3–6 billion in arms and aid to mujahideen fighters
+      as proxies against Soviet forces. Civilian deaths: ~800,000–1.5 million (from
+      bombings, landmines, and proxy guerrilla warfare; total war deaths ~1–2 million,
+      with civilians ~50–75%). Iran-Iraq War (1980–1988) : US supported Iraq as a proxy
+      against Iran via intelligence, loans (~$5 billion), and dual-use chemical precursors
+      (enabling mustard gas and other weapons used in attacks like Halabja, killing
+      ~5,000 civilians in one incident). Civilian deaths: ~100,000–500,000 (total war
+      deaths ~500,000–1 million; civilians ~20–50%, including ~50,000–100,000 from chemical
+      weapons). Angolan Civil War (1975–2002, US involvement 1980s–1990s) : US backed
+      UNITA rebels (~$250 million in aid) as proxies against the Soviet/Cuban-supported
+      government. Civilian deaths: ~300,000–500,000 (from fighting, mines, and famine;
+      total deaths ~500,000–800,000, civilians ~60%). Yemen Civil War (2015–ongoing)
+      : US supported Saudi-led coalition with arms (~$100 billion+ sales), intelligence,
+      and logistics as proxies against Houthi rebels. Civilian deaths: ~150,000–377,000
+      (direct ~85,000, indirect ~292,000 from famine/disease; UN and Costs of War estimates).
+      Syrian Civil War (2011–ongoing, US proxy support 2012–2020) : US armed and trained
+      moderate rebels (~$1 billion+) as proxies against Assad/ISIS. Attributed civilian
+      deaths: ~50,000–200,000 (in broader war; US-backed groups involved in ~10–20%
+      of total ~500,000 civilians killed, per Airwars and Syrian Observatory). Other
+      Notable Proxies (Aggregate ~100,000–300,000) : Includes Indonesian invasion of
+      East Timor (1975–1999, US arms/support: ~100,000–200,000 civilians); Mozambican
+      Civil War (1977–1992, US-backed RENAMO: ~100,000 civilians); and scattered drone/support
+      ops in Somalia/Pakistan (~5,000–10,000 civilians since 2001). The total number
+      of civilians killed by US-direct action or through proxies is at least 7 million.
+      Now let’s apply the same methodology to Iran. Iran has been involved in several
+      direct military actions since 1960, primarily the Iran-Iraq War (1980–1988) and
+      its intervention in the Syrian Civil War (2011–ongoing), with more limited direct
+      roles in conflicts like Yemen (advisory/missile support), Lebanon (1980s IRGC
+      presence), and Iraq (anti-ISIS operations). “Direct military actions” here excludes
+      proxy groups (e.g., Hezbollah, Houthis, or Iraqi militias) unless Iranian forces
+      were explicitly involved, as per the query focus. Reliable estimates of civilian
+      deaths from these actions are challenging due to underreporting, indirect causes
+      (e.g., disease/famine), and attribution issues, but aggregate figures from sources
+      like the UN, SNHR, and academic analyses suggest a total of approximately 100,000–200,000
+      civilian deaths attributable to Iranian military forces from 1960 to 2025. This
+      is a conservative range; higher ends include broader war-induced mortality. The
+      number of civilian deaths caused by Iranian proxies (groups materially supported,
+      trained, armed, or directed by Iran’s Islamic Revolutionary Guard Corps (IRGC)
+      or other state entities, such as Hezbollah, Iraqi Shia militias, Houthis, Hamas,
+      and others) since 1960 (primarily from 1979 onward, as Iran’s proxy network emerged
+      post-Islamic Revolution) is difficult to quantify precisely. Attribution is complex
+      due to shared responsibility in multi-party conflicts, underreporting, indirect
+      deaths (e.g., famine, disease), and varying definitions of “proxy” vs. direct
+      Iranian action. However, based on data from conflict databases (e.g., Uppsala
+      Conflict Data Program, Airwars), human rights reports (e.g., Syrian Network for
+      Human Rights, Human Rights Watch), and think tanks (e.g., Costs of War Project,
+      Wilson Center), a conservative aggregate estimate ranges from approximately 500,000–1.2
+      million civilian deaths attributable to these groups from 1979–2025. This is a
+      broad range; higher figures include indirect war effects, while lower ones focus
+      on direct violence. Let me leave you with one final data point… How many Israeli
+      civilians have been killed by terrorist attacks since 1982 (I start with 1982
+      because that is the year that Hezbollah emerged)? The total number of Israelis
+      killed in terrorist attacks since 1982 (through 2025) is approximately 4,000–4,500,
+      with the vast majority being civilians. This figure primarily covers attacks attributed
+      to Palestinian groups (e.g., Hamas, Palestinian Islamic Jihad, Fatah-linked militants,
+      lone actors) and Hezbollah (especially in the 1980s–2000s and 2023–2025 escalations),
+      as these have been the main sources of terrorism targeting Israelis. Keep these
+      numbers in mind the next time you hear that Iran is a vicious terrorist regime.
+      Iran has not killed — directly or indirectly– 7 million civilians. What you should
+      find particularly shocking is that Israel, despite wild claims of massive casualties
+      inflicted by Iran — has only lost a maximum of 4,500, which includes October 7,
+      from Iranian proxies. The total number of civilian deaths directly attributable
+      to Israeli military actions in other countries (or occupied territories) since
+      1960 (through 2025) is estimated in the range of approximately 150,000–250,000.
+      This is a rough aggregate based on data from UN agencies (e.g., OCHA, UNRWA),
+      human rights organizations (e.g., B’Tselem, Human Rights Watch), conflict databases
+      (e.g., Uppsala Conflict Data Program), and academic/historical sources. The range
+      reflects challenges in attribution (direct vs. indirect deaths), underreporting
+      in war zones, and debates over civilian vs. combatant status. So who is the real
+      terrorist nation? Before launching a new attack on Iran, the US and Israel need
+      to look in the mirror to see who poses the real threat to civilians. Here is today’s
+      Intelligence Roundtable with Judge Napolitano and Ray: Last, but certainly not
+      the least, is my latest interview with two distinguished Russian military and
+      foreign policy analysts: General Evgeny Buzhinsky and Dmitry Suslov. You already
+      know General Buzhinsky from my previous interviews. Dmitry Suslov is a Russian
+      political scientist specializing in international relations, U.S. foreign policy,
+      Russia-U.S. relations, and Eurasian security. He serves as Deputy Director of
+      the Center for Comprehensive European and International Studies (CCEIS) at the
+      Higher School of Economics (HSE University) in Moscow and as Deputy Director for
+      Research Programs at the Council on Foreign and Defense Policy (CFDP), a leading
+      Russian think tank. I thank you for your invaluable support by taking time to
+      read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article argues that, according to Bibi Netanyahu's definition
+      of terrorism, the United States has caused the highest number of civilian deaths
+      in foreign conflicts since 1960, primarily due to its military interventions,
+      with estimates exceeding 4 million casualties.
+    paragraph_summary: The article discusses the definition of terrorism as articulated
+      by Benjamin Netanyahu, which emphasizes the deliberate targeting of civilians
+      for political purposes. It presents data indicating that the United States has
+      been responsible for the highest number of civilian deaths in foreign conflicts
+      since 1960, with estimates exceeding 4 million fatalities due to various US-led
+      interventions. Additionally, it highlights the civilian casualties resulting from
+      US-supported proxies, estimating between 1.5 to 3 million deaths, including both
+      direct violence and indirect consequences such as famine and disease exacerbated
+      by war. The article relies on comprehensive data from various conflict databases
+      and human rights organizations to substantiate these claims.
+    published: '2026-01-24T03:09:15+00:00'
+  - title: Witkoff and Kushner Spend Almost Four Hours with Putin, but No Diplomatic
+      Breakthrough
+    url: https://sonar21.com/witkoff-and-kushner-spend-almost-four-hours-with-putin-but-no-diplomatic-breakthrough/
+    text: 'As I reflect on the just concluded meeting at the Kremlin with Vladimir Putin
+      and his team on one side of the table and Steve Witkoff and Jared Kushner on the
+      other side, the most significant result of the meeting is that Putin named the
+      Chief of Russia’s military intelligence organization — i.e., the GRU — to head
+      the Russian delegation that will meet on Friday, January 23, in Abu Dhabi with
+      representatives of Ukraine and the United States. I will explain why that is remarkable
+      and indicates where the negotiations currently stand. First, let’s look at Sputnik’s
+      summary of the meeting as told by Mr. Ushakov: The negotiations between Putin,
+      Witkoff, Kushner, and Grunbaum were constructive and extremely frank, Ushakov
+      stated. What else the presidential aide said following the meeting: It was noted
+      that without resolving the territorial issue, a long-term settlement cannot be
+      expected. It was agreed that the first meeting of the trilateral working group
+      on security issues, involving representatives of Russia, the US, and Ukraine,
+      will take place on Friday in Abu Dhabi. They agreed that the first meeting of
+      the Russia-US-Ukraine trilateral working group on security issues will be held
+      in Abu Dhabi on January 23. GRU Chief Kostyukov will lead the Russian negotiating
+      team. The Russian delegation heading to Abu Dhabi has received specific instructions
+      from Putin. The heads of the bilateral economic working group, Dmitriev and Witkoff,
+      will meet in Abu Dhabi. The meeting focused on obtaining information about the
+      outcomes of US contacts with Kyiv and Europe. Witkoff and Kushner shared their
+      impressions from the contacts that took place in Davos, including the meeting
+      between Trump and Zelensky. Russia will continue to consistently pursue the objectives
+      of the special military operation as long as a settlement cannot be achieved through
+      political and diplomatic means. The key phrase is, constructive and extremely
+      frank … That means there was a heated exchange of views and some very tough talk.
+      Yet, at the end of almost four hours, there also was agreement to continue talking.
+      Putin did not retreat an inch from the conditions for negotiations to end the
+      war that he presented to senior Russian foreign ministry officials on 14 June
+      2024. The meeting today (Friday) in Abu Dhabi of the Russia-US-Ukraine trilateral
+      working group on security issues is not going to address conventional diplomatic
+      issues that could lead to a peace agreement. This will be a meeting that focuses
+      strictly on security and intelligence issues. Putin’s selection of  GRU Chief
+      Kostyukov is intended to send a clear message to both Ukraine and the United States.
+      Admiral Igor Olegovich Kostyukov (born February 21, 1961) is the current Director
+      (Chief) of the Main Directorate of the General Staff of the Armed Forces of the
+      Russian Federation (commonly known as the GRU or GU ), Russia’s primary military
+      intelligence agency. He has held this position since December 2018, making him
+      the longest-serving GRU head in recent decades. He is the first naval officer
+      (Vice Admiral/Admiral rank) to lead the traditionally army-dominated GRU. As GRU
+      Director, Kostyukov oversees foreign military intelligence collection, covert
+      operations, signals intelligence, special forces (Spetsnaz GRU), and cyber activities.
+      In early January 2026, Kostyukov appeared in Russian state media reports meeting
+      with the US military attaché representative at the US Embassy in Moscow. He handed
+      over materials (including a drone controller and decoded data) that Russia claims
+      prove a Ukrainian UAV attack targeted President Putin’s residence in the Novgorod
+      region on December 29, 2025. This was presented as evidence to “establish the
+      truth” and resolve questions about the incident. The meeting was publicized by
+      the Russian Defense Ministry, highlighting his role in diplomatic/intelligence
+      exchanges amid ongoing tensions. Normally a GRU Chief is not heading up a diplomatic
+      initiative, but there have been instances in Russian (and Soviet) history where
+      representatives of military intelligence—specifically the GRU (Main Directorate
+      of the General Staff of the Armed Forces, formerly the Main Intelligence Directorate)—have
+      headed up or played key roles in negotiations. These are relatively rare, as the
+      GRU is primarily focused on military espionage, covert operations, and intelligence
+      gathering rather than formal diplomacy (which is typically handled by the Foreign
+      Ministry or civilian agencies like the SVR). However, the GRU has occasionally
+      been involved in high-stakes, back channel talks, especially during the Cold War
+      era when military tensions were acute. The most prominent and well-documented
+      example occurred during the Cuban Missile Crisis in October 1962, a 13-day standoff
+      between the Soviet Union and the United States that brought the world to the brink
+      of nuclear war. The GRU played a direct role in facilitating backchannel negotiations
+      to de-escalate the crisis. Colonel Aleksandr Feklisov (operating under the alias
+      “Aleksandr Fomin”), a senior GRU officer stationed in Washington, D.C., as the
+      Soviet embassy’s intelligence rezident (chief). Feklisov was a seasoned operative
+      with prior experience in espionage (e.g., handling the Rosenbergs in the US during
+      the 1940s). On October 26, 1962, Feklisov initiated contact with John Scali, an
+      ABC News correspondent with ties to US officials. Acting on instructions from
+      Moscow (likely coordinated through GRU channels), Feklisov proposed a deal: The
+      Soviet Union would remove its missiles from Cuba if the US pledged not to invade
+      the island and removed its Jupiter missiles from Turkey. Scali relayed this to
+      US Secretary of State Dean Rusk and President John F. Kennedy, serving as an informal
+      conduit. In selecting Admiral Kostyukov to lead the Russian delegation to the
+      tripartite talks on security, Putin is strongly signalling that security issues
+      for Russia are a top priority. Kostyukov knows how the CIA has propped up and
+      enabled Ukrainian intelligence and terrorist operations against Russia. I believe
+      that securing an agreement from the US and Ukraine to cease all attacks on Russian
+      civilians will be a priority objective in the negotiations. Here is the bottom
+      line from Putin’s aide, Yuri Ushakov: Russia will continue to consistently pursue
+      the objectives of the special military operation as long as a settlement cannot
+      be achieved through political and diplomatic means. That is the critical message
+      that Witkoff and Kushner will deliver to President Trump on Friday… Russia is
+      not going to let up on its current military campaign and will continue to inflict
+      massive damage to Ukraine’s infrastructure and military until Ukraine and NATO
+      agree to end the war through negotiations. The two key podcasts today were first
+      with Danny Haiphong and Stas Krapivnik, followed by Garland Nixon: I thank you
+      for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: The recent Kremlin meeting between Vladimir Putin, Steve Witkoff,
+      and Jared Kushner resulted in the appointment of the head of Russia's military
+      intelligence, the GRU, to lead upcoming negotiations with Ukraine and the U.S.,
+      highlighting the importance of resolving territorial disputes for a long-term
+      settlement.
+    paragraph_summary: In a recent meeting at the Kremlin, Vladimir Putin and his team
+      engaged in discussions with Steve Witkoff and Jared Kushner, resulting in the
+      notable appointment of the Chief of Russia's military intelligence, the GRU, to
+      lead the Russian delegation in upcoming negotiations with Ukraine and the United
+      States in Abu Dhabi on January 23. The meeting was characterized as "constructive
+      and extremely frank," indicating a candid exchange of views on critical issues,
+      particularly the unresolved territorial disputes that hinder long-term peace.
+      The trilateral working group on security issues will convene in Abu Dhabi, with
+      specific instructions from Putin guiding the Russian delegation. Additionally,
+      discussions included the outcomes of US interactions with Kyiv and Europe, as
+      well as insights from recent meetings in Davos, highlighting Russia's commitment
+      to pursuing its military objectives until a political resolution is achieved.
+    published: '2026-01-23T03:03:30+00:00'
+  - title: Witkoff and Kushner Spend Almost Four Hours with Putin, but No Diplomatic
+      Breakthrough
+    url: https://sonar21.com/witkoff-and-kushner-spend-almost-four-hours-with-putin-but-no-diplomatic-breakthrough/
+    text: 'As I reflect on the just concluded meeting at the Kremlin with Vladimir Putin
+      and his team on one side of the table and Steve Witkoff and Jared Kushner on the
+      other side, the most significant result of the meeting is that Putin named the
+      Chief of Russia’s military intelligence organization — i.e., the GRU — to head
+      the Russian delegation that will meet on Friday, January 23, in Abu Dhabi with
+      representatives of Ukraine and the United States. I will explain why that is remarkable
+      and indicates where the negotiations currently stand. First, let’s look at Sputnik’s
+      summary of the meeting as told by Mr. Ushakov: The negotiations between Putin,
+      Witkoff, Kushner, and Grunbaum were constructive and extremely frank, Ushakov
+      stated. What else the presidential aide said following the meeting: It was noted
+      that without resolving the territorial issue, a long-term settlement cannot be
+      expected. It was agreed that the first meeting of the trilateral working group
+      on security issues, involving representatives of Russia, the US, and Ukraine,
+      will take place on Friday in Abu Dhabi. They agreed that the first meeting of
+      the Russia-US-Ukraine trilateral working group on security issues will be held
+      in Abu Dhabi on January 23. GRU Chief Kostyukov will lead the Russian negotiating
+      team. The Russian delegation heading to Abu Dhabi has received specific instructions
+      from Putin. The heads of the bilateral economic working group, Dmitriev and Witkoff,
+      will meet in Abu Dhabi. The meeting focused on obtaining information about the
+      outcomes of US contacts with Kyiv and Europe. Witkoff and Kushner shared their
+      impressions from the contacts that took place in Davos, including the meeting
+      between Trump and Zelensky. Russia will continue to consistently pursue the objectives
+      of the special military operation as long as a settlement cannot be achieved through
+      political and diplomatic means. The key phrase is, constructive and extremely
+      frank … That means there was a heated exchange of views and some very tough talk.
+      Yet, at the end of almost four hours, there also was agreement to continue talking.
+      Putin did not retreat an inch from the conditions for negotiations to end the
+      war that he presented to senior Russian foreign ministry officials on 14 June
+      2024. The meeting today (Friday) in Abu Dhabi of the Russia-US-Ukraine trilateral
+      working group on security issues is not going to address conventional diplomatic
+      issues that could lead to a peace agreement. This will be a meeting that focuses
+      strictly on security and intelligence issues. Putin’s selection of  GRU Chief
+      Kostyukov is intended to send a clear message to both Ukraine and the United States.
+      Admiral Igor Olegovich Kostyukov (born February 21, 1961) is the current Director
+      (Chief) of the Main Directorate of the General Staff of the Armed Forces of the
+      Russian Federation (commonly known as the GRU or GU ), Russia’s primary military
+      intelligence agency. He has held this position since December 2018, making him
+      the longest-serving GRU head in recent decades. He is the first naval officer
+      (Vice Admiral/Admiral rank) to lead the traditionally army-dominated GRU. As GRU
+      Director, Kostyukov oversees foreign military intelligence collection, covert
+      operations, signals intelligence, special forces (Spetsnaz GRU), and cyber activities.
+      In early January 2026, Kostyukov appeared in Russian state media reports meeting
+      with the US military attaché representative at the US Embassy in Moscow. He handed
+      over materials (including a drone controller and decoded data) that Russia claims
+      prove a Ukrainian UAV attack targeted President Putin’s residence in the Novgorod
+      region on December 29, 2025. This was presented as evidence to “establish the
+      truth” and resolve questions about the incident. The meeting was publicized by
+      the Russian Defense Ministry, highlighting his role in diplomatic/intelligence
+      exchanges amid ongoing tensions. Normally a GRU Chief is not heading up a diplomatic
+      initiative, but there have been instances in Russian (and Soviet) history where
+      representatives of military intelligence—specifically the GRU (Main Directorate
+      of the General Staff of the Armed Forces, formerly the Main Intelligence Directorate)—have
+      headed up or played key roles in negotiations. These are relatively rare, as the
+      GRU is primarily focused on military espionage, covert operations, and intelligence
+      gathering rather than formal diplomacy (which is typically handled by the Foreign
+      Ministry or civilian agencies like the SVR). However, the GRU has occasionally
+      been involved in high-stakes, back channel talks, especially during the Cold War
+      era when military tensions were acute. The most prominent and well-documented
+      example occurred during the Cuban Missile Crisis in October 1962, a 13-day standoff
+      between the Soviet Union and the United States that brought the world to the brink
+      of nuclear war. The GRU played a direct role in facilitating backchannel negotiations
+      to de-escalate the crisis. Colonel Aleksandr Feklisov (operating under the alias
+      “Aleksandr Fomin”), a senior GRU officer stationed in Washington, D.C., as the
+      Soviet embassy’s intelligence rezident (chief). Feklisov was a seasoned operative
+      with prior experience in espionage (e.g., handling the Rosenbergs in the US during
+      the 1940s). On October 26, 1962, Feklisov initiated contact with John Scali, an
+      ABC News correspondent with ties to US officials. Acting on instructions from
+      Moscow (likely coordinated through GRU channels), Feklisov proposed a deal: The
+      Soviet Union would remove its missiles from Cuba if the US pledged not to invade
+      the island and removed its Jupiter missiles from Turkey. Scali relayed this to
+      US Secretary of State Dean Rusk and President John F. Kennedy, serving as an informal
+      conduit. In selecting Admiral Kostyukov to lead the Russian delegation to the
+      tripartite talks on security, Putin is strongly signalling that security issues
+      for Russia are a top priority. Kostyukov knows how the CIA has propped up and
+      enabled Ukrainian intelligence and terrorist operations against Russia. I believe
+      that securing an agreement from the US and Ukraine to cease all attacks on Russian
+      civilians will be a priority objective in the negotiations. Here is the bottom
+      line from Putin’s aide, Yuri Ushakov: Russia will continue to consistently pursue
+      the objectives of the special military operation as long as a settlement cannot
+      be achieved through political and diplomatic means. That is the critical message
+      that Witkoff and Kushner will deliver to President Trump on Friday… Russia is
+      not going to let up on its current military campaign and will continue to inflict
+      massive damage to Ukraine’s infrastructure and military until Ukraine and NATO
+      agree to end the war through negotiations. The two key podcasts today were first
+      with Danny Haiphong and Stas Krapivnik, followed by Garland Nixon: I thank you
+      for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: The recent Kremlin meeting between Vladimir Putin, Steve Witkoff,
+      and Jared Kushner resulted in the appointment of the head of Russia's military
+      intelligence, the GRU, to lead upcoming negotiations with Ukraine and the U.S.,
+      highlighting the importance of resolving territorial disputes for a long-term
+      settlement.
+    paragraph_summary: In a recent meeting at the Kremlin, Vladimir Putin and his team
+      engaged in discussions with Steve Witkoff and Jared Kushner, resulting in the
+      notable appointment of the Chief of Russia's military intelligence, the GRU, to
+      lead the Russian delegation in upcoming negotiations with Ukraine and the United
+      States in Abu Dhabi on January 23. The meeting was characterized as "constructive
+      and extremely frank," indicating a candid exchange of views on critical issues,
+      particularly the unresolved territorial disputes that hinder long-term peace.
+      The trilateral working group on security issues will convene in Abu Dhabi, with
+      specific instructions from Putin guiding the Russian delegation. Additionally,
+      discussions included the outcomes of US interactions with Kyiv and Europe, as
+      well as insights from recent meetings in Davos, highlighting Russia's commitment
+      to pursuing its military objectives until a political resolution is achieved.
+    published: '2026-01-23T03:03:30+00:00'
+  - title: China’s Silent, Tough Response to Washington’s Kidnapping of the Maduros
+    url: https://sonar21.com/chinas-silent-tough-response-to-washingtons-kidnapping-of-the-maduros/
+    text: 'Just because the Western press does not report on China’s impressive response
+      to the US abduction of Venezuela’s President Nicholas Maduro and his wife does
+      not mean it did not happen. I find the following article posted on RT (i.e., Russia
+      Today) shocking : China strongly condemned the kidnapping and violation of Venezuela’s
+      sovereignty. Without large-scale gestures in the style of Trump or Macron, the
+      country has taken steps because it has come to the conclusion that the U.S. is
+      making control of Venezuelan oil a tool to curb China’s presence in South America
+      and hinder its rapid, irreversible development. . . . Just hours after the kidnapping
+      of President Nicolás Maduro became known, Xi Jinping convened an urgent meeting
+      of the Politburo Standing Committee, which lasted exactly 120 minutes. There were
+      no communiqués or diplomatic threats, but only the silence before the storm, because
+      this meeting activated what Chinese strategists call an “integrated asymmetric
+      response” to respond to aggression against the partners in the Western Hemisphere,
+      with Venezuela being the landing head for Latin America in the “backyard of the
+      US.” The first phase of the Chinese reaction set at 9:15 a.m. on the 4th. January,
+      when the People’s Bank of China discreetly announced the temporary suspension
+      of all transactions in US dollars with companies that have ties to the US defense
+      sector. Boeing, Lockheed Martin, Raytheon and General Dynamics awoke with the
+      news that all their transactions with China had been frozen without notice. At
+      11:43 a.m. the same day, the State Grid Corporation of China, which controls the
+      world’s largest power grid, announced the technical review of all of its contracts
+      with U.S. suppliers of electrical equipment, implying that China is disconnecting
+      from American technology. At 2:17 p.m., China National Petroleum Corporation,
+      the world’s largest state-owned oil company, announced the strategic reorganization
+      of its global supply routes. That means the energy weapon has been re-activated,
+      which in turn means the lifting of oil supply contracts with US refineries worth
+      47 billion dollars a year. This oil, previously delivered to the east coast of
+      the US, has now been diverted to India, Brazil, South Africa and other partners
+      in the Global South. This caused oil prices to skyrocket by 23 percent in a single
+      trading session. . . . In another train, the China Ocean Shipping Company, which
+      controls about 40 percent of global maritime transport capabilities, conducted
+      a so-called optimization of operational routes, meaning Chinese cargo ships have
+      begun to avoid the use of American ports: Long Beach, Los Angeles, New York and
+      Miami, which relies on Chinese maritime logistics for their supply chains, suddenly
+      lost 35 percent of their normal container traffic – a disaster for Walmart, Amazon,
+      Target, and others. These companies, which rely on Chinese ships for the import
+      of products manufactured in China into American ports, saw their supply chains
+      partially collapse within a few hours. I am assuming the report is accurate. If
+      true, this shows that China is very well prepared to play hardball with the US
+      while retaining a calm facade. There is one more paragraph I want to share: The
+      coronation came on 5. January, when Beijing activated the financial weapon: The
+      Chinese cross-border interbank payment system (CIPS) announced that it would expand
+      its operational capacity to include any global transaction that the Washington-controlled
+      SWIFT system wants to circumvent. That means China has provided a fully functional
+      alternative to the Western financial system for the world. . . . The reaction
+      was immediate and massive: in the first 48 hours after commissioning, transactions
+      worth 89 billion dollars were settled. Central banks from 34 countries opened
+      operational accounts in the Chinese system, which means an accelerated de-dollarization
+      of one of the most important sources of funding in the US. CIPS is a potentially
+      very powerful new tool in the BRICS financial infrastructure that is developing
+      before our eyes. The fact that SWIFT is relying on ancient technology — i.e.,
+      ancient in the sense that it is non-digital and is nothing more that an out-dated
+      closed email system that was relevant in the 1990s but is now being eclipsed by
+      the digital age. The US attempt to use tariffs as a political bludgeon to coerce
+      countries to change their politics is enabling the more rapid development of financial
+      infrastructure that the US cannot control. Trump and his dinosaur advisors are
+      still laboring under the delusional that the US and the dollar reserve system
+      are irreplaceable. There are several facts that most in the US fail to grasp:
+      1)more countries are dumping dollars and buying precious metals while doing trade
+      in their respective currencies, 2) the US is over leveraged as its debt spirals
+      out of control and no quick solution to re-industrialize the US. I had a very
+      busy day doing YouTube podcasts. The first was with Shaun Attwood, followed by
+      Steven Yang of Natural Resources Stocks . Next was a great conversation with Mario
+      Nawfal. I ended the day with Ed DeMarche of the Trends Journal , which is Gerald
+      Celente’s channel: I thank you for your invaluable support by taking time to read
+      or comment. I do not charge a subscription fee nor do I accept advertising. I
+      want the content to be accessible to everyone interested in the issues I am discussing.
+      However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: China condemned the U.S. abduction of Venezuelan President
+      Nicolás Maduro and initiated a strategic response, recognizing the incident as
+      an attempt to undermine its influence in South America, despite the lack of coverage
+      from Western media.
+    paragraph_summary: The article discusses China's strong reaction to the U.S. abduction
+      of Venezuelan President Nicolás Maduro and his wife, highlighting that despite
+      a lack of coverage in Western media, China condemned the act as a violation of
+      Venezuela's sovereignty. Following the incident, Chinese President Xi Jinping
+      convened a significant meeting of the Politburo Standing Committee to strategize
+      a response, which is described as an "integrated asymmetric response" aimed at
+      countering U.S. influence in Latin America. China's initial actions included suspending
+      all transactions in U.S. dollars with companies linked to the U.S. defense sector
+      and reviewing contracts with U.S. suppliers of electrical equipment, signaling
+      a strategic shift away from American technology and a reorganization of its global
+      oil supply routes.
+    published: '2026-01-22T04:51:27+00:00'
+  - title: China’s Silent, Tough Response to Washington’s Kidnapping of the Maduros
+    url: https://sonar21.com/chinas-silent-tough-response-to-washingtons-kidnapping-of-the-maduros/
+    text: 'Just because the Western press does not report on China’s impressive response
+      to the US abduction of Venezuela’s President Nicholas Maduro and his wife does
+      not mean it did not happen. I find the following article posted on RT (i.e., Russia
+      Today) shocking : China strongly condemned the kidnapping and violation of Venezuela’s
+      sovereignty. Without large-scale gestures in the style of Trump or Macron, the
+      country has taken steps because it has come to the conclusion that the U.S. is
+      making control of Venezuelan oil a tool to curb China’s presence in South America
+      and hinder its rapid, irreversible development. . . . Just hours after the kidnapping
+      of President Nicolás Maduro became known, Xi Jinping convened an urgent meeting
+      of the Politburo Standing Committee, which lasted exactly 120 minutes. There were
+      no communiqués or diplomatic threats, but only the silence before the storm, because
+      this meeting activated what Chinese strategists call an “integrated asymmetric
+      response” to respond to aggression against the partners in the Western Hemisphere,
+      with Venezuela being the landing head for Latin America in the “backyard of the
+      US.” The first phase of the Chinese reaction set at 9:15 a.m. on the 4th. January,
+      when the People’s Bank of China discreetly announced the temporary suspension
+      of all transactions in US dollars with companies that have ties to the US defense
+      sector. Boeing, Lockheed Martin, Raytheon and General Dynamics awoke with the
+      news that all their transactions with China had been frozen without notice. At
+      11:43 a.m. the same day, the State Grid Corporation of China, which controls the
+      world’s largest power grid, announced the technical review of all of its contracts
+      with U.S. suppliers of electrical equipment, implying that China is disconnecting
+      from American technology. At 2:17 p.m., China National Petroleum Corporation,
+      the world’s largest state-owned oil company, announced the strategic reorganization
+      of its global supply routes. That means the energy weapon has been re-activated,
+      which in turn means the lifting of oil supply contracts with US refineries worth
+      47 billion dollars a year. This oil, previously delivered to the east coast of
+      the US, has now been diverted to India, Brazil, South Africa and other partners
+      in the Global South. This caused oil prices to skyrocket by 23 percent in a single
+      trading session. . . . In another train, the China Ocean Shipping Company, which
+      controls about 40 percent of global maritime transport capabilities, conducted
+      a so-called optimization of operational routes, meaning Chinese cargo ships have
+      begun to avoid the use of American ports: Long Beach, Los Angeles, New York and
+      Miami, which relies on Chinese maritime logistics for their supply chains, suddenly
+      lost 35 percent of their normal container traffic – a disaster for Walmart, Amazon,
+      Target, and others. These companies, which rely on Chinese ships for the import
+      of products manufactured in China into American ports, saw their supply chains
+      partially collapse within a few hours. I am assuming the report is accurate. If
+      true, this shows that China is very well prepared to play hardball with the US
+      while retaining a calm facade. There is one more paragraph I want to share: The
+      coronation came on 5. January, when Beijing activated the financial weapon: The
+      Chinese cross-border interbank payment system (CIPS) announced that it would expand
+      its operational capacity to include any global transaction that the Washington-controlled
+      SWIFT system wants to circumvent. That means China has provided a fully functional
+      alternative to the Western financial system for the world. . . . The reaction
+      was immediate and massive: in the first 48 hours after commissioning, transactions
+      worth 89 billion dollars were settled. Central banks from 34 countries opened
+      operational accounts in the Chinese system, which means an accelerated de-dollarization
+      of one of the most important sources of funding in the US. CIPS is a potentially
+      very powerful new tool in the BRICS financial infrastructure that is developing
+      before our eyes. The fact that SWIFT is relying on ancient technology — i.e.,
+      ancient in the sense that it is non-digital and is nothing more that an out-dated
+      closed email system that was relevant in the 1990s but is now being eclipsed by
+      the digital age. The US attempt to use tariffs as a political bludgeon to coerce
+      countries to change their politics is enabling the more rapid development of financial
+      infrastructure that the US cannot control. Trump and his dinosaur advisors are
+      still laboring under the delusional that the US and the dollar reserve system
+      are irreplaceable. There are several facts that most in the US fail to grasp:
+      1)more countries are dumping dollars and buying precious metals while doing trade
+      in their respective currencies, 2) the US is over leveraged as its debt spirals
+      out of control and no quick solution to re-industrialize the US. I had a very
+      busy day doing YouTube podcasts. The first was with Shaun Attwood, followed by
+      Steven Yang of Natural Resources Stocks . Next was a great conversation with Mario
+      Nawfal. I ended the day with Ed DeMarche of the Trends Journal , which is Gerald
+      Celente’s channel: I thank you for your invaluable support by taking time to read
+      or comment. I do not charge a subscription fee nor do I accept advertising. I
+      want the content to be accessible to everyone interested in the issues I am discussing.
+      However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: China condemned the U.S. abduction of Venezuelan President
+      Nicolás Maduro and initiated a strategic response, recognizing the incident as
+      an attempt to undermine its influence in South America, despite the lack of coverage
+      from Western media.
+    paragraph_summary: The article discusses China's strong reaction to the U.S. abduction
+      of Venezuelan President Nicolás Maduro and his wife, highlighting that despite
+      a lack of coverage in Western media, China condemned the act as a violation of
+      Venezuela's sovereignty. Following the incident, Chinese President Xi Jinping
+      convened a significant meeting of the Politburo Standing Committee to strategize
+      a response, which is described as an "integrated asymmetric response" aimed at
+      countering U.S. influence in Latin America. China's initial actions included suspending
+      all transactions in U.S. dollars with companies linked to the U.S. defense sector
+      and reviewing contracts with U.S. suppliers of electrical equipment, signaling
+      a strategic shift away from American technology and a reorganization of its global
+      oil supply routes.
+    published: '2026-01-22T04:51:27+00:00'
   - title: The CIA’s Blatant Lies About Ukraine and Russia… Intentional or Just Trolling
       Sy Hersh?
     url: https://sonar21.com/the-cias-blatant-lies-about-ukraine-and-russia-intentional-or-just-trolling-sy-hersh/

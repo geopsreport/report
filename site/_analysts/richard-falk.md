@@ -7,16 +7,620 @@ description: "Richard Falk is an international law and international relations s
 websites:
   - https://richardfalk.org/
 summary: |
-  As of January 21, 2026, the international order continues to be defined by deepening crises in the Middle East and the Americas, with the actions of major powers and international institutions under intense scrutiny. The latest analyses emphasize the erosion of international law and the growing disconnect between official narratives and realities on the ground.
+  The international order continues to be tested by recent U.S. military actions and ongoing crises in the Middle East. The U.S. attack on Venezuela on January 3, 2026, remains a focal point for analysts assessing the erosion of international law and the United Nations’ credibility. **Richard Falk** highlights that this operation is “indicative of a troubling trend towards nihilistic geopolitics,” suggesting a shift away from legal norms and multilateral frameworks in favor of unilateral power projection.
   
-  The most recent development centers on the United States’ aggressive intervention in Venezuela, notably the kidnapping of its president. **Richard Falk** argues that this act, and the subsequent legal rationalizations offered by Washington, exemplify a pattern of geopolitical maneuvering that undermines both human rights and the legitimacy of international law. Falk further highlights the United Nations’ complicity, suggesting that its tacit endorsement of such actions signals a broader failure of the post-1945 world order to uphold justice and accountability.
+  In the aftermath of the Venezuelan intervention, the United Nations’ response has drawn sharp criticism. According to **Richard Falk**, the UN’s effective ratification of U.S. actions—despite their questionable legality—demonstrates the body’s increasing complicity in legitimizing aggressive maneuvers by powerful states. This trend, he argues, undermines both human rights and the foundational principles of the post-1945 world order.
   
-  In the context of Israel-Palestine, the vision articulated by Israel’s Defense Minister, Israel Katz, for a ‘Greater Israel’—de facto annexing the West Bank and maintaining a permanent Israeli presence in Gaza—reflects a hardening of positions. **Richard Falk** notes that this approach, while pragmatic in acknowledging the difficulties of formal annexation, nonetheless entrenches the occupation and marginalizes prospects for Palestinian self-determination. The lack of meaningful response from the international community, particularly the UN, further compounds Palestinian grievances and perpetuates instability.
+  Meanwhile, the situation in Israel and Palestine remains unresolved, with Israel’s leadership openly advocating for a “Greater Israel” encompassing the West Bank and maintaining a permanent presence in Gaza. **Richard Falk** notes that Defense Minister Israel Katz’s rhetoric reflects a pragmatic, if controversial, acknowledgment of the difficulties in formal annexation but signals a long-term strategy of de facto control.
   
-  Civil society initiatives, such as the Gaza Tribunal, continue to document and denounce what they describe as ongoing genocide in Gaza. These efforts underscore the persistent gap between grassroots calls for justice and the inertia of official diplomatic channels. The Tribunal’s findings, as reported by **Richard Falk**, reinforce the narrative of international inaction and the urgent need for accountability mechanisms outside the established system.
-  
-  Looking ahead, the prevailing trend is one of increasing disillusionment with multilateral institutions and a shift toward unilateral actions by powerful states. There is a high chance that, absent significant reforms or shifts in political will, the legitimacy of the UN and the broader international legal framework will continue to erode. I guarantee that, in the near term, the prospects for negotiated settlements in both Venezuela and Palestine remain bleak, with power politics and impunity likely to dominate outcomes.
+  Looking ahead, the majority of independent analysts agree that the weakening of international legal norms is likely to persist. There is a high chance that further unilateral interventions by major powers will occur, given the lack of effective checks by the UN or other international bodies. The trend towards power-based management of global crises, rather than adherence to legal commitments, is expected to continue—most definitely, unless there is a significant shift in global political will or institutional reform.
 articles:
+  - title: The US Military Operation in Venezuela and the Management of Global Security
+    url: https://richardfalk.org/2026/01/23/5057/
+    text: '[Prefatory Note: A revised, modified, and updated text of my opinion piece
+      published by Al Jazeera on January 21, 2026 with a different title. A longer version
+      will be published shortly on social media platforms.] The United States attack
+      on Venezuela on January 3 should be understood not simply as an unlawful use of
+      force, but as part of a broader shift towards nihilistic geopolitics in which
+      international law is openly subordinated to the imperial management of global
+      security. What is at stake is not only Venezuela’s sovereignty, but the collapse
+      of any remaining confidence in the capacity of the United Nations system, and
+      particularly the permanent members of the Security Council, to restrain aggression,
+      prevent genocide, or uphold the core legal norms the UN was established 81 years
+      ago to defend and promote, and while not succeeding in the past has now abandoned
+      all efforts to encourage geopolitical restraint and responded complacently to
+      Trump-led assault on the very idea of humane forms of world order. The multi-dimensional
+      Venezuelan intervention, its political prelude and aftermath, as well as the accompanying
+      rhetoric of US leadership together expose a system in which legality is invoked
+      selectively if at all, veto power substitutes for accountability, and coercion
+      replaces consent. Venezuela thus becomes a scary metaphor, a case study, and a
+      warning: not of the failure of international law as such, but of its deliberate
+      marginalization by those states with geopolitical pretensions, states deliberately
+      entrusted with managing global security after achieving victory in World War II.
+      To discourage the wholesale dismissal of international law it should be appreciated
+      that international law continues to work for most non-security related interactions
+      across international boundaries. Issues of violation, non-implementation, and
+      impunity relative to global security are where the difficulties of achieving respect
+      for international law are concentrated. This is not new in the history of international
+      relations, but since 1945 and the Nuremberg and Tokyo War Crimes Tribunals has
+      been disguised by pretensions that a new world order emerged when the UN was established.
+      Closer scrutiny of the UN framework reveals that international law was designed
+      to be subordinated to geopolitics whenever serious challenges to global security
+      emerged. Why else confer an unrestricted right of veto on the five principal winners
+      of the war against fascism, which emerged from the struggle as the most powerful
+      and dangerous states, whose power most needed curbing rather than preserving in
+      the Security Council, the only organ in the UN System that could render obligatory
+      decisions. Of course, as it was assumed and piously hoped in 1945 that countries
+      that cooperated so effectively in the just completed war, massively costly in
+      lives, expense, devastation, and human suffering, would continue to work together
+      in peacetime by acting responsibly within the frame of the Charter. If the Venezuela
+      intervention and subsequent  ‘occupation’  is considered purely from the perspective
+      of international law, this action constitutes a crude, brazen, unlawful and unprovoked
+      recourse to aggressive force, in clear violation of the core norm of the UN Charter,
+      Article 2(4), which reads: “All Members of the United Nations shall refrain in
+      their international relations from the threat or use of force against the territorial
+      integrity or political independence of any state.” The only qualification to this
+      prohibition is set out in Article 51: “Nothing in the present Charter shall impair
+      the inherent right of individual or collective self-defense if an armed attack
+      occurs against a Member of the United Nations.” This flagrant violation of Venezuelan
+      territorial sovereignty and political independence was preceded by years of US
+      sanctions, weeks of explicit threats, and days of lethal attacks on vessels allegedly
+      transporting drugs, as well as seizures of oil tankers carrying to and from Venezuela.
+      This unilateral action was further aggravated by the capture of Venezuela’s head
+      of state, Nicolas Maduro, and his wife, Cilia Flores, by US Special Forces, reportedly
+      guided on their sordid mission by CIA operatives. Once seized they were transported
+      to the US in a humiliating fashion to face assorted charges of “narco-terrorism”
+      and unlawful encroachments on foreign property rights in a US federal court, in
+      apparent violation of sovereign immunity. This imperialist mission, openly flaunting
+      the immunity of foreign leaders  and political independence of a sovereign state,
+      was underscored and magnified by President Trump’s declared intentions. Trump
+      openly plans to direct personally Venezuelan policymaking for an indefinite period,
+      ostensibly until the country was “stabilized” sufficiently to restore oil production
+      facilities. This was to done in a manner responsive to goals of maximizing the
+      profitability of major US energy corporations, including Chevron, Exxon Mobil
+      and ConocoPhillips. When asked who was in charge of Venezuela’s governance, Trump
+      responded impatiently, “We are in charge.” This use of ‘We’ is more adequately
+      comprehended by substituting ‘I.’ There is more politically at stake in this drastic
+      reversal of the US Good Neighbor Policy, associated with US Latin American diplomacy
+      since 1933 and the presidency of Franklin D Roosevelt, than initially meets even
+      the most discerning eye. Of course, this commitment to cooperative relations was
+      not upheld. It was periodically undermined in relation to Guatemala’s radical
+      nationalism, Castro’s revolutionary victory in Cuba, Salvador Allende’s electoral
+      triumph in Chile. These and other bumps in the road of a more neighborly atmosphere
+      of mutuality were rationalized as Cold War efforts to preclude ideological footholds
+      being acquired by socialist regimes receptive to developing positive relations
+      with the Soviet Union. More discerning observers also took account of post-1945
+      US foreign policy agendas that accorded priority to the protection of the profitability
+      of US corporate interests threatened by the rise of Latin American economic nationalism
+      that had for decades been kept in check by ‘gunboat diplomacy.’ In a deeper sense
+      the differences between now and then are the absence of a Cold War veneer that
+      obscured the degree to which US interventions were motivated by economic national
+      interests associated with maintaining high rates of profitability for foreign
+      investors. It is also meant holding the line against advocates of economic nationalism
+      that the UN General Assembly blessed by resolutions on Permanent Sovereignty over
+      Natural Resources [UNGA Res 1803( 1962) and the Declaration on the Right to Development
+      [UNGA Res 41/128]. Initially, informed observers assumed that the attack on Venezuela
+      aimed at achieving some variant of traditional regime change. It was presumed
+      that Maria Corina Machado would be installed and anointed as Venezuela’s new president.
+      She was a veteran far right opposition leader, even a strident proponent of US
+      intervention, and a surprise 2025 Nobel Peace Prize laureate. Her ceremonial acceptance
+      speech in Oslo lavishly praised, and rather absurdly insisted that Trump was a
+      more deserving candidate than she, which was also a graceless slap at the Nobel
+      selection process. The most unexpected development of the intervention in Venezuela
+      has been the bypassing of Machado despite her demeaning flattery that so often
+      paves the way to power and profits in the Trump era. Instead of Machado, the U.S.
+      opted for the installation of Vice President Delcy Rodriguez as Venezuela’s new
+      president. Washington claimed confidence in Rodriguez, apparently having reason
+      to believe that she was ready to accept US demands, particularly in relation to
+      the rehabilitation of the oil industry together with a willingness to accommodate
+      U.S. foreign investors intent on the exploitation of other valuable natural resources
+      that awaited development. She was also believed to possess the governing capacity
+      and popular support to achieve stability on terms compatible with these US economic
+      priorities. More quixotically Trump declared that had Machado declined the Nobel
+      Prize on the grounds that he was the most deserving candidate, she would now be
+      Venezuela’s president. In other words, inflated flattery only attains its goals
+      if it meets Trump’s transactional expectations!  To be sure, we face an unsolvable
+      puzzle when trying to distinguish Trump’s narcissistic indulgences from the occasional
+      truthful disclosure of his real intentions. Despite this caveat it seems a more
+      plausible explanation is that Machado lacked sufficient domestic support to stabilize
+      the country, whereas Rodriguez appeared willing and able to accommodate US economic
+      demands, particularly those relating to control over Venezuela’s resource wealth,
+      while enjoying sufficient popular support that included the loyalty of the armed
+      forces to allay the stability concerns of the American oil companies. The pre-attack
+      “pro-democracy” narrative promoted by US state propaganda perhaps gained a limited
+      credibility by opting for this continuity of leadership, rather than would have
+      followed a humiliating march into Caracas headed by Trump and Machado leading
+      the way arm in arm to an inaugural event certifying her as Venezuela’s new puppet
+      leader. It is entirely plausible that Trump paid attention to cautionary advice
+      about showing the American flag in Caracas. It was reported that after meeting
+      Trump on January 9 in the White House, executives of major US oil corporations,
+      widely assumed to be the principal beneficiaries of the intervention, expressed
+      their reservations about resuming operations as well as making needed new investments
+      in the country, citing concerns over instability in the economic and political
+      climate, and perhaps implicitly, in the reliability of Trump support, given his
+      on again/off again style of governance. Clarifying relations between international
+      law and global security This military operation in Venezuela, together with its
+      political aftermath, clearly violates international law governing the use of force,
+      as authoritatively codified in the UN Charter. Yet even this apparently straightforward
+      assessment contains ambiguity. The Charter’s institutional design, as noted, privileges
+      the five victorious powers of the second world war, granting them permanent membership
+      of the Security Council and an unrestricted veto, which offers an assurance that
+      none of the Permanent Five or their partners and allies would be subject to sanctions
+      or accountability procedures. In effect, responsibility for managing global security
+      was deliberately left in the hands of these states, which also became the first
+      nuclear weapons powers, enabling any one of them to block Security Council action
+      even when supported by a 14–1 majority. The Security Council is the only political
+      organ of the UN authorized to issue binding decisions, aside from the International
+      Court of Justice (ICJ). The ICJ, however, operates under voluntary jurisdiction,
+      as states may withhold consent to what is known as “compulsory jurisdiction.”
+      The ICJ is effective only to the extent that states comply with its judgements.
+      It does possess a secondary impact to the extent that its judicial pronouncements
+      influence public discourse or motivate civic activism. Over time the general profile
+      has emerged that the management of global security has in practice been left to
+      the discretion of the Permanent Five, usually dominated by the US or paralyzed
+      by vetoes. Turkish President Erdoğan critically summarized this state of affairs
+      by telling the General Assembly that “the world is greater than five.” At this
+      time, a more descriptive geopolitical slogan would be ‘the world is not greater
+      than three.’ In this sense, the Venezuelan operation should be understood less
+      as signaling the collapse of international law than as an expression of nihilistic
+      geopolitical management. If so, the appropriate remedy is not simply to strengthen
+      international law, but to strip geopolitical actors of their self-assigned managerial
+      role in global security. Russia’s aggression against Ukraine in 2022 can be viewed
+      similarly: a geopolitical failure, incited by irresponsible NATO provocations,
+      culminating in Russia’s own provoked yet egregious breach of Article 2(4). Many
+      have advocated UN reforms that would make Security Council representation less
+      tied to the outcome of World War II and its authority tied to a super-majority
+      of 2/3s rather than unanimity. The Venezuelan operation further erodes any residual
+      confidence in the capacity of the Permanent Five, and especially Trump’s United
+      States, to manage peace, security or genocide prevention in a prudent and responsible
+      manner. It therefore reinforces the need to consider alternative frameworks, either
+      by curtailing the veto or by shifting security governance beyond the UN to counter-hegemonic
+      mechanisms, including BRICS, China’s Belt and Road Initiative, and emerging South–South
+      development frameworks, and bizarrely in the grandiose pretensions of the Gaza
+      Board of Peace. To date, however, there are no signs that the political will exists
+      to obtain such a transformative adjustment in the relationship between geopolitical
+      ambition and international law. It must nevertheless be emphasized that despite
+      this negativity, international law remains indispensable and effective in most
+      areas of cross-border interaction. In domains such as diplomatic immunity, maritime
+      and aviation safety, tourism and communications, negotiated legal standards are
+      generally respected and disputes resolved peacefully. International law functions
+      reliably where reciprocity prevails but has never throughout the history of international
+      relations constrained great-power ambition in the domain of global security, where
+      asymmetries of hard power dominate now dominate more than effort, given the course
+      technological innovation. The 2025 US National Security Strategy: Nihilistic Geopolitics
+      To understand Venezuela’s place within Trump’s worldview, it is essential to examine
+      the National Security Strategy of the United States, released in November 2025.
+      Trump’s cover letter introducing the document is suffused with narcissism and
+      contempt for internationalism, including international law, multilateral institutions,
+      and the UN. He proclaims: “America is strong and respected again — and because
+      of that, we are making peace all over the world.” Such misleading rhetoric would
+      be treated as pathological if put forward by an ordinary individual, but so far
+      Trump gets away with it.  This language becomes alarming when habitually used
+      by a leader who has absolute control over the use of nuclear weapons. Trump concludes
+      by promising to make America “safer, richer, freer, greater, and more powerful
+      than ever before”. The NSS repeatedly invokes “preeminence” as the central objective
+      of US foreign policy, to be pursued by any means necessary. The Venezuelan intervention
+      should be viewed as a sordid sequel to US complicity in Israel’s genocide in Gaza,
+      and a seeming prelude to further projects, including exerting control over Greenland
+      and posing renewed military threats against Iran. Yet the document’s primary focus
+      is Latin America, framed through a revival of the Monroe Doctrine, now reinforced
+      by the explicitly named “Trump Corollary,” colloquially dubbed the “Donroe Doctrine.”
+      This is a robust reenactment of President Theodore Roosevelts broadening of the
+      Monroe Doctrine in 2004 to include commitments to intervene with force in Latin
+      American countries, not only to oppose European incursions, but to assure that
+      the governments in the region respected their obligations to repay public debts
+      and handle national governance in an orderly manner. The assertion of these policy
+      goals became known as ‘the Roosevelt Corollary,’ and heralded a period of US hemispheric
+      dominance more than a century before Trump assumed the presidency. Trump’s hemispheric
+      focus abandons the post–Cold War ambition of exercising global US leadership in
+      the spirit of Obama and Biden, which wasted vast resources in failed state-building
+      ventures in Libya, Iraq and Afghanistan. Instead, it prioritizes resource extraction,
+      securing oil, rare earths, and minerals with immense benefits for US corporations
+      and its militarized bureaucracy, while marginalizing NATO and abandoning multilateralism.
+      These moves coupled with their focus on obtaining sovereign rights in Greenland
+      and the Board of Peace presiding over the future of Gaza, as well as determining
+      the future of the Palestinian people, and threatening intervention in Iran confirm
+      the reality and grandiose character of Trump’s extra-hemispheric strategic ambitions,
+      centering on achieving ‘A  Greater America.’ This is vaguely comparable to Israel’s
+      regional aspirations for ‘Greater Israel,’ but on a larger scale and less limited
+      scope. These assertive foreign policy moves should also be interpreted as Trump’s
+      alternative to the ‘liberal internationalism’ criticized at the outset of NSS
+      for its pretensions to assert ‘global leadership’ in the aftermath of the Cold
+      War. This criticism is directed at the foreign policies of recent Democratic Party
+      presidencies, which are held by Trump responsible for the lack of focus on fair
+      burden-sharing and the pursuit of policies truly beneficial to the U.S.. This
+      is translated by iTrump’s transactional mentality into policies of direct economic
+      benefit and relevant to the maintaining military superiority in over China and
+      Russia, its main rivals. If not by intention, it also expresses Trump’s skeptical
+      views about alliance relations, especially with Europe, which are associated with
+      bad deals in which the U.S. allegedly gives far more than it receives. It proposes
+      a warped view of national interests, which discounts the benefits to the U.S.
+      of international cooperation and indeed all forms of multilateralism including
+      anachronistic dishing of every international institution,  even the UN. This hyper-nationalism
+      was given tangible expression at the start of 2026 by Trump’s wholesale withdrawal
+      from participation in and funding for 66 international institutional entities,
+      including the climate change framework treaty and WHO. Venezuela, with its vast
+      oil reserves, strategic location and authoritarian left populist government, provided
+      an ideal launching pad for this fusion of statism and unrestrained imperial ambition—
+      besides, its domestic side effect of conveniently diverting attention from Trump’s
+      personal entanglements with Jeffrey Epstein and the dwindling domestic approval
+      of the unwavering backing of Israel’s genocidal policies in Gaza camouflaged by
+      a one-sided, cruelly imposed and interpreted ‘ceasefire.’ The Venezuela intervention
+      from its inception displayed aggressive regional goals. From its inception it
+      was accompanied by an explicit demand that the new leadership in Caracus take
+      orders from Washington as the price of its political survival. Trump and his  reactionary
+      Secretary of State, Marco Rubio, openly linked Venezuela to future regime-change
+      efforts in Colombia and Cuba, with Trump issuing a crude threat to topple the
+      outspoken Colombian president, Gustavo Petro, and US Special Forces reportedly
+      killing 32 Cuban members of Maduro’s Presidential Guard in carrying out their
+      kidnapping mission. Venezuela has been under U.S. orders to terminate all shipments
+      of oil to Cuba, which had been dependent on oil imports to meet its energy needs.
+      Implications It remains uncertain whether Delcy Rodriguez’s government will negotiate
+      an arrangement that preserves formal sovereignty for Venezuela while surrendering
+      substantive control over internal governance to Washington for an indefinite period.
+      Such an outcome would signal a full embrace of digital-age gunboat diplomacy,
+      a dramatic rejection of the UN endorsement of the entitlement of all distinct
+      nations to exercise the right of self-determination, with particular reference
+      to territorial sovereignty, political independence, and an inalienable right to
+      economic development. Trump’s outlandish expansionist visions even contemplates
+      a coercive territorial incorporation of Canada into the United States, a move
+      that has predictably produced an anti-American reassessment of Canadian national
+      security in Ottawa, give an eloquent response by Prime Minister Mark Carney at
+      the recent meeting of World Economic Forum. International reactions to the assault
+      on Venezuela have been so far mostly muted, reflecting fear, confusion, and perceived
+      futility. Meanwhile, geopolitical rivalry intensifies, particularly with Russia
+      and China, raising the specter of a new Cold War or nuclear conflict. The NSS
+      makes clear that US preeminence requires excluding all extra-hemispheric powers
+      from the region, by its repeated referencing of “our Hemisphere.” Such a commitment
+      challenges China’s hemispheric presence that has been quietly engaged in extending
+      its infrastructure diplomacy throughout Latin America. A dangerous flashpoint
+      with China could occur in relation to its role in providing Peru with the largest
+      port in the region or its role in Panama given the country’s proximity to and
+      sovereignty over the Panama Canal. Some Trump critics think this may be a preliminary
+      effort to legitimize hegemonic spheres of influence for the three geopolitical
+      actors, with implicit concessions of Ukraine to Russia and Taiwan to China. Of
+      course, if such a grand deal is ever consummated it will complete the process
+      of sidelining or even eliminating the UN as a failed experiment in a peace-building
+      world order and consign the peoples of the world to the paleo-realist wisdom of
+      Thucydides in his Melian Dialogue, ‘the weak do what they must, the strong do
+      what they will.’ It would be an oversight not to acknowledge Trump’s unacknowledged
+      affinity with such America First thinking associated with his more diplomatically
+      sophisticated forebears as Kissinger and Brzezinski. They were far more prudent
+      and grounded in diplomatic protocol, but not much less blind to the benefits of
+      global humanism and the urgencies of demilitarization and ecological adaptations
+      to mounting global challenges. Only China seems currently attuned to the internationalist
+      imperatives of a ‘live and let live world order’ that connects its visions of
+      the future with reciprocity, restraint, economic and technologic mastery, and
+      ecological resilience. Such a recognition of China’s pedagogical leadership should
+      not be read as an endorsement of China’s internal ethnic and political pattern
+      of state/society relations that leaves much to be done in the domain of human
+      rights. I fear what might be presently called ‘Trump’s  World’ will be a curse
+       taking its toll on future generations, not only elsewhere on the planet but in
+      its almost certain boomerang effects on the quality of life in the United States.
+      Hyper-nationalism fused with nihilistic geopolitics poses the most profound threat
+      to species sustainability in human history both by what is does, as well as what
+      it proposes to do and not doing. .'
+    one_sentence_summary: The U.S. attack on Venezuela on January 3 is indicative of
+      a troubling trend towards nihilistic geopolitics that undermines international
+      law and the United Nations' ability to maintain global security and uphold legal
+      norms.
+    paragraph_summary: The article critiques the United States' military intervention
+      in Venezuela on January 3, framing it as a manifestation of a troubling trend
+      towards nihilistic geopolitics where international law is disregarded in favor
+      of imperialistic control over global security. It argues that this attack not
+      only undermines Venezuela's sovereignty but also erodes trust in the United Nations
+      and its ability to uphold core legal norms established 81 years ago. The author
+      suggests that the selective invocation of legality, the use of veto power instead
+      of accountability, and coercion over consent illustrate a broader systemic failure,
+      warning that Venezuela serves as a cautionary example of the deliberate marginalization
+      of international law by powerful states. Despite these challenges, the article
+      emphasizes that international law still functions effectively in many non-security
+      related contexts, highlighting the need to address issues of violation and impunity
+      in the realm of global security.
+    published: '2026-01-24T03:28:29+00:00'
+  - title: The US Military Operation in Venezuela and the Management of Global Security
+    url: https://richardfalk.org/2026/01/23/5057/
+    text: '[Prefatory Note: A revised, modified, and updated text of my opinion piece
+      published by Al Jazeera on January 21, 2026 with a different title. A longer version
+      will be published shortly on social media platforms.] The United States attack
+      on Venezuela on January 3 should be understood not simply as an unlawful use of
+      force, but as part of a broader shift towards nihilistic geopolitics in which
+      international law is openly subordinated to the imperial management of global
+      security. What is at stake is not only Venezuela’s sovereignty, but the collapse
+      of any remaining confidence in the capacity of the United Nations system, and
+      particularly the permanent members of the Security Council, to restrain aggression,
+      prevent genocide, or uphold the core legal norms the UN was established 81 years
+      ago to defend and promote, and while not succeeding in the past has now abandoned
+      all efforts to encourage geopolitical restraint and responded complacently to
+      Trump-led assault on the very idea of humane forms of world order. The multi-dimensional
+      Venezuelan intervention, its political prelude and aftermath, as well as the accompanying
+      rhetoric of US leadership together expose a system in which legality is invoked
+      selectively if at all, veto power substitutes for accountability, and coercion
+      replaces consent. Venezuela thus becomes a scary metaphor, a case study, and a
+      warning: not of the failure of international law as such, but of its deliberate
+      marginalization by those states with geopolitical pretensions, states deliberately
+      entrusted with managing global security after achieving victory in World War II.
+      To discourage the wholesale dismissal of international law it should be appreciated
+      that international law continues to work for most non-security related interactions
+      across international boundaries. Issues of violation, non-implementation, and
+      impunity relative to global security are where the difficulties of achieving respect
+      for international law are concentrated. This is not new in the history of international
+      relations, but since 1945 and the Nuremberg and Tokyo War Crimes Tribunals has
+      been disguised by pretensions that a new world order emerged when the UN was established.
+      Closer scrutiny of the UN framework reveals that international law was designed
+      to be subordinated to geopolitics whenever serious challenges to global security
+      emerged. Why else confer an unrestricted right of veto on the five principal winners
+      of the war against fascism, which emerged from the struggle as the most powerful
+      and dangerous states, whose power most needed curbing rather than preserving in
+      the Security Council, the only organ in the UN System that could render obligatory
+      decisions. Of course, as it was assumed and piously hoped in 1945 that countries
+      that cooperated so effectively in the just completed war, massively costly in
+      lives, expense, devastation, and human suffering, would continue to work together
+      in peacetime by acting responsibly within the frame of the Charter. If the Venezuela
+      intervention and subsequent  ‘occupation’  is considered purely from the perspective
+      of international law, this action constitutes a crude, brazen, unlawful and unprovoked
+      recourse to aggressive force, in clear violation of the core norm of the UN Charter,
+      Article 2(4), which reads: “All Members of the United Nations shall refrain in
+      their international relations from the threat or use of force against the territorial
+      integrity or political independence of any state.” The only qualification to this
+      prohibition is set out in Article 51: “Nothing in the present Charter shall impair
+      the inherent right of individual or collective self-defense if an armed attack
+      occurs against a Member of the United Nations.” This flagrant violation of Venezuelan
+      territorial sovereignty and political independence was preceded by years of US
+      sanctions, weeks of explicit threats, and days of lethal attacks on vessels allegedly
+      transporting drugs, as well as seizures of oil tankers carrying to and from Venezuela.
+      This unilateral action was further aggravated by the capture of Venezuela’s head
+      of state, Nicolas Maduro, and his wife, Cilia Flores, by US Special Forces, reportedly
+      guided on their sordid mission by CIA operatives. Once seized they were transported
+      to the US in a humiliating fashion to face assorted charges of “narco-terrorism”
+      and unlawful encroachments on foreign property rights in a US federal court, in
+      apparent violation of sovereign immunity. This imperialist mission, openly flaunting
+      the immunity of foreign leaders  and political independence of a sovereign state,
+      was underscored and magnified by President Trump’s declared intentions. Trump
+      openly plans to direct personally Venezuelan policymaking for an indefinite period,
+      ostensibly until the country was “stabilized” sufficiently to restore oil production
+      facilities. This was to done in a manner responsive to goals of maximizing the
+      profitability of major US energy corporations, including Chevron, Exxon Mobil
+      and ConocoPhillips. When asked who was in charge of Venezuela’s governance, Trump
+      responded impatiently, “We are in charge.” This use of ‘We’ is more adequately
+      comprehended by substituting ‘I.’ There is more politically at stake in this drastic
+      reversal of the US Good Neighbor Policy, associated with US Latin American diplomacy
+      since 1933 and the presidency of Franklin D Roosevelt, than initially meets even
+      the most discerning eye. Of course, this commitment to cooperative relations was
+      not upheld. It was periodically undermined in relation to Guatemala’s radical
+      nationalism, Castro’s revolutionary victory in Cuba, Salvador Allende’s electoral
+      triumph in Chile. These and other bumps in the road of a more neighborly atmosphere
+      of mutuality were rationalized as Cold War efforts to preclude ideological footholds
+      being acquired by socialist regimes receptive to developing positive relations
+      with the Soviet Union. More discerning observers also took account of post-1945
+      US foreign policy agendas that accorded priority to the protection of the profitability
+      of US corporate interests threatened by the rise of Latin American economic nationalism
+      that had for decades been kept in check by ‘gunboat diplomacy.’ In a deeper sense
+      the differences between now and then are the absence of a Cold War veneer that
+      obscured the degree to which US interventions were motivated by economic national
+      interests associated with maintaining high rates of profitability for foreign
+      investors. It is also meant holding the line against advocates of economic nationalism
+      that the UN General Assembly blessed by resolutions on Permanent Sovereignty over
+      Natural Resources [UNGA Res 1803( 1962) and the Declaration on the Right to Development
+      [UNGA Res 41/128]. Initially, informed observers assumed that the attack on Venezuela
+      aimed at achieving some variant of traditional regime change. It was presumed
+      that Maria Corina Machado would be installed and anointed as Venezuela’s new president.
+      She was a veteran far right opposition leader, even a strident proponent of US
+      intervention, and a surprise 2025 Nobel Peace Prize laureate. Her ceremonial acceptance
+      speech in Oslo lavishly praised, and rather absurdly insisted that Trump was a
+      more deserving candidate than she, which was also a graceless slap at the Nobel
+      selection process. The most unexpected development of the intervention in Venezuela
+      has been the bypassing of Machado despite her demeaning flattery that so often
+      paves the way to power and profits in the Trump era. Instead of Machado, the U.S.
+      opted for the installation of Vice President Delcy Rodriguez as Venezuela’s new
+      president. Washington claimed confidence in Rodriguez, apparently having reason
+      to believe that she was ready to accept US demands, particularly in relation to
+      the rehabilitation of the oil industry together with a willingness to accommodate
+      U.S. foreign investors intent on the exploitation of other valuable natural resources
+      that awaited development. She was also believed to possess the governing capacity
+      and popular support to achieve stability on terms compatible with these US economic
+      priorities. More quixotically Trump declared that had Machado declined the Nobel
+      Prize on the grounds that he was the most deserving candidate, she would now be
+      Venezuela’s president. In other words, inflated flattery only attains its goals
+      if it meets Trump’s transactional expectations!  To be sure, we face an unsolvable
+      puzzle when trying to distinguish Trump’s narcissistic indulgences from the occasional
+      truthful disclosure of his real intentions. Despite this caveat it seems a more
+      plausible explanation is that Machado lacked sufficient domestic support to stabilize
+      the country, whereas Rodriguez appeared willing and able to accommodate US economic
+      demands, particularly those relating to control over Venezuela’s resource wealth,
+      while enjoying sufficient popular support that included the loyalty of the armed
+      forces to allay the stability concerns of the American oil companies. The pre-attack
+      “pro-democracy” narrative promoted by US state propaganda perhaps gained a limited
+      credibility by opting for this continuity of leadership, rather than would have
+      followed a humiliating march into Caracas headed by Trump and Machado leading
+      the way arm in arm to an inaugural event certifying her as Venezuela’s new puppet
+      leader. It is entirely plausible that Trump paid attention to cautionary advice
+      about showing the American flag in Caracas. It was reported that after meeting
+      Trump on January 9 in the White House, executives of major US oil corporations,
+      widely assumed to be the principal beneficiaries of the intervention, expressed
+      their reservations about resuming operations as well as making needed new investments
+      in the country, citing concerns over instability in the economic and political
+      climate, and perhaps implicitly, in the reliability of Trump support, given his
+      on again/off again style of governance. Clarifying relations between international
+      law and global security This military operation in Venezuela, together with its
+      political aftermath, clearly violates international law governing the use of force,
+      as authoritatively codified in the UN Charter. Yet even this apparently straightforward
+      assessment contains ambiguity. The Charter’s institutional design, as noted, privileges
+      the five victorious powers of the second world war, granting them permanent membership
+      of the Security Council and an unrestricted veto, which offers an assurance that
+      none of the Permanent Five or their partners and allies would be subject to sanctions
+      or accountability procedures. In effect, responsibility for managing global security
+      was deliberately left in the hands of these states, which also became the first
+      nuclear weapons powers, enabling any one of them to block Security Council action
+      even when supported by a 14–1 majority. The Security Council is the only political
+      organ of the UN authorized to issue binding decisions, aside from the International
+      Court of Justice (ICJ). The ICJ, however, operates under voluntary jurisdiction,
+      as states may withhold consent to what is known as “compulsory jurisdiction.”
+      The ICJ is effective only to the extent that states comply with its judgements.
+      It does possess a secondary impact to the extent that its judicial pronouncements
+      influence public discourse or motivate civic activism. Over time the general profile
+      has emerged that the management of global security has in practice been left to
+      the discretion of the Permanent Five, usually dominated by the US or paralyzed
+      by vetoes. Turkish President Erdoğan critically summarized this state of affairs
+      by telling the General Assembly that “the world is greater than five.” At this
+      time, a more descriptive geopolitical slogan would be ‘the world is not greater
+      than three.’ In this sense, the Venezuelan operation should be understood less
+      as signaling the collapse of international law than as an expression of nihilistic
+      geopolitical management. If so, the appropriate remedy is not simply to strengthen
+      international law, but to strip geopolitical actors of their self-assigned managerial
+      role in global security. Russia’s aggression against Ukraine in 2022 can be viewed
+      similarly: a geopolitical failure, incited by irresponsible NATO provocations,
+      culminating in Russia’s own provoked yet egregious breach of Article 2(4). Many
+      have advocated UN reforms that would make Security Council representation less
+      tied to the outcome of World War II and its authority tied to a super-majority
+      of 2/3s rather than unanimity. The Venezuelan operation further erodes any residual
+      confidence in the capacity of the Permanent Five, and especially Trump’s United
+      States, to manage peace, security or genocide prevention in a prudent and responsible
+      manner. It therefore reinforces the need to consider alternative frameworks, either
+      by curtailing the veto or by shifting security governance beyond the UN to counter-hegemonic
+      mechanisms, including BRICS, China’s Belt and Road Initiative, and emerging South–South
+      development frameworks, and bizarrely in the grandiose pretensions of the Gaza
+      Board of Peace. To date, however, there are no signs that the political will exists
+      to obtain such a transformative adjustment in the relationship between geopolitical
+      ambition and international law. It must nevertheless be emphasized that despite
+      this negativity, international law remains indispensable and effective in most
+      areas of cross-border interaction. In domains such as diplomatic immunity, maritime
+      and aviation safety, tourism and communications, negotiated legal standards are
+      generally respected and disputes resolved peacefully. International law functions
+      reliably where reciprocity prevails but has never throughout the history of international
+      relations constrained great-power ambition in the domain of global security, where
+      asymmetries of hard power dominate now dominate more than effort, given the course
+      technological innovation. The 2025 US National Security Strategy: Nihilistic Geopolitics
+      To understand Venezuela’s place within Trump’s worldview, it is essential to examine
+      the National Security Strategy of the United States, released in November 2025.
+      Trump’s cover letter introducing the document is suffused with narcissism and
+      contempt for internationalism, including international law, multilateral institutions,
+      and the UN. He proclaims: “America is strong and respected again — and because
+      of that, we are making peace all over the world.” Such misleading rhetoric would
+      be treated as pathological if put forward by an ordinary individual, but so far
+      Trump gets away with it.  This language becomes alarming when habitually used
+      by a leader who has absolute control over the use of nuclear weapons. Trump concludes
+      by promising to make America “safer, richer, freer, greater, and more powerful
+      than ever before”. The NSS repeatedly invokes “preeminence” as the central objective
+      of US foreign policy, to be pursued by any means necessary. The Venezuelan intervention
+      should be viewed as a sordid sequel to US complicity in Israel’s genocide in Gaza,
+      and a seeming prelude to further projects, including exerting control over Greenland
+      and posing renewed military threats against Iran. Yet the document’s primary focus
+      is Latin America, framed through a revival of the Monroe Doctrine, now reinforced
+      by the explicitly named “Trump Corollary,” colloquially dubbed the “Donroe Doctrine.”
+      This is a robust reenactment of President Theodore Roosevelts broadening of the
+      Monroe Doctrine in 2004 to include commitments to intervene with force in Latin
+      American countries, not only to oppose European incursions, but to assure that
+      the governments in the region respected their obligations to repay public debts
+      and handle national governance in an orderly manner. The assertion of these policy
+      goals became known as ‘the Roosevelt Corollary,’ and heralded a period of US hemispheric
+      dominance more than a century before Trump assumed the presidency. Trump’s hemispheric
+      focus abandons the post–Cold War ambition of exercising global US leadership in
+      the spirit of Obama and Biden, which wasted vast resources in failed state-building
+      ventures in Libya, Iraq and Afghanistan. Instead, it prioritizes resource extraction,
+      securing oil, rare earths, and minerals with immense benefits for US corporations
+      and its militarized bureaucracy, while marginalizing NATO and abandoning multilateralism.
+      These moves coupled with their focus on obtaining sovereign rights in Greenland
+      and the Board of Peace presiding over the future of Gaza, as well as determining
+      the future of the Palestinian people, and threatening intervention in Iran confirm
+      the reality and grandiose character of Trump’s extra-hemispheric strategic ambitions,
+      centering on achieving ‘A  Greater America.’ This is vaguely comparable to Israel’s
+      regional aspirations for ‘Greater Israel,’ but on a larger scale and less limited
+      scope. These assertive foreign policy moves should also be interpreted as Trump’s
+      alternative to the ‘liberal internationalism’ criticized at the outset of NSS
+      for its pretensions to assert ‘global leadership’ in the aftermath of the Cold
+      War. This criticism is directed at the foreign policies of recent Democratic Party
+      presidencies, which are held by Trump responsible for the lack of focus on fair
+      burden-sharing and the pursuit of policies truly beneficial to the U.S.. This
+      is translated by iTrump’s transactional mentality into policies of direct economic
+      benefit and relevant to the maintaining military superiority in over China and
+      Russia, its main rivals. If not by intention, it also expresses Trump’s skeptical
+      views about alliance relations, especially with Europe, which are associated with
+      bad deals in which the U.S. allegedly gives far more than it receives. It proposes
+      a warped view of national interests, which discounts the benefits to the U.S.
+      of international cooperation and indeed all forms of multilateralism including
+      anachronistic dishing of every international institution,  even the UN. This hyper-nationalism
+      was given tangible expression at the start of 2026 by Trump’s wholesale withdrawal
+      from participation in and funding for 66 international institutional entities,
+      including the climate change framework treaty and WHO. Venezuela, with its vast
+      oil reserves, strategic location and authoritarian left populist government, provided
+      an ideal launching pad for this fusion of statism and unrestrained imperial ambition—
+      besides, its domestic side effect of conveniently diverting attention from Trump’s
+      personal entanglements with Jeffrey Epstein and the dwindling domestic approval
+      of the unwavering backing of Israel’s genocidal policies in Gaza camouflaged by
+      a one-sided, cruelly imposed and interpreted ‘ceasefire.’ The Venezuela intervention
+      from its inception displayed aggressive regional goals. From its inception it
+      was accompanied by an explicit demand that the new leadership in Caracus take
+      orders from Washington as the price of its political survival. Trump and his  reactionary
+      Secretary of State, Marco Rubio, openly linked Venezuela to future regime-change
+      efforts in Colombia and Cuba, with Trump issuing a crude threat to topple the
+      outspoken Colombian president, Gustavo Petro, and US Special Forces reportedly
+      killing 32 Cuban members of Maduro’s Presidential Guard in carrying out their
+      kidnapping mission. Venezuela has been under U.S. orders to terminate all shipments
+      of oil to Cuba, which had been dependent on oil imports to meet its energy needs.
+      Implications It remains uncertain whether Delcy Rodriguez’s government will negotiate
+      an arrangement that preserves formal sovereignty for Venezuela while surrendering
+      substantive control over internal governance to Washington for an indefinite period.
+      Such an outcome would signal a full embrace of digital-age gunboat diplomacy,
+      a dramatic rejection of the UN endorsement of the entitlement of all distinct
+      nations to exercise the right of self-determination, with particular reference
+      to territorial sovereignty, political independence, and an inalienable right to
+      economic development. Trump’s outlandish expansionist visions even contemplates
+      a coercive territorial incorporation of Canada into the United States, a move
+      that has predictably produced an anti-American reassessment of Canadian national
+      security in Ottawa, give an eloquent response by Prime Minister Mark Carney at
+      the recent meeting of World Economic Forum. International reactions to the assault
+      on Venezuela have been so far mostly muted, reflecting fear, confusion, and perceived
+      futility. Meanwhile, geopolitical rivalry intensifies, particularly with Russia
+      and China, raising the specter of a new Cold War or nuclear conflict. The NSS
+      makes clear that US preeminence requires excluding all extra-hemispheric powers
+      from the region, by its repeated referencing of “our Hemisphere.” Such a commitment
+      challenges China’s hemispheric presence that has been quietly engaged in extending
+      its infrastructure diplomacy throughout Latin America. A dangerous flashpoint
+      with China could occur in relation to its role in providing Peru with the largest
+      port in the region or its role in Panama given the country’s proximity to and
+      sovereignty over the Panama Canal. Some Trump critics think this may be a preliminary
+      effort to legitimize hegemonic spheres of influence for the three geopolitical
+      actors, with implicit concessions of Ukraine to Russia and Taiwan to China. Of
+      course, if such a grand deal is ever consummated it will complete the process
+      of sidelining or even eliminating the UN as a failed experiment in a peace-building
+      world order and consign the peoples of the world to the paleo-realist wisdom of
+      Thucydides in his Melian Dialogue, ‘the weak do what they must, the strong do
+      what they will.’ It would be an oversight not to acknowledge Trump’s unacknowledged
+      affinity with such America First thinking associated with his more diplomatically
+      sophisticated forebears as Kissinger and Brzezinski. They were far more prudent
+      and grounded in diplomatic protocol, but not much less blind to the benefits of
+      global humanism and the urgencies of demilitarization and ecological adaptations
+      to mounting global challenges. Only China seems currently attuned to the internationalist
+      imperatives of a ‘live and let live world order’ that connects its visions of
+      the future with reciprocity, restraint, economic and technologic mastery, and
+      ecological resilience. Such a recognition of China’s pedagogical leadership should
+      not be read as an endorsement of China’s internal ethnic and political pattern
+      of state/society relations that leaves much to be done in the domain of human
+      rights. I fear what might be presently called ‘Trump’s  World’ will be a curse
+       taking its toll on future generations, not only elsewhere on the planet but in
+      its almost certain boomerang effects on the quality of life in the United States.
+      Hyper-nationalism fused with nihilistic geopolitics poses the most profound threat
+      to species sustainability in human history both by what is does, as well as what
+      it proposes to do and not doing. .'
+    one_sentence_summary: The U.S. attack on Venezuela on January 3 is indicative of
+      a troubling trend towards nihilistic geopolitics that undermines international
+      law and the United Nations' ability to maintain global security and uphold legal
+      norms.
+    paragraph_summary: The article critiques the United States' military intervention
+      in Venezuela on January 3, framing it as a manifestation of a troubling trend
+      towards nihilistic geopolitics where international law is disregarded in favor
+      of imperialistic control over global security. It argues that this attack not
+      only undermines Venezuela's sovereignty but also erodes trust in the United Nations
+      and its ability to uphold core legal norms established 81 years ago. The author
+      suggests that the selective invocation of legality, the use of veto power instead
+      of accountability, and coercion over consent illustrate a broader systemic failure,
+      warning that Venezuela serves as a cautionary example of the deliberate marginalization
+      of international law by powerful states. Despite these challenges, the article
+      emphasizes that international law still functions effectively in many non-security
+      related contexts, highlighting the need to address issues of violation and impunity
+      in the realm of global security.
+    published: '2026-01-24T03:28:29+00:00'
   - title: 'Shame on The UN: Ratifying Genocide, Legitimating the Trump Plan'
     url: https://richardfalk.org/2026/01/12/shame-on-the-un-ratifying-genocide-legitimating-the-trump-plan-2/
     text: '[ Prefatory Note ; This essay in modified form was published on December

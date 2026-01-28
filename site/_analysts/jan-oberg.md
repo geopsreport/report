@@ -7,15 +7,18 @@ description: "Swedish peace researcher and co–founder of Transnational Foundat
 websites:
   - https://transnational.live/
 summary: |
-  The international landscape remains tense as the Trump administration continues to assert its influence globally, prompting renewed calls for nonviolent resistance and alternative strategies. **Jan Oberg** highlights in his latest analysis (January 20, 2026) that the need for a coordinated, global response to U.S. dominance is more urgent than ever, especially with the unveiling of the Trump regime’s new “Idea Portfolios” aimed at countering perceived threats to world stability.
+  As the Trump administration continues to shape global affairs in early 2026, independent analysts are increasingly focused on the international response to perceived U.S. overreach and the search for viable alternatives. The latest discussions, led by **Jan Oberg**, highlight a growing movement advocating for nonviolent resistance and the development of new global frameworks to counter what is described as a dangerous consolidation of U.S. power.
   
-  A key development is the push for governments and citizens to actively resist what Oberg describes as “world-threatening designs” of the current U.S. administration. He emphasizes the importance of building credible alternatives to the U.S.-led order, stating that “the time to resist and build is now,” and introducing a series of idea portfolios by TFF (Transnational Foundation for Peace and Future Research) to foster such alternatives.
+  The most recent analysis centers on the launch of "Idea Portfolios" by the Transnational Foundation for Peace and Future Research (TFF), which aim to provide governments and civil society with strategies to resist U.S. dominance. **Jan Oberg** argues that "the world must urgently mobilize to counter the Trump regime’s world-threatening designs," emphasizing the need for both governmental and grassroots action. The portfolios are presented as a blueprint for nonviolent resistance and the creation of alternative international systems less susceptible to unilateral U.S. influence.
   
-  Oberg also draws attention to the Trump administration’s recent “Peace Board” proposal for Gaza, arguing it is less about genuine conflict resolution and more about consolidating U.S. power while undermining the United Nations. He warns that this move is “another brick in [Trump’s] personal Occidental empire,” and calls for urgent international action to prevent further erosion of multilateral institutions.
+  Another key development is the critique of the Trump administration's "Peace Board" initiative regarding Gaza. **Oberg** asserts that this proposal is less about genuine peace and more about undermining the United Nations, further entrenching U.S. authority in global affairs. He warns that such moves are "another brick in [Trump’s] personal Occidental empire," and calls for urgent international attention to prevent the erosion of multilateral institutions.
   
-  Looking ahead, Oberg predicts with high confidence that unless there is a significant global mobilization—both at the governmental and grassroots levels—the trend toward unilateralism and exceptionalism will intensify. He asserts, “I guarantee that without coordinated resistance, the Trump regime’s agenda will most definitely continue to reshape the international order in its image.”
+  Looking at broader trends, there is a consistent call among analysts for the prevention of U.S. intervention in the domestic affairs of other nations, particularly in the context of rising tensions with Iran. The consensus is that the U.S. has become "overly arrogant" and must be challenged in its claims to exceptionalism.
   
-  In summary, the prevailing trend is a sharpening divide between U.S.-centric policies and a growing movement for alternative, nonviolent global governance. The next phase will likely see increased advocacy and the rollout of new strategies by civil society and independent organizations, with the outcome hinging on the breadth and cohesion of this resistance.
+  **Predictions:**  
+  Based on the current trajectory, **Jan Oberg** expresses high confidence that resistance to U.S. dominance will intensify, both at the governmental and civil society levels. He states, "I guarantee that alternative systems and nonviolent resistance will gain momentum as the Trump regime pursues its agenda." There is also a high chance that international institutions like the UN will face further challenges to their legitimacy unless new frameworks are developed to safeguard multilateralism.
+  
+  In summary, the geopolitical landscape is marked by mounting efforts to resist U.S. unilateralism, with new strategies and alliances expected to emerge in response to the Trump administration’s assertive policies. The coming months will likely see increased advocacy for nonviolent alternatives and a re-examination of global governance structures.
 articles:
   - title: 'Resist and Build Alternatives to the Trump Regime Now: Part 1'
     url: https://transnational.live/2026/01/20/resist-and-build-alternatives-to-the-trump-regime-now-part-1/
@@ -58,6 +61,44 @@ articles:
       movement worldwide. The piece aims to inspire collective action and the development
       of alternative systems that challenge existing power structures, advocating for
       a proactive approach to creating change both in the immediate and long term.
+    published: '2026-01-20T18:44:27+00:00'
+  - title: 'Resist and Build Alternatives to the Trump Regime Now: Part 1'
+    url: https://transnational.live/2026/01/20/resist-and-build-alternatives-to-the-trump-regime-now-part-1-2/
+    text: 'PART 1 — Media, Culture and Information Sovereignty By Jan ObergTFF co-founder
+      and director January 20, 2026 This is the first of four TFF-created idea portfolios
+      designed to curb the global reach of the United States and, in both the short
+      and long term, help catalyse a worldwide nonviolent resistance to what many observers
+      describe […] The post Resist and Build Alternatives to the Trump Regime Now: Part
+      1 appeared first on The Transnational .'
+    one_sentence_summary: The article by Jan Oberg outlines a strategy to foster global
+      nonviolent resistance against U.S. dominance and promote alternative systems,
+      as part of a series aimed at addressing the challenges posed by the Trump administration.
+    paragraph_summary: In the first part of a four-part series by Jan Oberg, co-founder
+      and director of TFF, the article discusses strategies to counter the global influence
+      of the United States, particularly in the context of the Trump regime. It emphasizes
+      the importance of media, culture, and information sovereignty in fostering a nonviolent
+      resistance movement worldwide. The piece aims to inspire individuals and communities
+      to build alternative systems that challenge existing power structures, advocating
+      for a collective response to perceived threats posed by U.S. policies and actions.
+    published: '2026-01-20T18:44:27+00:00'
+  - title: 'Resist and Build Alternatives to the Trump Regime Now: Part 1'
+    url: https://transnational.live/2026/01/20/resist-and-build-alternatives-to-the-trump-regime-now-part-1-2/
+    text: 'PART 1 — Media, Culture and Information Sovereignty By Jan ObergTFF co-founder
+      and director January 20, 2026 This is the first of four TFF-created idea portfolios
+      designed to curb the global reach of the United States and, in both the short
+      and long term, help catalyse a worldwide nonviolent resistance to what many observers
+      describe […] The post Resist and Build Alternatives to the Trump Regime Now: Part
+      1 appeared first on The Transnational .'
+    one_sentence_summary: The article by Jan Oberg outlines a strategy to foster global
+      nonviolent resistance against U.S. dominance and promote alternative systems,
+      as part of a series aimed at addressing the challenges posed by the Trump administration.
+    paragraph_summary: In the first part of a four-part series by Jan Oberg, co-founder
+      and director of TFF, the article discusses strategies to counter the global influence
+      of the United States, particularly in the context of the Trump regime. It emphasizes
+      the importance of media, culture, and information sovereignty in fostering a nonviolent
+      resistance movement worldwide. The piece aims to inspire individuals and communities
+      to build alternative systems that challenge existing power structures, advocating
+      for a collective response to perceived threats posed by U.S. policies and actions.
     published: '2026-01-20T18:44:27+00:00'
   - title: How Governments and Citizens Can Stop the Trump Regime’s World-Threatening
       Designs

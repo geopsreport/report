@@ -7,14 +7,939 @@ description: "Gilbert Doctorow is a Brussels-based independent political analyst
 websites:
   - https://gilbertdoctorow.com/
 summary: |
-  The geopolitical landscape remains dominated by the fallout from Donald Trump’s renewed ambitions regarding Greenland and the broader implications for transatlantic relations and European security. The past 24 hours have seen further clarification of these issues, as highlighted in **Gilbert Doctorow**’s latest interviews and televised debates.
+  As the Russia-Ukraine conflict enters a critical phase, diplomatic channels have intensified, with recent developments centering on high-level negotiations in Abu Dhabi and broader discussions about the normalization of US-Russia relations. The latest reports underscore a shift from public posturing to substantive back-channel talks involving military and intelligence officials.
   
-  A focal point has been Trump’s revived push for U.S. control over Greenland, discussed in depth during **Doctorow**’s afternoon segment with NewsX World (India). While technical issues marred the morning broadcast, the later discussion provided a clearer analysis of the strategic motivations behind Trump’s proposal. **Doctorow** emphasized that this move is not merely symbolic, but rather part of a broader U.S. strategy to secure critical resources and project power in the Arctic. The debate on Belarusian television further underscored the seriousness with which regional actors are now treating the Greenland issue, with **Doctorow** noting the “professional broadcasting quality” and the gravity of the statements made.
+  **Gilbert Doctorow** highlights in his January 27 analysis that the Abu Dhabi talks mark a significant departure from previous, more ambiguous diplomatic statements. According to Doctorow, these negotiations are now directly addressing the conditions for a Ukrainian withdrawal from parts of the Donbas region. This is corroborated by Russian media figures such as Dmitry Kiselyov, who notes that the involvement of military intelligence officers signals a move toward concrete arrangements rather than mere diplomatic theater.
   
-  In parallel, the question of Europe’s capacity to respond independently to U.S. policy shifts has resurfaced. **Doctorow** reiterated his skepticism about Europe’s ability to strengthen its own defenses should NATO unravel, a scenario that appears increasingly plausible given the current U.S. administration’s unpredictability. The majority view across recent panels is that European leaders lack both the political will and the military infrastructure to fill any security vacuum left by a U.S. withdrawal.
+  Another notable development is the continued Russian oil production in Venezuela, which, while not the primary focus of the Abu Dhabi talks, reflects Moscow's broader strategy to maintain leverage in global energy markets and strengthen ties with non-Western partners.
   
-  Looking ahead, the trend is clear: Trump’s assertive posture on Greenland is likely to exacerbate divisions within NATO and between the U.S. and Europe. **Doctorow** concludes with high confidence that “Europe will not be able to mount a credible independent defense in the near term,” and that the Greenland issue will remain a flashpoint for U.S.-European tensions. The broader trajectory points toward a period of heightened uncertainty and strategic recalibration on both sides of the Atlantic.
+  On the US side, Doctorow’s recent commentary points to a growing willingness among American negotiators to consider substantial financial incentives—up to $800 billion in aid—to facilitate a peace deal. This approach, previously discussed in the context of real estate developers like Witkoff and Kushner, is gaining traction as a pragmatic, if controversial, means to resolve the conflict. The majority opinion among analysts is that such financial packages, while criticized as "cheap bribes" by some, could prove more effective than traditional diplomatic overtures.
+  
+  Looking ahead, the trend is toward a gradual normalization of US-Russia relations, with the Abu Dhabi talks serving as a potential template for future conflict resolution efforts. Doctorow expresses high confidence that, barring unforeseen escalations, these negotiations will most definitely lead to a phased Ukrainian withdrawal from contested territories and a broader realignment of regional security arrangements.
+  
+  In summary, the past 24 hours have seen a marked acceleration in behind-the-scenes diplomacy, with both sides signaling readiness for compromise. The prevailing expectation is that, while challenges remain, a framework for peace is quite likely to emerge from the ongoing talks, setting the stage for a new era in US-Russia engagement.
 articles:
+  - title: Latest on Abu Dhabi and normalization of US-RU ties
+    url: https://gilbertdoctorow.com/2026/01/27/latest-on-abu-dhabi-and-normalization-of-us-ru-ties/
+    text: 'Published by gilbertdoctorow
+
+
+      Gilbert Doctorow''s latest book, "War Diaries. The Russia-Ukraine War, 2022-2023"
+      is a unique contribution to literature on the war thanks to the author''s reports
+      on the Russian home front written during his periodic visits to St Petersburg
+      at a time when Russia no longer issued visas and nearly all Western journalists
+      had left the country. Doctorow''s two-volume "Memoirs of a Russianist" published
+      in 2020 also constitutes a category of its own, consisting largely of diary entries
+      rather than reminiscences written decades later.. Volume 2 focuses on the community
+      of 50,000 expatriate managers working and living in Moscow during the 1990s, about
+      which none of his peers has yet to write. Gilbert Doctorow is a professional Russia
+      watcher and actor in Russian affairs going back to 1965. He is a magna cum laude
+      graduate of Harvard College (1967), a past Fulbright scholar, and holder of a
+      Ph.D. with honors in history from Columbia University (1975). After completing
+      his studies, Mr. Doctorow pursued a business career focused on the USSR and Eastern
+      Europe. For twenty-five years he worked for US and European multinationals in
+      marketing and general management with regional responsibility. From 1998-2002,
+      Doctorow served as the Chairman of the Russian Booker Literary Prize in Moscow.
+      During the 2010-2011 academic year, he was a Visiting scholar of the Harriman
+      Institute, Columbia University. Mr. Doctorow is a long-time resident of Brussels.
+      View all posts by gilbertdoctorow'
+    one_sentence_summary: Gilbert Doctorow's book "War Diaries. The Russia-Ukraine War,
+      2022-2023" offers a distinctive perspective on the conflict through his firsthand
+      accounts from Russia during a time when Western journalists were largely absent,
+      complementing his earlier work on the expatriate community in Moscow during the
+      1990s.
+    paragraph_summary: Gilbert Doctorow's book, "War Diaries. The Russia-Ukraine War,
+      2022-2023," offers a distinctive perspective on the ongoing conflict by providing
+      insights from his visits to St. Petersburg during a time when Western journalists
+      were largely absent due to visa restrictions. This work follows his earlier two-volume
+      memoir, "Memoirs of a Russianist," which features diary entries focused on the
+      expatriate community in Moscow during the 1990s, a topic unexplored by his contemporaries.
+      With a background as a professional observer of Russian affairs since 1965, Doctorow
+      holds degrees from Harvard and Columbia, has a rich career in business related
+      to the USSR and Eastern Europe, and has served in various academic and literary
+      roles, including as Chairman of the Russian Booker Literary Prize. He currently
+      resides in Brussels.
+    published: '2026-01-27T15:13:37+00:00'
+  - title: News X World interview this morning on the Abu Dhabi talks and on continuing
+      Russian oil production in Venezuela
+    url: https://gilbertdoctorow.com/2026/01/26/news-x-world-interview-this-morning-on-the-abu-dhabi-talks-and-on-continuing-russian-oil-production-in-venezuela/
+    text: 'News X World interview this morning on the Abu Dhabi talks and on continuing
+      Russian oil production in Venezuela I can enthusiastically recommend the twelve
+      minutes of this podcast starting at minute 6.00 which above all gave me the opportunity
+      to share with the News X global live broadcast audience what I learned on Sunday
+      evening from the dean of Russian state television news, Dmitry Kiselyov – namely
+      some very interesting facts about the content of the tripartite Russia-US-Ukraine
+      talks in Abu Dhabi.  If you look at Western Mainstream, all you would know is
+      the empty statements to the press by presidential adviser Ushakov that the talks
+      were ‘very constructive.’  But in what way you would reasonably ask and find no
+      answer. Per Kiselyov, the talks in Abu Dhabi proceeded in two parallel tracks.
+      One was between top military intelligence officers from both Ukrainian and Russian
+      sides discussing the conditions under which Ukrainian forces will withdraw from
+      the part of the Donbas region that they still hold. This has been a Russian precondition
+      for concluding a peace treaty. This track also would be discussing the creation
+      of a buffer zone on both sides of the new Russian-Ukrainian frontier. My interlocutor
+      from News X World took at face value the assertion of President Zalensky following
+      the talks that Ukraine is not giving up any territory. This I called an outright
+      lie since the Russians would not have come for talks and would not have agreed
+      to their resuming talks next weekend if their condition of withdrawal were not
+      met. In parallel in Abu Dhabi, the second track was U.S-Russian discussions of
+      the steps towards normalization of state-to-state relations as the peace negotiations
+      proceed to successful conclusion. In this track the new Trump emissary Gruenbaum
+      was present to review the proposal of President Putin to accept Donald Trump’s
+      invitation to join the Board of Peace now in formation and to pay Moscow’s 1 billion
+      dollar contribution for designation as a permanent member by offering this sum
+      from the frozen Russian state assets in the USA. In the second segment of the
+      interview, News X asked about the likelihood that Russian oil production under
+      contract with the Venezuelan government will continue without interruption as
+      the Russian ambassador in Caracas presently maintains.  At this I noted that it
+      is not only Ukrainians who know how to lie, that the Russians also are not necessarily
+      truthful in matters of state:  indeed, I do not see the Russian production in
+      Venezuela as having much chance of continuing.  Trump has succeeded in shutting
+      down Russian oil production in Iraq and other Middle Eastern locations, so why
+      would he tolerate its continuation in his own backyard in the Western hemisphere?
+      The News X presenter then asked what are the prospects for Russia’s special defense
+      relationship with Venezuela. This was still easier to answer: nil prospects, over
+      which Moscow surely will have few regrets. The reality is that the Russian relations
+      with Venezuela, with Cuba and with other friendly socialist minded Latin American
+      countries are a legacy from the past when military technology was different from
+      today’s and when these outposts had strategic value of deterrence for Russia. 
+      Today, with its hypersonic missiles on submarines, frigates and even mounted in
+      containers on commercial ships, Russia has the means to destroy Washington or
+      New York or Los Angeles within a very few minutes using its own ocean-going vessels.
+      Bases are an unnecessary luxury today to maintain deterrence. To this I can add
+      here what time limitations did not allow me to go into on this interview, material
+      which I gleaned from Sunday evening’s Vladimir Solovyov talk show. As several
+      expert panelists noted, with the acquisition of control over Venezuelan oil, Trump
+      is approaching a 35% control of global oil trading, making the USA a serious competitor
+      to OPEC.  Moreover, with US control of oil, Russia’s earnings from hydrocarbons
+      will surely decline.  Accordingly, these experts stress that Moscow must continue
+      its policy of reindustrialization and diversification of the economy.  I mention
+      this as a response coming from highly responsible and authoritative Russian state
+      actors and academics to the notion that is so widespread among Alternative Media
+      cheerleaders for Russia that the USA cannot do anything to harm the Russian economy.
+      ©Gilbert Doctoros, 2026'
+    one_sentence_summary: The article discusses an interview highlighting insights from
+      Dmitry Kiselyov about the recent Russia-US-Ukraine talks in Abu Dhabi, revealing
+      that the discussions involved military intelligence officers negotiating the conditions
+      for a Ukrainian withdrawal from parts of the Donbas region, contrasting with the
+      vague public statements from Western officials.
+    paragraph_summary: 'In a recent News X World interview, insights were shared regarding
+      the ongoing tripartite talks in Abu Dhabi involving Russia, the U.S., and Ukraine,
+      particularly highlighting information from Dmitry Kiselyov, a prominent figure
+      in Russian state television. Contrary to the vague statements from Western sources,
+      Kiselyov revealed that the discussions unfolded along two parallel tracks: one
+      involving military intelligence officers from Ukraine and Russia negotiating the
+      conditions for Ukrainian withdrawal from parts of the Donbas region, a key Russian
+      demand for a peace treaty, and the other focusing on U.S.-Russian relations aimed
+      at normalizing state-to-state interactions as peace negotiations progress. The
+      conversation also touched on President Zelensky''s assertion that Ukraine would
+      not concede any territory, which was challenged as misleading, given the context
+      of the talks. Additionally, the presence of a Trump emissary indicated ongoing
+      discussions about U.S. involvement in the peace process.'
+    published: '2026-01-26T16:41:41+00:00'
+  - title: News X World interview this morning on the Abu Dhabi talks and on continuing
+      Russian oil production in Venezuela
+    url: https://gilbertdoctorow.com/2026/01/26/news-x-world-interview-this-morning-on-the-abu-dhabi-talks-and-on-continuing-russian-oil-production-in-venezuela/
+    text: 'News X World interview this morning on the Abu Dhabi talks and on continuing
+      Russian oil production in Venezuela I can enthusiastically recommend the twelve
+      minutes of this podcast starting at minute 6.00 which above all gave me the opportunity
+      to share with the News X global live broadcast audience what I learned on Sunday
+      evening from the dean of Russian state television news, Dmitry Kiselyov – namely
+      some very interesting facts about the content of the tripartite Russia-US-Ukraine
+      talks in Abu Dhabi.  If you look at Western Mainstream, all you would know is
+      the empty statements to the press by presidential adviser Ushakov that the talks
+      were ‘very constructive.’  But in what way you would reasonably ask and find no
+      answer. Per Kiselyov, the talks in Abu Dhabi proceeded in two parallel tracks.
+      One was between top military intelligence officers from both Ukrainian and Russian
+      sides discussing the conditions under which Ukrainian forces will withdraw from
+      the part of the Donbas region that they still hold. This has been a Russian precondition
+      for concluding a peace treaty. This track also would be discussing the creation
+      of a buffer zone on both sides of the new Russian-Ukrainian frontier. My interlocutor
+      from News X World took at face value the assertion of President Zalensky following
+      the talks that Ukraine is not giving up any territory. This I called an outright
+      lie since the Russians would not have come for talks and would not have agreed
+      to their resuming talks next weekend if their condition of withdrawal were not
+      met. In parallel in Abu Dhabi, the second track was U.S-Russian discussions of
+      the steps towards normalization of state-to-state relations as the peace negotiations
+      proceed to successful conclusion. In this track the new Trump emissary Gruenbaum
+      was present to review the proposal of President Putin to accept Donald Trump’s
+      invitation to join the Board of Peace now in formation and to pay Moscow’s 1 billion
+      dollar contribution for designation as a permanent member by offering this sum
+      from the frozen Russian state assets in the USA. In the second segment of the
+      interview, News X asked about the likelihood that Russian oil production under
+      contract with the Venezuelan government will continue without interruption as
+      the Russian ambassador in Caracas presently maintains.  At this I noted that it
+      is not only Ukrainians who know how to lie, that the Russians also are not necessarily
+      truthful in matters of state:  indeed, I do not see the Russian production in
+      Venezuela as having much chance of continuing.  Trump has succeeded in shutting
+      down Russian oil production in Iraq and other Middle Eastern locations, so why
+      would he tolerate its continuation in his own backyard in the Western hemisphere?
+      The News X presenter then asked what are the prospects for Russia’s special defense
+      relationship with Venezuela. This was still easier to answer: nil prospects, over
+      which Moscow surely will have few regrets. The reality is that the Russian relations
+      with Venezuela, with Cuba and with other friendly socialist minded Latin American
+      countries are a legacy from the past when military technology was different from
+      today’s and when these outposts had strategic value of deterrence for Russia. 
+      Today, with its hypersonic missiles on submarines, frigates and even mounted in
+      containers on commercial ships, Russia has the means to destroy Washington or
+      New York or Los Angeles within a very few minutes using its own ocean-going vessels.
+      Bases are an unnecessary luxury today to maintain deterrence. To this I can add
+      here what time limitations did not allow me to go into on this interview, material
+      which I gleaned from Sunday evening’s Vladimir Solovyov talk show. As several
+      expert panelists noted, with the acquisition of control over Venezuelan oil, Trump
+      is approaching a 35% control of global oil trading, making the USA a serious competitor
+      to OPEC.  Moreover, with US control of oil, Russia’s earnings from hydrocarbons
+      will surely decline.  Accordingly, these experts stress that Moscow must continue
+      its policy of reindustrialization and diversification of the economy.  I mention
+      this as a response coming from highly responsible and authoritative Russian state
+      actors and academics to the notion that is so widespread among Alternative Media
+      cheerleaders for Russia that the USA cannot do anything to harm the Russian economy.
+      ©Gilbert Doctoros, 2026'
+    one_sentence_summary: The article discusses an interview highlighting insights from
+      Dmitry Kiselyov about the recent Russia-US-Ukraine talks in Abu Dhabi, revealing
+      that the discussions involved military intelligence officers negotiating the conditions
+      for a Ukrainian withdrawal from parts of the Donbas region, contrasting with the
+      vague public statements from Western officials.
+    paragraph_summary: 'In a recent News X World interview, insights were shared regarding
+      the ongoing tripartite talks in Abu Dhabi involving Russia, the U.S., and Ukraine,
+      particularly highlighting information from Dmitry Kiselyov, a prominent figure
+      in Russian state television. Contrary to the vague statements from Western sources,
+      Kiselyov revealed that the discussions unfolded along two parallel tracks: one
+      involving military intelligence officers from Ukraine and Russia negotiating the
+      conditions for Ukrainian withdrawal from parts of the Donbas region, a key Russian
+      demand for a peace treaty, and the other focusing on U.S.-Russian relations aimed
+      at normalizing state-to-state interactions as peace negotiations progress. The
+      conversation also touched on President Zelensky''s assertion that Ukraine would
+      not concede any territory, which was challenged as misleading, given the context
+      of the talks. Additionally, the presence of a Trump emissary indicated ongoing
+      discussions about U.S. involvement in the peace process.'
+    published: '2026-01-26T16:41:41+00:00'
+  - title: Very important “News of the Week” on Rossiya 1 that you have not yet read
+      in Western media
+    url: https://gilbertdoctorow.com/2026/01/26/very-important-news-of-the-week-on-rossiya-1-that-you-have-not-yet-read-in-western-media/
+    text: 'Gilbert Doctorow Jan 25, 2026 ∙ Reposted from Substack –  Armageddon Newsletter
+      Host Dmitry Kiselyov was in excellent spirits this evening as he presented the
+      astonishing collection of major developments of vital interest to Russia that
+      occurred over the past week. I will be brief here in my description of what was
+      shown on the first 45 minutes of his program, almost none of which has yet to
+      be written or spoken about on Western mainstream media. I have in mind what took
+      place during the visit of Trump’s envoys Kushner, Witkoff and Gruenbaum to the
+      Kremlin on 22 January, Putin’s talks with President Mahmoud Abbas of the Palestinian
+      State on the same day, and then the talks of Russians, Ukrainians and the Americans
+      in Abu Dhabi on 23 and 24 January. Mainstream repeats what Russia’s presidential
+      adviser Ushakov told reporters – namely that both the talks in Moscow and then
+      the follow-on talks in Abu Dhabi were substantial and made great progress, without
+      giving any hint of the content. Kiselyov could and did give us a better inkling
+      of what is going on, including the fact that there were two lines of negotiation
+      in Abu Dhabi. One line, between military experts from the Russian and Ukrainian
+      sides, was over security issues, meaning in fact over conditions of the Ukrainian
+      withdrawal from Donbas and the creation of a buffer zone between Russians and
+      Ukrainians along the new borders. This line of discussion will resume next weekend
+      in Abu Dhabi. The other line of discussion was between the Americans and the Russians
+      over steps to normalize state-to-state relations as the war winds down and peace
+      comes to Ukraine. These talks will resume early in the coming week and proceed
+      at their own pace. Kiselyov explained the presence of Trump’s newly appointed
+      assistant for organizing the finances of the Board of Peace, Josh Gruenbaum, with
+      regard to discussion of the terms under which President Putin has proposed to
+      proceed: namely that Russia’s contribution of the 1 billion dollars entrance fee
+      for permanent participation in the Board is to come from Russia’s frozen state
+      assets held in the USA. Almost certainly, Russia’s decision to take part in the
+      Board and to contribute its billion was the main subject of the talks that Putin
+      had with President Abbas. Moreover, as Kiselyov discretely slipped into his remarks,
+      it is likely that the remaining $4 billion in frozen Russian assets in the USA
+      will now be earmarked for aid in the reconstruction of Gaza. These points about
+      the disposition of Russian frozen assets in the USA are highly relevant to the
+      bigger issue of resolving the war in Ukraine. The release of the assets for the
+      sake of reconstruction in Gaza sets the precedent for something I have advocated
+      for more than a year: the $300 billion in frozen Russian state assets held in
+      Belgium and other European States could constitute part of the $800 billion in
+      reconstruction funds that Trump is said to be offering Kiev as the price for their
+      withdrawal from Donbas and recognizing the territory as Russian in order to conclude
+      a peace treaty. It is clear from the reportage this evening on Vesti Nedeli that
+      Vladimir Putin believes in the ultimate benefit of his standing by Donald Trump
+      notwithstanding all of the shifting to and fro in Trump’s public statements over
+      the months. Finally, I mention that Kiselyov’s presentation of the Davos events
+      showed Russia’s enormous satisfaction that Trump has shattered European arrogance
+      and unity. Twice Kiselyov put up Belgian Prime Minister Bart De Wever’s statement
+      in Davos that the Europeans have been utterly humiliated, his admission that they
+      have been happy vassals and now face the ignominy of being unhappy slaves. ©Gilbert
+      Doctorow, 2026'
+    one_sentence_summary: Dmitry Kiselyov highlighted significant recent developments
+      in Russian diplomacy, including meetings involving Trump's envoys, discussions
+      between Putin and Palestinian President Mahmoud Abbas, and talks among Russian,
+      Ukrainian, and American officials in Abu Dhabi, which have largely gone unreported
+      in Western media.
+    paragraph_summary: 'In a recent episode of the "Armageddon Newsletter," host Dmitry
+      Kiselyov highlighted significant developments in Russia''s diplomatic efforts
+      that have largely gone unreported in Western media. He discussed the visit of
+      Trump''s envoys to the Kremlin and the subsequent talks involving Russian, Ukrainian,
+      and American officials in Abu Dhabi. The negotiations included two main tracks:
+      one focused on military experts discussing security issues related to Ukraine''s
+      withdrawal from Donbas and the establishment of a buffer zone, and the other aimed
+      at normalizing relations between the U.S. and Russia as the conflict in Ukraine
+      de-escalates. Kiselyov noted that these discussions will continue in the coming
+      weeks, indicating a potential shift towards peace in the region.'
+    published: '2026-01-26T07:55:15+00:00'
+  - title: Very important “News of the Week” on Rossiya 1 that you have not yet read
+      in Western media
+    url: https://gilbertdoctorow.com/2026/01/26/very-important-news-of-the-week-on-rossiya-1-that-you-have-not-yet-read-in-western-media/
+    text: 'Gilbert Doctorow Jan 25, 2026 ∙ Reposted from Substack –  Armageddon Newsletter
+      Host Dmitry Kiselyov was in excellent spirits this evening as he presented the
+      astonishing collection of major developments of vital interest to Russia that
+      occurred over the past week. I will be brief here in my description of what was
+      shown on the first 45 minutes of his program, almost none of which has yet to
+      be written or spoken about on Western mainstream media. I have in mind what took
+      place during the visit of Trump’s envoys Kushner, Witkoff and Gruenbaum to the
+      Kremlin on 22 January, Putin’s talks with President Mahmoud Abbas of the Palestinian
+      State on the same day, and then the talks of Russians, Ukrainians and the Americans
+      in Abu Dhabi on 23 and 24 January. Mainstream repeats what Russia’s presidential
+      adviser Ushakov told reporters – namely that both the talks in Moscow and then
+      the follow-on talks in Abu Dhabi were substantial and made great progress, without
+      giving any hint of the content. Kiselyov could and did give us a better inkling
+      of what is going on, including the fact that there were two lines of negotiation
+      in Abu Dhabi. One line, between military experts from the Russian and Ukrainian
+      sides, was over security issues, meaning in fact over conditions of the Ukrainian
+      withdrawal from Donbas and the creation of a buffer zone between Russians and
+      Ukrainians along the new borders. This line of discussion will resume next weekend
+      in Abu Dhabi. The other line of discussion was between the Americans and the Russians
+      over steps to normalize state-to-state relations as the war winds down and peace
+      comes to Ukraine. These talks will resume early in the coming week and proceed
+      at their own pace. Kiselyov explained the presence of Trump’s newly appointed
+      assistant for organizing the finances of the Board of Peace, Josh Gruenbaum, with
+      regard to discussion of the terms under which President Putin has proposed to
+      proceed: namely that Russia’s contribution of the 1 billion dollars entrance fee
+      for permanent participation in the Board is to come from Russia’s frozen state
+      assets held in the USA. Almost certainly, Russia’s decision to take part in the
+      Board and to contribute its billion was the main subject of the talks that Putin
+      had with President Abbas. Moreover, as Kiselyov discretely slipped into his remarks,
+      it is likely that the remaining $4 billion in frozen Russian assets in the USA
+      will now be earmarked for aid in the reconstruction of Gaza. These points about
+      the disposition of Russian frozen assets in the USA are highly relevant to the
+      bigger issue of resolving the war in Ukraine. The release of the assets for the
+      sake of reconstruction in Gaza sets the precedent for something I have advocated
+      for more than a year: the $300 billion in frozen Russian state assets held in
+      Belgium and other European States could constitute part of the $800 billion in
+      reconstruction funds that Trump is said to be offering Kiev as the price for their
+      withdrawal from Donbas and recognizing the territory as Russian in order to conclude
+      a peace treaty. It is clear from the reportage this evening on Vesti Nedeli that
+      Vladimir Putin believes in the ultimate benefit of his standing by Donald Trump
+      notwithstanding all of the shifting to and fro in Trump’s public statements over
+      the months. Finally, I mention that Kiselyov’s presentation of the Davos events
+      showed Russia’s enormous satisfaction that Trump has shattered European arrogance
+      and unity. Twice Kiselyov put up Belgian Prime Minister Bart De Wever’s statement
+      in Davos that the Europeans have been utterly humiliated, his admission that they
+      have been happy vassals and now face the ignominy of being unhappy slaves. ©Gilbert
+      Doctorow, 2026'
+    one_sentence_summary: Dmitry Kiselyov highlighted significant recent developments
+      in Russian diplomacy, including meetings involving Trump's envoys, discussions
+      between Putin and Palestinian President Mahmoud Abbas, and talks among Russian,
+      Ukrainian, and American officials in Abu Dhabi, which have largely gone unreported
+      in Western media.
+    paragraph_summary: 'In a recent episode of the "Armageddon Newsletter," host Dmitry
+      Kiselyov highlighted significant developments in Russia''s diplomatic efforts
+      that have largely gone unreported in Western media. He discussed the visit of
+      Trump''s envoys to the Kremlin and the subsequent talks involving Russian, Ukrainian,
+      and American officials in Abu Dhabi. The negotiations included two main tracks:
+      one focused on military experts discussing security issues related to Ukraine''s
+      withdrawal from Donbas and the establishment of a buffer zone, and the other aimed
+      at normalizing relations between the U.S. and Russia as the conflict in Ukraine
+      de-escalates. Kiselyov noted that these discussions will continue in the coming
+      weeks, indicating a potential shift towards peace in the region.'
+    published: '2026-01-26T07:55:15+00:00'
+  - title: Two segments of interviews yesterday on News X World worth close attention
+    url: https://gilbertdoctorow.com/2026/01/25/two-segments-of-interviews-yesterday-on-news-x-world-worth-close-attention/
+    text: On this podcast there are two separate segments to recommend.  One begins
+      at minute 3.40 in which I respond to the presenter’s request for an explanation
+      of Trump’s humiliating Europe during his speech at Davos.  The second, more valuable
+      segment begins at minute 7.30 when I share with Professor Andrew Latham of Macalaster
+      College in Minneapolis a discussion of the overarching view of global governance
+      that drives Donald Trump’s ongoing efforts to break up NATO and the EU.  I had
+      been in a ‘debate’ with Latham on News X within the past week but this time, to
+      our mutual surprise, we were substantially in agreement over what Trump’s mission
+      to remake global relations appears to be – namely that it draws on the thinking
+      of Henry Kissinger.
+    one_sentence_summary: 'The podcast features two segments: one discussing Trump''s
+      speech at Davos and another, more insightful segment where the speaker and Professor
+      Andrew Latham explore Trump''s approach to global governance and its alignment
+      with Henry Kissinger''s ideas.'
+    paragraph_summary: In a recent podcast, the host features two key segments, starting
+      with a discussion at minute 3.40 about Donald Trump's speech at Davos, which was
+      perceived as humiliating to Europe. The more insightful segment begins at minute
+      7.30, where the host engages with Professor Andrew Latham from Macalester College
+      in a conversation about Trump's approach to global governance, particularly his
+      efforts to undermine NATO and the EU. Both participants express surprise at their
+      agreement regarding Trump's mission to reshape international relations, which
+      they believe is influenced by the ideas of Henry Kissinger.
+    published: '2026-01-25T19:19:02+00:00'
+  - title: Two segments of interviews yesterday on News X World worth close attention
+    url: https://gilbertdoctorow.com/2026/01/25/two-segments-of-interviews-yesterday-on-news-x-world-worth-close-attention/
+    text: On this podcast there are two separate segments to recommend.  One begins
+      at minute 3.40 in which I respond to the presenter’s request for an explanation
+      of Trump’s humiliating Europe during his speech at Davos.  The second, more valuable
+      segment begins at minute 7.30 when I share with Professor Andrew Latham of Macalaster
+      College in Minneapolis a discussion of the overarching view of global governance
+      that drives Donald Trump’s ongoing efforts to break up NATO and the EU.  I had
+      been in a ‘debate’ with Latham on News X within the past week but this time, to
+      our mutual surprise, we were substantially in agreement over what Trump’s mission
+      to remake global relations appears to be – namely that it draws on the thinking
+      of Henry Kissinger.
+    one_sentence_summary: 'The podcast features two segments: one discussing Trump''s
+      speech at Davos and another, more insightful segment where the speaker and Professor
+      Andrew Latham explore Trump''s approach to global governance and its alignment
+      with Henry Kissinger''s ideas.'
+    paragraph_summary: In a recent podcast, the host features two key segments, starting
+      with a discussion at minute 3.40 about Donald Trump's speech at Davos, which was
+      perceived as humiliating to Europe. The more insightful segment begins at minute
+      7.30, where the host engages with Professor Andrew Latham from Macalester College
+      in a conversation about Trump's approach to global governance, particularly his
+      efforts to undermine NATO and the EU. Both participants express surprise at their
+      agreement regarding Trump's mission to reshape international relations, which
+      they believe is influenced by the ideas of Henry Kissinger.
+    published: '2026-01-25T19:19:02+00:00'
+  - title: Let’s do our arithmetic on the sums being proposed by Witkoff and Kushner
+      to resolve the Ukraine war and the stand-off over Greenland
+    url: https://gilbertdoctorow.com/2026/01/25/lets-do-our-arithmetic-on-the-sums-being-proposed-by-witkoff-and-kushner-to-resolve-the-ukraine-war-and-the-stand-off-over-greenland/
+    text: 'Let’s do our arithmetic on the sums being proposed by Witkoff and Kushner
+      to resolve the Ukraine war and the stand-off over Greenland I have just been in
+      an exchange with former Assistant Treasury Secretary and professional economist
+      Craig Roberts about a money issue:  can we call what Witkoff and Kushner are penciling
+      in as the sums of money that could end the Ukraine war or could end the stand-off
+      over Greenland ‘cheap bribes’? When you do the arithmetic, you have to scratch
+      your head at the notion that Trump’s boys are barking up the wrong tree, as we
+      say in colloquial English.  Of course, I could be off by a digit given that my
+      hand-held pre-Modern Age calculator barely functions in the realm of billions.
+      I welcome push-back from readers. ***** On the question of ‘bribes,’ meaning the
+      proposed payments to Denmark and to Ukraine:   I make the argument in an essay
+      I published this morning that real estate developers can be better emissaries
+      for peace negotiations than professional diplomats with law degrees who are by
+      definition traders in abstractions, in the decades-long tradition of Secretary
+      of State John Foster Dulles. They are people who try to solve POLITICAL problems
+      as if they were strictly legal issues like sovereignty or aggression.  They are
+      not looking for a resolution which comes from breaking eggs to make an omelet.
+      I think that the Danish people will be very stupid to refuse Trump’s 800 billion
+      for Greenland – if their authoritarian Prime Minister gives them the facts and
+      let’s them express themselves in a referendum.   At present and in the foreseeable
+      future, meaning the next 30 plus years, Greenland is a budgetary charge not a
+      budgetary contributor.  The 800 billion divided by the 6 million population of
+      Denmark comes to 133,000 for every man, woman and child in Denmark or about 6,000
+      per annum per capita if invested with a return of 5% in perpetuity. This income
+      whether annualized or taken as lump sum would make the Danes one of the most financially
+      secure nations in Europe.    How can people call this a bribe?  Or if you do so,
+      it is a helluva bribe. Let’s call it what it is: a purchase price for peace. For
+      the Ukrainians, a similar global sum in exchange for the Donbas territory may
+      be less attractive on a per capita basis, but the net worth of Ukrainians today
+      is a lot lower than the net worth of your average Dane today.  The money could
+      finally give compensation to widows and orphans. The money could rebuild most
+      of the infrastructure and residential properties that have been destroyed in the
+      war.  It would not compensate the Ukrainians for all that they have lost, but
+      it was their own stupidity and/or lack of courage not to overthrow the Zelensky
+      regime long ago which makes them net losers even if they are offered and accept
+      700 or 800 billion. These are not trivial issues. ©Gilbert Doctorow, 2026'
+    one_sentence_summary: The article discusses the financial proposals by Witkoff and
+      Kushner to resolve the Ukraine war and the Greenland stand-off, questioning whether
+      these sums can be considered "cheap bribes" and suggesting that real estate developers
+      may be more effective in peace negotiations than traditional diplomats.
+    paragraph_summary: The article discusses the financial proposals by Witkoff and
+      Kushner aimed at resolving the Ukraine war and the Greenland stand-off, questioning
+      whether these sums can be considered "cheap bribes." The author argues that real
+      estate developers might be more effective negotiators than traditional diplomats,
+      who often approach political issues through a legal lens. Specifically, the author
+      suggests that Denmark should accept Trump's proposed $800 billion for Greenland,
+      as it would significantly benefit the Danish population financially, providing
+      substantial per capita income if invested wisely. The piece emphasizes the potential
+      economic advantages for Denmark and critiques the current diplomatic approach
+      to these geopolitical issues.
+    published: '2026-01-25T15:54:50+00:00'
+  - title: Let’s do our arithmetic on the sums being proposed by Witkoff and Kushner
+      to resolve the Ukraine war and the stand-off over Greenland
+    url: https://gilbertdoctorow.com/2026/01/25/lets-do-our-arithmetic-on-the-sums-being-proposed-by-witkoff-and-kushner-to-resolve-the-ukraine-war-and-the-stand-off-over-greenland/
+    text: 'Let’s do our arithmetic on the sums being proposed by Witkoff and Kushner
+      to resolve the Ukraine war and the stand-off over Greenland I have just been in
+      an exchange with former Assistant Treasury Secretary and professional economist
+      Craig Roberts about a money issue:  can we call what Witkoff and Kushner are penciling
+      in as the sums of money that could end the Ukraine war or could end the stand-off
+      over Greenland ‘cheap bribes’? When you do the arithmetic, you have to scratch
+      your head at the notion that Trump’s boys are barking up the wrong tree, as we
+      say in colloquial English.  Of course, I could be off by a digit given that my
+      hand-held pre-Modern Age calculator barely functions in the realm of billions.
+      I welcome push-back from readers. ***** On the question of ‘bribes,’ meaning the
+      proposed payments to Denmark and to Ukraine:   I make the argument in an essay
+      I published this morning that real estate developers can be better emissaries
+      for peace negotiations than professional diplomats with law degrees who are by
+      definition traders in abstractions, in the decades-long tradition of Secretary
+      of State John Foster Dulles. They are people who try to solve POLITICAL problems
+      as if they were strictly legal issues like sovereignty or aggression.  They are
+      not looking for a resolution which comes from breaking eggs to make an omelet.
+      I think that the Danish people will be very stupid to refuse Trump’s 800 billion
+      for Greenland – if their authoritarian Prime Minister gives them the facts and
+      let’s them express themselves in a referendum.   At present and in the foreseeable
+      future, meaning the next 30 plus years, Greenland is a budgetary charge not a
+      budgetary contributor.  The 800 billion divided by the 6 million population of
+      Denmark comes to 133,000 for every man, woman and child in Denmark or about 6,000
+      per annum per capita if invested with a return of 5% in perpetuity. This income
+      whether annualized or taken as lump sum would make the Danes one of the most financially
+      secure nations in Europe.    How can people call this a bribe?  Or if you do so,
+      it is a helluva bribe. Let’s call it what it is: a purchase price for peace. For
+      the Ukrainians, a similar global sum in exchange for the Donbas territory may
+      be less attractive on a per capita basis, but the net worth of Ukrainians today
+      is a lot lower than the net worth of your average Dane today.  The money could
+      finally give compensation to widows and orphans. The money could rebuild most
+      of the infrastructure and residential properties that have been destroyed in the
+      war.  It would not compensate the Ukrainians for all that they have lost, but
+      it was their own stupidity and/or lack of courage not to overthrow the Zelensky
+      regime long ago which makes them net losers even if they are offered and accept
+      700 or 800 billion. These are not trivial issues. ©Gilbert Doctorow, 2026'
+    one_sentence_summary: The article discusses the financial proposals by Witkoff and
+      Kushner to resolve the Ukraine war and the Greenland stand-off, questioning whether
+      these sums can be considered "cheap bribes" and suggesting that real estate developers
+      may be more effective in peace negotiations than traditional diplomats.
+    paragraph_summary: The article discusses the financial proposals by Witkoff and
+      Kushner aimed at resolving the Ukraine war and the Greenland stand-off, questioning
+      whether these sums can be considered "cheap bribes." The author argues that real
+      estate developers might be more effective negotiators than traditional diplomats,
+      who often approach political issues through a legal lens. Specifically, the author
+      suggests that Denmark should accept Trump's proposed $800 billion for Greenland,
+      as it would significantly benefit the Danish population financially, providing
+      substantial per capita income if invested wisely. The piece emphasizes the potential
+      economic advantages for Denmark and critiques the current diplomatic approach
+      to these geopolitical issues.
+    published: '2026-01-25T15:54:50+00:00'
+  - title: 'FirstPost America: US, Ukraine, Russian Officials to Meet in Abu Dhabi,
+      Discuss Ukraine Peace Deal'
+    url: https://gilbertdoctorow.com/2026/01/23/firstpost-america-us-ukraine-russian-officials-to-meet-in-abu-dhabi-discuss-ukraine-peace-deal/
+    text: 'FirstPost America: US, Ukraine, Russian Officials to Meet in Abu Dhabi, Discuss
+      Ukraine Peace Deal This discussion with a moderator from the Indian global broadcaster
+      Firstpost updates the state of the US-Russian-Ukrainian talks going on in Abu
+      Dhabi today and tomorrow.  As I say here (from minute 5), the territorial issue
+      separating the Russian and Ukrainian sides may well be resolved by the latest
+      proposal coming from Team Trump for, essentially, the whole Donbas to be purchased
+      and turned over to Russia in exchange for $800 billion investment funds raised
+      and distributed by the USA.  The person said to be nominated by Trump to be in
+      charge of this operation is Larry Fink, who happens to be both the CEO of Blackrock
+      and the acting co-Chairman of the World Economic Forum (Davos). The sticking point
+      at the moment lies elsewhere – in the ‘boots on the ground’ that Kiev wants to
+      ensure its security after the peace is concluded.  Clearly Zelensky wants NATO
+      Member State forces; equally clearly, the Russians exclude that possibility entirely.
+      Firstpost, by the way, shows 9.2 million subscribers. It is a communications giant
+      in India with numerous subsidiaries and broadcasting in many different languages.'
+    one_sentence_summary: US, Ukrainian, and Russian officials are meeting in Abu Dhabi
+      to discuss a potential peace deal for Ukraine, which includes a controversial
+      proposal for the US to invest $800 billion in exchange for the transfer of the
+      Donbas region to Russia, while the main concern remains Ukraine's security guarantees
+      post-agreement.
+    paragraph_summary: US, Ukrainian, and Russian officials are currently meeting in
+      Abu Dhabi to discuss a potential peace deal for Ukraine, with a significant proposal
+      suggesting that the entire Donbas region could be purchased by Russia for $800
+      billion in investment funds from the US. This proposal, reportedly linked to former
+      President Trump's team and potentially overseen by Larry Fink, CEO of Blackrock,
+      aims to resolve territorial disputes. However, a major point of contention remains
+      the security guarantees Ukraine seeks, specifically the presence of NATO forces,
+      which Russia firmly opposes. The discussions are being moderated by Firstpost,
+      a prominent Indian global broadcaster.
+    published: '2026-01-23T16:33:34+00:00'
+  - title: 'FirstPost America: US, Ukraine, Russian Officials to Meet in Abu Dhabi,
+      Discuss Ukraine Peace Deal'
+    url: https://gilbertdoctorow.com/2026/01/23/firstpost-america-us-ukraine-russian-officials-to-meet-in-abu-dhabi-discuss-ukraine-peace-deal/
+    text: 'FirstPost America: US, Ukraine, Russian Officials to Meet in Abu Dhabi, Discuss
+      Ukraine Peace Deal This discussion with a moderator from the Indian global broadcaster
+      Firstpost updates the state of the US-Russian-Ukrainian talks going on in Abu
+      Dhabi today and tomorrow.  As I say here (from minute 5), the territorial issue
+      separating the Russian and Ukrainian sides may well be resolved by the latest
+      proposal coming from Team Trump for, essentially, the whole Donbas to be purchased
+      and turned over to Russia in exchange for $800 billion investment funds raised
+      and distributed by the USA.  The person said to be nominated by Trump to be in
+      charge of this operation is Larry Fink, who happens to be both the CEO of Blackrock
+      and the acting co-Chairman of the World Economic Forum (Davos). The sticking point
+      at the moment lies elsewhere – in the ‘boots on the ground’ that Kiev wants to
+      ensure its security after the peace is concluded.  Clearly Zelensky wants NATO
+      Member State forces; equally clearly, the Russians exclude that possibility entirely.
+      Firstpost, by the way, shows 9.2 million subscribers. It is a communications giant
+      in India with numerous subsidiaries and broadcasting in many different languages.'
+    one_sentence_summary: US, Ukrainian, and Russian officials are meeting in Abu Dhabi
+      to discuss a potential peace deal for Ukraine, which includes a controversial
+      proposal for the US to invest $800 billion in exchange for the transfer of the
+      Donbas region to Russia, while the main concern remains Ukraine's security guarantees
+      post-agreement.
+    paragraph_summary: US, Ukrainian, and Russian officials are currently meeting in
+      Abu Dhabi to discuss a potential peace deal for Ukraine, with a significant proposal
+      suggesting that the entire Donbas region could be purchased by Russia for $800
+      billion in investment funds from the US. This proposal, reportedly linked to former
+      President Trump's team and potentially overseen by Larry Fink, CEO of Blackrock,
+      aims to resolve territorial disputes. However, a major point of contention remains
+      the security guarantees Ukraine seeks, specifically the presence of NATO forces,
+      which Russia firmly opposes. The discussions are being moderated by Firstpost,
+      a prominent Indian global broadcaster.
+    published: '2026-01-23T16:33:34+00:00'
+  - title: This morning’s interview with News X world in two segments
+    url: https://gilbertdoctorow.com/2026/01/23/this-mornings-interview-with-news-x-world-in-two-segments/
+    text: 'This morning’s interview with News X world in two segments NewsX World: United
+      States Signals withdrawal from World Health Organization This segment of my interview
+      starts at minute 4 and deals with the tripartite US-Ukrainian-Russian talks going
+      on today in Abu Dhabi.  I say here that the talks are at a strictly technical
+      level and are led for the Russians by an admiral who runs the administration of
+      their Joint Chiefs of Staff, to talk about security issues. However, this afternoon’s
+      update from the Russian news agency Vedomosti indicates that much more important
+      issues are now under discussion in Abu Dhabi centered on a proposal to provide
+      800 billion dollars in aid to Ukraine in exchange for Kiev’s dropping all claims
+      to the Donbas and to getting a peace keeping force from abroad to provide security
+      after the peace.  This is all very sketchy but is absolutely fascinating.  It
+      is not far from my proposal a year ago that the Russian frozen assets worth 300
+      billion be offered to Ukraine in exchange for their ceding territory to Russia. 
+      We all await further details on news of Zelensky’s reaction to the proposal. 
+      We also await Russia’s reaction to the notion of any foreign peace keepers being
+      allowed into Ukraine. NewsX World: French Navy Intercepts Tanker This segment
+      deals with news of the French capture of a Russian shadow fleet tanker in the
+      Mediterranean, which might be called piracy and is normally a casus belli, should
+      Russia wish to open a declaration of war on France.'
+    one_sentence_summary: In an interview with News X, it was revealed that U.S.-Ukrainian-Russian
+      talks in Abu Dhabi, initially focused on technical security issues, have evolved
+      to include a proposal for $800 billion in aid to Ukraine in exchange for relinquishing
+      claims to the Donbas and establishing an international peacekeeping force.
+    paragraph_summary: In a recent interview with News X World, discussions centered
+      on the ongoing US-Ukrainian-Russian talks in Abu Dhabi, which are reportedly evolving
+      from technical discussions to more significant negotiations. A Russian news agency
+      revealed that a proposal is on the table for $800 billion in aid to Ukraine in
+      exchange for Ukraine relinquishing claims to the Donbas region and allowing a
+      foreign peacekeeping force to ensure security post-agreement. This proposal echoes
+      a previous suggestion involving the use of $300 billion in frozen Russian assets
+      for territorial concessions. The interview also touched on the French Navy's interception
+      of a Russian tanker in the Mediterranean, an act that could be viewed as piracy
+      and might provoke a serious diplomatic response from Russia.
+    published: '2026-01-23T12:47:31+00:00'
+  - title: This morning’s interview with News X world in two segments
+    url: https://gilbertdoctorow.com/2026/01/23/this-mornings-interview-with-news-x-world-in-two-segments/
+    text: 'This morning’s interview with News X world in two segments NewsX World: United
+      States Signals withdrawal from World Health Organization This segment of my interview
+      starts at minute 4 and deals with the tripartite US-Ukrainian-Russian talks going
+      on today in Abu Dhabi.  I say here that the talks are at a strictly technical
+      level and are led for the Russians by an admiral who runs the administration of
+      their Joint Chiefs of Staff, to talk about security issues. However, this afternoon’s
+      update from the Russian news agency Vedomosti indicates that much more important
+      issues are now under discussion in Abu Dhabi centered on a proposal to provide
+      800 billion dollars in aid to Ukraine in exchange for Kiev’s dropping all claims
+      to the Donbas and to getting a peace keeping force from abroad to provide security
+      after the peace.  This is all very sketchy but is absolutely fascinating.  It
+      is not far from my proposal a year ago that the Russian frozen assets worth 300
+      billion be offered to Ukraine in exchange for their ceding territory to Russia. 
+      We all await further details on news of Zelensky’s reaction to the proposal. 
+      We also await Russia’s reaction to the notion of any foreign peace keepers being
+      allowed into Ukraine. NewsX World: French Navy Intercepts Tanker This segment
+      deals with news of the French capture of a Russian shadow fleet tanker in the
+      Mediterranean, which might be called piracy and is normally a casus belli, should
+      Russia wish to open a declaration of war on France.'
+    one_sentence_summary: In an interview with News X, it was revealed that U.S.-Ukrainian-Russian
+      talks in Abu Dhabi, initially focused on technical security issues, have evolved
+      to include a proposal for $800 billion in aid to Ukraine in exchange for relinquishing
+      claims to the Donbas and establishing an international peacekeeping force.
+    paragraph_summary: In a recent interview with News X World, discussions centered
+      on the ongoing US-Ukrainian-Russian talks in Abu Dhabi, which are reportedly evolving
+      from technical discussions to more significant negotiations. A Russian news agency
+      revealed that a proposal is on the table for $800 billion in aid to Ukraine in
+      exchange for Ukraine relinquishing claims to the Donbas region and allowing a
+      foreign peacekeeping force to ensure security post-agreement. This proposal echoes
+      a previous suggestion involving the use of $300 billion in frozen Russian assets
+      for territorial concessions. The interview also touched on the French Navy's interception
+      of a Russian tanker in the Mediterranean, an act that could be viewed as piracy
+      and might provoke a serious diplomatic response from Russia.
+    published: '2026-01-23T12:47:31+00:00'
+  - title: Trump Board Of Peace Divides World | Bid To Counter UN Failing?
+    url: https://gilbertdoctorow.com/2026/01/23/trump-board-of-peace-divides-world-bid-to-counter-un-failing/
+    text: '“Today’s Big Debate” on News X Live, 22 January “The Big Debate” was aired
+      live at prime time in India (9pm) yesterday. However, there was a wide time differential
+      with the cities where each of the three panelists from abroad weas based:  4.30
+      pm in Brussels, 11.30 pm in Hong Kong and 10.30 am in Washington, D.C. We have
+      Zoom to thank for the way we were brought together seamlessly with the studios
+      in India and with the Indian panelist. I have identified the first of my fellow
+      panelists, whose contribution was likely the most consequential: Raymond Vickery,
+      former United States Assistant Secretary of Commerce for Trade Development who
+      is a senior associate with the Chair in US-India Policy Studies at the Center
+      for Strategic & International Studies, Washington, DC. Accordingly, Vickery is
+      a person well-known to Indian elites. He has a law degree from Harvard. And he
+      is an upstanding member of the Cold Warrior contingent in the U.S. foreign policy
+      establishment, as becomes crystal clear from his remarks here. It was entirely
+      in character for him to deplore Trump’s Board of Peace initiative for being “top
+      down”, as if any of the global steering committees like the G-7 or the G-20 are
+      “bottom up” – which would be against the laws of nature. It was also in character
+      that he deplored the invitation onto the Board of non-democratic, authoritarian
+      states like Russia. The second panelist, based in Hong Kong, was singing from
+      the same choral hymn book. This was Andrew Leung Kwan-yuen, a prominent Hong Kong
+      politician and businessman who from 2016 until his retirement in 2025 was the
+      President of the Legislative Council of Hong Kong. The fourth panelist, Sumit
+      Peer in India, was more welcoming to the Trump initiative and saw the refusal
+      of China to join as giving the Indians a strong reason to sign up and take active
+      part. His LinkedIn entry tells us that he is a renowned Geo-Political Commentator
+      , visionary Columnist, Business Advisor, and a concerned citizen with a mission
+      of contributing towards nation building. I thoroughly enjoyed the opportunity
+      to explain why no one knows what the dynamics inside the Board of Peace and its
+      subordinate Executive Board will be, so it is gratuitous and senseless to condemn
+      or approve the Board at this point. I also expect Moscow to sign on because to
+      refuse to join now would be an insult to Trump, with whom they wish to stay in
+      good relations.'
+    one_sentence_summary: The article discusses a live debate on News X featuring international
+      panelists, highlighting Raymond Vickery's significant role as a former U.S. Assistant
+      Secretary of Commerce and his connections to Indian elites, facilitated by Zoom
+      technology despite time zone differences.
+    paragraph_summary: On January 22, "The Big Debate" aired live on News X in India,
+      featuring a diverse panel of experts discussing international relations, particularly
+      in the context of U.S. foreign policy. The panel included Raymond Vickery, a former
+      U.S. Assistant Secretary of Commerce, who criticized Trump's Board of Peace initiative
+      for its top-down approach and the inclusion of authoritarian states like Russia.
+      Andrew Leung, a former President of Hong Kong's Legislative Council, echoed Vickery's
+      sentiments, while Indian panelist Sumit Peer offered a contrasting view, supporting
+      the initiative and suggesting that China's refusal to participate provided India
+      with a compelling reason to engage. The debate highlighted differing perspectives
+      on global governance and the implications of U.S. policies on international relations.
+    published: '2026-01-23T07:00:32+00:00'
+  - title: Trump Board Of Peace Divides World | Bid To Counter UN Failing?
+    url: https://gilbertdoctorow.com/2026/01/23/trump-board-of-peace-divides-world-bid-to-counter-un-failing/
+    text: '“Today’s Big Debate” on News X Live, 22 January “The Big Debate” was aired
+      live at prime time in India (9pm) yesterday. However, there was a wide time differential
+      with the cities where each of the three panelists from abroad weas based:  4.30
+      pm in Brussels, 11.30 pm in Hong Kong and 10.30 am in Washington, D.C. We have
+      Zoom to thank for the way we were brought together seamlessly with the studios
+      in India and with the Indian panelist. I have identified the first of my fellow
+      panelists, whose contribution was likely the most consequential: Raymond Vickery,
+      former United States Assistant Secretary of Commerce for Trade Development who
+      is a senior associate with the Chair in US-India Policy Studies at the Center
+      for Strategic & International Studies, Washington, DC. Accordingly, Vickery is
+      a person well-known to Indian elites. He has a law degree from Harvard. And he
+      is an upstanding member of the Cold Warrior contingent in the U.S. foreign policy
+      establishment, as becomes crystal clear from his remarks here. It was entirely
+      in character for him to deplore Trump’s Board of Peace initiative for being “top
+      down”, as if any of the global steering committees like the G-7 or the G-20 are
+      “bottom up” – which would be against the laws of nature. It was also in character
+      that he deplored the invitation onto the Board of non-democratic, authoritarian
+      states like Russia. The second panelist, based in Hong Kong, was singing from
+      the same choral hymn book. This was Andrew Leung Kwan-yuen, a prominent Hong Kong
+      politician and businessman who from 2016 until his retirement in 2025 was the
+      President of the Legislative Council of Hong Kong. The fourth panelist, Sumit
+      Peer in India, was more welcoming to the Trump initiative and saw the refusal
+      of China to join as giving the Indians a strong reason to sign up and take active
+      part. His LinkedIn entry tells us that he is a renowned Geo-Political Commentator
+      , visionary Columnist, Business Advisor, and a concerned citizen with a mission
+      of contributing towards nation building. I thoroughly enjoyed the opportunity
+      to explain why no one knows what the dynamics inside the Board of Peace and its
+      subordinate Executive Board will be, so it is gratuitous and senseless to condemn
+      or approve the Board at this point. I also expect Moscow to sign on because to
+      refuse to join now would be an insult to Trump, with whom they wish to stay in
+      good relations.'
+    one_sentence_summary: The article discusses a live debate on News X featuring international
+      panelists, highlighting Raymond Vickery's significant role as a former U.S. Assistant
+      Secretary of Commerce and his connections to Indian elites, facilitated by Zoom
+      technology despite time zone differences.
+    paragraph_summary: On January 22, "The Big Debate" aired live on News X in India,
+      featuring a diverse panel of experts discussing international relations, particularly
+      in the context of U.S. foreign policy. The panel included Raymond Vickery, a former
+      U.S. Assistant Secretary of Commerce, who criticized Trump's Board of Peace initiative
+      for its top-down approach and the inclusion of authoritarian states like Russia.
+      Andrew Leung, a former President of Hong Kong's Legislative Council, echoed Vickery's
+      sentiments, while Indian panelist Sumit Peer offered a contrasting view, supporting
+      the initiative and suggesting that China's refusal to participate provided India
+      with a compelling reason to engage. The debate highlighted differing perspectives
+      on global governance and the implications of U.S. policies on international relations.
+    published: '2026-01-23T07:00:32+00:00'
+  - title: '‘Judging Freedom’ edition of 21 January 2026: Trump through Russian eyes'
+    url: https://gilbertdoctorow.com/2026/01/21/judging-freedom-edition-of-21-january-2026-trump-through-russian-eyes/
+    text: '‘Judging Freedom’ edition of 21 January 2026: Trump through Russian eyes
+      The Russian views that Judge Napolitano solicited were firstly those of Putin,
+      his direct spokesman Peskov and his Minister of Foreign Affairs Lavrov with respect
+      to Trump’s ambition to take over Greenland and with respect to the evident CIA
+      attempt to assassinate Putin by means of the drone attack on his countryside residence.
+      My response on the first issue was that Putin and his direct assistants are being
+      very cautious: they note that Trump is not respecting international law and this
+      displeases them but otherwise they do not criticize Trump directly. Meanwhile,
+      the chattering classes, the Russian elites, meaning Duma members, top commentators
+      on international affairs who appear on the most authoritative talk shows like
+      Evening with Vladimir Solovyov , show no such restraint: they are approving Trump’s
+      using the Greenland acquisition to destroy NATO from within. They are enjoying
+      Trump’s personal attacks on Keir Starmer for his ‘stupid’ hand-over of Diego Garcia
+      to Mauritius in exchange for a lease agreement, his attacks on Emmanuel Macron’s
+      decision not to join Trump’s Peace Board on Gaza, saying, no matter, Macron will
+      be out of office in a few months. As regards the drone attack, Putin and his circle
+      clearly do not believe that Trump was in any way involved, saying instead that
+      it was the CIA acting on its own, just as the CIA had murdered John F. Kennedy
+      on its own.  They understand that Trump cannot control fully his government and
+      they wish him well in his war on the Deep State while cautiously hedging their
+      bets and pursuing the war in Ukraine at their own pace, confident in full victory.
+      I state openly here that while one of Judge Napolitano’s guests yesterday said
+      Trump should be taken away in a straight jacket, I hold an entirely different
+      view.  Trump seeks normal relations with Russia within a broader context of his
+      Realist concept of the future world order, in which three Great Powers, Russia,
+      China and the USA have each their own sphere of influence based on regional hegemony.
+      This concept entailing ‘balance of power’ he received from his mentor at the start
+      of his first term in office, Henry Kissinger. I used the interview to explain
+      what relevance the cession of Diego Garcia to Mauritius by Britain has to the
+      pending issue of who owns Greenland.  The conversion of this powerful base to
+      a lease may be compared to the proposal that the USA lease Greenland rather than
+      take possession of it as owner. From his background in real estate, Trump is acutely
+      aware of the weak sides of leasing.  If he thought for a moment he could point
+      out that Russia had taken a 40-year lease from Ukraine on its strategically important
+      base in Sevastopol, but following the coup d’etat of February 2014, it was widely
+      expected that the lease would be revoked.   One could add another example of weakness
+      of leases:  in Seychelles, the USA had a major observation base atop the hill
+      overlooking the Seychelles capital of Victoria. The local government decided to
+      raise the annual rent multiple times and finally Washington was obliged to give
+      up this base. The property is now owned by the United Arab Emirates who have built
+      a palace there they use for discreet diplomatic negotiations with…the Russians
+      among others.'
+    one_sentence_summary: The article discusses Russian perspectives on Donald Trump's
+      ambitions, particularly his interest in Greenland and the alleged CIA drone attack
+      on Putin, highlighting cautious official responses from Putin and his aides contrasted
+      with enthusiastic approval from Russian elites who see Trump's actions as a means
+      to undermine NATO.
+    paragraph_summary: In the "Judging Freedom" edition from January 21, 2026, Judge
+      Napolitano explores Russian perspectives on Donald Trump, particularly through
+      the views of Vladimir Putin, his spokesman Dmitry Peskov, and Foreign Minister
+      Sergey Lavrov. They express caution regarding Trump's disregard for international
+      law, especially concerning his ambitions related to Greenland, but refrain from
+      direct criticism. Meanwhile, Russian elites openly support Trump's actions, seeing
+      them as a means to undermine NATO and enjoying his confrontations with Western
+      leaders. Regarding a recent drone attack on Putin, the Russian leadership dismisses
+      any connection to Trump, attributing it solely to the CIA, which they believe
+      operates independently. Overall, they perceive Trump as a figure who, despite
+      his chaotic governance, could foster a new world order aligned with their interests,
+      particularly as they continue their military objectives in Ukraine.
+    published: '2026-01-21T14:47:58+00:00'
+  - title: '‘Judging Freedom’ edition of 21 January 2026: Trump through Russian eyes'
+    url: https://gilbertdoctorow.com/2026/01/21/judging-freedom-edition-of-21-january-2026-trump-through-russian-eyes/
+    text: '‘Judging Freedom’ edition of 21 January 2026: Trump through Russian eyes
+      The Russian views that Judge Napolitano solicited were firstly those of Putin,
+      his direct spokesman Peskov and his Minister of Foreign Affairs Lavrov with respect
+      to Trump’s ambition to take over Greenland and with respect to the evident CIA
+      attempt to assassinate Putin by means of the drone attack on his countryside residence.
+      My response on the first issue was that Putin and his direct assistants are being
+      very cautious: they note that Trump is not respecting international law and this
+      displeases them but otherwise they do not criticize Trump directly. Meanwhile,
+      the chattering classes, the Russian elites, meaning Duma members, top commentators
+      on international affairs who appear on the most authoritative talk shows like
+      Evening with Vladimir Solovyov , show no such restraint: they are approving Trump’s
+      using the Greenland acquisition to destroy NATO from within. They are enjoying
+      Trump’s personal attacks on Keir Starmer for his ‘stupid’ hand-over of Diego Garcia
+      to Mauritius in exchange for a lease agreement, his attacks on Emmanuel Macron’s
+      decision not to join Trump’s Peace Board on Gaza, saying, no matter, Macron will
+      be out of office in a few months. As regards the drone attack, Putin and his circle
+      clearly do not believe that Trump was in any way involved, saying instead that
+      it was the CIA acting on its own, just as the CIA had murdered John F. Kennedy
+      on its own.  They understand that Trump cannot control fully his government and
+      they wish him well in his war on the Deep State while cautiously hedging their
+      bets and pursuing the war in Ukraine at their own pace, confident in full victory.
+      I state openly here that while one of Judge Napolitano’s guests yesterday said
+      Trump should be taken away in a straight jacket, I hold an entirely different
+      view.  Trump seeks normal relations with Russia within a broader context of his
+      Realist concept of the future world order, in which three Great Powers, Russia,
+      China and the USA have each their own sphere of influence based on regional hegemony.
+      This concept entailing ‘balance of power’ he received from his mentor at the start
+      of his first term in office, Henry Kissinger. I used the interview to explain
+      what relevance the cession of Diego Garcia to Mauritius by Britain has to the
+      pending issue of who owns Greenland.  The conversion of this powerful base to
+      a lease may be compared to the proposal that the USA lease Greenland rather than
+      take possession of it as owner. From his background in real estate, Trump is acutely
+      aware of the weak sides of leasing.  If he thought for a moment he could point
+      out that Russia had taken a 40-year lease from Ukraine on its strategically important
+      base in Sevastopol, but following the coup d’etat of February 2014, it was widely
+      expected that the lease would be revoked.   One could add another example of weakness
+      of leases:  in Seychelles, the USA had a major observation base atop the hill
+      overlooking the Seychelles capital of Victoria. The local government decided to
+      raise the annual rent multiple times and finally Washington was obliged to give
+      up this base. The property is now owned by the United Arab Emirates who have built
+      a palace there they use for discreet diplomatic negotiations with…the Russians
+      among others.'
+    one_sentence_summary: The article discusses Russian perspectives on Donald Trump's
+      ambitions, particularly his interest in Greenland and the alleged CIA drone attack
+      on Putin, highlighting cautious official responses from Putin and his aides contrasted
+      with enthusiastic approval from Russian elites who see Trump's actions as a means
+      to undermine NATO.
+    paragraph_summary: In the "Judging Freedom" edition from January 21, 2026, Judge
+      Napolitano explores Russian perspectives on Donald Trump, particularly through
+      the views of Vladimir Putin, his spokesman Dmitry Peskov, and Foreign Minister
+      Sergey Lavrov. They express caution regarding Trump's disregard for international
+      law, especially concerning his ambitions related to Greenland, but refrain from
+      direct criticism. Meanwhile, Russian elites openly support Trump's actions, seeing
+      them as a means to undermine NATO and enjoying his confrontations with Western
+      leaders. Regarding a recent drone attack on Putin, the Russian leadership dismisses
+      any connection to Trump, attributing it solely to the CIA, which they believe
+      operates independently. Overall, they perceive Trump as a figure who, despite
+      his chaotic governance, could foster a new world order aligned with their interests,
+      particularly as they continue their military objectives in Ukraine.
+    published: '2026-01-21T14:47:58+00:00'
+  - title: '‘Spotlight’ on Press TV (Iran): panel discussion of Trump’s takeover of
+      Greenland'
+    url: https://gilbertdoctorow.com/2026/01/21/spotlight-on-press-tv-iran-panel-discussion-of-trumps-takeover-of-greenland/
+    text: '‘Spotlight’ on Press TV (Iran): panel discussion of Trump’s takeover of Greenland
+      https://www.presstv.ir/Detail/2026/01/20/762645/Trump-fighting-allies-on-Greenland
+      Yesterday evening’s discussion opened with a brief report from Press TV’s Brussels
+      correspondent Jerome Hughes on the overall reaction in the European Institutions
+      to Trump’s threat to impose new tariffs on those countries that have resisted
+      his plans for Greenland.  My fellow panelist was Paolo Raffone, founder and director
+      of the Italian Center for International Perspectives (CIPI), a research and consultancy
+      nonprofit corporation on European and global economic and strategic scenarios
+      based in Brussels. As usual the Spotlight show was moderated by Marzieh Hashemi.
+      I do not wish to be unkind, but my very well credentialed fellow panelist appears
+      to be clueless over the sense of what Trump is doing over Greenland and also over
+      the sense of globalism versus Realpolitik. I am pleased that I was given every
+      opportunity to set out my argument that the principal if not only reason for Trump’s
+      pursuit of Greenland is to use the annexation as a tool to wreck NATO from within
+      and, still , to break up the European Union or at least see 25 of the 27 prime
+      ministers of the European Member States sent off to early retirement. Trump’s
+      open declaration of a Might Makes Right foreign policy leaves the Europeans flabbergasted
+      and humiliated, which is precisely what Trump intends. I note with interest how
+      the Russian chattering classes as represented on Vladimir Solovyov’s evening talk
+      show appear to appreciate Trump’s moves on Greenland as I do.  To any EU censors
+      reading these lines, please do pay attention:  the Kremlin appears to be picking
+      up my line of interpretation, not vice versa.'
+    one_sentence_summary: The article discusses a panel discussion on Press TV regarding
+      Trump's controversial plans for Greenland, highlighting differing perspectives
+      on his approach and the reactions from European institutions.
+    paragraph_summary: In a recent panel discussion on Press TV, moderated by Marzieh
+      Hashemi, the focus was on President Trump's controversial plans regarding Greenland
+      and the implications for NATO and the European Union. The discussion featured
+      Jerome Hughes reporting from Brussels and Paolo Raffone, who seemed to lack understanding
+      of Trump's motivations. The speaker argued that Trump's pursuit of Greenland is
+      primarily aimed at undermining NATO and destabilizing the EU, suggesting that
+      his "Might Makes Right" foreign policy leaves European leaders feeling humiliated.
+      The speaker noted that Russian commentators appear to align with this interpretation
+      of Trump's actions, indicating a shared perspective on the geopolitical ramifications
+      of his approach.
+    published: '2026-01-21T06:45:41+00:00'
+  - title: '‘Spotlight’ on Press TV (Iran): panel discussion of Trump’s takeover of
+      Greenland'
+    url: https://gilbertdoctorow.com/2026/01/21/spotlight-on-press-tv-iran-panel-discussion-of-trumps-takeover-of-greenland/
+    text: '‘Spotlight’ on Press TV (Iran): panel discussion of Trump’s takeover of Greenland
+      https://www.presstv.ir/Detail/2026/01/20/762645/Trump-fighting-allies-on-Greenland
+      Yesterday evening’s discussion opened with a brief report from Press TV’s Brussels
+      correspondent Jerome Hughes on the overall reaction in the European Institutions
+      to Trump’s threat to impose new tariffs on those countries that have resisted
+      his plans for Greenland.  My fellow panelist was Paolo Raffone, founder and director
+      of the Italian Center for International Perspectives (CIPI), a research and consultancy
+      nonprofit corporation on European and global economic and strategic scenarios
+      based in Brussels. As usual the Spotlight show was moderated by Marzieh Hashemi.
+      I do not wish to be unkind, but my very well credentialed fellow panelist appears
+      to be clueless over the sense of what Trump is doing over Greenland and also over
+      the sense of globalism versus Realpolitik. I am pleased that I was given every
+      opportunity to set out my argument that the principal if not only reason for Trump’s
+      pursuit of Greenland is to use the annexation as a tool to wreck NATO from within
+      and, still , to break up the European Union or at least see 25 of the 27 prime
+      ministers of the European Member States sent off to early retirement. Trump’s
+      open declaration of a Might Makes Right foreign policy leaves the Europeans flabbergasted
+      and humiliated, which is precisely what Trump intends. I note with interest how
+      the Russian chattering classes as represented on Vladimir Solovyov’s evening talk
+      show appear to appreciate Trump’s moves on Greenland as I do.  To any EU censors
+      reading these lines, please do pay attention:  the Kremlin appears to be picking
+      up my line of interpretation, not vice versa.'
+    one_sentence_summary: The article discusses a panel discussion on Press TV regarding
+      Trump's controversial plans for Greenland, highlighting differing perspectives
+      on his approach and the reactions from European institutions.
+    paragraph_summary: In a recent panel discussion on Press TV, moderated by Marzieh
+      Hashemi, the focus was on President Trump's controversial plans regarding Greenland
+      and the implications for NATO and the European Union. The discussion featured
+      Jerome Hughes reporting from Brussels and Paolo Raffone, who seemed to lack understanding
+      of Trump's motivations. The speaker argued that Trump's pursuit of Greenland is
+      primarily aimed at undermining NATO and destabilizing the EU, suggesting that
+      his "Might Makes Right" foreign policy leaves European leaders feeling humiliated.
+      The speaker noted that Russian commentators appear to align with this interpretation
+      of Trump's actions, indicating a shared perspective on the geopolitical ramifications
+      of his approach.
+    published: '2026-01-21T06:45:41+00:00'
   - title: Interviews with NewsX World (India) today
     url: https://gilbertdoctorow.com/2026/01/20/interviews-with-newsx-world-india-today/
     text: In my last item posted here, I mentioned the delay that sometimes comes in

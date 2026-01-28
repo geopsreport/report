@@ -8,22 +8,1136 @@ websites:
   - https://michael-hudson.com/
   - https://geopoliticaleconomy.com/author/michael-hudson/
 summary: |
-  As the global order continues to shift in early 2026, the United States’ use of economic and energy leverage remains central to its geopolitical strategy. Recent independent analyses highlight several key developments shaping the international landscape.
+  The global geopolitical landscape continues to be shaped by the United States’ evolving national security strategy and its persistent use of economic leverage, particularly in the energy sector. As **Michael Hudson** and other analysts emphasize, these developments are not isolated to the actions of individual leaders but reflect deeper systemic shifts in the post-World War II order.
   
-  **Weaponization of Energy and Economic Policy**  
-  According to **Michael Hudson**, the U.S. has intensified its strategy of weaponizing the global oil trade to maintain its unipolar dominance. This approach targets states such as Iran, Iraq, Libya, Russia, Syria, and Venezuela, aiming to prevent these nations from utilizing their own energy resources for independent development. Hudson argues that this is not a new phenomenon but a continuation of longstanding policy, now sharpened by the U.S. response to multipolar challenges. The majority view across sources is that this energy weaponization is likely to persist, with Hudson stating there is a "high chance" it will escalate as the U.S. seeks to counter rivals and enforce its diplomatic objectives.
+  The most recent discussions, notably highlighted by **Nima Alkhorchid** in a January 21st panel, focus on former President Donald Trump’s provocative statements regarding Venezuela’s oil and land. These remarks are interpreted as signaling renewed U.S. interest in direct intervention, aligning with the broader pattern of Washington’s use of energy resources as instruments of geopolitical coercion. **Hudson** asserts that the U.S. has a long-standing strategy of weaponizing the global oil trade to maintain its dominance and to prevent countries like Venezuela, Iran, and Russia from leveraging their own resources for independent development.
   
-  **Deindustrialization and Strategic Realignment**  
-  In a recent discussion with Glenn Diesen, **Hudson** emphasizes that the rapid changes in U.S. national security strategy—and the unraveling of the post-World War II economic order—are structural rather than the result of any single administration. The consensus is that deindustrialization in the West, particularly in Europe, is accelerating due to alignment with U.S. foreign policy and the fallout from sanctions and trade wars. This trend is seen as a "larger phenomenon," suggesting that even a change in U.S. leadership is unlikely to reverse course.
+  Meanwhile, the economic fallout in Europe remains a critical concern. The continent’s alignment with U.S. foreign policy, particularly through sanctions and the freezing of Russian assets, has deepened internal economic strains. **Hudson** and his co-panelists argue that Europe faces mounting pressure to reconsider its strategic orientation or risk further fragmentation and decline.
   
-  **European Economic Strain and Calls for Rethinking Strategy**  
-  The fallout from freezing Russian assets and ongoing sanctions has placed significant strain on European economies. **Hudson** and other analysts argue that Europe faces mounting challenges as it continues to align with U.S. policy, risking further fragmentation unless it fundamentally rethinks its geopolitical strategy. There is "high confidence" among analysts that, without such a shift, Europe’s economic woes will deepen.
-  
-  **Trends and Predictions**  
-  Looking ahead, the majority of independent analysts predict that the U.S. will most definitely continue to use economic and energy tools as instruments of coercion, particularly as competition with China and Russia intensifies. European economies are quite likely to experience further stress unless they pursue greater strategic autonomy. The structural nature of these shifts suggests that the current trajectory—marked by deindustrialization in the West and the weaponization of economic policy—will persist regardless of political changes in Washington.
-  
-  In summary, the global system is entering a period of heightened economic and geopolitical contestation, with energy and economic leverage at the forefront of U.S. strategy and increasing pressure on European allies to adapt or face further decline.
+  Looking ahead, the majority view among analysts is that these trends—U.S. reliance on economic and military coercion, and Europe’s struggle with the consequences—are likely to intensify. There is a high chance, bordering on certainty, that the U.S. will continue to escalate its use of economic tools, especially in the energy sector, to enforce its global objectives. At the same time, Europe’s economic challenges are expected to persist unless there is a fundamental rethinking of its geopolitical alliances. As **Hudson** concludes, these are not temporary disruptions but signs of a deeper transformation in the global order, with the confidence that “the disintegration of the old system is most definitely underway.”
 articles:
+  - title: The Return of Gunboat Economics
+    url: https://michael-hudson.com/2026/01/the-return-of-gunboat-economics/
+    text: '⁣NIMA ALKHORSHID: Hi, everybody. Today is Thursday, December 18, 2025, and
+      our dear friends, Michael Hudson and Richard Wolff, are here with us. Michael
+      from New York, and Richard is in Paris, in France. Welcome back. ⁣RICHARD WOLFF:
+      Thank you. Glad to be here. ⁣MICHAEL HUDSON: (Laughing) Literally. To be there
+      [in Paris]. ⁣NIMA ALKHORSHID: Please subscribe and hit the like button. You can
+      follow Michael on his website, michael-hudson.com, and Richard on his YouTube
+      channel, Democracy at Work, or on his website, democracyatwork.info. Let me start,
+      Michael, with you and the situation with Venezuela. You know, yesterday we’ve
+      learned from Tucker Carlson that Donald Trump wants to declare war on Venezuela.
+      And Donald Trump himself, he said something so strange when he’s talking about
+      oil and the land of Venezuela. The way that he’s talking about those properties,
+      [the] Venezuelan properties, it seems that they belong to the United States. Here
+      is what Donald Trump said. ⁣DONALD TRUMP (CLIP): They took it away because we
+      had a president that maybe wasn’t watching. But they’re not going to do that.
+      We want it back. They took our oil rights. We had a lot of oil there. As you know,
+      they threw our companies out and we want it back. ⁣NIMA ALKHORSHID: Michael, looking
+      at what Donald Trump said last night, do you think that he’s getting more hawkish
+      toward Venezuela, or he’s chickening out? ⁣MICHAEL HUDSON: Well, he’s certainly
+      more hawkish. And yesterday, I had expected that our talk this morning was going
+      to be all about Trump declares war on Venezuela, because yesterday, Tucker Carlson
+      came out with an announcement that was picked up all over the internet, Yahoo!,
+      saying, here’s what I know so far, which is that members of Congress were briefed
+      yesterday that a war is coming and it’ll be announced in the address to the nation
+      tonight at nine o’clock by the President. Well, naturally, I thought, okay, we’re
+      going to talk about war. And I listened, and it was such a boring speech. Trump
+      didn’t know what to say, talking about nothing except that America’s inflation
+      was going down, life has never been better for the American working class, and
+      it’s going to get much better. He has his own health care, you won’t have insurance
+      companies anymore, [it will be] everybody for himself negotiating. So evidently,
+      the Navy must have talked to him and said, “Look, Russia and China have provided
+      Venezuela with arms to shoot down ships,” and we’ve done the war game. And if
+      you really go to war with Venezuela by saying you’re going to bomb them… Trump
+      didn’t say he’s going to invade. He said we’re going to destroy them on land.
+      In other words, missiles. Well, obviously, Venezuela is prepared with the Russian
+      and Chinese defenses and its own defenses to blow up the ships. And the army,
+      obviously, talked him out of it. And that’s why he sort of floundered for his
+      25-minute speech. Well, here’s the problem. Trump is trying to blame the foreigners,
+      as you just said, he accused Venezuela of stealing their oil and he wants to put
+      things back the way they were. The way they were was under dictators throughout
+      Latin America, like Pérez Jiménez in Venezuela, and the way they were in Cuba
+      before Castro with Batista and the government there. The way they were was these
+      countries were totally in American control, which Trump likes to call the American
+      sphere of influence. And that’s what the National Security Strategy did. We control
+      the oil. So Trump has said that these ships were going to block any of this shadow
+      fleet that has been selling $8 billion a year of Venezuela’s oil exports. We’re
+      going to prevent them from trading, just as we’re preventing Russia from trading
+      its oil by blocking its tankers. Trump has already, on November 29th, seized one
+      Venezuela tanker and brought it to American controlled shores and said, you know,
+      we confiscated the oil and took it for ourselves. We’re taking our oil. Anything
+      that Venezuela has belongs to me, despite the fact that the oil companies all
+      [negotiated agreements with Venezuela] based on what they had done with Saudi
+      Arabia. Yes, nationalize the oil, all we want is to be able to produce the oil
+      and market it and get all of the benefits. Well, the reason that Venezuela had
+      nationalized this is that they’d been exploited under the dictatorship and one-way
+      laws. Venezuela’s foreign oil was being depleted and the oil industry has a depletion
+      allowance in the United States. The oil that they deplete in Venezuela or any
+      other country, their branches, is a tax credit against the American income tax.
+      The countries themselves don’t get any benefit from their oil being depleted.
+      And all of this depletion allowance is counted as a cost of production, reducing
+      their profits. And so Venezuela saw that the American oil companies simply don’t
+      report any profits to pay their income tax on. They sell Venezuela’s oil to the
+      refineries offshore, mainly in Trinidad, at a very low price. And Trinidad, through
+      a Panamanian company, then controlled by the oil companies like Standard Oil,
+      will sell this oil that it buys from Venezuela at a low price at a huge markup
+      to the Panamanian company that sells it to the United States at a higher price.
+      All of this is tax avoidance. And this is why other countries don’t want American
+      oil firms to come because they don’t get any money from it. It’s a one-[way] deal.
+      And Trump says: if you don’t let us steal your oil, you’re stealing our property
+      because we have the right to steal your oil because that’s our sphere of influence.
+      And we can do what [we] want. And he’s willing, apparently, to go to war. He’s
+      very bellicose, and he thought that that would make him popular. But apparently,
+      the Republicans did polls and they found out that Americans really don’t want
+      to go to war in Venezuela any more than they want to keep going to war in Ukraine.
+      So Trump’s trying to do two things. He’s trying to assert total U.S. control of
+      the world’s oil trade, not only to isolate other oil countries like Russia, Iran,
+      and Venezuela, but also he’s trying to prevent the rest of the world from pursuing
+      alternatives to oil like green energy through wind power and solar power, because
+      that’s where China has an advantage. And he not only wants to grab Venezuela’s
+      oil, he’s just grabbed Russia’s Lukoil company and said that any Russian oil distributor
+      or oil company in Europe that has more than 50% ownership, we get to grab because
+      Russia’s the bad guy. This is economic war. According to the law of the sea, blocking
+      oil trade from Venezuela and Iran and China—China gets about 4% of its oil from
+      Venezuela—is legally defined as an act of war. And an act of war actually becomes
+      military war at a point. That’s where we are right now. ⁣RICHARD WOLFF: I would
+      like to add to what Michael has said by noticing a parallel. If you look at that
+      national security document that was released on December 4th, and you read the
+      rewrite of history that is in that document, you will learn that at the end of
+      World War II, the correct history is not what we have all thought it was: the
+      end of all the European empires and their being replaced by the United States,
+      the end of the British pound as the global currency, replaced by the U.S. dollar,
+      the development of 700 military bases all around Russia and then around China
+      to contain communism. None of that is really what was going on. What you get in
+      that statement, and obviously this is the thinking of Mr. Trump, but also of the
+      whole entourage around him, is a completely different story. A story of the victimization
+      of the United States. Mr. Trump repeatedly goes around, and he’s done it in other
+      forums as well, explaining how the British and the Canadians and the Mexicans
+      and the Europeans have been ripping us off, treating us badly, behaving inappropriately,
+      and on and on. If you believe this, then the last 75 years would be a delegation
+      of the entire American political establishment, Republican and Democratic alike,
+      as moronic incompetents who are now being finally replaced by a smart guy, Mr.
+      Trump. And he is not going to let us be ripped off. So of course he has to rewrite
+      the history of each particular chapter in this rewrite of history. One chapter
+      is the deal Venezuela made years ago with the oil companies. I remember civil
+      service, or one of the companies, was a major company that they dealt with, through
+      which they sold here in the United States. And they paid a sum for that in the
+      same way that oil was nationalized in most of the countries in the world that
+      have oil. They took that step. Why? Because they wanted a bit of the action from
+      the oil business. Otherwise, it was simply monopolized by the seven large oil
+      companies that took it from them and then sold it at whatever price they could
+      get in the world market. Whether [it was] Saudi Arabia or Egypt, they all wanted
+      a piece of what was going on. And the West understood, especially after the war
+      in the Suez Canal, 1955, that they had to come to some sort of terms with that.
+      Iran had erupted, Egypt had erupted. They could not rely on the Israeli presence
+      to prevent these things. They made a deal. All that is forgotten. All that is
+      rewritten into a story to justify… The story to justify tariffs was this notion
+      that we’ve been abused for 75 years. And the reason I’m going through this is…
+      all of the people who cannot bring themselves to oppose the Trump government—and
+      that includes Wall Street Journal, New York Times, and all the rest of them—they
+      are going to take seriously sooner or later, if they haven’t already, this rewrite
+      of history. And it’s very important that everyone understand what make-believe
+      this all [is]. This is make-believe, but it is done so crudely, so suddenly, so
+      without the slightest shred of evidence that it’s possible for someone like you,
+      Nima, quite correctly to identify the interesting use of the adjective “our” oil.
+      This oil has magically become our oil, not Venezuelan oil or Latin American oil
+      or oil, period, but ours as if it was property of the United States. And then
+      he carries out his usual story that a stupid president, notice how he said it,
+      sometime back then, allowed this theft to happen. ⁣MICHAEL HUDSON: I’m glad you
+      talked about the rewriting of history after World War II, because that’s the key
+      not only to Trump, but to the national security. Trump is justifying all of this
+      move in Latin America, saying this is my new Monroe Doctrine. And what the sphere
+      of influence, the national security statement said is: that’s the Western Hemisphere.
+      But it’s not only the Western Hemisphere, it’s also Asia with all of the U.S.
+      military bases surrounding China and Russia. And what has happened is that there’s
+      a fictitious history. The United States essentially is going to monopolize control
+      of all of Latin America and the Caribbean for itself. Russia is going to get Central
+      Asia and the former Soviet republics, presumably, including what was formerly
+      the Ukraine. And China is going to get the mainland Asian neighbors. But this
+      is not really a division of regional spheres of influence at all, such as occurred
+      at the end of the World War II. In 1945 at Yalta, there really was a division
+      of spheres of influence. That was the meeting between Roosevelt and Churchill
+      and Stalin. But the United States is not only going to get Latin America and the
+      Caribbean, the agreement of the Monroe Doctrine was that America would stay out
+      of Eastern Hemisphere, Eurasian affairs. Well, that’s not at all what Trump intends.
+      He’s saying that Europe and Asia have to stay away from Latin America, that Russia
+      and Iran and China must not invest in Venezuela or even buy its oil for themselves.
+      It has to leave all of this to the United States. So that’s sort of a travesty
+      of the Monroe Doctrine because there’s no reciprocity. The U.S. diplomats are
+      maneuvering to control Eurasian affairs by ringing the whole region with military
+      bases and trying to engage in regime change and mobilizing other countries. And
+      one of the key tells of how absurd this is, is [that] in addition to the U.S.,
+      Russia, China and Latin America, the U.S. wants to add Japan to this group of
+      five that’s supposed to decide military and diplomatic and trade and financial
+      affairs for the whole rest of the world. And why it’s trying to shoehorn Japan
+      into this regional grouping [is] that it’ll have more of a chance of controlling
+      the group by getting Japan’s vote on its side. You remember a few years ago, the
+      United States wanted to add Japan to the UN National Security Council. And Russia
+      and other countries said, ha ha, you just want another automatic vote for the
+      U.S. in the Security Council. Japan doesn’t have an independent vote. Well, it’s
+      not supposed to have it here either. So while the national security statement
+      said, okay, China gets this, and Russia gets a sphere of influence over Asia,
+      you have the Quad. You have the U.S., India, Japan, and South Korea. This is not
+      part of the U.S. sphere of influence. Japan and South Korea are obviously on the
+      U.S. side against Asia. Not a word of that in the National Security Council. And
+      when Trump says “sphere of influence,” really there’s only one sphere of influence
+      in the world: the whole world is America’s sphere of influence. And you can see
+      where this is leading. After World War II ended, MacArthur used the Japanese gang,
+      criminal gangs, essentially to attack physically and break up the socialist groups
+      in Japan that were trying to work against Japanese militarism by creating labor-oriented
+      socialism. Well, the gangs and the U.S. and MacArthur ended up putting in power
+      the National Democratic Party, the NDP, the U.S. surrogate doing to Japan what
+      the British Labor Party’s done for the U.S. and Britain, and Macron does in France
+      for the United States. So Japan sort of sacrificed its future in the 80s by the
+      Plaza and the Louvre Accords that ended up bringing the lost decade of the 1990s
+      and after, that Japan’s been in ever since, because of its willingness to serve
+      the United States. That’s the model that the United States wants for Russia and
+      China and all other countries. And what he’s doing in Venezuela is pretty much
+      exactly what he’s doing against Russia—trying to block its oil and trying to block
+      it wherever it can, which is why I think the whole so-called agreements over Ukraine
+      are falling apart right now. Trump has a power grab and he’s looking forward to
+      militarizing it. And Hegseth seems to be all in favor of it, which may mean he’s
+      on the way out given his unpopularity. ⁣RICHARD WOLFF: I would also point out
+      that the Monroe Doctrine did not prevent Latin American countries from continuing—and
+      even in many cases, developing—trade and investment relationships with the Europeans.
+      Yes, there was a definition of a sphere of influence, but that definition is very
+      variable, very malleable, [it] can mean lots of different things. Mr. Trump is
+      trying—and the people around him—to make it mean much more than it ever did before.
+      So, this should be understood to be what? It is a ploy. It is a transparent ploy
+      to get more in the way of a regional domination than they had before, while continuing
+      to contest with China and Russia for Europe and Asia and all the rest of those
+      places. It is the apparent recognition—which I myself saw it as, and I said so
+      on our discussions here—I saw that December 4th document as remarkable because
+      in its obtuse way, it admitted the end of the empire. But I was over-hasty there.
+      What I didn’t understand, and I should have, and I see it more clearly now, is
+      that yes, it was an admission, but at the same time, it was the assertion that
+      there was a way out of that admission. There was a way around it. So, you had
+      to… this would be the way you would write a compromise: some people telling Mr.
+      Trump, look, you’ve got to take it easy. It’s like Michael’s assessment of what
+      the Navy may have told Trump last night before he did what he thought he could
+      do. Well, there are advisors that say we’ve got to take it, we can’t manage a
+      global empire. So, they get one part of the speech. But the other ones who say,
+      Yes, we can, they get their part of this speech. Venezuela is the latter group’s
+      part of the speech. War there is their group. Saying to the Chinese… who, by the
+      way, have built one of the largest, most expensive naval shipping ports in Latin
+      America, just recently opened in Peru, if I remember, for shipping half of Latin
+      America’s product to China. It’s what it’s all for. The port is close to China,
+      if you know how the ocean works there. So this is a contradiction. Like the performance
+      last night: We’re going to have a war; no, we’re not going to have a war; now
+      we’re going to leak a war; now we’re going to not leak a war. Yeah, there’s a
+      struggle going on, which is understandable. It’s part of the decline of an empire.
+      I noticed also that they have allocated $8 billion to Taiwan. It’s not just that
+      they did it. It’s not just that it’s more than they’ve ever given them before.
+      But look at the timing. You’re doing it at the same time that you’re threatening
+      war with Venezuela. This is not a country that has admitted its global empire
+      is not sustainable. This is a country who’s trying to sustain its global empire.
+      And I would also point out, which is extremely dangerous, which is why I know
+      there is little commentary about it. But the Chinese and the Russians, to the
+      extent that their navy is in any way involved around Venezuela–-which I understand
+      it is, although I don’t know, and as a pretty observant reader of the press, I
+      may have missed it–-but I suspect we’re not being told too much about what the
+      military support and the economic support Russia and China and possibly others
+      have offered Venezuela. But it does mean that we are once again, as we are in
+      Ukraine, in a war that is a kind of proxy violence between the Chinese and the
+      BRICS on one end and the United States—I was about to say with the G7, but there’s
+      not much left of the G7—on the other side. And this is a very dangerous thing.
+      Before World War I, and remember, World War I was fought by a collection of capitalist
+      colonialist powers, Britain, France, Germany, Russia, and a few others, who were
+      bitterly divided, fighting each other in the Middle East, in Africa, all over,
+      all over. And they had had a number of war scares. And then a minor matter, the
+      assassination, no one knew by whom, of an obscure member of the government in
+      Austria, Archduke Ferdinand, if I remember. So he gets assassinated somewhere
+      in the middle of Europe, and all the countries go to war. Well, they didn’t go
+      to war because they cared about this assassinated nobleman. I mean, nobody in
+      their right mind would imagine that. They went to war because they had had 20
+      years of continuous battle among these colonialist giants, each having carved
+      up a piece of the world. Remember the famous meeting in Berlin in 1884, where
+      literally all the leaders of Europe took out large markers and divided a map of
+      Africa, in particular. The Germans got their big chunks, and the Belgians got
+      the Congo, and Britain got most of the rest of it, and the Spanish some—and [it
+      was just] horrific. But we are now in a very similar series of proxy wars, near
+      wars, warlike incidents, you know, and the absurdity of the United States arming
+      an island, you know, a few miles off the shore of China is now being matched by
+      [China] giving help to Venezuela when the United States is, you know, menacing
+      it. We are, and I mean here the American people, are allowing this to unfold,
+      and it’s very clear who the aggressor is. It’s not China and the BRICS. Time has
+      shown itself to be on their side. They have grown despite every effort of the
+      United States and the West to stop it for at least 25 years now. One thing after
+      another. It doesn’t work. They have learned the lessons. They are self-sufficient
+      now in oil and energy. The amount they get from Venezuela, they can lose it tomorrow,
+      it will not matter. Their economic growth this year will again be about two and
+      a half to three times what the GDP growth is in the United States. I just read
+      a report yesterday that compares the cost of one kilowatt of energy inside China
+      to any producer there. It is one sixth, one sixth of the cost per kilowatt hour
+      of energy to a producer in the United States. Well, that’s why they don’t have
+      an inflation in China. The last few years, their rate of growth of prices is under
+      1%. We have an inflation, and we have a terrible problem with our energy prices.
+      Europe’s even worse. We’re not going to work our way out of this. The passage
+      of time works for them. So who’s going to upset the apple cart? Who’s going to
+      make the mistake as this situation worsens? Well, we have in one government, here,
+      the willingness to risk unspeakable war to play out this game. And here in Europe,
+      I read, as I had this morning, I read the leadership of France and Britain and
+      Germany as willing to risk a war with Russia as they ever have been, to save their
+      political careers, because the overwhelming mass of the people don’t want a war,
+      will not support a war, do not care enough about whatever they think is going
+      on in Ukraine to risk everything that they would have, which such a war would
+      produce. I mean, yes, there are a few who are literally unbalanced. The Baltic
+      republics and a couple of others who speak in crazy tones. You know, these are
+      people who have been in political wilderness for a long time and it shows. But
+      the more reasonable, the more balanced, they don’t want this. The Europeans at
+      the time before World War I, they didn’t want it either, but they worked their
+      way to it by allowing these incidents not to go challenged by a peace movement.
+      And by the way, after World War I was over, the capitalist system—which is what
+      went to war against itself in World War I—suffered the most amazing defeats imaginable.
+      First of all, they lost one whole country, Russia, which had a revolution right
+      in the middle of World War I and never rejoined the West, not even now. And they
+      gave power to the socialist and communist parties in their respective countries
+      that they have regretted ever since. And something like that happened after World
+      War II. So let me also caution those of you who might be gung-ho about where these
+      wars will lead. Setting aside the possibility of nuclear war, the other kinds
+      of wars have not been good for the capitalism that produces them. And this one,
+      if it happens, won’t be either. ⁣NIMA ALKHORSHID: Michael, from Venezuela to Russia’s
+      tankers, you know, is the United States quiet, let’s go worst case scenario. Is
+      the United States quietly expanding a global war? Because we’ve learned, as Richard
+      has mentioned, we’ve learned about the new package of weapons going to Taiwan,
+      $11.1 billion, the new package, the largest package so far to Taiwan. What is
+      your take on that? ⁣MICHAEL HUDSON: Well, Richard has just spelled out what the
+      national security statement means when it says that the U.S. empire is over and
+      we can’t try to run the world. It’ll be a division into regions. It means just
+      what he said, working through proxies in practice. In other words, we can’t afford
+      any more costs to go to war against Russia in Ukraine. That’s just a bottomless
+      sink of money, given the corruption and the fact that Ukraine’s lost so heavily.
+      But I think that Trump is fed up with Europe. You’ve seen all of his anti-European
+      statements. And so essentially, when he says giving up the empire, he’s talking
+      about Europe’s fight with Russia now. If Europe wants to fight with Russia, he
+      says, you know, let it be our proxy. We’ll do everything we can to help it. We’re
+      going to continue to give it the radar guidance and the military guidance of exactly
+      where to bomb Russia, but we’re not going to spend any money on it. We’re going
+      to have Europe take responsibility for the money. And fortunately, we have our
+      puppets there, Mertz, who wants to actually, who just said he wants to begin drafting
+      Germans again into the new Wehrmacht to fight Russia, as if there’s going to be
+      a land war. And Macron, who continues to send French mercenaries there, and of
+      course, Starmer in England. So this is using them as proxies. The United States
+      is disengaging from them, just as it’s trying in Asia to use Taiwan and Japan
+      and South Korea as its proxies, or in Latin America, right-wing governments like
+      Bolsonaro, who Trump tried to free from jail for his attempts to overthrow the
+      election. But there’s another thing that is required for this ending of the U.S.
+      control, and that’s something I think you’re getting towards. It means the collapse
+      of international law. It means the replacement of not only international law,
+      but all of the principles of the United Nations that were created seemingly legally
+      after World War II. It’s the law of the sea, for instance, that the sea belongs
+      to everyone and it’s not nationalized as part of the United States. Trump says
+      that other countries have stolen the Atlantic and Pacific Oceans from the United
+      States and it’s ours and we’re going to take it back. I’m sort of paraphrasing
+      or extending what his thought process is. But it’s also climate deals—the Paris
+      Agreements by countries who are all threatened by the global extreme weather,
+      the global warming, the floods and the droughts that are happening all over. They
+      were trying to decarbonize the environment so that you can prevent this climate
+      disaster from happening and raising the sea levels and flooding the seacoasts
+      all over the world. Well, Trump basically says, well, just as we’re against you
+      saying the law of the sea is free to everybody—as if it’s not our ocean that you’re
+      talking about—so with the climate deals. We’re against any international agreement
+      that prevents us from controlling the world energy trade through our control of
+      oil and deciding who can produce and trade this oil and who are we allowed to
+      block. That’s all blocked. So you have this, you had international law of free
+      trade, of most favored nations, of free capital movements, all of these moves
+      and all of this sort of ideology that was put in place at the end of World War
+      II that seemed to be where civilization was moving towards—all governments [or
+      at least the] majority acting together to solve common problems in the world,
+      from who can use the sea, to how do we prevent some countries from polluting the
+      [climate] and hurting others and threatening their security, to the military ideas.
+      Yes, there will be national security, military for every country, but not at the
+      expense of other countries’ military security, as the Russian president and foreign
+      minister continue to say. All of this is an attack saying international law is
+      ended. It’s all subject to the U.S. rules-based order that basically any agreement
+      or rules governing international trade, the usage of fuels is basically under
+      unique U.S. domination. And that’s the real power grab here, that there’s really
+      only one sphere of influence that’s a regional influence, and that’s America over
+      Latin America. All of these other countries that are supposed to have a sphere
+      of influence… when it says a Russian sphere of influence, it means let Europe
+      fight Russia, not us. When it says a Chinese sphere of influence, it says, well,
+      let China try to do what it can, but we’re going to surround it with the quad
+      countries and with American proxies, especially in Taiwan that America just signed
+      an enormous, I think, $11 billion arms deal with, to try to counter it. America
+      is not recognizing any country’s sphere of influence except its own, which is
+      stay out of Latin America. As Richard just pointed out, that wasn’t the Monroe
+      Doctrine. Any country could trade or borrow from other countries. And in fact,
+      right as the Latin American countries, beginning in the 1920s, won their political
+      liberty from their foreign colonizers, Mexico, Brazil, all of the Latin American
+      countries went into debt to British bankers primarily. And Haiti went into debt
+      to buy its freedom from French bankers. All of these Latin American countries
+      became financial satellites of England and European bankers. America had no problem
+      with that, no problem with other trade. America was all in favor of Latin American
+      trade with other countries as long as the profits were all sent to the United
+      States as the beneficiary of this trade. So basically, Trump is saying a sphere
+      of influence cannot be permitted unless the United States is the single beneficiary
+      of any economic and balance-of-payment surpluses that are created by these five
+      regions. That’s the double standard that the National Security Study is supposed
+      to promote. ⁣RICHARD WOLFF: If I could add another [dimension], again, just enriching
+      the layers of understanding of what’s going on here. You know, the United States
+      came out of World War II. It was the dominant economic power, but it wasn’t just
+      that it was the U.S. dollar everywhere and the U.S. financed everything and the
+      U.S. provided the loans, you know, the Marshall Plan and all the rest for the
+      whole rest of the world and dominated world trade. It was also the political domination,
+      the ideological domination. You know, Hollywood produced the movies that everybody
+      looked at. Levi Strauss produced the jeans that everybody learned to wear, blah,
+      blah, blah. All of that—with one exception, and we’re not sure about that—has
+      eventually been overturned. The United States is not the top economic dog. We’ve
+      discussed this now ad nauseam, and the evidence for it is everywhere and accumulates
+      literally every day. Ditto with the politics. You know, on some of the key issues,
+      the United States not just loses votes in the United Nations, but loses them overwhelmingly.
+      You know, there are votes of 100 plus countries to five. And the United States
+      is one of the five. You know, and Israel is typically there, and then little islands
+      in the Pacific.But the rest of the world is no longer… and even the Europeans,
+      slavish towards the U.S. as they continue to be—at least the leaders—are making
+      statements against the politics of the United States. And I can assure you, the
+      mood here [in Europe], I’ve only been here a couple of days, you know, the critique
+      of Trump is everywhere, between the lines, or on the lines, in the press and so
+      on. So the political weaponry isn’t there. The political position is gone. The
+      economic position is gone. The ideological position is gone. The world is not
+      hanging on every fad coming from the United States the way it once did, whether
+      it’s in dress or anything else. So what’s left? Here’s my point: military. We
+      haven’t yet demonstrated to the world that our military is no longer the overwhelming.
+      For most of the last 30 years, when—and there were agencies that did this—when
+      there were tabulations of how much the major countries of the world spent on the
+      military, the United States was listed not only as number one, but as spending
+      more on the military than the next eight or nine countries combined. And those
+      eight or nine included Russia and China. In other words, the United States was
+      as overwhelmingly dominant in the Cold War period militarily as it was economically,
+      politically, and ideologically. Here’s how I interpret what Michael said, and
+      that phenomena which continues to appear to me to be much more important than
+      it’s getting the attention. Shooting innocent people, because they haven’t been
+      proven guilty, who are sitting in boats in the Caribbean or in the Pacific. By
+      the way, 90, I believe 95 of them or some number like that have been killed. That
+      is a very powerful symbolism of “we are going to use what we still have—military.”
+      We’re going to show… we’re not going to rely on what the previous stupid presidents
+      did, which is you have the Navy, you board the ship, you confiscate the drugs
+      if they’re there, you arrest the people involved, and then they go into their
+      country and they get tried. No, no, no. That didn’t work. And so now we use what
+      we have left, the fist. We are in a position to do what… well, let the world beware.
+      You get on the wrong side of us and we are going to be doing this to you, too.
+      Okay, this is using the military because you don’t have anything else anymore
+      you can use. And there are two outcomes here that are possible. Number one, it
+      will work. You will terrorize a large part of the world by the threat of military
+      action, and that’s ultimately nuclear military action. Or—and you could have both
+      of these, of course—or you will provoke the rest of the world to see you as the
+      number one danger to world peace, and to organize themselves economically, politically,
+      to defeat you. And here, let me leave you with an observation. We have hollowed
+      out our manufacturing. We cannot go it alone. And if the rest of the world were
+      to view us as a rogue nation prepared to threaten with military, there will be
+      reactions. Ask yourself, if you want to, ask yourself the question: if Mr. Trump’s
+      advisors who want war in Venezuela have their way and the United States attacks,
+      lands troops, all of that sort of thing, it’s not just that the Russians and Chinese
+      may have some surprises for them in Venezuela. It’s that they, of course, can
+      take retaliatory steps in all kinds of ways. We’re going to perhaps start hearing
+      again about rare earths and all kinds of other things they could do. And there
+      we see again the road to war laid out right in front of us, but dependent on the
+      decisions being made literally as we talk. ⁣MICHAEL HUDSON: Well, Richard’s defined
+      the problem. America’s hitherto dominant economic position no longer exists. It’s
+      gone. So, how can the United States maintain its living standards without industry,
+      with deindustrialization, and having become a debtor country, not the world’s
+      main creditor with most of the world’s gold and financial claims on other countries?
+      Well, the answer, Richard’s just pointed out, other countries have to begin paying
+      for the military wars that the United States waged before, and part of their paying
+      for it is still going to be paying, I think, the American military-industrial
+      complex. These countries, Europe and others, are supposed to buy American arms
+      because, despite the fact that Germany’s trying to mount its travesty of military
+      Keynesianism of its own arms makers, the fact is, without Russian energy prices
+      and low cost of production, it really can’t compete with other countries. Other
+      countries are going to have to provide the benefits to the United States to subsidize
+      its deindustrialization, to subsidize its enormous federal budget deficits that
+      are being financed largely, it had been hoped, by other countries holding treasury
+      securities as their foreign monetary reserves. All of this is that somehow the
+      United States is going to run the policies of other countries to make sure that
+      it’s all centered on the United States, as if it’s the center of a spider’s web
+      that’s all extending out. And the question is: are other countries going to say,
+      we want our economic surplus for itself, just like Venezuela wanted its natural
+      resources and the natural resource rents for itself? The United States has one
+      thing to offer these countries. It’s not any longer industrial exports. It’s not
+      loans. It’s the agreement not to bomb them and not to terrorize them and not to
+      have regime change governments like the Maidan massacre in Ukraine. And apart
+      from the ability of the United States to create chaos in other countries, as I
+      think we’ve discussed in the last show, the United States really has nothing to
+      offer. So, why is it that other countries will not act in their own economic self-interest
+      and say, we’re creating the economic surplus now? The surplus should be for itself.
+      We want to make our own profits from our exports. Why shouldn’t we trade with
+      the most rapidly growing economies in the world, China, Russia, and other East
+      Asian countries, in order to trade with a shrinking domestic economy, the United
+      States, whose GDP is mainly financial and rentier in character? Real estate, finance,
+      health insurance, and other insurance companies. These are not things that America
+      can’t offer other countries the profits from its rentier sector, economic rent-seeking,
+      because this isn’t really a product. And without that, all America has is the
+      ability to exploit by threats. It has nothing positive to offer other countries,
+      except somehow it’s had the personal loyalty of the three Europeans we mentioned:
+      Macron and Mertz and Starmer. And you have—I think today there’s a meeting in
+      Europe, it may be happening while we’re talking—I think 10 European countries
+      want to grab Russia’s savings, confiscate Russia’s monetary savings in Europe.
+      Eight countries are opposing this. Trump in the national security statement said
+      he wants at least four countries to withdraw from the European Union—Italy, Hungary,
+      Czech Republic, and some others—well, it looks like many more countries are now
+      trying to break away from the EU, and breaking away from the EU leadership, which
+      are puppets of NATO, means breaking away from the American vehicle for controlling
+      other countries’ European policy by its proxies. NATO and the EU are American
+      proxies to control countries. And so, when you talk about countries acting in
+      their own self-interest, that entails freeing themselves from NATO, the EU, and
+      all of these proxy governments that America has put in place. ⁣RICHARD WOLFF:
+      You know, it’s tribute. When van der Leyen makes the deal with Trump, he offers
+      to lower tariffs, just lower them, not remove them, lower them. And in return,
+      the Europeans must pay tribute. They must buy liquefied natural gas from the United
+      States at a price they cannot afford, and they must invest $700 billion of their
+      surplus here in the American economy. Absolutely extraordinary. And that’s a model.
+      You’re going to get tribute. Like Rome at the end got tribute from all the people
+      who rebelled against Rome because they didn’t want to continue to have to pay
+      the tribute. You know, the United States is in a very dangerous situation, and
+      it is taking all the steps that go with this. You know, in its attempt to break
+      out of the decline of its empire by an activity designed to be symbolically a
+      break, but when you look at the actual consequences [it] makes their dilemma worse…
+      When you break away from the climate agreement, look what the next step is. I’m
+      jumping over a few, but the next step was the announcement yesterday by the Ford
+      Motor Company that it’s abandoning its electric vehicle. It invested tens of billions
+      of dollars in that, all thrown away. They’re going back to just producing fossil
+      fuel. But the whole rest of the world is going in the direction of the electric
+      vehicle. Ford is giving up because the Chinese have out-produced them, out-competed
+      them, make the best and the cheapest electric vehicles already. So they quit.
+      So that makes the United States even more dependent on fossil fuel and therefore
+      more crucial to the global warming that comes from burning fossil fuel. It’s like
+      having the world worry about the narcotics trade and not remember that the United
+      States is the single largest market for the narcotics trade in the world. You’re
+      going to concentrate here one dependency after another in the name of independency.
+      And I think what you’re seeing is just a desperate effort. Even Venezuela, if
+      you’re going to commit to oil and gas, yeah, then it becomes sensible to want
+      to grab Venezuela’s oil and gas because, unlike the Middle East or Nigeria, it’s
+      in the Western Hemisphere. I mean, it’s not a subtle kind of thinking, but here
+      you go again, using your military because you can’t get it done any other way.
+      To think that the only message the rest of the world gets is conform is to make
+      a terrible mistake. The Chinese have shown for the last 30 years that their response
+      is to become self-sufficient, to break away from dependency on the United States
+      for anything. And there, I want to remind everyone: after World War II, in my
+      profession, economics, in the universities, the single most popular subfield was
+      called economic development. And most of the young people who went into the field
+      ended up out of good intentions helping the poor of the world develop. You study,
+      you know, agrarian economies and you discuss economies dependent on mining and
+      how to strategize to get out of their horrible poverty and into the modern world,
+      by which was meant North America, Western Europe, and Japan. All right, here we
+      are, 70 years into economic development. The one country that got no help from
+      the West towards its economic development was China, and with it Russia and North
+      Korea. All the rest got all kinds of aid, Marshall Plan and foreign aid of one
+      kind or another… And they got delegations. Many of my classmates went on trips
+      to these countries to give them advice, to teach… And who has succeeded? Russia,
+      China, and North Korea. Who hasn’t? All the rest of them. That was what the West’s
+      help did for them. They’re not unaware of this. They may not say it. They know
+      it. They have to know what in the world enabled the Chinese in their way, and
+      even the Russians in their way, to acquire the power, the wealth, and the independence
+      that they would love to have, but cannot even aspire to in the current situation.
+      These are all ways in which the isolation of the United States is another way
+      to understand what we are living through. ⁣MICHAEL HUDSON: I want to make one
+      comment on Richard’s comment about tribute. Japan pays—has promised to pay—$550
+      billion in investing in loans to the United States. South Korea, $350 billion.
+      Europe, $200 billion. But the way to oppose the U.S. tribute-taking from the rest
+      of the world means isolating these countries, and Europe’s ability to pay tribute
+      to the United States. If the source of America’s ability to block economic development
+      in these other countries is the tribute that it now gets from its satellites abroad,
+      not at home, then you want to isolate not simply the United States economy, but
+      those economies that have willingly become satellites of the United States, agreeing
+      to pay their entire balance of payment surplus and economic and trade surplus
+      to the United States as tribute for the United States not pushing their unpopular
+      regimes out of power. So that’s an interesting extension of the geopolitics of
+      other countries becoming independent. Obviously, I love what Richard said about
+      the most popular courses being economic development courses. When I was in school
+      in the 1960s, that was indeed the case. He’s absolutely right. What they considered
+      to be economic development is what other countries called underdevelopment. And
+      to me, it was a distorted development. ⁣NIMA ALKHORSHID: Richard, do you want
+      to add something before wrapping up? ⁣RICAHRD WOLFF: I just want to recognize
+      that I had a teacher, the only teacher in my graduate economics education, who
+      had it right and who told us way back then exactly what we would see and which
+      we have now seen. And some of you may know his name. His name was Paul Baran.
+      He was a professor of economics at Stanford University. And it was the last year
+      of his life, unfortunately, but I was able to be his student then. And he wrote
+      a book called The Political Economy of Growth, where he talked exactly about what
+      I’m mentioning. And it gave us the clue as to why we could then understand the
+      ability of China to make the economic growth that was discussed but never achieved
+      in the Western half of the world. ⁣NIMA ALKHORSHID: Thank you so much, Richard
+      and Michael. Great pleasure, as always. ⁣RICAHRD WOLFF: Happy holidays, by the
+      way. ⁣NIMA ALKHORSHID: Happy holidays, yeah. Merry Christmas. ⁣RICAHRD WOLFF:
+      Bye-bye. ⁣MICHAEL HUDSON: Bye-bye. Transcription and Diarization: https://scripthub.dev
+      Editing: RALPH LOMBREGLIA Review: ced Photo by Road Ahead on Unsplash The post
+      The Return of Gunboat Economics first appeared on Michael Hudson .'
+    one_sentence_summary: In a discussion featuring Michael Hudson and Richard Wolff,
+      Nima Alkhorchid highlights Donald Trump's controversial remarks about Venezuela's
+      oil and land, suggesting a desire for U.S. intervention, while encouraging viewers
+      to engage with their content online.
+    paragraph_summary: In a discussion on December 18, 2025, Nima Alkhorchid hosts economists
+      Michael Hudson and Richard Wolff, who share insights on Donald Trump's recent
+      comments regarding Venezuela. Trump has expressed a desire to reclaim oil rights
+      in Venezuela, framing the country's resources as belonging to the United States.
+      Hudson interprets Trump's rhetoric as increasingly hawkish, suggesting that an
+      announcement of war against Venezuela could be imminent, as hinted by Tucker Carlson's
+      reports that Congress was briefed on potential military action. The conversation
+      highlights concerns over U.S. foreign policy and its implications for Venezuela
+      amidst rising tensions.
+    published: '2026-01-21T23:12:47+00:00'
+  - title: The Return of Gunboat Economics
+    url: https://michael-hudson.com/2026/01/the-return-of-gunboat-economics/
+    text: '⁣NIMA ALKHORSHID: Hi, everybody. Today is Thursday, December 18, 2025, and
+      our dear friends, Michael Hudson and Richard Wolff, are here with us. Michael
+      from New York, and Richard is in Paris, in France. Welcome back. ⁣RICHARD WOLFF:
+      Thank you. Glad to be here. ⁣MICHAEL HUDSON: (Laughing) Literally. To be there
+      [in Paris]. ⁣NIMA ALKHORSHID: Please subscribe and hit the like button. You can
+      follow Michael on his website, michael-hudson.com, and Richard on his YouTube
+      channel, Democracy at Work, or on his website, democracyatwork.info. Let me start,
+      Michael, with you and the situation with Venezuela. You know, yesterday we’ve
+      learned from Tucker Carlson that Donald Trump wants to declare war on Venezuela.
+      And Donald Trump himself, he said something so strange when he’s talking about
+      oil and the land of Venezuela. The way that he’s talking about those properties,
+      [the] Venezuelan properties, it seems that they belong to the United States. Here
+      is what Donald Trump said. ⁣DONALD TRUMP (CLIP): They took it away because we
+      had a president that maybe wasn’t watching. But they’re not going to do that.
+      We want it back. They took our oil rights. We had a lot of oil there. As you know,
+      they threw our companies out and we want it back. ⁣NIMA ALKHORSHID: Michael, looking
+      at what Donald Trump said last night, do you think that he’s getting more hawkish
+      toward Venezuela, or he’s chickening out? ⁣MICHAEL HUDSON: Well, he’s certainly
+      more hawkish. And yesterday, I had expected that our talk this morning was going
+      to be all about Trump declares war on Venezuela, because yesterday, Tucker Carlson
+      came out with an announcement that was picked up all over the internet, Yahoo!,
+      saying, here’s what I know so far, which is that members of Congress were briefed
+      yesterday that a war is coming and it’ll be announced in the address to the nation
+      tonight at nine o’clock by the President. Well, naturally, I thought, okay, we’re
+      going to talk about war. And I listened, and it was such a boring speech. Trump
+      didn’t know what to say, talking about nothing except that America’s inflation
+      was going down, life has never been better for the American working class, and
+      it’s going to get much better. He has his own health care, you won’t have insurance
+      companies anymore, [it will be] everybody for himself negotiating. So evidently,
+      the Navy must have talked to him and said, “Look, Russia and China have provided
+      Venezuela with arms to shoot down ships,” and we’ve done the war game. And if
+      you really go to war with Venezuela by saying you’re going to bomb them… Trump
+      didn’t say he’s going to invade. He said we’re going to destroy them on land.
+      In other words, missiles. Well, obviously, Venezuela is prepared with the Russian
+      and Chinese defenses and its own defenses to blow up the ships. And the army,
+      obviously, talked him out of it. And that’s why he sort of floundered for his
+      25-minute speech. Well, here’s the problem. Trump is trying to blame the foreigners,
+      as you just said, he accused Venezuela of stealing their oil and he wants to put
+      things back the way they were. The way they were was under dictators throughout
+      Latin America, like Pérez Jiménez in Venezuela, and the way they were in Cuba
+      before Castro with Batista and the government there. The way they were was these
+      countries were totally in American control, which Trump likes to call the American
+      sphere of influence. And that’s what the National Security Strategy did. We control
+      the oil. So Trump has said that these ships were going to block any of this shadow
+      fleet that has been selling $8 billion a year of Venezuela’s oil exports. We’re
+      going to prevent them from trading, just as we’re preventing Russia from trading
+      its oil by blocking its tankers. Trump has already, on November 29th, seized one
+      Venezuela tanker and brought it to American controlled shores and said, you know,
+      we confiscated the oil and took it for ourselves. We’re taking our oil. Anything
+      that Venezuela has belongs to me, despite the fact that the oil companies all
+      [negotiated agreements with Venezuela] based on what they had done with Saudi
+      Arabia. Yes, nationalize the oil, all we want is to be able to produce the oil
+      and market it and get all of the benefits. Well, the reason that Venezuela had
+      nationalized this is that they’d been exploited under the dictatorship and one-way
+      laws. Venezuela’s foreign oil was being depleted and the oil industry has a depletion
+      allowance in the United States. The oil that they deplete in Venezuela or any
+      other country, their branches, is a tax credit against the American income tax.
+      The countries themselves don’t get any benefit from their oil being depleted.
+      And all of this depletion allowance is counted as a cost of production, reducing
+      their profits. And so Venezuela saw that the American oil companies simply don’t
+      report any profits to pay their income tax on. They sell Venezuela’s oil to the
+      refineries offshore, mainly in Trinidad, at a very low price. And Trinidad, through
+      a Panamanian company, then controlled by the oil companies like Standard Oil,
+      will sell this oil that it buys from Venezuela at a low price at a huge markup
+      to the Panamanian company that sells it to the United States at a higher price.
+      All of this is tax avoidance. And this is why other countries don’t want American
+      oil firms to come because they don’t get any money from it. It’s a one-[way] deal.
+      And Trump says: if you don’t let us steal your oil, you’re stealing our property
+      because we have the right to steal your oil because that’s our sphere of influence.
+      And we can do what [we] want. And he’s willing, apparently, to go to war. He’s
+      very bellicose, and he thought that that would make him popular. But apparently,
+      the Republicans did polls and they found out that Americans really don’t want
+      to go to war in Venezuela any more than they want to keep going to war in Ukraine.
+      So Trump’s trying to do two things. He’s trying to assert total U.S. control of
+      the world’s oil trade, not only to isolate other oil countries like Russia, Iran,
+      and Venezuela, but also he’s trying to prevent the rest of the world from pursuing
+      alternatives to oil like green energy through wind power and solar power, because
+      that’s where China has an advantage. And he not only wants to grab Venezuela’s
+      oil, he’s just grabbed Russia’s Lukoil company and said that any Russian oil distributor
+      or oil company in Europe that has more than 50% ownership, we get to grab because
+      Russia’s the bad guy. This is economic war. According to the law of the sea, blocking
+      oil trade from Venezuela and Iran and China—China gets about 4% of its oil from
+      Venezuela—is legally defined as an act of war. And an act of war actually becomes
+      military war at a point. That’s where we are right now. ⁣RICHARD WOLFF: I would
+      like to add to what Michael has said by noticing a parallel. If you look at that
+      national security document that was released on December 4th, and you read the
+      rewrite of history that is in that document, you will learn that at the end of
+      World War II, the correct history is not what we have all thought it was: the
+      end of all the European empires and their being replaced by the United States,
+      the end of the British pound as the global currency, replaced by the U.S. dollar,
+      the development of 700 military bases all around Russia and then around China
+      to contain communism. None of that is really what was going on. What you get in
+      that statement, and obviously this is the thinking of Mr. Trump, but also of the
+      whole entourage around him, is a completely different story. A story of the victimization
+      of the United States. Mr. Trump repeatedly goes around, and he’s done it in other
+      forums as well, explaining how the British and the Canadians and the Mexicans
+      and the Europeans have been ripping us off, treating us badly, behaving inappropriately,
+      and on and on. If you believe this, then the last 75 years would be a delegation
+      of the entire American political establishment, Republican and Democratic alike,
+      as moronic incompetents who are now being finally replaced by a smart guy, Mr.
+      Trump. And he is not going to let us be ripped off. So of course he has to rewrite
+      the history of each particular chapter in this rewrite of history. One chapter
+      is the deal Venezuela made years ago with the oil companies. I remember civil
+      service, or one of the companies, was a major company that they dealt with, through
+      which they sold here in the United States. And they paid a sum for that in the
+      same way that oil was nationalized in most of the countries in the world that
+      have oil. They took that step. Why? Because they wanted a bit of the action from
+      the oil business. Otherwise, it was simply monopolized by the seven large oil
+      companies that took it from them and then sold it at whatever price they could
+      get in the world market. Whether [it was] Saudi Arabia or Egypt, they all wanted
+      a piece of what was going on. And the West understood, especially after the war
+      in the Suez Canal, 1955, that they had to come to some sort of terms with that.
+      Iran had erupted, Egypt had erupted. They could not rely on the Israeli presence
+      to prevent these things. They made a deal. All that is forgotten. All that is
+      rewritten into a story to justify… The story to justify tariffs was this notion
+      that we’ve been abused for 75 years. And the reason I’m going through this is…
+      all of the people who cannot bring themselves to oppose the Trump government—and
+      that includes Wall Street Journal, New York Times, and all the rest of them—they
+      are going to take seriously sooner or later, if they haven’t already, this rewrite
+      of history. And it’s very important that everyone understand what make-believe
+      this all [is]. This is make-believe, but it is done so crudely, so suddenly, so
+      without the slightest shred of evidence that it’s possible for someone like you,
+      Nima, quite correctly to identify the interesting use of the adjective “our” oil.
+      This oil has magically become our oil, not Venezuelan oil or Latin American oil
+      or oil, period, but ours as if it was property of the United States. And then
+      he carries out his usual story that a stupid president, notice how he said it,
+      sometime back then, allowed this theft to happen. ⁣MICHAEL HUDSON: I’m glad you
+      talked about the rewriting of history after World War II, because that’s the key
+      not only to Trump, but to the national security. Trump is justifying all of this
+      move in Latin America, saying this is my new Monroe Doctrine. And what the sphere
+      of influence, the national security statement said is: that’s the Western Hemisphere.
+      But it’s not only the Western Hemisphere, it’s also Asia with all of the U.S.
+      military bases surrounding China and Russia. And what has happened is that there’s
+      a fictitious history. The United States essentially is going to monopolize control
+      of all of Latin America and the Caribbean for itself. Russia is going to get Central
+      Asia and the former Soviet republics, presumably, including what was formerly
+      the Ukraine. And China is going to get the mainland Asian neighbors. But this
+      is not really a division of regional spheres of influence at all, such as occurred
+      at the end of the World War II. In 1945 at Yalta, there really was a division
+      of spheres of influence. That was the meeting between Roosevelt and Churchill
+      and Stalin. But the United States is not only going to get Latin America and the
+      Caribbean, the agreement of the Monroe Doctrine was that America would stay out
+      of Eastern Hemisphere, Eurasian affairs. Well, that’s not at all what Trump intends.
+      He’s saying that Europe and Asia have to stay away from Latin America, that Russia
+      and Iran and China must not invest in Venezuela or even buy its oil for themselves.
+      It has to leave all of this to the United States. So that’s sort of a travesty
+      of the Monroe Doctrine because there’s no reciprocity. The U.S. diplomats are
+      maneuvering to control Eurasian affairs by ringing the whole region with military
+      bases and trying to engage in regime change and mobilizing other countries. And
+      one of the key tells of how absurd this is, is [that] in addition to the U.S.,
+      Russia, China and Latin America, the U.S. wants to add Japan to this group of
+      five that’s supposed to decide military and diplomatic and trade and financial
+      affairs for the whole rest of the world. And why it’s trying to shoehorn Japan
+      into this regional grouping [is] that it’ll have more of a chance of controlling
+      the group by getting Japan’s vote on its side. You remember a few years ago, the
+      United States wanted to add Japan to the UN National Security Council. And Russia
+      and other countries said, ha ha, you just want another automatic vote for the
+      U.S. in the Security Council. Japan doesn’t have an independent vote. Well, it’s
+      not supposed to have it here either. So while the national security statement
+      said, okay, China gets this, and Russia gets a sphere of influence over Asia,
+      you have the Quad. You have the U.S., India, Japan, and South Korea. This is not
+      part of the U.S. sphere of influence. Japan and South Korea are obviously on the
+      U.S. side against Asia. Not a word of that in the National Security Council. And
+      when Trump says “sphere of influence,” really there’s only one sphere of influence
+      in the world: the whole world is America’s sphere of influence. And you can see
+      where this is leading. After World War II ended, MacArthur used the Japanese gang,
+      criminal gangs, essentially to attack physically and break up the socialist groups
+      in Japan that were trying to work against Japanese militarism by creating labor-oriented
+      socialism. Well, the gangs and the U.S. and MacArthur ended up putting in power
+      the National Democratic Party, the NDP, the U.S. surrogate doing to Japan what
+      the British Labor Party’s done for the U.S. and Britain, and Macron does in France
+      for the United States. So Japan sort of sacrificed its future in the 80s by the
+      Plaza and the Louvre Accords that ended up bringing the lost decade of the 1990s
+      and after, that Japan’s been in ever since, because of its willingness to serve
+      the United States. That’s the model that the United States wants for Russia and
+      China and all other countries. And what he’s doing in Venezuela is pretty much
+      exactly what he’s doing against Russia—trying to block its oil and trying to block
+      it wherever it can, which is why I think the whole so-called agreements over Ukraine
+      are falling apart right now. Trump has a power grab and he’s looking forward to
+      militarizing it. And Hegseth seems to be all in favor of it, which may mean he’s
+      on the way out given his unpopularity. ⁣RICHARD WOLFF: I would also point out
+      that the Monroe Doctrine did not prevent Latin American countries from continuing—and
+      even in many cases, developing—trade and investment relationships with the Europeans.
+      Yes, there was a definition of a sphere of influence, but that definition is very
+      variable, very malleable, [it] can mean lots of different things. Mr. Trump is
+      trying—and the people around him—to make it mean much more than it ever did before.
+      So, this should be understood to be what? It is a ploy. It is a transparent ploy
+      to get more in the way of a regional domination than they had before, while continuing
+      to contest with China and Russia for Europe and Asia and all the rest of those
+      places. It is the apparent recognition—which I myself saw it as, and I said so
+      on our discussions here—I saw that December 4th document as remarkable because
+      in its obtuse way, it admitted the end of the empire. But I was over-hasty there.
+      What I didn’t understand, and I should have, and I see it more clearly now, is
+      that yes, it was an admission, but at the same time, it was the assertion that
+      there was a way out of that admission. There was a way around it. So, you had
+      to… this would be the way you would write a compromise: some people telling Mr.
+      Trump, look, you’ve got to take it easy. It’s like Michael’s assessment of what
+      the Navy may have told Trump last night before he did what he thought he could
+      do. Well, there are advisors that say we’ve got to take it, we can’t manage a
+      global empire. So, they get one part of the speech. But the other ones who say,
+      Yes, we can, they get their part of this speech. Venezuela is the latter group’s
+      part of the speech. War there is their group. Saying to the Chinese… who, by the
+      way, have built one of the largest, most expensive naval shipping ports in Latin
+      America, just recently opened in Peru, if I remember, for shipping half of Latin
+      America’s product to China. It’s what it’s all for. The port is close to China,
+      if you know how the ocean works there. So this is a contradiction. Like the performance
+      last night: We’re going to have a war; no, we’re not going to have a war; now
+      we’re going to leak a war; now we’re going to not leak a war. Yeah, there’s a
+      struggle going on, which is understandable. It’s part of the decline of an empire.
+      I noticed also that they have allocated $8 billion to Taiwan. It’s not just that
+      they did it. It’s not just that it’s more than they’ve ever given them before.
+      But look at the timing. You’re doing it at the same time that you’re threatening
+      war with Venezuela. This is not a country that has admitted its global empire
+      is not sustainable. This is a country who’s trying to sustain its global empire.
+      And I would also point out, which is extremely dangerous, which is why I know
+      there is little commentary about it. But the Chinese and the Russians, to the
+      extent that their navy is in any way involved around Venezuela–-which I understand
+      it is, although I don’t know, and as a pretty observant reader of the press, I
+      may have missed it–-but I suspect we’re not being told too much about what the
+      military support and the economic support Russia and China and possibly others
+      have offered Venezuela. But it does mean that we are once again, as we are in
+      Ukraine, in a war that is a kind of proxy violence between the Chinese and the
+      BRICS on one end and the United States—I was about to say with the G7, but there’s
+      not much left of the G7—on the other side. And this is a very dangerous thing.
+      Before World War I, and remember, World War I was fought by a collection of capitalist
+      colonialist powers, Britain, France, Germany, Russia, and a few others, who were
+      bitterly divided, fighting each other in the Middle East, in Africa, all over,
+      all over. And they had had a number of war scares. And then a minor matter, the
+      assassination, no one knew by whom, of an obscure member of the government in
+      Austria, Archduke Ferdinand, if I remember. So he gets assassinated somewhere
+      in the middle of Europe, and all the countries go to war. Well, they didn’t go
+      to war because they cared about this assassinated nobleman. I mean, nobody in
+      their right mind would imagine that. They went to war because they had had 20
+      years of continuous battle among these colonialist giants, each having carved
+      up a piece of the world. Remember the famous meeting in Berlin in 1884, where
+      literally all the leaders of Europe took out large markers and divided a map of
+      Africa, in particular. The Germans got their big chunks, and the Belgians got
+      the Congo, and Britain got most of the rest of it, and the Spanish some—and [it
+      was just] horrific. But we are now in a very similar series of proxy wars, near
+      wars, warlike incidents, you know, and the absurdity of the United States arming
+      an island, you know, a few miles off the shore of China is now being matched by
+      [China] giving help to Venezuela when the United States is, you know, menacing
+      it. We are, and I mean here the American people, are allowing this to unfold,
+      and it’s very clear who the aggressor is. It’s not China and the BRICS. Time has
+      shown itself to be on their side. They have grown despite every effort of the
+      United States and the West to stop it for at least 25 years now. One thing after
+      another. It doesn’t work. They have learned the lessons. They are self-sufficient
+      now in oil and energy. The amount they get from Venezuela, they can lose it tomorrow,
+      it will not matter. Their economic growth this year will again be about two and
+      a half to three times what the GDP growth is in the United States. I just read
+      a report yesterday that compares the cost of one kilowatt of energy inside China
+      to any producer there. It is one sixth, one sixth of the cost per kilowatt hour
+      of energy to a producer in the United States. Well, that’s why they don’t have
+      an inflation in China. The last few years, their rate of growth of prices is under
+      1%. We have an inflation, and we have a terrible problem with our energy prices.
+      Europe’s even worse. We’re not going to work our way out of this. The passage
+      of time works for them. So who’s going to upset the apple cart? Who’s going to
+      make the mistake as this situation worsens? Well, we have in one government, here,
+      the willingness to risk unspeakable war to play out this game. And here in Europe,
+      I read, as I had this morning, I read the leadership of France and Britain and
+      Germany as willing to risk a war with Russia as they ever have been, to save their
+      political careers, because the overwhelming mass of the people don’t want a war,
+      will not support a war, do not care enough about whatever they think is going
+      on in Ukraine to risk everything that they would have, which such a war would
+      produce. I mean, yes, there are a few who are literally unbalanced. The Baltic
+      republics and a couple of others who speak in crazy tones. You know, these are
+      people who have been in political wilderness for a long time and it shows. But
+      the more reasonable, the more balanced, they don’t want this. The Europeans at
+      the time before World War I, they didn’t want it either, but they worked their
+      way to it by allowing these incidents not to go challenged by a peace movement.
+      And by the way, after World War I was over, the capitalist system—which is what
+      went to war against itself in World War I—suffered the most amazing defeats imaginable.
+      First of all, they lost one whole country, Russia, which had a revolution right
+      in the middle of World War I and never rejoined the West, not even now. And they
+      gave power to the socialist and communist parties in their respective countries
+      that they have regretted ever since. And something like that happened after World
+      War II. So let me also caution those of you who might be gung-ho about where these
+      wars will lead. Setting aside the possibility of nuclear war, the other kinds
+      of wars have not been good for the capitalism that produces them. And this one,
+      if it happens, won’t be either. ⁣NIMA ALKHORSHID: Michael, from Venezuela to Russia’s
+      tankers, you know, is the United States quiet, let’s go worst case scenario. Is
+      the United States quietly expanding a global war? Because we’ve learned, as Richard
+      has mentioned, we’ve learned about the new package of weapons going to Taiwan,
+      $11.1 billion, the new package, the largest package so far to Taiwan. What is
+      your take on that? ⁣MICHAEL HUDSON: Well, Richard has just spelled out what the
+      national security statement means when it says that the U.S. empire is over and
+      we can’t try to run the world. It’ll be a division into regions. It means just
+      what he said, working through proxies in practice. In other words, we can’t afford
+      any more costs to go to war against Russia in Ukraine. That’s just a bottomless
+      sink of money, given the corruption and the fact that Ukraine’s lost so heavily.
+      But I think that Trump is fed up with Europe. You’ve seen all of his anti-European
+      statements. And so essentially, when he says giving up the empire, he’s talking
+      about Europe’s fight with Russia now. If Europe wants to fight with Russia, he
+      says, you know, let it be our proxy. We’ll do everything we can to help it. We’re
+      going to continue to give it the radar guidance and the military guidance of exactly
+      where to bomb Russia, but we’re not going to spend any money on it. We’re going
+      to have Europe take responsibility for the money. And fortunately, we have our
+      puppets there, Mertz, who wants to actually, who just said he wants to begin drafting
+      Germans again into the new Wehrmacht to fight Russia, as if there’s going to be
+      a land war. And Macron, who continues to send French mercenaries there, and of
+      course, Starmer in England. So this is using them as proxies. The United States
+      is disengaging from them, just as it’s trying in Asia to use Taiwan and Japan
+      and South Korea as its proxies, or in Latin America, right-wing governments like
+      Bolsonaro, who Trump tried to free from jail for his attempts to overthrow the
+      election. But there’s another thing that is required for this ending of the U.S.
+      control, and that’s something I think you’re getting towards. It means the collapse
+      of international law. It means the replacement of not only international law,
+      but all of the principles of the United Nations that were created seemingly legally
+      after World War II. It’s the law of the sea, for instance, that the sea belongs
+      to everyone and it’s not nationalized as part of the United States. Trump says
+      that other countries have stolen the Atlantic and Pacific Oceans from the United
+      States and it’s ours and we’re going to take it back. I’m sort of paraphrasing
+      or extending what his thought process is. But it’s also climate deals—the Paris
+      Agreements by countries who are all threatened by the global extreme weather,
+      the global warming, the floods and the droughts that are happening all over. They
+      were trying to decarbonize the environment so that you can prevent this climate
+      disaster from happening and raising the sea levels and flooding the seacoasts
+      all over the world. Well, Trump basically says, well, just as we’re against you
+      saying the law of the sea is free to everybody—as if it’s not our ocean that you’re
+      talking about—so with the climate deals. We’re against any international agreement
+      that prevents us from controlling the world energy trade through our control of
+      oil and deciding who can produce and trade this oil and who are we allowed to
+      block. That’s all blocked. So you have this, you had international law of free
+      trade, of most favored nations, of free capital movements, all of these moves
+      and all of this sort of ideology that was put in place at the end of World War
+      II that seemed to be where civilization was moving towards—all governments [or
+      at least the] majority acting together to solve common problems in the world,
+      from who can use the sea, to how do we prevent some countries from polluting the
+      [climate] and hurting others and threatening their security, to the military ideas.
+      Yes, there will be national security, military for every country, but not at the
+      expense of other countries’ military security, as the Russian president and foreign
+      minister continue to say. All of this is an attack saying international law is
+      ended. It’s all subject to the U.S. rules-based order that basically any agreement
+      or rules governing international trade, the usage of fuels is basically under
+      unique U.S. domination. And that’s the real power grab here, that there’s really
+      only one sphere of influence that’s a regional influence, and that’s America over
+      Latin America. All of these other countries that are supposed to have a sphere
+      of influence… when it says a Russian sphere of influence, it means let Europe
+      fight Russia, not us. When it says a Chinese sphere of influence, it says, well,
+      let China try to do what it can, but we’re going to surround it with the quad
+      countries and with American proxies, especially in Taiwan that America just signed
+      an enormous, I think, $11 billion arms deal with, to try to counter it. America
+      is not recognizing any country’s sphere of influence except its own, which is
+      stay out of Latin America. As Richard just pointed out, that wasn’t the Monroe
+      Doctrine. Any country could trade or borrow from other countries. And in fact,
+      right as the Latin American countries, beginning in the 1920s, won their political
+      liberty from their foreign colonizers, Mexico, Brazil, all of the Latin American
+      countries went into debt to British bankers primarily. And Haiti went into debt
+      to buy its freedom from French bankers. All of these Latin American countries
+      became financial satellites of England and European bankers. America had no problem
+      with that, no problem with other trade. America was all in favor of Latin American
+      trade with other countries as long as the profits were all sent to the United
+      States as the beneficiary of this trade. So basically, Trump is saying a sphere
+      of influence cannot be permitted unless the United States is the single beneficiary
+      of any economic and balance-of-payment surpluses that are created by these five
+      regions. That’s the double standard that the National Security Study is supposed
+      to promote. ⁣RICHARD WOLFF: If I could add another [dimension], again, just enriching
+      the layers of understanding of what’s going on here. You know, the United States
+      came out of World War II. It was the dominant economic power, but it wasn’t just
+      that it was the U.S. dollar everywhere and the U.S. financed everything and the
+      U.S. provided the loans, you know, the Marshall Plan and all the rest for the
+      whole rest of the world and dominated world trade. It was also the political domination,
+      the ideological domination. You know, Hollywood produced the movies that everybody
+      looked at. Levi Strauss produced the jeans that everybody learned to wear, blah,
+      blah, blah. All of that—with one exception, and we’re not sure about that—has
+      eventually been overturned. The United States is not the top economic dog. We’ve
+      discussed this now ad nauseam, and the evidence for it is everywhere and accumulates
+      literally every day. Ditto with the politics. You know, on some of the key issues,
+      the United States not just loses votes in the United Nations, but loses them overwhelmingly.
+      You know, there are votes of 100 plus countries to five. And the United States
+      is one of the five. You know, and Israel is typically there, and then little islands
+      in the Pacific.But the rest of the world is no longer… and even the Europeans,
+      slavish towards the U.S. as they continue to be—at least the leaders—are making
+      statements against the politics of the United States. And I can assure you, the
+      mood here [in Europe], I’ve only been here a couple of days, you know, the critique
+      of Trump is everywhere, between the lines, or on the lines, in the press and so
+      on. So the political weaponry isn’t there. The political position is gone. The
+      economic position is gone. The ideological position is gone. The world is not
+      hanging on every fad coming from the United States the way it once did, whether
+      it’s in dress or anything else. So what’s left? Here’s my point: military. We
+      haven’t yet demonstrated to the world that our military is no longer the overwhelming.
+      For most of the last 30 years, when—and there were agencies that did this—when
+      there were tabulations of how much the major countries of the world spent on the
+      military, the United States was listed not only as number one, but as spending
+      more on the military than the next eight or nine countries combined. And those
+      eight or nine included Russia and China. In other words, the United States was
+      as overwhelmingly dominant in the Cold War period militarily as it was economically,
+      politically, and ideologically. Here’s how I interpret what Michael said, and
+      that phenomena which continues to appear to me to be much more important than
+      it’s getting the attention. Shooting innocent people, because they haven’t been
+      proven guilty, who are sitting in boats in the Caribbean or in the Pacific. By
+      the way, 90, I believe 95 of them or some number like that have been killed. That
+      is a very powerful symbolism of “we are going to use what we still have—military.”
+      We’re going to show… we’re not going to rely on what the previous stupid presidents
+      did, which is you have the Navy, you board the ship, you confiscate the drugs
+      if they’re there, you arrest the people involved, and then they go into their
+      country and they get tried. No, no, no. That didn’t work. And so now we use what
+      we have left, the fist. We are in a position to do what… well, let the world beware.
+      You get on the wrong side of us and we are going to be doing this to you, too.
+      Okay, this is using the military because you don’t have anything else anymore
+      you can use. And there are two outcomes here that are possible. Number one, it
+      will work. You will terrorize a large part of the world by the threat of military
+      action, and that’s ultimately nuclear military action. Or—and you could have both
+      of these, of course—or you will provoke the rest of the world to see you as the
+      number one danger to world peace, and to organize themselves economically, politically,
+      to defeat you. And here, let me leave you with an observation. We have hollowed
+      out our manufacturing. We cannot go it alone. And if the rest of the world were
+      to view us as a rogue nation prepared to threaten with military, there will be
+      reactions. Ask yourself, if you want to, ask yourself the question: if Mr. Trump’s
+      advisors who want war in Venezuela have their way and the United States attacks,
+      lands troops, all of that sort of thing, it’s not just that the Russians and Chinese
+      may have some surprises for them in Venezuela. It’s that they, of course, can
+      take retaliatory steps in all kinds of ways. We’re going to perhaps start hearing
+      again about rare earths and all kinds of other things they could do. And there
+      we see again the road to war laid out right in front of us, but dependent on the
+      decisions being made literally as we talk. ⁣MICHAEL HUDSON: Well, Richard’s defined
+      the problem. America’s hitherto dominant economic position no longer exists. It’s
+      gone. So, how can the United States maintain its living standards without industry,
+      with deindustrialization, and having become a debtor country, not the world’s
+      main creditor with most of the world’s gold and financial claims on other countries?
+      Well, the answer, Richard’s just pointed out, other countries have to begin paying
+      for the military wars that the United States waged before, and part of their paying
+      for it is still going to be paying, I think, the American military-industrial
+      complex. These countries, Europe and others, are supposed to buy American arms
+      because, despite the fact that Germany’s trying to mount its travesty of military
+      Keynesianism of its own arms makers, the fact is, without Russian energy prices
+      and low cost of production, it really can’t compete with other countries. Other
+      countries are going to have to provide the benefits to the United States to subsidize
+      its deindustrialization, to subsidize its enormous federal budget deficits that
+      are being financed largely, it had been hoped, by other countries holding treasury
+      securities as their foreign monetary reserves. All of this is that somehow the
+      United States is going to run the policies of other countries to make sure that
+      it’s all centered on the United States, as if it’s the center of a spider’s web
+      that’s all extending out. And the question is: are other countries going to say,
+      we want our economic surplus for itself, just like Venezuela wanted its natural
+      resources and the natural resource rents for itself? The United States has one
+      thing to offer these countries. It’s not any longer industrial exports. It’s not
+      loans. It’s the agreement not to bomb them and not to terrorize them and not to
+      have regime change governments like the Maidan massacre in Ukraine. And apart
+      from the ability of the United States to create chaos in other countries, as I
+      think we’ve discussed in the last show, the United States really has nothing to
+      offer. So, why is it that other countries will not act in their own economic self-interest
+      and say, we’re creating the economic surplus now? The surplus should be for itself.
+      We want to make our own profits from our exports. Why shouldn’t we trade with
+      the most rapidly growing economies in the world, China, Russia, and other East
+      Asian countries, in order to trade with a shrinking domestic economy, the United
+      States, whose GDP is mainly financial and rentier in character? Real estate, finance,
+      health insurance, and other insurance companies. These are not things that America
+      can’t offer other countries the profits from its rentier sector, economic rent-seeking,
+      because this isn’t really a product. And without that, all America has is the
+      ability to exploit by threats. It has nothing positive to offer other countries,
+      except somehow it’s had the personal loyalty of the three Europeans we mentioned:
+      Macron and Mertz and Starmer. And you have—I think today there’s a meeting in
+      Europe, it may be happening while we’re talking—I think 10 European countries
+      want to grab Russia’s savings, confiscate Russia’s monetary savings in Europe.
+      Eight countries are opposing this. Trump in the national security statement said
+      he wants at least four countries to withdraw from the European Union—Italy, Hungary,
+      Czech Republic, and some others—well, it looks like many more countries are now
+      trying to break away from the EU, and breaking away from the EU leadership, which
+      are puppets of NATO, means breaking away from the American vehicle for controlling
+      other countries’ European policy by its proxies. NATO and the EU are American
+      proxies to control countries. And so, when you talk about countries acting in
+      their own self-interest, that entails freeing themselves from NATO, the EU, and
+      all of these proxy governments that America has put in place. ⁣RICHARD WOLFF:
+      You know, it’s tribute. When van der Leyen makes the deal with Trump, he offers
+      to lower tariffs, just lower them, not remove them, lower them. And in return,
+      the Europeans must pay tribute. They must buy liquefied natural gas from the United
+      States at a price they cannot afford, and they must invest $700 billion of their
+      surplus here in the American economy. Absolutely extraordinary. And that’s a model.
+      You’re going to get tribute. Like Rome at the end got tribute from all the people
+      who rebelled against Rome because they didn’t want to continue to have to pay
+      the tribute. You know, the United States is in a very dangerous situation, and
+      it is taking all the steps that go with this. You know, in its attempt to break
+      out of the decline of its empire by an activity designed to be symbolically a
+      break, but when you look at the actual consequences [it] makes their dilemma worse…
+      When you break away from the climate agreement, look what the next step is. I’m
+      jumping over a few, but the next step was the announcement yesterday by the Ford
+      Motor Company that it’s abandoning its electric vehicle. It invested tens of billions
+      of dollars in that, all thrown away. They’re going back to just producing fossil
+      fuel. But the whole rest of the world is going in the direction of the electric
+      vehicle. Ford is giving up because the Chinese have out-produced them, out-competed
+      them, make the best and the cheapest electric vehicles already. So they quit.
+      So that makes the United States even more dependent on fossil fuel and therefore
+      more crucial to the global warming that comes from burning fossil fuel. It’s like
+      having the world worry about the narcotics trade and not remember that the United
+      States is the single largest market for the narcotics trade in the world. You’re
+      going to concentrate here one dependency after another in the name of independency.
+      And I think what you’re seeing is just a desperate effort. Even Venezuela, if
+      you’re going to commit to oil and gas, yeah, then it becomes sensible to want
+      to grab Venezuela’s oil and gas because, unlike the Middle East or Nigeria, it’s
+      in the Western Hemisphere. I mean, it’s not a subtle kind of thinking, but here
+      you go again, using your military because you can’t get it done any other way.
+      To think that the only message the rest of the world gets is conform is to make
+      a terrible mistake. The Chinese have shown for the last 30 years that their response
+      is to become self-sufficient, to break away from dependency on the United States
+      for anything. And there, I want to remind everyone: after World War II, in my
+      profession, economics, in the universities, the single most popular subfield was
+      called economic development. And most of the young people who went into the field
+      ended up out of good intentions helping the poor of the world develop. You study,
+      you know, agrarian economies and you discuss economies dependent on mining and
+      how to strategize to get out of their horrible poverty and into the modern world,
+      by which was meant North America, Western Europe, and Japan. All right, here we
+      are, 70 years into economic development. The one country that got no help from
+      the West towards its economic development was China, and with it Russia and North
+      Korea. All the rest got all kinds of aid, Marshall Plan and foreign aid of one
+      kind or another… And they got delegations. Many of my classmates went on trips
+      to these countries to give them advice, to teach… And who has succeeded? Russia,
+      China, and North Korea. Who hasn’t? All the rest of them. That was what the West’s
+      help did for them. They’re not unaware of this. They may not say it. They know
+      it. They have to know what in the world enabled the Chinese in their way, and
+      even the Russians in their way, to acquire the power, the wealth, and the independence
+      that they would love to have, but cannot even aspire to in the current situation.
+      These are all ways in which the isolation of the United States is another way
+      to understand what we are living through. ⁣MICHAEL HUDSON: I want to make one
+      comment on Richard’s comment about tribute. Japan pays—has promised to pay—$550
+      billion in investing in loans to the United States. South Korea, $350 billion.
+      Europe, $200 billion. But the way to oppose the U.S. tribute-taking from the rest
+      of the world means isolating these countries, and Europe’s ability to pay tribute
+      to the United States. If the source of America’s ability to block economic development
+      in these other countries is the tribute that it now gets from its satellites abroad,
+      not at home, then you want to isolate not simply the United States economy, but
+      those economies that have willingly become satellites of the United States, agreeing
+      to pay their entire balance of payment surplus and economic and trade surplus
+      to the United States as tribute for the United States not pushing their unpopular
+      regimes out of power. So that’s an interesting extension of the geopolitics of
+      other countries becoming independent. Obviously, I love what Richard said about
+      the most popular courses being economic development courses. When I was in school
+      in the 1960s, that was indeed the case. He’s absolutely right. What they considered
+      to be economic development is what other countries called underdevelopment. And
+      to me, it was a distorted development. ⁣NIMA ALKHORSHID: Richard, do you want
+      to add something before wrapping up? ⁣RICAHRD WOLFF: I just want to recognize
+      that I had a teacher, the only teacher in my graduate economics education, who
+      had it right and who told us way back then exactly what we would see and which
+      we have now seen. And some of you may know his name. His name was Paul Baran.
+      He was a professor of economics at Stanford University. And it was the last year
+      of his life, unfortunately, but I was able to be his student then. And he wrote
+      a book called The Political Economy of Growth, where he talked exactly about what
+      I’m mentioning. And it gave us the clue as to why we could then understand the
+      ability of China to make the economic growth that was discussed but never achieved
+      in the Western half of the world. ⁣NIMA ALKHORSHID: Thank you so much, Richard
+      and Michael. Great pleasure, as always. ⁣RICAHRD WOLFF: Happy holidays, by the
+      way. ⁣NIMA ALKHORSHID: Happy holidays, yeah. Merry Christmas. ⁣RICAHRD WOLFF:
+      Bye-bye. ⁣MICHAEL HUDSON: Bye-bye. Transcription and Diarization: https://scripthub.dev
+      Editing: RALPH LOMBREGLIA Review: ced Photo by Road Ahead on Unsplash The post
+      The Return of Gunboat Economics first appeared on Michael Hudson .'
+    one_sentence_summary: In a discussion featuring Michael Hudson and Richard Wolff,
+      Nima Alkhorchid highlights Donald Trump's controversial remarks about Venezuela's
+      oil and land, suggesting a desire for U.S. intervention, while encouraging viewers
+      to engage with their content online.
+    paragraph_summary: In a discussion on December 18, 2025, Nima Alkhorchid hosts economists
+      Michael Hudson and Richard Wolff, who share insights on Donald Trump's recent
+      comments regarding Venezuela. Trump has expressed a desire to reclaim oil rights
+      in Venezuela, framing the country's resources as belonging to the United States.
+      Hudson interprets Trump's rhetoric as increasingly hawkish, suggesting that an
+      announcement of war against Venezuela could be imminent, as hinted by Tucker Carlson's
+      reports that Congress was briefed on potential military action. The conversation
+      highlights concerns over U.S. foreign policy and its implications for Venezuela
+      amidst rising tensions.
+    published: '2026-01-21T23:12:47+00:00'
   - title: How Washington Uses Energy as a Weapon
     url: https://michael-hudson.com/2026/01/how-washington-uses-energy-as-a-weapon/
     text: 'Weaponizing the World’s Oil Trade is the Bedrock of the U.S. Rules-Based

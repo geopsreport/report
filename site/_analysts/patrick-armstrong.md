@@ -7,16 +7,68 @@ description: "Former Canadian diplomat in Moscow; independent analyst of Russia�
 websites:
   - https://patrickarmstrong.ca/
 summary: |
-  The geopolitical landscape continues to be marked by skepticism toward prevailing Western narratives, persistent tensions in Eastern Europe and the Middle East, and growing doubts about NATO’s strategic direction. Over the past 24 hours, independent analysts have highlighted several key developments and underlying trends shaping the current situation.
+  As global leaders and analysts continue to digest the outcomes of the 2026 World Economic Forum (WEF), a notable shift in geopolitical discourse is emerging. The prevailing mood at Davos, as observed by **Patrick Armstrong**, reflects a growing skepticism toward the traditional narrative of Western—particularly American—exceptionalism. Speakers are increasingly challenging the notion that the West can act as the global "Arbiter of Morality," instead referencing historical lessons learned by Russia and China, both of which have retreated from exceptionalist ambitions after costly failures. Armstrong notes, “attempting to be the ‘Arbiter of Morality’ ultimately leads to ruin rather than benefit,” a sentiment now resonating across multiple power centers.
   
-  Recent reflections on the enduring anti-Russian sentiment in Western policy circles underscore a historical continuity in attitudes. **Patrick Armstrong** points out that “the West’s narrative remains largely unchanged, suggesting a persistent bias that may indeed validate Russian claims of enduring Western hostility.” This perspective is reinforced by references to historical works and the cyclical nature of Western perceptions, particularly in the context of the ongoing Ukraine conflict.
+  This recalibration of attitudes is not occurring in a vacuum. The ongoing conflict in Ukraine and the recent Israel-Iran tensions have exposed the limits of Western military and diplomatic influence. Armstrong’s earlier analysis of the Ukraine war highlights a pattern of Western overconfidence and shifting narratives, with the U.S. and its allies now quietly acknowledging deeper involvement than previously admitted. As the situation deteriorates, blame is increasingly shifted onto local leadership, rather than confronting the strategic miscalculations made in Western capitals.
   
-  In the Middle East, the aftermath of recent Israel-Iran hostilities remains a focal point. **Armstrong** notes that the apparent de-escalation, brokered in part by Donald Trump, is characterized more by “theatrical displays” than substantive resolution. He emphasizes that Iran’s demonstrated military capabilities—especially in drones and hypersonic missiles—have “challenged the West’s historical confidence in its military superiority.” There is a growing consensus among analysts that the damage to Israel is more significant than officially reported, and that the effectiveness of both U.S. and Israeli military actions is increasingly in question.
+  Meanwhile, the Israel-Iran conflict has underscored the growing military capabilities of regional powers outside the Western sphere. Armstrong points out that Iran’s use of drones and hypersonic missiles has “demonstrated greater military strength than previously believed,” challenging Israel’s security assumptions and raising questions about the cohesion and effectiveness of NATO.
   
-  Turning to NATO, there is mounting criticism of the alliance’s strategic messaging and operational readiness. A recent statement by the Secretary General, invoking historical analogies to the Roman Empire and Napoleon, has drawn skepticism. **Armstrong** humorously questions the competence of NATO’s advisors, suggesting that “a more informed approach to historical analogies is needed, especially when advocating for increased funding.” This reflects broader concerns about NATO’s ability to adapt to contemporary security challenges, particularly as its resources are stretched by the Ukraine conflict.
+  The broader trend, as synthesized from Armstrong’s recent writings, is a painful but necessary re-evaluation of the West’s role in global affairs. The lessons of history—whether from the Crimean War or more recent interventions—are prompting a move toward a more pragmatic, Westphalian approach to international relations, where power is balanced by interests rather than moral crusades.
   
-  Looking ahead, the majority of independent analysts predict that Western overconfidence and a lack of critical self-reflection will continue to undermine strategic outcomes. There is high confidence that, absent a significant shift in approach, the West’s military and political posture will remain vulnerable to both Russian and Iranian advances. As Armstrong concludes, “the narrative will continue to shift, with past claims being reinterpreted as new information,” signaling a likely deepening of existing entrenchments rather than meaningful change.
+  Looking ahead, there is high confidence that this trend will continue. The majority of analysts, including Armstrong, suggest that Western powers will most definitely face increasing challenges to their military and diplomatic dominance, with regional actors asserting greater autonomy. The likelihood of a return to triumphalist rhetoric is low, as the realities of multipolarity and the limits of intervention become ever more apparent.
 articles:
+  - title: WEF 2026
+    url: https://patrickarmstrong.ca/2026/01/23/wef-2026/
+    text: Instead of the usual smugfest we had a number of speakers – not just the Americans
+      – say that the WEF-view was a bust. In this regard I suggest this written eight
+      years ago WHY MOSCOW’S FOREIGN PHILOSOPHY IS “WESTPHALIAN” The “Westphalian system”
+      was a brutally taught lesson. Maybe a series of unbroken failure, capped by more
+      brutal wars, has set the triumphalists, the exceptionalists, normally autobasting
+      in the sauce of righteousness at Davos, on the long painful path of re-learning
+      it. Cuius regio, eius religio . Not just religion, of course. PS China was also
+      an exceptionalist power in its day. It, like Russia, has learned the hard way.
+      There’s no profit, no benefit in being the Arbiter of Morality. Only ruin at the
+      end.
+    one_sentence_summary: The article critiques the prevailing views at the World Economic
+      Forum, suggesting that speakers, including non-Americans, recognize the failures
+      of the "Westphalian system" and the dangers of moral exceptionalism, as exemplified
+      by both Russia and China.
+    paragraph_summary: The article critiques the prevailing attitudes at the World Economic
+      Forum (WEF), highlighting a shift in perspective among speakers who challenge
+      the traditional, triumphalist views often associated with American exceptionalism.
+      It references a concept from eight years ago regarding Moscow's foreign philosophy
+      as "Westphalian," suggesting that a history of failures and brutal wars has led
+      to a painful re-evaluation of these beliefs. The phrase "Cuius regio, eius religio"
+      is invoked to emphasize that the lessons learned extend beyond religion, indicating
+      that both Russia and China, once exceptionalist powers, have discovered that attempting
+      to be the "Arbiter of Morality" ultimately leads to ruin rather than benefit.
+    published: '2026-01-23T18:07:41+00:00'
+  - title: WEF 2026
+    url: https://patrickarmstrong.ca/2026/01/23/wef-2026/
+    text: Instead of the usual smugfest we had a number of speakers – not just the Americans
+      – say that the WEF-view was a bust. In this regard I suggest this written eight
+      years ago WHY MOSCOW’S FOREIGN PHILOSOPHY IS “WESTPHALIAN” The “Westphalian system”
+      was a brutally taught lesson. Maybe a series of unbroken failure, capped by more
+      brutal wars, has set the triumphalists, the exceptionalists, normally autobasting
+      in the sauce of righteousness at Davos, on the long painful path of re-learning
+      it. Cuius regio, eius religio . Not just religion, of course. PS China was also
+      an exceptionalist power in its day. It, like Russia, has learned the hard way.
+      There’s no profit, no benefit in being the Arbiter of Morality. Only ruin at the
+      end.
+    one_sentence_summary: The article critiques the prevailing views at the World Economic
+      Forum, suggesting that speakers, including non-Americans, recognize the failures
+      of the "Westphalian system" and the dangers of moral exceptionalism, as exemplified
+      by both Russia and China.
+    paragraph_summary: The article critiques the prevailing attitudes at the World Economic
+      Forum (WEF), highlighting a shift in perspective among speakers who challenge
+      the traditional, triumphalist views often associated with American exceptionalism.
+      It references a concept from eight years ago regarding Moscow's foreign philosophy
+      as "Westphalian," suggesting that a history of failures and brutal wars has led
+      to a painful re-evaluation of these beliefs. The phrase "Cuius regio, eius religio"
+      is invoked to emphasize that the lessons learned extend beyond religion, indicating
+      that both Russia and China, once exceptionalist powers, have discovered that attempting
+      to be the "Arbiter of Morality" ultimately leads to ruin rather than benefit.
+    published: '2026-01-23T18:07:41+00:00'
   - title: TRUMP RUSSIA
     url: https://patrickarmstrong.ca/2025/07/23/trump-russia/
     text: I ‘m glad to say that I wasn’t taken in December 2017 https://patrickarmstrong.ca/2017/12/22/it-doesnt-make-any-sense/
