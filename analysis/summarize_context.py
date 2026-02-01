@@ -57,6 +57,8 @@ class Article:
         for article in articles:
             try:
                 pub_dt = datetime.datetime.fromisoformat(article.published)
+                if pub_dt.tzinfo is None:
+                    pub_dt = pub_dt.replace(tzinfo=datetime.timezone.utc)
             except Exception:
                 continue
             if pub_dt >= cutoff:
