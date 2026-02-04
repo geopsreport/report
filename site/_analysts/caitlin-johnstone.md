@@ -7,16 +7,1394 @@ description: "Australian satirical anti–war journalist; reader–funded Substa
 websites:
   - https://www.caitlinjohnst.one/
 summary: |
-  As the global geopolitical landscape continues to be shaped by entrenched power structures and contested narratives, recent independent analysis has focused on the manipulation of public discourse, the suppression of dissent, and the underlying motivations of those in positions of authority.
+  The past 24 hours have seen a continued focus on the fallout from the release of the Epstein files, with new analysis underscoring the entrenched nature of Western power structures and media narratives. **Caitlin Johnstone** asserts that, despite public outrage and political posturing, “no significant actions or changes will result from the Epstein files,” emphasizing that the existing elite remain “unaltered and unaccountable.” This sentiment is widely echoed across independent analysis, with a high degree of confidence that institutional inertia will prevail and that meaningful accountability is “most definitely” not forthcoming.
   
-  A key development highlighted in the latest reports is the growing critique of misleading narratives surrounding foreign conflicts, capitalism, and environmental issues. **Caitlin Johnstone** argues that these narratives are not only oversimplified but deliberately constructed to obscure the realities of power and perpetuate the status quo. She notes, "The lies get so tedious," emphasizing the fatigue and skepticism now widespread among the public as official stories increasingly diverge from observable facts.
+  Simultaneously, there is growing scrutiny of Western media’s portrayal of the Epstein affair. **Caitlin Johnstone** highlights a coordinated effort by major outlets to frame Epstein as a Russian agent, despite documents suggesting Israeli intelligence links. She points to sensational headlines in the Daily Mail and The Telegraph as evidence of this narrative management, suggesting that the intent is to deflect attention from uncomfortable truths about Western intelligence operations. The majority view among analysts is that this media spin is deliberate and “most definitely” aimed at protecting core Western interests.
   
-  In Australia, the debate over free speech and protest rights has intensified. The lack of constitutional speech protections is being leveraged by political leaders to justify restrictive measures. **Johnstone** specifically criticizes New South Wales Premier Chris Minns for using this legal gap to suppress dissent, particularly protests against alleged genocide. She warns that such actions set a dangerous precedent, stating, "We should be more hostile to speech regulation, not less," reflecting a growing concern that these policies could be weaponized against any form of political opposition.
+  On the domestic front, a viral video of a delivery robot navigating around a homeless man has sparked debate about the intersection of technology, corporate priorities, and social neglect. **Tim Foley** interprets the scene as “a stark representation of modern western civilization’s troubling intersection of suffering, apathy, and corporate greed.” This incident is being widely discussed as emblematic of broader systemic indifference to social issues, reinforcing the perception of a society increasingly shaped by technological advancement at the expense of human welfare.
   
-  On a broader level, the analysis delves into the psychology of those who seek power and wealth. **Johnstone** contends that individuals driven to rule or amass vast fortunes are often motivated by unhealthy impulses, rather than genuine public service or wisdom. She contrasts this with the efforts of compassionate actors who work to dismantle oppressive systems, suggesting that the concentration of power remains a central obstacle to meaningful change.
-  
-  Looking forward, the prevailing trend is a deepening mistrust of official narratives and a heightened awareness of the mechanisms used to control public opinion and suppress dissent. It is quite likely—with high confidence—that these tensions will continue to escalate, especially as governments respond to criticism with further regulatory crackdowns. The pushback against speech regulation in Australia is expected to intensify, and skepticism toward elite-driven narratives will most definitely persist, fueling further demands for transparency and accountability in both domestic and international affairs.
+  In summary, the dominant trends are a deepening public cynicism regarding elite accountability, intensified media manipulation of controversial narratives, and a growing awareness of the social costs of technological progress. Looking ahead, it is “most definitely” expected that institutional resistance to change will persist, media narratives will continue to be tightly managed, and public frustration with systemic inequality and neglect will remain high.
 articles:
+  - title: Please Understand That Nothing Will Be Done About The Epstein Files
+    url: https://www.caitlinjohnst.one/p/please-understand-that-nothing-will
+    text: 'Reading by Tim Foley : Subscribe now I need you to understand that nothing
+      is going to be done about anything in the Epstein files. Nothing. The people in
+      the documents will suffer no consequences. The institutions responsible for the
+      abuses you’ve learned about will not change anything about how they operate. Your
+      government will change absolutely nothing about its policies and behavior. Nothing
+      will be done if you vote in the other political party. Nothing will be done if
+      you vote in new politicians. Nothing will be done if you write letters to your
+      senators and representatives. Nothing will be done if you hold protests outside
+      government buildings. No meaningful laws will be passed. No prosecutions of any
+      meaningful consequence will occur. Don’t believe me? Just watch and pay attention.
+      The power structure which birthed the Epstein abuses is not going to do anything
+      about the Epstein abuses. The only thing that might possibly change is that some
+      people may become radicalized against that power structure. That’s the only real
+      benefit that might come out of these Epstein releases the public has been demanding
+      for years. That a few more eyes might get opened to how creepy and evil the people
+      in charge of their society actually are. How creepy and evil capitalism and the
+      western empire are. How creepy and evil Israel and Zionism are. That the collective
+      might become a bit more aware that we live in a dystopia which elevates the very
+      worst among us to positions of leadership and control. That’s it. That’s the only
+      positive change that might come out of all this. Our rulers won’t do anything
+      to help right the wrongs, but the people might become a bit more ready and willing
+      to overthrow our rulers. That’s the only way health and humanity is going to win
+      this one. By waking up to reality one pair of eyelids at a time and realizing
+      that the reason everything is fucked is because we live under a fucked up system
+      which elevates fucked up people, and we’re not going to have a healthy world until
+      we abolish the fucked up system that put the fucked up people in power. The Epstein
+      releases won’t change the abusiveness of the system. But they might nudge people
+      toward dismantling that system. ___________________ Caitlin’s Newsletter is a
+      reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article asserts that no significant actions or changes
+      will result from the Epstein files, as the existing power structures will remain
+      unaltered and unaccountable, regardless of political actions or public protests.
+    paragraph_summary: In Tim Foley's article, he argues that no meaningful actions
+      will be taken regarding the Epstein files, asserting that the individuals and
+      institutions implicated will face no consequences and that government policies
+      will remain unchanged regardless of political shifts or public protests. He emphasizes
+      that the power structures responsible for the abuses will not address the issues,
+      and the only potential outcome of the revelations may be a heightened awareness
+      among the public about the corrupt nature of those in power and the systems that
+      support them. Ultimately, Foley suggests that the only hope for change lies in
+      the public becoming more conscious of the dystopian reality they live in, potentially
+      leading to a collective desire to challenge and overthrow the existing power dynamics.
+    published: '2026-02-04T01:18:42+00:00'
+  - title: Please Understand That Nothing Will Be Done About The Epstein Files
+    url: https://www.caitlinjohnst.one/p/please-understand-that-nothing-will
+    text: 'Reading by Tim Foley : Subscribe now I need you to understand that nothing
+      is going to be done about anything in the Epstein files. Nothing. The people in
+      the documents will suffer no consequences. The institutions responsible for the
+      abuses you’ve learned about will not change anything about how they operate. Your
+      government will change absolutely nothing about its policies and behavior. Nothing
+      will be done if you vote in the other political party. Nothing will be done if
+      you vote in new politicians. Nothing will be done if you write letters to your
+      senators and representatives. Nothing will be done if you hold protests outside
+      government buildings. No meaningful laws will be passed. No prosecutions of any
+      meaningful consequence will occur. Don’t believe me? Just watch and pay attention.
+      The power structure which birthed the Epstein abuses is not going to do anything
+      about the Epstein abuses. The only thing that might possibly change is that some
+      people may become radicalized against that power structure. That’s the only real
+      benefit that might come out of these Epstein releases the public has been demanding
+      for years. That a few more eyes might get opened to how creepy and evil the people
+      in charge of their society actually are. How creepy and evil capitalism and the
+      western empire are. How creepy and evil Israel and Zionism are. That the collective
+      might become a bit more aware that we live in a dystopia which elevates the very
+      worst among us to positions of leadership and control. That’s it. That’s the only
+      positive change that might come out of all this. Our rulers won’t do anything
+      to help right the wrongs, but the people might become a bit more ready and willing
+      to overthrow our rulers. That’s the only way health and humanity is going to win
+      this one. By waking up to reality one pair of eyelids at a time and realizing
+      that the reason everything is fucked is because we live under a fucked up system
+      which elevates fucked up people, and we’re not going to have a healthy world until
+      we abolish the fucked up system that put the fucked up people in power. The Epstein
+      releases won’t change the abusiveness of the system. But they might nudge people
+      toward dismantling that system. ___________________ Caitlin’s Newsletter is a
+      reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article asserts that no significant actions or changes
+      will result from the Epstein files, as the existing power structures will remain
+      unaltered and unaccountable, regardless of political actions or public protests.
+    paragraph_summary: In Tim Foley's article, he argues that no meaningful actions
+      will be taken regarding the Epstein files, asserting that the individuals and
+      institutions implicated will face no consequences and that government policies
+      will remain unchanged regardless of political shifts or public protests. He emphasizes
+      that the power structures responsible for the abuses will not address the issues,
+      and the only potential outcome of the revelations may be a heightened awareness
+      among the public about the corrupt nature of those in power and the systems that
+      support them. Ultimately, Foley suggests that the only hope for change lies in
+      the public becoming more conscious of the dystopian reality they live in, potentially
+      leading to a collective desire to challenge and overthrow the existing power dynamics.
+    published: '2026-02-04T01:18:42+00:00'
+  - title: Meditations On A Delivery Robot Steering To Avoid A Homeless Man On The Sidewalk
+    url: https://www.caitlinjohnst.one/p/meditations-on-a-delivery-robot-steering
+    text: 'Reading by Tim Foley : Subscribe now I saw a video of a food delivery robot
+      navigating around the body of a homeless person lying on the sidewalk, and I can’t
+      stop thinking about it. This video is as close to a self-portrait of western civilization
+      as it gets. This is who we are. This is where we’re at. Might as well have giant
+      letters with a big red arrow saying “YOU ARE HERE” overtop it. It captures so
+      perfectly the creepy dance between suffering, apathy, frivolity and corporate
+      profiteering that makes our particular dystopia so distinctive, in just a few
+      short seconds of footage. This is the dance that makes the empire go round. It’s
+      got everything: - A man splayed out on the concrete because it hurts to be human
+      in this global ghost town, and because he was unsuccessful at becoming a productive
+      gear-turner in the capitalist machine, and because social safety nets have been
+      stripped bare in order to help millionaires become billionaires. - Automation
+      being used to eliminate workers’ wages for the maximization of corporate profits,
+      when it could be getting used to bring about a permanent end to toil and poverty
+      for the entire human species. - Technological innovation stagnating at fast food
+      delivery robots and predatory service apps instead of inventions which help save
+      our biosphere, provide for the needful, heal the sick and improve our quality
+      of life, because sending someone a Big Mac in a snackbot through an app will generate
+      profits, while making the world a better place will not. - The machine calmly
+      navigating around the unfortunate soul on the pavement in the same way all the
+      human pedestrians have been doing all day, because that’s what we all learn to
+      do in a society which casts those who can’t keep up to the side of the road like
+      so much refuse. This is where we are. This is what we have become. That robot
+      steering its way around that man on the sidewalk is revealing more truth about
+      the kind of world we are living in than you will ever receive from the corporate
+      news media. That robot has the real story. That robot is giving you the real on-the-ground
+      scoop on what’s really going on here. That robot is a better reporter than Jake
+      Tapper. It certainly has more journalistic integrity. We’re all following that
+      robot off a cliff, into an abyss of madness and oblivion. __________________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. The best way to make sure
+      you see everything I write is to get on my free mailing list . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      social media, books, merch, and audio/video versions of each article . All my
+      work is free to bootleg and use in any way, shape or form; republish it, translate
+      it, use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: Tim Foley reflects on a video of a food delivery robot navigating
+      around a homeless person, highlighting it as a stark representation of modern
+      western civilization's troubling intersection of suffering, apathy, and corporate
+      greed.
+    paragraph_summary: In his article, Tim Foley reflects on a video of a food delivery
+      robot maneuvering around a homeless person lying on the sidewalk, using it as
+      a stark metaphor for the state of Western civilization. He argues that this scene
+      encapsulates the disturbing interplay of suffering, apathy, and corporate greed
+      that characterizes modern society. Foley highlights the plight of individuals
+      marginalized by a capitalist system that prioritizes profit over human welfare,
+      illustrating how automation is often employed to replace workers rather than alleviate
+      poverty. He critiques the stagnation of technological innovation, which focuses
+      on trivial conveniences rather than meaningful advancements that could improve
+      lives and the environment. Ultimately, the robot's indifferent navigation around
+      the homeless man symbolizes society's collective desensitization to those who
+      are unable to keep pace with the demands of capitalism.
+    published: '2026-02-03T11:58:21+00:00'
+  - title: Meditations On A Delivery Robot Steering To Avoid A Homeless Man On The Sidewalk
+    url: https://www.caitlinjohnst.one/p/meditations-on-a-delivery-robot-steering
+    text: 'Reading by Tim Foley : Subscribe now I saw a video of a food delivery robot
+      navigating around the body of a homeless person lying on the sidewalk, and I can’t
+      stop thinking about it. This video is as close to a self-portrait of western civilization
+      as it gets. This is who we are. This is where we’re at. Might as well have giant
+      letters with a big red arrow saying “YOU ARE HERE” overtop it. It captures so
+      perfectly the creepy dance between suffering, apathy, frivolity and corporate
+      profiteering that makes our particular dystopia so distinctive, in just a few
+      short seconds of footage. This is the dance that makes the empire go round. It’s
+      got everything: - A man splayed out on the concrete because it hurts to be human
+      in this global ghost town, and because he was unsuccessful at becoming a productive
+      gear-turner in the capitalist machine, and because social safety nets have been
+      stripped bare in order to help millionaires become billionaires. - Automation
+      being used to eliminate workers’ wages for the maximization of corporate profits,
+      when it could be getting used to bring about a permanent end to toil and poverty
+      for the entire human species. - Technological innovation stagnating at fast food
+      delivery robots and predatory service apps instead of inventions which help save
+      our biosphere, provide for the needful, heal the sick and improve our quality
+      of life, because sending someone a Big Mac in a snackbot through an app will generate
+      profits, while making the world a better place will not. - The machine calmly
+      navigating around the unfortunate soul on the pavement in the same way all the
+      human pedestrians have been doing all day, because that’s what we all learn to
+      do in a society which casts those who can’t keep up to the side of the road like
+      so much refuse. This is where we are. This is what we have become. That robot
+      steering its way around that man on the sidewalk is revealing more truth about
+      the kind of world we are living in than you will ever receive from the corporate
+      news media. That robot has the real story. That robot is giving you the real on-the-ground
+      scoop on what’s really going on here. That robot is a better reporter than Jake
+      Tapper. It certainly has more journalistic integrity. We’re all following that
+      robot off a cliff, into an abyss of madness and oblivion. __________________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. The best way to make sure
+      you see everything I write is to get on my free mailing list . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      social media, books, merch, and audio/video versions of each article . All my
+      work is free to bootleg and use in any way, shape or form; republish it, translate
+      it, use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: Tim Foley reflects on a video of a food delivery robot navigating
+      around a homeless person, highlighting it as a stark representation of modern
+      western civilization's troubling intersection of suffering, apathy, and corporate
+      greed.
+    paragraph_summary: In his article, Tim Foley reflects on a video of a food delivery
+      robot maneuvering around a homeless person lying on the sidewalk, using it as
+      a stark metaphor for the state of Western civilization. He argues that this scene
+      encapsulates the disturbing interplay of suffering, apathy, and corporate greed
+      that characterizes modern society. Foley highlights the plight of individuals
+      marginalized by a capitalist system that prioritizes profit over human welfare,
+      illustrating how automation is often employed to replace workers rather than alleviate
+      poverty. He critiques the stagnation of technological innovation, which focuses
+      on trivial conveniences rather than meaningful advancements that could improve
+      lives and the environment. Ultimately, the robot's indifferent navigation around
+      the homeless man symbolizes society's collective desensitization to those who
+      are unable to keep pace with the demands of capitalism.
+    published: '2026-02-03T11:58:21+00:00'
+  - title: The Western Press Are Trying To Spin Epstein As A RUSSIAN Agent
+    url: https://www.caitlinjohnst.one/p/the-western-press-are-trying-to-spin
+    text: 'Reading by Tim Foley : Subscribe now Epstein documents have been confirming
+      for months that he was clearly and undeniably an Israeli intelligence operative,
+      which the latest round of releases have strongly reinforced . So naturally the
+      western media are running with the story that Epstein worked for Vladimir Putin.
+      A new Daily Mail article is headlined, “Epstein’s sex empire was ‘KGB honeytrap’:
+      Paedophile financier had multiple talks with Putin after conviction — with Russian
+      girls flown in to harvest ‘kompromat’ on world-famous figures.” The Daily Mail
+      is owned and controlled by billionaire British aristocrat Jonathan Harold Esmond
+      Vere Harmsworth, 4th Viscount Rothermere, who was the subject of a recent Guardian
+      article titled “ Move over, Murdoch: will Lord Rothermere be Britain’s most powerful
+      media mogul? ” A Headline from The Telegraph blares “ Epstein’s links to Putin
+      and Kremlin spies raise fears he was Russian agent .” The Telegraph is owned and
+      controlled by British billionaire Sir Frederick Barclay. A headline by Rupert
+      Murdoch’s The Sun asks, “ As FBI files reveal fake passport, secret recordings
+      and links to the KGB and Putin — was Jeffrey Epstein a Russian SPY? ” It should
+      here be noted that according to Betteridge’s Law of Headlines , “Any headline
+      that ends in a question mark can be answered by the word no .” “ Emails reveal
+      new theory about whom Jeffrey Epstein was really working for ,” reads a headline
+      from Murdoch’s New York Post, with author Anthony Blair writing that “Emails showing
+      unnamed sources discussing meetings between Epstein and the Russian president
+      are prompting questions about whether the disgraced Wall Street figure may have
+      trafficked girls from Russia in a state-backed effort to run the world’s ‘largest
+      honeytrap’ to ensnare the rich and the powerful.” Imperial propagandist Andrew
+      Marr is saying on LBC that there are now “growing suspicions of a Russian connection”
+      to Epstein, suggesting that the financier’s mysterious fortune must have come
+      from Moscow because “he filmed and taped powerful western leaders in deeply compromising
+      situations.” This is of course ridiculous. Epstein is a known intelligence operative
+      for the state of Israel, not Russia. This is an established fact, and has been
+      for some time. Back in November we discussed how Drop Site News had been publishing
+      reports about Epstein’s intelligence ties under headlines like “ Israeli Spy Stayed
+      for Weeks at a Time With Jeffrey Epstein in Manhattan ”, “ Jeffrey Epstein Helped
+      Broker Israeli Security Agreement With Mongolia ”, “ Jeffrey Epstein and the Mossad:
+      How The Sex-Trafficker Helped Israel Build a Backchannel to Russia Amid Syrian
+      Civil War ”, and “ Jeffrey Epstein Helped Israel Sell a Surveillance State to
+      Côte d’Ivoire ”. Drop Site’s Ryan Grim recently noted on Twitter that the latest
+      Epstein files released by the DOJ make this an even more conclusively established
+      fact than it already was. “One of the main arguments mainstream media figures
+      make in private as to why they haven’t been able to follow Drop Site’s reporting
+      on Epstein and his links to US and Israeli intel is that a lot of the documents
+      we relied on are leaked and not confirmed officially by the government,” Grim
+      said. “With this latest DOJ dump, many of the emails are now confirmed 100% as
+      authentic, so that excuse vanishes. Let’s see if they can report it now.” And,
+      of course, they can’t report it now, for the same reason they’re presently trying
+      to spin Epstein as a Russian agent. The mass media do not exist to report verified
+      news stories, they exist to promote the information interests of the western empire
+      and the oligarchs who steer it. It certainly does not serve the interests of the
+      oligarchs and empire managers to have people reading the Epstein files with the
+      view that he was an Israeli operative conducting his abuses and manipulations
+      at the highest levels of society with the blessings of the western intelligence
+      cartel. So of course they’re scrambling to make it about Russia. _________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: Recent documents suggest Jeffrey Epstein was an Israeli intelligence
+      operative, yet Western media are framing him as a Russian agent with ties to Vladimir
+      Putin, as highlighted by sensational headlines from outlets like the Daily Mail
+      and The Telegraph.
+    paragraph_summary: Recent documents have reinforced claims that Jeffrey Epstein
+      was an Israeli intelligence operative, yet Western media outlets are focusing
+      on narratives suggesting he had ties to Vladimir Putin and Russian intelligence.
+      Articles from publications like the Daily Mail, The Telegraph, and The Sun speculate
+      about Epstein's connections to the Kremlin, suggesting he may have been involved
+      in a "KGB honeytrap" to gather compromising information on influential figures.
+      These stories, often sensationalized, are influenced by the ownership of these
+      media outlets by wealthy individuals, raising questions about their motivations.
+      Despite the proliferation of theories regarding Epstein's affiliations, skepticism
+      remains, particularly regarding the validity of claims that he was a Russian spy,
+      as highlighted by the adage that any headline ending in a question mark can often
+      be answered with a "no."
+    published: '2026-02-03T02:10:02+00:00'
+  - title: The Western Press Are Trying To Spin Epstein As A RUSSIAN Agent
+    url: https://www.caitlinjohnst.one/p/the-western-press-are-trying-to-spin
+    text: 'Reading by Tim Foley : Subscribe now Epstein documents have been confirming
+      for months that he was clearly and undeniably an Israeli intelligence operative,
+      which the latest round of releases have strongly reinforced . So naturally the
+      western media are running with the story that Epstein worked for Vladimir Putin.
+      A new Daily Mail article is headlined, “Epstein’s sex empire was ‘KGB honeytrap’:
+      Paedophile financier had multiple talks with Putin after conviction — with Russian
+      girls flown in to harvest ‘kompromat’ on world-famous figures.” The Daily Mail
+      is owned and controlled by billionaire British aristocrat Jonathan Harold Esmond
+      Vere Harmsworth, 4th Viscount Rothermere, who was the subject of a recent Guardian
+      article titled “ Move over, Murdoch: will Lord Rothermere be Britain’s most powerful
+      media mogul? ” A Headline from The Telegraph blares “ Epstein’s links to Putin
+      and Kremlin spies raise fears he was Russian agent .” The Telegraph is owned and
+      controlled by British billionaire Sir Frederick Barclay. A headline by Rupert
+      Murdoch’s The Sun asks, “ As FBI files reveal fake passport, secret recordings
+      and links to the KGB and Putin — was Jeffrey Epstein a Russian SPY? ” It should
+      here be noted that according to Betteridge’s Law of Headlines , “Any headline
+      that ends in a question mark can be answered by the word no .” “ Emails reveal
+      new theory about whom Jeffrey Epstein was really working for ,” reads a headline
+      from Murdoch’s New York Post, with author Anthony Blair writing that “Emails showing
+      unnamed sources discussing meetings between Epstein and the Russian president
+      are prompting questions about whether the disgraced Wall Street figure may have
+      trafficked girls from Russia in a state-backed effort to run the world’s ‘largest
+      honeytrap’ to ensnare the rich and the powerful.” Imperial propagandist Andrew
+      Marr is saying on LBC that there are now “growing suspicions of a Russian connection”
+      to Epstein, suggesting that the financier’s mysterious fortune must have come
+      from Moscow because “he filmed and taped powerful western leaders in deeply compromising
+      situations.” This is of course ridiculous. Epstein is a known intelligence operative
+      for the state of Israel, not Russia. This is an established fact, and has been
+      for some time. Back in November we discussed how Drop Site News had been publishing
+      reports about Epstein’s intelligence ties under headlines like “ Israeli Spy Stayed
+      for Weeks at a Time With Jeffrey Epstein in Manhattan ”, “ Jeffrey Epstein Helped
+      Broker Israeli Security Agreement With Mongolia ”, “ Jeffrey Epstein and the Mossad:
+      How The Sex-Trafficker Helped Israel Build a Backchannel to Russia Amid Syrian
+      Civil War ”, and “ Jeffrey Epstein Helped Israel Sell a Surveillance State to
+      Côte d’Ivoire ”. Drop Site’s Ryan Grim recently noted on Twitter that the latest
+      Epstein files released by the DOJ make this an even more conclusively established
+      fact than it already was. “One of the main arguments mainstream media figures
+      make in private as to why they haven’t been able to follow Drop Site’s reporting
+      on Epstein and his links to US and Israeli intel is that a lot of the documents
+      we relied on are leaked and not confirmed officially by the government,” Grim
+      said. “With this latest DOJ dump, many of the emails are now confirmed 100% as
+      authentic, so that excuse vanishes. Let’s see if they can report it now.” And,
+      of course, they can’t report it now, for the same reason they’re presently trying
+      to spin Epstein as a Russian agent. The mass media do not exist to report verified
+      news stories, they exist to promote the information interests of the western empire
+      and the oligarchs who steer it. It certainly does not serve the interests of the
+      oligarchs and empire managers to have people reading the Epstein files with the
+      view that he was an Israeli operative conducting his abuses and manipulations
+      at the highest levels of society with the blessings of the western intelligence
+      cartel. So of course they’re scrambling to make it about Russia. _________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: Recent documents suggest Jeffrey Epstein was an Israeli intelligence
+      operative, yet Western media are framing him as a Russian agent with ties to Vladimir
+      Putin, as highlighted by sensational headlines from outlets like the Daily Mail
+      and The Telegraph.
+    paragraph_summary: Recent documents have reinforced claims that Jeffrey Epstein
+      was an Israeli intelligence operative, yet Western media outlets are focusing
+      on narratives suggesting he had ties to Vladimir Putin and Russian intelligence.
+      Articles from publications like the Daily Mail, The Telegraph, and The Sun speculate
+      about Epstein's connections to the Kremlin, suggesting he may have been involved
+      in a "KGB honeytrap" to gather compromising information on influential figures.
+      These stories, often sensationalized, are influenced by the ownership of these
+      media outlets by wealthy individuals, raising questions about their motivations.
+      Despite the proliferation of theories regarding Epstein's affiliations, skepticism
+      remains, particularly regarding the validity of claims that he was a Russian spy,
+      as highlighted by the adage that any headline ending in a question mark can often
+      be answered with a "no."
+    published: '2026-02-03T02:10:02+00:00'
+  - title: Shine
+    url: https://www.caitlinjohnst.one/p/shine
+    text: 'Reading by Caitlin Johnstone : Subscribe now Smoke and sky spiders fill the
+      air as missiles smash into Gaza and powerful men drive needles into the flesh
+      of young girls. Turns out Chomsky partied with Epstein, so now I have to take
+      up vaping and go fill a shoebox with polaroid photos of dead birds in car parks.
+      I’ll pretend I’m doing it ironically so no one mocks my prayer cards for a dying
+      world. Sometimes the Buddha looks like the Buddha. Sometimes he looks like bleached
+      coral reefs, or rapefinger plutocrats with pointy teeth. Sometimes he looks like
+      a woman in her early fifties sobbing snot-nosed and red-faced at the cruelty of
+      it all in pajama bottoms and a Pink Floyd t-shirt. The war drums are getting louder,
+      and the bank boys are getting horny again, and the flesh of the innocent is so
+      soft and so easy to digest, and the darkness hides so much, and the light makes
+      so little difference. But we shine it anyway. We shine it anyway. ________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature photo by Caitlin Johnstone (public domain).'
+    one_sentence_summary: Caitlin Johnstone's article reflects on the grim realities
+      of war and societal cruelty, using vivid imagery and personal introspection to
+      convey a sense of despair while emphasizing the importance of maintaining hope
+      and light in dark times.
+    paragraph_summary: In her article, Caitlin Johnstone reflects on the grim realities
+      of war and societal cruelty, using vivid imagery to convey her disillusionment
+      with powerful figures and the state of the world. She juxtaposes the horrors of
+      violence and exploitation with moments of personal vulnerability, illustrating
+      the emotional toll of witnessing suffering. Despite the overwhelming darkness,
+      she emphasizes the importance of maintaining hope and light, urging readers to
+      continue shining amidst despair. The piece serves as a poignant commentary on
+      the complexities of human experience and the struggle to find meaning in a chaotic
+      world.
+    published: '2026-02-02T13:00:03+00:00'
+  - title: Shine
+    url: https://www.caitlinjohnst.one/p/shine
+    text: 'Reading by Caitlin Johnstone : Subscribe now Smoke and sky spiders fill the
+      air as missiles smash into Gaza and powerful men drive needles into the flesh
+      of young girls. Turns out Chomsky partied with Epstein, so now I have to take
+      up vaping and go fill a shoebox with polaroid photos of dead birds in car parks.
+      I’ll pretend I’m doing it ironically so no one mocks my prayer cards for a dying
+      world. Sometimes the Buddha looks like the Buddha. Sometimes he looks like bleached
+      coral reefs, or rapefinger plutocrats with pointy teeth. Sometimes he looks like
+      a woman in her early fifties sobbing snot-nosed and red-faced at the cruelty of
+      it all in pajama bottoms and a Pink Floyd t-shirt. The war drums are getting louder,
+      and the bank boys are getting horny again, and the flesh of the innocent is so
+      soft and so easy to digest, and the darkness hides so much, and the light makes
+      so little difference. But we shine it anyway. We shine it anyway. ________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature photo by Caitlin Johnstone (public domain).'
+    one_sentence_summary: Caitlin Johnstone's article reflects on the grim realities
+      of war and societal cruelty, using vivid imagery and personal introspection to
+      convey a sense of despair while emphasizing the importance of maintaining hope
+      and light in dark times.
+    paragraph_summary: In her article, Caitlin Johnstone reflects on the grim realities
+      of war and societal cruelty, using vivid imagery to convey her disillusionment
+      with powerful figures and the state of the world. She juxtaposes the horrors of
+      violence and exploitation with moments of personal vulnerability, illustrating
+      the emotional toll of witnessing suffering. Despite the overwhelming darkness,
+      she emphasizes the importance of maintaining hope and light, urging readers to
+      continue shining amidst despair. The piece serves as a poignant commentary on
+      the complexities of human experience and the struggle to find meaning in a chaotic
+      world.
+    published: '2026-02-02T13:00:03+00:00'
+  - title: Dissecting The Belief That The US Should Forcibly Remove Tyrannical Governments
+    url: https://www.caitlinjohnst.one/p/dissecting-the-belief-that-the-us
+    text: 'Reading by Tim Foley : Subscribe now “Government X does bad things” and “therefore
+      the US should forcibly overthrow Government X” are two completely different claims.
+      Propagandists keep acting like they’re the same claim and like the second claim
+      naturally follows the first, and I’m seeing far too many people accepting this
+      manipulation without question. They are not the same claim. They’re entirely unrelated.
+      It should not be necessary to explain this to grown adults, but here we are. Even
+      if we accept as fact all the claims about how badly the US-targeted government
+      is behaving, and even if we ignore the obvious fact that unilateral US regime
+      change wars are against international law , there is still no valid reason to
+      accept that a government doing bad things justifies US regime change interventionism.
+      Just because a foreign government has done bad things does not mean it would be
+      good if another government took military action to overthrow them. This is uniquely
+      true of the United States, who is quantifiably the single most tyrannical government
+      on earth, and whose regime change interventionism reliably causes more death,
+      suffering and abuse than its proponents claimed they were trying to stop. The
+      United States is the very last government on earth who has any business engaging
+      in humanitarian interventionism. Literally dead last. No other government has
+      been responsible for more catastrophic military actions justified under humanitarian
+      pretenses than Washington and its network of allies and proxies. Most of the violence,
+      chaos and instability we’ve seen in the middle east in recent decades has been
+      the fallout from prior western interventionism under the leadership of the United
+      States. Dropping a Jewish ethnostate on top of a pre-existing civilization, installing
+      puppet regimes, setting up military bases, invading Iraq, backing the Saudi genocide
+      in Yemen, deliberately fomenting violent uprisings in Libya and Syria, and countless
+      other interventions have kept the middle east from following the rest of humanity
+      into a state of relative peace and stability after the second world war. “Therefore
+      the US should forcibly overthrow Government X” also doesn’t naturally follow from
+      “Government X does bad things” because the US generally doesn’t overthrow governments
+      who do bad things. A majority of the world’s dictatorships are armed and supported
+      by the United States. There are many, many tyrannical governments in our world
+      whose abuses you hardly ever hear about, because they are not enemies of the US
+      empire. You don’t hear western media and western governments constantly shrieking
+      about the mass atrocities of Saudi Arabia, the UAE and other tyrannical Gulf state
+      monarchies, for example, because they are aligned with the global interests of
+      the US hegemon. This shows that the US never actually attacks countries to stop
+      their governments from doing bad things. That might be the excuse, but it’s never
+      the reason. The governments targeted by the United States do tend to be more authoritarian
+      than the western liberal ideal because if they weren’t controlling their country
+      with an iron fist they would have already folded to US efforts to absorb them
+      into the imperial power umbrella a long time ago, but that’s never the real reason
+      for targeting them. The real reason is global hegemony. The US never attacks foreign
+      governments because they are doing bad things, it only ever attacks them for being
+      disobedient and failing to kiss the imperial ring. It is therefore crazy and stupid
+      to pretend “Government X does bad things” should naturally give rise to the expectation
+      that the US should forcibly overthrow that government. The US never deposes foreign
+      governments for doing bad things, and when it does depose them it reliably leads
+      to far more chaos, suffering and destruction than if it had just minded its own
+      affairs. Propagandists rely on repetition, echo chambers, information dominance
+      and narrative distortion to manipulate our minds. But they also rely on our own
+      lack of basic critical thinking skills. A little robust examination of our underlying
+      assumptions goes a long way. _______________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Department of War (public
+      domain) .'
+    one_sentence_summary: The article argues that the assertion that a government's
+      wrongdoing justifies U.S. military intervention to overthrow it is a flawed and
+      manipulative claim, emphasizing that these two ideas are fundamentally unrelated.
+    paragraph_summary: In his article, Tim Foley argues against the common narrative
+      that the existence of a government committing atrocities justifies U.S. intervention
+      and regime change. He emphasizes that the two claims—one about a government's
+      wrongdoing and the other advocating for U.S. military action to overthrow it—are
+      fundamentally different and should not be conflated. Foley critiques the U.S.
+      for its history of interventionism, asserting that it is the most tyrannical government
+      globally, responsible for more suffering and chaos than the regimes it seeks to
+      replace. He contends that U.S. actions, often framed as humanitarian interventions,
+      have led to significant violence and instability, particularly in the Middle East,
+      and that the U.S. has no moral authority to engage in such interventions.
+    published: '2026-02-02T01:06:06+00:00'
+  - title: Dissecting The Belief That The US Should Forcibly Remove Tyrannical Governments
+    url: https://www.caitlinjohnst.one/p/dissecting-the-belief-that-the-us
+    text: 'Reading by Tim Foley : Subscribe now “Government X does bad things” and “therefore
+      the US should forcibly overthrow Government X” are two completely different claims.
+      Propagandists keep acting like they’re the same claim and like the second claim
+      naturally follows the first, and I’m seeing far too many people accepting this
+      manipulation without question. They are not the same claim. They’re entirely unrelated.
+      It should not be necessary to explain this to grown adults, but here we are. Even
+      if we accept as fact all the claims about how badly the US-targeted government
+      is behaving, and even if we ignore the obvious fact that unilateral US regime
+      change wars are against international law , there is still no valid reason to
+      accept that a government doing bad things justifies US regime change interventionism.
+      Just because a foreign government has done bad things does not mean it would be
+      good if another government took military action to overthrow them. This is uniquely
+      true of the United States, who is quantifiably the single most tyrannical government
+      on earth, and whose regime change interventionism reliably causes more death,
+      suffering and abuse than its proponents claimed they were trying to stop. The
+      United States is the very last government on earth who has any business engaging
+      in humanitarian interventionism. Literally dead last. No other government has
+      been responsible for more catastrophic military actions justified under humanitarian
+      pretenses than Washington and its network of allies and proxies. Most of the violence,
+      chaos and instability we’ve seen in the middle east in recent decades has been
+      the fallout from prior western interventionism under the leadership of the United
+      States. Dropping a Jewish ethnostate on top of a pre-existing civilization, installing
+      puppet regimes, setting up military bases, invading Iraq, backing the Saudi genocide
+      in Yemen, deliberately fomenting violent uprisings in Libya and Syria, and countless
+      other interventions have kept the middle east from following the rest of humanity
+      into a state of relative peace and stability after the second world war. “Therefore
+      the US should forcibly overthrow Government X” also doesn’t naturally follow from
+      “Government X does bad things” because the US generally doesn’t overthrow governments
+      who do bad things. A majority of the world’s dictatorships are armed and supported
+      by the United States. There are many, many tyrannical governments in our world
+      whose abuses you hardly ever hear about, because they are not enemies of the US
+      empire. You don’t hear western media and western governments constantly shrieking
+      about the mass atrocities of Saudi Arabia, the UAE and other tyrannical Gulf state
+      monarchies, for example, because they are aligned with the global interests of
+      the US hegemon. This shows that the US never actually attacks countries to stop
+      their governments from doing bad things. That might be the excuse, but it’s never
+      the reason. The governments targeted by the United States do tend to be more authoritarian
+      than the western liberal ideal because if they weren’t controlling their country
+      with an iron fist they would have already folded to US efforts to absorb them
+      into the imperial power umbrella a long time ago, but that’s never the real reason
+      for targeting them. The real reason is global hegemony. The US never attacks foreign
+      governments because they are doing bad things, it only ever attacks them for being
+      disobedient and failing to kiss the imperial ring. It is therefore crazy and stupid
+      to pretend “Government X does bad things” should naturally give rise to the expectation
+      that the US should forcibly overthrow that government. The US never deposes foreign
+      governments for doing bad things, and when it does depose them it reliably leads
+      to far more chaos, suffering and destruction than if it had just minded its own
+      affairs. Propagandists rely on repetition, echo chambers, information dominance
+      and narrative distortion to manipulate our minds. But they also rely on our own
+      lack of basic critical thinking skills. A little robust examination of our underlying
+      assumptions goes a long way. _______________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Department of War (public
+      domain) .'
+    one_sentence_summary: The article argues that the assertion that a government's
+      wrongdoing justifies U.S. military intervention to overthrow it is a flawed and
+      manipulative claim, emphasizing that these two ideas are fundamentally unrelated.
+    paragraph_summary: In his article, Tim Foley argues against the common narrative
+      that the existence of a government committing atrocities justifies U.S. intervention
+      and regime change. He emphasizes that the two claims—one about a government's
+      wrongdoing and the other advocating for U.S. military action to overthrow it—are
+      fundamentally different and should not be conflated. Foley critiques the U.S.
+      for its history of interventionism, asserting that it is the most tyrannical government
+      globally, responsible for more suffering and chaos than the regimes it seeks to
+      replace. He contends that U.S. actions, often framed as humanitarian interventions,
+      have led to significant violence and instability, particularly in the Middle East,
+      and that the U.S. has no moral authority to engage in such interventions.
+    published: '2026-02-02T01:06:06+00:00'
+  - title: Our Rulers Are Psychopaths And They're Making Everything Awful
+    url: https://www.caitlinjohnst.one/p/our-rulers-are-psychopaths-and-theyre
+    text: 'Reading by Tim Foley : Subscribe now I don’t know what to say today. We are
+      ruled by abusive monsters. The US is preparing for war with Iran. They’re going
+      in for the kill shot on Cuba. The latest batch of Epstein emails looks horrifying
+      . The US is full of protests because ICE keeps killing people. Israel is still
+      massacring civilians in Gaza as Australia prepares to host its president for an
+      extended visit. Reuters has confirmed that Biden officials actively obstructed
+      the circulation of internal USAID reports that Gaza was being turned into a nightmarish
+      hellscape in early 2024. There’s so much cruelty. So much abuse. You’d think all
+      this evidence that we are ruled by deranged psychopaths would unite us against
+      them, but it doesn’t. The population is more angrily, bitterly divided against
+      itself than ever. Political discourse has gotten as intensely vitriolic as I’ve
+      ever seen it as Trump supporters take their stand behind the current abuser-in-chief
+      and defend the status quo warmongering and tyranny with all their might. Discussing
+      politics on social media feels like stepping into an emotional blast furnace these
+      days. They’ve done such a good job dividing us and conquering us. It’s really
+      incredible how good at it they are. It would be awe-inspiring if it wasn’t so
+      evil and destructive. I haven’t felt like I’m in the zeitgeist recently. Usually
+      I feel like I’m surfing the crest of dissident political consciousness and can
+      provide insight and information into what’s coming up for us as a collective,
+      but everything’s been so chaotic and frenzied lately it’s like trying to ride
+      a bucking bull. I don’t know if that makes any sense to anyone but me, but that’s
+      what it feels like. I don’t really have anything to add to that right now. I try
+      to write something every day, but today all I’ve got is a feeble “There’s so much
+      cruelty, and it hurts.” It fucking hurts, man. _______________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Wikimedia Commons/The White
+      House (public domain) .'
+    one_sentence_summary: The article by Tim Foley expresses deep concern over various
+      global and domestic crises, highlighting the cruelty of political leaders and
+      the division among the populace, as they face issues like potential war with Iran,
+      violence in Gaza, and internal protests against government actions.
+    paragraph_summary: In his article, Tim Foley expresses a deep sense of despair and
+      frustration over the current state of global and domestic affairs, highlighting
+      the U.S. government's aggressive stance towards countries like Iran and Cuba,
+      the ongoing violence in Gaza, and the internal chaos stemming from political divisions
+      within the country. He notes the disturbing revelations from recent Epstein emails
+      and the protests against ICE's actions, while lamenting the lack of unity among
+      the populace in the face of such cruelty and abuse. Foley describes the political
+      discourse as increasingly toxic, with supporters of the current administration
+      fiercely defending its actions, which he views as tyrannical. He conveys a feeling
+      of disconnection from the broader political zeitgeist, likening the chaotic atmosphere
+      to trying to ride a bucking bull, ultimately concluding with a poignant acknowledgment
+      of the pervasive pain caused by these circumstances.
+    published: '2026-02-01T02:09:50+00:00'
+  - title: Our Rulers Are Psychopaths And They're Making Everything Awful
+    url: https://www.caitlinjohnst.one/p/our-rulers-are-psychopaths-and-theyre
+    text: 'Reading by Tim Foley : Subscribe now I don’t know what to say today. We are
+      ruled by abusive monsters. The US is preparing for war with Iran. They’re going
+      in for the kill shot on Cuba. The latest batch of Epstein emails looks horrifying
+      . The US is full of protests because ICE keeps killing people. Israel is still
+      massacring civilians in Gaza as Australia prepares to host its president for an
+      extended visit. Reuters has confirmed that Biden officials actively obstructed
+      the circulation of internal USAID reports that Gaza was being turned into a nightmarish
+      hellscape in early 2024. There’s so much cruelty. So much abuse. You’d think all
+      this evidence that we are ruled by deranged psychopaths would unite us against
+      them, but it doesn’t. The population is more angrily, bitterly divided against
+      itself than ever. Political discourse has gotten as intensely vitriolic as I’ve
+      ever seen it as Trump supporters take their stand behind the current abuser-in-chief
+      and defend the status quo warmongering and tyranny with all their might. Discussing
+      politics on social media feels like stepping into an emotional blast furnace these
+      days. They’ve done such a good job dividing us and conquering us. It’s really
+      incredible how good at it they are. It would be awe-inspiring if it wasn’t so
+      evil and destructive. I haven’t felt like I’m in the zeitgeist recently. Usually
+      I feel like I’m surfing the crest of dissident political consciousness and can
+      provide insight and information into what’s coming up for us as a collective,
+      but everything’s been so chaotic and frenzied lately it’s like trying to ride
+      a bucking bull. I don’t know if that makes any sense to anyone but me, but that’s
+      what it feels like. I don’t really have anything to add to that right now. I try
+      to write something every day, but today all I’ve got is a feeble “There’s so much
+      cruelty, and it hurts.” It fucking hurts, man. _______________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Wikimedia Commons/The White
+      House (public domain) .'
+    one_sentence_summary: The article by Tim Foley expresses deep concern over various
+      global and domestic crises, highlighting the cruelty of political leaders and
+      the division among the populace, as they face issues like potential war with Iran,
+      violence in Gaza, and internal protests against government actions.
+    paragraph_summary: In his article, Tim Foley expresses a deep sense of despair and
+      frustration over the current state of global and domestic affairs, highlighting
+      the U.S. government's aggressive stance towards countries like Iran and Cuba,
+      the ongoing violence in Gaza, and the internal chaos stemming from political divisions
+      within the country. He notes the disturbing revelations from recent Epstein emails
+      and the protests against ICE's actions, while lamenting the lack of unity among
+      the populace in the face of such cruelty and abuse. Foley describes the political
+      discourse as increasingly toxic, with supporters of the current administration
+      fiercely defending its actions, which he views as tyrannical. He conveys a feeling
+      of disconnection from the broader political zeitgeist, likening the chaotic atmosphere
+      to trying to ride a bucking bull, ultimately concluding with a poignant acknowledgment
+      of the pervasive pain caused by these circumstances.
+    published: '2026-02-01T02:09:50+00:00'
+  - title: '"Why Don''t You Criticize Iran??"'
+    url: https://www.caitlinjohnst.one/p/why-dont-you-criticize-iran
+    text: 'Reading by Tim Foley : Subscribe now Any time things heat up with an empire-targeted
+      government I always get people demanding to know why I’m not critical of that
+      government. “Why don’t you criticize Iran? You spend all your time criticizing
+      the west and Israel; you’re a hypocrite if you don’t criticize Iran.” It flabbergasts
+      them that I’m not saying harsh things about the latest Official Bad Guy of the
+      Day. Everyone on TV is criticizing Iran. Both mainstream political parties are
+      criticizing Iran. Their favorite mainstream political podcasters and online pundits
+      are criticizing Iran. So why isn’t Caitlin Johnstone criticizing Iran? There must
+      be something nefarious and treasonous about her. It never occurs to them that
+      a principled individual might prioritize opposing the abuses of the power structure
+      they actually live under and can actually exert some influence upon, rather than
+      impotently shouting at a foreign “regime” who has nothing to do with them. It
+      never occurs the them that the only reason we’re hearing so much about the Official
+      Bad Guy of the Day is because the US is ramping up aggressions on the targeted
+      country, and the imperial media are manufacturing consent for those hostilities.
+      It never occurs to them that this frenzied propaganda campaign is the main reason
+      the Official Bad Guy of the Day has been on their mind so much. It never occurs
+      to them to question who actually benefits from the western population chanting
+      “IRAN BAD! REGIME MUST GO!” in unison like a bunch of animatronic theme park animals
+      while the drums of war are beating louder and louder. It never occurs to them
+      that someone can simply oppose the warmongering agendas of the US empire on principle,
+      because those agendas are reliably disastrous and the US empire is the most tyrannical
+      power structure on earth. These things never occur to them because most westerners
+      spend their entire lives in a propaganda echo chamber which constantly feeds them
+      stories about how evil the western empire’s enemies are, while telling them almost
+      nothing about the empire’s own abuses. The average westerner is not even aware
+      that they live in an empire. The typical Australian thinks “I’m over here in my
+      own separate, sovereign country, and the United States is another country over
+      there doing their own thing, and also Israel is another independent country doing
+      their own thing over there, and likewise with the UK and EU and New Zealand and
+      Canada, and ever other country I’ve been taught to think favorably of.” In reality
+      they’re all member states of a giant globe-spanning power structure which functions
+      more or less as a single empire with regard to foreign policy. And they work together
+      to subvert, undermine and eventually devour the nations we’ve all been trained
+      to hate. The western press do not criticize this power structure. Westerners do
+      not learn about it in school. They don’t know it exists, so it never occurs to
+      them that it is something that can be justifiably criticized and opposed. You
+      don’t see the western press criticizing the US-centralized western empire. You
+      don’t even see them criticizing the United States as a whole. You’ll see them
+      publish criticisms of individual presidents, politicians or political parties,
+      but you hardly ever see them talking about the behavior of the abusive warmongering,
+      militarism, economic warfare and surveillance systems which persist from administration
+      to administration regardless of who happens to be in office. This is why it’s
+      so baffling to a westerner to see another westerner criticizing western warmongering
+      instead of the Official Bad Guy of the Day. They don’t normally encounter such
+      criticisms. They haven’t been trained to expect it. All they’ve been trained to
+      expect is criticism of Tehran, Putin, Hamas, Maduro, or whoever the empire happens
+      to be angriest at on any given day. So any divergence from their conditioned expectations
+      looks strange and suspicious to them. It looks like something bad is happening.
+      But it is not a sign that something bad is happening for a westerner to focus
+      their criticism on the western empire. It’s a sign that something bad is happening
+      that so few westerners ever do. I don’t criticize Iran because I do not want to
+      feed into an imperial war propaganda campaign for a horrific agenda that I do
+      not support. I want to focus my criticisms on the power structure under which
+      I actually live, because that is what one does when one is not a groveling bootlicker,
+      and because the power structure under which I live happens to be the most abusive
+      tyrant on the world stage. _______________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: Caitlin Johnstone argues that her focus on criticizing the
+      abuses of her own government rather than foreign regimes like Iran is a principled
+      stance, as she believes in addressing the power structures she can influence rather
+      than futilely condemning distant governments.
+    paragraph_summary: In his article, Tim Foley addresses the criticism he receives
+      for not condemning Iran while frequently criticizing Western governments and their
+      actions. He argues that many people fail to recognize that a principled stance
+      involves opposing the abuses of the power structures they can influence, rather
+      than targeting foreign regimes with which they have no direct connection. Foley
+      highlights that the intense focus on countries like Iran often stems from U.S.
+      media and political narratives designed to justify aggressive actions against
+      those nations, suggesting that this manufactured consent distracts from the real
+      issues at hand. He emphasizes the importance of questioning who benefits from
+      such propaganda and advocates for a consistent opposition to the warmongering
+      agendas of the U.S. empire, which he views as the most tyrannical power structure
+      globally.
+    published: '2026-01-31T02:34:38+00:00'
+  - title: '"Why Don''t You Criticize Iran??"'
+    url: https://www.caitlinjohnst.one/p/why-dont-you-criticize-iran
+    text: 'Reading by Tim Foley : Subscribe now Any time things heat up with an empire-targeted
+      government I always get people demanding to know why I’m not critical of that
+      government. “Why don’t you criticize Iran? You spend all your time criticizing
+      the west and Israel; you’re a hypocrite if you don’t criticize Iran.” It flabbergasts
+      them that I’m not saying harsh things about the latest Official Bad Guy of the
+      Day. Everyone on TV is criticizing Iran. Both mainstream political parties are
+      criticizing Iran. Their favorite mainstream political podcasters and online pundits
+      are criticizing Iran. So why isn’t Caitlin Johnstone criticizing Iran? There must
+      be something nefarious and treasonous about her. It never occurs to them that
+      a principled individual might prioritize opposing the abuses of the power structure
+      they actually live under and can actually exert some influence upon, rather than
+      impotently shouting at a foreign “regime” who has nothing to do with them. It
+      never occurs the them that the only reason we’re hearing so much about the Official
+      Bad Guy of the Day is because the US is ramping up aggressions on the targeted
+      country, and the imperial media are manufacturing consent for those hostilities.
+      It never occurs to them that this frenzied propaganda campaign is the main reason
+      the Official Bad Guy of the Day has been on their mind so much. It never occurs
+      to them to question who actually benefits from the western population chanting
+      “IRAN BAD! REGIME MUST GO!” in unison like a bunch of animatronic theme park animals
+      while the drums of war are beating louder and louder. It never occurs to them
+      that someone can simply oppose the warmongering agendas of the US empire on principle,
+      because those agendas are reliably disastrous and the US empire is the most tyrannical
+      power structure on earth. These things never occur to them because most westerners
+      spend their entire lives in a propaganda echo chamber which constantly feeds them
+      stories about how evil the western empire’s enemies are, while telling them almost
+      nothing about the empire’s own abuses. The average westerner is not even aware
+      that they live in an empire. The typical Australian thinks “I’m over here in my
+      own separate, sovereign country, and the United States is another country over
+      there doing their own thing, and also Israel is another independent country doing
+      their own thing over there, and likewise with the UK and EU and New Zealand and
+      Canada, and ever other country I’ve been taught to think favorably of.” In reality
+      they’re all member states of a giant globe-spanning power structure which functions
+      more or less as a single empire with regard to foreign policy. And they work together
+      to subvert, undermine and eventually devour the nations we’ve all been trained
+      to hate. The western press do not criticize this power structure. Westerners do
+      not learn about it in school. They don’t know it exists, so it never occurs to
+      them that it is something that can be justifiably criticized and opposed. You
+      don’t see the western press criticizing the US-centralized western empire. You
+      don’t even see them criticizing the United States as a whole. You’ll see them
+      publish criticisms of individual presidents, politicians or political parties,
+      but you hardly ever see them talking about the behavior of the abusive warmongering,
+      militarism, economic warfare and surveillance systems which persist from administration
+      to administration regardless of who happens to be in office. This is why it’s
+      so baffling to a westerner to see another westerner criticizing western warmongering
+      instead of the Official Bad Guy of the Day. They don’t normally encounter such
+      criticisms. They haven’t been trained to expect it. All they’ve been trained to
+      expect is criticism of Tehran, Putin, Hamas, Maduro, or whoever the empire happens
+      to be angriest at on any given day. So any divergence from their conditioned expectations
+      looks strange and suspicious to them. It looks like something bad is happening.
+      But it is not a sign that something bad is happening for a westerner to focus
+      their criticism on the western empire. It’s a sign that something bad is happening
+      that so few westerners ever do. I don’t criticize Iran because I do not want to
+      feed into an imperial war propaganda campaign for a horrific agenda that I do
+      not support. I want to focus my criticisms on the power structure under which
+      I actually live, because that is what one does when one is not a groveling bootlicker,
+      and because the power structure under which I live happens to be the most abusive
+      tyrant on the world stage. _______________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: Caitlin Johnstone argues that her focus on criticizing the
+      abuses of her own government rather than foreign regimes like Iran is a principled
+      stance, as she believes in addressing the power structures she can influence rather
+      than futilely condemning distant governments.
+    paragraph_summary: In his article, Tim Foley addresses the criticism he receives
+      for not condemning Iran while frequently criticizing Western governments and their
+      actions. He argues that many people fail to recognize that a principled stance
+      involves opposing the abuses of the power structures they can influence, rather
+      than targeting foreign regimes with which they have no direct connection. Foley
+      highlights that the intense focus on countries like Iran often stems from U.S.
+      media and political narratives designed to justify aggressive actions against
+      those nations, suggesting that this manufactured consent distracts from the real
+      issues at hand. He emphasizes the importance of questioning who benefits from
+      such propaganda and advocates for a consistent opposition to the warmongering
+      agendas of the U.S. empire, which he views as the most tyrannical power structure
+      globally.
+    published: '2026-01-31T02:34:38+00:00'
+  - title: The US Is Pushing So Many Regime Change Agendas It's Hard To Keep Up
+    url: https://www.caitlinjohnst.one/p/the-us-is-pushing-so-many-regime
+    text: 'Reading by Tim Foley : Subscribe now It’s just incredible how quickly and
+      aggressively the US is advancing longstanding agendas of global conquest under
+      the Trump administration. Now they’re racing to take out Cuba. The US president
+      has signed an executive order to impose new tariffs on countries which supply
+      oil to Cuba, even indirectly, which is expected to dramatically increase the pressure
+      on the already struggling island nation. This comes as Financial Times reports
+      that “Cuba only has enough oil to last 15 to 20 days at current levels of demand
+      and domestic production” after the US cut off the supply from Venezuela and Mexico
+      shelved a planned oil shipment . Trump’s order itself contains the usual excuses
+      we’ve come to expect from the empire of propaganda and lies, with its authors
+      babbling without evidence about Hamas and Hezbollah and “transnational terrorist
+      groups” receiving support from Havana, thereby making this crushing act of siege
+      warfare a self-defense measure implemented in protection of the American people.
+      We’re being asked to believe that Cuba is Hamas, so Washington needs to strangle
+      it to death in self-defense. The fact that the US has been pursuing regime change
+      in Cuba for generations, we are told, is merely a coincidence. The lies get dumber
+      and dumber with each new imperial power grab. It’s just insulting at this point.
+      Last week The Wall Street Journal published an article titled “ The U.S. Is Actively
+      Seeking Regime Change in Cuba by the End of the Year ” which cited anonymous senior
+      US officials saying they viewed the operation to remove Maduro from Caracas as
+      a “blueprint” for bringing down Havana. Here’s an excerpt: “Emboldened by the
+      U.S. ouster of Venezuelan President Nicolás Maduro, the Trump administration is
+      searching for Cuban government insiders who can help cut a deal to push out the
+      Communist regime by the end of the year, people familiar with the matter said.
+      “The Trump administration has assessed that Cuba’s economy is close to collapse
+      and that the government has never been this fragile after losing a vital benefactor
+      in Maduro, these people said. Officials don’t have a concrete plan to end the
+      Communist government that has held power on the Caribbean island for almost seven
+      decades, but they see Maduro’s capture and subsequent concessions from his allies
+      left behind as a blueprint and a warning for Cuba, senior U.S. officials said.”
+      The Wall Street Journal reports that administration officials have been meeting
+      with “Cuban exiles and civic groups in Miami and Washington” with the goal of
+      “identifying somebody inside the current government who will see the writing on
+      the wall and want to cut a deal,” in a way similar to how assets within the Maduro
+      government were recruited to facilitate his removal. In a new segment on Trump’s
+      frenzied efforts to topple Havana, CNN’s Patrick Oppmann reports from Cuba that
+      he’s “heard from a US embassy source that diplomats there have been advised to
+      quote ‘have their bags packed’ as the Trump administration explores new ways to
+      destabilize the communist-run government.” The US likes to immiserate the populations
+      of targeted nations using economic strangulation with the goal of fomenting unrest
+      and turning people against their leaders. In 2019 Trump’s previous secretary of
+      state Mike Pompeo openly acknowledged that the goal of Washington’s economic warfare
+      against Iran was to make the population so miserable that they “change the government”,
+      cheerfully citing the “economic distress” the nation had been placed under by
+      US sanctions. Economic distress has been widely cited as a primary factor in the
+      deadly protests that have rocked Iran in recent weeks. Starvation sanctions are
+      the only form of warfare where it is widely considered both normal and ethical
+      to deliberately target a civilian population with deadly force. Deliberately impoverishing
+      an entire nation so that it erupts in conflict and civil war is one of the most
+      evil things you can possibly imagine, but it’s the go-to Plan A for the US empire
+      when it comes to removing foreign leaders who refuse to kiss the imperial boot.
+      From Palestine to Lebanon to Yemen to Syria to Venezuela to Cuba to Iran, these
+      last couple of years the US has been in a mad scramble to eliminate governments
+      and resistance groups which attempt to insist on their own sovereignty. There’s
+      a new excuse every time, but the end goal is always the same: the furtherance
+      of planetary domination. The US empire is the single most tyrannical and murderous
+      power structure on this planet. If any regime is in need of changing, it’s that
+      one. _______________ Caitlin’s Newsletter is a reader-supported publication. To
+      receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via The White House (public domain).'
+    one_sentence_summary: The Trump administration is intensifying efforts to undermine
+      Cuba by imposing new tariffs on countries supplying oil to the island, exacerbating
+      its energy crisis amid claims of supporting terrorism.
+    paragraph_summary: The article by Tim Foley discusses the aggressive actions taken
+      by the Trump administration against Cuba, highlighting a new executive order that
+      imposes tariffs on countries supplying oil to the island, which is already facing
+      severe shortages. With Cuba's oil reserves dwindling to just 15 to 20 days' worth
+      of supply, the U.S. justifies these measures by linking Cuba to "transnational
+      terrorist groups" like Hamas and Hezbollah, framing the sanctions as a form of
+      self-defense. Foley criticizes this narrative as propaganda, pointing out the
+      long-standing U.S. agenda for regime change in Cuba, which has been ongoing for
+      decades. He references a Wall Street Journal article indicating that the Trump
+      administration is actively seeking to remove the Cuban government, viewing the
+      ousting of Venezuelan President Nicolás Maduro as a model for their efforts in
+      Havana.
+    published: '2026-01-30T12:23:08+00:00'
+  - title: The US Is Pushing So Many Regime Change Agendas It's Hard To Keep Up
+    url: https://www.caitlinjohnst.one/p/the-us-is-pushing-so-many-regime
+    text: 'Reading by Tim Foley : Subscribe now It’s just incredible how quickly and
+      aggressively the US is advancing longstanding agendas of global conquest under
+      the Trump administration. Now they’re racing to take out Cuba. The US president
+      has signed an executive order to impose new tariffs on countries which supply
+      oil to Cuba, even indirectly, which is expected to dramatically increase the pressure
+      on the already struggling island nation. This comes as Financial Times reports
+      that “Cuba only has enough oil to last 15 to 20 days at current levels of demand
+      and domestic production” after the US cut off the supply from Venezuela and Mexico
+      shelved a planned oil shipment . Trump’s order itself contains the usual excuses
+      we’ve come to expect from the empire of propaganda and lies, with its authors
+      babbling without evidence about Hamas and Hezbollah and “transnational terrorist
+      groups” receiving support from Havana, thereby making this crushing act of siege
+      warfare a self-defense measure implemented in protection of the American people.
+      We’re being asked to believe that Cuba is Hamas, so Washington needs to strangle
+      it to death in self-defense. The fact that the US has been pursuing regime change
+      in Cuba for generations, we are told, is merely a coincidence. The lies get dumber
+      and dumber with each new imperial power grab. It’s just insulting at this point.
+      Last week The Wall Street Journal published an article titled “ The U.S. Is Actively
+      Seeking Regime Change in Cuba by the End of the Year ” which cited anonymous senior
+      US officials saying they viewed the operation to remove Maduro from Caracas as
+      a “blueprint” for bringing down Havana. Here’s an excerpt: “Emboldened by the
+      U.S. ouster of Venezuelan President Nicolás Maduro, the Trump administration is
+      searching for Cuban government insiders who can help cut a deal to push out the
+      Communist regime by the end of the year, people familiar with the matter said.
+      “The Trump administration has assessed that Cuba’s economy is close to collapse
+      and that the government has never been this fragile after losing a vital benefactor
+      in Maduro, these people said. Officials don’t have a concrete plan to end the
+      Communist government that has held power on the Caribbean island for almost seven
+      decades, but they see Maduro’s capture and subsequent concessions from his allies
+      left behind as a blueprint and a warning for Cuba, senior U.S. officials said.”
+      The Wall Street Journal reports that administration officials have been meeting
+      with “Cuban exiles and civic groups in Miami and Washington” with the goal of
+      “identifying somebody inside the current government who will see the writing on
+      the wall and want to cut a deal,” in a way similar to how assets within the Maduro
+      government were recruited to facilitate his removal. In a new segment on Trump’s
+      frenzied efforts to topple Havana, CNN’s Patrick Oppmann reports from Cuba that
+      he’s “heard from a US embassy source that diplomats there have been advised to
+      quote ‘have their bags packed’ as the Trump administration explores new ways to
+      destabilize the communist-run government.” The US likes to immiserate the populations
+      of targeted nations using economic strangulation with the goal of fomenting unrest
+      and turning people against their leaders. In 2019 Trump’s previous secretary of
+      state Mike Pompeo openly acknowledged that the goal of Washington’s economic warfare
+      against Iran was to make the population so miserable that they “change the government”,
+      cheerfully citing the “economic distress” the nation had been placed under by
+      US sanctions. Economic distress has been widely cited as a primary factor in the
+      deadly protests that have rocked Iran in recent weeks. Starvation sanctions are
+      the only form of warfare where it is widely considered both normal and ethical
+      to deliberately target a civilian population with deadly force. Deliberately impoverishing
+      an entire nation so that it erupts in conflict and civil war is one of the most
+      evil things you can possibly imagine, but it’s the go-to Plan A for the US empire
+      when it comes to removing foreign leaders who refuse to kiss the imperial boot.
+      From Palestine to Lebanon to Yemen to Syria to Venezuela to Cuba to Iran, these
+      last couple of years the US has been in a mad scramble to eliminate governments
+      and resistance groups which attempt to insist on their own sovereignty. There’s
+      a new excuse every time, but the end goal is always the same: the furtherance
+      of planetary domination. The US empire is the single most tyrannical and murderous
+      power structure on this planet. If any regime is in need of changing, it’s that
+      one. _______________ Caitlin’s Newsletter is a reader-supported publication. To
+      receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via The White House (public domain).'
+    one_sentence_summary: The Trump administration is intensifying efforts to undermine
+      Cuba by imposing new tariffs on countries supplying oil to the island, exacerbating
+      its energy crisis amid claims of supporting terrorism.
+    paragraph_summary: The article by Tim Foley discusses the aggressive actions taken
+      by the Trump administration against Cuba, highlighting a new executive order that
+      imposes tariffs on countries supplying oil to the island, which is already facing
+      severe shortages. With Cuba's oil reserves dwindling to just 15 to 20 days' worth
+      of supply, the U.S. justifies these measures by linking Cuba to "transnational
+      terrorist groups" like Hamas and Hezbollah, framing the sanctions as a form of
+      self-defense. Foley criticizes this narrative as propaganda, pointing out the
+      long-standing U.S. agenda for regime change in Cuba, which has been ongoing for
+      decades. He references a Wall Street Journal article indicating that the Trump
+      administration is actively seeking to remove the Cuban government, viewing the
+      ousting of Venezuelan President Nicolás Maduro as a model for their efforts in
+      Havana.
+    published: '2026-01-30T12:23:08+00:00'
+  - title: Only Idiots Believe The War Propaganda About Iran
+    url: https://www.caitlinjohnst.one/p/only-idiots-believe-the-war-propaganda
+    text: 'Reading by Tim Foley : Subscribe now There is nothing you can say to me to
+      convince me that US regime change interventionism in the middle east is a swell
+      idea. There is nothing you can say to convince me that the Trump administration
+      is telling us the truth about Iran. There is nothing you can say to convince me
+      that the mass media are telling us the truth about Iran. There is nothing you
+      can say to convince me the people who just spent two years incinerating Gaza have
+      kind-hearted intentions for the Iranian people. There is nothing you can say to
+      convince me that protecting Israel is a good and desirable thing that westerners
+      should support. There is nothing you can say to convince me that the empire-like
+      globe-spanning power alliance that is loosely centralized around Washington should
+      be in charge of our world. There is nothing you can say to convince me that I
+      should help the US and Israel manufacture consent for a regime change war by criticizing
+      the Iranian government in the middle of a frenzied war propaganda campaign. It
+      is not okay to be a grown adult in the year 2026 and still believe US regime change
+      interventionism in the middle east will lead to positive outcomes. It is not okay
+      to live in a post-Iraq invasion world and still not understand that we are being
+      lied to about Iran. It is not okay to have lived through what these monsters did
+      to Libya and still believe forcibly toppling the Iranian government is a moral
+      and just cause to get behind. It is not okay to have just watched these freaks
+      turn Gaza into a gravel parking lot pervaded by the smell of rotting corpses and
+      believe they have noble intentions for the people of Iran. I don’t care if you
+      are making your pro-regime change arguments from a right wing anti-Islam perspective,
+      from a liberal humanitarian pro-democracy perspective, from a left-wing “solidarity
+      with our Persian comrades” perspective, or from an “oppose all tyranny equally”
+      anarchist perspective. Your arguments are shit, and your position is wrong. The
+      agenda to oust the Iranian government is about dominating the planet in general
+      and the middle east in particular. You might think it’s about something else,
+      but you are wrong. It’s about power and control, and all your fanciful notions
+      about freedom and democracy for the Iranian people will be instantly subordinated
+      to those goals. If this isn’t obvious to you, you’re an idiot. The goal is not
+      to bring freedom and democracy to the Iranian people. The US and Israel do not
+      permit democracy to thrive in the middle east unless they can control its outcomes,
+      as they are working to do right now in Iraq . The US and Israel are not popular
+      enough in the middle east for the people to be allowed to control their own government.
+      The goal is to either install a puppet regime in Tehran, or to balkanize the nation
+      into multiple independent states which can be easily controlled, or to plunge
+      the entire state into unmanageable chaos like they did in Libya. None of these
+      plans advance the interests of the Iranian people. If you support Trump’s regime
+      change agendas in Iran, then you support inflicting this upon the Iranian people.
+      That’s what you get under the best-case scenario. Under the worst-case scenario,
+      you get a hot war between the US and Iran which unleashes horrors you cannot possibly
+      imagine. It will make the Iraq invasion and all the fallout therefrom look like
+      an episode of Spongebob. There is nothing you can say to me to cause me to support
+      this. Call me a traitor. Call me a dictator lover. Call me an antisemite. Tell
+      me all you want to tell me about how mean and bad Iran’s leadership is. I won’t
+      care. I will dismiss you, because you are my enemy. Anyone who supports war with
+      Iran is my enemy. Anyone who would want to inflict such horrors upon the human
+      species is an enemy of humanity. I promise I will not be moved on this. I like
+      to keep an open mind, as the saying goes, but not so open my brain falls out.
+      ______________ Caitlin’s Newsletter is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber. The
+      best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The author, Tim Foley, firmly rejects the notion that U.S.
+      interventionism in the Middle East, particularly regarding Iran, is justified
+      or truthful, and expresses skepticism towards the intentions of both the Trump
+      administration and mainstream media in their narratives about the region.
+    paragraph_summary: In his article, Tim Foley vehemently opposes U.S. regime change
+      interventionism in the Middle East, particularly regarding Iran, asserting that
+      there is no justification for supporting such actions given the historical consequences
+      of similar interventions, like those in Iraq and Libya. He expresses deep skepticism
+      towards the Trump administration's narratives about Iran and the mainstream media's
+      portrayal of the situation, arguing that the intentions behind U.S. and Israeli
+      actions are not benevolent, especially in light of recent violence in Gaza. Foley
+      criticizes anyone who advocates for regime change in Iran, regardless of their
+      ideological stance, claiming that such arguments are fundamentally flawed and
+      ignore the devastating impact of past interventions.
+    published: '2026-01-30T01:11:02+00:00'
+  - title: Only Idiots Believe The War Propaganda About Iran
+    url: https://www.caitlinjohnst.one/p/only-idiots-believe-the-war-propaganda
+    text: 'Reading by Tim Foley : Subscribe now There is nothing you can say to me to
+      convince me that US regime change interventionism in the middle east is a swell
+      idea. There is nothing you can say to convince me that the Trump administration
+      is telling us the truth about Iran. There is nothing you can say to convince me
+      that the mass media are telling us the truth about Iran. There is nothing you
+      can say to convince me the people who just spent two years incinerating Gaza have
+      kind-hearted intentions for the Iranian people. There is nothing you can say to
+      convince me that protecting Israel is a good and desirable thing that westerners
+      should support. There is nothing you can say to convince me that the empire-like
+      globe-spanning power alliance that is loosely centralized around Washington should
+      be in charge of our world. There is nothing you can say to convince me that I
+      should help the US and Israel manufacture consent for a regime change war by criticizing
+      the Iranian government in the middle of a frenzied war propaganda campaign. It
+      is not okay to be a grown adult in the year 2026 and still believe US regime change
+      interventionism in the middle east will lead to positive outcomes. It is not okay
+      to live in a post-Iraq invasion world and still not understand that we are being
+      lied to about Iran. It is not okay to have lived through what these monsters did
+      to Libya and still believe forcibly toppling the Iranian government is a moral
+      and just cause to get behind. It is not okay to have just watched these freaks
+      turn Gaza into a gravel parking lot pervaded by the smell of rotting corpses and
+      believe they have noble intentions for the people of Iran. I don’t care if you
+      are making your pro-regime change arguments from a right wing anti-Islam perspective,
+      from a liberal humanitarian pro-democracy perspective, from a left-wing “solidarity
+      with our Persian comrades” perspective, or from an “oppose all tyranny equally”
+      anarchist perspective. Your arguments are shit, and your position is wrong. The
+      agenda to oust the Iranian government is about dominating the planet in general
+      and the middle east in particular. You might think it’s about something else,
+      but you are wrong. It’s about power and control, and all your fanciful notions
+      about freedom and democracy for the Iranian people will be instantly subordinated
+      to those goals. If this isn’t obvious to you, you’re an idiot. The goal is not
+      to bring freedom and democracy to the Iranian people. The US and Israel do not
+      permit democracy to thrive in the middle east unless they can control its outcomes,
+      as they are working to do right now in Iraq . The US and Israel are not popular
+      enough in the middle east for the people to be allowed to control their own government.
+      The goal is to either install a puppet regime in Tehran, or to balkanize the nation
+      into multiple independent states which can be easily controlled, or to plunge
+      the entire state into unmanageable chaos like they did in Libya. None of these
+      plans advance the interests of the Iranian people. If you support Trump’s regime
+      change agendas in Iran, then you support inflicting this upon the Iranian people.
+      That’s what you get under the best-case scenario. Under the worst-case scenario,
+      you get a hot war between the US and Iran which unleashes horrors you cannot possibly
+      imagine. It will make the Iraq invasion and all the fallout therefrom look like
+      an episode of Spongebob. There is nothing you can say to me to cause me to support
+      this. Call me a traitor. Call me a dictator lover. Call me an antisemite. Tell
+      me all you want to tell me about how mean and bad Iran’s leadership is. I won’t
+      care. I will dismiss you, because you are my enemy. Anyone who supports war with
+      Iran is my enemy. Anyone who would want to inflict such horrors upon the human
+      species is an enemy of humanity. I promise I will not be moved on this. I like
+      to keep an open mind, as the saying goes, but not so open my brain falls out.
+      ______________ Caitlin’s Newsletter is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber. The
+      best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The author, Tim Foley, firmly rejects the notion that U.S.
+      interventionism in the Middle East, particularly regarding Iran, is justified
+      or truthful, and expresses skepticism towards the intentions of both the Trump
+      administration and mainstream media in their narratives about the region.
+    paragraph_summary: In his article, Tim Foley vehemently opposes U.S. regime change
+      interventionism in the Middle East, particularly regarding Iran, asserting that
+      there is no justification for supporting such actions given the historical consequences
+      of similar interventions, like those in Iraq and Libya. He expresses deep skepticism
+      towards the Trump administration's narratives about Iran and the mainstream media's
+      portrayal of the situation, arguing that the intentions behind U.S. and Israeli
+      actions are not benevolent, especially in light of recent violence in Gaza. Foley
+      criticizes anyone who advocates for regime change in Iran, regardless of their
+      ideological stance, claiming that such arguments are fundamentally flawed and
+      ignore the devastating impact of past interventions.
+    published: '2026-01-30T01:11:02+00:00'
+  - title: The Justifications For War With Iran Keep Changing
+    url: https://www.caitlinjohnst.one/p/the-justifications-for-war-with-iran
+    text: 'Reading by Tim Foley : Subscribe now The justifications for war with Iran
+      keep changing. First it’s nukes, then it’s conventional missiles, then it’s protesters,
+      and now it’s back to nukes again. Kinda seems like war with Iran is itself the
+      objective, and they’re just making up excuses to get there. As the US moves war
+      machinery to the middle east and holds multi-day war games throughout the region,
+      President Trump and his handlers have been posting threats to the Iranian government
+      on social media warning them to “make a deal” on nuclear weapons. The following
+      appeared on Trump’s Truth Social account on Wednesday: “A massive Armada is heading
+      to Iran. It is moving quickly, with great power, enthusiasm, and purpose. It is
+      a larger fleet, headed by the great Aircraft Carrier Abraham Lincoln, than that
+      sent to Venezuela. Like with Venezuela, it is, ready, willing, and able to rapidly
+      fulfill its mission, with speed and violence, if necessary. Hopefully Iran will
+      quickly “Come to the Table” and negotiate a fair and equitable deal — NO NUCLEAR
+      WEAPONS — one that is good for all parties. Time is running out, it is truly of
+      the essence! As I told Iran once before, MAKE A DEAL! They didn’t, and there was
+      “Operation Midnight Hammer,” a major destruction of Iran. The next attack will
+      be far worse! Don’t make that happen again. Thank you for your attention to this
+      matter! President DONALD J. TRUMP” It’s interesting that we’re back on the subject
+      of needing to bomb Iran because of nuclear weapons, given that just a couple of
+      weeks ago we were being told it was very, very important for the US to bomb Iran
+      because of Iran’s mistreatment of protesters. Earlier this month Trump was openly
+      saying “Iranian Patriots, KEEP PROTESTING — TAKE OVER YOUR INSTITUTIONS!!!… HELP
+      IS ON ITS WAY” while issuing threats to the Iranian government not to respond
+      violently to the uprising. The president then backed off of these threats, reportedly
+      at the urging of Benjamin Netanyahu who told him Israel needed more time to prepare
+      for war. Prior to that, Trump was saying he would bomb Iran if it continued expanding
+      its conventional missile program. Asked about reports that the US and Israel were
+      discussing plans to strike Iran to stop it from building on its ballistic missile
+      arsenal and reconstructing its air defenses that were damaged in the Twelve Day
+      War, the president told the press “I hope they’re not trying to build up again
+      because if they are, we’re going have no choice but very quickly to eradicate
+      that buildup.” The US justified its airstrikes on Iranian energy infrastructure
+      during the Twelve Day War by citing concerns that Tehran was building a nuclear
+      weapon, after which Trump confidently proclaimed that “All three nuclear sites
+      in Iran were completely destroyed and/or OBLITERATED. It would take years to bring
+      them back into service.” And yet here we are a few months later back on the subject
+      of nuclear weapons, with the US president citing urgent concerns over nukes to
+      justify its renewed brinkmanship with Iran. I kinda think they’re lying to us,
+      folks. When someone’s feeding you all sorts of reasons for why they need to bomb
+      a country, and the reasons are all different and unrelated to each other, then
+      those aren’t reasons. They’re excuses. It’s just like they did with Venezuela.
+      It’s because of fentanyl! Okay it’s not because of fentanyl, but it’s definitely
+      about cocaine! Wait, no, it’s because of the tyrannical dictator! Also this is
+      happening in the western hemisphere so it’s fine and good for us to intervene!
+      Both Venezuela and Iran are oil-rich nations which have been disobedient to the
+      will of the US empire. Both Venezuela and Iran have presented obstacles to US
+      global hegemony. It’s not about nukes or protesters or dictators or drugs, it’s
+      about ruling the world. That’s all it’s ever about. They just move the arguments
+      around to get what they want. Despite all Trump’s showmanship about nuclear weapons,
+      behind the scenes the US is reportedly trying to get Iran to agree to limit its
+      conventional ballistic missiles, which, as The New York Times notes , “are the
+      last deterrent in Iran’s arsenal against a renewed attack by Israel.” What this
+      means is that the Trump administration is trying to get Iran to consent to becoming
+      a neutered subject who must forever submit to the US and Israel’s demands, because
+      it won’t be able to defend itself if they decide Tehran isn’t being sufficiently
+      compliant. They’re trying to frame this as being about humanitarian concerns and
+      nuclear weapons, but it’s actually about domination. They either get a submissive
+      vassal, or they get their regime change war. The more tense things get with Iran,
+      the more the empire is going to lie to us. _________________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via The White House (public domain)
+      .'
+    one_sentence_summary: The article argues that the shifting justifications for potential
+      war with Iran suggest that the true objective may be war itself, as the U.S. increases
+      military presence in the region while issuing threats to compel Iran to negotiate
+      over nuclear weapons.
+    paragraph_summary: The article by Tim Foley discusses the shifting justifications
+      for potential military action against Iran, highlighting that the reasons for
+      war have fluctuated between concerns over nuclear weapons, conventional missiles,
+      and domestic protests. As the U.S. increases its military presence in the Middle
+      East, President Trump has issued threats to Iran via social media, urging them
+      to negotiate a nuclear deal. He emphasized the readiness of U.S. forces, particularly
+      the aircraft carrier Abraham Lincoln, to act decisively if necessary. The article
+      notes the inconsistency in the U.S. narrative, as just weeks prior, Trump was
+      advocating for support of Iranian protesters against their government, only to
+      revert to the nuclear threat justification. This inconsistency raises questions
+      about whether the ultimate goal is indeed war with Iran, rather than a genuine
+      pursuit of diplomatic solutions.
+    published: '2026-01-29T02:20:36+00:00'
+  - title: The Justifications For War With Iran Keep Changing
+    url: https://www.caitlinjohnst.one/p/the-justifications-for-war-with-iran
+    text: 'Reading by Tim Foley : Subscribe now The justifications for war with Iran
+      keep changing. First it’s nukes, then it’s conventional missiles, then it’s protesters,
+      and now it’s back to nukes again. Kinda seems like war with Iran is itself the
+      objective, and they’re just making up excuses to get there. As the US moves war
+      machinery to the middle east and holds multi-day war games throughout the region,
+      President Trump and his handlers have been posting threats to the Iranian government
+      on social media warning them to “make a deal” on nuclear weapons. The following
+      appeared on Trump’s Truth Social account on Wednesday: “A massive Armada is heading
+      to Iran. It is moving quickly, with great power, enthusiasm, and purpose. It is
+      a larger fleet, headed by the great Aircraft Carrier Abraham Lincoln, than that
+      sent to Venezuela. Like with Venezuela, it is, ready, willing, and able to rapidly
+      fulfill its mission, with speed and violence, if necessary. Hopefully Iran will
+      quickly “Come to the Table” and negotiate a fair and equitable deal — NO NUCLEAR
+      WEAPONS — one that is good for all parties. Time is running out, it is truly of
+      the essence! As I told Iran once before, MAKE A DEAL! They didn’t, and there was
+      “Operation Midnight Hammer,” a major destruction of Iran. The next attack will
+      be far worse! Don’t make that happen again. Thank you for your attention to this
+      matter! President DONALD J. TRUMP” It’s interesting that we’re back on the subject
+      of needing to bomb Iran because of nuclear weapons, given that just a couple of
+      weeks ago we were being told it was very, very important for the US to bomb Iran
+      because of Iran’s mistreatment of protesters. Earlier this month Trump was openly
+      saying “Iranian Patriots, KEEP PROTESTING — TAKE OVER YOUR INSTITUTIONS!!!… HELP
+      IS ON ITS WAY” while issuing threats to the Iranian government not to respond
+      violently to the uprising. The president then backed off of these threats, reportedly
+      at the urging of Benjamin Netanyahu who told him Israel needed more time to prepare
+      for war. Prior to that, Trump was saying he would bomb Iran if it continued expanding
+      its conventional missile program. Asked about reports that the US and Israel were
+      discussing plans to strike Iran to stop it from building on its ballistic missile
+      arsenal and reconstructing its air defenses that were damaged in the Twelve Day
+      War, the president told the press “I hope they’re not trying to build up again
+      because if they are, we’re going have no choice but very quickly to eradicate
+      that buildup.” The US justified its airstrikes on Iranian energy infrastructure
+      during the Twelve Day War by citing concerns that Tehran was building a nuclear
+      weapon, after which Trump confidently proclaimed that “All three nuclear sites
+      in Iran were completely destroyed and/or OBLITERATED. It would take years to bring
+      them back into service.” And yet here we are a few months later back on the subject
+      of nuclear weapons, with the US president citing urgent concerns over nukes to
+      justify its renewed brinkmanship with Iran. I kinda think they’re lying to us,
+      folks. When someone’s feeding you all sorts of reasons for why they need to bomb
+      a country, and the reasons are all different and unrelated to each other, then
+      those aren’t reasons. They’re excuses. It’s just like they did with Venezuela.
+      It’s because of fentanyl! Okay it’s not because of fentanyl, but it’s definitely
+      about cocaine! Wait, no, it’s because of the tyrannical dictator! Also this is
+      happening in the western hemisphere so it’s fine and good for us to intervene!
+      Both Venezuela and Iran are oil-rich nations which have been disobedient to the
+      will of the US empire. Both Venezuela and Iran have presented obstacles to US
+      global hegemony. It’s not about nukes or protesters or dictators or drugs, it’s
+      about ruling the world. That’s all it’s ever about. They just move the arguments
+      around to get what they want. Despite all Trump’s showmanship about nuclear weapons,
+      behind the scenes the US is reportedly trying to get Iran to agree to limit its
+      conventional ballistic missiles, which, as The New York Times notes , “are the
+      last deterrent in Iran’s arsenal against a renewed attack by Israel.” What this
+      means is that the Trump administration is trying to get Iran to consent to becoming
+      a neutered subject who must forever submit to the US and Israel’s demands, because
+      it won’t be able to defend itself if they decide Tehran isn’t being sufficiently
+      compliant. They’re trying to frame this as being about humanitarian concerns and
+      nuclear weapons, but it’s actually about domination. They either get a submissive
+      vassal, or they get their regime change war. The more tense things get with Iran,
+      the more the empire is going to lie to us. _________________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via The White House (public domain)
+      .'
+    one_sentence_summary: The article argues that the shifting justifications for potential
+      war with Iran suggest that the true objective may be war itself, as the U.S. increases
+      military presence in the region while issuing threats to compel Iran to negotiate
+      over nuclear weapons.
+    paragraph_summary: The article by Tim Foley discusses the shifting justifications
+      for potential military action against Iran, highlighting that the reasons for
+      war have fluctuated between concerns over nuclear weapons, conventional missiles,
+      and domestic protests. As the U.S. increases its military presence in the Middle
+      East, President Trump has issued threats to Iran via social media, urging them
+      to negotiate a nuclear deal. He emphasized the readiness of U.S. forces, particularly
+      the aircraft carrier Abraham Lincoln, to act decisively if necessary. The article
+      notes the inconsistency in the U.S. narrative, as just weeks prior, Trump was
+      advocating for support of Iranian protesters against their government, only to
+      revert to the nuclear threat justification. This inconsistency raises questions
+      about whether the ultimate goal is indeed war with Iran, rather than a genuine
+      pursuit of diplomatic solutions.
+    published: '2026-01-29T02:20:36+00:00'
   - title: The Lies Get So Tedious
     url: https://www.caitlinjohnst.one/p/the-lies-get-so-tedious
     text: 'Reading by Tim Foley : Subscribe now The lies get so tedious. The Iranians

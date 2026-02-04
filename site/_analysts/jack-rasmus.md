@@ -7,16 +7,122 @@ description: "Jack Rasmus is an American economist, author, and radio show host 
 websites:
   - https://jackrasmus.com/
 summary: |
-  The geopolitical landscape at the end of January 2026 is marked by a decisive shift in U.S. foreign policy and domestic governance under President Trump, with significant implications for the Western Hemisphere, global economic stability, and the rule of law.
+  In the early weeks of February 2026, the geopolitical landscape continues to be shaped by mounting economic instability in the United States and its ripple effects on global affairs. The most recent analyses underscore the interconnectedness of domestic economic policy, international maneuvering, and the evolving balance of power.
   
-  Recent developments underscore an intensification of U.S. interventionist policies in Latin America and the western Pacific. According to **Jack Rasmus**, the Trump administration is "shifting focus from Europe and Ukraine to assert influence and counter threats" closer to home, a move driven by both economic and strategic imperatives. This pivot is seen as an attempt to consolidate U.S. hegemony in the region while deprioritizing the ongoing conflict in Ukraine.
+  The latest report by **Jack Rasmus** highlights a sharp acceleration in gold price fluctuations and a notable decline in the US dollar’s value. These developments are closely tied to expectations that the new Federal Reserve chair will soon lower short-term interest rates in an attempt to stabilize financial markets. Rasmus argues that these moves reflect not only internal economic pressures—such as stagnant job growth and persistent inflation—but also signal a weakening of the US’s global economic position. He warns, “The US empire’s economic standing is eroding as monetary policy becomes increasingly reactive rather than strategic.”
   
-  Domestically, the political climate has grown increasingly authoritarian. On January 12, President Trump publicly declared his intention to "personally dictate all U.S. war and policy decisions based on his own moral judgment," a stance that **Jack Rasmus** argues "signifies a shift towards tyranny" and the effective sidelining of constitutional checks and balances. This development has heightened concerns about the erosion of democratic norms and the potential for further lawlessness, as evidenced by the administration's use of paramilitary and special operations units for both domestic and international objectives.
+  On the international front, Rasmus’s analysis of President Trump’s recent actions—including renewed tariffs and his controversial interest in Greenland—points to a more aggressive, transactional approach to foreign policy. Trump’s speech at the World Economic Forum (WEF) drew criticism for downplaying underlying economic issues at home, such as the lack of real wage growth and the inflationary squeeze on consumers. The administration’s focus on NATO frameworks and territorial ambitions in the Arctic are seen as attempts to compensate for diminishing leverage elsewhere.
   
-  On the economic front, the U.S. continues to grapple with the consequences of aggressive fiscal and monetary policies. The first year of Trump's renewed presidency has been characterized by tax cuts, tariffs, and direct intervention in Federal Reserve policy. However, **Jack Rasmus** notes that these measures have "limitations in stimulating the real economy," with persistent inflation, asset bubbles, and stagnation in key sectors such as manufacturing and housing. The global ramifications include increased volatility in financial markets and mounting pressure on allied economies, particularly in Europe.
+  Looking ahead, Rasmus predicts with high confidence that the US will continue to experience currency volatility and asset bubbles, driven by policy uncertainty and the Federal Reserve’s anticipated rate cuts. He also foresees ongoing geopolitical friction as the administration seeks to assert influence in new regions while domestic economic fundamentals remain weak. “I guarantee,” he states, “that unless there is a fundamental shift in policy direction, the US will most definitely see further erosion of its economic and geopolitical clout throughout 2026.”
   
-  Looking ahead, the majority view among analysts is that the U.S. will most definitely continue its assertive posture in the Western Hemisphere, while domestic governance is expected to become even more centralized and unpredictable. Economic instability—driven by policy-induced bubbles and geopolitical uncertainty—remains a high-probability risk. As **Jack Rasmus** concludes, "there is a high chance" that these trends will accelerate, with significant consequences for both U.S. allies and adversaries in 2026 and beyond.
+  In summary, the prevailing trends point to a US increasingly on the defensive—economically and strategically—while global competitors exploit openings created by American policy missteps. The coming months are likely to see continued financial turbulence and assertive, if not erratic, foreign policy moves as Washington grapples with its waning dominance.
 articles:
+  - title: The Gold Bubble, $US Dollar Devalue & the Fed
+    url: https://jackrasmus.com/2026/02/03/the-gold-bubble-us-dollar-devalue-the-fed/
+    text: https://alternativevisions.podbean.com/e/alternative-visions-with-jack-rasmus-13026/
+      Gold prices accelerate & crash, as the US dollar continues to fall, and Trump
+      announces a new Fed chair who will lower Fed short term rates further soon. What’s
+      the effect between all three? Will the gold bubble continue? Will the dollar continue
+      to devalue? What will lowering Fed rates mean for both? What’s the connection
+      of all the above to four decades of financialization and globalization of US capitalism.
+      The growing contradictions (and instability) in US monetary policy is a hallmark
+      of the current period. What does this mean for the US empire’s global economy
+      weakening?
+    one_sentence_summary: The article discusses the interrelationship between the accelerating
+      fluctuations in gold prices, the declining value of the US dollar, and the anticipated
+      lowering of short-term interest rates by a new Federal Reserve chair, while exploring
+      the broader implications of these trends on US monetary policy and the weakening
+      of the US empire's global economic standing.
+    paragraph_summary: In the latest episode of "Alternative Visions," host Jack Rasmus
+      discusses the recent fluctuations in gold prices and the declining value of the
+      US dollar, particularly in light of former President Trump's announcement of a
+      new Federal Reserve chair expected to further lower short-term interest rates.
+      Rasmus explores the interconnectedness of these developments, questioning whether
+      the gold bubble will persist and how continued dollar devaluation will impact
+      the economy. He also examines the implications of these monetary policy shifts
+      within the broader context of four decades of financialization and globalization
+      in US capitalism, highlighting the growing contradictions and instability in US
+      monetary policy and their potential effects on the weakening global economy of
+      the US empire.
+    published: '2026-02-04T04:37:04+00:00'
+  - title: The Gold Bubble, $US Dollar Devalue & the Fed
+    url: https://jackrasmus.com/2026/02/03/the-gold-bubble-us-dollar-devalue-the-fed/
+    text: https://alternativevisions.podbean.com/e/alternative-visions-with-jack-rasmus-13026/
+      Gold prices accelerate & crash, as the US dollar continues to fall, and Trump
+      announces a new Fed chair who will lower Fed short term rates further soon. What’s
+      the effect between all three? Will the gold bubble continue? Will the dollar continue
+      to devalue? What will lowering Fed rates mean for both? What’s the connection
+      of all the above to four decades of financialization and globalization of US capitalism.
+      The growing contradictions (and instability) in US monetary policy is a hallmark
+      of the current period. What does this mean for the US empire’s global economy
+      weakening?
+    one_sentence_summary: The article discusses the interrelationship between the accelerating
+      fluctuations in gold prices, the declining value of the US dollar, and the anticipated
+      lowering of short-term interest rates by a new Federal Reserve chair, while exploring
+      the broader implications of these trends on US monetary policy and the weakening
+      of the US empire's global economic standing.
+    paragraph_summary: In the latest episode of "Alternative Visions," host Jack Rasmus
+      discusses the recent fluctuations in gold prices and the declining value of the
+      US dollar, particularly in light of former President Trump's announcement of a
+      new Federal Reserve chair expected to further lower short-term interest rates.
+      Rasmus explores the interconnectedness of these developments, questioning whether
+      the gold bubble will persist and how continued dollar devaluation will impact
+      the economy. He also examines the implications of these monetary policy shifts
+      within the broader context of four decades of financialization and globalization
+      in US capitalism, highlighting the growing contradictions and instability in US
+      monetary policy and their potential effects on the weakening global economy of
+      the US empire.
+    published: '2026-02-04T04:37:04+00:00'
+  - title: Trump’s Tariffs, Greenland Grab & WEF
+    url: https://jackrasmus.com/2026/02/03/trumps-tariffs-greenland-grab-wef/
+    text: https://alternativevisions.podbean.com/e/alternative-visions-12326/ The Alternative
+      Visions show today looks at the scope and actual results of Trump’s tariffs over
+      the past year. What are they really about. Next the latest in his grab of Greenland.
+      What’s in the ‘framework’ agreed to with NATO? Why it’s not a pullback from US
+      absorbing it, as the US mainstream media and libs are saying. Last, a review of
+      Trump’s speech to the WEF and especially why the US economy is not in great shape,
+      except for speculators in gold, silver and AI bubbles. Why US GDP is much lower,
+      jobs growth stagnant and inflation much higher than reported.
+    one_sentence_summary: The Alternative Visions show examines the true impact of Trump's
+      tariffs, his controversial interest in Greenland, the implications of a NATO framework,
+      and critiques his speech to the WEF, highlighting the underlying economic issues
+      in the US, including stagnant job growth and inflated inflation rates.
+    paragraph_summary: In the latest episode of the Alternative Visions show, the hosts
+      discuss the impact and underlying motives of Trump's tariffs over the past year,
+      questioning their effectiveness. They also delve into the controversial issue
+      of Trump's interest in Greenland and analyze the recent NATO framework, arguing
+      that it does not signify a reduction in U.S. influence as suggested by mainstream
+      media. Additionally, they critique Trump's speech at the World Economic Forum,
+      highlighting the disparity between the reported health of the U.S. economy and
+      the reality of stagnant job growth, lower GDP, and higher inflation, while noting
+      that only speculators in gold, silver, and AI are benefiting from the current
+      economic climate.
+    published: '2026-02-04T04:32:47+00:00'
+  - title: Trump’s Tariffs, Greenland Grab & WEF
+    url: https://jackrasmus.com/2026/02/03/trumps-tariffs-greenland-grab-wef/
+    text: https://alternativevisions.podbean.com/e/alternative-visions-12326/ The Alternative
+      Visions show today looks at the scope and actual results of Trump’s tariffs over
+      the past year. What are they really about. Next the latest in his grab of Greenland.
+      What’s in the ‘framework’ agreed to with NATO? Why it’s not a pullback from US
+      absorbing it, as the US mainstream media and libs are saying. Last, a review of
+      Trump’s speech to the WEF and especially why the US economy is not in great shape,
+      except for speculators in gold, silver and AI bubbles. Why US GDP is much lower,
+      jobs growth stagnant and inflation much higher than reported.
+    one_sentence_summary: The Alternative Visions show examines the true impact of Trump's
+      tariffs, his controversial interest in Greenland, the implications of a NATO framework,
+      and critiques his speech to the WEF, highlighting the underlying economic issues
+      in the US, including stagnant job growth and inflated inflation rates.
+    paragraph_summary: In the latest episode of the Alternative Visions show, the hosts
+      discuss the impact and underlying motives of Trump's tariffs over the past year,
+      questioning their effectiveness. They also delve into the controversial issue
+      of Trump's interest in Greenland and analyze the recent NATO framework, arguing
+      that it does not signify a reduction in U.S. influence as suggested by mainstream
+      media. Additionally, they critique Trump's speech at the World Economic Forum,
+      highlighting the disparity between the reported health of the U.S. economy and
+      the reality of stagnant job growth, lower GDP, and higher inflation, while noting
+      that only speculators in gold, silver, and AI are benefiting from the current
+      economic climate.
+    published: '2026-02-04T04:32:47+00:00'
   - title: Economic Forces Behind Trump’s Western Hemisphere Imperial Escalation
     url: https://jackrasmus.com/2026/01/13/economic-forces-behind-trumps-western-hemisphere-imperial-escalation/
     text: 'What are the common denominators behind Trump’s regime change operation in

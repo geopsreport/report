@@ -7,16 +7,546 @@ description: "27-year CIA analyst turned independent; co-founder of Veteran Inte
 websites:
   - https://consortiumnews.com
 summary: |
-  As tensions continue to escalate across several geopolitical hotspots, recent independent analysis has focused on the intensifying domestic situation in the United States, the enduring influence of ideology in shaping international responses, and the legacy of investigative journalism in holding power to account.
+  The past 24 hours have seen significant developments in the ongoing domestic and international crises facing the United States. The situation in Minneapolis remains tense following the controversial killing of Alex Pretti by federal agents, while broader debates over law enforcement accountability and foreign policy narratives continue to shape the geopolitical landscape.
   
-  The most immediate development concerns the standoff in Minnesota, where the inability of the state governor to deploy the National Guard against federal Immigration and Customs Enforcement (ICE) operations has led to calls for armed citizen intervention. **Joe Lauria** cautions that “it is inappropriate for armed citizens to confront federal forces,” emphasizing the risks of escalating violence and the erosion of institutional authority. This situation follows a year in which, as **Julia Norman** previously reported, ICE detention centers saw record fatalities due to inadequate conditions, underscoring the systemic failures in federal immigration policy.
+  A key update comes from Minneapolis, where **Marjorie Cohn** reports that a federal court has dismissed a bid to halt the deployment of border patrol agents in the city. This decision, handed down by U.S. District Judge Katherine Menendez, came just twelve days before the fatal shooting of Alex Pretti. The ruling effectively maintains the federal presence, despite mounting local opposition and legal challenges. The disclosure of the identities of the agents involved in Pretti’s killing, as detailed by **Ray McGovern**, has intensified calls for accountability and highlighted what many analysts describe as a persistent culture of impunity within U.S. law enforcement agencies.
   
-  Meanwhile, the broader influence of ideology on geopolitics remains a central theme. In a recent piece, **Caitlin Johnstone** explores the “profound and almost magical influence” of Zionism on Western institutions, drawing parallels to the muted international response to India’s actions in Kashmir. This analysis highlights how certain narratives can shape policy and public discourse, often sidelining critical perspectives and enabling ongoing abuses.
+  On the international front, the media’s handling of the Jeffrey Epstein espionage case has drawn renewed scrutiny. **Caity Johnstone** notes that while mainstream outlets are beginning to acknowledge Epstein’s role as a spy, they are misattributing his affiliations, which she argues distorts the broader implications of the case. This reflects a wider trend of media narratives being shaped to fit prevailing geopolitical agendas, particularly in the context of U.S. foreign policy.
   
-  In a moment of reflection, the anniversary of Robert Parry’s passing has prompted renewed discussion on the role of independent journalism. Parry’s legacy, as recounted by **Ray McGovern**, serves as a reminder of the importance of investigative reporting in challenging official narratives and exposing abuses of power.
+  Looking ahead, the majority of analysts agree that the U.S. government is likely to maintain its current posture in Minneapolis, with little chance of a near-term withdrawal of federal agents. The demand for law enforcement accountability is expected to grow, but systemic change remains unlikely in the immediate future. In the media sphere, the trend of narrative manipulation and selective disclosure is set to persist, especially on issues with significant geopolitical ramifications.
   
-  Looking ahead, there is a high chance that the standoff in Minnesota will continue to draw national attention, with the potential for further unrest if institutional responses remain inadequate. The influence of powerful ideologies on policy and media coverage is expected to persist, shaping both domestic and international debates. I guarantee that the need for independent journalism will remain critical as these trends develop, providing necessary scrutiny and alternative perspectives in an increasingly polarized environment.
+  Based on the convergence of these reports, I assess with high confidence that domestic unrest over federal law enforcement actions will continue, and that mainstream media will remain a tool for advancing specific foreign policy objectives, rather than providing transparent coverage. The prospects for meaningful reform in either arena are, at best, limited in the short term.
 articles:
+  - title: Judge Dismisses Bid to End ‘Occupation’ of Minneapolis
+    url: https://consortiumnews.com/2026/02/03/judge-dismisses-bid-to-end-occupation-of-minneapolis/
+    text: Marjorie Cohn reports that twelve days before the execution of Alex Pretti
+      by border patrol agents, plaintiffs asked the federal court to stop the deployment
+      by injunction. By Marjorie Cohn Special to Consortium News U.S. District Judge
+      Katherine Menendez last Saturday… Read more →
+    one_sentence_summary: Marjorie Cohn reports that just twelve days before Alex Pretti's
+      execution by border patrol agents, plaintiffs sought a federal court injunction
+      to halt the deployment, but U.S. District Judge Katherine Menendez ruled on the
+      matter last Saturday.
+    paragraph_summary: Marjorie Cohn reports that just twelve days prior to Alex Pretti's
+      scheduled execution by border patrol agents, plaintiffs sought an injunction from
+      a federal court to halt the deployment. U.S. District Judge Katherine Menendez
+      addressed this request last Saturday, highlighting the urgency and legal implications
+      surrounding the case.
+    published: '2026-02-03T23:36:54+00:00'
+  - title: Judge Dismisses Bid to End ‘Occupation’ of Minneapolis
+    url: https://consortiumnews.com/2026/02/03/judge-dismisses-bid-to-end-occupation-of-minneapolis/
+    text: Marjorie Cohn reports that twelve days before the execution of Alex Pretti
+      by border patrol agents, plaintiffs asked the federal court to stop the deployment
+      by injunction. By Marjorie Cohn Special to Consortium News U.S. District Judge
+      Katherine Menendez last Saturday… Read more →
+    one_sentence_summary: Marjorie Cohn reports that just twelve days before Alex Pretti's
+      execution by border patrol agents, plaintiffs sought a federal court injunction
+      to halt the deployment, but U.S. District Judge Katherine Menendez ruled on the
+      matter last Saturday.
+    paragraph_summary: Marjorie Cohn reports that just twelve days prior to Alex Pretti's
+      scheduled execution by border patrol agents, plaintiffs sought an injunction from
+      a federal court to halt the deployment. U.S. District Judge Katherine Menendez
+      addressed this request last Saturday, highlighting the urgency and legal implications
+      surrounding the case.
+    published: '2026-02-03T23:36:54+00:00'
+  - title: Now We Know Who Killed Alex Pretti
+    url: https://consortiumnews.com/2026/02/03/now-we-know-who-killed-alex-pretti/
+    text: The revelation of the identities of the federal agents who shot Alex Pretti
+      revealed a culture of law enforcement impunity amidst calls for accountability,
+      reports Jon Queally. By Jon Queally Common Dreams After Border Patrol agent Jesus
+      Ochoa and Customs… Read more →
+    one_sentence_summary: The disclosure of the identities of federal agents involved
+      in the shooting of Alex Pretti highlights a troubling culture of impunity within
+      law enforcement, raising urgent calls for accountability.
+    paragraph_summary: The article by Jon Queally discusses the exposure of the identities
+      of federal agents involved in the shooting of Alex Pretti, highlighting a troubling
+      culture of impunity within law enforcement. This incident has sparked renewed
+      calls for accountability and transparency in the actions of federal agents, particularly
+      those from the Border Patrol and Customs. The revelation underscores ongoing concerns
+      about the lack of consequences for law enforcement officials and the need for
+      reforms to ensure accountability in such cases.
+    published: '2026-02-03T17:00:30+00:00'
+  - title: Now We Know Who Killed Alex Pretti
+    url: https://consortiumnews.com/2026/02/03/now-we-know-who-killed-alex-pretti/
+    text: The revelation of the identities of the federal agents who shot Alex Pretti
+      revealed a culture of law enforcement impunity amidst calls for accountability,
+      reports Jon Queally. By Jon Queally Common Dreams After Border Patrol agent Jesus
+      Ochoa and Customs… Read more →
+    one_sentence_summary: The disclosure of the identities of federal agents involved
+      in the shooting of Alex Pretti highlights a troubling culture of impunity within
+      law enforcement, raising urgent calls for accountability.
+    paragraph_summary: The article by Jon Queally discusses the exposure of the identities
+      of federal agents involved in the shooting of Alex Pretti, highlighting a troubling
+      culture of impunity within law enforcement. This incident has sparked renewed
+      calls for accountability and transparency in the actions of federal agents, particularly
+      those from the Border Patrol and Customs. The revelation underscores ongoing concerns
+      about the lack of consequences for law enforcement officials and the need for
+      reforms to ensure accountability in such cases.
+    published: '2026-02-03T17:00:30+00:00'
+  - title: 'Caity Johnstone: Turning the Epstein Story into Russiagate'
+    url: https://consortiumnews.com/2026/02/03/caitlin-johnstone-turning-epstein-story-into-russiagate/
+    text: At least part of the mainstream media is admitting that Jeffrey Epstein was
+      a spy gathering kompromat. They just have the wrong country he was serving.  By
+      Caitlin Johnstone Caitlin’s Newsletter Reading by Tim Foley Epstein documents
+      have been confirming for… Read more →
+    one_sentence_summary: The article discusses how some mainstream media outlets are
+      acknowledging Jeffrey Epstein's role as a spy gathering compromising information,
+      but they are mistakenly identifying the country he was working for.
+    paragraph_summary: In her article, Caitlin Johnstone discusses how some mainstream
+      media outlets are beginning to acknowledge that Jeffrey Epstein was involved in
+      espionage activities, specifically gathering compromising material (kompromat).
+      However, she argues that these reports misidentify the country for which he was
+      allegedly working. Johnstone suggests that the narrative surrounding Epstein's
+      activities is still incomplete and calls for a deeper examination of the implications
+      of his connections and the potential motivations behind them.
+    published: '2026-02-03T13:08:39+00:00'
+  - title: 'Caity Johnstone: Turning the Epstein Story into Russiagate'
+    url: https://consortiumnews.com/2026/02/03/caitlin-johnstone-turning-epstein-story-into-russiagate/
+    text: At least part of the mainstream media is admitting that Jeffrey Epstein was
+      a spy gathering kompromat. They just have the wrong country he was serving.  By
+      Caitlin Johnstone Caitlin’s Newsletter Reading by Tim Foley Epstein documents
+      have been confirming for… Read more →
+    one_sentence_summary: The article discusses how some mainstream media outlets are
+      acknowledging Jeffrey Epstein's role as a spy gathering compromising information,
+      but they are mistakenly identifying the country he was working for.
+    paragraph_summary: In her article, Caitlin Johnstone discusses how some mainstream
+      media outlets are beginning to acknowledge that Jeffrey Epstein was involved in
+      espionage activities, specifically gathering compromising material (kompromat).
+      However, she argues that these reports misidentify the country for which he was
+      allegedly working. Johnstone suggests that the narrative surrounding Epstein's
+      activities is still incomplete and calls for a deeper examination of the implications
+      of his connections and the potential motivations behind them.
+    published: '2026-02-03T13:08:39+00:00'
+  - title: 'PATRICK LAWRENCE: AIPAC’s Anxieties'
+    url: https://consortiumnews.com/2026/02/02/patrick-lawrence-aipacs-anxieties/
+    text: The Israel lobbies’ grip on U.S. politics has slipped beyond restoration since
+      Oct. 7, 2023 due to the Zionist army’s own savagery in Gaza.   By Patrick Lawrence
+      Special to Consortium News If Charlies Kirk’s well-documented defection from the
+      Zionist cause confirmed… Read more →
+    one_sentence_summary: The article argues that the influence of pro-Israel lobbies
+      on U.S. politics has diminished irreparably since October 7, 2023, largely due
+      to the violent actions of the Israeli military in Gaza.
+    paragraph_summary: The article by Patrick Lawrence discusses the declining influence
+      of pro-Israel lobbies in U.S. politics following the events of October 7, 2023,
+      which highlighted the brutality of the Israeli military in Gaza. The author points
+      to the defection of figures like Charlie Kirk from the Zionist cause as evidence
+      of this shift, suggesting that public perception and political support for Israel
+      are changing in response to the actions taken in the conflict.
+    published: '2026-02-02T19:00:00+00:00'
+  - title: 'PATRICK LAWRENCE: AIPAC’s Anxieties'
+    url: https://consortiumnews.com/2026/02/02/patrick-lawrence-aipacs-anxieties/
+    text: The Israel lobbies’ grip on U.S. politics has slipped beyond restoration since
+      Oct. 7, 2023 due to the Zionist army’s own savagery in Gaza.   By Patrick Lawrence
+      Special to Consortium News If Charlies Kirk’s well-documented defection from the
+      Zionist cause confirmed… Read more →
+    one_sentence_summary: The article argues that the influence of pro-Israel lobbies
+      on U.S. politics has diminished irreparably since October 7, 2023, largely due
+      to the violent actions of the Israeli military in Gaza.
+    paragraph_summary: The article by Patrick Lawrence discusses the declining influence
+      of pro-Israel lobbies in U.S. politics following the events of October 7, 2023,
+      which highlighted the brutality of the Israeli military in Gaza. The author points
+      to the defection of figures like Charlie Kirk from the Zionist cause as evidence
+      of this shift, suggesting that public perception and political support for Israel
+      are changing in response to the actions taken in the conflict.
+    published: '2026-02-02T19:00:00+00:00'
+  - title: 'Caitlin Johnstone: After Iran, Next Target: Cuba'
+    url: https://consortiumnews.com/2026/02/02/caitlin-johnstone-after-iran-next-target-cuba/
+    text: We’re being asked to believe Cuba is Hamas, so the U.S. needs to strangle
+      it to death in self-defense. That the U.S. has been pursuing regime change in
+      Cuba for generations, we’re told, is mere coincidence. By Caitlin Johnstone Caitlin’s…
+      Read more →
+    one_sentence_summary: Caitlin Johnstone argues that the U.S. narrative equating
+      Cuba with Hamas to justify aggressive actions against Cuba overlooks the long
+      history of American efforts for regime change in the country.
+    paragraph_summary: In her article, Caitlin Johnstone critiques the narrative suggesting
+      that Cuba poses a significant threat akin to Hamas, arguing that this portrayal
+      is used to justify continued U.S. efforts for regime change in Cuba. She emphasizes
+      that the long-standing U.S. agenda against Cuba is framed as a matter of self-defense,
+      despite the historical context of American interventionism in the region. Johnstone
+      suggests that this rhetoric serves to obscure the true motivations behind U.S.
+      policy towards Cuba, which she views as rooted in a desire for control rather
+      than genuine security concerns.
+    published: '2026-02-02T17:02:58+00:00'
+  - title: 'Caitlin Johnstone: After Iran, Next Target: Cuba'
+    url: https://consortiumnews.com/2026/02/02/caitlin-johnstone-after-iran-next-target-cuba/
+    text: We’re being asked to believe Cuba is Hamas, so the U.S. needs to strangle
+      it to death in self-defense. That the U.S. has been pursuing regime change in
+      Cuba for generations, we’re told, is mere coincidence. By Caitlin Johnstone Caitlin’s…
+      Read more →
+    one_sentence_summary: Caitlin Johnstone argues that the U.S. narrative equating
+      Cuba with Hamas to justify aggressive actions against Cuba overlooks the long
+      history of American efforts for regime change in the country.
+    paragraph_summary: In her article, Caitlin Johnstone critiques the narrative suggesting
+      that Cuba poses a significant threat akin to Hamas, arguing that this portrayal
+      is used to justify continued U.S. efforts for regime change in Cuba. She emphasizes
+      that the long-standing U.S. agenda against Cuba is framed as a matter of self-defense,
+      despite the historical context of American interventionism in the region. Johnstone
+      suggests that this rhetoric serves to obscure the true motivations behind U.S.
+      policy towards Cuba, which she views as rooted in a desire for control rather
+      than genuine security concerns.
+    published: '2026-02-02T17:02:58+00:00'
+  - title: American Gestapo/American Psycho
+    url: https://consortiumnews.com/2026/02/01/american-gestapo-american-psycho/
+    text: The U.S. has a government devoid of social virtue and bent primarily on demonstrating
+      its power over persons, says Andrew Napolitano. By Andrew P. Napolitano A half-dozen
+      masked and unidentifiable Immigration and Customs Enforcement (ICE) agents killed
+      a 37-year-old federal… Read more →
+    one_sentence_summary: Andrew Napolitano argues that the U.S. government lacks social
+      virtue and is primarily focused on exerting power over individuals, as exemplified
+      by the actions of ICE agents.
+    paragraph_summary: In his article, Andrew Napolitano criticizes the U.S. government
+      for lacking social virtue and focusing predominantly on exerting power over individuals.
+      He highlights a specific incident involving masked Immigration and Customs Enforcement
+      (ICE) agents who fatally shot a 37-year-old federal employee, using this event
+      to illustrate his broader argument about the government's oppressive behavior
+      and disregard for the rights of citizens.
+    published: '2026-02-01T20:51:18+00:00'
+  - title: American Gestapo/American Psycho
+    url: https://consortiumnews.com/2026/02/01/american-gestapo-american-psycho/
+    text: The U.S. has a government devoid of social virtue and bent primarily on demonstrating
+      its power over persons, says Andrew Napolitano. By Andrew P. Napolitano A half-dozen
+      masked and unidentifiable Immigration and Customs Enforcement (ICE) agents killed
+      a 37-year-old federal… Read more →
+    one_sentence_summary: Andrew Napolitano argues that the U.S. government lacks social
+      virtue and is primarily focused on exerting power over individuals, as exemplified
+      by the actions of ICE agents.
+    paragraph_summary: In his article, Andrew Napolitano criticizes the U.S. government
+      for lacking social virtue and focusing predominantly on exerting power over individuals.
+      He highlights a specific incident involving masked Immigration and Customs Enforcement
+      (ICE) agents who fatally shot a 37-year-old federal employee, using this event
+      to illustrate his broader argument about the government's oppressive behavior
+      and disregard for the rights of citizens.
+    published: '2026-02-01T20:51:18+00:00'
+  - title: 'Jonathan Cook: Cheerleading Aggression Against Iran'
+    url: https://consortiumnews.com/2026/01/30/jonathan-cook-cheerleading-aggression-against-iran/
+    text: Corporate media doesn’t represent humanity’s interests. It promotes the interests
+      of billionaires and their hangers-on, who make huge profits from a war machine
+      in constant need of excuses to kill. By Jonathan Cook Jonathan-Cook.net International
+      law is absolutely clear. If… Read more →
+    one_sentence_summary: The article argues that corporate media primarily serves the
+      interests of billionaires and their affiliates, perpetuating narratives that justify
+      ongoing militarization and conflict, rather than representing the broader interests
+      of humanity.
+    paragraph_summary: The article by Jonathan Cook argues that corporate media primarily
+      serves the interests of billionaires and their affiliates rather than representing
+      the broader interests of humanity. It suggests that this media landscape perpetuates
+      narratives that justify ongoing militarization and conflict, driven by the profit
+      motives of those invested in the war industry. Cook emphasizes that international
+      law is clear on these issues, highlighting the disconnection between media narratives
+      and ethical considerations regarding war and peace.
+    published: '2026-01-31T04:09:05+00:00'
+  - title: 'Jonathan Cook: Cheerleading Aggression Against Iran'
+    url: https://consortiumnews.com/2026/01/30/jonathan-cook-cheerleading-aggression-against-iran/
+    text: Corporate media doesn’t represent humanity’s interests. It promotes the interests
+      of billionaires and their hangers-on, who make huge profits from a war machine
+      in constant need of excuses to kill. By Jonathan Cook Jonathan-Cook.net International
+      law is absolutely clear. If… Read more →
+    one_sentence_summary: The article argues that corporate media primarily serves the
+      interests of billionaires and their affiliates, perpetuating narratives that justify
+      ongoing militarization and conflict, rather than representing the broader interests
+      of humanity.
+    paragraph_summary: The article by Jonathan Cook argues that corporate media primarily
+      serves the interests of billionaires and their affiliates rather than representing
+      the broader interests of humanity. It suggests that this media landscape perpetuates
+      narratives that justify ongoing militarization and conflict, driven by the profit
+      motives of those invested in the war industry. Cook emphasizes that international
+      law is clear on these issues, highlighting the disconnection between media narratives
+      and ethical considerations regarding war and peace.
+    published: '2026-01-31T04:09:05+00:00'
+  - title: 'WATCH: The World This Week, Episode 3'
+    url: https://consortiumnews.com/2026/01/30/watch-the-world-this-week-episode-3/
+    text: 'The World This Week looks at Trump’s new threats against Iran, his tendency
+      to chicken out, and a tribute to the great Michael Parenti, with Joe Lauria and
+      Patrick Lawrence. Saturday 8pm EST. Producer: Cathy Vogan Read more →'
+    one_sentence_summary: The World This Week discusses Trump's escalating threats towards
+      Iran, his pattern of backing down, and pays tribute to Michael Parenti, featuring
+      insights from Joe Lauria and Patrick Lawrence.
+    paragraph_summary: The article discusses the latest episode of "The World This Week,"
+      which focuses on former President Trump's renewed threats towards Iran and his
+      pattern of backing down from confrontational stances. Additionally, it pays tribute
+      to the influential political analyst Michael Parenti, featuring insights from
+      Joe Lauria and Patrick Lawrence. The episode is produced by Cathy Vogan and airs
+      on Saturday at 8pm EST.
+    published: '2026-01-30T17:00:22+00:00'
+  - title: 'WATCH: The World This Week, Episode 3'
+    url: https://consortiumnews.com/2026/01/30/watch-the-world-this-week-episode-3/
+    text: 'The World This Week looks at Trump’s new threats against Iran, his tendency
+      to chicken out, and a tribute to the great Michael Parenti, with Joe Lauria and
+      Patrick Lawrence. Saturday 8pm EST. Producer: Cathy Vogan Read more →'
+    one_sentence_summary: The World This Week discusses Trump's escalating threats towards
+      Iran, his pattern of backing down, and pays tribute to Michael Parenti, featuring
+      insights from Joe Lauria and Patrick Lawrence.
+    paragraph_summary: The article discusses the latest episode of "The World This Week,"
+      which focuses on former President Trump's renewed threats towards Iran and his
+      pattern of backing down from confrontational stances. Additionally, it pays tribute
+      to the influential political analyst Michael Parenti, featuring insights from
+      Joe Lauria and Patrick Lawrence. The episode is produced by Cathy Vogan and airs
+      on Saturday at 8pm EST.
+    published: '2026-01-30T17:00:22+00:00'
+  - title: 'Vijay Prashad: The Challenges of Post-Colonial Industry'
+    url: https://consortiumnews.com/2026/01/30/vijay-prashad-the-challenges-of-post-colonial-industry/
+    text: 'India’s liberalisation beginning in the 1990s led to a steady decline in
+      manufacturing. To reverse this, industrial policy must address the issues of dependence
+      and inequality. By Vijay Prashad Tricontinental: Institute for Social Research
+      On India’s 79th Independence Day, in August… Read more →'
+    one_sentence_summary: India's post-1990s liberalisation has resulted in a decline
+      in manufacturing, necessitating industrial policy reforms to tackle dependence
+      and inequality.
+    paragraph_summary: India's economic liberalization in the 1990s has resulted in
+      a significant decline in the manufacturing sector, prompting calls for a revised
+      industrial policy to tackle the resulting issues of economic dependence and inequality.
+      Vijay Prashad, writing for the Tricontinental Institute for Social Research, emphasizes
+      the need for strategic interventions to revitalize manufacturing and ensure equitable
+      growth as the country reflects on its independence and economic trajectory.
+    published: '2026-01-30T16:00:41+00:00'
+  - title: 'Vijay Prashad: The Challenges of Post-Colonial Industry'
+    url: https://consortiumnews.com/2026/01/30/vijay-prashad-the-challenges-of-post-colonial-industry/
+    text: 'India’s liberalisation beginning in the 1990s led to a steady decline in
+      manufacturing. To reverse this, industrial policy must address the issues of dependence
+      and inequality. By Vijay Prashad Tricontinental: Institute for Social Research
+      On India’s 79th Independence Day, in August… Read more →'
+    one_sentence_summary: India's post-1990s liberalisation has resulted in a decline
+      in manufacturing, necessitating industrial policy reforms to tackle dependence
+      and inequality.
+    paragraph_summary: India's economic liberalization in the 1990s has resulted in
+      a significant decline in the manufacturing sector, prompting calls for a revised
+      industrial policy to tackle the resulting issues of economic dependence and inequality.
+      Vijay Prashad, writing for the Tricontinental Institute for Social Research, emphasizes
+      the need for strategic interventions to revitalize manufacturing and ensure equitable
+      growth as the country reflects on its independence and economic trajectory.
+    published: '2026-01-30T16:00:41+00:00'
+  - title: 'Jeffrey Sachs: Engineering Iran’s Unrest'
+    url: https://consortiumnews.com/2026/01/30/jeffrey-sachs-engineering-irans-unrest/
+    text: It’s certainly not diplomacy and it’s not coercion. It is war conducted by
+      economic means, all designed to produce an economic crisis and social unrest leading
+      to a fall of the government. By Jeffrey D. Sachs and Sybil Fares Common Dreams
+      John Maynard… Read more →
+    one_sentence_summary: The article discusses how economic strategies are being used
+      as a form of warfare to create crises and social unrest aimed at destabilizing
+      governments, rather than traditional diplomacy or coercion.
+    paragraph_summary: The article by Jeffrey D. Sachs and Sybil Fares discusses the
+      use of economic strategies as a form of warfare aimed at destabilizing governments.
+      Rather than traditional diplomacy or coercion, this approach seeks to create economic
+      crises and social unrest to undermine and ultimately lead to the collapse of a
+      government. The authors highlight the implications of such tactics on global politics
+      and the ethical considerations surrounding them.
+    published: '2026-01-30T06:19:40+00:00'
+  - title: 'Jeffrey Sachs: Engineering Iran’s Unrest'
+    url: https://consortiumnews.com/2026/01/30/jeffrey-sachs-engineering-irans-unrest/
+    text: It’s certainly not diplomacy and it’s not coercion. It is war conducted by
+      economic means, all designed to produce an economic crisis and social unrest leading
+      to a fall of the government. By Jeffrey D. Sachs and Sybil Fares Common Dreams
+      John Maynard… Read more →
+    one_sentence_summary: The article discusses how economic strategies are being used
+      as a form of warfare to create crises and social unrest aimed at destabilizing
+      governments, rather than traditional diplomacy or coercion.
+    paragraph_summary: The article by Jeffrey D. Sachs and Sybil Fares discusses the
+      use of economic strategies as a form of warfare aimed at destabilizing governments.
+      Rather than traditional diplomacy or coercion, this approach seeks to create economic
+      crises and social unrest to undermine and ultimately lead to the collapse of a
+      government. The authors highlight the implications of such tactics on global politics
+      and the ethical considerations surrounding them.
+    published: '2026-01-30T06:19:40+00:00'
+  - title: Spinning the Truth Until We Are All Dizzy
+    url: https://consortiumnews.com/2026/01/29/spinning-the-truth-until-we-are-all-dizzy/
+    text: Stephanie Martin repeats the warnings of philosopher Hannah Arendt in the
+      wake of the many lies told by authorities about ICE shootings in Minneapolis. 
+      By Stephanie Martin The Conversation In the aftermath of Alex Pretti’s killing
+      on Jan. 24, 2026,… Read more →
+    one_sentence_summary: Stephanie Martin highlights philosopher Hannah Arendt's warnings
+      regarding the dangers of authority-driven lies in the context of the misinformation
+      surrounding ICE shootings in Minneapolis, particularly following the killing of
+      Alex Pretti.
+    paragraph_summary: In her article, Stephanie Martin echoes philosopher Hannah Arendt's
+      cautions regarding the dangers of deception by authorities, particularly in light
+      of the misleading narratives surrounding ICE shootings in Minneapolis, including
+      the incident involving Alex Pretti's death on January 24, 2026. Martin emphasizes
+      the importance of truth and accountability in the face of such violence, highlighting
+      the broader implications of governmental dishonesty on public trust and societal
+      stability.
+    published: '2026-01-29T19:00:24+00:00'
+  - title: Spinning the Truth Until We Are All Dizzy
+    url: https://consortiumnews.com/2026/01/29/spinning-the-truth-until-we-are-all-dizzy/
+    text: Stephanie Martin repeats the warnings of philosopher Hannah Arendt in the
+      wake of the many lies told by authorities about ICE shootings in Minneapolis. 
+      By Stephanie Martin The Conversation In the aftermath of Alex Pretti’s killing
+      on Jan. 24, 2026,… Read more →
+    one_sentence_summary: Stephanie Martin highlights philosopher Hannah Arendt's warnings
+      regarding the dangers of authority-driven lies in the context of the misinformation
+      surrounding ICE shootings in Minneapolis, particularly following the killing of
+      Alex Pretti.
+    paragraph_summary: In her article, Stephanie Martin echoes philosopher Hannah Arendt's
+      cautions regarding the dangers of deception by authorities, particularly in light
+      of the misleading narratives surrounding ICE shootings in Minneapolis, including
+      the incident involving Alex Pretti's death on January 24, 2026. Martin emphasizes
+      the importance of truth and accountability in the face of such violence, highlighting
+      the broader implications of governmental dishonesty on public trust and societal
+      stability.
+    published: '2026-01-29T19:00:24+00:00'
+  - title: Mamdani Backs Modi Critic Jailed Without End
+    url: https://consortiumnews.com/2026/01/29/modi-critic-jailed-without-end/
+    text: The NYC mayor supports dissident leader Umar Khalid, jailed five years without
+      bail in a deliberate attempt to turn the process into punishment, writes Betwa
+      Sharma. By Betwa Sharma in Delhi, India Special to Consortium News Eight members
+      of the U.S.… Read more →
+    one_sentence_summary: The NYC mayor backs dissident leader Umar Khalid, who has
+      been imprisoned without bail for five years, highlighting concerns over the judicial
+      process being used as a form of punishment, according to Betwa Sharma.
+    paragraph_summary: In an article by Betwa Sharma, it is reported that the NYC mayor
+      has expressed support for Umar Khalid, a dissident leader who has been imprisoned
+      for five years without bail. Sharma argues that this prolonged detention is a
+      calculated effort to use the judicial process as a form of punishment rather than
+      a means of justice. The article highlights the broader implications of Khalid's
+      case and the political dynamics surrounding dissent in India.
+    published: '2026-01-29T17:00:19+00:00'
+  - title: Mamdani Backs Modi Critic Jailed Without End
+    url: https://consortiumnews.com/2026/01/29/modi-critic-jailed-without-end/
+    text: The NYC mayor supports dissident leader Umar Khalid, jailed five years without
+      bail in a deliberate attempt to turn the process into punishment, writes Betwa
+      Sharma. By Betwa Sharma in Delhi, India Special to Consortium News Eight members
+      of the U.S.… Read more →
+    one_sentence_summary: The NYC mayor backs dissident leader Umar Khalid, who has
+      been imprisoned without bail for five years, highlighting concerns over the judicial
+      process being used as a form of punishment, according to Betwa Sharma.
+    paragraph_summary: In an article by Betwa Sharma, it is reported that the NYC mayor
+      has expressed support for Umar Khalid, a dissident leader who has been imprisoned
+      for five years without bail. Sharma argues that this prolonged detention is a
+      calculated effort to use the judicial process as a form of punishment rather than
+      a means of justice. The article highlights the broader implications of Khalid's
+      case and the political dynamics surrounding dissent in India.
+    published: '2026-01-29T17:00:19+00:00'
+  - title: 'Hedges Report: Is the ‘New World Order’ Really New?'
+    url: https://consortiumnews.com/2026/01/29/hedges-report-is-the-new-world-order-really-new/
+    text: Yanis Varoufakis discusses how, as U.S. hegemony dwindles, Trump and his international
+      allies use the sham “Board of Peace” to attempt to maintain some grip on world
+      power. By Chris Hedges The Chris Hedges Report As U.S. hegemony continues to dwindle,…
+      Read more →
+    one_sentence_summary: Yanis Varoufakis critiques the use of the "Board of Peace"
+      by Trump and his allies as a superficial effort to sustain U.S. global dominance
+      amid its declining hegemony.
+    paragraph_summary: In an article by Chris Hedges, Yanis Varoufakis examines the
+      decline of U.S. hegemony and how figures like Trump and his international allies
+      are leveraging a superficial "Board of Peace" to cling to global influence. Varoufakis
+      argues that this initiative is a facade aimed at preserving power amid shifting
+      geopolitical dynamics, reflecting the broader challenges faced by the U.S. as
+      its dominance wanes in the international arena.
+    published: '2026-01-29T13:04:36+00:00'
+  - title: 'Hedges Report: Is the ‘New World Order’ Really New?'
+    url: https://consortiumnews.com/2026/01/29/hedges-report-is-the-new-world-order-really-new/
+    text: Yanis Varoufakis discusses how, as U.S. hegemony dwindles, Trump and his international
+      allies use the sham “Board of Peace” to attempt to maintain some grip on world
+      power. By Chris Hedges The Chris Hedges Report As U.S. hegemony continues to dwindle,…
+      Read more →
+    one_sentence_summary: Yanis Varoufakis critiques the use of the "Board of Peace"
+      by Trump and his allies as a superficial effort to sustain U.S. global dominance
+      amid its declining hegemony.
+    paragraph_summary: In an article by Chris Hedges, Yanis Varoufakis examines the
+      decline of U.S. hegemony and how figures like Trump and his international allies
+      are leveraging a superficial "Board of Peace" to cling to global influence. Varoufakis
+      argues that this initiative is a facade aimed at preserving power amid shifting
+      geopolitical dynamics, reflecting the broader challenges faced by the U.S. as
+      its dominance wanes in the international arena.
+    published: '2026-01-29T13:04:36+00:00'
+  - title: 'Vijay Prashad: Greenland Is Not a Prize'
+    url: https://consortiumnews.com/2026/01/28/vijay-prashad-greenland-is-not-a-prize/
+    text: 'The U.S. has set its sights on Greenland due to its mineral wealth and strategic
+      location. But its people — the Kalaallit — are an afterthought in Washington’s
+      machinations. By Vijay Prashad Tricontinental: Institute for Social Research Every
+      few years, the… Read more →'
+    one_sentence_summary: The U.S. is increasingly focused on Greenland for its mineral
+      resources and strategic importance, often overlooking the interests and perspectives
+      of the Kalaallit people.
+    paragraph_summary: The U.S. is increasingly focused on Greenland for its rich mineral
+      resources and strategic geopolitical position, but this interest often overlooks
+      the indigenous Kalaallit people. The article by Vijay Prashad highlights how U.S.
+      policies and ambitions regarding Greenland tend to prioritize American interests
+      while sidelining the voices and rights of the local population, raising concerns
+      about the implications of such external attention on their sovereignty and well-being.
+    published: '2026-01-28T19:00:29+00:00'
+  - title: 'Vijay Prashad: Greenland Is Not a Prize'
+    url: https://consortiumnews.com/2026/01/28/vijay-prashad-greenland-is-not-a-prize/
+    text: 'The U.S. has set its sights on Greenland due to its mineral wealth and strategic
+      location. But its people — the Kalaallit — are an afterthought in Washington’s
+      machinations. By Vijay Prashad Tricontinental: Institute for Social Research Every
+      few years, the… Read more →'
+    one_sentence_summary: The U.S. is increasingly focused on Greenland for its mineral
+      resources and strategic importance, often overlooking the interests and perspectives
+      of the Kalaallit people.
+    paragraph_summary: The U.S. is increasingly focused on Greenland for its rich mineral
+      resources and strategic geopolitical position, but this interest often overlooks
+      the indigenous Kalaallit people. The article by Vijay Prashad highlights how U.S.
+      policies and ambitions regarding Greenland tend to prioritize American interests
+      while sidelining the voices and rights of the local population, raising concerns
+      about the implications of such external attention on their sovereignty and well-being.
+    published: '2026-01-28T19:00:29+00:00'
+  - title: Is the US Board of Peace Aimed at Undermining the UN?
+    url: https://consortiumnews.com/2026/01/28/is-the-us-board-of-peace-aimed-at-undermining-the-un/
+    text: Trump’s “Board of Peace” is being designed as an alliance like the “coalition
+      of the willing” that fraudulently tried to legitimize the 2003 invasion of Iraq,
+      writes Thalif Deen. by Talif Deen Inter Press Service Judging by the mixed signals…
+      Read more →
+    one_sentence_summary: Trump's proposed "Board of Peace" aims to function as an alliance
+      similar to the controversial "coalition of the willing" that supported the 2003
+      Iraq invasion, according to Thalif Deen.
+    paragraph_summary: In an article by Thalif Deen for Inter Press Service, it is discussed
+      that Donald Trump's proposed "Board of Peace" is intended to function as an alliance
+      similar to the controversial "coalition of the willing" that sought to justify
+      the 2003 Iraq invasion. The article highlights the mixed signals surrounding this
+      initiative, suggesting skepticism about its legitimacy and effectiveness in promoting
+      genuine peace efforts.
+    published: '2026-01-28T17:00:28+00:00'
+  - title: Is the US Board of Peace Aimed at Undermining the UN?
+    url: https://consortiumnews.com/2026/01/28/is-the-us-board-of-peace-aimed-at-undermining-the-un/
+    text: Trump’s “Board of Peace” is being designed as an alliance like the “coalition
+      of the willing” that fraudulently tried to legitimize the 2003 invasion of Iraq,
+      writes Thalif Deen. by Talif Deen Inter Press Service Judging by the mixed signals…
+      Read more →
+    one_sentence_summary: Trump's proposed "Board of Peace" aims to function as an alliance
+      similar to the controversial "coalition of the willing" that supported the 2003
+      Iraq invasion, according to Thalif Deen.
+    paragraph_summary: In an article by Thalif Deen for Inter Press Service, it is discussed
+      that Donald Trump's proposed "Board of Peace" is intended to function as an alliance
+      similar to the controversial "coalition of the willing" that sought to justify
+      the 2003 Iraq invasion. The article highlights the mixed signals surrounding this
+      initiative, suggesting skepticism about its legitimacy and effectiveness in promoting
+      genuine peace efforts.
+    published: '2026-01-28T17:00:28+00:00'
+  - title: 'PATRICK LAWRENCE: Trump’s War on the Future Has a Past'
+    url: https://consortiumnews.com/2026/01/28/patrick-lawrence-the-past-of-trumps-war-on-the-future/
+    text: 'The Trump-McMahon education edict: You will cooperate as we destroy the tradition
+      of intellectual exploration that has endured for a thousand years — or we will
+      starve you. By Patrick Lawrence Special to Consortium News Last autumn, well into
+      the Trump… Read more →'
+    one_sentence_summary: The article critiques the Trump administration's education
+      policies as an attempt to undermine intellectual exploration in academia, threatening
+      institutions with funding cuts if they do not comply.
+    paragraph_summary: In his article, Patrick Lawrence critiques the Trump administration's
+      educational policies, arguing that they threaten the long-standing tradition of
+      intellectual exploration in academia. He suggests that the administration's approach
+      demands compliance from educational institutions under the threat of funding cuts,
+      thereby undermining the values of critical thinking and open inquiry that have
+      been foundational to education for centuries. Lawrence warns that this coercive
+      strategy could lead to a homogenization of thought and a decline in the quality
+      of education, ultimately harming both students and society at large.
+    published: '2026-01-28T12:52:17+00:00'
+  - title: 'PATRICK LAWRENCE: Trump’s War on the Future Has a Past'
+    url: https://consortiumnews.com/2026/01/28/patrick-lawrence-the-past-of-trumps-war-on-the-future/
+    text: 'The Trump-McMahon education edict: You will cooperate as we destroy the tradition
+      of intellectual exploration that has endured for a thousand years — or we will
+      starve you. By Patrick Lawrence Special to Consortium News Last autumn, well into
+      the Trump… Read more →'
+    one_sentence_summary: The article critiques the Trump administration's education
+      policies as an attempt to undermine intellectual exploration in academia, threatening
+      institutions with funding cuts if they do not comply.
+    paragraph_summary: In his article, Patrick Lawrence critiques the Trump administration's
+      educational policies, arguing that they threaten the long-standing tradition of
+      intellectual exploration in academia. He suggests that the administration's approach
+      demands compliance from educational institutions under the threat of funding cuts,
+      thereby undermining the values of critical thinking and open inquiry that have
+      been foundational to education for centuries. Lawrence warns that this coercive
+      strategy could lead to a homogenization of thought and a decline in the quality
+      of education, ultimately harming both students and society at large.
+    published: '2026-01-28T12:52:17+00:00'
   - title: Stopping ICE Shouldn’t Be Left to Armed Citizens
     url: https://consortiumnews.com/2026/01/27/ice-it-shouldnt-come-down-to-armed-citizens/
     text: It shouldn’t fall to armed Americans to take on the White House militia because

@@ -8,14 +8,1870 @@ websites:
   - https://michael-hudson.com/
   - https://geopoliticaleconomy.com/author/michael-hudson/
 summary: |
-  The global geopolitical landscape continues to be shaped by the United States’ evolving national security strategy and its persistent use of economic leverage, particularly in the energy sector. As **Michael Hudson** and other analysts emphasize, these developments are not isolated to the actions of individual leaders but reflect deeper systemic shifts in the post-World War II order.
+  The global geopolitical landscape continues to be shaped by the unraveling of U.S.-led economic order and intensifying dissatisfaction within key Western allies. Recent analysis by **Michael Hudson** underscores how the erosion of “dollar discipline” is accelerating, with the U.S. increasingly relying on financial coercion and sanctions to maintain its influence. This strategy, however, is producing significant backlash, particularly in Europe.
   
-  The most recent discussions, notably highlighted by **Nima Alkhorchid** in a January 21st panel, focus on former President Donald Trump’s provocative statements regarding Venezuela’s oil and land. These remarks are interpreted as signaling renewed U.S. interest in direct intervention, aligning with the broader pattern of Washington’s use of energy resources as instruments of geopolitical coercion. **Hudson** asserts that the U.S. has a long-standing strategy of weaponizing the global oil trade to maintain its dominance and to prevent countries like Venezuela, Iran, and Russia from leveraging their own resources for independent development.
+  In France, public discontent is mounting over the Macron government’s alignment with U.S. policy, especially regarding sanctions and asset seizures. **Hudson** notes that “sanctions, seized assets, and U.S. pressure are contributing to a growing sense of alienation and dissatisfaction among the French population towards the Macron government and the broader European Union.” This sentiment is echoed across the continent, where the economic fallout from these policies is becoming harder to ignore.
   
-  Meanwhile, the economic fallout in Europe remains a critical concern. The continent’s alignment with U.S. foreign policy, particularly through sanctions and the freezing of Russian assets, has deepened internal economic strains. **Hudson** and his co-panelists argue that Europe faces mounting pressure to reconsider its strategic orientation or risk further fragmentation and decline.
+  Meanwhile, the U.S. approach to global energy markets remains a central tool of leverage. As detailed in earlier reports, Washington’s use of oil as a weapon—targeting nations like Iran, Russia, and Venezuela—reflects a broader strategy to enforce unipolar dominance. However, this is increasingly seen as unsustainable, with more countries seeking alternatives to the dollar and U.S.-controlled financial systems.
   
-  Looking ahead, the majority view among analysts is that these trends—U.S. reliance on economic and military coercion, and Europe’s struggle with the consequences—are likely to intensify. There is a high chance, bordering on certainty, that the U.S. will continue to escalate its use of economic tools, especially in the energy sector, to enforce its global objectives. At the same time, Europe’s economic challenges are expected to persist unless there is a fundamental rethinking of its geopolitical alliances. As **Hudson** concludes, these are not temporary disruptions but signs of a deeper transformation in the global order, with the confidence that “the disintegration of the old system is most definitely underway.”
+  Looking ahead, the majority of analysts, including **Hudson**, predict with high confidence that these trends will continue. The fragmentation of the Western alliance is “most definitely” underway, with European states likely to pursue greater autonomy in response to domestic pressures and economic hardship. The decline of dollar hegemony is “quite likely” to accelerate as more nations explore alternative financial arrangements and energy partnerships.
+  
+  In summary, the current trajectory points toward a multipolar world order, driven by the weakening of U.S. economic dominance and the growing resolve among allies and adversaries alike to chart independent courses. The next period will be critical in determining how quickly these structural shifts materialize and how deeply they reshape global alliances.
 articles:
+  - title: The End of Dollar Discipline
+    url: https://michael-hudson.com/2026/02/the-end-of-dollar-discipline/
+    text: 'Professor Michael Hudson’s interview with Lena Petrova January 24, 2026 LENA
+      PETROVA: Thank you for joining us. I’m Lena Petrova with a new episode of the
+      World Affairs in Context podcast. Today, I’m absolutely honored to be joined by
+      Professor Michael Hudson. Please follow Michael at michael-hudson.com, where you
+      can find transcripts of his recent interviews and a variety of articles on current
+      events. I will link the site below, and I have to say that it is a wonderful resource.
+      I’ve learned so much from your work, Professor. Welcome to the program. Thank
+      you for joining me. MICHAEL HUDSON: Well, thank you very much. It’s michael-hudson.com
+      — everybody always gets that wrong. LENA PETROVA: Yes, thank you for correcting
+      me. I’m glad you did. I will link the website below so that our viewers can easily
+      check it out. I always learn so much from it — it’s like a complete course on
+      economics and politics. It’s absolutely wonderful, so our viewers really have
+      to check it out. The first weeks of January have been very busy. There’s a lot
+      going on. The U.S. national debt is approaching a new record of $38.5 trillion.
+      Interest costs to service that debt have surpassed $1 trillion per year. The economy
+      is slowing as inflation resurfaces. At the same time, in just the first three
+      weeks of the new year, Washington carried out a military operation in Venezuela,
+      kidnapped its president, and proclaimed that the entire Western Hemisphere is
+      under U.S. control. Washington also supported a failed regime-change attempt in
+      Iran, seized Russian oil tankers, formed a “Board of Peace,” and may now be considering
+      a military intervention in Iran. Professor, what is your take on these recent
+      events from an economic standpoint? MICHAEL HUDSON: Well, there’s a lot of confusion
+      about what problem the national debt actually poses. The government can always
+      print the money, and the Federal Reserve can create all the money needed to finance
+      the deficit. So there’s no problem there at all. If it has to pay a trillion dollars
+      in interest, it can just print it. It will make the bondholders rich, but nobody
+      really has to be taxed for it. That’s the basic principle of modern monetary theory.
+      The real problem with military spending isn’t the national debt itself. It’s the
+      balance of payments. What has forced the American balance of payments into deficit—beginning
+      with the Korean War and continuing through the 1950s, 60s, 70s, and much of today—is
+      foreign military spending. Military expenditures abroad were responsible for essentially
+      the entire balance-of-payments deficit during those decades. As more dollars are
+      spent abroad than come back in, the dollar is pressured to depreciate. To prevent
+      that, the United States has tried to force other countries to subsidize it. The
+      underlying mythology is that the U.S. needs foreign subsidy and payments to protect
+      itself from first a Soviet invasion, and now a Russian and Chinese invasion. The
+      pretense is that America’s massive military budget has to be paid for by foreign
+      countries—not because the U.S. wants to control them, not because it wants 800
+      military bases around the world, but because it’s supposedly “protecting” them.
+      That myth has enabled the creation of NATO and its use as a mechanism to dominate
+      Europe and force countries to hold their foreign exchange reserves in dollars
+      rather than gold or other currencies. We’re now seeing that system begin to unravel,
+      especially in the wake of recent events at Davos. The real question is how the
+      United States will finance its military and political domination now that it no
+      longer runs a trade surplus, has deindustrialized, and has become a debtor nation
+      rather than the world’s creditor. After World War II, the U.S. was the leading
+      industrial, financial, and military power. Today it no longer is. The only thing
+      it can offer other countries now is the promise not to destroy their economies
+      if they comply. That’s what Trump’s tariff threats represent: a protection racket.
+      This has become increasingly clear in Europe. Voters are beginning to ask why
+      they must put American interests first, why they must sacrifice their economies,
+      and why sanctions and energy policies are imposed that benefit the U.S. while
+      harming Europe. The claim that Europe needs protection from Russia or China is
+      increasingly exposed as a myth. If there is no genuine invasion threat, then why
+      impose sanctions, pay inflated prices for American LNG, and dismantle social democracy
+      to fund military expansion? What we are seeing is an attempt at intellectual warfare—shaping
+      how people think about civilization, law, and power. The U.S. frames itself as
+      “civilization” while labeling others as barbarians, obscuring the core principle
+      of international law since the Treaty of Westphalia: national sovereignty and
+      non-interference. Trump’s withdrawal from UN institutions, the creation of alternative
+      bodies like the so-called “Board of Peace,” and the rejection of multilateral
+      norms mark a sharp break with centuries of international order. The symbolism
+      is almost comical, but the implications are serious. This is why today’s discussion
+      matters. We’re witnessing a structural transformation of the world economy and
+      the global balance of power. LENA PETROVA: What’s striking is how much progress
+      made over centuries has been dismantled in just the past few years, especially
+      the last twelve months. The withdrawal from dozens of international organizations
+      signals a shift toward coercion and hegemonic restructuring. In one of your recent
+      essays, you wrote: “The overriding aim of U.S. policy today is to block countries
+      from withdrawing from the U.S.-controlled world economy and to prevent the emergence
+      of a Eurasian-centered economic system.” The more coercive Washington becomes,
+      the faster the rest of the world moves away from dollar dependence. Is this destructive
+      leverage—the use of sanctions, tariffs, and threats—the only power Washington
+      has left? MICHAEL HUDSON: Well, it doesn’t have the US market to offer, really.
+      Trump believes that he can create a US industrial market by tariffs. But the tariffs
+      that he’s imposing are not the kind of tariffs that countries that industrialized
+      like the United States in the nineteenth century, Germany in the nineteenth century
+      did. He’s imposing tariffs in all of the wrong ways. He’s put tariffs on raw materials,
+      like steel and aluminum, and that, instead of helping industrial manufactures,
+      it does help the steel unions and it helps the aluminum companies that I assume
+      have contributed to his campaign, but it increases the cost of anything that uses
+      steel and aluminum. And he doesn’t realize that tariff policy alone cannot industrialize
+      an economy and make it strong enough. Every country that’s industrialized had
+      a very strong role of government infrastructure. And in the United States in the
+      19th century, you had the first professor of economics at the first business school,
+      the Wharton School at the University of Pennsylvania, saying that we are used
+      to thinking of labor and capital and even land as a factor of production, but
+      we also have public infrastructure. And that is the most important factor of production
+      in making countries industrially competitive. Unlike capital, the infrastructure
+      doesn’t look at making a profit because it wants to lower the cost. It provides
+      basic needs, education, health care, and also natural monopolies, such as transportation
+      and communications, and subsidized prices so that the economy at large, including
+      the budgets of wage earners, does not have to pay monopoly prices for money. What
+      you’re seeing in the United States is that they do not have to pay monopoly prices
+      for privatized transportation. That’s a natural monopoly, yielding monopoly rents,
+      not privatized for natural communications. Electric companies, phone companies,
+      all this is privatized today. And when you have a natural monopoly, that enables
+      the owners to extract monopoly rents, and if you privatize natural monopolies,
+      and turn them into rent-extracting vehicles that are usually organized by the
+      banking and financial sector, then you’re going to have a high-cost economy. Trump
+      is doing everything he can to make America the highest-cost economy in the world,
+      and he’s succeeded. 18%, now I think it’s 20%, of America’s GDP goes for health
+      care, much more expensive than the socialized medicine, socialized health care
+      that you have in other countries. The education that is available is not free,
+      like in so many other countries. It’s $50,000 a year, forcing the wage earners,
+      the students, to begin their working life with a very heavy debt that, if they’re
+      going to get a job, the job has to pay them enough money to pay for this expensive
+      health care and to pay for this expensive education. And they have to buy privatized
+      transportation at a high price, monopoly rents, and privatized communication.
+      The neoliberal model of the economy that the United States represents is a high-priced
+      economy, but it’s not a high-value economy. You really have to go back to classical
+      economics of Adam Smith, John Stuart Mill, and Marx himself, who all said, “Well,
+      value is the intrinsic cost of production, producing a product. But prices are
+      higher than value, and the excess of price over value is economic rent.” Land
+      doesn’t have any cost of production. It’s provided by nature. And yet, if you
+      privatize the land tenure, ownership, and you let the landlord class, like Europe’s
+      feudal hereditary landlord class, charge whatever rent they’re able to squeeze
+      out of the market, then you’re going to have such a high-cost economy that, as
+      Ricardo said, as the population grows and puts more and more pressure on food,
+      you’re going to have food prices rising (and he could have added housing prices
+      rising as they’re all bought on credit), and there’s not going to be any room
+      for profits anymore. All of this was explained in the 1810s by Ricardo, and it
+      was elaborated. The great defense of industrial profits was, of all people, by
+      Marx in Volume 3 of Capital. It’s true that the landlord exploits the land and
+      makes income in his sleep, as John Stuart Mill put it. That’s exploitation. Creditors,
+      bondholders make interest, and they, coupon clippers, make interest in their sleep.
+      How do we treat the industrialist? Well, there is a kind of exploitation in the
+      sense that the industrialist, and all this is related to today’s industry, the
+      industrialist pays labor and sells the product of labor at a higher price. That’s
+      a profit. And Marx said, “But the industrialist does, the capitalist doesn’t make
+      money in his sleep. The capitalist organizes enterprise, he organizes a supply
+      of raw materials to be worked up by the labor, he organizes markets to sell the
+      products, he organizes productivity and tries to increase the productivity in
+      order to lower the costs to outcompete other countries.” Marx said that the international
+      dynamic of industrial capitalism is to keep cutting costs to compete with other
+      countries, and you need an increasing role of public investment in order to do
+      this. You need a tax system that finances the government spending by taxing economic
+      rent, the land rent, the monopoly rent, so that it’s not built into prices, and
+      that keeps the financial sector, such as banking, as a public utility, as it is
+      in China, so that instead of you having a financial class trying to make money
+      by loading the economy down with debt, and extracting interest, it steers credit
+      in order to finance new means of production, to build new factories, to employ
+      more labor, and that’s the dynamic of industrial capitalism. What Marx believed
+      that the tendency of industrial capitalism was just what almost everybody else
+      of his generation believed – that the tendency of capitalism was to evolve into
+      socialism. But that’s not what happened. The rentiers fought back. The landowners
+      got together with the bankers and the monopolists and said, there’s no such thing
+      as economic rent. There’s no difference at all between value and price. And that
+      means that everyone makes all of the wealth and the income that they have by playing
+      a productive role. And if they could erase in people’s minds the idea that people
+      can make money not by being productive, but just by being predatory, rent seekers,
+      then you’re not going to have any political party or movement saying, well, let’s
+      get rid of the economic rent extractors so that we have a low cost economy and
+      the value as the economy gets more productive and richer. Obviously, the price
+      of real estate, housing, and offices is going to go up. The value of credit is
+      going to go up. Let’s make sure that the economic surplus goes to increase the
+      economy’s growth, living standards, and productivity, not just creating a super
+      rentier class of financiers and monopolists and real estate owners at the top
+      of the pyramid, making their wealth by turning the rest of the economy into renters
+      and debtors and consumers instead of homeowners and operating in a debt-free environment.
+      So Trump and the whole American philosophy of development, which is the whole
+      Western theory of development, is opposed to the whole dynamic of industrial capitalism
+      that first made Britain and then France and Germany and America the leading industrial
+      countries of the 19th and early 20th centuries. So that’s part of the problem
+      with how we’re doing today. How can America really compete? What does it have
+      to offer now that it’s offshored its industrial employment and de-industrialized
+      and simply tried to make money by running into increasing debt to foreign countries
+      by saying if you make a profit selling to us, if you’re OPEC, and are selling
+      oil you can charge as much as you want for the oil but you have to keep all of
+      your savings in US dollars by buying US Treasury bonds or other US bonds. You
+      just have to keep all your money in dollars. Well, all of this is ending now,
+      which is why you’re having countries sell their dollars, buy gold and silver,
+      and each other’s bonds and currency. We’re seeing the end of the whole counter-revolution
+      against industrial capitalism that really gained momentum after World War I. The
+      Austrian school of economics, the libertarian school, and the neoliberal school
+      say there’s no such thing as government regulation. That’s the road to serfdom
+      without seeing that the road that we’re on now is the road to neo-feudalism. So,
+      there’s a fight over people’s minds and how are they going to think about things.
+      I’ve been reading the newspaper coverage of Davos and it says all of the blinders
+      have fallen away from the eyes of the visitors to Davos. They realize it’s all
+      been a myth, and that’s exactly what Mark Carney of Canada tried to do when he
+      jumped ahead of the parade by saying, you know, everything we were told about
+      the rules-based order is a myth. And he got a standing ovation for that. Well,
+      you can imagine how angry Donald Trump got at that, and he’s certainly going to
+      try to take things out against Canada for that. He got very angry when Macron
+      said the same thing and immediately threatened to impose 200% tariffs on French
+      champagne. You’re seeing an almost infantilized analogy of what is, in fact, a
+      structural restructuring of how the world economy works and, therefore, the direction
+      in which civilization itself is moving. LENA PETROVA: This is so fascinating.
+      I thought that Mark Carney’s speech was historic. What’s interesting is that Canada
+      and France have been part of the so-called rules-based order for a long time.
+      And now that it’s not convenient or the tables have turned, they said, oh, wait
+      a minute, this doesn’t work anymore. And so I thought it was refreshing to hear
+      PM Carney’s speech, but at the same time, I thought, well, this is what the entire
+      world has been trying to tell you for a long time now. The rules-based order has
+      been exploiting the Global South and is using other countries as a resource. Certainly,
+      it’s great to hear this from Western leaders, but it seems that this was long
+      overdue. MICHAEL HUDSON: Well, you’re right to make that point, because that was
+      acknowledged by Carney when he said, you know, we ourselves benefited from this
+      rules-based order for a long time. Well, didn’t he know how it worked all that
+      time? Behavior as a politician has been as an opportunist and even in making the
+      very nice speech that he made saying all the nice things as I said that’s jumping
+      ahead of the parade because he wants to protect his own politics and promote himself
+      as one of the leaders of all of this. People who are suddenly going to say, “Oh,
+      the world order’s been exploitative,” are going to be the main exploiters for
+      a long time. That’s why they know how exploitation works by having been exploited.
+      That’s the irony in all of this. The problem is that it was the exploited countries,
+      the former Soviet Union, China, and the Global South countries that didn’t really
+      understand how they were being exploited. All of a sudden, this says, well, you
+      have been, how are you going to explain it? That’s what I guess we’ve been talking
+      about in this broadcast? LENA PETROVA: The first three weeks of January have been
+      completely dominated by headlines about Venezuela and Greenland, Davos, and the
+      Trump administration, effectively making a statement that the entire Western Hemisphere
+      is under the US control. I’ve heard opinions that Washington is attempting to
+      reassert its dominance by gaining control of oil and mineral resources, which
+      would put it in a position to challenge China’s economic rise. Do you believe
+      that that is what’s driving, as many would refer to it, imperialist foreign policy,
+      or, are there any other goals that Washington is pursuing here? MICHAEL HUDSON:
+      The United States is not trying to challenge China’s rise at all. To do that,
+      it would have to industrialize and be a rival of China. It’s not trying to be
+      a rival of China. It’s trying to stifle China’s growth. It’s trying to hurt China.
+      But it’s in no position at all to challenge it. because of the reasons I said.
+      So what it’s tried to do, one of the cornerstones, probably the major cornerstone
+      of American foreign policy for a century, has been control of the oil trade. And
+      that’s because every country needs oil. You need oil to provide the electricity,
+      to run your factories, to produce products. You need oil for transportation. You
+      need oil to heat homes and to light the home. So the United States thought that
+      if it could impose sanctions against the use of oil, like it’s blocked German
+      industry and European industry from buying Russian oil and gas, the oil industry
+      includes the gas industry, then it could stifle their growth. How are you in a
+      position to say, we’re going to turn off the lights of any country whose growth
+      we want to stifle because they’re looking for their own growth, not that of the
+      United States? You need to stop other countries from producing oil that is not
+      controlled by the United States. You have to stop Venezuela from selling its oil
+      to China or Russia or Cuba. And you have to make sure that countries that do produce
+      oil, like Saudi Arabia and the Arab countries, save all and send all their oil
+      rents to the United States so that the United States ends up with a benefit. You
+      do not want Iran to be able to sell oil because it would use it for its own development.
+      And you don’t want Libya where continental oil had facilities for a long time
+      to develop its oil and invest it in gold to create a gold-based African currency
+      because that would be a rival to the dollar, so the United States uses oil as
+      a means to control. The United States doesn’t have to actually own the oil resources.
+      All it has to do is control the oil marketing of the oil to prevent countries
+      from selling oil to other countries, countries that are deemed America’s enemies
+      instead of its allies. So, this ability to control the marketing of oil and the
+      proceeds of oil, where are the economic rents, the natural resource rents of oil
+      invested? They all have to be sent back to the United States Center for the whole
+      thing. So that’s really what all of this fight over Venezuela is. The myth is
+      that this is the Monroe Doctrine, but it’s not the original Monroe Doctrine. The
+      agreement that the United States made right after the War of 1812, and an expansion
+      of European bank lending to the newly independent Latin American countries, which
+      had won their independence and had to borrow money in order to try to finance
+      their recovery after the destruction that colonialism had caused. The United States
+      said, “You stay out of our territory, we’ll stay out of your territory.” But the
+      United States has no intention of staying out of the Eastern Hemisphere’s territory.
+      We have the Western Hemisphere, but we also have the Eastern Hemisphere. That’s
+      why we have so much of our military spending, all surrounding Russia and China
+      and other Asian countries and the South Pacific. Already in 1898, when America
+      waged the Spanish-American War, the American president said, “Our manifest destiny
+      is to move across the Pacific.” And so we have to take control of the Philippines
+      in order to be able to control the trade with East Asia. Hawaii and Guam are refueling
+      stations for our Navy on the way. Already, they extended the Monroe Doctrine to
+      cover the Pacific Ocean and increasingly to the Atlantic Ocean as well, basically
+      through NATO, which expands all to Europe. The United States is really the only
+      sphere of influence in the world. What the National Security Council report of
+      last December came out with is thatthere are going to be five spheres of influence:
+      the United States, Russia and China (there are designated enemies), and then India
+      and Japan, sort of a proxy state of the United States, a satellite of the United
+      States. It’s not an independent currency, a political area. And India is sort
+      of the wild card in this. Trump believes, and certainly the government, the Trump
+      administration has said, that India doesn’t have a choice. It needs the American
+      market. But then you had Prime Minister Modi come out and say, “We really need
+      Russian oil because our economy needs oil to fuel our industry.” And so we’re
+      solving the military conflict that we’ve had with China and the Himalayas. We’re
+      really going to turn towards Russia and China. Now PM Modi and India are the head
+      of this year’s BRICS meeting. So, Trump has essentially, by overreaching his power
+      grab for the United States, driven other countries to the opposite extreme. This
+      is the blowback that he’s creating. And almost everything that Trump does creates
+      an opposite reaction, not only a revulsion, but a desire to say, “Well, we’ve
+      got to break away and be independent because otherwise Trump is going to continue
+      to try to disrupt our economy by preventing us from buying energy; preventing
+      us from buying anything we need, like access to the American market for our exports.
+      We’re going to find new markets for exports.” That’s what Canada did recently.
+      Carney went to China. He said, “We’re going to export agricultural products to
+      you. We can export oil to you. We will import your electric cars and other electric
+      vehicles, so much cheaper that I don’t think anyone’s going to buy American cars
+      anymore, or even German cars.” So it’s just amazing to see, almost like a Greek
+      tragedy, the tragic hero bringing about exactly the opposite of what he’d hoped
+      to do, Not to characterize Trump as a tragic hero, but tragic will pick up the
+      noun that you think would be appropriate. LENA PETROVA: With respect to the EU,
+      Trump doesn’t quite approach it as an ally. It’s become clear this past week at
+      Davos, and during the lead-up to Davos, when he made threats about tariffs being
+      imposed on eight European countries. He’s very transactional. He’s ready to impose
+      tariffs if they dare to not comply with his requests, let’s put it politely. And
+      in the case of Greenland, France briefly threatened with an “economic bazooka,”
+      but then Europeans announced that the biggest threat was still Russia and China.
+      Greenland was a point of no return in many ways because it revealed the true fabric
+      of the EU. So Europe’s dependence on the United States is growing. You mentioned
+      that it’s energy dependent on the United States. It’s politically and economically
+      not sovereign. So what do you see happening to Europe after this, Professor? MICHAEL
+      HUDSON: It’s a more pernicious dependency. Before the Davos meeting, you had the
+      head of NATO, Rutte, write a note to Trump essentially saying, “Don’t worry, Donald,
+      I’m on your side. I’m against the EU. Fortunately, NATO is running the EU. We’ve
+      got to talk about when we get to Davos, and I’m sure I can deliver Europe to you
+      and let you do everything you want in Greenland, just let me take care of these
+      other bastards in the civilian governments.” I’m paraphrasing what he said, but
+      it’s a disgusting suck-up memo, and indeed he tried to do that, and as Trump was
+      leaving the Davos meetings, he said, “I spoke to, you know, wonderful Mr. Rutte.”
+      And he said, “We’ve come to an agreement on what to do with NATO.” Well, that’s
+      the whole problem. NATO is running Europe. Europe is not a democracy. It’s run
+      by the United States via NATO. And that’s NATO that has put the awful Von Der
+      Leyen and Kallas in a position to be the surrender monkeys. It’s made sure that
+      the only officials in charge of foreign policy are servants of the United States,
+      not Europe. Their job is to ensure that Europe has no independent voice, doing
+      whatever the United States wants. And this exchange between NATO, Rutte, and Trump
+      should be better publicized. And it makes clear that in order for Europe to develop
+      and to be a democracy, it must dissolve NATO because the purpose of NATO is singular:
+      to attack Russia and to become an Asian power in the South China Sea, to attack
+      China as well. It’s an aggressive attacking power, and there’s no way that Europe
+      can win because NATO is a military spender, it is based on American arms that
+      don’t work. American anti-aircraft protection that we’ve just seen in Ukraine
+      does not work at all. American tanks don’t work. German tanks don’t work. British
+      missiles don’t work. It’s sort of like the joke about speculating in wine. People
+      buy rare wines at incredibly high prices, and then some billionaire takes it out
+      and tries to pour the wine for all of his fellow billionaire friends to impress
+      them, and they say, “Oh, it’s gone bad.” And the wine steward says, “This wine
+      isn’t for drinking, it’s for trading.” Well, that’s what arms are for – they’re
+      for buying and selling, they’re not actually for fighting, but since neither Russia
+      nor China has a privately owned arms-making industry, they actually make arms
+      to work and to fight in wars. That’s why their missiles, drones, and airplanes
+      have no problem at all just going right through the American and NATO defenses
+      there. So it’s all a myth. The function of NATO is simply to use arms purchases
+      to transfer enormous technological monopoly rents for weapons that charge far
+      more than their actual value. The famous markups on the $550 toilet seats for
+      the airplanes that the American military-industrial complex charges. It’s just
+      had the huge new ship, that destroyer, I think, that Trump has just sailed. Bathrooms
+      don’t work. The toilets don’t flush. They don’t work, but their function isn’t
+      to work. Their function is to make enormous profits for the manufacturers who’ve
+      been very careful to make parts of all of these military systems in factories
+      all over the country so that they can bring pressures on local representatives
+      and senators to try to defend the military and therefore employment in their district
+      as the excuse for creating these huge military industrial profits that are the
+      only industry that really works in the United States. It’s not really a competitive
+      industry based on the productivity of the weaponry or the efficiency or effectiveness
+      of the weaponry, but just on the political clout of telling countries, “You have
+      to buy our overpriced weaponry that really aren’t going to be much use for you
+      and require huge maintenance costs. But you have to do it as a tribute to the
+      United States. We don’t want to tell you to just send us money, but send us money
+      for the F-16, which is sort of our vehicle for the tribute you have to pay.” LENA
+      PETROVA: Absolutely. Do you think that subjugating Europe economically and politically
+      has been part of Washington’s plan or has it evolved into what we see now? The
+      EU willingly and joyfully gave up its sovereignty and has effectively become a
+      vassal.It is not a happy vassal anymore. It’s an unhappy slave, using Belgium
+      PM’s words. Has this been part of the plan all along, or is this just driven by,
+      an administration that’s in office? MICHAEL HUDSON: Well, that’s what my book
+      Superimperialism is about, which I wrote in 1972. Yes, of course, the whole purpose.
+      I have a whole chapter on how the aim of restructuring the post-World War II order
+      by creating the International Monetary Fund and the World Bank, what was planned
+      to be the World Trade Organization, was specifically to absorb the British Empire
+      into the American economy. The United States said, we have to have free trade.
+      You cannot have the Sterling area, require India and other colonies, or Argentina,
+      to use all of the savings that they’ve made during World War II providing the
+      allies with raw materials and other things; you can’t restrict their sterling
+      area savings to spending in Britain; they have to have a free choice, knowing
+      that Britain’s was not really a competitor and all this money was going to be
+      spent in the United States. They made a loan to Britain and said, “We’re giving
+      you a $5 billion loan, but you have to overvalue sterling.” So you’re pricing
+      your exchange rate so high that your industry won’t be competitive at all because
+      you’re charging too much for it because of your exchange rate, and you’re preventing
+      capital controls. So the whole way they structured the post-war economy was to
+      benefit the United States. All of this was acknowledged by America’s national
+      security strategy, which the Trump Administration published last month. It says
+      that the economic, international liberal economic order that was created after
+      World War II to serve the US interests worked for about 50 years, 70 years. It
+      doesn’t work anymore. So now we’re going to have to drop it and have a different
+      order. No more free trade, no more blocking capital controls. We can do whatever
+      we want. No more international law. We’ve got to reject everything about the United
+      Nations and say it’s the United Nations that rules the world, and then Trump said,
+      and by America rules the world, that means me personally as its lifetime king
+      of the—you know—the plan for so-called Board of Peace that he’s created with Tony
+      Blair. So this, of course, if you read Superimperialism , you’ll see how the United
+      States structured the International Monetary Fund, the World Bank, the foreign
+      trade system, the dollar system, the gold-based system of international reserves
+      to reflect America’s advantages as the world’s largest gold owner. By 1950, at
+      the time it went into the Korean War, the United States Treasury had 80% of the
+      world’s monetary gold. So, of course, it based the whole system on gold. But the
+      national security says, no, we can’t base it on gold anymore because we’re not
+      able to earn gold, and other countries are getting the gold. And so we have to
+      make other countries base their savings on U.S. debt and bonds. Well, if you look
+      at today’s trading in the bond market, you find that foreigners are buying gold
+      and selling U.S. bonds, just the reverse of this system that served the United
+      States so well for half a century or more after World War II. And of course, they
+      not only wanted to absorb the British Empire, but in 2022, they said, we really
+      want to subordinate Europe. How do we force European industry not to do what chemical
+      companies, BASF, and car companies are doing? We don’t want them to invest in
+      China to build up China’s industrial technology. We want them to invest in the
+      United States. Let’s wreck German industry. What will we do? We’ll not only blow
+      up the North Sea pipeline, the Nord Stream, but we will prevent Nord Stream, the
+      pipeline that’s still working, from operating at all. And we’ll have the European
+      countries saying, “We don’t want any inexpensive natural gas and oil from Russia.
+      We want to pay America 4 times as much because that’s where our paychecks come
+      from.” They didn’t add the balance, but that’s the implicit bit. They were willing
+      to destroy German, French, and other European industry just to say, “We owe it
+      to the United States to defend us against Russia, and that’s why we’re attacking
+      Russia, of course, which is forcing Russia to defend itself against this Western
+      Europe attack, and without any intention at all of actually invading. Nobody’s
+      going to invade another country in modern warfare. They bomb other countries.
+      No country can afford to move an infantry to occupy another country. That’s why
+      the United States uses proxy armies in the Near East and wherever it needs them.
+      Africa and South America ought to fight their wars. LENA PETROVA: Those over-the-horizon
+      strikes certainly dehumanized the entire process and made warfare invisible to
+      the U.S. population. And so they never really get to know what’s actually going
+      on. MICHAEL HUDSON: They’re making exploitation invisible. It’s as if we’re actually
+      earning money from our arms exports to fight the fact that the arms don’t work.
+      And if they did work, and European countries actually tried to fight to bomb Russia
+      even more than they’re doing out of their Ukrainian arena, that Russia would finally
+      simply—okay—we’re just going to, as Putin said—if you really attack us the next
+      time, there’s not going to be anybody to talk to after the next day of fighting.
+      Well, it’s obvious what he meant by that. LENA PETROVA: Yes, absolutely. Professor
+      Hudson, this has been such a fascinating conversation. I would love to continue
+      it soon. Thank you so much for joining me. I appreciate your time, and I certainly
+      hope you come back for a new episode. MICHAEL HUDSON: Well, thanks for bringing
+      up these points. It’s very timely. Photo by Nuno Antunes on Unsplash The post
+      The End of Dollar Discipline first appeared on Michael Hudson .'
+    one_sentence_summary: In a podcast interview, Professor Michael Hudson discusses
+      his insights on economics and politics with host Lena Petrova, highlighting the
+      educational value of his website, michael-hudson.com.
+    paragraph_summary: In a recent episode of the World Affairs in Context podcast,
+      host Lena Petrova interviews Professor Michael Hudson, who discusses the current
+      economic landscape in the U.S. as the national debt approaches $38.5 trillion
+      and interest costs exceed $1 trillion annually. Amidst a slowing economy and rising
+      inflation, Hudson highlights significant geopolitical events, including a U.S.
+      military operation in Venezuela, a failed regime-change attempt in Iran, and the
+      seizure of Russian oil tankers. He emphasizes the misconception surrounding the
+      national debt, asserting that the government can always print money to finance
+      its deficits, thereby alleviating concerns about the debt's implications.
+    published: '2026-02-02T11:23:42+00:00'
+  - title: The End of Dollar Discipline
+    url: https://michael-hudson.com/2026/02/the-end-of-dollar-discipline/
+    text: 'Professor Michael Hudson’s interview with Lena Petrova January 24, 2026 LENA
+      PETROVA: Thank you for joining us. I’m Lena Petrova with a new episode of the
+      World Affairs in Context podcast. Today, I’m absolutely honored to be joined by
+      Professor Michael Hudson. Please follow Michael at michael-hudson.com, where you
+      can find transcripts of his recent interviews and a variety of articles on current
+      events. I will link the site below, and I have to say that it is a wonderful resource.
+      I’ve learned so much from your work, Professor. Welcome to the program. Thank
+      you for joining me. MICHAEL HUDSON: Well, thank you very much. It’s michael-hudson.com
+      — everybody always gets that wrong. LENA PETROVA: Yes, thank you for correcting
+      me. I’m glad you did. I will link the website below so that our viewers can easily
+      check it out. I always learn so much from it — it’s like a complete course on
+      economics and politics. It’s absolutely wonderful, so our viewers really have
+      to check it out. The first weeks of January have been very busy. There’s a lot
+      going on. The U.S. national debt is approaching a new record of $38.5 trillion.
+      Interest costs to service that debt have surpassed $1 trillion per year. The economy
+      is slowing as inflation resurfaces. At the same time, in just the first three
+      weeks of the new year, Washington carried out a military operation in Venezuela,
+      kidnapped its president, and proclaimed that the entire Western Hemisphere is
+      under U.S. control. Washington also supported a failed regime-change attempt in
+      Iran, seized Russian oil tankers, formed a “Board of Peace,” and may now be considering
+      a military intervention in Iran. Professor, what is your take on these recent
+      events from an economic standpoint? MICHAEL HUDSON: Well, there’s a lot of confusion
+      about what problem the national debt actually poses. The government can always
+      print the money, and the Federal Reserve can create all the money needed to finance
+      the deficit. So there’s no problem there at all. If it has to pay a trillion dollars
+      in interest, it can just print it. It will make the bondholders rich, but nobody
+      really has to be taxed for it. That’s the basic principle of modern monetary theory.
+      The real problem with military spending isn’t the national debt itself. It’s the
+      balance of payments. What has forced the American balance of payments into deficit—beginning
+      with the Korean War and continuing through the 1950s, 60s, 70s, and much of today—is
+      foreign military spending. Military expenditures abroad were responsible for essentially
+      the entire balance-of-payments deficit during those decades. As more dollars are
+      spent abroad than come back in, the dollar is pressured to depreciate. To prevent
+      that, the United States has tried to force other countries to subsidize it. The
+      underlying mythology is that the U.S. needs foreign subsidy and payments to protect
+      itself from first a Soviet invasion, and now a Russian and Chinese invasion. The
+      pretense is that America’s massive military budget has to be paid for by foreign
+      countries—not because the U.S. wants to control them, not because it wants 800
+      military bases around the world, but because it’s supposedly “protecting” them.
+      That myth has enabled the creation of NATO and its use as a mechanism to dominate
+      Europe and force countries to hold their foreign exchange reserves in dollars
+      rather than gold or other currencies. We’re now seeing that system begin to unravel,
+      especially in the wake of recent events at Davos. The real question is how the
+      United States will finance its military and political domination now that it no
+      longer runs a trade surplus, has deindustrialized, and has become a debtor nation
+      rather than the world’s creditor. After World War II, the U.S. was the leading
+      industrial, financial, and military power. Today it no longer is. The only thing
+      it can offer other countries now is the promise not to destroy their economies
+      if they comply. That’s what Trump’s tariff threats represent: a protection racket.
+      This has become increasingly clear in Europe. Voters are beginning to ask why
+      they must put American interests first, why they must sacrifice their economies,
+      and why sanctions and energy policies are imposed that benefit the U.S. while
+      harming Europe. The claim that Europe needs protection from Russia or China is
+      increasingly exposed as a myth. If there is no genuine invasion threat, then why
+      impose sanctions, pay inflated prices for American LNG, and dismantle social democracy
+      to fund military expansion? What we are seeing is an attempt at intellectual warfare—shaping
+      how people think about civilization, law, and power. The U.S. frames itself as
+      “civilization” while labeling others as barbarians, obscuring the core principle
+      of international law since the Treaty of Westphalia: national sovereignty and
+      non-interference. Trump’s withdrawal from UN institutions, the creation of alternative
+      bodies like the so-called “Board of Peace,” and the rejection of multilateral
+      norms mark a sharp break with centuries of international order. The symbolism
+      is almost comical, but the implications are serious. This is why today’s discussion
+      matters. We’re witnessing a structural transformation of the world economy and
+      the global balance of power. LENA PETROVA: What’s striking is how much progress
+      made over centuries has been dismantled in just the past few years, especially
+      the last twelve months. The withdrawal from dozens of international organizations
+      signals a shift toward coercion and hegemonic restructuring. In one of your recent
+      essays, you wrote: “The overriding aim of U.S. policy today is to block countries
+      from withdrawing from the U.S.-controlled world economy and to prevent the emergence
+      of a Eurasian-centered economic system.” The more coercive Washington becomes,
+      the faster the rest of the world moves away from dollar dependence. Is this destructive
+      leverage—the use of sanctions, tariffs, and threats—the only power Washington
+      has left? MICHAEL HUDSON: Well, it doesn’t have the US market to offer, really.
+      Trump believes that he can create a US industrial market by tariffs. But the tariffs
+      that he’s imposing are not the kind of tariffs that countries that industrialized
+      like the United States in the nineteenth century, Germany in the nineteenth century
+      did. He’s imposing tariffs in all of the wrong ways. He’s put tariffs on raw materials,
+      like steel and aluminum, and that, instead of helping industrial manufactures,
+      it does help the steel unions and it helps the aluminum companies that I assume
+      have contributed to his campaign, but it increases the cost of anything that uses
+      steel and aluminum. And he doesn’t realize that tariff policy alone cannot industrialize
+      an economy and make it strong enough. Every country that’s industrialized had
+      a very strong role of government infrastructure. And in the United States in the
+      19th century, you had the first professor of economics at the first business school,
+      the Wharton School at the University of Pennsylvania, saying that we are used
+      to thinking of labor and capital and even land as a factor of production, but
+      we also have public infrastructure. And that is the most important factor of production
+      in making countries industrially competitive. Unlike capital, the infrastructure
+      doesn’t look at making a profit because it wants to lower the cost. It provides
+      basic needs, education, health care, and also natural monopolies, such as transportation
+      and communications, and subsidized prices so that the economy at large, including
+      the budgets of wage earners, does not have to pay monopoly prices for money. What
+      you’re seeing in the United States is that they do not have to pay monopoly prices
+      for privatized transportation. That’s a natural monopoly, yielding monopoly rents,
+      not privatized for natural communications. Electric companies, phone companies,
+      all this is privatized today. And when you have a natural monopoly, that enables
+      the owners to extract monopoly rents, and if you privatize natural monopolies,
+      and turn them into rent-extracting vehicles that are usually organized by the
+      banking and financial sector, then you’re going to have a high-cost economy. Trump
+      is doing everything he can to make America the highest-cost economy in the world,
+      and he’s succeeded. 18%, now I think it’s 20%, of America’s GDP goes for health
+      care, much more expensive than the socialized medicine, socialized health care
+      that you have in other countries. The education that is available is not free,
+      like in so many other countries. It’s $50,000 a year, forcing the wage earners,
+      the students, to begin their working life with a very heavy debt that, if they’re
+      going to get a job, the job has to pay them enough money to pay for this expensive
+      health care and to pay for this expensive education. And they have to buy privatized
+      transportation at a high price, monopoly rents, and privatized communication.
+      The neoliberal model of the economy that the United States represents is a high-priced
+      economy, but it’s not a high-value economy. You really have to go back to classical
+      economics of Adam Smith, John Stuart Mill, and Marx himself, who all said, “Well,
+      value is the intrinsic cost of production, producing a product. But prices are
+      higher than value, and the excess of price over value is economic rent.” Land
+      doesn’t have any cost of production. It’s provided by nature. And yet, if you
+      privatize the land tenure, ownership, and you let the landlord class, like Europe’s
+      feudal hereditary landlord class, charge whatever rent they’re able to squeeze
+      out of the market, then you’re going to have such a high-cost economy that, as
+      Ricardo said, as the population grows and puts more and more pressure on food,
+      you’re going to have food prices rising (and he could have added housing prices
+      rising as they’re all bought on credit), and there’s not going to be any room
+      for profits anymore. All of this was explained in the 1810s by Ricardo, and it
+      was elaborated. The great defense of industrial profits was, of all people, by
+      Marx in Volume 3 of Capital. It’s true that the landlord exploits the land and
+      makes income in his sleep, as John Stuart Mill put it. That’s exploitation. Creditors,
+      bondholders make interest, and they, coupon clippers, make interest in their sleep.
+      How do we treat the industrialist? Well, there is a kind of exploitation in the
+      sense that the industrialist, and all this is related to today’s industry, the
+      industrialist pays labor and sells the product of labor at a higher price. That’s
+      a profit. And Marx said, “But the industrialist does, the capitalist doesn’t make
+      money in his sleep. The capitalist organizes enterprise, he organizes a supply
+      of raw materials to be worked up by the labor, he organizes markets to sell the
+      products, he organizes productivity and tries to increase the productivity in
+      order to lower the costs to outcompete other countries.” Marx said that the international
+      dynamic of industrial capitalism is to keep cutting costs to compete with other
+      countries, and you need an increasing role of public investment in order to do
+      this. You need a tax system that finances the government spending by taxing economic
+      rent, the land rent, the monopoly rent, so that it’s not built into prices, and
+      that keeps the financial sector, such as banking, as a public utility, as it is
+      in China, so that instead of you having a financial class trying to make money
+      by loading the economy down with debt, and extracting interest, it steers credit
+      in order to finance new means of production, to build new factories, to employ
+      more labor, and that’s the dynamic of industrial capitalism. What Marx believed
+      that the tendency of industrial capitalism was just what almost everybody else
+      of his generation believed – that the tendency of capitalism was to evolve into
+      socialism. But that’s not what happened. The rentiers fought back. The landowners
+      got together with the bankers and the monopolists and said, there’s no such thing
+      as economic rent. There’s no difference at all between value and price. And that
+      means that everyone makes all of the wealth and the income that they have by playing
+      a productive role. And if they could erase in people’s minds the idea that people
+      can make money not by being productive, but just by being predatory, rent seekers,
+      then you’re not going to have any political party or movement saying, well, let’s
+      get rid of the economic rent extractors so that we have a low cost economy and
+      the value as the economy gets more productive and richer. Obviously, the price
+      of real estate, housing, and offices is going to go up. The value of credit is
+      going to go up. Let’s make sure that the economic surplus goes to increase the
+      economy’s growth, living standards, and productivity, not just creating a super
+      rentier class of financiers and monopolists and real estate owners at the top
+      of the pyramid, making their wealth by turning the rest of the economy into renters
+      and debtors and consumers instead of homeowners and operating in a debt-free environment.
+      So Trump and the whole American philosophy of development, which is the whole
+      Western theory of development, is opposed to the whole dynamic of industrial capitalism
+      that first made Britain and then France and Germany and America the leading industrial
+      countries of the 19th and early 20th centuries. So that’s part of the problem
+      with how we’re doing today. How can America really compete? What does it have
+      to offer now that it’s offshored its industrial employment and de-industrialized
+      and simply tried to make money by running into increasing debt to foreign countries
+      by saying if you make a profit selling to us, if you’re OPEC, and are selling
+      oil you can charge as much as you want for the oil but you have to keep all of
+      your savings in US dollars by buying US Treasury bonds or other US bonds. You
+      just have to keep all your money in dollars. Well, all of this is ending now,
+      which is why you’re having countries sell their dollars, buy gold and silver,
+      and each other’s bonds and currency. We’re seeing the end of the whole counter-revolution
+      against industrial capitalism that really gained momentum after World War I. The
+      Austrian school of economics, the libertarian school, and the neoliberal school
+      say there’s no such thing as government regulation. That’s the road to serfdom
+      without seeing that the road that we’re on now is the road to neo-feudalism. So,
+      there’s a fight over people’s minds and how are they going to think about things.
+      I’ve been reading the newspaper coverage of Davos and it says all of the blinders
+      have fallen away from the eyes of the visitors to Davos. They realize it’s all
+      been a myth, and that’s exactly what Mark Carney of Canada tried to do when he
+      jumped ahead of the parade by saying, you know, everything we were told about
+      the rules-based order is a myth. And he got a standing ovation for that. Well,
+      you can imagine how angry Donald Trump got at that, and he’s certainly going to
+      try to take things out against Canada for that. He got very angry when Macron
+      said the same thing and immediately threatened to impose 200% tariffs on French
+      champagne. You’re seeing an almost infantilized analogy of what is, in fact, a
+      structural restructuring of how the world economy works and, therefore, the direction
+      in which civilization itself is moving. LENA PETROVA: This is so fascinating.
+      I thought that Mark Carney’s speech was historic. What’s interesting is that Canada
+      and France have been part of the so-called rules-based order for a long time.
+      And now that it’s not convenient or the tables have turned, they said, oh, wait
+      a minute, this doesn’t work anymore. And so I thought it was refreshing to hear
+      PM Carney’s speech, but at the same time, I thought, well, this is what the entire
+      world has been trying to tell you for a long time now. The rules-based order has
+      been exploiting the Global South and is using other countries as a resource. Certainly,
+      it’s great to hear this from Western leaders, but it seems that this was long
+      overdue. MICHAEL HUDSON: Well, you’re right to make that point, because that was
+      acknowledged by Carney when he said, you know, we ourselves benefited from this
+      rules-based order for a long time. Well, didn’t he know how it worked all that
+      time? Behavior as a politician has been as an opportunist and even in making the
+      very nice speech that he made saying all the nice things as I said that’s jumping
+      ahead of the parade because he wants to protect his own politics and promote himself
+      as one of the leaders of all of this. People who are suddenly going to say, “Oh,
+      the world order’s been exploitative,” are going to be the main exploiters for
+      a long time. That’s why they know how exploitation works by having been exploited.
+      That’s the irony in all of this. The problem is that it was the exploited countries,
+      the former Soviet Union, China, and the Global South countries that didn’t really
+      understand how they were being exploited. All of a sudden, this says, well, you
+      have been, how are you going to explain it? That’s what I guess we’ve been talking
+      about in this broadcast? LENA PETROVA: The first three weeks of January have been
+      completely dominated by headlines about Venezuela and Greenland, Davos, and the
+      Trump administration, effectively making a statement that the entire Western Hemisphere
+      is under the US control. I’ve heard opinions that Washington is attempting to
+      reassert its dominance by gaining control of oil and mineral resources, which
+      would put it in a position to challenge China’s economic rise. Do you believe
+      that that is what’s driving, as many would refer to it, imperialist foreign policy,
+      or, are there any other goals that Washington is pursuing here? MICHAEL HUDSON:
+      The United States is not trying to challenge China’s rise at all. To do that,
+      it would have to industrialize and be a rival of China. It’s not trying to be
+      a rival of China. It’s trying to stifle China’s growth. It’s trying to hurt China.
+      But it’s in no position at all to challenge it. because of the reasons I said.
+      So what it’s tried to do, one of the cornerstones, probably the major cornerstone
+      of American foreign policy for a century, has been control of the oil trade. And
+      that’s because every country needs oil. You need oil to provide the electricity,
+      to run your factories, to produce products. You need oil for transportation. You
+      need oil to heat homes and to light the home. So the United States thought that
+      if it could impose sanctions against the use of oil, like it’s blocked German
+      industry and European industry from buying Russian oil and gas, the oil industry
+      includes the gas industry, then it could stifle their growth. How are you in a
+      position to say, we’re going to turn off the lights of any country whose growth
+      we want to stifle because they’re looking for their own growth, not that of the
+      United States? You need to stop other countries from producing oil that is not
+      controlled by the United States. You have to stop Venezuela from selling its oil
+      to China or Russia or Cuba. And you have to make sure that countries that do produce
+      oil, like Saudi Arabia and the Arab countries, save all and send all their oil
+      rents to the United States so that the United States ends up with a benefit. You
+      do not want Iran to be able to sell oil because it would use it for its own development.
+      And you don’t want Libya where continental oil had facilities for a long time
+      to develop its oil and invest it in gold to create a gold-based African currency
+      because that would be a rival to the dollar, so the United States uses oil as
+      a means to control. The United States doesn’t have to actually own the oil resources.
+      All it has to do is control the oil marketing of the oil to prevent countries
+      from selling oil to other countries, countries that are deemed America’s enemies
+      instead of its allies. So, this ability to control the marketing of oil and the
+      proceeds of oil, where are the economic rents, the natural resource rents of oil
+      invested? They all have to be sent back to the United States Center for the whole
+      thing. So that’s really what all of this fight over Venezuela is. The myth is
+      that this is the Monroe Doctrine, but it’s not the original Monroe Doctrine. The
+      agreement that the United States made right after the War of 1812, and an expansion
+      of European bank lending to the newly independent Latin American countries, which
+      had won their independence and had to borrow money in order to try to finance
+      their recovery after the destruction that colonialism had caused. The United States
+      said, “You stay out of our territory, we’ll stay out of your territory.” But the
+      United States has no intention of staying out of the Eastern Hemisphere’s territory.
+      We have the Western Hemisphere, but we also have the Eastern Hemisphere. That’s
+      why we have so much of our military spending, all surrounding Russia and China
+      and other Asian countries and the South Pacific. Already in 1898, when America
+      waged the Spanish-American War, the American president said, “Our manifest destiny
+      is to move across the Pacific.” And so we have to take control of the Philippines
+      in order to be able to control the trade with East Asia. Hawaii and Guam are refueling
+      stations for our Navy on the way. Already, they extended the Monroe Doctrine to
+      cover the Pacific Ocean and increasingly to the Atlantic Ocean as well, basically
+      through NATO, which expands all to Europe. The United States is really the only
+      sphere of influence in the world. What the National Security Council report of
+      last December came out with is thatthere are going to be five spheres of influence:
+      the United States, Russia and China (there are designated enemies), and then India
+      and Japan, sort of a proxy state of the United States, a satellite of the United
+      States. It’s not an independent currency, a political area. And India is sort
+      of the wild card in this. Trump believes, and certainly the government, the Trump
+      administration has said, that India doesn’t have a choice. It needs the American
+      market. But then you had Prime Minister Modi come out and say, “We really need
+      Russian oil because our economy needs oil to fuel our industry.” And so we’re
+      solving the military conflict that we’ve had with China and the Himalayas. We’re
+      really going to turn towards Russia and China. Now PM Modi and India are the head
+      of this year’s BRICS meeting. So, Trump has essentially, by overreaching his power
+      grab for the United States, driven other countries to the opposite extreme. This
+      is the blowback that he’s creating. And almost everything that Trump does creates
+      an opposite reaction, not only a revulsion, but a desire to say, “Well, we’ve
+      got to break away and be independent because otherwise Trump is going to continue
+      to try to disrupt our economy by preventing us from buying energy; preventing
+      us from buying anything we need, like access to the American market for our exports.
+      We’re going to find new markets for exports.” That’s what Canada did recently.
+      Carney went to China. He said, “We’re going to export agricultural products to
+      you. We can export oil to you. We will import your electric cars and other electric
+      vehicles, so much cheaper that I don’t think anyone’s going to buy American cars
+      anymore, or even German cars.” So it’s just amazing to see, almost like a Greek
+      tragedy, the tragic hero bringing about exactly the opposite of what he’d hoped
+      to do, Not to characterize Trump as a tragic hero, but tragic will pick up the
+      noun that you think would be appropriate. LENA PETROVA: With respect to the EU,
+      Trump doesn’t quite approach it as an ally. It’s become clear this past week at
+      Davos, and during the lead-up to Davos, when he made threats about tariffs being
+      imposed on eight European countries. He’s very transactional. He’s ready to impose
+      tariffs if they dare to not comply with his requests, let’s put it politely. And
+      in the case of Greenland, France briefly threatened with an “economic bazooka,”
+      but then Europeans announced that the biggest threat was still Russia and China.
+      Greenland was a point of no return in many ways because it revealed the true fabric
+      of the EU. So Europe’s dependence on the United States is growing. You mentioned
+      that it’s energy dependent on the United States. It’s politically and economically
+      not sovereign. So what do you see happening to Europe after this, Professor? MICHAEL
+      HUDSON: It’s a more pernicious dependency. Before the Davos meeting, you had the
+      head of NATO, Rutte, write a note to Trump essentially saying, “Don’t worry, Donald,
+      I’m on your side. I’m against the EU. Fortunately, NATO is running the EU. We’ve
+      got to talk about when we get to Davos, and I’m sure I can deliver Europe to you
+      and let you do everything you want in Greenland, just let me take care of these
+      other bastards in the civilian governments.” I’m paraphrasing what he said, but
+      it’s a disgusting suck-up memo, and indeed he tried to do that, and as Trump was
+      leaving the Davos meetings, he said, “I spoke to, you know, wonderful Mr. Rutte.”
+      And he said, “We’ve come to an agreement on what to do with NATO.” Well, that’s
+      the whole problem. NATO is running Europe. Europe is not a democracy. It’s run
+      by the United States via NATO. And that’s NATO that has put the awful Von Der
+      Leyen and Kallas in a position to be the surrender monkeys. It’s made sure that
+      the only officials in charge of foreign policy are servants of the United States,
+      not Europe. Their job is to ensure that Europe has no independent voice, doing
+      whatever the United States wants. And this exchange between NATO, Rutte, and Trump
+      should be better publicized. And it makes clear that in order for Europe to develop
+      and to be a democracy, it must dissolve NATO because the purpose of NATO is singular:
+      to attack Russia and to become an Asian power in the South China Sea, to attack
+      China as well. It’s an aggressive attacking power, and there’s no way that Europe
+      can win because NATO is a military spender, it is based on American arms that
+      don’t work. American anti-aircraft protection that we’ve just seen in Ukraine
+      does not work at all. American tanks don’t work. German tanks don’t work. British
+      missiles don’t work. It’s sort of like the joke about speculating in wine. People
+      buy rare wines at incredibly high prices, and then some billionaire takes it out
+      and tries to pour the wine for all of his fellow billionaire friends to impress
+      them, and they say, “Oh, it’s gone bad.” And the wine steward says, “This wine
+      isn’t for drinking, it’s for trading.” Well, that’s what arms are for – they’re
+      for buying and selling, they’re not actually for fighting, but since neither Russia
+      nor China has a privately owned arms-making industry, they actually make arms
+      to work and to fight in wars. That’s why their missiles, drones, and airplanes
+      have no problem at all just going right through the American and NATO defenses
+      there. So it’s all a myth. The function of NATO is simply to use arms purchases
+      to transfer enormous technological monopoly rents for weapons that charge far
+      more than their actual value. The famous markups on the $550 toilet seats for
+      the airplanes that the American military-industrial complex charges. It’s just
+      had the huge new ship, that destroyer, I think, that Trump has just sailed. Bathrooms
+      don’t work. The toilets don’t flush. They don’t work, but their function isn’t
+      to work. Their function is to make enormous profits for the manufacturers who’ve
+      been very careful to make parts of all of these military systems in factories
+      all over the country so that they can bring pressures on local representatives
+      and senators to try to defend the military and therefore employment in their district
+      as the excuse for creating these huge military industrial profits that are the
+      only industry that really works in the United States. It’s not really a competitive
+      industry based on the productivity of the weaponry or the efficiency or effectiveness
+      of the weaponry, but just on the political clout of telling countries, “You have
+      to buy our overpriced weaponry that really aren’t going to be much use for you
+      and require huge maintenance costs. But you have to do it as a tribute to the
+      United States. We don’t want to tell you to just send us money, but send us money
+      for the F-16, which is sort of our vehicle for the tribute you have to pay.” LENA
+      PETROVA: Absolutely. Do you think that subjugating Europe economically and politically
+      has been part of Washington’s plan or has it evolved into what we see now? The
+      EU willingly and joyfully gave up its sovereignty and has effectively become a
+      vassal.It is not a happy vassal anymore. It’s an unhappy slave, using Belgium
+      PM’s words. Has this been part of the plan all along, or is this just driven by,
+      an administration that’s in office? MICHAEL HUDSON: Well, that’s what my book
+      Superimperialism is about, which I wrote in 1972. Yes, of course, the whole purpose.
+      I have a whole chapter on how the aim of restructuring the post-World War II order
+      by creating the International Monetary Fund and the World Bank, what was planned
+      to be the World Trade Organization, was specifically to absorb the British Empire
+      into the American economy. The United States said, we have to have free trade.
+      You cannot have the Sterling area, require India and other colonies, or Argentina,
+      to use all of the savings that they’ve made during World War II providing the
+      allies with raw materials and other things; you can’t restrict their sterling
+      area savings to spending in Britain; they have to have a free choice, knowing
+      that Britain’s was not really a competitor and all this money was going to be
+      spent in the United States. They made a loan to Britain and said, “We’re giving
+      you a $5 billion loan, but you have to overvalue sterling.” So you’re pricing
+      your exchange rate so high that your industry won’t be competitive at all because
+      you’re charging too much for it because of your exchange rate, and you’re preventing
+      capital controls. So the whole way they structured the post-war economy was to
+      benefit the United States. All of this was acknowledged by America’s national
+      security strategy, which the Trump Administration published last month. It says
+      that the economic, international liberal economic order that was created after
+      World War II to serve the US interests worked for about 50 years, 70 years. It
+      doesn’t work anymore. So now we’re going to have to drop it and have a different
+      order. No more free trade, no more blocking capital controls. We can do whatever
+      we want. No more international law. We’ve got to reject everything about the United
+      Nations and say it’s the United Nations that rules the world, and then Trump said,
+      and by America rules the world, that means me personally as its lifetime king
+      of the—you know—the plan for so-called Board of Peace that he’s created with Tony
+      Blair. So this, of course, if you read Superimperialism , you’ll see how the United
+      States structured the International Monetary Fund, the World Bank, the foreign
+      trade system, the dollar system, the gold-based system of international reserves
+      to reflect America’s advantages as the world’s largest gold owner. By 1950, at
+      the time it went into the Korean War, the United States Treasury had 80% of the
+      world’s monetary gold. So, of course, it based the whole system on gold. But the
+      national security says, no, we can’t base it on gold anymore because we’re not
+      able to earn gold, and other countries are getting the gold. And so we have to
+      make other countries base their savings on U.S. debt and bonds. Well, if you look
+      at today’s trading in the bond market, you find that foreigners are buying gold
+      and selling U.S. bonds, just the reverse of this system that served the United
+      States so well for half a century or more after World War II. And of course, they
+      not only wanted to absorb the British Empire, but in 2022, they said, we really
+      want to subordinate Europe. How do we force European industry not to do what chemical
+      companies, BASF, and car companies are doing? We don’t want them to invest in
+      China to build up China’s industrial technology. We want them to invest in the
+      United States. Let’s wreck German industry. What will we do? We’ll not only blow
+      up the North Sea pipeline, the Nord Stream, but we will prevent Nord Stream, the
+      pipeline that’s still working, from operating at all. And we’ll have the European
+      countries saying, “We don’t want any inexpensive natural gas and oil from Russia.
+      We want to pay America 4 times as much because that’s where our paychecks come
+      from.” They didn’t add the balance, but that’s the implicit bit. They were willing
+      to destroy German, French, and other European industry just to say, “We owe it
+      to the United States to defend us against Russia, and that’s why we’re attacking
+      Russia, of course, which is forcing Russia to defend itself against this Western
+      Europe attack, and without any intention at all of actually invading. Nobody’s
+      going to invade another country in modern warfare. They bomb other countries.
+      No country can afford to move an infantry to occupy another country. That’s why
+      the United States uses proxy armies in the Near East and wherever it needs them.
+      Africa and South America ought to fight their wars. LENA PETROVA: Those over-the-horizon
+      strikes certainly dehumanized the entire process and made warfare invisible to
+      the U.S. population. And so they never really get to know what’s actually going
+      on. MICHAEL HUDSON: They’re making exploitation invisible. It’s as if we’re actually
+      earning money from our arms exports to fight the fact that the arms don’t work.
+      And if they did work, and European countries actually tried to fight to bomb Russia
+      even more than they’re doing out of their Ukrainian arena, that Russia would finally
+      simply—okay—we’re just going to, as Putin said—if you really attack us the next
+      time, there’s not going to be anybody to talk to after the next day of fighting.
+      Well, it’s obvious what he meant by that. LENA PETROVA: Yes, absolutely. Professor
+      Hudson, this has been such a fascinating conversation. I would love to continue
+      it soon. Thank you so much for joining me. I appreciate your time, and I certainly
+      hope you come back for a new episode. MICHAEL HUDSON: Well, thanks for bringing
+      up these points. It’s very timely. Photo by Nuno Antunes on Unsplash The post
+      The End of Dollar Discipline first appeared on Michael Hudson .'
+    one_sentence_summary: In a podcast interview, Professor Michael Hudson discusses
+      his insights on economics and politics with host Lena Petrova, highlighting the
+      educational value of his website, michael-hudson.com.
+    paragraph_summary: In a recent episode of the World Affairs in Context podcast,
+      host Lena Petrova interviews Professor Michael Hudson, who discusses the current
+      economic landscape in the U.S. as the national debt approaches $38.5 trillion
+      and interest costs exceed $1 trillion annually. Amidst a slowing economy and rising
+      inflation, Hudson highlights significant geopolitical events, including a U.S.
+      military operation in Venezuela, a failed regime-change attempt in Iran, and the
+      seizure of Russian oil tankers. He emphasizes the misconception surrounding the
+      national debt, asserting that the government can always print money to finance
+      its deficits, thereby alleviating concerns about the debt's implications.
+    published: '2026-02-02T11:23:42+00:00'
+  - title: Europe’s Cold War Trap
+    url: https://michael-hudson.com/2026/01/europes-cold-war-trap/
+    text: 'How Sanctions, Seized Assets and US Pressure Are Unravelling the EU ⁣NIMA
+      ALKHORSHID: Welcome back, Richard and Michael. ⁣RICHARD WOLFF: Welcome to you
+      too. Thank you. ⁣NIMA ALKHORSHID: And happy new year to both of you. ⁣RICHARD
+      WOLFF: Yes, and to you. ⁣NIMA ALKHORSHID: And to our audience. And Richard, let
+      me start with you. You’ve been to France recently, before the new year. So, when
+      it comes to France and the problems it’s dealing with, what is the main issue
+      facing France and Europe? ⁣RICHARD WOLFF: I think the main issue in France is
+      the whole decision-making apparatus. I’ve been going to France for a long time.
+      I speak French. My father was born in France. I have connections there that follow
+      from all of that. I have never in my lifetime heard the level of alienation of
+      a random collection of people that I know and that I spoke with while I was there.
+      And the Macron government. It is not an exaggeration to say that an enormous part
+      of the French population, and particularly in and around Paris, has a role in
+      French society and culture that is hardly equaled anywhere else. And so, if you
+      don’t have Paris, you already got a problem. And Mr. Macron does not have Paris
+      at all. There is eager excitement for him to be gone from the scene. People mock
+      him when he’s on television in the bar. They mock him on the street. It is quite
+      something to encounter. And people make comparisons. The one that I found the
+      most remarkable was in a short conversation that actually my wife had with a person.
+      We were at a cafe. And the person asked my wife whether she supported Mr. Trump.
+      And my wife laughed and said, oh no, quite the opposite. And the person, the French
+      citizen, responded in a kind of compassionate tone, “Well, in our country, we
+      hate Mr. Macron, but the whole world hates your president.” That’s the difference.
+      So it gives you a sense of what the feelings were. Now, what are the reasons?
+      Well, the reasons are everything from the surface, the superficial, on to the
+      deep and the historical. So, for example, Mr. Macron is forever undermining, reducing,
+      attacking the social welfare system of France. And let me remind everyone: it’s
+      quite a developed social welfare system. When you graduate high school or college
+      in France and you take your first job, your employer is required to give you five
+      weeks of paid vacation every year from the beginning. The university system is
+      basically free. You have to pay for your food and lodging, but you don’t pay fees
+      or tuition or things like that. If you have an injury or if you get sick, you
+      are covered by a medical insurance program of the government from your birth to
+      your death. You cannot go bankrupt out of medical expenditures, the way is common
+      here in the United States. Daycare for children is provided, for example, in Paris
+      as a public service. There is a charge, but it’s very, very low. It’s something
+      that most working class couples, if they’re both working, can readily afford,
+      which is how they can both work because they have that system in place. And by
+      the way, all of these services, all of these public services have been in place
+      in France for many decades. These are not new programs. They work well. They are
+      adequately funded a little bit less now than they used to be. And that’s an issue.
+      Mr. Macron is blamed for that. He has tried repeatedly to attack the pension program.
+      So far, largely unsuccessfully, some success, but nothing of the sort that he
+      had hoped for, and so on. Number two, he is a supporter of Ukraine and therefore
+      involved as he was in the effort to use the money seized from Russia, the balances
+      in Western currency that Russia had kept in banks and banking institutions in
+      Belgium and other parts of the European Union. The estimates about this are very
+      fuzzy, but range from two to three hundred billion dollars or euros as the rough
+      size. In the first couple of years, Mr. Macron sounded like he supported the idea
+      that private property is an inviolable principle of capitalism and that therefore
+      the Europeans could not and should not take Russian money. There really is no
+      precedent for that. And since this was not a war, you know, dwarfing World Wars
+      I and II, it didn’t seem necessary to him. Then they weren’t able to win. Then
+      they tried the sanctions program. It is generally admitted in France now by almost
+      all, not all, but by almost all, that the economic sanctions have failed. They
+      did not prevent Russia from fighting the war, funding the war, escalating the
+      war as they needed to, and there’s no sign that it’s going to do that either.
+      And that is the case. The newspapers are full of it too. The occasional drone
+      attack on an oil tanker somewhere doesn’t change any of that. And then there was
+      a spectacular failure over the last year when the Europeans, including Macron,
+      decided to put the inviolability of private property out the window and to go
+      after the Russian money. First, they took the interest, which I believe they have
+      already spent on Ukraine. Then Mr. Macron, together with Mr. Merz from Germany,
+      developed their view. (And remember, those are the two dominant economies in Europe.
+      The only others are Britain and Italy, and they are lesser than France and Germany.)
+      So they decided they would take the whole 200 billion and give it to Ukraine to
+      get at least another year or two of war against Russia. I should mention before
+      I bring this to a head that the demonization of Russia and the demonization of
+      Putin is as intense now as it has ever been, and I include the Cold War after
+      World War II. It’s more intense now, extraordinary. Anyway, a number of countries,
+      other than France and Germany, led by Belgium, the Czech Republic, and one or
+      two others, publicly refused to go along with what would have to be a unanimous
+      decision of the European Union to seize Russian assets in that way. And the Belgians
+      were unwilling to allow a loan to be floated that was used as a guarantee of those
+      Russian assets. And I want to stress here, so that everybody understands it, the
+      enormous historical significance far beyond Ukraine, far beyond anything we’re
+      discussing, of the defeat of Europe because it could not seize the Russian assets.
+      The one thing worse for Europe than making the effort to do that was failing in
+      the effort to do that. Because that got them all the negatives, all of them, from
+      their effort with no positives. No money for Ukraine, no loan that’s going to
+      be backed by somebody else’s wealth. So, here let me conclude by telling you what
+      some of these consequences are. First, every central bank in the world watched
+      this theater. Every central bank knows that if you keep money in Europe, which
+      virtually every central bank does, that money may be weaponized against you in
+      the manner that the Europeans, unlike anyone else, seriously tried to do and have
+      done with the interest on that money. Which means, slowly but surely, the central
+      banks of the world are going to continue to diversify out of the Euro, out of
+      the dollar, because those are dealt with as partners so far. And that’s one of
+      the reasons why other currencies, the Japanese, the Chinese, are becoming slowly
+      more important, they’re still minor, but slowly becoming important in central
+      bank thinking. And you have, of course, and you should be aware of this, everyone
+      should, the spectrum rise in the value of gold and silver over the last year,
+      which is where the central banks are moving their holdings to. So, this is a long-term
+      blow at the European economy in its position in the world. As if that weren’t
+      enough, the United States is clearly withdrawing from funding Ukraine. It is therefore
+      putting a greater burden on Europe to try to keep this going. Now that they can’t
+      take the Russian money and the American support is shrinking, if not disappearing,
+      more and more of the pressure comes on them and on their budgets. And they can’t
+      borrow the way they once could because of their economic decline. So they’re left
+      with the need to cut back on social welfare spending, plunging them. And let’s
+      remember, these are centrist governments or right-wing centrist governments. So
+      they are particularly vulnerable to the left-wing parties and the labor movement,
+      and because the organization to support public service is much stronger in Europe
+      than it is in the United States, and people have to keep that in mind. So you’re
+      setting up a catastrophic political conflict across Europe, and  this is not going
+      to work. You’re going to see a fracturing. Americans who come out of the Cold
+      War might think: well, it’s just sort of the Cold War holds on. No, this is more
+      intense, the Cold War is over, but the hostility, why? Because it’s the only card
+      the European governments can play. They are taking away from the mass of the people
+      the social welfare that they have come to rely on. My French family relies on
+      free higher education, on free medical care. I mean, it’s just completely different.
+      The idea that this could be taken away or reduced motivates them to do yellow
+      vest movements and get into the street. So I think what we’re going to see in
+      2026 is an intense playing out of the political struggle between a shrinking,
+      failing, conservative governmental apparatus. Unfortunately, I include Starmer,
+      Merz, Macron, all of them, basically, possibly the exception of the leader in
+      Spain, but very few departures in the major European countries. They are going
+      to be holding on for dear life to their political power, and their number one
+      way of doing that is by saying that they’re protecting against the Russian menace.
+      They have to act as though Russia was about to invade all of Europe, subordinate
+      all of them, and that only the government in power will hold it back. And from
+      below will be the demand for public services to be honored and to be maintained.
+      And they will get no help from the United States because the United States has
+      a wholly different agenda. They want what they call stability in Europe. Trump
+      is eager to make some sort of deal with Putin to arrange for all of that. Putin
+      is not going to allow that to be Mr. Trump’s achievement if he’s busily supporting
+      the anti-Russian hysteria in Europe. And so they have nowhere to turn. There is
+      a sense all over France that I encountered of a real sad feeling that what is
+      important in France, the grandeur, as they put it, is under attack in a way it
+      never has been before, that they are suffering a very tragic decline and they’re
+      really torn. The largest bloc in the National Assembly is the left wing, led by
+      Jean-Luc Melenchon, a former communist political activist. And he, under his leadership,
+      has unified the left. They stand together. They put up one list of candidates,
+      which is why they are the biggest block in the assembly. They have achieved the
+      unity of the left, which has eluded most of the left wings in other parts of Europe.
+      And so they may be the leader in dumping Mr. Macron and becoming a major new direction.
+      I should mention in passing, noticeable on the streets of Paris were vehicles
+      that were BYD cars and trucks. Those are the Chinese electric automobiles. They
+      are coming into France. There’s no question about it. And however that gets dealt
+      with, the signs are there. You will not see them in the United States, but you
+      will see them on the streets of Paris. ⁣NIMA ALKHORSHID: Michael, I think one
+      of the crucial points that Richard has mentioned is how Europe was trying to steal
+      Russian assets to give it to Ukraine to buy new weapons for Ukraine. ⁣MICHAEL
+      HUDSON: Well, I think that Richard was quite right. This is sort of our New Year
+      broadcast, and we’re supposed to say something about how the world is evolving
+      in the coming year. And I think we’re quite rightly focusing on Europe because
+      that’s where all of the strains are. Everywhere we look all over the world, it
+      looks like everything’s ready to snap, to break. The question is: how is it going
+      to break? And the answer is the consciousness of the people. And the consciousness
+      of Europe, as Richard has just pointed out, is shaped by the Cold War. In the
+      year of Trump’s presidency, we can now see that the United States’ strategy of
+      restoring its former power over the world’s trade and financial system is all
+      based on the ideological umbrella of the Cold War. And there’s been a one-two
+      punch by the United States against Europe and against other countries. The first
+      punch was to isolate Europe and other allies, Japan, South Korea, from trading
+      with the most rapidly growing parts of the world economy, which are China and
+      East Asia. How are you going to do that? Well, you want to cut off trade and investment
+      with America’s two designated enemies, Russia and China. And you do this by, as
+      Richard pointed out, this myth that somehow Europe needs American protection against
+      the mythical attempt by Russia to take over Europe again, rebuild the Soviet Union,
+      and extend it eastward, certainly to include Germany and other European countries.
+      Now, that’s all a myth. But it was the umbrella myth that enabled the United States
+      to say, well, you need our protection against Russia, and this is going to have
+      to come at a cost. And if you want us to protect you against Russia and ultimately
+      China as the existential enemy to the whole economic system that we have in the
+      United States and Europe, then you have to cut off your trade, despite the fact
+      that all of your planned prosperity before 2022 was based on expanding trade and
+      investment with Russia, China, importing raw materials, oil, gas, and other materials
+      from Russia, importing manufacturers from China, and expanding German and other
+      European industry abroad in these countries to somehow have a balanced growth
+      and turning away from the United States, which is not industrializing, but deindustrializing,
+      to do that. So, by the time Trump took office, the United States had convinced
+      these countries not to pursue their natural economic interest of mutual trade
+      and investment with Asia, which I include Russia in. And that enabled Trump to
+      follow what has become a one-two policy. To say, okay, now that you put all of
+      your eggs in the U.S. basket, without trade with Asia, you have only one big export
+      market, and that’s the United States. Trump then said, and now I’m going to pass
+      my April 2nd Liberation Day tariffs and cut off all your trade with the United
+      States unless you do give backs. And the give backs are, you’ve got to, number
+      one, agree to very strict new sanctions, tighter sanctions on Russia and China,
+      and any BRICS countries that support them. In other words, 85% of the potential
+      world market, so that you’re totally dependent on the United States. Secondly,
+      we’re going to raise tariffs that you’re going to have to pay. Third, you’re going
+      to have to deindustrialize your economy because now that we’ve closed the U.S.
+      market to you and you’ve had to triple or quadruple the price of energy by blocking
+      off Russia oil and gas, now you have to relocate your major industries to the
+      United States, not China, not Russia, not to Central Asia, and not to the BRICS
+      countries, but to the United States. And if you don’t do that, we’re going to
+      keep tariffs so high that your industrial companies, especially those of Germany,
+      that have depended on export markets for their major growth, you’re going to all
+      of a sudden have to close down your factories, lay off your labor force, and just
+      passively deindustrialize. Because if you don’t, then you will lose the American
+      umbrella that is protecting you. Richard has pointed out that the left wing in
+      Europe, and certainly in France is very strong, and yet the European Union is
+      controlled by the hard right pro-war, pro-Cold War, neocon wing that has appointed
+      von der Leyen and Kallas, the passionate anti-Russians in charge of its foreign
+      policy. And von der Leyen, when she surrendered to all of Trump’s demands for
+      give backs, Europe has to relocate its industry in the United States away from
+      its own employment. Von der Leyen said, well, we did it because of the Cold War.
+      At least we have stability now. And Trump, she said, is assured stability. Here
+      we finally have a stable ruler and we know what the rules will be now. The rules
+      are going to force us to deindustrialize, but that’s the price we have to pay
+      to protect Germany from the Cold War, because next time they’re not going to stop
+      at Berlin as they move west, they’re going to take all of Germany. And her associates,
+      the EU and German finance ministers and other officials, said, yes, it’s not just
+      about achieving balanced trade. It’s all about the Cold War. So this Cold War
+      has become the ideology that Europe needs the United States. And of course, then
+      Trump said, okay, now I’m pulling out the rug from under you. I’m not going to
+      pay for your Cold War with Ukraine, with Russia in Ukraine. The fight in Ukraine
+      is not a fight between Russia and Ukraine. It’s between Russia and Britain, Germany,
+      France, and the EU leadership, which is totally monopolized by the pro-Cold War
+      faction that is willing to do just what Richards described, cut back social spending.
+      They say: We’re in a war economy now because what we’re fighting for is European
+      values. And the European values we’re fighting for are those of Ukraine. Total
+      military control of the media, one-party control, banning political opposition
+      to the lead party. We need our values to be those of Ukraine. We need a military
+      kleptocracy here, just like they have. I mean, this is the nightmare that is being
+      welcomed by Europe. So what is really an issue here, even if we’re talking about
+      economic interests being the main driver, the issue is: will this ideological
+      umbrella that the Cold War with Russia come first? “We must share the British
+      and German hatred of Russia and the Baltic hatred of Russia. That has to become
+      the guiding principle of our domestic economic policy. And yes, there are going
+      to be sacrifices. We will de-industrialize. We will lose the European, mainly
+      German, also French and Italian industrial trade that we had before. But it’s
+      the price to be paid. We have to become basically an economic colony of the United
+      States” This must be the ideological political discussion to take place in Europe
+      in order for there to be an opening for Europe to follow its seemingly economic
+      self-interest, which all along was what existed before 2022. If you’re going to
+      have an export market, you’re going to look for, well, what economies are growing
+      most rapidly. The myth is that somehow, if European countries are going to industries,
+      the steel industry, the German auto industry, German machinery industry, similar
+      industries from Japan, Taiwan, and South Korea, if they move to the United States,
+      can that succeed in industrializing the United States? Well, it really can’t.
+      And that brings up the second issue that we’ve discussed before. I think two shows
+      ago, Richard pointed out that when he and I were in school for our PhDs, one of
+      the most popular courses was development economics. Everything they were teaching
+      in development economics was irrelevant. They all assumed: What is development?
+      It was Keynesianism, military Keynesianism. Spend more money into the economy
+      and the economy will grow. There was no discussion of, well, what’s the shape
+      of the economy? What’s the tax system? How do we follow the same policies of growth
+      that Britain, the United States, Germany all followed? Protective tariffs, subsidy
+      of industry, and most of all, keeping basic utilities, communications, transportation,
+      natural monopolies in the public domain by socializing monopolies instead of leaving
+      them in private hands to make monopoly rents. None of this is discussed in normal
+      economics. You weren’t supposed to question the structure of monopoly. Just how
+      do we make existing economic systems bigger, even though these economic systems,
+      through the countries that were called underdeveloped, were underdeveloped because
+      they were rentier systems, they were client kleptocracies. They were systems that
+      weren’t developing at all. And these undeveloped economies were just to be made
+      bigger, which meant concentrating whatever increasing income they had at the top
+      of the economic pyramid. All of that has to be brought into question, and you
+      would expect that with the kind of economic shrinkage that we’re seeing in Europe
+      now, that’s going to reopen the whole chance for this kind of a discussion to
+      take place. The question is: will it? The Germans and the British have basically
+      banned all discussion, for instance, criticism, for instance, of the Israeli policy
+      against the Palestinians. You’re not allowed to complain about what’s happening
+      in the Palestinian areas by the Israeli expansion. You’re not allowed to explain
+      why Russia is so threatened by NATO’s expansion, because American security is
+      defined as obliterating Russian security, obliterating other securities. American
+      security is not secure unless no other country has a security to protect themselves
+      against American political, military, and financial pressure, like seizing Russia’s
+      money, to force them to follow U.S. policy. So the discussion in the public media
+      is not touching on the kinds of things that we’ve been discussing on this program
+      for the last half year, Nina. That’s the question: how can Europe break through
+      this trap of tunnel vision that it’s locked into, which has prevented it from
+      solving the problem of how to break away from trying to save an American industrial
+      economy that itself cannot be saved until you transform the American economic
+      system – just as you’re transforming the European economic system – in the way
+      that Asian countries, China especially, have been changing their economic systems
+      by, as we’ve said before, reinventing the same wheel that American industrialists
+      developed in the 19th century to develop their own industry, when this was called
+      evolving into social democracy, or, to put it in one word, socialism. ⁣RICHARD
+      WOLFF: I want to go based on everything we’ve been discussing and ask the question:
+      why, or how might we explain the notions in Europe that we’re talking about, this
+      ideological commitment, the anti-Russian everything, conservative governments,
+      all of that on the one hand, and the strategy of the United States to try to cut
+      a deal of some sort with Russia to ‘stabilize’. I think from the European perspective,
+      what we’re watching, and we need to keep it in our minds, is this ultimate ironic
+      consequence of hundreds of years of colonialism. Towards the end of Marx’s Capital,
+      he makes a comment about how his next project is going to be to talk about how
+      capitalism creates, for the first time, a genuine world economy, an economy in
+      which all the different parts of the world participate and become dependent upon.
+      And people tend to go over that and see it as an appreciation of capitalism, if
+      you like. I want to argue that it is, in a way, the death, at least of Western
+      capitalism. Why? Well, I’m going to show it to you by going back to how it is
+      that the Russians were successful in preventing Europe from seizing Russian assets
+      to keep that war going for another year or two without the domestic opposition
+      they are now confronted with. The reason the Russians were able to avoid that
+      bullet, and let’s be clear, had that been done and had that money been raised
+      in that way and had it been used to give Zelensky the money and the weapons that
+      he keeps asking for, you would have had that war continue for quite some time.
+      Nobody knows how long, but for quite some time, at enormous cost to Ukraine, to
+      Russia, etc. Here’s why. The Russians did two things, one earlier and one quite
+      recently. The one earlier was to make it clear that if the West seized Russian
+      assets in the West, Russia would seize Western assets inside Russia, which, because
+      of the development of the world economy, are large. People have to understand,
+      Putin made it crystal clear, if you actually the assets not the interest, he let
+      them take that. He didn’t push back on that the way he could have. But if you
+      take the principle, then I’m going to take your stuff. The thing he did most recently,
+      just a few weeks ago, was to have the government of Russia go into court and to
+      announce that if loans were made to Ukraine, which everybody knows Ukraine cannot
+      pay back, so that the lenders, whoever they are, will demand the collateral, which
+      is the Russian assets. That’s the idea of what Europe was doing. Putin went into
+      court and said, this is an act of the European Union. And if you do that, we,
+      the Russians, will go into every court in every jurisdiction inside every country,
+      you know, Malawi or Paraguay or Canada, and we will sue to recover assets stolen
+      from us. And you know, and we know that we’re going to win a lot of those judgments,
+      partly because they’re in countries that are our allies. Suddenly, if you allow
+      me, the dialectic of creating a world economy comes back to bite the United States
+      and Western Europe right in the rear end. The world economy their colonialism
+      began and did the first steps of has now taken on its own growth logic, drawing
+      many of the big companies in the West to want to profit from what they can do
+      in China, in India, in Brazil, and all those other places. And now, as Hegel taught,
+      you become dependent on those you made dependent on you. You become dependent
+      on the dependent relationship, not just the other guy. Remember, in Hegel, the
+      master and the slave, the master becomes dependent on the relationship to the
+      slave, because the slave is made to do everything, and the master can’t. That’s
+      what we have now. The West can’t do it. And I would disagree a little bit with
+      Michael. Whatever their ideological note, they’re not going to solve this problem,
+      the Europeans and the Americans. I don’t see it. Normally I see, they’ve gone
+      through many crises. I’m the first one to admit it. You know, the old joke: what
+      do Marxist economists say with great pride? With great pride, they announce they
+      have predicted 10 of the last four recessions. Right? That’s a joke, but it’s
+      a joke, like all good jokes, that has its grain of truth. But I don’t see a way
+      out. I don’t see a lot of European companies finding their energy costs so high,
+      they’re going to move to the United States. Are you kidding? Move to a country
+      as destabilizing as this one? A country that has to go to the Supreme Court to
+      find out it can’t use its own troops against its own people in its own cities?
+      My goodness, you know, they’re not coming because it would be crazy to do so.
+      The United States may want stability, but it doesn’t have stability. And it can’t
+      offer it to anyone either. Can you imagine the conversation among German industrialists
+      bemoaning what the United States did to them and then having them say to each
+      other, well, it’s okay, we can move to the United States. They don’t want to,
+      and they don’t see that as a solution to their problem. And they’re not going
+      to spend billions or even trillions making such a move when the risk is so enormous.
+      That’s not what they do. Here’s then the irony. Just as capitalism begins in England,
+      enables the British Empire, and then watches as the British using their empire
+      cannot save their own capitalism, even using it. So they are the pathetic objects
+      we observe now. Well, Europe is following, and the United States is following.
+      And in the same way, its own empire and the development of it, both the development
+      they controlled, in those countries that got foreign aid, but even more the countries
+      they couldn’t control because they didn’t give them foreign aid – you know, Russia,
+      China, North Korea, Vietnam, and so on – they’re the leaders. They’re the leaders
+      of the breakaway tendencies. I think the depression I have encountered the last
+      two weeks in Paris, still one of the most beautiful cities in the world, but the
+      depressive feeling that the people there themselves talk about is, I don’t want
+      to become mystical here, but is in a way the awareness, even among the leaders
+      we are criticizing, that the days of the European center of the world are over,
+      and they’re not just over for Europe, they’re over for where the Europeans settled.
+      North America, Australia, New Zealand. Those places are having to readjust to
+      a new world. They don’t want to, they’re worried about it, but I don’t see where
+      an option to what I’m describing offers an alternative path. And that’s the final
+      point. At the new year, reacting as we all are, or I’m assuming we all are, to
+      a tumultuous year of Mr. Trump the second time around, when he has shown much
+      more of his wild, extreme predilections than he did the first time, or has been
+      able to get them through, you are watching a political theater of desperate actions.
+      And it’s frightening. The Wall Street Journal gave him a nasty report card at
+      the end of his first year, I believe in yesterday or today’s edition. Mr. Murdoch
+      is worried that this is spinning out of control. And here’s my ironic thought.
+      That’s what the people in Paris were saying. We fear it is spinning out of control.
+      Mr. Macron is in way over his head. He can’t manage it. He’s not managing it.
+      He prances around and people make fun of him as a kind of irrelevant clown. And
+      isn’t that true of our country, there are an awful lot of people who are beginning
+      to see Mr. Trump as somebody they want to back away from? Look at Marjorie Taylor
+      Greene. Look at Elise Stefanik. They’re leaving. They’re leaving because they
+      can see on the wall they’re polling. Things are spinning out of control. ⁣MICHAEL
+      HUDSON: Well, Richard, you’ve left a pretty big loophole when you say Europe would
+      have to be crazy to relocate its industry in the United States. Well, European
+      policymakers are crazy. So what are we to do? Well, what may introduce a note
+      of reality is just because the government of von der Leyen and the EU have promised
+      to relocate, I think, from 200 to 400 billion dollars of industry away from Europe
+      to the United States, doesn’t mean that they can force the actual companies to
+      do it. How can they force the big car manufacturers, international harvesters,
+      the glass-making companies that can’t get inexpensive gas to make glass anymore,
+      the machinery companies? How can they convince these companies to actually relocate
+      when the companies find the same problems that Japanese companies and Taiwanese
+      companies and Korean companies have found? Japan has committed itself to shifting
+      $550 billion to $750 billion of investment to the United States to employ American
+      labor instead of the steadily shrinking Japanese labor force as the population
+      simply is not reproducing itself anymore. The Korean companies have said, well,
+      the government has promised $350 billion to relocate there, but we can’t afford
+      that at all because we’re not able to earn the export proceeds of our cars and
+      electronic equipment to America because of the tariffs. We tried to relocate this
+      big computer company into the American South, but Trump’s people arrested our
+      Korean workers and deported them and said, employ American workers. But we found
+      that the American workers are not up to the standards of creating a sophisticated
+      high-technology factory that we need in order to make our goods. So the Koreans
+      who were deported don’t want to go back there because of the American racism and
+      anti-immigrant feeling that Trump has stirred up, just as the European countries
+      are stirring up the anti-immigrant feeling against Ukrainians, Muslims, and other
+      refugees from others. Taiwan had promised to build an enormous computer chip affiliate
+      in the United States from its leading computer manufacturing company, but it said
+      we’re really having problems. We can’t find enough American labor that can work
+      on high-technology installations because they don’t want to have a blue-collar
+      job. That’s the spirit of America. Everybody wants to make money financially.
+      We’re not in an industrial capitalist country anymore. That’s already been outsourced
+      to other countries. We’re in a financial capitalist country, and the financialization
+      of the American economy is what has made it so high cost. The increase in bank
+      credit to inflate housing prices has increased what American wage earners have
+      to earn in order to be employed by their employers, and afford the housing costs
+      on the market. The medical costs of fighting against socialized medicine, against
+      what Bernie Sanders calls Medicare for all, which means socialized medicine, are
+      also increasing the cost. America has become such a monopolized and financialized,
+      high-priced economy that individual companies cannot live up to the promises by
+      their leaders who are quite loyal to the United States, who put them in power.
+      And when you talk about Macron being a weak leader, the fact is there are no elections
+      in France, Germany, England for the next three or four years. Well, that leaves
+      a whole interregnum of these leaders that are trying to manage Europe’s economy
+      to mesh with U.S. demands. And there’s a lot of damage that can be done, especially
+      as Trump threatens to increase the tariffs again, to punish Europe for not relocating
+      its industry here and employing American labor instead of European labor in what
+      seems to be a wild goose chase that simply is not going to work. And so when you
+      say that capitalism is over, what’s over in the United States and in Europe is
+      industrial capitalism. In America, that’s already evolved into finance capitalism.
+      China’s success has been in treating banking and finance as a public utility,
+      just like its health care, its education, and other basic needs, which is just
+      exactly what America did in the late 19th and early 20th century to become so
+      competitive, to minimize the costs of production and minimize the costs that employers
+      have to pay labor because these costs are borne by government in subsidizing the
+      cost of living and doing business. That’s not done anymore. The financial aim
+      is to maximize the cost of living and doing business because if you can force
+      American labor to go into debt to break even, that maximizes bank returns on credit
+      card debt, bank debt, and all the other forms of debt that have been created by
+      the debt-burdened, debt-leveraged American economy. So, in order for a change
+      to occur in stability and growth to recover development economics, you’d have
+      to transform the economy away from the way in which it’s been malformed by the
+      evolution into finance capitalism and monopoly capitalism. ⁣RICHARD WOLFF: And
+      you know, since it’s a new year Nima, here I’m sitting now in New York City where
+      we did have the inauguration, I believe, at midnight, of a socialist mayor who
+      is going to have to deal with everything that we’ve been talking about as it plays
+      out in the Americas’ number one international city, which is New York. And it’s
+      very clear to those of us who followed the campaign that the vote in New York
+      – and this is in no way to take away from the campaign that Mr. Mamdani ran, which
+      was brilliant and well done. You know, he deserves the applause of anybody who’s
+      interested in these sorts of things. But he would agree, I am sure, that the vote
+      he got was a vote against the total mess made of the city of New York by the last
+      150 years of a capitalist system that chose this place to be its number one city,
+      its biggest city, its financial hub, its playground for the rich, and so forth.
+      That it became unlivable, unaffordable, a disaster for the majority of the people,
+      however much fun it was to live here for those who had a solid income. ⁣MICHAEL
+      HUDSON: You just described London. ⁣RICHARD WOLFF: Exactly right. What is England?
+      It’s London, which is a financial center living off what remains of the Empire’s
+      tentacles, tribute coming in from all the old investments that were made in the
+      Empire. Meanwhile, the mass of people in Britain – the statistics are staggering
+      – show the standard of living collapsing so badly that they not only vote out
+      the Conservatives, but the Labour people, who, knowing how tenuous their hold
+      is, basically are producing the Conservative program a little less harshly, a
+      little less quickly. But it’s not different. They’re not able or willing to attack
+      the wealth of London in order to make this kind of transformation. And I’m not
+      clear whether Mr. Mandani is up to it or will be able to do it here either. But
+      he will have a hard time if he doesn’t, and he will have a hard time if he does.
+      And that’s a dilemma of a society in as big a trouble as this one is. And nothing
+      symbolizes it more than the fact that starting today, tens of millions of Americans
+      are going to be facing sharply higher medical insurance premiums on the various
+      programs that are still available to them for that purpose. And the Congress will
+      not, and by the way, neither the Democrats nor the Republicans produce the movement
+      that could have prevented that. And that’s a part of this. The socialists win
+      the mayor, but the left, whatever you want to call it, center-left, cannot protect
+      the medical insurance, which is already poorly funded, from being worse in terms
+      of its burden on the average person. And you’re going to see tension and bitternesses
+      here that are going to be very, very severe in this new year. ⁣MICHAEL HUDSON:
+      I don’t think there’s anything like the center-left. Once you say center, it’s
+      not left anymore. Center means you’re not going to change things. Center means
+      don’t change the system. Just sort of go along. You can’t be center and be left.
+      They’re antithetical. So center left means ignore the left. In other words, there
+      isn’t a left. You and I are it. ⁣NIMA ALKHORSHID: Thank you so much, Richard and
+      Michael. Great pleasure, as always. ⁣RICHARD WOLFF: Thank you, Nima, and Happy
+      New Year. ⁣NIMA ALKHORSHID: Happy New Year. See you soon. Bye-bye. Transcription
+      and Diarization: https://scripthub.dev Editing: Harrison Betts Review: ced Photo
+      by Freddie Addery on Unsplash The post Europe’s Cold War Trap first appeared on
+      Michael Hudson .'
+    one_sentence_summary: The article discusses how sanctions, seized assets, and U.S.
+      pressure are contributing to a growing sense of alienation and dissatisfaction
+      among the French population towards the Macron government and the broader European
+      Union.
+    paragraph_summary: In a recent discussion, Richard Wolff highlighted the growing
+      alienation and dissatisfaction among the French population towards President Macron
+      and his government, particularly in Paris, where many citizens express a strong
+      desire for his departure. Wolff noted that this sentiment reflects a broader discontent
+      with the decision-making apparatus in France, as people openly mock Macron in
+      public spaces. He contrasted the French perspective on their leadership with that
+      of Americans regarding President Trump, illustrating a unique cultural dynamic
+      in which Macron is widely disliked, while Trump is viewed as a more polarizing
+      figure globally. The conversation underscores the challenges facing the French
+      government amidst rising tensions and dissatisfaction among its citizens.
+    published: '2026-01-28T12:19:01+00:00'
+  - title: Europe’s Cold War Trap
+    url: https://michael-hudson.com/2026/01/europes-cold-war-trap/
+    text: 'How Sanctions, Seized Assets and US Pressure Are Unravelling the EU ⁣NIMA
+      ALKHORSHID: Welcome back, Richard and Michael. ⁣RICHARD WOLFF: Welcome to you
+      too. Thank you. ⁣NIMA ALKHORSHID: And happy new year to both of you. ⁣RICHARD
+      WOLFF: Yes, and to you. ⁣NIMA ALKHORSHID: And to our audience. And Richard, let
+      me start with you. You’ve been to France recently, before the new year. So, when
+      it comes to France and the problems it’s dealing with, what is the main issue
+      facing France and Europe? ⁣RICHARD WOLFF: I think the main issue in France is
+      the whole decision-making apparatus. I’ve been going to France for a long time.
+      I speak French. My father was born in France. I have connections there that follow
+      from all of that. I have never in my lifetime heard the level of alienation of
+      a random collection of people that I know and that I spoke with while I was there.
+      And the Macron government. It is not an exaggeration to say that an enormous part
+      of the French population, and particularly in and around Paris, has a role in
+      French society and culture that is hardly equaled anywhere else. And so, if you
+      don’t have Paris, you already got a problem. And Mr. Macron does not have Paris
+      at all. There is eager excitement for him to be gone from the scene. People mock
+      him when he’s on television in the bar. They mock him on the street. It is quite
+      something to encounter. And people make comparisons. The one that I found the
+      most remarkable was in a short conversation that actually my wife had with a person.
+      We were at a cafe. And the person asked my wife whether she supported Mr. Trump.
+      And my wife laughed and said, oh no, quite the opposite. And the person, the French
+      citizen, responded in a kind of compassionate tone, “Well, in our country, we
+      hate Mr. Macron, but the whole world hates your president.” That’s the difference.
+      So it gives you a sense of what the feelings were. Now, what are the reasons?
+      Well, the reasons are everything from the surface, the superficial, on to the
+      deep and the historical. So, for example, Mr. Macron is forever undermining, reducing,
+      attacking the social welfare system of France. And let me remind everyone: it’s
+      quite a developed social welfare system. When you graduate high school or college
+      in France and you take your first job, your employer is required to give you five
+      weeks of paid vacation every year from the beginning. The university system is
+      basically free. You have to pay for your food and lodging, but you don’t pay fees
+      or tuition or things like that. If you have an injury or if you get sick, you
+      are covered by a medical insurance program of the government from your birth to
+      your death. You cannot go bankrupt out of medical expenditures, the way is common
+      here in the United States. Daycare for children is provided, for example, in Paris
+      as a public service. There is a charge, but it’s very, very low. It’s something
+      that most working class couples, if they’re both working, can readily afford,
+      which is how they can both work because they have that system in place. And by
+      the way, all of these services, all of these public services have been in place
+      in France for many decades. These are not new programs. They work well. They are
+      adequately funded a little bit less now than they used to be. And that’s an issue.
+      Mr. Macron is blamed for that. He has tried repeatedly to attack the pension program.
+      So far, largely unsuccessfully, some success, but nothing of the sort that he
+      had hoped for, and so on. Number two, he is a supporter of Ukraine and therefore
+      involved as he was in the effort to use the money seized from Russia, the balances
+      in Western currency that Russia had kept in banks and banking institutions in
+      Belgium and other parts of the European Union. The estimates about this are very
+      fuzzy, but range from two to three hundred billion dollars or euros as the rough
+      size. In the first couple of years, Mr. Macron sounded like he supported the idea
+      that private property is an inviolable principle of capitalism and that therefore
+      the Europeans could not and should not take Russian money. There really is no
+      precedent for that. And since this was not a war, you know, dwarfing World Wars
+      I and II, it didn’t seem necessary to him. Then they weren’t able to win. Then
+      they tried the sanctions program. It is generally admitted in France now by almost
+      all, not all, but by almost all, that the economic sanctions have failed. They
+      did not prevent Russia from fighting the war, funding the war, escalating the
+      war as they needed to, and there’s no sign that it’s going to do that either.
+      And that is the case. The newspapers are full of it too. The occasional drone
+      attack on an oil tanker somewhere doesn’t change any of that. And then there was
+      a spectacular failure over the last year when the Europeans, including Macron,
+      decided to put the inviolability of private property out the window and to go
+      after the Russian money. First, they took the interest, which I believe they have
+      already spent on Ukraine. Then Mr. Macron, together with Mr. Merz from Germany,
+      developed their view. (And remember, those are the two dominant economies in Europe.
+      The only others are Britain and Italy, and they are lesser than France and Germany.)
+      So they decided they would take the whole 200 billion and give it to Ukraine to
+      get at least another year or two of war against Russia. I should mention before
+      I bring this to a head that the demonization of Russia and the demonization of
+      Putin is as intense now as it has ever been, and I include the Cold War after
+      World War II. It’s more intense now, extraordinary. Anyway, a number of countries,
+      other than France and Germany, led by Belgium, the Czech Republic, and one or
+      two others, publicly refused to go along with what would have to be a unanimous
+      decision of the European Union to seize Russian assets in that way. And the Belgians
+      were unwilling to allow a loan to be floated that was used as a guarantee of those
+      Russian assets. And I want to stress here, so that everybody understands it, the
+      enormous historical significance far beyond Ukraine, far beyond anything we’re
+      discussing, of the defeat of Europe because it could not seize the Russian assets.
+      The one thing worse for Europe than making the effort to do that was failing in
+      the effort to do that. Because that got them all the negatives, all of them, from
+      their effort with no positives. No money for Ukraine, no loan that’s going to
+      be backed by somebody else’s wealth. So, here let me conclude by telling you what
+      some of these consequences are. First, every central bank in the world watched
+      this theater. Every central bank knows that if you keep money in Europe, which
+      virtually every central bank does, that money may be weaponized against you in
+      the manner that the Europeans, unlike anyone else, seriously tried to do and have
+      done with the interest on that money. Which means, slowly but surely, the central
+      banks of the world are going to continue to diversify out of the Euro, out of
+      the dollar, because those are dealt with as partners so far. And that’s one of
+      the reasons why other currencies, the Japanese, the Chinese, are becoming slowly
+      more important, they’re still minor, but slowly becoming important in central
+      bank thinking. And you have, of course, and you should be aware of this, everyone
+      should, the spectrum rise in the value of gold and silver over the last year,
+      which is where the central banks are moving their holdings to. So, this is a long-term
+      blow at the European economy in its position in the world. As if that weren’t
+      enough, the United States is clearly withdrawing from funding Ukraine. It is therefore
+      putting a greater burden on Europe to try to keep this going. Now that they can’t
+      take the Russian money and the American support is shrinking, if not disappearing,
+      more and more of the pressure comes on them and on their budgets. And they can’t
+      borrow the way they once could because of their economic decline. So they’re left
+      with the need to cut back on social welfare spending, plunging them. And let’s
+      remember, these are centrist governments or right-wing centrist governments. So
+      they are particularly vulnerable to the left-wing parties and the labor movement,
+      and because the organization to support public service is much stronger in Europe
+      than it is in the United States, and people have to keep that in mind. So you’re
+      setting up a catastrophic political conflict across Europe, and  this is not going
+      to work. You’re going to see a fracturing. Americans who come out of the Cold
+      War might think: well, it’s just sort of the Cold War holds on. No, this is more
+      intense, the Cold War is over, but the hostility, why? Because it’s the only card
+      the European governments can play. They are taking away from the mass of the people
+      the social welfare that they have come to rely on. My French family relies on
+      free higher education, on free medical care. I mean, it’s just completely different.
+      The idea that this could be taken away or reduced motivates them to do yellow
+      vest movements and get into the street. So I think what we’re going to see in
+      2026 is an intense playing out of the political struggle between a shrinking,
+      failing, conservative governmental apparatus. Unfortunately, I include Starmer,
+      Merz, Macron, all of them, basically, possibly the exception of the leader in
+      Spain, but very few departures in the major European countries. They are going
+      to be holding on for dear life to their political power, and their number one
+      way of doing that is by saying that they’re protecting against the Russian menace.
+      They have to act as though Russia was about to invade all of Europe, subordinate
+      all of them, and that only the government in power will hold it back. And from
+      below will be the demand for public services to be honored and to be maintained.
+      And they will get no help from the United States because the United States has
+      a wholly different agenda. They want what they call stability in Europe. Trump
+      is eager to make some sort of deal with Putin to arrange for all of that. Putin
+      is not going to allow that to be Mr. Trump’s achievement if he’s busily supporting
+      the anti-Russian hysteria in Europe. And so they have nowhere to turn. There is
+      a sense all over France that I encountered of a real sad feeling that what is
+      important in France, the grandeur, as they put it, is under attack in a way it
+      never has been before, that they are suffering a very tragic decline and they’re
+      really torn. The largest bloc in the National Assembly is the left wing, led by
+      Jean-Luc Melenchon, a former communist political activist. And he, under his leadership,
+      has unified the left. They stand together. They put up one list of candidates,
+      which is why they are the biggest block in the assembly. They have achieved the
+      unity of the left, which has eluded most of the left wings in other parts of Europe.
+      And so they may be the leader in dumping Mr. Macron and becoming a major new direction.
+      I should mention in passing, noticeable on the streets of Paris were vehicles
+      that were BYD cars and trucks. Those are the Chinese electric automobiles. They
+      are coming into France. There’s no question about it. And however that gets dealt
+      with, the signs are there. You will not see them in the United States, but you
+      will see them on the streets of Paris. ⁣NIMA ALKHORSHID: Michael, I think one
+      of the crucial points that Richard has mentioned is how Europe was trying to steal
+      Russian assets to give it to Ukraine to buy new weapons for Ukraine. ⁣MICHAEL
+      HUDSON: Well, I think that Richard was quite right. This is sort of our New Year
+      broadcast, and we’re supposed to say something about how the world is evolving
+      in the coming year. And I think we’re quite rightly focusing on Europe because
+      that’s where all of the strains are. Everywhere we look all over the world, it
+      looks like everything’s ready to snap, to break. The question is: how is it going
+      to break? And the answer is the consciousness of the people. And the consciousness
+      of Europe, as Richard has just pointed out, is shaped by the Cold War. In the
+      year of Trump’s presidency, we can now see that the United States’ strategy of
+      restoring its former power over the world’s trade and financial system is all
+      based on the ideological umbrella of the Cold War. And there’s been a one-two
+      punch by the United States against Europe and against other countries. The first
+      punch was to isolate Europe and other allies, Japan, South Korea, from trading
+      with the most rapidly growing parts of the world economy, which are China and
+      East Asia. How are you going to do that? Well, you want to cut off trade and investment
+      with America’s two designated enemies, Russia and China. And you do this by, as
+      Richard pointed out, this myth that somehow Europe needs American protection against
+      the mythical attempt by Russia to take over Europe again, rebuild the Soviet Union,
+      and extend it eastward, certainly to include Germany and other European countries.
+      Now, that’s all a myth. But it was the umbrella myth that enabled the United States
+      to say, well, you need our protection against Russia, and this is going to have
+      to come at a cost. And if you want us to protect you against Russia and ultimately
+      China as the existential enemy to the whole economic system that we have in the
+      United States and Europe, then you have to cut off your trade, despite the fact
+      that all of your planned prosperity before 2022 was based on expanding trade and
+      investment with Russia, China, importing raw materials, oil, gas, and other materials
+      from Russia, importing manufacturers from China, and expanding German and other
+      European industry abroad in these countries to somehow have a balanced growth
+      and turning away from the United States, which is not industrializing, but deindustrializing,
+      to do that. So, by the time Trump took office, the United States had convinced
+      these countries not to pursue their natural economic interest of mutual trade
+      and investment with Asia, which I include Russia in. And that enabled Trump to
+      follow what has become a one-two policy. To say, okay, now that you put all of
+      your eggs in the U.S. basket, without trade with Asia, you have only one big export
+      market, and that’s the United States. Trump then said, and now I’m going to pass
+      my April 2nd Liberation Day tariffs and cut off all your trade with the United
+      States unless you do give backs. And the give backs are, you’ve got to, number
+      one, agree to very strict new sanctions, tighter sanctions on Russia and China,
+      and any BRICS countries that support them. In other words, 85% of the potential
+      world market, so that you’re totally dependent on the United States. Secondly,
+      we’re going to raise tariffs that you’re going to have to pay. Third, you’re going
+      to have to deindustrialize your economy because now that we’ve closed the U.S.
+      market to you and you’ve had to triple or quadruple the price of energy by blocking
+      off Russia oil and gas, now you have to relocate your major industries to the
+      United States, not China, not Russia, not to Central Asia, and not to the BRICS
+      countries, but to the United States. And if you don’t do that, we’re going to
+      keep tariffs so high that your industrial companies, especially those of Germany,
+      that have depended on export markets for their major growth, you’re going to all
+      of a sudden have to close down your factories, lay off your labor force, and just
+      passively deindustrialize. Because if you don’t, then you will lose the American
+      umbrella that is protecting you. Richard has pointed out that the left wing in
+      Europe, and certainly in France is very strong, and yet the European Union is
+      controlled by the hard right pro-war, pro-Cold War, neocon wing that has appointed
+      von der Leyen and Kallas, the passionate anti-Russians in charge of its foreign
+      policy. And von der Leyen, when she surrendered to all of Trump’s demands for
+      give backs, Europe has to relocate its industry in the United States away from
+      its own employment. Von der Leyen said, well, we did it because of the Cold War.
+      At least we have stability now. And Trump, she said, is assured stability. Here
+      we finally have a stable ruler and we know what the rules will be now. The rules
+      are going to force us to deindustrialize, but that’s the price we have to pay
+      to protect Germany from the Cold War, because next time they’re not going to stop
+      at Berlin as they move west, they’re going to take all of Germany. And her associates,
+      the EU and German finance ministers and other officials, said, yes, it’s not just
+      about achieving balanced trade. It’s all about the Cold War. So this Cold War
+      has become the ideology that Europe needs the United States. And of course, then
+      Trump said, okay, now I’m pulling out the rug from under you. I’m not going to
+      pay for your Cold War with Ukraine, with Russia in Ukraine. The fight in Ukraine
+      is not a fight between Russia and Ukraine. It’s between Russia and Britain, Germany,
+      France, and the EU leadership, which is totally monopolized by the pro-Cold War
+      faction that is willing to do just what Richards described, cut back social spending.
+      They say: We’re in a war economy now because what we’re fighting for is European
+      values. And the European values we’re fighting for are those of Ukraine. Total
+      military control of the media, one-party control, banning political opposition
+      to the lead party. We need our values to be those of Ukraine. We need a military
+      kleptocracy here, just like they have. I mean, this is the nightmare that is being
+      welcomed by Europe. So what is really an issue here, even if we’re talking about
+      economic interests being the main driver, the issue is: will this ideological
+      umbrella that the Cold War with Russia come first? “We must share the British
+      and German hatred of Russia and the Baltic hatred of Russia. That has to become
+      the guiding principle of our domestic economic policy. And yes, there are going
+      to be sacrifices. We will de-industrialize. We will lose the European, mainly
+      German, also French and Italian industrial trade that we had before. But it’s
+      the price to be paid. We have to become basically an economic colony of the United
+      States” This must be the ideological political discussion to take place in Europe
+      in order for there to be an opening for Europe to follow its seemingly economic
+      self-interest, which all along was what existed before 2022. If you’re going to
+      have an export market, you’re going to look for, well, what economies are growing
+      most rapidly. The myth is that somehow, if European countries are going to industries,
+      the steel industry, the German auto industry, German machinery industry, similar
+      industries from Japan, Taiwan, and South Korea, if they move to the United States,
+      can that succeed in industrializing the United States? Well, it really can’t.
+      And that brings up the second issue that we’ve discussed before. I think two shows
+      ago, Richard pointed out that when he and I were in school for our PhDs, one of
+      the most popular courses was development economics. Everything they were teaching
+      in development economics was irrelevant. They all assumed: What is development?
+      It was Keynesianism, military Keynesianism. Spend more money into the economy
+      and the economy will grow. There was no discussion of, well, what’s the shape
+      of the economy? What’s the tax system? How do we follow the same policies of growth
+      that Britain, the United States, Germany all followed? Protective tariffs, subsidy
+      of industry, and most of all, keeping basic utilities, communications, transportation,
+      natural monopolies in the public domain by socializing monopolies instead of leaving
+      them in private hands to make monopoly rents. None of this is discussed in normal
+      economics. You weren’t supposed to question the structure of monopoly. Just how
+      do we make existing economic systems bigger, even though these economic systems,
+      through the countries that were called underdeveloped, were underdeveloped because
+      they were rentier systems, they were client kleptocracies. They were systems that
+      weren’t developing at all. And these undeveloped economies were just to be made
+      bigger, which meant concentrating whatever increasing income they had at the top
+      of the economic pyramid. All of that has to be brought into question, and you
+      would expect that with the kind of economic shrinkage that we’re seeing in Europe
+      now, that’s going to reopen the whole chance for this kind of a discussion to
+      take place. The question is: will it? The Germans and the British have basically
+      banned all discussion, for instance, criticism, for instance, of the Israeli policy
+      against the Palestinians. You’re not allowed to complain about what’s happening
+      in the Palestinian areas by the Israeli expansion. You’re not allowed to explain
+      why Russia is so threatened by NATO’s expansion, because American security is
+      defined as obliterating Russian security, obliterating other securities. American
+      security is not secure unless no other country has a security to protect themselves
+      against American political, military, and financial pressure, like seizing Russia’s
+      money, to force them to follow U.S. policy. So the discussion in the public media
+      is not touching on the kinds of things that we’ve been discussing on this program
+      for the last half year, Nina. That’s the question: how can Europe break through
+      this trap of tunnel vision that it’s locked into, which has prevented it from
+      solving the problem of how to break away from trying to save an American industrial
+      economy that itself cannot be saved until you transform the American economic
+      system – just as you’re transforming the European economic system – in the way
+      that Asian countries, China especially, have been changing their economic systems
+      by, as we’ve said before, reinventing the same wheel that American industrialists
+      developed in the 19th century to develop their own industry, when this was called
+      evolving into social democracy, or, to put it in one word, socialism. ⁣RICHARD
+      WOLFF: I want to go based on everything we’ve been discussing and ask the question:
+      why, or how might we explain the notions in Europe that we’re talking about, this
+      ideological commitment, the anti-Russian everything, conservative governments,
+      all of that on the one hand, and the strategy of the United States to try to cut
+      a deal of some sort with Russia to ‘stabilize’. I think from the European perspective,
+      what we’re watching, and we need to keep it in our minds, is this ultimate ironic
+      consequence of hundreds of years of colonialism. Towards the end of Marx’s Capital,
+      he makes a comment about how his next project is going to be to talk about how
+      capitalism creates, for the first time, a genuine world economy, an economy in
+      which all the different parts of the world participate and become dependent upon.
+      And people tend to go over that and see it as an appreciation of capitalism, if
+      you like. I want to argue that it is, in a way, the death, at least of Western
+      capitalism. Why? Well, I’m going to show it to you by going back to how it is
+      that the Russians were successful in preventing Europe from seizing Russian assets
+      to keep that war going for another year or two without the domestic opposition
+      they are now confronted with. The reason the Russians were able to avoid that
+      bullet, and let’s be clear, had that been done and had that money been raised
+      in that way and had it been used to give Zelensky the money and the weapons that
+      he keeps asking for, you would have had that war continue for quite some time.
+      Nobody knows how long, but for quite some time, at enormous cost to Ukraine, to
+      Russia, etc. Here’s why. The Russians did two things, one earlier and one quite
+      recently. The one earlier was to make it clear that if the West seized Russian
+      assets in the West, Russia would seize Western assets inside Russia, which, because
+      of the development of the world economy, are large. People have to understand,
+      Putin made it crystal clear, if you actually the assets not the interest, he let
+      them take that. He didn’t push back on that the way he could have. But if you
+      take the principle, then I’m going to take your stuff. The thing he did most recently,
+      just a few weeks ago, was to have the government of Russia go into court and to
+      announce that if loans were made to Ukraine, which everybody knows Ukraine cannot
+      pay back, so that the lenders, whoever they are, will demand the collateral, which
+      is the Russian assets. That’s the idea of what Europe was doing. Putin went into
+      court and said, this is an act of the European Union. And if you do that, we,
+      the Russians, will go into every court in every jurisdiction inside every country,
+      you know, Malawi or Paraguay or Canada, and we will sue to recover assets stolen
+      from us. And you know, and we know that we’re going to win a lot of those judgments,
+      partly because they’re in countries that are our allies. Suddenly, if you allow
+      me, the dialectic of creating a world economy comes back to bite the United States
+      and Western Europe right in the rear end. The world economy their colonialism
+      began and did the first steps of has now taken on its own growth logic, drawing
+      many of the big companies in the West to want to profit from what they can do
+      in China, in India, in Brazil, and all those other places. And now, as Hegel taught,
+      you become dependent on those you made dependent on you. You become dependent
+      on the dependent relationship, not just the other guy. Remember, in Hegel, the
+      master and the slave, the master becomes dependent on the relationship to the
+      slave, because the slave is made to do everything, and the master can’t. That’s
+      what we have now. The West can’t do it. And I would disagree a little bit with
+      Michael. Whatever their ideological note, they’re not going to solve this problem,
+      the Europeans and the Americans. I don’t see it. Normally I see, they’ve gone
+      through many crises. I’m the first one to admit it. You know, the old joke: what
+      do Marxist economists say with great pride? With great pride, they announce they
+      have predicted 10 of the last four recessions. Right? That’s a joke, but it’s
+      a joke, like all good jokes, that has its grain of truth. But I don’t see a way
+      out. I don’t see a lot of European companies finding their energy costs so high,
+      they’re going to move to the United States. Are you kidding? Move to a country
+      as destabilizing as this one? A country that has to go to the Supreme Court to
+      find out it can’t use its own troops against its own people in its own cities?
+      My goodness, you know, they’re not coming because it would be crazy to do so.
+      The United States may want stability, but it doesn’t have stability. And it can’t
+      offer it to anyone either. Can you imagine the conversation among German industrialists
+      bemoaning what the United States did to them and then having them say to each
+      other, well, it’s okay, we can move to the United States. They don’t want to,
+      and they don’t see that as a solution to their problem. And they’re not going
+      to spend billions or even trillions making such a move when the risk is so enormous.
+      That’s not what they do. Here’s then the irony. Just as capitalism begins in England,
+      enables the British Empire, and then watches as the British using their empire
+      cannot save their own capitalism, even using it. So they are the pathetic objects
+      we observe now. Well, Europe is following, and the United States is following.
+      And in the same way, its own empire and the development of it, both the development
+      they controlled, in those countries that got foreign aid, but even more the countries
+      they couldn’t control because they didn’t give them foreign aid – you know, Russia,
+      China, North Korea, Vietnam, and so on – they’re the leaders. They’re the leaders
+      of the breakaway tendencies. I think the depression I have encountered the last
+      two weeks in Paris, still one of the most beautiful cities in the world, but the
+      depressive feeling that the people there themselves talk about is, I don’t want
+      to become mystical here, but is in a way the awareness, even among the leaders
+      we are criticizing, that the days of the European center of the world are over,
+      and they’re not just over for Europe, they’re over for where the Europeans settled.
+      North America, Australia, New Zealand. Those places are having to readjust to
+      a new world. They don’t want to, they’re worried about it, but I don’t see where
+      an option to what I’m describing offers an alternative path. And that’s the final
+      point. At the new year, reacting as we all are, or I’m assuming we all are, to
+      a tumultuous year of Mr. Trump the second time around, when he has shown much
+      more of his wild, extreme predilections than he did the first time, or has been
+      able to get them through, you are watching a political theater of desperate actions.
+      And it’s frightening. The Wall Street Journal gave him a nasty report card at
+      the end of his first year, I believe in yesterday or today’s edition. Mr. Murdoch
+      is worried that this is spinning out of control. And here’s my ironic thought.
+      That’s what the people in Paris were saying. We fear it is spinning out of control.
+      Mr. Macron is in way over his head. He can’t manage it. He’s not managing it.
+      He prances around and people make fun of him as a kind of irrelevant clown. And
+      isn’t that true of our country, there are an awful lot of people who are beginning
+      to see Mr. Trump as somebody they want to back away from? Look at Marjorie Taylor
+      Greene. Look at Elise Stefanik. They’re leaving. They’re leaving because they
+      can see on the wall they’re polling. Things are spinning out of control. ⁣MICHAEL
+      HUDSON: Well, Richard, you’ve left a pretty big loophole when you say Europe would
+      have to be crazy to relocate its industry in the United States. Well, European
+      policymakers are crazy. So what are we to do? Well, what may introduce a note
+      of reality is just because the government of von der Leyen and the EU have promised
+      to relocate, I think, from 200 to 400 billion dollars of industry away from Europe
+      to the United States, doesn’t mean that they can force the actual companies to
+      do it. How can they force the big car manufacturers, international harvesters,
+      the glass-making companies that can’t get inexpensive gas to make glass anymore,
+      the machinery companies? How can they convince these companies to actually relocate
+      when the companies find the same problems that Japanese companies and Taiwanese
+      companies and Korean companies have found? Japan has committed itself to shifting
+      $550 billion to $750 billion of investment to the United States to employ American
+      labor instead of the steadily shrinking Japanese labor force as the population
+      simply is not reproducing itself anymore. The Korean companies have said, well,
+      the government has promised $350 billion to relocate there, but we can’t afford
+      that at all because we’re not able to earn the export proceeds of our cars and
+      electronic equipment to America because of the tariffs. We tried to relocate this
+      big computer company into the American South, but Trump’s people arrested our
+      Korean workers and deported them and said, employ American workers. But we found
+      that the American workers are not up to the standards of creating a sophisticated
+      high-technology factory that we need in order to make our goods. So the Koreans
+      who were deported don’t want to go back there because of the American racism and
+      anti-immigrant feeling that Trump has stirred up, just as the European countries
+      are stirring up the anti-immigrant feeling against Ukrainians, Muslims, and other
+      refugees from others. Taiwan had promised to build an enormous computer chip affiliate
+      in the United States from its leading computer manufacturing company, but it said
+      we’re really having problems. We can’t find enough American labor that can work
+      on high-technology installations because they don’t want to have a blue-collar
+      job. That’s the spirit of America. Everybody wants to make money financially.
+      We’re not in an industrial capitalist country anymore. That’s already been outsourced
+      to other countries. We’re in a financial capitalist country, and the financialization
+      of the American economy is what has made it so high cost. The increase in bank
+      credit to inflate housing prices has increased what American wage earners have
+      to earn in order to be employed by their employers, and afford the housing costs
+      on the market. The medical costs of fighting against socialized medicine, against
+      what Bernie Sanders calls Medicare for all, which means socialized medicine, are
+      also increasing the cost. America has become such a monopolized and financialized,
+      high-priced economy that individual companies cannot live up to the promises by
+      their leaders who are quite loyal to the United States, who put them in power.
+      And when you talk about Macron being a weak leader, the fact is there are no elections
+      in France, Germany, England for the next three or four years. Well, that leaves
+      a whole interregnum of these leaders that are trying to manage Europe’s economy
+      to mesh with U.S. demands. And there’s a lot of damage that can be done, especially
+      as Trump threatens to increase the tariffs again, to punish Europe for not relocating
+      its industry here and employing American labor instead of European labor in what
+      seems to be a wild goose chase that simply is not going to work. And so when you
+      say that capitalism is over, what’s over in the United States and in Europe is
+      industrial capitalism. In America, that’s already evolved into finance capitalism.
+      China’s success has been in treating banking and finance as a public utility,
+      just like its health care, its education, and other basic needs, which is just
+      exactly what America did in the late 19th and early 20th century to become so
+      competitive, to minimize the costs of production and minimize the costs that employers
+      have to pay labor because these costs are borne by government in subsidizing the
+      cost of living and doing business. That’s not done anymore. The financial aim
+      is to maximize the cost of living and doing business because if you can force
+      American labor to go into debt to break even, that maximizes bank returns on credit
+      card debt, bank debt, and all the other forms of debt that have been created by
+      the debt-burdened, debt-leveraged American economy. So, in order for a change
+      to occur in stability and growth to recover development economics, you’d have
+      to transform the economy away from the way in which it’s been malformed by the
+      evolution into finance capitalism and monopoly capitalism. ⁣RICHARD WOLFF: And
+      you know, since it’s a new year Nima, here I’m sitting now in New York City where
+      we did have the inauguration, I believe, at midnight, of a socialist mayor who
+      is going to have to deal with everything that we’ve been talking about as it plays
+      out in the Americas’ number one international city, which is New York. And it’s
+      very clear to those of us who followed the campaign that the vote in New York
+      – and this is in no way to take away from the campaign that Mr. Mamdani ran, which
+      was brilliant and well done. You know, he deserves the applause of anybody who’s
+      interested in these sorts of things. But he would agree, I am sure, that the vote
+      he got was a vote against the total mess made of the city of New York by the last
+      150 years of a capitalist system that chose this place to be its number one city,
+      its biggest city, its financial hub, its playground for the rich, and so forth.
+      That it became unlivable, unaffordable, a disaster for the majority of the people,
+      however much fun it was to live here for those who had a solid income. ⁣MICHAEL
+      HUDSON: You just described London. ⁣RICHARD WOLFF: Exactly right. What is England?
+      It’s London, which is a financial center living off what remains of the Empire’s
+      tentacles, tribute coming in from all the old investments that were made in the
+      Empire. Meanwhile, the mass of people in Britain – the statistics are staggering
+      – show the standard of living collapsing so badly that they not only vote out
+      the Conservatives, but the Labour people, who, knowing how tenuous their hold
+      is, basically are producing the Conservative program a little less harshly, a
+      little less quickly. But it’s not different. They’re not able or willing to attack
+      the wealth of London in order to make this kind of transformation. And I’m not
+      clear whether Mr. Mandani is up to it or will be able to do it here either. But
+      he will have a hard time if he doesn’t, and he will have a hard time if he does.
+      And that’s a dilemma of a society in as big a trouble as this one is. And nothing
+      symbolizes it more than the fact that starting today, tens of millions of Americans
+      are going to be facing sharply higher medical insurance premiums on the various
+      programs that are still available to them for that purpose. And the Congress will
+      not, and by the way, neither the Democrats nor the Republicans produce the movement
+      that could have prevented that. And that’s a part of this. The socialists win
+      the mayor, but the left, whatever you want to call it, center-left, cannot protect
+      the medical insurance, which is already poorly funded, from being worse in terms
+      of its burden on the average person. And you’re going to see tension and bitternesses
+      here that are going to be very, very severe in this new year. ⁣MICHAEL HUDSON:
+      I don’t think there’s anything like the center-left. Once you say center, it’s
+      not left anymore. Center means you’re not going to change things. Center means
+      don’t change the system. Just sort of go along. You can’t be center and be left.
+      They’re antithetical. So center left means ignore the left. In other words, there
+      isn’t a left. You and I are it. ⁣NIMA ALKHORSHID: Thank you so much, Richard and
+      Michael. Great pleasure, as always. ⁣RICHARD WOLFF: Thank you, Nima, and Happy
+      New Year. ⁣NIMA ALKHORSHID: Happy New Year. See you soon. Bye-bye. Transcription
+      and Diarization: https://scripthub.dev Editing: Harrison Betts Review: ced Photo
+      by Freddie Addery on Unsplash The post Europe’s Cold War Trap first appeared on
+      Michael Hudson .'
+    one_sentence_summary: The article discusses how sanctions, seized assets, and U.S.
+      pressure are contributing to a growing sense of alienation and dissatisfaction
+      among the French population towards the Macron government and the broader European
+      Union.
+    paragraph_summary: In a recent discussion, Richard Wolff highlighted the growing
+      alienation and dissatisfaction among the French population towards President Macron
+      and his government, particularly in Paris, where many citizens express a strong
+      desire for his departure. Wolff noted that this sentiment reflects a broader discontent
+      with the decision-making apparatus in France, as people openly mock Macron in
+      public spaces. He contrasted the French perspective on their leadership with that
+      of Americans regarding President Trump, illustrating a unique cultural dynamic
+      in which Macron is widely disliked, while Trump is viewed as a more polarizing
+      figure globally. The conversation underscores the challenges facing the French
+      government amidst rising tensions and dissatisfaction among its citizens.
+    published: '2026-01-28T12:19:01+00:00'
   - title: The Return of Gunboat Economics
     url: https://michael-hudson.com/2026/01/the-return-of-gunboat-economics/
     text: '⁣NIMA ALKHORSHID: Hi, everybody. Today is Thursday, December 18, 2025, and

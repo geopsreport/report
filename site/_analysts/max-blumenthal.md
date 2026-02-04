@@ -7,17 +7,117 @@ description: "Investigative journalist and filmmaker; founder of The Grayzone; c
 websites:
   - https://thegrayzone.com
 summary: |
-  The past 24 hours have seen significant revelations concerning media censorship, covert influence operations, and the ongoing contest for narrative control in global affairs. These developments underscore a broader trend of state and non-state actors leveraging legal, digital, and informational tools to shape public perception and policy outcomes.
+  As geopolitical tensions continue to rise across several regions, recent reporting has highlighted new developments in Western policy toward Iran, the influence of intelligence-linked actors in the tech sector, and the ongoing use of questionable sources to justify escalatory actions.
   
-  The most recent leaks, analyzed by **Max Blumenthal**, expose former journalist Paul Mason’s attempts to use legal threats to silence The Grayzone’s reporting. According to the leaked emails, Mason not only sought to censor critical coverage but also privately admitted to creating a blacklist targeting the outlet. This case highlights the increasing use of lawfare and blacklisting tactics by figures aligned with establishment interests to suppress dissenting media voices. As Blumenthal notes, such efforts represent a growing pattern of “covert censorship campaigns” that threaten press freedom and transparency.
+  The most recent controversy centers on Western officials’ use of an unverified death toll in Iran. According to **Max Blumenthal**, the figure of “30,000 dead protesters” is being widely cited by Western governments and media to justify increased pressure and potential intervention against Tehran. However, the number’s origin is traced to a single, anonymous source with a dubious background. This raises significant concerns about the reliability of the information shaping policy decisions. **Blumenthal** notes that the Western narrative is being constructed on shaky ground, with regime-change NGOs and government-funded outlets amplifying these claims without independent verification.
   
-  In the digital sphere, the fallout from The Grayzone’s investigation into Mossad’s recruitment efforts among Iranians continues to reverberate. Following the exposure of Farsi-language social media ads—purchased through an Atlanta-based LLC owned by comedian Desi Banks—Google has now suspended the company’s advertising account and removed related ads from its transparency portal. This move, detailed by **Max Blumenthal**, demonstrates how tech platforms are increasingly responsive to investigative journalism that uncovers covert influence operations. The incident also reflects the intensifying contest between intelligence agencies and digital gatekeepers over control of online spaces.
+  Meanwhile, scrutiny has intensified over the intersection of celebrity investment and intelligence operations. **Blumenthal** reports that NBA star Stephen Curry is investing heavily in tech startups run by former Israeli intelligence operatives. These firms are linked to Israel’s digital surveillance and military operations, prompting questions about the broader implications for privacy and foreign influence in the technology sector.
   
-  Meanwhile, the broader context remains shaped by ongoing Western efforts to influence political outcomes abroad, as seen in previous leaks regarding EU officials’ plans to organize resistance against Hungary’s Viktor Orban and the US Department of Justice’s politicized indictment of Venezuela’s Nicolás Maduro. These cases, as outlined in earlier reports, illustrate the persistent use of legal and informational warfare to achieve regime change objectives.
+  Elsewhere, the fallout from Western media’s portrayal of unrest in Iran continues. The reliance on U.S.-funded NGOs for information has contributed to a skewed narrative that, according to **Blumenthal**, may be laying the groundwork for further military escalation. This pattern of information manipulation is echoed in other regions, such as Venezuela, where indictments and public narratives are shaped by questionable witnesses and intelligence-linked networks.
   
   **Trends and Predictions:**  
-  The majority of sources agree that lawfare and digital censorship are set to become even more prominent tools in geopolitical struggles, with both state and private actors seeking to silence critical journalism and manipulate public opinion. Given the rapid response by platforms like Google to investigative reporting, it is quite likely that tech companies will face increasing pressure to police covert influence campaigns—though the effectiveness and impartiality of such interventions remain in question. Based on current trajectories, I guarantee that attempts to suppress independent media through legal and extralegal means will intensify, particularly as investigative outlets continue to expose sensitive operations and challenge dominant narratives.
+  The use of unverifiable or manipulated information to justify foreign intervention is becoming increasingly prominent, particularly in the cases of Iran and Venezuela. There is a high chance that Western governments will continue to rely on such narratives to build public and diplomatic support for escalatory measures. The growing entanglement of private tech investment with intelligence-linked actors is also likely to draw further scrutiny, especially as concerns over surveillance and foreign influence mount. Based on current reporting, I guarantee that information warfare and narrative management will remain central tools in the geopolitical strategies of major powers throughout 2026.
 articles:
+  - title: Meet the former fashion blogger and shady doctor behind the ‘30,000 dead’
+      Iran psy-op
+    url: https://thegrayzone.com/2026/02/01/guardian-iranian-death-toll-concocted-monarchist-doctors/
+    text: Western officials seized on a dubious death toll of 30,000 protesters to escalate
+      against Iran. The number originates with a single, clearly compromised source.
+      But a zealously pro-war Guardian reporter is doing her best to legitimize it.
+      The claim of “30,000 killed” during two days of protests and rioting across Iran
+      appears to be based largely on a single anonymous source, who admitted extrapolating
+      that figure by assuming without evidence that “officially registered deaths related
+      to the crackdown likely represent […] The post Meet the former fashion blogger
+      and shady doctor behind the ‘30,000 dead’ Iran psy-op first appeared on The Grayzone
+      . The post Meet the former fashion blogger and shady doctor behind the ‘30,000
+      dead’ Iran psy-op appeared first on The Grayzone .
+    one_sentence_summary: Western officials are using an unverified death toll of 30,000
+      protesters in Iran, sourced from a questionable anonymous individual, to justify
+      escalating actions against the country, despite the figure's dubious origins.
+    paragraph_summary: Western officials have amplified a controversial claim that 30,000
+      protesters were killed in Iran, a figure that stems from a single, unreliable
+      source who based this estimate on unfounded assumptions about official death tolls.
+      Despite the dubious nature of this claim, a pro-war reporter from The Guardian
+      is attempting to lend it credibility. The article highlights the origins of this
+      figure, tracing it back to an anonymous individual with questionable credentials,
+      including a background as a former fashion blogger and a dubious medical professional,
+      suggesting that the narrative surrounding the deaths may be part of a psychological
+      operation against Iran.
+    published: '2026-02-01T17:34:29+00:00'
+  - title: Meet the former fashion blogger and shady doctor behind the ‘30,000 dead’
+      Iran psy-op
+    url: https://thegrayzone.com/2026/02/01/guardian-iranian-death-toll-concocted-monarchist-doctors/
+    text: Western officials seized on a dubious death toll of 30,000 protesters to escalate
+      against Iran. The number originates with a single, clearly compromised source.
+      But a zealously pro-war Guardian reporter is doing her best to legitimize it.
+      The claim of “30,000 killed” during two days of protests and rioting across Iran
+      appears to be based largely on a single anonymous source, who admitted extrapolating
+      that figure by assuming without evidence that “officially registered deaths related
+      to the crackdown likely represent […] The post Meet the former fashion blogger
+      and shady doctor behind the ‘30,000 dead’ Iran psy-op first appeared on The Grayzone
+      . The post Meet the former fashion blogger and shady doctor behind the ‘30,000
+      dead’ Iran psy-op appeared first on The Grayzone .
+    one_sentence_summary: Western officials are using an unverified death toll of 30,000
+      protesters in Iran, sourced from a questionable anonymous individual, to justify
+      escalating actions against the country, despite the figure's dubious origins.
+    paragraph_summary: Western officials have amplified a controversial claim that 30,000
+      protesters were killed in Iran, a figure that stems from a single, unreliable
+      source who based this estimate on unfounded assumptions about official death tolls.
+      Despite the dubious nature of this claim, a pro-war reporter from The Guardian
+      is attempting to lend it credibility. The article highlights the origins of this
+      figure, tracing it back to an anonymous individual with questionable credentials,
+      including a background as a former fashion blogger and a dubious medical professional,
+      suggesting that the narrative surrounding the deaths may be part of a psychological
+      operation against Iran.
+    published: '2026-02-01T17:34:29+00:00'
+  - title: NBA star Stephen Curry’s ties to Israeli intelligence exposed
+    url: https://thegrayzone.com/2026/01/29/steph-currys-ties-to-israeli-spies/
+    text: Less than three years after being named the NBA’s 2023 Kareem Abdul-Jabbar
+      Social Justice Champion, the league’s all-time three-point leader has begun quietly
+      pouring tens of millions into tech ventures owned and operated by Israeli spies.
+      This article was originally published by ¡Do Not Panic! American basketball star
+      Stephen Curry is investing in tech startups run by former IDF operatives who were
+      integral to building Israel’s digital architecture of apartheid and genocide.
+      Curry, considered one of the sport’s all-time greats […] The post NBA star Stephen
+      Curry’s ties to Israeli intelligence exposed first appeared on The Grayzone .
+      The post NBA star Stephen Curry’s ties to Israeli intelligence exposed appeared
+      first on The Grayzone .
+    one_sentence_summary: NBA star Stephen Curry is reportedly investing tens of millions
+      into tech startups run by former Israeli intelligence operatives, raising concerns
+      about their connections to Israel's controversial digital surveillance and military
+      operations.
+    paragraph_summary: Stephen Curry, the NBA's all-time three-point leader and 2023
+      Kareem Abdul-Jabbar Social Justice Champion, has reportedly begun investing tens
+      of millions into tech ventures operated by former Israeli intelligence operatives.
+      These startups are said to be involved in creating Israel's digital infrastructure,
+      which critics associate with apartheid and genocide. This revelation raises questions
+      about Curry's social justice advocacy in light of his financial ties to entities
+      linked to controversial practices in Israel.
+    published: '2026-01-29T16:36:26+00:00'
+  - title: NBA star Stephen Curry’s ties to Israeli intelligence exposed
+    url: https://thegrayzone.com/2026/01/29/steph-currys-ties-to-israeli-spies/
+    text: Less than three years after being named the NBA’s 2023 Kareem Abdul-Jabbar
+      Social Justice Champion, the league’s all-time three-point leader has begun quietly
+      pouring tens of millions into tech ventures owned and operated by Israeli spies.
+      This article was originally published by ¡Do Not Panic! American basketball star
+      Stephen Curry is investing in tech startups run by former IDF operatives who were
+      integral to building Israel’s digital architecture of apartheid and genocide.
+      Curry, considered one of the sport’s all-time greats […] The post NBA star Stephen
+      Curry’s ties to Israeli intelligence exposed first appeared on The Grayzone .
+      The post NBA star Stephen Curry’s ties to Israeli intelligence exposed appeared
+      first on The Grayzone .
+    one_sentence_summary: NBA star Stephen Curry is reportedly investing tens of millions
+      into tech startups run by former Israeli intelligence operatives, raising concerns
+      about their connections to Israel's controversial digital surveillance and military
+      operations.
+    paragraph_summary: Stephen Curry, the NBA's all-time three-point leader and 2023
+      Kareem Abdul-Jabbar Social Justice Champion, has reportedly begun investing tens
+      of millions into tech ventures operated by former Israeli intelligence operatives.
+      These startups are said to be involved in creating Israel's digital infrastructure,
+      which critics associate with apartheid and genocide. This revelation raises questions
+      about Curry's social justice advocacy in light of his financial ties to entities
+      linked to controversial practices in Israel.
+    published: '2026-01-29T16:36:26+00:00'
   - title: Paul Mason plotted to sue The Grayzone over factual reporting, new leaks
       show
     url: https://thegrayzone.com/2026/01/27/paul-mason-plotted-grayzone-lawsuit/

@@ -7,16 +7,398 @@ description: "Cambridge–educated researcher at RMIT; writes widely on imperial
 websites:
   - https://counterpunch.org/author/jete6/
 summary: |
-  As January 2026 unfolds, global politics remain turbulent, with Western interventions, civil liberties, and the shifting dynamics of international law dominating headlines. The latest analyses by **Binoy Kampmark** highlight several pressing developments.
+  The geopolitical landscape remains fraught with controversy and shifting alliances as states and institutions grapple with the consequences of recent actions and ongoing trends. The latest developments highlight the deepening entanglement of nationalism, wealth concentration, and the erosion of international norms.
   
-  The U.S. continues to face criticism for its aggressive foreign policy, particularly in Latin America. The abduction of former Venezuelan President Nicolás Maduro and his wife by American operatives has set off alarm bells worldwide. According to **Kampmark**, this act "raises significant concerns among global leaders about the dangerous precedent it sets for international relations," especially as it blurs the line between legal extradition and outright kidnapping. The muted response from U.S. allies, who have largely validated the action, underscores a growing willingness among Western states to sidestep international law when convenient—a trend that is "quite likely" to embolden similar interventions elsewhere.
+  The Generation Truth conference in Jerusalem, organized by Israel’s Minister for Diaspora Affairs, Amichai Chikli, has drawn sharp criticism for its inclusion of far-right European speakers with links to neo-Nazism and Holocaust denial. As **Binoy Kampmark** observes, this event underscores Israel’s controversial strategy of forging alliances with European nationalist movements, ostensibly to combat antisemitism, while simultaneously downplaying the risks posed by radical Islam. The approach has been widely condemned for legitimizing extremist voices and undermining the credibility of efforts to address antisemitism.
   
-  Domestically, Australia’s approach to civil liberties is under scrutiny. The establishment of a royal commission into antisemitism and social cohesion is viewed by **Kampmark** as a move to "placate public pressure without delivering meaningful change." The selection of a commissioner perceived as biased has fueled debates about free speech and minority rights, especially in the wake of repressive legislation targeting pro-Palestinian protests after the Bondi killings. These measures, critics argue, risk scapegoating marginalized groups and undermining societal harmony.
+  Meanwhile, the Oxfam report on global wealth inequality, as analyzed by **Binoy Kampmark**, spotlights the unprecedented rise of billionaire fortunes—most notably that of Elon Musk—and the corresponding increase in their political influence. The report connects this concentration of wealth to the spread of authoritarian tendencies and the manipulation of media narratives, raising alarms about the future of democratic accountability. Calls for policy interventions to limit the power of the ultra-wealthy are gaining traction, but resistance from entrenched interests remains formidable.
   
-  On the economic front, the push towards a cashless society is intensifying, but not without resistance. **Kampmark** warns that such a shift "exacerbates inequality, invades privacy, and creates dependency on unreliable digital systems." Public support for cash remains robust, suggesting that any move to eliminate physical currency will face significant opposition.
+  On the international legal front, the U.S. precedent of abducting foreign leaders, exemplified by the recent case of former Venezuelan President Nicolás Maduro, continues to reverberate. **Kampmark** warns that such unilateral actions, justified by legal doctrines crafted by figures like William Barr, erode the foundations of international law and embolden an "Imperial Presidency" model. The muted response from U.S. allies, who claim to uphold democratic norms, signals a worrying acceptance of these tactics and raises concerns about the potential for similar actions against other sovereign leaders.
   
-  Looking ahead, the majority of analysts agree that Western powers are "most definitely" likely to continue privileging strategic interests over international norms, with a high chance of further erosion of civil liberties in the name of security. The backlash against digital-only economies and the ongoing debate over free speech versus social cohesion in Australia are expected to intensify, with public resistance shaping policy outcomes in the months to come.
+  Looking ahead, the prevailing trends point to a high-confidence prediction of further erosion of international norms and increasing polarization, both within states and across alliances. The normalization of alliances with extremist groups, the unchecked rise of billionaire influence, and the willingness of powerful states to bypass international law are likely to intensify. As **Kampmark** notes, these developments "most definitely" signal a period of heightened instability and contestation over the rules that govern global order.
 articles:
+  - title: 'Dancing with European Nationalism: Israel’s Generation Truth Antisemitism
+      Conference'
+    url: https://www.counterpunch.org/2026/01/30/dancing-with-european-nationalism-israels-generation-truth-antisemitism-conference/
+    text: 'Held between January 26 and 27 at Jerusalem’s International Convention Center
+      and called Generation Truth, the second international conference on combating
+      antisemitism was a picture of cracking contradictions. Organised by Israel’s Minister
+      for Diaspora Affairs and Combating Antisemitism, Amichai Chikli, it featured speakers
+      from various far-right groups, many European, and saw Australia’s former Prime
+      Minister and Pentecostal believer, Scott Morrison, address attendees. (The man
+      is obviously touting for gigs.)
+
+
+      The attendance list caused problems prior to last year’s inaugural conference,
+      not least because it included speakers from parties with memberships boasting
+      neo-Nazis and Holocaust deniers. If this was Chikli’s effort at humour, violating
+      that injunction that Zionism and Nazism shall never be linked, few were laughing.
+      Notable international figures such as the UK’s chief Rabbi Ephraim Mirvis, and
+      Germany’s antisemitism commissioner Felix Klein, cancelled their participation
+      on realising the unsavoury lineup. ADL chief Jonathan Greenblatt also withdrew
+      from the conference “in light of some of the recently announced participants.”
+
+
+      By 2026, Chikli had learned a few lessons sufficiently to see appearances by Israeli
+      President Isaac Herzog and Jewish Federations of North America President and CEO
+      Eric Fingerhut accede to appearing. Not that those lessons were deep ones. The
+      minister still believed that far-right politicians, notably from Europe, had a
+      role to play in combating antisemitism, much to the consternation of Jewish community
+      leaders and advocates in the diaspora. “We just have a disagreement,” he put it
+      dismissively in an interview with The Times of Israel.
+
+
+      This particular approach involves a calculus on how Islamophobic your counterparts
+      are relative to antisemitism. A rash of antisemitism can well be tolerated as
+      long as the Prophet remains the arch enemy. “The real threat to European Jewry
+      is radical Islam, not the political right,” comes Chikli’s confirmation. The intention
+      was to “form a broad camp to fight together the lethal antisemitism that is coming
+      from within. That’s not to say we can ignore the far left or the far right, but
+      this is the most lethal form of antisemitism that we face.”
+
+
+      Within what is not exactly clear, but presumably it’s the milieu that tolerates
+      nuisance types who think Israeli policies towards Palestinian self-determination
+      and suffering deserve condemnation, including the atrocities, dispossession and
+      ethnic cleansing that has accompanied them. As the Ministry of Diaspora Affairs
+      explained in a media release on January 22, this grievance was antisemitism in
+      progressive guise, “which adopts the language of human rights while in practice
+      working to delegitimize Israel, exclude Jews from the public sphere, and legitimize
+      boycotts.”
+
+
+      These are the very policies that have been found to be genocidal by the United
+      Nations Independent International Commission of Inquiry on the Occupied Palestinian
+      Territory last September, and deemed such by Amnesty International in December
+      2024 and the International Association of Genocide Scholars in August 2025. Such
+      claims, filed by South Africa, are currently being reviewed by the International
+      Court of Justice.
+
+
+      It would be absurd to expect that indignant protests against such conduct would
+      not follow, be it in the Palestinian diaspora and those sharing solidarity with
+      its cause. But as such protests are seen to be antisemitic for attacking Israel,
+      the argument comes full circle: those holding placards and crying through megaphones
+      are the ones accused of encouraging acts of hatred to Jews in toto, not the diminishing
+      stocks of Israel’s reputation before the mountainous pile of Gazan corpses. In
+      hate, there are the pure and the soiled, with holy writ dispensing with the ambiguities.
+
+
+      The opening address further showed how muddled Chikli is. “This conference seeks
+      to banish political correctness, call the child [antisemitism] by its true name,
+      and mobilise all forces in the ideological and physical struggle against the heirs
+      of the modern Nazis,” he stated in his welcome address. “This is not just the
+      struggle of the Jewish people. This is the struggle of the free world against
+      the imperialism and tyranny of radical Islam.”
+
+
+      Among the far-right figures in evidence was Sweden Democrats leader Jimmie Åkesson.
+      Willie Silberstein, as chair of Sweden’s Committee Against Anti-Semitism, told
+      the BBC in 2022 when commenting on the rise of the SD that his committee had “a
+      problem with parties that were founded by Nazis. That is not an opinion – that
+      is a piece of fact.” The fact that Åkesson had thought it prudent to suspend the
+      party’s entire youth wing in 2015 over its links to the far right gave Silberstein
+      room to wonder: “If one party is so full of people that need to be excluded because
+      they are Nazis – it says something about that party.”
+
+
+      There was Brazilian Senator Flávio Bolsonaro, father of former President Javier
+      Bolsonaro and self-declared contender for the Brazilian presidency. Rather than
+      acknowledging the throbbing authoritarian lineage through his father, he promoted
+      the importance of removing his country’s current President Luiz Inácio Lula da
+      Silva, a man who had likened Israel’s war in Gaza to the Holocaust. Bolsonaro
+      was judicious in referring to the importance of “Judeo-Christian values” and calling
+      Brazil a “Christian, Jewish country”. Were he to be elected, he would move Brazil’s
+      embassy to Jerusalem.
+
+
+      Sam van Rooy and Geert Wilders, parliamentarians from both Belgium and the Netherlands,
+      were also there to bulk the show. Hungary’s representative, EU Affairs Minister
+      János Bóka, attended in premier Viktor Orbán’s stead, a figure so finely illustrative
+      of the dangerous nonsense that afflicts Israel’s courting of European nationalism
+      that ran, and to a large extent still runs, on the intoxicating fumes of antisemitic
+      mania. Orbán’s verbal lashings of the Hungarian Jewish financier George Soros,
+      whom he accused of wishing to settle millions of “illegal immigrants” on Europe’s
+      chaste, Christian soil, are hard to discount. The Soros-founded Central European
+      University wasn’t spared either. By way of contrast, one of Hungary’s rather sketchy
+      historical figures, Miklós Horthy, an important if erratic figure in sending Jews
+      to extermination camps during the Second World War, has received praise and admiration
+      for being a capital fellow, a true statesman.
+
+
+      Being in league with the Christers and blood-and-soil brigade is a confounding
+      situation especially seeing how troubled they have been by Jewry. But when one
+      considers that the likes of Chikli, Bezalel Smotrich, and Itama Ben-Gvir are themselves
+      ethnonationalist and believers of the final war of Gog and Magog, those gathering
+      for Armageddon in the Holy Land are going to be having a most interesting if confrontational
+      encounter when the final reckoning is reached. Armageddon is intended to be a
+      bigoted affair.'
+    one_sentence_summary: The Generation Truth conference in Jerusalem, organized by
+      Israel's Minister for Diaspora Affairs, Amichai Chikli, faced criticism for featuring
+      far-right speakers linked to neo-Nazism and Holocaust denial, highlighting a controversial
+      approach to combating antisemitism that prioritizes alliances with European nationalists
+      while downplaying the dangers of radical Islam.
+    paragraph_summary: The "Generation Truth" conference, held in Jerusalem from January
+      26-27, 2023, aimed at combating antisemitism but was marked by significant contradictions,
+      particularly due to the presence of far-right speakers, including Australia's
+      former Prime Minister Scott Morrison. Organized by Israel's Minister for Diaspora
+      Affairs, Amichai Chikli, the event faced backlash for featuring individuals associated
+      with neo-Nazi and Holocaust denial groups, leading notable figures like the UK’s
+      chief Rabbi and Germany’s antisemitism commissioner to withdraw. Chikli's controversial
+      stance suggested that far-right politicians could play a role in combating antisemitism,
+      prioritizing opposition to radical Islam over concerns about the political right,
+      which drew criticism from Jewish community leaders. The conference's rhetoric
+      framed antisemitism as a broader struggle against radical Islam, while simultaneously
+      overlooking the implications of aligning with far-right groups known for their
+      historical antisemitic sentiments. This complex interplay of alliances raises
+      questions about the future of Jewish advocacy and the moral implications of such
+      partnerships, especially in light of ongoing tensions surrounding Israel's policies
+      towards Palestinians.
+    published: '2026-01-30T06:52:26+00:00'
+  - title: 'The Gangster’s Brief: The Barr Doctrine, Noriega and Maduro'
+    url: https://www.counterpunch.org/2026/01/29/the-gangsters-brief-the-barr-doctrine-noriega-and-maduro/
+    text: 'US President Donald Trump might leave an impression of violent novelty, at
+      least for the leader of a nominal liberal democracy, soiling international relations
+      with the gangster’s touch. This sense of iconoclasm is misplaced. While his conduct
+      regarding the abduction of Nicolás Maduro certainly dumps mightily on the precepts
+      of international law, legal advisors in the US government have been constructing,
+      with a mixture of deviousness and disingenuousness, the rationale for just that
+      very thing over decades. Ditto the justifications for torture that will forever
+      blight the administration of George W. Bush, and theories that elevate the presidential
+      office above the scrutiny of Congressional and courts.
+
+
+      During his tenure as Assistant Attorney General between 1989 and 1990, when he
+      led the Department of Justice Office of Legal Counsel, William J. Barr, who went
+      on to serve as Attorney General twice, wrote classified memoranda that amounted
+      to something of a doctrine, and a nasty one at that. Legitimising the abduction
+      of the troublesome General Manuel Noriega and the US invasion of Panama in 1989,
+      the doctrine is inherently undemocratic, more in keeping with the blood girdled
+      traditions of Nazi jurisprudence than the enlightened jottings of Thomas Paine.
+      But its product is also axiomatic to the exercise of imperial power which, as
+      it grows, becomes less accountable and more erratic. When the US ceased to be
+      a small, manageable republic along the lines of Montesquieu’s ideal state, enlarging
+      its borders through purchase, dispossession and conquest, the centralisation of
+      power made the executive hungry and rebellious. This culminated in what Arthur
+      M. Schlesinger, Jr. called in 1973 the Imperial Presidency, a system of rule contemptuous
+      of constitutionalism in embracing “a conception of presidential power so spacious
+      and peremptory as to imply a radical transformation of the traditional polity.”
+
+
+      The documents in question have been made available at the peerless National Security
+      Archive. Research fellow Arturo Jimenez-Bacardi, in discussing them, makes the
+      case that they disclose a “Barr Doctrine”, one that asserts the “inherent constitutional
+      authority” of the President to conduct foreign policy on a unilateral footing,
+      be it using military force, authorising covert actions, or law enforcement operations.
+
+
+      In June 1989, Barr opined in a memorandum to the Attorney General that the President,
+      when acting through the Attorney General, “has the inherent constitutional authority
+      to deploy the FBI to investigate and arrest individuals for violating United States
+      law even if those actions contravene customary international law.” Law enforcement
+      operations of an extraterritorial nature “authorized by domestic law are not barred
+      even if they contravene unexecuted treaties or treaty provisions, such as Article
+      2(4) of the United Nations Charter.” Furthermore, an arrest breaching international
+      law did not violate the Fourth Amendment [prohibiting unreasonable searches and
+      seizures], nor did such an arrest “abridge the Fourth Amendment.” In these words,
+      the imperial brute, cold to international custom and hot to instinctive violence,
+      can be discerned.
+
+
+      In November, Barr’s legal meditations again made an appearance, this time on the
+      extraterritorial effect of the Posse Comitatus Act of 1878. Despite the Act barring
+      the deployment of the military in the name of law enforcement, it had “no relevance
+      to law enforcement efforts conducted outside the territory of the United States”
+      and was applicable only to the relationship between the military and “domestic
+      civil authority”. Barr engages in various lexical contortions to find that, in
+      the absence of any clear stipulation on extraterritorial effect, “the Act has
+      a strongly domestic orientation.”
+
+
+      A still classified OLC opinion by Barr is said to outline the rationale for overthrowing
+      a foreign government even if it resulted in the death of the head of state at
+      the hands of coup plotters or rebels. This is alluded to by Jonathan Fredman,
+      who worked as a lawyer for the Central Intelligence Agency during the operation
+      against Noriega. Writing for the CIA’s in-house journal Studies in Intelligence,
+      Fredman mentions a classified legal opinion from the Justice Department “examining
+      whether the provision of US support to a planned coup against a repressive regime
+      would necessarily violate the E.O. [Executive Order 12333 barring assassination]
+      if there was no specific intent to kill the foreign leader but the plotters contemplated
+      the use of force and the likelihood of violence were great.” Barr, in keeping
+      with his other memoranda, was in the mood to please his superiors: Executive Order
+      12333 “would not necessarily preclude the US from assisting in such a plan but
+      cautioned that the legality of any particular proposal has to be evaluated on
+      its own merits.”
+
+
+      The parallels with Maduro’s fate are chilling and unavoidable, and it is clear
+      that Barr’s ideas were used with gratitude by the current Assistant Attorney General
+      T. Elliot Gaiser. Regarding whether a President “may lawfully order military personnel
+      to assist law enforcement in forcibly removing Maduro from Venezuela to the United
+      States for prosecution”, Gaiser’s answer submitted on December 23, 2025 was reassuring
+      to the Trump administration. Such extraordinary rendition, an act nothing less
+      than kidnapping, “would not endanger any subsequent US prosecution.” The President
+      could unilaterally authorise such operations, “as the amount of force involved
+      serves important national interests and involves a use of force that he could
+      reasonably conclude does not rise to the level of war in a constitutional sense.”
+      When done in the name of national interests, the crime vanishes.
+
+
+      Gaiser offers a mild qualification to the sweep of his opinion in noting that
+      a “definitive conclusion about how international law would apply to ABSOLUTE RESOLVE”
+      had not been reached. But this was not deemed necessary given existing OLC precedents,
+      with Barr’s views being instrumental on this subject.
+
+
+      In interviews with various outlets explaining the rationale for Maduro’s abduction,
+      Barr reiterated the view “that this kind of action, targeted action to deal with
+      a particular threat, is within the discretion of the president.” While congress
+      had the authority to declare war, “responding to particular threats, using force,
+      is something that historically virtually all presidents have done.”
+
+
+      American political culture remains legal and incurably sanctimonious. It’s encased
+      in a carapace of rhetoric that professes an appreciation of international rules
+      when convenient, and their execration, when otherwise. As Barr’s life in the Justice
+      Department shows, there are always legal courtiers at hand to offer briefs and
+      explanations to their presidential overlords explaining why might is supremely
+      right, while international law and restraints on imperial power is the stuff of
+      effete sissies.'
+    one_sentence_summary: The article critiques the legal justifications crafted by
+      U.S. officials, particularly William Barr, for unilateral presidential actions
+      that violate international law, highlighting a troubling trend towards an "Imperial
+      Presidency" that undermines democratic principles and accountability in foreign
+      policy.
+    paragraph_summary: The article critiques the legal justifications provided by U.S.
+      government officials, particularly William J. Barr, for actions that undermine
+      international law, such as the potential abduction of Nicolás Maduro. It argues
+      that Barr's legal memos, which assert the president's unilateral authority to
+      conduct foreign policy and engage in extraterritorial law enforcement, reflect
+      a troubling doctrine reminiscent of authoritarian legal traditions rather than
+      democratic principles. This "Barr Doctrine" legitimizes actions like the U.S.
+      invasion of Panama and the support for coups, suggesting that the executive branch
+      can operate above constitutional scrutiny when national interests are at stake.
+      The article highlights a pattern of legal reasoning that prioritizes imperial
+      power and military intervention over adherence to international norms, illustrating
+      a broader trend in American political culture that oscillates between upholding
+      and disregarding international law based on convenience.
+    published: '2026-01-29T06:52:43+00:00'
+  - title: 'The Global Billionaire Steal: Wealth, Authoritarianism and Media'
+    url: https://www.counterpunch.org/2026/01/27/the-global-billionaire-steal-wealth-authoritarianism-and-media/
+    text: 'It’s official. This tormented, heated, traumatised planet is now home to
+      over 3,000 billionaires. (That number was reached last year.) In October 2025,
+      Elon Musk became the first man to have wealth exceeding half a trillion dollars.
+      These developments could still take alongside the fact that one in four people
+      across the globe face hunger.
+
+
+      Oxfam’s Resisting the Rule of the Rich has, as its subtitle, “defending freedom
+      against billionaire power”. It’s an important link, as money, rather than knowledge,
+      tends to be the indicator of raw power. In her foreword to the report, the Secretary
+      General of Amnesty International, Agnès Callamard, links the stirrings of authoritarianism
+      with the pains of inequality. They were neither “separate problems” nor “distinct
+      dilemmas”. They were “entwined, as governments across the world side with the
+      powerful, not the people, and choose repression, not redistribution.” Reading
+      such words commands an echo from US Supreme Court Justice Louis Brandeis, who
+      observed in 1941 that, “We can have a democratic society or we can have the concentration
+      of great wealth in the hands of a few. We cannot have both.” (The Oxfam authors
+      also cite the same quote, though not its questionable provenance.)
+
+
+      The charity accepts that the rich influencing and moulding politics is hardly
+      new. That scale of influence, however, has burgeoned. What took place in the US
+      last year, with the victory of a billionaire president, supported and sponsored
+      by billionaires, running a cabinet with billionaires, made this “viscerally clear:
+      in country after country, the super-rich have not only accumulated more wealth
+      than could ever be spent, but have also used this wealth to secure the political
+      power to shape the rules that define our economies and govern our nations.”
+
+
+      Considering data from 136 countries, the authors confirm the thesis that the unequal
+      distribution of economic resources correlates with unequal political power. “This
+      leads to policy outcomes that reflect the preferences of upper-income groups more
+      than those in lower-income groups.” Those in the highest income bracket have,
+      by means of this fact, secured influence in purchasing political representatives,
+      seeking to legitimise elite power, and secure direct access to institutions.
+
+
+      News coverage and commentary have also been infiltrated by the billionaire class,
+      with over half of the stable of global media companies owned by it. Of the 10
+      top social media companies, nine are in the hands of six billionaires. A chilling
+      nexus with artificial intelligence has also developed, with its inexorable shaping
+      of the information environment, given that 8 of the top 10 AI companies are steered
+      by billionaires. These are individuals who are not only affecting the nature of
+      wealth distribution but the nature of how knowledge and understanding is sought.
+
+
+      The authors do not throw their hands up in despair at these dire developments.
+      They suggest measures of amelioration. One idea, and unlikely to take off, is
+      the proposal of “limitarianism” advocated by philosopher Ingrid Robeyns. Just
+      as societies define a poverty line, they should just as well define an “Extreme
+      Wealth Line”. (Robeyns puts this limit at US$10 million, an amount bound to make
+      the tech tyrants goggle.)
+
+
+      More feasible is the construction of a “strong firewall between wealth and politics.”
+      Governments can tax the wealthiest – a thorny point given the threatening influence
+      they exert both within and outside representative chambers. Lobbying and the revolving
+      door phenomenon between public and private interest should be regulated. Modest
+      measures include transparent budgetary processes, reforming regulations, establishing
+      mandatory public lobby registries and enforcing rules on conflicts of interest.
+
+
+      Addressing the hoary old chestnut of concentrated media ownership is another suggestion,
+      be it through rules limiting individuals and corporations to secure a lion’s share
+      of the market, encouraging alternative public and independent media outlets, compelling
+      media companies to be transparent about how they use algorithms and rein in the
+      distribution of harmful content. “Oversight and enforcement should be led by a
+      state-funded, governmental body independent of billionaire influence.” The authors
+      fail to appreciate that such supposedly independent bodies can come with their
+      own problems, becoming censors in chief and paternalistic killjoys, a point aptly
+      illustrated by the Australian eSafety Commissioner’s guerilla campaign against
+      the Internet.
+
+
+      The very nature of political campaigning is also targeted by the charity’s recommendations.
+      Political financing by the wealthy should be subject to accountability and transparency
+      guidelines. Those running for office would have to make commitments to reduce
+      their reliance on private donations, have such donations capped, with political
+      parties having to abide by transparency rules regarding funding and electoral
+      campaign financing.
+
+
+      While all these measures point to the drafters, regulators and lawmakers, Oxfam
+      insists on “political power of the many” as a noble, necessary agenda, with governments
+      needing to “guarantee an enabling civic space, in line with international legal
+      frameworks, standards and guidance.” This would involve promoting freedom of expression,
+      lawful assembly and association and enforcing such standards “through regular
+      reporting and scrutiny by both state and non-state actors”.
+
+
+      The Oxfam report will be dismissed by the aspirational and the moneyed as the
+      rantings of the envious and the airings of the lazy. The obscenely wealthy often
+      assume that a mixture of hard work, prudence and basic genetics will get you the
+      loot. In the end, it remains loot, protected by the systems that encourage it,
+      and officials who remain complicit in weakening any mechanism that seeks redistribution
+      and levelling.'
+    one_sentence_summary: The Oxfam report highlights the alarming rise of billionaires,
+      particularly noting Elon Musk's unprecedented wealth, while linking this concentration
+      of wealth to increasing political power and inequality, and calls for measures
+      to mitigate the influence of the wealthy in politics and media.
+    paragraph_summary: The recent Oxfam report highlights the growing wealth disparity
+      in the world, noting that there are now over 3,000 billionaires, with Elon Musk
+      becoming the first to exceed half a trillion dollars in wealth. This concentration
+      of wealth is linked to increasing political power among the rich, as they influence
+      policies that favor upper-income groups while one in four people globally still
+      face hunger. The report argues that the intertwining of wealth and political influence
+      leads to authoritarianism and inequality, as governments often side with the wealthy
+      rather than the populace. Oxfam suggests several measures to address these issues,
+      including establishing limits on extreme wealth, creating a strong separation
+      between wealth and politics, regulating lobbying, and promoting transparency in
+      political financing. The authors advocate for the empowerment of the many to ensure
+      civic freedoms and accountability, despite the likelihood that their recommendations
+      may be dismissed by the wealthy elite.
+    published: '2026-01-27T06:52:41+00:00'
   - title: Inequality, Surveillance and the Cashless Society
     url: https://www.counterpunch.org/2026/01/20/inequality-surveillance-and-the-cashless-society/
     text: 'Like all new frontiers touted as necessary and worthwhile, the cashless society

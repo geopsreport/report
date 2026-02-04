@@ -7,16 +7,1688 @@ description: "Former CIA analyst & State Dept counterterrorism official; runs So
 websites:
   - https://sonar21.com
 summary: |
-  Amid ongoing global economic and political realignments, recent developments highlight accelerating shifts in currency markets, persistent questions over U.S. leadership, and the consequences of American domestic and foreign policy decisions.
+  With tensions in the Middle East at a peak and global economic uncertainty mounting, the coming days are set to be pivotal for U.S. foreign policy and broader geopolitical stability. The latest reports indicate a critical diplomatic juncture as the U.S. and Iran prepare for direct negotiations on February 7, 2026, in either Istanbul or Oman. This follows months of rising friction over Iran’s nuclear program and recent military escalations.
   
-  The latest analysis by **Larry C. Johnson** underscores a dramatic surge in gold and silver prices, directly linked to the BRICS countries' coordinated move away from the U.S. dollar. Central banks are purchasing record amounts of precious metals, a trend Johnson attributes to the failure of Donald Trump’s tariff-driven policies to revitalize the U.S. industrial base. This, he argues, signals a potential decline in dollar dominance: “Countries are increasingly shifting away from the US dollar towards gold and silver… signaling a potential decline in dollar dominance.” The implication is clear—if this trajectory continues, the global financial system may see a significant rebalancing, with high confidence that dollar supremacy will further erode.
+  **Larry C. Johnson** highlights that these talks present President Donald Trump with a rare opportunity for a diplomatic breakthrough. The negotiations are widely seen as a response to both sides’ recognition of the limits of military escalation, especially after the U.S. Navy’s recent operational challenges in the region. Johnson notes that the deployment of the USS Abraham Lincoln Carrier Strike Group in the Arabian Sea signals continued U.S. readiness for potential conflict, but also underscores the lessons from last year’s failed operations against the Houthis, which cast doubt on the effectiveness of further military pressure.
   
-  On the political front, Johnson’s recent commentary draws parallels between Trump’s self-perception and historical appeasement strategies, suggesting that while Trump’s ambitions are fraught with risk, his re-election could be seen by some as a lesser evil in preventing global conflict. However, Johnson remains critical of Trump’s leadership style and the effectiveness of his policies, noting, “Donald Trump’s tariff-driven efforts to revitalize the US industrial base are failing.”
+  On the economic front, the ongoing commodity standoff between the U.S. and China over gold and silver continues to unsettle markets. Johnson observes persistent price discrepancies between New York and Shanghai, with U.S. banks unable to suppress international prices. This reflects a broader trend of countries moving away from the U.S. dollar, as central banks increase their gold and silver reserves—a development that could further erode dollar dominance if current policies persist.
   
-  Domestically, concerns over the use of force by federal agencies persist. Johnson criticizes the ATF’s recent pre-dawn raid that resulted in the death of Bryan Malinowski, arguing that the situation could have been resolved peacefully. This incident, coupled with previous controversial law enforcement actions, continues to fuel debate over accountability and proportionality in U.S. domestic security operations.
+  Looking ahead, the majority of analysts cited by Johnson anticipate that the outcome of the U.S.-Iran talks will shape the immediate security environment in the Gulf. There is a high chance that Trump will seek a negotiated settlement to avoid the risks of a protracted conflict, though the possibility of renewed hostilities cannot be ruled out if talks falter. On the economic side, the trend toward de-dollarization and commodity-backed reserves is expected to continue, with Johnson stating there is a high chance this will further weaken U.S. economic leverage globally.
   
-  In summary, the prevailing trends point to a weakening of U.S. dollar hegemony, growing skepticism about American leadership both at home and abroad, and heightened scrutiny of federal law enforcement practices. Looking ahead, Johnson expresses high confidence that the global shift away from the dollar will accelerate, and that domestic tensions over security and governance will remain prominent issues in the U.S. political landscape.
+  In summary, the next week is likely to be decisive for both Middle Eastern stability and the future of the global financial system. The consensus among independent analysts is that diplomatic engagement is now favored over military escalation, and that economic realignment away from the dollar is most definitely underway.
 articles:
+  - title: Will Trump Accept Iran’s Terms?
+    url: https://sonar21.com/will-trump-accept-irans-terms/
+    text: 'Witkoff and Aragchi The proposed negotiations between Iran and the United
+      States, tentatively scheduled for Friday, February 7, 2026, presents Donald Trump
+      with the opportunity to achieve an agreement with Iran that he will portray as
+      an amazing diplomatic victory. The talks will take place amid escalating tensions
+      over Iran’s nuclear program and the US military buildup in the region. These talks,
+      if they proceed, would mark the first direct high-level engagement between the
+      two sides in months, following US and Israeli strikes on Iranian nuclear facilities
+      in June 2025 (Operation Midnight Hammer) and recent US threats of further action.
+      The meetings are set to occur in Istanbul, Turkey, though some reports indicate
+      a possible shift to Oman at Iran’s request. US representatives reportedly will
+      include Special Envoy Steve Witkoff and Jared Kushner (President Trump’s son-in-law
+      and advisor). On the Iranian side, Foreign Minister Abbas Araqchi will lead, with
+      possible involvement from other officials. Regional powers like Saudi Arabia,
+      Egypt, Qatar, and Oman may join or mediate, aiming to broaden the dialogue. President
+      Masoud Pezeshkian has endorsed equitable and fair negotiations without preconditions,
+      and instructed diplomats to engage while emphasizing flexibility on issues like
+      uranium enrichment. Iran views the talks as a way to de-escalate, but officials
+      have stressed that US threats  of military action undermine progress and does
+      not alter Iran’s stated intention to conduct massive strikes against US bases
+      and Israel if it is attacked again. President Trump has expressed openness to
+      a deal, but issued stark warnings stating that US warships are en route to the
+      region and bad things could happen if negotiations fail. As I discussed in my
+      last article , the naval force that Trump has dispatched to the Arabian Sea is
+      weaker than the one that tried — and failed — to stop the Houthis from stopping
+      ships bound for Israel in the Red Sea. The US aims to revive elements of a nuclear
+      accord. Previously, Trump also demanded that Iran eliminate its arsenal of ballistic
+      missiles, end support for regional proxies, and protect the human rights of anti-government
+      protestors in Iran. Iran has emphatically rejected those demands. Iran is prepared
+      to make a deal that will allow international inspection of its nuclear processing
+      sites and accept limits on enrichment of uranium. Trump is in desperate need of
+      a win, or at least something that can be portrayed as a diplomatic victory over
+      Iran… He has suffered political damage from the recent killings of two anti-ICE
+      protestors in Minnesota. As of early February 2026, recent national polls show
+      his job approval rating hovering in the low-to-mid 40% range, with disapproval
+      consistently in the mid-to-high 50% range. This represents a modest decline from
+      late 2025 levels (around 45-47% approval), amid ongoing anti-ICE protests, criticism
+      over the kidnapping of Venezuelan President Maduro, and a shaky economy. The critical
+      question is whether Trump will ignore pressure from the Zionists in Israel and
+      the US to insist that Iran give up its ballistic missiles and end all support
+      for groups like Hamas and Hezbollah, or will he be content with a nuclear deal
+      that revives international inspections of Iran’s nuclear sites and assurances
+      that Iran will no longer enrich uranium at levels that would permit it to produce
+      fissile material capable of producing a nuclear warhead. If Trump refuses to accept
+      Iran’s terms then the likelihood of war increases, only this time Iran has the
+      advantage. Iran has received significant military support from China and Russia,
+      which includes air defense systems, new attack helicopters and intelligence about
+      the locations of US military assets in the region. Assuming the Friday talks are
+      not deadlocked, additional meetings will take place, which means the US assets
+      deployed to the region will experience the stress of waiting for something to
+      happen that may not happen. Another consideration that will impede the US ability
+      to attack Iran is the planned joint-naval exercise that Iran will host with China
+      and Russia during the first weeks of March — I am assuming that the talks continue
+      through February. I don’t think Trump is crazy enough to start a war with Russian
+      and Chinese warships in the area. Here are my recent appearances with Marcello
+      (the Brazilian who lives in Itally) and Prepper News : I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: The upcoming negotiations between the U.S. and Iran, scheduled
+      for February 7, 2026, offer Donald Trump a chance to secure a diplomatic victory
+      amid rising tensions over Iran's nuclear program and recent military actions,
+      with key representatives from both sides set to engage in talks in Istanbul or
+      potentially Oman.
+    paragraph_summary: The upcoming negotiations between Iran and the United States,
+      scheduled for February 7, 2026, present a significant opportunity for Donald Trump
+      to secure a diplomatic victory amid rising tensions over Iran's nuclear program
+      and US military presence in the region. This marks the first high-level engagement
+      between the two nations since US and Israeli strikes on Iranian nuclear facilities
+      in June 2025. The talks, set to take place in Istanbul or possibly Oman, will
+      involve US representatives including Special Envoy Steve Witkoff and Jared Kushner,
+      while Iran will be led by Foreign Minister Abbas Araqchi. Regional powers may
+      also participate to facilitate broader dialogue. Iran seeks to de-escalate tensions
+      but remains firm on its stance against US military threats, which it believes
+      hinder progress. Trump has indicated a willingness to negotiate but has warned
+      of potential military consequences if talks fail, highlighting the fragile nature
+      of the situation as US naval forces are deployed to the region.
+    published: '2026-02-04T05:16:45+00:00'
+  - title: Will Trump Accept Iran’s Terms?
+    url: https://sonar21.com/will-trump-accept-irans-terms/
+    text: 'Witkoff and Aragchi The proposed negotiations between Iran and the United
+      States, tentatively scheduled for Friday, February 7, 2026, presents Donald Trump
+      with the opportunity to achieve an agreement with Iran that he will portray as
+      an amazing diplomatic victory. The talks will take place amid escalating tensions
+      over Iran’s nuclear program and the US military buildup in the region. These talks,
+      if they proceed, would mark the first direct high-level engagement between the
+      two sides in months, following US and Israeli strikes on Iranian nuclear facilities
+      in June 2025 (Operation Midnight Hammer) and recent US threats of further action.
+      The meetings are set to occur in Istanbul, Turkey, though some reports indicate
+      a possible shift to Oman at Iran’s request. US representatives reportedly will
+      include Special Envoy Steve Witkoff and Jared Kushner (President Trump’s son-in-law
+      and advisor). On the Iranian side, Foreign Minister Abbas Araqchi will lead, with
+      possible involvement from other officials. Regional powers like Saudi Arabia,
+      Egypt, Qatar, and Oman may join or mediate, aiming to broaden the dialogue. President
+      Masoud Pezeshkian has endorsed equitable and fair negotiations without preconditions,
+      and instructed diplomats to engage while emphasizing flexibility on issues like
+      uranium enrichment. Iran views the talks as a way to de-escalate, but officials
+      have stressed that US threats  of military action undermine progress and does
+      not alter Iran’s stated intention to conduct massive strikes against US bases
+      and Israel if it is attacked again. President Trump has expressed openness to
+      a deal, but issued stark warnings stating that US warships are en route to the
+      region and bad things could happen if negotiations fail. As I discussed in my
+      last article , the naval force that Trump has dispatched to the Arabian Sea is
+      weaker than the one that tried — and failed — to stop the Houthis from stopping
+      ships bound for Israel in the Red Sea. The US aims to revive elements of a nuclear
+      accord. Previously, Trump also demanded that Iran eliminate its arsenal of ballistic
+      missiles, end support for regional proxies, and protect the human rights of anti-government
+      protestors in Iran. Iran has emphatically rejected those demands. Iran is prepared
+      to make a deal that will allow international inspection of its nuclear processing
+      sites and accept limits on enrichment of uranium. Trump is in desperate need of
+      a win, or at least something that can be portrayed as a diplomatic victory over
+      Iran… He has suffered political damage from the recent killings of two anti-ICE
+      protestors in Minnesota. As of early February 2026, recent national polls show
+      his job approval rating hovering in the low-to-mid 40% range, with disapproval
+      consistently in the mid-to-high 50% range. This represents a modest decline from
+      late 2025 levels (around 45-47% approval), amid ongoing anti-ICE protests, criticism
+      over the kidnapping of Venezuelan President Maduro, and a shaky economy. The critical
+      question is whether Trump will ignore pressure from the Zionists in Israel and
+      the US to insist that Iran give up its ballistic missiles and end all support
+      for groups like Hamas and Hezbollah, or will he be content with a nuclear deal
+      that revives international inspections of Iran’s nuclear sites and assurances
+      that Iran will no longer enrich uranium at levels that would permit it to produce
+      fissile material capable of producing a nuclear warhead. If Trump refuses to accept
+      Iran’s terms then the likelihood of war increases, only this time Iran has the
+      advantage. Iran has received significant military support from China and Russia,
+      which includes air defense systems, new attack helicopters and intelligence about
+      the locations of US military assets in the region. Assuming the Friday talks are
+      not deadlocked, additional meetings will take place, which means the US assets
+      deployed to the region will experience the stress of waiting for something to
+      happen that may not happen. Another consideration that will impede the US ability
+      to attack Iran is the planned joint-naval exercise that Iran will host with China
+      and Russia during the first weeks of March — I am assuming that the talks continue
+      through February. I don’t think Trump is crazy enough to start a war with Russian
+      and Chinese warships in the area. Here are my recent appearances with Marcello
+      (the Brazilian who lives in Itally) and Prepper News : I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: The upcoming negotiations between the U.S. and Iran, scheduled
+      for February 7, 2026, offer Donald Trump a chance to secure a diplomatic victory
+      amid rising tensions over Iran's nuclear program and recent military actions,
+      with key representatives from both sides set to engage in talks in Istanbul or
+      potentially Oman.
+    paragraph_summary: The upcoming negotiations between Iran and the United States,
+      scheduled for February 7, 2026, present a significant opportunity for Donald Trump
+      to secure a diplomatic victory amid rising tensions over Iran's nuclear program
+      and US military presence in the region. This marks the first high-level engagement
+      between the two nations since US and Israeli strikes on Iranian nuclear facilities
+      in June 2025. The talks, set to take place in Istanbul or possibly Oman, will
+      involve US representatives including Special Envoy Steve Witkoff and Jared Kushner,
+      while Iran will be led by Foreign Minister Abbas Araqchi. Regional powers may
+      also participate to facilitate broader dialogue. Iran seeks to de-escalate tensions
+      but remains firm on its stance against US military threats, which it believes
+      hinder progress. Trump has indicated a willingness to negotiate but has warned
+      of potential military consequences if talks fail, highlighting the fragile nature
+      of the situation as US naval forces are deployed to the region.
+    published: '2026-02-04T05:16:45+00:00'
+  - title: The US Failed to Defeat the Houthis with Two Carriers, Yet It Thinks It Can
+      Regime Change Iran with One?
+    url: https://sonar21.com/the-us-failed-to-defeat-the-houthis-with-two-carriers-yet-it-thinks-it-can-regime-change-iran-with-one/
+    text: 'Shahed 149 ‘Gaza’ Surveillance Combat Reconnaissance Drone Currently, the
+      USS Abraham Lincoln Carrier Strike Group (CSG-3) is operating in the Arabian Sea
+      with the presumed mission to be the primary US naval offensive weapon system to
+      attack Iran. What are its chances of success? To answer that question we need
+      only compare what Donald Trump failed to accomplish in the Red Sea in March 2025
+      during Operation Rough Rider. when the US deployed two US aircraft carriers to
+      achieve three mission objectives: Restore freedom of navigation in the Red Sea
+      and Gulf of Aden by ending Houthi attacks on commercial shipping, U.S. warships,
+      and allied vessels. Degrade and “disintegrate” Houthi military capabilities through
+      targeted strikes on infrastructure, leadership, command-and-control facilities,
+      radar systems, air defenses, ballistic missile/drone launch sites, weapons storage,
+      production hubs (e.g., drone facilities), and other assets used for maritime attacks.
+      Re-establish deterrence against the Houthis and their Iranian backers , deterring
+      further aggression, and pressuring Iran to cease support for the group. The US
+      failed… After losing three F/A-18E Super Hornets and seven $35 million dollar
+      MQ-9 Reaper drones, President Trump declared that the Houthis capitulated and
+      he ordered the US carriers to depart the Red Sea. But the Houthis did not surrender,
+      they continued to attack ships headed to Israel. So here is a Table comparing
+      the Abraham Lincoln strike group with the strike group that operated in the Red
+      Sea in March 2025: This is truly shocking… The US had more F-18a combat aircraft
+      (although the Abraham Lincoln reportedly has more F-35s on board), more destroyers
+      in the Red Sea, plus a cruiser, and at least 200 more air defense missiles than
+      the US armada now parked somewhere in the Arabian Sea away from Iran’s coast…
+      and Operation Rough Rider failed to corral the Houthis. While the Houthis are
+      formidable warriors, their capabilities pale by magnitudes to those of Iran. US
+      military planners are delusional if they truly believe that the Abraham Lincoln
+      strike force carries more punch and more capability than the US naval force that
+      operated in the Red Sea. Consider the following: On January 30, Iran released
+      footage of the  work of its latest Shahed-149 ‘Gaza’ surveillance  combat reconnaissance
+      drone (pictured above). These Iranian drones reportedly chased down the American 
+      aircraft carrier USS Abraham Lincoln as soon as it approached the Arabian Sea.
+      Tehran released video footage that showed the American aircraft carrier, which
+      was filmed by Iranian drones from very different  angles. The most interesting
+      thing is that the air defense systems of the American aircraft carrier strike
+      group did not take any measures to challenge the Iranian drones. Did the US task
+      force fail to detect the drones or did they decide to ignore them? A dear friend
+      of mine — a retired Navy SEAL who operated in the Persian Gulf in 1987 — challenged
+      my contention that the Abraham Lincoln is a vulnerable target because it is not
+      going to sit stationary and is difficult to hit with conventional missiles while
+      on the move. My friend is right on that point. But I don’t think he accounted
+      for having a couple of Shahed-149s overhead with the potential capability to guide
+      an Iranian missile to the target. Plus, Iran has a plethora of drones that would
+      be employed in a swarm attack against the US ships if they are ordered to approach
+      Iran’s southern shore to launch cruise missiles. Drones, unlike most missiles,
+      can be steered to a target. The other component is air power. I assume that the
+      US will try to destroy Iranian missiles with missiles launched from US F35Cs.
+      That sounds like a swell plan if the US has pinpoint located the Iranian missiles…
+      But Iran keeps its missiles below ground and, when they are above ground, they
+      are on mobile platforms. As we saw in Yemen, the US failed to quickly and accurately
+      identify the Houthi missiles — one consequence of that was the Houthi success
+      in shooting down seven MQ-9 Predator drones that were trying to identify viable
+      Houthi targets. Yemen is a small country and did not have Russian and Chinese
+      modern air defense systems… Iran is more than three times larger than Yemen and
+      now, in the aftermath of the 12-day war last June, has acquired significant air
+      defense assets from Russia and China. The math on this is simple: The US has not
+      deployed enough fire power to seriously degrade Iran’s military capabilities.
+      Maybe this explains why Donald Trump appears willing to legitimately engage Iran
+      in negotiations… Steve Witkoff is supposed to meet this Friday in Istanbul with
+      Iran’s Foreign Minister. I did my usual Monday schedule… First with Nima and Professor
+      Marandi and then with Judge Napolitano: I thank you for your invaluable support
+      by taking time to read or comment. I do not charge a subscription fee nor do I
+      accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: The USS Abraham Lincoln Carrier Strike Group is currently
+      positioned in the Arabian Sea, likely preparing for potential offensive actions
+      against Iran, but its success may be uncertain based on the failures of previous
+      military operations, such as Donald Trump's 2025 efforts in the Red Sea against
+      Houthi forces.
+    paragraph_summary: The article discusses the current deployment of the USS Abraham
+      Lincoln Carrier Strike Group (CSG-3) in the Arabian Sea, speculating on its potential
+      effectiveness against Iran based on the failures of a previous operation, Operation
+      Rough Rider, led by Donald Trump in March 2025. During that operation, the U.S.
+      aimed to restore navigation freedom in the Red Sea and degrade Houthi military
+      capabilities but ultimately failed, losing several aircraft and drones while the
+      Houthis continued their attacks. A comparison of the current strike group with
+      the one from 2025 reveals that the Abraham Lincoln has fewer resources, including
+      combat aircraft and air defense missiles, raising concerns about its ability to
+      successfully deter Iranian aggression, especially given the Houthis' military
+      capabilities, which, while formidable, are significantly less than Iran's.
+    published: '2026-02-03T03:41:31+00:00'
+  - title: The US Failed to Defeat the Houthis with Two Carriers, Yet It Thinks It Can
+      Regime Change Iran with One?
+    url: https://sonar21.com/the-us-failed-to-defeat-the-houthis-with-two-carriers-yet-it-thinks-it-can-regime-change-iran-with-one/
+    text: 'Shahed 149 ‘Gaza’ Surveillance Combat Reconnaissance Drone Currently, the
+      USS Abraham Lincoln Carrier Strike Group (CSG-3) is operating in the Arabian Sea
+      with the presumed mission to be the primary US naval offensive weapon system to
+      attack Iran. What are its chances of success? To answer that question we need
+      only compare what Donald Trump failed to accomplish in the Red Sea in March 2025
+      during Operation Rough Rider. when the US deployed two US aircraft carriers to
+      achieve three mission objectives: Restore freedom of navigation in the Red Sea
+      and Gulf of Aden by ending Houthi attacks on commercial shipping, U.S. warships,
+      and allied vessels. Degrade and “disintegrate” Houthi military capabilities through
+      targeted strikes on infrastructure, leadership, command-and-control facilities,
+      radar systems, air defenses, ballistic missile/drone launch sites, weapons storage,
+      production hubs (e.g., drone facilities), and other assets used for maritime attacks.
+      Re-establish deterrence against the Houthis and their Iranian backers , deterring
+      further aggression, and pressuring Iran to cease support for the group. The US
+      failed… After losing three F/A-18E Super Hornets and seven $35 million dollar
+      MQ-9 Reaper drones, President Trump declared that the Houthis capitulated and
+      he ordered the US carriers to depart the Red Sea. But the Houthis did not surrender,
+      they continued to attack ships headed to Israel. So here is a Table comparing
+      the Abraham Lincoln strike group with the strike group that operated in the Red
+      Sea in March 2025: This is truly shocking… The US had more F-18a combat aircraft
+      (although the Abraham Lincoln reportedly has more F-35s on board), more destroyers
+      in the Red Sea, plus a cruiser, and at least 200 more air defense missiles than
+      the US armada now parked somewhere in the Arabian Sea away from Iran’s coast…
+      and Operation Rough Rider failed to corral the Houthis. While the Houthis are
+      formidable warriors, their capabilities pale by magnitudes to those of Iran. US
+      military planners are delusional if they truly believe that the Abraham Lincoln
+      strike force carries more punch and more capability than the US naval force that
+      operated in the Red Sea. Consider the following: On January 30, Iran released
+      footage of the  work of its latest Shahed-149 ‘Gaza’ surveillance  combat reconnaissance
+      drone (pictured above). These Iranian drones reportedly chased down the American 
+      aircraft carrier USS Abraham Lincoln as soon as it approached the Arabian Sea.
+      Tehran released video footage that showed the American aircraft carrier, which
+      was filmed by Iranian drones from very different  angles. The most interesting
+      thing is that the air defense systems of the American aircraft carrier strike
+      group did not take any measures to challenge the Iranian drones. Did the US task
+      force fail to detect the drones or did they decide to ignore them? A dear friend
+      of mine — a retired Navy SEAL who operated in the Persian Gulf in 1987 — challenged
+      my contention that the Abraham Lincoln is a vulnerable target because it is not
+      going to sit stationary and is difficult to hit with conventional missiles while
+      on the move. My friend is right on that point. But I don’t think he accounted
+      for having a couple of Shahed-149s overhead with the potential capability to guide
+      an Iranian missile to the target. Plus, Iran has a plethora of drones that would
+      be employed in a swarm attack against the US ships if they are ordered to approach
+      Iran’s southern shore to launch cruise missiles. Drones, unlike most missiles,
+      can be steered to a target. The other component is air power. I assume that the
+      US will try to destroy Iranian missiles with missiles launched from US F35Cs.
+      That sounds like a swell plan if the US has pinpoint located the Iranian missiles…
+      But Iran keeps its missiles below ground and, when they are above ground, they
+      are on mobile platforms. As we saw in Yemen, the US failed to quickly and accurately
+      identify the Houthi missiles — one consequence of that was the Houthi success
+      in shooting down seven MQ-9 Predator drones that were trying to identify viable
+      Houthi targets. Yemen is a small country and did not have Russian and Chinese
+      modern air defense systems… Iran is more than three times larger than Yemen and
+      now, in the aftermath of the 12-day war last June, has acquired significant air
+      defense assets from Russia and China. The math on this is simple: The US has not
+      deployed enough fire power to seriously degrade Iran’s military capabilities.
+      Maybe this explains why Donald Trump appears willing to legitimately engage Iran
+      in negotiations… Steve Witkoff is supposed to meet this Friday in Istanbul with
+      Iran’s Foreign Minister. I did my usual Monday schedule… First with Nima and Professor
+      Marandi and then with Judge Napolitano: I thank you for your invaluable support
+      by taking time to read or comment. I do not charge a subscription fee nor do I
+      accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: The USS Abraham Lincoln Carrier Strike Group is currently
+      positioned in the Arabian Sea, likely preparing for potential offensive actions
+      against Iran, but its success may be uncertain based on the failures of previous
+      military operations, such as Donald Trump's 2025 efforts in the Red Sea against
+      Houthi forces.
+    paragraph_summary: The article discusses the current deployment of the USS Abraham
+      Lincoln Carrier Strike Group (CSG-3) in the Arabian Sea, speculating on its potential
+      effectiveness against Iran based on the failures of a previous operation, Operation
+      Rough Rider, led by Donald Trump in March 2025. During that operation, the U.S.
+      aimed to restore navigation freedom in the Red Sea and degrade Houthi military
+      capabilities but ultimately failed, losing several aircraft and drones while the
+      Houthis continued their attacks. A comparison of the current strike group with
+      the one from 2025 reveals that the Abraham Lincoln has fewer resources, including
+      combat aircraft and air defense missiles, raising concerns about its ability to
+      successfully deter Iranian aggression, especially given the Houthis' military
+      capabilities, which, while formidable, are significantly less than Iran's.
+    published: '2026-02-03T03:41:31+00:00'
+  - title: More Ukrainian Cowbell From a Delusional British Colonel
+    url: https://sonar21.com/more-ukrainian-cowbell-from-a-delusional-british-colonel/
+    text: 'Hamish de Bretton-Gordon (a retired British Army colonel, former commander
+      of the 1st Royal Tank Regiment, chemical weapons expert, and frequent commentator
+      on defense/military matters) is at it again, having just published an article
+      on January 30, 2026 in the Telegraph titled, “Desperate Putin is coming to the
+      end of the road” (also headlined as “Putin’s army is on its knees. When it still
+      has them”). This is not the first time that Colonel Hamish de Bretton-Gordon makes
+      a fool of himself… He has a proven track record of being completely wrong about
+      the war in Ukraine. Consider his bold and totally wrong predictions on Ukraine’s
+      2023 offensive that was supposed to push the Russians into the Black Sea. (Spoiler
+      alert: The Russians completely defeated the Ukrainian offensive by the end of
+      August 2023.) Even before Ukraine launched its failed offensive in June 2023,
+      Hamish was notably optimistic about Ukraine’s prospects,  predicting strong Ukrainian
+      performance based on superior Western equipment, tactics, and Russian weaknesses.
+      Here are some of his more egregious key predictions and statements from two plus
+      years ago: In June 2023 , he stated: “As a former tank commander, I can say one
+      thing for certain: Putin’s demoralised conscripts are utterly unprepared for the
+      shock action now hitting their lines.” Hamish was overly confident in Ukraine’s
+      ability to deliver decisive blows using Western-supplied armor (e.g., Challenger
+      2 tanks) and combined arms maneuver warfare, and woefully ignorant about the defensive
+      lines Russia had constructed in advance of the Ukrainian attack. He also expressed
+      enthusiasm for British-made tanks, reportedly tweeting or stating something along
+      the lines of “British-made tanks are about to sweep Putin’s conscripts aside,”
+      emphasizing their superiority over Russian forces. Here again, Hamish apparently
+      never learned that such a ground offensive required significant close-air support
+      from an air force that did not exist. Earlier in the buildup (e.g., spring 2023),
+      he insisted that ambitious Ukrainian strikes, potentially ambitious in scope,
+      buttressed by new Western arsenals  would achieve quick breakthroughs. By late
+      July 2023 (as the offensive was underway but stalling all along the southern front),
+      he wrote in The Telegraph that the counteroffensive was in its early stages, urged
+      the West to ensure its success “at all costs,” and predicted that Ukraine would
+      eventually “punch through the Russian defence lines and retake the Crimea and
+      the East.” He stressed that failure would be catastrophic for the West, but remained
+      bullish on eventual success despite delays and challenges like mines and prepared
+      defenses. Hamish is nothing more than a crude, buffoonish propagandist. He followed
+      a script (likely pre-approved by British intelligence) focusing on Russian demoralization,
+      poor conscript quality, and the advantages of NATO-style maneuver warfare. However,
+      like so many other Western pundits, he underestimated the impact of Russia’s extensive
+      fortifications, minefields, and artillery density, which slowed advances significantly.
+      Post-offensive assessments (e.g., in later 2023 articles) noted the counteroffensive
+      fell short of expectations, but de Bretton-Gordon continued advocating strongly
+      for increased Western support to enable Ukrainian gains. Just think of him as
+      Christopher Walken wearing a uniform and hollering, MORE COWBELL , at every opportunity.
+      In his latest opinion piece , de Bretton-Gordon argues that Russia’s military
+      campaign in Ukraine is collapsing due to unsustainable manpower losses and desperate
+      recruitment measures. Key points include: Reports confirm that wounded Russian
+      convicts (many missing limbs from battlefield injuries) are being forcibly returned
+      to the front lines to plug critical manpower shortages, highlighting the Kremlin’s
+      extreme desperation. (Hamish forgets to mention that these reports came to him
+      courtesy of the Ukrainian intelligence service, which was funneling them to the
+      British and American counterparts.) He describes Putin as a “criminal” leader
+      running out of “cannon fodder,” with Russia’s army increasingly reliant on poorly
+      trained, injured, or coerced personnel rather than professional forces. This reflects
+      broader exhaustion: massive casualties (hundreds of thousands), low morale, equipment
+      shortages, and inability to sustain offensive operations despite territorial gains
+      in some areas. De Bretton-Gordon frames this as evidence that Putin’s strategy
+      is failing, predicting the regime is nearing a breaking point where it can no
+      longer prosecute the war effectively without major concessions or collapse. He
+      ties this to the need for continued Western support for Ukraine, implying that
+      sustained pressure could force Russia toward negotiation or defeat. Poor Hamish…
+      Didn’t learn a damn thing during his career with the British army and is either
+      too stupid or too gullible to do any critical thinking. Let’s deal with one inarguable
+      fact. In 2025, Russia and Ukraine conducted 14 exchanges of soldiers’ bodies,
+      with Ukraine repatriating 14,480 bodies from Russia and Russia receiving 391 bodies
+      from Ukraine. That means for every dead Russian soldier there were 37 dead Ukrainians.
+      Guess which side is suffering “massive casualties and low morale”? I have a request…
+      Is there anyone out there who knows how to make an AI movie? I want to superimpose
+      Hamish de Bretton-Gordon’s head on Christopher Walken’s body, incessantly shouting,
+      MORE COWBELL: Back to serious… I was interviewed late last week by Ali Mizram,
+      a podcaster in Australia: I thank you for your invaluable support by taking time
+      to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: Retired British Army Colonel Hamish de Bretton-Gordon has
+      faced criticism for his consistently inaccurate predictions regarding the war
+      in Ukraine, including his recent article claiming that "desperate" Putin's army
+      is nearing defeat, despite previous forecasts of Ukrainian success that did not
+      materialize.
+    paragraph_summary: Colonel Hamish de Bretton-Gordon, a retired British Army officer
+      and chemical weapons expert, has published a new article in the Telegraph titled
+      “Desperate Putin is coming to the end of the road,” which reflects his historically
+      optimistic views on the war in Ukraine. Despite his previous bold predictions
+      about Ukraine's military capabilities and the expected success of its 2023 offensive,
+      which ultimately failed, de Bretton-Gordon has consistently misjudged the situation
+      on the ground. He had confidently asserted that Russian forces were demoralized
+      and unprepared, and he overestimated the impact of Western military support, particularly
+      British-made tanks, while neglecting the strength of Russian defensive strategies.
+      His track record of inaccuracies raises questions about his credibility as a commentator
+      on military affairs.
+    published: '2026-02-02T04:32:27+00:00'
+  - title: More Ukrainian Cowbell From a Delusional British Colonel
+    url: https://sonar21.com/more-ukrainian-cowbell-from-a-delusional-british-colonel/
+    text: 'Hamish de Bretton-Gordon (a retired British Army colonel, former commander
+      of the 1st Royal Tank Regiment, chemical weapons expert, and frequent commentator
+      on defense/military matters) is at it again, having just published an article
+      on January 30, 2026 in the Telegraph titled, “Desperate Putin is coming to the
+      end of the road” (also headlined as “Putin’s army is on its knees. When it still
+      has them”). This is not the first time that Colonel Hamish de Bretton-Gordon makes
+      a fool of himself… He has a proven track record of being completely wrong about
+      the war in Ukraine. Consider his bold and totally wrong predictions on Ukraine’s
+      2023 offensive that was supposed to push the Russians into the Black Sea. (Spoiler
+      alert: The Russians completely defeated the Ukrainian offensive by the end of
+      August 2023.) Even before Ukraine launched its failed offensive in June 2023,
+      Hamish was notably optimistic about Ukraine’s prospects,  predicting strong Ukrainian
+      performance based on superior Western equipment, tactics, and Russian weaknesses.
+      Here are some of his more egregious key predictions and statements from two plus
+      years ago: In June 2023 , he stated: “As a former tank commander, I can say one
+      thing for certain: Putin’s demoralised conscripts are utterly unprepared for the
+      shock action now hitting their lines.” Hamish was overly confident in Ukraine’s
+      ability to deliver decisive blows using Western-supplied armor (e.g., Challenger
+      2 tanks) and combined arms maneuver warfare, and woefully ignorant about the defensive
+      lines Russia had constructed in advance of the Ukrainian attack. He also expressed
+      enthusiasm for British-made tanks, reportedly tweeting or stating something along
+      the lines of “British-made tanks are about to sweep Putin’s conscripts aside,”
+      emphasizing their superiority over Russian forces. Here again, Hamish apparently
+      never learned that such a ground offensive required significant close-air support
+      from an air force that did not exist. Earlier in the buildup (e.g., spring 2023),
+      he insisted that ambitious Ukrainian strikes, potentially ambitious in scope,
+      buttressed by new Western arsenals  would achieve quick breakthroughs. By late
+      July 2023 (as the offensive was underway but stalling all along the southern front),
+      he wrote in The Telegraph that the counteroffensive was in its early stages, urged
+      the West to ensure its success “at all costs,” and predicted that Ukraine would
+      eventually “punch through the Russian defence lines and retake the Crimea and
+      the East.” He stressed that failure would be catastrophic for the West, but remained
+      bullish on eventual success despite delays and challenges like mines and prepared
+      defenses. Hamish is nothing more than a crude, buffoonish propagandist. He followed
+      a script (likely pre-approved by British intelligence) focusing on Russian demoralization,
+      poor conscript quality, and the advantages of NATO-style maneuver warfare. However,
+      like so many other Western pundits, he underestimated the impact of Russia’s extensive
+      fortifications, minefields, and artillery density, which slowed advances significantly.
+      Post-offensive assessments (e.g., in later 2023 articles) noted the counteroffensive
+      fell short of expectations, but de Bretton-Gordon continued advocating strongly
+      for increased Western support to enable Ukrainian gains. Just think of him as
+      Christopher Walken wearing a uniform and hollering, MORE COWBELL , at every opportunity.
+      In his latest opinion piece , de Bretton-Gordon argues that Russia’s military
+      campaign in Ukraine is collapsing due to unsustainable manpower losses and desperate
+      recruitment measures. Key points include: Reports confirm that wounded Russian
+      convicts (many missing limbs from battlefield injuries) are being forcibly returned
+      to the front lines to plug critical manpower shortages, highlighting the Kremlin’s
+      extreme desperation. (Hamish forgets to mention that these reports came to him
+      courtesy of the Ukrainian intelligence service, which was funneling them to the
+      British and American counterparts.) He describes Putin as a “criminal” leader
+      running out of “cannon fodder,” with Russia’s army increasingly reliant on poorly
+      trained, injured, or coerced personnel rather than professional forces. This reflects
+      broader exhaustion: massive casualties (hundreds of thousands), low morale, equipment
+      shortages, and inability to sustain offensive operations despite territorial gains
+      in some areas. De Bretton-Gordon frames this as evidence that Putin’s strategy
+      is failing, predicting the regime is nearing a breaking point where it can no
+      longer prosecute the war effectively without major concessions or collapse. He
+      ties this to the need for continued Western support for Ukraine, implying that
+      sustained pressure could force Russia toward negotiation or defeat. Poor Hamish…
+      Didn’t learn a damn thing during his career with the British army and is either
+      too stupid or too gullible to do any critical thinking. Let’s deal with one inarguable
+      fact. In 2025, Russia and Ukraine conducted 14 exchanges of soldiers’ bodies,
+      with Ukraine repatriating 14,480 bodies from Russia and Russia receiving 391 bodies
+      from Ukraine. That means for every dead Russian soldier there were 37 dead Ukrainians.
+      Guess which side is suffering “massive casualties and low morale”? I have a request…
+      Is there anyone out there who knows how to make an AI movie? I want to superimpose
+      Hamish de Bretton-Gordon’s head on Christopher Walken’s body, incessantly shouting,
+      MORE COWBELL: Back to serious… I was interviewed late last week by Ali Mizram,
+      a podcaster in Australia: I thank you for your invaluable support by taking time
+      to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: Retired British Army Colonel Hamish de Bretton-Gordon has
+      faced criticism for his consistently inaccurate predictions regarding the war
+      in Ukraine, including his recent article claiming that "desperate" Putin's army
+      is nearing defeat, despite previous forecasts of Ukrainian success that did not
+      materialize.
+    paragraph_summary: Colonel Hamish de Bretton-Gordon, a retired British Army officer
+      and chemical weapons expert, has published a new article in the Telegraph titled
+      “Desperate Putin is coming to the end of the road,” which reflects his historically
+      optimistic views on the war in Ukraine. Despite his previous bold predictions
+      about Ukraine's military capabilities and the expected success of its 2023 offensive,
+      which ultimately failed, de Bretton-Gordon has consistently misjudged the situation
+      on the ground. He had confidently asserted that Russian forces were demoralized
+      and unprepared, and he overestimated the impact of Western military support, particularly
+      British-made tanks, while neglecting the strength of Russian defensive strategies.
+      His track record of inaccuracies raises questions about his credibility as a commentator
+      on military affairs.
+    published: '2026-02-02T04:32:27+00:00'
+  - title: Trump’s Plan to Economically Bully China Has Failed… Scott Bessent is Clueless
+    url: https://sonar21.com/trumps-plan-to-economically-bully-china-has-failed-scott-bessent-is-clueless/
+    text: 'Donald Trump’s Secretary of Treasury, Mr. Scott Bessent, is lost in a delusion.
+      Bessent’s recent public comments on tariffs and China illustrate his detachment
+      from reality. He emphasizes that using high, targeted tariffs as leverage — framing
+      them as necessary to counter what he describes as unfair Chinese trade practices
+      — have not derailed a working trade “equilibrium” with Beijing. He has defended
+      steep sector‑specific tariffs (steel, EVs, etc.) on China as a response to “dumping”
+      and industrial overcapacity, pointing out that not only the US, but also Canada
+      and the EU have at times adopted similar high tariffs on Chinese steel and related
+      products. Bessent has warned allies (especially Canada) that lowering their China‑focused
+      tariffs or signing deals that let Chinese goods transit via third countries could
+      trigger very high US retaliatory tariffs (he has explicitly mentioned the possibility
+      of tariffs at or near 100% in that context). At the same time, he has said the
+      US –China trade relationship has reached a “very good equilibrium” after the earlier
+      tariff wars, stressing that tariffs pushed Beijing into a rules‑based framework
+      where China is now, in his telling, honoring large purchase commitments (for example,
+      soybean buying targets). He portrays the tariff pressure as having forced China
+      to follow through on agreed purchases and commitments rather than as purely destructive,
+      and says Washington will “hold their feet to the fire” to keep them compliant.
+      So let’s look at some actual facts… Since President Trump announced new tariffs
+      on China in February 2025 (starting with a 10% tariff on all Chinese goods effective
+      February 4, followed by escalations and retaliatory measures), China’s trade patterns
+      have undergone significant shifts, with the overall impact igniting a shift in
+      Beijing’s global export machine. For starters, there has been a sharp decline
+      in direct US trade. China’s exports to the United States fell by approximately
+      19-20% in dollar terms for the full year 2025 (some quarterly drops reached 23-40%
+      in peak periods). US imports from China halved in certain months (e.g., January-May
+      frontloading surge followed by contraction), with cumulative year-on-year declines
+      turning negative by mid-2025. Bilateral trade volume contracted due to tariffs
+      peaking at high levels (up to 145% on Chinese goods before partial rollbacks)
+      and non-tariff measures (e.g., export controls on critical minerals). China, unfazed
+      by the US bullying, pivoted deftly to other markets. China posted a historic $1.189–$1.2
+      trillion trade surplus in 2025 (up ~20% from 2024), the largest ever recorded.
+      Total exports grew robustly (e.g., +5-6% in late 2025 months), with overall growth
+      around 5-6% for the year, outperforming global averages. And monthly surpluses
+      exceeded $100 billion seven times (vs. once in 2024), supported by a weakened
+      yuan and policy stimulus. What happened to Trump’s claim that “countries are lining
+      up to kiss my ass” because of his tariff policy? Instead of fretting about losing
+      ground in the US market, China deftly pivoted to a policy of trade diversification.
+      In Southeast Asia (ASEAN), exports surged +13-14%, driven by machinery, auto parts,
+      electronics, and intermediate goods. This reflects rerouting (transshipment) through
+      Vietnam, Malaysia, etc., for final assembly or labeling to bypass US tariffs.
+      China’s exports to Africa jumped +25-26%, fueled by infrastructure-linked demand
+      and Belt and Road ties. China also experienced gains in Latin America, growing
+      around +7%, with increased shipments of manufactured goods and commodities. A
+      similar result for Europe, where China’s exports rose +8-9%, helping offset US
+      losses. These “Global South” and emerging markets absorbed redirected flows, with
+      Chinese firms accelerating diversification strategies (e.g., special economic
+      zones abroad, supply chain shifts). On the import side of the ledger, imports
+      from the US fell ~14-15%, reflecting retaliation and reduced demand for certain
+      US goods (e.g., agricultural products, energy). Overall imports remained relatively
+      flat or grew modestly (+5-6% in December), with China relying more on domestic
+      stimulus and non-US suppliers. Putting it bluntly, China’s trade has become less
+      US-centric and more globally diversified, with emerging markets and Asia filling
+      the gap left by reduced US access. Besides putting the US in a weaker position
+      on the trade front — i.e., instead of expanding trade with China, the Chinese
+      have decided to look for other partners — the commodity markets are broken. As
+      of Saturday night east coast time, silver is trading in the US at a price of $85.15
+      per troy ounce. In Shanghai the Shanghai the silver benchmark (Ag(T+D) on the
+      Shanghai Gold Exchange) at about ¥27,800 per kilogram, which is roughly $124–125
+      per troy ounce at current exchange rates. In a digital age that kind of gap cannot
+      endure… In fact, it is irrational according to conventional economic theory. We
+      are seeing a similar, albeit larger, gap in the gold market… Shanghai sits at
+      $5,050 – $5,100 while the COMEX sits at $4,889.40. Investors who are flush with
+      cash will not ignore this opportunity… They will buy in the US and sell in China
+      until the arbitrage gap is closed (i.e., An arbitrage gap refers to the measurable
+      price difference (or “spread”) between the same asset or equivalent assets trading
+      in different markets, which creates a potential profit opportunity for arbitrageurs
+      until it’s closed. That means more silver and gold will flow into China, not into
+      the vaults at Fort Know. Trump, in his desperation to preserve the economic hegemony
+      of the US, has set in motion forces that are accelerating the erosion of US economic
+      supremacy. Is Scott Bessent really this blind to the reality that is unfolding?
+      Apparently so. But this miscalculation by Trump extends beyond China. My dear
+      friend, Alastair Crooke, has summarized the situation brilliantly in his latest
+      SubStack : The moment Trump embarked on his tariff war, the demand for dollars
+      immediately dropped and the world started trading less with the US. In 2025, US
+      exports — as a proportion of GDP — fell. Then came his supply chain and chip war
+      with China, to decouple US dependency on Chinese inputs. Yet, to reshore US supply
+      lines will cost a huge investment — requiring borrowing from the world. But why
+      lend to the US? The ongoing debasement of the dollar is confirmed by the soaring
+      price of gold and silver. The Kiel Institute study also examined the unexpected
+      tariff hikes imposed on Brazil and India in August 2025. The Report’s conclusion
+      was the same as that for China. Again, the data show that foreign exporters did
+      not lower their prices to offset the additional tariffs: “Both export value and
+      volume to the US dropped sharply, by up to 24 percent. But unit prices—the prices
+      Indian exporters charged—remained unchanged. They shipped less, not cheaper”.
+      What is happening is that Trump’s predicate that the ‘American market’ is so exceptional
+      that no one can afford to ignore it, and exporters to its market must therefore
+      ‘eat the costs’ of US tariffs — is in error. And this fact has been on display
+      — with both Canada and Britain working to lessen their dependence on the US by
+      turning East. I thank you for your invaluable support by taking time to read or
+      comment. I do not charge a subscription fee nor do I accept advertising. I want
+      the content to be accessible to everyone interested in the issues I am discussing.
+      However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: Scott Bessent, Donald Trump's Secretary of Treasury, is criticized
+      for his unrealistic views on tariffs and trade with China, claiming that high,
+      targeted tariffs are necessary to maintain a trade equilibrium and warning allies
+      against lowering their tariffs or making deals that could lead to severe US retaliatory
+      tariffs.
+    paragraph_summary: Scott Bessent, Donald Trump's Secretary of Treasury, has made
+      controversial statements regarding tariffs and trade relations with China, suggesting
+      that high, targeted tariffs are necessary to address unfair trade practices and
+      have not disrupted a "working trade equilibrium" with Beijing. He defends steep
+      tariffs on specific sectors, such as steel and electric vehicles, as a response
+      to Chinese "dumping" and industrial overcapacity, while warning allies like Canada
+      against reducing their tariffs or making deals that could lead to US retaliatory
+      tariffs nearing 100%. Bessent claims that the US-China trade relationship has
+      improved due to these tariffs, which he believes have compelled China to adhere
+      to purchase commitments. However, since the introduction of new tariffs in February
+      2025, there has been a significant decline in US-China trade, with Chinese exports
+      to the US dropping by approximately 19-20%, indicating a substantial shift in
+      trade dynamics.
+    published: '2026-02-01T04:48:46+00:00'
+  - title: Trump’s Plan to Economically Bully China Has Failed… Scott Bessent is Clueless
+    url: https://sonar21.com/trumps-plan-to-economically-bully-china-has-failed-scott-bessent-is-clueless/
+    text: 'Donald Trump’s Secretary of Treasury, Mr. Scott Bessent, is lost in a delusion.
+      Bessent’s recent public comments on tariffs and China illustrate his detachment
+      from reality. He emphasizes that using high, targeted tariffs as leverage — framing
+      them as necessary to counter what he describes as unfair Chinese trade practices
+      — have not derailed a working trade “equilibrium” with Beijing. He has defended
+      steep sector‑specific tariffs (steel, EVs, etc.) on China as a response to “dumping”
+      and industrial overcapacity, pointing out that not only the US, but also Canada
+      and the EU have at times adopted similar high tariffs on Chinese steel and related
+      products. Bessent has warned allies (especially Canada) that lowering their China‑focused
+      tariffs or signing deals that let Chinese goods transit via third countries could
+      trigger very high US retaliatory tariffs (he has explicitly mentioned the possibility
+      of tariffs at or near 100% in that context). At the same time, he has said the
+      US –China trade relationship has reached a “very good equilibrium” after the earlier
+      tariff wars, stressing that tariffs pushed Beijing into a rules‑based framework
+      where China is now, in his telling, honoring large purchase commitments (for example,
+      soybean buying targets). He portrays the tariff pressure as having forced China
+      to follow through on agreed purchases and commitments rather than as purely destructive,
+      and says Washington will “hold their feet to the fire” to keep them compliant.
+      So let’s look at some actual facts… Since President Trump announced new tariffs
+      on China in February 2025 (starting with a 10% tariff on all Chinese goods effective
+      February 4, followed by escalations and retaliatory measures), China’s trade patterns
+      have undergone significant shifts, with the overall impact igniting a shift in
+      Beijing’s global export machine. For starters, there has been a sharp decline
+      in direct US trade. China’s exports to the United States fell by approximately
+      19-20% in dollar terms for the full year 2025 (some quarterly drops reached 23-40%
+      in peak periods). US imports from China halved in certain months (e.g., January-May
+      frontloading surge followed by contraction), with cumulative year-on-year declines
+      turning negative by mid-2025. Bilateral trade volume contracted due to tariffs
+      peaking at high levels (up to 145% on Chinese goods before partial rollbacks)
+      and non-tariff measures (e.g., export controls on critical minerals). China, unfazed
+      by the US bullying, pivoted deftly to other markets. China posted a historic $1.189–$1.2
+      trillion trade surplus in 2025 (up ~20% from 2024), the largest ever recorded.
+      Total exports grew robustly (e.g., +5-6% in late 2025 months), with overall growth
+      around 5-6% for the year, outperforming global averages. And monthly surpluses
+      exceeded $100 billion seven times (vs. once in 2024), supported by a weakened
+      yuan and policy stimulus. What happened to Trump’s claim that “countries are lining
+      up to kiss my ass” because of his tariff policy? Instead of fretting about losing
+      ground in the US market, China deftly pivoted to a policy of trade diversification.
+      In Southeast Asia (ASEAN), exports surged +13-14%, driven by machinery, auto parts,
+      electronics, and intermediate goods. This reflects rerouting (transshipment) through
+      Vietnam, Malaysia, etc., for final assembly or labeling to bypass US tariffs.
+      China’s exports to Africa jumped +25-26%, fueled by infrastructure-linked demand
+      and Belt and Road ties. China also experienced gains in Latin America, growing
+      around +7%, with increased shipments of manufactured goods and commodities. A
+      similar result for Europe, where China’s exports rose +8-9%, helping offset US
+      losses. These “Global South” and emerging markets absorbed redirected flows, with
+      Chinese firms accelerating diversification strategies (e.g., special economic
+      zones abroad, supply chain shifts). On the import side of the ledger, imports
+      from the US fell ~14-15%, reflecting retaliation and reduced demand for certain
+      US goods (e.g., agricultural products, energy). Overall imports remained relatively
+      flat or grew modestly (+5-6% in December), with China relying more on domestic
+      stimulus and non-US suppliers. Putting it bluntly, China’s trade has become less
+      US-centric and more globally diversified, with emerging markets and Asia filling
+      the gap left by reduced US access. Besides putting the US in a weaker position
+      on the trade front — i.e., instead of expanding trade with China, the Chinese
+      have decided to look for other partners — the commodity markets are broken. As
+      of Saturday night east coast time, silver is trading in the US at a price of $85.15
+      per troy ounce. In Shanghai the Shanghai the silver benchmark (Ag(T+D) on the
+      Shanghai Gold Exchange) at about ¥27,800 per kilogram, which is roughly $124–125
+      per troy ounce at current exchange rates. In a digital age that kind of gap cannot
+      endure… In fact, it is irrational according to conventional economic theory. We
+      are seeing a similar, albeit larger, gap in the gold market… Shanghai sits at
+      $5,050 – $5,100 while the COMEX sits at $4,889.40. Investors who are flush with
+      cash will not ignore this opportunity… They will buy in the US and sell in China
+      until the arbitrage gap is closed (i.e., An arbitrage gap refers to the measurable
+      price difference (or “spread”) between the same asset or equivalent assets trading
+      in different markets, which creates a potential profit opportunity for arbitrageurs
+      until it’s closed. That means more silver and gold will flow into China, not into
+      the vaults at Fort Know. Trump, in his desperation to preserve the economic hegemony
+      of the US, has set in motion forces that are accelerating the erosion of US economic
+      supremacy. Is Scott Bessent really this blind to the reality that is unfolding?
+      Apparently so. But this miscalculation by Trump extends beyond China. My dear
+      friend, Alastair Crooke, has summarized the situation brilliantly in his latest
+      SubStack : The moment Trump embarked on his tariff war, the demand for dollars
+      immediately dropped and the world started trading less with the US. In 2025, US
+      exports — as a proportion of GDP — fell. Then came his supply chain and chip war
+      with China, to decouple US dependency on Chinese inputs. Yet, to reshore US supply
+      lines will cost a huge investment — requiring borrowing from the world. But why
+      lend to the US? The ongoing debasement of the dollar is confirmed by the soaring
+      price of gold and silver. The Kiel Institute study also examined the unexpected
+      tariff hikes imposed on Brazil and India in August 2025. The Report’s conclusion
+      was the same as that for China. Again, the data show that foreign exporters did
+      not lower their prices to offset the additional tariffs: “Both export value and
+      volume to the US dropped sharply, by up to 24 percent. But unit prices—the prices
+      Indian exporters charged—remained unchanged. They shipped less, not cheaper”.
+      What is happening is that Trump’s predicate that the ‘American market’ is so exceptional
+      that no one can afford to ignore it, and exporters to its market must therefore
+      ‘eat the costs’ of US tariffs — is in error. And this fact has been on display
+      — with both Canada and Britain working to lessen their dependence on the US by
+      turning East. I thank you for your invaluable support by taking time to read or
+      comment. I do not charge a subscription fee nor do I accept advertising. I want
+      the content to be accessible to everyone interested in the issues I am discussing.
+      However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: Scott Bessent, Donald Trump's Secretary of Treasury, is criticized
+      for his unrealistic views on tariffs and trade with China, claiming that high,
+      targeted tariffs are necessary to maintain a trade equilibrium and warning allies
+      against lowering their tariffs or making deals that could lead to severe US retaliatory
+      tariffs.
+    paragraph_summary: Scott Bessent, Donald Trump's Secretary of Treasury, has made
+      controversial statements regarding tariffs and trade relations with China, suggesting
+      that high, targeted tariffs are necessary to address unfair trade practices and
+      have not disrupted a "working trade equilibrium" with Beijing. He defends steep
+      tariffs on specific sectors, such as steel and electric vehicles, as a response
+      to Chinese "dumping" and industrial overcapacity, while warning allies like Canada
+      against reducing their tariffs or making deals that could lead to US retaliatory
+      tariffs nearing 100%. Bessent claims that the US-China trade relationship has
+      improved due to these tariffs, which he believes have compelled China to adhere
+      to purchase commitments. However, since the introduction of new tariffs in February
+      2025, there has been a significant decline in US-China trade, with Chinese exports
+      to the US dropping by approximately 19-20%, indicating a substantial shift in
+      trade dynamics.
+    published: '2026-02-01T04:48:46+00:00'
+  - title: The US Navy Faces a Major Challenge in Sustaining Combat Operations off the
+      Coast of Iran
+    url: https://sonar21.com/the-us-navy-faces-a-major-challenge-in-sustaining-combat-operations-off-the-coast-of-iran/
+    text: 'I have posted three of my recent podcasts at the end of this article, but
+      if you only have time to watch one ignore me and focus on the fourth video… It
+      is Danny Davis interviewing the retired Royal Navy Commodore, Steve Jeremy. Jeremy
+      describes in precise detail the problems and challenges the US Navy will face
+      if it is parked near Iran’s southern border when Donald Trump gives the order
+      to attack Iran. Regarding my podcasts, you may want to checkout my conversation
+      with the esteemed Sergei Karaganov. So let’s look at the three guided-missile
+      destroyers that are accompanying the USS Abraham Lincoln. Reliable open-source
+      reports from USNI News, The War Zone, Zona Militar, and other defense outlets
+      (dated January 26–29, 2026) consistently identify the following Arleigh Burke-class
+      guided-missile destroyers as the primary escorts accompanying the carrier: USS
+      Frank E. Petersen Jr. (DDG-121) — Often noted as the Integrated Air and Missile
+      Defense (IAMD) commander for the group. USS Spruance (DDG-111) USS Michael Murphy
+      (DDG-112) These three destroyers form the core surface escort force, providing
+      air defense, anti-submarine warfare, anti-surface warfare, and strike capabilities
+      (via Tomahawk missiles and other weapons in their Mk 41 VLS cells). Typical air
+      defense missile loadout (examples from recent analyses and deployments): Often
+      40–70+ dedicated air defense missiles (SM-2/SM-6/ESSM combined), depending on
+      priorities. Common mixes: 30–50 SM-2/SM-6 + 16–64 ESSM (ESSM quad-packed for higher
+      numbers in point defense). Example high-air-defense load: ~48 SM-2 + 16 SM-6 +
+      64 ESSM (total ~128 air defense missiles via quad-packing). In practice, many
+      cells are allocated to Tomahawks or other munitions, so pure air defense counts
+      are lower (e.g., 50–100 effective interceptors per ship in a carrier strike group
+      context). It is the last bullet that creates some major vulnerability for the
+      carrier strike group… The destroyers are equipped with VLS cells. VLS cell stands
+      for Vertical Launching System cell, a modular compartment in naval missile launchers
+      like the Mk 41 VLS that houses one or more pre-loaded missiles vertically below
+      deck. As noted in the last bullet, these cells are also used to launch Tomahawk
+      cruise missiles, which is likely to be one of the weapons fired at Iran. These
+      means that the air defense capability of the USN destroyers will be reduced in
+      order to accommodate the Tomahawks. If Iran decides to fire 300 drones in a swarm
+      attack on the carrier strike force, and each destroyer fires at least two air
+      defense missiles at those drones, that would require 600 air defense missiles.
+      And there is the problem… If each destroyer is carrying a load of Tomahawks, then
+      they are only carrying a maximum of 100 interceptors. Not only will the destroyers
+      not have enough interceptors to fend-off the attacking Iranian drones, they will
+      deplete their missile stock. The only way to reload these cells is that each destroyer
+      must sail to a port equipped with cranes that are capable of reloading the VLS
+      cells.The closest port — I am assuming that the port in Bahrain is not available
+      because Iran will have closed the Strait of Hormuz — is in Diego Garcia, which
+      is 3 to 4 days away if each USN ship is traveling at 25 knots. Iran has five classes
+      of drones that can fly at least 1,000 kilometers, which means that the US carrier
+      strike group will face an increased risk of drone attacks if it sails closer than
+      1,000 kilometers from Iran’s southern shore.  If it stays outside the 1,000 kilometer
+      range, the US carrier task force capability to hit critical targets in Iran will
+      be very limited because the maximum range of a US Tomahawk cruise missile is 1,600
+      kilometers. In short, if Iran fires hundreds of missiles and drones at the US
+      carrier task force the the US will not be able to sustain combat operations for
+      more than a couple of days. And this is not the worst case… What happens if Iran
+      sinks the Abraham Lincoln or one of the destroyers? Trump’s dream of a regime
+      change in Tehran will be settling at the bottom of the Arabian Sea. Here is Steve
+      Jeremy’s excellent analysis: Sergei Alexandrovich Karaganov is one of Russia’s
+      most prominent and influential political scientists, foreign policy strategists,
+      and intellectuals. He is widely regarded as a key figure in shaping Russia’s post-Soviet
+      and contemporary foreign policy thinking, often described as a realist advocate
+      for multipolarity, great-power status for Russia, and a strong critique of Western
+      (particularly U.S. and European) dominance. He also is a new friend and he graciously
+      accepted my invitation for a chat at Counter Currents : Ray and I had our regular
+      Friday chat with Judge Napolitano, who is experiencing  a tough winter in New
+      Jersey. Glenn Diesen and I spoke on Wednesday, but the video was posted today.
+      Glenn worked in Moscow for a few years for Professor Karaganov: I thank you for
+      your invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: The article highlights a podcast featuring an interview with
+      retired Royal Navy Commodore Steve Jeremy, who discusses the challenges the US
+      Navy may face near Iran, while also mentioning the author's own podcasts, including
+      a conversation with Sergei Karaganov and details about the guided-missile destroyers
+      escorting the USS Abraham Lincoln.
+    paragraph_summary: The article discusses a recent podcast featuring an interview
+      with retired Royal Navy Commodore Steve Jeremy, who outlines the potential challenges
+      the US Navy may encounter if stationed near Iran's southern border during a possible
+      military action ordered by Donald Trump. It also highlights the three Arleigh
+      Burke-class guided-missile destroyers escorting the USS Abraham Lincoln—USS Frank
+      E. Petersen Jr., USS Spruance, and USS Michael Murphy—detailing their roles in
+      air defense, anti-submarine warfare, and strike capabilities. The article notes
+      the typical air defense missile loadouts for these destroyers, which can include
+      a significant number of air defense missiles, but also points out that the allocation
+      of missile cells for various munitions may create vulnerabilities for the carrier
+      strike group.
+    published: '2026-01-31T05:25:39+00:00'
+  - title: The US Navy Faces a Major Challenge in Sustaining Combat Operations off the
+      Coast of Iran
+    url: https://sonar21.com/the-us-navy-faces-a-major-challenge-in-sustaining-combat-operations-off-the-coast-of-iran/
+    text: 'I have posted three of my recent podcasts at the end of this article, but
+      if you only have time to watch one ignore me and focus on the fourth video… It
+      is Danny Davis interviewing the retired Royal Navy Commodore, Steve Jeremy. Jeremy
+      describes in precise detail the problems and challenges the US Navy will face
+      if it is parked near Iran’s southern border when Donald Trump gives the order
+      to attack Iran. Regarding my podcasts, you may want to checkout my conversation
+      with the esteemed Sergei Karaganov. So let’s look at the three guided-missile
+      destroyers that are accompanying the USS Abraham Lincoln. Reliable open-source
+      reports from USNI News, The War Zone, Zona Militar, and other defense outlets
+      (dated January 26–29, 2026) consistently identify the following Arleigh Burke-class
+      guided-missile destroyers as the primary escorts accompanying the carrier: USS
+      Frank E. Petersen Jr. (DDG-121) — Often noted as the Integrated Air and Missile
+      Defense (IAMD) commander for the group. USS Spruance (DDG-111) USS Michael Murphy
+      (DDG-112) These three destroyers form the core surface escort force, providing
+      air defense, anti-submarine warfare, anti-surface warfare, and strike capabilities
+      (via Tomahawk missiles and other weapons in their Mk 41 VLS cells). Typical air
+      defense missile loadout (examples from recent analyses and deployments): Often
+      40–70+ dedicated air defense missiles (SM-2/SM-6/ESSM combined), depending on
+      priorities. Common mixes: 30–50 SM-2/SM-6 + 16–64 ESSM (ESSM quad-packed for higher
+      numbers in point defense). Example high-air-defense load: ~48 SM-2 + 16 SM-6 +
+      64 ESSM (total ~128 air defense missiles via quad-packing). In practice, many
+      cells are allocated to Tomahawks or other munitions, so pure air defense counts
+      are lower (e.g., 50–100 effective interceptors per ship in a carrier strike group
+      context). It is the last bullet that creates some major vulnerability for the
+      carrier strike group… The destroyers are equipped with VLS cells. VLS cell stands
+      for Vertical Launching System cell, a modular compartment in naval missile launchers
+      like the Mk 41 VLS that houses one or more pre-loaded missiles vertically below
+      deck. As noted in the last bullet, these cells are also used to launch Tomahawk
+      cruise missiles, which is likely to be one of the weapons fired at Iran. These
+      means that the air defense capability of the USN destroyers will be reduced in
+      order to accommodate the Tomahawks. If Iran decides to fire 300 drones in a swarm
+      attack on the carrier strike force, and each destroyer fires at least two air
+      defense missiles at those drones, that would require 600 air defense missiles.
+      And there is the problem… If each destroyer is carrying a load of Tomahawks, then
+      they are only carrying a maximum of 100 interceptors. Not only will the destroyers
+      not have enough interceptors to fend-off the attacking Iranian drones, they will
+      deplete their missile stock. The only way to reload these cells is that each destroyer
+      must sail to a port equipped with cranes that are capable of reloading the VLS
+      cells.The closest port — I am assuming that the port in Bahrain is not available
+      because Iran will have closed the Strait of Hormuz — is in Diego Garcia, which
+      is 3 to 4 days away if each USN ship is traveling at 25 knots. Iran has five classes
+      of drones that can fly at least 1,000 kilometers, which means that the US carrier
+      strike group will face an increased risk of drone attacks if it sails closer than
+      1,000 kilometers from Iran’s southern shore.  If it stays outside the 1,000 kilometer
+      range, the US carrier task force capability to hit critical targets in Iran will
+      be very limited because the maximum range of a US Tomahawk cruise missile is 1,600
+      kilometers. In short, if Iran fires hundreds of missiles and drones at the US
+      carrier task force the the US will not be able to sustain combat operations for
+      more than a couple of days. And this is not the worst case… What happens if Iran
+      sinks the Abraham Lincoln or one of the destroyers? Trump’s dream of a regime
+      change in Tehran will be settling at the bottom of the Arabian Sea. Here is Steve
+      Jeremy’s excellent analysis: Sergei Alexandrovich Karaganov is one of Russia’s
+      most prominent and influential political scientists, foreign policy strategists,
+      and intellectuals. He is widely regarded as a key figure in shaping Russia’s post-Soviet
+      and contemporary foreign policy thinking, often described as a realist advocate
+      for multipolarity, great-power status for Russia, and a strong critique of Western
+      (particularly U.S. and European) dominance. He also is a new friend and he graciously
+      accepted my invitation for a chat at Counter Currents : Ray and I had our regular
+      Friday chat with Judge Napolitano, who is experiencing  a tough winter in New
+      Jersey. Glenn Diesen and I spoke on Wednesday, but the video was posted today.
+      Glenn worked in Moscow for a few years for Professor Karaganov: I thank you for
+      your invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: The article highlights a podcast featuring an interview with
+      retired Royal Navy Commodore Steve Jeremy, who discusses the challenges the US
+      Navy may face near Iran, while also mentioning the author's own podcasts, including
+      a conversation with Sergei Karaganov and details about the guided-missile destroyers
+      escorting the USS Abraham Lincoln.
+    paragraph_summary: The article discusses a recent podcast featuring an interview
+      with retired Royal Navy Commodore Steve Jeremy, who outlines the potential challenges
+      the US Navy may encounter if stationed near Iran's southern border during a possible
+      military action ordered by Donald Trump. It also highlights the three Arleigh
+      Burke-class guided-missile destroyers escorting the USS Abraham Lincoln—USS Frank
+      E. Petersen Jr., USS Spruance, and USS Michael Murphy—detailing their roles in
+      air defense, anti-submarine warfare, and strike capabilities. The article notes
+      the typical air defense missile loadouts for these destroyers, which can include
+      a significant number of air defense missiles, but also points out that the allocation
+      of missile cells for various munitions may create vulnerabilities for the carrier
+      strike group.
+    published: '2026-01-31T05:25:39+00:00'
+  - title: Swiss delegation initiates dialogue with Russia with cowbell ringing
+    url: https://sonar21.com/swiss-delegation-initiates-dialogue-with-russia-with-cowbell-ringing/
+    text: 'A Swiss delegation travels to Moscow with cowbells, demonstrating for dialogue
+      with Russia—and is received by the new Swiss ambassador to Moscow, Jürg Burri—a
+      good sign. By Peter Hanseler via ForumGeopolitica.com Friendship with Russia –
+      January 26, 2026, in Moscow Vital Burger organized a very special trip—he led
+      a delegation to Moscow to demonstrate in favor of dialogue with Russia. On January
+      26 at 2:30 p.m., the demonstration march set off from the Chistye Prudy metro
+      station in central Moscow, heading for the Swiss embassy. Vital Burger is interviewed
+      by RT-DE.hot The new Swiss ambassador in Moscow, Jürg Burri, warmly welcomed the
+      Swiss delegation and invited them to an hour-long discussion followed by drinks
+      and snacks. Swiss Ambassador to Russia, Jürg Burri, is open to dialogue. – Image:
+      FDFA Opinions and viewpoints were openly exchanged during the discussion. The
+      new Swiss ambassador is obliged to operate within the scope defined by Bern. This
+      scope is small. Switzerland is consistently pursuing Brussels’ anti-Russian line
+      and has adopted almost all EU sanctions, with the exception of those against journalists.
+      In doing so, Bern is sending a signal in favor of freedom of expression. The sanctions
+      against Thomas Röper and Alina Lipp, for example, were not adopted in May 2025.
+      We reported on this in the articles “ EU sanctions German journalists ” and “
+      Switzerland draws boundaries and refuses to participate in the persecution of
+      journalists .” Jacques Baud’s case is extraordinary: the completely objective
+      Swiss military analyst and retired colonel in the general staff, who has never
+      taken sides in any conflict during his career, has been sanctioned by the EU for
+      no reason whatsoever. The reasons are based on lies, as can be seen from the EU’s
+      non-public “working papers.” A witch hunt against a 71-year-old Swiss patriot.
+      We have reported on this many times , most recently on January 11 in “ Causa Jacques
+      Baud – Bern protests to the EU! ” when Bern protested in Brussels after a whopping
+      26 days – rather late and probably under pressure from the Swiss Weltwoche and
+      many alternative media outlets, including those in the US. The famous Judge Napolitano
+      also interviewed Jacques Baud. The Russian state broadcaster RT-DE reported on
+      the move (in German). Let yourself be inspired by the images and sounds captured!'
+    one_sentence_summary: A Swiss delegation, led by Vital Burger, traveled to Moscow
+      to advocate for dialogue with Russia and was warmly received by the new Swiss
+      ambassador, Jürg Burri, who facilitated an open discussion despite the limited
+      scope of Switzerland's diplomatic engagement.
+    paragraph_summary: A Swiss delegation, led by Vital Burger, traveled to Moscow on
+      January 26, 2026, to advocate for dialogue with Russia, marking a notable event
+      as they were warmly received by the new Swiss ambassador, Jürg Burri, at the Swiss
+      embassy. The delegation's demonstration began at the Chistye Prudy metro station
+      and aimed to foster communication despite Switzerland's alignment with EU sanctions
+      against Russia, which it has largely adopted, except for certain measures against
+      journalists. During their meeting, Burri engaged in open discussions with the
+      delegation, although he is constrained by the limited scope of Swiss foreign policy
+      dictated by Bern. The article also highlights the controversial sanctions against
+      individuals like Jacques Baud, a Swiss military analyst, which have raised concerns
+      about the fairness and motivations behind such actions, as Switzerland seeks to
+      balance its diplomatic stance with its commitment to freedom of expression.
+    published: '2026-01-30T08:45:22+00:00'
+  - title: Swiss delegation initiates dialogue with Russia with cowbell ringing
+    url: https://sonar21.com/swiss-delegation-initiates-dialogue-with-russia-with-cowbell-ringing/
+    text: 'A Swiss delegation travels to Moscow with cowbells, demonstrating for dialogue
+      with Russia—and is received by the new Swiss ambassador to Moscow, Jürg Burri—a
+      good sign. By Peter Hanseler via ForumGeopolitica.com Friendship with Russia –
+      January 26, 2026, in Moscow Vital Burger organized a very special trip—he led
+      a delegation to Moscow to demonstrate in favor of dialogue with Russia. On January
+      26 at 2:30 p.m., the demonstration march set off from the Chistye Prudy metro
+      station in central Moscow, heading for the Swiss embassy. Vital Burger is interviewed
+      by RT-DE.hot The new Swiss ambassador in Moscow, Jürg Burri, warmly welcomed the
+      Swiss delegation and invited them to an hour-long discussion followed by drinks
+      and snacks. Swiss Ambassador to Russia, Jürg Burri, is open to dialogue. – Image:
+      FDFA Opinions and viewpoints were openly exchanged during the discussion. The
+      new Swiss ambassador is obliged to operate within the scope defined by Bern. This
+      scope is small. Switzerland is consistently pursuing Brussels’ anti-Russian line
+      and has adopted almost all EU sanctions, with the exception of those against journalists.
+      In doing so, Bern is sending a signal in favor of freedom of expression. The sanctions
+      against Thomas Röper and Alina Lipp, for example, were not adopted in May 2025.
+      We reported on this in the articles “ EU sanctions German journalists ” and “
+      Switzerland draws boundaries and refuses to participate in the persecution of
+      journalists .” Jacques Baud’s case is extraordinary: the completely objective
+      Swiss military analyst and retired colonel in the general staff, who has never
+      taken sides in any conflict during his career, has been sanctioned by the EU for
+      no reason whatsoever. The reasons are based on lies, as can be seen from the EU’s
+      non-public “working papers.” A witch hunt against a 71-year-old Swiss patriot.
+      We have reported on this many times , most recently on January 11 in “ Causa Jacques
+      Baud – Bern protests to the EU! ” when Bern protested in Brussels after a whopping
+      26 days – rather late and probably under pressure from the Swiss Weltwoche and
+      many alternative media outlets, including those in the US. The famous Judge Napolitano
+      also interviewed Jacques Baud. The Russian state broadcaster RT-DE reported on
+      the move (in German). Let yourself be inspired by the images and sounds captured!'
+    one_sentence_summary: A Swiss delegation, led by Vital Burger, traveled to Moscow
+      to advocate for dialogue with Russia and was warmly received by the new Swiss
+      ambassador, Jürg Burri, who facilitated an open discussion despite the limited
+      scope of Switzerland's diplomatic engagement.
+    paragraph_summary: A Swiss delegation, led by Vital Burger, traveled to Moscow on
+      January 26, 2026, to advocate for dialogue with Russia, marking a notable event
+      as they were warmly received by the new Swiss ambassador, Jürg Burri, at the Swiss
+      embassy. The delegation's demonstration began at the Chistye Prudy metro station
+      and aimed to foster communication despite Switzerland's alignment with EU sanctions
+      against Russia, which it has largely adopted, except for certain measures against
+      journalists. During their meeting, Burri engaged in open discussions with the
+      delegation, although he is constrained by the limited scope of Swiss foreign policy
+      dictated by Bern. The article also highlights the controversial sanctions against
+      individuals like Jacques Baud, a Swiss military analyst, which have raised concerns
+      about the fairness and motivations behind such actions, as Switzerland seeks to
+      balance its diplomatic stance with its commitment to freedom of expression.
+    published: '2026-01-30T08:45:22+00:00'
+  - title: The Odd Market Behavior of Precious Metals… Will a US Attack on Iran Make
+      It Worse?
+    url: https://sonar21.com/the-odd-market-behavior-of-precious-metals-will-a-us-attack-on-iran-make-it-worse/
+    text: 'It looks like there is a commodity war going on with gold and silver that
+      pits the US against China. There is a major price discrepancy between the price
+      of gold and silver in New York City and the price in Shanghai. In a normal functioning
+      market, the Chinese would be buying silver and gold in the US and shipping it
+      to China… Making a hefty profit in the process. It appears that the major US banks,
+      e.g., JP Morgan, are trying to drive the price of gold and silver down in the
+      US market, but they are failing to alter the momentum we see unfolding in the
+      international market. Take a look at the following numbers: As of late January
+      29 / early January 30, 2026 (around 10-11 PM EST), the spot price of silver showed
+      significant volatility and some regional decoupling, with sharp intraday moves
+      (highs near $120-121+ earlier in the day, followed by pullbacks on profit-taking).
+      Prices are per troy ounce in USD equivalents unless noted, based on live benchmarks
+      and reports from the specified time period. There are four major financial markets:
+      New York City, London, Mumbai and China. Let’s start with the price of silver:
+      New York City (COMEX / US spot / OTC influence) : Spot silver was trading around
+      $109–$116 per ounce in late/after-hours action. Quotes varied: ~$109.51 (Kitco
+      bid around 10-11 PM EST), $111.14 (Bloomberg spot), $113.11 (COMEX futures settlement/influence),
+      and some after-hours reports at $116.01 (down from intraday highs). This reflected
+      a correction from morning peaks near $120.46–$121.67 (all-time records hit earlier
+      on Jan 29), with paper market pressure contributing to the drop. London (LBMA
+      spot / benchmark) : The LBMA silver price (global physical benchmark) aligned
+      closely with broader spot but held firmer in some quotes, around $111–$116 per
+      ounce (e.g., near $116.62 in live charts, or $112.80 from recent daily fixes).
+      London often tracks COMEX closely but showed less extreme decay in physical-linked
+      pricing compared to US futures volatility. Mumbai (India) : Domestic spot/retail
+      prices (including premiums, GST, and import duties) were significantly higher
+      due to strong local demand. Rates hovered around ₹4,000–₹4,101 per 10 grams (equivalent
+      to roughly $130–$135+ USD per ounce or more, based on conversions and premiums).
+      For example: ₹4,018.53 per 10g (~$130+ USD/oz equiv.), ₹4,10,100 per kg. This
+      premium over global spot reflects India’s physical buying surge and rupee factors.
+      China (Shanghai Gold Exchange / physical spot) : Shanghai benchmark and physical
+      prices showed notable premiums amid supply constraints and industrial demand (e.g.,
+      solar/AI sectors). Equivalent to $120–$130+ USD per ounce or higher in effective
+      terms (e.g., SGE silver around ¥29,000–30,138 per kg, translating to premiums
+      of $5+ over London in some reports). Physical/retail buy-back quotes were elevated,
+      with chaos noted from speculative mania and high premiums (e.g., >$5/oz over global
+      in Shanghai). We are seeing a similar phenomena with gold (I am using the same
+      time frame used to calculate the spot price of silver): New York City (COMEX /
+      US spot / OTC influence) : The US spot price (closely tied to COMEX futures and
+      OTC trading) had pulled back significantly by late evening. Quotes ranged around
+      $5,160–$5,175 per ounce (e.g., Kitco live spot at ~$5,160 bid / $5,162 ask around
+      10:50 PM EST; JM Bullion at $5,175.36; Bloomberg-derived spot near $5,362 earlier
+      but corrected lower). This followed an intraday record high of ~$5,626 (April
+      COMEX futures) and highs near $5,597 in spot reports earlier in the day, with
+      a late-session drop of 4%+ from peaks due to profit-taking after safe-haven surges.
+      London (LBMA spot / benchmark) : The LBMA PM fix (set earlier in the day) was
+      $5,405 per ounce , while live spot/OTC trading aligned closer to US levels by
+      evening at around $5,160–$5,200 per ounce (tracking the global correction). London
+      physical benchmarks held firmer earlier (~$5,501 AM fix), but converged lower
+      amid the broader pullback. Mumbai (India) : Domestic retail/spot prices (including
+      premiums, GST ~3%, and import duties) remained elevated due to strong local demand.
+      24K gold traded around ₹17,885 per gram (or ₹1,78,850–₹1,78,860 per 10 grams ),
+      equivalent to roughly $5,500–$5,800+ USD per ounce (higher premiums over global
+      spot reflecting rupee dynamics and physical buying). This was up significantly
+      intraday (~₹1,177 per gram gain reported). China (Shanghai Gold Exchange / physical
+      spot) : SGE benchmark prices showed premiums amid industrial/retail demand and
+      supply tightness. Recent fixes/trades were around CN¥1,240–1,248 per gram (SHAU
+      contract), translating to ~5,500–5,600+ USD per ounce equivalent or higher in
+      physical channels (strong demand pushed effective premiums over London/US spot).
+      In a functioning free market — especially in a digital age — these spreads are
+      highly unusual. In a normally functioning free market, arbitrage bots, i.e., computers
+      designed to find pennies of profit, would  buy the cheap New York gold and sell
+      it in Shainghai until the prices are equaled. But today, it appears that the bots
+      are turned off. The arbitrage is not closing. The gap is sitting there wide open.
+      In theory, the relatively low-priced silver and gold in New York City should be
+      flowing to China. If this gap persists, and the US does not restrict the export
+      of silver and gold metal, the supply in China will increase while the supply in
+      the US decreases. Ok. Can we all agree that there is great volatility in the commodity
+      markets? So let’s look at one more commodity and how it will be affected if Donald
+      Trump attacks Iran and Iran makes good on its promise to blockade the Strait of
+      Hormuz. The Strait of Hormuz is a narrow waterway connecting the Persian Gulf
+      to the Arabian Sea, and it is a critical global chokepoint, with about 21 miles
+      at its narrowest point. Iranian officials threatened to disrupt or close it during
+      the 12-day war with Israel but, according to some press reports, Donald Trump
+      cut a deal with Tehran that ended the fighting on June 25, 2025. Now, with the
+      US deploying the USS Abraham Lincoln and a carrier strike group to the Arabian
+      Sea, Iran is making very explicit threats. On January 28, IRGC Commander Mohammad
+      Akbarzadeh asserted that Iran maintains “complete control” over the strait’s land,
+      underwater, and airspace, warning that “if war breaks out, there will be no retreat,
+      not even by a millimeter, and Iran will move forward.” He further implied that
+      neighboring countries allowing their territory to be used against Iran would be
+      deemed “hostile,” and decisions on vessel passage could be restricted based on
+      flags. This echoes broader regime messaging, with outlets like Defa Press and
+      Javan Online discussing retaliatory options such as mining, anti-ship missiles,
+      and patrol craft disruptions if Iran’s trade routes are affected. Militarily,
+      Iran is backing these threats with actions: The IRGC Navy has deployed hundreds
+      of fast attack craft and missile vessels near the USS Abraham Lincoln, and satellite
+      imagery shows their drone carrier “Shahid Bagheri” positioned off Bandar Abbas.
+      A two-day live-fire exercise is scheduled for February 1-2 in the strait, described
+      as a response to U.S. presence. Proxies like Kataib Hezbollah have echoed similar
+      warnings. A poster attributed to Iranian media, shared on Telegram, explicitly
+      threatens: “We will block the Strait of Hormuz. Whoever doesn’t believe us, let
+      him try,” alongside imagery of sinking US carriers. In addition, Iran’s parliament
+      reportedly approved a closure motion, though ultimate decisions rest with higher
+      authorities like the Supreme National Security Council. A disruption or closure
+      of the Strait of Hormuz would inflict profound harm on the global economy, primarily
+      through energy markets, given its role in transporting about 20-27% of the world’s
+      crude oil and petroleum products (around 20-21 million barrels per day) and 20-22%
+      of liquefied natural gas (LNG). Major exporters like Saudi Arabia (5.5 million
+      bpd), Iraq, UAE, Kuwait, and Qatar (LNG) rely on it, with over 80% of flows destined
+      for Asia (China, India, Japan, South Korea). Even partial disruptions could cause
+      oil prices to surge by $10-20 per barrel initially, potentially exceeding $100-120
+      if prolonged, due to reduced supply, geopolitical risk premiums, and rerouting
+      costs. LNG shortages (Qatar exports 77 million metric tons annually through the
+      strait) would hit Asia hardest, with Europe facing diversions and potential energy
+      crises. This could add $600 billion annually in energy trade disruptions. Higher
+      energy costs would fuel global inflation (e.g., U.S. to 5.5%, Eurozone to 3.5%),
+      raise transportation and manufacturing expenses, and disrupt supply chains for
+      consumer goods, food, and electronics. Vulnerable economies like China (40% of
+      oil imports via strait) and India could see slowed growth, while the U.S. might
+      experience flat GDP in the short term. A prolonged closure risks a global recession,
+      with trillions in losses, rationing, and stock market volatility. And don’t forget
+      about the gold and silver markets… Demand for those metals is likely to surge
+      to even greater heights than we have seen in the first three weeks of January.
+      Historically, in a time of crisis, money and assets sought safety in the United
+      States and were content to hold dollars. I do not think that will be the case
+      this time… Instead of seeking dollars, the demand for holding actual gold and
+      silver will soar. If that happens, Russia and China will be two of the biggest
+      beneficiaries on the gold front. Russia and China combined account for about 20%
+      of the global production of gold. Silver mining shows and even greater concentration
+      with Mexico (6,300 MT), China (3,300 MT) and Peru (3,200 MT) producing 50% of
+      the world’s silver. There is still a chance that Trump will opt for diplomacy
+      and re-open talks with Iran, but I put the odds of that happening at 20%. I fear
+      we are headed to war and that Donald Trump and his advisors are grossly underestimating
+      Iran’s capability to fight back. Garland Nixon and I discussed today the prospects
+      for war with Iran: I thank you for your invaluable support by taking time to read
+      or comment. I do not charge a subscription fee nor do I accept advertising. I
+      want the content to be accessible to everyone interested in the issues I am discussing.
+      However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: A commodity war is emerging between the US and China over
+      gold and silver, characterized by significant price discrepancies between New
+      York and Shanghai, as US banks attempt to lower prices without success in the
+      international market.
+    paragraph_summary: A commodity war is emerging between the US and China over gold
+      and silver prices, highlighted by significant discrepancies between prices in
+      New York City and Shanghai. Despite the typical market behavior where China would
+      purchase these metals from the US for profit, major US banks like JP Morgan are
+      reportedly attempting to suppress gold and silver prices domestically, yet they
+      are struggling to influence the international market's momentum. As of late January
+      29 to early January 30, 2026, silver prices exhibited notable volatility, with
+      New York City prices fluctuating between $109 and $116 per ounce, following earlier
+      peaks near $120. In contrast, London's silver prices remained more stable, reflecting
+      a divergence in market behavior across major financial hubs including New York,
+      London, Mumbai, and China.
+    published: '2026-01-30T04:54:50+00:00'
+  - title: The Odd Market Behavior of Precious Metals… Will a US Attack on Iran Make
+      It Worse?
+    url: https://sonar21.com/the-odd-market-behavior-of-precious-metals-will-a-us-attack-on-iran-make-it-worse/
+    text: 'It looks like there is a commodity war going on with gold and silver that
+      pits the US against China. There is a major price discrepancy between the price
+      of gold and silver in New York City and the price in Shanghai. In a normal functioning
+      market, the Chinese would be buying silver and gold in the US and shipping it
+      to China… Making a hefty profit in the process. It appears that the major US banks,
+      e.g., JP Morgan, are trying to drive the price of gold and silver down in the
+      US market, but they are failing to alter the momentum we see unfolding in the
+      international market. Take a look at the following numbers: As of late January
+      29 / early January 30, 2026 (around 10-11 PM EST), the spot price of silver showed
+      significant volatility and some regional decoupling, with sharp intraday moves
+      (highs near $120-121+ earlier in the day, followed by pullbacks on profit-taking).
+      Prices are per troy ounce in USD equivalents unless noted, based on live benchmarks
+      and reports from the specified time period. There are four major financial markets:
+      New York City, London, Mumbai and China. Let’s start with the price of silver:
+      New York City (COMEX / US spot / OTC influence) : Spot silver was trading around
+      $109–$116 per ounce in late/after-hours action. Quotes varied: ~$109.51 (Kitco
+      bid around 10-11 PM EST), $111.14 (Bloomberg spot), $113.11 (COMEX futures settlement/influence),
+      and some after-hours reports at $116.01 (down from intraday highs). This reflected
+      a correction from morning peaks near $120.46–$121.67 (all-time records hit earlier
+      on Jan 29), with paper market pressure contributing to the drop. London (LBMA
+      spot / benchmark) : The LBMA silver price (global physical benchmark) aligned
+      closely with broader spot but held firmer in some quotes, around $111–$116 per
+      ounce (e.g., near $116.62 in live charts, or $112.80 from recent daily fixes).
+      London often tracks COMEX closely but showed less extreme decay in physical-linked
+      pricing compared to US futures volatility. Mumbai (India) : Domestic spot/retail
+      prices (including premiums, GST, and import duties) were significantly higher
+      due to strong local demand. Rates hovered around ₹4,000–₹4,101 per 10 grams (equivalent
+      to roughly $130–$135+ USD per ounce or more, based on conversions and premiums).
+      For example: ₹4,018.53 per 10g (~$130+ USD/oz equiv.), ₹4,10,100 per kg. This
+      premium over global spot reflects India’s physical buying surge and rupee factors.
+      China (Shanghai Gold Exchange / physical spot) : Shanghai benchmark and physical
+      prices showed notable premiums amid supply constraints and industrial demand (e.g.,
+      solar/AI sectors). Equivalent to $120–$130+ USD per ounce or higher in effective
+      terms (e.g., SGE silver around ¥29,000–30,138 per kg, translating to premiums
+      of $5+ over London in some reports). Physical/retail buy-back quotes were elevated,
+      with chaos noted from speculative mania and high premiums (e.g., >$5/oz over global
+      in Shanghai). We are seeing a similar phenomena with gold (I am using the same
+      time frame used to calculate the spot price of silver): New York City (COMEX /
+      US spot / OTC influence) : The US spot price (closely tied to COMEX futures and
+      OTC trading) had pulled back significantly by late evening. Quotes ranged around
+      $5,160–$5,175 per ounce (e.g., Kitco live spot at ~$5,160 bid / $5,162 ask around
+      10:50 PM EST; JM Bullion at $5,175.36; Bloomberg-derived spot near $5,362 earlier
+      but corrected lower). This followed an intraday record high of ~$5,626 (April
+      COMEX futures) and highs near $5,597 in spot reports earlier in the day, with
+      a late-session drop of 4%+ from peaks due to profit-taking after safe-haven surges.
+      London (LBMA spot / benchmark) : The LBMA PM fix (set earlier in the day) was
+      $5,405 per ounce , while live spot/OTC trading aligned closer to US levels by
+      evening at around $5,160–$5,200 per ounce (tracking the global correction). London
+      physical benchmarks held firmer earlier (~$5,501 AM fix), but converged lower
+      amid the broader pullback. Mumbai (India) : Domestic retail/spot prices (including
+      premiums, GST ~3%, and import duties) remained elevated due to strong local demand.
+      24K gold traded around ₹17,885 per gram (or ₹1,78,850–₹1,78,860 per 10 grams ),
+      equivalent to roughly $5,500–$5,800+ USD per ounce (higher premiums over global
+      spot reflecting rupee dynamics and physical buying). This was up significantly
+      intraday (~₹1,177 per gram gain reported). China (Shanghai Gold Exchange / physical
+      spot) : SGE benchmark prices showed premiums amid industrial/retail demand and
+      supply tightness. Recent fixes/trades were around CN¥1,240–1,248 per gram (SHAU
+      contract), translating to ~5,500–5,600+ USD per ounce equivalent or higher in
+      physical channels (strong demand pushed effective premiums over London/US spot).
+      In a functioning free market — especially in a digital age — these spreads are
+      highly unusual. In a normally functioning free market, arbitrage bots, i.e., computers
+      designed to find pennies of profit, would  buy the cheap New York gold and sell
+      it in Shainghai until the prices are equaled. But today, it appears that the bots
+      are turned off. The arbitrage is not closing. The gap is sitting there wide open.
+      In theory, the relatively low-priced silver and gold in New York City should be
+      flowing to China. If this gap persists, and the US does not restrict the export
+      of silver and gold metal, the supply in China will increase while the supply in
+      the US decreases. Ok. Can we all agree that there is great volatility in the commodity
+      markets? So let’s look at one more commodity and how it will be affected if Donald
+      Trump attacks Iran and Iran makes good on its promise to blockade the Strait of
+      Hormuz. The Strait of Hormuz is a narrow waterway connecting the Persian Gulf
+      to the Arabian Sea, and it is a critical global chokepoint, with about 21 miles
+      at its narrowest point. Iranian officials threatened to disrupt or close it during
+      the 12-day war with Israel but, according to some press reports, Donald Trump
+      cut a deal with Tehran that ended the fighting on June 25, 2025. Now, with the
+      US deploying the USS Abraham Lincoln and a carrier strike group to the Arabian
+      Sea, Iran is making very explicit threats. On January 28, IRGC Commander Mohammad
+      Akbarzadeh asserted that Iran maintains “complete control” over the strait’s land,
+      underwater, and airspace, warning that “if war breaks out, there will be no retreat,
+      not even by a millimeter, and Iran will move forward.” He further implied that
+      neighboring countries allowing their territory to be used against Iran would be
+      deemed “hostile,” and decisions on vessel passage could be restricted based on
+      flags. This echoes broader regime messaging, with outlets like Defa Press and
+      Javan Online discussing retaliatory options such as mining, anti-ship missiles,
+      and patrol craft disruptions if Iran’s trade routes are affected. Militarily,
+      Iran is backing these threats with actions: The IRGC Navy has deployed hundreds
+      of fast attack craft and missile vessels near the USS Abraham Lincoln, and satellite
+      imagery shows their drone carrier “Shahid Bagheri” positioned off Bandar Abbas.
+      A two-day live-fire exercise is scheduled for February 1-2 in the strait, described
+      as a response to U.S. presence. Proxies like Kataib Hezbollah have echoed similar
+      warnings. A poster attributed to Iranian media, shared on Telegram, explicitly
+      threatens: “We will block the Strait of Hormuz. Whoever doesn’t believe us, let
+      him try,” alongside imagery of sinking US carriers. In addition, Iran’s parliament
+      reportedly approved a closure motion, though ultimate decisions rest with higher
+      authorities like the Supreme National Security Council. A disruption or closure
+      of the Strait of Hormuz would inflict profound harm on the global economy, primarily
+      through energy markets, given its role in transporting about 20-27% of the world’s
+      crude oil and petroleum products (around 20-21 million barrels per day) and 20-22%
+      of liquefied natural gas (LNG). Major exporters like Saudi Arabia (5.5 million
+      bpd), Iraq, UAE, Kuwait, and Qatar (LNG) rely on it, with over 80% of flows destined
+      for Asia (China, India, Japan, South Korea). Even partial disruptions could cause
+      oil prices to surge by $10-20 per barrel initially, potentially exceeding $100-120
+      if prolonged, due to reduced supply, geopolitical risk premiums, and rerouting
+      costs. LNG shortages (Qatar exports 77 million metric tons annually through the
+      strait) would hit Asia hardest, with Europe facing diversions and potential energy
+      crises. This could add $600 billion annually in energy trade disruptions. Higher
+      energy costs would fuel global inflation (e.g., U.S. to 5.5%, Eurozone to 3.5%),
+      raise transportation and manufacturing expenses, and disrupt supply chains for
+      consumer goods, food, and electronics. Vulnerable economies like China (40% of
+      oil imports via strait) and India could see slowed growth, while the U.S. might
+      experience flat GDP in the short term. A prolonged closure risks a global recession,
+      with trillions in losses, rationing, and stock market volatility. And don’t forget
+      about the gold and silver markets… Demand for those metals is likely to surge
+      to even greater heights than we have seen in the first three weeks of January.
+      Historically, in a time of crisis, money and assets sought safety in the United
+      States and were content to hold dollars. I do not think that will be the case
+      this time… Instead of seeking dollars, the demand for holding actual gold and
+      silver will soar. If that happens, Russia and China will be two of the biggest
+      beneficiaries on the gold front. Russia and China combined account for about 20%
+      of the global production of gold. Silver mining shows and even greater concentration
+      with Mexico (6,300 MT), China (3,300 MT) and Peru (3,200 MT) producing 50% of
+      the world’s silver. There is still a chance that Trump will opt for diplomacy
+      and re-open talks with Iran, but I put the odds of that happening at 20%. I fear
+      we are headed to war and that Donald Trump and his advisors are grossly underestimating
+      Iran’s capability to fight back. Garland Nixon and I discussed today the prospects
+      for war with Iran: I thank you for your invaluable support by taking time to read
+      or comment. I do not charge a subscription fee nor do I accept advertising. I
+      want the content to be accessible to everyone interested in the issues I am discussing.
+      However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: A commodity war is emerging between the US and China over
+      gold and silver, characterized by significant price discrepancies between New
+      York and Shanghai, as US banks attempt to lower prices without success in the
+      international market.
+    paragraph_summary: A commodity war is emerging between the US and China over gold
+      and silver prices, highlighted by significant discrepancies between prices in
+      New York City and Shanghai. Despite the typical market behavior where China would
+      purchase these metals from the US for profit, major US banks like JP Morgan are
+      reportedly attempting to suppress gold and silver prices domestically, yet they
+      are struggling to influence the international market's momentum. As of late January
+      29 to early January 30, 2026, silver prices exhibited notable volatility, with
+      New York City prices fluctuating between $109 and $116 per ounce, following earlier
+      peaks near $120. In contrast, London's silver prices remained more stable, reflecting
+      a divergence in market behavior across major financial hubs including New York,
+      London, Mumbai, and China.
+    published: '2026-01-30T04:54:50+00:00'
+  - title: Three Scenarios for a US Attack on Iran
+    url: https://sonar21.com/three-scenarios-for-a-us-attack-on-iran/
+    text: 'Iranian Drone Ship Based on recent statements by Donald Trump and various
+      members of the Iranian government and military sectors, we are headed to a new
+      war in the Persian Gulf. But it is not just the words that concern me… If you
+      compare the totality of US military assets that were deployed to the Persian Gulf
+      area prior to Israel’s surprise attack on Iran in June of 2025 with what is now
+      being assembled, the picture is very ominous. Comparative Table: US Naval Assets
+      in the Persian Gulf Prior to June 12, 2025 compared to January 2026 Category Prior
+      to June 12, 2025 January 2026 (Current) Aircraft Carriers None in immediate Gulf
+      (carrier gap; USS Nimitz involved in June strikes but departed post-operation;
+      assets shifted to other regions). 1 (USS Abraham Lincoln, arrived Gulf of Oman
+      ~Jan 25-26, with Carrier Air Wing 9: F-35C, F/A-18E/F Super Hornets, EA-18G Growlers,
+      E-2D Hawkeyes, etc.). Possible additional (USS George H.W. Bush en route, unconfirmed).
+      Destroyers/Cruisers 2-3 guided-missile destroyers (e.g., Arleigh Burke-class for
+      air/missile defense; limited presence due to reallocations). 5-7 (3 with Lincoln
+      group: USS Spruance, Michael Murphy, Frank E. Petersen Jr.; existing: USS Mitscher,
+      McFaul, Roosevelt, etc.; Tomahawk-armed for strikes). Littoral Combat Ships 3
+      (in Bahrain for regional patrols). 3 (same, in Bahrain; mine countermeasures focus
+      for Strait of Hormuz threats). Submarines 1-2 (possible SSN presence for intel/strikes;
+      not heavily emphasized pre-June). At least 2 (USS South Dakota, Georgia; Tomahawk-capable).
+      Total Warships ~6-8 (reduced due to global shifts). 10+ (surge to highest since
+      June 2025). Comparative Table: US Air and Missile Defense Assets 2025 vs 2026
+      Category Prior to June 12, 2025 January 2026 (Current) Fighter Aircraft Limited
+      squadrons at bases (e.g., F-15/F-16 at Al Udeid, Qatar; used defensively; offensive
+      from Europe/US). ~35 F-15E Strike Eagles (deployed to Jordan); F-35C/F/A-18 on
+      carrier; additional from RAF Lakenheath. Drones/Surveillance MQ-9 Reapers, P-8A
+      Poseidon (standard presence for ISR). Surge: MQ-9 Reapers, P-8A Poseidon; increased
+      C-17 cargo/refueling flights. Missile Defenses Patriot/THAAD batteries (existing
+      at key bases for Iranian threat defense). Additional THAAD/Patriot deployments
+      across Gulf; layered air defense emphasis. Tankers/Support KC-135/KC-10 (from
+      Europe for June strikes). Surge to Al Udeid; KC-135 tankers for extended operations.
+      Comparative Table: US Ground/Troop Presence and Bases 2025 vs 2026 Category Prior
+      to June 12, 2025 January 2026 (Current) Total Troops ~40,000-45,000 (across Middle
+      East; reduced in Gulf due to reallocations). ~50,000 (post-surge; +5,700 from
+      carrier group and air units). Key Bases Al Udeid (Qatar, CENTCOM HQ, thousands
+      of troops); bases in UAE, Bahrain, Jordan (defensive focus). Same, with reinforcements:
+      Al Udeid (tankers); Jordan (F-15Es); Bahrain (littoral ships); potential Diego
+      Garcia staging. So let’s consider three possible scenarios: SCENARIO 1 : Despite
+      bellicose statements by both the US and Iran, the Saudis, the Turks, the Chinese
+      and the Russians are working frantically behind the scenes to secure a diplomatic
+      solution. As a result of pressure from the Saudis and the Turks, Trump realizes
+      the will not be able to fly over their territories, which imposes a significant
+      limitation on US air operations. The Saudis and the Russians, with support from
+      all of the Gulf nations, persuade Trump to open negotiations with Tehran. Crisis
+      averted… at least for now. SCENARIO 2 : The US launches a successful combined
+      air-to-surface and sea-launched missiles (i.e., Tomahawk cruise missile) at critical
+      Iranian government, military and economic targets, which leads to a collapse of
+      the Iranian government and ignites a civil war in Iran. Iran is unable to retaliate.
+      SCENARIO 3 : The US launches a combined air-to-surface and sea-launched missiles
+      (i.e., Tomahawk cruise missile) at critical Iranian government, military and economic
+      targets, but Iranian air defense systems defeat a substantial number of the threats.
+      In addition, Iran has deployed decoy missiles that the US, believing them to be
+      real, strikes. Iran in turn launches an immediate barrage of missiles and drones.
+      The first wave is intended to deplete the US and Israeli-air defenses. Iran then
+      launches a follow-on attack against US military bases and installations in the
+      Persian Gulf and in Syria. Iran also hits Israel and closes the Strait of Hormuz.
+      A full-scale war ensues. I am sure that some of you armchair warriors can come
+      up with some additional SCENARIOS we should consider. I am hoping for SCENARIO
+      1 , but I fear that SCENARIO 3 is the most likely. If combat operations last more
+      than two weeks then the US will find itself in an almost impossible situation
+      to sustain operations, especially if the Strait of Hormuz is closed. The most
+      consistent public estimate for the operational U.S. Tomahawk inventory in early
+      2026 is approximately 3,500-4,500, leaning toward the lower end due to ongoing
+      drawdowns and modest replenishment. This reflects a focus on quality upgrades
+      (Block V) over quantity, amid broader munitions shortages. If Iran targets the
+      US carrier task force with a huge drone and missile swarm, the destroyers and
+      cruisers providing protection for the carrier will rapidly deplete their supply
+      of defensive missiles… The only way they can re-load is to travel to a port facility
+      that is specially equipped to handle the re-loading. Normally the US ships would
+      go to Bahrain, but if the Strait of Hormuz is closed those ships will have to
+      find an alternative site, which means the carrier will also withdraw from the
+      Arabian Sea. The worst case scenario here is that the Iranians hit the carrier
+      and take it out of action. Unlike Venezuela, Iran represents a formidable military
+      challenge. Iran maintains one of the largest and most diverse missile arsenals
+      in the Middle East, primarily focused on ground-launched systems operated by the
+      Islamic Revolutionary Guard Corps (IRGC) Aerospace Force. As of early 2026, Western
+      estimates indicate over 3,000-4,500 ballistic missiles and around 1,000 cruise
+      missiles in inventory, with ongoing production and upgrades post the June 2025
+      strikes on its facilities. However, I believe that Western estimates dramatically
+      under count what is actually in the Iranian inventory because the vast majority
+      of Iranian missiles are stored underground in hardened shelters. The Iranian arsenal
+      includes short-range ballistic missiles (SRBMs, <1,000 km), medium-range ballistic
+      missiles (MRBMs, 1,000-3,000 km), and land-attack cruise missiles (LACMs), many
+      with anti-ship variants. Ir addition, Iran recently successfully tested an intercontinental
+      ballistic missile (ICBM). I think you will find the following Tables absolutely
+      stunning: Ballistic Missiles (18 Types/Variants) These are primarily solid- or
+      liquid-fueled, with improving accuracy (circular error probable, or CEP, often
+      <100 m for newer models): Name/Variant Type Max Range Payload Notes Shahab-1 (Scud-B)
+      SRBM 300 km 770-1,000 kg Liquid-fueled; deployed; based on North Korean/Scud tech.
+      Shahab-2 (Scud-C) SRBM 500 km ~700 kg Liquid-fueled; deployed; improved Scud variant.
+      Qiam-1 SRBM 700-800 km 650 kg Liquid-fueled; deployed; Scud-derived with quick-launch
+      capability. Fateh-110 (incl. Khalij Fars ASBM) SRBM 200-300 km ~450-500 kg Solid-fueled;
+      deployed; precision-guided; anti-ship variants available. Fateh-313 SRBM 500 km
+      350-500 kg Solid-fueled; deployed; enhanced precision over Fateh-110. Raad-500
+      SRBM 500 km ~500 kg (est.) Solid-fueled; tested; lightweight composite body for
+      extended range. Zolfaghar (incl. Zolfaghar Basir) SRBM 700 km 450-600 kg Solid-fueled;
+      deployed; high precision; used in operations. Dezful SRBM 1,000 km 450-600 kg
+      Solid-fueled; deployed; extended-range Zolfaghar variant. Shahab-3 MRBM 1,000-2,000
+      km 750-1,000 kg Liquid-fueled; deployed; North Korean Nodong-derived. Ghadr (Shahab-3
+      variant) MRBM 1,600-1,950 km ~750 kg Liquid-fueled; deployed; improved re-entry
+      vehicle. Emad (Shahab-3 variant) MRBM 1,700-2,000 km ~750 kg Liquid-fueled; deployed;
+      maneuverable re-entry vehicle (MaRV) for better accuracy. Khorramshahr (incl.
+      -1/-2/-4; Kheibar) MRBM 2,000-3,000 km 750-1,500 kg Liquid-fueled; possibly deployed;
+      North Korean Musudan-derived; heaviest payload in arsenal. Fattah-1 MRBM 1,400
+      km ~500 kg (est.) Solid-fueled with solid MaRV; deployed; hypersonic glide vehicle
+      for evasion. Fattah-2 MRBM 1,500 km ~500 kg (est.) Solid-fueled with liquid MaRV;
+      displayed; hypersonic variant. Haj Qassem MRBM 1,400 km 500 kg Solid-fueled; deployed;
+      precision strike focus. Qassem Basir MRBM 1,200 km ~500 kg Solid-fueled; tested;
+      electro-optical seeker for terminal guidance. Kheibar Shekan MRBM 1,450 km 450-600
+      kg Solid-fueled; deployed; maneuverable; used in recent strikes. Sejjil (Sajjil)
+      MRBM 2,000 km ~750 kg Solid-fueled (two-stage); deployed; quick-launch capability.
+      Cruise Missiles (4 Types/Variants) These are turbojet/turbofan-powered, subsonic,
+      with terrain-following guidance for low-altitude evasion; often derived from Soviet/Chinese
+      designs. Name/Variant Type Max Range Payload Notes Soumar (Kh-55 derived; incl.
+      Hoveyzeh) LACM 1,350-3,000 km ~400-500 kg (est.) Turbojet; possibly deployed;
+      long-range land-attack; Hoveyzeh variant at 1,350 km. Ya-Ali LACM 700 km ~400
+      kg (est.) Turbojet; tested/operational; compact design for mobile launchers. Paveh
+      LACM 1,650 km ~500 kg (est.) Turbojet; deployed; enhanced navigation for precision.
+      Ra’ad Anti-Ship Cruise Missile (ASCM) 350 km ~500 kg (est.) Turbojet; operational;
+      ground-launched anti-ship focus. Then there are the drones. Iran’s fleet of drones
+      (unmanned aerial vehicles, or UAVs) is one of the largest and most diverse in
+      the Middle East, with thousands in service across reconnaissance, strike, and
+      loitering munition (“kamikaze”) roles. Operated primarily by the Islamic Revolutionary
+      Guard Corps (IRGC) Aerospace Force and the regular army (Artesh), the arsenal
+      emphasizes low-cost, asymmetric capabilities, mass production, and export to proxies
+      (e.g., Houthis, Hezbollah, militias in Iraq/Syria). As of early 2026, Western
+      estimates place Iran’s active UAV inventory at around 3,000–4,000+ units (recon-attack
+      and ISR combined), with significant growth from new procurements (e.g., 1,000+
+      long-range drones added in 2025 reports) and domestic production despite setbacks
+      from the June 2025 strikes. Here again, I believe that Western intelligence has
+      grossly underestimated the size of Iran’s drone fleets. Iran operates dozens of
+      types/variants, but the core fleet revolves around a few key families: Shahed
+      (loitering munitions and strike), Mohajer (multi-role ISR/strike), Ababil (tactical
+      recon/attack), and others like Shahed-149 Gaza (heavy endurance). There are roughly
+      15–20+ distinct types/variants in widespread use (excluding minor prototypes or
+      proxy-modified versions), with ongoing unveilings of new models (e.g., Hadid-110
+      stealth suicide drone in late 2025, Homa/Dideban/Shahin-1 VTOLs in 2025). The
+      focus is on endurance, swarming potential, and low-observability for saturation
+      attacks. Key Drone Types and Capabilities Here’s a summary of major operational
+      or recently highlighted types, based on open-source assessments (ranges and payloads
+      are approximate/maximums; actual performance varies with configuration, fuel,
+      and payload trade-offs): Name/Variant Type/Role Max Range (km) Payload (kg) Endurance
+      (hours) Notes/Key Features Shahed-136 (Geran-2 export) Loitering munition (kamikaze)
+      1,000–2,200 40–50 (warhead) 6–12 Most prolific; low-cost (~$20k–50k/unit); used
+      in swarms; exported widely (e.g., to Russia, proxies). Shahed-131 Loitering munition
+      900–1,500 15–50 ~6 Smaller/lighter variant of 136; vehicle-launched options. Shahed-129
+      ISR/UCAV (strike) 1,500–1,800 100–150 16–24 Medium-altitude long-endurance; carries
+      Sadid missiles/bombs; backbone for precision strikes. Shahed-149 Gaza Heavy UCAV
+      (ISR/strike) 2,000–4,000 (claimed) 500+ (up to 13 bombs) 24–35+ Iran’s largest;
+      21m wingspan; high payload for glide bombs; unveiled as “super-heavy.” Mohajer-10
+      (Qods) Long-range ISR/strike 2,000 300 24 Advanced variant; carries guided missiles/bombs;
+      deep reconnaissance/EW support. Mohajer-6 Tactical ISR/UCAV 200–300 40–100 6–12
+      Combat-proven; air-to-ground missiles; widely exported to proxies. Ababil-5 Multi-role
+      (recon/attack/EW) 400–500 50–100 7–10 Versatile; VTOL options in some; used for
+      patrol/combat. Ababil series (various) Tactical recon/attack 100–480 15–40 4–8
+      Large numbers (hundreds–thousands); aging but upgraded variants. Kaman-22 Long-range
+      UCAV 3,000 300 24+ High-endurance; potential for strategic strikes. Fotros ISR/UCAV
+      2,000 100–150 16–30 Long-endurance; comparable to early MQ-1 Predator. Hadid-110
+      Stealth suicide drone 350–500 30 ~1 Jet-powered; fastest Iranian UAV (~517 km/h);
+      rocket-boosted launch. Shahed-191 (Saegheh) Flying-wing UCAV 450–1,000 50 Variable
+      Stealth-inspired; turbojet; anti-ship/land attack variants. Other emerging (e.g.,
+      Homa, Dideban, Shahin-1) VTOL/recon/EW/kamikaze 100–500 10–50 4–12 New 2025 unveilings;
+      focus on contested airspace/jamming resistance. Word to Trump… Iran ain’t Venzuela.
+      If Trump chooses to go to war with Iran I think it could ignite a crisis that
+      could end his presidency instead of destroying the Islamic Republic of Iran. Danny
+      Davis and I discussed the consequences of going to war with Iran: I thank you
+      for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: Tensions are escalating towards a potential new war in the
+      Persian Gulf, as evidenced by the significant increase in U.S. military assets
+      deployed in the region since Israel's attack on Iran in June 2025.
+    paragraph_summary: Tensions in the Persian Gulf are escalating, with recent statements
+      from Donald Trump and Iranian officials suggesting a potential new conflict. A
+      comparison of U.S. military assets in the region before and after Israel's surprise
+      attack on Iran in June 2025 reveals a significant increase in naval and air capabilities.
+      As of January 2026, the U.S. has deployed the USS Abraham Lincoln aircraft carrier
+      along with a larger number of guided-missile destroyers and submarines, marking
+      the highest military presence since June 2025. Additionally, air and missile defense
+      assets have been bolstered, with the deployment of approximately 35 F-15E Strike
+      Eagles and other advanced fighter aircraft. This buildup of military resources
+      signals a serious escalation in the U.S. posture in the region, raising concerns
+      about the potential for conflict.
+    published: '2026-01-29T04:58:36+00:00'
+  - title: Three Scenarios for a US Attack on Iran
+    url: https://sonar21.com/three-scenarios-for-a-us-attack-on-iran/
+    text: 'Iranian Drone Ship Based on recent statements by Donald Trump and various
+      members of the Iranian government and military sectors, we are headed to a new
+      war in the Persian Gulf. But it is not just the words that concern me… If you
+      compare the totality of US military assets that were deployed to the Persian Gulf
+      area prior to Israel’s surprise attack on Iran in June of 2025 with what is now
+      being assembled, the picture is very ominous. Comparative Table: US Naval Assets
+      in the Persian Gulf Prior to June 12, 2025 compared to January 2026 Category Prior
+      to June 12, 2025 January 2026 (Current) Aircraft Carriers None in immediate Gulf
+      (carrier gap; USS Nimitz involved in June strikes but departed post-operation;
+      assets shifted to other regions). 1 (USS Abraham Lincoln, arrived Gulf of Oman
+      ~Jan 25-26, with Carrier Air Wing 9: F-35C, F/A-18E/F Super Hornets, EA-18G Growlers,
+      E-2D Hawkeyes, etc.). Possible additional (USS George H.W. Bush en route, unconfirmed).
+      Destroyers/Cruisers 2-3 guided-missile destroyers (e.g., Arleigh Burke-class for
+      air/missile defense; limited presence due to reallocations). 5-7 (3 with Lincoln
+      group: USS Spruance, Michael Murphy, Frank E. Petersen Jr.; existing: USS Mitscher,
+      McFaul, Roosevelt, etc.; Tomahawk-armed for strikes). Littoral Combat Ships 3
+      (in Bahrain for regional patrols). 3 (same, in Bahrain; mine countermeasures focus
+      for Strait of Hormuz threats). Submarines 1-2 (possible SSN presence for intel/strikes;
+      not heavily emphasized pre-June). At least 2 (USS South Dakota, Georgia; Tomahawk-capable).
+      Total Warships ~6-8 (reduced due to global shifts). 10+ (surge to highest since
+      June 2025). Comparative Table: US Air and Missile Defense Assets 2025 vs 2026
+      Category Prior to June 12, 2025 January 2026 (Current) Fighter Aircraft Limited
+      squadrons at bases (e.g., F-15/F-16 at Al Udeid, Qatar; used defensively; offensive
+      from Europe/US). ~35 F-15E Strike Eagles (deployed to Jordan); F-35C/F/A-18 on
+      carrier; additional from RAF Lakenheath. Drones/Surveillance MQ-9 Reapers, P-8A
+      Poseidon (standard presence for ISR). Surge: MQ-9 Reapers, P-8A Poseidon; increased
+      C-17 cargo/refueling flights. Missile Defenses Patriot/THAAD batteries (existing
+      at key bases for Iranian threat defense). Additional THAAD/Patriot deployments
+      across Gulf; layered air defense emphasis. Tankers/Support KC-135/KC-10 (from
+      Europe for June strikes). Surge to Al Udeid; KC-135 tankers for extended operations.
+      Comparative Table: US Ground/Troop Presence and Bases 2025 vs 2026 Category Prior
+      to June 12, 2025 January 2026 (Current) Total Troops ~40,000-45,000 (across Middle
+      East; reduced in Gulf due to reallocations). ~50,000 (post-surge; +5,700 from
+      carrier group and air units). Key Bases Al Udeid (Qatar, CENTCOM HQ, thousands
+      of troops); bases in UAE, Bahrain, Jordan (defensive focus). Same, with reinforcements:
+      Al Udeid (tankers); Jordan (F-15Es); Bahrain (littoral ships); potential Diego
+      Garcia staging. So let’s consider three possible scenarios: SCENARIO 1 : Despite
+      bellicose statements by both the US and Iran, the Saudis, the Turks, the Chinese
+      and the Russians are working frantically behind the scenes to secure a diplomatic
+      solution. As a result of pressure from the Saudis and the Turks, Trump realizes
+      the will not be able to fly over their territories, which imposes a significant
+      limitation on US air operations. The Saudis and the Russians, with support from
+      all of the Gulf nations, persuade Trump to open negotiations with Tehran. Crisis
+      averted… at least for now. SCENARIO 2 : The US launches a successful combined
+      air-to-surface and sea-launched missiles (i.e., Tomahawk cruise missile) at critical
+      Iranian government, military and economic targets, which leads to a collapse of
+      the Iranian government and ignites a civil war in Iran. Iran is unable to retaliate.
+      SCENARIO 3 : The US launches a combined air-to-surface and sea-launched missiles
+      (i.e., Tomahawk cruise missile) at critical Iranian government, military and economic
+      targets, but Iranian air defense systems defeat a substantial number of the threats.
+      In addition, Iran has deployed decoy missiles that the US, believing them to be
+      real, strikes. Iran in turn launches an immediate barrage of missiles and drones.
+      The first wave is intended to deplete the US and Israeli-air defenses. Iran then
+      launches a follow-on attack against US military bases and installations in the
+      Persian Gulf and in Syria. Iran also hits Israel and closes the Strait of Hormuz.
+      A full-scale war ensues. I am sure that some of you armchair warriors can come
+      up with some additional SCENARIOS we should consider. I am hoping for SCENARIO
+      1 , but I fear that SCENARIO 3 is the most likely. If combat operations last more
+      than two weeks then the US will find itself in an almost impossible situation
+      to sustain operations, especially if the Strait of Hormuz is closed. The most
+      consistent public estimate for the operational U.S. Tomahawk inventory in early
+      2026 is approximately 3,500-4,500, leaning toward the lower end due to ongoing
+      drawdowns and modest replenishment. This reflects a focus on quality upgrades
+      (Block V) over quantity, amid broader munitions shortages. If Iran targets the
+      US carrier task force with a huge drone and missile swarm, the destroyers and
+      cruisers providing protection for the carrier will rapidly deplete their supply
+      of defensive missiles… The only way they can re-load is to travel to a port facility
+      that is specially equipped to handle the re-loading. Normally the US ships would
+      go to Bahrain, but if the Strait of Hormuz is closed those ships will have to
+      find an alternative site, which means the carrier will also withdraw from the
+      Arabian Sea. The worst case scenario here is that the Iranians hit the carrier
+      and take it out of action. Unlike Venezuela, Iran represents a formidable military
+      challenge. Iran maintains one of the largest and most diverse missile arsenals
+      in the Middle East, primarily focused on ground-launched systems operated by the
+      Islamic Revolutionary Guard Corps (IRGC) Aerospace Force. As of early 2026, Western
+      estimates indicate over 3,000-4,500 ballistic missiles and around 1,000 cruise
+      missiles in inventory, with ongoing production and upgrades post the June 2025
+      strikes on its facilities. However, I believe that Western estimates dramatically
+      under count what is actually in the Iranian inventory because the vast majority
+      of Iranian missiles are stored underground in hardened shelters. The Iranian arsenal
+      includes short-range ballistic missiles (SRBMs, <1,000 km), medium-range ballistic
+      missiles (MRBMs, 1,000-3,000 km), and land-attack cruise missiles (LACMs), many
+      with anti-ship variants. Ir addition, Iran recently successfully tested an intercontinental
+      ballistic missile (ICBM). I think you will find the following Tables absolutely
+      stunning: Ballistic Missiles (18 Types/Variants) These are primarily solid- or
+      liquid-fueled, with improving accuracy (circular error probable, or CEP, often
+      <100 m for newer models): Name/Variant Type Max Range Payload Notes Shahab-1 (Scud-B)
+      SRBM 300 km 770-1,000 kg Liquid-fueled; deployed; based on North Korean/Scud tech.
+      Shahab-2 (Scud-C) SRBM 500 km ~700 kg Liquid-fueled; deployed; improved Scud variant.
+      Qiam-1 SRBM 700-800 km 650 kg Liquid-fueled; deployed; Scud-derived with quick-launch
+      capability. Fateh-110 (incl. Khalij Fars ASBM) SRBM 200-300 km ~450-500 kg Solid-fueled;
+      deployed; precision-guided; anti-ship variants available. Fateh-313 SRBM 500 km
+      350-500 kg Solid-fueled; deployed; enhanced precision over Fateh-110. Raad-500
+      SRBM 500 km ~500 kg (est.) Solid-fueled; tested; lightweight composite body for
+      extended range. Zolfaghar (incl. Zolfaghar Basir) SRBM 700 km 450-600 kg Solid-fueled;
+      deployed; high precision; used in operations. Dezful SRBM 1,000 km 450-600 kg
+      Solid-fueled; deployed; extended-range Zolfaghar variant. Shahab-3 MRBM 1,000-2,000
+      km 750-1,000 kg Liquid-fueled; deployed; North Korean Nodong-derived. Ghadr (Shahab-3
+      variant) MRBM 1,600-1,950 km ~750 kg Liquid-fueled; deployed; improved re-entry
+      vehicle. Emad (Shahab-3 variant) MRBM 1,700-2,000 km ~750 kg Liquid-fueled; deployed;
+      maneuverable re-entry vehicle (MaRV) for better accuracy. Khorramshahr (incl.
+      -1/-2/-4; Kheibar) MRBM 2,000-3,000 km 750-1,500 kg Liquid-fueled; possibly deployed;
+      North Korean Musudan-derived; heaviest payload in arsenal. Fattah-1 MRBM 1,400
+      km ~500 kg (est.) Solid-fueled with solid MaRV; deployed; hypersonic glide vehicle
+      for evasion. Fattah-2 MRBM 1,500 km ~500 kg (est.) Solid-fueled with liquid MaRV;
+      displayed; hypersonic variant. Haj Qassem MRBM 1,400 km 500 kg Solid-fueled; deployed;
+      precision strike focus. Qassem Basir MRBM 1,200 km ~500 kg Solid-fueled; tested;
+      electro-optical seeker for terminal guidance. Kheibar Shekan MRBM 1,450 km 450-600
+      kg Solid-fueled; deployed; maneuverable; used in recent strikes. Sejjil (Sajjil)
+      MRBM 2,000 km ~750 kg Solid-fueled (two-stage); deployed; quick-launch capability.
+      Cruise Missiles (4 Types/Variants) These are turbojet/turbofan-powered, subsonic,
+      with terrain-following guidance for low-altitude evasion; often derived from Soviet/Chinese
+      designs. Name/Variant Type Max Range Payload Notes Soumar (Kh-55 derived; incl.
+      Hoveyzeh) LACM 1,350-3,000 km ~400-500 kg (est.) Turbojet; possibly deployed;
+      long-range land-attack; Hoveyzeh variant at 1,350 km. Ya-Ali LACM 700 km ~400
+      kg (est.) Turbojet; tested/operational; compact design for mobile launchers. Paveh
+      LACM 1,650 km ~500 kg (est.) Turbojet; deployed; enhanced navigation for precision.
+      Ra’ad Anti-Ship Cruise Missile (ASCM) 350 km ~500 kg (est.) Turbojet; operational;
+      ground-launched anti-ship focus. Then there are the drones. Iran’s fleet of drones
+      (unmanned aerial vehicles, or UAVs) is one of the largest and most diverse in
+      the Middle East, with thousands in service across reconnaissance, strike, and
+      loitering munition (“kamikaze”) roles. Operated primarily by the Islamic Revolutionary
+      Guard Corps (IRGC) Aerospace Force and the regular army (Artesh), the arsenal
+      emphasizes low-cost, asymmetric capabilities, mass production, and export to proxies
+      (e.g., Houthis, Hezbollah, militias in Iraq/Syria). As of early 2026, Western
+      estimates place Iran’s active UAV inventory at around 3,000–4,000+ units (recon-attack
+      and ISR combined), with significant growth from new procurements (e.g., 1,000+
+      long-range drones added in 2025 reports) and domestic production despite setbacks
+      from the June 2025 strikes. Here again, I believe that Western intelligence has
+      grossly underestimated the size of Iran’s drone fleets. Iran operates dozens of
+      types/variants, but the core fleet revolves around a few key families: Shahed
+      (loitering munitions and strike), Mohajer (multi-role ISR/strike), Ababil (tactical
+      recon/attack), and others like Shahed-149 Gaza (heavy endurance). There are roughly
+      15–20+ distinct types/variants in widespread use (excluding minor prototypes or
+      proxy-modified versions), with ongoing unveilings of new models (e.g., Hadid-110
+      stealth suicide drone in late 2025, Homa/Dideban/Shahin-1 VTOLs in 2025). The
+      focus is on endurance, swarming potential, and low-observability for saturation
+      attacks. Key Drone Types and Capabilities Here’s a summary of major operational
+      or recently highlighted types, based on open-source assessments (ranges and payloads
+      are approximate/maximums; actual performance varies with configuration, fuel,
+      and payload trade-offs): Name/Variant Type/Role Max Range (km) Payload (kg) Endurance
+      (hours) Notes/Key Features Shahed-136 (Geran-2 export) Loitering munition (kamikaze)
+      1,000–2,200 40–50 (warhead) 6–12 Most prolific; low-cost (~$20k–50k/unit); used
+      in swarms; exported widely (e.g., to Russia, proxies). Shahed-131 Loitering munition
+      900–1,500 15–50 ~6 Smaller/lighter variant of 136; vehicle-launched options. Shahed-129
+      ISR/UCAV (strike) 1,500–1,800 100–150 16–24 Medium-altitude long-endurance; carries
+      Sadid missiles/bombs; backbone for precision strikes. Shahed-149 Gaza Heavy UCAV
+      (ISR/strike) 2,000–4,000 (claimed) 500+ (up to 13 bombs) 24–35+ Iran’s largest;
+      21m wingspan; high payload for glide bombs; unveiled as “super-heavy.” Mohajer-10
+      (Qods) Long-range ISR/strike 2,000 300 24 Advanced variant; carries guided missiles/bombs;
+      deep reconnaissance/EW support. Mohajer-6 Tactical ISR/UCAV 200–300 40–100 6–12
+      Combat-proven; air-to-ground missiles; widely exported to proxies. Ababil-5 Multi-role
+      (recon/attack/EW) 400–500 50–100 7–10 Versatile; VTOL options in some; used for
+      patrol/combat. Ababil series (various) Tactical recon/attack 100–480 15–40 4–8
+      Large numbers (hundreds–thousands); aging but upgraded variants. Kaman-22 Long-range
+      UCAV 3,000 300 24+ High-endurance; potential for strategic strikes. Fotros ISR/UCAV
+      2,000 100–150 16–30 Long-endurance; comparable to early MQ-1 Predator. Hadid-110
+      Stealth suicide drone 350–500 30 ~1 Jet-powered; fastest Iranian UAV (~517 km/h);
+      rocket-boosted launch. Shahed-191 (Saegheh) Flying-wing UCAV 450–1,000 50 Variable
+      Stealth-inspired; turbojet; anti-ship/land attack variants. Other emerging (e.g.,
+      Homa, Dideban, Shahin-1) VTOL/recon/EW/kamikaze 100–500 10–50 4–12 New 2025 unveilings;
+      focus on contested airspace/jamming resistance. Word to Trump… Iran ain’t Venzuela.
+      If Trump chooses to go to war with Iran I think it could ignite a crisis that
+      could end his presidency instead of destroying the Islamic Republic of Iran. Danny
+      Davis and I discussed the consequences of going to war with Iran: I thank you
+      for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: Tensions are escalating towards a potential new war in the
+      Persian Gulf, as evidenced by the significant increase in U.S. military assets
+      deployed in the region since Israel's attack on Iran in June 2025.
+    paragraph_summary: Tensions in the Persian Gulf are escalating, with recent statements
+      from Donald Trump and Iranian officials suggesting a potential new conflict. A
+      comparison of U.S. military assets in the region before and after Israel's surprise
+      attack on Iran in June 2025 reveals a significant increase in naval and air capabilities.
+      As of January 2026, the U.S. has deployed the USS Abraham Lincoln aircraft carrier
+      along with a larger number of guided-missile destroyers and submarines, marking
+      the highest military presence since June 2025. Additionally, air and missile defense
+      assets have been bolstered, with the deployment of approximately 35 F-15E Strike
+      Eagles and other advanced fighter aircraft. This buildup of military resources
+      signals a serious escalation in the U.S. posture in the region, raising concerns
+      about the potential for conflict.
+    published: '2026-01-29T04:58:36+00:00'
   - title: Are the BRICS Countries a Key Factor in the Massive Surge in the Price of
       Silver and Gold?
     url: https://sonar21.com/are-the-brics-countries-a-key-factor-in-the-massive-surge-in-the-price-of-silver-and-gold/

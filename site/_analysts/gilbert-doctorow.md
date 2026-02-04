@@ -7,18 +7,415 @@ description: "Gilbert Doctorow is a Brussels-based independent political analyst
 websites:
   - https://gilbertdoctorow.com/
 summary: |
-  As the Russia-Ukraine conflict enters a critical phase, diplomatic channels have intensified, with recent developments centering on high-level negotiations in Abu Dhabi and broader discussions about the normalization of US-Russia relations. The latest reports underscore a shift from public posturing to substantive back-channel talks involving military and intelligence officials.
+  As the Ukraine conflict and broader East-West tensions continue to dominate the geopolitical landscape, recent developments suggest a subtle but significant shift in both diplomatic tone and strategic calculations, particularly within Europe and the United States.
   
-  **Gilbert Doctorow** highlights in his January 27 analysis that the Abu Dhabi talks mark a significant departure from previous, more ambiguous diplomatic statements. According to Doctorow, these negotiations are now directly addressing the conditions for a Ukrainian withdrawal from parts of the Donbas region. This is corroborated by Russian media figures such as Dmitry Kiselyov, who notes that the involvement of military intelligence officers signals a move toward concrete arrangements rather than mere diplomatic theater.
+  In a notable departure from the prevailing EU consensus, Belgian Prime Minister Bart de Wever has publicly resisted calls for the confiscation of Russian state assets. **Gilbert Doctorow** commends de Wever’s “clarity, openness, and boldness” in his recent podcast on “The Future of Europe,” emphasizing the Prime Minister’s willingness to address complex issues and challenge the more hawkish positions of other European leaders. This stance may signal emerging fractures within the EU regarding its Russia policy, especially as economic and legal concerns over asset seizures mount.
   
-  Another notable development is the continued Russian oil production in Venezuela, which, while not the primary focus of the Abu Dhabi talks, reflects Moscow's broader strategy to maintain leverage in global energy markets and strengthen ties with non-Western partners.
+  Meanwhile, the ongoing U.S.-Russia-Ukraine negotiations in Abu Dhabi remain a focal point. While Western media coverage has been sparse, Russian sources and analysts like **Dmitry Kiselyov** (as cited by Doctorow) have revealed that these talks are not merely symbolic. Instead, they involve direct engagement between military intelligence officers, with discussions reportedly centering on the conditions for a Ukrainian withdrawal from parts of the Donbas region. This contrasts sharply with the more ambiguous public statements from Western officials, suggesting that substantive, if quiet, progress is being made behind closed doors.
   
-  On the US side, Doctorow’s recent commentary points to a growing willingness among American negotiators to consider substantial financial incentives—up to $800 billion in aid—to facilitate a peace deal. This approach, previously discussed in the context of real estate developers like Witkoff and Kushner, is gaining traction as a pragmatic, if controversial, means to resolve the conflict. The majority opinion among analysts is that such financial packages, while criticized as "cheap bribes" by some, could prove more effective than traditional diplomatic overtures.
+  On the U.S. domestic front, the potential role of Donald Trump in brokering peace in Ukraine continues to be debated. In a recent conversation with Mike Farris, **Gilbert Doctorow** notes a lighter tone but also underscores the financial realities facing independent journalists, hinting at the broader challenges of sustaining nuanced coverage in a polarized media environment.
   
-  Looking ahead, the trend is toward a gradual normalization of US-Russia relations, with the Abu Dhabi talks serving as a potential template for future conflict resolution efforts. Doctorow expresses high confidence that, barring unforeseen escalations, these negotiations will most definitely lead to a phased Ukrainian withdrawal from contested territories and a broader realignment of regional security arrangements.
-  
-  In summary, the past 24 hours have seen a marked acceleration in behind-the-scenes diplomacy, with both sides signaling readiness for compromise. The prevailing expectation is that, while challenges remain, a framework for peace is quite likely to emerge from the ongoing talks, setting the stage for a new era in US-Russia engagement.
+  Looking ahead, the trends point toward an incremental shift from maximalist positions to more pragmatic negotiations, particularly as economic pressures and political fatigue set in across Europe. If the Abu Dhabi talks continue to advance, there is a high chance that some form of phased Ukrainian withdrawal from contested territories could be brokered, possibly in exchange for substantial Western financial guarantees and international peacekeeping arrangements. I guarantee that internal EU debates, such as those exemplified by de Wever, will intensify, potentially reshaping the bloc’s collective approach to Russia and the ongoing conflict.
 articles:
+  - title: An open letter to Belgian Prime Minister Bart de Wever
+    url: https://gilbertdoctorow.com/2026/02/02/an-open-letter-to-belgian-prime-minister-bart-de-wever/
+    text: Mr. Prime Minister, I heartily recommend to my Community of subscribers your
+      recent podcast on “The Future of Europe,” which you delivered in excellent English,
+      making your thoughts accessible to a wide audience. Your remarks, your answers
+      to a number of pointed questions from the moderator on intra-Belgian, intra-European
+      and international issues were characterized by unusual openness and, shall we
+      say, boldness. In this sense, what you had to say was as courageous as your public
+      stand in December on the issue of confiscation of Russian state assets held in
+      Euroclear, when you stood up to European Commission president Ursula von der Leyen
+      and German Chancellor Friedrich Merz.  They wanted to take Europe ‘into uncharted
+      waters’ as you rightly said, exposing Belgium to financial ruin and exposing the
+      global financial markets to a possible melt-down.  I said ‘bravo’ to your bravery
+      and success then, and I reconfirm that expression of admiration today. Your speech
+      in this podcast highlights your insider’s critique of the failures of the European
+      Union in economic, military and geopolitical dimensions due to over-regulation,
+      a wrong-headed approach to immigration, distortions in the energy balance due
+      to the influence of the utterly impractical environmentalists, and complacency
+      in the defense umbrella that was provided by the United States via NATO, to the
+      point where Europe is now defenseless if the US is not at its side, as NATO Secretary
+      General Marc Rutte said directly to the European Parliament a week ago.  Your
+      repeated mention of ‘dogmatism’ guiding baneful EU policies might be better called
+      the triumph of ideology over the pragmatism for which you stand. So far, so good.
+      However, at the very start of this podcast you show that on the single biggest
+      issue today driving Europe into crisis you yourself are being guided by Cold War
+      ideology rather than realism and pragmatism. You should put aside your father’s
+      uncritical worship of Ronald Reagan and think for yourself. The entire edifice
+      of your solutions to the woes of Europe stands on quicksand, while real foundations
+      for building the future are readily available if only you will open your eyes
+      and put aside sanctimonious language and thinking. I have in mind your affirmation
+      that Russia is a land of tyranny while Ukraine is a democratic country. This is
+      a misrepresentation far greater than the promotion of offshore windfarms versus
+      nuclear power generation that you rightly denounce. It is this misrepresentation
+      that you are using to justify the root cause of present-day deindustrialization
+      of Europe, namely the cut-off from cheap Russian oil, gas and other natural resources,
+      which have driven, in particular, the ‘existential challenge’ (your words} to
+      Germany, the traditional locomotive of the European economy. It is the justification
+      you use for further integration of Europe to support remilitarization – whereas
+      the shift of sovereignty from the nation states of Europe to the bureaucratic,
+      top-down structures of the European institutions is the very last thing the Continent
+      needs if it is genuinely committed to the principles of democracy versus von der
+      Leyen style autocracy – against which you yourself were compelled to take up arms
+      in December. By your alignment with the European leaders who are preparing for
+      a war with Russia in 2030, you are exposing Belgium to a far greater possible
+      national catastrophe than the collapse of Euroclear over stolen Russian assets.
+      So what is the reality of Russia? Of Ukraine? Simply put, Russia is a democracy
+      of sorts, with its own democratic procedures that ensure the voice of the people
+      is decisive in parliamentary and presidential elections which are open to various
+      parties which have their own domestic programs. Only openly seditious parties
+      and individuals are excluded. In addition to the formal, constitutionally mandated
+      structures, there are channels outside of parliament that bring civil society
+      face to face with Power regularly. Mr. Putin is not an autocrat. He is a politician
+      who maneuvers between conflicting interests in society, just as you must. He is
+      a lawyer by profession and, by the way, he governs out of lawyerly convictions.
+      His ‘Special Military Operation’ is precisely constrained by the powers he sought
+      and obtained from parliament. It is not all-out war, which would allow the total
+      destruction of Kiev and of the ruling Zelensky regime, which is entirely within
+      the capabilities of the Russian weapons. That may happen, but only after Putin
+      goes to parliament for a declaration of war. I contrast this law-abiding behavior
+      of the Russian leader, with what you see Mr. Trump doing in Venezuela, in Iran
+      and elsewhere, i.e. making or threatening war without any authorization from Congress,
+      as he is legally obliged to do. Surprise you as it may, I insist that even in
+      present conditions of wartime, there is greater freedom of the press, freedom
+      of expression in Russia today than in France or Germany, or even than in Belgium
+      if you consider the ban on Russian news sources practiced today under the phony
+      explanation of combatting ‘disinformation.’ Let us be honest with one another. 
+      Euronews today is the voice of Ursula von der Leyen. The BBC is the voice of 10
+      Downing Street. European journalism has been greatly compromised by home-grown
+      McCarthyism.  There are no almost no debates on foreign policy in public space,
+      with the result that the policies which are set are done so in ignorance of counter
+      arguments and other, better solutions. I write and say openly that there is a
+      cult of personality on Russian state television which is plainly stupid.  However,
+      in talk shows and featured news programs there is very extensive presentation
+      of original news from CNN, Deutsche Welle, France 24, etc., especially setting
+      out views that are highly critical of Russia and its leadership. On these shows,
+      many panelists speak freely about the wrong headed economic and other policies
+      of the Putin government, and none of these programs has cuts or editing before
+      release on air, which cannot be said of CNN or other major Western programming.
+      True, Putin has been in power for too long. There are many accumulated ‘barnacles’
+      on his administration that are off-putting. I have written that it is time for
+      him to retire and pass the baton to a younger generation of leaders who have proven
+      themselves as competent and successful managers, who travel the country and are
+      well known to the electorate.  But that is another matter for discussion another
+      time. As for Ukraine, its depiction as a democracy is a vile falsehood which you
+      should not disseminate, since it damages your credibility as a man who speaks
+      his mind. We all know that the Zelensky regime has its roots in the coup d’etat
+      of February 2014 which overthrew the legitimate elected president Yanukovich,
+      in violation, by the way, of the terms for holding new presidential elections
+      ahead of schedule that were negotiated by and guaranteed by France and Germany
+      only the day before Yanukovich was forced to flee for his life.  The new incoming
+      fiercely nationalist and anti-Russian Ukrainian government was installed by the
+      United States, as the public record of the phone conversations of then State Department
+      officer responsible for Ukraine, Victoria Nuland, made plain to one and all. 
+      As for the presently sitting Verkhovna Rada and Mr. Zelensky, their elections
+      were observed by international monitors who reported on the widespread use of
+      intimidation. Physical violence against Opposition candidates was a public scandal.
+      In the years since, the Ukrainian press was purged and made completely compliant
+      with the regime.  As we now know from the work of the Anticorruption agency in
+      the summer of 2025, the top levels of the Zelensky regime are utterly corrupt
+      and have been stealing from the vast funds pouring into the country from the USA
+      and the EU. Zelensky’s closest associate, the ‘power behind the throne’ Yermak,
+      was forced to resign and to go underground at the close of last year to avoid
+      prosecution.  Moreover, what kind of democracy can Ukraine claim to be when its
+      president has remained in power 18 months after the end of his mandate per Ukrainian
+      law. Knowing these easily verifiable facts, it is no service to your reputation,
+      Mr. Prime Minister, that you persist in calling Ukraine a bulwark of democracy
+      against the Russian enemies of democracy. I will not go into the reasons why the
+      Russian military action against Ukraine in February 2022 was not an act of aggression
+      but rather a logical and necessary response to the provocative and existentially
+      threatening advance of NATO to Russia’s borders in Ukraine, and specifically to
+      the preparation of Ukraine as proxy for a war on Russia during the 8 years of
+      the Minsk-2 accords. Moreover, it was a response to the murder of 15,000 Russian-speaking
+      civilians under artillery attack in the Donbas since the 2014 coup d’etat, and
+      to the impending final solution of the resistance by a force of more than 100,000
+      Ukrainian troops concentrated at the line of confrontation in Donbas in December
+      2021. All of this is readily available to you in excellent, readable histories
+      if you wish to consult them. I ask you to pause and reflect on these issues when
+      you consider what the European Member States can do to return to confident economic
+      performance. Going back to the Benelux alliance that became the European Economic
+      Community, Europe was a continent of growing prosperity that exerted enormous
+      Soft Power globally.  Regrettably, ever since the creation of the Union and especially
+      since the beginning of Ursula von der Leyen’s term in office, the EU has turned
+      from being a Peace Project focused on economic integration into a War Project
+      focused on Hard Power. I urge you please to pay close attention to this issue
+      in your thinking On Europe’s Future. I conclude by noting that the present EU
+      helter-skelter search for new global markets is a lot of motion without movement. 
+      The fit between India and the EU or between Mercosur and the EU is not compelling.
+      If it had been so, the big trade deals now being concluded would have taken place
+      20 years ago. The opportunities for big EU exports in either of these directions
+      is minimal, as will soon become clear.  Meanwhile, Europe has foolishly turned
+      its back on the entirely natural and vast trade possibilities with the big neighbor
+      to the East.  Given the ongoing and already substantial reindustrialization of
+      Russia, the opportunities for mutually advantageous trade are still greater than
+      when they relied only on raw materials. Take another look, and reconsider. If
+      Europe can have normal relations with a great many countries around the world
+      which do not share ‘European values’ in their domestic policies, then why is that
+      impossible to do with respect to Russia? I stand ready to expand on the points
+      made above in discussion with any of your staff should you wish to explore pragmatism
+      as an option for EU foreign policy and not only for the regulating the energy
+      balance or immigration rules. Sincerely yours, Gilbert Doctorow Brussels
+    one_sentence_summary: The author praises the Prime Minister's recent podcast on
+      "The Future of Europe" for its clarity, openness, and boldness, particularly in
+      addressing complex issues and standing firm against European leaders on the controversial
+      topic of confiscating Russian state assets.
+    paragraph_summary: In a recent podcast titled “The Future of Europe,” the Prime
+      Minister delivered an insightful and bold critique of the European Union's failures
+      in economic, military, and geopolitical areas, emphasizing issues such as over-regulation,
+      misguided immigration policies, and the influence of environmentalists on energy
+      balance. His courageous stance against European Commission President Ursula von
+      der Leyen and German Chancellor Friedrich Merz regarding the confiscation of Russian
+      state assets was praised for its potential to prevent financial ruin in Belgium
+      and global market instability. However, the article suggests that the Prime Minister's
+      views on the current crisis in Europe are still influenced by outdated Cold War
+      ideology, urging him to adopt a more pragmatic approach rather than adhering to
+      ideological dogmatism.
+    published: '2026-02-02T12:01:25+00:00'
+  - title: An open letter to Belgian Prime Minister Bart de Wever
+    url: https://gilbertdoctorow.com/2026/02/02/an-open-letter-to-belgian-prime-minister-bart-de-wever/
+    text: Mr. Prime Minister, I heartily recommend to my Community of subscribers your
+      recent podcast on “The Future of Europe,” which you delivered in excellent English,
+      making your thoughts accessible to a wide audience. Your remarks, your answers
+      to a number of pointed questions from the moderator on intra-Belgian, intra-European
+      and international issues were characterized by unusual openness and, shall we
+      say, boldness. In this sense, what you had to say was as courageous as your public
+      stand in December on the issue of confiscation of Russian state assets held in
+      Euroclear, when you stood up to European Commission president Ursula von der Leyen
+      and German Chancellor Friedrich Merz.  They wanted to take Europe ‘into uncharted
+      waters’ as you rightly said, exposing Belgium to financial ruin and exposing the
+      global financial markets to a possible melt-down.  I said ‘bravo’ to your bravery
+      and success then, and I reconfirm that expression of admiration today. Your speech
+      in this podcast highlights your insider’s critique of the failures of the European
+      Union in economic, military and geopolitical dimensions due to over-regulation,
+      a wrong-headed approach to immigration, distortions in the energy balance due
+      to the influence of the utterly impractical environmentalists, and complacency
+      in the defense umbrella that was provided by the United States via NATO, to the
+      point where Europe is now defenseless if the US is not at its side, as NATO Secretary
+      General Marc Rutte said directly to the European Parliament a week ago.  Your
+      repeated mention of ‘dogmatism’ guiding baneful EU policies might be better called
+      the triumph of ideology over the pragmatism for which you stand. So far, so good.
+      However, at the very start of this podcast you show that on the single biggest
+      issue today driving Europe into crisis you yourself are being guided by Cold War
+      ideology rather than realism and pragmatism. You should put aside your father’s
+      uncritical worship of Ronald Reagan and think for yourself. The entire edifice
+      of your solutions to the woes of Europe stands on quicksand, while real foundations
+      for building the future are readily available if only you will open your eyes
+      and put aside sanctimonious language and thinking. I have in mind your affirmation
+      that Russia is a land of tyranny while Ukraine is a democratic country. This is
+      a misrepresentation far greater than the promotion of offshore windfarms versus
+      nuclear power generation that you rightly denounce. It is this misrepresentation
+      that you are using to justify the root cause of present-day deindustrialization
+      of Europe, namely the cut-off from cheap Russian oil, gas and other natural resources,
+      which have driven, in particular, the ‘existential challenge’ (your words} to
+      Germany, the traditional locomotive of the European economy. It is the justification
+      you use for further integration of Europe to support remilitarization – whereas
+      the shift of sovereignty from the nation states of Europe to the bureaucratic,
+      top-down structures of the European institutions is the very last thing the Continent
+      needs if it is genuinely committed to the principles of democracy versus von der
+      Leyen style autocracy – against which you yourself were compelled to take up arms
+      in December. By your alignment with the European leaders who are preparing for
+      a war with Russia in 2030, you are exposing Belgium to a far greater possible
+      national catastrophe than the collapse of Euroclear over stolen Russian assets.
+      So what is the reality of Russia? Of Ukraine? Simply put, Russia is a democracy
+      of sorts, with its own democratic procedures that ensure the voice of the people
+      is decisive in parliamentary and presidential elections which are open to various
+      parties which have their own domestic programs. Only openly seditious parties
+      and individuals are excluded. In addition to the formal, constitutionally mandated
+      structures, there are channels outside of parliament that bring civil society
+      face to face with Power regularly. Mr. Putin is not an autocrat. He is a politician
+      who maneuvers between conflicting interests in society, just as you must. He is
+      a lawyer by profession and, by the way, he governs out of lawyerly convictions.
+      His ‘Special Military Operation’ is precisely constrained by the powers he sought
+      and obtained from parliament. It is not all-out war, which would allow the total
+      destruction of Kiev and of the ruling Zelensky regime, which is entirely within
+      the capabilities of the Russian weapons. That may happen, but only after Putin
+      goes to parliament for a declaration of war. I contrast this law-abiding behavior
+      of the Russian leader, with what you see Mr. Trump doing in Venezuela, in Iran
+      and elsewhere, i.e. making or threatening war without any authorization from Congress,
+      as he is legally obliged to do. Surprise you as it may, I insist that even in
+      present conditions of wartime, there is greater freedom of the press, freedom
+      of expression in Russia today than in France or Germany, or even than in Belgium
+      if you consider the ban on Russian news sources practiced today under the phony
+      explanation of combatting ‘disinformation.’ Let us be honest with one another. 
+      Euronews today is the voice of Ursula von der Leyen. The BBC is the voice of 10
+      Downing Street. European journalism has been greatly compromised by home-grown
+      McCarthyism.  There are no almost no debates on foreign policy in public space,
+      with the result that the policies which are set are done so in ignorance of counter
+      arguments and other, better solutions. I write and say openly that there is a
+      cult of personality on Russian state television which is plainly stupid.  However,
+      in talk shows and featured news programs there is very extensive presentation
+      of original news from CNN, Deutsche Welle, France 24, etc., especially setting
+      out views that are highly critical of Russia and its leadership. On these shows,
+      many panelists speak freely about the wrong headed economic and other policies
+      of the Putin government, and none of these programs has cuts or editing before
+      release on air, which cannot be said of CNN or other major Western programming.
+      True, Putin has been in power for too long. There are many accumulated ‘barnacles’
+      on his administration that are off-putting. I have written that it is time for
+      him to retire and pass the baton to a younger generation of leaders who have proven
+      themselves as competent and successful managers, who travel the country and are
+      well known to the electorate.  But that is another matter for discussion another
+      time. As for Ukraine, its depiction as a democracy is a vile falsehood which you
+      should not disseminate, since it damages your credibility as a man who speaks
+      his mind. We all know that the Zelensky regime has its roots in the coup d’etat
+      of February 2014 which overthrew the legitimate elected president Yanukovich,
+      in violation, by the way, of the terms for holding new presidential elections
+      ahead of schedule that were negotiated by and guaranteed by France and Germany
+      only the day before Yanukovich was forced to flee for his life.  The new incoming
+      fiercely nationalist and anti-Russian Ukrainian government was installed by the
+      United States, as the public record of the phone conversations of then State Department
+      officer responsible for Ukraine, Victoria Nuland, made plain to one and all. 
+      As for the presently sitting Verkhovna Rada and Mr. Zelensky, their elections
+      were observed by international monitors who reported on the widespread use of
+      intimidation. Physical violence against Opposition candidates was a public scandal.
+      In the years since, the Ukrainian press was purged and made completely compliant
+      with the regime.  As we now know from the work of the Anticorruption agency in
+      the summer of 2025, the top levels of the Zelensky regime are utterly corrupt
+      and have been stealing from the vast funds pouring into the country from the USA
+      and the EU. Zelensky’s closest associate, the ‘power behind the throne’ Yermak,
+      was forced to resign and to go underground at the close of last year to avoid
+      prosecution.  Moreover, what kind of democracy can Ukraine claim to be when its
+      president has remained in power 18 months after the end of his mandate per Ukrainian
+      law. Knowing these easily verifiable facts, it is no service to your reputation,
+      Mr. Prime Minister, that you persist in calling Ukraine a bulwark of democracy
+      against the Russian enemies of democracy. I will not go into the reasons why the
+      Russian military action against Ukraine in February 2022 was not an act of aggression
+      but rather a logical and necessary response to the provocative and existentially
+      threatening advance of NATO to Russia’s borders in Ukraine, and specifically to
+      the preparation of Ukraine as proxy for a war on Russia during the 8 years of
+      the Minsk-2 accords. Moreover, it was a response to the murder of 15,000 Russian-speaking
+      civilians under artillery attack in the Donbas since the 2014 coup d’etat, and
+      to the impending final solution of the resistance by a force of more than 100,000
+      Ukrainian troops concentrated at the line of confrontation in Donbas in December
+      2021. All of this is readily available to you in excellent, readable histories
+      if you wish to consult them. I ask you to pause and reflect on these issues when
+      you consider what the European Member States can do to return to confident economic
+      performance. Going back to the Benelux alliance that became the European Economic
+      Community, Europe was a continent of growing prosperity that exerted enormous
+      Soft Power globally.  Regrettably, ever since the creation of the Union and especially
+      since the beginning of Ursula von der Leyen’s term in office, the EU has turned
+      from being a Peace Project focused on economic integration into a War Project
+      focused on Hard Power. I urge you please to pay close attention to this issue
+      in your thinking On Europe’s Future. I conclude by noting that the present EU
+      helter-skelter search for new global markets is a lot of motion without movement. 
+      The fit between India and the EU or between Mercosur and the EU is not compelling.
+      If it had been so, the big trade deals now being concluded would have taken place
+      20 years ago. The opportunities for big EU exports in either of these directions
+      is minimal, as will soon become clear.  Meanwhile, Europe has foolishly turned
+      its back on the entirely natural and vast trade possibilities with the big neighbor
+      to the East.  Given the ongoing and already substantial reindustrialization of
+      Russia, the opportunities for mutually advantageous trade are still greater than
+      when they relied only on raw materials. Take another look, and reconsider. If
+      Europe can have normal relations with a great many countries around the world
+      which do not share ‘European values’ in their domestic policies, then why is that
+      impossible to do with respect to Russia? I stand ready to expand on the points
+      made above in discussion with any of your staff should you wish to explore pragmatism
+      as an option for EU foreign policy and not only for the regulating the energy
+      balance or immigration rules. Sincerely yours, Gilbert Doctorow Brussels
+    one_sentence_summary: The author praises the Prime Minister's recent podcast on
+      "The Future of Europe" for its clarity, openness, and boldness, particularly in
+      addressing complex issues and standing firm against European leaders on the controversial
+      topic of confiscating Russian state assets.
+    paragraph_summary: In a recent podcast titled “The Future of Europe,” the Prime
+      Minister delivered an insightful and bold critique of the European Union's failures
+      in economic, military, and geopolitical areas, emphasizing issues such as over-regulation,
+      misguided immigration policies, and the influence of environmentalists on energy
+      balance. His courageous stance against European Commission President Ursula von
+      der Leyen and German Chancellor Friedrich Merz regarding the confiscation of Russian
+      state assets was praised for its potential to prevent financial ruin in Belgium
+      and global market instability. However, the article suggests that the Prime Minister's
+      views on the current crisis in Europe are still influenced by outdated Cold War
+      ideology, urging him to adopt a more pragmatic approach rather than adhering to
+      ideological dogmatism.
+    published: '2026-02-02T12:01:25+00:00'
+  - title: 'Coffee and a Mike: conversation with Mike Farris about Trump’s mental health
+      and chances of his success in brokering peace in Ukraine'
+    url: https://gilbertdoctorow.com/2026/01/30/coffee-and-a-mike-conversation-with-mike-farris-about-trumps-mental-health-and-chances-of-his-success-in-brokering-peace-in-ukraine/
+    text: This 42-minute conversation covers a lot of ground, some of which was already
+      traversed in my latest interviews with Judge Napolitano and Professor Glenn Diesen.
+      But viewers will find that the tone is lighter, that we enjoyed ourselves more
+      and perhaps we shed light in corners that were still obscure in the previous interviews.
+      Viewers will see that Mike now has a sponsor from among the vendors of precious
+      metals. I wish him success in financing his podcasts, but it is a reminder that
+      there is no free lunch, and that all journalists,
+    one_sentence_summary: The 42-minute conversation, featuring lighter tones and new
+      insights compared to previous interviews, highlights Mike's new sponsorship from
+      a precious metals vendor while reminding viewers of the financial realities faced
+      by journalists.
+    paragraph_summary: In a 42-minute conversation, the discussion revisits themes from
+      previous interviews with Judge Napolitano and Professor Glenn Diesen, but with
+      a lighter tone and a more enjoyable atmosphere. The dialogue explores new insights
+      and clarifies previously obscure points. Additionally, Mike has secured a sponsorship
+      from a precious metals vendor to help finance his podcasts, highlighting the reality
+      that there are no free lunches in journalism, as all journalists must navigate
+      financial support.
+    published: '2026-01-30T13:23:03+00:00'
+  - title: 'Coffee and a Mike: conversation with Mike Farris about Trump’s mental health
+      and chances of his success in brokering peace in Ukraine'
+    url: https://gilbertdoctorow.com/2026/01/30/coffee-and-a-mike-conversation-with-mike-farris-about-trumps-mental-health-and-chances-of-his-success-in-brokering-peace-in-ukraine/
+    text: This 42-minute conversation covers a lot of ground, some of which was already
+      traversed in my latest interviews with Judge Napolitano and Professor Glenn Diesen.
+      But viewers will find that the tone is lighter, that we enjoyed ourselves more
+      and perhaps we shed light in corners that were still obscure in the previous interviews.
+      Viewers will see that Mike now has a sponsor from among the vendors of precious
+      metals. I wish him success in financing his podcasts, but it is a reminder that
+      there is no free lunch, and that all journalists,
+    one_sentence_summary: The 42-minute conversation, featuring lighter tones and new
+      insights compared to previous interviews, highlights Mike's new sponsorship from
+      a precious metals vendor while reminding viewers of the financial realities faced
+      by journalists.
+    paragraph_summary: In a 42-minute conversation, the discussion revisits themes from
+      previous interviews with Judge Napolitano and Professor Glenn Diesen, but with
+      a lighter tone and a more enjoyable atmosphere. The dialogue explores new insights
+      and clarifies previously obscure points. Additionally, Mike has secured a sponsorship
+      from a precious metals vendor to help finance his podcasts, highlighting the reality
+      that there are no free lunches in journalism, as all journalists must navigate
+      financial support.
+    published: '2026-01-30T13:23:03+00:00'
+  - title: '‘Judging Freedom’ edition of 28 January: Russia and Ukraine: Real Negotiations
+      or Delay?'
+    url: https://gilbertdoctorow.com/2026/01/28/judging-freedom-edition-of-28-january-russia-and-ukraine-real-negotiations-or-delay/
+    text: 'Published by gilbertdoctorow
+
+
+      Gilbert Doctorow''s latest book, "War Diaries. The Russia-Ukraine War, 2022-2023"
+      is a unique contribution to literature on the war thanks to the author''s reports
+      on the Russian home front written during his periodic visits to St Petersburg
+      at a time when Russia no longer issued visas and nearly all Western journalists
+      had left the country. Doctorow''s two-volume "Memoirs of a Russianist" published
+      in 2020 also constitutes a category of its own, consisting largely of diary entries
+      rather than reminiscences written decades later.. Volume 2 focuses on the community
+      of 50,000 expatriate managers working and living in Moscow during the 1990s, about
+      which none of his peers has yet to write. Gilbert Doctorow is a professional Russia
+      watcher and actor in Russian affairs going back to 1965. He is a magna cum laude
+      graduate of Harvard College (1967), a past Fulbright scholar, and holder of a
+      Ph.D. with honors in history from Columbia University (1975). After completing
+      his studies, Mr. Doctorow pursued a business career focused on the USSR and Eastern
+      Europe. For twenty-five years he worked for US and European multinationals in
+      marketing and general management with regional responsibility. From 1998-2002,
+      Doctorow served as the Chairman of the Russian Booker Literary Prize in Moscow.
+      During the 2010-2011 academic year, he was a Visiting scholar of the Harriman
+      Institute, Columbia University. Mr. Doctorow is a long-time resident of Brussels.
+      View all posts by gilbertdoctorow'
+    one_sentence_summary: Gilbert Doctorow's book "War Diaries. The Russia-Ukraine War,
+      2022-2023" offers a distinctive perspective on the conflict through his firsthand
+      accounts from Russia during a time when Western journalists were largely absent,
+      complementing his previous work on the expatriate community in Moscow during the
+      1990s.
+    paragraph_summary: Gilbert Doctorow's book, "War Diaries. The Russia-Ukraine War,
+      2022-2023," offers a distinctive perspective on the ongoing conflict by documenting
+      his observations from the Russian home front during visits to St. Petersburg,
+      a time when Western journalists were largely absent due to visa restrictions.
+      This work follows his previous two-volume memoir, "Memoirs of a Russianist," which
+      features diary entries that provide insights into the expatriate community in
+      Moscow during the 1990s, a topic not previously explored by his contemporaries.
+      With a background in Russian affairs dating back to 1965, Doctorow is a Harvard
+      graduate and holds a Ph.D. from Columbia University, having spent a significant
+      part of his career in business related to the USSR and Eastern Europe. He has
+      also been involved in literary initiatives, such as serving as Chairman of the
+      Russian Booker Literary Prize, and currently resides in Brussels.
+    published: '2026-01-28T16:40:11+00:00'
   - title: Latest on Abu Dhabi and normalization of US-RU ties
     url: https://gilbertdoctorow.com/2026/01/27/latest-on-abu-dhabi-and-normalization-of-us-ru-ties/
     text: 'Published by gilbertdoctorow

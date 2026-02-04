@@ -8,16 +8,310 @@ websites:
   - https://responsiblestatecraft.org/author/alieven/
   - https://quincyinst.org/author/anatol-lieven/
 summary: |
-  The geopolitical landscape remains tense as the Trump administration's foreign policy continues to generate controversy and uncertainty across multiple fronts. Recent developments have heightened concerns about U.S. credibility, European stability, and the risk of escalation with Russia.
+  As the Russia–Ukraine negotiations enter a critical phase, recent developments signal both progress and persistent obstacles. The latest reports confirm that Russia has made notable concessions, such as dropping its opposition to Ukraine’s EU accession and accepting a larger Ukrainian military. In return, Ukraine has tacitly acknowledged the loss of certain territories and is now focused on securing alternative security guarantees. However, as **Anatol Lieven** notes, “key disagreements remain over territorial issues, the management of the Zaporizhzhia Nuclear Power Plant, and the nature of security guarantees,” with a durable agreement hinging on the ability of both sides to balance these core demands.
   
-  Most notably, President Trump's latest rhetoric regarding Greenland—claiming that China and Russia covet the territory—has been sharply criticized as baseless and inflammatory. **Anatol Lieven** argues these "unfounded falsehoods" not only undermine U.S. credibility but also risk provoking unnecessary tensions with key allies and adversaries. Lieven calls for a robust political response to prevent any aggressive moves toward Greenland, warning that such posturing crosses a dangerous line in international relations.
+  Meanwhile, the broader European security environment remains volatile. The possibility of Britain and other NATO countries seizing Russian cargo ships on the high seas has been raised, a move that **Anatol Lieven** warns could “escalate tensions with Russia and risk conflict, particularly given the potential for retaliation and the legal implications of such actions.” This scenario underscores the fragility of the current détente and the risk of unintended escalation, especially as European governments grapple with internal crises and shifting priorities.
   
-  Meanwhile, the situation in Europe is growing increasingly precarious. There is mounting speculation, as reported by **Anatol Lieven**, that Britain and other NATO countries are considering the seizure of Russian cargo ships on the high seas. This potential escalation is fraught with legal and military risks, and could provoke direct Russian retaliation. The majority of analysts agree that such actions would mark a significant escalation, with Lieven cautioning that "all bets are off" should these seizures occur, given the unpredictable nature of Russian responses.
+  In the background, the Trump administration’s foreign policy continues to shape the transatlantic landscape. The 2025 National Security Strategy advocates for pragmatic diplomacy and restraint, but its partisan undertones and controversial stances on military intervention have drawn criticism for undermining allied cohesion. **Anatol Lieven** argues that the administration’s “aggressive sphere of influence strategies echo historical U.S. interventions while risking alienation of neighboring countries and exacerbating tensions with global powers like China and Russia.”
   
-  In the broader context, the Trump administration's approach to its sphere of influence in the Western Hemisphere is drawing criticism for its aggressive and historically reminiscent tactics. **Anatol Lieven** notes that this strategy risks alienating neighboring countries and exacerbating tensions with China and Russia, undermining long-term U.S. interests in the region.
-  
-  Looking ahead, the trends point toward increasing instability and the potential for miscalculation. The majority view among analysts is that the Trump administration's confrontational rhetoric and policy moves are likely to further strain transatlantic relations and could inadvertently trigger military incidents, especially in the Arctic and maritime domains. There is a high chance that European governments, already facing internal crises, will struggle to present a unified and effective response to these challenges. I guarantee that unless there is a shift toward restraint and credible diplomacy, the risk of escalation—particularly with Russia—will remain elevated in the coming weeks.
+  Looking ahead, the majority of analysts agree that while the Ukraine negotiations have reached a delicate but promising stage, the unresolved issues—particularly around territorial settlements and security guarantees—will require sustained diplomatic pressure, especially from the U.S., to reach a comprehensive peace. There is a high chance that any final agreement will involve painful compromises for Ukraine, but also a significant reduction in the risk of wider conflict. At the same time, European instability and the risk of maritime escalation with Russia remain key flashpoints. Most definitely, the coming weeks will be decisive in determining whether the current momentum toward peace can be sustained or if new crises will emerge.
 articles:
+  - title: Frequently Asked Questions About the Russia–Ukraine Negotiations
+    url: https://quincyinst.org/research/frequently-asked-questions-about-the-russia-ukraine-negotiations/
+    text: 'The Current State of Play
+
+
+      Has Russia made concessions in the negotiation process?
+
+
+      Yes. Russia has made significant concessions.
+
+
+      Russia has agreed to lift all objections to Ukraine’s accession to the European
+      Union, marking a major shift from its position before and after the 2014 Euromaidan
+      revolution.
+
+
+      It has accepted the principle that Ukraine is entitled to a robust postwar domestic
+      military deterrent. This includes very few qualitative restrictions on the types
+      of weapons Ukraine can possess and a far larger peacetime standing army than Russia
+      demanded during the 2022 Istanbul peace talks. Specifically, in 2022, Russia demanded
+      that the Ukrainian military be limited to 85,000 troops, while current proposals
+      would allow Ukraine to maintain a peacetime military of at least 600,000 and up
+      to 800,000 troops, which would be by far the largest army in Europe.
+
+
+      During the August 2025 Alaska summit, Russian President Vladimir Putin agreed
+      with President Trump that Ukraine is entitled to substantial, binding security
+      guarantees from Western states, the scope and content of which are currently being
+      negotiated.
+
+
+      Moscow has pared down its September 2022 territorial demands by expressing a willingness
+      to indefinitely freeze the front in Zaporizhzhia and Kherson, abandoning its original
+      goal of conquering these regions.
+
+
+      Combined, these Russian concessions would permit the establishment of a secure,
+      sovereign, Western–aligned Ukrainian state on approximately 80 percent of its
+      pre-2014 territory.
+
+
+      Has Ukraine made concessions in the negotiation process?
+
+
+      Yes. Ukrainian President Zelensky has repeatedly recognized that Ukraine will
+      not recapture eastern and southeastern territories lost to Russia since the invasion
+      began and has agreed to negotiate a viable, durable peace deal on that basis.
+
+
+      Ukraine has accepted the White House proposal to demilitarize contested parts
+      of the eastern Donetsk region — including areas under its control — despite its
+      prior insistence that abandoning its “fortress belt” of fortifications in Donetsk
+      is an unacceptable risk.
+
+
+      Kyiv has, at least in a de facto sense, accepted that it will not join NATO and
+      is instead working with the Trump administration on an alternative set of security
+      guarantees to help ensure Ukraine’s postwar sovereignty, stability, and prosperity.
+      Zelensky has opened the door to codifying territorial and political concessions
+      by holding a nationwide referendum that the Ukrainian Rada can then recognize
+      as legally binding.
+
+
+      What are the key outstanding areas of disagreement?
+
+
+      Several sticking points remain on territory, the Zaporizhzhia Nuclear Power Plant,
+      and security guarantees.
+
+
+      Territory: Both sides attach great symbolic value to Donetsk, which, together
+      with neighboring Luhansk, forms the eastern Donbass region where the conflict
+      between Ukraine and Russian–backed separatists began in 2014. The last remaining
+      territorial issue dividing the two sides is the Russian demand that Ukraine relinquish
+      the 20 percent of Donetsk that Russia claims and Ukraine still controls. Because
+      of the immense destruction and loss of life that stems from 10 years of fighting
+      over this region, it is politically and psychologically challenging for the respective
+      sides to negotiate on the compromise arrangements being offered by the White House.
+
+
+      Zaporizhzhia Nuclear Power Plant: Russian forces control the plant, which generated
+      about one-quarter of Ukraine’s electricity before the war. Ukraine seeks to push
+      Russia out of the nuclear power plant as part of a peace deal, with Zelensky pushing
+      for a joint management scheme between Ukraine and the U.S. This is a red line
+      for Moscow, which will likely reject any arrangement that excludes it from the
+      plant’s postwar management.
+
+
+      Security guarantees: Though Zelensky understands and largely accepts the security
+      guarantees being offered by the White House and a coalition of willing Western
+      states, part of Ukraine’s negotiation strategy is to signal agreement while holding
+      out for better terms on the margins. Zelensky seeks to make the binding assurances
+      taken on by guarantor states as robust as possible. European proposals to station
+      a European military force in Ukraine as a postwar security guarantee are a red
+      line for Russia and, if seriously pursued, could derail negotiations.
+
+
+      Should it be possible to resolve these issues and reach an agreement?
+
+
+      Yes. The White House has made substantial progress in narrowing the negotiating
+      gap between Russia and Ukraine over territory. For example, the White House has
+      proposed demilitarizing contested areas of Eastern Ukraine and turning them into
+      “special economic zones,” thereby reframing concerns about sovereignty and territorial
+      integrity in a way that makes the deal easier for both sides to swallow. There
+      is technical work left to do, particularly in working with Moscow to review the
+      proposal’s finer points, but both sides have demonstrated a willingness to negotiate
+      within this compromise framework. A key question is who would provide security
+      in these zones.
+
+
+      Regarding the Zaporizhzhia plant, the White House originally proposed a tripartite
+      scheme whereby Ukraine, the U.S., and Russia would jointly manage it. This arrangement,
+      though it falls short of what either Kyiv or Moscow considers as their respective
+      optimal outcome, satisfies several key criteria. It helps address Ukraine’s postwar
+      energy needs, advances U.S. economic interests, and is pragmatic enough to be
+      accepted by Russia, which maintains military control over the plant. There is
+      some light retooling that can be done — for example, management roles and profit
+      distribution can be calibrated in a way that offers more benefits for Ukraine
+      while still being accepted by Moscow — but the three-way management scheme is
+      a far superior diplomatic solution to what Ukraine can achieve on the battlefield,
+      considering its numerous unsuccessful prior attempts to retake the plant.
+
+
+      On security guarantees, Ukraine is understandably driving a hard bargain to secure
+      the best deal possible. But, considering the difficult trajectory of this war,
+      there is only so much room to offer Kyiv better terms before the whole package
+      becomes unacceptable to Moscow. The White House is rightly sensitive to Russian
+      red lines, such as a Western military force within Ukraine, and is maneuvering
+      around them. In addition, it would be unrealistic to offer security guarantees
+      that commit the U.S. to taking steps the Biden administration was unwilling to
+      take in previous years of the conflict, such as direct military intervention by
+      U.S. troops.
+
+
+      In parts of the settlement where difficult compromises are necessary, the need
+      can be partially offset by offering better terms elsewhere. For example, the White
+      House can tinker with the numbers to make the proposed international reconstruction
+      fund more lucrative for Ukraine if Zelensky accepts the White House proposal on
+      the Zaporozhzhia plant. It can lift or suspend certain U.S. sanctions on Russia,
+      and put pressure on the EU to do the same. These kinds of creative linkages were
+      what initially got the peace process off the ground after the Anchorage summit,
+      and they continue to serve as the necessary glue for making a deal stick.
+
+
+      Looking Ahead to the Future
+
+
+      What will a likely final agreement look like?
+
+
+      To be acceptable to the Ukrainians, a peace settlement will have to include Ukraine’s
+      right to receive weapons and training from NATO, and some form of binding guarantee
+      that in the event of future Russian aggression, Ukraine will receive greatly increased
+      support from the West. Ukraine’s right to join the European Union must also be
+      explicitly included.
+
+
+      To be acceptable to the Russians, a peace settlement will need to include some
+      kind of formal and permanent bar on Ukraine joining NATO, and on Western combat
+      troops being deployed to Ukraine. There will also need to be some sort of guarantees
+      for the linguistic and cultural rights of Russian–speaking citizens of Ukraine
+      (with a reciprocal guarantee by Moscow of the rights of Ukrainians in Russia).
+      Most Western economic and political sanctions against Russia would be suspended,
+      with a “snap-back” proviso that they will automatically resume if Russia restarts
+      the war.
+
+
+      On the question of control of the part of the Donbas still held by Ukraine, the
+      most likely outcome will be a ceasefire along the existing front line, along with
+      the disarmament of this territory, which will remain under Ukrainian sovereignty
+      and administration. This assumes that Russia remains incapable of capturing this
+      territory. Both sides will have to guarantee they will not attempt to change the
+      ceasefire line and acquire more territory by force.
+
+
+      Ideally (and as an incentive to Russia to drop its territorial demand), the peace
+      settlement will include measures to reduce military confrontation in Europe and
+      lay the foundations of a new European security architecture.
+
+
+      Does such an agreement benefit U.S. interests?
+
+
+      Yes. No significant U.S. interests would be sacrificed, especially when one considers
+      that the Ukrainian front line with Russia today runs almost 1,000 miles east of
+      the front lines during the Cold War, when Soviet armies were stationed in the
+      middle of what is now a reunited Germany.
+
+
+      This agreement would remove the danger that the war in Ukraine could lead to a
+      direct clash between NATO and Russia, with the possibility of escalation to full-scale
+      war and mutual nuclear annihilation. An end to the war will greatly facilitate
+      the transfer of the chief responsibility for European security to Europeans themselves,
+      allowing the U.S. to concentrate its resources on urgent tasks elsewhere.
+
+
+      Would such an agreement embolden or empower Putin to engage in further aggression?
+
+
+      No. The Russian army has suffered enormously in this war, with total casualties
+      probably exceeding one million men. Virtually the entire force with which Russia
+      began the war has been destroyed. Russia apparently began the war with the intent
+      of subjugating Ukraine to Russia; instead, the result of a peace treaty would
+      be an independent and Western–aligned Ukraine with a very substantial independent
+      military force and external security guarantees. After years of talking up the
+      Russian threat to Europe, Finnish President Alexander Stubb has now said that
+      Europe can defend itself without America, because Ukraine has restricted Russia’s
+      advances since 2022 to barely 1 percent more territory and imposed huge casualties
+      on Russia.
+
+
+      Given the tremendous advantages that contemporary military technology provides
+      for defense, it is entirely within NATO’s capacity to help the Ukrainians build
+      defenses strong enough to deter the Russians.
+
+
+      Russian threats and “hybrid” actions against the West since 2022 have been an
+      outgrowth of the war in Ukraine. Indeed, the intention of these threats has been
+      to deter NATO from intervening directly in Ukraine.
+
+
+      Finally, what is the alternative? All serious military analysts, including the
+      Ukrainians themselves, now agree that Ukraine cannot reconquer its lost territories
+      on the battlefield. The alternative to a peace settlement is therefore indefinite
+      war, with the risk that an exhausted and heavily outnumbered Ukrainian army may
+      eventually collapse, leading to much greater Russian gains.
+
+
+      Could Ukraine maintain its security and sovereignty under such an agreement?
+
+
+      Yes. This agreement would leave four-fifths of Ukraine (including all its core
+      ethnic territories) as an independent state, with the recognized right to join
+      the European Union. Russia would play no role in the administration of Ukraine.
+      And for the reasons set out above, the West would be in a position to help Ukraine
+      build defenses that are formidable enough to deter future Russian aggression.
+
+
+      Would such an agreement commit the U.S. to do more than the considerable amount
+      it has already done for Ukraine?
+
+
+      No. Under this agreement and in the case of reinvasion, the U.S. would only be
+      committed to do things very similar to what it has already done in this war: supply
+      Europe and/or Ukraine with weapons and intelligence, and impose punishing economic
+      sanctions on Russia. The U.S. would not be committed to going to war in Ukraine
+      itself, nor to a direct combat role in any military operation that European states
+      might undertake.
+
+
+      What would happen if Ukraine and Russia prove unable or unwilling to reach a compromise
+      peace?
+
+
+      If Russia were to conclude that no compromise peace with Ukraine is attainable,
+      it would accelerate air strikes on a wide range of Ukrainian targets and increase
+      the number of soldiers it has deployed to the front lines. It would decide in
+      the course of a stepped-up offensive where the de facto border between Russia
+      and a rump Ukraine will be drawn — ranging anywhere from full control over the
+      territories it has officially annexed to complete conquest of Ukraine’s coastline
+      — and then unilaterally declare an end to its military action.
+
+
+      Russia could not conquer all of Ukraine and would not try, as this would require
+      an occupation army many times the size of the entire Russian military and would
+      almost certainly encounter sustained Ukrainian guerrilla attacks. But it would
+      ensure that unoccupied Ukrainian territory could not be reconstructed by wielding
+      an ever-present threat to bomb reconstruction projects. This would ensure that
+      few of the millions of Ukrainians who fled the country ever return, effectively
+      close the door on Ukraine’s NATO and EU membership, and make it likely that Ukraine
+      would become a dysfunctional and unstable rump state, radiating instability into
+      broader Europe.'
+    one_sentence_summary: Russia has made significant concessions in negotiations with
+      Ukraine, including lifting objections to Ukraine's EU accession and accepting
+      a larger Ukrainian military, while Ukraine has acknowledged the loss of certain
+      territories and is seeking alternative security guarantees, but key disagreements
+      remain over territorial issues, the management of the Zaporizhzhia Nuclear Power
+      Plant, and the nature of security guarantees, with a potential agreement needing
+      to balance both sides' demands to ensure a lasting peace.
+    paragraph_summary: The article discusses the ongoing negotiation process between
+      Russia and Ukraine, highlighting significant concessions made by both sides. Russia
+      has agreed to lift its objections to Ukraine's EU accession, accepted a larger
+      Ukrainian military, and reduced its territorial demands, while Ukraine has acknowledged
+      it may not regain all lost territories and is open to a peace deal that includes
+      demilitarization in contested regions. Key outstanding issues include territorial
+      disputes, control of the Zaporizhzhia Nuclear Power Plant, and security guarantees,
+      with both sides showing a willingness to negotiate. The article suggests that
+      a potential agreement could benefit U.S. interests by preventing direct conflict
+      between NATO and Russia, allowing for a secure, independent Ukraine aligned with
+      the West, and avoiding the risks of prolonged warfare. It emphasizes that such
+      a settlement would not compromise U.S. commitments and could help Ukraine maintain
+      its sovereignty while deterring future aggression. If negotiations fail, Russia
+      may escalate military actions, leading to a precarious situation for Ukraine and
+      broader European stability.
+    published: '2026-01-29T16:03:48+00:00'
   - title: Trump's new 'gangster' threats against Greenland, allies, cross line
     url: https://responsiblestatecraft.org/trump-greenland-tariffs/
     text: 'The response to Trump’s latest Truth Social post over Greenland should resemble

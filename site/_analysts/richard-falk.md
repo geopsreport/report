@@ -7,14 +7,500 @@ description: "Richard Falk is an international law and international relations s
 websites:
   - https://richardfalk.org/
 summary: |
-  The international order continues to be tested by recent U.S. military actions and ongoing crises in the Middle East. The U.S. attack on Venezuela on January 3, 2026, remains a focal point for analysts assessing the erosion of international law and the United Nations’ credibility. **Richard Falk** highlights that this operation is “indicative of a troubling trend towards nihilistic geopolitics,” suggesting a shift away from legal norms and multilateral frameworks in favor of unilateral power projection.
+  The current geopolitical landscape remains marked by the aftermath of recent U.S. interventions and the ongoing crisis in Gaza, both of which have intensified scrutiny of international law and the legitimacy of global governance institutions. In the wake of the January 3 U.S. military operation in Venezuela, analysts continue to debate the implications for world order and the erosion of legal norms.
   
-  In the aftermath of the Venezuelan intervention, the United Nations’ response has drawn sharp criticism. According to **Richard Falk**, the UN’s effective ratification of U.S. actions—despite their questionable legality—demonstrates the body’s increasing complicity in legitimizing aggressive maneuvers by powerful states. This trend, he argues, undermines both human rights and the foundational principles of the post-1945 world order.
+  The most recent development comes from a lecture discussed by **Richard Falk** on February 3, which revisits the legacy of the Vietnam War and its enduring impact on contemporary geopolitics. Falk emphasizes the necessity of recognizing the Vietnam conflict as "America's War in Vietnam," arguing that its lessons are directly relevant to current U.S. military engagements and foreign policy. This reflection is particularly salient given the parallels drawn between the Vietnam era and the present-day U.S. approach to Venezuela and the Middle East. According to Falk, "the Vietnam War remains a reference point for understanding the persistence of interventionist tendencies and the marginalization of international legal frameworks."
   
-  Meanwhile, the situation in Israel and Palestine remains unresolved, with Israel’s leadership openly advocating for a “Greater Israel” encompassing the West Bank and maintaining a permanent presence in Gaza. **Richard Falk** notes that Defense Minister Israel Katz’s rhetoric reflects a pragmatic, if controversial, acknowledgment of the difficulties in formal annexation but signals a long-term strategy of de facto control.
+  Meanwhile, the Trump administration's proposal for an independent peace council to address the Gaza conflict continues to draw criticism. In his January 30 analysis, **Richard Falk** warns that such non-UN frameworks are "illegitimate and detrimental to international law," as they risk favoring powerful actors at the expense of Palestinian rights and established multilateral mechanisms. This sentiment reflects a broader concern about the weakening of the United Nations' authority and the normalization of ad hoc, power-driven solutions to international crises.
   
-  Looking ahead, the majority of independent analysts agree that the weakening of international legal norms is likely to persist. There is a high chance that further unilateral interventions by major powers will occur, given the lack of effective checks by the UN or other international bodies. The trend towards power-based management of global crises, rather than adherence to legal commitments, is expected to continue—most definitely, unless there is a significant shift in global political will or institutional reform.
+  Looking at trends, the majority of independent analysts agree that the current trajectory points toward a further unraveling of the post-1945 world order, with the United States increasingly willing to bypass international institutions in pursuit of its strategic objectives. There is high confidence that this pattern will persist, particularly in regions where U.S. interests are challenged or where multilateral consensus is difficult to achieve. As Falk concludes, "there is a high chance that the erosion of legal norms and the sidelining of the UN will continue unless there is a concerted effort to restore the primacy of international law and collective security."
+  
+  In summary, the latest reports underscore a growing crisis of legitimacy for the international system, driven by unilateral interventions and the proliferation of alternative conflict resolution mechanisms. The lessons of past conflicts, especially Vietnam, remain urgently relevant as the world navigates an increasingly fragmented and lawless geopolitical environment.
 articles:
+  - title: World Order After 1945, After Vietnam War, and After Second Coming of Trump
+    url: https://richardfalk.org/2026/02/03/world-order-after-1945-after-vietnam-war-and-after-second-coming-of-trump/
+    text: '[ Prefatory Note : This post elaborates upon a lecture of mine on Janurary
+      26, 2026 at a webinar in a series convened and moderated by the Vietnam Peace
+      Commemoration Committee, which has kept alive the relevance of the Vietnam experience
+      to current struggles. The invitation to me proposed the topic of ‘World Order
+      After Vietnam.’ In this modified text I devote attention to the relevance of world
+      order after 1945, as well as the Vietnam War itself, and subsequent developments
+      . One point of clarification: We speak of the Vietnam War rather glibly, which
+      glides over the crucial reality that tragic abuse of power is better understood
+      as ‘America’s War in Vietnam.’ Having noted this, I will stick by the standard
+      terminology for the sake of convenience. Feedback is particularly welcome as I
+      intend to work further on this theme. I welcome this occasion to be at virtually
+      together with comrades in the Vietnam anti-war movement, and grateful to John
+      McAiliff & Doug Hofsteter for this invitation, as well as Chris Appy who heads
+      the Ellsberg Initiative at the University of Massachusetts at Amherst for illuminating
+      and lucid comments in his role as discussant. I had my doubts as to whether I
+      could meet such a challenge. Part of my predicament in this talk recalled T.S.
+      Eliot’s words to a NYC audience at the start of a poetry reading that I attended
+      over 60 years ago: ‘I am reluctant to make any comments about my poems to an audience
+      that knows more about them than I do.’ In that vein, I realize that there are
+      many with us who have experienced the Vietnam and its aftermath with deeper experience
+      and knowledge than I bring to this challenging topic. ] We are now living through
+      a period of radical uncertainty with respect to the future of world order, an
+      atmosphere agitated by the Gaza Genocide and Trumpism, the resurgence of geopolitical
+      primacy and rivalry, prospects for radical modifications of modernity due to AI
+      and related technological innovations, a transactional and narcissistic US leadership,
+      a discredited  and weakened UN coupled with the emergence of cooperative international
+      frameworks, a divided US versus a resurgent China, and a threatening conflict
+      reality that is stimulating increased military spending, new modes of warfare,
+      danger of warfare fought with nuclear weapons. A time of world order transition
+      or rupture, from the end of the Cold War & US dominated unipolarity to a yet unknown
+      future—What does this Trump phenomenon and the Chinese rise portend for the human
+      future? I think a few brief bullet points on world order before Vietnam would
+      be helpful in giving some background to both changes and continuities relative
+      to world order after Vietnam: –World Order after WWII was designed by the winners,
+      which defeated hopes for a peace system restraining hard power militarism, in
+      accord with the precepts of political realism that understand international history
+      as largely the story of military superiority and economic inequality as expressed 
+      a favorite quote of hyper-realist through the ages, and recently by Henry Kissinger,
+      and now Stephen Miller: “the weak do what they must, the strong do what they will.”
+      Thucydides has been typically interpreted wrongly endorsing this cynical outlaw
+      whereas more careful reading of the context of this adage suggests it is a prophetic
+      warning that such Athenian corrupt behavior with respect to morality will lead
+      to its downfall. The intention, contrary to the amorality of post-Machiavellian
+      realism, was a counsel of moral self-constraint to those with power at a time
+      when the prohibitions of international law did not yet exist. –the design of the
+      UN could have worked had the winners of World War II acted with moral and now
+      legal self-restraint: permanent veto rights for the winners, criminal accountability
+      for the losers at Nuremberg, Tokyo; it is true that international law seems never
+      to have been intended to displace the geopolitical management of global security
+      by the architects of world order after 1945, but neither was its existence denied;
+      the hope then was that at least the liberal democracies of the West (US, UK, and
+      France) and their allies, would voluntarily exhibit respect for the contemporary
+      code of law and morality as embodied in the UN Charter, and thus comply with international
+      law and morality without burdening the Organization with enforcement duties that
+      would have required a superior military capability even in relation to nuclear
+      superpowers, which would have caused a different set of problems that have been
+      identified by criticisms of world federalism as the solution to peacebuilding
+      challenges. –In retrospect, we should realize that even the leadership of liberal
+      democracies could not be trusted to comply with international law or observe moral
+      values if in tension with the pursuit of strategic ambitions or the supposed requirements
+      of national security. As a result, it is understandable to blame the leading members
+      of the UN, and not the UN, for its disappointing performance in relation to global
+      security, genocide and ecocide prevention, human rights generally, and peaceful
+      resolution of international conflicts. –Cold War excesses from the outset suggest
+      wartime trust was dissipated even prior to the surrender of Germany and Japan:
+      covert regime-changing interventions displacing elected leaders: Mosaddeq in Iran
+      (1953); Arbenz in Guatemala (1954); political assassinations Lumumba, Castro Ché
+      Guevera, attempts for both ideological and economic reasons; Soviet failure to
+      hold elections in Eastern Europe and interventions to uphold the pro-Soviet status
+      quo; see James Douglass, Martyrs to the Unspeakable: Assassinations of JFK, Malcolm,
+      Martin, and RFK ( 2025) interpreting the corrupting impact of these violent killings
+      on progressive politics in the US. –death rattle of European colonialism but not
+      delegitimized by the UN Charter or among conservative elite circles. The emergence
+      of predatory globalization as legitimized by Clinton, Bush presidencies, neo-con
+      influence favoring Huntington view of Cold War Islamic threat demonized as ‘terrorism’
+      and associated with Israel’s frontline struggle against suicide bombing reaching
+      a climax in response to Hamas attack on October 7, 2023. The Pedagogy of the Vietnam
+      War –Lessons learned by US foreign policy establishment (militarized bureaucracy;
+      Think tanks)—avoid ground warfare & minimize US casualties, abolish the draft,
+      manage media discourse; technological innovations; proxy war option (Ukraine:
+      Biden-fight Russia by arming Uk & discouraging diplomatic compromise); pacify
+      citizen activism; overcame ‘Vietnam Syndrome’ in Iraq War (1991) –Peace Movement
+      failures: sedated by the ‘Vietnam Syndrome into ‘game over’ delusions, overlooking
+      systemic character of the partnering of militarism, nuclear hegemony, capitalism
+      and political leaders’ short-termism Major Developments in World Order Since the
+      Vietnam War: –Vital turning points: end of Cold War; 9/11, Al Qaeda, & Osama bin
+      Laden; Great Terror War; Iraq War and occupation, 2003; rise of & rivalry with
+      China; Ukraine War; Israel’s response to October 7; anti-woke, anti-immigrant
+      politics in liberal West; Abraham Accords and geopolitical deference of Muslim-majority
+      countries to US hegemony; reelection of Trump, 2024; inauguration of Zorhan Mamdani,
+      2026, ICE rampage, ecological and climate change neglect; global rise of authoritarianism,
+      xenophobia and ultra-right nationalism; transformative technological innovations-
+      AI, robotics, hybrid warfare. –formal defeat of European colonialism, but not
+      of colonial mentality, generating economic and security residual colonialism in
+      Africa, imperial encroachments elsewhere –US reliance on economic warfare, principally
+      through sanctions broadly applied and political destabilization; the current Iran
+      Protest Movement –end of Cold War, Berlin Wall, the Gorbachev vision of a new
+      world order & Russia’s decline, temporary withdrawal from geopolitical rivalry;
+      neoliberal globalization and the deindustrialization of the US, heavy indebtedness,
+      precarious finance-oriented hegemony through dollar after abandoning the gold
+      standard; –Samuel Huntington’s ‘Clash of Civilizations’ reliance on Israel to
+      fight US proxy wars in the ME; Huntington’s ‘Clash of Civilization’ hypothesis-
+      containing Islam rather than USSR and left ideologies; Israel given a free hand
+      in the region, as well as with Palestine (liberal societies swallow severe legal/moral
+      wrongs of apartheid, genocide, ecocide); containing Islam—Iran, Hezbollah, Syria,
+      Muslim Brotherhood,  Egyptian coup; Huntington validated by 9/11 attack, Taliban,
+      ISIS, Hamas. –US state-building ‘democratizing,’ containment p.us projects: Libya,
+      Iraq (after 2003), Afghanistan, and now Venezuela; chaos, not democracy, state-destroying;
+      –The anti-apartheid campaign contra South African racism, UN support and global
+      solidarity via boycotts, divestments, sanctions; –The world order deficiencies
+      as Israel intensifies repressive apartheid policies by recourse to  Gaza genocide,
+      with West Bank spillover; discrediting of UN as weak, geopolitically neutralized,
+      and most shamefully, a unanimous endorser of the Trump Plan in the SC 1803 (Nov.
+      17, 2025), given approval by SG, formation of Board of Peace at World Economic
+      Forum, 2025; –US withdrawal from and hostility toward ‘internationalism’; started
+      the year by withdrawing participation and funding from 66 international institutional
+      arrangements-31 from within the UN System. These include the Climate Change Framework
+      Convention, WHO, UNESCO; Board of Peace as shift toward what might be called ‘imperial
+      internationalism;’ –Rise and spread of authoritarianism, decline of rule of law
+      internal to the state, from the Orban model to the rightest recent victory in
+      Chile (some friction, Brazil: Lula over Bolsonaro; Trumpism; hard borders; realignment
+      prospects. –US National Security Strategy 2025: Declaration of Imperial Internationalism
+      //Venezuelan attack //US Western Hemisphere preeminence (challenging China’s trade
+      and infrastructure diplomacy of mutual interests //rejects liberal post-Cold War
+      What Prospects for New Order –Spheres of Influence trilateralism –Imperial Internationalism
+      –End of NATO and alliance diplomacy; hard and soft power transactionalism; Europe
+      as marginalized; a new state-centric world order –Rise of Regionalism and Civilizationalism
+      (clash and alliance models) –UN Reform or Collapse: a reset to moderate geopolitical
+      influence, and restore confidence –Functional Internationalism: cooperative global
+      problem-solving mechanisms –Polycentric Balance: Bandung-revived NAM; BRICS; Chinese
+      Development Collective Framework –Revolt against international payments system
+      as tied to dollar: failure or success –Extending US Imperialism: Venezuela, Greenland,
+      Canada, Cuba, Iran; and reactions- European realignment, heightened geopolitical
+      rivalry –Important global challenges: climate change, ecological instabilities;
+      heightened risk of major wars –key national challenges: reviving democracy and
+      human rights; demilitarization and domestic investment in infrastructures, restored
+      respect for truth and rationality, internationalism, prudent geopolitics; more
+      equitable distributions of wealth and income, defeating the economics and politics
+      of inequality Concluding Remarks –a time of radical uncertainty and unparalleled
+      complexity; humility about forecasting the future; –present world order precarious,
+      unjust, militarized –nuclear hegemony as geopolitical core of managing global
+      security –transactional statism versus civilizationalism –hope, struggle, and
+      the unknowable future'
+    one_sentence_summary: The article discusses a lecture on the implications of the
+      Vietnam War for contemporary world order, emphasizing the need to recognize it
+      as "America's War in Vietnam" while reflecting on its relevance to current struggles
+      and inviting feedback for further exploration of the topic.
+    paragraph_summary: In a recent lecture delivered on January 26, 2026, as part of
+      a webinar series by the Vietnam Peace Commemoration Committee, the speaker reflects
+      on the implications of the Vietnam War for contemporary world order, emphasizing
+      the importance of understanding the conflict as "America’s War in Vietnam." The
+      discussion highlights the ongoing relevance of the Vietnam experience in the context
+      of current global challenges, including geopolitical tensions, the impact of technological
+      advancements like AI, and the socio-political climate characterized by events
+      such as the Gaza conflict and the rise of Trumpism. The speaker expresses gratitude
+      for the opportunity to engage with fellow anti-war activists and acknowledges
+      the depth of knowledge present among the audience regarding the Vietnam War and
+      its aftermath, indicating a desire for feedback to further develop these themes.
+    published: '2026-02-03T20:44:29+00:00'
+  - title: World Order After 1945, After Vietnam War, and After Second Coming of Trump
+    url: https://richardfalk.org/2026/02/03/world-order-after-1945-after-vietnam-war-and-after-second-coming-of-trump/
+    text: '[ Prefatory Note : This post elaborates upon a lecture of mine on Janurary
+      26, 2026 at a webinar in a series convened and moderated by the Vietnam Peace
+      Commemoration Committee, which has kept alive the relevance of the Vietnam experience
+      to current struggles. The invitation to me proposed the topic of ‘World Order
+      After Vietnam.’ In this modified text I devote attention to the relevance of world
+      order after 1945, as well as the Vietnam War itself, and subsequent developments
+      . One point of clarification: We speak of the Vietnam War rather glibly, which
+      glides over the crucial reality that tragic abuse of power is better understood
+      as ‘America’s War in Vietnam.’ Having noted this, I will stick by the standard
+      terminology for the sake of convenience. Feedback is particularly welcome as I
+      intend to work further on this theme. I welcome this occasion to be at virtually
+      together with comrades in the Vietnam anti-war movement, and grateful to John
+      McAiliff & Doug Hofsteter for this invitation, as well as Chris Appy who heads
+      the Ellsberg Initiative at the University of Massachusetts at Amherst for illuminating
+      and lucid comments in his role as discussant. I had my doubts as to whether I
+      could meet such a challenge. Part of my predicament in this talk recalled T.S.
+      Eliot’s words to a NYC audience at the start of a poetry reading that I attended
+      over 60 years ago: ‘I am reluctant to make any comments about my poems to an audience
+      that knows more about them than I do.’ In that vein, I realize that there are
+      many with us who have experienced the Vietnam and its aftermath with deeper experience
+      and knowledge than I bring to this challenging topic. ] We are now living through
+      a period of radical uncertainty with respect to the future of world order, an
+      atmosphere agitated by the Gaza Genocide and Trumpism, the resurgence of geopolitical
+      primacy and rivalry, prospects for radical modifications of modernity due to AI
+      and related technological innovations, a transactional and narcissistic US leadership,
+      a discredited  and weakened UN coupled with the emergence of cooperative international
+      frameworks, a divided US versus a resurgent China, and a threatening conflict
+      reality that is stimulating increased military spending, new modes of warfare,
+      danger of warfare fought with nuclear weapons. A time of world order transition
+      or rupture, from the end of the Cold War & US dominated unipolarity to a yet unknown
+      future—What does this Trump phenomenon and the Chinese rise portend for the human
+      future? I think a few brief bullet points on world order before Vietnam would
+      be helpful in giving some background to both changes and continuities relative
+      to world order after Vietnam: –World Order after WWII was designed by the winners,
+      which defeated hopes for a peace system restraining hard power militarism, in
+      accord with the precepts of political realism that understand international history
+      as largely the story of military superiority and economic inequality as expressed 
+      a favorite quote of hyper-realist through the ages, and recently by Henry Kissinger,
+      and now Stephen Miller: “the weak do what they must, the strong do what they will.”
+      Thucydides has been typically interpreted wrongly endorsing this cynical outlaw
+      whereas more careful reading of the context of this adage suggests it is a prophetic
+      warning that such Athenian corrupt behavior with respect to morality will lead
+      to its downfall. The intention, contrary to the amorality of post-Machiavellian
+      realism, was a counsel of moral self-constraint to those with power at a time
+      when the prohibitions of international law did not yet exist. –the design of the
+      UN could have worked had the winners of World War II acted with moral and now
+      legal self-restraint: permanent veto rights for the winners, criminal accountability
+      for the losers at Nuremberg, Tokyo; it is true that international law seems never
+      to have been intended to displace the geopolitical management of global security
+      by the architects of world order after 1945, but neither was its existence denied;
+      the hope then was that at least the liberal democracies of the West (US, UK, and
+      France) and their allies, would voluntarily exhibit respect for the contemporary
+      code of law and morality as embodied in the UN Charter, and thus comply with international
+      law and morality without burdening the Organization with enforcement duties that
+      would have required a superior military capability even in relation to nuclear
+      superpowers, which would have caused a different set of problems that have been
+      identified by criticisms of world federalism as the solution to peacebuilding
+      challenges. –In retrospect, we should realize that even the leadership of liberal
+      democracies could not be trusted to comply with international law or observe moral
+      values if in tension with the pursuit of strategic ambitions or the supposed requirements
+      of national security. As a result, it is understandable to blame the leading members
+      of the UN, and not the UN, for its disappointing performance in relation to global
+      security, genocide and ecocide prevention, human rights generally, and peaceful
+      resolution of international conflicts. –Cold War excesses from the outset suggest
+      wartime trust was dissipated even prior to the surrender of Germany and Japan:
+      covert regime-changing interventions displacing elected leaders: Mosaddeq in Iran
+      (1953); Arbenz in Guatemala (1954); political assassinations Lumumba, Castro Ché
+      Guevera, attempts for both ideological and economic reasons; Soviet failure to
+      hold elections in Eastern Europe and interventions to uphold the pro-Soviet status
+      quo; see James Douglass, Martyrs to the Unspeakable: Assassinations of JFK, Malcolm,
+      Martin, and RFK ( 2025) interpreting the corrupting impact of these violent killings
+      on progressive politics in the US. –death rattle of European colonialism but not
+      delegitimized by the UN Charter or among conservative elite circles. The emergence
+      of predatory globalization as legitimized by Clinton, Bush presidencies, neo-con
+      influence favoring Huntington view of Cold War Islamic threat demonized as ‘terrorism’
+      and associated with Israel’s frontline struggle against suicide bombing reaching
+      a climax in response to Hamas attack on October 7, 2023. The Pedagogy of the Vietnam
+      War –Lessons learned by US foreign policy establishment (militarized bureaucracy;
+      Think tanks)—avoid ground warfare & minimize US casualties, abolish the draft,
+      manage media discourse; technological innovations; proxy war option (Ukraine:
+      Biden-fight Russia by arming Uk & discouraging diplomatic compromise); pacify
+      citizen activism; overcame ‘Vietnam Syndrome’ in Iraq War (1991) –Peace Movement
+      failures: sedated by the ‘Vietnam Syndrome into ‘game over’ delusions, overlooking
+      systemic character of the partnering of militarism, nuclear hegemony, capitalism
+      and political leaders’ short-termism Major Developments in World Order Since the
+      Vietnam War: –Vital turning points: end of Cold War; 9/11, Al Qaeda, & Osama bin
+      Laden; Great Terror War; Iraq War and occupation, 2003; rise of & rivalry with
+      China; Ukraine War; Israel’s response to October 7; anti-woke, anti-immigrant
+      politics in liberal West; Abraham Accords and geopolitical deference of Muslim-majority
+      countries to US hegemony; reelection of Trump, 2024; inauguration of Zorhan Mamdani,
+      2026, ICE rampage, ecological and climate change neglect; global rise of authoritarianism,
+      xenophobia and ultra-right nationalism; transformative technological innovations-
+      AI, robotics, hybrid warfare. –formal defeat of European colonialism, but not
+      of colonial mentality, generating economic and security residual colonialism in
+      Africa, imperial encroachments elsewhere –US reliance on economic warfare, principally
+      through sanctions broadly applied and political destabilization; the current Iran
+      Protest Movement –end of Cold War, Berlin Wall, the Gorbachev vision of a new
+      world order & Russia’s decline, temporary withdrawal from geopolitical rivalry;
+      neoliberal globalization and the deindustrialization of the US, heavy indebtedness,
+      precarious finance-oriented hegemony through dollar after abandoning the gold
+      standard; –Samuel Huntington’s ‘Clash of Civilizations’ reliance on Israel to
+      fight US proxy wars in the ME; Huntington’s ‘Clash of Civilization’ hypothesis-
+      containing Islam rather than USSR and left ideologies; Israel given a free hand
+      in the region, as well as with Palestine (liberal societies swallow severe legal/moral
+      wrongs of apartheid, genocide, ecocide); containing Islam—Iran, Hezbollah, Syria,
+      Muslim Brotherhood,  Egyptian coup; Huntington validated by 9/11 attack, Taliban,
+      ISIS, Hamas. –US state-building ‘democratizing,’ containment p.us projects: Libya,
+      Iraq (after 2003), Afghanistan, and now Venezuela; chaos, not democracy, state-destroying;
+      –The anti-apartheid campaign contra South African racism, UN support and global
+      solidarity via boycotts, divestments, sanctions; –The world order deficiencies
+      as Israel intensifies repressive apartheid policies by recourse to  Gaza genocide,
+      with West Bank spillover; discrediting of UN as weak, geopolitically neutralized,
+      and most shamefully, a unanimous endorser of the Trump Plan in the SC 1803 (Nov.
+      17, 2025), given approval by SG, formation of Board of Peace at World Economic
+      Forum, 2025; –US withdrawal from and hostility toward ‘internationalism’; started
+      the year by withdrawing participation and funding from 66 international institutional
+      arrangements-31 from within the UN System. These include the Climate Change Framework
+      Convention, WHO, UNESCO; Board of Peace as shift toward what might be called ‘imperial
+      internationalism;’ –Rise and spread of authoritarianism, decline of rule of law
+      internal to the state, from the Orban model to the rightest recent victory in
+      Chile (some friction, Brazil: Lula over Bolsonaro; Trumpism; hard borders; realignment
+      prospects. –US National Security Strategy 2025: Declaration of Imperial Internationalism
+      //Venezuelan attack //US Western Hemisphere preeminence (challenging China’s trade
+      and infrastructure diplomacy of mutual interests //rejects liberal post-Cold War
+      What Prospects for New Order –Spheres of Influence trilateralism –Imperial Internationalism
+      –End of NATO and alliance diplomacy; hard and soft power transactionalism; Europe
+      as marginalized; a new state-centric world order –Rise of Regionalism and Civilizationalism
+      (clash and alliance models) –UN Reform or Collapse: a reset to moderate geopolitical
+      influence, and restore confidence –Functional Internationalism: cooperative global
+      problem-solving mechanisms –Polycentric Balance: Bandung-revived NAM; BRICS; Chinese
+      Development Collective Framework –Revolt against international payments system
+      as tied to dollar: failure or success –Extending US Imperialism: Venezuela, Greenland,
+      Canada, Cuba, Iran; and reactions- European realignment, heightened geopolitical
+      rivalry –Important global challenges: climate change, ecological instabilities;
+      heightened risk of major wars –key national challenges: reviving democracy and
+      human rights; demilitarization and domestic investment in infrastructures, restored
+      respect for truth and rationality, internationalism, prudent geopolitics; more
+      equitable distributions of wealth and income, defeating the economics and politics
+      of inequality Concluding Remarks –a time of radical uncertainty and unparalleled
+      complexity; humility about forecasting the future; –present world order precarious,
+      unjust, militarized –nuclear hegemony as geopolitical core of managing global
+      security –transactional statism versus civilizationalism –hope, struggle, and
+      the unknowable future'
+    one_sentence_summary: The article discusses a lecture on the implications of the
+      Vietnam War for contemporary world order, emphasizing the need to recognize it
+      as "America's War in Vietnam" while reflecting on its relevance to current struggles
+      and inviting feedback for further exploration of the topic.
+    paragraph_summary: In a recent lecture delivered on January 26, 2026, as part of
+      a webinar series by the Vietnam Peace Commemoration Committee, the speaker reflects
+      on the implications of the Vietnam War for contemporary world order, emphasizing
+      the importance of understanding the conflict as "America’s War in Vietnam." The
+      discussion highlights the ongoing relevance of the Vietnam experience in the context
+      of current global challenges, including geopolitical tensions, the impact of technological
+      advancements like AI, and the socio-political climate characterized by events
+      such as the Gaza conflict and the rise of Trumpism. The speaker expresses gratitude
+      for the opportunity to engage with fellow anti-war activists and acknowledges
+      the depth of knowledge present among the audience regarding the Vietnam War and
+      its aftermath, indicating a desire for feedback to further develop these themes.
+    published: '2026-02-03T20:44:29+00:00'
+  - title: Is a Non-UN Conflict Resolution Framework Feasible, Desirable? Trump’s Board
+      of Peace is an Obstacle and Warning
+    url: https://richardfalk.org/2026/01/29/is-a-non-un-conflict-resolution-framework-feasible-desirable-trumps-board-of-peace-is-an-obstacle-and-warning/
+    text: '[ Prefatory Note: Initially framed as questions responding to Middle East
+      journalist, Mohamed Abd Elaziz, raising question about Stage II of the Trump Plan
+      for Gaza, inaugurating the Board of Peace at the Davos World Economic Forum this
+      January. The questions raises some key issues. My assessment is that the Board
+      of Peace deserves to fail. It insults the Palestinian people, is blind to flagrant
+      violations of the Genocide Convention, and indirectly further undermines international
+      law and UN authority with respect to global security.] 1- How do you view the
+      legitimacy of establishing an independent peace council to intervene in international
+      conflicts, compared to the traditional mechanisms of the United Nations? The mechanism
+      may work in certain situation, but not if as in the Trump Plan it is slanted in
+      favor of the wrongdoers and is prejudicial to the legal rights of the aggrieved
+      and victimized party. The idea of an independent peace council could only achieve
+      legitimacy if it is mindful of the imperative of equality with respect to the
+      parties when addressing conflicts and its activities are professionally shaped
+      by their joint participation, with an eye toward determining whether part of the
+      peace council’s writ  covers potential accountability of one or both parties in
+      the form of reparation or recommendations of investigation and possible prosecution
+      for individuals seemingly involved in wrongdoing in relation to law, morality,
+      and human rights. Given the present structure of international relations, it seems
+      highly unlikely that leading states would participate and fund such an independent
+      peace council with a mission of conflict resolution as it would encroach upon
+      the traditional sovereign prerogatives with respect to strategic national interests.
+      2 – Do you believe that such initiatives could serve as leverage for UN reform?
+      It could in principle, but not in the setting of Israel/Palestine, where the partisan
+      nature of the interactive process is one that by its composition, framework, and
+      agenda rewards the perpetrators of genocide and further victimizes those who continue
+      to suffer from severe and cruel wrongdoing by Israel, the U.S, and complicit enabling
+      states. To the extent that UN affirms such an unjust initiative it brings shame
+      to the Organization as it did by the unanimous endorsement of the Trump Plan in
+      UNCR RES 2803 on January 17, 2026, and further stigmatized of the Organization
+      by the show of support for the resolution expressed by the Secretary General,
+      which included encouragement for the establishment of the misnamed Board of Peace
+      that can be more accurately identified as the Settler Colonial Peace Council.
+      At this time, it is hard to say whether the Trump Plan, especially the Board of
+      Peace by its apparent intention of marginalizing the UN, dramatized by situated
+      its inauguration at the Davos World Economic Forum rather than within the UN System
+      might generate a strong effort to engage in UN reform. This would require a considerable
+      mobilization of pressure and is risky in that might lead to the US exit, which
+      would actually play into Trump’s anti-internationalism approach that seeks to
+      heighten US transactionalism as well as geopolitical outreach. 3- What are the
+      potential risks if a peace council were to assume a larger role than the United
+      Nations in managing global crises? I have no confidence that such an independent
+      peace council could work unless free from geopolitical manipulation by the US,
+      Russia, China, and above all the US. It would need to be funded independently,
+      and its executive members determined by some process that assured selection would
+      take account of geographical, civilizational, ideological, gender diversities
+      and maybe even strived to obtain an inter-generational balance. If, and this is
+      a big if. such a peace council could become truly independent of the narcissistic
+      geopolitics of Trump it might pose a constructive challenge to transform the UN
+      as now constituted. The UN has performed disappointingly over the decades when
+      it comes to conflict resolution, the enforcement of international law, the accountability
+      of wrongdoers. This is not an accident. It should be remembered that the UN was
+      set up in a manner that protected the strategic interests of the winners of World
+      War II, as exemplified by conferring the right of veto and permanent membership
+      in the SC as a way to ensure that the UN would act in a manner hostile to their
+      perceived priorities. If a IPC could be based, staffed, and funded on the primacy
+      of justice rather than currently as a reflection of the primacy of geopolitics
+      it might displace the UN in the vital policy sphere of the management of global
+      security. It is with respect to global security that the UN has most consistently
+      failed the peoples of the world. This was illustrated dramatically, grotesquely,
+      and fundamentally, by the recent pathetic efforts of the UN to oppose the Israel/US
+      genocidal partnership that has produced the ongoing acute Palestinian ordeal.'
+    one_sentence_summary: The establishment of an independent peace council, as proposed
+      in the Trump Plan for Gaza, is viewed as illegitimate and detrimental to international
+      law and the rights of the Palestinian people, as it favors wrongdoers and undermines
+      established mechanisms like the United Nations.
+    paragraph_summary: The article critiques the establishment of the Board of Peace
+      as part of the Trump Plan for Gaza, arguing that it undermines the rights of the
+      Palestinian people and violates international law, particularly the Genocide Convention.
+      It questions the legitimacy of an independent peace council in resolving international
+      conflicts, suggesting that such a council could only be effective if it treats
+      all parties equally and addresses accountability for wrongdoing. However, the
+      author expresses skepticism about the likelihood of major states supporting such
+      a council, as it would challenge their national interests. Furthermore, while
+      the initiative could theoretically prompt UN reform, the deeply partisan nature
+      of the Israel-Palestine conflict makes this unlikely. Overall, the author believes
+      the Board of Peace is destined to fail due to its biased framework.
+    published: '2026-01-30T01:09:05+00:00'
+  - title: Is a Non-UN Conflict Resolution Framework Feasible, Desirable? Trump’s Board
+      of Peace is an Obstacle and Warning
+    url: https://richardfalk.org/2026/01/29/is-a-non-un-conflict-resolution-framework-feasible-desirable-trumps-board-of-peace-is-an-obstacle-and-warning/
+    text: '[ Prefatory Note: Initially framed as questions responding to Middle East
+      journalist, Mohamed Abd Elaziz, raising question about Stage II of the Trump Plan
+      for Gaza, inaugurating the Board of Peace at the Davos World Economic Forum this
+      January. The questions raises some key issues. My assessment is that the Board
+      of Peace deserves to fail. It insults the Palestinian people, is blind to flagrant
+      violations of the Genocide Convention, and indirectly further undermines international
+      law and UN authority with respect to global security.] 1- How do you view the
+      legitimacy of establishing an independent peace council to intervene in international
+      conflicts, compared to the traditional mechanisms of the United Nations? The mechanism
+      may work in certain situation, but not if as in the Trump Plan it is slanted in
+      favor of the wrongdoers and is prejudicial to the legal rights of the aggrieved
+      and victimized party. The idea of an independent peace council could only achieve
+      legitimacy if it is mindful of the imperative of equality with respect to the
+      parties when addressing conflicts and its activities are professionally shaped
+      by their joint participation, with an eye toward determining whether part of the
+      peace council’s writ  covers potential accountability of one or both parties in
+      the form of reparation or recommendations of investigation and possible prosecution
+      for individuals seemingly involved in wrongdoing in relation to law, morality,
+      and human rights. Given the present structure of international relations, it seems
+      highly unlikely that leading states would participate and fund such an independent
+      peace council with a mission of conflict resolution as it would encroach upon
+      the traditional sovereign prerogatives with respect to strategic national interests.
+      2 – Do you believe that such initiatives could serve as leverage for UN reform?
+      It could in principle, but not in the setting of Israel/Palestine, where the partisan
+      nature of the interactive process is one that by its composition, framework, and
+      agenda rewards the perpetrators of genocide and further victimizes those who continue
+      to suffer from severe and cruel wrongdoing by Israel, the U.S, and complicit enabling
+      states. To the extent that UN affirms such an unjust initiative it brings shame
+      to the Organization as it did by the unanimous endorsement of the Trump Plan in
+      UNCR RES 2803 on January 17, 2026, and further stigmatized of the Organization
+      by the show of support for the resolution expressed by the Secretary General,
+      which included encouragement for the establishment of the misnamed Board of Peace
+      that can be more accurately identified as the Settler Colonial Peace Council.
+      At this time, it is hard to say whether the Trump Plan, especially the Board of
+      Peace by its apparent intention of marginalizing the UN, dramatized by situated
+      its inauguration at the Davos World Economic Forum rather than within the UN System
+      might generate a strong effort to engage in UN reform. This would require a considerable
+      mobilization of pressure and is risky in that might lead to the US exit, which
+      would actually play into Trump’s anti-internationalism approach that seeks to
+      heighten US transactionalism as well as geopolitical outreach. 3- What are the
+      potential risks if a peace council were to assume a larger role than the United
+      Nations in managing global crises? I have no confidence that such an independent
+      peace council could work unless free from geopolitical manipulation by the US,
+      Russia, China, and above all the US. It would need to be funded independently,
+      and its executive members determined by some process that assured selection would
+      take account of geographical, civilizational, ideological, gender diversities
+      and maybe even strived to obtain an inter-generational balance. If, and this is
+      a big if. such a peace council could become truly independent of the narcissistic
+      geopolitics of Trump it might pose a constructive challenge to transform the UN
+      as now constituted. The UN has performed disappointingly over the decades when
+      it comes to conflict resolution, the enforcement of international law, the accountability
+      of wrongdoers. This is not an accident. It should be remembered that the UN was
+      set up in a manner that protected the strategic interests of the winners of World
+      War II, as exemplified by conferring the right of veto and permanent membership
+      in the SC as a way to ensure that the UN would act in a manner hostile to their
+      perceived priorities. If a IPC could be based, staffed, and funded on the primacy
+      of justice rather than currently as a reflection of the primacy of geopolitics
+      it might displace the UN in the vital policy sphere of the management of global
+      security. It is with respect to global security that the UN has most consistently
+      failed the peoples of the world. This was illustrated dramatically, grotesquely,
+      and fundamentally, by the recent pathetic efforts of the UN to oppose the Israel/US
+      genocidal partnership that has produced the ongoing acute Palestinian ordeal.'
+    one_sentence_summary: The establishment of an independent peace council, as proposed
+      in the Trump Plan for Gaza, is viewed as illegitimate and detrimental to international
+      law and the rights of the Palestinian people, as it favors wrongdoers and undermines
+      established mechanisms like the United Nations.
+    paragraph_summary: The article critiques the establishment of the Board of Peace
+      as part of the Trump Plan for Gaza, arguing that it undermines the rights of the
+      Palestinian people and violates international law, particularly the Genocide Convention.
+      It questions the legitimacy of an independent peace council in resolving international
+      conflicts, suggesting that such a council could only be effective if it treats
+      all parties equally and addresses accountability for wrongdoing. However, the
+      author expresses skepticism about the likelihood of major states supporting such
+      a council, as it would challenge their national interests. Furthermore, while
+      the initiative could theoretically prompt UN reform, the deeply partisan nature
+      of the Israel-Palestine conflict makes this unlikely. Overall, the author believes
+      the Board of Peace is destined to fail due to its biased framework.
+    published: '2026-01-30T01:09:05+00:00'
   - title: The US Military Operation in Venezuela and the Management of Global Security
     url: https://richardfalk.org/2026/01/23/5057/
     text: '[Prefatory Note: A revised, modified, and updated text of my opinion piece
