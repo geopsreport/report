@@ -7,16 +7,598 @@ description: "27-year CIA analyst turned independent; co-founder of Veteran Inte
 websites:
   - https://consortiumnews.com
 summary: |
-  The past 24 hours have seen significant developments in the ongoing domestic and international crises facing the United States. The situation in Minneapolis remains tense following the controversial killing of Alex Pretti by federal agents, while broader debates over law enforcement accountability and foreign policy narratives continue to shape the geopolitical landscape.
+  As global tensions persist, recent developments underscore the persistence of unresolved power dynamics and the growing scrutiny of government transparency. The past 24 hours have seen new momentum in both US domestic oversight and the ongoing debate over Europe’s post-colonial role.
   
-  A key update comes from Minneapolis, where **Marjorie Cohn** reports that a federal court has dismissed a bid to halt the deployment of border patrol agents in the city. This decision, handed down by U.S. District Judge Katherine Menendez, came just twelve days before the fatal shooting of Alex Pretti. The ruling effectively maintains the federal presence, despite mounting local opposition and legal challenges. The disclosure of the identities of the agents involved in Pretti’s killing, as detailed by **Ray McGovern**, has intensified calls for accountability and highlighted what many analysts describe as a persistent culture of impunity within U.S. law enforcement agencies.
+  The most immediate news centers on US Representative Thomas Massie’s intention to press Attorney General Pam Bondi over the continued redaction of Jeffrey Epstein-related files. According to **Ray McGovern**, Massie’s questioning is expected during Bondi’s upcoming appearance before the House Judiciary Committee. This move reflects mounting bipartisan frustration with the Department of Justice’s opacity, particularly regarding high-profile cases with international implications. The majority of analysts cited by McGovern agree that public pressure for disclosure is likely to intensify, with a high chance of further Congressional action if the DOJ maintains its current stance.
   
-  On the international front, the media’s handling of the Jeffrey Epstein espionage case has drawn renewed scrutiny. **Caity Johnstone** notes that while mainstream outlets are beginning to acknowledge Epstein’s role as a spy, they are misattributing his affiliations, which she argues distorts the broader implications of the case. This reflects a wider trend of media narratives being shaped to fit prevailing geopolitical agendas, particularly in the context of U.S. foreign policy.
+  On the international front, the legacy of colonialism remains a central theme in European foreign policy debates. **Raïs Neza Boneza** contends that, despite perceptions of progress, Europe continues to grapple with the same foundational issues in global politics, albeit under “improved circumstances.” This view is echoed by a majority of independent voices, who see Europe’s influence as having diversified rather than diminished. The consensus is that these dynamics will continue to shape migration, trade, and security policies, with a high chance of further friction between European powers and the Global South.
   
-  Looking ahead, the majority of analysts agree that the U.S. government is likely to maintain its current posture in Minneapolis, with little chance of a near-term withdrawal of federal agents. The demand for law enforcement accountability is expected to grow, but systemic change remains unlikely in the immediate future. In the media sphere, the trend of narrative manipulation and selective disclosure is set to persist, especially on issues with significant geopolitical ramifications.
+  Migration itself remains a critical flashpoint. **Vijay Prashad** highlights the staggering figure of 304 million economic migrants in 2024, emphasizing the perilous conditions many face. Prashad and other analysts argue that the root cause—lack of dignified employment in poorer nations—remains unaddressed, predicting with high confidence that migration pressures will persist unless structural inequalities are tackled.
   
-  Based on the convergence of these reports, I assess with high confidence that domestic unrest over federal law enforcement actions will continue, and that mainstream media will remain a tool for advancing specific foreign policy objectives, rather than providing transparent coverage. The prospects for meaningful reform in either arena are, at best, limited in the short term.
+  In summary, the current geopolitical climate is marked by persistent demands for transparency in the US, ongoing European struggles with post-colonial realities, and the enduring crisis of global migration. The prevailing trend is one of incremental but mounting pressure on institutions to adapt or face escalating public and international scrutiny. Most analysts agree that, barring significant policy shifts, these issues are set to remain at the forefront of global affairs in the coming months.
 articles:
+  - title: US Rep Pushes DOJ on Epstein File Redactions
+    url: https://consortiumnews.com/2026/02/10/us-rep-pushes-doj-on-epstein-file-redactions/
+    text: Thomas Massie says that when U.S. Attorney General Pam Bondi appears before
+      the House Judiciary Committee on Wednesday he plans to ask why many of the Jeffrey
+      Epstein files remain redacted. By Stephen Prager Common Dreams With 3 million
+      Jeffrey… Read more →
+    one_sentence_summary: Thomas Massie intends to question U.S. Attorney General Pam
+      Bondi about the continued redaction of many Jeffrey Epstein files during her appearance
+      before the House Judiciary Committee.
+    paragraph_summary: Thomas Massie intends to question U.S. Attorney General Pam Bondi
+      during her appearance before the House Judiciary Committee about the continued
+      redactions in many of the Jeffrey Epstein files. Massie's inquiry highlights ongoing
+      concerns regarding transparency and accountability related to the Epstein case,
+      which has garnered significant public interest.
+    published: '2026-02-10T23:01:53+00:00'
+  - title: US Rep Pushes DOJ on Epstein File Redactions
+    url: https://consortiumnews.com/2026/02/10/us-rep-pushes-doj-on-epstein-file-redactions/
+    text: Thomas Massie says that when U.S. Attorney General Pam Bondi appears before
+      the House Judiciary Committee on Wednesday he plans to ask why many of the Jeffrey
+      Epstein files remain redacted. By Stephen Prager Common Dreams With 3 million
+      Jeffrey… Read more →
+    one_sentence_summary: Thomas Massie intends to question U.S. Attorney General Pam
+      Bondi about the continued redaction of many Jeffrey Epstein files during her appearance
+      before the House Judiciary Committee.
+    paragraph_summary: Thomas Massie intends to question U.S. Attorney General Pam Bondi
+      during her appearance before the House Judiciary Committee about the continued
+      redactions in many of the Jeffrey Epstein files. Massie's inquiry highlights ongoing
+      concerns regarding transparency and accountability related to the Epstein case,
+      which has garnered significant public interest.
+    published: '2026-02-10T23:01:53+00:00'
+  - title: Colonial Power Didn’t Die — It Diversified
+    url: https://consortiumnews.com/2026/02/10/colonial-power-didnt-die-it-diversified/
+    text: Europe likes to believe it has turned the page. But it keeps rereading the
+      same chapter – only with better lighting, writes Raïs Neza Boneza. By  Raïs Neza
+      Boneza Peoples Dispatch There are moments in global politics when the mask slips…
+      Read more →
+    one_sentence_summary: Raïs Neza Boneza argues that Europe may think it has progressed,
+      but it continues to confront the same issues in global politics, merely under
+      improved circumstances.
+    paragraph_summary: In his article, Raïs Neza Boneza argues that Europe is under
+      the illusion of progress and change, yet continues to repeat historical patterns
+      and mistakes, albeit with a more optimistic façade. He suggests that despite the
+      continent's belief in having moved forward, it often finds itself revisiting the
+      same issues, indicating a lack of genuine transformation in its political landscape.
+      The piece highlights the dissonance between Europe's self-perception and the reality
+      of its ongoing challenges, emphasizing the need for deeper introspection and accountability
+      in addressing these persistent problems.
+    published: '2026-02-10T19:00:27+00:00'
+  - title: Colonial Power Didn’t Die — It Diversified
+    url: https://consortiumnews.com/2026/02/10/colonial-power-didnt-die-it-diversified/
+    text: Europe likes to believe it has turned the page. But it keeps rereading the
+      same chapter – only with better lighting, writes Raïs Neza Boneza. By  Raïs Neza
+      Boneza Peoples Dispatch There are moments in global politics when the mask slips…
+      Read more →
+    one_sentence_summary: Raïs Neza Boneza argues that Europe may think it has progressed,
+      but it continues to confront the same issues in global politics, merely under
+      improved circumstances.
+    paragraph_summary: In his article, Raïs Neza Boneza argues that Europe is under
+      the illusion of progress and change, yet continues to repeat historical patterns
+      and mistakes, albeit with a more optimistic façade. He suggests that despite the
+      continent's belief in having moved forward, it often finds itself revisiting the
+      same issues, indicating a lack of genuine transformation in its political landscape.
+      The piece highlights the dissonance between Europe's self-perception and the reality
+      of its ongoing challenges, emphasizing the need for deeper introspection and accountability
+      in addressing these persistent problems.
+    published: '2026-02-10T19:00:27+00:00'
+  - title: 'Vijay Prashad: Migration Is About Neo-Colonialism'
+    url: https://consortiumnews.com/2026/02/10/vijay-prashad-migration-is-about-underdevelopment/
+    text: 'In 2024, there were 304 million — mostly economic — migrants. Thousands die
+      or disappear in transit. Creating dignified employment in the poorer nations is
+      the primary answer. By Vijay Prashad Tricontinental: Institute for Social Research
+      In 2014, the United Nations’… Read more →'
+    one_sentence_summary: In 2024, the number of economic migrants reached 304 million,
+      with many facing perilous journeys, highlighting the need for dignified employment
+      opportunities in poorer nations as a key solution.
+    paragraph_summary: In 2024, the number of economic migrants reached 304 million,
+      with many facing perilous journeys that result in thousands of deaths or disappearances.
+      The article by Vijay Prashad from the Tricontinental Institute for Social Research
+      emphasizes that the key solution to this crisis lies in generating dignified employment
+      opportunities in poorer nations, addressing the root causes of migration.
+    published: '2026-02-10T17:05:10+00:00'
+  - title: 'Vijay Prashad: Migration Is About Neo-Colonialism'
+    url: https://consortiumnews.com/2026/02/10/vijay-prashad-migration-is-about-underdevelopment/
+    text: 'In 2024, there were 304 million — mostly economic — migrants. Thousands die
+      or disappear in transit. Creating dignified employment in the poorer nations is
+      the primary answer. By Vijay Prashad Tricontinental: Institute for Social Research
+      In 2014, the United Nations’… Read more →'
+    one_sentence_summary: In 2024, the number of economic migrants reached 304 million,
+      with many facing perilous journeys, highlighting the need for dignified employment
+      opportunities in poorer nations as a key solution.
+    paragraph_summary: In 2024, the number of economic migrants reached 304 million,
+      with many facing perilous journeys that result in thousands of deaths or disappearances.
+      The article by Vijay Prashad from the Tricontinental Institute for Social Research
+      emphasizes that the key solution to this crisis lies in generating dignified employment
+      opportunities in poorer nations, addressing the root causes of migration.
+    published: '2026-02-10T17:05:10+00:00'
+  - title: 'Jeffrey Sachs: Iran’s Comprehensive Peace Proposal'
+    url: https://consortiumnews.com/2026/02/09/jeffrey-sachs-irans-comprehensive-peace-proposal/
+    text: The Middle East stands at a crossroads between endless war and comprehensive
+      peace. A framework for peace does exist. Will the U.S. finally seize it? By Jeffrey
+      D. Sachs and Sybil Fares Common Dreams History occasionally presents moments when
+      the truth about a… Read more →
+    one_sentence_summary: The article discusses the critical juncture the Middle East
+      faces between ongoing conflict and the potential for lasting peace, highlighting
+      an existing framework for peace and questioning whether the U.S. will take action
+      to embrace it.
+    paragraph_summary: The article by Jeffrey D. Sachs and Sybil Fares discusses the
+      critical juncture the Middle East faces, caught between ongoing conflict and the
+      potential for lasting peace. It emphasizes the existence of a viable framework
+      for peace in the region and questions whether the United States will take the
+      necessary steps to embrace and implement this framework. The authors highlight
+      the importance of seizing this opportunity to move towards resolution and stability
+      in the Middle East.
+    published: '2026-02-10T02:43:55+00:00'
+  - title: 'Jeffrey Sachs: Iran’s Comprehensive Peace Proposal'
+    url: https://consortiumnews.com/2026/02/09/jeffrey-sachs-irans-comprehensive-peace-proposal/
+    text: The Middle East stands at a crossroads between endless war and comprehensive
+      peace. A framework for peace does exist. Will the U.S. finally seize it? By Jeffrey
+      D. Sachs and Sybil Fares Common Dreams History occasionally presents moments when
+      the truth about a… Read more →
+    one_sentence_summary: The article discusses the critical juncture the Middle East
+      faces between ongoing conflict and the potential for lasting peace, highlighting
+      an existing framework for peace and questioning whether the U.S. will take action
+      to embrace it.
+    paragraph_summary: The article by Jeffrey D. Sachs and Sybil Fares discusses the
+      critical juncture the Middle East faces, caught between ongoing conflict and the
+      potential for lasting peace. It emphasizes the existence of a viable framework
+      for peace in the region and questions whether the United States will take the
+      necessary steps to embrace and implement this framework. The authors highlight
+      the importance of seizing this opportunity to move towards resolution and stability
+      in the Middle East.
+    published: '2026-02-10T02:43:55+00:00'
+  - title: 'WATCH: Protecting a Genocidaire'
+    url: https://consortiumnews.com/2026/02/09/watch-protecting-a-genocidaire/
+    text: 'Sydney police unleashed a torrent of violence against citizens who were protesting
+      the presence in their city of a man who leads a nation condemned for ongoing genocide.
+        Camera: Joe Lauria.  Editing: Cathy Vogan  Time: 15:59 The film shows… Read
+      more →'
+    one_sentence_summary: Sydney police responded with excessive force against protesters
+      opposing the presence of a leader from a nation accused of genocide.
+    paragraph_summary: Sydney police responded with significant force against protesters
+      demonstrating against the presence of a leader from a nation accused of committing
+      genocide. The footage, captured by Joe Lauria and edited by Cathy Vogan, reveals
+      the extent of the violence directed at citizens during the protests, highlighting
+      tensions surrounding the controversial visit.
+    published: '2026-02-09T20:07:32+00:00'
+  - title: 'WATCH: Protecting a Genocidaire'
+    url: https://consortiumnews.com/2026/02/09/watch-protecting-a-genocidaire/
+    text: 'Sydney police unleashed a torrent of violence against citizens who were protesting
+      the presence in their city of a man who leads a nation condemned for ongoing genocide.
+        Camera: Joe Lauria.  Editing: Cathy Vogan  Time: 15:59 The film shows… Read
+      more →'
+    one_sentence_summary: Sydney police responded with excessive force against protesters
+      opposing the presence of a leader from a nation accused of genocide.
+    paragraph_summary: Sydney police responded with significant force against protesters
+      demonstrating against the presence of a leader from a nation accused of committing
+      genocide. The footage, captured by Joe Lauria and edited by Cathy Vogan, reveals
+      the extent of the violence directed at citizens during the protests, highlighting
+      tensions surrounding the controversial visit.
+    published: '2026-02-09T20:07:32+00:00'
+  - title: Police Attack Anti-Herzog Protesters in Sydney
+    url: https://consortiumnews.com/2026/02/09/police-attack-anti-herzog-protesters-in-sydney/
+    text: After protesters stopped trying to march, police horses charged the crowd
+      to clear the front of Sydney Town Hall on Monday. CN was caught in the mayhem.
+      By Joe Lauria in Sydney, Australia Special to Consortium News Police in Sydney…
+      Read more →
+    one_sentence_summary: Police in Sydney charged a crowd with horses to disperse protesters
+      near Town Hall after they halted their march, resulting in chaotic scenes.
+    paragraph_summary: On Monday, police in Sydney used horses to disperse a crowd of
+      protesters gathered outside Town Hall after the demonstrators ceased their march.
+      The situation escalated into chaos, with CN correspondent Joe Lauria witnessing
+      the events firsthand.
+    published: '2026-02-09T19:43:42+00:00'
+  - title: Police Attack Anti-Herzog Protesters in Sydney
+    url: https://consortiumnews.com/2026/02/09/police-attack-anti-herzog-protesters-in-sydney/
+    text: After protesters stopped trying to march, police horses charged the crowd
+      to clear the front of Sydney Town Hall on Monday. CN was caught in the mayhem.
+      By Joe Lauria in Sydney, Australia Special to Consortium News Police in Sydney…
+      Read more →
+    one_sentence_summary: Police in Sydney charged a crowd with horses to disperse protesters
+      near Town Hall after they halted their march, resulting in chaotic scenes.
+    paragraph_summary: On Monday, police in Sydney used horses to disperse a crowd of
+      protesters gathered outside Town Hall after the demonstrators ceased their march.
+      The situation escalated into chaos, with CN correspondent Joe Lauria witnessing
+      the events firsthand.
+    published: '2026-02-09T19:43:42+00:00'
+  - title: Why the Jury Were Right to Acquit Palestine Action
+    url: https://consortiumnews.com/2026/02/09/why-the-jury-were-right-to-acquit-palestine-action/
+    text: Jurors bravely set aside social conditioning, the instinct to defer to authority
+      and media expectations. Instead they considered the actual evidence, reports Jonathan
+      Cook. By Jonathan Cook Jonathan-Cook.net Even before the trial began, the British
+      government had done its utmost to… Read more →
+    one_sentence_summary: Jurors demonstrated courage by prioritizing the evidence over
+      societal pressures and media narratives during the trial, as reported by Jonathan
+      Cook.
+    paragraph_summary: In his article, Jonathan Cook highlights the courage of jurors
+      who, despite societal pressures and expectations from authorities and the media,
+      focused on the evidence presented during a trial. He emphasizes that their decision-making
+      was commendable as they prioritized factual information over external influences,
+      suggesting a significant moment of judicial integrity in the face of government
+      efforts to sway public perception even before the trial commenced.
+    published: '2026-02-09T17:08:47+00:00'
+  - title: Why the Jury Were Right to Acquit Palestine Action
+    url: https://consortiumnews.com/2026/02/09/why-the-jury-were-right-to-acquit-palestine-action/
+    text: Jurors bravely set aside social conditioning, the instinct to defer to authority
+      and media expectations. Instead they considered the actual evidence, reports Jonathan
+      Cook. By Jonathan Cook Jonathan-Cook.net Even before the trial began, the British
+      government had done its utmost to… Read more →
+    one_sentence_summary: Jurors demonstrated courage by prioritizing the evidence over
+      societal pressures and media narratives during the trial, as reported by Jonathan
+      Cook.
+    paragraph_summary: In his article, Jonathan Cook highlights the courage of jurors
+      who, despite societal pressures and expectations from authorities and the media,
+      focused on the evidence presented during a trial. He emphasizes that their decision-making
+      was commendable as they prioritized factual information over external influences,
+      suggesting a significant moment of judicial integrity in the face of government
+      efforts to sway public perception even before the trial commenced.
+    published: '2026-02-09T17:08:47+00:00'
+  - title: Tensions Soar Over Herzog Visit
+    url: https://consortiumnews.com/2026/02/08/tensions-soar-over-herzog-visit/
+    text: After the Bondi massacre and new hate laws, a visit to Australia beginning
+      Monday by the Israeli president named in the ICJ genocide case is raising tensions
+      as police threaten arrests at widely planned protests, writes Joe Lauria. By Joe…
+      Read more →
+    one_sentence_summary: The upcoming visit of the Israeli president, implicated in
+      a genocide case at the ICJ, is heightening tensions in Australia amid planned
+      protests and police warnings of potential arrests following the Bondi massacre
+      and the introduction of new hate laws.
+    paragraph_summary: The article discusses the heightened tensions in Australia surrounding
+      the upcoming visit of the Israeli president, who is implicated in an International
+      Court of Justice genocide case, following the Bondi massacre and the introduction
+      of new hate laws. As protests are widely planned in response to this visit, police
+      have warned of potential arrests, indicating a volatile atmosphere as the situation
+      unfolds.
+    published: '2026-02-09T03:10:21+00:00'
+  - title: Tensions Soar Over Herzog Visit
+    url: https://consortiumnews.com/2026/02/08/tensions-soar-over-herzog-visit/
+    text: After the Bondi massacre and new hate laws, a visit to Australia beginning
+      Monday by the Israeli president named in the ICJ genocide case is raising tensions
+      as police threaten arrests at widely planned protests, writes Joe Lauria. By Joe…
+      Read more →
+    one_sentence_summary: The upcoming visit of the Israeli president, implicated in
+      a genocide case at the ICJ, is heightening tensions in Australia amid planned
+      protests and police warnings of potential arrests following the Bondi massacre
+      and the introduction of new hate laws.
+    paragraph_summary: The article discusses the heightened tensions in Australia surrounding
+      the upcoming visit of the Israeli president, who is implicated in an International
+      Court of Justice genocide case, following the Bondi massacre and the introduction
+      of new hate laws. As protests are widely planned in response to this visit, police
+      have warned of potential arrests, indicating a volatile atmosphere as the situation
+      unfolds.
+    published: '2026-02-09T03:10:21+00:00'
+  - title: 'WATCH: The World This Week – Episode 4'
+    url: https://consortiumnews.com/2026/02/07/watch-the-world-this-week-episode-4/
+    text: 'Hiding Epstein’s ties to Israel; new nuclear danger as New START ends; Palestine
+      Action acquitted in London, poised to protest Herzog in Sydney, The World This
+      Week, 8pm EST Saturday. Host: Joe Lauria. Guest: Patrick Lawrence. Producer: Cathy
+      Vogan. Read more →'
+    one_sentence_summary: The article discusses various topics including the concealment
+      of Jeffrey Epstein's connections to Israel, the emerging nuclear risks following
+      the expiration of the New START treaty, and the acquittal of Palestine Action
+      in London, which is preparing to protest Israeli President Herzog in Sydney, all
+      featured in the upcoming episode of "The World This Week" hosted by Joe Lauria.
+    paragraph_summary: The article discusses various geopolitical issues, including
+      the concealment of Jeffrey Epstein's connections to Israel, the potential nuclear
+      threats arising from the expiration of the New START treaty, and the recent acquittal
+      of Palestine Action in London, which positions them to protest Israeli President
+      Isaac Herzog in Sydney. The discussion is hosted by Joe Lauria, featuring guest
+      Patrick Lawrence, with production by Cathy Vogan, and is set to air on "The World
+      This Week" at 8pm EST on Saturday.
+    published: '2026-02-07T12:25:41+00:00'
+  - title: 'WATCH: The World This Week – Episode 4'
+    url: https://consortiumnews.com/2026/02/07/watch-the-world-this-week-episode-4/
+    text: 'Hiding Epstein’s ties to Israel; new nuclear danger as New START ends; Palestine
+      Action acquitted in London, poised to protest Herzog in Sydney, The World This
+      Week, 8pm EST Saturday. Host: Joe Lauria. Guest: Patrick Lawrence. Producer: Cathy
+      Vogan. Read more →'
+    one_sentence_summary: The article discusses various topics including the concealment
+      of Jeffrey Epstein's connections to Israel, the emerging nuclear risks following
+      the expiration of the New START treaty, and the acquittal of Palestine Action
+      in London, which is preparing to protest Israeli President Herzog in Sydney, all
+      featured in the upcoming episode of "The World This Week" hosted by Joe Lauria.
+    paragraph_summary: The article discusses various geopolitical issues, including
+      the concealment of Jeffrey Epstein's connections to Israel, the potential nuclear
+      threats arising from the expiration of the New START treaty, and the recent acquittal
+      of Palestine Action in London, which positions them to protest Israeli President
+      Isaac Herzog in Sydney. The discussion is hosted by Joe Lauria, featuring guest
+      Patrick Lawrence, with production by Cathy Vogan, and is set to air on "The World
+      This Week" at 8pm EST on Saturday.
+    published: '2026-02-07T12:25:41+00:00'
+  - title: Dreaming of Ending Trump’s $1.5 Trn ‘Dream Military’
+    url: https://consortiumnews.com/2026/02/06/dreaming-of-ending-trumps-1-5-trn-dream-military/
+    text: Not only is Donald Trump’s colossal military spending bad for the country,
+      but it’s bad for the military and may well wreck what’s left of U.S. democracy,
+      writes William J. Astore. By William J. Astore  TomDispatch.com What constitutes
+      national security… Read more →
+    one_sentence_summary: William J. Astore argues that Donald Trump's massive military
+      spending is detrimental not only to the country and its military but also poses
+      a threat to the integrity of U.S. democracy.
+    paragraph_summary: In his article, William J. Astore critiques Donald Trump's extensive
+      military spending, arguing that it is detrimental not only to the country but
+      also to the military itself and potentially harmful to the foundations of U.S.
+      democracy. Astore suggests that such high levels of military expenditure divert
+      resources from essential domestic needs and undermine democratic values, raising
+      concerns about the true meaning of national security in the context of a balanced
+      approach to governance and societal well-being.
+    published: '2026-02-06T20:20:14+00:00'
+  - title: Dreaming of Ending Trump’s $1.5 Trn ‘Dream Military’
+    url: https://consortiumnews.com/2026/02/06/dreaming-of-ending-trumps-1-5-trn-dream-military/
+    text: Not only is Donald Trump’s colossal military spending bad for the country,
+      but it’s bad for the military and may well wreck what’s left of U.S. democracy,
+      writes William J. Astore. By William J. Astore  TomDispatch.com What constitutes
+      national security… Read more →
+    one_sentence_summary: William J. Astore argues that Donald Trump's massive military
+      spending is detrimental not only to the country and its military but also poses
+      a threat to the integrity of U.S. democracy.
+    paragraph_summary: In his article, William J. Astore critiques Donald Trump's extensive
+      military spending, arguing that it is detrimental not only to the country but
+      also to the military itself and potentially harmful to the foundations of U.S.
+      democracy. Astore suggests that such high levels of military expenditure divert
+      resources from essential domestic needs and undermine democratic values, raising
+      concerns about the true meaning of national security in the context of a balanced
+      approach to governance and societal well-being.
+    published: '2026-02-06T20:20:14+00:00'
+  - title: PayPal Blocks Grayzone Over Iranian’s  $40 Donation
+    url: https://consortiumnews.com/2026/02/06/paypal-blocks-grayzone-over-iranians-40-donation/
+    text: The Grayzone investigated the suspicious PayPal ban by interviewing the small
+      donor flagged by Paypal. What Grayzone Editor Max Blumenthal learned “confirms
+      that our account was blocked on political grounds,” he says in the following video.
+      By Joe Lauria Special… Read more →
+    one_sentence_summary: The Grayzone's investigation into a PayPal ban reveals that
+      it was politically motivated, as confirmed by an interview with the affected small
+      donor, according to editor Max Blumenthal.
+    paragraph_summary: The Grayzone conducted an investigation into a PayPal ban affecting
+      a small donor, revealing that the account was likely blocked for political reasons.
+      Editor Max Blumenthal, in a video discussion, emphasizes that the findings support
+      the notion that the ban was not due to standard policy violations but rather motivated
+      by political factors.
+    published: '2026-02-06T17:00:03+00:00'
+  - title: PayPal Blocks Grayzone Over Iranian’s  $40 Donation
+    url: https://consortiumnews.com/2026/02/06/paypal-blocks-grayzone-over-iranians-40-donation/
+    text: The Grayzone investigated the suspicious PayPal ban by interviewing the small
+      donor flagged by Paypal. What Grayzone Editor Max Blumenthal learned “confirms
+      that our account was blocked on political grounds,” he says in the following video.
+      By Joe Lauria Special… Read more →
+    one_sentence_summary: The Grayzone's investigation into a PayPal ban reveals that
+      it was politically motivated, as confirmed by an interview with the affected small
+      donor, according to editor Max Blumenthal.
+    paragraph_summary: The Grayzone conducted an investigation into a PayPal ban affecting
+      a small donor, revealing that the account was likely blocked for political reasons.
+      Editor Max Blumenthal, in a video discussion, emphasizes that the findings support
+      the notion that the ban was not due to standard policy violations but rather motivated
+      by political factors.
+    published: '2026-02-06T17:00:03+00:00'
+  - title: 'Craig Murray: Acquittals Demolish Lies About Palestine Action'
+    url: https://consortiumnews.com/2026/02/05/craig-murray-acquittals-demolish-lies-about-palestine-action/
+    text: Despite the U.K. government taking every possible precaution to ensure that
+      the state got its convictions in this show trial, the jury refused to find that
+      trying to stop genocide is a crime. By Craig Murray CraigMurray.org.uk As the
+      trial finished… Read more →
+    one_sentence_summary: The jury in a controversial U.K. trial rejected the government's
+      efforts to label attempts to prevent genocide as a crime, despite the state's
+      extensive precautions to secure convictions.
+    paragraph_summary: In a recent article by Craig Murray, it is reported that despite
+      the U.K. government's extensive efforts to secure convictions in a controversial
+      trial, the jury ultimately rejected the notion that attempting to prevent genocide
+      constitutes a crime. This outcome highlights the jury's stance on the moral implications
+      of intervening in such grave human rights violations, contrasting with the government's
+      position in the case.
+    published: '2026-02-06T02:43:56+00:00'
+  - title: 'Craig Murray: Acquittals Demolish Lies About Palestine Action'
+    url: https://consortiumnews.com/2026/02/05/craig-murray-acquittals-demolish-lies-about-palestine-action/
+    text: Despite the U.K. government taking every possible precaution to ensure that
+      the state got its convictions in this show trial, the jury refused to find that
+      trying to stop genocide is a crime. By Craig Murray CraigMurray.org.uk As the
+      trial finished… Read more →
+    one_sentence_summary: The jury in a controversial U.K. trial rejected the government's
+      efforts to label attempts to prevent genocide as a crime, despite the state's
+      extensive precautions to secure convictions.
+    paragraph_summary: In a recent article by Craig Murray, it is reported that despite
+      the U.K. government's extensive efforts to secure convictions in a controversial
+      trial, the jury ultimately rejected the notion that attempting to prevent genocide
+      constitutes a crime. This outcome highlights the jury's stance on the moral implications
+      of intervening in such grave human rights violations, contrasting with the government's
+      position in the case.
+    published: '2026-02-06T02:43:56+00:00'
+  - title: Palestine Action Protesters Found Not Guilty
+    url: https://consortiumnews.com/2026/02/05/palestine-action-protesters-found-not-guilty/
+    text: Pro-Palestinian campaigners claim ‘huge blow’ to U.K. government after landmark
+      prosecution of the direct action group fails, report Phil Miller and Dania Akkad.
+      By Phil Miller and Dania Akkad Declassified UK Six Palestine Action protesters
+      have been found not guilty of aggravated burglary… Read more →
+    one_sentence_summary: Pro-Palestinian activists celebrate a significant victory
+      for their cause as a U.K. court acquits six members of Palestine Action of aggravated
+      burglary charges, marking a setback for the government.
+    paragraph_summary: Pro-Palestinian campaigners have hailed a significant victory
+      for their movement after a U.K. court acquitted six members of the direct action
+      group Palestine Action of aggravated burglary charges. The case, which centered
+      on the activists' protests against companies involved in arms manufacturing, was
+      seen as a pivotal moment for the campaigners, who believe the outcome represents
+      a substantial setback for the U.K. government's efforts to suppress pro-Palestinian
+      activism. The verdict has energized supporters, reinforcing their resolve to continue
+      advocating for Palestinian rights.
+    published: '2026-02-06T01:55:37+00:00'
+  - title: Palestine Action Protesters Found Not Guilty
+    url: https://consortiumnews.com/2026/02/05/palestine-action-protesters-found-not-guilty/
+    text: Pro-Palestinian campaigners claim ‘huge blow’ to U.K. government after landmark
+      prosecution of the direct action group fails, report Phil Miller and Dania Akkad.
+      By Phil Miller and Dania Akkad Declassified UK Six Palestine Action protesters
+      have been found not guilty of aggravated burglary… Read more →
+    one_sentence_summary: Pro-Palestinian activists celebrate a significant victory
+      for their cause as a U.K. court acquits six members of Palestine Action of aggravated
+      burglary charges, marking a setback for the government.
+    paragraph_summary: Pro-Palestinian campaigners have hailed a significant victory
+      for their movement after a U.K. court acquitted six members of the direct action
+      group Palestine Action of aggravated burglary charges. The case, which centered
+      on the activists' protests against companies involved in arms manufacturing, was
+      seen as a pivotal moment for the campaigners, who believe the outcome represents
+      a substantial setback for the U.K. government's efforts to suppress pro-Palestinian
+      activism. The verdict has energized supporters, reinforcing their resolve to continue
+      advocating for Palestinian rights.
+    published: '2026-02-06T01:55:37+00:00'
+  - title: 'Hedges Report: The Future of the ‘New World Order’'
+    url: https://consortiumnews.com/2026/02/05/hedges-report-the-future-of-the-new-world-order/
+    text: Donald Trump believes U.S. economic and military might are all he needs to
+      achieve unilateral control over America’s allies, but he’s a “one-man wrecking
+      crew.” John Mearsheimer speaks to Chris Hedges. By Chris Hedges The Chris Hedges
+      Report This interview is… Read more →
+    one_sentence_summary: In an interview with Chris Hedges, John Mearsheimer critiques
+      Donald Trump's belief that U.S. economic and military power alone can secure unilateral
+      control over allies, labeling him a "one-man wrecking crew."
+    paragraph_summary: In an interview with Chris Hedges, political scientist John Mearsheimer
+      critiques Donald Trump's approach to foreign policy, arguing that Trump's reliance
+      on U.S. economic and military power to exert unilateral control over allies is
+      misguided. Mearsheimer characterizes Trump as a "one-man wrecking crew," suggesting
+      that his strategies could undermine international relations and stability. The
+      discussion highlights concerns about the implications of Trump's tactics for America's
+      global standing and alliances.
+    published: '2026-02-05T19:00:22+00:00'
+  - title: 'Hedges Report: The Future of the ‘New World Order’'
+    url: https://consortiumnews.com/2026/02/05/hedges-report-the-future-of-the-new-world-order/
+    text: Donald Trump believes U.S. economic and military might are all he needs to
+      achieve unilateral control over America’s allies, but he’s a “one-man wrecking
+      crew.” John Mearsheimer speaks to Chris Hedges. By Chris Hedges The Chris Hedges
+      Report This interview is… Read more →
+    one_sentence_summary: In an interview with Chris Hedges, John Mearsheimer critiques
+      Donald Trump's belief that U.S. economic and military power alone can secure unilateral
+      control over allies, labeling him a "one-man wrecking crew."
+    paragraph_summary: In an interview with Chris Hedges, political scientist John Mearsheimer
+      critiques Donald Trump's approach to foreign policy, arguing that Trump's reliance
+      on U.S. economic and military power to exert unilateral control over allies is
+      misguided. Mearsheimer characterizes Trump as a "one-man wrecking crew," suggesting
+      that his strategies could undermine international relations and stability. The
+      discussion highlights concerns about the implications of Trump's tactics for America's
+      global standing and alliances.
+    published: '2026-02-05T19:00:22+00:00'
+  - title: START Is Finished
+    url: https://consortiumnews.com/2026/02/05/start-is-finished/
+    text: As the arms treaty ends today, the Bulletin of the Atomic Scientists advanced
+      its Doomsday Clock to 85 seconds to midnight, the closest it’s ever been to global
+      thermonuclear annihilation. By Dave DeCamp Antiwar.com The Russian Foreign Ministry said
+      in a statement… Read more →
+    one_sentence_summary: The Bulletin of the Atomic Scientists has moved the Doomsday
+      Clock to 85 seconds to midnight, the closest it has ever been, coinciding with
+      the end of an arms treaty, amid rising global nuclear tensions highlighted by
+      a statement from the Russian Foreign Ministry.
+    paragraph_summary: As the arms treaty concludes, the Bulletin of the Atomic Scientists
+      has moved its Doomsday Clock to 85 seconds to midnight, marking the closest point
+      to global thermonuclear disaster in history. This alarming development follows
+      a statement from the Russian Foreign Ministry, highlighting escalating tensions
+      and concerns over nuclear threats.
+    published: '2026-02-05T17:06:50+00:00'
+  - title: START Is Finished
+    url: https://consortiumnews.com/2026/02/05/start-is-finished/
+    text: As the arms treaty ends today, the Bulletin of the Atomic Scientists advanced
+      its Doomsday Clock to 85 seconds to midnight, the closest it’s ever been to global
+      thermonuclear annihilation. By Dave DeCamp Antiwar.com The Russian Foreign Ministry said
+      in a statement… Read more →
+    one_sentence_summary: The Bulletin of the Atomic Scientists has moved the Doomsday
+      Clock to 85 seconds to midnight, the closest it has ever been, coinciding with
+      the end of an arms treaty, amid rising global nuclear tensions highlighted by
+      a statement from the Russian Foreign Ministry.
+    paragraph_summary: As the arms treaty concludes, the Bulletin of the Atomic Scientists
+      has moved its Doomsday Clock to 85 seconds to midnight, marking the closest point
+      to global thermonuclear disaster in history. This alarming development follows
+      a statement from the Russian Foreign Ministry, highlighting escalating tensions
+      and concerns over nuclear threats.
+    published: '2026-02-05T17:06:50+00:00'
+  - title: Does the US Still Have a Constitution?
+    url: https://consortiumnews.com/2026/02/05/does-the-us-still-have-a-constitution/
+    text: There have been times when the Constitution protected us. Functionally today,
+      those days are gone. We have seen in Minneapolis why we need to have a Fourth
+      Amendment, writes Judge Andrew Napolitano. By Andrew P. Napolitano Legal scholars
+      have many… Read more →
+    one_sentence_summary: Judge Andrew Napolitano argues that the protections afforded
+      by the Constitution, particularly the Fourth Amendment, are increasingly ineffective
+      in today's society, as highlighted by recent events in Minneapolis.
+    paragraph_summary: In his article, Judge Andrew Napolitano argues that the protections
+      offered by the Constitution, particularly the Fourth Amendment, are increasingly
+      ineffective in today's society, as evidenced by recent events in Minneapolis.
+      He reflects on the historical significance of constitutional safeguards but expresses
+      concern that their relevance and enforcement have diminished, highlighting the
+      urgent need for a renewed commitment to these fundamental rights to ensure individual
+      liberties are upheld.
+    published: '2026-02-05T12:09:10+00:00'
+  - title: Does the US Still Have a Constitution?
+    url: https://consortiumnews.com/2026/02/05/does-the-us-still-have-a-constitution/
+    text: There have been times when the Constitution protected us. Functionally today,
+      those days are gone. We have seen in Minneapolis why we need to have a Fourth
+      Amendment, writes Judge Andrew Napolitano. By Andrew P. Napolitano Legal scholars
+      have many… Read more →
+    one_sentence_summary: Judge Andrew Napolitano argues that the protections afforded
+      by the Constitution, particularly the Fourth Amendment, are increasingly ineffective
+      in today's society, as highlighted by recent events in Minneapolis.
+    paragraph_summary: In his article, Judge Andrew Napolitano argues that the protections
+      offered by the Constitution, particularly the Fourth Amendment, are increasingly
+      ineffective in today's society, as evidenced by recent events in Minneapolis.
+      He reflects on the historical significance of constitutional safeguards but expresses
+      concern that their relevance and enforcement have diminished, highlighting the
+      urgent need for a renewed commitment to these fundamental rights to ensure individual
+      liberties are upheld.
+    published: '2026-02-05T12:09:10+00:00'
+  - title: Red Lines & AI Warfare
+    url: https://consortiumnews.com/2026/02/04/red-lines-ai-warfare/
+    text: It is yet to be seen if Australia’s policy on weaponising AI will enshrine
+      the moral red line of delegating life and death decisions to machines, writes
+      Matilda Byrne. By Matilda Byrne Declassified Australia Australia appears to be
+      moving head… Read more →
+    one_sentence_summary: Australia's evolving policy on weaponizing AI raises questions
+      about the ethical implications of allowing machines to make life-and-death decisions.
+    paragraph_summary: In her article, Matilda Byrne discusses Australia's evolving
+      policy on the use of artificial intelligence (AI) in military applications, particularly
+      regarding the ethical implications of allowing machines to make life-and-death
+      decisions. She highlights the uncertainty surrounding whether the policy will
+      establish a clear moral boundary against the weaponization of AI, emphasizing
+      the need for careful consideration of the consequences of such technology in warfare.
+    published: '2026-02-04T17:25:38+00:00'
+  - title: Red Lines & AI Warfare
+    url: https://consortiumnews.com/2026/02/04/red-lines-ai-warfare/
+    text: It is yet to be seen if Australia’s policy on weaponising AI will enshrine
+      the moral red line of delegating life and death decisions to machines, writes
+      Matilda Byrne. By Matilda Byrne Declassified Australia Australia appears to be
+      moving head… Read more →
+    one_sentence_summary: Australia's evolving policy on weaponizing AI raises questions
+      about the ethical implications of allowing machines to make life-and-death decisions.
+    paragraph_summary: In her article, Matilda Byrne discusses Australia's evolving
+      policy on the use of artificial intelligence (AI) in military applications, particularly
+      regarding the ethical implications of allowing machines to make life-and-death
+      decisions. She highlights the uncertainty surrounding whether the policy will
+      establish a clear moral boundary against the weaponization of AI, emphasizing
+      the need for careful consideration of the consequences of such technology in warfare.
+    published: '2026-02-04T17:25:38+00:00'
+  - title: Is Trump Deluded About India No Longer Buying Russian Oil?
+    url: https://consortiumnews.com/2026/02/04/is-trump-deluded-about-india-no-longer-buying-russian-oil/
+    text: Donald Trump announced a trade deal with India in which Delhi is supposed
+      to stop buying Russian oil. But India has said nothing about it, writes Betwa
+      Sharma. By Betwa Sharma in New Delhi, India Special to Consortium News Donald…
+      Read more →
+    one_sentence_summary: Donald Trump announced a trade deal with India that includes
+      a request for Delhi to cease purchasing Russian oil, but India has not responded
+      to this proposal.
+    paragraph_summary: Donald Trump recently announced a trade deal with India that
+      includes a stipulation for India to cease purchasing Russian oil. However, the
+      Indian government has not officially commented on this agreement, raising questions
+      about its acceptance and implications. Betwa Sharma reports from New Delhi, highlighting
+      the lack of response from India regarding the proposed terms of the deal.
+    published: '2026-02-04T17:00:52+00:00'
+  - title: Is Trump Deluded About India No Longer Buying Russian Oil?
+    url: https://consortiumnews.com/2026/02/04/is-trump-deluded-about-india-no-longer-buying-russian-oil/
+    text: Donald Trump announced a trade deal with India in which Delhi is supposed
+      to stop buying Russian oil. But India has said nothing about it, writes Betwa
+      Sharma. By Betwa Sharma in New Delhi, India Special to Consortium News Donald…
+      Read more →
+    one_sentence_summary: Donald Trump announced a trade deal with India that includes
+      a request for Delhi to cease purchasing Russian oil, but India has not responded
+      to this proposal.
+    paragraph_summary: Donald Trump recently announced a trade deal with India that
+      includes a stipulation for India to cease purchasing Russian oil. However, the
+      Indian government has not officially commented on this agreement, raising questions
+      about its acceptance and implications. Betwa Sharma reports from New Delhi, highlighting
+      the lack of response from India regarding the proposed terms of the deal.
+    published: '2026-02-04T17:00:52+00:00'
   - title: Judge Dismisses Bid to End ‘Occupation’ of Minneapolis
     url: https://consortiumnews.com/2026/02/03/judge-dismisses-bid-to-end-occupation-of-minneapolis/
     text: Marjorie Cohn reports that twelve days before the execution of Alex Pretti

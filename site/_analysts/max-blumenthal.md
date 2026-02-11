@@ -7,17 +7,117 @@ description: "Investigative journalist and filmmaker; founder of The Grayzone; c
 websites:
   - https://thegrayzone.com
 summary: |
-  As geopolitical tensions continue to rise across several regions, recent reporting has highlighted new developments in Western policy toward Iran, the influence of intelligence-linked actors in the tech sector, and the ongoing use of questionable sources to justify escalatory actions.
+  Amid ongoing tensions in Latin America and the Middle East, recent independent reporting has brought to light several covert operations and information campaigns shaping the current geopolitical landscape.
   
-  The most recent controversy centers on Western officials’ use of an unverified death toll in Iran. According to **Max Blumenthal**, the figure of “30,000 dead protesters” is being widely cited by Western governments and media to justify increased pressure and potential intervention against Tehran. However, the number’s origin is traced to a single, anonymous source with a dubious background. This raises significant concerns about the reliability of the information shaping policy decisions. **Blumenthal** notes that the Western narrative is being constructed on shaky ground, with regime-change NGOs and government-funded outlets amplifying these claims without independent verification.
+  The most significant new development concerns Venezuela, where a US-funded journalist has claimed that the Trump administration is holding a secret indictment against Acting President Delcy Rodríguez. According to **Max Blumenthal**, this alleged indictment is intended as leverage to influence Rodríguez’s decisions at a critical juncture for US-Venezuelan relations. This revelation comes as Washington continues to pursue aggressive legal and political strategies against top Venezuelan officials, following earlier reports of questionable evidence and possible CIA involvement in the case against Nicolás Maduro.
   
-  Meanwhile, scrutiny has intensified over the intersection of celebrity investment and intelligence operations. **Blumenthal** reports that NBA star Stephen Curry is investing heavily in tech startups run by former Israeli intelligence operatives. These firms are linked to Israel’s digital surveillance and military operations, prompting questions about the broader implications for privacy and foreign influence in the technology sector.
+  In the UK, new scrutiny has emerged over the historic Kincora scandal. **Max Blumenthal** highlights unresolved allegations that British intelligence may have operated the Kincora group home in Belfast as a “honeypot” for blackmail, targeting influential figures. The release of files related to Jeffrey Epstein has reignited debate over the extent of intelligence agencies’ involvement in sexual abuse and blackmail operations, suggesting that the full scope of these activities remains obscured.
   
-  Elsewhere, the fallout from Western media’s portrayal of unrest in Iran continues. The reliance on U.S.-funded NGOs for information has contributed to a skewed narrative that, according to **Blumenthal**, may be laying the groundwork for further military escalation. This pattern of information manipulation is echoed in other regions, such as Venezuela, where indictments and public narratives are shaped by questionable witnesses and intelligence-linked networks.
+  Meanwhile, in Iran, Western officials are citing an unverified death toll of 30,000 protesters to justify escalating actions against the country. **Max Blumenthal** points out that this figure originates from a dubious source—an anonymous individual with questionable credentials—raising concerns about the manipulation of information to legitimize foreign intervention. This follows a pattern of Western media relying on regime change-oriented NGOs and questionable data, which has previously influenced public perception and policy.
   
   **Trends and Predictions:**  
-  The use of unverifiable or manipulated information to justify foreign intervention is becoming increasingly prominent, particularly in the cases of Iran and Venezuela. There is a high chance that Western governments will continue to rely on such narratives to build public and diplomatic support for escalatory measures. The growing entanglement of private tech investment with intelligence-linked actors is also likely to draw further scrutiny, especially as concerns over surveillance and foreign influence mount. Based on current reporting, I guarantee that information warfare and narrative management will remain central tools in the geopolitical strategies of major powers throughout 2026.
+  The majority of sources suggest that the US is increasingly relying on legal and information warfare to achieve its foreign policy objectives, particularly in Venezuela and Iran. The use of secret indictments and questionable data points to a broader trend of leveraging covert tools for regime change. In the UK, the resurfacing of intelligence-linked abuse scandals signals growing public skepticism toward official narratives and intelligence oversight.
+  
+  Looking ahead, there is a high chance that the US will continue to escalate legal and psychological pressure on Venezuelan leaders, with further leaks or revelations likely. In Iran, the amplification of unverified casualty figures is quite likely to be used to justify additional sanctions or covert operations. In the UK, renewed attention to historic intelligence abuses may prompt further investigations, though a full accounting remains unlikely in the near term.
+  
+  As these stories develop, the interplay between covert operations, media narratives, and legal strategies will remain central to understanding the evolving geopolitical environment.
 articles:
+  - title: US holds secret indictment of Delcy Rodriguez, top opposition journo claims
+    url: https://thegrayzone.com/2026/02/10/secret-indictment-delcy-rodriguez-opposition-journo/
+    text: A US-funded opposition journalist revealed the Trump DOJ has crafted a secret
+      indictment of Venezuela’s Acting President to “hold it over her head,” and will
+      execute it if she “derails.” The Trump administration is using a secret indictment
+      to assert leverage over Venezuela’s Acting President Delcy Rodríguez, according
+      to the editor-in-chief of the US government-funded outlet, Armando.info. “One
+      of the information we manage is that the US is holding an indictment against [Rodriguez]
+      to make it public, just in case […] The post US holds secret indictment of Delcy
+      Rodriguez, top opposition journo claims first appeared on The Grayzone . The post
+      US holds secret indictment of Delcy Rodriguez, top opposition journo claims appeared
+      first on The Grayzone .
+    one_sentence_summary: A US-funded journalist has claimed that the Trump administration
+      has a secret indictment against Venezuela's Acting President Delcy Rodríguez,
+      which they intend to use as leverage to influence her actions.
+    paragraph_summary: A journalist from the US-funded outlet Armando.info has disclosed
+      that the Trump Department of Justice has prepared a secret indictment against
+      Venezuela's Acting President Delcy Rodríguez, which is intended to be used as
+      leverage to influence her actions. The journalist claims that the US government
+      is ready to make the indictment public if Rodríguez "derails," suggesting that
+      this tactic is part of a broader strategy to exert pressure on her and the Venezuelan
+      government.
+    published: '2026-02-10T18:46:50+00:00'
+  - title: US holds secret indictment of Delcy Rodriguez, top opposition journo claims
+    url: https://thegrayzone.com/2026/02/10/secret-indictment-delcy-rodriguez-opposition-journo/
+    text: A US-funded opposition journalist revealed the Trump DOJ has crafted a secret
+      indictment of Venezuela’s Acting President to “hold it over her head,” and will
+      execute it if she “derails.” The Trump administration is using a secret indictment
+      to assert leverage over Venezuela’s Acting President Delcy Rodríguez, according
+      to the editor-in-chief of the US government-funded outlet, Armando.info. “One
+      of the information we manage is that the US is holding an indictment against [Rodriguez]
+      to make it public, just in case […] The post US holds secret indictment of Delcy
+      Rodriguez, top opposition journo claims first appeared on The Grayzone . The post
+      US holds secret indictment of Delcy Rodriguez, top opposition journo claims appeared
+      first on The Grayzone .
+    one_sentence_summary: A US-funded journalist has claimed that the Trump administration
+      has a secret indictment against Venezuela's Acting President Delcy Rodríguez,
+      which they intend to use as leverage to influence her actions.
+    paragraph_summary: A journalist from the US-funded outlet Armando.info has disclosed
+      that the Trump Department of Justice has prepared a secret indictment against
+      Venezuela's Acting President Delcy Rodríguez, which is intended to be used as
+      leverage to influence her actions. The journalist claims that the US government
+      is ready to make the indictment public if Rodríguez "derails," suggesting that
+      this tactic is part of a broader strategy to exert pressure on her and the Venezuelan
+      government.
+    published: '2026-02-10T18:46:50+00:00'
+  - title: 'Kincora: British intelligence-run sex abuse brothel?'
+    url: https://thegrayzone.com/2026/02/06/kincora-british-intelligence-run-sex-abuse-brothel/
+    text: 'Half a century after the public learned that boys at a Belfast group home
+      were sexually assaulted by senior staff, a key question remains unanswered: was
+      British intelligence implicated in the abuse conspiracy, and did Kincora serve
+      as a ‘honeypot’ to entrap and blackmail powerful figures? A vast trove of declassified
+      files on Jeffrey Epstein’s sexual, political, and intelligence escapades released
+      by the US Department of Justice has once again thrust disgraced former Prince
+      Andrew Mountbatten-Windsor into the spotlight. With […] The post Kincora: British
+      intelligence-run sex abuse brothel? first appeared on The Grayzone . The post
+      Kincora: British intelligence-run sex abuse brothel? appeared first on The Grayzone
+      .'
+    one_sentence_summary: The article explores the unresolved allegations of British
+      intelligence involvement in the sexual abuse of boys at the Kincora group home
+      in Belfast, questioning whether it served as a 'honeypot' for blackmailing influential
+      individuals, particularly in light of newly released files related to Jeffrey
+      Epstein.
+    paragraph_summary: The article revisits the Kincora boys' home scandal in Belfast,
+      where boys were sexually abused by staff, and raises ongoing questions about potential
+      British intelligence involvement in the abuse, suggesting that Kincora may have
+      been used as a "honeypot" to compromise and blackmail influential individuals.
+      The recent release of declassified files related to Jeffrey Epstein's activities
+      has renewed scrutiny on former Prince Andrew Mountbatten-Windsor, further complicating
+      the narrative surrounding the Kincora case and its implications for powerful figures.
+    published: '2026-02-06T18:18:44+00:00'
+  - title: 'Kincora: British intelligence-run sex abuse brothel?'
+    url: https://thegrayzone.com/2026/02/06/kincora-british-intelligence-run-sex-abuse-brothel/
+    text: 'Half a century after the public learned that boys at a Belfast group home
+      were sexually assaulted by senior staff, a key question remains unanswered: was
+      British intelligence implicated in the abuse conspiracy, and did Kincora serve
+      as a ‘honeypot’ to entrap and blackmail powerful figures? A vast trove of declassified
+      files on Jeffrey Epstein’s sexual, political, and intelligence escapades released
+      by the US Department of Justice has once again thrust disgraced former Prince
+      Andrew Mountbatten-Windsor into the spotlight. With […] The post Kincora: British
+      intelligence-run sex abuse brothel? first appeared on The Grayzone . The post
+      Kincora: British intelligence-run sex abuse brothel? appeared first on The Grayzone
+      .'
+    one_sentence_summary: The article explores the unresolved allegations of British
+      intelligence involvement in the sexual abuse of boys at the Kincora group home
+      in Belfast, questioning whether it served as a 'honeypot' for blackmailing influential
+      individuals, particularly in light of newly released files related to Jeffrey
+      Epstein.
+    paragraph_summary: The article revisits the Kincora boys' home scandal in Belfast,
+      where boys were sexually abused by staff, and raises ongoing questions about potential
+      British intelligence involvement in the abuse, suggesting that Kincora may have
+      been used as a "honeypot" to compromise and blackmail influential individuals.
+      The recent release of declassified files related to Jeffrey Epstein's activities
+      has renewed scrutiny on former Prince Andrew Mountbatten-Windsor, further complicating
+      the narrative surrounding the Kincora case and its implications for powerful figures.
+    published: '2026-02-06T18:18:44+00:00'
   - title: Meet the former fashion blogger and shady doctor behind the ‘30,000 dead’
       Iran psy-op
     url: https://thegrayzone.com/2026/02/01/guardian-iranian-death-toll-concocted-monarchist-doctors/

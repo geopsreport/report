@@ -8,16 +8,1522 @@ websites:
   - https://michael-hudson.com/
   - https://geopoliticaleconomy.com/author/michael-hudson/
 summary: |
-  The global geopolitical landscape continues to be shaped by the unraveling of U.S.-led economic order and intensifying dissatisfaction within key Western allies. Recent analysis by **Michael Hudson** underscores how the erosion of “dollar discipline” is accelerating, with the U.S. increasingly relying on financial coercion and sanctions to maintain its influence. This strategy, however, is producing significant backlash, particularly in Europe.
+  As global economic and political realignments accelerate into February 2026, the latest analyses from **Michael Hudson** provide new insights into the shifting architecture of power, particularly in China and the West.
   
-  In France, public discontent is mounting over the Macron government’s alignment with U.S. policy, especially regarding sanctions and asset seizures. **Hudson** notes that “sanctions, seized assets, and U.S. pressure are contributing to a growing sense of alienation and dissatisfaction among the French population towards the Macron government and the broader European Union.” This sentiment is echoed across the continent, where the economic fallout from these policies is becoming harder to ignore.
+  The most recent development centers on the publication of Volume V of Xi Jinping Thought, which, according to **Hudson**, underscores Beijing’s commitment to a governance model distinct from Western neoliberalism. In his email interview with China Daily, Hudson highlights that China’s approach is “increasingly focused on insulating itself from Western financial shocks and prioritizing domestic stability over speculative growth.” This signals a continued divergence between Chinese and Western economic philosophies, with Beijing doubling down on state-led development and strategic autonomy.
   
-  Meanwhile, the U.S. approach to global energy markets remains a central tool of leverage. As detailed in earlier reports, Washington’s use of oil as a weapon—targeting nations like Iran, Russia, and Venezuela—reflects a broader strategy to enforce unipolar dominance. However, this is increasingly seen as unsustainable, with more countries seeking alternatives to the dollar and U.S.-controlled financial systems.
+  Meanwhile, Hudson’s recent podcast discussion on the property crisis reveals the depth of systemic vulnerabilities in Western economies. He argues that the crisis is not merely cyclical but rooted in the very structure of real estate finance and banking. “The property bubble is a symptom of a broader financialization that has hollowed out productive investment,” Hudson notes, suggesting that without structural reform, Western economies will remain prone to instability.
   
-  Looking ahead, the majority of analysts, including **Hudson**, predict with high confidence that these trends will continue. The fragmentation of the Western alliance is “most definitely” underway, with European states likely to pursue greater autonomy in response to domestic pressures and economic hardship. The decline of dollar hegemony is “quite likely” to accelerate as more nations explore alternative financial arrangements and energy partnerships.
+  On the geopolitical front, Hudson’s previous work on “Super Imperialism” and the end of dollar discipline remains highly relevant. The ongoing erosion of U.S. financial hegemony is now more visible, as countries seek alternatives to the dollar-centric system. Hudson maintains that “the U.S. reliance on its balance of payments deficit as a tool of global power is unsustainable,” and predicts with high confidence that “we will see further moves toward de-dollarization and regional economic blocs.”
   
-  In summary, the current trajectory points toward a multipolar world order, driven by the weakening of U.S. economic dominance and the growing resolve among allies and adversaries alike to chart independent courses. The next period will be critical in determining how quickly these structural shifts materialize and how deeply they reshape global alliances.
+  In summary, the latest developments point to a world in which China is consolidating its alternative model, while Western economies face mounting structural challenges. The trend toward multipolarity is accelerating, with high confidence that the global order will continue to fragment along economic and ideological lines.
 articles:
+  - title: On Xi Jinping’s Thought Volume V
+    url: https://michael-hudson.com/2026/02/on-xi-jinpings-thought-volume-v/
+    text: 'Cross Posted from Patreon supporter Karloff’s substack Dr. Hudson on Xi Jinping
+      Thought: The Governance of China, Volume V Substance of Hudson’s interview by
+      China Daily READ IN APP It’s my good fortune to be able to share with Gym readers
+      the inner workings of an email interview conducted between a China Daily writer
+      and Dr. Michael Hudson regarding the contents of the recently released fifth volume
+      of Xi Jinping Thought this being about The Governance of China . This process
+      began in late January when China Daily writer Yang Gao contacted Dr. Hudson via
+      email. Dr. Hudson is a Gym subscriber and we converse via email somewhat regularly,
+      and it was after the publication of the Xi speech on China’s Financial System
+      that he contacted me about his exchange with China Daily, which he shared with
+      me. Intrigued, I asked if I could publish what he provided to inform a much larger
+      audience, and he agreed. So, with many thanks to Dr. Hudson and to China Daily
+      for recognizing him as a credible voice, what follows are those materials. As
+      a preface, I’ll say all the commotion over Xi saying the Yuan should become an
+      international reserve currency is coming from the new book which contains the
+      speech I published a few days ago that was made just over two years ago, which
+      means China’s been working on building that financial system since then and isn’t
+      just now starting its construction and methodology. Here’s how it began: Dear
+      Professor, I hope this message finds you well. My name is Yang Gao, and I am a
+      reporter with China Daily , China’s largest English-language newspaper with an
+      international readership. I am currently working on a story that explores how
+      scholars and analysts in North America view the ideas presented in Xi Jinping:
+      The Governance of China , Volume V, with a particular focus on governance capacity
+      and policy continuity. I would be very grateful if you would be willing to share
+      your views on China’s governance approach and resilience. I would be happy to
+      send you a brief list of questions by email, and you are very welcome to respond
+      in writing at your convenience. If you prefer a phone or online interview, I would
+      also be glad to accommodate your schedule. I understand that you may not have
+      had the opportunity to read the book itself. If helpful, I would be pleased to
+      share a short English-language excerpt or summary of the relevant sections for
+      reference. The questions would be limited in scope and would not require a significant
+      time commitment. Thank you very much for your time and consideration. I sincerely
+      appreciate it and look forward to the possibility of hearing from you. Best regards,
+      Yang Gao Dr. Hudson replied he hadn’t read the book nor closely followed China’s
+      economy, so he asked for the provision of relevant excerpts. What follows are
+      what he was provided. All formatting is original: Advancing National Rejuvenation
+      through Chinese Modernization (Based on Xi Jinping, February 7, 2023) This text
+      outlines China’s framework of “Chinese modernization” as a governance model developed
+      through long-term historical experience rather than short-term policy experimentation.
+      From a governance perspective, the speech emphasizes institutional continuity,
+      strategic planning, and state capacity to manage structural and cyclical challenges—elements
+      often associated with governance resilience. Historical Continuity and Path Dependence
+      The speech situates Chinese modernization within a long historical trajectory,
+      arguing that China’s current governance system emerged from repeated failures
+      to transplant Western modernization models during the late Qing and Republican
+      periods. These historical experiences underpin a core argument: modernization
+      paths are not universal, and governance systems must be adapted to national conditions.
+      From this perspective, resilience derives not from institutional imitation, but
+      from path-dependent learning and cumulative state-building. The Chinese Communist
+      Party (CPC) is presented as the institutional vehicle that consolidated national
+      sovereignty, social stability, and economic coordination—preconditions for long-term
+      development. Centralized Strategic Planning and Long-Term Objectives A central
+      theme relevant to governance resilience is the emphasis on long-term planning
+      over short-term optimization . The text highlights the continuity of national
+      development goals across decades, including industrialization, technological self-reliance,
+      and social development. [Me: finance lives in the SR; industry is LR] The “two-stage”
+      strategy toward mid-century modernization is framed as a stable strategic anchor,
+      reducing policy volatility and enabling sustained investment in infrastructure,
+      industry, education, and science . This approach contrasts with governance systems
+      driven by electoral cycles, financial market pressures, or rapid policy reversals
+      . State Capacity and Economic Coordination The speech underscores the role of
+      the state in coordinating markets rather than withdrawing from them. China’s governance
+      model is described as combining public ownership, market mechanisms, and macro-level
+      coordination to ensure economic stability and social cohesion . Particular emphasis
+      is placed on preventing excessive polarization, managing capital, and maintaining
+      public control over strategic sectors. From a resilience standpoint, this framework
+      is presented as enabling China to absorb external shocks—financial crises, global
+      downturns, or supply-chain disruptions—without systemic collapse . Social Stability
+      and Inclusive Development Chinese modernization is defined as fundamentally people-centered,
+      with “common prosperity” positioned as a core objective . The speech argues that
+      extreme inequality, common in capital-centered modernization models, undermines
+      long-term stability. [Me: and the main cause of polarization is debt and rent-seeking.
+      Xi said that homes are for living in, not speculative savings vehicles seeking
+      asset-price gains.] Policies such as poverty alleviation, public service provision,
+      and regulated capital accumulation are framed as institutional mechanisms to prevent
+      social fragmentation. Governance resilience here is linked not only to economic
+      growth, but to social integration and legitimacy. Managing Contradictions through
+      Institutional Flexibility A notable feature of the text is its emphasis on managing
+      contradictions rather than eliminating them. Governance is described as balancing
+      efficiency and equity, innovation and stability, openness and self-reliance .
+      This dialectical approach allows for policy adjustment without abandoning strategic
+      direction. Reform is portrayed as continuous but bounded—guided by overarching
+      institutional principles rather than ad hoc experimentation. Risk Management and
+      Crisis Preparedness The speech explicitly addresses systemic risks, including
+      economic slowdown, external pressure, and geopolitical uncertainty. Governance
+      resilience is framed as the ability to anticipate risks, maintain strategic confidence,
+      and mobilize institutional resources when crises emerge. The emphasis on “struggle”
+      is less ideological than structural: it refers to maintaining policy autonomy
+      and institutional coherence under external constraints. An Alternative Modernization
+      Paradigm Finally, the text presents Chinese modernization as an alternative to
+      Western, finance-driven development models. It challenges the assumption that
+      privatization, deregulation, and capital dominance are prerequisites for modernization
+      . Instead, it proposes a model centered on public coordination, long-term investment,
+      and social stability—one that claims relevance for developing countries seeking
+      to escape cyclical crises, debt dependence, and deindustrialization. Balancing
+      Key Economic Relationships as a Source of China’s Governance Resilience In a speech
+      delivered at the Central Economic Work Conference in December 2024 , President
+      Xi Jinping outlined China’s assessment of its economic performance and, more importantly,
+      articulated a framework for managing structural tensions in economic governance.
+      Rather than focusing on short-term stimulus alone, the speech emphasizes institutional
+      coordination, long-term planning, and the role of the state in stabilizing economic
+      cycles—elements that distinguish China’s approach from highly financialized Western
+      economies. The year 2024 is described as a challenging one, marked by rising external
+      pressures and domestic headwinds. Economic growth showed a clear cyclical pattern,
+      with early momentum, mid-year slowdown, and a recovery following policy interventions
+      introduced in late September. These measures helped stabilize property and equity
+      markets, restore confidence, and support broader economic recovery. The emphasis
+      is not on market self-correction, but on timely and decisive policy coordination
+      at the central level. A central theme of the speech is the assertion that centralized
+      leadership and policy coordination are essential to macroeconomic stability, particularly
+      during periods of uncertainty. Economic governance is presented not as a fragmented
+      process driven by market sentiment, but as a system requiring strategic oversight,
+      institutional capacity, and long-term objectives. This framing reflects a view
+      of the economy as a managed system rather than a purely market-driven one . [Me:
+      all markets are shaped b public policy, especially fiscal and financial policy,
+      and money/debt creation.] The speech identifies several “key relationships” that
+      must be balanced to ensure sustainable development. Among these, the relationship
+      between an effective market and an active government is particularly notable.
+      Markets are expected to play a decisive role in resource allocation, but within
+      a framework shaped and safeguarded by the state. Government responsibilities include
+      enforcing rules, preventing corruption, ensuring public safety, correcting market
+      failures, and maintaining fair competition. At the same time, the state is cautioned
+      against excessive intervention in micro-level business activity. The underlying
+      principle is that well-regulated governance enhances, rather than suppresses,
+      market efficiency. Another critical relationship is that between aggregate supply
+      and aggregate demand. Expanding domestic demand—especially household consumption—is
+      framed not as a temporary policy response, but as a long-term strategic priority
+      linked to both economic stability and national security. Supply-side reforms are
+      to be pursued in tandem, with structural adjustment rather than indiscriminate
+      expansion. This dual approach reflects an effort to maintain internal economic
+      circulation while reducing vulnerability to external shocks. The speech also highlights
+      the importance of balancing new growth drivers with the upgrading of traditional
+      industries. While technological innovation in areas such as semiconductors, artificial
+      intelligence, and green technologies is strongly encouraged, traditional industries
+      are not to be abandoned. Instead, they are to be modernized through digitalization
+      and productivity improvements, ensuring employment stability and income generation.
+      This gradual transition contrasts with models that rely on rapid deindustrialization
+      or speculative capital flows. A further emphasis is placed on managing incremental
+      growth and existing assets simultaneously. After decades of rapid expansion, China’s
+      economic challenge is framed as one of improving efficiency rather than pursuing
+      growth at any cost. Policies aimed at revitalizing underused assets, restructuring
+      debt, and optimizing land and capital allocation are presented as tools to expand
+      development space without fueling financial instability. This reflects an awareness
+      of balance-sheet constraints at both the local government and systemic levels.
+      Finally, the speech addresses the relationship between economic scale and quality.
+      China’s large market size and industrial base are portrayed as structural advantages
+      that can support technological upgrading and productivity gains. At the same time,
+      the leadership acknowledges persistent imbalances in income and development levels,
+      underscoring the need to align quality improvement with reasonable growth in output.
+      Following a Distinctive Chinese Path of Financial Development In a speech delivered
+      at a high-level seminar on financial development in January 2024, President Xi
+      Jinping articulated a comprehensive framework for what he described as a “ Chinese
+      path of financial development,” explicitly distinguishing it from Western financial
+      models. The speech frames finance not as an autonomous profit-maximizing sector,
+      but as a strategic public instrument serving long-term economic development, social
+      stability, and national security . Since the 18th CPC National Congress, China’s
+      leadership has sought to identify the underlying principles governing financial
+      development under socialism with Chinese characteristics. Through institutional,
+      theoretical, and policy innovation, the country has gradually formed a financial
+      governance model defined by several core principles: centralized leadership by
+      the Party, a people-centered orientation, prioritizing finance’s service to the
+      real economy, permanent vigilance against systemic risk , market-based and law-based
+      financial innovation, supply-side structural reform in finance, coordinated opening-up
+      and security, and an overall emphasis on stability and gradual progress. A defining
+      feature of this model is the insistence that finance must serve the real economy
+      rather than dominate it . Financial activity is framed as a means to support productive
+      investment, industrial upgrading, employment, and technological innovation, rather
+      than speculative expansion. Preventing excessive financialization and ensuring
+      alignment between financial capital and real economic needs are treated as fundamental
+      governance objectives . Another central theme is risk prevention, particularly
+      the avoidance of systemic financial crises. Financial risk control is described
+      as a permanent task, not a temporary response to shocks. Regulatory authorities
+      are instructed to exercise strict, comprehensive supervision across market entry,
+      prudential regulation, and behavioral oversight. Regulation is portrayed as an
+      active and enforceable process, emphasizing accountability, inter-agency coordination,
+      and strong enforcement against corruption and financial crime. Moral hazard is
+      explicitly identified as a threat to financial stability. The speech also outlines
+      a long-term vision for building China into a “financially strong country.” This
+      vision is not limited to financial sector expansion, but rests on a strong real
+      economic foundation. Core elements include a strong currency, a capable central
+      bank, resilient financial institutions, effective regulation, well-developed financial
+      markets, professional financial talent, and secure, autonomous financial infrastructure.
+      Financial strength is thus framed as an extension of national economic and technological
+      capacity, rather than an independent source of power. On financial opening-up,
+      the approach is explicitly cautious and institutional in nature. China seeks to
+      improve the efficiency and global competitiveness of its financial system through
+      rules-based, predictable opening, while maintaining clear safeguards for financial
+      security. Emphasis is placed on regulatory alignment, negative lists, transparency,
+      and orderly cross-border capital flows, alongside participation in international
+      financial governance reform. Opening is treated as a calibrated process rather
+      than an ideological commitment to unrestricted capital mobility. Finally, the
+      speech highlights the importance of financial culture and ethics. Financial governance
+      is presented not only as a technical matter, but as a moral and institutional
+      one. Principles such as honesty, prudence, long-term orientation, resistance to
+      speculative excess, and strict legal compliance are emphasized as essential to
+      preventing instability and maintaining public trust. Pledge your support I was
+      impressed just as I was regarding the financial system speech. IMO, the book represents
+      Xi’s refutation of Neoliberalism, and it’s possible to see how China and Russia
+      are following similar paths to negate Neoliberalism’s ills. What now follows is
+      Dr. Hudson’s reply to the questions submitted Dear Yang, Here are my answers to
+      your questions. I hope they are not too long. I’ve tried to summarize my basic
+      approach. Michael Hudson China emphasizes long-term economic planning and policy
+      continuity, which has allowed stable growth even under external shocks. In contrast,
+      Western economies often focus on short-term financial returns. How do you assess
+      the impact of this short-term orientation on economic resilience and societal
+      well-being? MH: Finance always has lived in the short run. And in contrast to
+      the traditional industrial capitalism, finance capitalism aims at making capital
+      gains by debt leveraging and “financial engineering,” not industrial engineering.
+      It extracts interest from labor by driving it – and its corporate employers –
+      into debt, and by banks organizing monopolies in their role as “the mother of
+      trusts.” U.S. firms in recent years have spent 92% of their cash flow (overall
+      profits) on stock buybacks and dividend payouts aimed at increasing the price
+      of their common stock. That leaves only 8% of their returns to be reinvested in
+      building new factories and employing more labor to expand their production. The
+      effect of financializing Western industry has thus been to cannibalize it to make
+      purely financial gains. Financial managers aim at the short-term, because that
+      is how their salaries and bonuses are based. Investing in research and development
+      or even building a new electric utility or other long-term projects will benefit
+      future managers, not the present ones. IBM is one example. It was known for spending
+      $10 billion on stock buybacks instead of undertaking R&D. The result is that it
+      missed out on the computer revolution, whose gains it left to other companies.
+      General Electric and Boeing are other once-great engineering companies that were
+      cannibalized to provide short-tern revenue to increase their stock prices. They
+      became a model of how to manage a business, not what to avoid. Xi Jinping’s framework
+      prioritizes finance serving the real economy rather than speculative gains. From
+      your perspective, how does this long-term orientation compare to Western financialization
+      in shaping productive investment? MH: Speculative gains are financial in character.
+      They are deliberately created by using revenue to increase asset prices, not to
+      expand the business. I am reminded of Sun Tzu’s The Art of War : “Tactics without
+      strategy is the noise before defeat.” Yet most of what the West reports as GDP
+      consists of financial wealth, along with real estate and monopolies. Their gains
+      are not earned by productively employing labor, but in ways that slow investment
+      in the means of production to make short-term hit-and-run gains. China’s centralized
+      leadership and strong institutions ensure coordinated economic strategies and
+      crisis management. How does the decentralized, market-driven structure in Western
+      countries affect their ability to respond to financial shocks? MH: There is no
+      such thing as a “pure market.” All markets are shaped by governments, especially
+      by the tax system, and by the vested interests. In Western economies, neoliberal
+      rentier capitalism has deregulated government protection of industry and of wages
+      and living standards, by untaxing financial rent-seeking and shifting the tax
+      burden onto industry and labor. This causes Western economies to polarize, benefiting
+      the wealthiest Ten Percent (especially the One Percent) at the expense of the
+      Ninety Percent of the economy at large. The result is a class war and a zero-sum
+      economy (actually, a negative-sum economy) instead of a growing and more prosperous
+      economy. In China, regulatory continuity and institutional capacity are used to
+      mitigate systemic risks. Could the lack of similar continuity in Western systems
+      explain the recurring financial crises? MH: Western crises occur as a result of
+      the replacement of the original dynamic of industrial capitalism by that of finance
+      capitalism. In the financial sphere, the exponential dries in an economy’s debt
+      – that is, the savings of the creditor class – exceed the ability of economies
+      to pay this debt. The result is a crash when debt defaults occur. That is what
+      is stifling Wester economies today. In addition to financial rentier income, other
+      forms of economic rent – land rent and monopoly rent, as well as financial privileges
+      – are made by landlords and monopolists “in their sleep,” not by active productive
+      activity. The result is that interest and other forms of economic rent leave less
+      and less income available for industrialists to make a profit. David Ricardo explained
+      this dynamic as it applied to landlords, and the entire spirit of classical political
+      economy in the 19 th century sought to tax away land rent or socialize land as
+      a public utility. By the end of the century, Marx explained that finance had replaced
+      landlords as the main rent recipients making income and wealth “in their sleep.”
+      Industrial capitalism seemed to be evolving into socialism because that was more
+      economically efficient in reducing the economy’s unnecessary costs, and using
+      income to expand capital investment and employ labor at rising wages because high-wage
+      labor was more productive than low-wage “pauper labor.” But from today’s financial
+      vantage point, the new class war is being led by the financial interests that
+      have used their wealth to take control of government policy in the West. That
+      explains the Western antagonism toward China: The problem is not merely that China
+      is more successful. It is that China’s success is in being a socialist economy,
+      not a financialized short-term economy polarizing between a predatory rent-extracting
+      class at the top and an increasingly indebted economy at the bottom. The conflict
+      is between different economic systems – and China’s success shows that the Western
+      neoliberal finance capitalism is not competitive and hence has become obsolete.
+      The final product of all this effort was the following article published by China
+      Daily on 30 January 2026, all format original: Xi’s book wins acclaim amid intl
+      turbulence Latest volume offers alternative growth path, highlights pragmatic
+      governance By Yang Gao in Toronto, May Zhou in Houston, Helio Rocha in Juiz De
+      Fora and Zhao Jia in Beijing Amid growing global uncertainty, the fifth volume
+      of Xi Jinping: The Governance of China is attracting international attention as
+      analysts say the book provides a detailed look at China’s governance practices,
+      focusing on practical measures rather than slogans or abstract theory. They said
+      it highlights how China draws on its long-standing civilization to address modern
+      challenges, navigate complex global changes and offer an alternative development
+      path through example rather than coercion. First published in 2014, Xi Jinping:
+      The Governance of China has grown into a five-volume series, translated into more
+      than 40 languages and reaching readers in over 180 countries and regions. The
+      fifth volume was released in July in both Chinese and English. Kenneth Hammond,
+      a history professor at New Mexico State University, said one concept that stands
+      out in the fifth volume is governance resilience, which he linked to the dialectical
+      relationship between theory and practice. “China’s ability to creatively draw
+      on those elements within its 5,000-year cultural heritage that can contribute
+      to the modern tasks of socialist construction has been vital to its success,”
+      he said, adding this emphasis on review and adjustment has been critical to China’s
+      modernization. The book reveals that China’s development path stands in contrast
+      to Western approaches to modernization, he said. “The idea of ‘socialism with
+      Chinese characteristics’ directly implies that other countries, other peoples,
+      will have their own paths toward the future.” Unlike “the recent era of Western
+      hegemony”, he said China does not seek to impose its model on other countries,
+      but offers its vision of a future of shared prosperity and a new multicentric
+      world order. Ben Norton, a United States political analyst and founder of the
+      media outlet Geopolitical Economy Report, said the book reflects an approach to
+      governance built around long-term planning, state capacity and pragmatic problem-solving.
+      He highlighted China’s ability to maintain policy continuity across decades. “China’s
+      socialist market economy system has brilliantly managed to create a balance between
+      public ownership and market forces.” This approach, he added, has helped China
+      avoid the pitfalls of speculative finance and rent-seeking that dominate Western
+      economies. “China’s model has shown that a government can serve the needs of the
+      people, significantly raise living standards for the working class, and keep the
+      commanding heights of the economy publicly owned, while also encouraging entrepreneurs
+      to engage in productive commercial activity,” he said. As Western economies grapple
+      with recurring financial instability and rising inequality, Michael Hudson, a
+      distinguished research professor of economics at the University of Missouri, said
+      China offers a fundamentally different approach to economic governance. The principles
+      outlined in the fifth volume reflect a system that prioritizes productive investment
+      and social stability over short-term financial gains, he said. “Finance always
+      has lived in the short run,” he said. In contrast, he added, China’s governance
+      framework repeatedly stresses that finance should serve the real economy rather
+      than speculative interests. Jon Taylor, chair of the Department of Political Science
+      and Geography at the University of Texas at San Antonio, said that even a preliminary
+      look at the fifth volume highlights issues central to China’s current development
+      agenda. “What’s fascinating about it is it’s touching upon some topics that are
+      really important thematically for China right now,” Taylor said. He stressed the
+      idea of new quality productive forces, highlighting their role in fostering advancements
+      in high-tech and smart technologies. “This has led to alarm bells in the West,
+      particularly in the US,” he said. “All of a sudden, people are screaming and yelling
+      that China’s going to take over the world. China’s not going to take over the
+      world.” Integrated view Melissa Cambuhy, an economics professor and president
+      of the iBRICS+ think tank in Brazil, said the book mirrors an unstable world where
+      risks are interconnected. “I emphasize the integrated view of development and
+      security,” Cambuhy said. “Health, climate, technology and finance require cooperation
+      instead of conflicting and exclusionary blocs. “The distinctive feature is treating
+      domestic sustainability as a precondition for external credibility,” she said.
+      “China links internal goals of decarbonization, clean reindustrialization and
+      common prosperity to an international offer of green infrastructure, accessible
+      financing and technology transfer.” Through this approach, she said the vision
+      of building a community with a shared future for humanity “stops being rhetoric
+      and becomes a framework for cooperation grounded in common development”. Tiago
+      Camarinha Lopes, a professor of political economy at the Federal University of
+      Goias in Brazil and a visiting researcher at Northeast Normal University in China,
+      said President Xi, in the book, presents new elements, outlining mechanisms to
+      create and maintain a multilateral global order. Moving away from confrontation-driven
+      frameworks could help reduce ideological tension, he said. “It is necessary to
+      abandon divisive dichotomies such as ‘democracy versus authoritarianism’ and ‘liberalism
+      versus autocracy’.” Quite a lot for one paragraph of comment which shows just
+      how much remains on the cutting room floor. From the content provided, it appears
+      this is the most important volume to-date of Xi Jinping Thought as it attacks
+      Neoliberalism and provides policy prescriptions for China’s present and future.
+      I’m tempted to suggest the final product represents the work of a collective because
+      no man is an island and much of what China does stems from collective thought,
+      discussion and effort. A lot of new economic thinking is emerging from China as
+      its political-economy is unique so the old measures and policy norms don’t apply,
+      which IMO is very healthy. As usual, I must point to Warwick Powell’s newest essay
+      dealing with Systemic Exchange Value and GDP as new ways are sought to better
+      measure economic performance. The bankruptcy of the Rules Based Order and its
+      system of politics and economics is now well outed ironically at the seat of those
+      who fancied being its managers. China’s correct to emphasize that all nations
+      must develop their own development pathways because one-size doesn’t fit all,
+      although there are general guidelines to follow: Public ownership of credit creation
+      so the economy remains people-centered being two fundamentals to avoid the Western
+      Trap. Xi is also wise enough to know contradictions will arise and mistakes will
+      be made, so they must be anticipated and looked for. Thus, the continual process/policy
+      of modernization while adhering to long term goals. Doesn’t that sound like a
+      rational socially responsible business plan? The post On Xi Jinping’s Thought
+      Volume V first appeared on Michael Hudson .'
+    one_sentence_summary: The article discusses an email interview between Dr. Michael
+      Hudson and a writer from China Daily about the fifth volume of Xi Jinping Thought,
+      focusing on governance in China, which Hudson shared for a broader audience.
+    paragraph_summary: The article discusses an email interview between Dr. Michael
+      Hudson and Yang Gao, a writer for China Daily, regarding the fifth volume of Xi
+      Jinping Thought, titled "The Governance of China." The interview, initiated in
+      late January, explores North American scholars' perspectives on China's governance
+      capacity and policy continuity, particularly in light of Xi's emphasis on the
+      Yuan becoming an international reserve currency. Dr. Hudson, a subscriber to the
+      Gym platform, shared his insights with the author, who sought to inform a broader
+      audience about the significance of Xi's ideas and the ongoing development of China's
+      financial system. The article highlights the importance of this dialogue in understanding
+      China's governance approach and its implications for international finance.
+    published: '2026-02-10T23:06:08+00:00'
+  - title: On Xi Jinping’s Thought Volume V
+    url: https://michael-hudson.com/2026/02/on-xi-jinpings-thought-volume-v/
+    text: 'Cross Posted from Patreon supporter Karloff’s substack Dr. Hudson on Xi Jinping
+      Thought: The Governance of China, Volume V Substance of Hudson’s interview by
+      China Daily READ IN APP It’s my good fortune to be able to share with Gym readers
+      the inner workings of an email interview conducted between a China Daily writer
+      and Dr. Michael Hudson regarding the contents of the recently released fifth volume
+      of Xi Jinping Thought this being about The Governance of China . This process
+      began in late January when China Daily writer Yang Gao contacted Dr. Hudson via
+      email. Dr. Hudson is a Gym subscriber and we converse via email somewhat regularly,
+      and it was after the publication of the Xi speech on China’s Financial System
+      that he contacted me about his exchange with China Daily, which he shared with
+      me. Intrigued, I asked if I could publish what he provided to inform a much larger
+      audience, and he agreed. So, with many thanks to Dr. Hudson and to China Daily
+      for recognizing him as a credible voice, what follows are those materials. As
+      a preface, I’ll say all the commotion over Xi saying the Yuan should become an
+      international reserve currency is coming from the new book which contains the
+      speech I published a few days ago that was made just over two years ago, which
+      means China’s been working on building that financial system since then and isn’t
+      just now starting its construction and methodology. Here’s how it began: Dear
+      Professor, I hope this message finds you well. My name is Yang Gao, and I am a
+      reporter with China Daily , China’s largest English-language newspaper with an
+      international readership. I am currently working on a story that explores how
+      scholars and analysts in North America view the ideas presented in Xi Jinping:
+      The Governance of China , Volume V, with a particular focus on governance capacity
+      and policy continuity. I would be very grateful if you would be willing to share
+      your views on China’s governance approach and resilience. I would be happy to
+      send you a brief list of questions by email, and you are very welcome to respond
+      in writing at your convenience. If you prefer a phone or online interview, I would
+      also be glad to accommodate your schedule. I understand that you may not have
+      had the opportunity to read the book itself. If helpful, I would be pleased to
+      share a short English-language excerpt or summary of the relevant sections for
+      reference. The questions would be limited in scope and would not require a significant
+      time commitment. Thank you very much for your time and consideration. I sincerely
+      appreciate it and look forward to the possibility of hearing from you. Best regards,
+      Yang Gao Dr. Hudson replied he hadn’t read the book nor closely followed China’s
+      economy, so he asked for the provision of relevant excerpts. What follows are
+      what he was provided. All formatting is original: Advancing National Rejuvenation
+      through Chinese Modernization (Based on Xi Jinping, February 7, 2023) This text
+      outlines China’s framework of “Chinese modernization” as a governance model developed
+      through long-term historical experience rather than short-term policy experimentation.
+      From a governance perspective, the speech emphasizes institutional continuity,
+      strategic planning, and state capacity to manage structural and cyclical challenges—elements
+      often associated with governance resilience. Historical Continuity and Path Dependence
+      The speech situates Chinese modernization within a long historical trajectory,
+      arguing that China’s current governance system emerged from repeated failures
+      to transplant Western modernization models during the late Qing and Republican
+      periods. These historical experiences underpin a core argument: modernization
+      paths are not universal, and governance systems must be adapted to national conditions.
+      From this perspective, resilience derives not from institutional imitation, but
+      from path-dependent learning and cumulative state-building. The Chinese Communist
+      Party (CPC) is presented as the institutional vehicle that consolidated national
+      sovereignty, social stability, and economic coordination—preconditions for long-term
+      development. Centralized Strategic Planning and Long-Term Objectives A central
+      theme relevant to governance resilience is the emphasis on long-term planning
+      over short-term optimization . The text highlights the continuity of national
+      development goals across decades, including industrialization, technological self-reliance,
+      and social development. [Me: finance lives in the SR; industry is LR] The “two-stage”
+      strategy toward mid-century modernization is framed as a stable strategic anchor,
+      reducing policy volatility and enabling sustained investment in infrastructure,
+      industry, education, and science . This approach contrasts with governance systems
+      driven by electoral cycles, financial market pressures, or rapid policy reversals
+      . State Capacity and Economic Coordination The speech underscores the role of
+      the state in coordinating markets rather than withdrawing from them. China’s governance
+      model is described as combining public ownership, market mechanisms, and macro-level
+      coordination to ensure economic stability and social cohesion . Particular emphasis
+      is placed on preventing excessive polarization, managing capital, and maintaining
+      public control over strategic sectors. From a resilience standpoint, this framework
+      is presented as enabling China to absorb external shocks—financial crises, global
+      downturns, or supply-chain disruptions—without systemic collapse . Social Stability
+      and Inclusive Development Chinese modernization is defined as fundamentally people-centered,
+      with “common prosperity” positioned as a core objective . The speech argues that
+      extreme inequality, common in capital-centered modernization models, undermines
+      long-term stability. [Me: and the main cause of polarization is debt and rent-seeking.
+      Xi said that homes are for living in, not speculative savings vehicles seeking
+      asset-price gains.] Policies such as poverty alleviation, public service provision,
+      and regulated capital accumulation are framed as institutional mechanisms to prevent
+      social fragmentation. Governance resilience here is linked not only to economic
+      growth, but to social integration and legitimacy. Managing Contradictions through
+      Institutional Flexibility A notable feature of the text is its emphasis on managing
+      contradictions rather than eliminating them. Governance is described as balancing
+      efficiency and equity, innovation and stability, openness and self-reliance .
+      This dialectical approach allows for policy adjustment without abandoning strategic
+      direction. Reform is portrayed as continuous but bounded—guided by overarching
+      institutional principles rather than ad hoc experimentation. Risk Management and
+      Crisis Preparedness The speech explicitly addresses systemic risks, including
+      economic slowdown, external pressure, and geopolitical uncertainty. Governance
+      resilience is framed as the ability to anticipate risks, maintain strategic confidence,
+      and mobilize institutional resources when crises emerge. The emphasis on “struggle”
+      is less ideological than structural: it refers to maintaining policy autonomy
+      and institutional coherence under external constraints. An Alternative Modernization
+      Paradigm Finally, the text presents Chinese modernization as an alternative to
+      Western, finance-driven development models. It challenges the assumption that
+      privatization, deregulation, and capital dominance are prerequisites for modernization
+      . Instead, it proposes a model centered on public coordination, long-term investment,
+      and social stability—one that claims relevance for developing countries seeking
+      to escape cyclical crises, debt dependence, and deindustrialization. Balancing
+      Key Economic Relationships as a Source of China’s Governance Resilience In a speech
+      delivered at the Central Economic Work Conference in December 2024 , President
+      Xi Jinping outlined China’s assessment of its economic performance and, more importantly,
+      articulated a framework for managing structural tensions in economic governance.
+      Rather than focusing on short-term stimulus alone, the speech emphasizes institutional
+      coordination, long-term planning, and the role of the state in stabilizing economic
+      cycles—elements that distinguish China’s approach from highly financialized Western
+      economies. The year 2024 is described as a challenging one, marked by rising external
+      pressures and domestic headwinds. Economic growth showed a clear cyclical pattern,
+      with early momentum, mid-year slowdown, and a recovery following policy interventions
+      introduced in late September. These measures helped stabilize property and equity
+      markets, restore confidence, and support broader economic recovery. The emphasis
+      is not on market self-correction, but on timely and decisive policy coordination
+      at the central level. A central theme of the speech is the assertion that centralized
+      leadership and policy coordination are essential to macroeconomic stability, particularly
+      during periods of uncertainty. Economic governance is presented not as a fragmented
+      process driven by market sentiment, but as a system requiring strategic oversight,
+      institutional capacity, and long-term objectives. This framing reflects a view
+      of the economy as a managed system rather than a purely market-driven one . [Me:
+      all markets are shaped b public policy, especially fiscal and financial policy,
+      and money/debt creation.] The speech identifies several “key relationships” that
+      must be balanced to ensure sustainable development. Among these, the relationship
+      between an effective market and an active government is particularly notable.
+      Markets are expected to play a decisive role in resource allocation, but within
+      a framework shaped and safeguarded by the state. Government responsibilities include
+      enforcing rules, preventing corruption, ensuring public safety, correcting market
+      failures, and maintaining fair competition. At the same time, the state is cautioned
+      against excessive intervention in micro-level business activity. The underlying
+      principle is that well-regulated governance enhances, rather than suppresses,
+      market efficiency. Another critical relationship is that between aggregate supply
+      and aggregate demand. Expanding domestic demand—especially household consumption—is
+      framed not as a temporary policy response, but as a long-term strategic priority
+      linked to both economic stability and national security. Supply-side reforms are
+      to be pursued in tandem, with structural adjustment rather than indiscriminate
+      expansion. This dual approach reflects an effort to maintain internal economic
+      circulation while reducing vulnerability to external shocks. The speech also highlights
+      the importance of balancing new growth drivers with the upgrading of traditional
+      industries. While technological innovation in areas such as semiconductors, artificial
+      intelligence, and green technologies is strongly encouraged, traditional industries
+      are not to be abandoned. Instead, they are to be modernized through digitalization
+      and productivity improvements, ensuring employment stability and income generation.
+      This gradual transition contrasts with models that rely on rapid deindustrialization
+      or speculative capital flows. A further emphasis is placed on managing incremental
+      growth and existing assets simultaneously. After decades of rapid expansion, China’s
+      economic challenge is framed as one of improving efficiency rather than pursuing
+      growth at any cost. Policies aimed at revitalizing underused assets, restructuring
+      debt, and optimizing land and capital allocation are presented as tools to expand
+      development space without fueling financial instability. This reflects an awareness
+      of balance-sheet constraints at both the local government and systemic levels.
+      Finally, the speech addresses the relationship between economic scale and quality.
+      China’s large market size and industrial base are portrayed as structural advantages
+      that can support technological upgrading and productivity gains. At the same time,
+      the leadership acknowledges persistent imbalances in income and development levels,
+      underscoring the need to align quality improvement with reasonable growth in output.
+      Following a Distinctive Chinese Path of Financial Development In a speech delivered
+      at a high-level seminar on financial development in January 2024, President Xi
+      Jinping articulated a comprehensive framework for what he described as a “ Chinese
+      path of financial development,” explicitly distinguishing it from Western financial
+      models. The speech frames finance not as an autonomous profit-maximizing sector,
+      but as a strategic public instrument serving long-term economic development, social
+      stability, and national security . Since the 18th CPC National Congress, China’s
+      leadership has sought to identify the underlying principles governing financial
+      development under socialism with Chinese characteristics. Through institutional,
+      theoretical, and policy innovation, the country has gradually formed a financial
+      governance model defined by several core principles: centralized leadership by
+      the Party, a people-centered orientation, prioritizing finance’s service to the
+      real economy, permanent vigilance against systemic risk , market-based and law-based
+      financial innovation, supply-side structural reform in finance, coordinated opening-up
+      and security, and an overall emphasis on stability and gradual progress. A defining
+      feature of this model is the insistence that finance must serve the real economy
+      rather than dominate it . Financial activity is framed as a means to support productive
+      investment, industrial upgrading, employment, and technological innovation, rather
+      than speculative expansion. Preventing excessive financialization and ensuring
+      alignment between financial capital and real economic needs are treated as fundamental
+      governance objectives . Another central theme is risk prevention, particularly
+      the avoidance of systemic financial crises. Financial risk control is described
+      as a permanent task, not a temporary response to shocks. Regulatory authorities
+      are instructed to exercise strict, comprehensive supervision across market entry,
+      prudential regulation, and behavioral oversight. Regulation is portrayed as an
+      active and enforceable process, emphasizing accountability, inter-agency coordination,
+      and strong enforcement against corruption and financial crime. Moral hazard is
+      explicitly identified as a threat to financial stability. The speech also outlines
+      a long-term vision for building China into a “financially strong country.” This
+      vision is not limited to financial sector expansion, but rests on a strong real
+      economic foundation. Core elements include a strong currency, a capable central
+      bank, resilient financial institutions, effective regulation, well-developed financial
+      markets, professional financial talent, and secure, autonomous financial infrastructure.
+      Financial strength is thus framed as an extension of national economic and technological
+      capacity, rather than an independent source of power. On financial opening-up,
+      the approach is explicitly cautious and institutional in nature. China seeks to
+      improve the efficiency and global competitiveness of its financial system through
+      rules-based, predictable opening, while maintaining clear safeguards for financial
+      security. Emphasis is placed on regulatory alignment, negative lists, transparency,
+      and orderly cross-border capital flows, alongside participation in international
+      financial governance reform. Opening is treated as a calibrated process rather
+      than an ideological commitment to unrestricted capital mobility. Finally, the
+      speech highlights the importance of financial culture and ethics. Financial governance
+      is presented not only as a technical matter, but as a moral and institutional
+      one. Principles such as honesty, prudence, long-term orientation, resistance to
+      speculative excess, and strict legal compliance are emphasized as essential to
+      preventing instability and maintaining public trust. Pledge your support I was
+      impressed just as I was regarding the financial system speech. IMO, the book represents
+      Xi’s refutation of Neoliberalism, and it’s possible to see how China and Russia
+      are following similar paths to negate Neoliberalism’s ills. What now follows is
+      Dr. Hudson’s reply to the questions submitted Dear Yang, Here are my answers to
+      your questions. I hope they are not too long. I’ve tried to summarize my basic
+      approach. Michael Hudson China emphasizes long-term economic planning and policy
+      continuity, which has allowed stable growth even under external shocks. In contrast,
+      Western economies often focus on short-term financial returns. How do you assess
+      the impact of this short-term orientation on economic resilience and societal
+      well-being? MH: Finance always has lived in the short run. And in contrast to
+      the traditional industrial capitalism, finance capitalism aims at making capital
+      gains by debt leveraging and “financial engineering,” not industrial engineering.
+      It extracts interest from labor by driving it – and its corporate employers –
+      into debt, and by banks organizing monopolies in their role as “the mother of
+      trusts.” U.S. firms in recent years have spent 92% of their cash flow (overall
+      profits) on stock buybacks and dividend payouts aimed at increasing the price
+      of their common stock. That leaves only 8% of their returns to be reinvested in
+      building new factories and employing more labor to expand their production. The
+      effect of financializing Western industry has thus been to cannibalize it to make
+      purely financial gains. Financial managers aim at the short-term, because that
+      is how their salaries and bonuses are based. Investing in research and development
+      or even building a new electric utility or other long-term projects will benefit
+      future managers, not the present ones. IBM is one example. It was known for spending
+      $10 billion on stock buybacks instead of undertaking R&D. The result is that it
+      missed out on the computer revolution, whose gains it left to other companies.
+      General Electric and Boeing are other once-great engineering companies that were
+      cannibalized to provide short-tern revenue to increase their stock prices. They
+      became a model of how to manage a business, not what to avoid. Xi Jinping’s framework
+      prioritizes finance serving the real economy rather than speculative gains. From
+      your perspective, how does this long-term orientation compare to Western financialization
+      in shaping productive investment? MH: Speculative gains are financial in character.
+      They are deliberately created by using revenue to increase asset prices, not to
+      expand the business. I am reminded of Sun Tzu’s The Art of War : “Tactics without
+      strategy is the noise before defeat.” Yet most of what the West reports as GDP
+      consists of financial wealth, along with real estate and monopolies. Their gains
+      are not earned by productively employing labor, but in ways that slow investment
+      in the means of production to make short-term hit-and-run gains. China’s centralized
+      leadership and strong institutions ensure coordinated economic strategies and
+      crisis management. How does the decentralized, market-driven structure in Western
+      countries affect their ability to respond to financial shocks? MH: There is no
+      such thing as a “pure market.” All markets are shaped by governments, especially
+      by the tax system, and by the vested interests. In Western economies, neoliberal
+      rentier capitalism has deregulated government protection of industry and of wages
+      and living standards, by untaxing financial rent-seeking and shifting the tax
+      burden onto industry and labor. This causes Western economies to polarize, benefiting
+      the wealthiest Ten Percent (especially the One Percent) at the expense of the
+      Ninety Percent of the economy at large. The result is a class war and a zero-sum
+      economy (actually, a negative-sum economy) instead of a growing and more prosperous
+      economy. In China, regulatory continuity and institutional capacity are used to
+      mitigate systemic risks. Could the lack of similar continuity in Western systems
+      explain the recurring financial crises? MH: Western crises occur as a result of
+      the replacement of the original dynamic of industrial capitalism by that of finance
+      capitalism. In the financial sphere, the exponential dries in an economy’s debt
+      – that is, the savings of the creditor class – exceed the ability of economies
+      to pay this debt. The result is a crash when debt defaults occur. That is what
+      is stifling Wester economies today. In addition to financial rentier income, other
+      forms of economic rent – land rent and monopoly rent, as well as financial privileges
+      – are made by landlords and monopolists “in their sleep,” not by active productive
+      activity. The result is that interest and other forms of economic rent leave less
+      and less income available for industrialists to make a profit. David Ricardo explained
+      this dynamic as it applied to landlords, and the entire spirit of classical political
+      economy in the 19 th century sought to tax away land rent or socialize land as
+      a public utility. By the end of the century, Marx explained that finance had replaced
+      landlords as the main rent recipients making income and wealth “in their sleep.”
+      Industrial capitalism seemed to be evolving into socialism because that was more
+      economically efficient in reducing the economy’s unnecessary costs, and using
+      income to expand capital investment and employ labor at rising wages because high-wage
+      labor was more productive than low-wage “pauper labor.” But from today’s financial
+      vantage point, the new class war is being led by the financial interests that
+      have used their wealth to take control of government policy in the West. That
+      explains the Western antagonism toward China: The problem is not merely that China
+      is more successful. It is that China’s success is in being a socialist economy,
+      not a financialized short-term economy polarizing between a predatory rent-extracting
+      class at the top and an increasingly indebted economy at the bottom. The conflict
+      is between different economic systems – and China’s success shows that the Western
+      neoliberal finance capitalism is not competitive and hence has become obsolete.
+      The final product of all this effort was the following article published by China
+      Daily on 30 January 2026, all format original: Xi’s book wins acclaim amid intl
+      turbulence Latest volume offers alternative growth path, highlights pragmatic
+      governance By Yang Gao in Toronto, May Zhou in Houston, Helio Rocha in Juiz De
+      Fora and Zhao Jia in Beijing Amid growing global uncertainty, the fifth volume
+      of Xi Jinping: The Governance of China is attracting international attention as
+      analysts say the book provides a detailed look at China’s governance practices,
+      focusing on practical measures rather than slogans or abstract theory. They said
+      it highlights how China draws on its long-standing civilization to address modern
+      challenges, navigate complex global changes and offer an alternative development
+      path through example rather than coercion. First published in 2014, Xi Jinping:
+      The Governance of China has grown into a five-volume series, translated into more
+      than 40 languages and reaching readers in over 180 countries and regions. The
+      fifth volume was released in July in both Chinese and English. Kenneth Hammond,
+      a history professor at New Mexico State University, said one concept that stands
+      out in the fifth volume is governance resilience, which he linked to the dialectical
+      relationship between theory and practice. “China’s ability to creatively draw
+      on those elements within its 5,000-year cultural heritage that can contribute
+      to the modern tasks of socialist construction has been vital to its success,”
+      he said, adding this emphasis on review and adjustment has been critical to China’s
+      modernization. The book reveals that China’s development path stands in contrast
+      to Western approaches to modernization, he said. “The idea of ‘socialism with
+      Chinese characteristics’ directly implies that other countries, other peoples,
+      will have their own paths toward the future.” Unlike “the recent era of Western
+      hegemony”, he said China does not seek to impose its model on other countries,
+      but offers its vision of a future of shared prosperity and a new multicentric
+      world order. Ben Norton, a United States political analyst and founder of the
+      media outlet Geopolitical Economy Report, said the book reflects an approach to
+      governance built around long-term planning, state capacity and pragmatic problem-solving.
+      He highlighted China’s ability to maintain policy continuity across decades. “China’s
+      socialist market economy system has brilliantly managed to create a balance between
+      public ownership and market forces.” This approach, he added, has helped China
+      avoid the pitfalls of speculative finance and rent-seeking that dominate Western
+      economies. “China’s model has shown that a government can serve the needs of the
+      people, significantly raise living standards for the working class, and keep the
+      commanding heights of the economy publicly owned, while also encouraging entrepreneurs
+      to engage in productive commercial activity,” he said. As Western economies grapple
+      with recurring financial instability and rising inequality, Michael Hudson, a
+      distinguished research professor of economics at the University of Missouri, said
+      China offers a fundamentally different approach to economic governance. The principles
+      outlined in the fifth volume reflect a system that prioritizes productive investment
+      and social stability over short-term financial gains, he said. “Finance always
+      has lived in the short run,” he said. In contrast, he added, China’s governance
+      framework repeatedly stresses that finance should serve the real economy rather
+      than speculative interests. Jon Taylor, chair of the Department of Political Science
+      and Geography at the University of Texas at San Antonio, said that even a preliminary
+      look at the fifth volume highlights issues central to China’s current development
+      agenda. “What’s fascinating about it is it’s touching upon some topics that are
+      really important thematically for China right now,” Taylor said. He stressed the
+      idea of new quality productive forces, highlighting their role in fostering advancements
+      in high-tech and smart technologies. “This has led to alarm bells in the West,
+      particularly in the US,” he said. “All of a sudden, people are screaming and yelling
+      that China’s going to take over the world. China’s not going to take over the
+      world.” Integrated view Melissa Cambuhy, an economics professor and president
+      of the iBRICS+ think tank in Brazil, said the book mirrors an unstable world where
+      risks are interconnected. “I emphasize the integrated view of development and
+      security,” Cambuhy said. “Health, climate, technology and finance require cooperation
+      instead of conflicting and exclusionary blocs. “The distinctive feature is treating
+      domestic sustainability as a precondition for external credibility,” she said.
+      “China links internal goals of decarbonization, clean reindustrialization and
+      common prosperity to an international offer of green infrastructure, accessible
+      financing and technology transfer.” Through this approach, she said the vision
+      of building a community with a shared future for humanity “stops being rhetoric
+      and becomes a framework for cooperation grounded in common development”. Tiago
+      Camarinha Lopes, a professor of political economy at the Federal University of
+      Goias in Brazil and a visiting researcher at Northeast Normal University in China,
+      said President Xi, in the book, presents new elements, outlining mechanisms to
+      create and maintain a multilateral global order. Moving away from confrontation-driven
+      frameworks could help reduce ideological tension, he said. “It is necessary to
+      abandon divisive dichotomies such as ‘democracy versus authoritarianism’ and ‘liberalism
+      versus autocracy’.” Quite a lot for one paragraph of comment which shows just
+      how much remains on the cutting room floor. From the content provided, it appears
+      this is the most important volume to-date of Xi Jinping Thought as it attacks
+      Neoliberalism and provides policy prescriptions for China’s present and future.
+      I’m tempted to suggest the final product represents the work of a collective because
+      no man is an island and much of what China does stems from collective thought,
+      discussion and effort. A lot of new economic thinking is emerging from China as
+      its political-economy is unique so the old measures and policy norms don’t apply,
+      which IMO is very healthy. As usual, I must point to Warwick Powell’s newest essay
+      dealing with Systemic Exchange Value and GDP as new ways are sought to better
+      measure economic performance. The bankruptcy of the Rules Based Order and its
+      system of politics and economics is now well outed ironically at the seat of those
+      who fancied being its managers. China’s correct to emphasize that all nations
+      must develop their own development pathways because one-size doesn’t fit all,
+      although there are general guidelines to follow: Public ownership of credit creation
+      so the economy remains people-centered being two fundamentals to avoid the Western
+      Trap. Xi is also wise enough to know contradictions will arise and mistakes will
+      be made, so they must be anticipated and looked for. Thus, the continual process/policy
+      of modernization while adhering to long term goals. Doesn’t that sound like a
+      rational socially responsible business plan? The post On Xi Jinping’s Thought
+      Volume V first appeared on Michael Hudson .'
+    one_sentence_summary: The article discusses an email interview between Dr. Michael
+      Hudson and a writer from China Daily about the fifth volume of Xi Jinping Thought,
+      focusing on governance in China, which Hudson shared for a broader audience.
+    paragraph_summary: The article discusses an email interview between Dr. Michael
+      Hudson and Yang Gao, a writer for China Daily, regarding the fifth volume of Xi
+      Jinping Thought, titled "The Governance of China." The interview, initiated in
+      late January, explores North American scholars' perspectives on China's governance
+      capacity and policy continuity, particularly in light of Xi's emphasis on the
+      Yuan becoming an international reserve currency. Dr. Hudson, a subscriber to the
+      Gym platform, shared his insights with the author, who sought to inform a broader
+      audience about the significance of Xi's ideas and the ongoing development of China's
+      financial system. The article highlights the importance of this dialogue in understanding
+      China's governance approach and its implications for international finance.
+    published: '2026-02-10T23:06:08+00:00'
+  - title: The Hidden Architecture of the Property Crisis
+    url: https://michael-hudson.com/2026/02/the-hidden-architecture-of-the-property-crisis/
+    text: 'Michael Hudson Hello and welcome to the podcast. I’m your host, Jonathan
+      Brown. Now, today we have an interview I made with Michael Hudson late last year.
+      Michael’s a truly astounding economist and commentator. I’ve had the privilege
+      of interviewing him a few times now, and it’s always illuminating. Now, this interview
+      was meant to be part of a celebration of the 17th anniversary of the publication
+      of this book, which has been a quiet bestseller for the last 17 years, the Secret
+      Life of Real Estate and Banking with Phil Anderson. It was meant to be about that,
+      but the conversation very quickly went off on its own. So, I left the interview
+      out of the podcast about Phil’s work, and I just thought, well, it’s such a good
+      conversation. Let’s release it. Just as a quick reminder in the interview, I do
+      refer to a guy called Phil, that’s Phil Anderson, the author of this book and
+      the cycle, and that’s Phil’s work. So strongly encouraged to take a look at that
+      you’ll see it in the links after this one. There’s some [00:01:00] severe economic
+      turbulence coming our way as Michael talks about. And you can use a lot of fulfill
+      ideas to protect yourself and your family. So that’s enough of, of The Secret
+      Life of Real Estate and Banking.Let’s just get into the interview. I start with
+      a question to Michael about what he’s been working on. So, let’s just jump straight
+      into his answer. Michael: I’ve been trying to finish, a book that I’m writing
+      myself. I look at how the whole environment for real estate is changing. The whole
+      real estate environment, the tax system, the increasing debt burden of real estate,
+      you’re seeing a whole transformation in real estate away from owner occupied housing
+      toward, certainly in America and Europe absentee ownership, of housing by large,
+      financial institutions like BlackRock, et cetera. jonathan: Do you invest in property
+      yourself? Michael: No longer, no. I own my own condominium. It is very hard to
+      invest in [00:02:00] property in New York if you’re not a major player. You’re
+      not well represented in landlord Tenant court. It’s a fixed game in New York.
+      Real estate investors together have a particular attorney that they use, and he
+      represents maybe thousands of people. I had one run as a tenant. I had one run
+      into him and whenever the judge or mediator began to talk in my favor, he said
+      he had another client and got another judge. The real estate investment in New
+      York is so utterly corrupt. In, 1980, I contracted to buy my condo on Murray Street,
+      a block from the World Trade Center. The lawyer, bought the property for himself.
+      And then tried to evict us, we sued. We got a very good lawyer and sued him. And
+      then he said, well, I’ve just sold it to Skadden Arps. They’re the most powerful
+      landlord in the city. And, Skadden Arps tried to evict us. There were four other
+      unit owners in the building. Skadden refused to put me on the negotiating board.
+      I was on the second floor right over a pizza parlour against my wishes. They rented
+      to a pizza Parlor. The heat went up to 86 degrees constantly. I was able to delay
+      the transfer of property for five years, during six years, we didn’t pay any rent
+      at all because, the property was contested. Finally, I sold out. I sold out because
+      I didn’t want to live in the 86 degrees. The building department works for the
+      landlords, not for the tenants. And, I have less than $2 billion, so I’m unable
+      to pay the bribes to the politicians’ campaigns that, finance the inspectors and
+      I had to move, which is very fortunate because, shortly thereafter, the World
+      Trade Center, a disaster happened with the airplanes. And not only the building,
+      but the entire neighborhood was filled with poison, air,  and debris every. Everything
+      that was electric or movable. Xerox machines, cameras were all completely covered
+      up with dust. So, I escaped all that by having to be forced to move. But that’s
+      my experience with just trying to buy an apartment for oneself. It’s a very predatory
+      market and I think its one reason why Mandami has won the New York Mayor election
+      promising to try to make real estate more affordable. But unless he’s able to
+      get rid of the corrupt judges and the corrupt building department that Mayor Koch
+      brought in… Although Mayor Koch wasn’t corrupt himself, he surrounded himself
+      with corrupt people because they’re his campaign contributors. And then Giuliani
+      completed the corruption. So, this is not a game for amateurs to play in investment.
+      To me that changing character of the real estate market is the most important
+      thing. The average rent in New York city is now over $4,500 a month. So, you can
+      imagine how much money you have to pay just in order to afford housing here. There’s
+      a big fight against rent control, and the rents have already been so high that
+      it’s almost transformed real estate from what it was in the past. That’s why I
+      don’t like thinking in terms of cycles. I wanna look at the transformation of
+      the real estate market and how the increasing real estate prices as a result of
+      increasing debt leverage as banks lend more and more of the purchase price to
+      borrowers and a property’s worth whatever a bank is going to lend. So, to me,
+      real estate is a byproduct of the financial sector. That’s what I look at. I don’t
+      isolate real estate as a sector in itself; it’s a derivative of the financial
+      sector. jonathan: Yeah. And so, Phil’s predictions we’re following the 18.6-year
+      cycle, which forecasts the peak, in 2026. Then likely a possibly catastrophic
+      crash. Not dissimilar… Michael: that’s quite likely jonathan: to your forecast
+      in 2005-6 when you wrote the Vanity Fair article. Michael: Okay what’s happening
+      now, number one. You have a weather change and the bad weather has increased insurance
+      costs so radically for housing, not only in Florida, but in the Midwest where
+      there are hurricanes and floods, the south, that real estate is falling further
+      and further behind. The people below 35 years old are not able to buy many homes
+      anymore. They tend to be renters because they simply cannot afford to buy. And
+      the large private capital companies have become the main buyers. For individual
+      family buyers, the insurance costs are way up. The interest rates are certainly
+      rising for real estate loans, not for big corporate loans, but for real estate
+      loans. So, there are specific reasons why the real estate, certainly in the United
+      States. Same thing in Europe. The economy for the 90% of the people is shrinking
+      in the United States. That’s why a lot of today you have the internet, and Nvidia,
+      stocks going up and you have the Dow Jones Industrial average going down. That’s
+      been happening all year long. So you have the real economy certainly, people private
+      home buyers are less and less able to afford housing. And, the result is a sharply
+      declining proportion of Americans own their own homes, especially in New York
+      City, that is primarily in a landlord owned economy. jonathan: Would you take
+      us through what your research shows about the changing structure of ownership.
+      Michael: Well, it’s largely owned by absentee landlords and specifically by large,
+      financial companies, such as BlackRock and, large companies that are buying the
+      housing. And when the interest rates begin to go way down for borrowers, less
+      so for homeowners, the firms that were able to borrow – the big capital investment
+      firms said, well, in the past you’re buying property, you made your money by borrowing
+      and earning rent. But now they realize that most of the money made on real estate
+      is made by the bankers. Rent is for paying interest, and rents going up because
+      that is the winner of any real estate purchases, whoever pledges the highest proportion
+      of the land’s rental value to pay the bank for the money that they borrow to outbid
+      rival bidders for this property. So, rent’s for paying interest and the large
+      companies that have been buying said, well, we can make more money. we can outbid
+      the private buyers of real estate because, if we buy for all cash, we borrow money
+      for ourselves, not against the building, but for the company itself. And then
+      we buy the building as whole owner, the building itself, for all cash and we don’t
+      have to pay a mortgage. So, the costs of carrying the property by a large company
+      is much lower than it is for homeowners. So, they can afford all of this, but
+      now the private capital companies are in a squeeze. So, they may pull back from
+      the market, especially as the ability of the population at large to pay rents
+      is falling back and as the costs of insurance, because of the bad weather and
+      all of the other problems is also rising. jonathan: And, I know in your career
+      you’ve done a great deal of work taking your research way back into history. Phil
+      has only done 225 years of research into the American land cycle going back to
+      the Harrison Act of 1800, what’s your endorsement of taking that historical view
+      of a market or of a country? Michael: it is very interesting that he called it
+      a land cycle? It’s really a financial cycle. It’s not that real estate is going
+      up and down. It’s the whole financial economy, the debt overhead, the debtor creditor
+      relationship is responsible for the real estate cycle. It’s not that real estate’s
+      going up and down because of population growth or other things- it’s the financial
+      cycle. It would help to compare the real estate cycle with the stock market cycle,
+      the railroad stock cycle, all of the other cycles. And you’ll see, that there
+      are reasons for the cycle of the number of years that Phil says. And the reason
+      is that it’s a constant buildup of debt and then a break. And the collapse of
+      the break causes a crisis, a plunge, and that’s what causes the real estate cycle
+      to be engulfed in this financial plunge that affects the entire economy. jonathan:
+      And I know in some of our previous conversations, you’ve spoken of how the asset
+      value or the asset appreciation or inflation generates liquidity in the marketplace,
+      which allows them to do more and more speculation which then leads to a bigger
+      and bigger crash. Michael: Yes, it’s a Ponzi scheme at a certain point. And, as
+      the 2008, 2009 crash was, but the aftermath of that was completely different from
+      other crashes. In most crashes, what happens is the crash wipes out the creditors
+      along with the debtors. There’s a bankruptcy and the debt goes back down and there’s
+      a recovery. Instead after 2008, the Obama administration that came in in January,
+      2009, followed the quantitative easing, flooding the banking system and the financial
+      system with the zero-interest rate policy that made that debt pyramiding and speculation
+      an easy way to make surefire gains so that the recovery in real estate prices
+      wasn’t a result of debt being wiped out- just the opposite. It was vast new debt
+      being created. That’s what a Ponzi scheme is. You create new debt to pay the earlier
+      players in the scheme. So, you had an inside out recovery as it were. Unlike the
+      past, when there was a crash, the response by the Fed of flooding the market with
+      zero interest rates, flooding the banking system and coming right out, and the
+      Fed bought long-term mortgages. It permitted Fannie Mae to raise the federally
+      insured packaged home mortgages to the point where they absorbed 43% of the home
+      buyer’s income – no longer the 25% which was the case when I bought property in
+      the 1960s. jonathan: So, based on all those things then, what’s your assessment
+      on where this is going to go in the next few years? Michael: It may very well
+      be a crash in 2026. That makes sense to me. The stock market’s gonna crash, most
+      people say, because it’s so overpriced. All of the signs by the technicians who
+      follow cycles and follow all of these market charts, say that there’s gonna be
+      a crash. So, it looks like right on schedule there may or will be a crash in 2026.
+      That sounds plausible to me. jonathan: And Michael, in your career, you have consistently
+      gone against the grain of the conventional view. Michael: There are two conventional
+      views. The conventional views that I agree with are the insiders on Wall Street.
+      The  conventional views in the mass media and, the newspapers are the exact opposite.
+      So, there’s a kind of propaganda. And then there’s what the economists and the
+      insiders and the big investors know themselves and the reality. So, there are
+      two sets of views, the reality views of the wealthy successful people and the
+      unreality views of the victims. So, the question is what set am I agreeing with?
+      jonathan: Oh, so one of the strange things then, because you’re so committed to
+      helping other people, how is it that you’ve got the same view as the predators
+      on Wall Street? How has that come about? Michael: Well, I worked on Wall Street,
+      that’s where I learned how the economy worked. I went to work in 1961-2 for the
+      Savings Banks Trust Company, which was a central bank for the savings banks and
+      for three years, my job was tracing mortgage loans, bank deposits. The increase
+      in the recycling of the exponential growth in bank deposits, just as a result
+      of paying dividends every three months. The growth in savings deposit, that would
+      be like a zigzag and just exponential growth. And this money was all being recycled
+      into mortgage loans ’cause that’s what savings banks like savings and loans did.
+      And so, I could see that that real estate pricing was finance driven, primarily.
+      Nowhere in my entire PhD education at NYU did real estate ever come up as an economic
+      category. The economy was like something homogenized – everything the same, no
+      segregation of real estate or the financial sector is distinct from the industrial
+      sector. And then, once I went, to work for Chase Manhattan, it was part of a group
+      of, let’s say, investors of [00:16:00] economists all of whom had a socialist
+      Marxist background. And we’d get together regularly, and discuss everything. And,
+      we worked on Wall Street because they didn’t care what our political views were.
+      All that the banks cared about was whether I and my friends were right or wrong.
+      That wasn’t the case in the universities. At the universities, they didn’t care
+      if we were right or wrong, just that we believed their ideology. So, I found Wall
+      Street much more ideologically open than academia. So I, apart from teaching for
+      three years at the new graduate faculty of the new school here, I’ve always worked
+      with Wall Street and then with the Hudson Institute, largely on the corporate
+      environment studying how the economy worked, and that’s where I developed the
+      polarization of the economy between the financial sector at the top, impoverishing
+      and indebting the rest of the economy, the bottom 90%. And real estate was part
+      of that because the financial sectors, basically real estate, 80% of bank loans
+      in the US, Britain, I’m sure Australia too, is for real estate not for industry.
+      The banks make loans against assets and property that’s already in place. They
+      don’t make loans to create new capital investment. That’s for IPOs in the stock
+      market. They make loans against what do you have to pledge as collateral. It’s
+      all pretty much fixed by local big borrowers. In 1980, I tried to refinance my
+      mortgage, tried to mortgage with Chase Manhattan, and, this was on a slum area
+      in New York the lower East side, second Street in Avenue B. And the bank sent
+      an appraiser over. He kept wanting to run outside and see whether the Puerto Ricans
+      in the neighborhood had stolen his tires off his car yet. I bought the house for
+      $45,000. He said, no, we can’t give you a more of a mortgage on that. So, a month
+      later I put it up for sale for $220,000. But the bank had redlined the lower East
+      side, and the reason they’d redlined it was for all of the big capital firms to
+      come in, buy up the whole Lower East Side and do for New York City’s low-income
+      areas, what Obama had done to Chicago with the black neighborhoods in the west
+      side. Tear it all up. Make billions of dollars for his clients and the Crown family
+      and [they] gentrified the whole neighborhood. That’s what happened to the Lower
+      East Side. I did buy the apartment house next to me, for $12,000. I tried to develop
+      to create it into a condominium, selling it to the tenants for $2,000 a floor.
+      The rent I was getting was like $40 a month, $50 a month. The rent is now $2,500
+      a month, and these floors go silly as it is $250,000 to $300,000. Nobody would
+      buy them. They didn’t believe that the property prices would go up so much. The
+      whole phenomenon in the 1980s was the transformation of rental properties into
+      condominiums. A speculator would buy a building. Put down 1% of the money, take
+      a 99% mortgage, buy the building, and then offer it to the tenants as a condominium.
+      And then he would charge an equivalent that they would’ve to pay for the entire
+      mortgage value that they would have to pay all over again. So, he got the building
+      essentially for 1%, he multiplied his investment a hundred times. That’s what
+      created so many multimillionaires among the landlord class in Manhattan- panicking
+      people. If you don’t buy the condominium or the co-op, whatever we’re turning
+      it into, your rent’s gonna go up [00:20:00] from a few hundred dollars a month
+      for many thousand dollars a month. That’s a transformation of the real estate
+      market that transcends any kind of a cycle itself. It’s a transformation of the
+      market structure for real estate. jonathan: Are there any other things that, in
+      your findings that’s the same as the most aggressive investor on Wall Street,
+      that’ll be helpful for our listeners to know. Michael: Well, we watched what they
+      did, but none of us were rich. You know, we were just regular people and, we analyzed
+      what was happening. We could see what was happening, but, because we weren’t multimillionaires,
+      we weren’t allowed to play in the game, we could only look at the statistics and
+      analyze it, and people hired us to explain it. I think, they knew that we realistically
+      realized that the real estate game, the stock market game, it was a ripoff. It
+      was a free lunch. The economy’s all about getting a free lunch contrary to what
+      Milton Friedman said. And we knew it was a free lunch. We knew it was exploitation.
+      We knew it was all about economic rent. But that’s another thing that nobody discussed.
+      The concept of economic rent is a free lunch. And that’s really what made our
+      approach different. We looked at the phenomenon of economic rent, which does not
+      appear in any of the economic models or in the national Income models or the GDP
+      models. They don’t realize that there’s a distinction between earned income by
+      playing a productive role and collecting rents and rising property prices in your
+      sleep as John Stewart Mill put it. jonathan: Hmm. Brilliant. When’s your next
+      book out? Michael: It’s on the financial sector’s transformation of European and
+      world’s politics from the Crusades to World War I. I finished the whole book in
+      first draft. I then added a whole chapter on Persia, and the ripoffs that it had
+      by turning over its key sectors to foreign monopolists. And my focus is on how
+      Europe developed the whole spirit of classical economics from Adam Smith to John
+      Stewart Mill to Marx and the socialists onto the Americans school was, all about
+      trying to free markets from land rent to get rid of economic rent, monopoly, rent,
+      natural resource, rent, land rent- to get rid of the rentier interest in order
+      to have a low cost economy so that Britain, France, and later the United States
+      and Germany could compete with other countries and avoid the high costs of having
+      to support a landlord class and a monopoly class, and all the inheritance from
+      the feudal period. And, that was not how the European investors invested abroad.
+      So, you had a dichotomy in the way the world’s developed. And, this started really
+      to become extreme in the 19th century. European, Europe and the United States
+      were industrialized, capitalist nations keeping monopolies and as many functions
+      in the public domain as possible. In Europe’s and America’s foreign investment,
+      they sought rent yielding investments, mineral rights, land plantations, public
+      monopoly, infrastructure monopolies. And so, you had a whole different structure
+      of opposition to rent that made the industrial core so successful and competitive.
+      And the periphery rent racked economies that, never had a chance to develop in
+      the way that, Europe and the United States did. jonathan: So, one of the things
+      I would like your, your thoughts on are, when I look at the way that the private
+      equity companies have bought insurance companies, and so there’s more and more
+      focus on the fire sector. And insurance companies are paying out less and less
+      over here. It’s now so bad in the UK even that part of me thinks I don’t really
+      see the point of getting insurance cause they’re not gonna pay you out anyway
+      when the crisis happens. What’s your sense on how we get out of this mess? Michael:
+      The quickest way to make money for an insurance company is to go bankrupt. You
+      sell your insurance at a much lower price than your rivals. You get a big audience,
+      especially if you’re dealing with a hurricane area. You offer the insurance and
+      you get a lot of money in. And then the hurricane hits or a flood occurs, and
+      they’re wiped out and you say, oh, we already paid out all of the insurance premiums
+      in dividends and our own management fees and maybe some stock buyback so we’re
+      bankrupt. Well, I watched that happen a number of times from the 1960s onward,
+      and, to paraphrase the title of my colleague Bill Black’s book. The best way to
+      rob an insurance company is to own one. His title was The Best Way to Rob a Bank
+      is to Own One. They plan on not being able to pay their debts, because they’ve
+      stripped all of the assets to pay themselves income or to buy their own stocks,
+      to push up at price and make a short-term gain. And, leaving the government to
+      pick up the pieces or the hapless insurance customers to try to get by while their
+      properties wiped out. jonathan: A lot of these private equity firms have bought
+      the pension funds, the pension fund liability, or they’ve sold the agreement to
+      pay those things. I only see risk and danger. Also, the insurance that the pension
+      funds that are not bought by private equity, they’re buying what the private equity
+      is selling either in loans or obligations. And I just don’t see any security anywhere
+      in the system anymore. It’s just fragility… Michael: The only rational way to
+      have done this is the German way, a pay as you go. It’s crazy to make the pension
+      funds and, it was in the 1960s, it was called pension fund capitalism, or even
+      pension fund socialism because, you would make the employees save the money and
+      then lend it to a financial institution that would lend it to other financial
+      institutions. And, that was this flow of pension money savings is what pushed
+      up the stock market prices. Well, right now the stock market looks like it may
+      crash and the average stock market crash from a boom to a bust is 50%. So, if
+      the stock market and the Dow Jones average is now, let’s say 48,000, it’ll fall
+      at 24,000. All of a sudden, the pension funds are not going to be able to have
+      the capital to pay the pensions they promised. So, the poor pensioners are going
+      to be left without the pension, just like the customers for insurance companies,
+      but the pension fund managers will have paid themselves enormous amounts of money
+      for management premium. So again, the financial sector is inherently a ripoff.
+      That’s why it should be managed in the way that China’s managed finance and real
+      estate should be public sectors should and state owned. The government should
+      base the tax system on land rent and other economic rents- not as the classical
+      economists said, not, not leaving this for private free lunch rentiers to have
+      but the whole financial sector is a rentier economy and the financial sector lives
+      in the short run. You make money in the short run. You expect it to crash; you
+      figure out how am I going to get out when that crash comes? I can take as much
+      as I can in the short run, leave the victims to suffer later. And I’ve talked
+      to a lot of investors and they actually enjoy having got their money out and other
+      people are losers. Their pleasure is other people’s losing more than their own
+      pleasure in winning. I mean this is an antisocial mentality. jonathan: Hmm. Shocking.
+      Well, Michael, let us know when the book’s out and then we’ll, I’ll give it a
+      read and we’ll hop on and do another interview. Michael: I always like these discussions
+      ’cause I come up with new ways of formulating the problem. I think we’ve touched
+      on a good sense of proportion today or at least I hope we have. jonathan: Yes
+      Thanks very much. Jonathan Brown: Thank you for listening to the Shepheard Walwyn
+      Podcast. To explore these ideas further, be sure to visit our website, www.shepheardwalwyn.com,
+      and join our mailing list for news and special offers. Check out our authors and
+      buy the books to learn more. And you can also find us on social media. Links are
+      also on the website. And if you like the podcast, please head over to iTunes or
+      Spotify to give us a review. It’s surprisingly helpful in getting the ideas out
+      there. So, until next time, keep reading. Photo by Breno Assis on Unsplash The
+      post The Hidden Architecture of the Property Crisis first appeared on Michael
+      Hudson .'
+    one_sentence_summary: In a podcast episode, host Jonathan Brown interviews economist
+      Michael Hudson, discussing insights that diverge from the intended focus on Phil
+      Anderson's book, "The Secret Life of Real Estate and Banking," ultimately highlighting
+      the depth and value of their conversation.
+    paragraph_summary: In a recent podcast episode, host Jonathan Brown interviews economist
+      Michael Hudson, known for his insightful commentary on economic issues. The conversation,
+      initially intended to celebrate the 17th anniversary of the book "The Secret Life
+      of Real Estate and Banking" by Phil Anderson, quickly diverges into broader topics.
+      Hudson discusses significant upcoming economic challenges and the transformation
+      of the real estate market, particularly the shift from owner-occupied housing
+      to absentee ownership by large financial institutions. He also shares his personal
+      experience with property investment, noting the difficulties of investing in real
+      estate in New York. The interview highlights the importance of understanding these
+      economic dynamics for personal financial protection.
+    published: '2026-02-09T11:41:42+00:00'
+  - title: The Hidden Architecture of the Property Crisis
+    url: https://michael-hudson.com/2026/02/the-hidden-architecture-of-the-property-crisis/
+    text: 'Michael Hudson Hello and welcome to the podcast. I’m your host, Jonathan
+      Brown. Now, today we have an interview I made with Michael Hudson late last year.
+      Michael’s a truly astounding economist and commentator. I’ve had the privilege
+      of interviewing him a few times now, and it’s always illuminating. Now, this interview
+      was meant to be part of a celebration of the 17th anniversary of the publication
+      of this book, which has been a quiet bestseller for the last 17 years, the Secret
+      Life of Real Estate and Banking with Phil Anderson. It was meant to be about that,
+      but the conversation very quickly went off on its own. So, I left the interview
+      out of the podcast about Phil’s work, and I just thought, well, it’s such a good
+      conversation. Let’s release it. Just as a quick reminder in the interview, I do
+      refer to a guy called Phil, that’s Phil Anderson, the author of this book and
+      the cycle, and that’s Phil’s work. So strongly encouraged to take a look at that
+      you’ll see it in the links after this one. There’s some [00:01:00] severe economic
+      turbulence coming our way as Michael talks about. And you can use a lot of fulfill
+      ideas to protect yourself and your family. So that’s enough of, of The Secret
+      Life of Real Estate and Banking.Let’s just get into the interview. I start with
+      a question to Michael about what he’s been working on. So, let’s just jump straight
+      into his answer. Michael: I’ve been trying to finish, a book that I’m writing
+      myself. I look at how the whole environment for real estate is changing. The whole
+      real estate environment, the tax system, the increasing debt burden of real estate,
+      you’re seeing a whole transformation in real estate away from owner occupied housing
+      toward, certainly in America and Europe absentee ownership, of housing by large,
+      financial institutions like BlackRock, et cetera. jonathan: Do you invest in property
+      yourself? Michael: No longer, no. I own my own condominium. It is very hard to
+      invest in [00:02:00] property in New York if you’re not a major player. You’re
+      not well represented in landlord Tenant court. It’s a fixed game in New York.
+      Real estate investors together have a particular attorney that they use, and he
+      represents maybe thousands of people. I had one run as a tenant. I had one run
+      into him and whenever the judge or mediator began to talk in my favor, he said
+      he had another client and got another judge. The real estate investment in New
+      York is so utterly corrupt. In, 1980, I contracted to buy my condo on Murray Street,
+      a block from the World Trade Center. The lawyer, bought the property for himself.
+      And then tried to evict us, we sued. We got a very good lawyer and sued him. And
+      then he said, well, I’ve just sold it to Skadden Arps. They’re the most powerful
+      landlord in the city. And, Skadden Arps tried to evict us. There were four other
+      unit owners in the building. Skadden refused to put me on the negotiating board.
+      I was on the second floor right over a pizza parlour against my wishes. They rented
+      to a pizza Parlor. The heat went up to 86 degrees constantly. I was able to delay
+      the transfer of property for five years, during six years, we didn’t pay any rent
+      at all because, the property was contested. Finally, I sold out. I sold out because
+      I didn’t want to live in the 86 degrees. The building department works for the
+      landlords, not for the tenants. And, I have less than $2 billion, so I’m unable
+      to pay the bribes to the politicians’ campaigns that, finance the inspectors and
+      I had to move, which is very fortunate because, shortly thereafter, the World
+      Trade Center, a disaster happened with the airplanes. And not only the building,
+      but the entire neighborhood was filled with poison, air,  and debris every. Everything
+      that was electric or movable. Xerox machines, cameras were all completely covered
+      up with dust. So, I escaped all that by having to be forced to move. But that’s
+      my experience with just trying to buy an apartment for oneself. It’s a very predatory
+      market and I think its one reason why Mandami has won the New York Mayor election
+      promising to try to make real estate more affordable. But unless he’s able to
+      get rid of the corrupt judges and the corrupt building department that Mayor Koch
+      brought in… Although Mayor Koch wasn’t corrupt himself, he surrounded himself
+      with corrupt people because they’re his campaign contributors. And then Giuliani
+      completed the corruption. So, this is not a game for amateurs to play in investment.
+      To me that changing character of the real estate market is the most important
+      thing. The average rent in New York city is now over $4,500 a month. So, you can
+      imagine how much money you have to pay just in order to afford housing here. There’s
+      a big fight against rent control, and the rents have already been so high that
+      it’s almost transformed real estate from what it was in the past. That’s why I
+      don’t like thinking in terms of cycles. I wanna look at the transformation of
+      the real estate market and how the increasing real estate prices as a result of
+      increasing debt leverage as banks lend more and more of the purchase price to
+      borrowers and a property’s worth whatever a bank is going to lend. So, to me,
+      real estate is a byproduct of the financial sector. That’s what I look at. I don’t
+      isolate real estate as a sector in itself; it’s a derivative of the financial
+      sector. jonathan: Yeah. And so, Phil’s predictions we’re following the 18.6-year
+      cycle, which forecasts the peak, in 2026. Then likely a possibly catastrophic
+      crash. Not dissimilar… Michael: that’s quite likely jonathan: to your forecast
+      in 2005-6 when you wrote the Vanity Fair article. Michael: Okay what’s happening
+      now, number one. You have a weather change and the bad weather has increased insurance
+      costs so radically for housing, not only in Florida, but in the Midwest where
+      there are hurricanes and floods, the south, that real estate is falling further
+      and further behind. The people below 35 years old are not able to buy many homes
+      anymore. They tend to be renters because they simply cannot afford to buy. And
+      the large private capital companies have become the main buyers. For individual
+      family buyers, the insurance costs are way up. The interest rates are certainly
+      rising for real estate loans, not for big corporate loans, but for real estate
+      loans. So, there are specific reasons why the real estate, certainly in the United
+      States. Same thing in Europe. The economy for the 90% of the people is shrinking
+      in the United States. That’s why a lot of today you have the internet, and Nvidia,
+      stocks going up and you have the Dow Jones Industrial average going down. That’s
+      been happening all year long. So you have the real economy certainly, people private
+      home buyers are less and less able to afford housing. And, the result is a sharply
+      declining proportion of Americans own their own homes, especially in New York
+      City, that is primarily in a landlord owned economy. jonathan: Would you take
+      us through what your research shows about the changing structure of ownership.
+      Michael: Well, it’s largely owned by absentee landlords and specifically by large,
+      financial companies, such as BlackRock and, large companies that are buying the
+      housing. And when the interest rates begin to go way down for borrowers, less
+      so for homeowners, the firms that were able to borrow – the big capital investment
+      firms said, well, in the past you’re buying property, you made your money by borrowing
+      and earning rent. But now they realize that most of the money made on real estate
+      is made by the bankers. Rent is for paying interest, and rents going up because
+      that is the winner of any real estate purchases, whoever pledges the highest proportion
+      of the land’s rental value to pay the bank for the money that they borrow to outbid
+      rival bidders for this property. So, rent’s for paying interest and the large
+      companies that have been buying said, well, we can make more money. we can outbid
+      the private buyers of real estate because, if we buy for all cash, we borrow money
+      for ourselves, not against the building, but for the company itself. And then
+      we buy the building as whole owner, the building itself, for all cash and we don’t
+      have to pay a mortgage. So, the costs of carrying the property by a large company
+      is much lower than it is for homeowners. So, they can afford all of this, but
+      now the private capital companies are in a squeeze. So, they may pull back from
+      the market, especially as the ability of the population at large to pay rents
+      is falling back and as the costs of insurance, because of the bad weather and
+      all of the other problems is also rising. jonathan: And, I know in your career
+      you’ve done a great deal of work taking your research way back into history. Phil
+      has only done 225 years of research into the American land cycle going back to
+      the Harrison Act of 1800, what’s your endorsement of taking that historical view
+      of a market or of a country? Michael: it is very interesting that he called it
+      a land cycle? It’s really a financial cycle. It’s not that real estate is going
+      up and down. It’s the whole financial economy, the debt overhead, the debtor creditor
+      relationship is responsible for the real estate cycle. It’s not that real estate’s
+      going up and down because of population growth or other things- it’s the financial
+      cycle. It would help to compare the real estate cycle with the stock market cycle,
+      the railroad stock cycle, all of the other cycles. And you’ll see, that there
+      are reasons for the cycle of the number of years that Phil says. And the reason
+      is that it’s a constant buildup of debt and then a break. And the collapse of
+      the break causes a crisis, a plunge, and that’s what causes the real estate cycle
+      to be engulfed in this financial plunge that affects the entire economy. jonathan:
+      And I know in some of our previous conversations, you’ve spoken of how the asset
+      value or the asset appreciation or inflation generates liquidity in the marketplace,
+      which allows them to do more and more speculation which then leads to a bigger
+      and bigger crash. Michael: Yes, it’s a Ponzi scheme at a certain point. And, as
+      the 2008, 2009 crash was, but the aftermath of that was completely different from
+      other crashes. In most crashes, what happens is the crash wipes out the creditors
+      along with the debtors. There’s a bankruptcy and the debt goes back down and there’s
+      a recovery. Instead after 2008, the Obama administration that came in in January,
+      2009, followed the quantitative easing, flooding the banking system and the financial
+      system with the zero-interest rate policy that made that debt pyramiding and speculation
+      an easy way to make surefire gains so that the recovery in real estate prices
+      wasn’t a result of debt being wiped out- just the opposite. It was vast new debt
+      being created. That’s what a Ponzi scheme is. You create new debt to pay the earlier
+      players in the scheme. So, you had an inside out recovery as it were. Unlike the
+      past, when there was a crash, the response by the Fed of flooding the market with
+      zero interest rates, flooding the banking system and coming right out, and the
+      Fed bought long-term mortgages. It permitted Fannie Mae to raise the federally
+      insured packaged home mortgages to the point where they absorbed 43% of the home
+      buyer’s income – no longer the 25% which was the case when I bought property in
+      the 1960s. jonathan: So, based on all those things then, what’s your assessment
+      on where this is going to go in the next few years? Michael: It may very well
+      be a crash in 2026. That makes sense to me. The stock market’s gonna crash, most
+      people say, because it’s so overpriced. All of the signs by the technicians who
+      follow cycles and follow all of these market charts, say that there’s gonna be
+      a crash. So, it looks like right on schedule there may or will be a crash in 2026.
+      That sounds plausible to me. jonathan: And Michael, in your career, you have consistently
+      gone against the grain of the conventional view. Michael: There are two conventional
+      views. The conventional views that I agree with are the insiders on Wall Street.
+      The  conventional views in the mass media and, the newspapers are the exact opposite.
+      So, there’s a kind of propaganda. And then there’s what the economists and the
+      insiders and the big investors know themselves and the reality. So, there are
+      two sets of views, the reality views of the wealthy successful people and the
+      unreality views of the victims. So, the question is what set am I agreeing with?
+      jonathan: Oh, so one of the strange things then, because you’re so committed to
+      helping other people, how is it that you’ve got the same view as the predators
+      on Wall Street? How has that come about? Michael: Well, I worked on Wall Street,
+      that’s where I learned how the economy worked. I went to work in 1961-2 for the
+      Savings Banks Trust Company, which was a central bank for the savings banks and
+      for three years, my job was tracing mortgage loans, bank deposits. The increase
+      in the recycling of the exponential growth in bank deposits, just as a result
+      of paying dividends every three months. The growth in savings deposit, that would
+      be like a zigzag and just exponential growth. And this money was all being recycled
+      into mortgage loans ’cause that’s what savings banks like savings and loans did.
+      And so, I could see that that real estate pricing was finance driven, primarily.
+      Nowhere in my entire PhD education at NYU did real estate ever come up as an economic
+      category. The economy was like something homogenized – everything the same, no
+      segregation of real estate or the financial sector is distinct from the industrial
+      sector. And then, once I went, to work for Chase Manhattan, it was part of a group
+      of, let’s say, investors of [00:16:00] economists all of whom had a socialist
+      Marxist background. And we’d get together regularly, and discuss everything. And,
+      we worked on Wall Street because they didn’t care what our political views were.
+      All that the banks cared about was whether I and my friends were right or wrong.
+      That wasn’t the case in the universities. At the universities, they didn’t care
+      if we were right or wrong, just that we believed their ideology. So, I found Wall
+      Street much more ideologically open than academia. So I, apart from teaching for
+      three years at the new graduate faculty of the new school here, I’ve always worked
+      with Wall Street and then with the Hudson Institute, largely on the corporate
+      environment studying how the economy worked, and that’s where I developed the
+      polarization of the economy between the financial sector at the top, impoverishing
+      and indebting the rest of the economy, the bottom 90%. And real estate was part
+      of that because the financial sectors, basically real estate, 80% of bank loans
+      in the US, Britain, I’m sure Australia too, is for real estate not for industry.
+      The banks make loans against assets and property that’s already in place. They
+      don’t make loans to create new capital investment. That’s for IPOs in the stock
+      market. They make loans against what do you have to pledge as collateral. It’s
+      all pretty much fixed by local big borrowers. In 1980, I tried to refinance my
+      mortgage, tried to mortgage with Chase Manhattan, and, this was on a slum area
+      in New York the lower East side, second Street in Avenue B. And the bank sent
+      an appraiser over. He kept wanting to run outside and see whether the Puerto Ricans
+      in the neighborhood had stolen his tires off his car yet. I bought the house for
+      $45,000. He said, no, we can’t give you a more of a mortgage on that. So, a month
+      later I put it up for sale for $220,000. But the bank had redlined the lower East
+      side, and the reason they’d redlined it was for all of the big capital firms to
+      come in, buy up the whole Lower East Side and do for New York City’s low-income
+      areas, what Obama had done to Chicago with the black neighborhoods in the west
+      side. Tear it all up. Make billions of dollars for his clients and the Crown family
+      and [they] gentrified the whole neighborhood. That’s what happened to the Lower
+      East Side. I did buy the apartment house next to me, for $12,000. I tried to develop
+      to create it into a condominium, selling it to the tenants for $2,000 a floor.
+      The rent I was getting was like $40 a month, $50 a month. The rent is now $2,500
+      a month, and these floors go silly as it is $250,000 to $300,000. Nobody would
+      buy them. They didn’t believe that the property prices would go up so much. The
+      whole phenomenon in the 1980s was the transformation of rental properties into
+      condominiums. A speculator would buy a building. Put down 1% of the money, take
+      a 99% mortgage, buy the building, and then offer it to the tenants as a condominium.
+      And then he would charge an equivalent that they would’ve to pay for the entire
+      mortgage value that they would have to pay all over again. So, he got the building
+      essentially for 1%, he multiplied his investment a hundred times. That’s what
+      created so many multimillionaires among the landlord class in Manhattan- panicking
+      people. If you don’t buy the condominium or the co-op, whatever we’re turning
+      it into, your rent’s gonna go up [00:20:00] from a few hundred dollars a month
+      for many thousand dollars a month. That’s a transformation of the real estate
+      market that transcends any kind of a cycle itself. It’s a transformation of the
+      market structure for real estate. jonathan: Are there any other things that, in
+      your findings that’s the same as the most aggressive investor on Wall Street,
+      that’ll be helpful for our listeners to know. Michael: Well, we watched what they
+      did, but none of us were rich. You know, we were just regular people and, we analyzed
+      what was happening. We could see what was happening, but, because we weren’t multimillionaires,
+      we weren’t allowed to play in the game, we could only look at the statistics and
+      analyze it, and people hired us to explain it. I think, they knew that we realistically
+      realized that the real estate game, the stock market game, it was a ripoff. It
+      was a free lunch. The economy’s all about getting a free lunch contrary to what
+      Milton Friedman said. And we knew it was a free lunch. We knew it was exploitation.
+      We knew it was all about economic rent. But that’s another thing that nobody discussed.
+      The concept of economic rent is a free lunch. And that’s really what made our
+      approach different. We looked at the phenomenon of economic rent, which does not
+      appear in any of the economic models or in the national Income models or the GDP
+      models. They don’t realize that there’s a distinction between earned income by
+      playing a productive role and collecting rents and rising property prices in your
+      sleep as John Stewart Mill put it. jonathan: Hmm. Brilliant. When’s your next
+      book out? Michael: It’s on the financial sector’s transformation of European and
+      world’s politics from the Crusades to World War I. I finished the whole book in
+      first draft. I then added a whole chapter on Persia, and the ripoffs that it had
+      by turning over its key sectors to foreign monopolists. And my focus is on how
+      Europe developed the whole spirit of classical economics from Adam Smith to John
+      Stewart Mill to Marx and the socialists onto the Americans school was, all about
+      trying to free markets from land rent to get rid of economic rent, monopoly, rent,
+      natural resource, rent, land rent- to get rid of the rentier interest in order
+      to have a low cost economy so that Britain, France, and later the United States
+      and Germany could compete with other countries and avoid the high costs of having
+      to support a landlord class and a monopoly class, and all the inheritance from
+      the feudal period. And, that was not how the European investors invested abroad.
+      So, you had a dichotomy in the way the world’s developed. And, this started really
+      to become extreme in the 19th century. European, Europe and the United States
+      were industrialized, capitalist nations keeping monopolies and as many functions
+      in the public domain as possible. In Europe’s and America’s foreign investment,
+      they sought rent yielding investments, mineral rights, land plantations, public
+      monopoly, infrastructure monopolies. And so, you had a whole different structure
+      of opposition to rent that made the industrial core so successful and competitive.
+      And the periphery rent racked economies that, never had a chance to develop in
+      the way that, Europe and the United States did. jonathan: So, one of the things
+      I would like your, your thoughts on are, when I look at the way that the private
+      equity companies have bought insurance companies, and so there’s more and more
+      focus on the fire sector. And insurance companies are paying out less and less
+      over here. It’s now so bad in the UK even that part of me thinks I don’t really
+      see the point of getting insurance cause they’re not gonna pay you out anyway
+      when the crisis happens. What’s your sense on how we get out of this mess? Michael:
+      The quickest way to make money for an insurance company is to go bankrupt. You
+      sell your insurance at a much lower price than your rivals. You get a big audience,
+      especially if you’re dealing with a hurricane area. You offer the insurance and
+      you get a lot of money in. And then the hurricane hits or a flood occurs, and
+      they’re wiped out and you say, oh, we already paid out all of the insurance premiums
+      in dividends and our own management fees and maybe some stock buyback so we’re
+      bankrupt. Well, I watched that happen a number of times from the 1960s onward,
+      and, to paraphrase the title of my colleague Bill Black’s book. The best way to
+      rob an insurance company is to own one. His title was The Best Way to Rob a Bank
+      is to Own One. They plan on not being able to pay their debts, because they’ve
+      stripped all of the assets to pay themselves income or to buy their own stocks,
+      to push up at price and make a short-term gain. And, leaving the government to
+      pick up the pieces or the hapless insurance customers to try to get by while their
+      properties wiped out. jonathan: A lot of these private equity firms have bought
+      the pension funds, the pension fund liability, or they’ve sold the agreement to
+      pay those things. I only see risk and danger. Also, the insurance that the pension
+      funds that are not bought by private equity, they’re buying what the private equity
+      is selling either in loans or obligations. And I just don’t see any security anywhere
+      in the system anymore. It’s just fragility… Michael: The only rational way to
+      have done this is the German way, a pay as you go. It’s crazy to make the pension
+      funds and, it was in the 1960s, it was called pension fund capitalism, or even
+      pension fund socialism because, you would make the employees save the money and
+      then lend it to a financial institution that would lend it to other financial
+      institutions. And, that was this flow of pension money savings is what pushed
+      up the stock market prices. Well, right now the stock market looks like it may
+      crash and the average stock market crash from a boom to a bust is 50%. So, if
+      the stock market and the Dow Jones average is now, let’s say 48,000, it’ll fall
+      at 24,000. All of a sudden, the pension funds are not going to be able to have
+      the capital to pay the pensions they promised. So, the poor pensioners are going
+      to be left without the pension, just like the customers for insurance companies,
+      but the pension fund managers will have paid themselves enormous amounts of money
+      for management premium. So again, the financial sector is inherently a ripoff.
+      That’s why it should be managed in the way that China’s managed finance and real
+      estate should be public sectors should and state owned. The government should
+      base the tax system on land rent and other economic rents- not as the classical
+      economists said, not, not leaving this for private free lunch rentiers to have
+      but the whole financial sector is a rentier economy and the financial sector lives
+      in the short run. You make money in the short run. You expect it to crash; you
+      figure out how am I going to get out when that crash comes? I can take as much
+      as I can in the short run, leave the victims to suffer later. And I’ve talked
+      to a lot of investors and they actually enjoy having got their money out and other
+      people are losers. Their pleasure is other people’s losing more than their own
+      pleasure in winning. I mean this is an antisocial mentality. jonathan: Hmm. Shocking.
+      Well, Michael, let us know when the book’s out and then we’ll, I’ll give it a
+      read and we’ll hop on and do another interview. Michael: I always like these discussions
+      ’cause I come up with new ways of formulating the problem. I think we’ve touched
+      on a good sense of proportion today or at least I hope we have. jonathan: Yes
+      Thanks very much. Jonathan Brown: Thank you for listening to the Shepheard Walwyn
+      Podcast. To explore these ideas further, be sure to visit our website, www.shepheardwalwyn.com,
+      and join our mailing list for news and special offers. Check out our authors and
+      buy the books to learn more. And you can also find us on social media. Links are
+      also on the website. And if you like the podcast, please head over to iTunes or
+      Spotify to give us a review. It’s surprisingly helpful in getting the ideas out
+      there. So, until next time, keep reading. Photo by Breno Assis on Unsplash The
+      post The Hidden Architecture of the Property Crisis first appeared on Michael
+      Hudson .'
+    one_sentence_summary: In a podcast episode, host Jonathan Brown interviews economist
+      Michael Hudson, discussing insights that diverge from the intended focus on Phil
+      Anderson's book, "The Secret Life of Real Estate and Banking," ultimately highlighting
+      the depth and value of their conversation.
+    paragraph_summary: In a recent podcast episode, host Jonathan Brown interviews economist
+      Michael Hudson, known for his insightful commentary on economic issues. The conversation,
+      initially intended to celebrate the 17th anniversary of the book "The Secret Life
+      of Real Estate and Banking" by Phil Anderson, quickly diverges into broader topics.
+      Hudson discusses significant upcoming economic challenges and the transformation
+      of the real estate market, particularly the shift from owner-occupied housing
+      to absentee ownership by large financial institutions. He also shares his personal
+      experience with property investment, noting the difficulties of investing in real
+      estate in New York. The interview highlights the importance of understanding these
+      economic dynamics for personal financial protection.
+    published: '2026-02-09T11:41:42+00:00'
+  - title: 'Audiobook: Super Imperialism'
+    url: https://michael-hudson.com/2026/02/audiobook-super-imperialism/
+    text: 'Michael Hudson’s Super Imperialism is now available as an audiobook , making
+      one of the most important critiques of the postwar global financial system newly
+      accessible to a wider audience. First published in 1972 and repeatedly confirmed
+      by subsequent crises, the book explains how the United States converted what should
+      have been a structural weakness, its balance of payments deficit, into a durable
+      instrument of global power. For students and researchers navigating an increasingly
+      unstable world economy, the audiobook arrives at a moment of renewed relevance.
+      After the collapse of the gold standard, the US engineered a system in which foreign
+      central banks were effectively forced to recycle their trade surpluses into US
+      Treasury bonds. Rather than paying for overseas military bases, wars, and imports
+      in real terms, the US issued dollar liabilities that other countries had to hold
+      as reserves. America’s deficit became the rest of the world’s problem, binding
+      global savings to US fiscal and military priorities. Hudson demonstrates that
+      this arrangement was not a market outcome but a deliberate redesign of international
+      finance. The IMF, World Bank, and dollar-based payments system enforced austerity,
+      privatisation, and debt dependence on debtor nations while insulating the US from
+      the rules imposed on others. Financial control replaced formal empire. With the
+      rise of BRICS+, de-dollarisation efforts, and growing resistance to sanctions
+      and reserve seizures, Super Imperialism reads less like history and more like
+      a field guide to the present. The new audiobook makes Hudson’s framework portable
+      and immediate, offering students a clear, structural understanding of global power
+      that is essential for interpreting today’s shift toward a contested, multipolar
+      monetary order. The post Audiobook: Super Imperialism first appeared on Michael
+      Hudson .'
+    one_sentence_summary: Michael Hudson's "Super Imperialism" is now available as an
+      audiobook, offering a critical analysis of the postwar global financial system
+      and the U.S.'s strategic manipulation of its balance of payments deficit to maintain
+      global power, making it timely for those studying today's unstable economy.
+    paragraph_summary: Michael Hudson's influential book, *Super Imperialism*, is now
+      available as an audiobook, enhancing accessibility to its critical examination
+      of the postwar global financial system. Originally published in 1972, the book
+      argues that the United States transformed its balance of payments deficit into
+      a tool of global dominance, compelling foreign central banks to invest their trade
+      surpluses in US Treasury bonds. This arrangement allowed the US to finance military
+      bases, wars, and imports without direct costs, effectively making its deficit
+      a global issue while maintaining control over international finance through institutions
+      like the IMF and World Bank. As the world faces challenges such as the rise of
+      BRICS+, efforts toward de-dollarisation, and resistance to US sanctions, the audiobook
+      serves as a timely resource for students and researchers, providing a structural
+      framework to understand the current shift towards a multipolar monetary order.
+    published: '2026-02-04T20:30:29+00:00'
+  - title: 'Audiobook: Super Imperialism'
+    url: https://michael-hudson.com/2026/02/audiobook-super-imperialism/
+    text: 'Michael Hudson’s Super Imperialism is now available as an audiobook , making
+      one of the most important critiques of the postwar global financial system newly
+      accessible to a wider audience. First published in 1972 and repeatedly confirmed
+      by subsequent crises, the book explains how the United States converted what should
+      have been a structural weakness, its balance of payments deficit, into a durable
+      instrument of global power. For students and researchers navigating an increasingly
+      unstable world economy, the audiobook arrives at a moment of renewed relevance.
+      After the collapse of the gold standard, the US engineered a system in which foreign
+      central banks were effectively forced to recycle their trade surpluses into US
+      Treasury bonds. Rather than paying for overseas military bases, wars, and imports
+      in real terms, the US issued dollar liabilities that other countries had to hold
+      as reserves. America’s deficit became the rest of the world’s problem, binding
+      global savings to US fiscal and military priorities. Hudson demonstrates that
+      this arrangement was not a market outcome but a deliberate redesign of international
+      finance. The IMF, World Bank, and dollar-based payments system enforced austerity,
+      privatisation, and debt dependence on debtor nations while insulating the US from
+      the rules imposed on others. Financial control replaced formal empire. With the
+      rise of BRICS+, de-dollarisation efforts, and growing resistance to sanctions
+      and reserve seizures, Super Imperialism reads less like history and more like
+      a field guide to the present. The new audiobook makes Hudson’s framework portable
+      and immediate, offering students a clear, structural understanding of global power
+      that is essential for interpreting today’s shift toward a contested, multipolar
+      monetary order. The post Audiobook: Super Imperialism first appeared on Michael
+      Hudson .'
+    one_sentence_summary: Michael Hudson's "Super Imperialism" is now available as an
+      audiobook, offering a critical analysis of the postwar global financial system
+      and the U.S.'s strategic manipulation of its balance of payments deficit to maintain
+      global power, making it timely for those studying today's unstable economy.
+    paragraph_summary: Michael Hudson's influential book, *Super Imperialism*, is now
+      available as an audiobook, enhancing accessibility to its critical examination
+      of the postwar global financial system. Originally published in 1972, the book
+      argues that the United States transformed its balance of payments deficit into
+      a tool of global dominance, compelling foreign central banks to invest their trade
+      surpluses in US Treasury bonds. This arrangement allowed the US to finance military
+      bases, wars, and imports without direct costs, effectively making its deficit
+      a global issue while maintaining control over international finance through institutions
+      like the IMF and World Bank. As the world faces challenges such as the rise of
+      BRICS+, efforts toward de-dollarisation, and resistance to US sanctions, the audiobook
+      serves as a timely resource for students and researchers, providing a structural
+      framework to understand the current shift towards a multipolar monetary order.
+    published: '2026-02-04T20:30:29+00:00'
   - title: The End of Dollar Discipline
     url: https://michael-hudson.com/2026/02/the-end-of-dollar-discipline/
     text: 'Professor Michael Hudson’s interview with Lena Petrova January 24, 2026 LENA

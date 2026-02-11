@@ -7,16 +7,74 @@ description: "Jack Rasmus is an American economist, author, and radio show host 
 websites:
   - https://jackrasmus.com/
 summary: |
-  In the early weeks of February 2026, the geopolitical landscape continues to be shaped by mounting economic instability in the United States and its ripple effects on global affairs. The most recent analyses underscore the interconnectedness of domestic economic policy, international maneuvering, and the evolving balance of power.
+  As global markets continue to reel from sharp contractions, the geopolitical and economic landscape is showing signs of heightened instability. Recent analyses highlight the convergence of financial volatility, questionable economic narratives from the Trump administration, and a shifting focus in U.S. foreign policy.
   
-  The latest report by **Jack Rasmus** highlights a sharp acceleration in gold price fluctuations and a notable decline in the US dollar’s value. These developments are closely tied to expectations that the new Federal Reserve chair will soon lower short-term interest rates in an attempt to stabilize financial markets. Rasmus argues that these moves reflect not only internal economic pressures—such as stagnant job growth and persistent inflation—but also signal a weakening of the US’s global economic position. He warns, “The US empire’s economic standing is eroding as monetary policy becomes increasingly reactive rather than strategic.”
+  The most immediate development is the pronounced downturn across multiple asset classes. According to **Jack Rasmus**, "recent sharp contractions in various asset markets, including stocks, cryptocurrencies, and precious metals," are flashing red warning signals. Rasmus attributes these contractions to a combination of speculative bubbles, underlying economic weaknesses, and policy missteps. He warns that the disconnect between official economic messaging and real data is growing, especially as President Trump continues to tout what Rasmus calls a "fake news" version of U.S. economic health. The majority view among analysts is that these asset bubbles are not isolated and could trigger broader financial instability if not addressed.
   
-  On the international front, Rasmus’s analysis of President Trump’s recent actions—including renewed tariffs and his controversial interest in Greenland—points to a more aggressive, transactional approach to foreign policy. Trump’s speech at the World Economic Forum (WEF) drew criticism for downplaying underlying economic issues at home, such as the lack of real wage growth and the inflationary squeeze on consumers. The administration’s focus on NATO frameworks and territorial ambitions in the Arctic are seen as attempts to compensate for diminishing leverage elsewhere.
+  On the monetary front, there is increasing attention on the Federal Reserve's anticipated rate cuts under its new chair. Rasmus notes that the "accelerating fluctuations in gold prices and the declining value of the US dollar" are directly tied to expectations of looser monetary policy. This dynamic is eroding confidence in the dollar and, by extension, the global economic standing of the U.S. Rasmus argues that these trends are symptomatic of deeper structural weaknesses in the U.S. economy, which are being masked by short-term financial engineering.
   
-  Looking ahead, Rasmus predicts with high confidence that the US will continue to experience currency volatility and asset bubbles, driven by policy uncertainty and the Federal Reserve’s anticipated rate cuts. He also foresees ongoing geopolitical friction as the administration seeks to assert influence in new regions while domestic economic fundamentals remain weak. “I guarantee,” he states, “that unless there is a fundamental shift in policy direction, the US will most definitely see further erosion of its economic and geopolitical clout throughout 2026.”
+  In terms of foreign policy, the U.S. is undergoing a strategic pivot. As Rasmus reports, there is a "shift in focus from Europe and Ukraine to assert influence and counter threats in the Western Hemisphere and the western Pacific." This realignment is seen as an attempt to shore up U.S. influence closer to home amid growing challenges abroad. The administration's controversial moves—such as renewed interest in Greenland and aggressive tariff policies—are viewed as part of a broader effort to reassert American power, though their effectiveness remains in question.
   
-  In summary, the prevailing trends point to a US increasingly on the defensive—economically and strategically—while global competitors exploit openings created by American policy missteps. The coming months are likely to see continued financial turbulence and assertive, if not erratic, foreign policy moves as Washington grapples with its waning dominance.
+  Looking ahead, the consensus among independent analysts is that the risk of a broader financial crisis is rising. Rasmus states with high confidence: "I guarantee that unless there is a fundamental change in policy direction, the U.S. will face continued economic instability and geopolitical pushback." The expectation is for continued volatility in asset markets, a weakening dollar, and further shifts in U.S. foreign policy priorities as the administration seeks to manage both domestic and international pressures.
 articles:
+  - title: Financial Bubbles Flashing Red + Trump’s ‘Fake News’ US Economy
+    url: https://jackrasmus.com/2026/02/09/financial-bubbles-flashing-red-trumps-fake-news-us-economy/
+    text: 'Today’s show discusses the contractions in asset markets this past week and
+      the causes underlying and potential contagion across them: AI driven S&P500 and
+      Nasdaq stock markets, Bitcoin & Cryptos markets, and Gold and Silver markets–all
+      contracted sharply. A harbinger of more to come this year? The current contractions
+      vs. past 3 years performances in each are described. What’s behind the February
+      crashes. Will they now stabilize? Why more churn is coming. The real causes and
+      risks behind the massive $700B big 7 Tech corps AI gamble underway. What’s driving
+      the gold and silver bubbles, long term and short. Second half of the show debunks
+      claims made by Trump in his January 31 Wall St. Journal article about the state
+      of the real US economy. Why the real data don’t support his exaggerations and
+      lies.'
+    one_sentence_summary: The show analyzes recent sharp contractions in various asset
+      markets, including stocks, cryptocurrencies, and precious metals, explores the
+      underlying causes and potential future risks, and critiques Trump's claims about
+      the U.S. economy based on real data.
+    paragraph_summary: The show examines recent contractions in various asset markets,
+      including the AI-driven S&P 500 and Nasdaq, Bitcoin and cryptocurrencies, as well
+      as gold and silver, highlighting the potential for further market turmoil this
+      year. It contrasts current downturns with the performance of these markets over
+      the past three years and explores the factors behind the February crashes, questioning
+      whether stabilization is imminent and predicting continued volatility. The discussion
+      also delves into the significant $700 billion investment by major tech companies
+      in AI and the underlying risks, as well as the dynamics fueling the gold and silver
+      markets. In the latter part of the show, claims made by Trump regarding the state
+      of the US economy in a Wall Street Journal article are scrutinized, revealing
+      a disconnect between his assertions and the actual economic data.
+    published: '2026-02-09T18:45:51+00:00'
+  - title: Financial Bubbles Flashing Red + Trump’s ‘Fake News’ US Economy
+    url: https://jackrasmus.com/2026/02/09/financial-bubbles-flashing-red-trumps-fake-news-us-economy/
+    text: 'Today’s show discusses the contractions in asset markets this past week and
+      the causes underlying and potential contagion across them: AI driven S&P500 and
+      Nasdaq stock markets, Bitcoin & Cryptos markets, and Gold and Silver markets–all
+      contracted sharply. A harbinger of more to come this year? The current contractions
+      vs. past 3 years performances in each are described. What’s behind the February
+      crashes. Will they now stabilize? Why more churn is coming. The real causes and
+      risks behind the massive $700B big 7 Tech corps AI gamble underway. What’s driving
+      the gold and silver bubbles, long term and short. Second half of the show debunks
+      claims made by Trump in his January 31 Wall St. Journal article about the state
+      of the real US economy. Why the real data don’t support his exaggerations and
+      lies.'
+    one_sentence_summary: The show analyzes recent sharp contractions in various asset
+      markets, including stocks, cryptocurrencies, and precious metals, explores the
+      underlying causes and potential future risks, and critiques Trump's claims about
+      the U.S. economy based on real data.
+    paragraph_summary: The show examines recent contractions in various asset markets,
+      including the AI-driven S&P 500 and Nasdaq, Bitcoin and cryptocurrencies, as well
+      as gold and silver, highlighting the potential for further market turmoil this
+      year. It contrasts current downturns with the performance of these markets over
+      the past three years and explores the factors behind the February crashes, questioning
+      whether stabilization is imminent and predicting continued volatility. The discussion
+      also delves into the significant $700 billion investment by major tech companies
+      in AI and the underlying risks, as well as the dynamics fueling the gold and silver
+      markets. In the latter part of the show, claims made by Trump regarding the state
+      of the US economy in a Wall Street Journal article are scrutinized, revealing
+      a disconnect between his assertions and the actual economic data.
+    published: '2026-02-09T18:45:51+00:00'
   - title: The Gold Bubble, $US Dollar Devalue & the Fed
     url: https://jackrasmus.com/2026/02/03/the-gold-bubble-us-dollar-devalue-the-fed/
     text: https://alternativevisions.podbean.com/e/alternative-visions-with-jack-rasmus-13026/

@@ -7,16 +7,529 @@ description: "Gilbert Doctorow is a Brussels-based independent political analyst
 websites:
   - https://gilbertdoctorow.com/
 summary: |
-  As the Ukraine conflict and broader East-West tensions continue to dominate the geopolitical landscape, recent developments suggest a subtle but significant shift in both diplomatic tone and strategic calculations, particularly within Europe and the United States.
+  The geopolitical landscape remains tense as new developments emerge surrounding the attempted assassination of Russian Lt General Alekseev and the broader context of US-Russia-Iran relations. The Russian media narrative, as analyzed by **Gilbert Doctorow**, is increasingly complex: while the Kremlin officially blames Ukrainian military intelligence for the attack on Alekseev, some outlets subtly suggest the involvement of foreign special forces. This dual messaging appears designed to justify potential Russian retaliation while avoiding a direct escalation with Western powers.
   
-  In a notable departure from the prevailing EU consensus, Belgian Prime Minister Bart de Wever has publicly resisted calls for the confiscation of Russian state assets. **Gilbert Doctorow** commends de Wever’s “clarity, openness, and boldness” in his recent podcast on “The Future of Europe,” emphasizing the Prime Minister’s willingness to address complex issues and challenge the more hawkish positions of other European leaders. This stance may signal emerging fractures within the EU regarding its Russia policy, especially as economic and legal concerns over asset seizures mount.
+  **Doctorow** further argues that the sophistication of the assassination plot points toward British MI6 involvement rather than solely Ukrainian actors. He notes, “the missing link in the assassination attempt against Lt General Alekseev is probably sitting in London, in the MI6 offices,” underscoring the likelihood of Western intelligence coordination. This perspective is gaining traction in Russian analysis, reflecting a broader skepticism about Ukraine’s capacity to act independently in such high-profile operations.
   
-  Meanwhile, the ongoing U.S.-Russia-Ukraine negotiations in Abu Dhabi remain a focal point. While Western media coverage has been sparse, Russian sources and analysts like **Dmitry Kiselyov** (as cited by Doctorow) have revealed that these talks are not merely symbolic. Instead, they involve direct engagement between military intelligence officers, with discussions reportedly centering on the conditions for a Ukrainian withdrawal from parts of the Donbas region. This contrasts sharply with the more ambiguous public statements from Western officials, suggesting that substantive, if quiet, progress is being made behind closed doors.
+  On the Iran front, the upcoming US-Iran negotiations are drawing increased attention, particularly after a notable spike in Israeli interest in related commentary. **Doctorow** highlights the controlled and strategic nature of Trump’s foreign policy communications, suggesting that backchannel negotiations remain opaque but pivotal. Russia continues to assert that Iran alone will decide on uranium removal, reinforcing Tehran’s agency ahead of talks.
   
-  On the U.S. domestic front, the potential role of Donald Trump in brokering peace in Ukraine continues to be debated. In a recent conversation with Mike Farris, **Gilbert Doctorow** notes a lighter tone but also underscores the financial realities facing independent journalists, hinting at the broader challenges of sustaining nuanced coverage in a polarized media environment.
-  
-  Looking ahead, the trends point toward an incremental shift from maximalist positions to more pragmatic negotiations, particularly as economic pressures and political fatigue set in across Europe. If the Abu Dhabi talks continue to advance, there is a high chance that some form of phased Ukrainian withdrawal from contested territories could be brokered, possibly in exchange for substantial Western financial guarantees and international peacekeeping arrangements. I guarantee that internal EU debates, such as those exemplified by de Wever, will intensify, potentially reshaping the bloc’s collective approach to Russia and the ongoing conflict.
+  Looking ahead, the prevailing trend is one of managed escalation: Russia is likely to use the Alekseev incident as leverage in its broader confrontation with the West, but will avoid actions that could trigger direct conflict with NATO. In the Middle East, the US-Iran dialogue is expected to proceed cautiously, with regional actors closely monitoring for shifts in American strategy. Based on the current trajectory, there is a high chance that Russia will intensify its hybrid responses—cyber, diplomatic, and covert—rather than overt military escalation. I guarantee that the opaque, multi-layered communication strategies among the US, Russia, and Iran will continue to shape the next phase of these intertwined crises.
 articles:
+  - title: Was Ukraine acting alone in the attempted assassination of General Alekseev?
+    url: https://gilbertdoctorow.com/2026/02/09/was-ukraine-acting-alone-in-the-attempted-assassination-of-general-alekseev/
+    text: This question comes up as from minute 22.56 in the podcast below recorded
+      with News X World this morning. Last night’s News of the Week review hosted by
+      Dmitry Kiselyov had a 20-minute segment at the outset dealing with the capture
+      and forcible return of the prime suspect in the assassination, gunman Miroslav 
+      There was not a word to suggest that anyone other than the Ukrainian military
+      intelligence was responsible for this attack. However, I believe the Kremlin does
+      not want to direct accusations at England or any country other than Ukraine for
+      this act of terror so as to justify its new highly destructive revenge attacks
+      on Ukraine and to avoid escalation and spread of the war. Not everyone in Russian
+      media buys that story.  Today’s Channel 5 TV news online has as subtitle to its
+      report on the assassination:  ‘foreign special forces could be behind the attempted
+      murder of the Russian military commander’  Regrettably they do not expand on that
+      assertion in the report proper.
+    one_sentence_summary: The podcast discusses the Russian media's portrayal of the
+      assassination of a military commander, suggesting that while the Kremlin blames
+      Ukrainian military intelligence, some outlets hint at the involvement of foreign
+      special forces, reflecting a complex narrative aimed at justifying retaliatory
+      actions without escalating the conflict.
+    paragraph_summary: In a recent podcast discussion on News X World, the focus was
+      on the assassination of a Russian military commander, specifically the capture
+      of the prime suspect, Miroslav. The segment, hosted by Dmitry Kiselyov, emphasized
+      that Ukrainian military intelligence was solely responsible for the attack, with
+      no mention of other potential culprits. However, the Kremlin appears hesitant
+      to blame any country besides Ukraine, likely to justify its retaliatory strikes
+      without escalating the conflict further. Contrarily, some Russian media, such
+      as Channel 5 TV, hinted at the possibility of foreign special forces being involved
+      in the assassination attempt, though they did not elaborate on this claim in their
+      report.
+    published: '2026-02-09T14:21:49+00:00'
+  - title: Was Ukraine acting alone in the attempted assassination of General Alekseev?
+    url: https://gilbertdoctorow.com/2026/02/09/was-ukraine-acting-alone-in-the-attempted-assassination-of-general-alekseev/
+    text: This question comes up as from minute 22.56 in the podcast below recorded
+      with News X World this morning. Last night’s News of the Week review hosted by
+      Dmitry Kiselyov had a 20-minute segment at the outset dealing with the capture
+      and forcible return of the prime suspect in the assassination, gunman Miroslav 
+      There was not a word to suggest that anyone other than the Ukrainian military
+      intelligence was responsible for this attack. However, I believe the Kremlin does
+      not want to direct accusations at England or any country other than Ukraine for
+      this act of terror so as to justify its new highly destructive revenge attacks
+      on Ukraine and to avoid escalation and spread of the war. Not everyone in Russian
+      media buys that story.  Today’s Channel 5 TV news online has as subtitle to its
+      report on the assassination:  ‘foreign special forces could be behind the attempted
+      murder of the Russian military commander’  Regrettably they do not expand on that
+      assertion in the report proper.
+    one_sentence_summary: The podcast discusses the Russian media's portrayal of the
+      assassination of a military commander, suggesting that while the Kremlin blames
+      Ukrainian military intelligence, some outlets hint at the involvement of foreign
+      special forces, reflecting a complex narrative aimed at justifying retaliatory
+      actions without escalating the conflict.
+    paragraph_summary: In a recent podcast discussion on News X World, the focus was
+      on the assassination of a Russian military commander, specifically the capture
+      of the prime suspect, Miroslav. The segment, hosted by Dmitry Kiselyov, emphasized
+      that Ukrainian military intelligence was solely responsible for the attack, with
+      no mention of other potential culprits. However, the Kremlin appears hesitant
+      to blame any country besides Ukraine, likely to justify its retaliatory strikes
+      without escalating the conflict further. Contrarily, some Russian media, such
+      as Channel 5 TV, hinted at the possibility of foreign special forces being involved
+      in the assassination attempt, though they did not elaborate on this claim in their
+      report.
+    published: '2026-02-09T14:21:49+00:00'
+  - title: The missing link in the assassination attempt against Lt General Alekseev
+      is probably sitting in London, in the MI6 offices
+    url: https://gilbertdoctorow.com/2026/02/08/the-missing-link-in-the-assassination-attempt-against-lt-general-alekseev-is-probably-sitting-in-london-in-the-mi6-offices/
+    text: I am delighted that the Indians, given their complex relationship with their
+      former colonial overlords in London, permitted me to set out the argument for
+      laying the assassination attempt against Lt General Alekseev before the door of
+      the British MI6.  I took the liberty of speaking freely, thinking back at the
+      remark I heard one Indian commentator make on air some years ago that the British
+      concept of ‘fair play’ is a knee to the groin. For this discussion go to minute
+      22 on the podcast above. I am saying that perhaps Kiev was right in denying that
+      it was behind the plot to kill Alekseev. That the prime suspect was captured in
+      Dubai suggests to me that the plotters had means and the logistical expertise
+      of a higher level than you would find in Kiev’s military intelligence unit acting
+      alone. Earlier on the podcast, beginning at minute 16 you will find my discussion
+      with the presenter of the reasons why both Kiev and Moscow are saying that Donald
+      Trump is trying to accelerate the peace talks with a view to winding up the war
+      before June. ©Gilbert Doctorow, 2026
+    one_sentence_summary: The author argues that the assassination attempt on Lt General
+      Alekseev may be linked to British MI6 rather than Kiev, suggesting that the sophistication
+      of the plot indicates involvement beyond Ukraine's military intelligence, while
+      also discussing the implications of Donald Trump's actions on peace efforts in
+      the region.
+    paragraph_summary: In a recent podcast, the speaker discusses the assassination
+      attempt on Lt General Alekseev, suggesting that British MI6 may be implicated,
+      reflecting on India's complex historical relationship with Britain. The speaker
+      argues that the sophistication of the plot, indicated by the capture of a prime
+      suspect in Dubai, points to involvement beyond Kiev's military intelligence capabilities.
+      Additionally, the podcast touches on the perspectives of both Kiev and Moscow
+      regarding Donald Trump's efforts to expedite peace talks aimed at resolving the
+      ongoing conflict before June.
+    published: '2026-02-08T15:49:40+00:00'
+  - title: The missing link in the assassination attempt against Lt General Alekseev
+      is probably sitting in London, in the MI6 offices
+    url: https://gilbertdoctorow.com/2026/02/08/the-missing-link-in-the-assassination-attempt-against-lt-general-alekseev-is-probably-sitting-in-london-in-the-mi6-offices/
+    text: I am delighted that the Indians, given their complex relationship with their
+      former colonial overlords in London, permitted me to set out the argument for
+      laying the assassination attempt against Lt General Alekseev before the door of
+      the British MI6.  I took the liberty of speaking freely, thinking back at the
+      remark I heard one Indian commentator make on air some years ago that the British
+      concept of ‘fair play’ is a knee to the groin. For this discussion go to minute
+      22 on the podcast above. I am saying that perhaps Kiev was right in denying that
+      it was behind the plot to kill Alekseev. That the prime suspect was captured in
+      Dubai suggests to me that the plotters had means and the logistical expertise
+      of a higher level than you would find in Kiev’s military intelligence unit acting
+      alone. Earlier on the podcast, beginning at minute 16 you will find my discussion
+      with the presenter of the reasons why both Kiev and Moscow are saying that Donald
+      Trump is trying to accelerate the peace talks with a view to winding up the war
+      before June. ©Gilbert Doctorow, 2026
+    one_sentence_summary: The author argues that the assassination attempt on Lt General
+      Alekseev may be linked to British MI6 rather than Kiev, suggesting that the sophistication
+      of the plot indicates involvement beyond Ukraine's military intelligence, while
+      also discussing the implications of Donald Trump's actions on peace efforts in
+      the region.
+    paragraph_summary: In a recent podcast, the speaker discusses the assassination
+      attempt on Lt General Alekseev, suggesting that British MI6 may be implicated,
+      reflecting on India's complex historical relationship with Britain. The speaker
+      argues that the sophistication of the plot, indicated by the capture of a prime
+      suspect in Dubai, points to involvement beyond Kiev's military intelligence capabilities.
+      Additionally, the podcast touches on the perspectives of both Kiev and Moscow
+      regarding Donald Trump's efforts to expedite peace talks aimed at resolving the
+      ongoing conflict before June.
+    published: '2026-02-08T15:49:40+00:00'
+  - title: Podcast for ‘IranTalks’ interview from 5 February on then pending Iran-US
+      negotiations
+    url: https://gilbertdoctorow.com/2026/02/08/podcast-for-irantalks-interview-from-5-february-on-then-pending-iran-us-negotiations/
+    text: I consider it an honor to have been invited to discuss such a sensitive and
+      very timely issue with this Iranian broadcaster over the course of 41 minutes.
+      Though the viewer numbers are still modest, there was apparently some impact in
+      the region because a day ago I suddenly had 126 Israelis inspecting my Word Press
+      web site, a first time ever event. Who says that Israelis are indifferent to Iranian
+      media? Our conversation centered on Mr. Trump’s threats of military attack on
+      Iran, his sending an aircraft carrier task force and numerous other military assets
+      to the region for execution of such an attack and his demands that Iran essentially
+      disarm and accept the position of US-Israeli vassal. I directed particular attention
+      to how Trump has exercised great care to control all communications surrounding
+      his foreign policy initiatives, including what he is doing over Iran. I describe
+      in some detail the distinction between what we will hear in public space about
+      any settlement of the Iranian crisis and the real moving parts which are kept
+      secret because they would compromise Trump in the public arena. We will not hear,
+      for example, about the eventual decision on disposition (shipment abroad) of the
+      400 kg of weapons grade enriched uranium that Iran evidently moved ahead of Trump’s
+      bombing of nuclear installations and their supposed ‘obliteration.’ The presenter,
+      Wesam Bahrani, asks about the possibility that Trump’s aggressiveness towards
+      Iran is being driven by the control that Mossad may have over him going back to
+      his relationship with Mossad-controlled Epstein. He asks why Witkoff goes to visit
+      Israel each time before heading for negotiations with Iran.  He asks if Trump
+      really is in control of U.S. policy or is it being decided by far smarter people
+      like J.D. Vance. I leave it to viewers to follow my answers to these questions
+      in the podcast. Here, however, I want to bring out a bigger point:   I maintain
+      that though Trump may have a vocabulary limited to 1,000 words (in contrast to
+      the average educated German who is said to have a vocabulary of 50,000 words),
+      Trump is no fool and has an idea or two in his head. To be precise, I emphasize
+      that the relationship of Trump to, say, the very clever Vice President J.D. Vance
+      is similar to the relationship that Richard Nixon had with Henry Kissinger, who
+      was believed by the general public at the time to be the real brains of the administration. 
+      From the perspective of 50 years later, and notwithstanding Kissinger’s efforts
+      to maintain that fiction in his memoirs, it is fairly obvious that Nixon was the
+      author of the foreign policy moves and Kissinger was just the implementer. ©Gilbert
+      Doctorow, 2026
+    one_sentence_summary: The author reflects on a significant discussion with an Iranian
+      broadcaster regarding U.S. military threats against Iran, noting an unexpected
+      increase in Israeli interest in their website, and emphasizes the controlled communication
+      strategy of Trump's foreign policy.
+    paragraph_summary: In a recent 41-minute discussion with an Iranian broadcaster,
+      the speaker addressed the sensitive topic of U.S.-Iran relations, particularly
+      focusing on former President Trump's military threats against Iran and his demands
+      for disarmament. Despite modest viewership, the conversation sparked interest
+      among Israelis, as indicated by a sudden spike in visits to the speaker's website.
+      The speaker emphasized Trump's careful management of communications regarding
+      his foreign policy, particularly concerning Iran, and highlighted the secrecy
+      surrounding critical decisions, such as the fate of Iran's enriched uranium. The
+      discussion also touched on the influence of Mossad on Trump and questioned who
+      truly drives U.S. policy, leaving viewers to ponder these complexities. Ultimately,
+      the speaker suggests that while Trump may have a limited vocabulary, the implications
+      of his actions are far-reaching.
+    published: '2026-02-08T12:47:49+00:00'
+  - title: Podcast for ‘IranTalks’ interview from 5 February on then pending Iran-US
+      negotiations
+    url: https://gilbertdoctorow.com/2026/02/08/podcast-for-irantalks-interview-from-5-february-on-then-pending-iran-us-negotiations/
+    text: I consider it an honor to have been invited to discuss such a sensitive and
+      very timely issue with this Iranian broadcaster over the course of 41 minutes.
+      Though the viewer numbers are still modest, there was apparently some impact in
+      the region because a day ago I suddenly had 126 Israelis inspecting my Word Press
+      web site, a first time ever event. Who says that Israelis are indifferent to Iranian
+      media? Our conversation centered on Mr. Trump’s threats of military attack on
+      Iran, his sending an aircraft carrier task force and numerous other military assets
+      to the region for execution of such an attack and his demands that Iran essentially
+      disarm and accept the position of US-Israeli vassal. I directed particular attention
+      to how Trump has exercised great care to control all communications surrounding
+      his foreign policy initiatives, including what he is doing over Iran. I describe
+      in some detail the distinction between what we will hear in public space about
+      any settlement of the Iranian crisis and the real moving parts which are kept
+      secret because they would compromise Trump in the public arena. We will not hear,
+      for example, about the eventual decision on disposition (shipment abroad) of the
+      400 kg of weapons grade enriched uranium that Iran evidently moved ahead of Trump’s
+      bombing of nuclear installations and their supposed ‘obliteration.’ The presenter,
+      Wesam Bahrani, asks about the possibility that Trump’s aggressiveness towards
+      Iran is being driven by the control that Mossad may have over him going back to
+      his relationship with Mossad-controlled Epstein. He asks why Witkoff goes to visit
+      Israel each time before heading for negotiations with Iran.  He asks if Trump
+      really is in control of U.S. policy or is it being decided by far smarter people
+      like J.D. Vance. I leave it to viewers to follow my answers to these questions
+      in the podcast. Here, however, I want to bring out a bigger point:   I maintain
+      that though Trump may have a vocabulary limited to 1,000 words (in contrast to
+      the average educated German who is said to have a vocabulary of 50,000 words),
+      Trump is no fool and has an idea or two in his head. To be precise, I emphasize
+      that the relationship of Trump to, say, the very clever Vice President J.D. Vance
+      is similar to the relationship that Richard Nixon had with Henry Kissinger, who
+      was believed by the general public at the time to be the real brains of the administration. 
+      From the perspective of 50 years later, and notwithstanding Kissinger’s efforts
+      to maintain that fiction in his memoirs, it is fairly obvious that Nixon was the
+      author of the foreign policy moves and Kissinger was just the implementer. ©Gilbert
+      Doctorow, 2026
+    one_sentence_summary: The author reflects on a significant discussion with an Iranian
+      broadcaster regarding U.S. military threats against Iran, noting an unexpected
+      increase in Israeli interest in their website, and emphasizes the controlled communication
+      strategy of Trump's foreign policy.
+    paragraph_summary: In a recent 41-minute discussion with an Iranian broadcaster,
+      the speaker addressed the sensitive topic of U.S.-Iran relations, particularly
+      focusing on former President Trump's military threats against Iran and his demands
+      for disarmament. Despite modest viewership, the conversation sparked interest
+      among Israelis, as indicated by a sudden spike in visits to the speaker's website.
+      The speaker emphasized Trump's careful management of communications regarding
+      his foreign policy, particularly concerning Iran, and highlighted the secrecy
+      surrounding critical decisions, such as the fate of Iran's enriched uranium. The
+      discussion also touched on the influence of Mossad on Trump and questioned who
+      truly drives U.S. policy, leaving viewers to ponder these complexities. Ultimately,
+      the speaker suggests that while Trump may have a limited vocabulary, the implications
+      of his actions are far-reaching.
+    published: '2026-02-08T12:47:49+00:00'
+  - title: Breaking News podcast link of this morning
+    url: https://gilbertdoctorow.com/2026/02/06/breaking-news-podcast-link-of-this-morning/
+    text: 'Published by gilbertdoctorow
+
+
+      Gilbert Doctorow''s latest book, "War Diaries. The Russia-Ukraine War, 2022-2023"
+      is a unique contribution to literature on the war thanks to the author''s reports
+      on the Russian home front written during his periodic visits to St Petersburg
+      at a time when Russia no longer issued visas and nearly all Western journalists
+      had left the country. Doctorow''s two-volume "Memoirs of a Russianist" published
+      in 2020 also constitutes a category of its own, consisting largely of diary entries
+      rather than reminiscences written decades later.. Volume 2 focuses on the community
+      of 50,000 expatriate managers working and living in Moscow during the 1990s, about
+      which none of his peers has yet to write. Gilbert Doctorow is a professional Russia
+      watcher and actor in Russian affairs going back to 1965. He is a magna cum laude
+      graduate of Harvard College (1967), a past Fulbright scholar, and holder of a
+      Ph.D. with honors in history from Columbia University (1975). After completing
+      his studies, Mr. Doctorow pursued a business career focused on the USSR and Eastern
+      Europe. For twenty-five years he worked for US and European multinationals in
+      marketing and general management with regional responsibility. From 1998-2002,
+      Doctorow served as the Chairman of the Russian Booker Literary Prize in Moscow.
+      During the 2010-2011 academic year, he was a Visiting scholar of the Harriman
+      Institute, Columbia University. Mr. Doctorow is a long-time resident of Brussels.
+      View all posts by gilbertdoctorow'
+    one_sentence_summary: Gilbert Doctorow's book "War Diaries. The Russia-Ukraine War,
+      2022-2023" offers a unique perspective on the conflict through his firsthand accounts
+      from Russia during a time when Western journalists were largely absent, complementing
+      his earlier work on the expatriate community in Moscow during the 1990s.
+    paragraph_summary: Gilbert Doctorow's book, "War Diaries. The Russia-Ukraine War,
+      2022-2023," offers a distinctive perspective on the ongoing conflict by documenting
+      his experiences and observations from the Russian home front during a time when
+      Western journalists were largely absent due to visa restrictions. This work follows
+      his previous two-volume memoir, "Memoirs of a Russianist," which includes diary
+      entries reflecting on his experiences as an expatriate manager in Moscow during
+      the 1990s, a topic that remains underexplored by his contemporaries. With a background
+      as a professional observer of Russian affairs since 1965, Doctorow brings a wealth
+      of knowledge to his writing, supported by his academic credentials and extensive
+      career in business focused on the USSR and Eastern Europe. He has also held notable
+      positions, including Chairman of the Russian Booker Literary Prize and Visiting
+      Scholar at Columbia University's Harriman Institute, and currently resides in
+      Brussels.
+    published: '2026-02-06T11:38:59+00:00'
+  - title: Press TV (Iran) interview on termination of the New START Treaty
+    url: https://gilbertdoctorow.com/2026/02/06/press-tv-iran-interview-on-termination-of-the-new-start-treaty/
+    text: 'Published by gilbertdoctorow
+
+
+      Gilbert Doctorow''s latest book, "War Diaries. The Russia-Ukraine War, 2022-2023"
+      is a unique contribution to literature on the war thanks to the author''s reports
+      on the Russian home front written during his periodic visits to St Petersburg
+      at a time when Russia no longer issued visas and nearly all Western journalists
+      had left the country. Doctorow''s two-volume "Memoirs of a Russianist" published
+      in 2020 also constitutes a category of its own, consisting largely of diary entries
+      rather than reminiscences written decades later.. Volume 2 focuses on the community
+      of 50,000 expatriate managers working and living in Moscow during the 1990s, about
+      which none of his peers has yet to write. Gilbert Doctorow is a professional Russia
+      watcher and actor in Russian affairs going back to 1965. He is a magna cum laude
+      graduate of Harvard College (1967), a past Fulbright scholar, and holder of a
+      Ph.D. with honors in history from Columbia University (1975). After completing
+      his studies, Mr. Doctorow pursued a business career focused on the USSR and Eastern
+      Europe. For twenty-five years he worked for US and European multinationals in
+      marketing and general management with regional responsibility. From 1998-2002,
+      Doctorow served as the Chairman of the Russian Booker Literary Prize in Moscow.
+      During the 2010-2011 academic year, he was a Visiting scholar of the Harriman
+      Institute, Columbia University. Mr. Doctorow is a long-time resident of Brussels.
+      View all posts by gilbertdoctorow'
+    one_sentence_summary: Gilbert Doctorow's book "War Diaries. The Russia-Ukraine War,
+      2022-2023" offers a unique perspective on the conflict through his firsthand accounts
+      from Russia during a time when Western journalists were largely absent, complementing
+      his earlier work on expatriate life in 1990s Moscow.
+    paragraph_summary: Gilbert Doctorow's book, "War Diaries. The Russia-Ukraine War,
+      2022-2023," offers a distinctive perspective on the ongoing conflict through his
+      firsthand reports from St. Petersburg during a time when Western journalists were
+      largely absent due to visa restrictions. This work builds on his previous two-volume
+      memoir, "Memoirs of a Russianist," which features diary entries reflecting on
+      his experiences in Russia, particularly focusing on the expatriate community in
+      Moscow during the 1990s. With a background as a professional observer of Russian
+      affairs since 1965, Doctorow holds degrees from Harvard and Columbia and has a
+      rich career in business and literature, including leadership roles in literary
+      prizes and academic institutions. He currently resides in Brussels.
+    published: '2026-02-06T10:08:09+00:00'
+  - title: Important interview yesterday on NewsX World
+    url: https://gilbertdoctorow.com/2026/02/06/important-interview-yesterday-on-newsx-world/
+    text: 'This particular interview had considerable material on the key issues of
+      the day in US -Russian relations. As from minute 4.30 through minute 12.30, we
+      discuss: – the ongoing talks in Abu Dhabi to end the Ukraine war about which,
+      I maintain, the real subject is the terms of Ukrainian capitulation to the Russian
+      territorial and other demands -the negligible likelihood that US access to Ukrainian
+      mineral rights will be a point of leverage for the Ukrainians in these talks -the
+      possibility that the West can persuade China to apply pressure on Russia to end
+      the war, which I consider to be illusory Further on this podcast, there is a very
+      good analysis by a Chinese commentator of what terms would have to be set in any
+      future arms limitations agreements to which China becomes a party. Then from minute
+      18.45 to 22.00, I discuss with the presenter Russia’s ‘crocodile tears’ over the
+      expiration of the New START arms limitation treaty.'
+    one_sentence_summary: The interview covers key issues in US-Russian relations, including
+      the negotiations in Abu Dhabi regarding Ukraine's potential capitulation, the
+      unlikely leverage of US access to Ukrainian mineral rights, the illusion of Western
+      influence over China to pressure Russia, and an analysis of future arms limitation
+      agreements involving China, alongside a discussion on Russia's insincere concerns
+      about the New START treaty's expiration.
+    paragraph_summary: In a recent interview focusing on US-Russian relations, key issues
+      were discussed, particularly the ongoing talks in Abu Dhabi aimed at resolving
+      the Ukraine war, which the speaker argues revolve around Ukraine's potential capitulation
+      to Russian demands. The speaker expresses skepticism about the likelihood of US
+      access to Ukrainian mineral rights being a significant leverage point for Ukraine
+      in negotiations and considers the prospect of the West persuading China to pressure
+      Russia to end the conflict as unrealistic. Additionally, a Chinese commentator
+      provides insights on the necessary terms for future arms limitation agreements
+      involving China. The discussion also touches on Russia's disingenuous concerns
+      regarding the expiration of the New START arms limitation treaty.
+    published: '2026-02-06T07:16:11+00:00'
+  - title: Important interview yesterday on NewsX World
+    url: https://gilbertdoctorow.com/2026/02/06/important-interview-yesterday-on-newsx-world/
+    text: 'This particular interview had considerable material on the key issues of
+      the day in US -Russian relations. As from minute 4.30 through minute 12.30, we
+      discuss: – the ongoing talks in Abu Dhabi to end the Ukraine war about which,
+      I maintain, the real subject is the terms of Ukrainian capitulation to the Russian
+      territorial and other demands -the negligible likelihood that US access to Ukrainian
+      mineral rights will be a point of leverage for the Ukrainians in these talks -the
+      possibility that the West can persuade China to apply pressure on Russia to end
+      the war, which I consider to be illusory Further on this podcast, there is a very
+      good analysis by a Chinese commentator of what terms would have to be set in any
+      future arms limitations agreements to which China becomes a party. Then from minute
+      18.45 to 22.00, I discuss with the presenter Russia’s ‘crocodile tears’ over the
+      expiration of the New START arms limitation treaty.'
+    one_sentence_summary: The interview covers key issues in US-Russian relations, including
+      the negotiations in Abu Dhabi regarding Ukraine's potential capitulation, the
+      unlikely leverage of US access to Ukrainian mineral rights, the illusion of Western
+      influence over China to pressure Russia, and an analysis of future arms limitation
+      agreements involving China, alongside a discussion on Russia's insincere concerns
+      about the New START treaty's expiration.
+    paragraph_summary: In a recent interview focusing on US-Russian relations, key issues
+      were discussed, particularly the ongoing talks in Abu Dhabi aimed at resolving
+      the Ukraine war, which the speaker argues revolve around Ukraine's potential capitulation
+      to Russian demands. The speaker expresses skepticism about the likelihood of US
+      access to Ukrainian mineral rights being a significant leverage point for Ukraine
+      in negotiations and considers the prospect of the West persuading China to pressure
+      Russia to end the conflict as unrealistic. Additionally, a Chinese commentator
+      provides insights on the necessary terms for future arms limitation agreements
+      involving China. The discussion also touches on Russia's disingenuous concerns
+      regarding the expiration of the New START arms limitation treaty.
+    published: '2026-02-06T07:16:11+00:00'
+  - title: Two interview segments in this afternoon’s NewsX World news bulletin
+    url: https://gilbertdoctorow.com/2026/02/04/change-block-type-or-style/
+    text: Russia Says Iran Alone Can Decide on Uranium Removal Ahead Of US-Iran Nuclear
+      Talks Putin on non-renewal of New START Treaty My discussion of this issue appears
+      as from minute 20. As I say here, Putin is a politician, and politicians are known
+      to lie. Russia’s Public Relations exercise on the non-renewal of the treaty should
+      not be taken at face value. Both the US and Russia had good reasons not to renew
+      it.  For the USA, they cannot be bound by the limits on numbers of warheads when
+      they now want to add to their arsenal to counter China’s build-up lest they find
+      themselves short of weapons in a two-front war with Russia and China. For Russia,
+      the New START treaty imposed on them the obligation to keep their heavy bombers
+      on the airfields in plain view with the result that many bombers were damaged
+      or destroyed in a Ukrainian drone attack on airfields from Murmansk to Irkutsk
+      that was very likely directed by the MI6 (UK) and the CIA (USA).
+    one_sentence_summary: Russia asserts that Iran has the sole authority to decide
+      on uranium removal ahead of upcoming US-Iran nuclear talks, while also highlighting
+      that the non-renewal of the New START Treaty is a strategic decision for both
+      the US and Russia, influenced by military considerations and geopolitical tensions.
+    paragraph_summary: Russia has stated that Iran has the sole authority to decide
+      on the removal of uranium ahead of upcoming US-Iran nuclear negotiations. In a
+      discussion regarding the non-renewal of the New START Treaty, it is suggested
+      that Russian President Vladimir Putin's comments should be viewed skeptically,
+      as politicians often misrepresent facts. Both the US and Russia have strategic
+      reasons for not renewing the treaty; the US seeks to expand its nuclear arsenal
+      to counter China's military growth, while Russia is constrained by the treaty's
+      requirements, which have made its heavy bombers vulnerable to attacks, particularly
+      in light of recent drone strikes likely orchestrated by Western intelligence agencies.
+    published: '2026-02-04T18:05:33+00:00'
+  - title: Two interview segments in this afternoon’s NewsX World news bulletin
+    url: https://gilbertdoctorow.com/2026/02/04/change-block-type-or-style/
+    text: Russia Says Iran Alone Can Decide on Uranium Removal Ahead Of US-Iran Nuclear
+      Talks Putin on non-renewal of New START Treaty My discussion of this issue appears
+      as from minute 20. As I say here, Putin is a politician, and politicians are known
+      to lie. Russia’s Public Relations exercise on the non-renewal of the treaty should
+      not be taken at face value. Both the US and Russia had good reasons not to renew
+      it.  For the USA, they cannot be bound by the limits on numbers of warheads when
+      they now want to add to their arsenal to counter China’s build-up lest they find
+      themselves short of weapons in a two-front war with Russia and China. For Russia,
+      the New START treaty imposed on them the obligation to keep their heavy bombers
+      on the airfields in plain view with the result that many bombers were damaged
+      or destroyed in a Ukrainian drone attack on airfields from Murmansk to Irkutsk
+      that was very likely directed by the MI6 (UK) and the CIA (USA).
+    one_sentence_summary: Russia asserts that Iran has the sole authority to decide
+      on uranium removal ahead of upcoming US-Iran nuclear talks, while also highlighting
+      that the non-renewal of the New START Treaty is a strategic decision for both
+      the US and Russia, influenced by military considerations and geopolitical tensions.
+    paragraph_summary: Russia has stated that Iran has the sole authority to decide
+      on the removal of uranium ahead of upcoming US-Iran nuclear negotiations. In a
+      discussion regarding the non-renewal of the New START Treaty, it is suggested
+      that Russian President Vladimir Putin's comments should be viewed skeptically,
+      as politicians often misrepresent facts. Both the US and Russia have strategic
+      reasons for not renewing the treaty; the US seeks to expand its nuclear arsenal
+      to counter China's military growth, while Russia is constrained by the treaty's
+      requirements, which have made its heavy bombers vulnerable to attacks, particularly
+      in light of recent drone strikes likely orchestrated by Western intelligence agencies.
+    published: '2026-02-04T18:05:33+00:00'
+  - title: '‘Judging Freedom’ edition of 4 February: What Putin is telling Trump'
+    url: https://gilbertdoctorow.com/2026/02/04/judging-freedom-edition-of-4-february-what-putin-is-telling-trump/
+    text: '‘Judging Freedom’ edition of 4 February: What Putin is telling Trump Today’s
+      discussion focused on the way Trump and Putin have used their backchannel consisting
+      of their personal envoys to do business with no leaks by subordinates in their
+      respective foreign ministry and State Department. Consequently, we observers are
+      left guessing what is the content of the negotiations in Abu Dhabi which are being
+      described as ‘constructive’ when nothing more is being said. We are left clueless
+      about any possible US-Russian talks over Iran. As I mention, being in the pool
+      of analysts invited onto various Indian and Iranian television programs that are
+      later posted as podcasts, I receive some very interesting snippets of information
+      that I find useful in developing my own speculation on what is going on between
+      Moscow and Washington with respect not only to achieving peace in the Russia-Ukraine
+      war but also in finding an off-ramp from his threatened attack on Iran that is
+      face-saving for Trump. I had shortly before the start of this interview received
+      a couple of lines from News X World that they proposed to pitch to me for discussion
+      starting just after the close of the Judging Freedom show.  The main point here
+      is that Russians are speaking of possible removal of Iranian enriched uranium
+      to some foreign country.   About this you will find nothing in Mainstream.  It
+      matches perfectly what a journalist from an Iranian broadcaster told me several
+      days ago when preparing me for an interview they propose to conduct tomorrow:
+      namely than Iranian weapons grade uranium will be shipped to China.   Meanwhile,
+      RT in an article yesterday mentioned that Putin and Trump are in discussion about
+      Rosatom being put in charge of the Iranian civilian nuclear program for medicine
+      and other purposes to ensure that the work stays within the agreed bounds.  All
+      of this constitutes an off-ramp for Trump similar to the off-ramp which Putin
+      made for Trump in 2013 over disposition of Syrian chemical weapons. ©Gilbert Doctorow,
+      2026'
+    one_sentence_summary: The article discusses the secretive backchannel communications
+      between Trump and Putin, highlighting the lack of transparency regarding their
+      negotiations, particularly concerning Iran and the Russia-Ukraine conflict, which
+      leaves analysts speculating about the true nature of their discussions.
+    paragraph_summary: The article discusses the covert negotiations between Trump and
+      Putin, facilitated by their personal envoys, which have left observers speculating
+      about the content of their discussions, particularly regarding Iran and the ongoing
+      Russia-Ukraine conflict. The talks, described as "constructive," have led to speculation
+      about the potential removal of Iranian enriched uranium to a foreign country,
+      possibly China, as well as discussions about Rosatom overseeing Iran's civilian
+      nuclear program. These developments suggest a strategic off-ramp for Trump, similar
+      to a previous arrangement made by Putin regarding Syrian chemical weapons, while
+      mainstream media remains largely silent on these intricate negotiations.
+    published: '2026-02-04T14:12:37+00:00'
+  - title: '‘Judging Freedom’ edition of 4 February: What Putin is telling Trump'
+    url: https://gilbertdoctorow.com/2026/02/04/judging-freedom-edition-of-4-february-what-putin-is-telling-trump/
+    text: '‘Judging Freedom’ edition of 4 February: What Putin is telling Trump Today’s
+      discussion focused on the way Trump and Putin have used their backchannel consisting
+      of their personal envoys to do business with no leaks by subordinates in their
+      respective foreign ministry and State Department. Consequently, we observers are
+      left guessing what is the content of the negotiations in Abu Dhabi which are being
+      described as ‘constructive’ when nothing more is being said. We are left clueless
+      about any possible US-Russian talks over Iran. As I mention, being in the pool
+      of analysts invited onto various Indian and Iranian television programs that are
+      later posted as podcasts, I receive some very interesting snippets of information
+      that I find useful in developing my own speculation on what is going on between
+      Moscow and Washington with respect not only to achieving peace in the Russia-Ukraine
+      war but also in finding an off-ramp from his threatened attack on Iran that is
+      face-saving for Trump. I had shortly before the start of this interview received
+      a couple of lines from News X World that they proposed to pitch to me for discussion
+      starting just after the close of the Judging Freedom show.  The main point here
+      is that Russians are speaking of possible removal of Iranian enriched uranium
+      to some foreign country.   About this you will find nothing in Mainstream.  It
+      matches perfectly what a journalist from an Iranian broadcaster told me several
+      days ago when preparing me for an interview they propose to conduct tomorrow:
+      namely than Iranian weapons grade uranium will be shipped to China.   Meanwhile,
+      RT in an article yesterday mentioned that Putin and Trump are in discussion about
+      Rosatom being put in charge of the Iranian civilian nuclear program for medicine
+      and other purposes to ensure that the work stays within the agreed bounds.  All
+      of this constitutes an off-ramp for Trump similar to the off-ramp which Putin
+      made for Trump in 2013 over disposition of Syrian chemical weapons. ©Gilbert Doctorow,
+      2026'
+    one_sentence_summary: The article discusses the secretive backchannel communications
+      between Trump and Putin, highlighting the lack of transparency regarding their
+      negotiations, particularly concerning Iran and the Russia-Ukraine conflict, which
+      leaves analysts speculating about the true nature of their discussions.
+    paragraph_summary: The article discusses the covert negotiations between Trump and
+      Putin, facilitated by their personal envoys, which have left observers speculating
+      about the content of their discussions, particularly regarding Iran and the ongoing
+      Russia-Ukraine conflict. The talks, described as "constructive," have led to speculation
+      about the potential removal of Iranian enriched uranium to a foreign country,
+      possibly China, as well as discussions about Rosatom overseeing Iran's civilian
+      nuclear program. These developments suggest a strategic off-ramp for Trump, similar
+      to a previous arrangement made by Putin regarding Syrian chemical weapons, while
+      mainstream media remains largely silent on these intricate negotiations.
+    published: '2026-02-04T14:12:37+00:00'
   - title: An open letter to Belgian Prime Minister Bart de Wever
     url: https://gilbertdoctorow.com/2026/02/02/an-open-letter-to-belgian-prime-minister-bart-de-wever/
     text: Mr. Prime Minister, I heartily recommend to my Community of subscribers your

@@ -8,16 +8,165 @@ websites:
   - https://www.commondreams.org/author/jeffrey-d-sachs
   - https://www.jeffsachs.org/newspaper-articles
 summary: |
-  The current geopolitical landscape remains defined by intensifying U.S. reliance on hybrid warfare and the resulting destabilization across key regions. Over the past week, the focus has shifted to the United States’ continued use of economic sanctions, military interventions, and information campaigns—particularly targeting Iran and Venezuela. As **Jeffrey Sachs** notes, these tactics are designed to achieve U.S. strategic objectives without direct large-scale conflict, but they have led to significant humanitarian crises and increased global instability.
+  The geopolitical landscape remains dominated by escalating tensions in the Middle East, persistent US-led hybrid warfare, and Europe’s ongoing security dilemmas. Recent developments have introduced new diplomatic overtures and exposed the entrenched nature of current power dynamics.
   
-  In Iran, recent developments underscore the escalation of hybrid warfare. According to **Jeffrey Sachs**, the U.S. and Israel have intensified their campaign of economic and military pressure, aiming to weaken the Iranian government while avoiding open war. This approach, Sachs argues, not only inflicts suffering on ordinary Iranians but also entrenches anti-U.S. sentiment and pushes Iran closer to other non-Western powers. The broader implication is a deepening rift between the U.S. and much of the Global South, as more countries seek alternatives to the dollar and U.S.-dominated financial systems.
+  The most significant new development is Iran’s comprehensive peace proposal, unveiled by Foreign Minister Abbas Araghchi in Doha. According to **Jeffrey Sachs**, the proposal links regional peace to resolving the Palestinian statehood issue, demanding accountability for Israeli actions, the establishment of a Palestinian state, and a renewed nuclear agreement with Iran. This marks a notable shift, as Iran is now publicly advocating for a multilateral diplomatic framework rather than relying solely on resistance or confrontation. **Sachs** emphasizes that “achieving peace in the Middle East hinges on resolving the Palestinian statehood issue,” reflecting a growing consensus among regional actors that the Palestinian question is central to broader stability.
   
-  Meanwhile, the situation in Venezuela continues to deteriorate under renewed U.S. regime-change efforts. The latest reports highlight a shift in U.S. rhetoric, now framing intervention as a fight against narco-terrorism. However, **Jeffrey Sachs** contends that the underlying motive remains control over Venezuela’s vast oil reserves. The combination of sanctions, covert operations, and diplomatic isolation has further destabilized the country, exacerbating economic hardship and undermining prospects for a peaceful resolution.
+  Meanwhile, the United States continues to employ hybrid warfare tactics—economic sanctions, military strikes, and information campaigns—particularly against Iran and Venezuela. **Sachs** argues that these measures, while falling short of outright war, “cause chaos and suffering while benefiting the military-industrial complex.” The persistence of such tactics is prompting targeted nations to seek alternatives to the US dollar and to deepen their own alliances, a trend that is likely to accelerate as sanctions regimes intensify.
   
-  On the international legal front, there is mounting criticism of U.S. actions at the United Nations. **Jeffrey Sachs** recently addressed the UN Security Council, condemning U.S. military interventions and regime-change policies as violations of the UN Charter. He warns that continued disregard for international law threatens the global order and could provoke broader conflict if unchecked.
+  In Europe, longstanding structural Russophobia continues to shape policy, with the continent’s leaders rejecting Russia’s security concerns and thereby exacerbating regional insecurity. **Sachs** contends that this approach has led to “self-defeating consequences for European security over the past two centuries,” and warns that without a new, more balanced foreign policy, Europe will remain trapped in cycles of crisis and dependency on the United States.
   
-  Looking ahead, the prevailing trend is a steady erosion of U.S. soft power and global legitimacy, particularly as affected countries and their allies seek to circumvent U.S.-led systems. There is a high chance that these dynamics will accelerate the fragmentation of the international order, with more states aligning against U.S. policies. I guarantee that unless the U.S. shifts toward genuine diplomacy and respect for international law, instability and resistance to American influence will most definitely intensify in the coming months.
+  **Trends and Predictions:**  
+  There is a high chance that Iran’s diplomatic initiative will gain traction among non-Western states and could pressure the US to reconsider its current approach, especially if humanitarian crises in Gaza and elsewhere worsen. The US is most definitely expected to maintain its hybrid warfare strategy, but with diminishing returns as global resistance to dollar hegemony grows. In Europe, unless there is a fundamental policy shift, the current trajectory of insecurity and economic strain will persist. I guarantee that the resolution of the Palestinian issue will remain a prerequisite for any sustainable peace in the Middle East.
 articles:
+  - title: Iran’s Comprehensive Peace Proposal to the United States
+    url: https://www.commondreams.org/opinion/comprehensive-peace-plan-middle-east
+    text: 'History occasionally presents moments when the truth about a conflict is
+      stated plainly enough that it becomes impossible to ignore. Iranian Foreign Minister
+      Abbas Araghchi’s February 7 address in Doha, Qatar ( transcript here ) should
+      prove to be such a moment. His important and constructive remarks responded to
+      the US call for comprehensive negotiations, and he laid out a sound proposal for
+      peace across the Middle East.
+
+
+
+
+      Last week, US Secretary of State Marco Rubio called for comprehensive negotiations
+      : "If the Iranians want to meet, we''re ready." He proposed for talks to include
+      the nuclear issue, Iran’s military capabilities, and its support for proxy groups
+      around the region. On its surface, this sounds like a serious and constructive
+      proposal. The Middle East’s security crises are interconnected, and diplomacy
+      that isolates nuclear issues from broader regional dynamics is unlikely to endure.
+
+
+      On February 7, Iranian Foreign Minister Araghchi’s responded to the United States’
+      proposal for a comprehensive peace. In his speech at the Al Jazeera Forum, the
+      foreign minister addressed the root cause of regional instability – “Palestine…
+      is the defining question of justice in West Asia and beyond” and he proposed a
+      path forward.
+
+
+      The Foreign Minister’s statement is correct. The failure to resolve the issue
+      of Palestinian statehood has indeed fueled every major regional conflict since
+      1948. The Arab-Israeli wars, the rise of anti-Israel militancy, the regional polarization,
+      and the repeated cycles of violence, all derive from the failure to create a State
+      of Palestine alongside the State of Israel. Gaza represents the most devastating
+      chapter in this conflict, where Israel’s brutal occupation of Palestine was followed
+      by Hamas’s attack on Israel on October 7, 2023, and then by Israel’s genocide
+      against the people of Gaza.
+
+
+      In his speech, Araghchi condemned Israel’s expansionist project “pursued under
+      the banner of security.” He warned of the annexation of the West Bank, which Israeli
+      government officials, as National Security Minister Ben Gvir , continually call
+      for, and for which the Knesset has already passed a motion .
+
+
+      Araghchi also highlighted another fundamental dimension of Israeli strategy which
+      is the pursuit of permanent military supremacy across the region. He said that
+      Israel’s expansionist project requires that “neighboring countries be weakened—militarily,
+      technologically, economically, and socially—so that the Israeli regime permanently
+      enjoys the upper hand.” This is indeed the Clean Break doctrine of Prime Minister
+      Netanyahu, dating back 30 years. It has been avidly supported by the US through
+      100 billion dollars in military assistance to Israel since 2000, diplomatic cover
+      at the UN via repeated vetoes, and the consistent US rejection of accountability
+      measures for Israel’s violations of international humanitarian law.
+
+
+      Israel’s impunity has destabilized the region, fueling arms races, proxy wars,
+      and cycles of revenge. It has also corroded what remains of the international
+      legal order. The abuse of international law by the US and Israel with much of
+      Europe remaining silent, has gravely weakened the UN Charter, leaving the UN close
+      to collapse.
+
+
+      In the concluding remarks of his speech, he offered the US a political solution
+      and path forward. “The path to stability is clear: justice for Palestine, accountability
+      for crimes, an end to occupation and apartheid, and a regional order built on
+      sovereignty, equality, and cooperation. If the world wants peace, it must stop
+      rewarding aggression. If the world wants stability, it must stop enabling expansionism.”
+
+
+      This is a valid and constructive response to Rubio’s call for comprehensive diplomacy.
+
+
+      This framework could address all the interlocking dimensions of the region’s conflict.
+      The end of Israel’s expansion and occupation of Palestine, and Israel’s return
+      to the borders of June 4, 1967, would bring an end to outside funding and arming
+      of proxy groups in the region. The creation of a Palestinian state alongside the
+      state of Israel would enhance Israel’s security as well as that of its neighbors.
+      A renewed nuclear agreement with Iran, strictly limiting Iran to peaceful nuclear
+      activities and paired with the lifting of US and EU sanctions, would add a crucial
+      pillar of regional stability. Iran already agreed to such a nuclear framework
+      a decade ago, in the Joint Comprehensive Plan of Action (JCPOA) that was adopted
+      by the UN Security Council in Resolution 2231 . It was the US during Trump''s
+      first term, not Iran, that withdrew from the agreement.
+
+
+      A comprehensive peace reflects the foundation of modern collective security doctrine,
+      including the United Nations Charter itself. Durable peace requires mutual recognition
+      of sovereignty, territorial integrity, and equal security guarantees for all states.
+
+
+      Regional security is the shared responsibility of all states in the region, and
+      each of them faces a historic obligation. This comprehensive peace proposal is
+      not new, it has been advocated for decades by the Organization of Islamic Cooperation
+      (57 Muslim‑majority countries) and the League of Arab States (22 Arab States).
+      Ever since the 2002 Arab Peace Initiative , all of these countries have endorsed,
+      on a yearly basis, the framework of land-for-peace. All major Arab and Islamic
+      states, allies of the US, have played a crucial role in facilitating the latest
+      round of US-Iranian negotiations in Oman. Additionally, Saudi Arabia has clearly
+      reminded the US that it will normalize relations with Israel only on the condition
+      of the establishment of a Palestinian State.
+
+
+      The United States faces a moment of truth. Does it really want peace, or does
+      it want to follow Israel’s extremism? For decades, the US has blindly followed
+      Israeli misguided objectives. Domestic political pressures, powerful lobbying
+      networks, strategic miscalculations, and perhaps a bit of blackmail lurking in
+      the Epstein files (who knows?) have combined to subordinate American diplomacy
+      to Israel’s regional ambitions.
+
+
+      The US subservience to Israel does not serve American interests. It has drawn
+      the United States into repeated regional wars, undermined global trust in American
+      foreign policy, and weakened the international legal order that Washington itself
+      helped to construct after 1945.
+
+
+      A comprehensive peace offers the US a rare opportunity to correct course. By negotiating
+      a comprehensive regional peace grounded in international law, the United States
+      could reclaim genuine diplomacy and help to establish a stable regional security
+      architecture that benefits all parties, including Israel and Palestine.
+
+
+      The Middle East stands at a crossroads between endless war and comprehensive peace.
+      The framework for peace exists. It requires first and foremost Palestinian statehood,
+      security guarantees for Israel and the rest of the region, a peaceful nuclear
+      deal restoring the basic agreement adopted by the UN a decade ago, lifting of
+      economic sanctions, the unbiased enforcement of international law, and a diplomatic
+      architecture that replaces military force with security cooperation. The world
+      should rally behind a comprehensive framework and take this historic opportunity
+      to achieve regional peace.'
+    one_sentence_summary: Iranian Foreign Minister Abbas Araghchi's recent address in
+      Doha emphasized that achieving peace in the Middle East hinges on resolving the
+      Palestinian statehood issue and proposed a comprehensive diplomatic framework
+      that includes accountability for Israel's actions, the establishment of a Palestinian
+      state, and a renewed nuclear agreement with Iran.
+    paragraph_summary: In a significant address on February 7, Iranian Foreign Minister
+      Abbas Araghchi responded to U.S. Secretary of State Marco Rubio's call for comprehensive
+      negotiations regarding Middle Eastern peace, emphasizing that the unresolved issue
+      of Palestinian statehood is central to regional instability. Araghchi argued that
+      Israel's expansionist policies and military supremacy undermine neighboring countries,
+      perpetuating cycles of violence and destabilizing the region. He proposed a path
+      to stability that includes justice for Palestine, accountability for crimes, and
+      an end to occupation, suggesting that a comprehensive peace framework could enhance
+      security for both Israel and its neighbors. This framework, which has been supported
+      by various Arab and Islamic states, advocates for mutual recognition of sovereignty
+      and a peaceful nuclear agreement with Iran, presenting an opportunity for the
+      U.S. to shift its foreign policy towards a more balanced and constructive approach
+      that prioritizes genuine diplomacy and stability in the Middle East.
+    published: '2026-02-09T12:21:53+00:00'
   - title: In Iran, the US-Israeli addiction to hybrid warfare is on full display
     url: https://www.aljazeera.com/opinions/2026/1/19/in-iran-the-us-israeli-addiction-to-hybrid-warfare-is-on-full-display
     text: 'In the nuclear age, the United States has to refrain from all-out war since

@@ -7,16 +7,273 @@ description: "Cambridge–educated researcher at RMIT; writes widely on imperial
 websites:
   - https://counterpunch.org/author/jete6/
 summary: |
-  The geopolitical landscape remains fraught with controversy and shifting alliances as states and institutions grapple with the consequences of recent actions and ongoing trends. The latest developments highlight the deepening entanglement of nationalism, wealth concentration, and the erosion of international norms.
+  The past weeks have seen a series of revelations and policy shifts that continue to reshape the global geopolitical landscape. As the fallout from the release of Jeffrey Epstein’s correspondence reverberates, scrutiny intensifies on the complicity of elite networks, while ongoing disputes over sovereignty and international law—spanning from the Indian Ocean to Latin America—underscore the fragility of established norms.
   
-  The Generation Truth conference in Jerusalem, organized by Israel’s Minister for Diaspora Affairs, Amichai Chikli, has drawn sharp criticism for its inclusion of far-right European speakers with links to neo-Nazism and Holocaust denial. As **Binoy Kampmark** observes, this event underscores Israel’s controversial strategy of forging alliances with European nationalist movements, ostensibly to combat antisemitism, while simultaneously downplaying the risks posed by radical Islam. The approach has been widely condemned for legitimizing extremist voices and undermining the credibility of efforts to address antisemitism.
+  The most recent disclosures, as analyzed by **Binoy Kampmark**, center on the millions of pages of Epstein-related documents. These reveal “a disturbing network of influential figures, including celebrities and royals,” who maintained relationships with Epstein despite his well-known criminal activities. The documents, Kampmark argues, expose not only personal moral failings but also a broader culture of impunity among the governing classes. This development is likely to fuel further investigations and public distrust in elite institutions. There is a high chance that more prominent names will be implicated, and “the reputational damage to Western elites is most definitely set to deepen,” according to Kampmark.
   
-  Meanwhile, the Oxfam report on global wealth inequality, as analyzed by **Binoy Kampmark**, spotlights the unprecedented rise of billionaire fortunes—most notably that of Elon Musk—and the corresponding increase in their political influence. The report connects this concentration of wealth to the spread of authoritarian tendencies and the manipulation of media narratives, raising alarms about the future of democratic accountability. Calls for policy interventions to limit the power of the ultra-wealthy are gaining traction, but resistance from entrenched interests remains formidable.
+  In the Indian Ocean, the UK-Mauritius agreement over the Chagos Islands remains fraught. While the deal was initially presented as a step towards resolving colonial injustices, **Kampmark** highlights the continued marginalization of the Chagossian people and the enduring strategic importance of Diego Garcia for the US military. The lack of meaningful consultation with the indigenous population and vocal opposition from figures like Donald Trump have cast doubt on the deal’s legitimacy. Given the entrenched interests of the US and UK, there is a high chance that the status quo will persist, with the Chagossians’ rights sidelined.
   
-  On the international legal front, the U.S. precedent of abducting foreign leaders, exemplified by the recent case of former Venezuelan President Nicolás Maduro, continues to reverberate. **Kampmark** warns that such unilateral actions, justified by legal doctrines crafted by figures like William Barr, erode the foundations of international law and embolden an "Imperial Presidency" model. The muted response from U.S. allies, who claim to uphold democratic norms, signals a worrying acceptance of these tactics and raises concerns about the potential for similar actions against other sovereign leaders.
+  Meanwhile, the legal and political fallout from the US abduction of former Venezuelan President Nicolás Maduro continues to unsettle international relations. Kampmark warns that this precedent “raises significant concerns among global leaders” about the erosion of sovereignty and the normalization of extraterritorial interventions. The muted response from US allies, who have largely validated the move, signals a troubling shift in the application of international law. There is a high chance that this will embolden further unilateral actions, particularly as tensions with states like North Korea escalate.
   
-  Looking ahead, the prevailing trends point to a high-confidence prediction of further erosion of international norms and increasing polarization, both within states and across alliances. The normalization of alliances with extremist groups, the unchecked rise of billionaire influence, and the willingness of powerful states to bypass international law are likely to intensify. As **Kampmark** notes, these developments "most definitely" signal a period of heightened instability and contestation over the rules that govern global order.
+  Trends suggest a growing crisis of legitimacy for Western institutions, as elite impunity, disregard for international norms, and the marginalization of vulnerable populations become increasingly visible. Looking ahead, it is most definite that public skepticism and geopolitical friction will intensify unless substantive reforms and accountability measures are enacted.
 articles:
+  - title: 'Hedonism’s Dance: How the Governing Classes Fell for Jeffrey Epstein'
+    url: https://www.counterpunch.org/2026/02/04/hedonisms-dance-how-the-governing-classes-fell-for-jeffrey-epstein/
+    text: 'How did he generate so much paperwork, traffic and comment? New York financier,
+      mountebank, all purposes conman and dedicated rake that he was, Jeffrey Epstein
+      continues to nag living figures from beyond the grave and place them in a tight
+      spot of bother. His correspondence with these individuals runs into the millions,
+      a figure suggesting his only work in life was being a pimp for pleasure and valet
+      to the rotten.
+
+
+      The press vultures have been feeding most excitedly on the latest carrion released
+      by the US Department of Justice on January 30 in response to the Epstein Files
+      Transparency Act, comprising some 3.5 million pages with more than 180,000 images
+      and 2,000 videos. “Today’s release marks the end of a very comprehensive document
+      identification and review process to ensure transparency to the American people
+      and compliance,” stated Deputy Attorney General Todd Blanche.
+
+
+      Leaving aside Blanche’s perky claim to thoroughbred compliance, those found corresponding
+      or engaging with Epstein have had to qualify any engagement with the late financier
+      as utterly innocent and certainly unconnected to the sexual trafficking arm he
+      operated with the incarcerated Ghislaine Maxwell, herself the daughter of that
+      mighty confidence trickster, serial litigant and press mogul, Robert Maxwell.
+      What did not seem to bother Epstein’s vast network of correspondents, foolish
+      confidants and dissolute playmates was a conviction for soliciting sex from a
+      14-year-old girl in 2008. The sinner always knows best.
+
+
+      The list of the dishonourable is long and impossible to enumerate without expectorating.
+      A handful of rummy specimens will suffice. We have the morally stunted tech brat
+      billionaire Elon Musk discussing travel to Epstein’s properties for reasons of
+      entertainment. “What day/night will be the wildest party on your island?”, he
+      asks in one yearning inquiry. Musk continued to press the financier for information
+      of any planned parties, claiming that he needed to “let loose”. “I’ve been working
+      to the edge of sanity this year and so, once my kids head home after Christmas,
+      I really want to hit the party scene in St Barts or elsewhere and let loose.”
+
+
+      In 2009, despite Epstein serving a prison sentence at the time, the emails reveal
+      the financial provision of a loan to Lord Peter Mandelson’s husband Reinaldo Avila
+      da Silva regarding an osteopathy course. Mandelson, the Mr Fixit of Britain’s
+      New Labour, had his tenure as UK ambassador to Washington terminated once the
+      cloacal gatherings of his association with Epstein proved too hard to ignore.
+
+
+      We find Britain’s founder of Virgin Group, Richard Branson, expressing his pleasure
+      at meeting Epstein before adding “Any time you’re in the area would love to see
+      you. As long as you bring your harem!” (The company hurriedly tried to dispel
+      any needless assumptions of prurience: “harem” in this case was a reference to
+      three adult members of the Epstein team.)
+
+
+      As is already known, royalty is not exempt from the turd lined trough. Recently
+      deprived of his status as prince for scouring Epstein’s fleshpots with rutting
+      glee, Andrew Mountbatten-Windsor, known as “The Duke” in the correspondence, is
+      most accommodating to Epstein in emails sent in September 2010. “We could have
+      dinner at Buckingham Palace and lots of privacy,” suggests Epstein. The reply:
+      “Delighted for you to come here to BP [Buckingham Palace]. Come with whomever
+      and I’ll be here free from 1600ish.”
+
+
+      The matter gets even more squalid with Mountbatten-Windsor’s former wife, Sarah
+      Ferguson, calling Epstein the “brother” she “had always wished for”. (The provision
+      of £15,000 to pay off her debts probably helped.) Showing how liberal his house
+      arrest conditions were, Ferguson implies that the pair had lunch. An August 2009
+      exchange points to a meeting between Epstein and her daughters, Prince Beatrice
+      and Princess Eugenie. “I have never been more touched by a friends [sic] kindness
+      than your compliment to me in front of my girls.”
+
+
+      Showing that the royals of other countries also slid into the honeypot, Norway’s
+      Crown Princess Mette-Marit had extensive contact with Epstein between 2011 and
+      2014. From what can be gleaned from the correspondence, the financier had made
+      quite an impression, being “soft hearted” and “such a sweetheart”. In one message
+      dated November 1, 2012, the crown princess responds to a message of sheer gibberish
+      discussing the protective facilities of nature and the problems of unnatural products.
+      “You always make me smile,” she reflects. “Because you tickle my brain.”
+
+
+      The timing was most unfortunate for Mette-Marit, as her son, Marius Borg Høiby,
+      is facing 38 criminal charges, including allegations of rape of four women including
+      assault and drug offences. “I showed poor judgment and I deeply regret having
+      had any contact with Epstein,” she said in a statement, conjuring up contrition.
+      “It is simply embarrassing.”
+
+
+      Figures from the world of sports are not exempt. “We had a brief association where
+      we exchanged emails about adult women, and in addition we discussed movies, philanthropy
+      and investments,” claimed New York Giants co-owner Steve Tisch, mentioned over
+      400 times in the files. “I did not take him up on any of his invitations and never
+      went to his island. As we all know, he was a terrible person and someone I deeply
+      regret associating with.”
+
+
+      To keep Tisch in sporting company is chairman of the Los Angeles 2028 Olympic
+      Games, Casey Wasserman. In his case, it was an enduring infatuation with Epstein’s
+      collaborator in vice, Ghislaine. “I think of you all the time,” he saysin a charged
+      exchange in 2003. “So what do I have to do to see you in a tight leather outfit?”
+      A statement from Wasserman on the matter expressed “regret” for correspondence
+      “which took place over two decades ago, long before her horrific crimes came to
+      light.”
+
+
+      A generous assessment of these files would suggest the sense of sheer beguilement
+      shown by Epstein’s correspondents, who seemed to be playing fools during much
+      of their acquaintanceships. But the cosmic expansiveness of it all at the highest
+      social and political level points to the ethically desiccated nature of the governing
+      classes and their willingness to be depraved and blinded. Operating in the realm
+      of power and influence, these figures have shown themselves to be dunces and cavorters
+      before hedonism’s dance, utterly indifferent to the prospect that they would,
+      eventually, be found out.'
+    one_sentence_summary: The release of millions of pages of correspondence involving
+      Jeffrey Epstein reveals a disturbing network of influential figures, including
+      celebrities and royals, who engaged with him despite his notorious history of
+      sexual trafficking, highlighting their moral failings and complicity in his depravity.
+    paragraph_summary: The recent release of documents related to Jeffrey Epstein, totaling
+      3.5 million pages, has reignited scrutiny of his extensive network of high-profile
+      associates, including celebrities, politicians, and royals, many of whom engaged
+      with him despite his notorious past as a convicted sex offender. The correspondence
+      reveals a troubling mix of casual invitations and questionable interactions, with
+      figures like Elon Musk and Prince Andrew expressing eagerness to socialize with
+      Epstein, while others, like Norway's Crown Princess Mette-Marit, have publicly
+      regretted their connections. The revelations underscore a broader moral failure
+      among the elite, who appear to have been oblivious to Epstein's criminal activities
+      and the implications of their associations, highlighting the ethical decay within
+      the upper echelons of society.
+    published: '2026-02-04T06:53:40+00:00'
+  - title: 'Dooming the Chagos Deal: The Diego Garcia Dilemma'
+    url: https://www.counterpunch.org/2026/02/02/dooming-the-chagos-deal-the-diego-garcia-dilemma/
+    text: 'When remote islands start to interest chatterboxes in think tanks and bureaucrats
+      in foreign ministries, we can only assume that some matters will be exaggerated
+      over others. With the Chagos Islands, there is one matter that is hard to exaggerate.
+      The plight of its indigenous population has been horrendous, treated with brutish
+      contempt by the British and United States, banished from their homelands in the
+      name of strategic interests. As Britain and its strategic footprint passed into
+      the shade of US power, it became vital that Britannia perform the vital role of
+      servitor, always assured that it would be a partner in the venture.
+
+
+      In 1965, the UK effectively prized Mauritian control over the Chagos Islands,
+      officially known as the British Indian Ocean Territory, for £3 million. Mauritius
+      has long argued that the parting of this territory was the unnecessary cost of
+      securing its own independence. Acting in a manner typical of a power claiming
+      to follow the rule of law, 3,000 islanders were subsequently evicted to Mauritius
+      and the Seychelles over a period of time lasting till 1973. “The object of the
+      exercise,” remarked the UK Permanent Under-Secretary in 1966, “was to get some
+      rocks which will remain ours; there will be no indigenous population except seagulls
+      who have not yet got a Committee (the Status of Women does not cover the rights
+      of Birds).” Over the decades, the UK Foreign Office repeatedly thwarted valiant
+      efforts by the Chagossians to return to their islands. Various international bodies
+      took issue with such stalling conduct, including the Permanent Court of Arbitration
+      and the International Court of Justice.
+
+
+      In October 2024, a joint statement from London and Port Louis announced that all
+      but one of the Chagos Islands would be relinquished to Mauritian control. “Following
+      two years of negotiation, this is a seminal moment in our relationship and a demonstration
+      of our enduring commitment to the peaceful resolution of disputes and the rule
+      of law.”
+
+
+      While it was promoted as a glittering feat of decolonisation, the agreement suffered
+      from two ailing flaws. The first was the conspicuous absence of Chagossian consultation
+      and any putative claims the islanders might have. The second was the qualified
+      transfer of sovereignty, centred on the largest island, Diego Garcia, home to
+      a US strategic military base of outsized importance to the aims of Washington.
+      “Under the terms of this treaty,” the statement goes on to mention, “the United
+      Kingdom will agree that Mauritius is sovereign over the Chagos Archipelago, including
+      Diego Garcia.” But the base retained its “vital role in regional and global security”
+      and the UK would effectively be exercising the sovereign rights of the Mauritian
+      authorities for 99 years as part of a lease “to ensure the continued operation
+      of the base well into the next century.” To palliate the bruising concession by
+      Mauritius, Britain promised it “a package of financial support”.
+
+
+      The agreement had initial approval from US President Donald Trump, saying in February
+      last year in discussions with Prime Minister Sir Keir Starmer that the lease arrangements
+      was to his liking, and that he would be “inclined to go along with your country.”
+      There were also glowing words from US Secretary of State, Marco Rubio, who called
+      it a “monumental achievement”. The Starmer government, however, indicated one
+      significant, and potentially crucial caveat. As UK Foreign Secretary David Lammy
+      alluded to on ITV’s Peston programme, the agreement would fail without Trump’s
+      approval “because we have a shared military and intelligence interest with the
+      United States and of course they’ve got to be happy with the deal.”
+
+
+      But Trump’s new iteration as war maker and bugle of menacing threats, directed
+      at adversaries and allies alike, places the arrangement at risk. Approving abductions
+      of heads of state (Venezuela’s Nicolas Maduro), monstering the Kingdom of Denmark
+      and Greenland over claimed strategic necessities that would require the island
+      to be added to the US imperium, and now threatening Iran with military strikes,
+      suggest that all bets are off.
+
+
+      In such a festering mood, Trump scorned the UK-Mauritius deal on Truth Social
+      in a January 20 post. Stretching the truth, as is his wont, Trump huffed that
+      “our ‘brilliant’ NATO Ally, the United Kingdom, is currently planning to give
+      away the Island of Diego Garcia, the site of a vital US Military Base, to Mauritius,
+      and to do so FOR NO REASON WHATSOEVER.” China and Russia, he went on to say, would
+      have noticed. As they were powers that only believed in strength, the decision
+      to give away such territory was one of “great stupidity” and explained the reason
+      why (yet another strained link) Greenland needed to be acquired.
+
+
+      This has caused a flutter of panic in Downing Street, leading to conversations
+      between UK and US officials about allaying concerns on Washington’s side. On January
+      28, Geraint Ellis, a spokesman for Starmer, suggested a picture of placid calm
+      in the discussions. “The UK and US have worked closely together in developing
+      the treaty, which will secure the joint base on Diego Garcia that’s vital to our
+      national security.” The British government continued “to work closely with the
+      US to ensure that the necessary arrangements are in place for the future operations
+      of the base.”
+
+
+      This highly civil picture belies the broader forces at work, including British
+      opposition politicians who have been feeding the Trump administration nuggets
+      of dissent. Nigel Farage, dedicated Trump fan and leader of the populist-right
+      Reform UK party, has been making representations to Washington that the deal ought
+      to be sunk. A number of British Conservatives, including former Boris Johnson
+      aide Ross Kempsell, have also rallied against the agreement.
+
+
+      Kempsell, in a penned blog post for the political forum Politeia, shifted the
+      focus to those Chagossian voices neglected in the negotiations. Mention is made
+      of Misley Mandarin, the newly appointed first minister of the Chagossian government
+      in exile, who called the deal “an insult”. Mandarin was “one of the many, many
+      Chagossian voices who strongly oppose this dreadful deal. He is backed by the
+      majority of Brits polled, as well as MPs and peers across Parliament – a rare
+      cause uniting everyone from Reform to the Liberal Democrats.”
+
+
+      In a curious, near perverse convergence of circumstances, opposition to the UK-Mauritius
+      treaty has congealed on both sides of the Atlantic for somewhat different reasons.
+      Trump cites the rationale of might, China and Russia, and shows little awareness
+      of the expelled islanders. The little Englanders from the conservative and populist
+      side nurse dreams of Britannic relevance while citing a counterfeit concern for
+      Chagossian welfare. The neocolonial overlooking of the Chagossians in the treaty
+      adds that final note of repugnance to the whole affair.'
+    one_sentence_summary: The article critiques the recent UK-Mauritius agreement over
+      the Chagos Islands, highlighting the ongoing neglect of the indigenous Chagossian
+      population, the strategic importance of Diego Garcia to the US military, and the
+      political tensions surrounding the deal, particularly in light of Donald Trump's
+      opposition and the lack of Chagossian consultation.
+    paragraph_summary: The plight of the Chagos Islands' indigenous population, forcibly
+      evicted by the UK and US in the 1960s to serve strategic interests, has been a
+      long-standing issue, culminating in a recent agreement between the UK and Mauritius
+      to transfer control of the islands, excluding Diego Garcia, which houses a crucial
+      US military base. While the deal was framed as a step towards decolonization,
+      it has faced criticism for lacking Chagossian consultation and for the UK retaining
+      significant control over Diego Garcia for 99 years. The agreement initially received
+      support from former US President Trump, but his subsequent opposition and the
+      rise of dissent from various British political factions have complicated the situation,
+      revealing a broader geopolitical struggle and raising concerns over the neglect
+      of the Chagossian voices in the negotiations. This convergence of opposition highlights
+      the neocolonial undertones of the treaty and the ongoing marginalization of the
+      Chagossian people.
+    published: '2026-02-02T06:52:51+00:00'
   - title: 'Dancing with European Nationalism: Israel’s Generation Truth Antisemitism
       Conference'
     url: https://www.counterpunch.org/2026/01/30/dancing-with-european-nationalism-israels-generation-truth-antisemitism-conference/

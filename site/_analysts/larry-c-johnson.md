@@ -7,16 +7,2046 @@ description: "Former CIA analyst & State Dept counterterrorism official; runs So
 websites:
   - https://sonar21.com
 summary: |
-  With tensions in the Middle East at a peak and global economic uncertainty mounting, the coming days are set to be pivotal for U.S. foreign policy and broader geopolitical stability. The latest reports indicate a critical diplomatic juncture as the U.S. and Iran prepare for direct negotiations on February 7, 2026, in either Istanbul or Oman. This follows months of rising friction over Iran’s nuclear program and recent military escalations.
+  Amid ongoing geopolitical turbulence, recent statements from Russian Foreign Minister Sergei Lavrov have sharpened the tone of Moscow’s diplomatic posture. In the wake of the New START Treaty’s expiration, Lavrov has publicly blamed NATO for the Ukraine conflict and criticized the trajectory of negotiations with the United States, arguing that talks are “moving in the wrong direction.” As **Larry C. Johnson** reports, Lavrov’s remarks underscore Russia’s commitment to a multipolar world order and its insistence on new security arrangements, particularly in the nuclear arms control sphere.
   
-  **Larry C. Johnson** highlights that these talks present President Donald Trump with a rare opportunity for a diplomatic breakthrough. The negotiations are widely seen as a response to both sides’ recognition of the limits of military escalation, especially after the U.S. Navy’s recent operational challenges in the region. Johnson notes that the deployment of the USS Abraham Lincoln Carrier Strike Group in the Arabian Sea signals continued U.S. readiness for potential conflict, but also underscores the lessons from last year’s failed operations against the Houthis, which cast doubt on the effectiveness of further military pressure.
+  This hardening stance comes as Russia’s trust in the United States continues to erode. Lavrov’s skepticism regarding future economic relations and his accusation that Washington is undermining previous agreements—especially those reached during the Trump-Putin summit—signal a deepening diplomatic rift. The majority of analysts agree that the prospects for a meaningful reset in US-Russia relations are increasingly remote.
   
-  On the economic front, the ongoing commodity standoff between the U.S. and China over gold and silver continues to unsettle markets. Johnson observes persistent price discrepancies between New York and Shanghai, with U.S. banks unable to suppress international prices. This reflects a broader trend of countries moving away from the U.S. dollar, as central banks increase their gold and silver reserves—a development that could further erode dollar dominance if current policies persist.
+  On the domestic front, concerns over freedom of expression are mounting. **Larry C. Johnson** highlights the weaponization of the term “conspiracy theory” in Western political discourse, arguing that it is now routinely used to stifle debate and shift the burden of proof onto dissenters. This trend, discussed in recent interviews with figures like Patrik Baab and Peter Hanseler, is seen as a significant threat to public accountability and democratic norms.
   
-  Looking ahead, the majority of analysts cited by Johnson anticipate that the outcome of the U.S.-Iran talks will shape the immediate security environment in the Gulf. There is a high chance that Trump will seek a negotiated settlement to avoid the risks of a protracted conflict, though the possibility of renewed hostilities cannot be ruled out if talks falter. On the economic side, the trend toward de-dollarization and commodity-backed reserves is expected to continue, with Johnson stating there is a high chance this will further weaken U.S. economic leverage globally.
-  
-  In summary, the next week is likely to be decisive for both Middle Eastern stability and the future of the global financial system. The consensus among independent analysts is that diplomatic engagement is now favored over military escalation, and that economic realignment away from the dollar is most definitely underway.
+  Looking ahead, the prevailing trend is one of escalating mistrust and polarization between major powers, with Russia and China consolidating their partnership as a counterweight to US influence. Based on current trajectories, I guarantee that arms control negotiations will remain stalled, and that the information environment in the West will grow more restrictive. The likelihood of a diplomatic breakthrough in US-Russia relations is exceedingly low, while the global order will continue to fragment along multipolar lines.
 articles:
+  - title: Foreign Minister Lavrov Says Negotiations With the US Are Moving in the Wrong
+      Direction
+    url: https://sonar21.com/foreign-minister-lavrov-says-negotiations-with-the-us-are-moving-in-the-wrong-direction/
+    text: 'Sergei Lavrov has done it again. Last week he did an extended interview with
+      RT’s Rick Sanchez. On Monday he did a similar on-the-record interview with BRICS
+      TV, which I discussed in my piece last night (Monday). And today — Tuesday — Sergei
+      Lavrov gave an extensive interview to Russia’s NTV television channel . The discussion
+      covered global multipolarity, relations with the West (particularly the US and
+      Europe), the Ukraine conflict negotiations, nuclear arms control following the
+      New START Treaty’s expiration, and other geopolitical issues. Overall, the interview
+      reinforced Russia’s view that the war in Ukraine was caused by NATO’s provocations.
+      Lavrov did not mince words in blaming the West/US for stalling progress on Ukraine
+      despite some positive signals from Trump, and stressed Moscow’s commitment to
+      multipolarity while maintaining firm red lines on security. You can read the full
+      interview at the link above. Lavrov started off by emphasizing the shift from
+      500 years of Western dominance (built on slavery and colonialism) toward a multipolar
+      world. He highlighted the growing influence of countries like China, India, Brazil,
+      and integration blocs such as BRICS-related structures, the EAEU, CIS, CSTO, ASEAN,
+      and the GCC. He accused Europe of persisting in dictating approaches across Eurasia,
+      obstructing natural cooperation (e.g., between Russia and Central Asia or the
+      South Caucasus), and interfering in the Arctic. Lavrov dropped a verbal bomb when
+      he described US-Russia relations as moving “in the wrong direction,” with the
+      US pursuing global dominance rather than dividing spheres of influence. He noted
+      Trump’s contacts with countries buying Russian oil/gas as an attempt to dominate
+      the global energy market. He did praise Trump as the only Western leader to publicly
+      acknowledge Russia’s interest in preventing further NATO expansion, calling it
+      a “huge step.,” but he then rejected Trump’s claim that Russia had violated its
+      obligations under New START , calling them unfounded. Lavrov downplayed the New
+      START treaty’s February 5, 2026, expiration, noting it had not functioned for
+      the past three years. He told the reporter that Russia will not initiate escalation,
+      but will closely monitor US actions “with full responsibility.” He expressed skepticism
+      about US ideas to include China in future arms talks (possibly to divert from
+      core issues) and said any multilateral agreement must account for Britain and
+      France’s capabilities. He reaffirmed that Russia relies on its armed forces as
+      its main guarantor of security post-treaty. With respect to negotiations with
+      Ukraine, Lavrov warned against excessive optimism, stating there is still “a long
+      way to go” and “a large distance” to cover. Military-to-military discussions involve
+      “multifaceted, substantial” issues requiring meticulous detail, including control
+      mechanisms for any agreement. Root causes of the conflict also must be addressed,
+      including Russia’s security, elimination of threats (no weapons in Ukraine threatening
+      Russia), and rights of Russians/Russian-speakers in Ukraine per international
+      law and the UN Charter. He claimed the US recognizes that territorial issues should
+      be resolved based on “realities on the ground” and the will of the people. Lavrov
+      criticized European plans (e.g., immediate ceasefire) as solving nothing and providing
+      Ukraine with sharply increased military aid without recognition of changes. He
+      reiterated Russia’s position drawing from past frameworks (e.g., 2022 Istanbul
+      talks), rejecting meaningful security guarantees for Ukraine that could threaten
+      Russia. Europe is trying back-channel contacts on Ukraine, but offers nothing
+      new compared to public statements. Lavrov explicitly stated that Russia has “no
+      intention” and “absolutely no reason” to attack Europe (or any part of it). He
+      stressed there are no plans for offensive actions against NATO countries or the
+      EU. He warned that if Europe (or Western forces) were to act on what he called
+      their “threats” — i.e., prepare for and launch an attack on Russia — Moscow’s
+      response would be a full-scale military retaliation using all available means,
+      in line with Russia’s military doctrine. He contrasted this with the current Ukraine
+      operation, which he (and Putin) describe as a limited “special military operation,”
+      implying a broader conflict would be far more severe but still reactive. Doing
+      these three interviews in three of the last four word days is unusual for Lavrov.
+      I believe he was directed by President Putin to use the press as a means of delivering
+      a tough message to Donald Trump and the rest of NATO. Putin and his advisers had
+      hoped that Trump would deliver on his promises made at the August 2025 meeting
+      in Anchorage and that he would have made some concrete gestures of goodwill, such
+      as unfreezing Russia’s assets or eliminating tariffs on countries that buy Russian
+      oil. Instead, Trump has essentially told Putin to fuck off. Russia has received
+      the message and is now putting Trump on notice that Russia’s demands are clear
+      and firm. If Trump decides to attack Iran then prospects for improved relations
+      between Washington and Moscow will be dashed. Nima is back home in Brazil and
+      he hosted Professor Marandi and me for a follow up chat on the looming war with
+      the US. I also spoke with Glenn Diesen on Monday and he posted our conversation
+      today:'
+    one_sentence_summary: In a series of interviews, Sergei Lavrov articulated Russia's
+      perspective on global multipolarity, blamed NATO for the Ukraine conflict, and
+      reaffirmed Moscow's stance on security and nuclear arms control following the
+      expiration of the New START Treaty.
+    paragraph_summary: In a series of interviews, Russian Foreign Minister Sergei Lavrov
+      articulated Russia's stance on various geopolitical issues, emphasizing the transition
+      from Western dominance to a multipolar world influenced by countries like China,
+      India, and Brazil. He criticized the West, particularly the US and Europe, for
+      exacerbating the Ukraine conflict through NATO provocations and for obstructing
+      cooperation in Eurasia. Lavrov expressed concern over deteriorating US-Russia
+      relations, accusing the US of seeking global dominance and interfering in regional
+      matters. While he acknowledged former President Trump's recognition of Russia's
+      concerns regarding NATO expansion as a positive step, he refuted Trump's claims
+      of Russian violations of the New START Treaty. Overall, Lavrov's remarks reinforced
+      Russia's commitment to multipolarity and highlighted its firm security red lines.
+    published: '2026-02-11T04:40:02+00:00'
+  - title: Foreign Minister Lavrov Says Negotiations With the US Are Moving in the Wrong
+      Direction
+    url: https://sonar21.com/foreign-minister-lavrov-says-negotiations-with-the-us-are-moving-in-the-wrong-direction/
+    text: 'Sergei Lavrov has done it again. Last week he did an extended interview with
+      RT’s Rick Sanchez. On Monday he did a similar on-the-record interview with BRICS
+      TV, which I discussed in my piece last night (Monday). And today — Tuesday — Sergei
+      Lavrov gave an extensive interview to Russia’s NTV television channel . The discussion
+      covered global multipolarity, relations with the West (particularly the US and
+      Europe), the Ukraine conflict negotiations, nuclear arms control following the
+      New START Treaty’s expiration, and other geopolitical issues. Overall, the interview
+      reinforced Russia’s view that the war in Ukraine was caused by NATO’s provocations.
+      Lavrov did not mince words in blaming the West/US for stalling progress on Ukraine
+      despite some positive signals from Trump, and stressed Moscow’s commitment to
+      multipolarity while maintaining firm red lines on security. You can read the full
+      interview at the link above. Lavrov started off by emphasizing the shift from
+      500 years of Western dominance (built on slavery and colonialism) toward a multipolar
+      world. He highlighted the growing influence of countries like China, India, Brazil,
+      and integration blocs such as BRICS-related structures, the EAEU, CIS, CSTO, ASEAN,
+      and the GCC. He accused Europe of persisting in dictating approaches across Eurasia,
+      obstructing natural cooperation (e.g., between Russia and Central Asia or the
+      South Caucasus), and interfering in the Arctic. Lavrov dropped a verbal bomb when
+      he described US-Russia relations as moving “in the wrong direction,” with the
+      US pursuing global dominance rather than dividing spheres of influence. He noted
+      Trump’s contacts with countries buying Russian oil/gas as an attempt to dominate
+      the global energy market. He did praise Trump as the only Western leader to publicly
+      acknowledge Russia’s interest in preventing further NATO expansion, calling it
+      a “huge step.,” but he then rejected Trump’s claim that Russia had violated its
+      obligations under New START , calling them unfounded. Lavrov downplayed the New
+      START treaty’s February 5, 2026, expiration, noting it had not functioned for
+      the past three years. He told the reporter that Russia will not initiate escalation,
+      but will closely monitor US actions “with full responsibility.” He expressed skepticism
+      about US ideas to include China in future arms talks (possibly to divert from
+      core issues) and said any multilateral agreement must account for Britain and
+      France’s capabilities. He reaffirmed that Russia relies on its armed forces as
+      its main guarantor of security post-treaty. With respect to negotiations with
+      Ukraine, Lavrov warned against excessive optimism, stating there is still “a long
+      way to go” and “a large distance” to cover. Military-to-military discussions involve
+      “multifaceted, substantial” issues requiring meticulous detail, including control
+      mechanisms for any agreement. Root causes of the conflict also must be addressed,
+      including Russia’s security, elimination of threats (no weapons in Ukraine threatening
+      Russia), and rights of Russians/Russian-speakers in Ukraine per international
+      law and the UN Charter. He claimed the US recognizes that territorial issues should
+      be resolved based on “realities on the ground” and the will of the people. Lavrov
+      criticized European plans (e.g., immediate ceasefire) as solving nothing and providing
+      Ukraine with sharply increased military aid without recognition of changes. He
+      reiterated Russia’s position drawing from past frameworks (e.g., 2022 Istanbul
+      talks), rejecting meaningful security guarantees for Ukraine that could threaten
+      Russia. Europe is trying back-channel contacts on Ukraine, but offers nothing
+      new compared to public statements. Lavrov explicitly stated that Russia has “no
+      intention” and “absolutely no reason” to attack Europe (or any part of it). He
+      stressed there are no plans for offensive actions against NATO countries or the
+      EU. He warned that if Europe (or Western forces) were to act on what he called
+      their “threats” — i.e., prepare for and launch an attack on Russia — Moscow’s
+      response would be a full-scale military retaliation using all available means,
+      in line with Russia’s military doctrine. He contrasted this with the current Ukraine
+      operation, which he (and Putin) describe as a limited “special military operation,”
+      implying a broader conflict would be far more severe but still reactive. Doing
+      these three interviews in three of the last four word days is unusual for Lavrov.
+      I believe he was directed by President Putin to use the press as a means of delivering
+      a tough message to Donald Trump and the rest of NATO. Putin and his advisers had
+      hoped that Trump would deliver on his promises made at the August 2025 meeting
+      in Anchorage and that he would have made some concrete gestures of goodwill, such
+      as unfreezing Russia’s assets or eliminating tariffs on countries that buy Russian
+      oil. Instead, Trump has essentially told Putin to fuck off. Russia has received
+      the message and is now putting Trump on notice that Russia’s demands are clear
+      and firm. If Trump decides to attack Iran then prospects for improved relations
+      between Washington and Moscow will be dashed. Nima is back home in Brazil and
+      he hosted Professor Marandi and me for a follow up chat on the looming war with
+      the US. I also spoke with Glenn Diesen on Monday and he posted our conversation
+      today:'
+    one_sentence_summary: In a series of interviews, Sergei Lavrov articulated Russia's
+      perspective on global multipolarity, blamed NATO for the Ukraine conflict, and
+      reaffirmed Moscow's stance on security and nuclear arms control following the
+      expiration of the New START Treaty.
+    paragraph_summary: In a series of interviews, Russian Foreign Minister Sergei Lavrov
+      articulated Russia's stance on various geopolitical issues, emphasizing the transition
+      from Western dominance to a multipolar world influenced by countries like China,
+      India, and Brazil. He criticized the West, particularly the US and Europe, for
+      exacerbating the Ukraine conflict through NATO provocations and for obstructing
+      cooperation in Eurasia. Lavrov expressed concern over deteriorating US-Russia
+      relations, accusing the US of seeking global dominance and interfering in regional
+      matters. While he acknowledged former President Trump's recognition of Russia's
+      concerns regarding NATO expansion as a positive step, he refuted Trump's claims
+      of Russian violations of the New START Treaty. Overall, Lavrov's remarks reinforced
+      Russia's commitment to multipolarity and highlighted its firm security red lines.
+    published: '2026-02-11T04:40:02+00:00'
+  - title: 'Killing Free Speech: The Weaponization of The Term “Conspiracy Theory”'
+    url: https://sonar21.com/killing-free-speech-the-weaponization-of-the-term-conspiracy-theory/
+    text: 'How Deceptive Language Is Used to End Public Debate and Evade Accountability
+      “Truth was once our bright shining star, Now the lies stretch near and far. Forgotten
+      and lost, truth and trust, Become outlaws, as facts turn to dust.” “Secrets” –
+      The Frontier Man Few phrases in modern political language are as effective at
+      shutting down free speech as the term “conspiracy theory.” It presents itself
+      as a neutral descriptor, even a safeguard of reason, but in practice it functions
+      as something far more consequential and nefarious: a speech-stopping “verdict.”
+      Once applied, debate ends, evidence becomes irrelevant, and the burden of proof
+      silently shifts from institutions of power to the individual who dares to question
+      them. To understand how this happened, we must begin with what the term actually
+      meant—before politicians started to weaponize it to shut down debate. What the
+      Term Means—and What It Does Not Merriam-Webster defines conspiracy theory as:
+      “A theory that explains an event or set of circumstances as the result of a secret
+      plot by usually powerful conspirators.” This definition is striking for what it
+      does not include. It says nothing about falsity, delusion, irrationality, or bad
+      faith. A conspiracy theory, properly understood, is simply a proposed explanation
+      involving secrecy and coordinated power —a claim that may be true or false, strong
+      or weak, persuasive or absurd, depending entirely on evidence and reasoning. And
+      yet, in modern political discourse, the term no longer functions as a description.
+      It functions as a delegitimization tool that denies the public any evaluation
+      of the claim’s merits, while granting powerful actors unrestricted ability to
+      act without public scrutiny. To call something a “conspiracy theory” today is
+      not used to describe its structure; it is used to end all debate on the subject.
+      From Analytical Term to Rhetorical Verdict In contemporary usage, the label silently
+      carries a bundle of unspoken instructions: Do not investigate Do not engage Do
+      not take the speaker seriously Do not risk association The term no longer answers
+      the question “Is this claim true?” It answers the question “Is this claim allowed
+      by the powerful people or institutions?” Words that once named categories of explanation
+      now police the boundaries of acceptable thought . “Conspiracy theory” has become
+      not a noun, but a dismissal mechanism —one that replaces evaluation of the merits
+      of the claim with ostracizing the person who questioned the powerful. The Hidden
+      Asymmetry The power of the term rests on a profound and rarely acknowledged asymmetry:
+      As we know, powerful institutions, governments, and individuals do, in fact, routinely
+      conspire to take nefarious actions against the public But suggesting they might
+      do so is treated as irrational and inappropriate, shutting down free speech and
+      allowing the powerful to evade accountability for their actions The modern world
+      is saturated with real conspiracies that were initially dismissed as paranoid
+      fantasies until documentation made denial impossible: covert surveillance programs,
+      fabricated pretexts for war, secret human experimentation, illegal intelligence
+      operations, child abuse, and systematic media manipulation. In these cases, the
+      structure of the claim —hidden coordination by powerful actors—was identical to
+      what would today be instantly branded a “conspiracy theory.” The difference was
+      not logic, evidence, or methodology. The difference was time . This reveals the
+      term’s true function: it does not distinguish between truth and falsehood. It
+      distinguishes between authorized narratives and unauthorized inquiry . How Epistemology
+      Collapsed into Authority A healthy society evaluates claims by asking: Is the
+      argument coherent? Is the evidence credible? Is secrecy plausible given institutional
+      structure? If the claim is true, who is responsible? The modern use of “conspiracy
+      theory” replaces all of this with a single, corrosive shortcut: Has this claim
+      been sanctioned by the powerful? Truth becomes a matter of alignment with the
+      institutional consensus—often produced by the very institutions committing nefarious
+      actions under scrutiny. Skepticism is inverted. Deference to power is rebranded
+      as rationality. This is not critical thinking. It is an epistemic deception .
+      The CIA and the Deliberate Reengineering of the Term This semantic transformation
+      and weaponization was not accidental. In the aftermath of President John F. Kennedy’s
+      assassination, the American state faced a legitimacy crisis. A substantial number
+      of journalists, lawyers, physicians, and public officials raised evidence-based
+      objections to the Warren Commission’s conclusion that Lee Harvey Oswald acted
+      alone. These critics were not fringe figures; they were methodical, credentialed,
+      and persistent. For intelligence agencies, this skepticism posed a systemic threat—not
+      merely to one report, but to public trust in institutional authority . In response,
+      the CIA circulated an internal memorandum in 1967 advising media and opinion leaders
+      on how to neutralize critics of the Warren Commission. The strategy did not focus
+      on rebutting evidence. Instead, it recommended discrediting the critics themselves
+      —questioning their motives, mental stability, and credibility—and explicitly encouraged
+      the use of the label “conspiracy theorist.” What the 1967 memorandum represents
+      is not the creation of a concept, but the formalization and strategic deployment
+      of it as an emerging rhetorical weapon. By explicitly recommending that critics
+      be discredited rather than answered—and by encouraging the association of dissent
+      with irrationality, paranoia, and bad faith—the state accelerated a linguistic
+      shift already underway and legitimized it as a tool of narrative control. The
+      significance of this moment lies not in its originality, but in its institutional
+      endorsement of a tactic that would later become reflexive, automated, and culturally
+      self-enforcing. This was a turning point. Language was repurposed as an intelligence
+      tool . From Strategy to Cultural Reflex What began as a targeted political tactic
+      quickly became a cultural habit. Once “conspiracy theory” was successfully associated
+      with paranoia, irrationality, and social deviance, it no longer required enforcement.
+      Journalists internalized it. Academics adopted it. Citizens learned to self-censor.
+      No censorship laws were needed. No arguments had to be answered. No documents
+      had to be released. The phrase itself did the work. This is how censorship functions
+      in societies that still call themselves free. The Ultimate Irony The institutional
+      misuse of the term is especially grotesque given the historical record of those
+      who popularized it. The same intelligence agencies that encouraged the public
+      to mock suspicions of secret power were themselves engaged—often simultaneously—in
+      covert regime change, disinformation campaigns, psychological operations, and
+      illegal domestic activity. Many of these actions were initially dismissed as “conspiracy
+      theories.” They were later confirmed by declassified documents. The term thus
+      became a shield for secrecy and a weapon to avoid public scrutiny and accountability
+      , not a tool for discernment. A Linguistic Deception That Ends Debate The modern
+      use of the term “conspiracy theory” commits a basic intellectual error. Conspiracy
+      describes a mode of coordination Theory describes a proposed explanation Neither
+      implies falsehood. A claim involving conspiracy is no more irrational than one
+      involving markets, bureaucracies, or ideology. Its validity depends on evidence,
+      logic, and explanatory power—not on whether it challenges comfort or authority.
+      By collapsing content into credibility , the term replaces reasoned evaluation
+      with reputational attack. Inquiry is not refuted; it is pathologized. When a Phrase
+      Replaces an Argument “Conspiracy theory” has become one of the most efficient
+      instruments of intellectual control in modern political life precisely because
+      it allows power to say, without argument: Do not look here. It is not a rebuttal.
+      It is not an analysis. It is not skepticism. It is a linguistic chokehold —tight
+      enough to stop debate, subtle enough to feel reasonable, and vague enough to be
+      deployed wherever inquiry becomes inconvenient. A society that values truth and
+      freedom of speech must treat the term with extreme caution. A society that values
+      truth and freedom of speech must refuse to let linguistic manipulation decide
+      which questions are allowed to be asked. Because the moment inquiry itself is
+      treated as evidence of irrationality, power no longer needs to hide. It can now
+      openly commit atrocities without any public scrutiny. The Frontier Man is an American
+      poet, writer, musician, and visual artist. He publishes his work under a pen name
+      to maintain focus on his ideas and art rather than his identity. You can follow
+      The Frontier Man on his Substack, Verses & Visions ; on X at @FrontierArt1 ; and
+      on Telegram at @VersesVisions . Artwork Censored! The Frontier Man'
+    one_sentence_summary: The article discusses how the term "conspiracy theory" has
+      been weaponized in modern political discourse to effectively silence debate and
+      shift the burden of proof onto individuals questioning authority, thereby undermining
+      truth and accountability.
+    paragraph_summary: The article discusses how the term "conspiracy theory" has evolved
+      from a neutral descriptor to a powerful rhetorical tool that effectively stifles
+      public debate and accountability. Originally defined as a theory explaining events
+      through secretive plots by powerful individuals, the term now serves to delegitimize
+      claims without allowing for evidence or reasoning to be considered. By labeling
+      something as a conspiracy theory, the burden of proof shifts to the individual
+      questioning the narrative, thereby silencing dissent and enabling those in power
+      to operate without scrutiny. This transformation highlights the dangers of deceptive
+      language in political discourse, where the pursuit of truth is undermined by the
+      dismissal of alternative viewpoints.
+    published: '2026-02-10T16:35:00+00:00'
+  - title: 'Killing Free Speech: The Weaponization of The Term “Conspiracy Theory”'
+    url: https://sonar21.com/killing-free-speech-the-weaponization-of-the-term-conspiracy-theory/
+    text: 'How Deceptive Language Is Used to End Public Debate and Evade Accountability
+      “Truth was once our bright shining star, Now the lies stretch near and far. Forgotten
+      and lost, truth and trust, Become outlaws, as facts turn to dust.” “Secrets” –
+      The Frontier Man Few phrases in modern political language are as effective at
+      shutting down free speech as the term “conspiracy theory.” It presents itself
+      as a neutral descriptor, even a safeguard of reason, but in practice it functions
+      as something far more consequential and nefarious: a speech-stopping “verdict.”
+      Once applied, debate ends, evidence becomes irrelevant, and the burden of proof
+      silently shifts from institutions of power to the individual who dares to question
+      them. To understand how this happened, we must begin with what the term actually
+      meant—before politicians started to weaponize it to shut down debate. What the
+      Term Means—and What It Does Not Merriam-Webster defines conspiracy theory as:
+      “A theory that explains an event or set of circumstances as the result of a secret
+      plot by usually powerful conspirators.” This definition is striking for what it
+      does not include. It says nothing about falsity, delusion, irrationality, or bad
+      faith. A conspiracy theory, properly understood, is simply a proposed explanation
+      involving secrecy and coordinated power —a claim that may be true or false, strong
+      or weak, persuasive or absurd, depending entirely on evidence and reasoning. And
+      yet, in modern political discourse, the term no longer functions as a description.
+      It functions as a delegitimization tool that denies the public any evaluation
+      of the claim’s merits, while granting powerful actors unrestricted ability to
+      act without public scrutiny. To call something a “conspiracy theory” today is
+      not used to describe its structure; it is used to end all debate on the subject.
+      From Analytical Term to Rhetorical Verdict In contemporary usage, the label silently
+      carries a bundle of unspoken instructions: Do not investigate Do not engage Do
+      not take the speaker seriously Do not risk association The term no longer answers
+      the question “Is this claim true?” It answers the question “Is this claim allowed
+      by the powerful people or institutions?” Words that once named categories of explanation
+      now police the boundaries of acceptable thought . “Conspiracy theory” has become
+      not a noun, but a dismissal mechanism —one that replaces evaluation of the merits
+      of the claim with ostracizing the person who questioned the powerful. The Hidden
+      Asymmetry The power of the term rests on a profound and rarely acknowledged asymmetry:
+      As we know, powerful institutions, governments, and individuals do, in fact, routinely
+      conspire to take nefarious actions against the public But suggesting they might
+      do so is treated as irrational and inappropriate, shutting down free speech and
+      allowing the powerful to evade accountability for their actions The modern world
+      is saturated with real conspiracies that were initially dismissed as paranoid
+      fantasies until documentation made denial impossible: covert surveillance programs,
+      fabricated pretexts for war, secret human experimentation, illegal intelligence
+      operations, child abuse, and systematic media manipulation. In these cases, the
+      structure of the claim —hidden coordination by powerful actors—was identical to
+      what would today be instantly branded a “conspiracy theory.” The difference was
+      not logic, evidence, or methodology. The difference was time . This reveals the
+      term’s true function: it does not distinguish between truth and falsehood. It
+      distinguishes between authorized narratives and unauthorized inquiry . How Epistemology
+      Collapsed into Authority A healthy society evaluates claims by asking: Is the
+      argument coherent? Is the evidence credible? Is secrecy plausible given institutional
+      structure? If the claim is true, who is responsible? The modern use of “conspiracy
+      theory” replaces all of this with a single, corrosive shortcut: Has this claim
+      been sanctioned by the powerful? Truth becomes a matter of alignment with the
+      institutional consensus—often produced by the very institutions committing nefarious
+      actions under scrutiny. Skepticism is inverted. Deference to power is rebranded
+      as rationality. This is not critical thinking. It is an epistemic deception .
+      The CIA and the Deliberate Reengineering of the Term This semantic transformation
+      and weaponization was not accidental. In the aftermath of President John F. Kennedy’s
+      assassination, the American state faced a legitimacy crisis. A substantial number
+      of journalists, lawyers, physicians, and public officials raised evidence-based
+      objections to the Warren Commission’s conclusion that Lee Harvey Oswald acted
+      alone. These critics were not fringe figures; they were methodical, credentialed,
+      and persistent. For intelligence agencies, this skepticism posed a systemic threat—not
+      merely to one report, but to public trust in institutional authority . In response,
+      the CIA circulated an internal memorandum in 1967 advising media and opinion leaders
+      on how to neutralize critics of the Warren Commission. The strategy did not focus
+      on rebutting evidence. Instead, it recommended discrediting the critics themselves
+      —questioning their motives, mental stability, and credibility—and explicitly encouraged
+      the use of the label “conspiracy theorist.” What the 1967 memorandum represents
+      is not the creation of a concept, but the formalization and strategic deployment
+      of it as an emerging rhetorical weapon. By explicitly recommending that critics
+      be discredited rather than answered—and by encouraging the association of dissent
+      with irrationality, paranoia, and bad faith—the state accelerated a linguistic
+      shift already underway and legitimized it as a tool of narrative control. The
+      significance of this moment lies not in its originality, but in its institutional
+      endorsement of a tactic that would later become reflexive, automated, and culturally
+      self-enforcing. This was a turning point. Language was repurposed as an intelligence
+      tool . From Strategy to Cultural Reflex What began as a targeted political tactic
+      quickly became a cultural habit. Once “conspiracy theory” was successfully associated
+      with paranoia, irrationality, and social deviance, it no longer required enforcement.
+      Journalists internalized it. Academics adopted it. Citizens learned to self-censor.
+      No censorship laws were needed. No arguments had to be answered. No documents
+      had to be released. The phrase itself did the work. This is how censorship functions
+      in societies that still call themselves free. The Ultimate Irony The institutional
+      misuse of the term is especially grotesque given the historical record of those
+      who popularized it. The same intelligence agencies that encouraged the public
+      to mock suspicions of secret power were themselves engaged—often simultaneously—in
+      covert regime change, disinformation campaigns, psychological operations, and
+      illegal domestic activity. Many of these actions were initially dismissed as “conspiracy
+      theories.” They were later confirmed by declassified documents. The term thus
+      became a shield for secrecy and a weapon to avoid public scrutiny and accountability
+      , not a tool for discernment. A Linguistic Deception That Ends Debate The modern
+      use of the term “conspiracy theory” commits a basic intellectual error. Conspiracy
+      describes a mode of coordination Theory describes a proposed explanation Neither
+      implies falsehood. A claim involving conspiracy is no more irrational than one
+      involving markets, bureaucracies, or ideology. Its validity depends on evidence,
+      logic, and explanatory power—not on whether it challenges comfort or authority.
+      By collapsing content into credibility , the term replaces reasoned evaluation
+      with reputational attack. Inquiry is not refuted; it is pathologized. When a Phrase
+      Replaces an Argument “Conspiracy theory” has become one of the most efficient
+      instruments of intellectual control in modern political life precisely because
+      it allows power to say, without argument: Do not look here. It is not a rebuttal.
+      It is not an analysis. It is not skepticism. It is a linguistic chokehold —tight
+      enough to stop debate, subtle enough to feel reasonable, and vague enough to be
+      deployed wherever inquiry becomes inconvenient. A society that values truth and
+      freedom of speech must treat the term with extreme caution. A society that values
+      truth and freedom of speech must refuse to let linguistic manipulation decide
+      which questions are allowed to be asked. Because the moment inquiry itself is
+      treated as evidence of irrationality, power no longer needs to hide. It can now
+      openly commit atrocities without any public scrutiny. The Frontier Man is an American
+      poet, writer, musician, and visual artist. He publishes his work under a pen name
+      to maintain focus on his ideas and art rather than his identity. You can follow
+      The Frontier Man on his Substack, Verses & Visions ; on X at @FrontierArt1 ; and
+      on Telegram at @VersesVisions . Artwork Censored! The Frontier Man'
+    one_sentence_summary: The article discusses how the term "conspiracy theory" has
+      been weaponized in modern political discourse to effectively silence debate and
+      shift the burden of proof onto individuals questioning authority, thereby undermining
+      truth and accountability.
+    paragraph_summary: The article discusses how the term "conspiracy theory" has evolved
+      from a neutral descriptor to a powerful rhetorical tool that effectively stifles
+      public debate and accountability. Originally defined as a theory explaining events
+      through secretive plots by powerful individuals, the term now serves to delegitimize
+      claims without allowing for evidence or reasoning to be considered. By labeling
+      something as a conspiracy theory, the burden of proof shifts to the individual
+      questioning the narrative, thereby silencing dissent and enabling those in power
+      to operate without scrutiny. This transformation highlights the dangers of deceptive
+      language in political discourse, where the pursuit of truth is undermined by the
+      dismissal of alternative viewpoints.
+    published: '2026-02-10T16:35:00+00:00'
+  - title: Russia’s Trust in Trump and the US is Fading Fast
+    url: https://sonar21.com/russias-trust-in-trump-and-the-us-is-fading-fast/
+    text: 'Sergei Lavrov, Russia’s Foreign Minister, gave a remarkable assessment of
+      the emerging new economic order, the war in Ukraine and the unreliability of the
+      United States as a negotiating partner in an interview with TV BRICS, which was
+      published on February 9, 2026. Overall, he expressed no optimism for economic
+      ties with the US, seeing no “bright” or “rosy” future there despite openness to
+      cooperation in principle, while blaming the US for sabotaging relations and progress
+      on Ukraine despite Trump’s stated desire to end the war. And that was just for
+      starters. Foreign Minister Lavrov accused the United States of no longer being
+      willing to implement its own proposals on Ukraine that were discussed during the
+      August 2025 summit in Anchorage, Alaska (between Presidents Putin and Trump).
+      Lavrov claimed Russia accepted the US proposal there, and if approached “like
+      men” (or straightforwardly), the issue should have been resolved. Instead, he
+      said Washington has backtracked, continuing policies like new sanctions, actions
+      against Russian oil tankers (e.g., seizures by US forces), and blocking Russian
+      energy exports. He also stated that after Anchorage, Russia and the US were supposed
+      to move toward broad cooperation, but the opposite occurred, with the US creating
+      “artificial barriers” and pursuing “economic dominance.” Lavrov reiterated Russia’s
+      core demands for any settlement: eliminating the “Nazi foundations” of Ukraine
+      (a reference to Russia’s longstanding “denazification” narrative), ensuring Russia’s
+      security by preventing any weapons on Ukrainian territory that could threaten
+      Russia, and effectively controlling aspects of Ukraine’s post-war military size,
+      composition, and armament. He emphasized that Russia’s security requires addressing
+      these, including in regions like Crimea, Donbas, and “Novorossiya.” Here are the
+      key paragraphs from the interview regarding the war in Ukraine: We are told that
+      the Ukrainian problem needs to be resolved. In Anchorage, we accepted the United
+      States’ proposal. If we approach it in a “masculine” way, they proposed it, and
+      we agreed, which means that the problem needs to be resolved. Russian President
+      Vladimir Putin has repeatedly stated that it does not matter to Russia what is
+      said in Ukraine or Europe, as we are well aware of the “cave-like” Russophobia
+      of most regimes in the European Union, with a few notable exceptions. The position
+      of the United States was crucial for us. By accepting their proposal, we seem
+      to have fulfilled the task of resolving the Ukrainian issue and moving on to full-scale,
+      broad, and mutually beneficial cooperation.j So far, in practice, everything looks
+      the opposite: new sanctions are being introduced, a “war” is being waged against
+      tankers on the high seas in violation of the UN Convention on the Law of the Sea
+      . India and other our partners are trying to be forbidden to buy cheap, affordable
+      Russian energy resources (Europe has long been banned) and forced to buy American
+      liquefied natural gas at exorbitant prices. That is, in the economic field, the
+      Americans have declared the task of economic domination. In addition to the fact
+      that they seem to have proposed something about Ukraine, and we were ready (now
+      they are not ready), we also do not see any “radiant” future in the economic sphere. The
+      Americans want to take over all the routes of providing all the leading countries
+      and all the continents with energy resources. On the European continent, they
+      are “looking” at the Nord Streams that were blown up three years ago, at the Ukrainian
+      gas transportation system, and at the Turkish Stream. There was some doubt among
+      some pundits in the West whether Russia had hardened its position after the December
+      28, 2025 drone attack on the official residence of Vladimir Putin in Valdai. I
+      think Lavrov’s remarks to the BRICS journalist settles that question… The Russians
+      are pissed off at Trump and his administration because Trump has not kept his
+      promises to the Russians. If Steve Witkoff and Jared Kushner make another trip
+      to Russia, they are not likely to be warmly greeted by their Russian hosts. The
+      Russian will be polite but, based on Lavrov’s remarks, they will demand substantive
+      gestures that Trump will deliver what he has promised. Unless Trump moves soon
+      to start lifting sanctions on Russia, ending the confiscation of Russian assets
+      and following through on the promises made at Anchorage regarding the war in Ukraine,
+      I believe that Vladimir Putin will conclude that further negotiations with Trump’s
+      boys is a complete waste of time. While much of the media coverage of Lavrov’s
+      remarks have focused on his clear frustration with Trump for failing to settle
+      the war with Ukraine, Lavrov provided a master class on the economic transformation
+      that is underway: We are currently witnessing a transformation on the global stage,
+      which began some time ago due to the objective transition to a multipolar world,
+      where it is no longer a bipolar world, as was the case during the Soviet Union
+      and the United States, the Warsaw Pact, and the North Atlantic Treaty Organization,
+      nor a unipolar world, as was the case after the collapse of the Soviet Union,
+      but rather a multipolar world that determines the course of humanity’s development. For
+      many years, the United States has been the driving force behind the global economy,
+      regulating global finances, and using the role of the dollar to strengthen its
+      dominant position. They are already objectively losing their economic influence
+      and their weight in the global economy. At the same time, countries such as the
+      People’s Republic of China, India, and Brazil are rising. There are interesting
+      processes taking place on the African continent, as Africans are increasingly
+      reluctant to export their natural resources and are instead building their own
+      industries, which the Soviet Union began to support. Many centers of rapid economic
+      growth, centers of power, financial and political influence have emerged. The
+      world is being reformatted. This happens in competition. The West does not want
+      to give up its once dominant position. Moreover, with the advent of the Trump
+      administration, this struggle to suppress competitors has become particularly
+      explicit and open. As a matter of fact, the administration in Washington under
+      D. Trump does not hide these ambitions. They say that they should dominate the
+      energy sector and limit their competitors. They are using completely unfair methods
+      against us. They are banning the work of Russian oil companies such as Lukoil
+      and Rosneft. They are trying to control our trade, investment cooperation, and
+      military-technical ties with Russia’s major strategic partners, such as India
+      and other BRICS members. There is a battle going on to preserve the old world
+      order, which was based on the dollar and the rules that the West created and implemented
+      in the International Monetary Fund, the World Bank, and the World Trade Organization. When
+      new centers of growth began to achieve much more significant economic development
+      and significantly higher growth rates based on these same rules (as we see in
+      the BRICS countries), the West began to look for ways to prevent this transition. However,
+      this is impossible because it is an objective process. For several years now,
+      the growth rates and GDP volumes of the BRICS countries have significantly exceeded
+      the GDP of the G7 countries combined in terms of purchasing power parity. A new
+      economic and political order is being assembled, piece-by-piece, with Russia and
+      China working as partners and leading the way. The reign of US hegemony is dead…
+      The only way America can be “Great Again” is that it must reject militarism and
+      violence and turn instead to adopting policies that are based on genuine collaboration
+      with the BRICS nations. Lavrov was not expressing his opinion in this interview…
+      He was explaining how the government of Vladimir Putin views the world. Will Trump
+      listen and comprehend the message? I doubt it. I did three podcasts today that
+      are published: 1) Judge Napolitano, 2) David Oualaaloo and 3) Kyle Anzalone… Iran
+      and Ukraine are the subjects that everyone wants to discuss: I thank you for your
+      invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: In a recent interview, Russian Foreign Minister Sergei Lavrov
+      expressed deep skepticism about future economic relations with the United States
+      and accused it of undermining progress on the Ukraine conflict, despite previous
+      agreements made during a summit between Presidents Putin and Trump.
+    paragraph_summary: In a recent interview with TV BRICS, Russian Foreign Minister
+      Sergei Lavrov expressed a bleak outlook on economic relations with the United
+      States and criticized Washington's handling of the Ukraine conflict. He claimed
+      that the U.S. has sabotaged progress on Ukraine despite President Trump's willingness
+      to negotiate, particularly following the August 2025 summit in Anchorage, where
+      Russia accepted U.S. proposals that have since been abandoned. Lavrov accused
+      the U.S. of imposing new sanctions and creating obstacles to cooperation, which
+      he believes undermines any potential resolution. He reiterated Russia's demands
+      for a settlement, including the removal of what he termed the "Nazi foundations"
+      of Ukraine, ensuring security against threats from Ukrainian weapons, and controlling
+      Ukraine's military post-war. Lavrov's remarks reflect a deepening mistrust and
+      a call for a more straightforward approach to negotiations.
+    published: '2026-02-10T03:55:39+00:00'
+  - title: Russia’s Trust in Trump and the US is Fading Fast
+    url: https://sonar21.com/russias-trust-in-trump-and-the-us-is-fading-fast/
+    text: 'Sergei Lavrov, Russia’s Foreign Minister, gave a remarkable assessment of
+      the emerging new economic order, the war in Ukraine and the unreliability of the
+      United States as a negotiating partner in an interview with TV BRICS, which was
+      published on February 9, 2026. Overall, he expressed no optimism for economic
+      ties with the US, seeing no “bright” or “rosy” future there despite openness to
+      cooperation in principle, while blaming the US for sabotaging relations and progress
+      on Ukraine despite Trump’s stated desire to end the war. And that was just for
+      starters. Foreign Minister Lavrov accused the United States of no longer being
+      willing to implement its own proposals on Ukraine that were discussed during the
+      August 2025 summit in Anchorage, Alaska (between Presidents Putin and Trump).
+      Lavrov claimed Russia accepted the US proposal there, and if approached “like
+      men” (or straightforwardly), the issue should have been resolved. Instead, he
+      said Washington has backtracked, continuing policies like new sanctions, actions
+      against Russian oil tankers (e.g., seizures by US forces), and blocking Russian
+      energy exports. He also stated that after Anchorage, Russia and the US were supposed
+      to move toward broad cooperation, but the opposite occurred, with the US creating
+      “artificial barriers” and pursuing “economic dominance.” Lavrov reiterated Russia’s
+      core demands for any settlement: eliminating the “Nazi foundations” of Ukraine
+      (a reference to Russia’s longstanding “denazification” narrative), ensuring Russia’s
+      security by preventing any weapons on Ukrainian territory that could threaten
+      Russia, and effectively controlling aspects of Ukraine’s post-war military size,
+      composition, and armament. He emphasized that Russia’s security requires addressing
+      these, including in regions like Crimea, Donbas, and “Novorossiya.” Here are the
+      key paragraphs from the interview regarding the war in Ukraine: We are told that
+      the Ukrainian problem needs to be resolved. In Anchorage, we accepted the United
+      States’ proposal. If we approach it in a “masculine” way, they proposed it, and
+      we agreed, which means that the problem needs to be resolved. Russian President
+      Vladimir Putin has repeatedly stated that it does not matter to Russia what is
+      said in Ukraine or Europe, as we are well aware of the “cave-like” Russophobia
+      of most regimes in the European Union, with a few notable exceptions. The position
+      of the United States was crucial for us. By accepting their proposal, we seem
+      to have fulfilled the task of resolving the Ukrainian issue and moving on to full-scale,
+      broad, and mutually beneficial cooperation.j So far, in practice, everything looks
+      the opposite: new sanctions are being introduced, a “war” is being waged against
+      tankers on the high seas in violation of the UN Convention on the Law of the Sea
+      . India and other our partners are trying to be forbidden to buy cheap, affordable
+      Russian energy resources (Europe has long been banned) and forced to buy American
+      liquefied natural gas at exorbitant prices. That is, in the economic field, the
+      Americans have declared the task of economic domination. In addition to the fact
+      that they seem to have proposed something about Ukraine, and we were ready (now
+      they are not ready), we also do not see any “radiant” future in the economic sphere. The
+      Americans want to take over all the routes of providing all the leading countries
+      and all the continents with energy resources. On the European continent, they
+      are “looking” at the Nord Streams that were blown up three years ago, at the Ukrainian
+      gas transportation system, and at the Turkish Stream. There was some doubt among
+      some pundits in the West whether Russia had hardened its position after the December
+      28, 2025 drone attack on the official residence of Vladimir Putin in Valdai. I
+      think Lavrov’s remarks to the BRICS journalist settles that question… The Russians
+      are pissed off at Trump and his administration because Trump has not kept his
+      promises to the Russians. If Steve Witkoff and Jared Kushner make another trip
+      to Russia, they are not likely to be warmly greeted by their Russian hosts. The
+      Russian will be polite but, based on Lavrov’s remarks, they will demand substantive
+      gestures that Trump will deliver what he has promised. Unless Trump moves soon
+      to start lifting sanctions on Russia, ending the confiscation of Russian assets
+      and following through on the promises made at Anchorage regarding the war in Ukraine,
+      I believe that Vladimir Putin will conclude that further negotiations with Trump’s
+      boys is a complete waste of time. While much of the media coverage of Lavrov’s
+      remarks have focused on his clear frustration with Trump for failing to settle
+      the war with Ukraine, Lavrov provided a master class on the economic transformation
+      that is underway: We are currently witnessing a transformation on the global stage,
+      which began some time ago due to the objective transition to a multipolar world,
+      where it is no longer a bipolar world, as was the case during the Soviet Union
+      and the United States, the Warsaw Pact, and the North Atlantic Treaty Organization,
+      nor a unipolar world, as was the case after the collapse of the Soviet Union,
+      but rather a multipolar world that determines the course of humanity’s development. For
+      many years, the United States has been the driving force behind the global economy,
+      regulating global finances, and using the role of the dollar to strengthen its
+      dominant position. They are already objectively losing their economic influence
+      and their weight in the global economy. At the same time, countries such as the
+      People’s Republic of China, India, and Brazil are rising. There are interesting
+      processes taking place on the African continent, as Africans are increasingly
+      reluctant to export their natural resources and are instead building their own
+      industries, which the Soviet Union began to support. Many centers of rapid economic
+      growth, centers of power, financial and political influence have emerged. The
+      world is being reformatted. This happens in competition. The West does not want
+      to give up its once dominant position. Moreover, with the advent of the Trump
+      administration, this struggle to suppress competitors has become particularly
+      explicit and open. As a matter of fact, the administration in Washington under
+      D. Trump does not hide these ambitions. They say that they should dominate the
+      energy sector and limit their competitors. They are using completely unfair methods
+      against us. They are banning the work of Russian oil companies such as Lukoil
+      and Rosneft. They are trying to control our trade, investment cooperation, and
+      military-technical ties with Russia’s major strategic partners, such as India
+      and other BRICS members. There is a battle going on to preserve the old world
+      order, which was based on the dollar and the rules that the West created and implemented
+      in the International Monetary Fund, the World Bank, and the World Trade Organization. When
+      new centers of growth began to achieve much more significant economic development
+      and significantly higher growth rates based on these same rules (as we see in
+      the BRICS countries), the West began to look for ways to prevent this transition. However,
+      this is impossible because it is an objective process. For several years now,
+      the growth rates and GDP volumes of the BRICS countries have significantly exceeded
+      the GDP of the G7 countries combined in terms of purchasing power parity. A new
+      economic and political order is being assembled, piece-by-piece, with Russia and
+      China working as partners and leading the way. The reign of US hegemony is dead…
+      The only way America can be “Great Again” is that it must reject militarism and
+      violence and turn instead to adopting policies that are based on genuine collaboration
+      with the BRICS nations. Lavrov was not expressing his opinion in this interview…
+      He was explaining how the government of Vladimir Putin views the world. Will Trump
+      listen and comprehend the message? I doubt it. I did three podcasts today that
+      are published: 1) Judge Napolitano, 2) David Oualaaloo and 3) Kyle Anzalone… Iran
+      and Ukraine are the subjects that everyone wants to discuss: I thank you for your
+      invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: In a recent interview, Russian Foreign Minister Sergei Lavrov
+      expressed deep skepticism about future economic relations with the United States
+      and accused it of undermining progress on the Ukraine conflict, despite previous
+      agreements made during a summit between Presidents Putin and Trump.
+    paragraph_summary: In a recent interview with TV BRICS, Russian Foreign Minister
+      Sergei Lavrov expressed a bleak outlook on economic relations with the United
+      States and criticized Washington's handling of the Ukraine conflict. He claimed
+      that the U.S. has sabotaged progress on Ukraine despite President Trump's willingness
+      to negotiate, particularly following the August 2025 summit in Anchorage, where
+      Russia accepted U.S. proposals that have since been abandoned. Lavrov accused
+      the U.S. of imposing new sanctions and creating obstacles to cooperation, which
+      he believes undermines any potential resolution. He reiterated Russia's demands
+      for a settlement, including the removal of what he termed the "Nazi foundations"
+      of Ukraine, ensuring security against threats from Ukrainian weapons, and controlling
+      Ukraine's military post-war. Lavrov's remarks reflect a deepening mistrust and
+      a call for a more straightforward approach to negotiations.
+    published: '2026-02-10T03:55:39+00:00'
+  - title: Peter Hanseler in an interview with Patrik Baab
+    url: https://sonar21.com/peter-hanseler-in-an-interview-with-patrik-baab/
+    text: 'Patrik Baab interviewed Peter Hanseler in August 2025—this conversation anticipates
+      today’s situation of destroyed freedom of expression. What Baab and Hanseler predicted
+      in August 2025 is now reality. By Peter Hanseler via ForumGeopolitica.com Our
+      author Patrik Baab interviewed Peter Hänseler in August 2025 – the article appeared
+      for the first time this week on the YouTube channel “ Patrik Baab .” We would
+      like to thank Patrik for allowing us to link to the article. I could not upload
+      the video file to this site; therefore, the link to our site: https://forumgeopolitica.com/article/peter-hanseler-in-an-interview-with-patrik-baab'
+    one_sentence_summary: In an interview conducted in August 2025, Patrik Baab and
+      Peter Hanseler discussed the impending threats to freedom of expression, which
+      have since become a reality.
+    paragraph_summary: In an interview conducted by Patrik Baab with Peter Hanseler
+      in August 2025, the two discussed the concerning trajectory of freedom of expression,
+      predicting a future where such freedoms would be severely compromised. Their insights,
+      which have now become a reality, highlight the erosion of free speech and the
+      implications for society. The conversation has recently been shared on Baab's
+      YouTube channel, and the article is available on ForumGeopolitica.com, although
+      the video could not be uploaded directly to the site.
+    published: '2026-02-09T09:52:39+00:00'
+  - title: Peter Hanseler in an interview with Patrik Baab
+    url: https://sonar21.com/peter-hanseler-in-an-interview-with-patrik-baab/
+    text: 'Patrik Baab interviewed Peter Hanseler in August 2025—this conversation anticipates
+      today’s situation of destroyed freedom of expression. What Baab and Hanseler predicted
+      in August 2025 is now reality. By Peter Hanseler via ForumGeopolitica.com Our
+      author Patrik Baab interviewed Peter Hänseler in August 2025 – the article appeared
+      for the first time this week on the YouTube channel “ Patrik Baab .” We would
+      like to thank Patrik for allowing us to link to the article. I could not upload
+      the video file to this site; therefore, the link to our site: https://forumgeopolitica.com/article/peter-hanseler-in-an-interview-with-patrik-baab'
+    one_sentence_summary: In an interview conducted in August 2025, Patrik Baab and
+      Peter Hanseler discussed the impending threats to freedom of expression, which
+      have since become a reality.
+    paragraph_summary: In an interview conducted by Patrik Baab with Peter Hanseler
+      in August 2025, the two discussed the concerning trajectory of freedom of expression,
+      predicting a future where such freedoms would be severely compromised. Their insights,
+      which have now become a reality, highlight the erosion of free speech and the
+      implications for society. The conversation has recently been shared on Baab's
+      YouTube channel, and the article is available on ForumGeopolitica.com, although
+      the video could not be uploaded directly to the site.
+    published: '2026-02-09T09:52:39+00:00'
+  - title: Does Netanyahu’s Upcoming Visit With Trump Signal a US Attack on Iran?
+    url: https://sonar21.com/does-netanyahus-upcoming-visit-with-trump-signal-a-us-attack-on-iran/
+    text: 'Pressure is building on Donald Trump to attack Iran. Besides the US carrier
+      strike group that is positioned in the Arabian Sea south of Iran, the US is marshaling
+      a significant number of air assets — primarily F-35s — in the region. More worrisome
+      is that Israel’s Prime Minister, Bibi Netanyahu, moved his trip to the US up by
+      one week… He was previously scheduled to arrive on February 18 but, at his request,
+      advanced the meeting to February 11. Why the urgency? We get our first clue from
+      the Israeli press… The Zionist media is describing Netanyahu’s upcoming visit
+      to the United States as an urgent, high-stakes trip focused on Iran policy, amid
+      recent US-Iran indirect talks in Oman and ongoing regional tensions. Coverage
+      from major outlets (Times of Israel, Jerusalem Post, Haaretz, and others) as of
+      early February 8–9, 2026, highlights the following key points: Purpose: The primary
+      agenda is US-Iran negotiations, with Netanyahu aiming to press for a broader deal
+      that includes limitations on Iran’s ballistic missiles, support for proxies (e.g.,
+      Hezbollah, Houthis), and other threats beyond just the nuclear program. Israeli
+      Expectations: Reports (e.g., Times of Israel, Ynet, Jerusalem Post) indicate Netanyahu
+      wants assurances that Washington will factor in Israel’s security concerns. Some
+      sources say he may present or discuss potential Israeli attack plans if Iran crosses
+      “red lines” on missiles/nuclear issues. Israeli defense officials reportedly briefed
+      US counterparts that Iran’s missile program poses an existential threat, and Israel
+      is prepared for unilateral action if needed. Context and Urgency: The visit comes
+      shortly after US-Iran indirect talks (February 6 in Oman), which Israel views
+      skeptically. Media notes the push to expand the agenda beyond nuclear issues alone,
+      as Trump has suggested a narrower deal might suffice. Coverage frames it as Netanyahu
+      seeking to influence U.S. diplomacy to align with Israeli interests, especially
+      after recent US sanctions on Iran post-Oman talks. Last week’s meeting between
+      the US and Iran has ignited a Zionist freak out. Stephen Bryen’s latest article
+      on SubStack is illustrative — i.e., Iran and Rope-a-Dope in Oman . He writes:
+      If President Trump’s idea is to drag out talks with Iran and end up with an empty
+      bag, then his man is Witkoff. Because Witkoff is in the “negotiation” business.
+      If he can’t hold high level meetings, he has to go home. Witkoff is not a quitter.
+      . . . Rope-a-dope is the Iranian strategy. Agree to nothing other than their “peaceful”
+      intentions, and do that over weeks of “bargaining,” and then tell the Americans
+      to go home. That’s why the Iranian foreign minister, Abbas Araghchi, called the
+      talks in Oman “a good start.” Indeed they were. First off, the Iranians made it
+      clear they would not discuss anything other than the nuclear issue. There could
+      be no talks about missiles, or about internal matters (that is the protestors
+      and the regime crack down that has killed tens of thousands). Moreover, the Iranians
+      told the American delegation they would not discuss their right to enrich uranium,
+      or talk about transferring already enriched uranium out of the country. (President
+      Putin had already told Araghchi that Moscow would accept Iranian uranium if that
+      was part of any deal, though it would still belong to Iran). . . . The real tragedy
+      is not just a failure to curtail the nuclear program. It is the US decision to
+      allow talks to take place only by accepting Iran’s going-in terms. Removing major
+      issues, especially the fate of the Iranian people, is a huge mistake. It is even
+      worse than the Trump administration’s earlier declaration that the US is not seeking
+      regime change in Iran, handing the Mullahs a huge victory at zero cost. There
+      are better ways to engage with the Iranian regime than the disaster in Oman. Stephen
+      is an avowed Zionist, but he is not crazy like Smotrich or Ben-Gvir. Let me explain
+      why Mr. Bryen’s views of what took place in Oman last week is worthy of your attention.
+      Stephen is a prominent US defense expert, strategist, and senior fellow at organizations
+      like the Center for Security Policy and the Yorktown Institute. He served as Deputy
+      Undersecretary of Defense for Trade Security Policy (1981–1988) under Ronald Reagan,
+      where he founded and led the Defense Technology Security Administration (DTSA),
+      focusing on controlling technology transfers to adversaries. I know Mr. Bryen
+      and like him. He is a respected analyst and usually writes articles that focus
+      on facts rather than emotion. The piece I quoted above shows an uncharacteristic
+      outburst of emotion and anger. If someone like Stephen is reacting this way then
+      you know that the entire AIPAC crowd is up-in-arms. Donald Trump is facing unprecedented
+      and enormous pressure from his Zionist supporters to strike Iran. I don’t know
+      if the attack will take place this week or next week, but the political pressure
+      from Trump’s Jewish donors is white hot and shows no sign of abating. Trump’s
+      last meeting with Netanyahu on December 29 was a coordinating session on the attempt
+      to fuel a color revolution in Iran. That failed. I believe Bibi’s primary objective
+      is to get Trump to pull the trigger on Iran. I am re-posting my recent interview
+      with Professors Marandi and Alkorshid (aka Nima). Nima is now safely back in Brazil,
+      but his observations on the state of affairs in Iran is worthy of your attention.
+      This was his first trip to Iran in 12 years, so he is uniquely positioned to discuss
+      how Iran is changed since the JCPOA was signed in 2015. I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: Pressure is mounting on Donald Trump to confront Iran, as
+      the U.S. increases military presence in the region and Israeli Prime Minister
+      Netanyahu hastens his visit to the U.S. to discuss urgent Iran policy amid ongoing
+      tensions and negotiations.
+    paragraph_summary: Pressure is mounting on Donald Trump to take a more aggressive
+      stance towards Iran, as evidenced by the deployment of a US carrier strike group
+      and F-35s in the Arabian Sea. Israeli Prime Minister Bibi Netanyahu has expedited
+      his visit to the US from February 18 to February 11, signaling the urgency of
+      discussions surrounding Iran policy amidst ongoing indirect US-Iran negotiations.
+      Israeli media portrays this trip as critical, with Netanyahu aiming to secure
+      a broader agreement that addresses not only Iran's nuclear program but also its
+      ballistic missile capabilities and support for regional proxies like Hezbollah.
+      Israeli officials have communicated to their US counterparts that Iran's missile
+      program poses an existential threat, and there are indications that Israel is
+      prepared to take unilateral military action if necessary. The backdrop of Netanyahu's
+      visit includes skepticism towards recent US-Iran talks and a desire to ensure
+      that US diplomacy aligns with Israeli security concerns, particularly following
+      new US sanctions on Iran.
+    published: '2026-02-09T05:14:08+00:00'
+  - title: Does Netanyahu’s Upcoming Visit With Trump Signal a US Attack on Iran?
+    url: https://sonar21.com/does-netanyahus-upcoming-visit-with-trump-signal-a-us-attack-on-iran/
+    text: 'Pressure is building on Donald Trump to attack Iran. Besides the US carrier
+      strike group that is positioned in the Arabian Sea south of Iran, the US is marshaling
+      a significant number of air assets — primarily F-35s — in the region. More worrisome
+      is that Israel’s Prime Minister, Bibi Netanyahu, moved his trip to the US up by
+      one week… He was previously scheduled to arrive on February 18 but, at his request,
+      advanced the meeting to February 11. Why the urgency? We get our first clue from
+      the Israeli press… The Zionist media is describing Netanyahu’s upcoming visit
+      to the United States as an urgent, high-stakes trip focused on Iran policy, amid
+      recent US-Iran indirect talks in Oman and ongoing regional tensions. Coverage
+      from major outlets (Times of Israel, Jerusalem Post, Haaretz, and others) as of
+      early February 8–9, 2026, highlights the following key points: Purpose: The primary
+      agenda is US-Iran negotiations, with Netanyahu aiming to press for a broader deal
+      that includes limitations on Iran’s ballistic missiles, support for proxies (e.g.,
+      Hezbollah, Houthis), and other threats beyond just the nuclear program. Israeli
+      Expectations: Reports (e.g., Times of Israel, Ynet, Jerusalem Post) indicate Netanyahu
+      wants assurances that Washington will factor in Israel’s security concerns. Some
+      sources say he may present or discuss potential Israeli attack plans if Iran crosses
+      “red lines” on missiles/nuclear issues. Israeli defense officials reportedly briefed
+      US counterparts that Iran’s missile program poses an existential threat, and Israel
+      is prepared for unilateral action if needed. Context and Urgency: The visit comes
+      shortly after US-Iran indirect talks (February 6 in Oman), which Israel views
+      skeptically. Media notes the push to expand the agenda beyond nuclear issues alone,
+      as Trump has suggested a narrower deal might suffice. Coverage frames it as Netanyahu
+      seeking to influence U.S. diplomacy to align with Israeli interests, especially
+      after recent US sanctions on Iran post-Oman talks. Last week’s meeting between
+      the US and Iran has ignited a Zionist freak out. Stephen Bryen’s latest article
+      on SubStack is illustrative — i.e., Iran and Rope-a-Dope in Oman . He writes:
+      If President Trump’s idea is to drag out talks with Iran and end up with an empty
+      bag, then his man is Witkoff. Because Witkoff is in the “negotiation” business.
+      If he can’t hold high level meetings, he has to go home. Witkoff is not a quitter.
+      . . . Rope-a-dope is the Iranian strategy. Agree to nothing other than their “peaceful”
+      intentions, and do that over weeks of “bargaining,” and then tell the Americans
+      to go home. That’s why the Iranian foreign minister, Abbas Araghchi, called the
+      talks in Oman “a good start.” Indeed they were. First off, the Iranians made it
+      clear they would not discuss anything other than the nuclear issue. There could
+      be no talks about missiles, or about internal matters (that is the protestors
+      and the regime crack down that has killed tens of thousands). Moreover, the Iranians
+      told the American delegation they would not discuss their right to enrich uranium,
+      or talk about transferring already enriched uranium out of the country. (President
+      Putin had already told Araghchi that Moscow would accept Iranian uranium if that
+      was part of any deal, though it would still belong to Iran). . . . The real tragedy
+      is not just a failure to curtail the nuclear program. It is the US decision to
+      allow talks to take place only by accepting Iran’s going-in terms. Removing major
+      issues, especially the fate of the Iranian people, is a huge mistake. It is even
+      worse than the Trump administration’s earlier declaration that the US is not seeking
+      regime change in Iran, handing the Mullahs a huge victory at zero cost. There
+      are better ways to engage with the Iranian regime than the disaster in Oman. Stephen
+      is an avowed Zionist, but he is not crazy like Smotrich or Ben-Gvir. Let me explain
+      why Mr. Bryen’s views of what took place in Oman last week is worthy of your attention.
+      Stephen is a prominent US defense expert, strategist, and senior fellow at organizations
+      like the Center for Security Policy and the Yorktown Institute. He served as Deputy
+      Undersecretary of Defense for Trade Security Policy (1981–1988) under Ronald Reagan,
+      where he founded and led the Defense Technology Security Administration (DTSA),
+      focusing on controlling technology transfers to adversaries. I know Mr. Bryen
+      and like him. He is a respected analyst and usually writes articles that focus
+      on facts rather than emotion. The piece I quoted above shows an uncharacteristic
+      outburst of emotion and anger. If someone like Stephen is reacting this way then
+      you know that the entire AIPAC crowd is up-in-arms. Donald Trump is facing unprecedented
+      and enormous pressure from his Zionist supporters to strike Iran. I don’t know
+      if the attack will take place this week or next week, but the political pressure
+      from Trump’s Jewish donors is white hot and shows no sign of abating. Trump’s
+      last meeting with Netanyahu on December 29 was a coordinating session on the attempt
+      to fuel a color revolution in Iran. That failed. I believe Bibi’s primary objective
+      is to get Trump to pull the trigger on Iran. I am re-posting my recent interview
+      with Professors Marandi and Alkorshid (aka Nima). Nima is now safely back in Brazil,
+      but his observations on the state of affairs in Iran is worthy of your attention.
+      This was his first trip to Iran in 12 years, so he is uniquely positioned to discuss
+      how Iran is changed since the JCPOA was signed in 2015. I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: Pressure is mounting on Donald Trump to confront Iran, as
+      the U.S. increases military presence in the region and Israeli Prime Minister
+      Netanyahu hastens his visit to the U.S. to discuss urgent Iran policy amid ongoing
+      tensions and negotiations.
+    paragraph_summary: Pressure is mounting on Donald Trump to take a more aggressive
+      stance towards Iran, as evidenced by the deployment of a US carrier strike group
+      and F-35s in the Arabian Sea. Israeli Prime Minister Bibi Netanyahu has expedited
+      his visit to the US from February 18 to February 11, signaling the urgency of
+      discussions surrounding Iran policy amidst ongoing indirect US-Iran negotiations.
+      Israeli media portrays this trip as critical, with Netanyahu aiming to secure
+      a broader agreement that addresses not only Iran's nuclear program but also its
+      ballistic missile capabilities and support for regional proxies like Hezbollah.
+      Israeli officials have communicated to their US counterparts that Iran's missile
+      program poses an existential threat, and there are indications that Israel is
+      prepared to take unilateral military action if necessary. The backdrop of Netanyahu's
+      visit includes skepticism towards recent US-Iran talks and a desire to ensure
+      that US diplomacy aligns with Israeli security concerns, particularly following
+      new US sanctions on Iran.
+    published: '2026-02-09T05:14:08+00:00'
+  - title: Meet Steve Kroschel… An Alaskan’s Plight
+    url: https://sonar21.com/meet-steve-kroschel-an-alaskans-plight/
+    text: 'The world is upside down when an American has to flee to Russia to find freedom
+      and justice. Steve Kroschel is not the first American put in this position… Remember
+      Ed Snowden? As I write this the war clouds are forming over Iran, but I have nothing
+      new to add to that narrative beyond what I said on the Friday podcasts. I am hoping
+      that you, my readers, have the time on Sunday to read Steve’s story while sipping
+      coffee. What has happened to Steve is outrageous. This is his story: My name is
+      Steve Kroschel, a 65 year-old guy who was born and raised on a farm in Northern
+      Minnesota in a very traditional “Walton-esque” type environment. As a child, I
+      had a fascination for nature. And circumstances – and fate – always seemed to
+      present opportunities to rescue and care for orphaned and abandoned wildlife.
+      This set the stage for “show and tell” in grade school , that permutated  into
+      a major megaphone platform of live presentations with large audiences, with creatures
+      as varied as wolves, lynx, snow leopards, grizzly bear cubs and especially wolverines-
+      that eventually brought me to the National Stage, thanks to the late Jim Fowler,
+      from Mutual of Omaha’s “Wild Kingdom” fame. Jim Fowler had a regular gig with
+      live animal spots, on the “Today Show” in the 90’s ; and he would bring me on
+      for guest appearances on the NBC “Today Show” in New York, and also  “Live with
+      Kathie Lee and Regis”. I’ll never forget bringing a Wolf into the NBC studios
+      with Katie Couric that jumped up to her shoulders during a live broadcast. And
+      last but not least – a memorable highlight- a guest spot on the “Tonight Show
+      ” with Johnny Carson, on October 31st, 1991 where two tame wolverines romped on
+      the stage with Johnny with a black lab dog I had brought along. That appearance
+      triggered dozens of wildlife documentaries worldwide for PBS, the BBC and National
+      Geographic. The live animal presentations evolved , and coterminously ran with
+      40+ year career as a freelance cinematographer for dozens of Hollywood movies
+      for the major studios , as well as producing my own independent feature films
+      and documentaries. And THAT is where the trouble began I suspect, because all
+      along the way, I had the predilection to leave behind a certain political hue
+      or message in documentaries that I produced. The same could be said for adding
+      my 2 cents about suspicions of government policies while wrestling a wolverine
+      or wolf in front of a live audience On June 6th, 2001, I moved my business “North
+      to the Future” and carved out a log cabin on a forested mountain slope outside
+      Haines , Alaska. And by the autumn of 2002, despite the initial pushback by the
+      Alaska Department of Fish and Game, I opened up a wildlife park to cruise ship
+      traffic that docked in Haines and Skagway- a nearby port. It wasn’t long before
+      Princess, Holland America, and Norwegian Cruise Lines discovered this little wildlife
+      park and soon billed me as” Meet  Dr. Doolittle” onboard. I quickly became the
+      # 1 tour in Southeast Alaska with guests paying over $300 per PERSON to spend
+      an hour and one half seeing native Alaskan Mega-fauna in vast natural habitats,
+      that were tamed and accepting of humans in close and even direct contact with
+      guests. Do you want to kiss a Bull Moose ? Come to Kroschel’s Wildlife Sanctuary
+      ! National Geographic , the BBC, Discovery, Netflix, and many other Blue Chip
+      International Production teams also visited me in Alaska and also fulfilled their
+      shot list dreams. For nearly 25 YEARS it worked, but , once the engine of social
+      media revved up in the past few years, things changed with the State of Alaska’s
+      attitude regarding my live tours to tourists AND the documentaries I produced
+      , or in interviews that I would give. I was apparently glaringly not politically
+      correct with certain State of Alaska officials whether it was Big Pharma, Big
+      Ag, the Military Industrial Complex etc.. When the Ukraine Conflict began in February
+      2022, I started to voice my opinions about the complexities that the mainstream
+      media was getting all wrong. And it was at this SPECIFIC time, that the Alaska
+      Department of Fish and Game started to sanction me. And it was at THIS time, that
+      I was contacted by ALASKA MAGAZINE editor , Michelle Theal, who smelled something
+      was up as well and began to document the state’s possible shenanigans. And started
+      to design a plan to contact the New York Times and other major media. Suddenly
+      ,  Production Companies were disallowed to come to the property, tourists were
+      banned from touching  animals { i.e. Kissing a Moose or petting the arse of a
+      Wolverine } . Suddenly , the  requests for placement of orphaned moose calves,
+      wolverine kits , lynx kittens , or even abandoned baby porcupines were denied.
+      THIS , obviously was ALL literally cutting off my Lifeline ! And they {ADF&G}
+      knew it. In Alaska, there are essentially no statutes regarding my non-zoo “Zoo”.
+      The State essentially overlooked the constitution and erroneously granted broad
+      powers to the Commissioner of Fish and Game,{ currently Douglas Vincent -Lang,
+      and the Director Ryan Scott }.  According to state policy , it is at “their discretion”
+      as to whether a state permit should be issued annually. And sources within the
+      ADF&G have stated to me , on record vis a vis emails, that these two individuals
+      have some sort of vendetta going with my political beliefs. Suddenly, I went from
+      a gross income of $250-$350k to ZERO! And unlike the two other main wildlife facilities
+      in the state – the Anchorage Zoo and the Alaska Wildlife Conservation Center in
+      Girdwood , Alaska, with their non-profit status and oil company donors, { that
+      cushions them with millions of dollars in fallback revenue}, I had NOTHING! It
+      was at that time that even in my social media posts, including Facebook and Youtube,
+      that I began to hint at moving to Russia where I would {ironically} have the freedoms
+      that were now robbed from me in America. I even TOLD the Alaska Department of
+      Fish and Game this fact in recorded conversations, because in March of 2024, I
+      received a 3-Year Russian Tourist Visa , so I could visit my Russian Counterpart,
+      Kirill Potapov, who became inspired with my wildlife park and films , particularly
+      centered around taming wolverines. The Russians seem to LOVE Wolverines. How did
+      I know that ? Because a source in Russia sent me newspaper links with a photograph
+      of Potapov handling a rescued wolverine and his statements about “following in
+      my footsteps”! Thus, it was in April of 2024 that I commenced a documentary, with
+      an unknown wrap date, and an unknown distributor, and made my first trip to Moscow
+      and taking it all in. The very first thing I did when I landed at the Vnukovo
+      International Airport in Moscow, was to take a taxi to the Crocus City Hall site,
+      that was the scene of a Terrorist attack, and to lay a dozen roses at the makeshift
+      memorial nearby. I went from there to Red Square shooting B-Roll for my documentary
+      ,  and stayed nearby at the historic Metropol Hotel. Within a mere 24 hours ,
+      I made more friends in Moscow, starting with staff at the Metropol itself,  than
+      if I stayed at some swanky Hotel in Anchorage in a month! And then, I took a flight
+      to Yekaterinburg, a good 1,500 kilometers southwest of Moscow, where I met Kirill
+      Potapov, who was eager to show me his  “Alpha Rescue Center” that includes a pack
+      of Siberian Wolves, and an assortment of other Russian birds and animals including
+      a female wolverine named “Gugusha” . Mr. Potapov grew up in Yekaterinburg, and
+      has a master’s degree in Municipal Management and Government. His connections
+      in the Russian Federation are far- reaching . All the way to the Kremlin. His
+      social media reach is in the millions on all major platforms including Instagram,
+      Telegram, Facebook, and is highly respected in the business community. UNLIKE,
+      the State of Alaska, the Russian Federation and business community is very eager
+      to help establish Mr. Potapov’s vision and is active in assistance in any way
+      possible including rescuing orphaned animals and birds to acquiring contracts,
+      and investors. The Alaska Department of Fish and Game was dismayed that I took
+      that Russian Trip. And once I landed off a commuter plane in Haines, Alaska. I
+      was handed a certified letter at the airport, from the USDA for renewal of my
+      FEDERAL License that including a relicensing inspection that was supposed to occur
+      in the summer of 2024. It never did. The conversations with the USDA vis a vis
+      emails that I copied the ADF&G on, clearly began to show a collusion between the
+      USDA inspector by the name of Dr. Ann Goplen, and the ADF&G Commissioner Douglas
+      Vincent -Lang and his Director Ryan Scott. Ultimately, I managed to conduct tours
+      all the way up until August 5th, 2024 , telling tourists about my Russian Friends
+      all through the summer and signalling to guests that the ADF&G wanted to “shut
+      me down” because of these connections. Everything came to a screeching halt after
+      August 5th, 2024. Everything stopped. The money spigot turned off. Forever. I
+      contacted the ADF&G by email, asking for answers. The director Ryan Scott called
+      me on August 9th, 2024. I recorded the conversation with portions posted on social
+      media. He stated that the Department wanted me to “Call it Good” { Quit.} He went
+      on to explain how they wanted me to cooperate with them in placing all my animals
+      including a 17 year -old Grizzly Bear named “Kitty” , my Bull Moose named “Duck
+      Moses” and even my 17 year-old tame wolverine named “Jasper”.  I cried into the
+      phone. Mr. Scott explained to “take time to digest this” .. and I told him :..
+      “maybe I should just move to Russia”. There was an awkward long pause on the line
+      after that statement. Mr. Scott then went on to state that my state permit was
+      “suspended” using the pretext that now that my USDA License had expired , he had
+      not choice . But I refused to give up ; and contacted Senator Lisa Murkowski’s
+      office for assistance that evolved into an explanation from her office that I
+      could still “reapply” and request the appropriate USDA inspections which could
+      number more than 3 “tries” before then end of 2024. The first USDA inspection
+      occurred on the morning of August 27th, 2024. I was met at the front gate of my
+      wildlife park by not only my inspector , Dr. Ann Goplen , but an Alaskan State
+      Trooper by the name of Colin Nemec, two officials from the Alaska Department of
+      Fish and Game and yet ANOTHER USDA inspector, along with a man who appeared to
+      be security backup! This entire entourage conducted themselves in a creepy, apathetic
+      manner that screamed to me of being agenda-driven. Dr. Goplen spent 7 hours trying
+      to find “something” to deny granting me  a USDA License. In the end, she scribbled
+      down six or seven pedantic items including a “dirty knife” on the counter, and
+      “frost leaking out of a freezer lid” in one corner.  I told her I could fix all
+      this in 15 minutes. She agreed to come back the next day to re-inspect. The group
+      never did. Instead, I asked for the 2nd and 3rd final inspection and this entire
+      same group reappeared in late September with the same pre-determined plan and
+      result: DENIAL !! So egregious , so obvious, was this collusion between the state
+      and USDA officials, that I demanded a FEDERAL HEARING , challenging Dr. Goplen’s
+      shadowy behavior and reasons for denial of my Class C Exhibitor’s License. That
+      Federal Hearing occurred on January 17th, 2025 with seasoned Judge Jill S. Clifton
+      presiding . I appeared , pro se, via ZOOM from my log cabin in Alaska for the
+      6 hour hearing. The USDA’s APHIS { Animal Plant Health Inspection Service} branch,
+      had attorneys and witnesses all lined up. But after  6 hours , Judge Clifton was
+      clearly annoyed by the USDA, based on her observation of this whole affair, including
+      testimony by Dr. Ann Goplen , and ruled from the Bench at the conclusion of the
+      day. The verdict ? I won. My License was reinstated. It should be mentioned that
+      Michelle Theal, the Editor of ALASKA Magazine, was an observer of this Federal
+      Hearing, in her own continuing efforts of investigative journalism. Now that my
+      USDA license was reinstated, would I receive my state permit to operate ? Keep
+      in mind, I have over 60 animals to take care of , and without an income since
+      August 5th, 2024, I was under a designed “blockade’ that had an intended purpose.
+      It would seem obvious : STARVE ME OUT ! I survived by eating tree bark , my animals
+      were sustained by the support of the town and especially one man in particular.
+      My only steady source of significant support was an elderly businessman in Haines,
+      named Dave Olerud, who was quadriplegic, but supported my efforts to continue
+      to battle the state.{ Ultimately, he loaned me over a quarter million dollars
+      without interest.} The resultant verdict by the Federal Government unsurprisingly
+      had no effect on the premeditated intentions of Commissioner Douglas Vincent Lang
+      and Director Ryan Scott of the ADF&G. Now they stated I needed to “reapply” for
+      a state permit and provided me with a three page form to fill out in late February
+      , 2025.  I filled it out immediately . It was denied. By March, 2025, I filed
+      a restraining order to prevent the state from raiding my park . Meanwhile, I was
+      keeping my Russian Counterpart, Kirill Potapov and others posted on the unfolding
+      drama . I then filed another “application” for a state permit, this time over
+      ONE HUNDRED PAGES  , and this time with the help of a Alaska Department of Fish
+      and Game employee by the name of Shellene Hutter,  who risked her job to help
+      me because she saw first -hand the interoffice politics regarding my situation
+      and how the Commissioner literally mocked me behind the scenes . She recounted
+      how they found my attempts to counter their plans “entertaining”. Ms. Hutter stated
+      that if I dropped the restraining order, that they would issue me my state permit
+      and the blockade would end ! And so I did. And on May 5th, 2025, I received a
+      call early in the morning by Dr. Ann Goplen. She was back ! For an unannounced
+      routine inspection with an army of officials . This time with another inspector
+      named Dr. Katie Frank. There were a half dozen government contractors accompanying
+      her but who was suspiciously missing this time, was the Alaska State Trooper Nemec,
+      and the ADF&G officials. I recorded 90% of this fake inspection this time for
+      my docuentary, and several clips are posted on Youtube and Facebook. Goplen’s
+      intentions were clear, and when she noticed my iphone was shut off, she said I
+      had made her life “a living hell” after I had my license restituted. This cadre
+      of officials returned the following morning of May 6th, with their six page inspection
+      report citing a myriad of “non-compliances”. I called them out on camera : “Fake
+      Report !” . Coincidentally, my OWN veterinarian, Dr. Kathleen Doty , ALSO showed
+      up on May 5th, and spent several hours inspecting my facility and gave me an unequivocal
+      report of positivity regarding the facility and the health of all the animals.
+      She waited until the USDA had left for the day before her arrival. The USDA sent
+      their intended condemnation of my wildlife park to the ADF&G’s Commissioner Lang.
+      Meanwhile, in emails, the state continued the charade of pretending they were
+      still “considering” granting my application. Right up until a mere week for the
+      Raid on my facility on the morning of June 26th, 2025. They came unannounced.
+      First a helicopter landed at a local ballfield and several officials jumped out.
+      Then multiple Trooper trucks arrived . Then more trucks, with one pulling a modified
+      horse trailer for transporting Wood Bison. I was down the road at the time of
+      their arrival at another location, and as my assistant drove towards my gate ,
+      we saw the lineup of Trooper trucks and a line of cross-armed troopers standing
+      on guard, at my gate. I recorded the drive-by. Then, I ditched my iphone in the
+      woods, and approached the group asking to retrieve a film camera  in my log cabin
+      at the center of the property. The trooper denied my request. I asked for proof
+      of a search warrant and he said he would leave it in my mailbox at the conclusion
+      of the RAID. He stated I am under a criminal investigation and requested a phone
+      number when the raid was over. That was it. When I returned on June 28th, with
+      a retired police officer named Rodney Hinson from Haines, along with Dave Olerud
+      {the quadriplegic that supported the park during this crisis} and his wife , Charlotte,
+      we all turned on our iphone cameras at the gate and walked the driveway and animal
+      habitats to see the “devastation”. Garbage everywhere, overturned barricades,
+      fences ripped open, doors pried off, and…. animals running around in the woods
+      ! And others left behind in certain places that they missed ! In the days that
+      followed, I desperately tried to find the locations of my missing Grizzly, Moose,
+      Wolves, Lynx, and famous Wolverine – “Jasper”. I flew to Anchorage to the zoo.
+      There I discovered my bear with her head rammed in between bars in a tiny prison.
+      Zoo officials said nothing. Gave me the cold shoulder. I left Anchorage with nothing
+      but my eyes to cry with. The state reported one of my wolves- “Meluna”  died during
+      the raid. They also “euthanized ” a red fox and a snowy owl. When I returned back
+      to my cabin, I rescued an injured fox lost in the woods . Several animals remained
+      missing. Now, with no money, no hope, I contacted Kirill Potapov in Russia on
+      Facebook Face Time. He said I must come to Russia immediately. My assistant ,
+      a retired Stete Trooper himself, Patrick McMullin, volunteered to care for the
+      remaining animals. I left Alaska on July 5th, 2025 and arrived  in Moscow on July
+      8th, 2025 and then on to Yekaterinburg a couple days later where Mr. Potopav met
+      me at the airport. In July, I immediately rolled up my sleeves and helped him
+      raise two orphaned Grizzly Bear cubs named “Cody” and “Harley”. And also two wolf
+      pups along with other animals. New soon spread that the “Amerikinski” is back!
+      The “Wolverine Man” from Alaska. Stolnik Magazine ,  high end monthly publication
+      in Yekaterinburg, wrote a piece about yours truly for the September 2025 complete
+      with a large photo spread. The title of the article ? “A Hero of Our Time” …..
+      The editors heard the entire story, my humanitarian work with animals, the health
+      related documentaries I produced that are seen all over the world with titles
+      such as “The Beautiful Truth” , “The Grounded” , among others. Government officials
+      are closely connected with Mr. Potapov’s facility, including representatives from
+      the Kremlin, the FSB and Special Forces members. One particular woman, named “Anna”
+      , who loves animals , especially the wolves, became my liaison , between the Kremlin
+      and Yours truly. On September 19th, 2025, the State of Alaska revealed criminal
+      charges against me : 3 counts of Animal Cruelty , with a five years in prison
+      per count plus $50K in fines per count, as two misdemeanors for animal neglect.
+      The Kremlin was alerted to my situation through Anna and many others, and Maria
+      Butina , State Duma Deputy has taken a special interest in my case. A number of
+      lawyers were assigned. They want to protect me. They do not want me to return
+      to Alaska under these conditions. I tried to follow the Court procedures in Alaska,
+      and attended the arraignment hearing telephonically, on October 8th, 2025. This
+      was followed by being assigned a public defender since I have no money. The public
+      defender assigned to me did not want to help me . Then I was reassigned another
+      public defender who was even worse ! This is what you get when one can’t afford
+      a $250K criminal defense attorney out of Anchorage! The Trial was set for January
+      12th, 2026 in Haines, Alaska. In the final pre-trail hearing with Judge Amy Mead
+      in early December, I vowed to return before the second pre-trial hearing on December
+      22nd, 2025. My Russian friends all pitched in to help me raise the money for one
+      way tickets back to America . They were all non-refundable tickets on Aeroflot
+      in Russia to Turkish Airlines from Moscow to Istanbul to Seattle. I was to leave
+      on the morning of December 16th, 2025 from Yekaterinburg. But on the evening of
+      December 15th, mere HOURS before I was to go to the airport, Anna, contacted Mr.
+      Potapov and requested an emergency meeting. We met at a local restaurant where
+      officials in Moscow appeared virtually at the table. The message was clear : “Do
+      NOT GO BACK – it’s a TRAP”. Do they know more than I think I know ? Looking back 
+      , yes. The trip was cancelled. On December 17th, I was part of a Q and A for a
+      Russian Feature Film called “Aldan”, at a Russian Military Academy in Yekaterinburg,
+      and one of the producers, Danila Kolukov, in front of the media , presented me
+      with a gifted signed copy of Maria Butina’s book ” Prison Diary” . It reads :
+      “To Steve , From Maria ” December 15th, 2025″ I arrived here on a Tourist Visa
+      with a 184 day stay. That expired in early January. That means nothing now. The
+      Kremlin’s lawyers are fast tracking an Edward Snowden type Residency Permit and
+      eventual Passport under the classification of “Poltical Asylum”. Meanwhile, I
+      am now considered a Fugitive in Alaska with a warrant out for my arrest. Now ,
+      Netflix producers want to transmogrify this entire saga into a mini-series. Thank
+      God I started documenting this whole odyssey when I did three years ago. No one
+      would have believed it. Addendum : Since Kroschel’s park was raided on June 26th
+      and 27th, 2025 , the Court determined during his arraignment that he is unequivocally
+      indigent, and qualified for a Public Defender. However, the Public Defender assigned
+      to Kroschel , Bridgett Lynn, decided to leave the Institutional Hub located in
+      Juneau, Alaska prior to the original Trial Date of January 12th, 2026.  The Public
+      Defender’s Office, managed by Nico Ambrose  , provided a second attorney by the
+      name of Eric Hedland to Kroschel’s case in early November. However, the attorney
+      failed to correspond with Kroschel’s  emails and  text messages from Russia that
+      ultimately precipitated , upon Kroschel’s request, a Status Hearing on January
+      22nd, 2026 in which Kroschel argued to Superior Court Judge Amy Mead, to represent
+      himself. The motion was granted. But the Case is now at a standstill due to Kroschel
+      remaining in Russia, under Fugitive status. Perpetually. Kroschel , a veteran
+      filmmaker, remains confident that he can argue his case directly with State Prosecutor
+      Matthew Kaste using social media posts in a quasi “Video Diary ” style in which
+      he feels he can wear down the State to the point that pursuing this case is not
+      in the best interests of the State of Alaska. I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: Steve Kroschel, a 65-year-old American wildlife advocate from
+      Minnesota, finds himself seeking freedom and justice in Russia, echoing the plight
+      of figures like Ed Snowden, as he shares his extraordinary life story.
+    paragraph_summary: Steve Kroschel's story highlights the troubling reality of an
+      American seeking refuge in Russia for freedom and justice, drawing parallels to
+      Ed Snowden's situation. Kroschel, a 65-year-old wildlife enthusiast from Northern
+      Minnesota, has dedicated his life to rescuing and caring for orphaned animals,
+      which led to a successful career in wildlife presentations and cinematography.
+      His notable appearances on major television shows, including the "Today Show"
+      and "The Tonight Show" with Johnny Carson, helped him gain national recognition
+      and contributed to numerous wildlife documentaries. As tensions rise globally,
+      Kroschel's narrative serves as a poignant reminder of the complexities surrounding
+      freedom and justice in today's world.
+    published: '2026-02-08T04:06:22+00:00'
+  - title: Meet Steve Kroschel… An Alaskan’s Plight
+    url: https://sonar21.com/meet-steve-kroschel-an-alaskans-plight/
+    text: 'The world is upside down when an American has to flee to Russia to find freedom
+      and justice. Steve Kroschel is not the first American put in this position… Remember
+      Ed Snowden? As I write this the war clouds are forming over Iran, but I have nothing
+      new to add to that narrative beyond what I said on the Friday podcasts. I am hoping
+      that you, my readers, have the time on Sunday to read Steve’s story while sipping
+      coffee. What has happened to Steve is outrageous. This is his story: My name is
+      Steve Kroschel, a 65 year-old guy who was born and raised on a farm in Northern
+      Minnesota in a very traditional “Walton-esque” type environment. As a child, I
+      had a fascination for nature. And circumstances – and fate – always seemed to
+      present opportunities to rescue and care for orphaned and abandoned wildlife.
+      This set the stage for “show and tell” in grade school , that permutated  into
+      a major megaphone platform of live presentations with large audiences, with creatures
+      as varied as wolves, lynx, snow leopards, grizzly bear cubs and especially wolverines-
+      that eventually brought me to the National Stage, thanks to the late Jim Fowler,
+      from Mutual of Omaha’s “Wild Kingdom” fame. Jim Fowler had a regular gig with
+      live animal spots, on the “Today Show” in the 90’s ; and he would bring me on
+      for guest appearances on the NBC “Today Show” in New York, and also  “Live with
+      Kathie Lee and Regis”. I’ll never forget bringing a Wolf into the NBC studios
+      with Katie Couric that jumped up to her shoulders during a live broadcast. And
+      last but not least – a memorable highlight- a guest spot on the “Tonight Show
+      ” with Johnny Carson, on October 31st, 1991 where two tame wolverines romped on
+      the stage with Johnny with a black lab dog I had brought along. That appearance
+      triggered dozens of wildlife documentaries worldwide for PBS, the BBC and National
+      Geographic. The live animal presentations evolved , and coterminously ran with
+      40+ year career as a freelance cinematographer for dozens of Hollywood movies
+      for the major studios , as well as producing my own independent feature films
+      and documentaries. And THAT is where the trouble began I suspect, because all
+      along the way, I had the predilection to leave behind a certain political hue
+      or message in documentaries that I produced. The same could be said for adding
+      my 2 cents about suspicions of government policies while wrestling a wolverine
+      or wolf in front of a live audience On June 6th, 2001, I moved my business “North
+      to the Future” and carved out a log cabin on a forested mountain slope outside
+      Haines , Alaska. And by the autumn of 2002, despite the initial pushback by the
+      Alaska Department of Fish and Game, I opened up a wildlife park to cruise ship
+      traffic that docked in Haines and Skagway- a nearby port. It wasn’t long before
+      Princess, Holland America, and Norwegian Cruise Lines discovered this little wildlife
+      park and soon billed me as” Meet  Dr. Doolittle” onboard. I quickly became the
+      # 1 tour in Southeast Alaska with guests paying over $300 per PERSON to spend
+      an hour and one half seeing native Alaskan Mega-fauna in vast natural habitats,
+      that were tamed and accepting of humans in close and even direct contact with
+      guests. Do you want to kiss a Bull Moose ? Come to Kroschel’s Wildlife Sanctuary
+      ! National Geographic , the BBC, Discovery, Netflix, and many other Blue Chip
+      International Production teams also visited me in Alaska and also fulfilled their
+      shot list dreams. For nearly 25 YEARS it worked, but , once the engine of social
+      media revved up in the past few years, things changed with the State of Alaska’s
+      attitude regarding my live tours to tourists AND the documentaries I produced
+      , or in interviews that I would give. I was apparently glaringly not politically
+      correct with certain State of Alaska officials whether it was Big Pharma, Big
+      Ag, the Military Industrial Complex etc.. When the Ukraine Conflict began in February
+      2022, I started to voice my opinions about the complexities that the mainstream
+      media was getting all wrong. And it was at this SPECIFIC time, that the Alaska
+      Department of Fish and Game started to sanction me. And it was at THIS time, that
+      I was contacted by ALASKA MAGAZINE editor , Michelle Theal, who smelled something
+      was up as well and began to document the state’s possible shenanigans. And started
+      to design a plan to contact the New York Times and other major media. Suddenly
+      ,  Production Companies were disallowed to come to the property, tourists were
+      banned from touching  animals { i.e. Kissing a Moose or petting the arse of a
+      Wolverine } . Suddenly , the  requests for placement of orphaned moose calves,
+      wolverine kits , lynx kittens , or even abandoned baby porcupines were denied.
+      THIS , obviously was ALL literally cutting off my Lifeline ! And they {ADF&G}
+      knew it. In Alaska, there are essentially no statutes regarding my non-zoo “Zoo”.
+      The State essentially overlooked the constitution and erroneously granted broad
+      powers to the Commissioner of Fish and Game,{ currently Douglas Vincent -Lang,
+      and the Director Ryan Scott }.  According to state policy , it is at “their discretion”
+      as to whether a state permit should be issued annually. And sources within the
+      ADF&G have stated to me , on record vis a vis emails, that these two individuals
+      have some sort of vendetta going with my political beliefs. Suddenly, I went from
+      a gross income of $250-$350k to ZERO! And unlike the two other main wildlife facilities
+      in the state – the Anchorage Zoo and the Alaska Wildlife Conservation Center in
+      Girdwood , Alaska, with their non-profit status and oil company donors, { that
+      cushions them with millions of dollars in fallback revenue}, I had NOTHING! It
+      was at that time that even in my social media posts, including Facebook and Youtube,
+      that I began to hint at moving to Russia where I would {ironically} have the freedoms
+      that were now robbed from me in America. I even TOLD the Alaska Department of
+      Fish and Game this fact in recorded conversations, because in March of 2024, I
+      received a 3-Year Russian Tourist Visa , so I could visit my Russian Counterpart,
+      Kirill Potapov, who became inspired with my wildlife park and films , particularly
+      centered around taming wolverines. The Russians seem to LOVE Wolverines. How did
+      I know that ? Because a source in Russia sent me newspaper links with a photograph
+      of Potapov handling a rescued wolverine and his statements about “following in
+      my footsteps”! Thus, it was in April of 2024 that I commenced a documentary, with
+      an unknown wrap date, and an unknown distributor, and made my first trip to Moscow
+      and taking it all in. The very first thing I did when I landed at the Vnukovo
+      International Airport in Moscow, was to take a taxi to the Crocus City Hall site,
+      that was the scene of a Terrorist attack, and to lay a dozen roses at the makeshift
+      memorial nearby. I went from there to Red Square shooting B-Roll for my documentary
+      ,  and stayed nearby at the historic Metropol Hotel. Within a mere 24 hours ,
+      I made more friends in Moscow, starting with staff at the Metropol itself,  than
+      if I stayed at some swanky Hotel in Anchorage in a month! And then, I took a flight
+      to Yekaterinburg, a good 1,500 kilometers southwest of Moscow, where I met Kirill
+      Potapov, who was eager to show me his  “Alpha Rescue Center” that includes a pack
+      of Siberian Wolves, and an assortment of other Russian birds and animals including
+      a female wolverine named “Gugusha” . Mr. Potapov grew up in Yekaterinburg, and
+      has a master’s degree in Municipal Management and Government. His connections
+      in the Russian Federation are far- reaching . All the way to the Kremlin. His
+      social media reach is in the millions on all major platforms including Instagram,
+      Telegram, Facebook, and is highly respected in the business community. UNLIKE,
+      the State of Alaska, the Russian Federation and business community is very eager
+      to help establish Mr. Potapov’s vision and is active in assistance in any way
+      possible including rescuing orphaned animals and birds to acquiring contracts,
+      and investors. The Alaska Department of Fish and Game was dismayed that I took
+      that Russian Trip. And once I landed off a commuter plane in Haines, Alaska. I
+      was handed a certified letter at the airport, from the USDA for renewal of my
+      FEDERAL License that including a relicensing inspection that was supposed to occur
+      in the summer of 2024. It never did. The conversations with the USDA vis a vis
+      emails that I copied the ADF&G on, clearly began to show a collusion between the
+      USDA inspector by the name of Dr. Ann Goplen, and the ADF&G Commissioner Douglas
+      Vincent -Lang and his Director Ryan Scott. Ultimately, I managed to conduct tours
+      all the way up until August 5th, 2024 , telling tourists about my Russian Friends
+      all through the summer and signalling to guests that the ADF&G wanted to “shut
+      me down” because of these connections. Everything came to a screeching halt after
+      August 5th, 2024. Everything stopped. The money spigot turned off. Forever. I
+      contacted the ADF&G by email, asking for answers. The director Ryan Scott called
+      me on August 9th, 2024. I recorded the conversation with portions posted on social
+      media. He stated that the Department wanted me to “Call it Good” { Quit.} He went
+      on to explain how they wanted me to cooperate with them in placing all my animals
+      including a 17 year -old Grizzly Bear named “Kitty” , my Bull Moose named “Duck
+      Moses” and even my 17 year-old tame wolverine named “Jasper”.  I cried into the
+      phone. Mr. Scott explained to “take time to digest this” .. and I told him :..
+      “maybe I should just move to Russia”. There was an awkward long pause on the line
+      after that statement. Mr. Scott then went on to state that my state permit was
+      “suspended” using the pretext that now that my USDA License had expired , he had
+      not choice . But I refused to give up ; and contacted Senator Lisa Murkowski’s
+      office for assistance that evolved into an explanation from her office that I
+      could still “reapply” and request the appropriate USDA inspections which could
+      number more than 3 “tries” before then end of 2024. The first USDA inspection
+      occurred on the morning of August 27th, 2024. I was met at the front gate of my
+      wildlife park by not only my inspector , Dr. Ann Goplen , but an Alaskan State
+      Trooper by the name of Colin Nemec, two officials from the Alaska Department of
+      Fish and Game and yet ANOTHER USDA inspector, along with a man who appeared to
+      be security backup! This entire entourage conducted themselves in a creepy, apathetic
+      manner that screamed to me of being agenda-driven. Dr. Goplen spent 7 hours trying
+      to find “something” to deny granting me  a USDA License. In the end, she scribbled
+      down six or seven pedantic items including a “dirty knife” on the counter, and
+      “frost leaking out of a freezer lid” in one corner.  I told her I could fix all
+      this in 15 minutes. She agreed to come back the next day to re-inspect. The group
+      never did. Instead, I asked for the 2nd and 3rd final inspection and this entire
+      same group reappeared in late September with the same pre-determined plan and
+      result: DENIAL !! So egregious , so obvious, was this collusion between the state
+      and USDA officials, that I demanded a FEDERAL HEARING , challenging Dr. Goplen’s
+      shadowy behavior and reasons for denial of my Class C Exhibitor’s License. That
+      Federal Hearing occurred on January 17th, 2025 with seasoned Judge Jill S. Clifton
+      presiding . I appeared , pro se, via ZOOM from my log cabin in Alaska for the
+      6 hour hearing. The USDA’s APHIS { Animal Plant Health Inspection Service} branch,
+      had attorneys and witnesses all lined up. But after  6 hours , Judge Clifton was
+      clearly annoyed by the USDA, based on her observation of this whole affair, including
+      testimony by Dr. Ann Goplen , and ruled from the Bench at the conclusion of the
+      day. The verdict ? I won. My License was reinstated. It should be mentioned that
+      Michelle Theal, the Editor of ALASKA Magazine, was an observer of this Federal
+      Hearing, in her own continuing efforts of investigative journalism. Now that my
+      USDA license was reinstated, would I receive my state permit to operate ? Keep
+      in mind, I have over 60 animals to take care of , and without an income since
+      August 5th, 2024, I was under a designed “blockade’ that had an intended purpose.
+      It would seem obvious : STARVE ME OUT ! I survived by eating tree bark , my animals
+      were sustained by the support of the town and especially one man in particular.
+      My only steady source of significant support was an elderly businessman in Haines,
+      named Dave Olerud, who was quadriplegic, but supported my efforts to continue
+      to battle the state.{ Ultimately, he loaned me over a quarter million dollars
+      without interest.} The resultant verdict by the Federal Government unsurprisingly
+      had no effect on the premeditated intentions of Commissioner Douglas Vincent Lang
+      and Director Ryan Scott of the ADF&G. Now they stated I needed to “reapply” for
+      a state permit and provided me with a three page form to fill out in late February
+      , 2025.  I filled it out immediately . It was denied. By March, 2025, I filed
+      a restraining order to prevent the state from raiding my park . Meanwhile, I was
+      keeping my Russian Counterpart, Kirill Potapov and others posted on the unfolding
+      drama . I then filed another “application” for a state permit, this time over
+      ONE HUNDRED PAGES  , and this time with the help of a Alaska Department of Fish
+      and Game employee by the name of Shellene Hutter,  who risked her job to help
+      me because she saw first -hand the interoffice politics regarding my situation
+      and how the Commissioner literally mocked me behind the scenes . She recounted
+      how they found my attempts to counter their plans “entertaining”. Ms. Hutter stated
+      that if I dropped the restraining order, that they would issue me my state permit
+      and the blockade would end ! And so I did. And on May 5th, 2025, I received a
+      call early in the morning by Dr. Ann Goplen. She was back ! For an unannounced
+      routine inspection with an army of officials . This time with another inspector
+      named Dr. Katie Frank. There were a half dozen government contractors accompanying
+      her but who was suspiciously missing this time, was the Alaska State Trooper Nemec,
+      and the ADF&G officials. I recorded 90% of this fake inspection this time for
+      my docuentary, and several clips are posted on Youtube and Facebook. Goplen’s
+      intentions were clear, and when she noticed my iphone was shut off, she said I
+      had made her life “a living hell” after I had my license restituted. This cadre
+      of officials returned the following morning of May 6th, with their six page inspection
+      report citing a myriad of “non-compliances”. I called them out on camera : “Fake
+      Report !” . Coincidentally, my OWN veterinarian, Dr. Kathleen Doty , ALSO showed
+      up on May 5th, and spent several hours inspecting my facility and gave me an unequivocal
+      report of positivity regarding the facility and the health of all the animals.
+      She waited until the USDA had left for the day before her arrival. The USDA sent
+      their intended condemnation of my wildlife park to the ADF&G’s Commissioner Lang.
+      Meanwhile, in emails, the state continued the charade of pretending they were
+      still “considering” granting my application. Right up until a mere week for the
+      Raid on my facility on the morning of June 26th, 2025. They came unannounced.
+      First a helicopter landed at a local ballfield and several officials jumped out.
+      Then multiple Trooper trucks arrived . Then more trucks, with one pulling a modified
+      horse trailer for transporting Wood Bison. I was down the road at the time of
+      their arrival at another location, and as my assistant drove towards my gate ,
+      we saw the lineup of Trooper trucks and a line of cross-armed troopers standing
+      on guard, at my gate. I recorded the drive-by. Then, I ditched my iphone in the
+      woods, and approached the group asking to retrieve a film camera  in my log cabin
+      at the center of the property. The trooper denied my request. I asked for proof
+      of a search warrant and he said he would leave it in my mailbox at the conclusion
+      of the RAID. He stated I am under a criminal investigation and requested a phone
+      number when the raid was over. That was it. When I returned on June 28th, with
+      a retired police officer named Rodney Hinson from Haines, along with Dave Olerud
+      {the quadriplegic that supported the park during this crisis} and his wife , Charlotte,
+      we all turned on our iphone cameras at the gate and walked the driveway and animal
+      habitats to see the “devastation”. Garbage everywhere, overturned barricades,
+      fences ripped open, doors pried off, and…. animals running around in the woods
+      ! And others left behind in certain places that they missed ! In the days that
+      followed, I desperately tried to find the locations of my missing Grizzly, Moose,
+      Wolves, Lynx, and famous Wolverine – “Jasper”. I flew to Anchorage to the zoo.
+      There I discovered my bear with her head rammed in between bars in a tiny prison.
+      Zoo officials said nothing. Gave me the cold shoulder. I left Anchorage with nothing
+      but my eyes to cry with. The state reported one of my wolves- “Meluna”  died during
+      the raid. They also “euthanized ” a red fox and a snowy owl. When I returned back
+      to my cabin, I rescued an injured fox lost in the woods . Several animals remained
+      missing. Now, with no money, no hope, I contacted Kirill Potapov in Russia on
+      Facebook Face Time. He said I must come to Russia immediately. My assistant ,
+      a retired Stete Trooper himself, Patrick McMullin, volunteered to care for the
+      remaining animals. I left Alaska on July 5th, 2025 and arrived  in Moscow on July
+      8th, 2025 and then on to Yekaterinburg a couple days later where Mr. Potopav met
+      me at the airport. In July, I immediately rolled up my sleeves and helped him
+      raise two orphaned Grizzly Bear cubs named “Cody” and “Harley”. And also two wolf
+      pups along with other animals. New soon spread that the “Amerikinski” is back!
+      The “Wolverine Man” from Alaska. Stolnik Magazine ,  high end monthly publication
+      in Yekaterinburg, wrote a piece about yours truly for the September 2025 complete
+      with a large photo spread. The title of the article ? “A Hero of Our Time” …..
+      The editors heard the entire story, my humanitarian work with animals, the health
+      related documentaries I produced that are seen all over the world with titles
+      such as “The Beautiful Truth” , “The Grounded” , among others. Government officials
+      are closely connected with Mr. Potapov’s facility, including representatives from
+      the Kremlin, the FSB and Special Forces members. One particular woman, named “Anna”
+      , who loves animals , especially the wolves, became my liaison , between the Kremlin
+      and Yours truly. On September 19th, 2025, the State of Alaska revealed criminal
+      charges against me : 3 counts of Animal Cruelty , with a five years in prison
+      per count plus $50K in fines per count, as two misdemeanors for animal neglect.
+      The Kremlin was alerted to my situation through Anna and many others, and Maria
+      Butina , State Duma Deputy has taken a special interest in my case. A number of
+      lawyers were assigned. They want to protect me. They do not want me to return
+      to Alaska under these conditions. I tried to follow the Court procedures in Alaska,
+      and attended the arraignment hearing telephonically, on October 8th, 2025. This
+      was followed by being assigned a public defender since I have no money. The public
+      defender assigned to me did not want to help me . Then I was reassigned another
+      public defender who was even worse ! This is what you get when one can’t afford
+      a $250K criminal defense attorney out of Anchorage! The Trial was set for January
+      12th, 2026 in Haines, Alaska. In the final pre-trail hearing with Judge Amy Mead
+      in early December, I vowed to return before the second pre-trial hearing on December
+      22nd, 2025. My Russian friends all pitched in to help me raise the money for one
+      way tickets back to America . They were all non-refundable tickets on Aeroflot
+      in Russia to Turkish Airlines from Moscow to Istanbul to Seattle. I was to leave
+      on the morning of December 16th, 2025 from Yekaterinburg. But on the evening of
+      December 15th, mere HOURS before I was to go to the airport, Anna, contacted Mr.
+      Potapov and requested an emergency meeting. We met at a local restaurant where
+      officials in Moscow appeared virtually at the table. The message was clear : “Do
+      NOT GO BACK – it’s a TRAP”. Do they know more than I think I know ? Looking back 
+      , yes. The trip was cancelled. On December 17th, I was part of a Q and A for a
+      Russian Feature Film called “Aldan”, at a Russian Military Academy in Yekaterinburg,
+      and one of the producers, Danila Kolukov, in front of the media , presented me
+      with a gifted signed copy of Maria Butina’s book ” Prison Diary” . It reads :
+      “To Steve , From Maria ” December 15th, 2025″ I arrived here on a Tourist Visa
+      with a 184 day stay. That expired in early January. That means nothing now. The
+      Kremlin’s lawyers are fast tracking an Edward Snowden type Residency Permit and
+      eventual Passport under the classification of “Poltical Asylum”. Meanwhile, I
+      am now considered a Fugitive in Alaska with a warrant out for my arrest. Now ,
+      Netflix producers want to transmogrify this entire saga into a mini-series. Thank
+      God I started documenting this whole odyssey when I did three years ago. No one
+      would have believed it. Addendum : Since Kroschel’s park was raided on June 26th
+      and 27th, 2025 , the Court determined during his arraignment that he is unequivocally
+      indigent, and qualified for a Public Defender. However, the Public Defender assigned
+      to Kroschel , Bridgett Lynn, decided to leave the Institutional Hub located in
+      Juneau, Alaska prior to the original Trial Date of January 12th, 2026.  The Public
+      Defender’s Office, managed by Nico Ambrose  , provided a second attorney by the
+      name of Eric Hedland to Kroschel’s case in early November. However, the attorney
+      failed to correspond with Kroschel’s  emails and  text messages from Russia that
+      ultimately precipitated , upon Kroschel’s request, a Status Hearing on January
+      22nd, 2026 in which Kroschel argued to Superior Court Judge Amy Mead, to represent
+      himself. The motion was granted. But the Case is now at a standstill due to Kroschel
+      remaining in Russia, under Fugitive status. Perpetually. Kroschel , a veteran
+      filmmaker, remains confident that he can argue his case directly with State Prosecutor
+      Matthew Kaste using social media posts in a quasi “Video Diary ” style in which
+      he feels he can wear down the State to the point that pursuing this case is not
+      in the best interests of the State of Alaska. I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: Steve Kroschel, a 65-year-old American wildlife advocate from
+      Minnesota, finds himself seeking freedom and justice in Russia, echoing the plight
+      of figures like Ed Snowden, as he shares his extraordinary life story.
+    paragraph_summary: Steve Kroschel's story highlights the troubling reality of an
+      American seeking refuge in Russia for freedom and justice, drawing parallels to
+      Ed Snowden's situation. Kroschel, a 65-year-old wildlife enthusiast from Northern
+      Minnesota, has dedicated his life to rescuing and caring for orphaned animals,
+      which led to a successful career in wildlife presentations and cinematography.
+      His notable appearances on major television shows, including the "Today Show"
+      and "The Tonight Show" with Johnny Carson, helped him gain national recognition
+      and contributed to numerous wildlife documentaries. As tensions rise globally,
+      Kroschel's narrative serves as a poignant reminder of the complexities surrounding
+      freedom and justice in today's world.
+    published: '2026-02-08T04:06:22+00:00'
+  - title: Mixed Signals On Iran / US Talks… Russians are Furious Following New Terrorist
+      Attack in Moscow
+    url: https://sonar21.com/mixed-signals-on-iran-us-talks-russians-are-furious-following-new-terrorist-attack-in-moscow/
+    text: 'Iranian Foreign Minister Aragchi and Oman’s Foreign Minister Hamad Al Busaidi
+      The US-Iran talks held in Oman on Friday, February 6, 2026 (not February 7, as
+      some early scheduling references suggested) were indirect negotiations mediated
+      by Oman’s Foreign Minister Badr bin Hamad Al Busaidi in Muscat. These were the
+      first high-level discussions since the US and Israeli strikes on Iranian nuclear
+      facilities in June 2025, amid heightened tensions sparked by US carrier deployments
+      in the Arabian Sea, new anti-Iran tariffs by the US and Donald Trump’s threats
+      to attack Iran. US and Iranian delegations met separately with the Omani mediator,
+      who facilitated exchanges. No direct face-to-face meetings occurred, although
+      here was a brief direct contact between Araqchi and the American delegation in
+      the ‘reception room’, where the two sides exchanged greetings and shook hands.
+      Araqchi initially refused to allow the US CENTCOM commander to attend negotiations
+      but, following a request from the Oman mediator, Aragchi agreed to let him attend
+      but refused to shake his hand. The discussions were exclusively nuclear, per Iran’s
+      insistence (centered on Tehran’s nuclear program, uranium enrichment, and potential
+      sanctions relief). Iran rejected US demands to broaden the agenda to include ballistic
+      missiles, support for proxies (e.g., Houthis, Hezbollah), human rights, or regional
+      activities. Both the Iranians and the US struck a positive tone after the conclusion
+      of the first meeting. Iran’s Araghchi called it a “good beginning” with an “understanding
+      on continuing the talks.” He said coordination on next steps would be decided
+      in capitals, signaling this round ended “for now” but progress on a framework
+      is possible. President Trump also described the talks as “very good” and “positive,”
+      saying more work is needed and delegations would meet again early next week (potentially
+      virtual or in another location). During a press gaggle on Air Force One, Trump
+      said the following: Reporter: With Iran, is there a deal that only covers nuclear
+      that would be acceptable to you? Trump: That would be acceptable. But the one
+      thing, and right up front, no nuclear weapons. If we could have made that deal
+      two years ago, we would have made that deal. But they weren’t willing to do that.
+      Now they are willing to do it. They’re willing to do much more than they would
+      have a year and a half ago. Within hours of the meeting in Oman, President Trump
+      signed an executive order that would allow the United States to impose 25% tariffs
+      on any country doing business with Iran—after a violation is recorded and confirmed.
+      Trump appears to be following the strategy he outlined in his book, The Art of
+      the Deal : Trump portrays negotiation as personal, combative, and theatrical:
+      start with extreme demands (anchoring high), use leverage and bravado to dominate,
+      wear down resistance, and walk away if needed. He views it as a morality play
+      of winning/losing, with loyalty to allies but zero mercy for opponents. The Art
+      of the Deal centers on aiming very high, relentlessly pushing, and using power
+      and publicity to create leverage, treating deals as largely winner‑take‑all contests,
+      which pretty well summarizes the current state of negotiations. I hope that is
+      what we are seeing unfold. Meanwhile, back in Moscow, the Russian government reacted
+      with contained fury as it blamed Ukraine for the attempted assassination of Lieutenant
+      General Vladimir Alekseyev (deputy head of the GRU military intelligence agency),
+      who was shot multiple times in an apartment building in northwestern Moscow on
+      February 6, 2026. Alekseyev was hospitalized (condition reported as critical or
+      serious in some accounts), and a criminal investigation was launched by the Investigative
+      Committee for attempted murder and illegal firearms trafficking. Foreign Minister
+      Sergey Lavrov, in televised comments and at a press conference, described the
+      shooting as a “ terrorist act ” orchestrated by Ukraine’s leadership… He specifically
+      accused President Volodymyr Zelenskyy. He claimed it was a deliberate provocation
+      to “ disrupt the negotiation process ” on ending the Ukraine war, sabotage peace
+      talks, and influence Western backers amid ongoing diplomacy (e.g., recent Abu
+      Dhabi rounds and broader US-Russia/Iran-related discussions). Lavrov said such
+      acts confirm Kyiv’s unreadiness for substantive talks. Kremlin Spokesman Dmitry
+      Peskov confirmed that President Vladimir Putin was briefed on the incident. He
+      stated: “ It is clear that such military leaders and high-level specialists are
+      at risk during wartime. Peskov added that ensuring their safety is a matter for
+      the special services (not the Kremlin directly), wished the general survival and
+      recovery, and noted the special services are “ doing their job .” I won’t be surprised
+      if Russia decides that Zelensky — whose persistent opposition to a diplomatic
+      settlement shows no signs of weakening — must be eliminated. I thank you for your
+      invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: The US-Iran talks in Oman on February 6, 2026, marked the
+      first high-level discussions since the June 2025 strikes on Iranian nuclear facilities,
+      involving indirect negotiations mediated by Oman’s Foreign Minister amid escalating
+      tensions between the US and Iran.
+    paragraph_summary: On February 6, 2026, indirect negotiations between the US and
+      Iran took place in Muscat, Oman, mediated by Omani Foreign Minister Badr bin Hamad
+      Al Busaidi. These discussions marked the first high-level talks since US and Israeli
+      strikes on Iranian nuclear facilities in June 2025, amid escalating tensions due
+      to US military deployments and new sanctions. While no direct meetings occurred,
+      there was a brief exchange between Iranian Foreign Minister Aragchi and the US
+      delegation. The talks focused solely on Iran's nuclear program, as Iran rejected
+      US requests to expand the agenda to include issues like ballistic missiles and
+      regional activities. Both sides expressed a positive outlook on the discussions,
+      with Aragchi calling it a "good beginning" and President Trump describing the
+      talks as "very good," indicating that further meetings would be scheduled soon.
+    published: '2026-02-07T05:00:55+00:00'
+  - title: Mixed Signals On Iran / US Talks… Russians are Furious Following New Terrorist
+      Attack in Moscow
+    url: https://sonar21.com/mixed-signals-on-iran-us-talks-russians-are-furious-following-new-terrorist-attack-in-moscow/
+    text: 'Iranian Foreign Minister Aragchi and Oman’s Foreign Minister Hamad Al Busaidi
+      The US-Iran talks held in Oman on Friday, February 6, 2026 (not February 7, as
+      some early scheduling references suggested) were indirect negotiations mediated
+      by Oman’s Foreign Minister Badr bin Hamad Al Busaidi in Muscat. These were the
+      first high-level discussions since the US and Israeli strikes on Iranian nuclear
+      facilities in June 2025, amid heightened tensions sparked by US carrier deployments
+      in the Arabian Sea, new anti-Iran tariffs by the US and Donald Trump’s threats
+      to attack Iran. US and Iranian delegations met separately with the Omani mediator,
+      who facilitated exchanges. No direct face-to-face meetings occurred, although
+      here was a brief direct contact between Araqchi and the American delegation in
+      the ‘reception room’, where the two sides exchanged greetings and shook hands.
+      Araqchi initially refused to allow the US CENTCOM commander to attend negotiations
+      but, following a request from the Oman mediator, Aragchi agreed to let him attend
+      but refused to shake his hand. The discussions were exclusively nuclear, per Iran’s
+      insistence (centered on Tehran’s nuclear program, uranium enrichment, and potential
+      sanctions relief). Iran rejected US demands to broaden the agenda to include ballistic
+      missiles, support for proxies (e.g., Houthis, Hezbollah), human rights, or regional
+      activities. Both the Iranians and the US struck a positive tone after the conclusion
+      of the first meeting. Iran’s Araghchi called it a “good beginning” with an “understanding
+      on continuing the talks.” He said coordination on next steps would be decided
+      in capitals, signaling this round ended “for now” but progress on a framework
+      is possible. President Trump also described the talks as “very good” and “positive,”
+      saying more work is needed and delegations would meet again early next week (potentially
+      virtual or in another location). During a press gaggle on Air Force One, Trump
+      said the following: Reporter: With Iran, is there a deal that only covers nuclear
+      that would be acceptable to you? Trump: That would be acceptable. But the one
+      thing, and right up front, no nuclear weapons. If we could have made that deal
+      two years ago, we would have made that deal. But they weren’t willing to do that.
+      Now they are willing to do it. They’re willing to do much more than they would
+      have a year and a half ago. Within hours of the meeting in Oman, President Trump
+      signed an executive order that would allow the United States to impose 25% tariffs
+      on any country doing business with Iran—after a violation is recorded and confirmed.
+      Trump appears to be following the strategy he outlined in his book, The Art of
+      the Deal : Trump portrays negotiation as personal, combative, and theatrical:
+      start with extreme demands (anchoring high), use leverage and bravado to dominate,
+      wear down resistance, and walk away if needed. He views it as a morality play
+      of winning/losing, with loyalty to allies but zero mercy for opponents. The Art
+      of the Deal centers on aiming very high, relentlessly pushing, and using power
+      and publicity to create leverage, treating deals as largely winner‑take‑all contests,
+      which pretty well summarizes the current state of negotiations. I hope that is
+      what we are seeing unfold. Meanwhile, back in Moscow, the Russian government reacted
+      with contained fury as it blamed Ukraine for the attempted assassination of Lieutenant
+      General Vladimir Alekseyev (deputy head of the GRU military intelligence agency),
+      who was shot multiple times in an apartment building in northwestern Moscow on
+      February 6, 2026. Alekseyev was hospitalized (condition reported as critical or
+      serious in some accounts), and a criminal investigation was launched by the Investigative
+      Committee for attempted murder and illegal firearms trafficking. Foreign Minister
+      Sergey Lavrov, in televised comments and at a press conference, described the
+      shooting as a “ terrorist act ” orchestrated by Ukraine’s leadership… He specifically
+      accused President Volodymyr Zelenskyy. He claimed it was a deliberate provocation
+      to “ disrupt the negotiation process ” on ending the Ukraine war, sabotage peace
+      talks, and influence Western backers amid ongoing diplomacy (e.g., recent Abu
+      Dhabi rounds and broader US-Russia/Iran-related discussions). Lavrov said such
+      acts confirm Kyiv’s unreadiness for substantive talks. Kremlin Spokesman Dmitry
+      Peskov confirmed that President Vladimir Putin was briefed on the incident. He
+      stated: “ It is clear that such military leaders and high-level specialists are
+      at risk during wartime. Peskov added that ensuring their safety is a matter for
+      the special services (not the Kremlin directly), wished the general survival and
+      recovery, and noted the special services are “ doing their job .” I won’t be surprised
+      if Russia decides that Zelensky — whose persistent opposition to a diplomatic
+      settlement shows no signs of weakening — must be eliminated. I thank you for your
+      invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: The US-Iran talks in Oman on February 6, 2026, marked the
+      first high-level discussions since the June 2025 strikes on Iranian nuclear facilities,
+      involving indirect negotiations mediated by Oman’s Foreign Minister amid escalating
+      tensions between the US and Iran.
+    paragraph_summary: On February 6, 2026, indirect negotiations between the US and
+      Iran took place in Muscat, Oman, mediated by Omani Foreign Minister Badr bin Hamad
+      Al Busaidi. These discussions marked the first high-level talks since US and Israeli
+      strikes on Iranian nuclear facilities in June 2025, amid escalating tensions due
+      to US military deployments and new sanctions. While no direct meetings occurred,
+      there was a brief exchange between Iranian Foreign Minister Aragchi and the US
+      delegation. The talks focused solely on Iran's nuclear program, as Iran rejected
+      US requests to expand the agenda to include issues like ballistic missiles and
+      regional activities. Both sides expressed a positive outlook on the discussions,
+      with Aragchi calling it a "good beginning" and President Trump describing the
+      talks as "very good," indicating that further meetings would be scheduled soon.
+    published: '2026-02-07T05:00:55+00:00'
+  - title: Russia and China Are Committed to Trying to Maintain Global Order
+    url: https://sonar21.com/russia-and-china-are-committed-to-trying-to-maintain-global-order/
+    text: 'Before Vladimir Putin spoke with Donald Trump on February 4, President Putin
+      did a teleconference with President Xi of China. Why? Because Putin wanted to
+      let Xi know exactly what he planned to discuss in his subsequent conversation
+      later that day with Trump. This is how two allies cooperate and coordinate. I
+      think the biggest takeaway from their conversation is that they see their partnership
+      as an essential power center in trying to keep the world from blowing up. So let’s
+      take a look at the Russian and Chinese readouts from their conversation. Yury
+      Ushakov , Russian Presidential Aide for Foreign Policy, provided the Russian readout
+      and commentary following the February 4, 2026, video conference between President
+      Vladimir Putin and Chinese President Xi Jinping. The conversation lasted 1 hour
+      and 25 minutes , with Ushakov characterizing it as taking place in a “genuinely
+      friendly,” “frank,” and “trusting” atmosphere.  This is their sixth early-year
+      high-level chat… A tradition that began in 2021. Key Points from Ushakov’s Readout
+      (Kremlin Official Summary) Bilateral Ties : The leaders reaffirmed the comprehensive
+      partnership and strategic cooperation between Russia and China as being at an
+      unprecedented level , based on equality, mutual benefit, and not directed against
+      third parties or influenced by short-term politics. Economic/Trade Cooperation
+      : Emphasis on continuing to develop commercial and economic ties, including in
+      the energy sector . Trade and energy cooperation were highlighted as key areas
+      for further growth. Global Situation : The international environment was described
+      as “increasingly turbulent” since the start of the year. Both sides stressed the
+      need to deepen strategic coordination to ensure relations develop steadily and
+      maintain strategic stability . Coordination on Key Issues : Putin and Xi agreed
+      to keep permanent bilateral consultation mechanisms active across channels (security
+      councils, foreign ministries, defense agencies) to complement their personal communication.
+      They noted close or coinciding positions on major issues, including relations
+      with the United States (e.g., assessments of Trump’s initiatives like the Gaza
+      “Board of Peace” plan). Regional/Global Crises : Special attention was given to
+      the tense situation in Iran (amid U.S.-Iran talks and regional tensions). They
+      exchanged views on other major strategic issues and global challenges. Future
+      Plans : Xi invited Putin to visit China in the first half of 2026 , and Putin
+      accepted. Putin will also attend the Asia-Pacific Economic Cooperation (APEC)
+      summit or related events in China later in the year. Overall Tone : Ushakov emphasized
+      the call as substantive and a “good tradition,” confirming fundamental priorities
+      for the coming period. Moscow and Beijing “support each other on key issues concerning
+      national interests in the face of external challenges,” positioning their alliance
+      as a “powerful, constructive, and stabilizing factor” globally. China’s official
+      readout of the February 4, 2026, virtual meeting (videoconference) was released
+      by the Chinese Foreign Ministry and Xinhua News Agency. The statement is positive
+      and emphasizes deepening ties amid global challenges. Summary of China’s Readout
+      (Key Excerpts and Points) Timing and Setting : On the afternoon of February 4,
+      2026, President Xi Jinping held a virtual meeting with President Vladimir Putin
+      at the Great Hall of the People in Beijing. Greetings and Auspicious Context :
+      Xi extended sincere Spring Festival greetings to Putin and the Russian people.
+      He noted that February 4 is the Beginning of Spring (Lichun, one of the 24 solar
+      terms in the Chinese lunar calendar), symbolizing the return of spring and a new
+      beginning. Xi expressed readiness to work with Putin on this “auspicious day”
+      to draw a new blueprint for China-Russia relations. Bilateral Relations : Xi emphasized
+      that China-Russia relations are at an unprecedented high level , characterized
+      by mutual respect, equality, mutual benefit, and strategic coordination. He called
+      for continued high-level exchanges and strengthened pragmatic cooperation in various
+      fields. Global Situation : Xi highlighted that the international situation has
+      become increasingly turbulent since the beginning of the year. As responsible
+      major countries and permanent members of the UN Security Council, China and Russia
+      have the obligation to uphold fairness and justice, safeguard the outcomes of
+      World War II, defend the UN-centered international system, and maintain basic
+      norms of international law. Strategic Stability and Cooperation : The two leaders
+      agreed to deepen strategic coordination, maintain global strategic stability,
+      and work together to address major international issues. They stressed joint efforts
+      to promote multipolarity, fairness in global governance, and resistance to external
+      interference. Future Plans : Xi invited Putin to visit China in the first half
+      of 2026, and Putin accepted. They also discussed coordination on upcoming events
+      and bilateral mechanisms. Overall Tone : The readout portrays the meeting as substantive,
+      friendly, and forward-looking, with both sides committing to steady development
+      of ties as a stabilizing force amid turbulence. There are still US national security
+      officials and think tank pundits who believe that the relationship between Russia
+      and China is just a superficial charade and that Russia will ultimately come to
+      its senses, reject China and align itself with the West. This conversation, coupled
+      with the concrete measures that Putin and Xi have taken since their meeting in
+      Moscow in early 2023, should disabuse those Western foreign policy experts of
+      their delusional dream. We can see from both readouts that both leaders are fully
+      committed to strategic coordination, maintaining global strategic stability and
+      working in concert to address major international issues. One of those is Iran.
+      While not explicitly stated, I am sure that the upcoming joint-naval military
+      exercise with Iran was thoroughly discussed, including how both should respond
+      in the event of a US attack on Iran. They also discussed Cuba, which is currently
+      being targeted by Trump. Presidents Vladimir Putin and Xi Jinping also coordinated
+      their approaches on the situation in Cuba (along with Venezuela and Iran). Kremlin
+      aide Yury Ushakov stated that Putin and Xi spoke in favor of preserving the level
+      of cooperation reached with Havana (and Caracas), despite U.S. pressures and unilateral
+      actions. Russia also emphasized solidarity with Cuba, including pledges to maintain
+      assistance for sovereignty and independence, and has supplied oil/energy support
+      in recent months. Together, Russia and China are flexing their military and economic
+      power in order to end the US obsession with trying to rule the world. But they
+      are doing more than just talk about doing this, they are working in tandem to
+      consolidate their status as the new midwives charged with birthing a new world
+      political and economic order… One that can no longer be held hostage to either
+      the United States nor the Davos crowd. Garland Nixon and I discuss Iran and Ukraine
+      today: I thank you for your invaluable support by taking time to read or comment.
+      I do not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: Before his conversation with Donald Trump, Vladimir Putin
+      held a teleconference with Chinese President Xi Jinping to coordinate their discussions,
+      highlighting the strong partnership between Russia and China as a crucial power
+      center for global stability.
+    paragraph_summary: On February 4, 2026, President Vladimir Putin of Russia held
+      a teleconference with President Xi Jinping of China before his conversation with
+      Donald Trump, highlighting the cooperative relationship between the two nations.
+      The discussion, characterized as friendly and trusting, lasted 1 hour and 25 minutes
+      and marked their sixth high-level meeting since 2021. Key points from the Russian
+      readout included a reaffirmation of their comprehensive partnership, a commitment
+      to enhancing economic and trade cooperation—especially in the energy sector—and
+      a mutual recognition of the increasingly turbulent global situation. Both leaders
+      emphasized the importance of strategic coordination and agreed to maintain active
+      bilateral consultation mechanisms across various governmental channels to ensure
+      stability and steady development of their relations.
+    published: '2026-02-06T04:55:53+00:00'
+  - title: Russia and China Are Committed to Trying to Maintain Global Order
+    url: https://sonar21.com/russia-and-china-are-committed-to-trying-to-maintain-global-order/
+    text: 'Before Vladimir Putin spoke with Donald Trump on February 4, President Putin
+      did a teleconference with President Xi of China. Why? Because Putin wanted to
+      let Xi know exactly what he planned to discuss in his subsequent conversation
+      later that day with Trump. This is how two allies cooperate and coordinate. I
+      think the biggest takeaway from their conversation is that they see their partnership
+      as an essential power center in trying to keep the world from blowing up. So let’s
+      take a look at the Russian and Chinese readouts from their conversation. Yury
+      Ushakov , Russian Presidential Aide for Foreign Policy, provided the Russian readout
+      and commentary following the February 4, 2026, video conference between President
+      Vladimir Putin and Chinese President Xi Jinping. The conversation lasted 1 hour
+      and 25 minutes , with Ushakov characterizing it as taking place in a “genuinely
+      friendly,” “frank,” and “trusting” atmosphere.  This is their sixth early-year
+      high-level chat… A tradition that began in 2021. Key Points from Ushakov’s Readout
+      (Kremlin Official Summary) Bilateral Ties : The leaders reaffirmed the comprehensive
+      partnership and strategic cooperation between Russia and China as being at an
+      unprecedented level , based on equality, mutual benefit, and not directed against
+      third parties or influenced by short-term politics. Economic/Trade Cooperation
+      : Emphasis on continuing to develop commercial and economic ties, including in
+      the energy sector . Trade and energy cooperation were highlighted as key areas
+      for further growth. Global Situation : The international environment was described
+      as “increasingly turbulent” since the start of the year. Both sides stressed the
+      need to deepen strategic coordination to ensure relations develop steadily and
+      maintain strategic stability . Coordination on Key Issues : Putin and Xi agreed
+      to keep permanent bilateral consultation mechanisms active across channels (security
+      councils, foreign ministries, defense agencies) to complement their personal communication.
+      They noted close or coinciding positions on major issues, including relations
+      with the United States (e.g., assessments of Trump’s initiatives like the Gaza
+      “Board of Peace” plan). Regional/Global Crises : Special attention was given to
+      the tense situation in Iran (amid U.S.-Iran talks and regional tensions). They
+      exchanged views on other major strategic issues and global challenges. Future
+      Plans : Xi invited Putin to visit China in the first half of 2026 , and Putin
+      accepted. Putin will also attend the Asia-Pacific Economic Cooperation (APEC)
+      summit or related events in China later in the year. Overall Tone : Ushakov emphasized
+      the call as substantive and a “good tradition,” confirming fundamental priorities
+      for the coming period. Moscow and Beijing “support each other on key issues concerning
+      national interests in the face of external challenges,” positioning their alliance
+      as a “powerful, constructive, and stabilizing factor” globally. China’s official
+      readout of the February 4, 2026, virtual meeting (videoconference) was released
+      by the Chinese Foreign Ministry and Xinhua News Agency. The statement is positive
+      and emphasizes deepening ties amid global challenges. Summary of China’s Readout
+      (Key Excerpts and Points) Timing and Setting : On the afternoon of February 4,
+      2026, President Xi Jinping held a virtual meeting with President Vladimir Putin
+      at the Great Hall of the People in Beijing. Greetings and Auspicious Context :
+      Xi extended sincere Spring Festival greetings to Putin and the Russian people.
+      He noted that February 4 is the Beginning of Spring (Lichun, one of the 24 solar
+      terms in the Chinese lunar calendar), symbolizing the return of spring and a new
+      beginning. Xi expressed readiness to work with Putin on this “auspicious day”
+      to draw a new blueprint for China-Russia relations. Bilateral Relations : Xi emphasized
+      that China-Russia relations are at an unprecedented high level , characterized
+      by mutual respect, equality, mutual benefit, and strategic coordination. He called
+      for continued high-level exchanges and strengthened pragmatic cooperation in various
+      fields. Global Situation : Xi highlighted that the international situation has
+      become increasingly turbulent since the beginning of the year. As responsible
+      major countries and permanent members of the UN Security Council, China and Russia
+      have the obligation to uphold fairness and justice, safeguard the outcomes of
+      World War II, defend the UN-centered international system, and maintain basic
+      norms of international law. Strategic Stability and Cooperation : The two leaders
+      agreed to deepen strategic coordination, maintain global strategic stability,
+      and work together to address major international issues. They stressed joint efforts
+      to promote multipolarity, fairness in global governance, and resistance to external
+      interference. Future Plans : Xi invited Putin to visit China in the first half
+      of 2026, and Putin accepted. They also discussed coordination on upcoming events
+      and bilateral mechanisms. Overall Tone : The readout portrays the meeting as substantive,
+      friendly, and forward-looking, with both sides committing to steady development
+      of ties as a stabilizing force amid turbulence. There are still US national security
+      officials and think tank pundits who believe that the relationship between Russia
+      and China is just a superficial charade and that Russia will ultimately come to
+      its senses, reject China and align itself with the West. This conversation, coupled
+      with the concrete measures that Putin and Xi have taken since their meeting in
+      Moscow in early 2023, should disabuse those Western foreign policy experts of
+      their delusional dream. We can see from both readouts that both leaders are fully
+      committed to strategic coordination, maintaining global strategic stability and
+      working in concert to address major international issues. One of those is Iran.
+      While not explicitly stated, I am sure that the upcoming joint-naval military
+      exercise with Iran was thoroughly discussed, including how both should respond
+      in the event of a US attack on Iran. They also discussed Cuba, which is currently
+      being targeted by Trump. Presidents Vladimir Putin and Xi Jinping also coordinated
+      their approaches on the situation in Cuba (along with Venezuela and Iran). Kremlin
+      aide Yury Ushakov stated that Putin and Xi spoke in favor of preserving the level
+      of cooperation reached with Havana (and Caracas), despite U.S. pressures and unilateral
+      actions. Russia also emphasized solidarity with Cuba, including pledges to maintain
+      assistance for sovereignty and independence, and has supplied oil/energy support
+      in recent months. Together, Russia and China are flexing their military and economic
+      power in order to end the US obsession with trying to rule the world. But they
+      are doing more than just talk about doing this, they are working in tandem to
+      consolidate their status as the new midwives charged with birthing a new world
+      political and economic order… One that can no longer be held hostage to either
+      the United States nor the Davos crowd. Garland Nixon and I discuss Iran and Ukraine
+      today: I thank you for your invaluable support by taking time to read or comment.
+      I do not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: Before his conversation with Donald Trump, Vladimir Putin
+      held a teleconference with Chinese President Xi Jinping to coordinate their discussions,
+      highlighting the strong partnership between Russia and China as a crucial power
+      center for global stability.
+    paragraph_summary: On February 4, 2026, President Vladimir Putin of Russia held
+      a teleconference with President Xi Jinping of China before his conversation with
+      Donald Trump, highlighting the cooperative relationship between the two nations.
+      The discussion, characterized as friendly and trusting, lasted 1 hour and 25 minutes
+      and marked their sixth high-level meeting since 2021. Key points from the Russian
+      readout included a reaffirmation of their comprehensive partnership, a commitment
+      to enhancing economic and trade cooperation—especially in the energy sector—and
+      a mutual recognition of the increasingly turbulent global situation. Both leaders
+      emphasized the importance of strategic coordination and agreed to maintain active
+      bilateral consultation mechanisms across various governmental channels to ensure
+      stability and steady development of their relations.
+    published: '2026-02-06T04:55:53+00:00'
+  - title: Iran Adamantly Rejects US Attempt to Control Upcoming Negotiations Over Iran’s
+      Nuclear Program
+    url: https://sonar21.com/iran-adamantly-rejects-us-attempt-to-control-upcoming-negotiations-over-irans-nuclear-program/
+    text: 'What a day!! Lots of negotiation and non-negotiation action on the Iranian
+      front. In the span of two hours, starting at 1 pm and ending around 3 pm eastern
+      time, the world was whipped sawed with news that the bilateral negotiations between
+      Iran and the US  was cancelled — that was the 1 pm news — and then, at 3 pm, the
+      talks were back on. The initial reports that the meeting in Oman would not take
+      place cited Iran’s reaction to a US demand that Iranian ballistic missiles and
+      Iran’s support for groups like Hamas and Hezbollah must be on the agenda or there
+      would be no negotiations. Without a moments hesitation, Iran barked back and said,
+      “Ok, no meeting.” Axios reported that US officials were surprised by Iran’s reaction
+      and scrambled to come up with a response to Iran. Within two hours, the US retreated
+      and accepte Iran’s position that the Friday meeting in Oman would only address
+      nuclear bombs and uranium enrichment. Iran won this first round. While all of
+      this was taking place, Pentagon officials announced that the US carrier strike
+      force had shot down an Iranian drone that was flying towards the USS Abraham Lincoln
+      again… No word about the make and model. Three days ago, Iran successfully overflew
+      the USS Abraham Lincoln and showed the video footage on Iran’s Press TV. I think
+      Pete Hegseth and his team of sycophants were embarrassed by that episode and decided
+      to retaliate with force. And if that was not enough, Iran dispatched a bevy of
+      small boats to harass what the press described as a US tanker navigating the Strait
+      of Hormuz. I think Iran was simply trying to remind the US that it is serious
+      about taking action against the US military and economic presence in the Persian
+      Gulf if the US acts on its threat to attack Iran. Danny Davis, Doug MacGregor
+      and I have heard active duty military officers in recent days insist that any
+      Iranian attacks would be easily repulsed by US forces in the region. We all think
+      that those officers do not understand the full capabilities of the Iranian navy
+      and air force to overwhelm US defenses with a combination of drone and missile
+      swarms if the US carries out an attack on targets inside Iran. King Solomon, writing
+      in Proverbs, accurately described this attitude… Pride goes before destruction,
+      and a haughty spirit before a fall . If the US is going to attack Iran it will
+      want to launch in the next two weeks because Russian and Chinese warships are
+      headed to the area to participate in the annual Iran-Russia-China joint-naval
+      military exercise. Iran, Russia, and China are scheduled to hold their joint naval
+      military exercise, known as Maritime Security Belt 2026 (the eighth edition of
+      the series), in the northern Indian Ocean (including areas near the Gulf of Oman
+      and Arabian Sea) in late February 2026. Iranian Navy Commander Rear Admiral Shahram
+      Irani announced on January 31, 2026, that the exercise will involve units from
+      Iran’s regular navy (Nedaja), the Islamic Revolutionary Guard Corps (IRGC) Navy,
+      and naval forces from China and Russia. A very busy podcast day… Danny Davis and
+      I discussed the Russian position on territorial negotiations with Ukraine and
+      the US. Next up is my conversation with Alexander Babakov — the number two legislator
+      in the Duma — about Russia’s view of the root causes of the war with Ukraine.
+      I also had the pleasure of chatting with the beautiful and talented Rachel Blevins…
+      the hardest working woman in Austin, Texas. I closed out the day with Ed DeMarche,
+      who posts on Gerald Celente’s Trends Journal : I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: In a dramatic turn of events, bilateral negotiations between
+      Iran and the US were initially canceled due to disagreements over agenda items
+      but were quickly reinstated after the US conceded to Iran's demand to focus solely
+      on nuclear issues, marking a significant victory for Iran.
+    paragraph_summary: In a dramatic turn of events, negotiations between the US and
+      Iran experienced a rapid back-and-forth on the afternoon of a recent day, initially
+      being canceled due to Iran's refusal to discuss ballistic missiles and support
+      for groups like Hamas and Hezbollah, but then quickly resuming when the US conceded
+      to focus solely on nuclear issues. This exchange highlighted Iran's assertiveness,
+      as they promptly rejected the US's demands and indicated they would not participate
+      in talks under those conditions. Concurrently, tensions escalated in the Persian
+      Gulf, where the US military shot down an Iranian drone approaching the USS Abraham
+      Lincoln, following a previous incident where an Iranian drone successfully captured
+      footage of the carrier. Iran also sent small boats to harass a US tanker, signaling
+      their readiness to confront US military presence in the region. This situation
+      has raised concerns among military analysts about the potential for conflict,
+      with some US military officers expressing confidence in their ability to repel
+      Iranian attacks, though others caution that they may underestimate Iran's capabilities.
+    published: '2026-02-05T05:25:51+00:00'
+  - title: Iran Adamantly Rejects US Attempt to Control Upcoming Negotiations Over Iran’s
+      Nuclear Program
+    url: https://sonar21.com/iran-adamantly-rejects-us-attempt-to-control-upcoming-negotiations-over-irans-nuclear-program/
+    text: 'What a day!! Lots of negotiation and non-negotiation action on the Iranian
+      front. In the span of two hours, starting at 1 pm and ending around 3 pm eastern
+      time, the world was whipped sawed with news that the bilateral negotiations between
+      Iran and the US  was cancelled — that was the 1 pm news — and then, at 3 pm, the
+      talks were back on. The initial reports that the meeting in Oman would not take
+      place cited Iran’s reaction to a US demand that Iranian ballistic missiles and
+      Iran’s support for groups like Hamas and Hezbollah must be on the agenda or there
+      would be no negotiations. Without a moments hesitation, Iran barked back and said,
+      “Ok, no meeting.” Axios reported that US officials were surprised by Iran’s reaction
+      and scrambled to come up with a response to Iran. Within two hours, the US retreated
+      and accepte Iran’s position that the Friday meeting in Oman would only address
+      nuclear bombs and uranium enrichment. Iran won this first round. While all of
+      this was taking place, Pentagon officials announced that the US carrier strike
+      force had shot down an Iranian drone that was flying towards the USS Abraham Lincoln
+      again… No word about the make and model. Three days ago, Iran successfully overflew
+      the USS Abraham Lincoln and showed the video footage on Iran’s Press TV. I think
+      Pete Hegseth and his team of sycophants were embarrassed by that episode and decided
+      to retaliate with force. And if that was not enough, Iran dispatched a bevy of
+      small boats to harass what the press described as a US tanker navigating the Strait
+      of Hormuz. I think Iran was simply trying to remind the US that it is serious
+      about taking action against the US military and economic presence in the Persian
+      Gulf if the US acts on its threat to attack Iran. Danny Davis, Doug MacGregor
+      and I have heard active duty military officers in recent days insist that any
+      Iranian attacks would be easily repulsed by US forces in the region. We all think
+      that those officers do not understand the full capabilities of the Iranian navy
+      and air force to overwhelm US defenses with a combination of drone and missile
+      swarms if the US carries out an attack on targets inside Iran. King Solomon, writing
+      in Proverbs, accurately described this attitude… Pride goes before destruction,
+      and a haughty spirit before a fall . If the US is going to attack Iran it will
+      want to launch in the next two weeks because Russian and Chinese warships are
+      headed to the area to participate in the annual Iran-Russia-China joint-naval
+      military exercise. Iran, Russia, and China are scheduled to hold their joint naval
+      military exercise, known as Maritime Security Belt 2026 (the eighth edition of
+      the series), in the northern Indian Ocean (including areas near the Gulf of Oman
+      and Arabian Sea) in late February 2026. Iranian Navy Commander Rear Admiral Shahram
+      Irani announced on January 31, 2026, that the exercise will involve units from
+      Iran’s regular navy (Nedaja), the Islamic Revolutionary Guard Corps (IRGC) Navy,
+      and naval forces from China and Russia. A very busy podcast day… Danny Davis and
+      I discussed the Russian position on territorial negotiations with Ukraine and
+      the US. Next up is my conversation with Alexander Babakov — the number two legislator
+      in the Duma — about Russia’s view of the root causes of the war with Ukraine.
+      I also had the pleasure of chatting with the beautiful and talented Rachel Blevins…
+      the hardest working woman in Austin, Texas. I closed out the day with Ed DeMarche,
+      who posts on Gerald Celente’s Trends Journal : I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: In a dramatic turn of events, bilateral negotiations between
+      Iran and the US were initially canceled due to disagreements over agenda items
+      but were quickly reinstated after the US conceded to Iran's demand to focus solely
+      on nuclear issues, marking a significant victory for Iran.
+    paragraph_summary: In a dramatic turn of events, negotiations between the US and
+      Iran experienced a rapid back-and-forth on the afternoon of a recent day, initially
+      being canceled due to Iran's refusal to discuss ballistic missiles and support
+      for groups like Hamas and Hezbollah, but then quickly resuming when the US conceded
+      to focus solely on nuclear issues. This exchange highlighted Iran's assertiveness,
+      as they promptly rejected the US's demands and indicated they would not participate
+      in talks under those conditions. Concurrently, tensions escalated in the Persian
+      Gulf, where the US military shot down an Iranian drone approaching the USS Abraham
+      Lincoln, following a previous incident where an Iranian drone successfully captured
+      footage of the carrier. Iran also sent small boats to harass a US tanker, signaling
+      their readiness to confront US military presence in the region. This situation
+      has raised concerns among military analysts about the potential for conflict,
+      with some US military officers expressing confidence in their ability to repel
+      Iranian attacks, though others caution that they may underestimate Iran's capabilities.
+    published: '2026-02-05T05:25:51+00:00'
   - title: Will Trump Accept Iran’s Terms?
     url: https://sonar21.com/will-trump-accept-irans-terms/
     text: 'Witkoff and Aragchi The proposed negotiations between Iran and the United

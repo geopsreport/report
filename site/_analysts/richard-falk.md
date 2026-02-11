@@ -7,16 +7,438 @@ description: "Richard Falk is an international law and international relations s
 websites:
   - https://richardfalk.org/
 summary: |
-  The current geopolitical landscape remains marked by the aftermath of recent U.S. interventions and the ongoing crisis in Gaza, both of which have intensified scrutiny of international law and the legitimacy of global governance institutions. In the wake of the January 3 U.S. military operation in Venezuela, analysts continue to debate the implications for world order and the erosion of legal norms.
+  The global security landscape continues to be shaped by the ascendancy of nationalist and far-right movements, with significant implications for the authority of international law and the effectiveness of multilateral institutions. As highlighted by **Richard Falk**, the marginalization of international law in favor of power politics is not a new phenomenon, but recent developments—particularly the resurgence of Trump-era policies—have intensified this trend, undermining the post-1945 world order.
   
-  The most recent development comes from a lecture discussed by **Richard Falk** on February 3, which revisits the legacy of the Vietnam War and its enduring impact on contemporary geopolitics. Falk emphasizes the necessity of recognizing the Vietnam conflict as "America's War in Vietnam," arguing that its lessons are directly relevant to current U.S. military engagements and foreign policy. This reflection is particularly salient given the parallels drawn between the Vietnam era and the present-day U.S. approach to Venezuela and the Middle East. According to Falk, "the Vietnam War remains a reference point for understanding the persistence of interventionist tendencies and the marginalization of international legal frameworks."
+  The most recent analysis underscores the growing deficiencies in the management of global security. **Falk** points to the U.S. military operation in Venezuela as a stark example of "nihilistic geopolitics," where legal norms are disregarded in pursuit of strategic interests. This action, coupled with the controversial kidnapping of Venezuela's president and subsequent legal justifications, signals a broader erosion of respect for international law. The complicity of the United Nations in legitimizing such maneuvers further exposes the limitations of current global governance structures.
   
-  Meanwhile, the Trump administration's proposal for an independent peace council to address the Gaza conflict continues to draw criticism. In his January 30 analysis, **Richard Falk** warns that such non-UN frameworks are "illegitimate and detrimental to international law," as they risk favoring powerful actors at the expense of Palestinian rights and established multilateral mechanisms. This sentiment reflects a broader concern about the weakening of the United Nations' authority and the normalization of ad hoc, power-driven solutions to international crises.
+  In the Middle East, the Trump administration’s proposal for an independent peace council—bypassing established UN frameworks—has been widely criticized as illegitimate and detrimental to the rights of Palestinians. **Falk** warns that such initiatives not only favor the interests of powerful actors but also undermine the legitimacy of international conflict resolution mechanisms, setting a dangerous precedent for future crises.
   
-  Looking at trends, the majority of independent analysts agree that the current trajectory points toward a further unraveling of the post-1945 world order, with the United States increasingly willing to bypass international institutions in pursuit of its strategic objectives. There is high confidence that this pattern will persist, particularly in regions where U.S. interests are challenged or where multilateral consensus is difficult to achieve. As Falk concludes, "there is a high chance that the erosion of legal norms and the sidelining of the UN will continue unless there is a concerted effort to restore the primacy of international law and collective security."
-  
-  In summary, the latest reports underscore a growing crisis of legitimacy for the international system, driven by unilateral interventions and the proliferation of alternative conflict resolution mechanisms. The lessons of past conflicts, especially Vietnam, remain urgently relevant as the world navigates an increasingly fragmented and lawless geopolitical environment.
+  Looking ahead, the prevailing trend is a continued weakening of international legal norms and institutions, with power management increasingly taking precedence over legal commitments. Based on the current trajectory, I guarantee that the marginalization of international law will persist as long as nationalist and far-right forces dominate major powers. There is a high chance that the UN’s credibility will further erode unless significant reforms are undertaken or a shift in global political will occurs. The prognosis for the near term is one of heightened instability and legal uncertainty in global affairs.
 articles:
+  - title: 'Geopolitical Obstcles to International Law Enforcement: Deficiencies in
+      the Management of Global Security'
+    url: https://richardfalk.org/2026/02/09/geopolitical-obstcles-to-international-law-enforcement-deficiencies-in-the-management-of-global-security/
+    text: '[Prefatory Note : Ressponse of Richard Falk to Questions posed by the Iranian
+      journalist Asgar Ghahramanpour, 9. February 2026] 1. **In light of the rise and
+      consolidation of far-right and nationalist movements—such as the Trump phenomenon
+      in the United States and similar trends in Europe and elsewhere—how do you assess
+      the current status of international law within the emerging global order?** Would
+      you say that international law is increasingly retreating in the face of power
+      politics? International law is definitely being marginalized in contemporary international
+      relations by the rise of ultra-nationalist political leaders and authoritarian
+      governments. This negative trend is making a severe impact on political consciousness
+      as a result of the adoption and revival of an imperial foreign policy by the U.S.
+      under Trump, although the pragmatic use or neglect of international law in the
+      management of global security preceded Trump, and can be traced back to 1945 when
+      the winners of World War II became self-anointed as the architects of ‘a new world
+      order,’ a role most prominently associated with the design and establishment of
+      the United Nations. It is notable that the UN Charter designated the Security
+      Council as the only political organ of the new Organization that was provided
+      with the legal authority to reach obligatory decisions binding on sovereign states.
+      Most significantly it refused to allow international law or ensure democratic
+      representation of the non-West to control outcomes in the Security Council in
+      the face of opposition of even one of five winners of World War II given permanent
+      representation while other member states were selected on a term basis. The role
+      of i nter national law was curtailed by according these five winners in 1945 not
+      only permanent SC membership but more significantly a right of veto. This meant
+      that if a breach of international law was to be dealt with even by a majority
+      vote of 14-1, it would still fail, and have no legal effect if the lone dissenting
+      vote was one the P5, which not only crippled the role of the SC in relation to
+      geopolitical rivalry, as during the Cold War, but was highly undemocratic if evaluated
+      from demographic perspectives. This absence of democracy also was present in the
+      internal makeup of the P5 giving the US, France, and the UK great power status
+      in the form of SC permanent membership and the veto, and excluding such Global
+      South great powers as India, Indonesia, Nigeria, and Brazil, creating an everlasting
+      Western dominance in the SC, including a right of each P5 member to block any
+      effort to reform the SC because all amendments of the Charter were nullified unless
+      the support of all five. The net result of this extensive role of the SC in UN
+      affairs has been to make the Organization submissive to the P5, and to confer
+      geopolitical primacy with respect to the management of global security, including
+      war prevention and resistance to genocide as well as subordinate to the strategic
+      interests of the powerful rather than responsive to the regulative principles
+      of law that should possess universal applicability, and governs the strong and
+      weak alike. It is a mistake to think that the whole enterprise of international
+      law is failing. International law works effectively in any substantive setting
+      in which there exists a mutual interest in its applicability. The routines of
+      international life, including most commerce and trade relations, air and maritime
+      safety, communications, tourism, and diplomatic representation are complied with
+      because the logic of reciprocity is operative. This is not true in domains of
+      behavior such as armed conflict in which differentials of hard power determine
+      political outcomes and uphold strategic interests and reflect the ambitions of
+      the powerful. In these latter contexts international law has long been marginalized
+      by design leaving the management of global security to the discretion of the geopolitical
+      actors for any given issue involving the implementation of international law as
+      the disappointing UN response to the recent Gaza genocide illustrated. 2. **Do
+      you believe that the era in which international law functioned as a normative
+      framework capable of restraining state power is coming to an end?** If so, what
+      kind of alternative global order appears to be taking shape? It is a fiction embraced
+      by naïve legalists to suppose that international law ever controlled the management
+      of global security or inhibited the strategic priorities of dominant states. There
+      were eras of greater peacefulness when Great Powers acted prudently with respect
+      to militarization and conflict resolution. The idea of a rule-governed international
+      order applied selectively and within the limits set by those domains of international
+      life where reciprocity prevailed, and differentials in power and wealth were minimized
+      as in international trade and investment as compared to the colonial era. The
+      experience with nuclear weapons is illustrative of this pattern of marginalizing
+      international law despite the risks of leaving the use of this apocalyptic weaponry
+      of mass destruction entirely under the control of the most dangerous geopolitical
+      actors. Rather than favoring denuclearization and disarmament, the same five winners
+      in 1945 continued to leave this weaponry essentially unregulated except to the
+      extent of seeking maximum control over the spread of the weapons to other states.
+      The result has been costly arms races, dangerous crises, abetted by a scheme of
+      deterrence + nonproliferation, with a resulting nuclear hegemony. If ever there
+      was a basis for universal rule governance it was with respect to nuclear weaponry,
+      but it could not overcome the ideology of ‘political realism’ that dominated the
+      thinking of foreign policy elites of the major states, and was systemically opposed
+      to accept any arrangements that restricted their hard power capabilities. Whether
+      this discouraging character of international relations will change in light of
+      the Gaza Genocide, aggressive uses of forces, extreme violations of human rights,
+      ecological instability is impossible to predict, although it seems unlikely in
+      the present atmosphere. The antics of Trump’s narcissistic geopolitics are generating
+      a tidal wave of anxiety about the human future, as well as bearing witness to
+      the devastating consequences of unchecked lawlessness. We can only hope that civil
+      society activism and more responsible political leadership will emerge to create
+      a more viable international legal order than was framed in 1945. 3. **Based on
+      your experience as the UN Special Rapporteur on the situation of human rights
+      in the Palestinian territories occupied since 1967, to what extent does this case
+      illustrate the gap between the principles of international law and the political
+      will of powerful states?** What are the broader implications of this gap for the
+      credibility of the international system? There is no doubt that this gap between
+      law and politics exists in relation to the management of global security, including
+      war prevention, conflict resolution, genocide, apartheid, and ecocide. This should
+      not confuse us about the reliance on compliance with international law by all
+      sovereign states, including those most powerful, whether labeled as Great Powers
+      or in the UN context as the five permanent members of the Security Council or
+      P5. As suggested in my prior responses where the logic of reciprocity applies
+      to the behavior of sovereign states, international law provides a stable and convenient
+      basis for the myriad of interactions that make routine international interactions
+      trustworthy. For the agenda of global security and strategic ambition the design
+      of the UN itself recognized the lack of political will to close the gap between
+      international law and its dependence for implementation on political will and
+      capabilities, epitomized by the right of veto conferred upon the winners of World
+      War II, arguably at the time the most dangerous political actors in the world.
+      At present, despite the widespread disappointment and tension arising from this
+      gap, there is still the absence of political will among the leading geopolitical
+      actors (U.S., Russia, and China) to close the gap. From a legal perspective, this
+      gap is insulated from remedy by each of the P5 possessing an unrestricted right
+      to veto any proposed amendment of the UN Charter. The most that can be realistically
+      envisioned in the near future is more prudent or responsible behavior by these
+      dominant geopolitical actors and by secondary geopolitical actors of limited geographic
+      scope to restrict their lawlessness to the security agendas of. regional geopolitical
+      configurations of power, although U.S. imperial geopolitics and Russian and Chinese
+      spheres of influence geopolitics ensures that the harmful gap between what international
+      law requires and what international politics determines will continue to cause
+      immeasurable harm, especially to vulnerable peoples and nations, or states that
+      have resources coveted by geopolitical actors. 4. **Some argue that international
+      law has always been subordinate to politics rather than an independent constraint
+      upon it.** From your perspective, is the relationship between politics and international
+      law inherently conflictual, or is there still room for a constructive and mutually
+      reinforcing relationship? To avoid confusion and repetition, please consider the
+      relevance of my responses to earlier questions. In sum, with respect to all aspects
+      of global security international law, in practice and design, has long been subordinated
+      to politics, but only for regional and global political actors. And then only
+      since the Peace of Westphalia in 1648 when Europe gave birth to a self-serving
+      format for an international normative order that legitimated coercion in the course
+      of colonizing projects in the Global South. A deficient version of symbolic international
+      law enforcement occurs at the conclusion of major wars ending in victory for one
+      side. As in the aftermath of World War II the winners prosecuted the war crimes
+      alleged to be committed by surviving German and Japanese individuals at Nuremberg
+      and Tokyo, which critics persuasively derided as ‘victors’ justice. As also suggested
+      in previous responses, where reciprocal benefits result from compliance, international
+      law has long provided a reliable framework guiding the behavior of individuals,
+      corporations and financial institutions, and governments in many international
+      interactions, although even here there are important subtle encroachments by the
+      rich and powerful on the rights of the poor that escape from the discipline of
+      a legal order administered on the basis of equality of all 5. **At a time when
+      powerful states increasingly disregard or actively undermine multilateral institutions
+      such as the United Nations, the International Criminal Court, and the global human
+      rights regime, how do you envision the future of multilateralism? ** There is
+      little doubt that this is a bad time for internationalism, given global trends
+      toward ultra-nationalism and xenophobia, which tend to devalue cooperative multinationalism.
+      These trends are accentuated by the intense US hostility to internationalism given
+      Trump’s diplomacy on behalf of the United States, which continues to be the most
+      influential world state, although in danger of losing this status due to China’s
+      continuing rising star. Early in 2026 the U.S. Government, by executive order,
+      withdrew and stopped funding for no less that 66 international institutional arrangements,
+      31 of which were within the UN System. The global scope of ecological challenges
+      as well as the complexities of digital age communications, global migration flow,
+      vulnerabilities to disease epidemics makes it likely that a new cycle of functional
+      pressures will in the years ahead restore and even expand dependence upon multilateralism.
+      This seems probable, although the signature reality of the present global setting
+      is radical uncertainty, or put differently, the unknowability of the future. 6.
+      **Can global civil society, academics, and human rights institutions play a meaningful
+      role in restoring the legitimacy and effectiveness of international law, or are
+      such efforts structurally constrained by the current global power configuration?**
+      In line with unknowability of the future, an initial response is to underscore
+      unknowability, together with an awareness that there are many historical examples
+      of surprising happenings in international life that were not anticipated by relevant
+      experts or public opinion. Among notable recent examples is the victory of Vietnamese
+      nationalism in opposing the militarily superior US intervention in the Vietnam
+      War. Other important examples are the collapse of the Soviet Union, the peaceful
+      transition of the apartheid regime in South Africa into a multiethnic constitutional
+      democracy, and the Arab Spring attacking dictatorial rule in several Arab majority
+      countries at least briefly. In light of this defining feature of  unknowability,
+      it is appropriate to struggle for a desirable future. This suggest that civil
+      society activism is worth supporting as strongly as possible in the hope of both
+      restoring and enhancing the role of legitimacy and withit, the effectiveness of
+      international law in relation to global security and human rights priorities.
+      Of course, resistance from current geopolitical configurations, statism, and predatory
+      capitalism is to be expected, and current prospects for a successful transformation
+      of irresponsible patterns of geopolitics seem low, this may change over time in
+      unpredictable ways. The struggle for law and justice is imperative, even without
+      any assurance that it will be successful in the short term, but neither is it
+      doomed to failure. 7. **Finally, what advice would you offer to the new generation
+      of international lawyers and policymakers seeking to defend and advance international
+      law in a world moving toward unilateralism, authoritarianism, and weakened global
+      governance?** My first advice would be directed at teachers and commentators on
+      law and global politics to adopt a paradigm of international law pedagogy that
+      emphasizes the importance of justice-driven law in relation to global security,
+      human rights, and ecological policy agendas. My second advice would be to urge
+      all students of international relations and law to be required to study international
+      law within a framework that is less vocational and more humanistic as integral
+      to engaged citizenship in democratic societies. This educational commitments needs
+      to be supplemented by societal beliefs that such moral literacy is expect to be
+      present in all phases of the professionalism of law, lawyers, and judges, as well
+      as of foreign policy advisors. This reorientation of pedagogy would also necessitate
+      a prior critique of prevailing versions of ‘political realism’ that continue to
+      dominate foreign policy decision-making, especially in the governments and ‘think
+      tanks’ of geopolitical actors in a manner, which among elements would downgrade
+      the historic agency of militarism. This would include studying the record of defeat
+      of the militarily superior side in most anti-colonial wars since 1945. The link
+      between international law and international legitimacy would also be stressed
+      to make the key point that if international law is not implemented by governments
+      and inter-governmental institutions it still legitimates civil society secondary
+      enforcement capabilities in the form of solidarity initiatives and informal pressures
+      by protests and boycotts, mounted to promote national and international sanctions.'
+    one_sentence_summary: Richard Falk argues that the rise of far-right and nationalist
+      movements, exemplified by figures like Trump, is marginalizing international law
+      in global politics, reflecting a broader trend of power politics that has been
+      evolving since 1945.
+    paragraph_summary: In an interview with Iranian journalist Asgar Ghahramanpour,
+      Richard Falk discusses the diminishing role of international law in the context
+      of rising far-right and nationalist movements globally, particularly highlighting
+      the impact of the Trump administration in the U.S. He argues that the resurgence
+      of ultra-nationalist leaders and authoritarian regimes has marginalized international
+      law, which has historically been undermined by the power dynamics established
+      post-World War II. Falk points out that the United Nations Security Council, designed
+      to enforce international law, is dominated by the five permanent members who possess
+      veto power, effectively sidelining the legal framework intended to govern state
+      behavior and limiting democratic representation of non-Western countries. This
+      situation reflects a broader trend of power politics overshadowing legal norms
+      in international relations.
+    published: '2026-02-10T01:56:33+00:00'
+  - title: 'Geopolitical Obstcles to International Law Enforcement: Deficiencies in
+      the Management of Global Security'
+    url: https://richardfalk.org/2026/02/09/geopolitical-obstcles-to-international-law-enforcement-deficiencies-in-the-management-of-global-security/
+    text: '[Prefatory Note : Ressponse of Richard Falk to Questions posed by the Iranian
+      journalist Asgar Ghahramanpour, 9. February 2026] 1. **In light of the rise and
+      consolidation of far-right and nationalist movements—such as the Trump phenomenon
+      in the United States and similar trends in Europe and elsewhere—how do you assess
+      the current status of international law within the emerging global order?** Would
+      you say that international law is increasingly retreating in the face of power
+      politics? International law is definitely being marginalized in contemporary international
+      relations by the rise of ultra-nationalist political leaders and authoritarian
+      governments. This negative trend is making a severe impact on political consciousness
+      as a result of the adoption and revival of an imperial foreign policy by the U.S.
+      under Trump, although the pragmatic use or neglect of international law in the
+      management of global security preceded Trump, and can be traced back to 1945 when
+      the winners of World War II became self-anointed as the architects of ‘a new world
+      order,’ a role most prominently associated with the design and establishment of
+      the United Nations. It is notable that the UN Charter designated the Security
+      Council as the only political organ of the new Organization that was provided
+      with the legal authority to reach obligatory decisions binding on sovereign states.
+      Most significantly it refused to allow international law or ensure democratic
+      representation of the non-West to control outcomes in the Security Council in
+      the face of opposition of even one of five winners of World War II given permanent
+      representation while other member states were selected on a term basis. The role
+      of i nter national law was curtailed by according these five winners in 1945 not
+      only permanent SC membership but more significantly a right of veto. This meant
+      that if a breach of international law was to be dealt with even by a majority
+      vote of 14-1, it would still fail, and have no legal effect if the lone dissenting
+      vote was one the P5, which not only crippled the role of the SC in relation to
+      geopolitical rivalry, as during the Cold War, but was highly undemocratic if evaluated
+      from demographic perspectives. This absence of democracy also was present in the
+      internal makeup of the P5 giving the US, France, and the UK great power status
+      in the form of SC permanent membership and the veto, and excluding such Global
+      South great powers as India, Indonesia, Nigeria, and Brazil, creating an everlasting
+      Western dominance in the SC, including a right of each P5 member to block any
+      effort to reform the SC because all amendments of the Charter were nullified unless
+      the support of all five. The net result of this extensive role of the SC in UN
+      affairs has been to make the Organization submissive to the P5, and to confer
+      geopolitical primacy with respect to the management of global security, including
+      war prevention and resistance to genocide as well as subordinate to the strategic
+      interests of the powerful rather than responsive to the regulative principles
+      of law that should possess universal applicability, and governs the strong and
+      weak alike. It is a mistake to think that the whole enterprise of international
+      law is failing. International law works effectively in any substantive setting
+      in which there exists a mutual interest in its applicability. The routines of
+      international life, including most commerce and trade relations, air and maritime
+      safety, communications, tourism, and diplomatic representation are complied with
+      because the logic of reciprocity is operative. This is not true in domains of
+      behavior such as armed conflict in which differentials of hard power determine
+      political outcomes and uphold strategic interests and reflect the ambitions of
+      the powerful. In these latter contexts international law has long been marginalized
+      by design leaving the management of global security to the discretion of the geopolitical
+      actors for any given issue involving the implementation of international law as
+      the disappointing UN response to the recent Gaza genocide illustrated. 2. **Do
+      you believe that the era in which international law functioned as a normative
+      framework capable of restraining state power is coming to an end?** If so, what
+      kind of alternative global order appears to be taking shape? It is a fiction embraced
+      by naïve legalists to suppose that international law ever controlled the management
+      of global security or inhibited the strategic priorities of dominant states. There
+      were eras of greater peacefulness when Great Powers acted prudently with respect
+      to militarization and conflict resolution. The idea of a rule-governed international
+      order applied selectively and within the limits set by those domains of international
+      life where reciprocity prevailed, and differentials in power and wealth were minimized
+      as in international trade and investment as compared to the colonial era. The
+      experience with nuclear weapons is illustrative of this pattern of marginalizing
+      international law despite the risks of leaving the use of this apocalyptic weaponry
+      of mass destruction entirely under the control of the most dangerous geopolitical
+      actors. Rather than favoring denuclearization and disarmament, the same five winners
+      in 1945 continued to leave this weaponry essentially unregulated except to the
+      extent of seeking maximum control over the spread of the weapons to other states.
+      The result has been costly arms races, dangerous crises, abetted by a scheme of
+      deterrence + nonproliferation, with a resulting nuclear hegemony. If ever there
+      was a basis for universal rule governance it was with respect to nuclear weaponry,
+      but it could not overcome the ideology of ‘political realism’ that dominated the
+      thinking of foreign policy elites of the major states, and was systemically opposed
+      to accept any arrangements that restricted their hard power capabilities. Whether
+      this discouraging character of international relations will change in light of
+      the Gaza Genocide, aggressive uses of forces, extreme violations of human rights,
+      ecological instability is impossible to predict, although it seems unlikely in
+      the present atmosphere. The antics of Trump’s narcissistic geopolitics are generating
+      a tidal wave of anxiety about the human future, as well as bearing witness to
+      the devastating consequences of unchecked lawlessness. We can only hope that civil
+      society activism and more responsible political leadership will emerge to create
+      a more viable international legal order than was framed in 1945. 3. **Based on
+      your experience as the UN Special Rapporteur on the situation of human rights
+      in the Palestinian territories occupied since 1967, to what extent does this case
+      illustrate the gap between the principles of international law and the political
+      will of powerful states?** What are the broader implications of this gap for the
+      credibility of the international system? There is no doubt that this gap between
+      law and politics exists in relation to the management of global security, including
+      war prevention, conflict resolution, genocide, apartheid, and ecocide. This should
+      not confuse us about the reliance on compliance with international law by all
+      sovereign states, including those most powerful, whether labeled as Great Powers
+      or in the UN context as the five permanent members of the Security Council or
+      P5. As suggested in my prior responses where the logic of reciprocity applies
+      to the behavior of sovereign states, international law provides a stable and convenient
+      basis for the myriad of interactions that make routine international interactions
+      trustworthy. For the agenda of global security and strategic ambition the design
+      of the UN itself recognized the lack of political will to close the gap between
+      international law and its dependence for implementation on political will and
+      capabilities, epitomized by the right of veto conferred upon the winners of World
+      War II, arguably at the time the most dangerous political actors in the world.
+      At present, despite the widespread disappointment and tension arising from this
+      gap, there is still the absence of political will among the leading geopolitical
+      actors (U.S., Russia, and China) to close the gap. From a legal perspective, this
+      gap is insulated from remedy by each of the P5 possessing an unrestricted right
+      to veto any proposed amendment of the UN Charter. The most that can be realistically
+      envisioned in the near future is more prudent or responsible behavior by these
+      dominant geopolitical actors and by secondary geopolitical actors of limited geographic
+      scope to restrict their lawlessness to the security agendas of. regional geopolitical
+      configurations of power, although U.S. imperial geopolitics and Russian and Chinese
+      spheres of influence geopolitics ensures that the harmful gap between what international
+      law requires and what international politics determines will continue to cause
+      immeasurable harm, especially to vulnerable peoples and nations, or states that
+      have resources coveted by geopolitical actors. 4. **Some argue that international
+      law has always been subordinate to politics rather than an independent constraint
+      upon it.** From your perspective, is the relationship between politics and international
+      law inherently conflictual, or is there still room for a constructive and mutually
+      reinforcing relationship? To avoid confusion and repetition, please consider the
+      relevance of my responses to earlier questions. In sum, with respect to all aspects
+      of global security international law, in practice and design, has long been subordinated
+      to politics, but only for regional and global political actors. And then only
+      since the Peace of Westphalia in 1648 when Europe gave birth to a self-serving
+      format for an international normative order that legitimated coercion in the course
+      of colonizing projects in the Global South. A deficient version of symbolic international
+      law enforcement occurs at the conclusion of major wars ending in victory for one
+      side. As in the aftermath of World War II the winners prosecuted the war crimes
+      alleged to be committed by surviving German and Japanese individuals at Nuremberg
+      and Tokyo, which critics persuasively derided as ‘victors’ justice. As also suggested
+      in previous responses, where reciprocal benefits result from compliance, international
+      law has long provided a reliable framework guiding the behavior of individuals,
+      corporations and financial institutions, and governments in many international
+      interactions, although even here there are important subtle encroachments by the
+      rich and powerful on the rights of the poor that escape from the discipline of
+      a legal order administered on the basis of equality of all 5. **At a time when
+      powerful states increasingly disregard or actively undermine multilateral institutions
+      such as the United Nations, the International Criminal Court, and the global human
+      rights regime, how do you envision the future of multilateralism? ** There is
+      little doubt that this is a bad time for internationalism, given global trends
+      toward ultra-nationalism and xenophobia, which tend to devalue cooperative multinationalism.
+      These trends are accentuated by the intense US hostility to internationalism given
+      Trump’s diplomacy on behalf of the United States, which continues to be the most
+      influential world state, although in danger of losing this status due to China’s
+      continuing rising star. Early in 2026 the U.S. Government, by executive order,
+      withdrew and stopped funding for no less that 66 international institutional arrangements,
+      31 of which were within the UN System. The global scope of ecological challenges
+      as well as the complexities of digital age communications, global migration flow,
+      vulnerabilities to disease epidemics makes it likely that a new cycle of functional
+      pressures will in the years ahead restore and even expand dependence upon multilateralism.
+      This seems probable, although the signature reality of the present global setting
+      is radical uncertainty, or put differently, the unknowability of the future. 6.
+      **Can global civil society, academics, and human rights institutions play a meaningful
+      role in restoring the legitimacy and effectiveness of international law, or are
+      such efforts structurally constrained by the current global power configuration?**
+      In line with unknowability of the future, an initial response is to underscore
+      unknowability, together with an awareness that there are many historical examples
+      of surprising happenings in international life that were not anticipated by relevant
+      experts or public opinion. Among notable recent examples is the victory of Vietnamese
+      nationalism in opposing the militarily superior US intervention in the Vietnam
+      War. Other important examples are the collapse of the Soviet Union, the peaceful
+      transition of the apartheid regime in South Africa into a multiethnic constitutional
+      democracy, and the Arab Spring attacking dictatorial rule in several Arab majority
+      countries at least briefly. In light of this defining feature of  unknowability,
+      it is appropriate to struggle for a desirable future. This suggest that civil
+      society activism is worth supporting as strongly as possible in the hope of both
+      restoring and enhancing the role of legitimacy and withit, the effectiveness of
+      international law in relation to global security and human rights priorities.
+      Of course, resistance from current geopolitical configurations, statism, and predatory
+      capitalism is to be expected, and current prospects for a successful transformation
+      of irresponsible patterns of geopolitics seem low, this may change over time in
+      unpredictable ways. The struggle for law and justice is imperative, even without
+      any assurance that it will be successful in the short term, but neither is it
+      doomed to failure. 7. **Finally, what advice would you offer to the new generation
+      of international lawyers and policymakers seeking to defend and advance international
+      law in a world moving toward unilateralism, authoritarianism, and weakened global
+      governance?** My first advice would be directed at teachers and commentators on
+      law and global politics to adopt a paradigm of international law pedagogy that
+      emphasizes the importance of justice-driven law in relation to global security,
+      human rights, and ecological policy agendas. My second advice would be to urge
+      all students of international relations and law to be required to study international
+      law within a framework that is less vocational and more humanistic as integral
+      to engaged citizenship in democratic societies. This educational commitments needs
+      to be supplemented by societal beliefs that such moral literacy is expect to be
+      present in all phases of the professionalism of law, lawyers, and judges, as well
+      as of foreign policy advisors. This reorientation of pedagogy would also necessitate
+      a prior critique of prevailing versions of ‘political realism’ that continue to
+      dominate foreign policy decision-making, especially in the governments and ‘think
+      tanks’ of geopolitical actors in a manner, which among elements would downgrade
+      the historic agency of militarism. This would include studying the record of defeat
+      of the militarily superior side in most anti-colonial wars since 1945. The link
+      between international law and international legitimacy would also be stressed
+      to make the key point that if international law is not implemented by governments
+      and inter-governmental institutions it still legitimates civil society secondary
+      enforcement capabilities in the form of solidarity initiatives and informal pressures
+      by protests and boycotts, mounted to promote national and international sanctions.'
+    one_sentence_summary: Richard Falk argues that the rise of far-right and nationalist
+      movements, exemplified by figures like Trump, is marginalizing international law
+      in global politics, reflecting a broader trend of power politics that has been
+      evolving since 1945.
+    paragraph_summary: In an interview with Iranian journalist Asgar Ghahramanpour,
+      Richard Falk discusses the diminishing role of international law in the context
+      of rising far-right and nationalist movements globally, particularly highlighting
+      the impact of the Trump administration in the U.S. He argues that the resurgence
+      of ultra-nationalist leaders and authoritarian regimes has marginalized international
+      law, which has historically been undermined by the power dynamics established
+      post-World War II. Falk points out that the United Nations Security Council, designed
+      to enforce international law, is dominated by the five permanent members who possess
+      veto power, effectively sidelining the legal framework intended to govern state
+      behavior and limiting democratic representation of non-Western countries. This
+      situation reflects a broader trend of power politics overshadowing legal norms
+      in international relations.
+    published: '2026-02-10T01:56:33+00:00'
   - title: World Order After 1945, After Vietnam War, and After Second Coming of Trump
     url: https://richardfalk.org/2026/02/03/world-order-after-1945-after-vietnam-war-and-after-second-coming-of-trump/
     text: '[ Prefatory Note : This post elaborates upon a lecture of mine on Janurary

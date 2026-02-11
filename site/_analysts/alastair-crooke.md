@@ -7,16 +7,1066 @@ description: "Ex-MI6 diplomat and founder of Conflicts Forum (Beirut); publishes
 websites:
   - https://www.eurasiareview.com/author/alastair-crooke/
 summary: |
-  As the post-Trump era takes shape, the geopolitical landscape is marked by heightened tensions and shifting alliances, particularly in the Middle East and Eurasia. The latest analyses indicate that the precursors for a wider conflict are now firmly in place, with Iran emerging as a central pivot in the ongoing political maneuvering between Washington, Tel Aviv, and other regional actors.
+  As of February 11, 2026, the global geopolitical landscape remains defined by the transactional, business-first approach of the Trump administration, with mounting tensions in the Middle East and shifting alliances in Europe and Asia. The most recent developments highlight deepening rifts between the U.S. and its traditional partners, as well as the growing risk of confrontation with Iran.
   
-  Most recently, **Alastair Crooke** highlights the convergence of interests between President Trump and Israeli Prime Minister Netanyahu, both of whom are leveraging aggressive rhetoric and military posturing towards Iran for domestic political gain. Netanyahu, facing mounting legal troubles, appears intent on diverting attention through escalation, while Trump seeks to solidify his base amid growing intra-party divisions over continued U.S. support for Israel. This alignment, Crooke notes, is less about strategic necessity and more about political survival, yet it significantly raises the risk of miscalculation and unintended escalation in the region.
+  The latest reports underscore Iran’s outright rejection of U.S. and Israeli overtures regarding military actions. **Alastair Crooke** notes that Tehran now views any U.S. strike as an existential threat, promising a comprehensive response. This hardening stance comes as the Trump administration pushes a Gaza reconstruction plan at odds with Israeli interests, exposing the intertwining of geopolitics and commercial priorities. According to Crooke, “the Trump team’s focus on business opportunities in Gaza reconstruction is creating friction with Israel, which sees its security interests sidelined.”
   
-  Meanwhile, the broader U.S. foreign policy approach continues to evolve. The recently released National Security Strategy under Trump underscores an "America First" doctrine, shifting away from global hegemony towards a transactional, regionally focused model. This shift has led to increased pressure on European allies to shoulder more responsibility for defense and economic stability, particularly in the context of the Ukraine conflict. However, as Crooke observes, this recalibration has also exposed deep fractures within the Western alliance and has emboldened adversaries such as Russia and China to assert their influence more aggressively.
+  Meanwhile, the U.S. posture towards Iran remains bellicose in rhetoric but cautious in action. Despite President Trump’s aggressive statements, Crooke argues that the administration is acutely aware of the risks of direct military engagement, especially given Iran’s capacity for retaliation. The consensus among analysts is that Trump’s threats are more about projecting strength for domestic and political reasons than a prelude to imminent conflict.
   
-  In the economic sphere, there is a notable pivot towards "peace through commerce," as articulated by Crooke, with the U.S. seeking to reduce the financial burdens of its global military footprint. Yet, the efficacy of sanctions against major powers like China and Russia remains questionable, and the transactional model has yet to yield tangible security dividends.
+  On the European front, the fallout from Trump’s transactional foreign policy is increasingly evident. The administration’s push for allies to shoulder more defense and economic burdens, particularly in the context of Ukraine and NATO, has strained transatlantic relations. Crooke highlights that Trump’s interest in Greenland—sparked by business figures like Ron Lauder—has further unsettled European partners and raised questions about the future stability of NATO.
   
-  Looking ahead, the majority view among analysts is that the risk of a direct military confrontation involving Iran is now at its highest point in years. As Crooke puts it, "the precursors for war are in place," and the political incentives for both Trump and Netanyahu to escalate remain strong. There is a high chance that, absent a significant diplomatic breakthrough, regional tensions will continue to intensify, with potential spillover effects across the broader Middle East and beyond. The trend towards multipolarity and the erosion of traditional Western dominance is set to accelerate, most definitely reshaping the global order in the months to come.
+  Looking ahead, the prevailing trend is a continued shift away from traditional alliances and values-based diplomacy toward a model rooted in economic self-interest and regional dominance. There is a high chance that U.S.-Israeli tensions over Gaza will deepen, and it is quite likely that Iran will maintain its defiant posture, raising the risk of miscalculation. The transactional U.S. approach is also expected to further erode trust with European allies, potentially undermining NATO cohesion. I guarantee that the coming weeks will see intensified jockeying for influence in the Middle East, with business interests increasingly shaping policy outcomes.
 articles:
+  - title: Gaza Reconstruction; Ukraine Reconstruction – ‘It’s All Business’ – OpEd
+    url: https://www.eurasiareview.com/03022026-gaza-reconstruction-ukraine-reconstruction-its-all-business-oped/
+    text: 'By Alastair Crooke
+
+
+      Over the past two weeks, two important messages were conveyed to Iran, both of
+      which were rejected.
+
+
+      One came from the U.S. and the other from Israel. The former was: “We [the U.S.]
+      will carry out a limited attack and you should accept it; or at least, give only
+      a symbolic response”. Tehran rejected this request, saying that it would consider
+      any attack to mark the beginning of a full-scale war.
+
+
+      Israel’s message, delivered through one of the various mediators, was: “We will
+      not participate in the American attack”. It asked Iran therefore, to not target
+      Israel. This request also met with a negative response, together with the explicit
+      clarification that were the U.S. to commence military action, Israel would be
+      immediately attacked. In parallel, Iran informed all states in the region that
+      any attack launched from their territory or airspace, would result in an Iranian
+      attack on whomsoever facilitated such U.S. military action.
+
+
+      As background, the Iranian perception of threat of U.S. military action has moved
+      beyond the level of a manageable threat, to that of an existential threat. Consequently,
+      writes Iranian analyst Mostafa Najafi, Iran’s leadership has “concluded that a
+      U.S. attack — even if limited in scope — [would] not lead to the end of a conflict
+      … [Rather, it would] result in the continued shadow of war and increased security,
+      economic, and political costs for the country. On this basis, a comprehensive
+      response to any attack, even whilst accepting its consequences, is viewed as a
+      strategy for restoring deterrence and preventing the continuation of sustained
+      military pressure”.
+
+
+      It seems, given the report by Israeli Channel 14’s Hallel Rosen on the talks between
+      the U.S. Commander of CENTCOM General Cooper and his Israeli counterparts on 25
+      January, that Cooper and his team told their Israeli colleagues that the U.S.
+      Administration were seeking only a ‘clean, quick, and cost-free operation in Iran’
+      – one that would not require a significant drain on resources, nor result in the
+      U.S. becoming entangled, nor slipping into widespread complications inside Iran.
+
+
+      Iran, of course, is not Venezuela. It seems that Trump’s quest for an ‘In-Boom-Out’
+      standout operation for Iran is proving elusive. It carries too high a risk of
+      a bad look – not playing as a ‘winner’ – especially at a time when Trumps’ approval
+      rating is suffering.
+
+
+      U.S. Envoys Steve Witkoff and Jared Kushner had arrived in Israel (from Davos,
+      where they had focussed on both Ukraine and Gaza), to meet with Netanyahu on the
+      Saturday that the CENTCOM team were in town.
+
+
+      No doubt Witkoff conveyed to Netanyahu – viewed from the political plane – Trump’s
+      hesitations about the prospective attack on Iran which General Cooper was outlining
+      in Tel Aviv).
+
+
+      The principal message that Witkoff would have brought was Trump’s invitation issued
+      the same weekend both to Netanyahu and Putin to join Trump’s Board of Peace(including
+      its Gaza component).
+
+
+      Putin said he was ready to respond to Trump’s Board of Peace invitation, subject
+      to the documents being reviewed by his Foreign Ministry, and suggested too that
+      Moscow could be prepared to pay the $1bn fee required for permanent membership
+      from Russia’s frozen assets in the U.S., adding that additional frozen funds could
+      also be drawn on for re-building “territories that suffered during hostilities
+      between Russia and Ukraine [–] Once we sign peace deal”.
+
+
+      Putin said that he planned to raise those latter ideas in a meeting on the following
+      day, with Witkoff and Kushner, as well as with Palestinian President Abbas, who
+      was scheduled to visit Moscow the same day.
+
+
+      World attention is being focused towards the apple of Trump’s eye – the plan for
+      the reconstruction of Gaza. This flagship project promoted by Trump, writes Anna
+      Barsky in Ma’ariv (in Hebrew), “aims to transform the Strip into a restored and
+      prosperous civil entity, on the model of the Gulf states. Leading this vision
+      are two of his closest advisers: Jared Kushner and Steve Witkoff, who are pressing
+      Trump to apply pressure on Israel to agree to begin reconstruction in areas of
+      Gaza that are currently under IDF control, within the demilitarized zone”.
+
+
+      “Whilst close advisors to President Trump are pushing for a rapid reconstruction
+      of the Strip, Israel insists that without a full, real and irreversible disarmament
+      of Hamas, there can be no reconstruction – not even in territory under IDF control
+      … [The Witkoff plan] thus represents an outcome that is completely contrary to
+      Netanyahu’s worldview, Israeli sources say … According to them, the Prime Minister
+      has not only a desire to prevent such a scenario, but also has practical tools
+      to do so”.
+
+
+      “Why is the Trump administration investing so much energy in rebuilding Gaza?”,
+      Nahum Barnea, the doyen of Israeli political correspondents, asked of a man who
+      was at the heart of the talks between the two governments in Trump’s first year:
+
+
+      “Money”, the man replied. “It’s all business. Rebuilding Gaza will cost hundreds
+      of billions of dollars. The money is supposed to come from Gulf states. Businessmen
+      close to Trump are striving to get their share, in brokerage fees, in construction
+      and evacuation companies, and security and manpower”.
+
+
+      “Wait, [Barnea] said. I thought Turkey and Egypt were eyeing the reconstruction
+      money, not Trump’s people. [The man] smiled. Both. I’ll surprise you, he said.
+      Israeli businessmen are also showing interest. They believe that some of this
+      good stuff will fall into their hands”.
+
+
+      Barnea was amazed: “The deniers who destroyed the houses in Gaza will clear its
+      ruins, build its cities. Happy Ending!”
+
+
+      So here it is possible to see how things are shaping up. The question that preoccupies
+      the political echelon in Israel is what happens should Trump determine that the
+      Gaza reconstruction project will be promoted without Israeli consent:
+
+
+      Be aware, “Kushner and Witkoff do not see themselves as ‘decorations’. They have
+      a coherent vision for Gaza, and it is very much in contrast to the Israeli vision”,
+      Barsky quotes her high-level source saying.
+
+
+      Barnea wryly observes: “Netanyahu will make sure to bluff out phase two of the
+      plan”. Yet, Barnea’s friend smiled: “There may not be reconstruction; [but] there
+      will be money”, he said.
+
+
+      President Putin, no doubt, sees all this. And guess what? As Witkoff and Kushner
+      arrived in Moscow, keen to discuss Putin’s Board of Peace membership acceptance,
+      the former were accompanied by Josh Gruenbaum, another Jewish American investor
+      — a new, active member of Trump’s negotiating team — who had come to negotiate
+      with Netanyahu for post-military control of Gaza under Trump’s Board of Peace.(Gruenbaum
+      has just been made a senior adviser to the Board of Peace).
+
+
+      Witkoff, Kushner and Gruenbaum plainly care deeply about the real estate project
+      in Gaza. Putin must see that.
+
+
+      Putin likely has the U.S. Administration’s pulse. It was him, after all, who suggested
+      that some of Russia’s frozen funds could be used to rebuild ‘territories that
+      suffered during hostilities between Russia and Ukraine’. Trump at Davos hinted
+      at a $800bn reconstruction fund for Ukraine – not as an outright grant (much to
+      Zelensky’s chagrin), but to be conditioned on Ukrainian withdrawal from the Donbas
+      – which Zelensky refuses.
+
+
+      Zelensky however, badly needs money now (as grift to pass around his following).
+      And Witkoff and Kushner need Putin’s backing to unlock the Gulf money for Trump’s
+      ‘signature project’ – the rebuilding of Gaza. They also need Putin’s support to
+      push Netanyahu into finally initiating Gaza Phase 2.
+
+
+      Putin met President Abbas just ahead of his meeting with Witkoff, Kushner and
+      Gruenbaum. Putin has leverage here; he did, in his initial Board of Peace response,
+      notably underline the importance of UNSC decisions on Palestine. If Witkoff wants
+      Putin’s political heft to bring about the reconstruction of Gaza – against Netanyahu’s
+      interest – the Palestinian dimension will have to come into play, one way or the
+      other.
+
+
+      Ushakov, Putin’s aide, noted too that the ‘situation of Greenland was discussed’.
+      More leverage? Joint U.S.-Russian exploitation of the Arctic dangled before the
+      business trio?
+
+
+      Everything is ‘business’ in Trump’s geo-politics.'
+    one_sentence_summary: In recent weeks, Iran has rejected messages from the U.S.
+      and Israel regarding military actions, perceiving any U.S. attack as an existential
+      threat that would warrant a comprehensive response, while simultaneously, the
+      Trump administration is pushing for a reconstruction plan for Gaza that conflicts
+      with Israeli interests, highlighting the intertwining of geopolitics and business
+      interests in the region.
+    paragraph_summary: In recent weeks, Iran has firmly rejected two significant messages
+      from the U.S. and Israel regarding potential military action. The U.S. proposed
+      a limited attack, urging Iran to accept it or respond symbolically, but Tehran
+      viewed any attack as the start of a full-scale war. Similarly, Israel requested
+      that Iran refrain from retaliating if the U.S. launched an attack, which Iran
+      also dismissed, warning that it would retaliate against any nation facilitating
+      such action. The article highlights Iran's perception of U.S. military threats
+      as existential, leading to a strategy of comprehensive response to restore deterrence.
+      Meanwhile, U.S. envoys have been engaged in discussions about a reconstruction
+      plan for Gaza, which contrasts with Israeli Prime Minister Netanyahu's vision,
+      focusing on disarming Hamas before any reconstruction can occur. The article suggests
+      that the motivations behind the Gaza reconstruction efforts are largely financial,
+      with various stakeholders, including Gulf states and Israeli businessmen, eyeing
+      the lucrative opportunities it presents. As geopolitical dynamics unfold, President
+      Putin's involvement and potential leverage in the situation are also noted, indicating
+      that business interests are central to the ongoing negotiations and plans.
+    published: '2026-02-03T00:28:45+00:00'
+  - title: Will He, Won’t He ‘TACO’ On Iran? – OpEd
+    url: https://www.eurasiareview.com/28012026-will-he-wont-he-taco-on-iran-oped/
+    text: 'By Alastair Crooke
+
+
+      As so often these days, a decisive attack on Iran – comes down in the final analysis
+      to Trump’s psychology, and his need to dominate the attention of everyone around
+      him. He understands that for however much his maximalist pronouncements look —
+      and are — crazy, they nonetheless do usually default to a ‘strong man image’.
+      Trump’s career has been founded on the predicate that his base loves the ‘strong
+      guy’ and any sign of weakness detracts from the illusion of strength. It is the
+      thing that has generally worked for him.
+
+
+      European élites however, find this difficult to digest – perhaps understandably
+      – and slide into paroxysms of outrage.
+
+
+      The key, as Trump-watcher Michael Wolff has suggested, is that after days with
+      Trump saying that ‘this or that’ is going to be done, either “the easy way; or
+      the hard way”, the tipping point usually comes when he has to manoeuvre to exit
+      his maximalist positions, whilst always claiming it was all an ‘Art of the Deal’
+      success – the outcome being just what he had from the beginning intended.
+
+
+      On Iran, Trump’s messaging is again ultra-maximalist: Accept my conditions, or
+      prepare for a comprehensive campaign to dismantle entirely your [Iran’s] political
+      system. Trump’s envoys reinforce his stance that ‘every option remains on the
+      table’ at every opportunity (though this rhetoric has become nothing more than
+      an overworked cliché).
+
+
+      Trump’s threats towards Iran however, have triggered paroxysms of anxiety in the
+      region, with leaders — even Netanyahu — fearing a long war with unpredictable
+      and bloody consequences.
+
+
+      Trump’s conception of war is built around a fantasy that he can manipulate some
+      lightening ‘in-boom-out’ stunt – one in which the U.S. loses no soldiers and its
+      military infrastructure remains untouched. Reports from those regular ‘phone buddies’
+      of Trump say that he still says he wants a ‘guaranteed’ decisive outcome in Iran
+      – a short, violently sharp, decisive war. He does not want casualties – especially
+      American casualties. Neither does he want mass casualties or a long drawn-out
+      conflict.
+
+
+      Colonel Larry Wilkerson explains that decisive is a military term of art. It means
+      you’ve hit the enemy so hard they’re unable to respond. Or, in other words, it
+      hints that Trump would like a ‘stunt’ like that of seizing Maduro.
+
+
+      Nothing is guaranteed in war, of course. And the insurrection in Iran fomented
+      by externally-trained rioters drawing on the earlier Management of Savagery playbook
+      failed.
+
+
+      The US had not deployed massively for this January episode because, in their (flawed)
+      analysis, they had thought they might be able to simply ‘assist’ the rioters trying
+      to overthrow the government – assistance that would not require much military
+      muscle.
+
+
+      Well, that all fell apart. They had bought into the propaganda that Iran was a
+      ‘house of cards’, destined to implode under the impact of the extreme violence
+      of the rioters intended to sear into place the image of a crumbling, burning edifice
+      with its leaders and occupants scrambling to escape.
+
+
+      It seems that in the wake of the ‘coup’ failure – yet still wanting to be pleasing
+      to an exigent President – the Pentagon has come around to justifying and explaining
+      the failed coup saying — in General Keane’s words –“We [have] had to bring in
+      all this firepower”,(because they initially had thought they could manage with
+      less).
+
+
+      So, now we have the narrative that “the U.S. has now deployed more forces to the
+      Middle East than it did in the First Gulf War, the Second Gulf War, and the Iraq
+      War combined” – which US military expert Will Schryverderides as “absolute ridiculous
+      nonsense”.
+
+
+      Schryver notes: “I have yet to see a military buildup in the region that would
+      permit anything remotely approximating a ‘decisive’ strike against the Iranian
+      military and its government”.
+
+
+      “A squadron of F-15s, a few tankers, and a couple dozen C-17 shipments of ordnance
+      and/or AD systems has been sent to Jordan. That’s a modest defensive shield against
+      drones and cruise missiles, at best. It’s certainly not a potent strike package
+      … even with the carrier USS Gerald Ford in the mix … In total, the Navy could
+      probably launch ~350 Tomahawks. But against a huge country like Iran, even if
+      all 350 hit “something”, it’s not going to come close to disarming the Iranians”.
+
+
+      Schryver concludes:
+
+
+      “The US Navy is absolutely NOT going to venture into the Persian Gulf, or even
+      the Gulf of Oman. And it would be extremely high risk to fly refuelling tankers
+      in Iranian airspace. So that is going to limit carrier strike aircraft to their
+      fully loaded combat radius of ~600 miles — not nearly far enough to hit targets
+      deep in Iran. And even if they flew a half-dozen B-2s, and a dozen B-52s / B-1Bs
+      … t just doesn’t add up to much in the context of a one-off strike package. It’s
+      just a few dozen more stand-off cruise missiles thrown into the mix”.
+
+
+      A short, violent decisive ‘win’ (as reported by the WSJ) that Trumps wants — and
+      which ‘plays well’ at home — simply is not an option. Iran Foreign Minister Araghchi,
+      more realistically, has warned:
+
+
+      “An all-out confrontation will certainly be messy, ferocious, and drag on far,
+      far longer than the fantasy timelines that Israel and its proxies are trying to
+      peddle to the White House”.
+
+
+      Inside Iran, notes Ibrahim Al-Amine, “the leadership is operating on the assumption
+      that the confrontation may reach its most extreme form. Preparations are unfolding
+      along two tracks: strengthening defensive capabilities against a large-scale assault
+      and tightening internal security to prevent domestic destabilization. This posture
+      is now visible across the country”.
+
+
+      So, could it be that Trump will back out once again (i.e. TACO – ‘Trump Always
+      Chickens Out’)? Schryver argues that Iran is not Venezuela. It is not a ‘tariffs
+      and trade’ financial war. It is not some coup de théâtre in which Trump ‘chickening
+      out’ can be explained away as another win, as part of his clever ‘Art of the Deal’
+      approach.
+
+
+      Actual full-on military conflict (not a Maduro stunt) by contrast, is ‘out there
+      for all to see’, notes Will Shryver, and would be much harder to explain away
+      should it go awry. Adding more fire-power will not eliminate the risks. Trump’s
+      best option is to find himself an alternative ‘distraction’.
+
+
+      Israel, too, seems to be having second thoughts. Ronan Bergman, in Yedioth Ahoronot,
+      reports Israeli Intelligence reports saying that “a week and a half ago the protests
+      reached their peak throughout Iran … [since when] the scale of the protests and
+      demonstrations has decreased dramatically … the security establishment and the
+      intelligence community do not believe that the regime is currently in danger,
+      certainly not in immediate danger … The central question is whether Trump missed
+      the momentum – and if there was any momentum at all …”.
+
+
+      “[Nevertheless] suppose all the armed forces that the US is now transferring to
+      the Persian Gulf were fully deployed … and suppose Israel were to join in with
+      its firepower … Then what? Would they overthrow the government …? What is the
+      optimistic scenario for such an event … without soldiers on the ground, but only
+      air strikes? … In practice”,Bergman concludes, “such a regime has never fallen
+      through external intervention”.
+
+
+      Recall that Trump’s disapproval rating, according to NY Times poll this week,
+      now stands at 47%. Quite apart from the strategic military calculus of Iran’s
+      response to any attack, Trump certainly doesn’t need a messy war. He likes his
+      ‘initiatives’ to be short and clean ’standout’ wins.
+
+
+      Last weekend, as the Greenland bruhaha tumbled into threats and counter threats
+      of tariffs, the US bond market moved to the verge of collapse (as it so did on
+      Liberation Day, with the tariff announcements). The ‘way out’ from developing
+      bond market crisis was Trump going ‘TACO’ on the Greenland-linked tariffs on European
+      states who did not support his Greenland takeover.
+
+
+      Is Trump getting the message that an Iran ‘win’ is not ‘Slam Dunk’? – in which
+      case he might decide on a TACO, accompanied by bone-crushing economic threats
+      to Iran – (possibly).'
+    one_sentence_summary: The article argues that Trump's aggressive rhetoric towards
+      Iran stems from his psychological need to project strength, but the reality of
+      military engagement is far more complex and risky, leading to concerns that he
+      may ultimately back down from a direct confrontation, especially given the potential
+      for a messy and prolonged conflict.
+    paragraph_summary: The article by Alastair Crooke explores the complexities of President
+      Trump's approach to Iran, emphasizing that his aggressive rhetoric is rooted in
+      a desire to project strength and maintain his "strong man" image, which resonates
+      with his base. Despite his maximalist threats of military action against Iran,
+      there is skepticism about the feasibility and effectiveness of such a strategy,
+      as military experts argue that the current U.S. military buildup in the region
+      is insufficient for a decisive strike. The article highlights concerns among regional
+      leaders about the potential for a prolonged and bloody conflict, contrasting Trump's
+      fantasy of a quick, casualty-free victory with the reality that military interventions
+      rarely lead to regime change without ground forces. As Trump's disapproval ratings
+      rise, there are indications that he may reconsider his approach, opting instead
+      for economic pressure rather than military confrontation, as he seeks to avoid
+      the political fallout of a messy war.
+    published: '2026-01-28T18:29:14+00:00'
+  - title: What May Be The Greenland Endgame? – OpEd
+    url: https://www.eurasiareview.com/26012026-what-may-be-the-greenland-endgame-oped/
+    text: 'By Alastair Crooke
+
+
+      On Monday, when asked whether the U.S. would use force to seize Greenland, President
+      Trump replied, “No comment”. He has previously promised to take the world’s largest
+      island “the nice way [through purchase] or the more difficult way [by force]”.
+
+
+      Though the notion seems to have sprung on the world ‘out of the blue’, John Bolton,
+      Trump’s former National Security Adviser, tells that it was Ron Lauder, an 81-year-old
+      New York billionaire and heir to the Estée Lauder fortune, who first sowed the
+      seed of U.S. ownership of Greenland in the President’s mind in 2018, during his
+      first term in office. Trump unsuccessfully tried to buy Greenland in 2019, during
+      his first term. President Harry Truman also offered to buy it for $100m in gold
+      in 1946 – but was turned down.
+
+
+      Historically, notes the Telegraph, “the U.S. has been averse to conquering land,
+      but not to acquiring territory with cash. In the 1803 Louisiana purchase, it bought
+      huge amounts of land from France for the equivalent of an estimated $430m today.
+      The Alaska purchase in 1867 saw the U.S. pay Russia the modern equivalent of $160m
+      for what became the 49th state. It purchased the U.S. Virgin Islands from Denmark
+      in 1917 for gold coins worth the equivalent of more than $600m today”.
+
+
+      Wolfgang Munchau, a veteran European commentator, says, “dismayed European officials
+      describe Trump’s rush to annex the sovereign Danish territory as “crazy” and “mad,”
+      asking if he is caught up in his “warrior mode” after his Venezuela adventure
+      — and saying he deserves Europe’s toughest retaliation for what many see as a
+      clear and unprovoked attack against allies on the other side of the Atlantic”.
+
+
+      One Brussels official has suggested that America can no longer be viewed as a
+      reliable trade partner — and that the U.S. has shifted to such a degree under
+      Trump that this metamorphosis should be taken as permanent.
+
+
+      European support for America, polls indicate, has evaporated: A new poll published
+      in Germany shows less than 17% of Europeans now trust America.
+
+
+      Michael McNair argues however, that it was not Lauder that prompted a Greenland
+      grab, but rather Under Secretary of Defence for Policy, Elbridge Colby, who in
+      fact outlined his vision for this manoeuvre in his 2021 book, The Strategy of
+      Denial: American Defence in an Age of Great Power Conflict.
+
+
+      Colby’s core claim is that U.S. strategy in the 21st century should aim to deny
+      China from achieving area hegemony over Asia. The rest of Colby’s framework follows
+      from that simple proposition. Securing the Western Hemisphere focus, McNair argues,
+      fits this framework: Securing the home base is not a retreat from Asia; It is
+      a prerequisite for sustaining power projection into the Indo-Pacific. “You cannot
+      fight a war in the Western Pacific if hostile actors control your southern approaches”.
+
+
+      “The Western Hemisphere focus is not America retreating to its corner either.
+      It is securing the base of operations. You cannot project power into the Indo-Pacific
+      if hostile actors control the Gulf shipping lanes, your canal access, or critical
+      supply chains in your own hemisphere. The Monroe Doctrine reassertion enables
+      the Asia strategy. It does not replace it”.
+
+
+      This clearly does not make much sense. China (or Russia) do not threaten Greenland
+      – and the U.S. already hosts a major anti-ballistic missile early warning radar
+      base at Pituffik Space Base in Greenland, which hosts the 12th Space Warning Squadron
+      of the U.S. Space Force. What further advantage would the U.S. gain by outright
+      ‘owning’ Greenland when it’s already allowed to host its massive early warning
+      missile radars there?
+
+
+      It is clear that there is really no immediate and pressing defence exigency that
+      requires the U.S. to annex Greenland. That said, with the Midterms approaching
+      and Trump concerned that should he lose the House, he could be “finished, finished,
+      finished” (his own words), there may be an alternative political expediency.
+
+
+      Trump believes that his stunt of seizing President Maduro played well at home.
+      Reportedly, he has told his base that he wants ‘standout’ political wins ahead
+      of the midterms.
+
+
+      “Were Trump to consummate a purchase of Greenland, he would almost certainly secure
+      a place in both American and global history … Greenland spans roughly 2.17 million
+      square kilometres – making it comparable in size to the entire Louisiana Purchase
+      of 1803 and larger than the 1867 Alaska Purchase. Fold that landmass into today’s
+      United States and America’s total area would jump past Canada, placing the U.S.
+      second only to Russia in territorial size. In a system where size, resources,
+      and strategic depth still matter, such a shift would be read around the world
+      as an assertion of enduring American reach”, notes one commentator.
+
+
+      It would likely play well.
+
+
+      Munchau notes however:
+
+
+      “[That] the Europeans have just woken up, and this time they are really cross,
+      clamouring to issue press statements to condemn Trump. I am hearing commentators
+      urging the EU to deploy the Anti- Coercion Instrument, a legal device that came
+      into force two years ago, to counter economic pressure from adversaries. They
+      insist that the EU is stronger than it thinks. It is the world’s largest single
+      market and customs union, is it not? And it deems itself a regulatory super-power”.
+
+
+      Over the weekend, Trump announced additional tariffs of 10% from 1 February, rising
+      to 25% from 1 June, for eight European countries resisting U.S. efforts to acquire
+      Greenland. The EU is preparing €93bn in retaliatory tariffs to give Europe its
+      retaliatory fire-power. President Macron is forcefully urging the EU to activate
+      the EU’s Anti-Coercion Instrument.
+
+
+      European officials also are ‘quietly’ discussing ‘sensitive possibilities’ which
+      include taking away the U.S.’s European bases, which allow the U.S. to project
+      its force into key theatres – most notably the Middle East.
+
+
+      “You can draw a neat line around the eight countries Donald Trump has targeted
+      for his 10% punitive tariff: Denmark, Norway, Sweden, Finland, the UK, Germany,
+      France, and the Netherlands. Europe’s liberal north-west is trying to frustrate
+      Trump’s grab of Greenland. But there are 21 other member states who have not been
+      sanctioned“, Munchau observes.
+
+
+      “Is Meloni going to break with the President over a patch of land that is far
+      away and irrelevant to Italy’s security and economy? Will Spain? Or Greece? Or
+      Malta and Cyprus? What about eastern Europe? Will Viktor Orbán, Andrej Babiš,
+      and Robert Fico … run to the rescue of their liberal friends in Denmark?”
+
+
+      The projected confrontation will come to a head at the Davos WEF, which is being
+      held this week, with Trump and a large entourage scheduled to arrive today (Wednesday).
+
+
+      At least one meeting between EU officials and NATO officials with Trump in Davos
+      is expected to take place. It may prove stormy.
+
+
+      ‘Stormy’, since a source close to White House deliberations reports that Trump
+      is not heading to Davos in any conciliatory mode. Rather, Trump intends to deliver
+      a cold shower on the heads of people of self-appointed importance, who are assembled
+      there. Many in the audience will be aghast as the globalists, who comprise the
+      majority at the WEF assembly, begin to realise what it is Trump is putting together.
+
+
+      In essence, Trump is assembling an entirely new structure for global partnerships
+      that will likely end up with the functional obsolescence of the United Nations.
+      He is selecting world leaders through the invite to a ‘Global Board of Peace’
+      – Gaza merely representing the initial venue.
+
+
+      One of the key aspects, notes a White House close observer, is that in this new
+      Global Assembly, each will pay their own way. ‘No free riders this time. You want
+      to sit at the big table; join the big club of sovereignty; assemble with a mutually
+      respectful team of action – then pay the entrance fee to attend’.
+
+
+      Some, but not all, in Europe parade their anger and talk of ‘resistance’, but
+      “the truth is that the Europeans never really cared about Greenland. It was the
+      first country to leave the EU – in 1985 – long before Brexit. It’s a fishing nation;
+      fish is over 90% of its exports. And it left because EU fisheries policies would
+      have deprived it of the right to manage its own stocks. Greenland could have been
+      the EU’s, had it really wanted to keep it”, writes Munchau.
+
+
+      Does Europe have the will or the means to resist Trump? No, it does not. It is
+      the U.S., not Europe, that has the ‘trade bazooka’: Europe consciously decided
+      (as part of the Ukraine project) to become 60% dependent on American liquified
+      natural gas for its energy. The EU under NATO remains a U.S. garrison state with
+      major U.S. bases in the Netherlands, Germany, Spain, Italy, Poland, Belgium, Portugal,
+      Greece and Norway. Without the U.S. security umbrella, the EU nuclear deterrent
+      collapses. Without the U.S., the Five Eyes is finished. (Canada’s shift eastwards
+      may have already begun the fracturing of NATO. The demise of Five Eyes could prove
+      to be far more consequential than the end of NATO).
+
+
+      European capitals reportedly are hatching a plan to force Trump to back down over
+      his demands to take control of Greenland from Denmark. Or rather, they’re hatching
+      several different plans and throwing everything they have at anyone they think
+      might listen – fuelling strong suspicions that they are not speaking with one
+      voice, and that they understand Europe’s weakness.
+
+
+      The big risk, some European officials admit, is that such blunt challenges to
+      the U.S. would rapidly escalate into a full-blown rupture in the transatlantic
+      relationship, leading perhaps to the demise of NATO. Others argue that the alliance
+      is increasingly toxic under Trump and that Europe needs to move on.
+
+
+      But behind the scenes – as always these days in western Europe – lies ‘Project
+      Ukraine’. ‘Coalition of the Willing’ European members are still fixated on coercing
+      Trump to agree that U.S. military forces will backstop European security guarantees
+      (in the unlikely event of an Ukraine ceasefire coming into effect).
+
+
+      What will be the initial ‘Greenland’ endgame? Trump will ‘take’ Greenland. In
+      the longer timeframe this may lead to the dismemberment of Europe and some European
+      states pursuing individual defence policies. The European élites however, will
+      be more intent on preserving NATO and the semblance of being American ‘allies’,
+      than ‘saving Greenland’.'
+    one_sentence_summary: The article discusses President Trump's controversial interest
+      in acquiring Greenland, tracing its origins to a suggestion by billionaire Ron
+      Lauder and highlighting the historical context of U.S. territorial acquisitions,
+      while also examining the potential geopolitical ramifications and European reactions
+      to Trump's aggressive stance, which could threaten transatlantic relations and
+      NATO's stability.
+    paragraph_summary: In a recent article, Alastair Crooke discusses President Trump's
+      controversial interest in acquiring Greenland, a notion that traces back to discussions
+      with billionaire Ron Lauder in 2018 and Trump's failed attempt to purchase the
+      territory in 2019. Despite historical precedents of U.S. territorial acquisitions
+      through purchase, Trump's approach has alarmed European officials, who view it
+      as an aggressive and unprovoked act against an ally. The article highlights the
+      growing distrust of the U.S. among Europeans, with polls indicating a significant
+      decline in support for America. Analysts suggest that Trump's fixation on Greenland
+      may be politically motivated, aimed at securing a notable achievement ahead of
+      the midterms. As tensions rise, European leaders are contemplating retaliatory
+      measures, including tariffs and potential shifts in defense policies, amid fears
+      that a confrontation over Greenland could jeopardize transatlantic relations and
+      the future of NATO. Ultimately, Crooke posits that Trump's ambitions may lead
+      to a reconfiguration of global alliances, with Europe struggling to assert its
+      interests in the face of U.S. dominance.
+    published: '2026-01-26T17:16:49+00:00'
+  - title: Deciphering Trump’s ‘Externalised Internal Thinking’ On Iran – OpEd
+    url: https://www.eurasiareview.com/21012026-deciphering-trumps-externalised-internal-thinking-on-iran-oped/
+    text: 'By Alastair Crooke
+
+
+      To understand the background to events in Iran today, we need to retrace what
+      I quoted US commentator & Trump biographer Michael Wolff saying last July about
+      Trump’s thinking in connection with the impending attacks on Iran’s Fordow, Natanz
+      and Isfahan enrichment facilities:
+
+
+      I have been making lots of calls – so I think I have a sense of the arc that got
+      Trump to where we are [with the strikes on Iran]. Calls are one of the main ways
+      I track what he is thinking (I use the word ‘thinking’ loosely).
+
+
+
+
+      I talk to people whom Trump has been speaking with on the phone. I mean all of
+      Trump’s internal thinking is external; and it’s done in a series of his constant
+      calls. And it’s pretty easy to follow – because he says the same thing to everybody.
+      So, it’s this constant round of repetition ….
+
+
+
+
+      So, basically, when the Israelis attacked Iran [on 12 June], he got very excited
+      about this – and his calls were all repetitions of one theme: Were they going
+      to win? Is this a winner? Is this game-over? They [the Israelis] are so good!
+      This really is a showstopper.
+
+
+      The last weeks’ externally-orchestrated riots in Iran have almost completely vanished
+      – upon Iran blocking international calls, cutting international internet connections,
+      and most significantly, severing Starlink satellite connections. No unrest, riots,
+      or protests have been recorded in any Iranian city in the past 70-odd hours. There
+      are no new reports; rather, there have been massive demonstrations of support
+      for the State. The ongoing videos circulating are mostly old and reportedly peddled
+      from two main hubs outside of Iran.
+
+
+      The impact of cutting-off protestors from their external controllers was immediate
+      — and underlines that the rioting was never organic; but planned long in advance.
+      The suppression of the extreme violence practiced by an influx of well-trained
+      rioters, together with the arrest of the ringleaders has cut away the main plank
+      to this iteration of the US-Israeli regime change strategy.
+
+
+      The CIA-Mossad strategy has been based on a series of planned surprises devised
+      to shock Iran and disorientate it.
+
+
+      The surprise initially worked for the 13 June sneak US-Israel attack on Iran.
+      The “shock” was grounded in a network of covert agents infiltrated by Mossad into
+      Iran over a long time-frame. These covert small teams were able to inflict substantial
+      damage on the Iranian short-range air defences, using smuggled small drones and
+      Spike anti-tank weapons.
+
+
+      This in-country sabotage was intended as a stepping stone to an Israeli challenge
+      to the full Iranian air defence “umbrella.” To the IRGC, the attacks seemingly
+      appeared out of nowhere. They created shock and compelled the Iranian IRGC air
+      defences to shift into a protective posture until they were able to understand
+      and identify the origin of the attack. Mobile radar systems therefore were ordered
+      to withdraw into Iran’s massive tunnel network for safety.
+
+
+      Activation of the third all-embracing air defence umbrella could not proceed safely
+      until the threat to these mobile radar assets had been removed.
+
+
+      This initial sabotage allowed Israel to engage with the Iranian integrated air
+      defence system which, whilst still in its protective posture, was operating at
+      lower capacity. At this point, Israel entered the conflict using air-launched
+      aero-ballistic missiles launched from stand-off positions outside Iranian airspace.
+
+
+      As a quick remedy, the internet connection of Iran’s mobile phone network was
+      deactivated to cut the link to hidden operators feeding targetting data to the
+      local drone launch placements, via the Iranian mobile telephone network.
+
+
+      The 13 June attack — premised to collapse what was said to be a “house of cards”
+      Iranian State — failed, but subsequently led into the “12-day war” — which also
+      failed. Israel was forced to ask Trump to negotiate a ceasefire after four days
+      of multiple Iranian missile strikes.
+
+
+      The next leg to the US Israeli “regime change” project had a distinctly different
+      blueprint — one rooted in an old “playbook” intended to amass and incite mobs
+      and trigger extreme violence. It began on 28 December 2025 and coincided with
+      Netanyahu’s meeting with Trump at Mar-a-Lago. A short-selling of the Rial (probably
+      orchestrated from Dubai) crashed the value of the currency by 30 – 40 percent.
+
+
+      The devaluation threatened the business of the merchants (the Bazaar). Understandably,
+      they protested. (The Iranian economy has not been well managed for some years,
+      a fact that added to their anger). Young Iranians too, felt that this poor economic
+      management had pushed them out from the Middle Class into relative poverty. The
+      drop in the value of the Rial was widely felt.
+
+
+      The Bazaaris were protesting the sudden upending of the economic status quo, but
+      served as the peg for the US and Israel to propagandise wider grievances.
+
+
+      The “surprise” in this chapter of the Regime Change playbook was the insertion
+      of professional rioters into locations directed by their external controllers.
+
+
+      The modus was for the armed insurgents to gather in some well-frequented urban
+      area, usually in a small city; to select a random passer-by, and for the men in
+      the group to beat him severely, whilst the women film and scream to the gathering
+      crowd for their colleagues to “kill him; burn him.”
+
+
+      The crowd, not understanding, becomes heated and violent. The police arrive, whereupon
+      shots generally from an elevated site above the crowd are fired at the police
+      or security forces. The latter fire back, and not knowing from whence the shots
+      were fired, kill armed “protestors” and members of the public. A violent riot
+      thus is created.
+
+
+      The techniques are effective and professional. They have been used on many other
+      occasions in other countries.
+
+
+      The Iranian remedy was two-fold: Firstly, thanks to Turkish intelligence support,
+      many of the armed Kurdish fighters (trained and armed by the US and Israel) were
+      killed or arrested as they crossed the border into the predominantly Kurdish minority
+      areas of Iran, arriving from Syria and Erbil.
+
+
+      The game-changer, however, was the cutting of Starlink connections to the estimated
+      40,000 satellite terminals that had been smuggled into Iran (most probably by
+      western NGOs).
+
+
+      Western Intelligence services believed that Starlink was impossible to jam – hence
+      its primary position in the Regime Change toolbox.
+
+
+      The Starlink cut off turned the tables. The riots vanished. And the State rebounded.
+      There have been no defections from the army, the IRGC or Basij. The State remains
+      intact and its defences augmented.
+
+
+      So what is next? What can Trump do? His mooted intervention was predicated on
+      the narrative that the “régime was slaughtering the people,” amidst “rivers of
+      blood”. That did not happen. Instead, there have been massive demonstrations of
+      support for the Republic.
+
+
+      Well, Michael Wolff has been calling his White House sources again — “So, I went
+      back to the people I speak to in the White House, to revisit this.”
+
+
+      Wolff relates, the notion of a new round of strikes on Iran seemed to his interlocutors
+      to have taken root in late summer, early autumn. The start point was that Trump
+      remains “delighted” by how his June strike on the Iranian uranium enrichment facilities
+      had worked out: “It played; it really played,” Trump repeats.
+
+
+      But by Autumn, Trump had started to acknowledge that he faced a tough fight in
+      the Midterm elections. He was beginning to say, “if we lose [the House], we could
+      be finished; finished; finished.” And Trump would go on – with some almost self-awareness
+      – Wolff says, to cite the problems ‘they’ are having, which are [lack of of] “jobs,
+      the Epstein s—t and these ICE videos everybody is crying over.” Trump in these
+      conversations implies that the Republicans could even lose the Senate, in which
+      case, “I’m back in Court, which won’t be pretty.”
+
+
+      The day before he attacked the enrichment facilities in June 2025, Trump — in
+      an insight into his mode of thinking in calls to his buddies — was constantly
+      repeating: “If we do this, it needs to be perfect. It needs to be a ‘win’. It
+      has to look perfect. Nobody dies.”
+
+
+      Trump kept saying to interlocutors: “We go ‘in-boom-out’: Big Day. We want a big
+      day. We want [wait for it, Wolff says] a perfect war.” And then, out of the blue,
+      after the June attack, Trump announced a ceasefire, which Wolff suggests was “Trump
+      concluding his perfect war.”
+
+
+      The extreme violence used by rioters against Iranian police and security officials
+      (up to the peak on 9 January 2026); the burning of banks; buses, libraries and
+      the sacking of mosques, most likely was devised by western Intelligence services
+      to show a crumbling, decomposing state that, in its death agony, was killing its
+      own people.
+
+
+      This likely — in coordination with Israel — was being presented to Trump as the
+      “perfect” lead-in to a “Venezuela-type scenario”: We go for decapitation, ‘in-boom-out’’.
+
+
+      Trump this week told his advisers (for the second time), Wolff reports, that he
+      wants a “standout thing; a whole big deal – all headlines. It has to ‘play’ well.”
+      Despite the riots having been dissipated, he still insists on a guarantee from
+      his team of ‘victory’ in any action taken.
+
+
+      But where is the “in-boom-out” scenario to be found? The riots have ceased. After
+      the 12 June 2025 strike and the Maduro kidnapping, Tehran is all too well aware
+      of Washington’s obsession with decapitation.
+
+
+      So what can Trump do? Bomb Iranian institutional buildings like the IRCG headquarters?
+      Iran almost certainly will respond. It has threatened to respond by striking US
+      bases across the region. In such a situation, a Trump-authorised attack may not
+      have the look of a “big deal win” at all.
+
+
+      Maybe Trump will stay with a smaller “win”: “We have a big stick,” he continues
+      to say. “Nobody knows if I’ll use it. We’re freaking everybody out!.”'
+    one_sentence_summary: The article discusses the recent events in Iran, highlighting
+      how the suppression of protests and the cutting off of external communication
+      have thwarted U.S.-Israeli regime change efforts, while also examining Trump's
+      strategic thinking and potential future actions regarding Iran amidst changing
+      political dynamics.
+    paragraph_summary: In his analysis of the current situation in Iran, Alastair Crooke
+      discusses the implications of recent U.S.-Israeli strategies aimed at regime change,
+      particularly in light of Trump's previous military actions against Iranian nuclear
+      facilities. He highlights how recent riots in Iran were effectively quelled by
+      cutting off external communications, revealing that the unrest was not organic
+      but rather orchestrated by external forces. The article details the failed June
+      2025 attack on Iran, which was intended to destabilize the Iranian state, and
+      describes the sophisticated tactics employed by foreign agents to incite violence.
+      Despite the initial chaos, the Iranian state has demonstrated resilience, with
+      significant public support and no defections from its military or security forces.
+      Crooke speculates on Trump's potential next moves, noting his desire for a "perfect
+      war" that garners media attention, while acknowledging the challenges he faces
+      in achieving a decisive victory given the current stability in Iran.
+    published: '2026-01-21T00:36:37+00:00'
+  - title: 'The Rubicon Crossed: Team Trump’s Nihilistic Anti-Values Paradigm – OpEd'
+    url: https://www.eurasiareview.com/12012026-the-rubicon-crossed-team-trumps-nihilistic-anti-values-paradigm-oped/
+    text: 'By Alastair Crooke
+
+
+      So, finally an act of unvarnished predatory action by Trump and his team – the
+      abduction of President Maduro in a lightning night-time military strike – has
+      launched 2026 into a pivotal moment. A pivotal moment not just for Latin America,
+      but for global politics.
+
+
+      The ‘Venezuela method’ is aligned with Trump’s ‘business first’ approach which
+      is rooted in constructing a ‘financial reward system’, whereby diverse stakeholders
+      to a conflict are offered financial benefits that permit the U.S. to (ostensibly)
+      achieve its own objectives, whilst locals continue to extract rewards from the
+      exploitation of (in this case) Venezuelan resources – under U.S. close supervision.
+
+
+      In this template, the U.S. does not need to create a new governing régime from
+      scratch, nor put ‘boots on the ground’ – for Venezuela, the plan is that the existing
+      government of the newly-sworn in President, Delcy Rodriguez, will remain in control
+      of the country – so long as she follows Trump’s wishes. Should she or any of her
+      ministers fail to follow that blueprint, they will receive the ‘Maduro treatment’,
+      or worse. Reportedly, the U.S. has already threatened Venezuela’s Interior Minister,
+      Diosdado Cabello, that he will be targeted by Washington unless he helps President
+      Rodriguez meet U.S. demands.
+
+
+      Put another way, the plan comes down to a single underpinning premise that the
+      only thing that matters is the money.
+
+
+      In this context, the U.S. approach to Venezuela resembles that of a Vulture Hedge
+      Fund ‘buy-out’: Remove the CEO and co-opt the existing management team with money
+      to run the company to new dictates. In Venezuela’s case, Trump likely hopes that
+      Rodriguez (who has been ‘talking’ with Secretary Rubio via the Qatari royal family,
+      and who is also the Minister responsible for the oil industry) has squared off
+      all the factions that compose the Venezuelan power structure to accept the relinquishment
+      of state sovereign resources to Trump.
+
+
+      What is so pivotal here is the shedding of all pretence: The U.S. is in a debt
+      crisis and wishes to seize – for exclusive U.S. use – Venezuelan oil. Submission
+      to Trump’s demand is the only variable that matters. All masks are off. A Rubicon
+      has been crossed.
+
+
+      “Venezuela will be turning over 30 and 50 MILLION Barrels of High Quality, Sanctioned
+      Oil to the United States of America, sold at market price with the money controlled
+      by me”, Trump has written on Truth Social.
+
+
+      The erasure of the American ‘project’ – the substituting of self-interested hard
+      power for the American narrative of it being ‘a light to all nations’ – constitutes
+      a revolutionary change. Myths and their supporting moral stories provide the meaning
+      to any nation. Without a moral framework, what will hold America together? Ayn
+      Rand’s celebrated belief that rational selfishness was the ultimate expression
+      of human nature cannot reconstitute social order.
+
+
+      The western Enlightenment has turned on its own values – and has destroyed itself.
+      The ramifications will ripple throughout the world.
+
+
+      Aurelian writes:
+
+
+      “It was Nietzsche, purveyor of uncomfortable truths, who pointed out that the
+      ‘Death of God’, and the consequent lack of any agreed system of ethics would lead
+      to a world without meaning or purpose, because all values are baseless, all action
+      is pointless, all outcomes are morally equivalent and no objectives are therefore
+      worth pursuing …”.
+
+
+      In his book Will to Power, Nietzsche’s thesis was that the end of all values and
+      meaning would imply the end too, of the very concept of Truth, and would reveal
+      the impotence of mechanical western Reason. Collectively, this would amount to
+      “the most destructive force in history”, and would produce “catastrophe”. Writing
+      in 1888, he predicted this would happen over the next two centuries.
+
+
+      Nietzsche was saying that when you cross that Rubicon, it is no small matter.
+      The West would then lose the internal architecture that makes Moral life possible,
+      both internally, and as an actor on the global stage. A state that loses its internal
+      architecture becomes merely a mobster threatening anyone who will not accede to
+      its predations and give it the money on which it has set its eyes.
+
+
+      It is far too early to say how events in Venezuela will turn out, but what can
+      be discerned is that Caracas is collectively strategizing about how to manage
+      an aggressive U.S. within the context of rising popular nationalism at home. Nor
+      can we predict how Team Tump’s wider ambitions to hollow out the South American
+      regional fabric (Cuba in particular) will fare. Equally, it is too early to judge
+      whether Trump’s plan to ‘acquire’ Greenland may succeed.
+
+
+      What can be said nonetheless is that the existing calculus across the globe is
+      upended by the shift to a nihilistic anti-values paradigm.
+
+
+      The world now is governed by strength, by force and power. “We have power”, (Team
+      Trump is proclaiming), so we set the terms on the ground. Russia, China, Iran
+      and others will understand that international niceties should be discarded. It
+      is time to be resolute and utterly hard-nosed, for risk is no longer thought through
+      and critical thinking is absent. Risk abounds.
+
+
+      Coercion breeds the search in others for more effective deterrence – in whatever
+      form – and the merits to any diplomatic engagement will be carefully reviewed.
+      How to trust the U.S.? Can the U.S. be convinced to revert to the politics of
+      classical negotiation? Such a claim now will invite a heavy dose of scepticism.
+
+
+      How to protect oneself? Every leader is quietly doing the calculation. None less
+      so than the Europeans.
+
+
+      Back in 2022 when Russia’s Special Operation in Ukraine began, western leaders
+      were very aware of both their democratic ‘gap’ and lack of moral authority. The
+      Special Operation in Ukraine however, seemed to give them a flag around which
+      to gather their divergent constituent nations. They chose to reach for the Manichaeism
+      that President Biden was embracing in respect to President Putin. It was good
+      versus evil. Many Europeans were drawn to it; it seemed to fill a hole in EU legitimacy.
+
+
+      But today, Trump has ripped away that moral pose. Through the excitement of promoting
+      Ukraine as a symbol for Europe taking the stage as a moral actor, as a consequence
+      the EU at least rhetorically has been edging towards catastrophic war with Russia
+      through a catalogue of misjudgments about the nature of the military conflict
+      – and its causes. The EU leadership has bet the Union on inflicting a humiliating
+      defeat on Putin; but has no answer to the present impasse beyond building castles-in-the-sky
+      multi-point proposals that it hopes to persuade Trump to somehow impose on Moscow.
+
+
+      Instead Trump warns Europe rather that it anyway faces “civilisational erasure”
+      and saysthat he is considering using military force against Denmark to acquire
+      Greenland. Europe is left naked … and pretending to have moral agency.
+
+
+      Finally, how will this American shift to zero-sum nihilism impact within the U.S.?
+      The MAGA base already has been fractured by Trump’s increasingly open partiality
+      towards Israel – placing Israel First ahead of America First – and now by Jewish
+      billionaires insisting that any criticism of Israel be digitally suppressed.
+
+
+      The images out of Gaza of dead women and children have galvanised many young Americans
+      under 40 years old. Gaza has proved to be the example of an amoral power-politics
+      so extreme that it has radicalised a younger generation that increasingly was
+      leaning toward an uncompromising Christianity.
+
+
+      This was particularly true of the key constituency, Turning Point USA. A big part
+      of the MAGA win in 2024 was due to this youth movement with thousands of chapters,
+      Christian values and high energy. Turning Point USA potentially still offers the
+      prospect for a formidable ‘Get Out the Vote’ operation.
+
+
+      But what many Republicans ignore is that their voter base is roughly one third
+      of the electorate who turn out to vote, and therefore for Trump to win, he will
+      need to persuade at least half of the ‘Independent third of the country’ to vote
+      Trump. Polling shows his approval rating currently standing at -10.
+
+
+      A small group of GOP party officers in combination with powerful established politicians
+      and billionaire donors seek to limit MAGA’s reach over the Republican Party. Just
+      as they crushed the earlier Republican Tea Party movement that rose in 2010, the
+      party apparatchiks want MAGA brought back under full Party control and to accept
+      leadership instructions on who can stand as GOP lead candidates going into the
+      2026 midterm elections – and beyond into 2028.
+
+
+      In 2016, the agenda of the ‘Sea Island’ cabal of uniparty leaders and donors was
+      focussed on preserving the business model of DC politics from the ‘wild card’
+      represented by Trump. Today, this extended group aims to fracture the MAGA base
+      that has come to underpin the GOP, in order that they may continue their practice
+      of purchasing all ‘horses (candidates) in the race’. The object being to provide
+      a semblance of choice, whilst limiting that ‘choice’ to two lead candidates acceptable
+      to both wings (Democrat and Republican) of the Uniparty command.
+
+
+      The problem here is that when the rulers become self-absorbed and without scruple,
+      the amorality doesn’t remain contained at the top. It cascades down party structures.
+      And when the moral pose is openly and exultantly flaunted as sham – as Team Trump
+      is doing – then young Christians who take themselves seriously become rebellious.
+      They are silent no more. They understand the nature of the game being played against
+      them.
+
+
+      Will they ultimately comply with the party apparatchiks? That is a good question.
+      The future course of America, to a large extent, hangs on the answer.'
+    one_sentence_summary: The article discusses the implications of Trump's recent military
+      actions in Venezuela, framing them as a shift towards a predatory, nihilistic
+      approach to global politics that prioritizes financial gain over moral values,
+      potentially destabilizing both international relations and the internal dynamics
+      of the U.S. political landscape.
+    paragraph_summary: In a significant shift in global politics, Alastair Crooke discusses
+      the implications of Trump's recent military action in Venezuela, which involved
+      the abduction of President Maduro and the installation of Delcy Rodriguez as a
+      compliant leader under U.S. control. This "Venezuela method" reflects Trump's
+      business-oriented approach, prioritizing financial gains over moral considerations,
+      effectively treating the country as a resource to be exploited. The article argues
+      that this move marks a departure from traditional American values, leading to
+      a nihilistic paradigm where power dynamics govern international relations, eroding
+      trust and ethical frameworks. The ramifications extend beyond Venezuela, affecting
+      U.S. domestic politics, particularly within the Republican Party, where the MAGA
+      base faces internal fractures amidst rising moral discontent and external pressures.
+      Crooke warns that the erosion of moral authority and the embrace of coercive power
+      could have catastrophic consequences for both the U.S. and its global standing,
+      as leaders worldwide reassess their strategies in response to America's new, aggressive
+      posture.
+    published: '2026-01-12T17:57:28+00:00'
   - title: 'The Precursors For War Are In Place: Iran Is The Peg To Intense Political
       Jockeying To Define The Post-Trump Future – OpEd'
     url: https://www.eurasiareview.com/05012026-the-precursors-for-war-are-in-place-iran-is-the-peg-to-intense-political-jockeying-to-define-the-post-trump-future-oped/

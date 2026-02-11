@@ -7,18 +7,278 @@ description: "Journalist and producer; covers US foreign policy, Russiagate, and
 websites:
   - https://www.aaronmate.net/
 summary: |
-  As of early February 2026, the global geopolitical landscape remains tense, with US foreign policy under President Trump driving much of the current instability. Recent developments highlight escalating US threats against Iran, deepening intervention in Venezuela, and ongoing deadlock over the future of Ukraine and Gaza.
+  The global geopolitical landscape remains tense as the fallout from recent US foreign policy decisions continues to reverberate. The Trump administration’s actions on nuclear arms control, Iran, and Venezuela have set the stage for heightened instability, while the Israeli-Palestinian conflict and Ukraine crisis remain unresolved amid shifting international alignments.
   
-  The most recent reports, as analyzed by **Aaron Maté**, emphasize that President Trump, despite his campaign rhetoric against military entanglements, is now openly threatening military action against Iran. At the same time, US sanctions continue to inflict severe hardship on the Iranian population, with no sign of relief. **Maté** notes that these policies are "offering Iranians far more pain," as the administration's approach combines economic pressure with the looming threat of force.
+  The most significant new development is the expiration of the New START treaty, which has removed the last legal constraints on US and Russian nuclear arsenals. As **Aaron Maté** reports, this has “heightened the risk of a renewed arms race,” though there are “unconfirmed reports of an informal understanding to maintain treaty terms temporarily and a resumption of military dialogue between the two nations.” The lack of a formal agreement increases uncertainty, but the resumption of dialogue suggests both sides are wary of immediate escalation. There is a high chance that, absent a new treaty, both countries will gradually expand their arsenals, though a sudden arms buildup is unlikely in the immediate term.
   
-  In Latin America, the situation in Venezuela has sharply deteriorated following the US military's attack and the kidnapping of President Nicolás Maduro. **Aaron Maté** describes Trump's justification—invoking the Monroe Doctrine and asserting US control over Venezuela's oil—as reminiscent of "a Mafia Don seeking material wealth through violence and intimidation." This aggressive posture signals a clear intent to dominate Venezuela's resources, further destabilizing the region.
+  Meanwhile, the US approach to Iran remains confrontational. Despite campaign promises to avoid military entanglements, President Trump is now threatening military action against Iran while maintaining harsh sanctions. According to **Aaron Maté**, this dual-track policy has “failed to alleviate the hardships caused by sanctions on the Iranian people.” The majority view among analysts is that this posture will further destabilize the region and increase anti-US sentiment, with a high chance of continued tensions and sporadic escalation rather than a diplomatic breakthrough.
   
-  Meanwhile, the Ukraine conflict remains unresolved. President Zelensky has publicly rejected ceding the Donbas region to Russia but has floated the idea of a national referendum on the territory's fate. However, as **Maté** points out, most of Donbas is already under Russian control, making such a vote largely symbolic. Diplomatic efforts, including Trump's proposed peace plans, continue to face stiff resistance from Washington's foreign policy establishment and European allies.
+  In Latin America, the US military’s intervention in Venezuela and the kidnapping of President Nicolás Maduro have drawn international condemnation. Trump’s justification, invoking the Monroe Doctrine and US interests in Venezuelan oil, signals a return to overt resource-driven interventions. **Aaron Maté** likens Trump’s approach to that of a “Mafia Don seeking material wealth through violence and intimidation.” This move is expected to deepen regional polarization and fuel anti-American sentiment across Latin America. There is high confidence that US-Venezuela relations will remain hostile, with a prolonged period of instability in Caracas.
   
-  Looking at the broader trends, US policy under Trump is marked by increased unilateralism and a willingness to use both economic and military tools to achieve strategic objectives. The majority of independent analysts, including **Maté**, see little chance of near-term de-escalation in any of these theaters. There is a high chance that US-Iran tensions will persist, with the risk of open conflict remaining elevated. In Venezuela, the US intervention is most definitely set to deepen the humanitarian crisis and regional instability. On Ukraine, the deadlock is likely to continue, with no diplomatic breakthrough expected in the immediate future.
-  
-  In summary, the prevailing direction is toward greater confrontation and instability, with US actions driving much of the current uncertainty. I guarantee that, barring a significant policy shift, these trends will persist in the coming weeks.
+  Looking ahead, the prevailing trend is one of increasing geopolitical fragmentation and assertive US unilateralism. The erosion of arms control, aggressive sanctions, and military interventions are likely to provoke pushback from rival powers and further strain alliances. I guarantee that, barring a dramatic policy shift, these dynamics will continue to define the international order in the coming months.
 articles:
+  - title: Noam Chomsky's wife responds to Epstein controversy
+    url: https://www.aaronmate.net/p/noam-chomskys-wife-responds-to-epstein
+    text: 'Note: Noam Chomsky’s friendship with Jeffrey Epstein has become the source
+      of controversy. After suffering a severe stroke in June 2023, Chomsky is unable
+      to comment on it. His wife Valeria has responded to questions surrounding their
+      contacts with Epstein in the statement below. I am publishing it here, with minor
+      typographical corrections. Statement from Valéria Chomsky As many are aware, my
+      husband, Noam Chomsky, now 97, is confronting significant health challenges after
+      suffering a devastating stroke in June 2023. Currently, Noam is under 24/7 medical
+      care and is completely unable to speak or engage in public discourse. Since this
+      health crisis, I have been entirely absorbed in Noam’s treatment and recovery,
+      solely responsible for him and his medical treatment. Noam and I don’t have any
+      kind of public relations assistance. For this reason, only now have I been able
+      to address the matter of our contacts with Jeffrey Epstein. Noam and I have felt
+      a profound weight regarding the unresolved questions surrounding our past interactions
+      with Epstein. We do not wish to leave this chapter shrouded in ambiguity. Throughout
+      his life, Noam has insisted that intellectuals have a responsibility to speak
+      the truth and expose lies — especially when those truths are uncomfortable to
+      themselves. As is widely known, one of Noam’s characteristics is to believe in
+      the good faith of people. Noam’s overly trust[ing] nature, in this specific case,
+      led to severe poor judgment on both our parts. Questions have rightly been raised
+      about Noam’s meetings with Epstein, and about administrative assistance his office
+      provided regarding a private financial matter—one that had absolutely no relation
+      to any of Epstein’s criminal conduct. Noam and I were introduced to Epstein at
+      the same time, during one of Noam’s professional events in 2015, when Epstein’s
+      2008 conviction in the State of Florida was known by very few people, while most
+      of the public – including Noam and I – was unaware of it. That only changed after
+      the November 2018 report by Miami Herald. When we were introduced to Epstein,
+      he presented himself as a philanthropist of science and a financial expert. By
+      presenting himself this way, Epstein gained Noam’s attention, and they began corresponding.
+      Unknowingly, we opened a door to a Trojan horse. Epstein began to encircle Noam,
+      sending gifts and creating opportunities for interesting discussions in areas
+      Noam has been working on extensively. We regret that we did not perceive this
+      as a strategy to ensnare us and to try to undermine the causes Noam stands for.
+      We had lunch, at Epstein’s ranch, once, in connection with a professional event;
+      we attended dinners at his townhouse in Manhattan and stayed a few times in an
+      apartment he offered when we visited New York City. We also visited Epstein’s
+      Paris apartment one afternoon for the occasion of a work trip. In all cases, these
+      visits were related to Noam’s professional commitments. We never went to his island
+      or knew about anything that happened there. We attended social meetings, lunches,
+      and dinners where Epstein was present and academic matters were discussed. We
+      never witnessed any inappropriate, criminal, or reproachable behavior from Epstein
+      or others. At no time did we see children or underage individuals present. Epstein
+      proposed meetings between Noam and figures that Noam had interest in, due to their
+      different perspectives on themes related to Noam’s work and thought. It was in
+      this academic context that Noam wrote a letter of recommendation. Noam’s email
+      to Epstein, in which Epstein sought advice about the press, should be read in
+      context. Epstein had claimed to Noam that he [Epstein] was being unfairly persecuted,
+      and Noam spoke from his own experience in political controversies with the media.
+      Epstein created a manipulative narrative about his case, which Noam, in good faith,
+      believed in. It is now clear that it was all orchestrated, having as, at least,
+      one of Epstein’s intentions to try to have someone like Noam repairing Epstein’s
+      reputation by association. Noam’s criticism was never directed at the women’s
+      movement; on the contrary, he has always supported gender equity and women’s rights.
+      What happened was that Epstein took advantage of Noam’s public criticism towards
+      what came to be known as “cancel culture” to present himself as a victim of it.
+      Only after Epstein’s second arrest in [July] 2019 did we learn the full extent
+      and gravity of what were then accusations—and are now confirmed—heinous crimes
+      against women and children. We were careless in not thoroughly researching his
+      background. This was a grave mistake, and for that lapse in judgment, I apologize
+      on behalf of both of us. Noam shared with me, before his stroke, that he felt
+      the same way. In 2023, Noam’s initial public response to inquiries about Epstein
+      failed to adequately acknowledge the gravity of Epstein’s crimes and the enduring
+      pain of his victims, primarily because Noam took it as obvious that he condemned
+      such crimes. However, a firm and explicit stance on such matters is always required.
+      It was deeply disturbing for both of us to realize we had engaged with someone
+      who presented as a helpful friend but led a hidden life of criminal, inhumane,
+      and perverted acts. Since the revelation of the extent of his crimes, we have
+      been shocked. In order to clarify the check: Epstein asked Noam to develop a linguistic
+      challenge that Epstein wished to establish as a regular prize. Noam worked on
+      it, and Epstein sent a check for US$20,000 as payment. Epstein’s office contacted
+      me to arrange for the check to be sent to our home address. Regarding the reported
+      transfer of approximately $270,000, I must clarify that these were entirely Noam’s
+      own funds. At the time, Noam had identified inconsistencies in his retirement
+      resources that threatened his economic independence and caused him great distress.
+      Epstein offered technical assistance to resolve this specific situation. On this
+      matter, Epstein acted accordingly, recovering the funds for Noam, in a display
+      of help and very likely as part of a machination to gain greater access to Noam.
+      Epstein acted solely as a financial advisor for this specific matter. To the best
+      of my knowledge, Epstein never had access to our bank or investment accounts.
+      It is also important to clarify that Noam and I never had any investments with
+      Epstein or his office—individually or as a couple. I hope this retrospectively
+      clarifies and explains Noam Chomsky’s interactions with Epstein. Noam and I recognize
+      the gravity of Jeffrey Epstein’s crimes and the profound suffering of his victims.
+      Nothing in this statement is intended to minimize that suffering, and we express
+      our unrestricted solidarity with the victims. February 7, 2026. Valéria Chomsky'
+    one_sentence_summary: Noam Chomsky's friendship with Jeffrey Epstein has sparked
+      controversy, but due to his severe health issues following a stroke in June 2023,
+      his wife Valeria has addressed the situation on his behalf, emphasizing her focus
+      on his care and their lack of public relations support.
+    paragraph_summary: Noam Chomsky's friendship with Jeffrey Epstein has sparked controversy,
+      particularly following Chomsky's severe stroke in June 2023, which has left him
+      unable to speak or engage publicly. His wife, Valeria Chomsky, has addressed inquiries
+      regarding their past interactions with Epstein, emphasizing that they have felt
+      a significant burden regarding the unresolved nature of these contacts. She acknowledges
+      that Noam's trusting nature led to poor judgment in their dealings with Epstein,
+      which began in 2015 when many, including themselves, were unaware of Epstein's
+      criminal history. Valeria clarifies that the administrative assistance provided
+      by Noam's office was related to a private financial matter and had no connection
+      to Epstein's criminal activities.
+    published: '2026-02-08T04:36:52+00:00'
+  - title: Noam Chomsky's wife responds to Epstein controversy
+    url: https://www.aaronmate.net/p/noam-chomskys-wife-responds-to-epstein
+    text: 'Note: Noam Chomsky’s friendship with Jeffrey Epstein has become the source
+      of controversy. After suffering a severe stroke in June 2023, Chomsky is unable
+      to comment on it. His wife Valeria has responded to questions surrounding their
+      contacts with Epstein in the statement below. I am publishing it here, with minor
+      typographical corrections. Statement from Valéria Chomsky As many are aware, my
+      husband, Noam Chomsky, now 97, is confronting significant health challenges after
+      suffering a devastating stroke in June 2023. Currently, Noam is under 24/7 medical
+      care and is completely unable to speak or engage in public discourse. Since this
+      health crisis, I have been entirely absorbed in Noam’s treatment and recovery,
+      solely responsible for him and his medical treatment. Noam and I don’t have any
+      kind of public relations assistance. For this reason, only now have I been able
+      to address the matter of our contacts with Jeffrey Epstein. Noam and I have felt
+      a profound weight regarding the unresolved questions surrounding our past interactions
+      with Epstein. We do not wish to leave this chapter shrouded in ambiguity. Throughout
+      his life, Noam has insisted that intellectuals have a responsibility to speak
+      the truth and expose lies — especially when those truths are uncomfortable to
+      themselves. As is widely known, one of Noam’s characteristics is to believe in
+      the good faith of people. Noam’s overly trust[ing] nature, in this specific case,
+      led to severe poor judgment on both our parts. Questions have rightly been raised
+      about Noam’s meetings with Epstein, and about administrative assistance his office
+      provided regarding a private financial matter—one that had absolutely no relation
+      to any of Epstein’s criminal conduct. Noam and I were introduced to Epstein at
+      the same time, during one of Noam’s professional events in 2015, when Epstein’s
+      2008 conviction in the State of Florida was known by very few people, while most
+      of the public – including Noam and I – was unaware of it. That only changed after
+      the November 2018 report by Miami Herald. When we were introduced to Epstein,
+      he presented himself as a philanthropist of science and a financial expert. By
+      presenting himself this way, Epstein gained Noam’s attention, and they began corresponding.
+      Unknowingly, we opened a door to a Trojan horse. Epstein began to encircle Noam,
+      sending gifts and creating opportunities for interesting discussions in areas
+      Noam has been working on extensively. We regret that we did not perceive this
+      as a strategy to ensnare us and to try to undermine the causes Noam stands for.
+      We had lunch, at Epstein’s ranch, once, in connection with a professional event;
+      we attended dinners at his townhouse in Manhattan and stayed a few times in an
+      apartment he offered when we visited New York City. We also visited Epstein’s
+      Paris apartment one afternoon for the occasion of a work trip. In all cases, these
+      visits were related to Noam’s professional commitments. We never went to his island
+      or knew about anything that happened there. We attended social meetings, lunches,
+      and dinners where Epstein was present and academic matters were discussed. We
+      never witnessed any inappropriate, criminal, or reproachable behavior from Epstein
+      or others. At no time did we see children or underage individuals present. Epstein
+      proposed meetings between Noam and figures that Noam had interest in, due to their
+      different perspectives on themes related to Noam’s work and thought. It was in
+      this academic context that Noam wrote a letter of recommendation. Noam’s email
+      to Epstein, in which Epstein sought advice about the press, should be read in
+      context. Epstein had claimed to Noam that he [Epstein] was being unfairly persecuted,
+      and Noam spoke from his own experience in political controversies with the media.
+      Epstein created a manipulative narrative about his case, which Noam, in good faith,
+      believed in. It is now clear that it was all orchestrated, having as, at least,
+      one of Epstein’s intentions to try to have someone like Noam repairing Epstein’s
+      reputation by association. Noam’s criticism was never directed at the women’s
+      movement; on the contrary, he has always supported gender equity and women’s rights.
+      What happened was that Epstein took advantage of Noam’s public criticism towards
+      what came to be known as “cancel culture” to present himself as a victim of it.
+      Only after Epstein’s second arrest in [July] 2019 did we learn the full extent
+      and gravity of what were then accusations—and are now confirmed—heinous crimes
+      against women and children. We were careless in not thoroughly researching his
+      background. This was a grave mistake, and for that lapse in judgment, I apologize
+      on behalf of both of us. Noam shared with me, before his stroke, that he felt
+      the same way. In 2023, Noam’s initial public response to inquiries about Epstein
+      failed to adequately acknowledge the gravity of Epstein’s crimes and the enduring
+      pain of his victims, primarily because Noam took it as obvious that he condemned
+      such crimes. However, a firm and explicit stance on such matters is always required.
+      It was deeply disturbing for both of us to realize we had engaged with someone
+      who presented as a helpful friend but led a hidden life of criminal, inhumane,
+      and perverted acts. Since the revelation of the extent of his crimes, we have
+      been shocked. In order to clarify the check: Epstein asked Noam to develop a linguistic
+      challenge that Epstein wished to establish as a regular prize. Noam worked on
+      it, and Epstein sent a check for US$20,000 as payment. Epstein’s office contacted
+      me to arrange for the check to be sent to our home address. Regarding the reported
+      transfer of approximately $270,000, I must clarify that these were entirely Noam’s
+      own funds. At the time, Noam had identified inconsistencies in his retirement
+      resources that threatened his economic independence and caused him great distress.
+      Epstein offered technical assistance to resolve this specific situation. On this
+      matter, Epstein acted accordingly, recovering the funds for Noam, in a display
+      of help and very likely as part of a machination to gain greater access to Noam.
+      Epstein acted solely as a financial advisor for this specific matter. To the best
+      of my knowledge, Epstein never had access to our bank or investment accounts.
+      It is also important to clarify that Noam and I never had any investments with
+      Epstein or his office—individually or as a couple. I hope this retrospectively
+      clarifies and explains Noam Chomsky’s interactions with Epstein. Noam and I recognize
+      the gravity of Jeffrey Epstein’s crimes and the profound suffering of his victims.
+      Nothing in this statement is intended to minimize that suffering, and we express
+      our unrestricted solidarity with the victims. February 7, 2026. Valéria Chomsky'
+    one_sentence_summary: Noam Chomsky's friendship with Jeffrey Epstein has sparked
+      controversy, but due to his severe health issues following a stroke in June 2023,
+      his wife Valeria has addressed the situation on his behalf, emphasizing her focus
+      on his care and their lack of public relations support.
+    paragraph_summary: Noam Chomsky's friendship with Jeffrey Epstein has sparked controversy,
+      particularly following Chomsky's severe stroke in June 2023, which has left him
+      unable to speak or engage publicly. His wife, Valeria Chomsky, has addressed inquiries
+      regarding their past interactions with Epstein, emphasizing that they have felt
+      a significant burden regarding the unresolved nature of these contacts. She acknowledges
+      that Noam's trusting nature led to poor judgment in their dealings with Epstein,
+      which began in 2015 when many, including themselves, were unaware of Epstein's
+      criminal history. Valeria clarifies that the administrative assistance provided
+      by Noam's office was related to a private financial matter and had no connection
+      to Epstein's criminal activities.
+    published: '2026-02-08T04:36:52+00:00'
+  - title: In nuclear race with Russia, Trump goes back to a Cold War future
+    url: https://www.aaronmate.net/p/in-nuclear-race-with-russia-trump
+    text: (Photo by ANDREW CABALLERO-REYNOLDS/AFP via Getty Images) As if the lingering
+      prospect of a new attack on Iran is not dangerous enough, the Trump administration
+      is toying with a greater threat to global security. With Thursday’s expiration
+      of the New START treaty, the US and Russia no longer have any legal constraints
+      on their arsenals of nuclear weapons. President Trump let the treaty collapse
+      rather than accept a Kremlin offer to extend for one year, the maximum possible.
+      This removes the last formal constraint on a renewed arms race between two states
+      that already can destroy the world many times over. There are unconfirmed reports
+      that the two sides have reached an informal understanding to observe the treaty’s
+      terms for at least six months. And, in a rare sign of progress, Moscow and Washington
+      have announced a resumption of high-level military-to-military dialogue. The Biden
+      administration suspended those contacts in late 2021 as Russia built up its forces
+      on Ukraine’s borders. Yet the news is far from reassuring. Read more
+    one_sentence_summary: The expiration of the New START treaty under the Trump administration
+      has removed legal constraints on US and Russian nuclear arsenals, heightening
+      the risk of a renewed arms race, although there are unconfirmed reports of an
+      informal understanding to maintain treaty terms temporarily and a resumption of
+      military dialogue between the two nations.
+    paragraph_summary: The expiration of the New START treaty has removed legal constraints
+      on the nuclear arsenals of the US and Russia, raising concerns about a potential
+      arms race between the two nations. The Trump administration allowed the treaty
+      to lapse instead of accepting a one-year extension offered by Russia, which has
+      heightened global security risks. Although there are unconfirmed reports of an
+      informal understanding to uphold the treaty's terms for six months and a resumption
+      of high-level military dialogue between Moscow and Washington, the overall situation
+      remains precarious and far from reassuring, especially in light of ongoing tensions
+      related to Ukraine.
+    published: '2026-02-06T17:43:40+00:00'
+  - title: In nuclear race with Russia, Trump goes back to a Cold War future
+    url: https://www.aaronmate.net/p/in-nuclear-race-with-russia-trump
+    text: (Photo by ANDREW CABALLERO-REYNOLDS/AFP via Getty Images) As if the lingering
+      prospect of a new attack on Iran is not dangerous enough, the Trump administration
+      is toying with a greater threat to global security. With Thursday’s expiration
+      of the New START treaty, the US and Russia no longer have any legal constraints
+      on their arsenals of nuclear weapons. President Trump let the treaty collapse
+      rather than accept a Kremlin offer to extend for one year, the maximum possible.
+      This removes the last formal constraint on a renewed arms race between two states
+      that already can destroy the world many times over. There are unconfirmed reports
+      that the two sides have reached an informal understanding to observe the treaty’s
+      terms for at least six months. And, in a rare sign of progress, Moscow and Washington
+      have announced a resumption of high-level military-to-military dialogue. The Biden
+      administration suspended those contacts in late 2021 as Russia built up its forces
+      on Ukraine’s borders. Yet the news is far from reassuring. Read more
+    one_sentence_summary: The expiration of the New START treaty under the Trump administration
+      has removed legal constraints on US and Russian nuclear arsenals, heightening
+      the risk of a renewed arms race, although there are unconfirmed reports of an
+      informal understanding to maintain treaty terms temporarily and a resumption of
+      military dialogue between the two nations.
+    paragraph_summary: The expiration of the New START treaty has removed legal constraints
+      on the nuclear arsenals of the US and Russia, raising concerns about a potential
+      arms race between the two nations. The Trump administration allowed the treaty
+      to lapse instead of accepting a one-year extension offered by Russia, which has
+      heightened global security risks. Although there are unconfirmed reports of an
+      informal understanding to uphold the treaty's terms for six months and a resumption
+      of high-level military dialogue between Moscow and Washington, the overall situation
+      remains precarious and far from reassuring, especially in light of ongoing tensions
+      related to Ukraine.
+    published: '2026-02-06T17:43:40+00:00'
   - title: Trump’s “help” offers Iranians far more pain
     url: https://www.aaronmate.net/p/trumps-help-offers-iranians-far-more
     text: '(Photo by Fatemeh Bahrami/Anadolu via Getty Images) After campaigning as

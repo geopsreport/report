@@ -7,14 +7,1146 @@ description: "Australian satirical anti–war journalist; reader–funded Substa
 websites:
   - https://www.caitlinjohnst.one/
 summary: |
-  The past 24 hours have seen a continued focus on the fallout from the release of the Epstein files, with new analysis underscoring the entrenched nature of Western power structures and media narratives. **Caitlin Johnstone** asserts that, despite public outrage and political posturing, “no significant actions or changes will result from the Epstein files,” emphasizing that the existing elite remain “unaltered and unaccountable.” This sentiment is widely echoed across independent analysis, with a high degree of confidence that institutional inertia will prevail and that meaningful accountability is “most definitely” not forthcoming.
+  As global discontent intensifies, recent independent analyses highlight a deepening crisis of legitimacy and accountability among Western leaders and institutions. **Caitlin Johnstone** argues that current leaders are fundamentally incapable of addressing core societal issues, not due to lack of resources but because of a systemic prioritization of profit and power over genuine change. This perspective is gaining traction as public trust in traditional governance continues to erode.
   
-  Simultaneously, there is growing scrutiny of Western media’s portrayal of the Epstein affair. **Caitlin Johnstone** highlights a coordinated effort by major outlets to frame Epstein as a Russian agent, despite documents suggesting Israeli intelligence links. She points to sensational headlines in the Daily Mail and The Telegraph as evidence of this narrative management, suggesting that the intent is to deflect attention from uncomfortable truths about Western intelligence operations. The majority view among analysts is that this media spin is deliberate and “most definitely” aimed at protecting core Western interests.
+  In Australia, the fallout from the state visit of Israel’s president has escalated. Authorities, fully aware of the potential for unrest, proceeded with the invitation, resulting in violent police crackdowns on peaceful anti-genocide demonstrators. **Johnstone** notes that these actions were not isolated incidents but part of a broader pattern of suppressing dissent, with police targeting individuals who posed no threat. This episode has intensified scrutiny of Australia’s alignment with controversial foreign policy decisions and its willingness to use force against its own citizens.
   
-  On the domestic front, a viral video of a delivery robot navigating around a homeless man has sparked debate about the intersection of technology, corporate priorities, and social neglect. **Tim Foley** interprets the scene as “a stark representation of modern western civilization’s troubling intersection of suffering, apathy, and corporate greed.” This incident is being widely discussed as emblematic of broader systemic indifference to social issues, reinforcing the perception of a society increasingly shaped by technological advancement at the expense of human welfare.
+  Meanwhile, the international community faces renewed criticism for its open complicity in global injustices. As **Tim Foley** observes, powerful nations are no longer hiding their aggressive actions—ranging from resource exploitation to military interventions and nuclear threats—but are instead conducting them openly, with little fear of meaningful reprisal. This normalization of overtly destructive policies signals a shift in the global order, where accountability is increasingly absent.
   
-  In summary, the dominant trends are a deepening public cynicism regarding elite accountability, intensified media manipulation of controversial narratives, and a growing awareness of the social costs of technological progress. Looking ahead, it is “most definitely” expected that institutional resistance to change will persist, media narratives will continue to be tightly managed, and public frustration with systemic inequality and neglect will remain high.
+  Looking ahead, the prevailing trend is one of deepening cynicism toward established power structures. There is a high chance, as **Johnstone** suggests, that without a radical shift in priorities or leadership, these patterns of repression and impunity will persist. Most definitely, public unrest and demands for systemic change will continue to grow, but the likelihood of substantive reform remains low under current conditions. The system, as it stands, appears to be functioning exactly as intended—for the benefit of those already in power.
 articles:
+  - title: Our Leaders Couldn't Fix Our Problems If They Wanted To (And They Don't Want
+      To)
+    url: https://www.caitlinjohnst.one/p/our-leaders-couldnt-fix-our-problems
+    text: 'Reading by Tim Foley : Subscribe now Our leaders are not going to fix the
+      worst problems in our world. They couldn’t if they wanted to. And they don’t want
+      to. Our leaders are not wise or insightful. They’re not even particularly intelligent.
+      Our society is led by plutocrats who only know how to make more money, by unelected
+      empire managers who only know how to dominate and control, and by elected politicians
+      who only know how to say the right words and make the right bargains in order
+      to get themselves elected. These people are not capable of curing our civilization
+      of its dysfunction. They don’t have the necessary skills or attributes. Even if
+      they weren’t a bunch of evil sociopaths who are only in the positions they’re
+      in because of their willingness to collaborate with the agendas of oligarchy,
+      war, militarism, imperialism, ecocide, exploitation, oppression and planetary
+      domination, they don’t even have the personal characteristics necessary to do
+      things like end poverty, rescue our biosphere, bring about world peace or give
+      rise to human thriving. They’d have no idea where to start. I say this because
+      as I watch Americans and Australians falling all over themselves to justify the
+      recent police brutality in our respective nations, I am struck by how many people
+      still believe our society is run by leaders who more or less know what they are
+      doing and will guide us to more or less where we need to be. They view their government
+      as a wise and beneficent father who knows what’s best for all of us, and they
+      believe anyone who disagrees with Daddy is being naughty. That’s really all it
+      is. They’ll make up all sorts of justifications and excuses, but ultimately their
+      police apologia arises from an infantile worldview which believes the authorities
+      are right for no other reason than because they are in authority. They begin with
+      their tongue on the boot of power, and then they make up reasons for why their
+      tongue needs to be there. That’s the worldview that gets a lot of people through
+      their day. Believing our society is basically just and decent, and that we don’t
+      need to concern ourselves with the world’s problems because we’ve got highly qualified
+      leaders working hard at fixing them. Believing our society is just and decent
+      allows one to relax under the assumption that they deserve all the comforts they
+      have in life and that the system will never turn against them. If someone is killed
+      by police, or is impoverished or imprisoned or homeless, then it’s because they
+      did something wrong and immoral, and all you need to do to avoid the same fate
+      is follow the rules and make ethical choices. Under a just and decent system,
+      good things happen to good people and bad things happen to bad people, so all
+      you need to do is be good and you’ll be fine, and if things are going badly for
+      you it’s because you deserve it. Believing we’ve got highly qualified leaders
+      working on our world’s problems allows one to relax under the assumption that
+      everything’s taken care of. There’s no need to concern ourselves with all the
+      information which tells us we’re plunging deeper and deeper into tyrannical dystopia
+      on a collision course with environmental catastrophe under a globe-spanning empire
+      that is fueled by human blood, because Daddy’s got it all taken care of. Really
+      these are just juvenile fairy tales designed to help us psychologically compartmentalize
+      away from uncomfortable realities; no grown adult has any business believing them.
+      But a lot of people would do anything to avoid internal discomfort. Entire psychological
+      universes are constructed around the unconscious agenda of not feeling unpleasant
+      feelings. Daddy’s not gonna save us, kiddos. Daddy’s a serial killer with dead
+      bodies in the attic, and many important parts of his brain are missing. Our problems
+      aren’t going to get fixed until we get rid of Daddy. Getting rid of Daddy means
+      forcibly getting rid of the entire system under which we live and replacing it
+      with something that serves the interests of ordinary human beings. Bootlickers
+      hate revolutionary politics, because it is diametrically opposed to their infantile
+      worldview of paternalistic government deities. But things aren’t going to get
+      better until we find a way to get the steering wheel of our world out of the hands
+      of the people who are currently in charge. Until then, everything’s just going
+      to keep getting worse. ________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Anthony Albanese/Instagram
+      .'
+    one_sentence_summary: The article argues that current leaders are incapable of addressing
+      society's most pressing issues due to their lack of wisdom, intelligence, and
+      genuine desire for change, as they are primarily motivated by profit and power.
+    paragraph_summary: In his article, Tim Foley argues that our leaders are fundamentally
+      incapable of addressing the significant issues facing society, as they are primarily
+      driven by self-interest and a desire for power rather than genuine wisdom or intelligence.
+      He describes them as plutocrats, empire managers, and opportunistic politicians
+      who lack the necessary skills and moral character to enact meaningful change,
+      such as ending poverty or protecting the environment. Foley critiques the blind
+      faith many people have in these authorities, likening it to an infantile worldview
+      that justifies police brutality and other injustices by adhering to the belief
+      that those in power inherently know what is best for society. Ultimately, he suggests
+      that this misplaced trust in authority hinders progress and perpetuates societal
+      dysfunction.
+    published: '2026-02-11T01:28:59+00:00'
+  - title: Our Leaders Couldn't Fix Our Problems If They Wanted To (And They Don't Want
+      To)
+    url: https://www.caitlinjohnst.one/p/our-leaders-couldnt-fix-our-problems
+    text: 'Reading by Tim Foley : Subscribe now Our leaders are not going to fix the
+      worst problems in our world. They couldn’t if they wanted to. And they don’t want
+      to. Our leaders are not wise or insightful. They’re not even particularly intelligent.
+      Our society is led by plutocrats who only know how to make more money, by unelected
+      empire managers who only know how to dominate and control, and by elected politicians
+      who only know how to say the right words and make the right bargains in order
+      to get themselves elected. These people are not capable of curing our civilization
+      of its dysfunction. They don’t have the necessary skills or attributes. Even if
+      they weren’t a bunch of evil sociopaths who are only in the positions they’re
+      in because of their willingness to collaborate with the agendas of oligarchy,
+      war, militarism, imperialism, ecocide, exploitation, oppression and planetary
+      domination, they don’t even have the personal characteristics necessary to do
+      things like end poverty, rescue our biosphere, bring about world peace or give
+      rise to human thriving. They’d have no idea where to start. I say this because
+      as I watch Americans and Australians falling all over themselves to justify the
+      recent police brutality in our respective nations, I am struck by how many people
+      still believe our society is run by leaders who more or less know what they are
+      doing and will guide us to more or less where we need to be. They view their government
+      as a wise and beneficent father who knows what’s best for all of us, and they
+      believe anyone who disagrees with Daddy is being naughty. That’s really all it
+      is. They’ll make up all sorts of justifications and excuses, but ultimately their
+      police apologia arises from an infantile worldview which believes the authorities
+      are right for no other reason than because they are in authority. They begin with
+      their tongue on the boot of power, and then they make up reasons for why their
+      tongue needs to be there. That’s the worldview that gets a lot of people through
+      their day. Believing our society is basically just and decent, and that we don’t
+      need to concern ourselves with the world’s problems because we’ve got highly qualified
+      leaders working hard at fixing them. Believing our society is just and decent
+      allows one to relax under the assumption that they deserve all the comforts they
+      have in life and that the system will never turn against them. If someone is killed
+      by police, or is impoverished or imprisoned or homeless, then it’s because they
+      did something wrong and immoral, and all you need to do to avoid the same fate
+      is follow the rules and make ethical choices. Under a just and decent system,
+      good things happen to good people and bad things happen to bad people, so all
+      you need to do is be good and you’ll be fine, and if things are going badly for
+      you it’s because you deserve it. Believing we’ve got highly qualified leaders
+      working on our world’s problems allows one to relax under the assumption that
+      everything’s taken care of. There’s no need to concern ourselves with all the
+      information which tells us we’re plunging deeper and deeper into tyrannical dystopia
+      on a collision course with environmental catastrophe under a globe-spanning empire
+      that is fueled by human blood, because Daddy’s got it all taken care of. Really
+      these are just juvenile fairy tales designed to help us psychologically compartmentalize
+      away from uncomfortable realities; no grown adult has any business believing them.
+      But a lot of people would do anything to avoid internal discomfort. Entire psychological
+      universes are constructed around the unconscious agenda of not feeling unpleasant
+      feelings. Daddy’s not gonna save us, kiddos. Daddy’s a serial killer with dead
+      bodies in the attic, and many important parts of his brain are missing. Our problems
+      aren’t going to get fixed until we get rid of Daddy. Getting rid of Daddy means
+      forcibly getting rid of the entire system under which we live and replacing it
+      with something that serves the interests of ordinary human beings. Bootlickers
+      hate revolutionary politics, because it is diametrically opposed to their infantile
+      worldview of paternalistic government deities. But things aren’t going to get
+      better until we find a way to get the steering wheel of our world out of the hands
+      of the people who are currently in charge. Until then, everything’s just going
+      to keep getting worse. ________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Anthony Albanese/Instagram
+      .'
+    one_sentence_summary: The article argues that current leaders are incapable of addressing
+      society's most pressing issues due to their lack of wisdom, intelligence, and
+      genuine desire for change, as they are primarily motivated by profit and power.
+    paragraph_summary: In his article, Tim Foley argues that our leaders are fundamentally
+      incapable of addressing the significant issues facing society, as they are primarily
+      driven by self-interest and a desire for power rather than genuine wisdom or intelligence.
+      He describes them as plutocrats, empire managers, and opportunistic politicians
+      who lack the necessary skills and moral character to enact meaningful change,
+      such as ending poverty or protecting the environment. Foley critiques the blind
+      faith many people have in these authorities, likening it to an infantile worldview
+      that justifies police brutality and other injustices by adhering to the belief
+      that those in power inherently know what is best for society. Ultimately, he suggests
+      that this misplaced trust in authority hinders progress and perpetuates societal
+      dysfunction.
+    published: '2026-02-11T01:28:59+00:00'
+  - title: In Australia The Police Beat You Up For Opposing Genocide
+    url: https://www.caitlinjohnst.one/p/in-australia-the-police-beat-you
+    text: 'Reading by Tim Foley : Subscribe now Australian authorities were fully aware
+      that inviting Israel’s president for a visit was going to ignite unrest and furious
+      opposition. They invited him anyway, and sent in the police to assault the protesters.
+      I saw a video of two cops pinning a kid in a keffiyeh face down on the ground
+      and proceeding to punch him over and over again long after he’d been subdued.
+      I saw another video of police repeatedly punching a middle-aged man who was holding
+      his hands in the air until he fell to the ground. I saw another video of police
+      repeatedly pepper spraying a demonstrator directly in the face as he was visibly
+      complying with their demands to move and providing no resistance whatsoever. I
+      saw another video of police manhandling Muslim men who were literally on their
+      knees praying, presenting no possible threat of any kind. That’s right kids, welcome
+      to Australia, where the government invites the head of a genocidal apartheid state
+      for a happy cuddle party and then beats the shit out of anyone who opposes this.
+      It’s a testament to the courage and vitality of the pro-Palestine movement in
+      Australia that people keep showing up to anti-genocide protests even as authorities
+      do everything they can to create a chilling effect on them. After all, this happens
+      as the state of Queensland moves to make it illegal to utter the pro-Palestine
+      phrases “from the river to the sea” or “globalise the intifada”, with violations
+      punishable by two years in prison. This is easily the single most bat shit insane
+      speech suppression legislation in Australian history, and that’s an extremely
+      high bar. To be clear, not one person sincerely believes that “from the river
+      to the sea, Palestine will be free” is a genocidal or antisemitic statement. This
+      is one of those many, many instances in which Israel supporters are pretending
+      to believe something they do not actually believe in order to further outlaw criticism
+      of Israel. They’re trying to make it so that nobody feels comfortable opposing
+      Israel’s abuses without first consulting with a lawyer about what exactly they
+      are legally permitted to say in that moment, thereby throwing a chilling effect
+      on pro-Palestine activism throughout the nation. This comes weeks after the Australian
+      government passed frightening new “hate speech” laws in the name of “combatting
+      antisemitism” which will make it much easier to designate activist groups as “hate
+      groups”. Australian officials have conspicuously refused to say that the new laws
+      will not be used to ban groups for speech that is critical of Israel, which tells
+      you all you need to know about the real intentions at work here. This also comes
+      as the state of New South Wales cracks down on protests with extreme aggression,
+      banning protests in certain areas and seeking to outlaw the use of the phrase
+      “globalise the intifada” to appease Australia’s obscenely powerful Israel lobby
+      . Premier Chris Minns is presently defending the actions of the police he sent
+      in to crack skulls at the Herzog protests on Monday. Just two months ago a prominent
+      member of the Australian Israel lobby publicly announced that he wants a total
+      ban on pro-Palestine protests throughout the nation, and said it is criticism
+      of Israel that is the problem, not just hatred toward Jews. Joel Burnie, Executive
+      Manager of the Australia/Israel & Jewish Affairs Council (AIJAC), explicitly said
+      that what he wants is “No more protests! No more protests!” in Australia. “I for
+      one as a Jewish leader will no long talk about antisemitism in isolation from
+      Israel, because it’s the rhetoric and language on Israel that motivates the people
+      to come and kill us,” Burnie said during a video conference, later adding that
+      “ language on Israel invading all of our social spaces in Australia have made
+      this country a very unsafe space and place for Jews.” Increment by increment,
+      Joel Burnie and his ilk have been getting their wish ever since. Australian civil
+      rights are indeed being disintegrated to protect the information interests of
+      a genocidal apartheid state. As I often remind readers, Australia is the only
+      so-called democracy in the world which has no national charter or bill of rights
+      of any kind . A tremendous amount of faith has been placed in state and federal
+      legislators to simply do the right thing, which has proved foolish and ineffective.
+      Professor George Williams wrote for the Melbourne University Law Review in 2006:
+      “Australia is now the only democratic nation in the world without a national bill
+      of rights. Some comprehensive form of legal protection for basic rights is otherwise
+      seen as an essential check and balance in democratic governance around the world.
+      Indeed, I can find no example of a democratic nation that has gained a new Constitution
+      or legal system in recent decades that has not included some form of a bill of
+      rights, nor am I aware of any such nation that has done away with a bill of rights
+      once it has been put in place.” This system plainly does not work. Australians
+      desperately need speech protections enshrined in our Constitution, because we
+      cannot trust our leaders to resist efforts to silence us whenever our speech becomes
+      inconvenient to powerful people and influential lobbying groups. The more aggressively
+      they fight to silence us, the louder we need to become. It is more necessary to
+      oppose Israel and its supporters than ever before, because now they’re coming
+      after us and our rights. It’s not just about opposing genocide, war and apartheid
+      anymore. It’s about fighting for our own rights and our own future. _______________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: Australian authorities knowingly invited Israel's president
+      despite anticipating unrest, leading to violent police actions against peaceful
+      protesters, including assaults on individuals who posed no threat.
+    paragraph_summary: Australian authorities knowingly invited Israel's president for
+      a visit, anticipating significant unrest and opposition, which led to violent
+      police actions against protesters. Videos surfaced showing police brutality, including
+      assaults on demonstrators who posed no threat, such as a kneeling man praying
+      and a compliant individual being pepper-sprayed. This crackdown on dissent coincides
+      with Queensland's controversial legislation aimed at criminalizing pro-Palestine
+      expressions, such as the phrases "from the river to the sea" and "globalise the
+      intifada," punishable by up to two years in prison. Critics argue that this represents
+      an extreme form of speech suppression, as the statements in question are not genuinely
+      viewed as genocidal or antisemitic by the majority, but are instead targeted to
+      silence criticism of Israel. Despite these oppressive measures, the pro-Palestine
+      movement in Australia continues to demonstrate resilience and courage in the face
+      of government repression.
+    published: '2026-02-10T02:19:34+00:00'
+  - title: In Australia The Police Beat You Up For Opposing Genocide
+    url: https://www.caitlinjohnst.one/p/in-australia-the-police-beat-you
+    text: 'Reading by Tim Foley : Subscribe now Australian authorities were fully aware
+      that inviting Israel’s president for a visit was going to ignite unrest and furious
+      opposition. They invited him anyway, and sent in the police to assault the protesters.
+      I saw a video of two cops pinning a kid in a keffiyeh face down on the ground
+      and proceeding to punch him over and over again long after he’d been subdued.
+      I saw another video of police repeatedly punching a middle-aged man who was holding
+      his hands in the air until he fell to the ground. I saw another video of police
+      repeatedly pepper spraying a demonstrator directly in the face as he was visibly
+      complying with their demands to move and providing no resistance whatsoever. I
+      saw another video of police manhandling Muslim men who were literally on their
+      knees praying, presenting no possible threat of any kind. That’s right kids, welcome
+      to Australia, where the government invites the head of a genocidal apartheid state
+      for a happy cuddle party and then beats the shit out of anyone who opposes this.
+      It’s a testament to the courage and vitality of the pro-Palestine movement in
+      Australia that people keep showing up to anti-genocide protests even as authorities
+      do everything they can to create a chilling effect on them. After all, this happens
+      as the state of Queensland moves to make it illegal to utter the pro-Palestine
+      phrases “from the river to the sea” or “globalise the intifada”, with violations
+      punishable by two years in prison. This is easily the single most bat shit insane
+      speech suppression legislation in Australian history, and that’s an extremely
+      high bar. To be clear, not one person sincerely believes that “from the river
+      to the sea, Palestine will be free” is a genocidal or antisemitic statement. This
+      is one of those many, many instances in which Israel supporters are pretending
+      to believe something they do not actually believe in order to further outlaw criticism
+      of Israel. They’re trying to make it so that nobody feels comfortable opposing
+      Israel’s abuses without first consulting with a lawyer about what exactly they
+      are legally permitted to say in that moment, thereby throwing a chilling effect
+      on pro-Palestine activism throughout the nation. This comes weeks after the Australian
+      government passed frightening new “hate speech” laws in the name of “combatting
+      antisemitism” which will make it much easier to designate activist groups as “hate
+      groups”. Australian officials have conspicuously refused to say that the new laws
+      will not be used to ban groups for speech that is critical of Israel, which tells
+      you all you need to know about the real intentions at work here. This also comes
+      as the state of New South Wales cracks down on protests with extreme aggression,
+      banning protests in certain areas and seeking to outlaw the use of the phrase
+      “globalise the intifada” to appease Australia’s obscenely powerful Israel lobby
+      . Premier Chris Minns is presently defending the actions of the police he sent
+      in to crack skulls at the Herzog protests on Monday. Just two months ago a prominent
+      member of the Australian Israel lobby publicly announced that he wants a total
+      ban on pro-Palestine protests throughout the nation, and said it is criticism
+      of Israel that is the problem, not just hatred toward Jews. Joel Burnie, Executive
+      Manager of the Australia/Israel & Jewish Affairs Council (AIJAC), explicitly said
+      that what he wants is “No more protests! No more protests!” in Australia. “I for
+      one as a Jewish leader will no long talk about antisemitism in isolation from
+      Israel, because it’s the rhetoric and language on Israel that motivates the people
+      to come and kill us,” Burnie said during a video conference, later adding that
+      “ language on Israel invading all of our social spaces in Australia have made
+      this country a very unsafe space and place for Jews.” Increment by increment,
+      Joel Burnie and his ilk have been getting their wish ever since. Australian civil
+      rights are indeed being disintegrated to protect the information interests of
+      a genocidal apartheid state. As I often remind readers, Australia is the only
+      so-called democracy in the world which has no national charter or bill of rights
+      of any kind . A tremendous amount of faith has been placed in state and federal
+      legislators to simply do the right thing, which has proved foolish and ineffective.
+      Professor George Williams wrote for the Melbourne University Law Review in 2006:
+      “Australia is now the only democratic nation in the world without a national bill
+      of rights. Some comprehensive form of legal protection for basic rights is otherwise
+      seen as an essential check and balance in democratic governance around the world.
+      Indeed, I can find no example of a democratic nation that has gained a new Constitution
+      or legal system in recent decades that has not included some form of a bill of
+      rights, nor am I aware of any such nation that has done away with a bill of rights
+      once it has been put in place.” This system plainly does not work. Australians
+      desperately need speech protections enshrined in our Constitution, because we
+      cannot trust our leaders to resist efforts to silence us whenever our speech becomes
+      inconvenient to powerful people and influential lobbying groups. The more aggressively
+      they fight to silence us, the louder we need to become. It is more necessary to
+      oppose Israel and its supporters than ever before, because now they’re coming
+      after us and our rights. It’s not just about opposing genocide, war and apartheid
+      anymore. It’s about fighting for our own rights and our own future. _______________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: Australian authorities knowingly invited Israel's president
+      despite anticipating unrest, leading to violent police actions against peaceful
+      protesters, including assaults on individuals who posed no threat.
+    paragraph_summary: Australian authorities knowingly invited Israel's president for
+      a visit, anticipating significant unrest and opposition, which led to violent
+      police actions against protesters. Videos surfaced showing police brutality, including
+      assaults on demonstrators who posed no threat, such as a kneeling man praying
+      and a compliant individual being pepper-sprayed. This crackdown on dissent coincides
+      with Queensland's controversial legislation aimed at criminalizing pro-Palestine
+      expressions, such as the phrases "from the river to the sea" and "globalise the
+      intifada," punishable by up to two years in prison. Critics argue that this represents
+      an extreme form of speech suppression, as the statements in question are not genuinely
+      viewed as genocidal or antisemitic by the majority, but are instead targeted to
+      silence criticism of Israel. Despite these oppressive measures, the pro-Palestine
+      movement in Australia continues to demonstrate resilience and courage in the face
+      of government repression.
+    published: '2026-02-10T02:19:34+00:00'
+  - title: If You Think Our Rulers Do Bad Things In Secret, Wait Til You See What They
+      Do Out In The Open
+    url: https://www.caitlinjohnst.one/p/if-you-think-our-rulers-do-bad-things
+    text: 'Reading by Tim Foley : Subscribe now They launched a live-streamed genocide
+      in full view of the entire world. They’re openly targeting civilian populations
+      with siege warfare in Iran and Cuba in full view of the entire world. They openly
+      kidnapped the president of a sovereign nation in full view of the entire world.
+      They deliberately provoked a horrific and dangerous proxy war in Ukraine in full
+      view of the entire world. They spent years actively backing Saudi Arabia’s monstrous
+      genocidal atrocities in Yemen in full view of the entire world. They’re plundering
+      and exploiting the resources and labor of the global south in full view of the
+      entire world. They’re killing the biosphere we all depend on for their own enrichment
+      in full view of the entire world. They’re circling the globe with hundreds of
+      military bases to secure planetary domination in full view of the entire world.
+      They engage in nuclear brinkmanship and wave around armageddon weapons like pistols
+      in full view of the entire world. People go homeless and die of exposure while
+      billionaires buy private islands and choose the next president in full view of
+      the entire world. Weapons manufacturers lobby for wars and then profit from the
+      death and destruction they cause in full view of the entire world. The president
+      of the United States has repeatedly admitted to being bought and owned by the
+      world’s richest Israeli in full view of the entire world. The US Treasury Secretary
+      has been repeatedly admitting that the US deliberately sparked the violence and
+      unrest in Iran by methodically immiserating the population via economic warfare,
+      in full view of the entire world. I keep seeing people freaking out and asking
+      how it’s possible that the individuals in the Epstein files haven’t been arrested
+      for their secret nefarious behavior. And I always want to ask them, mate, have
+      you seen the nefarious behavior they’re engaging in right out in the open? Pay
+      attention to the Epstein files. Pay attention to what little we can learn about
+      how these freaks conduct themselves behind closed doors. By all means, pay close
+      attention to these things. But don’t forget to also pay attention to the far greater
+      evils they are inflicting in full view of the entire world. _______________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. The best way to make sure
+      you see everything I write is to get on my free mailing list . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      social media, books, merch, and audio/video versions of each article . All my
+      work is free to bootleg and use in any way, shape or form; republish it, translate
+      it, use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image
+      by Jaber Jehad Badwan via Wikimedia Commons (CC BY-SA 4.0)'
+    one_sentence_summary: The article by Tim Foley criticizes the blatant and ongoing
+      global injustices and military aggressions perpetrated by powerful nations, highlighting
+      their actions such as genocide, resource exploitation, and nuclear threats, all
+      conducted under the scrutiny of the international community.
+    paragraph_summary: In his article, Tim Foley highlights a series of egregious actions
+      taken by powerful entities, particularly the U.S. government and its allies, that
+      are conducted openly and without accountability. He lists various atrocities,
+      including genocide, siege warfare, and military aggression in countries like Iran,
+      Cuba, and Ukraine, as well as the exploitation of global resources and the environment.
+      Foley criticizes the stark contrast between the suffering of ordinary people,
+      who face homelessness and poverty, and the wealth and influence of billionaires
+      and weapons manufacturers who profit from conflict. He underscores the blatant
+      disregard for human rights and the environment, suggesting that the public's outrage
+      over hidden nefarious activities, such as those related to the Epstein files,
+      is misplaced when there are so many visible injustices occurring globally.
+    published: '2026-02-09T00:51:39+00:00'
+  - title: If You Think Our Rulers Do Bad Things In Secret, Wait Til You See What They
+      Do Out In The Open
+    url: https://www.caitlinjohnst.one/p/if-you-think-our-rulers-do-bad-things
+    text: 'Reading by Tim Foley : Subscribe now They launched a live-streamed genocide
+      in full view of the entire world. They’re openly targeting civilian populations
+      with siege warfare in Iran and Cuba in full view of the entire world. They openly
+      kidnapped the president of a sovereign nation in full view of the entire world.
+      They deliberately provoked a horrific and dangerous proxy war in Ukraine in full
+      view of the entire world. They spent years actively backing Saudi Arabia’s monstrous
+      genocidal atrocities in Yemen in full view of the entire world. They’re plundering
+      and exploiting the resources and labor of the global south in full view of the
+      entire world. They’re killing the biosphere we all depend on for their own enrichment
+      in full view of the entire world. They’re circling the globe with hundreds of
+      military bases to secure planetary domination in full view of the entire world.
+      They engage in nuclear brinkmanship and wave around armageddon weapons like pistols
+      in full view of the entire world. People go homeless and die of exposure while
+      billionaires buy private islands and choose the next president in full view of
+      the entire world. Weapons manufacturers lobby for wars and then profit from the
+      death and destruction they cause in full view of the entire world. The president
+      of the United States has repeatedly admitted to being bought and owned by the
+      world’s richest Israeli in full view of the entire world. The US Treasury Secretary
+      has been repeatedly admitting that the US deliberately sparked the violence and
+      unrest in Iran by methodically immiserating the population via economic warfare,
+      in full view of the entire world. I keep seeing people freaking out and asking
+      how it’s possible that the individuals in the Epstein files haven’t been arrested
+      for their secret nefarious behavior. And I always want to ask them, mate, have
+      you seen the nefarious behavior they’re engaging in right out in the open? Pay
+      attention to the Epstein files. Pay attention to what little we can learn about
+      how these freaks conduct themselves behind closed doors. By all means, pay close
+      attention to these things. But don’t forget to also pay attention to the far greater
+      evils they are inflicting in full view of the entire world. _______________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. The best way to make sure
+      you see everything I write is to get on my free mailing list . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      social media, books, merch, and audio/video versions of each article . All my
+      work is free to bootleg and use in any way, shape or form; republish it, translate
+      it, use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image
+      by Jaber Jehad Badwan via Wikimedia Commons (CC BY-SA 4.0)'
+    one_sentence_summary: The article by Tim Foley criticizes the blatant and ongoing
+      global injustices and military aggressions perpetrated by powerful nations, highlighting
+      their actions such as genocide, resource exploitation, and nuclear threats, all
+      conducted under the scrutiny of the international community.
+    paragraph_summary: In his article, Tim Foley highlights a series of egregious actions
+      taken by powerful entities, particularly the U.S. government and its allies, that
+      are conducted openly and without accountability. He lists various atrocities,
+      including genocide, siege warfare, and military aggression in countries like Iran,
+      Cuba, and Ukraine, as well as the exploitation of global resources and the environment.
+      Foley criticizes the stark contrast between the suffering of ordinary people,
+      who face homelessness and poverty, and the wealth and influence of billionaires
+      and weapons manufacturers who profit from conflict. He underscores the blatant
+      disregard for human rights and the environment, suggesting that the public's outrage
+      over hidden nefarious activities, such as those related to the Epstein files,
+      is misplaced when there are so many visible injustices occurring globally.
+    published: '2026-02-09T00:51:39+00:00'
+  - title: The Plutocrats Who Rule Our World Aren't Even Enjoying Themselves
+    url: https://www.caitlinjohnst.one/p/the-plutocrats-who-rule-our-world
+    text: 'Reading by Tim Foley : Subscribe now I saw a tweet by Elon Musk the other
+      day, “Whoever said ‘money can’t buy happiness’ really knew what they were talking
+      about.” He put a sadface emoji at the end. I personally do not feel the slightest
+      bit sorry for Elon Musk and his feelings. But the fact that these billionaires
+      aren’t even enjoying themselves as they poison our planet and rob us all says
+      so much about the madness of the civilization we are living in. I mean, think
+      about it. It’s not even making them happy. All that exploitation and extraction,
+      all the parasiting and hoarding and manipulating politics and inserting themselves
+      into governments, and it’s not even making them happy. It would be terrible if
+      these obscenely wealthy oligarchs were robbing everyone else of happiness in order
+      to make themselves exponentially happier than all of us. But they’re not even
+      making themselves happy. They’re fucking miserable. Everyone involved in this
+      abusive dynamic is suffering from it — even the abusers. And really, how could
+      they not be? Can you think of anyone less likely to be happy than someone who
+      can’t be content simply retiring with a house and maybe twenty million dollars
+      in the bank, ensuring that all their material needs will be cared for for the
+      rest of their lives? Someone who must instead press on until they have obtained
+      more money than they could reasonably spend in a thousand lifetimes? Can you think
+      of anything less conducive to happiness than becoming so much wealthier than everyone
+      else that you have to isolate yourself from normal society, eventually surrounded
+      only by people who are in your life because of your wealth? Never knowing how
+      they truly feel about you or what they’d be doing with their lives if not for
+      your vast fortune? Can you think of a more surefire path to a lifetime of dissatisfaction
+      than spending your years storing away wealth like some kind of fantasy dragon
+      creature hoarding gold in a mountain, while people panicking over paying their
+      bills look upon you with disdain? Can you imagine a more miserable way to spend
+      your days on this planet than becoming an oligarch and manipulating state power
+      to ensure that your unfathomable wealth will never be redistributed to the needful
+      and the struggling, and that ordinary people will forever remain trapped as powerless
+      gear-turners whose labor exists solely to turn billionaires into trillionaires?
+      I know I can’t. The plutocrats who control our society are not sincerely dedicated
+      to the pursuit of happiness; if they were, they wouldn’t be plutocrats, and they
+      wouldn’t be controlling our society. Happiness comes from contentment with one’s
+      present experience, and those who keep compulsively amassing wealth for its own
+      sake can never experience that contentment. As Kurt Vonnegut wrote in his poem
+      “Joe Heller”: True story, Word of Honor: Joseph Heller, an important and funny
+      writer now dead, and I were at a party given by a billionaire on Shelter Island.
+      I said, “Joe, how does it make you feel to know that our host only yesterday may
+      have made more money than your novel ‘Catch-22’ has earned in its entire history?”
+      And Joe said, “I’ve got something he can never have.” And I said, “What on earth
+      could that be, Joe?” And Joe said, “The knowledge that I’ve got enough.” Not bad!
+      Rest in peace! The Elon Musks of our world can never have the experience of having
+      enough. They exist in a permanent state of lack. They’ve got a giant hole inside
+      themselves that can never be filled, no matter how much money they throw into
+      it, no matter how many private jets and private islands and media outlets and
+      bought politicians they try to fill it with. We are ruled by deeply wounded and
+      dysfunctional emotional infants. The people who control our society are whipped
+      about by primitive forces within themselves that they don’t understand. Their
+      actions are motivated not by the pursuit of the common good, nor even their own
+      good, but by psychological disorder and unconscious compulsion. And yet we are
+      assured this is the best possible way to run a society. I kind of doubt that.
+      I really don’t think that’s true. _________________ Caitlin’s Newsletter is a
+      reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article critiques billionaires like Elon Musk, arguing
+      that their immense wealth and exploitation of resources do not bring them happiness,
+      highlighting the broader societal madness and suffering caused by such inequality.
+    paragraph_summary: In a recent tweet, Elon Musk expressed a sentiment that money
+      can't buy happiness, which prompted Tim Foley to reflect on the paradox of billionaires
+      who, despite their immense wealth, seem to find little joy in their lives. Foley
+      argues that the relentless pursuit of wealth and power by these oligarchs not
+      only harms society and the environment but also leads to their own unhappiness.
+      He suggests that the inability of the ultra-rich to find contentment in their
+      lives—despite having more than enough to live comfortably—highlights a deeper
+      issue within our civilization. The article posits that the isolation and superficial
+      relationships that come with extreme wealth contribute to a cycle of dissatisfaction,
+      making the quest for more money ultimately futile and detrimental to both the
+      wealthy and society at large.
+    published: '2026-02-07T00:57:20+00:00'
+  - title: The Plutocrats Who Rule Our World Aren't Even Enjoying Themselves
+    url: https://www.caitlinjohnst.one/p/the-plutocrats-who-rule-our-world
+    text: 'Reading by Tim Foley : Subscribe now I saw a tweet by Elon Musk the other
+      day, “Whoever said ‘money can’t buy happiness’ really knew what they were talking
+      about.” He put a sadface emoji at the end. I personally do not feel the slightest
+      bit sorry for Elon Musk and his feelings. But the fact that these billionaires
+      aren’t even enjoying themselves as they poison our planet and rob us all says
+      so much about the madness of the civilization we are living in. I mean, think
+      about it. It’s not even making them happy. All that exploitation and extraction,
+      all the parasiting and hoarding and manipulating politics and inserting themselves
+      into governments, and it’s not even making them happy. It would be terrible if
+      these obscenely wealthy oligarchs were robbing everyone else of happiness in order
+      to make themselves exponentially happier than all of us. But they’re not even
+      making themselves happy. They’re fucking miserable. Everyone involved in this
+      abusive dynamic is suffering from it — even the abusers. And really, how could
+      they not be? Can you think of anyone less likely to be happy than someone who
+      can’t be content simply retiring with a house and maybe twenty million dollars
+      in the bank, ensuring that all their material needs will be cared for for the
+      rest of their lives? Someone who must instead press on until they have obtained
+      more money than they could reasonably spend in a thousand lifetimes? Can you think
+      of anything less conducive to happiness than becoming so much wealthier than everyone
+      else that you have to isolate yourself from normal society, eventually surrounded
+      only by people who are in your life because of your wealth? Never knowing how
+      they truly feel about you or what they’d be doing with their lives if not for
+      your vast fortune? Can you think of a more surefire path to a lifetime of dissatisfaction
+      than spending your years storing away wealth like some kind of fantasy dragon
+      creature hoarding gold in a mountain, while people panicking over paying their
+      bills look upon you with disdain? Can you imagine a more miserable way to spend
+      your days on this planet than becoming an oligarch and manipulating state power
+      to ensure that your unfathomable wealth will never be redistributed to the needful
+      and the struggling, and that ordinary people will forever remain trapped as powerless
+      gear-turners whose labor exists solely to turn billionaires into trillionaires?
+      I know I can’t. The plutocrats who control our society are not sincerely dedicated
+      to the pursuit of happiness; if they were, they wouldn’t be plutocrats, and they
+      wouldn’t be controlling our society. Happiness comes from contentment with one’s
+      present experience, and those who keep compulsively amassing wealth for its own
+      sake can never experience that contentment. As Kurt Vonnegut wrote in his poem
+      “Joe Heller”: True story, Word of Honor: Joseph Heller, an important and funny
+      writer now dead, and I were at a party given by a billionaire on Shelter Island.
+      I said, “Joe, how does it make you feel to know that our host only yesterday may
+      have made more money than your novel ‘Catch-22’ has earned in its entire history?”
+      And Joe said, “I’ve got something he can never have.” And I said, “What on earth
+      could that be, Joe?” And Joe said, “The knowledge that I’ve got enough.” Not bad!
+      Rest in peace! The Elon Musks of our world can never have the experience of having
+      enough. They exist in a permanent state of lack. They’ve got a giant hole inside
+      themselves that can never be filled, no matter how much money they throw into
+      it, no matter how many private jets and private islands and media outlets and
+      bought politicians they try to fill it with. We are ruled by deeply wounded and
+      dysfunctional emotional infants. The people who control our society are whipped
+      about by primitive forces within themselves that they don’t understand. Their
+      actions are motivated not by the pursuit of the common good, nor even their own
+      good, but by psychological disorder and unconscious compulsion. And yet we are
+      assured this is the best possible way to run a society. I kind of doubt that.
+      I really don’t think that’s true. _________________ Caitlin’s Newsletter is a
+      reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article critiques billionaires like Elon Musk, arguing
+      that their immense wealth and exploitation of resources do not bring them happiness,
+      highlighting the broader societal madness and suffering caused by such inequality.
+    paragraph_summary: In a recent tweet, Elon Musk expressed a sentiment that money
+      can't buy happiness, which prompted Tim Foley to reflect on the paradox of billionaires
+      who, despite their immense wealth, seem to find little joy in their lives. Foley
+      argues that the relentless pursuit of wealth and power by these oligarchs not
+      only harms society and the environment but also leads to their own unhappiness.
+      He suggests that the inability of the ultra-rich to find contentment in their
+      lives—despite having more than enough to live comfortably—highlights a deeper
+      issue within our civilization. The article posits that the isolation and superficial
+      relationships that come with extreme wealth contribute to a cycle of dissatisfaction,
+      making the quest for more money ultimately futile and detrimental to both the
+      wealthy and society at large.
+    published: '2026-02-07T00:57:20+00:00'
+  - title: The US Keeps Openly Admitting It Deliberately Caused The Iran Protests
+    url: https://www.caitlinjohnst.one/p/the-us-keeps-openly-admitting-it
+    text: 'Reading by Tim Foley : Subscribe now Speaking before the Senate Banking Committee
+      on Thursday, US Treasury Secretary Scott Bessent explicitly stated that the US
+      deliberately caused a financial crisis in Iran with the goal of fomenting civil
+      unrest in the country. Asked by Senator Katie Britt what more the US can be doing
+      to place pressure on the Ayatollah and Iran, Bessent explained that the Treasury
+      Department has implemented a “strategy” designed to undermine the Iranian currency
+      which crashed the economy and sparked the violent protests we’ve seen throughout
+      the country. “One thing we could do at Treasury, and what we have done, is created
+      a dollar shortage in the country,” Bessent said . “At a speech at the Economic
+      Club in March I outlined the strategy. It came to a swift and I would say grand
+      culmination in December when one of the largest banks in Iran went under. There
+      was a run on the bank, the central bank had to print money, the Iranian currency
+      went into free fall, inflation exploded, and hence we have seen the Iranian people
+      out on the street.” This is not the first time Bessent has made these admissions.
+      Speaking at the World Economic Forum in Davos last month, the treasury secretary
+      said the following : “President Trump ordered Treasury and our OFAC division,
+      Office of Foreign Asset Control, to put maximum pressure on Iran. And it’s worked,
+      because in December, their economy collapsed. We saw a major bank go under; the
+      central bank has started to print money. There is dollar shortage. They are not
+      able to get imports, and this is why the people took to the street. So, this is
+      economic statecraft, no shots fired, and things are moving in a very positive
+      way here.” Following these remarks, Jeffrey Sachs and Sybil Farres wrote the following
+      for Common Dreams: “What Secretary Bessent describes is of course not ‘economic
+      statecraft’ in a traditional sense. It is war conducted by economic means, all
+      designed to produce an economic crisis and social unrest leading to a fall of
+      the government. This is proudly hailed as ‘economic statecraft.’ “The human suffering
+      caused by outright war and crushing economic sanctions is not so different as
+      one might think. Economic collapse produces shortages of food, medicine, and fuel,
+      while also destroying savings, pensions, wages, and public services. Deliberate
+      economic collapse drives people into poverty, malnutrition, and premature death,
+      just as outright war does.” Bessent laid out these plans in advance at the Economic
+      Club of New York back in March of last year, saying the following : “Last month,
+      the White House announced its maximum pressure campaign on Iran designed to collapse
+      its already buckling economy. The Iranian economy is in disarray; 35% official
+      inflation, has a currency that has depreciated 60% in the last 12 months, and
+      an ongoing energy crisis. I know a few things about currency devaluations, and
+      if I were an Iranian, I would get all of my money out of the Rial now. “This precarious
+      state exists before our Maximum Pressure campaign, designed to collapse Iranian
+      oil exports from the current 1.5–1.6, million barrels per day, back to the trickle
+      they were when President Trump left office. “Iran has developed a complex shadow
+      network of financial facilitators and black-market oil shippers via a ghost fleet
+      to sell oil, petrochemical and other commodities to finance its exports and generate
+      hard currency. “As such, we have elevated a sanctions campaign against this export
+      infrastructure, targeting all stages of Iran’s oil supply chain. We have coupled
+      this with vigorous government engagement and private sector outreach. “We will
+      close off Iran’s access to the international financial system by targeting regional
+      parties that facilitate the transfer of its revenues. Treasury is prepared to
+      engage in frank discussions with these countries. We are going to shut down Iran’s
+      oil sector and drone manufacturing capabilities. “We have predetermined benchmarks
+      and timelines. Making Iran Broke Again will mark the beginning of our updated
+      sanctions policy. Watch this space.” The US has been orchestrating plans to foment
+      unrest in Iran by causing economic strife for years. In 2019 Trump’s previous
+      secretary of state Mike Pompeo openly acknowledged that the goal of Washington’s
+      economic warfare against Iran was to make the population so miserable that they
+      “change the government”, cheerfully citing the “economic distress” the nation
+      had been placed under by US sanctions. As unrest tore through Iran last month,
+      Trump egged protesters on and encouraged them to escalate, saying “To all Iranian
+      patriots, keep protesting, take over your institutions, if possible, and save
+      the name of the killers and the abusers that are abusing you,” adding, “all I
+      say to them is help is on its way.” Deliberately trying to ignite a civil war
+      in a country by immiserating its population so severely that they start attacking
+      their own government out of sheer desperation is one of the most evil things you
+      can possibly imagine. But under the western empire it’s just another day. They’re
+      doing it in Iran, and they’ve also aggressively ramped up efforts to do it in
+      Cuba , where the government has just announced it will be rationing oil as the
+      US moves to strangle the island nation into regime change. A lot of attention
+      is going into the Epstein files right now, and understandably so. But it’s worth
+      noting that nothing in them is as depraved and abusive as what our rulers are
+      doing right out in the open. _________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: US Treasury Secretary Scott Bessent revealed to the Senate
+      Banking Committee that the US intentionally caused a financial crisis in Iran
+      to incite civil unrest by implementing strategies that undermined the Iranian
+      currency, leading to economic collapse and widespread protests.
+    paragraph_summary: During a Senate Banking Committee hearing, US Treasury Secretary
+      Scott Bessent revealed that the US intentionally engineered a financial crisis
+      in Iran to incite civil unrest. In response to Senator Katie Britt's inquiry about
+      increasing pressure on the Iranian government, Bessent detailed a strategy that
+      involved creating a dollar shortage, which led to a collapse of the Iranian economy,
+      rampant inflation, and widespread protests. He noted that this approach, which
+      he previously discussed at the World Economic Forum, was part of a broader campaign
+      initiated under President Trump to apply maximum pressure on Iran without military
+      intervention. Critics, including Jeffrey Sachs and Sybil Farres, argue that this
+      strategy amounts to economic warfare aimed at destabilizing the country.
+    published: '2026-02-06T12:28:13+00:00'
+  - title: The US Keeps Openly Admitting It Deliberately Caused The Iran Protests
+    url: https://www.caitlinjohnst.one/p/the-us-keeps-openly-admitting-it
+    text: 'Reading by Tim Foley : Subscribe now Speaking before the Senate Banking Committee
+      on Thursday, US Treasury Secretary Scott Bessent explicitly stated that the US
+      deliberately caused a financial crisis in Iran with the goal of fomenting civil
+      unrest in the country. Asked by Senator Katie Britt what more the US can be doing
+      to place pressure on the Ayatollah and Iran, Bessent explained that the Treasury
+      Department has implemented a “strategy” designed to undermine the Iranian currency
+      which crashed the economy and sparked the violent protests we’ve seen throughout
+      the country. “One thing we could do at Treasury, and what we have done, is created
+      a dollar shortage in the country,” Bessent said . “At a speech at the Economic
+      Club in March I outlined the strategy. It came to a swift and I would say grand
+      culmination in December when one of the largest banks in Iran went under. There
+      was a run on the bank, the central bank had to print money, the Iranian currency
+      went into free fall, inflation exploded, and hence we have seen the Iranian people
+      out on the street.” This is not the first time Bessent has made these admissions.
+      Speaking at the World Economic Forum in Davos last month, the treasury secretary
+      said the following : “President Trump ordered Treasury and our OFAC division,
+      Office of Foreign Asset Control, to put maximum pressure on Iran. And it’s worked,
+      because in December, their economy collapsed. We saw a major bank go under; the
+      central bank has started to print money. There is dollar shortage. They are not
+      able to get imports, and this is why the people took to the street. So, this is
+      economic statecraft, no shots fired, and things are moving in a very positive
+      way here.” Following these remarks, Jeffrey Sachs and Sybil Farres wrote the following
+      for Common Dreams: “What Secretary Bessent describes is of course not ‘economic
+      statecraft’ in a traditional sense. It is war conducted by economic means, all
+      designed to produce an economic crisis and social unrest leading to a fall of
+      the government. This is proudly hailed as ‘economic statecraft.’ “The human suffering
+      caused by outright war and crushing economic sanctions is not so different as
+      one might think. Economic collapse produces shortages of food, medicine, and fuel,
+      while also destroying savings, pensions, wages, and public services. Deliberate
+      economic collapse drives people into poverty, malnutrition, and premature death,
+      just as outright war does.” Bessent laid out these plans in advance at the Economic
+      Club of New York back in March of last year, saying the following : “Last month,
+      the White House announced its maximum pressure campaign on Iran designed to collapse
+      its already buckling economy. The Iranian economy is in disarray; 35% official
+      inflation, has a currency that has depreciated 60% in the last 12 months, and
+      an ongoing energy crisis. I know a few things about currency devaluations, and
+      if I were an Iranian, I would get all of my money out of the Rial now. “This precarious
+      state exists before our Maximum Pressure campaign, designed to collapse Iranian
+      oil exports from the current 1.5–1.6, million barrels per day, back to the trickle
+      they were when President Trump left office. “Iran has developed a complex shadow
+      network of financial facilitators and black-market oil shippers via a ghost fleet
+      to sell oil, petrochemical and other commodities to finance its exports and generate
+      hard currency. “As such, we have elevated a sanctions campaign against this export
+      infrastructure, targeting all stages of Iran’s oil supply chain. We have coupled
+      this with vigorous government engagement and private sector outreach. “We will
+      close off Iran’s access to the international financial system by targeting regional
+      parties that facilitate the transfer of its revenues. Treasury is prepared to
+      engage in frank discussions with these countries. We are going to shut down Iran’s
+      oil sector and drone manufacturing capabilities. “We have predetermined benchmarks
+      and timelines. Making Iran Broke Again will mark the beginning of our updated
+      sanctions policy. Watch this space.” The US has been orchestrating plans to foment
+      unrest in Iran by causing economic strife for years. In 2019 Trump’s previous
+      secretary of state Mike Pompeo openly acknowledged that the goal of Washington’s
+      economic warfare against Iran was to make the population so miserable that they
+      “change the government”, cheerfully citing the “economic distress” the nation
+      had been placed under by US sanctions. As unrest tore through Iran last month,
+      Trump egged protesters on and encouraged them to escalate, saying “To all Iranian
+      patriots, keep protesting, take over your institutions, if possible, and save
+      the name of the killers and the abusers that are abusing you,” adding, “all I
+      say to them is help is on its way.” Deliberately trying to ignite a civil war
+      in a country by immiserating its population so severely that they start attacking
+      their own government out of sheer desperation is one of the most evil things you
+      can possibly imagine. But under the western empire it’s just another day. They’re
+      doing it in Iran, and they’ve also aggressively ramped up efforts to do it in
+      Cuba , where the government has just announced it will be rationing oil as the
+      US moves to strangle the island nation into regime change. A lot of attention
+      is going into the Epstein files right now, and understandably so. But it’s worth
+      noting that nothing in them is as depraved and abusive as what our rulers are
+      doing right out in the open. _________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: US Treasury Secretary Scott Bessent revealed to the Senate
+      Banking Committee that the US intentionally caused a financial crisis in Iran
+      to incite civil unrest by implementing strategies that undermined the Iranian
+      currency, leading to economic collapse and widespread protests.
+    paragraph_summary: During a Senate Banking Committee hearing, US Treasury Secretary
+      Scott Bessent revealed that the US intentionally engineered a financial crisis
+      in Iran to incite civil unrest. In response to Senator Katie Britt's inquiry about
+      increasing pressure on the Iranian government, Bessent detailed a strategy that
+      involved creating a dollar shortage, which led to a collapse of the Iranian economy,
+      rampant inflation, and widespread protests. He noted that this approach, which
+      he previously discussed at the World Economic Forum, was part of a broader campaign
+      initiated under President Trump to apply maximum pressure on Iran without military
+      intervention. Critics, including Jeffrey Sachs and Sybil Farres, argue that this
+      strategy amounts to economic warfare aimed at destabilizing the country.
+    published: '2026-02-06T12:28:13+00:00'
+  - title: 'New Issue Of JOHNSTONE: The System Is Working Exactly As Intended'
+    url: https://www.caitlinjohnst.one/p/new-issue-of-johnstone-the-system
+    text: 'Subscribe now The new issue of JOHNSTONE is now available to order in print
+      or download as a pay-what-you-want e-book version . As with all my work, everything
+      contained in this magazine is free to reuse, reproduce or republish in any way.
+      There are, broadly speaking, two different types of people who are calling attention
+      to the Epstein files right now: (A) those who hope the revelations lead to high-level
+      prosecutions and major institutional changes in the US government, and (B) those
+      who know this will never happen but hope the revelations will help radicalize
+      people toward truly revolutionary politics. Those in category (A) believe the
+      system is broken and needs to be fixed. Those in category (B) understand that
+      the system is working exactly as intended and needs to be destroyed. Those in
+      category (A) believe there’s a possibility that they’ll see high-level prosecutions
+      and major institutional changes in the US government because they think the abuses
+      associated with Jeffrey Epstein are aberrations which conflict with the values
+      and principles their country stands for. Those in category (B) understand that
+      Epstein and his ilk are the natural products of the abusive capitalist dystopia
+      under which they live, and are in this sense as American as apple pie. Those in
+      category (A) think the system can save them from future Jeffrey Epsteins. Those
+      in category (B) understand that the system was explicitly designed to give rise
+      to Jeffrey Epsteins. In category (A) you’ll find mainstream Democrats and Republicans,
+      which include “progressives” and right wing “populists” who don’t view themselves
+      as mainstream. In category (B) you’ll find those with actual revolutionary politics
+      who seek to dismantle capitalism and the US empire. The more clear it becomes
+      that we are ruled by psychopaths, the more people will hopefully begin to migrate
+      from category (A) to category (B). You can get a paperback copy of this issue
+      by clicking here , or a pay-what-you-feel digital copy by clicking here . Other
+      paperback editions of JOHNSTONE can be purchased by clicking here . Other digital
+      editions can be downloaded by clicking here . You can also get a subscription
+      to the digital versions which will be sent to your inbox every month by clicking
+      here . CONTENTS: The US Empire Needs Men Like Trump … 3 American Conservatives
+      Are Disgusting Frauds … 5 The Real Tyrannical Regime, And Other Notes … 6 These
+      Abuses Will Continue Until People Force Them To Stop … 8 You Can’t Cheer For Regime
+      Change In Iran Without Also Cheering For The US Empire … 9 The Imperial Crosshairs
+      Move To Cuba, And Other Notes … 10 The Imperial Murder Machine Is In A State Of
+      Hyperactivity … 12 We’re Always Told That Everyone In The Empire-Targeted Nation
+      Hates Their Government, And Other Notes … 13 You Know They’re Lying About Iran
+      … 15 Everyone Wants Peace Until They Get Hit With The War Propaganda … 16 On “Leftists”
+      And “Anarchists” Who Cheer For Regime Change In Iran … 17 Encouraging News: Lindsey
+      Graham Looks HEARTBROKEN About Iran … 18 The War On Free Speech In Australia Is
+      Getting Cartoonishly Absurd … 19 Regime Change The US Empire … 20 Zionist Billionaires
+      Openly Acknowledge Manipulating The US Government … 21 In This Dystopia You Can’t
+      Vote Against Wars But You Can Gamble On When They’ll Start … 23 Everyone Hates
+      Israel Now Because Our Own Institutions Made It Personal … 24 Australia’s Frightening
+      New “Hate Speech” Laws Are Clearly Aimed At Pro-Palestine Groups … 25 Oppose Israel’s
+      Abuses While You Still Can … 27 They’re Trying To Sneak Israel’s President Into
+      Australia Without Anti-Genocide Protests, And Other Notes … 28 The Magic System
+      Of Zionism … 30 Australia’s Lack Of Speech Protections Means We Should Be MORE
+      Hostile To Speech Regulation … 32 No Healthy Person Wants To Rule The World Or
+      Become A Billionaire … 34 The Lies Get So Tedious … 35 The Justifications For
+      War With Iran Keep Changing … 36 Only Idiots Believe The War Propaganda About
+      Iran … 38 The US Is Pushing So Many Regime Change Agendas It’s Hard To Keep Up
+      … 40 “Why Don’t You Criticize Iran??” … 42 Our Rulers Are Psychopaths And They’re
+      Making Everything Awful … 44 Dissecting The Belief That The US Should Forcibly
+      Remove Tyrannical Governments … 45 Shine … 47 The Western Press Are Trying To
+      Spin Epstein As A RUSSIAN Agent … 48 Meditations On A Delivery Robot Steering
+      To Avoid A Homeless Man On The Sidewalk … 50 Please Understand That Nothing Will
+      Be Done About The Epstein Files … 51 Again, you can get a paperback copy of this
+      issue by clicking here , or click here for a digital pay-what-you-feel copy. _________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The latest issue of JOHNSTONE is now available for purchase
+      or download, featuring discussions on the Epstein files and the differing perspectives
+      on their implications for the U.S. government, with some seeking reform and others
+      advocating for revolutionary change.
+    paragraph_summary: 'The latest issue of JOHNSTONE is now available for order in
+      both print and a pay-what-you-want e-book format, with all content free for reuse.
+      The article discusses two distinct groups reacting to the Epstein files: those
+      hoping for high-level prosecutions and institutional reforms (Category A), and
+      those who believe the revelations will inspire a radical shift towards revolutionary
+      politics (Category B). Category A individuals, including mainstream Democrats
+      and Republicans, view the Epstein case as an aberration within a flawed system,
+      while Category B individuals see it as a product of a fundamentally abusive capitalist
+      structure that needs to be dismantled. The article suggests that as awareness
+      of systemic issues grows, more people may shift from the belief in reform to the
+      necessity of revolution.'
+    published: '2026-02-05T13:00:37+00:00'
+  - title: 'New Issue Of JOHNSTONE: The System Is Working Exactly As Intended'
+    url: https://www.caitlinjohnst.one/p/new-issue-of-johnstone-the-system
+    text: 'Subscribe now The new issue of JOHNSTONE is now available to order in print
+      or download as a pay-what-you-want e-book version . As with all my work, everything
+      contained in this magazine is free to reuse, reproduce or republish in any way.
+      There are, broadly speaking, two different types of people who are calling attention
+      to the Epstein files right now: (A) those who hope the revelations lead to high-level
+      prosecutions and major institutional changes in the US government, and (B) those
+      who know this will never happen but hope the revelations will help radicalize
+      people toward truly revolutionary politics. Those in category (A) believe the
+      system is broken and needs to be fixed. Those in category (B) understand that
+      the system is working exactly as intended and needs to be destroyed. Those in
+      category (A) believe there’s a possibility that they’ll see high-level prosecutions
+      and major institutional changes in the US government because they think the abuses
+      associated with Jeffrey Epstein are aberrations which conflict with the values
+      and principles their country stands for. Those in category (B) understand that
+      Epstein and his ilk are the natural products of the abusive capitalist dystopia
+      under which they live, and are in this sense as American as apple pie. Those in
+      category (A) think the system can save them from future Jeffrey Epsteins. Those
+      in category (B) understand that the system was explicitly designed to give rise
+      to Jeffrey Epsteins. In category (A) you’ll find mainstream Democrats and Republicans,
+      which include “progressives” and right wing “populists” who don’t view themselves
+      as mainstream. In category (B) you’ll find those with actual revolutionary politics
+      who seek to dismantle capitalism and the US empire. The more clear it becomes
+      that we are ruled by psychopaths, the more people will hopefully begin to migrate
+      from category (A) to category (B). You can get a paperback copy of this issue
+      by clicking here , or a pay-what-you-feel digital copy by clicking here . Other
+      paperback editions of JOHNSTONE can be purchased by clicking here . Other digital
+      editions can be downloaded by clicking here . You can also get a subscription
+      to the digital versions which will be sent to your inbox every month by clicking
+      here . CONTENTS: The US Empire Needs Men Like Trump … 3 American Conservatives
+      Are Disgusting Frauds … 5 The Real Tyrannical Regime, And Other Notes … 6 These
+      Abuses Will Continue Until People Force Them To Stop … 8 You Can’t Cheer For Regime
+      Change In Iran Without Also Cheering For The US Empire … 9 The Imperial Crosshairs
+      Move To Cuba, And Other Notes … 10 The Imperial Murder Machine Is In A State Of
+      Hyperactivity … 12 We’re Always Told That Everyone In The Empire-Targeted Nation
+      Hates Their Government, And Other Notes … 13 You Know They’re Lying About Iran
+      … 15 Everyone Wants Peace Until They Get Hit With The War Propaganda … 16 On “Leftists”
+      And “Anarchists” Who Cheer For Regime Change In Iran … 17 Encouraging News: Lindsey
+      Graham Looks HEARTBROKEN About Iran … 18 The War On Free Speech In Australia Is
+      Getting Cartoonishly Absurd … 19 Regime Change The US Empire … 20 Zionist Billionaires
+      Openly Acknowledge Manipulating The US Government … 21 In This Dystopia You Can’t
+      Vote Against Wars But You Can Gamble On When They’ll Start … 23 Everyone Hates
+      Israel Now Because Our Own Institutions Made It Personal … 24 Australia’s Frightening
+      New “Hate Speech” Laws Are Clearly Aimed At Pro-Palestine Groups … 25 Oppose Israel’s
+      Abuses While You Still Can … 27 They’re Trying To Sneak Israel’s President Into
+      Australia Without Anti-Genocide Protests, And Other Notes … 28 The Magic System
+      Of Zionism … 30 Australia’s Lack Of Speech Protections Means We Should Be MORE
+      Hostile To Speech Regulation … 32 No Healthy Person Wants To Rule The World Or
+      Become A Billionaire … 34 The Lies Get So Tedious … 35 The Justifications For
+      War With Iran Keep Changing … 36 Only Idiots Believe The War Propaganda About
+      Iran … 38 The US Is Pushing So Many Regime Change Agendas It’s Hard To Keep Up
+      … 40 “Why Don’t You Criticize Iran??” … 42 Our Rulers Are Psychopaths And They’re
+      Making Everything Awful … 44 Dissecting The Belief That The US Should Forcibly
+      Remove Tyrannical Governments … 45 Shine … 47 The Western Press Are Trying To
+      Spin Epstein As A RUSSIAN Agent … 48 Meditations On A Delivery Robot Steering
+      To Avoid A Homeless Man On The Sidewalk … 50 Please Understand That Nothing Will
+      Be Done About The Epstein Files … 51 Again, you can get a paperback copy of this
+      issue by clicking here , or click here for a digital pay-what-you-feel copy. _________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The latest issue of JOHNSTONE is now available for purchase
+      or download, featuring discussions on the Epstein files and the differing perspectives
+      on their implications for the U.S. government, with some seeking reform and others
+      advocating for revolutionary change.
+    paragraph_summary: 'The latest issue of JOHNSTONE is now available for order in
+      both print and a pay-what-you-want e-book format, with all content free for reuse.
+      The article discusses two distinct groups reacting to the Epstein files: those
+      hoping for high-level prosecutions and institutional reforms (Category A), and
+      those who believe the revelations will inspire a radical shift towards revolutionary
+      politics (Category B). Category A individuals, including mainstream Democrats
+      and Republicans, view the Epstein case as an aberration within a flawed system,
+      while Category B individuals see it as a product of a fundamentally abusive capitalist
+      structure that needs to be dismantled. The article suggests that as awareness
+      of systemic issues grows, more people may shift from the belief in reform to the
+      necessity of revolution.'
+    published: '2026-02-05T13:00:37+00:00'
+  - title: Political Maturity Is Realizing The Commies Were Correct
+    url: https://www.caitlinjohnst.one/p/political-maturity-is-realizing-the
+    text: 'Reading by Tim Foley : Subscribe now Political maturity is finally admitting
+      to yourself that the angriest, most disconcerting communist you’ve ever met was
+      pretty much right about everything. If you learn enough, stay humble enough, and
+      pay close enough attention, eventually that’s what happens. You realize that,
+      generally speaking, the really high-octane commies have the most lucid understanding
+      of the world out of any group out there, and the only reason this wasn’t always
+      obvious to you was because you live under a capitalist power structure which aggressively
+      indoctrinates its populace from birth into believing that communism is No No Bad
+      Bad. They have the most lucid and correct understanding of capitalism. They have
+      the most lucid and correct understanding of imperialist extraction. They have
+      the most lucid and correct understanding of western warmongering, global power
+      dynamics, white supremacy, institutional racism and misogyny. That’s why they
+      keep being proven right, about everything from US military actions to the fascism
+      of the far right to the abusive nature of the so-called “moderate” liberal to
+      the moral depravity of billionaires and the capitalist class. It’s still an open
+      question how best to give rise to their vision for the world, because it would
+      be a world that has never existed before, and because all their efforts to build
+      that world have consistently been aggressively assaulted and sabotaged by the
+      capitalist empire. But no group’s criticisms of the current status quo world order
+      are more incisive and accurate than theirs. If you’ve spent your life moving in
+      sufficiently diverse and interesting circles, you’ve encountered outspoken Marxists
+      in the past. What they said may have made you uncomfortable at the time, either
+      because you were still too indoctrinated into the worldview of the capitalist
+      empire or because you were still too interested in youthful frivolity to grapple
+      with the serious subjects they were discussing. And eventually you realize that
+      the discomfort you were experiencing is called cognitive dissonance, which is
+      what being wrong feels like. Maybe you got annoyed because they took their politics
+      way too seriously and made it their whole thing, constantly pointing out the injustices
+      and abuses in whatever subject came up when you were just trying to relax and
+      enjoy life. And eventually you realize that the only reason you were able to just
+      drift along without thinking about politics too much was because your worldview
+      was sufficiently aligned with the political status quo to keep you from noticing
+      all the exploitation, oppression, injustice and propaganda which pervades every
+      aspect of our society. You didn’t notice it because it didn’t clash with your
+      understanding of the world at the time. If you keep your mind open, keep learning
+      about the world, stay humble enough to see your errors and course-correct accordingly,
+      you eventually see through all those distortions and understand that you had the
+      commies all wrong. There are still individual communists who get things wrong
+      of course, and like most people in this psychologically disordered world a lot
+      of them are emotional train wrecks who still need to do a lot of inner healing.
+      But there’s no group which perceives the abusive dynamics of this civilization
+      with a greater degree of intellectual clarity as a whole. ______________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. The best way to make sure
+      you see everything I write is to get on my free mailing list . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      social media, books, merch, and audio/video versions of each article . All my
+      work is free to bootleg and use in any way, shape or form; republish it, translate
+      it, use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image
+      via Adobe Stock.'
+    one_sentence_summary: The article argues that political maturity involves recognizing
+      the validity of the perspectives held by passionate communists, who often possess
+      a clearer understanding of capitalism, imperialism, and social injustices than
+      those indoctrinated by a capitalist society.
+    paragraph_summary: In Tim Foley's article, he argues that true political maturity
+      involves recognizing the validity of the critiques offered by outspoken communists,
+      who often possess a clearer understanding of capitalism, imperialism, and systemic
+      issues like racism and misogyny than the general populace, which is conditioned
+      by a capitalist framework to dismiss communism. He suggests that the insights
+      of these "high-octane commies" have been consistently validated by global events
+      and societal dynamics, revealing the moral failings of the capitalist class and
+      the complexities of modern power structures. While the path to realizing their
+      vision for a different world remains fraught with challenges due to historical
+      oppression and sabotage, Foley emphasizes that their critiques are among the most
+      incisive and accurate regarding the current status quo. Ultimately, he encourages
+      readers to confront their discomfort and engage with these serious discussions
+      rather than retreat into complacency.
+    published: '2026-02-05T02:19:05+00:00'
+  - title: Political Maturity Is Realizing The Commies Were Correct
+    url: https://www.caitlinjohnst.one/p/political-maturity-is-realizing-the
+    text: 'Reading by Tim Foley : Subscribe now Political maturity is finally admitting
+      to yourself that the angriest, most disconcerting communist you’ve ever met was
+      pretty much right about everything. If you learn enough, stay humble enough, and
+      pay close enough attention, eventually that’s what happens. You realize that,
+      generally speaking, the really high-octane commies have the most lucid understanding
+      of the world out of any group out there, and the only reason this wasn’t always
+      obvious to you was because you live under a capitalist power structure which aggressively
+      indoctrinates its populace from birth into believing that communism is No No Bad
+      Bad. They have the most lucid and correct understanding of capitalism. They have
+      the most lucid and correct understanding of imperialist extraction. They have
+      the most lucid and correct understanding of western warmongering, global power
+      dynamics, white supremacy, institutional racism and misogyny. That’s why they
+      keep being proven right, about everything from US military actions to the fascism
+      of the far right to the abusive nature of the so-called “moderate” liberal to
+      the moral depravity of billionaires and the capitalist class. It’s still an open
+      question how best to give rise to their vision for the world, because it would
+      be a world that has never existed before, and because all their efforts to build
+      that world have consistently been aggressively assaulted and sabotaged by the
+      capitalist empire. But no group’s criticisms of the current status quo world order
+      are more incisive and accurate than theirs. If you’ve spent your life moving in
+      sufficiently diverse and interesting circles, you’ve encountered outspoken Marxists
+      in the past. What they said may have made you uncomfortable at the time, either
+      because you were still too indoctrinated into the worldview of the capitalist
+      empire or because you were still too interested in youthful frivolity to grapple
+      with the serious subjects they were discussing. And eventually you realize that
+      the discomfort you were experiencing is called cognitive dissonance, which is
+      what being wrong feels like. Maybe you got annoyed because they took their politics
+      way too seriously and made it their whole thing, constantly pointing out the injustices
+      and abuses in whatever subject came up when you were just trying to relax and
+      enjoy life. And eventually you realize that the only reason you were able to just
+      drift along without thinking about politics too much was because your worldview
+      was sufficiently aligned with the political status quo to keep you from noticing
+      all the exploitation, oppression, injustice and propaganda which pervades every
+      aspect of our society. You didn’t notice it because it didn’t clash with your
+      understanding of the world at the time. If you keep your mind open, keep learning
+      about the world, stay humble enough to see your errors and course-correct accordingly,
+      you eventually see through all those distortions and understand that you had the
+      commies all wrong. There are still individual communists who get things wrong
+      of course, and like most people in this psychologically disordered world a lot
+      of them are emotional train wrecks who still need to do a lot of inner healing.
+      But there’s no group which perceives the abusive dynamics of this civilization
+      with a greater degree of intellectual clarity as a whole. ______________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. The best way to make sure
+      you see everything I write is to get on my free mailing list . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      social media, books, merch, and audio/video versions of each article . All my
+      work is free to bootleg and use in any way, shape or form; republish it, translate
+      it, use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image
+      via Adobe Stock.'
+    one_sentence_summary: The article argues that political maturity involves recognizing
+      the validity of the perspectives held by passionate communists, who often possess
+      a clearer understanding of capitalism, imperialism, and social injustices than
+      those indoctrinated by a capitalist society.
+    paragraph_summary: In Tim Foley's article, he argues that true political maturity
+      involves recognizing the validity of the critiques offered by outspoken communists,
+      who often possess a clearer understanding of capitalism, imperialism, and systemic
+      issues like racism and misogyny than the general populace, which is conditioned
+      by a capitalist framework to dismiss communism. He suggests that the insights
+      of these "high-octane commies" have been consistently validated by global events
+      and societal dynamics, revealing the moral failings of the capitalist class and
+      the complexities of modern power structures. While the path to realizing their
+      vision for a different world remains fraught with challenges due to historical
+      oppression and sabotage, Foley emphasizes that their critiques are among the most
+      incisive and accurate regarding the current status quo. Ultimately, he encourages
+      readers to confront their discomfort and engage with these serious discussions
+      rather than retreat into complacency.
+    published: '2026-02-05T02:19:05+00:00'
   - title: Please Understand That Nothing Will Be Done About The Epstein Files
     url: https://www.caitlinjohnst.one/p/please-understand-that-nothing-will
     text: 'Reading by Tim Foley : Subscribe now I need you to understand that nothing
