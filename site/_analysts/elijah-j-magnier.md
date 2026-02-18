@@ -7,14 +7,1188 @@ description: "Veteran Middle East war correspondent; provides first-hand analysi
 websites:
   - https://ejmagnier.com
 summary: |
-  Tensions between the United States and Iran remain high, but recent diplomatic overtures have signaled a cautious shift in approach. As **Elijah J. Magnier** reports, the preliminary meeting in Muscat between U.S. and Iranian officials focused exclusively on uranium enrichment, with Tehran deliberately narrowing the agenda and excluding sensitive topics such as missile development and regional alliances. This reflects Iran's deep mistrust and a strategic calculation to prioritize economic relief, particularly the lifting of sanctions, as its main demand.
+  Amid escalating tensions in the Middle East, the geopolitical landscape remains highly volatile, with the fate of Iran at the center of regional and global calculations. The return of Donald Trump to the US presidency has intensified scrutiny of American decision-making, especially regarding Iran and its broader implications.
   
-  The limited scope of these talks has surprised Israeli policymakers, who, according to **Magnier**, view any U.S.-Iran negotiations as a strategic threat. Israel fears that renewed diplomacy could undermine its influence over American policy and weaken its narrative of Iran as an existential threat. This sentiment is especially pronounced given Prime Minister Netanyahu's longstanding framing of the confrontation with Iran as a zero-sum, existential struggle.
+  The latest analyses by **Elijah J. Magnier** emphasize that any collapse of the Islamic Republic of Iran would trigger a rupture far more destabilizing than previous regime changes in Iraq, Afghanistan, or Libya. Magnier warns that such an event would not only reshape the regional balance of power but also unleash unpredictable systemic shocks worldwide. The consensus is that Iran’s collapse would create a power vacuum, likely leading to widespread instability across the Middle East, with ripple effects reaching global markets and security structures.
   
-  Despite the resumption of dialogue, the risk of escalation remains acute. The U.S. continues to deploy naval assets near Iran, but as **Magnier** notes, this is primarily a signaling tactic rather than the core of Washington's military strategy. Tehran is fully aware of the broader architecture of U.S. capabilities and is not easily deterred by visible shows of force.
+  Magnier also highlights the growing perception that US policy in the region is increasingly influenced by Israeli interests, particularly under Prime Minister Netanyahu’s persistent efforts to push Washington toward a more confrontational stance against Tehran. This dynamic, he notes, risks undermining American authority and the perception of its independence on the world stage, as smaller allies appear to exert disproportionate sway over US military decisions.
   
-  Looking ahead, the majority of analysts agree that diplomacy is the only viable path to de-escalation, as military pressure has failed to compel Iran to abandon its uranium enrichment program. There is a high chance that talks will remain narrowly focused and progress will be slow, given the mutual distrust and the limited agenda. However, if economic relief is offered, there is a strong likelihood that Iran will continue to engage diplomatically rather than escalate militarily. I guarantee that the situation will remain tense, but the current trajectory favors cautious negotiation over open conflict.
+  In parallel, the situation in Lebanon serves as a cautionary example of state fragility. Magnier argues that the Lebanese state’s repeated failure to guarantee security for its population has led to the rise of alternative protection structures and resistance movements. This phenomenon underscores the broader regional trend: where state authority is weak or contested, non-state actors fill the void, complicating prospects for stability and disarmament.
+  
+  Looking ahead, Magnier predicts with high confidence that any abrupt change in Iran’s regime would most definitely unleash a period of acute uncertainty and conflict, both regionally and beyond. The prevailing trend is toward heightened risk, with the US-Israel-Iran triangle remaining the primary flashpoint. The likelihood of diplomatic breakthroughs remains low, as deep mistrust and competing interests continue to dominate the agenda.
 articles:
+  - title: What Are the Regional and Global Consequences If the Islamic Republic of
+      Iran Collapses?
+    url: https://ejmagnier.com/2026/02/16/what-are-the-regional-and-global-consequences-if-the-islamic-republic-of-iran-collapses/
+    text: 'By Elijah J. Magnier Since President Donald Trump returned to power, his
+      decisions and conduct have drawn intense scrutiny and distraction, often amplified
+      by the daily theatricality that has come to characterise his political style.
+      Yet international politics is not a stage for spectacle, and a single miscalculated
+      or unlawful war could trigger cascading consequences far beyond its point of origin,
+      destabilising entire regions and harming dozens of states. The collapse of the
+      Islamic Republic of Iran, in particular, would not resemble a conventional regime
+      change, but a systemic rupture with unpredictable geopolitical, security, and
+      societal repercussions. It would represent one of the most consequential geopolitical
+      ruptures of the modern era, producing immediate regional shockwaves and long-term
+      global repercussions. Iran is not comparable to Iraq in 2003, Afghanistan in 2001,
+      or Libya in 2011. It is a large, centralised state of more than 90 million people,
+      with entrenched institutions, a powerful security apparatus, and a strategic geography
+      linking the Gulf, the Caucasus, Central Asia, and the Levant. If it were to fall
+      suddenly, the consequences would extend far beyond its borders and rapidly reshape
+      the Middle East’s security landscape. Collapse would not follow a single path.
+      It could emerge from an internal struggle leading to fragmentation, or competing
+      centres of armed authority replacing a unified state. Iran’s internal architecture
+      makes this especially dangerous. Power is not concentrated solely in a civilian
+      administration but distributed across the Revolutionary Guard, Basij networks,
+      the regular army, intelligence bodies, and a wider constellation of regional allied
+      movements. If central authority fractures, these actors would not disappear: Weapons
+      depots, missile stockpiles, drones, and paramilitary networks would become contested
+      assets. Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly'
+    one_sentence_summary: Elijah J. Magnier warns that President Trump's actions in
+      international politics, particularly regarding Iran, could lead to severe and
+      unpredictable consequences, as the collapse of Iran would create a significant
+      geopolitical rupture unlike previous regime changes in Iraq, Afghanistan, or Libya.
+    paragraph_summary: Elijah J. Magnier's article discusses the potential consequences
+      of a collapse of the Islamic Republic of Iran under President Donald Trump's leadership,
+      emphasizing the gravity of such an event in international politics. Unlike previous
+      regime changes in Iraq, Afghanistan, or Libya, Iran's downfall would likely lead
+      to a systemic rupture with unpredictable geopolitical, security, and societal
+      ramifications due to its size, centralized governance, and strategic location.
+      The internal power structure of Iran, which includes various military and paramilitary
+      entities, suggests that a fragmentation of authority could result in contested
+      assets and heightened instability, not only within Iran but across the entire
+      Middle East, potentially reshaping the region's security landscape and affecting
+      global dynamics.
+    published: '2026-02-16T18:55:14+00:00'
+  - title: What Are the Regional and Global Consequences If the Islamic Republic of
+      Iran Collapses?
+    url: https://ejmagnier.com/2026/02/16/what-are-the-regional-and-global-consequences-if-the-islamic-republic-of-iran-collapses/
+    text: 'By Elijah J. Magnier Since President Donald Trump returned to power, his
+      decisions and conduct have drawn intense scrutiny and distraction, often amplified
+      by the daily theatricality that has come to characterise his political style.
+      Yet international politics is not a stage for spectacle, and a single miscalculated
+      or unlawful war could trigger cascading consequences far beyond its point of origin,
+      destabilising entire regions and harming dozens of states. The collapse of the
+      Islamic Republic of Iran, in particular, would not resemble a conventional regime
+      change, but a systemic rupture with unpredictable geopolitical, security, and
+      societal repercussions. It would represent one of the most consequential geopolitical
+      ruptures of the modern era, producing immediate regional shockwaves and long-term
+      global repercussions. Iran is not comparable to Iraq in 2003, Afghanistan in 2001,
+      or Libya in 2011. It is a large, centralised state of more than 90 million people,
+      with entrenched institutions, a powerful security apparatus, and a strategic geography
+      linking the Gulf, the Caucasus, Central Asia, and the Levant. If it were to fall
+      suddenly, the consequences would extend far beyond its borders and rapidly reshape
+      the Middle East’s security landscape. Collapse would not follow a single path.
+      It could emerge from an internal struggle leading to fragmentation, or competing
+      centres of armed authority replacing a unified state. Iran’s internal architecture
+      makes this especially dangerous. Power is not concentrated solely in a civilian
+      administration but distributed across the Revolutionary Guard, Basij networks,
+      the regular army, intelligence bodies, and a wider constellation of regional allied
+      movements. If central authority fractures, these actors would not disappear: Weapons
+      depots, missile stockpiles, drones, and paramilitary networks would become contested
+      assets. Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly'
+    one_sentence_summary: Elijah J. Magnier warns that President Trump's actions in
+      international politics, particularly regarding Iran, could lead to severe and
+      unpredictable consequences, as the collapse of Iran would create a significant
+      geopolitical rupture unlike previous regime changes in Iraq, Afghanistan, or Libya.
+    paragraph_summary: Elijah J. Magnier's article discusses the potential consequences
+      of a collapse of the Islamic Republic of Iran under President Donald Trump's leadership,
+      emphasizing the gravity of such an event in international politics. Unlike previous
+      regime changes in Iraq, Afghanistan, or Libya, Iran's downfall would likely lead
+      to a systemic rupture with unpredictable geopolitical, security, and societal
+      ramifications due to its size, centralized governance, and strategic location.
+      The internal power structure of Iran, which includes various military and paramilitary
+      entities, suggests that a fragmentation of authority could result in contested
+      assets and heightened instability, not only within Iran but across the entire
+      Middle East, potentially reshaping the region's security landscape and affecting
+      global dynamics.
+    published: '2026-02-16T18:55:14+00:00'
+  - title: Quelles seraient les conséquences régionales et mondiales de l’effondrement
+      de la République islamique d’Iran ?
+    url: https://ejmagnier.com/2026/02/16/quelles-seraient-les-consequences-regionales-et-mondiales-de-leffondrement-de-la-republique-islamique-diran/
+    text: Par Elijah J. Magnier Depuis le retour au pouvoir du président Donald Trump,
+      ses décisions et son comportement suscitent une attention intense ainsi qu’une
+      forte distraction, souvent amplifiée par la théâtralité quotidienne qui caractérise
+      son style politique. Pourtant, la politique internationale n’est pas une scène
+      de spectacle, et une seule guerre mal calculée ou illégale pourrait déclencher
+      des conséquences en chaîne bien au-delà de son point d’origine, déstabilisant
+      des régions entières et affectant des dizaines d’États. L’effondrement de la République
+      islamique d’Iran, en particulier, ne ressemblerait pas à un changement de régime
+      conventionnel, mais constituerait une rupture systémique aux répercussions géopolitiques,
+      sécuritaires et sociétales imprévisibles. Il représenterait l’une des ruptures
+      géopolitiques les plus déterminantes de l’ère contemporaine, produisant des ondes
+      de choc régionales immédiates et des effets mondiaux durables. L’Iran n’est comparable
+      ni à l’Irak en 2003, ni à l’Afghanistan en 2001, ni à la Libye en 2011. Il s’agit
+      d’un État vaste et centralisé de plus de 90 millions d’habitants, doté d’institutions
+      enracinées, d’un appareil sécuritaire puissant et d’une géographie stratégique
+      reliant le Golfe, le Caucase, l’Asie centrale et le Levant. S’il venait à s’effondrer
+      soudainement, les conséquences dépasseraient largement ses frontières et reconfigureraient
+      rapidement le paysage sécuritaire du Moyen Orient. Un effondrement ne suivrait
+      pas une trajectoire unique. Il pourrait résulter d’une lutte interne conduisant
+      à une fragmentation, ou de l’émergence de centres armés concurrents remplaçant
+      un État unifié. L’architecture interne de l’Iran rend ce scénario particulièrement
+      dangereux. Le pouvoir n’est pas concentré uniquement dans une administration civile,
+      mais réparti entre les Gardiens de la Révolution, les réseaux Bassidj, l’armée
+      régulière, les services de renseignement et une constellation plus large de mouvements
+      alliés dans la région. Si l’autorité centrale se fracturait, ces acteurs ne disparaîtraient
+      pas. Les dépôts d’armes, stocks de missiles, drones et réseaux paramilitaires
+      deviendraient des ressources disputées. Subscribe Subscribe to get access Read
+      more of this content when you subscribe today. Subscribe Submitting form Log in
+      Make a one-time donation Your contribution is appreciated. Donate Make a monthly
+      donation Your contribution is appreciated. Donate monthly Make a yearly donation
+      Your contribution is appreciated. Donate yearly
+    one_sentence_summary: L'article souligne que les décisions et le comportement du
+      président Donald Trump, bien qu'attirant une attention médiatique intense, pourraient
+      avoir des conséquences géopolitiques dévastatrices, notamment en cas d'effondrement
+      de la République islamique d'Iran, qui entraînerait des répercussions systémiques
+      à l'échelle régionale et mondiale.
+    paragraph_summary: L'article d'Elijah J. Magnier met en lumière les implications
+      géopolitiques potentiellement dévastatrices d'un effondrement de la République
+      islamique d'Iran, en soulignant que cela ne serait pas un simple changement de
+      régime, mais un bouleversement systémique aux conséquences imprévisibles pour
+      la région et au-delà. Contrairement à d'autres interventions militaires passées,
+      l'Iran, avec sa population de plus de 90 millions d'habitants et ses institutions
+      solides, représente un État centralisé dont la chute pourrait entraîner une fragmentation
+      interne ou l'émergence de factions armées, redéfinissant ainsi le paysage sécuritaire
+      du Moyen-Orient. Magnier avertit que les conséquences d'un tel effondrement pourraient
+      être bien plus étendues, affectant des dizaines d'États et provoquant des ondes
+      de choc régionales et mondiales.
+    published: '2026-02-16T18:54:04+00:00'
+  - title: Quelles seraient les conséquences régionales et mondiales de l’effondrement
+      de la République islamique d’Iran ?
+    url: https://ejmagnier.com/2026/02/16/quelles-seraient-les-consequences-regionales-et-mondiales-de-leffondrement-de-la-republique-islamique-diran/
+    text: Par Elijah J. Magnier Depuis le retour au pouvoir du président Donald Trump,
+      ses décisions et son comportement suscitent une attention intense ainsi qu’une
+      forte distraction, souvent amplifiée par la théâtralité quotidienne qui caractérise
+      son style politique. Pourtant, la politique internationale n’est pas une scène
+      de spectacle, et une seule guerre mal calculée ou illégale pourrait déclencher
+      des conséquences en chaîne bien au-delà de son point d’origine, déstabilisant
+      des régions entières et affectant des dizaines d’États. L’effondrement de la République
+      islamique d’Iran, en particulier, ne ressemblerait pas à un changement de régime
+      conventionnel, mais constituerait une rupture systémique aux répercussions géopolitiques,
+      sécuritaires et sociétales imprévisibles. Il représenterait l’une des ruptures
+      géopolitiques les plus déterminantes de l’ère contemporaine, produisant des ondes
+      de choc régionales immédiates et des effets mondiaux durables. L’Iran n’est comparable
+      ni à l’Irak en 2003, ni à l’Afghanistan en 2001, ni à la Libye en 2011. Il s’agit
+      d’un État vaste et centralisé de plus de 90 millions d’habitants, doté d’institutions
+      enracinées, d’un appareil sécuritaire puissant et d’une géographie stratégique
+      reliant le Golfe, le Caucase, l’Asie centrale et le Levant. S’il venait à s’effondrer
+      soudainement, les conséquences dépasseraient largement ses frontières et reconfigureraient
+      rapidement le paysage sécuritaire du Moyen Orient. Un effondrement ne suivrait
+      pas une trajectoire unique. Il pourrait résulter d’une lutte interne conduisant
+      à une fragmentation, ou de l’émergence de centres armés concurrents remplaçant
+      un État unifié. L’architecture interne de l’Iran rend ce scénario particulièrement
+      dangereux. Le pouvoir n’est pas concentré uniquement dans une administration civile,
+      mais réparti entre les Gardiens de la Révolution, les réseaux Bassidj, l’armée
+      régulière, les services de renseignement et une constellation plus large de mouvements
+      alliés dans la région. Si l’autorité centrale se fracturait, ces acteurs ne disparaîtraient
+      pas. Les dépôts d’armes, stocks de missiles, drones et réseaux paramilitaires
+      deviendraient des ressources disputées. Subscribe Subscribe to get access Read
+      more of this content when you subscribe today. Subscribe Submitting form Log in
+      Make a one-time donation Your contribution is appreciated. Donate Make a monthly
+      donation Your contribution is appreciated. Donate monthly Make a yearly donation
+      Your contribution is appreciated. Donate yearly
+    one_sentence_summary: L'article souligne que les décisions et le comportement du
+      président Donald Trump, bien qu'attirant une attention médiatique intense, pourraient
+      avoir des conséquences géopolitiques dévastatrices, notamment en cas d'effondrement
+      de la République islamique d'Iran, qui entraînerait des répercussions systémiques
+      à l'échelle régionale et mondiale.
+    paragraph_summary: L'article d'Elijah J. Magnier met en lumière les implications
+      géopolitiques potentiellement dévastatrices d'un effondrement de la République
+      islamique d'Iran, en soulignant que cela ne serait pas un simple changement de
+      régime, mais un bouleversement systémique aux conséquences imprévisibles pour
+      la région et au-delà. Contrairement à d'autres interventions militaires passées,
+      l'Iran, avec sa population de plus de 90 millions d'habitants et ses institutions
+      solides, représente un État centralisé dont la chute pourrait entraîner une fragmentation
+      interne ou l'émergence de factions armées, redéfinissant ainsi le paysage sécuritaire
+      du Moyen-Orient. Magnier avertit que les conséquences d'un tel effondrement pourraient
+      être bien plus étendues, affectant des dizaines d'États et provoquant des ondes
+      de choc régionales et mondiales.
+    published: '2026-02-16T18:54:04+00:00'
+  - title: Was sind die regionalen und globalen Folgen eines Zusammenbruchs der Islamischen
+      Republik Iran?
+    url: https://ejmagnier.com/2026/02/16/was-sind-die-regionalen-und-globalen-folgen-eines-zusammenbruchs-der-islamischen-republik-iran/
+    text: 'Von Elijah J. Magnier Seit Präsident Donald Trump wieder an der Macht ist,
+      stehen seine Entscheidungen und sein Verhalten unter intensiver Beobachtung und
+      haben für viel Aufsehen gesorgt, was oft durch die tägliche Theatralik, die seinen
+      politischen Stil kennzeichnet, noch verstärkt wird. Doch die internationale Politik
+      ist keine Bühne für Spektakel, und ein einziger falsch kalkulierter oder unrechtmäßiger
+      Krieg könnte weit über seinen Ursprungsort hinaus weitreichende Folgen haben,
+      ganze Regionen destabilisieren und Dutzenden von Staaten Schaden zufügen. Insbesondere
+      der Zusammenbruch der Islamischen Republik Iran würde nicht einem herkömmlichen
+      Regimewechsel ähneln, sondern einem systemischen Bruch mit unvorhersehbaren geopolitischen,
+      sicherheitspolitischen und gesellschaftlichen Auswirkungen. Er würde eine der
+      folgenschwersten geopolitischen Brüche der Moderne darstellen und unmittelbare
+      regionale Schockwellen sowie langfristige globale Auswirkungen nach sich ziehen.
+      Der Iran ist nicht mit dem Irak im Jahr 2003, Afghanistan im Jahr 2001 oder Libyen
+      im Jahr 2011 vergleichbar. Er ist ein großer, zentralistischer Staat mit mehr
+      als 90 Millionen Einwohnern, fest verankerten Institutionen, einem mächtigen Sicherheitsapparat
+      und einer strategisch günstigen Lage, die den Golf, den Kaukasus, Zentralasien
+      und die Levante miteinander verbindet. Sollte er plötzlich fallen, würden die
+      Folgen weit über seine Grenzen hinausreichen und die Sicherheitslage im Nahen
+      Osten rasch verändern. Der Zusammenbruch würde nicht auf einem einzigen Weg erfolgen.
+      Er könnte aus einem internen Kampf resultieren, der zu einer Fragmentierung führt,
+      oder aus konkurrierenden Zentren bewaffneter Autorität, die einen einheitlichen
+      Staat ersetzen. Die interne Struktur des Iran macht dies besonders gefährlich.
+      Die Macht ist nicht allein in einer zivilen Verwaltung konzentriert, sondern verteilt
+      sich auf die Revolutionsgarde, die Basij-Netzwerke, die reguläre Armee, die Geheimdienste
+      und eine breitere Konstellation regionaler verbündeter Bewegungen. Wenn die zentrale
+      Autorität zerbricht, würden diese Akteure nicht verschwinden: Waffenlager, Raketenvorräte,
+      Drohnen und paramilitärische Netzwerke würden zu umkämpften Vermögenswerten werden.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly'
+    one_sentence_summary: Die Rückkehr von Donald Trump an die Macht hat seine Entscheidungen
+      und sein Verhalten in den Fokus gerückt, wobei insbesondere ein möglicher Zusammenbruch
+      des Iran weitreichende und unvorhersehbare geopolitische Folgen nach sich ziehen
+      könnte.
+    paragraph_summary: Der Artikel von Elijah J. Magnier beleuchtet die geopolitischen
+      Risiken und potenziellen Folgen eines möglichen Zusammenbruchs der Islamischen
+      Republik Iran unter der Präsidentschaft von Donald Trump. Magnier warnt, dass
+      ein solcher Zusammenbruch nicht nur einen herkömmlichen Regimewechsel darstellen
+      würde, sondern vielmehr zu einem systemischen Bruch führen könnte, der unvorhersehbare
+      Auswirkungen auf die Region und darüber hinaus hätte. Im Gegensatz zu früheren
+      Konflikten in Ländern wie Irak oder Libyen ist der Iran ein großer, zentralistischer
+      Staat mit einer komplexen internen Struktur und einem starken Sicherheitsapparat.
+      Ein plötzlicher Fall des Regimes könnte zu einer Fragmentierung des Landes oder
+      zu einem Machtkampf zwischen verschiedenen bewaffneten Gruppen führen, was die
+      Sicherheitslage im Nahen Osten erheblich destabilisieren würde.
+    published: '2026-02-16T18:52:59+00:00'
+  - title: Was sind die regionalen und globalen Folgen eines Zusammenbruchs der Islamischen
+      Republik Iran?
+    url: https://ejmagnier.com/2026/02/16/was-sind-die-regionalen-und-globalen-folgen-eines-zusammenbruchs-der-islamischen-republik-iran/
+    text: 'Von Elijah J. Magnier Seit Präsident Donald Trump wieder an der Macht ist,
+      stehen seine Entscheidungen und sein Verhalten unter intensiver Beobachtung und
+      haben für viel Aufsehen gesorgt, was oft durch die tägliche Theatralik, die seinen
+      politischen Stil kennzeichnet, noch verstärkt wird. Doch die internationale Politik
+      ist keine Bühne für Spektakel, und ein einziger falsch kalkulierter oder unrechtmäßiger
+      Krieg könnte weit über seinen Ursprungsort hinaus weitreichende Folgen haben,
+      ganze Regionen destabilisieren und Dutzenden von Staaten Schaden zufügen. Insbesondere
+      der Zusammenbruch der Islamischen Republik Iran würde nicht einem herkömmlichen
+      Regimewechsel ähneln, sondern einem systemischen Bruch mit unvorhersehbaren geopolitischen,
+      sicherheitspolitischen und gesellschaftlichen Auswirkungen. Er würde eine der
+      folgenschwersten geopolitischen Brüche der Moderne darstellen und unmittelbare
+      regionale Schockwellen sowie langfristige globale Auswirkungen nach sich ziehen.
+      Der Iran ist nicht mit dem Irak im Jahr 2003, Afghanistan im Jahr 2001 oder Libyen
+      im Jahr 2011 vergleichbar. Er ist ein großer, zentralistischer Staat mit mehr
+      als 90 Millionen Einwohnern, fest verankerten Institutionen, einem mächtigen Sicherheitsapparat
+      und einer strategisch günstigen Lage, die den Golf, den Kaukasus, Zentralasien
+      und die Levante miteinander verbindet. Sollte er plötzlich fallen, würden die
+      Folgen weit über seine Grenzen hinausreichen und die Sicherheitslage im Nahen
+      Osten rasch verändern. Der Zusammenbruch würde nicht auf einem einzigen Weg erfolgen.
+      Er könnte aus einem internen Kampf resultieren, der zu einer Fragmentierung führt,
+      oder aus konkurrierenden Zentren bewaffneter Autorität, die einen einheitlichen
+      Staat ersetzen. Die interne Struktur des Iran macht dies besonders gefährlich.
+      Die Macht ist nicht allein in einer zivilen Verwaltung konzentriert, sondern verteilt
+      sich auf die Revolutionsgarde, die Basij-Netzwerke, die reguläre Armee, die Geheimdienste
+      und eine breitere Konstellation regionaler verbündeter Bewegungen. Wenn die zentrale
+      Autorität zerbricht, würden diese Akteure nicht verschwinden: Waffenlager, Raketenvorräte,
+      Drohnen und paramilitärische Netzwerke würden zu umkämpften Vermögenswerten werden.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly'
+    one_sentence_summary: Die Rückkehr von Donald Trump an die Macht hat seine Entscheidungen
+      und sein Verhalten in den Fokus gerückt, wobei insbesondere ein möglicher Zusammenbruch
+      des Iran weitreichende und unvorhersehbare geopolitische Folgen nach sich ziehen
+      könnte.
+    paragraph_summary: Der Artikel von Elijah J. Magnier beleuchtet die geopolitischen
+      Risiken und potenziellen Folgen eines möglichen Zusammenbruchs der Islamischen
+      Republik Iran unter der Präsidentschaft von Donald Trump. Magnier warnt, dass
+      ein solcher Zusammenbruch nicht nur einen herkömmlichen Regimewechsel darstellen
+      würde, sondern vielmehr zu einem systemischen Bruch führen könnte, der unvorhersehbare
+      Auswirkungen auf die Region und darüber hinaus hätte. Im Gegensatz zu früheren
+      Konflikten in Ländern wie Irak oder Libyen ist der Iran ein großer, zentralistischer
+      Staat mit einer komplexen internen Struktur und einem starken Sicherheitsapparat.
+      Ein plötzlicher Fall des Regimes könnte zu einer Fragmentierung des Landes oder
+      zu einem Machtkampf zwischen verschiedenen bewaffneten Gruppen führen, was die
+      Sicherheitslage im Nahen Osten erheblich destabilisieren würde.
+    published: '2026-02-16T18:52:59+00:00'
+  - title: 'Decision-Making Authority in US-Israel Relations: Iran and the Dynamics
+      of Imminent Conflict'
+    url: https://ejmagnier.com/2026/02/12/decision-making-authority-in-us-israel-relations-iran-and-the-dynamics-of-imminent-conflict/
+    text: By Elijah J. Magnier The prospect of confrontation with Iran now extends beyond
+      military and diplomatic arenas, encompassing perception, signalling, and the complex
+      distribution of authority among allies. Israeli Prime Minister Benjamin Netanyahu’s
+      efforts in Washington to persuade US President Donald Trump to shift from diplomacy
+      to confrontation have implications that surpass bilateral coordination. Should
+      the United States transition from negotiation to open conflict, the resulting
+      perception could undermine the American administration by suggesting that Israel
+      exerts decisive influence over US decisions to enter war. This dynamic projects
+      an image of the United States, the world’s most powerful state, being guided by
+      a smaller ally located thousands of kilometres away. Consequently, critical questions
+      arise regarding who determines the rationale for US military engagement and whose
+      interests are ultimately prioritised. This issue reveals a more complex reality
+      within the United States. Decision-making in Washington is distributed among the
+      presidency, the Pentagon, intelligence agencies, and Congress. War results from
+      the interplay between these institutions, in which political signalling may encourage
+      confrontation while military planners exercise caution about escalation. Intelligence
+      agencies may highlight risks even as political leaders seek strategic advantage.
+      Although congressional authorisation is formally required, recent conflicts have
+      often proceeded under executive authority. Thus, the decision to initiate war
+      arises from the intersection of institutional power, political calculation, and
+      perceived credibility. The resulting uncertainty in these internal dynamics contributes
+      to perceptions of unpredictability from the outside. During the Trump–Netanyahu
+      meeting, Israel requested additional offensive and defensive equipment. This request
+      raises questions regarding the necessity for further military hardware, given
+      President Trump’s stated emphasis on negotiations and Netanyahu’s claims of having
+      concluded conflicts in Gaza, Lebanon, Yemen, and Iran. Despite these assertions,
+      Israeli military operations and casualties continue among Palestinians and Lebanese
+      in these regions. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly
+    one_sentence_summary: The article discusses how Israeli Prime Minister Netanyahu's
+      push for the U.S. to confront Iran could undermine American authority and perceptions
+      of its independence, raising questions about the influence of smaller allies on
+      U.S. military decisions.
+    paragraph_summary: The article by Elijah J. Magnier discusses the evolving dynamics
+      of U.S.-Iran relations, particularly in the context of Israeli Prime Minister
+      Benjamin Netanyahu's influence on U.S. military policy. It highlights concerns
+      that a shift from diplomacy to confrontation could portray the U.S. as being overly
+      influenced by Israel, thereby undermining its global standing. The decision-making
+      process in Washington is complex, involving multiple institutions such as the
+      presidency, Pentagon, intelligence agencies, and Congress, each with its own interests
+      and perspectives on military engagement. This interplay can lead to unpredictability
+      in U.S. actions, especially as political leaders may push for confrontation while
+      military planners advocate for caution. The article also notes Israel's request
+      for additional military equipment during the Trump-Netanyahu meeting, raising
+      questions about the necessity and implications of such military support amidst
+      shifting U.S. priorities.
+    published: '2026-02-12T19:53:09+00:00'
+  - title: 'Decision-Making Authority in US-Israel Relations: Iran and the Dynamics
+      of Imminent Conflict'
+    url: https://ejmagnier.com/2026/02/12/decision-making-authority-in-us-israel-relations-iran-and-the-dynamics-of-imminent-conflict/
+    text: By Elijah J. Magnier The prospect of confrontation with Iran now extends beyond
+      military and diplomatic arenas, encompassing perception, signalling, and the complex
+      distribution of authority among allies. Israeli Prime Minister Benjamin Netanyahu’s
+      efforts in Washington to persuade US President Donald Trump to shift from diplomacy
+      to confrontation have implications that surpass bilateral coordination. Should
+      the United States transition from negotiation to open conflict, the resulting
+      perception could undermine the American administration by suggesting that Israel
+      exerts decisive influence over US decisions to enter war. This dynamic projects
+      an image of the United States, the world’s most powerful state, being guided by
+      a smaller ally located thousands of kilometres away. Consequently, critical questions
+      arise regarding who determines the rationale for US military engagement and whose
+      interests are ultimately prioritised. This issue reveals a more complex reality
+      within the United States. Decision-making in Washington is distributed among the
+      presidency, the Pentagon, intelligence agencies, and Congress. War results from
+      the interplay between these institutions, in which political signalling may encourage
+      confrontation while military planners exercise caution about escalation. Intelligence
+      agencies may highlight risks even as political leaders seek strategic advantage.
+      Although congressional authorisation is formally required, recent conflicts have
+      often proceeded under executive authority. Thus, the decision to initiate war
+      arises from the intersection of institutional power, political calculation, and
+      perceived credibility. The resulting uncertainty in these internal dynamics contributes
+      to perceptions of unpredictability from the outside. During the Trump–Netanyahu
+      meeting, Israel requested additional offensive and defensive equipment. This request
+      raises questions regarding the necessity for further military hardware, given
+      President Trump’s stated emphasis on negotiations and Netanyahu’s claims of having
+      concluded conflicts in Gaza, Lebanon, Yemen, and Iran. Despite these assertions,
+      Israeli military operations and casualties continue among Palestinians and Lebanese
+      in these regions. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly
+    one_sentence_summary: The article discusses how Israeli Prime Minister Netanyahu's
+      push for the U.S. to confront Iran could undermine American authority and perceptions
+      of its independence, raising questions about the influence of smaller allies on
+      U.S. military decisions.
+    paragraph_summary: The article by Elijah J. Magnier discusses the evolving dynamics
+      of U.S.-Iran relations, particularly in the context of Israeli Prime Minister
+      Benjamin Netanyahu's influence on U.S. military policy. It highlights concerns
+      that a shift from diplomacy to confrontation could portray the U.S. as being overly
+      influenced by Israel, thereby undermining its global standing. The decision-making
+      process in Washington is complex, involving multiple institutions such as the
+      presidency, Pentagon, intelligence agencies, and Congress, each with its own interests
+      and perspectives on military engagement. This interplay can lead to unpredictability
+      in U.S. actions, especially as political leaders may push for confrontation while
+      military planners advocate for caution. The article also notes Israel's request
+      for additional military equipment during the Trump-Netanyahu meeting, raising
+      questions about the necessity and implications of such military support amidst
+      shifting U.S. priorities.
+    published: '2026-02-12T19:53:09+00:00'
+  - title: 'Autorité décisionnelle dans les relations États-Unis–Israël : l’Iran et
+      la dynamique d’un conflit imminent'
+    url: https://ejmagnier.com/2026/02/12/autorite-decisionnelle-dans-les-relations-etats-unis-israel-liran-et-la-dynamique-dun-conflit-imminent/
+    text: Par Elijah J. Magnier La perspective d’une confrontation avec l’Iran dépasse
+      désormais les seules arènes militaire et diplomatique pour englober les perceptions,
+      les signaux politiques et la répartition complexe de l’autorité entre alliés.
+      Les efforts du Premier ministre israélien Benjamin Netanyahu à Washington pour
+      convaincre le président américain Donald Trump de passer de la diplomatie à la
+      confrontation ont des implications qui dépassent la simple coordination bilatérale.
+      Si les États-Unis passaient des négociations à un conflit ouvert, la perception
+      qui en résulterait pourrait fragiliser l’administration américaine en suggérant
+      qu’Israël exerce une influence décisive sur la décision de Washington d’entrer
+      en guerre. Cette dynamique projette l’image des États-Unis, première puissance
+      mondiale, guidés par un allié plus petit situé à des milliers de kilomètres. Dès
+      lors, des questions essentielles se posent quant à l’origine des décisions d’engagement
+      militaire américain et aux intérêts réellement prioritaires. Cette problématique
+      révèle une réalité plus complexe au sein même des États-Unis. La prise de décision
+      à Washington est répartie entre la présidence, le Pentagone, les agences de renseignement
+      et le Congrès. La guerre résulte de l’interaction entre ces institutions, dans
+      laquelle les signaux politiques peuvent encourager la confrontation tandis que
+      les planificateurs militaires font preuve de prudence face au risque d’escalade.
+      Les agences de renseignement peuvent souligner les dangers alors que les dirigeants
+      politiques cherchent un avantage stratégique. Bien que l’autorisation du Congrès
+      soit formellement requise, les conflits récents ont souvent été conduits sous
+      l’autorité de l’exécutif. Ainsi, la décision d’entrer en guerre naît de l’intersection
+      entre pouvoir institutionnel, calcul politique et crédibilité perçue. L’incertitude
+      qui en découle alimente, de l’extérieur, une impression d’imprévisibilité. Lors
+      de la rencontre Trump–Netanyahu, Israël a demandé des équipements offensifs et
+      défensifs supplémentaires. Cette demande soulève la question de la nécessité de
+      nouveaux moyens militaires alors même que le président Trump met en avant l’option
+      des négociations et que Netanyahu affirme avoir mis fin aux conflits à Gaza, au
+      Liban, au Yémen et contre l’Iran. Malgré ces déclarations, les opérations militaires
+      israéliennes et les pertes se poursuivent parmi les Palestiniens et les Libanais
+      dans ces espaces. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly
+    one_sentence_summary: L'article souligne que la possibilité d'une confrontation
+      avec l'Iran dépasse les dimensions militaire et diplomatique, impliquant des perceptions
+      politiques complexes et la dynamique d'influence entre Israël et les États-Unis,
+      notamment à travers les efforts de Netanyahu pour inciter Trump à adopter une
+      posture plus agressive.
+    paragraph_summary: L'article d'Elijah J. Magnier examine la complexité des relations
+      entre les États-Unis et Israël dans le contexte d'une possible confrontation avec
+      l'Iran, soulignant que cette dynamique va au-delà des simples aspects militaires
+      et diplomatiques. Les efforts du Premier ministre israélien Benjamin Netanyahu
+      pour persuader le président américain Donald Trump de passer à une approche plus
+      agressive pourraient affaiblir la position des États-Unis sur la scène mondiale,
+      en suggérant que Washington agit sous l'influence d'Israël. La prise de décision
+      militaire aux États-Unis est décrite comme un processus complexe impliquant la
+      présidence, le Pentagone, les agences de renseignement et le Congrès, où des signaux
+      politiques peuvent favoriser la confrontation, tandis que des préoccupations militaires
+      incitent à la prudence. L'article met en lumière les tensions entre le pouvoir
+      institutionnel, les calculs politiques et la crédibilité perçue, créant ainsi
+      une impression d'imprévisibilité dans la politique étrangère américaine.
+    published: '2026-02-12T19:48:27+00:00'
+  - title: 'Autorité décisionnelle dans les relations États-Unis–Israël : l’Iran et
+      la dynamique d’un conflit imminent'
+    url: https://ejmagnier.com/2026/02/12/autorite-decisionnelle-dans-les-relations-etats-unis-israel-liran-et-la-dynamique-dun-conflit-imminent/
+    text: Par Elijah J. Magnier La perspective d’une confrontation avec l’Iran dépasse
+      désormais les seules arènes militaire et diplomatique pour englober les perceptions,
+      les signaux politiques et la répartition complexe de l’autorité entre alliés.
+      Les efforts du Premier ministre israélien Benjamin Netanyahu à Washington pour
+      convaincre le président américain Donald Trump de passer de la diplomatie à la
+      confrontation ont des implications qui dépassent la simple coordination bilatérale.
+      Si les États-Unis passaient des négociations à un conflit ouvert, la perception
+      qui en résulterait pourrait fragiliser l’administration américaine en suggérant
+      qu’Israël exerce une influence décisive sur la décision de Washington d’entrer
+      en guerre. Cette dynamique projette l’image des États-Unis, première puissance
+      mondiale, guidés par un allié plus petit situé à des milliers de kilomètres. Dès
+      lors, des questions essentielles se posent quant à l’origine des décisions d’engagement
+      militaire américain et aux intérêts réellement prioritaires. Cette problématique
+      révèle une réalité plus complexe au sein même des États-Unis. La prise de décision
+      à Washington est répartie entre la présidence, le Pentagone, les agences de renseignement
+      et le Congrès. La guerre résulte de l’interaction entre ces institutions, dans
+      laquelle les signaux politiques peuvent encourager la confrontation tandis que
+      les planificateurs militaires font preuve de prudence face au risque d’escalade.
+      Les agences de renseignement peuvent souligner les dangers alors que les dirigeants
+      politiques cherchent un avantage stratégique. Bien que l’autorisation du Congrès
+      soit formellement requise, les conflits récents ont souvent été conduits sous
+      l’autorité de l’exécutif. Ainsi, la décision d’entrer en guerre naît de l’intersection
+      entre pouvoir institutionnel, calcul politique et crédibilité perçue. L’incertitude
+      qui en découle alimente, de l’extérieur, une impression d’imprévisibilité. Lors
+      de la rencontre Trump–Netanyahu, Israël a demandé des équipements offensifs et
+      défensifs supplémentaires. Cette demande soulève la question de la nécessité de
+      nouveaux moyens militaires alors même que le président Trump met en avant l’option
+      des négociations et que Netanyahu affirme avoir mis fin aux conflits à Gaza, au
+      Liban, au Yémen et contre l’Iran. Malgré ces déclarations, les opérations militaires
+      israéliennes et les pertes se poursuivent parmi les Palestiniens et les Libanais
+      dans ces espaces. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly
+    one_sentence_summary: L'article souligne que la possibilité d'une confrontation
+      avec l'Iran dépasse les dimensions militaire et diplomatique, impliquant des perceptions
+      politiques complexes et la dynamique d'influence entre Israël et les États-Unis,
+      notamment à travers les efforts de Netanyahu pour inciter Trump à adopter une
+      posture plus agressive.
+    paragraph_summary: L'article d'Elijah J. Magnier examine la complexité des relations
+      entre les États-Unis et Israël dans le contexte d'une possible confrontation avec
+      l'Iran, soulignant que cette dynamique va au-delà des simples aspects militaires
+      et diplomatiques. Les efforts du Premier ministre israélien Benjamin Netanyahu
+      pour persuader le président américain Donald Trump de passer à une approche plus
+      agressive pourraient affaiblir la position des États-Unis sur la scène mondiale,
+      en suggérant que Washington agit sous l'influence d'Israël. La prise de décision
+      militaire aux États-Unis est décrite comme un processus complexe impliquant la
+      présidence, le Pentagone, les agences de renseignement et le Congrès, où des signaux
+      politiques peuvent favoriser la confrontation, tandis que des préoccupations militaires
+      incitent à la prudence. L'article met en lumière les tensions entre le pouvoir
+      institutionnel, les calculs politiques et la crédibilité perçue, créant ainsi
+      une impression d'imprévisibilité dans la politique étrangère américaine.
+    published: '2026-02-12T19:48:27+00:00'
+  - title: 'Entscheidungsgewalt in den Beziehungen zwischen den USA und Israel: Der
+      Iran und die Dynamik eines drohenden Konflikts'
+    url: https://ejmagnier.com/2026/02/12/entscheidungsgewalt-in-den-beziehungen-zwischen-den-usa-und-israel-der-iran-und-die-dynamik-eines-drohenden-konflikts/
+    text: 'Von Elijah J. Magnier Die Aussicht auf eine Konfrontation mit dem Iran geht
+      mittlerweile über den militärischen und diplomatischen Bereich hinaus und umfasst
+      auch die Wahrnehmung, die Signalgebung und die komplexe Verteilung der Macht unter
+      den Verbündeten. Die Bemühungen des israelischen Premierministers Benjamin Netanjahu
+      in Washington, US-Präsident Donald Trump davon zu überzeugen, von Diplomatie zu
+      Konfrontation überzugehen, haben Auswirkungen, die über die bilaterale Koordination
+      hinausgehen. Sollten die Vereinigten Staaten von Verhandlungen zu einem offenen
+      Konflikt übergehen, könnte die daraus resultierende Wahrnehmung die amerikanische
+      Regierung untergraben, indem sie den Eindruck vermittelt, dass Israel entscheidenden
+      Einfluss auf die Entscheidung der USA zum Kriegseintritt ausübt. Diese Dynamik
+      vermittelt das Bild, dass die Vereinigten Staaten, der mächtigste Staat der Welt,
+      von einem kleineren Verbündeten geleitet werden, der Tausende von Kilometern entfernt
+      liegt. Infolgedessen stellen sich kritische Fragen darüber, wer die Gründe für
+      ein militärisches Engagement der USA bestimmt und wessen Interessen letztendlich
+      Vorrang haben. Diese Frage offenbart eine komplexere Realität innerhalb der Vereinigten
+      Staaten. Die Entscheidungsfindung in Washington verteilt sich auf das Präsidentenamt,
+      das Pentagon, die Geheimdienste und den Kongress. Krieg ist das Ergebnis des Zusammenspiels
+      dieser Institutionen, in dem politische Signale zur Konfrontation ermutigen können,
+      während Militärstrategen Vorsicht vor einer Eskalation walten lassen. Geheimdienste
+      können Risiken hervorheben, auch wenn politische Führer strategische Vorteile
+      anstreben. Obwohl formal eine Genehmigung des Kongresses erforderlich ist, wurden
+      die jüngsten Konflikte oft unter der Exekutivgewalt geführt. Die Entscheidung,
+      einen Krieg zu beginnen, entsteht also aus dem Zusammenspiel von institutioneller
+      Macht, politischen Kalkülen und wahrgenommener Glaubwürdigkeit. Die daraus resultierende
+      Unsicherheit in diesen internen Dynamiken trägt dazu bei, dass von außen eine
+      Unvorhersehbarkeit wahrgenommen wird. Während des Treffens zwischen Trump und
+      Netanjahu forderte Israel zusätzliche Offensiv- und Defensivausrüstung. Diese
+      Forderung wirft Fragen hinsichtlich der Notwendigkeit weiterer militärischer Ausrüstung
+      auf, da Präsident Trump den Schwerpunkt auf Verhandlungen gelegt hat und Netanjahu
+      behauptet, die Konflikte in Gaza, im Libanon, im Jemen und im Iran beendet zu
+      haben. Trotz dieser Behauptungen dauern die israelischen Militäroperationen und
+      die Opfer unter den Palästinensern und Libanesen in diesen Regionen an. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Diese widersprüchlichen Signale erfordern Vorsicht, zumal
+      die US-Regierung wahrscheinlich kein Ergebnis akzeptieren wird, bei dem die Sanktionen
+      gegen den Iran aufgehoben werden, westliche Investoren zurückkehren und das iranische
+      Raketenprogramm weiterläuft. Dies gilt auch dann, wenn ein Atomabkommen strenge
+      Beschränkungen für die zivilen Nuklearaktivitäten des Iran vorsieht, um die Anreicherung
+      von waffenfähigem Uran zu verhindern. Für den Iran führt diese Unsicherheit zu
+      einer tieferen strategischen Kalkulation. Teheran geht bereits davon aus, dass
+      die endgültige Entscheidung über Krieg oder Frieden möglicherweise nicht in vorhersehbaren
+      institutionellen Kanälen getroffen wird und dass plötzliche Umschwünge weiterhin
+      möglich sind. Im Falle eines Konflikts würde Netanjahu wahrscheinlich eine Botschaft
+      bekräftigen, die er seit Jahren gegenüber israelischen Politikern und den internationalen
+      Medien wiederholt: dass die Steuerung Washingtons für die strategische Haltung
+      Israels von zentraler Bedeutung ist. Dies impliziert, dass die amerikanische Militärmacht
+      entsprechend der israelischen Bedrohungswahrnehmung mobilisiert werden könnte,
+      was das Misstrauen des Iran weiter verstärken würde. Die strategische Logik Israels
+      geht über das Vertrauen in den Einfluss Washingtons hinaus. Sie basiert auf einer
+      langjährigen Doktrin der Präemption und der Überzeugung, dass die Möglichkeiten,
+      die Fähigkeiten des Iran zu schwächen, mit der Zeit abnehmen könnten. Israelische
+      Entscheidungsträger bewerten Bedrohungen auf der Grundlage historischer Erfahrungen
+      und der Erwartung, dass Verzögerungen den Gegnern zugutekommen. Der innenpolitische
+      Druck veranlasst die Führungsspitze zusätzlich, angesichts der anhaltenden regionalen
+      Spannungen und internen Debatten Entschlossenheit zu zeigen. Folglich umfasst
+      die strategische Haltung Israels Abschreckung, Dringlichkeit und die Bereitschaft,
+      zu handeln, bevor die Risiken eskalieren. Die iranischen Verantwortlichen bleiben
+      trotz der laufenden Verhandlungen skeptisch gegenüber den Aussichten auf eine
+      Wiederaufnahme der Diplomatie. Ihr Ansatz ist durch eine Doppelstrategie gekennzeichnet:
+      Sie bleiben am Verhandlungstisch präsent und bereiten sich gleichzeitig auf die
+      Möglichkeit einer unmittelbaren militärischen Konfrontation vor. Das Vertrauen
+      wurde durch frühere Erfahrungen untergraben, insbesondere durch die Ereignisse
+      vom Juni 2025, als es während aktiver diplomatischer Kontakte zu militärischen
+      Aktionen Israels und der USA kam. Diese Geschichte prägt die aktuellen Erwartungen.
+      Die iranischen Entscheidungsträger gehen nicht davon aus, dass Donald Trump den
+      von Teheran vorgeschlagenen Rahmen akzeptieren wird, der die Fortsetzung der Urananreicherung
+      im Inland unter strenger Aufsicht der Internationalen Atomenergiebehörde vorsieht,
+      einschließlich intrusiver Inspektionen und unangekündigter Besuche sowohl an deklarierten
+      als auch an verdächtigen Nuklearstandorten, während das Raketenprogramm von den
+      Verhandlungen ausgenommen wird. Gleichzeitig betont der Iran, dass seine strategischen
+      Entscheidungen souverän sind, auch wenn er sich bereit zeigt, hochangereichertes
+      Uran gegen eine Lockerung der Sanktionen einzutauschen. Aus Sicht Teherans gelten
+      Vorbereitungen für einen Konflikt nun als unvermeidlich. Die iranischen Entscheidungsträger
+      argumentieren zunehmend, dass jede Konzession in Bezug auf die Urananreicherung
+      weitere Forderungen nach sich ziehen könnte. Sie befürchten, dass selbst eine
+      begrenzte Rücknahme zu einem späteren Druck zur Auflösung der Basij und der Islamischen
+      Revolutionsgarde führen könnte, was letztlich zur Einhaltung der US-Vorgaben führen
+      würde. Diese Wahrnehmung wird durch die umfangreiche militärische Präsenz der
+      USA in der Region noch verstärkt. Die Vereinigten Staaten unterhalten ein breites
+      Netzwerk von Luftwaffenstützpunkten, die im Kriegsfall mobilisiert werden können,
+      wobei die Seestreitkräfte nur einen Aspekt ihrer Machtprojektion darstellen. Die
+      umgebende Infrastruktur der Stützpunkte bildet den Kern der operativen Reichweite
+      der USA. Folglich ändert die Stationierung eines zusätzlichen Flugzeugträgers
+      nichts Wesentliches an der Bedrohungswahrnehmung des Iran. Teheran geht bereits
+      davon aus, dass die für einen Konflikt notwendige Infrastruktur vorhanden ist
+      und dass die Wahrscheinlichkeit eines regionalen Krieges zunimmt. Der regionale
+      Kontext verkompliziert die strategischen Kalküle zusätzlich. Die Golfstaaten versuchen,
+      ein Gleichgewicht zwischen Washington und Teheran herzustellen, indem sie Sicherheitspartnerschaften
+      mit den Vereinigten Staaten aufrechterhalten und gleichzeitig eine direkte Konfrontation
+      mit dem Iran vermeiden. Nichtstaatliche Akteure im Irak, im Libanon und im Jemen
+      tragen zu einem vielschichtigen Abschreckungsumfeld bei, in dem es indirekt zu
+      einer Eskalation kommen kann. Die Seewege im Golf und im Roten Meer sind weiterhin
+      anfällig für Störungen, wodurch jede Konfrontation zu einer umfassenderen regionalen
+      Krise führen könnte. Die geografische Lage sorgt dafür, dass ein Konflikt nicht
+      auf die Hauptstädte der wichtigsten Akteure beschränkt bleiben würde. Im strategischen
+      Diskurs des Iran werden die Risiken in existenziellen Begriffen formuliert. Viele
+      Entscheidungsträger betrachten eine mögliche zukünftige Konfrontation als entscheidend
+      für das Überleben der Islamischen Republik. Die vorherrschende Erwartung ist,
+      dass ein solcher Konflikt einen einzigen Sieger hervorbringen würde. Sollte der
+      Iran trotz des Risikos schwerer Zerstörungen seine Raketenkapazitäten, die Israel
+      erreichen können, aufrechterhalten und den Forderungen der USA widerstehen, würde
+      dieses Ergebnis im Inland als Sieg für Teheran und sein politisches System angesehen
+      werden. Diese strategische Logik hat die internen Vorbereitungen des Iran geprägt.
+      Die Behörden haben ihre Bemühungen zur Sicherung der nuklearen und militärischen
+      Infrastruktur verstärkt, die Raketenproduktion erheblich ausgeweitet und der Festigung
+      der inneren Einheit gegen vermeintliche ausländische Einmischung Vorrang eingeräumt.
+      Die Sicherheitsprotokolle wurden verschärft, um sicherzustellen, dass hochrangige
+      Beamte vorbereitet sind. Während Diplomaten weiterhin friedliche Lösungen anstreben
+      und Zugeständnisse in Betracht ziehen, die die nationale Sicherheit nicht gefährden,
+      geht der gesamte Staatsapparat davon aus, dass es jederzeit zu einem Konflikt
+      kommen könnte. In allen Bereichen der Regierung herrscht weiterhin hohe Wachsamkeit.
+      Als Reaktion auf die eskalierenden Spannungen mit dem Iran haben Israel und die
+      Vereinigten Staaten ihre gemeinsamen Vorbereitungen zur Raketenabwehr intensiviert,
+      darunter auch fortgeschrittene Live-Feuertests des David’s Sling-Systems in Zusammenarbeit
+      zwischen der Israel Missile Defence Organisation und der US Missile Defence Agency.
+      Diese Übungen simulierten komplexe Szenarien mit mehreren Bedrohungen, darunter
+      fortschrittliche Marschflugkörper, ballistische Raketen, Drohnen und Flugzeuge,
+      wobei operative Erkenntnisse aus jüngsten regionalen Konflikten einflossen und
+      eine erweiterte Abfangreichweite gegen Langstreckenbedrohungen validiert wurde.
+      David’s Sling, das den kinetischen Abfangjäger Stunner nutzt und in die Radarsysteme
+      von Elta und die Befehlssysteme von Elbit integriert ist, bildet neben Arrow und
+      Iron Dome die zentrale Ebene der mehrschichtigen Verteidigungsarchitektur Israels.
+      Seine Fähigkeiten wurden durch die Integration des neu gelieferten Lasersystems
+      Or Eitan weiter verbessert, das die Abfangfähigkeit gegen Drohnen und Kurzstreckenbedrohungen
+      verbessern soll. Diese Entwicklungen, die in einer Zeit erheblicher regionaler
+      Spannungen stattfanden, unterstreichen die fortgesetzte militärische Zusammenarbeit
+      zwischen den USA und Israel und spiegeln die anhaltenden Bemühungen wider, sich
+      auf Eskalationsszenarien vorzubereiten, die komplexe, mehrere Bereiche umfassende
+      Luftangriffe des Iran oder seiner regionalen Verbündeten beinhalten. Die möglichen
+      Wege zu einer Eskalation sind zahlreich und unvorhersehbar. Ein Angriff auf die
+      nukleare Infrastruktur könnte eine sofortige Vergeltungsmaßnahme provozieren.
+      Fehleinschätzungen im Zusammenhang mit bewaffneten Gruppen im Irak, in Syrien
+      oder im Libanon könnten zu einer direkten Konfrontation eskalieren. Maritime Zwischenfälle
+      im Golf können die globale Energieversorgung stören und schnelle militärische
+      Reaktionen hervorrufen. Cyberoperationen, die auf kritische Infrastrukturen abzielen,
+      können die Grenze zwischen verdecktem Druck und offenen Feindseligkeiten verwischen.
+      Ein Konflikt beginnt möglicherweise nicht mit einer formellen Kriegserklärung,
+      sondern durch eine Abfolge unbeabsichtigter Ereignisse. Über die unmittelbare
+      Region hinaus steht die Krise in einem größeren globalen Kontext. Russland und
+      China beobachten die Entwicklungen aufmerksam und wägen ihre strategischen Partnerschaften
+      mit dem Iran gegen ihre umfassenderen Beziehungen zu westlichen Staaten ab. Die
+      Sanktionsmüdigkeit in Teilen der Weltwirtschaft hat bereits die Wirksamkeit von
+      Druckkampagnen beeinträchtigt. Die Glaubwürdigkeit der Abschreckung durch die
+      USA wird nicht nur im Nahen Osten, sondern auch in Europa und Asien kritisch beäugt,
+      wo Verbündete und Gegner gleichermaßen die Entschlossenheit und Fähigkeit Washingtons
+      zur Bewältigung einer Eskalation einschätzen. Folglich hätte ein Konflikt mit
+      dem Iran Auswirkungen, die weit über seinen geografischen Ursprungsort hinausreichen
+      würden. Zum gegenwärtigen Zeitpunkt sind die Folgen eines größeren Krieges eher
+      konkret als theoretisch. Die potenziellen menschlichen und wirtschaftlichen Kosten
+      für den Iran, Israel, die gesamte Region und die Weltwirtschaft sind weithin bekannt.
+      Die Energiemärkte, Lieferketten, Finanzsysteme und die regionale Stabilität würden
+      erheblich beeinträchtigt werden. Daher hat die Entscheidung, einen solchen Konflikt
+      zu beginnen, Auswirkungen, die weit über nationale Interessen hinausgehen. Die
+      wichtigste Frage ist nicht mehr die Existenz militärischer Kapazitäten für einen
+      Krieg, da die notwendige Infrastruktur, Allianzen und Operationspläne bereits
+      vorhanden sind. Die verbleibende Unsicherheit betrifft die Frage, wer letztendlich
+      den politischen Zeitpunkt bestimmt, zu dem die Fähigkeiten in die Tat umgesetzt
+      werden. Die Abschreckung hat sich von der Verhinderung eines Krieges hin zur Steuerung
+      seines Zeitpunkts entwickelt, wobei die Wahrnehmung mittlerweile eine größere
+      Rolle bei der Eskalation spielt als materielle Beschränkungen. Sollte es aufgrund
+      von Entscheidungen in Washington und Tel Aviv zu einem Krieg kommen, wären die
+      Folgen weitreichend und würden nicht nur die regionale Sicherheit, sondern auch
+      die internationale Ordnung, die auf ihrem prekären Gleichgewicht beruht, verändern.
+      Make a one-time donation Your contribution is appreciated. Donate Make a monthly
+      donation Your contribution is appreciated. Donate monthly Make a yearly donation
+      Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Die Bemühungen von Israels Premierminister Benjamin Netanjahu,
+      die USA zu einer Konfrontation mit dem Iran zu bewegen, könnten nicht nur die
+      bilateralen Beziehungen belasten, sondern auch das globale Machtgefüge und die
+      Wahrnehmung der amerikanischen Einflussnahme untergraben, indem sie den Eindruck
+      erwecken, dass Israel die Entscheidungen der USA in Bezug auf militärische Konflikte
+      dominiert.
+    paragraph_summary: Elijah J. Magnier diskutiert die wachsenden Spannungen zwischen
+      den USA und Iran, die über militärische und diplomatische Aspekte hinausgehen
+      und auch die Wahrnehmung und Machtverhältnisse unter den Verbündeten betreffen.
+      Insbesondere die Bemühungen des israelischen Premierministers Benjamin Netanjahu,
+      US-Präsident Donald Trump von einer diplomatischen Lösung zu einer konfrontativen
+      Haltung zu überzeugen, könnten das Bild vermitteln, dass Israel einen übermäßigen
+      Einfluss auf die amerikanische Kriegsentscheidung hat. Dies wirft Fragen darüber
+      auf, wer in den USA tatsächlich die Gründe für militärisches Engagement bestimmt
+      und wessen Interessen priorisiert werden. Die Entscheidungsfindung in Washington
+      ist komplex und umfasst verschiedene Institutionen, wobei politische Signale zu
+      Konfrontation ermutigen können, während militärische Strategen zur Vorsicht raten.
+      Letztlich entsteht die Entscheidung für einen Krieg aus einem Zusammenspiel von
+      institutioneller Macht, politischen Überlegungen und der Wahrnehmung von Glaubwürdigkeit,
+      was zu einer unsicheren Situation führt.
+    published: '2026-02-12T19:44:36+00:00'
+  - title: 'Entscheidungsgewalt in den Beziehungen zwischen den USA und Israel: Der
+      Iran und die Dynamik eines drohenden Konflikts'
+    url: https://ejmagnier.com/2026/02/12/entscheidungsgewalt-in-den-beziehungen-zwischen-den-usa-und-israel-der-iran-und-die-dynamik-eines-drohenden-konflikts/
+    text: 'Von Elijah J. Magnier Die Aussicht auf eine Konfrontation mit dem Iran geht
+      mittlerweile über den militärischen und diplomatischen Bereich hinaus und umfasst
+      auch die Wahrnehmung, die Signalgebung und die komplexe Verteilung der Macht unter
+      den Verbündeten. Die Bemühungen des israelischen Premierministers Benjamin Netanjahu
+      in Washington, US-Präsident Donald Trump davon zu überzeugen, von Diplomatie zu
+      Konfrontation überzugehen, haben Auswirkungen, die über die bilaterale Koordination
+      hinausgehen. Sollten die Vereinigten Staaten von Verhandlungen zu einem offenen
+      Konflikt übergehen, könnte die daraus resultierende Wahrnehmung die amerikanische
+      Regierung untergraben, indem sie den Eindruck vermittelt, dass Israel entscheidenden
+      Einfluss auf die Entscheidung der USA zum Kriegseintritt ausübt. Diese Dynamik
+      vermittelt das Bild, dass die Vereinigten Staaten, der mächtigste Staat der Welt,
+      von einem kleineren Verbündeten geleitet werden, der Tausende von Kilometern entfernt
+      liegt. Infolgedessen stellen sich kritische Fragen darüber, wer die Gründe für
+      ein militärisches Engagement der USA bestimmt und wessen Interessen letztendlich
+      Vorrang haben. Diese Frage offenbart eine komplexere Realität innerhalb der Vereinigten
+      Staaten. Die Entscheidungsfindung in Washington verteilt sich auf das Präsidentenamt,
+      das Pentagon, die Geheimdienste und den Kongress. Krieg ist das Ergebnis des Zusammenspiels
+      dieser Institutionen, in dem politische Signale zur Konfrontation ermutigen können,
+      während Militärstrategen Vorsicht vor einer Eskalation walten lassen. Geheimdienste
+      können Risiken hervorheben, auch wenn politische Führer strategische Vorteile
+      anstreben. Obwohl formal eine Genehmigung des Kongresses erforderlich ist, wurden
+      die jüngsten Konflikte oft unter der Exekutivgewalt geführt. Die Entscheidung,
+      einen Krieg zu beginnen, entsteht also aus dem Zusammenspiel von institutioneller
+      Macht, politischen Kalkülen und wahrgenommener Glaubwürdigkeit. Die daraus resultierende
+      Unsicherheit in diesen internen Dynamiken trägt dazu bei, dass von außen eine
+      Unvorhersehbarkeit wahrgenommen wird. Während des Treffens zwischen Trump und
+      Netanjahu forderte Israel zusätzliche Offensiv- und Defensivausrüstung. Diese
+      Forderung wirft Fragen hinsichtlich der Notwendigkeit weiterer militärischer Ausrüstung
+      auf, da Präsident Trump den Schwerpunkt auf Verhandlungen gelegt hat und Netanjahu
+      behauptet, die Konflikte in Gaza, im Libanon, im Jemen und im Iran beendet zu
+      haben. Trotz dieser Behauptungen dauern die israelischen Militäroperationen und
+      die Opfer unter den Palästinensern und Libanesen in diesen Regionen an. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Diese widersprüchlichen Signale erfordern Vorsicht, zumal
+      die US-Regierung wahrscheinlich kein Ergebnis akzeptieren wird, bei dem die Sanktionen
+      gegen den Iran aufgehoben werden, westliche Investoren zurückkehren und das iranische
+      Raketenprogramm weiterläuft. Dies gilt auch dann, wenn ein Atomabkommen strenge
+      Beschränkungen für die zivilen Nuklearaktivitäten des Iran vorsieht, um die Anreicherung
+      von waffenfähigem Uran zu verhindern. Für den Iran führt diese Unsicherheit zu
+      einer tieferen strategischen Kalkulation. Teheran geht bereits davon aus, dass
+      die endgültige Entscheidung über Krieg oder Frieden möglicherweise nicht in vorhersehbaren
+      institutionellen Kanälen getroffen wird und dass plötzliche Umschwünge weiterhin
+      möglich sind. Im Falle eines Konflikts würde Netanjahu wahrscheinlich eine Botschaft
+      bekräftigen, die er seit Jahren gegenüber israelischen Politikern und den internationalen
+      Medien wiederholt: dass die Steuerung Washingtons für die strategische Haltung
+      Israels von zentraler Bedeutung ist. Dies impliziert, dass die amerikanische Militärmacht
+      entsprechend der israelischen Bedrohungswahrnehmung mobilisiert werden könnte,
+      was das Misstrauen des Iran weiter verstärken würde. Die strategische Logik Israels
+      geht über das Vertrauen in den Einfluss Washingtons hinaus. Sie basiert auf einer
+      langjährigen Doktrin der Präemption und der Überzeugung, dass die Möglichkeiten,
+      die Fähigkeiten des Iran zu schwächen, mit der Zeit abnehmen könnten. Israelische
+      Entscheidungsträger bewerten Bedrohungen auf der Grundlage historischer Erfahrungen
+      und der Erwartung, dass Verzögerungen den Gegnern zugutekommen. Der innenpolitische
+      Druck veranlasst die Führungsspitze zusätzlich, angesichts der anhaltenden regionalen
+      Spannungen und internen Debatten Entschlossenheit zu zeigen. Folglich umfasst
+      die strategische Haltung Israels Abschreckung, Dringlichkeit und die Bereitschaft,
+      zu handeln, bevor die Risiken eskalieren. Die iranischen Verantwortlichen bleiben
+      trotz der laufenden Verhandlungen skeptisch gegenüber den Aussichten auf eine
+      Wiederaufnahme der Diplomatie. Ihr Ansatz ist durch eine Doppelstrategie gekennzeichnet:
+      Sie bleiben am Verhandlungstisch präsent und bereiten sich gleichzeitig auf die
+      Möglichkeit einer unmittelbaren militärischen Konfrontation vor. Das Vertrauen
+      wurde durch frühere Erfahrungen untergraben, insbesondere durch die Ereignisse
+      vom Juni 2025, als es während aktiver diplomatischer Kontakte zu militärischen
+      Aktionen Israels und der USA kam. Diese Geschichte prägt die aktuellen Erwartungen.
+      Die iranischen Entscheidungsträger gehen nicht davon aus, dass Donald Trump den
+      von Teheran vorgeschlagenen Rahmen akzeptieren wird, der die Fortsetzung der Urananreicherung
+      im Inland unter strenger Aufsicht der Internationalen Atomenergiebehörde vorsieht,
+      einschließlich intrusiver Inspektionen und unangekündigter Besuche sowohl an deklarierten
+      als auch an verdächtigen Nuklearstandorten, während das Raketenprogramm von den
+      Verhandlungen ausgenommen wird. Gleichzeitig betont der Iran, dass seine strategischen
+      Entscheidungen souverän sind, auch wenn er sich bereit zeigt, hochangereichertes
+      Uran gegen eine Lockerung der Sanktionen einzutauschen. Aus Sicht Teherans gelten
+      Vorbereitungen für einen Konflikt nun als unvermeidlich. Die iranischen Entscheidungsträger
+      argumentieren zunehmend, dass jede Konzession in Bezug auf die Urananreicherung
+      weitere Forderungen nach sich ziehen könnte. Sie befürchten, dass selbst eine
+      begrenzte Rücknahme zu einem späteren Druck zur Auflösung der Basij und der Islamischen
+      Revolutionsgarde führen könnte, was letztlich zur Einhaltung der US-Vorgaben führen
+      würde. Diese Wahrnehmung wird durch die umfangreiche militärische Präsenz der
+      USA in der Region noch verstärkt. Die Vereinigten Staaten unterhalten ein breites
+      Netzwerk von Luftwaffenstützpunkten, die im Kriegsfall mobilisiert werden können,
+      wobei die Seestreitkräfte nur einen Aspekt ihrer Machtprojektion darstellen. Die
+      umgebende Infrastruktur der Stützpunkte bildet den Kern der operativen Reichweite
+      der USA. Folglich ändert die Stationierung eines zusätzlichen Flugzeugträgers
+      nichts Wesentliches an der Bedrohungswahrnehmung des Iran. Teheran geht bereits
+      davon aus, dass die für einen Konflikt notwendige Infrastruktur vorhanden ist
+      und dass die Wahrscheinlichkeit eines regionalen Krieges zunimmt. Der regionale
+      Kontext verkompliziert die strategischen Kalküle zusätzlich. Die Golfstaaten versuchen,
+      ein Gleichgewicht zwischen Washington und Teheran herzustellen, indem sie Sicherheitspartnerschaften
+      mit den Vereinigten Staaten aufrechterhalten und gleichzeitig eine direkte Konfrontation
+      mit dem Iran vermeiden. Nichtstaatliche Akteure im Irak, im Libanon und im Jemen
+      tragen zu einem vielschichtigen Abschreckungsumfeld bei, in dem es indirekt zu
+      einer Eskalation kommen kann. Die Seewege im Golf und im Roten Meer sind weiterhin
+      anfällig für Störungen, wodurch jede Konfrontation zu einer umfassenderen regionalen
+      Krise führen könnte. Die geografische Lage sorgt dafür, dass ein Konflikt nicht
+      auf die Hauptstädte der wichtigsten Akteure beschränkt bleiben würde. Im strategischen
+      Diskurs des Iran werden die Risiken in existenziellen Begriffen formuliert. Viele
+      Entscheidungsträger betrachten eine mögliche zukünftige Konfrontation als entscheidend
+      für das Überleben der Islamischen Republik. Die vorherrschende Erwartung ist,
+      dass ein solcher Konflikt einen einzigen Sieger hervorbringen würde. Sollte der
+      Iran trotz des Risikos schwerer Zerstörungen seine Raketenkapazitäten, die Israel
+      erreichen können, aufrechterhalten und den Forderungen der USA widerstehen, würde
+      dieses Ergebnis im Inland als Sieg für Teheran und sein politisches System angesehen
+      werden. Diese strategische Logik hat die internen Vorbereitungen des Iran geprägt.
+      Die Behörden haben ihre Bemühungen zur Sicherung der nuklearen und militärischen
+      Infrastruktur verstärkt, die Raketenproduktion erheblich ausgeweitet und der Festigung
+      der inneren Einheit gegen vermeintliche ausländische Einmischung Vorrang eingeräumt.
+      Die Sicherheitsprotokolle wurden verschärft, um sicherzustellen, dass hochrangige
+      Beamte vorbereitet sind. Während Diplomaten weiterhin friedliche Lösungen anstreben
+      und Zugeständnisse in Betracht ziehen, die die nationale Sicherheit nicht gefährden,
+      geht der gesamte Staatsapparat davon aus, dass es jederzeit zu einem Konflikt
+      kommen könnte. In allen Bereichen der Regierung herrscht weiterhin hohe Wachsamkeit.
+      Als Reaktion auf die eskalierenden Spannungen mit dem Iran haben Israel und die
+      Vereinigten Staaten ihre gemeinsamen Vorbereitungen zur Raketenabwehr intensiviert,
+      darunter auch fortgeschrittene Live-Feuertests des David’s Sling-Systems in Zusammenarbeit
+      zwischen der Israel Missile Defence Organisation und der US Missile Defence Agency.
+      Diese Übungen simulierten komplexe Szenarien mit mehreren Bedrohungen, darunter
+      fortschrittliche Marschflugkörper, ballistische Raketen, Drohnen und Flugzeuge,
+      wobei operative Erkenntnisse aus jüngsten regionalen Konflikten einflossen und
+      eine erweiterte Abfangreichweite gegen Langstreckenbedrohungen validiert wurde.
+      David’s Sling, das den kinetischen Abfangjäger Stunner nutzt und in die Radarsysteme
+      von Elta und die Befehlssysteme von Elbit integriert ist, bildet neben Arrow und
+      Iron Dome die zentrale Ebene der mehrschichtigen Verteidigungsarchitektur Israels.
+      Seine Fähigkeiten wurden durch die Integration des neu gelieferten Lasersystems
+      Or Eitan weiter verbessert, das die Abfangfähigkeit gegen Drohnen und Kurzstreckenbedrohungen
+      verbessern soll. Diese Entwicklungen, die in einer Zeit erheblicher regionaler
+      Spannungen stattfanden, unterstreichen die fortgesetzte militärische Zusammenarbeit
+      zwischen den USA und Israel und spiegeln die anhaltenden Bemühungen wider, sich
+      auf Eskalationsszenarien vorzubereiten, die komplexe, mehrere Bereiche umfassende
+      Luftangriffe des Iran oder seiner regionalen Verbündeten beinhalten. Die möglichen
+      Wege zu einer Eskalation sind zahlreich und unvorhersehbar. Ein Angriff auf die
+      nukleare Infrastruktur könnte eine sofortige Vergeltungsmaßnahme provozieren.
+      Fehleinschätzungen im Zusammenhang mit bewaffneten Gruppen im Irak, in Syrien
+      oder im Libanon könnten zu einer direkten Konfrontation eskalieren. Maritime Zwischenfälle
+      im Golf können die globale Energieversorgung stören und schnelle militärische
+      Reaktionen hervorrufen. Cyberoperationen, die auf kritische Infrastrukturen abzielen,
+      können die Grenze zwischen verdecktem Druck und offenen Feindseligkeiten verwischen.
+      Ein Konflikt beginnt möglicherweise nicht mit einer formellen Kriegserklärung,
+      sondern durch eine Abfolge unbeabsichtigter Ereignisse. Über die unmittelbare
+      Region hinaus steht die Krise in einem größeren globalen Kontext. Russland und
+      China beobachten die Entwicklungen aufmerksam und wägen ihre strategischen Partnerschaften
+      mit dem Iran gegen ihre umfassenderen Beziehungen zu westlichen Staaten ab. Die
+      Sanktionsmüdigkeit in Teilen der Weltwirtschaft hat bereits die Wirksamkeit von
+      Druckkampagnen beeinträchtigt. Die Glaubwürdigkeit der Abschreckung durch die
+      USA wird nicht nur im Nahen Osten, sondern auch in Europa und Asien kritisch beäugt,
+      wo Verbündete und Gegner gleichermaßen die Entschlossenheit und Fähigkeit Washingtons
+      zur Bewältigung einer Eskalation einschätzen. Folglich hätte ein Konflikt mit
+      dem Iran Auswirkungen, die weit über seinen geografischen Ursprungsort hinausreichen
+      würden. Zum gegenwärtigen Zeitpunkt sind die Folgen eines größeren Krieges eher
+      konkret als theoretisch. Die potenziellen menschlichen und wirtschaftlichen Kosten
+      für den Iran, Israel, die gesamte Region und die Weltwirtschaft sind weithin bekannt.
+      Die Energiemärkte, Lieferketten, Finanzsysteme und die regionale Stabilität würden
+      erheblich beeinträchtigt werden. Daher hat die Entscheidung, einen solchen Konflikt
+      zu beginnen, Auswirkungen, die weit über nationale Interessen hinausgehen. Die
+      wichtigste Frage ist nicht mehr die Existenz militärischer Kapazitäten für einen
+      Krieg, da die notwendige Infrastruktur, Allianzen und Operationspläne bereits
+      vorhanden sind. Die verbleibende Unsicherheit betrifft die Frage, wer letztendlich
+      den politischen Zeitpunkt bestimmt, zu dem die Fähigkeiten in die Tat umgesetzt
+      werden. Die Abschreckung hat sich von der Verhinderung eines Krieges hin zur Steuerung
+      seines Zeitpunkts entwickelt, wobei die Wahrnehmung mittlerweile eine größere
+      Rolle bei der Eskalation spielt als materielle Beschränkungen. Sollte es aufgrund
+      von Entscheidungen in Washington und Tel Aviv zu einem Krieg kommen, wären die
+      Folgen weitreichend und würden nicht nur die regionale Sicherheit, sondern auch
+      die internationale Ordnung, die auf ihrem prekären Gleichgewicht beruht, verändern.
+      Make a one-time donation Your contribution is appreciated. Donate Make a monthly
+      donation Your contribution is appreciated. Donate monthly Make a yearly donation
+      Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Die Bemühungen von Israels Premierminister Benjamin Netanjahu,
+      die USA zu einer Konfrontation mit dem Iran zu bewegen, könnten nicht nur die
+      bilateralen Beziehungen belasten, sondern auch das globale Machtgefüge und die
+      Wahrnehmung der amerikanischen Einflussnahme untergraben, indem sie den Eindruck
+      erwecken, dass Israel die Entscheidungen der USA in Bezug auf militärische Konflikte
+      dominiert.
+    paragraph_summary: Elijah J. Magnier diskutiert die wachsenden Spannungen zwischen
+      den USA und Iran, die über militärische und diplomatische Aspekte hinausgehen
+      und auch die Wahrnehmung und Machtverhältnisse unter den Verbündeten betreffen.
+      Insbesondere die Bemühungen des israelischen Premierministers Benjamin Netanjahu,
+      US-Präsident Donald Trump von einer diplomatischen Lösung zu einer konfrontativen
+      Haltung zu überzeugen, könnten das Bild vermitteln, dass Israel einen übermäßigen
+      Einfluss auf die amerikanische Kriegsentscheidung hat. Dies wirft Fragen darüber
+      auf, wer in den USA tatsächlich die Gründe für militärisches Engagement bestimmt
+      und wessen Interessen priorisiert werden. Die Entscheidungsfindung in Washington
+      ist komplex und umfasst verschiedene Institutionen, wobei politische Signale zu
+      Konfrontation ermutigen können, während militärische Strategen zur Vorsicht raten.
+      Letztlich entsteht die Entscheidung für einen Krieg aus einem Zusammenspiel von
+      institutioneller Macht, politischen Überlegungen und der Wahrnehmung von Glaubwürdigkeit,
+      was zu einer unsicheren Situation führt.
+    published: '2026-02-12T19:44:36+00:00'
+  - title: Ein Staat ohne Garantien und das Paradoxon der Abrüstung
+    url: https://ejmagnier.com/2026/02/11/ein-staat-ohne-garantien-und-das-paradoxon-der-abrustung/
+    text: Von Elijah J. Magnier – Die vorrangige Aufgabe eines Staates ist nicht rhetorische
+      Souveränität, sondern materieller Schutz. Vor Gesetzgebung, Besteuerung oder Diplomatie
+      besteht die grundlegende Funktion politischer Autorität darin, die Bevölkerung
+      vor externen Bedrohungen und internen Übergriffen zu schützen. Wo ein Staat diese
+      Funktion nicht glaubwürdig erfüllen kann, entstehen in der Regel alternative Schutzstrukturen,
+      nicht als ideologische Projekte, sondern als gesellschaftliche Reaktionen auf
+      Verwundbarkeit. In solchen Kontexten leiten Widerstandsbewegungen ihre Relevanz
+      nicht allein aus abstrakten Doktrinen ab, sondern aus ihrer Fähigkeit, ein Schutzvakuum
+      zu füllen, das durch fehlende oder handlungsunfähige staatliche Institutionen
+      entstanden ist. Der Libanon befindet sich seit langem in dieser zweideutigen Lage.
+      Seine Souveränität ist international anerkannt, doch seine Fähigkeit, sein Territorium
+      und seine Bevölkerung zu schützen, wurde wiederholt verletzt. Diese Situation
+      wurde nicht nur von libanesischen Beamten, sondern auch von externen Akteuren
+      anerkannt. Der Sonderbeauftragte des US-Präsidenten, Thomas Barrack, hat mehrfach
+      erklärt, dass der Libanon als gescheiterter Staat fungiert – eine Beschreibung,
+      die, unabhängig von ihrer politischen Absicht, implizit die Unfähigkeit des Staates
+      anerkennt, eine wirksame Kontrolle auszuüben oder Sicherheit zu garantieren. Solche
+      Charakterisierungen sind nicht neutral. Sie prägen die politischen Erwartungen
+      und normalisieren gleichzeitig das Fehlen von Schutz als gegeben. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: Die grundlegende Aufgabe eines Staates besteht darin, seine
+      Bevölkerung vor externen und internen Bedrohungen zu schützen, und wenn er dies
+      nicht glaubwürdig tun kann, entstehen alternative Schutzstrukturen, wie im Fall
+      des Libanons, wo trotz internationaler Anerkennung die staatliche Fähigkeit zur
+      Gewährleistung von Sicherheit wiederholt versagt hat.
+    paragraph_summary: Elijah J. Magnier argues that the primary role of a state is
+      to provide material protection for its citizens rather than merely asserting rhetorical
+      sovereignty. He emphasizes that the fundamental function of political authority
+      is to safeguard the population from external threats and internal violations.
+      When a state fails to fulfill this role credibly, alternative protection structures
+      often emerge as societal responses to vulnerability, with resistance movements
+      gaining relevance by filling the protection void left by ineffective state institutions.
+      The article highlights Lebanon's precarious situation, where, despite international
+      recognition of its sovereignty, the state's repeated failures to protect its territory
+      and people have led to its characterization as a failed state by figures like
+      U.S. Special Envoy Thomas Barrack. This characterization influences political
+      expectations and normalizes the absence of effective protection as a given.
+    published: '2026-02-11T18:49:58+00:00'
+  - title: Ein Staat ohne Garantien und das Paradoxon der Abrüstung
+    url: https://ejmagnier.com/2026/02/11/ein-staat-ohne-garantien-und-das-paradoxon-der-abrustung/
+    text: Von Elijah J. Magnier – Die vorrangige Aufgabe eines Staates ist nicht rhetorische
+      Souveränität, sondern materieller Schutz. Vor Gesetzgebung, Besteuerung oder Diplomatie
+      besteht die grundlegende Funktion politischer Autorität darin, die Bevölkerung
+      vor externen Bedrohungen und internen Übergriffen zu schützen. Wo ein Staat diese
+      Funktion nicht glaubwürdig erfüllen kann, entstehen in der Regel alternative Schutzstrukturen,
+      nicht als ideologische Projekte, sondern als gesellschaftliche Reaktionen auf
+      Verwundbarkeit. In solchen Kontexten leiten Widerstandsbewegungen ihre Relevanz
+      nicht allein aus abstrakten Doktrinen ab, sondern aus ihrer Fähigkeit, ein Schutzvakuum
+      zu füllen, das durch fehlende oder handlungsunfähige staatliche Institutionen
+      entstanden ist. Der Libanon befindet sich seit langem in dieser zweideutigen Lage.
+      Seine Souveränität ist international anerkannt, doch seine Fähigkeit, sein Territorium
+      und seine Bevölkerung zu schützen, wurde wiederholt verletzt. Diese Situation
+      wurde nicht nur von libanesischen Beamten, sondern auch von externen Akteuren
+      anerkannt. Der Sonderbeauftragte des US-Präsidenten, Thomas Barrack, hat mehrfach
+      erklärt, dass der Libanon als gescheiterter Staat fungiert – eine Beschreibung,
+      die, unabhängig von ihrer politischen Absicht, implizit die Unfähigkeit des Staates
+      anerkennt, eine wirksame Kontrolle auszuüben oder Sicherheit zu garantieren. Solche
+      Charakterisierungen sind nicht neutral. Sie prägen die politischen Erwartungen
+      und normalisieren gleichzeitig das Fehlen von Schutz als gegeben. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: Die grundlegende Aufgabe eines Staates besteht darin, seine
+      Bevölkerung vor externen und internen Bedrohungen zu schützen, und wenn er dies
+      nicht glaubwürdig tun kann, entstehen alternative Schutzstrukturen, wie im Fall
+      des Libanons, wo trotz internationaler Anerkennung die staatliche Fähigkeit zur
+      Gewährleistung von Sicherheit wiederholt versagt hat.
+    paragraph_summary: Elijah J. Magnier argues that the primary role of a state is
+      to provide material protection for its citizens rather than merely asserting rhetorical
+      sovereignty. He emphasizes that the fundamental function of political authority
+      is to safeguard the population from external threats and internal violations.
+      When a state fails to fulfill this role credibly, alternative protection structures
+      often emerge as societal responses to vulnerability, with resistance movements
+      gaining relevance by filling the protection void left by ineffective state institutions.
+      The article highlights Lebanon's precarious situation, where, despite international
+      recognition of its sovereignty, the state's repeated failures to protect its territory
+      and people have led to its characterization as a failed state by figures like
+      U.S. Special Envoy Thomas Barrack. This characterization influences political
+      expectations and normalizes the absence of effective protection as a given.
+    published: '2026-02-11T18:49:58+00:00'
+  - title: Un État sans garanties et le paradoxe du désarmement
+    url: https://ejmagnier.com/2026/02/11/un-etat-sans-garanties-et-le-paradoxe-du-desarmement/
+    text: 'Par Elijah J. Magnier – Le devoir premier d’un État n’est pas une souveraineté
+      rhétorique mais une protection matérielle. Avant le droit, la fiscalité ou la
+      diplomatie, la fonction fondatrice de l’autorité politique consiste à protéger
+      sa population contre les menaces extérieures et les prédations internes. Lorsqu’un
+      État n’est pas en mesure d’assumer cette fonction de manière crédible, des structures
+      alternatives de protection tendent à émerger, non comme des projets idéologiques,
+      mais comme des réponses sociales à la vulnérabilité. Dans de tels contextes, les
+      mouvements de résistance ne tirent pas leur pertinence de doctrines abstraites,
+      mais de leur capacité à combler le vide protecteur laissé par des institutions
+      étatiques absentes ou incapables d’agir. Le Liban occupe depuis longtemps cet
+      espace ambigu. Sa souveraineté est reconnue au niveau international, mais sa capacité
+      à protéger son territoire et sa population a été à maintes reprises violée. Cette
+      situation a été reconnue non seulement par des responsables libanais, mais aussi
+      par des acteurs extérieurs. L’envoyé spécial présidentiel américain Thomas Barrack
+      a déclaré à plusieurs reprises que le Liban fonctionne comme un État défaillant,
+      une description qui, quelle qu’en soit l’intention politique, reconnaît implicitement
+      l’incapacité de l’État à exercer un contrôle effectif ou à garantir la sécurité.
+      De telles caractérisations ne sont pas neutres. Elles façonnent les attentes politiques
+      tout en normalisant simultanément l’absence de protection comme un fait acquis.
+      C’est dans ce contexte structurel que les mouvements de résistance acquièrent
+      un rôle amplifié. Lorsque l’État ne peut dissuader les attaques ni empêcher les
+      violations répétées de la souveraineté, la fourniture de protection cesse d’être
+      un monopole formel pour devenir un champ contesté. La résistance devient moins
+      un défi à l’État qu’un substitut à ses fonctions manquantes. Cette substitution
+      n’exige ni consentement universel ni uniformité idéologique. Elle repose sur un
+      calcul plus simple : qui reste présent, organisé et réactif lorsque la violence
+      persiste. Subscribe Subscribe to get access Read more of this content when you
+      subscribe today. Subscribe Submitting form Log in The Lebanese Prime Minister
+      Nawaf Salam visited southern Lebanon for the first time since the Jewish ceasefire
+      : He tells one of the citizens: No one is giving me guarantees that Israel will
+      stop attacking and I cannot give you any either The citizen replies : why are
+      you… pic.twitter.com/3iq5rrSS28 — Middle East Observer (@ME_Observer_) February
+      9, 2026 Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: L'article souligne que la principale responsabilité d'un État
+      est de protéger sa population, et lorsque cette fonction est défaillante, des
+      structures alternatives de protection émergent, comme c'est le cas au Liban, où
+      la souveraineté est reconnue mais souvent contournée par des menaces internes
+      et externes.
+    paragraph_summary: L'article d'Elijah J. Magnier souligne que la principale responsabilité
+      d'un État est de protéger sa population contre les menaces internes et externes,
+      et que lorsque cette fonction est défaillante, des structures alternatives de
+      protection émergent. Au Liban, bien que la souveraineté soit reconnue internationalement,
+      l'incapacité de l'État à garantir la sécurité a conduit à la montée de mouvements
+      de résistance, qui ne se basent pas sur des idéologies abstraites, mais sur leur
+      capacité à combler le vide laissé par des institutions inefficaces. Cette situation
+      est reconnue par des acteurs tant libanais qu'internationaux, comme l'envoyé spécial
+      américain Thomas Barrack, qui décrit le Liban comme un État défaillant. Dans ce
+      contexte, la résistance devient un substitut aux fonctions étatiques manquantes,
+      remettant en question le monopole de l'État sur la protection et normalisant l'absence
+      de sécurité.
+    published: '2026-02-11T18:45:16+00:00'
+  - title: Un État sans garanties et le paradoxe du désarmement
+    url: https://ejmagnier.com/2026/02/11/un-etat-sans-garanties-et-le-paradoxe-du-desarmement/
+    text: 'Par Elijah J. Magnier – Le devoir premier d’un État n’est pas une souveraineté
+      rhétorique mais une protection matérielle. Avant le droit, la fiscalité ou la
+      diplomatie, la fonction fondatrice de l’autorité politique consiste à protéger
+      sa population contre les menaces extérieures et les prédations internes. Lorsqu’un
+      État n’est pas en mesure d’assumer cette fonction de manière crédible, des structures
+      alternatives de protection tendent à émerger, non comme des projets idéologiques,
+      mais comme des réponses sociales à la vulnérabilité. Dans de tels contextes, les
+      mouvements de résistance ne tirent pas leur pertinence de doctrines abstraites,
+      mais de leur capacité à combler le vide protecteur laissé par des institutions
+      étatiques absentes ou incapables d’agir. Le Liban occupe depuis longtemps cet
+      espace ambigu. Sa souveraineté est reconnue au niveau international, mais sa capacité
+      à protéger son territoire et sa population a été à maintes reprises violée. Cette
+      situation a été reconnue non seulement par des responsables libanais, mais aussi
+      par des acteurs extérieurs. L’envoyé spécial présidentiel américain Thomas Barrack
+      a déclaré à plusieurs reprises que le Liban fonctionne comme un État défaillant,
+      une description qui, quelle qu’en soit l’intention politique, reconnaît implicitement
+      l’incapacité de l’État à exercer un contrôle effectif ou à garantir la sécurité.
+      De telles caractérisations ne sont pas neutres. Elles façonnent les attentes politiques
+      tout en normalisant simultanément l’absence de protection comme un fait acquis.
+      C’est dans ce contexte structurel que les mouvements de résistance acquièrent
+      un rôle amplifié. Lorsque l’État ne peut dissuader les attaques ni empêcher les
+      violations répétées de la souveraineté, la fourniture de protection cesse d’être
+      un monopole formel pour devenir un champ contesté. La résistance devient moins
+      un défi à l’État qu’un substitut à ses fonctions manquantes. Cette substitution
+      n’exige ni consentement universel ni uniformité idéologique. Elle repose sur un
+      calcul plus simple : qui reste présent, organisé et réactif lorsque la violence
+      persiste. Subscribe Subscribe to get access Read more of this content when you
+      subscribe today. Subscribe Submitting form Log in The Lebanese Prime Minister
+      Nawaf Salam visited southern Lebanon for the first time since the Jewish ceasefire
+      : He tells one of the citizens: No one is giving me guarantees that Israel will
+      stop attacking and I cannot give you any either The citizen replies : why are
+      you… pic.twitter.com/3iq5rrSS28 — Middle East Observer (@ME_Observer_) February
+      9, 2026 Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: L'article souligne que la principale responsabilité d'un État
+      est de protéger sa population, et lorsque cette fonction est défaillante, des
+      structures alternatives de protection émergent, comme c'est le cas au Liban, où
+      la souveraineté est reconnue mais souvent contournée par des menaces internes
+      et externes.
+    paragraph_summary: L'article d'Elijah J. Magnier souligne que la principale responsabilité
+      d'un État est de protéger sa population contre les menaces internes et externes,
+      et que lorsque cette fonction est défaillante, des structures alternatives de
+      protection émergent. Au Liban, bien que la souveraineté soit reconnue internationalement,
+      l'incapacité de l'État à garantir la sécurité a conduit à la montée de mouvements
+      de résistance, qui ne se basent pas sur des idéologies abstraites, mais sur leur
+      capacité à combler le vide laissé par des institutions inefficaces. Cette situation
+      est reconnue par des acteurs tant libanais qu'internationaux, comme l'envoyé spécial
+      américain Thomas Barrack, qui décrit le Liban comme un État défaillant. Dans ce
+      contexte, la résistance devient un substitut aux fonctions étatiques manquantes,
+      remettant en question le monopole de l'État sur la protection et normalisant l'absence
+      de sécurité.
+    published: '2026-02-11T18:45:16+00:00'
+  - title: A state without guarantees and the paradox of disarmament
+    url: https://ejmagnier.com/2026/02/11/a-state-without-guarantees-and-the-paradox-of-disarmament/
+    text: By Elijah J. Magnier – The primary duty of a state is not rhetorical sovereignty
+      but material protection. Before law, taxation, or diplomacy, the foundational
+      function of political authority is to shield its population from external threat
+      and internal predation. Where a state cannot credibly perform this function, alternative
+      structures of protection tend to emerge, not as ideological projects but as social
+      responses to vulnerability. In such contexts, resistance movements do not derive
+      their relevance from abstract doctrine alone, but from their capacity to fill
+      a protective vacuum left by absent or incapacitated state institutions. Lebanon
+      has long occupied this ambiguous space. Its sovereignty is internationally recognised,
+      yet its ability to protect its territory and population has been repeatedly violated.
+      This condition has been acknowledged not only by Lebanese officials but also by
+      external actors. The United States special presidential envoy Thomas Barrack has
+      stated on multiple occasions that Lebanon functions as a failed state, a description
+      that, whatever its political intent, implicitly recognises the state’s inability
+      to exercise effective control or guarantee security. Such characterisations are
+      not neutral. They shape policy expectations while simultaneously normalising the
+      absence of protection as a given. Subscribe Subscribe to get access Read more
+      of this content when you subscribe today. Subscribe Submitting form Log in Make
+      a one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly
+    one_sentence_summary: The article argues that the primary role of a state is to
+      provide material protection to its citizens, and in Lebanon, where the state has
+      failed to fulfill this duty, alternative protective structures and resistance
+      movements have emerged to address the resulting vulnerabilities.
+    paragraph_summary: Elijah J. Magnier argues that the fundamental role of a state
+      is to provide material protection to its citizens from external and internal threats,
+      rather than merely asserting sovereignty through rhetoric. When a state fails
+      to fulfill this protective function, alternative forms of protection emerge, often
+      through resistance movements that address the resulting vulnerabilities. Lebanon
+      exemplifies this situation, as it is recognized as a sovereign state yet struggles
+      to ensure the safety of its population, leading to characterizations of it as
+      a failed state by figures like U.S. envoy Thomas Barrack. Such descriptions highlight
+      the state's inability to maintain effective control and security, influencing
+      policy expectations and normalizing the lack of protection as a reality for its
+      citizens.
+    published: '2026-02-11T18:40:52+00:00'
+  - title: A state without guarantees and the paradox of disarmament
+    url: https://ejmagnier.com/2026/02/11/a-state-without-guarantees-and-the-paradox-of-disarmament/
+    text: By Elijah J. Magnier – The primary duty of a state is not rhetorical sovereignty
+      but material protection. Before law, taxation, or diplomacy, the foundational
+      function of political authority is to shield its population from external threat
+      and internal predation. Where a state cannot credibly perform this function, alternative
+      structures of protection tend to emerge, not as ideological projects but as social
+      responses to vulnerability. In such contexts, resistance movements do not derive
+      their relevance from abstract doctrine alone, but from their capacity to fill
+      a protective vacuum left by absent or incapacitated state institutions. Lebanon
+      has long occupied this ambiguous space. Its sovereignty is internationally recognised,
+      yet its ability to protect its territory and population has been repeatedly violated.
+      This condition has been acknowledged not only by Lebanese officials but also by
+      external actors. The United States special presidential envoy Thomas Barrack has
+      stated on multiple occasions that Lebanon functions as a failed state, a description
+      that, whatever its political intent, implicitly recognises the state’s inability
+      to exercise effective control or guarantee security. Such characterisations are
+      not neutral. They shape policy expectations while simultaneously normalising the
+      absence of protection as a given. Subscribe Subscribe to get access Read more
+      of this content when you subscribe today. Subscribe Submitting form Log in Make
+      a one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly
+    one_sentence_summary: The article argues that the primary role of a state is to
+      provide material protection to its citizens, and in Lebanon, where the state has
+      failed to fulfill this duty, alternative protective structures and resistance
+      movements have emerged to address the resulting vulnerabilities.
+    paragraph_summary: Elijah J. Magnier argues that the fundamental role of a state
+      is to provide material protection to its citizens from external and internal threats,
+      rather than merely asserting sovereignty through rhetoric. When a state fails
+      to fulfill this protective function, alternative forms of protection emerge, often
+      through resistance movements that address the resulting vulnerabilities. Lebanon
+      exemplifies this situation, as it is recognized as a sovereign state yet struggles
+      to ensure the safety of its population, leading to characterizations of it as
+      a failed state by figures like U.S. envoy Thomas Barrack. Such descriptions highlight
+      the state's inability to maintain effective control and security, influencing
+      policy expectations and normalizing the lack of protection as a reality for its
+      citizens.
+    published: '2026-02-11T18:40:52+00:00'
   - title: 'Diplomacy Returns While War Remains Close: How the Shrinking Agenda Shocked
       Israel'
     url: https://ejmagnier.com/2026/02/08/diplomacy-returns-while-war-remains-close-how-the-shrinking-agenda-shocked-israel/

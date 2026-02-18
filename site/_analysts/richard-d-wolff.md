@@ -9,16 +9,683 @@ websites:
   - https://www.counterpunch.org/author/rwolff0998/
   - https://www.laprogressive.com/author/richard-d-wolff
 summary: |
-  As of February 2026, global and domestic political tensions remain high, with the United States experiencing significant social and economic challenges under the ongoing influence of Trump-era policies. The international landscape is marked by persistent conflict, economic instability, and the rise of nationalist movements.
+  As of February 18, 2026, the global geopolitical landscape remains shaped by the ongoing decline of Western economic and political dominance, with Europe and the United States facing mounting internal and external pressures. Recent analyses underscore the intensification of class conflicts, the rise of nationalist politics, and the persistent erosion of social safety nets.
   
-  Recent analysis by **Richard D. Wolff** highlights the deepening crisis for U.S. veterans, who continue to advocate for improved healthcare and labor rights amid ongoing underfunding and privatization of services. The Trump administration’s policies have exacerbated these issues, with veterans facing increased barriers to adequate support. This reflects a broader trend of austerity and privatization affecting vulnerable populations, including seniors and workers.
+  The most recent developments highlight Europe’s deepening crisis. **Richard D. Wolff** notes that Europe’s historical decline from a global center of civilization to a secondary status is now exacerbated by military and economic challenges. Political elites, facing limited options, are increasingly turning to austerity measures and policies that shift the burden onto the working class. This, Wolff argues, is likely to fuel class conflict and social unrest, as the majority of the population resists further sacrifices for the sake of elite interests. There is a high chance that these tensions will intensify in the coming months, potentially destabilizing established political orders across the continent.
   
-  On the international front, U.S. foreign policy continues to provoke controversy, particularly in Latin America and the Middle East. In Venezuela, ongoing U.S. interventions are described as part of a long-standing imperialist strategy, undermining sovereignty and fueling resistance movements. **Richard D. Wolff** notes, “the broader impact on Latin America [is] emphasizing the struggle for sovereignty and resistance against foreign domination.” In the Middle East, the humanitarian crisis in Gaza remains acute, with political maneuvering and calls for action from activists and international observers.
+  In the United States, the political landscape continues to reflect the broader decline of U.S. capitalism. The coalition politics of Donald Trump and the Republican Party, as analyzed by **Richard D. Wolff**, prioritize donor interests and exploit divisions within the working class. This approach, contrasted with the more progressive stance of figures like Bernie Sanders, has led to increased alienation among voters and a growing sense of disenfranchisement. Wolff emphasizes that the Republican strategy is unlikely to address the root causes of economic decline, and there is a high chance that class-based polarization will deepen as the 2026 election cycle progresses.
   
-  Domestically, the rise of authoritarian rhetoric in U.S. politics is a growing concern. The mainstream media’s role in amplifying divisive language, particularly from MAGA-aligned figures, is seen as a threat to democratic norms. **Richard D. Wolff** warns of “the dangers to democracy posed by disinformation and the erosion of civic values,” underscoring the need for a more responsible media landscape.
+  Meanwhile, the legacy of U.S. interventionism remains a source of instability in Latin America. Wolff’s recent commentary on Venezuela highlights ongoing resistance to U.S. imperialist policies and the struggle for sovereignty in the region. The broader trend suggests that, barring a significant shift in U.S. foreign policy, Latin American countries will continue to seek alternatives to U.S. influence, with a high chance of further diplomatic realignment and regional cooperation.
   
-  Looking ahead, the majority of analysts predict that these trends—privatization of public services, aggressive foreign policy, and the rise of nationalist and authoritarian politics—are likely to persist. There is high confidence that unless significant policy changes occur, the U.S. will continue to see increased social polarization and international friction. I guarantee that the struggles of veterans, seniors, and marginalized communities will remain at the forefront of domestic debates, while U.S. foreign interventions will continue to shape geopolitical dynamics, particularly in Latin America and the Middle East.
+  In summary, the prevailing trends point toward escalating class conflict in Europe, deepening political polarization in the United States, and persistent resistance to Western interventionism in Latin America. The majority of analysts, including **Richard D. Wolff**, most definitely guarantee that unless there is a fundamental shift in policy direction, these dynamics will continue to shape the global order throughout 2026 and beyond.
 articles:
+  - title: 'Europe Today: Historic Crisis or End Times?'
+    url: https://www.laprogressive.com/author/richard-d-wolff/foreign-policy/europe-today
+    text: 'From ancient Greece and Rome to the present, Europe has played central, crucial
+      roles in the development of human civilization. Late in its feudal period, European
+      colonialism undertook globalization. That subordinated the rest of the world to
+      Europe’s needs and capabilities. Europe’s transition from feudalism to capitalism
+      transformed its colonialism and more thoroughly and deeply subordinated the rest
+      of the world: not only economically but also politically and culturally.
+
+
+      The last generation has produced changes in the global economy that have sharply
+      reduced Europe. No longer playing central or crucial roles, Europe displays little
+      in the way of the technological leadership exhibited by China and the US in computers,
+      robots, AI semi-conductor chips, electric vehicles, and so on. The Ukraine war
+      exposed the atrophy of Europe’s military relative to that of the US, on one side,
+      and to that of the China/Russia alliance on the other. Finally, the hollowing
+      out of large segments of manufacturing industry in the US was even more pronounced
+      in Europe as global manufacturing moved massively to China, Asia, and the developing
+      world. As its booming growth in manufactures stimulated China’s hi-tech industries
+      and its military modernization, deindustrialization in Europe further hampered
+      its achieved technological level and its military capability. Finally, the sanctions
+      dimension of the Ukraine war raised Europe’s energy costs and thus badly damaged
+      the competitiveness of its products. The fact that Mercedes-Benz engaged in serious
+      discussions with high US authorities about moving its operations to the US in
+      2025 speaks volumes.
+
+
+      Then came the falling out among the capitalists. Trump’s second presidential term
+      saw the US move to reduce Europe (as well as other parts of the world) into a
+      source of tribute from its prior status as trade partner and NATO ally, etc. In
+      exchange for lower tariffs than Trump originally threatened, Ursula von der Leyen,
+      European Commission President committed over $ 700 billion in European purchases
+      of expensive US liquified natural gas and a similar sum to be “invested” in the
+      US (both over the next 10 years). This humiliating commitment to tribute has not
+      been repudiated or rejected by the Europeans. They are only slowly and partially
+      grasping all it means.
+
+
+      Quite simply, Europe finds itself slipping into a very secondary status in the
+      emerging new world economy. The US on one side and China on the other are the
+      two dominant poles of the world economy. They are what Europe was but is no longer.
+      Moreover, the future they face is for further decline without limit or else a
+      desperate effort to stop and reverse that decline. That effort, already underway,
+      will be desperate because it will plunge Europe into its gravest imaginable crisis.
+      In the 20thcentury, Europe tore itself apart in World War 1. Then, a few years
+      later, a still Europe-centered world economy tore itself apart in World War 2.
+      In this century, with or without another world war, Europe risks being a mere
+      footnote to how others, the world’s major powers, work out their relationship.
+      Such is the long arc of decline from Greece, Rome, and the peaks of Europe’s colonial
+      empires to Europe’s historic contemporary eclipse.
+
+
+      When Trump withdrew military protection, imposed tariffs, obtained tribute, and
+      lectured Europe on the need to now “go it alone without US support,” Europe confronted
+      an existential threat. What was to be done? To avoid eclipse, Europe would need
+      to develop its own military protection, replacing what the US had provided. Germany
+      led the way with its government’s commitment to spend hundreds of billions on
+      a military build-up in the next few years. Other European countries will likely
+      follow suit, not only to offset Trumps’ withdrawal, but to also prevent Germany
+      from dominating the rest of Europe militarily. Of course, to have a military that
+      is NOT dependent on purchases from the US, Europe would need a well-developed
+      high tech sector itself since that has become key to advanced military systems
+      such as those wielded by the US, China and Russia. The same applies to a large,
+      diversified and well-developed manufacturing sector that can support what ongoing
+      military production requires. That is a problem also for the US whose manufacturing
+      decline also threatens the military capability it seeks to reach.
+
+
+      For Europe to build the military system and its allied technical and manufacturing
+      foundation – given their decline over the last 75 years – it would need to spend
+      an immense amount of money for many years. It has no empire from which to draw
+      the necessary resources and now it is burdened with tribute owed to the US. Nor
+      is European borrowing, given the risks it entails for creditors, capable of funding
+      the kind of spending needed to seriously address the problem of Europe’s historic
+      decline.
+
+
+      What Europe will likely do, given its employer class’s dominant political power,
+      is increase taxes but, more importantly, change how it spends its tax revenue.
+      It will raise taxes on its working classes. More importantly, it will also cut
+      funding for much of the social welfare that Europe once pioneered and proudly
+      offered as a model for much of the rest of the world. Europe’s working class had
+      fought for and won more generous welfare systems in member nations than most other
+      working classes had achieved (including in the US). The political forces holding
+      power across much of Europe – chiefly the center-right parties, but also part
+      of the center-left – are ready and willing to cut spending on social welfare and
+      raise broad-based taxes. They will protect the wealth, income and political powers
+      of the top 10 % in their countries as they always have. They can and will sell
+      all this to their patrons: a way to reverse Europe’s decline with minimal cost
+      to them. Instead it will be the working class that pays more in taxes while getting
+      less from the government.
+
+
+      But, of course, will the politicians in power be able to do this, however eager
+      and willing they are? Europe must act quickly to catch up to the US and China
+      since both of them keep moving forward in their manufacturing, technical, and
+      military capabilities. Thus Europe must spend very heavily in the immediate years
+      ahead. Political leaders must take much away from the social welfare of its working
+      class. Hard times for them are the plan. Will the working class permit Europe’s
+      employer class and its politicians to solve their system’s national and international
+      problems at the working class’s expense? Europe’s great crisis entails the already
+      emerging class war between employers and employees struggling over how to cope
+      with Europe’s decline.
+
+
+      Because the sums involved are huge and the time horizon for action is short, the
+      risks associated with the emerging crisis are many. The workers may resist by
+      voting out existing parties and voting in leftist and possibly rightist politicians
+      if they stand against the plan. The workers may resist by street action, boycotts,
+      general strikes and all the other class struggle weapons developed across capitalism’s
+      history. The employers and the political elites they control in many parties will
+      fight back. They too will use the tools they developed for class wars. One of
+      these is mass repression. That points to yet another reason to build up European
+      armies.
+
+
+      Another tool, nationalist ideology, deserves special attention because of its
+      special role in today’s geopolitics. Employers have long dispersed, distracted,
+      and dissolved organized working class struggles by substituting national issues
+      for class issues. Politicians insist that the urgent issue of the moment is some
+      threat from abroad or from domestic agents of foreign powers. Thus we must all
+      unite in the nation and set aside less important internal divisions and issues
+      for the sake of prevailing in the national struggle affecting us all. Kaiser Wilhelm
+      famously said in 1914 as World War 1 began that he recognized no capitalists or
+      socialists but only Germans. At the end of World War 2 and after President Franklin
+      Roosevelt died, leading politicians in the USA undid the New Deal and the class
+      struggles that produced it by insisting that the greater struggle was between
+      all Americans and the Soviet Union’s “evil empire” that included domestic Communists,
+      etc. In the same vein, Europe’s political elites today articulate a collective
+      hysteria that focuses on Russia (35 years after it rejected and ended its Soviet
+      period) and the direct military threat it poses to invade and seize all of Europe.
+
+
+      The over-the-top anti-Russia hysteria serves to hide the class project of slowing
+      or ending Europe’s decline at the expense of Europe’s working class. It seeks
+      to give all Europeans a unifying purpose and goal of blocking Russia’s evil intentions.
+      It justifies Europe’s military build up and the savage destruction of Europe’s
+      social welfare states as necessary responses to the external threat all Europeans
+      must unite to fight. Starmer, Macron, Merz et al lead Europe’s campaign. They
+      must insist that Russia must NOT win in Ukraine because, for them, perpetuating
+      Ukraine’s losing war also perpetuates the demonization of Russia as the evil enemy.
+      Portraying Russia as anti-peace and pro-war serves nicely to justify government
+      tax increases and massive spending on the military, hi-tech, and manufacturing.
+      For Europe’s employers and their political leaders, demon USSR morphed easily
+      into demon post-Soviet Russia. That is because their demonization had chiefly
+      to do with domestic class struggles against each nation’s working class and only
+      very secondly with the capitalism vs socialism issue.
+
+
+      Brave New World'
+    one_sentence_summary: The article discusses Europe's historical decline from a central
+      role in global civilization to a secondary status in the modern economy, exacerbated
+      by military and economic challenges, leading to potential class conflicts as political
+      elites seek to address these issues at the expense of the working class.
+    paragraph_summary: The article discusses Europe's historical significance in global
+      civilization and its subsequent decline, particularly in the context of recent
+      geopolitical and economic shifts. It highlights how European colonialism transitioned
+      from feudalism to capitalism, leading to the subordination of other regions. However,
+      in recent decades, Europe has lost its technological and military prominence to
+      the US and China, exacerbated by the Ukraine war and a shift in US policy under
+      Trump that has forced Europe into a subordinate economic position. The article
+      warns that Europe faces a crisis of identity and capability, requiring extensive
+      military and technological investment, which may come at the expense of social
+      welfare systems. This situation could ignite class struggles as the working class
+      bears the brunt of austerity measures while elites seek to maintain their power.
+      Additionally, the article notes that nationalist rhetoric, particularly regarding
+      Russia, is being used to unify the populace against perceived external threats,
+      distracting from internal class conflicts and justifying military spending over
+      social welfare.
+    published: '2026-02-14T06:21:57.052841+00:00'
+  - title: Trump’s Politics and a Declining US Capitalism in 2026
+    url: https://www.laprogressive.com/author/richard-d-wolff/economic-equality/declining-us-capitalism
+    text: 'A year into Trump’s second term clarifies what his presidency aims to accomplish.
+      On the one hand, his initiatives and their impacts are widely overemphasized.
+      Far less well recognized are how received conditions and conventional Party politics
+      in the US produced Trump and most of what he does. Underlying both Trump, US politics,
+      and their whole environment are the basic changes in US capitalism that both shape
+      and reflect its declining place in the world. These include especially certain
+      class, race and gender aspects of those changes.
+
+
+      Trump’s Republican Party (GOP) never stopped being a coalition. On the one hand,
+      the Party’s major donors have mostly been leading members of the class of private
+      US employers. Those donors provide the key funds that higher Party officials use
+      to organize and mobilize the other side of the coalition, particularly blocs of
+      voters. Major donors divide into three groups: those who give to the GOP, those
+      who give to the DEMs, and those who patronize both. Both parties use the money
+      from their major donors to organize their mass of voters, win offices, and thereby
+      reward those donors. The GOP and DEMs compete for voters using their respective
+      donors’ money. The donor class’s donations protect it from serious or sustained
+      criticism by either major US Party. They are costs of that class’s hegemony. Neither
+      coalition dares to offer such criticism, for fear of threatening its capacity
+      for donations and, by extension, the party’s very survival.
+
+
+      From time to time, one Party performs better than the other in working this “Coalition-Politics”.
+      It gets more money from donors and/or undercuts donations to the other party.
+      It is more successful than the other party in securing or building blocs of voters.
+      The other party then fights back. In the decades before Trump, the Republican
+      Party coalition declined. While the GOP delivered dutifully to its major donors,
+      it merely fed symbols more than changed realities to its voting masses. The GOP
+      loudly opposed abortions but never actually stopped them. It supported fundamentalist
+      Christianity but more in words than deeds. It endorsed neoliberal globalization
+      and celebrated the profits it brought to its donors, but it barely acknowledged,
+      and far less compensated, the losses it imposed on the US working class.
+
+
+      Over recent decades, the DEMs coalition also endorsed neo-liberal globalization
+      and likewise celebrated its profitability as if it were “good for all America.”
+      Some DEM leaders gave lip-service recognition to workers’ losses from globalization.
+      They likewise claimed “concern” that globalization aggravated US inequalities
+      of wealth and income and “hollowed out of the middle class.” However DEMs offered
+      little more than rhetoric, since big donations from globalization’s leading beneficiaries
+      remained a key DEM party goal. US workers hurt by globalization thus felt increasingly
+      alienated, disappointed and betrayed by the DEM coalition. Meanwhile, that coalition
+      redirected its focus and appeal toward women and racial/ethnic minorities as voting
+      blocs. Opposing the discrimination those blocs had long suffered in the US entailed
+      far less risk of losing major corporate and individual donors. Only a relatively
+      few voices on the progressive left of the DEM coalition criticized the costly
+      impacts of globalization on the working class. DEM leadership undertook only modest
+      “progressive” steps (although often claiming to do more than those steps actually
+      achieved). For not really doing more, of course, DEMs blamed the GOP.
+
+
+      So long as this sort of politics worked for the DEMs, the GOP adopted a “me too”
+      approach suggesting sympathy for the interests and women and minorities. But once
+      decades of globalization had immiserated sufficiently large (and especially male,
+      white) sections of the US working class, Republicans changed their approach. They
+      increasingly turned the DEMs’ appeals to women and non-whites against the DEMs
+      by portraying those appeals as indicating that DEMs had abandoned the white, male,
+      Christian working class. Enter Donald Trump who rode this turn the furthest by
+      sharply ejecting the traditional GOP leadership (Bush family etc.) that had hesitated
+      to go that far.
+
+
+      The Trump-led GOP coalition seeks the same donors from the same class (employers)
+      as always. That coalition likewise seeks the votes of largely white blocs of workers
+      (especially male, fundamentalist Christian, super-patriotic, etc.). However, unlike
+      traditional Republicans, Trumpers go much further in pandering to the more extreme
+      among those voters, those dissatisfied with mere symbolism. They promise to go
+      far beyond the limits of the traditional GOP leadership to reverse all they blame
+      on the DEMs (and especially on Obama and Biden).
+
+
+      Trump’s GOP loudly proclaims that DEMs care only about females, black and brown
+      workers, and immigrants. Trump’s GOP charges that DEMs get votes by getting jobs
+      and incomes for these females, black, brown and immigrant workers (illegal as
+      well as legal). Moreover, Trump repeats, those jobs and income came at the expense
+      of the jobs and incomes for male, white, Christian workers and their communities.
+      Republicans successfully blamed DEMs for the suffering of white, male Christian
+      workers who lost their jobs to globalization since the 1980s. DEMS minimally criticized
+      the US employer class (to secure its donors) and focused instead on attacking
+      China (as if the decision to move jobs from the US to Asia was China’s rather
+      than a decision made by the heads of US corporations).
+
+
+      Trump’s serious campaigns for president arrived after several decades of GOP and
+      Democratic coalitions alternating in power. Across those decades, US capitalism
+      had benefited from ongoing US government support. Huge tax cuts and government
+      spending programs boosted corporate profits. Huge government bailouts followed
+      stock and credit market crashes. Both parties endorsed, advanced, and protected
+      neo-liberal globalization as they competed for major donors. In contrast, both
+      doled out merely symbolic gestures to their respective voters. For not doing more,
+      each Party attacked the other in a blame game that proved decreasingly effective.
+      Slowly but steadily increasing portions of the voting blocs inside both Parties’
+      coalitions became alienated from voting and party politics altogether.
+
+
+      Trump’s personality and personal beliefs fit the historical moment and therefore
+      served it. Forces had accumulated that understood (or at least vaguely sensed)
+      the need for US capitalism to get more support than that provided by both Parties’
+      traditional coalitions. The decline of US capitalism relative to China, on the
+      one hand, generated those forces. On the other hand, so did decades of decline
+      in the numbers, well-being, and political identifications of unionized US manufacturing
+      workers Those forces found Trump, an outsider to both coalitions, willing to go
+      much further than traditional Party leaderships to rebuild the numbers and commitment
+      of their respective coalition voters.
+
+
+      The Republican wing of those forces found immense potential in Trump’s extreme
+      hostility toward immigrants, apparent sympathy for white supremacy, support for
+      fundamentalist Christianity, and disdain for traditional leaders of both major
+      parties. That wing was thrilled by his promises to ban abortions, celebrate fundamentalist
+      Christianity and the NRA, increase tolerance for white supremacy, and reject “Diversity,
+      Equity and Inclusion” (DEI) and ecological initiatives as hoaxes or worse. These
+      were just the ticket to reanimate the GOP’s voting bloc base. Trump reiterated
+      promises to the Party’s major donors that he would deliver historic tax cuts,
+      subsidies, and massive deregulation of their business practices. With their donations,
+      of course, Trump’s extremism could secure the votes needed to have the US government
+      deliver on promises made to both parts of the Republican coalition.
+
+
+      In the views of those who early found and supported him, Trump had what it would
+      take to rescue the Republican Party from a coalition gone stale. via neglect of
+      its voter blocs’ sufferings from neo-liberal globalization. That rescue took the
+      form of ending the GOPs neglect of globalization’s victims while seeking to re-engage
+      the more extreme right wing chiefly by talking much more bluntly than traditional
+      politicians of either Party had dared. He mocked them for their timidity. He defeated
+      them in Republican primaries. He excoriated his DEM opponents for their favoring
+      immigrants, women and non-whites. He mostly blamed them – not big business – for
+      the losses suffered by white, male Christian workers. His aggressive language
+      toward all conventional politicians who opposed him aimed to prove to the masses
+      that he would deliver what earlier Republicans had failed to do. Meanwhile, he
+      kept reassuring the billionaires that they would receive enhanced riches for their
+      donations.
+
+
+      Bernie Sanders – a “progressive” Independent who caucuses with the Democrats and
+      describes himself as “socialist” – offered the DEM coalition a different kind
+      of rejuvenation. He too promised much more to the DEM masses of voters than traditional
+      DEM leaders had dared to do. What sharply differentiated Sanders were his clearly
+      explicit criticisms of the US employer class. In his view, that class did not
+      need or deserve lavish gifts (huge tax cuts and subsidies) from elected politicians.
+      It was instead to be blamed and held accountable for the costs that its profit-raising
+      decisions imposed on the working class. Sanders’ presidential campaigns showed
+      both that mass support of its voting blocs could be rebuilt and that such support
+      could deliver many millions in small donations.
+
+
+      Unlike the traditional GOP leaders who failed to stop Trump and got displaced
+      by his Make America Great Again (MAGA) movement, the traditional DEM leaders grasped
+      how to save themselves from a comparable displacement. They committed to destroying
+      Sanders’ presidential campaigns. Despite that, other progressive Democrats and
+      socialists followed Sanders. Victories like those of Alexandra Ocasio-Cortez in
+      Congress and Zohran Mamdani in New York City have further developed what Sanders
+      started. So too did the mass mobilization in Minneapolis in late January 2026
+      against Trump’s ICE army with its creative and effective use of the general strike.
+
+
+      Polling as well as other evidence suggests that Sanders’ “progressive” wing of
+      the Democratic Party is gaining popularity both within the Party and generally.
+      They may well become the left-wing equivalent of the MAGA masses supporting Trump.
+      If confrontations escalate, the US employer class may then throw its full weight
+      on the MAGA side and fulfill the fascistic inclinations already in play on that
+      side. As great American artists have insisted before, “it can happen here.” Trump’s
+      strategy will then be internal repression to end the socially disruptive confrontations
+      threatening the MAGA project, the system’s profits and possibly rising to challenge
+      the capitalist system itself.
+
+
+      Trump’s internal program is still largely intact early in 2026. However, the continuing
+      decline of the US empire and of its relative position in the world economy takes
+      its toll. So too does mounting social opposition to Trump’s “handling” of the
+      Epstein scandal, opposition of many inside as well as outside MAGA against the
+      Israel-US alliance over Gaza, and widespread revulsion against ICE’s violence
+      and its mission. Always a candidate for action to distract from mounting domestic
+      problems, foreign affairs attracted the Trump team (despite his failure to end
+      the war in Ukraine quickly as he had promised). However, bombing Iran (jointly
+      with Israel), abducting Venezuelan president Maduro, threatening Greenland, Denmark
+      and NATO over his intended “taking” of Greenland, bombing a Nigerian village,
+      threatening to reclaim Panama, threatening war with Iran, menacing Canada and
+      Mexico (and, of course, Cuba yet again) have proven to be unpopular in the US.
+      So successive polls show.
+
+
+      Most intractable are the economic problems that beset Trump’s regime. Even if
+      the Supreme Court validates Trump’s global imposition of tariffs, their effects
+      are having troubling results for Trump. Far from enough new revenue will be generated
+      to do much to reduce US budget deficits. Indeed, Trump’s proposed War Department
+      budget increase of $600 billion will worsen US deficits significantly. That budget
+      increase alone is several times larger than estimates of what Trump’s tariffs
+      will yield. Likewise, savings from Musk’s DOGE storm fell far short of generating
+      the hyped and hoped budget cuts. Nations opposing the US takeover of Greenland
+      led to a free trade deal between the European Union and Mercosur and renewed trade
+      negotiations between China, on the one hand, and Germany, France, and the UK.
+      Trump’s maneuvers to control exports of Nvidia’s semi-conductor chips once again
+      led to China’s retaliation around rare earths. Finally, US tariffs and threats
+      against Canada have now produced new trade deals between Canada and China. The
+      economic impacts of these and similar deals already under consideration threaten
+      significant long-term economic damages and costs.
+
+
+      Soon, the rise of China and its BRICS allies combined with the decline of the
+      US and what may be left of the G7 alliance will shift in a basic way. One historical
+      epoch is fading while another is replacing it. We are at inflection points where
+      quantitative becomes qualitative and where change shifts from slow to fast. The
+      goal of current political moves toward various forms of authoritarianism in many
+      capitalisms is to hold all this back. But for many of those authoritarianisms,
+      it is too late. They have inherited too many overlapping problems from capitalism’s
+      decline. They have too little in the way of real options to solve them.
+
+
+      Socialisms of various kinds, variously infused with the histories and characteristics
+      of different nations, are preparing to replace today’s authoritarian efforts to
+      hold back historic change. Those Socialisms self-preparations entail a return
+      to full commitments to democracy in politics but also in economics. The latter
+      includes the democratization of internal organizational structures within enterprises
+      (factories, offices, and stores). Socialisms are becoming the champions of democracy
+      just as capitalism’s self-preservation forces it toward authoritarianism. Socialisms
+      respond to their own histories by moving more towards democracy while capitalisms
+      respond to their histories by shifting more towards authoritarian social structures.
+      Such ironies of modern history reflect a profound period of change, full of abundant
+      dangers but also of historic opportunities for a new and better world.
+
+
+      CounterPunch'
+    one_sentence_summary: The article analyzes how Donald Trump's presidency and the
+      Republican Party's strategies reflect and exploit changes in U.S. capitalism,
+      class dynamics, and the political landscape, revealing a coalition politics that
+      prioritizes donor interests over genuine voter concerns, while contrasting this
+      with Bernie Sanders' progressive approach that seeks accountability from the employer
+      class.
+    paragraph_summary: The article analyzes the dynamics of Donald Trump's presidency
+      and the Republican Party's coalition, emphasizing how both are shaped by broader
+      changes in U.S. capitalism and party politics. It argues that Trump's rise is
+      a response to the alienation of white, male, Christian workers who felt neglected
+      by both major parties, particularly due to the impacts of neoliberal globalization.
+      While the GOP has historically catered to major donors without addressing the
+      needs of its voter base, Trump's approach has been more extreme, appealing to
+      discontent by blaming Democrats for the economic struggles of traditional workers.
+      The Democratic Party, on the other hand, has also failed to adequately address
+      the concerns of the working class, focusing instead on identity politics to secure
+      votes. The article suggests that both parties are facing challenges as their coalitions
+      evolve, with the potential rise of progressive movements within the Democratic
+      Party, exemplified by figures like Bernie Sanders, contrasting with Trump's MAGA
+      base. Ultimately, the piece posits that the decline of U.S. capitalism may lead
+      to a shift towards various forms of socialism, which could advocate for greater
+      democracy in both politics and economics, as authoritarian tendencies emerge in
+      response to capitalism's crises.
+    published: '2026-02-13T06:36:00.104852+00:00'
+  - title: Trump’s Politics and a Declining US Capitalism in 2026
+    url: https://www.counterpunch.org/2026/02/11/trumps-politics-and-a-declining-us-capitalism-in-2026/
+    text: 'A year into Trump’s second term clarifies what his presidency aims to accomplish.
+      On the one hand, his initiatives and their impacts are widely overemphasized.
+      Far less well recognized are how received conditions and conventional Party politics
+      in the US produced Trump and most of what he does. Underlying both Trump, US politics,
+      and their whole environment are the basic changes in US capitalism that both shape
+      and reflect its declining place in the world. These include especially certain
+      class, race and gender aspects of those changes.
+
+
+      Trump’s Republican Party (GOP) never stopped being a coalition. On the one hand,
+      the Party’s major donors have mostly been leading members of the class of private
+      US employers. Those donors provide the key funds that higher Party officials use
+      to organize and mobilize the other side of the coalition, particularly blocs of
+      voters. Major donors divide into three groups: those who give to the GOP, those
+      who give to the DEMs, and those who patronize both. Both parties use the money
+      from their major donors to organize their mass of voters, win offices, and thereby
+      reward those donors. The GOP and DEMs compete for voters using their respective
+      donors’ money. The donor class’s donations protect it from serious or sustained
+      criticism by either major US Party. They are costs of that class’s hegemony. Neither
+      coalition dares to offer such criticism, for fear of threatening its capacity
+      for donations and, by extension, the party’s very survival.
+
+
+      From time to time, one Party performs better than the other in working this “Coalition-Politics”.
+      It gets more money from donors and/or undercuts donations to the other party.
+      It is more successful than the other party in securing or building blocs of voters.
+      The other party then fights back. In the decades before Trump, the Republican
+      Party coalition declined. While the GOP delivered dutifully to its major donors,
+      it merely fed symbols more than changed realities to its voting masses. The GOP
+      loudly opposed abortions but never actually stopped them. It supported fundamentalist
+      Christianity but more in words than deeds. It endorsed neoliberal globalization
+      and celebrated the profits it brought to its donors, but it barely acknowledged,
+      and far less compensated, the losses it imposed on the US working class.
+
+
+      Over recent decades, the DEMs coalition also endorsed neo-liberal globalization
+      and likewise celebrated its profitability as if it were “good for all America.”
+      Some DEM leaders gave lip-service recognition to workers’ losses from globalization.
+      They likewise claimed “concern” that globalization aggravated US inequalities
+      of wealth and income and “hollowed out of the middle class.” However DEMs offered
+      little more than rhetoric, since big donations from globalization’s leading beneficiaries
+      remained a key DEM party goal. US workers hurt by globalization thus felt increasingly
+      alienated, disappointed and betrayed by the DEM coalition. Meanwhile, that coalition
+      redirected its focus and appeal toward women and racial/ethnic minorities as voting
+      blocs. Opposing the discrimination those blocs had long suffered in the US entailed
+      far less risk of losing major corporate and individual donors. Only a relatively
+      few voices on the progressive left of the DEM coalition criticized the costly
+      impacts of globalization on the working class. DEM leadership undertook only modest
+      “progressive” steps (although often claiming to do more than those steps actually
+      achieved). For not really doing more, of course, DEMs blamed the GOP.
+
+
+      So long as this sort of politics worked for the DEMs, the GOP adopted a “me too”
+      approach suggesting sympathy for the interests and women and minorities. But once
+      decades of globalization had immiserated sufficiently large (and especially male,
+      white) sections of the US working class, Republicans changed their approach. They
+      increasingly turned the DEMs’ appeals to women and non-whites against the DEMs
+      by portraying those appeals as indicating that DEMs had abandoned the white, male,
+      Christian working class. Enter Donald Trump who rode this turn the furthest by
+      sharply ejecting the traditional GOP leadership (Bush family etc.) that had hesitated
+      to go that far.
+
+
+      The Trump-led GOP coalition seeks the same donors from the same class (employers)
+      as always. That coalition likewise seeks the votes of largely white blocs of workers
+      (especially male, fundamentalist Christian, super-patriotic, etc.). However, unlike
+      traditional Republicans, Trumpers go much further in pandering to the more extreme
+      among those voters, those dissatisfied with mere symbolism. They promise to go
+      far beyond the limits of the traditional GOP leadership to reverse all they blame
+      on the DEMs (and especially on Obama and Biden).
+
+
+      Trump’s GOP loudly proclaims that DEMs care only about females, black and brown
+      workers, and immigrants. Trump’s GOP charges that DEMs get votes by getting jobs
+      and incomes for these females, black, brown and immigrant workers (illegal as
+      well as legal). Moreover, Trump repeats, those jobs and income came at the expense
+      of the jobs and incomes for male, white, Christian workers and their communities.
+      Republicans successfully blamed DEMs for the suffering of white, male Christian
+      workers who lost their jobs to globalization since the 1980s. DEMS minimally criticized
+      the US employer class (to secure its donors) and focused instead on attacking
+      China (as if the decision to move jobs from the US to Asia was China’s rather
+      than a decision made by the heads of US corporations).
+
+
+      Trump’s serious campaigns for president arrived after several decades of GOP and
+      Democratic coalitions alternating in power. Across those decades, US capitalism
+      had benefited from ongoing US government support. Huge tax cuts and government
+      spending programs boosted corporate profits. Huge government bailouts followed
+      stock and credit market crashes. Both parties endorsed, advanced, and protected
+      neo-liberal globalization as they competed for major donors. In contrast, both
+      doled out merely symbolic gestures to their respective voters. For not doing more,
+      each Party attacked the other in a blame game that proved decreasingly effective.
+      Slowly but steadily increasing portions of the voting blocs inside both Parties’
+      coalitions became alienated from voting and party politics altogether.
+
+
+      Trump’s personality and personal beliefs fit the historical moment and therefore
+      served it. Forces had accumulated that understood (or at least vaguely sensed)
+      the need for US capitalism to get more support than that provided by both Parties’
+      traditional coalitions. The decline of US capitalism relative to China, on the
+      one hand, generated those forces. On the other hand, so did decades of decline
+      in the numbers, well-being, and political identifications of unionized US manufacturing
+      workers Those forces found Trump, an outsider to both coalitions, willing to go
+      much further than traditional Party leaderships to rebuild the numbers and commitment
+      of their respective coalition voters.
+
+
+      The Republican wing of those forces found immense potential in Trump’s extreme
+      hostility toward immigrants, apparent sympathy for white supremacy, support for
+      fundamentalist Christianity, and disdain for traditional leaders of both major
+      parties. That wing was thrilled by his promises to ban abortions, celebrate fundamentalist
+      Christianity and the NRA, increase tolerance for white supremacy, and reject “Diversity,
+      Equity and Inclusion” (DEI) and ecological initiatives as hoaxes or worse. These
+      were just the ticket to reanimate the GOP’s voting bloc base. Trump reiterated
+      promises to the Party’s major donors that he would deliver historic tax cuts,
+      subsidies, and massive deregulation of their business practices. With their donations,
+      of course, Trump’s extremism could secure the votes needed to have the US government
+      deliver on promises made to both parts of the Republican coalition.
+
+
+      In the views of those who early found and supported him, Trump had what it would
+      take to rescue the Republican Party from a coalition gone stale. via neglect of
+      its voter blocs’ sufferings from neo-liberal globalization. That rescue took the
+      form of ending the GOPs neglect of globalization’s victims while seeking to re-engage
+      the more extreme right wing chiefly by talking much more bluntly than traditional
+      politicians of either Party had dared. He mocked them for their timidity. He defeated
+      them in Republican primaries. He excoriated his DEM opponents for their favoring
+      immigrants, women and non-whites. He mostly blamed them – not big business – for
+      the losses suffered by white, male Christian workers. His aggressive language
+      toward all conventional politicians who opposed him aimed to prove to the masses
+      that he would deliver what earlier Republicans had failed to do. Meanwhile, he
+      kept reassuring the billionaires that they would receive enhanced riches for their
+      donations.
+
+
+      Bernie Sanders – a “progressive” Independent who caucuses with the Democrats and
+      describes himself as “socialist” – offered the DEM coalition a different kind
+      of rejuvenation. He too promised much more to the DEM masses of voters than traditional
+      DEM leaders had dared to do. What sharply differentiated Sanders were his clearly
+      explicit criticisms of the US employer class. In his view, that class did not
+      need or deserve lavish gifts (huge tax cuts and subsidies) from elected politicians.
+      It was instead to be blamed and held accountable for the costs that its profit-raising
+      decisions imposed on the working class. Sanders’ presidential campaigns showed
+      both that mass support of its voting blocs could be rebuilt and that such support
+      could deliver many millions in small donations
+
+
+      Unlike the traditional GOP leaders who failed to stop Trump and got displaced
+      by his Make America Great Again (MAGA) movement, the traditional DEM leaders grasped
+      how to save themselves from a comparable displacement. They committed to destroying
+      Sanders’ presidential campaigns. Despite that, other progressive Democrats and
+      socialists followed Sanders. Victories like those of Alexandra Ocasio-Cortez in
+      Congress and Zohran Mamdani in New York City have further developed what Sanders
+      started. So too did the mass mobilization in Minneapolis in late January 2026
+      against Trump’s ICE army with its creative and effective use of the general strike.
+
+
+      Polling as well as other evidence suggests that Sanders’ “progressive” wing of
+      the Democratic Party is gaining popularity both within the Party and generally.
+      They may well become the left-wing equivalent of the MAGA masses supporting Trump.
+      If confrontations escalate, the US employer class may then throw its full weight
+      on the MAGA side and fulfill the fascistic inclinations already in play on that
+      side. As great American artists have insisted before, “it can happen here.” Trump’s
+      strategy will then be internal repression to end the socially disruptive confrontations
+      threatening the MAGA project, the system’s profits and possibly rising to challenge
+      the capitalist system itself.
+
+
+      Trump’s internal program is still largely intact early in 2026. However, the continuing
+      decline of the US empire and of its relative position in the world economy takes
+      its toll. So too does mounting social opposition to Trump’s “handling” of the
+      Epstein scandal, opposition of many inside as well as outside MAGA against the
+      Israel-US alliance over Gaza, and widespread revulsion against ICE’s violence
+      and its mission. Always a candidate for action to distract from mounting domestic
+      problems, foreign affairs attracted the Trump team (despite his failure to end
+      the war in Ukraine quickly as he had promised). However, bombing Iran (jointly
+      with Israel), abducting Venezuelan president Maduro, threatening Greenland, Denmark
+      and NATO over his intended “taking” of Greenland, bombing a Nigerian village,
+      threatening to reclaim Panama, threatening war with Iran, menacing Canada and
+      Mexico (and, of course, Cuba yet again) have proven to be unpopular in the US.
+      So successive polls show.
+
+
+      Most intractable are the economic problems that beset Trump’s regime. Even if
+      the Supreme Court validates Trump’s global imposition of tariffs, their effects
+      are having troubling results for Trump. Far from enough new revenue will be generated
+      to do much to reduce US budget deficits. Indeed, Trump’s proposed War Department
+      budget increase of $600 billion will worsen US deficits significantly. That budget
+      increase alone is several times larger than estimates of what Trump’s tariffs
+      will yield. Likewise, savings from Musk’s DOGE storm fell far short of generating
+      the hyped and hoped budget cuts. Nations opposing the US takeover of Greenland
+      led to a free trade deal between the European Union and Mercosur and renewed trade
+      negotiations between China, on the one hand, and Germany, France, and the UK.
+      Trump’s maneuvers to control exports of Nvidia’s semi-conductor chips once again
+      led to China’s retaliation around rare earths. Finally, US tariffs and threats
+      against Canada have now produced new trade deals between Canada and China. The
+      economic impacts of these and similar deals already under consideration threaten
+      significant long-term economic damages and costs.
+
+
+      Soon, the rise of China and its BRICS allies combined with the decline of the
+      US and what may be left of the G7 alliance will shift in a basic way. One historical
+      epoch is fading while another is replacing it. We are at inflection points where
+      quantitative becomes qualitative and where change shifts from slow to fast. The
+      goal of current political moves toward various forms of authoritarianism in many
+      capitalisms is to hold all this back. But for many of those authoritarianisms,
+      it is too late. They have inherited too many overlapping problems from capitalism’s
+      decline. They have too little in the way of real options to solve them.
+
+
+      Socialisms of various kinds, variously infused with the histories and characteristics
+      of different nations, are preparing to replace today’s authoritarian efforts to
+      hold back historic change. Those Socialisms self-preparations entail a return
+      to full commitments to democracy in politics but also in economics. The latter
+      includes the democratization of internal organizational structures within enterprises
+      (factories, offices, and stores). Socialisms are becoming the champions of democracy
+      just as capitalism’s self-preservation forces it toward authoritarianism. Socialisms
+      respond to their own histories by moving more towards democracy while capitalisms
+      respond to their histories by shifting more towards authoritarian social structures.
+      Such ironies of modern history reflect a profound period of change, full of abundant
+      dangers but also of historic opportunities for a new and better world.'
+    one_sentence_summary: The article analyzes how Donald Trump's presidency and the
+      dynamics of the Republican Party reflect broader changes in U.S. capitalism and
+      party politics, highlighting the role of major donors in shaping political coalitions,
+      the alienation of working-class voters, and the contrasting approaches of Trump
+      and Bernie Sanders in addressing these issues.
+    paragraph_summary: The article analyzes the dynamics of Donald Trump's presidency
+      and the broader context of U.S. politics, emphasizing how Trump's rise is rooted
+      in the changing landscape of American capitalism and party politics. It argues
+      that both the Republican and Democratic parties have historically catered to major
+      donors while neglecting the needs of their voter bases, leading to widespread
+      disillusionment among working-class Americans, particularly white males. Trump's
+      coalition capitalizes on this discontent by appealing to extreme elements within
+      the GOP, blaming Democrats for the struggles of these voters, and promising to
+      reverse the effects of neoliberal globalization. Meanwhile, the Democratic Party
+      has attempted to maintain its coalition by focusing on issues affecting women
+      and minorities, often at the expense of addressing the economic grievances of
+      the working class. The article also highlights the emergence of a progressive
+      wing within the Democratic Party, inspired by figures like Bernie Sanders, which
+      seeks to challenge the status quo and address the economic injustices perpetuated
+      by the ruling class. As U.S. capitalism faces decline and increasing social unrest,
+      the article suggests that authoritarian tendencies may rise in response, while
+      various forms of socialism could emerge as alternatives, advocating for a more
+      democratic approach to both politics and economics.
+    published: '2026-02-11T07:20:44+00:00'
   - title: Veterans
     url: https://www.laprogressive.com/war-and-peace/veterans
     text: 'Veterans - LA Progressive Skip to main content Topics Animal Rights Climate

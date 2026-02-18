@@ -7,14 +7,367 @@ description: "Australian satirical anti–war journalist; reader–funded Substa
 websites:
   - https://www.caitlinjohnst.one/
 summary: |
-  As global discontent intensifies, recent independent analyses highlight a deepening crisis of legitimacy and accountability among Western leaders and institutions. **Caitlin Johnstone** argues that current leaders are fundamentally incapable of addressing core societal issues, not due to lack of resources but because of a systemic prioritization of profit and power over genuine change. This perspective is gaining traction as public trust in traditional governance continues to erode.
+  Tensions in the Middle East are rapidly escalating, with the situation in Gaza now at a critical juncture. Israel has issued a 60-day ultimatum demanding that Hamas disarm, a move that has been unequivocally rejected by Hamas leadership. **Caitlin Johnstone** highlights that this standoff is likely to trigger further violence, emphasizing the absence of legitimate grounds for Israel’s demands and the urgent necessity for a cessation of hostilities against Palestinians.
   
-  In Australia, the fallout from the state visit of Israel’s president has escalated. Authorities, fully aware of the potential for unrest, proceeded with the invitation, resulting in violent police crackdowns on peaceful anti-genocide demonstrators. **Johnstone** notes that these actions were not isolated incidents but part of a broader pattern of suppressing dissent, with police targeting individuals who posed no threat. This episode has intensified scrutiny of Australia’s alignment with controversial foreign policy decisions and its willingness to use force against its own citizens.
+  Meanwhile, the broader regional context is marked by open discussions among Western officials about future conflicts. **Senator Lindsey Graham** has openly stated that Israel is now a hub for strategizing future wars, and has signaled interest in a potential confrontation with Iran. This rhetoric, as reported by Johnstone, underscores a growing willingness among Western power brokers to escalate military tensions in the region.
   
-  Meanwhile, the international community faces renewed criticism for its open complicity in global injustices. As **Tim Foley** observes, powerful nations are no longer hiding their aggressive actions—ranging from resource exploitation to military interventions and nuclear threats—but are instead conducting them openly, with little fear of meaningful reprisal. This normalization of overtly destructive policies signals a shift in the global order, where accountability is increasingly absent.
+  Domestically, the inability of current leadership to address systemic issues remains a persistent theme. Johnstone argues that political leaders are fundamentally uninterested in resolving core societal problems, being more motivated by power and profit than by genuine reform. This dynamic, she suggests, perpetuates cycles of conflict and unrest both at home and abroad.
   
-  Looking ahead, the prevailing trend is one of deepening cynicism toward established power structures. There is a high chance, as **Johnstone** suggests, that without a radical shift in priorities or leadership, these patterns of repression and impunity will persist. Most definitely, public unrest and demands for systemic change will continue to grow, but the likelihood of substantive reform remains low under current conditions. The system, as it stands, appears to be functioning exactly as intended—for the benefit of those already in power.
+  **Trends and Predictions:**  
+  The majority of independent analysts agree that the Gaza situation is a “ticking time bomb,” with a high likelihood of intensified violence if neither side backs down. Regional instability is quite likely to increase, especially given the explicit Western interest in provoking further confrontations, particularly with Iran. Domestically, there is high confidence that entrenched power structures will continue to resist meaningful change, ensuring that underlying grievances remain unaddressed. Most definitely, absent a dramatic shift in policy or leadership, the cycle of escalation and unrest will persist.
 articles:
+  - title: The Ticking Time Bomb Looming Over Gaza, And Other Notes
+    url: https://www.caitlinjohnst.one/p/the-ticking-time-bomb-looming-over
+    text: 'Reading by Tim Foley : Subscribe now One under-discussed ticking time bomb
+      is the way Israel keeps saying it’s going to resume incinerating Gaza if Hamas
+      doesn’t disarm while Hamas keeps saying it won’t disarm. Netanyahu’s office is
+      saying that Hamas will soon be given a 60-day deadline to give up its arms, after
+      which the full-scale bombing of the enclave will resume if these demands aren’t
+      met. A lot of people don’t understand that Hamas has never at any point agreed
+      to give up its weapons. To give up its weapons would be to surrender, which is
+      a very different thing from agreeing to a ceasefire. Israel’s demands and Hamas’
+      refusal are two diametrically opposed positions which put things on a collision
+      course toward reigniting the Gaza holocaust at full scale. Israel and its allies
+      have no legitimate basis upon which to demand that Hamas surrender. All they can
+      legitimately do is stop murdering and abusing the Palestinians. If Israel does
+      resume the full-scale incineration of Gaza it will try to justify its actions,
+      but those actions will be completely unjustifiable. ❖ After a year of dishonest
+      concern trolling about imaginary nuclear weapons in Iran, the so-called “President
+      of Peace” Donald Trump has let the last remaining nuclear arms treaty between
+      the US and Russia go the way of the dinosaur. The New START treaty has been allowed
+      to fully collapse by the Trump administration, and has been replaced by nothing.
+      This is infinitely more dangerous for our world than anything Iran has ever been
+      accused of doing. ❖ Someone on Twitter tried to cite Cuba’s floundering economy
+      as evidence that socialism doesn’t work. I told him, “Believing capitalism is
+      better than communism because the US was able to strangle the Cuban economy is
+      like believing you’re a better person than your neighbor because you beat the
+      shit out of him in his driveway.” ❖ There’s an infuriating video going around
+      showing an AI program whose entire function is to monitor baristas using facial
+      recognition software and make sure they’re maintaining maximum efficiency at the
+      coffee shop. We could have a utopia where robots do most of the labor. Instead
+      we’ve got a dystopia where AI programs push human employees to work like robots.
+      ❖ If an Epstein document had revealed that Trump advanced Israeli interests as
+      a political favor to the world’s richest Israeli in exchange for campaign funding,
+      it would’ve been the biggest story in the world. But because he came right out
+      and said it , it barely caused a blip. ❖ Every news outlet, pundit and analyst
+      who tries to tell you that Jeffrey Epstein was a Russian intelligence operative
+      instead of an Israeli one is just telling you they’re a propagandist. View it
+      as a big flashing sign that says “Never trust anything from this source ever again.”
+      ❖ Israel supporters were overjoyed when the Bondi shooting happened, because they
+      knew it would cause authoritarian laws to be passed. They were happier than the
+      worst Nazis in Australia. They were flooding my replies excitedly telling me I’m
+      going to prison for criticizing Israel. ❖ Every time those in power move to silence
+      Israel’s critics, we must triple our criticism of Israel. Every time they try
+      to shut down pro-Palestine protests, we must triple our participation in the protests.
+      We need to make sure their efforts to silence us guarantees them MORE of the thing
+      they’re trying to get rid of, not less. Impose direct costs on their tyrannical
+      behavior and show them with our actions that every effort to silence us only makes
+      things worse for them. And that’s as it should be. They’re coming after our rights
+      now. If you attack the civil rights of the citizenry, the citizenry are going
+      to fight you right back. You don’t get to push without getting pushback. You don’t
+      get to try to take away my rights and then just coast along like it’s no big deal.
+      You get back what you give, thrice over. ❖ The only governments who’ve been able
+      to resist US imperial domination are the ones like China and Iran who forcefully
+      control what goes on in their country, because that’s the only way to shut down
+      US infiltration and subversion effectively. So now the US spends its time going
+      “All our enemies are authoritarian dictatorships! We must be the Good Guys!” Really
+      they’re the ones who set the conditions which made it so that the only states
+      which maintain their sovereignty are the ones who tightly restrict things like
+      western media propaganda, National Endowment for Democracy influence operations,
+      and other regime change ops. If the US wasn’t constantly trying to topple governments
+      which don’t kiss the imperial boot, those nations could be a lot less restrictive
+      in their laws and policies. The US empire makes the whole world more tyrannical.
+      _______________ Caitlin’s Newsletter is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber. The
+      best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via The White House (public domain)'
+    one_sentence_summary: Israel's ultimatum for Hamas to disarm within 60 days, coupled
+      with Hamas's refusal to surrender its weapons, sets the stage for a potential
+      escalation of violence in Gaza, highlighting the lack of legitimate grounds for
+      Israel's demands and the urgent need to cease hostilities against Palestinians.
+    paragraph_summary: The article by Tim Foley discusses the escalating tensions between
+      Israel and Hamas, highlighting Israel's intention to impose a 60-day deadline
+      for Hamas to disarm, which Hamas has consistently refused, viewing disarmament
+      as surrender. This standoff sets the stage for a potential resumption of large-scale
+      military action against Gaza, which Foley argues would be unjustifiable given
+      the lack of legitimate grounds for Israel's demands. Additionally, the article
+      touches on the collapse of the New START treaty between the US and Russia under
+      the Trump administration, suggesting that this poses a greater global threat than
+      Iran's nuclear ambitions. Foley also critiques the use of Cuba's economic struggles
+      as an argument against socialism, and mentions a concerning AI program that monitors
+      baristas.
+    published: '2026-02-18T02:02:25+00:00'
+  - title: The Ticking Time Bomb Looming Over Gaza, And Other Notes
+    url: https://www.caitlinjohnst.one/p/the-ticking-time-bomb-looming-over
+    text: 'Reading by Tim Foley : Subscribe now One under-discussed ticking time bomb
+      is the way Israel keeps saying it’s going to resume incinerating Gaza if Hamas
+      doesn’t disarm while Hamas keeps saying it won’t disarm. Netanyahu’s office is
+      saying that Hamas will soon be given a 60-day deadline to give up its arms, after
+      which the full-scale bombing of the enclave will resume if these demands aren’t
+      met. A lot of people don’t understand that Hamas has never at any point agreed
+      to give up its weapons. To give up its weapons would be to surrender, which is
+      a very different thing from agreeing to a ceasefire. Israel’s demands and Hamas’
+      refusal are two diametrically opposed positions which put things on a collision
+      course toward reigniting the Gaza holocaust at full scale. Israel and its allies
+      have no legitimate basis upon which to demand that Hamas surrender. All they can
+      legitimately do is stop murdering and abusing the Palestinians. If Israel does
+      resume the full-scale incineration of Gaza it will try to justify its actions,
+      but those actions will be completely unjustifiable. ❖ After a year of dishonest
+      concern trolling about imaginary nuclear weapons in Iran, the so-called “President
+      of Peace” Donald Trump has let the last remaining nuclear arms treaty between
+      the US and Russia go the way of the dinosaur. The New START treaty has been allowed
+      to fully collapse by the Trump administration, and has been replaced by nothing.
+      This is infinitely more dangerous for our world than anything Iran has ever been
+      accused of doing. ❖ Someone on Twitter tried to cite Cuba’s floundering economy
+      as evidence that socialism doesn’t work. I told him, “Believing capitalism is
+      better than communism because the US was able to strangle the Cuban economy is
+      like believing you’re a better person than your neighbor because you beat the
+      shit out of him in his driveway.” ❖ There’s an infuriating video going around
+      showing an AI program whose entire function is to monitor baristas using facial
+      recognition software and make sure they’re maintaining maximum efficiency at the
+      coffee shop. We could have a utopia where robots do most of the labor. Instead
+      we’ve got a dystopia where AI programs push human employees to work like robots.
+      ❖ If an Epstein document had revealed that Trump advanced Israeli interests as
+      a political favor to the world’s richest Israeli in exchange for campaign funding,
+      it would’ve been the biggest story in the world. But because he came right out
+      and said it , it barely caused a blip. ❖ Every news outlet, pundit and analyst
+      who tries to tell you that Jeffrey Epstein was a Russian intelligence operative
+      instead of an Israeli one is just telling you they’re a propagandist. View it
+      as a big flashing sign that says “Never trust anything from this source ever again.”
+      ❖ Israel supporters were overjoyed when the Bondi shooting happened, because they
+      knew it would cause authoritarian laws to be passed. They were happier than the
+      worst Nazis in Australia. They were flooding my replies excitedly telling me I’m
+      going to prison for criticizing Israel. ❖ Every time those in power move to silence
+      Israel’s critics, we must triple our criticism of Israel. Every time they try
+      to shut down pro-Palestine protests, we must triple our participation in the protests.
+      We need to make sure their efforts to silence us guarantees them MORE of the thing
+      they’re trying to get rid of, not less. Impose direct costs on their tyrannical
+      behavior and show them with our actions that every effort to silence us only makes
+      things worse for them. And that’s as it should be. They’re coming after our rights
+      now. If you attack the civil rights of the citizenry, the citizenry are going
+      to fight you right back. You don’t get to push without getting pushback. You don’t
+      get to try to take away my rights and then just coast along like it’s no big deal.
+      You get back what you give, thrice over. ❖ The only governments who’ve been able
+      to resist US imperial domination are the ones like China and Iran who forcefully
+      control what goes on in their country, because that’s the only way to shut down
+      US infiltration and subversion effectively. So now the US spends its time going
+      “All our enemies are authoritarian dictatorships! We must be the Good Guys!” Really
+      they’re the ones who set the conditions which made it so that the only states
+      which maintain their sovereignty are the ones who tightly restrict things like
+      western media propaganda, National Endowment for Democracy influence operations,
+      and other regime change ops. If the US wasn’t constantly trying to topple governments
+      which don’t kiss the imperial boot, those nations could be a lot less restrictive
+      in their laws and policies. The US empire makes the whole world more tyrannical.
+      _______________ Caitlin’s Newsletter is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber. The
+      best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via The White House (public domain)'
+    one_sentence_summary: Israel's ultimatum for Hamas to disarm within 60 days, coupled
+      with Hamas's refusal to surrender its weapons, sets the stage for a potential
+      escalation of violence in Gaza, highlighting the lack of legitimate grounds for
+      Israel's demands and the urgent need to cease hostilities against Palestinians.
+    paragraph_summary: The article by Tim Foley discusses the escalating tensions between
+      Israel and Hamas, highlighting Israel's intention to impose a 60-day deadline
+      for Hamas to disarm, which Hamas has consistently refused, viewing disarmament
+      as surrender. This standoff sets the stage for a potential resumption of large-scale
+      military action against Gaza, which Foley argues would be unjustifiable given
+      the lack of legitimate grounds for Israel's demands. Additionally, the article
+      touches on the collapse of the New START treaty between the US and Russia under
+      the Trump administration, suggesting that this poses a greater global threat than
+      Iran's nuclear ambitions. Foley also critiques the use of Cuba's economic struggles
+      as an argument against socialism, and mentions a concerning AI program that monitors
+      baristas.
+    published: '2026-02-18T02:02:25+00:00'
+  - title: More Shockingly Honest Confessions From The Empire Managers
+    url: https://www.caitlinjohnst.one/p/more-shockingly-honest-confessions
+    text: 'Reading by Tim Foley : Subscribe now US empire managers have been making
+      some surprisingly honest admissions in recent days, with Senator Lindsey Graham
+      saying the wars of the future are being planned in Israel and Secretary of State
+      Marco Rubio calling for a return to old-school western colonialism. During a Monday
+      press conference in Tel Aviv after a meeting with Benjamin Netanyahu, Graham said
+      that “I’ve been coming here every two weeks whether I need to or not.” Why is
+      a South Carolina senator traveling to Israel every two weeks, rain or shine? The
+      bloodthirsty warmonger answers this question in short order. “The wars of the
+      future are being planned here in Israel,” Graham said. “Because if you’re not
+      one step ahead of the enemy, you suffer. The most clever, creative military forces
+      on the planet are here in Israel.” Graham salivated about the possibility of a
+      US war with Iran, acknowledging that such a war could absolutely result in American
+      troops in the region being struck by Iranian missiles but saying the US should
+      go to war anyway. “Could our soldiers be hit in the region? Absolutely, they could.
+      Can Iran respond if we have an all-out attack? Absolutely, they can,” Graham said
+      , arguing that “the risk associated with that is far less than the risk associated
+      with blinking and pulling the plug and not helping the people as you promised.”
+      During a speech at the Munich Security Conference on Saturday, Secretary of State
+      Marco Rubio took the mask all the way off in an unsettling rant about the need
+      to return to the good old days when western powers dominated the global south
+      without pretense or apology. “For five centuries, before the end of the second
+      world war, the West had been expanding — its missionaries, its pilgrims, its soldiers,
+      its explorers pouring out from its shores to cross oceans, settle new continents,
+      build vast empires extending out across the globe,” Rubio said. “But in 1945,
+      for the first time since the age of Columbus, it was contracting. Europe was in
+      ruins. Half of it lived behind an Iron Curtain and the rest looked like it would
+      soon follow. The great Western empires had entered into terminal decline, accelerated
+      by godless communist revolutions and by anti-colonial uprisings that would transform
+      the world and drape the red hammer and sickle across vast swaths of the map in
+      the years to come.” Rubio, a notoriously anti-communist gusano, is here admitting
+      that socialism played a leading role in pushing back against the abusive colonialism
+      and empire-building of the western world in recent decades. A normal person would
+      take this as a strong argument in favor of socialism, but Rubio says it like it’s
+      a bad thing. Rubio urged Europeans to join their white Christian brethren in the
+      United States in re-conquering the brown-skinned communists and heathens who have
+      been insisting upon their own sovereignty and the advancement of their own interests:
+      “Under President Trump, the United States of America will once again take on the
+      task of renewal and restoration, driven by a vision of a future as proud, as sovereign,
+      and as vital as our civilization’s past. And while we are prepared, if necessary,
+      to do this alone, it is our preference and it is our hope to do this together
+      with you, our friends here in Europe. “For the United States and Europe, we belong
+      together. America was founded 250 years ago, but the roots began here on this
+      continent long before. The man who settled and built the nation of my birth arrived
+      on our shores carrying the memories and the traditions and the Christian faith
+      of their ancestors as a sacred inheritance, an unbreakable link between the old
+      world and the new. “We are part of one civilization — Western civilization. We
+      are bound to one another by the deepest bonds that nations could share, forged
+      by centuries of shared history, Christian faith, culture, heritage, language,
+      ancestry, and the sacrifices our forefathers made together for the common civilization
+      to which we have fallen heir.” It takes a special kind of psychopath to look back
+      with fondness upon five centuries of unchecked western colonialism and imperialism
+      and then advocate a return to those horrific days. Mass genocides across entire
+      continents. The African slave trade. The violent subjugation and enslavement of
+      entire populations. That is what Rubio is looking back on and sighing with nostalgia.
+      And this is of course to say nothing of the savagery his beloved “Western civilization”
+      is perpetrating in the present day. This is the civilization of the Gaza holocaust.
+      The civilization that cannot exist without constant war, exploitation and extraction.
+      The civilization that is presently strangling Cuba to death and preparing for
+      war with Iran. The civilization that still to this day violently subjugates and
+      robs the global south. The civilization of ecocide. The civilization of Epstein.
+      Western civilization is the most depraved and abusive civilization that has ever
+      existed. It doesn’t need a return to its prime, it needs to be stopped in its
+      tracks and made healthy. This is obvious from a glance at the deranged empire
+      managers this civilization has been elevating to positions of leadership. _______________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: Senator Lindsey Graham has openly stated that future wars
+      are being strategized in Israel, emphasizing the country's military ingenuity,
+      while also expressing a desire for a potential conflict with Iran.
+    paragraph_summary: In recent statements, U.S. officials have made candid remarks
+      about future military strategies, with Senator Lindsey Graham asserting that future
+      wars are being planned in Israel and emphasizing the need for the U.S. to stay
+      ahead of its enemies. During a press conference in Tel Aviv, Graham expressed
+      his commitment to frequent visits to Israel, citing the country's military prowess
+      and suggesting that a potential conflict with Iran, despite the risks to American
+      troops, is necessary to uphold U.S. promises. Meanwhile, Secretary of State Marco
+      Rubio, at the Munich Security Conference, provocatively called for a return to
+      traditional Western colonialism, lamenting the post-World War II contraction of
+      Western influence and reminiscing about the era of expansive Western empires.
+    published: '2026-02-17T01:36:05+00:00'
+  - title: More Shockingly Honest Confessions From The Empire Managers
+    url: https://www.caitlinjohnst.one/p/more-shockingly-honest-confessions
+    text: 'Reading by Tim Foley : Subscribe now US empire managers have been making
+      some surprisingly honest admissions in recent days, with Senator Lindsey Graham
+      saying the wars of the future are being planned in Israel and Secretary of State
+      Marco Rubio calling for a return to old-school western colonialism. During a Monday
+      press conference in Tel Aviv after a meeting with Benjamin Netanyahu, Graham said
+      that “I’ve been coming here every two weeks whether I need to or not.” Why is
+      a South Carolina senator traveling to Israel every two weeks, rain or shine? The
+      bloodthirsty warmonger answers this question in short order. “The wars of the
+      future are being planned here in Israel,” Graham said. “Because if you’re not
+      one step ahead of the enemy, you suffer. The most clever, creative military forces
+      on the planet are here in Israel.” Graham salivated about the possibility of a
+      US war with Iran, acknowledging that such a war could absolutely result in American
+      troops in the region being struck by Iranian missiles but saying the US should
+      go to war anyway. “Could our soldiers be hit in the region? Absolutely, they could.
+      Can Iran respond if we have an all-out attack? Absolutely, they can,” Graham said
+      , arguing that “the risk associated with that is far less than the risk associated
+      with blinking and pulling the plug and not helping the people as you promised.”
+      During a speech at the Munich Security Conference on Saturday, Secretary of State
+      Marco Rubio took the mask all the way off in an unsettling rant about the need
+      to return to the good old days when western powers dominated the global south
+      without pretense or apology. “For five centuries, before the end of the second
+      world war, the West had been expanding — its missionaries, its pilgrims, its soldiers,
+      its explorers pouring out from its shores to cross oceans, settle new continents,
+      build vast empires extending out across the globe,” Rubio said. “But in 1945,
+      for the first time since the age of Columbus, it was contracting. Europe was in
+      ruins. Half of it lived behind an Iron Curtain and the rest looked like it would
+      soon follow. The great Western empires had entered into terminal decline, accelerated
+      by godless communist revolutions and by anti-colonial uprisings that would transform
+      the world and drape the red hammer and sickle across vast swaths of the map in
+      the years to come.” Rubio, a notoriously anti-communist gusano, is here admitting
+      that socialism played a leading role in pushing back against the abusive colonialism
+      and empire-building of the western world in recent decades. A normal person would
+      take this as a strong argument in favor of socialism, but Rubio says it like it’s
+      a bad thing. Rubio urged Europeans to join their white Christian brethren in the
+      United States in re-conquering the brown-skinned communists and heathens who have
+      been insisting upon their own sovereignty and the advancement of their own interests:
+      “Under President Trump, the United States of America will once again take on the
+      task of renewal and restoration, driven by a vision of a future as proud, as sovereign,
+      and as vital as our civilization’s past. And while we are prepared, if necessary,
+      to do this alone, it is our preference and it is our hope to do this together
+      with you, our friends here in Europe. “For the United States and Europe, we belong
+      together. America was founded 250 years ago, but the roots began here on this
+      continent long before. The man who settled and built the nation of my birth arrived
+      on our shores carrying the memories and the traditions and the Christian faith
+      of their ancestors as a sacred inheritance, an unbreakable link between the old
+      world and the new. “We are part of one civilization — Western civilization. We
+      are bound to one another by the deepest bonds that nations could share, forged
+      by centuries of shared history, Christian faith, culture, heritage, language,
+      ancestry, and the sacrifices our forefathers made together for the common civilization
+      to which we have fallen heir.” It takes a special kind of psychopath to look back
+      with fondness upon five centuries of unchecked western colonialism and imperialism
+      and then advocate a return to those horrific days. Mass genocides across entire
+      continents. The African slave trade. The violent subjugation and enslavement of
+      entire populations. That is what Rubio is looking back on and sighing with nostalgia.
+      And this is of course to say nothing of the savagery his beloved “Western civilization”
+      is perpetrating in the present day. This is the civilization of the Gaza holocaust.
+      The civilization that cannot exist without constant war, exploitation and extraction.
+      The civilization that is presently strangling Cuba to death and preparing for
+      war with Iran. The civilization that still to this day violently subjugates and
+      robs the global south. The civilization of ecocide. The civilization of Epstein.
+      Western civilization is the most depraved and abusive civilization that has ever
+      existed. It doesn’t need a return to its prime, it needs to be stopped in its
+      tracks and made healthy. This is obvious from a glance at the deranged empire
+      managers this civilization has been elevating to positions of leadership. _______________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: Senator Lindsey Graham has openly stated that future wars
+      are being strategized in Israel, emphasizing the country's military ingenuity,
+      while also expressing a desire for a potential conflict with Iran.
+    paragraph_summary: In recent statements, U.S. officials have made candid remarks
+      about future military strategies, with Senator Lindsey Graham asserting that future
+      wars are being planned in Israel and emphasizing the need for the U.S. to stay
+      ahead of its enemies. During a press conference in Tel Aviv, Graham expressed
+      his commitment to frequent visits to Israel, citing the country's military prowess
+      and suggesting that a potential conflict with Iran, despite the risks to American
+      troops, is necessary to uphold U.S. promises. Meanwhile, Secretary of State Marco
+      Rubio, at the Munich Security Conference, provocatively called for a return to
+      traditional Western colonialism, lamenting the post-World War II contraction of
+      Western influence and reminiscing about the era of expansive Western empires.
+    published: '2026-02-17T01:36:05+00:00'
   - title: Our Leaders Couldn't Fix Our Problems If They Wanted To (And They Don't Want
       To)
     url: https://www.caitlinjohnst.one/p/our-leaders-couldnt-fix-our-problems

@@ -7,14 +7,246 @@ description: "Richard Falk is an international law and international relations s
 websites:
   - https://richardfalk.org/
 summary: |
-  The global security landscape continues to be shaped by the ascendancy of nationalist and far-right movements, with significant implications for the authority of international law and the effectiveness of multilateral institutions. As highlighted by **Richard Falk**, the marginalization of international law in favor of power politics is not a new phenomenon, but recent developments—particularly the resurgence of Trump-era policies—have intensified this trend, undermining the post-1945 world order.
+  As of February 18, 2026, the global geopolitical landscape remains characterized by a deepening crisis of international law and the erosion of multilateral institutions. This trend, as consistently analyzed by **Richard Falk**, is rooted in the ascendancy of nationalist and far-right movements, with the United States under Trump serving as a primary example. The marginalization of international law in favor of power politics is not a new phenomenon, but its current intensity marks a significant departure from the post-1945 world order.
   
-  The most recent analysis underscores the growing deficiencies in the management of global security. **Falk** points to the U.S. military operation in Venezuela as a stark example of "nihilistic geopolitics," where legal norms are disregarded in pursuit of strategic interests. This action, coupled with the controversial kidnapping of Venezuela's president and subsequent legal justifications, signals a broader erosion of respect for international law. The complicity of the United Nations in legitimizing such maneuvers further exposes the limitations of current global governance structures.
+  The most recent analysis by **Falk** (February 17, 2026) underscores humanity’s persistent desire for predictability in a world increasingly defined by uncertainty and danger. While not offering specific new geopolitical developments, this reflection contextualizes the broader anxiety driving both public sentiment and state behavior, particularly as legal norms are sidelined in favor of ad hoc, interest-driven decision-making.
   
-  In the Middle East, the Trump administration’s proposal for an independent peace council—bypassing established UN frameworks—has been widely criticized as illegitimate and detrimental to the rights of Palestinians. **Falk** warns that such initiatives not only favor the interests of powerful actors but also undermine the legitimacy of international conflict resolution mechanisms, setting a dangerous precedent for future crises.
+  In the case of Venezuela, the U.S. military operation and the subsequent abduction of its president have been widely condemned as emblematic of this new nihilistic approach to global security. **Falk** argues that these actions not only undermine the United Nations’ legitimacy but also set a precedent for the normalization of extra-legal interventions. The complicity of the UN, through its failure to effectively challenge or restrain such actions, further erodes the credibility of international governance structures.
   
-  Looking ahead, the prevailing trend is a continued weakening of international legal norms and institutions, with power management increasingly taking precedence over legal commitments. Based on the current trajectory, I guarantee that the marginalization of international law will persist as long as nationalist and far-right forces dominate major powers. There is a high chance that the UN’s credibility will further erode unless significant reforms are undertaken or a shift in global political will occurs. The prognosis for the near term is one of heightened instability and legal uncertainty in global affairs.
+  Turning to the Middle East, the Trump administration’s proposal for an independent peace council for Gaza—bypassing the UN—has been criticized as illegitimate and detrimental to Palestinian rights. **Falk** warns that such frameworks favor the interests of powerful actors and wrongdoers, reinforcing a system where established legal mechanisms are circumvented for political expediency.
+  
+  Looking ahead, the prevailing trend is a continued weakening of international law and multilateralism, with power politics dictating outcomes in major crises. Based on the convergence of these analyses, I guarantee that, barring a significant shift in global leadership or public mobilization, the erosion of legal norms and the sidelining of the United Nations will most definitely persist in the near term. The prospects for a return to principled multilateralism remain dim, with a high chance that ad hoc arrangements and unilateral interventions will shape the international order for the foreseeable future.
 articles:
+  - title: 'The Courage to Be: Adapting to Unknowability in a Dangerous World'
+    url: https://richardfalk.org/2026/02/17/the-courage-to-be-adapting-to-unknowability-in-a-dangerous-world/
+    text: '[Prefatory Note : This short essay previously published as an editorial in
+      TransMediaService on February 16, 2026. The text below has been modified slightly]
+      As human beings we share deep emotional impulses to foretell the future, whether
+      to foresee action on the basis of dread as to what the future will bring or to
+      offer oneself and others reassurance that the future will deliver us from an ominous
+      catastrophe or bring us the gifts of life that we most covet. From pre-modern
+      times humans have sought this reassurance, resorting to magicians or religious
+      seers and texts as necessary. Diverse civilizations throughout history have thirsted
+      after knowledge of their future as individuals or in relation to diverse collective
+      identities as members of tribes, nations, states, religions, ethnicities, and
+      gender identities, and more recently as a species. Fortune telling, astrology,
+      and divining rods have all tried to foretell the future, without waiting for it
+      to unfold. This kind of epistemological denialism has been somewhat disguised
+      in modern sensibilities by recourse to experts, futurists, and forecasters who
+      translate data into policy preferences and predictions that earns respect as if
+      ‘knowledge.’ It is also us bound up with gambling and extreme sports, as if we
+      can defy the fog clouding the future and subjugate the future to our appetites/
+      This passion to know the future has even penetrated sophisticated scientific circles.
+      A prominent example is the Doomsday Clock administered for the since 1947 by the
+      Bulletin of Atomic Scientists who select a group of scientists, weapons specialists,
+      nuclear experts, and public figures to assess how close the world is to the midnight
+      omega point of nuclear war. This year it was a major news item when the clock
+      was moved four seconds closer to midnight, from 89 seconds to 85, a pseudo-precise
+      way of anticipating the risks of an apocalyptic future for humanity. As with pre-scientific
+      ways of relieving persons and communities of the anxieties and impatience associated
+      with the core uncertainties of life as bearing upon prospects feared or desired.
+      In modernity this demand for something as definite as possible about the future
+      tends to be more comfortable relying on statistics, graphs, and data, still functioning
+      as ways to cover up the unknowability of the future, and ultimately performs a
+      disservice to humanity by encouraging fatalism, passivity, or sedation on one
+      side and cynicism and complacency on the other. Why act or struggle for the future
+      if we know what lies ahead? Thereby arises ‘false consciousness’? This is what
+      the philosopher, Alfred North Whitehead, famously warned us about calling it ‘the
+      fallacy of misplaced concreteness.’ He considered this widespread fallacy induced
+      false consciousness about the real. My purpose is more modest. It is to criticize
+      the impact of negativity to the extent that it flourishes even among solutions-oriented
+      peace activists in the tradition of Johan Galtung, and to energize progressive
+      activism without the palliative of false consciousness. Unknowability about the
+      future, starting with the precariousness of our own mortality, is never comfortable,
+      yet it is real. It should not diminish efforts to reduce dangers or risks, but
+      motivate us to adjust behavior on the basis of present knowledge. The Titanic
+      would not have struck an iceberg if it had not ventured so close to Arctic waters.
+      I would feel safer and more secure if denuclearizing initiatives were embraced
+      by the nuclear weapons states such as by entering into a nuclear disarmament treaty
+      process with a resolve to make it work. Even so, I would be overreaching by claiming
+      100% certainty that my line of advocacy was assured of being best course for humanity
+      to take? Claiming to know the future is a mixture of dogmatism and hubris, leading
+      in worst case scenarios to extremism of a destructive kind. These dangers disfigure
+      behavior in potentially destructive ways. Zionist ideology roots its justifications
+      for apartheid, genocide, and ecocide in the biblical promise of ‘the promised
+      land,’ taking no account of the wellbeing and attachments of the majority population
+      in modern day Palestine. Israel’s first Prime Minister, David Ben Gurion, a confirmed
+      secularist, opportunistically invoked this sacrosanct method of foretelling of
+      the future by saying ‘let the Bible be our weapon,’ and further evaluating any
+      choice by the simple question, ‘is it good for the Jews?’ Not only is the future
+      assured and hence knowable, but its inevitability tends to relieve those so falsely
+      enlightened of all moral constraints. This kind of manipulative futurism corrupts
+      as exemplified by Christian Zionists who read the Book of Revelations that comes
+      at the end of the New Testament as validating unconditional support of Israel
+      joined with a mission to induce Jews to emigrate to Israel as the necessary prelude
+      to the Second Coming of Jesus Christ. And then, when the initial forecast is fulfilled,
+      Jews are to be given the choice of conversion or eternal damnation. The most notable
+      substitution of hope for knowledge when it comes to the future derives its strongest
+      affirmation from the great late 18 th century German philosopher of rationality,
+      Immanuel Kant (1724-1805), who put articulated in solemn inspirational language
+      that has cheered the best of activists for more than two centuries: “The moral
+      arc of the universe is long but bends toward justice.” Martin Luther King, Jr,
+      famously invoked this sentiment, although he tied it to struggle more than treated
+      it as a foolproof prediction of the future. A reading of the present can be interpreted
+      as vindicating Kant’s confidence in the future of humanity, as in his essay P
+      erpetual Peace : A Philosophical Sketch (1795) or an expression of premature optimism
+      or even as a selective blindness toward the human condition as it is currently
+      being exhibited. The evidence is equivocal and premature, at best, and if I had
+      to pronounce upon it, I would prefer to regard such a predisposition as an ultra-humanistic
+      version of false consciousness about the human future. From these perspectives,
+      I want to encourage peace activism of all kinds, to accept the challenges associated
+      with a refusal to indulge delusions about ‘knowable futures’ in favor of rooting
+      their beliefs in the unknowability of the future, and to ground their activism
+      in an ethos of humanistic struggle based on visions of desirable futures without
+      depending on false claims about the certainties of doom or of a guarantee that
+      their dedicated responses to such assaults on humanity as arise from warfare,
+      climate change, poverty, racism, and imperialism will with certainty overcome
+      such shortcomings in the human condition. As a species we must abandon a worldview
+      based on parts rather  than the whole . As long as we speak only or primarily
+      from the present particularities of nationality, gender, ethnicity, civilizational,
+      and religious identity we should awaken in the present that this is not a path
+      to a peaceful, just, and resilient path to the future. With urgency we must learn
+      to think and act as engaged citizens of the planetary ecosystemic whole, and more
+      expansively of the cosmos as our unavoidable shared foundation of life and spirituality.
+      Overall, this involves an acceptance of unknowability when it comes to the future
+      and to struggle on behalf of our beliefs in the present , with a posture of prudence
+      toward perceived dangers and wrongdoing. Such a reorientation of outlook and engagement
+      entails profound changes in education, citizenship, and notions of the public
+      good.  I try to remain engaged with the help of my former mentor/teacher, Paul
+      Tillich, and especially his book Courage to Be (1952), whose message counsels
+      rootedness in the deep soil of present reality.'
+    one_sentence_summary: The article explores humanity's enduring desire to predict
+      the future, highlighting how various cultures have historically sought reassurance
+      through methods like fortune telling and astrology to alleviate fears or fulfill
+      aspirations.
+    paragraph_summary: The essay discusses humanity's enduring desire to predict the
+      future, rooted in emotional impulses that drive us to seek reassurance against
+      potential disasters or to anticipate desirable outcomes. Throughout history, people
+      have turned to various means—such as magicians, religious figures, and later,
+      experts and futurists—to gain insights into what lies ahead. This quest for knowledge
+      of the future is intertwined with cultural identities and has evolved into modern
+      practices, including the use of data by scientists and forecasters. A notable
+      example is the Doomsday Clock, which symbolizes the perceived threat of nuclear
+      war and was recently adjusted closer to midnight, reflecting ongoing anxieties
+      about an apocalyptic future. The essay highlights how this desire to predict the
+      future persists across different eras and societal contexts, revealing a deep-seated
+      human need to confront uncertainty.
+    published: '2026-02-17T20:32:22+00:00'
+  - title: 'The Courage to Be: Adapting to Unknowability in a Dangerous World'
+    url: https://richardfalk.org/2026/02/17/the-courage-to-be-adapting-to-unknowability-in-a-dangerous-world/
+    text: '[Prefatory Note : This short essay previously published as an editorial in
+      TransMediaService on February 16, 2026. The text below has been modified slightly]
+      As human beings we share deep emotional impulses to foretell the future, whether
+      to foresee action on the basis of dread as to what the future will bring or to
+      offer oneself and others reassurance that the future will deliver us from an ominous
+      catastrophe or bring us the gifts of life that we most covet. From pre-modern
+      times humans have sought this reassurance, resorting to magicians or religious
+      seers and texts as necessary. Diverse civilizations throughout history have thirsted
+      after knowledge of their future as individuals or in relation to diverse collective
+      identities as members of tribes, nations, states, religions, ethnicities, and
+      gender identities, and more recently as a species. Fortune telling, astrology,
+      and divining rods have all tried to foretell the future, without waiting for it
+      to unfold. This kind of epistemological denialism has been somewhat disguised
+      in modern sensibilities by recourse to experts, futurists, and forecasters who
+      translate data into policy preferences and predictions that earns respect as if
+      ‘knowledge.’ It is also us bound up with gambling and extreme sports, as if we
+      can defy the fog clouding the future and subjugate the future to our appetites/
+      This passion to know the future has even penetrated sophisticated scientific circles.
+      A prominent example is the Doomsday Clock administered for the since 1947 by the
+      Bulletin of Atomic Scientists who select a group of scientists, weapons specialists,
+      nuclear experts, and public figures to assess how close the world is to the midnight
+      omega point of nuclear war. This year it was a major news item when the clock
+      was moved four seconds closer to midnight, from 89 seconds to 85, a pseudo-precise
+      way of anticipating the risks of an apocalyptic future for humanity. As with pre-scientific
+      ways of relieving persons and communities of the anxieties and impatience associated
+      with the core uncertainties of life as bearing upon prospects feared or desired.
+      In modernity this demand for something as definite as possible about the future
+      tends to be more comfortable relying on statistics, graphs, and data, still functioning
+      as ways to cover up the unknowability of the future, and ultimately performs a
+      disservice to humanity by encouraging fatalism, passivity, or sedation on one
+      side and cynicism and complacency on the other. Why act or struggle for the future
+      if we know what lies ahead? Thereby arises ‘false consciousness’? This is what
+      the philosopher, Alfred North Whitehead, famously warned us about calling it ‘the
+      fallacy of misplaced concreteness.’ He considered this widespread fallacy induced
+      false consciousness about the real. My purpose is more modest. It is to criticize
+      the impact of negativity to the extent that it flourishes even among solutions-oriented
+      peace activists in the tradition of Johan Galtung, and to energize progressive
+      activism without the palliative of false consciousness. Unknowability about the
+      future, starting with the precariousness of our own mortality, is never comfortable,
+      yet it is real. It should not diminish efforts to reduce dangers or risks, but
+      motivate us to adjust behavior on the basis of present knowledge. The Titanic
+      would not have struck an iceberg if it had not ventured so close to Arctic waters.
+      I would feel safer and more secure if denuclearizing initiatives were embraced
+      by the nuclear weapons states such as by entering into a nuclear disarmament treaty
+      process with a resolve to make it work. Even so, I would be overreaching by claiming
+      100% certainty that my line of advocacy was assured of being best course for humanity
+      to take? Claiming to know the future is a mixture of dogmatism and hubris, leading
+      in worst case scenarios to extremism of a destructive kind. These dangers disfigure
+      behavior in potentially destructive ways. Zionist ideology roots its justifications
+      for apartheid, genocide, and ecocide in the biblical promise of ‘the promised
+      land,’ taking no account of the wellbeing and attachments of the majority population
+      in modern day Palestine. Israel’s first Prime Minister, David Ben Gurion, a confirmed
+      secularist, opportunistically invoked this sacrosanct method of foretelling of
+      the future by saying ‘let the Bible be our weapon,’ and further evaluating any
+      choice by the simple question, ‘is it good for the Jews?’ Not only is the future
+      assured and hence knowable, but its inevitability tends to relieve those so falsely
+      enlightened of all moral constraints. This kind of manipulative futurism corrupts
+      as exemplified by Christian Zionists who read the Book of Revelations that comes
+      at the end of the New Testament as validating unconditional support of Israel
+      joined with a mission to induce Jews to emigrate to Israel as the necessary prelude
+      to the Second Coming of Jesus Christ. And then, when the initial forecast is fulfilled,
+      Jews are to be given the choice of conversion or eternal damnation. The most notable
+      substitution of hope for knowledge when it comes to the future derives its strongest
+      affirmation from the great late 18 th century German philosopher of rationality,
+      Immanuel Kant (1724-1805), who put articulated in solemn inspirational language
+      that has cheered the best of activists for more than two centuries: “The moral
+      arc of the universe is long but bends toward justice.” Martin Luther King, Jr,
+      famously invoked this sentiment, although he tied it to struggle more than treated
+      it as a foolproof prediction of the future. A reading of the present can be interpreted
+      as vindicating Kant’s confidence in the future of humanity, as in his essay P
+      erpetual Peace : A Philosophical Sketch (1795) or an expression of premature optimism
+      or even as a selective blindness toward the human condition as it is currently
+      being exhibited. The evidence is equivocal and premature, at best, and if I had
+      to pronounce upon it, I would prefer to regard such a predisposition as an ultra-humanistic
+      version of false consciousness about the human future. From these perspectives,
+      I want to encourage peace activism of all kinds, to accept the challenges associated
+      with a refusal to indulge delusions about ‘knowable futures’ in favor of rooting
+      their beliefs in the unknowability of the future, and to ground their activism
+      in an ethos of humanistic struggle based on visions of desirable futures without
+      depending on false claims about the certainties of doom or of a guarantee that
+      their dedicated responses to such assaults on humanity as arise from warfare,
+      climate change, poverty, racism, and imperialism will with certainty overcome
+      such shortcomings in the human condition. As a species we must abandon a worldview
+      based on parts rather  than the whole . As long as we speak only or primarily
+      from the present particularities of nationality, gender, ethnicity, civilizational,
+      and religious identity we should awaken in the present that this is not a path
+      to a peaceful, just, and resilient path to the future. With urgency we must learn
+      to think and act as engaged citizens of the planetary ecosystemic whole, and more
+      expansively of the cosmos as our unavoidable shared foundation of life and spirituality.
+      Overall, this involves an acceptance of unknowability when it comes to the future
+      and to struggle on behalf of our beliefs in the present , with a posture of prudence
+      toward perceived dangers and wrongdoing. Such a reorientation of outlook and engagement
+      entails profound changes in education, citizenship, and notions of the public
+      good.  I try to remain engaged with the help of my former mentor/teacher, Paul
+      Tillich, and especially his book Courage to Be (1952), whose message counsels
+      rootedness in the deep soil of present reality.'
+    one_sentence_summary: The article explores humanity's enduring desire to predict
+      the future, highlighting how various cultures have historically sought reassurance
+      through methods like fortune telling and astrology to alleviate fears or fulfill
+      aspirations.
+    paragraph_summary: The essay discusses humanity's enduring desire to predict the
+      future, rooted in emotional impulses that drive us to seek reassurance against
+      potential disasters or to anticipate desirable outcomes. Throughout history, people
+      have turned to various means—such as magicians, religious figures, and later,
+      experts and futurists—to gain insights into what lies ahead. This quest for knowledge
+      of the future is intertwined with cultural identities and has evolved into modern
+      practices, including the use of data by scientists and forecasters. A notable
+      example is the Doomsday Clock, which symbolizes the perceived threat of nuclear
+      war and was recently adjusted closer to midnight, reflecting ongoing anxieties
+      about an apocalyptic future. The essay highlights how this desire to predict the
+      future persists across different eras and societal contexts, revealing a deep-seated
+      human need to confront uncertainty.
+    published: '2026-02-17T20:32:22+00:00'
   - title: 'Geopolitical Obstcles to International Law Enforcement: Deficiencies in
       the Management of Global Security'
     url: https://richardfalk.org/2026/02/09/geopolitical-obstcles-to-international-law-enforcement-deficiencies-in-the-management-of-global-security/

@@ -8,16 +8,2332 @@ websites:
   - https://michael-hudson.com/
   - https://geopoliticaleconomy.com/author/michael-hudson/
 summary: |
-  As global economic and political realignments accelerate into February 2026, the latest analyses from **Michael Hudson** provide new insights into the shifting architecture of power, particularly in China and the West.
+  Amid ongoing global economic and strategic realignments, recent analyses by **Michael Hudson** and colleagues shed light on the evolving architecture of power, finance, and resource control. The latest discussions focus on the intersection of financialization, military strategy, and the shifting global order.
   
-  The most recent development centers on the publication of Volume V of Xi Jinping Thought, which, according to **Hudson**, underscores Beijing’s commitment to a governance model distinct from Western neoliberalism. In his email interview with China Daily, Hudson highlights that China’s approach is “increasingly focused on insulating itself from Western financial shocks and prioritizing domestic stability over speculative growth.” This signals a continued divergence between Chinese and Western economic philosophies, with Beijing doubling down on state-led development and strategic autonomy.
+  A central development is the critique of GDP as a metric that, according to **Hudson** and **Dirk Bezemer**, "flatters finance and hides extraction." Their research, presented at a recent Class Unity event, underscores how traditional economic indicators obscure the extractive role of the financial sector, which exacerbates inequality and heightens the risk of economic crises. This perspective is gaining traction among political economists, who argue that meaningful reform in monetary policy and economic governance is necessary to address systemic imbalances.
   
-  Meanwhile, Hudson’s recent podcast discussion on the property crisis reveals the depth of systemic vulnerabilities in Western economies. He argues that the crisis is not merely cyclical but rooted in the very structure of real estate finance and banking. “The property bubble is a symptom of a broader financialization that has hollowed out productive investment,” Hudson notes, suggesting that without structural reform, Western economies will remain prone to instability.
+  On the geopolitical front, **Hudson**’s analysis from the World Economic Forum in Davos highlights the U.S.'s evolving strategy in the Arctic under Donald Trump. Rather than pursuing genuine conflict resolution, Hudson asserts that Washington’s definition of "peace" is increasingly synonymous with military dominance and the establishment of a new global power order. This approach, he warns, is less about stability and more about reinforcing U.S. hegemony through force projection in critical regions.
   
-  On the geopolitical front, Hudson’s previous work on “Super Imperialism” and the end of dollar discipline remains highly relevant. The ongoing erosion of U.S. financial hegemony is now more visible, as countries seek alternatives to the dollar-centric system. Hudson maintains that “the U.S. reliance on its balance of payments deficit as a tool of global power is unsustainable,” and predicts with high confidence that “we will see further moves toward de-dollarization and regional economic blocs.”
+  Meanwhile, the ongoing property crisis remains a focal point. In a recent podcast with **Jonathan Brown**, Hudson detailed the "hidden architecture" behind real estate instability, linking it to broader trends in financialization and speculative investment. This, he argues, is symptomatic of deeper structural issues within Western economies, where asset bubbles and debt-driven growth have supplanted productive investment.
   
-  In summary, the latest developments point to a world in which China is consolidating its alternative model, while Western economies face mounting structural challenges. The trend toward multipolarity is accelerating, with high confidence that the global order will continue to fragment along economic and ideological lines.
+  Looking ahead, the prevailing trend is one of intensifying systemic stress—both economically and geopolitically. There is a high chance, as **Hudson** notes, that without substantial policy shifts, financial extraction and militarized competition will continue to define the global landscape. The confidence level in these predictions is high: I guarantee that unless there is a significant realignment in economic and strategic priorities, current patterns of inequality, instability, and geopolitical rivalry will persist and likely intensify.
 articles:
+  - title: Why GDP Flatters Finance and Hides Extraction
+    url: https://michael-hudson.com/2026/02/why-gdp-flatters-finance-and-hides-extraction/
+    text: 'Cross Posted from Class Unity. Class Unity : Hello everyone and welcome to
+      another Class Unity event. Today we’re joined by a returning guest, Professor
+      Michael Hudson, as well as Professor Dirk Bezemer. Michael Hudson is a professor
+      of economics at the University of Missouri Kansas City, a researcher at the Levy
+      Economics Institute at Bard College, and the author of many books and papers on
+      political economy, the history of economics, economic history, finance, and imperialism.
+      Dirk Bezemer is a Dutch economist who is professor at the Faculty of Economics
+      and Business at the University of Groningen. His work addresses the financial
+      sector, credit creation, credit cycles, monetary policy, and the cause of economic
+      crisis. In a September 2009 opinion piece in the Financial Times, he wrote that
+      a dozen economists whom he listed had predicted the 2008 financial crisis but
+      were ignored. So both of our guests have written extensively on the role of the
+      financial system in worsening inequality and financial crisis, and we’re talking
+      to them today about their work on finance and the capital gains economy. Let’s
+      start with one basic question. In your papers you make a distinction between two
+      dynamics in the economy that you say is overlooked by mainstream economists: the
+      distinction between the current production and consumption on the one hand, and
+      finance, insurance, and real estate on the other. So for our viewers at home,
+      can you explain this distinction? Why is it so important for understanding the
+      economy we live in today? Dirk, do you want to start? Dirk Bezemer: Classic. Thank
+      you. This is important because we live in what you might call the capital gains
+      economy. So we think of capitalism as a system which is motivated by the pursuit
+      of profit, but it might be more appropriate nowadays to characterize it as a system
+      which is motivated by the pursuit of capital gains, also known as asset appreciation.
+      The big gains and the way to get really rich is really to have assets and see
+      them increase in value, and we will come to how that happens and what it needs
+      in the system, and that this is not sort of innate inherent in capitalism as such
+      but it’s really a special feature of capitalism since about the 1980s. But it
+      means that to understand how the system works it’s not enough, or even better
+      not try to understand how profit is formed, but we better understand how the values
+      of assets such as bonds, stocks, and real estate are formed. And that is why we
+      need to make a distinction between those two dynamics. On the one hand, the GDP,
+      the gross domestic product, which is the sum of all incomes. Incomes are either
+      wages or profits, and that is the focus of conventional economics and properly
+      so in industrial economies. But nowadays we live in financialized economies, including
+      real estate financialized economies, where capital gains and the value of assets,
+      including real estate assets, is really the important dynamic and certainly the
+      way to understand inequality. Let me leave it at that for now. CU : Sure. Michael,
+      do you want to add to that? Michael Hudson : Yes. The real key is: what is a product?
+      We’ve spent much of the last few years trying to analyze the national income and
+      product accounts and the GDP, and we realize that what is counted as a large part
+      of GDP and national income and product is not a product at all. It’s a transfer
+      payment. For instance, when Dirk and I were in Washington putting our statistics
+      together, I called the Commerce Department and said I was bewildered. I know that
+      credit card companies make more money from late fees than they do in interest.
+      Well, we could find interest payments in the NIPA accounts. I asked, where are
+      the late fees? And the answer was: I could not have made this up, providing financial
+      services. Well, the theory is that this is a service, and the underlying reaction
+      a century ago against classical political economy and the whole value theory of
+      rent and prices and value, and rent being the excess of market price over value,
+      meant that this rent was unearned income, and it was deemed unearned because it
+      was not involved in creating a product. When landlords raise the rent, they don’t
+      create a product, they charge more. When monopolies impose monopoly rent, that’s
+      not a product. And when banks charge interest and late fees and provide all of
+      the other management operations they do, much of this is not creating a product.
+      And so what we tried to say was: well, when you’re comparing the product of the
+      United States, European countries, and let’s say China or other countries, and
+      we adjust the—we divide the GDP into what’s really a product and what’s a transfer
+      payment—we have an entirely different picture of the economy. And the anti-classical
+      revolution a century ago basically said there’s no such thing as economic rent,
+      and Milton Friedman says there is no free lunch. Well, what we find is that the
+      whole economy is about getting a free lunch, and that not only is the financial
+      sector playing a rising role in national income and GDP accounts, but its role
+      is not to really increase production because it’s overseen de-industrialization
+      since the 1990s. Its role is to create wealth financially mainly by debt leveraging.
+      You can look at how 80% of bank lending in the United States, England, and other
+      countries is for real estate, and the effect has been to increase the degree of
+      debt leveraging for real estate, and that increases the prices. And many families,
+      during the runup of housing prices in the early 2000s, made more money on the
+      increasing market price—I won’t say value, but market price—of their homes than
+      they did earning a salary to actually produce goods and services. And so this
+      is why we realized that the aim was to create capital gains. Well, how do you
+      sustain this system? How do you stop it from collapsing like it did in 2008 and
+      2009? Well, the only way to really keep it going, the Federal Reserve decided,
+      was to follow the zero interest rate policy and just provide enough credit to
+      enable debtors—households, corporations that were taken over, and countries—to
+      keep paying their debts by lending them the money to pay the interest. That’s
+      what Hyman Minsky called the Ponzi stage of the financial cycle. We looked at
+      the economy basically financially as a Ponzi scheme to keep what seems to be the
+      economy growing, but it’s really keeping the debt overhead solvent. It’s keeping
+      the financial sector solvent. And all of this is counted as increasing GDP and
+      national income when it’s actually creating an economic polarization that concentrates
+      income growth and the wealthiest 1 to 10% of the population. And they don’t make
+      money primarily by increasing production but by transfer payments, by financial
+      engineering, by asset price inflation. And that’s what we’ve been trying to explain:
+      how do we use the statistics to siphon through? And we found a lot of problems
+      with the statistics because they’re made under certain economic assumptions, and
+      the assumptions underlying the GDP and NIPA accounts do not reflect how economies
+      really work. CU : Dirk, do you have anything to add to that before we move on?
+      DB : I think we’ve said quite a lot already, just two numbers to maybe drive home
+      what we’re talking about. In other work that I’ve been doing with Steve Roth,
+      we’ve put together numbers that show the difference between saving and wealth.
+      So the usual conception is that people get rich by saving. People get rich by
+      making a lot of profit, having a nice company, being entrepreneurial or working
+      very hard in any way, have high income and save a lot out of it, and that is how
+      they accumulate wealth. But that’s not how people get rich. People get rich by
+      owning assets and seeing them increase in wealth. So what we did is we added up
+      the savings in the United States, in aggregate in total from 1960 until 2024,
+      the most recent. So the U.S. statistics are fantastic. It’s the only country in
+      the world for which you can do this. And so, in nominal dollars, not taking account
+      of inflation, everything in nominal dollars, cumulative, so added up year by year,
+      savings increased from 1960 until now from $0.3 trillion to $29 trillion. Okay,
+      $29 trillion was saved. Now what is the wealth that households in the United States
+      have? It is $169 trillion. Okay. So it’s impossible that they got so rich by saving
+      because their wealth is a multiple of all the savings in a country added up over
+      all the decades since 1960. So this shows the end result of what I call the capital
+      gains economy and the end results of the dynamic that Michael just talked about.
+      MH : Well, one of our charts showed that if you—the capital gains in the economy
+      is larger than the GDP. The annual capital gains is larger than the GDP, to give
+      you a sense of proportion. And it’s very funny, you know, when you think of savings,
+      think about what the Austrians said: that the financial sector and bankers provided
+      creditors a service as part of the production economy. The service was not consuming,
+      by being abstinent, and that led Karl Marx to quip that the bankers, the French
+      bankers, the Rothschilds must be the most abstinent family in Europe, you know,
+      just to give you an idea of that. I mean, it’s not really a financial service
+      that makes these gains. CU : So, we’re wondering: why is it so hard for mainstream
+      economists to talk about this? And in your papers, you talk about the gap in mainstream
+      economics where finance and rent would go. So, I’m going to quote from your paper,
+      “Finance is Not the Economy.” You say it may seem ironic that Ricardo wrote just
+      when Britain’s economy was strapped by war debts in the wake of the Napoleonic
+      wars that ended in 1815. These taxes raised the cost of living and doing business
+      while draining the economy to pay bond holders. Yet the bank’s parliamentary spokesperson,
+      and indeed lobbyist, Ricardo established a countervailing orthodoxy by claiming
+      that money, credit, and debt did not really matter as far as production, value,
+      and prices were concerned. So to what extent is the relationship that you both
+      describe here between an economist and the government pervasive in the world of
+      economics we see today? Is it possibly an explanation for how we’ve arrived at
+      having economic models that, as you say, also in the same paper, and I’m quoting
+      again, do not include credit, debtor, or the financial sector? DB : I think there’s
+      two approaches to answering this. The first is, let’s say, political economy,
+      or let’s say a special interest way of looking at it, which is to say that, of
+      course, if the financial sector dominates business schools, etc., this is the
+      kind of—they will create a blind spot for the money they make, and there is something
+      in that, and we can talk more about that. And the other way to look at it is that,
+      okay, so how is this done? Or also if you don’t buy that, you know, if you say
+      that’s a conspiracy theory, I don’t buy that, then you might dispassionately look
+      at the history of economic thought and say, okay, what are the theories that economists,
+      macroeconomists, have which prevent them from seeing this or which make them argue
+      with this. In a nutshell, as you just said, those are theories which ground everything
+      in the real sector where all incomes need to be explained by real sector dynamics,
+      so-called fundamentals such as technology, technological improvements, or trade,
+      or such things, and not by financial dynamics. And so if there are exorbitant
+      incomes, this can only be explained because the people making these incomes must
+      be producing a lot. So famously, Lloyd Blankfein, he was the CEO at Goldman Sachs.
+      After the crisis of 2007 and 2008 he was asked—of course then the exorbitant salaries
+      or incomes of bankers came under scrutiny—and he was asked how could he account
+      for this, and Blankfein said, well, the people at Goldman Sachs must be very productive,
+      and he wasn’t even joking because the only way in conventional economics that
+      people can make so much money is only by being very productive. So there’s much
+      more to say about this, but I’m sure that anybody, you know, any of you who studied
+      a bit of economics recognizes this idea that it’s only possible to make a lot
+      of money if you are very, very productive, at least if markets work well. And
+      that’s because—and so in closing, literally I also wrote about this in the article
+      that you quoted at the start, at the introduction, and in other papers: literally
+      macroeconomic models, they have the productivity of labor, they have capital in
+      their productive capital, but they do not have the level of debt, or the numbers
+      that I just quoted. How much wealth there is in the economy—these facts do not
+      play a role in macroeconomic models. And that is logical. There’s a consistency
+      within the model which, however, does not really map onto the real world. CU :
+      Michael, do you have anything to add to that? MH : The question is: why is what
+      we’re doing different from what economists do? My own background and where I learned
+      my approach was not academically. There was no discussion of finance or money
+      or anything like that. When I took my PhD at NYU, where I learned about finance
+      was working on Wall Street, first for the savings banks for three years, learning
+      about how banks channeled savings into mortgage loans and bid up the price of
+      housing, and mostly at Chase Manhattan Bank, where the bank wanted to know —how
+      much money could Latin American countries, especially Argentina, Brazil and Chile,
+      afford to pay for their dollar debts. And so I had to estimate their export potential,
+      what they needed for imports. I had to make an economic model. The banks, Chase
+      and other banks, knew that there was a limit on how much debt other foreign countries
+      could pay, and yet, as I think Dirk’s mentioned, it was the financial sector that,
+      a century ago, financed this huge public relations campaign to say debts are not
+      a problem, that debts automatically provide—you know—credit provides the means
+      to be paid. All credit is productive, and creditors wouldn’t make a loan unless
+      they could calculate to repay it. So while academically the banks had financed
+      this public relations campaign through the mass media, and if you read the Wall
+      Street Journal and the papers, debt’s not a problem, the banks knew that there
+      was a problem. Well as it happened, I focused mainly on Chile, and that led me
+      to study copper prices because Chile’s balance of payments was basically guano
+      and copper. As a result I became a copper price specialist, and I was invited
+      to the New School graduate faculty to teach international economics because two
+      professors were working for the World Bank as consultants and they wanted to get
+      my forecast for copper prices for something the World Bank was doing. I had never
+      taken a course in international economics. It just wasn’t—it was taught by someone
+      I could tell knew nothing about it. And so I thought, okay, the only thing that’s
+      worth teaching for me is something I don’t know about. So I began to teach international
+      economics, and I developed—I also had been studying. I worked for Gus Kelly, the
+      reprinter of economics classics, of classical economics, and I wanted to teach
+      a course in the history of financial theories. Well, this was at a time when Bob
+      Heilbroner was department chairman, who wrote a bestseller and was—never really
+      got a PhD but was given a PhD for his book, and he contributed his entire salary
+      to the New School which didn’t have much money. Heilbroner said, you know, why
+      are you talking? He wrote about Adam Smith, what Adam Smith had for breakfast,
+      how he felt later, nothing about Adam Smith’s concept of value, price, and rent.
+      And when I was focusing on economic rent as part of the economy, that got Heilbroner
+      furious. “You’ve got to leave. You know, Michael Hudson’s just a Wall Street thug.
+      We don’t want Wall Street people. We want an academic,” not, you know—and so I
+      indeed went —that’s when I left to join Herman Kahn at the Hudson Institute and
+      become a futurist. So the fact is that you can’t—what Dirk and I are talking about,
+      you can’t fit into the curriculum. It is taught at the Levy Institute at Bard
+      College by people like Randy Wray and the modern monetary theorists. We did have
+      a grounding at the University of Missouri Kansas City. I didn’t have to go there.
+      They didn’t have enough money to bring me and some others there, so we—I could
+      stay in New York and it’s now been dispersed. I’m an emeritus there. I’m not teaching
+      actively anymore. I’m essentially talking to groups like yours because you’re
+      the audience for this, not academic students who are—they’re not getting credit
+      for a degree for this. So we’re maybe—we should call ourselves a new discipline
+      like reality economics or futurism or, you know, what are we going to call what
+      we’re doing? CU : Well, Michael, you mentioned you learned a lot about the economy
+      by working in finance on Wall Street. So, one of our members asks: even if academic
+      and government economists don’t want to understand these arguments, does Wall
+      Street understand? MH : Yes. But banks—when I went, I was very lucky. I went to
+      Chase at a time when economic research really did research. Since I left—that
+      was 60 years ago—the economic research department is really research and publications
+      and it’s turned into just sort of, well, like the Wall Street Journal sort of.
+      It’s not really doing research so much but expressing the kind of ideology you’ll
+      get in, say, the Citibank reports that are very ideological. So I don’t think
+      there’s any research that’s being done. The research that is being done on debt
+      capacity is by the underwriting companies, the financial speculators, who want
+      to say: how much debt, if we take over this company, how much debt can we load
+      it down with? How much can we borrow and then pay ourselves a special dividend
+      and how much can we extract before we leave it as a bankrupt corporate shell?
+      So they’re doing this. They know just exactly what’s happening. Their strategy
+      is to create a post-industrial corporate shell and make a fortune doing it. But
+      that’s not what’s taught. And in business schools I think that’s probably taught.
+      Well, I don’t want to really teach students: here’s how you can loot a company
+      and make a fortune on it. I’d rather talk about critics saying, look, there must
+      be an alternative to this, instead of going to a business school and saying there
+      really isn’t an alternative and we’re making so much money and when you graduate
+      you’re going to get such a good job loading companies and the economy down with
+      debt. DB : Yes. Maybe I can follow up on that. Michael and I have been writing
+      several papers together. Clearly we look at the economy in the same way in many
+      respects. But here our ways do part. I’m an academic. So I can testify from firsthand
+      experience that there’s a lot of research going on in academics and also that
+      in the United States, places like the Roosevelt Institute or the New School or
+      the University of Missouri Kansas City, which you mentioned, there are some places
+      where the things that we write and that we publish in the journals that are issued
+      there are actually recognized. And I can also confirm that in Wall Street, in
+      the world of investing, these dynamics are very well understood. And the academic
+      models which are, by the way, being developed, so-called stock-flow consistent
+      models—so macroeconomic models different from the ones I just referred to—which
+      do track debt and assets and net worth, they are considered heterodox but they
+      are being published and they are being taken very seriously in the world of investment
+      because they’re very helpful in the actual world. So I’m a bit more positive about
+      academia, but then I work in academia. MH : Well, let’s look at the examples that
+      you just cited, Dirk. The New Schools broke. Stephanie Kelton, who graduated from
+      there in the 1990s, wanted to go there and teach when she left Missouri to come
+      to New York when her husband got a job in Long Island. They didn’t have enough
+      money to hire her. They’re broke. They have no endowment. There’s no big vested
+      financial interest that will endow them because it’s not a message they really
+      want to get out. The core of the people who were at UMKC, the heterodox group,
+      have all moved, gone back or moved to the Levy Institute, basically. And that
+      is sort of funded by—well, that is sort of broke too because of problems with
+      Levy’s will. So they’re not well funded. And the problem with UMKC students was
+      they couldn’t get very good jobs at the prestige universities because they hadn’t
+      published in the prestige journals. So, of course, Dirk, you and I are looking
+      for journals that are open to what we’re saying, and we found them. These are
+      not the main prestige journals that get students tenure track jobs at universities
+      in the United States. That is really the problem. So yes, there is an academic
+      opening for it. But we’re here because this is where I think there’s a—this is
+      our audience. CU : We have another question from the audience. Your papers address
+      the way contemporary measurements of GDP, actually obscure the destructive and
+      parasitic role of a lot of financial activity by counting the sums which subtracts
+      from incomes earned through production and value added as though they were additions
+      to it. Unlike the mainstream view, you distinguish producing and selling commodities
+      for profits, the classical picture of capitalism, from unproductive financial
+      gains which simply distribute wealth through credit and debt creation, which are
+      the current forms of rent extraction. So first we want to understand the problems
+      with the contemporary ways of measuring GDP, which overlook or even obscure the
+      ways our economy is far less productive than it might appear. What’s wrong here?
+      How did we get here? And what’s the alternative? Practically, do we just need
+      less finance and more production? Theoretically, is PPP the better metric? DB
+      : So did you say is PPP a better metric? CU : Right. That’s part of the question:
+      is PPP the better metric? DB : Okay. I don’t get that. But let me start with the
+      first part. Do we need more production and less finance? Yeah. Literally. I’m
+      not joking again. There was academic research published—listen up Michael—published
+      in a high ranking journal, Journal of Economic Growth, very much mainstream. And
+      this research showed with statistical analysis that the expansion of the financial
+      sector, measured by the amount of credit there is in the economy relative to GDP,
+      the expansion of the financial sector used to correlate positively with GDP growth.
+      And if you do some statistical analysis, then correlation can be interpreted as
+      causation, or you can make a good case that there was causation. More financial
+      services, more banks, more bank branches, more credit, more loans was actually
+      leading to more economic growth, just as Schumpeter theorized a century ago. But
+      since the 1990s this correlation has fallen to zero and has even turned negative.
+      So for highly developed capitalist economies like the Netherlands and the United
+      States and other countries, it’s negative. Which literally means that you have
+      less economic growth if you have a larger financial sector. So the lesson after
+      the great financial crisis, which of course was the reason for this kind of research,
+      is that we need to shrink the financial sector to support the productive sector.
+      The funny thing is I have some colleagues, I spoke to some colleagues, who said,
+      yeah, and interesting: in the 1990s I did statistical analysis like this already
+      and I found these puzzling negative correlations. I just put them in a drawer
+      because it couldn’t be true. And of course only after the financial crisis was
+      this publishable. So you know that just shows the way that science works. You
+      know there’s nothing like a conspiracy theory here. This is the way that every
+      community works. The financial crisis created the openness to admit what heterodox
+      people had been saying for a long time, and it’s still true because since then
+      the financial sector has not shrunk whichever way you measure it, by credit, by
+      debt, by total value of financial assets. It has not shrunk, and so it stands
+      to reason that it’s still harming the productive sector. And then when we conclude
+      that we need less finance or more production, of course that is not to take, let’s
+      say, a productivist standpoint nowadays with the climate crisis and ecological
+      problems. We might say, well, what kind of production do we need? I mean, dirty
+      production or green production? That is super important but that’s a separate
+      issue from what we’re talking about here. I just want to put that on record as
+      well. And so is GDP the right measure? No it’s not for the things we want to talk
+      about. But it is still a very helpful measure in many other respects. And PPP—maybe
+      I misunderstood the question, but purchasing power parity means to adjust the
+      GDP to relative prices between countries. That is certainly necessary in international
+      comparisons, but it doesn’t really speak to the issues we are talking about. CU
+      : Yeah, that helps. Michael, go ahead. MH : Yeah, the financial sector’s product
+      is debt. Credit on the asset is debt. And a few years ago, the head of Goldman
+      Sachs said that his partners were the most productive workers in the United States.
+      Look at how much money they made. So that’s where you get from all of this. You
+      know, what’s the solution? Well, how do you—of course it’s more production instead
+      of financialization. How do you do it? Well, the country that solved the problem
+      best is China. What did it do? It kept financialization as a public utility to
+      be used to fund direct new capital formation, not to act independently. And that
+      to me is the only solution, number one: to realize that the existing economy and
+      Trump’s hopes to re-industrialize cannot survive, cannot recover, without wiping
+      out an enormous amount of debt right now. So much income from not only labor but
+      from corporations and the public—cities and states as well as the government—are
+      paid as debt service that it’s crowded out. It prevents income from being used
+      for industrialization. And just yesterday the Wall Street Journal and other companies
+      published charts showing  America passed the $1 trillion mark in stock buybacks
+      for this year. And there was a long discussion of Intel – that Trump wants to
+      buy into – why has Intel stock gone so far down? Why did the company end up as
+      a failure? It used most of its gains for stock buybacks, not to make the kinds
+      of investments in R&D that Nvidia made. Intel could have been Nvidia, but it didn’t.
+      It said our goal is to make our stockholders rich, not to develop the company
+      long term, because long term we’ll be working for another company. Our time frame
+      is three months to one year, and we can make more money in three months and one
+      year than R&D that’s going to be, you know, for the future. We don’t care about
+      the future. We care about right now. And we can make money by buying stocks and
+      making ourselves wealthy  – in stock prices – than we can in investment. CU :
+      I think this might be a good time to talk about the different forms of debt, different
+      forms of bank lending. In your paper “Finance is Not the Economy,” you break down
+      different categories of bank lending. You say there are non-financial business
+      loans, there are household consumer loans, and loans that fuel household consumption,
+      and there are household mortgages which are loans for people to buy houses. So,
+      Dirk, it seems like these are very, very different forms of lending that have
+      different effects on the economy, both positive and negative. So can you talk
+      about why they’re different? DB : Yeah sure, thank you. So when we think about
+      the impact of the financial sector on the economy, and we restrict that to banks
+      for now—of course the financial sector is much bigger, but to keep it simple,
+      for banks, and also for reasons of data because we have data on bank loans for
+      virtually any economy but we don’t have data on stock markets—I mean, most countries
+      have stock markets. We don’t have data for all countries on other things. So if
+      we just look at bank loans and we think through conceptually, we think through
+      what does it do to the economy, then one of my contributions has been, I mean
+      building on other people’s work, to collect data and to do the analysis for different
+      kinds of bank loans. And if your concern is that financial sector expansion might
+      mostly benefit the rich, those who own assets, by increasing asset prices instead
+      of benefit the economy broadly, both workers and capitalists, by increasing production,
+      wages, and profits, then you want to focus on those loans that don’t support production
+      but that support assets. And the biggest asset market in every country is the
+      real estate market, way way bigger than stock markets, of course, or bond markets.
+      And since the 1980s we see an explosive growth of real estate loans, not just
+      in the United States, also in other rich countries, and since the 1990s in many
+      emerging economies as well. It’s funny, they’re always called emerging economies,
+      never sinking economies, but of course that’s not what they are always. And so
+      logically it’s this increase in mortgage loans, and including commercial real
+      estate loans, which has really spurred the real estate market and on the back
+      of it many other financial asset markets, such as securitized loans and so on.
+      And if you don’t make that distinction you’re puzzled at why there could be such
+      an increase in debt without any increase in GDP, without any increase in incomes.
+      But of course, when I take a mortgage of, let’s say, €500,000—it’s about the average
+      price in my country now—and I spend it on an existing home, by far, most mortgages
+      are spent on existing homes, not to build new homes, all that happens is that
+      a home changes hands and the debt increases by half a million euros and nothing
+      else. End of story. There’s no growth in the GDP. There’s no income. I mean, maybe
+      I want to have a new kitchen, maybe I don’t. Those are all very small additions
+      to actual productive activity relative to the increase in the debt. And this has
+      been my model to explain why we see such an increase in debt without an increase
+      in activity, and of course why that could actually be bad for the economy because
+      I now have, in my example, half a million in additional debt, and over the next
+      30 years—this is the typical maturity of mortgage loans in my country—I need to
+      subtract this plus interest, so about three times 500,000, from my income which
+      I can’t spend in the economy. So it is actually bad for economic growth—you know—it’s
+      not rocket science. It’s really simple and it could be explained to people who
+      haven’t studied economics. Actually, it is much harder to explain it to people
+      who have. MH : I think it’s not simply that there’s no growth resulting from this
+      increase in housing prices and mortgage debt. It’s actually negative growth because
+      when I first bought a home in 1967, the bank’s rule in New York was: you would
+      limit the amount that you would loan to 25% of the borrower’s income and you’d
+      require a 10% down payment. Well, now the loans have gone up to over 43%—a federally
+      guaranteed 43%—of the borrower’s income. So as you spend more and more of your
+      income, that’s 18 percentage points of your income on mortgage debt service, this
+      income is not available to buy goods and services. It actually crowds out the
+      circular flow between wages and the purchase of the products that labor’s supposed
+      to buy. So it’s a diversion of income from all this. The classical economists
+      spent a century trying to prevent this situation. They wanted to base the tax
+      system on a land tax. That’s what Adam Smith and the French physiocrats and John
+      Stewart Mill and the first plank of the Communist Manifesto was all about: that
+      rent should become the tax base, not taxing labor’s wages or the profits of capital.
+      The banks initially didn’t take much of an interest in this Ricardian economics
+      and rent theory in 1815. They wanted free trade. They wanted England to industrialize
+      because it caused more foreign trade and that’s how they made their money in trade
+      financing and then in investment in rent extraction in foreign railroads and canals
+      and infrastructure basically. But by the end of the 19th century the banks joined
+      with the real estate interests in attacking the whole concept of land taxation.
+      And today what has increased the ability of banks to lend more and more money
+      against real estate is that real estate has been pretty much freed from having
+      to pay federal income tax. If you look at the NIPA, income tax payments by corporate
+      real estate are just about zero because of what Dirk and I have described: the
+      depreciation write-offs and all of the tax advantages to this. So instead of the
+      classical economic policy of taxing away economic rent to focus the economy on
+      value creation, the value of the cost of production, we have exactly the reverse.
+      You favor the rentier economy. The financial sector—Goldman Sachs—and Warren Buffett
+      has said, you know, that he pays, on all of his financial gains, he pays a lower
+      tax rate than his secretary. Well, that’s a—so the tax system is largely responsible
+      for this and that’s one of the things that would have to be fixed in order to
+      de-financialize the economy and refocus it along production-oriented lines. CU
+      : One question from the audience about what we can expect in the future. What
+      do you think we might reasonably expect as far as developments on the horizon
+      go in relation to the problems of finance and asset price inflation that you two
+      address in your work? We’d be interested to hear your thoughts about the shorter
+      term and the longer term. Is there anything to mention about the Trump administration’s
+      policies in this connection, specifically with regard to actions or policies that
+      intend to keep asset prices increasing? Is the future of the dollar system or
+      BRICS bound up with those problems? DB : So if I could start on that, the basic
+      dynamic is that assets which have no supportive role for production are inflated.
+      Of course, real estate does have a supportive role for production to a degree,
+      but the prices of real estate have increased way beyond that. So it’s not possible
+      to rationalize the increase in real estate prices by reference to their importance
+      for the productive structures. And the same is true for stocks and the same is
+      true for many other assets. This dynamic is that assets which are really divorced
+      from the productive structures, can actually increase much faster than other assets.
+      I mean, if you think about tangible capital assets, it’s not really possible to
+      increase their price so fast. It’s especially financial real estate assets where
+      you can do that, and financial assets can be created at the stroke of a pen or
+      with a keyboard. And so this dynamic has found a new outlet in crypto. Cryptocurrencies
+      are basically nothing. My students have been pressing me for years to also lecture
+      on crypto when I teach banking and finance, and I’ve always resisted that because
+      I said crypto—you know, crypto is called cryptocurrencies, I said that’s wrong.
+      It’s not a currency. It’s not money. We can talk—there’s always very complicated
+      stories about ledgers and about the ways that it is created in very energy-intensive
+      ways, but it’s got nothing. It’s not of any monetary interest. However, Trump,
+      by politicizing crypto, is making it politically relevant and is clearly inflating
+      the market again. I mean, I think since 2018, the crypto market has inflated and
+      crashed seven times. So we’re now looking at the eighth time that it is being
+      inflated, probably much more than any time before. And so this dynamic is just
+      continuing. Also his pressure on the Fed to decrease interest rates, that would
+      of course be a boon to leverage investments. So I see no end to this in the short
+      term. In the long term, as Michael’s analysis, particularly building on Ricardo,
+      has shown, in the long term this is not a sustainable development. I don’t mean
+      ecologically unsustainable but financially unsustainable, right? So debts that
+      cannot be paid will not be paid, and you can roll them over and you end in a Ponzi
+      scheme. But a Ponzi scheme, there’s one thing certain about a Ponzi scheme, mathematically
+      certain, that it will crash. And so whether it will be a soft landing as they
+      say or a hard crash, nobody can predict. But in the short term it’s worsening,
+      and in the long term, yeah, it will have to come down and it will be very painful.
+      MH : Well, the only thing that I can add to what Dirk has said is to focus on
+      some of the things that Trump has done to make things much worse besides making
+      a few billion dollars for himself in crypto. One of his proposals—well, his tariff
+      act and his economic budget deficit act has led people to worry that the economy
+      is going to be inflated over the long term. So despite the fact that Trump is
+      now in a legal fight going on today in the courts to try to gain control of the
+      Federal Reserve Board to lower interest rates, the interest rates he’s talking
+      about are short-term rates, not—and the short-term rates, basically you borrow
+      short-term to make an arbitrage gain by buying long-term assets. But the long-term
+      rates are going to go up because foreigners are moving very rapidly out of long-term
+      U.S. 10-year bonds and especially the 30-year bonds because they say if America
+      is going down this path, of the Republicans and Trump, we’re going to have a big
+      inflation and that’s going to mean negative interest rates over 10 or 30 years.
+      So while short-term rates are going down, long-term rates are going up. That’s
+      making it much harder for the average American family in their 20s and 30s to
+      buy homes. And there have been charts on home ownership by 20 year olds, 30 year
+      olds, 40 year olds, 50. And the 20 to 35 year olds have been going down and down
+      and down. They can’t afford it. And the home ownership in the United States has
+      been shrinking relative to absentee ownership. The Census publishes data on this.
+      And there’s—because private families joining the labor force cannot afford to
+      take out mortgage loans with their student debt and the credit card debt and the
+      auto debt and things. This leaves the market open to absentee ownership buying
+      real estate for all cash because that yields more than you can make. And of course
+      the private capital companies themselves are very highly leveraged, putting as
+      little of their own cash as possible. So you have a debt pyramid financing all
+      cash purchases of real estate to avoid having to pay the high mortgage rates that
+      owner occupants would have to pay. Well, the other thing that Trump has proposed
+      is to privatize the Federal National Mortgage Authority, Fannie Mae and Freddie
+      Mac. These are the government agencies that have bought mortgages from the commercial
+      banking system, packaged them, and sold them to institutional investors, guaranteeing
+      the payments. Trump wants to privatize this because he’s talked to his Wall Street
+      donors, and they say, “We can make much more money than the government’s making
+      by compensation for risk,” because the risk is going up now that you’re having
+      default rates and arrears on mortgages and other debts rising. Let’s privatize
+      Fannie Mae. Well, that means that the rates are going to go up even more for mortgages,
+      accelerating the concentration of real estate ownership in the hands of absentee
+      owners for all of this. And the final point regarding crypto is there are almost
+      weekly exposés of how much money Trump and Melania have made personally by underwriting
+      their own crypto. You issue crypto, and in the first few hours there’s a huge
+      immediate influx by Trump’s supporters and insiders to buy it. The public joins
+      in: “I want to support Trump.” And then the insiders sell, and the public, the
+      supporters of Trump, all lose their value. And Trump says this is a great model
+      for the economy. We can base the whole economy on this. He wants to begin pushing
+      the banking system to not regulate the crypto trade. If you regulate it, they
+      can’t cheat people. And crime is the most lucrative business for the last 2,000 years,
+      probably. So, if you regulate crime, you’ve crushed the engine of economic growth.
+      I’m exaggerating for effect, but you’ve seen what happened with the crypto fraud
+      already. Everything that Dirk says about his fears about it, I share. CU : Wow.
+      This seems like a good topic. We should stick to this. I don’t know if I have
+      a question. Dirk, do you want to add anything? DB : We could, of course, and you
+      know more about conditions in the US and Trump and crypto, the US crypto market,
+      maybe, than I do. For me, it’s really interesting, the theoretical side of this.
+      Crypto is the manifestation of a theoretical tendency. Michael’s written about
+      this, Bronze Age economics. There’s a lot of scholarship that shows that market
+      economies and capitalism especially—we talk about the difference, but I’m sure
+      you’re aware of it—capitalism has an inherent tendency to instability, and that
+      tendency is located in the financial markets. Marx thought that the instability
+      of capitalism was downward, that capitalism would collapse. But Minsky, who was
+      a Marxist who studied Marx extensively and who was a student of Schumpeter at
+      Harvard—this is the American economist Hyman Minsky, who worked from the 1950s
+      to the 1990s—Minsky said that the instability of capitalism is upward. There’s
+      an inherent tendency of capitalism, or what I’ve called debt shift, for liquidity
+      that’s created by debt to shift away from production into non-production, into
+      asset markets. And all that it needs for this to happen is deregulation. Nothing
+      actively needs to happen. It’s already inherent in the capitalist financial system
+      and in the capitalist economy at large. What we see now, and what we’ve seen over
+      the last 40 years, is that dynamic. We’ve seen it also in the Gilded Age, and
+      then there was a long interregnum of the so-called mixed economy: the depression,
+      World War II, and then the mixed economy model, where the state and regulation—zoning
+      restriction on banks, interest rate caps, and so on—had a much larger role. We
+      didn’t have a financial crisis until the late 1960s again. But actually crisis
+      is the normal stage and instability is the normal state of capitalism, so that’s
+      why it needs to be continually regulated. So more than crypto. I’m really interested
+      in the mechanisms which are unleashed by deregulation, of which crypto is one
+      of the many, many manifestations, just as the mortgage markets were the last manifestation.
+      MH : Quite right. What’s really an issue is what is capitalism? Most people think
+      of it as industrial capitalism. That’s what Marx talked about. And Marx actually
+      was an optimist about industrial capitalism. He thought, yes, it would develop
+      into monopolies, but it would develop—this would lead it to develop into socialism.
+      That was his optimistic idea. He thought as industrial capitalism evolves into
+      socialism, we’re going to get rid of all of the rent-seeking. We’re going to get
+      rid not only of land rent but monopoly rent and banking. In his day, banking really
+      was becoming productive in Germany, where the banking and the government and heavy
+      industry, largely military to be sure, were very different from the English and
+      American banks. They did not press for heavy dividend payouts. There was no thought
+      of stock buybacks to make money. They actually pressed: no, keep reinvesting the
+      money in more and more expansion. That was the German model, and I’ve described
+      all of this in Killing the Host. If you look at Marx’s optimistic view of industrial
+      capitalism becoming industrial socialism, that’s what China did. And what China
+      did, the socialist movement has dropped. It’s funny: many Marxists and many governments—I
+      won’t name them—call themselves Marxists, but they’ve never read Volume Two and
+      Volume Three of Capital, where Marx describes the kind of financial dynamics that
+      Minsky described and Dirk and I have described. China solved this by saying, “We’re
+      going to not permit the financial sector to be privatized any more than we want
+      economic rentier income to be privatized.” If there is economic rent, which there’s
+      always going to be—a rent of location making some properties better situated and
+      more desirable than others—then this is going to be the social base. Obviously
+      China has had problems in that area in the last few years, but at least it’s kept
+      the financial and banking sector, money and credit creation and its allocation,
+      in the hands of the People’s Bank of China instead of Goldman Sachs. CU : We have
+      one question about the word feudalism. In the paper “Finance Is Not the Economy,”
+      you argue an economy based increasingly on rent extraction by the few and debt
+      buildup by the many is in essence the feudal model applied in a sophisticated
+      financial system. I was wondering if we could talk more about the term feudal
+      model. I gather that it is connected to the increase of required overhead for
+      wealth creation and contemporary capitalism. In what other ways do you see the
+      contemporary economy as a feudal system? Michael, do you want to start with that?
+      MH : Yeah. It’s unfortunate that Daniel Burnfin is not here because he has asked
+      me to write a long paper explaining all this. The term is a little misleading.
+      What I meant by survival of feudalism is: the great fight of industrial capitalism
+      was a progressive revolutionary force. In order to industrialize England, the
+      British economy had to disenfranchise the hereditary landlord landowning class
+      that was extracting land rent. What motivated Ricardo to write his Chapter Two
+      of Principles of Political Economy was the fight over the Corn Laws in 1815. The
+      landlords wanted to block the free-trade importation of low-priced grain in order
+      to maximize their land rents. Ricardo said, “Let’s look at this.” If England had
+      to become self-sufficient in its grain production, then the price of food was
+      going to go up and up and up as recourse was made to more and more infertile soils.
+      This was junk economics. Ricardo had no idea of what the chemical fertilizer revolution
+      by Liebig and others was creating. But at least he said that if you leave control
+      of parliament in control of the landlord class, it’s going to keep wanting to
+      increase its land rents, and that is going to raise the price of food and require
+      British industrialists to pay their labor force such high wages that we can’t
+      compete with other countries with lower-cost food, whose labor is much less expensive
+      than that of Britain. That was what Ricardo meant by his labor theory of value.
+      It was really a classical theory of economic rent. The strategy of industrial
+      capitalism was to cut all of the unnecessary costs of production—to do with Britain’s
+      economy what Dirk and I have been describing as would be an ideal for the Western
+      economies today. Indeed Britain undertook a 30-year fight from 1815 to the repeal
+      of the Corn Laws in 1846 to prevent the landlord idea of increasing its land rents
+      and gaining at the expense of British industrialization. Once this idea of economic
+      rent was developed so clearly by Ricardo, it was picked up by John Stuart Mill
+      through his father James Mill largely, and the Ricardian socialists who went much
+      further than Ricardo and said, “Well, actually, not only do we need free trade
+      in grain in order to minimize the cost of living for labor to be competitive internationally,”
+      the labor theory of value, “but we want land to be the tax base,” to essentially
+      free the economy from the legacy of feudalism. The legacy of feudalism was not
+      only the legacy of warlords gaining the land and imposing ground rent, but also
+      the kings of Europe went deeply into debt to finance their wars against each other.
+      And the problem for the creditors was: how are you going to have the money to
+      pay these debts? The history of Britain from 1215, with its new laws, blocked
+      the kings from taxing their revenue. Parliament didn’t have the power to prevent
+      kings from taxing foreign trade. So the bankers helped develop trade monopolies
+      whose monopoly rents were dedicated to paying their war debts. The financial sector
+      helped the kings of France, Spain, England, Austria—all develop monopolies whose
+      monopoly rents were dedicated to paying their war debts. All this was the result
+      of feudalism. The industrialists said we have to wipe away this legacy of feudalism
+      in order to create industrial capitalism. This is different, and we have to end
+      the power not only of the landlord class to raise rents at the expense of the
+      industrial economy, but get rid of the monopolies by taking them into the public
+      domain and making them public utilities. That’s what I meant by post-feudalism.
+      The failure of this policy, and the untaxation of land, and the deregulation of—the
+      re-privatization of monopoly rents—is what I meant by a return to the same situation
+      that you had in feudalism. CU : We’re getting to time here, and I want to thank
+      you both for appearing. Before we wrap up, if either of you or both of you have
+      any final thoughts to share with us, feel free. DB : If there are any billionaires
+      amongst you who want to support useful research, look up my papers and send me
+      an email. Apart from that, thank you so much for your perceptive questions, and
+      I’m sure there are many more waiting. Also feel free to send me an email with
+      those questions or for discussions. Thank you very much for having me. CU : Yeah,
+      thanks a lot. Michael, anything before we wrap up? MH : Dirk really said everything
+      that I could say there. The reason we write these papers is we want other people
+      to pick up the ideas and run with it themselves, and that seems to be what motivates
+      your group, and that’s why we’re here, and that’s why we’re so glad to appear
+      before you. I think you’ve asked all the basic questions. You’ve covered the spectrum.
+      CU : Okay. Thank you so much, both of you. It’s been a great conversation. DB
+      : Thank you so much. Bye-bye. « Transcript: Michael Hudson & Vijay Prashad | How
+      Hyper-Imperialism Shapes Global Conflict Photo by Dmitry Ratushny on Unsplash
+      The post Why GDP Flatters Finance and Hides Extraction first appeared on Michael
+      Hudson .'
+    one_sentence_summary: In a Class Unity event, Professors Michael Hudson and Dirk
+      Bezemer discuss their extensive research on the financial system's impact on inequality
+      and economic crises, highlighting the importance of understanding these issues
+      in the context of political economy and monetary policy.
+    paragraph_summary: In a recent Class Unity event, Professors Michael Hudson and
+      Dirk Bezemer discussed the critical distinction between production and consumption
+      versus finance, insurance, and real estate in understanding today's economy. Hudson,
+      an expert in political economy, and Bezemer, known for his insights on financial
+      crises, emphasized that contemporary capitalism is increasingly driven by the
+      pursuit of capital gains—asset appreciation—rather than traditional profit motives.
+      This shift has significant implications for inequality and financial instability,
+      as it highlights the overlooked dynamics of the financial system that exacerbate
+      economic disparities and contribute to crises, a theme both economists have extensively
+      explored in their work.
+    published: '2026-02-12T19:55:47+00:00'
+  - title: Why GDP Flatters Finance and Hides Extraction
+    url: https://michael-hudson.com/2026/02/why-gdp-flatters-finance-and-hides-extraction/
+    text: 'Cross Posted from Class Unity. Class Unity : Hello everyone and welcome to
+      another Class Unity event. Today we’re joined by a returning guest, Professor
+      Michael Hudson, as well as Professor Dirk Bezemer. Michael Hudson is a professor
+      of economics at the University of Missouri Kansas City, a researcher at the Levy
+      Economics Institute at Bard College, and the author of many books and papers on
+      political economy, the history of economics, economic history, finance, and imperialism.
+      Dirk Bezemer is a Dutch economist who is professor at the Faculty of Economics
+      and Business at the University of Groningen. His work addresses the financial
+      sector, credit creation, credit cycles, monetary policy, and the cause of economic
+      crisis. In a September 2009 opinion piece in the Financial Times, he wrote that
+      a dozen economists whom he listed had predicted the 2008 financial crisis but
+      were ignored. So both of our guests have written extensively on the role of the
+      financial system in worsening inequality and financial crisis, and we’re talking
+      to them today about their work on finance and the capital gains economy. Let’s
+      start with one basic question. In your papers you make a distinction between two
+      dynamics in the economy that you say is overlooked by mainstream economists: the
+      distinction between the current production and consumption on the one hand, and
+      finance, insurance, and real estate on the other. So for our viewers at home,
+      can you explain this distinction? Why is it so important for understanding the
+      economy we live in today? Dirk, do you want to start? Dirk Bezemer: Classic. Thank
+      you. This is important because we live in what you might call the capital gains
+      economy. So we think of capitalism as a system which is motivated by the pursuit
+      of profit, but it might be more appropriate nowadays to characterize it as a system
+      which is motivated by the pursuit of capital gains, also known as asset appreciation.
+      The big gains and the way to get really rich is really to have assets and see
+      them increase in value, and we will come to how that happens and what it needs
+      in the system, and that this is not sort of innate inherent in capitalism as such
+      but it’s really a special feature of capitalism since about the 1980s. But it
+      means that to understand how the system works it’s not enough, or even better
+      not try to understand how profit is formed, but we better understand how the values
+      of assets such as bonds, stocks, and real estate are formed. And that is why we
+      need to make a distinction between those two dynamics. On the one hand, the GDP,
+      the gross domestic product, which is the sum of all incomes. Incomes are either
+      wages or profits, and that is the focus of conventional economics and properly
+      so in industrial economies. But nowadays we live in financialized economies, including
+      real estate financialized economies, where capital gains and the value of assets,
+      including real estate assets, is really the important dynamic and certainly the
+      way to understand inequality. Let me leave it at that for now. CU : Sure. Michael,
+      do you want to add to that? Michael Hudson : Yes. The real key is: what is a product?
+      We’ve spent much of the last few years trying to analyze the national income and
+      product accounts and the GDP, and we realize that what is counted as a large part
+      of GDP and national income and product is not a product at all. It’s a transfer
+      payment. For instance, when Dirk and I were in Washington putting our statistics
+      together, I called the Commerce Department and said I was bewildered. I know that
+      credit card companies make more money from late fees than they do in interest.
+      Well, we could find interest payments in the NIPA accounts. I asked, where are
+      the late fees? And the answer was: I could not have made this up, providing financial
+      services. Well, the theory is that this is a service, and the underlying reaction
+      a century ago against classical political economy and the whole value theory of
+      rent and prices and value, and rent being the excess of market price over value,
+      meant that this rent was unearned income, and it was deemed unearned because it
+      was not involved in creating a product. When landlords raise the rent, they don’t
+      create a product, they charge more. When monopolies impose monopoly rent, that’s
+      not a product. And when banks charge interest and late fees and provide all of
+      the other management operations they do, much of this is not creating a product.
+      And so what we tried to say was: well, when you’re comparing the product of the
+      United States, European countries, and let’s say China or other countries, and
+      we adjust the—we divide the GDP into what’s really a product and what’s a transfer
+      payment—we have an entirely different picture of the economy. And the anti-classical
+      revolution a century ago basically said there’s no such thing as economic rent,
+      and Milton Friedman says there is no free lunch. Well, what we find is that the
+      whole economy is about getting a free lunch, and that not only is the financial
+      sector playing a rising role in national income and GDP accounts, but its role
+      is not to really increase production because it’s overseen de-industrialization
+      since the 1990s. Its role is to create wealth financially mainly by debt leveraging.
+      You can look at how 80% of bank lending in the United States, England, and other
+      countries is for real estate, and the effect has been to increase the degree of
+      debt leveraging for real estate, and that increases the prices. And many families,
+      during the runup of housing prices in the early 2000s, made more money on the
+      increasing market price—I won’t say value, but market price—of their homes than
+      they did earning a salary to actually produce goods and services. And so this
+      is why we realized that the aim was to create capital gains. Well, how do you
+      sustain this system? How do you stop it from collapsing like it did in 2008 and
+      2009? Well, the only way to really keep it going, the Federal Reserve decided,
+      was to follow the zero interest rate policy and just provide enough credit to
+      enable debtors—households, corporations that were taken over, and countries—to
+      keep paying their debts by lending them the money to pay the interest. That’s
+      what Hyman Minsky called the Ponzi stage of the financial cycle. We looked at
+      the economy basically financially as a Ponzi scheme to keep what seems to be the
+      economy growing, but it’s really keeping the debt overhead solvent. It’s keeping
+      the financial sector solvent. And all of this is counted as increasing GDP and
+      national income when it’s actually creating an economic polarization that concentrates
+      income growth and the wealthiest 1 to 10% of the population. And they don’t make
+      money primarily by increasing production but by transfer payments, by financial
+      engineering, by asset price inflation. And that’s what we’ve been trying to explain:
+      how do we use the statistics to siphon through? And we found a lot of problems
+      with the statistics because they’re made under certain economic assumptions, and
+      the assumptions underlying the GDP and NIPA accounts do not reflect how economies
+      really work. CU : Dirk, do you have anything to add to that before we move on?
+      DB : I think we’ve said quite a lot already, just two numbers to maybe drive home
+      what we’re talking about. In other work that I’ve been doing with Steve Roth,
+      we’ve put together numbers that show the difference between saving and wealth.
+      So the usual conception is that people get rich by saving. People get rich by
+      making a lot of profit, having a nice company, being entrepreneurial or working
+      very hard in any way, have high income and save a lot out of it, and that is how
+      they accumulate wealth. But that’s not how people get rich. People get rich by
+      owning assets and seeing them increase in wealth. So what we did is we added up
+      the savings in the United States, in aggregate in total from 1960 until 2024,
+      the most recent. So the U.S. statistics are fantastic. It’s the only country in
+      the world for which you can do this. And so, in nominal dollars, not taking account
+      of inflation, everything in nominal dollars, cumulative, so added up year by year,
+      savings increased from 1960 until now from $0.3 trillion to $29 trillion. Okay,
+      $29 trillion was saved. Now what is the wealth that households in the United States
+      have? It is $169 trillion. Okay. So it’s impossible that they got so rich by saving
+      because their wealth is a multiple of all the savings in a country added up over
+      all the decades since 1960. So this shows the end result of what I call the capital
+      gains economy and the end results of the dynamic that Michael just talked about.
+      MH : Well, one of our charts showed that if you—the capital gains in the economy
+      is larger than the GDP. The annual capital gains is larger than the GDP, to give
+      you a sense of proportion. And it’s very funny, you know, when you think of savings,
+      think about what the Austrians said: that the financial sector and bankers provided
+      creditors a service as part of the production economy. The service was not consuming,
+      by being abstinent, and that led Karl Marx to quip that the bankers, the French
+      bankers, the Rothschilds must be the most abstinent family in Europe, you know,
+      just to give you an idea of that. I mean, it’s not really a financial service
+      that makes these gains. CU : So, we’re wondering: why is it so hard for mainstream
+      economists to talk about this? And in your papers, you talk about the gap in mainstream
+      economics where finance and rent would go. So, I’m going to quote from your paper,
+      “Finance is Not the Economy.” You say it may seem ironic that Ricardo wrote just
+      when Britain’s economy was strapped by war debts in the wake of the Napoleonic
+      wars that ended in 1815. These taxes raised the cost of living and doing business
+      while draining the economy to pay bond holders. Yet the bank’s parliamentary spokesperson,
+      and indeed lobbyist, Ricardo established a countervailing orthodoxy by claiming
+      that money, credit, and debt did not really matter as far as production, value,
+      and prices were concerned. So to what extent is the relationship that you both
+      describe here between an economist and the government pervasive in the world of
+      economics we see today? Is it possibly an explanation for how we’ve arrived at
+      having economic models that, as you say, also in the same paper, and I’m quoting
+      again, do not include credit, debtor, or the financial sector? DB : I think there’s
+      two approaches to answering this. The first is, let’s say, political economy,
+      or let’s say a special interest way of looking at it, which is to say that, of
+      course, if the financial sector dominates business schools, etc., this is the
+      kind of—they will create a blind spot for the money they make, and there is something
+      in that, and we can talk more about that. And the other way to look at it is that,
+      okay, so how is this done? Or also if you don’t buy that, you know, if you say
+      that’s a conspiracy theory, I don’t buy that, then you might dispassionately look
+      at the history of economic thought and say, okay, what are the theories that economists,
+      macroeconomists, have which prevent them from seeing this or which make them argue
+      with this. In a nutshell, as you just said, those are theories which ground everything
+      in the real sector where all incomes need to be explained by real sector dynamics,
+      so-called fundamentals such as technology, technological improvements, or trade,
+      or such things, and not by financial dynamics. And so if there are exorbitant
+      incomes, this can only be explained because the people making these incomes must
+      be producing a lot. So famously, Lloyd Blankfein, he was the CEO at Goldman Sachs.
+      After the crisis of 2007 and 2008 he was asked—of course then the exorbitant salaries
+      or incomes of bankers came under scrutiny—and he was asked how could he account
+      for this, and Blankfein said, well, the people at Goldman Sachs must be very productive,
+      and he wasn’t even joking because the only way in conventional economics that
+      people can make so much money is only by being very productive. So there’s much
+      more to say about this, but I’m sure that anybody, you know, any of you who studied
+      a bit of economics recognizes this idea that it’s only possible to make a lot
+      of money if you are very, very productive, at least if markets work well. And
+      that’s because—and so in closing, literally I also wrote about this in the article
+      that you quoted at the start, at the introduction, and in other papers: literally
+      macroeconomic models, they have the productivity of labor, they have capital in
+      their productive capital, but they do not have the level of debt, or the numbers
+      that I just quoted. How much wealth there is in the economy—these facts do not
+      play a role in macroeconomic models. And that is logical. There’s a consistency
+      within the model which, however, does not really map onto the real world. CU :
+      Michael, do you have anything to add to that? MH : The question is: why is what
+      we’re doing different from what economists do? My own background and where I learned
+      my approach was not academically. There was no discussion of finance or money
+      or anything like that. When I took my PhD at NYU, where I learned about finance
+      was working on Wall Street, first for the savings banks for three years, learning
+      about how banks channeled savings into mortgage loans and bid up the price of
+      housing, and mostly at Chase Manhattan Bank, where the bank wanted to know —how
+      much money could Latin American countries, especially Argentina, Brazil and Chile,
+      afford to pay for their dollar debts. And so I had to estimate their export potential,
+      what they needed for imports. I had to make an economic model. The banks, Chase
+      and other banks, knew that there was a limit on how much debt other foreign countries
+      could pay, and yet, as I think Dirk’s mentioned, it was the financial sector that,
+      a century ago, financed this huge public relations campaign to say debts are not
+      a problem, that debts automatically provide—you know—credit provides the means
+      to be paid. All credit is productive, and creditors wouldn’t make a loan unless
+      they could calculate to repay it. So while academically the banks had financed
+      this public relations campaign through the mass media, and if you read the Wall
+      Street Journal and the papers, debt’s not a problem, the banks knew that there
+      was a problem. Well as it happened, I focused mainly on Chile, and that led me
+      to study copper prices because Chile’s balance of payments was basically guano
+      and copper. As a result I became a copper price specialist, and I was invited
+      to the New School graduate faculty to teach international economics because two
+      professors were working for the World Bank as consultants and they wanted to get
+      my forecast for copper prices for something the World Bank was doing. I had never
+      taken a course in international economics. It just wasn’t—it was taught by someone
+      I could tell knew nothing about it. And so I thought, okay, the only thing that’s
+      worth teaching for me is something I don’t know about. So I began to teach international
+      economics, and I developed—I also had been studying. I worked for Gus Kelly, the
+      reprinter of economics classics, of classical economics, and I wanted to teach
+      a course in the history of financial theories. Well, this was at a time when Bob
+      Heilbroner was department chairman, who wrote a bestseller and was—never really
+      got a PhD but was given a PhD for his book, and he contributed his entire salary
+      to the New School which didn’t have much money. Heilbroner said, you know, why
+      are you talking? He wrote about Adam Smith, what Adam Smith had for breakfast,
+      how he felt later, nothing about Adam Smith’s concept of value, price, and rent.
+      And when I was focusing on economic rent as part of the economy, that got Heilbroner
+      furious. “You’ve got to leave. You know, Michael Hudson’s just a Wall Street thug.
+      We don’t want Wall Street people. We want an academic,” not, you know—and so I
+      indeed went —that’s when I left to join Herman Kahn at the Hudson Institute and
+      become a futurist. So the fact is that you can’t—what Dirk and I are talking about,
+      you can’t fit into the curriculum. It is taught at the Levy Institute at Bard
+      College by people like Randy Wray and the modern monetary theorists. We did have
+      a grounding at the University of Missouri Kansas City. I didn’t have to go there.
+      They didn’t have enough money to bring me and some others there, so we—I could
+      stay in New York and it’s now been dispersed. I’m an emeritus there. I’m not teaching
+      actively anymore. I’m essentially talking to groups like yours because you’re
+      the audience for this, not academic students who are—they’re not getting credit
+      for a degree for this. So we’re maybe—we should call ourselves a new discipline
+      like reality economics or futurism or, you know, what are we going to call what
+      we’re doing? CU : Well, Michael, you mentioned you learned a lot about the economy
+      by working in finance on Wall Street. So, one of our members asks: even if academic
+      and government economists don’t want to understand these arguments, does Wall
+      Street understand? MH : Yes. But banks—when I went, I was very lucky. I went to
+      Chase at a time when economic research really did research. Since I left—that
+      was 60 years ago—the economic research department is really research and publications
+      and it’s turned into just sort of, well, like the Wall Street Journal sort of.
+      It’s not really doing research so much but expressing the kind of ideology you’ll
+      get in, say, the Citibank reports that are very ideological. So I don’t think
+      there’s any research that’s being done. The research that is being done on debt
+      capacity is by the underwriting companies, the financial speculators, who want
+      to say: how much debt, if we take over this company, how much debt can we load
+      it down with? How much can we borrow and then pay ourselves a special dividend
+      and how much can we extract before we leave it as a bankrupt corporate shell?
+      So they’re doing this. They know just exactly what’s happening. Their strategy
+      is to create a post-industrial corporate shell and make a fortune doing it. But
+      that’s not what’s taught. And in business schools I think that’s probably taught.
+      Well, I don’t want to really teach students: here’s how you can loot a company
+      and make a fortune on it. I’d rather talk about critics saying, look, there must
+      be an alternative to this, instead of going to a business school and saying there
+      really isn’t an alternative and we’re making so much money and when you graduate
+      you’re going to get such a good job loading companies and the economy down with
+      debt. DB : Yes. Maybe I can follow up on that. Michael and I have been writing
+      several papers together. Clearly we look at the economy in the same way in many
+      respects. But here our ways do part. I’m an academic. So I can testify from firsthand
+      experience that there’s a lot of research going on in academics and also that
+      in the United States, places like the Roosevelt Institute or the New School or
+      the University of Missouri Kansas City, which you mentioned, there are some places
+      where the things that we write and that we publish in the journals that are issued
+      there are actually recognized. And I can also confirm that in Wall Street, in
+      the world of investing, these dynamics are very well understood. And the academic
+      models which are, by the way, being developed, so-called stock-flow consistent
+      models—so macroeconomic models different from the ones I just referred to—which
+      do track debt and assets and net worth, they are considered heterodox but they
+      are being published and they are being taken very seriously in the world of investment
+      because they’re very helpful in the actual world. So I’m a bit more positive about
+      academia, but then I work in academia. MH : Well, let’s look at the examples that
+      you just cited, Dirk. The New Schools broke. Stephanie Kelton, who graduated from
+      there in the 1990s, wanted to go there and teach when she left Missouri to come
+      to New York when her husband got a job in Long Island. They didn’t have enough
+      money to hire her. They’re broke. They have no endowment. There’s no big vested
+      financial interest that will endow them because it’s not a message they really
+      want to get out. The core of the people who were at UMKC, the heterodox group,
+      have all moved, gone back or moved to the Levy Institute, basically. And that
+      is sort of funded by—well, that is sort of broke too because of problems with
+      Levy’s will. So they’re not well funded. And the problem with UMKC students was
+      they couldn’t get very good jobs at the prestige universities because they hadn’t
+      published in the prestige journals. So, of course, Dirk, you and I are looking
+      for journals that are open to what we’re saying, and we found them. These are
+      not the main prestige journals that get students tenure track jobs at universities
+      in the United States. That is really the problem. So yes, there is an academic
+      opening for it. But we’re here because this is where I think there’s a—this is
+      our audience. CU : We have another question from the audience. Your papers address
+      the way contemporary measurements of GDP, actually obscure the destructive and
+      parasitic role of a lot of financial activity by counting the sums which subtracts
+      from incomes earned through production and value added as though they were additions
+      to it. Unlike the mainstream view, you distinguish producing and selling commodities
+      for profits, the classical picture of capitalism, from unproductive financial
+      gains which simply distribute wealth through credit and debt creation, which are
+      the current forms of rent extraction. So first we want to understand the problems
+      with the contemporary ways of measuring GDP, which overlook or even obscure the
+      ways our economy is far less productive than it might appear. What’s wrong here?
+      How did we get here? And what’s the alternative? Practically, do we just need
+      less finance and more production? Theoretically, is PPP the better metric? DB
+      : So did you say is PPP a better metric? CU : Right. That’s part of the question:
+      is PPP the better metric? DB : Okay. I don’t get that. But let me start with the
+      first part. Do we need more production and less finance? Yeah. Literally. I’m
+      not joking again. There was academic research published—listen up Michael—published
+      in a high ranking journal, Journal of Economic Growth, very much mainstream. And
+      this research showed with statistical analysis that the expansion of the financial
+      sector, measured by the amount of credit there is in the economy relative to GDP,
+      the expansion of the financial sector used to correlate positively with GDP growth.
+      And if you do some statistical analysis, then correlation can be interpreted as
+      causation, or you can make a good case that there was causation. More financial
+      services, more banks, more bank branches, more credit, more loans was actually
+      leading to more economic growth, just as Schumpeter theorized a century ago. But
+      since the 1990s this correlation has fallen to zero and has even turned negative.
+      So for highly developed capitalist economies like the Netherlands and the United
+      States and other countries, it’s negative. Which literally means that you have
+      less economic growth if you have a larger financial sector. So the lesson after
+      the great financial crisis, which of course was the reason for this kind of research,
+      is that we need to shrink the financial sector to support the productive sector.
+      The funny thing is I have some colleagues, I spoke to some colleagues, who said,
+      yeah, and interesting: in the 1990s I did statistical analysis like this already
+      and I found these puzzling negative correlations. I just put them in a drawer
+      because it couldn’t be true. And of course only after the financial crisis was
+      this publishable. So you know that just shows the way that science works. You
+      know there’s nothing like a conspiracy theory here. This is the way that every
+      community works. The financial crisis created the openness to admit what heterodox
+      people had been saying for a long time, and it’s still true because since then
+      the financial sector has not shrunk whichever way you measure it, by credit, by
+      debt, by total value of financial assets. It has not shrunk, and so it stands
+      to reason that it’s still harming the productive sector. And then when we conclude
+      that we need less finance or more production, of course that is not to take, let’s
+      say, a productivist standpoint nowadays with the climate crisis and ecological
+      problems. We might say, well, what kind of production do we need? I mean, dirty
+      production or green production? That is super important but that’s a separate
+      issue from what we’re talking about here. I just want to put that on record as
+      well. And so is GDP the right measure? No it’s not for the things we want to talk
+      about. But it is still a very helpful measure in many other respects. And PPP—maybe
+      I misunderstood the question, but purchasing power parity means to adjust the
+      GDP to relative prices between countries. That is certainly necessary in international
+      comparisons, but it doesn’t really speak to the issues we are talking about. CU
+      : Yeah, that helps. Michael, go ahead. MH : Yeah, the financial sector’s product
+      is debt. Credit on the asset is debt. And a few years ago, the head of Goldman
+      Sachs said that his partners were the most productive workers in the United States.
+      Look at how much money they made. So that’s where you get from all of this. You
+      know, what’s the solution? Well, how do you—of course it’s more production instead
+      of financialization. How do you do it? Well, the country that solved the problem
+      best is China. What did it do? It kept financialization as a public utility to
+      be used to fund direct new capital formation, not to act independently. And that
+      to me is the only solution, number one: to realize that the existing economy and
+      Trump’s hopes to re-industrialize cannot survive, cannot recover, without wiping
+      out an enormous amount of debt right now. So much income from not only labor but
+      from corporations and the public—cities and states as well as the government—are
+      paid as debt service that it’s crowded out. It prevents income from being used
+      for industrialization. And just yesterday the Wall Street Journal and other companies
+      published charts showing  America passed the $1 trillion mark in stock buybacks
+      for this year. And there was a long discussion of Intel – that Trump wants to
+      buy into – why has Intel stock gone so far down? Why did the company end up as
+      a failure? It used most of its gains for stock buybacks, not to make the kinds
+      of investments in R&D that Nvidia made. Intel could have been Nvidia, but it didn’t.
+      It said our goal is to make our stockholders rich, not to develop the company
+      long term, because long term we’ll be working for another company. Our time frame
+      is three months to one year, and we can make more money in three months and one
+      year than R&D that’s going to be, you know, for the future. We don’t care about
+      the future. We care about right now. And we can make money by buying stocks and
+      making ourselves wealthy  – in stock prices – than we can in investment. CU :
+      I think this might be a good time to talk about the different forms of debt, different
+      forms of bank lending. In your paper “Finance is Not the Economy,” you break down
+      different categories of bank lending. You say there are non-financial business
+      loans, there are household consumer loans, and loans that fuel household consumption,
+      and there are household mortgages which are loans for people to buy houses. So,
+      Dirk, it seems like these are very, very different forms of lending that have
+      different effects on the economy, both positive and negative. So can you talk
+      about why they’re different? DB : Yeah sure, thank you. So when we think about
+      the impact of the financial sector on the economy, and we restrict that to banks
+      for now—of course the financial sector is much bigger, but to keep it simple,
+      for banks, and also for reasons of data because we have data on bank loans for
+      virtually any economy but we don’t have data on stock markets—I mean, most countries
+      have stock markets. We don’t have data for all countries on other things. So if
+      we just look at bank loans and we think through conceptually, we think through
+      what does it do to the economy, then one of my contributions has been, I mean
+      building on other people’s work, to collect data and to do the analysis for different
+      kinds of bank loans. And if your concern is that financial sector expansion might
+      mostly benefit the rich, those who own assets, by increasing asset prices instead
+      of benefit the economy broadly, both workers and capitalists, by increasing production,
+      wages, and profits, then you want to focus on those loans that don’t support production
+      but that support assets. And the biggest asset market in every country is the
+      real estate market, way way bigger than stock markets, of course, or bond markets.
+      And since the 1980s we see an explosive growth of real estate loans, not just
+      in the United States, also in other rich countries, and since the 1990s in many
+      emerging economies as well. It’s funny, they’re always called emerging economies,
+      never sinking economies, but of course that’s not what they are always. And so
+      logically it’s this increase in mortgage loans, and including commercial real
+      estate loans, which has really spurred the real estate market and on the back
+      of it many other financial asset markets, such as securitized loans and so on.
+      And if you don’t make that distinction you’re puzzled at why there could be such
+      an increase in debt without any increase in GDP, without any increase in incomes.
+      But of course, when I take a mortgage of, let’s say, €500,000—it’s about the average
+      price in my country now—and I spend it on an existing home, by far, most mortgages
+      are spent on existing homes, not to build new homes, all that happens is that
+      a home changes hands and the debt increases by half a million euros and nothing
+      else. End of story. There’s no growth in the GDP. There’s no income. I mean, maybe
+      I want to have a new kitchen, maybe I don’t. Those are all very small additions
+      to actual productive activity relative to the increase in the debt. And this has
+      been my model to explain why we see such an increase in debt without an increase
+      in activity, and of course why that could actually be bad for the economy because
+      I now have, in my example, half a million in additional debt, and over the next
+      30 years—this is the typical maturity of mortgage loans in my country—I need to
+      subtract this plus interest, so about three times 500,000, from my income which
+      I can’t spend in the economy. So it is actually bad for economic growth—you know—it’s
+      not rocket science. It’s really simple and it could be explained to people who
+      haven’t studied economics. Actually, it is much harder to explain it to people
+      who have. MH : I think it’s not simply that there’s no growth resulting from this
+      increase in housing prices and mortgage debt. It’s actually negative growth because
+      when I first bought a home in 1967, the bank’s rule in New York was: you would
+      limit the amount that you would loan to 25% of the borrower’s income and you’d
+      require a 10% down payment. Well, now the loans have gone up to over 43%—a federally
+      guaranteed 43%—of the borrower’s income. So as you spend more and more of your
+      income, that’s 18 percentage points of your income on mortgage debt service, this
+      income is not available to buy goods and services. It actually crowds out the
+      circular flow between wages and the purchase of the products that labor’s supposed
+      to buy. So it’s a diversion of income from all this. The classical economists
+      spent a century trying to prevent this situation. They wanted to base the tax
+      system on a land tax. That’s what Adam Smith and the French physiocrats and John
+      Stewart Mill and the first plank of the Communist Manifesto was all about: that
+      rent should become the tax base, not taxing labor’s wages or the profits of capital.
+      The banks initially didn’t take much of an interest in this Ricardian economics
+      and rent theory in 1815. They wanted free trade. They wanted England to industrialize
+      because it caused more foreign trade and that’s how they made their money in trade
+      financing and then in investment in rent extraction in foreign railroads and canals
+      and infrastructure basically. But by the end of the 19th century the banks joined
+      with the real estate interests in attacking the whole concept of land taxation.
+      And today what has increased the ability of banks to lend more and more money
+      against real estate is that real estate has been pretty much freed from having
+      to pay federal income tax. If you look at the NIPA, income tax payments by corporate
+      real estate are just about zero because of what Dirk and I have described: the
+      depreciation write-offs and all of the tax advantages to this. So instead of the
+      classical economic policy of taxing away economic rent to focus the economy on
+      value creation, the value of the cost of production, we have exactly the reverse.
+      You favor the rentier economy. The financial sector—Goldman Sachs—and Warren Buffett
+      has said, you know, that he pays, on all of his financial gains, he pays a lower
+      tax rate than his secretary. Well, that’s a—so the tax system is largely responsible
+      for this and that’s one of the things that would have to be fixed in order to
+      de-financialize the economy and refocus it along production-oriented lines. CU
+      : One question from the audience about what we can expect in the future. What
+      do you think we might reasonably expect as far as developments on the horizon
+      go in relation to the problems of finance and asset price inflation that you two
+      address in your work? We’d be interested to hear your thoughts about the shorter
+      term and the longer term. Is there anything to mention about the Trump administration’s
+      policies in this connection, specifically with regard to actions or policies that
+      intend to keep asset prices increasing? Is the future of the dollar system or
+      BRICS bound up with those problems? DB : So if I could start on that, the basic
+      dynamic is that assets which have no supportive role for production are inflated.
+      Of course, real estate does have a supportive role for production to a degree,
+      but the prices of real estate have increased way beyond that. So it’s not possible
+      to rationalize the increase in real estate prices by reference to their importance
+      for the productive structures. And the same is true for stocks and the same is
+      true for many other assets. This dynamic is that assets which are really divorced
+      from the productive structures, can actually increase much faster than other assets.
+      I mean, if you think about tangible capital assets, it’s not really possible to
+      increase their price so fast. It’s especially financial real estate assets where
+      you can do that, and financial assets can be created at the stroke of a pen or
+      with a keyboard. And so this dynamic has found a new outlet in crypto. Cryptocurrencies
+      are basically nothing. My students have been pressing me for years to also lecture
+      on crypto when I teach banking and finance, and I’ve always resisted that because
+      I said crypto—you know, crypto is called cryptocurrencies, I said that’s wrong.
+      It’s not a currency. It’s not money. We can talk—there’s always very complicated
+      stories about ledgers and about the ways that it is created in very energy-intensive
+      ways, but it’s got nothing. It’s not of any monetary interest. However, Trump,
+      by politicizing crypto, is making it politically relevant and is clearly inflating
+      the market again. I mean, I think since 2018, the crypto market has inflated and
+      crashed seven times. So we’re now looking at the eighth time that it is being
+      inflated, probably much more than any time before. And so this dynamic is just
+      continuing. Also his pressure on the Fed to decrease interest rates, that would
+      of course be a boon to leverage investments. So I see no end to this in the short
+      term. In the long term, as Michael’s analysis, particularly building on Ricardo,
+      has shown, in the long term this is not a sustainable development. I don’t mean
+      ecologically unsustainable but financially unsustainable, right? So debts that
+      cannot be paid will not be paid, and you can roll them over and you end in a Ponzi
+      scheme. But a Ponzi scheme, there’s one thing certain about a Ponzi scheme, mathematically
+      certain, that it will crash. And so whether it will be a soft landing as they
+      say or a hard crash, nobody can predict. But in the short term it’s worsening,
+      and in the long term, yeah, it will have to come down and it will be very painful.
+      MH : Well, the only thing that I can add to what Dirk has said is to focus on
+      some of the things that Trump has done to make things much worse besides making
+      a few billion dollars for himself in crypto. One of his proposals—well, his tariff
+      act and his economic budget deficit act has led people to worry that the economy
+      is going to be inflated over the long term. So despite the fact that Trump is
+      now in a legal fight going on today in the courts to try to gain control of the
+      Federal Reserve Board to lower interest rates, the interest rates he’s talking
+      about are short-term rates, not—and the short-term rates, basically you borrow
+      short-term to make an arbitrage gain by buying long-term assets. But the long-term
+      rates are going to go up because foreigners are moving very rapidly out of long-term
+      U.S. 10-year bonds and especially the 30-year bonds because they say if America
+      is going down this path, of the Republicans and Trump, we’re going to have a big
+      inflation and that’s going to mean negative interest rates over 10 or 30 years.
+      So while short-term rates are going down, long-term rates are going up. That’s
+      making it much harder for the average American family in their 20s and 30s to
+      buy homes. And there have been charts on home ownership by 20 year olds, 30 year
+      olds, 40 year olds, 50. And the 20 to 35 year olds have been going down and down
+      and down. They can’t afford it. And the home ownership in the United States has
+      been shrinking relative to absentee ownership. The Census publishes data on this.
+      And there’s—because private families joining the labor force cannot afford to
+      take out mortgage loans with their student debt and the credit card debt and the
+      auto debt and things. This leaves the market open to absentee ownership buying
+      real estate for all cash because that yields more than you can make. And of course
+      the private capital companies themselves are very highly leveraged, putting as
+      little of their own cash as possible. So you have a debt pyramid financing all
+      cash purchases of real estate to avoid having to pay the high mortgage rates that
+      owner occupants would have to pay. Well, the other thing that Trump has proposed
+      is to privatize the Federal National Mortgage Authority, Fannie Mae and Freddie
+      Mac. These are the government agencies that have bought mortgages from the commercial
+      banking system, packaged them, and sold them to institutional investors, guaranteeing
+      the payments. Trump wants to privatize this because he’s talked to his Wall Street
+      donors, and they say, “We can make much more money than the government’s making
+      by compensation for risk,” because the risk is going up now that you’re having
+      default rates and arrears on mortgages and other debts rising. Let’s privatize
+      Fannie Mae. Well, that means that the rates are going to go up even more for mortgages,
+      accelerating the concentration of real estate ownership in the hands of absentee
+      owners for all of this. And the final point regarding crypto is there are almost
+      weekly exposés of how much money Trump and Melania have made personally by underwriting
+      their own crypto. You issue crypto, and in the first few hours there’s a huge
+      immediate influx by Trump’s supporters and insiders to buy it. The public joins
+      in: “I want to support Trump.” And then the insiders sell, and the public, the
+      supporters of Trump, all lose their value. And Trump says this is a great model
+      for the economy. We can base the whole economy on this. He wants to begin pushing
+      the banking system to not regulate the crypto trade. If you regulate it, they
+      can’t cheat people. And crime is the most lucrative business for the last 2,000 years,
+      probably. So, if you regulate crime, you’ve crushed the engine of economic growth.
+      I’m exaggerating for effect, but you’ve seen what happened with the crypto fraud
+      already. Everything that Dirk says about his fears about it, I share. CU : Wow.
+      This seems like a good topic. We should stick to this. I don’t know if I have
+      a question. Dirk, do you want to add anything? DB : We could, of course, and you
+      know more about conditions in the US and Trump and crypto, the US crypto market,
+      maybe, than I do. For me, it’s really interesting, the theoretical side of this.
+      Crypto is the manifestation of a theoretical tendency. Michael’s written about
+      this, Bronze Age economics. There’s a lot of scholarship that shows that market
+      economies and capitalism especially—we talk about the difference, but I’m sure
+      you’re aware of it—capitalism has an inherent tendency to instability, and that
+      tendency is located in the financial markets. Marx thought that the instability
+      of capitalism was downward, that capitalism would collapse. But Minsky, who was
+      a Marxist who studied Marx extensively and who was a student of Schumpeter at
+      Harvard—this is the American economist Hyman Minsky, who worked from the 1950s
+      to the 1990s—Minsky said that the instability of capitalism is upward. There’s
+      an inherent tendency of capitalism, or what I’ve called debt shift, for liquidity
+      that’s created by debt to shift away from production into non-production, into
+      asset markets. And all that it needs for this to happen is deregulation. Nothing
+      actively needs to happen. It’s already inherent in the capitalist financial system
+      and in the capitalist economy at large. What we see now, and what we’ve seen over
+      the last 40 years, is that dynamic. We’ve seen it also in the Gilded Age, and
+      then there was a long interregnum of the so-called mixed economy: the depression,
+      World War II, and then the mixed economy model, where the state and regulation—zoning
+      restriction on banks, interest rate caps, and so on—had a much larger role. We
+      didn’t have a financial crisis until the late 1960s again. But actually crisis
+      is the normal stage and instability is the normal state of capitalism, so that’s
+      why it needs to be continually regulated. So more than crypto. I’m really interested
+      in the mechanisms which are unleashed by deregulation, of which crypto is one
+      of the many, many manifestations, just as the mortgage markets were the last manifestation.
+      MH : Quite right. What’s really an issue is what is capitalism? Most people think
+      of it as industrial capitalism. That’s what Marx talked about. And Marx actually
+      was an optimist about industrial capitalism. He thought, yes, it would develop
+      into monopolies, but it would develop—this would lead it to develop into socialism.
+      That was his optimistic idea. He thought as industrial capitalism evolves into
+      socialism, we’re going to get rid of all of the rent-seeking. We’re going to get
+      rid not only of land rent but monopoly rent and banking. In his day, banking really
+      was becoming productive in Germany, where the banking and the government and heavy
+      industry, largely military to be sure, were very different from the English and
+      American banks. They did not press for heavy dividend payouts. There was no thought
+      of stock buybacks to make money. They actually pressed: no, keep reinvesting the
+      money in more and more expansion. That was the German model, and I’ve described
+      all of this in Killing the Host. If you look at Marx’s optimistic view of industrial
+      capitalism becoming industrial socialism, that’s what China did. And what China
+      did, the socialist movement has dropped. It’s funny: many Marxists and many governments—I
+      won’t name them—call themselves Marxists, but they’ve never read Volume Two and
+      Volume Three of Capital, where Marx describes the kind of financial dynamics that
+      Minsky described and Dirk and I have described. China solved this by saying, “We’re
+      going to not permit the financial sector to be privatized any more than we want
+      economic rentier income to be privatized.” If there is economic rent, which there’s
+      always going to be—a rent of location making some properties better situated and
+      more desirable than others—then this is going to be the social base. Obviously
+      China has had problems in that area in the last few years, but at least it’s kept
+      the financial and banking sector, money and credit creation and its allocation,
+      in the hands of the People’s Bank of China instead of Goldman Sachs. CU : We have
+      one question about the word feudalism. In the paper “Finance Is Not the Economy,”
+      you argue an economy based increasingly on rent extraction by the few and debt
+      buildup by the many is in essence the feudal model applied in a sophisticated
+      financial system. I was wondering if we could talk more about the term feudal
+      model. I gather that it is connected to the increase of required overhead for
+      wealth creation and contemporary capitalism. In what other ways do you see the
+      contemporary economy as a feudal system? Michael, do you want to start with that?
+      MH : Yeah. It’s unfortunate that Daniel Burnfin is not here because he has asked
+      me to write a long paper explaining all this. The term is a little misleading.
+      What I meant by survival of feudalism is: the great fight of industrial capitalism
+      was a progressive revolutionary force. In order to industrialize England, the
+      British economy had to disenfranchise the hereditary landlord landowning class
+      that was extracting land rent. What motivated Ricardo to write his Chapter Two
+      of Principles of Political Economy was the fight over the Corn Laws in 1815. The
+      landlords wanted to block the free-trade importation of low-priced grain in order
+      to maximize their land rents. Ricardo said, “Let’s look at this.” If England had
+      to become self-sufficient in its grain production, then the price of food was
+      going to go up and up and up as recourse was made to more and more infertile soils.
+      This was junk economics. Ricardo had no idea of what the chemical fertilizer revolution
+      by Liebig and others was creating. But at least he said that if you leave control
+      of parliament in control of the landlord class, it’s going to keep wanting to
+      increase its land rents, and that is going to raise the price of food and require
+      British industrialists to pay their labor force such high wages that we can’t
+      compete with other countries with lower-cost food, whose labor is much less expensive
+      than that of Britain. That was what Ricardo meant by his labor theory of value.
+      It was really a classical theory of economic rent. The strategy of industrial
+      capitalism was to cut all of the unnecessary costs of production—to do with Britain’s
+      economy what Dirk and I have been describing as would be an ideal for the Western
+      economies today. Indeed Britain undertook a 30-year fight from 1815 to the repeal
+      of the Corn Laws in 1846 to prevent the landlord idea of increasing its land rents
+      and gaining at the expense of British industrialization. Once this idea of economic
+      rent was developed so clearly by Ricardo, it was picked up by John Stuart Mill
+      through his father James Mill largely, and the Ricardian socialists who went much
+      further than Ricardo and said, “Well, actually, not only do we need free trade
+      in grain in order to minimize the cost of living for labor to be competitive internationally,”
+      the labor theory of value, “but we want land to be the tax base,” to essentially
+      free the economy from the legacy of feudalism. The legacy of feudalism was not
+      only the legacy of warlords gaining the land and imposing ground rent, but also
+      the kings of Europe went deeply into debt to finance their wars against each other.
+      And the problem for the creditors was: how are you going to have the money to
+      pay these debts? The history of Britain from 1215, with its new laws, blocked
+      the kings from taxing their revenue. Parliament didn’t have the power to prevent
+      kings from taxing foreign trade. So the bankers helped develop trade monopolies
+      whose monopoly rents were dedicated to paying their war debts. The financial sector
+      helped the kings of France, Spain, England, Austria—all develop monopolies whose
+      monopoly rents were dedicated to paying their war debts. All this was the result
+      of feudalism. The industrialists said we have to wipe away this legacy of feudalism
+      in order to create industrial capitalism. This is different, and we have to end
+      the power not only of the landlord class to raise rents at the expense of the
+      industrial economy, but get rid of the monopolies by taking them into the public
+      domain and making them public utilities. That’s what I meant by post-feudalism.
+      The failure of this policy, and the untaxation of land, and the deregulation of—the
+      re-privatization of monopoly rents—is what I meant by a return to the same situation
+      that you had in feudalism. CU : We’re getting to time here, and I want to thank
+      you both for appearing. Before we wrap up, if either of you or both of you have
+      any final thoughts to share with us, feel free. DB : If there are any billionaires
+      amongst you who want to support useful research, look up my papers and send me
+      an email. Apart from that, thank you so much for your perceptive questions, and
+      I’m sure there are many more waiting. Also feel free to send me an email with
+      those questions or for discussions. Thank you very much for having me. CU : Yeah,
+      thanks a lot. Michael, anything before we wrap up? MH : Dirk really said everything
+      that I could say there. The reason we write these papers is we want other people
+      to pick up the ideas and run with it themselves, and that seems to be what motivates
+      your group, and that’s why we’re here, and that’s why we’re so glad to appear
+      before you. I think you’ve asked all the basic questions. You’ve covered the spectrum.
+      CU : Okay. Thank you so much, both of you. It’s been a great conversation. DB
+      : Thank you so much. Bye-bye. « Transcript: Michael Hudson & Vijay Prashad | How
+      Hyper-Imperialism Shapes Global Conflict Photo by Dmitry Ratushny on Unsplash
+      The post Why GDP Flatters Finance and Hides Extraction first appeared on Michael
+      Hudson .'
+    one_sentence_summary: In a Class Unity event, Professors Michael Hudson and Dirk
+      Bezemer discuss their extensive research on the financial system's impact on inequality
+      and economic crises, highlighting the importance of understanding these issues
+      in the context of political economy and monetary policy.
+    paragraph_summary: In a recent Class Unity event, Professors Michael Hudson and
+      Dirk Bezemer discussed the critical distinction between production and consumption
+      versus finance, insurance, and real estate in understanding today's economy. Hudson,
+      an expert in political economy, and Bezemer, known for his insights on financial
+      crises, emphasized that contemporary capitalism is increasingly driven by the
+      pursuit of capital gains—asset appreciation—rather than traditional profit motives.
+      This shift has significant implications for inequality and financial instability,
+      as it highlights the overlooked dynamics of the financial system that exacerbate
+      economic disparities and contribute to crises, a theme both economists have extensively
+      explored in their work.
+    published: '2026-02-12T19:55:47+00:00'
+  - title: Washington’s Arctic Power Play
+    url: https://michael-hudson.com/2026/02/washingtons-arctic-power-play/
+    text: '⁣NIMA ALKHORSHID: Hi, everybody. Today is Thursday, January 22, 2026, and
+      our dear friends, Richard Wolf and Michael Hudson, are here with us. Welcome back,
+      Richard and Michael. ⁣MICHAEL HUDSON: Good to be back. ⁣NIMA ALKHORSHID: Let me
+      start, Michael, with you. And you know that we were talking about these sorts
+      of geopolitical issues all along, but here at Davos, and when you look at Davos
+      and the World Economic Forum, is Davos turning from an economic forum into the
+      launch pad for a new global power order? And who actually voted for that? And
+      when Donald Trump is talking about peace, it seems to me that he’s really talking
+      about, he’s not talking about ending wars. He’s talking about reorganizing the
+      world into rival military blocs. What’s your understanding of that, Michael? ⁣MICHAEL
+      HUDSON: Well, his idea of making peace is to wage war against all the enemies.
+      And when you beat them, there’s peace because the war is over and they’re defeated.
+      And the reason all of this is relevant at Davos is it’s all ultimately about economics.
+      I mean, that’s what’s triggered the whole war. If the American strategy as a whole
+      is to take over the world economy, to keep the dollar in the center, to create
+      this new rules-based order, then you can’t be more economic than that. And the
+      question is, what’s Europe going to do about it? China has reacted in a way. Russia,
+      we’re waiting for it to happen. Iran is waiting for it to happen. And you’ve had
+      two recent guests on [your show] that have been just wonderfully explaining what
+      the key relevance of Greenland is for all of this. You’ve had John Helmer and
+      you’ve had my friend Craig Roberts saying it’s not really about rare earth elements
+      or minerals at all, because these minerals are under a kilometer of ice and glaciers,
+      and you’re not going to get to them for quite a while. It’s about military and
+      it’s about control of the sea. And it’s not only about getting control of Greenland
+      as the 51st state, but as the named U.S. Ambassador to Iceland has pointed out,
+      it’s to make Iceland the 52nd state. There’s no point in taking Greenland over
+      militarily unless you control Iceland also, because then you have a kind of seaborne
+      Maginot Line. You’ve got everything from Canada to Greenland to Iceland to Norway,
+      all in a line, and that blocks access from the North Atlantic into the Arctic
+      Sea. And of course, that’s the whole idea of the Arctic Sea melting and letting
+      there to be transport so that Europe doesn’t have to go around either South Africa
+      or the bottom of Patagonia in South America. It can just go very simply to the
+      Atlantic to the Pacific via the Arctic. That’s what Trump wants to block, just
+      as he’s wanted to block China’s investment in the port on the Panama Canal. He
+      wants to control the law of the sea. Well, the problem is that this is against
+      all international law of freedom of the seas. That’s the basis of international
+      law, and it’s written into the United Nations Charter. So what Trump has tried
+      to do, in addition to talking about Greenland, is this board of peace that you’ve
+      been mentioning. And you’re right, the board of peace is, we will declare war
+      on everyone who does not agree [to] peace on the American terms of the new Cold
+      War order. And Mark Carney had given a good speech yesterday saying, you know,
+      this whole idea of the rules-based order is all a fiction. And they’re trying
+      to play with our minds. They’re trying to make us think of the order as really
+      being something that serves uniquely the United States without really coming to
+      terms with the fact that this reverses all of the body of international law, not
+      only that was included in the United Nations Charter in 1945, but goes all the
+      way back to the Treaty of Westphalia in 1648, national sovereignty. So you can
+      look at Trump’s speech and those of Bessent and the other people who were there
+      saying we really want to nullify all reference to national sovereignty. Well,
+      the question is, what’s Europe going to do about it? What has complicated things
+      is that Trump didn’t merely want something that NATO wants and that Denmark wants,
+      which is to militarize Greenland, which is to fight Russia. Denmark is just as
+      anti-Russian as Germany and Britain. Trump wants to actually own Greenland so
+      that he can say he’s expanded the United States for the greatest extent since
+      James Polk in 1844 when he grabbed much of Mexico with Manifest Destiny.  And
+      America’s manifest destiny was extended all the way to Asia already in the Spanish-American
+      War when it said, well, we need the Philippines as part of America’s destiny to
+      control the seas. We need Hawaii to control the Pacific. So all of this control
+      of the sea is an attempt to complement the American war against China’s Belt and
+      Road Initiative, trying to integrate Eurasia with each other and with China. It’s
+      all about geoeconomics and geopolitics is geoeconomics here. So the fight over
+      Greenland is sort of one step to taking over Iceland and Trump’s major backers,
+      the Silicon Valley people, look at Iceland not only militarily, but as a vast
+      support of energy through its volcanic, it’s hot water. It’s volcanic. Iceland,
+      I think a decade ago, leased its volcanic power in the north to aluminum companies
+      to do aluminum refining, since aluminum is made out of electricity. And it didn’t
+      get anything at all in exchange for this. The aluminum company said we’re going
+      to employ a few Icelanders there. I think seven or eight Icelanders were employed.
+      And I spoke to three prime ministers of Iceland about this, and they all said,
+      Well, there’s nothing we can do. The big families in Iceland are all very pro-American.
+      And so this is really what’s complicating everything. What will Iceland [do]?
+      If Europe gives up about Greenland, it’s going to give up about Iceland. It’s
+      going to essentially say, we’re going to block Russia’s access to the sea, not
+      only access to the Arctic, but its trade with Cuba and Venezuela and the Atlantic,
+      its access to the Baltic Sea, which is already they’re seizing tankers. The seizure
+      of tankers is technically an act of war. If a private company seizes a tanker,
+      that’s piracy. If a government seizes a tanker, that’s an act of war. I don’t
+      see Europe responding in any way trying to stop this by, for instance, going to
+      the International Criminal Court and accusing Trump of being a war criminal. The
+      Financial Times, of all people and papers, has been emphasizing again and again:
+      here are all the things that Europe can do to block the United States. And one
+      of the wildcards here is that those agreements that von der Leyen made, the surrender
+      to Trump over the U.S. tariffs that were imposed on Europe in exchange for its
+      givebacks of total subordination, have not been approved by the national parliaments
+      yet. And you can be sure that all of this European response in national parliaments
+      is blocking them, I think, from surrendering to Trump’s tariff and giveback demands.
+      So you’re just seeing the rise-up of European realization [that] maybe we should
+      begin to do what we’d threatened to do … as a response to Trump. Maybe we should
+      begin taxing … America’s internet companies [like] Google and Facebook in the
+      same way that we tax other companies. Maybe we should not give special exemptions
+      to the United States. There are all sorts of things that Europe can do. But to
+      start things off, before all of this, you had the head of NATO, Rutte, write an
+      amazing memo sucking up to Trump saying, you know, I’m with you. … What you’re
+      doing in Greenland is wonderful. We’ve got to talk as soon as you get to Davos.
+      I’m with you. You know, we’ll block the fact that European politicians may not
+      want that. And most of the European politicians are really quite silent. And the
+      newspapers, Financial Times, and others say, well, maybe they’re talking among
+      themselves as to what to do, but this is really the showdown. And as you just
+      pointed out, Trump’s Board of Peace is basically it. He wants it to replace the
+      Gang of Seven to replace really the United Nations. He’s saying the United Nations
+      is the old body of international law. The Board of Peace will have the rules-based
+      order, and that will be a new form of international law where the rest of the
+      world are satellites. The United States, Russia, and China are really the three
+      powers. And the national security strategy said, well, we have to recognize India
+      and, of course, Japan. Well, Japan is just a satellite of the United States. And
+      what’s happening is something very much like how the Catholic Church took over
+      Europe in the 11th century when they had all sorts of warlords. They wanted to
+      subdue Germany. They wanted to conquer the Eastern Christianity out of Constantinople,
+      but they didn’t have an army. So they made deals, first with Robert Guiscard in
+      Sicily, in southern Italy, and then William the Conqueror. And they actually drew
+      up contracts with each of these leaders saying, we will make you the king of Sicily,
+      the king of England, and we’ll recognize you with the church. We’ll legitimize
+      your rule, but you have to sign a contract. And you have to give us control of
+      all of the finances of your church lands there. The church was the largest landowner
+      and the largest economic center as well as a social center of Europe. And you
+      have to, the money that you collect in Peter’s Pence, the contributions to support
+      the poor, instead of supporting the poor in your social spending, you have to
+      send it all to Rome. And William the Conqueror signed, and Robert Guisgaard signed,
+      and that basically became a format that turned other countries into satellites
+      first of Rome, but then after the Crusades fell, Rome lost the power, and all
+      this control over governments passed into the international banking class. And
+      it was the bankers that sort of said, Well, now we’re telling governments, you
+      know … you have to give priority to paying all of the war debts that you’ve taken
+      on to us to put foreign creditors first and to put our power first. And that’s
+      what led them to back the Protestant parliamentary countries that were willing
+      to tax the entire population to pay their debts. And all of this has happened
+      before. And each time, the European governments have surrendered. And this time
+      they’re not surrendering to an abstract international financial group. What is
+      different is that the United States wants to control the international financial
+      system itself, the international trade system, international investment, and the
+      law of the seas. You have a huge power grab that Trump is trying to do. And the
+      question is: I other countries do not fight back, they’re going to end up essentially
+      in a unipolar society where they are diverting their social spending to military
+      spending to try to break up Russia and China until they too can be drawn into
+      this U.S.-centered system. That’s the U.S. national security strategy that was
+      just published a month ago. And that really is what’s at stake in Davos right
+      now. ⁣NIMA ALKHORSHID: Richard, jump in. ⁣RICHARD WOLFF: Nima, let me try to,
+      as often happens, complement in a way what Michael has just said with a bit of
+      a different interpretation. First, I too was struck by Rutte’s statement because
+      it exemplified to me that in every European capital, the leaders, and I, by the
+      way, mean every European capital, the leaders are trying to figure out which way
+      the wind is now really kind of blowing, whether it’s safe to break away from the
+      United States or it isn’t. Can you imagine a unified Europe taking a different
+      position? Or will that simply be the occasion for the French to betray the Germans
+      and the Italians, both of them, and the Scandinavians still again? They haven’t
+      been able to overcome the results of the Treaty of Westphalia. You know, nationalism
+      was the midwife of the transition from feudalism to capitalism in Europe, which
+      is why capitalism has remained so committed to the national mentality and the
+      national framework for understanding long after it didn’t make much sense anymore
+      because of the economic development. And I think you’re seeing that right now,
+      number one. Number two, my understanding of the grabbing of Greenland is that
+      it’s all about the struggle with Europe. The United States is taking an immense
+      gamble. It is gambling that it can subordinate its allies and turn them into slaves.
+      Transform Europe from the ally you needed to come to terms with, because it’s
+      the front line against the Soviet Union, into Europe that will do for you what
+      Central American countries have been doing for you for a long time. I also think
+      it’s delusional. The statement on the 4th of December that we have talked about,
+      that national security, that’s a delusional argument. That’s a well-written version
+      of Mr. Trump’s incoherent press conferences. It also confuses Greenland and Iceland
+      because they are indistinguishably a problem. And what is the problem? Europe.
+      The United States wants to take Greenland because it’s a way of subordinating
+      Europe. The fear in New York is not that Russia or China take Greenland. There
+      isn’t the slightest shred of evidence that they need it or want it or covet it
+      or plan on it. Not one word in 20 years. What is the problem? The problem is,
+      and I sure hope my friends in Europe are listening, the problem for the United
+      States is that Europe would finally do something about Greenland. That Europe
+      would say, we’re going to get the energy that’s available there, and we’re going
+      to get the rare earths or whatever it is that we can find under the ice as it
+      melts. They don’t want that to be some other country. And they had nothing to
+      lose because the more menace the United States undertakes, the more billions it
+      spends to threaten Greenland, the better the deal that will be cut by the Kobald
+      company, a company you ought to look into that already has invested for years
+      in Greenland, and some of whose major shareholders are Silicon Valley companies,
+      Amazon, Apple, Peter Thiel, all of it. This is an old issue. They don’t want to
+      have to give Greenland huge amounts of money. They want the government of the
+      United States to use taxpayer money to go in there and make enough noise to compel
+      a better deal. More bases for the American military, more investment, cheaper
+      fees to pay, fewer Greenlanders to hire. This is a very old game of using public
+      money to subsidize privately profitable enterprise, and in this case, with the
+      added goal of not getting the Europeans involved, because that’ll just make it
+      all more expensive. And they’ve had to give up already on one of these. Mr. Trump
+      said he won’t use military force. Well, that’s a problem. He hadn’t said that
+      before. He didn’t want to have to say that. That was forced out of him by what?
+      By the risk that if he didn’t do that, the Europeans might actually figure out
+      what was being done to them and put up the resistance that could make a difference,
+      which they still can do, but they would have to find the unity, which they do
+      not have, and they would have to find the courage, which they do not have, to
+      do this thing. They can still do it. It’s in their hands. Mr. Trump is very upset
+      that it isn’t in his hands. Now, a word on that. It is possible to play big power
+      politics when the world is what it was in the 15th, 18th, and 20th centuries.
+      You cannot do that now. We don’t live in the colonial age. We live in the anti-colonial
+      age. The vast majority of the people of the world are committed to an anti-colonial
+      way of thinking. Oh, yes, there are exceptions, and there are people who use that
+      language for their own benefit, of course, always. But that is the case. And if
+      you try to do a colonial activity during a period of anti-colonial sentiment,
+      you are going to fail. Not only are you going to fail, you’re going to end up
+      having to do things that will contribute to your failure. Israel is trying to
+      establish a colonial settler regime in Palestine. You could do that all in the
+      past. That’s how Palestine was created in the past. You can’t do that now. And
+      if you try, you end up in things like genocide and an isolation in the world that
+      Israel will never overcome. And the United States is playing big power politics.
+      It’s too late, Jack. It’s too expensive. It’s too late. You’re not strong enough
+      to do it anymore. What is changing the world? I mean, I’m overstating it, but
+      I want to make the point. What is happening in the world is not a rupture created
+      by Mr. Trump. All due respect, and I don’t have much for Mr. Carney. You know,
+      for him to say that he now, now figured out that the last 50 years have been a
+      hustle on the world means that he has finally figured out what 50 years of Marxist
+      analysis of neoliberalism was able to produce far better than anything he’s ever
+      said or written. So he’s another one: real late, Jack, for you to understand.
+      But what’s disrupting the world isn’t Mr. Trump. What’s disrupting the world is
+      the evolution of capitalism from the private type that we have in the West to
+      the hybrid private plus state version in China. Socialism, if you like, the Chinese
+      have every right to that term, just like everybody else does. China is the problem.
+      China’s proof that it can grow faster than everybody else and then harvest all
+      of the political, ideological… My God, that’s the issue. Let’s not be fooled by
+      thinking that Mr. Trump, that clown, is trying to cope, which he can’t do, with
+      the challenge of China, which he can’t do, dancing around the edges. Yes, he grabs
+      tankers. Michael is absolutely right. He’s trying to figure out how far can he
+      go? They learned in Ukraine, not very far. Okay, now they’re going to try something
+      else. Even the interest in the ocean is because what they were able to do on the
+      land, the United States, here’s what they were able to do. They lost the war in
+      Vietnam. They lost the war in Iraq. They lost the war in Ukraine. You know what?
+      That’s a lot of loss. Hundreds of thousands of American troops didn’t solve the
+      problem. It’s not boots on the ground, Jack, it’s China and everything that that
+      represents. The core economic growth has moved from the West to the East. That’s
+      the problem. And until you come up with a plan to deal with that, and the United
+      States hasn’t begun to do that, you are, if you pardon me, playing around on the
+      edges. Could you provoke a world war? Of course. Does it have to be taken seriously?
+      Yes, and we try to do that on this program. But let’s not be taken in by what
+      they find to be moving theatrics. They were all excited. They stood up and gave
+      Mark Carney a standing ovation because he was the only one who said a little something
+      that sounded like courage. Wow. Wow. Mr. Carney had the courage to say that he
+      now wants us to know what, again, 50 years of Marxism—and even others beyond the
+      Marxists— were able to teach us about neoliberal globalization, which has been
+      critiqued from the beginning. It’s just that bankers like Mr. Carney don’t read
+      the relevant literature. They think they’re above it. So they can figure it out
+      50 years later. ⁣MICHAEL HUDSON: Well, Richard, what you’ve said is what we’ve
+      been talking about between us for the last, I guess, over a year now. And it’s
+      exploded in Davos in a way that if we would have tried to forecast it, people
+      would have said we’re just vastly exaggerating. But this is where the trends are
+      leading. And in an economy that is polarizing, the tendency is naturally to go
+      to extremes. And all we have to do is [say that] if there is an imbalance in the
+      economy, an imbalance that is aimed at concentrating all the wealth of the world
+      in the United States and not leaving anything for other countries, and especially
+      not for countries strong like Russia and China, then all of this is the natural
+      playing out of it all. And what’s so ironic in this, and this came out so clearly
+      in Davos, the Cold War against Russia and China is the enabling fiction for the
+      U.S. claim that the world needs to support the United States economy to protect
+      it against Russia and China. Trump needs to grab Greenland to protect it against
+      the imminent Chinese and Russian invasion. Well, the Greenlanders have said, well,
+      they export a lot of shrimp to China. They haven’t seen any Chinese shrimping
+      boats. China and Russia have no need for Greenland. They need to go through it,
+      alongside of it, in order to get to the Arctic, but they don’t need Greenland
+      itself. They have enough. The United States has this enabling fiction that is
+      trying to shape the narrative. And the narrative is what was called “Uncle Sucker”
+      in the 1960s. Europe is exploiting us. Look at all the money we’ve paid to the
+      military-industrial complex to support it. Europe has to pay us back and support
+      our military industrial complex. And in fact, as you know, Trump has just increased
+      military spending in the US budget from $1 trillion to $1.5 trillion this year.
+      He said, this shows how much we’re being exploited by Europe and all the rest
+      of the world, because that’s our cost of protecting them against Chinese and Russia
+      military conquest. Well, what it’s really doing is… this is the cost of trying
+      to block Europe and the Western countries from turning towards the most rapidly
+      growing economies in the world, Eurasia, or the Asian continent, Russia and China.
+      How do we block them? We have to block them militarily. What do we call it? Peace.
+      Trump’s gang of peace that he’s created. So the aggressor in all this, in this
+      narrative, is not Russia or China. They simply want their own sovereignty. They
+      want to be independent of the United States’ ability to weaponize trade, to weaponize
+      the dollar, to weaponize international finance, to weaponize a SWIFT email bank
+      system and all of this. And I think some Europeans are beginning to say, well,
+      maybe we’ve picked the wrong side. Maybe we should not have bankrupted German
+      and other European heavy industry by rejecting trade with Russia for its oil and
+      gas and becoming dependent on the U.S. Maybe instead of dependency, we could have
+      had a mutual gain relationship instead of what Trump said, that American first
+      means there’s a winner and loser in every transaction. Under Trump, he said America
+      will always be the winner. That means its counterparties will always be the losers.
+      All Europe has to do is read his speeches, and that’s it. And yet they’ve all
+      been bought out. And it’s interesting that the guests you’ve had on this program
+      that are most explicit have all worked for the U.S. government before. And in
+      working with the government, they all have been shocked by what they found. Paul
+      Craig Roberts, when he worked for the Treasury, discovered, you know, how, as
+      he’s told me again and again, the U.S. was simply buying foreign politicians with
+      little white envelopes of money. Or instead of directly, they would create non-governmental
+      organizations such as the German Marshall Fund and the Atlantic Council that would
+      back their careers and promote them until you have Tony Blairs and Macrons in
+      power all over Europe knowing which side their bread is buttered on for all of
+      this. And that’s what the U.S. has created. And where are the European politicians
+      that are opposing this? Well, they’re the nationalist parties, but they’re right-wing
+      parties that basically agree with this whole financial plan that Richard has quite
+      correctly said … is really the American plan of exploitation at all. It’s a financial
+      plan. It’s [a] finance capitalist plan. They’re just saying, we want our cut.
+      We’re in agreement with you, Trump. We’re anti-labor. We want to keep down… we
+      want all the economic surplus in the economy to go to ourselves, not to our own
+      internal economy, not for social spending, but for ourselves to make wealth financially,
+      not industrially. They’re all in favor of that. They just want their piece of
+      the pie. And America doesn’t, and Trump, doesn’t want to give them anything at
+      all. It’s “grabitization.” It’s like what the U.S. neoliberals did in Russia in
+      the 1990s. And that’s, of course, what was so shocking, what John Helmer did such
+      a good job of explaining back in the 1990s when I first met him in Moscow. It’s
+      people who’ve actually been on the inside that are most shocked with what is happening.
+      And they’re the guests on your show. And the people who did not agree, did not
+      express shock but accepted it all, they’re the people who remain in the CIA, in
+      the State Department, and in all this network of non-government organizations
+      to craft a kind of international intellectual war. And that’s what the Russians
+      have been calling it. [The] intellectual war is to shape how the rest of the world
+      thinks about what is happening. What are the causal factors? What’s the context
+      for all of this? And if you think the context is America’s defending democracy
+      against autocracy, [no, it’s actually] autocracy … not keeping public utilities
+      in the public domain to provide their services at a subsidized rate, but privatizing
+      them for profit. Well, it turns out that the real autocracy is [laughs] in the
+      American democracy, and the government[s] that [are] actually representing the
+      interests of uplifting the population as a whole, its living standards, its productivity,
+      its industrial growth, are Russia and China. So there are two models. The question
+      is: how do you use an Orwellian rhetoric and an Orwellian logic … to make people
+      not understand this model by playing with their minds? It’s all for the control
+      of the minds and how people imagine what’s happening. And that’s what European
+      politics has turned into and American politics and along the lines that Richard
+      has just said. We’ve been talking about what’s happening for years, but that’s
+      why we’re on your show, not as part of the policymakers. ⁣RICHARD WOLFF: Let me
+      interject also, though, a note of… trying to think of the best word. Well, I won’t
+      do it. Let me explain what I’m saying. This project that we’ve been talking about,
+      and that Michael eloquently reminds us of again this time, as he has in the past,
+      and I agree with it. That’s why we have the relationship that we do. I don’t think
+      it’s succeeding. I think it’s failing. And I want to make that clear, lest people
+      hear us saying, you know, it’s over, we’ve lost. That’s not my position. I don’t
+      think it’s Michael’s, but I want to make clear it’s not mine either. For example,
+      if this were going well, you would not have, and I want to make this clear, you
+      would not have the city of Minneapolis having decided, and I’ve read the press
+      release of the AFL-CIO Central Labor Council of Minneapolis… [they] released a
+      statement on the 16th of January calling for a general strike in the city of Minneapolis,
+      which is scheduled for tomorrow, the 23rd of January, to protest the use of America’s
+      new special army, ICE, against the city as a whole. And they’re doing this in
+      clear cooperation with the mayor and the governor of this state and this city.
+      Minneapolis is a major urban area of the Midwest of the United States [proposing]
+      a general strike. We haven’t had a serious call for a general strike in many,
+      many decades in this country. And if you want to know, did we ever do it? Yes.
+      Those are the heroic, radical moments of American history. And here we are at
+      another one. That’s not a sign of strength. That’s a sign of very scary social
+      division. Civil war is spoken of in this country. The largest bloc in the French
+      General Assembly, as I keep reminding people, is led by Jean-Luc Melenchon. He’s
+      a communist. That’s the biggest block. I mean, he’s not now a member of the Communist
+      Party. If I understand correctly, he was. He’s now the head of La France Insoumise,
+      which is the leading element of a coalition of all the left parties. And that’s
+      an important fact, that the left parties who were at each other’s throats for
+      decades in France, as they typically have been in much of Europe and beyond that,
+      they were able to get to, they recognize a new and different stage. And yes, there
+      are the right-wing parties that are coming up and pushing a little bit against
+      some of this material from a different place and with different goals. But history
+      is always messy like that. And the fact is, [Trump] couldn’t just take Greenland.
+      And more and more people understand in Latin America as they process the abduction
+      of Maduro. They know what Michael referred to before. That was not a great feat
+      of American military capability. That was a great feat of bribing enough people
+      in the governing circles of that country to enable them to walk in and do such
+      a thing. It’s extraordinary that we don’t think that this is going to have an
+      effect. You cannot do in Latin America what you did before. A few gunboats won’t
+      do the trick. They won’t even stop selling oil to China from Venezuela. Why? Because
+      they can’t. Let me end with another little symptom. Americans are not able, in
+      general, to buy electric vehicles from China. Those famous BYD trucks and cars
+      that I have spoken about and others have. BYD, having won the competition to produce
+      the best, cheapest electric vehicles, they won. Not Tesla, not GM, not Fiat, them.
+      And boy, that alone tells you a good deal about where capitalism is or isn’t in
+      the great competition. And what did the United States do … with its big power?
+      Nothing, because it couldn’t do anything. It lost the competition. So it protected
+      itself. That’s a loser’s game. It put a hundred percent tariff… By the way, Trump
+      started with 27%. Biden raised it to 100%. And Mr. Trump left it at 100%. And
+      to be a good loyal follower, the Canadians hit China with 100% tariff, too, on
+      the same electric cars and vehicles. Until last week, when Mr. Carney, hat in
+      hand, went to China and said, Oh, please, could you help us get away from our
+      dependence on the United States? Oh, sure, said Xi Jinping. How about this? We’ll
+      buy your canola oil from Saskatchewan and help your farmers, and you drop the
+      barrier [laughs] to our electric vehicles. Mr. Carney dropped the tariff from
+      100% to 6.1%. That’s called a reduction. That’s a big one. And so now there will
+      be, they agreed, 49,000 BYD vehicles or electric vehicles from China per year.
+      Initial agreement. Now, as the press discovered what this means, they ask themselves
+      the question they should have asked before. Why is it that in Texas and Arizona
+      and in New Mexico, you will actually see BYD cars on American highways? Did those
+      people pay 100% tariff? No. They just crossed the border into Mexico and bought
+      the vehicles there. Because Mexico signed a deal with China before Canada did.
+      So now we will have New Yorkers taking a little holiday up to Canada and buying
+      a BYD in Montreal on their way home. You know what this is? This is the historical
+      process, it’s the tectonic plates that are shifting. Davos is the dancing on top,
+      but it cannot control, it can barely reflect what is happening underneath. And
+      in the last analysis, my guess is it will be the labor movement that will surprise
+      everyone because what the Chinese and the Russians and all the others are doing
+      are taking enormously important steps to hold on to the core manufacturing capability
+      that we all depend on, and that they are monopolizing. And that is going to threaten
+      the standard of living because the capitalists of the West don’t want to share
+      their piece of that action, of that Asian action, with the mass of their own people.
+      The mass of their own people are becoming house servants. Where are our jobs?
+      You know where they are? They’re in the fitness centers of the West. They’re in
+      personal… you know, if this were Britain 200 years ago, it would be armies of
+      personal servants, which rich British people used to have. Remember the film you
+      last saw, the British movie, some rich person arriving at the wonderful chateau,
+      and lined up out in front are all the servants ready to greet the new master.
+      We’re all servants here. It’s organized as separate industries, but we are becoming
+      the service personnel. The core of the economy, it’s gone. And the United States
+      is trying to hold on to what it cannot hold on to, minus what its own capitalists
+      did, which is move the manufacturing out of here. ⁣MICHAEL HUDSON: I think Richard
+      had left a gap, a pause in what he was saying, where he’d expected me to jump
+      in about Minneapolis, and I didn’t pick it up, but he and I had talked about this
+      earlier because I was born in Minneapolis. And I think its experience is very
+      relevant for the role… [for] what has happened to the left and to the labor union
+      movement in the United States. And Minneapolis is the center of what has happened.
+      My father was one of the leaders of the Minneapolis general strikes of 1934, 1935.
+      And it was this general strike that led to basically the creation of the CIO and
+      the truckers. Minneapolis was the only city in the world where joining the Trotskyists,
+      the Socialist Workers’ Party, was a path to career advancement. And almost all
+      of Trotsky’s bodyguards and associates in Mexico came to Minneapolis. My mother
+      and father were working with Trotsky in Mexico. My aunt became a Mexican citizen
+      working there. And the problem was that here you had a left-wing movement developing
+      in Minneapolis that was really supporting labor. You had the large companies,
+      my father thought it was Walgreens, that hired goon squads to come in and try
+      to break up the labor parades and the protests. But there were huge mass meetings
+      in Minneapolis. I wish I could turn the camera around and I’d show you a painting
+      that my aunt did, Aunt Jerry, who lived there and painted pictures of the general
+      strikes that are, many of them are in the Minneapolis Art Museum. This was the
+      high point of Minneapolis history, but also the Democratic Party’s history, because
+      the Democrats wanted to control the party, the labor movement, on behalf of their
+      two main supporters, the mob, the mafia, because the Democrats were a large in
+      the large cities that were very mob control[led], and the right-wing, the AFL,
+      the right-wing unions. And so Roosevelt listened to [Daniel J.] Tobin, I think
+      it was James Tobin, who was the head of the labor department, and accused the
+      17 supporters of the Minneapolis general strike under the Smith Act. The Smith
+      Act said it’s a crime to advocate the overthrow of the U.S. government by force
+      and violence. The Trotskyists and the labor unions were protecting Minneapolis
+      from the force and violence by the goons that the anti-labor companies were doing,
+      and the right-wingers and the Democratic Party federal forces [were doing] that
+      [was] just like [is] happening today. And in 19–, the day before Pearl Harbor,
+      in 1941, my father and the other 16 members of the Trotskyists were all committed
+      under the Smith Act. And the supporters of the Smith Act were not only the right-wing,
+      the Communist Party supported it because the Minneapolis labor unions were keeping
+      the Communist Party out of the labor union movement because it was Stalinist.
+      And that’s one reason why there’s been such a split between the Trotskyists and
+      the Stalinists. And so essentially they made a deal. I’m told that the reason
+      I was given such a high security clearance as I have is because Roosevelt made
+      a deal with Stalin that he would indeed fight against the labor unions and the
+      labor support in Minneapolis, if the Communist Party promised not to have any
+      strikes during World War II and [during] the military buildup that both Roosevelt
+      and Stalin knew was going to develop. So you had basically the tool… [breaks off]
+      …Richard has pointed out that the mayor of Minneapolis has said a lot of nice
+      things, like Mark Carney has said internationally, but … basically was a right-winger
+      fighting against the socialist candidate for mayor of Minneapolis. Well, his counterpart
+      in the 1940s was that awful pro-Vietnam, later war hawk, Hubert Horatio Humphrey.
+      And it was Humphrey that did everything he did to ostensibly say he was for the
+      workers, he was for the people, while fighting against all of the activists, all
+      of the reformers, all of the labor leaders. And it was his ability to double-cross
+      the population and depict himself as a friend of labor that enabled Johnson to
+      say, this is the guy we want for vice president, because he did for Johnson in
+      Vietnam what he’d done in Minneapolis. He jumped on the Vietnam War war wagon
+      and said, liberals have to wake up. We have to defend Vietnam and Asia against
+      communism. Well, all of this fight had occurred so much earlier in Minneapolis,
+      and there was such a… it was largely Scandinavian, Irish, it was a very radical
+      population from the very beginning. Obviously, in the 70 years since World War
+      II, it’s become more middle class and has been able to become what it is today.
+      But that’s where I think Richard was leaving a point where I’d jump in because
+      we spoke about that before the show. And I didn’t see what that had to do with
+      Davos. But now I do. You have … what happened in Minneapolis … destroy[ed] the
+      radical movement and put in a false radical movement, a false labor movement by
+      the Democratic Party and the Social Democrats [and this] is exactly what’s occurred
+      in Europe, from France to the German Social Democrats on the right wing of the
+      political spectrum, the Russophobes. You’re having all this in Europe, the same
+      kind of … trying to capture the minds and the way that labor thinks about … world
+      dynamics and about how finance capitalism works. There’s a fight for their mind,
+      and this is a kind of intellectual mental warfare that goes hand in hand with
+      the asymmetrical forms of warfare that we’re finding all over the world right
+      now. This is exactly the problem. How can you have in Europe an understanding
+      of what we’re talking about … when the left wing has been so taken over by the
+      social democratic right-wing parties that it’s only the right-wing parties — the
+      nationalist parties — that are saying, essentially, maybe we should turn toward
+      Russia and China and not abandon … or [rather] not back Ukraine and go to a war
+      that’s using all of our money really to support the U.S.-centered fight for hegemony.
+      ⁣RICHARD WOLFF: You know, the only footnote I could give, and I’m very glad that
+      Michael … I did not know, Michael, even your personal history. Had I known it,
+      I would have pushed you even harder to talk about Minneapolis sooner. Okay, thank
+      you very much for that. But let me just end with a footnote to you. Mr. Macron
+      in France became an important politician in France as a member of the Socialist
+      Party. He was in an earlier government, I believe, the Minister of Education in
+      a socialist government led by the Socialist Party. Whatever socialism means, you
+      see its flowering in the utter emptiness of Mr. Macron, whose polling in his own
+      country rivals that of Mr. Trump’s here. Another example, Mr. Starmer. You know,
+      the Labour Party once called itself a socialist party in England. He’s the head
+      of the Labour Party. The reason he’s the head of it is he led the destruction
+      of Jeremy Corbyn, who actually is a socialist, and using a trumped-up fakery around
+      anti-Semitism, rather like it’s being used by the Trump government to cover over
+      a completely different agenda that has absolutely nothing to do with anti-Semitism.
+      It’s extraordinary how much of what is being tried isn’t working. And I think
+      the mass of the working classes in Europe are becoming clearer and clearer that
+      the leaders, especially those with claims to having been leftists or labor leaders
+      or socialists, have betrayed whatever that means. And so you’re building the base
+      for a radical change, which is what I think you’re going to see in Europe. There’s
+      going to be, and that’s, I think, what Von der Leyen and all the others, that’s
+      what they fear. It’s what Michael said at the beginning. They bet on the wrong
+      horse, and they got a lot of winnings for many years from that bet. So they can’t
+      let go, but it is now going to be their end politically, not the beginning of
+      anything. And that’s, I think, what we were seeing in Davos. ⁣NIMA ALKHORSHID:
+      Yeah. Michael, do you want to add something before wrapping up? ⁣MICHAEL HUDSON:
+      I think we’ve really covered anything else would be details in the big picture.
+      ⁣NIMA ALKHORSHID: Exactly. That was fully what we wanted to do today. Thank you
+      so much, Richard and Michael. Great pleasure, as always, having you on. ⁣RICHARD
+      WOLFF: Thank you. Talk to you next week. The post Washington’s Arctic Power Play
+      first appeared on Michael Hudson .'
+    one_sentence_summary: In a discussion at the World Economic Forum in Davos, Michael
+      Hudson critiques Donald Trump's notion of peace as a strategy to establish a new
+      global power order through military dominance rather than genuine conflict resolution.
+    paragraph_summary: In a discussion at the World Economic Forum in Davos on January
+      22, 2026, Nima Alkhorshid, Richard Wolf, and Michael Hudson explored the shifting
+      dynamics of global power, particularly in relation to U.S. foreign policy under
+      Donald Trump. Hudson argued that Trump's notion of peace is misleading, as it
+      involves waging war against adversaries to establish dominance rather than fostering
+      genuine resolution. He emphasized that the underlying motivations for these geopolitical
+      tensions are economic, with the U.S. aiming to maintain the dollar's centrality
+      and create a new global order. The conversation also touched on the strategic
+      significance of Greenland, not for its resources, but for military control and
+      maritime dominance, indicating a broader struggle among nations like China, Russia,
+      and Iran in response to U.S. strategies.
+    published: '2026-02-11T11:52:47+00:00'
+  - title: Washington’s Arctic Power Play
+    url: https://michael-hudson.com/2026/02/washingtons-arctic-power-play/
+    text: '⁣NIMA ALKHORSHID: Hi, everybody. Today is Thursday, January 22, 2026, and
+      our dear friends, Richard Wolf and Michael Hudson, are here with us. Welcome back,
+      Richard and Michael. ⁣MICHAEL HUDSON: Good to be back. ⁣NIMA ALKHORSHID: Let me
+      start, Michael, with you. And you know that we were talking about these sorts
+      of geopolitical issues all along, but here at Davos, and when you look at Davos
+      and the World Economic Forum, is Davos turning from an economic forum into the
+      launch pad for a new global power order? And who actually voted for that? And
+      when Donald Trump is talking about peace, it seems to me that he’s really talking
+      about, he’s not talking about ending wars. He’s talking about reorganizing the
+      world into rival military blocs. What’s your understanding of that, Michael? ⁣MICHAEL
+      HUDSON: Well, his idea of making peace is to wage war against all the enemies.
+      And when you beat them, there’s peace because the war is over and they’re defeated.
+      And the reason all of this is relevant at Davos is it’s all ultimately about economics.
+      I mean, that’s what’s triggered the whole war. If the American strategy as a whole
+      is to take over the world economy, to keep the dollar in the center, to create
+      this new rules-based order, then you can’t be more economic than that. And the
+      question is, what’s Europe going to do about it? China has reacted in a way. Russia,
+      we’re waiting for it to happen. Iran is waiting for it to happen. And you’ve had
+      two recent guests on [your show] that have been just wonderfully explaining what
+      the key relevance of Greenland is for all of this. You’ve had John Helmer and
+      you’ve had my friend Craig Roberts saying it’s not really about rare earth elements
+      or minerals at all, because these minerals are under a kilometer of ice and glaciers,
+      and you’re not going to get to them for quite a while. It’s about military and
+      it’s about control of the sea. And it’s not only about getting control of Greenland
+      as the 51st state, but as the named U.S. Ambassador to Iceland has pointed out,
+      it’s to make Iceland the 52nd state. There’s no point in taking Greenland over
+      militarily unless you control Iceland also, because then you have a kind of seaborne
+      Maginot Line. You’ve got everything from Canada to Greenland to Iceland to Norway,
+      all in a line, and that blocks access from the North Atlantic into the Arctic
+      Sea. And of course, that’s the whole idea of the Arctic Sea melting and letting
+      there to be transport so that Europe doesn’t have to go around either South Africa
+      or the bottom of Patagonia in South America. It can just go very simply to the
+      Atlantic to the Pacific via the Arctic. That’s what Trump wants to block, just
+      as he’s wanted to block China’s investment in the port on the Panama Canal. He
+      wants to control the law of the sea. Well, the problem is that this is against
+      all international law of freedom of the seas. That’s the basis of international
+      law, and it’s written into the United Nations Charter. So what Trump has tried
+      to do, in addition to talking about Greenland, is this board of peace that you’ve
+      been mentioning. And you’re right, the board of peace is, we will declare war
+      on everyone who does not agree [to] peace on the American terms of the new Cold
+      War order. And Mark Carney had given a good speech yesterday saying, you know,
+      this whole idea of the rules-based order is all a fiction. And they’re trying
+      to play with our minds. They’re trying to make us think of the order as really
+      being something that serves uniquely the United States without really coming to
+      terms with the fact that this reverses all of the body of international law, not
+      only that was included in the United Nations Charter in 1945, but goes all the
+      way back to the Treaty of Westphalia in 1648, national sovereignty. So you can
+      look at Trump’s speech and those of Bessent and the other people who were there
+      saying we really want to nullify all reference to national sovereignty. Well,
+      the question is, what’s Europe going to do about it? What has complicated things
+      is that Trump didn’t merely want something that NATO wants and that Denmark wants,
+      which is to militarize Greenland, which is to fight Russia. Denmark is just as
+      anti-Russian as Germany and Britain. Trump wants to actually own Greenland so
+      that he can say he’s expanded the United States for the greatest extent since
+      James Polk in 1844 when he grabbed much of Mexico with Manifest Destiny.  And
+      America’s manifest destiny was extended all the way to Asia already in the Spanish-American
+      War when it said, well, we need the Philippines as part of America’s destiny to
+      control the seas. We need Hawaii to control the Pacific. So all of this control
+      of the sea is an attempt to complement the American war against China’s Belt and
+      Road Initiative, trying to integrate Eurasia with each other and with China. It’s
+      all about geoeconomics and geopolitics is geoeconomics here. So the fight over
+      Greenland is sort of one step to taking over Iceland and Trump’s major backers,
+      the Silicon Valley people, look at Iceland not only militarily, but as a vast
+      support of energy through its volcanic, it’s hot water. It’s volcanic. Iceland,
+      I think a decade ago, leased its volcanic power in the north to aluminum companies
+      to do aluminum refining, since aluminum is made out of electricity. And it didn’t
+      get anything at all in exchange for this. The aluminum company said we’re going
+      to employ a few Icelanders there. I think seven or eight Icelanders were employed.
+      And I spoke to three prime ministers of Iceland about this, and they all said,
+      Well, there’s nothing we can do. The big families in Iceland are all very pro-American.
+      And so this is really what’s complicating everything. What will Iceland [do]?
+      If Europe gives up about Greenland, it’s going to give up about Iceland. It’s
+      going to essentially say, we’re going to block Russia’s access to the sea, not
+      only access to the Arctic, but its trade with Cuba and Venezuela and the Atlantic,
+      its access to the Baltic Sea, which is already they’re seizing tankers. The seizure
+      of tankers is technically an act of war. If a private company seizes a tanker,
+      that’s piracy. If a government seizes a tanker, that’s an act of war. I don’t
+      see Europe responding in any way trying to stop this by, for instance, going to
+      the International Criminal Court and accusing Trump of being a war criminal. The
+      Financial Times, of all people and papers, has been emphasizing again and again:
+      here are all the things that Europe can do to block the United States. And one
+      of the wildcards here is that those agreements that von der Leyen made, the surrender
+      to Trump over the U.S. tariffs that were imposed on Europe in exchange for its
+      givebacks of total subordination, have not been approved by the national parliaments
+      yet. And you can be sure that all of this European response in national parliaments
+      is blocking them, I think, from surrendering to Trump’s tariff and giveback demands.
+      So you’re just seeing the rise-up of European realization [that] maybe we should
+      begin to do what we’d threatened to do … as a response to Trump. Maybe we should
+      begin taxing … America’s internet companies [like] Google and Facebook in the
+      same way that we tax other companies. Maybe we should not give special exemptions
+      to the United States. There are all sorts of things that Europe can do. But to
+      start things off, before all of this, you had the head of NATO, Rutte, write an
+      amazing memo sucking up to Trump saying, you know, I’m with you. … What you’re
+      doing in Greenland is wonderful. We’ve got to talk as soon as you get to Davos.
+      I’m with you. You know, we’ll block the fact that European politicians may not
+      want that. And most of the European politicians are really quite silent. And the
+      newspapers, Financial Times, and others say, well, maybe they’re talking among
+      themselves as to what to do, but this is really the showdown. And as you just
+      pointed out, Trump’s Board of Peace is basically it. He wants it to replace the
+      Gang of Seven to replace really the United Nations. He’s saying the United Nations
+      is the old body of international law. The Board of Peace will have the rules-based
+      order, and that will be a new form of international law where the rest of the
+      world are satellites. The United States, Russia, and China are really the three
+      powers. And the national security strategy said, well, we have to recognize India
+      and, of course, Japan. Well, Japan is just a satellite of the United States. And
+      what’s happening is something very much like how the Catholic Church took over
+      Europe in the 11th century when they had all sorts of warlords. They wanted to
+      subdue Germany. They wanted to conquer the Eastern Christianity out of Constantinople,
+      but they didn’t have an army. So they made deals, first with Robert Guiscard in
+      Sicily, in southern Italy, and then William the Conqueror. And they actually drew
+      up contracts with each of these leaders saying, we will make you the king of Sicily,
+      the king of England, and we’ll recognize you with the church. We’ll legitimize
+      your rule, but you have to sign a contract. And you have to give us control of
+      all of the finances of your church lands there. The church was the largest landowner
+      and the largest economic center as well as a social center of Europe. And you
+      have to, the money that you collect in Peter’s Pence, the contributions to support
+      the poor, instead of supporting the poor in your social spending, you have to
+      send it all to Rome. And William the Conqueror signed, and Robert Guisgaard signed,
+      and that basically became a format that turned other countries into satellites
+      first of Rome, but then after the Crusades fell, Rome lost the power, and all
+      this control over governments passed into the international banking class. And
+      it was the bankers that sort of said, Well, now we’re telling governments, you
+      know … you have to give priority to paying all of the war debts that you’ve taken
+      on to us to put foreign creditors first and to put our power first. And that’s
+      what led them to back the Protestant parliamentary countries that were willing
+      to tax the entire population to pay their debts. And all of this has happened
+      before. And each time, the European governments have surrendered. And this time
+      they’re not surrendering to an abstract international financial group. What is
+      different is that the United States wants to control the international financial
+      system itself, the international trade system, international investment, and the
+      law of the seas. You have a huge power grab that Trump is trying to do. And the
+      question is: I other countries do not fight back, they’re going to end up essentially
+      in a unipolar society where they are diverting their social spending to military
+      spending to try to break up Russia and China until they too can be drawn into
+      this U.S.-centered system. That’s the U.S. national security strategy that was
+      just published a month ago. And that really is what’s at stake in Davos right
+      now. ⁣NIMA ALKHORSHID: Richard, jump in. ⁣RICHARD WOLFF: Nima, let me try to,
+      as often happens, complement in a way what Michael has just said with a bit of
+      a different interpretation. First, I too was struck by Rutte’s statement because
+      it exemplified to me that in every European capital, the leaders, and I, by the
+      way, mean every European capital, the leaders are trying to figure out which way
+      the wind is now really kind of blowing, whether it’s safe to break away from the
+      United States or it isn’t. Can you imagine a unified Europe taking a different
+      position? Or will that simply be the occasion for the French to betray the Germans
+      and the Italians, both of them, and the Scandinavians still again? They haven’t
+      been able to overcome the results of the Treaty of Westphalia. You know, nationalism
+      was the midwife of the transition from feudalism to capitalism in Europe, which
+      is why capitalism has remained so committed to the national mentality and the
+      national framework for understanding long after it didn’t make much sense anymore
+      because of the economic development. And I think you’re seeing that right now,
+      number one. Number two, my understanding of the grabbing of Greenland is that
+      it’s all about the struggle with Europe. The United States is taking an immense
+      gamble. It is gambling that it can subordinate its allies and turn them into slaves.
+      Transform Europe from the ally you needed to come to terms with, because it’s
+      the front line against the Soviet Union, into Europe that will do for you what
+      Central American countries have been doing for you for a long time. I also think
+      it’s delusional. The statement on the 4th of December that we have talked about,
+      that national security, that’s a delusional argument. That’s a well-written version
+      of Mr. Trump’s incoherent press conferences. It also confuses Greenland and Iceland
+      because they are indistinguishably a problem. And what is the problem? Europe.
+      The United States wants to take Greenland because it’s a way of subordinating
+      Europe. The fear in New York is not that Russia or China take Greenland. There
+      isn’t the slightest shred of evidence that they need it or want it or covet it
+      or plan on it. Not one word in 20 years. What is the problem? The problem is,
+      and I sure hope my friends in Europe are listening, the problem for the United
+      States is that Europe would finally do something about Greenland. That Europe
+      would say, we’re going to get the energy that’s available there, and we’re going
+      to get the rare earths or whatever it is that we can find under the ice as it
+      melts. They don’t want that to be some other country. And they had nothing to
+      lose because the more menace the United States undertakes, the more billions it
+      spends to threaten Greenland, the better the deal that will be cut by the Kobald
+      company, a company you ought to look into that already has invested for years
+      in Greenland, and some of whose major shareholders are Silicon Valley companies,
+      Amazon, Apple, Peter Thiel, all of it. This is an old issue. They don’t want to
+      have to give Greenland huge amounts of money. They want the government of the
+      United States to use taxpayer money to go in there and make enough noise to compel
+      a better deal. More bases for the American military, more investment, cheaper
+      fees to pay, fewer Greenlanders to hire. This is a very old game of using public
+      money to subsidize privately profitable enterprise, and in this case, with the
+      added goal of not getting the Europeans involved, because that’ll just make it
+      all more expensive. And they’ve had to give up already on one of these. Mr. Trump
+      said he won’t use military force. Well, that’s a problem. He hadn’t said that
+      before. He didn’t want to have to say that. That was forced out of him by what?
+      By the risk that if he didn’t do that, the Europeans might actually figure out
+      what was being done to them and put up the resistance that could make a difference,
+      which they still can do, but they would have to find the unity, which they do
+      not have, and they would have to find the courage, which they do not have, to
+      do this thing. They can still do it. It’s in their hands. Mr. Trump is very upset
+      that it isn’t in his hands. Now, a word on that. It is possible to play big power
+      politics when the world is what it was in the 15th, 18th, and 20th centuries.
+      You cannot do that now. We don’t live in the colonial age. We live in the anti-colonial
+      age. The vast majority of the people of the world are committed to an anti-colonial
+      way of thinking. Oh, yes, there are exceptions, and there are people who use that
+      language for their own benefit, of course, always. But that is the case. And if
+      you try to do a colonial activity during a period of anti-colonial sentiment,
+      you are going to fail. Not only are you going to fail, you’re going to end up
+      having to do things that will contribute to your failure. Israel is trying to
+      establish a colonial settler regime in Palestine. You could do that all in the
+      past. That’s how Palestine was created in the past. You can’t do that now. And
+      if you try, you end up in things like genocide and an isolation in the world that
+      Israel will never overcome. And the United States is playing big power politics.
+      It’s too late, Jack. It’s too expensive. It’s too late. You’re not strong enough
+      to do it anymore. What is changing the world? I mean, I’m overstating it, but
+      I want to make the point. What is happening in the world is not a rupture created
+      by Mr. Trump. All due respect, and I don’t have much for Mr. Carney. You know,
+      for him to say that he now, now figured out that the last 50 years have been a
+      hustle on the world means that he has finally figured out what 50 years of Marxist
+      analysis of neoliberalism was able to produce far better than anything he’s ever
+      said or written. So he’s another one: real late, Jack, for you to understand.
+      But what’s disrupting the world isn’t Mr. Trump. What’s disrupting the world is
+      the evolution of capitalism from the private type that we have in the West to
+      the hybrid private plus state version in China. Socialism, if you like, the Chinese
+      have every right to that term, just like everybody else does. China is the problem.
+      China’s proof that it can grow faster than everybody else and then harvest all
+      of the political, ideological… My God, that’s the issue. Let’s not be fooled by
+      thinking that Mr. Trump, that clown, is trying to cope, which he can’t do, with
+      the challenge of China, which he can’t do, dancing around the edges. Yes, he grabs
+      tankers. Michael is absolutely right. He’s trying to figure out how far can he
+      go? They learned in Ukraine, not very far. Okay, now they’re going to try something
+      else. Even the interest in the ocean is because what they were able to do on the
+      land, the United States, here’s what they were able to do. They lost the war in
+      Vietnam. They lost the war in Iraq. They lost the war in Ukraine. You know what?
+      That’s a lot of loss. Hundreds of thousands of American troops didn’t solve the
+      problem. It’s not boots on the ground, Jack, it’s China and everything that that
+      represents. The core economic growth has moved from the West to the East. That’s
+      the problem. And until you come up with a plan to deal with that, and the United
+      States hasn’t begun to do that, you are, if you pardon me, playing around on the
+      edges. Could you provoke a world war? Of course. Does it have to be taken seriously?
+      Yes, and we try to do that on this program. But let’s not be taken in by what
+      they find to be moving theatrics. They were all excited. They stood up and gave
+      Mark Carney a standing ovation because he was the only one who said a little something
+      that sounded like courage. Wow. Wow. Mr. Carney had the courage to say that he
+      now wants us to know what, again, 50 years of Marxism—and even others beyond the
+      Marxists— were able to teach us about neoliberal globalization, which has been
+      critiqued from the beginning. It’s just that bankers like Mr. Carney don’t read
+      the relevant literature. They think they’re above it. So they can figure it out
+      50 years later. ⁣MICHAEL HUDSON: Well, Richard, what you’ve said is what we’ve
+      been talking about between us for the last, I guess, over a year now. And it’s
+      exploded in Davos in a way that if we would have tried to forecast it, people
+      would have said we’re just vastly exaggerating. But this is where the trends are
+      leading. And in an economy that is polarizing, the tendency is naturally to go
+      to extremes. And all we have to do is [say that] if there is an imbalance in the
+      economy, an imbalance that is aimed at concentrating all the wealth of the world
+      in the United States and not leaving anything for other countries, and especially
+      not for countries strong like Russia and China, then all of this is the natural
+      playing out of it all. And what’s so ironic in this, and this came out so clearly
+      in Davos, the Cold War against Russia and China is the enabling fiction for the
+      U.S. claim that the world needs to support the United States economy to protect
+      it against Russia and China. Trump needs to grab Greenland to protect it against
+      the imminent Chinese and Russian invasion. Well, the Greenlanders have said, well,
+      they export a lot of shrimp to China. They haven’t seen any Chinese shrimping
+      boats. China and Russia have no need for Greenland. They need to go through it,
+      alongside of it, in order to get to the Arctic, but they don’t need Greenland
+      itself. They have enough. The United States has this enabling fiction that is
+      trying to shape the narrative. And the narrative is what was called “Uncle Sucker”
+      in the 1960s. Europe is exploiting us. Look at all the money we’ve paid to the
+      military-industrial complex to support it. Europe has to pay us back and support
+      our military industrial complex. And in fact, as you know, Trump has just increased
+      military spending in the US budget from $1 trillion to $1.5 trillion this year.
+      He said, this shows how much we’re being exploited by Europe and all the rest
+      of the world, because that’s our cost of protecting them against Chinese and Russia
+      military conquest. Well, what it’s really doing is… this is the cost of trying
+      to block Europe and the Western countries from turning towards the most rapidly
+      growing economies in the world, Eurasia, or the Asian continent, Russia and China.
+      How do we block them? We have to block them militarily. What do we call it? Peace.
+      Trump’s gang of peace that he’s created. So the aggressor in all this, in this
+      narrative, is not Russia or China. They simply want their own sovereignty. They
+      want to be independent of the United States’ ability to weaponize trade, to weaponize
+      the dollar, to weaponize international finance, to weaponize a SWIFT email bank
+      system and all of this. And I think some Europeans are beginning to say, well,
+      maybe we’ve picked the wrong side. Maybe we should not have bankrupted German
+      and other European heavy industry by rejecting trade with Russia for its oil and
+      gas and becoming dependent on the U.S. Maybe instead of dependency, we could have
+      had a mutual gain relationship instead of what Trump said, that American first
+      means there’s a winner and loser in every transaction. Under Trump, he said America
+      will always be the winner. That means its counterparties will always be the losers.
+      All Europe has to do is read his speeches, and that’s it. And yet they’ve all
+      been bought out. And it’s interesting that the guests you’ve had on this program
+      that are most explicit have all worked for the U.S. government before. And in
+      working with the government, they all have been shocked by what they found. Paul
+      Craig Roberts, when he worked for the Treasury, discovered, you know, how, as
+      he’s told me again and again, the U.S. was simply buying foreign politicians with
+      little white envelopes of money. Or instead of directly, they would create non-governmental
+      organizations such as the German Marshall Fund and the Atlantic Council that would
+      back their careers and promote them until you have Tony Blairs and Macrons in
+      power all over Europe knowing which side their bread is buttered on for all of
+      this. And that’s what the U.S. has created. And where are the European politicians
+      that are opposing this? Well, they’re the nationalist parties, but they’re right-wing
+      parties that basically agree with this whole financial plan that Richard has quite
+      correctly said … is really the American plan of exploitation at all. It’s a financial
+      plan. It’s [a] finance capitalist plan. They’re just saying, we want our cut.
+      We’re in agreement with you, Trump. We’re anti-labor. We want to keep down… we
+      want all the economic surplus in the economy to go to ourselves, not to our own
+      internal economy, not for social spending, but for ourselves to make wealth financially,
+      not industrially. They’re all in favor of that. They just want their piece of
+      the pie. And America doesn’t, and Trump, doesn’t want to give them anything at
+      all. It’s “grabitization.” It’s like what the U.S. neoliberals did in Russia in
+      the 1990s. And that’s, of course, what was so shocking, what John Helmer did such
+      a good job of explaining back in the 1990s when I first met him in Moscow. It’s
+      people who’ve actually been on the inside that are most shocked with what is happening.
+      And they’re the guests on your show. And the people who did not agree, did not
+      express shock but accepted it all, they’re the people who remain in the CIA, in
+      the State Department, and in all this network of non-government organizations
+      to craft a kind of international intellectual war. And that’s what the Russians
+      have been calling it. [The] intellectual war is to shape how the rest of the world
+      thinks about what is happening. What are the causal factors? What’s the context
+      for all of this? And if you think the context is America’s defending democracy
+      against autocracy, [no, it’s actually] autocracy … not keeping public utilities
+      in the public domain to provide their services at a subsidized rate, but privatizing
+      them for profit. Well, it turns out that the real autocracy is [laughs] in the
+      American democracy, and the government[s] that [are] actually representing the
+      interests of uplifting the population as a whole, its living standards, its productivity,
+      its industrial growth, are Russia and China. So there are two models. The question
+      is: how do you use an Orwellian rhetoric and an Orwellian logic … to make people
+      not understand this model by playing with their minds? It’s all for the control
+      of the minds and how people imagine what’s happening. And that’s what European
+      politics has turned into and American politics and along the lines that Richard
+      has just said. We’ve been talking about what’s happening for years, but that’s
+      why we’re on your show, not as part of the policymakers. ⁣RICHARD WOLFF: Let me
+      interject also, though, a note of… trying to think of the best word. Well, I won’t
+      do it. Let me explain what I’m saying. This project that we’ve been talking about,
+      and that Michael eloquently reminds us of again this time, as he has in the past,
+      and I agree with it. That’s why we have the relationship that we do. I don’t think
+      it’s succeeding. I think it’s failing. And I want to make that clear, lest people
+      hear us saying, you know, it’s over, we’ve lost. That’s not my position. I don’t
+      think it’s Michael’s, but I want to make clear it’s not mine either. For example,
+      if this were going well, you would not have, and I want to make this clear, you
+      would not have the city of Minneapolis having decided, and I’ve read the press
+      release of the AFL-CIO Central Labor Council of Minneapolis… [they] released a
+      statement on the 16th of January calling for a general strike in the city of Minneapolis,
+      which is scheduled for tomorrow, the 23rd of January, to protest the use of America’s
+      new special army, ICE, against the city as a whole. And they’re doing this in
+      clear cooperation with the mayor and the governor of this state and this city.
+      Minneapolis is a major urban area of the Midwest of the United States [proposing]
+      a general strike. We haven’t had a serious call for a general strike in many,
+      many decades in this country. And if you want to know, did we ever do it? Yes.
+      Those are the heroic, radical moments of American history. And here we are at
+      another one. That’s not a sign of strength. That’s a sign of very scary social
+      division. Civil war is spoken of in this country. The largest bloc in the French
+      General Assembly, as I keep reminding people, is led by Jean-Luc Melenchon. He’s
+      a communist. That’s the biggest block. I mean, he’s not now a member of the Communist
+      Party. If I understand correctly, he was. He’s now the head of La France Insoumise,
+      which is the leading element of a coalition of all the left parties. And that’s
+      an important fact, that the left parties who were at each other’s throats for
+      decades in France, as they typically have been in much of Europe and beyond that,
+      they were able to get to, they recognize a new and different stage. And yes, there
+      are the right-wing parties that are coming up and pushing a little bit against
+      some of this material from a different place and with different goals. But history
+      is always messy like that. And the fact is, [Trump] couldn’t just take Greenland.
+      And more and more people understand in Latin America as they process the abduction
+      of Maduro. They know what Michael referred to before. That was not a great feat
+      of American military capability. That was a great feat of bribing enough people
+      in the governing circles of that country to enable them to walk in and do such
+      a thing. It’s extraordinary that we don’t think that this is going to have an
+      effect. You cannot do in Latin America what you did before. A few gunboats won’t
+      do the trick. They won’t even stop selling oil to China from Venezuela. Why? Because
+      they can’t. Let me end with another little symptom. Americans are not able, in
+      general, to buy electric vehicles from China. Those famous BYD trucks and cars
+      that I have spoken about and others have. BYD, having won the competition to produce
+      the best, cheapest electric vehicles, they won. Not Tesla, not GM, not Fiat, them.
+      And boy, that alone tells you a good deal about where capitalism is or isn’t in
+      the great competition. And what did the United States do … with its big power?
+      Nothing, because it couldn’t do anything. It lost the competition. So it protected
+      itself. That’s a loser’s game. It put a hundred percent tariff… By the way, Trump
+      started with 27%. Biden raised it to 100%. And Mr. Trump left it at 100%. And
+      to be a good loyal follower, the Canadians hit China with 100% tariff, too, on
+      the same electric cars and vehicles. Until last week, when Mr. Carney, hat in
+      hand, went to China and said, Oh, please, could you help us get away from our
+      dependence on the United States? Oh, sure, said Xi Jinping. How about this? We’ll
+      buy your canola oil from Saskatchewan and help your farmers, and you drop the
+      barrier [laughs] to our electric vehicles. Mr. Carney dropped the tariff from
+      100% to 6.1%. That’s called a reduction. That’s a big one. And so now there will
+      be, they agreed, 49,000 BYD vehicles or electric vehicles from China per year.
+      Initial agreement. Now, as the press discovered what this means, they ask themselves
+      the question they should have asked before. Why is it that in Texas and Arizona
+      and in New Mexico, you will actually see BYD cars on American highways? Did those
+      people pay 100% tariff? No. They just crossed the border into Mexico and bought
+      the vehicles there. Because Mexico signed a deal with China before Canada did.
+      So now we will have New Yorkers taking a little holiday up to Canada and buying
+      a BYD in Montreal on their way home. You know what this is? This is the historical
+      process, it’s the tectonic plates that are shifting. Davos is the dancing on top,
+      but it cannot control, it can barely reflect what is happening underneath. And
+      in the last analysis, my guess is it will be the labor movement that will surprise
+      everyone because what the Chinese and the Russians and all the others are doing
+      are taking enormously important steps to hold on to the core manufacturing capability
+      that we all depend on, and that they are monopolizing. And that is going to threaten
+      the standard of living because the capitalists of the West don’t want to share
+      their piece of that action, of that Asian action, with the mass of their own people.
+      The mass of their own people are becoming house servants. Where are our jobs?
+      You know where they are? They’re in the fitness centers of the West. They’re in
+      personal… you know, if this were Britain 200 years ago, it would be armies of
+      personal servants, which rich British people used to have. Remember the film you
+      last saw, the British movie, some rich person arriving at the wonderful chateau,
+      and lined up out in front are all the servants ready to greet the new master.
+      We’re all servants here. It’s organized as separate industries, but we are becoming
+      the service personnel. The core of the economy, it’s gone. And the United States
+      is trying to hold on to what it cannot hold on to, minus what its own capitalists
+      did, which is move the manufacturing out of here. ⁣MICHAEL HUDSON: I think Richard
+      had left a gap, a pause in what he was saying, where he’d expected me to jump
+      in about Minneapolis, and I didn’t pick it up, but he and I had talked about this
+      earlier because I was born in Minneapolis. And I think its experience is very
+      relevant for the role… [for] what has happened to the left and to the labor union
+      movement in the United States. And Minneapolis is the center of what has happened.
+      My father was one of the leaders of the Minneapolis general strikes of 1934, 1935.
+      And it was this general strike that led to basically the creation of the CIO and
+      the truckers. Minneapolis was the only city in the world where joining the Trotskyists,
+      the Socialist Workers’ Party, was a path to career advancement. And almost all
+      of Trotsky’s bodyguards and associates in Mexico came to Minneapolis. My mother
+      and father were working with Trotsky in Mexico. My aunt became a Mexican citizen
+      working there. And the problem was that here you had a left-wing movement developing
+      in Minneapolis that was really supporting labor. You had the large companies,
+      my father thought it was Walgreens, that hired goon squads to come in and try
+      to break up the labor parades and the protests. But there were huge mass meetings
+      in Minneapolis. I wish I could turn the camera around and I’d show you a painting
+      that my aunt did, Aunt Jerry, who lived there and painted pictures of the general
+      strikes that are, many of them are in the Minneapolis Art Museum. This was the
+      high point of Minneapolis history, but also the Democratic Party’s history, because
+      the Democrats wanted to control the party, the labor movement, on behalf of their
+      two main supporters, the mob, the mafia, because the Democrats were a large in
+      the large cities that were very mob control[led], and the right-wing, the AFL,
+      the right-wing unions. And so Roosevelt listened to [Daniel J.] Tobin, I think
+      it was James Tobin, who was the head of the labor department, and accused the
+      17 supporters of the Minneapolis general strike under the Smith Act. The Smith
+      Act said it’s a crime to advocate the overthrow of the U.S. government by force
+      and violence. The Trotskyists and the labor unions were protecting Minneapolis
+      from the force and violence by the goons that the anti-labor companies were doing,
+      and the right-wingers and the Democratic Party federal forces [were doing] that
+      [was] just like [is] happening today. And in 19–, the day before Pearl Harbor,
+      in 1941, my father and the other 16 members of the Trotskyists were all committed
+      under the Smith Act. And the supporters of the Smith Act were not only the right-wing,
+      the Communist Party supported it because the Minneapolis labor unions were keeping
+      the Communist Party out of the labor union movement because it was Stalinist.
+      And that’s one reason why there’s been such a split between the Trotskyists and
+      the Stalinists. And so essentially they made a deal. I’m told that the reason
+      I was given such a high security clearance as I have is because Roosevelt made
+      a deal with Stalin that he would indeed fight against the labor unions and the
+      labor support in Minneapolis, if the Communist Party promised not to have any
+      strikes during World War II and [during] the military buildup that both Roosevelt
+      and Stalin knew was going to develop. So you had basically the tool… [breaks off]
+      …Richard has pointed out that the mayor of Minneapolis has said a lot of nice
+      things, like Mark Carney has said internationally, but … basically was a right-winger
+      fighting against the socialist candidate for mayor of Minneapolis. Well, his counterpart
+      in the 1940s was that awful pro-Vietnam, later war hawk, Hubert Horatio Humphrey.
+      And it was Humphrey that did everything he did to ostensibly say he was for the
+      workers, he was for the people, while fighting against all of the activists, all
+      of the reformers, all of the labor leaders. And it was his ability to double-cross
+      the population and depict himself as a friend of labor that enabled Johnson to
+      say, this is the guy we want for vice president, because he did for Johnson in
+      Vietnam what he’d done in Minneapolis. He jumped on the Vietnam War war wagon
+      and said, liberals have to wake up. We have to defend Vietnam and Asia against
+      communism. Well, all of this fight had occurred so much earlier in Minneapolis,
+      and there was such a… it was largely Scandinavian, Irish, it was a very radical
+      population from the very beginning. Obviously, in the 70 years since World War
+      II, it’s become more middle class and has been able to become what it is today.
+      But that’s where I think Richard was leaving a point where I’d jump in because
+      we spoke about that before the show. And I didn’t see what that had to do with
+      Davos. But now I do. You have … what happened in Minneapolis … destroy[ed] the
+      radical movement and put in a false radical movement, a false labor movement by
+      the Democratic Party and the Social Democrats [and this] is exactly what’s occurred
+      in Europe, from France to the German Social Democrats on the right wing of the
+      political spectrum, the Russophobes. You’re having all this in Europe, the same
+      kind of … trying to capture the minds and the way that labor thinks about … world
+      dynamics and about how finance capitalism works. There’s a fight for their mind,
+      and this is a kind of intellectual mental warfare that goes hand in hand with
+      the asymmetrical forms of warfare that we’re finding all over the world right
+      now. This is exactly the problem. How can you have in Europe an understanding
+      of what we’re talking about … when the left wing has been so taken over by the
+      social democratic right-wing parties that it’s only the right-wing parties — the
+      nationalist parties — that are saying, essentially, maybe we should turn toward
+      Russia and China and not abandon … or [rather] not back Ukraine and go to a war
+      that’s using all of our money really to support the U.S.-centered fight for hegemony.
+      ⁣RICHARD WOLFF: You know, the only footnote I could give, and I’m very glad that
+      Michael … I did not know, Michael, even your personal history. Had I known it,
+      I would have pushed you even harder to talk about Minneapolis sooner. Okay, thank
+      you very much for that. But let me just end with a footnote to you. Mr. Macron
+      in France became an important politician in France as a member of the Socialist
+      Party. He was in an earlier government, I believe, the Minister of Education in
+      a socialist government led by the Socialist Party. Whatever socialism means, you
+      see its flowering in the utter emptiness of Mr. Macron, whose polling in his own
+      country rivals that of Mr. Trump’s here. Another example, Mr. Starmer. You know,
+      the Labour Party once called itself a socialist party in England. He’s the head
+      of the Labour Party. The reason he’s the head of it is he led the destruction
+      of Jeremy Corbyn, who actually is a socialist, and using a trumped-up fakery around
+      anti-Semitism, rather like it’s being used by the Trump government to cover over
+      a completely different agenda that has absolutely nothing to do with anti-Semitism.
+      It’s extraordinary how much of what is being tried isn’t working. And I think
+      the mass of the working classes in Europe are becoming clearer and clearer that
+      the leaders, especially those with claims to having been leftists or labor leaders
+      or socialists, have betrayed whatever that means. And so you’re building the base
+      for a radical change, which is what I think you’re going to see in Europe. There’s
+      going to be, and that’s, I think, what Von der Leyen and all the others, that’s
+      what they fear. It’s what Michael said at the beginning. They bet on the wrong
+      horse, and they got a lot of winnings for many years from that bet. So they can’t
+      let go, but it is now going to be their end politically, not the beginning of
+      anything. And that’s, I think, what we were seeing in Davos. ⁣NIMA ALKHORSHID:
+      Yeah. Michael, do you want to add something before wrapping up? ⁣MICHAEL HUDSON:
+      I think we’ve really covered anything else would be details in the big picture.
+      ⁣NIMA ALKHORSHID: Exactly. That was fully what we wanted to do today. Thank you
+      so much, Richard and Michael. Great pleasure, as always, having you on. ⁣RICHARD
+      WOLFF: Thank you. Talk to you next week. The post Washington’s Arctic Power Play
+      first appeared on Michael Hudson .'
+    one_sentence_summary: In a discussion at the World Economic Forum in Davos, Michael
+      Hudson critiques Donald Trump's notion of peace as a strategy to establish a new
+      global power order through military dominance rather than genuine conflict resolution.
+    paragraph_summary: In a discussion at the World Economic Forum in Davos on January
+      22, 2026, Nima Alkhorshid, Richard Wolf, and Michael Hudson explored the shifting
+      dynamics of global power, particularly in relation to U.S. foreign policy under
+      Donald Trump. Hudson argued that Trump's notion of peace is misleading, as it
+      involves waging war against adversaries to establish dominance rather than fostering
+      genuine resolution. He emphasized that the underlying motivations for these geopolitical
+      tensions are economic, with the U.S. aiming to maintain the dollar's centrality
+      and create a new global order. The conversation also touched on the strategic
+      significance of Greenland, not for its resources, but for military control and
+      maritime dominance, indicating a broader struggle among nations like China, Russia,
+      and Iran in response to U.S. strategies.
+    published: '2026-02-11T11:52:47+00:00'
   - title: On Xi Jinping’s Thought Volume V
     url: https://michael-hudson.com/2026/02/on-xi-jinpings-thought-volume-v/
     text: 'Cross Posted from Patreon supporter Karloff’s substack Dr. Hudson on Xi Jinping

@@ -7,14 +7,221 @@ description: "Swedish peace researcher and co–founder of Transnational Foundat
 websites:
   - https://transnational.live/
 summary: |
-  As the Trump administration continues to assert its influence on the global stage, independent analysts are increasingly focused on the international response to perceived U.S. overreach and the emergence of alternative systems. Recent commentary by **Jan Oberg** underscores a growing call for coordinated, nonviolent resistance to what he describes as the Trump regime’s “world-threatening designs.” Oberg highlights the launch of a series of “Idea Portfolios” by the Transnational Foundation for Peace and Future Research (TFF), aimed at empowering both governments and citizens to counter U.S. dominance through peaceful means.
+  Amid escalating global tensions and persistent militarization, recent independent analysis by **Jan Oberg** highlights several emerging trends and proposals shaping the geopolitical landscape as of February 18, 2026.
   
-  A central concern in Oberg’s latest analysis is the Trump administration’s efforts to bypass established international institutions, particularly the United Nations. He points to the so-called “Peace Board” proposal for Gaza as emblematic of a broader strategy to undermine multilateralism and consolidate a personal “Occidental Empire.” Oberg warns that such moves are not isolated, but part of a systematic attempt to reshape global governance in ways that favor U.S. interests while marginalizing dissenting voices.
+  The latest development centers on the Arctic, where **Oberg** introduces a comprehensive peace initiative aimed at reversing the region’s drift toward militarized rivalry and ecological harm. He advocates for a framework built on shared security, sustainable development, and the upholding of human dignity, directly challenging the prevailing trajectory of military buildup among Arctic states. According to **Oberg**, “it is rational to pursue the common good in the Arctic,” emphasizing that cooperative approaches are not only feasible but necessary to prevent further environmental degradation and conflict escalation.
   
-  Another emerging issue is the tightening of information controls within the EU and NATO. Oberg draws attention to the recent sanctions imposed on Jacques Baud, a Swiss former NATO and UN official, despite a lack of evidence linking him to Russian collaboration. This, he argues, reflects a worrying trend toward censorship and the suppression of alternative viewpoints, raising broader questions about freedom of expression in the context of heightened geopolitical tensions.
+  This Arctic proposal follows closely on the heels of the Munich Security Conference, which **Oberg** critiques as having become a “€20-million militarist echo chamber.” He notes that the event, once a forum for dialogue, now overwhelmingly promotes increased military spending at the expense of diplomatic solutions, thereby exacerbating global risks and undermining efforts toward de-escalation. The stark contrast in the reception of U.S. and Chinese speeches at the conference, with Western perspectives receiving standing ovations, underscores the deepening polarization and the marginalization of alternative security visions.
   
-  Looking ahead, Oberg maintains that the international community is at a crossroads. He predicts with high confidence that resistance to U.S. exceptionalism will intensify, especially as more actors seek to build viable alternatives outside the current Western-dominated order. The proliferation of nonviolent strategies and the push for renewed multilateralism are likely to define the coming months, though the outcome will depend on the ability of these movements to coalesce and sustain momentum in the face of entrenched power structures.
+  Looking at the broader context, **Oberg** continues to warn of the dangers posed by the current U.S. administration’s assertive foreign policy, particularly its efforts to sideline multilateral institutions like the UN in favor of unilateral initiatives. He calls for nonviolent resistance and the construction of alternative systems to counter what he describes as “the Trump regime’s world-threatening designs.”
+  
+  **Trends and Predictions:**  
+  The prevailing trend, as identified by **Oberg**, is an intensification of militarized posturing among major powers, especially in sensitive regions such as the Arctic. However, he expresses high confidence that peace-oriented alternatives remain viable if there is sufficient political will: “I guarantee that cooperative security frameworks can be achieved if stakeholders prioritize the common good over narrow national interests.” The likelihood of continued polarization at major international forums is also quite high, but the emergence of visionary peace proposals may gradually shift the discourse toward more sustainable and inclusive solutions.
 articles:
+  - title: A New Perspective on the Arctic for the Common Good — and Why It Is Rational
+    url: https://transnational.live/2026/02/17/a-new-perspective-on-the-arctic-for-the-common-good-and-why-it-is-rational/
+    text: This is not another geopolitical commentary on the Arctic. It is a visionary
+      peace proposal that can save the region from militarised rivalry and ecological
+      ruin. A blueprint for shared security, sustainable development, and human dignity
+      — benefitting Greenland, the Arctic, and the rest of us. Jan Oberg TFF director
+      Lund, Sweden, February 17, 2026 […] The post A New Perspective on the Arctic for
+      the Common Good — and Why It Is Rational appeared first on The Transnational .
+    one_sentence_summary: The article presents a visionary peace proposal aimed at fostering
+      shared security, sustainable development, and human dignity in the Arctic, countering
+      militarized rivalry and ecological degradation.
+    paragraph_summary: The article presents a visionary peace proposal aimed at preventing
+      militarized rivalry and ecological degradation in the Arctic region. It outlines
+      a blueprint for shared security, sustainable development, and the promotion of
+      human dignity, which would benefit not only Greenland and the Arctic but also
+      the global community. Authored by Jan Oberg, director of TFF, the piece emphasizes
+      the need for a collaborative approach to address the challenges facing the Arctic,
+      advocating for rational strategies that prioritize the common good.
+    published: '2026-02-17T17:17:55+00:00'
+  - title: A New Perspective on the Arctic for the Common Good — and Why It Is Rational
+    url: https://transnational.live/2026/02/17/a-new-perspective-on-the-arctic-for-the-common-good-and-why-it-is-rational/
+    text: This is not another geopolitical commentary on the Arctic. It is a visionary
+      peace proposal that can save the region from militarised rivalry and ecological
+      ruin. A blueprint for shared security, sustainable development, and human dignity
+      — benefitting Greenland, the Arctic, and the rest of us. Jan Oberg TFF director
+      Lund, Sweden, February 17, 2026 […] The post A New Perspective on the Arctic for
+      the Common Good — and Why It Is Rational appeared first on The Transnational .
+    one_sentence_summary: The article presents a visionary peace proposal aimed at fostering
+      shared security, sustainable development, and human dignity in the Arctic, countering
+      militarized rivalry and ecological degradation.
+    paragraph_summary: The article presents a visionary peace proposal aimed at preventing
+      militarized rivalry and ecological degradation in the Arctic region. It outlines
+      a blueprint for shared security, sustainable development, and the promotion of
+      human dignity, which would benefit not only Greenland and the Arctic but also
+      the global community. Authored by Jan Oberg, director of TFF, the piece emphasizes
+      the need for a collaborative approach to address the challenges facing the Arctic,
+      advocating for rational strategies that prioritize the common good.
+    published: '2026-02-17T17:17:55+00:00'
+  - title: Comparing China’s and the U.S.’ speeches at the Munich ‘Security’ Conference
+    url: https://transnational.live/2026/02/16/comparing-chinas-and-the-u-s-speeches-at-the-munich-security-conference/
+    text: Jan Oberg February 16, 2026 China’s highly important global media outlet,
+      CGTN, asked me for my comments immediately after the two foreign ministers spoke
+      on Saturday, February 14, 2026. The contrast could hardly have been bigger. The
+      audience gave Marco Rubio a standing ovation for his exclusive Western perspective,
+      and many left the room after that – […] The post Comparing China’s and the U.S.’
+      speeches at the Munich ‘Security’ Conference appeared first on The Transnational
+      .
+    one_sentence_summary: Jan Oberg highlights the stark contrast between the reception
+      of U.S. Senator Marco Rubio's speech, which garnered a standing ovation for its
+      Western perspective, and China's representation at the Munich Security Conference
+      on February 14, 2026.
+    paragraph_summary: In an article by Jan Oberg dated February 16, 2026, the author
+      reflects on the stark contrast between the speeches delivered by the foreign ministers
+      of China and the U.S. at the Munich Security Conference on February 14, 2026.
+      Marco Rubio received a standing ovation for his pro-Western viewpoint, which resonated
+      with the audience, leading many attendees to leave after his speech. Oberg's commentary
+      highlights the differing narratives and perspectives presented by the two nations
+      in a significant global forum.
+    published: '2026-02-16T15:25:24+00:00'
+  - title: Comparing China’s and the U.S.’ speeches at the Munich ‘Security’ Conference
+    url: https://transnational.live/2026/02/16/comparing-chinas-and-the-u-s-speeches-at-the-munich-security-conference/
+    text: Jan Oberg February 16, 2026 China’s highly important global media outlet,
+      CGTN, asked me for my comments immediately after the two foreign ministers spoke
+      on Saturday, February 14, 2026. The contrast could hardly have been bigger. The
+      audience gave Marco Rubio a standing ovation for his exclusive Western perspective,
+      and many left the room after that – […] The post Comparing China’s and the U.S.’
+      speeches at the Munich ‘Security’ Conference appeared first on The Transnational
+      .
+    one_sentence_summary: Jan Oberg highlights the stark contrast between the reception
+      of U.S. Senator Marco Rubio's speech, which garnered a standing ovation for its
+      Western perspective, and China's representation at the Munich Security Conference
+      on February 14, 2026.
+    paragraph_summary: In an article by Jan Oberg dated February 16, 2026, the author
+      reflects on the stark contrast between the speeches delivered by the foreign ministers
+      of China and the U.S. at the Munich Security Conference on February 14, 2026.
+      Marco Rubio received a standing ovation for his pro-Western viewpoint, which resonated
+      with the audience, leading many attendees to leave after his speech. Oberg's commentary
+      highlights the differing narratives and perspectives presented by the two nations
+      in a significant global forum.
+    published: '2026-02-16T15:25:24+00:00'
+  - title: The Munich ‘Security’ Conference (MSC) – the West’s premier – has become
+      a €20‑Million militarist echo chamber
+    url: https://transnational.live/2026/02/13/the-munich-security-conference-msc-the-wests-premier-has-become-a-e20-million-militarist-echo-chamber/
+    text: The MSC’s closed groupthink militarism offers only one prescription — more
+      weapons — even as record military expenditures, squeezed from taxpayers in economic
+      crisis, destroy diplomacy and drive escalation to the highest war risks in decades.
+      Jan Oberg TFF director February 13, 2026 From Dialogue Forum to Militarised Ritual
+      For decades, the Munich Security Conference (MSC) – […] The post The Munich ‘Security’
+      Conference (MSC) – the West’s premier – has become a €20‑Million militarist echo
+      chamber appeared first on The Transnational .
+    one_sentence_summary: The Munich Security Conference has devolved into a costly
+      militarist echo chamber that prioritizes increased military spending over diplomacy,
+      exacerbating global tensions and war risks amid economic crises.
+    paragraph_summary: The Munich Security Conference (MSC), once a platform for dialogue,
+      has devolved into a militaristic echo chamber that prioritizes increased military
+      spending over diplomatic solutions, according to Jan Oberg, director of the Transnational
+      Foundation for Peace and Future Research. Despite record military expenditures
+      funded by taxpayers during an economic crisis, the MSC's singular focus on weapons
+      exacerbates tensions and escalates the risk of war to unprecedented levels. Oberg
+      critiques this shift, highlighting the detrimental impact on global diplomacy
+      and security.
+    published: '2026-02-13T20:47:38+00:00'
+  - title: The Munich ‘Security’ Conference (MSC) – the West’s premier – has become
+      a €20‑Million militarist echo chamber
+    url: https://transnational.live/2026/02/13/the-munich-security-conference-msc-the-wests-premier-has-become-a-e20-million-militarist-echo-chamber/
+    text: The MSC’s closed groupthink militarism offers only one prescription — more
+      weapons — even as record military expenditures, squeezed from taxpayers in economic
+      crisis, destroy diplomacy and drive escalation to the highest war risks in decades.
+      Jan Oberg TFF director February 13, 2026 From Dialogue Forum to Militarised Ritual
+      For decades, the Munich Security Conference (MSC) – […] The post The Munich ‘Security’
+      Conference (MSC) – the West’s premier – has become a €20‑Million militarist echo
+      chamber appeared first on The Transnational .
+    one_sentence_summary: The Munich Security Conference has devolved into a costly
+      militarist echo chamber that prioritizes increased military spending over diplomacy,
+      exacerbating global tensions and war risks amid economic crises.
+    paragraph_summary: The Munich Security Conference (MSC), once a platform for dialogue,
+      has devolved into a militaristic echo chamber that prioritizes increased military
+      spending over diplomatic solutions, according to Jan Oberg, director of the Transnational
+      Foundation for Peace and Future Research. Despite record military expenditures
+      funded by taxpayers during an economic crisis, the MSC's singular focus on weapons
+      exacerbates tensions and escalates the risk of war to unprecedented levels. Oberg
+      critiques this shift, highlighting the detrimental impact on global diplomacy
+      and security.
+    published: '2026-02-13T20:47:38+00:00'
+  - title: 'Resist and Build Alternatives to the Trump Regime Now: Part 3'
+    url: https://transnational.live/2026/02/11/resist-and-build-alternatives-to-the-trump-regime-now-part-3/
+    text: 'By Jan ObergTFF co-founder and director February 11, 2026 PART 3 — ECONOMICS,
+      TRADE & FINANCIAL SOVEREIGNTY A. Trade Measures & Market Signaling Economic pressure
+      can be applied instantly and scaled without violence. Immediate Measures (within
+      a week) Government boycott US goods and services  A very powerful signal which
+      over time will be felt. Targeted […] The post Resist and Build Alternatives to
+      the Trump Regime Now: Part 3 appeared first on The Transnational .'
+    one_sentence_summary: The article discusses the use of economic pressure, specifically
+      through a government boycott of US goods and services, as a non-violent strategy
+      to resist and create alternatives to the Trump regime.
+    paragraph_summary: In the third part of his article, Jan Oberg discusses the use
+      of economic pressure as a non-violent means to resist the Trump regime, emphasizing
+      the effectiveness of trade measures and market signaling. He suggests that a government-led
+      boycott of U.S. goods and services could serve as a powerful immediate response,
+      sending a significant message that would resonate over time. Oberg advocates for
+      the development of alternative systems and strategies to counter the current administration's
+      policies, highlighting the potential for economic actions to create meaningful
+      change without resorting to violence.
+    published: '2026-02-11T15:47:42+00:00'
+  - title: 'Resist and Build Alternatives to the Trump Regime Now: Part 3'
+    url: https://transnational.live/2026/02/11/resist-and-build-alternatives-to-the-trump-regime-now-part-3/
+    text: 'By Jan ObergTFF co-founder and director February 11, 2026 PART 3 — ECONOMICS,
+      TRADE & FINANCIAL SOVEREIGNTY A. Trade Measures & Market Signaling Economic pressure
+      can be applied instantly and scaled without violence. Immediate Measures (within
+      a week) Government boycott US goods and services  A very powerful signal which
+      over time will be felt. Targeted […] The post Resist and Build Alternatives to
+      the Trump Regime Now: Part 3 appeared first on The Transnational .'
+    one_sentence_summary: The article discusses the use of economic pressure, specifically
+      through a government boycott of US goods and services, as a non-violent strategy
+      to resist and create alternatives to the Trump regime.
+    paragraph_summary: In the third part of his article, Jan Oberg discusses the use
+      of economic pressure as a non-violent means to resist the Trump regime, emphasizing
+      the effectiveness of trade measures and market signaling. He suggests that a government-led
+      boycott of U.S. goods and services could serve as a powerful immediate response,
+      sending a significant message that would resonate over time. Oberg advocates for
+      the development of alternative systems and strategies to counter the current administration's
+      policies, highlighting the potential for economic actions to create meaningful
+      change without resorting to violence.
+    published: '2026-02-11T15:47:42+00:00'
+  - title: 'On the Anniversary of Iran’s Revolution: Key Lessons for Revolutionaries'
+    url: https://transnational.live/2026/02/11/on-the-anniversary-of-irans-revolution-key-lessons-for-revolutionaries/
+    text: 'Farhang Jahanpour TFF Associate, former Board member February 11, 2026 Oxford
+      (Special to Informed Comment; Feature) – Today, 11 February, marks the 47th anniversary
+      of the victory of the Islamic Revolution in Iran, and coincidentally, it also
+      marks the 15th anniversary of the ousting of Hosni Mubarak after 30 years of oppressive
+      rule. There were […] The post On the Anniversary of Iran’s Revolution: Key Lessons
+      for Revolutionaries appeared first on The Transnational .'
+    one_sentence_summary: The article reflects on the 47th anniversary of the Islamic
+      Revolution in Iran and the 15th anniversary of Hosni Mubarak's ousting, highlighting
+      key lessons for revolutionaries.
+    paragraph_summary: On February 11, 2026, Farhang Jahanpour reflects on the 47th
+      anniversary of the Islamic Revolution in Iran, which coincides with the 15th anniversary
+      of the ousting of Hosni Mubarak in Egypt. In his article, he draws key lessons
+      for revolutionaries from these historical events, emphasizing the importance of
+      understanding the complexities and consequences of revolutionary movements. Jahanpour
+      highlights the need for sustained commitment to democratic principles and the
+      dangers of authoritarianism, urging current and future revolutionaries to learn
+      from the past to navigate the challenges they face.
+    published: '2026-02-11T11:19:53+00:00'
+  - title: 'On the Anniversary of Iran’s Revolution: Key Lessons for Revolutionaries'
+    url: https://transnational.live/2026/02/11/on-the-anniversary-of-irans-revolution-key-lessons-for-revolutionaries/
+    text: 'Farhang Jahanpour TFF Associate, former Board member February 11, 2026 Oxford
+      (Special to Informed Comment; Feature) – Today, 11 February, marks the 47th anniversary
+      of the victory of the Islamic Revolution in Iran, and coincidentally, it also
+      marks the 15th anniversary of the ousting of Hosni Mubarak after 30 years of oppressive
+      rule. There were […] The post On the Anniversary of Iran’s Revolution: Key Lessons
+      for Revolutionaries appeared first on The Transnational .'
+    one_sentence_summary: The article reflects on the 47th anniversary of the Islamic
+      Revolution in Iran and the 15th anniversary of Hosni Mubarak's ousting, highlighting
+      key lessons for revolutionaries.
+    paragraph_summary: On February 11, 2026, Farhang Jahanpour reflects on the 47th
+      anniversary of the Islamic Revolution in Iran, which coincides with the 15th anniversary
+      of the ousting of Hosni Mubarak in Egypt. In his article, he draws key lessons
+      for revolutionaries from these historical events, emphasizing the importance of
+      understanding the complexities and consequences of revolutionary movements. Jahanpour
+      highlights the need for sustained commitment to democratic principles and the
+      dangers of authoritarianism, urging current and future revolutionaries to learn
+      from the past to navigate the challenges they face.
+    published: '2026-02-11T11:19:53+00:00'
   - title: 'Resist and Build Alternatives to the Trump Regime Now: Part 1'
     url: https://transnational.live/2026/01/20/resist-and-build-alternatives-to-the-trump-regime-now-part-1/
     text: 'PART 1 — Media, Culture and Information Sovereignty By Jan ObergTFF co-founder

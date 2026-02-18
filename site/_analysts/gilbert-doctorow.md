@@ -7,14 +7,551 @@ description: "Gilbert Doctorow is a Brussels-based independent political analyst
 websites:
   - https://gilbertdoctorow.com/
 summary: |
-  The geopolitical landscape remains tense as new developments emerge surrounding the attempted assassination of Russian Lt General Alekseev and the broader context of US-Russia-Iran relations. The Russian media narrative, as analyzed by **Gilbert Doctorow**, is increasingly complex: while the Kremlin officially blames Ukrainian military intelligence for the attack on Alekseev, some outlets subtly suggest the involvement of foreign special forces. This dual messaging appears designed to justify potential Russian retaliation while avoiding a direct escalation with Western powers.
+  As the Geneva peace talks between Russia, Ukraine, and the United States approach, the geopolitical landscape remains tense and fluid. The recent reappointment of Vladimir Medinsky to head the Russian delegation signals Moscow’s intent to elevate the level of engagement in negotiations, moving beyond technical security discussions to potentially substantive peace talks. This development comes amid persistent skepticism about the prospects for meaningful progress, given entrenched positions on both sides.
   
-  **Doctorow** further argues that the sophistication of the assassination plot points toward British MI6 involvement rather than solely Ukrainian actors. He notes, “the missing link in the assassination attempt against Lt General Alekseev is probably sitting in London, in the MI6 offices,” underscoring the likelihood of Western intelligence coordination. This perspective is gaining traction in Russian analysis, reflecting a broader skepticism about Ukraine’s capacity to act independently in such high-profile operations.
+  **Gilbert Doctorow** notes that Medinsky’s return “marks a shift to higher-level discussions regarding a potential peace settlement,” reflecting Russia’s readiness to negotiate seriously. However, significant obstacles remain, particularly Ukrainian President Zelensky’s continued refusal to consider territorial concessions. This intransigence, combined with the looming May 15 deadline set by Donald Trump for tangible progress, suggests that a breakthrough is unlikely in the immediate term.
   
-  On the Iran front, the upcoming US-Iran negotiations are drawing increased attention, particularly after a notable spike in Israeli interest in related commentary. **Doctorow** highlights the controlled and strategic nature of Trump’s foreign policy communications, suggesting that backchannel negotiations remain opaque but pivotal. Russia continues to assert that Iran alone will decide on uranium removal, reinforcing Tehran’s agency ahead of talks.
+  On the Western front, the narrative of Russian weakness continues to be promoted by NATO officials. At the Munich Security Conference, Secretary General Mark Rutte claimed that “Russia has suffered significant military and economic losses,” a message intended to reinforce support for Ukraine. Yet, **Doctorow** challenges the credibility of these figures, arguing that they are “exaggerated and lack credibility,” and primarily serve a political purpose rather than reflecting on-the-ground realities.
   
-  Looking ahead, the prevailing trend is one of managed escalation: Russia is likely to use the Alekseev incident as leverage in its broader confrontation with the West, but will avoid actions that could trigger direct conflict with NATO. In the Middle East, the US-Iran dialogue is expected to proceed cautiously, with regional actors closely monitoring for shifts in American strategy. Based on the current trajectory, there is a high chance that Russia will intensify its hybrid responses—cyber, diplomatic, and covert—rather than overt military escalation. I guarantee that the opaque, multi-layered communication strategies among the US, Russia, and Iran will continue to shape the next phase of these intertwined crises.
+  Meanwhile, intra-European dynamics are becoming increasingly complex. The controversial nuclear agreement between French President Emmanuel Macron and German Chancellor Friedrich Merz has drawn sharp criticism, with some analysts warning that it could further escalate tensions with Russia and destabilize European security. **Doctorow** has compared Merz’s ambitions to “German revanchism,” highlighting the risk of a new arms race on the continent.
+  
+  Looking ahead, the majority of independent analysis suggests that the Geneva talks are unlikely to yield a comprehensive settlement in the near future. There is a high chance that negotiations will stall over core issues such as territorial integrity and security guarantees. The Western strategy of emphasizing Russian losses is expected to persist, but its impact on the battlefield and at the negotiating table remains limited. As Doctorow concludes, “there is a high chance that no major breakthrough will occur before Trump’s May 15 deadline,” and the risk of further escalation in Europe cannot be discounted.
 articles:
+  - title: Vladimir Medinsky is back in charge of Russian negotiations with the USA
+      and Ukraine
+    url: https://gilbertdoctorow.com/2026/02/16/vladimir-medinsky-is-back-in-charge-of-russian-negotiations-with-the-usa-and-ukraine/
+    text: "Vladimir Medinsky is back in charge of Russian negotiations with the USA\
+      \ and Ukraine gilbertdoctorow Uncategorized February 16, 2026 2 Minutes The widely\
+      \ read Russian news outlet Аргументы и факты (Arguments and Facts) which had a\
+      \ vast audience in print form during Soviet rule in Russia and continues in the\
+      \ present era to enjoy a mass readership as an online purveyor of news and opinion\
+      \ today has put out a leading article on Russia’s delegation to the next session\
+      \ of the trilateral US-Russian-Ukrainian peace talks scheduled to be held tomorrow\
+      \ and Wednesday in Geneva. They inform us that the Russian team will once again\
+      \ be headed by Vladimir Medinsky, former Minister of Culture, adviser on international\
+      \ policy to President Vladimir Putin and until the last two rounds of negotiations,\
+      \ former head of Team Russia at the talks. As we know, in the last two rounds\
+      \ of talks held in Abu Dhabi, capital of the United Arab Emirates, the Russian\
+      \ negotiating team was headed by the chief of Russian Military Intelligence (GRU)\
+      \ General Kostyukov. Those talks were said to center on security issues, which\
+      \ as I have said in recent essays, were about the modalities of Ukrainian withdrawal\
+      \ from all of Donbas in keeping with Russian preconditions for a cease-fire. I\
+      \ interpret the re-appointment of Medinsky as a tip-off that the talks will now\
+      \ resume at a higher level of discussion, meaning the overall contours of the\
+      \ peace settlement where the historical perspective that Medinsky brings to the\
+      \ task is critical. In another article a day or two earlier, Argumenty i Fakty\
+      \ explained to its audience the significance of the selection of Geneva after\
+      \ Zelensky’s refusal to go back to Abu Dhabi considering the UAE’s treachery,\
+      \ from his standpoint, in handing over the accused would-be-assassin of Russian\
+      \ general Alekseyev to Russian authorities for interrogation and trial in Moscow.\
+      \ AiF tell us that Geneva was selected because of Switzerland’s centuries old\
+      \ neutral status in the heart of Europe. They also, very correctly, hint that\
+      \ this neutrality has been compromised in recent years. Indeed, allow me to hazard\
+      \ a guess that the Swiss authorities were keen to be hosts to the talks to demonstrate\
+      \ a return to neutrality after some recent missteps in the course of the Russia-Ukraine\
+      \ war when they have pandered to the pro-Kiev authorities in Brussels. I take\
+      \ pleasure in ending this brief note with a hats-off to Argumenty i Fakty for\
+      \ reporting on my more substantive podcasts and in particular for reporting on\
+      \ my latest conversation with Professor Glenn Diesen. Their respective article\
+      \ was entitled Зеленского предупредили о потере Одессы и Харькова (Zelensky has\
+      \ been warned about the loss of Odessa and Kharkov). The opening paragraph of\
+      \ this article tells us: Aмериканский специалист в области международных отношений\
+      \ Гилберт Доктороу высказал предположение, что до завершения боевых действий Украина\
+      \ рискует лишиться контроля над двумя ключевыми городами — Харьковом и Одессой.\
+      \ Translation:  “An American specialist in the field of international relations\
+      \ Gilbert Doctorow has suggested that before the military actions end Ukraine\
+      \ risks the loss of control over two key cities – Kharkov and Odessa.” If I were\
+      \ Zelensky or some member of his regime, I might rightly ask, paraphrasing Stalin\
+      \ with respect to the Pope:  and how many divisions does Doctorow command? ©Gilbert\
+      \ Doctorow, 2026 Promotional offer for new one-year paid subscriptions to my alternative\
+      \ web platform gilbertdoctorow.substack.com where I post analytical articles not\
+      \ shown on Word Press You will be eligible to receive a free of charge paperback\
+      \ copy of the historical novel on the Russian emigration of the 1970s, ‘Nadine’s\
+      \ Story’ by Larisa Zalesova. Subscribers must identify themselves by email to\
+      \ gsdoctorow@gmail.com to avail themselves of this offer. Information about the\
+      \ book is available on the various country websites of Amazon. Share this: Share\
+      \ on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook\
+      \ Like Loading... Related Tagged nato politics russia ukraine war Published by\
+      \ gilbertdoctorow Gilbert Doctorow's latest book, \"War Diaries. The Russia-Ukraine\
+      \ War, 2022-2023\" is a unique contribution to literature on the war thanks to\
+      \ the author's reports on the Russian home front written during his periodic visits\
+      \ to St Petersburg at a time when Russia no longer issued visas and nearly all\
+      \ Western journalists had left the country. Doctorow's two-volume \"Memoirs of\
+      \ a Russianist\" published in 2020 also constitutes a category of its own, consisting\
+      \ largely of diary entries rather than reminiscences written decades later.. Volume\
+      \ 2 focuses on the community of 50,000 expatriate managers working and living\
+      \ in Moscow during the 1990s, about which none of his peers has yet to write.\
+      \ \n\nGilbert Doctorow is a professional Russia watcher and actor in Russian affairs\
+      \ going back to 1965. He is a magna cum laude graduate of Harvard College (1967),\
+      \ a past Fulbright scholar, and holder of a Ph.D. with honors in history from\
+      \ Columbia University (1975).\n\nAfter completing his studies, Mr. Doctorow pursued\
+      \ a business career focused on the USSR and Eastern Europe. For twenty-five years\
+      \ he worked for US and European multinationals in marketing and general management\
+      \ with regional responsibility.\n\nFrom 1998-2002, Doctorow served as the Chairman\
+      \ of the Russian Booker Literary Prize in Moscow. During the 2010-2011 academic\
+      \ year, he was a Visiting scholar of the Harriman Institute, Columbia University.\n\
+      \nMr. Doctorow is a long-time resident of Brussels. View all posts by gilbertdoctorow\
+      \ Published February 16, 2026"
+    one_sentence_summary: Vladimir Medinsky has been reappointed to lead the Russian
+      delegation in the upcoming US-Russian-Ukrainian peace talks in Geneva, signaling
+      a shift to higher-level discussions regarding a potential peace settlement following
+      previous negotiations focused on security issues.
+    paragraph_summary: Vladimir Medinsky has been reappointed to lead the Russian delegation
+      in the upcoming trilateral US-Russian-Ukrainian peace talks in Geneva, following
+      a previous round of negotiations led by General Kostyukov. This shift suggests
+      a move towards higher-level discussions regarding a comprehensive peace settlement,
+      particularly concerning Ukraine's withdrawal from Donbas. The choice of Geneva
+      as the venue reflects Switzerland's historical neutrality, which has been questioned
+      recently due to its perceived alignment with pro-Kiev sentiments. The article
+      also highlights concerns about Ukraine's potential loss of control over key cities,
+      Kharkov and Odessa, as expressed by international relations expert Gilbert Doctorow.
+    published: '2026-02-16T06:19:30+00:00'
+  - title: NewsX World (India)  yesterday afternoon interview :  Mark Rutte Reports
+      Russia’s Oil Revenue Collapses While Troop Losses Mount
+    url: https://gilbertdoctorow.com/2026/02/15/16910/
+    text: Yes, indeed, NATO Secretary General speaking in the context of the ongoing
+      Munich Security Conference has gleefully declared that Russia is experiencing
+      “crazy losses” of 65,000 soldiers killed or wounded in the past two months and
+      that the Russian economy is reeling from a one-third loss of oil export revenues.
+      These words are meant to prod Conference attendees to believe in a possible Ukrainian
+      victory in the war and to maintain solid materiel and financial support to Kiev.
+      If only words could win wars, Zelensky and Co. would be carried aloft by proud
+      patriots down the streets of Kiev. Reality tells any neutral observer that Rutte’s
+      figures are ‘crazy’ in the sense that they are totally fabricated in the febrile
+      word shops of Kiev and have no substance to them. Promotional offer for new one-year
+      paid subscriptions to my alternative web platform gilbertdoctorow.substack.com
+      where I post analytical articles not shown on Word Press You will be eligible
+      to receive a free of charge paperback copy of the historical novel on the Russian
+      emigration of the 1970s, ‘Nadine’s Story’ by Larisa Zalesova. Subscribers must
+      identify themselves by email to gsdoctorow@gmail.com to avail themselves of this
+      offer. Information about the book is available on the various country websites
+      of Amazon.
+    one_sentence_summary: NATO Secretary General claims Russia has suffered significant
+      military and economic losses, aiming to bolster support for Ukraine at the Munich
+      Security Conference, but the article suggests these figures are exaggerated and
+      lack credibility.
+    paragraph_summary: At the Munich Security Conference, NATO Secretary General claimed
+      that Russia has suffered significant military losses, estimating 65,000 soldiers
+      killed or wounded in the past two months, and noted a substantial decline in Russian
+      oil export revenues. His statements aimed to bolster confidence in a potential
+      Ukrainian victory and encourage continued support for Ukraine. However, the author
+      of the article challenges these figures, suggesting they are exaggerated and lack
+      credibility, asserting that they stem from propaganda rather than factual evidence.
+      The piece also includes a promotional offer for subscriptions to an alternative
+      web platform featuring analytical content.
+    published: '2026-02-15T08:21:29+00:00'
+  - title: NewsX World (India)  yesterday afternoon interview :  Mark Rutte Reports
+      Russia’s Oil Revenue Collapses While Troop Losses Mount
+    url: https://gilbertdoctorow.com/2026/02/15/16910/
+    text: Yes, indeed, NATO Secretary General speaking in the context of the ongoing
+      Munich Security Conference has gleefully declared that Russia is experiencing
+      “crazy losses” of 65,000 soldiers killed or wounded in the past two months and
+      that the Russian economy is reeling from a one-third loss of oil export revenues.
+      These words are meant to prod Conference attendees to believe in a possible Ukrainian
+      victory in the war and to maintain solid materiel and financial support to Kiev.
+      If only words could win wars, Zelensky and Co. would be carried aloft by proud
+      patriots down the streets of Kiev. Reality tells any neutral observer that Rutte’s
+      figures are ‘crazy’ in the sense that they are totally fabricated in the febrile
+      word shops of Kiev and have no substance to them. Promotional offer for new one-year
+      paid subscriptions to my alternative web platform gilbertdoctorow.substack.com
+      where I post analytical articles not shown on Word Press You will be eligible
+      to receive a free of charge paperback copy of the historical novel on the Russian
+      emigration of the 1970s, ‘Nadine’s Story’ by Larisa Zalesova. Subscribers must
+      identify themselves by email to gsdoctorow@gmail.com to avail themselves of this
+      offer. Information about the book is available on the various country websites
+      of Amazon.
+    one_sentence_summary: NATO Secretary General claims Russia has suffered significant
+      military and economic losses, aiming to bolster support for Ukraine at the Munich
+      Security Conference, but the article suggests these figures are exaggerated and
+      lack credibility.
+    paragraph_summary: At the Munich Security Conference, NATO Secretary General claimed
+      that Russia has suffered significant military losses, estimating 65,000 soldiers
+      killed or wounded in the past two months, and noted a substantial decline in Russian
+      oil export revenues. His statements aimed to bolster confidence in a potential
+      Ukrainian victory and encourage continued support for Ukraine. However, the author
+      of the article challenges these figures, suggesting they are exaggerated and lack
+      credibility, asserting that they stem from propaganda rather than factual evidence.
+      The piece also includes a promotional offer for subscriptions to an alternative
+      web platform featuring analytical content.
+    published: '2026-02-15T08:21:29+00:00'
+  - title: NewsX World (India) morning interview :  a potpourri of issues relating to
+      the Russia-Ukraine war
+    url: https://gilbertdoctorow.com/2026/02/14/newsx-world-india-morning-interview-a-potpourri-of-issues-relating-to-the-russia-ukraine-war/
+    text: NewsX World (India) morning interview :  a potpourri of issues relating to
+      the Russia-Ukraine war This six-minute interview which begins at minute 4 on the
+      podcast covers a number of different issues, some of which have arisen from discussions
+      ongoing in the Munich Security Conference. We discuss British Prime Minister Starmer’s
+      views on how Europe should bulk up its defensive capabilities while remaining
+      in close association with the United States. We discuss the time frame needed
+      for Europe to rearm and how the Russians may react to such a threatening development. 
+      We discuss Emmanuel Macron’s supposed agreement with German Chancellor Merz on
+      a shared nuclear umbrella, which might just be in violation of the treaty on non-proliferation
+      of nuclear weapons to which both are signatories. Promotional offer for new one-year
+      paid subscriptions to gilbertdoctorow.substack.com, the web platform where I publish
+      analytical essays which are not posted on Word Press  You will be eligible to
+      receive a free of charge paperback copy of th historical novel on the Russian
+      emigration of the 1970s, ‘Nadine’s Story’ by Larisa Zalesova. Subscribers must
+      identify themselves by email to gsdoctorow@gmail.com to avail themselves of this
+      offer. Information about the book is available on the various country websites
+      of Amazon.
+    one_sentence_summary: The interview discusses various issues related to the Russia-Ukraine
+      war, including British Prime Minister Starmer's views on European defense, the
+      timeline for European rearmament, potential Russian reactions, and a controversial
+      nuclear agreement between Emmanuel Macron and German Chancellor Merz.
+    paragraph_summary: In a recent six-minute interview on NewsX World, various issues
+      related to the Russia-Ukraine war were discussed, particularly in the context
+      of the Munich Security Conference. Key topics included British Prime Minister
+      Starmer's perspective on enhancing Europe's defense capabilities while maintaining
+      strong ties with the U.S., the timeline for European rearmament, and potential
+      Russian responses to these developments. Additionally, the conversation touched
+      on a reported agreement between French President Emmanuel Macron and German Chancellor
+      Merz regarding a shared nuclear umbrella, which could potentially breach the non-proliferation
+      treaty both leaders are bound by. The interview also included a promotional offer
+      for new subscribers to Gilbert Doctorow's analytical essays, which includes a
+      free paperback copy of the historical novel "Nadine’s Story" by Larisa Zalesova.
+    published: '2026-02-14T14:37:05+00:00'
+  - title: NewsX World (India) morning interview :  a potpourri of issues relating to
+      the Russia-Ukraine war
+    url: https://gilbertdoctorow.com/2026/02/14/newsx-world-india-morning-interview-a-potpourri-of-issues-relating-to-the-russia-ukraine-war/
+    text: NewsX World (India) morning interview :  a potpourri of issues relating to
+      the Russia-Ukraine war This six-minute interview which begins at minute 4 on the
+      podcast covers a number of different issues, some of which have arisen from discussions
+      ongoing in the Munich Security Conference. We discuss British Prime Minister Starmer’s
+      views on how Europe should bulk up its defensive capabilities while remaining
+      in close association with the United States. We discuss the time frame needed
+      for Europe to rearm and how the Russians may react to such a threatening development. 
+      We discuss Emmanuel Macron’s supposed agreement with German Chancellor Merz on
+      a shared nuclear umbrella, which might just be in violation of the treaty on non-proliferation
+      of nuclear weapons to which both are signatories. Promotional offer for new one-year
+      paid subscriptions to gilbertdoctorow.substack.com, the web platform where I publish
+      analytical essays which are not posted on Word Press  You will be eligible to
+      receive a free of charge paperback copy of th historical novel on the Russian
+      emigration of the 1970s, ‘Nadine’s Story’ by Larisa Zalesova. Subscribers must
+      identify themselves by email to gsdoctorow@gmail.com to avail themselves of this
+      offer. Information about the book is available on the various country websites
+      of Amazon.
+    one_sentence_summary: The interview discusses various issues related to the Russia-Ukraine
+      war, including British Prime Minister Starmer's views on European defense, the
+      timeline for European rearmament, potential Russian reactions, and a controversial
+      nuclear agreement between Emmanuel Macron and German Chancellor Merz.
+    paragraph_summary: In a recent six-minute interview on NewsX World, various issues
+      related to the Russia-Ukraine war were discussed, particularly in the context
+      of the Munich Security Conference. Key topics included British Prime Minister
+      Starmer's perspective on enhancing Europe's defense capabilities while maintaining
+      strong ties with the U.S., the timeline for European rearmament, and potential
+      Russian responses to these developments. Additionally, the conversation touched
+      on a reported agreement between French President Emmanuel Macron and German Chancellor
+      Merz regarding a shared nuclear umbrella, which could potentially breach the non-proliferation
+      treaty both leaders are bound by. The interview also included a promotional offer
+      for new subscribers to Gilbert Doctorow's analytical essays, which includes a
+      free paperback copy of the historical novel "Nadine’s Story" by Larisa Zalesova.
+    published: '2026-02-14T14:37:05+00:00'
+  - title: 'Press TV (Iran): Chancellor Merz is the bearer of German Revanchism – see
+      his speech to the Munich Security Conference'
+    url: https://gilbertdoctorow.com/2026/02/13/press-tv-iran-chancellor-merz-is-the-bearer-of-german-revanchism-see-his-speech-to-the-munich-security-conference/
+    text: https://www.urmedium.net/c/presstv/135802 In this interview, I insist that
+      Merz is the most dangerous German leader since Adolf Hitler and that his plans
+      for making Germany the strongest military force in Europe is an incarnation of
+      Hitler’s vision. On top of this Merz is in talks with Emmanuel Macron over making
+      the French nuclear force de frappe mutualized, meaning that Germany would receive
+      nuclear bombs from the French, something which will meet with violent opposition
+      of the Russians as it violates the terms of the Non-proliferation treaty on nuclear
+      arms. The interview was framed by Merz’s speech to the Munich Security Conference
+      today which reconfirms that he is taking Germany in the wrong direction by preparing
+      it for an eventual open war with Russia in 2030.  He has learned nothing from
+      J.D. Vance’s rebuke at the Conference one year ago that suppression of free speech
+      and of other liberties in Europe is a greater threat to European security than
+      China or Russia. Instead, Merz insisted that Europe must act against disinformation,
+      meaning in practice, censorship and trampling on free speech.  The only progress
+      of democracy from a year ago under American pressure was the admission this year
+      to the Conference proceedings of the Alternativ fuer Deutschland representatives.
+    one_sentence_summary: In an interview, it is argued that German leader Merz poses
+      a significant threat comparable to Hitler by pursuing aggressive military ambitions
+      and potential nuclear collaboration with France, which could escalate tensions
+      with Russia and undermine European security.
+    paragraph_summary: In an interview, the speaker argues that German leader Friedrich
+      Merz poses a significant threat, likening him to Adolf Hitler due to his ambitions
+      to strengthen Germany's military and his discussions with Emmanuel Macron about
+      mutualizing France's nuclear arsenal, which could provoke Russia and violate the
+      Non-Proliferation Treaty. The commentary follows Merz's speech at the Munich Security
+      Conference, where he is criticized for steering Germany toward potential conflict
+      with Russia by 2030 and for advocating measures against disinformation that could
+      infringe on free speech. The speaker notes that despite some progress in democratic
+      representation, Merz's approach reflects a troubling disregard for civil liberties,
+      echoing concerns raised by J.D. Vance at the previous year's conference.
+    published: '2026-02-13T22:33:06+00:00'
+  - title: 'Press TV (Iran): Chancellor Merz is the bearer of German Revanchism – see
+      his speech to the Munich Security Conference'
+    url: https://gilbertdoctorow.com/2026/02/13/press-tv-iran-chancellor-merz-is-the-bearer-of-german-revanchism-see-his-speech-to-the-munich-security-conference/
+    text: https://www.urmedium.net/c/presstv/135802 In this interview, I insist that
+      Merz is the most dangerous German leader since Adolf Hitler and that his plans
+      for making Germany the strongest military force in Europe is an incarnation of
+      Hitler’s vision. On top of this Merz is in talks with Emmanuel Macron over making
+      the French nuclear force de frappe mutualized, meaning that Germany would receive
+      nuclear bombs from the French, something which will meet with violent opposition
+      of the Russians as it violates the terms of the Non-proliferation treaty on nuclear
+      arms. The interview was framed by Merz’s speech to the Munich Security Conference
+      today which reconfirms that he is taking Germany in the wrong direction by preparing
+      it for an eventual open war with Russia in 2030.  He has learned nothing from
+      J.D. Vance’s rebuke at the Conference one year ago that suppression of free speech
+      and of other liberties in Europe is a greater threat to European security than
+      China or Russia. Instead, Merz insisted that Europe must act against disinformation,
+      meaning in practice, censorship and trampling on free speech.  The only progress
+      of democracy from a year ago under American pressure was the admission this year
+      to the Conference proceedings of the Alternativ fuer Deutschland representatives.
+    one_sentence_summary: In an interview, it is argued that German leader Merz poses
+      a significant threat comparable to Hitler by pursuing aggressive military ambitions
+      and potential nuclear collaboration with France, which could escalate tensions
+      with Russia and undermine European security.
+    paragraph_summary: In an interview, the speaker argues that German leader Friedrich
+      Merz poses a significant threat, likening him to Adolf Hitler due to his ambitions
+      to strengthen Germany's military and his discussions with Emmanuel Macron about
+      mutualizing France's nuclear arsenal, which could provoke Russia and violate the
+      Non-Proliferation Treaty. The commentary follows Merz's speech at the Munich Security
+      Conference, where he is criticized for steering Germany toward potential conflict
+      with Russia by 2030 and for advocating measures against disinformation that could
+      infringe on free speech. The speaker notes that despite some progress in democratic
+      representation, Merz's approach reflects a troubling disregard for civil liberties,
+      echoing concerns raised by J.D. Vance at the previous year's conference.
+    published: '2026-02-13T22:33:06+00:00'
+  - title: Russia Ukraine US Talks Set For Geneva February 17-18 | NewsX World
+    url: https://gilbertdoctorow.com/2026/02/13/russia-ukraine-us-talks-set-for-geneva-february-17-18-newsx-world/
+    text: Breaking news indeed!  This interview opens with the presenter saying that
+      the Russian-Ukrainian-US talks on peace will recommence on 17 February where they
+      were last held, meaning Abu Dhabi.  Then half way through our conversation we
+      learn that the talks will in fact be held in Geneva. No matter! The essential
+      fact remains that the two sides are very far apart insofar as Zelensky refuses
+      to make any territorial concessions, refuses to face the reality that Ukraine
+      has lost the war because he is being encouraged by Europe to keep on fighting
+      and to rely on their arms and cash deliveries to Kiev. Under the circumstances,
+      the greatest likelihood is that the sides will not have an agreed text of a peace
+      treaty ready for Trump’s deadline of 15 May and Mr. Trump will walk away from
+      these negotiations lest his continued participation have an adverse effect on
+      the Republicans’ campaigning for November mid-term elections.  In that case the
+      interesting question is whether Trump will stop all U.S. arms shipments to Europe
+      for Ukraine, will he stop the U.S. intelligence sharing with Ukraine.  If this
+      happens, then the war will wind down in a matter of weeks whatever the Europeans
+      may wish or say.
+    one_sentence_summary: The article discusses the upcoming peace talks between Russia,
+      Ukraine, and the US, highlighting that despite the negotiations shifting locations
+      from Abu Dhabi to Geneva, significant disagreements remain, particularly with
+      Zelensky's refusal to make territorial concessions, which may lead to a lack of
+      progress before Trump's May 15 deadline.
+    paragraph_summary: The article discusses the upcoming resumption of peace talks
+      between Russia, Ukraine, and the U.S. on February 17, initially expected to take
+      place in Abu Dhabi but later confirmed for Geneva. It highlights the significant
+      divide between the parties, particularly with Ukrainian President Zelensky's refusal
+      to concede any territory, influenced by European support for continued fighting.
+      The article suggests that an agreement may not be reached by the May 15 deadline
+      set by Trump, who might withdraw from negotiations to avoid political backlash
+      ahead of the November mid-term elections. If Trump halts U.S. arms and intelligence
+      support to Ukraine, the article posits that the conflict could rapidly de-escalate,
+      regardless of European interests.
+    published: '2026-02-13T16:02:10+00:00'
+  - title: Russia Ukraine US Talks Set For Geneva February 17-18 | NewsX World
+    url: https://gilbertdoctorow.com/2026/02/13/russia-ukraine-us-talks-set-for-geneva-february-17-18-newsx-world/
+    text: Breaking news indeed!  This interview opens with the presenter saying that
+      the Russian-Ukrainian-US talks on peace will recommence on 17 February where they
+      were last held, meaning Abu Dhabi.  Then half way through our conversation we
+      learn that the talks will in fact be held in Geneva. No matter! The essential
+      fact remains that the two sides are very far apart insofar as Zelensky refuses
+      to make any territorial concessions, refuses to face the reality that Ukraine
+      has lost the war because he is being encouraged by Europe to keep on fighting
+      and to rely on their arms and cash deliveries to Kiev. Under the circumstances,
+      the greatest likelihood is that the sides will not have an agreed text of a peace
+      treaty ready for Trump’s deadline of 15 May and Mr. Trump will walk away from
+      these negotiations lest his continued participation have an adverse effect on
+      the Republicans’ campaigning for November mid-term elections.  In that case the
+      interesting question is whether Trump will stop all U.S. arms shipments to Europe
+      for Ukraine, will he stop the U.S. intelligence sharing with Ukraine.  If this
+      happens, then the war will wind down in a matter of weeks whatever the Europeans
+      may wish or say.
+    one_sentence_summary: The article discusses the upcoming peace talks between Russia,
+      Ukraine, and the US, highlighting that despite the negotiations shifting locations
+      from Abu Dhabi to Geneva, significant disagreements remain, particularly with
+      Zelensky's refusal to make territorial concessions, which may lead to a lack of
+      progress before Trump's May 15 deadline.
+    paragraph_summary: The article discusses the upcoming resumption of peace talks
+      between Russia, Ukraine, and the U.S. on February 17, initially expected to take
+      place in Abu Dhabi but later confirmed for Geneva. It highlights the significant
+      divide between the parties, particularly with Ukrainian President Zelensky's refusal
+      to concede any territory, influenced by European support for continued fighting.
+      The article suggests that an agreement may not be reached by the May 15 deadline
+      set by Trump, who might withdraw from negotiations to avoid political backlash
+      ahead of the November mid-term elections. If Trump halts U.S. arms and intelligence
+      support to Ukraine, the article posits that the conflict could rapidly de-escalate,
+      regardless of European interests.
+    published: '2026-02-13T16:02:10+00:00'
+  - title: The commonalities between Europe’s road forward to reindustrialization and
+      Trump’s domestic policies
+    url: https://gilbertdoctorow.com/2026/02/12/the-commonalities-between-europes-road-forward-to-reindustrialization-and-trumps-domestic-policies/
+    text: 'In a remarkable speech yesterday to the European Industry Summit 2026 held
+      in Antwerp, Belgian Prime Minister Bart De Wever proved once again his role as
+      intellectual leader for the EU waiting in the wings to replace the ideologically
+      driven authoritarians today in power in the European Institutions who continue
+      to implement the Green Agenda talking points at the expense of industry and of
+      the broad economy on the Continent. Follow this link to his speech in English:
+      https://www.youtube.com/watch?v=KHlObAAYeuE Although De Wever indirectly took
+      swipes at Donald Trump and MAGA for its ‘winner take all’ approach to global trade
+      and global governance wherein there are only winners and losers versus the ‘win-win’
+      approaches of the EU, the commonality in thinking between Bart De Wever and Donald
+      Trump is undeniable and rests on one word and concept:  pragmatism. Pragmatism
+      was long ago the hidden strength of America in contrast to the very different,
+      over-intellectualized operating principles on the Continent and among American
+      elites.  Whereas the American of yore asked about a new concept ‘does it work
+      in practice?’ the average Frenchmen, by folklore, asked about a new invention
+      ‘does it work in theory?’ However, over past decades pragmatism fell victim to
+      various iterations of political correctness and was forgotten entirely among American
+      elites. It took the brash and seemingly inarticulate Donald J. Trump to reject
+      unhesitatingly and in clearest terms the illogic driving the Green Agenda that
+      had taken hold of legislators and brought over-regulation and redirection of national
+      wealth towards unworkable and/or vastly overpriced solutions to the needs of energy
+      and industry. When he joked during the 2016 electoral campaign saying “Marge,
+      please tell me if the wind is blowing this morning. I’d like to watch some television’
+      Donald Trump encapsulated the return of common sense.  Deregulation and application
+      of the rule of pragmatism to the task of reindustrialization have been the calling
+      cards of Trump’s domestic policies since he took office one year ago.  These same
+      principles were what Bart De Wever invoked in his speech last night in Antwerp.
+      To be sure, with typical Old World gallantry, De Wever tossed bouquets to EU Commission
+      President Ursula von der Leyen, who sat on the dais, calling out her ‘incessant
+      work’ and special efforts to conclude new and promising free trade agreements
+      opening up new markets to European industry. But without question his words about
+      the need for urgent action to implement the industrial recommendations of Draghi
+      and other consultants to the Commission which have been realized at less than
+      10% in the past year spoke volumes about the wrong-headed priorities of the Commission.
+      To be sure, De Wever is willfully ignoring the need for pragmatism in foreign
+      and defense policy if there is to be real progress in restoring the pillars of
+      the European economy that he mentioned at the outset of his speech. Nota bene
+      that his list of issues weighing negatively on the European chemical industry
+      that lost 10% of its capacity in the last year began with high energy costs .
+      And we all know the ‘why’ of those energy costs, namely the cut-off of cheap Russian
+      oil and gas that had heavily supported the competitiveness of the EU domestically
+      and on global markets for decades going back to the 1980s.  The logic of De Wever’s
+      words is to revisit the sanctions on Russia, to revisit the entire von der Leyen
+      policy of erasing Russia from the European map and to practice instead self-serving
+      common sense. ©Gilbert Doctorow, 2026'
+    one_sentence_summary: In a speech at the European Industry Summit 2026, Belgian
+      Prime Minister Bart De Wever positioned himself as a potential intellectual leader
+      for the EU, critiquing current authoritarian approaches to the Green Agenda while
+      highlighting a shared pragmatic philosophy with Donald Trump amidst contrasting
+      views on global trade.
+    paragraph_summary: In a significant address at the European Industry Summit 2026
+      in Antwerp, Belgian Prime Minister Bart De Wever positioned himself as a potential
+      intellectual leader for the EU, critiquing the current authoritarian approach
+      to the Green Agenda that he argues undermines industry and the broader economy.
+      While subtly criticizing Donald Trump and the MAGA philosophy for its divisive
+      trade strategies, De Wever highlighted a shared commitment to pragmatism, contrasting
+      it with the more theoretical mindset prevalent among European elites. He emphasized
+      the need for practical solutions to energy and industrial challenges, echoing
+      Trump's earlier rejection of the illogical aspects of the Green Agenda and advocating
+      for deregulation and a return to common sense in policy-making.
+    published: '2026-02-12T07:32:51+00:00'
+  - title: The commonalities between Europe’s road forward to reindustrialization and
+      Trump’s domestic policies
+    url: https://gilbertdoctorow.com/2026/02/12/the-commonalities-between-europes-road-forward-to-reindustrialization-and-trumps-domestic-policies/
+    text: 'In a remarkable speech yesterday to the European Industry Summit 2026 held
+      in Antwerp, Belgian Prime Minister Bart De Wever proved once again his role as
+      intellectual leader for the EU waiting in the wings to replace the ideologically
+      driven authoritarians today in power in the European Institutions who continue
+      to implement the Green Agenda talking points at the expense of industry and of
+      the broad economy on the Continent. Follow this link to his speech in English:
+      https://www.youtube.com/watch?v=KHlObAAYeuE Although De Wever indirectly took
+      swipes at Donald Trump and MAGA for its ‘winner take all’ approach to global trade
+      and global governance wherein there are only winners and losers versus the ‘win-win’
+      approaches of the EU, the commonality in thinking between Bart De Wever and Donald
+      Trump is undeniable and rests on one word and concept:  pragmatism. Pragmatism
+      was long ago the hidden strength of America in contrast to the very different,
+      over-intellectualized operating principles on the Continent and among American
+      elites.  Whereas the American of yore asked about a new concept ‘does it work
+      in practice?’ the average Frenchmen, by folklore, asked about a new invention
+      ‘does it work in theory?’ However, over past decades pragmatism fell victim to
+      various iterations of political correctness and was forgotten entirely among American
+      elites. It took the brash and seemingly inarticulate Donald J. Trump to reject
+      unhesitatingly and in clearest terms the illogic driving the Green Agenda that
+      had taken hold of legislators and brought over-regulation and redirection of national
+      wealth towards unworkable and/or vastly overpriced solutions to the needs of energy
+      and industry. When he joked during the 2016 electoral campaign saying “Marge,
+      please tell me if the wind is blowing this morning. I’d like to watch some television’
+      Donald Trump encapsulated the return of common sense.  Deregulation and application
+      of the rule of pragmatism to the task of reindustrialization have been the calling
+      cards of Trump’s domestic policies since he took office one year ago.  These same
+      principles were what Bart De Wever invoked in his speech last night in Antwerp.
+      To be sure, with typical Old World gallantry, De Wever tossed bouquets to EU Commission
+      President Ursula von der Leyen, who sat on the dais, calling out her ‘incessant
+      work’ and special efforts to conclude new and promising free trade agreements
+      opening up new markets to European industry. But without question his words about
+      the need for urgent action to implement the industrial recommendations of Draghi
+      and other consultants to the Commission which have been realized at less than
+      10% in the past year spoke volumes about the wrong-headed priorities of the Commission.
+      To be sure, De Wever is willfully ignoring the need for pragmatism in foreign
+      and defense policy if there is to be real progress in restoring the pillars of
+      the European economy that he mentioned at the outset of his speech. Nota bene
+      that his list of issues weighing negatively on the European chemical industry
+      that lost 10% of its capacity in the last year began with high energy costs .
+      And we all know the ‘why’ of those energy costs, namely the cut-off of cheap Russian
+      oil and gas that had heavily supported the competitiveness of the EU domestically
+      and on global markets for decades going back to the 1980s.  The logic of De Wever’s
+      words is to revisit the sanctions on Russia, to revisit the entire von der Leyen
+      policy of erasing Russia from the European map and to practice instead self-serving
+      common sense. ©Gilbert Doctorow, 2026'
+    one_sentence_summary: In a speech at the European Industry Summit 2026, Belgian
+      Prime Minister Bart De Wever positioned himself as a potential intellectual leader
+      for the EU, critiquing current authoritarian approaches to the Green Agenda while
+      highlighting a shared pragmatic philosophy with Donald Trump amidst contrasting
+      views on global trade.
+    paragraph_summary: In a significant address at the European Industry Summit 2026
+      in Antwerp, Belgian Prime Minister Bart De Wever positioned himself as a potential
+      intellectual leader for the EU, critiquing the current authoritarian approach
+      to the Green Agenda that he argues undermines industry and the broader economy.
+      While subtly criticizing Donald Trump and the MAGA philosophy for its divisive
+      trade strategies, De Wever highlighted a shared commitment to pragmatism, contrasting
+      it with the more theoretical mindset prevalent among European elites. He emphasized
+      the need for practical solutions to energy and industrial challenges, echoing
+      Trump's earlier rejection of the illogical aspects of the Green Agenda and advocating
+      for deregulation and a return to common sense in policy-making.
+    published: '2026-02-12T07:32:51+00:00'
+  - title: Judging Freedom edition of 11 February
+    url: https://gilbertdoctorow.com/2026/02/11/judging-freedom-edition-of-11-february/
+    text: 'Published by gilbertdoctorow
+
+
+      Gilbert Doctorow''s latest book, "War Diaries. The Russia-Ukraine War, 2022-2023"
+      is a unique contribution to literature on the war thanks to the author''s reports
+      on the Russian home front written during his periodic visits to St Petersburg
+      at a time when Russia no longer issued visas and nearly all Western journalists
+      had left the country. Doctorow''s two-volume "Memoirs of a Russianist" published
+      in 2020 also constitutes a category of its own, consisting largely of diary entries
+      rather than reminiscences written decades later.. Volume 2 focuses on the community
+      of 50,000 expatriate managers working and living in Moscow during the 1990s, about
+      which none of his peers has yet to write. Gilbert Doctorow is a professional Russia
+      watcher and actor in Russian affairs going back to 1965. He is a magna cum laude
+      graduate of Harvard College (1967), a past Fulbright scholar, and holder of a
+      Ph.D. with honors in history from Columbia University (1975). After completing
+      his studies, Mr. Doctorow pursued a business career focused on the USSR and Eastern
+      Europe. For twenty-five years he worked for US and European multinationals in
+      marketing and general management with regional responsibility. From 1998-2002,
+      Doctorow served as the Chairman of the Russian Booker Literary Prize in Moscow.
+      During the 2010-2011 academic year, he was a Visiting scholar of the Harriman
+      Institute, Columbia University. Mr. Doctorow is a long-time resident of Brussels.
+      View all posts by gilbertdoctorow'
+    one_sentence_summary: Gilbert Doctorow's book "War Diaries. The Russia-Ukraine War,
+      2022-2023" offers a distinctive perspective on the conflict through his firsthand
+      accounts from Russia during a time when Western journalists were largely absent,
+      complementing his earlier work on the expatriate community in Moscow during the
+      1990s.
+    paragraph_summary: Gilbert Doctorow's book, "War Diaries. The Russia-Ukraine War,
+      2022-2023," offers a distinctive perspective on the ongoing conflict through his
+      firsthand accounts from the Russian home front during a time when Western journalists
+      were largely absent due to visa restrictions. This work follows his previous two-volume
+      memoir, "Memoirs of a Russianist," which features diary entries reflecting on
+      his experiences in Russia, particularly the expatriate community in Moscow during
+      the 1990s. With a background as a professional observer of Russian affairs since
+      1965, Doctorow holds degrees from Harvard and Columbia University and has a rich
+      career in business and literary endeavors, including serving as Chairman of the
+      Russian Booker Literary Prize and as a Visiting Scholar at Columbia's Harriman
+      Institute. Now residing in Brussels, he continues to contribute to the discourse
+      on Russian affairs.
+    published: '2026-02-11T22:15:41+00:00'
   - title: Was Ukraine acting alone in the attempted assassination of General Alekseev?
     url: https://gilbertdoctorow.com/2026/02/09/was-ukraine-acting-alone-in-the-attempted-assassination-of-general-alekseev/
     text: This question comes up as from minute 22.56 in the podcast below recorded

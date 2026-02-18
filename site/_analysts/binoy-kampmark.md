@@ -7,16 +7,408 @@ description: "Cambridge–educated researcher at RMIT; writes widely on imperial
 websites:
   - https://counterpunch.org/author/jete6/
 summary: |
-  The past weeks have seen a series of revelations and policy shifts that continue to reshape the global geopolitical landscape. As the fallout from the release of Jeffrey Epstein’s correspondence reverberates, scrutiny intensifies on the complicity of elite networks, while ongoing disputes over sovereignty and international law—spanning from the Indian Ocean to Latin America—underscore the fragility of established norms.
+  Amidst a turbulent global landscape, recent developments highlight the interplay between political scandal, shifting alliances, and the growing influence of populist movements. The past 24 hours have seen significant attention on the unraveling of elite networks, the precarious state of international law, and the rise of outsider parties in established democracies.
   
-  The most recent disclosures, as analyzed by **Binoy Kampmark**, center on the millions of pages of Epstein-related documents. These reveal “a disturbing network of influential figures, including celebrities and royals,” who maintained relationships with Epstein despite his well-known criminal activities. The documents, Kampmark argues, expose not only personal moral failings but also a broader culture of impunity among the governing classes. This development is likely to fuel further investigations and public distrust in elite institutions. There is a high chance that more prominent names will be implicated, and “the reputational damage to Western elites is most definitely set to deepen,” according to Kampmark.
+  The ongoing fallout from the Jeffrey Epstein scandal continues to reverberate through political circles. New revelations have placed Lord Peter Mandelson under scrutiny for his correspondence with Epstein, prompting potential criminal inquiries into his conduct. As **Binoy Kampmark** observes, these disclosures are “unraveling reputations and sparking investigations,” with the potential to implicate further high-profile figures. The majority of analysts agree that the Epstein case is far from over, and its impact on elite credibility and public trust is set to deepen.
   
-  In the Indian Ocean, the UK-Mauritius agreement over the Chagos Islands remains fraught. While the deal was initially presented as a step towards resolving colonial injustices, **Kampmark** highlights the continued marginalization of the Chagossian people and the enduring strategic importance of Diego Garcia for the US military. The lack of meaningful consultation with the indigenous population and vocal opposition from figures like Donald Trump have cast doubt on the deal’s legitimacy. Given the entrenched interests of the US and UK, there is a high chance that the status quo will persist, with the Chagossians’ rights sidelined.
+  In Australia, the political landscape is experiencing a notable shift. The rise of Pauline Hanson’s One Nation party, as reported by **Binoy Kampmark**, is being fueled by the center-right Coalition’s ongoing struggles and the public’s growing skepticism toward mainstream polling. Kampmark warns that “the potential distortions and electoral interference caused by the polling industry” could further destabilize the political environment. There is a high chance that One Nation’s momentum will continue, especially as disillusionment with traditional parties grows.
   
-  Meanwhile, the legal and political fallout from the US abduction of former Venezuelan President Nicolás Maduro continues to unsettle international relations. Kampmark warns that this precedent “raises significant concerns among global leaders” about the erosion of sovereignty and the normalization of extraterritorial interventions. The muted response from US allies, who have largely validated the move, signals a troubling shift in the application of international law. There is a high chance that this will embolden further unilateral actions, particularly as tensions with states like North Korea escalate.
+  On the international front, Israel’s diplomatic efforts are facing resistance. The planned visit of President Isaac Herzog to Australia has encountered legal challenges and public opposition, with allegations of incitement to genocide and war crimes prompting calls for his entry to be barred. According to **Binoy Kampmark**, this episode underscores “significant legal challenges and public opposition,” reflecting a broader trend of increased scrutiny on state actors accused of human rights violations.
   
-  Trends suggest a growing crisis of legitimacy for Western institutions, as elite impunity, disregard for international norms, and the marginalization of vulnerable populations become increasingly visible. Looking ahead, it is most definite that public skepticism and geopolitical friction will intensify unless substantive reforms and accountability measures are enacted.
+  Looking ahead, the majority of analysts predict with high confidence that political scandals involving elite networks will continue to surface, further eroding public trust in established institutions. The rise of populist and outsider parties, particularly in Australia, is most definitely set to reshape electoral dynamics in the near term. Meanwhile, diplomatic engagements by controversial leaders are likely to provoke legal and public challenges, signaling a period of heightened accountability and contestation on the world stage.
 articles:
+  - title: 'Soothsaying and the Sampling Referendum: The Heralded Rise of One Nation'
+    url: https://www.counterpunch.org/2026/02/11/soothsaying-and-the-sampling-referendum-the-heralded-rise-of-one-nation/
+    text: 'Nominal realities bedevil politics. They usually find form in polling statistics,
+      airings in the land of pundits and those self-appointed wise people who think
+      they have a measure of the electorate and its various wishes. Folly often follows,
+      garlanded with errors of judgment and failed predictions: Brexit and Donald Trump’s
+      election in 2016; Trump’s re-election in 2024. The list is wearisomely long, the
+      electorate often inscrutable. Yet the pollsters always live another day, at large
+      and unpunished.
+
+
+      In Australia, the cathedral of commentators and psephologists is expressing interest
+      at the emergence of a new horse from the political stable. Not a thoroughbred,
+      mind you. More of a nag, a persistent presence that took form when Pauline Hanson
+      gave her unsteady if clear maiden speech in the House of Representatives on September
+      10, 1996.
+
+
+      The theme then, as now, was being alarmist with appeal, a ragbag of heartfelt
+      concerns largely regarding immigration, the dangers of multiculturalism, the loss
+      of local industries to foreign ownership, the gravy train of international organisations,
+      and the supposed privileging of the Indigenous population. “Present governments
+      are encouraging separatism in Australia by providing opportunities, land, moneys
+      and facilities available to Aboriginals.” For the freshly elected Member for Oxley,
+      a disadvantaged Aboriginal was a museum piece, an intrusive relic. As for immigrants,
+      she felt no problem echoing the views of former Labor leader Arthur Calwell about
+      keeping the swarthy and yellow races out. Multiculturalism as a policy needed
+      to be abolished. “I believe,” she said with shrill conviction, “we are in danger
+      of being swamped by Asians.”
+
+
+      Many of the views of Pauline Hanson’s One Nation were slyly and ruthlessly incorporated
+      by the conservative government of John Howard. In the 1980s, he had himself played
+      the anti-multicultural, anti-Asian immigration card as a failed opposition leader.
+      His avenging successes from 1996 to 2006 turned Australia into a Hansonian simulacrum
+      of suspicion and envy, softening her rough messages by adding sparkle to the prejudice.
+      It was never the authentic Hanson, but it became appropriate, sensible and necessary
+      – at least for his political survival and belief in Comfortable Australia – to
+      demonise undocumented boat arrivals, refugees and asylum seekers, imprisoning
+      them in mind withering dungeons in the Pacific paid for by the Australian Treasury
+      at enormous cost.
+
+
+      Despite this purloining of its sentiments (Hanson has views and little by way
+      of programs), One Nation survived, a place to park votes of simmering grievance,
+      and a forum for those who simply wanted to give Hanson what Australians call a
+      “fair go”. It also survived despite many of its elected representatives at both
+      State and Federal level failing to serve their full term without defecting to
+      other parties or becoming roguish independents. Hanson is notoriously incapable
+      of keeping the family together.
+
+
+      In 2026, survival is now becoming a burgeoning promise. The pollsters think they
+      are on to something. A national Newspoll covering February 5-8, sampling 1,234,
+      placed Labor at 33% of the primary vote, One Nation at 27%, the Coalition at 18%,
+      the Greens at 12%, and other parties at 10%. For the Coalition, which previously
+      held government from 2013 to 2022, this was particularly galling.
+
+
+      A poll by the Redbridge Group had similar results: One Nation at 26% and the Coalition
+      at 19%. Among the “gen X” cohort (46-61 year olds), One Nation was viewed “very
+      favourably” or “most favourably” by 48% while 30% of millennials (30-45 year olds)
+      expressed the same view. In the week of January 26 – February 1, 2026, the Roy
+      Morgan Poll covering 1,401 electors showed One Nation polling at 25%, with support
+      for the Liberals dropping to 18%, with the Nationals steady at 2.5% (a Coalition
+      total of 20.5%).
+
+
+      While all the polls show that Albanese’s Labor government would be returned comfortably
+      were an election to be held now, that very finding has been eclipsed by the excitable
+      commentary on Hanson and her party. One could almost be forgiven for thinking
+      a coup was in the works, heavily gestating. Prime Minister Anthony Albanese, wrote
+      veteran columnist Phillip Coorey for The Australian Financial Review, “has taken
+      a sharp hit in his personal ratings, while Hanson is now the most popular political
+      leader in Australia.” Redbridge poll director Tony Barry added that the Liberal
+      and National parties could see their vote share plummet further, admitting that
+      he could not be sure “how much One Nation’s vote is protest or power. But if the
+      Liberal and National parties keep accumulating scar tissue and don’t change the
+      story arc, it might be unsalvageable.”
+
+
+      There is hardly any surprise that a right-wing political force flavoured by the
+      mantra of common sense, earthy feeling and resentment should be doing better when
+      the centre-right Coalition is nowhere to be seen. Acrimony is the unwanted offspring
+      of a failing relationship, and the Liberals and Nationals have struggled to maintain
+      their union since their calamitous defeat in May 2025. Two brief periods of acrimonious
+      separation have followed, marked by testy disagreement over legislation on gun
+      control and free speech. As they bicker, surveyed electors are unimpressed and
+      bored.
+
+
+      Polls, with their unpardonably vague formulations of “most” or “very” favourable
+      intention towards a party, are largely worthless as a measure of electoral grunt.
+      It’s a cliché to point out that the only poll that matters is the one that involves
+      ballots at the ballot box. Short of that, everything else is a drain of unnecessary
+      oxygen. But fanning One Nation’s rise and assuming an oracular position on its
+      prospects shows the dangers posed by the polling industry, itself never an entirely
+      neutral force.
+
+
+      An argument can even be made that such an industry is itself a force for electoral
+      interference, a meddling distortion that reduces the complexity of an electorate
+      to a curating measure warped and framed by the questions asked. The late Christopher
+      Hitchens, writing in Harper’s Magazine (April 1992), was firm on this point, taking
+      issue with questions that put “a firm, no-exceptions, yes-or-no proposition to
+      the interviewee.” Polling was a vehicle for pursuing a consensus to be exploited
+      by the professional political class. “In alliance with the new breed of handlers,
+      fundraisers, spin-specialists, and courtier journalists, it has become both a
+      dangerous tranquiliser and artificial stimulant.”
+
+
+      Be wary, the lesson goes, of what that legendary huckster of polling George Gallup
+      called the “sampling referendum”, a means of testing the electoral temperature
+      and mood in a great room falsely resembling a town meeting.'
+    one_sentence_summary: The article critiques the reliability of polling statistics
+      in politics, highlighting the rise of Pauline Hanson's One Nation party in Australia
+      amidst a struggling center-right Coalition, and warns of the potential distortions
+      and electoral interference caused by the polling industry.
+    paragraph_summary: The article discusses the complexities and pitfalls of political
+      polling, particularly in the context of Australia, where the rise of Pauline Hanson’s
+      One Nation party has garnered significant attention. It highlights the historical
+      roots of Hanson’s views, which echo anti-immigration sentiments and skepticism
+      towards multiculturalism, and notes how these sentiments have been co-opted by
+      the conservative government of John Howard. Recent polling data indicates a surge
+      in support for One Nation, with figures suggesting it could rival the traditional
+      parties, particularly as the Coalition struggles to maintain unity and relevance
+      after its defeat in 2025. The article critiques the polling industry for its potential
+      to distort public perception and influence electoral outcomes, arguing that polls
+      often oversimplify complex voter sentiments and can serve as tools for political
+      manipulation rather than accurate reflections of the electorate's true preferences.
+    published: '2026-02-11T06:51:10+00:00'
+  - title: 'Lord Mandelson: Trapped in the Epstein Web'
+    url: https://www.counterpunch.org/2026/02/09/lord-mandelson-trapped-in-the-epstein-web/
+    text: 'Jeffrey Epstein certainly got around. He moved virally, galloping through
+      the cells of the establishment. What was more, he was permitted to. Dead and buried,
+      the financier, convicted paedophile, sex trafficker, eugenics follower, and the
+      man all in power would want to know, continues to ruin reputations, casting doubt
+      on many relationships, and stirring investigations into his correspondents.
+
+
+      Much of this damage is emanating from that noxious font of revelation, despair
+      and disgrace hosted by the US Department of Justice, entitled the Epstein Library.
+      As a result of these 3.5 million files or so, Noam Chomsky, saint of the progressive
+      Left, may well find himself the poorer for his foolish correspondence sneering
+      at “the hysteria that has developed about abuse of women”. Former US President
+      Bill Clinton and his wife and former Secretary of State Hillary Clinton have agreed
+      to do filmed depositions for the House Committee on Oversight and Governance Reform.
+      And in Britain, Lord Peter Mandelson, immodestly seeing himself as the creator
+      of New Labour, finds himself facing potential criminal investigations in the UK
+      and the European Union.
+
+
+      Mandelson’s case is particularly dire. Here was a person who had already lost
+      his job in the cabinet twice over issues involving matters of money and the wealthy.
+      In 1998, he resigned as trade and industry secretary after obtaining a loan of
+      £373,000 from the Paymaster General, Geoffrey Robinson, to purchase a house. In
+      2001, he fell foul over a passport application from Indian billionaire Srichand
+      Hinduja who had pledged £1m in sponsorship for the Millenium Dome project when
+      Mandelson was in charge.
+
+
+      Despite a heavily blotted copybook, Mandelson still secured the confidence of
+      Prime Minister Sir Keir Starmer to be appointed ambassador to Washington in anticipation
+      of the second Trump administration. The association between Mandelson and the
+      late Epstein was already known, making the appointment dangerous in the extreme.
+      The publication of certain emails revealing the continuing friendship post-conviction
+      doomed yet another job.
+
+
+      The extent of that association is now becoming even more apparent. Now notorious
+      for being a convicted paedophile, Epstein was receiving updates from Mandelson
+      following the 2010 general election. (Mandelson had been politically revived as
+      business secretary.) Seeing his hold on power slide, Prime Minister Gordon Brown
+      was trying to secure a coalition with the Liberal Democrats. “GB now having ‘secret’
+      talks with [Lib Dem leader Nick] Clegg in Foreign Office,” Mandelson informs Epstein
+      on May 9. On May 10, he again updates Epstein: “Finally got him to go today.”
+
+
+      Within hours Brown announced that he would be resigning as Labour leader but continuing
+      as prime minister, a precondition demanded by Clegg in holding coalition talks.
+      These came to naught, with Lib Dem leader preferring to share power with the Conservatives
+      of David Cameron. But throughout, the Mandelson-Epstein exchanges take place,
+      with the financier more than happy to offer morsels of wisdom. In one instance,
+      Epstein suggests that the Liberal Democrat-Labour coalition would comprise “15m
+      v 10 million votes”. This is then followed by another suggestion: “[W]hy not let
+      tories govern with minority, no coalition”. In doing so, they would be unable
+      to get “anything done”. Mandelson replies that this was unlikely “cos GB thinks
+      British economy will collapse without [him] at helm.”
+
+
+      Epstein also proffers his view about Brown’s credibility as a continuing prime
+      minister, informed by a certain “jess”. Supporting the Labour leader “will be
+      seen as bad form commercially, he has lost the confidence of the public.” The
+      views of investment bank JP Morgan are also given, they being “very concerned
+      that the pound could be the next currency to falter. and big time. uncertainty
+      not in your favour”.
+
+
+      Epstein also received what appears to be advanced notice of a 500 billion euro
+      bailout intended to save the euro as the Greek economy was imploding. European
+      finance ministers had rapidly concluded that the bailout was necessary to contain
+      financial contagion in the eurozone. The night prior to the deal’s conclusion,
+      the financier badgers Mandelson: “Sources tell me 500 b euro bailout, almost complete.”
+      The reply: “Sd be announced tonight.” Mandelson promised to call after leaving
+      10 Downing Street.
+
+
+      The previous year, Mandelson had gleefully informed Epstein about asset sales
+      and tax changes being considered by the Brown government. That conduct, and the
+      broader disposition of Mandelson as business secretary to Epstein, has led the
+      Metropolitan Police to commence an investigation. “Following this release and
+      subsequent media reporting,” Metropolitan Police Commander Ella Marriot stated,
+      “the Met has received a number of reports relating to alleged misconduct in public
+      office. The reports will be reviewed to determine if they meet the criminal threshold
+      for investigation.”
+
+
+      On February 3, Balazs Ujvari, a spokesperson of the European Commission, also
+      revealed interest in investigating potential breaches, considering Mandelson’s
+      time as European Commissioner for Trade. “We have rules in place emanating from
+      the treaty and the code of conduct that commissioners, including former commissioners,
+      have to follow.”
+
+
+      Epstein’s web is looking increasingly, and alarmingly, expansive. Not only did
+      the wily, persuasive man of advice slither his way into the confidence of the
+      governing classes, he invited the easy betrayal of secrets. He was not only a
+      conduit for young flesh and pleasures, but for classified information.
+
+
+      Being the Prince of Darkness, Mandelson has always managed some form of reputational
+      reincarnation. This time, a stake has been taken to him. Let us hope it stays
+      there, lodged for posterity. As for the party he represents, and the daft Prime
+      Minister who made him ambassador to Washington, the die may well have been cast.
+      What the Profumo affair did for the Macmillan government in the early 1960s Mandelson
+      risks doing to Starmer’s in 2026.'
+    one_sentence_summary: Jeffrey Epstein's extensive connections within the political
+      elite continue to unravel reputations and spark investigations, particularly focusing
+      on Lord Peter Mandelson's questionable correspondence with Epstein, which has
+      led to potential criminal inquiries into Mandelson's conduct during his political
+      career.
+    paragraph_summary: The article discusses the ongoing fallout from Jeffrey Epstein's
+      connections with powerful figures, particularly focusing on Lord Peter Mandelson,
+      a prominent British politician. Despite his troubled past, including resignations
+      over financial scandals, Mandelson's association with Epstein has resurfaced following
+      the release of documents from the Epstein Library, which contains millions of
+      files revealing his communications with Epstein. These exchanges included political
+      insights and insider information, raising concerns about potential misconduct
+      and prompting investigations by the Metropolitan Police and the European Commission.
+      The implications of this scandal could jeopardize Mandelson's reputation and the
+      political standing of current Labour leader Sir Keir Starmer, drawing parallels
+      to past political scandals like the Profumo affair.
+    published: '2026-02-09T06:51:16+00:00'
+  - title: 'Precarious Invitations: Israel’s President Isaac Herzog’s Visit to Australia'
+    url: https://www.counterpunch.org/2026/02/06/precarious-invitations-israels-president-isaac-herzogs-visit-to-australia/
+    text: 'Things are getting rather ropey on the invitation of Israeli President Isaac
+      Herzog to visit Australia on February 8. It came amidst the anguish following
+      the Bondi Beach attacks of December 14, 2025 on attendees of a Hanukkah event
+      by two gunmen, leaving 15 dead. Australian Prime Minister Anthony Albanese obviously
+      thought it a sensible measure at the time. For months, his government has been
+      snarled at by Israeli Prime Minister Benjamin Netanyahu for providing succour
+      to antisemitism. The wretched thesis: that Australia’s recognition of a Palestinian
+      State at September’s UN General Assembly meeting somehow stirred it.
+
+
+      Albanese had thought dealing with the gargoyle of antisemitism and engendering
+      good will could be achieved by inviting Herzog. “We need to build social cohesion
+      in this country,” he insists. The Australia/Israel Jewish Affairs Council (AIJAC)
+      also thought the invitation sound, sending “a powerful message of solidarity and
+      support … following the tragic events at Bondi and the surge of antisemitism across
+      the country”.
+
+
+      These claims of fluffy approval ignore the serious and blindingly obvious prospect
+      that legal grounds might arise regarding Herzog’s visit, not to mention the public
+      protest and agitation it will cause. Australia, being a party both to the UN Genocide
+      Convention and the Rome Statute which establishes the International Criminal Court,
+      must always be wary about the injunctions of membership. A determined opposition,
+      armed with legal arguments and indignation, has shown itself keen on foiling the
+      visit.
+
+
+      On January 30, the Hind Rajab Foundation (HRF), the Jewish Council of Australia,
+      and the Australian National Imams Council (ANIC), announced that a joint legal
+      complaint to have Herzog arrested or barred from entering Australia had been sent
+      to the Australian Attorney-General Michelle Rowland, Home Affairs Minister Tony
+      Burke and the Australian Federal Police (AFP). As Netanyahu would be unlikely
+      to visit Australia without discomfort, given an arrest warrant issued by the International
+      Criminal Court, the complaint asserted that as “the Prime Minister of Israel is
+      not permitted to visit Australia, the President should not be allowed to act as
+      his surrogate.”
+
+
+      The complaint implores the Australian authorities to do any of three things: refuse
+      or cancel any visa held by Herzog under the Migration Act 1958 (Cth), which covers
+      character and public interest grounds; refer him to the AFP for investigation
+      under the Criminal Code Act 1995 (Cth), the Geneva Conventions Act 1957 (Cth)
+      and Australian hate crime legislation; and ensure Australia’s compliance with
+      international obligations to investigate and prosecute who enter the country who
+      are reasonably suspected of committing serious international crimes.
+
+
+      In their body of evidence, the group cites the President’s “Entire Nation” declaration
+      of October 2023 claiming that no civilians in Gaza were “uninvolved” in that month’s
+      attack on Israel by Hamas; the grotesque denials of famine in August 2025, suggesting
+      that images of chronic starvation featuring Palestinian children had been “staged”;
+      and the broader endorsement of military operations entailing the commission of
+      war crimes. Reference in the complaint is made to a December 2023 visit by Herzog
+      to the Nahal Oz military base where he provided encouragement to troops two days
+      before their “wanton destruction” and “flattening” of the town of Khuza’a in Khan
+      Yunis.
+
+
+      The complaint also rejects any application of Head of State immunity, citing the
+      Nuremberg Principles and international law as removing that shield when it comes
+      to the commission of such grave offences as genocide and war crimes.
+
+
+      The complaint is certainly accurate in drawing attention to Herzog’s incitements
+      to collectively punish an apparently complicit populace in Gaza. South Africa’s
+      filing of proceedings against Israel in the International Court of Justice alleging
+      acts of genocide in Gaza cites his remarks from October 12, 2023: “It’s an entire
+      nation out there that is responsible. It’s not true this rhetoric about civilians
+      not aware, not involved. It’s absolutely not true… and we will fight until we
+      break their backbone.” The submission also notes a social media post by Herzog
+      showing him addressing reservists and writing messages on bombs destined to be
+      used on Palestinians.
+
+
+      The September 2025 analysis by the UN Independent International Commission of
+      Inquiry on the occupied Palestinian territory, including East Jerusalem, and Israel,
+      which found Israel’s conduct in Gaza after October 7, 2023 to be genocidal in
+      nature, also references Herzog’s October 12, 2023 remark, further adding those
+      words of blame that Gazans “could have risen up”. In the Commission’s view, the
+      President had damned Palestinians to equal responsibility for the attacks on Israel
+      on October 7 that year. Such a statement, along with those of similar kidney made
+      by Israeli Prime Minister Benjamin Netanyahu and then Israeli Defence Minister
+      Yoav Gallant, constituted “direct and public incitement to commit genocide” under
+      the Genocide Convention.
+
+
+      AFP Commissioner Krissy Barrett has also been reminded in a submission by the
+      Australian Centre for International Justice, along with two Palestinian non-government
+      human rights organisations, the West Bank-based Al-Haq and the Gaza-based Al Mezan
+      Center for Human Rights, that Australia has obligations to investigate “credible
+      allegations of serious international crimes” and has domestic laws permitting
+      “the initiation of an investigation” into their commission. Even if immunity was
+      enlivened for the Israeli President, it would not prevent the AFP “from undertaking
+      preliminary investigative steps, including seeking a voluntary interview with
+      Herzog upon his arrival to Australia.”
+
+
+      The AFP states that Division 268 of the Criminal Code Act grants the Commonwealth
+      “jurisdiction to investigate core international crimes that occur offshore. However,
+      it is not usually practical for the AFP to do so.” With something of a shrug,
+      the AFP would rather that the country where such alleged offences had taken place
+      pursue the matter. (What a rosy convenience that would be.) Investigating such
+      crimes would also pose problems, among them evidentiary matters regarding location,
+      identifying and locating witnesses, the occurrence of crimes in an ongoing conflict,
+      the unwillingness of foreign governments to assist.
+
+
+      Australian lawmakers have also shown themselves reluctant to block the visit.
+      The waters were tested in an attempt by the Greens Senator David Shoebridge on
+      February 3 to suspend standing orders to move a motion seeking the government’s
+      rescinding of Herzog’s invitation. “When someone is accused by the United Nations
+      of inciting genocide, you don’t invite them for tea, you don’t give them a platform,
+      and you certainly don’t welcome them as a guest of honour.”
+
+
+      His effort was thwarted by a large Senate majority. At this point, Herzog’s five-day
+      visit, with all its combustible precariousness and legal freight, is scheduled
+      to take place. A citizen’s arrest might be in order.'
+    one_sentence_summary: Israeli President Isaac Herzog's upcoming visit to Australia
+      on February 8 is facing significant legal challenges and public opposition due
+      to allegations of incitement to genocide and war crimes, following a joint complaint
+      from various organizations urging the Australian government to bar his entry.
+    paragraph_summary: The invitation extended to Israeli President Isaac Herzog to
+      visit Australia on February 8, 2026, has sparked significant controversy and legal
+      challenges following the Bondi Beach attacks that left 15 dead. Australian Prime
+      Minister Anthony Albanese initially believed the visit would help combat rising
+      antisemitism, particularly after criticism from Israeli Prime Minister Benjamin
+      Netanyahu regarding Australia's recognition of a Palestinian state. However, a
+      coalition of organizations, including the Hind Rajab Foundation and the Australian
+      National Imams Council, has filed a legal complaint seeking to bar Herzog from
+      entering Australia, citing his statements and actions that allegedly incite genocide
+      and war crimes. They argue that Herzog should not benefit from head of state immunity
+      due to the severity of the accusations against him. Despite these challenges,
+      including a failed motion in the Senate to rescind the invitation, Herzog's visit
+      remains scheduled, raising concerns about public protests and potential legal
+      ramifications.
+    published: '2026-02-06T06:51:26+00:00'
   - title: 'Hedonism’s Dance: How the Governing Classes Fell for Jeffrey Epstein'
     url: https://www.counterpunch.org/2026/02/04/hedonisms-dance-how-the-governing-classes-fell-for-jeffrey-epstein/
     text: 'How did he generate so much paperwork, traffic and comment? New York financier,

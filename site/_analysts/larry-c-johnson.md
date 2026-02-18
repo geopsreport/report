@@ -7,14 +7,2484 @@ description: "Former CIA analyst & State Dept counterterrorism official; runs So
 websites:
   - https://sonar21.com
 summary: |
-  Amid ongoing geopolitical turbulence, recent statements from Russian Foreign Minister Sergei Lavrov have sharpened the tone of Moscow’s diplomatic posture. In the wake of the New START Treaty’s expiration, Lavrov has publicly blamed NATO for the Ukraine conflict and criticized the trajectory of negotiations with the United States, arguing that talks are “moving in the wrong direction.” As **Larry C. Johnson** reports, Lavrov’s remarks underscore Russia’s commitment to a multipolar world order and its insistence on new security arrangements, particularly in the nuclear arms control sphere.
+  Amid escalating tensions in the Middle East and persistent instability in Eastern Europe, recent independent analysis highlights new dimensions in US-Iran relations, the fallout from elite scandals in the US, and the ongoing energy crisis in Ukraine.
   
-  This hardening stance comes as Russia’s trust in the United States continues to erode. Lavrov’s skepticism regarding future economic relations and his accusation that Washington is undermining previous agreements—especially those reached during the Trump-Putin summit—signal a deepening diplomatic rift. The majority of analysts agree that the prospects for a meaningful reset in US-Russia relations are increasingly remote.
+  The most significant new development concerns the intensification of US information operations targeting Iran. According to **Larry C. Johnson**, the US military and intelligence community are actively engaged in "Operational Preparation of the Environment" (OPE) to lay the groundwork for regime change in Tehran. This campaign, Johnson reports, leverages organizations like GAMAAN and tools such as the Psiphon VPN to shape international perceptions—specifically, to amplify the narrative that the majority of Iranians oppose the Islamic Republic. Johnson points out that these efforts are not simply about gathering intelligence but are designed to influence both foreign and domestic audiences, potentially paving the way for escalated intervention.
   
-  On the domestic front, concerns over freedom of expression are mounting. **Larry C. Johnson** highlights the weaponization of the term “conspiracy theory” in Western political discourse, arguing that it is now routinely used to stifle debate and shift the burden of proof onto dissenters. This trend, discussed in recent interviews with figures like Patrik Baab and Peter Hanseler, is seen as a significant threat to public accountability and democratic norms.
+  Meanwhile, the release of the so-called "Epstein Files" continues to reverberate through US political circles. Johnson notes the public's fascination with the downfall of high-profile figures such as Donald Trump and Jeffrey Epstein, emphasizing the contradictory behavior of Trump as he attempts to deflect attention from the scandal. This development is fueling further scrutiny of elite networks and their influence on policy and public opinion.
   
-  Looking ahead, the prevailing trend is one of escalating mistrust and polarization between major powers, with Russia and China consolidating their partnership as a counterweight to US influence. Based on current trajectories, I guarantee that arms control negotiations will remain stalled, and that the information environment in the West will grow more restrictive. The likelihood of a diplomatic breakthrough in US-Russia relations is exceedingly low, while the global order will continue to fragment along multipolar lines.
+  On the Eastern European front, the humanitarian situation in Ukraine remains dire. Johnson previously documented the severe damage to Ukraine’s energy infrastructure, resulting in widespread shortages of gas and electricity. With winter conditions persisting, many residents are left without adequate heating, exacerbating the crisis and raising concerns about long-term stability in the region.
+  
+  **Trends and Predictions:**  
+  The US is likely to intensify its information and psychological operations against Iran in the coming weeks, with a high chance these efforts will be coupled with diplomatic and possibly covert actions aimed at destabilizing the regime. The ongoing exposure of elite scandals in the US is expected to sustain public distrust in major institutions, though direct policy consequences remain uncertain. In Ukraine, the energy crisis shows no signs of abating, and Johnson asserts with high confidence that the humanitarian situation will deteriorate further unless there is a significant shift in international support or a de-escalation of hostilities.
+  
+  Overall, the geopolitical environment remains volatile, with information warfare, elite scandals, and humanitarian crises shaping the global landscape. I guarantee that these issues will continue to dominate headlines and policy debates in the immediate future.
 articles:
+  - title: Peeling Back the US Information Operation in Iran
+    url: https://sonar21.com/peeling-back-the-us-information-operation-in-iran/
+    text: 'As part of the US campaign to engineer a regime change in Iran, the US military
+      and intelligence community are using Operational Preparation of the Environmnet
+      aka OPE. OPE is defined in joint publications (e.g., JP 3-05 Special Operations)
+      as non-intelligence activities conducted prior to or in preparation for potential
+      military operations to set conditions for success. It encompasses shaping the
+      operational environment through intelligence, surveillance, reconnaissance, information
+      operations, civil affairs, psychological operations, and other preparatory actions—often
+      in denied or politically sensitive areas. I believe that one of the major OPE
+      efforts is to convince the US public that the overwhelming majority of Iranians
+      despise the Islamic Republic and want it overthrown. In my opinion, a major player
+      in this OPE is a polling outfit known as GAMAAN . GAMAAN (Group for Analyzing
+      and Measuring Attitudes in Iran) collaborates with Psiphon VPN , which is widely
+      used across Iran. GAMAAN findings have been consistent in painting a picture of
+      massive opposition to the Iranian regime: According to GAMAAN polls taken prior
+      to 2025, a significant majority of Iranians — around 70% — oppose the continuation
+      of the Islamic Republic. The highest level of opposition, 81%, occurred during
+      the “Woman, Life, Freedom” uprising in late 2022. Support for “the principles
+      of the Islamic revolution and the Supreme Leader” has decreased from 18% in 2022
+      to 11% in 2024. Opposition to the Islamic Republic is higher among the youth,
+      urban residents, and the highly educated. An overwhelming majority of Iranians
+      (89%) support democracy. Gamaan Only about 20% of Iranians support the continuation
+      of the Islamic Republic. When asked about preferred alternatives, about 26% favor
+      a secular republic and around 21% support a monarchy. For 11%, the specific form
+      of the alternative system doesn’t matter. About 22% report lacking sufficient
+      information to choose an alternative system. But what are the funding sources
+      for GAMAAN and Psiphon VPN ? Let’s start with GAMAAN . GAMAAN describes itself
+      as an independent, non-profit research foundation registered in the Netherlands.
+      It emphasizes its academic credentials (e.g., founded by scholars at Dutch universities
+      like Tilburg and Utrecht) and innovative online methods (e.g., anonymity sampling
+      via VPNs like Psiphon) to overcome self-censorship in authoritarian contexts.
+      GAMAAN operates under the supervision of a board including Dr. Ammar Maleki (founder
+      and director), assistant professor of comparative politics at Tilburg University,
+      and Dr. Pooyan Tamimi Arab, associate professor of secular and religious studies
+      at Utrecht University. Maleki is an assistant professor of Comparative Politics
+      and a self-described activist for democracy in his native Iran. Tilburg University
+      Critically, he does not hide his political stance — his Tilburg University profile
+      explicitly states that he is “a pro-democracy activist and political analyst of
+      Iranian politics” and that he tries “to have an impact on political debates around
+      democratization of Iran.” This is where the picture becomes more contested. GAMAAN
+      has relied on US government-funded VPN provider Psiphon to disseminate its surveys;
+      collaborated with the USAID -funded Tony Blair Institute; and collaborated with
+      and received funding from historian Ladan Boroumand, co-founder of the Abdorrahman
+      Boroumand Center for Human Rights in Iran, which is in turn supported by the US
+      government-funded National Endowment for Democracy (NED). Psiphon is owned and
+      operated by Psiphon Inc. , a Canadian corporation based in Ontario. Psiphon was
+      originally developed by the Citizen Lab at the University of Toronto, with version
+      1.0 launching on December 1, 2006, as open-source software. In early 2007, Psiphon,
+      Inc. was established as a Canadian corporation independent of the Citizen Lab
+      and the University of Toronto. It has a notable funding history. In 2008, Psiphon,
+      Inc. was awarded sub-grants from the US State Department Internet Freedom program,
+      administered by the Bureau of Democracy, Human Rights, and Labor. In 2010, Psiphon
+      began providing services to the Broadcasting Board of Governors (US), the US Department
+      of State, and the BBC. More recently, in April 2024, the Open Technology Fund
+      (OTF) announced increased long-term funding for Psiphon , with subsequent OTF
+      awards totaling US$18.54 million for 2024 and US$5.87 million for 2025. The Open
+      Technology Fund (OTF) is administered by the US Agency for Global Media (USAGM),
+      an independent federal agency of the US government. USAGM provides OTF with its
+      primary funding through annual grants, which originate from Congressional appropriations
+      under the Department of State, Foreign Operations, and Related Programs budget.
+      OTF operates as an independent nonprofit corporation (since 2019) but remains
+      a grantee under USAGM’s oversight and governance, as authorized by Congress (e.g.,
+      via the 2021 National Defense Authorization Act). So while Psiphon Inc. is technically
+      an independent Canadian company, it has historically been substantially funded
+      by the US government and other Western institutions — a fact worth noting given
+      its role as the methodology partner for the GAMAAN polling inside Iran. In other
+      words, it is a cut out that, in my opinion and based on my experience, is supporting
+      a CIA information operation to portray Iran as a country on the precipice of overthrowing
+      the Islamic Republic. There is an alternative polling database that paints a radically
+      different picture of the mood in Iran with respect to the Islamic Republic… The
+      Center for International and Security Studies at Maryland has conducted a separate
+      series of surveys using phone-based methods, which show more moderate results.
+      Their findings from 2023 and 2024 found that about 75% of respondents expect Iran’s
+      constitution and political system to be about the same in ten years, and only
+      17% agreed with protesters’ calls for the Islamic Republic to be replaced. However,
+      three in five now think the government should not be strict in enforcing Islamic
+      laws, distinctly up from 2018, and support for demands that the government fight
+      corruption has been consistently near-unanimous since 2018. On the protests themselves,
+      asked in 2024 to think about waves of demonstrations over the past ten years,
+      two thirds say their main objective was to demand that officials pay greater attention
+      to people’s problems, while only one in five think their main objective was to
+      demand greater freedoms or bring about change in Iran’s system of government.
+      President Pezeshkian, based on the polls from 2024, was viewed favorably by 66%
+      of those polled at the start of his term… and 70% expressed confidence that he
+      would be an honest and trustworthy president, though only a quarter were very
+      confident. Majorities expressed some confidence that he can improve relations
+      with neighboring countries and protect citizens’ freedoms, notably women’s rights,
+      but majorities are not confident that he can lower inflation or improve relations
+      with the West. There have been no new polls in the wake of Israel’s surprise attack
+      on June 13, 2025. Based on my conversations with both Nima and Professor Marandi,
+      the reaction in Iran has been similar to what happened in the United States in
+      the aftermath of the 9-11 attacks… National unity increased. The failed color
+      revolution launched on December 28, 2025 by the United States and Israel has reinforced
+      support for the Islamic Republic. President Pezeshkian has openly admitted his
+      government’s failures on the economic front and he has taken some steps to institute
+      reforms. A more important development was the signing of the Trilateral Security
+      Agreement with Russia and China at the end of January. Those two countries are
+      now providing more resources and support to stabilize the Iranian government and
+      improve the economic lives of the Iranian people. Donald Trump’s threats to attack
+      Iran are backfiring among the majority of the population in Iran. Yes, there are
+      some Iranians who still want to bring an end to the Islamic Republic, but they
+      are dramatically outnumbered. Remember the boost in popularity that George W Bush
+      enjoyed in the aftermath of 9-11? He even picked up support from Democrats who
+      had previously despised him. That same phenomena has happened in Iran. Prior to
+      the June 13, 2025 attack, Iranians under the age of 50 had no vivid memory of
+      Iran/Iraq war — where Iran was attacked with the encouragement and support of
+      the United States. The June 2025 attack, coupled with the foreign instigated late
+      December 2025 protests and violence, have awakened a new sense of nationalism
+      among the Iranian public that has strengthened support for the Islamic Republic.
+      The belief in the West that Iran is more vulnerable now than at anytime in the
+      last 46 years is the creation of a US funded propaganda campaign that relied on
+      an ideologically biased pollster to produce results that have been used to convince
+      most Americans that Iran is yearning to breath free… All we have to do is kill
+      off the leadership in Iran. I was interviewed late on Monday by Ed DeMarche of
+      the Trends Journal … We talked about prospects for a war with Iran: And, adhering
+      to my Tuesday routine, I chatted with my Itallian Brazilian friend, Marcello:
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article discusses how the US military and intelligence
+      are employing Operational Preparation of the Environment (OPE) to facilitate regime
+      change in Iran, particularly through efforts to shape public perception that most
+      Iranians oppose the Islamic Republic, with a key role played by the polling organization
+      GAMAAN and its collaboration with Psiphon VPN.
+    paragraph_summary: The article discusses the U.S. military and intelligence community's
+      use of Operational Preparation of the Environment (OPE) as part of a campaign
+      for regime change in Iran, aiming to shape public perception and set the stage
+      for potential military operations. A key component of this effort is the polling
+      organization GAMAAN, which, in collaboration with Psiphon VPN, conducts surveys
+      indicating widespread opposition to the Iranian regime. According to GAMAAN, about
+      70% of Iranians oppose the Islamic Republic, with support for the regime plummeting
+      from 18% in 2022 to 11% in 2024, particularly among youth and urban populations.
+      The polls reveal that 89% of Iranians favor democracy, with only 20% supporting
+      the current regime, while various alternative governance preferences emerge, including
+      secular republics and monarchies.
+    published: '2026-02-18T05:38:04+00:00'
+  - title: Peeling Back the US Information Operation in Iran
+    url: https://sonar21.com/peeling-back-the-us-information-operation-in-iran/
+    text: 'As part of the US campaign to engineer a regime change in Iran, the US military
+      and intelligence community are using Operational Preparation of the Environmnet
+      aka OPE. OPE is defined in joint publications (e.g., JP 3-05 Special Operations)
+      as non-intelligence activities conducted prior to or in preparation for potential
+      military operations to set conditions for success. It encompasses shaping the
+      operational environment through intelligence, surveillance, reconnaissance, information
+      operations, civil affairs, psychological operations, and other preparatory actions—often
+      in denied or politically sensitive areas. I believe that one of the major OPE
+      efforts is to convince the US public that the overwhelming majority of Iranians
+      despise the Islamic Republic and want it overthrown. In my opinion, a major player
+      in this OPE is a polling outfit known as GAMAAN . GAMAAN (Group for Analyzing
+      and Measuring Attitudes in Iran) collaborates with Psiphon VPN , which is widely
+      used across Iran. GAMAAN findings have been consistent in painting a picture of
+      massive opposition to the Iranian regime: According to GAMAAN polls taken prior
+      to 2025, a significant majority of Iranians — around 70% — oppose the continuation
+      of the Islamic Republic. The highest level of opposition, 81%, occurred during
+      the “Woman, Life, Freedom” uprising in late 2022. Support for “the principles
+      of the Islamic revolution and the Supreme Leader” has decreased from 18% in 2022
+      to 11% in 2024. Opposition to the Islamic Republic is higher among the youth,
+      urban residents, and the highly educated. An overwhelming majority of Iranians
+      (89%) support democracy. Gamaan Only about 20% of Iranians support the continuation
+      of the Islamic Republic. When asked about preferred alternatives, about 26% favor
+      a secular republic and around 21% support a monarchy. For 11%, the specific form
+      of the alternative system doesn’t matter. About 22% report lacking sufficient
+      information to choose an alternative system. But what are the funding sources
+      for GAMAAN and Psiphon VPN ? Let’s start with GAMAAN . GAMAAN describes itself
+      as an independent, non-profit research foundation registered in the Netherlands.
+      It emphasizes its academic credentials (e.g., founded by scholars at Dutch universities
+      like Tilburg and Utrecht) and innovative online methods (e.g., anonymity sampling
+      via VPNs like Psiphon) to overcome self-censorship in authoritarian contexts.
+      GAMAAN operates under the supervision of a board including Dr. Ammar Maleki (founder
+      and director), assistant professor of comparative politics at Tilburg University,
+      and Dr. Pooyan Tamimi Arab, associate professor of secular and religious studies
+      at Utrecht University. Maleki is an assistant professor of Comparative Politics
+      and a self-described activist for democracy in his native Iran. Tilburg University
+      Critically, he does not hide his political stance — his Tilburg University profile
+      explicitly states that he is “a pro-democracy activist and political analyst of
+      Iranian politics” and that he tries “to have an impact on political debates around
+      democratization of Iran.” This is where the picture becomes more contested. GAMAAN
+      has relied on US government-funded VPN provider Psiphon to disseminate its surveys;
+      collaborated with the USAID -funded Tony Blair Institute; and collaborated with
+      and received funding from historian Ladan Boroumand, co-founder of the Abdorrahman
+      Boroumand Center for Human Rights in Iran, which is in turn supported by the US
+      government-funded National Endowment for Democracy (NED). Psiphon is owned and
+      operated by Psiphon Inc. , a Canadian corporation based in Ontario. Psiphon was
+      originally developed by the Citizen Lab at the University of Toronto, with version
+      1.0 launching on December 1, 2006, as open-source software. In early 2007, Psiphon,
+      Inc. was established as a Canadian corporation independent of the Citizen Lab
+      and the University of Toronto. It has a notable funding history. In 2008, Psiphon,
+      Inc. was awarded sub-grants from the US State Department Internet Freedom program,
+      administered by the Bureau of Democracy, Human Rights, and Labor. In 2010, Psiphon
+      began providing services to the Broadcasting Board of Governors (US), the US Department
+      of State, and the BBC. More recently, in April 2024, the Open Technology Fund
+      (OTF) announced increased long-term funding for Psiphon , with subsequent OTF
+      awards totaling US$18.54 million for 2024 and US$5.87 million for 2025. The Open
+      Technology Fund (OTF) is administered by the US Agency for Global Media (USAGM),
+      an independent federal agency of the US government. USAGM provides OTF with its
+      primary funding through annual grants, which originate from Congressional appropriations
+      under the Department of State, Foreign Operations, and Related Programs budget.
+      OTF operates as an independent nonprofit corporation (since 2019) but remains
+      a grantee under USAGM’s oversight and governance, as authorized by Congress (e.g.,
+      via the 2021 National Defense Authorization Act). So while Psiphon Inc. is technically
+      an independent Canadian company, it has historically been substantially funded
+      by the US government and other Western institutions — a fact worth noting given
+      its role as the methodology partner for the GAMAAN polling inside Iran. In other
+      words, it is a cut out that, in my opinion and based on my experience, is supporting
+      a CIA information operation to portray Iran as a country on the precipice of overthrowing
+      the Islamic Republic. There is an alternative polling database that paints a radically
+      different picture of the mood in Iran with respect to the Islamic Republic… The
+      Center for International and Security Studies at Maryland has conducted a separate
+      series of surveys using phone-based methods, which show more moderate results.
+      Their findings from 2023 and 2024 found that about 75% of respondents expect Iran’s
+      constitution and political system to be about the same in ten years, and only
+      17% agreed with protesters’ calls for the Islamic Republic to be replaced. However,
+      three in five now think the government should not be strict in enforcing Islamic
+      laws, distinctly up from 2018, and support for demands that the government fight
+      corruption has been consistently near-unanimous since 2018. On the protests themselves,
+      asked in 2024 to think about waves of demonstrations over the past ten years,
+      two thirds say their main objective was to demand that officials pay greater attention
+      to people’s problems, while only one in five think their main objective was to
+      demand greater freedoms or bring about change in Iran’s system of government.
+      President Pezeshkian, based on the polls from 2024, was viewed favorably by 66%
+      of those polled at the start of his term… and 70% expressed confidence that he
+      would be an honest and trustworthy president, though only a quarter were very
+      confident. Majorities expressed some confidence that he can improve relations
+      with neighboring countries and protect citizens’ freedoms, notably women’s rights,
+      but majorities are not confident that he can lower inflation or improve relations
+      with the West. There have been no new polls in the wake of Israel’s surprise attack
+      on June 13, 2025. Based on my conversations with both Nima and Professor Marandi,
+      the reaction in Iran has been similar to what happened in the United States in
+      the aftermath of the 9-11 attacks… National unity increased. The failed color
+      revolution launched on December 28, 2025 by the United States and Israel has reinforced
+      support for the Islamic Republic. President Pezeshkian has openly admitted his
+      government’s failures on the economic front and he has taken some steps to institute
+      reforms. A more important development was the signing of the Trilateral Security
+      Agreement with Russia and China at the end of January. Those two countries are
+      now providing more resources and support to stabilize the Iranian government and
+      improve the economic lives of the Iranian people. Donald Trump’s threats to attack
+      Iran are backfiring among the majority of the population in Iran. Yes, there are
+      some Iranians who still want to bring an end to the Islamic Republic, but they
+      are dramatically outnumbered. Remember the boost in popularity that George W Bush
+      enjoyed in the aftermath of 9-11? He even picked up support from Democrats who
+      had previously despised him. That same phenomena has happened in Iran. Prior to
+      the June 13, 2025 attack, Iranians under the age of 50 had no vivid memory of
+      Iran/Iraq war — where Iran was attacked with the encouragement and support of
+      the United States. The June 2025 attack, coupled with the foreign instigated late
+      December 2025 protests and violence, have awakened a new sense of nationalism
+      among the Iranian public that has strengthened support for the Islamic Republic.
+      The belief in the West that Iran is more vulnerable now than at anytime in the
+      last 46 years is the creation of a US funded propaganda campaign that relied on
+      an ideologically biased pollster to produce results that have been used to convince
+      most Americans that Iran is yearning to breath free… All we have to do is kill
+      off the leadership in Iran. I was interviewed late on Monday by Ed DeMarche of
+      the Trends Journal … We talked about prospects for a war with Iran: And, adhering
+      to my Tuesday routine, I chatted with my Itallian Brazilian friend, Marcello:
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article discusses how the US military and intelligence
+      are employing Operational Preparation of the Environment (OPE) to facilitate regime
+      change in Iran, particularly through efforts to shape public perception that most
+      Iranians oppose the Islamic Republic, with a key role played by the polling organization
+      GAMAAN and its collaboration with Psiphon VPN.
+    paragraph_summary: The article discusses the U.S. military and intelligence community's
+      use of Operational Preparation of the Environment (OPE) as part of a campaign
+      for regime change in Iran, aiming to shape public perception and set the stage
+      for potential military operations. A key component of this effort is the polling
+      organization GAMAAN, which, in collaboration with Psiphon VPN, conducts surveys
+      indicating widespread opposition to the Iranian regime. According to GAMAAN, about
+      70% of Iranians oppose the Islamic Republic, with support for the regime plummeting
+      from 18% in 2022 to 11% in 2024, particularly among youth and urban populations.
+      The polls reveal that 89% of Iranians favor democracy, with only 20% supporting
+      the current regime, while various alternative governance preferences emerge, including
+      secular republics and monarchies.
+    published: '2026-02-18T05:38:04+00:00'
+  - title: Epstein – “Concierge of Evil” – Dangerous Questions
+    url: https://sonar21.com/epstein-concierge-of-evil-dangerous-questions/
+    text: 'The masses revel in the downfall of the rich and powerful, who are drowned
+      in a cocktail of perverse entanglements that were previously dismissed as conspiracy
+      theories. We ask dangerous questions, because sexual perversion is not the most
+      significant issue. By Peter Hanseler via ForumGeopolitica.com Friends? – Epstein,
+      Trump, Gates, Rothschild Introduction Trump Releases Documents but Loses Control
+      of Narrative The Epstein Files were formally published by the United States Attorney
+      General’s Office. This was required by the Epstein Files Transparency Act, which
+      was passed by the US Congress. President Trump signed the bill into law. However,
+      his subsequent behavior is contradictory. He seeks to push the matter out of the
+      public eye. But when an American president says, “ it is time to move on ,” one
+      should do exactly the opposite; and that is what is happening. Trump has at least
+      one solid reason for wanting to sweep the matter under the carpet: his wife Melania
+      has been outed as an “ Epstein girl ” and rumors are circulating that she was
+      even Epstein’s ex-girlfriend – news that is unlikely to please the president.
+      These circumstances have not yet ended the president’s career, but we do not know
+      what else might come to light – possibly facts that could catapult Trump out of
+      office. It is evident that nerves are frayed in the Trump administration. Last
+      Wednesday, Attorney General Pam Bondi completely lost her temper during a tense
+      hearing of the House Judiciary Committee, citing the Dow Jones and S&P 500 indices
+      and announcing that this topic should be discussed, mind you, in a hearing dealing
+      with the Epstein files. Bondi: The DOW is over 50,000. That’s what we should be
+      talking about. They just asked what does the DOW have to do with anything. ARE
+      YOU KIDDING? pic.twitter.com/nl5ueU867x — Acyn (@Acyn) February 11, 2026 As a
+      critical observer, one must assume that Ms. Bondi, or rather those who are actually
+      making the selection, will present the Epstein files as they see fit. The truly
+      powerful figures behind the scenes will attempt to use these scandals, which in
+      my opinion have not even begun yet, to eliminate their enemies and protect those
+      who deserve to be dragged into the public eye. Sexual Perversion, but Other Things
+      Are More Important We will not revel in the unspeakable things that have come
+      to light in what has been published so far. We will leave that to those who have
+      the time and energy to work their way through the millions of pages over the next
+      few weeks and bring even more perverse things to light. Until recently, it was
+      teenagers who were sexually abused, but the Epstein files contain images that
+      suggest events that until recently were relegated to the realm of conspiracy theories:
+      sex with toddlers, screaming babies, even suggesting that small children were
+      eaten in rituals (Pizza Gate), and hundreds of emails reporting on these topics
+      with code words. These are events that are beyond the imagination of even a halfway
+      normal person and will probably cause sleepless nights for those who, for professional
+      or personal reasons, decide to deal with such images. Is Epstein Alive? In addition,
+      stories are circulating online that Epstein is alive and living in Israel. There
+      are photos to support this, although photos have only limited evidential value
+      in this day and age due to AI. Source: X It is entirely possible that Epstein
+      could still be alive, as a prison employee, Roberto Grijalva, reported on the
+      “day of Epstein’s death” that Epstein had been wheeled out of the prison on a
+      wheelchair during the night and transported away in a van. This was reported by
+      Jimmy Dore in his show . Finally, it is claimed that Epstein’s Fortnite account
+      (Fortnite is a world-famous shooter game) is active and is being used from Israel.
+      Is Everything Being Shown? – Probably Not It is important to note that approximately
+      2.7 million documents have been published so far, while 3.3 million more have
+      not yet been released. Most of the documents contain many redacted words, senders,
+      recipients, or entire sections. The government justifies this on the grounds of
+      protecting the victims. However, this is a lie. Many documents containing communications
+      about illegal activities between Epstein and third parties are redacted, including
+      senders and recipients – here, perpetrators are being protected as “victims.”
+      This means that not even half of all documents have been published, and the public
+      simply has to believe the authorities that there are actually only 6 million documents.
+      An authority that claimed a few months ago that the video material contained only
+      child pornography downloaded from the internet, which has been proven to be untrue,
+      is completely untrustworthy. “Sexual perversion is intended to distract from geopolitical
+      perversion.” It is doubtful whether further documents will be published and, if
+      so, whether these will be all of them and whether they will be published in their
+      entirety. Nevertheless, what has been published paints a picture that allows conclusions
+      to be drawn that until recently would have been considered impossible. It is no
+      coincidence that these monstrosities are now being made public—there are no coincidences
+      in our world: sexual perversion is intended to distract from geopolitical perversion.
+      If we disregard the sexual perversion, what remains is a picture of horror: the
+      Collective West is being controlled by a group of psychopaths who have means at
+      their disposal that remain hidden from the public. Evil thus truly reigns supreme.
+      When I published the article “ Will evil prevail ?” in November 2025 and mentioned
+      the “City of London” and groups – including the Rothschilds – there were skeptics
+      who pointed out that these were old stories and that the Rothschilds, for example,
+      no longer had any power. This now seems to have been refuted. In the following,
+      we will discuss a few individuals and facts, while clearly pointing out that a
+      comprehensive assessment is impossible and will likely remain so due to the prevailing
+      power structures. The following examples show that the theory—condescendingly
+      referred to as “conspiracy theories” in the mainstream media—that geopolitics
+      in the West is controlled by a group operating in secret is true. Who Brought
+      Down Bill Gates? Source: Stricker TV – X Bill Gates exercises—or rather, exercised—enormous
+      influence on global issues through his wealth, his Gates Foundation , and his
+      personal networks, particularly in the areas of global health, poverty reduction,
+      agriculture, and, increasingly, climate change. Gates was not an elected politician,
+      but his billions and networks made him one of the most influential private actors
+      in the world. The significant influence exerted by monetary donations to media
+      companies will not save Gates. Having previously downplayed his relationship with
+      Epstein, Bill Gates is now facing revelations that are making him internationally
+      persona non grata ; the final nail in the coffin was undoubtedly hammered in by
+      his ex-wife Melinda. Bill Gates was one of the most influential people to be destroyed
+      so far, but the list is getting longer. It includes people who are already finished
+      (Prince Andrew, Sarah Ferguson, Peter Mandelson) or in danger of falling (Donald
+      Trump, Bill Clinton, Howard Lutnick, Keir Starmer). All the names mentioned here
+      are representative of many others. Who will inherit Bill Gates’ power? What has
+      he done to anger the real powers behind the scenes? It can’t have been his unsavory
+      behavior. According to Euronews , the Bill & Melinda Gates Foundation is responsible
+      for more than 88 percent of the total amount donated to the WHO by philanthropic
+      foundations. According to the National Library of Medicine , Bill Gates’ foundation
+      awarded 540 grants totaling $5.5 billion between 2000 and 2024. The WHO was not
+      only one of the main players during Covid. The WHO Pandemic Agreement (adopted
+      on May 20, 2025, at the 78th World Health Assembly) is the world’s first specific
+      pandemic treaty. It is an agreement that frightens skeptics who warn of another
+      supranational organization that will restrict people’s freedom and the sovereignty
+      of countries. Switzerland (via the FOPH) emphasizes: No new powers for the WHO,
+      full sovereignty remains intact. Germany, the EU, the US, and others have expressed
+      similar views. The naivety—or corruption—of these politicians is almost limitless.
+      After the publication of the Epstein Files, will these politicians reconsider
+      to whom they transfer power? I doubt it. The US withdrew from the WHO in January
+      – was Gates the victim of infighting? COVID – Conspiracy Theory or Big Business?
+      The Epstein Files contain correspondence between Gates and Epstein that could
+      suggest that the Covid disaster was nothing more than a huge business venture,
+      prepared well in advance. Of course, these claims are dismissed as conspiracy
+      theories, as always. However, if these claims turn out to be true, the people
+      behind them were able to position themselves financially by taking advantage of
+      the crash of the financial markets, money printing, the vaccine bonanza, etc.
+      According to Cambridge University , Covid caused costs of up to $82 trillion –
+      borne by taxpayers worldwide. That is two and a half times the GDP of the US.
+      It can be assumed that those who organized this earned trillions, not billions.
+      The Rothschilds are Alive and Kickin’ The Rothschilds, who invented international
+      banking, financed both sides in wars, financed and controlled the Suez Canal,
+      were even celebrated by poets in the 19th century for their wealth. Then, from
+      World War II onwards, this family seemed to have lost its influence and retreated
+      to a few private banks on the European continent. They claimed to no longer have
+      any influence. To lend more weight to this claim, they enlisted the services of
+      Niall Ferguson. The well-known British author, who apparently served as a paid
+      writer for the Rothschilds, was granted “free” access to the family archives in
+      order to compile the “facts” of the family history. In 1999 (The House of Rothschild:
+      1798–1848) and 2000 (The House of Rothschild: 1849-1999) , Ferguson published
+      two bulky volumes intended to confirm the Rothschilds’ narrative: “Nothing to
+      See!” Many bought into this appealing narrative of the once most powerful family
+      in the world, who, according to their own statements, now only concern themselves
+      with wines, art, castles, and a few private clients. A key argument was that they
+      had missed their chance to gain a foothold in the US. However, the Epstein Files
+      do not support this account – new details of the relationship between Ariane de
+      Rothschild, head of the Geneva-based banking group Edmond de Rothschild, and Epstein
+      are coming to light almost daily. The two exchanged thousands of emails, maintained
+      a close, friendly relationship, and in 2014 looked forward to the great business
+      opportunities that Ukraine would bring. Under a “ Letter of Agreement ” contract,
+      Rothschild paid Epstein’s company Southern Trust Company $25 million for the following
+      service: “ STC shall continue to work with EDR on the EDR Matters as further specified
+      and agreed to between STC and Rothschild from time to time while this Agreement
+      remains in effect (the “Work). ” This sounds more like a contract under which
+      no services are provided and whose sole purpose is to provide a document for the
+      compliance department of banks. Even the Financial Times of February 7, 2026,
+      in “ How the house of Rothschild became entangled with Epstein ,” reported that
+      the relationship was extremely close—Epstein advised them on the most intimate
+      matters—and was handsomely rewarded for doing so. This brings to mind a great
+      article by Alex Krainer from November 2024 . Alex referred to an interview given
+      by the ex-oligarch Khodorkovsky, who now lives in London, in which he candidly
+      revealed that Lord Jacob Rothschild had been his protector. Jacob Rothschild and
+      his friend David Rockefeller—did they talk about wine and art? Apparently, Khodorkovsky
+      was merely a puppet of the Rothschilds. President Putin thwarted the Rothschilds’
+      plans when he had Rosneft buy up Yukos’ assets, thereby turning it into Russia’s
+      oil giant. The same principle of the protector and the straw man was already being
+      used in the US 100 years ago. Krainer writes: „When John Pierport Morgan died,
+      everyone believed that he was the world’s wealthiest man. But then it turned out
+      that he only owned about 9% of his bank and was acting merely as the trustee of
+      the bank’s real owners who were (and perhaps still are) in the City of London.“
+      It is therefore highly probable that the Rothschilds continue to exert enormous
+      influence on world affairs and exercise their power behind the scenes, just as
+      befits a democratic and transparent Western society. As a footnote, which shows
+      the current influence of the Rothschilds in Washington today is the fact that
+      the Rothschilds were mentioned over 12’000 times in the published files and that
+      these very files are now being deleted; so reported by Natali and Clayton Morris
+      in their latest edition of Redacted – starting Minute 13.02. The Banks Through
+      Which These Transactions Are Processed I am not surprised that the documents that
+      have already been published contain very little financial information. Every effort
+      will be made to keep this information secret. In this context, I would like to
+      point out that the people behind these transactions repeatedly use large global
+      banks for their transactions. If these are exposed, they simply switch to another
+      banking empire; like in a relay race, the baton is passed on. The Bank of Credit
+      and Commerce International (BCCI), which was registered in Luxembourg and had
+      branches in 78 countries at the height of its history, was used by such groups.
+      It went under in 1991 due to money laundering, bribery, arms trafficking, the
+      sale of nuclear technology, smuggling, illegal immigration, the illegal purchase
+      of real estate and banks, and the promotion of prostitution. Many of its customers
+      then switched to Edmond Safra’s banking empire. When Safra died in Monte Carlo
+      in 1999 under very strange circumstances, HSBC took over his clients. HSBC was
+      eventually caught laundering over $800 million in Sinola cartel funds; apart from
+      a fine of $1.92 billion, there were no consequences for the management – no one
+      went to prison. It is unknown which bank(s) are currently handling the business
+      of criminal groups. It is doubtful that the Epstein Files will reveal these institutions.
+      Further information on this topic can be found at Whitney Webb . Who or What Was
+      Epstein? The sexually perverse will make it difficult for the masses to become
+      aware of the extent of the conspiracies. Conspiracies that are no longer theories,
+      but have been dragged into the public spotlight. However, it can be assumed that
+      the public—as is usually the case—will not look at this limelight, but will revel
+      in the unbelievable, the sexually perverse, and will not take the opportunity
+      to see the truth, which is even more unsavory than what they are revelling in.
+      Epstein Was the “Concierge of Evil” Epstein was not a criminal who simply trapped
+      people, seduced them, and then blackmailed them—he was much more than that and
+      much more important. He appears to have been a central figure in the so-called
+      deep state. He used methods that take your breath away, but he had an unparalleled
+      network of contacts and controlled and coordinated major projects of the deep
+      state. His influence and contacts were not limited to the US. He obviously worked
+      with the CIA, MI6, and Mossad. This is a clear indication that the group of powerful
+      people known as the deep state or cabal operates, cooperates, and coordinates
+      throughout the West. Epstein cooperated not only with the secret services, but
+      with the entire political and economic elite of many – or all? – Western countries.
+      Epstein was the “concierge of evil.” His role as concierge of evil was essential
+      to the functioning of the deep state. Sexual perversion served as a means to keep
+      those involved happy—and to blackmail them if they wanted to break away. Epstein
+      was handsomely rewarded for his services. The claim by wealthy “victims” that
+      Epstein took advantage of them seems implausible given the facts available today.
+      Was Epstein the Only One? Certainly not. Such systems are organized redundantly,
+      or a placeholder who was already in place took over Epstein’s role. In addition
+      to such an Epstein figure, who obviously “looked after” the top elites, there
+      are other figures who “look after,” pamper, or blackmail the media, for example,
+      because it takes a lot of coordination and management to completely synchronize
+      the media in the West on issues such as Covid, the war in Ukraine, Gaza, or Iran.
+      The extent of this “supervision” can be seen in the reporting of virtually all
+      media outlets in the Collective West. For me as a blogger, the exposure of the
+      media Epstein remains a dream for now – but patience brings roses. Conclusion
+      There can be no conclusion here, because we must be aware that most of the facts
+      that have come to light to date did not come to light by chance. Conclusions could
+      then be drawn if all documents were published unedited. However, that will not
+      happen. Nevertheless, a brief glance through the keyhole provides many insights:
+      much of what was dismissed as conspiracy theories until recently can now be considered
+      proven. In the future, it will be more difficult for the Western media to simply
+      dismiss uncovered or suspected conspiracies by nebulous masterminds as conspiracy
+      theories. Perhaps the media will remember to follow up on suspicions and investigate
+      them instead of ridiculing them. However, if you look at the leading Western media
+      outlets reporting on the Epstein files, you will soon notice that they focus on
+      the sexually perverse and only report on those who have already fallen and are
+      irretrievably entangled. Regrettably. And then, of course, one important question
+      remains unanswered: Who suddenly pulled these files out of thin air, and to what
+      end? Cui bono? – We’ll stay on top of it! Peter Hanseler is a geopolitical analyst
+      who reports from Moscow. Peter was born in Zurich, Switzerland. He holds a J.D.
+      (lic. iur.) and Ph.D. (Dr. iur.) from Zurich University Law School and Master
+      in International Commercial Law (LL.M.) from Georgetown University Law School,
+      Washington, D.C. He has lived in the US, Spain, Switzerland, Thailand and Russia.
+      Peter is independent, his work is not supported by government or private entities.
+      Peter’s website Forumgeopolitica.com publishes its content in English, Russian,
+      German and French.'
+    one_sentence_summary: The article discusses the public's fascination with the downfall
+      of powerful figures like Trump and Epstein, highlighting the release of the Epstein
+      Files and the contradictory actions of Trump as he attempts to divert attention
+      from the scandal.
+    paragraph_summary: The article discusses the public's fascination with the downfall
+      of wealthy and influential figures, particularly in light of the recently released
+      Epstein Files, which were made public following the Epstein Files Transparency
+      Act signed into law by President Trump. Despite the release of these documents,
+      Trump appears to be attempting to divert attention away from the scandal, especially
+      as rumors about his wife Melania's connections to Epstein surface. The tension
+      within the Trump administration is palpable, as evidenced by Attorney General
+      Pam Bondi's frustrated outburst during a House Judiciary Committee hearing, where
+      she insisted that economic indicators like the Dow Jones should take precedence
+      over discussions about the Epstein files. The article suggests that the implications
+      of the Epstein scandal could have significant consequences for Trump's presidency,
+      as the public continues to question the narratives surrounding these powerful
+      individuals.
+    published: '2026-02-17T16:23:33+00:00'
+  - title: Epstein – “Concierge of Evil” – Dangerous Questions
+    url: https://sonar21.com/epstein-concierge-of-evil-dangerous-questions/
+    text: 'The masses revel in the downfall of the rich and powerful, who are drowned
+      in a cocktail of perverse entanglements that were previously dismissed as conspiracy
+      theories. We ask dangerous questions, because sexual perversion is not the most
+      significant issue. By Peter Hanseler via ForumGeopolitica.com Friends? – Epstein,
+      Trump, Gates, Rothschild Introduction Trump Releases Documents but Loses Control
+      of Narrative The Epstein Files were formally published by the United States Attorney
+      General’s Office. This was required by the Epstein Files Transparency Act, which
+      was passed by the US Congress. President Trump signed the bill into law. However,
+      his subsequent behavior is contradictory. He seeks to push the matter out of the
+      public eye. But when an American president says, “ it is time to move on ,” one
+      should do exactly the opposite; and that is what is happening. Trump has at least
+      one solid reason for wanting to sweep the matter under the carpet: his wife Melania
+      has been outed as an “ Epstein girl ” and rumors are circulating that she was
+      even Epstein’s ex-girlfriend – news that is unlikely to please the president.
+      These circumstances have not yet ended the president’s career, but we do not know
+      what else might come to light – possibly facts that could catapult Trump out of
+      office. It is evident that nerves are frayed in the Trump administration. Last
+      Wednesday, Attorney General Pam Bondi completely lost her temper during a tense
+      hearing of the House Judiciary Committee, citing the Dow Jones and S&P 500 indices
+      and announcing that this topic should be discussed, mind you, in a hearing dealing
+      with the Epstein files. Bondi: The DOW is over 50,000. That’s what we should be
+      talking about. They just asked what does the DOW have to do with anything. ARE
+      YOU KIDDING? pic.twitter.com/nl5ueU867x — Acyn (@Acyn) February 11, 2026 As a
+      critical observer, one must assume that Ms. Bondi, or rather those who are actually
+      making the selection, will present the Epstein files as they see fit. The truly
+      powerful figures behind the scenes will attempt to use these scandals, which in
+      my opinion have not even begun yet, to eliminate their enemies and protect those
+      who deserve to be dragged into the public eye. Sexual Perversion, but Other Things
+      Are More Important We will not revel in the unspeakable things that have come
+      to light in what has been published so far. We will leave that to those who have
+      the time and energy to work their way through the millions of pages over the next
+      few weeks and bring even more perverse things to light. Until recently, it was
+      teenagers who were sexually abused, but the Epstein files contain images that
+      suggest events that until recently were relegated to the realm of conspiracy theories:
+      sex with toddlers, screaming babies, even suggesting that small children were
+      eaten in rituals (Pizza Gate), and hundreds of emails reporting on these topics
+      with code words. These are events that are beyond the imagination of even a halfway
+      normal person and will probably cause sleepless nights for those who, for professional
+      or personal reasons, decide to deal with such images. Is Epstein Alive? In addition,
+      stories are circulating online that Epstein is alive and living in Israel. There
+      are photos to support this, although photos have only limited evidential value
+      in this day and age due to AI. Source: X It is entirely possible that Epstein
+      could still be alive, as a prison employee, Roberto Grijalva, reported on the
+      “day of Epstein’s death” that Epstein had been wheeled out of the prison on a
+      wheelchair during the night and transported away in a van. This was reported by
+      Jimmy Dore in his show . Finally, it is claimed that Epstein’s Fortnite account
+      (Fortnite is a world-famous shooter game) is active and is being used from Israel.
+      Is Everything Being Shown? – Probably Not It is important to note that approximately
+      2.7 million documents have been published so far, while 3.3 million more have
+      not yet been released. Most of the documents contain many redacted words, senders,
+      recipients, or entire sections. The government justifies this on the grounds of
+      protecting the victims. However, this is a lie. Many documents containing communications
+      about illegal activities between Epstein and third parties are redacted, including
+      senders and recipients – here, perpetrators are being protected as “victims.”
+      This means that not even half of all documents have been published, and the public
+      simply has to believe the authorities that there are actually only 6 million documents.
+      An authority that claimed a few months ago that the video material contained only
+      child pornography downloaded from the internet, which has been proven to be untrue,
+      is completely untrustworthy. “Sexual perversion is intended to distract from geopolitical
+      perversion.” It is doubtful whether further documents will be published and, if
+      so, whether these will be all of them and whether they will be published in their
+      entirety. Nevertheless, what has been published paints a picture that allows conclusions
+      to be drawn that until recently would have been considered impossible. It is no
+      coincidence that these monstrosities are now being made public—there are no coincidences
+      in our world: sexual perversion is intended to distract from geopolitical perversion.
+      If we disregard the sexual perversion, what remains is a picture of horror: the
+      Collective West is being controlled by a group of psychopaths who have means at
+      their disposal that remain hidden from the public. Evil thus truly reigns supreme.
+      When I published the article “ Will evil prevail ?” in November 2025 and mentioned
+      the “City of London” and groups – including the Rothschilds – there were skeptics
+      who pointed out that these were old stories and that the Rothschilds, for example,
+      no longer had any power. This now seems to have been refuted. In the following,
+      we will discuss a few individuals and facts, while clearly pointing out that a
+      comprehensive assessment is impossible and will likely remain so due to the prevailing
+      power structures. The following examples show that the theory—condescendingly
+      referred to as “conspiracy theories” in the mainstream media—that geopolitics
+      in the West is controlled by a group operating in secret is true. Who Brought
+      Down Bill Gates? Source: Stricker TV – X Bill Gates exercises—or rather, exercised—enormous
+      influence on global issues through his wealth, his Gates Foundation , and his
+      personal networks, particularly in the areas of global health, poverty reduction,
+      agriculture, and, increasingly, climate change. Gates was not an elected politician,
+      but his billions and networks made him one of the most influential private actors
+      in the world. The significant influence exerted by monetary donations to media
+      companies will not save Gates. Having previously downplayed his relationship with
+      Epstein, Bill Gates is now facing revelations that are making him internationally
+      persona non grata ; the final nail in the coffin was undoubtedly hammered in by
+      his ex-wife Melinda. Bill Gates was one of the most influential people to be destroyed
+      so far, but the list is getting longer. It includes people who are already finished
+      (Prince Andrew, Sarah Ferguson, Peter Mandelson) or in danger of falling (Donald
+      Trump, Bill Clinton, Howard Lutnick, Keir Starmer). All the names mentioned here
+      are representative of many others. Who will inherit Bill Gates’ power? What has
+      he done to anger the real powers behind the scenes? It can’t have been his unsavory
+      behavior. According to Euronews , the Bill & Melinda Gates Foundation is responsible
+      for more than 88 percent of the total amount donated to the WHO by philanthropic
+      foundations. According to the National Library of Medicine , Bill Gates’ foundation
+      awarded 540 grants totaling $5.5 billion between 2000 and 2024. The WHO was not
+      only one of the main players during Covid. The WHO Pandemic Agreement (adopted
+      on May 20, 2025, at the 78th World Health Assembly) is the world’s first specific
+      pandemic treaty. It is an agreement that frightens skeptics who warn of another
+      supranational organization that will restrict people’s freedom and the sovereignty
+      of countries. Switzerland (via the FOPH) emphasizes: No new powers for the WHO,
+      full sovereignty remains intact. Germany, the EU, the US, and others have expressed
+      similar views. The naivety—or corruption—of these politicians is almost limitless.
+      After the publication of the Epstein Files, will these politicians reconsider
+      to whom they transfer power? I doubt it. The US withdrew from the WHO in January
+      – was Gates the victim of infighting? COVID – Conspiracy Theory or Big Business?
+      The Epstein Files contain correspondence between Gates and Epstein that could
+      suggest that the Covid disaster was nothing more than a huge business venture,
+      prepared well in advance. Of course, these claims are dismissed as conspiracy
+      theories, as always. However, if these claims turn out to be true, the people
+      behind them were able to position themselves financially by taking advantage of
+      the crash of the financial markets, money printing, the vaccine bonanza, etc.
+      According to Cambridge University , Covid caused costs of up to $82 trillion –
+      borne by taxpayers worldwide. That is two and a half times the GDP of the US.
+      It can be assumed that those who organized this earned trillions, not billions.
+      The Rothschilds are Alive and Kickin’ The Rothschilds, who invented international
+      banking, financed both sides in wars, financed and controlled the Suez Canal,
+      were even celebrated by poets in the 19th century for their wealth. Then, from
+      World War II onwards, this family seemed to have lost its influence and retreated
+      to a few private banks on the European continent. They claimed to no longer have
+      any influence. To lend more weight to this claim, they enlisted the services of
+      Niall Ferguson. The well-known British author, who apparently served as a paid
+      writer for the Rothschilds, was granted “free” access to the family archives in
+      order to compile the “facts” of the family history. In 1999 (The House of Rothschild:
+      1798–1848) and 2000 (The House of Rothschild: 1849-1999) , Ferguson published
+      two bulky volumes intended to confirm the Rothschilds’ narrative: “Nothing to
+      See!” Many bought into this appealing narrative of the once most powerful family
+      in the world, who, according to their own statements, now only concern themselves
+      with wines, art, castles, and a few private clients. A key argument was that they
+      had missed their chance to gain a foothold in the US. However, the Epstein Files
+      do not support this account – new details of the relationship between Ariane de
+      Rothschild, head of the Geneva-based banking group Edmond de Rothschild, and Epstein
+      are coming to light almost daily. The two exchanged thousands of emails, maintained
+      a close, friendly relationship, and in 2014 looked forward to the great business
+      opportunities that Ukraine would bring. Under a “ Letter of Agreement ” contract,
+      Rothschild paid Epstein’s company Southern Trust Company $25 million for the following
+      service: “ STC shall continue to work with EDR on the EDR Matters as further specified
+      and agreed to between STC and Rothschild from time to time while this Agreement
+      remains in effect (the “Work). ” This sounds more like a contract under which
+      no services are provided and whose sole purpose is to provide a document for the
+      compliance department of banks. Even the Financial Times of February 7, 2026,
+      in “ How the house of Rothschild became entangled with Epstein ,” reported that
+      the relationship was extremely close—Epstein advised them on the most intimate
+      matters—and was handsomely rewarded for doing so. This brings to mind a great
+      article by Alex Krainer from November 2024 . Alex referred to an interview given
+      by the ex-oligarch Khodorkovsky, who now lives in London, in which he candidly
+      revealed that Lord Jacob Rothschild had been his protector. Jacob Rothschild and
+      his friend David Rockefeller—did they talk about wine and art? Apparently, Khodorkovsky
+      was merely a puppet of the Rothschilds. President Putin thwarted the Rothschilds’
+      plans when he had Rosneft buy up Yukos’ assets, thereby turning it into Russia’s
+      oil giant. The same principle of the protector and the straw man was already being
+      used in the US 100 years ago. Krainer writes: „When John Pierport Morgan died,
+      everyone believed that he was the world’s wealthiest man. But then it turned out
+      that he only owned about 9% of his bank and was acting merely as the trustee of
+      the bank’s real owners who were (and perhaps still are) in the City of London.“
+      It is therefore highly probable that the Rothschilds continue to exert enormous
+      influence on world affairs and exercise their power behind the scenes, just as
+      befits a democratic and transparent Western society. As a footnote, which shows
+      the current influence of the Rothschilds in Washington today is the fact that
+      the Rothschilds were mentioned over 12’000 times in the published files and that
+      these very files are now being deleted; so reported by Natali and Clayton Morris
+      in their latest edition of Redacted – starting Minute 13.02. The Banks Through
+      Which These Transactions Are Processed I am not surprised that the documents that
+      have already been published contain very little financial information. Every effort
+      will be made to keep this information secret. In this context, I would like to
+      point out that the people behind these transactions repeatedly use large global
+      banks for their transactions. If these are exposed, they simply switch to another
+      banking empire; like in a relay race, the baton is passed on. The Bank of Credit
+      and Commerce International (BCCI), which was registered in Luxembourg and had
+      branches in 78 countries at the height of its history, was used by such groups.
+      It went under in 1991 due to money laundering, bribery, arms trafficking, the
+      sale of nuclear technology, smuggling, illegal immigration, the illegal purchase
+      of real estate and banks, and the promotion of prostitution. Many of its customers
+      then switched to Edmond Safra’s banking empire. When Safra died in Monte Carlo
+      in 1999 under very strange circumstances, HSBC took over his clients. HSBC was
+      eventually caught laundering over $800 million in Sinola cartel funds; apart from
+      a fine of $1.92 billion, there were no consequences for the management – no one
+      went to prison. It is unknown which bank(s) are currently handling the business
+      of criminal groups. It is doubtful that the Epstein Files will reveal these institutions.
+      Further information on this topic can be found at Whitney Webb . Who or What Was
+      Epstein? The sexually perverse will make it difficult for the masses to become
+      aware of the extent of the conspiracies. Conspiracies that are no longer theories,
+      but have been dragged into the public spotlight. However, it can be assumed that
+      the public—as is usually the case—will not look at this limelight, but will revel
+      in the unbelievable, the sexually perverse, and will not take the opportunity
+      to see the truth, which is even more unsavory than what they are revelling in.
+      Epstein Was the “Concierge of Evil” Epstein was not a criminal who simply trapped
+      people, seduced them, and then blackmailed them—he was much more than that and
+      much more important. He appears to have been a central figure in the so-called
+      deep state. He used methods that take your breath away, but he had an unparalleled
+      network of contacts and controlled and coordinated major projects of the deep
+      state. His influence and contacts were not limited to the US. He obviously worked
+      with the CIA, MI6, and Mossad. This is a clear indication that the group of powerful
+      people known as the deep state or cabal operates, cooperates, and coordinates
+      throughout the West. Epstein cooperated not only with the secret services, but
+      with the entire political and economic elite of many – or all? – Western countries.
+      Epstein was the “concierge of evil.” His role as concierge of evil was essential
+      to the functioning of the deep state. Sexual perversion served as a means to keep
+      those involved happy—and to blackmail them if they wanted to break away. Epstein
+      was handsomely rewarded for his services. The claim by wealthy “victims” that
+      Epstein took advantage of them seems implausible given the facts available today.
+      Was Epstein the Only One? Certainly not. Such systems are organized redundantly,
+      or a placeholder who was already in place took over Epstein’s role. In addition
+      to such an Epstein figure, who obviously “looked after” the top elites, there
+      are other figures who “look after,” pamper, or blackmail the media, for example,
+      because it takes a lot of coordination and management to completely synchronize
+      the media in the West on issues such as Covid, the war in Ukraine, Gaza, or Iran.
+      The extent of this “supervision” can be seen in the reporting of virtually all
+      media outlets in the Collective West. For me as a blogger, the exposure of the
+      media Epstein remains a dream for now – but patience brings roses. Conclusion
+      There can be no conclusion here, because we must be aware that most of the facts
+      that have come to light to date did not come to light by chance. Conclusions could
+      then be drawn if all documents were published unedited. However, that will not
+      happen. Nevertheless, a brief glance through the keyhole provides many insights:
+      much of what was dismissed as conspiracy theories until recently can now be considered
+      proven. In the future, it will be more difficult for the Western media to simply
+      dismiss uncovered or suspected conspiracies by nebulous masterminds as conspiracy
+      theories. Perhaps the media will remember to follow up on suspicions and investigate
+      them instead of ridiculing them. However, if you look at the leading Western media
+      outlets reporting on the Epstein files, you will soon notice that they focus on
+      the sexually perverse and only report on those who have already fallen and are
+      irretrievably entangled. Regrettably. And then, of course, one important question
+      remains unanswered: Who suddenly pulled these files out of thin air, and to what
+      end? Cui bono? – We’ll stay on top of it! Peter Hanseler is a geopolitical analyst
+      who reports from Moscow. Peter was born in Zurich, Switzerland. He holds a J.D.
+      (lic. iur.) and Ph.D. (Dr. iur.) from Zurich University Law School and Master
+      in International Commercial Law (LL.M.) from Georgetown University Law School,
+      Washington, D.C. He has lived in the US, Spain, Switzerland, Thailand and Russia.
+      Peter is independent, his work is not supported by government or private entities.
+      Peter’s website Forumgeopolitica.com publishes its content in English, Russian,
+      German and French.'
+    one_sentence_summary: The article discusses the public's fascination with the downfall
+      of powerful figures like Trump and Epstein, highlighting the release of the Epstein
+      Files and the contradictory actions of Trump as he attempts to divert attention
+      from the scandal.
+    paragraph_summary: The article discusses the public's fascination with the downfall
+      of wealthy and influential figures, particularly in light of the recently released
+      Epstein Files, which were made public following the Epstein Files Transparency
+      Act signed into law by President Trump. Despite the release of these documents,
+      Trump appears to be attempting to divert attention away from the scandal, especially
+      as rumors about his wife Melania's connections to Epstein surface. The tension
+      within the Trump administration is palpable, as evidenced by Attorney General
+      Pam Bondi's frustrated outburst during a House Judiciary Committee hearing, where
+      she insisted that economic indicators like the Dow Jones should take precedence
+      over discussions about the Epstein files. The article suggests that the implications
+      of the Epstein scandal could have significant consequences for Trump's presidency,
+      as the public continues to question the narratives surrounding these powerful
+      individuals.
+    published: '2026-02-17T16:23:33+00:00'
+  - title: The Big Lie About Iran’s Support for Terrorism
+    url: https://sonar21.com/the-big-lie-about-irans-support-for-terrorism/
+    text: 'US policymakers, particularly under the current Trump administration (as
+      of February 2026), consistently describe Iran as the world’s leading or foremost
+      state sponsor of terrorism. This characterization has been a cornerstone of U.S.
+      policy toward Iran for decades, with Iran designated as a State Sponsor of Terrorism
+      by the U.S. State Department since January 19, 1984—the longest-standing designation
+      on the current list (which also includes Cuba, North Korea, and Syria). But what
+      does the data actually show? My old office — i.e., the Coordinator for Counter
+      Terrorism , which is now known as the Bureau of Counter Terrorism — has published
+      an annual report on international terrorism since 1990 that was titled, Patterns
+      of Global Terrorism … The 1990 report, which was mandated by Congress, covered
+      incidents for 1989. Patterns of Global Terrorism was replaced by a new title,
+      Country Reports on Terrorism… That annual report covers every year from 2004 thru
+      2024 (note: the 2025 report is due in April 2026). Although the State Department’s
+      Statistical Annexes do not provide a specific sectarian breakdown (Sunni vs. Shia
+      vs. other) of terrorist attacks, the overwhelming dominance of Sunni extremist
+      groups in the perpetrator data suggests that roughly 90% or more of identified
+      terrorist attacks between 2004-2023 were carried out by groups or individuals
+      with ties to Sunni extremist ideologies, particularly Salafi jihadism. Based on
+      the available data from 2004-2023, approximately 85-95% of terrorist attacks in
+      the State Department reports were carried out by Sunni extremist groups or individuals.
+      The top perpetrator groups each year (Taliban, ISIS, Boko Haram, al-Qaeda affiliates,
+      al-Shabaab, TTP, etc.) were all Sunni. In other words, these are groups with no
+      affiliation or support from Iran. In fact, these groups view Shias, not just Iran,
+      as heretics and target them. Shia groups like Hezbollah and Iran-backed militias
+      are typically not included in these statistics as they primarily target military
+      forces (which may be excluded under the definition of terrorism used). The Houthi
+      movement (Ansar Allah) in Yemen is the main Shia-affiliated group appearing in
+      recent reports, but represents a small fraction of total attacks. A French think
+      tank — FONDAPOL — reports similar results, only their timeline covers 1979 thru
+      2024. From 1979 to April 2024 , the top 5 deadliest groups were responsible for
+      81.8% of all Islamist terrorist attack victims: Al-Qaeda (14,856 deaths) – Sunni
+      Taliban (71,965 deaths) – Sunni Islamic State/ISIS (69,641 deaths) – Sunni Boko
+      Haram (26,081 deaths) – Sunni Al-Shabaab (21,784 deaths) – Sunni Despite these
+      facts, Israel persists in pushing the lie that Iran represents the major threat
+      of terrorism. I addressed that lie in my piece published almost two years ago
+      using the data posted by the I sraeli Foreign Ministry . Note — This data covers
+      the period from 2000 thru April of 2024. The dataset excludes the October 7, 2023
+      attack. Here are the highlights: It is quite clear that “terrorism” attributed
+      to Palestinians has been trending downwards since 2003. Not my numbers, those
+      are Israeli Government numbers. It is noteworthy that the high-water mark of Palestinian
+      violence in the five-year span — 2000 to 2005 — is commonly known as the Second
+      Intifada . The number of Israelis killed and wounded is equally revealing. A total
+      of 1,552 Israelis died during that 24- year period and 5,595 were wounded. A close
+      look at the data shows that 76% of the deaths occurred during the five-year period
+      marking the Second Intifada and a whopping 92% of the wounded happened during
+      that same period. The public hysteria in the West about Hamas terrorism is not
+      supported by the data — only 15% of the attacks during the last 24 years were
+      attributed to Hamas, acting alone or in concert with another Palestinian entity.
+      I am not suggesting that Hamas is a pacifist organization — it is not — but neither
+      is it a political entity engaged in unrelenting violence. While it is true that
+      Hamas and Hezbollah have fired thousands of rockets into Israel over the past
+      25 years, very few of those have caused civilian casualties… The death toll from
+      rockets specifically is approximately 50-75 people killed over the entire 2001-2025
+      period, rather than thousands. By contrast, Israel has killed 11,200-11,500 Palestinians
+      between 2000 and October 6, 2023. Since October 7 until the present, the Israeli
+      military has killed 73,000+ Palestinians killed in Gaza, according to the Gaza
+      Health Ministry. In January 2026, an Israeli military official accepted the Gaza
+      Health Ministry figure of over 71,000 killed by direct Israeli fire . If the United
+      States is genuinely concerned about rooting out the supporters of terrorism, then
+      it should be threatening the Gulf Arabs… Saudi Arabia and Qatar in particular.
+      The point I am making is that the United States is using a false charge of terrorism
+      by Iran as a pretext for launching an unprovoked attack. This is not only wrong,
+      it is evil in its purest form. I discussed the unfolding situation in Iran with
+      Nima today: Judge Napolitano and I discussed the war in Ukraine and the impending
+      war with Iran: I thank you for your invaluable support by taking time to read
+      or comment. I do not charge a subscription fee nor do I accept advertising. I
+      want the content to be accessible to everyone interested in the issues I am discussing.
+      However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: U.S. policymakers, particularly under the Trump administration,
+      have long labeled Iran as the leading state sponsor of terrorism, a designation
+      that has been in place since 1984, but the validity of this characterization is
+      called into question by data from annual reports on international terrorism.
+    paragraph_summary: U.S. policymakers, particularly during the Trump administration,
+      have long labeled Iran as the leading state sponsor of terrorism, a designation
+      that has been in place since 1984. However, an analysis of data from the U.S.
+      State Department's annual reports on international terrorism from 2004 to 2023
+      reveals that the vast majority of terrorist attacks—approximately 85-95%—were
+      committed by Sunni extremist groups, such as the Taliban, ISIS, and al-Qaeda affiliates,
+      which have no ties to Iran and often target Shia Muslims. This data challenges
+      the narrative that Iran is the primary source of terrorism, as the predominant
+      terrorist threats stem from Sunni ideologies, while Shia groups like Hezbollah
+      are typically excluded from these statistics.
+    published: '2026-02-17T04:18:56+00:00'
+  - title: The Big Lie About Iran’s Support for Terrorism
+    url: https://sonar21.com/the-big-lie-about-irans-support-for-terrorism/
+    text: 'US policymakers, particularly under the current Trump administration (as
+      of February 2026), consistently describe Iran as the world’s leading or foremost
+      state sponsor of terrorism. This characterization has been a cornerstone of U.S.
+      policy toward Iran for decades, with Iran designated as a State Sponsor of Terrorism
+      by the U.S. State Department since January 19, 1984—the longest-standing designation
+      on the current list (which also includes Cuba, North Korea, and Syria). But what
+      does the data actually show? My old office — i.e., the Coordinator for Counter
+      Terrorism , which is now known as the Bureau of Counter Terrorism — has published
+      an annual report on international terrorism since 1990 that was titled, Patterns
+      of Global Terrorism … The 1990 report, which was mandated by Congress, covered
+      incidents for 1989. Patterns of Global Terrorism was replaced by a new title,
+      Country Reports on Terrorism… That annual report covers every year from 2004 thru
+      2024 (note: the 2025 report is due in April 2026). Although the State Department’s
+      Statistical Annexes do not provide a specific sectarian breakdown (Sunni vs. Shia
+      vs. other) of terrorist attacks, the overwhelming dominance of Sunni extremist
+      groups in the perpetrator data suggests that roughly 90% or more of identified
+      terrorist attacks between 2004-2023 were carried out by groups or individuals
+      with ties to Sunni extremist ideologies, particularly Salafi jihadism. Based on
+      the available data from 2004-2023, approximately 85-95% of terrorist attacks in
+      the State Department reports were carried out by Sunni extremist groups or individuals.
+      The top perpetrator groups each year (Taliban, ISIS, Boko Haram, al-Qaeda affiliates,
+      al-Shabaab, TTP, etc.) were all Sunni. In other words, these are groups with no
+      affiliation or support from Iran. In fact, these groups view Shias, not just Iran,
+      as heretics and target them. Shia groups like Hezbollah and Iran-backed militias
+      are typically not included in these statistics as they primarily target military
+      forces (which may be excluded under the definition of terrorism used). The Houthi
+      movement (Ansar Allah) in Yemen is the main Shia-affiliated group appearing in
+      recent reports, but represents a small fraction of total attacks. A French think
+      tank — FONDAPOL — reports similar results, only their timeline covers 1979 thru
+      2024. From 1979 to April 2024 , the top 5 deadliest groups were responsible for
+      81.8% of all Islamist terrorist attack victims: Al-Qaeda (14,856 deaths) – Sunni
+      Taliban (71,965 deaths) – Sunni Islamic State/ISIS (69,641 deaths) – Sunni Boko
+      Haram (26,081 deaths) – Sunni Al-Shabaab (21,784 deaths) – Sunni Despite these
+      facts, Israel persists in pushing the lie that Iran represents the major threat
+      of terrorism. I addressed that lie in my piece published almost two years ago
+      using the data posted by the I sraeli Foreign Ministry . Note — This data covers
+      the period from 2000 thru April of 2024. The dataset excludes the October 7, 2023
+      attack. Here are the highlights: It is quite clear that “terrorism” attributed
+      to Palestinians has been trending downwards since 2003. Not my numbers, those
+      are Israeli Government numbers. It is noteworthy that the high-water mark of Palestinian
+      violence in the five-year span — 2000 to 2005 — is commonly known as the Second
+      Intifada . The number of Israelis killed and wounded is equally revealing. A total
+      of 1,552 Israelis died during that 24- year period and 5,595 were wounded. A close
+      look at the data shows that 76% of the deaths occurred during the five-year period
+      marking the Second Intifada and a whopping 92% of the wounded happened during
+      that same period. The public hysteria in the West about Hamas terrorism is not
+      supported by the data — only 15% of the attacks during the last 24 years were
+      attributed to Hamas, acting alone or in concert with another Palestinian entity.
+      I am not suggesting that Hamas is a pacifist organization — it is not — but neither
+      is it a political entity engaged in unrelenting violence. While it is true that
+      Hamas and Hezbollah have fired thousands of rockets into Israel over the past
+      25 years, very few of those have caused civilian casualties… The death toll from
+      rockets specifically is approximately 50-75 people killed over the entire 2001-2025
+      period, rather than thousands. By contrast, Israel has killed 11,200-11,500 Palestinians
+      between 2000 and October 6, 2023. Since October 7 until the present, the Israeli
+      military has killed 73,000+ Palestinians killed in Gaza, according to the Gaza
+      Health Ministry. In January 2026, an Israeli military official accepted the Gaza
+      Health Ministry figure of over 71,000 killed by direct Israeli fire . If the United
+      States is genuinely concerned about rooting out the supporters of terrorism, then
+      it should be threatening the Gulf Arabs… Saudi Arabia and Qatar in particular.
+      The point I am making is that the United States is using a false charge of terrorism
+      by Iran as a pretext for launching an unprovoked attack. This is not only wrong,
+      it is evil in its purest form. I discussed the unfolding situation in Iran with
+      Nima today: Judge Napolitano and I discussed the war in Ukraine and the impending
+      war with Iran: I thank you for your invaluable support by taking time to read
+      or comment. I do not charge a subscription fee nor do I accept advertising. I
+      want the content to be accessible to everyone interested in the issues I am discussing.
+      However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: U.S. policymakers, particularly under the Trump administration,
+      have long labeled Iran as the leading state sponsor of terrorism, a designation
+      that has been in place since 1984, but the validity of this characterization is
+      called into question by data from annual reports on international terrorism.
+    paragraph_summary: U.S. policymakers, particularly during the Trump administration,
+      have long labeled Iran as the leading state sponsor of terrorism, a designation
+      that has been in place since 1984. However, an analysis of data from the U.S.
+      State Department's annual reports on international terrorism from 2004 to 2023
+      reveals that the vast majority of terrorist attacks—approximately 85-95%—were
+      committed by Sunni extremist groups, such as the Taliban, ISIS, and al-Qaeda affiliates,
+      which have no ties to Iran and often target Shia Muslims. This data challenges
+      the narrative that Iran is the primary source of terrorism, as the predominant
+      terrorist threats stem from Sunni ideologies, while Shia groups like Hezbollah
+      are typically excluded from these statistics.
+    published: '2026-02-17T04:18:56+00:00'
+  - title: Listen to What the Russians are Saying About Novorossiya
+    url: https://sonar21.com/listen-to-what-the-russians-are-saying-about-novorossiya/
+    text: 'Among the many valuable things I have learned from my esteemed colleague,
+      Ray McGovern, is the importance of listening to what the Russians are saying.
+      One thing that both President Putin and Foreign Minster Lavrov have said, repeatedly
+      during the past 12 years, is the importance of Novorossiya to Russia. In his February
+      9, 2026, interview with TV BRICS (and echoed in related remarks), Lavrov reiterated
+      Russia’s demands for a settlement: eradicating “ Nazi foundations, ” preventing
+      weapons in Ukraine that threaten Russia, and protecting rights of Russian/Russian-speaking
+      people in Crimea, Donbas, and Novorossiya (who the Kyiv regime has labeled as
+      “subhuman” and  launched a civil war against them early in 2014). In a February
+      10, 2026, speech/ceremony marking Diplomatic Workers’ Day (reported by TASS and
+      mid.ru), Lavrov stated that Russia will “ complete the process of returning ”
+      Crimea, Donbas, and Novorossiya to their “ native harbor ” (i.e., full integration
+      with Russia), in line with the “ will ” expressed in the 2022 referendums. He
+      added that linguistic, cultural, and religious rights of Russians/Russian-speakers
+      in areas remaining under Kyiv’s control must be restored, alongside eliminating
+      military threats from Ukraine to Russia’s security. Similar phrasing appeared
+      in his February 11, 2026, remarks during the Government Hour in the State Duma,
+      where he criticized Western “double standards” (e.g., supporting self-determination
+      for Greenland while denying it for Crimea, Donbas, and Novorossiya) and vowed
+      to defend Russia’s position diplomatically. Novorossiya (Russian: Новороссия ,
+      meaning “New Russia”) is a historical term that originated in the 18th century
+      during the era of the Russian Empire. It referred to a large administrative and
+      colonial region in what is now southern and southeastern mainland Ukraine, along
+      the northern coast of the Black Sea and the Sea of Azov. The term entered official
+      use in 1764, when Empress Catherine the Great established the Novorossiya Governorate
+      (Novorossiyskaya guberniya). This was part of Russia’s southward expansion during
+      the late 18th century, driven by a series of Russo-Turkish Wars (notably 1768–1774
+      and 1787–1792). The term was largely dormant after the early 20th century, but
+      was deliberately resurrected in spring 2014 amid Russia’s annexation of Crimea
+      and support for the people of Donbas. Vladimir Putin first prominently used it
+      in an April 17, 2014, call-in show, describing Kharkiv, Luhansk, Donetsk, Kherson,
+      Mykolaiv, and Odesa as part of “ Novorossiya ” — territories that were added to
+      Ukraine by Bolsheviks without regard for ethnic composition. I believe that when
+      Putin and Lavrov speak of Novorossiya today they are signaling  maximalist goals…
+      Not just holding annexed territories (Crimea, Donetsk, Luhansk, Kherson, Zaporizhzhia)
+      but laying a claim to adjacent regions, which include Kharkiv, Dnipropetrovsk,
+      Odessa, Mykolaiv where Russian speakers live or there are historical ties. It
+      did not have to be this way… When Judge Napolitano, Mario Nawfal and I interviewed
+      Sergei Lavrov a year ago, the Foreign Minister emphasized that Russia had been
+      willing to let Donbas and Luhansk remain as part of Ukraine if the rights of Russian
+      speakers were guaranteed and the Russian Orthodox Church protected. He also reminded
+      us that the Ukrainian negotiators were the ones who brought this proposal to the
+      table in Istanbul in April 2022. But that preliminary agreement was blown up as
+      a result of intervention by the US and Boris Johnson. That was a watershed moment…
+      In the ensuing months, Russia held a plebiscite in Donetsk, Luhansk, Zaporhyzhia
+      and Kherson and gave the citizens of those oblasts the choice of becoming part
+      of the Russian Federal Republic or remaining as a persecuted part of Ukraine.
+      The results in all four oblasts were overwhelmingly in favor of joining the Russian
+      Federation, which they subsequently did. Until now — on the eve of the next trilateral
+      meeting in Geneva between Russia, Ukraine and the United States — Russia had demanded
+      that the four new republics, plus Crimea, be internationally recognized as permanent
+      parts of Russia. This is a demand that Ukraine has repeatedly rejected. I believe
+      that Lavrov’s recent remarks about Novorossiya is a deliberate signal that the
+      Russian position has hardened. Any new negotiated settlement to the war in Ukraine
+      will now likely include the demand that Kharkiv, Dnipropetrovsk, Odessa, and Mykolaiv
+      be given the opportunity to decide whether they want to join the Russian Federation.
+      I believe this will be on the agenda on Tuesday in Geneva, if the talks take place.
+      Why “if”? There are growing signs that the US is going to attack Iran. If that
+      attack takes place — given the recent Trilateral Security Agreement that Iran
+      signed with Russia and China — I believe that Russia will suspend further negotiations
+      with the United States and Ukraine. I continue to believe that the only path to
+      peace and security for Russia is through a military defeat of Ukraine and NATO.
+      The Russians remain open to finding a negotiated settlement to the war, but a
+      critical condition is that NATO must move west, not east. I thank you for your
+      invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: The article emphasizes the significance of listening to Russian
+      leaders, particularly their repeated assertions about the importance of Novorossiya
+      to Russia, as articulated by Foreign Minister Lavrov, who outlined Russia's demands
+      for settling the conflict, including the eradication of perceived threats and
+      the protection of Russian-speaking populations in the region.
+    paragraph_summary: The article emphasizes the significance of Novorossiya to Russia,
+      as articulated by President Putin and Foreign Minister Lavrov over the past 12
+      years. In recent statements, Lavrov outlined Russia's demands for a settlement
+      regarding Ukraine, which include the eradication of "Nazi foundations," the prevention
+      of threats from Ukrainian weapons, and the protection of rights for Russian and
+      Russian-speaking populations in Crimea, Donbas, and Novorossiya. He affirmed Russia's
+      commitment to fully integrating these regions back into Russia, citing the will
+      expressed in the 2022 referendums, while also criticizing Western double standards
+      regarding self-determination. The term Novorossiya, which dates back to the 18th
+      century during the Russian Empire, refers to a historical region in southern and
+      southeastern Ukraine.
+    published: '2026-02-16T05:45:13+00:00'
+  - title: Listen to What the Russians are Saying About Novorossiya
+    url: https://sonar21.com/listen-to-what-the-russians-are-saying-about-novorossiya/
+    text: 'Among the many valuable things I have learned from my esteemed colleague,
+      Ray McGovern, is the importance of listening to what the Russians are saying.
+      One thing that both President Putin and Foreign Minster Lavrov have said, repeatedly
+      during the past 12 years, is the importance of Novorossiya to Russia. In his February
+      9, 2026, interview with TV BRICS (and echoed in related remarks), Lavrov reiterated
+      Russia’s demands for a settlement: eradicating “ Nazi foundations, ” preventing
+      weapons in Ukraine that threaten Russia, and protecting rights of Russian/Russian-speaking
+      people in Crimea, Donbas, and Novorossiya (who the Kyiv regime has labeled as
+      “subhuman” and  launched a civil war against them early in 2014). In a February
+      10, 2026, speech/ceremony marking Diplomatic Workers’ Day (reported by TASS and
+      mid.ru), Lavrov stated that Russia will “ complete the process of returning ”
+      Crimea, Donbas, and Novorossiya to their “ native harbor ” (i.e., full integration
+      with Russia), in line with the “ will ” expressed in the 2022 referendums. He
+      added that linguistic, cultural, and religious rights of Russians/Russian-speakers
+      in areas remaining under Kyiv’s control must be restored, alongside eliminating
+      military threats from Ukraine to Russia’s security. Similar phrasing appeared
+      in his February 11, 2026, remarks during the Government Hour in the State Duma,
+      where he criticized Western “double standards” (e.g., supporting self-determination
+      for Greenland while denying it for Crimea, Donbas, and Novorossiya) and vowed
+      to defend Russia’s position diplomatically. Novorossiya (Russian: Новороссия ,
+      meaning “New Russia”) is a historical term that originated in the 18th century
+      during the era of the Russian Empire. It referred to a large administrative and
+      colonial region in what is now southern and southeastern mainland Ukraine, along
+      the northern coast of the Black Sea and the Sea of Azov. The term entered official
+      use in 1764, when Empress Catherine the Great established the Novorossiya Governorate
+      (Novorossiyskaya guberniya). This was part of Russia’s southward expansion during
+      the late 18th century, driven by a series of Russo-Turkish Wars (notably 1768–1774
+      and 1787–1792). The term was largely dormant after the early 20th century, but
+      was deliberately resurrected in spring 2014 amid Russia’s annexation of Crimea
+      and support for the people of Donbas. Vladimir Putin first prominently used it
+      in an April 17, 2014, call-in show, describing Kharkiv, Luhansk, Donetsk, Kherson,
+      Mykolaiv, and Odesa as part of “ Novorossiya ” — territories that were added to
+      Ukraine by Bolsheviks without regard for ethnic composition. I believe that when
+      Putin and Lavrov speak of Novorossiya today they are signaling  maximalist goals…
+      Not just holding annexed territories (Crimea, Donetsk, Luhansk, Kherson, Zaporizhzhia)
+      but laying a claim to adjacent regions, which include Kharkiv, Dnipropetrovsk,
+      Odessa, Mykolaiv where Russian speakers live or there are historical ties. It
+      did not have to be this way… When Judge Napolitano, Mario Nawfal and I interviewed
+      Sergei Lavrov a year ago, the Foreign Minister emphasized that Russia had been
+      willing to let Donbas and Luhansk remain as part of Ukraine if the rights of Russian
+      speakers were guaranteed and the Russian Orthodox Church protected. He also reminded
+      us that the Ukrainian negotiators were the ones who brought this proposal to the
+      table in Istanbul in April 2022. But that preliminary agreement was blown up as
+      a result of intervention by the US and Boris Johnson. That was a watershed moment…
+      In the ensuing months, Russia held a plebiscite in Donetsk, Luhansk, Zaporhyzhia
+      and Kherson and gave the citizens of those oblasts the choice of becoming part
+      of the Russian Federal Republic or remaining as a persecuted part of Ukraine.
+      The results in all four oblasts were overwhelmingly in favor of joining the Russian
+      Federation, which they subsequently did. Until now — on the eve of the next trilateral
+      meeting in Geneva between Russia, Ukraine and the United States — Russia had demanded
+      that the four new republics, plus Crimea, be internationally recognized as permanent
+      parts of Russia. This is a demand that Ukraine has repeatedly rejected. I believe
+      that Lavrov’s recent remarks about Novorossiya is a deliberate signal that the
+      Russian position has hardened. Any new negotiated settlement to the war in Ukraine
+      will now likely include the demand that Kharkiv, Dnipropetrovsk, Odessa, and Mykolaiv
+      be given the opportunity to decide whether they want to join the Russian Federation.
+      I believe this will be on the agenda on Tuesday in Geneva, if the talks take place.
+      Why “if”? There are growing signs that the US is going to attack Iran. If that
+      attack takes place — given the recent Trilateral Security Agreement that Iran
+      signed with Russia and China — I believe that Russia will suspend further negotiations
+      with the United States and Ukraine. I continue to believe that the only path to
+      peace and security for Russia is through a military defeat of Ukraine and NATO.
+      The Russians remain open to finding a negotiated settlement to the war, but a
+      critical condition is that NATO must move west, not east. I thank you for your
+      invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: The article emphasizes the significance of listening to Russian
+      leaders, particularly their repeated assertions about the importance of Novorossiya
+      to Russia, as articulated by Foreign Minister Lavrov, who outlined Russia's demands
+      for settling the conflict, including the eradication of perceived threats and
+      the protection of Russian-speaking populations in the region.
+    paragraph_summary: The article emphasizes the significance of Novorossiya to Russia,
+      as articulated by President Putin and Foreign Minister Lavrov over the past 12
+      years. In recent statements, Lavrov outlined Russia's demands for a settlement
+      regarding Ukraine, which include the eradication of "Nazi foundations," the prevention
+      of threats from Ukrainian weapons, and the protection of rights for Russian and
+      Russian-speaking populations in Crimea, Donbas, and Novorossiya. He affirmed Russia's
+      commitment to fully integrating these regions back into Russia, citing the will
+      expressed in the 2022 referendums, while also criticizing Western double standards
+      regarding self-determination. The term Novorossiya, which dates back to the 18th
+      century during the Russian Empire, refers to a historical region in southern and
+      southeastern Ukraine.
+    published: '2026-02-16T05:45:13+00:00'
+  - title: The Seth Rich Question
+    url: https://sonar21.com/the-seth-rich-question/
+    text: '[ NOTE TO READERS: The following is a chapter from a book I’m writing about
+      Russiagate. I am publishing the chapter here in order to get your reaction. I
+      look forward to your comments. ] On July 10, 2016, Seth Rich, a 27-year-old data
+      analyst for the Democratic National Committee, was shot twice in the back while
+      walking home in the Bloomingdale neighborhood of Washington, D.C. He died at the
+      hospital shortly afterward. D.C. police classified the killing as a botched robbery,
+      though Rich’s wallet, phone, and watch were not taken. The murder remains unsolved.
+      Ten days later, on July 22, 2016, WikiLeaks published nearly 20,000 DNC emails
+      that would rock the Democratic Party and reshape the presidential campaign. The
+      timing raised questions that investigators seemed determined not to ask. Could
+      Seth Rich, who had access to DNC data systems, have been the source of the WikiLeaks
+      material? For me and others questioning the Russian hacking narrative, the Seth
+      Rich case represented a critical alternative explanation for how DNC emails reached
+      WikiLeaks. Yet any mention of Rich as a possible source was quickly branded as
+      conspiracy theory, and those who raised questions about his death were accused
+      of exploiting a family tragedy for political purposes. The Basic Facts Seth Rich
+      worked as the Voter Expansion Data Director for the DNC. His position gave him
+      access to the DNC’s voter database and email systems. He was by all accounts skilled
+      with data and technology, enthusiastic about his work, and committed to Democratic
+      politics. On the night of July 10, Rich had been at Lou’s City Bar, a local establishment
+      he frequented. He left around 1:30 AM and was walking the short distance to his
+      apartment when he was shot. The shooting occurred around 4:20 AM on a quiet residential
+      street. There were no witnesses who came forward, and no surveillance footage
+      of the actual shooting. D.C. police found no signs of a struggle. Rich’s hands
+      were not injured. His wallet with credit cards and cash was still in his pocket,
+      as were his phone and watch. Nothing appeared to have been taken. Yet police maintained
+      the robbery theory, suggesting that perhaps the shooter was scared off before
+      completing the theft. The WikiLeaks Connection WikiLeaks published the first batch
+      of DNC emails on July 22, 2016, just 12 days after Rich’s death. The timing was
+      significant. The emails were released just before the Democratic National Convention,
+      when their impact would be maximum. They revealed favoritism toward Hillary Clinton
+      over Bernie Sanders, leading to the resignation of DNC Chair Debbie Wasserman
+      Schultz. Julian Assange, the WikiLeaks founder, has consistently refused to reveal
+      his sources. This is standard practice for WikiLeaks, which promises source protection.
+      However, Assange has made comments that many interpreted as hints about Rich being
+      the source. In a Dutch television interview in August 2016, Assange discussed
+      the risks that WikiLeaks sources face. When asked about the DNC emails, he brought
+      up Seth Rich unprompted: We have to understand how high the stakes are in the
+      United States. Our sources take risks, and they are—they become concerned to see
+      things occurring like that. When the interviewer asked if he was suggesting Rich
+      was a source, Assange replied: We don’t comment on who our sources are… We have
+      to understand how high the stakes are in the United States. WikiLeaks also announced
+      a $20,000 reward for information leading to conviction in the Seth Rich murder.
+      This was unusual; WikiLeaks does not typically offer rewards for solving crimes.
+      The move was widely interpreted as a signal about Rich’s significance to WikiLeaks.
+      The Sy Hersh Recording One of the most significant pieces of evidence suggesting
+      Seth Rich as the source came from veteran investigative journalist Seymour Hersh.
+      In an audio recording that later surfaced, Hersh described what an FBI source
+      had told him about the investigation. According to Hersh’s source, the FBI had
+      examined Seth Rich’s laptop and found evidence that he had contacted WikiLeaks.
+      The source allegedly told Hersh that Rich had offered to provide DNC emails to
+      WikiLeaks in exchange for money. Hersh described seeing an FBI report that detailed
+      these communications. Hersh’s account, if accurate, would have been explosive.
+      It would have confirmed that the DNC emails came from an insider, not from Russian
+      hackers. It would have provided a direct alternative to the Russian interference
+      narrative. However, Hersh did not publish this information in his official reporting.
+      When the audio recording surfaced, he distanced himself from it, saying it was
+      just him thinking out loud based on what a source had told him, not something
+      he had verified to his journalistic standards. For me, Hersh’s reluctance to publish
+      was itself revealing. Hersh was one of America’s most respected investigative
+      journalists, known for breaking major stories even when they were politically
+      sensitive. The fact that he had this information but chose not to publish suggested
+      the political sensitivity of the Seth Rich story. The Download Speed Evidence
+      Revisited The technical analysis conducted by VIPS, which we discussed in the
+      previous chapter, takes on additional significance when considered alongside the
+      Seth Rich possibility. The transfer speeds indicated in the metadata were consistent
+      with someone copying files to a USB drive while physically present at DNC headquarters.
+      Seth Rich worked at DNC headquarters. He had access to the systems. He had the
+      technical knowledge to locate and copy email files. The timeline fits: the metadata
+      shows files being copied in late May 2016, weeks before Rich’s death and before
+      the WikiLeaks release. This scenario would explain why the FBI never found NSA
+      intercepts showing data being transmitted to Russia—because there were no such
+      transmissions. The data never left the building via the internet. It left on a
+      physical drive, carried out by an insider. Why This Theory Was Dismissed Any discussion
+      of Seth Rich as a possible WikiLeaks source was quickly and forcefully dismissed
+      as conspiracy theory. News organizations that had previously aired questions about
+      the case abruptly shut down coverage. Fox News retracted a story about Rich. NPR
+      ran multiple pieces debunking the theory. The Rich family, understandably grieving
+      and wanting the focus to remain on finding their son’s killer rather than on political
+      speculation, publicly asked that people stop theorizing about connections to WikiLeaks.
+      This request was entirely reasonable and sympathetic. However, I noted that the
+      forceful suppression of any inquiry into the WikiLeaks connection seemed to go
+      beyond respecting the family’s wishes. There appeared to be a coordinated effort
+      to ensure that this alternative explanation was not seriously investigated or
+      discussed. Part of this was doubtless genuine concern about conspiracy theories
+      and respect for a grieving family. But I suspected that part of it was also political—a
+      recognition that if Seth Rich was the source, the entire Russian hacking narrative
+      would collapse. The FBI’s Role The FBI’s handling of the Seth Rich case raised
+      additional questions. If the FBI had examined Rich’s laptop and found evidence
+      of WikiLeaks communications, as Hersh’s source claimed, why was this never made
+      public? Why was it not included in the Mueller Report or mentioned in congressional
+      testimonies? The FBI initially denied having any files related to Seth Rich. However,
+      in response to a Freedom of Information Act lawsuit, the FBI later acknowledged
+      that it did have files related to Rich—but claimed they were exempt from disclosure
+      for various reasons including privacy and ongoing investigation. This contradiction
+      was significant. If the FBI truly had no involvement in the case, as initially
+      claimed, there would be no files. The existence of FBI files suggested that the
+      Bureau had indeed examined evidence related to Rich, contrary to public statements.
+      Moreover, if there was evidence linking Rich to WikiLeaks, the FBI had an obligation
+      to investigate this lead in the DNC email leak. The fact that this was never publicly
+      pursued suggested either that the evidence didn’t exist or that it was being suppressed
+      because it undermined the Russian hacking narrative. The Murder Investigation
+      The actual murder investigation by D.C. police has produced no arrests or public
+      leads. For a case that occurred in a populated neighborhood in the nation’s capital,
+      with what should have been security cameras in the area, the lack of progress
+      has been striking. Some have speculated that Rich’s murder was related to his
+      possible role in leaking DNC emails—either as retaliation or to prevent him from
+      revealing what he had done. Others maintain it was simply a tragic random crime.
+      Without solving the murder, we cannot know. What is clear is that the murder investigation
+      proceeded entirely separately from any inquiry into the DNC email leak. If D.C.
+      police or the FBI ever seriously investigated whether there was a connection between
+      Rich’s death and the WikiLeaks releases, no evidence of such investigation has
+      become public. The Assange Factor Julian Assange’s situation complicates efforts
+      to learn the truth about WikiLeaks’ sources. Assange spent years confined to the
+      Ecuadorian embassy in London, then was arrested and has been fighting extradition
+      to the United States. He faces charges related to his WikiLeaks activities. As
+      I noted, Assange knows who provided the DNC emails to WikiLeaks. His testimony
+      could definitively answer whether it was Russian hackers, Seth Rich, or someone
+      else entirely. Yet Assange has been kept effectively incommunicado, unable to
+      fully participate in the public debate about Russian interference. I argued that
+      this was deliberate. Assange’s testimony would be dangerous to the Russiagate
+      narrative if he confirmed an insider source. Better to keep him isolated and unable
+      to speak freely than to risk him demolishing the foundation of years of investigation
+      and political conflict. The threat of his prosecution also served to intimidate
+      others who might consider revealing inconvenient truths. If the U.S. government
+      would pursue Assange so relentlessly, others with knowledge of what really happened
+      might think twice before coming forward. The Political Stakes Understanding why
+      the Seth Rich alternative was so forcefully dismissed requires understanding the
+      political stakes. If the DNC emails came from an insider leak rather than a Russian
+      hack, several key elements of the Russiagate narrative would collapse. There would
+      be no Russian theft of emails. No coordination between Russian intelligence and
+      WikiLeaks. No cyber attack as part of Russian election interference. The entire
+      structure of alleged collusion would lack its foundation. Moreover, it would raise
+      uncomfortable questions about the DNC’s own security and internal politics. If
+      an insider was motivated to leak emails showing favoritism toward Clinton, what
+      did that say about the DNC’s conduct? The narrative would shift from external
+      attack to internal whistleblowing. For those who had invested political capital
+      in the Russia narrative—which by summer 2016 included much of the Democratic Party
+      leadership, the Clinton campaign, and sympathetic media—the Seth Rich theory was
+      an existential threat. It had to be discredited completely, not examined seriously.
+      What We Can and Cannot Know I was careful to distinguish between what could be
+      proven and what was plausible speculation. We cannot definitively prove that Seth
+      Rich was WikiLeaks’ source without testimony from Assange or someone else with
+      direct knowledge. We cannot prove that his murder was connected to any leak rather
+      than being a random crime. What we can say is that Rich had access, means, and
+      potentially motive to leak DNC emails. That the technical evidence suggests an
+      insider leak rather than a remote hack. That there are credible reports from well-sourced
+      journalists suggesting FBI evidence of a WikiLeaks connection. That WikiLeaks
+      itself has hinted at Rich as a source. We can also say that these leads were never
+      seriously investigated by authorities who were instead pursuing the Russian hacking
+      theory. That evidence potentially exculpating Russia was ignored or suppressed.
+      That a plausible alternative explanation was dismissed as conspiracy theory without
+      proper examination. The Cover-Up Dynamic Whether or not Seth Rich was the source,
+      I argued that the way his possible role was handled reveals a troubling dynamic:
+      inconvenient facts were suppressed to maintain a preferred narrative. This pattern
+      appeared throughout Russiagate. Evidence that undermined the collusion narrative
+      was dismissed, ignored, or classified. Evidence that supported it was embraced
+      uncritically. The goal seemed to be building a case rather than following the
+      evidence. The Seth Rich case exemplified this dynamic. There was enough evidence
+      to warrant serious investigation of whether he was the source. Instead, any mention
+      of the possibility was treated as illegitimate. The result was that an important
+      alternative theory was never properly examined. Implications for the Broader Narrative
+      If the DNC emails came from Seth Rich or another insider rather than from Russian
+      hackers, the implications extend far beyond that single event. It would mean that
+      the foundational claim of the entire Russiagate investigation—that Russia stole
+      and released DNC emails—was false. The Intelligence Community Assessment would
+      have been wrong on a central point. The Mueller investigation would have been
+      based on a false premise. Years of political conflict and damaged relations with
+      Russia would have been built on a misunderstanding or deliberate deception about
+      how DNC emails reached WikiLeaks. This is why I insisted on pressing the question.
+      It was not about exploiting a murder victim or promoting conspiracy theories.
+      It was about insisting that alternative explanations be seriously examined rather
+      than dismissed out of hand for political convenience. The International Unity
+      Club , which hosted my November visit to Russia, has created a YouTube channel.
+      Here is the interview that Pepe Escobar, Danny Haiphong and me did with General
+      Apti Alaudinov: I thank you for your invaluable support by taking time to read
+      or comment. I do not charge a subscription fee nor do I accept advertising. I
+      want the content to be accessible to everyone interested in the issues I am discussing.
+      However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The unsolved murder of Seth Rich, a DNC data analyst shot
+      in 2016 shortly before WikiLeaks published DNC emails, has fueled speculation
+      about his potential role as a source for the leaked material, challenging the
+      narrative of Russian hacking.
+    paragraph_summary: On July 10, 2016, Seth Rich, a 27-year-old data analyst for the
+      Democratic National Committee (DNC), was fatally shot in Washington, D.C., in
+      what police deemed a botched robbery, despite his belongings being untouched.
+      His murder remains unsolved, and just ten days later, WikiLeaks published a trove
+      of DNC emails, raising speculation about whether Rich, who had access to sensitive
+      DNC data, might have been the source. This theory gained traction among those
+      skeptical of the Russian hacking narrative but was quickly dismissed as a conspiracy
+      theory, with critics accusing proponents of exploiting Rich's death for political
+      gain. Rich was known for his dedication to the DNC and was last seen leaving a
+      bar shortly before the shooting, which occurred in a quiet area with no witnesses
+      or surveillance footage.
+    published: '2026-02-15T05:33:42+00:00'
+  - title: The Seth Rich Question
+    url: https://sonar21.com/the-seth-rich-question/
+    text: '[ NOTE TO READERS: The following is a chapter from a book I’m writing about
+      Russiagate. I am publishing the chapter here in order to get your reaction. I
+      look forward to your comments. ] On July 10, 2016, Seth Rich, a 27-year-old data
+      analyst for the Democratic National Committee, was shot twice in the back while
+      walking home in the Bloomingdale neighborhood of Washington, D.C. He died at the
+      hospital shortly afterward. D.C. police classified the killing as a botched robbery,
+      though Rich’s wallet, phone, and watch were not taken. The murder remains unsolved.
+      Ten days later, on July 22, 2016, WikiLeaks published nearly 20,000 DNC emails
+      that would rock the Democratic Party and reshape the presidential campaign. The
+      timing raised questions that investigators seemed determined not to ask. Could
+      Seth Rich, who had access to DNC data systems, have been the source of the WikiLeaks
+      material? For me and others questioning the Russian hacking narrative, the Seth
+      Rich case represented a critical alternative explanation for how DNC emails reached
+      WikiLeaks. Yet any mention of Rich as a possible source was quickly branded as
+      conspiracy theory, and those who raised questions about his death were accused
+      of exploiting a family tragedy for political purposes. The Basic Facts Seth Rich
+      worked as the Voter Expansion Data Director for the DNC. His position gave him
+      access to the DNC’s voter database and email systems. He was by all accounts skilled
+      with data and technology, enthusiastic about his work, and committed to Democratic
+      politics. On the night of July 10, Rich had been at Lou’s City Bar, a local establishment
+      he frequented. He left around 1:30 AM and was walking the short distance to his
+      apartment when he was shot. The shooting occurred around 4:20 AM on a quiet residential
+      street. There were no witnesses who came forward, and no surveillance footage
+      of the actual shooting. D.C. police found no signs of a struggle. Rich’s hands
+      were not injured. His wallet with credit cards and cash was still in his pocket,
+      as were his phone and watch. Nothing appeared to have been taken. Yet police maintained
+      the robbery theory, suggesting that perhaps the shooter was scared off before
+      completing the theft. The WikiLeaks Connection WikiLeaks published the first batch
+      of DNC emails on July 22, 2016, just 12 days after Rich’s death. The timing was
+      significant. The emails were released just before the Democratic National Convention,
+      when their impact would be maximum. They revealed favoritism toward Hillary Clinton
+      over Bernie Sanders, leading to the resignation of DNC Chair Debbie Wasserman
+      Schultz. Julian Assange, the WikiLeaks founder, has consistently refused to reveal
+      his sources. This is standard practice for WikiLeaks, which promises source protection.
+      However, Assange has made comments that many interpreted as hints about Rich being
+      the source. In a Dutch television interview in August 2016, Assange discussed
+      the risks that WikiLeaks sources face. When asked about the DNC emails, he brought
+      up Seth Rich unprompted: We have to understand how high the stakes are in the
+      United States. Our sources take risks, and they are—they become concerned to see
+      things occurring like that. When the interviewer asked if he was suggesting Rich
+      was a source, Assange replied: We don’t comment on who our sources are… We have
+      to understand how high the stakes are in the United States. WikiLeaks also announced
+      a $20,000 reward for information leading to conviction in the Seth Rich murder.
+      This was unusual; WikiLeaks does not typically offer rewards for solving crimes.
+      The move was widely interpreted as a signal about Rich’s significance to WikiLeaks.
+      The Sy Hersh Recording One of the most significant pieces of evidence suggesting
+      Seth Rich as the source came from veteran investigative journalist Seymour Hersh.
+      In an audio recording that later surfaced, Hersh described what an FBI source
+      had told him about the investigation. According to Hersh’s source, the FBI had
+      examined Seth Rich’s laptop and found evidence that he had contacted WikiLeaks.
+      The source allegedly told Hersh that Rich had offered to provide DNC emails to
+      WikiLeaks in exchange for money. Hersh described seeing an FBI report that detailed
+      these communications. Hersh’s account, if accurate, would have been explosive.
+      It would have confirmed that the DNC emails came from an insider, not from Russian
+      hackers. It would have provided a direct alternative to the Russian interference
+      narrative. However, Hersh did not publish this information in his official reporting.
+      When the audio recording surfaced, he distanced himself from it, saying it was
+      just him thinking out loud based on what a source had told him, not something
+      he had verified to his journalistic standards. For me, Hersh’s reluctance to publish
+      was itself revealing. Hersh was one of America’s most respected investigative
+      journalists, known for breaking major stories even when they were politically
+      sensitive. The fact that he had this information but chose not to publish suggested
+      the political sensitivity of the Seth Rich story. The Download Speed Evidence
+      Revisited The technical analysis conducted by VIPS, which we discussed in the
+      previous chapter, takes on additional significance when considered alongside the
+      Seth Rich possibility. The transfer speeds indicated in the metadata were consistent
+      with someone copying files to a USB drive while physically present at DNC headquarters.
+      Seth Rich worked at DNC headquarters. He had access to the systems. He had the
+      technical knowledge to locate and copy email files. The timeline fits: the metadata
+      shows files being copied in late May 2016, weeks before Rich’s death and before
+      the WikiLeaks release. This scenario would explain why the FBI never found NSA
+      intercepts showing data being transmitted to Russia—because there were no such
+      transmissions. The data never left the building via the internet. It left on a
+      physical drive, carried out by an insider. Why This Theory Was Dismissed Any discussion
+      of Seth Rich as a possible WikiLeaks source was quickly and forcefully dismissed
+      as conspiracy theory. News organizations that had previously aired questions about
+      the case abruptly shut down coverage. Fox News retracted a story about Rich. NPR
+      ran multiple pieces debunking the theory. The Rich family, understandably grieving
+      and wanting the focus to remain on finding their son’s killer rather than on political
+      speculation, publicly asked that people stop theorizing about connections to WikiLeaks.
+      This request was entirely reasonable and sympathetic. However, I noted that the
+      forceful suppression of any inquiry into the WikiLeaks connection seemed to go
+      beyond respecting the family’s wishes. There appeared to be a coordinated effort
+      to ensure that this alternative explanation was not seriously investigated or
+      discussed. Part of this was doubtless genuine concern about conspiracy theories
+      and respect for a grieving family. But I suspected that part of it was also political—a
+      recognition that if Seth Rich was the source, the entire Russian hacking narrative
+      would collapse. The FBI’s Role The FBI’s handling of the Seth Rich case raised
+      additional questions. If the FBI had examined Rich’s laptop and found evidence
+      of WikiLeaks communications, as Hersh’s source claimed, why was this never made
+      public? Why was it not included in the Mueller Report or mentioned in congressional
+      testimonies? The FBI initially denied having any files related to Seth Rich. However,
+      in response to a Freedom of Information Act lawsuit, the FBI later acknowledged
+      that it did have files related to Rich—but claimed they were exempt from disclosure
+      for various reasons including privacy and ongoing investigation. This contradiction
+      was significant. If the FBI truly had no involvement in the case, as initially
+      claimed, there would be no files. The existence of FBI files suggested that the
+      Bureau had indeed examined evidence related to Rich, contrary to public statements.
+      Moreover, if there was evidence linking Rich to WikiLeaks, the FBI had an obligation
+      to investigate this lead in the DNC email leak. The fact that this was never publicly
+      pursued suggested either that the evidence didn’t exist or that it was being suppressed
+      because it undermined the Russian hacking narrative. The Murder Investigation
+      The actual murder investigation by D.C. police has produced no arrests or public
+      leads. For a case that occurred in a populated neighborhood in the nation’s capital,
+      with what should have been security cameras in the area, the lack of progress
+      has been striking. Some have speculated that Rich’s murder was related to his
+      possible role in leaking DNC emails—either as retaliation or to prevent him from
+      revealing what he had done. Others maintain it was simply a tragic random crime.
+      Without solving the murder, we cannot know. What is clear is that the murder investigation
+      proceeded entirely separately from any inquiry into the DNC email leak. If D.C.
+      police or the FBI ever seriously investigated whether there was a connection between
+      Rich’s death and the WikiLeaks releases, no evidence of such investigation has
+      become public. The Assange Factor Julian Assange’s situation complicates efforts
+      to learn the truth about WikiLeaks’ sources. Assange spent years confined to the
+      Ecuadorian embassy in London, then was arrested and has been fighting extradition
+      to the United States. He faces charges related to his WikiLeaks activities. As
+      I noted, Assange knows who provided the DNC emails to WikiLeaks. His testimony
+      could definitively answer whether it was Russian hackers, Seth Rich, or someone
+      else entirely. Yet Assange has been kept effectively incommunicado, unable to
+      fully participate in the public debate about Russian interference. I argued that
+      this was deliberate. Assange’s testimony would be dangerous to the Russiagate
+      narrative if he confirmed an insider source. Better to keep him isolated and unable
+      to speak freely than to risk him demolishing the foundation of years of investigation
+      and political conflict. The threat of his prosecution also served to intimidate
+      others who might consider revealing inconvenient truths. If the U.S. government
+      would pursue Assange so relentlessly, others with knowledge of what really happened
+      might think twice before coming forward. The Political Stakes Understanding why
+      the Seth Rich alternative was so forcefully dismissed requires understanding the
+      political stakes. If the DNC emails came from an insider leak rather than a Russian
+      hack, several key elements of the Russiagate narrative would collapse. There would
+      be no Russian theft of emails. No coordination between Russian intelligence and
+      WikiLeaks. No cyber attack as part of Russian election interference. The entire
+      structure of alleged collusion would lack its foundation. Moreover, it would raise
+      uncomfortable questions about the DNC’s own security and internal politics. If
+      an insider was motivated to leak emails showing favoritism toward Clinton, what
+      did that say about the DNC’s conduct? The narrative would shift from external
+      attack to internal whistleblowing. For those who had invested political capital
+      in the Russia narrative—which by summer 2016 included much of the Democratic Party
+      leadership, the Clinton campaign, and sympathetic media—the Seth Rich theory was
+      an existential threat. It had to be discredited completely, not examined seriously.
+      What We Can and Cannot Know I was careful to distinguish between what could be
+      proven and what was plausible speculation. We cannot definitively prove that Seth
+      Rich was WikiLeaks’ source without testimony from Assange or someone else with
+      direct knowledge. We cannot prove that his murder was connected to any leak rather
+      than being a random crime. What we can say is that Rich had access, means, and
+      potentially motive to leak DNC emails. That the technical evidence suggests an
+      insider leak rather than a remote hack. That there are credible reports from well-sourced
+      journalists suggesting FBI evidence of a WikiLeaks connection. That WikiLeaks
+      itself has hinted at Rich as a source. We can also say that these leads were never
+      seriously investigated by authorities who were instead pursuing the Russian hacking
+      theory. That evidence potentially exculpating Russia was ignored or suppressed.
+      That a plausible alternative explanation was dismissed as conspiracy theory without
+      proper examination. The Cover-Up Dynamic Whether or not Seth Rich was the source,
+      I argued that the way his possible role was handled reveals a troubling dynamic:
+      inconvenient facts were suppressed to maintain a preferred narrative. This pattern
+      appeared throughout Russiagate. Evidence that undermined the collusion narrative
+      was dismissed, ignored, or classified. Evidence that supported it was embraced
+      uncritically. The goal seemed to be building a case rather than following the
+      evidence. The Seth Rich case exemplified this dynamic. There was enough evidence
+      to warrant serious investigation of whether he was the source. Instead, any mention
+      of the possibility was treated as illegitimate. The result was that an important
+      alternative theory was never properly examined. Implications for the Broader Narrative
+      If the DNC emails came from Seth Rich or another insider rather than from Russian
+      hackers, the implications extend far beyond that single event. It would mean that
+      the foundational claim of the entire Russiagate investigation—that Russia stole
+      and released DNC emails—was false. The Intelligence Community Assessment would
+      have been wrong on a central point. The Mueller investigation would have been
+      based on a false premise. Years of political conflict and damaged relations with
+      Russia would have been built on a misunderstanding or deliberate deception about
+      how DNC emails reached WikiLeaks. This is why I insisted on pressing the question.
+      It was not about exploiting a murder victim or promoting conspiracy theories.
+      It was about insisting that alternative explanations be seriously examined rather
+      than dismissed out of hand for political convenience. The International Unity
+      Club , which hosted my November visit to Russia, has created a YouTube channel.
+      Here is the interview that Pepe Escobar, Danny Haiphong and me did with General
+      Apti Alaudinov: I thank you for your invaluable support by taking time to read
+      or comment. I do not charge a subscription fee nor do I accept advertising. I
+      want the content to be accessible to everyone interested in the issues I am discussing.
+      However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The unsolved murder of Seth Rich, a DNC data analyst shot
+      in 2016 shortly before WikiLeaks published DNC emails, has fueled speculation
+      about his potential role as a source for the leaked material, challenging the
+      narrative of Russian hacking.
+    paragraph_summary: On July 10, 2016, Seth Rich, a 27-year-old data analyst for the
+      Democratic National Committee (DNC), was fatally shot in Washington, D.C., in
+      what police deemed a botched robbery, despite his belongings being untouched.
+      His murder remains unsolved, and just ten days later, WikiLeaks published a trove
+      of DNC emails, raising speculation about whether Rich, who had access to sensitive
+      DNC data, might have been the source. This theory gained traction among those
+      skeptical of the Russian hacking narrative but was quickly dismissed as a conspiracy
+      theory, with critics accusing proponents of exploiting Rich's death for political
+      gain. Rich was known for his dedication to the DNC and was last seen leaving a
+      bar shortly before the shooting, which occurred in a quiet area with no witnesses
+      or surveillance footage.
+    published: '2026-02-15T05:33:42+00:00'
+  - title: Russia and China Are Expanding their Cooperation to Counter US Efforts to
+      Bully Iran and Cuba
+    url: https://sonar21.com/russia-and-china-are-expanding-their-cooperation-to-counter-us-efforts-to-bully-iran-and-cuba/
+    text: 'This will be a rather lengthy article, but you need to know what Russia and
+      China are doing in a closely coordinated series of actions that show a serious
+      commitment to counter US actions to punish and isolate Iran and Cuba. Let’s start
+      with Iran… Since the June 2025 12-day Iran–Israel war (which ended with a US-brokered
+      ceasefire on 24 June 2025), Russia and China have provided Iran with a combination
+      of diplomatic, economic, military-technical, and strategic support. This has helped
+      Tehran recover from strikes on its nuclear sites, air defenses, and missile infrastructure,
+      while deepening their “axis” alignment against Western pressure. Support has been
+      pragmatic rather than unconditional—neither offered direct intervention during
+      the conflict, leading to some Iranian frustration—but has accelerated in the months
+      since. The biggest news — a development that has been largely ignored in the West
+      — was the signing of the Trilateral Strategic Pact (signed 29 January 2026), which
+      provides a comprehensive framework for diplomatic, economic, and security coordination
+      (emphasizing sovereignty, sanctions resistance, and multipolarity; no formal defense
+      alliance). The signing occurred through simultaneous ceremonies in Tehran, Beijing,
+      and Moscow, as confirmed by state media in all three countries and reported across
+      outlets like Middle East Monitor, GV Wire, and others. It represents a significant
+      escalation in coordination among the three nations, building directly on their
+      existing bilateral frameworks. It formalizes a trilateral coordination mechanism
+      for the first time, linking the three powers in a shared strategic framework.
+      It builds on the bilateral agreements that Iran had signed previously with Russia
+      and China: The Iran-Russia 20-year Comprehensive Strategic Partnership Treaty
+      (signed January 17, 2025, entered into force October 2025), focused on economic,
+      political, defense, and sanctions-evasion ties. The Iran-China 25-year Comprehensive
+      Cooperation Agreement (signed 2021), emphasizing trade, infrastructure, energy,
+      and Belt and Road Initiative projects. While the full text has been released incrementally
+      (with portions still emerging as of early February 2026), public descriptions
+      and official statements highlight the following core elements: Diplomatic coordination
+      — Unified stances on international issues, including opposition to Western sanctions,
+      support for multipolarity, and mutual backing in forums like the UN. Economic
+      resilience and cooperation — Enhanced trade (e.g., energy exports, yuan/ruble-based
+      mechanisms), sanctions circumvention, and infrastructure projects (e.g., expanding
+      Belt and Road ties, North-South Transport Corridor involvement). Strategic and
+      security alignment — Military-technical cooperation, intelligence sharing, and
+      joint exercises (e.g., building on annual “Maritime Security Belt” drills; a major
+      joint naval exercise involving all three that will take place in the Gulf of Oman
+      and northern Indian Ocean in the coming weeks). Nuclear sovereignty — Emphasis
+      on Iran’s right to peaceful nuclear development and resistance to external interference.
+      Trilateral nuclear and military talks — Including IAEA discussions and coordinated
+      exercises. No mutual defense clause — It explicitly stops short of a formal military
+      alliance (unlike NATO’s Article 5), focusing instead on coordination and mutual
+      support without automatic defense obligations. State media in Tehran, Beijing,
+      and Moscow described it as a “cornerstone” for a new multipolar world order, with
+      Chinese messaging highlighting opposition to “unilateral coercion” and Russian/Iranian
+      outlets framing it as bolstering sovereignty against external threats. While I
+      do not believe that Russia and China will join the fray if Iran is attacked, they
+      are making a concerted, substantive effort to ensure that Iran can effectively
+      defend itself and thwart US attempts at regime change. Both Russia and China are
+      providing important military assistance to Iran, but China appears to be playing
+      a bigger role in supplying hardware while Russia is supplying Iran with critical
+      intelligence. According to press reports and photographic evidence, Russia has
+      deliveried Mi-28NE attack helicopters (confirmed in early 2026) and possible MiG-29
+      fighters. Russia also has sent a large number of military transport flights to
+      Iran, but there are no reports about what was on board. The most likely case is
+      that Russia is fulfilling supplies of weapons based on prior contracts and in
+      defiance of reinstated UN/EU arms sanctions via the JCPOA “snapback” mechanism.
+      China has focused on upgrading Iran’s air defense system by supplying HQ-9B surface-to-air
+      missile systems (a long-range SAMs comparable to Russia’s S-300; deliveries reported
+      from July 2025 onward, with Iranian officials confirming integration to replace
+      losses from Israeli strikes). In addition, China has deployed the YLC-8B long-range
+      surveillance radars (for detecting stealth aircraft like the F-35), and shipped
+      missile components (e.g., solid-fuel propellants, guidance systems) to rebuild
+      ballistic missile production lines damaged in the war. Iran is in a much stronger
+      position militarily than it was on June 13, 2025, when Israel launched its surprise
+      attack. CUBA Russia and China also are providing significant political, economic,
+      humanitarian, energy, and material support to Cuba, especially amid the island’s
+      severe fuel/energy crisis, food shortages, and economic strains intensified by
+      the longstanding US blockade and recent US actions under President Trump (e.g.,
+      pressure on Venezuelan/Mexican oil supplies and threats of tariffs on countries
+      aiding Cuba). Russia and China are coordinating rhetorically (both denounce US
+      “inhumane” tactics and reaffirm support in bilateral calls and statements). They
+      also are coordinating the kind of aid that each supplies to Cuba… Russia focuses
+      on supplying direct oil/fuel while China is aiding Cuba with financial/renewables/food
+      assistance. There is not a formal trilateral mechanism like the one they signed
+      with Iran, but both countries frame their support as countering US pressure in
+      the Western Hemisphere. This support is ongoing and responsive to Cuba’s acute
+      needs (fuel rationing, blackouts, food scarcity). Deliveries and projects continue
+      despite US threats, with both countries emphasizing it as humanitarian and sovereign
+      cooperation. Russia’s Support Russia emphasizes solidarity , political backing
+      , and practical material/energy assistance , framing it as opposition to “suffocating”
+      US measures. Russia’s help consists of the following: Energy Aid (Oil and Fuel)
+      : Russia is preparing to deliver crude oil and petroleum products to Cuba “in
+      the near future” as humanitarian aid . The Russian Embassy in Havana confirmed
+      this to Izvestia. Russia last sent a major shipment in February 2025 (100,000
+      metric tons of crude under a $60 million state-backed loan approved by Putin).
+      The Kremlin (via spokesman Dmitry Peskov) states it is in active contact with
+      Havana to discuss assistance options and has described Cuba’s fuel situation as
+      “critical.” Deputy Foreign Minister Sergei Ryabkov (Feb 13, 2026) confirmed Russia
+      is providing material assistance, including supplies already underway. Political
+      and Diplomatic Support : Foreign Minister Sergei Lavrov (phone call with Cuban
+      FM Bruno Rodríguez Parrilla, Feb 2, 2026) reaffirmed Russia’s “principled position”
+      that economic/military pressure on Cuba is unacceptable and committed to continued
+      political and material/financial support . Russia repeatedly condemns the US blockade,
+      opposes any military intervention, and expresses solidarity with Cuba (and Venezuela).
+      Ambassador Viktor Koronelli has stated Russia “will not abandon Cuba.” Historical/Longer-Term
+      Ties : Russia wrote off ~90% of Cuba’s Soviet-era debt (~$32 billion) in 2014.
+      Ongoing cooperation includes trade, scientific/academic exchanges, and past energy
+      deals. China’s Support China has positioned itself as a major strategic partner,
+      focusing on humanitarian aid , energy infrastructure , food security , and debt/investment
+      cooperation (Cuba is a Belt and Road Initiative partner). The recent Emergency
+      Aid Package (Approved by Xi Jinping, Jan 2026) provides $80 million in financial
+      assistance (in euros equivalent) for purchasing electrical equipment and other
+      urgent needs — specifically to help resolve the energy crisis (blackouts affecting
+      >60% of the country). China also donated 60,000 tons of rice in emergency mode
+      (first shipment of ~4,800 tons arrived Jan 2026; rest in coming months) for food
+      security. China also is expanding support that builds on prior commitments. Previously
+      it was helping Cuba with a 200 MW photovoltaic (solar) energy projects and, recent
+      days, has delivered 5,000 solar panel kits for isolated homes (new executing company
+      established with Cuba’s Ministry of Foreign Trade). Shortly after Venezuelan President
+      Maduro was abducted, China, acting under an emergency program, delivered 30,000
+      tons of rice (first shipments in Jan 2026)… This was in addition to prior donations
+      of solar lamps, roofing materials, mattresses, and generator sets. In the face
+      of the US effort to crush Cuba economically, China is helping Cuba with debt restructuring
+      negotiations (banking/financial/corporate debts). Cuba also is being Integrated
+      into China’s CIPS payment system and increased use of yuan in trade (announced
+      2025). China is in effect helping wean Cuba off of the US dollar. China also is
+      helping Cuba with biopharma (e.g., technology transfers for aspirin production),
+      digital transformation (Phase 4 program), high-definition TV projects, mining,
+      oil exploration, sugar industry recovery, and renewables (China investing in solar
+      to help Cuba reach 25% renewables by 2030). The support that Russia and China
+      are providing to Iran and Cuba sends a clear message to Donald Trump and to the
+      nations of the global south: i.e., Russia and China are building a new financial
+      and security infrastructure designed to immunize countries against US coercion
+      and threats. They are doing more than just offering words of solidarity… They
+      are backing up their words with concrete economic, diplomatic and military actions.
+      The foundation of the American hegemon is crumbling. I started my vlogging day
+      with Nima and Colonel Wilkerson: Ray McGovern and I discussed the latest developments
+      with Iran and the war in Ukraine with Judge Napolitano: And here’s my interview
+      with Alastair Crooke… we analyzed the impending attack on Iran and the prospects
+      for a negotiated end to the war in Ukraine: I thank you for your invaluable support
+      by taking time to read or comment. I do not charge a subscription fee nor do I
+      accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: Russia and China are significantly enhancing their support
+      for Iran through a Trilateral Strategic Pact and various forms of assistance,
+      in response to U.S. efforts to isolate Iran and Cuba following the 2025 Iran-Israel
+      war.
+    paragraph_summary: The article discusses the growing collaboration between Russia,
+      China, and Iran in response to U.S. efforts to isolate Iran and Cuba, particularly
+      following the June 2025 Iran-Israel war. Since the conflict, Russia and China
+      have provided Iran with diplomatic, economic, and military support, helping it
+      recover from attacks on its nuclear and military infrastructure. A key development
+      is the signing of the Trilateral Strategic Pact on January 29, 2026, which formalizes
+      a framework for diplomatic, economic, and security cooperation among the three
+      nations, emphasizing sovereignty and resistance to sanctions. This pact builds
+      on existing bilateral agreements between Iran and both Russia and China, marking
+      a significant escalation in their coordination and strategic alignment against
+      Western pressures.
+    published: '2026-02-14T05:24:07+00:00'
+  - title: Russia and China Are Expanding their Cooperation to Counter US Efforts to
+      Bully Iran and Cuba
+    url: https://sonar21.com/russia-and-china-are-expanding-their-cooperation-to-counter-us-efforts-to-bully-iran-and-cuba/
+    text: 'This will be a rather lengthy article, but you need to know what Russia and
+      China are doing in a closely coordinated series of actions that show a serious
+      commitment to counter US actions to punish and isolate Iran and Cuba. Let’s start
+      with Iran… Since the June 2025 12-day Iran–Israel war (which ended with a US-brokered
+      ceasefire on 24 June 2025), Russia and China have provided Iran with a combination
+      of diplomatic, economic, military-technical, and strategic support. This has helped
+      Tehran recover from strikes on its nuclear sites, air defenses, and missile infrastructure,
+      while deepening their “axis” alignment against Western pressure. Support has been
+      pragmatic rather than unconditional—neither offered direct intervention during
+      the conflict, leading to some Iranian frustration—but has accelerated in the months
+      since. The biggest news — a development that has been largely ignored in the West
+      — was the signing of the Trilateral Strategic Pact (signed 29 January 2026), which
+      provides a comprehensive framework for diplomatic, economic, and security coordination
+      (emphasizing sovereignty, sanctions resistance, and multipolarity; no formal defense
+      alliance). The signing occurred through simultaneous ceremonies in Tehran, Beijing,
+      and Moscow, as confirmed by state media in all three countries and reported across
+      outlets like Middle East Monitor, GV Wire, and others. It represents a significant
+      escalation in coordination among the three nations, building directly on their
+      existing bilateral frameworks. It formalizes a trilateral coordination mechanism
+      for the first time, linking the three powers in a shared strategic framework.
+      It builds on the bilateral agreements that Iran had signed previously with Russia
+      and China: The Iran-Russia 20-year Comprehensive Strategic Partnership Treaty
+      (signed January 17, 2025, entered into force October 2025), focused on economic,
+      political, defense, and sanctions-evasion ties. The Iran-China 25-year Comprehensive
+      Cooperation Agreement (signed 2021), emphasizing trade, infrastructure, energy,
+      and Belt and Road Initiative projects. While the full text has been released incrementally
+      (with portions still emerging as of early February 2026), public descriptions
+      and official statements highlight the following core elements: Diplomatic coordination
+      — Unified stances on international issues, including opposition to Western sanctions,
+      support for multipolarity, and mutual backing in forums like the UN. Economic
+      resilience and cooperation — Enhanced trade (e.g., energy exports, yuan/ruble-based
+      mechanisms), sanctions circumvention, and infrastructure projects (e.g., expanding
+      Belt and Road ties, North-South Transport Corridor involvement). Strategic and
+      security alignment — Military-technical cooperation, intelligence sharing, and
+      joint exercises (e.g., building on annual “Maritime Security Belt” drills; a major
+      joint naval exercise involving all three that will take place in the Gulf of Oman
+      and northern Indian Ocean in the coming weeks). Nuclear sovereignty — Emphasis
+      on Iran’s right to peaceful nuclear development and resistance to external interference.
+      Trilateral nuclear and military talks — Including IAEA discussions and coordinated
+      exercises. No mutual defense clause — It explicitly stops short of a formal military
+      alliance (unlike NATO’s Article 5), focusing instead on coordination and mutual
+      support without automatic defense obligations. State media in Tehran, Beijing,
+      and Moscow described it as a “cornerstone” for a new multipolar world order, with
+      Chinese messaging highlighting opposition to “unilateral coercion” and Russian/Iranian
+      outlets framing it as bolstering sovereignty against external threats. While I
+      do not believe that Russia and China will join the fray if Iran is attacked, they
+      are making a concerted, substantive effort to ensure that Iran can effectively
+      defend itself and thwart US attempts at regime change. Both Russia and China are
+      providing important military assistance to Iran, but China appears to be playing
+      a bigger role in supplying hardware while Russia is supplying Iran with critical
+      intelligence. According to press reports and photographic evidence, Russia has
+      deliveried Mi-28NE attack helicopters (confirmed in early 2026) and possible MiG-29
+      fighters. Russia also has sent a large number of military transport flights to
+      Iran, but there are no reports about what was on board. The most likely case is
+      that Russia is fulfilling supplies of weapons based on prior contracts and in
+      defiance of reinstated UN/EU arms sanctions via the JCPOA “snapback” mechanism.
+      China has focused on upgrading Iran’s air defense system by supplying HQ-9B surface-to-air
+      missile systems (a long-range SAMs comparable to Russia’s S-300; deliveries reported
+      from July 2025 onward, with Iranian officials confirming integration to replace
+      losses from Israeli strikes). In addition, China has deployed the YLC-8B long-range
+      surveillance radars (for detecting stealth aircraft like the F-35), and shipped
+      missile components (e.g., solid-fuel propellants, guidance systems) to rebuild
+      ballistic missile production lines damaged in the war. Iran is in a much stronger
+      position militarily than it was on June 13, 2025, when Israel launched its surprise
+      attack. CUBA Russia and China also are providing significant political, economic,
+      humanitarian, energy, and material support to Cuba, especially amid the island’s
+      severe fuel/energy crisis, food shortages, and economic strains intensified by
+      the longstanding US blockade and recent US actions under President Trump (e.g.,
+      pressure on Venezuelan/Mexican oil supplies and threats of tariffs on countries
+      aiding Cuba). Russia and China are coordinating rhetorically (both denounce US
+      “inhumane” tactics and reaffirm support in bilateral calls and statements). They
+      also are coordinating the kind of aid that each supplies to Cuba… Russia focuses
+      on supplying direct oil/fuel while China is aiding Cuba with financial/renewables/food
+      assistance. There is not a formal trilateral mechanism like the one they signed
+      with Iran, but both countries frame their support as countering US pressure in
+      the Western Hemisphere. This support is ongoing and responsive to Cuba’s acute
+      needs (fuel rationing, blackouts, food scarcity). Deliveries and projects continue
+      despite US threats, with both countries emphasizing it as humanitarian and sovereign
+      cooperation. Russia’s Support Russia emphasizes solidarity , political backing
+      , and practical material/energy assistance , framing it as opposition to “suffocating”
+      US measures. Russia’s help consists of the following: Energy Aid (Oil and Fuel)
+      : Russia is preparing to deliver crude oil and petroleum products to Cuba “in
+      the near future” as humanitarian aid . The Russian Embassy in Havana confirmed
+      this to Izvestia. Russia last sent a major shipment in February 2025 (100,000
+      metric tons of crude under a $60 million state-backed loan approved by Putin).
+      The Kremlin (via spokesman Dmitry Peskov) states it is in active contact with
+      Havana to discuss assistance options and has described Cuba’s fuel situation as
+      “critical.” Deputy Foreign Minister Sergei Ryabkov (Feb 13, 2026) confirmed Russia
+      is providing material assistance, including supplies already underway. Political
+      and Diplomatic Support : Foreign Minister Sergei Lavrov (phone call with Cuban
+      FM Bruno Rodríguez Parrilla, Feb 2, 2026) reaffirmed Russia’s “principled position”
+      that economic/military pressure on Cuba is unacceptable and committed to continued
+      political and material/financial support . Russia repeatedly condemns the US blockade,
+      opposes any military intervention, and expresses solidarity with Cuba (and Venezuela).
+      Ambassador Viktor Koronelli has stated Russia “will not abandon Cuba.” Historical/Longer-Term
+      Ties : Russia wrote off ~90% of Cuba’s Soviet-era debt (~$32 billion) in 2014.
+      Ongoing cooperation includes trade, scientific/academic exchanges, and past energy
+      deals. China’s Support China has positioned itself as a major strategic partner,
+      focusing on humanitarian aid , energy infrastructure , food security , and debt/investment
+      cooperation (Cuba is a Belt and Road Initiative partner). The recent Emergency
+      Aid Package (Approved by Xi Jinping, Jan 2026) provides $80 million in financial
+      assistance (in euros equivalent) for purchasing electrical equipment and other
+      urgent needs — specifically to help resolve the energy crisis (blackouts affecting
+      >60% of the country). China also donated 60,000 tons of rice in emergency mode
+      (first shipment of ~4,800 tons arrived Jan 2026; rest in coming months) for food
+      security. China also is expanding support that builds on prior commitments. Previously
+      it was helping Cuba with a 200 MW photovoltaic (solar) energy projects and, recent
+      days, has delivered 5,000 solar panel kits for isolated homes (new executing company
+      established with Cuba’s Ministry of Foreign Trade). Shortly after Venezuelan President
+      Maduro was abducted, China, acting under an emergency program, delivered 30,000
+      tons of rice (first shipments in Jan 2026)… This was in addition to prior donations
+      of solar lamps, roofing materials, mattresses, and generator sets. In the face
+      of the US effort to crush Cuba economically, China is helping Cuba with debt restructuring
+      negotiations (banking/financial/corporate debts). Cuba also is being Integrated
+      into China’s CIPS payment system and increased use of yuan in trade (announced
+      2025). China is in effect helping wean Cuba off of the US dollar. China also is
+      helping Cuba with biopharma (e.g., technology transfers for aspirin production),
+      digital transformation (Phase 4 program), high-definition TV projects, mining,
+      oil exploration, sugar industry recovery, and renewables (China investing in solar
+      to help Cuba reach 25% renewables by 2030). The support that Russia and China
+      are providing to Iran and Cuba sends a clear message to Donald Trump and to the
+      nations of the global south: i.e., Russia and China are building a new financial
+      and security infrastructure designed to immunize countries against US coercion
+      and threats. They are doing more than just offering words of solidarity… They
+      are backing up their words with concrete economic, diplomatic and military actions.
+      The foundation of the American hegemon is crumbling. I started my vlogging day
+      with Nima and Colonel Wilkerson: Ray McGovern and I discussed the latest developments
+      with Iran and the war in Ukraine with Judge Napolitano: And here’s my interview
+      with Alastair Crooke… we analyzed the impending attack on Iran and the prospects
+      for a negotiated end to the war in Ukraine: I thank you for your invaluable support
+      by taking time to read or comment. I do not charge a subscription fee nor do I
+      accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: Russia and China are significantly enhancing their support
+      for Iran through a Trilateral Strategic Pact and various forms of assistance,
+      in response to U.S. efforts to isolate Iran and Cuba following the 2025 Iran-Israel
+      war.
+    paragraph_summary: The article discusses the growing collaboration between Russia,
+      China, and Iran in response to U.S. efforts to isolate Iran and Cuba, particularly
+      following the June 2025 Iran-Israel war. Since the conflict, Russia and China
+      have provided Iran with diplomatic, economic, and military support, helping it
+      recover from attacks on its nuclear and military infrastructure. A key development
+      is the signing of the Trilateral Strategic Pact on January 29, 2026, which formalizes
+      a framework for diplomatic, economic, and security cooperation among the three
+      nations, emphasizing sovereignty and resistance to sanctions. This pact builds
+      on existing bilateral agreements between Iran and both Russia and China, marking
+      a significant escalation in their coordination and strategic alignment against
+      Western pressures.
+    published: '2026-02-14T05:24:07+00:00'
+  - title: The bleak energy future of Ukraine and the European Union
+    url: https://sonar21.com/the-bleak-energy-future-of-ukraine-and-the-european-union/
+    text: '[Source: deepmind.google ] Ukraine’s energy system, as well as storage facilities,
+      oil and gas pipelines, stations, and related infrastructure, which until 2022
+      supplied the bulk of hydrocarbons and electricity to the European Union, have
+      now effectively ceased to exist. Ukraine is experiencing a significant shortage
+      of gas and oil for its own needs. According to the British news agency BBC, in
+      February 2026, more than 60% of consumers in Ukraine are experiencing a shortage
+      of electricity. According to Ukrainian Energy Minister Denys Shmyhal, most cities
+      and regions in the country did not prepare adequately for winter, which, against
+      the backdrop of the economic crisis, led to regular and prolonged power outages,
+      often leaving residents without heating and electricity in the freezing winter
+      weather. The most severe situation is observed in the Kyiv, Dnipropetrovsk, Chernihiv,
+      Kharkiv, and Odesa regions. In an interview with European journalists, Kiev Mayor
+      Vitali Klitschko said that the situation in the Ukrainian capital with electricity
+      and heating will worsen. To provide services to 3.6 million people, 1,700 megawatts
+      of electricity are required. However, only about half of the required amount of
+      electricity is available. Widespread corruption, the collapse of the Ukrainian
+      economy, crises in the energy sector, and disruptions in the oil and gas processing
+      infrastructure have significantly increased the shortage of gasoline, diesel fuel,
+      and electricity in Ukraine. Due to the shortage of energy resources, the Ukrainian
+      authorities have ordered an emergency increase in imports from EU countries, which
+      places the Ukrainian authorities in direct dependence on the energy policies of
+      European countries and the US. At the same time, European countries are also expected
+      to experience a severe energy crisis in the near future, with a decline in gas
+      reserves and an increase in energy prices, due to a number of reasons. [Source:
+      linkedin.com ] On January 26, 2026, EU members officially adopted a resolution
+      on the phased abandonment of imports of Russian pipeline and liquefied natural
+      gas into the EU. A complete ban on purchases of liquefied natural gas will come
+      into effect on January 1, 2027, and a ban on pipeline gas will come into effect
+      on September 30, 2027.By March 1, 2026, EU countries must prepare national plans
+      to diversify gas supplies and identify potential problems in replacing Russian
+      energy resources. At the same time, between 2022 and 2025, the share of Russian
+      gas in EU countries fell from 45% to 16%, oil imports fell from 27% to 3%, and
+      coal imports fell from 50% to 0%. According to estimates by the International
+      Energy Agency, the planned restrictions will reduce gas supplies from Russia by
+      37 billion cubic meters, which is more than 16% of total gas imports to Europe
+      in 2025, creating additional risks for European economies. [Source: ieefa.org
+      ] Demand for gas in Europe in 2025 was 2.5 billion cubic meters higher than in
+      2024 and is the highest since 2021. Against this backdrop, the growth in energy
+      exports to Ukraine led to an outflow of 1.4 billion cubic meters from the European
+      market last year, which significantly worsened the situation in the energy sector
+      in the markets of Eastern European countries. Of particular concern is the fact
+      that not all imported hydrocarbons are sent for storage; most of them are used
+      to meet daily demand. Given the ban on Russian gas supplies, these circumstances
+      will contribute to a steady increase in Europe’s purchases of large volumes of
+      gas over the next six months. At the same time, current base gas prices in EU
+      countries and the high cost of American supplies complicate the task of replenishing
+      reserves. Thus, in an effort to replace the lost volume of gas and oil, European
+      traders have been taking steps in recent years to increase their supplies from
+      the US. In 2024, American producers supplied more than 45% of gas imports and
+      16% of oil imports to the EU, making the European market extremely sensitive to
+      US tariff policy conditions for energy supplies. [Source: consilium.europa.eu
+      ] In 2025, the Netherlands, France, Spain, Italy, and Germany accounted for 75%
+      of US liquefied natural gas imports. As part of a trade deal between the European
+      Union and the US announced in July 2025, the EU plans to buy $750 billion worth
+      of energy from the US by 2028. This decision makes European countries dependent
+      on the unpredictable tariff policy of US President Donald Trump, which poses a
+      real threat to the energy security of the whole of Europe. [Source: ieefa.org
+      ] At the same time, the conflict in Venezuela and the escalating tensions surrounding
+      Iran are also causing serious concerns among traders about disruptions and the
+      cost of gas and oil supplies, increasing the likelihood of a worsening situation
+      on the European market. Low stock levels, rising gas prices on the exchange, and
+      growing dependence on US imports will lead to political and energy problems in
+      the near term. In Estonia, Latvia, and Lithuania, for example, the cost of electricity
+      for the population rose by 70% in early 2026 compared to December 2025. [Source:
+      ifranchisenews.com ] According to European experts, the EU energy market will
+      be particularly vulnerable in 2026, as only 30% of demand is covered by long-term
+      contracts. European traders are already forced to operate in conditions of fierce
+      competition on the global spot market from Asian buyers. It is predicted that
+      these circumstances, along with the high cost of American supplies compared to
+      Russian ones, will lead to a significant increase in prices for consumers in Europe
+      and Ukraine. In 2026, natural gas prices in Europe have already risen by almost
+      30%, due to a sharp increase in global demand and geopolitical uncertainty. [Source:
+      thinkeuropa.dk ] In the medium term, the energy future of the European Union and
+      Ukraine also looks bleak. Passing on the rise in energy prices to taxpayers will
+      lead to stagnation in European and Ukrainian industry and will become the basis
+      for future political turmoil. And these risks are unlikely to disappear anytime
+      soon. The EU’s growing demand for expensive American oil and liquefied natural
+      gas is causing serious concern among European experts. By 2030, about 80% of all
+      expensive gas imported into the EU and more than 40% of oil will come from the
+      US. [Source: ifranchisenews.com ] The Ukrainian economy is currently also directly
+      dependent on the energy policies of the US and the EU. In January 2026, electricity
+      exports from the EU to Ukraine increased by 40% compared to December last year,
+      reaching a record 894 gigawatt hours. In mid-January 2026, the European Commission,
+      together with the European Investment Bank, decided to allocate an additional
+      €50 million in loans to provide financial support to Ukraine’s state-owned energy
+      company Naftogaz. According to European politicians, these loans will help support
+      the country’s energy system during the winter. Thus, the total amount of EU loans
+      allocated for gas purchases for Ukraine in 2025-2026 already exceeds €977 million.
+      [Source: enlargement.ec.europa.eu ] Many EU countries are sending equipment for
+      Ukraine’s energy sector. The Polish Ministry of Internal Affairs reported that
+      at the end of January 2026, 379 industrial generators and 18 heaters were delivered
+      to Ukraine from the State Agency for Strategic Reserves, and another 447 generators
+      were provided at the expense of the European Union. The Polish capital, Warsaw,
+      also transferred 90 generators to Kyiv. [Source: anti-fraud.ec.europa.eu ] However,
+      two weeks after the generators were delivered to Ukraine at the expense of EU
+      taxpayers, Polish politician Bartlomiej Pejo released data showing that the generators
+      supplied by Poland were being sold by the Ukrainian side on online trading platforms.
+      At the same time, the European Anti-Fraud Office issued a statement that the amount
+      of embezzlement by the Ukrainian side amounted to more than €91 million, and three
+      people were arrested as a result of the investigation. Thus, widespread corruption
+      in Ukraine and the embezzlement of European and American aid funds are unlikely
+      to help restore Ukraine’s energy sector, contributing only to the enrichment of
+      Ukrainian officials and an increase in energy imports from EU countries, thereby
+      creating a deficit. The EU leadership’s decision to grant Ukraine a €90 billion
+      loan for 2026-2027 to cover its budget deficit is also at high risk, as a number
+      of EU countries are refusing to allocate it, fearing that a significant portion
+      of these funds will likely be stolen by Ukrainian politicians at various levels
+      of government and will not reach the intended recipients—the country’s population.
+      At the same time, Europe itself may not see the return of these loan funds, partly
+      due to the chaos in Ukraine’s power structures caused by the struggle for power
+      between various political forces. In addition, given the lack of legally effective
+      mechanisms to insure against the risk of Ukraine’s failure to repay this loan,
+      as well as the associated interest expenses, the burden will fall on the EU’s
+      consolidated budget. Of the loan allocated by the European Union in 2026, the
+      Ukrainian government plans to use €26.7 billion solely for salaries and benefits
+      for the military. At the same time, Ukraine’s national debt as of February 2026
+      amounts to €213 billion. Therefore, funding for the restoration of the energy
+      sector is practically not provided for in Ukraine’s budget. [Source: worls-energy.org
+      ] Against the backdrop of the actual collapse of the Ukrainian economy and energy
+      system, a sharp increase in imports of hydrocarbons and electricity from EU countries,
+      a shortage of cheap gas in European storage facilities, and total corruption in
+      Ukraine, the energy and political future of the EU leadership and the Ukrainian
+      side without cheap Russian energy resources looks rather bleak.'
+    one_sentence_summary: Ukraine's energy infrastructure has been severely damaged,
+      leading to widespread shortages of gas and electricity, particularly in major
+      regions, and leaving many residents without heating during the harsh winter months.
+    paragraph_summary: Ukraine's energy infrastructure has been severely damaged, leading
+      to a critical shortage of gas, oil, and electricity, with over 60% of consumers
+      facing electricity shortages as of February 2026. The situation is exacerbated
+      by inadequate winter preparations, resulting in frequent power outages and lack
+      of heating, particularly in major regions like Kyiv and Dnipropetrovsk. Corruption,
+      economic collapse, and disruptions in the energy sector have worsened the crisis,
+      prompting Ukrainian authorities to seek emergency energy imports from the EU,
+      which may also face its own energy challenges due to declining gas reserves and
+      rising prices.
+    published: '2026-02-13T09:43:03+00:00'
+  - title: The bleak energy future of Ukraine and the European Union
+    url: https://sonar21.com/the-bleak-energy-future-of-ukraine-and-the-european-union/
+    text: '[Source: deepmind.google ] Ukraine’s energy system, as well as storage facilities,
+      oil and gas pipelines, stations, and related infrastructure, which until 2022
+      supplied the bulk of hydrocarbons and electricity to the European Union, have
+      now effectively ceased to exist. Ukraine is experiencing a significant shortage
+      of gas and oil for its own needs. According to the British news agency BBC, in
+      February 2026, more than 60% of consumers in Ukraine are experiencing a shortage
+      of electricity. According to Ukrainian Energy Minister Denys Shmyhal, most cities
+      and regions in the country did not prepare adequately for winter, which, against
+      the backdrop of the economic crisis, led to regular and prolonged power outages,
+      often leaving residents without heating and electricity in the freezing winter
+      weather. The most severe situation is observed in the Kyiv, Dnipropetrovsk, Chernihiv,
+      Kharkiv, and Odesa regions. In an interview with European journalists, Kiev Mayor
+      Vitali Klitschko said that the situation in the Ukrainian capital with electricity
+      and heating will worsen. To provide services to 3.6 million people, 1,700 megawatts
+      of electricity are required. However, only about half of the required amount of
+      electricity is available. Widespread corruption, the collapse of the Ukrainian
+      economy, crises in the energy sector, and disruptions in the oil and gas processing
+      infrastructure have significantly increased the shortage of gasoline, diesel fuel,
+      and electricity in Ukraine. Due to the shortage of energy resources, the Ukrainian
+      authorities have ordered an emergency increase in imports from EU countries, which
+      places the Ukrainian authorities in direct dependence on the energy policies of
+      European countries and the US. At the same time, European countries are also expected
+      to experience a severe energy crisis in the near future, with a decline in gas
+      reserves and an increase in energy prices, due to a number of reasons. [Source:
+      linkedin.com ] On January 26, 2026, EU members officially adopted a resolution
+      on the phased abandonment of imports of Russian pipeline and liquefied natural
+      gas into the EU. A complete ban on purchases of liquefied natural gas will come
+      into effect on January 1, 2027, and a ban on pipeline gas will come into effect
+      on September 30, 2027.By March 1, 2026, EU countries must prepare national plans
+      to diversify gas supplies and identify potential problems in replacing Russian
+      energy resources. At the same time, between 2022 and 2025, the share of Russian
+      gas in EU countries fell from 45% to 16%, oil imports fell from 27% to 3%, and
+      coal imports fell from 50% to 0%. According to estimates by the International
+      Energy Agency, the planned restrictions will reduce gas supplies from Russia by
+      37 billion cubic meters, which is more than 16% of total gas imports to Europe
+      in 2025, creating additional risks for European economies. [Source: ieefa.org
+      ] Demand for gas in Europe in 2025 was 2.5 billion cubic meters higher than in
+      2024 and is the highest since 2021. Against this backdrop, the growth in energy
+      exports to Ukraine led to an outflow of 1.4 billion cubic meters from the European
+      market last year, which significantly worsened the situation in the energy sector
+      in the markets of Eastern European countries. Of particular concern is the fact
+      that not all imported hydrocarbons are sent for storage; most of them are used
+      to meet daily demand. Given the ban on Russian gas supplies, these circumstances
+      will contribute to a steady increase in Europe’s purchases of large volumes of
+      gas over the next six months. At the same time, current base gas prices in EU
+      countries and the high cost of American supplies complicate the task of replenishing
+      reserves. Thus, in an effort to replace the lost volume of gas and oil, European
+      traders have been taking steps in recent years to increase their supplies from
+      the US. In 2024, American producers supplied more than 45% of gas imports and
+      16% of oil imports to the EU, making the European market extremely sensitive to
+      US tariff policy conditions for energy supplies. [Source: consilium.europa.eu
+      ] In 2025, the Netherlands, France, Spain, Italy, and Germany accounted for 75%
+      of US liquefied natural gas imports. As part of a trade deal between the European
+      Union and the US announced in July 2025, the EU plans to buy $750 billion worth
+      of energy from the US by 2028. This decision makes European countries dependent
+      on the unpredictable tariff policy of US President Donald Trump, which poses a
+      real threat to the energy security of the whole of Europe. [Source: ieefa.org
+      ] At the same time, the conflict in Venezuela and the escalating tensions surrounding
+      Iran are also causing serious concerns among traders about disruptions and the
+      cost of gas and oil supplies, increasing the likelihood of a worsening situation
+      on the European market. Low stock levels, rising gas prices on the exchange, and
+      growing dependence on US imports will lead to political and energy problems in
+      the near term. In Estonia, Latvia, and Lithuania, for example, the cost of electricity
+      for the population rose by 70% in early 2026 compared to December 2025. [Source:
+      ifranchisenews.com ] According to European experts, the EU energy market will
+      be particularly vulnerable in 2026, as only 30% of demand is covered by long-term
+      contracts. European traders are already forced to operate in conditions of fierce
+      competition on the global spot market from Asian buyers. It is predicted that
+      these circumstances, along with the high cost of American supplies compared to
+      Russian ones, will lead to a significant increase in prices for consumers in Europe
+      and Ukraine. In 2026, natural gas prices in Europe have already risen by almost
+      30%, due to a sharp increase in global demand and geopolitical uncertainty. [Source:
+      thinkeuropa.dk ] In the medium term, the energy future of the European Union and
+      Ukraine also looks bleak. Passing on the rise in energy prices to taxpayers will
+      lead to stagnation in European and Ukrainian industry and will become the basis
+      for future political turmoil. And these risks are unlikely to disappear anytime
+      soon. The EU’s growing demand for expensive American oil and liquefied natural
+      gas is causing serious concern among European experts. By 2030, about 80% of all
+      expensive gas imported into the EU and more than 40% of oil will come from the
+      US. [Source: ifranchisenews.com ] The Ukrainian economy is currently also directly
+      dependent on the energy policies of the US and the EU. In January 2026, electricity
+      exports from the EU to Ukraine increased by 40% compared to December last year,
+      reaching a record 894 gigawatt hours. In mid-January 2026, the European Commission,
+      together with the European Investment Bank, decided to allocate an additional
+      €50 million in loans to provide financial support to Ukraine’s state-owned energy
+      company Naftogaz. According to European politicians, these loans will help support
+      the country’s energy system during the winter. Thus, the total amount of EU loans
+      allocated for gas purchases for Ukraine in 2025-2026 already exceeds €977 million.
+      [Source: enlargement.ec.europa.eu ] Many EU countries are sending equipment for
+      Ukraine’s energy sector. The Polish Ministry of Internal Affairs reported that
+      at the end of January 2026, 379 industrial generators and 18 heaters were delivered
+      to Ukraine from the State Agency for Strategic Reserves, and another 447 generators
+      were provided at the expense of the European Union. The Polish capital, Warsaw,
+      also transferred 90 generators to Kyiv. [Source: anti-fraud.ec.europa.eu ] However,
+      two weeks after the generators were delivered to Ukraine at the expense of EU
+      taxpayers, Polish politician Bartlomiej Pejo released data showing that the generators
+      supplied by Poland were being sold by the Ukrainian side on online trading platforms.
+      At the same time, the European Anti-Fraud Office issued a statement that the amount
+      of embezzlement by the Ukrainian side amounted to more than €91 million, and three
+      people were arrested as a result of the investigation. Thus, widespread corruption
+      in Ukraine and the embezzlement of European and American aid funds are unlikely
+      to help restore Ukraine’s energy sector, contributing only to the enrichment of
+      Ukrainian officials and an increase in energy imports from EU countries, thereby
+      creating a deficit. The EU leadership’s decision to grant Ukraine a €90 billion
+      loan for 2026-2027 to cover its budget deficit is also at high risk, as a number
+      of EU countries are refusing to allocate it, fearing that a significant portion
+      of these funds will likely be stolen by Ukrainian politicians at various levels
+      of government and will not reach the intended recipients—the country’s population.
+      At the same time, Europe itself may not see the return of these loan funds, partly
+      due to the chaos in Ukraine’s power structures caused by the struggle for power
+      between various political forces. In addition, given the lack of legally effective
+      mechanisms to insure against the risk of Ukraine’s failure to repay this loan,
+      as well as the associated interest expenses, the burden will fall on the EU’s
+      consolidated budget. Of the loan allocated by the European Union in 2026, the
+      Ukrainian government plans to use €26.7 billion solely for salaries and benefits
+      for the military. At the same time, Ukraine’s national debt as of February 2026
+      amounts to €213 billion. Therefore, funding for the restoration of the energy
+      sector is practically not provided for in Ukraine’s budget. [Source: worls-energy.org
+      ] Against the backdrop of the actual collapse of the Ukrainian economy and energy
+      system, a sharp increase in imports of hydrocarbons and electricity from EU countries,
+      a shortage of cheap gas in European storage facilities, and total corruption in
+      Ukraine, the energy and political future of the EU leadership and the Ukrainian
+      side without cheap Russian energy resources looks rather bleak.'
+    one_sentence_summary: Ukraine's energy infrastructure has been severely damaged,
+      leading to widespread shortages of gas and electricity, particularly in major
+      regions, and leaving many residents without heating during the harsh winter months.
+    paragraph_summary: Ukraine's energy infrastructure has been severely damaged, leading
+      to a critical shortage of gas, oil, and electricity, with over 60% of consumers
+      facing electricity shortages as of February 2026. The situation is exacerbated
+      by inadequate winter preparations, resulting in frequent power outages and lack
+      of heating, particularly in major regions like Kyiv and Dnipropetrovsk. Corruption,
+      economic collapse, and disruptions in the energy sector have worsened the crisis,
+      prompting Ukrainian authorities to seek emergency energy imports from the EU,
+      which may also face its own energy challenges due to declining gas reserves and
+      rising prices.
+    published: '2026-02-13T09:43:03+00:00'
+  - title: How Will the US Attack Iran?
+    url: https://sonar21.com/how-will-the-us-attack-iran/
+    text: 'F-35A
+
+
+      The threat of an imminent US attack on Iran has abated… for the moment at least.
+      Donald Trump said that there will be at least one more round of talks between
+      the US and Iran before a new attack would be launched. Iran is willing to do a
+      deal that will guarantee it will not build a nuclear weapon and will likely make
+      some concessions on the enrichment of uranium. However, Iran will not agree to
+      eliminate or reduce its arsenal of ballistic missiles and drones, nor will it
+      end support for groups like Hamas and Hezbollah. If Trump insists on Iran destroying
+      its ballistic missiles and terminating support for the Palestinians and Shia in
+      West Asia, there will be a war.
+
+
+      But launching an attack on Iran poses many significant challenges… Some which
+      may be insurmountable. Let’s start with the two most likely attack vectors: air-to-ground
+      missiles launched by F-35s and Tomahawk cruise missiles launched from destroyers
+      located in the Arabian Sea.
+
+
+      Let’s start with the F-35s. The US Air Force flies the F-35A while the US Navy/Marine
+      Corps flies the F-35C. The US Air Force (USAF) typically assigns 24 F-35A Lightning
+      II aircraft to a standard operational fighter squadron. Squadrons are generally
+      organized into six flights of four aircraft each, allowing for efficient maintenance,
+      training, and deployment rotations. The US air force has between 20 and 25 active
+      squadrons.
+
+
+      As of mid-February 2026 (around February 12–13), the US Air Force (USAF) has a
+      limited but growing number of F-35A Lightning II aircraft based or deploying in
+      the Middle East (U.S. Central Command / CENTCOM area of responsibility). Recent
+      deployments involve F-35As from the Vermont Air National Guard’s 158th Fighter
+      Wing (Burlington ANGB, Vermont). Reports indicate 12 F-35As in total heading toward
+      (or already arrived) Jordan.
+
+
+      The primary airfield in Jordan currently associated with US Air Force deployments,
+      including the reported recent arrival of F-35A fighters (from the Vermont Air
+      National Guard’s 158th Fighter Wing), is Muwaffaq Salti Air Base (also spelled
+      Muwaqqar Salti or Al Muwaffaq Salti, ICAO: OJMS). It’s a Royal Jordanian Air Force
+      base, which is located near Azraq in Zarqa Governorate, eastern Jordan, that the
+      US has used extensively for years, with significant upgrades funded by the US
+      (e.g., $143 million expansion starting in 2019, new facilities, aprons, and a
+      control tower).
+
+
+      Off the southern coast of Iran, the US Navy/Marine Corps operates F-35Cs (carrier
+      variant) aboard the USS Abraham Lincoln (in the CENTCOM area since late January
+      2026), with one squadron (typically 10–14 aircraft, e.g., VMFA-314 “Black Knights”)
+      embarked. These are not USAF assets.
+
+
+      In addition to the Marine squadron on board the USS Abraham Lincoln, the carrier
+      is accompanied by three destroyers: the USS Frank E. Petersen Jr. (DDG‑121), the
+      USS Spruance (DDG‑111), and the USS Michael Murphy (DDG‑112)—all are Arleigh Burke‑class
+      guided‑missile destroyers, according to multiple official and media reports. These
+      ships use the Mark 41 Vertical Launching System (VLS) for missiles and each carries
+      96 cells total (32 forward + 64 aft).
+
+
+      The exact mix in the VLS cells is highly variable and mission-dependent—no fixed
+      “standard” loadout exists, as it changes based on theater, threats (e.g., air
+      defense focus vs. land strike), stock availability, and tasking. If the destroyers’
+      primary mission is air defense, then most, if not all, of the 96 cells will be
+      loaded with air defense missiles, such as the SM-6 (RIM-174, multi-role: long-range
+      air defense, anti-ship, terminal ballistic missile defense). But the case of Iran
+      requires the use of Tomahawk cruise missiles, which are designed for land-based
+      targets. In land-attack focused deployments like the Iran contingency, higher
+      Tomahawk loads are common to enable rapid, long-range precision strikes… This
+      means 50 to 60 Tomahawks per destroyer. This also means that each destroyer would
+      only have 36 to 46 air defense missiles. Working on the assumption that the destroyer
+      would fire two Aegis missiles to defeat one inbound Iranian threat, each destroyer
+      could only fend off 18 to 23 attacks.
+
+
+      That is the first big problem… If Iran launches swarm attacks employing 50 drones
+      and/or anti-ship missiles against each destroyer, the carrier strike group would
+      have to withdraw from the battle and sail to Diego Garcia to re-load.
+
+
+      The next big challenge is the air attack, most likely using the F-35A and F-35C
+      squadrons. Based on public reports, there are 12 F-35As in Jordan and 10 F-35Cs
+      on the Abraham Lincoln. Let’s start with the carrier based planes… The F-35C,
+      the carrier variant, has a combat radius of approximately 600 nautical miles (1,110
+      km) on internal fuel in stealth mode (internal weapons bays only, no external
+      stores). If the Abraham Lincoln sails within 100 nautical miles of the Iranian
+      coast, the carrier-based jets could only fly halfway to Tehran before they would
+      have to return to the carrier. Putting the carrier that close to the Iranian coast
+      significantly increases the risk of attacks by anti-ship missiles.
+
+
+      With respect to the land-based F-35As, they must carry their weapons in two internal
+      weapons bays in order to maintain stealth (with four stations total: two inboard
+      for air-to-air missiles, two outboard for larger munitions up to ~2,500 lb each),.
+      This allows for a clean radar signature during penetration missions. Standard
+      internal loadout (common for stealth air dominance or initial strikes) consists
+      of 2 × GBU-31 JDAM (Joint Direct Attack Munition, typically 2,000 lb class with
+      MK-84 or BLU-109 warhead) in the outboard stations, and 2 × AIM-120 AMRAAM (Advanced
+      Medium-Range Air-to-Air Missile) in the inboard stations.
+
+
+      The land-based F-35As also have a combat-radius problem… The distance from the
+      Jordanian airfield to Tehran is in the 850–900 mile range (often cited as “just
+      over 500 miles from the Iranian border,” with Tehran deeper inland adding distance;
+      some reports approximate ~900 miles or ~1,000 miles in broader regional context,
+      but precise point-to-point is closer to 850–900). All of this assumes a direct
+      line of flight. But Saudi Arabia and Iraq reportedly have denied the US the use
+      of their airspace to attack Iran. Whether the US would choose to ignore their
+      request is another matter.
+
+
+      In order to fly deeper into Iran the F-35As will need to be refueled somewhere
+      over Iraq. That creates another major threat… The Chinese reportedly have supplied
+      Iran with a 3-D radar that has a range of 420 miles (aka 700 kms). If Russia has
+      supplied Iran with S-400 air defense missiles, which have an effective range of
+      240 miles, then the Iranians will have the ability to engage the US aircraft well
+      before one enters Iranian air space.
+
+
+      I close with an even bigger question… If the US military, with two aircraft carriers,
+      four destroyers and one cruiser could not destroy the missile capability of the
+      Houthis, why do the Generals in the Department of War think they can wipe out
+      Iran’s missile capability with a smaller force?
+
+
+      Garland Nixon and I discussed today the prospects for an attack on Iran and Trump’s
+      meeting with Bibi:
+
+
+      I also had a last minute request to appear with Alex and Alexander at The Duran:'
+    one_sentence_summary: The article discusses the current state of US-Iran relations,
+      highlighting the challenges and limitations of a potential military strike on
+      Iran using F-35A and F-35C aircraft, while emphasizing that Iran's missile capabilities
+      and support for regional groups remain significant obstacles to any successful
+      military action.
+    paragraph_summary: The article discusses the current geopolitical tensions between
+      the US and Iran, highlighting the potential for military conflict if diplomatic
+      negotiations fail. While President Trump has indicated that further talks are
+      forthcoming, Iran remains firm on maintaining its ballistic missile arsenal and
+      support for groups like Hamas and Hezbollah. The article outlines the challenges
+      the US military would face in launching an attack on Iran, particularly focusing
+      on the deployment of F-35A and F-35C fighter jets and Tomahawk cruise missiles.
+      It notes logistical issues such as the combat radius limitations of the F-35s,
+      the need for aerial refueling, and the potential threat from Iranian air defenses,
+      which could hinder US operations. Additionally, it questions the effectiveness
+      of the US military's capabilities, citing past failures in neutralizing missile
+      threats from groups like the Houthis, raising doubts about the feasibility of
+      a successful strike against Iran's missile capabilities with a smaller force.
+    published: '2026-02-13T04:31:39+00:00'
+  - title: Why ARE the US and Israel Obsessed With Eliminating Iran’s Ballistic Missiles?
+    url: https://sonar21.com/why-are-the-us-and-israel-obsessed-with-eliminating-irans-ballistic-missiles/
+    text: 'It appears the main topic of discussion at Wednesday’s meeting between Donald
+      Trump and Bibi Netanyahu was Iran’s ballistic missile program. It really was not
+      a discussion… Instead it was Bibi, with his advisers, trying to sell Trump and
+      his team on the necessity of ending Iran’s ballistic missile capability. Why the
+      emphasis on those missiles when, until recently, the big concern was whether Iran
+      could build a nuclear bomb? The US and Israeli narrative about Iran’s missile
+      and drone strikes in Israel during the 12-day war in June 2025 insists that Iran
+      did little damage and that the combined might of US and Israeli air-defense systems
+      knocked down 90% of the Iranian ballistic missiles. If that was true, why is Netanyahu
+      pressing Trump touting on the need for Iran to eliminate its ballistic missile
+      force? I have the answer… We need only look at the damage Iran’s ballistic missiles
+      caused in Israel during the 12-day war in June 2025 — based on reporting and independent
+      analyses of the conflict (much of the detailed damage was initially censored or
+      not fully disclosed by Israeli authorities , but independent and foreign sources
+      have provided information). Iran launched more than 1,000 ballistic missiles toward
+      Israel over the 12 days, often in large salvos that overwhelmed the Israeli and
+      US air defenses. Israel’s multilayered missile defense systems intercepted some,
+      but a significant number still penetrated and struck targets. H undreds of buildings
+      in major cities such as Tel Aviv suburbs (Bat Yam, Ramat Gan) were damaged — with
+      some buildings so badly hit they were later demolished. In Tel Aviv alone, analysts
+      mapped damage to around 480 buildings across multiple strike sites. Iranian missiles
+      damaged key public facilities, such as the Soroka Medical Center in Be’er Sheva,
+      which was hit by an Iranian missile, causing structural damage and chemical leaks;
+      the affected wing was evacuated. Power and water infrastructure also were hit,
+      contributing to service disruptions. Iran’s ballistic strikes hit high-value facilities
+      as well. The Weizmann Institute of Science (a major research institution in Rehovot)
+      was severely damaged — with an estimated 90% of structures affected , destruction
+      of dozens of labs, and suspension of about 25% of its operations . Independent
+      radar data and reporting showed that Iranian missiles directly hit around five
+      Israeli Defense Forces (IDF) facilities , including an air base, intelligence
+      center, and logistics base. Israeli authorities did not publicly confirm these
+      hits at the time, due to military censorship. Israeli oil refining infrastructure
+      — especially in Haifa Bay — also suffered direct hits and damage from Iranian
+      missiles , including to critical units and pipelines at the Bazan refinery and
+      associated casualties. The strike on the Bazan oil refinery complex in Haifa Bay
+      , one of Israel’s most important energy facilities, heavily damaged the power
+      generation unit and other infrastructure critical for operation. Wednesday’s meeting
+      between Trump and Netanyahu lasted nearly three hours (longer than scheduled)
+      and, according to Israeli media , also included US Secretary of State Marco Rubio,
+      Defense Secretary Pete Hegseth, US Special Envoy Steve Witkoff, Jared Kushner,
+      US Ambassador to Israel Mike Huckabee, Israel’s ambassador to the US Yechiel Leiter,
+      Military Secretary Maj.-Gen. Roman Gofman, acting director of the National Security
+      Council Gil Reich, Michael Eisenberg, Ziv Agmon, and advisor Ofir Falk. So what
+      did President Trump and Bibi talk about on Wednesday. According to the Jerusalem
+      Post : [T}he prime minister presented intelligence on Iran’s military buildup
+      , including developments related to its ballistic missile program. He also conveyed
+      the message that if Trump decides to strike Iran, the operation should include
+      targeting the ballistic missile project as well. Haaretz echoed the Jerusalem
+      Post’s report, but also noted that Netanyahu iis worried that Trump will strike
+      a deal with Iran that ensures Iran does not and will not have a nuke. Netanyahu
+      thinks that would be bad for Israel: Messages from the Prime Minister’s Office
+      indicate that such a deal would be bad not only for Israel but for the entire
+      Middle East. Netanyahu was expected to attempt to thwart an agreement that does
+      not include significant restrictions on ballistic missile production in Iran,
+      while at the same time avoiding being perceived as encouraging the United States
+      to go to war with unpredictable outcomes. Remember all the times that Bibi showed
+      up at the UN and the US Congress with pictures of an imaginary Iranian nuclear
+      bomb? The bomb is no longer the Israeli priority… Eliminating Iran’s ballistic
+      missiles is now number one on the hit list because Israel took a severe beating
+      last June and Netanyhu fears what Iran could do if Iran makes good on its threats
+      to unleash its missile force if attacked. Trump tried to placate Bibi by announcing
+      that he has ordered the Navy to PREPARE to deploy another carrier strike group
+      to the Arabian Sea. The key word is PREPARE … Preparing is not the same as a Deployment
+      Order. I am happy to say that I was wrong about the US launching an attack this
+      week. Based on Trump’s account of the session with Bibi, there is going to be
+      at least one more round of talks in Oman between the US and Iran before a new
+      attack on Iran is unleashed. Despite Trump’s constant boasting about the mighty
+      prowess of the US military, the US lacks the capability to destroy Iran’s ballistic
+      missile force. For starters, the Iranian missiles are stored below ground in hardened
+      tunnels that are scattered across Iran. The US military embarrassed itself last
+      March when it failed to destroy the Houthi ballistic missiles during the seven
+      weeks of Operation Rough Rider … Finding and destroying a mobile missile launcher
+      is damn hard. Unlike Yemen, which did not have an integrated air-defense system
+      or an air force, Iran has both. The lack of air supremacy by the US complicates
+      the task of locating and destroying ballistic missiles in Iran. And that is assuming
+      that Iran is not also using decoys in order to deplete the US inventory of missiles
+      it would use to destroy the Iranian capability. Iran is willing and ready to make
+      a deal that will assure Trump that it is not building a nuke. And, based on Rick
+      Sanchez’s recent interview with Iran’s Foreign Minister Araghchi, Iran is willing
+      to make concessions on the enrichment of uranium. While Trump will be loathe to
+      admit it, if he accepts Iran’s offer then he is in effect reviving the JCPOA.
+      Danny Davis and I discussed the situation with Iran in depth today: Andrey Klintsevich,
+      a Russian military and political analyst, who is a co-chair of the International
+      Unity Club , interviewed me last Wednesday (the video just posted today on the
+      Club’s YouTube channel) about the political situation in the United States: I
+      thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: During a meeting between Donald Trump and Bibi Netanyahu,
+      the primary focus was on persuading Trump to support the elimination of Iran's
+      ballistic missile program, despite claims that Iran's missile strikes during the
+      June 2025 war caused minimal damage.
+    paragraph_summary: During a recent meeting between Donald Trump and Israeli Prime
+      Minister Bibi Netanyahu, the primary focus was on Iran's ballistic missile program,
+      with Netanyahu attempting to persuade Trump of the necessity to eliminate this
+      capability. Despite previous concerns centered on Iran's potential nuclear weapons
+      development, the emphasis on missiles arises from the significant damage inflicted
+      during the 12-day conflict in June 2025, where Iran launched over 1,000 ballistic
+      missiles at Israel. While US and Israeli air defenses reportedly intercepted a
+      large percentage of these missiles, many still struck key targets, causing extensive
+      damage to hundreds of buildings, including critical infrastructure like hospitals
+      and utilities. This situation raises questions about the effectiveness of the
+      air defense systems and underscores the urgency Netanyahu feels regarding Iran's
+      missile capabilities.
+    published: '2026-02-12T04:53:21+00:00'
+  - title: Why ARE the US and Israel Obsessed With Eliminating Iran’s Ballistic Missiles?
+    url: https://sonar21.com/why-are-the-us-and-israel-obsessed-with-eliminating-irans-ballistic-missiles/
+    text: 'It appears the main topic of discussion at Wednesday’s meeting between Donald
+      Trump and Bibi Netanyahu was Iran’s ballistic missile program. It really was not
+      a discussion… Instead it was Bibi, with his advisers, trying to sell Trump and
+      his team on the necessity of ending Iran’s ballistic missile capability. Why the
+      emphasis on those missiles when, until recently, the big concern was whether Iran
+      could build a nuclear bomb? The US and Israeli narrative about Iran’s missile
+      and drone strikes in Israel during the 12-day war in June 2025 insists that Iran
+      did little damage and that the combined might of US and Israeli air-defense systems
+      knocked down 90% of the Iranian ballistic missiles. If that was true, why is Netanyahu
+      pressing Trump touting on the need for Iran to eliminate its ballistic missile
+      force? I have the answer… We need only look at the damage Iran’s ballistic missiles
+      caused in Israel during the 12-day war in June 2025 — based on reporting and independent
+      analyses of the conflict (much of the detailed damage was initially censored or
+      not fully disclosed by Israeli authorities , but independent and foreign sources
+      have provided information). Iran launched more than 1,000 ballistic missiles toward
+      Israel over the 12 days, often in large salvos that overwhelmed the Israeli and
+      US air defenses. Israel’s multilayered missile defense systems intercepted some,
+      but a significant number still penetrated and struck targets. H undreds of buildings
+      in major cities such as Tel Aviv suburbs (Bat Yam, Ramat Gan) were damaged — with
+      some buildings so badly hit they were later demolished. In Tel Aviv alone, analysts
+      mapped damage to around 480 buildings across multiple strike sites. Iranian missiles
+      damaged key public facilities, such as the Soroka Medical Center in Be’er Sheva,
+      which was hit by an Iranian missile, causing structural damage and chemical leaks;
+      the affected wing was evacuated. Power and water infrastructure also were hit,
+      contributing to service disruptions. Iran’s ballistic strikes hit high-value facilities
+      as well. The Weizmann Institute of Science (a major research institution in Rehovot)
+      was severely damaged — with an estimated 90% of structures affected , destruction
+      of dozens of labs, and suspension of about 25% of its operations . Independent
+      radar data and reporting showed that Iranian missiles directly hit around five
+      Israeli Defense Forces (IDF) facilities , including an air base, intelligence
+      center, and logistics base. Israeli authorities did not publicly confirm these
+      hits at the time, due to military censorship. Israeli oil refining infrastructure
+      — especially in Haifa Bay — also suffered direct hits and damage from Iranian
+      missiles , including to critical units and pipelines at the Bazan refinery and
+      associated casualties. The strike on the Bazan oil refinery complex in Haifa Bay
+      , one of Israel’s most important energy facilities, heavily damaged the power
+      generation unit and other infrastructure critical for operation. Wednesday’s meeting
+      between Trump and Netanyahu lasted nearly three hours (longer than scheduled)
+      and, according to Israeli media , also included US Secretary of State Marco Rubio,
+      Defense Secretary Pete Hegseth, US Special Envoy Steve Witkoff, Jared Kushner,
+      US Ambassador to Israel Mike Huckabee, Israel’s ambassador to the US Yechiel Leiter,
+      Military Secretary Maj.-Gen. Roman Gofman, acting director of the National Security
+      Council Gil Reich, Michael Eisenberg, Ziv Agmon, and advisor Ofir Falk. So what
+      did President Trump and Bibi talk about on Wednesday. According to the Jerusalem
+      Post : [T}he prime minister presented intelligence on Iran’s military buildup
+      , including developments related to its ballistic missile program. He also conveyed
+      the message that if Trump decides to strike Iran, the operation should include
+      targeting the ballistic missile project as well. Haaretz echoed the Jerusalem
+      Post’s report, but also noted that Netanyahu iis worried that Trump will strike
+      a deal with Iran that ensures Iran does not and will not have a nuke. Netanyahu
+      thinks that would be bad for Israel: Messages from the Prime Minister’s Office
+      indicate that such a deal would be bad not only for Israel but for the entire
+      Middle East. Netanyahu was expected to attempt to thwart an agreement that does
+      not include significant restrictions on ballistic missile production in Iran,
+      while at the same time avoiding being perceived as encouraging the United States
+      to go to war with unpredictable outcomes. Remember all the times that Bibi showed
+      up at the UN and the US Congress with pictures of an imaginary Iranian nuclear
+      bomb? The bomb is no longer the Israeli priority… Eliminating Iran’s ballistic
+      missiles is now number one on the hit list because Israel took a severe beating
+      last June and Netanyhu fears what Iran could do if Iran makes good on its threats
+      to unleash its missile force if attacked. Trump tried to placate Bibi by announcing
+      that he has ordered the Navy to PREPARE to deploy another carrier strike group
+      to the Arabian Sea. The key word is PREPARE … Preparing is not the same as a Deployment
+      Order. I am happy to say that I was wrong about the US launching an attack this
+      week. Based on Trump’s account of the session with Bibi, there is going to be
+      at least one more round of talks in Oman between the US and Iran before a new
+      attack on Iran is unleashed. Despite Trump’s constant boasting about the mighty
+      prowess of the US military, the US lacks the capability to destroy Iran’s ballistic
+      missile force. For starters, the Iranian missiles are stored below ground in hardened
+      tunnels that are scattered across Iran. The US military embarrassed itself last
+      March when it failed to destroy the Houthi ballistic missiles during the seven
+      weeks of Operation Rough Rider … Finding and destroying a mobile missile launcher
+      is damn hard. Unlike Yemen, which did not have an integrated air-defense system
+      or an air force, Iran has both. The lack of air supremacy by the US complicates
+      the task of locating and destroying ballistic missiles in Iran. And that is assuming
+      that Iran is not also using decoys in order to deplete the US inventory of missiles
+      it would use to destroy the Iranian capability. Iran is willing and ready to make
+      a deal that will assure Trump that it is not building a nuke. And, based on Rick
+      Sanchez’s recent interview with Iran’s Foreign Minister Araghchi, Iran is willing
+      to make concessions on the enrichment of uranium. While Trump will be loathe to
+      admit it, if he accepts Iran’s offer then he is in effect reviving the JCPOA.
+      Danny Davis and I discussed the situation with Iran in depth today: Andrey Klintsevich,
+      a Russian military and political analyst, who is a co-chair of the International
+      Unity Club , interviewed me last Wednesday (the video just posted today on the
+      Club’s YouTube channel) about the political situation in the United States: I
+      thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: During a meeting between Donald Trump and Bibi Netanyahu,
+      the primary focus was on persuading Trump to support the elimination of Iran's
+      ballistic missile program, despite claims that Iran's missile strikes during the
+      June 2025 war caused minimal damage.
+    paragraph_summary: During a recent meeting between Donald Trump and Israeli Prime
+      Minister Bibi Netanyahu, the primary focus was on Iran's ballistic missile program,
+      with Netanyahu attempting to persuade Trump of the necessity to eliminate this
+      capability. Despite previous concerns centered on Iran's potential nuclear weapons
+      development, the emphasis on missiles arises from the significant damage inflicted
+      during the 12-day conflict in June 2025, where Iran launched over 1,000 ballistic
+      missiles at Israel. While US and Israeli air defenses reportedly intercepted a
+      large percentage of these missiles, many still struck key targets, causing extensive
+      damage to hundreds of buildings, including critical infrastructure like hospitals
+      and utilities. This situation raises questions about the effectiveness of the
+      air defense systems and underscores the urgency Netanyahu feels regarding Iran's
+      missile capabilities.
+    published: '2026-02-12T04:53:21+00:00'
   - title: Foreign Minister Lavrov Says Negotiations With the US Are Moving in the Wrong
       Direction
     url: https://sonar21.com/foreign-minister-lavrov-says-negotiations-with-the-us-are-moving-in-the-wrong-direction/

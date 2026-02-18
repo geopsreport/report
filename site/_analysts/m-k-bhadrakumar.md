@@ -7,16 +7,96 @@ description: "Retired Indian ambassador with deep Eurasia/Middle East experience
 websites:
   - https://indianpunchline.com
 summary: |
-  Amid persistent global tensions, the past 12 hours have seen significant diplomatic activity in the Middle East, with potential implications for US-Iran relations and broader regional stability. Meanwhile, the evolving security landscape in Eastern Europe and Latin America continues to shape the multipolar world order.
+  The latest developments in global affairs underscore a period of heightened diplomatic activity and recalibration of power centers, with the United States, Iran, and Russia at the forefront of shifting dynamics.
   
-  The most notable recent development is the meeting between Ali Larijani, Iran’s influential foreign policy strategist, and Omani Sultan Haitham bin Tariq. According to **M. K. Bhadrakumar**, this engagement signals a renewed Iranian effort to seek a balanced agreement with the United States, leveraging Oman’s traditional mediating role. The talks come at a time of heightened US-Iran tensions, but the choice of Oman as a venue suggests both sides are open to pragmatic negotiation. There is a high chance these backchannel efforts could de-escalate immediate risks of conflict in the Gulf, especially as US policymakers, including Secretary of State Marco Rubio, have recently called for “rational discourse” despite Israeli pressure for a harder line.
+  The most significant new development is President Donald Trump’s direct involvement in the US-Iran negotiations underway in Geneva. As reported by **M. K. Bhadrakumar**, Trump’s hands-on approach follows his meeting with Israeli Prime Minister Benjamin Netanyahu, signaling Washington’s intent to tightly manage the process and balance Israeli concerns with the pursuit of a negotiated outcome. This marks a notable evolution from earlier, more confrontational postures, and suggests a tactical pivot toward engagement—albeit with Trump’s characteristic unpredictability.
   
-  In Eastern Europe, the trilateral security talks in Abu Dhabi between Ukraine, the US, and Russia have shown “initial signs of progress,” as reported by **M. K. Bhadrakumar**. This development defies earlier pessimistic forecasts and indicates that all parties may be recalibrating their positions in light of shifting global alliances. While concrete outcomes remain to be seen, the willingness to engage signals a possible thaw—at least at the diplomatic level.
+  Meanwhile, the Russian leadership is closely monitoring these shifts. **M. K. Bhadrakumar** notes Foreign Minister Sergey Lavrov’s rare address to the State Duma, which reflects the Kremlin’s anxiety about the changing US foreign policy landscape. Moscow perceives the current moment as the dawn of a “new era of global development,” with multipolarity and recalibrated alliances increasingly defining the international order.
   
-  Turning to Latin America, the US continues to back acting Venezuelan president Delcy Rodriguez as a potential successor to Nicolás Maduro. This is occurring alongside a broader rightward political shift in the region, exemplified by José Antonio Kast’s victory in Chile. **M. K. Bhadrakumar** notes that these trends are “in sync with Trump’s hemispheric security strategy,” which aims to consolidate US influence amid growing Chinese and Russian interest in the Western Hemisphere.
+  On the regional front, Iran’s diplomatic outreach continues, with Ali Larijani’s recent consultations in Oman aimed at securing a balanced agreement with the US. This move is widely interpreted as an effort to de-escalate tensions and avoid direct confrontation, a sentiment echoed by the majority of analysts.
   
-  In summary, the current period is marked by cautious diplomatic engagement on multiple fronts. The majority of analysts cited by **M. K. Bhadrakumar** agree that, while risks remain, there is a high chance of de-escalation in the Gulf and incremental progress in Ukraine. The US is most definitely consolidating its position in Latin America, leveraging both political and military means. The overall trend points toward a pragmatic, transactional approach to crisis management as the world adjusts to the realities of multipolarity.
+  Looking ahead, the prevailing consensus among independent observers is that, despite the visible military posturing and intense rhetoric, President Trump is unlikely to initiate a major conflict in the Gulf. As **M. K. Bhadrakumar** assesses, “the odds are 8-1 Trump won’t start a Gulf war.” There is high confidence that the negotiations will remain the primary channel for managing US-Iran tensions, with all sides seeking to avoid a destabilizing escalation.
+  
+  In summary, the current trajectory points toward cautious diplomatic engagement, with the US and Iran testing the waters for a potential breakthrough, while Russia and other global actors adjust to the evolving balance of power. The coming days will be critical in determining whether this fragile opening can be sustained or if entrenched interests will reassert themselves. For now, the trend is toward negotiation over confrontation, and it is quite likely this will persist in the near term.
 articles:
+  - title: Trump takes hands-on role in Iran talks
+    url: https://www.indianpunchline.com/trump-takes-hands-on-role-in-iran-talks/
+    text: The US President Donald Trump (R) met with Israeli Prime Minister Benjamin
+      Netanyahu at the White House, February 11, 2026 Picking up the threads from where
+      I last wrote on the US-Iran negotiations a week ago in my blog titled Odds are
+      8-1 Trump won’t start a Gulf war, the talks beginning in Geneva today … Continue
+      reading "Trump takes hands-on role in Iran talks" The post Trump takes hands-on
+      role in Iran talks appeared first on Indian Punchline .
+    one_sentence_summary: President Donald Trump is actively involved in the US-Iran
+      negotiations that began in Geneva, following his meeting with Israeli Prime Minister
+      Benjamin Netanyahu.
+    paragraph_summary: On February 11, 2026, US President Donald Trump met with Israeli
+      Prime Minister Benjamin Netanyahu at the White House, as the US-Iran negotiations
+      commenced in Geneva. This meeting marks a continuation of Trump's active involvement
+      in diplomatic efforts concerning Iran, following his previous commentary on the
+      likelihood of avoiding conflict in the Gulf. The article highlights Trump's hands-on
+      approach to the negotiations, emphasizing the significance of these discussions
+      in the context of US-Iran relations.
+    published: '2026-02-17T10:49:46+00:00'
+  - title: Trump takes hands-on role in Iran talks
+    url: https://www.indianpunchline.com/trump-takes-hands-on-role-in-iran-talks/
+    text: The US President Donald Trump (R) met with Israeli Prime Minister Benjamin
+      Netanyahu at the White House, February 11, 2026 Picking up the threads from where
+      I last wrote on the US-Iran negotiations a week ago in my blog titled Odds are
+      8-1 Trump won’t start a Gulf war, the talks beginning in Geneva today … Continue
+      reading "Trump takes hands-on role in Iran talks" The post Trump takes hands-on
+      role in Iran talks appeared first on Indian Punchline .
+    one_sentence_summary: President Donald Trump is actively involved in the US-Iran
+      negotiations that began in Geneva, following his meeting with Israeli Prime Minister
+      Benjamin Netanyahu.
+    paragraph_summary: On February 11, 2026, US President Donald Trump met with Israeli
+      Prime Minister Benjamin Netanyahu at the White House, as the US-Iran negotiations
+      commenced in Geneva. This meeting marks a continuation of Trump's active involvement
+      in diplomatic efforts concerning Iran, following his previous commentary on the
+      likelihood of avoiding conflict in the Gulf. The article highlights Trump's hands-on
+      approach to the negotiations, emphasizing the significance of these discussions
+      in the context of US-Iran relations.
+    published: '2026-02-17T10:49:46+00:00'
+  - title: Lavrov sees a new era of global development
+    url: https://www.indianpunchline.com/lavrov-sees-a-new-era-of-global-development/
+    text: The rare appearance by Russian Foreign Minister Sergey Lavrov at the State
+      Duma is always a special occasion to read the tea leaves in Russian politics.
+      The salience here, to my mind, lies in the confirmation, if one was needed, that
+      the Kremlin is watching with growing anxiety the transition of the US foreign
+      policies, … Continue reading "Lavrov sees a new era of global development" The
+      post Lavrov sees a new era of global development appeared first on Indian Punchline
+      .
+    one_sentence_summary: Russian Foreign Minister Sergey Lavrov's rare appearance at
+      the State Duma highlights the Kremlin's increasing concern over shifts in US foreign
+      policy amidst a perceived new era of global development.
+    paragraph_summary: Russian Foreign Minister Sergey Lavrov's recent appearance at
+      the State Duma highlights the Kremlin's increasing concern over shifts in U.S.
+      foreign policy. During his address, Lavrov emphasized the emergence of a new era
+      in global development, suggesting that Russia is closely monitoring international
+      dynamics and positioning itself in response to these changes. His remarks reflect
+      a broader anxiety within the Russian leadership regarding the implications of
+      U.S. actions on global affairs.
+    published: '2026-02-13T06:44:14+00:00'
+  - title: Lavrov sees a new era of global development
+    url: https://www.indianpunchline.com/lavrov-sees-a-new-era-of-global-development/
+    text: The rare appearance by Russian Foreign Minister Sergey Lavrov at the State
+      Duma is always a special occasion to read the tea leaves in Russian politics.
+      The salience here, to my mind, lies in the confirmation, if one was needed, that
+      the Kremlin is watching with growing anxiety the transition of the US foreign
+      policies, … Continue reading "Lavrov sees a new era of global development" The
+      post Lavrov sees a new era of global development appeared first on Indian Punchline
+      .
+    one_sentence_summary: Russian Foreign Minister Sergey Lavrov's rare appearance at
+      the State Duma highlights the Kremlin's increasing concern over shifts in US foreign
+      policy amidst a perceived new era of global development.
+    paragraph_summary: Russian Foreign Minister Sergey Lavrov's recent appearance at
+      the State Duma highlights the Kremlin's increasing concern over shifts in U.S.
+      foreign policy. During his address, Lavrov emphasized the emergence of a new era
+      in global development, suggesting that Russia is closely monitoring international
+      dynamics and positioning itself in response to these changes. His remarks reflect
+      a broader anxiety within the Russian leadership regarding the implications of
+      U.S. actions on global affairs.
+    published: '2026-02-13T06:44:14+00:00'
   - title: Odds are 8-1 Trump won’t start a Gulf war
     url: https://www.indianpunchline.com/odds-are-8-1-trump-wont-start-a-gulf-war/
     text: The éminence grise of Iran’s foreign and security policy strategy and Secretary

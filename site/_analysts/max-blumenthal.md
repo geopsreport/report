@@ -7,21 +7,160 @@ description: "Investigative journalist and filmmaker; founder of The Grayzone; c
 websites:
   - https://thegrayzone.com
 summary: |
-  Amid ongoing tensions in Latin America and the Middle East, recent independent reporting has brought to light several covert operations and information campaigns shaping the current geopolitical landscape.
+  The past days have seen mounting scrutiny of Western political and corporate actors, with new revelations raising questions about government stability, corporate ethics, and the ongoing manipulation of geopolitical narratives.
   
-  The most significant new development concerns Venezuela, where a US-funded journalist has claimed that the Trump administration is holding a secret indictment against Acting President Delcy Rodríguez. According to **Max Blumenthal**, this alleged indictment is intended as leverage to influence Rodríguez’s decisions at a critical juncture for US-Venezuelan relations. This revelation comes as Washington continues to pursue aggressive legal and political strategies against top Venezuelan officials, following earlier reports of questionable evidence and possible CIA involvement in the case against Nicolás Maduro.
+  A major development is the scandal involving a think tank tied to British Prime Minister Keir Starmer, which, according to **Max Blumenthal**, hired a PR firm to spy on journalists. This revelation has intensified concerns about the security of Starmer’s government, with critics questioning the implications for press freedom and transparency in the UK. The fallout is ongoing, and there is a high chance this will further erode public trust in the current administration.
   
-  In the UK, new scrutiny has emerged over the historic Kincora scandal. **Max Blumenthal** highlights unresolved allegations that British intelligence may have operated the Kincora group home in Belfast as a “honeypot” for blackmail, targeting influential figures. The release of files related to Jeffrey Epstein has reignited debate over the extent of intelligence agencies’ involvement in sexual abuse and blackmail operations, suggesting that the full scope of these activities remains obscured.
+  On the corporate front, Apple’s recent $2 billion acquisition of an Israeli “pre-speech” technology startup has sparked controversy. As **Blumenthal** reports, the startup has no products or revenues, and its employees have been implicated in actions linked to the Gaza genocide. This move has drawn criticism from human rights advocates and could have significant reputational consequences for Apple. There is a high chance that this acquisition will face further scrutiny from both the media and regulatory bodies, especially given the ongoing tensions surrounding Israel’s actions in Gaza.
   
-  Meanwhile, in Iran, Western officials are citing an unverified death toll of 30,000 protesters to justify escalating actions against the country. **Max Blumenthal** points out that this figure originates from a dubious source—an anonymous individual with questionable credentials—raising concerns about the manipulation of information to legitimize foreign intervention. This follows a pattern of Western media relying on regime change-oriented NGOs and questionable data, which has previously influenced public perception and policy.
+  Meanwhile, the intersection of energy policy and conflict remains a focal point. At a recent American Petroleum Institute summit, oil industry leaders described the Iran war as the “biggest opportunity” for their interests, while also expressing dissatisfaction with the Trump administration’s Venezuela policy. **Blumenthal** notes that the industry’s focus on Iran underscores the extent to which geopolitical instability is being leveraged for profit, even as official narratives justify escalation based on questionable sources, such as the unverified Iranian protest death toll.
   
-  **Trends and Predictions:**  
-  The majority of sources suggest that the US is increasingly relying on legal and information warfare to achieve its foreign policy objectives, particularly in Venezuela and Iran. The use of secret indictments and questionable data points to a broader trend of leveraging covert tools for regime change. In the UK, the resurfacing of intelligence-linked abuse scandals signals growing public skepticism toward official narratives and intelligence oversight.
-  
-  Looking ahead, there is a high chance that the US will continue to escalate legal and psychological pressure on Venezuelan leaders, with further leaks or revelations likely. In Iran, the amplification of unverified casualty figures is quite likely to be used to justify additional sanctions or covert operations. In the UK, renewed attention to historic intelligence abuses may prompt further investigations, though a full accounting remains unlikely in the near term.
-  
-  As these stories develop, the interplay between covert operations, media narratives, and legal strategies will remain central to understanding the evolving geopolitical environment.
+  Trends indicate a deepening crisis of legitimacy for Western governments and corporations as their covert operations and opportunistic maneuvers come to light. It is quite likely that further leaks and investigative reports will continue to expose these dynamics, fueling public skepticism and international tensions. I guarantee that scrutiny of both government and corporate actors will intensify in the coming weeks, with potential for significant political fallout in the UK and reputational damage for major tech firms.
 articles:
+  - title: Keir Starmer-tied think tank paid PR firm to target The Grayzone
+    url: https://thegrayzone.com/2026/02/15/starmer-think-tank-paid-firm-target-grayzone/
+    text: A shadowy think tank run by British PM Keir Starmer’s top strategist has been
+      exposed for paying a PR firm to spy on journalists including me and the outlet
+      I write for, The Grayzone. Will the scandal push an already collapsing Starmer
+      government over the edge? Leaked files have revealed that Labour Together, the
+      shadowy think tank run by disgraced former top Keir Starmer aide Morgan McSweeney,
+      paid the Washington DC-based corporate intelligence firm APCO Worldwide to spy
+      on journalists […] The post Keir Starmer-tied think tank paid PR firm to target
+      The Grayzone first appeared on The Grayzone . The post Keir Starmer-tied think
+      tank paid PR firm to target The Grayzone appeared first on The Grayzone .
+    one_sentence_summary: A think tank associated with British PM Keir Starmer has been
+      implicated in a scandal for hiring a PR firm to spy on journalists, raising questions
+      about the stability of his government.
+    paragraph_summary: A think tank associated with British Prime Minister Keir Starmer,
+      called Labour Together and led by his former aide Morgan McSweeney, has come under
+      fire for hiring the corporate intelligence firm APCO Worldwide to monitor journalists,
+      including those from The Grayzone. Leaked documents have revealed this controversial
+      practice, raising questions about the ethical implications and potentially exacerbating
+      the already precarious situation of Starmer's government. The scandal could further
+      undermine public trust and push the government closer to collapse.
+    published: '2026-02-16T04:35:22+00:00'
+  - title: Keir Starmer-tied think tank paid PR firm to target The Grayzone
+    url: https://thegrayzone.com/2026/02/15/starmer-think-tank-paid-firm-target-grayzone/
+    text: A shadowy think tank run by British PM Keir Starmer’s top strategist has been
+      exposed for paying a PR firm to spy on journalists including me and the outlet
+      I write for, The Grayzone. Will the scandal push an already collapsing Starmer
+      government over the edge? Leaked files have revealed that Labour Together, the
+      shadowy think tank run by disgraced former top Keir Starmer aide Morgan McSweeney,
+      paid the Washington DC-based corporate intelligence firm APCO Worldwide to spy
+      on journalists […] The post Keir Starmer-tied think tank paid PR firm to target
+      The Grayzone first appeared on The Grayzone . The post Keir Starmer-tied think
+      tank paid PR firm to target The Grayzone appeared first on The Grayzone .
+    one_sentence_summary: A think tank associated with British PM Keir Starmer has been
+      implicated in a scandal for hiring a PR firm to spy on journalists, raising questions
+      about the stability of his government.
+    paragraph_summary: A think tank associated with British Prime Minister Keir Starmer,
+      called Labour Together and led by his former aide Morgan McSweeney, has come under
+      fire for hiring the corporate intelligence firm APCO Worldwide to monitor journalists,
+      including those from The Grayzone. Leaked documents have revealed this controversial
+      practice, raising questions about the ethical implications and potentially exacerbating
+      the already precarious situation of Starmer's government. The scandal could further
+      undermine public trust and push the government closer to collapse.
+    published: '2026-02-16T04:35:22+00:00'
+  - title: Apple buys Israeli ‘pre-speech’ tech firm implicated in Gaza genocide
+    url: https://thegrayzone.com/2026/02/15/apple-buys-israeli-pre-speech-firm/
+    text: The world’s second-largest tech company just acquired a military-linked Israeli
+      startup that uses “facial skin micromovements” to anticipate what users will say
+      before they speak. This article was originally published by ¡Do Not Panic! Tech
+      giant Apple has quietly paid nearly $2 billion for a “pre-speech” tech company
+      whose employees helped Israel commit genocide in Gaza. In the second-biggest deal
+      in its history, Apple paid this money for a company that doesn’t have a product,
+      doesn’t have any revenues and whose website […] The post Apple buys Israeli ‘pre-speech’
+      tech firm implicated in Gaza genocide first appeared on The Grayzone . The post
+      Apple buys Israeli ‘pre-speech’ tech firm implicated in Gaza genocide appeared
+      first on The Grayzone .
+    one_sentence_summary: Apple has acquired an Israeli startup specializing in "pre-speech"
+      technology for nearly $2 billion, despite the company's lack of products and revenues,
+      and its employees' alleged involvement in actions linked to genocide in Gaza.
+    paragraph_summary: Apple has acquired an Israeli startup specializing in "pre-speech"
+      technology that analyzes facial skin micromovements to predict users' speech,
+      in a deal valued at nearly $2 billion, marking one of the largest acquisitions
+      in the company's history. The startup, which reportedly has no products or revenue,
+      has faced scrutiny due to its employees' alleged involvement in actions linked
+      to the genocide in Gaza. This acquisition has raised ethical concerns regarding
+      Apple's investment in a company associated with such serious allegations.
+    published: '2026-02-15T20:04:59+00:00'
+  - title: Apple buys Israeli ‘pre-speech’ tech firm implicated in Gaza genocide
+    url: https://thegrayzone.com/2026/02/15/apple-buys-israeli-pre-speech-firm/
+    text: The world’s second-largest tech company just acquired a military-linked Israeli
+      startup that uses “facial skin micromovements” to anticipate what users will say
+      before they speak. This article was originally published by ¡Do Not Panic! Tech
+      giant Apple has quietly paid nearly $2 billion for a “pre-speech” tech company
+      whose employees helped Israel commit genocide in Gaza. In the second-biggest deal
+      in its history, Apple paid this money for a company that doesn’t have a product,
+      doesn’t have any revenues and whose website […] The post Apple buys Israeli ‘pre-speech’
+      tech firm implicated in Gaza genocide first appeared on The Grayzone . The post
+      Apple buys Israeli ‘pre-speech’ tech firm implicated in Gaza genocide appeared
+      first on The Grayzone .
+    one_sentence_summary: Apple has acquired an Israeli startup specializing in "pre-speech"
+      technology for nearly $2 billion, despite the company's lack of products and revenues,
+      and its employees' alleged involvement in actions linked to genocide in Gaza.
+    paragraph_summary: Apple has acquired an Israeli startup specializing in "pre-speech"
+      technology that analyzes facial skin micromovements to predict users' speech,
+      in a deal valued at nearly $2 billion, marking one of the largest acquisitions
+      in the company's history. The startup, which reportedly has no products or revenue,
+      has faced scrutiny due to its employees' alleged involvement in actions linked
+      to the genocide in Gaza. This acquisition has raised ethical concerns regarding
+      Apple's investment in a company associated with such serious allegations.
+    published: '2026-02-15T20:04:59+00:00'
+  - title: Iran war described as ‘biggest opportunity’ at US oil lobby’s DC summit
+    url: https://thegrayzone.com/2026/02/13/iran-war-opportunity-oil-lobbys/
+    text: An attendee told The Grayzone that oil industry heavyweights were less excited
+      about Trump’s Venezuela policy, privately complaining about the President’s aggressive
+      push to restart their operations. When the American Petroleum Institute (API)
+      gathered oil industry leaders and lobbyists for a “State of American Energy” summit on
+      January 16, 2026, the geopolitical landscape seemed to be shifting dramatically
+      in their favor. However, an attendee of the resource extraction cartel’s most
+      important annual lobbying conference told The Grayzone that participants privately
+      grumbled about […] The post Iran war described as ‘biggest opportunity’ at US
+      oil lobby’s DC summit first appeared on The Grayzone . The post Iran war described
+      as ‘biggest opportunity’ at US oil lobby’s DC summit appeared first on The Grayzone
+      .
+    one_sentence_summary: At a recent American Petroleum Institute summit, oil industry
+      leaders expressed dissatisfaction with Trump's Venezuela policy, despite viewing
+      the shifting geopolitical landscape, including the Iran war, as a significant
+      opportunity for their interests.
+    paragraph_summary: At the American Petroleum Institute's "State of American Energy"
+      summit on January 16, 2026, oil industry leaders expressed dissatisfaction with
+      President Trump's aggressive Venezuela policy, which aimed to revive their operations
+      in the region. Despite the geopolitical landscape appearing to shift in favor
+      of the oil sector, attendees privately voiced concerns about the implications
+      of the ongoing Iran war, which some described as a significant opportunity for
+      the industry. This sentiment highlights a complex relationship between political
+      developments and the interests of oil executives, as they navigate the challenges
+      and potential benefits of international conflicts.
+    published: '2026-02-13T17:14:30+00:00'
+  - title: Iran war described as ‘biggest opportunity’ at US oil lobby’s DC summit
+    url: https://thegrayzone.com/2026/02/13/iran-war-opportunity-oil-lobbys/
+    text: An attendee told The Grayzone that oil industry heavyweights were less excited
+      about Trump’s Venezuela policy, privately complaining about the President’s aggressive
+      push to restart their operations. When the American Petroleum Institute (API)
+      gathered oil industry leaders and lobbyists for a “State of American Energy” summit on
+      January 16, 2026, the geopolitical landscape seemed to be shifting dramatically
+      in their favor. However, an attendee of the resource extraction cartel’s most
+      important annual lobbying conference told The Grayzone that participants privately
+      grumbled about […] The post Iran war described as ‘biggest opportunity’ at US
+      oil lobby’s DC summit first appeared on The Grayzone . The post Iran war described
+      as ‘biggest opportunity’ at US oil lobby’s DC summit appeared first on The Grayzone
+      .
+    one_sentence_summary: At a recent American Petroleum Institute summit, oil industry
+      leaders expressed dissatisfaction with Trump's Venezuela policy, despite viewing
+      the shifting geopolitical landscape, including the Iran war, as a significant
+      opportunity for their interests.
+    paragraph_summary: At the American Petroleum Institute's "State of American Energy"
+      summit on January 16, 2026, oil industry leaders expressed dissatisfaction with
+      President Trump's aggressive Venezuela policy, which aimed to revive their operations
+      in the region. Despite the geopolitical landscape appearing to shift in favor
+      of the oil sector, attendees privately voiced concerns about the implications
+      of the ongoing Iran war, which some described as a significant opportunity for
+      the industry. This sentiment highlights a complex relationship between political
+      developments and the interests of oil executives, as they navigate the challenges
+      and potential benefits of international conflicts.
+    published: '2026-02-13T17:14:30+00:00'
   - title: US holds secret indictment of Delcy Rodriguez, top opposition journo claims
     url: https://thegrayzone.com/2026/02/10/secret-indictment-delcy-rodriguez-opposition-journo/
     text: A US-funded opposition journalist revealed the Trump DOJ has crafted a secret

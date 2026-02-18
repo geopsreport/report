@@ -7,16 +7,136 @@ description: "Jack Rasmus is an American economist, author, and radio show host 
 websites:
   - https://jackrasmus.com/
 summary: |
-  As global markets continue to reel from sharp contractions, the geopolitical and economic landscape is showing signs of heightened instability. Recent analyses highlight the convergence of financial volatility, questionable economic narratives from the Trump administration, and a shifting focus in U.S. foreign policy.
+  Four years into the Ukraine war, the geopolitical landscape remains volatile, with the conflict’s persistence shaping both regional and global dynamics. According to **Jack Rasmus**, recent analysis at the Niebyl-Proctor Library emphasized the entrenched nature of the Ukraine/NATO confrontation and the considerable obstacles to a negotiated settlement. The ongoing war continues to test U.S. and NATO strategies, while Russian military capabilities in the region remain robust, complicating Western efforts to shift the balance.
   
-  The most immediate development is the pronounced downturn across multiple asset classes. According to **Jack Rasmus**, "recent sharp contractions in various asset markets, including stocks, cryptocurrencies, and precious metals," are flashing red warning signals. Rasmus attributes these contractions to a combination of speculative bubbles, underlying economic weaknesses, and policy missteps. He warns that the disconnect between official economic messaging and real data is growing, especially as President Trump continues to tout what Rasmus calls a "fake news" version of U.S. economic health. The majority view among analysts is that these asset bubbles are not isolated and could trigger broader financial instability if not addressed.
+  Meanwhile, the Trump administration’s foreign policy has seen a marked pivot. As **Jack Rasmus** notes, there is a discernible shift in U.S. focus away from Europe and Ukraine toward asserting influence in Latin America and the western Pacific. This realignment is driven by both strategic and economic calculations, with Washington seeking to counter emerging threats and maintain its regional dominance.
   
-  On the monetary front, there is increasing attention on the Federal Reserve's anticipated rate cuts under its new chair. Rasmus notes that the "accelerating fluctuations in gold prices and the declining value of the US dollar" are directly tied to expectations of looser monetary policy. This dynamic is eroding confidence in the dollar and, by extension, the global economic standing of the U.S. Rasmus argues that these trends are symptomatic of deeper structural weaknesses in the U.S. economy, which are being masked by short-term financial engineering.
+  On the domestic front, the U.S. economy faces mounting pressures. The unwinding of AI and stock market bubbles, as discussed by **Jack Rasmus**, is spreading contagion across asset classes, raising the specter of a broader financial crisis by 2026 or 2027. The job market remains stagnant, and recent contractions in stocks, cryptocurrencies, and precious metals signal deepening vulnerabilities. The anticipated lowering of interest rates by the new Federal Reserve chair, coupled with the declining value of the U.S. dollar, further underscores the fragility of the current economic order.
   
-  In terms of foreign policy, the U.S. is undergoing a strategic pivot. As Rasmus reports, there is a "shift in focus from Europe and Ukraine to assert influence and counter threats in the Western Hemisphere and the western Pacific." This realignment is seen as an attempt to shore up U.S. influence closer to home amid growing challenges abroad. The administration's controversial moves—such as renewed interest in Greenland and aggressive tariff policies—are viewed as part of a broader effort to reassert American power, though their effectiveness remains in question.
-  
-  Looking ahead, the consensus among independent analysts is that the risk of a broader financial crisis is rising. Rasmus states with high confidence: "I guarantee that unless there is a fundamental change in policy direction, the U.S. will face continued economic instability and geopolitical pushback." The expectation is for continued volatility in asset markets, a weakening dollar, and further shifts in U.S. foreign policy priorities as the administration seeks to manage both domestic and international pressures.
+  Looking ahead, **Jack Rasmus** predicts with high confidence that the U.S. will continue to face significant economic and geopolitical headwinds. The Ukraine conflict shows little sign of resolution, and the risk of a major market implosion is “most definitely” on the horizon. The Trump administration’s assertive foreign policy and domestic economic interventions are unlikely to reverse these trends, suggesting continued instability both at home and abroad.
 articles:
+  - title: Ukraine War 4 Years After
+    url: https://jackrasmus.com/2026/02/17/ukraine-war-4-years-after/
+    text: My presentation to the Niebyl-Proctor Library in Oakland, California on the
+      state of the Ukraine/NATO war with Russia after four years. A brief history of
+      the conflict since 1994 and the US empire decision to move NATO east, events under
+      George Bush, the 2014 coup under Obama, Biden’s escalation in 2021 and the course
+      of the war since February 2022. Topics covered include why Europe NATO elites
+      want the war to continue, EU plans for war with Russia by 2030, Zelensky-EU alliance.
+      Trump’s ‘Kellogg plan’ in 2025, breakdown of the Anchorage meeting and tentative
+      agreement between Trump and Putin, and why no negotiated settlement will occur.
+      US use of negotiations as a deception tactic in Ukraine, Iran, Venezuela and elsewhere.
+      Why the US empire has become unaffordable and is being restructured by Trump.
+      And why Russia’s current SMO military forces are sufficient to take the 4 oblasts
+      (Lughansk, Donetsk, Zaparozhie, Kherson) but not the rest of Ukraine up to the
+      Dniper river and Kiev. The changing nature of war technology today.
+    one_sentence_summary: The presentation at the Niebyl-Proctor Library analyzed the
+      Ukraine/NATO conflict's history and dynamics, highlighting U.S. and NATO strategies,
+      the ongoing war's implications, and the challenges to achieving a negotiated settlement,
+      while also addressing the geopolitical shifts under Trump and the military capabilities
+      of Russian forces in the region.
+    paragraph_summary: The presentation at the Niebyl-Proctor Library in Oakland, California,
+      provided an in-depth analysis of the ongoing Ukraine/NATO conflict with Russia,
+      tracing its roots back to 1994 and highlighting key events such as NATO's eastward
+      expansion under George Bush, the 2014 coup during Obama's administration, and
+      Biden's escalation in 2021. It discussed the motivations behind European NATO
+      elites' desire for the war to persist, including EU plans for a confrontation
+      with Russia by 2030 and the alliance between Zelensky and the EU. The presentation
+      also touched on Trump's proposed 'Kellogg plan' for 2025, the breakdown of negotiations
+      in Anchorage, and the improbability of a negotiated settlement, suggesting that
+      US diplomatic efforts are often deceptive. Additionally, it examined the unsustainability
+      of the US empire, the restructuring under Trump, and assessed Russia's military
+      capabilities in the context of the conflict, while addressing the evolving nature
+      of warfare technology.
+    published: '2026-02-17T20:30:10+00:00'
+  - title: Ukraine War 4 Years After
+    url: https://jackrasmus.com/2026/02/17/ukraine-war-4-years-after/
+    text: My presentation to the Niebyl-Proctor Library in Oakland, California on the
+      state of the Ukraine/NATO war with Russia after four years. A brief history of
+      the conflict since 1994 and the US empire decision to move NATO east, events under
+      George Bush, the 2014 coup under Obama, Biden’s escalation in 2021 and the course
+      of the war since February 2022. Topics covered include why Europe NATO elites
+      want the war to continue, EU plans for war with Russia by 2030, Zelensky-EU alliance.
+      Trump’s ‘Kellogg plan’ in 2025, breakdown of the Anchorage meeting and tentative
+      agreement between Trump and Putin, and why no negotiated settlement will occur.
+      US use of negotiations as a deception tactic in Ukraine, Iran, Venezuela and elsewhere.
+      Why the US empire has become unaffordable and is being restructured by Trump.
+      And why Russia’s current SMO military forces are sufficient to take the 4 oblasts
+      (Lughansk, Donetsk, Zaparozhie, Kherson) but not the rest of Ukraine up to the
+      Dniper river and Kiev. The changing nature of war technology today.
+    one_sentence_summary: The presentation at the Niebyl-Proctor Library analyzed the
+      Ukraine/NATO conflict's history and dynamics, highlighting U.S. and NATO strategies,
+      the ongoing war's implications, and the challenges to achieving a negotiated settlement,
+      while also addressing the geopolitical shifts under Trump and the military capabilities
+      of Russian forces in the region.
+    paragraph_summary: The presentation at the Niebyl-Proctor Library in Oakland, California,
+      provided an in-depth analysis of the ongoing Ukraine/NATO conflict with Russia,
+      tracing its roots back to 1994 and highlighting key events such as NATO's eastward
+      expansion under George Bush, the 2014 coup during Obama's administration, and
+      Biden's escalation in 2021. It discussed the motivations behind European NATO
+      elites' desire for the war to persist, including EU plans for a confrontation
+      with Russia by 2030 and the alliance between Zelensky and the EU. The presentation
+      also touched on Trump's proposed 'Kellogg plan' for 2025, the breakdown of negotiations
+      in Anchorage, and the improbability of a negotiated settlement, suggesting that
+      US diplomatic efforts are often deceptive. Additionally, it examined the unsustainability
+      of the US empire, the restructuring under Trump, and assessed Russia's military
+      capabilities in the context of the conflict, while addressing the evolving nature
+      of warfare technology.
+    published: '2026-02-17T20:30:10+00:00'
+  - title: AI and Stock Market Bubbles Now Unwinding
+    url: https://jackrasmus.com/2026/02/13/ai-and-stock-market-bubbles-now-unwinding/
+    text: 'https://alternativevisions.podbean.com/e/alternative-visions-with-dr-jack-rasmus-are-ai-stock-market-bubbles-now-unwinding/
+      Continuing the theme of recent weeks observing the slow motion crisis in AI and
+      financial asset markets (SP500, Nasdaq, Cryptos, Gold-Silver), today’s show discusses
+      how it appears contagion across financial asset markets has begun. Where’s the
+      likely ‘black swan’? What’s happening to stocks in software, financial, and transport
+      as AI destruction becomes more evident. What’s driving the imminent crisis in
+      AI, cryptos and metals? Why 2026 or 27 result in a financial markets implosion,
+      likely at end of year. Previous market crashes are compared: 1987, 1998, 2007,
+      2019, 2023. How’s this different. The show will conclude with further discussion
+      of Trump’s ‘fake news’ US economy, as recent US jobs numbers show stagnant job
+      market continues.'
+    one_sentence_summary: The podcast discusses the unfolding crisis in AI and financial
+      markets, highlighting the contagion across various asset classes and predicting
+      a potential market implosion by 2026 or 2027, while also comparing past market
+      crashes and addressing the current stagnant job market in the U.S. economy.
+    paragraph_summary: In the latest episode of "Alternative Visions," Dr. Jack Rasmus
+      examines the ongoing crisis in AI and financial asset markets, including the S&P
+      500, Nasdaq, cryptocurrencies, and precious metals like gold and silver. He discusses
+      the emerging contagion across these markets and speculates on potential "black
+      swan" events that could trigger a financial implosion, possibly by the end of
+      2026 or 2027. Rasmus compares current market conditions to previous crashes in
+      1987, 1998, 2007, 2019, and 2023, highlighting the unique factors at play this
+      time. The episode also critiques the portrayal of the U.S. economy under Trump,
+      noting stagnant job growth despite optimistic job reports.
+    published: '2026-02-13T23:56:08+00:00'
+  - title: AI and Stock Market Bubbles Now Unwinding
+    url: https://jackrasmus.com/2026/02/13/ai-and-stock-market-bubbles-now-unwinding/
+    text: 'https://alternativevisions.podbean.com/e/alternative-visions-with-dr-jack-rasmus-are-ai-stock-market-bubbles-now-unwinding/
+      Continuing the theme of recent weeks observing the slow motion crisis in AI and
+      financial asset markets (SP500, Nasdaq, Cryptos, Gold-Silver), today’s show discusses
+      how it appears contagion across financial asset markets has begun. Where’s the
+      likely ‘black swan’? What’s happening to stocks in software, financial, and transport
+      as AI destruction becomes more evident. What’s driving the imminent crisis in
+      AI, cryptos and metals? Why 2026 or 27 result in a financial markets implosion,
+      likely at end of year. Previous market crashes are compared: 1987, 1998, 2007,
+      2019, 2023. How’s this different. The show will conclude with further discussion
+      of Trump’s ‘fake news’ US economy, as recent US jobs numbers show stagnant job
+      market continues.'
+    one_sentence_summary: The podcast discusses the unfolding crisis in AI and financial
+      markets, highlighting the contagion across various asset classes and predicting
+      a potential market implosion by 2026 or 2027, while also comparing past market
+      crashes and addressing the current stagnant job market in the U.S. economy.
+    paragraph_summary: In the latest episode of "Alternative Visions," Dr. Jack Rasmus
+      examines the ongoing crisis in AI and financial asset markets, including the S&P
+      500, Nasdaq, cryptocurrencies, and precious metals like gold and silver. He discusses
+      the emerging contagion across these markets and speculates on potential "black
+      swan" events that could trigger a financial implosion, possibly by the end of
+      2026 or 2027. Rasmus compares current market conditions to previous crashes in
+      1987, 1998, 2007, 2019, and 2023, highlighting the unique factors at play this
+      time. The episode also critiques the portrayal of the U.S. economy under Trump,
+      noting stagnant job growth despite optimistic job reports.
+    published: '2026-02-13T23:56:08+00:00'
   - title: Financial Bubbles Flashing Red + Trump’s ‘Fake News’ US Economy
     url: https://jackrasmus.com/2026/02/09/financial-bubbles-flashing-red-trumps-fake-news-us-economy/
     text: 'Today’s show discusses the contractions in asset markets this past week and

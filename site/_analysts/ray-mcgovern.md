@@ -7,16 +7,556 @@ description: "27-year CIA analyst turned independent; co-founder of Veteran Inte
 websites:
   - https://consortiumnews.com
 summary: |
-  As global tensions persist, recent developments underscore the persistence of unresolved power dynamics and the growing scrutiny of government transparency. The past 24 hours have seen new momentum in both US domestic oversight and the ongoing debate over Europe’s post-colonial role.
+  As the Middle East and South Asia remain at the forefront of global attention, recent developments signal significant shifts in both regional dynamics and broader international policy.
   
-  The most immediate news centers on US Representative Thomas Massie’s intention to press Attorney General Pam Bondi over the continued redaction of Jeffrey Epstein-related files. According to **Ray McGovern**, Massie’s questioning is expected during Bondi’s upcoming appearance before the House Judiciary Committee. This move reflects mounting bipartisan frustration with the Department of Justice’s opacity, particularly regarding high-profile cases with international implications. The majority of analysts cited by McGovern agree that public pressure for disclosure is likely to intensify, with a high chance of further Congressional action if the DOJ maintains its current stance.
+  In Israel-Palestine, the ongoing violence in Gaza and the West Bank continues to draw condemnation and debate. Notably, two prominent Jewish historians, cited by **Ray McGovern**, now argue that the establishment of a single democratic secular state in Palestine is not only achievable but inevitable, even in the face of what they describe as genocide and ethnic cleansing. This perspective, gaining traction among intellectuals, suggests a growing recognition that the current trajectory is unsustainable and that a fundamental political transformation is most definitely on the horizon. I guarantee that, barring dramatic policy reversals, the push for a single state solution will intensify in the coming months.
   
-  On the international front, the legacy of colonialism remains a central theme in European foreign policy debates. **Raïs Neza Boneza** contends that, despite perceptions of progress, Europe continues to grapple with the same foundational issues in global politics, albeit under “improved circumstances.” This view is echoed by a majority of independent voices, who see Europe’s influence as having diversified rather than diminished. The consensus is that these dynamics will continue to shape migration, trade, and security policies, with a high chance of further friction between European powers and the Global South.
+  Turning to South Asia, Bangladesh has completed its first free election in years, resulting in a victory for the secular Bangladesh National Party over U.S.-backed Islamist factions. **Ray McGovern** highlights this as a decisive rejection of Islamist rule, reflecting a broader regional trend toward secular governance and a rebuke of foreign interference. There is high chance that this outcome will embolden other secular movements in the region and complicate U.S. influence in South Asian politics.
   
-  Migration itself remains a critical flashpoint. **Vijay Prashad** highlights the staggering figure of 304 million economic migrants in 2024, emphasizing the perilous conditions many face. Prashad and other analysts argue that the root cause—lack of dignified employment in poorer nations—remains unaddressed, predicting with high confidence that migration pressures will persist unless structural inequalities are tackled.
+  In the United States, the Federal Judicial Center has withdrawn its official guidance for judges on evaluating climate-related evidence, following pressure from Republican state attorneys. **Ray McGovern** notes that this leaves the judiciary without crucial support at a time when climate litigation is escalating. The move is quite likely to hinder the effective adjudication of climate cases and signals a broader retreat from climate policy at the federal level.
   
-  In summary, the current geopolitical climate is marked by persistent demands for transparency in the US, ongoing European struggles with post-colonial realities, and the enduring crisis of global migration. The prevailing trend is one of incremental but mounting pressure on institutions to adapt or face escalating public and international scrutiny. Most analysts agree that, barring significant policy shifts, these issues are set to remain at the forefront of global affairs in the coming months.
+  Overall, the trends point toward deepening polarization and the erosion of established norms—whether in the context of Israel-Palestine, South Asian politics, or U.S. climate policy. The majority of analysts agree that these developments are setting the stage for further instability and contestation, with high confidence that transformative changes—especially in the Israeli-Palestinian conflict—are now inevitable.
 articles:
+  - title: Israel on the Brink
+    url: https://consortiumnews.com/2026/02/17/israel-on-the-brink/
+    text: Amid the largest genocide of this century in Gaza and the violent ethnic cleansing
+      on the West Bank, two prominent Jewish historians believe that one democratic
+      secular state in Palestine is not only achievable but inevitable, writes Stefan
+      Moore. By… Read more →
+    one_sentence_summary: Two prominent Jewish historians argue that, despite the ongoing
+      genocide in Gaza and ethnic cleansing in the West Bank, the establishment of a
+      single democratic secular state in Palestine is both achievable and inevitable.
+    paragraph_summary: In the context of the ongoing humanitarian crisis in Gaza and
+      the West Bank, two notable Jewish historians argue that the establishment of a
+      single democratic secular state in Palestine is both attainable and inevitable.
+      The article, written by Stefan Moore, highlights their perspective amidst the
+      backdrop of significant violence and ethnic cleansing in the region, suggesting
+      a potential path forward for peace and coexistence.
+    published: '2026-02-17T19:02:46+00:00'
+  - title: Israel on the Brink
+    url: https://consortiumnews.com/2026/02/17/israel-on-the-brink/
+    text: Amid the largest genocide of this century in Gaza and the violent ethnic cleansing
+      on the West Bank, two prominent Jewish historians believe that one democratic
+      secular state in Palestine is not only achievable but inevitable, writes Stefan
+      Moore. By… Read more →
+    one_sentence_summary: Two prominent Jewish historians argue that, despite the ongoing
+      genocide in Gaza and ethnic cleansing in the West Bank, the establishment of a
+      single democratic secular state in Palestine is both achievable and inevitable.
+    paragraph_summary: In the context of the ongoing humanitarian crisis in Gaza and
+      the West Bank, two notable Jewish historians argue that the establishment of a
+      single democratic secular state in Palestine is both attainable and inevitable.
+      The article, written by Stefan Moore, highlights their perspective amidst the
+      backdrop of significant violence and ethnic cleansing in the region, suggesting
+      a potential path forward for peace and coexistence.
+    published: '2026-02-17T19:02:46+00:00'
+  - title: US Agency Pulls Climate From Judges’ Manual
+    url: https://consortiumnews.com/2026/02/17/us-agency-pulls-climate-from-judges-manual/
+    text: The move by the Federal Judicial Center in the U.S. leaves judges without
+      any official support on how to weigh evidence about basic weather and climate
+      changes,  Abrahm Lustgarten reports. By Abrahm Lustgarten ProPublica Under pressure
+      from Republican state attorneys… Read more →
+    one_sentence_summary: The Federal Judicial Center has withdrawn official guidance
+      for judges on evaluating evidence related to weather and climate changes, leaving
+      them without support amid pressure from Republican state attorneys.
+    paragraph_summary: The Federal Judicial Center in the U.S. has decided to withdraw
+      its official guidance on how judges should evaluate evidence related to weather
+      and climate changes, a move that leaves the judiciary without formal support in
+      this area. This decision comes amid pressure from Republican state attorneys,
+      raising concerns about the implications for legal cases involving climate-related
+      issues.
+    published: '2026-02-17T17:00:38+00:00'
+  - title: US Agency Pulls Climate From Judges’ Manual
+    url: https://consortiumnews.com/2026/02/17/us-agency-pulls-climate-from-judges-manual/
+    text: The move by the Federal Judicial Center in the U.S. leaves judges without
+      any official support on how to weigh evidence about basic weather and climate
+      changes,  Abrahm Lustgarten reports. By Abrahm Lustgarten ProPublica Under pressure
+      from Republican state attorneys… Read more →
+    one_sentence_summary: The Federal Judicial Center has withdrawn official guidance
+      for judges on evaluating evidence related to weather and climate changes, leaving
+      them without support amid pressure from Republican state attorneys.
+    paragraph_summary: The Federal Judicial Center in the U.S. has decided to withdraw
+      its official guidance on how judges should evaluate evidence related to weather
+      and climate changes, a move that leaves the judiciary without formal support in
+      this area. This decision comes amid pressure from Republican state attorneys,
+      raising concerns about the implications for legal cases involving climate-related
+      issues.
+    published: '2026-02-17T17:00:38+00:00'
+  - title: Why Bangladesh Rejected Islamist Rule
+    url: https://consortiumnews.com/2026/02/17/why-bangladesh-rejected-islamist-rule/
+    text: The first free election in Bangladesh in years saw the Islamists, courted
+      by the U.S., losing to the secular Bangladesh National Party, reports Betwa Sharma.
+      By Betwa Sharma in Delhi, India Special to Consortium News Bangladesh has elected
+      a new government… Read more →
+    one_sentence_summary: In Bangladesh's first free election in years, the secular
+      Bangladesh National Party emerged victorious over the U.S.-backed Islamists.
+    paragraph_summary: In Bangladesh's first free election in years, the secular Bangladesh
+      National Party emerged victorious, defeating the Islamists who had garnered support
+      from the U.S. This significant political shift marks a pivotal moment in the country's
+      governance, as reported by Betwa Sharma from Delhi, India.
+    published: '2026-02-17T12:47:00+00:00'
+  - title: Why Bangladesh Rejected Islamist Rule
+    url: https://consortiumnews.com/2026/02/17/why-bangladesh-rejected-islamist-rule/
+    text: The first free election in Bangladesh in years saw the Islamists, courted
+      by the U.S., losing to the secular Bangladesh National Party, reports Betwa Sharma.
+      By Betwa Sharma in Delhi, India Special to Consortium News Bangladesh has elected
+      a new government… Read more →
+    one_sentence_summary: In Bangladesh's first free election in years, the secular
+      Bangladesh National Party emerged victorious over the U.S.-backed Islamists.
+    paragraph_summary: In Bangladesh's first free election in years, the secular Bangladesh
+      National Party emerged victorious, defeating the Islamists who had garnered support
+      from the U.S. This significant political shift marks a pivotal moment in the country's
+      governance, as reported by Betwa Sharma from Delhi, India.
+    published: '2026-02-17T12:47:00+00:00'
+  - title: Gaza’s Technocratic Turn
+    url: https://consortiumnews.com/2026/02/16/gazas-technocratic-turn/
+    text: Trump’s National Committee for the Administration of Gaza is a part of a broader
+      strategy of genocide management, writes Yara Hawari. By Yara Hawari Al-Shabaka
+      The announcement of the National Committee for the Administration of Gaza (NCAG),
+      a 15-member technocratic… Read more →
+    one_sentence_summary: Yara Hawari argues that Trump's National Committee for the
+      Administration of Gaza is indicative of a larger strategy aimed at managing genocide
+      in the region.
+    paragraph_summary: Yara Hawari critiques the establishment of Trump's National Committee
+      for the Administration of Gaza (NCAG), arguing that it reflects a broader strategy
+      aimed at managing genocide. The NCAG, composed of 15 technocrats, is seen as part
+      of a systematic approach to control and manipulate the situation in Gaza rather
+      than genuinely addressing the humanitarian crisis. Hawari suggests that this initiative
+      is indicative of a troubling trend in U.S. foreign policy, where governance and
+      oversight are prioritized over the rights and needs of the Palestinian people.
+    published: '2026-02-16T19:00:46+00:00'
+  - title: Gaza’s Technocratic Turn
+    url: https://consortiumnews.com/2026/02/16/gazas-technocratic-turn/
+    text: Trump’s National Committee for the Administration of Gaza is a part of a broader
+      strategy of genocide management, writes Yara Hawari. By Yara Hawari Al-Shabaka
+      The announcement of the National Committee for the Administration of Gaza (NCAG),
+      a 15-member technocratic… Read more →
+    one_sentence_summary: Yara Hawari argues that Trump's National Committee for the
+      Administration of Gaza is indicative of a larger strategy aimed at managing genocide
+      in the region.
+    paragraph_summary: Yara Hawari critiques the establishment of Trump's National Committee
+      for the Administration of Gaza (NCAG), arguing that it reflects a broader strategy
+      aimed at managing genocide. The NCAG, composed of 15 technocrats, is seen as part
+      of a systematic approach to control and manipulate the situation in Gaza rather
+      than genuinely addressing the humanitarian crisis. Hawari suggests that this initiative
+      is indicative of a troubling trend in U.S. foreign policy, where governance and
+      oversight are prioritized over the rights and needs of the Palestinian people.
+    published: '2026-02-16T19:00:46+00:00'
+  - title: 'PATRICK LAWRENCE: Serial Buffoon at the Pentagon'
+    url: https://consortiumnews.com/2026/02/16/patrick-lawrence-serial-buffoon-at-the-pentagon/
+    text: Trump elevated outsiders without necessary experience to his cabinet to avoid
+      the deep state subversion that was rampant during his first term. The “blob” responded
+      by making some of them irrelevant.  By Patrick Lawrence Special to Consortium
+      News Someone wondered aloud… Read more →
+    one_sentence_summary: In an effort to combat perceived deep state subversion during
+      his first term, Trump appointed inexperienced outsiders to his cabinet, but the
+      established political system effectively marginalized many of them.
+    paragraph_summary: In his article, Patrick Lawrence discusses how former President
+      Trump appointed outsiders with little experience to his cabinet in an effort to
+      combat what he perceived as deep state subversion during his first term. However,
+      this strategy backfired as the established political "blob" effectively marginalized
+      these appointees, rendering them ineffective in their roles. Lawrence's analysis
+      highlights the challenges faced by Trump in navigating the entrenched political
+      landscape and the consequences of his unconventional approach to governance.
+    published: '2026-02-16T14:30:48+00:00'
+  - title: 'PATRICK LAWRENCE: Serial Buffoon at the Pentagon'
+    url: https://consortiumnews.com/2026/02/16/patrick-lawrence-serial-buffoon-at-the-pentagon/
+    text: Trump elevated outsiders without necessary experience to his cabinet to avoid
+      the deep state subversion that was rampant during his first term. The “blob” responded
+      by making some of them irrelevant.  By Patrick Lawrence Special to Consortium
+      News Someone wondered aloud… Read more →
+    one_sentence_summary: In an effort to combat perceived deep state subversion during
+      his first term, Trump appointed inexperienced outsiders to his cabinet, but the
+      established political system effectively marginalized many of them.
+    paragraph_summary: In his article, Patrick Lawrence discusses how former President
+      Trump appointed outsiders with little experience to his cabinet in an effort to
+      combat what he perceived as deep state subversion during his first term. However,
+      this strategy backfired as the established political "blob" effectively marginalized
+      these appointees, rendering them ineffective in their roles. Lawrence's analysis
+      highlights the challenges faced by Trump in navigating the entrenched political
+      landscape and the consequences of his unconventional approach to governance.
+    published: '2026-02-16T14:30:48+00:00'
+  - title: How the US Blockade Hurts the People of Cuba
+    url: https://consortiumnews.com/2026/02/16/how-the-us-blockade-hurts-the-people-of-cuba/
+    text: 'Medea Benjamin asks: who will win this demonic game Trump and Rubio are playing
+      with the lives of eleven million Cubans? By Medea Benjamin in Holguín, Cuba Common
+      Dreams Marta Jiménez, a hairdresser in Cuba’s eastern city of Holguín, covered
+      her… Read more →'
+    one_sentence_summary: Medea Benjamin critiques the political maneuvering of Trump
+      and Rubio regarding the fate of eleven million Cubans, highlighting the personal
+      impact on individuals like Marta Jiménez, a hairdresser in Holguín, Cuba.
+    paragraph_summary: In her article, Medea Benjamin critiques the political maneuvering
+      of Donald Trump and Marco Rubio regarding the lives of eleven million Cubans,
+      highlighting the impact of their actions on ordinary citizens like Marta Jiménez,
+      a hairdresser in Holguín. Benjamin questions the motivations behind their policies
+      and the potential consequences for the Cuban population, suggesting that the political
+      game being played is detrimental to the well-being of many.
+    published: '2026-02-16T09:00:17+00:00'
+  - title: How the US Blockade Hurts the People of Cuba
+    url: https://consortiumnews.com/2026/02/16/how-the-us-blockade-hurts-the-people-of-cuba/
+    text: 'Medea Benjamin asks: who will win this demonic game Trump and Rubio are playing
+      with the lives of eleven million Cubans? By Medea Benjamin in Holguín, Cuba Common
+      Dreams Marta Jiménez, a hairdresser in Cuba’s eastern city of Holguín, covered
+      her… Read more →'
+    one_sentence_summary: Medea Benjamin critiques the political maneuvering of Trump
+      and Rubio regarding the fate of eleven million Cubans, highlighting the personal
+      impact on individuals like Marta Jiménez, a hairdresser in Holguín, Cuba.
+    paragraph_summary: In her article, Medea Benjamin critiques the political maneuvering
+      of Donald Trump and Marco Rubio regarding the lives of eleven million Cubans,
+      highlighting the impact of their actions on ordinary citizens like Marta Jiménez,
+      a hairdresser in Holguín. Benjamin questions the motivations behind their policies
+      and the potential consequences for the Cuban population, suggesting that the political
+      game being played is detrimental to the well-being of many.
+    published: '2026-02-16T09:00:17+00:00'
+  - title: 'WATCH: The World This Week – w/Ray McGovern'
+    url: https://consortiumnews.com/2026/02/14/watch-the-world-this-week-w-ray-mcgovern/
+    text: Former C.I.A. Russia analyst Ray McGovern joins Episode 5 of The World This
+      Week to discuss the war in Ukraine and the Middle East. Saturday 8 p.m. EST. The
+      World This Week discusses the Ukraine War and the Middle East… Read more →
+    one_sentence_summary: Former C.I.A. Russia analyst Ray McGovern appears on Episode
+      5 of The World This Week to analyze the ongoing conflicts in Ukraine and the Middle
+      East, airing Saturday at 8 p.m. EST.
+    paragraph_summary: In Episode 5 of The World This Week, former C.I.A. Russia analyst
+      Ray McGovern provides insights on the ongoing conflicts in Ukraine and the Middle
+      East, highlighting key developments and implications of the wars in these regions.
+      The episode airs on Saturday at 8 p.m. EST, focusing on the geopolitical dynamics
+      and the impact of these conflicts on global stability.
+    published: '2026-02-14T07:08:21+00:00'
+  - title: 'WATCH: The World This Week – w/Ray McGovern'
+    url: https://consortiumnews.com/2026/02/14/watch-the-world-this-week-w-ray-mcgovern/
+    text: Former C.I.A. Russia analyst Ray McGovern joins Episode 5 of The World This
+      Week to discuss the war in Ukraine and the Middle East. Saturday 8 p.m. EST. The
+      World This Week discusses the Ukraine War and the Middle East… Read more →
+    one_sentence_summary: Former C.I.A. Russia analyst Ray McGovern appears on Episode
+      5 of The World This Week to analyze the ongoing conflicts in Ukraine and the Middle
+      East, airing Saturday at 8 p.m. EST.
+    paragraph_summary: In Episode 5 of The World This Week, former C.I.A. Russia analyst
+      Ray McGovern provides insights on the ongoing conflicts in Ukraine and the Middle
+      East, highlighting key developments and implications of the wars in these regions.
+      The episode airs on Saturday at 8 p.m. EST, focusing on the geopolitical dynamics
+      and the impact of these conflicts on global stability.
+    published: '2026-02-14T07:08:21+00:00'
+  - title: A Constitutional Ice Age
+    url: https://consortiumnews.com/2026/02/13/a-constitutional-ice-age/
+    text: The Fifth Circuit court rejected the supremacy of the U.S. Constitution and
+      approved ICE arrests without warrants or fair hearings, reports Judge Andrew Napolitano. 
+      By Andrew P. Napolitano Last fall during the opening of the United Nations in
+      New York City,… Read more →
+    one_sentence_summary: The Fifth Circuit court upheld ICE's authority to conduct
+      arrests without warrants or fair hearings, challenging the supremacy of the U.S.
+      Constitution, according to Judge Andrew Napolitano.
+    paragraph_summary: The Fifth Circuit court has ruled in favor of allowing Immigration
+      and Customs Enforcement (ICE) to conduct arrests without the need for warrants
+      or fair hearings, a decision that Judge Andrew Napolitano argues undermines the
+      supremacy of the U.S. Constitution. This ruling raises significant concerns about
+      the erosion of constitutional protections and civil liberties, particularly in
+      the context of immigration enforcement.
+    published: '2026-02-14T04:55:02+00:00'
+  - title: A Constitutional Ice Age
+    url: https://consortiumnews.com/2026/02/13/a-constitutional-ice-age/
+    text: The Fifth Circuit court rejected the supremacy of the U.S. Constitution and
+      approved ICE arrests without warrants or fair hearings, reports Judge Andrew Napolitano. 
+      By Andrew P. Napolitano Last fall during the opening of the United Nations in
+      New York City,… Read more →
+    one_sentence_summary: The Fifth Circuit court upheld ICE's authority to conduct
+      arrests without warrants or fair hearings, challenging the supremacy of the U.S.
+      Constitution, according to Judge Andrew Napolitano.
+    paragraph_summary: The Fifth Circuit court has ruled in favor of allowing Immigration
+      and Customs Enforcement (ICE) to conduct arrests without the need for warrants
+      or fair hearings, a decision that Judge Andrew Napolitano argues undermines the
+      supremacy of the U.S. Constitution. This ruling raises significant concerns about
+      the erosion of constitutional protections and civil liberties, particularly in
+      the context of immigration enforcement.
+    published: '2026-02-14T04:55:02+00:00'
+  - title: UK High Court Rules Terrorism Ban on Palestine Action Unlawful
+    url: https://consortiumnews.com/2026/02/13/uk-high-court-rules-terrorism-ban-on-palestine-action-unlawful/
+    text: The judgment on Friday is a major blow for former Home Secretary Yvette Cooper
+      as well as the Israeli arms companies who lobbied for a crackdown on the group,
+      John McEvoy, Dania Akkad and Martin Williams report. By John McEvoy,… Read more
+      →
+    one_sentence_summary: A recent judgment has dealt a significant setback to former
+      Home Secretary Yvette Cooper and Israeli arms companies advocating for stricter
+      measures against a particular group.
+    paragraph_summary: A recent judgment has dealt a significant setback to former Home
+      Secretary Yvette Cooper and Israeli arms companies that had advocated for stricter
+      measures against a particular group. The ruling highlights the ongoing tensions
+      surrounding arms trade and regulatory oversight, reflecting the complexities of
+      political lobbying and its impact on legal decisions.
+    published: '2026-02-13T16:09:57+00:00'
+  - title: UK High Court Rules Terrorism Ban on Palestine Action Unlawful
+    url: https://consortiumnews.com/2026/02/13/uk-high-court-rules-terrorism-ban-on-palestine-action-unlawful/
+    text: The judgment on Friday is a major blow for former Home Secretary Yvette Cooper
+      as well as the Israeli arms companies who lobbied for a crackdown on the group,
+      John McEvoy, Dania Akkad and Martin Williams report. By John McEvoy,… Read more
+      →
+    one_sentence_summary: A recent judgment has dealt a significant setback to former
+      Home Secretary Yvette Cooper and Israeli arms companies advocating for stricter
+      measures against a particular group.
+    paragraph_summary: A recent judgment has dealt a significant setback to former Home
+      Secretary Yvette Cooper and Israeli arms companies that had advocated for stricter
+      measures against a particular group. The ruling highlights the ongoing tensions
+      surrounding arms trade and regulatory oversight, reflecting the complexities of
+      political lobbying and its impact on legal decisions.
+    published: '2026-02-13T16:09:57+00:00'
+  - title: 'Patrick Lawrence: Epstein & the Age of Unreason'
+    url: https://consortiumnews.com/2026/02/13/patrick-lawrence-epstein-the-age-of-unreason/
+    text: As the rock is lifted on the Epstein files, we find beneath it the rot of
+      our foundational institutions and the beyond-belief nihilism of those who control
+      them. By Patrick Lawrence The Floutist As we read revelations of the sordid, bottomlessly…
+      Read more →
+    one_sentence_summary: The article discusses the disturbing revelations surrounding
+      the Epstein files, highlighting the corruption within foundational institutions
+      and the extreme nihilism of those in power.
+    paragraph_summary: The article by Patrick Lawrence discusses the disturbing revelations
+      surrounding the Epstein files, highlighting the deep-seated corruption within
+      foundational institutions and the alarming nihilism of those in power. It suggests
+      that as more information comes to light, it reveals not only the moral decay underlying
+      these institutions but also raises questions about the integrity and accountability
+      of those who control them.
+    published: '2026-02-13T13:23:58+00:00'
+  - title: 'Patrick Lawrence: Epstein & the Age of Unreason'
+    url: https://consortiumnews.com/2026/02/13/patrick-lawrence-epstein-the-age-of-unreason/
+    text: As the rock is lifted on the Epstein files, we find beneath it the rot of
+      our foundational institutions and the beyond-belief nihilism of those who control
+      them. By Patrick Lawrence The Floutist As we read revelations of the sordid, bottomlessly…
+      Read more →
+    one_sentence_summary: The article discusses the disturbing revelations surrounding
+      the Epstein files, highlighting the corruption within foundational institutions
+      and the extreme nihilism of those in power.
+    paragraph_summary: The article by Patrick Lawrence discusses the disturbing revelations
+      surrounding the Epstein files, highlighting the deep-seated corruption within
+      foundational institutions and the alarming nihilism of those in power. It suggests
+      that as more information comes to light, it reveals not only the moral decay underlying
+      these institutions but also raises questions about the integrity and accountability
+      of those who control them.
+    published: '2026-02-13T13:23:58+00:00'
+  - title: 'ROBERT PARRY: Who Is Ari Ben-Menashe?'
+    url: https://consortiumnews.com/2026/02/13/robert-parry-who-is-ari-ben-menashe/
+    text: Ex-Israeli military intelligence officer Ari Ben-Menashe is in the news, explaining
+      Jeffrey Epstein’s decades-long intel work for Israel. But who is this man that
+      Israel has smeared and tried to silence? Ask Grok who Ari Ben-Menashe is and you
+      get… Read more →
+    one_sentence_summary: Ari Ben-Menashe, a former Israeli military intelligence officer,
+      is gaining attention for revealing Jeffrey Epstein's long-standing intelligence
+      connections to Israel, amidst efforts by Israel to discredit him.
+    paragraph_summary: Ari Ben-Menashe, a former Israeli military intelligence officer,
+      is currently in the spotlight for discussing Jeffrey Epstein's extensive intelligence
+      operations on behalf of Israel. Despite facing attempts by Israel to discredit
+      and silence him, Ben-Menashe has emerged as a controversial figure, shedding light
+      on the connections between Epstein and Israeli intelligence activities over the
+      years. His insights raise questions about the complexities of espionage and the
+      implications of Epstein's relationships within the context of international intelligence.
+    published: '2026-02-13T05:35:24+00:00'
+  - title: 'ROBERT PARRY: Who Is Ari Ben-Menashe?'
+    url: https://consortiumnews.com/2026/02/13/robert-parry-who-is-ari-ben-menashe/
+    text: Ex-Israeli military intelligence officer Ari Ben-Menashe is in the news, explaining
+      Jeffrey Epstein’s decades-long intel work for Israel. But who is this man that
+      Israel has smeared and tried to silence? Ask Grok who Ari Ben-Menashe is and you
+      get… Read more →
+    one_sentence_summary: Ari Ben-Menashe, a former Israeli military intelligence officer,
+      is gaining attention for revealing Jeffrey Epstein's long-standing intelligence
+      connections to Israel, amidst efforts by Israel to discredit him.
+    paragraph_summary: Ari Ben-Menashe, a former Israeli military intelligence officer,
+      is currently in the spotlight for discussing Jeffrey Epstein's extensive intelligence
+      operations on behalf of Israel. Despite facing attempts by Israel to discredit
+      and silence him, Ben-Menashe has emerged as a controversial figure, shedding light
+      on the connections between Epstein and Israeli intelligence activities over the
+      years. His insights raise questions about the complexities of espionage and the
+      implications of Epstein's relationships within the context of international intelligence.
+    published: '2026-02-13T05:35:24+00:00'
+  - title: The Banality of Evil & Jeffrey Epstein
+    url: https://consortiumnews.com/2026/02/12/the-banality-of-evil-jeffrey-epstein/
+    text: Who was this nonpareil hustler? That is the question that challenges our understanding
+      of human behavior, says Michael Brenner. By Michael Brenner The Epstein affair
+      is the greatest scandal of modern times. In its dimension, in the scope of participants…
+      Read more →
+    one_sentence_summary: Michael Brenner argues that the Epstein scandal represents
+      the greatest modern scandal, prompting a deeper examination of human behavior
+      and the complexities surrounding the individuals involved.
+    paragraph_summary: In his article, Michael Brenner explores the complexities of
+      the Epstein scandal, describing it as the greatest scandal of modern times due
+      to its vast dimensions and the multitude of individuals involved. He emphasizes
+      the challenge it poses to our understanding of human behavior, particularly in
+      relation to the enigmatic figure of Jeffrey Epstein, whom he refers to as a "nonpareil
+      hustler." Brenner's analysis invites readers to reflect on the moral and ethical
+      implications of the scandal and the broader societal issues it raises.
+    published: '2026-02-12T17:30:18+00:00'
+  - title: The Banality of Evil & Jeffrey Epstein
+    url: https://consortiumnews.com/2026/02/12/the-banality-of-evil-jeffrey-epstein/
+    text: Who was this nonpareil hustler? That is the question that challenges our understanding
+      of human behavior, says Michael Brenner. By Michael Brenner The Epstein affair
+      is the greatest scandal of modern times. In its dimension, in the scope of participants…
+      Read more →
+    one_sentence_summary: Michael Brenner argues that the Epstein scandal represents
+      the greatest modern scandal, prompting a deeper examination of human behavior
+      and the complexities surrounding the individuals involved.
+    paragraph_summary: In his article, Michael Brenner explores the complexities of
+      the Epstein scandal, describing it as the greatest scandal of modern times due
+      to its vast dimensions and the multitude of individuals involved. He emphasizes
+      the challenge it poses to our understanding of human behavior, particularly in
+      relation to the enigmatic figure of Jeffrey Epstein, whom he refers to as a "nonpareil
+      hustler." Brenner's analysis invites readers to reflect on the moral and ethical
+      implications of the scandal and the broader societal issues it raises.
+    published: '2026-02-12T17:30:18+00:00'
+  - title: 'Jonathan Cook: Palestine Action Ban Protected Arms Industry'
+    url: https://consortiumnews.com/2026/02/12/jonathan-cook-palestine-action-ban-protected-arms-industry/
+    text: Channel 4’s documentary dissecting the proscription of Palestine Action revealed
+      the impetus behind it was to protect pro-Israel and pro-arms interests, but it
+      still engaged in pro-Israel narrative traps.  By Jonathan Cook Jonathan-Cook.net
+      Channel 4’s documentary earlier this week on Palestine… Read more →
+    one_sentence_summary: Channel 4's documentary on Palestine Action highlighted that
+      the group's proscription was primarily aimed at safeguarding pro-Israel and pro-arms
+      interests, yet it still fell into pro-Israel narrative traps.
+    paragraph_summary: Channel 4's recent documentary on Palestine Action explored the
+      motivations behind the group's proscription, highlighting that it was primarily
+      aimed at safeguarding pro-Israel and pro-arms interests. Despite this critical
+      examination, the documentary inadvertently fell into pro-Israel narrative traps,
+      suggesting a complex interplay between media representation and political agendas.
+    published: '2026-02-12T16:08:46+00:00'
+  - title: 'Jonathan Cook: Palestine Action Ban Protected Arms Industry'
+    url: https://consortiumnews.com/2026/02/12/jonathan-cook-palestine-action-ban-protected-arms-industry/
+    text: Channel 4’s documentary dissecting the proscription of Palestine Action revealed
+      the impetus behind it was to protect pro-Israel and pro-arms interests, but it
+      still engaged in pro-Israel narrative traps.  By Jonathan Cook Jonathan-Cook.net
+      Channel 4’s documentary earlier this week on Palestine… Read more →
+    one_sentence_summary: Channel 4's documentary on Palestine Action highlighted that
+      the group's proscription was primarily aimed at safeguarding pro-Israel and pro-arms
+      interests, yet it still fell into pro-Israel narrative traps.
+    paragraph_summary: Channel 4's recent documentary on Palestine Action explored the
+      motivations behind the group's proscription, highlighting that it was primarily
+      aimed at safeguarding pro-Israel and pro-arms interests. Despite this critical
+      examination, the documentary inadvertently fell into pro-Israel narrative traps,
+      suggesting a complex interplay between media representation and political agendas.
+    published: '2026-02-12T16:08:46+00:00'
+  - title: 'WATCH: Will Israel Blackmail Trump to Attack Iran?'
+    url: https://consortiumnews.com/2026/02/12/watch-will-israel-blackmail-trump-to-attack-iran/
+    text: A former senior Israeli intelligence officer tells Consortium News’ CN Live!
+      Benjamin Netanyahu can threaten to release unredacted revelations about Donald
+      Trump in the Epstein files to get him to attack Tehran.  Israeli Prime Minister
+      Benjamin Netanyahu was back at… Read more →
+    one_sentence_summary: A former senior Israeli intelligence officer suggests that
+      Benjamin Netanyahu could leverage unredacted information about Donald Trump from
+      the Epstein files to pressure him into taking military action against Tehran.
+    paragraph_summary: A former senior Israeli intelligence officer suggested that Israeli
+      Prime Minister Benjamin Netanyahu could leverage unredacted information about
+      Donald Trump from the Epstein files as a means to pressure him into taking military
+      action against Tehran. This claim was made during an interview on Consortium News’
+      CN Live!, highlighting the potential for political maneuvering between the two
+      leaders in the context of Middle Eastern tensions.
+    published: '2026-02-12T15:20:41+00:00'
+  - title: 'WATCH: Will Israel Blackmail Trump to Attack Iran?'
+    url: https://consortiumnews.com/2026/02/12/watch-will-israel-blackmail-trump-to-attack-iran/
+    text: A former senior Israeli intelligence officer tells Consortium News’ CN Live!
+      Benjamin Netanyahu can threaten to release unredacted revelations about Donald
+      Trump in the Epstein files to get him to attack Tehran.  Israeli Prime Minister
+      Benjamin Netanyahu was back at… Read more →
+    one_sentence_summary: A former senior Israeli intelligence officer suggests that
+      Benjamin Netanyahu could leverage unredacted information about Donald Trump from
+      the Epstein files to pressure him into taking military action against Tehran.
+    paragraph_summary: A former senior Israeli intelligence officer suggested that Israeli
+      Prime Minister Benjamin Netanyahu could leverage unredacted information about
+      Donald Trump from the Epstein files as a means to pressure him into taking military
+      action against Tehran. This claim was made during an interview on Consortium News’
+      CN Live!, highlighting the potential for political maneuvering between the two
+      leaders in the context of Middle Eastern tensions.
+    published: '2026-02-12T15:20:41+00:00'
+  - title: Call Trump ‘Detention Camps’ by Their Real Name
+    url: https://consortiumnews.com/2026/02/11/call-trumps-detention-camps-by-their-real-name/
+    text: 'History shows us that once a nation builds a mass detention apparatus, it
+      never remains limited to its original targets. History isn’t whispering: it’s
+      shouting, says Thom Hartmann. By Thom Hartmann Common Dreams As people testified
+      before Congress this week about… Read more →'
+    one_sentence_summary: Thom Hartmann argues that historical patterns demonstrate
+      that once a country establishes a mass detention system, it inevitably expands
+      beyond its initial targets, highlighting the urgent need for awareness and caution.
+    paragraph_summary: In his article, Thom Hartmann emphasizes that historical patterns
+      demonstrate that once a nation establishes a mass detention system, it inevitably
+      expands beyond its initial targets. He argues that this trend is evident and alarming,
+      as it reflects a broader tendency for such systems to be misused and to affect
+      more individuals than originally intended. Hartmann's commentary comes in the
+      context of recent congressional testimonies, highlighting the urgent need for
+      awareness and caution regarding the implications of mass detention practices.
+    published: '2026-02-11T19:00:48+00:00'
+  - title: Call Trump ‘Detention Camps’ by Their Real Name
+    url: https://consortiumnews.com/2026/02/11/call-trumps-detention-camps-by-their-real-name/
+    text: 'History shows us that once a nation builds a mass detention apparatus, it
+      never remains limited to its original targets. History isn’t whispering: it’s
+      shouting, says Thom Hartmann. By Thom Hartmann Common Dreams As people testified
+      before Congress this week about… Read more →'
+    one_sentence_summary: Thom Hartmann argues that historical patterns demonstrate
+      that once a country establishes a mass detention system, it inevitably expands
+      beyond its initial targets, highlighting the urgent need for awareness and caution.
+    paragraph_summary: In his article, Thom Hartmann emphasizes that historical patterns
+      demonstrate that once a nation establishes a mass detention system, it inevitably
+      expands beyond its initial targets. He argues that this trend is evident and alarming,
+      as it reflects a broader tendency for such systems to be misused and to affect
+      more individuals than originally intended. Hartmann's commentary comes in the
+      context of recent congressional testimonies, highlighting the urgent need for
+      awareness and caution regarding the implications of mass detention practices.
+    published: '2026-02-11T19:00:48+00:00'
+  - title: Labour Think Tank Paid to Probe Declassified Journalist
+    url: https://consortiumnews.com/2026/02/11/labour-think-tank-paid-to-probe-declassified-journalist/
+    text: Declassified UK reporter John McEvoy was among the journalists probed by a
+      PR company hired by Labour Together, which has ties to the top of the U.K. government,
+      Phil Miller reports. By Phil Miller Declassified UK A think tank with… Read more
+      →
+    one_sentence_summary: Declassified UK journalist John McEvoy was investigated by
+      a PR firm linked to Labour Together, which has connections to the upper echelons
+      of the U.K. government, as reported by Phil Miller.
+    paragraph_summary: Declassified UK reporter John McEvoy was investigated by a public
+      relations firm employed by Labour Together, an organization linked to senior figures
+      in the U.K. government. The inquiry into McEvoy and other journalists raises concerns
+      about the influence of political entities on media scrutiny and the implications
+      for press freedom. Phil Miller's report highlights the intersection of politics
+      and journalism in the context of government-affiliated think tanks.
+    published: '2026-02-11T17:00:17+00:00'
+  - title: Labour Think Tank Paid to Probe Declassified Journalist
+    url: https://consortiumnews.com/2026/02/11/labour-think-tank-paid-to-probe-declassified-journalist/
+    text: Declassified UK reporter John McEvoy was among the journalists probed by a
+      PR company hired by Labour Together, which has ties to the top of the U.K. government,
+      Phil Miller reports. By Phil Miller Declassified UK A think tank with… Read more
+      →
+    one_sentence_summary: Declassified UK journalist John McEvoy was investigated by
+      a PR firm linked to Labour Together, which has connections to the upper echelons
+      of the U.K. government, as reported by Phil Miller.
+    paragraph_summary: Declassified UK reporter John McEvoy was investigated by a public
+      relations firm employed by Labour Together, an organization linked to senior figures
+      in the U.K. government. The inquiry into McEvoy and other journalists raises concerns
+      about the influence of political entities on media scrutiny and the implications
+      for press freedom. Phil Miller's report highlights the intersection of politics
+      and journalism in the context of government-affiliated think tanks.
+    published: '2026-02-11T17:00:17+00:00'
+  - title: Israel ‘Evaporated’ Nearly 3,000 Palestinians in Gaza
+    url: https://consortiumnews.com/2026/02/11/israel-evaporated-nearly-3000-palestinians-in-gaza/
+    text: “We found nothing of Saad. Not even a body to bury. That was the hardest part,”
+      Gaza resident Yasmin Mahani told Al Jazeera. By Brad Reed Common Dreams An Al
+      Jazeera investigation based on evidence collected by the Civil Defense… Read more
+      →
+    one_sentence_summary: Gaza resident Yasmin Mahani expressed the profound grief of
+      losing her loved one, Saad, as an Al Jazeera investigation revealed the absence
+      of any remains to bury, highlighting the emotional toll of the ongoing conflict.
+    paragraph_summary: In an Al Jazeera investigation, Gaza resident Yasmin Mahani expressed
+      the profound anguish of not being able to find any trace of her loved one, Saad,
+      stating that the absence of a body to bury was the most difficult aspect of her
+      loss. The report, based on evidence gathered by the Civil Defense, highlights
+      the devastating impact of the ongoing conflict in Gaza, where families are left
+      in anguish and uncertainty over the fate of their missing relatives.
+    published: '2026-02-11T07:47:33+00:00'
+  - title: Israel ‘Evaporated’ Nearly 3,000 Palestinians in Gaza
+    url: https://consortiumnews.com/2026/02/11/israel-evaporated-nearly-3000-palestinians-in-gaza/
+    text: “We found nothing of Saad. Not even a body to bury. That was the hardest part,”
+      Gaza resident Yasmin Mahani told Al Jazeera. By Brad Reed Common Dreams An Al
+      Jazeera investigation based on evidence collected by the Civil Defense… Read more
+      →
+    one_sentence_summary: Gaza resident Yasmin Mahani expressed the profound grief of
+      losing her loved one, Saad, as an Al Jazeera investigation revealed the absence
+      of any remains to bury, highlighting the emotional toll of the ongoing conflict.
+    paragraph_summary: In an Al Jazeera investigation, Gaza resident Yasmin Mahani expressed
+      the profound anguish of not being able to find any trace of her loved one, Saad,
+      stating that the absence of a body to bury was the most difficult aspect of her
+      loss. The report, based on evidence gathered by the Civil Defense, highlights
+      the devastating impact of the ongoing conflict in Gaza, where families are left
+      in anguish and uncertainty over the fate of their missing relatives.
+    published: '2026-02-11T07:47:33+00:00'
   - title: US Rep Pushes DOJ on Epstein File Redactions
     url: https://consortiumnews.com/2026/02/10/us-rep-pushes-doj-on-epstein-file-redactions/
     text: Thomas Massie says that when U.S. Attorney General Pam Bondi appears before
